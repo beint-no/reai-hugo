@@ -1,0 +1,47 @@
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{{ if .Title }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
+  <meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}" />
+
+  <!-- Tailwind CSS via CDN -->
+  <!-- Include Typography plugin so prose classes work -->
+  <script src="https://cdn.tailwindcss.com?plugins=typography"></script>
+  <script>
+    // Minimal Tailwind config (extend colors/fonts as needed)
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            brand: {
+              DEFAULT: '#111827',
+              light: '#374151',
+            },
+            accent: '#111827'
+          },
+          typography: {
+            DEFAULT: {
+              css: {
+                h1: { fontWeight: '700' },
+                h2: { fontWeight: '700' },
+                h3: { fontWeight: '700' },
+                h4: { fontWeight: '700' },
+                'ul': { listStyleType: 'disc', paddingLeft: '1.5rem' },
+                'ol': { listStyleType: 'decimal', paddingLeft: '1.5rem' },
+                'li': { marginTop: '0.25rem', marginBottom: '0.25rem' }
+              }
+            }
+          }
+        }
+      }
+    }
+  </script>
+
+  <!-- Fonts (adjust to your brand) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    html { font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, Helvetica Neue, Arial, "Apple Color Emoji", "Segoe UI Emoji"; }
+  </style>
+</head>

@@ -1,0 +1,37 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Respiro'
+
+[menus]
+  [[menus.main]]
+  name = 'Contact us'
+  url = '/pages/contact-us/'
+  weight = 1
+
+  [[menus.main]]
+  name = 'About us'
+  url = '/pages/about-us/'
+  weight = 2
+
+  [[menus.main]]
+  name = 'Marketing blog'
+  url = '/blogs/marketing/'
+  weight = 3
+
+[params]
+  description = 'Premium activewear engineered for comfort and style.'
+
+  [[params.featured]]
+  title = 'Seamless Leggings'
+  image = 'https://images.unsplash.com/photo-1537832816519-689ad163238b?q=80&w=2069&auto=format&fit=crop'
+  url = '#'
+
+  [[params.featured]]
+  title = 'Performance Tops'
+  image = 'https://images.unsplash.com/photo-1518310383802-640c2de311b2?q=80&w=1974&auto=format&fit=crop'
+  url = '#'
+
+  [[params.featured]]
+  title = 'Accessories'
+  image = 'https://images.unsplash.com/photo-1599050751795-5bed6cdf9777?q=80&w=2070&auto=format&fit=crop'
+  url = '#'

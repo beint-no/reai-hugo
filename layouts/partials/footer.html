@@ -1,0 +1,71 @@
+<footer class="bg-slate-50 border-t border-slate-200">
+  <!-- top accent line -->
+  <div class="h-1 bg-gradient-to-r from-indigo-400 via-sky-400 to-emerald-400"></div>
+
+  <!-- content -->
+  <div class="max-w-7xl mx-auto px-4 py-12 grid grid-cols-1 md:grid-cols-12 gap-10 text-sm">
+    <!-- brand -->
+    <div class="md:col-span-5">
+      <div class="flex items-center gap-3">
+        <div class="h-9 w-9 rounded-xl bg-indigo-600 text-white grid place-items-center font-bold">R</div>
+        <div class="text-xl font-semibold tracking-tight">{{ .Site.Title }}</div>
+      </div>
+      <p class="text-gray-600 mt-3 leading-relaxed">{{ with .Site.Params.description }}{{ . }}{{ else }}Respiro AS is a software development company focusing on "AI first" systems.{{ end }}</p>
+
+      <!-- social -->
+      <div class="mt-5 flex items-center gap-4 text-gray-500">
+        <a href="/pages/contact-us/" class="p-2 rounded-lg hover:bg-white hover:shadow-sm transition" aria-label="Contact">
+          <!-- Mail icon -->
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-5 h-5"><path d="M1.5 6.75A2.25 2.25 0 0 1 3.75 4.5h16.5a2.25 2.25 0 0 1 2.25 2.25v10.5A2.25 2.25 0 0 1 20.25 19.5H3.75A2.25 2.25 0 0 1 1.5 17.25V6.75Zm2.621-.75 7.254 5.613a.75.75 0 0 0 .9 0L19.53 6h-15.41Z"/></svg>
+        </a>
+        <a href="#" class="p-2 rounded-lg hover:bg-white hover:shadow-sm transition" aria-label="Twitter">
+          <!-- Twitter icon -->
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-5 h-5"><path d="M19.633 7.997c.013.18.013.36.013.54 0 5.49-4.18 11.82-11.82 11.82-2.35 0-4.53-.69-6.36-1.88.33.04.65.05.99.05 1.95 0 3.74-.66 5.17-1.77a4.17 4.17 0 0 1-3.89-2.88c.26.04.52.06.79.06.38 0 .76-.05 1.11-.15a4.16 4.16 0 0 1-3.33-4.09v-.05c.56.31 1.2.5 1.88.53a4.16 4.16 0 0 1-1.85-3.46c0-.77.2-1.48.56-2.1a11.82 11.82 0 0 0 8.57 4.35 4.7 4.7 0 0 1-.1-.95 4.16 4.16 0 0 1 7.2-2.84 8.2 8.2 0 0 0 2.64-1 4.17 4.17 0 0 1-1.83 2.3 8.3 8.3 0 0 0 2.39-.65 8.95 8.95 0 0 1-2.08 2.15Z"/></svg>
+        </a>
+        <a href="#" class="p-2 rounded-lg hover:bg-white hover:shadow-sm transition" aria-label="LinkedIn">
+          <!-- LinkedIn icon -->
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-5 h-5"><path d="M4.98 3.5a2.5 2.5 0 1 1 0 5.001 2.5 2.5 0 0 1 0-5zM3 9h4v12H3zM14.5 9c-2.49 0-4.5 2.01-4.5 4.5V21h4v-6.5a1.5 1.5 0 0 1 3 0V21h4v-7c0-3.31-2.69-6-6-6z"/></svg>
+        </a>
+      </div>
+    </div>
+
+    <!-- links: company -->
+    <div class="md:col-span-3">
+      <div class="text-sm font-semibold text-gray-900 mb-3">Company</div>
+      <ul class="space-y-2 text-gray-700">
+        <li><a href="/pages/contact-us/" class="hover:text-black transition">Contact us</a></li>
+        <li><a href="/pages/about-us/" class="hover:text-black transition">About us</a></li>
+        <li><a href="/blogs/marketing/" class="hover:text-black transition">Marketing blog</a></li>
+      </ul>
+    </div>
+
+    <!-- links: policies -->
+    <div class="md:col-span-4">
+      <div class="text-sm font-semibold text-gray-900 mb-3">Policies</div>
+      <div class="grid grid-cols-1 sm:grid-cols-2 gap-x-8">
+        <ul class="space-y-2 text-gray-700">
+          <li><a href="/policies/refund-policy/" class="hover:text-black transition">Refund policy</a></li>
+          <li><a href="/policies/privacy-policy/" class="hover:text-black transition">Privacy policy</a></li>
+          <li><a href="/policies/terms-of-service/" class="hover:text-black transition">Terms of service</a></li>
+        </ul>
+        <ul class="space-y-2 text-gray-700 mt-4 sm:mt-0">
+          <li><a href="/policies/shipping-policy/" class="hover:text-black transition">Shipping policy</a></li>
+          <li><a href="/policies/legal-notice/" class="hover:text-black transition">Legal notice</a></li>
+          <li><a href="/policies/contact-information/" class="hover:text-black transition">Contact information</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- bottom bar -->
+  <div class="border-t border-slate-200/80 bg-white/60 backdrop-blur-sm">
+    <div class="max-w-7xl mx-auto px-4 py-6 flex flex-col md:flex-row items-center justify-between gap-3 text-gray-600 text-sm">
+      <div>© {{ now.Year }} {{ .Site.Title }}. All rights reserved.</div>
+      <div class="flex items-center gap-4">
+        <a href="/policies/privacy-policy/" class="hover:text-black transition">Privacy</a>
+        <span class="text-slate-300">•</span>
+        <a href="/policies/terms-of-service/" class="hover:text-black transition">Terms</a>
+      </div>
+    </div>
+  </div>
+</footer>
