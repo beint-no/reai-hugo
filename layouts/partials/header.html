@@ -11,7 +11,7 @@
 
       <!-- Center: Logo / Site title -->
       <a href="/" class="absolute left-1/2 -translate-x-1/2 block z-10" aria-label="Respiro">
-        {{ $logo := "/images/respiro-logo.png" }}
+        {{ $logo := "/images/Respiro-logo-black-text.avif" }}
         {{ with .Site.Params.logo }}
           {{ $logo = . }}
         {{ end }}
@@ -20,11 +20,8 @@
 
       <!-- Right: Icons & mobile menu trigger -->
       <div class="flex items-center gap-4">
-        <a href="#" class="text-gray-600 hover:text-black" aria-label="Search">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-5 h-5"><path fill-rule="evenodd" d="M10.5 3.75a6.75 6.75 0 1 0 3.91 12.266l3.787 3.787a.75.75 0 1 0 1.06-1.06l-3.787-3.787A6.75 6.75 0 0 0 10.5 3.75Zm-5.25 6.75a5.25 5.25 0 1 1 10.5 0 5.25 5.25 0 0 1-10.5 0Z" clip-rule="evenodd"/></svg>
-        </a>
-        <a href="#" class="text-gray-600 hover:text-black" aria-label="Cart">
-          <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24" class="w-5 h-5"><path d="M3 3a1 1 0 0 0 0 2h1.22l.305 1.222 1.5 6A2 2 0 0 0 8 14h8a2 2 0 0 0 1.94-1.515l1.2-4.8A1 1 0 0 0 18.17 6H6.78l-.305-1.222A2 2 0 0 0 4.22 3H3Zm5 15a2 2 0 1 0 0 4 2 2 0 0 0 0-4Zm8 0a2 2 0 1 0 .001 4.001A2 2 0 0 0 16 18Z"/></svg>
+        <a href="#" class="p-2 text-gray-600 hover:text-black rounded-lg" aria-label="Search">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-6 h-6"><path fill-rule="evenodd" d="M10.5 3.75a6.75 6.75 0 1 0 3.91 12.266l3.787 3.787a.75.75 0 1 0 1.06-1.06l-3.787-3.787A6.75 6.75 0 0 0 10.5 3.75Zm-5.25 6.75a5.25 5.25 0 1 1 10.5 0 5.25 5.25 0 0 1-10.5 0Z" clip-rule="evenodd"/></svg>
         </a>
         <button class="md:hidden" aria-label="Open Menu" onclick="document.getElementById('mobile-nav').classList.toggle('hidden')">
           <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24" class="w-6 h-6"><path d="M4 6h16v2H4V6Zm0 5h16v2H4v-2Zm0 5h16v2H4v-2Z"/></svg>
@@ -40,3 +37,4 @@
     </div>
   </div>
 </header>
+

@@ -3,6 +3,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>{{ if .Title }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
   <meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}" />
+  <link rel="icon" type="image/png" href="{{ "/images/icon-logo-resipro-black.png" | relURL }}?v={{ now.Unix }}" />
 
   <!-- Tailwind CSS via CDN -->
   <!-- Include Typography plugin so prose classes work -->

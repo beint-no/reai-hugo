@@ -4,9 +4,7 @@ description: "About Respiro | AI software company"
 layout: about
 ---
 
-# About us
-
-Respiro is a AI first software company. We produce AI enabled software to increase the productivity of companies.
+Respiro is an AI‑first software company building products that increase productivity and efficiency for modern teams.
 
 Company info
 
