@@ -14,12 +14,20 @@
       </nav>
 
       <!-- Center: Logo / Site title -->
-      <a href="/" class="absolute left-1/2 -translate-x-1/2 block z-10" aria-label="Respiro">
-        {{ $logo := "/images/Respiro-logo-black-text.avif" }}
-        {{ with .Site.Params.logo }}
-          {{ $logo = . }}
+      <a href="{{ "/" | relURL }}" class="absolute left-1/2 transform -translate-x-1/2">
+        {{ $logo := "" }}
+        {{ $formats := slice "svg" "png" "jpg" "webp" "avif" }}
+        {{ range $ext := $formats }}
+          {{ $path := printf "/images/logo.%s" $ext }}
+          {{ if fileExists (printf "static/%s" $path) }}
+            {{ $logo = $path }}
+          {{ end }}
         {{ end }}
-        <img src="{{ $logo | relURL }}?v={{ now.Unix }}" alt="Respiro logo" class="block h-10 md:h-12 lg:h-14 object-contain" loading="eager" />
+        {{ if $logo }}
+          <img src="{{ $logo | relURL }}?v={{ now.Unix }}" alt="{{ .Site.Title }} logo" class="block h-10 md:h-12 lg:h-14 object-contain mx-auto" loading="eager" />
+        {{ else }}
+          <span class="text-xl font-bold">{{ .Site.Title }}</span>
+        {{ end }}
       </a>
 
       <!-- Right: Icons & mobile menu trigger -->

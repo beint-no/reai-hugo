@@ -1,15 +1,34 @@
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>{{ if .Title }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
-  <meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}" />
-  <link rel="icon" type="image/png" href="{{ "/images/icon-logo-resipro-black.png" | relURL }}?v={{ now.Unix }}" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>
+    {{- with .Params.meta_title -}}
+      {{- . -}}
+    {{- else -}}
+      {{- if .Title -}}
+        {{- .Title -}}
+        {{- if ne .Title .Site.Title }} | {{ .Site.Title }}{{ end -}}
+      {{- else -}}
+        {{- .Site.Title -}}
+      {{- end -}}
+    {{- end -}}
+  </title>
+  <meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  
+  <!-- Favicon - uses conventional filenames -->
+  {{ $favicon := "favicon.ico" }}
+  {{ $iconTypes := slice "png" "svg" "ico" }}
+  {{ range $ext := $iconTypes }}
+    {{ $path := printf "/images/logo.%s" $ext }}
+    {{ if fileExists (printf "static/%s" $path) }}
+      {{ $favicon = $path }}
+    {{ end }}
+  {{ end }}
+  <link rel="icon" href="{{ $favicon | relURL }}?v={{ now.Unix }}" type="image/{{ path.Ext $favicon | strings.TrimPrefix "." | default "x-icon" }}">
 
-  <!-- Tailwind CSS via CDN -->
-  <!-- Include Typography plugin so prose classes work -->
+  <!-- Tailwind CSS via CDN with Typography plugin -->
   <script src="https://cdn.tailwindcss.com?plugins=typography"></script>
   <script>
-    // Minimal Tailwind config (extend colors/fonts as needed)
     tailwind.config = {
       theme: {
         extend: {
@@ -27,22 +46,17 @@
                 h2: { fontWeight: '700' },
                 h3: { fontWeight: '700' },
                 h4: { fontWeight: '700' },
-                'ul': { listStyleType: 'disc', paddingLeft: '1.5rem' },
-                'ol': { listStyleType: 'decimal', paddingLeft: '1.5rem' },
-                'li': { marginTop: '0.25rem', marginBottom: '0.25rem' }
+                ul: { listStyleType: 'disc', paddingLeft: '1.5rem' },
+                ol: { listStyleType: 'decimal', paddingLeft: '1.5rem' },
+                li: { marginTop: '0.25rem', marginBottom: '0.25rem' }
               }
             }
+          },
+          fontFamily: {
+            sans: ['system-ui', 'sans-serif']
           }
         }
       }
-    }
+    };
   </script>
-
-  <!-- Fonts (adjust to your brand) -->
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-  <style>
-    html { font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, Helvetica Neue, Arial, "Apple Color Emoji", "Segoe UI Emoji"; }
-  </style>
 </head>
