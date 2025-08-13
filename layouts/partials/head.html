@@ -26,37 +26,6 @@
   {{ end }}
   <link rel="icon" href="{{ $favicon | relURL }}?v={{ now.Unix }}" type="image/{{ path.Ext $favicon | strings.TrimPrefix "." | default "x-icon" }}">
 
-  <!-- Tailwind CSS via CDN with Typography plugin -->
-  <script src="https://cdn.tailwindcss.com?plugins=typography"></script>
-  <script>
-    tailwind.config = {
-      theme: {
-        extend: {
-          colors: {
-            brand: {
-              DEFAULT: '#111827',
-              light: '#374151',
-            },
-            accent: '#111827'
-          },
-          typography: {
-            DEFAULT: {
-              css: {
-                h1: { fontWeight: '700' },
-                h2: { fontWeight: '700' },
-                h3: { fontWeight: '700' },
-                h4: { fontWeight: '700' },
-                ul: { listStyleType: 'disc', paddingLeft: '1.5rem' },
-                ol: { listStyleType: 'decimal', paddingLeft: '1.5rem' },
-                li: { marginTop: '0.25rem', marginBottom: '0.25rem' }
-              }
-            }
-          },
-          fontFamily: {
-            sans: ['system-ui', 'sans-serif']
-          }
-        }
-      }
-    };
-  </script>
+  <!-- Tailwind CSS v4 via CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
 </head>
