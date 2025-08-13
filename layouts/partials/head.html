@@ -1,31 +1,22 @@
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>
-    {{- with .Params.meta_title -}}
-      {{- . -}}
-    {{- else -}}
-      {{- if .Title -}}
-        {{- .Title -}}
-        {{- if ne .Title .Site.Title }} | {{ .Site.Title }}{{ end -}}
-      {{- else -}}
-        {{- .Site.Title -}}
-      {{- end -}}
-    {{- end -}}
-  </title>
-  <meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
-  
-  <!-- Favicon - uses conventional filenames -->
-  {{ $favicon := "favicon.ico" }}
-  {{ $iconTypes := slice "png" "svg" "ico" }}
-  {{ range $ext := $iconTypes }}
-    {{ $path := printf "/images/logo.%s" $ext }}
-    {{ if fileExists (printf "static/%s" $path) }}
-      {{ $favicon = $path }}
-    {{ end }}
-  {{ end }}
-  <link rel="icon" href="{{ $favicon | relURL }}?v={{ now.Unix }}" type="image/{{ path.Ext $favicon | strings.TrimPrefix "." | default "x-icon" }}">
+<!-- Head partial: Tailwind v4 + Inter font -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 
-  <!-- Tailwind CSS v4 via CDN -->
-  <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
-</head>
+<script src="https://cdn.tailwindcss.com?plugins=typography"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        fontFamily: { sans: ['Inter','ui-sans-serif','system-ui','Arial','sans-serif'] },
+        colors: {
+          brand: { DEFAULT: '#111827' },
+          accent: { DEFAULT: '#2563eb' }
+        }
+      }
+    }
+  }
+</script>
+<!-- Favicon -->
+<link rel="icon" type="image/svg+xml" href="/images/ReAI-logo-square.svg">
+<link rel="shortcut icon" href="/images/ReAI-logo-square.svg">

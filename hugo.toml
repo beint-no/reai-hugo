@@ -1,22 +1,29 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'Respiro'
+baseURL = '/'
+languageCode = 'nb-no'
+title = 'ReAI'
+
+enableRobotsTXT = true
+
+[params]
+  description = 'Komplett regnskapssystem med faktura, lønn, bilagsføring og årsoppgjør.'
 
 [menus]
   [[menus.main]]
-  name = 'Contact us'
-  url = '/pages/contact-us/'
+  name = 'Produkter'
+  url = '/products/'
   weight = 1
 
   [[menus.main]]
-  name = 'About us'
-  url = '/pages/about-us/'
+  name = 'Kurs og guider'
+  url = '/courses/'
   weight = 2
 
   [[menus.main]]
-  name = 'Marketing blog'
-  url = '/blogs/marketing/'
+  name = 'Blogg'
+  url = '/blog/'
   weight = 3
 
-[params]
-  description = 'Respiro AS is a software development company focusing on "AI first" systems.'
+  [[menus.main]]
+  name = 'Kontakt oss'
+  url = '/contact/'
+  weight = 100

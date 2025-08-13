@@ -1,0 +1,15 @@
+{{ define "main" }}
+<section class="pt-10 md:pt-14">
+  <div class="max-w-5xl mx-auto px-4">
+    <h1 class="text-3xl font-semibold tracking-tight">Regnskapsblogg</h1>
+    <div class="mt-8 space-y-6">
+      {{ range .Pages }}
+      <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5">
+        <h2 class="text-xl font-semibold"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+        {{ with .Params.summary }}<p class="text-gray-700 mt-1">{{ . }}</p>{{ end }}
+      </article>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}

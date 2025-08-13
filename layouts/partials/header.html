@@ -1,49 +1,25 @@
-<header class="w-full border-b border-gray-200 sticky top-0 z-50 bg-white">
-  <div class="max-w-7xl mx-auto px-4">
-    <div class="relative flex items-center justify-between h-20">
-      <!-- Left: Navbar items -->
-      <nav class="hidden md:flex items-center gap-6 text-sm">
-        {{ $current := . }}
-        {{ range .Site.Menus.main }}
-          <a href="{{ .URL }}"
-             class="relative inline-block transition-colors duration-200 {{ if or ($current.IsMenuCurrent "main" .) ($current.HasMenuCurrent "main" .) }}text-black font-medium{{ else }}text-gray-700 hover:text-indigo-700{{ end }}
-                    after:absolute after:left-0 after:-bottom-1 after:h-0.5 after:w-0 after:bg-indigo-700 after:transition-all after:duration-200 hover:after:w-full">
-            {{ .Name }}
-          </a>
-        {{ end }}
-      </nav>
-
-      <!-- Center: Logo / Site title -->
-      <a href="{{ "/" | relURL }}" class="absolute left-1/2 transform -translate-x-1/2">
-        {{ $logo := "" }}
-        {{ $formats := slice "svg" "png" "jpg" "webp" "avif" }}
-        {{ range $ext := $formats }}
-          {{ $path := printf "/images/logo.%s" $ext }}
-          {{ if fileExists (printf "static/%s" $path) }}
-            {{ $logo = $path }}
-          {{ end }}
-        {{ end }}
-        {{ if $logo }}
-          <img src="{{ $logo | relURL }}?v={{ now.Unix }}" alt="{{ .Site.Title }} logo" class="block h-10 md:h-12 lg:h-14 object-contain mx-auto" loading="eager" />
-        {{ else }}
-          <span class="text-xl font-bold">{{ .Site.Title }}</span>
-        {{ end }}
-      </a>
-
-      <!-- Right: Icons & mobile menu trigger -->
-      <div class="flex items-center gap-4">
-        <button class="md:hidden" aria-label="Open Menu" onclick="document.getElementById('mobile-nav').classList.toggle('hidden')">
-          <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24" class="w-6 h-6"><path d="M4 6h16v2H4V6Zm0 5h16v2H4v-2Zm0 5h16v2H4v-2Z"/></svg>
+<header class="sticky top-0 z-40 bg-white/80 backdrop-blur">
+  <!-- Main header -->
+  <div class="border-b border-slate-200/70">
+    <div class="max-w-7xl mx-auto px-4">
+      <div class="h-16 flex items-center justify-between">
+        <a href="/" class="flex items-center gap-2" aria-label="{{ .Site.Title }}">
+          <img src="/images/ReAI-logo-square.svg?v=4" alt="{{ .Site.Title }} logo" class="h-14 w-14 rounded-md" width="56" height="56" loading="eager" decoding="async">
+        </a>
+        <nav class="hidden md:block">
+          <ul class="flex items-center gap-5 text-sm">
+            <li><a href="/courses/" class="text-slate-700 hover:text-black">Gratis kurs</a></li>
+            <li><a href="/contact/" class="text-slate-700 hover:text-black">Kontakt oss</a></li>
+            <li><a href="/blog/" class="text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+            <li><a href="/bli-partner/" class="text-slate-700 hover:text-black">Bli partner</a></li>
+            <li><a href="/lag-faktura/" class="text-slate-700 hover:text-black">Lag faktura</a></li>
+          </ul>
+        </nav>
+        <button class="md:hidden inline-flex items-center justify-center h-9 w-9 rounded-md border border-slate-300">
+          <span class="sr-only">Menu</span>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-5 w-5"><path d="M3.75 6.75h16.5v1.5H3.75zM3.75 11.25h16.5v1.5H3.75zM3.75 15.75h16.5v1.5H3.75z"/></svg>
         </button>
       </div>
     </div>
   </div>
-  <div id="mobile-nav" class="md:hidden hidden border-t border-gray-200">
-    <div class="max-w-7xl mx-auto px-4 py-3 flex flex-col gap-2">
-      {{ range .Site.Menus.main }}
-        <a href="{{ .URL }}" class="py-2 text-gray-700 hover:text-black">{{ .Name }}</a>
-      {{ end }}
-    </div>
-  </div>
 </header>
-

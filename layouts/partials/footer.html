@@ -1,43 +1,42 @@
-<footer class="bg-slate-50 border-t border-slate-200">
-  <!-- top accent line -->
-  <div class="h-1 bg-gradient-to-r from-indigo-400 via-sky-400 to-emerald-400"></div>
-
-  <!-- content -->
-  <div class="max-w-7xl mx-auto px-4 py-12 grid grid-cols-1 md:grid-cols-12 gap-10 text-sm">
-    <!-- brand -->
-    <div class="md:col-span-5">
-      <div class="flex items-center gap-3">
-        <div class="h-9 w-9 rounded-xl bg-indigo-600 text-white grid place-items-center font-bold">R</div>
-        <div class="text-xl font-semibold tracking-tight">{{ .Site.Title }}</div>
+<footer class="mt-16 border-t border-slate-200/70 bg-white">
+  <div class="max-w-7xl mx-auto px-4 py-14">
+    <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
+      <!-- <div>
+        <h3 class="text-sm font-semibold text-slate-900">App</h3>
+        <p class="mt-2 text-sm text-slate-600">Vi har såklart en app du kan bruke så du kan laste opp bilag fra mobilen
+          din, og ha alt av regnskap digitalt!</p>
+      </div> -->
+      <div>
+        <h3 class="text-sm font-semibold text-slate-900">Verktøy</h3>
+        <ul class="mt-2 space-y-2 text-sm text-slate-600">
+          <li><a class="hover:text-black" href="/pages/finn-iban/">IBAN kalkulator</a></li>
+          <li><a class="hover:text-black" href="/pages/lag-faktura-gratis/">Lag faktura</a></li>
+        </ul>
       </div>
-      <p class="text-gray-600 mt-3 leading-relaxed">{{ with .Site.Params.description }}{{ . }}{{ else }}Respiro AS is a software development company focusing on "AI first" systems.{{ end }}</p>
-
-    </div>
-
-    <!-- links: company -->
-    <div class="md:col-span-3 md:col-start-10">
-      <div class="text-sm font-semibold text-gray-900 mb-3">Company</div>
-      <ul class="space-y-2 text-gray-700">
-        <li><a href="/pages/contact-us/" class="transition-colors hover:text-indigo-700 hover:underline underline-offset-2 decoration-indigo-700">Contact us</a></li>
-        <li><a href="/pages/about-us/" class="transition-colors hover:text-indigo-700 hover:underline underline-offset-2 decoration-indigo-700">About us</a></li>
-        <li><a href="/blogs/marketing/" class="transition-colors hover:text-indigo-700 hover:underline underline-offset-2 decoration-indigo-700">Marketing blog</a></li>
-      </ul>
-      <div class="mt-3">
-        <a href="/pages/contact-us/" class="group inline-flex" aria-label="Email">
-          <span class="p-2 rounded-lg transition bg-transparent group-hover:bg-indigo-600 group-hover:text-white inline-flex text-gray-500">
-            <!-- Mail icon -->
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-5 h-5"><path d="M1.5 6.75A2.25 2.25 0 0 1 3.75 4.5h16.5a2.25 2.25 0 0 1 2.25 2.25v10.5A2.25 2.25 0 0 1 20.25 19.5H3.75A2.25 2.25 0 0 1 1.5 17.25V6.75Zm2.621-.75 7.254 5.613a.75.75 0 0 0 .9 0L19.53 6h-15.41Z"/></svg>
-          </span>
-        </a>
+      <div>
+        <h3 class="text-sm font-semibold text-slate-900">Selskaps-informasjon</h3>
+        <ul class="mt-2 space-y-1 text-sm text-slate-600">
+          <li>Reai AS</li>
+          <li>Orgnr: 935606403</li>
+          <li><a class="hover:text-black" href="mailto:post@reai.no">post@reai.no</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-slate-900">Om ReAI</h3>
+        <p class="mt-2 text-sm text-slate-600">ReAI er et gratis regnskapsprogram laget av tidligere ansatte i Tripletex
+          / Visma. Vi mener det er på tide med mer konkurranse i regnskaps-bransjen som kan komme bedrifter til gode.
+        </p>
       </div>
     </div>
-  </div>
-
-  <!-- bottom bar -->
-  <div class="border-t border-slate-200/80 bg-white/60 backdrop-blur-sm">
-    <div class="max-w-7xl mx-auto px-4 py-6 text-center text-gray-600 text-sm">
-      <div>© 2025 Respiro. All rights reserved.</div>
+    <div class="mt-12 border-t border-slate-200/70 pt-6 flex items-center justify-between text-sm text-slate-600">
+      <div class="flex items-center gap-2">
+        <!-- <span class="inline-block h-6 w-6 rounded-md bg-slate-900"></span> -->
+        <!-- <span class="font-medium">{{ .Site.Title }}</span> -->
+      </div>
+      <div
+        class=" w-full mt-12 border-t border-slate-200/70 pt-6 flex items-center justify-center text-sm text-slate-600">
+        <div class="opacity-80 text-center">&copy; {{ now.Year }} {{ .Site.Title }}. All rights reserved.</div>
+      </div>
     </div>
   </div>
 </footer>
-
