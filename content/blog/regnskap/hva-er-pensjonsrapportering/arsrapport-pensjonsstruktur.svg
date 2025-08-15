@@ -1,0 +1,185 @@
+<svg width="800" height="900" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6A1B9A;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4A148C;stop-opacity:1" />
+    </linearGradient>
+    <pattern id="documentPattern" patternUnits="userSpaceOnUse" width="4" height="4">
+      <rect width="4" height="4" fill="#F8F9FA"/>
+      <circle cx="2" cy="2" r="0.5" fill="#E0E0E0"/>
+    </pattern>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="900" fill="#FAFAFA"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="60" fill="url(#headerGrad)"/>
+  <text x="400" y="38" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white" text-anchor="middle">PENSJON I ÅRSRAPPORTEN - STRUKTUR</text>
+  
+  <!-- Document outline -->
+  <g transform="translate(100, 100)">
+    <rect x="0" y="0" width="600" height="750" fill="white" stroke="#666" stroke-width="2" rx="8"/>
+    
+    <!-- Document header -->
+    <rect x="0" y="0" width="600" height="50" fill="url(#documentPattern)" stroke="#666" stroke-width="1"/>
+    <text x="300" y="30" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#333" text-anchor="middle">ÅRSRAPPORT 2024</text>
+  </g>
+  
+  <!-- Section 1: Management Report -->
+  <g transform="translate(120, 180)">
+    <rect x="0" y="0" width="560" height="100" fill="#E3F2FD" stroke="#1976D2" stroke-width="2" rx="6"/>
+    <text x="280" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1565C0" text-anchor="middle">1. LEDELSENS BERETNING</text>
+    
+    <g transform="translate(20, 35)">
+      <circle cx="5" cy="5" r="3" fill="#1976D2"/>
+      <text x="15" y="9" font-family="Arial, sans-serif" font-size="11" fill="#333">Pensjonsstrategi og overordnede målsettinger</text>
+    </g>
+    <g transform="translate(20, 50)">
+      <circle cx="5" cy="5" r="3" fill="#1976D2"/>
+      <text x="15" y="9" font-family="Arial, sans-serif" font-size="11" fill="#333">Vesentlige endringer i pensjonsordninger</text>
+    </g>
+    <g transform="translate(20, 65)">
+      <circle cx="5" cy="5" r="3" fill="#1976D2"/>
+      <text x="15" y="9" font-family="Arial, sans-serif" font-size="11" fill="#333">Fremtidsutsikter og forventede utviklinger</text>
+    </g>
+    <g transform="translate(20, 80)">
+      <circle cx="5" cy="5" r="3" fill="#1976D2"/>
+      <text x="15" y="9" font-family="Arial, sans-serif" font-size="11" fill="#333">Risikoer knyttet til pensjonsforpliktelser</text>
+    </g>
+  </g>
+  
+  <!-- Section 2: Financial Statements -->
+  <g transform="translate(120, 300)">
+    <rect x="0" y="0" width="560" height="120" fill="#FFF3E0" stroke="#F57C00" stroke-width="2" rx="6"/>
+    <text x="280" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#F57C00" text-anchor="middle">2. REGNSKAP</text>
+    
+    <!-- Balance -->
+    <g transform="translate(20, 35)">
+      <rect x="0" y="0" width="150" height="70" fill="white" stroke="#FFB74D" stroke-width="1" rx="3"/>
+      <text x="75" y="15" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#F57C00" text-anchor="middle">BALANSE</text>
+      <text x="10" y="30" font-family="Arial, sans-serif" font-size="9" fill="#333">• Netto pensjonsforpl.</text>
+      <text x="10" y="45" font-family="Arial, sans-serif" font-size="9" fill="#333">• Skyldig pensjonspremie</text>
+      <text x="10" y="60" font-family="Arial, sans-serif" font-size="9" fill="#333">• Pensjonsmidler</text>
+    </g>
+    
+    <!-- Income Statement -->
+    <g transform="translate(190, 35)">
+      <rect x="0" y="0" width="150" height="70" fill="white" stroke="#FFB74D" stroke-width="1" rx="3"/>
+      <text x="75" y="15" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#F57C00" text-anchor="middle">RESULTAT</text>
+      <text x="10" y="30" font-family="Arial, sans-serif" font-size="9" fill="#333">• Pensjonskostnader</text>
+      <text x="10" y="45" font-family="Arial, sans-serif" font-size="9" fill="#333">• Finansposter pensjon</text>
+      <text x="10" y="60" font-family="Arial, sans-serif" font-size="9" fill="#333">• Endringer i estimater</text>
+    </g>
+    
+    <!-- Cash Flow -->
+    <g transform="translate(360, 35)">
+      <rect x="0" y="0" width="150" height="70" fill="white" stroke="#FFB74D" stroke-width="1" rx="3"/>
+      <text x="75" y="15" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#F57C00" text-anchor="middle">KONTANTSTRØM</text>
+      <text x="10" y="30" font-family="Arial, sans-serif" font-size="9" fill="#333">• Pensjonspremier</text>
+      <text x="10" y="45" font-family="Arial, sans-serif" font-size="9" fill="#333">• Pensjonsutbetalinger</text>
+      <text x="10" y="60" font-family="Arial, sans-serif" font-size="9" fill="#333">• Arbeidsgiverbidrag</text>
+    </g>
+  </g>
+  
+  <!-- Section 3: Notes -->
+  <g transform="translate(120, 440)">
+    <rect x="0" y="0" width="560" height="220" fill="#F3E5F5" stroke="#7B1FA2" stroke-width="2" rx="6"/>
+    <text x="280" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#7B1FA2" text-anchor="middle">3. NOTE X - PENSJONER</text>
+    
+    <!-- Note subsections -->
+    <g transform="translate(20, 35)">
+      <text x="0" y="15" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#7B1FA2">3.1 Beskrivelse av pensjonsordninger</text>
+      <text x="10" y="30" font-family="Arial, sans-serif" font-size="10" fill="#333">• Ytelsesbaserte og innskuddsbaserte ordninger</text>
+      <text x="10" y="43" font-family="Arial, sans-serif" font-size="10" fill="#333">• Dekningsgrad og ytelsesnivå</text>
+      
+      <text x="0" y="65" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#7B1FA2">3.2 Regnskapsprinsipper</text>
+      <text x="10" y="80" font-family="Arial, sans-serif" font-size="10" fill="#333">• Valgte regnskapsprinsipper for pensjon</text>
+      <text x="10" y="93" font-family="Arial, sans-serif" font-size="10" fill="#333">• Behandling av aktuarmessige gevinster og tap</text>
+      
+      <text x="0" y="115" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#7B1FA2">3.3 Aktuarmessige forutsetninger</text>
+      <text x="10" y="130" font-family="Arial, sans-serif" font-size="10" fill="#333">• Diskonteringsrente, lønnsvekst, dødelighet</text>
+      <text x="10" y="143" font-family="Arial, sans-serif" font-size="10" fill="#333">• Sammenligning med foregående år</text>
+      
+      <text x="0" y="165" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#7B1FA2">3.4 Spesifikasjon og bevegelser</text>
+      <text x="10" y="180" font-family="Arial, sans-serif" font-size="10" fill="#333">• Pensjonsforpliktelser og pensjonsmidler</text>
+      <text x="10" y="193" font-family="Arial, sans-serif" font-size="10" fill="#333">• Endringer i regnskapsåret med forklaring</text>
+    </g>
+    
+    <!-- Right side of notes -->
+    <g transform="translate(300, 35)">
+      <text x="0" y="15" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#7B1FA2">3.5 Følsomhetsanalyse</text>
+      <text x="10" y="30" font-family="Arial, sans-serif" font-size="10" fill="#333">• Effekt av endringer i nøkkelforutsetninger</text>
+      <text x="10" y="43" font-family="Arial, sans-serif" font-size="10" fill="#333">• Scenario-analyser</text>
+      
+      <text x="0" y="65" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#7B1FA2">3.6 Fremtidige utbetalinger</text>
+      <text x="10" y="80" font-family="Arial, sans-serif" font-size="10" fill="#333">• Forventede pensjonspremier neste år</text>
+      <text x="10" y="93" font-family="Arial, sans-serif" font-size="10" fill="#333">• Langsiktige kontantstrømestimater</text>
+      
+      <text x="0" y="115" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#7B1FA2">3.7 Risikofaktorer</text>
+      <text x="10" y="130" font-family="Arial, sans-serif" font-size="10" fill="#333">• Langsiktighet og usikkerhet</text>
+      <text x="10" y="143" font-family="Arial, sans-serif" font-size="10" fill="#333">• Markedsrisiko og demografisk risiko</text>
+      
+      <text x="0" y="165" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#7B1FA2">3.8 Sammenligningstall</text>
+      <text x="10" y="180" font-family="Arial, sans-serif" font-size="10" fill="#333">• Tilsvarende tall foregående år</text>
+      <text x="10" y="193" font-family="Arial, sans-serif" font-size="10" fill="#333">• Endringer i regnskapsprinsipper</text>
+    </g>
+  </g>
+  
+  <!-- Section 4: Accounting Principles -->
+  <g transform="translate(120, 680)">
+    <rect x="0" y="0" width="560" height="80" fill="#E8F5E8" stroke="#4CAF50" stroke-width="2" rx="6"/>
+    <text x="280" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2E7D32" text-anchor="middle">4. REGNSKAPSPRINSIPPER</text>
+    
+    <g transform="translate(20, 35)">
+      <circle cx="5" cy="5" r="3" fill="#4CAF50"/>
+      <text x="15" y="9" font-family="Arial, sans-serif" font-size="11" fill="#333">Anvendte regnskapsstandarder (NRS 6, IFRS etc.)</text>
+    </g>
+    <g transform="translate(20, 50)">
+      <circle cx="5" cy="5" r="3" fill="#4CAF50"/>
+      <text x="15" y="9" font-family="Arial, sans-serif" font-size="11" fill="#333">Målings- og innregningsprinsipper for pensjon</text>
+    </g>
+    <g transform="translate(20, 65)">
+      <circle cx="5" cy="5" r="3" fill="#4CAF50"/>
+      <text x="15" y="9" font-family="Arial, sans-serif" font-size="11" fill="#333">Vesentlige skjønnsmessige vurderinger og estimater</text>
+    </g>
+  </g>
+  
+  <!-- Section 5: Auditor Report -->
+  <g transform="translate(120, 780)">
+    <rect x="0" y="0" width="560" height="60" fill="#FFEBEE" stroke="#E91E63" stroke-width="2" rx="6"/>
+    <text x="280" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#C2185B" text-anchor="middle">5. REVISJONSBERETNING</text>
+    
+    <g transform="translate(20, 35)">
+      <circle cx="5" cy="5" r="3" fill="#E91E63"/>
+      <text x="15" y="9" font-family="Arial, sans-serif" font-size="11" fill="#333">Revisors vurdering av pensjonsregnskapsføring</text>
+    </g>
+    <g transform="translate(280, 35)">
+      <circle cx="5" cy="5" r="3" fill="#E91E63"/>
+      <text x="15" y="9" font-family="Arial, sans-serif" font-size="11" fill="#333">Eventuelle forbehold eller kommentarer</text>
+    </g>
+  </g>
+  
+  <!-- Quality checklist -->
+  <g transform="translate(50, 180)">
+    <rect x="0" y="0" width="40" height="200" fill="#FFF3E0" stroke="#FF8F00" stroke-width="1" rx="3"/>
+    <text x="20" y="15" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="#E65100" text-anchor="middle" transform="rotate(-90, 20, 15)">KVALITETSKONTROLL</text>
+    
+    <g transform="translate(10, 30)">
+      <rect x="0" y="0" width="8" height="8" fill="white" stroke="#FF8F00" stroke-width="1"/>
+      <text x="12" y="8" font-family="Arial, sans-serif" font-size="6" fill="#333">Konsistens</text>
+    </g>
+    <g transform="translate(10, 45)">
+      <rect x="0" y="0" width="8" height="8" fill="white" stroke="#FF8F00" stroke-width="1"/>
+      <text x="12" y="8" font-family="Arial, sans-serif" font-size="6" fill="#333">Fullstendighet</text>
+    </g>
+    <g transform="translate(10, 60)">
+      <rect x="0" y="0" width="8" height="8" fill="white" stroke="#FF8F00" stroke-width="1"/>
+      <text x="12" y="8" font-family="Arial, sans-serif" font-size="6" fill="#333">Sammenligning</text>
+    </g>
+    <g transform="translate(10, 75)">
+      <rect x="0" y="0" width="8" height="8" fill="white" stroke="#FF8F00" stroke-width="1"/>
+      <text x="12" y="8" font-family="Arial, sans-serif" font-size="6" fill="#333">Avstemming</text>
+    </g>
+  </g>
+</svg>

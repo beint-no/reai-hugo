@@ -1,0 +1,143 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .title-text { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 24px; font-weight: bold; fill: #2c3e50; text-anchor: middle; }
+      .header-text { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 16px; font-weight: bold; fill: #34495e; text-anchor: middle; }
+      .body-text { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 14px; fill: #2c3e50; text-anchor: middle; }
+      .small-text { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 12px; fill: #7f8c8d; text-anchor: middle; }
+      .box-fill { fill: #ecf0f1; stroke: #34495e; stroke-width: 2; }
+      .highlight-box { fill: #3498db; stroke: #2980b9; stroke-width: 2; }
+      .warning-box { fill: #e74c3c; stroke: #c0392b; stroke-width: 2; }
+      .success-box { fill: #27ae60; stroke: #2ecc71; stroke-width: 2; }
+      .info-box { fill: #f39c12; stroke: #d68910; stroke-width: 2; }
+      .white-text { fill: white; }
+    </style>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#ffffff"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" class="title-text">Struktur for Ansvarlig Selskap</text>
+  
+  <!-- Main structure -->
+  <g transform="translate(50, 70)">
+    <!-- Company level -->
+    <rect x="200" y="0" width="300" height="80" class="highlight-box" rx="5"/>
+    <text x="350" y="30" class="header-text white-text">Ansvarlig Selskap (ANS)</text>
+    <text x="350" y="50" class="body-text white-text">Juridisk person med</text>
+    <text x="350" y="65" class="body-text white-text">eget organisasjonsnummer</text>
+    
+    <!-- Partners -->
+    <g transform="translate(0, 120)">
+      <text x="350" y="0" class="header-text">Deltakere</text>
+      
+      <!-- Partner 1 -->
+      <rect x="0" y="20" width="150" height="120" class="success-box" rx="5"/>
+      <text x="75" y="40" class="body-text white-text">Deltaker 1</text>
+      <text x="75" y="60" class="small-text white-text">Personlig &amp;</text>
+      <text x="75" y="75" class="small-text white-text">solidarisk ansvar</text>
+      <text x="75" y="95" class="small-text white-text">Andel: 40%</text>
+      <text x="75" y="110" class="small-text white-text">Kapital: 200k</text>
+      <text x="75" y="125" class="small-text white-text">Arbeidsandel: 50%</text>
+      
+      <!-- Partner 2 -->
+      <rect x="175" y="20" width="150" height="120" class="success-box" rx="5"/>
+      <text x="250" y="40" class="body-text white-text">Deltaker 2</text>
+      <text x="250" y="60" class="small-text white-text">Personlig &amp;</text>
+      <text x="250" y="75" class="small-text white-text">solidarisk ansvar</text>
+      <text x="250" y="95" class="small-text white-text">Andel: 35%</text>
+      <text x="250" y="110" class="small-text white-text">Kapital: 150k</text>
+      <text x="250" y="125" class="small-text white-text">Arbeidsandel: 30%</text>
+      
+      <!-- Partner 3 -->
+      <rect x="350" y="20" width="150" height="120" class="success-box" rx="5"/>
+      <text x="425" y="40" class="body-text white-text">Deltaker 3</text>
+      <text x="425" y="60" class="small-text white-text">Personlig &amp;</text>
+      <text x="425" y="75" class="small-text white-text">solidarisk ansvar</text>
+      <text x="425" y="95" class="small-text white-text">Andel: 25%</text>
+      <text x="425" y="110" class="small-text white-text">Kapital: 100k</text>
+      <text x="425" y="125" class="small-text white-text">Arbeidsandel: 20%</text>
+      
+      <!-- Silent partner -->
+      <rect x="525" y="20" width="150" height="120" class="info-box" rx="5"/>
+      <text x="600" y="40" class="body-text white-text">Stille Deltaker</text>
+      <text x="600" y="60" class="small-text white-text">Kun kapital</text>
+      <text x="600" y="75" class="small-text white-text">Begrenset ansvar</text>
+      <text x="600" y="95" class="small-text white-text">Andel: 0%</text>
+      <text x="600" y="110" class="small-text white-text">Kapital: 50k</text>
+      <text x="600" y="125" class="small-text white-text">Arbeidsandel: 0%</text>
+    </g>
+    
+    <!-- Management structure -->
+    <g transform="translate(0, 280)">
+      <text x="350" y="0" class="header-text">Ledelsesstruktur</text>
+      
+      <!-- Daily management -->
+      <rect x="100" y="20" width="200" height="80" class="warning-box" rx="5"/>
+      <text x="200" y="40" class="body-text white-text">Daglig Ledelse</text>
+      <text x="200" y="55" class="small-text white-text">Daglig leder eller</text>
+      <text x="200" y="70" class="small-text white-text">ledende deltaker</text>
+      <text x="200" y="85" class="small-text white-text">Operativ drift</text>
+      
+      <!-- Decision making -->
+      <rect x="320" y="20" width="200" height="80" class="box-fill" rx="5"/>
+      <text x="420" y="40" class="body-text">Beslutninger</text>
+      <text x="420" y="55" class="small-text">Enstemmighet eller</text>
+      <text x="420" y="70" class="small-text">flertall per avtale</text>
+      <text x="420" y="85" class="small-text">Møtestruktur</text>
+      
+      <!-- Representation -->
+      <rect x="540" y="20" width="150" height="80" class="info-box" rx="5"/>
+      <text x="615" y="40" class="body-text white-text">Representasjon</text>
+      <text x="615" y="55" class="small-text white-text">Signaturrett</text>
+      <text x="615" y="70" class="small-text white-text">Prokura</text>
+      <text x="615" y="85" class="small-text white-text">Fullmakter</text>
+    </g>
+    
+    <!-- Liability flow -->
+    <g transform="translate(0, 390)">
+      <text x="350" y="0" class="header-text">Ansvarsflyt</text>
+      
+      <!-- Company debt -->
+      <rect x="250" y="20" width="200" height="60" class="warning-box" rx="5"/>
+      <text x="350" y="40" class="body-text white-text">Selskapets Gjeld</text>
+      <text x="350" y="55" class="small-text white-text">Kreditorer kan kreve</text>
+      <text x="350" y="70" class="small-text white-text">dekning fra alle deltakere</text>
+      
+      <!-- Arrows pointing to all partners -->
+      <path d="M 300 80 L 75 160" stroke="#e74c3c" stroke-width="3" marker-end="url(#arrowhead)"/>
+      <path d="M 350 80 L 250 160" stroke="#e74c3c" stroke-width="3" marker-end="url(#arrowhead)"/>
+      <path d="M 400 80 L 425 160" stroke="#e74c3c" stroke-width="3" marker-end="url(#arrowhead)"/>
+      
+      <!-- Personal liability -->
+      <rect x="0" y="160" width="150" height="60" class="warning-box" rx="5"/>
+      <text x="75" y="180" class="body-text white-text">Personlig Formue</text>
+      <text x="75" y="195" class="small-text white-text">Kan beslaglegges</text>
+      <text x="75" y="210" class="small-text white-text">ved gjeldskrav</text>
+      
+      <rect x="175" y="160" width="150" height="60" class="warning-box" rx="5"/>
+      <text x="250" y="180" class="body-text white-text">Personlig Formue</text>
+      <text x="250" y="195" class="small-text white-text">Kan beslaglegges</text>
+      <text x="250" y="210" class="small-text white-text">ved gjeldskrav</text>
+      
+      <rect x="350" y="160" width="150" height="60" class="warning-box" rx="5"/>
+      <text x="425" y="180" class="body-text white-text">Personlig Formue</text>
+      <text x="425" y="195" class="small-text white-text">Kan beslaglegges</text>
+      <text x="425" y="210" class="small-text white-text">ved gjeldskrav</text>
+      
+      <!-- Protection for silent partner -->
+      <rect x="525" y="160" width="150" height="60" class="success-box" rx="5"/>
+      <text x="600" y="180" class="body-text white-text">Beskyttet</text>
+      <text x="600" y="195" class="small-text white-text">Kun kapitalinnskudd</text>
+      <text x="600" y="210" class="small-text white-text">i risiko</text>
+    </g>
+  </g>
+  
+  <!-- Arrow markers -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#e74c3c"/>
+    </marker>
+  </defs>
+</svg>

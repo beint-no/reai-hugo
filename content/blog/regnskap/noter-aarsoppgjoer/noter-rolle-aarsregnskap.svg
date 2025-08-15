@@ -1,0 +1,145 @@
+<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="500" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#212529">
+    Notenes Rolle i Årsregnskapet
+  </text>
+  
+  <!-- Financial Statements Box -->
+  <rect x="50" y="80" width="200" height="150" fill="white" stroke="#007bff" stroke-width="2" rx="8"/>
+  <text x="150" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#007bff">
+    Hovedoppstillinger
+  </text>
+  <text x="60" y="130" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+    • Balanse
+  </text>
+  <text x="60" y="150" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+    • Resultatregnskap
+  </text>
+  <text x="60" y="170" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+    • Kontantstrømoppstilling
+  </text>
+  <text x="60" y="190" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+    • Egenkapitaloppstilling
+  </text>
+  <text x="60" y="210" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+    (Aggregerte tall)
+  </text>
+  
+  <!-- Notes Box -->
+  <rect x="550" y="80" width="200" height="150" fill="white" stroke="#28a745" stroke-width="2" rx="8"/>
+  <text x="650" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#28a745">
+    Noter
+  </text>
+  <text x="560" y="130" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+    • Detaljerte forklaringer
+  </text>
+  <text x="560" y="150" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+    • Regnskapsprinsipper
+  </text>
+  <text x="560" y="170" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+    • Risikoinformasjon
+  </text>
+  <text x="560" y="190" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+    • Estimater &amp; vurderinger
+  </text>
+  <text x="560" y="210" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+    (Utdypende informasjon)
+  </text>
+  
+  <!-- Bridge/Connection -->
+  <path d="M 250 155 Q 400 120 550 155" stroke="#6c757d" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  <text x="400" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#6c757d">
+    Utdyper og forklarer
+  </text>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#6c757d"/>
+    </marker>
+  </defs>
+  
+  <!-- Stakeholders section -->
+  <text x="400" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#212529">
+    Interessenter som bruker noter
+  </text>
+  
+  <!-- Stakeholder boxes -->
+  <g transform="translate(80, 300)">
+    <rect x="0" y="0" width="120" height="80" fill="white" stroke="#dc3545" stroke-width="2" rx="6"/>
+    <text x="60" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#dc3545">
+      Investorer
+    </text>
+    <text x="60" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+      Investeringsbeslutninger
+    </text>
+    <text x="60" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+      Risikovurdering
+    </text>
+  </g>
+  
+  <g transform="translate(220, 300)">
+    <rect x="0" y="0" width="120" height="80" fill="white" stroke="#fd7e14" stroke-width="2" rx="6"/>
+    <text x="60" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#fd7e14">
+      Kreditorer
+    </text>
+    <text x="60" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+      Kredittrisiko
+    </text>
+    <text x="60" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+      Tilbakebetalingsevne
+    </text>
+  </g>
+  
+  <g transform="translate(360, 300)">
+    <rect x="0" y="0" width="120" height="80" fill="white" stroke="#20c997" stroke-width="2" rx="6"/>
+    <text x="60" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#20c997">
+      Revisorer
+    </text>
+    <text x="60" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+      Kvalitetssikring
+    </text>
+    <text x="60" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+      Compliance
+    </text>
+  </g>
+  
+  <g transform="translate(500, 300)">
+    <rect x="0" y="0" width="120" height="80" fill="white" stroke="#6f42c1" stroke-width="2" rx="6"/>
+    <text x="60" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#6f42c1">
+      Myndigheter
+    </text>
+    <text x="60" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+      Regulatorisk tilsyn
+    </text>
+    <text x="60" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+      Skatteformål
+    </text>
+  </g>
+  
+  <!-- Benefits section -->
+  <text x="400" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#212529">
+    Notenes Hovedformål
+  </text>
+  
+  <g transform="translate(100, 440)">
+    <circle cx="15" cy="15" r="8" fill="#007bff"/>
+    <text x="15" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">1</text>
+    <text x="35" y="20" font-family="Arial, sans-serif" font-size="12" fill="#495057">Transparens og forståelse</text>
+  </g>
+  
+  <g transform="translate(300, 440)">
+    <circle cx="15" cy="15" r="8" fill="#28a745"/>
+    <text x="15" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">2</text>
+    <text x="35" y="20" font-family="Arial, sans-serif" font-size="12" fill="#495057">Sammenlignbarhet</text>
+  </g>
+  
+  <g transform="translate(500, 440)">
+    <circle cx="15" cy="15" r="8" fill="#dc3545"/>
+    <text x="15" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">3</text>
+    <text x="35" y="20" font-family="Arial, sans-serif" font-size="12" fill="#495057">Beslutningsstøtte</text>
+  </g>
+</svg>

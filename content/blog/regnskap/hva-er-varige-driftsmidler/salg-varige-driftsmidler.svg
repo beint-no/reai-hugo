@@ -1,0 +1,154 @@
+<svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="saleGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#10b981;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#059669;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="400" fill="#f8fafc"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1e40af">
+    Salg av Varige Driftsmidler - Regnskapsføring og Beregning
+  </text>
+  
+  <!-- Main container -->
+  <rect x="50" y="60" width="700" height="320" fill="white" stroke="#cbd5e1" stroke-width="2" rx="8"/>
+  
+  <!-- Asset visualization -->
+  <g transform="translate(80, 90)">
+    <rect x="0" y="0" width="200" height="120" fill="#dbeafe" stroke="#3b82f6" stroke-width="2" rx="6"/>
+    <text x="100" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e40af">
+      Driftsmiddel før salg
+    </text>
+    
+    <!-- Asset icon -->
+    <g transform="translate(75, 35)">
+      <rect x="0" y="0" width="50" height="30" fill="url(#saleGrad)" rx="3"/>
+      <rect x="5" y="5" width="40" height="20" fill="#047857" rx="2"/>
+      <circle cx="15" cy="33" r="3" fill="#374151"/>
+      <circle cx="35" cy="33" r="3" fill="#374151"/>
+      <text x="25" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#1e40af">Produksjonsmaskin</text>
+    </g>
+    
+    <!-- Values -->
+    <text x="20" y="85" font-family="Arial, sans-serif" font-size="11" fill="#1e40af">• Opprinnelig kostpris: 500.000 kr</text>
+    <text x="20" y="98" font-family="Arial, sans-serif" font-size="11" fill="#1e40af">• Akkumulerte avskr.: 300.000 kr</text>
+    <text x="20" y="111" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e40af">• Bokført verdi: 200.000 kr</text>
+  </g>
+  
+  <!-- Sale transaction -->
+  <g transform="translate(320, 120)">
+    <circle cx="30" cy="30" r="25" fill="#fef3c7" stroke="#f59e0b" stroke-width="2"/>
+    <text x="30" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#92400e">SALG</text>
+    <text x="30" y="37" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#92400e">250.000 kr</text>
+  </g>
+  
+  <!-- Result -->
+  <g transform="translate(420, 90)">
+    <rect x="0" y="0" width="200" height="120" fill="#dcfce7" stroke="#16a34a" stroke-width="2" rx="6"/>
+    <text x="100" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#15803d">
+      Resultat av salg
+    </text>
+    
+    <!-- Calculation -->
+    <text x="20" y="45" font-family="Arial, sans-serif" font-size="11" fill="#15803d">Gevinst/Tap beregning:</text>
+    <text x="20" y="60" font-family="Arial, sans-serif" font-size="11" fill="#15803d">Salgspris: 250.000 kr</text>
+    <text x="20" y="73" font-family="Arial, sans-serif" font-size="11" fill="#15803d">Bokført verdi: 200.000 kr</text>
+    <line x1="20" y1="78" x2="180" y2="78" stroke="#16a34a"/>
+    <text x="20" y="93" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#15803d">Gevinst: 50.000 kr</text>
+    <text x="20" y="108" font-family="Arial, sans-serif" font-size="10" fill="#15803d">(Skattepliktig inntekt)</text>
+  </g>
+  
+  <!-- Arrows -->
+  <path d="M 280 150 L 320 150" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <path d="M 380 150 L 420 150" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Journal entries -->
+  <g transform="translate(80, 230)">
+    <rect x="0" y="0" width="540" height="130" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1" rx="6"/>
+    <text x="270" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e40af">
+      Regnskapsføring av salg
+    </text>
+    
+    <!-- Journal entry table -->
+    <g transform="translate(20, 30)">
+      <!-- Headers -->
+      <text x="0" y="15" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#64748b">Konto</text>
+      <text x="200" y="15" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#64748b">Debet</text>
+      <text x="280" y="15" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#64748b">Kredit</text>
+      <text x="360" y="15" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#64748b">Beskrivelse</text>
+      
+      <!-- Separator line -->
+      <line x1="0" y1="20" x2="500" y2="20" stroke="#cbd5e1"/>
+      
+      <!-- Entry 1: Bank -->
+      <text x="0" y="35" font-family="Arial, sans-serif" font-size="10" fill="#374151">Bank</text>
+      <text x="200" y="35" font-family="Arial, sans-serif" font-size="10" fill="#059669">250.000</text>
+      <text x="280" y="35" font-family="Arial, sans-serif" font-size="10" fill="#374151">-</text>
+      <text x="360" y="35" font-family="Arial, sans-serif" font-size="10" fill="#374151">Innbetaling fra kjøper</text>
+      
+      <!-- Entry 2: Accumulated depreciation -->
+      <text x="0" y="50" font-family="Arial, sans-serif" font-size="10" fill="#374151">Akkumulerte avskrivninger</text>
+      <text x="200" y="50" font-family="Arial, sans-serif" font-size="10" fill="#059669">300.000</text>
+      <text x="280" y="50" font-family="Arial, sans-serif" font-size="10" fill="#374151">-</text>
+      <text x="360" y="50" font-family="Arial, sans-serif" font-size="10" fill="#374151">Tilbakeføring av avskrivninger</text>
+      
+      <!-- Entry 3: Fixed asset -->
+      <text x="0" y="65" font-family="Arial, sans-serif" font-size="10" fill="#374151">Varige driftsmidler</text>
+      <text x="200" y="65" font-family="Arial, sans-serif" font-size="10" fill="#374151">-</text>
+      <text x="280" y="65" font-family="Arial, sans-serif" font-size="10" fill="#dc2626">500.000</text>
+      <text x="360" y="65" font-family="Arial, sans-serif" font-size="10" fill="#374151">Uttak av eiendel</text>
+      
+      <!-- Entry 4: Gain -->
+      <text x="0" y="80" font-family="Arial, sans-serif" font-size="10" fill="#374151">Gevinst ved salg anleggsmidler</text>
+      <text x="200" y="80" font-family="Arial, sans-serif" font-size="10" fill="#374151">-</text>
+      <text x="280" y="80" font-family="Arial, sans-serif" font-size="10" fill="#dc2626">50.000</text>
+      <text x="360" y="80" font-family="Arial, sans-serif" font-size="10" fill="#374151">Gevinst ved salg</text>
+      
+      <!-- Totals line -->
+      <line x1="190" y1="90" x2="340" y2="90" stroke="#cbd5e1"/>
+      <text x="200" y="105" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#374151">550.000</text>
+      <text x="280" y="105" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#374151">550.000</text>
+    </g>
+  </g>
+  
+  <!-- Alternative scenarios -->
+  <g transform="translate(640, 230)">
+    <rect x="0" y="0" width="100" height="130" fill="#fee2e2" stroke="#ef4444" stroke-width="1" rx="6"/>
+    <text x="50" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#dc2626">
+      Tap-scenario
+    </text>
+    
+    <text x="50" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#dc2626">
+      Hvis salgspris:
+    </text>
+    <text x="50" y="53" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#dc2626">
+      150.000 kr
+    </text>
+    
+    <text x="50" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#dc2626">
+      Tap: 50.000 kr
+    </text>
+    
+    <text x="50" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#dc2626">
+      Fradragsberettiget
+    </text>
+    <text x="50" y="102" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#dc2626">
+      kostnad i skatten
+    </text>
+    
+    <text x="50" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#dc2626">
+      (150.000 - 200.000)
+    </text>
+  </g>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#64748b"/>
+    </marker>
+  </defs>
+</svg>

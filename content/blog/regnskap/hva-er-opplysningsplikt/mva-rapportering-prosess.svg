@@ -1,0 +1,161 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="2" dy="2" stdDeviation="3" flood-color="#00000020"/>
+    </filter>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#333333" />
+    </marker>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="url(#bgGradient)" />
+  
+  <!-- Title -->
+  <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#2d3748">
+    MVA Rapportering Prosess
+  </text>
+  
+  <!-- Step 1: Business transactions -->
+  <g transform="translate(50, 80)">
+    <rect x="0" y="0" width="140" height="80" fill="#ffffff" stroke="#00aa44" stroke-width="2" rx="10" filter="url(#shadow)"/>
+    <text x="70" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#00aa44">
+      1. Forretnings-
+    </text>
+    <text x="70" y="40" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#00aa44">
+      transaksjoner
+    </text>
+    <text x="70" y="60" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#4a5568">
+      Salg og kjøp med MVA
+    </text>
+  </g>
+  
+  <!-- Step 2: Recording -->
+  <g transform="translate(250, 80)">
+    <rect x="0" y="0" width="140" height="80" fill="#ffffff" stroke="#0066cc" stroke-width="2" rx="10" filter="url(#shadow)"/>
+    <text x="70" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0066cc">
+      2. Registrering
+    </text>
+    <text x="70" y="40" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0066cc">
+      i regnskap
+    </text>
+    <text x="70" y="60" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#4a5568">
+      Bilag og bokføring
+    </text>
+  </g>
+  
+  <!-- Step 3: Calculation -->
+  <g transform="translate(450, 80)">
+    <rect x="0" y="0" width="140" height="80" fill="#ffffff" stroke="#cc6600" stroke-width="2" rx="10" filter="url(#shadow)"/>
+    <text x="70" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#cc6600">
+      3. Beregning
+    </text>
+    <text x="70" y="40" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#cc6600">
+      av MVA
+    </text>
+    <text x="70" y="60" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#4a5568">
+      Utgående - Inngående
+    </text>
+  </g>
+  
+  <!-- Step 4: Reporting -->
+  <g transform="translate(610, 80)">
+    <rect x="0" y="0" width="140" height="80" fill="#ffffff" stroke="#9900cc" stroke-width="2" rx="10" filter="url(#shadow)"/>
+    <text x="70" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#9900cc">
+      4. MVA-melding
+    </text>
+    <text x="70" y="40" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#9900cc">
+      til Altinn
+    </text>
+    <text x="70" y="60" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#4a5568">
+      Hver 2. måned
+    </text>
+  </g>
+  
+  <!-- Arrows between steps -->
+  <g stroke="#333333" stroke-width="2" fill="none" marker-end="url(#arrowhead)">
+    <line x1="190" y1="120" x2="250" y2="120" />
+    <line x1="390" y1="120" x2="450" y2="120" />
+    <line x1="590" y1="120" x2="610" y2="120" />
+  </g>
+  
+  <!-- Detailed breakdown -->
+  <text x="400" y="220" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#2d3748">
+    Detaljert MVA-beregning
+  </text>
+  
+  <!-- Outgoing MVA -->
+  <g transform="translate(100, 250)">
+    <rect x="0" y="0" width="200" height="100" fill="#e6f7ff" stroke="#0066cc" stroke-width="2" rx="10" filter="url(#shadow)"/>
+    <text x="100" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0066cc">
+      Utgående MVA
+    </text>
+    <text x="100" y="45" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#4a5568">
+      MVA på salg til kunder
+    </text>
+    <text x="100" y="65" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#4a5568">
+      • 25% generell sats
+    </text>
+    <text x="100" y="80" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#4a5568">
+      • 15% næringsmidler
+    </text>
+    <text x="100" y="95" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#4a5568">
+      • 12% transport, hotell
+    </text>
+  </g>
+  
+  <!-- Minus sign -->
+  <text x="350" y="310" font-family="Arial, sans-serif" font-size="36" font-weight="bold" text-anchor="middle" fill="#333333">
+    -
+  </text>
+  
+  <!-- Incoming MVA -->
+  <g transform="translate(400, 250)">
+    <rect x="0" y="0" width="200" height="100" fill="#fff2e6" stroke="#cc6600" stroke-width="2" rx="10" filter="url(#shadow)"/>
+    <text x="100" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#cc6600">
+      Inngående MVA
+    </text>
+    <text x="100" y="45" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#4a5568">
+      MVA på kjøp fra leverandører
+    </text>
+    <text x="100" y="65" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#4a5568">
+      • Driftsmidler
+    </text>
+    <text x="100" y="80" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#4a5568">
+      • Tjenester
+    </text>
+    <text x="100" y="95" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#4a5568">
+      • Varer til videresalg
+    </text>
+  </g>
+  
+  <!-- Equals sign -->
+  <text x="400" y="390" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#333333">
+    =
+  </text>
+  
+  <!-- Result -->
+  <g transform="translate(300, 400)">
+    <rect x="0" y="0" width="200" height="60" fill="#f0fff0" stroke="#00aa44" stroke-width="3" rx="10" filter="url(#shadow)"/>
+    <text x="100" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#00aa44">
+      MVA til betaling
+    </text>
+    <text x="100" y="45" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#4a5568">
+      (eller tilgode hvis negativt)
+    </text>
+  </g>
+  
+  <!-- Timeline at bottom -->
+  <g transform="translate(50, 480)">
+    <text x="0" y="0" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#666666">
+      Frister: 
+    </text>
+    <text x="60" y="0" font-family="Arial, sans-serif" font-size="12" fill="#666666">
+      Jan-Feb (31. mars) • Mar-Apr (31. mai) • Mai-Jun (31. juli) • Jul-Aug (30. sep) • Sep-Okt (30. nov) • Nov-Des (31. jan)
+    </text>
+  </g>
+</svg>

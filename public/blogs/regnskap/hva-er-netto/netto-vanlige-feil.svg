@@ -1,0 +1,352 @@
+<svg width="800" height="700" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="errorGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#f44336;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#c62828;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="correctGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#4caf50;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2e7d32;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="700" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
+  <text x="400" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="22" font-weight="bold">
+    Vanlige Feil ved Bruk av Nettobegreper
+  </text>
+  
+  <!-- Main content area -->
+  <rect x="30" y="80" width="740" height="580" fill="white" stroke="#dee2e6" stroke-width="1" rx="10"/>
+  
+  <!-- Section headers -->
+  <rect x="50" y="100" width="150" height="30" fill="#ffebee" stroke="#f44336" stroke-width="1"/>
+  <text x="125" y="120" text-anchor="middle" fill="#f44336" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    VANLIGE FEIL
+  </text>
+  
+  <rect x="220" y="100" width="150" height="30" fill="#e8f5e8" stroke="#4caf50" stroke-width="1"/>
+  <text x="295" y="120" text-anchor="middle" fill="#4caf50" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    RIKTIG PRAKSIS
+  </text>
+  
+  <rect x="390" y="100" width="150" height="30" fill="#e3f2fd" stroke="#1976d2" stroke-width="1"/>
+  <text x="465" y="120" text-anchor="middle" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    KONSEKVENSER
+  </text>
+  
+  <rect x="560" y="100" width="150" height="30" fill="#fff3e0" stroke="#ff9800" stroke-width="1"/>
+  <text x="635" y="120" text-anchor="middle" fill="#ff9800" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    LØSNING
+  </text>
+  
+  <!-- Error 1: Forveksling av brutto og netto -->
+  <rect x="50" y="140" width="150" height="80" fill="#ffebee" stroke="#f44336" stroke-width="1"/>
+  <text x="125" y="160" text-anchor="middle" fill="#f44336" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    Forveksling av
+  </text>
+  <text x="125" y="175" text-anchor="middle" fill="#f44336" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    brutto og netto
+  </text>
+  <text x="125" y="195" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+    Rapporterer brutto
+  </text>
+  <text x="125" y="210" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+    som netto
+  </text>
+  
+  <rect x="220" y="140" width="150" height="80" fill="#e8f5e8" stroke="#4caf50" stroke-width="1"/>
+  <text x="295" y="160" text-anchor="middle" fill="#4caf50" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    Konsistent
+  </text>
+  <text x="295" y="175" text-anchor="middle" fill="#4caf50" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    terminologi
+  </text>
+  <text x="295" y="195" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+    Klar definisjon av
+  </text>
+  <text x="295" y="210" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+    alle begreper
+  </text>
+  
+  <rect x="390" y="140" width="150" height="80" fill="#e3f2fd" stroke="#1976d2" stroke-width="1"/>
+  <text x="465" y="160" text-anchor="middle" fill="#1976d2" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    Feil beslutninger
+  </text>
+  <text x="465" y="180" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+    Misvisende
+  </text>
+  <text x="465" y="195" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+    økonomiske
+  </text>
+  <text x="465" y="210" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+    analyser
+  </text>
+  
+  <rect x="560" y="140" width="150" height="80" fill="#fff3e0" stroke="#ff9800" stroke-width="1"/>
+  <text x="635" y="160" text-anchor="middle" fill="#ff9800" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    Standardiserte
+  </text>
+  <text x="635" y="175" text-anchor="middle" fill="#ff9800" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    definisjoner
+  </text>
+  <text x="635" y="195" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+    Bruk samme
+  </text>
+  <text x="635" y="210" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+    definisjoner
+  </text>
+  
+  <!-- Error 2: Manglende fradrag -->
+  <rect x="50" y="230" width="150" height="80" fill="#ffebee" stroke="#f44336" stroke-width="1"/>
+  <text x="125" y="250" text-anchor="middle" fill="#f44336" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    Manglende
+  </text>
+  <text x="125" y="265" text-anchor="middle" fill="#f44336" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    fradrag
+  </text>
+  <text x="125" y="285" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+    Glemmer relevante
+  </text>
+  <text x="125" y="300" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+    kostnader
+  </text>
+  
+  <rect x="220" y="230" width="150" height="80" fill="#e8f5e8" stroke="#4caf50" stroke-width="1"/>
+  <text x="295" y="250" text-anchor="middle" fill="#4caf50" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    Komplett
+  </text>
+  <text x="295" y="265" text-anchor="middle" fill="#4caf50" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    sjekkliste
+  </text>
+  <text x="295" y="285" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+    Alle fradrag
+  </text>
+  <text x="295" y="300" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+    dokumentert
+  </text>
+  
+  <rect x="390" y="230" width="150" height="80" fill="#e3f2fd" stroke="#1976d2" stroke-width="1"/>
+  <text x="465" y="250" text-anchor="middle" fill="#1976d2" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    For høye
+  </text>
+  <text x="465" y="265" text-anchor="middle" fill="#1976d2" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    nettotall
+  </text>
+  <text x="465" y="285" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+    Overvurdert
+  </text>
+  <text x="465" y="300" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+    lønnsomhet
+  </text>
+  
+  <rect x="560" y="230" width="150" height="80" fill="#fff3e0" stroke="#ff9800" stroke-width="1"/>
+  <text x="635" y="250" text-anchor="middle" fill="#ff9800" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    Systematisk
+  </text>
+  <text x="635" y="265" text-anchor="middle" fill="#ff9800" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    gjennomgang
+  </text>
+  <text x="635" y="285" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+    Dobbeltsjekk
+  </text>
+  <text x="635" y="300" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+    alle poster
+  </text>
+  
+  <!-- Error 3: Feil MVA-behandling -->
+  <rect x="50" y="320" width="150" height="80" fill="#ffebee" stroke="#f44336" stroke-width="1"/>
+  <text x="125" y="340" text-anchor="middle" fill="#f44336" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    Feil MVA-
+  </text>
+  <text x="125" y="355" text-anchor="middle" fill="#f44336" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    behandling
+  </text>
+  <text x="125" y="375" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+    Inkluderer MVA
+  </text>
+  <text x="125" y="390" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+    i nettotall
+  </text>
+  
+  <rect x="220" y="320" width="150" height="80" fill="#e8f5e8" stroke="#4caf50" stroke-width="1"/>
+  <text x="295" y="340" text-anchor="middle" fill="#4caf50" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    Korrekt MVA-
+  </text>
+  <text x="295" y="355" text-anchor="middle" fill="#4caf50" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    håndtering
+  </text>
+  <text x="295" y="375" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+    MVA behandles
+  </text>
+  <text x="295" y="390" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+    separat
+  </text>
+  
+  <rect x="390" y="320" width="150" height="80" fill="#e3f2fd" stroke="#1976d2" stroke-width="1"/>
+  <text x="465" y="340" text-anchor="middle" fill="#1976d2" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    Feil omsetning
+  </text>
+  <text x="465" y="360" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+    Misvisende
+  </text>
+  <text x="465" y="375" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+    salgstall
+  </text>
+  <text x="465" y="390" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+    og marginer
+  </text>
+  
+  <rect x="560" y="320" width="150" height="80" fill="#fff3e0" stroke="#ff9800" stroke-width="1"/>
+  <text x="635" y="340" text-anchor="middle" fill="#ff9800" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    MVA-kunnskap
+  </text>
+  <text x="635" y="360" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+    Forstå MVA-
+  </text>
+  <text x="635" y="375" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+    reglene
+  </text>
+  <text x="635" y="390" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+    grundig
+  </text>
+  
+  <!-- Error 4: Inkorrekt skatteberegning -->
+  <rect x="50" y="410" width="150" height="80" fill="#ffebee" stroke="#f44336" stroke-width="1"/>
+  <text x="125" y="430" text-anchor="middle" fill="#f44336" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    Inkorrekt
+  </text>
+  <text x="125" y="445" text-anchor="middle" fill="#f44336" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    skatteberegning
+  </text>
+  <text x="125" y="465" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+    Feil skattetrekk
+  </text>
+  <text x="125" y="480" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+    i lønnsberegning
+  </text>
+  
+  <rect x="220" y="410" width="150" height="80" fill="#e8f5e8" stroke="#4caf50" stroke-width="1"/>
+  <text x="295" y="430" text-anchor="middle" fill="#4caf50" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    Oppdaterte
+  </text>
+  <text x="295" y="445" text-anchor="middle" fill="#4caf50" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    skattetabeller
+  </text>
+  <text x="295" y="465" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+    Bruk gjeldende
+  </text>
+  <text x="295" y="480" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+    satser
+  </text>
+  
+  <rect x="390" y="410" width="150" height="80" fill="#e3f2fd" stroke="#1976d2" stroke-width="1"/>
+  <text x="465" y="430" text-anchor="middle" fill="#1976d2" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    Feil nettolønn
+  </text>
+  <text x="465" y="450" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+    Problemer med
+  </text>
+  <text x="465" y="465" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+    lønnsutbetaling
+  </text>
+  <text x="465" y="480" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+    og rapportering
+  </text>
+  
+  <rect x="560" y="410" width="150" height="80" fill="#fff3e0" stroke="#ff9800" stroke-width="1"/>
+  <text x="635" y="430" text-anchor="middle" fill="#ff9800" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    Automatiserte
+  </text>
+  <text x="635" y="445" text-anchor="middle" fill="#ff9800" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    systemer
+  </text>
+  <text x="635" y="465" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+    Bruk lønnssystem
+  </text>
+  <text x="635" y="480" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+    med oppdateringer
+  </text>
+  
+  <!-- Error 5: Manglende periodisering -->
+  <rect x="50" y="500" width="150" height="80" fill="#ffebee" stroke="#f44336" stroke-width="1"/>
+  <text x="125" y="520" text-anchor="middle" fill="#f44336" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    Manglende
+  </text>
+  <text x="125" y="535" text-anchor="middle" fill="#f44336" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    periodisering
+  </text>
+  <text x="125" y="555" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+    Feil tidsperiode
+  </text>
+  <text x="125" y="570" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+    for kostnader
+  </text>
+  
+  <rect x="220" y="500" width="150" height="80" fill="#e8f5e8" stroke="#4caf50" stroke-width="1"/>
+  <text x="295" y="520" text-anchor="middle" fill="#4caf50" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    Korrekt
+  </text>
+  <text x="295" y="535" text-anchor="middle" fill="#4caf50" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    periodisering
+  </text>
+  <text x="295" y="555" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+    Kostnader i rett
+  </text>
+  <text x="295" y="570" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+    periode
+  </text>
+  
+  <rect x="390" y="500" width="150" height="80" fill="#e3f2fd" stroke="#1976d2" stroke-width="1"/>
+  <text x="465" y="520" text-anchor="middle" fill="#1976d2" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    Feil
+  </text>
+  <text x="465" y="535" text-anchor="middle" fill="#1976d2" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    periodetall
+  </text>
+  <text x="465" y="555" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+    Misvisende
+  </text>
+  <text x="465" y="570" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+    resultater
+  </text>
+  
+  <rect x="560" y="500" width="150" height="80" fill="#fff3e0" stroke="#ff9800" stroke-width="1"/>
+  <text x="635" y="520" text-anchor="middle" fill="#ff9800" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    Regnskaps-
+  </text>
+  <text x="635" y="535" text-anchor="middle" fill="#ff9800" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    prinsipper
+  </text>
+  <text x="635" y="555" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+    Følg god
+  </text>
+  <text x="635" y="570" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+    regnskapsskikk
+  </text>
+  
+  <!-- Summary section -->
+  <rect x="50" y="600" width="660" height="50" fill="url(#correctGradient)" rx="10"/>
+  <text x="380" y="620" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    Beste Praksis for Nettobegreper
+  </text>
+  <text x="380" y="640" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="11">
+    Konsistens • Dokumentasjon • Oppdatert kunnskap • Systematisk kontroll
+  </text>
+  
+  <!-- Footer -->
+  <text x="400" y="680" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="11">
+    Unngå vanlige feil ved å følge etablerte prosedyrer og holde seg oppdatert på regelverket
+  </text>
+</svg>

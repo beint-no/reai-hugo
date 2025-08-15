@@ -1,0 +1,95 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="400" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
+  
+  <!-- Main Title -->
+  <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="white">
+    Norsk regnskapsstandard (NRS)
+  </text>
+  <text x="400" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#e9ecef">
+    Nasjonale regnskapsstandarder for Norge
+  </text>
+  
+  <!-- Content sections -->
+  <g transform="translate(50, 120)">
+    <!-- Left column -->
+    <rect x="0" y="0" width="320" height="200" fill="white" stroke="#0066cc" stroke-width="2" rx="8"/>
+    <text x="160" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#0066cc">
+      Hovedområder
+    </text>
+    
+    <text x="20" y="50" font-family="Arial, sans-serif" font-size="14" fill="#333">
+      • Grunnleggende standarder
+    </text>
+    <text x="20" y="70" font-family="Arial, sans-serif" font-size="14" fill="#333">
+      • Balanseposter
+    </text>
+    <text x="20" y="90" font-family="Arial, sans-serif" font-size="14" fill="#333">
+      • Resultatstandarder
+    </text>
+    <text x="20" y="110" font-family="Arial, sans-serif" font-size="14" fill="#333">
+      • Sektorstandarder
+    </text>
+    <text x="20" y="130" font-family="Arial, sans-serif" font-size="14" fill="#333">
+      • Konsernstandarder
+    </text>
+    
+    <text x="20" y="160" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#666">
+      Målgruppe:
+    </text>
+    <text x="20" y="180" font-family="Arial, sans-serif" font-size="12" fill="#666">
+      SMB og ikke-børsnoterte selskaper
+    </text>
+  </g>
+  
+  <!-- Right column -->
+  <g transform="translate(430, 120)">
+    <rect x="0" y="0" width="320" height="200" fill="white" stroke="#0066cc" stroke-width="2" rx="8"/>
+    <text x="160" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#0066cc">
+      Sentrale Prinsipper
+    </text>
+    
+    <text x="20" y="50" font-family="Arial, sans-serif" font-size="14" fill="#333">
+      • Forenklet tilnærming
+    </text>
+    <text x="20" y="70" font-family="Arial, sans-serif" font-size="14" fill="#333">
+      • Norske særegenheter
+    </text>
+    <text x="20" y="90" font-family="Arial, sans-serif" font-size="14" fill="#333">
+      • Praktisk orientert
+    </text>
+    <text x="20" y="110" font-family="Arial, sans-serif" font-size="14" fill="#333">
+      • Kostnadseffektiv
+    </text>
+    <text x="20" y="130" font-family="Arial, sans-serif" font-size="14" fill="#333">
+      • God regnskapsskikk
+    </text>
+    
+    <text x="20" y="160" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#666">
+      Utviklet av:
+    </text>
+    <text x="20" y="180" font-family="Arial, sans-serif" font-size="12" fill="#666">
+      Norsk RegnskapsStiftelse
+    </text>
+  </g>
+  
+  <!-- Bottom banner -->
+  <rect x="50" y="340" width="700" height="40" fill="#f8f9fa" stroke="#0066cc" stroke-width="1" rx="4"/>
+  <text x="400" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0066cc">
+    Balansert tilnærming mellom internasjonale standarder og norske behov
+  </text>
+</svg>

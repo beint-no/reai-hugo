@@ -1,0 +1,171 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="blueGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="greenGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="orangeGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#fd7e14;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e55a00;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="url(#bgGradient)"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#2c3e50">
+    Likviditetsstyring Prinsipper og Komponenter
+  </text>
+  
+  <!-- Central Circle - Core Principles -->
+  <circle cx="400" cy="300" r="120" fill="url(#blueGradient)" stroke="#004499" stroke-width="3"/>
+  <text x="400" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+    LIKVIDITETS-
+  </text>
+  <text x="400" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+    STYRING
+  </text>
+  <text x="400" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+    PRINSIPPER
+  </text>
+  
+  <!-- Principle 1: Cash Flow Planning -->
+  <g transform="translate(100, 100)">
+    <rect x="0" y="0" width="200" height="120" rx="15" fill="url(#greenGradient)" stroke="#1e7e34" stroke-width="2"/>
+    <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      1. Kontantstrøm-
+    </text>
+    <text x="100" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      planlegging
+    </text>
+    <text x="100" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+      • Prognostisering
+    </text>
+    <text x="100" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+      • Inn- og utbetalinger
+    </text>
+    <text x="100" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+      • Tidsplanlegging
+    </text>
+  </g>
+  
+  <!-- Principle 2: Working Capital Management -->
+  <g transform="translate(500, 100)">
+    <rect x="0" y="0" width="200" height="120" rx="15" fill="url(#orangeGradient)" stroke="#e55a00" stroke-width="2"/>
+    <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      2. Arbeidskapital-
+    </text>
+    <text x="100" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      styring
+    </text>
+    <text x="100" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+      • Kundefordringer
+    </text>
+    <text x="100" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+      • Lagerbeholdning
+    </text>
+    <text x="100" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+      • Leverandørgjeld
+    </text>
+  </g>
+  
+  <!-- Principle 3: Liquidity Reserves -->
+  <g transform="translate(100, 480)">
+    <rect x="0" y="0" width="200" height="120" rx="15" fill="#6f42c1" stroke="#5a2d91" stroke-width="2"/>
+    <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      3. Likviditets-
+    </text>
+    <text x="100" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      reserver
+    </text>
+    <text x="100" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+      • Bankinnskudd
+    </text>
+    <text x="100" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+      • Kredittfasiliteter
+    </text>
+    <text x="100" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+      • Kortsiktige invest.
+    </text>
+  </g>
+  
+  <!-- Principle 4: Risk Management -->
+  <g transform="translate(500, 480)">
+    <rect x="0" y="0" width="200" height="120" rx="15" fill="#dc3545" stroke="#c82333" stroke-width="2"/>
+    <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      4. Risiko-
+    </text>
+    <text x="100" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      håndtering
+    </text>
+    <text x="100" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+      • Identifikasjon
+    </text>
+    <text x="100" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+      • Måling
+    </text>
+    <text x="100" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+      • Kontroll
+    </text>
+  </g>
+  
+  <!-- Connecting Lines -->
+  <g stroke="#6c757d" stroke-width="2" fill="none">
+    <!-- From center to principle 1 -->
+    <path d="M 320 220 L 250 200"/>
+    <!-- From center to principle 2 -->
+    <path d="M 480 220 L 550 200"/>
+    <!-- From center to principle 3 -->
+    <path d="M 320 380 L 250 480"/>
+    <!-- From center to principle 4 -->
+    <path d="M 480 380 L 550 480"/>
+  </g>
+  
+  <!-- Key Success Factors -->
+  <g transform="translate(50, 250)">
+    <rect x="0" y="0" width="120" height="100" rx="8" fill="#f8f9fa" stroke="#6c757d" stroke-width="1"/>
+    <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+      Suksessfaktorer
+    </text>
+    <text x="60" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      • Systematisk tilnærming
+    </text>
+    <text x="60" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      • Kontinuerlig overvåking
+    </text>
+    <text x="60" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      • Proaktiv planlegging
+    </text>
+    <text x="60" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      • Fleksible strategier
+    </text>
+  </g>
+  
+  <g transform="translate(630, 250)">
+    <rect x="0" y="0" width="120" height="100" rx="8" fill="#f8f9fa" stroke="#6c757d" stroke-width="1"/>
+    <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+      Målsettinger
+    </text>
+    <text x="60" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      • Sikre betalingsevne
+    </text>
+    <text x="60" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      • Optimalisere kapital
+    </text>
+    <text x="60" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      • Redusere risiko
+    </text>
+    <text x="60" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      • Støtte vekst
+    </text>
+  </g>
+</svg>

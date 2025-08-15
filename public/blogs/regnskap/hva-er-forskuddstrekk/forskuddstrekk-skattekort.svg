@@ -1,0 +1,120 @@
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#dc3545;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#c82333;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="600" height="400" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="600" height="50" fill="url(#headerGradient)"/>
+  
+  <!-- Title -->
+  <text x="300" y="30" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="white">
+    Skattekort og Trekkprosent
+  </text>
+  
+  <!-- Main content -->
+  <g transform="translate(50, 70)">
+    
+    <!-- Hovedkort -->
+    <rect x="0" y="0" width="150" height="120" fill="#d4edda" stroke="#28a745" stroke-width="2" rx="8"/>
+    <text x="75" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#155724">
+      HOVEDKORT
+    </text>
+    <text x="10" y="45" font-family="Arial, sans-serif" font-size="11" fill="#333">
+      • Hovedarbeidsforhold
+    </text>
+    <text x="10" y="65" font-family="Arial, sans-serif" font-size="11" fill="#333">
+      • Standard trekkprosent
+    </text>
+    <text x="10" y="85" font-family="Arial, sans-serif" font-size="11" fill="#333">
+      • 22-35% avhengig av lønn
+    </text>
+    <text x="10" y="105" font-family="Arial, sans-serif" font-size="11" fill="#333">
+      • Skattefradrag inkludert
+    </text>
+    
+    <!-- Bikort -->
+    <rect x="200" y="0" width="150" height="120" fill="#fff3cd" stroke="#856404" stroke-width="2" rx="8"/>
+    <text x="275" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#856404">
+      BIKORT
+    </text>
+    <text x="210" y="45" font-family="Arial, sans-serif" font-size="11" fill="#333">
+      • Ekstra arbeidsforhold
+    </text>
+    <text x="210" y="65" font-family="Arial, sans-serif" font-size="11" fill="#333">
+      • Høy trekkprosent
+    </text>
+    <text x="210" y="85" font-family="Arial, sans-serif" font-size="11" fill="#333">
+      • Vanligvis 50%
+    </text>
+    <text x="210" y="105" font-family="Arial, sans-serif" font-size="11" fill="#333">
+      • Ingen skattefradrag
+    </text>
+    
+    <!-- Frikort -->
+    <rect x="400" y="0" width="150" height="120" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="8"/>
+    <text x="475" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#1565c0">
+      FRIKORT
+    </text>
+    <text x="410" y="45" font-family="Arial, sans-serif" font-size="11" fill="#333">
+      • Lave inntekter
+    </text>
+    <text x="410" y="65" font-family="Arial, sans-serif" font-size="11" fill="#333">
+      • Ingen skattetrekk
+    </text>
+    <text x="410" y="85" font-family="Arial, sans-serif" font-size="11" fill="#333">
+      • Opp til fribeløpet
+    </text>
+    <text x="410" y="105" font-family="Arial, sans-serif" font-size="11" fill="#333">
+      • Ca. kr 7.500/mnd
+    </text>
+    
+    <!-- Process flow -->
+    <rect x="0" y="150" width="500" height="180" fill="white" stroke="#dee2e6" stroke-width="2" rx="10"/>
+    <text x="250" y="175" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#333">
+      Prosess for Skattekortet
+    </text>
+    
+    <!-- Steps -->
+    <g transform="translate(20, 190)">
+      <circle cx="15" cy="15" r="12" fill="#28a745" stroke="white" stroke-width="2"/>
+      <text x="15" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">1</text>
+      <text x="35" y="20" font-family="Arial, sans-serif" font-size="12" fill="#333">
+        Ansatt leverer skattekort til arbeidsgiver
+      </text>
+      
+      <circle cx="15" cy="45" r="12" fill="#28a745" stroke="white" stroke-width="2"/>
+      <text x="15" y="50" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">2</text>
+      <text x="35" y="50" font-family="Arial, sans-serif" font-size="12" fill="#333">
+        Arbeidsgiver registrerer trekkprosent og tabellnummer
+      </text>
+      
+      <circle cx="15" cy="75" r="12" fill="#28a745" stroke="white" stroke-width="2"/>
+      <text x="15" y="80" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">3</text>
+      <text x="35" y="80" font-family="Arial, sans-serif" font-size="12" fill="#333">
+        Lønnssystem beregner forskuddstrekk automatisk
+      </text>
+      
+      <circle cx="15" cy="105" r="12" fill="#28a745" stroke="white" stroke-width="2"/>
+      <text x="15" y="110" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">4</text>
+      <text x="35" y="110" font-family="Arial, sans-serif" font-size="12" fill="#333">
+        Trekk rapporteres i A-meldingen månedlig
+      </text>
+      
+      <circle cx="15" cy="135" r="12" fill="#28a745" stroke="white" stroke-width="2"/>
+      <text x="15" y="140" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">5</text>
+      <text x="35" y="140" font-family="Arial, sans-serif" font-size="12" fill="#333">
+        Skatteetaten oppdaterer skattekortet ved behov
+      </text>
+    </g>
+  </g>
+</svg>

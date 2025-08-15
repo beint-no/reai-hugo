@@ -1,0 +1,134 @@
+<svg width="900" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="riskGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#dc3545;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#c82333;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="opportunityGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="balanceGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#007bff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0056b3;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="900" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="450" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#212529">
+    ESG Risiko og Muligheter
+  </text>
+  
+  <!-- Balance Scale Base -->
+  <rect x="425" y="480" width="50" height="100" rx="5" fill="#6c757d"/>
+  <circle cx="450" cy="480" r="8" fill="#495057"/>
+  
+  <!-- Balance Scale Beam -->
+  <rect x="300" y="475" width="300" height="10" rx="5" fill="#495057"/>
+  
+  <!-- Left Scale (Risks) -->
+  <rect x="250" y="450" width="100" height="8" rx="4" fill="#495057"/>
+  <line x1="300" y1="450" x2="300" y2="475" stroke="#495057" stroke-width="3"/>
+  
+  <!-- Right Scale (Opportunities) -->
+  <rect x="550" y="450" width="100" height="8" rx="4" fill="#495057"/>
+  <line x1="600" y1="450" x2="600" y2="475" stroke="#495057" stroke-width="3"/>
+  
+  <!-- Risks Section -->
+  <rect x="50" y="80" width="350" height="350" rx="15" fill="url(#riskGradient)" opacity="0.1" stroke="url(#riskGradient)" stroke-width="2"/>
+  <rect x="50" y="80" width="350" height="50" rx="15" fill="url(#riskGradient)"/>
+  <text x="225" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
+    ESG-Risikoer
+  </text>
+  
+  <!-- Physical Climate Risks -->
+  <rect x="70" y="150" width="150" height="80" rx="10" fill="#ffebee" stroke="#f44336" stroke-width="1"/>
+  <text x="145" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#d32f2f">Fysiske Klimarisikoer</text>
+  <text x="80" y="190" font-family="Arial, sans-serif" font-size="11" fill="#424242">• Ekstremvær</text>
+  <text x="80" y="205" font-family="Arial, sans-serif" font-size="11" fill="#424242">• Havnivåstigning</text>
+  <text x="80" y="220" font-family="Arial, sans-serif" font-size="11" fill="#424242">• Temperaturendringer</text>
+  
+  <!-- Transition Risks -->
+  <rect x="240" y="150" width="150" height="80" rx="10" fill="#fff3e0" stroke="#ff9800" stroke-width="1"/>
+  <text x="315" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#f57c00">Overgangsrisikoer</text>
+  <text x="250" y="190" font-family="Arial, sans-serif" font-size="11" fill="#424242">• Regulatoriske endringer</text>
+  <text x="250" y="205" font-family="Arial, sans-serif" font-size="11" fill="#424242">• Teknologiendringer</text>
+  <text x="250" y="220" font-family="Arial, sans-serif" font-size="11" fill="#424242">• Markedsendringer</text>
+  
+  <!-- Social & Governance Risks -->
+  <rect x="70" y="250" width="150" height="80" rx="10" fill="#f3e5f5" stroke="#9c27b0" stroke-width="1"/>
+  <text x="145" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#7b1fa2">Sosiale Risikoer</text>
+  <text x="80" y="290" font-family="Arial, sans-serif" font-size="11" fill="#424242">• Arbeidskonflikter</text>
+  <text x="80" y="305" font-family="Arial, sans-serif" font-size="11" fill="#424242">• Omdømmerisiko</text>
+  <text x="80" y="320" font-family="Arial, sans-serif" font-size="11" fill="#424242">• Leverandørkjederisiko</text>
+  
+  <!-- Governance Risks -->
+  <rect x="240" y="250" width="150" height="80" rx="10" fill="#e8eaf6" stroke="#3f51b5" stroke-width="1"/>
+  <text x="315" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#303f9f">Styringsrisikoer</text>
+  <text x="250" y="290" font-family="Arial, sans-serif" font-size="11" fill="#424242">• Korrupsjon</text>
+  <text x="250" y="305" font-family="Arial, sans-serif" font-size="11" fill="#424242">• Cybersikkerhet</text>
+  <text x="250" y="320" font-family="Arial, sans-serif" font-size="11" fill="#424242">• Compliance-brudd</text>
+  
+  <!-- Financial Impact -->
+  <rect x="70" y="350" width="320" height="60" rx="10" fill="#ffcdd2" stroke="#f44336" stroke-width="1"/>
+  <text x="230" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#d32f2f">Finansiell Påvirkning</text>
+  <text x="80" y="390" font-family="Arial, sans-serif" font-size="11" fill="#424242">• Økte driftskostnader • Tap av inntekter • Høyere kapitalkostnader</text>
+  <text x="80" y="405" font-family="Arial, sans-serif" font-size="11" fill="#424242">• Verdifall på eiendeler • Forsikringskrav • Regulatoriske bøter</text>
+  
+  <!-- Opportunities Section -->
+  <rect x="500" y="80" width="350" height="350" rx="15" fill="url(#opportunityGradient)" opacity="0.1" stroke="url(#opportunityGradient)" stroke-width="2"/>
+  <rect x="500" y="80" width="350" height="50" rx="15" fill="url(#opportunityGradient)"/>
+  <text x="675" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
+    ESG-Muligheter
+  </text>
+  
+  <!-- Business Opportunities -->
+  <rect x="520" y="150" width="150" height="80" rx="10" fill="#e8f5e8" stroke="#4caf50" stroke-width="1"/>
+  <text x="595" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2e7d32">Forretningsmuligheter</text>
+  <text x="530" y="190" font-family="Arial, sans-serif" font-size="11" fill="#424242">• Nye markeder</text>
+  <text x="530" y="205" font-family="Arial, sans-serif" font-size="11" fill="#424242">• Produktinnovasjon</text>
+  <text x="530" y="220" font-family="Arial, sans-serif" font-size="11" fill="#424242">• Premiumprising</text>
+  
+  <!-- Operational Efficiency -->
+  <rect x="690" y="150" width="150" height="80" rx="10" fill="#e3f2fd" stroke="#2196f3" stroke-width="1"/>
+  <text x="765" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1976d2">Operasjonell Effektivitet</text>
+  <text x="700" y="190" font-family="Arial, sans-serif" font-size="11" fill="#424242">• Energibesparelser</text>
+  <text x="700" y="205" font-family="Arial, sans-serif" font-size="11" fill="#424242">• Avfallsreduksjon</text>
+  <text x="700" y="220" font-family="Arial, sans-serif" font-size="11" fill="#424242">• Prosessoptimalisering</text>
+  
+  <!-- Financial Benefits -->
+  <rect x="520" y="250" width="150" height="80" rx="10" fill="#fff8e1" stroke="#ffc107" stroke-width="1"/>
+  <text x="595" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#f57c00">Finansielle Fordeler</text>
+  <text x="530" y="290" font-family="Arial, sans-serif" font-size="11" fill="#424242">• Lavere kapitalkostnader</text>
+  <text x="530" y="305" font-family="Arial, sans-serif" font-size="11" fill="#424242">• Tilgang til grønn finansiering</text>
+  <text x="530" y="320" font-family="Arial, sans-serif" font-size="11" fill="#424242">• Reduserte forsikringskostnader</text>
+  
+  <!-- Brand & Reputation -->
+  <rect x="690" y="250" width="150" height="80" rx="10" fill="#fce4ec" stroke="#e91e63" stroke-width="1"/>
+  <text x="765" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#c2185b">Merkevare &amp; Omdømme</text>
+  <text x="700" y="290" font-family="Arial, sans-serif" font-size="11" fill="#424242">• Forbedret omdømme</text>
+  <text x="700" y="305" font-family="Arial, sans-serif" font-size="11" fill="#424242">• Kundelojalitet</text>
+  <text x="700" y="320" font-family="Arial, sans-serif" font-size="11" fill="#424242">• Talentattraktivitet</text>
+  
+  <!-- Value Creation -->
+  <rect x="520" y="350" width="320" height="60" rx="10" fill="#c8e6c9" stroke="#4caf50" stroke-width="1"/>
+  <text x="680" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2e7d32">Verdiskaping</text>
+  <text x="530" y="390" font-family="Arial, sans-serif" font-size="11" fill="#424242">• Økt lønnsomhet • Markedsverdi • Konkurransefortrinn</text>
+  <text x="530" y="405" font-family="Arial, sans-serif" font-size="11" fill="#424242">• Bærekraftig vekst • Innovasjon • Interessenttillit</text>
+  
+  <!-- Balance Point -->
+  <circle cx="450" cy="480" r="15" fill="url(#balanceGradient)"/>
+  <text x="450" y="487" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">ESG</text>
+  
+  <!-- Bottom Strategy Box -->
+  <rect x="200" y="520" width="500" height="60" rx="15" fill="url(#balanceGradient)" opacity="0.1" stroke="url(#balanceGradient)" stroke-width="2"/>
+  <text x="450" y="545" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#007bff">
+    Strategisk ESG-tilnærming
+  </text>
+  <text x="450" y="565" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#212529">
+    Balansere risikostyring med verdiskaping for langsiktig bærekraftig vekst
+  </text>
+</svg>

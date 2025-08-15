@@ -1,0 +1,162 @@
+<svg width="800" height="450" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="450" fill="url(#bgGrad)" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Title -->
+  <rect x="0" y="0" width="800" height="60" fill="url(#headerGrad)"/>
+  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
+    Minstefradrag Satser 2024
+  </text>
+  
+  <!-- Table header -->
+  <rect x="50" y="80" width="700" height="40" fill="#e3f2fd" stroke="#0066cc" stroke-width="1"/>
+  <text x="150" y="105" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0066cc">
+    Inntektstype
+  </text>
+  <text x="300" y="105" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0066cc">
+    Minstefradrag
+  </text>
+  <text x="450" y="105" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0066cc">
+    Maksimalt beløp
+  </text>
+  <text x="600" y="105" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0066cc">
+    Merknad
+  </text>
+  
+  <!-- Row 1 - Lønnsinntekt -->
+  <rect x="50" y="120" width="700" height="50" fill="white" stroke="#dee2e6" stroke-width="1"/>
+  <text x="150" y="140" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#333">
+    Lønnsinntekt
+  </text>
+  <text x="150" y="155" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#666">
+    Ordinær lønn
+  </text>
+  
+  <!-- Percentage circle for lønn -->
+  <circle cx="300" cy="145" r="20" fill="#e3f2fd" stroke="#0066cc" stroke-width="2"/>
+  <text x="300" y="150" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0066cc">
+    46%
+  </text>
+  
+  <text x="450" y="150" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#28a745">
+    kr 104 850
+  </text>
+  <text x="600" y="145" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#666">
+    Høyeste sats
+  </text>
+  <text x="600" y="160" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#666">
+    i systemet
+  </text>
+  
+  <!-- Row 2 - Pensjonsinntekt -->
+  <rect x="50" y="170" width="700" height="50" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1"/>
+  <text x="150" y="190" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#333">
+    Pensjonsinntekt
+  </text>
+  <text x="150" y="205" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#666">
+    Alders-/uførepensjon
+  </text>
+  
+  <!-- Percentage circle for pensjon -->
+  <circle cx="300" cy="195" r="20" fill="#fff3e0" stroke="#ff9800" stroke-width="2"/>
+  <text x="300" y="200" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ff9800">
+    31%
+  </text>
+  
+  <text x="450" y="200" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#28a745">
+    kr 90 800
+  </text>
+  <text x="600" y="195" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#666">
+    Lavere sats pga.
+  </text>
+  <text x="600" y="210" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#666">
+    færre utgifter
+  </text>
+  
+  <!-- Row 3 - Næringsinntekt -->
+  <rect x="50" y="220" width="700" height="50" fill="white" stroke="#dee2e6" stroke-width="1"/>
+  <text x="150" y="240" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#333">
+    Næringsinntekt
+  </text>
+  <text x="150" y="255" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#666">
+    Visse typer næring
+  </text>
+  
+  <!-- Percentage circle for næring -->
+  <circle cx="300" cy="245" r="20" fill="#f3e5f5" stroke="#9c27b0" stroke-width="2"/>
+  <text x="300" y="250" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#9c27b0">
+    25%
+  </text>
+  
+  <text x="450" y="250" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#28a745">
+    kr 69 700
+  </text>
+  <text x="600" y="245" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#666">
+    Strenge vilkår
+  </text>
+  <text x="600" y="260" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#666">
+    og begrensninger
+  </text>
+  
+  <!-- Row 4 - Sjømannsfradrag -->
+  <rect x="50" y="270" width="700" height="50" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1"/>
+  <text x="150" y="290" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#333">
+    Sjømannsfradrag
+  </text>
+  <text x="150" y="305" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#666">
+    Spesialordning
+  </text>
+  
+  <!-- Percentage circle for sjømann -->
+  <circle cx="300" cy="295" r="20" fill="#e8f5e8" stroke="#28a745" stroke-width="2"/>
+  <text x="300" y="300" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#28a745">
+    30%
+  </text>
+  
+  <text x="450" y="300" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#28a745">
+    kr 83 000
+  </text>
+  <text x="600" y="295" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#666">
+    Kun for
+  </text>
+  <text x="600" y="310" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#666">
+    sjøfolk
+  </text>
+  
+  <!-- Visual comparison bars -->
+  <text x="400" y="360" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#333">
+    Sammenligning av Maksimalbeløp
+  </text>
+  
+  <!-- Bar chart -->
+  <rect x="100" y="380" width="210" height="20" fill="#0066cc" rx="3"/>
+  <text x="205" y="395" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+    Lønn: kr 104 850
+  </text>
+  
+  <rect x="100" y="405" width="182" height="20" fill="#ff9800" rx="3"/>
+  <text x="191" y="420" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+    Pensjon: kr 90 800
+  </text>
+  
+  <rect x="450" y="380" width="166" height="20" fill="#28a745" rx="3"/>
+  <text x="533" y="395" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+    Sjømann: kr 83 000
+  </text>
+  
+  <rect x="450" y="405" width="140" height="20" fill="#9c27b0" rx="3"/>
+  <text x="520" y="420" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+    Næring: kr 69 700
+  </text>
+</svg>

@@ -1,0 +1,221 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="internGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#10b981;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#059669;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="eksternGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="url(#bgGradient)"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#1e293b">
+    Typer Selvfinansiering
+  </text>
+  
+  <!-- Main division line -->
+  <line x1="400" y1="70" x2="400" y2="550" stroke="#64748b" stroke-width="2" stroke-dasharray="5,5"/>
+  
+  <!-- Internal Self-Financing Section -->
+  <g transform="translate(20, 80)">
+    <rect x="0" y="0" width="360" height="460" fill="#ecfdf5" stroke="#10b981" stroke-width="3" rx="15"/>
+    
+    <!-- Section header -->
+    <rect x="20" y="20" width="320" height="50" fill="url(#internGradient)" rx="10"/>
+    <text x="180" y="35" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+      Intern Selvfinansiering
+    </text>
+    <text x="180" y="55" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+      Midler fra bedriftens egen drift
+    </text>
+    
+    <!-- Tilbakeholdt overskudd -->
+    <g transform="translate(30, 100)">
+      <rect x="0" y="0" width="300" height="70" fill="#d1fae5" stroke="#16a34a" stroke-width="2" rx="8"/>
+      <circle cx="30" cy="25" r="18" fill="#22c55e"/>
+      <text x="30" y="30" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">₹</text>
+      
+      <text x="60" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#15803d">
+        Tilbakeholdt Overskudd
+      </text>
+      <text x="60" y="35" font-family="Arial, sans-serif" font-size="11" fill="#166534">
+        • Årsresultat minus utbetalt utbytte
+      </text>
+      <text x="60" y="50" font-family="Arial, sans-serif" font-size="11" fill="#166534">
+        • Hovedkilde til vekstfinansiering
+      </text>
+      <text x="60" y="65" font-family="Arial, sans-serif" font-size="11" fill="#166534">
+        • Krever vedtak på generalforsamling
+      </text>
+    </g>
+    
+    <!-- Avskrivninger -->
+    <g transform="translate(30, 190)">
+      <rect x="0" y="0" width="300" height="70" fill="#d1fae5" stroke="#16a34a" stroke-width="2" rx="8"/>
+      <circle cx="30" cy="25" r="18" fill="#22c55e"/>
+      <text x="30" y="30" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">⚙</text>
+      
+      <text x="60" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#15803d">
+        Avskrivninger
+      </text>
+      <text x="60" y="35" font-family="Arial, sans-serif" font-size="11" fill="#166534">
+        • Regnskapsmessig kostnad uten kontantstrøm
+      </text>
+      <text x="60" y="50" font-family="Arial, sans-serif" font-size="11" fill="#166534">
+        • Frigjør midler til reinvestering
+      </text>
+      <text x="60" y="65" font-family="Arial, sans-serif" font-size="11" fill="#166534">
+        • Systematisk kapitaloppsparring
+      </text>
+    </g>
+    
+    <!-- Arbeidskapitaloptimalisering -->
+    <g transform="translate(30, 280)">
+      <rect x="0" y="0" width="300" height="70" fill="#d1fae5" stroke="#16a34a" stroke-width="2" rx="8"/>
+      <circle cx="30" cy="25" r="18" fill="#22c55e"/>
+      <text x="30" y="30" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">🔄</text>
+      
+      <text x="60" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#15803d">
+        Arbeidskapitaloptimalisering
+      </text>
+      <text x="60" y="35" font-family="Arial, sans-serif" font-size="11" fill="#166534">
+        • Frigjøring av bundne midler
+      </text>
+      <text x="60" y="50" font-family="Arial, sans-serif" font-size="11" fill="#166534">
+        • Effektiv kundefordringsstyring
+      </text>
+      <text x="60" y="65" font-family="Arial, sans-serif" font-size="11" fill="#166534">
+        • Lager- og leverandørgjeldoptimalisering
+      </text>
+    </g>
+    
+    <!-- Avsetninger -->
+    <g transform="translate(30, 370)">
+      <rect x="0" y="0" width="300" height="70" fill="#d1fae5" stroke="#16a34a" stroke-width="2" rx="8"/>
+      <circle cx="30" cy="25" r="18" fill="#22c55e"/>
+      <text x="30" y="30" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">🏦</text>
+      
+      <text x="60" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#15803d">
+        Avsetninger og Reserver
+      </text>
+      <text x="60" y="35" font-family="Arial, sans-serif" font-size="11" fill="#166534">
+        • Planlagte vedlikeholdsavsetninger
+      </text>
+      <text x="60" y="50" font-family="Arial, sans-serif" font-size="11" fill="#166534">
+        • Ekspansjonsreserver
+      </text>
+      <text x="60" y="65" font-family="Arial, sans-serif" font-size="11" fill="#166534">
+        • Beredskapsreserver
+      </text>
+    </g>
+  </g>
+  
+  <!-- External Self-Financing Section -->
+  <g transform="translate(420, 80)">
+    <rect x="0" y="0" width="360" height="460" fill="#eff6ff" stroke="#3b82f6" stroke-width="3" rx="15"/>
+    
+    <!-- Section header -->
+    <rect x="20" y="20" width="320" height="50" fill="url(#eksternGradient)" rx="10"/>
+    <text x="180" y="35" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+      Ekstern Selvfinansiering
+    </text>
+    <text x="180" y="55" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+      Egenkapitaltilførsel fra eierne
+    </text>
+    
+    <!-- Kapitalforhøyelse -->
+    <g transform="translate(30, 100)">
+      <rect x="0" y="0" width="300" height="70" fill="#dbeafe" stroke="#2563eb" stroke-width="2" rx="8"/>
+      <circle cx="30" cy="25" r="18" fill="#3b82f6"/>
+      <text x="30" y="30" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">📈</text>
+      
+      <text x="60" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1d4ed8">
+        Aksjekapitalforhøyelse
+      </text>
+      <text x="60" y="35" font-family="Arial, sans-serif" font-size="11" fill="#1e40af">
+        • Utstedelse av nye aksjer
+      </text>
+      <text x="60" y="50" font-family="Arial, sans-serif" font-size="11" fill="#1e40af">
+        • Innbetaling fra eksisterende eiere
+      </text>
+      <text x="60" y="65" font-family="Arial, sans-serif" font-size="11" fill="#1e40af">
+        • Overkursfond ved høyere prising
+      </text>
+    </g>
+    
+    <!-- Ny egenkapital -->
+    <g transform="translate(30, 190)">
+      <rect x="0" y="0" width="300" height="70" fill="#dbeafe" stroke="#2563eb" stroke-width="2" rx="8"/>
+      <circle cx="30" cy="25" r="18" fill="#3b82f6"/>
+      <text x="30" y="30" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">👥</text>
+      
+      <text x="60" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1d4ed8">
+        Nye Investorer
+      </text>
+      <text x="60" y="35" font-family="Arial, sans-serif" font-size="11" fill="#1e40af">
+        • Private equity og venture capital
+      </text>
+      <text x="60" y="50" font-family="Arial, sans-serif" font-size="11" fill="#1e40af">
+        • Strategiske partnere
+      </text>
+      <text x="60" y="65" font-family="Arial, sans-serif" font-size="11" fill="#1e40af">
+        • Børsintroduksjon (IPO)
+      </text>
+    </g>
+    
+    <!-- Konvertibel finansiering -->
+    <g transform="translate(30, 280)">
+      <rect x="0" y="0" width="300" height="70" fill="#dbeafe" stroke="#2563eb" stroke-width="2" rx="8"/>
+      <circle cx="30" cy="25" r="18" fill="#3b82f6"/>
+      <text x="30" y="30" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">🔀</text>
+      
+      <text x="60" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1d4ed8">
+        Konvertibel Finansiering
+      </text>
+      <text x="60" y="35" font-family="Arial, sans-serif" font-size="11" fill="#1e40af">
+        • Konvertible lån til egenkapital
+      </text>
+      <text x="60" y="50" font-family="Arial, sans-serif" font-size="11" fill="#1e40af">
+        • Ansattes aksjeopsjoner
+      </text>
+      <text x="60" y="65" font-family="Arial, sans-serif" font-size="11" fill="#1e40af">
+        • Betinget kapitalforhøyelse
+      </text>
+    </g>
+    
+    <!-- Eierinnskudd -->
+    <g transform="translate(30, 370)">
+      <rect x="0" y="0" width="300" height="70" fill="#dbeafe" stroke="#2563eb" stroke-width="2" rx="8"/>
+      <circle cx="30" cy="25" r="18" fill="#3b82f6"/>
+      <text x="30" y="30" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">💰</text>
+      
+      <text x="60" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1d4ed8">
+        Direkte Eierinnskudd
+      </text>
+      <text x="60" y="35" font-family="Arial, sans-serif" font-size="11" fill="#1e40af">
+        • Kapitalinnskudd fra eksisterende eiere
+      </text>
+      <text x="60" y="50" font-family="Arial, sans-serif" font-size="11" fill="#1e40af">
+        • Familiemedlemmer og venner
+      </text>
+      <text x="60" y="65" font-family="Arial, sans-serif" font-size="11" fill="#1e40af">
+        • Eierfinansiering ved behov
+      </text>
+    </g>
+  </g>
+  
+  <!-- Bottom comparison -->
+  <rect x="50" y="565" width="700" height="25" fill="#f1f5f9" stroke="#64748b" stroke-width="1" rx="5"/>
+  <text x="400" y="580" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#1e293b">
+    Begge typer øker egenkapitalen, men intern selvfinansiering krever ikke nye investorer
+  </text>
+</svg>

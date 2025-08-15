@@ -1,0 +1,134 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">Typer Giro-systemer</text>
+  
+  <!-- BankGiro -->
+  <rect x="50" y="80" width="300" height="200" rx="10" fill="#e8f4fd" stroke="#3498db" stroke-width="3"/>
+  <text x="200" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">BankGiro</text>
+  
+  <!-- BankGiro icon -->
+  <rect x="80" y="130" width="60" height="40" rx="5" fill="#3498db" stroke="#2980b9" stroke-width="2"/>
+  <text x="110" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">BANK</text>
+  <text x="110" y="162" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">GIRO</text>
+  
+  <!-- BankGiro features -->
+  <text x="160" y="140" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">• Manuell betaling</text>
+  <text x="160" y="155" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">• OCR-nummer</text>
+  <text x="160" y="170" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">• Enkeltbetalinger</text>
+  <text x="160" y="185" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">• Varierende regninger</text>
+  
+  <!-- Process flow for BankGiro -->
+  <rect x="80" y="210" width="50" height="30" rx="3" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
+  <text x="105" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Kunde</text>
+  
+  <line x1="130" y1="225" x2="160" y2="225" stroke="#34495e" stroke-width="2"/>
+  <polygon points="155,220 165,225 155,230" fill="#34495e"/>
+  
+  <rect x="170" y="210" width="50" height="30" rx="3" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
+  <text x="195" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Bank</text>
+  
+  <line x1="220" y1="225" x2="250" y2="225" stroke="#34495e" stroke-width="2"/>
+  <polygon points="245,220 255,225 245,230" fill="#34495e"/>
+  
+  <rect x="260" y="210" width="60" height="30" rx="3" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
+  <text x="290" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Mottaker</text>
+  
+  <!-- AvtaleGiro -->
+  <rect x="450" y="80" width="300" height="200" rx="10" fill="#e8f8f5" stroke="#27ae60" stroke-width="3"/>
+  <text x="600" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">AvtaleGiro</text>
+  
+  <!-- AvtaleGiro icon -->
+  <rect x="480" y="130" width="60" height="40" rx="5" fill="#27ae60" stroke="#229954" stroke-width="2"/>
+  <text x="510" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">AVTALE</text>
+  <text x="510" y="162" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">GIRO</text>
+  
+  <!-- AvtaleGiro features -->
+  <text x="560" y="140" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">• Automatisk trekk</text>
+  <text x="560" y="155" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">• Forhåndsdefinert</text>
+  <text x="560" y="170" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">• Regelmessige betalinger</text>
+  <text x="560" y="185" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">• Kunde kan stoppe</text>
+  
+  <!-- Process flow for AvtaleGiro -->
+  <rect x="480" y="210" width="50" height="30" rx="3" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
+  <text x="505" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Avtale</text>
+  
+  <line x1="530" y1="225" x2="560" y2="225" stroke="#34495e" stroke-width="2"/>
+  <polygon points="555,220 565,225 555,230" fill="#34495e"/>
+  
+  <rect x="570" y="210" width="50" height="30" rx="3" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
+  <text x="595" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Auto</text>
+  
+  <line x1="620" y1="225" x2="650" y2="225" stroke="#34495e" stroke-width="2"/>
+  <polygon points="645,220 655,225 645,230" fill="#34495e"/>
+  
+  <rect x="660" y="210" width="60" height="30" rx="3" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
+  <text x="690" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Betaling</text>
+  
+  <!-- eGiro -->
+  <rect x="50" y="320" width="300" height="200" rx="10" fill="#fdf2f8" stroke="#9b59b6" stroke-width="3"/>
+  <text x="200" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">Elektronisk Giro</text>
+  
+  <!-- eGiro icon -->
+  <rect x="80" y="370" width="60" height="40" rx="5" fill="#9b59b6" stroke="#8e44ad" stroke-width="2"/>
+  <text x="110" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">e-GIRO</text>
+  <text x="110" y="402" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">DIGITAL</text>
+  
+  <!-- eGiro features -->
+  <text x="160" y="380" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">• Digital behandling</text>
+  <text x="160" y="395" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">• Sanntidsbehandling</text>
+  <text x="160" y="410" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">• API-integrasjon</text>
+  <text x="160" y="425" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">• Mobiloptimalisert</text>
+  
+  <!-- Process flow for eGiro -->
+  <rect x="80" y="450" width="50" height="30" rx="3" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
+  <text x="105" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Digital</text>
+  
+  <line x1="130" y1="465" x2="160" y2="465" stroke="#34495e" stroke-width="2"/>
+  <polygon points="155,460 165,465 155,470" fill="#34495e"/>
+  
+  <rect x="170" y="450" width="50" height="30" rx="3" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
+  <text x="195" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">API</text>
+  
+  <line x1="220" y1="465" x2="250" y2="465" stroke="#34495e" stroke-width="2"/>
+  <polygon points="245,460 255,465 245,470" fill="#34495e"/>
+  
+  <rect x="260" y="450" width="60" height="30" rx="3" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
+  <text x="290" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Sanntid</text>
+  
+  <!-- International Giro -->
+  <rect x="450" y="320" width="300" height="200" rx="10" fill="#fdf2e9" stroke="#f39c12" stroke-width="3"/>
+  <text x="600" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">Internasjonale Giro</text>
+  
+  <!-- International Giro icon -->
+  <rect x="480" y="370" width="60" height="40" rx="5" fill="#f39c12" stroke="#e67e22" stroke-width="2"/>
+  <text x="510" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">INTL</text>
+  <text x="510" y="402" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">GIRO</text>
+  
+  <!-- International Giro features -->
+  <text x="560" y="380" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">• SEPA-betalinger</text>
+  <text x="560" y="395" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">• SWIFT-nettverk</text>
+  <text x="560" y="410" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">• Correspondent banking</text>
+  <text x="560" y="425" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">• Valutakonvertering</text>
+  
+  <!-- Process flow for International Giro -->
+  <rect x="480" y="450" width="50" height="30" rx="3" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
+  <text x="505" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Norge</text>
+  
+  <line x1="530" y1="465" x2="560" y2="465" stroke="#34495e" stroke-width="2"/>
+  <polygon points="555,460 565,465 555,470" fill="#34495e"/>
+  
+  <rect x="570" y="450" width="50" height="30" rx="3" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
+  <text x="595" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">SWIFT</text>
+  
+  <line x1="620" y1="465" x2="650" y2="465" stroke="#34495e" stroke-width="2"/>
+  <polygon points="645,460 655,465 645,470" fill="#34495e"/>
+  
+  <rect x="660" y="450" width="60" height="30" rx="3" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
+  <text x="690" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Europa</text>
+  
+  <!-- Bottom comparison -->
+  <text x="400" y="570" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#7f8c8d">Hver giro-type har sine spesifikke bruksområder og fordeler</text>
+</svg>

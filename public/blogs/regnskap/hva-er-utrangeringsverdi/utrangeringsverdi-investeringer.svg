@@ -1,0 +1,209 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="investGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#007bff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0056b3;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="npvGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#20c997;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="url(#bgGrad)"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
+    Utrangeringsverdi og Investeringsbeslutninger
+  </text>
+  
+  <!-- Investment Impact -->
+  <g transform="translate(50, 70)">
+    <rect x="0" y="0" width="340" height="200" fill="url(#investGrad)" rx="15"/>
+    <text x="170" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      Påvirkning på Investeringsevaluering
+    </text>
+    
+    <rect x="20" y="45" width="300" height="140" fill="white" rx="8"/>
+    
+    <!-- Investment icon -->
+    <polygon points="30,60 50,60 50,100 30,100" fill="#007bff"/>
+    <polygon points="32,95 48,95 40,105" fill="#007bff"/>
+    <text x="40" y="82" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">$</text>
+    
+    <text x="60" y="70" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#007bff">
+      Nåverdiberegninger (NPV):
+    </text>
+    <text x="60" y="90" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+      • Utrangeringsverdi påvirker sluttverdi
+    </text>
+    <text x="60" y="105" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+      • Høyere restverdi = bedre NPV
+    </text>
+    <text x="60" y="120" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+      • Kritisk for marginale prosjekter
+    </text>
+    
+    <text x="60" y="145" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#007bff">
+      Tilbakebetalingstid:
+    </text>
+    <text x="60" y="165" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+      • Kortere tid med høy utrangeringsverdi
+    </text>
+    <text x="60" y="180" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+      • Reduserer investeringsrisiko
+    </text>
+  </g>
+  
+  <!-- NPV Calculation -->
+  <g transform="translate(410, 70)">
+    <rect x="0" y="0" width="340" height="200" fill="url(#npvGrad)" rx="15"/>
+    <text x="170" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      NPV Eksempel
+    </text>
+    
+    <rect x="20" y="45" width="300" height="140" fill="white" rx="8"/>
+    
+    <text x="30" y="70" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#28a745">
+      Maskin A (Høy utrangeringsverdi):
+    </text>
+    <text x="30" y="85" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      Investering: 500.000 kr
+    </text>
+    <text x="30" y="98" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      Årlig kontantstrøm: 80.000 kr (10 år)
+    </text>
+    <text x="30" y="111" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      Utrangeringsverdi: 100.000 kr
+    </text>
+    <text x="30" y="124" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#28a745">
+      NPV (8%): 136.000 kr
+    </text>
+    
+    <line x1="30" y1="135" x2="290" y2="135" stroke="#dee2e6" stroke-width="1"/>
+    
+    <text x="30" y="150" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#dc3545">
+      Maskin B (Lav utrangeringsverdi):
+    </text>
+    <text x="30" y="165" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      Samme investering og kontantstrøm
+    </text>
+    <text x="30" y="178" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      Utrangeringsverdi: 20.000 kr
+    </text>
+    <text x="200" y="178" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#dc3545">
+      NPV: 82.000 kr
+    </text>
+  </g>
+  
+  <!-- Lease vs Buy Analysis -->
+  <g transform="translate(50, 300)">
+    <rect x="0" y="0" width="700" height="220" fill="white" stroke="#6f42c1" stroke-width="3" rx="15"/>
+    <text x="350" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#6f42c1">
+      Leasing vs. Kjøp Analyse
+    </text>
+    
+    <!-- Buy option -->
+    <g transform="translate(50, 50)">
+      <rect x="0" y="0" width="280" height="140" fill="#e7f3ff" stroke="#007bff" rx="10"/>
+      <text x="140" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#007bff">
+        KJØP
+      </text>
+      
+      <text x="20" y="50" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
+        Totalkostnad over 5 år:
+      </text>
+      <text x="20" y="70" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+        Anskaffelse:
+      </text>
+      <text x="200" y="70" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+        400.000 kr
+      </text>
+      
+      <text x="20" y="85" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+        Vedlikehold/drift:
+      </text>
+      <text x="200" y="85" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+        75.000 kr
+      </text>
+      
+      <text x="20" y="100" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+        Utrangeringsverdi:
+      </text>
+      <text x="200" y="100" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#28a745">
+        (120.000) kr
+      </text>
+      
+      <line x1="20" y1="110" x2="200" y2="110" stroke="#dee2e6" stroke-width="1"/>
+      
+      <text x="20" y="125" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#007bff">
+        Netto kostnad:
+      </text>
+      <text x="200" y="125" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#007bff">
+        355.000 kr
+      </text>
+    </g>
+    
+    <!-- Lease option -->
+    <g transform="translate(370, 50)">
+      <rect x="0" y="0" width="280" height="140" fill="#f8d7da" stroke="#dc3545" rx="10"/>
+      <text x="140" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#dc3545">
+        LEASING
+      </text>
+      
+      <text x="20" y="50" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
+        Totalkostnad over 5 år:
+      </text>
+      <text x="20" y="70" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+        Månedlige leie:
+      </text>
+      <text x="200" y="70" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+        8.000 kr × 60
+      </text>
+      
+      <text x="20" y="85" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+        = Totalt:
+      </text>
+      <text x="200" y="85" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+        480.000 kr
+      </text>
+      
+      <text x="20" y="100" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+        Restverdirisiko:
+      </text>
+      <text x="200" y="100" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#28a745">
+        0 kr
+      </text>
+      
+      <line x1="20" y1="110" x2="200" y2="110" stroke="#dee2e6" stroke-width="1"/>
+      
+      <text x="20" y="125" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#dc3545">
+        Netto kostnad:
+      </text>
+      <text x="200" y="125" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#dc3545">
+        480.000 kr
+      </text>
+    </g>
+    
+    <!-- Conclusion -->
+    <text x="350" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#6f42c1">
+      Konklusjon: Høy utrangeringsverdi (120.000 kr) gjør kjøp 125.000 kr billigere enn leasing
+    </text>
+  </g>
+  
+  <!-- Decision factors -->
+  <g transform="translate(50, 540)">
+    <rect x="0" y="0" width="700" height="45" fill="#17a2b8" rx="10"/>
+    <text x="350" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      Beslutningsfaktorer
+    </text>
+    <text x="350" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+      Høy utrangeringsverdi favoriserer kjøp • Lav utrangeringsverdi favoriserer leasing • Usikkerhet om fremtidig verdi favoriserer leasing
+    </text>
+  </g>
+</svg>

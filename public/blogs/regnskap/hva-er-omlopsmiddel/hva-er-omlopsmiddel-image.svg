@@ -1,0 +1,65 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#2563eb;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="boxGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="400" fill="#ffffff"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
+  <text x="400" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="28" font-weight="bold">Hva er omløpsmidler?</text>
+  
+  <!-- Main content area -->
+  <rect x="50" y="100" width="700" height="280" fill="url(#boxGradient)" stroke="#cbd5e1" stroke-width="2" rx="10"/>
+  
+  <!-- Four main categories -->
+  <!-- Kontanter -->
+  <rect x="80" y="130" width="140" height="100" fill="#dcfce7" stroke="#16a34a" stroke-width="2" rx="8"/>
+  <text x="150" y="155" text-anchor="middle" fill="#15803d" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Kontanter &amp;</text>
+  <text x="150" y="175" text-anchor="middle" fill="#15803d" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Kontantekvivalenter</text>
+  <text x="150" y="200" text-anchor="middle" fill="#166534" font-family="Arial, sans-serif" font-size="12">• Kasse</text>
+  <text x="150" y="215" text-anchor="middle" fill="#166534" font-family="Arial, sans-serif" font-size="12">• Bank</text>
+  
+  <!-- Fordringer -->
+  <rect x="240" y="130" width="140" height="100" fill="#dbeafe" stroke="#2563eb" stroke-width="2" rx="8"/>
+  <text x="310" y="155" text-anchor="middle" fill="#1d4ed8" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Kortsiktige</text>
+  <text x="310" y="175" text-anchor="middle" fill="#1d4ed8" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Fordringer</text>
+  <text x="310" y="200" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="12">• Kundefordringer</text>
+  <text x="310" y="215" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="12">• Andre fordringer</text>
+  
+  <!-- Varelager -->
+  <rect x="400" y="130" width="140" height="100" fill="#fef3c7" stroke="#d97706" stroke-width="2" rx="8"/>
+  <text x="470" y="155" text-anchor="middle" fill="#b45309" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Varelager</text>
+  <text x="470" y="185" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="12">• Råvarer</text>
+  <text x="470" y="200" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="12">• Ferdigvarer</text>
+  <text x="470" y="215" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="12">• Varer under arbeid</text>
+  
+  <!-- Investeringer -->
+  <rect x="560" y="130" width="140" height="100" fill="#fce7f3" stroke="#be185d" stroke-width="2" rx="8"/>
+  <text x="630" y="155" text-anchor="middle" fill="#be185d" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Kortsiktige</text>
+  <text x="630" y="175" text-anchor="middle" fill="#be185d" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Investeringer</text>
+  <text x="630" y="200" text-anchor="middle" fill="#9d174d" font-family="Arial, sans-serif" font-size="12">• Aksjer</text>
+  <text x="630" y="215" text-anchor="middle" fill="#9d174d" font-family="Arial, sans-serif" font-size="12">• Obligasjoner</text>
+  
+  <!-- Key characteristics -->
+  <text x="400" y="270" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Kjennetegn: Kortsiktige • Likvide • Driftsnødvendige</text>
+  
+  <!-- Timeline arrow -->
+  <path d="M 100 320 L 680 320" stroke="#6b7280" stroke-width="3" marker-end="url(#arrowhead)"/>
+  <text x="390" y="340" text-anchor="middle" fill="#6b7280" font-family="Arial, sans-serif" font-size="14">Realiseres innen 12 måneder</text>
+  
+  <!-- Arrow marker -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#6b7280"/>
+    </marker>
+  </defs>
+</svg>

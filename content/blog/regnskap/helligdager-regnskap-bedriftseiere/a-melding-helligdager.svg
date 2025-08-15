@@ -1,0 +1,103 @@
+<svg width="700" height="500" viewBox="0 0 700 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="700" height="500" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="350" y="30" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c3e50" text-anchor="middle">
+    A-melding og Helligdager
+  </text>
+  
+  <!-- A-melding form representation -->
+  <rect x="50" y="60" width="600" height="380" fill="#ffffff" stroke="#3498db" stroke-width="2" rx="10"/>
+  
+  <!-- Header -->
+  <rect x="70" y="80" width="560" height="40" fill="#2c3e50" rx="5"/>
+  <text x="350" y="105" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white" text-anchor="middle">
+    A-melding - Lønnsrapportering Helligdager
+  </text>
+  
+  <!-- Employee info section -->
+  <rect x="80" y="140" width="540" height="60" fill="#ecf0f1" rx="5"/>
+  <text x="90" y="160" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+    Ansattinformasjon
+  </text>
+  <text x="90" y="175" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">
+    Navn: Ola Nordmann | Fødselsnummer: 12345678901 | Arbeidsforholdstype: Ordinært
+  </text>
+  <text x="90" y="190" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">
+    Stillingsprosent: 100% | Ansettelsesdato: 01.01.2024
+  </text>
+  
+  <!-- Wage types section -->
+  <text x="90" y="230" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+    Lønnsarter - Mai 2024
+  </text>
+  
+  <!-- Regular wage -->
+  <rect x="90" y="245" width="250" height="35" fill="#3498db" rx="3"/>
+  <text x="100" y="260" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    Fastlønn (Lønnsart 001)
+  </text>
+  <text x="100" y="275" font-family="Arial, sans-serif" font-size="10" fill="white">
+    Beløp: 40 000 kr
+  </text>
+  
+  <!-- Holiday wage -->
+  <rect x="370" y="245" width="250" height="35" fill="#e74c3c" rx="3"/>
+  <text x="380" y="260" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    Helligdagslønn (Lønnsart 017)
+  </text>
+  <text x="380" y="275" font-family="Arial, sans-serif" font-size="10" fill="white">
+    Beløp: 4 000 kr (2 helligdager)
+  </text>
+  
+  <!-- Holiday supplement -->
+  <rect x="90" y="295" width="250" height="35" fill="#f39c12" rx="3"/>
+  <text x="100" y="310" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    Helligdagstillegg (Lønnsart 018)
+  </text>
+  <text x="100" y="325" font-family="Arial, sans-serif" font-size="10" fill="white">
+    Beløp: 2 000 kr (1 arbeidsdag)
+  </text>
+  
+  <!-- Overtime on holiday -->
+  <rect x="370" y="295" width="250" height="35" fill="#9b59b6" rx="3"/>
+  <text x="380" y="310" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    Overtid helligdag (Lønnsart 019)
+  </text>
+  <text x="380" y="325" font-family="Arial, sans-serif" font-size="10" fill="white">
+    Beløp: 1 500 kr
+  </text>
+  
+  <!-- Deductions section -->
+  <text x="90" y="365" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+    Trekk og Avgifter
+  </text>
+  
+  <rect x="90" y="375" width="160" height="25" fill="#95a5a6" rx="3"/>
+  <text x="100" y="390" font-family="Arial, sans-serif" font-size="10" fill="white">
+    Forskuddstrekk: 14 250 kr
+  </text>
+  
+  <rect x="270" y="375" width="160" height="25" fill="#95a5a6" rx="3"/>
+  <text x="280" y="390" font-family="Arial, sans-serif" font-size="10" fill="white">
+    Arbeidsgiveravgift: 6 698 kr
+  </text>
+  
+  <rect x="450" y="375" width="160" height="25" fill="#95a5a6" rx="3"/>
+  <text x="460" y="390" font-family="Arial, sans-serif" font-size="10" fill="white">
+    Pensjonstrekk: 2 375 kr
+  </text>
+  
+  <!-- Summary -->
+  <rect x="90" y="415" width="530" height="15" fill="#27ae60" rx="3"/>
+  <text x="355" y="427" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white" text-anchor="middle">
+    Total bruttolønn: 47 500 kr | Nettolønn: 30 875 kr
+  </text>
+  
+  <!-- Key points -->
+  <rect x="50" y="460" width="600" height="30" fill="#34495e" rx="5"/>
+  <text x="350" y="480" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white" text-anchor="middle">
+    Viktig: Alle helligdagsrelaterte lønnsarter må rapporteres separat i A-meldingen
+  </text>
+</svg>

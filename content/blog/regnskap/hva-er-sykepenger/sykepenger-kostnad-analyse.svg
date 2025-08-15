@@ -1,0 +1,94 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8fafc"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-size="24" font-weight="bold" fill="#1f2937">Sykepenger - Kostnadskryssning og Analyse</text>
+  
+  <!-- Cost breakdown chart -->
+  <rect x="50" y="60" width="350" height="250" fill="white" stroke="#d1d5db" stroke-width="1" rx="8"/>
+  <text x="225" y="85" text-anchor="middle" font-size="16" font-weight="bold" fill="#1f2937">Kostnadskategorier</text>
+  
+  <!-- Direct costs -->
+  <rect x="70" y="100" width="310" height="40" fill="#fee2e2" stroke="#ef4444" stroke-width="1" rx="4"/>
+  <text x="80" y="120" font-size="12" font-weight="bold" fill="#dc2626">Direkte kostnader</text>
+  <text x="80" y="135" font-size="10" fill="#dc2626">Arbeidsgiverperiode + administrasjon</text>
+  
+  <text x="90" y="160" font-size="11" fill="#374151">• Sykepenger dag 2-16: 16 dager × daglønn</text>
+  <text x="90" y="175" font-size="11" fill="#374151">• Arbeidsgiveravgift på sykepenger</text>
+  <text x="90" y="190" font-size="11" fill="#374151">• HR-administrasjon og systemkostnader</text>
+  <text x="90" y="205" font-size="11" fill="#374151">• Inntektsmeldingsbehandling</text>
+  
+  <!-- Indirect costs -->
+  <rect x="70" y="220" width="310" height="40" fill="#fef3c7" stroke="#f59e0b" stroke-width="1" rx="4"/>
+  <text x="80" y="240" font-size="12" font-weight="bold" fill="#92400e">Indirekte kostnader</text>
+  <text x="80" y="255" font-size="10" fill="#92400e">Produktivitet og kompetansetap</text>
+  
+  <text x="90" y="280" font-size="11" fill="#374151">• Vikarieringskosotnader eller redusert kapasitet</text>
+  <text x="90" y="295" font-size="11" fill="#374151">• Planleggingsutfordringer og prosjektforsinkelser</text>
+  
+  <!-- Budget example -->
+  <rect x="420" y="60" width="330" height="250" fill="white" stroke="#d1d5db" stroke-width="1" rx="8"/>
+  <text x="585" y="85" text-anchor="middle" font-size="16" font-weight="bold" fill="#1f2937">Budsjetteksempel</text>
+  
+  <text x="440" y="110" font-size="14" fill="#1f2937" font-weight="bold">Bedrift med 50 ansatte</text>
+  <text x="440" y="130" font-size="12" fill="#374151">Gjennomsnittlig månedslønn: 45.000 kr</text>
+  <text x="440" y="145" font-size="12" fill="#374151">Årlig lønnssum: 27.000.000 kr</text>
+  <text x="440" y="160" font-size="12" fill="#374151">Forventet sykefravær: 4,2% (SSB)</text>
+  
+  <rect x="440" y="180" width="290" height="120" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1" rx="4"/>
+  <text x="450" y="200" font-size="12" font-weight="bold" fill="#1f2937">Årlig kostnadskryssning:</text>
+  <text x="450" y="220" font-size="11" fill="#374151">Total sykefraværskostnad: 1.134.000 kr</text>
+  <text x="450" y="235" font-size="11" fill="#374151">- Arbeidsgiverperiode (30%): 340.200 kr</text>
+  <text x="450" y="250" font-size="11" fill="#374151">- Administrasjon (5%): 56.700 kr</text>
+  <text x="450" y="265" font-size="11" fill="#374151">- Vikariering (15%): 170.100 kr</text>
+  <text x="450" y="280" font-size="11" fill="#374151">- Produktivitetstap (50%): 567.000 kr</text>
+  <text x="450" y="295" font-size="11" fill="#ef4444" font-weight="bold">Total kostnad: 1.134.000 kr</text>
+  
+  <!-- Industry comparison -->
+  <rect x="50" y="330" width="700" height="150" fill="white" stroke="#d1d5db" stroke-width="1" rx="8"/>
+  <text x="400" y="355" text-anchor="middle" font-size="16" font-weight="bold" fill="#1f2937">Bransjespesifikk Sykefraværsanalyse</text>
+  
+  <!-- Table header -->
+  <rect x="50" y="370" width="700" height="25" fill="#f3f4f6"/>
+  <text x="120" y="387" text-anchor="middle" font-size="12" font-weight="bold" fill="#1f2937">Bransje</text>
+  <text x="250" y="387" text-anchor="middle" font-size="12" font-weight="bold" fill="#1f2937">Sykefravær %</text>
+  <text x="380" y="387" text-anchor="middle" font-size="12" font-weight="bold" fill="#1f2937">Kostnadsfaktor</text>
+  <text x="550" y="387" text-anchor="middle" font-size="12" font-weight="bold" fill="#1f2937">Hovedårsaker</text>
+  <text x="680" y="387" text-anchor="middle" font-size="12" font-weight="bold" fill="#1f2937">Tiltak</text>
+  
+  <!-- Table rows -->
+  <line x1="50" y1="395" x2="750" y2="395" stroke="#e5e7eb"/>
+  <text x="120" y="412" text-anchor="middle" font-size="10" fill="#374151">Helse og omsorg</text>
+  <text x="250" y="412" text-anchor="middle" font-size="10" fill="#ef4444">8-12%</text>
+  <text x="380" y="412" text-anchor="middle" font-size="10" fill="#ef4444">Høy</text>
+  <text x="550" y="412" text-anchor="middle" font-size="10" fill="#374151">Fysisk belastning</text>
+  <text x="680" y="412" text-anchor="middle" font-size="10" fill="#374151">Ergonomi</text>
+  
+  <line x1="50" y1="420" x2="750" y2="420" stroke="#e5e7eb"/>
+  <text x="120" y="437" text-anchor="middle" font-size="10" fill="#374151">IT og teknologi</text>
+  <text x="250" y="437" text-anchor="middle" font-size="10" fill="#10b981">2-4%</text>
+  <text x="380" y="437" text-anchor="middle" font-size="10" fill="#10b981">Lav</text>
+  <text x="550" y="437" text-anchor="middle" font-size="10" fill="#374151">Mentalt stress</text>
+  <text x="680" y="437" text-anchor="middle" font-size="10" fill="#374151">Fleksibilitet</text>
+  
+  <line x1="50" y1="445" x2="750" y2="445" stroke="#e5e7eb"/>
+  <text x="120" y="462" text-anchor="middle" font-size="10" fill="#374151">Industri</text>
+  <text x="250" y="462" text-anchor="middle" font-size="10" fill="#f59e0b">5-7%</text>
+  <text x="380" y="462" text-anchor="middle" font-size="10" fill="#f59e0b">Middels</text>
+  <text x="550" y="462" text-anchor="middle" font-size="10" fill="#374151">Skader, støy</text>
+  <text x="680" y="462" text-anchor="middle" font-size="10" fill="#374151">HMS-program</text>
+  
+  <!-- ROI section -->
+  <rect x="50" y="500" width="700" height="80" fill="#e0f2fe" stroke="#0284c7" stroke-width="1" rx="8"/>
+  <text x="400" y="525" text-anchor="middle" font-size="16" font-weight="bold" fill="#0c4a6e">Forebyggende Tiltak - ROI</text>
+  <text x="70" y="545" font-size="12" fill="#0c4a6e">• Bedriftshelsetjeneste: 15-25% reduksjon i sykefravær | Investeringskostnad: 2-4% av lønnssum</text>
+  <text x="70" y="560" font-size="12" fill="#0c4a6e">• Fleksible arbeidsordninger: 5-15% reduksjon | Teknologiinvestering: 1-2% av lønnssum</text>
+  <text x="70" y="575" font-size="12" fill="#0c4a6e">• HMS og ergonomi: 10-30% reduksjon | Implementeringskostnad: 3-7% av lønnssum</text>
+  
+  <!-- Vertical separators in table -->
+  <line x1="185" y1="370" x2="185" y2="470" stroke="#d1d5db"/>
+  <line x1="315" y1="370" x2="315" y2="470" stroke="#d1d5db"/>
+  <line x1="445" y1="370" x2="445" y2="470" stroke="#d1d5db"/>
+  <line x1="615" y1="370" x2="615" y2="470" stroke="#d1d5db"/>
+</svg>

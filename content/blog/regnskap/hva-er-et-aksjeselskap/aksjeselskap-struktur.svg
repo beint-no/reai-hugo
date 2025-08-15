@@ -1,0 +1,112 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="foundationGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f59e0b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#d97706;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="structureGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e40af;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="url(#bgGradient)"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#1e293b">Aksjeselskapets Grunnleggende Struktur</text>
+  
+  <!-- Foundation: Share Capital -->
+  <rect x="250" y="450" width="300" height="80" rx="8" fill="url(#foundationGradient)" stroke="#d97706" stroke-width="2"/>
+  <text x="400" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">AKSJEKAPITAL</text>
+  <text x="400" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">Minimum 30 000 kroner</text>
+  <text x="400" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Grunnlaget for selskapet</text>
+  
+  <!-- Main structure: Company -->
+  <rect x="200" y="200" width="400" height="250" rx="12" fill="url(#structureGradient)" stroke="#1e40af" stroke-width="3"/>
+  <rect x="220" y="220" width="360" height="210" rx="8" fill="#ffffff" opacity="0.9"/>
+  
+  <!-- Company header -->
+  <rect x="230" y="230" width="340" height="50" rx="6" fill="#1e40af"/>
+  <text x="400" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">AKSJESELSKAP (AS)</text>
+  <text x="400" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Eget rettssubjekt med begrenset ansvar</text>
+  
+  <!-- Three pillars inside -->
+  
+  <!-- Legal Entity -->
+  <rect x="240" y="300" width="100" height="110" rx="6" fill="#10b981" opacity="0.8" stroke="#059669" stroke-width="1"/>
+  <text x="290" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">EGET</text>
+  <text x="290" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">RETTSSUBJEKT</text>
+  <text x="290" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">• Kan inngå kontrakter</text>
+  <text x="290" y="375" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">• Kan eie eiendommer</text>
+  <text x="290" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">• Kan saksøkes</text>
+  
+  <!-- Limited Liability -->
+  <rect x="350" y="300" width="100" height="110" rx="6" fill="#8b5cf6" opacity="0.8" stroke="#7c3aed" stroke-width="1"/>
+  <text x="400" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">BEGRENSET</text>
+  <text x="400" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">ANSVAR</text>
+  <text x="400" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">• Eiernes risiko</text>
+  <text x="400" y="375" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">  er begrenset</text>
+  <text x="400" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">• Personlig økonomi</text>
+  <text x="400" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">  er beskyttet</text>
+  
+  <!-- Share Ownership -->
+  <rect x="460" y="300" width="100" height="110" rx="6" fill="#ef4444" opacity="0.8" stroke="#dc2626" stroke-width="1"/>
+  <text x="510" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">EIERSKAP</text>
+  <text x="510" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">GJENNOM AKSJER</text>
+  <text x="510" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">• Aksjer = eierandeler</text>
+  <text x="510" y="375" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">• Stemmerett</text>
+  <text x="510" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">• Utbytterett</text>
+  
+  <!-- Shareholders above -->
+  <text x="400" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">AKSJONÆRER (EIERE)</text>
+  
+  <!-- Individual shareholders -->
+  <circle cx="250" cy="150" r="25" fill="#06b6d4" opacity="0.8" stroke="#0891b2" stroke-width="2"/>
+  <text x="250" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">A</text>
+  <text x="250" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#0e7490">Aksjonær A</text>
+  
+  <circle cx="350" cy="150" r="25" fill="#06b6d4" opacity="0.8" stroke="#0891b2" stroke-width="2"/>
+  <text x="350" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">B</text>
+  <text x="350" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#0e7490">Aksjonær B</text>
+  
+  <circle cx="450" cy="150" r="25" fill="#06b6d4" opacity="0.8" stroke="#0891b2" stroke-width="2"/>
+  <text x="450" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">C</text>
+  <text x="450" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#0e7490">Aksjonær C</text>
+  
+  <circle cx="550" cy="150" r="25" fill="#06b6d4" opacity="0.8" stroke="#0891b2" stroke-width="2"/>
+  <text x="550" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">D</text>
+  <text x="550" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#0e7490">Aksjonær D</text>
+  
+  <!-- Arrows from shareholders to company -->
+  <polygon points="250,175 245,190 255,190" fill="#64748b"/>
+  <line x1="250" y1="175" x2="250" y2="190" stroke="#64748b" stroke-width="2"/>
+  
+  <polygon points="350,175 345,190 355,190" fill="#64748b"/>
+  <line x1="350" y1="175" x2="350" y2="190" stroke="#64748b" stroke-width="2"/>
+  
+  <polygon points="450,175 445,190 455,190" fill="#64748b"/>
+  <line x1="450" y1="175" x2="450" y2="190" stroke="#64748b" stroke-width="2"/>
+  
+  <polygon points="550,175 545,190 555,190" fill="#64748b"/>
+  <line x1="550" y1="175" x2="550" y2="190" stroke="#64748b" stroke-width="2"/>
+  
+  <!-- Arrow from company to foundation -->
+  <polygon points="400,440 395,455 405,455" fill="#64748b"/>
+  <line x1="400" y1="440" x2="400" y2="455" stroke="#64748b" stroke-width="2"/>
+  
+  <!-- Side notes -->
+  <text x="50" y="300" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">Kjennetegn:</text>
+  <text x="50" y="320" font-family="Arial, sans-serif" font-size="11" fill="#475569">• Minimum 1 aksjonær</text>
+  <text x="50" y="335" font-family="Arial, sans-serif" font-size="11" fill="#475569">• Minimum 30 000 kr kapital</text>
+  <text x="50" y="350" font-family="Arial, sans-serif" font-size="11" fill="#475569">• Eget organisasjonsnummer</text>
+  <text x="50" y="365" font-family="Arial, sans-serif" font-size="11" fill="#475569">• Må ha styre</text>
+  <text x="50" y="380" font-family="Arial, sans-serif" font-size="11" fill="#475569">• Årlig generalforsamling</text>
+  
+  <!-- Bottom description -->
+  <text x="400" y="570" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#64748b">Aksjeselskapet bygger på aksjekapital og gir eierne begrenset ansvar</text>
+</svg>

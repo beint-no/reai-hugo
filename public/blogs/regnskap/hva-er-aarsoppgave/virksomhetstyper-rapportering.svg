@@ -1,0 +1,94 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1e40af;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8fafc"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
+  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white" text-anchor="middle">Virksomhetstyper og Rapporteringskrav</text>
+  
+  <!-- Content area -->
+  <g transform="translate(40, 80)">
+    
+    <!-- Aksjeselskaper -->
+    <g transform="translate(0, 0)">
+      <rect x="0" y="0" width="350" height="220" fill="#dbeafe" stroke="#3b82f6" stroke-width="2" rx="12"/>
+      <text x="175" y="30" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1e40af" text-anchor="middle">Aksjeselskaper (AS/ASA)</text>
+      
+      <text x="20" y="60" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e40af">Rapporteringskrav:</text>
+      <text x="30" y="80" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Full årsoppgave (RF-1167/RF-1175)</text>
+      <text x="30" y="100" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Skatteposisjonsoppgave</text>
+      <text x="30" y="120" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Spesifikasjon av balanseposter</text>
+      <text x="30" y="140" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Transfer pricing dokumentasjon</text>
+      
+      <text x="20" y="170" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e40af">Særlige krav:</text>
+      <text x="30" y="190" font-family="Arial, sans-serif" font-size="11" fill="#374151">• ASA: Utvidet børsrapportering</text>
+      <text x="30" y="205" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Konsern: Country-by-Country</text>
+    </g>
+    
+    <!-- Enkeltpersonforetak -->
+    <g transform="translate(370, 0)">
+      <rect x="0" y="0" width="350" height="220" fill="#dcfce7" stroke="#10b981" stroke-width="2" rx="12"/>
+      <text x="175" y="30" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#059669" text-anchor="middle">Enkeltpersonforetak</text>
+      
+      <text x="20" y="60" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#059669">Rapporteringskrav:</text>
+      <text x="30" y="80" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Næringsoppgave (N1)</text>
+      <text x="30" y="100" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Integrert med selvangivelse</text>
+      <text x="30" y="120" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Forenklet regnskapsføring</text>
+      <text x="30" y="140" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Kontantprinsipp tillatt</text>
+      
+      <text x="20" y="170" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#059669">Terskelverdier:</text>
+      <text x="30" y="190" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Under NOK 5 mill.: Reduserte krav</text>
+      <text x="30" y="205" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Primærnæring: Særregler</text>
+    </g>
+    
+    <!-- Partnerskap -->
+    <g transform="translate(0, 240)">
+      <rect x="0" y="0" width="350" height="220" fill="#fef3c7" stroke="#f59e0b" stroke-width="2" rx="12"/>
+      <text x="175" y="30" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#d97706" text-anchor="middle">Partnerskap (ANS/DA/KS)</text>
+      
+      <text x="20" y="60" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#d97706">Rapporteringskrav:</text>
+      <text x="30" y="80" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Selskapets årsoppgave</text>
+      <text x="30" y="100" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Deltakeropplysninger</text>
+      <text x="30" y="120" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Resultatfordeling</text>
+      <text x="30" y="140" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Transparensprinsipp</text>
+      
+      <text x="20" y="170" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#d97706">Særkrav:</text>
+      <text x="30" y="190" font-family="Arial, sans-serif" font-size="11" fill="#374151">• KS: Komplementar/kommandittist</text>
+      <text x="30" y="205" font-family="Arial, sans-serif" font-size="11" fill="#374151">• DA: Solidarisk ansvar</text>
+    </g>
+    
+    <!-- Samvirke og andre -->
+    <g transform="translate(370, 240)">
+      <rect x="0" y="0" width="350" height="220" fill="#fce7f3" stroke="#ec4899" stroke-width="2" rx="12"/>
+      <text x="175" y="30" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#be185d" text-anchor="middle">Samvirkeforetak &amp; Andre</text>
+      
+      <text x="20" y="60" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#be185d">Samvirkeforetak:</text>
+      <text x="30" y="80" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Modifisert årsoppgave</text>
+      <text x="30" y="100" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Særregler for overskudd</text>
+      <text x="30" y="120" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Medlemsrapportering</text>
+      
+      <text x="20" y="150" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#be185d">Ideelle organisasjoner:</text>
+      <text x="30" y="170" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Kun næringsaktivitet</text>
+      <text x="30" y="185" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Forenklet rapportering</text>
+      <text x="30" y="200" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Særfradrag og fritak</text>
+    </g>
+    
+    <!-- Summary box -->
+    <g transform="translate(0, 480)">
+      <rect x="0" y="0" width="720" height="80" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="2" rx="8"/>
+      <text x="360" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#334155" text-anchor="middle">Generelle Prinsipper</text>
+      <text x="30" y="45" font-family="Arial, sans-serif" font-size="11" fill="#475569">• Alle virksomheter med økonomisk aktivitet har rapporteringsplikt</text>
+      <text x="30" y="60" font-family="Arial, sans-serif" font-size="11" fill="#475569">• Rapporteringskrav varierer med virksomhetstype, størrelse og kompleksitet</text>
+      <text x="30" y="75" font-family="Arial, sans-serif" font-size="11" fill="#475569">• Elektronisk innlevering via Altinn er obligatorisk for de fleste virksomheter</text>
+    </g>
+    
+  </g>
+  
+</svg>

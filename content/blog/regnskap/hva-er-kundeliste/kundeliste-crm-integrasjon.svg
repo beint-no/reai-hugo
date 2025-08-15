@@ -1,0 +1,157 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="crmGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="listGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#10b981;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#059669;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="integrationGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#8b5cf6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7c3aed;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8fafc"/>
+  
+  <!-- Title -->
+  <rect x="0" y="0" width="800" height="50" fill="url(#integrationGrad)"/>
+  <text x="400" y="30" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="22" font-weight="bold">Kundeliste &amp; CRM-system Integrasjon</text>
+  
+  <!-- Left side - Kundeliste -->
+  <rect x="50" y="80" width="300" height="450" fill="url(#listGrad)" rx="12" stroke="#059669" stroke-width="2"/>
+  <text x="200" y="110" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="18" font-weight="bold">KUNDELISTE</text>
+  
+  <!-- Kundeliste content -->
+  <rect x="70" y="130" width="260" height="380" fill="white" rx="8"/>
+  
+  <!-- Customer list table -->
+  <rect x="80" y="140" width="240" height="25" fill="#10b981" rx="4"/>
+  <text x="90" y="157" fill="white" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Nr</text>
+  <text x="130" y="157" fill="white" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Kunde</text>
+  <text x="220" y="157" fill="white" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Utestående</text>
+  
+  <!-- Sample rows -->
+  <rect x="80" y="165" width="240" height="20" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="90" y="178" fill="#374151" font-family="Arial, sans-serif" font-size="9">001</text>
+  <text x="130" y="178" fill="#374151" font-family="Arial, sans-serif" font-size="9">Norsk AS</text>
+  <text x="220" y="178" fill="#dc2626" font-family="Arial, sans-serif" font-size="9" font-weight="bold">45 000</text>
+  
+  <rect x="80" y="185" width="240" height="20" fill="white" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="90" y="198" fill="#374151" font-family="Arial, sans-serif" font-size="9">002</text>
+  <text x="130" y="198" fill="#374151" font-family="Arial, sans-serif" font-size="9">Bergen Bygg</text>
+  <text x="220" y="198" fill="#dc2626" font-family="Arial, sans-serif" font-size="9" font-weight="bold">12 500</text>
+  
+  <!-- Kundeliste features -->
+  <text x="90" y="230" fill="#1f2937" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Fokusområder:</text>
+  
+  <circle cx="100" cy="250" r="4" fill="#10b981"/>
+  <text x="115" y="255" fill="#374151" font-family="Arial, sans-serif" font-size="11">Økonomisk oversikt</text>
+  
+  <circle cx="100" cy="270" r="4" fill="#10b981"/>
+  <text x="115" y="275" fill="#374151" font-family="Arial, sans-serif" font-size="11">Utestående fordringer</text>
+  
+  <circle cx="100" cy="290" r="4" fill="#10b981"/>
+  <text x="115" y="295" fill="#374151" font-family="Arial, sans-serif" font-size="11">Betalingshistorikk</text>
+  
+  <circle cx="100" cy="310" r="4" fill="#10b981"/>
+  <text x="115" y="315" fill="#374151" font-family="Arial, sans-serif" font-size="11">Kredittgrenser</text>
+  
+  <circle cx="100" cy="330" r="4" fill="#10b981"/>
+  <text x="115" y="335" fill="#374151" font-family="Arial, sans-serif" font-size="11">Fakturering</text>
+  
+  <text x="90" y="365" fill="#1f2937" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Begrensninger:</text>
+  
+  <circle cx="100" cy="385" r="4" fill="#ef4444"/>
+  <text x="115" y="390" fill="#374151" font-family="Arial, sans-serif" font-size="11">Begrenset kundehistorikk</text>
+  
+  <circle cx="100" cy="405" r="4" fill="#ef4444"/>
+  <text x="115" y="410" fill="#374151" font-family="Arial, sans-serif" font-size="11">Ingen salgsdata</text>
+  
+  <circle cx="100" cy="425" r="4" fill="#ef4444"/>
+  <text x="115" y="430" fill="#374151" font-family="Arial, sans-serif" font-size="11">Mangler interaksjonsdata</text>
+  
+  <circle cx="100" cy="445" r="4" fill="#ef4444"/>
+  <text x="115" y="450" fill="#374151" font-family="Arial, sans-serif" font-size="11">Statisk informasjon</text>
+  
+  <circle cx="100" cy="465" r="4" fill="#ef4444"/>
+  <text x="115" y="470" fill="#374151" font-family="Arial, sans-serif" font-size="11">Ingen automatisering</text>
+  
+  <!-- Right side - CRM System -->
+  <rect x="450" y="80" width="300" height="450" fill="url(#crmGrad)" rx="12" stroke="#1d4ed8" stroke-width="2"/>
+  <text x="600" y="110" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="18" font-weight="bold">CRM-SYSTEM</text>
+  
+  <!-- CRM content -->
+  <rect x="470" y="130" width="260" height="380" fill="white" rx="8"/>
+  
+  <!-- Customer profile -->
+  <rect x="480" y="140" width="240" height="120" fill="#eff6ff" stroke="#3b82f6" stroke-width="1" rx="4"/>
+  <text x="490" y="157" fill="#1f2937" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Kunde: Norsk Handel AS</text>
+  <text x="490" y="175" fill="#374151" font-family="Arial, sans-serif" font-size="10">Siste kontakt: 15.01.2024</text>
+  <text x="490" y="190" fill="#374151" font-family="Arial, sans-serif" font-size="10">Salgsansvarlig: Anne Hansen</text>
+  <text x="490" y="205" fill="#374151" font-family="Arial, sans-serif" font-size="10">Pipeline: 3 aktive muligheter</text>
+  <text x="490" y="220" fill="#374151" font-family="Arial, sans-serif" font-size="10">Kundetilfredshet: 4.5/5</text>
+  <text x="490" y="235" fill="#374151" font-family="Arial, sans-serif" font-size="10">Neste oppfølging: 22.01.2024</text>
+  <text x="490" y="250" fill="#374151" font-family="Arial, sans-serif" font-size="10">Kampanjer: 2 aktive</text>
+  
+  <!-- CRM features -->
+  <text x="490" y="285" fill="#1f2937" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Utvidede funksjoner:</text>
+  
+  <circle cx="500" cy="305" r="4" fill="#3b82f6"/>
+  <text x="515" y="310" fill="#374151" font-family="Arial, sans-serif" font-size="11">Salgshistorikk &amp; pipeline</text>
+  
+  <circle cx="500" cy="325" r="4" fill="#3b82f6"/>
+  <text x="515" y="330" fill="#374151" font-family="Arial, sans-serif" font-size="11">Kundeinteraksjoner</text>
+  
+  <circle cx="500" cy="345" r="4" fill="#3b82f6"/>
+  <text x="515" y="350" fill="#374151" font-family="Arial, sans-serif" font-size="11">Markedsføringsaktiviteter</text>
+  
+  <circle cx="500" cy="365" r="4" fill="#3b82f6"/>
+  <text x="515" y="370" fill="#374151" font-family="Arial, sans-serif" font-size="11">Kundeservice &amp; support</text>
+  
+  <circle cx="500" cy="385" r="4" fill="#3b82f6"/>
+  <text x="515" y="390" fill="#374151" font-family="Arial, sans-serif" font-size="11">Automatiserte arbeidsflyter</text>
+  
+  <circle cx="500" cy="405" r="4" fill="#3b82f6"/>
+  <text x="515" y="410" fill="#374151" font-family="Arial, sans-serif" font-size="11">Prognoser &amp; analyser</text>
+  
+  <circle cx="500" cy="425" r="4" fill="#3b82f6"/>
+  <text x="515" y="430" fill="#374151" font-family="Arial, sans-serif" font-size="11">Personaliserte kampanjer</text>
+  
+  <circle cx="500" cy="445" r="4" fill="#3b82f6"/>
+  <text x="515" y="450" fill="#374151" font-family="Arial, sans-serif" font-size="11">Kundesegmentering</text>
+  
+  <circle cx="500" cy="465" r="4" fill="#3b82f6"/>
+  <text x="515" y="470" fill="#374151" font-family="Arial, sans-serif" font-size="11">Rapportering &amp; dashboards</text>
+  
+  <circle cx="500" cy="485" r="4" fill="#3b82f6"/>
+  <text x="515" y="490" fill="#374151" font-family="Arial, sans-serif" font-size="11">Mobilapplikasjoner</text>
+  
+  <!-- Integration arrows and data flow -->
+  <path d="M 350 200 L 450 200" stroke="#8b5cf6" stroke-width="4" fill="none" marker-end="url(#purpleArrow)"/>
+  <text x="400" y="190" text-anchor="middle" fill="#7c3aed" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Kundedata</text>
+  
+  <path d="M 450 300 L 350 300" stroke="#8b5cf6" stroke-width="4" fill="none" marker-end="url(#purpleArrowLeft)"/>
+  <text x="400" y="290" text-anchor="middle" fill="#7c3aed" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Oppdateringer</text>
+  
+  <path d="M 350 400 L 450 400" stroke="#8b5cf6" stroke-width="4" fill="none" marker-end="url(#purpleArrow)"/>
+  <text x="400" y="390" text-anchor="middle" fill="#7c3aed" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Transaksjoner</text>
+  
+  <!-- Arrow markers -->
+  <defs>
+    <marker id="purpleArrow" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto">
+      <polygon points="0 0, 10 4, 0 8" fill="#8b5cf6"/>
+    </marker>
+    <marker id="purpleArrowLeft" markerWidth="10" markerHeight="8" refX="1" refY="4" orient="auto">
+      <polygon points="10 0, 0 4, 10 8" fill="#8b5cf6"/>
+    </marker>
+  </defs>
+  
+  <!-- Integration benefits box -->
+  <rect x="100" y="550" width="600" height="40" fill="#f0f9ff" stroke="#3b82f6" stroke-width="2" rx="8"/>
+  <text x="400" y="570" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Integrasjonsfordeler: Komplett 360° kundevisning</text>
+  <text x="400" y="585" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12">Økonomisk data + Salgsdata + Kundeservice = Helhetlig kundestrategi</text>
+</svg>

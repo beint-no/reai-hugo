@@ -1,0 +1,132 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="400" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+    Kapitalens Rolle i Bedriftens Finansieringsstruktur
+  </text>
+  
+  <!-- Company box at center -->
+  <g transform="translate(300, 120)">
+    <rect x="0" y="0" width="200" height="160" fill="#34495e" stroke="#2c3e50" stroke-width="3" rx="15"/>
+    <text x="100" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      BEDRIFTEN
+    </text>
+    <text x="100" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+      Forretningsvirksomhet
+    </text>
+    
+    <!-- Activities inside company -->
+    <text x="20" y="85" font-family="Arial, sans-serif" font-size="12" fill="white">• Produksjon</text>
+    <text x="20" y="105" font-family="Arial, sans-serif" font-size="12" fill="white">• Salg</text>
+    <text x="20" y="125" font-family="Arial, sans-serif" font-size="12" fill="white">• Investeringer</text>
+    <text x="20" y="145" font-family="Arial, sans-serif" font-size="12" fill="white">• Vekst</text>
+  </g>
+  
+  <!-- Equity capital source (left) -->
+  <g transform="translate(50, 80)">
+    <rect x="0" y="0" width="180" height="120" fill="#27ae60" stroke="#229954" stroke-width="2" rx="10"/>
+    <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      EGENKAPITAL
+    </text>
+    <text x="90" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+      Fra Eierne
+    </text>
+    
+    <text x="15" y="70" font-family="Arial, sans-serif" font-size="11" fill="white">• Aksjekapital</text>
+    <text x="15" y="85" font-family="Arial, sans-serif" font-size="11" fill="white">• Tilbakeholdt overskudd</text>
+    <text x="15" y="100" font-family="Arial, sans-serif" font-size="11" fill="white">• Overkurs</text>
+  </g>
+  
+  <!-- Debt capital source (right) -->
+  <g transform="translate(570, 80)">
+    <rect x="0" y="0" width="180" height="120" fill="#e74c3c" stroke="#c0392b" stroke-width="2" rx="10"/>
+    <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      FREMMEDKAPITAL
+    </text>
+    <text x="90" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+      Fra Kreditorer
+    </text>
+    
+    <text x="15" y="70" font-family="Arial, sans-serif" font-size="11" fill="white">• Banklån</text>
+    <text x="15" y="85" font-family="Arial, sans-serif" font-size="11" fill="white">• Obligasjoner</text>
+    <text x="15" y="100" font-family="Arial, sans-serif" font-size="11" fill="white">• Leverandørgjeld</text>
+  </g>
+  
+  <!-- Arrows from capital sources to company -->
+  <path d="M 230 140 L 290 180" stroke="#27ae60" stroke-width="3" fill="none" marker-end="url(#greenArrow)"/>
+  <path d="M 570 140 L 510 180" stroke="#e74c3c" stroke-width="3" fill="none" marker-end="url(#redArrow)"/>
+  
+  <!-- Capital uses (bottom) -->
+  <g transform="translate(100, 320)">
+    <rect x="0" y="0" width="150" height="60" fill="#3498db" stroke="#2980b9" stroke-width="2" rx="8"/>
+    <text x="75" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      ANLEGGSMIDLER
+    </text>
+    <text x="75" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      Maskiner, bygninger
+    </text>
+    <text x="75" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      langsiktige investeringer
+    </text>
+  </g>
+  
+  <g transform="translate(280, 320)">
+    <rect x="0" y="0" width="120" height="60" fill="#f39c12" stroke="#e67e22" stroke-width="2" rx="8"/>
+    <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      DRIFT
+    </text>
+    <text x="60" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      Daglig virksomhet
+    </text>
+    <text x="60" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      og operasjoner
+    </text>
+  </g>
+  
+  <g transform="translate(430, 320)">
+    <rect x="0" y="0" width="120" height="60" fill="#9b59b6" stroke="#8e44ad" stroke-width="2" rx="8"/>
+    <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      VEKST
+    </text>
+    <text x="60" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      Ekspansjon og
+    </text>
+    <text x="60" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      nye muligheter
+    </text>
+  </g>
+  
+  <g transform="translate(580, 320)">
+    <rect x="0" y="0" width="120" height="60" fill="#1abc9c" stroke="#16a085" stroke-width="2" rx="8"/>
+    <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      BEREDSKAP
+    </text>
+    <text x="60" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      Reserver og
+    </text>
+    <text x="60" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      likviditet
+    </text>
+  </g>
+  
+  <!-- Arrows from company to uses -->
+  <path d="M 350 280 L 200 320" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#darkArrow)"/>
+  <path d="M 380 280 L 340 320" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#darkArrow)"/>
+  <path d="M 420 280 L 490 320" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#darkArrow)"/>
+  <path d="M 450 280 L 620 320" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#darkArrow)"/>
+  
+  <!-- Arrow markers -->
+  <defs>
+    <marker id="greenArrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#27ae60"/>
+    </marker>
+    <marker id="redArrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#e74c3c"/>
+    </marker>
+    <marker id="darkArrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#2c3e50"/>
+    </marker>
+  </defs>
+</svg>

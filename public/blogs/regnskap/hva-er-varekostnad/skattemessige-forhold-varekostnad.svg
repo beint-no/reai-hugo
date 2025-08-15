@@ -1,0 +1,140 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="taxGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#dc2626;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#b91c1c;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="allowedGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#10b981;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#059669;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="notAllowedGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ef4444;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#dc2626;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="methodGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#ffffff"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#1f2937">Skattemessige Forhold - Varekostnad</text>
+  
+  <!-- Lowest value principle -->
+  <g transform="translate(50, 70)">
+    <rect x="0" y="0" width="700" height="80" fill="url(#taxGradient)" rx="10"/>
+    <text x="350" y="25" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">LAVESTEKRITERIET - GRUNNPRINSIPP</text>
+    
+    <g transform="translate(50, 35)">
+      <text x="0" y="0" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Lagerbeholdning skal verdsettes til LAVESTE av:</text>
+      
+      <!-- Two boxes showing the comparison -->
+      <rect x="0" y="15" width="250" height="25" fill="rgba(255,255,255,0.2)" rx="3"/>
+      <text x="125" y="33" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="white">1. ANSKAFFELSESKOST</text>
+      
+      <text x="275" y="33" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">VS</text>
+      
+      <rect x="350" y="15" width="250" height="25" fill="rgba(255,255,255,0.2)" rx="3"/>
+      <text x="475" y="33" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="white">2. VIRKELIG VERDI</text>
+    </g>
+  </g>
+  
+  <!-- Allowed costs -->
+  <g transform="translate(50, 180)">
+    <rect x="0" y="0" width="320" height="180" fill="url(#allowedGradient)" rx="10"/>
+    <text x="160" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">TILLATTE KOSTNADSELEMENTER</text>
+    <text x="160" y="45" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">Kan inkluderes skattemessig</text>
+    
+    <!-- Allowed costs list -->
+    <g transform="translate(15, 55)">
+      <rect x="0" y="0" width="290" height="115" fill="rgba(255,255,255,0.2)" rx="5"/>
+      
+      <text x="10" y="15" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">✓ Direkte innkjøpspris</text>
+      <text x="20" y="28" font-family="Arial, sans-serif" font-size="9" fill="white">Grunnprisen fra leverandør</text>
+      
+      <text x="10" y="45" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">✓ Transport og ekspedisjonsgebyrer</text>
+      <text x="20" y="58" font-family="Arial, sans-serif" font-size="9" fill="white">Frakt, lastehåndtering, forsikring</text>
+      
+      <text x="10" y="75" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">✓ Toll og importavgifter</text>
+      <text x="20" y="88" font-family="Arial, sans-serif" font-size="9" fill="white">Ikke fradragsberettiget MVA</text>
+      
+      <text x="10" y="105" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">✓ Nødvendige tilpasningskostnader</text>
+    </g>
+  </g>
+  
+  <!-- Not allowed costs -->
+  <g transform="translate(430, 180)">
+    <rect x="0" y="0" width="320" height="180" fill="url(#notAllowedGradient)" rx="10"/>
+    <text x="160" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">IKKE-TILLATTE KOSTNADER</text>
+    <text x="160" y="45" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">Kan ikke inkluderes skattemessig</text>
+    
+    <!-- Not allowed costs list -->
+    <g transform="translate(15, 55)">
+      <rect x="0" y="0" width="290" height="115" fill="rgba(255,255,255,0.2)" rx="5"/>
+      
+      <text x="10" y="15" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">✗ Fradragsberettiget MVA</text>
+      <text x="20" y="28" font-family="Arial, sans-serif" font-size="9" fill="white">Kun ikke-fradragsberettiget MVA</text>
+      
+      <text x="10" y="45" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">✗ Unødvendige lagerkostnader</text>
+      <text x="20" y="58" font-family="Arial, sans-serif" font-size="9" fill="white">Overflødige eller ineffektive kostnader</text>
+      
+      <text x="10" y="75" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">✗ Finansieringskostnader</text>
+      <text x="20" y="88" font-family="Arial, sans-serif" font-size="9" fill="white">Renter (med visse unntak)</text>
+      
+      <text x="10" y="105" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">✗ Ikke-henførbare adm. kostnader</text>
+    </g>
+  </g>
+  
+  <!-- Valuation methods -->
+  <g transform="translate(50, 390)">
+    <rect x="0" y="0" width="320" height="130" fill="url(#methodGradient)" rx="10"/>
+    <text x="160" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">GODKJENTE METODER</text>
+    <text x="160" y="45" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">Skattemessig aksepterte</text>
+    
+    <!-- Methods list -->
+    <g transform="translate(15, 55)">
+      <rect x="0" y="0" width="290" height="65" fill="rgba(255,255,255,0.2)" rx="5"/>
+      
+      <text x="10" y="15" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">✓ FIFO (First In, First Out)</text>
+      <text x="10" y="30" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">✓ Vektet gjennomsnitt</text>
+      <text x="10" y="45" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">✓ Spesifikk identifikasjon</text>
+      <text x="10" y="60" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="white">✗ LIFO er IKKE tillatt i Norge</text>
+    </g>
+  </g>
+  
+  <!-- Write-downs and deductions -->
+  <g transform="translate(430, 390)">
+    <rect x="0" y="0" width="320" height="130" fill="#64748b" rx="10"/>
+    <text x="160" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">NEDSKRIVNING &amp; FRADRAG</text>
+    <text x="160" y="45" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">Skattemessige fradragsmuligheter</text>
+    
+    <!-- Write-downs -->
+    <g transform="translate(15, 55)">
+      <rect x="0" y="0" width="290" height="65" fill="rgba(255,255,255,0.2)" rx="5"/>
+      
+      <text x="10" y="15" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">Fradrag kan kreves for:</text>
+      <text x="10" y="28" font-family="Arial, sans-serif" font-size="9" fill="white">• Dokumentert svinn og tyveri</text>
+      <text x="10" y="40" font-family="Arial, sans-serif" font-size="9" fill="white">• Nedskrivning til virkelig verdi</text>
+      <text x="10" y="52" font-family="Arial, sans-serif" font-size="9" fill="white">• Realiserte tap ved salg</text>
+    </g>
+  </g>
+  
+  <!-- Tax impact example -->
+  <g transform="translate(50, 540)">
+    <text x="350" y="0" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#1f2937">Eksempel - Skattemessig Påvirkning</text>
+    
+    <!-- Example calculation -->
+    <g transform="translate(0, 20)">
+      <rect x="0" y="0" width="700" height="35" fill="#f8fafc" stroke="#e2e8f0" rx="5"/>
+      <text x="20" y="15" font-family="Arial, sans-serif" font-size="11" fill="#1f2937">Lagerbeholdning: Anskaffelseskost 1.000.000 kr, Markedsverdi 800.000 kr</text>
+      <text x="20" y="30" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#dc2626">Skattemessig verdi: 800.000 kr (lavestekriteriet) → Fradrag: 200.000 kr → Skattebesparelse: ~44.000 kr (22%)</text>
+    </g>
+  </g>
+  
+  <!-- Bottom note -->
+  <text x="400" y="590" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#64748b">Korrekt skattemessig behandling krever grundig forståelse av regelverket og konsistent anvendelse av godkjente metoder</text>
+</svg>

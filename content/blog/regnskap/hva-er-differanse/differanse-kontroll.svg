@@ -1,0 +1,341 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0D47A1;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="monthlyGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1B5E20;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="quarterlyGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF9800;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#E65100;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="annualGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#9C27B0;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4A148C;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
+  <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
+    Differanse Kontroll og Oppfølging
+  </text>
+  
+  <!-- Main Content Area -->
+  <g transform="translate(50, 80)">
+    
+    <!-- Monthly Follow-up Section -->
+    <g transform="translate(0, 0)">
+      <rect x="0" y="0" width="220" height="160" rx="10" fill="url(#monthlyGradient)" opacity="0.9"/>
+      <text x="110" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+        Månedlig Oppfølging
+      </text>
+      
+      <!-- Calendar icon -->
+      <g transform="translate(85, 35)">
+        <rect x="0" y="0" width="50" height="40" rx="3" fill="white" opacity="0.8"/>
+        <rect x="0" y="0" width="50" height="8" rx="3" fill="white"/>
+        <rect x="10" y="12" width="6" height="4" fill="url(#monthlyGradient)"/>
+        <rect x="20" y="12" width="6" height="4" fill="url(#monthlyGradient)"/>
+        <rect x="30" y="12" width="6" height="4" fill="url(#monthlyGradient)"/>
+        <rect x="10" y="20" width="6" height="4" fill="url(#monthlyGradient)"/>
+        <rect x="20" y="20" width="6" height="4" fill="url(#monthlyGradient)"/>
+        <rect x="30" y="20" width="6" height="4" fill="url(#monthlyGradient)"/>
+        <text x="25" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">
+          30 dager
+        </text>
+      </g>
+      
+      <!-- Activities -->
+      <g transform="translate(15, 85)">
+        <circle cx="8" cy="8" r="4" fill="white"/>
+        <text x="20" y="12" font-family="Arial, sans-serif" font-size="11" fill="white">
+          Budsjettrapporter med avviksanalyse
+        </text>
+        
+        <circle cx="8" cy="28" r="4" fill="white"/>
+        <text x="20" y="32" font-family="Arial, sans-serif" font-size="11" fill="white">
+          Trendanalyse av gjentakende avvik
+        </text>
+        
+        <circle cx="8" cy="48" r="4" fill="white"/>
+        <text x="20" y="52" font-family="Arial, sans-serif" font-size="11" fill="white">
+          Korrigerende tiltak ved vesentlige avvik
+        </text>
+      </g>
+    </g>
+    
+    <!-- Quarterly Analysis Section -->
+    <g transform="translate(240, 0)">
+      <rect x="0" y="0" width="220" height="160" rx="10" fill="url(#quarterlyGradient)" opacity="0.9"/>
+      <text x="110" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+        Kvartalsvise Analyser
+      </text>
+      
+      <!-- Chart icon -->
+      <g transform="translate(85, 35)">
+        <rect x="0" y="40" width="50" height="2" fill="white"/>
+        <rect x="0" y="40" width="2" height="-35" fill="white"/>
+        <rect x="8" y="40" width="6" height="-15" fill="white" opacity="0.7"/>
+        <rect x="18" y="40" width="6" height="-25" fill="white" opacity="0.7"/>
+        <rect x="28" y="40" width="6" height="-20" fill="white" opacity="0.7"/>
+        <rect x="38" y="40" width="6" height="-30" fill="white" opacity="0.7"/>
+        <text x="25" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">
+          Q1-Q4
+        </text>
+      </g>
+      
+      <!-- Activities -->
+      <g transform="translate(15, 85)">
+        <circle cx="8" cy="8" r="4" fill="white"/>
+        <text x="20" y="12" font-family="Arial, sans-serif" font-size="11" fill="white">
+          Rullende prognoser basert på avvik
+        </text>
+        
+        <circle cx="8" cy="28" r="4" fill="white"/>
+        <text x="20" y="32" font-family="Arial, sans-serif" font-size="11" fill="white">
+          Analyse av sesongvariasjoner
+        </text>
+        
+        <circle cx="8" cy="48" r="4" fill="white"/>
+        <text x="20" y="52" font-family="Arial, sans-serif" font-size="11" fill="white">
+          Benchmarking mot bransje
+        </text>
+      </g>
+    </g>
+    
+    <!-- Annual Evaluation Section -->
+    <g transform="translate(480, 0)">
+      <rect x="0" y="0" width="220" height="160" rx="10" fill="url(#annualGradient)" opacity="0.9"/>
+      <text x="110" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+        Årlige Evalueringer
+      </text>
+      
+      <!-- Target icon -->
+      <g transform="translate(95, 35)">
+        <circle cx="20" cy="20" r="18" fill="white" opacity="0.3"/>
+        <circle cx="20" cy="20" r="12" fill="white" opacity="0.5"/>
+        <circle cx="20" cy="20" r="6" fill="white" opacity="0.7"/>
+        <circle cx="20" cy="20" r="2" fill="white"/>
+        <text x="20" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">
+          Mål
+        </text>
+      </g>
+      
+      <!-- Activities -->
+      <g transform="translate(15, 85)">
+        <circle cx="8" cy="8" r="4" fill="white"/>
+        <text x="20" y="12" font-family="Arial, sans-serif" font-size="11" fill="white">
+          Evaluering av budsjettprocess
+        </text>
+        
+        <circle cx="8" cy="28" r="4" fill="white"/>
+        <text x="20" y="32" font-family="Arial, sans-serif" font-size="11" fill="white">
+          Analyse av systematiske avvik
+        </text>
+        
+        <circle cx="8" cy="48" r="4" fill="white"/>
+        <text x="20" y="52" font-family="Arial, sans-serif" font-size="11" fill="white">
+          Forbedring av prognosemetoder
+        </text>
+      </g>
+    </g>
+    
+    <!-- Control Process Flow -->
+    <g transform="translate(0, 180)">
+      <rect x="0" y="0" width="700" height="200" rx="10" fill="#6c757d" opacity="0.9"/>
+      <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+        Kontrollprosess for Differansehåndtering
+      </text>
+      
+      <!-- Step 1: Identify -->
+      <g transform="translate(50, 50)">
+        <rect x="0" y="0" width="120" height="120" rx="5" fill="white" opacity="0.1"/>
+        <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+          1. Identifiser
+        </text>
+        
+        <circle cx="60" cy="45" r="15" fill="white" opacity="0.3"/>
+        <text x="60" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">🔍</text>
+        
+        <text x="10" y="75" font-family="Arial, sans-serif" font-size="10" fill="white">
+          • Automatisk rapportering
+        </text>
+        <text x="10" y="90" font-family="Arial, sans-serif" font-size="10" fill="white">
+          • Varslingssystemer
+        </text>
+        <text x="10" y="105" font-family="Arial, sans-serif" font-size="10" fill="white">
+          • Regelmessige kontroller
+        </text>
+      </g>
+      
+      <!-- Arrow 1 -->
+      <path d="M 180 110 L 210 110" stroke="white" stroke-width="2" fill="none"/>
+      <polygon points="205,105 215,110 205,115" fill="white"/>
+      
+      <!-- Step 2: Analyze -->
+      <g transform="translate(220, 50)">
+        <rect x="0" y="0" width="120" height="120" rx="5" fill="white" opacity="0.1"/>
+        <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+          2. Analyser
+        </text>
+        
+        <circle cx="60" cy="45" r="15" fill="white" opacity="0.3"/>
+        <text x="60" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">📊</text>
+        
+        <text x="10" y="75" font-family="Arial, sans-serif" font-size="10" fill="white">
+          • Årsaksanalyse
+        </text>
+        <text x="10" y="90" font-family="Arial, sans-serif" font-size="10" fill="white">
+          • Trendvurdering
+        </text>
+        <text x="10" y="105" font-family="Arial, sans-serif" font-size="10" fill="white">
+          • Risikovurdering
+        </text>
+      </g>
+      
+      <!-- Arrow 2 -->
+      <path d="M 350 110 L 380 110" stroke="white" stroke-width="2" fill="none"/>
+      <polygon points="375,105 385,110 375,115" fill="white"/>
+      
+      <!-- Step 3: Act -->
+      <g transform="translate(390, 50)">
+        <rect x="0" y="0" width="120" height="120" rx="5" fill="white" opacity="0.1"/>
+        <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+          3. Handle
+        </text>
+        
+        <circle cx="60" cy="45" r="15" fill="white" opacity="0.3"/>
+        <text x="60" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">⚡</text>
+        
+        <text x="10" y="75" font-family="Arial, sans-serif" font-size="10" fill="white">
+          • Korrigerende tiltak
+        </text>
+        <text x="10" y="90" font-family="Arial, sans-serif" font-size="10" fill="white">
+          • Prosessforbedring
+        </text>
+        <text x="10" y="105" font-family="Arial, sans-serif" font-size="10" fill="white">
+          • Forebyggende tiltak
+        </text>
+      </g>
+      
+      <!-- Arrow 3 -->
+      <path d="M 520 110 L 550 110" stroke="white" stroke-width="2" fill="none"/>
+      <polygon points="545,105 555,110 545,115" fill="white"/>
+      
+      <!-- Step 4: Monitor -->
+      <g transform="translate(560, 50)">
+        <rect x="0" y="0" width="120" height="120" rx="5" fill="white" opacity="0.1"/>
+        <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+          4. Overvåk
+        </text>
+        
+        <circle cx="60" cy="45" r="15" fill="white" opacity="0.3"/>
+        <text x="60" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">👁</text>
+        
+        <text x="10" y="75" font-family="Arial, sans-serif" font-size="10" fill="white">
+          • Effektmåling
+        </text>
+        <text x="10" y="90" font-family="Arial, sans-serif" font-size="10" fill="white">
+          • Kontinuerlig oppfølging
+        </text>
+        <text x="10" y="105" font-family="Arial, sans-serif" font-size="10" fill="white">
+          • Rapportering til ledelse
+        </text>
+      </g>
+      
+      <!-- Feedback arrow -->
+      <path d="M 620 180 Q 350 200 80 180" stroke="white" stroke-width="2" fill="none" stroke-dasharray="5,5"/>
+      <polygon points="85,175 75,180 85,185" fill="white"/>
+      <text x="350" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+        Kontinuerlig forbedring
+      </text>
+    </g>
+    
+  </g>
+  
+  <!-- Key Performance Indicators -->
+  <g transform="translate(50, 400)">
+    <rect x="0" y="0" width="700" height="150" rx="10" fill="#e9ecef" stroke="#6c757d" stroke-width="2"/>
+    <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#495057">
+      Nøkkelindikatorer for Differansekontroll
+    </text>
+    
+    <g transform="translate(50, 40)">
+      <!-- KPI 1 -->
+      <g transform="translate(0, 0)">
+        <rect x="0" y="0" width="150" height="80" rx="5" fill="white" stroke="#6c757d"/>
+        <text x="75" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
+          Avviksfrekvens
+        </text>
+        <text x="75" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#28a745">
+          &lt; 5%
+        </text>
+        <text x="75" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+          av budsjetterte poster
+        </text>
+        <text x="75" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+          med vesentlige avvik
+        </text>
+      </g>
+      
+      <!-- KPI 2 -->
+      <g transform="translate(175, 0)">
+        <rect x="0" y="0" width="150" height="80" rx="5" fill="white" stroke="#6c757d"/>
+        <text x="75" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
+          Oppfølgingstid
+        </text>
+        <text x="75" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#ffc107">
+          &lt; 5 dager
+        </text>
+        <text x="75" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+          fra identifikasjon til
+        </text>
+        <text x="75" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+          korrigerende tiltak
+        </text>
+      </g>
+      
+      <!-- KPI 3 -->
+      <g transform="translate(350, 0)">
+        <rect x="0" y="0" width="150" height="80" rx="5" fill="white" stroke="#6c757d"/>
+        <text x="75" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
+          Prognosepresisjion
+        </text>
+        <text x="75" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#17a2b8">
+          &gt; 95%
+        </text>
+        <text x="75" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+          nøyaktighet i
+        </text>
+        <text x="75" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+          kvartalsprognoser
+        </text>
+      </g>
+      
+      <!-- KPI 4 -->
+      <g transform="translate(525, 0)">
+        <rect x="0" y="0" width="150" height="80" rx="5" fill="white" stroke="#6c757d"/>
+        <text x="75" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
+          Automatiseringsgrad
+        </text>
+        <text x="75" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#6f42c1">
+          &gt; 80%
+        </text>
+        <text x="75" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+          av rutinekontroller
+        </text>
+        <text x="75" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+          automatisert
+        </text>
+      </g>
+    </g>
+  </g>
+  
+</svg>

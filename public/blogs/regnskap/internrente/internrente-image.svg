@@ -1,0 +1,59 @@
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+    <rect width="100%" height="100%" fill="#f9f9f9"/>
+
+    <style>
+        .title { font: bold 24px sans-serif; fill: #333; }
+        .subtitle { font: 18px sans-serif; fill: #555; }
+        .box { fill: #fff; stroke: #ccc; stroke-width: 1; }
+        .investment-box { fill: #ffebee; stroke: #e57373; }
+        .cashflow-box { fill: #e8f5e9; stroke: #81c784; }
+        .text { font: 16px sans-serif; fill: #333; }
+        .arrow-line { stroke: #333; stroke-width: 2; }
+        .arrow-head { fill: #333; }
+        .formula { font: italic 18px serif; fill: #0d47a1; }
+    </style>
+
+    <text x="300" y="40" text-anchor="middle" class="title">Internrente Konsept</text>
+    <text x="300" y="70" text-anchor="middle" class="subtitle">Diskonteringsrenten som setter NPV til null</text>
+
+    <!-- Investering -->
+    <rect x="225" y="100" width="150" height="50" rx="5" class="investment-box"/>
+    <text x="300" y="130" text-anchor="middle" class="text">Investering</text>
+
+    <!-- Utgående kontantstrøm (Investering) -->
+    <defs>
+        <marker id="arrow-out" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+            <path d="M 0 0 L 10 5 L 0 10 z" class="arrow-head" />
+        </marker>
+    </defs>
+    <line x1="150" y1="125" x2="225" y2="125" class="arrow-line" marker-end="url(#arrow-out)"/>
+    <text x="140" y="115" text-anchor="end" class="text">-100 000 kr</text>
+    <text x="140" y="135" text-anchor="end" class="text">(Startkostnad)</text>
+
+    <!-- Inngående kontantstrømmer -->
+    <defs>
+        <marker id="arrow-in" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+            <path d="M 0 5 L 10 0 L 10 10 Z" class="arrow-head" />
+        </marker>
+    </defs>
+
+    <!-- CF1 -->
+    <line x1="300" y1="220" x2="300" y2="150" class="arrow-line" marker-end="url(#arrow-in)"/>
+    <rect x="225" y="220" width="150" height="40" rx="5" class="cashflow-box"/>
+    <text x="300" y="245" text-anchor="middle" class="text">+30 000 kr (År 1)</text>
+
+    <!-- CF2 -->
+    <line x1="450" y1="220" x2="350" y2="150" class="arrow-line" marker-end="url(#arrow-in)"/>
+    <rect x="375" y="220" width="150" height="40" rx="5" class="cashflow-box"/>
+    <text x="450" y="245" text-anchor="middle" class="text">+40 000 kr (År 2)</text>
+
+    <!-- CF3 -->
+    <line x1="150" y1="220" x2="250" y2="150" class="arrow-line" marker-end="url(#arrow-in)"/>
+    <rect x="75" y="220" width="150" height="40" rx="5" class="cashflow-box"/>
+    <text x="150" y="245" text-anchor="middle" class="text">+50 000 kr (År 3)</text>
+
+    <!-- Resultat -->
+    <text x="300" y="320" text-anchor="middle" class="formula">Hvis NPV = 0, da er internrenten (r):</text>
+    <rect x="200" y="340" width="200" height="40" rx="5" fill="#e3f2fd" stroke="#90caf9"/>
+    <text x="300" y="365" text-anchor="middle" class="title" fill="#0d47a1">IRR ≈ 14,5%</text>
+</svg>

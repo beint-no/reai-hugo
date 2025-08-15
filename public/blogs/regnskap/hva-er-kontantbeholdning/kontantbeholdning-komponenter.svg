@@ -1,0 +1,170 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="cashGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#20c997;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="bankGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#007bff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0056b3;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="investGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffc107;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e0a800;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="url(#bgGradient)"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#2c3e50">
+    Kontantbeholdningens Komponenter
+  </text>
+  
+  <!-- Central circle -->
+  <circle cx="400" cy="250" r="80" fill="#fff" stroke="#6c757d" stroke-width="3"/>
+  <text x="400" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
+    Kontant-
+  </text>
+  <text x="400" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
+    beholdning
+  </text>
+  
+  <!-- Component 1: Kontanter i kasse -->
+  <g transform="translate(150, 100)">
+    <circle cx="0" cy="0" r="60" fill="url(#cashGradient)" stroke="#1e7e34" stroke-width="2"/>
+    
+    <!-- Cash icon -->
+    <rect x="-25" y="-15" width="50" height="30" fill="white" stroke="#1e7e34" stroke-width="2" rx="3"/>
+    <text x="0" y="5" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e7e34">
+      NOK
+    </text>
+    
+    <!-- Label -->
+    <text x="0" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+      Kontanter i Kasse
+    </text>
+    <text x="0" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
+      Fysiske sedler og mynter
+    </text>
+    <text x="0" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
+      Umiddelbar tilgang
+    </text>
+  </g>
+  
+  <!-- Component 2: Bankinnskudd -->
+  <g transform="translate(650, 100)">
+    <circle cx="0" cy="0" r="60" fill="url(#bankGradient)" stroke="#0056b3" stroke-width="2"/>
+    
+    <!-- Bank icon -->
+    <rect x="-20" y="-10" width="40" height="20" fill="white" stroke="#0056b3" stroke-width="2"/>
+    <rect x="-15" y="-15" width="30" height="8" fill="#0056b3"/>
+    <rect x="-12" y="-5" width="4" height="12" fill="#0056b3"/>
+    <rect x="-4" y="-5" width="4" height="12" fill="#0056b3"/>
+    <rect x="4" y="-5" width="4" height="12" fill="#0056b3"/>
+    <rect x="12" y="-5" width="4" height="12" fill="#0056b3"/>
+    
+    <!-- Label -->
+    <text x="0" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+      Bankinnskudd
+    </text>
+    <text x="0" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
+      Brukskontoer og sparekontoer
+    </text>
+    <text x="0" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
+      Sikre og tilgjengelige
+    </text>
+  </g>
+  
+  <!-- Component 3: Kontantekvivalenter -->
+  <g transform="translate(150, 400)">
+    <circle cx="0" cy="0" r="60" fill="url(#investGradient)" stroke="#e0a800" stroke-width="2"/>
+    
+    <!-- Investment icon -->
+    <rect x="-20" y="-15" width="40" height="30" fill="white" stroke="#e0a800" stroke-width="2" rx="3"/>
+    <polyline points="-10,5 -5,-5 0,0 5,-10 10,0" stroke="#e0a800" stroke-width="3" fill="none"/>
+    <circle cx="-10" cy="5" r="2" fill="#e0a800"/>
+    <circle cx="-5" cy="-5" r="2" fill="#e0a800"/>
+    <circle cx="0" cy="0" r="2" fill="#e0a800"/>
+    <circle cx="5" cy="-10" r="2" fill="#e0a800"/>
+    <circle cx="10" cy="0" r="2" fill="#e0a800"/>
+    
+    <!-- Label -->
+    <text x="0" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+      Kontantekvivalenter
+    </text>
+    <text x="0" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
+      Pengemarkedsfond
+    </text>
+    <text x="0" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
+      Høy likviditet, lav risiko
+    </text>
+  </g>
+  
+  <!-- Component 4: Kortsiktige investeringer -->
+  <g transform="translate(650, 400)">
+    <circle cx="0" cy="0" r="60" fill="#6f42c1" stroke="#5a2d91" stroke-width="2"/>
+    
+    <!-- Document icon -->
+    <rect x="-15" y="-15" width="30" height="30" fill="white" stroke="#5a2d91" stroke-width="2" rx="3"/>
+    <line x1="-10" y1="-8" x2="10" y2="-8" stroke="#5a2d91" stroke-width="2"/>
+    <line x1="-10" y1="-2" x2="10" y2="-2" stroke="#5a2d91" stroke-width="2"/>
+    <line x1="-10" y1="4" x2="5" y2="4" stroke="#5a2d91" stroke-width="2"/>
+    <line x1="-10" y1="10" x2="8" y2="10" stroke="#5a2d91" stroke-width="2"/>
+    
+    <!-- Label -->
+    <text x="0" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+      Kortsiktige Investeringer
+    </text>
+    <text x="0" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
+      Statsobligasjoner &lt; 90 dager
+    </text>
+    <text x="0" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
+      Lett omsettelige
+    </text>
+  </g>
+  
+  <!-- Connecting lines -->
+  <g stroke="#6c757d" stroke-width="2" fill="none">
+    <!-- From cash to center -->
+    <line x1="200" y1="140" x2="340" y2="200"/>
+    <!-- From bank to center -->
+    <line x1="600" y1="140" x2="460" y2="200"/>
+    <!-- From equivalents to center -->
+    <line x1="200" y1="360" x2="340" y2="300"/>
+    <!-- From investments to center -->
+    <line x1="600" y1="360" x2="460" y2="300"/>
+  </g>
+  
+  <!-- Characteristics boxes -->
+  <g transform="translate(50, 220)">
+    <rect x="0" y="0" width="120" height="60" fill="#fff" stroke="#28a745" stroke-width="2" rx="5"/>
+    <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#28a745">
+      Høyest Likviditet
+    </text>
+    <text x="60" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+      Ingen risiko
+    </text>
+    <text x="60" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+      Ingen avkastning
+    </text>
+  </g>
+  
+  <g transform="translate(630, 220)">
+    <rect x="0" y="0" width="120" height="60" fill="#fff" stroke="#007bff" stroke-width="2" rx="5"/>
+    <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#007bff">
+      Høy Likviditet
+    </text>
+    <text x="60" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+      Svært lav risiko
+    </text>
+    <text x="60" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+      Lav avkastning
+    </text>
+  </g>
+</svg>

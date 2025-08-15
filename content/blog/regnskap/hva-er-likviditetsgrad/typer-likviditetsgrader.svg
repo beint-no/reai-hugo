@@ -1,0 +1,143 @@
+<svg width="900" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3498DB;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2980B9;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#E67E22;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#D35400;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="grad3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#27AE60;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#229954;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="900" height="500" fill="#F8F9FA"/>
+  
+  <!-- Title -->
+  <text x="450" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2C3E50">
+    Tre Hovedtyper av Likviditetsgrader
+  </text>
+  
+  <!-- Likviditetsgrad 1 -->
+  <rect x="50" y="80" width="250" height="350" fill="url(#grad1)" rx="15"/>
+  <text x="175" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+    Likviditetsgrad 1
+  </text>
+  <text x="175" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+    (Løpende likviditet)
+  </text>
+  
+  <!-- Formula 1 -->
+  <rect x="70" y="160" width="210" height="60" fill="rgba(255,255,255,0.2)" rx="8"/>
+  <text x="175" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    Omløpsmidler
+  </text>
+  <line x1="90" y1="190" x2="260" y2="190" stroke="white" stroke-width="2"/>
+  <text x="175" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    Kortsiktig gjeld
+  </text>
+  
+  <!-- Characteristics 1 -->
+  <text x="70" y="250" font-family="Arial, sans-serif" font-size="12" fill="white">• Inkluderer alt omløpsmidler</text>
+  <text x="70" y="270" font-family="Arial, sans-serif" font-size="12" fill="white">• Mest grunnleggende måling</text>
+  <text x="70" y="290" font-family="Arial, sans-serif" font-size="12" fill="white">• God verdi: &gt; 1,5</text>
+  <text x="70" y="310" font-family="Arial, sans-serif" font-size="12" fill="white">• Kritisk verdi: &lt; 1,0</text>
+  
+  <!-- Usage 1 -->
+  <rect x="70" y="330" width="210" height="80" fill="rgba(255,255,255,0.1)" rx="5"/>
+  <text x="175" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    Anvendelse:
+  </text>
+  <text x="175" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    Generell vurdering av
+  </text>
+  <text x="175" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    kortsiktig betalingsevne
+  </text>
+  
+  <!-- Likviditetsgrad 2 -->
+  <rect x="325" y="80" width="250" height="350" fill="url(#grad2)" rx="15"/>
+  <text x="450" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+    Likviditetsgrad 2
+  </text>
+  <text x="450" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+    (Hurtig likviditet)
+  </text>
+  
+  <!-- Formula 2 -->
+  <rect x="345" y="160" width="210" height="60" fill="rgba(255,255,255,0.2)" rx="8"/>
+  <text x="450" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    Omløpsmidler - Varelager
+  </text>
+  <line x1="365" y1="190" x2="535" y2="190" stroke="white" stroke-width="2"/>
+  <text x="450" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    Kortsiktig gjeld
+  </text>
+  
+  <!-- Characteristics 2 -->
+  <text x="345" y="250" font-family="Arial, sans-serif" font-size="12" fill="white">• Ekskluderer varelager</text>
+  <text x="345" y="270" font-family="Arial, sans-serif" font-size="12" fill="white">• Mer konservativ måling</text>
+  <text x="345" y="290" font-family="Arial, sans-serif" font-size="12" fill="white">• God verdi: &gt; 1,0</text>
+  <text x="345" y="310" font-family="Arial, sans-serif" font-size="12" fill="white">• Kritisk verdi: &lt; 0,8</text>
+  
+  <!-- Usage 2 -->
+  <rect x="345" y="330" width="210" height="80" fill="rgba(255,255,255,0.1)" rx="5"/>
+  <text x="450" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    Anvendelse:
+  </text>
+  <text x="450" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    Realistisk vurdering av
+  </text>
+  <text x="450" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    umiddelbar betalingsevne
+  </text>
+  
+  <!-- Kontantgrad -->
+  <rect x="600" y="80" width="250" height="350" fill="url(#grad3)" rx="15"/>
+  <text x="725" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+    Kontantgrad
+  </text>
+  <text x="725" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+    (Umiddelbar likviditet)
+  </text>
+  
+  <!-- Formula 3 -->
+  <rect x="620" y="160" width="210" height="60" fill="rgba(255,255,255,0.2)" rx="8"/>
+  <text x="725" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+    Kontanter + Kortsiktige
+  </text>
+  <text x="725" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+    investeringer
+  </text>
+  <line x1="640" y1="195" x2="810" y2="195" stroke="white" stroke-width="2"/>
+  <text x="725" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    Kortsiktig gjeld
+  </text>
+  
+  <!-- Characteristics 3 -->
+  <text x="620" y="250" font-family="Arial, sans-serif" font-size="12" fill="white">• Kun likvide midler</text>
+  <text x="620" y="270" font-family="Arial, sans-serif" font-size="12" fill="white">• Mest konservativ</text>
+  <text x="620" y="290" font-family="Arial, sans-serif" font-size="12" fill="white">• God verdi: &gt; 0,3</text>
+  <text x="620" y="310" font-family="Arial, sans-serif" font-size="12" fill="white">• Kritisk verdi: &lt; 0,1</text>
+  
+  <!-- Usage 3 -->
+  <rect x="620" y="330" width="210" height="80" fill="rgba(255,255,255,0.1)" rx="5"/>
+  <text x="725" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    Anvendelse:
+  </text>
+  <text x="725" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    Akutt betalingsevne og
+  </text>
+  <text x="725" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    krisehåndtering
+  </text>
+  
+  <!-- Bottom note -->
+  <text x="450" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7F8C8D">
+    Alle tre grader gir ulike perspektiver på bedriftens likviditet og betalingsevne
+  </text>
+</svg>

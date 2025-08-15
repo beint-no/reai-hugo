@@ -1,0 +1,63 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e8f5e8;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#c8e6c9;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#2e7d32;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1b5e20;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="400" fill="url(#bgGradient)" />
+  
+  <!-- Main title -->
+  <text x="400" y="120" font-family="Arial, sans-serif" font-size="48" font-weight="bold" 
+        text-anchor="middle" fill="url(#textGradient)">
+    Hva er GHG-protokollen?
+  </text>
+  
+  <!-- Subtitle -->
+  <text x="400" y="160" font-family="Arial, sans-serif" font-size="20" 
+        text-anchor="middle" fill="#2e7d32">
+    Greenhouse Gas Protocol
+  </text>
+  
+  <!-- Decorative elements -->
+  <circle cx="150" cy="250" r="40" fill="#4caf50" opacity="0.3" />
+  <circle cx="650" cy="250" r="35" fill="#66bb6a" opacity="0.4" />
+  <circle cx="400" cy="320" r="25" fill="#81c784" opacity="0.5" />
+  
+  <!-- CO2 molecule representation -->
+  <g transform="translate(350, 220)">
+    <!-- Carbon atom (center) -->
+    <circle cx="50" cy="30" r="12" fill="#424242" />
+    <text x="50" y="36" font-family="Arial, sans-serif" font-size="10" 
+          text-anchor="middle" fill="white" font-weight="bold">C</text>
+    
+    <!-- Oxygen atoms -->
+    <circle cx="20" cy="30" r="10" fill="#f44336" />
+    <text x="20" y="35" font-family="Arial, sans-serif" font-size="8" 
+          text-anchor="middle" fill="white" font-weight="bold">O</text>
+    
+    <circle cx="80" cy="30" r="10" fill="#f44336" />
+    <text x="80" y="35" font-family="Arial, sans-serif" font-size="8" 
+          text-anchor="middle" fill="white" font-weight="bold">O</text>
+    
+    <!-- Bonds -->
+    <line x1="32" y1="30" x2="38" y2="30" stroke="#666" stroke-width="2" />
+    <line x1="62" y1="30" x2="68" y2="30" stroke="#666" stroke-width="2" />
+    
+    <!-- CO2 label -->
+    <text x="50" y="55" font-family="Arial, sans-serif" font-size="12" 
+          text-anchor="middle" fill="#424242" font-weight="bold">CO₂</text>
+  </g>
+  
+  <!-- Bottom text -->
+  <text x="400" y="370" font-family="Arial, sans-serif" font-size="16" 
+        text-anchor="middle" fill="#2e7d32">
+    Klimarapportering og Bærekraftsregnskap
+  </text>
+</svg>

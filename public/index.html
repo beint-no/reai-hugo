@@ -25,6 +25,120 @@
     }
   }
 </script>
+<style>
+   
+  header .header-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #000 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link:hover { background-position: 0; }
+  header .header-link:hover::before { width: 100%; }
+
+  footer .footer-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #ffffff 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link:hover { background-position: 0; }
+  footer .footer-link:hover::before { width: 100%; }
+</style>
+<style>
+   
+  .prose { overflow-wrap: anywhere; word-break: break-word; }
+  .prose img { max-width: 100%; height: auto; }
+  .prose table { display: block; width: 100%; overflow-x: auto; }
+  .prose pre { white-space: pre-wrap; word-break: break-word; overflow-x: auto; }
+  .prose code { word-break: break-word; }
+  .prose iframe, .prose video { max-width: 100%; width: 100%; height: auto; }
+</style>
+<style>
+   
+  button,
+  .btn,
+  a.btn,
+  .button,
+  .cta,
+  .link-button,
+   
+  a.inline-flex.rounded-md,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"] {
+    transition: transform 220ms ease, box-shadow 220ms ease, background-color 220ms ease, color 220ms ease, opacity 220ms ease;
+    will-change: transform, box-shadow;
+  }
+
+  button:hover,
+  .btn:hover,
+  a.btn:hover,
+  .button:hover,
+  .cta:hover,
+  .link-button:hover,
+  a.inline-flex.rounded-md:hover,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+
+  button:active,
+  .btn:active,
+  a.btn:active,
+  .button:active,
+  .cta:active,
+  .link-button:active,
+  a.inline-flex.rounded-md:active,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:active {
+    transform: translateY(-1px) scale(0.99);
+    box-shadow: 0 6px 12px rgba(2, 6, 23, 0.1);
+  }
+
+  button:focus-visible,
+  .btn:focus-visible,
+  a.btn:focus-visible,
+  .button:focus-visible,
+  .cta:focus-visible,
+  .link-button:focus-visible,
+  a.inline-flex.rounded-md:focus-visible,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.35), 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+</style>
 
 <link rel="icon" type="image/svg+xml" href="/images/ReAI-logo-square.svg">
 <link rel="shortcut icon" href="/images/ReAI-logo-square.svg">
@@ -37,29 +151,53 @@
     <div class="max-w-7xl mx-auto px-4">
       <div class="h-16 flex items-center justify-between">
         <a href="/" class="flex items-center gap-2" aria-label="ReAI">
-          <img src="/images/ReAI-logo-square.svg?v=4" alt="ReAI logo" class="h-14 w-14 rounded-md" width="56" height="56" loading="eager" decoding="async">
+          <img src="/images/ReAI-logo-square.svg?v=4" alt="ReAI logo" class="h-14 w-14 rounded-md mt-5" width="56" height="56" loading="eager" decoding="async">
         </a>
         <nav class="hidden md:block">
           <ul class="flex items-center gap-5 text-sm">
-            <li><a href="/courses/" class="text-slate-700 hover:text-black">Gratis kurs</a></li>
-            <li><a href="/contact/" class="text-slate-700 hover:text-black">Kontakt oss</a></li>
-            <li><a href="/blog/" class="text-slate-700 hover:text-black">Regnskapsblogg</a></li>
-            <li><a href="/bli-partner/" class="text-slate-700 hover:text-black">Bli partner</a></li>
-            <li><a href="/lag-faktura/" class="text-slate-700 hover:text-black">Lag faktura</a></li>
+            <li><a href="/courses/" class="header-link text-slate-700 hover:text-black">Gratis kurs</a></li>
+            <li><a href="/contact/" class="header-link text-slate-700 hover:text-black">Kontakt oss</a></li>
+            <li><a href="/blog/" class="header-link text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+            <li><a href="/bli-partner/" class="header-link text-slate-700 hover:text-black">Bli partner</a></li>
+            <li><a href="/fakturamal/" class="header-link text-slate-700 hover:text-black">Lag faktura</a></li>
           </ul>
         </nav>
-        <button class="md:hidden inline-flex items-center justify-center h-9 w-9 rounded-md border border-slate-300">
+        <button id="mobileMenuBtn" aria-controls="mobileMenu" aria-expanded="false" class="md:hidden inline-flex items-center justify-center h-9 w-9 rounded-md border border-slate-300">
           <span class="sr-only">Menu</span>
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-5 w-5"><path d="M3.75 6.75h16.5v1.5H3.75zM3.75 11.25h16.5v1.5H3.75zM3.75 15.75h16.5v1.5H3.75z"/></svg>
         </button>
       </div>
     </div>
   </div>
+  
+  <nav id="mobileMenu" class="md:hidden hidden border-b border-slate-200/70 bg-white/95 backdrop-blur">
+    <div class="max-w-7xl mx-auto px-4 py-3">
+      <ul class="flex flex-col items-center gap-3 text-sm text-center">
+        <li><a href="/courses/" class="header-link block text-slate-700 hover:text-black">Gratis kurs</a></li>
+        <li><a href="/contact/" class="header-link block text-slate-700 hover:text-black">Kontakt oss</a></li>
+        <li><a href="/blog/" class="header-link block text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+        <li><a href="/bli-partner/" class="header-link block text-slate-700 hover:text-black">Bli partner</a></li>
+        <li><a href="/fakturamal/" class="header-link block text-slate-700 hover:text-black">Lag faktura</a></li>
+      </ul>
+    </div>
+  </nav>
+  <script>
+    (function() {
+      const btn = document.getElementById('mobileMenuBtn');
+      const menu = document.getElementById('mobileMenu');
+      if (!btn || !menu) return;
+      btn.addEventListener('click', function() {
+        const isHidden = menu.classList.contains('hidden');
+        menu.classList.toggle('hidden');
+        btn.setAttribute('aria-expanded', String(isHidden));
+      });
+    })();
+  </script>
 </header>
   <main>
     
 
-<section class="pt-12 md:pt-20 bg-white">
+<section class="pt-12 md:pt-20 bg-gray-100">
   <div class="max-w-3xl mx-auto px-4 text-center">
     <h1 class="text-3xl md:text-5xl font-semibold leading-tight tracking-tight">Free accounting software</h1>
     <p class="mt-3 text-gray-700 md:text-lg">Accounting AI. Complete accounting system with invoicing, payroll, journal
@@ -73,7 +211,7 @@
 </section>
 
 
-<section class="py-6">
+<section class="py-6 bg-gray-100">
   <div class="max-w-7xl mx-auto px-4">
     <div class="flex justify-center">
       <div
@@ -88,34 +226,33 @@
 </section>
 
 
-<section id="modules" class="py-12 md:py-16">
+<section id="modules" class="py-12 md:py-16 bg-black text-white">
   <div class="max-w-7xl mx-auto px-4">
-    <h2 class="text-2xl md:text-3xl font-semibold">Et komplett regnskapssystem</h2>
+    <h2 class="text-2xl md:text-3xl font-semibold text-center">A complete accounting system</h2>
     <div class="mt-6 grid sm:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-6">
-      <div class="rounded-xl bg-white p-5 ring-1 ring-gray-200">
-        <h3 class="font-semibold">Regnskap</h3>
-        <p class="mt-1 text-gray-700">Automatisert regnskap med integrasjon til bank. Papir og manuell tasting er ut!
-        </p>
+      <div class="rounded-xl bg-slate-900 p-5 ring-1 ring-gray-700 transform transition-all duration-300 ease-out hover:-translate-y-1 hover:ring-gray-500">
+        <h3 class="font-semibold">Accounting</h3>
+        <p class="mt-1 text-gray-300">Automated accounting with bank integration. Paper and manual entry are out!</p>
       </div>
-      <div class="rounded-xl bg-white p-5 ring-1 ring-gray-200">
-        <h3 class="font-semibold">Faktura</h3>
-        <p class="mt-1 text-gray-700">Lag og send fakturaer til kunder like enkelt som du betaler regninger.</p>
+      <div class="rounded-xl bg-slate-900 p-5 ring-1 ring-gray-700 transform transition-all duration-300 ease-out hover:-translate-y-1 hover:ring-gray-500">
+        <h3 class="font-semibold">Invoicing</h3>
+        <p class="mt-1 text-gray-300">Create and send invoices to customers as easily as you pay bills.</p>
       </div>
-      <div class="rounded-xl bg-white p-5 ring-1 ring-gray-200">
-        <h3 class="font-semibold">Lønn</h3>
-        <p class="mt-1 text-gray-700">Fleksibel lønn knyttet til prosjekter, timelister og utlegg.</p>
+      <div class="rounded-xl bg-slate-900 p-5 ring-1 ring-gray-700 transform transition-all duration-300 ease-out hover:-translate-y-1 hover:ring-gray-500">
+        <h3 class="font-semibold">Payroll</h3>
+        <p class="mt-1 text-gray-300">Flexible payroll linked to projects, timesheets, and expenses.</p>
       </div>
-      <div class="rounded-xl bg-white p-5 ring-1 ring-gray-200">
-        <h3 class="font-semibold">Reise og utlegg</h3>
-        <p class="mt-1 text-gray-700">Registrer reiseregninger og utlegg når og hvor som helst.</p>
+      <div class="rounded-xl bg-slate-900 p-5 ring-1 ring-gray-700 transform transition-all duration-300 ease-out hover:-translate-y-1 hover:ring-gray-500">
+        <h3 class="font-semibold">Travel & expenses</h3>
+        <p class="mt-1 text-gray-300">Register travel claims and expenses anytime, anywhere.</p>
       </div>
-      <div class="rounded-xl bg-white p-5 ring-1 ring-gray-200">
-        <h3 class="font-semibold">Prosjekt</h3>
-        <p class="mt-1 text-gray-700">Full kontroll på lønnsomhet, ressursbruk og budsjetter.</p>
+      <div class="rounded-xl bg-slate-900 p-5 ring-1 ring-gray-700 transform transition-all duration-300 ease-out hover:-translate-y-1 hover:ring-gray-500">
+        <h3 class="font-semibold">Project</h3>
+        <p class="mt-1 text-gray-300">Full control over profitability, resource usage, and budgets.</p>
       </div>
-      <div class="rounded-xl bg-white p-5 ring-1 ring-gray-200">
-        <h3 class="font-semibold">Årsoppgjør</h3>
-        <p class="mt-1 text-gray-700">Integrasjon med Altinn og automatiske sluttposteringer.</p>
+      <div class="rounded-xl bg-slate-900 p-5 ring-1 ring-gray-700 transform transition-all duration-300 ease-out hover:-translate-y-1 hover:ring-gray-500">
+        <h3 class="font-semibold">Year-end closing</h3>
+        <p class="mt-1 text-gray-300">Integration with Altinn and automatic closing entries.</p>
       </div>
     </div>
   </div>
@@ -125,29 +262,135 @@
 <section class="py-12">
   <div class="max-w-7xl mx-auto px-4">
     <div class="grid md:grid-cols-2 gap-4 md:gap-6">
-      <article class="rounded-2xl ring-1 ring-gray-200 p-6 bg-white">
-        <h2 class="text-xl font-semibold">Free invoice program</h2>
-        <p class="mt-1 text-gray-700">Create and send invoices to customers as easily as you pay bills.</p>
-        <a class="mt-4 inline-flex text-indigo-700 font-medium" href="/blog/gratis-fakturaprogram/">Create invoice →</a>
+      <article class="rounded-2xl bg-white p-6 shadow-lg border border-gray-200 w-full max-w-md mx-auto text-center transform transition-all duration-300 ease-out hover:-translate-y-1 hover:shadow-2xl">
+        <div class="flex items-center justify-center mb-4">
+          <div class="w-14 h-14 rounded-full bg-blue-600 flex items-center justify-center shadow-sm">
+            
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-7 h-7">
+              <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/>
+              <path d="M14 2v6h6"/>
+              <path d="M16 13H8"/>
+              <path d="M16 17H8"/>
+              <path d="M10 9H8"/>
+            </svg>
+          </div>
+        </div>
+        <h2 class="text-3xl font-semibold text-slate-900">Fakturaprogram</h2>
+        <ul class="mt-4 space-y-2 text-slate-900 inline-block text-left mx-auto">
+          <li class="flex items-start"><span class="mt-2 mr-3 inline-block h-2 w-2 rounded-full bg-emerald-500"></span>Profesjonelle fakturaer</li>
+          <li class="flex items-start"><span class="mt-2 mr-3 inline-block h-2 w-2 rounded-full bg-emerald-500"></span>Automatisk nummerering</li>
+          <li class="flex items-start"><span class="mt-2 mr-3 inline-block h-2 w-2 rounded-full bg-emerald-500"></span>Kunderegistrering</li>
+          <li class="flex items-start"><span class="mt-2 mr-3 inline-block h-2 w-2 rounded-full bg-emerald-500"></span>E-post utsendelse</li>
+          <li class="flex items-start"><span class="mt-2 mr-3 inline-block h-2 w-2 rounded-full bg-emerald-500"></span>Betalingspåminnelser</li>
+          <li class="flex items-start"><span class="mt-2 mr-3 inline-block h-2 w-2 rounded-full bg-emerald-500"></span>Rapporter og oversikter</li>
+          <li class="flex items-start"><span class="mt-2 mr-3 inline-block h-2 w-2 rounded-full bg-emerald-500"></span>EHF og e-faktura støtte</li>
+        </ul>
       </article>
-      <article class="rounded-2xl ring-1 ring-gray-200 p-6 bg-white">
-        <h2 class="text-xl font-semibold">Free payroll system</h2>
-        <p class="mt-1 text-gray-700">Run payroll, send unemployment reports and handle vacation pay.</p>
-        <a class="mt-4 inline-flex text-indigo-700 font-medium" href="/blog/gratis-lonnsystem/">Learn more about salary
-          →</a>
+      <div class="p-6 flex flex-col justify-start">
+        <h2 class="text-3xl font-semibold text-slate-900">Free invoice program</h2>
+        <p class="mt-3 text-gray-600 max-w-md leading-relaxed">Create and send invoices to customers as easily as you pay bills from a supplier.</p>
+        <div class="mt-6">
+          <a href="/lag-faktura/" class="inline-flex items-center justify-center rounded-md bg-black text-white px-6 py-3 font-medium">Create invoice</a>
+        </div>
+      </div>
+      
+    </div>
+    
+    <div class="grid md:grid-cols-2 gap-4 md:gap-6 mt-8">
+      <article class="rounded-2xl bg-white p-6 shadow-lg border border-gray-200 w-full max-w-md mx-auto text-center transform transition-all duration-300 ease-out hover:-translate-y-1 hover:shadow-2xl">
+        <div class="flex items-center justify-center mb-4">
+          <div class="w-14 h-14 rounded-full bg-purple-600 flex items-center justify-center shadow-sm">
+            
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-7 h-7">
+              <path d="M20 7H4a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2z"/>
+              <path d="M6 11h12"/>
+              <path d="M6 15h6"/>
+            </svg>
+          </div>
+        </div>
+        <h2 class="text-3xl font-semibold text-slate-900">Lønnssystem</h2>
+        <ul class="mt-4 space-y-2 text-slate-900 inline-block text-left mx-auto">
+          <li class="flex items-start"><span class="mt-2 mr-3 inline-block h-2 w-2 rounded-full bg-emerald-500"></span>Automatisk lønnsberegning</li>
+          <li class="flex items-start"><span class="mt-2 mr-3 inline-block h-2 w-2 rounded-full bg-emerald-500"></span>Skattetrekk og avgifter</li>
+          <li class="flex items-start"><span class="mt-2 mr-3 inline-block h-2 w-2 rounded-full bg-emerald-500"></span>A-melding integrasjon</li>
+          <li class="flex items-start"><span class="mt-2 mr-3 inline-block h-2 w-2 rounded-full bg-emerald-500"></span>Feriepenger håndtering</li>
+          <li class="flex items-start"><span class="mt-2 mr-3 inline-block h-2 w-2 rounded-full bg-emerald-500"></span>Timeføring og overtid</li>
+          <li class="flex items-start"><span class="mt-2 mr-3 inline-block h-2 w-2 rounded-full bg-emerald-500"></span>Lønnslipper og rapporter</li>
+          <li class="flex items-start"><span class="mt-2 mr-3 inline-block h-2 w-2 rounded-full bg-emerald-500"></span>Pensjon og forsikring</li>
+        </ul>
       </article>
-      <article class="rounded-2xl ring-1 ring-gray-200 p-6 bg-white md:col-span-1">
-        <h2 class="text-xl font-semibold">Project accounting</h2>
-        <p class="mt-1 text-gray-700">Control over profitability, resource use and budgets.</p>
-        <a class="mt-4 inline-flex text-indigo-700 font-medium" href="/blog/gratis-prosjektregnskap/">Read more about
-          project accounting →</a>
+      <div class="p-6 flex flex-col justify-start">
+        <h2 class="text-3xl font-semibold text-slate-900">Free payroll system</h2>
+        <p class="mt-3 text-gray-600 max-w-md leading-relaxed">Pay salaries with a flexible solution that is linked to your projects, timesheets and expenses.</p>
+        <div class="mt-6">
+          <a href="/blog/gratis-lonnsystem/" class="inline-flex items-center justify-center rounded-md bg-black text-white px-6 py-3 font-medium">Learn more about salary</a>
+        </div>
+      </div>
+    </div>
+    
+    <div class="grid md:grid-cols-2 gap-4 md:gap-6 mt-8">
+      <article class="rounded-2xl bg-white p-6 shadow-lg border border-gray-200 w-full max-w-md mx-auto text-center transition-transform duration-300 hover:-translate-y-0.5 hover:shadow-xl">
+        <div class="flex items-center justify-center mb-4">
+          <div class="w-14 h-14 rounded-full bg-emerald-600 flex items-center justify-center shadow-sm relative">
+            
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="white" class="w-7 h-7">
+              <rect x="4" y="6" width="16" height="10" rx="2" ry="2"></rect>
+            </svg>
+            <span class="absolute -bottom-2 text-xs font-semibold text-white">kr</span>
+          </div>
+        </div>
+        <h2 class="text-3xl font-semibold text-slate-900">Prosjektregnskap</h2>
+        <ul class="mt-4 space-y-2 text-slate-900 inline-block text-left mx-auto">
+          <li class="flex items-start"><span class="mt-2 mr-3 inline-block h-2 w-2 rounded-full bg-emerald-500"></span>Budsjett og kostnadskontroll</li>
+          <li class="flex items-start"><span class="mt-2 mr-3 inline-block h-2 w-2 rounded-full bg-emerald-500"></span>Timeregistrering per prosjekt</li>
+          <li class="flex items-start"><span class="mt-2 mr-3 inline-block h-2 w-2 rounded-full bg-emerald-500"></span>Lønnsomhetsanalyse</li>
+          <li class="flex items-start"><span class="mt-2 mr-3 inline-block h-2 w-2 rounded-full bg-emerald-500"></span>Ressursallokering</li>
+          <li class="flex items-start"><span class="mt-2 mr-3 inline-block h-2 w-2 rounded-full bg-emerald-500"></span>Fakturering og omsetning</li>
+          <li class="flex items-start"><span class="mt-2 mr-3 inline-block h-2 w-2 rounded-full bg-emerald-500"></span>Prosjektrapportering</li>
+          <li class="flex items-start"><span class="mt-2 mr-3 inline-block h-2 w-2 rounded-full bg-emerald-500"></span>Milepæler og tidslinjer</li>
+        </ul>
       </article>
-      <article class="rounded-2xl ring-1 ring-gray-200 p-6 bg-white md:col-span-1">
-        <h2 class="text-xl font-semibold">Annual report</h2>
-        <p class="mt-1 text-gray-700">Forget cumbersome calculations – let the system do the work.</p>
-        <a class="mt-4 inline-flex text-indigo-700 font-medium" href="/blog/gratis-arsoppgjor/">Read more about annual
-          accounts →</a>
+      <div class="p-6 flex flex-col justify-start">
+        <h2 class="text-3xl font-semibold text-slate-900">Project accounting</h2>
+        <p class="mt-3 text-gray-600 max-w-md leading-relaxed">Get full control over profitability, resource usage and budgets in your projects.</p>
+        <div class="mt-6">
+          <a href="/blog/gratis-prosjektregnskap/" class="inline-flex items-center justify-center rounded-md bg-black text-white px-6 py-3 font-medium">Read more about project accounting</a>
+        </div>
+      </div>
+    </div>
+    
+    <div class="grid md:grid-cols-2 gap-4 md:gap-6 mt-8">
+      <article class="rounded-2xl bg-white p-6 shadow-lg border border-gray-200 w-full max-w-md mx-auto text-center transition-transform duration-300 hover:-translate-y-0.5 hover:shadow-xl">
+        <div class="flex items-center justify-center mb-4">
+          <div class="w-14 h-14 rounded-full bg-amber-500 flex items-center justify-center shadow-sm">
+            
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-7 h-7">
+              <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/>
+              <path d="M14 2v6h6"/>
+              <path d="M16 13H8"/>
+              <path d="M16 17H8"/>
+              <path d="M10 9H8"/>
+            </svg>
+          </div>
+        </div>
+        <h2 class="text-3xl font-semibold text-slate-900">Årsoppgjør</h2>
+        <ul class="mt-4 space-y-2 text-slate-900 inline-block text-left mx-auto">
+          <li class="flex items-start"><span class="mt-2 mr-3 inline-block h-2 w-2 rounded-full bg-emerald-500"></span>Automatisk årsrapport</li>
+          <li class="flex items-start"><span class="mt-2 mr-3 inline-block h-2 w-2 rounded-full bg-emerald-500"></span>Skattemeldinger</li>
+          <li class="flex items-start"><span class="mt-2 mr-3 inline-block h-2 w-2 rounded-full bg-emerald-500"></span>Regnskapsavslutning</li>
+          <li class="flex items-start"><span class="mt-2 mr-3 inline-block h-2 w-2 rounded-full bg-emerald-500"></span>MVA-oppgjør</li>
+          <li class="flex items-start"><span class="mt-2 mr-3 inline-block h-2 w-2 rounded-full bg-emerald-500"></span>Balanse og resultat</li>
+          <li class="flex items-start"><span class="mt-2 mr-3 inline-block h-2 w-2 rounded-full bg-emerald-500"></span>Revisjonsrapporter</li>
+          <li class="flex items-start"><span class="mt-2 mr-3 inline-block h-2 w-2 rounded-full bg-emerald-500"></span>Altinn integrasjon</li>
+        </ul>
       </article>
+      <div class="p-6 flex flex-col justify-start">
+        <h2 class="text-3xl font-semibold text-slate-900">Annual report</h2>
+        <p class="mt-3 text-gray-600 max-w-md leading-relaxed">Forget cumbersome calculations and calculations – ReAI makes the job simple and understandable.</p>
+        <div class="mt-6">
+          <a href="/blog/gratis-arsoppgjor/" class="inline-flex items-center justify-center rounded-md bg-black text-white px-6 py-3 font-medium">Read more about annual accounts</a>
+        </div>
+      </div>
     </div>
   </div>
 </section>
@@ -159,77 +402,111 @@
       <h2 class="text-2xl md:text-3xl font-semibold">Regnskapskurs og guider</h2>
       <a href="/courses/" class="text-indigo-700 font-medium">Se alle</a>
     </div>
-    <div class="mt-6 grid sm:grid-cols-2 lg:grid-cols-4 gap-4 md:gap-6">
-      <a href="/products/fakturakurs/" class="rounded-xl overflow-hidden ring-1 ring-gray-200 bg-white hover:shadow-sm">
-        <div
-          class="aspect-[16/9] bg-gradient-to-br from-indigo-50 via-sky-50 to-emerald-50 flex items-center justify-center">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="h-12 w-12 text-slate-700" fill="none"
-            stroke="currentColor" stroke-width="1.8" aria-hidden="true">
-            <rect x="6" y="3" width="12" height="18" rx="2" />
-            <line x1="9" y1="9" x2="15" y2="9" />
-            <line x1="9" y1="13" x2="15" y2="13" />
-            <line x1="9" y1="17" x2="13" y2="17" />
-          </svg>
+    <div class="mt-6">
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 p-6">
+        
+        <a href="/courses/fakturakurs/" class="block group h-full">
+        <div class="relative h-full flex flex-col bg-white/95 backdrop-blur rounded-xl shadow-lg border border-gray-200 p-6 text-center transform transition-all duration-300 ease-out group-hover:-translate-y-1 hover:shadow-2xl">
+          <div class="flex justify-center mb-4">
+            <div class="w-16 h-16 mx-auto rounded-full bg-gradient-to-r from-indigo-600 via-sky-500 to-emerald-500 flex items-center justify-center shadow-md">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" class="w-7 h-7 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 10h.01M12 10h.01M16 10h.01M21 12c0 4.418-4.03 8-9 8s-9-3.582-9-8 4.03-8 9-8 9 3.582 9 8z" />
+              </svg>
+            </div>
+          </div>
+          <h3 class="text-xl font-bold bg-gradient-to-r from-indigo-600 via-sky-500 to-emerald-500 bg-clip-text text-transparent">Fakturakurs</h3>
+          <p class="text-gray-500">Lær hvordan man fakturerer</p>
+          <ul class="mt-4 space-y-1 text-left text-green-600">
+            <li>• Grunnleggende fakturering</li>
+            <li>• Lovkrav og forskrifter</li>
+            <li>• MVA-håndtering</li>
+            <li>• Kreditnotaer og retur</li>
+            <li>• Internasjonale fakturaer</li>
+            <li>• Praktiske øvelser</li>
+          </ul>
         </div>
-        <div class="p-4">
-          <h3 class="font-semibold">Fakturakurs - Lær hvordan man fakturerer</h3>
+        </a>
+
+        
+        <a href="/courses/arsoppgjor-kurs/" class="block group h-full">
+        <div class="relative h-full flex flex-col bg-white/95 backdrop-blur rounded-xl shadow-lg border border-gray-200 p-6 text-center transition-transform duration-300 group-hover:-translate-y-0.5 hover:shadow-xl">
+          <div class="flex justify-center mb-4">
+            <div class="w-16 h-16 mx-auto rounded-full bg-gradient-to-r from-indigo-600 via-sky-500 to-emerald-500 flex items-center justify-center shadow-md">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" class="w-7 h-7 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4" />
+              </svg>
+            </div>
+          </div>
+          <h3 class="text-xl font-bold bg-gradient-to-r from-indigo-600 via-sky-500 to-emerald-500 bg-clip-text text-transparent">Kurs i årsoppgjør og sluttposteringer</h3>
+          <ul class="mt-4 space-y-1 text-left text-green-600">
+            <li>• Årsavslutningsprosessen</li>
+            <li>• Periodisering av inntekter</li>
+            <li>• Avskrivninger og nedskrivninger</li>
+            <li>• Varelager­vurdering</li>
+            <li>• Årsrapport og noter</li>
+            <li>• Revisjon og kontroll</li>
+            <li>• Skattemessige forhold</li>
+          </ul>
         </div>
-      </a>
-      <a href="/products/arsoppgjor-kurs/"
-        class="rounded-xl overflow-hidden ring-1 ring-gray-200 bg-white hover:shadow-sm">
-        <div
-          class="aspect-[16/9] bg-gradient-to-br from-amber-50 via-rose-50 to-pink-50 flex items-center justify-center">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="h-12 w-12 text-slate-700" fill="none"
-            stroke="currentColor" stroke-width="1.8" aria-hidden="true">
-            <rect x="5" y="3" width="14" height="18" rx="2" />
-            <rect x="8" y="8" width="3" height="3" rx="0.5" />
-            <rect x="13" y="8" width="3" height="3" rx="0.5" />
-            <rect x="8" y="13" width="3" height="3" rx="0.5" />
-            <rect x="13" y="13" width="3" height="3" rx="0.5" />
-          </svg>
+        </a>
+
+        
+        <a href="/courses/lonnskurs/" class="block group h-full">
+        <div class="relative h-full flex flex-col bg-white/95 backdrop-blur rounded-xl shadow-lg border border-gray-200 p-6 text-center transition-transform duration-300 group-hover:-translate-y-0.5 hover:shadow-xl">
+          <div class="flex justify-center mb-4">
+            <div class="w-16 h-16 mx-auto rounded-full bg-gradient-to-r from-indigo-600 via-sky-500 to-emerald-500 flex items-center justify-center shadow-md">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" class="w-7 h-7 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 12H4" />
+              </svg>
+            </div>
+          </div>
+          <h3 class="text-xl font-bold bg-gradient-to-r from-indigo-600 via-sky-500 to-emerald-500 bg-clip-text text-transparent">Lønnskurs</h3>
+          <ul class="mt-4 space-y-1 text-left text-green-600">
+            <li>• Grunnlønn og tillegg</li>
+            <li>• Skattetrekk og beregning</li>
+            <li>• Feriepenger og overtid</li>
+            <li>• Pensjon og forsikring</li>
+            <li>• A-melding og rapportering</li>
+            <li>• Arbeidsgiveravgift</li>
+            <li>• Praktiske eksempler</li>
+          </ul>
         </div>
-        <div class="p-4">
-          <h3 class="font-semibold">Kurs i årsoppgjør og sluttposteringer</h3>
+        </a>
+
+        
+        <a href="/courses/regnskapskurs/" class="block group h-full">
+        <div class="relative h-full flex flex-col bg-white/95 backdrop-blur rounded-xl shadow-lg border border-gray-200 p-6 text-center transition-transform duration-300 group-hover:-translate-y-0.5 hover:shadow-xl">
+          <div class="flex justify-center mb-4">
+            <div class="w-16 h-16 mx-auto rounded-full bg-gradient-to-r from-indigo-600 via-sky-500 to-emerald-500 flex items-center justify-center shadow-md">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" class="w-7 h-7 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 4a1 1 0 011-1h16a1 1 0 011 1v16a1 1 0 01-1 1H4a1 1 0 01-1-1V4z" />
+              </svg>
+            </div>
+          </div>
+          <h3 class="text-xl font-bold bg-gradient-to-r from-indigo-600 via-sky-500 to-emerald-500 bg-clip-text text-transparent">Regnskapskurs</h3>
+          <ul class="mt-4 space-y-1 text-left text-green-600">
+            <li>• Grunnleggende bokføring</li>
+            <li>• Kontoplan og bilag</li>
+            <li>• Balanse og resultatregnskap</li>
+            <li>• MVA og mva-rapportering</li>
+            <li>• Avstemming og kontroll</li>
+            <li>• Digitale verktøy</li>
+            <li>• Lovkrav og standarder</li>
+          </ul>
         </div>
-      </a>
-      <a href="/products/lonnskurs/" class="rounded-xl overflow-hidden ring-1 ring-gray-200 bg-white hover:shadow-sm">
-        <div
-          class="aspect-[16/9] bg-gradient-to-br from-sky-50 via-cyan-50 to-emerald-50 flex items-center justify-center">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="h-12 w-12 text-slate-700" fill="none"
-            stroke="currentColor" stroke-width="1.8" aria-hidden="true">
-            <rect x="3" y="6" width="18" height="12" rx="2" />
-            <circle cx="12" cy="12" r="3" />
-            <line x1="6" y1="9.5" x2="6" y2="14.5" />
-            <line x1="18" y1="9.5" x2="18" y2="14.5" />
-          </svg>
-        </div>
-        <div class="p-4">
-          <h3 class="font-semibold">Lønnskurs</h3>
-        </div>
-      </a>
-      <a href="/products/regnskapskurs/"
-        class="rounded-xl overflow-hidden ring-1 ring-gray-200 bg-white hover:shadow-sm">
-        <div
-          class="aspect-[16/9] bg-gradient-to-br from-violet-50 via-indigo-50 to-sky-50 flex items-center justify-center">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="h-12 w-12 text-slate-700" fill="none"
-            stroke="currentColor" stroke-width="1.8" aria-hidden="true">
-            <path d="M4 6a2 2 0 0 1 2-2h6v16H6a2 2 0 0 1-2-2z" />
-            <path d="M12 4h6a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2h-6V4z" />
-            <line x1="8" y1="8" x2="11" y2="8" />
-            <line x1="13" y1="8" x2="16" y2="8" />
-          </svg>
-        </div>
-        <div class="p-4">
-          <h3 class="font-semibold">Regnskapskurs</h3>
-        </div>
-      </a>
+        </a>
+      </div>
     </div>
   </div>
 </section>
 
 
 <section class="py-12 md:py-16">
-  <div class="max-w-3xl mx-auto px-4 text-center">
+  <div class="max-w-3xl mx-auto px-4 text-center transform transition-all duration-300 ease-out hover:-translate-y-1">
     <h2 class="text-2xl md:text-3xl font-semibold">App</h2>
     <p class="mt-3 text-gray-700 md:text-lg">Of course, we have an app you can use so you can upload receipts from your
       mobile phone and have all your accounting digitally!</p>
@@ -238,40 +515,39 @@
 
 
   </main>
-  <footer class="mt-16 border-t border-slate-200/70 bg-white">
+  <footer class="mt-16 border-t border-slate-800/60 bg-slate-900">
   <div class="max-w-7xl mx-auto px-4 py-14">
-    <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
+    <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3 text-center sm:text-left">
       
       <div>
-        <h3 class="text-sm font-semibold text-slate-900">Verktøy</h3>
-        <ul class="mt-2 space-y-2 text-sm text-slate-600">
-          <li><a class="hover:text-black" href="/pages/finn-iban/">IBAN kalkulator</a></li>
-          <li><a class="hover:text-black" href="/pages/lag-faktura-gratis/">Lag faktura</a></li>
+        <h3 class="text-sm font-semibold text-white">Verktøy</h3>
+        <ul class="mt-2 space-y-2 text-sm text-slate-300">
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/finn-iban/">IBAN kalkulator</a></li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/lag-faktura-gratis/">Lag faktura</a></li>
         </ul>
       </div>
       <div>
-        <h3 class="text-sm font-semibold text-slate-900">Selskaps-informasjon</h3>
-        <ul class="mt-2 space-y-1 text-sm text-slate-600">
+        <h3 class="text-sm font-semibold text-white">Selskaps-informasjon</h3>
+        <ul class="mt-2 space-y-1 text-sm text-slate-300">
           <li>Reai AS</li>
           <li>Orgnr: 935606403</li>
-          <li><a class="hover:text-black" href="mailto:post@reai.no">post@reai.no</a></li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="mailto:post@reai.no">post@reai.no</a></li>
         </ul>
       </div>
       <div>
-        <h3 class="text-sm font-semibold text-slate-900">Om ReAI</h3>
-        <p class="mt-2 text-sm text-slate-600">ReAI er et gratis regnskapsprogram laget av tidligere ansatte i Tripletex
+        <h3 class="text-sm font-semibold text-white">Om ReAI</h3>
+        <p class="mt-2 text-sm text-slate-300">ReAI er et gratis regnskapsprogram laget av tidligere ansatte i Tripletex
           / Visma. Vi mener det er på tide med mer konkurranse i regnskaps-bransjen som kan komme bedrifter til gode.
         </p>
       </div>
     </div>
-    <div class="mt-12 border-t border-slate-200/70 pt-6 flex items-center justify-between text-sm text-slate-600">
+    <div class="mt-12 border-t border-slate-800/60 pt-6 flex flex-col items-center sm:flex-row sm:items-center sm:justify-between text-sm text-slate-400 text-center sm:text-left">
       <div class="flex items-center gap-2">
         
         
       </div>
-      <div
-        class=" w-full mt-12 border-t border-slate-200/70 pt-6 flex items-center justify-center text-sm text-slate-600">
-        <div class="opacity-80 text-center">&copy; 2025 ReAI. All rights reserved.</div>
+      <div class="mt-4 sm:mt-0 flex items-center justify-center sm:justify-end">
+        <div class="opacity-80">&copy; 2025 ReAI. All rights reserved.</div>
       </div>
     </div>
   </div>

@@ -1,0 +1,172 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="500" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c3e50">
+    Formueforvaltning og Aktivaallokering
+  </text>
+  
+  <!-- Pie chart for asset allocation -->
+  <g transform="translate(200, 200)">
+    <!-- Pie chart background circle -->
+    <circle cx="0" cy="0" r="100" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2"/>
+    
+    <!-- Kontanter 10% (36 degrees) -->
+    <path d="M 0,-100 A 100,100 0 0,1 58.78,-80.9 L 0,0 Z" fill="#95a5a6"/>
+    
+    <!-- Obligasjoner 30% (108 degrees) -->
+    <path d="M 58.78,-80.9 A 100,100 0 0,1 80.9,58.78 L 0,0 Z" fill="#3498db"/>
+    
+    <!-- Aksjer 50% (180 degrees) -->
+    <path d="M 80.9,58.78 A 100,100 0 1,1 -80.9,58.78 L 0,0 Z" fill="#e74c3c"/>
+    
+    <!-- Eiendom 10% (36 degrees) -->
+    <path d="M -80.9,58.78 A 100,100 0 0,1 0,-100 L 0,0 Z" fill="#f39c12"/>
+    
+    <!-- Center circle -->
+    <circle cx="0" cy="0" r="30" fill="#ffffff" stroke="#2c3e50" stroke-width="2"/>
+    <text x="0" y="-5" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+      AKTIVA
+    </text>
+    <text x="0" y="10" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+      ALLOKERING
+    </text>
+  </g>
+  
+  <!-- Legend -->
+  <rect x="450" y="120" width="300" height="200" fill="#ffffff" stroke="#bdc3c7" stroke-width="1" rx="8"/>
+  <text x="600" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
+    Aktivaklasser
+  </text>
+  
+  <!-- Kontanter -->
+  <rect x="470" y="160" width="20" height="15" fill="#95a5a6"/>
+  <text x="500" y="172" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+    Kontanter (10%)
+  </text>
+  <text x="720" y="172" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#7f8c8d">
+    Lav risiko
+  </text>
+  
+  <!-- Obligasjoner -->
+  <rect x="470" y="185" width="20" height="15" fill="#3498db"/>
+  <text x="500" y="197" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+    Obligasjoner (30%)
+  </text>
+  <text x="720" y="197" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#7f8c8d">
+    Middels risiko
+  </text>
+  
+  <!-- Aksjer -->
+  <rect x="470" y="210" width="20" height="15" fill="#e74c3c"/>
+  <text x="500" y="222" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+    Aksjer (50%)
+  </text>
+  <text x="720" y="222" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#7f8c8d">
+    Høy risiko
+  </text>
+  
+  <!-- Eiendom -->
+  <rect x="470" y="235" width="20" height="15" fill="#f39c12"/>
+  <text x="500" y="247" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+    Eiendom (10%)
+  </text>
+  <text x="720" y="247" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#7f8c8d">
+    Middels-høy risiko
+  </text>
+  
+  <!-- Risk-return chart -->
+  <rect x="50" y="350" width="700" height="120" fill="#ffffff" stroke="#bdc3c7" stroke-width="1" rx="8"/>
+  <text x="400" y="375" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
+    Risiko vs. Forventet Avkastning
+  </text>
+  
+  <!-- Chart axes -->
+  <line x1="100" y1="450" x2="700" y2="450" stroke="#34495e" stroke-width="2"/>
+  <line x1="100" y1="450" x2="100" y2="390" stroke="#34495e" stroke-width="2"/>
+  
+  <!-- X-axis label -->
+  <text x="400" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+    Risiko (volatilitet)
+  </text>
+  
+  <!-- Y-axis label -->
+  <text x="80" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50" transform="rotate(-90 80 420)">
+    Avkastning
+  </text>
+  
+  <!-- Data points -->
+  <!-- Kontanter -->
+  <circle cx="150" cy="440" r="8" fill="#95a5a6"/>
+  <text x="150" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    Kontanter
+  </text>
+  
+  <!-- Obligasjoner -->
+  <circle cx="300" cy="420" r="8" fill="#3498db"/>
+  <text x="300" y="410" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    Obligasjoner
+  </text>
+  
+  <!-- Eiendom -->
+  <circle cx="500" cy="410" r="8" fill="#f39c12"/>
+  <text x="500" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    Eiendom
+  </text>
+  
+  <!-- Aksjer -->
+  <circle cx="600" cy="400" r="8" fill="#e74c3c"/>
+  <text x="600" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    Aksjer
+  </text>
+  
+  <!-- Efficient frontier line -->
+  <path d="M 150,440 Q 300,420 600,400" stroke="#9b59b6" stroke-width="3" fill="none" stroke-dasharray="5,5"/>
+  <text x="650" y="395" font-family="Arial, sans-serif" font-size="10" fill="#9b59b6">
+    Effisient grense
+  </text>
+  
+  <!-- Strategy boxes -->
+  <rect x="50" y="50" width="200" height="80" fill="#e8f5e8" stroke="#27ae60" stroke-width="2" rx="8"/>
+  <text x="150" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#27ae60">
+    KONSERVATIV
+  </text>
+  <text x="150" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    Kontanter: 20%
+  </text>
+  <text x="150" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    Obligasjoner: 60%
+  </text>
+  <text x="150" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    Aksjer: 20%
+  </text>
+  
+  <rect x="300" y="50" width="200" height="80" fill="#fff3e0" stroke="#ff9800" stroke-width="2" rx="8"/>
+  <text x="400" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#ff9800">
+    BALANSERT
+  </text>
+  <text x="400" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    Kontanter: 10%
+  </text>
+  <text x="400" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    Obligasjoner: 30%
+  </text>
+  <text x="400" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    Aksjer: 50%, Eiendom: 10%
+  </text>
+  
+  <rect x="550" y="50" width="200" height="80" fill="#ffebee" stroke="#f44336" stroke-width="2" rx="8"/>
+  <text x="650" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#f44336">
+    AGGRESSIV
+  </text>
+  <text x="650" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    Kontanter: 5%
+  </text>
+  <text x="650" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    Obligasjoner: 15%
+  </text>
+  <text x="650" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    Aksjer: 70%, Eiendom: 10%
+  </text>
+</svg>

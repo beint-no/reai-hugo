@@ -1,0 +1,94 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#2563eb;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="cardGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="400" fill="#ffffff"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
+  <text x="400" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="28" font-weight="bold">Hva er kundekartotek?</text>
+  
+  <!-- Main content area -->
+  <rect x="50" y="100" width="700" height="280" fill="url(#cardGradient)" stroke="#cbd5e1" stroke-width="2" rx="10"/>
+  
+  <!-- Customer database icon -->
+  <g transform="translate(100, 130)">
+    <!-- Database cylinder -->
+    <ellipse cx="60" cy="20" rx="50" ry="15" fill="#3b82f6" stroke="#1e40af" stroke-width="2"/>
+    <rect x="10" y="20" width="100" height="80" fill="#3b82f6"/>
+    <ellipse cx="60" cy="100" rx="50" ry="15" fill="#2563eb" stroke="#1e40af" stroke-width="2"/>
+    
+    <!-- Data lines -->
+    <line x1="25" y1="40" x2="95" y2="40" stroke="white" stroke-width="2"/>
+    <line x1="25" y1="55" x2="95" y2="55" stroke="white" stroke-width="2"/>
+    <line x1="25" y1="70" x2="95" y2="70" stroke="white" stroke-width="2"/>
+    <line x1="25" y1="85" x2="95" y2="85" stroke="white" stroke-width="2"/>
+    
+    <!-- Database label -->
+    <text x="60" y="125" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Kundedatabase</text>
+  </g>
+  
+  <!-- Customer profiles -->
+  <g transform="translate(280, 130)">
+    <!-- Customer 1 -->
+    <circle cx="30" cy="30" r="20" fill="#10b981" stroke="#059669" stroke-width="2"/>
+    <text x="30" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">K1</text>
+    <text x="30" y="65" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">Bedrift A</text>
+    
+    <!-- Customer 2 -->
+    <circle cx="100" cy="30" r="20" fill="#f59e0b" stroke="#d97706" stroke-width="2"/>
+    <text x="100" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">K2</text>
+    <text x="100" y="65" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">Privatkunde</text>
+    
+    <!-- Customer 3 -->
+    <circle cx="170" cy="30" r="20" fill="#8b5cf6" stroke="#7c3aed" stroke-width="2"/>
+    <text x="170" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">K3</text>
+    <text x="170" y="65" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">Offentlig</text>
+    
+    <!-- Arrows connecting to database -->
+    <path d="M 50 45 Q 150 80 200 70" stroke="#6b7280" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+    <path d="M 120 45 Q 150 80 200 70" stroke="#6b7280" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+    <path d="M 150 45 Q 150 80 200 70" stroke="#6b7280" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  </g>
+  
+  <!-- Features list -->
+  <g transform="translate(500, 140)">
+    <text x="0" y="0" fill="#1f2937" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Hovedfunksjoner:</text>
+    
+    <!-- Feature 1 -->
+    <circle cx="10" cy="25" r="4" fill="#10b981"/>
+    <text x="25" y="30" fill="#374151" font-family="Arial, sans-serif" font-size="12">Systematisk lagring</text>
+    
+    <!-- Feature 2 -->
+    <circle cx="10" cy="45" r="4" fill="#10b981"/>
+    <text x="25" y="50" fill="#374151" font-family="Arial, sans-serif" font-size="12">Effektiv fakturering</text>
+    
+    <!-- Feature 3 -->
+    <circle cx="10" cy="65" r="4" fill="#10b981"/>
+    <text x="25" y="70" fill="#374151" font-family="Arial, sans-serif" font-size="12">Debitoroppfølging</text>
+    
+    <!-- Feature 4 -->
+    <circle cx="10" cy="85" r="4" fill="#10b981"/>
+    <text x="25" y="90" fill="#374151" font-family="Arial, sans-serif" font-size="12">Kundeanalyse</text>
+    
+    <!-- Feature 5 -->
+    <circle cx="10" cy="105" r="4" fill="#10b981"/>
+    <text x="25" y="110" fill="#374151" font-family="Arial, sans-serif" font-size="12">Juridisk dokumentasjon</text>
+  </g>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#6b7280"/>
+    </marker>
+  </defs>
+</svg>

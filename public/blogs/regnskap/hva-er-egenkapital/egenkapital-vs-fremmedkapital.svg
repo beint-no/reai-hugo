@@ -1,0 +1,116 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="500" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+    Egenkapital vs. Fremmedkapital (Gjeld)
+  </text>
+  
+  <!-- VS symbol -->
+  <text x="400" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#34495e">
+    VS
+  </text>
+  
+  <!-- Left side - Egenkapital -->
+  <g transform="translate(50, 70)">
+    <!-- Main box -->
+    <rect x="0" y="0" width="300" height="380" fill="#27ae60" stroke="#229954" stroke-width="3" rx="15"/>
+    
+    <!-- Header -->
+    <rect x="0" y="0" width="300" height="60" fill="#229954" rx="15"/>
+    <rect x="0" y="45" width="300" height="15" fill="#229954"/>
+    <text x="150" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="white">
+      EGENKAPITAL
+    </text>
+    
+    <!-- Characteristics -->
+    <text x="20" y="90" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      Kjennetegn:
+    </text>
+    
+    <text x="30" y="115" font-family="Arial, sans-serif" font-size="14" fill="white">✓ Tilhører eierne</text>
+    <text x="30" y="135" font-family="Arial, sans-serif" font-size="14" fill="white">✓ Ingen tilbakebetalingsplikt</text>
+    <text x="30" y="155" font-family="Arial, sans-serif" font-size="14" fill="white">✓ Permanent kapital</text>
+    <text x="30" y="175" font-family="Arial, sans-serif" font-size="14" fill="white">✓ Eierne bærer risikoen</text>
+    <text x="30" y="195" font-family="Arial, sans-serif" font-size="14" fill="white">✓ Rett til utbytte</text>
+    
+    <text x="20" y="225" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      Fordeler:
+    </text>
+    <text x="30" y="245" font-family="Arial, sans-serif" font-size="14" fill="white">• Finansiell stabilitet</text>
+    <text x="30" y="265" font-family="Arial, sans-serif" font-size="14" fill="white">• Ingen rentekostnader</text>
+    <text x="30" y="285" font-family="Arial, sans-serif" font-size="14" fill="white">• Fleksibilitet i vanskelige tider</text>
+    
+    <text x="20" y="315" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      Ulemper:
+    </text>
+    <text x="30" y="335" font-family="Arial, sans-serif" font-size="14" fill="white">• Dyrere enn lån</text>
+    <text x="30" y="355" font-family="Arial, sans-serif" font-size="14" fill="white">• Utvanning av eierskap</text>
+  </g>
+  
+  <!-- Right side - Fremmedkapital -->
+  <g transform="translate(450, 70)">
+    <!-- Main box -->
+    <rect x="0" y="0" width="300" height="380" fill="#e74c3c" stroke="#c0392b" stroke-width="3" rx="15"/>
+    
+    <!-- Header -->
+    <rect x="0" y="0" width="300" height="60" fill="#c0392b" rx="15"/>
+    <rect x="0" y="45" width="300" height="15" fill="#c0392b"/>
+    <text x="150" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="white">
+      FREMMEDKAPITAL
+    </text>
+    
+    <!-- Characteristics -->
+    <text x="20" y="90" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      Kjennetegn:
+    </text>
+    
+    <text x="30" y="115" font-family="Arial, sans-serif" font-size="14" fill="white">✓ Tilhører kreditorer</text>
+    <text x="30" y="135" font-family="Arial, sans-serif" font-size="14" fill="white">✓ Må tilbakebetales</text>
+    <text x="30" y="155" font-family="Arial, sans-serif" font-size="14" fill="white">✓ Tidsbegrenset kapital</text>
+    <text x="30" y="175" font-family="Arial, sans-serif" font-size="14" fill="white">✓ Kreditor har prioritet</text>
+    <text x="30" y="195" font-family="Arial, sans-serif" font-size="14" fill="white">✓ Fast rente/avkastning</text>
+    
+    <text x="20" y="225" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      Fordeler:
+    </text>
+    <text x="30" y="245" font-family="Arial, sans-serif" font-size="14" fill="white">• Lavere kostnad enn egenkapital</text>
+    <text x="30" y="265" font-family="Arial, sans-serif" font-size="14" fill="white">• Skattefradrag for renter</text>
+    <text x="30" y="285" font-family="Arial, sans-serif" font-size="14" fill="white">• Beholder full kontroll</text>
+    
+    <text x="20" y="315" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      Ulemper:
+    </text>
+    <text x="30" y="335" font-family="Arial, sans-serif" font-size="14" fill="white">• Økt finansiell risiko</text>
+    <text x="30" y="355" font-family="Arial, sans-serif" font-size="14" fill="white">• Tilbakebetalingsplikt</text>
+  </g>
+  
+  <!-- Bottom comparison table -->
+  <g transform="translate(100, 470)">
+    <rect x="0" y="0" width="600" height="25" fill="#34495e" rx="5"/>
+    <text x="150" y="17" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      EGENKAPITAL
+    </text>
+    <text x="300" y="17" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      SAMMENLIGNING
+    </text>
+    <text x="450" y="17" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      FREMMEDKAPITAL
+    </text>
+  </g>
+  
+  <!-- Arrows pointing to comparison -->
+  <path d="M 200 450 L 250 470" stroke="#27ae60" stroke-width="3" fill="none" marker-end="url(#arrowhead-green)"/>
+  <path d="M 600 450 L 550 470" stroke="#e74c3c" stroke-width="3" fill="none" marker-end="url(#arrowhead-red)"/>
+  
+  <!-- Arrow markers -->
+  <defs>
+    <marker id="arrowhead-green" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#27ae60"/>
+    </marker>
+    <marker id="arrowhead-red" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#e74c3c"/>
+    </marker>
+  </defs>
+</svg>

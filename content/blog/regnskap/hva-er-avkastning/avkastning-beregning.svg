@@ -1,0 +1,100 @@
+<svg width="700" height="500" viewBox="0 0 700 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="700" height="500" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="350" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+    Beregning av Avkastning
+  </text>
+  
+  <!-- Formula box -->
+  <rect x="50" y="70" width="600" height="80" fill="white" stroke="#3498db" stroke-width="2" rx="10"/>
+  <text x="350" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">
+    Grunnleggende Formel
+  </text>
+  <text x="350" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#2c3e50">
+    Avkastning (%) = ((Sluttverdi - Startverdi) / Startverdi) × 100
+  </text>
+  
+  <!-- Example 1 -->
+  <rect x="50" y="170" width="300" height="140" fill="#e8f5e8" stroke="#27ae60" stroke-width="2" rx="10"/>
+  <text x="200" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#27ae60">
+    Eksempel 1: Positiv Avkastning
+  </text>
+  
+  <text x="70" y="220" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+    Startverdi: 10.000 kr
+  </text>
+  <text x="70" y="240" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+    Sluttverdi: 11.500 kr
+  </text>
+  
+  <text x="70" y="265" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+    Beregning:
+  </text>
+  <text x="70" y="280" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    ((11.500 - 10.000) / 10.000) × 100
+  </text>
+  <text x="70" y="295" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    = (1.500 / 10.000) × 100 = 15%
+  </text>
+  
+  <!-- Example 2 -->
+  <rect x="370" y="170" width="300" height="140" fill="#fdf2f2" stroke="#e74c3c" stroke-width="2" rx="10"/>
+  <text x="520" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#e74c3c">
+    Eksempel 2: Negativ Avkastning
+  </text>
+  
+  <text x="390" y="220" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+    Startverdi: 20.000 kr
+  </text>
+  <text x="390" y="240" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+    Sluttverdi: 18.000 kr
+  </text>
+  
+  <text x="390" y="265" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+    Beregning:
+  </text>
+  <text x="390" y="280" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    ((18.000 - 20.000) / 20.000) × 100
+  </text>
+  <text x="390" y="295" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    = (-2.000 / 20.000) × 100 = -10%
+  </text>
+  
+  <!-- Example 3: With dividend -->
+  <rect x="50" y="330" width="600" height="140" fill="#f0f8ff" stroke="#3498db" stroke-width="2" rx="10"/>
+  <text x="350" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#3498db">
+    Eksempel 3: Avkastning med Utbytte
+  </text>
+  
+  <g transform="translate(70, 370)">
+    <text x="0" y="20" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+      Startverdi: 50.000 kr
+    </text>
+    <text x="0" y="40" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+      Sluttverdi: 54.000 kr
+    </text>
+    <text x="0" y="60" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+      Utbytte mottatt: 1.000 kr
+    </text>
+    
+    <text x="300" y="20" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+      Kursavkastning:
+    </text>
+    <text x="300" y="35" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+      ((54.000 - 50.000) / 50.000) × 100 = 8%
+    </text>
+    
+    <text x="300" y="55" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+      Utbytteavkastning:
+    </text>
+    <text x="300" y="70" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+      (1.000 / 50.000) × 100 = 2%
+    </text>
+    
+    <text x="300" y="90" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+      Total avkastning: 8% + 2% = 10%
+    </text>
+  </g>
+</svg>

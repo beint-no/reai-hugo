@@ -1,0 +1,119 @@
+<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="500" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+    Lovkrav til Bilagsføring i Norge
+  </text>
+  
+  <!-- Law book illustration -->
+  <g transform="translate(50, 80)">
+    <rect x="0" y="0" width="120" height="160" fill="#8b4513" rx="8"/>
+    <rect x="10" y="10" width="100" height="140" fill="#daa520"/>
+    <rect x="15" y="20" width="90" height="8" fill="#8b4513"/>
+    <text x="60" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#8b4513">
+      Bokførings-
+    </text>
+    <text x="60" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#8b4513">
+      forskriften
+    </text>
+    <text x="60" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#8b4513">
+      § 5-1 til § 5-3
+    </text>
+  </g>
+  
+  <!-- Arrow -->
+  <path d="M 200 160 L 250 160" stroke="#34495e" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Requirements boxes -->
+  <g transform="translate(280, 100)">
+    <!-- Box 1: Obligatoriske opplysninger -->
+    <rect x="0" y="0" width="200" height="120" fill="#ffffff" stroke="#3498db" stroke-width="2" rx="8"/>
+    <rect x="0" y="0" width="200" height="30" fill="#3498db" rx="8"/>
+    <rect x="0" y="15" width="200" height="15" fill="#3498db"/>
+    <text x="100" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#ffffff">
+      Obligatoriske Opplysninger
+    </text>
+    
+    <text x="10" y="50" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Bilagsdato</text>
+    <text x="10" y="65" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Beløp i NOK</text>
+    <text x="10" y="80" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Transaksjonspart</text>
+    <text x="10" y="95" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Beskrivelse</text>
+    <text x="10" y="110" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Unikt bilagsnummer</text>
+  </g>
+  
+  <g transform="translate(500, 100)">
+    <!-- Box 2: Arkiveringsperioder -->
+    <rect x="0" y="0" width="200" height="120" fill="#ffffff" stroke="#e74c3c" stroke-width="2" rx="8"/>
+    <rect x="0" y="0" width="200" height="30" fill="#e74c3c" rx="8"/>
+    <rect x="0" y="15" width="200" height="15" fill="#e74c3c"/>
+    <text x="100" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#ffffff">
+      Arkiveringsperioder
+    </text>
+    
+    <text x="10" y="50" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Regnskapsbilag: 5 år</text>
+    <text x="10" y="65" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Fakturaer: 5 år</text>
+    <text x="10" y="80" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Kontrakter: 10 år</text>
+    <text x="10" y="95" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• MVA-dokumenter: 10 år</text>
+  </g>
+  
+  <!-- Digital requirements section -->
+  <g transform="translate(150, 280)">
+    <rect x="0" y="0" width="500" height="150" fill="#ffffff" stroke="#2ecc71" stroke-width="2" rx="8"/>
+    <rect x="0" y="0" width="500" height="35" fill="#2ecc71" rx="8"/>
+    <rect x="0" y="17.5" width="500" height="17.5" fill="#2ecc71"/>
+    <text x="250" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">
+      Krav til Digitale Systemer
+    </text>
+    
+    <!-- Four pillars -->
+    <g transform="translate(30, 50)">
+      <rect x="0" y="0" width="100" height="80" fill="#ecf0f1" stroke="#2ecc71" stroke-width="1" rx="4"/>
+      <text x="50" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2c3e50">Autentisitet</text>
+      <text x="50" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#7f8c8d">Dokumenter kan</text>
+      <text x="50" y="47" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#7f8c8d">ikke endres</text>
+      <text x="50" y="59" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#7f8c8d">etter arkivering</text>
+    </g>
+    
+    <g transform="translate(140, 50)">
+      <rect x="0" y="0" width="100" height="80" fill="#ecf0f1" stroke="#2ecc71" stroke-width="1" rx="4"/>
+      <text x="50" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2c3e50">Integritet</text>
+      <text x="50" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#7f8c8d">Dokumenter må</text>
+      <text x="50" y="47" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#7f8c8d">være komplette</text>
+      <text x="50" y="59" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#7f8c8d">og uendrede</text>
+    </g>
+    
+    <g transform="translate(250, 50)">
+      <rect x="0" y="0" width="100" height="80" fill="#ecf0f1" stroke="#2ecc71" stroke-width="1" rx="4"/>
+      <text x="50" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2c3e50">Tilgjengelighet</text>
+      <text x="50" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#7f8c8d">Tilgjengelig for</text>
+      <text x="50" y="47" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#7f8c8d">kontroll i hele</text>
+      <text x="50" y="59" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#7f8c8d">arkiveringsperioden</text>
+    </g>
+    
+    <g transform="translate(360, 50)">
+      <rect x="0" y="0" width="100" height="80" fill="#ecf0f1" stroke="#2ecc71" stroke-width="1" rx="4"/>
+      <text x="50" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2c3e50">Sporbarhet</text>
+      <text x="50" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#7f8c8d">Alle endringer</text>
+      <text x="50" y="47" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#7f8c8d">og tilganger</text>
+      <text x="50" y="59" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#7f8c8d">må logges</text>
+    </g>
+  </g>
+  
+  <!-- Compliance checkmark -->
+  <g transform="translate(350, 450)">
+    <circle cx="50" cy="25" r="25" fill="#2ecc71"/>
+    <path d="M 35 25 L 45 35 L 65 15" stroke="#ffffff" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="100" y="30" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2ecc71">
+      Lovpålagt Compliance
+    </text>
+  </g>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>
+    </marker>
+  </defs>
+</svg>

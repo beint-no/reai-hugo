@@ -1,0 +1,91 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#7c2d12;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ea580c;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8fafc"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="80" fill="url(#headerGrad)"/>
+  <text x="400" y="50" text-anchor="middle" fill="white" font-size="24" font-weight="bold">TABELLTREKK FOR PENSJON OG TRYGD</text>
+  
+  <!-- Comparison between salary and pension -->
+  <rect x="50" y="100" width="340" height="220" fill="#fef2f2" stroke="#dc2626" stroke-width="2" rx="10"/>
+  <rect x="60" y="110" width="320" height="30" fill="#dc2626" rx="5"/>
+  <text x="220" y="130" text-anchor="middle" fill="white" font-size="14" font-weight="bold">LØNNSINNTEKT</text>
+  
+  <text x="70" y="160" font-size="12" font-weight="bold" fill="#7f1d1d">Anvendelig tabell:</text>
+  <text x="220" y="160" font-size="12" font-weight="bold" fill="#dc2626">7300 (Standard)</text>
+  
+  <text x="70" y="180" font-size="11" fill="#374151">Grunnlag:</text>
+  <text x="70" y="195" font-size="10" fill="#374151">• Full skatteplikt</text>
+  <text x="70" y="210" font-size="10" fill="#374151">• Trygdeavgift: 8,2%</text>
+  <text x="70" y="225" font-size="10" fill="#374151">• Ingen aldersreduksjon</text>
+  
+  <text x="70" y="250" font-size="12" font-weight="bold" fill="#374151">Eksempel beregning:</text>
+  <rect x="70" y="260" width="300" height="45" fill="white" stroke="#e5e7eb" stroke-width="1" rx="3"/>
+  <text x="80" y="275" font-size="10" fill="#374151">Månedslønn: 50.000 kr</text>
+  <text x="80" y="290" font-size="10" fill="#374151">Årsinntekt: 600.000 kr</text>
+  <text x="80" y="305" font-size="10" fill="#dc2626" font-weight="bold">Månedlig trekk: 16.000 kr (32%)</text>
+  
+  <rect x="410" y="100" width="340" height="220" fill="#f0f9ff" stroke="#0284c7" stroke-width="2" rx="10"/>
+  <rect x="420" y="110" width="320" height="30" fill="#0284c7" rx="5"/>
+  <text x="580" y="130" text-anchor="middle" fill="white" font-size="14" font-weight="bold">PENSJONSINNTEKT</text>
+  
+  <text x="430" y="160" font-size="12" font-weight="bold" fill="#0c4a6e">Anvendelig tabell:</text>
+  <text x="580" y="160" font-size="12" font-weight="bold" fill="#0284c7">7100 (Pensjon)</text>
+  
+  <text x="430" y="180" font-size="11" fill="#374151">Grunnlag:</text>
+  <text x="430" y="195" font-size="10" fill="#374151">• Redusert skatteplikt</text>
+  <text x="430" y="210" font-size="10" fill="#374151">• Trygdeavgift: 5,1%</text>
+  <text x="430" y="225" font-size="10" fill="#374151">• Pensjonistfradrag</text>
+  
+  <text x="430" y="250" font-size="12" font-weight="bold" fill="#374151">Eksempel beregning:</text>
+  <rect x="430" y="260" width="300" height="45" fill="white" stroke="#e5e7eb" stroke-width="1" rx="3"/>
+  <text x="440" y="275" font-size="10" fill="#374151">Månedlig pensjon: 25.000 kr</text>
+  <text x="440" y="290" font-size="10" fill="#374151">Årsinntekt: 300.000 kr</text>
+  <text x="440" y="305" font-size="10" fill="#0284c7" font-weight="bold">Månedlig trekk: 5.500 kr (22%)</text>
+  
+  <!-- Special cases section -->
+  <rect x="50" y="340" width="700" height="180" fill="#f8fafc" stroke="#64748b" stroke-width="2" rx="10"/>
+  <text x="400" y="365" text-anchor="middle" font-size="16" font-weight="bold" fill="#334155">SÆRLIGE FORHOLD VED PENSJON</text>
+  
+  <!-- Age-based deductions -->
+  <rect x="70" y="380" width="200" height="120" fill="#ecfdf5" stroke="#16a34a" stroke-width="1" rx="5"/>
+  <text x="170" y="400" text-anchor="middle" font-size="12" font-weight="bold" fill="#16a34a">ALDERSFRADRAG</text>
+  <text x="80" y="420" font-size="10" fill="#374151">Alder 67-69 år:</text>
+  <text x="80" y="435" font-size="10" fill="#16a34a">+ Kr 31.500 fradrag</text>
+  <text x="80" y="455" font-size="10" fill="#374151">Alder 70+ år:</text>
+  <text x="80" y="470" font-size="10" fill="#16a34a">+ Kr 63.000 fradrag</text>
+  <text x="80" y="490" font-size="10" fill="#374151">Reduserer trekk med</text>
+  <text x="80" y="505" font-size="10" fill="#16a34a" font-weight="bold">ca. 7.000-14.000 kr/år</text>
+  
+  <!-- Disability pension -->
+  <rect x="290" y="380" width="200" height="120" fill="#fef3c7" stroke="#f59e0b" stroke-width="1" rx="5"/>
+  <text x="390" y="400" text-anchor="middle" font-size="12" font-weight="bold" fill="#d97706">UFØREPENSJON</text>
+  <text x="300" y="420" font-size="10" fill="#374151">100% uføregrad:</text>
+  <text x="300" y="435" font-size="10" fill="#d97706">Tabell 7100</text>
+  <text x="300" y="455" font-size="10" fill="#374151">Gradert uførepensjon:</text>
+  <text x="300" y="470" font-size="10" fill="#d97706">Blandet beregning</text>
+  <text x="300" y="490" font-size="10" fill="#374151">Uførefradrag:</text>
+  <text x="300" y="505" font-size="10" fill="#d97706" font-weight="bold">Kr 31.500 (2024)</text>
+  
+  <!-- Survivor pension -->
+  <rect x="510" y="380" width="200" height="120" fill="#fde7e9" stroke="#e11d48" stroke-width="1" rx="5"/>
+  <text x="610" y="400" text-anchor="middle" font-size="12" font-weight="bold" fill="#e11d48">ETTERLATTEPENSJON</text>
+  <text x="520" y="420" font-size="10" fill="#374151">Første 6 måneder:</text>
+  <text x="520" y="435" font-size="10" fill="#e11d48">Skattefri</text>
+  <text x="520" y="455" font-size="10" fill="#374151">Deretter:</text>
+  <text x="520" y="470" font-size="10" fill="#e11d48">Tabell 7100</text>
+  <text x="520" y="490" font-size="10" fill="#374151">Særfradrag:</text>
+  <text x="520" y="505" font-size="10" fill="#e11d48" font-weight="bold">Kr 31.500</text>
+  
+  <!-- Bottom calculation example -->
+  <rect x="50" y="540" width="700" height="40" fill="#f1f5f9" stroke="#64748b" stroke-width="1" rx="5"/>
+  <text x="70" y="560" font-size="12" fill="#374151">Sammenligning 67-åring: Lønn 50.000 kr/mnd (trekk 32%) vs. Pensjon 25.000 kr/mnd (trekk 18%)</text>
+  <text x="70" y="575" font-size="12" font-weight="bold" fill="#16a34a">Pensjonist sparer ca. Kr 7.000/måned i skatt ved samme inntekt</text>
+</svg>

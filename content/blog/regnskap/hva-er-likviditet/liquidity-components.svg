@@ -1,0 +1,135 @@
+<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="500" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+    Likviditetens Komponenter
+  </text>
+  
+  <!-- Current Assets Section -->
+  <g transform="translate(50, 80)">
+    <text x="150" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">
+      Omløpsmidler (Current Assets)
+    </text>
+    
+    <!-- Cash and Bank -->
+    <rect x="0" y="40" width="120" height="80" fill="#3498db" stroke="#2980b9" stroke-width="2" rx="8"/>
+    <text x="60" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      Kontanter &amp;
+    </text>
+    <text x="60" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      Bankinnskudd
+    </text>
+    <text x="60" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      Høyest likviditet
+    </text>
+    
+    <!-- Accounts Receivable -->
+    <rect x="140" y="40" width="120" height="80" fill="#27ae60" stroke="#229954" stroke-width="2" rx="8"/>
+    <text x="200" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      Kundefordringer
+    </text>
+    <text x="200" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      30-90 dager
+    </text>
+    <text x="200" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      til kontanter
+    </text>
+    
+    <!-- Inventory -->
+    <rect x="280" y="40" width="120" height="80" fill="#f39c12" stroke="#e67e22" stroke-width="2" rx="8"/>
+    <text x="340" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      Lagerbeholdning
+    </text>
+    <text x="340" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      Lavest likviditet
+    </text>
+    
+    <!-- Liquidity arrows -->
+    <path d="M60 130 L60 150" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowdown)"/>
+    <path d="M200 130 L200 150" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowdown)"/>
+    <path d="M340 130 L340 150" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowdown)"/>
+    
+    <!-- Liquidity scale -->
+    <rect x="0" y="160" width="400" height="30" fill="none" stroke="#2c3e50" stroke-width="2"/>
+    <rect x="0" y="160" width="133" height="30" fill="#3498db" opacity="0.3"/>
+    <rect x="133" y="160" width="134" height="30" fill="#27ae60" opacity="0.3"/>
+    <rect x="267" y="160" width="133" height="30" fill="#f39c12" opacity="0.3"/>
+    
+    <text x="200" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+      Likviditetsskala: Høy → Middels → Lav
+    </text>
+  </g>
+  
+  <!-- Current Liabilities Section -->
+  <g transform="translate(450, 80)">
+    <text x="150" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">
+      Kortsiktig Gjeld (Current Liabilities)
+    </text>
+    
+    <!-- Accounts Payable -->
+    <rect x="0" y="40" width="120" height="80" fill="#e74c3c" stroke="#c0392b" stroke-width="2" rx="8"/>
+    <text x="60" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      Leverandørgjeld
+    </text>
+    <text x="60" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      30-60 dager
+    </text>
+    <text x="60" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      betalingsfrist
+    </text>
+    
+    <!-- Short-term Loans -->
+    <rect x="140" y="40" width="120" height="80" fill="#8e44ad" stroke="#7d3c98" stroke-width="2" rx="8"/>
+    <text x="200" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      Kortsiktige
+    </text>
+    <text x="200" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      Lån
+    </text>
+    <text x="200" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      &lt; 12 måneder
+    </text>
+    
+    <!-- Accrued Expenses -->
+    <rect x="280" y="40" width="120" height="80" fill="#d35400" stroke="#ba4a00" stroke-width="2" rx="8"/>
+    <text x="340" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      Påløpte
+    </text>
+    <text x="340" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      Kostnader
+    </text>
+    <text x="340" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      Lønn, skatt, etc.
+    </text>
+  </g>
+  
+  <!-- Working Capital Calculation -->
+  <g transform="translate(200, 320)">
+    <rect x="0" y="0" width="400" height="120" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2" rx="10"/>
+    
+    <text x="200" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">
+      Arbeidskapital Beregning
+    </text>
+    
+    <text x="200" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#2c3e50">
+      Arbeidskapital = Omløpsmidler - Kortsiktig Gjeld
+    </text>
+    
+    <text x="200" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#7f8c8d">
+      Positiv arbeidskapital = God likviditet
+    </text>
+    
+    <text x="200" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#7f8c8d">
+      Negativ arbeidskapital = Likviditetsproblemer
+    </text>
+  </g>
+  
+  <!-- Arrow markers -->
+  <defs>
+    <marker id="arrowdown" markerWidth="10" markerHeight="7" refX="5" refY="6" orient="auto">
+      <polygon points="0 0, 10 0, 5 7" fill="#2c3e50"/>
+    </marker>
+  </defs>
+</svg>

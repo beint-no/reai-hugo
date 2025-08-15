@@ -1,0 +1,143 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="qaBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f3e5f5;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e1bee7;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="checkGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#4caf50;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2e7d32;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="processGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f8f9fa;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="url(#qaBg)" stroke="#9c27b0" stroke-width="2"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="#6a1b9a">
+    Kvartalsrapport Kvalitetssikring
+  </text>
+  
+  <!-- Quality control layers -->
+  <!-- Layer 1: Data Validation -->
+  <g transform="translate(50, 70)">
+    <rect x="0" y="0" width="680" height="80" fill="url(#processGrad)" stroke="#1976d2" stroke-width="2" rx="8"/>
+    <circle cx="30" cy="40" r="20" fill="#1976d2"/>
+    <text x="30" y="46" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">1</text>
+    
+    <text x="70" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1976d2">Datavalidering</text>
+    <text x="70" y="45" font-family="Arial, sans-serif" font-size="12" fill="#333">Kontroll av grunnlagsdata og beregninger</text>
+    
+    <!-- Checkpoints -->
+    <g transform="translate(300, 20)">
+      <rect x="0" y="0" width="120" height="40" fill="#e3f2fd" stroke="#1976d2" stroke-width="1" rx="4"/>
+      <text x="60" y="15" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#1976d2">✓ Tallkontroll</text>
+      <text x="60" y="30" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#1976d2">✓ Formler</text>
+      
+      <rect x="140" y="0" width="120" height="40" fill="#e3f2fd" stroke="#1976d2" stroke-width="1" rx="4"/>
+      <text x="200" y="15" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#1976d2">✓ Avstemming</text>
+      <text x="200" y="30" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#1976d2">✓ Balanse</text>
+      
+      <rect x="280" y="0" width="120" height="40" fill="#e3f2fd" stroke="#1976d2" stroke-width="1" rx="4"/>
+      <text x="340" y="15" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#1976d2">✓ Konsistens</text>
+      <text x="340" y="30" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#1976d2">✓ Periodesplitt</text>
+    </g>
+  </g>
+  
+  <!-- Layer 2: Content Review -->
+  <g transform="translate(50, 170)">
+    <rect x="0" y="0" width="680" height="80" fill="url(#processGrad)" stroke="#388e3c" stroke-width="2" rx="8"/>
+    <circle cx="30" cy="40" r="20" fill="#388e3c"/>
+    <text x="30" y="46" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">2</text>
+    
+    <text x="70" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#388e3c">Innholdsgjennomgang</text>
+    <text x="70" y="45" font-family="Arial, sans-serif" font-size="12" fill="#333">Faglig vurdering av rapportens innhold og presentasjon</text>
+    
+    <!-- Review areas -->
+    <g transform="translate(300, 20)">
+      <rect x="0" y="0" width="120" height="40" fill="#e8f5e8" stroke="#388e3c" stroke-width="1" rx="4"/>
+      <text x="60" y="15" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#388e3c">✓ Regnskapsprinsipper</text>
+      <text x="60" y="30" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#388e3c">✓ Standarder</text>
+      
+      <rect x="140" y="0" width="120" height="40" fill="#e8f5e8" stroke="#388e3c" stroke-width="1" rx="4"/>
+      <text x="200" y="15" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#388e3c">✓ Kommentarer</text>
+      <text x="200" y="30" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#388e3c">✓ Analyser</text>
+      
+      <rect x="280" y="0" width="120" height="40" fill="#e8f5e8" stroke="#388e3c" stroke-width="1" rx="4"/>
+      <text x="340" y="15" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#388e3c">✓ Sammenlignbarhet</text>
+      <text x="340" y="30" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#388e3c">✓ Fullstendighet</text>
+    </g>
+  </g>
+  
+  <!-- Layer 3: Compliance Check -->
+  <g transform="translate(50, 270)">
+    <rect x="0" y="0" width="680" height="80" fill="url(#processGrad)" stroke="#f57c00" stroke-width="2" rx="8"/>
+    <circle cx="30" cy="40" r="20" fill="#f57c00"/>
+    <text x="30" y="46" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">3</text>
+    
+    <text x="70" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#f57c00">Regelverkskontroll</text>
+    <text x="70" y="45" font-family="Arial, sans-serif" font-size="12" fill="#333">Sikring av overholdelse av lover og forskrifter</text>
+    
+    <!-- Compliance areas -->
+    <g transform="translate(300, 20)">
+      <rect x="0" y="0" width="120" height="40" fill="#fff3e0" stroke="#f57c00" stroke-width="1" rx="4"/>
+      <text x="60" y="15" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#f57c00">✓ Regnskapslov</text>
+      <text x="60" y="30" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#f57c00">✓ IFRS/NGAAP</text>
+      
+      <rect x="140" y="0" width="120" height="40" fill="#fff3e0" stroke="#f57c00" stroke-width="1" rx="4"/>
+      <text x="200" y="15" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#f57c00">✓ Børsregler</text>
+      <text x="200" y="30" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#f57c00">✓ Frister</text>
+      
+      <rect x="280" y="0" width="120" height="40" fill="#fff3e0" stroke="#f57c00" stroke-width="1" rx="4"/>
+      <text x="340" y="15" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#f57c00">✓ Opplysningsplikt</text>
+      <text x="340" y="30" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#f57c00">✓ Dokumentasjon</text>
+    </g>
+  </g>
+  
+  <!-- Final approval -->
+  <g transform="translate(300, 370)">
+    <rect x="0" y="0" width="200" height="60" fill="url(#checkGrad)" stroke="#2e7d32" stroke-width="2" rx="8"/>
+    <text x="100" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+      Endelig Godkjenning
+    </text>
+    <text x="100" y="45" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+      Ledelse &amp; Styre
+    </text>
+  </g>
+  
+  <!-- Quality indicators -->
+  <g transform="translate(50, 450)">
+    <text x="0" y="0" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">Kvalitetsindikatorer:</text>
+    
+    <!-- Accuracy -->
+    <rect x="0" y="10" width="150" height="25" fill="#e8f5e8" stroke="#4caf50" stroke-width="1" rx="4"/>
+    <text x="75" y="26" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#2e7d32">Nøyaktighet: 99.8%</text>
+    
+    <!-- Timeliness -->
+    <rect x="170" y="10" width="150" height="25" fill="#e3f2fd" stroke="#2196f3" stroke-width="1" rx="4"/>
+    <text x="245" y="26" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#1976d2">Punktlighet: 100%</text>
+    
+    <!-- Completeness -->
+    <rect x="340" y="10" width="150" height="25" fill="#fff3e0" stroke="#ff9800" stroke-width="1" rx="4"/>
+    <text x="415" y="26" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#f57c00">Fullstendighet: 100%</text>
+    
+    <!-- Compliance -->
+    <rect x="510" y="10" width="150" height="25" fill="#fce4ec" stroke="#e91e63" stroke-width="1" rx="4"/>
+    <text x="585" y="26" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#c2185b">Regeletterlevelse: 100%</text>
+  </g>
+  
+  <!-- Process arrows -->
+  <defs>
+    <marker id="qaArrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#9c27b0"/>
+    </marker>
+  </defs>
+  
+  <line x1="400" y1="150" x2="400" y2="170" stroke="#9c27b0" stroke-width="3" marker-end="url(#qaArrow)"/>
+  <line x1="400" y1="250" x2="400" y2="270" stroke="#9c27b0" stroke-width="3" marker-end="url(#qaArrow)"/>
+  <line x1="400" y1="350" x2="400" y2="370" stroke="#9c27b0" stroke-width="3" marker-end="url(#qaArrow)"/>
+</svg>

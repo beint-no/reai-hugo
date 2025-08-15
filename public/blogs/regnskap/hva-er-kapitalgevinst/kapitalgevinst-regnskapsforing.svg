@@ -1,0 +1,100 @@
+<svg width="750" height="450" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="debitGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#fff2e8;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#fde2d1;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="creditGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#e8f4fd;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#d1ecf1;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="750" height="450" fill="url(#bgGrad)" stroke="#dee2e6" stroke-width="2" rx="10"/>
+  
+  <!-- Title -->
+  <text x="375" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#0066cc">
+    Regnskapsføring av Kapitalgevinst
+  </text>
+  
+  <!-- Example scenario -->
+  <rect x="50" y="60" width="650" height="50" fill="white" stroke="#0066cc" stroke-width="1" rx="8"/>
+  <text x="375" y="80" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0066cc">
+    Eksempel: Salg av Maskin
+  </text>
+  <text x="375" y="100" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#333">
+    Opprinnelig kostpris: 500 000 kr | Akkumulerte avskrivninger: 200 000 kr | Salgspris: 400 000 kr
+  </text>
+  
+  <!-- Step 1: Original purchase -->
+  <text x="50" y="140" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#333">
+    1. Opprinnelig Anskaffelse:
+  </text>
+  
+  <rect x="50" y="150" width="650" height="40" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="5"/>
+  <text x="60" y="170" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#ff6b35">
+    Debet: Maskiner og utstyr    500 000 kr
+  </text>
+  <text x="400" y="170" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0066cc">
+    Kredit: Bank    500 000 kr
+  </text>
+  
+  <!-- Step 2: Accumulated depreciation -->
+  <text x="50" y="210" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#333">
+    2. Akkumulerte Avskrivninger (over tid):
+  </text>
+  
+  <rect x="50" y="220" width="650" height="40" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="5"/>
+  <text x="60" y="240" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#ff6b35">
+    Debet: Avskrivninger    200 000 kr
+  </text>
+  <text x="400" y="240" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0066cc">
+    Kredit: Akk. avskrivninger    200 000 kr
+  </text>
+  
+  <!-- Step 3: Sale transaction -->
+  <text x="50" y="280" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#333">
+    3. Salg av Maskin:
+  </text>
+  
+  <rect x="50" y="290" width="650" height="80" fill="url(#debitGrad)" stroke="#ff6b35" stroke-width="2" rx="8"/>
+  <text x="60" y="310" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#ff6b35">
+    DEBET:
+  </text>
+  <text x="60" y="330" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    • Bank: 400 000 kr
+  </text>
+  <text x="60" y="350" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    • Akk. avskrivninger: 200 000 kr
+  </text>
+  
+  <rect x="400" y="290" width="300" height="80" fill="url(#creditGrad)" stroke="#0066cc" stroke-width="2" rx="8"/>
+  <text x="410" y="310" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0066cc">
+    KREDIT:
+  </text>
+  <text x="410" y="330" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    • Maskiner og utstyr: 500 000 kr
+  </text>
+  <text x="410" y="350" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#28a745">
+    • Gevinst ved salg: 100 000 kr
+  </text>
+  
+  <!-- Calculation box -->
+  <rect x="150" y="390" width="450" height="50" fill="#e8f8e8" stroke="#28a745" stroke-width="2" rx="8"/>
+  <text x="375" y="410" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#28a745">
+    Kapitalgevinst Beregning:
+  </text>
+  <text x="375" y="430" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#333">
+    Salgspris (400 000) - Bokført verdi (300 000) = 100 000 kr gevinst
+  </text>
+  
+  <!-- Note -->
+  <text x="375" y="445" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666">
+    Bokført verdi = Kostpris - Akkumulerte avskrivninger (500 000 - 200 000 = 300 000)
+  </text>
+</svg>

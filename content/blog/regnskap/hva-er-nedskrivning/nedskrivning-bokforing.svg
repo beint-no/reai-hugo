@@ -1,0 +1,159 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8fafc"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="20" font-weight="bold">
+    Regnskapsmessig Behandling av Nedskrivning
+  </text>
+  
+  <!-- Before impairment section -->
+  <text x="400" y="70" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+    FØR NEDSKRIVNING
+  </text>
+  
+  <!-- Balance sheet before -->
+  <rect x="100" y="90" width="600" height="120" fill="#f0f9ff" stroke="#bae6fd" stroke-width="2" rx="8"/>
+  <text x="400" y="115" text-anchor="middle" fill="#0369a1" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    BALANSE
+  </text>
+  
+  <!-- Assets side -->
+  <text x="200" y="140" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    EIENDELER
+  </text>
+  <text x="150" y="165" fill="#6b7280" font-family="Arial, sans-serif" font-size="11">
+    Anleggsmidler:
+  </text>
+  <text x="250" y="165" text-anchor="end" fill="#6b7280" font-family="Arial, sans-serif" font-size="11">
+    1 000 000
+  </text>
+  <text x="150" y="185" fill="#6b7280" font-family="Arial, sans-serif" font-size="11">
+    Andre eiendeler:
+  </text>
+  <text x="250" y="185" text-anchor="end" fill="#6b7280" font-family="Arial, sans-serif" font-size="11">
+    500 000
+  </text>
+  <text x="250" y="200" text-anchor="end" fill="#374151" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    1 500 000
+  </text>
+  
+  <!-- Equity and liabilities side -->
+  <text x="600" y="140" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    EGENKAPITAL &amp; GJELD
+  </text>
+  <text x="550" y="165" fill="#6b7280" font-family="Arial, sans-serif" font-size="11">
+    Egenkapital:
+  </text>
+  <text x="650" y="165" text-anchor="end" fill="#6b7280" font-family="Arial, sans-serif" font-size="11">
+    1 200 000
+  </text>
+  <text x="550" y="185" fill="#6b7280" font-family="Arial, sans-serif" font-size="11">
+    Gjeld:
+  </text>
+  <text x="650" y="185" text-anchor="end" fill="#6b7280" font-family="Arial, sans-serif" font-size="11">
+    300 000
+  </text>
+  <text x="650" y="200" text-anchor="end" fill="#374151" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    1 500 000
+  </text>
+  
+  <!-- Journal entry section -->
+  <text x="400" y="250" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+    BILAGSFØRING AV NEDSKRIVNING
+  </text>
+  
+  <rect x="200" y="270" width="400" height="100" fill="#fef2f2" stroke="#fecaca" stroke-width="2" rx="8"/>
+  <text x="400" y="295" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    Bilag: Nedskrivning av anleggsmidler
+  </text>
+  
+  <!-- Debit entry -->
+  <text x="220" y="320" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    Debet:
+  </text>
+  <text x="280" y="320" fill="#6b7280" font-family="Arial, sans-serif" font-size="12">
+    Nedskrivning av eiendeler
+  </text>
+  <text x="560" y="320" text-anchor="end" fill="#6b7280" font-family="Arial, sans-serif" font-size="12">
+    200 000
+  </text>
+  
+  <!-- Credit entry -->
+  <text x="220" y="345" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    Kredit:
+  </text>
+  <text x="280" y="345" fill="#6b7280" font-family="Arial, sans-serif" font-size="12">
+    Akkumulerte nedskrivninger
+  </text>
+  <text x="560" y="345" text-anchor="end" fill="#6b7280" font-family="Arial, sans-serif" font-size="12">
+    200 000
+  </text>
+  
+  <!-- Arrow showing impact -->
+  <path d="M 400 380 L 400 420" stroke="#dc2626" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  <text x="400" y="405" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    PÅVIRKNING
+  </text>
+  
+  <!-- After impairment section -->
+  <text x="400" y="450" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+    ETTER NEDSKRIVNING
+  </text>
+  
+  <!-- Balance sheet after -->
+  <rect x="100" y="470" width="600" height="120" fill="#f0fdf4" stroke="#bbf7d0" stroke-width="2" rx="8"/>
+  <text x="400" y="495" text-anchor="middle" fill="#059669" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    BALANSE
+  </text>
+  
+  <!-- Assets side after -->
+  <text x="200" y="520" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    EIENDELER
+  </text>
+  <text x="150" y="545" fill="#6b7280" font-family="Arial, sans-serif" font-size="11">
+    Anleggsmidler:
+  </text>
+  <text x="250" y="545" text-anchor="end" fill="#dc2626" font-family="Arial, sans-serif" font-size="11">
+    800 000
+  </text>
+  <text x="150" y="565" fill="#6b7280" font-family="Arial, sans-serif" font-size="11">
+    Andre eiendeler:
+  </text>
+  <text x="250" y="565" text-anchor="end" fill="#6b7280" font-family="Arial, sans-serif" font-size="11">
+    500 000
+  </text>
+  <text x="250" y="580" text-anchor="end" fill="#374151" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    1 300 000
+  </text>
+  
+  <!-- Equity and liabilities side after -->
+  <text x="600" y="520" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    EGENKAPITAL &amp; GJELD
+  </text>
+  <text x="550" y="545" fill="#6b7280" font-family="Arial, sans-serif" font-size="11">
+    Egenkapital:
+  </text>
+  <text x="650" y="545" text-anchor="end" fill="#dc2626" font-family="Arial, sans-serif" font-size="11">
+    1 000 000
+  </text>
+  <text x="550" y="565" fill="#6b7280" font-family="Arial, sans-serif" font-size="11">
+    Gjeld:
+  </text>
+  <text x="650" y="565" text-anchor="end" fill="#6b7280" font-family="Arial, sans-serif" font-size="11">
+    300 000
+  </text>
+  <text x="650" y="580" text-anchor="end" fill="#374151" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    1 300 000
+  </text>
+  
+  <!-- Impact explanation -->
+  <rect x="50" y="600" width="700" height="0" fill="none"/>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#dc2626"/>
+    </marker>
+  </defs>
+</svg>

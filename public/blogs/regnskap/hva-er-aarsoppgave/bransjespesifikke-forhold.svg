@@ -1,0 +1,103 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1e40af;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8fafc"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
+  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white" text-anchor="middle">Bransjespesifikke Rapporteringskrav</text>
+  
+  <!-- Content area -->
+  <g transform="translate(40, 80)">
+    
+    <!-- Finansielle institusjoner -->
+    <g transform="translate(0, 0)">
+      <rect x="0" y="0" width="350" height="200" fill="#dbeafe" stroke="#3b82f6" stroke-width="2" rx="12"/>
+      <text x="175" y="30" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e40af" text-anchor="middle">Finansielle Institusjoner</text>
+      
+      <text x="20" y="60" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e40af">Banker og finansselskaper:</text>
+      <text x="25" y="80" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Finanstilsynets rapportering</text>
+      <text x="25" y="100" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Spesialtilpassede skjemaer</text>
+      <text x="25" y="120" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Særregler for tapsavsetninger</text>
+      
+      <text x="20" y="150" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e40af">Krav:</text>
+      <text x="25" y="170" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Kapitaldekning og risikostyring</text>
+      <text x="25" y="190" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Komplekse finansielle instrumenter</text>
+    </g>
+    
+    <!-- Forsikring -->
+    <g transform="translate(370, 0)">
+      <rect x="0" y="0" width="350" height="200" fill="#dcfce7" stroke="#10b981" stroke-width="2" rx="12"/>
+      <text x="175" y="30" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#059669" text-anchor="middle">Forsikringsselskaper</text>
+      
+      <text x="20" y="60" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#059669">Forsikringstekniske avsetninger:</text>
+      <text x="25" y="80" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Aktuarberegninger</text>
+      <text x="25" y="100" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Risikoevaluering</text>
+      
+      <text x="20" y="130" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#059669">Spesialområder:</text>
+      <text x="25" y="150" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Livsforsikring og pensjon</text>
+      <text x="25" y="170" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Skadeforsikring og reserver</text>
+      <text x="25" y="190" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Solvensregulering</text>
+    </g>
+    
+    <!-- Eiendom -->
+    <g transform="translate(0, 220)">
+      <rect x="0" y="0" width="350" height="200" fill="#fef3c7" stroke="#f59e0b" stroke-width="2" rx="12"/>
+      <text x="175" y="30" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#d97706" text-anchor="middle">Eiendom og Utvikling</text>
+      
+      <text x="20" y="60" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#d97706">Eiendomsutvikling:</text>
+      <text x="25" y="80" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Prosjekteiendommer</text>
+      <text x="25" y="100" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Utviklingskontrakter</text>
+      <text x="25" y="120" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Periodisering av inntekter</text>
+      
+      <text x="20" y="150" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#d97706">Eiendomsforvaltning:</text>
+      <text x="25" y="170" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Leieinntekter og indeksregulering</text>
+      <text x="25" y="190" font-family="Arial, sans-serif" font-size="11" fill="#374151">• REIT-struktur og særregler</text>
+    </g>
+    
+    <!-- Shipping og industri -->
+    <g transform="translate(370, 220)">
+      <rect x="0" y="0" width="350" height="200" fill="#fce7f3" stroke="#ec4899" stroke-width="2" rx="12"/>
+      <text x="175" y="30" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#be185d" text-anchor="middle">Shipping og Industri</text>
+      
+      <text x="20" y="60" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#be185d">Rederier:</text>
+      <text x="25" y="80" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Tonnasjeskatteordning</text>
+      <text x="25" y="100" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Internasjonal skipsfart</text>
+      <text x="25" y="120" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Valutasikring</text>
+      
+      <text x="20" y="150" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#be185d">Industri:</text>
+      <text x="25" y="170" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Langtidskontrakter</text>
+      <text x="25" y="190" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Komplekse produksjonsprosesser</text>
+    </g>
+    
+    <!-- Olje og gass -->
+    <g transform="translate(0, 440)">
+      <rect x="0" y="0" width="350" height="120" fill="#e0e7ff" stroke="#6366f1" stroke-width="2" rx="12"/>
+      <text x="175" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#4338ca" text-anchor="middle">Petroleum og Energi</text>
+      
+      <text x="20" y="50" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#4338ca">Petroleumsskatt:</text>
+      <text x="25" y="70" font-family="Arial, sans-serif" font-size="11" fill="#374151">• 78% samlet skattesats</text>
+      <text x="25" y="85" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Uplift-ordning for investeringer</text>
+      <text x="25" y="100" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Spesiell avskrivningsregler</text>
+    </g>
+    
+    <!-- IT og teknologi -->
+    <g transform="translate(370, 440)">
+      <rect x="0" y="0" width="350" height="120" fill="#ecfdf5" stroke="#10b981" stroke-width="2" rx="12"/>
+      <text x="175" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#059669" text-anchor="middle">IT og Teknologi</text>
+      
+      <text x="20" y="50" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#059669">Spesielle forhold:</text>
+      <text x="25" y="70" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Immaterielle eiendeler (programvare)</text>
+      <text x="25" y="85" font-family="Arial, sans-serif" font-size="11" fill="#374151">• SaaS og abonnementsinntekter</text>
+      <text x="25" y="100" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Internasjonale digitale tjenester</text>
+    </g>
+    
+  </g>
+  
+</svg>

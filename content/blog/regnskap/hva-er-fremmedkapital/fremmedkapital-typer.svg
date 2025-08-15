@@ -1,0 +1,137 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+    Typer av Fremmedkapital
+  </text>
+  
+  <!-- Main container -->
+  <g transform="translate(50, 60)">
+    <!-- Central circle for Fremmedkapital -->
+    <circle cx="350" cy="250" r="80" fill="#e74c3c" fill-opacity="0.2" stroke="#e74c3c" stroke-width="3"/>
+    <text x="350" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#c0392b">
+      FREMMED-
+    </text>
+    <text x="350" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#c0392b">
+      KAPITAL
+    </text>
+    
+    <!-- Kortsiktig gjeld section (top left) -->
+    <g transform="translate(50, 50)">
+      <rect x="0" y="0" width="200" height="150" fill="#3498db" fill-opacity="0.1" stroke="#3498db" stroke-width="2" rx="10"/>
+      <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2980b9">
+        KORTSIKTIG GJELD
+      </text>
+      <text x="100" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2980b9">
+        (Forfaller &lt; 1 år)
+      </text>
+      
+      <text x="20" y="70" font-family="Arial, sans-serif" font-size="11" fill="#34495e">• Leverandørgjeld</text>
+      <text x="20" y="85" font-family="Arial, sans-serif" font-size="11" fill="#34495e">• Kassekreditt</text>
+      <text x="20" y="100" font-family="Arial, sans-serif" font-size="11" fill="#34495e">• Skyldig MVA</text>
+      <text x="20" y="115" font-family="Arial, sans-serif" font-size="11" fill="#34495e">• Feriepenger</text>
+      <text x="20" y="130" font-family="Arial, sans-serif" font-size="11" fill="#34495e">• Annen kortsiktig gjeld</text>
+    </g>
+    
+    <!-- Langsiktig gjeld section (top right) -->
+    <g transform="translate(450, 50)">
+      <rect x="0" y="0" width="200" height="150" fill="#9b59b6" fill-opacity="0.1" stroke="#9b59b6" stroke-width="2" rx="10"/>
+      <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#8e44ad">
+        LANGSIKTIG GJELD
+      </text>
+      <text x="100" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#8e44ad">
+        (Forfaller &gt; 1 år)
+      </text>
+      
+      <text x="20" y="70" font-family="Arial, sans-serif" font-size="11" fill="#34495e">• Banklån</text>
+      <text x="20" y="85" font-family="Arial, sans-serif" font-size="11" fill="#34495e">• Obligasjonslån</text>
+      <text x="20" y="100" font-family="Arial, sans-serif" font-size="11" fill="#34495e">• Byggelån</text>
+      <text x="20" y="115" font-family="Arial, sans-serif" font-size="11" fill="#34495e">• Leasingforpliktelser</text>
+      <text x="20" y="130" font-family="Arial, sans-serif" font-size="11" fill="#34495e">• Pensjonsforpliktelser</text>
+    </g>
+    
+    <!-- Sikret gjeld section (bottom left) -->
+    <g transform="translate(50, 350)">
+      <rect x="0" y="0" width="200" height="150" fill="#e67e22" fill-opacity="0.1" stroke="#e67e22" stroke-width="2" rx="10"/>
+      <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#d35400">
+        SIKRET GJELD
+      </text>
+      <text x="100" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#d35400">
+        (Med pant/sikkerhet)
+      </text>
+      
+      <text x="20" y="70" font-family="Arial, sans-serif" font-size="11" fill="#34495e">• Boliglån</text>
+      <text x="20" y="85" font-family="Arial, sans-serif" font-size="11" fill="#34495e">• Billån</text>
+      <text x="20" y="100" font-family="Arial, sans-serif" font-size="11" fill="#34495e">• Maskinlån</text>
+      <text x="20" y="115" font-family="Arial, sans-serif" font-size="11" fill="#34495e">• Pantelån</text>
+      <text x="20" y="130" font-family="Arial, sans-serif" font-size="11" fill="#34495e">• Factoring med regress</text>
+    </g>
+    
+    <!-- Usikret gjeld section (bottom right) -->
+    <g transform="translate(450, 350)">
+      <rect x="0" y="0" width="200" height="150" fill="#1abc9c" fill-opacity="0.1" stroke="#1abc9c" stroke-width="2" rx="10"/>
+      <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#16a085">
+        USIKRET GJELD
+      </text>
+      <text x="100" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#16a085">
+        (Uten sikkerhet)
+      </text>
+      
+      <text x="20" y="70" font-family="Arial, sans-serif" font-size="11" fill="#34495e">• Leverandørgjeld</text>
+      <text x="20" y="85" font-family="Arial, sans-serif" font-size="11" fill="#34495e">• Kassekreditt</text>
+      <text x="20" y="100" font-family="Arial, sans-serif" font-size="11" fill="#34495e">• Kredittkortgjeld</text>
+      <text x="20" y="115" font-family="Arial, sans-serif" font-size="11" fill="#34495e">• Obligasjoner</text>
+      <text x="20" y="130" font-family="Arial, sans-serif" font-size="11" fill="#34495e">• Factoring uten regress</text>
+    </g>
+    
+    <!-- Connecting lines from center to each section -->
+    <!-- To kortsiktig gjeld -->
+    <path d="M 300 200 L 200 150" stroke="#3498db" stroke-width="2" marker-end="url(#arrowhead-blue)"/>
+    
+    <!-- To langsiktig gjeld -->
+    <path d="M 400 200 L 500 150" stroke="#9b59b6" stroke-width="2" marker-end="url(#arrowhead-purple)"/>
+    
+    <!-- To sikret gjeld -->
+    <path d="M 300 300 L 200 350" stroke="#e67e22" stroke-width="2" marker-end="url(#arrowhead-orange)"/>
+    
+    <!-- To usikret gjeld -->
+    <path d="M 400 300 L 500 350" stroke="#1abc9c" stroke-width="2" marker-end="url(#arrowhead-teal)"/>
+    
+    <!-- Classification labels -->
+    <text x="150" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#7f8c8d">
+      Etter Forfallstid
+    </text>
+    <text x="550" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#7f8c8d">
+      Etter Forfallstid
+    </text>
+    <text x="150" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#7f8c8d">
+      Etter Sikkerhet
+    </text>
+    <text x="550" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#7f8c8d">
+      Etter Sikkerhet
+    </text>
+  </g>
+  
+  <!-- Arrow markers -->
+  <defs>
+    <marker id="arrowhead-blue" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#3498db"/>
+    </marker>
+    <marker id="arrowhead-purple" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#9b59b6"/>
+    </marker>
+    <marker id="arrowhead-orange" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#e67e22"/>
+    </marker>
+    <marker id="arrowhead-teal" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#1abc9c"/>
+    </marker>
+  </defs>
+  
+  <!-- Bottom explanation -->
+  <text x="400" y="570" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#7f8c8d">
+    Fremmedkapital kan klassifiseres etter forfallstid og sikkerhetsstillelse
+  </text>
+</svg>

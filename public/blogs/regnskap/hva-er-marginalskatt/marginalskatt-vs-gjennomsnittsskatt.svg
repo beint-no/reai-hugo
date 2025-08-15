@@ -1,0 +1,110 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#212529">
+    Marginalskatt vs Gjennomsnittsskatt
+  </text>
+  
+  <!-- Left side - Marginalskatt -->
+  <rect x="50" y="80" width="320" height="350" fill="#fff" stroke="#007bff" stroke-width="3" rx="10"/>
+  <text x="210" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#007bff">
+    MARGINALSKATT
+  </text>
+  
+  <!-- Marginal tax explanation -->
+  <text x="70" y="140" font-family="Arial, sans-serif" font-size="14" fill="#495057">
+    Skattesatsen på den SISTE
+  </text>
+  <text x="70" y="160" font-family="Arial, sans-serif" font-size="14" fill="#495057">
+    kronen du tjener
+  </text>
+  
+  <!-- Example for marginal tax -->
+  <rect x="70" y="180" width="280" height="120" fill="#e3f2fd" stroke="#2196f3" stroke-width="1" rx="5"/>
+  <text x="80" y="200" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1976d2">
+    Eksempel: Inntekt 600 000 kr
+  </text>
+  <text x="80" y="220" font-family="Arial, sans-serif" font-size="11" fill="#1976d2">
+    • 0-208k: 0% trinnskatt
+  </text>
+  <text x="80" y="235" font-family="Arial, sans-serif" font-size="11" fill="#1976d2">
+    • 208k-293k: 1,7% trinnskatt
+  </text>
+  <text x="80" y="250" font-family="Arial, sans-serif" font-size="11" fill="#1976d2">
+    • 293k-600k: 4,0% trinnskatt
+  </text>
+  <text x="80" y="270" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#d32f2f">
+    Marginalskatt: 18,3%
+  </text>
+  <text x="80" y="285" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    (4% + 11,9% + 2,4%)
+  </text>
+  
+  <!-- Arrow pointing to next kroner -->
+  <path d="M 210 320 L 230 340 L 210 360 L 190 340 Z" fill="#ff5722"/>
+  <text x="210" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#ff5722">
+    Neste krone
+  </text>
+  <text x="210" y="395" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#ff5722">
+    beskattes 18,3%
+  </text>
+  
+  <!-- Right side - Gjennomsnittsskatt -->
+  <rect x="430" y="80" width="320" height="350" fill="#fff" stroke="#28a745" stroke-width="3" rx="10"/>
+  <text x="590" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#28a745">
+    GJENNOMSNITTSSKATT
+  </text>
+  
+  <!-- Average tax explanation -->
+  <text x="450" y="140" font-family="Arial, sans-serif" font-size="14" fill="#495057">
+    Total skatt delt på
+  </text>
+  <text x="450" y="160" font-family="Arial, sans-serif" font-size="14" fill="#495057">
+    total inntekt
+  </text>
+  
+  <!-- Example for average tax -->
+  <rect x="450" y="180" width="280" height="120" fill="#e8f5e8" stroke="#4caf50" stroke-width="1" rx="5"/>
+  <text x="460" y="200" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2e7d32">
+    Eksempel: Inntekt 600 000 kr
+  </text>
+  <text x="460" y="220" font-family="Arial, sans-serif" font-size="11" fill="#2e7d32">
+    Total skatt: ca. 95 000 kr
+  </text>
+  <text x="460" y="240" font-family="Arial, sans-serif" font-size="11" fill="#2e7d32">
+    • Trinnskatt: 6 300 kr
+  </text>
+  <text x="460" y="255" font-family="Arial, sans-serif" font-size="11" fill="#2e7d32">
+    • Kommuneskatt: 71 400 kr
+  </text>
+  <text x="460" y="270" font-family="Arial, sans-serif" font-size="11" fill="#2e7d32">
+    • Fylkeskatt: 14 400 kr
+  </text>
+  <text x="460" y="290" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#d32f2f">
+    Gjennomsnittsskatt: 15,8%
+  </text>
+  
+  <!-- Calculation visualization -->
+  <path d="M 590 320 L 610 340 L 590 360 L 570 340 Z" fill="#ff9800"/>
+  <text x="590" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#ff9800">
+    95 000 ÷ 600 000
+  </text>
+  <text x="590" y="395" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#ff9800">
+    = 15,8%
+  </text>
+  
+  <!-- Bottom comparison -->
+  <rect x="100" y="450" width="600" height="40" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="5"/>
+  <text x="400" y="475" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#856404">
+    Marginalskatt (18,3%) &gt; Gjennomsnittsskatt (15,8%) på grunn av progressiv beskatning
+  </text>
+</svg>

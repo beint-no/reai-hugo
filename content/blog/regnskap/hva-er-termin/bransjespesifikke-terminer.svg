@@ -1,0 +1,191 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="agriGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#16a34a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#22c55e;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="tourismGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0ea5e9;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#38bdf8;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="retailGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#dc2626;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ef4444;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="eduGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#7c3aed;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8fafc"/>
+  
+  <!-- Title -->
+  <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1e293b">Bransjespesifikke Regnskapsterminer</text>
+  
+  <!-- Agriculture section -->
+  <g transform="translate(50, 70)">
+    <rect x="0" y="0" width="320" height="120" fill="url(#agriGrad)" rx="8"/>
+    <text x="160" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">LANDBRUK</text>
+    
+    <!-- Season timeline -->
+    <g transform="translate(20, 40)">
+      <rect x="0" y="0" width="60" height="25" fill="#ffffff" fill-opacity="0.2" rx="3"/>
+      <text x="30" y="17" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Vår/Såing</text>
+      
+      <rect x="70" y="0" width="80" height="25" fill="#ffffff" fill-opacity="0.3" rx="3"/>
+      <text x="110" y="17" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Sommer/Vekst</text>
+      
+      <rect x="160" y="0" width="60" height="25" fill="#ffffff" fill-opacity="0.4" rx="3"/>
+      <text x="190" y="17" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Høst</text>
+      
+      <rect x="230" y="0" width="60" height="25" fill="#ffffff" fill-opacity="0.2" rx="3"/>
+      <text x="260" y="17" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Vinter</text>
+    </g>
+    
+    <text x="160" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">Regnskapsår: Høst til høst</text>
+    <text x="160" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Inntektsføring ved høst, kostnader løpende</text>
+  </g>
+  
+  <!-- Tourism section -->
+  <g transform="translate(430, 70)">
+    <rect x="0" y="0" width="320" height="120" fill="url(#tourismGrad)" rx="8"/>
+    <text x="160" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">TURISME</text>
+    
+    <!-- Season timeline -->
+    <g transform="translate(20, 40)">
+      <rect x="0" y="0" width="70" height="25" fill="#ffffff" fill-opacity="0.4" rx="3"/>
+      <text x="35" y="17" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Høysesong</text>
+      
+      <rect x="80" y="0" width="70" height="25" fill="#ffffff" fill-opacity="0.2" rx="3"/>
+      <text x="115" y="17" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Mellom</text>
+      
+      <rect x="160" y="0" width="70" height="25" fill="#ffffff" fill-opacity="0.2" rx="3"/>
+      <text x="195" y="17" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Lavsesong</text>
+      
+      <rect x="240" y="0" width="50" height="25" fill="#ffffff" fill-opacity="0.3" rx="3"/>
+      <text x="265" y="17" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Vinter</text>
+    </g>
+    
+    <text x="160" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">Sesongbasert periodisering</text>
+    <text x="160" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Høy/lav sesong som hovedterminer</text>
+  </g>
+  
+  <!-- Retail section -->
+  <g transform="translate(50, 220)">
+    <rect x="0" y="0" width="320" height="140" fill="url(#retailGrad)" rx="8"/>
+    <text x="160" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">DETALJHANDEL</text>
+    
+    <!-- 4-5-4 calendar -->
+    <g transform="translate(20, 40)">
+      <text x="140" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">4-5-4 Ukers Kalender</text>
+      
+      <!-- Q1 -->
+      <rect x="0" y="25" width="70" height="30" fill="#ffffff" fill-opacity="0.2" rx="3"/>
+      <text x="35" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">Q1</text>
+      <text x="35" y="48" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">4-5-4 uker</text>
+      
+      <!-- Q2 -->
+      <rect x="80" y="25" width="70" height="30" fill="#ffffff" fill-opacity="0.2" rx="3"/>
+      <text x="115" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">Q2</text>
+      <text x="115" y="48" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">4-5-4 uker</text>
+      
+      <!-- Q3 -->
+      <rect x="160" y="25" width="70" height="30" fill="#ffffff" fill-opacity="0.2" rx="3"/>
+      <text x="195" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">Q3</text>
+      <text x="195" y="48" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">4-5-4 uker</text>
+      
+      <!-- Q4 -->
+      <rect x="240" y="25" width="60" height="30" fill="#ffffff" fill-opacity="0.4" rx="3"/>
+      <text x="270" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">Q4</text>
+      <text x="270" y="48" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">4-5-4 uker</text>
+    </g>
+    
+    <text x="160" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">Retail Calendar (53-ukers år)</text>
+    <text x="160" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Unngår splitting av uker mellom terminer</text>
+    <text x="160" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Q4 inkluderer Black Friday &amp; jul</text>
+  </g>
+  
+  <!-- Education section -->
+  <g transform="translate(430, 220)">
+    <rect x="0" y="0" width="320" height="140" fill="url(#eduGrad)" rx="8"/>
+    <text x="160" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">UTDANNING</text>
+    
+    <!-- Academic year -->
+    <g transform="translate(20, 40)">
+      <text x="140" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Skoleårsbasert Struktur</text>
+      
+      <!-- Høstsemester -->
+      <rect x="0" y="25" width="130" height="30" fill="#ffffff" fill-opacity="0.3" rx="3"/>
+      <text x="65" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Høstsemester</text>
+      <text x="65" y="48" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">August - Desember</text>
+      
+      <!-- Vårsemester -->
+      <rect x="140" y="25" width="130" height="30" fill="#ffffff" fill-opacity="0.3" rx="3"/>
+      <text x="205" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Vårsemester</text>
+      <text x="205" y="48" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">Januar - Juni</text>
+      
+      <!-- Sommer -->
+      <rect x="280" y="25" width="20" height="30" fill="#ffffff" fill-opacity="0.2" rx="3"/>
+      <text x="290" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">Som</text>
+      <text x="290" y="48" text-anchor="middle" font-family="Arial, sans-serif" font-size="7" fill="white">Jul</text>
+    </g>
+    
+    <text x="160" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">Regnskapsår: 1. august - 31. juli</text>
+    <text x="160" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Studiegebyr periodiseres over semester</text>
+    <text x="160" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Lønnskostnader følger undervisningsaktivitet</text>
+  </g>
+  
+  <!-- Comparison table -->
+  <g transform="translate(50, 390)">
+    <text x="350" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#374151">Terminsammenligning</text>
+    
+    <rect x="0" y="30" width="700" height="140" fill="#ffffff" stroke="#e5e7eb" stroke-width="1" rx="6"/>
+    
+    <!-- Table headers -->
+    <rect x="0" y="30" width="700" height="25" fill="#f3f4f6" rx="6 6 0 0"/>
+    <text x="100" y="47" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#374151">Bransje</text>
+    <text x="250" y="47" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#374151">Terminstart</text>
+    <text x="400" y="47" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#374151">Hoveddriver</text>
+    <text x="580" y="47" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#374151">Rapporteringsfordel</text>
+    
+    <!-- Table rows -->
+    <g transform="translate(0, 25)">
+      <!-- Row 1 -->
+      <line x1="0" y1="30" x2="700" y2="30" stroke="#e5e7eb" stroke-width="1"/>
+      <text x="100" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6b7280">Landbruk</text>
+      <text x="250" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6b7280">September</text>
+      <text x="400" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6b7280">Høstinntekter</text>
+      <text x="580" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6b7280">Sesongmatchihng</text>
+      
+      <!-- Row 2 -->
+      <line x1="0" y1="55" x2="700" y2="55" stroke="#e5e7eb" stroke-width="1"/>
+      <text x="100" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6b7280">Detaljhandel</text>
+      <text x="250" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6b7280">Februar</text>
+      <text x="400" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6b7280">Julehandel</text>
+      <text x="580" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6b7280">Unngå julerush</text>
+      
+      <!-- Row 3 -->
+      <line x1="0" y1="80" x2="700" y2="80" stroke="#e5e7eb" stroke-width="1"/>
+      <text x="100" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6b7280">Utdanning</text>
+      <text x="250" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6b7280">August</text>
+      <text x="400" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6b7280">Skoleåret</text>
+      <text x="580" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6b7280">Naturlig periode</text>
+      
+      <!-- Row 4 -->
+      <line x1="0" y1="105" x2="700" y2="105" stroke="#e5e7eb" stroke-width="1"/>
+      <text x="100" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6b7280">Standard</text>
+      <text x="250" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6b7280">Januar</text>
+      <text x="400" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6b7280">Kalenderår</text>
+      <text x="580" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6b7280">Forenkling</text>
+    </g>
+  </g>
+  
+  <!-- Vertical separators in table -->
+  <g stroke="#e5e7eb" stroke-width="1">
+    <line x1="175" y1="420" x2="175" y2="570"/>
+    <line x1="325" y1="420" x2="325" y2="570"/>
+    <line x1="500" y1="420" x2="500" y2="570"/>
+  </g>
+</svg>

@@ -1,0 +1,175 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="goodDesign" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#d4edda;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#c3e6cb;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="badDesign" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8d7da;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f5c6cb;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="url(#bgGradient)"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+    Designprinsipper for Profesjonelle Fakturamaler
+  </text>
+  
+  <!-- Good Design Example -->
+  <g transform="translate(50, 60)">
+    <text x="150" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#155724">
+      ✓ GOD DESIGN
+    </text>
+    
+    <!-- Good invoice template -->
+    <rect x="0" y="30" width="300" height="400" fill="url(#goodDesign)" stroke="#28a745" stroke-width="3" rx="8"/>
+    
+    <!-- Header with proper hierarchy -->
+    <rect x="20" y="50" width="80" height="40" fill="#ffffff" stroke="#28a745" stroke-width="1" rx="4"/>
+    <circle cx="60" cy="65" r="12" fill="#28a745"/>
+    <text x="60" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="white">LOGO</text>
+    <text x="60" y="82" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#28a745">BEDRIFT AS</text>
+    
+    <!-- Clear invoice number -->
+    <rect x="180" y="50" width="100" height="40" fill="#28a745" rx="4"/>
+    <text x="230" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">FAKTURA</text>
+    <text x="230" y="78" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">#2024-001</text>
+    <text x="230" y="88" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">15.01.2024</text>
+    
+    <!-- Well-organized customer section -->
+    <rect x="20" y="110" width="260" height="50" fill="#ffffff" stroke="#dee2e6" rx="4"/>
+    <text x="30" y="125" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#495057">Faktureres til:</text>
+    <text x="30" y="138" font-family="Arial, sans-serif" font-size="9" fill="#6c757d">Kunde AS</text>
+    <text x="30" y="150" font-family="Arial, sans-serif" font-size="9" fill="#6c757d">Kundeveien 1, 0123 Oslo</text>
+    
+    <!-- Clear table structure -->
+    <rect x="20" y="180" width="260" height="25" fill="#28a745" rx="4"/>
+    <text x="30" y="195" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="white">Beskrivelse</text>
+    <text x="180" y="195" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="white">Antall</text>
+    <text x="220" y="195" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="white">Pris</text>
+    <text x="250" y="195" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="white">Sum</text>
+    
+    <!-- Items with good spacing -->
+    <rect x="20" y="205" width="260" height="80" fill="#ffffff" stroke="#dee2e6" rx="4"/>
+    <text x="30" y="220" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">Webutvikling</text>
+    <text x="185" y="220" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">40t</text>
+    <text x="220" y="220" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">800,-</text>
+    <text x="250" y="220" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">32000,-</text>
+    
+    <line x1="20" y1="235" x2="280" y2="235" stroke="#dee2e6"/>
+    <text x="30" y="250" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">Hosting</text>
+    <text x="185" y="250" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">1mnd</text>
+    <text x="220" y="250" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">500,-</text>
+    <text x="250" y="250" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">500,-</text>
+    
+    <!-- Clear totals -->
+    <rect x="20" y="300" width="260" height="60" fill="#f8f9fa" stroke="#dee2e6" rx="4"/>
+    <text x="180" y="315" font-family="Arial, sans-serif" font-size="9" fill="#495057">Netto:</text>
+    <text x="250" y="315" font-family="Arial, sans-serif" font-size="9" fill="#495057">32500,-</text>
+    <text x="180" y="330" font-family="Arial, sans-serif" font-size="9" fill="#495057">MVA 25%:</text>
+    <text x="250" y="330" font-family="Arial, sans-serif" font-size="9" fill="#495057">8125,-</text>
+    <text x="180" y="348" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#28a745">TOTALT:</text>
+    <text x="250" y="348" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#28a745">40625,-</text>
+    
+    <!-- Clear payment info -->
+    <rect x="20" y="380" width="260" height="40" fill="#e8f5e8" stroke="#28a745" rx="4"/>
+    <text x="30" y="395" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="#155724">Forfallsdato: 14.02.2024</text>
+    <text x="30" y="408" font-family="Arial, sans-serif" font-size="8" fill="#155724">Kontonummer: 1234.56.78901</text>
+    <text x="30" y="418" font-family="Arial, sans-serif" font-size="8" fill="#155724">KID: 123456789</text>
+  </g>
+  
+  <!-- Bad Design Example -->
+  <g transform="translate(450, 60)">
+    <text x="150" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#721c24">
+      ✗ DÅRLIG DESIGN
+    </text>
+    
+    <!-- Bad invoice template -->
+    <rect x="0" y="30" width="300" height="400" fill="url(#badDesign)" stroke="#dc3545" stroke-width="3" rx="8"/>
+    
+    <!-- Poor header layout -->
+    <text x="20" y="50" font-family="Arial, sans-serif" font-size="6" fill="#721c24">BEDRIFT AS ORG: 123456789 MVA</text>
+    <text x="20" y="60" font-family="Arial, sans-serif" font-size="5" fill="#721c24">Adresse 1, 0123 Oslo, Telefon: 12345678</text>
+    <text x="200" y="50" font-family="Arial, sans-serif" font-size="8" fill="#721c24">Faktura</text>
+    <text x="200" y="60" font-family="Arial, sans-serif" font-size="6" fill="#721c24">Nr: 2024-001 Dato: 15.01.2024</text>
+    
+    <!-- Cramped customer section -->
+    <text x="20" y="80" font-family="Arial, sans-serif" font-size="7" fill="#721c24">Til: Kunde AS, Kundeveien 1, 0123 Oslo</text>
+    
+    <!-- Poor table structure -->
+    <rect x="20" y="90" width="260" height="15" fill="#dc3545" rx="2"/>
+    <text x="25" y="100" font-family="Arial, sans-serif" font-size="6" font-weight="bold" fill="white">Beskr.</text>
+    <text x="120" y="100" font-family="Arial, sans-serif" font-size="6" font-weight="bold" fill="white">Ant</text>
+    <text x="150" y="100" font-family="Arial, sans-serif" font-size="6" font-weight="bold" fill="white">Pris</text>
+    <text x="200" y="100" font-family="Arial, sans-serif" font-size="6" font-weight="bold" fill="white">Sum</text>
+    <text x="230" y="100" font-family="Arial, sans-serif" font-size="6" font-weight="bold" fill="white">MVA</text>
+    <text x="260" y="100" font-family="Arial, sans-serif" font-size="6" font-weight="bold" fill="white">Tot</text>
+    
+    <!-- Cramped items -->
+    <rect x="20" y="105" width="260" height="100" fill="#ffffff" stroke="#dc3545" rx="2"/>
+    <text x="25" y="115" font-family="Arial, sans-serif" font-size="6" fill="#721c24">Webutvikling tjenester levert 10.01.2024 i Oslo</text>
+    <text x="125" y="115" font-family="Arial, sans-serif" font-size="6" fill="#721c24">40</text>
+    <text x="150" y="115" font-family="Arial, sans-serif" font-size="6" fill="#721c24">800</text>
+    <text x="200" y="115" font-family="Arial, sans-serif" font-size="6" fill="#721c24">32000</text>
+    <text x="230" y="115" font-family="Arial, sans-serif" font-size="6" fill="#721c24">8000</text>
+    <text x="260" y="115" font-family="Arial, sans-serif" font-size="6" fill="#721c24">40000</text>
+    
+    <text x="25" y="130" font-family="Arial, sans-serif" font-size="6" fill="#721c24">Hosting tjenester levert 01.01.2024 online</text>
+    <text x="125" y="130" font-family="Arial, sans-serif" font-size="6" fill="#721c24">1</text>
+    <text x="150" y="130" font-family="Arial, sans-serif" font-size="6" fill="#721c24">500</text>
+    <text x="200" y="130" font-family="Arial, sans-serif" font-size="6" fill="#721c24">500</text>
+    <text x="230" y="130" font-family="Arial, sans-serif" font-size="6" fill="#721c24">125</text>
+    <text x="260" y="130" font-family="Arial, sans-serif" font-size="6" fill="#721c24">625</text>
+    
+    <!-- Confusing totals -->
+    <text x="25" y="150" font-family="Arial, sans-serif" font-size="6" fill="#721c24">Netto: 32500 MVA25%: 8125 Tot: 40625</text>
+    <text x="25" y="165" font-family="Arial, sans-serif" font-size="6" fill="#721c24">Gebyr: 50 Renter: 0 Totalt å betale: 40675</text>
+    
+    <!-- Poor payment info -->
+    <text x="25" y="185" font-family="Arial, sans-serif" font-size="5" fill="#721c24">Betalingsfrist: 30 dager fra fakturadato</text>
+    <text x="25" y="195" font-family="Arial, sans-serif" font-size="5" fill="#721c24">Konto: 1234.56.78901 KID: 123456789</text>
+    <text x="25" y="205" font-family="Arial, sans-serif" font-size="5" fill="#721c24">Ved forsinket betaling påløper renter</text>
+  </g>
+  
+  <!-- Design principles -->
+  <g transform="translate(50, 500)">
+    <text x="350" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">
+      Viktige Designprinsipper
+    </text>
+    
+    <!-- Principle 1 -->
+    <rect x="0" y="30" width="160" height="60" fill="#d1ecf1" stroke="#17a2b8" stroke-width="2" rx="6"/>
+    <text x="80" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#0c5460">Visuelt Hierarki</text>
+    <text x="10" y="58" font-family="Arial, sans-serif" font-size="9" fill="#0c5460">• Viktig info størst</text>
+    <text x="10" y="70" font-family="Arial, sans-serif" font-size="9" fill="#0c5460">• Logisk informasjonsflyt</text>
+    <text x="10" y="82" font-family="Arial, sans-serif" font-size="9" fill="#0c5460">• Tydelige seksjoner</text>
+    
+    <!-- Principle 2 -->
+    <rect x="180" y="30" width="160" height="60" fill="#d4edda" stroke="#28a745" stroke-width="2" rx="6"/>
+    <text x="260" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#155724">Lesbarhet</text>
+    <text x="190" y="58" font-family="Arial, sans-serif" font-size="9" fill="#155724">• Tilstrekkelig kontrast</text>
+    <text x="190" y="70" font-family="Arial, sans-serif" font-size="9" fill="#155724">• Lesbare fontstørrelser</text>
+    <text x="190" y="82" font-family="Arial, sans-serif" font-size="9" fill="#155724">• God spacing</text>
+    
+    <!-- Principle 3 -->
+    <rect x="360" y="30" width="160" height="60" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="6"/>
+    <text x="440" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#856404">Konsistens</text>
+    <text x="370" y="58" font-family="Arial, sans-serif" font-size="9" fill="#856404">• Samme farger/fonter</text>
+    <text x="370" y="70" font-family="Arial, sans-serif" font-size="9" fill="#856404">• Standardisert layout</text>
+    <text x="370" y="82" font-family="Arial, sans-serif" font-size="9" fill="#856404">• Merkevareidentitet</text>
+    
+    <!-- Principle 4 -->
+    <rect x="540" y="30" width="160" height="60" fill="#f8d7da" stroke="#dc3545" stroke-width="2" rx="6"/>
+    <text x="620" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#721c24">Funksjonalitet</text>
+    <text x="550" y="58" font-family="Arial, sans-serif" font-size="9" fill="#721c24">• Alle lovkrav oppfylt</text>
+    <text x="550" y="70" font-family="Arial, sans-serif" font-size="9" fill="#721c24">• Lett å forstå</text>
+    <text x="550" y="82" font-family="Arial, sans-serif" font-size="9" fill="#721c24">• Praktisk bruk</text>
+  </g>
+</svg>

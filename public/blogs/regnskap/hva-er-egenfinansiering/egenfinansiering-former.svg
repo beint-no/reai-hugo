@@ -1,0 +1,189 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+    Former for Egenfinansiering
+  </text>
+  
+  <!-- Central dividing line -->
+  <line x1="400" y1="70" x2="400" y2="550" stroke="#bdc3c7" stroke-width="2" stroke-dasharray="5,5"/>
+  
+  <!-- Intern Egenfinansiering Section -->
+  <g>
+    <!-- Header -->
+    <rect x="50" y="80" width="300" height="40" fill="#27ae60" rx="5"/>
+    <text x="200" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      Intern Egenfinansiering
+    </text>
+    
+    <!-- Subtitle -->
+    <text x="200" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">
+      Finansiering fra bedriftens egen drift
+    </text>
+    
+    <!-- Tilbakeholdt overskudd -->
+    <g>
+      <rect x="70" y="160" width="260" height="60" fill="#e8f5e8" stroke="#27ae60" stroke-width="1" rx="5"/>
+      <circle cx="100" cy="185" r="15" fill="#27ae60"/>
+      <text x="100" y="191" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">1</text>
+      <text x="130" y="180" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#27ae60">
+        Tilbakeholdt Overskudd
+      </text>
+      <text x="130" y="195" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+        • Overskudd ikke utbetalt som utbytte
+      </text>
+      <text x="130" y="210" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+        • Reinvestering i virksomheten
+      </text>
+    </g>
+    
+    <!-- Avskrivninger -->
+    <g>
+      <rect x="70" y="240" width="260" height="60" fill="#e8f5e8" stroke="#27ae60" stroke-width="1" rx="5"/>
+      <circle cx="100" cy="265" r="15" fill="#27ae60"/>
+      <text x="100" y="271" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">2</text>
+      <text x="130" y="260" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#27ae60">
+        Avskrivninger
+      </text>
+      <text x="130" y="275" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+        • Frigjør likviditet
+      </text>
+      <text x="130" y="290" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+        • Regnskapsmessig kostnad
+      </text>
+    </g>
+    
+    <!-- Salg av anleggsmidler -->
+    <g>
+      <rect x="70" y="320" width="260" height="60" fill="#e8f5e8" stroke="#27ae60" stroke-width="1" rx="5"/>
+      <circle cx="100" cy="345" r="15" fill="#27ae60"/>
+      <text x="100" y="351" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">3</text>
+      <text x="130" y="340" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#27ae60">
+        Salg av Anleggsmidler
+      </text>
+      <text x="130" y="355" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+        • Realisering av verdier
+      </text>
+      <text x="130" y="370" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+        • Frigjør bundet kapital
+      </text>
+    </g>
+    
+    <!-- Advantages -->
+    <rect x="70" y="400" width="260" height="80" fill="#d5f4e6" stroke="#27ae60" stroke-width="1" rx="5"/>
+    <text x="200" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#27ae60">
+      Fordeler
+    </text>
+    <text x="80" y="440" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      ✓ Ingen eksterne forhandlinger
+    </text>
+    <text x="80" y="455" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      ✓ Beholder full kontroll
+    </text>
+    <text x="80" y="470" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      ✓ Ingen utvanning av eierskap
+    </text>
+  </g>
+  
+  <!-- Ekstern Egenfinansiering Section -->
+  <g>
+    <!-- Header -->
+    <rect x="450" y="80" width="300" height="40" fill="#3498db" rx="5"/>
+    <text x="600" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      Ekstern Egenfinansiering
+    </text>
+    
+    <!-- Subtitle -->
+    <text x="600" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">
+      Finansiering fra eksterne kilder
+    </text>
+    
+    <!-- Aksjeemisjoner -->
+    <g>
+      <rect x="470" y="160" width="260" height="60" fill="#ebf3fd" stroke="#3498db" stroke-width="1" rx="5"/>
+      <circle cx="500" cy="185" r="15" fill="#3498db"/>
+      <text x="500" y="191" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">1</text>
+      <text x="530" y="180" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#3498db">
+        Aksjeemisjoner
+      </text>
+      <text x="530" y="195" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+        • Utstedelse av nye aksjer
+      </text>
+      <text x="530" y="210" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+        • Til eksisterende eller nye eiere
+      </text>
+    </g>
+    
+    <!-- Kapitalinnsprøytninger -->
+    <g>
+      <rect x="470" y="240" width="260" height="60" fill="#ebf3fd" stroke="#3498db" stroke-width="1" rx="5"/>
+      <circle cx="500" cy="265" r="15" fill="#3498db"/>
+      <text x="500" y="271" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">2</text>
+      <text x="530" y="260" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#3498db">
+        Kapitalinnsprøytninger
+      </text>
+      <text x="530" y="275" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+        • Direkte tilskudd fra eierne
+      </text>
+      <text x="530" y="290" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+        • Økning av aksjekapital
+      </text>
+    </g>
+    
+    <!-- Crowdfunding/Venturekapital -->
+    <g>
+      <rect x="470" y="320" width="260" height="60" fill="#ebf3fd" stroke="#3498db" stroke-width="1" rx="5"/>
+      <circle cx="500" cy="345" r="15" fill="#3498db"/>
+      <text x="500" y="351" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">3</text>
+      <text x="530" y="340" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#3498db">
+        Crowdfunding/Venture
+      </text>
+      <text x="530" y="355" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+        • Mange små investorer
+      </text>
+      <text x="530" y="370" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+        • Profesjonelle investorer
+      </text>
+    </g>
+    
+    <!-- Advantages -->
+    <rect x="470" y="400" width="260" height="80" fill="#e3f2fd" stroke="#3498db" stroke-width="1" rx="5"/>
+    <text x="600" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#3498db">
+      Fordeler
+    </text>
+    <text x="480" y="440" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      ✓ Større kapitaltilgang
+    </text>
+    <text x="480" y="455" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      ✓ Ekspertise fra investorer
+    </text>
+    <text x="480" y="470" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      ✓ Nettverk og kontakter
+    </text>
+  </g>
+  
+  <!-- Bottom comparison -->
+  <rect x="100" y="500" width="600" height="60" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1" rx="5"/>
+  <text x="400" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+    Valg av finansieringsform avhenger av:
+  </text>
+  <text x="400" y="540" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">
+    Kapitalbehov • Vekstfase • Kontrollønske • Tilgang til investorer
+  </text>
+  
+  <!-- Arrow between sections -->
+  <path d="M 380 300 L 420 300" stroke="#95a5a6" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  <path d="M 420 300 L 380 300" stroke="#95a5a6" stroke-width="2" fill="none" marker-end="url(#arrowhead2)"/>
+  
+  <!-- Arrow markers -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#95a5a6"/>
+    </marker>
+    <marker id="arrowhead2" markerWidth="10" markerHeight="7" refX="1" refY="3.5" orient="auto">
+      <polygon points="10 0, 0 3.5, 10 7" fill="#95a5a6"/>
+    </marker>
+  </defs>
+</svg>

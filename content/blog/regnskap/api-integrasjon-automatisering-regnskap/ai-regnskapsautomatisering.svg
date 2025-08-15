@@ -1,0 +1,230 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="aiGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6f42c1;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#5a32a3;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="mlGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#007bff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0056b3;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="dataGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
+    AI i Regnskapsautomatisering
+  </text>
+  
+  <!-- Central AI Brain -->
+  <circle cx="400" cy="300" r="80" fill="url(#aiGradient)" stroke="#5a32a3" stroke-width="3"/>
+  <text x="400" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+    AI
+  </text>
+  <text x="400" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    MOTOR
+  </text>
+  
+  <!-- Neural Network Pattern -->
+  <circle cx="350" cy="250" r="8" fill="#ffc107" opacity="0.8"/>
+  <circle cx="450" cy="250" r="8" fill="#ffc107" opacity="0.8"/>
+  <circle cx="350" cy="350" r="8" fill="#ffc107" opacity="0.8"/>
+  <circle cx="450" cy="350" r="8" fill="#ffc107" opacity="0.8"/>
+  <line x1="350" y1="250" x2="400" y2="300" stroke="#ffc107" stroke-width="2" opacity="0.6"/>
+  <line x1="450" y1="250" x2="400" y2="300" stroke="#ffc107" stroke-width="2" opacity="0.6"/>
+  <line x1="350" y1="350" x2="400" y2="300" stroke="#ffc107" stroke-width="2" opacity="0.6"/>
+  <line x1="450" y1="350" x2="400" y2="300" stroke="#ffc107" stroke-width="2" opacity="0.6"/>
+  
+  <!-- AI Capabilities -->
+  
+  <!-- Machine Learning -->
+  <rect x="100" y="80" width="180" height="100" rx="10" fill="url(#mlGradient)" stroke="#0056b3" stroke-width="2"/>
+  <text x="190" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    MASKINLÆRING
+  </text>
+  <text x="110" y="130" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Automatisk kategorisering
+  </text>
+  <text x="110" y="145" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Mønstergjenkjenning
+  </text>
+  <text x="110" y="160" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Læring fra historikk
+  </text>
+  <text x="110" y="175" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Kontinuerlig forbedring
+  </text>
+  
+  <!-- Predictive Analytics -->
+  <rect x="520" y="80" width="180" height="100" rx="10" fill="url(#mlGradient)" stroke="#0056b3" stroke-width="2"/>
+  <text x="610" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    PREDIKTIV ANALYSE
+  </text>
+  <text x="530" y="130" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Kontantstrømprognose
+  </text>
+  <text x="530" y="145" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Risikoevaluering
+  </text>
+  <text x="530" y="160" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Sesonganalyse
+  </text>
+  <text x="530" y="175" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Trendidentifikasjon
+  </text>
+  
+  <!-- OCR & Document Processing -->
+  <rect x="100" y="420" width="180" height="100" rx="10" fill="url(#dataGradient)" stroke="#1e7e34" stroke-width="2"/>
+  <text x="190" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    DOKUMENTBEHANDLING
+  </text>
+  <text x="110" y="470" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • OCR-teknologi
+  </text>
+  <text x="110" y="485" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Automatisk fakturatolk
+  </text>
+  <text x="110" y="500" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Dataekstraksjon
+  </text>
+  <text x="110" y="515" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Validering &amp; kontroll
+  </text>
+  
+  <!-- Anomaly Detection -->
+  <rect x="520" y="420" width="180" height="100" rx="10" fill="url(#dataGradient)" stroke="#1e7e34" stroke-width="2"/>
+  <text x="610" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    AVVIKSDETEKSJON
+  </text>
+  <text x="530" y="470" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Uvanlige transaksjoner
+  </text>
+  <text x="530" y="485" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Feilidentifikasjon
+  </text>
+  <text x="530" y="500" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Svindeldeteksjon
+  </text>
+  <text x="530" y="515" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Kvalitetskontroll
+  </text>
+  
+  <!-- AI Applications in Accounting -->
+  <rect x="50" y="220" width="140" height="160" rx="8" fill="url(#aiGradient)" stroke="#5a32a3" stroke-width="2"/>
+  <text x="120" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    AI-APPLIKASJONER
+  </text>
+  
+  <text x="60" y="270" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Smart kategorisering
+  </text>
+  <text x="60" y="285" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Automatisk kontering
+  </text>
+  <text x="60" y="300" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Intelligent matching
+  </text>
+  <text x="60" y="315" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Chatbot-assistanse
+  </text>
+  <text x="60" y="330" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Automatisk rapportering
+  </text>
+  <text x="60" y="345" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Compliance-overvåking
+  </text>
+  <text x="60" y="360" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Beslutningsstøtte
+  </text>
+  
+  <!-- Future Technologies -->
+  <rect x="610" y="220" width="140" height="160" rx="8" fill="url(#aiGradient)" stroke="#5a32a3" stroke-width="2"/>
+  <text x="680" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    FREMTIDSTEKNOLOGI
+  </text>
+  
+  <text x="620" y="270" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Natural Language Processing
+  </text>
+  <text x="620" y="285" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Computer Vision
+  </text>
+  <text x="620" y="300" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Robotic Process Automation
+  </text>
+  <text x="620" y="315" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Blockchain-integrasjon
+  </text>
+  <text x="620" y="330" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • IoT-databehandling
+  </text>
+  <text x="620" y="345" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Quantum Computing
+  </text>
+  <text x="620" y="360" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Edge AI
+  </text>
+  
+  <!-- Performance Metrics -->
+  <rect x="320" y="200" width="160" height="80" rx="8" fill="#ffc107" stroke="#e0a800" stroke-width="2"/>
+  <text x="400" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#212529">
+    AI YTELSESMÅLINGER
+  </text>
+  <text x="330" y="245" font-family="Arial, sans-serif" font-size="11" fill="#212529">
+    • Nøyaktighet: 98%+
+  </text>
+  <text x="330" y="260" font-family="Arial, sans-serif" font-size="11" fill="#212529">
+    • Prosesseringstid: -85%
+  </text>
+  <text x="330" y="275" font-family="Arial, sans-serif" font-size="11" fill="#212529">
+    • Feilreduksjon: 95%
+  </text>
+  
+  <!-- Implementation Benefits -->
+  <rect x="320" y="320" width="160" height="80" rx="8" fill="#dc3545" stroke="#c82333" stroke-width="2"/>
+  <text x="400" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    IMPLEMENTERINGSGEVINSTER
+  </text>
+  <text x="330" y="365" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Raskere implementering
+  </text>
+  <text x="330" y="380" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Lavere vedlikeholdskost
+  </text>
+  <text x="330" y="395" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Selvlærende systemer
+  </text>
+  
+  <!-- Connection lines -->
+  <defs>
+    <marker id="aiArrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#6f42c1"/>
+    </marker>
+  </defs>
+  
+  <!-- Lines from AI capabilities to center -->
+  <line x1="280" y1="130" x2="340" y2="250" stroke="#6f42c1" stroke-width="2" opacity="0.7"/>
+  <line x1="520" y1="130" x2="460" y2="250" stroke="#6f42c1" stroke-width="2" opacity="0.7"/>
+  <line x1="280" y1="470" x2="340" y2="350" stroke="#6f42c1" stroke-width="2" opacity="0.7"/>
+  <line x1="520" y1="470" x2="460" y2="350" stroke="#6f42c1" stroke-width="2" opacity="0.7"/>
+  <line x1="190" y1="300" x2="320" y2="300" stroke="#6f42c1" stroke-width="2" opacity="0.7"/>
+  <line x1="610" y1="300" x2="480" y2="300" stroke="#6f42c1" stroke-width="2" opacity="0.7"/>
+  
+  <!-- Bottom summary -->
+  <text x="400" y="560" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#212529">
+    AI transformerer regnskapsføring fra reaktiv til proaktiv og intelligent
+  </text>
+  <text x="400" y="580" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
+    Kunstig intelligens muliggjør selvlærende systemer som kontinuerlig forbedrer nøyaktighet og effektivitet
+  </text>
+</svg>

@@ -1,0 +1,109 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#2563eb;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="fastlonnGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#dcfce7;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#bbf7d0;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="timelonnGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#fef3c7;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#fde68a;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="akkordlonnGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#fecaca;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#fca5a5;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="#ffffff"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
+  <text x="400" y="38" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="bold">Sammenligning av Lønnsformer</text>
+  
+  <!-- Fastlønn section -->
+  <rect x="50" y="100" width="200" height="300" fill="url(#fastlonnGradient)" stroke="#16a34a" stroke-width="2" rx="8"/>
+  <text x="150" y="125" text-anchor="middle" fill="#15803d" font-family="Arial, sans-serif" font-size="18" font-weight="bold">Fastlønn</text>
+  
+  <!-- Fastlønn characteristics -->
+  <circle cx="70" cy="150" r="4" fill="#16a34a"/>
+  <text x="85" y="155" fill="#374151" font-family="Arial, sans-serif" font-size="12">Fast månedlig beløp</text>
+  
+  <circle cx="70" cy="175" r="4" fill="#16a34a"/>
+  <text x="85" y="180" fill="#374151" font-family="Arial, sans-serif" font-size="12">Uavhengig av timer</text>
+  
+  <circle cx="70" cy="200" r="4" fill="#16a34a"/>
+  <text x="85" y="205" fill="#374151" font-family="Arial, sans-serif" font-size="12">Høy forutsigbarhet</text>
+  
+  <circle cx="70" cy="225" r="4" fill="#16a34a"/>
+  <text x="85" y="230" fill="#374151" font-family="Arial, sans-serif" font-size="12">Enkel administrasjon</text>
+  
+  <!-- Fastlønn example -->
+  <rect x="60" y="250" width="180" height="60" fill="#f0fdf4" stroke="#16a34a" stroke-width="1" rx="4"/>
+  <text x="150" y="270" text-anchor="middle" fill="#15803d" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Eksempel:</text>
+  <text x="150" y="290" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12">500.000 kr/år</text>
+  <text x="150" y="305" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12">= 41.667 kr/mnd</text>
+  
+  <!-- Timelønn section -->
+  <rect x="300" y="100" width="200" height="300" fill="url(#timelonnGradient)" stroke="#d97706" stroke-width="2" rx="8"/>
+  <text x="400" y="125" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="18" font-weight="bold">Timelønn</text>
+  
+  <!-- Timelønn characteristics -->
+  <circle cx="320" cy="150" r="4" fill="#d97706"/>
+  <text x="335" y="155" fill="#374151" font-family="Arial, sans-serif" font-size="12">Timer × timesats</text>
+  
+  <circle cx="320" cy="175" r="4" fill="#d97706"/>
+  <text x="335" y="180" fill="#374151" font-family="Arial, sans-serif" font-size="12">Varierer med arbeidstid</text>
+  
+  <circle cx="320" cy="200" r="4" fill="#d97706"/>
+  <text x="335" y="205" fill="#374151" font-family="Arial, sans-serif" font-size="12">Middels forutsigbarhet</text>
+  
+  <circle cx="320" cy="225" r="4" fill="#d97706"/>
+  <text x="335" y="230" fill="#374151" font-family="Arial, sans-serif" font-size="12">Timeregistrering</text>
+  
+  <!-- Timelønn example -->
+  <rect x="310" y="250" width="180" height="60" fill="#fffbeb" stroke="#d97706" stroke-width="1" rx="4"/>
+  <text x="400" y="270" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Eksempel:</text>
+  <text x="400" y="290" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12">250 kr/time</text>
+  <text x="400" y="305" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12">160 t/mnd = 40.000 kr</text>
+  
+  <!-- Akkordlønn section -->
+  <rect x="550" y="100" width="200" height="300" fill="url(#akkordlonnGradient)" stroke="#dc2626" stroke-width="2" rx="8"/>
+  <text x="650" y="125" text-anchor="middle" fill="#991b1b" font-family="Arial, sans-serif" font-size="18" font-weight="bold">Akkordlønn</text>
+  
+  <!-- Akkordlønn characteristics -->
+  <circle cx="570" cy="150" r="4" fill="#dc2626"/>
+  <text x="585" y="155" fill="#374151" font-family="Arial, sans-serif" font-size="12">Enheter × sats</text>
+  
+  <circle cx="570" cy="175" r="4" fill="#dc2626"/>
+  <text x="585" y="180" fill="#374151" font-family="Arial, sans-serif" font-size="12">Prestasjonsbasert</text>
+  
+  <circle cx="570" cy="200" r="4" fill="#dc2626"/>
+  <text x="585" y="205" fill="#374151" font-family="Arial, sans-serif" font-size="12">Lav forutsigbarhet</text>
+  
+  <circle cx="570" cy="225" r="4" fill="#dc2626"/>
+  <text x="585" y="230" fill="#374151" font-family="Arial, sans-serif" font-size="12">Kompleks administrasjon</text>
+  
+  <!-- Akkordlønn example -->
+  <rect x="560" y="250" width="180" height="60" fill="#fef2f2" stroke="#dc2626" stroke-width="1" rx="4"/>
+  <text x="650" y="270" text-anchor="middle" fill="#991b1b" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Eksempel:</text>
+  <text x="650" y="290" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12">50 kr/enhet</text>
+  <text x="650" y="305" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12">800 enheter = 40.000 kr</text>
+  
+  <!-- Comparison arrows and labels -->
+  <text x="400" y="440" text-anchor="middle" fill="#1e293b" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Forutsigbarhet</text>
+  <path d="M 150 450 L 650 450" stroke="#6b7280" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  <text x="150" y="470" text-anchor="middle" fill="#16a34a" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Høy</text>
+  <text x="650" y="470" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Lav</text>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#6b7280"/>
+    </marker>
+  </defs>
+</svg>

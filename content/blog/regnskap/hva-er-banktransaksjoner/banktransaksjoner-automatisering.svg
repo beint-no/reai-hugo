@@ -1,0 +1,145 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+    Automatisering av Banktransaksjoner
+  </text>
+  
+  <!-- Traditional Process (Left Side) -->
+  <rect x="50" y="70" width="300" height="450" fill="#fdeaea" stroke="#e74c3c" stroke-width="2" rx="10"/>
+  <text x="200" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#e74c3c">
+    TRADISJONELL PROSESS
+  </text>
+  
+  <!-- Manual steps -->
+  <rect x="80" y="120" width="240" height="60" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1" rx="5"/>
+  <text x="200" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+    1. Manuell nedlasting
+  </text>
+  <text x="200" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    Last ned bankutskrift fra nettbank
+  </text>
+  <text x="200" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">
+    ⏱️ 15-30 min daglig
+  </text>
+  
+  <rect x="80" y="200" width="240" height="60" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1" rx="5"/>
+  <text x="200" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+    2. Manuell kategorisering
+  </text>
+  <text x="200" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    Kategoriser hver transaksjon manuelt
+  </text>
+  <text x="200" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">
+    ⏱️ 2-5 min per transaksjon
+  </text>
+  
+  <rect x="80" y="280" width="240" height="60" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1" rx="5"/>
+  <text x="200" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+    3. Manuell registrering
+  </text>
+  <text x="200" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    Registrer i regnskapssystem
+  </text>
+  <text x="200" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">
+    ⏱️ 1-3 min per transaksjon
+  </text>
+  
+  <rect x="80" y="360" width="240" height="60" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1" rx="5"/>
+  <text x="200" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+    4. Manuell avstemming
+  </text>
+  <text x="200" y="395" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    Sammenlign bank og regnskap
+  </text>
+  <text x="200" y="410" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">
+    ⏱️ 2-4 timer månedlig
+  </text>
+  
+  <!-- Total time -->
+  <rect x="80" y="440" width="240" height="40" fill="#e74c3c" stroke="#c0392b" stroke-width="2" rx="5"/>
+  <text x="200" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    TOTAL TID: 10-20 timer/måned
+  </text>
+  
+  <!-- Arrow -->
+  <path d="M 360 300 L 430 300" stroke="#3498db" stroke-width="4" fill="none" marker-end="url(#bluearrow)"/>
+  <text x="395" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#3498db">
+    AUTOMATISERING
+  </text>
+  
+  <!-- Automated Process (Right Side) -->
+  <rect x="450" y="70" width="300" height="450" fill="#d5f4e6" stroke="#27ae60" stroke-width="2" rx="10"/>
+  <text x="600" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#27ae60">
+    AUTOMATISERT PROSESS
+  </text>
+  
+  <!-- Automated steps -->
+  <rect x="480" y="120" width="240" height="60" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1" rx="5"/>
+  <text x="600" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+    1. Automatisk import
+  </text>
+  <text x="600" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    API-kobling til bank
+  </text>
+  <text x="600" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#27ae60">
+    ⏱️ Sanntid, ingen manuelt arbeid
+  </text>
+  
+  <rect x="480" y="200" width="240" height="60" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1" rx="5"/>
+  <text x="600" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+    2. AI-kategorisering
+  </text>
+  <text x="600" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    Maskinlæring kategoriserer automatisk
+  </text>
+  <text x="600" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#27ae60">
+    ⏱️ Øyeblikkelig, 95%+ nøyaktighet
+  </text>
+  
+  <rect x="480" y="280" width="240" height="60" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1" rx="5"/>
+  <text x="600" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+    3. Automatisk registrering
+  </text>
+  <text x="600" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    Direkte til regnskapssystem
+  </text>
+  <text x="600" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#27ae60">
+    ⏱️ Sanntid, ingen feil
+  </text>
+  
+  <rect x="480" y="360" width="240" height="60" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1" rx="5"/>
+  <text x="600" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+    4. Automatisk avstemming
+  </text>
+  <text x="600" y="395" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    Kontinuerlig avstemming og varsling
+  </text>
+  <text x="600" y="410" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#27ae60">
+    ⏱️ Sanntid, kun avvik krever oppmerksomhet
+  </text>
+  
+  <!-- Total time -->
+  <rect x="480" y="440" width="240" height="40" fill="#27ae60" stroke="#229954" stroke-width="2" rx="5"/>
+  <text x="600" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    TOTAL TID: 1-2 timer/måned
+  </text>
+  
+  <!-- Benefits section -->
+  <rect x="50" y="540" width="700" height="50" fill="#3498db" stroke="#2980b9" stroke-width="2" rx="10"/>
+  <text x="400" y="560" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    FORDELER: 80-90% tidsbesparelse • Redusert feilrate • Bedre kontroll • Sanntidsrapportering
+  </text>
+  <text x="400" y="580" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    ROI: Typisk tilbakebetaling på 6-12 måneder
+  </text>
+  
+  <!-- Arrow markers -->
+  <defs>
+    <marker id="bluearrow" markerWidth="12" markerHeight="8" refX="11" refY="4" orient="auto">
+      <polygon points="0 0, 12 4, 0 8" fill="#3498db"/>
+    </marker>
+  </defs>
+</svg>

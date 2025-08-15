@@ -1,0 +1,130 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="costGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#dc2626;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ef4444;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="benefitGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#16a34a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#22c55e;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="#ffffff"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1f2937">Kostnad-Nytte Analyse: Produksjonslønn vs Fastlønn</text>
+  
+  <!-- Comparison chart -->
+  <rect x="50" y="60" width="700" height="180" fill="#f8fafc" stroke="#64748b" stroke-width="2" rx="10"/>
+  <text x="400" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1f2937">Sammenligning av Lønnssystemer</text>
+  
+  <!-- Column headers -->
+  <text x="150" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#374151">Faktor</text>
+  <text x="350" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#dc2626">Produksjonslønn</text>
+  <text x="550" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#16a34a">Fastlønn</text>
+  <text x="650" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#374151">Vinner</text>
+  
+  <line x1="70" y1="115" x2="730" y2="115" stroke="#64748b" stroke-width="2"/>
+  
+  <!-- Row 1: Produktivitet -->
+  <text x="150" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#374151">Produktivitet</text>
+  <text x="350" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#374151">Høyere (+15-30%)</text>
+  <text x="550" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#374151">Stabil baseline</text>
+  <circle cx="650" cy="131" r="8" fill="#dc2626"/>
+  
+  <!-- Row 2: Kostnader -->
+  <text x="150" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#374151">Kostnader</text>
+  <text x="350" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#374151">Variable</text>
+  <text x="550" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#374151">Faste</text>
+  <circle cx="650" cy="151" r="8" fill="#6b7280"/>
+  
+  <!-- Row 3: Kvalitet -->
+  <text x="150" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#374151">Kvalitet</text>
+  <text x="350" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#374151">Kan variere</text>
+  <text x="550" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#374151">Mer konsistent</text>
+  <circle cx="650" cy="171" r="8" fill="#16a34a"/>
+  
+  <!-- Row 4: Administrasjon -->
+  <text x="150" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#374151">Administrasjon</text>
+  <text x="350" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#374151">Kompleks</text>
+  <text x="550" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#374151">Enkel</text>
+  <circle cx="650" cy="191" r="8" fill="#16a34a"/>
+  
+  <!-- Row 5: Motivasjon -->
+  <text x="150" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#374151">Ansattmotivasjon</text>
+  <text x="350" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#374151">Høy for toppytere</text>
+  <text x="550" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#374151">Stabil for alle</text>
+  <circle cx="650" cy="211" r="8" fill="#6b7280"/>
+  
+  <!-- ROI Calculation section -->
+  <rect x="50" y="260" width="340" height="120" fill="#fef2f2" stroke="#dc2626" stroke-width="2" rx="10"/>
+  <text x="220" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#dc2626">ROI Beregning</text>
+  
+  <text x="70" y="305" font-family="Arial, sans-serif" font-size="12" fill="#7f1d1d" font-weight="bold">Formel:</text>
+  <text x="70" y="320" font-family="Arial, sans-serif" font-size="11" fill="#7f1d1d">ROI = (Økt produksjonsverdi - Økte kostnader</text>
+  <text x="70" y="332" font-family="Arial, sans-serif" font-size="11" fill="#7f1d1d">       - Administrasjonskostnader) ÷ Investering × 100</text>
+  
+  <text x="70" y="350" font-family="Arial, sans-serif" font-size="12" fill="#7f1d1d" font-weight="bold">Eksempel:</text>
+  <text x="70" y="365" font-family="Arial, sans-serif" font-size="11" fill="#7f1d1d">Økt verdi: 2.000.000 kr - Økte kostnader: 800.000 kr</text>
+  <text x="70" y="375" font-family="Arial, sans-serif" font-size="11" fill="#7f1d1d">Investering: 400.000 kr → ROI = 300%</text>
+  
+  <!-- Typical gains section -->
+  <rect x="410" y="260" width="340" height="120" fill="#f0fdf4" stroke="#16a34a" stroke-width="2" rx="10"/>
+  <text x="580" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#16a34a">Typiske Gevinster</text>
+  
+  <g transform="translate(430, 295)">
+    <rect x="0" y="0" width="12" height="12" fill="#10b981" rx="2"/>
+    <text x="20" y="10" font-family="Arial, sans-serif" font-size="11" fill="#14532d">15-40% økning i produktivitet</text>
+  </g>
+  
+  <g transform="translate(430, 312)">
+    <rect x="0" y="0" width="12" height="12" fill="#10b981" rx="2"/>
+    <text x="20" y="10" font-family="Arial, sans-serif" font-size="11" fill="#14532d">5-15% reduksjon i enhetskoste</text>
+  </g>
+  
+  <g transform="translate(430, 329)">
+    <rect x="0" y="0" width="12" height="12" fill="#10b981" rx="2"/>
+    <text x="20" y="10" font-family="Arial, sans-serif" font-size="11" fill="#14532d">10-25% forbedring i leveringspresisjon</text>
+  </g>
+  
+  <g transform="translate(430, 346)">
+    <rect x="0" y="0" width="12" height="12" fill="#10b981" rx="2"/>
+    <text x="20" y="10" font-family="Arial, sans-serif" font-size="11" fill="#14532d">20-35% reduksjon i sløsing og svinn</text>
+  </g>
+  
+  <g transform="translate(430, 363)">
+    <rect x="0" y="0" width="12" height="12" fill="#10b981" rx="2"/>
+    <text x="20" y="10" font-family="Arial, sans-serif" font-size="11" fill="#14532d">Tilbakebetaling på 6-18 måneder</text>
+  </g>
+  
+  <!-- Implementation costs -->
+  <rect x="50" y="400" width="700" height="80" fill="#fefce8" stroke="#eab308" stroke-width="2" rx="10"/>
+  <text x="400" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#a16207">Implementeringskostnader og Tidsramme</text>
+  
+  <!-- Cost breakdown -->
+  <g transform="translate(80, 440)">
+    <rect x="0" y="0" width="140" height="30" fill="#fef3c7" stroke="#f59e0b" stroke-width="1" rx="5"/>
+    <text x="70" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#92400e">Systemkostnader</text>
+    <text x="70" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#92400e">200.000 - 500.000 kr</text>
+  </g>
+  
+  <g transform="translate(240, 440)">
+    <rect x="0" y="0" width="140" height="30" fill="#fef3c7" stroke="#f59e0b" stroke-width="1" rx="5"/>
+    <text x="70" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#92400e">Opplæring</text>
+    <text x="70" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#92400e">50.000 - 150.000 kr</text>
+  </g>
+  
+  <g transform="translate(400, 440)">
+    <rect x="0" y="0" width="140" height="30" fill="#fef3c7" stroke="#f59e0b" stroke-width="1" rx="5"/>
+    <text x="70" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#92400e">Konsulentbistand</text>
+    <text x="70" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#92400e">100.000 - 300.000 kr</text>
+  </g>
+  
+  <g transform="translate(560, 440)">
+    <rect x="0" y="0" width="140" height="30" fill="#fef3c7" stroke="#f59e0b" stroke-width="1" rx="5"/>
+    <text x="70" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#92400e">Implementeringstid</text>
+    <text x="70" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#92400e">6-18 måneder</text>
+  </g>
+</svg>

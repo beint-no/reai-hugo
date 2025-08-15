@@ -1,0 +1,216 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="challengeGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#fee2e2;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#fecaca;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="solutionGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#dcfce7;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#bbf7d0;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="url(#bgGradient)"/>
+  
+  <!-- Title -->
+  <text x="400" y="35" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="#1e293b">
+    Vanlige Utfordringer og Løsninger for Utgående Balanse
+  </text>
+  
+  <!-- Technical challenges -->
+  <rect x="50" y="70" width="340" height="240" fill="url(#challengeGradient)" stroke="#dc2626" stroke-width="2" rx="10"/>
+  <text x="220" y="95" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#991b1b">
+    TEKNISKE UTFORDRINGER
+  </text>
+  
+  <!-- Challenge 1 -->
+  <rect x="70" y="110" width="300" height="45" fill="#ffffff" stroke="#dc2626" stroke-width="1" rx="5"/>
+  <text x="80" y="125" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#991b1b">
+    Systemfeil og Tekniske Problemer
+  </text>
+  <text x="80" y="140" font-family="Arial, sans-serif" font-size="9" fill="#7f1d1d">
+    • Systemnedetid under kritiske perioder
+  </text>
+  <text x="80" y="152" font-family="Arial, sans-serif" font-size="9" fill="#7f1d1d">
+    • Datakorrupsjon eller tap av informasjon
+  </text>
+  
+  <!-- Challenge 2 -->
+  <rect x="70" y="165" width="300" height="45" fill="#ffffff" stroke="#dc2626" stroke-width="1" rx="5"/>
+  <text x="80" y="180" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#991b1b">
+    Dataintegrasjon og Automatisering
+  </text>
+  <text x="80" y="195" font-family="Arial, sans-serif" font-size="9" fill="#7f1d1d">
+    • Problemer med automatisk dataoverføring
+  </text>
+  <text x="80" y="207" font-family="Arial, sans-serif" font-size="9" fill="#7f1d1d">
+    • Inkonsistente data mellom systemer
+  </text>
+  
+  <!-- Challenge 3 -->
+  <rect x="70" y="220" width="300" height="45" fill="#ffffff" stroke="#dc2626" stroke-width="1" rx="5"/>
+  <text x="80" y="235" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#991b1b">
+    Backup og Sikkerhet
+  </text>
+  <text x="80" y="250" font-family="Arial, sans-serif" font-size="9" fill="#7f1d1d">
+    • Utilstrekkelige sikkerhetskopier
+  </text>
+  <text x="80" y="262" font-family="Arial, sans-serif" font-size="9" fill="#7f1d1d">
+    • Cybersikkerhetstrusler og datalekkasjer
+  </text>
+  
+  <!-- Challenge 4 -->
+  <rect x="70" y="275" width="300" height="25" fill="#ffffff" stroke="#dc2626" stroke-width="1" rx="5"/>
+  <text x="80" y="290" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#991b1b">
+    Brukerfeider og Kompetansemangel
+  </text>
+  
+  <!-- Technical solutions -->
+  <rect x="410" y="70" width="340" height="240" fill="url(#solutionGradient)" stroke="#16a34a" stroke-width="2" rx="10"/>
+  <text x="580" y="95" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#166534">
+    TEKNISKE LØSNINGER
+  </text>
+  
+  <!-- Solution 1 -->
+  <rect x="430" y="110" width="300" height="45" fill="#ffffff" stroke="#16a34a" stroke-width="1" rx="5"/>
+  <text x="440" y="125" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#166534">
+    Redundante Systemer og Backup
+  </text>
+  <text x="440" y="140" font-family="Arial, sans-serif" font-size="9" fill="#14532d">
+    • Implementering av failover-systemer
+  </text>
+  <text x="440" y="152" font-family="Arial, sans-serif" font-size="9" fill="#14532d">
+    • Regelmessige og testede backups
+  </text>
+  
+  <!-- Solution 2 -->
+  <rect x="430" y="165" width="300" height="45" fill="#ffffff" stroke="#16a34a" stroke-width="1" rx="5"/>
+  <text x="440" y="180" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#166534">
+    Standardiserte Integrasjoner
+  </text>
+  <text x="440" y="195" font-family="Arial, sans-serif" font-size="9" fill="#14532d">
+    • API-baserte integrasjoner med feilhåndtering
+  </text>
+  <text x="440" y="207" font-family="Arial, sans-serif" font-size="9" fill="#14532d">
+    • Real-time datakvalitetskontroller
+  </text>
+  
+  <!-- Solution 3 -->
+  <rect x="430" y="220" width="300" height="45" fill="#ffffff" stroke="#16a34a" stroke-width="1" rx="5"/>
+  <text x="440" y="235" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#166534">
+    Avansert Cybersikkerhet
+  </text>
+  <text x="440" y="250" font-family="Arial, sans-serif" font-size="9" fill="#14532d">
+    • Multi-faktor autentisering og kryptering
+  </text>
+  <text x="440" y="262" font-family="Arial, sans-serif" font-size="9" fill="#14532d">
+    • Kontinuerlig sikkerhetovervåkning
+  </text>
+  
+  <!-- Solution 4 -->
+  <rect x="430" y="275" width="300" height="25" fill="#ffffff" stroke="#16a34a" stroke-width="1" rx="5"/>
+  <text x="440" y="290" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#166534">
+    Systematisk Opplæring og Dokumentasjon
+  </text>
+  
+  <!-- Process challenges -->
+  <rect x="50" y="330" width="340" height="240" fill="url(#challengeGradient)" stroke="#dc2626" stroke-width="2" rx="10"/>
+  <text x="220" y="355" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#991b1b">
+    PROSESSUTFORDRINGER
+  </text>
+  
+  <!-- Process Challenge 1 -->
+  <rect x="70" y="370" width="300" height="45" fill="#ffffff" stroke="#dc2626" stroke-width="1" rx="5"/>
+  <text x="80" y="385" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#991b1b">
+    Tidspress og Knappe Frister
+  </text>
+  <text x="80" y="400" font-family="Arial, sans-serif" font-size="9" fill="#7f1d1d">
+    • Månedsavslutning under tidspress
+  </text>
+  <text x="80" y="412" font-family="Arial, sans-serif" font-size="9" fill="#7f1d1d">
+    • Årsavslutning med stramme deadlines
+  </text>
+  
+  <!-- Process Challenge 2 -->
+  <rect x="70" y="425" width="300" height="45" fill="#ffffff" stroke="#dc2626" stroke-width="1" rx="5"/>
+  <text x="80" y="440" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#991b1b">
+    Ressursmangel og Kompetanse
+  </text>
+  <text x="80" y="455" font-family="Arial, sans-serif" font-size="9" fill="#7f1d1d">
+    • Utilstrekkelig bemanning i perioder
+  </text>
+  <text x="80" y="467" font-family="Arial, sans-serif" font-size="9" fill="#7f1d1d">
+    • Manglende spesialkompetanse
+  </text>
+  
+  <!-- Process Challenge 3 -->
+  <rect x="70" y="480" width="300" height="45" fill="#ffffff" stroke="#dc2626" stroke-width="1" rx="5"/>
+  <text x="80" y="495" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#991b1b">
+    Kvalitetskontroll og Kommunikasjon
+  </text>
+  <text x="80" y="510" font-family="Arial, sans-serif" font-size="9" fill="#7f1d1d">
+    • Manglende rutiner for feildeteksjon
+  </text>
+  <text x="80" y="522" font-family="Arial, sans-serif" font-size="9" fill="#7f1d1d">
+    • Dårlig koordinering mellom avdelinger
+  </text>
+  
+  <!-- Process Challenge 4 -->
+  <rect x="70" y="535" width="300" height="25" fill="#ffffff" stroke="#dc2626" stroke-width="1" rx="5"/>
+  <text x="80" y="550" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#991b1b">
+    Komplekse Regnskapsregler
+  </text>
+  
+  <!-- Process solutions -->
+  <rect x="410" y="330" width="340" height="240" fill="url(#solutionGradient)" stroke="#16a34a" stroke-width="2" rx="10"/>
+  <text x="580" y="355" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#166534">
+    PROSESSLØSNINGER
+  </text>
+  
+  <!-- Process Solution 1 -->
+  <rect x="430" y="370" width="300" height="45" fill="#ffffff" stroke="#16a34a" stroke-width="1" rx="5"/>
+  <text x="440" y="385" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#166534">
+    Fremskutt Planlegging og Automatisering
+  </text>
+  <text x="440" y="400" font-family="Arial, sans-serif" font-size="9" fill="#14532d">
+    • Detaljerte årsplaner med milepæler
+  </text>
+  <text x="440" y="412" font-family="Arial, sans-serif" font-size="9" fill="#14532d">
+    • Maksimal automatisering av rutineoppgaver
+  </text>
+  
+  <!-- Process Solution 2 -->
+  <rect x="430" y="425" width="300" height="45" fill="#ffffff" stroke="#16a34a" stroke-width="1" rx="5"/>
+  <text x="440" y="440" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#166534">
+    Kompetanseutvikling og Cross-training
+  </text>
+  <text x="440" y="455" font-family="Arial, sans-serif" font-size="9" fill="#14532d">
+    • Regelmessig opplæring og sertifisering
+  </text>
+  <text x="440" y="467" font-family="Arial, sans-serif" font-size="9" fill="#14532d">
+    • Krysstrening for å sikre redundans
+  </text>
+  
+  <!-- Process Solution 3 -->
+  <rect x="430" y="480" width="300" height="45" fill="#ffffff" stroke="#16a34a" stroke-width="1" rx="5"/>
+  <text x="440" y="495" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#166534">
+    Strukturerte Kontrollrutiner
+  </text>
+  <text x="440" y="510" font-family="Arial, sans-serif" font-size="9" fill="#14532d">
+    • Innebygde kvalitetskontroller i prosesser
+  </text>
+  <text x="440" y="522" font-family="Arial, sans-serif" font-size="9" fill="#14532d">
+    • Standardiserte kommunikasjonskanaler
+  </text>
+  
+  <!-- Process Solution 4 -->
+  <rect x="430" y="535" width="300" height="25" fill="#ffffff" stroke="#16a34a" stroke-width="1" rx="5"/>
+  <text x="440" y="550" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#166534">
+    Ekspertnettverk og Konsulentbistand
+  </text>
+</svg>

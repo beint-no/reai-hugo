@@ -1,0 +1,141 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="legalGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#7c3aed;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="#ffffff"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="50" fill="url(#legalGrad)"/>
+  <text x="400" y="32" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">Juridiske Rammer for Produksjonslønn</text>
+  
+  <!-- Main legal framework -->
+  <rect x="50" y="70" width="700" height="120" fill="#f3e8ff" stroke="#8b5cf6" stroke-width="2" rx="10"/>
+  <text x="400" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#6b21a8">Grunnleggende Lovkrav</text>
+  
+  <!-- Arbeidsmiljøloven -->
+  <g transform="translate(70, 110)">
+    <rect x="0" y="0" width="160" height="60" fill="#ddd6fe" stroke="#7c3aed" stroke-width="2" rx="5"/>
+    <text x="80" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#5b21b6">Arbeidsmiljøloven</text>
+    <text x="10" y="32" font-family="Arial, sans-serif" font-size="9" fill="#5b21b6">• Maksimal arbeidstid</text>
+    <text x="10" y="42" font-family="Arial, sans-serif" font-size="9" fill="#5b21b6">• Pauseregler</text>
+    <text x="10" y="52" font-family="Arial, sans-serif" font-size="9" fill="#5b21b6">• HMS-krav</text>
+  </g>
+  
+  <!-- Tariffavtaler -->
+  <g transform="translate(250, 110)">
+    <rect x="0" y="0" width="160" height="60" fill="#ddd6fe" stroke="#7c3aed" stroke-width="2" rx="5"/>
+    <text x="80" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#5b21b6">Tariffavtaler</text>
+    <text x="10" y="32" font-family="Arial, sans-serif" font-size="9" fill="#5b21b6">• Minstelønnskrav</text>
+    <text x="10" y="42" font-family="Arial, sans-serif" font-size="9" fill="#5b21b6">• Overtidssatser</text>
+    <text x="10" y="52" font-family="Arial, sans-serif" font-size="9" fill="#5b21b6">• Arbeidsvilkår</text>
+  </g>
+  
+  <!-- Likebehandling -->
+  <g transform="translate(430, 110)">
+    <rect x="0" y="0" width="160" height="60" fill="#ddd6fe" stroke="#7c3aed" stroke-width="2" rx="5"/>
+    <text x="80" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#5b21b6">Likebehandlingsloven</text>
+    <text x="10" y="32" font-family="Arial, sans-serif" font-size="9" fill="#5b21b6">• Lik lønn for lik arbeid</text>
+    <text x="10" y="42" font-family="Arial, sans-serif" font-size="9" fill="#5b21b6">• Ikke-diskriminering</text>
+    <text x="10" y="52" font-family="Arial, sans-serif" font-size="9" fill="#5b21b6">• Saklig begrunnelse</text>
+  </g>
+  
+  <!-- Bokføringsloven -->
+  <g transform="translate(610, 110)">
+    <rect x="0" y="0" width="120" height="60" fill="#ddd6fe" stroke="#7c3aed" stroke-width="2" rx="5"/>
+    <text x="60" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#5b21b6">Bokføringsloven</text>
+    <text x="10" y="32" font-family="Arial, sans-serif" font-size="9" fill="#5b21b6">• Dokumentasjon</text>
+    <text x="10" y="42" font-family="Arial, sans-serif" font-size="9" fill="#5b21b6">• Oppbevaring</text>
+    <text x="10" y="52" font-family="Arial, sans-serif" font-size="9" fill="#5b21b6">• Sporbarhet</text>
+  </g>
+  
+  <!-- Specific requirements section -->
+  <text x="50" y="220" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1f2937">Spesifikke Krav til Produksjonslønn</text>
+  
+  <!-- Left column - Requirements -->
+  <rect x="50" y="230" width="340" height="180" fill="#f8fafc" stroke="#64748b" stroke-width="2" rx="8"/>
+  <text x="220" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#334155">LOVPÅLAGTE MINIMUMSKRAV</text>
+  
+  <g transform="translate(70, 260)">
+    <circle cx="5" cy="5" r="3" fill="#dc2626"/>
+    <text x="15" y="9" font-family="Arial, sans-serif" font-size="11" fill="#374151">Garantilønn må oppfylle tariff-/minstelønnskrav</text>
+  </g>
+  
+  <g transform="translate(70, 280)">
+    <circle cx="5" cy="5" r="3" fill="#dc2626"/>
+    <text x="15" y="9" font-family="Arial, sans-serif" font-size="11" fill="#374151">Arbeidstid kan ikke overstige lovlige grenser</text>
+  </g>
+  
+  <g transform="translate(70, 300)">
+    <circle cx="5" cy="5" r="3" fill="#dc2626"/>
+    <text x="15" y="9" font-family="Arial, sans-serif" font-size="11" fill="#374151">HMS må ikke kompromitteres for produksjon</text>
+  </g>
+  
+  <g transform="translate(70, 320)">
+    <circle cx="5" cy="5" r="3" fill="#dc2626"/>
+    <text x="15" y="9" font-family="Arial, sans-serif" font-size="11" fill="#374151">Yrkesskadeforsikring er obligatorisk</text>
+  </g>
+  
+  <g transform="translate(70, 340)">
+    <circle cx="5" cy="5" r="3" fill="#dc2626"/>
+    <text x="15" y="9" font-family="Arial, sans-serif" font-size="11" fill="#374151">Feriepenger må beregnes korrekt (12%)</text>
+  </g>
+  
+  <g transform="translate(70, 360)">
+    <circle cx="5" cy="5" r="3" fill="#dc2626"/>
+    <text x="15" y="9" font-family="Arial, sans-serif" font-size="11" fill="#374151">Obligatorisk tjenestepensjon (min 2%)</text>
+  </g>
+  
+  <g transform="translate(70, 380)">
+    <circle cx="5" cy="5" r="3" fill="#dc2626"/>
+    <text x="15" y="9" font-family="Arial, sans-serif" font-size="11" fill="#374151">Arbeidsgiveravgift på all lønn</text>
+  </g>
+  
+  <!-- Right column - Documentation -->
+  <rect x="410" y="230" width="340" height="180" fill="#f8fafc" stroke="#64748b" stroke-width="2" rx="8"/>
+  <text x="580" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#334155">DOKUMENTASJONSKRAV</text>
+  
+  <g transform="translate(430, 260)">
+    <rect x="0" y="0" width="12" height="12" fill="#10b981" rx="2"/>
+    <text x="20" y="10" font-family="Arial, sans-serif" font-size="11" fill="#374151">Detaljert registrering av produksjonsmål</text>
+  </g>
+  
+  <g transform="translate(430, 280)">
+    <rect x="0" y="0" width="12" height="12" fill="#10b981" rx="2"/>
+    <text x="20" y="10" font-family="Arial, sans-serif" font-size="11" fill="#374151">Timeregistrering for arbeidstidskontroll</text>
+  </g>
+  
+  <g transform="translate(430, 300)">
+    <rect x="0" y="0" width="12" height="12" fill="#10b981" rx="2"/>
+    <text x="20" y="10" font-family="Arial, sans-serif" font-size="11" fill="#374151">Kvalitetsdokumentasjon for bonuser</text>
+  </g>
+  
+  <g transform="translate(430, 320)">
+    <rect x="0" y="0" width="12" height="12" fill="#10b981" rx="2"/>
+    <text x="20" y="10" font-family="Arial, sans-serif" font-size="11" fill="#374151">A-melding med korrekte lønnsarter</text>
+  </g>
+  
+  <g transform="translate(430, 340)">
+    <rect x="0" y="0" width="12" height="12" fill="#10b981" rx="2"/>
+    <text x="20" y="10" font-family="Arial, sans-serif" font-size="11" fill="#374151">Ansattreskontro med produksjonsdata</text>
+  </g>
+  
+  <g transform="translate(430, 360)">
+    <rect x="0" y="0" width="12" height="12" fill="#10b981" rx="2"/>
+    <text x="20" y="10" font-family="Arial, sans-serif" font-size="11" fill="#374151">Lønnsslipp med detaljert beregning</text>
+  </g>
+  
+  <g transform="translate(430, 380)">
+    <rect x="0" y="0" width="12" height="12" fill="#10b981" rx="2"/>
+    <text x="20" y="10" font-family="Arial, sans-serif" font-size="11" fill="#374151">Oppbevaring i minimum 5 år</text>
+  </g>
+  
+  <!-- Bottom warning box -->
+  <rect x="50" y="430" width="700" height="50" fill="#fef2f2" stroke="#dc2626" stroke-width="2" rx="8"/>
+  <text x="400" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#dc2626">VIKTIG: Kontroller og Sanksjoner</text>
+  <text x="70" y="467" font-family="Arial, sans-serif" font-size="11" fill="#7f1d1d">Arbeidstilsynet kan kontrollere arbeidsvilkår. Brudd på arbeidsmiljøloven kan gi bøter opptil 20% av årlig omsetning.</text>
+</svg>

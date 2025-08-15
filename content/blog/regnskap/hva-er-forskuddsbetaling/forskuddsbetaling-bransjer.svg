@@ -1,0 +1,198 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
+    </linearGradient>
+    <filter id="cardShadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="2" dy="2" stdDeviation="2" flood-color="#000000" flood-opacity="0.2"/>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="60" fill="url(#headerGrad)"/>
+  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
+    Forskuddsbetaling i Ulike Bransjer
+  </text>
+  
+  <!-- Construction Industry -->
+  <rect x="50" y="90" width="220" height="140" fill="white" stroke="#ff6b35" stroke-width="2" rx="10" filter="url(#cardShadow)"/>
+  <rect x="50" y="90" width="220" height="40" fill="#ff6b35" rx="10"/>
+  <rect x="50" y="120" width="220" height="10" fill="#ff6b35"/>
+  <text x="160" y="115" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+    Bygg og Anlegg
+  </text>
+  <text x="70" y="150" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+    Typisk forskudd: 20-50%
+  </text>
+  <text x="70" y="170" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    • Materialkostnader
+  </text>
+  <text x="70" y="185" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    • Prosjektfinansiering
+  </text>
+  <text x="70" y="200" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    • Langsiktige kontrakter
+  </text>
+  <text x="70" y="215" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    • Tilpassede løsninger
+  </text>
+  
+  <!-- Travel Industry -->
+  <rect x="290" y="90" width="220" height="140" fill="white" stroke="#28a745" stroke-width="2" rx="10" filter="url(#cardShadow)"/>
+  <rect x="290" y="90" width="220" height="40" fill="#28a745" rx="10"/>
+  <rect x="290" y="120" width="220" height="10" fill="#28a745"/>
+  <text x="400" y="115" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+    Reiseliv
+  </text>
+  <text x="310" y="150" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+    Typisk forskudd: 100%
+  </text>
+  <text x="310" y="170" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    • Hotellreservasjoner
+  </text>
+  <text x="310" y="185" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    • Flybilletter
+  </text>
+  <text x="310" y="200" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    • Kapasitetsreservering
+  </text>
+  <text x="310" y="215" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    • Sesongplanlegging
+  </text>
+  
+  <!-- Consulting -->
+  <rect x="530" y="90" width="220" height="140" fill="white" stroke="#6f42c1" stroke-width="2" rx="10" filter="url(#cardShadow)"/>
+  <rect x="530" y="90" width="220" height="40" fill="#6f42c1" rx="10"/>
+  <rect x="530" y="120" width="220" height="10" fill="#6f42c1"/>
+  <text x="640" y="115" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+    Konsulentvirksomhet
+  </text>
+  <text x="550" y="150" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+    Retainer-avtaler
+  </text>
+  <text x="550" y="170" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    • Månedlige forskudd
+  </text>
+  <text x="550" y="185" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    • Kontinuerlig inntekt
+  </text>
+  <text x="550" y="200" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    • Ressursplanlegging
+  </text>
+  <text x="550" y="215" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    • Kundelojalitet
+  </text>
+  
+  <!-- Manufacturing -->
+  <rect x="50" y="260" width="220" height="140" fill="white" stroke="#ffc107" stroke-width="2" rx="10" filter="url(#cardShadow)"/>
+  <rect x="50" y="260" width="220" height="40" fill="#ffc107" rx="10"/>
+  <rect x="50" y="290" width="220" height="10" fill="#ffc107"/>
+  <text x="160" y="285" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+    Produksjon
+  </text>
+  <text x="70" y="320" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+    Spesialtilpassede produkter
+  </text>
+  <text x="70" y="340" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    • Utviklingskostnader
+  </text>
+  <text x="70" y="355" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    • Produksjonskostnader
+  </text>
+  <text x="70" y="370" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    • Materialinnkjøp
+  </text>
+  <text x="70" y="385" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    • Risikominimering
+  </text>
+  
+  <!-- Software/SaaS -->
+  <rect x="290" y="260" width="220" height="140" fill="white" stroke="#17a2b8" stroke-width="2" rx="10" filter="url(#cardShadow)"/>
+  <rect x="290" y="260" width="220" height="40" fill="#17a2b8" rx="10"/>
+  <rect x="290" y="290" width="220" height="10" fill="#17a2b8"/>
+  <text x="400" y="285" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+    Software/SaaS
+  </text>
+  <text x="310" y="320" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+    Årlige abonnementer
+  </text>
+  <text x="310" y="340" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    • Forbedret kontantstrøm
+  </text>
+  <text x="310" y="355" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    • Redusert kundefrafall
+  </text>
+  <text x="310" y="370" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    • Forutsigbar inntekt
+  </text>
+  <text x="310" y="385" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    • Rabattincentiver
+  </text>
+  
+  <!-- Education -->
+  <rect x="530" y="260" width="220" height="140" fill="white" stroke="#dc3545" stroke-width="2" rx="10" filter="url(#cardShadow)"/>
+  <rect x="530" y="260" width="220" height="40" fill="#dc3545" rx="10"/>
+  <rect x="530" y="290" width="220" height="10" fill="#dc3545"/>
+  <text x="640" y="285" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+    Utdanning
+  </text>
+  <text x="550" y="320" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+    Kurs og skolepenger
+  </text>
+  <text x="550" y="340" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    • Sikre finansiering
+  </text>
+  <text x="550" y="355" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    • Planlegging av ressurser
+  </text>
+  <text x="550" y="370" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    • Kapasitetsstyring
+  </text>
+  <text x="550" y="385" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    • Studentengasjement
+  </text>
+  
+  <!-- Key Benefits Summary -->
+  <rect x="50" y="430" width="700" height="140" fill="#e8f4fd" stroke="#0066cc" stroke-width="2" rx="10"/>
+  <text x="400" y="460" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#0066cc">
+    Felles Fordeler ved Forskuddsbetaling
+  </text>
+  
+  <!-- Left column -->
+  <text x="80" y="485" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">
+    For Leverandør:
+  </text>
+  <text x="80" y="505" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    • Forbedret kontantstrøm og likviditet
+  </text>
+  <text x="80" y="520" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    • Redusert kredittrisiko og tap på fordringer
+  </text>
+  <text x="80" y="535" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    • Bedre planlegging og budsjettarbeid
+  </text>
+  <text x="80" y="550" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    • Lavere finansieringskostnader
+  </text>
+  
+  <!-- Right column -->
+  <text x="420" y="485" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">
+    For Kunde:
+  </text>
+  <text x="420" y="505" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    • Ofte rabatt for forskuddsbetaling
+  </text>
+  <text x="420" y="520" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    • Sikret tilgang til varer/tjenester
+  </text>
+  <text x="420" y="535" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    • Budsjettmessig forutsigbarhet
+  </text>
+  <text x="420" y="550" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    • Prioritert behandling og service
+  </text>
+</svg>

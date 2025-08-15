@@ -1,0 +1,24 @@
+<svg width="800" height="450" viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="450" fill="#f0f4f8"/>
+  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" fill="#2c3e50" text-anchor="middle">Markedsbasert Verdivurdering</text>
+
+  <!-- Aktive Markeder -->
+  <g transform="translate(50, 80)">
+    <rect width="330" height="320" fill="#3498db" rx="10"/>
+    <text x="165" y="40" font-family="Arial, sans-serif" font-size="20" fill="white" text-anchor="middle">Aktive Markeder</text>
+    <line x1="30" y1="60" x2="300" y2="60" stroke="white" stroke-width="2"/>
+    <text x="40" y="100" font-family="Arial, sans-serif" font-size="16" fill="white">- Børskurs</text>
+    <text x="40" y="140" font-family="Arial, sans-serif" font-size="16" fill="white">- Bud/salg-spread</text>
+    <text x="40" y="180" font-family="Arial, sans-serif" font-size="16" fill="white">- Handelsvolum</text>
+  </g>
+
+  <!-- Mindre Aktive Markeder -->
+  <g transform="translate(420, 80)">
+    <rect width="330" height="320" fill="#e67e22" rx="10"/>
+    <text x="165" y="40" font-family="Arial, sans-serif" font-size="20" fill="white" text-anchor="middle">Mindre Aktive Markeder</text>
+    <line x1="30" y1="60" x2="300" y2="60" stroke="white" stroke-width="2"/>
+    <text x="40" y="100" font-family="Arial, sans-serif" font-size="16" fill="white">- Justerte markedspriser</text>
+    <text x="40" y="140" font-family="Arial, sans-serif" font-size="16" fill="white">- Sammenlignbare transaksjoner</text>
+    <text x="40" y="180" font-family="Arial, sans-serif" font-size="16" fill="white">- Meglerkurser</text>
+  </g>
+</svg>

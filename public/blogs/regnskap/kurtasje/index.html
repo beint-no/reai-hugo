@@ -1,0 +1,319 @@
+<!doctype html>
+<html lang="nb">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Hva er Kurtasje? Megleravgift ved kjøp og salg av verdipapirer | ReAI</title>
+  <meta name="description" content="Komplett regnskapssystem med faktura, lønn, bilagsføring og årsoppgjør.">
+  
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<script src="https://cdn.tailwindcss.com?plugins=typography"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        fontFamily: { sans: ['Inter','ui-sans-serif','system-ui','Arial','sans-serif'] },
+        colors: {
+          brand: { DEFAULT: '#111827' },
+          accent: { DEFAULT: '#2563eb' }
+        }
+      }
+    }
+  }
+</script>
+<style>
+   
+  header .header-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #000 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link:hover { background-position: 0; }
+  header .header-link:hover::before { width: 100%; }
+
+  footer .footer-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #ffffff 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link:hover { background-position: 0; }
+  footer .footer-link:hover::before { width: 100%; }
+</style>
+<style>
+   
+  .prose { overflow-wrap: anywhere; word-break: break-word; }
+  .prose img { max-width: 100%; height: auto; }
+  .prose table { display: block; width: 100%; overflow-x: auto; }
+  .prose pre { white-space: pre-wrap; word-break: break-word; overflow-x: auto; }
+  .prose code { word-break: break-word; }
+  .prose iframe, .prose video { max-width: 100%; width: 100%; height: auto; }
+</style>
+<style>
+   
+  button,
+  .btn,
+  a.btn,
+  .button,
+  .cta,
+  .link-button,
+   
+  a.inline-flex.rounded-md,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"] {
+    transition: transform 220ms ease, box-shadow 220ms ease, background-color 220ms ease, color 220ms ease, opacity 220ms ease;
+    will-change: transform, box-shadow;
+  }
+
+  button:hover,
+  .btn:hover,
+  a.btn:hover,
+  .button:hover,
+  .cta:hover,
+  .link-button:hover,
+  a.inline-flex.rounded-md:hover,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+
+  button:active,
+  .btn:active,
+  a.btn:active,
+  .button:active,
+  .cta:active,
+  .link-button:active,
+  a.inline-flex.rounded-md:active,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:active {
+    transform: translateY(-1px) scale(0.99);
+    box-shadow: 0 6px 12px rgba(2, 6, 23, 0.1);
+  }
+
+  button:focus-visible,
+  .btn:focus-visible,
+  a.btn:focus-visible,
+  .button:focus-visible,
+  .cta:focus-visible,
+  .link-button:focus-visible,
+  a.inline-flex.rounded-md:focus-visible,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.35), 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+</style>
+
+<link rel="icon" type="image/svg+xml" href="/images/ReAI-logo-square.svg">
+<link rel="shortcut icon" href="/images/ReAI-logo-square.svg">
+
+</head>
+<body class="min-h-dvh bg-white text-gray-900 font-sans">
+  <header class="sticky top-0 z-40 bg-white/80 backdrop-blur">
+  
+  <div class="border-b border-slate-200/70">
+    <div class="max-w-7xl mx-auto px-4">
+      <div class="h-16 flex items-center justify-between">
+        <a href="/" class="flex items-center gap-2" aria-label="ReAI">
+          <img src="/images/ReAI-logo-square.svg?v=4" alt="ReAI logo" class="h-14 w-14 rounded-md mt-5" width="56" height="56" loading="eager" decoding="async">
+        </a>
+        <nav class="hidden md:block">
+          <ul class="flex items-center gap-5 text-sm">
+            <li><a href="/courses/" class="header-link text-slate-700 hover:text-black">Gratis kurs</a></li>
+            <li><a href="/contact/" class="header-link text-slate-700 hover:text-black">Kontakt oss</a></li>
+            <li><a href="/blog/" class="header-link text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+            <li><a href="/bli-partner/" class="header-link text-slate-700 hover:text-black">Bli partner</a></li>
+            <li><a href="/fakturamal/" class="header-link text-slate-700 hover:text-black">Lag faktura</a></li>
+          </ul>
+        </nav>
+        <button id="mobileMenuBtn" aria-controls="mobileMenu" aria-expanded="false" class="md:hidden inline-flex items-center justify-center h-9 w-9 rounded-md border border-slate-300">
+          <span class="sr-only">Menu</span>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-5 w-5"><path d="M3.75 6.75h16.5v1.5H3.75zM3.75 11.25h16.5v1.5H3.75zM3.75 15.75h16.5v1.5H3.75z"/></svg>
+        </button>
+      </div>
+    </div>
+  </div>
+  
+  <nav id="mobileMenu" class="md:hidden hidden border-b border-slate-200/70 bg-white/95 backdrop-blur">
+    <div class="max-w-7xl mx-auto px-4 py-3">
+      <ul class="flex flex-col items-center gap-3 text-sm text-center">
+        <li><a href="/courses/" class="header-link block text-slate-700 hover:text-black">Gratis kurs</a></li>
+        <li><a href="/contact/" class="header-link block text-slate-700 hover:text-black">Kontakt oss</a></li>
+        <li><a href="/blog/" class="header-link block text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+        <li><a href="/bli-partner/" class="header-link block text-slate-700 hover:text-black">Bli partner</a></li>
+        <li><a href="/fakturamal/" class="header-link block text-slate-700 hover:text-black">Lag faktura</a></li>
+      </ul>
+    </div>
+  </nav>
+  <script>
+    (function() {
+      const btn = document.getElementById('mobileMenuBtn');
+      const menu = document.getElementById('mobileMenu');
+      if (!btn || !menu) return;
+      btn.addEventListener('click', function() {
+        const isHidden = menu.classList.contains('hidden');
+        menu.classList.toggle('hidden');
+        btn.setAttribute('aria-expanded', String(isHidden));
+      });
+    })();
+  </script>
+</header>
+  <main>
+    
+<section class="pt-10 md:pt-14">
+  <div class="max-w-3xl mx-auto px-4">
+    <h1 class="text-3xl font-semibold tracking-tight text-center">Hva er Kurtasje? Megleravgift ved kjøp og salg av verdipapirer</h1>
+    <p class="mt-2 text-gray-700">Kurtasje er avgiften som betales til megler ved kjøp og salg av aksjer og andre verdipapirer. I denne guiden går vi gjennom definisjon, beregning, regnskapsføring og skattemessige aspekter.</p>
+    <article class="prose max-w-none mt-6"><p><strong>Kurtasje</strong>, også kalt <em>meglerprovisjon</em>, er avgiften som betales til en megler eller handelsplattform ved kjøp og salg av aksjer og andre <strong>verdipapirer</strong>.</p>
+<p><img src="kurtasje-image.svg" alt="Illustrasjon med teksten Kurtasje"></p>
+<h2 id="seksjon-1-definisjon-og-grunnleggende-prinsipper">Seksjon 1: Definisjon og grunnleggende prinsipper</h2>
+<h3 id="11-hva-er-kurtasje">1.1 Hva er Kurtasje?</h3>
+<p>Kurtasje representerer kostnaden for å få utført handler i markedet. Den kan være fast eller variabel, avhengig av meglerens prisstruktur og handelsvolum.</p>
+<h3 id="12-typer-kurtasje">1.2 Typer kurtasje</h3>
+<ul>
+<li><strong>Fast kurtasje</strong>: En avtalt avgift per handel, uavhengig av handelsvolum.</li>
+<li><strong>Prosentbasert kurtasje</strong>: En variabel avgift beregnet som en prosentandel av handelsverdien.</li>
+</ul>
+<h2 id="seksjon-2-beregning-av-kurtasje">Seksjon 2: Beregning av kurtasje</h2>
+<p>Beregningen av kurtasje avhenger av om den er fast eller prosentbasert. Generelt gjelder:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-text" data-lang="text"><span style="display:flex;"><span>Kurtasje (fast) = Avtalefast beløp per handel
+</span></span><span style="display:flex;"><span>Kurtasje (prosent) = Handelsverdi × Kurtasje prosent
+</span></span></code></pre></div><table>
+  <thead>
+      <tr>
+          <th>Kurtasjetype</th>
+          <th>Eksempelberegning</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Fast (kr)</td>
+          <td>100 kr per ordre</td>
+      </tr>
+      <tr>
+          <td>Prosent (0,1 %)</td>
+          <td>100 000 kr × 0,1 % = 100 kr</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="seksjon-3-regnskapsmessig-behandling">Seksjon 3: Regnskapsmessig behandling</h2>
+<h3 id="31-innregning-og-klassifisering">3.1 Innregning og klassifisering</h3>
+<p>Kurtasje føres som en finanskostnad under <strong>driftskostnader</strong> i resultatregnskapet.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-text" data-lang="text"><span style="display:flex;"><span>DEBET: Kurtasjekostnad (driftskostnader)    100
+</span></span><span style="display:flex;"><span>   KREDIT: Bank/kasse                        100
+</span></span></code></pre></div><p>Se også <a href="/blogs/regnskap/hva-er-driftskostnader" title="Hva er Driftskostnader? Definisjon og Eksempler">Hva er Driftskostnader?</a>.</p>
+<h2 id="seksjon-4-skattemessige-aspekter">Seksjon 4: Skattemessige aspekter</h2>
+<p>Skattemessig er kurtasje vanligvis fradragsberettiget som en nødvendig kostnad for å oppnå inntekt. Kostnaden følger realisasjonsprinsippet.</p>
+<h2 id="seksjon-5-praktisk-eksempel-på-beregning-og-regnskapsføring">Seksjon 5: Praktisk eksempel på beregning og regnskapsføring</h2>
+<p>En investor kjøper aksjer for 50 000 kr med en prosentbasert kurtasje på 0,2 %:</p>
+<table>
+  <thead>
+      <tr>
+          <th>Beskrivelse</th>
+          <th>Beløp (kr)</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Handelsverdi</td>
+          <td>50 000</td>
+      </tr>
+      <tr>
+          <td>Kurtasje (0,2 %)</td>
+          <td>100</td>
+      </tr>
+      <tr>
+          <td>Total kostnad</td>
+          <td>50 100</td>
+      </tr>
+  </tbody>
+</table>
+<p>Regnskapsføring av kurtasje:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-text" data-lang="text"><span style="display:flex;"><span>DEBET: Kurtasjekostnad                  100
+</span></span><span style="display:flex;"><span>   KREDIT: Bank/kasse                   100
+</span></span></code></pre></div><h2 id="se-også">Se også</h2>
+<ul>
+<li><a href="/blogs/regnskap/bors" title="Hva er Børs? En Guide til Norsk Børs og Aksjehandel">Hva er Børs?</a></li>
+<li><a href="/blogs/regnskap/hva-er-en-aksje" title="Hva er en Aksje?">Hva er en aksje?</a></li>
+<li><a href="/blogs/regnskap/hva-er-diskontering" title="Hva er Diskontering? Prinsipper og Praktiske Eksempler">Hva er Diskontering?</a></li>
+<li><a href="/blogs/regnskap/kurtasje" title="Hva er Kurtasje? Megleravgift ved kjøp og salg av verdipapirer">Hva er Kurtasje?</a></li>
+</ul>
+</article>
+  </div>
+</section>
+
+  </main>
+  <footer class="mt-16 border-t border-slate-800/60 bg-slate-900">
+  <div class="max-w-7xl mx-auto px-4 py-14">
+    <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3 text-center sm:text-left">
+      
+      <div>
+        <h3 class="text-sm font-semibold text-white">Verktøy</h3>
+        <ul class="mt-2 space-y-2 text-sm text-slate-300">
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/finn-iban/">IBAN kalkulator</a></li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/lag-faktura-gratis/">Lag faktura</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Selskaps-informasjon</h3>
+        <ul class="mt-2 space-y-1 text-sm text-slate-300">
+          <li>Reai AS</li>
+          <li>Orgnr: 935606403</li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="mailto:post@reai.no">post@reai.no</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Om ReAI</h3>
+        <p class="mt-2 text-sm text-slate-300">ReAI er et gratis regnskapsprogram laget av tidligere ansatte i Tripletex
+          / Visma. Vi mener det er på tide med mer konkurranse i regnskaps-bransjen som kan komme bedrifter til gode.
+        </p>
+      </div>
+    </div>
+    <div class="mt-12 border-t border-slate-800/60 pt-6 flex flex-col items-center sm:flex-row sm:items-center sm:justify-between text-sm text-slate-400 text-center sm:text-left">
+      <div class="flex items-center gap-2">
+        
+        
+      </div>
+      <div class="mt-4 sm:mt-0 flex items-center justify-center sm:justify-end">
+        <div class="opacity-80">&copy; 2025 ReAI. All rights reserved.</div>
+      </div>
+    </div>
+  </div>
+</footer>
+</body>
+</html>

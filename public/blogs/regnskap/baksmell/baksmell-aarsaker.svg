@@ -1,0 +1,98 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+    Hovedårsaker til Baksmell
+  </text>
+  
+  <!-- Central circle -->
+  <circle cx="400" cy="300" r="80" fill="#e74c3c" stroke="#c0392b" stroke-width="3"/>
+  <text x="400" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    BAKSMELL
+  </text>
+  <text x="400" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    Uventet kostnad
+  </text>
+  
+  <!-- Cause 1: Skatteberegning -->
+  <circle cx="200" cy="150" r="60" fill="#3498db" stroke="#2980b9" stroke-width="2"/>
+  <text x="200" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    Feil i
+  </text>
+  <text x="200" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    Skatteberegning
+  </text>
+  <line x1="240" y1="190" x2="360" y2="260" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Cause 2: Periodisering -->
+  <circle cx="600" cy="150" r="60" fill="#9b59b6" stroke="#8e44ad" stroke-width="2"/>
+  <text x="600" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    Feil i
+  </text>
+  <text x="600" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    Periodisering
+  </text>
+  <line x1="560" y1="190" x2="440" y2="260" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Cause 3: Avsetninger -->
+  <circle cx="150" cy="450" r="60" fill="#f39c12" stroke="#e67e22" stroke-width="2"/>
+  <text x="150" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    Utilstrekkelige
+  </text>
+  <text x="150" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    Avsetninger
+  </text>
+  <line x1="190" y1="410" x2="340" y2="340" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Cause 4: Regelverk -->
+  <circle cx="650" cy="450" r="60" fill="#27ae60" stroke="#229954" stroke-width="2"/>
+  <text x="650" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    Endringer i
+  </text>
+  <text x="650" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    Regelverk
+  </text>
+  <line x1="610" y1="410" x2="460" y2="340" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Details boxes -->
+  <rect x="50" y="80" width="120" height="40" fill="#ecf0f1" stroke="#bdc3c7" rx="5"/>
+  <text x="110" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    • Undervurdert omsetning
+  </text>
+  <text x="110" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    • MVA-feil
+  </text>
+  
+  <rect x="520" y="80" width="120" height="40" fill="#ecf0f1" stroke="#bdc3c7" rx="5"/>
+  <text x="580" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    • Feil periode
+  </text>
+  <text x="580" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    • Påløpte kostnader
+  </text>
+  
+  <rect x="50" y="520" width="120" height="40" fill="#ecf0f1" stroke="#bdc3c7" rx="5"/>
+  <text x="110" y="535" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    • Feriepenger
+  </text>
+  <text x="110" y="550" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    • Garantikostnader
+  </text>
+  
+  <rect x="570" y="520" width="120" height="40" fill="#ecf0f1" stroke="#bdc3c7" rx="5"/>
+  <text x="630" y="535" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    • Nye skatteregler
+  </text>
+  <text x="630" y="550" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    • Endrede satser
+  </text>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>
+    </marker>
+  </defs>
+</svg>

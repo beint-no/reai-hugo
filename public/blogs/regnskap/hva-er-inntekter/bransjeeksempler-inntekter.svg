@@ -1,0 +1,203 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="prodGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#28a745;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#20c997;stop-opacity:0.8" />
+    </linearGradient>
+    <linearGradient id="tjenesteGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#17a2b8;stop-opacity:0.8" />
+    </linearGradient>
+    <linearGradient id="handelGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffc107;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#fd7e14;stop-opacity:0.8" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#333">
+    Praktiske Eksempler fra Ulike Bransjer
+  </text>
+  
+  <!-- Example 1: Production Company -->
+  <rect x="50" y="80" width="220" height="160" fill="url(#prodGradient)" stroke="#28a745" stroke-width="2" rx="10"/>
+  <text x="160" y="110" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+    PRODUKSJONSSELSKAP
+  </text>
+  <text x="160" y="130" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+    ABC Møbler AS
+  </text>
+  
+  <!-- Production breakdown -->
+  <rect x="60" y="145" width="200" height="85" fill="white" fill-opacity="0.9" rx="5"/>
+  <text x="70" y="165" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#28a745">
+    Inntektsfordeling:
+  </text>
+  <text x="70" y="180" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    • Salg av møbler: 8.5M kr (85%)
+  </text>
+  <text x="70" y="195" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    • Monteringstjenester: 0.8M kr (8%)
+  </text>
+  <text x="70" y="210" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    • Leieinntekter: 0.4M kr (4%)
+  </text>
+  <text x="70" y="225" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    • Andre inntekter: 0.3M kr (3%)
+  </text>
+  
+  <!-- Example 2: Service Company -->
+  <rect x="290" y="80" width="220" height="160" fill="url(#tjenesteGradient)" stroke="#0066cc" stroke-width="2" rx="10"/>
+  <text x="400" y="110" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+    TJENESTESELSKAP
+  </text>
+  <text x="400" y="130" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+    Konsulent Norge AS
+  </text>
+  
+  <!-- Service breakdown -->
+  <rect x="300" y="145" width="200" height="85" fill="white" fill-opacity="0.9" rx="5"/>
+  <text x="310" y="165" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#0066cc">
+    Inntektsfordeling:
+  </text>
+  <text x="310" y="180" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    • Konsulenthonorar: 2.4M kr (69%)
+  </text>
+  <text x="310" y="195" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    • Kursvirksomhet: 0.6M kr (17%)
+  </text>
+  <text x="310" y="210" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    • Sertifisering: 0.3M kr (9%)
+  </text>
+  <text x="310" y="225" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    • Tilskudd: 0.2M kr (5%)
+  </text>
+  
+  <!-- Example 3: Trading Company -->
+  <rect x="530" y="80" width="220" height="160" fill="url(#handelGradient)" stroke="#ffc107" stroke-width="2" rx="10"/>
+  <text x="640" y="110" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+    HANDELSSELSKAP
+  </text>
+  <text x="640" y="130" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+    Detaljhandel AS
+  </text>
+  
+  <!-- Trading breakdown -->
+  <rect x="540" y="145" width="200" height="85" fill="white" fill-opacity="0.9" rx="5"/>
+  <text x="550" y="165" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#ffc107">
+    Kvartalsrapport Q1:
+  </text>
+  <text x="550" y="180" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    • Brutto salg: 1.65M kr
+  </text>
+  <text x="550" y="195" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    • Returer: -55k kr (-3.3%)
+  </text>
+  <text x="550" y="210" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    • Netto inntekter: 1.595M kr
+  </text>
+  <text x="550" y="225" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    • Månedlig vekst: 15%
+  </text>
+  
+  <!-- Key insights section -->
+  <rect x="50" y="280" width="700" height="280" fill="white" stroke="#dee2e6" stroke-width="1" rx="10"/>
+  <text x="400" y="310" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#333">
+    Nøkkelinnsikter fra Bransjeeksemplene
+  </text>
+  
+  <!-- Insight 1 -->
+  <rect x="70" y="330" width="200" height="100" fill="#f8f9fa" stroke="#28a745" stroke-width="1" rx="5"/>
+  <text x="170" y="355" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#28a745">
+    Produksjon
+  </text>
+  <text x="80" y="375" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    • Hovedfokus på varesalg
+  </text>
+  <text x="80" y="390" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    • Tilleggstjenester øker verdi
+  </text>
+  <text x="80" y="405" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    • Diversifiserte inntektskilder
+  </text>
+  <text x="80" y="420" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    • Stabile, forutsigbare inntekter
+  </text>
+  
+  <!-- Insight 2 -->
+  <rect x="300" y="330" width="200" height="100" fill="#f8f9fa" stroke="#0066cc" stroke-width="1" rx="5"/>
+  <text x="400" y="355" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0066cc">
+    Tjenester
+  </text>
+  <text x="310" y="375" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    • Kompetansebaserte inntekter
+  </text>
+  <text x="310" y="390" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    • Høyere marginer mulig
+  </text>
+  <text x="310" y="405" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    • Offentlige tilskudd vanlig
+  </text>
+  <text x="310" y="420" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    • Prosjektbasert inntektsføring
+  </text>
+  
+  <!-- Insight 3 -->
+  <rect x="530" y="330" width="200" height="100" fill="#f8f9fa" stroke="#ffc107" stroke-width="1" rx="5"/>
+  <text x="630" y="355" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffc107">
+    Handel
+  </text>
+  <text x="540" y="375" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    • Høy omsetningshastighet
+  </text>
+  <text x="540" y="390" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    • Returer må estimeres
+  </text>
+  <text x="540" y="405" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    • Sesongvariasjoner
+  </text>
+  <text x="540" y="420" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    • Rabatter og kampanjer
+  </text>
+  
+  <!-- Common challenges -->
+  <rect x="70" y="450" width="660" height="100" fill="#fff3cd" stroke="#ffc107" stroke-width="1" rx="5"/>
+  <text x="400" y="475" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#856404">
+    Felles Utfordringer på Tvers av Bransjer
+  </text>
+  
+  <text x="90" y="500" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#856404">
+    Timing:
+  </text>
+  <text x="90" y="515" font-family="Arial, sans-serif" font-size="10" fill="#856404">
+    Når skal inntekten regnskapsføres? Over tid eller på et tidspunkt?
+  </text>
+  
+  <text x="400" y="500" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#856404">
+    Måling:
+  </text>
+  <text x="400" y="515" font-family="Arial, sans-serif" font-size="10" fill="#856404">
+    Hvordan håndtere rabatter, returer og variable komponenter?
+  </text>
+  
+  <text x="90" y="535" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#856404">
+    Dokumentasjon:
+  </text>
+  <text x="90" y="550" font-family="Arial, sans-serif" font-size="10" fill="#856404">
+    Sikre tilstrekkelig dokumentasjon for alle inntektstransaksjoner
+  </text>
+  
+  <text x="400" y="535" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#856404">
+    Kontroll:
+  </text>
+  <text x="400" y="550" font-family="Arial, sans-serif" font-size="10" fill="#856404">
+    Etablere gode internkontrollrutiner for inntektsføring
+  </text>
+</svg>

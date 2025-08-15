@@ -1,0 +1,99 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1e40af;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8fafc"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
+  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white" text-anchor="middle">Vanlige Feilkilder og Utfordringer</text>
+  
+  <!-- Content area -->
+  <g transform="translate(40, 80)">
+    
+    <!-- Regnskapsmessige feil -->
+    <g transform="translate(0, 0)">
+      <rect x="0" y="0" width="350" height="220" fill="#fef2f2" stroke="#ef4444" stroke-width="2" rx="12"/>
+      <text x="175" y="30" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#dc2626" text-anchor="middle">Regnskapsmessige Feil</text>
+      
+      <text x="20" y="60" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#dc2626">Periodiseringsfeil:</text>
+      <text x="25" y="80" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Feil timing av inntekts- og kostnadsføring</text>
+      <text x="25" y="100" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Manglende cut-off rutiner</text>
+      
+      <text x="20" y="125" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#dc2626">Klassifiseringsfeil:</text>
+      <text x="25" y="145" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Feil plassering av poster</text>
+      <text x="25" y="165" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Forvirring mellom kortsiktig/langsiktig</text>
+      
+      <text x="20" y="190" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#dc2626">Målingsfeil:</text>
+      <text x="25" y="210" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Feil verdsettelse av eiendeler</text>
+    </g>
+    
+    <!-- Skattemessige feilvurderinger -->
+    <g transform="translate(370, 0)">
+      <rect x="0" y="0" width="350" height="220" fill="#fefce8" stroke="#facc15" stroke-width="2" rx="12"/>
+      <text x="175" y="30" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#ca8a04" text-anchor="middle">Skattemessige Feilvurderinger</text>
+      
+      <text x="20" y="60" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#ca8a04">Forskjellsfeil:</text>
+      <text x="25" y="80" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Permanent vs. midlertidig forskjell</text>
+      <text x="25" y="100" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Feil kategorisering av justeringer</text>
+      
+      <text x="20" y="125" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#ca8a04">Fradragsfeil:</text>
+      <text x="25" y="145" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Feil vurdering av fradragsrett</text>
+      <text x="25" y="165" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Manglende dokumentasjon</text>
+      
+      <text x="20" y="190" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#ca8a04">Transfer pricing:</text>
+      <text x="25" y="210" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Mangelfull dokumentasjon</text>
+    </g>
+    
+    <!-- Systemfeil -->
+    <g transform="translate(0, 240)">
+      <rect x="0" y="0" width="350" height="220" fill="#fce7f3" stroke="#ec4899" stroke-width="2" rx="12"/>
+      <text x="175" y="30" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#be185d" text-anchor="middle">System- og Prosessfeil</text>
+      
+      <text x="20" y="60" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#be185d">Dataintegrasjon:</text>
+      <text x="25" y="80" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Feil i dataoverføringer</text>
+      <text x="25" y="100" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Inkonsistens mellom systemer</text>
+      
+      <text x="20" y="125" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#be185d">Manuelle rutiner:</text>
+      <text x="25" y="145" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Tastefeil og oversikt</text>
+      <text x="25" y="165" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Manglende kvalitetskontroll</text>
+      
+      <text x="20" y="190" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#be185d">Backup og sikkerhet:</text>
+      <text x="25" y="210" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Datatap og systemfeil</text>
+    </g>
+    
+    <!-- Kompetanse og organisatorisk -->
+    <g transform="translate(370, 240)">
+      <rect x="0" y="0" width="350" height="220" fill="#e0e7ff" stroke="#6366f1" stroke-width="2" rx="12"/>
+      <text x="175" y="30" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#4338ca" text-anchor="middle">Kompetanse og Organisatorisk</text>
+      
+      <text x="20" y="60" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#4338ca">Kompetansemangel:</text>
+      <text x="25" y="80" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Utilstrekkelig faglig kunnskap</text>
+      <text x="25" y="100" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Manglende oppdatering på regelendringer</text>
+      
+      <text x="20" y="125" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#4338ca">Tidspress:</text>
+      <text x="25" y="145" font-family="Arial, sans-serif" font-size="11" fill="#374151">• For sen oppstart</text>
+      <text x="25" y="165" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Utilstrekkelig tid til kvalitetskontroll</text>
+      
+      <text x="20" y="190" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#4338ca">Kommunikasjon:</text>
+      <text x="25" y="210" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Dårlig koordinering mellom avdelinger</text>
+    </g>
+    
+    <!-- Forebyggende tiltak -->
+    <g transform="translate(0, 480)">
+      <rect x="0" y="0" width="720" height="100" fill="#ecfdf5" stroke="#10b981" stroke-width="2" rx="8"/>
+      <text x="360" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#059669" text-anchor="middle">Forebyggende Tiltak og Beste Praksis</text>
+      <text x="20" y="45" font-family="Arial, sans-serif" font-size="11" fill="#047857">• Implementer robuste internkontroller og fire-øyne-prinsipp for alle kritiske prosesser</text>
+      <text x="20" y="60" font-family="Arial, sans-serif" font-size="11" fill="#047857">• Invester i kompetanseutvikling og kontinuerlig opplæring av personale</text>
+      <text x="20" y="75" font-family="Arial, sans-serif" font-size="11" fill="#047857">• Start årsoppgavearbeidet tidlig og alloker tilstrekkelige ressurser</text>
+      <text x="20" y="90" font-family="Arial, sans-serif" font-size="11" fill="#047857">• Bruk teknologi for å automatisere rutineoppgaver og redusere manuell feilrisiko</text>
+    </g>
+    
+  </g>
+  
+</svg>

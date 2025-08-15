@@ -1,0 +1,199 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+    Regnskapsføring av Skjermingsfordel
+  </text>
+  
+  <!-- Main accounting flow -->
+  <g transform="translate(50, 80)">
+    <!-- Annual accrual box -->
+    <rect x="0" y="0" width="200" height="120" fill="#e8f5e8" stroke="#28a745" stroke-width="2" rx="10"/>
+    <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#155724">
+      Årlig Opptjening
+    </text>
+    <text x="100" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#155724">
+      Skjermingsfradrag
+    </text>
+    <text x="100" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#155724">
+      Grunnlag × Skjermingsrente
+    </text>
+    <text x="100" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#155724">
+      × (Eierperiode/365)
+    </text>
+    <text x="100" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#155724">
+      (Markedsbasert beregning)
+    </text>
+    
+    <!-- Arrows -->
+    <defs>
+      <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+        <polygon points="0 0, 10 3.5, 0 7" fill="#6c757d"/>
+      </marker>
+    </defs>
+    
+    <!-- Arrow to debit -->
+    <line x1="200" y1="60" x2="280" y2="60" stroke="#6c757d" stroke-width="2" marker-end="url(#arrowhead)"/>
+    
+    <!-- Debit entry -->
+    <rect x="300" y="0" width="200" height="120" fill="#fff3cd" stroke="#856404" stroke-width="2" rx="10"/>
+    <text x="400" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#856404">
+      DEBET
+    </text>
+    <text x="400" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#856404">
+      Utsatt Skattefordel
+    </text>
+    <text x="400" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#856404">
+      (Skjermingsfradrag)
+    </text>
+    <text x="400" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#856404">
+      Aktiveres i balansen
+    </text>
+    <text x="400" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#856404">
+      Verdsettelse: 80-95%
+    </text>
+    
+    <!-- Arrow to credit -->
+    <line x1="500" y1="60" x2="580" y2="60" stroke="#6c757d" stroke-width="2" marker-end="url(#arrowhead)"/>
+    
+    <!-- Credit entry -->
+    <rect x="600" y="0" width="200" height="120" fill="#d1ecf1" stroke="#0c5460" stroke-width="2" rx="10"/>
+    <text x="700" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0c5460">
+      KREDIT
+    </text>
+    <text x="700" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#0c5460">
+      Reduksjon av
+    </text>
+    <text x="700" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#0c5460">
+      Skattekostnad
+    </text>
+    <text x="700" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#0c5460">
+      Reduserer periodens
+    </text>
+    <text x="700" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#0c5460">
+      skattebelastning
+    </text>
+  </g>
+  
+  <!-- Annual adjustment section -->
+  <g transform="translate(50, 220)">
+    <text x="375" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#495057">
+      Årlig Justering (Skjermingsrente-endringer)
+    </text>
+    
+    <!-- Adjustment process -->
+    <rect x="0" y="20" width="180" height="80" fill="#f8d7da" stroke="#721c24" stroke-width="2" rx="10"/>
+    <text x="90" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#721c24">
+      Ny Skjermingsrente
+    </text>
+    <text x="90" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#721c24">
+      Reberegning av
+    </text>
+    <text x="90" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#721c24">
+      skattefordel
+    </text>
+    
+    <!-- Arrow -->
+    <line x1="180" y1="60" x2="220" y2="60" stroke="#6c757d" stroke-width="2" marker-end="url(#arrowhead)"/>
+    
+    <!-- Adjustment entry -->
+    <rect x="240" y="20" width="320" height="80" fill="#e2e3e5" stroke="#495057" stroke-width="2" rx="10"/>
+    <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
+      DEBET/KREDIT: Utsatt Skattefordel (justeringer)
+    </text>
+    <text x="400" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
+      KREDIT/DEBET: Skattekostnad
+    </text>
+    <text x="400" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      Avhenger av om skjermingsrente øker eller reduseres
+    </text>
+    
+    <!-- Arrow -->
+    <line x1="560" y1="60" x2="600" y2="60" stroke="#6c757d" stroke-width="2" marker-end="url(#arrowhead)"/>
+    
+    <!-- Result -->
+    <rect x="620" y="20" width="130" height="80" fill="#d4edda" stroke="#155724" stroke-width="2" rx="10"/>
+    <text x="685" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#155724">
+      Oppdatert
+    </text>
+    <text x="685" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#155724">
+      Balanse-
+    </text>
+    <text x="685" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#155724">
+      verdi
+    </text>
+  </g>
+  
+  <!-- Valuation parameters -->
+  <g transform="translate(50, 340)">
+    <text x="375" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#495057">
+      Verdsettelsesparametere
+    </text>
+    
+    <!-- Parameter boxes -->
+    <rect x="0" y="20" width="240" height="100" fill="#fff3cd" stroke="#856404" stroke-width="2" rx="10"/>
+    <text x="120" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#856404">
+      Sannsynlighet for Utnyttelse
+    </text>
+    <text x="120" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#856404">
+      Konservativ tilnærming
+    </text>
+    <text x="120" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#856404">
+      80-95%
+    </text>
+    <text x="120" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#856404">
+      Avhenger av investeringsstrategi
+    </text>
+    
+    <rect x="260" y="20" width="240" height="100" fill="#d1ecf1" stroke="#0c5460" stroke-width="2" rx="10"/>
+    <text x="380" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#0c5460">
+      Tidshoriont
+    </text>
+    <text x="380" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#0c5460">
+      Forventet realiseringsperiode
+    </text>
+    <text x="380" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0c5460">
+      3-10 år
+    </text>
+    <text x="380" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#0c5460">
+      Basert på utbyttepolitikk
+    </text>
+    
+    <rect x="520" y="20" width="240" height="100" fill="#f8d7da" stroke="#721c24" stroke-width="2" rx="10"/>
+    <text x="640" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#721c24">
+      Diskonteringsrente
+    </text>
+    <text x="640" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#721c24">
+      Risikojustert avkastningskrav
+    </text>
+    <text x="640" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#721c24">
+      Skjermingsrente + 2-4%
+    </text>
+    <text x="640" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#721c24">
+      Risikopremie for usikkerhet
+    </text>
+  </g>
+  
+  <!-- Formula box -->
+  <g transform="translate(50, 470)">
+    <rect x="0" y="0" width="700" height="80" fill="#e9ecef" stroke="#6c757d" stroke-width="2" rx="10"/>
+    <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#495057">
+      Nåverdi av Skjermingsfordel
+    </text>
+    <text x="350" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+      Verdsettelse = Skjermingsbeløp × Sannsynlighet × Diskonteringsfaktor
+    </text>
+    <text x="350" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+      = Skjermingsbeløp × (80-95%) × [1 / (1 + Diskonteringsrente)^År til utnyttelse]
+    </text>
+  </g>
+  
+  <!-- Key considerations -->
+  <g transform="translate(50, 570)">
+    <text x="375" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#6c757d">
+      Viktige Hensyn: IFRS/NGAAP Compliance • Regelmessig Revaluering • Sensitivitetsanalyse • Noteopplysninger
+    </text>
+  </g>
+</svg>

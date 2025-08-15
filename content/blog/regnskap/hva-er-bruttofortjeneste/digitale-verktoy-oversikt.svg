@@ -1,0 +1,258 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="systemGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0D47A1;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="biGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1B5E20;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="integrationGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF9800;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#E65100;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="cloudGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#9C27B0;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4A148C;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#333">
+    Digitale Verktøy for Bruttofortjenesteanalyse
+  </text>
+  
+  <!-- Accounting Systems Section -->
+  <g transform="translate(50, 80)">
+    <rect x="0" y="0" width="340" height="200" rx="10" fill="url(#systemGradient)" opacity="0.9"/>
+    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      Regnskapssystemer
+    </text>
+    <text x="170" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+      Moderne regnskapsløsninger
+    </text>
+    
+    <!-- System features grid -->
+    <g transform="translate(20, 65)">
+      <!-- Automatic Calculation -->
+      <rect x="0" y="0" width="140" height="60" rx="5" fill="white" opacity="0.2"/>
+      <text x="70" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        Automatisk beregning
+      </text>
+      <text x="10" y="35" font-family="Arial, sans-serif" font-size="11" fill="white">• Marginer per produkt</text>
+      <text x="10" y="50" font-family="Arial, sans-serif" font-size="11" fill="white">• Kunde-lønnsomhet</text>
+      
+      <!-- Real-time Reporting -->
+      <rect x="160" y="0" width="140" height="60" rx="5" fill="white" opacity="0.2"/>
+      <text x="230" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        Sanntidsrapportering
+      </text>
+      <text x="170" y="35" font-family="Arial, sans-serif" font-size="11" fill="white">• Live bruttofortjeneste</text>
+      <text x="170" y="50" font-family="Arial, sans-serif" font-size="11" fill="white">• Øyeblikkelig innsikt</text>
+      
+      <!-- Budget Comparison -->
+      <rect x="0" y="75" width="140" height="60" rx="5" fill="white" opacity="0.2"/>
+      <text x="70" y="93" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        Budsjett vs. faktisk
+      </text>
+      <text x="10" y="110" font-family="Arial, sans-serif" font-size="11" fill="white">• Avviksanalyse</text>
+      <text x="10" y="125" font-family="Arial, sans-serif" font-size="11" fill="white">• Prognoser</text>
+      
+      <!-- Trend Analysis -->
+      <rect x="160" y="75" width="140" height="60" rx="5" fill="white" opacity="0.2"/>
+      <text x="230" y="93" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        Trendanalyse
+      </text>
+      <text x="170" y="110" font-family="Arial, sans-serif" font-size="11" fill="white">• Historiske data</text>
+      <text x="170" y="125" font-family="Arial, sans-serif" font-size="11" fill="white">• Sesongmønstre</text>
+    </g>
+  </g>
+  
+  <!-- Business Intelligence Section -->
+  <g transform="translate(410, 80)">
+    <rect x="0" y="0" width="340" height="200" rx="10" fill="url(#biGradient)" opacity="0.9"/>
+    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      Business Intelligence
+    </text>
+    <text x="170" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+      Avanserte analyseløsninger
+    </text>
+    
+    <!-- BI features grid -->
+    <g transform="translate(20, 65)">
+      <!-- Multidimensional Analysis -->
+      <rect x="0" y="0" width="140" height="60" rx="5" fill="white" opacity="0.2"/>
+      <text x="70" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        Multidimensjonal analyse
+      </text>
+      <text x="10" y="35" font-family="Arial, sans-serif" font-size="11" fill="white">• Produkt, kunde, region</text>
+      <text x="10" y="50" font-family="Arial, sans-serif" font-size="11" fill="white">• Tidsperioder</text>
+      
+      <!-- Predictive Analytics -->
+      <rect x="160" y="0" width="140" height="60" rx="5" fill="white" opacity="0.2"/>
+      <text x="230" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        Prediktiv analyse
+      </text>
+      <text x="170" y="35" font-family="Arial, sans-serif" font-size="11" fill="white">• Fremtidig utvikling</text>
+      <text x="170" y="50" font-family="Arial, sans-serif" font-size="11" fill="white">• Risikoindikatorer</text>
+      
+      <!-- Automated Alerts -->
+      <rect x="0" y="75" width="140" height="60" rx="5" fill="white" opacity="0.2"/>
+      <text x="70" y="93" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        Automatiske varsler
+      </text>
+      <text x="10" y="110" font-family="Arial, sans-serif" font-size="11" fill="white">• Avvik fra mål</text>
+      <text x="10" y="125" font-family="Arial, sans-serif" font-size="11" fill="white">• Kritiske endringer</text>
+      
+      <!-- System Integration -->
+      <rect x="160" y="75" width="140" height="60" rx="5" fill="white" opacity="0.2"/>
+      <text x="230" y="93" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        Systemintegrasjon
+      </text>
+      <text x="170" y="110" font-family="Arial, sans-serif" font-size="11" fill="white">• ERP-kobling</text>
+      <text x="170" y="125" font-family="Arial, sans-serif" font-size="11" fill="white">• CRM-data</text>
+    </g>
+  </g>
+  
+  <!-- Integration Architecture -->
+  <g transform="translate(50, 300)">
+    <rect x="0" y="0" width="700" height="150" rx="10" fill="url(#integrationGradient)" opacity="0.9"/>
+    <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      Systemintegrasjon og Dataflyt
+    </text>
+    
+    <!-- Data flow diagram -->
+    <g transform="translate(50, 45)">
+      <!-- Source Systems -->
+      <rect x="0" y="0" width="100" height="40" rx="5" fill="white" opacity="0.3"/>
+      <text x="50" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        Salgsdata
+      </text>
+      
+      <rect x="0" y="50" width="100" height="40" rx="5" fill="white" opacity="0.3"/>
+      <text x="50" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        Innkjøpsdata
+      </text>
+      
+      <!-- Arrows -->
+      <polygon points="110,20 140,15 140,25" fill="white"/>
+      <polygon points="110,70 140,65 140,75" fill="white"/>
+      
+      <!-- Central Processing -->
+      <rect x="150" y="25" width="120" height="40" rx="5" fill="white" opacity="0.5"/>
+      <text x="210" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        Regnskapssystem
+      </text>
+      
+      <!-- Arrow to BI -->
+      <polygon points="280,45 310,40 310,50" fill="white"/>
+      
+      <!-- BI System -->
+      <rect x="320" y="25" width="120" height="40" rx="5" fill="white" opacity="0.5"/>
+      <text x="380" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        BI-plattform
+      </text>
+      
+      <!-- Arrow to outputs -->
+      <polygon points="450,45 480,40 480,50" fill="white"/>
+      
+      <!-- Output Systems -->
+      <rect x="490" y="0" width="100" height="40" rx="5" fill="white" opacity="0.3"/>
+      <text x="540" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        Dashboards
+      </text>
+      
+      <rect x="490" y="50" width="100" height="40" rx="5" fill="white" opacity="0.3"/>
+      <text x="540" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        Rapporter
+      </text>
+    </g>
+  </g>
+  
+  <!-- Popular Tools Section -->
+  <g transform="translate(50, 470)">
+    <text x="0" y="20" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333">
+      Populære Verktøy og Løsninger
+    </text>
+    
+    <!-- Tools grid -->
+    <g transform="translate(0, 35)">
+      <!-- ERP Systems -->
+      <rect x="0" y="0" width="160" height="80" rx="5" fill="#e3f2fd" stroke="#2196F3"/>
+      <text x="80" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1976D2">
+        ERP-systemer
+      </text>
+      <text x="10" y="40" font-family="Arial, sans-serif" font-size="11" fill="#333">
+        • SAP Business One
+      </text>
+      <text x="10" y="55" font-family="Arial, sans-serif" font-size="11" fill="#333">
+        • Microsoft Dynamics
+      </text>
+      <text x="10" y="70" font-family="Arial, sans-serif" font-size="11" fill="#333">
+        • Visma Business
+      </text>
+      
+      <!-- Cloud Accounting -->
+      <rect x="180" y="0" width="160" height="80" rx="5" fill="#e8f5e8" stroke="#4CAF50"/>
+      <text x="260" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#388E3C">
+        Sky-regnskap
+      </text>
+      <text x="190" y="40" font-family="Arial, sans-serif" font-size="11" fill="#333">
+        • Fiken
+      </text>
+      <text x="190" y="55" font-family="Arial, sans-serif" font-size="11" fill="#333">
+        • PowerOffice
+      </text>
+      <text x="190" y="70" font-family="Arial, sans-serif" font-size="11" fill="#333">
+        • Tripletex
+      </text>
+      
+      <!-- BI Tools -->
+      <rect x="360" y="0" width="160" height="80" rx="5" fill="#fff3e0" stroke="#FF9800"/>
+      <text x="440" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#F57C00">
+        BI-verktøy
+      </text>
+      <text x="370" y="40" font-family="Arial, sans-serif" font-size="11" fill="#333">
+        • Power BI
+      </text>
+      <text x="370" y="55" font-family="Arial, sans-serif" font-size="11" fill="#333">
+        • Tableau
+      </text>
+      <text x="370" y="70" font-family="Arial, sans-serif" font-size="11" fill="#333">
+        • QlikView
+      </text>
+      
+      <!-- Specialized Tools -->
+      <rect x="540" y="0" width="160" height="80" rx="5" fill="#f3e5f5" stroke="#9C27B0"/>
+      <text x="620" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#7B1FA2">
+        Spesialiserte verktøy
+      </text>
+      <text x="550" y="40" font-family="Arial, sans-serif" font-size="11" fill="#333">
+        • Profitability Analytics
+      </text>
+      <text x="550" y="55" font-family="Arial, sans-serif" font-size="11" fill="#333">
+        • Margin Analysis Tools
+      </text>
+      <text x="550" y="70" font-family="Arial, sans-serif" font-size="11" fill="#333">
+        • Cost Management
+      </text>
+    </g>
+  </g>
+  
+  <!-- Implementation Tips -->
+  <g transform="translate(50, 570)">
+    <text x="0" y="0" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">
+      💡 Implementeringstips:
+    </text>
+    <text x="150" y="0" font-family="Arial, sans-serif" font-size="12" fill="#555">
+      Start med grunnleggende regnskapssystem, utvid gradvis med BI-funksjoner
+    </text>
+    <text x="500" y="0" font-family="Arial, sans-serif" font-size="12" fill="#555">
+      Sikre datakvalitet før implementering av avanserte analyser
+    </text>
+  </g>
+</svg>

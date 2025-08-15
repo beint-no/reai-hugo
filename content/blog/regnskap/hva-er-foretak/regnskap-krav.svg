@@ -1,0 +1,75 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e40af;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="url(#bgGradient)"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#1e293b">Regnskapskrav for Ulike Foretaksformer</text>
+  <text x="400" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#64748b">Oversikt over bokføringsplikt, regnskapsstandard og revisjonsplikt</text>
+  
+  <!-- Main container -->
+  <rect x="50" y="100" width="700" height="450" rx="12" fill="#ffffff" stroke="#e2e8f0" stroke-width="2"/>
+  
+  <!-- Header -->
+  <rect x="50" y="100" width="700" height="50" rx="12" fill="url(#headerGradient)"/>
+  <text x="400" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">REGNSKAPSMESSIGE FORHOLD</text>
+  
+  <!-- Bokføringsplikt section -->
+  <rect x="80" y="170" width="320" height="160" rx="8" fill="#10b981" opacity="0.1" stroke="#10b981" stroke-width="2"/>
+  <text x="240" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#059669">BOKFØRINGSPLIKT</text>
+  <text x="90" y="210" font-family="Arial, sans-serif" font-size="12" fill="#047857">Alle registrerte foretak må:</text>
+  <text x="90" y="230" font-family="Arial, sans-serif" font-size="11" fill="#065f46">• Føre løpende bokføring</text>
+  <text x="90" y="245" font-family="Arial, sans-serif" font-size="11" fill="#065f46">• Oppbevare bilag og dokumentasjon</text>
+  <text x="90" y="260" font-family="Arial, sans-serif" font-size="11" fill="#065f46">• Utarbeide årlig årsregnskap</text>
+  <text x="90" y="275" font-family="Arial, sans-serif" font-size="11" fill="#065f46">• Oppbevaringsplikt i 5 år</text>
+  
+  <text x="90" y="300" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#047857">Gjelder for:</text>
+  <text x="90" y="315" font-family="Arial, sans-serif" font-size="11" fill="#065f46">✓ Alle foretaksformer i Enhetsregisteret</text>
+  
+  <!-- Regnskapsstandard section -->
+  <rect x="420" y="170" width="320" height="160" rx="8" fill="#f59e0b" opacity="0.1" stroke="#f59e0b" stroke-width="2"/>
+  <text x="580" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#d97706">REGNSKAPSSTANDARD</text>
+  
+  <text x="430" y="215" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#b45309">Små foretak (RSFF):</text>
+  <text x="430" y="230" font-family="Arial, sans-serif" font-size="11" fill="#92400e">• Enkeltpersonforetak</text>
+  <text x="430" y="245" font-family="Arial, sans-serif" font-size="11" fill="#92400e">• Mindre aksjeselskaper</text>
+  
+  <text x="430" y="270" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#b45309">Store foretak (NRS):</text>
+  <text x="430" y="285" font-family="Arial, sans-serif" font-size="11" fill="#92400e">• Større aksjeselskaper</text>
+  <text x="430" y="300" font-family="Arial, sans-serif" font-size="11" fill="#92400e">• Allmennaksjeselskaper</text>
+  
+  <text x="430" y="320" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#b45309">IFRS: Børsnoterte selskaper</text>
+  
+  <!-- Revisjonsplikt section -->
+  <rect x="80" y="350" width="660" height="120" rx="8" fill="#8b5cf6" opacity="0.1" stroke="#8b5cf6" stroke-width="2"/>
+  <text x="410" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#7c3aed">REVISJONSPLIKT</text>
+  
+  <!-- Small companies (exempt) -->
+  <rect x="100" y="385" width="280" height="70" rx="6" fill="#10b981" opacity="0.2"/>
+  <text x="240" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#059669">SMÅ FORETAK (FRITATT)</text>
+  <text x="110" y="420" font-family="Arial, sans-serif" font-size="10" fill="#047857">• Salgsinntekt &lt; 70 mill. kr</text>
+  <text x="110" y="435" font-family="Arial, sans-serif" font-size="10" fill="#047857">• Balansesum &lt; 35 mill. kr</text>
+  <text x="110" y="450" font-family="Arial, sans-serif" font-size="10" fill="#047857">• Gjennomsnitt &lt; 50 ansatte</text>
+  
+  <!-- Large companies (required) -->
+  <rect x="400" y="385" width="280" height="70" rx="6" fill="#ef4444" opacity="0.2"/>
+  <text x="540" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#dc2626">STORE FORETAK (PLIKTIGE)</text>
+  <text x="410" y="420" font-family="Arial, sans-serif" font-size="10" fill="#b91c1c">• Overstiger grenser for små foretak</text>
+  <text x="410" y="435" font-family="Arial, sans-serif" font-size="10" fill="#b91c1c">• Allmennaksjeselskaper</text>
+  <text x="410" y="450" font-family="Arial, sans-serif" font-size="10" fill="#b91c1c">• Særlige samfunnsinteresser</text>
+  
+  <!-- Bottom section -->
+  <rect x="100" y="490" width="600" height="40" rx="6" fill="#06b6d4" opacity="0.9" stroke="#0891b2" stroke-width="2"/>
+  <text x="400" y="505" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">GOD REGNSKAPSSKIKK</text>
+  <text x="400" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Grunnleggende prinsipp som gjelder for alle foretaksformer</text>
+</svg>

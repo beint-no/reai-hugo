@@ -1,0 +1,135 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="400" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+    Fysisk Person vs. Juridisk Person
+  </text>
+  
+  <!-- Physical Person Section -->
+  <g transform="translate(50, 70)">
+    <rect x="0" y="0" width="300" height="280" rx="10" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+    
+    <!-- Header -->
+    <rect x="0" y="0" width="300" height="50" rx="10" fill="#c0392b"/>
+    <text x="150" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      FYSISK PERSON
+    </text>
+    
+    <!-- Icon -->
+    <circle cx="150" cy="90" r="25" fill="white" stroke="#c0392b" stroke-width="2"/>
+    <circle cx="145" cy="85" r="8" fill="#c0392b"/>
+    <circle cx="155" cy="85" r="8" fill="#c0392b"/>
+    <path d="M 135 95 Q 150 105 165 95" stroke="#c0392b" stroke-width="2" fill="none"/>
+    
+    <!-- Characteristics -->
+    <g transform="translate(20, 130)">
+      <text x="0" y="0" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+        Kjennetegn:
+      </text>
+      
+      <g transform="translate(0, 25)">
+        <circle cx="5" cy="0" r="3" fill="white"/>
+        <text x="15" y="5" font-family="Arial, sans-serif" font-size="12" fill="white">
+          Menneske av kjøtt og blod
+        </text>
+      </g>
+      
+      <g transform="translate(0, 45)">
+        <circle cx="5" cy="0" r="3" fill="white"/>
+        <text x="15" y="5" font-family="Arial, sans-serif" font-size="12" fill="white">
+          Naturlige rettigheter
+        </text>
+      </g>
+      
+      <g transform="translate(0, 65)">
+        <circle cx="5" cy="0" r="3" fill="white"/>
+        <text x="15" y="5" font-family="Arial, sans-serif" font-size="12" fill="white">
+          Personlig ansvar
+        </text>
+      </g>
+      
+      <g transform="translate(0, 85)">
+        <circle cx="5" cy="0" r="3" fill="white"/>
+        <text x="15" y="5" font-family="Arial, sans-serif" font-size="12" fill="white">
+          Begrenset levetid
+        </text>
+      </g>
+      
+      <g transform="translate(0, 105)">
+        <circle cx="5" cy="0" r="3" fill="white"/>
+        <text x="15" y="5" font-family="Arial, sans-serif" font-size="12" fill="white">
+          Personinntektsskatt
+        </text>
+      </g>
+    </g>
+  </g>
+  
+  <!-- Legal Person Section -->
+  <g transform="translate(450, 70)">
+    <rect x="0" y="0" width="300" height="280" rx="10" fill="#3498db" stroke="#2980b9" stroke-width="2"/>
+    
+    <!-- Header -->
+    <rect x="0" y="0" width="300" height="50" rx="10" fill="#2980b9"/>
+    <text x="150" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      JURIDISK PERSON
+    </text>
+    
+    <!-- Icon -->
+    <rect x="125" y="70" width="50" height="40" rx="5" fill="white" stroke="#2980b9" stroke-width="2"/>
+    <text x="150" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2980b9">
+      AS
+    </text>
+    
+    <!-- Characteristics -->
+    <g transform="translate(20, 130)">
+      <text x="0" y="0" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+        Kjennetegn:
+      </text>
+      
+      <g transform="translate(0, 25)">
+        <circle cx="5" cy="0" r="3" fill="white"/>
+        <text x="15" y="5" font-family="Arial, sans-serif" font-size="12" fill="white">
+          Juridisk konstruksjon
+        </text>
+      </g>
+      
+      <g transform="translate(0, 45)">
+        <circle cx="5" cy="0" r="3" fill="white"/>
+        <text x="15" y="5" font-family="Arial, sans-serif" font-size="12" fill="white">
+          Tildelte rettigheter
+        </text>
+      </g>
+      
+      <g transform="translate(0, 65)">
+        <circle cx="5" cy="0" r="3" fill="white"/>
+        <text x="15" y="5" font-family="Arial, sans-serif" font-size="12" fill="white">
+          Begrenset ansvar
+        </text>
+      </g>
+      
+      <g transform="translate(0, 85)">
+        <circle cx="5" cy="0" r="3" fill="white"/>
+        <text x="15" y="5" font-family="Arial, sans-serif" font-size="12" fill="white">
+          Kontinuitet
+        </text>
+      </g>
+      
+      <g transform="translate(0, 105)">
+        <circle cx="5" cy="0" r="3" fill="white"/>
+        <text x="15" y="5" font-family="Arial, sans-serif" font-size="12" fill="white">
+          Selskapsskatt
+        </text>
+      </g>
+    </g>
+  </g>
+  
+  <!-- VS indicator -->
+  <g transform="translate(375, 200)">
+    <circle cx="25" cy="0" r="20" fill="#e67e22" stroke="#d35400" stroke-width="2"/>
+    <text x="25" y="7" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      VS
+    </text>
+  </g>
+</svg>

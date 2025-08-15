@@ -1,0 +1,147 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+    Kapitalstruktur Optimalisering
+  </text>
+  
+  <!-- Main container -->
+  <rect x="50" y="70" width="700" height="500" fill="white" stroke="#e1e8ed" stroke-width="2" rx="10"/>
+  
+  <!-- Capital structure diagram -->
+  <text x="400" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#495057">
+    Optimal Kapitalstruktur
+  </text>
+  
+  <!-- Total Capital circle -->
+  <circle cx="400" cy="200" r="80" fill="#3498db" stroke="#2980b9" stroke-width="3"/>
+  <text x="400" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    TOTAL
+  </text>
+  <text x="400" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    KAPITAL
+  </text>
+  
+  <!-- Debt section -->
+  <rect x="150" y="320" width="200" height="120" fill="#ffebee" stroke="#e74c3c" stroke-width="2" rx="5"/>
+  <text x="250" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#e74c3c">
+    GJELD
+  </text>
+  <text x="160" y="370" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+    Fordeler:
+  </text>
+  <text x="170" y="385" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    • Skattefordel (rentekostnader)
+  </text>
+  <text x="170" y="400" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    • Finansiell leverage
+  </text>
+  <text x="170" y="415" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    • Bevart eierskap
+  </text>
+  <text x="170" y="430" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    • Lavere kapitalkostnad
+  </text>
+  
+  <!-- Equity section -->
+  <rect x="450" y="320" width="200" height="120" fill="#e8f5e8" stroke="#27ae60" stroke-width="2" rx="5"/>
+  <text x="550" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#27ae60">
+    EGENKAPITAL
+  </text>
+  <text x="460" y="370" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+    Fordeler:
+  </text>
+  <text x="470" y="385" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    • Ingen rentekostnader
+  </text>
+  <text x="470" y="400" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    • Finansiell fleksibilitet
+  </text>
+  <text x="470" y="415" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    • Lavere finansiell risiko
+  </text>
+  <text x="470" y="430" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    • Ingen tilbakebetalingsplikt
+  </text>
+  
+  <!-- Risk vs Return graph -->
+  <rect x="100" y="470" width="600" height="80" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="5"/>
+  <text x="400" y="490" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#495057">
+    Risiko vs. Avkastning Trade-off
+  </text>
+  
+  <!-- Risk scale -->
+  <line x1="150" y1="520" x2="650" y2="520" stroke="#666" stroke-width="2"/>
+  <text x="150" y="540" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#27ae60">
+    Lav Risiko
+  </text>
+  <text x="400" y="540" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#f39c12">
+    OPTIMAL PUNKT
+  </text>
+  <text x="650" y="540" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#e74c3c">
+    Høy Risiko
+  </text>
+  
+  <!-- Optimal point marker -->
+  <circle cx="400" cy="520" r="6" fill="#f39c12"/>
+  
+  <!-- Connecting lines -->
+  <line x1="320" y1="200" x2="250" y2="320" stroke="#e74c3c" stroke-width="2"/>
+  <line x1="480" y1="200" x2="550" y2="320" stroke="#27ae60" stroke-width="2"/>
+  
+  <!-- Arrows -->
+  <path d="M 250 310 L 250 320" stroke="#e74c3c" stroke-width="2" fill="none" marker-end="url(#arrowhead1)"/>
+  <path d="M 550 310 L 550 320" stroke="#27ae60" stroke-width="2" fill="none" marker-end="url(#arrowhead2)"/>
+  
+  <!-- Key factors affecting optimal structure -->
+  <text x="80" y="120" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#495057">
+    Faktorer som påvirker optimal struktur:
+  </text>
+  <text x="90" y="140" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Bransje og forretningsrisiko
+  </text>
+  <text x="90" y="155" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Skatteposisjon
+  </text>
+  <text x="90" y="170" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Vekstmuligheter
+  </text>
+  <text x="90" y="185" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Kontantstrøm stabilitet
+  </text>
+  <text x="90" y="200" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Tilgang til kapitalmarkeder
+  </text>
+  
+  <!-- Warning signs -->
+  <text x="520" y="120" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#e74c3c">
+    Advarselssignaler:
+  </text>
+  <text x="530" y="140" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Høy gjeldsgrad (&gt;70%)
+  </text>
+  <text x="530" y="155" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Lav rentedekningsgrad (&lt;2x)
+  </text>
+  <text x="530" y="170" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Volatile kontantstrømmer
+  </text>
+  <text x="530" y="185" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Brudd på lånevilkår
+  </text>
+  <text x="530" y="200" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Refinansieringsutfordringer
+  </text>
+  
+  <!-- Arrow marker definitions -->
+  <defs>
+    <marker id="arrowhead1" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#e74c3c"/>
+    </marker>
+    <marker id="arrowhead2" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#27ae60"/>
+    </marker>
+  </defs>
+</svg>

@@ -1,0 +1,123 @@
+<svg width="700" height="500" viewBox="0 0 700 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#2c5aa0;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e3c72;stop-opacity:1" />
+    </linearGradient>
+    <filter id="cardShadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="2" dy="2" stdDeviation="2" flood-color="#000" flood-opacity="0.2"/>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="700" height="500" fill="#f8f9fa"/>
+  
+  <!-- Header -->
+  <rect width="700" height="80" fill="url(#headerGrad)"/>
+  <text x="350" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
+    Regulatoriske Krav for 2FA
+  </text>
+  <text x="350" y="55" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#e0e9ff">
+    Compliance og Juridiske Forpliktelser
+  </text>
+  
+  <!-- GDPR Card -->
+  <g transform="translate(50, 110)">
+    <rect width="180" height="160" rx="10" fill="white" filter="url(#cardShadow)"/>
+    <rect width="180" height="40" rx="10" fill="#4285f4"/>
+    <rect width="180" height="30" fill="#4285f4"/>
+    <text x="90" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">GDPR</text>
+    
+    <text x="20" y="70" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c5aa0">Krav:</text>
+    <text x="20" y="85" font-family="Arial, sans-serif" font-size="10" fill="#333">• Appropriate technical measures</text>
+    <text x="20" y="100" font-family="Arial, sans-serif" font-size="10" fill="#333">• Data protection by design</text>
+    <text x="20" y="115" font-family="Arial, sans-serif" font-size="10" fill="#333">• Breach notification (72t)</text>
+    
+    <text x="20" y="135" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#d32f2f">Straff:</text>
+    <text x="20" y="150" font-family="Arial, sans-serif" font-size="10" fill="#d32f2f">Opptil 4% av årlig omsetning</text>
+  </g>
+  
+  <!-- Bokføringsloven Card -->
+  <g transform="translate(260, 110)">
+    <rect width="180" height="160" rx="10" fill="white" filter="url(#cardShadow)"/>
+    <rect width="180" height="40" rx="10" fill="#ff9800"/>
+    <rect width="180" height="30" fill="#ff9800"/>
+    <text x="90" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">Bokføringsloven</text>
+    
+    <text x="20" y="70" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e65100">Krav:</text>
+    <text x="20" y="85" font-family="Arial, sans-serif" font-size="10" fill="#333">• Sikker oppbevaring</text>
+    <text x="20" y="100" font-family="Arial, sans-serif" font-size="10" fill="#333">• 5 års lagringsplikt</text>
+    <text x="20" y="115" font-family="Arial, sans-serif" font-size="10" fill="#333">• Sporbarhet og integritet</text>
+    
+    <text x="20" y="135" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#d32f2f">Straff:</text>
+    <text x="20" y="150" font-family="Arial, sans-serif" font-size="10" fill="#d32f2f">Bøter og juridisk ansvar</text>
+  </g>
+  
+  <!-- Regnskapsloven Card -->
+  <g transform="translate(470, 110)">
+    <rect width="180" height="160" rx="10" fill="white" filter="url(#cardShadow)"/>
+    <rect width="180" height="40" rx="10" fill="#4caf50"/>
+    <rect width="180" height="30" fill="#4caf50"/>
+    <text x="90" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">Regnskapsloven</text>
+    
+    <text x="20" y="70" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2e7d32">Krav:</text>
+    <text x="20" y="85" font-family="Arial, sans-serif" font-size="10" fill="#333">• Dokumentasjonssikkerhet</text>
+    <text x="20" y="100" font-family="Arial, sans-serif" font-size="10" fill="#333">• Internkontroll</text>
+    <text x="20" y="115" font-family="Arial, sans-serif" font-size="10" fill="#333">• Revisjonsreadiness</text>
+    
+    <text x="20" y="135" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#d32f2f">Straff:</text>
+    <text x="20" y="150" font-family="Arial, sans-serif" font-size="10" fill="#d32f2f">Styreansvar og sanksjoner</text>
+  </g>
+  
+  <!-- Compliance Benefits -->
+  <g transform="translate(50, 300)">
+    <rect width="600" height="120" rx="10" fill="white" filter="url(#cardShadow)"/>
+    <rect width="600" height="35" rx="10" fill="#6366f1"/>
+    <rect width="600" height="25" fill="#6366f1"/>
+    <text x="300" y="22" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+      2FA Compliance-fordeler
+    </text>
+    
+    <!-- Benefits grid -->
+    <g transform="translate(30, 50)">
+      <circle cx="15" cy="15" r="8" fill="#4caf50"/>
+      <text x="15" y="20" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">✓</text>
+      <text x="35" y="20" font-family="Arial, sans-serif" font-size="11" fill="#333">Oppfyller "appropriate technical measures" krav</text>
+    </g>
+    
+    <g transform="translate(320, 50)">
+      <circle cx="15" cy="15" r="8" fill="#4caf50"/>
+      <text x="15" y="20" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">✓</text>
+      <text x="35" y="20" font-family="Arial, sans-serif" font-size="11" fill="#333">Reduserer risiko for databrud og bøter</text>
+    </g>
+    
+    <g transform="translate(30, 75)">
+      <circle cx="15" cy="15" r="8" fill="#4caf50"/>
+      <text x="15" y="20" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">✓</text>
+      <text x="35" y="20" font-family="Arial, sans-serif" font-size="11" fill="#333">Styrker internkontroll og revisjon</text>
+    </g>
+    
+    <g transform="translate(320, 75)">
+      <circle cx="15" cy="15" r="8" fill="#4caf50"/>
+      <text x="15" y="20" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">✓</text>
+      <text x="35" y="20" font-family="Arial, sans-serif" font-size="11" fill="#333">Øker kundetillit og omdømme</text>
+    </g>
+  </g>
+  
+  <!-- Bottom stats -->
+  <g transform="translate(50, 445)">
+    <text x="0" y="0" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c5aa0">Kostnad ved brudd:</text>
+    <text x="150" y="0" font-family="Arial, sans-serif" font-size="11" fill="#d32f2f">Gjennomsnitt 2.5 mill NOK</text>
+    
+    <text x="350" y="0" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c5aa0">2FA investering:</text>
+    <text x="470" y="0" font-family="Arial, sans-serif" font-size="11" fill="#4caf50">400-800k NOK (første år)</text>
+  </g>
+  
+  <g transform="translate(50, 470)">
+    <text x="0" y="0" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c5aa0">ROI:</text>
+    <text x="40" y="0" font-family="Arial, sans-serif" font-size="11" fill="#4caf50">166% over 3 år</text>
+    
+    <text x="200" y="0" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c5aa0">Risikoreduktion:</text>
+    <text x="330" y="0" font-family="Arial, sans-serif" font-size="11" fill="#4caf50">99% færre uautoriserte tilganger</text>
+  </g>
+</svg>

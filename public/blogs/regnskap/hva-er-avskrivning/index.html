@@ -1,0 +1,657 @@
+<!doctype html>
+<html lang="nb">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Hva er Avskrivning i Regnskap? | ReAI</title>
+  <meta name="description" content="Komplett regnskapssystem med faktura, lønn, bilagsføring og årsoppgjør.">
+  
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<script src="https://cdn.tailwindcss.com?plugins=typography"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        fontFamily: { sans: ['Inter','ui-sans-serif','system-ui','Arial','sans-serif'] },
+        colors: {
+          brand: { DEFAULT: '#111827' },
+          accent: { DEFAULT: '#2563eb' }
+        }
+      }
+    }
+  }
+</script>
+<style>
+   
+  header .header-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #000 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link:hover { background-position: 0; }
+  header .header-link:hover::before { width: 100%; }
+
+  footer .footer-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #ffffff 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link:hover { background-position: 0; }
+  footer .footer-link:hover::before { width: 100%; }
+</style>
+<style>
+   
+  .prose { overflow-wrap: anywhere; word-break: break-word; }
+  .prose img { max-width: 100%; height: auto; }
+  .prose table { display: block; width: 100%; overflow-x: auto; }
+  .prose pre { white-space: pre-wrap; word-break: break-word; overflow-x: auto; }
+  .prose code { word-break: break-word; }
+  .prose iframe, .prose video { max-width: 100%; width: 100%; height: auto; }
+</style>
+<style>
+   
+  button,
+  .btn,
+  a.btn,
+  .button,
+  .cta,
+  .link-button,
+   
+  a.inline-flex.rounded-md,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"] {
+    transition: transform 220ms ease, box-shadow 220ms ease, background-color 220ms ease, color 220ms ease, opacity 220ms ease;
+    will-change: transform, box-shadow;
+  }
+
+  button:hover,
+  .btn:hover,
+  a.btn:hover,
+  .button:hover,
+  .cta:hover,
+  .link-button:hover,
+  a.inline-flex.rounded-md:hover,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+
+  button:active,
+  .btn:active,
+  a.btn:active,
+  .button:active,
+  .cta:active,
+  .link-button:active,
+  a.inline-flex.rounded-md:active,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:active {
+    transform: translateY(-1px) scale(0.99);
+    box-shadow: 0 6px 12px rgba(2, 6, 23, 0.1);
+  }
+
+  button:focus-visible,
+  .btn:focus-visible,
+  a.btn:focus-visible,
+  .button:focus-visible,
+  .cta:focus-visible,
+  .link-button:focus-visible,
+  a.inline-flex.rounded-md:focus-visible,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.35), 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+</style>
+
+<link rel="icon" type="image/svg+xml" href="/images/ReAI-logo-square.svg">
+<link rel="shortcut icon" href="/images/ReAI-logo-square.svg">
+
+</head>
+<body class="min-h-dvh bg-white text-gray-900 font-sans">
+  <header class="sticky top-0 z-40 bg-white/80 backdrop-blur">
+  
+  <div class="border-b border-slate-200/70">
+    <div class="max-w-7xl mx-auto px-4">
+      <div class="h-16 flex items-center justify-between">
+        <a href="/" class="flex items-center gap-2" aria-label="ReAI">
+          <img src="/images/ReAI-logo-square.svg?v=4" alt="ReAI logo" class="h-14 w-14 rounded-md mt-5" width="56" height="56" loading="eager" decoding="async">
+        </a>
+        <nav class="hidden md:block">
+          <ul class="flex items-center gap-5 text-sm">
+            <li><a href="/courses/" class="header-link text-slate-700 hover:text-black">Gratis kurs</a></li>
+            <li><a href="/contact/" class="header-link text-slate-700 hover:text-black">Kontakt oss</a></li>
+            <li><a href="/blog/" class="header-link text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+            <li><a href="/bli-partner/" class="header-link text-slate-700 hover:text-black">Bli partner</a></li>
+            <li><a href="/fakturamal/" class="header-link text-slate-700 hover:text-black">Lag faktura</a></li>
+          </ul>
+        </nav>
+        <button id="mobileMenuBtn" aria-controls="mobileMenu" aria-expanded="false" class="md:hidden inline-flex items-center justify-center h-9 w-9 rounded-md border border-slate-300">
+          <span class="sr-only">Menu</span>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-5 w-5"><path d="M3.75 6.75h16.5v1.5H3.75zM3.75 11.25h16.5v1.5H3.75zM3.75 15.75h16.5v1.5H3.75z"/></svg>
+        </button>
+      </div>
+    </div>
+  </div>
+  
+  <nav id="mobileMenu" class="md:hidden hidden border-b border-slate-200/70 bg-white/95 backdrop-blur">
+    <div class="max-w-7xl mx-auto px-4 py-3">
+      <ul class="flex flex-col items-center gap-3 text-sm text-center">
+        <li><a href="/courses/" class="header-link block text-slate-700 hover:text-black">Gratis kurs</a></li>
+        <li><a href="/contact/" class="header-link block text-slate-700 hover:text-black">Kontakt oss</a></li>
+        <li><a href="/blog/" class="header-link block text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+        <li><a href="/bli-partner/" class="header-link block text-slate-700 hover:text-black">Bli partner</a></li>
+        <li><a href="/fakturamal/" class="header-link block text-slate-700 hover:text-black">Lag faktura</a></li>
+      </ul>
+    </div>
+  </nav>
+  <script>
+    (function() {
+      const btn = document.getElementById('mobileMenuBtn');
+      const menu = document.getElementById('mobileMenu');
+      if (!btn || !menu) return;
+      btn.addEventListener('click', function() {
+        const isHidden = menu.classList.contains('hidden');
+        menu.classList.toggle('hidden');
+        btn.setAttribute('aria-expanded', String(isHidden));
+      });
+    })();
+  </script>
+</header>
+  <main>
+    
+<section class="pt-10 md:pt-14">
+  <div class="max-w-3xl mx-auto px-4">
+    <h1 class="text-3xl font-semibold tracking-tight text-center">Hva er Avskrivning i Regnskap?</h1>
+    <p class="mt-2 text-gray-700">Avskrivning er en regnskapsmessig metode for å fordele anskaffelseskosten til anleggsmidler over deres brukstid. Dette gjenspeiler verdiforringelsen og sikrer korrekt kostnadsfordeling i regnskapet.</p>
+    <article class="prose max-w-none mt-6"><p><strong>Avskrivning</strong> er en regnskapsmessig metode for å fordele <a href="/blogs/regnskap/hva-er-anskaffelseskost" title="Hva er Anskaffelseskost? Komplett Guide til Beregning og Regnskapsføring">anskaffelseskosten</a> til <a href="/blogs/regnskap/hva-er-anleggsmidler" title="Hva er Anleggsmidler? Materielle, Immaterielle og Finansielle Eiendeler">anleggsmidler</a> over deres <strong>brukstid</strong>. Dette gjelder spesielt for <a href="/blogs/regnskap/hva-er-varige-driftsmidler" title="Hva er Varige Driftsmidler? Komplett Guide til Avskrivbare Anleggsmidler">varige driftsmidler</a> som maskiner, bygninger og <a href="/blogs/kontoplan/6010-avskrivning-pa-transportmidler-mask-og-invent" title="Konto 6010 - Avskrivning på transportmidler, maskiner og inventar">transportmidler</a>. Avskrivning gjenspeiler at eiendeler mister verdi over tid og sikrer korrekt kostnadsfordeling i <a href="/blogs/regnskap/hva-er-regnskap" title="Hva er Regnskap? En komplett guide">regnskapet</a>.</p>
+<p>Avskrivning er en sentral del av kostnadsstyring og henger nært sammen med bredere kostnadsbegreper som <a href="/blogs/regnskap/hva-er-inntakskost" title="Hva er Inntakskost og Kostpris? Komplett Guide til Kostnadsberegning">inntakskost og kostpris</a>, som omfatter alle aspekter av kostnadsberegning og -fordeling i virksomheten.</p>
+<p>Før eiendelene kan avskrives over tid, må kostnaden <strong>aktiveres</strong> i balansen i henhold til regnskapsreglene. For en dypere forståelse av aktivering, se <a href="/blogs/regnskap/hva-er-aktivering" title="Hva er Aktivering i Regnskap?">Hva er Aktivering i Regnskap?</a>.</p>
+<p><img src="hva-er-avskrivning-image.svg" alt="Illustrasjon som viser konseptet om avskrivning i regnskap"></p>
+<h2 id="hva-er-avskrivning">Hva er Avskrivning?</h2>
+<p>Avskrivning er en <strong>ikke-kontant kostnad</strong> som reduserer den bokførte verdien av et anleggsmiddel over tid. Formålet er å:</p>
+<ul>
+<li><strong>Fordele kostnader</strong> over eiendelens økonomiske levetid</li>
+<li><strong>Gjenspeile verdiforringelse</strong> på grunn av slitasje og elde</li>
+<li><strong>Sikre korrekt resultatmåling</strong> ved å matche kostnader med inntekter</li>
+<li><strong>Gi realistisk verdivurdering</strong> av <a href="/blogs/regnskap/hva-er-aktiva" title="Hva er Aktiva? Komplett Guide til Eiendeler i Balansen">aktiva</a> i balansen gjennom <a href="/blogs/regnskap/hva-er-balansebasert-verdivurdering" title="Balansebasert Verdivurdering - Metoder, Prinsipper og Praktisk Anvendelse">balansebasert verdivurdering</a></li>
+</ul>
+<h3 id="grunnleggende-prinsipper">Grunnleggende Prinsipper</h3>
+<p>Avskrivning bygger på <strong>sammenstillingsprinsippet</strong> i regnskapet:</p>
+<ul>
+<li><strong>Kostnader</strong> skal føres i samme <a href="/blogs/regnskap/hva-er-termin" title="Hva er Termin? Regnskapsperioder og Terminplanlegging">termin</a> som de tilhørende <strong>inntektene</strong></li>
+<li><strong>Anleggsmidler</strong> bidrar til inntektsgenerering over flere år</li>
+<li><strong>Anskaffelseskosten</strong> må derfor fordeles over brukstiden på terminbasis</li>
+<li><strong>Akkumulerte avskrivninger</strong> reduserer eiendelens bokførte verdi</li>
+</ul>
+<h2 id="avskrivningsmetoder">Avskrivningsmetoder</h2>
+<p>Det finnes flere metoder for å beregne avskrivninger, hver med sine fordeler og anvendelsesområder.</p>
+<p><img src="avskrivningsmetoder-sammenligning.svg" alt="Sammenligning av avskrivningsmetoder"></p>
+<p>For en detaljert gjennomgang av <strong>lineær avskrivning</strong>, se vår egen artikkel <a href="/blogs/regnskap/lineaer-avskrivning" title="Lineær Avskrivning i Regnskap – Guide til Beregning og Eksempler">Lineær Avskrivning</a>.</p>
+<h3 id="lineær-avskrivning">Lineær Avskrivning</h3>
+<p><strong>Lineær avskrivning</strong> er den mest brukte metoden i Norge. Den fordeler anskaffelseskosten jevnt over eiendelens brukstid.</p>
+<h4 id="formel-for-lineær-avskrivning">Formel for Lineær Avskrivning:</h4>
+<pre tabindex="0"><code>Årlig avskrivning = (Anskaffelseskost - Restverdi) ÷ Brukstid i år
+</code></pre><h4 id="eksempel-lineær-avskrivning">Eksempel: Lineær Avskrivning</h4>
+<p>En maskin kjøpes for <strong>500.000 kr</strong> med forventet brukstid på <strong>10 år</strong> og restverdi på <strong>50.000 kr</strong>.</p>
+<p><strong>Beregning:</strong></p>
+<ul>
+<li>Avskrivningsgrunnlag: 500.000 - 50.000 = 450.000 kr</li>
+<li>Årlig avskrivning: 450.000 ÷ 10 = 45.000 kr per år</li>
+<li>Avskrivningssats: 45.000 ÷ 500.000 = 9% per år</li>
+</ul>
+<h3 id="degressiv-avskrivning-saldoavskrivning">Degressiv Avskrivning (Saldoavskrivning)</h3>
+<p><strong><a href="/blogs/regnskap/hva-er-saldoavskrivning" title="Hva er Saldoavskrivning i Regnskap? Komplett Guide til Degressiv Avskrivning">Saldoavskrivning</a></strong> (degressiv avskrivning) gir høyere avskrivning i de første årene og lavere senere. Dette gjenspeiler at mange eiendeler mister mest verdi tidlig i brukstiden.</p>
+<h4 id="formel-for-degressiv-avskrivning">Formel for Degressiv Avskrivning:</h4>
+<pre tabindex="0"><code>Årlig avskrivning = Bokført verdi × Avskrivningssats
+</code></pre><h4 id="eksempel-degressiv-avskrivning">Eksempel: Degressiv Avskrivning</h4>
+<p>Samme maskin med <strong>25% avskrivningssats</strong>:</p>
+<table>
+  <thead>
+      <tr>
+          <th>År</th>
+          <th>Bokført verdi (start)</th>
+          <th>Avskrivning</th>
+          <th>Bokført verdi (slutt)</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>1</td>
+          <td>500.000</td>
+          <td>125.000</td>
+          <td>375.000</td>
+      </tr>
+      <tr>
+          <td>2</td>
+          <td>375.000</td>
+          <td>93.750</td>
+          <td>281.250</td>
+      </tr>
+      <tr>
+          <td>3</td>
+          <td>281.250</td>
+          <td>70.313</td>
+          <td>210.937</td>
+      </tr>
+      <tr>
+          <td>4</td>
+          <td>210.937</td>
+          <td>52.734</td>
+          <td>158.203</td>
+      </tr>
+      <tr>
+          <td>5</td>
+          <td>158.203</td>
+          <td>39.551</td>
+          <td>118.652</td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="valg-av-avskrivningsmetode">Valg av Avskrivningsmetode</h3>
+<p>Valget mellom metodene avhenger av:</p>
+<ul>
+<li><strong>Eiendelens karakter:</strong> Teknologi avskrives ofte degressivt</li>
+<li><strong>Bruksmønster:</strong> Jevn bruk favoriserer lineær avskrivning</li>
+<li><strong>Skattemessige regler:</strong> <a href="/blogs/regnskap/saldogruppe" title="Hva er Saldogruppe? Guide til Skattemessige Avskrivningsgrupper">Saldogrupper</a> krever degressiv avskrivning</li>
+<li><strong>Regnskapsstandarder:</strong> IFRS kan kreve spesifikke metoder</li>
+</ul>
+<h2 id="skattemessige-avskrivninger">Skattemessige Avskrivninger</h2>
+<p>I Norge reguleres skattemessige avskrivninger av <strong><a href="/blogs/regnskap/hva-er-skatt" title="Hva er Skatt? Komplett Guide til Bedriftsskatt, MVA og Skatteplanlegging">skatteloven</a></strong> gjennom et system med <strong><a href="/blogs/regnskap/saldogruppe" title="Hva er Saldogruppe? Guide til Skattemessige Avskrivningsgrupper">saldogrupper</a></strong>.</p>
+<p><img src="skattemessige-saldogrupper.svg" alt="Skattemessige saldogrupper for avskrivning"></p>
+<h3 id="viktige-saldogrupper">Viktige Saldogrupper</h3>
+<table>
+  <thead>
+      <tr>
+          <th>Saldogruppe</th>
+          <th>Eiendeler</th>
+          <th>Maksimal sats</th>
+          <th>Metode</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>a</strong></td>
+          <td>Bygninger, hoteller</td>
+          <td>4%</td>
+          <td>Saldo</td>
+      </tr>
+      <tr>
+          <td><strong>b</strong></td>
+          <td>Kontormaskiner, EDB</td>
+          <td>30%</td>
+          <td>Saldo</td>
+      </tr>
+      <tr>
+          <td><strong>c</strong></td>
+          <td>Maskiner, inventar</td>
+          <td>20%</td>
+          <td>Saldo</td>
+      </tr>
+      <tr>
+          <td><strong>d</strong></td>
+          <td>Biler, transportmidler</td>
+          <td>25%</td>
+          <td>Saldo</td>
+      </tr>
+      <tr>
+          <td><strong>e</strong></td>
+          <td>Skip, fly</td>
+          <td>14%</td>
+          <td>Saldo</td>
+      </tr>
+      <tr>
+          <td><strong>f</strong></td>
+          <td>Rørledninger</td>
+          <td>5%</td>
+          <td>Saldo</td>
+      </tr>
+      <tr>
+          <td><strong>g</strong></td>
+          <td>Forretningsbygg</td>
+          <td>6%</td>
+          <td>Saldo</td>
+      </tr>
+      <tr>
+          <td><strong>h</strong></td>
+          <td>Goodwill</td>
+          <td>20%</td>
+          <td>Saldo</td>
+      </tr>
+      <tr>
+          <td><strong>i</strong></td>
+          <td>Immaterielle rettigheter</td>
+          <td>20%</td>
+          <td>Saldo</td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="forskjell-mellom-regnskapsmessig-og-skattemessig-avskrivning">Forskjell Mellom Regnskapsmessig og Skattemessig Avskrivning</h3>
+<p><strong>Regnskapsmessig avskrivning:</strong></p>
+<ul>
+<li>Basert på <strong>faktisk brukstid</strong> og <strong>økonomisk levetid</strong></li>
+<li>Kan bruke <strong>lineær</strong> eller <strong>degressiv</strong> metode</li>
+<li>Skal gjenspeile <strong>reell verdiforringelse</strong></li>
+</ul>
+<p><strong>Skattemessig avskrivning:</strong></p>
+<ul>
+<li>Følger <strong>faste satser</strong> i skatteloven</li>
+<li>Hovedsakelig <strong>saldoavskrivning</strong></li>
+<li>Kan avvike fra regnskapsmessig avskrivning</li>
+<li>Utgjør en viktig kategori av <strong>skattefradrag</strong> for virksomheter</li>
+</ul>
+<p>Avskrivninger er en av de viktigste kategoriene av fradragsberettigede kostnader i norsk skatterett. For en omfattende oversikt over alle typer skattefradrag og reglene som gjelder, se vår detaljerte guide om <a href="/blogs/regnskap/hva-er-fradrag" title="Hva er fradrag i regnskap? Komplett Guide til Skattefradrag og Regnskapsføring">fradrag i regnskap</a>.</p>
+<h2 id="regnskapsføring-av-avskrivninger">Regnskapsføring av Avskrivninger</h2>
+<h3 id="grunnleggende-regnskapsføring">Grunnleggende Regnskapsføring</h3>
+<p>Avskrivninger regnskapsføres månedlig eller årlig med følgende bilag:</p>
+<pre tabindex="0"><code>Debet: Avskrivningskostnad (kostnadskonto)
+Kredit: Akkumulerte avskrivninger (motkonto til anleggsmiddel)
+</code></pre><h3 id="eksempel-månedlig-avskrivning">Eksempel: Månedlig Avskrivning</h3>
+<p>For maskinen i eksemplet over (45.000 kr årlig):</p>
+<ul>
+<li><strong>Månedlig avskrivning:</strong> 45.000 ÷ 12 = 3.750 kr</li>
+</ul>
+<p><strong>Regnskapsføring hver måned:</strong></p>
+<pre tabindex="0"><code>Debet: Avskrivningskostnad        3.750
+Kredit: Akkumulerte avskrivninger 3.750
+</code></pre><h3 id="påvirkning-på-regnskapet">Påvirkning på Regnskapet</h3>
+<h4 id="resultatregnskap">Resultatregnskap</h4>
+<ul>
+<li><strong>Avskrivningskostnad</strong> reduserer <strong><a href="/blogs/regnskap/hva-er-driftsresultat" title="Hva er Driftsresultat? Komplett Guide til Beregning og Analyse">driftsresultatet</a></strong></li>
+<li>Kostnaden er <strong>fradragsberettiget</strong> skattemessig</li>
+<li>Påvirker <strong>kontantstrøm</strong> indirekte gjennom skatt</li>
+</ul>
+<h4 id="balanse">Balanse</h4>
+<ul>
+<li><strong>Anleggsmiddel</strong> vises til <strong>historisk kost</strong></li>
+<li><strong>Akkumulerte avskrivninger</strong> trekkes fra som <strong>motkonto</strong></li>
+<li><strong>Bokført verdi</strong> = Historisk kost - Akkumulerte avskrivninger</li>
+</ul>
+<h3 id="eksempel-balansepresentasjon">Eksempel: Balansepresentasjon</h3>
+<table>
+  <thead>
+      <tr>
+          <th>Anleggsmidler</th>
+          <th>År 1</th>
+          <th>År 2</th>
+          <th>År 3</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Maskiner (historisk kost)</td>
+          <td>500.000</td>
+          <td>500.000</td>
+          <td>500.000</td>
+      </tr>
+      <tr>
+          <td>Akkumulerte avskrivninger</td>
+          <td>(45.000)</td>
+          <td>(90.000)</td>
+          <td>(135.000)</td>
+      </tr>
+      <tr>
+          <td><strong>Bokført verdi</strong></td>
+          <td><strong>455.000</strong></td>
+          <td><strong>410.000</strong></td>
+          <td><strong>365.000</strong></td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="praktiske-eksempler">Praktiske Eksempler</h2>
+<h3 id="eksempel-1-kontormøbler">Eksempel 1: Kontormøbler</h3>
+<p>Et selskap kjøper kontormøbler for <strong>200.000 kr</strong> med forventet brukstid på <strong>8 år</strong> og restverdi på <strong>20.000 kr</strong>.</p>
+<p><strong>Lineær avskrivning:</strong></p>
+<ul>
+<li>Avskrivningsgrunnlag: 200.000 - 20.000 = 180.000 kr</li>
+<li>Årlig avskrivning: 180.000 ÷ 8 = 22.500 kr</li>
+<li>Månedlig avskrivning: 22.500 ÷ 12 = 1.875 kr</li>
+</ul>
+<p><strong>Skattemessig (saldogruppe c - 20%):</strong></p>
+<ul>
+<li>År 1: 200.000 × 20% = 40.000 kr</li>
+<li>År 2: 160.000 × 20% = 32.000 kr</li>
+<li>År 3: 128.000 × 20% = 25.600 kr</li>
+</ul>
+<h3 id="eksempel-2-firmabil">Eksempel 2: Firmabil</h3>
+<p>En firmabil kjøpes for <strong>400.000 kr</strong> med forventet brukstid på <strong>5 år</strong> og restverdi på <strong>100.000 kr</strong>.</p>
+<p><strong>Regnskapsmessig (lineær):</strong></p>
+<ul>
+<li>Årlig avskrivning: (400.000 - 100.000) ÷ 5 = 60.000 kr</li>
+</ul>
+<p><strong>Skattemessig (saldogruppe d - 25%):</strong></p>
+<ul>
+<li>År 1: 400.000 × 25% = 100.000 kr</li>
+<li>År 2: 300.000 × 25% = 75.000 kr</li>
+<li>År 3: 225.000 × 25% = 56.250 kr</li>
+</ul>
+<h3 id="midlertidige-forskjeller">Midlertidige Forskjeller</h3>
+<p>Forskjellen mellom regnskapsmessig og skattemessig avskrivning skaper <strong>midlertidige forskjeller</strong> som må håndteres i regnskapet:</p>
+<ul>
+<li><strong><a href="/blogs/regnskap/hva-er-skatt" title="Hva er Skatt? Komplett Guide til Bedriftsskatt, MVA og Skatteplanlegging">Utsatt skatt</a></strong> når skattemessig avskrivning &gt; regnskapsmessig</li>
+<li><strong>Utsatt skattefordel</strong> når regnskapsmessig avskrivning &gt; skattemessig</li>
+</ul>
+<h2 id="spesielle-situasjoner">Spesielle Situasjoner</h2>
+<h3 id="komponentavskrivning">Komponentavskrivning</h3>
+<p>For store og komplekse anleggsmidler kan <strong>komponentavskrivning</strong> være nødvendig:</p>
+<ul>
+<li><strong>Bygninger:</strong> Tak, fasade, tekniske installasjoner avskrives separat</li>
+<li><strong>Maskiner:</strong> Hovedkomponent og reservedeler med ulik levetid</li>
+<li><strong>IT-systemer:</strong> Maskinvare og programvare avskrives forskjellig</li>
+</ul>
+<h3 id="nedskrivning-vs-avskrivning">Nedskrivning vs. Avskrivning</h3>
+<p><strong>Avskrivning</strong> er planlagt verdiforringelse, mens <strong><a href="/blogs/regnskap/hva-er-nedskrivning" title="Hva er Nedskrivning? Komplett Guide til Nedskrivning av Eiendeler i Norsk Regnskap">nedskrivning</a></strong> er verdifall utover normal avskrivning:</p>
+<ul>
+<li><strong>Avskrivning:</strong> Systematisk fordeling over brukstid</li>
+<li><strong><a href="/blogs/regnskap/hva-er-nedskrivning" title="Hva er Nedskrivning? Komplett Guide til Nedskrivning av Eiendeler i Norsk Regnskap">Nedskrivning</a>:</strong> Plutselig verdifall (teknologisk utvikling, skade)</li>
+<li><strong>Reversering:</strong> Nedskrivninger kan reverseres, avskrivninger ikke</li>
+</ul>
+<p>Ved vurdering av nedskrivningsbehov beregnes gjenvinnbart beløp ofte ved <a href="/blogs/regnskap/hva-er-diskontering" title="Hva er Diskontering? Komplett Guide til Nåverdi og Diskonterte Kontantstrømmer">diskontering</a> av fremtidige kontantstrømmer til nåverdi.</p>
+<h3 id="avskrivning-ved-salg">Avskrivning ved Salg</h3>
+<p>Ved salg av anleggsmiddel før utløp av brukstiden:</p>
+<ol>
+<li><strong>Beregn akkumulerte avskrivninger</strong> frem til salgsdato</li>
+<li><strong>Bokført verdi</strong> = Anskaffelseskost - Akkumulerte avskrivninger</li>
+<li><strong>Gevinst/tap</strong> = Salgspris - Bokført verdi</li>
+</ol>
+<p><strong>Eksempel:</strong></p>
+<ul>
+<li>Maskin kjøpt for 500.000 kr, avskrevet med 180.000 kr</li>
+<li>Bokført verdi: 320.000 kr</li>
+<li>Salgspris: 350.000 kr</li>
+<li><strong>Gevinst:</strong> 350.000 - 320.000 = 30.000 kr</li>
+</ul>
+<h2 id="avskrivning-og-kontantstrøm">Avskrivning og Kontantstrøm</h2>
+<h3 id="ikke-kontant-kostnad">Ikke-kontant Kostnad</h3>
+<p>Avskrivning er en <strong>ikke-kontant kostnad</strong>:</p>
+<ul>
+<li><strong>Reduserer resultat</strong> uten å påvirke kontantstrøm direkte</li>
+<li><strong>Skatteeffekt:</strong> Reduserer skattbar inntekt og dermed skatt</li>
+<li><strong>Kontantstrømanalyse:</strong> Legges tilbake til nettoresultat og brukes til <a href="/blogs/regnskap/hva-er-selvfinansiering" title="Hva er Selvfinansiering? Komplett Guide til Intern Finansiering og Kapitaloppbygging">selvfinansiering</a></li>
+</ul>
+<h3 id="skatteeffekt-av-avskrivninger">Skatteeffekt av Avskrivninger</h3>
+<p><strong>Eksempel på skatteeffekt:</strong></p>
+<ul>
+<li>Avskrivning: 100.000 kr</li>
+<li>Skattesats: 22%</li>
+<li><strong>Skattebesparelse:</strong> 100.000 × 22% = 22.000 kr</li>
+<li><strong>Netto kontantstrømeffekt:</strong> 22.000 kr (positiv)</li>
+</ul>
+<h2 id="digitale-verktøy-og-automatisering">Digitale Verktøy og Automatisering</h2>
+<h3 id="regnskapssystemer">Regnskapssystemer</h3>
+<p>Moderne regnskapssystemer automatiserer avskrivningsberegninger:</p>
+<ul>
+<li><strong>Automatisk beregning</strong> basert på forhåndsdefinerte regler</li>
+<li><strong>Månedlige avsetninger</strong> for jevn kostnadsfordeling</li>
+<li><strong>Rapportering</strong> av både regnskapsmessige og skattemessige avskrivninger</li>
+<li><strong>Sporing</strong> av individuelle anleggsmidler</li>
+</ul>
+<h3 id="anleggsmiddelregister">Anleggsmiddelregister</h3>
+<p>Et godt <strong>anleggsmiddelregister</strong> inneholder:</p>
+<ul>
+<li><strong>Identifikasjon:</strong> Unikt nummer, beskrivelse, lokasjon</li>
+<li><strong>Økonomiske data:</strong> Anskaffelseskost, avskrivningsmetode, brukstid</li>
+<li><strong>Avskrivningshistorikk:</strong> Akkumulerte avskrivninger, bokført verdi</li>
+<li><strong>Vedlikehold:</strong> Kostnader, oppgraderinger, reparasjoner</li>
+</ul>
+<h2 id="vanlige-feil-og-fallgruver">Vanlige Feil og Fallgruver</h2>
+<h3 id="typiske-feil">Typiske Feil</h3>
+<ul>
+<li><strong>Glemme avskrivninger:</strong> Fører til overvurderte aktiva og feil resultat</li>
+<li><strong>Feil brukstid:</strong> For kort/lang periode gir feil kostnadsfordeling</li>
+<li><strong>Blande metoder:</strong> Inkonsistent bruk av lineær vs. degressiv</li>
+<li><strong>Ignorere restverdi:</strong> Påvirker avskrivningsgrunnlaget betydelig</li>
+</ul>
+<h3 id="beste-praksis">Beste Praksis</h3>
+<ol>
+<li><strong>Etabler klare retningslinjer</strong> for avskrivningsmetoder</li>
+<li><strong>Vurder brukstid</strong> realistisk basert på erfaring</li>
+<li><strong>Dokumenter valg</strong> av metoder og forutsetninger</li>
+<li><strong>Gjennomgå regelmessig</strong> om forutsetninger fortsatt gjelder</li>
+<li><strong>Skill mellom</strong> regnskapsmessige og skattemessige avskrivninger</li>
+</ol>
+<h2 id="forskjell-fra-amortisering">Forskjell fra Amortisering</h2>
+<p>Mange forveksler avskrivning med <a href="/blogs/regnskap/hva-er-amortisering" title="Hva er Amortisering? Forskjell fra Avskrivninger og Praktiske Eksempler">amortisering</a>, men det er viktige forskjeller:</p>
+<table>
+  <thead>
+      <tr>
+          <th>Aspekt</th>
+          <th>Avskrivning</th>
+          <th>Amortisering</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>Gjelder</strong></td>
+          <td>Materielle anleggsmidler</td>
+          <td>Immaterielle eiendeler</td>
+      </tr>
+      <tr>
+          <td><strong>Eksempler</strong></td>
+          <td>Bygninger, maskiner, biler</td>
+          <td>Goodwill, patenter, programvare</td>
+      </tr>
+      <tr>
+          <td><strong>Metoder</strong></td>
+          <td>Lineær eller degressiv</td>
+          <td>Hovedsakelig lineær</td>
+      </tr>
+      <tr>
+          <td><strong>Synlighet</strong></td>
+          <td>Fysisk slitasje observerbar</td>
+          <td>Verdiforringelse mindre synlig</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="internasjonale-standarder">Internasjonale Standarder</h2>
+<h3 id="ifrs-vs-norsk-gaap">IFRS vs. Norsk GAAP</h3>
+<p><strong>IFRS-krav:</strong></p>
+<ul>
+<li><strong>Komponentavskrivning</strong> obligatorisk for betydelige komponenter</li>
+<li><strong>Årlig vurdering</strong> av brukstid og restverdi</li>
+<li><strong>Nedskrivningstester</strong> ved indikasjoner på verdifall</li>
+</ul>
+<p><strong>Norsk GAAP:</strong></p>
+<ul>
+<li><strong>Enklere regler</strong> for små og mellomstore bedrifter</li>
+<li><strong>Mindre detaljkrav</strong> til komponentavskrivning</li>
+<li><strong>Praktisk tilnærming</strong> til vurderinger</li>
+</ul>
+<h2 id="relaterte-begreper">Relaterte Begreper</h2>
+<p>For å forstå avskrivning fullt ut, bør du også kjenne til:</p>
+<ul>
+<li><strong><a href="/blogs/regnskap/hva-er-anleggsmidler" title="Hva er Anleggsmidler? Materielle, Immaterielle og Finansielle Eiendeler">Anleggsmidler</a></strong> - Eiendelene som avskrives</li>
+<li><strong><a href="/blogs/regnskap/hva-er-anskaffelseskost" title="Hva er Anskaffelseskost? Komplett Guide til Beregning og Regnskapsføring">Anskaffelseskost</a></strong> - Grunnlaget for avskrivningsberegning</li>
+<li><strong><a href="/blogs/regnskap/hva-er-aktiva" title="Hva er Aktiva? Komplett Guide til Eiendeler i Balansen">Aktiva</a></strong> - Hvor avskrivninger påvirker balansen</li>
+<li><strong><a href="/blogs/regnskap/hva-er-amortisering" title="Hva er Amortisering? Forskjell fra Avskrivninger og Praktiske Eksempler">Amortisering</a></strong> - Tilsvarende prinsipp for immaterielle eiendeler</li>
+</ul>
+<h2 id="konklusjon">Konklusjon</h2>
+<p><strong>Avskrivning</strong> er et fundamentalt regnskapsprinsipp som sikrer korrekt kostnadsfordeling og realistisk verdivurdering av anleggsmidler. Ved å forstå de ulike metodene, <a href="/blogs/regnskap/hva-er-skatt" title="Hva er Skatt? Komplett Guide til Bedriftsskatt, MVA og Skatteplanlegging">skattemessige reglene</a> og praktiske anvendelsene, kan bedrifter:</p>
+<ul>
+<li><strong>Optimalisere</strong> skatteposisjonen gjennom riktig avskrivningsstrategi</li>
+<li><strong>Forbedre</strong> beslutningsgrunnlaget for investeringer</li>
+<li><strong>Sikre</strong> korrekt regnskapsføring og rapportering</li>
+<li><strong>Unngå</strong> vanlige feil som kan påvirke resultat og balanse</li>
+</ul>
+<p>Korrekt håndtering av avskrivninger er essensielt for å gi et <strong>rettvisende bilde</strong> av bedriftens økonomiske stilling og resultater. Avskrivningsberegninger er en kritisk komponent i <a href="/blogs/regnskap/hva-er-aarsavslutning" title="Hva er Årsavslutning i Regnskap? Komplett Guide til Årsoppgjør og Regnskapsavslutning">årsavslutning</a>, hvor alle anleggsmidler må vurderes og årets avskrivninger beregnes for å sikre korrekte årsregnskap.</p>
+<h2 id="realisering-ved-avhending">Realisering ved avhending</h2>
+<p>Når eiendeler selges eller avhendes, må den bokførte verdien realiseres, og eventuell gevinst eller tap må resultatføres. For detaljer om dette, se <a href="/blogs/regnskap/realisering" title="Realisering i regnskap: Gevinst og tap ved salg av eiendeler">Realisering</a>.</p>
+</article>
+  </div>
+</section>
+
+  </main>
+  <footer class="mt-16 border-t border-slate-800/60 bg-slate-900">
+  <div class="max-w-7xl mx-auto px-4 py-14">
+    <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3 text-center sm:text-left">
+      
+      <div>
+        <h3 class="text-sm font-semibold text-white">Verktøy</h3>
+        <ul class="mt-2 space-y-2 text-sm text-slate-300">
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/finn-iban/">IBAN kalkulator</a></li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/lag-faktura-gratis/">Lag faktura</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Selskaps-informasjon</h3>
+        <ul class="mt-2 space-y-1 text-sm text-slate-300">
+          <li>Reai AS</li>
+          <li>Orgnr: 935606403</li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="mailto:post@reai.no">post@reai.no</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Om ReAI</h3>
+        <p class="mt-2 text-sm text-slate-300">ReAI er et gratis regnskapsprogram laget av tidligere ansatte i Tripletex
+          / Visma. Vi mener det er på tide med mer konkurranse i regnskaps-bransjen som kan komme bedrifter til gode.
+        </p>
+      </div>
+    </div>
+    <div class="mt-12 border-t border-slate-800/60 pt-6 flex flex-col items-center sm:flex-row sm:items-center sm:justify-between text-sm text-slate-400 text-center sm:text-left">
+      <div class="flex items-center gap-2">
+        
+        
+      </div>
+      <div class="mt-4 sm:mt-0 flex items-center justify-center sm:justify-end">
+        <div class="opacity-80">&copy; 2025 ReAI. All rights reserved.</div>
+      </div>
+    </div>
+  </div>
+</footer>
+</body>
+</html>

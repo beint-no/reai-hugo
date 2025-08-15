@@ -1,0 +1,106 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="400" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
+  <text x="400" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
+    Nullpunkt (Break-Even) Analyse
+  </text>
+  
+  <!-- Main content area -->
+  <rect x="50" y="80" width="700" height="280" fill="white" stroke="#dee2e6" stroke-width="1" rx="8"/>
+  
+  <!-- Left side - Concept explanation -->
+  <text x="70" y="110" fill="#333" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+    Nullpunkt = Totale Inntekter = Totale Kostnader
+  </text>
+  
+  <!-- Formula box -->
+  <rect x="70" y="130" width="300" height="80" fill="#f8f9fa" stroke="#0066cc" stroke-width="2" rx="5"/>
+  <text x="220" y="155" text-anchor="middle" fill="#0066cc" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    Nullpunkt (enheter) =
+  </text>
+  <text x="220" y="175" text-anchor="middle" fill="#0066cc" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    Faste kostnader
+  </text>
+  <line x1="150" y1="180" x2="290" y2="180" stroke="#0066cc" stroke-width="2"/>
+  <text x="220" y="200" text-anchor="middle" fill="#0066cc" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    Dekningsbidrag per enhet
+  </text>
+  
+  <!-- Right side - Visual representation -->
+  <g transform="translate(420, 130)">
+    <!-- Axes -->
+    <line x1="0" y1="180" x2="280" y2="180" stroke="#333" stroke-width="2"/>
+    <line x1="0" y1="180" x2="0" y2="0" stroke="#333" stroke-width="2"/>
+    
+    <!-- Axis labels -->
+    <text x="140" y="200" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="12">
+      Salgsvolum (enheter)
+    </text>
+    <text x="-15" y="90" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="12" transform="rotate(-90, -15, 90)">
+      Kroner
+    </text>
+    
+    <!-- Cost line (starts at fixed costs) -->
+    <line x1="0" y1="120" x2="240" y2="60" stroke="#ff6b6b" stroke-width="3"/>
+    <text x="250" y="65" fill="#ff6b6b" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+      Totale kostnader
+    </text>
+    
+    <!-- Revenue line (starts at origin) -->
+    <line x1="0" y1="180" x2="240" y2="40" stroke="#51cf66" stroke-width="3"/>
+    <text x="250" y="45" fill="#51cf66" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+      Totale inntekter
+    </text>
+    
+    <!-- Break-even point -->
+    <circle cx="160" cy="80" r="6" fill="#0066cc" stroke="white" stroke-width="2"/>
+    <text x="170" y="75" fill="#0066cc" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+      Nullpunkt
+    </text>
+    
+    <!-- Dashed line to show break-even volume -->
+    <line x1="160" y1="80" x2="160" y2="180" stroke="#0066cc" stroke-width="2" stroke-dasharray="5,5"/>
+    
+    <!-- Fixed costs line -->
+    <line x1="0" y1="120" x2="240" y2="120" stroke="#ffa94d" stroke-width="2" stroke-dasharray="3,3"/>
+    <text x="10" y="115" fill="#ffa94d" font-family="Arial, sans-serif" font-size="10">
+      Faste kostnader
+    </text>
+  </g>
+  
+  <!-- Key insights -->
+  <text x="70" y="250" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    Nøkkelinnsikt:
+  </text>
+  <text x="70" y="275" fill="#666" font-family="Arial, sans-serif" font-size="12">
+    • Under nullpunkt: Tap (rødt område)
+  </text>
+  <text x="70" y="295" fill="#666" font-family="Arial, sans-serif" font-size="12">
+    • Over nullpunkt: Overskudd (grønt område)
+  </text>
+  <text x="70" y="315" fill="#666" font-family="Arial, sans-serif" font-size="12">
+    • Kritisk for økonomisk planlegging og lønnsomhetsvurdering
+  </text>
+  
+  <!-- Profit/Loss areas indication -->
+  <text x="500" y="275" fill="#ff6b6b" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    TAP
+  </text>
+  <text x="620" y="250" fill="#51cf66" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    OVERSKUDD
+  </text>
+</svg>

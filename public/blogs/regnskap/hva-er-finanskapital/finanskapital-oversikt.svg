@@ -1,0 +1,121 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="centerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#333">
+    Oversikt over Finanskapital og Komponenter
+  </text>
+  
+  <!-- Central circle - Finanskapital -->
+  <circle cx="400" cy="250" r="80" fill="url(#centerGradient)" stroke="#003366" stroke-width="3"/>
+  <text x="400" y="245" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+    FINANSKAPITAL
+  </text>
+  <text x="400" y="265" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+    Likvide ressurser
+  </text>
+  
+  <!-- Component 1: Kontanter -->
+  <circle cx="200" cy="150" r="50" fill="#28a745" stroke="#1e7e34" stroke-width="2"/>
+  <text x="200" y="145" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+    Kontanter
+  </text>
+  <text x="200" y="160" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="white">
+    Kasse &amp; Bank
+  </text>
+  
+  <!-- Component 2: Verdipapirer -->
+  <circle cx="600" cy="150" r="50" fill="#007bff" stroke="#0056b3" stroke-width="2"/>
+  <text x="600" y="145" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+    Verdipapirer
+  </text>
+  <text x="600" y="160" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="white">
+    Aksjer &amp; Obligasjoner
+  </text>
+  
+  <!-- Component 3: Fordringer -->
+  <circle cx="200" cy="350" r="50" fill="#6f42c1" stroke="#5a2d91" stroke-width="2"/>
+  <text x="200" y="345" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+    Fordringer
+  </text>
+  <text x="200" y="360" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="white">
+    Kundefordringer
+  </text>
+  
+  <!-- Component 4: Investeringer -->
+  <circle cx="600" cy="350" r="50" fill="#fd7e14" stroke="#e55a00" stroke-width="2"/>
+  <text x="600" y="345" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+    Investeringer
+  </text>
+  <text x="600" y="360" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="white">
+    Langsiktige
+  </text>
+  
+  <!-- Connecting lines from center to components -->
+  <line x1="340" y1="200" x2="240" y2="170" stroke="#6c757d" stroke-width="3"/>
+  <line x1="460" y1="200" x2="560" y2="170" stroke="#6c757d" stroke-width="3"/>
+  <line x1="340" y1="300" x2="240" y2="330" stroke="#6c757d" stroke-width="3"/>
+  <line x1="460" y1="300" x2="560" y2="330" stroke="#6c757d" stroke-width="3"/>
+  
+  <!-- Characteristics boxes -->
+  <rect x="50" y="80" width="120" height="60" fill="white" stroke="#dee2e6" stroke-width="1" rx="5"/>
+  <text x="110" y="100" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#333">
+    Kjennetegn:
+  </text>
+  <text x="110" y="115" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+    • Likviditet
+  </text>
+  <text x="110" y="128" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+    • Målbarhet
+  </text>
+  
+  <rect x="630" y="80" width="120" height="60" fill="white" stroke="#dee2e6" stroke-width="1" rx="5"/>
+  <text x="690" y="100" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#333">
+    Formål:
+  </text>
+  <text x="690" y="115" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+    • Finansiering
+  </text>
+  <text x="690" y="128" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+    • Investeringer
+  </text>
+  
+  <rect x="50" y="360" width="120" height="60" fill="white" stroke="#dee2e6" stroke-width="1" rx="5"/>
+  <text x="110" y="380" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#333">
+    Mobilitet:
+  </text>
+  <text x="110" y="395" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+    • Fleksibel
+  </text>
+  <text x="110" y="408" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+    • Omdannbar
+  </text>
+  
+  <rect x="630" y="360" width="120" height="60" fill="white" stroke="#dee2e6" stroke-width="1" rx="5"/>
+  <text x="690" y="380" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#333">
+    Avkastning:
+  </text>
+  <text x="690" y="395" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+    • Potensial
+  </text>
+  <text x="690" y="408" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+    • Risiko
+  </text>
+  
+  <!-- Bottom description -->
+  <text x="400" y="470" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#6c757d">
+    Finanskapital omfatter alle likvide ressurser som kan brukes til finansiering og investeringer
+  </text>
+</svg>

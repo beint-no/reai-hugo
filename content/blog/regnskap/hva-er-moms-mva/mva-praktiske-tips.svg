@@ -1,0 +1,154 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#059669;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#047857;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="dailyGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#ecfdf5;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#d1fae5;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="monthlyGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#dbeafe;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#bfdbfe;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="yearlyGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#fef3c7;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#fde68a;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="mistakeGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#fecaca;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#fca5a5;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f0fdf4"/>
+  
+  <!-- Title -->
+  <rect x="50" y="20" width="700" height="50" rx="8" fill="url(#headerGrad)"/>
+  <text x="400" y="50" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="22" font-weight="bold">Praktiske Tips for MVA-håndtering</text>
+  
+  <!-- Light bulb icon -->
+  <circle cx="400" cy="90" r="20" fill="#fbbf24" stroke="#f59e0b" stroke-width="2"/>
+  <path d="M390 85 Q400 75 410 85 Q410 95 400 100 Q390 95 390 85" fill="#f59e0b"/>
+  <rect x="395" y="100" width="10" height="8" rx="2" fill="#d97706"/>
+  <rect x="397" y="108" width="6" height="3" rx="1" fill="#92400e"/>
+  
+  <!-- Routines section -->
+  <rect x="50" y="130" width="700" height="200" rx="10" fill="white" stroke="#64748b" stroke-width="2"/>
+  <text x="400" y="155" text-anchor="middle" fill="#1e293b" font-family="Arial, sans-serif" font-size="18" font-weight="bold">Implementering av MVA-rutiner</text>
+  
+  <!-- Daily routines -->
+  <rect x="80" y="170" width="200" height="140" rx="8" fill="url(#dailyGrad)" stroke="#10b981" stroke-width="2"/>
+  <text x="180" y="195" text-anchor="middle" fill="#065f46" font-family="Arial, sans-serif" font-size="14" font-weight="bold">DAGLIGE RUTINER</text>
+  
+  <!-- Calendar icon -->
+  <rect x="160" y="205" width="40" height="30" rx="3" fill="#10b981" stroke="#059669" stroke-width="1"/>
+  <rect x="165" y="200" width="30" height="8" rx="2" fill="#047857"/>
+  <circle cx="170" cy="204" r="1" fill="white"/>
+  <circle cx="190" cy="204" r="1" fill="white"/>
+  <rect x="167" y="215" width="4" height="4" rx="1" fill="white"/>
+  <rect x="175" y="215" width="4" height="4" rx="1" fill="white"/>
+  <rect x="183" y="215" width="4" height="4" rx="1" fill="white"/>
+  <rect x="191" y="215" width="4" height="4" rx="1" fill="white"/>
+  <rect x="167" y="223" width="4" height="4" rx="1" fill="white"/>
+  <rect x="175" y="223" width="4" height="4" rx="1" fill="white"/>
+  
+  <text x="90" y="250" fill="#047857" font-family="Arial, sans-serif" font-size="11">• Registrer alle fakturaer</text>
+  <text x="90" y="265" fill="#047857" font-family="Arial, sans-serif" font-size="11">• Kontroller MVA-beregninger</text>
+  <text x="90" y="280" fill="#047857" font-family="Arial, sans-serif" font-size="11">• Arkiver bilag systematisk</text>
+  <text x="90" y="295" fill="#047857" font-family="Arial, sans-serif" font-size="11">• Sjekk korrekt MVA-sats</text>
+  
+  <!-- Monthly routines -->
+  <rect x="300" y="170" width="200" height="140" rx="8" fill="url(#monthlyGrad)" stroke="#3b82f6" stroke-width="2"/>
+  <text x="400" y="195" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold">MÅNEDLIGE RUTINER</text>
+  
+  <!-- Chart icon -->
+  <rect x="380" y="205" width="40" height="30" rx="3" fill="#3b82f6" stroke="#1d4ed8" stroke-width="1"/>
+  <path d="M385 225 L390 220 L395 225 L400 215 L405 220 L410 210 L415 215" stroke="white" stroke-width="2" fill="none"/>
+  
+  <text x="310" y="250" fill="#1d4ed8" font-family="Arial, sans-serif" font-size="11">• Avstem MVA-kontoer</text>
+  <text x="310" y="265" fill="#1d4ed8" font-family="Arial, sans-serif" font-size="11">• Gjennomgå fradrag</text>
+  <text x="310" y="280" fill="#1d4ed8" font-family="Arial, sans-serif" font-size="11">• Forbered MVA-melding</text>
+  <text x="310" y="295" fill="#1d4ed8" font-family="Arial, sans-serif" font-size="11">• Kontroller beregninger</text>
+  
+  <!-- Yearly routines -->
+  <rect x="520" y="170" width="200" height="140" rx="8" fill="url(#yearlyGrad)" stroke="#f59e0b" stroke-width="2"/>
+  <text x="620" y="195" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="14" font-weight="bold">ÅRLIGE RUTINER</text>
+  
+  <!-- Settings icon -->
+  <circle cx="620" cy="220" r="12" fill="#f59e0b" stroke="#d97706" stroke-width="1"/>
+  <circle cx="620" cy="220" r="6" fill="none" stroke="white" stroke-width="2"/>
+  <rect x="614" y="208" width="12" height="4" rx="2" fill="white"/>
+  <rect x="614" y="228" width="12" height="4" rx="2" fill="white"/>
+  <rect x="608" y="214" width="4" height="12" rx="2" fill="white"/>
+  <rect x="628" y="214" width="4" height="12" rx="2" fill="white"/>
+  
+  <text x="530" y="250" fill="#a16207" font-family="Arial, sans-serif" font-size="11">• Vurder terminlengde</text>
+  <text x="530" y="265" fill="#a16207" font-family="Arial, sans-serif" font-size="11">• Oppdater rutiner</text>
+  <text x="530" y="280" fill="#a16207" font-family="Arial, sans-serif" font-size="11">• Gjennomgå prosedyrer</text>
+  <text x="530" y="295" fill="#a16207" font-family="Arial, sans-serif" font-size="11">• Regelverksendringer</text>
+  
+  <!-- Common mistakes section -->
+  <rect x="50" y="350" width="700" height="180" rx="10" fill="white" stroke="#64748b" stroke-width="2"/>
+  <text x="400" y="375" text-anchor="middle" fill="#1e293b" font-family="Arial, sans-serif" font-size="18" font-weight="bold">Vanlige Feil og Hvordan Unngå Dem</text>
+  
+  <!-- Mistake 1: Wrong VAT rate -->
+  <rect x="80" y="390" width="200" height="120" rx="8" fill="url(#mistakeGrad)" stroke="#ef4444" stroke-width="2"/>
+  <text x="180" y="410" text-anchor="middle" fill="#991b1b" font-family="Arial, sans-serif" font-size="12" font-weight="bold">FEIL MVA-SATS</text>
+  
+  <!-- Warning icon -->
+  <polygon points="180,420 170,435 190,435" fill="#ef4444"/>
+  <text x="180" y="432" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">!</text>
+  
+  <text x="90" y="450" fill="#b91c1c" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Problem:</text>
+  <text x="95" y="465" fill="#dc2626" font-family="Arial, sans-serif" font-size="9">Feil sats på varer/tjenester</text>
+  <text x="90" y="480" fill="#b91c1c" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Løsning:</text>
+  <text x="95" y="495" fill="#dc2626" font-family="Arial, sans-serif" font-size="9">• Sjekk satser regelmessig</text>
+  <text x="95" y="505" fill="#dc2626" font-family="Arial, sans-serif" font-size="9">• Oppdater system ved endringer</text>
+  
+  <!-- Mistake 2: Missing deduction rights -->
+  <rect x="300" y="390" width="200" height="120" rx="8" fill="url(#mistakeGrad)" stroke="#ef4444" stroke-width="2"/>
+  <text x="400" y="405" text-anchor="middle" fill="#991b1b" font-family="Arial, sans-serif" font-size="11" font-weight="bold">MANGLENDE</text>
+  <text x="400" y="420" text-anchor="middle" fill="#991b1b" font-family="Arial, sans-serif" font-size="11" font-weight="bold">FRADRAGSRETT</text>
+  
+  <!-- X icon -->
+  <circle cx="400" cy="435" r="10" fill="#ef4444"/>
+  <path d="M395 430 L405 440 M405 430 L395 440" stroke="white" stroke-width="2" stroke-linecap="round"/>
+  
+  <text x="310" y="455" fill="#b91c1c" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Problem:</text>
+  <text x="315" y="470" fill="#dc2626" font-family="Arial, sans-serif" font-size="9">Ikke forstått fradragsregler</text>
+  <text x="310" y="485" fill="#b91c1c" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Løsning:</text>
+  <text x="315" y="500" fill="#dc2626" font-family="Arial, sans-serif" font-size="9">• Dokumenter forretningsformål</text>
+  
+  <!-- Mistake 3: Late submission -->
+  <rect x="520" y="390" width="200" height="120" rx="8" fill="url(#mistakeGrad)" stroke="#ef4444" stroke-width="2"/>
+  <text x="620" y="410" text-anchor="middle" fill="#991b1b" font-family="Arial, sans-serif" font-size="12" font-weight="bold">FOR SEN INNLEVERING</text>
+  
+  <!-- Clock icon -->
+  <circle cx="620" cy="435" r="12" fill="#ef4444" stroke="#dc2626" stroke-width="1"/>
+  <path d="M620 425 L620 435 L625 440" stroke="white" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <circle cx="620" cy="435" r="2" fill="white"/>
+  
+  <text x="530" y="460" fill="#b91c1c" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Problem:</text>
+  <text x="535" y="475" fill="#dc2626" font-family="Arial, sans-serif" font-size="9">Glemt frister og deadlines</text>
+  <text x="530" y="490" fill="#b91c1c" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Løsning:</text>
+  <text x="535" y="505" fill="#dc2626" font-family="Arial, sans-serif" font-size="9">• Sett opp påminnelser</text>
+  
+  <!-- Best practices bottom section -->
+  <rect x="50" y="550" width="700" height="40" rx="8" fill="#f0fdf4" stroke="#16a34a" stroke-width="2"/>
+  <text x="400" y="570" text-anchor="middle" fill="#166534" font-family="Arial, sans-serif" font-size="14" font-weight="bold">💡 Beste Praksis</text>
+  <text x="80" y="585" fill="#15803d" font-family="Arial, sans-serif" font-size="11">• Automatiser der mulig • Ha backup-rutiner • Søk profesjonell hjelp ved tvil • Dokumenter alt • Hold deg oppdatert på regelendringer</text>
+  
+  <!-- Process arrows -->
+  <path d="M280 240 L300 240 L295 235 M300 240 L295 245" stroke="#64748b" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M500 240 L520 240 L515 235 M520 240 L515 245" stroke="#64748b" stroke-width="2" fill="none" stroke-linecap="round"/>
+  
+  <!-- Success indicators -->
+  <circle cx="70" cy="140" r="8" fill="#16a34a"/>
+  <path d="M66 140 L69 143 L74 137" stroke="white" stroke-width="2" fill="none" stroke-linecap="round"/>
+  
+  <circle cx="70" cy="360" r="8" fill="#ef4444"/>
+  <path d="M66 356 L74 364 M74 356 L66 364" stroke="white" stroke-width="2" stroke-linecap="round"/>
+</svg>

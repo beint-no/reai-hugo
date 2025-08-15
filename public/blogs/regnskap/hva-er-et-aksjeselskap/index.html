@@ -1,0 +1,429 @@
+<!doctype html>
+<html lang="nb">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Hva er et Aksjeselskap? | ReAI</title>
+  <meta name="description" content="Komplett regnskapssystem med faktura, lønn, bilagsføring og årsoppgjør.">
+  
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<script src="https://cdn.tailwindcss.com?plugins=typography"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        fontFamily: { sans: ['Inter','ui-sans-serif','system-ui','Arial','sans-serif'] },
+        colors: {
+          brand: { DEFAULT: '#111827' },
+          accent: { DEFAULT: '#2563eb' }
+        }
+      }
+    }
+  }
+</script>
+<style>
+   
+  header .header-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #000 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link:hover { background-position: 0; }
+  header .header-link:hover::before { width: 100%; }
+
+  footer .footer-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #ffffff 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link:hover { background-position: 0; }
+  footer .footer-link:hover::before { width: 100%; }
+</style>
+<style>
+   
+  .prose { overflow-wrap: anywhere; word-break: break-word; }
+  .prose img { max-width: 100%; height: auto; }
+  .prose table { display: block; width: 100%; overflow-x: auto; }
+  .prose pre { white-space: pre-wrap; word-break: break-word; overflow-x: auto; }
+  .prose code { word-break: break-word; }
+  .prose iframe, .prose video { max-width: 100%; width: 100%; height: auto; }
+</style>
+<style>
+   
+  button,
+  .btn,
+  a.btn,
+  .button,
+  .cta,
+  .link-button,
+   
+  a.inline-flex.rounded-md,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"] {
+    transition: transform 220ms ease, box-shadow 220ms ease, background-color 220ms ease, color 220ms ease, opacity 220ms ease;
+    will-change: transform, box-shadow;
+  }
+
+  button:hover,
+  .btn:hover,
+  a.btn:hover,
+  .button:hover,
+  .cta:hover,
+  .link-button:hover,
+  a.inline-flex.rounded-md:hover,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+
+  button:active,
+  .btn:active,
+  a.btn:active,
+  .button:active,
+  .cta:active,
+  .link-button:active,
+  a.inline-flex.rounded-md:active,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:active {
+    transform: translateY(-1px) scale(0.99);
+    box-shadow: 0 6px 12px rgba(2, 6, 23, 0.1);
+  }
+
+  button:focus-visible,
+  .btn:focus-visible,
+  a.btn:focus-visible,
+  .button:focus-visible,
+  .cta:focus-visible,
+  .link-button:focus-visible,
+  a.inline-flex.rounded-md:focus-visible,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.35), 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+</style>
+
+<link rel="icon" type="image/svg+xml" href="/images/ReAI-logo-square.svg">
+<link rel="shortcut icon" href="/images/ReAI-logo-square.svg">
+
+</head>
+<body class="min-h-dvh bg-white text-gray-900 font-sans">
+  <header class="sticky top-0 z-40 bg-white/80 backdrop-blur">
+  
+  <div class="border-b border-slate-200/70">
+    <div class="max-w-7xl mx-auto px-4">
+      <div class="h-16 flex items-center justify-between">
+        <a href="/" class="flex items-center gap-2" aria-label="ReAI">
+          <img src="/images/ReAI-logo-square.svg?v=4" alt="ReAI logo" class="h-14 w-14 rounded-md mt-5" width="56" height="56" loading="eager" decoding="async">
+        </a>
+        <nav class="hidden md:block">
+          <ul class="flex items-center gap-5 text-sm">
+            <li><a href="/courses/" class="header-link text-slate-700 hover:text-black">Gratis kurs</a></li>
+            <li><a href="/contact/" class="header-link text-slate-700 hover:text-black">Kontakt oss</a></li>
+            <li><a href="/blog/" class="header-link text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+            <li><a href="/bli-partner/" class="header-link text-slate-700 hover:text-black">Bli partner</a></li>
+            <li><a href="/fakturamal/" class="header-link text-slate-700 hover:text-black">Lag faktura</a></li>
+          </ul>
+        </nav>
+        <button id="mobileMenuBtn" aria-controls="mobileMenu" aria-expanded="false" class="md:hidden inline-flex items-center justify-center h-9 w-9 rounded-md border border-slate-300">
+          <span class="sr-only">Menu</span>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-5 w-5"><path d="M3.75 6.75h16.5v1.5H3.75zM3.75 11.25h16.5v1.5H3.75zM3.75 15.75h16.5v1.5H3.75z"/></svg>
+        </button>
+      </div>
+    </div>
+  </div>
+  
+  <nav id="mobileMenu" class="md:hidden hidden border-b border-slate-200/70 bg-white/95 backdrop-blur">
+    <div class="max-w-7xl mx-auto px-4 py-3">
+      <ul class="flex flex-col items-center gap-3 text-sm text-center">
+        <li><a href="/courses/" class="header-link block text-slate-700 hover:text-black">Gratis kurs</a></li>
+        <li><a href="/contact/" class="header-link block text-slate-700 hover:text-black">Kontakt oss</a></li>
+        <li><a href="/blog/" class="header-link block text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+        <li><a href="/bli-partner/" class="header-link block text-slate-700 hover:text-black">Bli partner</a></li>
+        <li><a href="/fakturamal/" class="header-link block text-slate-700 hover:text-black">Lag faktura</a></li>
+      </ul>
+    </div>
+  </nav>
+  <script>
+    (function() {
+      const btn = document.getElementById('mobileMenuBtn');
+      const menu = document.getElementById('mobileMenu');
+      if (!btn || !menu) return;
+      btn.addEventListener('click', function() {
+        const isHidden = menu.classList.contains('hidden');
+        menu.classList.toggle('hidden');
+        btn.setAttribute('aria-expanded', String(isHidden));
+      });
+    })();
+  </script>
+</header>
+  <main>
+    
+<section class="pt-10 md:pt-14">
+  <div class="max-w-3xl mx-auto px-4">
+    <h1 class="text-3xl font-semibold tracking-tight text-center">Hva er et Aksjeselskap?</h1>
+    <p class="mt-2 text-gray-700">Et aksjeselskap (AS) er en selskapsform hvor eierskapet er delt inn i aksjer. Eierne har begrenset ansvar og selskapet er et eget rettssubjekt med minimum 30 000 kr i aksjekapital.
+</p>
+    <article class="prose max-w-none mt-6"><p>For en oversikt over ulike selskapsformer i Norge, se <a href="/blogs/regnskap/selskapsform" title="Selskapsform: Oversikt over selskapsformer i Norge">Selskapsform</a>.</p>
+<p>Et <strong>aksjeselskap (AS)</strong> er en <a href="/blogs/regnskap/hva-er-foretak" title="Hva er et Foretak? Komplett Guide til Foretaksformer i Norge">foretaksform</a> hvor eierskapet er delt inn i <a href="/blogs/regnskap/hva-er-en-aksje" title="Hva er en Aksje? En Enkel Forklaring">aksjer</a>, og hvor hver eier mottar et <a href="/blogs/regnskap/hva-er-et-aksjebevis" title="Hva er et Aksjebevis? En Komplett Guide"><strong>aksjebevis</strong></a> som bevis på sitt eierskap. Dette er den mest vanlige selskapsformen for større bedrifter i Norge, og den gir eierne begrenset ansvar for selskapets forpliktelser.</p>
+<p>En spesiell type aksjeselskap er <strong>allmennaksjeselskap (ASA)</strong>, som er tilpasset større virksomheter og børsnotering. Les mer i vår guide om <a href="/blogs/regnskap/hva-er-asa" title="Hva er ASA? En Guide til Allmennaksjeselskap (ASA)">Hva er ASA? En Guide til Allmennaksjeselskap (ASA)</a>.</p>
+<p>For en enkel steg-for-steg veiledning om hvordan du <strong>starter et AS</strong>, se <a href="/blogs/regnskap/starte-as" title="Starte AS: Steg-for-steg guide til å stifte aksjeselskap">Starte AS</a>.</p>
+<p>For informasjon om gebyr ved registrering, se <a href="/blogs/regnskap/stiftelsesgebyr" title="Stiftelsesgebyr ved registrering av AS">Stiftelsesgebyr</a>.</p>
+<p><img src="hva-er-et-aksjeselskap-image.svg" alt="Illustrasjon som viser strukturen til et aksjeselskap"></p>
+<h3 id="hva-kjennetegner-et-aksjeselskap">Hva Kjennetegner et Aksjeselskap?</h3>
+<p>Et aksjeselskap skiller seg fra andre selskapsformer på flere viktige måter:</p>
+<h4 id="begrenset-ansvar">Begrenset Ansvar</h4>
+<p>Den viktigste egenskapen ved et aksjeselskap er at <strong>aksjonærene har begrenset ansvar</strong>. Dette betyr at du som eier normalt ikke kan tape mer enn det du har investert i selskapet. Hvis selskapet går konkurs, er din personlige økonomi beskyttet.</p>
+<h4 id="eget-rettssubjekt">Eget Rettssubjekt</h4>
+<p>Aksjeselskapet er et <strong>eget rettssubjekt</strong> og en <a href="/blogs/regnskap/hva-er-juridisk-person" title="Hva er en Juridisk Person? Komplett Guide til Juridiske Personer i Regnskap">juridisk person</a>, helt adskilt fra eierne. Selskapet kan:</p>
+<ul>
+<li>Inngå kontrakter i eget navn</li>
+<li>Eie eiendommer og andre verdier</li>
+<li>Saksøke og bli saksøkt</li>
+<li>Ha egne rettigheter og forpliktelser</li>
+</ul>
+<h4 id="aksjekapital">Aksjekapital</h4>
+<p>For å starte et aksjeselskap må du ha en minimum <a href="/blogs/regnskap/hva-er-aksjekapital" title="Hva er Aksjekapital? Krav og Forklaring">aksjekapital</a> på <strong>30 000 kroner</strong>. Denne kapitalen deles inn i aksjer som representerer eierandelene i selskapet.</p>
+<p><img src="aksjeselskap-struktur.svg" alt="Diagram som viser aksjeselskapets grunnleggende struktur"></p>
+<p>Et alternativ til å stifte et nytt selskap er å kjøpe et <strong>hylleselskap</strong>, det vil si et ferdigregistrert aksjeselskap uten drift. Dette gir <strong>raskere oppstart</strong>, siden selskapet allerede er registrert. Les mer om hva et hylleselskap er i vår guide <a href="/blogs/regnskap/hylleselskap" title="Hva er et Hylleselskap? Guide til Ferdigregistrerte Selskaper i Norge">Hylleselskap</a>.</p>
+<h3 id="krav-for-å-starte-et-aksjeselskap">Krav for å Starte et Aksjeselskap</h3>
+<p><a href="/blogs/regnskap/hva-er-aksjeloven" title="Hva er Aksjeloven? Regler for Aksjeselskaper i Norge">Aksjeloven</a> stiller flere krav til opprettelse av et aksjeselskap:</p>
+<h4 id="minimum-aksjekapital">Minimum Aksjekapital</h4>
+<ul>
+<li><strong>30 000 kroner</strong> i aksjekapital</li>
+<li>Kapitalen må være fullt innbetalt før registrering</li>
+<li>Kan bestå av penger eller andre verdier (tingsinnskudd)</li>
+</ul>
+<h4 id="stiftere">Stiftere</h4>
+<ul>
+<li>Minimum <strong>én stifter</strong> (kan være person eller selskap)</li>
+<li>Stifterne må tegne alle aksjene ved opprettelse</li>
+<li>Norske statsborgere eller EU/EØS-borgere kan være stiftere</li>
+</ul>
+<h4 id="vedtekter">Vedtekter</h4>
+<ul>
+<li>Selskapet må ha <strong>vedtekter</strong> som fungerer som selskapets &ldquo;grunnlov&rdquo;</li>
+<li>Vedtektene må inneholde obligatoriske opplysninger som selskapsnavn, formål og aksjekapital</li>
+</ul>
+<h4 id="styre">Styre</h4>
+<ul>
+<li>Selskapet må ha minimum <strong>ett styremedlem</strong></li>
+<li>Styret er ansvarlig for forvaltningen av selskapet</li>
+<li>Styremedlemmer velges av generalforsamlingen</li>
+<li>Styremedlemmer kan motta <a href="/blogs/regnskap/hva-er-honorar" title="Hva er Honorar i Regnskap? Komplett Guide til Honorarutbetalinger og Skattebehandling">honorar</a> for sitt arbeid</li>
+<li>Ansatte kan tilbys <a href="/blogs/regnskap/hva-er-opsjonsavtale" title="Hva er en Opsjonsavtale? Komplett Guide til Opsjoner i Regnskap">opsjonsavtaler</a> som incentivordning</li>
+</ul>
+<p><img src="aksjeselskap-krav.svg" alt="Oversikt over kravene for å starte et aksjeselskap"></p>
+<h3 id="organisering-av-et-aksjeselskap">Organisering av et Aksjeselskap</h3>
+<p>Et aksjeselskap har en klar organisasjonsstruktur regulert av aksjeloven:</p>
+<h4 id="generalforsamling">Generalforsamling</h4>
+<ul>
+<li><strong>Øverste organ</strong> i selskapet</li>
+<li>Alle aksjonærer har rett til å delta</li>
+<li>Treffer de viktigste beslutningene som valg av styre og godkjenning av årsregnskap</li>
+</ul>
+<h4 id="styre-1">Styre</h4>
+<ul>
+<li><strong>Ledelsesorgan</strong> som forvalter selskapet</li>
+<li>Ansvarlig for den overordnede strategien og kontrollen</li>
+<li>Kan ansette <a href="/blogs/regnskap/hva-er-daglig-leder" title="Hva er Daglig Leder? Rolle, Ansvar og Regnskapsmessige Forpliktelser">daglig leder</a></li>
+</ul>
+<h4 id="daglig-leder">Daglig Leder</h4>
+<ul>
+<li><strong>Operativ leder</strong> (ikke obligatorisk)</li>
+<li>Ansvarlig for den daglige driften</li>
+<li>Rapporterer til styret</li>
+<li>Fungerer ofte som <a href="/blogs/regnskap/hva-er-forretningsforer" title="Hva er en Forretningsfører? Komplett Guide til Roller, Ansvar og Krav">forretningsfører</a> med det daglige ansvaret for virksomheten</li>
+</ul>
+<h3 id="fordeler-med-aksjeselskap">Fordeler med Aksjeselskap</h3>
+<h4 id="begrenset-ansvar-1">Begrenset Ansvar</h4>
+<p>Som nevnt er den største fordelen at eiernes ansvar er begrenset til aksjekapitalen.</p>
+<h4 id="tilgang-til-kapital">Tilgang til Kapital</h4>
+<ul>
+<li>Enkelt å hente inn ny kapital ved å utstede nye aksjer</li>
+<li>Kan ha mange eiere uten kompliserte avtaler</li>
+<li>Mulighet for <a href="/blogs/regnskap/hva-er-aksjeklasser" title="Hva er Aksjeklasser? A-aksjer og B-aksjer Forklart">ulike aksjeklasser</a> med forskjellige rettigheter</li>
+<li>Attraktivt for investorer som søker <a href="/blogs/regnskap/hva-er-avkastning" title="Hva er Avkastning? Komplett Guide til Investeringsavkastning og Beregning">avkastning</a> gjennom utbytte og kursstigning</li>
+<li>Investorer kan vurdere selskapets lønnsomhet gjennom <a href="/blogs/regnskap/hva-er-egenkapitalrentabilitet" title="Hva er Egenkapitalrentabilitet? Komplett Guide til ROE Beregning">egenkapitalrentabilitet</a> (ROE)</li>
+</ul>
+<h4 id="kontinuitet">Kontinuitet</h4>
+<ul>
+<li>Selskapet eksisterer uavhengig av eierne</li>
+<li>Enkelt å overføre eierskap ved salg av aksjer</li>
+<li>Selskapet fortsetter selv om eiere dør eller trekker seg ut</li>
+<li><a href="/blogs/regnskap/aksjonaeravtale" title="Hva er en Aksjonæravtale? En Omfattende Guide til Aksjonæravtaler i Norge">Aksjonæravtaler</a> kan regulere overføring av eierskap</li>
+</ul>
+<h4 id="skattefordeler">Skattefordeler</h4>
+<ul>
+<li><a href="/blogs/regnskap/aksjonaermodellen" title="Aksjonærmodellen: Skattemodell for Utbytte og Gevinst">Aksjonærmodellen</a> gir skatteoptimale utbytter gjennom skjermingsfradrag</li>
+<li><a href="/blogs/regnskap/hva-er-fritaksmetoden" title="Hva er Fritaksmetoden? Komplett Guide til Skattefritak for Utbytte">Fritaksmetoden</a> gir skattefritak for utbytte mellom selskaper</li>
+<li>Mulighet for strategisk utbytteutdeling innenfor <a href="/blogs/regnskap/maskimalt-utbytte" title="Maskimalt Utbytte - Komplett Guide til Utbytteregler og Beregning">maskimalt utbytte</a> med optimalisering basert på <a href="/blogs/regnskap/aksjonaermodellen" title="Aksjonærmodellen: Skattemodell for Utbytte og Gevinst">aksjonærmodellens</a> skjermingsfradrag</li>
+<li>Bedre muligheter for skatteplanlegging basert på <a href="/blogs/regnskap/hva-er-marginalskatt" title="Hva er Marginalskatt? Komplett Guide til Marginalskatt i Norge">marginalskatt</a></li>
+<li>Mulighet for <a href="/blogs/regnskap/hva-er-aksjonaerlan-fra-as" title="Hva er Aksjonærlån fra AS? Regler, Skatt og Praktiske Råd">aksjonærlån</a> med markedsmessige vilkår</li>
+<li>For selskaper innen naturressurser kan <a href="/blogs/regnskap/hva-er-grunnrenteskatt" title="Hva er Grunnrenteskatt? Komplett Guide til Norsk Grunnrenteskatt">grunnrenteskatt</a> være relevant</li>
+<li>Landbruksselskaper kan dra nytte av <a href="/blogs/regnskap/hva-er-jordbruksfradrag" title="Hva er Jordbruksfradrag? Komplett Guide til Landbruksfradrag og Skattefordeler">jordbruksfradrag</a> som tilkommer selskapet</li>
+</ul>
+<p>For en komplett oversikt over alle skatteordninger som gjelder for aksjeselskap og aksjonærer, se vår <a href="/blogs/regnskap/aksjonaermodellen-guide" title="Aksjonærmodellen - Komplett Guide til Norsk Aksjebeskatning">Aksjonærmodellen - Komplett Guide til Norsk Aksjebeskatning</a>.</p>
+<h4 id="finansieringsmuligheter">Finansieringsmuligheter</h4>
+<ul>
+<li><strong><a href="/blogs/regnskap/hva-er-egenfinansiering" title="Hva er Egenfinansiering? Komplett Guide til Egenkapitalfinansiering">Egenfinansiering</a></strong> - Finansiering gjennom <a href="/blogs/regnskap/hva-er-egenkapital" title="Hva er Egenkapital? Komplett Guide til Egenkapital i Regnskap">egenkapital</a> fra eierne uten å skape gjeld</li>
+<li>Aksjonærer kan <a href="/blogs/regnskap/hva-er-aksjonaerlan-til-as" title="Hva er Aksjonærlån til AS? Finansiering, Skatt og Praktiske Råd">låne penger til selskapet</a> for rask kapitalinnsprøytning</li>
+<li>Fleksibel finansiering uten å utvanne eierandelene</li>
+<li>Alternativ til tradisjonell bankfinansiering</li>
+<li>Moderne finansieringsmetoder som <a href="/blogs/regnskap/hva-er-crowdfunding" title="Hva er Crowdfunding i Regnskap? Regnskapsføring, Skatt og Juridiske Krav">crowdfunding</a> og <a href="/blogs/regnskap/hva-er-crowdlending" title="Hva er Crowdlending i Regnskap? P2P Utlån, Regnskapsføring og Skattemessige Konsekvenser">crowdlending</a> gir tilgang til kapital fra mange små investorer</li>
+<li><a href="/blogs/regnskap/hva-er-inkubator" title="Hva er en Inkubator? Komplett Guide til Bedriftsinkubatorer i Norge">Inkubatorer</a> tilbyr finansiering kombinert med mentorskap, nettverk og forretningsutvikling for oppstartsselskaper</li>
+</ul>
+<h3 id="ulemper-med-aksjeselskap">Ulemper med Aksjeselskap</h3>
+<h4 id="kompleksitet">Kompleksitet</h4>
+<ul>
+<li>Mer komplekse regler og krav enn enkle selskapsformer</li>
+<li>Krav til <a href="/blogs/regnskap/hva-er-regnskap" title="Hva er Regnskap? En komplett guide">regnskap</a> og rapportering</li>
+<li>Må følge aksjelovens bestemmelser</li>
+<li>Ansvar for <a href="/blogs/regnskap/hva-er-avgiftsplikt-mva" title="Hva er Avgiftsplikt (MVA)? Komplett Guide til Merverdiavgift i Norge">MVA-rapportering</a> - alle aksjeselskaper må registrere seg i <a href="/blogs/regnskap/hva-er-mva-registeret" title="Hva er MVA-registeret? Komplett Guide til Merverdiavgiftsregisteret i Norge">MVA-registeret</a> uavhengig av omsetning</li>
+<li>Les mer om <strong><a href="/blogs/regnskap/mva-plikt" title="MVA-plikt: Komplett Guide til Merverdiavgiftsplikt i Norge">MVA-plikt</a></strong> for aksjeselskaper</li>
+<li>Behov for strukturerte <a href="/blogs/regnskap/hva-er-anskaffelser" title="Hva er Anskaffelser? En Komplett Guide til Offentlige og Private Innkjøp">anskaffelsesprosesser</a> for å håndtere innkjøp og leverandørforhold</li>
+<li>Spesielt komplekst for <a href="/blogs/regnskap/hva-er-engroshandel" title="Hva er Engroshandel? Regnskap og Økonomistyring for Grossister">engroshandel</a> med omfattende lagerstyring og leverandørforhold</li>
+<li>Mange aksjeselskaper velger derfor å bruke <strong><a href="/blogs/regnskap/hva-er-ars" title="Hva er ARS? Autorisert Regnskapsførerselskap - Krav, Fordeler og Prosess">ARS (Autorisert Regnskapsførerselskap)</a></strong> for å sikre korrekt håndtering av alle regnskapsmessige og juridiske krav</li>
+</ul>
+<h4 id="kostnader">Kostnader</h4>
+<ul>
+<li>Høyere oppstartskostnader (minimum 30 000 kr i aksjekapital)</li>
+<li>Løpende kostnader til regnskap og revisjon</li>
+<li>Registreringsgebyrer</li>
+</ul>
+<h4 id="offentlighet">Offentlighet</h4>
+<ul>
+<li>Informasjon om selskapet er offentlig tilgjengelig</li>
+<li>Alle aksjonærer registreres i det offentlige <a href="/blogs/regnskap/hva-er-aksjonaerregisteret" title="Hva er Aksjonærregisteret? Komplett Guide til Norges Aksjonærregister">aksjonærregisteret</a> gjennom <a href="/blogs/regnskap/aksjonaerregisteroppgave" title="Hva er Aksjonærregisteroppgave? Komplett Guide til Årlig Rapportering">aksjonærregisteroppgaven</a>, og selskapet må selv føre en detaljert <a href="/blogs/regnskap/hva-er-en-aksjeeierbok" title="Hva er en Aksjeeierbok? En Komplett Guide">aksjeeierbok</a>.</li>
+<li>Årsregnskap må leveres til myndighetene</li>
+<li>Mindre fleksibilitet enn personlige selskapsformer</li>
+</ul>
+<h3 id="aksjeselskap-vs-andre-selskapsformer">Aksjeselskap vs. Andre Selskapsformer</h3>
+<p>For en detaljert sammenligning av alle <a href="/blogs/regnskap/organisasjonsform" title="Organisasjonsform: Komplett Guide til Selskapsformer i Norge">organisasjonsformer</a> og veiledning i valg av riktig selskapsform, se vår omfattende guide.</p>
+<h4 id="enkeltpersonforetak"><a href="/blogs/regnskap/hva-er-enkeltpersonforetak" title="Hva er et Enkeltpersonforetak? Komplett Guide til Selskapsformen">Enkeltpersonforetak</a></h4>
+<ul>
+<li><strong>Aksjeselskap:</strong> Begrenset ansvar, egen juridisk person</li>
+<li><strong><a href="/blogs/regnskap/hva-er-enkeltpersonforetak" title="Hva er et Enkeltpersonforetak? Komplett Guide til Selskapsformen">Enkeltpersonforetak</a>:</strong> Ubegrenset personlig ansvar, enklere struktur</li>
+</ul>
+<h4 id="ansvarlig-selskap-ans"><a href="/blogs/regnskap/ansvarlig-selskap-delt-ansvar" title="Ansvarlig Selskap og Delt Ansvar: Komplett Guide til ANS">Ansvarlig Selskap (ANS)</a></h4>
+<ul>
+<li><strong>Aksjeselskap:</strong> Eierne har begrenset ansvar</li>
+<li><strong>ANS:</strong> Deltakerne har ubegrenset solidarisk ansvar</li>
+</ul>
+<h4 id="allmennaksjeselskap-asa">Allmennaksjeselskap (ASA)</h4>
+<ul>
+<li><strong>AS:</strong> Minimum 30 000 kr i aksjekapital, ikke børsnotert</li>
+<li><strong>ASA:</strong> Minimum 1 million kr i aksjekapital, kan være børsnotert og må da publisere <a href="/blogs/regnskap/hva-er-kvartalsrapport" title="Hva er Kvartalsrapport? Komplett Guide til Kvartalsrapportering i Norge">kvartalsrapporter</a></li>
+</ul>
+<h3 id="praktiske-råd-for-oppstart">Praktiske Råd for Oppstart</h3>
+<p>Hvis du vurderer å starte et aksjeselskap:</p>
+<ol>
+<li><strong>Utarbeid en forretningsplan:</strong> En grundig <a href="/blogs/regnskap/hva-er-forretningsplan" title="Hva er Forretningsplan? Komplett Guide til Forretningsplanlegging og Regnskapsoppfølging">forretningsplan</a> er essensielt for å definere virksomhetens mål, finansieringsbehov og strategier</li>
+<li><strong>Vurder behovet:</strong> Er begrenset ansvar og tilgang til kapital viktig for din virksomhet?</li>
+<li><strong>Planlegg kapitalen:</strong> Sørg for at du har mer enn minimum 30 000 kr tilgjengelig</li>
+<li><strong>Få juridisk hjelp:</strong> Konsulter advokat eller regnskapsfører for vedtekter og opprettelse</li>
+<li><strong>Velg riktig navn:</strong> Sjekk at ønsket selskapsnavn er tilgjengelig</li>
+<li><strong>Planlegg organisering:</strong> Bestem hvem som skal være i styret og eventuelle <a href="/blogs/regnskap/hva-er-daglig-leder" title="Hva er Daglig Leder? Rolle, Ansvar og Regnskapsmessige Forpliktelser">daglig leder</a></li>
+</ol>
+<h3 id="relaterte-begreper">Relaterte Begreper</h3>
+<p>For å forstå aksjeselskaper fullt ut, bør du også sette deg inn i:</p>
+<ul>
+<li><strong><a href="/blogs/regnskap/hva-er-en-aksje" title="Hva er en Aksje? En Enkel Forklaring">Aksjer</a></strong> - Eierandelene i selskapet</li>
+<li><strong><a href="/blogs/regnskap/hva-er-aksjekapital" title="Hva er Aksjekapital? Krav og Forklaring">Aksjekapital</a></strong> - Selskapets grunnleggende kapital</li>
+<li><strong><a href="/blogs/regnskap/hva-er-aksjeklasser" title="Hva er Aksjeklasser? A-aksjer og B-aksjer Forklart">Aksjeklasser</a></strong> - Ulike typer aksjer med forskjellige rettigheter</li>
+<li><strong><a href="/blogs/regnskap/hva-er-aksjespleis" title="Hva er Aksjespleis? En Detaljert Guide">Aksjespleis</a></strong> - Sammenslåing av aksjer for å øke kursen</li>
+<li><strong><a href="/blogs/regnskap/hva-er-aksjesplitt" title="Hva er en Aksjesplitt? En Komplett Guide">Aksjesplitt</a></strong> - Oppdeling av aksjer for å senke kursen</li>
+<li><strong><a href="/blogs/regnskap/hva-er-aksjeloven" title="Hva er Aksjeloven? Regler for Aksjeselskaper i Norge">Aksjeloven</a></strong> - Loven som regulerer aksjeselskaper</li>
+<li><strong><a href="/blogs/regnskap/hva-er-aksjonaerregisteret" title="Hva er Aksjonærregisteret? Komplett Guide til Norges Aksjonærregister">Aksjonærregisteret</a></strong> - Offentlig register over alle aksjonærer</li>
+<li><strong><a href="/blogs/regnskap/aksjonaerregisteroppgave" title="Hva er Aksjonærregisteroppgave? Komplett Guide til Årlig Rapportering">Aksjonærregisteroppgave</a></strong> - Obligatorisk årlig rapportering av aksjonærinformasjon</li>
+<li><strong><a href="/blogs/regnskap/hva-er-aksjonaerlan-fra-as" title="Hva er Aksjonærlån fra AS? Regler, Skatt og Praktiske Råd">Aksjonærlån</a></strong> - Lån fra selskapet til aksjonærene</li>
+<li><strong><a href="/blogs/regnskap/ansvarlig-selskap" title="Ansvarlig Selskap (ANS): Komplett Guide til Norsk Regnskap og Ansvarsstruktur">Ansvarlig Selskap</a></strong> - Selskapsform med ubegrenset solidarisk ansvar</li>
+<li><strong><a href="/blogs/regnskap/hva-er-egenfinansiering" title="Hva er Egenfinansiering? Komplett Guide til Egenkapitalfinansiering">Egenfinansiering</a></strong> - Finansiering gjennom <a href="/blogs/regnskap/hva-er-egenkapital" title="Hva er Egenkapital? Komplett Guide til Egenkapital i Regnskap">egenkapital</a> fra eierne</li>
+<li><strong><a href="/blogs/regnskap/hva-er-egenkapital" title="Hva er Egenkapital? Komplett Guide til Egenkapital i Regnskap">Egenkapital</a></strong> - Eiernes netto formue i selskapet</li>
+<li><strong><a href="/blogs/regnskap/hva-er-egenkapitalrentabilitet" title="Hva er Egenkapitalrentabilitet? Komplett Guide til ROE Beregning">Egenkapitalrentabilitet</a></strong> - Måling av avkastning på egenkapital for investorer</li>
+<li><strong><a href="/blogs/regnskap/hva-er-holdingselskap" title="Hva er et Holdingselskap? Komplett Guide til Holdingselskaper i Norge">Holdingselskap</a></strong> - Spesialisert aksjeselskap som eier andre selskaper</li>
+<li><strong><a href="/blogs/regnskap/hva-er-juridisk-person" title="Hva er en Juridisk Person? Komplett Guide til Juridiske Personer i Regnskap">Juridisk Person</a></strong> - Grunnleggende konsept som forklarer hvorfor aksjeselskap har egen rettsevne</li>
+<li><strong><a href="/blogs/regnskap/hva-er-regnskap" title="Hva er Regnskap? En komplett guide">Regnskap</a></strong> - Regnskapsføring for aksjeselskaper</li>
+<li><strong><a href="/blogs/regnskap/aksjonaeravtale" title="Hva er en Aksjonæravtale? En Omfattende Guide til Aksjonæravtaler">Aksjonæravtale</a></strong> - Skriftlig avtale mellom aksjonærer om eierstyring og rettigheter</li>
+</ul>
+<p>Et aksjeselskap er en kraftig selskapsform som gir fleksibilitet og beskyttelse, men krever også grundig planlegging og forståelse av regelverket.</p>
+</article>
+  </div>
+</section>
+
+  </main>
+  <footer class="mt-16 border-t border-slate-800/60 bg-slate-900">
+  <div class="max-w-7xl mx-auto px-4 py-14">
+    <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3 text-center sm:text-left">
+      
+      <div>
+        <h3 class="text-sm font-semibold text-white">Verktøy</h3>
+        <ul class="mt-2 space-y-2 text-sm text-slate-300">
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/finn-iban/">IBAN kalkulator</a></li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/lag-faktura-gratis/">Lag faktura</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Selskaps-informasjon</h3>
+        <ul class="mt-2 space-y-1 text-sm text-slate-300">
+          <li>Reai AS</li>
+          <li>Orgnr: 935606403</li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="mailto:post@reai.no">post@reai.no</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Om ReAI</h3>
+        <p class="mt-2 text-sm text-slate-300">ReAI er et gratis regnskapsprogram laget av tidligere ansatte i Tripletex
+          / Visma. Vi mener det er på tide med mer konkurranse i regnskaps-bransjen som kan komme bedrifter til gode.
+        </p>
+      </div>
+    </div>
+    <div class="mt-12 border-t border-slate-800/60 pt-6 flex flex-col items-center sm:flex-row sm:items-center sm:justify-between text-sm text-slate-400 text-center sm:text-left">
+      <div class="flex items-center gap-2">
+        
+        
+      </div>
+      <div class="mt-4 sm:mt-0 flex items-center justify-center sm:justify-end">
+        <div class="opacity-80">&copy; 2025 ReAI. All rights reserved.</div>
+      </div>
+    </div>
+  </div>
+</footer>
+</body>
+</html>

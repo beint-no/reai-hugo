@@ -1,0 +1,98 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="incomeGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#20c997;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="expenseGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#dc3545;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#fd7e14;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="resultGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#333">
+    Driftsresultat Oversikt
+  </text>
+  
+  <!-- Driftsinntekter section -->
+  <rect x="50" y="80" width="300" height="150" fill="url(#incomeGradient)" rx="10"/>
+  <text x="200" y="110" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+    DRIFTSINNTEKTER
+  </text>
+  <text x="70" y="140" font-family="Arial, sans-serif" font-size="14" fill="white">
+    • Salgsinntekter
+  </text>
+  <text x="70" y="160" font-family="Arial, sans-serif" font-size="14" fill="white">
+    • Andre driftsinntekter
+  </text>
+  <text x="70" y="180" font-family="Arial, sans-serif" font-size="14" fill="white">
+    • Leieinntekter
+  </text>
+  <text x="70" y="200" font-family="Arial, sans-serif" font-size="14" fill="white">
+    • Provisjoner
+  </text>
+  
+  <!-- Minus sign -->
+  <text x="400" y="170" font-family="Arial, sans-serif" font-size="36" font-weight="bold" text-anchor="middle" fill="#333">
+    -
+  </text>
+  
+  <!-- Driftskostnader section -->
+  <rect x="450" y="80" width="300" height="150" fill="url(#expenseGradient)" rx="10"/>
+  <text x="600" y="110" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+    DRIFTSKOSTNADER
+  </text>
+  <text x="470" y="140" font-family="Arial, sans-serif" font-size="14" fill="white">
+    • Varekostnad
+  </text>
+  <text x="470" y="160" font-family="Arial, sans-serif" font-size="14" fill="white">
+    • Lønnskostnader
+  </text>
+  <text x="470" y="180" font-family="Arial, sans-serif" font-size="14" fill="white">
+    • Avskrivninger
+  </text>
+  <text x="470" y="200" font-family="Arial, sans-serif" font-size="14" fill="white">
+    • Andre driftskostnader
+  </text>
+  
+  <!-- Arrow down -->
+  <path d="M 400 250 L 380 280 L 420 280 Z" fill="#333"/>
+  <line x1="400" y1="240" x2="400" y2="280" stroke="#333" stroke-width="3"/>
+  
+  <!-- Result section -->
+  <rect x="250" y="320" width="300" height="100" fill="url(#resultGradient)" rx="10"/>
+  <text x="400" y="350" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="white">
+    DRIFTSRESULTAT
+  </text>
+  <text x="400" y="375" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="white">
+    Operasjonell lønnsomhet
+  </text>
+  <text x="400" y="395" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="white">
+    Før finansposter og skatt
+  </text>
+  
+  <!-- Key benefits -->
+  <text x="50" y="460" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#333">
+    Nøkkelfordeler:
+  </text>
+  <text x="200" y="460" font-family="Arial, sans-serif" font-size="14" fill="#666">
+    • Sammenlignbart mellom selskaper
+  </text>
+  <text x="450" y="460" font-family="Arial, sans-serif" font-size="14" fill="#666">
+    • Måler operasjonell effektivitet
+  </text>
+  <text x="200" y="480" font-family="Arial, sans-serif" font-size="14" fill="#666">
+    • Grunnlag for verdsettelse
+  </text>
+  <text x="450" y="480" font-family="Arial, sans-serif" font-size="14" fill="#666">
+    • Uavhengig av finansiering
+  </text>
+</svg>

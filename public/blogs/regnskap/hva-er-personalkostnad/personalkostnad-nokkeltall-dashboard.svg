@@ -1,0 +1,212 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#2E8B57;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3CB371;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="cardGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow">
+      <feDropShadow dx="2" dy="2" stdDeviation="3" flood-color="#000" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f5f5f5"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
+  <text x="400" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="22" font-weight="bold">
+    Personalkostnad Nøkkeltall Dashboard
+  </text>
+  
+  <!-- Produktivitetsmål Section -->
+  <text x="50" y="90" fill="#333" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
+    Produktivitetsmål
+  </text>
+  
+  <!-- Omsetning per ansatt -->
+  <rect x="50" y="100" width="220" height="130" fill="url(#cardGradient)" rx="8" filter="url(#shadow)"/>
+  <text x="160" y="125" text-anchor="middle" fill="#2E8B57" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    Omsetning per ansatt
+  </text>
+  <text x="160" y="155" text-anchor="middle" fill="#1a472a" font-family="Arial, sans-serif" font-size="32" font-weight="bold">
+    2,4M
+  </text>
+  <text x="160" y="175" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="12">
+    NOK årlig
+  </text>
+  <polygon points="140,185 150,195 180,195 170,185" fill="#28a745"/>
+  <text x="160" y="205" text-anchor="middle" fill="#28a745" font-family="Arial, sans-serif" font-size="12">
+    ↑ 8% fra i fjor
+  </text>
+  <text x="160" y="220" text-anchor="middle" fill="#888" font-family="Arial, sans-serif" font-size="10">
+    Måler effektivitet
+  </text>
+  
+  <!-- Resultat per ansatt -->
+  <rect x="290" y="100" width="220" height="130" fill="url(#cardGradient)" rx="8" filter="url(#shadow)"/>
+  <text x="400" y="125" text-anchor="middle" fill="#2E8B57" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    Resultat per ansatt
+  </text>
+  <text x="400" y="155" text-anchor="middle" fill="#1a472a" font-family="Arial, sans-serif" font-size="32" font-weight="bold">
+    180K
+  </text>
+  <text x="400" y="175" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="12">
+    NOK årlig
+  </text>
+  <polygon points="380,185 390,195 420,195 410,185" fill="#28a745"/>
+  <text x="400" y="205" text-anchor="middle" fill="#28a745" font-family="Arial, sans-serif" font-size="12">
+    ↑ 12% fra i fjor
+  </text>
+  <text x="400" y="220" text-anchor="middle" fill="#888" font-family="Arial, sans-serif" font-size="10">
+    Profitabilitet per arbeider
+  </text>
+  
+  <!-- Personalkostnad andel -->
+  <rect x="530" y="100" width="220" height="130" fill="url(#cardGradient)" rx="8" filter="url(#shadow)"/>
+  <text x="640" y="125" text-anchor="middle" fill="#2E8B57" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    Personalkostnad andel
+  </text>
+  <text x="640" y="155" text-anchor="middle" fill="#1a472a" font-family="Arial, sans-serif" font-size="32" font-weight="bold">
+    62%
+  </text>
+  <text x="640" y="175" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="12">
+    av omsetning
+  </text>
+  <polygon points="625,185 635,195 655,195 645,185" fill="#dc3545"/>
+  <text x="640" y="205" text-anchor="middle" fill="#dc3545" font-family="Arial, sans-serif" font-size="12">
+    ↓ 3% fra i fjor
+  </text>
+  <text x="640" y="220" text-anchor="middle" fill="#888" font-family="Arial, sans-serif" font-size="10">
+    Kostnadseffektivitet
+  </text>
+  
+  <!-- Kvalitetsmål Section -->
+  <text x="50" y="270" fill="#333" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
+    Kvalitetsmål
+  </text>
+  
+  <!-- Turnover rate -->
+  <rect x="50" y="280" width="220" height="130" fill="url(#cardGradient)" rx="8" filter="url(#shadow)"/>
+  <text x="160" y="305" text-anchor="middle" fill="#2E8B57" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    Turnover rate
+  </text>
+  <text x="160" y="335" text-anchor="middle" fill="#1a472a" font-family="Arial, sans-serif" font-size="32" font-weight="bold">
+    8,2%
+  </text>
+  <text x="160" y="355" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="12">
+    årlig
+  </text>
+  <polygon points="140,365 150,375 180,375 170,365" fill="#28a745"/>
+  <text x="160" y="385" text-anchor="middle" fill="#28a745" font-family="Arial, sans-serif" font-size="12">
+    ↓ 1,5% fra i fjor
+  </text>
+  <text x="160" y="400" text-anchor="middle" fill="#888" font-family="Arial, sans-serif" font-size="10">
+    Andel ansatte som slutter
+  </text>
+  
+  <!-- Sykefravær -->
+  <rect x="290" y="280" width="220" height="130" fill="url(#cardGradient)" rx="8" filter="url(#shadow)"/>
+  <text x="400" y="305" text-anchor="middle" fill="#2E8B57" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    Sykefravær
+  </text>
+  <text x="400" y="335" text-anchor="middle" fill="#1a472a" font-family="Arial, sans-serif" font-size="32" font-weight="bold">
+    4,1%
+  </text>
+  <text x="400" y="355" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="12">
+    av arbeidstid
+  </text>
+  <polygon points="385,365 395,375 415,375 405,365" fill="#ffc107"/>
+  <text x="400" y="385" text-anchor="middle" fill="#856404" font-family="Arial, sans-serif" font-size="12">
+    ↑ 0,3% fra i fjor
+  </text>
+  <text x="400" y="400" text-anchor="middle" fill="#888" font-family="Arial, sans-serif" font-size="10">
+    Prosentvis fravær grunnet sykdom
+  </text>
+  
+  <!-- Overtidsandel -->
+  <rect x="530" y="280" width="220" height="130" fill="url(#cardGradient)" rx="8" filter="url(#shadow)"/>
+  <text x="640" y="305" text-anchor="middle" fill="#2E8B57" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    Overtidsandel
+  </text>
+  <text x="640" y="335" text-anchor="middle" fill="#1a472a" font-family="Arial, sans-serif" font-size="32" font-weight="bold">
+    6,8%
+  </text>
+  <text x="640" y="355" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="12">
+    av total arbeidstid
+  </text>
+  <polygon points="625,365 635,375 655,375 645,365" fill="#dc3545"/>
+  <text x="640" y="385" text-anchor="middle" fill="#dc3545" font-family="Arial, sans-serif" font-size="12">
+    ↑ 1,2% fra i fjor
+  </text>
+  <text x="640" y="400" text-anchor="middle" fill="#888" font-family="Arial, sans-serif" font-size="10">
+    Andel overtid av total arbeidstid
+  </text>
+  
+  <!-- Benchmarking Section -->
+  <text x="50" y="450" fill="#333" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
+    Benchmarking
+  </text>
+  
+  <!-- Bransjesammenligning -->
+  <rect x="50" y="460" width="340" height="120" fill="url(#cardGradient)" rx="8" filter="url(#shadow)"/>
+  <text x="220" y="485" text-anchor="middle" fill="#2E8B57" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    Bransjesammenligning
+  </text>
+  
+  <!-- Bar chart for branches -->
+  <rect x="70" y="500" width="60" height="30" fill="#3CB371"/>
+  <text x="100" y="518" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">Din bedrift</text>
+  <text x="100" y="545" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="9">62%</text>
+  
+  <rect x="140" y="510" width="60" height="20" fill="#87CEEB"/>
+  <text x="170" y="525" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="10">IT-tjenester</text>
+  <text x="170" y="545" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="9">68%</text>
+  
+  <rect x="210" y="515" width="60" height="15" fill="#DDA0DD"/>
+  <text x="240" y="527" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="10">Konsulent</text>
+  <text x="240" y="545" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="9">75%</text>
+  
+  <rect x="280" y="520" width="60" height="10" fill="#F0E68C"/>
+  <text x="310" y="530" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="10">Industri</text>
+  <text x="310" y="545" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="9">25%</text>
+  
+  <text x="220" y="565" text-anchor="middle" fill="#888" font-family="Arial, sans-serif" font-size="10">
+    Personalkostnad som % av omsetning
+  </text>
+  
+  <!-- Trend Analysis -->
+  <rect x="410" y="460" width="340" height="120" fill="url(#cardGradient)" rx="8" filter="url(#shadow)"/>
+  <text x="580" y="485" text-anchor="middle" fill="#2E8B57" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    Trendanalyse (5 år)
+  </text>
+  
+  <!-- Simple line chart -->
+  <polyline points="430,540 460,520 490,510 520,525 550,500 580,495 610,505 640,490 670,485 700,480" 
+            stroke="#2E8B57" stroke-width="3" fill="none"/>
+  
+  <!-- Data points -->
+  <circle cx="430" cy="540" r="3" fill="#2E8B57"/>
+  <circle cx="460" cy="520" r="3" fill="#2E8B57"/>
+  <circle cx="490" cy="510" r="3" fill="#2E8B57"/>
+  <circle cx="520" cy="525" r="3" fill="#2E8B57"/>
+  <circle cx="550" cy="500" r="3" fill="#2E8B57"/>
+  <circle cx="580" cy="495" r="3" fill="#2E8B57"/>
+  <circle cx="610" cy="505" r="3" fill="#2E8B57"/>
+  <circle cx="640" cy="490" r="3" fill="#2E8B57"/>
+  <circle cx="670" cy="485" r="3" fill="#2E8B57"/>
+  <circle cx="700" cy="480" r="3" fill="#2E8B57"/>
+  
+  <!-- Axis labels -->
+  <text x="430" y="560" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">2019</text>
+  <text x="520" y="560" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">2021</text>
+  <text x="610" y="560" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">2022</text>
+  <text x="700" y="560" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">2024</text>
+  
+  <text x="580" y="575" text-anchor="middle" fill="#888" font-family="Arial, sans-serif" font-size="10">
+    Omsetning per ansatt (mill. NOK)
+  </text>
+</svg>

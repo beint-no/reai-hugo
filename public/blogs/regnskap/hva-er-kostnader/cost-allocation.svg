@@ -1,0 +1,136 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="indirectGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e74c3c;stop-opacity:0.9" />
+      <stop offset="100%" style="stop-color:#c0392b;stop-opacity:0.9" />
+    </linearGradient>
+    <linearGradient id="productAGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3498db;stop-opacity:0.9" />
+      <stop offset="100%" style="stop-color:#2980b9;stop-opacity:0.9" />
+    </linearGradient>
+    <linearGradient id="productBGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#27ae60;stop-opacity:0.9" />
+      <stop offset="100%" style="stop-color:#229954;stop-opacity:0.9" />
+    </linearGradient>
+    <linearGradient id="productCGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f39c12;stop-opacity:0.9" />
+      <stop offset="100%" style="stop-color:#e67e22;stop-opacity:0.9" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa" />
+  
+  <!-- Title -->
+  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" 
+        text-anchor="middle" fill="#333">Kostnadsfordeling</text>
+  
+  <!-- Indirect costs pool -->
+  <rect x="300" y="80" width="200" height="120" fill="url(#indirectGradient)" stroke="#c0392b" stroke-width="3" rx="10" />
+  <text x="400" y="110" font-family="Arial, sans-serif" font-size="18" font-weight="bold" 
+        text-anchor="middle" fill="white">INDIREKTE</text>
+  <text x="400" y="130" font-family="Arial, sans-serif" font-size="18" font-weight="bold" 
+        text-anchor="middle" fill="white">KOSTNADER</text>
+  <text x="400" y="155" font-family="Arial, sans-serif" font-size="14" 
+        text-anchor="middle" fill="white">1.200.000 kr</text>
+  <text x="400" y="175" font-family="Arial, sans-serif" font-size="12" 
+        text-anchor="middle" fill="white">Husleie, administrasjon,</text>
+  <text x="400" y="190" font-family="Arial, sans-serif" font-size="12" 
+        text-anchor="middle" fill="white">IT-kostnader, forsikring</text>
+  
+  <!-- Allocation keys table -->
+  <rect x="50" y="230" width="700" height="180" fill="white" stroke="#ddd" stroke-width="2" rx="10" />
+  <text x="400" y="255" font-family="Arial, sans-serif" font-size="16" font-weight="bold" 
+        text-anchor="middle" fill="#333">Fordelingsnøkler</text>
+  
+  <!-- Table headers -->
+  <rect x="50" y="270" width="700" height="30" fill="#34495e" rx="10 10 0 0" />
+  <text x="150" y="290" font-family="Arial, sans-serif" font-size="12" font-weight="bold" 
+        text-anchor="middle" fill="white">Kostnadskategori</text>
+  <text x="350" y="290" font-family="Arial, sans-serif" font-size="12" font-weight="bold" 
+        text-anchor="middle" fill="white">Fordelingsnøkkel</text>
+  <text x="600" y="290" font-family="Arial, sans-serif" font-size="12" font-weight="bold" 
+        text-anchor="middle" fill="white">Begrunnelse</text>
+  
+  <!-- Table rows -->
+  <rect x="50" y="300" width="700" height="25" fill="#ecf0f1" />
+  <text x="150" y="317" font-family="Arial, sans-serif" font-size="11" 
+        text-anchor="middle" fill="#333">Husleie</text>
+  <text x="350" y="317" font-family="Arial, sans-serif" font-size="11" 
+        text-anchor="middle" fill="#333">Kvadratmeter</text>
+  <text x="600" y="317" font-family="Arial, sans-serif" font-size="11" 
+        text-anchor="middle" fill="#333">Arealbruk</text>
+  
+  <rect x="50" y="325" width="700" height="25" fill="white" />
+  <text x="150" y="342" font-family="Arial, sans-serif" font-size="11" 
+        text-anchor="middle" fill="#333">Strøm</text>
+  <text x="350" y="342" font-family="Arial, sans-serif" font-size="11" 
+        text-anchor="middle" fill="#333">Maskintime/kWh</text>
+  <text x="600" y="342" font-family="Arial, sans-serif" font-size="11" 
+        text-anchor="middle" fill="#333">Energiforbruk</text>
+  
+  <rect x="50" y="350" width="700" height="25" fill="#ecf0f1" />
+  <text x="150" y="367" font-family="Arial, sans-serif" font-size="11" 
+        text-anchor="middle" fill="#333">Administrasjon</text>
+  <text x="350" y="367" font-family="Arial, sans-serif" font-size="11" 
+        text-anchor="middle" fill="#333">Omsetning/ansatte</text>
+  <text x="600" y="367" font-family="Arial, sans-serif" font-size="11" 
+        text-anchor="middle" fill="#333">Aktivitetsnivå</text>
+  
+  <rect x="50" y="375" width="700" height="25" fill="white" />
+  <text x="150" y="392" font-family="Arial, sans-serif" font-size="11" 
+        text-anchor="middle" fill="#333">IT-kostnader</text>
+  <text x="350" y="392" font-family="Arial, sans-serif" font-size="11" 
+        text-anchor="middle" fill="#333">Antall brukere</text>
+  <text x="600" y="392" font-family="Arial, sans-serif" font-size="11" 
+        text-anchor="middle" fill="#333">Systembruk</text>
+  
+  <!-- Allocation arrows -->
+  <path d="M 350 220 L 200 450" stroke="#e74c3c" stroke-width="4" fill="none" marker-end="url(#redArrow)" />
+  <path d="M 400 220 L 400 450" stroke="#e74c3c" stroke-width="4" fill="none" marker-end="url(#redArrow)" />
+  <path d="M 450 220 L 600 450" stroke="#e74c3c" stroke-width="4" fill="none" marker-end="url(#redArrow)" />
+  
+  <!-- Products -->
+  <rect x="100" y="460" width="120" height="100" fill="url(#productAGradient)" stroke="#2980b9" stroke-width="2" rx="8" />
+  <text x="160" y="485" font-family="Arial, sans-serif" font-size="14" font-weight="bold" 
+        text-anchor="middle" fill="white">Produkt A</text>
+  <text x="160" y="505" font-family="Arial, sans-serif" font-size="12" 
+        text-anchor="middle" fill="white">40% av total</text>
+  <text x="160" y="525" font-family="Arial, sans-serif" font-size="12" font-weight="bold" 
+        text-anchor="middle" fill="white">480.000 kr</text>
+  <text x="160" y="545" font-family="Arial, sans-serif" font-size="10" 
+        text-anchor="middle" fill="white">indirekte kostnader</text>
+  
+  <rect x="340" y="460" width="120" height="100" fill="url(#productBGradient)" stroke="#229954" stroke-width="2" rx="8" />
+  <text x="400" y="485" font-family="Arial, sans-serif" font-size="14" font-weight="bold" 
+        text-anchor="middle" fill="white">Produkt B</text>
+  <text x="400" y="505" font-family="Arial, sans-serif" font-size="12" 
+        text-anchor="middle" fill="white">35% av total</text>
+  <text x="400" y="525" font-family="Arial, sans-serif" font-size="12" font-weight="bold" 
+        text-anchor="middle" fill="white">420.000 kr</text>
+  <text x="400" y="545" font-family="Arial, sans-serif" font-size="10" 
+        text-anchor="middle" fill="white">indirekte kostnader</text>
+  
+  <rect x="580" y="460" width="120" height="100" fill="url(#productCGradient)" stroke="#e67e22" stroke-width="2" rx="8" />
+  <text x="640" y="485" font-family="Arial, sans-serif" font-size="14" font-weight="bold" 
+        text-anchor="middle" fill="white">Produkt C</text>
+  <text x="640" y="505" font-family="Arial, sans-serif" font-size="12" 
+        text-anchor="middle" fill="white">25% av total</text>
+  <text x="640" y="525" font-family="Arial, sans-serif" font-size="12" font-weight="bold" 
+        text-anchor="middle" fill="white">300.000 kr</text>
+  <text x="640" y="545" font-family="Arial, sans-serif" font-size="10" 
+        text-anchor="middle" fill="white">indirekte kostnader</text>
+  
+  <!-- Arrow marker -->
+  <defs>
+    <marker id="redArrow" markerWidth="10" markerHeight="8" 
+            refX="9" refY="4" orient="auto">
+      <polygon points="0 0, 10 4, 0 8" fill="#e74c3c" />
+    </marker>
+  </defs>
+  
+  <!-- Key insight box -->
+  <rect x="150" y="580" width="500" height="15" fill="#fff3cd" stroke="#ffc107" stroke-width="1" rx="5" />
+  <text x="400" y="592" font-family="Arial, sans-serif" font-size="11" font-weight="bold" 
+        text-anchor="middle" fill="#856404">Logiske fordelingsnøkler sikrer rettferdig allokering av indirekte kostnader</text>
+</svg>

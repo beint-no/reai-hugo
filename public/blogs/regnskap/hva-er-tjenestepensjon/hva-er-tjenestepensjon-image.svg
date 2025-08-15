@@ -1,0 +1,66 @@
+<svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#2E5BBA;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1E3A8A;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#F8FAFC;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#E2E8F0;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="400" fill="#F1F5F9"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="80" fill="url(#headerGrad)"/>
+  <text x="400" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="bold">Hva er Tjenestepensjon?</text>
+  <text x="400" y="60" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14">Bedriftspensjon og Regnskapsføring</text>
+  
+  <!-- Main content area -->
+  <rect x="50" y="100" width="700" height="280" rx="10" fill="url(#cardGrad)" stroke="#CBD5E1" stroke-width="2"/>
+  
+  <!-- Two pension types -->
+  <rect x="80" y="130" width="300" height="220" rx="8" fill="white" stroke="#3B82F6" stroke-width="2"/>
+  <rect x="420" y="130" width="300" height="220" rx="8" fill="white" stroke="#10B981" stroke-width="2"/>
+  
+  <!-- Innskuddspensjon -->
+  <text x="230" y="155" text-anchor="middle" fill="#1E40AF" font-family="Arial, sans-serif" font-size="18" font-weight="bold">Innskuddspensjon</text>
+  
+  <!-- Innskuddspensjon icon -->
+  <circle cx="230" cy="185" r="25" fill="#DBEAFE" stroke="#3B82F6" stroke-width="2"/>
+  <text x="230" y="192" text-anchor="middle" fill="#1E40AF" font-family="Arial, sans-serif" font-size="20" font-weight="bold">%</text>
+  
+  <text x="90" y="225" fill="#374151" font-family="Arial, sans-serif" font-size="13">• Definerte bidrag</text>
+  <text x="90" y="245" fill="#374151" font-family="Arial, sans-serif" font-size="13">• Fast prosentsats av lønn</text>
+  <text x="90" y="265" fill="#374151" font-family="Arial, sans-serif" font-size="13">• Ansatte bærer risiko</text>
+  <text x="90" y="285" fill="#374151" font-family="Arial, sans-serif" font-size="13">• Enkel regnskapsføring</text>
+  <text x="90" y="305" fill="#374151" font-family="Arial, sans-serif" font-size="13">• Høy fleksibilitet</text>
+  <text x="90" y="325" fill="#374151" font-family="Arial, sans-serif" font-size="13">• Lovpålagt minimum 2%</text>
+  
+  <!-- Ytelsespensjon -->
+  <text x="570" y="155" text-anchor="middle" fill="#059669" font-family="Arial, sans-serif" font-size="18" font-weight="bold">Ytelsespensjon</text>
+  
+  <!-- Ytelsespensjon icon -->
+  <circle cx="570" cy="185" r="25" fill="#D1FAE5" stroke="#10B981" stroke-width="2"/>
+  <text x="570" y="192" text-anchor="middle" fill="#059669" font-family="Arial, sans-serif" font-size="20" font-weight="bold">₪</text>
+  
+  <text x="430" y="225" fill="#374151" font-family="Arial, sans-serif" font-size="13">• Definerte ytelser</text>
+  <text x="430" y="245" fill="#374151" font-family="Arial, sans-serif" font-size="13">• Fast pensjonsnivå</text>
+  <text x="430" y="265" fill="#374151" font-family="Arial, sans-serif" font-size="13">• Arbeidsgiver bærer risiko</text>
+  <text x="430" y="285" fill="#374151" font-family="Arial, sans-serif" font-size="13">• Kompleks regnskapsføring</text>
+  <text x="430" y="305" fill="#374151" font-family="Arial, sans-serif" font-size="13">• Aktuarielle beregninger</text>
+  <text x="430" y="325" fill="#374151" font-family="Arial, sans-serif" font-size="13">• Langsiktige forpliktelser</text>
+  
+  <!-- Arrows and connection -->
+  <path d="M 360 240 L 400 240" stroke="#6B7280" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto" fill="#6B7280">
+      <polygon points="0 0, 10 3.5, 0 7"/>
+    </marker>
+  </defs>
+  
+  <text x="380" y="235" text-anchor="middle" fill="#6B7280" font-family="Arial, sans-serif" font-size="12">VS</text>
+</svg>

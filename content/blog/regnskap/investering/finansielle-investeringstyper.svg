@@ -1,0 +1,35 @@
+<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="500" fill="#f0f4f8"/>
+  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" fill="#2c3e50" text-anchor="middle">Finansielle Investeringstyper</text>
+
+  <!-- Egenkapitalinstrumenter -->
+  <g transform="translate(50, 80)">
+    <rect width="220" height="380" fill="#3498db" rx="10"/>
+    <text x="110" y="30" font-family="Arial, sans-serif" font-size="18" fill="white" text-anchor="middle">Egenkapital</text>
+    <line x1="20" y1="50" x2="200" y2="50" stroke="white" stroke-width="2"/>
+    <text x="30" y="80" font-family="Arial, sans-serif" font-size="14" fill="white">- Aksjer</text>
+    <text x="30" y="110" font-family="Arial, sans-serif" font-size="14" fill="white">- Aksjefond</text>
+    <text x="30" y="140" font-family="Arial, sans-serif" font-size="14" fill="white">- Indeksfond</text>
+    <text x="30" y="170" font-family="Arial, sans-serif" font-size="14" fill="white">- Private Equity</text>
+  </g>
+
+  <!-- Gjeldsinstrumenter -->
+  <g transform="translate(290, 80)">
+    <rect width="220" height="380" fill="#2ecc71" rx="10"/>
+    <text x="110" y="30" font-family="Arial, sans-serif" font-size="18" fill="white" text-anchor="middle">Gjeld</text>
+    <line x1="20" y1="50" x2="200" y2="50" stroke="white" stroke-width="2"/>
+    <text x="30" y="80" font-family="Arial, sans-serif" font-size="14" fill="white">- Statsobligasjoner</text>
+    <text x="30" y="110" font-family="Arial, sans-serif" font-size="14" fill="white">- Selskapsobligasjoner</text>
+    <text x="30" y="140" font-family="Arial, sans-serif" font-size="14" fill="white">- Bankinnskudd</text>
+  </g>
+
+  <!-- Derivater -->
+  <g transform="translate(530, 80)">
+    <rect width="220" height="380" fill="#e67e22" rx="10"/>
+    <text x="110" y="30" font-family="Arial, sans-serif" font-size="18" fill="white" text-anchor="middle">Derivater</text>
+    <line x1="20" y1="50" x2="200" y2="50" stroke="white" stroke-width="2"/>
+    <text x="30" y="80" font-family="Arial, sans-serif" font-size="14" fill="white">- Opsjoner</text>
+    <text x="30" y="110" font-family="Arial, sans-serif" font-size="14" fill="white">- Futures</text>
+    <text x="30" y="140" font-family="Arial, sans-serif" font-size="14" fill="white">- Strukturerte Produkter</text>
+  </g>
+</svg>

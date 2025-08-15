@@ -1,0 +1,146 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-size="24" font-weight="bold" fill="#2c3e50">
+    Case: Etterbetaling med Progressionseffekt
+  </text>
+  
+  <!-- Scenario description -->
+  <rect x="50" y="60" width="700" height="40" fill="#fff3cd" stroke="#ffc107" stroke-width="1" rx="8"/>
+  <text x="400" y="80" text-anchor="middle" font-size="14" font-weight="bold" fill="#2c3e50">
+    Situasjon: Etterbetaling av uføretrygd på 120.000 kr
+  </text>
+  
+  <!-- Before section -->
+  <rect x="50" y="120" width="320" height="180" fill="#e8f4fd" stroke="#3498db" stroke-width="2" rx="8"/>
+  <text x="210" y="145" text-anchor="middle" font-size="16" font-weight="bold" fill="#2c3e50">
+    Opprinnelig Situasjon
+  </text>
+  
+  <!-- Before calculations -->
+  <rect x="70" y="160" width="280" height="120" fill="#ffffff" stroke="#5dade2" stroke-width="1" rx="4"/>
+  <text x="80" y="180" font-size="12" font-weight="bold" fill="#2c3e50">
+    Årlig før etterbetaling:
+  </text>
+  <text x="80" y="200" font-size="11" fill="#34495e">
+    • Uføretrygd: 200.000 kr
+  </text>
+  <text x="80" y="220" font-size="11" fill="#34495e">
+    • Trygdeavgift (5,1%): 10.200 kr
+  </text>
+  <text x="80" y="240" font-size="11" fill="#34495e">
+    • Ordinær skatt (estimert): 32.000 kr
+  </text>
+  <text x="80" y="260" font-size="11" fill="#e74c3c" font-weight="bold">
+    Total skatt og avgifter: 42.200 kr
+  </text>
+  
+  <!-- After section -->
+  <rect x="430" y="120" width="320" height="180" fill="#fdeaea" stroke="#e74c3c" stroke-width="2" rx="8"/>
+  <text x="590" y="145" text-anchor="middle" font-size="16" font-weight="bold" fill="#2c3e50">
+    Med Etterbetaling
+  </text>
+  
+  <!-- After calculations -->
+  <rect x="450" y="160" width="280" height="120" fill="#ffffff" stroke="#f1948a" stroke-width="1" rx="4"/>
+  <text x="460" y="180" font-size="12" font-weight="bold" fill="#2c3e50">
+    Årlig med etterbetaling:
+  </text>
+  <text x="460" y="200" font-size="11" fill="#34495e">
+    • Total inntekt: 320.000 kr
+  </text>
+  <text x="460" y="220" font-size="11" fill="#34495e">
+    • Trygdeavgift (5,1%): 16.320 kr
+  </text>
+  <text x="460" y="240" font-size="11" fill="#34495e">
+    • Ordinær skatt (høyere): 52.280 kr
+  </text>
+  <text x="460" y="260" font-size="11" fill="#e74c3c" font-weight="bold">
+    Total skatt og avgifter: 68.600 kr
+  </text>
+  
+  <!-- Progression effect visualization -->
+  <rect x="100" y="320" width="600" height="140" fill="#f4f6f7" stroke="#7f8c8d" stroke-width="2" rx="8"/>
+  <text x="400" y="345" text-anchor="middle" font-size="16" font-weight="bold" fill="#2c3e50">
+    Progressionseffekt Analyse
+  </text>
+  
+  <!-- Bar chart visualization -->
+  <!-- Normal year bar -->
+  <rect x="150" y="360" width="60" height="80" fill="#3498db" stroke="#2980b9" stroke-width="1"/>
+  <text x="180" y="380" text-anchor="middle" font-size="10" fill="white" font-weight="bold">
+    21%
+  </text>
+  <text x="180" y="455" text-anchor="middle" font-size="11" fill="#2c3e50">
+    Normal år
+  </text>
+  <text x="180" y="470" text-anchor="middle" font-size="10" fill="#7f8c8d">
+    Effektiv skatt
+  </text>
+  
+  <!-- Etterbetaling year bar -->
+  <rect x="250" y="360" width="60" height="100" fill="#e74c3c" stroke="#c0392b" stroke-width="1"/>
+  <text x="280" y="385" text-anchor="middle" font-size="10" fill="white" font-weight="bold">
+    21,4%
+  </text>
+  <text x="280" y="475" text-anchor="middle" font-size="11" fill="#2c3e50">
+    Etterbetalingsår
+  </text>
+  <text x="280" y="490" text-anchor="middle" font-size="10" fill="#7f8c8d">
+    Effektiv skatt
+  </text>
+  
+  <!-- Arrow showing increase -->
+  <path d="M 210 400 L 250 400" stroke="#e74c3c" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  <text x="230" y="395" text-anchor="middle" font-size="10" fill="#e74c3c" font-weight="bold">
+    +0,4%
+  </text>
+  
+  <!-- Detailed breakdown -->
+  <rect x="350" y="360" width="320" height="80" fill="#ffffff" stroke="#bdc3c7" stroke-width="1" rx="4"/>
+  <text x="510" y="380" text-anchor="middle" font-size="12" font-weight="bold" fill="#2c3e50">
+    Detaljert Beregning
+  </text>
+  <text x="370" y="400" font-size="11" fill="#34495e">
+    • Ekstra skatt: 26.400 kr
+  </text>
+  <text x="370" y="415" font-size="11" fill="#34495e">
+    • Netto etterbetaling: 93.600 kr
+  </text>
+  <text x="370" y="430" font-size="11" fill="#e74c3c" font-weight="bold">
+    • Andel som skatt: 22% av etterbetaling
+  </text>
+  
+  <!-- Solution box -->
+  <rect x="100" y="480" width="600" height="80" fill="#d4edda" stroke="#28a745" stroke-width="2" rx="8"/>
+  <text x="400" y="505" text-anchor="middle" font-size="16" font-weight="bold" fill="#2c3e50">
+    Mulige Løsninger
+  </text>
+  
+  <text x="120" y="525" font-size="12" fill="#155724">
+    • Søk om lemping ved høy ekstraskatt
+  </text>
+  <text x="120" y="545" font-size="12" fill="#155724">
+    • Vurder fordeling over flere år (hvis mulig)
+  </text>
+  <text x="450" y="525" font-size="12" fill="#155724">
+    • Kontakt skattekontoret for veiledning
+  </text>
+  <text x="450" y="545" font-size="12" fill="#155724">
+    • Planlegg for fremtidige etterbetalinger
+  </text>
+  
+  <!-- Arrow marker -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#e74c3c"/>
+    </marker>
+  </defs>
+  
+  <!-- Footer -->
+  <text x="400" y="585" text-anchor="middle" font-size="11" fill="#7f8c8d">
+    Etterbetalinger kan skape progressionseffekt som øker den effektive skattesatsen betydelig
+  </text>
+</svg>

@@ -1,0 +1,174 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="lawGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3F51B5;stop-opacity:0.8"/>
+      <stop offset="100%" style="stop-color:#9C27B0;stop-opacity:0.8"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#333">
+    X-rapport Lovkrav og Compliance
+  </text>
+  
+  <!-- Main legal framework -->
+  <rect x="50" y="60" width="700" height="80" fill="url(#lawGrad)" rx="10"/>
+  <text x="400" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+    JURIDISK RAMMEVERK
+  </text>
+  <text x="400" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+    Bokføringsloven • Bokføringsforskriften • Regnskapsloven
+  </text>
+  <text x="400" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    Kassasystemer og tilhørende rapporter må oppfylle spesifikke lovkrav
+  </text>
+  
+  <!-- Left column - General requirements -->
+  <rect x="50" y="170" width="340" height="380" fill="white" stroke="#3F51B5" stroke-width="2" rx="8"/>
+  <rect x="50" y="170" width="340" height="50" fill="#E8EAF6" rx="8 8 0 0"/>
+  <text x="220" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#3F51B5">
+    GENERELLE KRAV TIL KASSASYSTEMER
+  </text>
+  <text x="220" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    (Gjelder også X-rapporter)
+  </text>
+  
+  <!-- Traceability -->
+  <rect x="70" y="240" width="300" height="60" fill="#F3E5F5" stroke="#9C27B0" stroke-width="1" rx="5"/>
+  <text x="80" y="255" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#7B1FA2">
+    SPORBARHET
+  </text>
+  <text x="80" y="270" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    • Alle transaksjoner må kunne spores tilbake
+  </text>
+  <text x="80" y="285" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    • Komplett audit trail fra start til slutt
+  </text>
+  <text x="80" y="295" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    • Kronologisk rekkefølge må være dokumenterbar
+  </text>
+  
+  <!-- Non-manipulability -->
+  <rect x="70" y="320" width="300" height="60" fill="#E3F2FD" stroke="#2196F3" stroke-width="1" rx="5"/>
+  <text x="80" y="335" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1976D2">
+    IKKE-MANIPULERBARHET
+  </text>
+  <text x="80" y="350" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    • Systemet må hindre uautoriserte endringer
+  </text>
+  <text x="80" y="365" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    • Tekniske sperrer mot manipulasjon
+  </text>
+  <text x="80" y="375" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    • Loggføring av alle systemintervensjoner
+  </text>
+  
+  <!-- Storage requirements -->
+  <rect x="70" y="400" width="300" height="60" fill="#E8F5E8" stroke="#4CAF50" stroke-width="1" rx="5"/>
+  <text x="80" y="415" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#388E3C">
+    OPPBEVARING
+  </text>
+  <text x="80" y="430" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    • Rapporter må oppbevares i 5 år
+  </text>
+  <text x="80" y="445" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    • Tilgjengelig for kontroll når som helst
+  </text>
+  <text x="80" y="455" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    • Både elektronisk og fysisk format akseptert
+  </text>
+  
+  <!-- Accessibility -->
+  <rect x="70" y="480" width="300" height="60" fill="#FFF3E0" stroke="#FF9800" stroke-width="1" rx="5"/>
+  <text x="80" y="495" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#F57C00">
+    TILGJENGELIGHET
+  </text>
+  <text x="80" y="510" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    • Rapporter må være tilgjengelige for kontroll
+  </text>
+  <text x="80" y="525" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    • Både interne og eksterne revisjoner
+  </text>
+  <text x="80" y="535" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    • Skatteetaten og andre myndigheter
+  </text>
+  
+  <!-- Right column - X-rapport specific requirements -->
+  <rect x="410" y="170" width="340" height="380" fill="white" stroke="#FF9800" stroke-width="2" rx="8"/>
+  <rect x="410" y="170" width="340" height="50" fill="#FFF3E0" rx="8 8 0 0"/>
+  <text x="580" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#F57C00">
+    SPESIFIKKE KRAV TIL X-RAPPORT
+  </text>
+  <text x="580" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    (Selv om ikke formelt regnskapsbilag)
+  </text>
+  
+  <!-- Accuracy -->
+  <rect x="430" y="240" width="300" height="60" fill="#E8F5E8" stroke="#4CAF50" stroke-width="1" rx="5"/>
+  <text x="440" y="255" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#388E3C">
+    NØYAKTIGHET
+  </text>
+  <text x="440" y="270" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    • Må reflektere faktiske transaksjoner korrekt
+  </text>
+  <text x="440" y="285" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    • Konsistens med underliggende systemdata
+  </text>
+  <text x="440" y="295" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    • Beregninger må være matematisk korrekte
+  </text>
+  
+  <!-- Documentation -->
+  <rect x="430" y="320" width="300" height="60" fill="#E3F2FD" stroke="#2196F3" stroke-width="1" rx="5"/>
+  <text x="440" y="335" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1976D2">
+    DOKUMENTASJON
+  </text>
+  <text x="440" y="350" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    • Oppbevares som del av kassedokumentasjon
+  </text>
+  <text x="440" y="365" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    • Må kunne kobles til relevante Z-rapporter
+  </text>
+  <text x="440" y="375" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    • Historisk sammenheng må være synlig
+  </text>
+  
+  <!-- Consistency -->
+  <rect x="430" y="400" width="300" height="60" fill="#F3E5F5" stroke="#9C27B0" stroke-width="1" rx="5"/>
+  <text x="440" y="415" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#7B1FA2">
+    KONSISTENS
+  </text>
+  <text x="440" y="430" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    • Følge samme format og struktur konsekvent
+  </text>
+  <text x="440" y="445" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    • Sammenlignbare data over tid
+  </text>
+  <text x="440" y="455" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    • Standardiserte rapportmaler anbefales
+  </text>
+  
+  <!-- Access control -->
+  <rect x="430" y="480" width="300" height="60" fill="#FFEBEE" stroke="#F44336" stroke-width="1" rx="5"/>
+  <text x="440" y="495" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#D32F2F">
+    TILGANGSKONTROLL
+  </text>
+  <text x="440" y="510" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    • Kontrollert tilgang for interne/eksterne kontroller
+  </text>
+  <text x="440" y="525" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    • Autoriserte personer kun
+  </text>
+  <text x="440" y="535" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    • Logger over hvem som har tilgang når
+  </text>
+  
+  <!-- Compliance note -->
+  <rect x="50" y="570" width="700" height="25" fill="#ECEFF1" stroke="#607D8B" stroke-width="1" rx="5"/>
+  <text x="400" y="588" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#37474F">
+    Manglende compliance kan føre til sanksjoner fra Skatteetaten og revisjonsmerknad
+  </text>
+</svg>

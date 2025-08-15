@@ -1,0 +1,157 @@
+<svg width="800" height="550" viewBox="0 0 800 550" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="550" fill="#f8fafc"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1e293b">
+    Forhåndsbetalte Inntekter - Behandling over Tid
+  </text>
+  
+  <!-- Example setup -->
+  <rect x="150" y="60" width="500" height="50" fill="#e0f2fe" stroke="#0369a1" stroke-width="2" rx="8"/>
+  <text x="400" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0369a1">
+    Eksempel: Årlig abonnement kr 120.000 mottatt 1. januar
+  </text>
+  <text x="400" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#0369a1">
+    Månedlig inntektsføring: kr 10.000 per måned
+  </text>
+  
+  <!-- Initial booking -->
+  <rect x="50" y="130" width="200" height="80" fill="#dcfce7" stroke="#16a34a" stroke-width="2" rx="8"/>
+  <text x="150" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#166534">
+    1. Januar - Mottak
+  </text>
+  <text x="60" y="170" font-family="Arial, sans-serif" font-size="11" fill="#166534">
+    Dr: Bank 120.000
+  </text>
+  <text x="60" y="185" font-family="Arial, sans-serif" font-size="11" fill="#166534">
+    Kr: Forhåndsbetalt
+  </text>
+  <text x="65" y="200" font-family="Arial, sans-serif" font-size="11" fill="#166534">
+        inntekt 120.000
+  </text>
+  
+  <!-- Monthly recognition -->
+  <rect x="300" y="130" width="200" height="80" fill="#fef3c7" stroke="#f59e0b" stroke-width="2" rx="8"/>
+  <text x="400" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#92400e">
+    Månedlig (12 ganger)
+  </text>
+  <text x="310" y="170" font-family="Arial, sans-serif" font-size="11" fill="#92400e">
+    Dr: Forhåndsbetalt
+  </text>
+  <text x="315" y="185" font-family="Arial, sans-serif" font-size="11" fill="#92400e">
+        inntekt 10.000
+  </text>
+  <text x="310" y="200" font-family="Arial, sans-serif" font-size="11" fill="#92400e">
+    Kr: Abonnementsinntekt 10.000
+  </text>
+  
+  <!-- Final status -->
+  <rect x="550" y="130" width="200" height="80" fill="#e0e7ff" stroke="#6366f1" stroke-width="2" rx="8"/>
+  <text x="650" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#312e81">
+    31. Desember
+  </text>
+  <text x="560" y="170" font-family="Arial, sans-serif" font-size="11" fill="#312e81">
+    Forhåndsbetalt inntekt
+  </text>
+  <text x="560" y="185" font-family="Arial, sans-serif" font-size="11" fill="#312e81">
+    saldo: kr 0
+  </text>
+  <text x="560" y="200" font-family="Arial, sans-serif" font-size="11" fill="#312e81">
+    Alt inntektsført
+  </text>
+  
+  <!-- Visual timeline -->
+  <rect x="100" y="240" width="600" height="150" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" rx="8"/>
+  <text x="400" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">
+    Månedlig Nedtrapping av Forhåndsbetalt Inntekt
+  </text>
+  
+  <!-- Monthly bars -->
+  <rect x="120" y="280" width="40" height="100" fill="#ef4444" rx="3"/>
+  <text x="140" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#991b1b">Jan</text>
+  <text x="140" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#991b1b">120k</text>
+  
+  <rect x="170" y="290" width="40" height="90" fill="#f97316" rx="3"/>
+  <text x="190" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#ea580c">Feb</text>
+  <text x="190" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#ea580c">110k</text>
+  
+  <rect x="220" y="300" width="40" height="80" fill="#f59e0b" rx="3"/>
+  <text x="240" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#d97706">Mar</text>
+  <text x="240" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#d97706">100k</text>
+  
+  <rect x="270" y="310" width="40" height="70" fill="#eab308" rx="3"/>
+  <text x="290" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#ca8a04">Apr</text>
+  <text x="290" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#ca8a04">90k</text>
+  
+  <rect x="320" y="320" width="40" height="60" fill="#84cc16" rx="3"/>
+  <text x="340" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#65a30d">Mai</text>
+  <text x="340" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#65a30d">80k</text>
+  
+  <rect x="370" y="330" width="40" height="50" fill="#22c55e" rx="3"/>
+  <text x="390" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#16a34a">Jun</text>
+  <text x="390" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#16a34a">70k</text>
+  
+  <rect x="420" y="340" width="40" height="40" fill="#06b6d4" rx="3"/>
+  <text x="440" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0891b2">Jul</text>
+  <text x="440" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#0891b2">60k</text>
+  
+  <rect x="470" y="350" width="40" height="30" fill="#3b82f6" rx="3"/>
+  <text x="490" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2563eb">Aug</text>
+  <text x="490" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#2563eb">50k</text>
+  
+  <rect x="520" y="360" width="40" height="20" fill="#6366f1" rx="3"/>
+  <text x="540" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#4f46e5">Sep</text>
+  <text x="540" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#4f46e5">40k</text>
+  
+  <rect x="570" y="370" width="40" height="10" fill="#8b5cf6" rx="3"/>
+  <text x="590" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#7c3aed">Okt</text>
+  <text x="590" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#7c3aed">30k</text>
+  
+  <rect x="620" y="375" width="40" height="5" fill="#a855f7" rx="3"/>
+  <text x="640" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#9333ea">Nov</text>
+  <text x="640" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#9333ea">20k</text>
+  
+  <!-- December shows 0 -->
+  <text x="680" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#475569">Des</text>
+  <text x="680" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#475569">0</text>
+  
+  <!-- Balance sheet impact -->
+  <rect x="100" y="430" width="600" height="100" fill="#f1f5f9" stroke="#64748b" stroke-width="1" rx="8"/>
+  <text x="400" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">
+    Påvirkning på Balanse og Resultat
+  </text>
+  
+  <rect x="120" y="460" width="250" height="60" fill="#fef2f2" stroke="#dc2626" stroke-width="1" rx="5"/>
+  <text x="245" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#991b1b">
+    Balanse (Gjeld)
+  </text>
+  <text x="130" y="495" font-family="Arial, sans-serif" font-size="10" fill="#991b1b">
+    Forhåndsbetalt inntekt reduseres
+  </text>
+  <text x="130" y="508" font-family="Arial, sans-serif" font-size="10" fill="#991b1b">
+    med kr 10.000 hver måned
+  </text>
+  
+  <rect x="430" y="460" width="250" height="60" fill="#ecfdf5" stroke="#16a34a" stroke-width="1" rx="5"/>
+  <text x="555" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#166534">
+    Resultat (Inntekt)
+  </text>
+  <text x="440" y="495" font-family="Arial, sans-serif" font-size="10" fill="#166534">
+    Abonnementsinntekt økes med
+  </text>
+  <text x="440" y="508" font-family="Arial, sans-serif" font-size="10" fill="#166534">
+    kr 10.000 hver måned
+  </text>
+  
+  <!-- Arrows -->
+  <path d="M 250 170 L 300 170" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+  <path d="M 500 170 L 550 170" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+  
+  <!-- Arrow marker -->
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#64748b"/>
+    </marker>
+  </defs>
+</svg>

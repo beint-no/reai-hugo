@@ -1,0 +1,90 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="url(#bgGrad)" />
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" 
+        font-size="24" font-weight="bold" fill="#2c3e50">
+    Konjunkturens Påvirkning på Regnskapsføring
+  </text>
+  
+  <!-- Balance Sheet Impact -->
+  <rect x="50" y="80" width="300" height="220" rx="10" fill="#3498db" opacity="0.1" stroke="#3498db" stroke-width="2"/>
+  <text x="200" y="105" text-anchor="middle" font-family="Arial, sans-serif" 
+        font-size="16" font-weight="bold" fill="#3498db">Påvirkning på Balansen</text>
+  
+  <text x="70" y="130" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">Høykonjunktur:</text>
+  <text x="70" y="150" font-family="Arial, sans-serif" font-size="11" fill="#27ae60">• Økte eiendeler (ekspansjon)</text>
+  <text x="70" y="165" font-family="Arial, sans-serif" font-size="11" fill="#27ae60">• Høyere egenkapital</text>
+  <text x="70" y="180" font-family="Arial, sans-serif" font-size="11" fill="#27ae60">• Økt gjeld for vekst</text>
+  
+  <text x="70" y="205" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">Lavkonjunktur:</text>
+  <text x="70" y="225" font-family="Arial, sans-serif" font-size="11" fill="#e74c3c">• Nedskrivninger av eiendeler</text>
+  <text x="70" y="240" font-family="Arial, sans-serif" font-size="11" fill="#e74c3c">• Redusert egenkapital</text>
+  <text x="70" y="255" font-family="Arial, sans-serif" font-size="11" fill="#e74c3c">• Fokus på gjeldsgrad</text>
+  <text x="70" y="270" font-family="Arial, sans-serif" font-size="11" fill="#e74c3c">• Soliditetsvurderinger</text>
+  
+  <!-- Income Statement Impact -->
+  <rect x="400" y="80" width="300" height="220" rx="10" fill="#e67e22" opacity="0.1" stroke="#e67e22" stroke-width="2"/>
+  <text x="550" y="105" text-anchor="middle" font-family="Arial, sans-serif" 
+        font-size="16" font-weight="bold" fill="#e67e22">Påvirkning på Resultatregnskap</text>
+  
+  <text x="420" y="130" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">Ekspansjonsfase:</text>
+  <text x="420" y="150" font-family="Arial, sans-serif" font-size="11" fill="#27ae60">• Inntekter øker raskt</text>
+  <text x="420" y="165" font-family="Arial, sans-serif" font-size="11" fill="#27ae60">• Kostnader øker moderat</text>
+  <text x="420" y="180" font-family="Arial, sans-serif" font-size="11" fill="#27ae60">• Sterkt positivt resultat</text>
+  
+  <text x="420" y="205" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">Kontraksjonfase:</text>
+  <text x="420" y="225" font-family="Arial, sans-serif" font-size="11" fill="#e74c3c">• Inntekter faller</text>
+  <text x="420" y="240" font-family="Arial, sans-serif" font-size="11" fill="#e74c3c">• Kostnader vanskelig å redusere</text>
+  <text x="420" y="255" font-family="Arial, sans-serif" font-size="11" fill="#e74c3c">• Negativt resultat</text>
+  <text x="420" y="270" font-family="Arial, sans-serif" font-size="11" fill="#e74c3c">• Økte avsetninger</text>
+  
+  <!-- Cash Flow Impact -->
+  <rect x="50" y="320" width="300" height="200" rx="10" fill="#9b59b6" opacity="0.1" stroke="#9b59b6" stroke-width="2"/>
+  <text x="200" y="345" text-anchor="middle" font-family="Arial, sans-serif" 
+        font-size="16" font-weight="bold" fill="#9b59b6">Kontantstrømpåvirkning</text>
+  
+  <text x="70" y="370" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">Operasjonell kontantstrøm:</text>
+  <text x="70" y="390" font-family="Arial, sans-serif" font-size="11" fill="#7f8c8d">• Høykonjunktur: Sterk positiv</text>
+  <text x="70" y="405" font-family="Arial, sans-serif" font-size="11" fill="#7f8c8d">• Lavkonjunktur: Svak/negativ</text>
+  
+  <text x="70" y="430" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">Investeringskontantstrøm:</text>
+  <text x="70" y="450" font-family="Arial, sans-serif" font-size="11" fill="#7f8c8d">• Høykonjunktur: Store investeringer</text>
+  <text x="70" y="465" font-family="Arial, sans-serif" font-size="11" fill="#7f8c8d">• Lavkonjunktur: Reduserte investeringer</text>
+  
+  <text x="70" y="490" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">Finansieringskontantstrøm:</text>
+  <text x="70" y="510" font-family="Arial, sans-serif" font-size="11" fill="#7f8c8d">• Varierer med finansieringsbehov</text>
+  
+  <!-- Accounting Practices -->
+  <rect x="400" y="320" width="300" height="200" rx="10" fill="#1abc9c" opacity="0.1" stroke="#1abc9c" stroke-width="2"/>
+  <text x="550" y="345" text-anchor="middle" font-family="Arial, sans-serif" 
+        font-size="16" font-weight="bold" fill="#1abc9c">Regnskapspraksis Tilpasninger</text>
+  
+  <text x="420" y="370" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">Høykonjunktur:</text>
+  <text x="420" y="390" font-family="Arial, sans-serif" font-size="11" fill="#7f8c8d">• Konservativ verdivurdering</text>
+  <text x="420" y="405" font-family="Arial, sans-serif" font-size="11" fill="#7f8c8d">• Oppbygging av reserver</text>
+  <text x="420" y="420" font-family="Arial, sans-serif" font-size="11" fill="#7f8c8d">• Forsiktige prognoser</text>
+  
+  <text x="420" y="445" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">Lavkonjunktur:</text>
+  <text x="420" y="465" font-family="Arial, sans-serif" font-size="11" fill="#7f8c8d">• Realistiske nedskrivninger</text>
+  <text x="420" y="480" font-family="Arial, sans-serif" font-size="11" fill="#7f8c8d">• Økte tapsavsetninger</text>
+  <text x="420" y="495" font-family="Arial, sans-serif" font-size="11" fill="#7f8c8d">• Fortsatt drift vurderinger</text>
+  <text x="420" y="510" font-family="Arial, sans-serif" font-size="11" fill="#7f8c8d">• Scenarioanalyser</text>
+  
+  <!-- Key Recommendations -->
+  <rect x="50" y="540" width="700" height="50" rx="10" fill="#ffffff" opacity="0.9" stroke="#bdc3c7" stroke-width="1"/>
+  <text x="400" y="560" text-anchor="middle" font-family="Arial, sans-serif" 
+        font-size="14" font-weight="bold" fill="#2c3e50">Nøkkelanbefalinger for Regnskapsføring</text>
+  
+  <text x="70" y="580" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    • Tilpass regnskapspraksis til konjunkturfase • Oppretthold konservativ tilnærming • Øk rapporteringsfrekvens i volatile perioder
+  </text>
+</svg>

@@ -1,0 +1,120 @@
+<svg width="600" height="350" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="350" fill="#f8f9fa"/>
+  
+  <text x="300" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#2c3e50">
+    Sikkerhetsstrategi for Arkivering
+  </text>
+  
+  <!-- 3-2-1 Rule -->
+  <g transform="translate(50, 60)">
+    <text x="250" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">
+      3-2-1 Backup-regelen
+    </text>
+    
+    <!-- 3 copies -->
+    <g transform="translate(50, 40)">
+      <circle cx="30" cy="30" r="25" fill="#3498db" stroke="#2980b9" stroke-width="2"/>
+      <text x="30" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">3</text>
+      <text x="30" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">kopier</text>
+      <text x="30" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">3 kopier av data</text>
+    </g>
+    
+    <!-- 2 media types -->
+    <g transform="translate(200, 40)">
+      <circle cx="30" cy="30" r="25" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+      <text x="30" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">2</text>
+      <text x="30" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">medier</text>
+      <text x="30" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">2 forskjellige medier</text>
+    </g>
+    
+    <!-- 1 offsite -->
+    <g transform="translate(350, 40)">
+      <circle cx="30" cy="30" r="25" fill="#27ae60" stroke="#229954" stroke-width="2"/>
+      <text x="30" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">1</text>
+      <text x="30" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">offsite</text>
+      <text x="30" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">1 ekstern lokasjon</text>
+    </g>
+  </g>
+  
+  <!-- Access Control -->
+  <g transform="translate(50, 180)">
+    <text x="200" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
+      Tilgangskontroll
+    </text>
+    
+    <!-- Admin -->
+    <rect x="0" y="30" width="90" height="60" fill="#34495e" stroke="#2c3e50" stroke-width="2" rx="5"/>
+    <text x="45" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">Administrator</text>
+    <text x="45" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">Full tilgang</text>
+    <text x="45" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">System &amp; data</text>
+    
+    <!-- Accountant -->
+    <rect x="100" y="30" width="90" height="60" fill="#3498db" stroke="#2980b9" stroke-width="2" rx="5"/>
+    <text x="145" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">Regnskapsfører</text>
+    <text x="145" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">Regnskap &amp;</text>
+    <text x="145" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">rapporter</text>
+    
+    <!-- Auditor -->
+    <rect x="200" y="30" width="90" height="60" fill="#e74c3c" stroke="#c0392b" stroke-width="2" rx="5"/>
+    <text x="245" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">Revisor</text>
+    <text x="245" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">Lesetilgang</text>
+    <text x="245" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">Revisjon</text>
+    
+    <!-- Manager -->
+    <rect x="300" y="30" width="90" height="60" fill="#27ae60" stroke="#229954" stroke-width="2" rx="5"/>
+    <text x="345" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">Leder</text>
+    <text x="345" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">Rapporter &amp;</text>
+    <text x="345" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">sammendrag</text>
+  </g>
+  
+  <!-- Security measures -->
+  <g transform="translate(450, 180)">
+    <text x="75" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
+      Sikkerhetstiltak
+    </text>
+    
+    <!-- Encryption -->
+    <g transform="translate(0, 30)">
+      <rect x="0" y="0" width="20" height="15" fill="#f39c12" rx="2"/>
+      <circle cx="10" cy="7" r="3" fill="#e67e22"/>
+      <text x="25" y="10" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">Kryptering</text>
+    </g>
+    
+    <!-- 2FA -->
+    <g transform="translate(0, 50)">
+      <rect x="0" y="0" width="15" height="15" fill="#9b59b6" rx="2"/>
+      <rect x="5" y="5" width="5" height="5" fill="white"/>
+      <text x="25" y="10" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">To-faktor auth</text>
+    </g>
+    
+    <!-- Monitoring -->
+    <g transform="translate(0, 70)">
+      <circle cx="10" cy="7" r="7" fill="#1abc9c"/>
+      <circle cx="10" cy="7" r="3" fill="white"/>
+      <text x="25" y="10" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">Overvåking</text>
+    </g>
+  </g>
+  
+  <!-- Security layers -->
+  <g transform="translate(100, 280)">
+    <text x="200" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
+      Sikkerhetslag
+    </text>
+    
+    <!-- Layer 1 -->
+    <rect x="50" y="30" width="300" height="15" fill="#e74c3c" opacity="0.8" rx="7"/>
+    <text x="200" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Fysisk sikkerhet</text>
+    
+    <!-- Layer 2 -->
+    <rect x="75" y="45" width="250" height="15" fill="#f39c12" opacity="0.8" rx="7"/>
+    <text x="200" y="57" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Nettverkssikkerhet</text>
+    
+    <!-- Layer 3 -->
+    <rect x="100" y="60" width="200" height="15" fill="#27ae60" opacity="0.8" rx="7"/>
+    <text x="200" y="72" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Applikasjonssikkerhet</text>
+    
+    <!-- Layer 4 -->
+    <rect x="125" y="75" width="150" height="15" fill="#3498db" opacity="0.8" rx="7"/>
+    <text x="200" y="87" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Datasikkerhet</text>
+  </g>
+</svg>

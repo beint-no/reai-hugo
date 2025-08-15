@@ -1,0 +1,98 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="400" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
+  
+  <!-- Main Title -->
+  <text x="400" y="50" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle" fill="white">
+    Hva er egeninkasso?
+  </text>
+  
+  <!-- Content Area -->
+  <rect x="50" y="120" width="700" height="240" fill="white" stroke="#dee2e6" stroke-width="1" rx="10"/>
+  
+  <!-- Icon: Document with money -->
+  <g transform="translate(100, 150)">
+    <!-- Document -->
+    <rect x="0" y="0" width="80" height="100" fill="#f8f9fa" stroke="#0066cc" stroke-width="2" rx="5"/>
+    <line x1="15" y1="20" x2="65" y2="20" stroke="#666" stroke-width="2"/>
+    <line x1="15" y1="35" x2="65" y2="35" stroke="#666" stroke-width="2"/>
+    <line x1="15" y1="50" x2="50" y2="50" stroke="#666" stroke-width="2"/>
+    
+    <!-- Money symbol -->
+    <circle cx="40" cy="70" r="15" fill="#28a745" stroke="#1e7e34" stroke-width="2"/>
+    <text x="40" y="77" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">kr</text>
+  </g>
+  
+  <!-- Arrow -->
+  <g transform="translate(250, 190)">
+    <line x1="0" y1="20" x2="80" y2="20" stroke="#0066cc" stroke-width="4" marker-end="url(#arrowhead)"/>
+    <defs>
+      <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+        <polygon points="0 0, 10 3.5, 0 7" fill="#0066cc"/>
+      </marker>
+    </defs>
+  </g>
+  
+  <!-- Icon: Company building -->
+  <g transform="translate(380, 150)">
+    <rect x="0" y="60" width="80" height="40" fill="#6c757d" stroke="#495057" stroke-width="2"/>
+    <rect x="10" y="40" width="60" height="60" fill="#adb5bd" stroke="#495057" stroke-width="2"/>
+    <rect x="20" y="20" width="40" height="80" fill="#dee2e6" stroke="#495057" stroke-width="2"/>
+    
+    <!-- Windows -->
+    <rect x="25" y="30" width="8" height="8" fill="#0066cc"/>
+    <rect x="37" y="30" width="8" height="8" fill="#0066cc"/>
+    <rect x="49" y="30" width="8" height="8" fill="#0066cc"/>
+    <rect x="25" y="45" width="8" height="8" fill="#0066cc"/>
+    <rect x="37" y="45" width="8" height="8" fill="#0066cc"/>
+    <rect x="49" y="45" width="8" height="8" fill="#0066cc"/>
+    
+    <!-- Door -->
+    <rect x="35" y="70" width="12" height="20" fill="#495057"/>
+  </g>
+  
+  <!-- Arrow -->
+  <g transform="translate(500, 190)">
+    <line x1="0" y1="20" x2="80" y2="20" stroke="#0066cc" stroke-width="4" marker-end="url(#arrowhead2)"/>
+    <defs>
+      <marker id="arrowhead2" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+        <polygon points="0 0, 10 3.5, 0 7" fill="#0066cc"/>
+      </marker>
+    </defs>
+  </g>
+  
+  <!-- Icon: Customer/Person -->
+  <g transform="translate(620, 150)">
+    <!-- Person -->
+    <circle cx="25" cy="25" r="15" fill="#ffc107" stroke="#e0a800" stroke-width="2"/>
+    <rect x="10" y="40" width="30" height="40" fill="#17a2b8" stroke="#138496" stroke-width="2" rx="5"/>
+    
+    <!-- Money in hand -->
+    <circle cx="45" cy="55" r="8" fill="#28a745" stroke="#1e7e34" stroke-width="1"/>
+    <text x="45" y="59" font-family="Arial, sans-serif" font-size="8" font-weight="bold" text-anchor="middle" fill="white">kr</text>
+  </g>
+  
+  <!-- Description text -->
+  <text x="400" y="300" font-family="Arial, sans-serif" font-size="18" text-anchor="middle" fill="#495057">
+    Selvinkasso - når bedriften selv krever inn forfalte fordringer
+  </text>
+  
+  <!-- Key points -->
+  <text x="400" y="330" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#6c757d">
+    Juridiske krav • Kostnadseffektivt • Kontroll over prosessen
+  </text>
+</svg>

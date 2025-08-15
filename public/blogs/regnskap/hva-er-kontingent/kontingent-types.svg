@@ -1,0 +1,99 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg" font-family="Arial, sans-serif">
+    <title>Kontingent Typer</title>
+    <rect x="10" y="10" width="780" height="580" rx="15" fill="#fff" stroke="#ccc" stroke-width="2"/>
+    
+    <!-- Header -->
+    <text x="400" y="50" text-anchor="middle" font-size="24" font-weight="bold" fill="#2c3e50">Typer Kontingent</text>
+    
+    <!-- Central hub -->
+    <circle cx="400" cy="200" r="60" fill="#34495e" stroke="#2c3e50" stroke-width="3"/>
+    <text x="400" y="195" text-anchor="middle" font-size="14" font-weight="bold" fill="white">KONTINGENT</text>
+    <text x="400" y="210" text-anchor="middle" font-size="12" fill="white">TYPER</text>
+    
+    <!-- Type 1: Medlemskontingent -->
+    <g id="medlemskontingent">
+        <rect x="80" y="120" width="180" height="120" rx="10" fill="#3498db" stroke="#2980b9" stroke-width="2"/>
+        <text x="170" y="145" text-anchor="middle" font-size="16" font-weight="bold" fill="white">Medlemskontingent</text>
+        <text x="170" y="170" text-anchor="middle" font-size="12" fill="white">• Foreninger</text>
+        <text x="170" y="185" text-anchor="middle" font-size="12" fill="white">• Fagforeninger</text>
+        <text x="170" y="200" text-anchor="middle" font-size="12" fill="white">• Idrettslag</text>
+        <text x="170" y="215" text-anchor="middle" font-size="12" fill="white">• Bransjeorganisasjoner</text>
+        <line x1="260" y1="180" x2="340" y2="180" stroke="#34495e" stroke-width="2"/>
+    </g>
+    
+    <!-- Type 2: Abonnementskontingent -->
+    <g id="abonnementskontingent">
+        <rect x="540" y="120" width="180" height="120" rx="10" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+        <text x="630" y="145" text-anchor="middle" font-size="16" font-weight="bold" fill="white">Abonnementskontingent</text>
+        <text x="630" y="170" text-anchor="middle" font-size="12" fill="white">• Programvare</text>
+        <text x="630" y="185" text-anchor="middle" font-size="12" fill="white">• Digitale tjenester</text>
+        <text x="630" y="200" text-anchor="middle" font-size="12" fill="white">• Publikasjoner</text>
+        <text x="630" y="215" text-anchor="middle" font-size="12" fill="white">• Konsulentnettverk</text>
+        <line x1="540" y1="180" x2="460" y2="180" stroke="#34495e" stroke-width="2"/>
+    </g>
+    
+    <!-- Type 3: Forsikringskontingent -->
+    <g id="forsikringskontingent">
+        <rect x="310" y="320" width="180" height="120" rx="10" fill="#27ae60" stroke="#229954" stroke-width="2"/>
+        <text x="400" y="345" text-anchor="middle" font-size="16" font-weight="bold" fill="white">Forsikringskontingent</text>
+        <text x="400" y="370" text-anchor="middle" font-size="12" fill="white">• Gjensidige selskap</text>
+        <text x="400" y="385" text-anchor="middle" font-size="12" fill="white">• Medlemseierskap</text>
+        <text x="400" y="400" text-anchor="middle" font-size="12" fill="white">• Forsikringsdekning</text>
+        <text x="400" y="415" text-anchor="middle" font-size="12" fill="white">• Rettigheter &amp; plikter</text>
+        <line x1="400" y1="320" x2="400" y2="260" stroke="#34495e" stroke-width="2"/>
+    </g>
+    
+    <!-- Characteristics comparison -->
+    <text x="100" y="480" font-size="18" font-weight="bold" fill="#2c3e50">Sammenligning av egenskaper:</text>
+    
+    <!-- Comparison table -->
+    <g id="comparison-table">
+        <!-- Headers -->
+        <rect x="80" y="500" width="120" height="30" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
+        <text x="140" y="520" text-anchor="middle" font-size="12" font-weight="bold" fill="#2c3e50">Type</text>
+        
+        <rect x="200" y="500" width="100" height="30" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
+        <text x="250" y="520" text-anchor="middle" font-size="12" font-weight="bold" fill="#2c3e50">MVA-plikt</text>
+        
+        <rect x="300" y="500" width="120" height="30" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
+        <text x="360" y="520" text-anchor="middle" font-size="12" font-weight="bold" fill="#2c3e50">Fradragsrett</text>
+        
+        <rect x="420" y="500" width="120" height="30" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
+        <text x="480" y="520" text-anchor="middle" font-size="12" font-weight="bold" fill="#2c3e50">Periodisering</text>
+        
+        <rect x="540" y="500" width="120" height="30" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
+        <text x="600" y="520" text-anchor="middle" font-size="12" font-weight="bold" fill="#2c3e50">Regelmessighet</text>
+        
+        <!-- Row 1: Medlemskontingent -->
+        <rect x="80" y="530" width="120" height="25" fill="#e8f4fd" stroke="#bdc3c7" stroke-width="1"/>
+        <text x="140" y="547" text-anchor="middle" font-size="11" fill="#2c3e50">Medlemskap</text>
+        
+        <rect x="200" y="530" width="100" height="25" fill="#e8f4fd" stroke="#bdc3c7" stroke-width="1"/>
+        <text x="250" y="547" text-anchor="middle" font-size="11" fill="#2c3e50">Ofte fritatt</text>
+        
+        <rect x="300" y="530" width="120" height="25" fill="#e8f4fd" stroke="#bdc3c7" stroke-width="1"/>
+        <text x="360" y="547" text-anchor="middle" font-size="11" fill="#2c3e50">Ja (bedrift)</text>
+        
+        <rect x="420" y="530" width="120" height="25" fill="#e8f4fd" stroke="#bdc3c7" stroke-width="1"/>
+        <text x="480" y="547" text-anchor="middle" font-size="11" fill="#2c3e50">Nødvendig</text>
+        
+        <rect x="540" y="530" width="120" height="25" fill="#e8f4fd" stroke="#bdc3c7" stroke-width="1"/>
+        <text x="600" y="547" text-anchor="middle" font-size="11" fill="#2c3e50">Årlig/månedlig</text>
+        
+        <!-- Row 2: Abonnement -->
+        <rect x="80" y="555" width="120" height="25" fill="#fdf2f2" stroke="#bdc3c7" stroke-width="1"/>
+        <text x="140" y="572" text-anchor="middle" font-size="11" fill="#2c3e50">Abonnement</text>
+        
+        <rect x="200" y="555" width="100" height="25" fill="#fdf2f2" stroke="#bdc3c7" stroke-width="1"/>
+        <text x="250" y="572" text-anchor="middle" font-size="11" fill="#2c3e50">MVA-pliktig</text>
+        
+        <rect x="300" y="555" width="120" height="25" fill="#fdf2f2" stroke="#bdc3c7" stroke-width="1"/>
+        <text x="360" y="572" text-anchor="middle" font-size="11" fill="#2c3e50">Ja (bedrift)</text>
+        
+        <rect x="420" y="555" width="120" height="25" fill="#fdf2f2" stroke="#bdc3c7" stroke-width="1"/>
+        <text x="480" y="572" text-anchor="middle" font-size="11" fill="#2c3e50">Viktig</text>
+        
+        <rect x="540" y="555" width="120" height="25" fill="#fdf2f2" stroke="#bdc3c7" stroke-width="1"/>
+        <text x="600" y="572" text-anchor="middle" font-size="11" fill="#2c3e50">Månedlig</text>
+    </g>
+</svg>

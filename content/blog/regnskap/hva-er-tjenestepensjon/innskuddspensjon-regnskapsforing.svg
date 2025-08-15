@@ -1,0 +1,68 @@
+<svg width="800" height="450" viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#2563EB;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1D4ED8;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="450" fill="#F8FAFC"/>
+  
+  <!-- Title -->
+  <rect x="0" y="0" width="800" height="60" fill="url(#headerGrad)"/>
+  <text x="400" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="22" font-weight="bold">Innskuddspensjon - Regnskapsføring</text>
+  
+  <!-- Main container -->
+  <rect x="50" y="80" width="700" height="350" rx="10" fill="white" stroke="#E2E8F0" stroke-width="2"/>
+  
+  <!-- Monthly accrual section -->
+  <rect x="70" y="100" width="320" height="150" rx="8" fill="#EFF6FF" stroke="#3B82F6" stroke-width="2"/>
+  <text x="230" y="125" text-anchor="middle" fill="#1E40AF" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Månedlig periodisering</text>
+  
+  <rect x="90" y="140" width="280" height="100" rx="5" fill="white" stroke="#93C5FD" stroke-width="1"/>
+  <text x="100" y="160" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Beregning:</text>
+  <text x="100" y="180" fill="#374151" font-family="Arial, sans-serif" font-size="12">Lønn × Pensjonsats = Pensjonskostnad</text>
+  <text x="100" y="200" fill="#374151" font-family="Arial, sans-serif" font-size="12">Eksempel: 500.000 × 5% = 25.000 kr/år</text>
+  <text x="100" y="220" fill="#374151" font-family="Arial, sans-serif" font-size="12">Månedlig: 25.000 ÷ 12 = 2.083 kr</text>
+  
+  <!-- Journal entries section -->
+  <rect x="410" y="100" width="320" height="150" rx="8" fill="#ECFDF5" stroke="#10B981" stroke-width="2"/>
+  <text x="570" y="125" text-anchor="middle" fill="#059669" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Regnskapsføring</text>
+  
+  <rect x="430" y="140" width="280" height="100" rx="5" fill="white" stroke="#6EE7B7" stroke-width="1"/>
+  <text x="440" y="160" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Dr. Lønnskostnad (pensjon)</text>
+  <text x="440" y="180" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">    Kr. Skyldig pensjonsinnbetaling</text>
+  <text x="440" y="200" fill="#6B7280" font-family="Arial, sans-serif" font-size="12">Månedlig periodisering av pensjonskostnad</text>
+  <text x="440" y="220" fill="#6B7280" font-family="Arial, sans-serif" font-size="12">basert på lønn og pensjonsats</text>
+  
+  <!-- Payment section -->
+  <rect x="70" y="270" width="320" height="150" rx="8" fill="#FEF3C7" stroke="#F59E0B" stroke-width="2"/>
+  <text x="230" y="295" text-anchor="middle" fill="#D97706" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Ved innbetaling</text>
+  
+  <rect x="90" y="310" width="280" height="100" rx="5" fill="white" stroke="#FCD34D" stroke-width="1"/>
+  <text x="100" y="330" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Dr. Skyldig pensjonsinnbetaling</text>
+  <text x="100" y="350" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">    Kr. Bank</text>
+  <text x="100" y="370" fill="#6B7280" font-family="Arial, sans-serif" font-size="12">Utbetaling til pensjonsleverandør</text>
+  <text x="100" y="390" fill="#6B7280" font-family="Arial, sans-serif" font-size="12">Typisk månedlig eller kvartalsvis</text>
+  
+  <!-- Timeline section -->
+  <rect x="410" y="270" width="320" height="150" rx="8" fill="#F3E8FF" stroke="#8B5CF6" stroke-width="2"/>
+  <text x="570" y="295" text-anchor="middle" fill="#7C3AED" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Timing og frekvens</text>
+  
+  <rect x="430" y="310" width="280" height="100" rx="5" fill="white" stroke="#C4B5FD" stroke-width="1"/>
+  <text x="440" y="330" fill="#374151" font-family="Arial, sans-serif" font-size="12">• Periodisering: Månedlig</text>
+  <text x="440" y="350" fill="#374151" font-family="Arial, sans-serif" font-size="12">• Innbetaling: Månedlig/kvartalsvis</text>
+  <text x="440" y="370" fill="#374151" font-family="Arial, sans-serif" font-size="12">• Årsoppgjør: Justering ved behov</text>
+  <text x="440" y="390" fill="#374151" font-family="Arial, sans-serif" font-size="12">• Rapportering: Automatisk ved integrasjon</text>
+  
+  <!-- Arrows -->
+  <path d="M 390 175 L 410 175" stroke="#6B7280" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  <path d="M 230 250 L 230 270" stroke="#6B7280" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto" fill="#6B7280">
+      <polygon points="0 0, 10 3.5, 0 7"/>
+    </marker>
+  </defs>
+</svg>

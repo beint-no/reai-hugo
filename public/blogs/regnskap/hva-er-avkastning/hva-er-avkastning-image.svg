@@ -1,0 +1,119 @@
+<svg width="600" height="400" viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="600" height="400" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="300" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#2c3e50">
+    Avkastning
+  </text>
+  
+  <!-- Subtitle -->
+  <text x="300" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#7f8c8d">
+    Gevinst eller tap på investeringer
+  </text>
+  
+  <!-- Investment arrow going up -->
+  <g transform="translate(150, 120)">
+    <!-- Investment box -->
+    <rect x="0" y="80" width="100" height="60" fill="#3498db" rx="5"/>
+    <text x="50" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      Investering
+    </text>
+    <text x="50" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      100.000 kr
+    </text>
+    
+    <!-- Arrow -->
+    <path d="M 50 70 L 50 20 M 40 30 L 50 20 L 60 30" stroke="#27ae60" stroke-width="4" fill="none"/>
+    
+    <!-- Return box -->
+    <rect x="0" y="0" width="100" height="60" fill="#27ae60" rx="5"/>
+    <text x="50" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      Avkastning
+    </text>
+    <text x="50" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      115.000 kr
+    </text>
+    <text x="50" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+      (+15%)
+    </text>
+  </g>
+  
+  <!-- Formula section -->
+  <rect x="320" y="100" width="250" height="120" fill="white" stroke="#34495e" stroke-width="2" rx="10"/>
+  <text x="445" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+    Avkastningsformel
+  </text>
+  
+  <text x="445" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+    Avkastning (%) =
+  </text>
+  
+  <text x="445" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    (Sluttverdi - Startverdi)
+  </text>
+  <line x1="360" y1="180" x2="530" y2="180" stroke="#2c3e50" stroke-width="1"/>
+  <text x="445" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    Startverdi
+  </text>
+  
+  <text x="445" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    × 100
+  </text>
+  
+  <!-- Types of returns -->
+  <text x="300" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">
+    Typer Avkastning
+  </text>
+  
+  <!-- Return types boxes -->
+  <g transform="translate(50, 280)">
+    <!-- Nominal return -->
+    <rect x="0" y="0" width="120" height="80" fill="#e74c3c" opacity="0.8" rx="5"/>
+    <text x="60" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      Nominell
+    </text>
+    <text x="60" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      Avkastning
+    </text>
+    <text x="60" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      Uten inflasjon
+    </text>
+    
+    <!-- Real return -->
+    <rect x="140" y="0" width="120" height="80" fill="#f39c12" opacity="0.8" rx="5"/>
+    <text x="200" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      Real
+    </text>
+    <text x="200" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      Avkastning
+    </text>
+    <text x="200" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      Justert for inflasjon
+    </text>
+    
+    <!-- Absolute return -->
+    <rect x="280" y="0" width="120" height="80" fill="#9b59b6" opacity="0.8" rx="5"/>
+    <text x="340" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      Absolutt
+    </text>
+    <text x="340" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      Avkastning
+    </text>
+    <text x="340" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      I kroner og øre
+    </text>
+    
+    <!-- Relative return -->
+    <rect x="420" y="0" width="120" height="80" fill="#1abc9c" opacity="0.8" rx="5"/>
+    <text x="480" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      Relativ
+    </text>
+    <text x="480" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      Avkastning
+    </text>
+    <text x="480" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      Vs. benchmark
+    </text>
+  </g>
+</svg>

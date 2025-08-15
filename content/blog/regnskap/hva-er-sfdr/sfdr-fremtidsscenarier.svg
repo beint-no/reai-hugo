@@ -1,0 +1,113 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="timelineGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#4CAF50;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FF9800;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="cardGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#ffffff"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">SFDR Fremtidsscenarier</text>
+  <text x="400" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#7f8c8d">Regulatorisk utvikling og markedstrender 2024-2030</text>
+  
+  <!-- Timeline -->
+  <line x1="80" y1="100" x2="720" y2="100" stroke="url(#timelineGradient)" stroke-width="4"/>
+  
+  <!-- Timeline markers -->
+  <circle cx="80" cy="100" r="6" fill="#2196F3"/>
+  <circle cx="280" cy="100" r="6" fill="#4CAF50"/>
+  <circle cx="500" cy="100" r="6" fill="#FF9800"/>
+  <circle cx="720" cy="100" r="6" fill="#9C27B0"/>
+  
+  <!-- Timeline labels -->
+  <text x="80" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2196F3">2024</text>
+  <text x="280" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#4CAF50">2026</text>
+  <text x="500" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#FF9800">2028</text>
+  <text x="720" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#9C27B0">2030</text>
+  
+  <!-- Scenario 1: Level 2 Regulatory Technical Standards -->
+  <rect x="20" y="130" width="200" height="120" rx="8" fill="url(#cardGradient)" stroke="#2196F3" stroke-width="2"/>
+  <text x="30" y="150" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2196F3">Level 2 RTS</text>
+  <text x="30" y="170" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">• Detaljerte rapporteringsformater</text>
+  <text x="30" y="185" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">• Standardiserte metodikker</text>
+  <text x="30" y="200" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">• Kvantitative terskler</text>
+  <text x="30" y="215" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">• PAI-indikatorer</text>
+  <text x="30" y="240" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#7f8c8d">Status: Implementering</text>
+  
+  <!-- Scenario 2: Utvidelser og Revisjoner -->
+  <rect x="240" y="130" width="200" height="120" rx="8" fill="url(#cardGradient)" stroke="#4CAF50" stroke-width="2"/>
+  <text x="250" y="150" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#4CAF50">Utvidelser &amp; Revisjoner</text>
+  <text x="250" y="170" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">• Utvidede PAI-indikatorer</text>
+  <text x="250" y="185" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">• Sosiale faktorer</text>
+  <text x="250" y="200" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">• Taksonomi-utvidelse</text>
+  <text x="250" y="215" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">• Governance-dimensjoner</text>
+  <text x="250" y="240" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#7f8c8d">Status: Planlegging</text>
+  
+  <!-- Scenario 3: Markedsutvikling -->
+  <rect x="460" y="130" width="200" height="120" rx="8" fill="url(#cardGradient)" stroke="#FF9800" stroke-width="2"/>
+  <text x="470" y="150" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#FF9800">Markedsutvikling</text>
+  <text x="470" y="170" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">• Personaliserte ESG-porteføljer</text>
+  <text x="470" y="185" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">• Real asset ESG-produkter</text>
+  <text x="470" y="200" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">• Emerging markets ESG</text>
+  <text x="470" y="215" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">• Crypto og DeFi ESG</text>
+  <text x="470" y="240" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#7f8c8d">Status: Innovasjon</text>
+  
+  <!-- Scenario 4: Global Harmonisering -->
+  <rect x="580" y="130" width="200" height="120" rx="8" fill="url(#cardGradient)" stroke="#9C27B0" stroke-width="2"/>
+  <text x="590" y="150" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#9C27B0">Global Harmonisering</text>
+  <text x="590" y="170" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">• TCFD integrering</text>
+  <text x="590" y="185" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">• TNFD standarder</text>
+  <text x="590" y="200" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">• ISSB harmonisering</text>
+  <text x="590" y="215" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">• CSRD sammenheng</text>
+  <text x="590" y="240" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#7f8c8d">Status: Konvergens</text>
+  
+  <!-- Technology Evolution -->
+  <rect x="20" y="280" width="760" height="80" rx="8" fill="#e8f5e8" stroke="#4CAF50" stroke-width="2"/>
+  <text x="30" y="300" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2e7d32">Teknologisk Evolusjon</text>
+  <text x="30" y="320" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">• RegTech for automatisert SFDR-compliance</text>
+  <text x="30" y="335" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">• AI og Machine Learning for ESG-scoring</text>
+  <text x="30" y="350" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">• Blockchain for transparens og sporbarhet</text>
+  <text x="450" y="320" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">• API-økosystem for real-time ESG-data</text>
+  <text x="450" y="335" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">• Predictive analytics for bærekraftsutfall</text>
+  <text x="450" y="350" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">• Natural language processing for dokumenter</text>
+  
+  <!-- Impact Metrics -->
+  <rect x="20" y="380" width="360" height="100" rx="8" fill="#fff3e0" stroke="#FF9800" stroke-width="2"/>
+  <text x="30" y="400" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#ef6c00">Forventede Markedsimpakter</text>
+  <text x="30" y="420" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">• €500+ milliarder i bærekraftige investeringer</text>
+  <text x="30" y="435" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">• 15-25% av alle AUM i Artikkel 8/9</text>
+  <text x="30" y="450" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">• Standardisert ESG-prising på tvers av markeder</text>
+  <text x="30" y="465" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">• Økt konkurranseintensitet i ESG-produkter</text>
+  
+  <!-- Regulatory Challenges -->
+  <rect x="400" y="380" width="380" height="100" rx="8" fill="#fce4ec" stroke="#e91e63" stroke-width="2"/>
+  <text x="410" y="400" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#c2185b">Regulatoriske Utfordringer</text>
+  <text x="410" y="420" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">• Datakvalitet og -tilgjengelighet</text>
+  <text x="410" y="435" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">• Jurisdiksjonelle forskjeller</text>
+  <text x="410" y="450" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">• Greenwashing-bekjempelse</text>
+  <text x="410" y="465" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">• Compliance-kostnader for mindre aktører</text>
+  
+  <!-- Success Factors -->
+  <rect x="20" y="500" width="760" height="80" rx="8" fill="#e3f2fd" stroke="#2196F3" stroke-width="2"/>
+  <text x="30" y="520" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1976d2">Suksessfaktorer for Norske Aktører</text>
+  <text x="30" y="540" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">• Tidlig implementering av Level 2 RTS</text>
+  <text x="30" y="555" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">• Investering i teknologi og data-infrastruktur</text>
+  <text x="30" y="570" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">• Tverrgående ESG-teamorganisasjon</text>
+  <text x="450" y="540" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">• Robuste due diligence-prosesser</text>
+  <text x="450" y="555" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">• Strategisk posisjonering i voksende markeder</text>
+  <text x="450" y="570" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">• Kontinuerlig kompetanseheving</text>
+  
+  <!-- Arrow indicators -->
+  <polygon points="70,110 90,110 80,125" fill="#2196F3"/>
+  <polygon points="270,110 290,110 280,125" fill="#4CAF50"/>
+  <polygon points="490,110 510,110 500,125" fill="#FF9800"/>
+  <polygon points="710,110 730,110 720,125" fill="#9C27B0"/>
+</svg>

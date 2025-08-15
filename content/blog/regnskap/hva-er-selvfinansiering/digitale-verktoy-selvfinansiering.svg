@@ -1,0 +1,189 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="techGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#8b5cf6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7c3aed;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="dataGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#06b6d4;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0891b2;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="url(#bgGradient)"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="#1e293b">
+    Digitale Verktøy for Selvfinansiering
+  </text>
+  
+  <!-- Central hub -->
+  <g transform="translate(400, 200)">
+    <circle cx="0" cy="0" r="80" fill="url(#techGradient)" stroke="#6d28d9" stroke-width="3"/>
+    <text x="0" y="-10" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+      Integrert
+    </text>
+    <text x="0" y="10" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+      ERP-system
+    </text>
+    <text x="0" y="30" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#e9d5ff">
+      Sentral styring av alle prosesser
+    </text>
+  </g>
+  
+  <!-- ERP modules around the center -->
+  
+  <!-- Financial Planning -->
+  <g transform="translate(150, 120)">
+    <rect x="0" y="0" width="160" height="80" fill="#ddd6fe" stroke="#8b5cf6" stroke-width="2" rx="10"/>
+    <circle cx="30" cy="25" r="18" fill="#8b5cf6"/>
+    <text x="30" y="30" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">📊</text>
+    
+    <text x="60" y="20" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#6d28d9">
+      Finansiell Planlegging
+    </text>
+    <text x="60" y="35" font-family="Arial, sans-serif" font-size="10" fill="#7c3aed">
+      • Budsjett og prognoser
+    </text>
+    <text x="60" y="50" font-family="Arial, sans-serif" font-size="10" fill="#7c3aed">
+      • Kontantstrømanalyse
+    </text>
+    <text x="60" y="65" font-family="Arial, sans-serif" font-size="10" fill="#7c3aed">
+      • Scenariomodellering
+    </text>
+    
+    <!-- Connection line -->
+    <path d="M 160 60 Q 220 100 320 160" stroke="#8b5cf6" stroke-width="2" fill="none"/>
+  </g>
+  
+  <!-- Working Capital Management -->
+  <g transform="translate(490, 120)">
+    <rect x="0" y="0" width="160" height="80" fill="#cffafe" stroke="#06b6d4" stroke-width="2" rx="10"/>
+    <circle cx="30" cy="25" r="18" fill="#06b6d4"/>
+    <text x="30" y="30" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">🔄</text>
+    
+    <text x="60" y="20" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#0891b2">
+      Arbeidskapitalstyring
+    </text>
+    <text x="60" y="35" font-family="Arial, sans-serif" font-size="10" fill="#0e7490">
+      • Automatisk fakturering
+    </text>
+    <text x="60" y="50" font-family="Arial, sans-serif" font-size="10" fill="#0e7490">
+      • Lageroptimalisering
+    </text>
+    <text x="60" y="65" font-family="Arial, sans-serif" font-size="10" fill="#0e7490">
+      • Betalingsoversikt
+    </text>
+    
+    <!-- Connection line -->
+    <path d="M 0 60 Q -60 100 -80 160" stroke="#06b6d4" stroke-width="2" fill="none"/>
+  </g>
+  
+  <!-- Investment Planning -->
+  <g transform="translate(150, 320)">
+    <rect x="0" y="0" width="160" height="80" fill="#fef3c7" stroke="#f59e0b" stroke-width="2" rx="10"/>
+    <circle cx="30" cy="25" r="18" fill="#f59e0b"/>
+    <text x="30" y="30" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">🏗️</text>
+    
+    <text x="60" y="20" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#d97706">
+      Investeringsplanlegging
+    </text>
+    <text x="60" y="35" font-family="Arial, sans-serif" font-size="10" fill="#92400e">
+      • Prosjektportefølje
+    </text>
+    <text x="60" y="50" font-family="Arial, sans-serif" font-size="10" fill="#92400e">
+      • ROI-beregninger
+    </text>
+    <text x="60" y="65" font-family="Arial, sans-serif" font-size="10" fill="#92400e">
+      • Kapitalbudsjettering
+    </text>
+    
+    <!-- Connection line -->
+    <path d="M 160 40 Q 220 100 320 200" stroke="#f59e0b" stroke-width="2" fill="none"/>
+  </g>
+  
+  <!-- Reporting & Analytics -->
+  <g transform="translate(490, 320)">
+    <rect x="0" y="0" width="160" height="80" fill="#dcfce7" stroke="#22c55e" stroke-width="2" rx="10"/>
+    <circle cx="30" cy="25" r="18" fill="#22c55e"/>
+    <text x="30" y="30" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">📈</text>
+    
+    <text x="60" y="20" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#16a34a">
+      Rapporter og Analyse
+    </text>
+    <text x="60" y="35" font-family="Arial, sans-serif" font-size="10" fill="#15803d">
+      • Sanntidsrapporter
+    </text>
+    <text x="60" y="50" font-family="Arial, sans-serif" font-size="10" fill="#15803d">
+      • KPI-dashboards
+    </text>
+    <text x="60" y="65" font-family="Arial, sans-serif" font-size="10" fill="#15803d">
+      • Trendanalyser
+    </text>
+    
+    <!-- Connection line -->
+    <path d="M 0 40 Q -60 100 -80 200" stroke="#22c55e" stroke-width="2" fill="none"/>
+  </g>
+  
+  <!-- AI & Machine Learning section -->
+  <g transform="translate(50, 450)">
+    <rect x="0" y="0" width="320" height="120" fill="#f3e8ff" stroke="#a855f7" stroke-width="3" rx="15"/>
+    <text x="160" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#7c3aed">
+      AI og Maskinlæring
+    </text>
+    
+    <!-- AI capabilities -->
+    <g transform="translate(20, 40)">
+      <circle cx="15" cy="15" r="10" fill="#a855f7"/>
+      <text x="15" y="19" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="white">🤖</text>
+      <text x="35" y="12" font-family="Arial, sans-serif" font-size="11" fill="#6b21a8">Prediktive modeller for kontantstrøm</text>
+      <text x="35" y="25" font-family="Arial, sans-serif" font-size="11" fill="#6b21a8">Automatisk anomali-deteksjon</text>
+    </g>
+    
+    <g transform="translate(20, 70)">
+      <circle cx="15" cy="15" r="10" fill="#a855f7"/>
+      <text x="15" y="19" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="white">📊</text>
+      <text x="35" y="12" font-family="Arial, sans-serif" font-size="11" fill="#6b21a8">Intelligent finansieringsanbefaling</text>
+      <text x="35" y="25" font-family="Arial, sans-serif" font-size="11" fill="#6b21a8">Risikostyring og compliance</text>
+    </g>
+  </g>
+  
+  <!-- Cloud Integration section -->
+  <g transform="translate(430, 450)">
+    <rect x="0" y="0" width="320" height="120" fill="#f0f9ff" stroke="#0ea5e9" stroke-width="3" rx="15"/>
+    <text x="160" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0284c7">
+      Sky-baserte Løsninger
+    </text>
+    
+    <!-- Cloud capabilities -->
+    <g transform="translate(20, 40)">
+      <circle cx="15" cy="15" r="10" fill="#0ea5e9"/>
+      <text x="15" y="19" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="white">☁️</text>
+      <text x="35" y="12" font-family="Arial, sans-serif" font-size="11" fill="#0369a1">Skalerbare løsninger og oppgradering</text>
+      <text x="35" y="25" font-family="Arial, sans-serif" font-size="11" fill="#0369a1">Tilgang fra alle enheter og steder</text>
+    </g>
+    
+    <g transform="translate(20, 70)">
+      <circle cx="15" cy="15" r="10" fill="#0ea5e9"/>
+      <text x="15" y="19" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="white">🔒</text>
+      <text x="35" y="12" font-family="Arial, sans-serif" font-size="11" fill="#0369a1">Sikker datalagring og backup</text>
+      <text x="35" y="25" font-family="Arial, sans-serif" font-size="11" fill="#0369a1">Automatiske oppdateringer</text>
+    </g>
+  </g>
+  
+  <!-- Benefits box -->
+  <g transform="translate(250, 50)">
+    <rect x="0" y="0" width="300" height="50" fill="#f1f5f9" stroke="#64748b" stroke-width="2" rx="10"/>
+    <text x="150" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#1e293b">
+      Digitalisering forbedrer beslutningsgrunnlag og automatiserer
+    </text>
+    <text x="150" y="35" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#1e293b">
+      rutineoppgaver for optimal selvfinansiering
+    </text>
+  </g>
+</svg>

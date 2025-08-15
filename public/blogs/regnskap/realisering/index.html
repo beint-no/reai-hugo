@@ -1,0 +1,348 @@
+<!doctype html>
+<html lang="nb">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Realisering | ReAI</title>
+  <meta name="description" content="Komplett regnskapssystem med faktura, lønn, bilagsføring og årsoppgjør.">
+  
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<script src="https://cdn.tailwindcss.com?plugins=typography"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        fontFamily: { sans: ['Inter','ui-sans-serif','system-ui','Arial','sans-serif'] },
+        colors: {
+          brand: { DEFAULT: '#111827' },
+          accent: { DEFAULT: '#2563eb' }
+        }
+      }
+    }
+  }
+</script>
+<style>
+   
+  header .header-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #000 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link:hover { background-position: 0; }
+  header .header-link:hover::before { width: 100%; }
+
+  footer .footer-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #ffffff 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link:hover { background-position: 0; }
+  footer .footer-link:hover::before { width: 100%; }
+</style>
+<style>
+   
+  .prose { overflow-wrap: anywhere; word-break: break-word; }
+  .prose img { max-width: 100%; height: auto; }
+  .prose table { display: block; width: 100%; overflow-x: auto; }
+  .prose pre { white-space: pre-wrap; word-break: break-word; overflow-x: auto; }
+  .prose code { word-break: break-word; }
+  .prose iframe, .prose video { max-width: 100%; width: 100%; height: auto; }
+</style>
+<style>
+   
+  button,
+  .btn,
+  a.btn,
+  .button,
+  .cta,
+  .link-button,
+   
+  a.inline-flex.rounded-md,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"] {
+    transition: transform 220ms ease, box-shadow 220ms ease, background-color 220ms ease, color 220ms ease, opacity 220ms ease;
+    will-change: transform, box-shadow;
+  }
+
+  button:hover,
+  .btn:hover,
+  a.btn:hover,
+  .button:hover,
+  .cta:hover,
+  .link-button:hover,
+  a.inline-flex.rounded-md:hover,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+
+  button:active,
+  .btn:active,
+  a.btn:active,
+  .button:active,
+  .cta:active,
+  .link-button:active,
+  a.inline-flex.rounded-md:active,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:active {
+    transform: translateY(-1px) scale(0.99);
+    box-shadow: 0 6px 12px rgba(2, 6, 23, 0.1);
+  }
+
+  button:focus-visible,
+  .btn:focus-visible,
+  a.btn:focus-visible,
+  .button:focus-visible,
+  .cta:focus-visible,
+  .link-button:focus-visible,
+  a.inline-flex.rounded-md:focus-visible,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.35), 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+</style>
+
+<link rel="icon" type="image/svg+xml" href="/images/ReAI-logo-square.svg">
+<link rel="shortcut icon" href="/images/ReAI-logo-square.svg">
+
+</head>
+<body class="min-h-dvh bg-white text-gray-900 font-sans">
+  <header class="sticky top-0 z-40 bg-white/80 backdrop-blur">
+  
+  <div class="border-b border-slate-200/70">
+    <div class="max-w-7xl mx-auto px-4">
+      <div class="h-16 flex items-center justify-between">
+        <a href="/" class="flex items-center gap-2" aria-label="ReAI">
+          <img src="/images/ReAI-logo-square.svg?v=4" alt="ReAI logo" class="h-14 w-14 rounded-md mt-5" width="56" height="56" loading="eager" decoding="async">
+        </a>
+        <nav class="hidden md:block">
+          <ul class="flex items-center gap-5 text-sm">
+            <li><a href="/courses/" class="header-link text-slate-700 hover:text-black">Gratis kurs</a></li>
+            <li><a href="/contact/" class="header-link text-slate-700 hover:text-black">Kontakt oss</a></li>
+            <li><a href="/blog/" class="header-link text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+            <li><a href="/bli-partner/" class="header-link text-slate-700 hover:text-black">Bli partner</a></li>
+            <li><a href="/fakturamal/" class="header-link text-slate-700 hover:text-black">Lag faktura</a></li>
+          </ul>
+        </nav>
+        <button id="mobileMenuBtn" aria-controls="mobileMenu" aria-expanded="false" class="md:hidden inline-flex items-center justify-center h-9 w-9 rounded-md border border-slate-300">
+          <span class="sr-only">Menu</span>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-5 w-5"><path d="M3.75 6.75h16.5v1.5H3.75zM3.75 11.25h16.5v1.5H3.75zM3.75 15.75h16.5v1.5H3.75z"/></svg>
+        </button>
+      </div>
+    </div>
+  </div>
+  
+  <nav id="mobileMenu" class="md:hidden hidden border-b border-slate-200/70 bg-white/95 backdrop-blur">
+    <div class="max-w-7xl mx-auto px-4 py-3">
+      <ul class="flex flex-col items-center gap-3 text-sm text-center">
+        <li><a href="/courses/" class="header-link block text-slate-700 hover:text-black">Gratis kurs</a></li>
+        <li><a href="/contact/" class="header-link block text-slate-700 hover:text-black">Kontakt oss</a></li>
+        <li><a href="/blog/" class="header-link block text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+        <li><a href="/bli-partner/" class="header-link block text-slate-700 hover:text-black">Bli partner</a></li>
+        <li><a href="/fakturamal/" class="header-link block text-slate-700 hover:text-black">Lag faktura</a></li>
+      </ul>
+    </div>
+  </nav>
+  <script>
+    (function() {
+      const btn = document.getElementById('mobileMenuBtn');
+      const menu = document.getElementById('mobileMenu');
+      if (!btn || !menu) return;
+      btn.addEventListener('click', function() {
+        const isHidden = menu.classList.contains('hidden');
+        menu.classList.toggle('hidden');
+        btn.setAttribute('aria-expanded', String(isHidden));
+      });
+    })();
+  </script>
+</header>
+  <main>
+    
+<section class="pt-10 md:pt-14">
+  <div class="max-w-3xl mx-auto px-4">
+    <h1 class="text-3xl font-semibold tracking-tight text-center">Realisering</h1>
+    <p class="mt-2 text-gray-700">En omfattende gjennomgang av realisering i regnskap, inkludert regnskapsmessig behandling, gevinst- og tapsberegning og juridisk grunnlag.</p>
+    <article class="prose max-w-none mt-6"><p><strong>Realisering</strong> i regnskap refererer til prosessen med å realisere økonomiske fordeler ved salg eller avhending av eiendeler, investeringer eller andre finansielle instrumenter. Korrekt behandling av realisering er viktig for å sikre <strong>rettvisende resultat</strong> og balanse.</p>
+<p><img src="realisering-image.svg" alt="Realisering"></p>
+<h2 id="1-hva-er-realisering">1. Hva er realisering?</h2>
+<p>Realisering innebærer at en eiendel eller investering omgjøres til kontanter eller andre likvide midler, og at eventuell gevinst eller tap identifiseres og resultatføres. Dette kan gjelde:</p>
+<ul>
+<li>Salg av varige driftsmidler (for eksempel maskiner eller bygninger)</li>
+<li>Avhendelse av immaterielle eiendeler</li>
+<li>Salg av omløpsmidler som varelager eller finansielle investeringer</li>
+<li>Valutagevinster eller -tap ved omregning av utenlandsk valuta</li>
+</ul>
+<h2 id="2-når-oppstår-realisering">2. Når oppstår realisering?</h2>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">Situasjon</th>
+          <th style="text-align: left">Beskrivelse</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left">Salg av anleggsmidler</td>
+          <td style="text-align: left">Når eiendelens bokførte verdi overføres ved salg eller utrangering</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Avhending av immaterielle eiendeler</td>
+          <td style="text-align: left">Når immaterielle eiendeler omgjøres til kontanter</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Varelagersalg</td>
+          <td style="text-align: left">Når varelageret selges og inntektene bokføres</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Finansielle investeringer</td>
+          <td style="text-align: left">Ved salg av aksjer, obligasjoner eller fond</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="3-regnskapsmessig-behandling-av-realisering">3. Regnskapsmessig behandling av realisering</h2>
+<p>Når en eiendel realiseres, må bokført verdi fjernes fra balansen, og salgssummen føres mot eiendelens verdi. Eksempel:</p>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">Transaksjon</th>
+          <th style="text-align: left">Debet</th>
+          <th style="text-align: left">Kredit</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left">Bankinnskudd ved salg</td>
+          <td style="text-align: left">1920 Bankinnskudd</td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Fjern bokført verdi av maskin</td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left">1230 Maskiner</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Gevinst ved realisering (om gevinst &gt; 0)</td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left">3900 Gevinst ved salg</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Tap ved realisering (om tap &gt; 0)</td>
+          <td style="text-align: left">7900 Tap ved salg</td>
+          <td style="text-align: left"></td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="4-gevinst-og-tap-ved-realisering">4. Gevinst og tap ved realisering</h2>
+<p>Gevinst eller tap beregnes som forskjellen mellom salgsinntekt og bokført verdi ved tidspunktet for realisering:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-text" data-lang="text"><span style="display:flex;"><span>Gevinst/tap = Salgspris – Bokført verdi
+</span></span></code></pre></div><table>
+  <thead>
+      <tr>
+          <th style="text-align: left">Resultat</th>
+          <th style="text-align: left">Beregning</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left">Gevinst</td>
+          <td style="text-align: left">Salgspris &gt; Bokført verdi → overskudd</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Tap</td>
+          <td style="text-align: left">Salgspris &lt; Bokført verdi → negativt resultat</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="5-juridisk-grunnlag">5. Juridisk grunnlag</h2>
+<p>Realisering av eiendeler reguleres av bokføringsloven § 4-1 og regnskapsstandarder som NRS, som krever at alle transaksjoner dokumenteres og periodiseres korrekt.</p>
+<h2 id="6-eksempler">6. Eksempler</h2>
+<ol>
+<li><strong>Salg av maskin</strong>: En maskin med bokført verdi 100 000 kr selges for 120 000 kr → gevinst på 20 000 kr.</li>
+<li><strong>Utrangering av utstyr</strong>: Utstyr med bokført verdi 5 000 kr utrangeres uten salgsinntekt → tap på 5 000 kr.</li>
+<li><strong>Salg av aksjer</strong>: Aksjer kjøpt for 50 000 kr selges for 45 000 kr → tap på 5 000 kr.</li>
+</ol>
+<h2 id="7-sammenheng-med-andre-regnskapsprinsipper">7. Sammenheng med andre regnskapsprinsipper</h2>
+<p>Realisering henger tett sammen med andre prinsipper som <a href="/blogs/regnskap/hva-er-aktivering" title="Hva er Aktivering?">aktivering</a>, <a href="/blogs/regnskap/hva-er-avskrivning" title="Hva er Avskrivning?">avskrivning</a>, og <a href="/blogs/regnskap/hva-er-anskaffelseskost" title="Hva er Anskaffelseskost?">anskaffelseskost</a>.</p>
+<h2 id="8-videre-lesning">8. Videre lesning</h2>
+<p>For en dypere gjennomgang av gevinst- og tapskontoer, se <a href="/blogs/regnskap/gevinst-og-tapskonto" title="Gevinst- og tapskonto: Håndtering av Gevinst og Tap i Regnskap">Gevinst og tapskonto</a>.</p>
+</article>
+  </div>
+</section>
+
+  </main>
+  <footer class="mt-16 border-t border-slate-800/60 bg-slate-900">
+  <div class="max-w-7xl mx-auto px-4 py-14">
+    <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3 text-center sm:text-left">
+      
+      <div>
+        <h3 class="text-sm font-semibold text-white">Verktøy</h3>
+        <ul class="mt-2 space-y-2 text-sm text-slate-300">
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/finn-iban/">IBAN kalkulator</a></li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/lag-faktura-gratis/">Lag faktura</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Selskaps-informasjon</h3>
+        <ul class="mt-2 space-y-1 text-sm text-slate-300">
+          <li>Reai AS</li>
+          <li>Orgnr: 935606403</li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="mailto:post@reai.no">post@reai.no</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Om ReAI</h3>
+        <p class="mt-2 text-sm text-slate-300">ReAI er et gratis regnskapsprogram laget av tidligere ansatte i Tripletex
+          / Visma. Vi mener det er på tide med mer konkurranse i regnskaps-bransjen som kan komme bedrifter til gode.
+        </p>
+      </div>
+    </div>
+    <div class="mt-12 border-t border-slate-800/60 pt-6 flex flex-col items-center sm:flex-row sm:items-center sm:justify-between text-sm text-slate-400 text-center sm:text-left">
+      <div class="flex items-center gap-2">
+        
+        
+      </div>
+      <div class="mt-4 sm:mt-0 flex items-center justify-center sm:justify-end">
+        <div class="opacity-80">&copy; 2025 ReAI. All rights reserved.</div>
+      </div>
+    </div>
+  </div>
+</footer>
+</body>
+</html>

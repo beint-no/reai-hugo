@@ -1,0 +1,163 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="trygdeavgiftGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ffebee;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#d32f2f;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="arbeidsgiveravgiftGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#e1f5fe;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0277bd;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="statGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#f1f8e9;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#558b2f;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="2" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="url(#bgGradient)"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#333">
+    Finansiering av Folketrygden
+  </text>
+  
+  <!-- Central Folketrygden fund -->
+  <rect x="300" y="250" width="200" height="100" fill="#0066cc" stroke="#004499" stroke-width="3" rx="15" filter="url(#shadow)"/>
+  <text x="400" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+    FOLKETRYGDFONDET
+  </text>
+  <text x="400" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+    ~400 mrd kr årlig
+  </text>
+  <text x="400" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    (15% av BNP)
+  </text>
+  
+  <!-- Trygdeavgift from employees -->
+  <rect x="50" y="80" width="200" height="120" fill="url(#trygdeavgiftGradient)" stroke="#d32f2f" stroke-width="2" rx="10" filter="url(#shadow)"/>
+  <text x="150" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#d32f2f">
+    TRYGDEAVGIFT
+  </text>
+  <text x="150" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    Fra arbeidstakere
+  </text>
+  
+  <!-- Trygdeavgift rates table -->
+  <rect x="60" y="145" width="180" height="50" fill="white" stroke="#d32f2f" stroke-width="1" rx="5"/>
+  <text x="150" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#333">
+    Inntektsnivå - Sats
+  </text>
+  <text x="150" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    0-69k: 0% | 69-109k: 5,1%
+  </text>
+  <text x="150" y="188" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    109-174k: 11,1% | 174k+: 13,1%
+  </text>
+  
+  <!-- Arbeidsgiveravgift -->
+  <rect x="550" y="80" width="200" height="120" fill="url(#arbeidsgiveravgiftGradient)" stroke="#0277bd" stroke-width="2" rx="10" filter="url(#shadow)"/>
+  <text x="650" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#0277bd">
+    ARBEIDSGIVERAVGIFT
+  </text>
+  <text x="650" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    Fra arbeidsgivere
+  </text>
+  
+  <!-- Arbeidsgiveravgift zones table -->
+  <rect x="560" y="145" width="180" height="50" fill="white" stroke="#0277bd" stroke-width="1" rx="5"/>
+  <text x="650" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#333">
+    Geografiske soner
+  </text>
+  <text x="650" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    Sone 1: 14,1% | Sone 2: 10,6%
+  </text>
+  <text x="650" y="188" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    Sone 3: 6,4% | Sone 4: 5,1% | Sone 5: 0%
+  </text>
+  
+  <!-- State contributions -->
+  <rect x="300" y="420" width="200" height="120" fill="url(#statGradient)" stroke="#558b2f" stroke-width="2" rx="10" filter="url(#shadow)"/>
+  <text x="400" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#558b2f">
+    STATLIGE TILSKUDD
+  </text>
+  <text x="400" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    Fra statsbudsjettet
+  </text>
+  <text x="400" y="490" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    Dekker underskudd
+  </text>
+  <text x="400" y="510" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    og demografiske
+  </text>
+  <text x="400" y="525" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    utfordringer
+  </text>
+  
+  <!-- Arrows showing money flow -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#333"/>
+    </marker>
+  </defs>
+  
+  <!-- Arrow from trygdeavgift to fund -->
+  <path d="M 250 140 Q 275 200 300 280" stroke="#d32f2f" stroke-width="4" fill="none" marker-end="url(#arrowhead)"/>
+  <text x="275" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#d32f2f">
+    ~35%
+  </text>
+  
+  <!-- Arrow from arbeidsgiveravgift to fund -->
+  <path d="M 550 140 Q 525 200 500 280" stroke="#0277bd" stroke-width="4" fill="none" marker-end="url(#arrowhead)"/>
+  <text x="525" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#0277bd">
+    ~40%
+  </text>
+  
+  <!-- Arrow from state to fund -->
+  <path d="M 400 420 L 400 350" stroke="#558b2f" stroke-width="4" fill="none" marker-end="url(#arrowhead)"/>
+  <text x="420" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#558b2f">
+    ~25%
+  </text>
+  
+  <!-- Additional info boxes -->
+  <rect x="50" y="250" width="180" height="80" fill="#fff3e0" stroke="#f57c00" stroke-width="2" rx="5"/>
+  <text x="140" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#f57c00">
+    Regnskapsmessige
+  </text>
+  <text x="140" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#f57c00">
+    Konsekvenser
+  </text>
+  <text x="140" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    • Lønnskostnader
+  </text>
+  <text x="140" y="322" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    • A-melding rapportering
+  </text>
+  
+  <rect x="570" y="250" width="180" height="80" fill="#e8f5e8" stroke="#388e3c" stroke-width="2" rx="5"/>
+  <text x="660" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#388e3c">
+    Grunnbeløp (G)
+  </text>
+  <text x="660" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#388e3c">
+    Regulering
+  </text>
+  <text x="660" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    • 2024: 124 028 kr
+  </text>
+  <text x="660" y="322" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    • Justeres årlig
+  </text>
+  
+  <!-- Bottom summary -->
+  <rect x="150" y="560" width="500" height="30" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="5"/>
+  <text x="400" y="580" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1976d2">
+    Totalt finansieringsbehov: ~400 milliarder kroner årlig (2024)
+  </text>
+</svg>

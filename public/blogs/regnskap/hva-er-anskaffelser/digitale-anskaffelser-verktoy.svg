@@ -1,0 +1,148 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ecommerceGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e8f5e8;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#d4edda;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="aiGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e3f2fd;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#bbdefb;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="integrationGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#fff8e1;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ffecb3;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="blockchainGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f3e5f5;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e1bee7;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#1976d2">
+    Digitale Anskaffelsesverktøy
+  </text>
+  
+  <!-- E-commerce and Platforms -->
+  <rect x="50" y="70" width="320" height="180" fill="url(#ecommerceGradient)" stroke="#28a745" stroke-width="3" rx="15"/>
+  <text x="210" y="100" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#155724">
+    E-handel og Innkjøpsplattformer
+  </text>
+  
+  <!-- E-commerce icon -->
+  <circle cx="210" cy="140" r="25" fill="#28a745" opacity="0.3"/>
+  <rect x="195" y="125" width="30" height="30" fill="none" stroke="#28a745" stroke-width="3"/>
+  <circle cx="205" cy="135" r="3" fill="#28a745"/>
+  <circle cx="215" cy="135" r="3" fill="#28a745"/>
+  <path d="M200 145 L220 145" stroke="#28a745" stroke-width="2"/>
+  
+  <text x="210" y="180" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#155724">
+    Funksjoner:
+  </text>
+  <text x="70" y="200" font-family="Arial, sans-serif" font-size="11" fill="#155724">
+    • Elektroniske kataloger
+  </text>
+  <text x="70" y="215" font-family="Arial, sans-serif" font-size="11" fill="#155724">
+    • Automatiserte bestillinger
+  </text>
+  <text x="70" y="230" font-family="Arial, sans-serif" font-size="11" fill="#155724">
+    • Integrerte ERP-systemer
+  </text>
+  <text x="70" y="245" font-family="Arial, sans-serif" font-size="11" fill="#155724">
+    • Elektronisk fakturering (EHF)
+  </text>
+  
+  <!-- AI and Analytics -->
+  <rect x="430" y="70" width="320" height="180" fill="url(#aiGradient)" stroke="#007bff" stroke-width="3" rx="15"/>
+  <text x="590" y="100" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#004085">
+    Kunstig Intelligens
+  </text>
+  
+  <!-- AI icon -->
+  <circle cx="590" cy="140" r="25" fill="#007bff" opacity="0.3"/>
+  <circle cx="590" cy="140" r="15" fill="none" stroke="#007bff" stroke-width="3"/>
+  <circle cx="585" cy="135" r="2" fill="#007bff"/>
+  <circle cx="595" cy="135" r="2" fill="#007bff"/>
+  <path d="M585 145 Q590 150 595 145" stroke="#007bff" stroke-width="2" fill="none"/>
+  
+  <text x="590" y="180" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#004085">
+    Anvendelser:
+  </text>
+  <text x="450" y="200" font-family="Arial, sans-serif" font-size="11" fill="#004085">
+    • Prediktiv analyse for behovsprognose
+  </text>
+  <text x="450" y="215" font-family="Arial, sans-serif" font-size="11" fill="#004085">
+    • Automatisk leverandørvurdering
+  </text>
+  <text x="450" y="230" font-family="Arial, sans-serif" font-size="11" fill="#004085">
+    • Prisoptimalisering
+  </text>
+  <text x="450" y="245" font-family="Arial, sans-serif" font-size="11" fill="#004085">
+    • Risikostyring og compliance
+  </text>
+  
+  <!-- Integration and Automation -->
+  <rect x="50" y="280" width="320" height="180" fill="url(#integrationGradient)" stroke="#ffc107" stroke-width="3" rx="15"/>
+  <text x="210" y="310" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#856404">
+    Integrasjon og Automatisering
+  </text>
+  
+  <!-- Integration icon -->
+  <circle cx="210" cy="350" r="25" fill="#ffc107" opacity="0.3"/>
+  <rect x="195" y="335" width="30" height="30" fill="none" stroke="#ffc107" stroke-width="3"/>
+  <path d="M200 345 L220 345 M205 340 L205 350 M215 340 L215 350" stroke="#ffc107" stroke-width="2"/>
+  
+  <text x="210" y="390" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#856404">
+    Fordeler:
+  </text>
+  <text x="70" y="410" font-family="Arial, sans-serif" font-size="11" fill="#856404">
+    • Redusert manuelt arbeid
+  </text>
+  <text x="70" y="425" font-family="Arial, sans-serif" font-size="11" fill="#856404">
+    • Færre feil og avvik
+  </text>
+  <text x="70" y="440" font-family="Arial, sans-serif" font-size="11" fill="#856404">
+    • Raskere prosesser
+  </text>
+  <text x="70" y="455" font-family="Arial, sans-serif" font-size="11" fill="#856404">
+    • Bedre sporbarhet
+  </text>
+  
+  <!-- Blockchain and Future Tech -->
+  <rect x="430" y="280" width="320" height="180" fill="url(#blockchainGradient)" stroke="#9c27b0" stroke-width="3" rx="15"/>
+  <text x="590" y="310" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#4a148c">
+    Fremtidsteknologier
+  </text>
+  
+  <!-- Blockchain icon -->
+  <circle cx="590" cy="350" r="25" fill="#9c27b0" opacity="0.3"/>
+  <rect x="580" y="340" width="8" height="8" fill="none" stroke="#9c27b0" stroke-width="2"/>
+  <rect x="587" y="340" width="8" height="8" fill="none" stroke="#9c27b0" stroke-width="2"/>
+  <rect x="594" y="340" width="8" height="8" fill="none" stroke="#9c27b0" stroke-width="2"/>
+  <path d="M584 348 L591 355 M591 348 L598 355" stroke="#9c27b0" stroke-width="1"/>
+  
+  <text x="590" y="390" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#4a148c">
+    Teknologier:
+  </text>
+  <text x="450" y="410" font-family="Arial, sans-serif" font-size="11" fill="#4a148c">
+    • Blockchain for sporbarhet
+  </text>
+  <text x="450" y="425" font-family="Arial, sans-serif" font-size="11" fill="#4a148c">
+    • IoT og sanntidsdata
+  </text>
+  <text x="450" y="440" font-family="Arial, sans-serif" font-size="11" fill="#4a148c">
+    • Smart contracts
+  </text>
+  <text x="450" y="455" font-family="Arial, sans-serif" font-size="11" fill="#4a148c">
+    • Augmented reality for inspeksjon
+  </text>
+  
+  <!-- Benefits section at bottom -->
+  <rect x="100" y="480" width="600" height="15" fill="#e9ecef" stroke="#6c757d" stroke-width="1"/>
+  <text x="400" y="492" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#495057">
+    Digitalisering øker effektivitet, reduserer kostnader og forbedrer beslutningsgrunnlaget
+  </text>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600" height="200" viewBox="0 0 600 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto">
+      <path d="M0,0 L10,5 L0,10 Z" fill="#6c757d"/>
+    </marker>
+  </defs>
+  <rect x="50" y="20" width="200" height="80" fill="#e9ecef" stroke="#6c757d"/>
+  <text x="150" y="60" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#333">Gjeldskostnad</text>
+  <rect x="350" y="20" width="200" height="80" fill="#e9ecef" stroke="#6c757d"/>
+  <text x="450" y="60" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#333">Egenkapitalkostnad</text>
+  <line x1="150" y1="100" x2="300" y2="120" stroke="#6c757d" marker-end="url(#arrow)"/>
+  <line x1="450" y1="100" x2="300" y2="120" stroke="#6c757d" marker-end="url(#arrow)"/>
+  <rect x="200" y="120" width="200" height="60" fill="#e9ecef" stroke="#6c757d"/>
+  <text x="300" y="150" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#333">Kapitalkostnad (WACC)</text>
+</svg>

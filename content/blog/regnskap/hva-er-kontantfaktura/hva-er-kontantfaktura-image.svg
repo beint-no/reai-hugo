@@ -1,0 +1,57 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="400" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#2c3e50">
+    Hva er kontantfaktura?
+  </text>
+  
+  <!-- Invoice illustration -->
+  <rect x="100" y="100" width="200" height="250" fill="white" stroke="#3498db" stroke-width="2" rx="5"/>
+  <text x="200" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">KONTANTFAKTURA</text>
+  <line x1="120" y1="150" x2="280" y2="150" stroke="#bdc3c7" stroke-width="1"/>
+  <text x="120" y="170" font-family="Arial, sans-serif" font-size="12" fill="#34495e">Fakturanr: 2024-001</text>
+  <text x="120" y="190" font-family="Arial, sans-serif" font-size="12" fill="#34495e">Dato: 15.01.2024</text>
+  <text x="120" y="210" font-family="Arial, sans-serif" font-size="12" fill="#34495e">Vare: Kaffe</text>
+  <text x="120" y="230" font-family="Arial, sans-serif" font-size="12" fill="#34495e">Pris: 45,00 kr</text>
+  <text x="120" y="250" font-family="Arial, sans-serif" font-size="12" fill="#34495e">MVA: 11,25 kr</text>
+  <line x1="120" y1="260" x2="280" y2="260" stroke="#34495e" stroke-width="2"/>
+  <text x="120" y="280" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#27ae60">Total: 56,25 kr</text>
+  <rect x="130" y="300" width="140" height="30" fill="#e74c3c" rx="5"/>
+  <text x="200" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">BETALT KONTANT</text>
+  
+  <!-- Arrow -->
+  <path d="M 320 225 L 380 225" stroke="#e74c3c" stroke-width="4" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Cash/Card payment illustration -->
+  <g transform="translate(400, 150)">
+    <!-- Cash -->
+    <rect x="0" y="0" width="80" height="40" fill="#27ae60" rx="5"/>
+    <text x="40" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">KONTANT</text>
+    
+    <!-- Card -->
+    <rect x="0" y="60" width="80" height="50" fill="#3498db" rx="8"/>
+    <rect x="10" y="70" width="60" height="8" fill="#f39c12" rx="2"/>
+    <text x="40" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">KORT</text>
+    
+    <!-- Mobile payment -->
+    <rect x="100" y="20" width="40" height="70" fill="#2c3e50" rx="8"/>
+    <rect x="105" y="30" width="30" height="40" fill="#ecf0f1" rx="2"/>
+    <circle cx="120" cy="80" r="3" fill="#ecf0f1"/>
+    <text x="120" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#2c3e50">MOBIL</text>
+  </g>
+  
+  <!-- Benefits text -->
+  <text x="500" y="280" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">Fordeler:</text>
+  <text x="500" y="300" font-family="Arial, sans-serif" font-size="14" fill="#27ae60">✓ Umiddelbar betaling</text>
+  <text x="500" y="320" font-family="Arial, sans-serif" font-size="14" fill="#27ae60">✓ Ingen kredittrisiko</text>
+  <text x="500" y="340" font-family="Arial, sans-serif" font-size="14" fill="#27ae60">✓ Bedre kontantstrøm</text>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#e74c3c"/>
+    </marker>
+  </defs>
+</svg>

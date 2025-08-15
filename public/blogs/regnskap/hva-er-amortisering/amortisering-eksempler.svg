@@ -1,0 +1,214 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="itGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#007bff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0056b3;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="pharmaGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2"/>
+
+  <!-- Title -->
+  <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#495057">
+    Praktiske Amortiseringseksempler
+  </text>
+
+  <!-- Example 1: IT Company -->
+  <rect x="50" y="60" width="700" height="220" fill="url(#itGradient)" rx="15"/>
+  <text x="400" y="85" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+    Eksempel 1: IT-Selskap - Programvarelisens
+  </text>
+
+  <rect x="70" y="100" width="660" height="160" fill="white" rx="10"/>
+
+  <!-- IT Company details -->
+  <rect x="90" y="115" width="180" height="120" fill="#e3f2fd" stroke="#2196f3" stroke-width="1" rx="5"/>
+  <text x="180" y="135" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#1976d2">
+    Situasjon:
+  </text>
+  <text x="100" y="150" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    • Programvarelisens: 1 200 000 kr
+  </text>
+  <text x="100" y="165" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    • Levetid: 4 år
+  </text>
+  <text x="100" y="180" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    • Metode: Lineær amortisering
+  </text>
+  <text x="100" y="195" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    • Restverdi: 0 kr
+  </text>
+
+  <text x="180" y="215" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#1976d2">
+    Beregning:
+  </text>
+  <text x="180" y="230" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#495057">
+    1 200 000 ÷ 4 = 300 000 kr/år
+  </text>
+
+  <!-- Amortization schedule table -->
+  <rect x="290" y="115" width="420" height="120" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="5"/>
+  <text x="500" y="135" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#495057">
+    Amortiseringsplan:
+  </text>
+
+  <!-- Table header -->
+  <rect x="300" y="145" width="60" height="20" fill="#007bff" stroke="#0056b3" stroke-width="1"/>
+  <text x="330" y="157" font-family="Arial, sans-serif" font-size="9" font-weight="bold" text-anchor="middle" fill="white">År</text>
+
+  <rect x="360" y="145" width="100" height="20" fill="#007bff" stroke="#0056b3" stroke-width="1"/>
+  <text x="410" y="157" font-family="Arial, sans-serif" font-size="9" font-weight="bold" text-anchor="middle" fill="white">Åpningsbalanse</text>
+
+  <rect x="460" y="145" width="100" height="20" fill="#007bff" stroke="#0056b3" stroke-width="1"/>
+  <text x="510" y="157" font-family="Arial, sans-serif" font-size="9" font-weight="bold" text-anchor="middle" fill="white">Amortisering</text>
+
+  <rect x="560" y="145" width="100" height="20" fill="#007bff" stroke="#0056b3" stroke-width="1"/>
+  <text x="610" y="157" font-family="Arial, sans-serif" font-size="9" font-weight="bold" text-anchor="middle" fill="white">Sluttbalanse</text>
+
+  <!-- Table rows -->
+  <!-- Year 1 -->
+  <rect x="300" y="165" width="60" height="15" fill="white" stroke="#dee2e6" stroke-width="1"/>
+  <text x="330" y="175" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#495057">1</text>
+
+  <rect x="360" y="165" width="100" height="15" fill="white" stroke="#dee2e6" stroke-width="1"/>
+  <text x="410" y="175" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#495057">1 200 000</text>
+
+  <rect x="460" y="165" width="100" height="15" fill="white" stroke="#dee2e6" stroke-width="1"/>
+  <text x="510" y="175" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#495057">300 000</text>
+
+  <rect x="560" y="165" width="100" height="15" fill="white" stroke="#dee2e6" stroke-width="1"/>
+  <text x="610" y="175" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#495057">900 000</text>
+
+  <!-- Year 2 -->
+  <rect x="300" y="180" width="60" height="15" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1"/>
+  <text x="330" y="190" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#495057">2</text>
+
+  <rect x="360" y="180" width="100" height="15" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1"/>
+  <text x="410" y="190" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#495057">900 000</text>
+
+  <rect x="460" y="180" width="100" height="15" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1"/>
+  <text x="510" y="190" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#495057">300 000</text>
+
+  <rect x="560" y="180" width="100" height="15" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1"/>
+  <text x="610" y="190" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#495057">600 000</text>
+
+  <!-- Year 3 -->
+  <rect x="300" y="195" width="60" height="15" fill="white" stroke="#dee2e6" stroke-width="1"/>
+  <text x="330" y="205" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#495057">3</text>
+
+  <rect x="360" y="195" width="100" height="15" fill="white" stroke="#dee2e6" stroke-width="1"/>
+  <text x="410" y="205" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#495057">600 000</text>
+
+  <rect x="460" y="195" width="100" height="15" fill="white" stroke="#dee2e6" stroke-width="1"/>
+  <text x="510" y="205" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#495057">300 000</text>
+
+  <rect x="560" y="195" width="100" height="15" fill="white" stroke="#dee2e6" stroke-width="1"/>
+  <text x="610" y="205" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#495057">300 000</text>
+
+  <!-- Year 4 -->
+  <rect x="300" y="210" width="60" height="15" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1"/>
+  <text x="330" y="220" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#495057">4</text>
+
+  <rect x="360" y="210" width="100" height="15" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1"/>
+  <text x="410" y="220" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#495057">300 000</text>
+
+  <rect x="460" y="210" width="100" height="15" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1"/>
+  <text x="510" y="220" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#495057">300 000</text>
+
+  <rect x="560" y="210" width="100" height="15" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1"/>
+  <text x="610" y="220" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#495057">0</text>
+
+  <!-- Example 2: Pharmaceutical Company -->
+  <rect x="50" y="300" width="700" height="180" fill="url(#pharmaGradient)" rx="15"/>
+  <text x="400" y="325" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+    Eksempel 2: Farmasøytisk Selskap - Patent
+  </text>
+
+  <rect x="70" y="340" width="660" height="120" fill="white" rx="10"/>
+
+  <!-- Pharma Company details -->
+  <rect x="90" y="355" width="200" height="90" fill="#e8f5e8" stroke="#4caf50" stroke-width="1" rx="5"/>
+  <text x="190" y="375" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#2e7d32">
+    Situasjon:
+  </text>
+  <text x="100" y="390" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    • Patent verdi: 2 000 000 kr
+  </text>
+  <text x="100" y="405" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    • Gjenværende levetid: 8 år
+  </text>
+  <text x="100" y="420" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    • Metode: Lineær amortisering
+  </text>
+  <text x="100" y="435" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    • Restverdi: 0 kr
+  </text>
+
+  <!-- Calculation and impact -->
+  <rect x="310" y="355" width="180" height="90" fill="#fff3cd" stroke="#ffc107" stroke-width="1" rx="5"/>
+  <text x="400" y="375" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#856404">
+    Beregning:
+  </text>
+  <text x="400" y="390" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#495057">
+    2 000 000 ÷ 8 = 250 000 kr/år
+  </text>
+  <text x="400" y="405" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#495057">
+    Månedlig: 20 833 kr
+  </text>
+  <text x="400" y="425" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#856404">
+    Påvirkning:
+  </text>
+  <text x="400" y="440" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#495057">
+    Reduserer årlig resultat med 250k
+  </text>
+
+  <!-- Visual representation -->
+  <rect x="510" y="355" width="200" height="90" fill="#f0f8ff" stroke="#007bff" stroke-width="1" rx="5"/>
+  <text x="610" y="375" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0056b3">
+    Bokført verdi over tid:
+  </text>
+
+  <!-- Simple chart -->
+  <line x1="530" y1="420" x2="690" y2="420" stroke="#dee2e6" stroke-width="1"/>
+  <line x1="530" y1="385" x2="530" y2="420" stroke="#dee2e6" stroke-width="1"/>
+
+  <!-- Chart line -->
+  <path d="M 530 385 L 690 420" stroke="#28a745" stroke-width="2" fill="none"/>
+
+  <!-- Chart labels -->
+  <text x="525" y="390" font-family="Arial, sans-serif" font-size="8" text-anchor="end" fill="#6c757d">2M</text>
+  <text x="525" y="425" font-family="Arial, sans-serif" font-size="8" text-anchor="end" fill="#6c757d">0</text>
+  <text x="530" y="435" font-family="Arial, sans-serif" font-size="8" text-anchor="middle" fill="#6c757d">År 0</text>
+  <text x="690" y="435" font-family="Arial, sans-serif" font-size="8" text-anchor="middle" fill="#6c757d">År 8</text>
+
+  <!-- Bottom summary -->
+  <rect x="50" y="500" width="700" height="80" fill="white" stroke="#dee2e6" stroke-width="2" rx="10"/>
+  <text x="400" y="525" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#495057">
+    Sammendrag av Eksemplene
+  </text>
+
+  <text x="200" y="545" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#007bff">
+    IT-Selskap:
+  </text>
+  <text x="200" y="560" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6c757d">
+    Kort levetid (4 år)
+  </text>
+  <text x="200" y="572" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6c757d">
+    Høy årlig amortisering
+  </text>
+
+  <text x="600" y="545" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#28a745">
+    Farmasøytisk Selskap:
+  </text>
+  <text x="600" y="560" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6c757d">
+    Lang levetid (8 år)
+  </text>
+  <text x="600" y="572" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6c757d">
+    Lavere årlig amortisering
+  </text>
+</svg>

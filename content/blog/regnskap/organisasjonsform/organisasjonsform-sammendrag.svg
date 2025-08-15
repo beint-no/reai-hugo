@@ -1,0 +1,99 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .title { font-family: Arial, sans-serif; font-size: 24px; font-weight: bold; fill: #2c3e50; }
+      .subtitle { font-family: Arial, sans-serif; font-size: 18px; font-weight: bold; fill: #34495e; }
+      .text { font-family: Arial, sans-serif; font-size: 14px; fill: #2c3e50; }
+      .small-text { font-family: Arial, sans-serif; font-size: 12px; fill: #7f8c8d; }
+      .key-box { fill: #e8f5e8; stroke: #27ae60; stroke-width: 3; }
+      .recommendation-box { fill: #fff3cd; stroke: #ffc107; stroke-width: 2; }
+      .summary-box { fill: #f8f9fa; stroke: #6c757d; stroke-width: 2; }
+    </style>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#ffffff"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" class="title">Sammendrag av Organisasjonsformvalg</text>
+  <text x="400" y="55" text-anchor="middle" class="small-text">Nøkkelfaktorer og anbefalinger</text>
+  
+  <!-- Key Factors -->
+  <rect x="50" y="80" width="700" height="120" class="key-box" rx="15"/>
+  <text x="400" y="110" text-anchor="middle" class="subtitle">Nøkkelfaktorer å Vurdere</text>
+  
+  <text x="80" y="140" class="text" font-weight="bold">1. Ansvar og Risiko</text>
+  <text x="420" y="140" class="text" font-weight="bold">2. Kapitalbehovet</text>
+  <text x="80" y="160" class="small-text">Hvor mye kan du risikere personlig?</text>
+  <text x="420" y="160" class="small-text">Hvor mye finansiering trengs?</text>
+  
+  <text x="80" y="180" class="text" font-weight="bold">3. Skatteoptimalisering</text>
+  <text x="420" y="180" class="text" font-weight="bold">4. Fremtidige Planer</text>
+  <text x="80" y="200" class="small-text">Hvilken struktur gir lavest total skatt?</text>
+  <text x="420" y="200" class="small-text">Hvordan ser vekstplanene ut?</text>
+  
+  <!-- Quick Decision Guide -->
+  <rect x="50" y="220" width="340" height="160" class="summary-box" rx="10"/>
+  <text x="220" y="245" text-anchor="middle" class="subtitle">Rask Beslutningsguide</text>
+  
+  <text x="70" y="270" class="text" font-weight="bold">Velg ENK hvis:</text>
+  <text x="70" y="290" class="small-text">• Lav risiko og enkelt behov</text>
+  <text x="70" y="305" class="small-text">• Lav forventet inntekt (&lt;200k)</text>
+  <text x="70" y="320" class="small-text">• Minimal administrasjon ønsket</text>
+  
+  <text x="70" y="345" class="text" font-weight="bold">Velg AS hvis:</text>
+  <text x="70" y="365" class="small-text">• Høy risiko eller vekstambisjoner</text>
+  <text x="70" y="380" class="small-text">• Høy forventet inntekt (&gt;500k)</text>
+  
+  <!-- Comparison Matrix -->
+  <rect x="410" y="220" width="340" height="160" class="summary-box" rx="10"/>
+  <text x="580" y="245" text-anchor="middle" class="subtitle">Sammenligning</text>
+  
+  <!-- Mini table -->
+  <text x="430" y="270" class="text" font-weight="bold">Form</text>
+  <text x="520" y="270" class="text" font-weight="bold">Ansvar</text>
+  <text x="600" y="270" class="text" font-weight="bold">Skatt</text>
+  <text x="680" y="270" class="text" font-weight="bold">Kompleks</text>
+  
+  <line x1="420" y1="280" x2="730" y2="280" stroke="#bdc3c7" stroke-width="1"/>
+  
+  <text x="430" y="300" class="small-text">ENK</text>
+  <text x="520" y="300" class="small-text">Ubegrenset</text>
+  <text x="600" y="300" class="small-text">0-47%</text>
+  <text x="680" y="300" class="small-text">Lav</text>
+  
+  <text x="430" y="320" class="small-text">ANS</text>
+  <text x="520" y="320" class="small-text">Solidarisk</text>
+  <text x="600" y="320" class="small-text">0-47%</text>
+  <text x="680" y="320" class="small-text">Moderat</text>
+  
+  <text x="430" y="340" class="small-text">AS</text>
+  <text x="520" y="340" class="small-text">Begrenset</text>
+  <text x="600" y="340" class="small-text">22%</text>
+  <text x="680" y="340" class="small-text">Høy</text>
+  
+  <text x="430" y="360" class="small-text">ASA</text>
+  <text x="520" y="360" class="small-text">Begrenset</text>
+  <text x="600" y="360" class="small-text">22%</text>
+  <text x="680" y="360" class="small-text">Meget høy</text>
+  
+  <!-- Recommendations -->
+  <rect x="50" y="400" width="700" height="120" class="recommendation-box" rx="15"/>
+  <text x="400" y="430" text-anchor="middle" class="subtitle">Anbefalinger</text>
+  
+  <text x="80" y="460" class="text" font-weight="bold">✓ Start enkelt</text>
+  <text x="420" y="460" class="text" font-weight="bold">✓ Planlegg for vekst</text>
+  <text x="80" y="480" class="small-text">Velg den enkleste formen som dekker behovene</text>
+  <text x="420" y="480" class="small-text">Vurder fremtidige behov og muligheter</text>
+  
+  <text x="80" y="500" class="text" font-weight="bold">✓ Søk rådgivning</text>
+  <text x="420" y="500" class="text" font-weight="bold">✓ Revurder regelmessig</text>
+  <text x="80" y="520" class="small-text">Få profesjonell hjelp til komplekse valg</text>
+  <text x="420" y="520" class="small-text">Organisasjonsformen kan endres senere</text>
+  
+  <!-- Final Message -->
+  <rect x="100" y="540" width="600" height="50" fill="#e9ecef" stroke="#adb5bd" stroke-width="1" rx="5"/>
+  <text x="400" y="560" text-anchor="middle" class="text" font-weight="bold">Husk: Organisasjonsformen er ikke permanent</text>
+  <text x="400" y="580" text-anchor="middle" class="small-text">Men endringer kan være kostbare - gjør grundige vurderinger før valget tas</text>
+  
+</svg>

@@ -1,0 +1,354 @@
+<!doctype html>
+<html lang="nb">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Hva er Deflasjon? | ReAI</title>
+  <meta name="description" content="Komplett regnskapssystem med faktura, lønn, bilagsføring og årsoppgjør.">
+  
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<script src="https://cdn.tailwindcss.com?plugins=typography"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        fontFamily: { sans: ['Inter','ui-sans-serif','system-ui','Arial','sans-serif'] },
+        colors: {
+          brand: { DEFAULT: '#111827' },
+          accent: { DEFAULT: '#2563eb' }
+        }
+      }
+    }
+  }
+</script>
+<style>
+   
+  header .header-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #000 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link:hover { background-position: 0; }
+  header .header-link:hover::before { width: 100%; }
+
+  footer .footer-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #ffffff 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link:hover { background-position: 0; }
+  footer .footer-link:hover::before { width: 100%; }
+</style>
+<style>
+   
+  .prose { overflow-wrap: anywhere; word-break: break-word; }
+  .prose img { max-width: 100%; height: auto; }
+  .prose table { display: block; width: 100%; overflow-x: auto; }
+  .prose pre { white-space: pre-wrap; word-break: break-word; overflow-x: auto; }
+  .prose code { word-break: break-word; }
+  .prose iframe, .prose video { max-width: 100%; width: 100%; height: auto; }
+</style>
+<style>
+   
+  button,
+  .btn,
+  a.btn,
+  .button,
+  .cta,
+  .link-button,
+   
+  a.inline-flex.rounded-md,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"] {
+    transition: transform 220ms ease, box-shadow 220ms ease, background-color 220ms ease, color 220ms ease, opacity 220ms ease;
+    will-change: transform, box-shadow;
+  }
+
+  button:hover,
+  .btn:hover,
+  a.btn:hover,
+  .button:hover,
+  .cta:hover,
+  .link-button:hover,
+  a.inline-flex.rounded-md:hover,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+
+  button:active,
+  .btn:active,
+  a.btn:active,
+  .button:active,
+  .cta:active,
+  .link-button:active,
+  a.inline-flex.rounded-md:active,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:active {
+    transform: translateY(-1px) scale(0.99);
+    box-shadow: 0 6px 12px rgba(2, 6, 23, 0.1);
+  }
+
+  button:focus-visible,
+  .btn:focus-visible,
+  a.btn:focus-visible,
+  .button:focus-visible,
+  .cta:focus-visible,
+  .link-button:focus-visible,
+  a.inline-flex.rounded-md:focus-visible,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.35), 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+</style>
+
+<link rel="icon" type="image/svg+xml" href="/images/ReAI-logo-square.svg">
+<link rel="shortcut icon" href="/images/ReAI-logo-square.svg">
+
+</head>
+<body class="min-h-dvh bg-white text-gray-900 font-sans">
+  <header class="sticky top-0 z-40 bg-white/80 backdrop-blur">
+  
+  <div class="border-b border-slate-200/70">
+    <div class="max-w-7xl mx-auto px-4">
+      <div class="h-16 flex items-center justify-between">
+        <a href="/" class="flex items-center gap-2" aria-label="ReAI">
+          <img src="/images/ReAI-logo-square.svg?v=4" alt="ReAI logo" class="h-14 w-14 rounded-md mt-5" width="56" height="56" loading="eager" decoding="async">
+        </a>
+        <nav class="hidden md:block">
+          <ul class="flex items-center gap-5 text-sm">
+            <li><a href="/courses/" class="header-link text-slate-700 hover:text-black">Gratis kurs</a></li>
+            <li><a href="/contact/" class="header-link text-slate-700 hover:text-black">Kontakt oss</a></li>
+            <li><a href="/blog/" class="header-link text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+            <li><a href="/bli-partner/" class="header-link text-slate-700 hover:text-black">Bli partner</a></li>
+            <li><a href="/fakturamal/" class="header-link text-slate-700 hover:text-black">Lag faktura</a></li>
+          </ul>
+        </nav>
+        <button id="mobileMenuBtn" aria-controls="mobileMenu" aria-expanded="false" class="md:hidden inline-flex items-center justify-center h-9 w-9 rounded-md border border-slate-300">
+          <span class="sr-only">Menu</span>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-5 w-5"><path d="M3.75 6.75h16.5v1.5H3.75zM3.75 11.25h16.5v1.5H3.75zM3.75 15.75h16.5v1.5H3.75z"/></svg>
+        </button>
+      </div>
+    </div>
+  </div>
+  
+  <nav id="mobileMenu" class="md:hidden hidden border-b border-slate-200/70 bg-white/95 backdrop-blur">
+    <div class="max-w-7xl mx-auto px-4 py-3">
+      <ul class="flex flex-col items-center gap-3 text-sm text-center">
+        <li><a href="/courses/" class="header-link block text-slate-700 hover:text-black">Gratis kurs</a></li>
+        <li><a href="/contact/" class="header-link block text-slate-700 hover:text-black">Kontakt oss</a></li>
+        <li><a href="/blog/" class="header-link block text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+        <li><a href="/bli-partner/" class="header-link block text-slate-700 hover:text-black">Bli partner</a></li>
+        <li><a href="/fakturamal/" class="header-link block text-slate-700 hover:text-black">Lag faktura</a></li>
+      </ul>
+    </div>
+  </nav>
+  <script>
+    (function() {
+      const btn = document.getElementById('mobileMenuBtn');
+      const menu = document.getElementById('mobileMenu');
+      if (!btn || !menu) return;
+      btn.addEventListener('click', function() {
+        const isHidden = menu.classList.contains('hidden');
+        menu.classList.toggle('hidden');
+        btn.setAttribute('aria-expanded', String(isHidden));
+      });
+    })();
+  </script>
+</header>
+  <main>
+    
+<section class="pt-10 md:pt-14">
+  <div class="max-w-3xl mx-auto px-4">
+    <h1 class="text-3xl font-semibold tracking-tight text-center">Hva er Deflasjon?</h1>
+    <p class="mt-2 text-gray-700">Deflasjon er den generelle nedgangen i prisnivået over tid, noe som øker kjøpekraften til penger. Dette er et viktig økonomisk konsept som påvirker regnskap og bedriftsdrift.</p>
+    <article class="prose max-w-none mt-6"><p><strong>Deflasjon</strong> er den generelle nedgangen i prisnivået på varer og tjenester over tid, som resulterer i økt kjøpekraft for penger. Dette fenomenet er motstykket til <a href="/blogs/regnskap/hva-er-inflasjon" title="Hva er Inflasjon? Komplett Guide til Inflasjon i Regnskap og Økonomi">inflasjon</a>, og har viktige implikasjoner for <a href="/blogs/regnskap/hva-er-regnskap" title="Hva er Regnskap? Komplett Guide til Regnskapsføring">regnskap</a>, <a href="/blogs/regnskap/hva-er-avkastning" title="Hva er Avkastning? Komplett Guide til Investeringsavkastning og Beregning">investeringer</a> og bedriftsdrift.
+For en helhetlig oversikt over de makroøkonomiske kreftene som ligger til grunn for prisutvikling, se <strong><a href="/blogs/regnskap/makrookonomi" title="Makroøkonomi: Prinsipper og Betydning for Norsk Regnskap">Makroøkonomi</a></strong>.</p>
+<p><img src="hva-er-deflasjon-image.svg" alt="Illustrasjon av deflasjon og dens påvirkning på økonomi og regnskap"></p>
+<h2 id="hva-er-deflasjon">Hva er Deflasjon?</h2>
+<p>Deflasjon oppstår når den generelle prisen på varer og tjenester faller over tid. Dette betyr at <strong>samme mengde penger kjøper mer</strong> enn før. Deflasjon måles vanligvis som en prosentvis endring i konsumprisindeksen (KPI).</p>
+<h3 id="grunnleggende-formel-for-deflasjonsrate">Grunnleggende Formel for Deflasjonsrate</h3>
+<p><strong>Deflasjonsrate (%) = ((KPI i fjor - KPI i år) / KPI i fjor) × 100</strong></p>
+<h2 id="årsaker-til-deflasjon">Årsaker til Deflasjon</h2>
+<ol>
+<li><strong>Etterspørselsdrevet deflasjon:</strong> Når samlet etterspørsel i økonomien synker, for eksempel ved lavere forbruk eller redusert offentlige utgifter.</li>
+<li><strong>Kostnadsdrevet deflasjon:</strong> Synkende produksjonskostnader, for eksempel reduserte råvarepriser eller teknologiske effektiviseringer.</li>
+<li><strong>Innskjerpet pengepolitikk:</strong> Høyere renter og trangere kredittløsninger som demper låne- og forbruksvilje.</li>
+</ol>
+<h2 id="typer-deflasjon-og-relaterte-begreper">Typer Deflasjon og Relaterte Begreper</h2>
+<table>
+  <thead>
+      <tr>
+          <th><strong>Type</strong></th>
+          <th><strong>Beskrivelse</strong></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Etterspørselsdrevet deflasjon</td>
+          <td>Lavere total etterspørsel fører til prisfall</td>
+      </tr>
+      <tr>
+          <td>Kostnadsdrevet deflasjon</td>
+          <td>Redusert produksjonskostnad gir lavere sluttpriser</td>
+      </tr>
+      <tr>
+          <td>Innebygd deflasjon</td>
+          <td>Forventninger om prisfall blir selvoppfyllende på grunn av lønns- og prisindeksering</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="påvirkning-på-regnskap-og-bedriftsdrift">Påvirkning på Regnskap og Bedriftsdrift</h2>
+<ul>
+<li><strong>Historisk kost-prinsippet:</strong> Deflasjon kan føre til at bokførte verdier overestimerer reell verdi på eiendeler som <a href="/blogs/regnskap/hva-er-anleggsmidler" title="Hva er Anleggsmidler? Komplett Guide til Varige Driftsmidler">anleggsmidler</a>.</li>
+<li><strong>Varelager:</strong> Lavere prisnivå gjør at eldre lagerverdier ikke reflekterer dagens markedspriser.</li>
+<li><strong>Resultatmarginer:</strong> Fallet i salgspriser kan presse marginene hvis kostnadene ikke justeres tilsvarende.</li>
+<li><strong>Gjeldsbyrde:</strong> Deflasjon øker realverdien av nominell gjeld, noe som kan belaste balansens passivaside.</li>
+</ul>
+<h2 id="forskjell-mellom-inflasjon-og-deflasjon">Forskjell mellom Inflasjon og Deflasjon</h2>
+<table>
+  <thead>
+      <tr>
+          <th><strong>Aspekt</strong></th>
+          <th><strong>Inflasjon</strong></th>
+          <th><strong>Deflasjon</strong></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Prisnivå</td>
+          <td>Generell prisøkning over tid</td>
+          <td>Generell prisnedgang over tid</td>
+      </tr>
+      <tr>
+          <td>Kjøpekraft</td>
+          <td>Reduseres</td>
+          <td>Økes</td>
+      </tr>
+      <tr>
+          <td>Gjeld</td>
+          <td>Redusert reell gjeldsbyrde</td>
+          <td>Økt reell gjeldsbyrde</td>
+      </tr>
+      <tr>
+          <td>Regnskapseffekt</td>
+          <td>Bokførte verdier underestimerer reell kostnad</td>
+          <td>Bokførte verdier overestimerer reell verdi</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="praktiske-eksempler">Praktiske Eksempler</h2>
+<p>Et selskap som produserer elektronikk opplever at <strong>KPI</strong> faller fra 105 til 100 i løpet av ett år:</p>
+<table>
+  <thead>
+      <tr>
+          <th><strong>År</strong></th>
+          <th><strong>KPI</strong></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Fjoråret</td>
+          <td>105</td>
+      </tr>
+      <tr>
+          <td>Dette året</td>
+          <td>100</td>
+      </tr>
+  </tbody>
+</table>
+<p><strong>Deflasjonsrate = ((105 - 100) / 105) × 100 ≈ 4,76%</strong></p>
+<h2 id="håndtering-i-regnskapspraksis">Håndtering i Regnskapspraksis</h2>
+<p>I land med vedvarende deflasjon kan man bruke justerte regnskapsprinsipper:</p>
+<ul>
+<li><strong>Nedskrivning av eiendeler:</strong> For å unngå oververdsetting ved historisk kost.</li>
+<li><strong>Riktig vurdering av varelager:</strong> Jevnlig verdivurdering til virkelig verdi.</li>
+<li><strong>Noteopplysninger:</strong> Transparens om deflasjonspåvirkning i noter til regnskapet.</li>
+</ul>
+<h2 id="videre-lesning">Videre Lesning</h2>
+<ul>
+<li><a href="/blogs/regnskap/hva-er-inflasjon" title="Hva er Inflasjon? Komplett Guide til Inflasjon i Regnskap og Økonomi">Hva er Inflasjon?</a></li>
+<li><a href="/blogs/regnskap/hva-er-bnp-deflator" title="Hva er BNP-deflator? Forklaring og bruk i makro og regnskap">Hva er BNP-deflator?</a></li>
+<li><a href="/blogs/regnskap/hva-er-konjunktur" title="Hva er Konjunktur? En Komplett Guide til Økonomiske Sykluser">Hva er Konjunktur?</a></li>
+</ul>
+</article>
+  </div>
+</section>
+
+  </main>
+  <footer class="mt-16 border-t border-slate-800/60 bg-slate-900">
+  <div class="max-w-7xl mx-auto px-4 py-14">
+    <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3 text-center sm:text-left">
+      
+      <div>
+        <h3 class="text-sm font-semibold text-white">Verktøy</h3>
+        <ul class="mt-2 space-y-2 text-sm text-slate-300">
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/finn-iban/">IBAN kalkulator</a></li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/lag-faktura-gratis/">Lag faktura</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Selskaps-informasjon</h3>
+        <ul class="mt-2 space-y-1 text-sm text-slate-300">
+          <li>Reai AS</li>
+          <li>Orgnr: 935606403</li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="mailto:post@reai.no">post@reai.no</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Om ReAI</h3>
+        <p class="mt-2 text-sm text-slate-300">ReAI er et gratis regnskapsprogram laget av tidligere ansatte i Tripletex
+          / Visma. Vi mener det er på tide med mer konkurranse i regnskaps-bransjen som kan komme bedrifter til gode.
+        </p>
+      </div>
+    </div>
+    <div class="mt-12 border-t border-slate-800/60 pt-6 flex flex-col items-center sm:flex-row sm:items-center sm:justify-between text-sm text-slate-400 text-center sm:text-left">
+      <div class="flex items-center gap-2">
+        
+        
+      </div>
+      <div class="mt-4 sm:mt-0 flex items-center justify-center sm:justify-end">
+        <div class="opacity-80">&copy; 2025 ReAI. All rights reserved.</div>
+      </div>
+    </div>
+  </div>
+</footer>
+</body>
+</html>

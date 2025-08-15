@@ -1,0 +1,309 @@
+<!doctype html>
+<html lang="nb">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Hva er OCR? Optical Character Recognition i Regnskap | ReAI</title>
+  <meta name="description" content="Komplett regnskapssystem med faktura, lønn, bilagsføring og årsoppgjør.">
+  
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<script src="https://cdn.tailwindcss.com?plugins=typography"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        fontFamily: { sans: ['Inter','ui-sans-serif','system-ui','Arial','sans-serif'] },
+        colors: {
+          brand: { DEFAULT: '#111827' },
+          accent: { DEFAULT: '#2563eb' }
+        }
+      }
+    }
+  }
+</script>
+<style>
+   
+  header .header-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #000 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link:hover { background-position: 0; }
+  header .header-link:hover::before { width: 100%; }
+
+  footer .footer-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #ffffff 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link:hover { background-position: 0; }
+  footer .footer-link:hover::before { width: 100%; }
+</style>
+<style>
+   
+  .prose { overflow-wrap: anywhere; word-break: break-word; }
+  .prose img { max-width: 100%; height: auto; }
+  .prose table { display: block; width: 100%; overflow-x: auto; }
+  .prose pre { white-space: pre-wrap; word-break: break-word; overflow-x: auto; }
+  .prose code { word-break: break-word; }
+  .prose iframe, .prose video { max-width: 100%; width: 100%; height: auto; }
+</style>
+<style>
+   
+  button,
+  .btn,
+  a.btn,
+  .button,
+  .cta,
+  .link-button,
+   
+  a.inline-flex.rounded-md,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"] {
+    transition: transform 220ms ease, box-shadow 220ms ease, background-color 220ms ease, color 220ms ease, opacity 220ms ease;
+    will-change: transform, box-shadow;
+  }
+
+  button:hover,
+  .btn:hover,
+  a.btn:hover,
+  .button:hover,
+  .cta:hover,
+  .link-button:hover,
+  a.inline-flex.rounded-md:hover,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+
+  button:active,
+  .btn:active,
+  a.btn:active,
+  .button:active,
+  .cta:active,
+  .link-button:active,
+  a.inline-flex.rounded-md:active,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:active {
+    transform: translateY(-1px) scale(0.99);
+    box-shadow: 0 6px 12px rgba(2, 6, 23, 0.1);
+  }
+
+  button:focus-visible,
+  .btn:focus-visible,
+  a.btn:focus-visible,
+  .button:focus-visible,
+  .cta:focus-visible,
+  .link-button:focus-visible,
+  a.inline-flex.rounded-md:focus-visible,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.35), 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+</style>
+
+<link rel="icon" type="image/svg+xml" href="/images/ReAI-logo-square.svg">
+<link rel="shortcut icon" href="/images/ReAI-logo-square.svg">
+
+</head>
+<body class="min-h-dvh bg-white text-gray-900 font-sans">
+  <header class="sticky top-0 z-40 bg-white/80 backdrop-blur">
+  
+  <div class="border-b border-slate-200/70">
+    <div class="max-w-7xl mx-auto px-4">
+      <div class="h-16 flex items-center justify-between">
+        <a href="/" class="flex items-center gap-2" aria-label="ReAI">
+          <img src="/images/ReAI-logo-square.svg?v=4" alt="ReAI logo" class="h-14 w-14 rounded-md mt-5" width="56" height="56" loading="eager" decoding="async">
+        </a>
+        <nav class="hidden md:block">
+          <ul class="flex items-center gap-5 text-sm">
+            <li><a href="/courses/" class="header-link text-slate-700 hover:text-black">Gratis kurs</a></li>
+            <li><a href="/contact/" class="header-link text-slate-700 hover:text-black">Kontakt oss</a></li>
+            <li><a href="/blog/" class="header-link text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+            <li><a href="/bli-partner/" class="header-link text-slate-700 hover:text-black">Bli partner</a></li>
+            <li><a href="/fakturamal/" class="header-link text-slate-700 hover:text-black">Lag faktura</a></li>
+          </ul>
+        </nav>
+        <button id="mobileMenuBtn" aria-controls="mobileMenu" aria-expanded="false" class="md:hidden inline-flex items-center justify-center h-9 w-9 rounded-md border border-slate-300">
+          <span class="sr-only">Menu</span>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-5 w-5"><path d="M3.75 6.75h16.5v1.5H3.75zM3.75 11.25h16.5v1.5H3.75zM3.75 15.75h16.5v1.5H3.75z"/></svg>
+        </button>
+      </div>
+    </div>
+  </div>
+  
+  <nav id="mobileMenu" class="md:hidden hidden border-b border-slate-200/70 bg-white/95 backdrop-blur">
+    <div class="max-w-7xl mx-auto px-4 py-3">
+      <ul class="flex flex-col items-center gap-3 text-sm text-center">
+        <li><a href="/courses/" class="header-link block text-slate-700 hover:text-black">Gratis kurs</a></li>
+        <li><a href="/contact/" class="header-link block text-slate-700 hover:text-black">Kontakt oss</a></li>
+        <li><a href="/blog/" class="header-link block text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+        <li><a href="/bli-partner/" class="header-link block text-slate-700 hover:text-black">Bli partner</a></li>
+        <li><a href="/fakturamal/" class="header-link block text-slate-700 hover:text-black">Lag faktura</a></li>
+      </ul>
+    </div>
+  </nav>
+  <script>
+    (function() {
+      const btn = document.getElementById('mobileMenuBtn');
+      const menu = document.getElementById('mobileMenu');
+      if (!btn || !menu) return;
+      btn.addEventListener('click', function() {
+        const isHidden = menu.classList.contains('hidden');
+        menu.classList.toggle('hidden');
+        btn.setAttribute('aria-expanded', String(isHidden));
+      });
+    })();
+  </script>
+</header>
+  <main>
+    
+<section class="pt-10 md:pt-14">
+  <div class="max-w-3xl mx-auto px-4">
+    <h1 class="text-3xl font-semibold tracking-tight text-center">Hva er OCR? Optical Character Recognition i Regnskap</h1>
+    <p class="mt-2 text-gray-700">OCR (Optical Character Recognition) er en teknologi for automatisk gjenkjenning av tekst fra dokumenter, som effektiviserer dataregistrering i regnskap og reduserer manuell behandling.
+</p>
+    <article class="prose max-w-none mt-6"><p><strong>OCR (Optical Character Recognition)</strong> er en teknologi som konverterer skannet tekst fra dokumenter, PDF-er og bilder til redigerbar data. I moderne <a href="/blogs/regnskap/hva-er-regnskap" title="Hva er Regnskap? En komplett guide">regnskapssystemer</a> og <a href="/blogs/regnskap/hva-er-fakturatolk" title="Hva er Fakturatolk? AI-drevet Fakturabehandling og Automatisering">fakturabehandling</a>, brukes OCR for å automatisere innsanking av bilagsdata, redusere manuelle feil og øke effektiviteten.</p>
+<p><img src="hva-er-ocr-image.svg" alt="Illustrasjon av OCR-teknologi i regnskap"></p>
+<h3 id="hvordan-fungerer-ocr">Hvordan fungerer OCR?</h3>
+<p>OCR-prosessen kan deles i fire hovedtrinn:</p>
+<ol>
+<li><strong>Skanning og bildebehandling:</strong> Dokumenter skannes eller lastes opp som PDF/ bilde, deretter fjernes støy og kontrast justeres.</li>
+<li><strong>Tegngjenkjenning (OCR):</strong> Systemet identifiserer tegn ved hjelp av mønstergjenkjenning og maskinlæring.</li>
+<li><strong>Ord- og setningsanalyse:</strong> Gjenkjente tegn kobles sammen til ord og setninger, ofte med ordbokvalidering.</li>
+<li><strong>Etterbehandling og validering:</strong> Data valideres mot forretningsregler og kontrolleres for avvik.</li>
+</ol>
+<p><img src="ocr-prosess.svg" alt="OCR-prosess"></p>
+<h3 id="bruksområder-i-regnskap">Bruksområder i regnskap</h3>
+<p>OCR-teknologi benyttes i flere deler av regnskapsarbeidet for å spare tid og redusere feil:</p>
+<ul>
+<li><strong>Automatisert bilagsregistrering:</strong> Hent ut nøkkelinformasjon fra fakturaer, kvitteringer og andre bilag.</li>
+<li><strong>Fakturabehandling:</strong> Se <a href="/blogs/regnskap/hva-er-fakturatolk" title="Hva er Fakturatolk? AI-drevet Fakturabehandling og Automatisering">Fakturabehandling</a>.</li>
+<li><strong>Bankavstemming:</strong> Automatisk matching av transaksjoner med <a href="/blogs/regnskap/hva-er-bankavstemming" title="Hva er Bankavstemming? Komplett Guide til Bankavstemminger">bankavstemming</a>.</li>
+<li><strong>Periodisering:</strong> Hjelp ved <a href="/blogs/regnskap/hva-er-periodisering" title="Hva er Periodisering? En komplett guide">periodisering</a>.</li>
+<li><strong>Regnskapsrapportering:</strong> Rask tilgang på strukturert data for rapporter.</li>
+</ul>
+<h3 id="fordeler-med-ocr">Fordeler med OCR</h3>
+<p>OCR-teknologi gir flere viktige fordeler sammenlignet med manuell registrering:</p>
+<ul>
+<li><strong>Redusert manuell inntasting:</strong> Opptil 90 % besparelse i tid.</li>
+<li><strong>Rask tilgang til data:</strong> Umiddelbar konvertering fra dokument til regnskapssystem.</li>
+<li><strong>Færre feil:</strong> Feilrate på 0,1–1 % versus 3–5 % manuelt.</li>
+<li><strong>Bedre sporbarhet:</strong> Fullt audit trail med digitale bilag.</li>
+<li><strong>Skalerbarhet:</strong> Håndter store volum uten ekstra bemanning.</li>
+</ul>
+<h3 id="sammenligning-manuell-vs-ocr">Sammenligning: Manuell vs OCR</h3>
+<table>
+  <thead>
+      <tr>
+          <th>Egenskap</th>
+          <th>Manuell registrering</th>
+          <th>OCR-teknologi</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>Hastighet</strong></td>
+          <td>Lav</td>
+          <td>Høy (millisekunder per side)</td>
+      </tr>
+      <tr>
+          <td><strong>Feilrate</strong></td>
+          <td>3–5 %</td>
+          <td>0,1–1 %</td>
+      </tr>
+      <tr>
+          <td><strong>Kostnad per side</strong></td>
+          <td>Ca. 2 NOK</td>
+          <td>Ca. 0,2 NOK</td>
+      </tr>
+      <tr>
+          <td><strong>Skalerbarhet</strong></td>
+          <td>Begrenset</td>
+          <td>Svært god</td>
+      </tr>
+  </tbody>
+</table>
+<p>For mer informasjon om praktisk bruk av OCR i fakturahåndtering, se <a href="/blogs/regnskap/hva-er-fakturatolk" title="Hva er Fakturatolk? AI-drevet Fakturabehandling og Automatisering">Fakturabehandling</a>.</p>
+<p>Utforsk også <a href="/blogs/regnskap/hva-er-bankgiro" title="Hva er BankGiro? Komplett Guide til Norsk Betalingssystem">BankGiro</a> for bruk av OCR-nummer i betalingsprosesser.</p>
+</article>
+  </div>
+</section>
+
+  </main>
+  <footer class="mt-16 border-t border-slate-800/60 bg-slate-900">
+  <div class="max-w-7xl mx-auto px-4 py-14">
+    <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3 text-center sm:text-left">
+      
+      <div>
+        <h3 class="text-sm font-semibold text-white">Verktøy</h3>
+        <ul class="mt-2 space-y-2 text-sm text-slate-300">
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/finn-iban/">IBAN kalkulator</a></li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/lag-faktura-gratis/">Lag faktura</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Selskaps-informasjon</h3>
+        <ul class="mt-2 space-y-1 text-sm text-slate-300">
+          <li>Reai AS</li>
+          <li>Orgnr: 935606403</li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="mailto:post@reai.no">post@reai.no</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Om ReAI</h3>
+        <p class="mt-2 text-sm text-slate-300">ReAI er et gratis regnskapsprogram laget av tidligere ansatte i Tripletex
+          / Visma. Vi mener det er på tide med mer konkurranse i regnskaps-bransjen som kan komme bedrifter til gode.
+        </p>
+      </div>
+    </div>
+    <div class="mt-12 border-t border-slate-800/60 pt-6 flex flex-col items-center sm:flex-row sm:items-center sm:justify-between text-sm text-slate-400 text-center sm:text-left">
+      <div class="flex items-center gap-2">
+        
+        
+      </div>
+      <div class="mt-4 sm:mt-0 flex items-center justify-center sm:justify-end">
+        <div class="opacity-80">&copy; 2025 ReAI. All rights reserved.</div>
+      </div>
+    </div>
+  </div>
+</footer>
+</body>
+</html>

@@ -1,0 +1,411 @@
+<!doctype html>
+<html lang="nb">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Firmaskatt | ReAI</title>
+  <meta name="description" content="Komplett regnskapssystem med faktura, lønn, bilagsføring og årsoppgjør.">
+  
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<script src="https://cdn.tailwindcss.com?plugins=typography"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        fontFamily: { sans: ['Inter','ui-sans-serif','system-ui','Arial','sans-serif'] },
+        colors: {
+          brand: { DEFAULT: '#111827' },
+          accent: { DEFAULT: '#2563eb' }
+        }
+      }
+    }
+  }
+</script>
+<style>
+   
+  header .header-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #000 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link:hover { background-position: 0; }
+  header .header-link:hover::before { width: 100%; }
+
+  footer .footer-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #ffffff 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link:hover { background-position: 0; }
+  footer .footer-link:hover::before { width: 100%; }
+</style>
+<style>
+   
+  .prose { overflow-wrap: anywhere; word-break: break-word; }
+  .prose img { max-width: 100%; height: auto; }
+  .prose table { display: block; width: 100%; overflow-x: auto; }
+  .prose pre { white-space: pre-wrap; word-break: break-word; overflow-x: auto; }
+  .prose code { word-break: break-word; }
+  .prose iframe, .prose video { max-width: 100%; width: 100%; height: auto; }
+</style>
+<style>
+   
+  button,
+  .btn,
+  a.btn,
+  .button,
+  .cta,
+  .link-button,
+   
+  a.inline-flex.rounded-md,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"] {
+    transition: transform 220ms ease, box-shadow 220ms ease, background-color 220ms ease, color 220ms ease, opacity 220ms ease;
+    will-change: transform, box-shadow;
+  }
+
+  button:hover,
+  .btn:hover,
+  a.btn:hover,
+  .button:hover,
+  .cta:hover,
+  .link-button:hover,
+  a.inline-flex.rounded-md:hover,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+
+  button:active,
+  .btn:active,
+  a.btn:active,
+  .button:active,
+  .cta:active,
+  .link-button:active,
+  a.inline-flex.rounded-md:active,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:active {
+    transform: translateY(-1px) scale(0.99);
+    box-shadow: 0 6px 12px rgba(2, 6, 23, 0.1);
+  }
+
+  button:focus-visible,
+  .btn:focus-visible,
+  a.btn:focus-visible,
+  .button:focus-visible,
+  .cta:focus-visible,
+  .link-button:focus-visible,
+  a.inline-flex.rounded-md:focus-visible,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.35), 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+</style>
+
+<link rel="icon" type="image/svg+xml" href="/images/ReAI-logo-square.svg">
+<link rel="shortcut icon" href="/images/ReAI-logo-square.svg">
+
+</head>
+<body class="min-h-dvh bg-white text-gray-900 font-sans">
+  <header class="sticky top-0 z-40 bg-white/80 backdrop-blur">
+  
+  <div class="border-b border-slate-200/70">
+    <div class="max-w-7xl mx-auto px-4">
+      <div class="h-16 flex items-center justify-between">
+        <a href="/" class="flex items-center gap-2" aria-label="ReAI">
+          <img src="/images/ReAI-logo-square.svg?v=4" alt="ReAI logo" class="h-14 w-14 rounded-md mt-5" width="56" height="56" loading="eager" decoding="async">
+        </a>
+        <nav class="hidden md:block">
+          <ul class="flex items-center gap-5 text-sm">
+            <li><a href="/courses/" class="header-link text-slate-700 hover:text-black">Gratis kurs</a></li>
+            <li><a href="/contact/" class="header-link text-slate-700 hover:text-black">Kontakt oss</a></li>
+            <li><a href="/blog/" class="header-link text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+            <li><a href="/bli-partner/" class="header-link text-slate-700 hover:text-black">Bli partner</a></li>
+            <li><a href="/fakturamal/" class="header-link text-slate-700 hover:text-black">Lag faktura</a></li>
+          </ul>
+        </nav>
+        <button id="mobileMenuBtn" aria-controls="mobileMenu" aria-expanded="false" class="md:hidden inline-flex items-center justify-center h-9 w-9 rounded-md border border-slate-300">
+          <span class="sr-only">Menu</span>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-5 w-5"><path d="M3.75 6.75h16.5v1.5H3.75zM3.75 11.25h16.5v1.5H3.75zM3.75 15.75h16.5v1.5H3.75z"/></svg>
+        </button>
+      </div>
+    </div>
+  </div>
+  
+  <nav id="mobileMenu" class="md:hidden hidden border-b border-slate-200/70 bg-white/95 backdrop-blur">
+    <div class="max-w-7xl mx-auto px-4 py-3">
+      <ul class="flex flex-col items-center gap-3 text-sm text-center">
+        <li><a href="/courses/" class="header-link block text-slate-700 hover:text-black">Gratis kurs</a></li>
+        <li><a href="/contact/" class="header-link block text-slate-700 hover:text-black">Kontakt oss</a></li>
+        <li><a href="/blog/" class="header-link block text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+        <li><a href="/bli-partner/" class="header-link block text-slate-700 hover:text-black">Bli partner</a></li>
+        <li><a href="/fakturamal/" class="header-link block text-slate-700 hover:text-black">Lag faktura</a></li>
+      </ul>
+    </div>
+  </nav>
+  <script>
+    (function() {
+      const btn = document.getElementById('mobileMenuBtn');
+      const menu = document.getElementById('mobileMenu');
+      if (!btn || !menu) return;
+      btn.addEventListener('click', function() {
+        const isHidden = menu.classList.contains('hidden');
+        menu.classList.toggle('hidden');
+        btn.setAttribute('aria-expanded', String(isHidden));
+      });
+    })();
+  </script>
+</header>
+  <main>
+    
+<section class="pt-10 md:pt-14">
+  <div class="max-w-3xl mx-auto px-4">
+    <h1 class="text-3xl font-semibold tracking-tight text-center">Firmaskatt</h1>
+    <p class="mt-2 text-gray-700">Alt du trenger å vite om firmaskatt for norske selskaper, inkludert beregning, satser og bokføring.</p>
+    <article class="prose max-w-none mt-6"><p><strong>Firmaskatt</strong> (også kalt <strong>selskapsskatt</strong>) er den skatten et selskap må betale av sitt skattemessige overskudd. Firmaskatt er en sentral del av bedriftens <strong>økonomiske planlegging</strong> og påvirker både likviditet og lønnsomhet.</p>
+<p><img src="firmaskatt-image.svg" alt="Firmaskatt"></p>
+<h2 id="hva-er-firmaskatt">Hva er firmaskatt?</h2>
+<p>Firmaskatt, eller selskapsskatt, beregnes på grunnlag av <a href="/blogs/regnskap/alminnelig-inntekt" title="Alminnelig inntekt – Komplett guide">alminnelig inntekt</a> etter fradrag og justeringer. Formålet med firmaskatten er å finansiere offentlige tjenester og sikre korrekt fordeling av skattebyrden mellom virksomheter.</p>
+<h2 id="hvordan-beregnes-firmaskatt">Hvordan beregnes firmaskatt?</h2>
+<p>Beregningsgrunnlaget for firmaskatt består av følgende komponenter:</p>
+<ul>
+<li><strong>Alminnelig inntekt</strong>: Netto skattegrunnlag etter fradrag (<a href="/blogs/regnskap/alminnelig-inntekt" title="Alminnelig inntekt – Komplett guide">alminnelig inntekt</a>)</li>
+<li><strong>Skattesats</strong>: Gjeldende sats for selskaps­skatt (<strong>22 %</strong> per 2024)</li>
+<li><strong>Forskuddsskatt</strong>: Tidligere betalte terminer som motregnes (<a href="/blogs/regnskap/betalbar-skatt" title="Betalbar skatt – Komplett guide til beregning og håndtering">betalbar skatt</a>)</li>
+</ul>
+<table>
+  <thead>
+      <tr>
+          <th><strong>Element</strong></th>
+          <th><strong>Beskrivelse</strong></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Alminnelig inntekt</td>
+          <td><a href="/blogs/regnskap/alminnelig-inntekt" title="Alminnelig inntekt – Komplett guide">Alminnelig inntekt</a></td>
+      </tr>
+      <tr>
+          <td>× Skattesats (22 %)</td>
+          <td>Gjeldende sats for selskapsskatt</td>
+      </tr>
+      <tr>
+          <td>− Forskuddsskatt</td>
+          <td>Betalte terminer gjennom året (<a href="/blogs/regnskap/betalbar-skatt" title="Betalbar skatt">betalbar skatt</a>)</td>
+      </tr>
+      <tr>
+          <td><strong>= Firmaskatt</strong></td>
+          <td>Beløpet som skal innbetales til Skatteetaten</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="satser-for-firmaskatt">Satser for firmaskatt</h2>
+<p>Firmaskatt i Norge har en flat sats for de fleste selskapsformer:</p>
+<table>
+  <thead>
+      <tr>
+          <th><strong>Selskapsform</strong></th>
+          <th><strong>Skattesats</strong></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Aksjeselskap (AS/ASA) / ANS / DA</td>
+          <td><strong>22 %</strong></td>
+      </tr>
+      <tr>
+          <td>Enkeltpersonforetak (ENK)</td>
+          <td>Progressiv personskatt</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="betalingsfrister-for-firmaskatt">Betalingsfrister for firmaskatt</h2>
+<p>Forskuddsskatt betales i fire terminer:</p>
+<table>
+  <thead>
+      <tr>
+          <th><strong>Termin</strong></th>
+          <th><strong>Frist</strong></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>1. termin</td>
+          <td>15. februar</td>
+      </tr>
+      <tr>
+          <td>2. termin</td>
+          <td>15. april</td>
+      </tr>
+      <tr>
+          <td>3. termin</td>
+          <td>15. juni</td>
+      </tr>
+      <tr>
+          <td>4. termin</td>
+          <td>15. oktober</td>
+      </tr>
+  </tbody>
+</table>
+<p>For full oversikt over betaling og bokføring, se <a href="/blogs/regnskap/betalbar-skatt" title="Betalbar skatt – Komplett guide til beregning og håndtering">Betalbar skatt</a>.</p>
+<h2 id="firmaskatt-i-regnskapet">Firmaskatt i regnskapet</h2>
+<p>Firmaskatt bokføres som kortsiktig gjeld og resultatpåvirkning:</p>
+<ul>
+<li><a href="/blogs/kontoplan/2500-betalbar-skatt-ikke-utlignet" title="Konto 2500 - Betalbar skatt, ikke utlignet">Konto 2500 - Betalbar skatt, ikke utlignet</a></li>
+<li><a href="/blogs/kontoplan/8300-betalbar-skatt" title="Konto 8300 - Betalbar skatt">Konto 8300 - Betalbar skatt</a></li>
+</ul>
+<table>
+  <thead>
+      <tr>
+          <th><strong>Konto</strong></th>
+          <th><strong>Debet</strong></th>
+          <th><strong>Kredit</strong></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>8300</td>
+          <td>100 000 kr</td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>2500</td>
+          <td></td>
+          <td>100 000 kr</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="oppsummering">Oppsummering</h2>
+<ul>
+<li><strong>Firmaskatt</strong> (selskapsskatt) beregnes av skattemessig overskudd etter alminnelig inntekt.</li>
+<li>Satsene er <strong>22 %</strong> for de fleste selskaper.</li>
+<li>Betalingsfrister følger fire terminer gjennom året.</li>
+<li>Bokføring skjer på konto 2500/8300 i regnskapet.</li>
+</ul>
+<h2 id="historisk-utvikling-av-skattesatser">Historisk utvikling av skattesatser</h2>
+<table>
+  <thead>
+      <tr>
+          <th><strong>År</strong></th>
+          <th><strong>Skattesats</strong></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>2018</td>
+          <td>22 %</td>
+      </tr>
+      <tr>
+          <td>2019</td>
+          <td>22 %</td>
+      </tr>
+      <tr>
+          <td>2020</td>
+          <td>22 %</td>
+      </tr>
+      <tr>
+          <td>2021</td>
+          <td>22 %</td>
+      </tr>
+      <tr>
+          <td>2022</td>
+          <td>22 %</td>
+      </tr>
+      <tr>
+          <td>2023</td>
+          <td>22 %</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="fritaksmetoden-og-selskapsskatt">Fritaksmetoden og selskapsskatt</h2>
+<p>Utbytte og gevinst ved salg av aksjer i datterselskaper kan være helt eller delvis fritatt for selskapsskatt gjennom <a href="/blogs/regnskap/hva-er-fritaksmetoden" title="Hva er Fritaksmetoden? Komplett guide til skattefritak for utbytte">fritaksmetoden</a>.</p>
+<h2 id="skjermingsfradrag-og-selskapsskatt">Skjermingsfradrag og selskapsskatt</h2>
+<p>Skjermingsfradraget reduserer den skattepliktige gevinsten ved utbytte i aksjeselskap. Les mer om <a href="/blogs/regnskap/hva-er-skjermingsfradrag" title="Hva er Skjermingsfradrag? Beregning og anvendelse">skjermingsfradrag</a> for detaljer.</p>
+<h2 id="relatert-lesning">Relatert lesning</h2>
+<ul>
+<li><a href="/blogs/regnskap/alminnelig-inntekt" title="Alminnelig inntekt – Komplett guide">Alminnelig inntekt</a></li>
+<li><a href="/blogs/regnskap/betalbar-skatt" title="Betalbar skatt – Komplett guide til beregning og håndtering">Betalbar skatt</a></li>
+<li><a href="/blogs/regnskap/hva-er-utsatt-skatt" title="Hva er Utsatt Skatt? Beregning og Regnskapsføring">Utsatt skatt</a></li>
+<li><a href="/blogs/regnskap/hva-er-et-aksjeselskap" title="Hva er et Aksjeselskap?">Hva er et aksjeselskap?</a></li>
+</ul>
+</article>
+  </div>
+</section>
+
+  </main>
+  <footer class="mt-16 border-t border-slate-800/60 bg-slate-900">
+  <div class="max-w-7xl mx-auto px-4 py-14">
+    <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3 text-center sm:text-left">
+      
+      <div>
+        <h3 class="text-sm font-semibold text-white">Verktøy</h3>
+        <ul class="mt-2 space-y-2 text-sm text-slate-300">
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/finn-iban/">IBAN kalkulator</a></li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/lag-faktura-gratis/">Lag faktura</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Selskaps-informasjon</h3>
+        <ul class="mt-2 space-y-1 text-sm text-slate-300">
+          <li>Reai AS</li>
+          <li>Orgnr: 935606403</li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="mailto:post@reai.no">post@reai.no</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Om ReAI</h3>
+        <p class="mt-2 text-sm text-slate-300">ReAI er et gratis regnskapsprogram laget av tidligere ansatte i Tripletex
+          / Visma. Vi mener det er på tide med mer konkurranse i regnskaps-bransjen som kan komme bedrifter til gode.
+        </p>
+      </div>
+    </div>
+    <div class="mt-12 border-t border-slate-800/60 pt-6 flex flex-col items-center sm:flex-row sm:items-center sm:justify-between text-sm text-slate-400 text-center sm:text-left">
+      <div class="flex items-center gap-2">
+        
+        
+      </div>
+      <div class="mt-4 sm:mt-0 flex items-center justify-center sm:justify-end">
+        <div class="opacity-80">&copy; 2025 ReAI. All rights reserved.</div>
+      </div>
+    </div>
+  </div>
+</footer>
+</body>
+</html>

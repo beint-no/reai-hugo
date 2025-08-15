@@ -1,0 +1,198 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="shortTermGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="longTermGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="url(#bgGradient)"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#2c3e50">
+    Likviditetsplanlegging Tidshorisonter
+  </text>
+  
+  <!-- Timeline -->
+  <line x1="100" y1="100" x2="700" y2="100" stroke="#2c3e50" stroke-width="3"/>
+  
+  <!-- Time markers -->
+  <g stroke="#2c3e50" stroke-width="2">
+    <line x1="150" y1="90" x2="150" y2="110"/>
+    <line x1="300" y1="90" x2="300" y2="110"/>
+    <line x1="500" y1="90" x2="500" y2="110"/>
+    <line x1="650" y1="90" x2="650" y2="110"/>
+  </g>
+  
+  <!-- Time labels -->
+  <text x="125" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Daglig</text>
+  <text x="225" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Ukentlig</text>
+  <text x="400" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Månedlig</text>
+  <text x="575" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Årlig</text>
+  <text x="675" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">5+ år</text>
+  
+  <!-- Short-term Planning (1-12 months) -->
+  <g transform="translate(50, 160)">
+    <rect x="0" y="0" width="350" height="140" rx="15" fill="url(#shortTermGradient)" stroke="#1e7e34" stroke-width="2"/>
+    <text x="175" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      Kortsiktig Likviditetsplanlegging
+    </text>
+    <text x="175" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+      (1-12 måneder)
+    </text>
+    
+    <text x="30" y="80" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      Fokusområder:
+    </text>
+    <text x="30" y="100" font-family="Arial, sans-serif" font-size="11" fill="white">
+      • Daglig likviditetsstyring og banksaldoer
+    </text>
+    <text x="30" y="115" font-family="Arial, sans-serif" font-size="11" fill="white">
+      • Ukentlige kontantstrømprognoser
+    </text>
+    <text x="30" y="130" font-family="Arial, sans-serif" font-size="11" fill="white">
+      • Månedlige budsjettsammenligninger
+    </text>
+  </g>
+  
+  <!-- Long-term Planning (1-5 years) -->
+  <g transform="translate(420, 160)">
+    <rect x="0" y="0" width="330" height="140" rx="15" fill="url(#longTermGradient)" stroke="#004499" stroke-width="2"/>
+    <text x="165" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      Langsiktig Likviditetsplanlegging
+    </text>
+    <text x="165" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+      (1-5 år)
+    </text>
+    
+    <text x="30" y="80" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      Fokusområder:
+    </text>
+    <text x="30" y="100" font-family="Arial, sans-serif" font-size="11" fill="white">
+      • Strategisk finansieringsplanlegging
+    </text>
+    <text x="30" y="115" font-family="Arial, sans-serif" font-size="11" fill="white">
+      • Investeringsplaner og kapitalallokering
+    </text>
+    <text x="30" y="130" font-family="Arial, sans-serif" font-size="11" fill="white">
+      • Scenarioanalyser og stresstest
+    </text>
+  </g>
+  
+  <!-- Planning Activities -->
+  <g transform="translate(50, 320)">
+    <rect x="0" y="0" width="700" height="150" rx="15" fill="#f8f9fa" stroke="#6c757d" stroke-width="2"/>
+    <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">
+      Planleggingsaktiviteter etter Tidshorisont
+    </text>
+    
+    <!-- Daily -->
+    <g transform="translate(20, 40)">
+      <rect x="0" y="0" width="130" height="90" rx="5" fill="#e8f5e8" stroke="#4caf50" stroke-width="1"/>
+      <text x="65" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+        Daglig
+      </text>
+      <text x="65" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+        • Banksaldoer
+      </text>
+      <text x="65" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+        • Betalingsforfall
+      </text>
+      <text x="65" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+        • Innbetalinger
+      </text>
+      <text x="65" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+        • Kassekreditt
+      </text>
+    </g>
+    
+    <!-- Weekly -->
+    <g transform="translate(160, 40)">
+      <rect x="0" y="0" width="130" height="90" rx="5" fill="#e3f2fd" stroke="#2196f3" stroke-width="1"/>
+      <text x="65" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+        Ukentlig
+      </text>
+      <text x="65" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+        • Prognoser
+      </text>
+      <text x="65" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+        • Avviksanalyse
+      </text>
+      <text x="65" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+        • Justeringer
+      </text>
+      <text x="65" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+        • Rapportering
+      </text>
+    </g>
+    
+    <!-- Monthly -->
+    <g transform="translate(300, 40)">
+      <rect x="0" y="0" width="130" height="90" rx="5" fill="#fff3e0" stroke="#ff9800" stroke-width="1"/>
+      <text x="65" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+        Månedlig
+      </text>
+      <text x="65" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+        • Budsjettanalyse
+      </text>
+      <text x="65" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+        • Nøkkeltall
+      </text>
+      <text x="65" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+        • Trendanalyse
+      </text>
+      <text x="65" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+        • Styrerap.
+      </text>
+    </g>
+    
+    <!-- Quarterly -->
+    <g transform="translate(440, 40)">
+      <rect x="0" y="0" width="130" height="90" rx="5" fill="#f3e5f5" stroke="#9c27b0" stroke-width="1"/>
+      <text x="65" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+        Kvartalsvis
+      </text>
+      <text x="65" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+        • Strategigjennomgang
+      </text>
+      <text x="65" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+        • Prognoseoppdatering
+      </text>
+      <text x="65" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+        • Finansieringsplan
+      </text>
+      <text x="65" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+        • Risikoevaluering
+      </text>
+    </g>
+    
+    <!-- Annual -->
+    <g transform="translate(580, 40)">
+      <rect x="0" y="0" width="100" height="90" rx="5" fill="#ffebee" stroke="#f44336" stroke-width="1"/>
+      <text x="50" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+        Årlig
+      </text>
+      <text x="50" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+        • Strategisk plan
+      </text>
+      <text x="50" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+        • Kapitalstruktur
+      </text>
+      <text x="50" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+        • Investeringer
+      </text>
+      <text x="50" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+        • Scenarioer
+      </text>
+    </g>
+  </g>
+</svg>

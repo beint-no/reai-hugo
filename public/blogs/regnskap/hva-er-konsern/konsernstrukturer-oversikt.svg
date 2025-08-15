@@ -1,0 +1,186 @@
+<svg width="900" height="700" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="900" height="700" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="450" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">Typer Konsernstrukturer</text>
+  
+  <!-- Vertical Structure Section -->
+  <text x="150" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">Vertikal Struktur</text>
+  
+  <!-- Vertical - Parent -->
+  <rect x="75" y="100" width="150" height="50" rx="8" fill="#3498db" stroke="#2980b9" stroke-width="2"/>
+  <text x="150" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">MORSELSKAP</text>
+  
+  <!-- Vertical - Arrows -->
+  <line x1="120" y1="150" x2="120" y2="180" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="150" y1="150" x2="150" y2="180" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="180" y1="150" x2="180" y2="180" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Vertical - Subsidiaries -->
+  <rect x="45" y="200" width="100" height="40" rx="6" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+  <text x="95" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">DATTER 1</text>
+  
+  <rect x="100" y="200" width="100" height="40" rx="6" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+  <text x="150" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">DATTER 2</text>
+  
+  <rect x="155" y="200" width="100" height="40" rx="6" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+  <text x="205" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">DATTER 3</text>
+  
+  <!-- Vertical - Description -->
+  <text x="150" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Enkel og oversiktlig</text>
+  <text x="150" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Direkte kontroll</text>
+  
+  <!-- Horizontal Structure Section -->
+  <text x="450" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">Horisontal Struktur</text>
+  
+  <!-- Horizontal - Parent -->
+  <rect x="375" y="100" width="150" height="50" rx="8" fill="#3498db" stroke="#2980b9" stroke-width="2"/>
+  <text x="450" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">MORSELSKAP</text>
+  
+  <!-- Horizontal - Arrow to first level -->
+  <line x1="450" y1="150" x2="450" y2="180" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Horizontal - First level subsidiary -->
+  <rect x="375" y="200" width="150" height="40" rx="6" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+  <text x="450" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">DATTERSELSKAP</text>
+  
+  <!-- Horizontal - Arrows to second level -->
+  <line x1="420" y1="240" x2="420" y2="270" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="480" y1="240" x2="480" y2="270" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Horizontal - Second level subsidiaries -->
+  <rect x="345" y="290" width="120" height="35" rx="5" fill="#f39c12" stroke="#e67e22" stroke-width="2"/>
+  <text x="405" y="312" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">BARNEBARN 1</text>
+  
+  <rect x="485" y="290" width="120" height="35" rx="5" fill="#f39c12" stroke="#e67e22" stroke-width="2"/>
+  <text x="545" y="312" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">BARNEBARN 2</text>
+  
+  <!-- Horizontal - Description -->
+  <text x="450" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Flere nivåer</text>
+  <text x="450" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Skattemessige fordeler</text>
+  
+  <!-- Mixed Structure Section -->
+  <text x="750" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">Blandet Struktur</text>
+  
+  <!-- Mixed - Parent -->
+  <rect x="675" y="100" width="150" height="50" rx="8" fill="#3498db" stroke="#2980b9" stroke-width="2"/>
+  <text x="750" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">MORSELSKAP</text>
+  
+  <!-- Mixed - Arrows -->
+  <line x1="720" y1="150" x2="680" y2="180" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="750" y1="150" x2="750" y2="180" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="780" y1="150" x2="820" y2="180" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Mixed - First level -->
+  <rect x="620" y="200" width="100" height="40" rx="6" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+  <text x="670" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">DATTER A</text>
+  
+  <rect x="700" y="200" width="100" height="40" rx="6" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+  <text x="750" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">DATTER B</text>
+  
+  <rect x="780" y="200" width="100" height="40" rx="6" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+  <text x="830" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">DATTER C</text>
+  
+  <!-- Mixed - Arrow from Datter B to grandchild -->
+  <line x1="750" y1="240" x2="750" y2="270" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Mixed - Grandchild -->
+  <rect x="700" y="290" width="100" height="35" rx="5" fill="#f39c12" stroke="#e67e22" stroke-width="2"/>
+  <text x="750" y="312" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">BARNEBARN</text>
+  
+  <!-- Mixed - Description -->
+  <text x="750" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Fleksibel tilpasning</text>
+  <text x="750" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Optimalisering</text>
+  
+  <!-- Comparison Table -->
+  <rect x="50" y="420" width="800" height="250" rx="10" fill="white" stroke="#bdc3c7" stroke-width="2"/>
+  <text x="450" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">Sammenligning av Strukturer</text>
+  
+  <!-- Table Headers -->
+  <rect x="70" y="470" width="150" height="30" fill="#34495e"/>
+  <text x="145" y="490" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Struktur</text>
+  
+  <rect x="220" y="470" width="150" height="30" fill="#34495e"/>
+  <text x="295" y="490" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Fordeler</text>
+  
+  <rect x="370" y="470" width="150" height="30" fill="#34495e"/>
+  <text x="445" y="490" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Ulemper</text>
+  
+  <rect x="520" y="470" width="150" height="30" fill="#34495e"/>
+  <text x="595" y="490" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Egnet for</text>
+  
+  <rect x="670" y="470" width="150" height="30" fill="#34495e"/>
+  <text x="745" y="490" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Kompleksitet</text>
+  
+  <!-- Table Rows -->
+  <!-- Vertical Row -->
+  <rect x="70" y="500" width="150" height="50" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
+  <text x="145" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2c3e50">Vertikal</text>
+  <text x="145" y="535" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Direkte eierskap</text>
+  
+  <rect x="220" y="500" width="150" height="50" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
+  <text x="295" y="515" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Enkel styring</text>
+  <text x="295" y="530" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Klar kontroll</text>
+  <text x="295" y="545" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Oversiktlig</text>
+  
+  <rect x="370" y="500" width="150" height="50" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
+  <text x="445" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Begrenset fleksibilitet</text>
+  <text x="445" y="535" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Mindre optimalisering</text>
+  
+  <rect x="520" y="500" width="150" height="50" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
+  <text x="595" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Små konsern</text>
+  <text x="595" y="535" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Enkle virksomheter</text>
+  
+  <rect x="670" y="500" width="150" height="50" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
+  <text x="745" y="530" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#27ae60">LAV</text>
+  
+  <!-- Horizontal Row -->
+  <rect x="70" y="550" width="150" height="50" fill="#f8f9fa" stroke="#bdc3c7" stroke-width="1"/>
+  <text x="145" y="570" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2c3e50">Horisontal</text>
+  <text x="145" y="585" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Flere nivåer</text>
+  
+  <rect x="220" y="550" width="150" height="50" fill="#f8f9fa" stroke="#bdc3c7" stroke-width="1"/>
+  <text x="295" y="565" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Skattefordeler</text>
+  <text x="295" y="580" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Risikofordeling</text>
+  <text x="295" y="595" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Spesialisering</text>
+  
+  <rect x="370" y="550" width="150" height="50" fill="#f8f9fa" stroke="#bdc3c7" stroke-width="1"/>
+  <text x="445" y="570" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Kompleks styring</text>
+  <text x="445" y="585" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Økte kostnader</text>
+  
+  <rect x="520" y="550" width="150" height="50" fill="#f8f9fa" stroke="#bdc3c7" stroke-width="1"/>
+  <text x="595" y="570" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Store konsern</text>
+  <text x="595" y="585" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Skatteoptimalisering</text>
+  
+  <rect x="670" y="550" width="150" height="50" fill="#f8f9fa" stroke="#bdc3c7" stroke-width="1"/>
+  <text x="745" y="580" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#f39c12">MIDDELS</text>
+  
+  <!-- Mixed Row -->
+  <rect x="70" y="600" width="150" height="50" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
+  <text x="145" y="620" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2c3e50">Blandet</text>
+  <text x="145" y="635" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Kombinert</text>
+  
+  <rect x="220" y="600" width="150" height="50" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
+  <text x="295" y="615" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Maksimal fleksibilitet</text>
+  <text x="295" y="630" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Tilpasset løsning</text>
+  <text x="295" y="645" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Beste av begge</text>
+  
+  <rect x="370" y="600" width="150" height="50" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
+  <text x="445" y="620" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Høy kompleksitet</text>
+  <text x="445" y="635" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Krevende styring</text>
+  
+  <rect x="520" y="600" width="150" height="50" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
+  <text x="595" y="620" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Komplekse konsern</text>
+  <text x="595" y="635" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Internasjonale</text>
+  
+  <rect x="670" y="600" width="150" height="50" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
+  <text x="745" y="630" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#e74c3c">HØY</text>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>
+    </marker>
+  </defs>
+</svg>

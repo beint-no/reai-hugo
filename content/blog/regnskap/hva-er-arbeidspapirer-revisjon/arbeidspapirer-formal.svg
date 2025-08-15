@@ -1,0 +1,134 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+    Formål med Arbeidspapirer
+  </text>
+  
+  <!-- Primary purposes section -->
+  <g transform="translate(50, 80)">
+    <text x="0" y="0" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">Primære Formål</text>
+    
+    <!-- Documentation box -->
+    <g transform="translate(0, 30)">
+      <rect x="0" y="0" width="300" height="120" fill="#3498db" stroke="#2980b9" stroke-width="2" rx="10"/>
+      <text x="150" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">DOKUMENTASJON</text>
+      <text x="150" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">AV REVISJONSARBEID</text>
+      
+      <text x="20" y="70" font-family="Arial, sans-serif" font-size="12" fill="white">• Bevis for utført arbeid</text>
+      <text x="20" y="85" font-family="Arial, sans-serif" font-size="12" fill="white">• Støtte for konklusjoner</text>
+      <text x="20" y="100" font-family="Arial, sans-serif" font-size="12" fill="white">• Kvalitetssikring</text>
+    </g>
+    
+    <!-- Communication box -->
+    <g transform="translate(350, 30)">
+      <rect x="0" y="0" width="300" height="120" fill="#e74c3c" stroke="#c0392b" stroke-width="2" rx="10"/>
+      <text x="150" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">KOMMUNIKASJON</text>
+      <text x="150" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">OG KOORDINERING</text>
+      
+      <text x="20" y="70" font-family="Arial, sans-serif" font-size="12" fill="white">• Teamarbeid</text>
+      <text x="20" y="85" font-family="Arial, sans-serif" font-size="12" fill="white">• Gjennomgang</text>
+      <text x="20" y="100" font-family="Arial, sans-serif" font-size="12" fill="white">• Kunnskapsoverføring</text>
+    </g>
+  </g>
+  
+  <!-- Secondary purposes section -->
+  <g transform="translate(50, 280)">
+    <text x="0" y="0" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">Sekundære Formål</text>
+    
+    <!-- Legal protection box -->
+    <g transform="translate(0, 30)">
+      <rect x="0" y="0" width="300" height="120" fill="#f39c12" stroke="#e67e22" stroke-width="2" rx="10"/>
+      <text x="150" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">JURIDISK</text>
+      <text x="150" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">BESKYTTELSE</text>
+      
+      <text x="20" y="70" font-family="Arial, sans-serif" font-size="12" fill="white">• Forsvar ved søksmål</text>
+      <text x="20" y="85" font-family="Arial, sans-serif" font-size="12" fill="white">• Regulatorisk etterlevelse</text>
+      <text x="20" y="100" font-family="Arial, sans-serif" font-size="12" fill="white">• Forsikringsformål</text>
+    </g>
+    
+    <!-- Efficiency box -->
+    <g transform="translate(350, 30)">
+      <rect x="0" y="0" width="300" height="120" fill="#27ae60" stroke="#229954" stroke-width="2" rx="10"/>
+      <text x="150" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">EFFEKTIVITET</text>
+      <text x="150" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">OG KONTINUITET</text>
+      
+      <text x="20" y="70" font-family="Arial, sans-serif" font-size="12" fill="white">• Planlegging fremtidige revisjoner</text>
+      <text x="20" y="85" font-family="Arial, sans-serif" font-size="12" fill="white">• Opplæring</text>
+      <text x="20" y="100" font-family="Arial, sans-serif" font-size="12" fill="white">• Metodeutvikling</text>
+    </g>
+  </g>
+  
+  <!-- Benefits flow -->
+  <g transform="translate(100, 480)">
+    <text x="300" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">Nytte og Gevinster</text>
+    
+    <!-- Flow arrows and benefits -->
+    <g transform="translate(0, 30)">
+      <!-- Quality -->
+      <circle cx="100" cy="30" r="25" fill="#9b59b6" stroke="#8e44ad" stroke-width="2"/>
+      <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">KVALITET</text>
+      <text x="100" y="37" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">SIKRING</text>
+      
+      <!-- Arrow 1 -->
+      <path d="M 130 30 L 170 30" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
+      
+      <!-- Trust -->
+      <circle cx="200" cy="30" r="25" fill="#e67e22" stroke="#d35400" stroke-width="2"/>
+      <text x="200" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">TILLIT</text>
+      
+      <!-- Arrow 2 -->
+      <path d="M 230 30 L 270 30" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
+      
+      <!-- Credibility -->
+      <circle cx="300" cy="30" r="25" fill="#16a085" stroke="#138d75" stroke-width="2"/>
+      <text x="300" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">KREDIBILI-</text>
+      <text x="300" y="37" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">TET</text>
+      
+      <!-- Arrow 3 -->
+      <path d="M 330 30 L 370 30" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
+      
+      <!-- Value -->
+      <circle cx="400" cy="30" r="25" fill="#c0392b" stroke="#a93226" stroke-width="2"/>
+      <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">VERDI</text>
+      
+      <!-- Arrow 4 -->
+      <path d="M 430 30 L 470 30" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
+      
+      <!-- Success -->
+      <circle cx="500" cy="30" r="25" fill="#2874a6" stroke="#21618c" stroke-width="2"/>
+      <text x="500" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">SUKSESS</text>
+      <text x="500" y="37" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">FULL</text>
+    </g>
+  </g>
+  
+  <!-- Key stakeholders -->
+  <g transform="translate(50, 50)">
+    <text x="650" y="0" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">Interessenter:</text>
+    <g transform="translate(650, 20)">
+      <circle cx="5" cy="0" r="3" fill="#3498db"/>
+      <text x="15" y="4" font-family="Arial, sans-serif" font-size="12" fill="#34495e">Revisorer</text>
+    </g>
+    <g transform="translate(650, 35)">
+      <circle cx="5" cy="0" r="3" fill="#e74c3c"/>
+      <text x="15" y="4" font-family="Arial, sans-serif" font-size="12" fill="#34495e">Klienter</text>
+    </g>
+    <g transform="translate(650, 50)">
+      <circle cx="5" cy="0" r="3" fill="#f39c12"/>
+      <text x="15" y="4" font-family="Arial, sans-serif" font-size="12" fill="#34495e">Regulatorer</text>
+    </g>
+    <g transform="translate(650, 65)">
+      <circle cx="5" cy="0" r="3" fill="#27ae60"/>
+      <text x="15" y="4" font-family="Arial, sans-serif" font-size="12" fill="#34495e">Investorer</text>
+    </g>
+  </g>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>
+    </marker>
+  </defs>
+</svg>

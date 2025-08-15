@@ -1,0 +1,26 @@
+<svg width="700" height="350" xmlns="http://www.w3.org/2000/svg" font-family="Arial, sans-serif">
+    <defs>
+        <marker id="flow-arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+            <path d="M 0 0 L 10 5 L 0 10 z" fill="#555" />
+        </marker>
+    </defs>
+    <text x="350" y="30" text-anchor="middle" font-size="22" font-weight="bold">Fra Finansielt Resultat til Skattbart Resultat</text>
+
+    <rect x="50" y="80" width="200" height="80" rx="5" fill="#e8f5e9" stroke="#a5d6a7" stroke-width="2"/>
+    <text x="150" y="125" text-anchor="middle" font-size="16">Finansielt Resultat</text>
+
+    <rect x="450" y="80" width="200" height="80" rx="5" fill="#e3f2fd" stroke="#90caf9" stroke-width="2"/>
+    <text x="550" y="125" text-anchor="middle" font-size="16">Skattbart Resultat</text>
+
+    <path d="M 260 120 L 440 120" stroke="#555" stroke-width="2" marker-end="url(#flow-arrow)"/>
+
+    <g id="adjustments">
+        <text x="350" y="160" text-anchor="middle" font-size="16" font-style="italic">Justeringer</text>
+        <rect x="275" y="180" width="150" height="40" rx="5" fill="#fff3e0" stroke="#ffcc80" stroke-width="1"/>
+        <text x="350" y="205" text-anchor="middle" font-size="14">+ Ikke-fradragsberettigede kostnader</text>
+        <rect x="275" y="230" width="150" height="40" rx="5" fill="#fff3e0" stroke="#ffcc80" stroke-width="1"/>
+        <text x="350" y="255" text-anchor="middle" font-size="14">- Ikke-skattepliktige inntekter</text>
+        <rect x="275" y="280" width="150" height="40" rx="5" fill="#fff3e0" stroke="#ffcc80" stroke-width="1"/>
+        <text x="350" y="305" text-anchor="middle" font-size="14">+/- Midlertidige forskjeller</text>
+    </g>
+</svg>

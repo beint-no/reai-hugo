@@ -1,0 +1,123 @@
+<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="reiseGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3B82F6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1E40AF;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="kontorGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#10B981;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#047857;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="reprGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#F59E0B;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#D97706;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="#F8FAFC"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1E293B">
+    Kategorier av Ansattutlegg
+  </text>
+  
+  <!-- Reiseutlegg -->
+  <rect x="50" y="70" width="200" height="150" rx="10" fill="url(#reiseGradient)" stroke="#1E40AF" stroke-width="2"/>
+  <text x="150" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    Reiseutlegg
+  </text>
+  <text x="60" y="125" font-family="Arial, sans-serif" font-size="12" fill="white">
+    • Transport (fly, tog, taxi)
+  </text>
+  <text x="60" y="145" font-family="Arial, sans-serif" font-size="12" fill="white">
+    • Overnatting (hotell)
+  </text>
+  <text x="60" y="165" font-family="Arial, sans-serif" font-size="12" fill="white">
+    • Diett (måltider)
+  </text>
+  <text x="60" y="185" font-family="Arial, sans-serif" font-size="12" fill="white">
+    • Reiseforsikring
+  </text>
+  <text x="60" y="205" font-family="Arial, sans-serif" font-size="12" fill="white">
+    • Kjøregodtgjørelse
+  </text>
+  
+  <!-- Kontor- og Driftsmateriell -->
+  <rect x="300" y="70" width="200" height="150" rx="10" fill="url(#kontorGradient)" stroke="#047857" stroke-width="2"/>
+  <text x="400" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    Kontor- og Driftsmateriell
+  </text>
+  <text x="310" y="125" font-family="Arial, sans-serif" font-size="12" fill="white">
+    • Kontormateriell
+  </text>
+  <text x="310" y="145" font-family="Arial, sans-serif" font-size="12" fill="white">
+    • Programvare
+  </text>
+  <text x="310" y="165" font-family="Arial, sans-serif" font-size="12" fill="white">
+    • Verktøy
+  </text>
+  <text x="310" y="185" font-family="Arial, sans-serif" font-size="12" fill="white">
+    • Forbruksmateriell
+  </text>
+  
+  <!-- Representasjonsutlegg -->
+  <rect x="550" y="70" width="200" height="150" rx="10" fill="url(#reprGradient)" stroke="#D97706" stroke-width="2"/>
+  <text x="650" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    Representasjonsutlegg
+  </text>
+  <text x="560" y="125" font-family="Arial, sans-serif" font-size="12" fill="white">
+    • Kundemøter
+  </text>
+  <text x="560" y="145" font-family="Arial, sans-serif" font-size="12" fill="white">
+    • Konferanser
+  </text>
+  <text x="560" y="165" font-family="Arial, sans-serif" font-size="12" fill="white">
+    • Representasjonsgaver
+  </text>
+  <text x="560" y="185" font-family="Arial, sans-serif" font-size="12" fill="white">
+    • Forretningsbevertning
+  </text>
+  
+  <!-- Process Flow -->
+  <g stroke="#64748B" stroke-width="2" fill="none" marker-end="url(#arrowhead)">
+    <!-- Arrow definitions -->
+    <defs>
+      <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+        <polygon points="0 0, 10 3.5, 0 7" fill="#64748B"/>
+      </marker>
+    </defs>
+    
+    <!-- Arrows pointing to central process -->
+    <path d="M 150 230 L 350 280" stroke-dasharray="5,5"/>
+    <path d="M 400 230 L 400 280" stroke-dasharray="5,5"/>
+    <path d="M 650 230 L 450 280" stroke-dasharray="5,5"/>
+  </g>
+  
+  <!-- Central Process Box -->
+  <rect x="300" y="280" width="200" height="100" rx="10" fill="#E2E8F0" stroke="#64748B" stroke-width="2"/>
+  <text x="400" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1E293B">
+    Regnskapsføring
+  </text>
+  <text x="310" y="330" font-family="Arial, sans-serif" font-size="12" fill="#475569">
+    1. Registrering av utlegg
+  </text>
+  <text x="310" y="350" font-family="Arial, sans-serif" font-size="12" fill="#475569">
+    2. Dokumentasjon
+  </text>
+  <text x="310" y="370" font-family="Arial, sans-serif" font-size="12" fill="#475569">
+    3. Refusjon/Avregning
+  </text>
+  
+  <!-- Key Accounts -->
+  <rect x="50" y="420" width="700" height="60" rx="5" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="1"/>
+  <text x="70" y="440" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1E293B">
+    Viktige kontoer:
+  </text>
+  <text x="70" y="455" font-family="Arial, sans-serif" font-size="11" fill="#475569">
+    1940 - Utlegg til ansatte | 7140 - Reise og opphold | 7300 - Representasjon | 6000-6999 - Driftskostnader
+  </text>
+  <text x="70" y="470" font-family="Arial, sans-serif" font-size="11" fill="#475569">
+    1900 - Bankkonto | 5700 - Personalomkostninger | 1950 - Forskudd til ansatte
+  </text>
+</svg>

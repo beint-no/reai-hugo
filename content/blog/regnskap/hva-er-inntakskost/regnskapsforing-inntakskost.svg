@@ -1,0 +1,138 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+    Regnskapsføring av Inntakskost
+  </text>
+  
+  <!-- Main sections -->
+  <!-- Section 1: Varelager -->
+  <rect x="50" y="80" width="300" height="200" fill="#e8f5e8" stroke="#4caf50" stroke-width="2" rx="10"/>
+  <text x="200" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2e7d32">
+    VARELAGER
+  </text>
+  
+  <!-- Varelager content -->
+  <text x="70" y="140" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">
+    Aktivering av inntakskost:
+  </text>
+  <text x="70" y="160" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Kjøpspris
+  </text>
+  <text x="70" y="175" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Transportkostnader
+  </text>
+  <text x="70" y="190" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Toll og avgifter
+  </text>
+  <text x="70" y="205" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Håndteringskostnader
+  </text>
+  
+  <text x="70" y="235" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2e7d32">
+    Bokføring:
+  </text>
+  <text x="70" y="250" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    Debet: Varelager
+  </text>
+  <text x="70" y="265" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    Kredit: Leverandørgjeld/Bank
+  </text>
+  
+  <!-- Section 2: Produksjon -->
+  <rect x="450" y="80" width="300" height="200" fill="#fff3e0" stroke="#ff9800" stroke-width="2" rx="10"/>
+  <text x="600" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#f57c00">
+    PRODUKSJON
+  </text>
+  
+  <!-- Produksjon content -->
+  <text x="470" y="140" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">
+    Kostpris komponenter:
+  </text>
+  <text x="470" y="160" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Materialkostnader (inntakskost)
+  </text>
+  <text x="470" y="175" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Direkte lønnskostnader
+  </text>
+  <text x="470" y="190" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Indirekte produksjonskostnader
+  </text>
+  <text x="470" y="205" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Overhead-kostnader
+  </text>
+  
+  <text x="470" y="235" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#f57c00">
+    Bokføring:
+  </text>
+  <text x="470" y="250" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    Debet: Varer under tilvirkning
+  </text>
+  <text x="470" y="265" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    Kredit: Diverse kostnadskontoer
+  </text>
+  
+  <!-- Accounting example -->
+  <rect x="100" y="320" width="600" height="220" fill="#f5f5f5" stroke="#757575" stroke-width="1" rx="10"/>
+  <text x="400" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#424242">
+    Praktisk Eksempel - Regnskapsføring
+  </text>
+  
+  <!-- Example scenario -->
+  <text x="120" y="380" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">
+    Scenario: Innkjøp av varer for videresalg
+  </text>
+  
+  <!-- Transaction details -->
+  <rect x="130" y="390" width="250" height="120" fill="#ffffff" stroke="#ddd" stroke-width="1" rx="5"/>
+  <text x="255" y="410" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+    TRANSAKSJONSDETALJER
+  </text>
+  <text x="140" y="430" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    Kjøpspris: 100.000 kr
+  </text>
+  <text x="140" y="445" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    Frakt: 8.000 kr
+  </text>
+  <text x="140" y="460" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    Toll: 3.000 kr
+  </text>
+  <text x="140" y="475" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    Håndtering: 2.000 kr
+  </text>
+  <text x="140" y="495" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2e7d32">
+    Total inntakskost: 113.000 kr
+  </text>
+  
+  <!-- Journal entries -->
+  <rect x="420" y="390" width="250" height="120" fill="#ffffff" stroke="#ddd" stroke-width="1" rx="5"/>
+  <text x="545" y="410" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+    JOURNALFØRING
+  </text>
+  <text x="430" y="430" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    Debet: Varelager 113.000
+  </text>
+  <text x="430" y="445" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    Kredit: Leverandørgjeld 100.000
+  </text>
+  <text x="430" y="460" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    Kredit: Transportør 8.000
+  </text>
+  <text x="430" y="475" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    Kredit: Toll/avgifter 3.000
+  </text>
+  <text x="430" y="490" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    Kredit: Håndtering 2.000
+  </text>
+  
+  <!-- Key principles -->
+  <rect x="150" y="550" width="500" height="40" fill="#e3f2fd" stroke="#1976d2" stroke-width="1" rx="5"/>
+  <text x="400" y="570" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1976d2">
+    Nøkkelprinsipp: Alle kostnader som er nødvendige for å få varen klar
+  </text>
+  <text x="400" y="585" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1976d2">
+    til salg eller bruk skal aktiveres som del av inntakskost
+  </text>
+</svg>

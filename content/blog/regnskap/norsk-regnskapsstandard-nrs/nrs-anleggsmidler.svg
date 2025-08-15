@@ -1,0 +1,186 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="processGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="boxGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e8f4fd;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#d1e7dd;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Title -->
+  <rect x="0" y="0" width="800" height="50" fill="url(#processGrad)"/>
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
+    NRS 2: Anleggsmidler - Livssyklus
+  </text>
+  
+  <!-- Process flow -->
+  
+  <!-- Step 1: Anskaffelse -->
+  <rect x="50" y="80" width="140" height="120" fill="url(#boxGrad)" stroke="#0066cc" stroke-width="2" rx="8"/>
+  <text x="120" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#0066cc">
+    1. Anskaffelse
+  </text>
+  <text x="120" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    Anskaffelseskost:
+  </text>
+  <text x="120" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    • Kjøpspris
+  </text>
+  <text x="120" y="152" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    • Installasjon
+  </text>
+  <text x="120" y="164" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    • Direkte kostnader
+  </text>
+  <text x="120" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#0066cc">
+    Balanseføres
+  </text>
+  
+  <!-- Step 2: Bruk og Avskrivning -->
+  <rect x="220" y="80" width="140" height="120" fill="url(#boxGrad)" stroke="#0066cc" stroke-width="2" rx="8"/>
+  <text x="290" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#0066cc">
+    2. Bruk &amp;
+  </text>
+  <text x="290" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#0066cc">
+    Avskrivning
+  </text>
+  <text x="290" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    • Systematisk avskrivning
+  </text>
+  <text x="290" y="152" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    • Over brukstid
+  </text>
+  <text x="290" y="164" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    • Lineær/degressiv
+  </text>
+  <text x="290" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#0066cc">
+    Kostnadsføres
+  </text>
+  
+  <!-- Step 3: Nedskrivning -->
+  <rect x="390" y="80" width="140" height="120" fill="url(#boxGrad)" stroke="#0066cc" stroke-width="2" rx="8"/>
+  <text x="460" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#0066cc">
+    3. Nedskrivning
+  </text>
+  <text x="460" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    Ved verdifall:
+  </text>
+  <text x="460" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    • Test for verdifall
+  </text>
+  <text x="460" y="152" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    • Gjenvinnbart beløp
+  </text>
+  <text x="460" y="164" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    • Nedskrivning
+  </text>
+  <text x="460" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#0066cc">
+    Kostnadsføres
+  </text>
+  
+  <!-- Step 4: Avhending -->
+  <rect x="560" y="80" width="140" height="120" fill="url(#boxGrad)" stroke="#0066cc" stroke-width="2" rx="8"/>
+  <text x="630" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#0066cc">
+    4. Avhending
+  </text>
+  <text x="630" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    Ved salg/utrangering:
+  </text>
+  <text x="630" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    • Salgssum
+  </text>
+  <text x="630" y="152" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    • Bokført verdi
+  </text>
+  <text x="630" y="164" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    • Gevinst/tap
+  </text>
+  <text x="630" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#0066cc">
+    Resultatføres
+  </text>
+  
+  <!-- Arrows between steps -->
+  <polygon points="190,140 210,135 210,145" fill="#0066cc"/>
+  <polygon points="360,140 380,135 380,145" fill="#0066cc"/>
+  <polygon points="530,140 550,135 550,145" fill="#0066cc"/>
+  
+  <!-- Detailed calculation example -->
+  <rect x="100" y="250" width="600" height="200" fill="white" stroke="#0066cc" stroke-width="2" rx="8"/>
+  <text x="400" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#0066cc">
+    Praktisk Eksempel: Maskin
+  </text>
+  
+  <!-- Left column - Initial values -->
+  <text x="120" y="300" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">
+    Anskaffelse (År 1):
+  </text>
+  <text x="120" y="320" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    Kjøpspris: 500 000 kr
+  </text>
+  <text x="120" y="335" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    Installasjon: 50 000 kr
+  </text>
+  <text x="120" y="350" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#0066cc">
+    Anskaffelseskost: 550 000 kr
+  </text>
+  <text x="120" y="370" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    Brukstid: 10 år
+  </text>
+  <text x="120" y="385" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    Restverdi: 50 000 kr
+  </text>
+  
+  <!-- Middle column - Annual depreciation -->
+  <text x="320" y="300" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">
+    Årlig Avskrivning:
+  </text>
+  <text x="320" y="320" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    (550 000 - 50 000) / 10
+  </text>
+  <text x="320" y="335" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#0066cc">
+    = 50 000 kr/år
+  </text>
+  
+  <text x="320" y="360" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    Bokført verdi (År 5):
+  </text>
+  <text x="320" y="375" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    550 000 - (5 × 50 000)
+  </text>
+  <text x="320" y="390" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#0066cc">
+    = 300 000 kr
+  </text>
+  
+  <!-- Right column - Disposal -->
+  <text x="520" y="300" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">
+    Salg (År 6):
+  </text>
+  <text x="520" y="320" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    Salgssum: 320 000 kr
+  </text>
+  <text x="520" y="335" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    Bokført verdi: 250 000 kr
+  </text>
+  <text x="520" y="350" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#0066cc">
+    Gevinst: 70 000 kr
+  </text>
+  
+  <text x="520" y="375" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    Regnskapsføring:
+  </text>
+  <text x="520" y="390" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    Dr. Bank 320 000
+  </text>
+  <text x="520" y="405" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    Cr. Maskin 250 000
+  </text>
+  <text x="520" y="420" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    Cr. Gevinst 70 000
+  </text>
+</svg>

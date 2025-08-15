@@ -1,0 +1,195 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="revenueGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#e8f5e8;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#c8e6c9;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="costGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#fff3e0;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ffe0b2;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="processGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#e3f2fd;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#bbdefb;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#fafafa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1565c0">
+    Strategier for Forbedring av Driftsresultat
+  </text>
+  
+  <!-- Revenue Side -->
+  <rect x="50" y="70" width="320" height="200" fill="url(#revenueGradient)" stroke="#2e7d32" stroke-width="2" rx="10"/>
+  
+  <text x="210" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2e7d32">
+    📈 Inntektsside
+  </text>
+  
+  <!-- Revenue strategies -->
+  <circle cx="80" cy="125" r="5" fill="#4caf50"/>
+  <text x="95" y="130" font-family="Arial, sans-serif" font-size="12" fill="#424242">
+    <tspan font-weight="bold">Prisoptimalisering:</tspan> Justere priser
+  </text>
+  <text x="95" y="145" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    basert på markedsanalyse
+  </text>
+  
+  <circle cx="80" cy="165" r="5" fill="#4caf50"/>
+  <text x="95" y="170" font-family="Arial, sans-serif" font-size="12" fill="#424242">
+    <tspan font-weight="bold">Produktmiks:</tspan> Fokusere på
+  </text>
+  <text x="95" y="185" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    høymarginprodukter
+  </text>
+  
+  <circle cx="80" cy="205" r="5" fill="#4caf50"/>
+  <text x="95" y="210" font-family="Arial, sans-serif" font-size="12" fill="#424242">
+    <tspan font-weight="bold">Markedsutvidelse:</tspan> Nå nye
+  </text>
+  <text x="95" y="225" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    kundesegmenter
+  </text>
+  
+  <circle cx="80" cy="245" r="5" fill="#4caf50"/>
+  <text x="95" y="250" font-family="Arial, sans-serif" font-size="12" fill="#424242">
+    <tspan font-weight="bold">Krysssalg:</tspan> Selge flere produkter
+  </text>
+  <text x="95" y="265" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    til eksisterende kunder
+  </text>
+  
+  <!-- Cost Side -->
+  <rect x="430" y="70" width="320" height="200" fill="url(#costGradient)" stroke="#ff9800" stroke-width="2" rx="10"/>
+  
+  <text x="590" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#e65100">
+    📉 Kostnadsside
+  </text>
+  
+  <!-- Cost strategies -->
+  <circle cx="460" cy="125" r="5" fill="#ff9800"/>
+  <text x="475" y="130" font-family="Arial, sans-serif" font-size="12" fill="#424242">
+    <tspan font-weight="bold">Prosessoptimalisering:</tspan> Effektivisere
+  </text>
+  <text x="475" y="145" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    arbeidsflyt og rutiner
+  </text>
+  
+  <circle cx="460" cy="165" r="5" fill="#ff9800"/>
+  <text x="475" y="170" font-family="Arial, sans-serif" font-size="12" fill="#424242">
+    <tspan font-weight="bold">Automatisering:</tspan> Redusere manuelle
+  </text>
+  <text x="475" y="185" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    prosesser og feilkilder
+  </text>
+  
+  <circle cx="460" cy="205" r="5" fill="#ff9800"/>
+  <text x="475" y="210" font-family="Arial, sans-serif" font-size="12" fill="#424242">
+    <tspan font-weight="bold">Forhandlinger:</tspan> Bedre
+  </text>
+  <text x="475" y="225" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    innkjøpsavtaler med leverandører
+  </text>
+  
+  <circle cx="460" cy="245" r="5" fill="#ff9800"/>
+  <text x="475" y="250" font-family="Arial, sans-serif" font-size="12" fill="#424242">
+    <tspan font-weight="bold">Energieffektivisering:</tspan> Redusere
+  </text>
+  <text x="475" y="265" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    driftskostnader og miljøpåvirkning
+  </text>
+  
+  <!-- Implementation Process -->
+  <rect x="150" y="300" width="500" height="250" fill="url(#processGradient)" stroke="#1976d2" stroke-width="2" rx="10"/>
+  
+  <text x="400" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1565c0">
+    🔄 Implementeringsprosess
+  </text>
+  
+  <!-- Step 1 -->
+  <rect x="170" y="350" width="100" height="80" fill="white" stroke="#1976d2" stroke-width="1" rx="5"/>
+  <text x="220" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1565c0">1. Analyse</text>
+  <text x="220" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#424242">Identifiser</text>
+  <text x="220" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#424242">forbedrings-</text>
+  <text x="220" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#424242">områder</text>
+  
+  <!-- Arrow 1 -->
+  <path d="M 280 390 L 320 390" stroke="#1976d2" stroke-width="2" fill="none" marker-end="url(#arrowhead1)"/>
+  
+  <!-- Step 2 -->
+  <rect x="330" y="350" width="100" height="80" fill="white" stroke="#1976d2" stroke-width="1" rx="5"/>
+  <text x="380" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1565c0">2. Planlegging</text>
+  <text x="380" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#424242">Utvikle</text>
+  <text x="380" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#424242">konkrete</text>
+  <text x="380" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#424242">tiltak</text>
+  
+  <!-- Arrow 2 -->
+  <path d="M 440 390 L 480 390" stroke="#1976d2" stroke-width="2" fill="none" marker-end="url(#arrowhead1)"/>
+  
+  <!-- Step 3 -->
+  <rect x="490" y="350" width="100" height="80" fill="white" stroke="#1976d2" stroke-width="1" rx="5"/>
+  <text x="540" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1565c0">3. Implementering</text>
+  <text x="540" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#424242">Gjennomføre</text>
+  <text x="540" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#424242">endringer</text>
+  <text x="540" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#424242">systematisk</text>
+  
+  <!-- Arrow 3 (curved back) -->
+  <path d="M 540 440 Q 540 470 380 470 Q 220 470 220 440" stroke="#1976d2" stroke-width="2" fill="none" marker-end="url(#arrowhead1)"/>
+  
+  <!-- Step 4 -->
+  <rect x="330" y="480" width="100" height="60" fill="white" stroke="#1976d2" stroke-width="1" rx="5"/>
+  <text x="380" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1565c0">4. Oppfølging</text>
+  <text x="380" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#424242">Måle effekt</text>
+  <text x="380" y="535" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#424242">av tiltak</text>
+  
+  <!-- Key Success Factors -->
+  <rect x="50" y="300" width="80" height="180" fill="#f3e5f5" stroke="#7b1fa2" stroke-width="1" rx="5"/>
+  <text x="90" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#6a1b9a">
+    Suksess-
+  </text>
+  <text x="90" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#6a1b9a">
+    faktorer
+  </text>
+  
+  <text x="60" y="360" font-family="Arial, sans-serif" font-size="9" fill="#424242">• Ledelsesforankring</text>
+  <text x="60" y="375" font-family="Arial, sans-serif" font-size="9" fill="#424242">• Tydelige mål</text>
+  <text x="60" y="390" font-family="Arial, sans-serif" font-size="9" fill="#424242">• Medarbeider-</text>
+  <text x="60" y="405" font-family="Arial, sans-serif" font-size="9" fill="#424242">  involvering</text>
+  <text x="60" y="420" font-family="Arial, sans-serif" font-size="9" fill="#424242">• Kontinuerlig</text>
+  <text x="60" y="435" font-family="Arial, sans-serif" font-size="9" fill="#424242">  forbedring</text>
+  <text x="60" y="450" font-family="Arial, sans-serif" font-size="9" fill="#424242">• Måling og</text>
+  <text x="60" y="465" font-family="Arial, sans-serif" font-size="9" fill="#424242">  oppfølging</text>
+  
+  <!-- Results -->
+  <rect x="670" y="300" width="80" height="180" fill="#e8f5e8" stroke="#4caf50" stroke-width="1" rx="5"/>
+  <text x="710" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2e7d32">
+    Forventede
+  </text>
+  <text x="710" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2e7d32">
+    resultater
+  </text>
+  
+  <text x="680" y="360" font-family="Arial, sans-serif" font-size="9" fill="#424242">• Økt lønnsomhet</text>
+  <text x="680" y="375" font-family="Arial, sans-serif" font-size="9" fill="#424242">• Bedre marginer</text>
+  <text x="680" y="390" font-family="Arial, sans-serif" font-size="9" fill="#424242">• Konkurransefortrinn</text>
+  <text x="680" y="405" font-family="Arial, sans-serif" font-size="9" fill="#424242">• Økt markedsandel</text>
+  <text x="680" y="420" font-family="Arial, sans-serif" font-size="9" fill="#424242">• Bedre kontroll</text>
+  <text x="680" y="435" font-family="Arial, sans-serif" font-size="9" fill="#424242">• Lavere risiko</text>
+  <text x="680" y="450" font-family="Arial, sans-serif" font-size="9" fill="#424242">• Bærekraftig</text>
+  <text x="680" y="465" font-family="Arial, sans-serif" font-size="9" fill="#424242">  vekst</text>
+  
+  <!-- Bottom message -->
+  <rect x="200" y="570" width="400" height="25" fill="#fff3e0" stroke="#ff9800" stroke-width="1" rx="5"/>
+  <text x="400" y="587" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e65100">
+    Kombinér inntekts- og kostnadsstrategier for best resultat
+  </text>
+  
+  <defs>
+    <marker id="arrowhead1" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#1976d2"/>
+    </marker>
+  </defs>
+</svg>

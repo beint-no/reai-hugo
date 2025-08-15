@@ -1,0 +1,155 @@
+<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="500" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+    ERP-systemets Kjernearkitektur
+  </text>
+  
+  <!-- Database layer -->
+  <rect x="300" y="400" width="200" height="60" fill="#34495e" stroke="#2c3e50" stroke-width="2" rx="8"/>
+  <text x="400" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    Sentral Database
+  </text>
+  <text x="400" y="440" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#ecf0f1">
+    Felles datamodell
+  </text>
+  <text x="400" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#ecf0f1">
+    Sanntidsdata
+  </text>
+  
+  <!-- Business Logic Layer -->
+  <rect x="250" y="300" width="300" height="60" fill="#3498db" stroke="#2980b9" stroke-width="2" rx="8"/>
+  <text x="400" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    Forretningslogikk
+  </text>
+  <text x="400" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    Prosessregler og arbeidsflyter
+  </text>
+  <text x="400" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    Integrasjonsmotor
+  </text>
+  
+  <!-- Application Modules -->
+  <rect x="50" y="180" width="120" height="80" fill="#e74c3c" stroke="#c0392b" stroke-width="2" rx="8"/>
+  <text x="110" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    Økonomi
+  </text>
+  <text x="110" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Hovedbok
+  </text>
+  <text x="110" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Debitor/Kreditor
+  </text>
+  <text x="110" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Anleggsmidler
+  </text>
+  
+  <rect x="200" y="180" width="120" height="80" fill="#27ae60" stroke="#229954" stroke-width="2" rx="8"/>
+  <text x="260" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    Salg/CRM
+  </text>
+  <text x="260" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Kundestyring
+  </text>
+  <text x="260" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Ordrebehandling
+  </text>
+  <text x="260" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Fakturering
+  </text>
+  
+  <rect x="350" y="180" width="120" height="80" fill="#f39c12" stroke="#e67e22" stroke-width="2" rx="8"/>
+  <text x="410" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    Produksjon
+  </text>
+  <text x="410" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Planlegging
+  </text>
+  <text x="410" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Lagerstyring
+  </text>
+  <text x="410" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Kvalitetskontroll
+  </text>
+  
+  <rect x="500" y="180" width="120" height="80" fill="#9b59b6" stroke="#8e44ad" stroke-width="2" rx="8"/>
+  <text x="560" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    Personal
+  </text>
+  <text x="560" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Lønnskjøring
+  </text>
+  <text x="560" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Fravær
+  </text>
+  <text x="560" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Kompetanse
+  </text>
+  
+  <rect x="630" y="180" width="120" height="80" fill="#e67e22" stroke="#d35400" stroke-width="2" rx="8"/>
+  <text x="690" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    Innkjøp
+  </text>
+  <text x="690" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Bestillinger
+  </text>
+  <text x="690" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Leverandører
+  </text>
+  <text x="690" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Kontrakter
+  </text>
+  
+  <!-- User Interface Layer -->
+  <rect x="200" y="80" width="400" height="60" fill="#95a5a6" stroke="#7f8c8d" stroke-width="2" rx="8"/>
+  <text x="400" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    Brukergrensesnitt
+  </text>
+  <text x="400" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    Web • Mobile • Desktop • API
+  </text>
+  
+  <!-- Connection lines -->
+  <!-- Modules to Business Logic -->
+  <line x1="110" y1="260" x2="350" y2="300" stroke="#7f8c8d" stroke-width="2"/>
+  <line x1="260" y1="260" x2="380" y2="300" stroke="#7f8c8d" stroke-width="2"/>
+  <line x1="410" y1="260" x2="400" y2="300" stroke="#7f8c8d" stroke-width="2"/>
+  <line x1="560" y1="260" x2="420" y2="300" stroke="#7f8c8d" stroke-width="2"/>
+  <line x1="690" y1="260" x2="450" y2="300" stroke="#7f8c8d" stroke-width="2"/>
+  
+  <!-- Business Logic to Database -->
+  <line x1="400" y1="360" x2="400" y2="400" stroke="#7f8c8d" stroke-width="3"/>
+  
+  <!-- UI to Business Logic -->
+  <line x1="400" y1="140" x2="400" y2="300" stroke="#7f8c8d" stroke-width="3"/>
+  
+  <!-- Data flow arrows -->
+  <polygon points="395,290 400,280 405,290" fill="#7f8c8d"/>
+  <polygon points="395,390 400,380 405,390" fill="#7f8c8d"/>
+  
+  <!-- Integration points -->
+  <circle cx="100" cy="330" r="15" fill="#16a085" stroke="#138d75" stroke-width="2"/>
+  <text x="100" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+    API
+  </text>
+  <text x="100" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+    Eksterne
+  </text>
+  <text x="100" y="368" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+    systemer
+  </text>
+  
+  <circle cx="700" cy="330" r="15" fill="#16a085" stroke="#138d75" stroke-width="2"/>
+  <text x="700" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+    API
+  </text>
+  <text x="700" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+    Tredjeparter
+  </text>
+  
+  <!-- Integration lines -->
+  <line x1="115" y1="330" x2="250" y2="330" stroke="#16a085" stroke-width="2" stroke-dasharray="5,5"/>
+  <line x1="685" y1="330" x2="550" y2="330" stroke="#16a085" stroke-width="2" stroke-dasharray="5,5"/>
+</svg>

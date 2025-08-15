@@ -1,0 +1,125 @@
+<svg width="600" height="450" viewBox="0 0 600 450" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="industryGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#7c2d12;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ea580c;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="600" height="450" fill="#ffffff"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="600" height="50" fill="url(#industryGrad)"/>
+  <text x="300" y="30" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="18" font-weight="bold">Bransjespecifikke Lagerutfordringer</text>
+  
+  <!-- Retail -->
+  <rect x="30" y="70" width="170" height="140" fill="#fef3c7" stroke="#f59e0b" stroke-width="2" rx="8"/>
+  <text x="115" y="95" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="14" font-weight="bold">DETALJHANDEL</text>
+  
+  <!-- Shopping cart icon -->
+  <rect x="100" y="105" width="30" height="20" fill="none" stroke="#f59e0b" stroke-width="2" rx="3"/>
+  <circle cx="108" cy="130" r="3" fill="#f59e0b"/>
+  <circle cx="122" cy="130" r="3" fill="#f59e0b"/>
+  <path d="M95 110 L100 110 L105 115" stroke="#f59e0b" stroke-width="2" fill="none"/>
+  
+  <text x="40" y="145" fill="#92400e" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Utfordringer:</text>
+  <text x="40" y="160" fill="#374151" font-family="Arial, sans-serif" font-size="9">• Høy volum, lav margin</text>
+  <text x="40" y="172" fill="#374151" font-family="Arial, sans-serif" font-size="9">• Sesongvariasjoner</text>
+  <text x="40" y="184" fill="#374151" font-family="Arial, sans-serif" font-size="9">• Kompleks sortimentsstyring</text>
+  <text x="40" y="196" fill="#374151" font-family="Arial, sans-serif" font-size="9">• Hurtig lageromsetning</text>
+  
+  <!-- Manufacturing -->
+  <rect x="215" y="70" width="170" height="140" fill="#dcfce7" stroke="#16a34a" stroke-width="2" rx="8"/>
+  <text x="300" y="95" text-anchor="middle" fill="#15803d" font-family="Arial, sans-serif" font-size="14" font-weight="bold">PRODUKSJON</text>
+  
+  <!-- Factory icon -->
+  <rect x="280" y="105" width="40" height="20" fill="#16a34a" rx="2"/>
+  <rect x="285" y="110" width="8" height="8" fill="white" rx="1"/>
+  <rect x="297" y="110" width="8" height="8" fill="white" rx="1"/>
+  <rect x="309" y="110" width="8" height="8" fill="white" rx="1"/>
+  <polygon points="280,105 300,90 320,105" fill="#15803d"/>
+  
+  <text x="225" y="145" fill="#15803d" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Spesifikke krav:</text>
+  <text x="225" y="160" fill="#374151" font-family="Arial, sans-serif" font-size="9">• Råvarer, VUA, ferdigvarer</text>
+  <text x="225" y="172" fill="#374151" font-family="Arial, sans-serif" font-size="9">• Kompleks kostnadssporing</text>
+  <text x="225" y="184" fill="#374151" font-family="Arial, sans-serif" font-size="9">• Just-in-Time utfordringer</text>
+  <text x="225" y="196" fill="#374151" font-family="Arial, sans-serif" font-size="9">• Kvalitetskontroll</text>
+  
+  <!-- Pharmaceutical -->
+  <rect x="400" y="70" width="170" height="140" fill="#fef2f2" stroke="#ef4444" stroke-width="2" rx="8"/>
+  <text x="485" y="95" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="14" font-weight="bold">LEGEMIDDEL</text>
+  
+  <!-- Medicine bottle icon -->
+  <rect x="475" y="105" width="20" height="25" fill="#ef4444" rx="3"/>
+  <rect x="477" y="107" width="16" height="3" fill="white" rx="1"/>
+  <circle cx="485" cy="115" r="2" fill="white"/>
+  <circle cx="485" cy="120" r="2" fill="white"/>
+  <circle cx="485" cy="125" r="2" fill="white"/>
+  
+  <text x="410" y="145" fill="#dc2626" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Regulatoriske krav:</text>
+  <text x="410" y="160" fill="#374151" font-family="Arial, sans-serif" font-size="9">• GMP-standarder</text>
+  <text x="410" y="172" fill="#374151" font-family="Arial, sans-serif" font-size="9">• Batch-sporing (FEFO)</text>
+  <text x="410" y="184" fill="#374151" font-family="Arial, sans-serif" font-size="9">• Temperaturkontroll</text>
+  <text x="410" y="196" fill="#374151" font-family="Arial, sans-serif" font-size="9">• Tilbaketrakkingsrutiner</text>
+  
+  <!-- E-commerce -->
+  <rect x="30" y="230" width="170" height="140" fill="#e0e7ff" stroke="#6366f1" stroke-width="2" rx="8"/>
+  <text x="115" y="255" text-anchor="middle" fill="#4338ca" font-family="Arial, sans-serif" font-size="14" font-weight="bold">E-HANDEL</text>
+  
+  <!-- Computer/mobile icon -->
+  <rect x="100" y="265" width="30" height="20" fill="#6366f1" rx="3"/>
+  <rect x="105" y="270" width="20" height="10" fill="white" rx="1"/>
+  <circle cx="115" cy="290" r="3" fill="#6366f1"/>
+  
+  <text x="40" y="305" fill="#4338ca" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Omnikanalutfordringer:</text>
+  <text x="40" y="320" fill="#374151" font-family="Arial, sans-serif" font-size="9">• Sentralisert lageroversikt</text>
+  <text x="40" y="332" fill="#374151" font-family="Arial, sans-serif" font-size="9">• Flere oppfyllelseskanaler</text>
+  <text x="40" y="344" fill="#374151" font-family="Arial, sans-serif" font-size="9">• Kompleks returhåndtering</text>
+  <text x="40" y="356" fill="#374151" font-family="Arial, sans-serif" font-size="9">• Sanntids tilgjengelighet</text>
+  
+  <!-- Fashion/Seasonal -->
+  <rect x="215" y="230" width="170" height="140" fill="#fce7f3" stroke="#ec4899" stroke-width="2" rx="8"/>
+  <text x="300" y="255" text-anchor="middle" fill="#be185d" font-family="Arial, sans-serif" font-size="14" font-weight="bold">MOTE/SESONG</text>
+  
+  <!-- Fashion icon -->
+  <rect x="285" y="265" width="30" height="30" fill="none" stroke="#ec4899" stroke-width="2"/>
+  <path d="M290 270 Q300 265 310 270" stroke="#ec4899" stroke-width="2" fill="none"/>
+  <path d="M290 285 L310 285" stroke="#ec4899" stroke-width="2"/>
+  <path d="M295 290 L305 290" stroke="#ec4899" stroke-width="2"/>
+  
+  <text x="225" y="315" fill="#be185d" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Sesongutfordringer:</text>
+  <text x="225" y="330" fill="#374151" font-family="Arial, sans-serif" font-size="9">• Kort produktlivssyklus</text>
+  <text x="225" y="342" fill="#374151" font-family="Arial, sans-serif" font-size="9">• Høy risiko for verdifall</text>
+  <text x="225" y="354" fill="#374151" font-family="Arial, sans-serif" font-size="9">• Kompleks prognostisering</text>
+  <text x="225" y="366" fill="#374151" font-family="Arial, sans-serif" font-size="9">• Clearance-strategier</text>
+  
+  <!-- Technology -->
+  <rect x="400" y="230" width="170" height="140" fill="#f3e8ff" stroke="#a855f7" stroke-width="2" rx="8"/>
+  <text x="485" y="255" text-anchor="middle" fill="#7c3aed" font-family="Arial, sans-serif" font-size="14" font-weight="bold">TEKNOLOGI</text>
+  
+  <!-- Tech device icon -->
+  <rect x="470" y="265" width="30" height="20" fill="#a855f7" rx="3"/>
+  <rect x="475" y="270" width="20" height="10" fill="white" rx="1"/>
+  <circle cx="480" cy="275" r="1" fill="#a855f7"/>
+  <circle cx="485" cy="275" r="1" fill="#a855f7"/>
+  <circle cx="490" cy="275" r="1" fill="#a855f7"/>
+  
+  <text x="410" y="305" fill="#7c3aed" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Teknologiutfordringer:</text>
+  <text x="410" y="320" fill="#374151" font-family="Arial, sans-serif" font-size="9">• Rask teknologisk foreldelse</text>
+  <text x="410" y="332" fill="#374151" font-family="Arial, sans-serif" font-size="9">• Korte produktlivssykler</text>
+  <text x="410" y="344" fill="#374151" font-family="Arial, sans-serif" font-size="9">• Garantikostnader</text>
+  <text x="410" y="356" fill="#374151" font-family="Arial, sans-serif" font-size="9">• Lifecycle-kostnadsstyring</text>
+  
+  <!-- Common Strategies -->
+  <rect x="50" y="390" width="500" height="50" fill="#f0f9ff" stroke="#0ea5e9" stroke-width="2" rx="8"/>
+  <text x="300" y="410" text-anchor="middle" fill="#0c4a6e" font-family="Arial, sans-serif" font-size="14" font-weight="bold">FELLES STRATEGIER FOR ALLE BRANSJER</text>
+  <text x="70" y="428" fill="#0c4a6e" font-family="Arial, sans-serif" font-size="11">• Digitalisering og automatisering</text>
+  <text x="250" y="428" fill="#0c4a6e" font-family="Arial, sans-serif" font-size="11">• Dataanalyse og AI</text>
+  <text x="400" y="428" fill="#0c4a6e" font-family="Arial, sans-serif" font-size="11">• Bærekraftige løsninger</text>
+  
+  <!-- Connection lines -->
+  <path d="M115 215 L250 395" stroke="#0ea5e9" stroke-width="1" stroke-dasharray="3,3"/>
+  <path d="M300 375 L300 395" stroke="#0ea5e9" stroke-width="1" stroke-dasharray="3,3"/>
+  <path d="M485 375 L350 395" stroke="#0ea5e9" stroke-width="1" stroke-dasharray="3,3"/>
+</svg>

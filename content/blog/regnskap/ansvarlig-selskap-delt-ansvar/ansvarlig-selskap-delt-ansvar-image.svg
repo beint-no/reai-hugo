@@ -1,0 +1,78 @@
+<svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="400" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#2c3e50">
+    Ansvarlig Selskap og Delt Ansvar
+  </text>
+  
+  <!-- Main illustration showing shared responsibility concept -->
+  <!-- Company circle in center -->
+  <circle cx="400" cy="200" r="80" fill="#3498db" stroke="#2980b9" stroke-width="3"/>
+  <text x="400" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    Ansvarlig
+  </text>
+  <text x="400" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    Selskap
+  </text>
+  
+  <!-- Partner 1 -->
+  <circle cx="250" cy="150" r="50" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+  <text x="250" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    Deltaker
+  </text>
+  <text x="250" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    1
+  </text>
+  
+  <!-- Partner 2 -->
+  <circle cx="550" cy="150" r="50" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+  <text x="550" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    Deltaker
+  </text>
+  <text x="550" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    2
+  </text>
+  
+  <!-- Partner 3 -->
+  <circle cx="400" cy="320" r="50" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+  <text x="400" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    Deltaker
+  </text>
+  <text x="400" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    3
+  </text>
+  
+  <!-- Connection lines showing shared responsibility -->
+  <line x1="300" y1="170" x2="350" y2="180" stroke="#34495e" stroke-width="3" stroke-dasharray="5,5"/>
+  <line x1="500" y1="170" x2="450" y2="180" stroke="#34495e" stroke-width="3" stroke-dasharray="5,5"/>
+  <line x1="400" y1="270" x2="400" y2="280" stroke="#34495e" stroke-width="3" stroke-dasharray="5,5"/>
+  
+  <!-- Responsibility arrows -->
+  <path d="M 200 100 L 250 120 L 240 115 M 250 120 L 240 125" stroke="#e67e22" stroke-width="2" fill="none"/>
+  <text x="150" y="95" font-family="Arial, sans-serif" font-size="12" fill="#e67e22" font-weight="bold">
+    Ubegrenset ansvar
+  </text>
+  
+  <path d="M 600 100 L 550 120 L 560 115 M 550 120 L 560 125" stroke="#e67e22" stroke-width="2" fill="none"/>
+  <text x="610" y="95" font-family="Arial, sans-serif" font-size="12" fill="#e67e22" font-weight="bold">
+    Solidarisk ansvar
+  </text>
+  
+  <!-- Debt/liability representation -->
+  <rect x="320" y="60" width="160" height="30" fill="#f39c12" stroke="#e67e22" stroke-width="2" rx="5"/>
+  <text x="400" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    Selskapets gjeld
+  </text>
+  
+  <!-- Warning symbol -->
+  <polygon points="70,350 90,320 110,350" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+  <text x="90" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">!</text>
+  <text x="130" y="340" font-family="Arial, sans-serif" font-size="12" fill="#e74c3c" font-weight="bold">
+    Hver deltaker kan holdes
+  </text>
+  <text x="130" y="355" font-family="Arial, sans-serif" font-size="12" fill="#e74c3c" font-weight="bold">
+    ansvarlig for hele gjelden
+  </text>
+</svg>

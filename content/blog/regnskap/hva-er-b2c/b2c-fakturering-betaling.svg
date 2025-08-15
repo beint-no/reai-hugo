@@ -1,0 +1,134 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" font-size="24" font-weight="bold" text-anchor="middle" fill="#2c3e50">B2C Fakturering og Betalingsprosess</text>
+  
+  <!-- Invoice types -->
+  <text x="400" y="65" font-size="18" font-weight="bold" text-anchor="middle" fill="#2c3e50">Fakturakrav basert på beløp</text>
+  
+  <!-- Simplified invoice -->
+  <rect x="50" y="80" width="300" height="140" fill="#2ecc71" rx="10"/>
+  <text x="200" y="105" font-size="14" font-weight="bold" text-anchor="middle" fill="white">Forenklet Faktura</text>
+  <text x="200" y="125" font-size="12" text-anchor="middle" fill="white">Under 5.000 NOK</text>
+  <text x="200" y="150" font-size="10" text-anchor="middle" fill="white">Obligatoriske felter:</text>
+  <text x="200" y="165" font-size="10" text-anchor="middle" fill="white">• Utstedelsesdato</text>
+  <text x="200" y="180" font-size="10" text-anchor="middle" fill="white">• Selgers navn og org.nr</text>
+  <text x="200" y="195" font-size="10" text-anchor="middle" fill="white">• Beskrivelse av vare/tjeneste</text>
+  <text x="200" y="210" font-size="10" text-anchor="middle" fill="white">• Totalt vederlag inkl. MVA</text>
+  
+  <!-- Full invoice -->
+  <rect x="370" y="80" width="300" height="140" fill="#3498db" rx="10"/>
+  <text x="520" y="105" font-size="14" font-weight="bold" text-anchor="middle" fill="white">Vanlig Faktura</text>
+  <text x="520" y="125" font-size="12" text-anchor="middle" fill="white">Over 5.000 NOK</text>
+  <text x="520" y="150" font-size="10" text-anchor="middle" fill="white">Tilleggskrav:</text>
+  <text x="520" y="165" font-size="10" text-anchor="middle" fill="white">• Løpende fakturanummer</text>
+  <text x="520" y="180" font-size="10" text-anchor="middle" fill="white">• Kundens navn og adresse</text>
+  <text x="520" y="195" font-size="10" text-anchor="middle" fill="white">• Leveringsdato</text>
+  <text x="520" y="210" font-size="10" text-anchor="middle" fill="white">• Detaljert varespecifikasjon</text>
+  
+  <!-- Payment methods comparison -->
+  <text x="400" y="260" font-size="18" font-weight="bold" text-anchor="middle" fill="#2c3e50">Betalingsmetoder - Sammenligning</text>
+  
+  <!-- Payment methods table -->
+  <rect x="50" y="280" width="700" height="200" fill="#ecf0f1" rx="10"/>
+  
+  <!-- Header -->
+  <rect x="60" y="290" width="100" height="30" fill="#34495e"/>
+  <text x="110" y="310" font-size="10" font-weight="bold" text-anchor="middle" fill="white">Betalingsmetode</text>
+  
+  <rect x="160" y="290" width="100" height="30" fill="#34495e"/>
+  <text x="210" y="310" font-size="10" font-weight="bold" text-anchor="middle" fill="white">Markedsandel</text>
+  
+  <rect x="260" y="290" width="120" height="30" fill="#34495e"/>
+  <text x="320" y="310" font-size="10" font-weight="bold" text-anchor="middle" fill="white">Gebyr/Kostnad</text>
+  
+  <rect x="380" y="290" width="120" height="30" fill="#34495e"/>
+  <text x="440" y="310" font-size="10" font-weight="bold" text-anchor="middle" fill="white">Oppgjørstid</text>
+  
+  <rect x="500" y="290" width="120" height="30" fill="#34495e"/>
+  <text x="560" y="310" font-size="10" font-weight="bold" text-anchor="middle" fill="white">Risiko</text>
+  
+  <rect x="620" y="290" width="120" height="30" fill="#34495e"/>
+  <text x="680" y="310" font-size="10" font-weight="bold" text-anchor="middle" fill="white">Regnskapsmessig</text>
+  
+  <!-- Kortbetaling -->
+  <rect x="60" y="320" width="100" height="25" fill="#3498db"/>
+  <text x="110" y="337" font-size="9" font-weight="bold" text-anchor="middle" fill="white">Kortbetaling</text>
+  <text x="210" y="337" font-size="9" text-anchor="middle" fill="#2c3e50">60-70%</text>
+  <text x="320" y="337" font-size="9" text-anchor="middle" fill="#2c3e50">1-3% + fast gebyr</text>
+  <text x="440" y="337" font-size="9" text-anchor="middle" fill="#2c3e50">T+2 dager</text>
+  <text x="560" y="337" font-size="9" text-anchor="middle" fill="#2c3e50">Chargeback</text>
+  <text x="680" y="337" font-size="9" text-anchor="middle" fill="#2c3e50">Automatisk</text>
+  
+  <!-- Vipps -->
+  <rect x="60" y="345" width="100" height="25" fill="#ff6b35"/>
+  <text x="110" y="362" font-size="9" font-weight="bold" text-anchor="middle" fill="white">Vipps</text>
+  <text x="210" y="362" font-size="9" text-anchor="middle" fill="#2c3e50">20-25%</text>
+  <text x="320" y="362" font-size="9" text-anchor="middle" fill="#2c3e50">1-2% + fast gebyr</text>
+  <text x="440" y="362" font-size="9" text-anchor="middle" fill="#2c3e50">Umiddelbart</text>
+  <text x="560" y="362" font-size="9" text-anchor="middle" fill="#2c3e50">Svært lav</text>
+  <text x="680" y="362" font-size="9" text-anchor="middle" fill="#2c3e50">Automatisk</text>
+  
+  <!-- Klarna -->
+  <rect x="60" y="370" width="100" height="25" fill="#ffb142"/>
+  <text x="110" y="387" font-size="9" font-weight="bold" text-anchor="middle" fill="white">Klarna</text>
+  <text x="210" y="387" font-size="9" text-anchor="middle" fill="#2c3e50">10-15%</text>
+  <text x="320" y="387" font-size="9" text-anchor="middle" fill="#2c3e50">2-5% + fast gebyr</text>
+  <text x="440" y="387" font-size="9" text-anchor="middle" fill="#2c3e50">T+1 dag</text>
+  <text x="560" y="387" font-size="9" text-anchor="middle" fill="#2c3e50">Kredittrisiko</text>
+  <text x="680" y="387" font-size="9" text-anchor="middle" fill="#2c3e50">Garantert</text>
+  
+  <!-- Faktura -->
+  <rect x="60" y="395" width="100" height="25" fill="#2ecc71"/>
+  <text x="110" y="412" font-size="9" font-weight="bold" text-anchor="middle" fill="white">Faktura</text>
+  <text x="210" y="412" font-size="9" text-anchor="middle" fill="#2c3e50">5-10%</text>
+  <text x="320" y="412" font-size="9" text-anchor="middle" fill="#2c3e50">Admin + inkasso</text>
+  <text x="440" y="412" font-size="9" text-anchor="middle" fill="#2c3e50">14-30 dager</text>
+  <text x="560" y="412" font-size="9" text-anchor="middle" fill="#2c3e50">Høy kredittrisiko</text>
+  <text x="680" y="412" font-size="9" text-anchor="middle" fill="#2c3e50">Fordringshåndtering</text>
+  
+  <!-- PayPal -->
+  <rect x="60" y="420" width="100" height="25" fill="#0070ba"/>
+  <text x="110" y="437" font-size="9" font-weight="bold" text-anchor="middle" fill="white">PayPal</text>
+  <text x="210" y="437" font-size="9" text-anchor="middle" fill="#2c3e50">2-3%</text>
+  <text x="320" y="437" font-size="9" text-anchor="middle" fill="#2c3e50">2.9% + fast gebyr</text>
+  <text x="440" y="437" font-size="9" text-anchor="middle" fill="#2c3e50">Umiddelbart</text>
+  <text x="560" y="437" font-size="9" text-anchor="middle" fill="#2c3e50">Kjøperbeskyttelse</text>
+  <text x="680" y="437" font-size="9" text-anchor="middle" fill="#2c3e50">Valutarisiko</text>
+  
+  <!-- Kontant -->
+  <rect x="60" y="445" width="100" height="25" fill="#95a5a6"/>
+  <text x="110" y="462" font-size="9" font-weight="bold" text-anchor="middle" fill="white">Kontant</text>
+  <text x="210" y="462" font-size="9" text-anchor="middle" fill="#2c3e50">1-2%</text>
+  <text x="320" y="462" font-size="9" text-anchor="middle" fill="#2c3e50">Ingen gebyr</text>
+  <text x="440" y="462" font-size="9" text-anchor="middle" fill="#2c3e50">Umiddelbart</text>
+  <text x="560" y="462" font-size="9" text-anchor="middle" fill="#2c3e50">Tyveri, feil</text>
+  <text x="680" y="462" font-size="9" text-anchor="middle" fill="#2c3e50">Manuell håndtering</text>
+  
+  <!-- Electronic invoice process -->
+  <text x="400" y="520" font-size="18" font-weight="bold" text-anchor="middle" fill="#2c3e50">Elektronisk Fakturering (EHF/eFaktura)</text>
+  
+  <!-- EHF process -->
+  <rect x="50" y="540" width="150" height="50" fill="#9b59b6" rx="5"/>
+  <text x="125" y="560" font-size="10" font-weight="bold" text-anchor="middle" fill="white">1. Faktura sendes</text>
+  <text x="125" y="575" font-size="9" text-anchor="middle" fill="white">EHF-format til PEPPOL</text>
+  
+  <rect x="220" y="540" width="150" height="50" fill="#9b59b6" rx="5"/>
+  <text x="295" y="560" font-size="10" font-weight="bold" text-anchor="middle" fill="white">2. Mottak i nettbank</text>
+  <text x="295" y="575" font-size="9" text-anchor="middle" fill="white">Kunde ser faktura digitalt</text>
+  
+  <rect x="390" y="540" width="150" height="50" fill="#9b59b6" rx="5"/>
+  <text x="465" y="560" font-size="10" font-weight="bold" text-anchor="middle" fill="white">3. Automatisk betaling</text>
+  <text x="465" y="575" font-size="9" text-anchor="middle" fill="white">Kan settes opp eFaktura</text>
+  
+  <rect x="560" y="540" width="150" height="50" fill="#9b59b6" rx="5"/>
+  <text x="635" y="560" font-size="10" font-weight="bold" text-anchor="middle" fill="white">4. Avstemming</text>
+  <text x="635" y="575" font-size="9" text-anchor="middle" fill="white">Automatisk registrering</text>
+  
+  <!-- Arrows -->
+  <polygon points="205,565 215,560 215,570" fill="#2c3e50"/>
+  <polygon points="375,565 385,560 385,570" fill="#2c3e50"/>
+  <polygon points="545,565 555,560 555,570" fill="#2c3e50"/>
+</svg>

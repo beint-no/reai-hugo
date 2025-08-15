@@ -1,0 +1,151 @@
+<svg width="800" height="700" viewBox="0 0 800 700" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="700" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#2c3e50">Kategorisering av Betalingstjenester for Regnskapsføring</text>
+  
+  <!-- Traditional Banking Category -->
+  <g transform="translate(50, 70)">
+    <rect x="0" y="0" width="320" height="250" rx="8" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2"/>
+    <rect x="10" y="10" width="300" height="40" rx="5" fill="#3498db"/>
+    <text x="160" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">Tradisjonelle Banktjenester</text>
+    
+    <!-- BankGiro -->
+    <rect x="20" y="65" width="130" height="80" rx="5" fill="#2980b9" stroke="#1f4e79" stroke-width="1"/>
+    <text x="85" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">BankGiro</text>
+    <text x="25" y="100" font-family="Arial, sans-serif" font-size="10" fill="white">• OCR-nummer</text>
+    <text x="25" y="115" font-family="Arial, sans-serif" font-size="10" fill="white">• KID-referanse</text>
+    <text x="25" y="130" font-family="Arial, sans-serif" font-size="10" fill="white">• Tradisjonell</text>
+    
+    <!-- AvtaleGiro -->
+    <rect x="170" y="65" width="130" height="80" rx="5" fill="#2980b9" stroke="#1f4e79" stroke-width="1"/>
+    <text x="235" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">AvtaleGiro</text>
+    <text x="175" y="100" font-family="Arial, sans-serif" font-size="10" fill="white">• Automatisk trekk</text>
+    <text x="175" y="115" font-family="Arial, sans-serif" font-size="10" fill="white">• Forhåndsgodkjent</text>
+    <text x="175" y="130" font-family="Arial, sans-serif" font-size="10" fill="white">• Faste utgifter</text>
+    
+    <!-- SWIFT -->
+    <rect x="20" y="155" width="130" height="80" rx="5" fill="#2980b9" stroke="#1f4e79" stroke-width="1"/>
+    <text x="85" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">SWIFT</text>
+    <text x="25" y="190" font-family="Arial, sans-serif" font-size="10" fill="white">• Internasjonalt</text>
+    <text x="25" y="205" font-family="Arial, sans-serif" font-size="10" fill="white">• Høye kostnader</text>
+    <text x="25" y="220" font-family="Arial, sans-serif" font-size="10" fill="white">• Lang behandling</text>
+    
+    <!-- Cash Handling -->
+    <rect x="170" y="155" width="130" height="80" rx="5" fill="#2980b9" stroke="#1f4e79" stroke-width="1"/>
+    <text x="235" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Kontant</text>
+    <text x="175" y="190" font-family="Arial, sans-serif" font-size="10" fill="white">• Umiddelbar</text>
+    <text x="175" y="205" font-family="Arial, sans-serif" font-size="10" fill="white">• Høy risiko</text>
+    <text x="175" y="220" font-family="Arial, sans-serif" font-size="10" fill="white">• Manuell håndtering</text>
+  </g>
+  
+  <!-- PSD2 Regulated Category -->
+  <g transform="translate(430, 70)">
+    <rect x="0" y="0" width="320" height="250" rx="8" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2"/>
+    <rect x="10" y="10" width="300" height="40" rx="5" fill="#27ae60"/>
+    <text x="160" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">PSD2-regulerte Tjenester</text>
+    
+    <!-- PIS -->
+    <rect x="20" y="65" width="130" height="80" rx="5" fill="#229954" stroke="#196f3d" stroke-width="1"/>
+    <text x="85" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">PIS</text>
+    <text x="25" y="100" font-family="Arial, sans-serif" font-size="10" fill="white">• Betalingsinitiering</text>
+    <text x="25" y="115" font-family="Arial, sans-serif" font-size="10" fill="white">• API-basert</text>
+    <text x="25" y="130" font-family="Arial, sans-serif" font-size="10" fill="white">• Sanntid</text>
+    
+    <!-- AIS -->
+    <rect x="170" y="65" width="130" height="80" rx="5" fill="#229954" stroke="#196f3d" stroke-width="1"/>
+    <text x="235" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">AIS</text>
+    <text x="175" y="100" font-family="Arial, sans-serif" font-size="10" fill="white">• Kontoinformasjon</text>
+    <text x="175" y="115" font-family="Arial, sans-serif" font-size="10" fill="white">• Agregering</text>
+    <text x="175" y="130" font-family="Arial, sans-serif" font-size="10" fill="white">• Tilgangstyring</text>
+    
+    <!-- Open Banking -->
+    <rect x="20" y="155" width="130" height="80" rx="5" fill="#229954" stroke="#196f3d" stroke-width="1"/>
+    <text x="85" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Open Banking</text>
+    <text x="25" y="190" font-family="Arial, sans-serif" font-size="10" fill="white">• Tredjepartstilgang</text>
+    <text x="25" y="205" font-family="Arial, sans-serif" font-size="10" fill="white">• Innovasjon</text>
+    <text x="25" y="220" font-family="Arial, sans-serif" font-size="10" fill="white">• Konkurranse</text>
+    
+    <!-- TPP Services -->
+    <rect x="170" y="155" width="130" height="80" rx="5" fill="#229954" stroke="#196f3d" stroke-width="1"/>
+    <text x="235" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">TPP-tjenester</text>
+    <text x="175" y="190" font-family="Arial, sans-serif" font-size="10" fill="white">• Lisensierte</text>
+    <text x="175" y="205" font-family="Arial, sans-serif" font-size="10" fill="white">• Regulerte</text>
+    <text x="175" y="220" font-family="Arial, sans-serif" font-size="10" fill="white">• Sikre</text>
+  </g>
+  
+  <!-- Mobile/Digital Category -->
+  <g transform="translate(50, 360)">
+    <rect x="0" y="0" width="320" height="250" rx="8" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2"/>
+    <rect x="10" y="10" width="300" height="40" rx="5" fill="#e74c3c"/>
+    <text x="160" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">Mobile og Digitale Løsninger</text>
+    
+    <!-- Vipps -->
+    <rect x="20" y="65" width="130" height="80" rx="5" fill="#c0392b" stroke="#922b21" stroke-width="1"/>
+    <text x="85" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Vipps</text>
+    <text x="25" y="100" font-family="Arial, sans-serif" font-size="10" fill="white">• Norsk standard</text>
+    <text x="25" y="115" font-family="Arial, sans-serif" font-size="10" fill="white">• Umiddelbar</text>
+    <text x="25" y="130" font-family="Arial, sans-serif" font-size="10" fill="white">• P2P og B2C</text>
+    
+    <!-- Digital Wallets -->
+    <rect x="170" y="65" width="130" height="80" rx="5" fill="#c0392b" stroke="#922b21" stroke-width="1"/>
+    <text x="235" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Digitale</text>
+    <text x="235" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Lommebøker</text>
+    <text x="175" y="115" font-family="Arial, sans-serif" font-size="10" fill="white">• Apple Pay</text>
+    <text x="175" y="130" font-family="Arial, sans-serif" font-size="10" fill="white">• Google Pay</text>
+    
+    <!-- QR Payments -->
+    <rect x="20" y="155" width="130" height="80" rx="5" fill="#c0392b" stroke="#922b21" stroke-width="1"/>
+    <text x="85" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">QR-betalinger</text>
+    <text x="25" y="190" font-family="Arial, sans-serif" font-size="10" fill="white">• Kontaktløs</text>
+    <text x="25" y="205" font-family="Arial, sans-serif" font-size="10" fill="white">• Detaljhandel</text>
+    <text x="25" y="220" font-family="Arial, sans-serif" font-size="10" fill="white">• Lavkost</text>
+    
+    <!-- Mobile BankID -->
+    <rect x="170" y="155" width="130" height="80" rx="5" fill="#c0392b" stroke="#922b21" stroke-width="1"/>
+    <text x="235" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Mobile BankID</text>
+    <text x="175" y="190" font-family="Arial, sans-serif" font-size="10" fill="white">• Sterk autentisering</text>
+    <text x="175" y="205" font-family="Arial, sans-serif" font-size="10" fill="white">• Høy sikkerhet</text>
+    <text x="175" y="220" font-family="Arial, sans-serif" font-size="10" fill="white">• Norsk standard</text>
+  </g>
+  
+  <!-- Card-based Category -->
+  <g transform="translate(430, 360)">
+    <rect x="0" y="0" width="320" height="250" rx="8" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2"/>
+    <rect x="10" y="10" width="300" height="40" rx="5" fill="#f39c12"/>
+    <text x="160" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">Kortbaserte Betalinger</text>
+    
+    <!-- Debit Cards -->
+    <rect x="20" y="65" width="130" height="80" rx="5" fill="#e67e22" stroke="#d35400" stroke-width="1"/>
+    <text x="85" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Debetkort</text>
+    <text x="25" y="100" font-family="Arial, sans-serif" font-size="10" fill="white">• Umiddelbar belast.</text>
+    <text x="25" y="115" font-family="Arial, sans-serif" font-size="10" fill="white">• Lave gebyrer</text>
+    <text x="25" y="130" font-family="Arial, sans-serif" font-size="10" fill="white">• Kontantsalg</text>
+    
+    <!-- Credit Cards -->
+    <rect x="170" y="65" width="130" height="80" rx="5" fill="#e67e22" stroke="#d35400" stroke-width="1"/>
+    <text x="235" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Kredittkort</text>
+    <text x="175" y="100" font-family="Arial, sans-serif" font-size="10" fill="white">• Forsinket oppgjør</text>
+    <text x="175" y="115" font-family="Arial, sans-serif" font-size="10" fill="white">• Høyere gebyrer</text>
+    <text x="175" y="130" font-family="Arial, sans-serif" font-size="10" fill="white">• Chargeback-risiko</text>
+    
+    <!-- Corporate Cards -->
+    <rect x="20" y="155" width="130" height="80" rx="5" fill="#e67e22" stroke="#d35400" stroke-width="1"/>
+    <text x="85" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Firmakort</text>
+    <text x="25" y="190" font-family="Arial, sans-serif" font-size="10" fill="white">• Utgiftskontroll</text>
+    <text x="25" y="205" font-family="Arial, sans-serif" font-size="10" fill="white">• Ansattutlegg</text>
+    <text x="25" y="220" font-family="Arial, sans-serif" font-size="10" fill="white">• Rapportering</text>
+    
+    <!-- Contactless -->
+    <rect x="170" y="155" width="130" height="80" rx="5" fill="#e67e22" stroke="#d35400" stroke-width="1"/>
+    <text x="235" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Kontaktløs</text>
+    <text x="175" y="190" font-family="Arial, sans-serif" font-size="10" fill="white">• NFC-teknologi</text>
+    <text x="175" y="205" font-family="Arial, sans-serif" font-size="10" fill="white">• Rask behandling</text>
+    <text x="175" y="220" font-family="Arial, sans-serif" font-size="10" fill="white">• Økt sikkerhet</text>
+  </g>
+  
+  <!-- Regnskapsmessige Konsekvenser -->
+  <rect x="50" y="640" width="700" height="50" rx="8" fill="#9b59b6" stroke="#8e44ad" stroke-width="2"/>
+  <text x="400" y="660" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Regnskapsmessige Konsekvenser og Bokføringskrav</text>
+  <text x="400" y="680" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">Alle kategorier krever spesifikk kontering, dokumentasjon og avstemming i henhold til bokføringsloven</text>
+</svg>

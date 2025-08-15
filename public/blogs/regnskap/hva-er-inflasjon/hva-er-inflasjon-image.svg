@@ -1,0 +1,116 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#2c3e50">Hva er Inflasjon?</text>
+  
+  <!-- Main concept illustration -->
+  <g transform="translate(50, 100)">
+    <!-- Price increase arrows -->
+    <g>
+      <rect x="50" y="50" width="120" height="80" fill="#e74c3c" rx="10"/>
+      <text x="110" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Priser</text>
+      <text x="110" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Stiger</text>
+      
+      <!-- Up arrow -->
+      <path d="M110 30 L120 10 L100 10 Z" fill="#e74c3c"/>
+      <rect x="105" y="10" width="10" height="20" fill="#e74c3c"/>
+    </g>
+    
+    <!-- Money value decrease -->
+    <g transform="translate(250, 0)">
+      <rect x="50" y="50" width="120" height="80" fill="#3498db" rx="10"/>
+      <text x="110" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Kjøpekraft</text>
+      <text x="110" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Synker</text>
+      
+      <!-- Down arrow -->
+      <path d="M110 150 L120 170 L100 170 Z" fill="#3498db"/>
+      <rect x="105" y="130" width="10" height="20" fill="#3498db"/>
+    </g>
+    
+    <!-- Equals sign -->
+    <g transform="translate(450, 0)">
+      <rect x="50" y="70" width="30" height="6" fill="#34495e"/>
+      <rect x="50" y="90" width="30" height="6" fill="#34495e"/>
+      <text x="95" y="95" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#34495e">=</text>
+    </g>
+    
+    <!-- Inflation result -->
+    <g transform="translate(550, 0)">
+      <rect x="50" y="50" width="120" height="80" fill="#f39c12" rx="10"/>
+      <text x="110" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">INFLASJON</text>
+      <text x="110" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Generell prisstigning</text>
+    </g>
+  </g>
+  
+  <!-- Example illustration -->
+  <g transform="translate(100, 250)">
+    <text x="300" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">Praktisk Eksempel</text>
+    
+    <!-- Year 2020 -->
+    <g>
+      <text x="50" y="60" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#34495e">2020:</text>
+      <rect x="100" y="40" width="80" height="40" fill="#27ae60" rx="5"/>
+      <text x="140" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">100 kr</text>
+      
+      <text x="200" y="65" font-family="Arial, sans-serif" font-size="14" fill="#34495e">kjøper</text>
+      
+      <!-- Bread icon -->
+      <ellipse cx="280" cy="60" rx="25" ry="15" fill="#d4a574"/>
+      <text x="280" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#8b4513">Brød</text>
+      
+      <text x="320" y="65" font-family="Arial, sans-serif" font-size="14" fill="#34495e">+ kaffe + melk</text>
+    </g>
+    
+    <!-- Arrow down -->
+    <path d="M300 100 L310 120 L290 120 Z" fill="#e74c3c"/>
+    <rect x="295" y="90" width="10" height="20" fill="#e74c3c"/>
+    <text x="330" y="110" font-family="Arial, sans-serif" font-size="12" fill="#e74c3c">3% inflasjon</text>
+    
+    <!-- Year 2023 -->
+    <g transform="translate(0, 80)">
+      <text x="50" y="60" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#34495e">2023:</text>
+      <rect x="100" y="40" width="80" height="40" fill="#27ae60" rx="5"/>
+      <text x="140" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">100 kr</text>
+      
+      <text x="200" y="65" font-family="Arial, sans-serif" font-size="14" fill="#34495e">kjøper</text>
+      
+      <!-- Less bread icon -->
+      <ellipse cx="280" cy="60" rx="20" ry="12" fill="#d4a574"/>
+      <text x="280" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#8b4513">Brød</text>
+      
+      <text x="320" y="65" font-family="Arial, sans-serif" font-size="14" fill="#e74c3c">+ kaffe</text>
+      <text x="380" y="65" font-family="Arial, sans-serif" font-size="12" fill="#e74c3c">(mindre)</text>
+    </g>
+  </g>
+  
+  <!-- Key metrics -->
+  <g transform="translate(50, 450)">
+    <text x="350" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">Nøkkeltall for Inflasjon</text>
+    
+    <!-- KPI -->
+    <g>
+      <rect x="50" y="40" width="150" height="60" fill="#9b59b6" rx="8"/>
+      <text x="125" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Konsumprisindeks</text>
+      <text x="125" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">(KPI)</text>
+      <text x="125" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Hovedmål</text>
+    </g>
+    
+    <!-- Target -->
+    <g transform="translate(200, 0)">
+      <rect x="50" y="40" width="150" height="60" fill="#e67e22" rx="8"/>
+      <text x="125" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Norges Bank</text>
+      <text x="125" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Inflasjonsmål</text>
+      <text x="125" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">2% årlig</text>
+    </g>
+    
+    <!-- Impact -->
+    <g transform="translate(400, 0)">
+      <rect x="50" y="40" width="150" height="60" fill="#1abc9c" rx="8"/>
+      <text x="125" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Påvirker</text>
+      <text x="125" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Regnskap &amp;</text>
+      <text x="125" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Investeringer</text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,127 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1e40af;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="#ffffff"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="60" fill="url(#headerGrad)"/>
+  <text x="400" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="22" font-weight="bold">Bokføringsplikt etter Virksomhetstype</text>
+  
+  <!-- Aksjeselskap -->
+  <g transform="translate(50, 80)">
+    <rect x="0" y="0" width="150" height="100" fill="#dcfce7" stroke="#16a34a" stroke-width="2" rx="8"/>
+    <circle cx="20" cy="20" r="8" fill="#16a34a"/>
+    <text x="35" y="25" fill="#16a34a" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Aksjeselskap</text>
+    <text x="10" y="45" fill="#374151" font-family="Arial, sans-serif" font-size="11">✓ Bokføringsplikt: JA</text>
+    <text x="10" y="60" fill="#374151" font-family="Arial, sans-serif" font-size="11">✓ Fullstendig bokføring</text>
+    <text x="10" y="75" fill="#374151" font-family="Arial, sans-serif" font-size="11">✓ Revisjonsplikt</text>
+    <text x="10" y="90" fill="#374151" font-family="Arial, sans-serif" font-size="11">✓ Årsregnskap</text>
+  </g>
+  
+  <!-- Enkeltpersonforetak -->
+  <g transform="translate(220, 80)">
+    <rect x="0" y="0" width="150" height="100" fill="#fef3c7" stroke="#f59e0b" stroke-width="2" rx="8"/>
+    <circle cx="20" cy="20" r="8" fill="#f59e0b"/>
+    <text x="35" y="25" fill="#f59e0b" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Enkeltpersonforetak</text>
+    <text x="10" y="45" fill="#374151" font-family="Arial, sans-serif" font-size="11">? Over 5G omsetning</text>
+    <text x="10" y="60" fill="#374151" font-family="Arial, sans-serif" font-size="11">✓ Forenklet mulig</text>
+    <text x="10" y="75" fill="#374151" font-family="Arial, sans-serif" font-size="11">- Ingen revisjonsplikt</text>
+    <text x="10" y="90" fill="#374151" font-family="Arial, sans-serif" font-size="11">✓ Næringsoppgave</text>
+  </g>
+  
+  <!-- Ansvarlig selskap -->
+  <g transform="translate(390, 80)">
+    <rect x="0" y="0" width="150" height="100" fill="#dcfce7" stroke="#16a34a" stroke-width="2" rx="8"/>
+    <circle cx="20" cy="20" r="8" fill="#16a34a"/>
+    <text x="35" y="25" fill="#16a34a" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Ansvarlig selskap</text>
+    <text x="10" y="45" fill="#374151" font-family="Arial, sans-serif" font-size="11">✓ Bokføringsplikt: JA</text>
+    <text x="10" y="60" fill="#374151" font-family="Arial, sans-serif" font-size="11">✓ Fullstendig bokføring</text>
+    <text x="10" y="75" fill="#374151" font-family="Arial, sans-serif" font-size="11">✓ Revisjonsplikt</text>
+    <text x="10" y="90" fill="#374151" font-family="Arial, sans-serif" font-size="11">✓ Årsregnskap</text>
+  </g>
+  
+  <!-- Kommandittselskap -->
+  <g transform="translate(560, 80)">
+    <rect x="0" y="0" width="150" height="100" fill="#dcfce7" stroke="#16a34a" stroke-width="2" rx="8"/>
+    <circle cx="20" cy="20" r="8" fill="#16a34a"/>
+    <text x="35" y="25" fill="#16a34a" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Kommandittselskap</text>
+    <text x="10" y="45" fill="#374151" font-family="Arial, sans-serif" font-size="11">✓ Bokføringsplikt: JA</text>
+    <text x="10" y="60" fill="#374151" font-family="Arial, sans-serif" font-size="11">✓ Fullstendig bokføring</text>
+    <text x="10" y="75" fill="#374151" font-family="Arial, sans-serif" font-size="11">✓ Revisjonsplikt</text>
+    <text x="10" y="90" fill="#374151" font-family="Arial, sans-serif" font-size="11">✓ Årsregnskap</text>
+  </g>
+  
+  <!-- Stiftelser -->
+  <g transform="translate(50, 200)">
+    <rect x="0" y="0" width="150" height="100" fill="#e0e7ff" stroke="#6366f1" stroke-width="2" rx="8"/>
+    <circle cx="20" cy="20" r="8" fill="#6366f1"/>
+    <text x="35" y="25" fill="#6366f1" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Stiftelser</text>
+    <text x="10" y="45" fill="#374151" font-family="Arial, sans-serif" font-size="11">✓ Bokføringsplikt: JA</text>
+    <text x="10" y="60" fill="#374151" font-family="Arial, sans-serif" font-size="11">✓ Særlige krav</text>
+    <text x="10" y="75" fill="#374151" font-family="Arial, sans-serif" font-size="11">✓ Rapportering</text>
+    <text x="10" y="90" fill="#374151" font-family="Arial, sans-serif" font-size="11">✓ Tilsyn</text>
+  </g>
+  
+  <!-- Foreninger -->
+  <g transform="translate(220, 200)">
+    <rect x="0" y="0" width="150" height="100" fill="#fef3c7" stroke="#f59e0b" stroke-width="2" rx="8"/>
+    <circle cx="20" cy="20" r="8" fill="#f59e0b"/>
+    <text x="35" y="25" fill="#f59e0b" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Foreninger</text>
+    <text x="10" y="45" fill="#374151" font-family="Arial, sans-serif" font-size="11">? Over 5G omsetning</text>
+    <text x="10" y="60" fill="#374151" font-family="Arial, sans-serif" font-size="11">✓ Forenklet mulig</text>
+    <text x="10" y="75" fill="#374151" font-family="Arial, sans-serif" font-size="11">- Ideelle unntak</text>
+    <text x="10" y="90" fill="#374151" font-family="Arial, sans-serif" font-size="11">✓ Aktivitetsrapport</text>
+  </g>
+  
+  <!-- Offentlige virksomheter -->
+  <g transform="translate(390, 200)">
+    <rect x="0" y="0" width="150" height="100" fill="#e0e7ff" stroke="#6366f1" stroke-width="2" rx="8"/>
+    <circle cx="20" cy="20" r="8" fill="#6366f1"/>
+    <text x="35" y="25" fill="#6366f1" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Offentlige virk.</text>
+    <text x="10" y="45" fill="#374151" font-family="Arial, sans-serif" font-size="11">✓ Bokføringsplikt: JA</text>
+    <text x="10" y="60" fill="#374151" font-family="Arial, sans-serif" font-size="11">✓ Egne forskrifter</text>
+    <text x="10" y="75" fill="#374151" font-family="Arial, sans-serif" font-size="11">✓ Særlige regler</text>
+    <text x="10" y="90" fill="#374151" font-family="Arial, sans-serif" font-size="11">✓ Offentlig tilsyn</text>
+  </g>
+  
+  <!-- Unntak -->
+  <g transform="translate(560, 200)">
+    <rect x="0" y="0" width="150" height="100" fill="#fee2e2" stroke="#ef4444" stroke-width="2" rx="8"/>
+    <circle cx="20" cy="20" r="8" fill="#ef4444"/>
+    <text x="35" y="25" fill="#ef4444" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Unntak</text>
+    <text x="10" y="45" fill="#374151" font-family="Arial, sans-serif" font-size="11">✗ Under 5G omsetning</text>
+    <text x="10" y="60" fill="#374151" font-family="Arial, sans-serif" font-size="11">✗ Ideelle org.</text>
+    <text x="10" y="75" fill="#374151" font-family="Arial, sans-serif" font-size="11">✗ Borettslag</text>
+    <text x="10" y="90" fill="#374151" font-family="Arial, sans-serif" font-size="11">✗ Sameier</text>
+  </g>
+  
+  <!-- Legend -->
+  <g transform="translate(50, 330)">
+    <text x="0" y="20" fill="#1e40af" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Forklaring:</text>
+    
+    <circle cx="10" cy="45" r="6" fill="#16a34a"/>
+    <text x="25" y="50" fill="#374151" font-family="Arial, sans-serif" font-size="12">Fullstendig bokføringsplikt</text>
+    
+    <circle cx="200" cy="45" r="6" fill="#f59e0b"/>
+    <text x="215" y="50" fill="#374151" font-family="Arial, sans-serif" font-size="12">Betinget bokføringsplikt</text>
+    
+    <circle cx="400" cy="45" r="6" fill="#6366f1"/>
+    <text x="415" y="50" fill="#374151" font-family="Arial, sans-serif" font-size="12">Særlige regler</text>
+    
+    <circle cx="580" cy="45" r="6" fill="#ef4444"/>
+    <text x="595" y="50" fill="#374151" font-family="Arial, sans-serif" font-size="12">Unntak fra plikt</text>
+  </g>
+  
+  <!-- 5G threshold explanation -->
+  <g transform="translate(50, 400)">
+    <rect x="0" y="0" width="700" height="60" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1" rx="6"/>
+    <text x="20" y="25" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold">5G-grensen (Grunnbeløpet i folketrygden):</text>
+    <text x="20" y="45" fill="#374151" font-family="Arial, sans-serif" font-size="12">5 × 118.620 kr = 593.100 kr (2024). Virksomheter med omsetning over denne grensen har bokføringsplikt.</text>
+  </g>
+</svg>

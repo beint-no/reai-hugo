@@ -1,0 +1,142 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#7c3aed;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#6d28d9;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="digitalGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#ddd6fe;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#c4b5fd;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="futureGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#ecfdf5;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#d1fae5;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="techGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#fef3c7;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#fde68a;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#faf5ff"/>
+  
+  <!-- Title -->
+  <rect x="50" y="20" width="700" height="50" rx="8" fill="url(#headerGrad)"/>
+  <text x="400" y="50" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="22" font-weight="bold">Digitalisering av MVA-prosesser</text>
+  
+  <!-- Digital transformation icon -->
+  <circle cx="400" cy="90" r="25" fill="#7c3aed" stroke="#6d28d9" stroke-width="2"/>
+  <rect x="390" y="80" width="20" height="15" rx="2" fill="white"/>
+  <rect x="392" y="82" width="16" height="2" rx="1" fill="#7c3aed"/>
+  <rect x="392" y="85" width="16" height="2" rx="1" fill="#7c3aed"/>
+  <rect x="392" y="88" width="12" height="2" rx="1" fill="#7c3aed"/>
+  <circle cx="395" cy="105" r="2" fill="white"/>
+  <circle cx="400" cy="105" r="2" fill="white"/>
+  <circle cx="405" cy="105" r="2" fill="white"/>
+  
+  <!-- Current digital solutions -->
+  <rect x="50" y="130" width="700" height="150" rx="10" fill="white" stroke="#64748b" stroke-width="2"/>
+  <text x="400" y="155" text-anchor="middle" fill="#1e293b" font-family="Arial, sans-serif" font-size="18" font-weight="bold">Nåværende Digitale Løsninger</text>
+  
+  <!-- Electronic reporting -->
+  <rect x="80" y="170" width="200" height="100" rx="8" fill="url(#digitalGrad)" stroke="#7c3aed" stroke-width="2"/>
+  <text x="180" y="195" text-anchor="middle" fill="#5b21b6" font-family="Arial, sans-serif" font-size="14" font-weight="bold">ELEKTRONISK MVA-MELDING</text>
+  <text x="90" y="215" fill="#6d28d9" font-family="Arial, sans-serif" font-size="11">• Altinn for mindre virksomheter</text>
+  <text x="90" y="230" fill="#6d28d9" font-family="Arial, sans-serif" font-size="11">• API-løsninger for større</text>
+  <text x="90" y="245" fill="#6d28d9" font-family="Arial, sans-serif" font-size="11">• Direkte fra regnskapssystem</text>
+  <text x="90" y="260" fill="#6d28d9" font-family="Arial, sans-serif" font-size="11">• Obligatorisk elektronisk</text>
+  
+  <!-- SAF-T -->
+  <rect x="300" y="170" width="200" height="100" rx="8" fill="url(#digitalGrad)" stroke="#7c3aed" stroke-width="2"/>
+  <text x="400" y="195" text-anchor="middle" fill="#5b21b6" font-family="Arial, sans-serif" font-size="14" font-weight="bold">SAF-T STANDARD</text>
+  <text x="310" y="215" fill="#6d28d9" font-family="Arial, sans-serif" font-size="11">• Standardisert regnskapsdata</text>
+  <text x="310" y="230" fill="#6d28d9" font-family="Arial, sans-serif" font-size="11">• Obligatorisk > 5 mill. kr</text>
+  <text x="310" y="245" fill="#6d28d9" font-family="Arial, sans-serif" font-size="11">• Detaljerte transaksjoner</text>
+  <text x="310" y="260" fill="#6d28d9" font-family="Arial, sans-serif" font-size="11">• Økt kontrollmulighet</text>
+  
+  <!-- Integration -->
+  <rect x="520" y="170" width="200" height="100" rx="8" fill="url(#digitalGrad)" stroke="#7c3aed" stroke-width="2"/>
+  <text x="620" y="195" text-anchor="middle" fill="#5b21b6" font-family="Arial, sans-serif" font-size="14" font-weight="bold">SYSTEMINTEGRASJON</text>
+  <text x="530" y="215" fill="#6d28d9" font-family="Arial, sans-serif" font-size="11">• ERP-systemer</text>
+  <text x="530" y="230" fill="#6d28d9" font-family="Arial, sans-serif" font-size="11">• Automatisk dataflyt</text>
+  <text x="530" y="245" fill="#6d28d9" font-family="Arial, sans-serif" font-size="11">• Redusert manuelt arbeid</text>
+  <text x="530" y="260" fill="#6d28d9" font-family="Arial, sans-serif" font-size="11">• Færre feil</text>
+  
+  <!-- Future developments -->
+  <rect x="50" y="300" width="700" height="180" rx="10" fill="white" stroke="#64748b" stroke-width="2"/>
+  <text x="400" y="325" text-anchor="middle" fill="#1e293b" font-family="Arial, sans-serif" font-size="18" font-weight="bold">Fremtidige Digitale Utviklinger</text>
+  
+  <!-- Real-time reporting -->
+  <rect x="80" y="340" width="160" height="120" rx="8" fill="url(#futureGrad)" stroke="#10b981" stroke-width="2"/>
+  <text x="160" y="360" text-anchor="middle" fill="#065f46" font-family="Arial, sans-serif" font-size="12" font-weight="bold">SANNTIDS-</text>
+  <text x="160" y="375" text-anchor="middle" fill="#065f46" font-family="Arial, sans-serif" font-size="12" font-weight="bold">RAPPORTERING</text>
+  <text x="90" y="395" fill="#047857" font-family="Arial, sans-serif" font-size="10">• Kontinuerlig dataoverføring</text>
+  <text x="90" y="410" fill="#047857" font-family="Arial, sans-serif" font-size="10">• Øyeblikkelig kontroll</text>
+  <text x="90" y="425" fill="#047857" font-family="Arial, sans-serif" font-size="10">• Automatisk avstemming</text>
+  <text x="90" y="440" fill="#047857" font-family="Arial, sans-serif" font-size="10">• Redusert administrativt</text>
+  <text x="90" y="455" fill="#047857" font-family="Arial, sans-serif" font-size="10">  arbeid</text>
+  
+  <!-- AI control -->
+  <rect x="260" y="340" width="160" height="120" rx="8" fill="url(#techGrad)" stroke="#f59e0b" stroke-width="2"/>
+  <text x="340" y="360" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="12" font-weight="bold">AUTOMATISK</text>
+  <text x="340" y="375" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="12" font-weight="bold">KONTROLL</text>
+  <text x="270" y="395" fill="#a16207" font-family="Arial, sans-serif" font-size="10">• AI-basert risikovurdering</text>
+  <text x="270" y="410" fill="#a16207" font-family="Arial, sans-serif" font-size="10">• Maskinlæring</text>
+  <text x="270" y="425" fill="#a16207" font-family="Arial, sans-serif" font-size="10">• Forbedret feildeteksjon</text>
+  <text x="270" y="440" fill="#a16207" font-family="Arial, sans-serif" font-size="10">• Prediktiv analyse</text>
+  <text x="270" y="455" fill="#a16207" font-family="Arial, sans-serif" font-size="10">• Automatisk flagging</text>
+  
+  <!-- Blockchain -->
+  <rect x="440" y="340" width="160" height="120" rx="8" fill="url(#digitalGrad)" stroke="#7c3aed" stroke-width="2"/>
+  <text x="520" y="360" text-anchor="middle" fill="#5b21b6" font-family="Arial, sans-serif" font-size="12" font-weight="bold">BLOCKCHAIN</text>
+  <text x="520" y="375" text-anchor="middle" fill="#5b21b6" font-family="Arial, sans-serif" font-size="12" font-weight="bold">TEKNOLOGI</text>
+  <text x="450" y="395" fill="#6d28d9" font-family="Arial, sans-serif" font-size="10">• Sikker registrering</text>
+  <text x="450" y="410" fill="#6d28d9" font-family="Arial, sans-serif" font-size="10">• Transparent sporbarhet</text>
+  <text x="450" y="425" fill="#6d28d9" font-family="Arial, sans-serif" font-size="10">• Uforanderlige poster</text>
+  <text x="450" y="440" fill="#6d28d9" font-family="Arial, sans-serif" font-size="10">• Redusert svindel</text>
+  <text x="450" y="455" fill="#6d28d9" font-family="Arial, sans-serif" font-size="10">• Smart contracts</text>
+  
+  <!-- IoT integration -->
+  <rect x="620" y="340" width="160" height="120" rx="8" fill="url(#futureGrad)" stroke="#10b981" stroke-width="2"/>
+  <text x="700" y="360" text-anchor="middle" fill="#065f46" font-family="Arial, sans-serif" font-size="12" font-weight="bold">INTERNET OF</text>
+  <text x="700" y="375" text-anchor="middle" fill="#065f46" font-family="Arial, sans-serif" font-size="12" font-weight="bold">THINGS (IoT)</text>
+  <text x="630" y="395" fill="#047857" font-family="Arial, sans-serif" font-size="10">• Sanntidsdata fra enheter</text>
+  <text x="630" y="410" fill="#047857" font-family="Arial, sans-serif" font-size="10">• Automatisk registrering</text>
+  <text x="630" y="425" fill="#047857" font-family="Arial, sans-serif" font-size="10">• Sensorer og målere</text>
+  <text x="630" y="440" fill="#047857" font-family="Arial, sans-serif" font-size="10">• Redusert manuell input</text>
+  <text x="630" y="455" fill="#047857" font-family="Arial, sans-serif" font-size="10">• Økt nøyaktighet</text>
+  
+  <!-- Benefits section -->
+  <rect x="50" y="500" width="700" height="80" rx="10" fill="#f0fdf4" stroke="#16a34a" stroke-width="2"/>
+  <text x="400" y="525" text-anchor="middle" fill="#166534" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Fordeler med Digitalisering</text>
+  
+  <text x="80" y="545" fill="#15803d" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Effektivitet:</text>
+  <text x="80" y="560" fill="#16a34a" font-family="Arial, sans-serif" font-size="11">• Raskere prosesser • Mindre manuelt arbeid • Automatisering</text>
+  
+  <text x="300" y="545" fill="#15803d" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Nøyaktighet:</text>
+  <text x="300" y="560" fill="#16a34a" font-family="Arial, sans-serif" font-size="11">• Færre feil • Bedre kontroll • Konsistent kvalitet</text>
+  
+  <text x="520" y="545" fill="#15803d" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Compliance:</text>
+  <text x="520" y="560" fill="#16a34a" font-family="Arial, sans-serif" font-size="11">• Bedre etterlevelse • Raskere rapportering • Økt transparens</text>
+  
+  <!-- Digital icons -->
+  <!-- Cloud icon -->
+  <ellipse cx="120" cy="140" rx="15" ry="8" fill="#3b82f6"/>
+  <circle cx="110" cy="135" r="8" fill="#3b82f6"/>
+  <circle cx="130" cy="135" r="6" fill="#3b82f6"/>
+  <circle cx="120" cy="130" r="10" fill="#3b82f6"/>
+  
+  <!-- Database icon -->
+  <ellipse cx="400" cy="140" rx="12" ry="6" fill="#10b981"/>
+  <rect x="388" y="134" width="24" height="12" fill="#10b981"/>
+  <ellipse cx="400" cy="146" rx="12" ry="6" fill="#059669"/>
+  
+  <!-- Network icon -->
+  <circle cx="680" cy="135" r="4" fill="#f59e0b"/>
+  <circle cx="665" cy="145" r="4" fill="#f59e0b"/>
+  <circle cx="695" cy="145" r="4" fill="#f59e0b"/>
+  <line x1="680" y1="135" x2="665" y2="145" stroke="#f59e0b" stroke-width="2"/>
+  <line x1="680" y1="135" x2="695" y2="145" stroke="#f59e0b" stroke-width="2"/>
+  <line x1="665" y1="145" x2="695" y2="145" stroke="#f59e0b" stroke-width="2"/>
+</svg>

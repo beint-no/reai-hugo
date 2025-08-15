@@ -1,0 +1,469 @@
+<!doctype html>
+<html lang="nb">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Hva er Marginalskatt? | ReAI</title>
+  <meta name="description" content="Komplett regnskapssystem med faktura, lønn, bilagsføring og årsoppgjør.">
+  
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<script src="https://cdn.tailwindcss.com?plugins=typography"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        fontFamily: { sans: ['Inter','ui-sans-serif','system-ui','Arial','sans-serif'] },
+        colors: {
+          brand: { DEFAULT: '#111827' },
+          accent: { DEFAULT: '#2563eb' }
+        }
+      }
+    }
+  }
+</script>
+<style>
+   
+  header .header-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #000 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link:hover { background-position: 0; }
+  header .header-link:hover::before { width: 100%; }
+
+  footer .footer-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #ffffff 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link:hover { background-position: 0; }
+  footer .footer-link:hover::before { width: 100%; }
+</style>
+<style>
+   
+  .prose { overflow-wrap: anywhere; word-break: break-word; }
+  .prose img { max-width: 100%; height: auto; }
+  .prose table { display: block; width: 100%; overflow-x: auto; }
+  .prose pre { white-space: pre-wrap; word-break: break-word; overflow-x: auto; }
+  .prose code { word-break: break-word; }
+  .prose iframe, .prose video { max-width: 100%; width: 100%; height: auto; }
+</style>
+<style>
+   
+  button,
+  .btn,
+  a.btn,
+  .button,
+  .cta,
+  .link-button,
+   
+  a.inline-flex.rounded-md,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"] {
+    transition: transform 220ms ease, box-shadow 220ms ease, background-color 220ms ease, color 220ms ease, opacity 220ms ease;
+    will-change: transform, box-shadow;
+  }
+
+  button:hover,
+  .btn:hover,
+  a.btn:hover,
+  .button:hover,
+  .cta:hover,
+  .link-button:hover,
+  a.inline-flex.rounded-md:hover,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+
+  button:active,
+  .btn:active,
+  a.btn:active,
+  .button:active,
+  .cta:active,
+  .link-button:active,
+  a.inline-flex.rounded-md:active,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:active {
+    transform: translateY(-1px) scale(0.99);
+    box-shadow: 0 6px 12px rgba(2, 6, 23, 0.1);
+  }
+
+  button:focus-visible,
+  .btn:focus-visible,
+  a.btn:focus-visible,
+  .button:focus-visible,
+  .cta:focus-visible,
+  .link-button:focus-visible,
+  a.inline-flex.rounded-md:focus-visible,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.35), 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+</style>
+
+<link rel="icon" type="image/svg+xml" href="/images/ReAI-logo-square.svg">
+<link rel="shortcut icon" href="/images/ReAI-logo-square.svg">
+
+</head>
+<body class="min-h-dvh bg-white text-gray-900 font-sans">
+  <header class="sticky top-0 z-40 bg-white/80 backdrop-blur">
+  
+  <div class="border-b border-slate-200/70">
+    <div class="max-w-7xl mx-auto px-4">
+      <div class="h-16 flex items-center justify-between">
+        <a href="/" class="flex items-center gap-2" aria-label="ReAI">
+          <img src="/images/ReAI-logo-square.svg?v=4" alt="ReAI logo" class="h-14 w-14 rounded-md mt-5" width="56" height="56" loading="eager" decoding="async">
+        </a>
+        <nav class="hidden md:block">
+          <ul class="flex items-center gap-5 text-sm">
+            <li><a href="/courses/" class="header-link text-slate-700 hover:text-black">Gratis kurs</a></li>
+            <li><a href="/contact/" class="header-link text-slate-700 hover:text-black">Kontakt oss</a></li>
+            <li><a href="/blog/" class="header-link text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+            <li><a href="/bli-partner/" class="header-link text-slate-700 hover:text-black">Bli partner</a></li>
+            <li><a href="/fakturamal/" class="header-link text-slate-700 hover:text-black">Lag faktura</a></li>
+          </ul>
+        </nav>
+        <button id="mobileMenuBtn" aria-controls="mobileMenu" aria-expanded="false" class="md:hidden inline-flex items-center justify-center h-9 w-9 rounded-md border border-slate-300">
+          <span class="sr-only">Menu</span>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-5 w-5"><path d="M3.75 6.75h16.5v1.5H3.75zM3.75 11.25h16.5v1.5H3.75zM3.75 15.75h16.5v1.5H3.75z"/></svg>
+        </button>
+      </div>
+    </div>
+  </div>
+  
+  <nav id="mobileMenu" class="md:hidden hidden border-b border-slate-200/70 bg-white/95 backdrop-blur">
+    <div class="max-w-7xl mx-auto px-4 py-3">
+      <ul class="flex flex-col items-center gap-3 text-sm text-center">
+        <li><a href="/courses/" class="header-link block text-slate-700 hover:text-black">Gratis kurs</a></li>
+        <li><a href="/contact/" class="header-link block text-slate-700 hover:text-black">Kontakt oss</a></li>
+        <li><a href="/blog/" class="header-link block text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+        <li><a href="/bli-partner/" class="header-link block text-slate-700 hover:text-black">Bli partner</a></li>
+        <li><a href="/fakturamal/" class="header-link block text-slate-700 hover:text-black">Lag faktura</a></li>
+      </ul>
+    </div>
+  </nav>
+  <script>
+    (function() {
+      const btn = document.getElementById('mobileMenuBtn');
+      const menu = document.getElementById('mobileMenu');
+      if (!btn || !menu) return;
+      btn.addEventListener('click', function() {
+        const isHidden = menu.classList.contains('hidden');
+        menu.classList.toggle('hidden');
+        btn.setAttribute('aria-expanded', String(isHidden));
+      });
+    })();
+  </script>
+</header>
+  <main>
+    
+<section class="pt-10 md:pt-14">
+  <div class="max-w-3xl mx-auto px-4">
+    <h1 class="text-3xl font-semibold tracking-tight text-center">Hva er Marginalskatt?</h1>
+    <p class="mt-2 text-gray-700">Marginalskatt er den skattesatsen som gjelder for den siste kronen du tjener. Forstå hvordan marginalskatt beregnes og påvirker din personlige og bedriftens økonomi.</p>
+    <article class="prose max-w-none mt-6"><p><strong>Marginalskatt</strong> er den skattesatsen som gjelder for den siste kronen du tjener i inntekt. Dette er et sentralt begrep innen <a href="/blogs/regnskap/hva-er-regnskap" title="Hva er Regnskap? Komplett Guide til Regnskapsføring">regnskap</a> og skatteplanlegging som påvirker både privatpersoner og bedrifter i Norge.</p>
+<p>Se også vår artikkel om <a href="/blogs/regnskap/toppskatt" title="Toppskatt – Komplett guide til toppskatt i Norge">Toppskatt</a> for mer om ekstra skattesatser på høye inntekter.</p>
+<p>For en bredere oversikt over generelle skattesatser i Norge, se <a href="/blogs/regnskap/skattesats" title="Skattesats: Oversikt over Norske Skattesatser">Skattesats</a>.</p>
+<p><img src="hva-er-marginalskatt-image.svg" alt="Hva er Marginalskatt?"></p>
+<h2 id="definisjon-av-marginalskatt">Definisjon av Marginalskatt</h2>
+<p>Marginalskatt refererer til den <strong>prosentandelen</strong> av den siste kronen du tjener som går til skatt. I Norge har vi et <strong>progressivt skattesystem</strong>, som betyr at skattesatsen øker med inntektsnivået.</p>
+<h3 id="forskjell-mellom-marginalskatt-og-gjennomsnittsskatt">Forskjell mellom Marginalskatt og Gjennomsnittsskatt</h3>
+<p>Det er viktig å skille mellom:</p>
+<ul>
+<li><strong>Marginalskatt</strong>: Skattesatsen på den siste kronen du tjener</li>
+<li><strong>Gjennomsnittsskatt</strong>: Total skatt delt på total inntekt</li>
+<li><strong>Effektiv skattesats</strong>: Den faktiske skatteprosenten du betaler</li>
+</ul>
+<p><img src="marginalskatt-vs-gjennomsnittsskatt.svg" alt="Illustrasjon som viser forskjellen mellom marginalskatt og gjennomsnittsskatt"></p>
+<h2 id="norges-skattesystem-og-marginalskatt">Norges Skattesystem og Marginalskatt</h2>
+<p>Se også vår spesifikke artikkel om <a href="/blogs/regnskap/trinnskatt" title="Trinnskatt – Guide til trinnskatt i Norge">Trinnskatt</a> for en detaljert gjennomgang.</p>
+<h3 id="trinnvis-skattesystem">Trinnvis Skattesystem</h3>
+<p>Norge opererer med et <strong>trinnvis skattesystem</strong> hvor ulike inntektsnivåer beskattes med forskjellige satser:</p>
+<table>
+  <thead>
+      <tr>
+          <th>Inntektstrinn</th>
+          <th>Skattesats</th>
+          <th>Gjelder for inntekt</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>Trinn 1</strong></td>
+          <td>1,7%</td>
+          <td>208 051 - 292 850 kr</td>
+      </tr>
+      <tr>
+          <td><strong>Trinn 2</strong></td>
+          <td>4,0%</td>
+          <td>292 851 - 670 000 kr</td>
+      </tr>
+      <tr>
+          <td><strong>Trinn 3</strong></td>
+          <td>13,4%</td>
+          <td>670 001 - 937 900 kr</td>
+      </tr>
+      <tr>
+          <td><strong>Trinn 4</strong></td>
+          <td>16,4%</td>
+          <td>937 901 - 1 350 000 kr</td>
+      </tr>
+      <tr>
+          <td><strong>Trinn 5</strong></td>
+          <td>17,4%</td>
+          <td>Over 1 350 000 kr</td>
+      </tr>
+  </tbody>
+</table>
+<p><em>Satser for inntektsåret 2024</em></p>
+<h3 id="beregning-av-marginalskatt">Beregning av Marginalskatt</h3>
+<p>For å beregne din marginalskatt må du:</p>
+<ol>
+<li><strong>Identifisere</strong> hvilket inntektstrinn du befinner deg på</li>
+<li><strong>Legge til</strong> kommuneskatt (gjennomsnitt 11,9%)</li>
+<li><strong>Inkludere</strong> fylkeskommunal skatt (gjennomsnitt 2,4%)</li>
+<li><strong>Vurdere</strong> andre skatter som <a href="/blogs/regnskap/hva-er-arbeidsgiveravgift" title="Hva er Arbeidsgiveravgift? Komplett Guide til Beregning og Satser">arbeidsgiveravgift</a></li>
+</ol>
+<p><img src="marginalskatt-beregning.svg" alt="Beregning av marginalskatt med eksempel"></p>
+<h2 id="praktiske-eksempler-på-marginalskatt">Praktiske Eksempler på Marginalskatt</h2>
+<h3 id="eksempel-1-lønnsmottaker-med-500-000-kr-i-årsinntekt">Eksempel 1: Lønnsmottaker med 500 000 kr i årsinntekt</h3>
+<p>For en person med <strong>500 000 kr</strong> i årsinntekt:</p>
+<ul>
+<li><strong>Kommuneskatt</strong>: 11,9% av hele inntekten</li>
+<li><strong>Fylkeskommunal skatt</strong>: 2,4% av hele inntekten</li>
+<li><strong>Trinnskatt</strong>: 4,0% (trinn 2) på inntekt over 292 850 kr</li>
+<li><strong>Total marginalskatt</strong>: Cirka 18,3%</li>
+</ul>
+<h3 id="eksempel-2-høyinntektstaker-med-1-000-000-kr">Eksempel 2: Høyinntektstaker med 1 000 000 kr</h3>
+<p>For en person med <strong>1 000 000 kr</strong> i årsinntekt:</p>
+<ul>
+<li><strong>Kommuneskatt</strong>: 11,9%</li>
+<li><strong>Fylkeskommunal skatt</strong>: 2,4%</li>
+<li><strong>Trinnskatt</strong>: 13,4% (trinn 3)</li>
+<li><strong>Total marginalskatt</strong>: Cirka 27,7%</li>
+</ul>
+<p><img src="marginalskatt-sammenligning.svg" alt="Sammenligning av marginalskatt på ulike inntektsnivåer"></p>
+<h2 id="marginalskatt-for-bedrifter">Marginalskatt for Bedrifter</h2>
+<h3 id="selskapsskatt">Selskapsskatt</h3>
+<p><a href="/blogs/regnskap/hva-er-et-aksjeselskap" title="Hva er et Aksjeselskap (AS)? Komplett Guide til Selskapsformen">Aksjeselskaper</a> og andre <a href="/blogs/regnskap/hva-er-juridisk-person" title="Hva er en Juridisk Person? Komplett Guide til Juridiske Personer i Regnskap">juridiske personer</a> betaler <strong>flat selskapsskatt</strong> på 22%.</p>
+<h3 id="personlige-foretak">Personlige Foretak</h3>
+<p><a href="/blogs/regnskap/hva-er-enkeltpersonforetak" title="Hva er et Enkeltpersonforetak? Komplett Guide til Selskapsformen">Enkeltpersonforetak</a> beskattes som <a href="/blogs/regnskap/personinntekt" title="Personinntekt – Komplett guide til personinntekt i norsk regnskap">personinntekt</a> og følger samme marginalskattsystem som lønnsmottakere.</p>
+<h2 id="regnskapsmessige-konsekvenser">Regnskapsmessige Konsekvenser</h2>
+<h3 id="skatteplanlegging">Skatteplanlegging</h3>
+<p>Forståelse av marginalskatt er viktig for:</p>
+<ul>
+<li><strong>Inntektsoptimalisering</strong>: Timing av inntekter og <a href="/blogs/regnskap/hva-er-fradrag" title="Hva er Fradrag? Komplett Guide til Skattefradrag i Norge">fradrag</a></li>
+<li><strong>Investeringsbeslutninger</strong>: Vurdering av <a href="/blogs/regnskap/hva-er-avkastning" title="Hva er Avkastning? Komplett Guide til Avkastningsberegning">avkastning</a> etter skatt</li>
+<li><strong>Lønnsstrukturering</strong>: Optimalisering av <a href="/blogs/regnskap/hva-er-lonn" title="Hva er Lønn? Komplett Guide til Lønnsbehandling i Regnskap">lønn</a> og naturalytelser</li>
+</ul>
+<h3 id="bokføring-av-skatter">Bokføring av Skatter</h3>
+<p>I regnskapet må bedrifter:</p>
+<ul>
+<li><strong>Periodisere</strong> skatteforpliktelser</li>
+<li><strong>Beregne</strong> <a href="/blogs/regnskap/hva-er-forskuddstrekk" title="Hva er Forskuddstrekk? Komplett Guide til Forskuddstrekk i Lønn">forskuddstrekk</a></li>
+<li><strong>Rapportere</strong> korrekt til skattemyndighetene</li>
+</ul>
+<p><img src="marginalskatt-regnskap.svg" alt="Regnskapsmessig behandling av marginalskatt"></p>
+<h2 id="strategier-for-marginalskattoptimalisering">Strategier for Marginalskattoptimalisering</h2>
+<h3 id="for-privatpersoner">For Privatpersoner</h3>
+<ul>
+<li><strong>Pensjonssparing</strong>: Reduserer skattbar inntekt</li>
+<li><strong>BSU-sparing</strong>: Skattefradrag på innskudd</li>
+<li><strong>Gave til veldedighet</strong>: Fradragsberettiget</li>
+<li><strong>Timing av salg</strong>: Optimalisering av <a href="/blogs/regnskap/hva-er-kapitalgevinst" title="Hva er Kapitalgevinst? Komplett Guide til Beskatning av Kapitalgevinst">kapitalgevinst</a></li>
+</ul>
+<h3 id="for-bedrifter">For Bedrifter</h3>
+<ul>
+<li><strong>Investeringer</strong>: Skattemessige <a href="/blogs/regnskap/hva-er-avskrivning" title="Hva er Avskrivning? Komplett Guide til Avskrivningsregler">avskrivninger</a></li>
+<li><strong>Kostnadsføring</strong>: Timing av <a href="/blogs/regnskap/hva-er-kostnader" title="Hva er Kostnader? Komplett Guide til Kostnadstyper i Regnskap">kostnader</a></li>
+<li><strong>Strukturering</strong>: Valg av <a href="/blogs/regnskap/hva-er-foretak" title="Hva er et Foretak? Komplett Guide til Foretaksformer i Norge">foretaksform</a></li>
+</ul>
+<h2 id="marginalskatt-og-økonomiske-beslutninger">Marginalskatt og Økonomiske Beslutninger</h2>
+<h3 id="arbeidsmarkedet">Arbeidsmarkedet</h3>
+<p>Høy marginalskatt kan påvirke:</p>
+<ul>
+<li><strong>Arbeidstilbud</strong>: Insentiver til å arbeide mer eller mindre</li>
+<li><strong>Utdanning</strong>: Investeringer i kompetanse</li>
+<li><strong>Entreprenørskap</strong>: Motivasjon for å starte egen virksomhet</li>
+</ul>
+<h3 id="investeringer">Investeringer</h3>
+<p>Marginalskatt påvirker:</p>
+<ul>
+<li><strong>Sparebeslutninger</strong>: Avkastning etter skatt</li>
+<li><strong>Risikotaking</strong>: Skattemessig behandling av tap og gevinst</li>
+<li><strong>Porteføljevalg</strong>: Skatteeffektive investeringer</li>
+</ul>
+<p><img src="marginalskatt-beslutninger.svg" alt="Marginalskattens påvirkning på økonomiske beslutninger"></p>
+<h2 id="internasjonale-sammenligninger">Internasjonale Sammenligninger</h2>
+<h3 id="nordiske-land">Nordiske Land</h3>
+<table>
+  <thead>
+      <tr>
+          <th>Land</th>
+          <th>Høyeste marginalskatt</th>
+          <th>Terskel</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>Norge</strong></td>
+          <td>~47%</td>
+          <td>Høye inntekter</td>
+      </tr>
+      <tr>
+          <td><strong>Sverige</strong></td>
+          <td>~57%</td>
+          <td>Høye inntekter</td>
+      </tr>
+      <tr>
+          <td><strong>Danmark</strong></td>
+          <td>~56%</td>
+          <td>Høye inntekter</td>
+      </tr>
+      <tr>
+          <td><strong>Finland</strong></td>
+          <td>~51%</td>
+          <td>Høye inntekter</td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="konkurranseevne">Konkurranseevne</h3>
+<p>Norges marginalskattnivå påvirker:</p>
+<ul>
+<li><strong>Talentmobilitet</strong>: Tiltrekking av høyt kvalifisert arbeidskraft</li>
+<li><strong>Investeringsklima</strong>: Bedrifters lokaliseringsbeslutninger</li>
+<li><strong>Innovasjon</strong>: Insentiver for forskning og utvikling</li>
+</ul>
+<h2 id="fremtidige-endringer-og-reformer">Fremtidige Endringer og Reformer</h2>
+<h3 id="politiske-diskusjoner">Politiske Diskusjoner</h3>
+<p>Marginalskatt er ofte tema i politiske debatter om:</p>
+<ul>
+<li><strong>Omfordeling</strong>: Balanse mellom likhet og effektivitet</li>
+<li><strong>Vekst</strong>: Skattenivåets påvirkning på økonomisk aktivitet</li>
+<li><strong>Velferd</strong>: Finansiering av offentlige tjenester</li>
+</ul>
+<h3 id="teknologiske-endringer">Teknologiske Endringer</h3>
+<p>Digitalisering påvirker:</p>
+<ul>
+<li><strong>Skatteinnkreving</strong>: Automatisering og kontroll</li>
+<li><strong>Nye inntektskilder</strong>: Beskatning av digitale tjenester</li>
+<li><strong>Grenseoverskridende handel</strong>: Utfordringer for skattesystemet</li>
+</ul>
+<p><img src="marginalskatt-fremtid.svg" alt="Fremtidige trender innen marginalskatt"></p>
+<h2 id="praktiske-råd-for-regnskapsførere">Praktiske Råd for Regnskapsførere</h2>
+<h3 id="klientrådgivning">Klientrådgivning</h3>
+<p>Som regnskapsfører bør du:</p>
+<ul>
+<li><strong>Beregne</strong> marginalskatt for klienter</li>
+<li><strong>Planlegge</strong> skatteoptimale løsninger</li>
+<li><strong>Informere</strong> om endringer i skatteregler</li>
+<li><strong>Dokumentere</strong> alle skattemessige vurderinger</li>
+</ul>
+<h3 id="verktøy-og-systemer">Verktøy og Systemer</h3>
+<p>Bruk av:</p>
+<ul>
+<li><strong>Regnskapssystemer</strong> med skatteberegninger</li>
+<li><strong>Skattekalkulatorer</strong> for marginalskattberegning</li>
+<li><strong>Oppdaterte tabeller</strong> med gjeldende satser</li>
+<li><strong>Automatiserte rapporter</strong> til skattemyndighetene</li>
+</ul>
+<h2 id="vanlige-misforståelser">Vanlige Misforståelser</h2>
+<h3 id="myte-1-høyere-lønn-gir-mindre-igjen">Myte 1: &ldquo;Høyere lønn gir mindre igjen&rdquo;</h3>
+<p><strong>Sannhet</strong>: Du får alltid mer netto ved høyere bruttolønn, selv med høyere marginalskatt.</p>
+<h3 id="myte-2-marginalskatt-gjelder-hele-inntekten">Myte 2: &ldquo;Marginalskatt gjelder hele inntekten&rdquo;</h3>
+<p><strong>Sannhet</strong>: Marginalskatt gjelder kun inntekt over grensen for hvert trinn.</p>
+<h3 id="myte-3-alle-betaler-samme-skatteprosent">Myte 3: &ldquo;Alle betaler samme skatteprosent&rdquo;</h3>
+<p><strong>Sannhet</strong>: Norge har progressiv beskatning med økende satser.</p>
+<p><img src="marginalskatt-myter.svg" alt="Vanlige misforståelser om marginalskatt"></p>
+<h2 id="konklusjon">Konklusjon</h2>
+<p>Marginalskatt er et <strong>fundamentalt konsept</strong> i norsk skatterett som påvirker både privatpersoner og bedrifter. Forståelse av marginalskatt er essensielt for:</p>
+<ul>
+<li><strong>Skatteplanlegging</strong> og optimalisering</li>
+<li><strong>Økonomiske beslutninger</strong> og investeringer</li>
+<li><strong>Regnskapsmessig behandling</strong> av skatter</li>
+<li><strong>Strategisk rådgivning</strong> til klienter</li>
+</ul>
+<p>Som regnskapsfører er det viktig å holde seg oppdatert på endringer i skattesatsene og hjelpe klienter med å forstå hvordan marginalskatt påvirker deres økonomi.</p>
+<p>Ved å mestre marginalskattberegninger kan du gi verdifull rådgivning som optimaliserer klientenes skatteposisjon innenfor gjeldende regelverk.</p>
+</article>
+  </div>
+</section>
+
+  </main>
+  <footer class="mt-16 border-t border-slate-800/60 bg-slate-900">
+  <div class="max-w-7xl mx-auto px-4 py-14">
+    <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3 text-center sm:text-left">
+      
+      <div>
+        <h3 class="text-sm font-semibold text-white">Verktøy</h3>
+        <ul class="mt-2 space-y-2 text-sm text-slate-300">
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/finn-iban/">IBAN kalkulator</a></li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/lag-faktura-gratis/">Lag faktura</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Selskaps-informasjon</h3>
+        <ul class="mt-2 space-y-1 text-sm text-slate-300">
+          <li>Reai AS</li>
+          <li>Orgnr: 935606403</li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="mailto:post@reai.no">post@reai.no</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Om ReAI</h3>
+        <p class="mt-2 text-sm text-slate-300">ReAI er et gratis regnskapsprogram laget av tidligere ansatte i Tripletex
+          / Visma. Vi mener det er på tide med mer konkurranse i regnskaps-bransjen som kan komme bedrifter til gode.
+        </p>
+      </div>
+    </div>
+    <div class="mt-12 border-t border-slate-800/60 pt-6 flex flex-col items-center sm:flex-row sm:items-center sm:justify-between text-sm text-slate-400 text-center sm:text-left">
+      <div class="flex items-center gap-2">
+        
+        
+      </div>
+      <div class="mt-4 sm:mt-0 flex items-center justify-center sm:justify-end">
+        <div class="opacity-80">&copy; 2025 ReAI. All rights reserved.</div>
+      </div>
+    </div>
+  </div>
+</footer>
+</body>
+</html>

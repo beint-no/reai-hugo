@@ -1,0 +1,137 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="500" fill="#f8fafc"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1e293b" text-anchor="middle">Compliance og QA-rammeverk</text>
+  
+  <!-- Center Circle: QA Compliance -->
+  <circle cx="400" cy="250" r="90" fill="#3b82f6" stroke="#1e40af" stroke-width="3"/>
+  <text x="400" y="240" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">QA</text>
+  <text x="400" y="260" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">Compliance</text>
+  
+  <!-- Layer 1: Juridiske Krav (Inner ring) -->
+  <g>
+    <!-- Bokføringsloven -->
+    <rect x="180" y="180" width="120" height="40" rx="8" fill="#dcfce7" stroke="#16a34a" stroke-width="2"/>
+    <text x="240" y="195" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#166534" text-anchor="middle">Bokføringsloven</text>
+    <text x="240" y="210" font-family="Arial, sans-serif" font-size="10" fill="#15803d" text-anchor="middle">Grunnleggende krav</text>
+    
+    <!-- Regnskapsloven -->
+    <rect x="500" y="180" width="120" height="40" rx="8" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+    <text x="560" y="195" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1d4ed8" text-anchor="middle">Regnskapsloven</text>
+    <text x="560" y="210" font-family="Arial, sans-serif" font-size="10" fill="#1e40af" text-anchor="middle">Standarder &amp; rapporter</text>
+    
+    <!-- MVA-loven -->
+    <rect x="500" y="280" width="120" height="40" rx="8" fill="#fef3c7" stroke="#d97706" stroke-width="2"/>
+    <text x="560" y="295" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#92400e" text-anchor="middle">MVA-loven</text>
+    <text x="560" y="310" font-family="Arial, sans-serif" font-size="10" fill="#a16207" text-anchor="middle">Avgiftskrav</text>
+    
+    <!-- Skatteloven -->
+    <rect x="180" y="280" width="120" height="40" rx="8" fill="#f3e8ff" stroke="#7c3aed" stroke-width="2"/>
+    <text x="240" y="295" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#5b21b6" text-anchor="middle">Skatteloven</text>
+    <text x="240" y="310" font-family="Arial, sans-serif" font-size="10" fill="#6d28d9" text-anchor="middle">Skatterapportering</text>
+    
+    <!-- Arrows to center -->
+    <path d="M300,200 Q350,210 Q350,240" stroke="#16a34a" stroke-width="2" fill="none" marker-end="url(#greenArrow)"/>
+    <path d="M500,200 Q450,210 Q450,240" stroke="#2563eb" stroke-width="2" fill="none" marker-end="url(#blueArrow)"/>
+    <path d="M500,300 Q450,290 Q450,260" stroke="#d97706" stroke-width="2" fill="none" marker-end="url(#orangeArrow)"/>
+    <path d="M300,300 Q350,290 Q350,260" stroke="#7c3aed" stroke-width="2" fill="none" marker-end="url(#purpleArrow)"/>
+  </g>
+  
+  <!-- Layer 2: Internasjonale Standarder (Outer ring) -->
+  <g>
+    <!-- IFRS -->
+    <rect x="100" y="100" width="100" height="35" rx="6" fill="#fce7f3" stroke="#db2777" stroke-width="2"/>
+    <text x="150" y="115" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#be185d" text-anchor="middle">IFRS</text>
+    <text x="150" y="128" font-family="Arial, sans-serif" font-size="9" fill="#c2185b" text-anchor="middle">Int. standarder</text>
+    
+    <!-- SOX -->
+    <rect x="600" y="100" width="100" height="35" rx="6" fill="#e0f2fe" stroke="#0891b2" stroke-width="2"/>
+    <text x="650" y="115" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#0e7490" text-anchor="middle">SOX</text>
+    <text x="650" y="128" font-family="Arial, sans-serif" font-size="9" fill="#0891b2" text-anchor="middle">Internkontroll</text>
+    
+    <!-- Basel -->
+    <rect x="600" y="365" width="100" height="35" rx="6" fill="#ecfdf5" stroke="#10b981" stroke-width="2"/>
+    <text x="650" y="380" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#047857" text-anchor="middle">Basel</text>
+    <text x="650" y="393" font-family="Arial, sans-serif" font-size="9" fill="#059669" text-anchor="middle">Banker/finans</text>
+    
+    <!-- COSO -->
+    <rect x="100" y="365" width="100" height="35" rx="6" fill="#fff7ed" stroke="#ea580c" stroke-width="2"/>
+    <text x="150" y="380" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#c2410c" text-anchor="middle">COSO</text>
+    <text x="150" y="393" font-family="Arial, sans-serif" font-size="9" fill="#ea580c" text-anchor="middle">Risikostyring</text>
+    
+    <!-- Dotted arrows to inner layer -->
+    <path d="M200,135 Q240,160 Q270,170" stroke="#db2777" stroke-width="1" fill="none" stroke-dasharray="3,3"/>
+    <path d="M600,135 Q560,160 Q530,170" stroke="#0891b2" stroke-width="1" fill="none" stroke-dasharray="3,3"/>
+    <path d="M600,365 Q560,340 Q530,330" stroke="#10b981" stroke-width="1" fill="none" stroke-dasharray="3,3"/>
+    <path d="M200,365 Q240,340 Q270,330" stroke="#ea580c" stroke-width="1" fill="none" stroke-dasharray="3,3"/>
+  </g>
+  
+  <!-- QA Activities at corners -->
+  <g>
+    <!-- Top Left: Risk Assessment -->
+    <rect x="50" y="50" width="130" height="30" rx="5" fill="#f1f5f9" stroke="#64748b" stroke-width="1"/>
+    <text x="115" y="67" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#334155" text-anchor="middle">Risikovurdering</text>
+    <text x="115" y="78" font-family="Arial, sans-serif" font-size="9" fill="#64748b" text-anchor="middle">Identifiser compliance-risikoer</text>
+  </g>
+  
+  <g>
+    <!-- Top Right: Documentation -->
+    <rect x="620" y="50" width="130" height="30" rx="5" fill="#f1f5f9" stroke="#64748b" stroke-width="1"/>
+    <text x="685" y="67" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#334155" text-anchor="middle">Dokumentasjon</text>
+    <text x="685" y="78" font-family="Arial, sans-serif" font-size="9" fill="#64748b" text-anchor="middle">Sporing og evidens</text>
+  </g>
+  
+  <g>
+    <!-- Bottom Right: Monitoring -->
+    <rect x="620" y="420" width="130" height="30" rx="5" fill="#f1f5f9" stroke="#64748b" stroke-width="1"/>
+    <text x="685" y="437" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#334155" text-anchor="middle">Overvåking</text>
+    <text x="685" y="448" font-family="Arial, sans-serif" font-size="9" fill="#64748b" text-anchor="middle">Kontinuerlig compliance</text>
+  </g>
+  
+  <g>
+    <!-- Bottom Left: Training -->
+    <rect x="50" y="420" width="130" height="30" rx="5" fill="#f1f5f9" stroke="#64748b" stroke-width="1"/>
+    <text x="115" y="437" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#334155" text-anchor="middle">Opplæring</text>
+    <text x="115" y="448" font-family="Arial, sans-serif" font-size="9" fill="#64748b" text-anchor="middle">Kompetanseutvikling</text>
+  </g>
+  
+  <!-- Compliance Process Flow -->
+  <g>
+    <rect x="250" y="60" width="300" height="25" rx="5" fill="#eff6ff" stroke="#3b82f6" stroke-width="1"/>
+    <text x="400" y="75" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e40af" text-anchor="middle">Compliance-prosess: Plan → Implementer → Overvåk → Forbedre</text>
+  </g>
+  
+  <g>
+    <rect x="250" y="415" width="300" height="25" rx="5" fill="#fef2f2" stroke="#dc2626" stroke-width="1"/>
+    <text x="400" y="430" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#dc2626" text-anchor="middle">Konsekvenser ved brudd: Bøter • Omdømmeskade • Juridiske følger</text>
+  </g>
+  
+  <!-- Key success factors -->
+  <g>
+    <rect x="320" y="380" width="160" height="15" rx="3" fill="#dcfce7" stroke="#16a34a" stroke-width="1"/>
+    <text x="400" y="390" font-family="Arial, sans-serif" font-size="10" fill="#166534" text-anchor="middle">✓ Proaktiv tilnærming</text>
+  </g>
+  
+  <g>
+    <rect x="320" y="105" width="160" height="15" rx="3" fill="#dbeafe" stroke="#2563eb" stroke-width="1"/>
+    <text x="400" y="115" font-family="Arial, sans-serif" font-size="10" fill="#1d4ed8" text-anchor="middle">✓ Integrert QA-system</text>
+  </g>
+  
+  <!-- Arrow markers definitions -->
+  <defs>
+    <marker id="greenArrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#16a34a"/>
+    </marker>
+    <marker id="blueArrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#2563eb"/>
+    </marker>
+    <marker id="orangeArrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#d97706"/>
+    </marker>
+    <marker id="purpleArrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#7c3aed"/>
+    </marker>
+  </defs>
+</svg>

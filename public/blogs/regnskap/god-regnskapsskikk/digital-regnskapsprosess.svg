@@ -1,0 +1,118 @@
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="digitalGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#007bff;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#0056b3;stop-opacity:0.8" />
+    </linearGradient>
+    <linearGradient id="processGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#28a745;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#1e7e34;stop-opacity:0.8" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="600" height="400" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Title -->
+  <text x="300" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#212529">Digital Regnskapsprosess</text>
+  <text x="300" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#6c757d">Fra manuell til automatisert regnskapsføring</text>
+  
+  <!-- Process flow from left to right -->
+  
+  <!-- Step 1: Digital Input -->
+  <rect x="50" y="80" width="100" height="60" rx="10" fill="url(#digitalGradient)" stroke="#0056b3" stroke-width="2"/>
+  <text x="100" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Digital</text>
+  <text x="100" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Inndata</text>
+  <text x="100" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">E-faktura, API</text>
+  
+  <!-- Arrow 1 -->
+  <polygon points="160,110 180,105 180,115" fill="#6c757d"/>
+  <line x1="160" y1="110" x2="180" y2="110" stroke="#6c757d" stroke-width="2"/>
+  
+  <!-- Step 2: AI Processing -->
+  <rect x="190" y="80" width="100" height="60" rx="10" fill="#ffc107" opacity="0.8" stroke="#e0a800" stroke-width="2"/>
+  <text x="240" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">AI-behandling</text>
+  <text x="240" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Fakturatolk</text>
+  <text x="240" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Kategorisering</text>
+  
+  <!-- Arrow 2 -->
+  <polygon points="300,110 320,105 320,115" fill="#6c757d"/>
+  <line x1="300" y1="110" x2="320" y2="110" stroke="#6c757d" stroke-width="2"/>
+  
+  <!-- Step 3: Automated Booking -->
+  <rect x="330" y="80" width="100" height="60" rx="10" fill="url(#processGradient)" stroke="#1e7e34" stroke-width="2"/>
+  <text x="380" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Automatisk</text>
+  <text x="380" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Bokføring</text>
+  <text x="380" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Kontering</text>
+  
+  <!-- Arrow 3 -->
+  <polygon points="440,110 460,105 460,115" fill="#6c757d"/>
+  <line x1="440" y1="110" x2="460" y2="110" stroke="#6c757d" stroke-width="2"/>
+  
+  <!-- Step 4: Real-time Reporting -->
+  <rect x="470" y="80" width="100" height="60" rx="10" fill="#dc3545" opacity="0.8" stroke="#c82333" stroke-width="2"/>
+  <text x="520" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Sanntids</text>
+  <text x="520" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Rapportering</text>
+  <text x="520" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Dashboard</text>
+  
+  <!-- Benefits section -->
+  <text x="300" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#212529">Fordeler med Digital Regnskapsprosess</text>
+  
+  <!-- Benefit boxes -->
+  <!-- Accuracy -->
+  <rect x="50" y="200" width="120" height="80" rx="5" fill="#e9ecef" stroke="#adb5bd" stroke-width="1"/>
+  <circle cx="110" cy="220" r="8" fill="#28a745"/>
+  <path d="M106 220 L109 223 L114 218" stroke="white" stroke-width="2" fill="none"/>
+  <text x="110" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">Økt Nøyaktighet</text>
+  <text x="60" y="255" font-family="Arial, sans-serif" font-size="10" fill="#495057">• Eliminerer manuelle feil</text>
+  <text x="60" y="267" font-family="Arial, sans-serif" font-size="10" fill="#495057">• Automatisk validering</text>
+  
+  <!-- Speed -->
+  <rect x="190" y="200" width="120" height="80" rx="5" fill="#e9ecef" stroke="#adb5bd" stroke-width="1"/>
+  <circle cx="250" cy="220" r="8" fill="#007bff"/>
+  <polygon points="246,216 250,220 254,216 254,224 246,224" fill="white"/>
+  <text x="250" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">Økt Hastighet</text>
+  <text x="200" y="255" font-family="Arial, sans-serif" font-size="10" fill="#495057">• Raskere behandling</text>
+  <text x="200" y="267" font-family="Arial, sans-serif" font-size="10" fill="#495057">• Sanntidsoppdatering</text>
+  
+  <!-- Traceability -->
+  <rect x="330" y="200" width="120" height="80" rx="5" fill="#e9ecef" stroke="#adb5bd" stroke-width="1"/>
+  <circle cx="390" cy="220" r="8" fill="#ffc107"/>
+  <rect x="386" y="216" width="8" height="8" fill="white"/>
+  <text x="390" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">Bedre Sporbarhet</text>
+  <text x="340" y="255" font-family="Arial, sans-serif" font-size="10" fill="#495057">• Digital sporingslogg</text>
+  <text x="340" y="267" font-family="Arial, sans-serif" font-size="10" fill="#495057">• Komplett historikk</text>
+  
+  <!-- Control -->
+  <rect x="470" y="200" width="120" height="80" rx="5" fill="#e9ecef" stroke="#adb5bd" stroke-width="1"/>
+  <circle cx="530" cy="220" r="8" fill="#dc3545"/>
+  <rect x="526" y="216" width="8" height="8" fill="none" stroke="white" stroke-width="1"/>
+  <path d="M528 218 L530 220 L532 218" stroke="white" stroke-width="1" fill="none"/>
+  <text x="530" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">Forbedret Kontroll</text>
+  <text x="480" y="255" font-family="Arial, sans-serif" font-size="10" fill="#495057">• Automatiske kontroller</text>
+  <text x="480" y="267" font-family="Arial, sans-serif" font-size="10" fill="#495057">• Regelbasert validering</text>
+  
+  <!-- Technology components -->
+  <text x="300" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#212529">Teknologiske Komponenter</text>
+  
+  <!-- Tech boxes -->
+  <rect x="80" y="340" width="80" height="40" rx="5" fill="#6f42c1" opacity="0.8"/>
+  <text x="120" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">Cloud</text>
+  <text x="120" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">Computing</text>
+  
+  <rect x="180" y="340" width="80" height="40" rx="5" fill="#17a2b8" opacity="0.8"/>
+  <text x="220" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">API</text>
+  <text x="220" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">Integrasjon</text>
+  
+  <rect x="280" y="340" width="80" height="40" rx="5" fill="#fd7e14" opacity="0.8"/>
+  <text x="320" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">Machine</text>
+  <text x="320" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">Learning</text>
+  
+  <rect x="380" y="340" width="80" height="40" rx="5" fill="#20c997" opacity="0.8"/>
+  <text x="420" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">Blockchain</text>
+  <text x="420" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">Sikkerhet</text>
+  
+  <rect x="480" y="340" width="80" height="40" rx="5" fill="#e83e8c" opacity="0.8"/>
+  <text x="520" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">Mobile</text>
+  <text x="520" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">Apps</text>
+</svg>

@@ -1,0 +1,110 @@
+<svg width="700" height="600" viewBox="0 0 700 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="700" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="350" y="30" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c3e50" text-anchor="middle">
+    Helligdagslønn for Deltidsansatte
+  </text>
+  
+  <!-- Employee comparison -->
+  <rect x="50" y="60" width="600" height="480" fill="#ffffff" stroke="#3498db" stroke-width="2" rx="10"/>
+  
+  <!-- Full-time employee -->
+  <rect x="80" y="90" width="250" height="200" fill="#ecf0f1" stroke="#3498db" stroke-width="1" rx="5"/>
+  <text x="205" y="115" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50" text-anchor="middle">
+    Heltidsansatt
+  </text>
+  
+  <text x="90" y="140" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    • Arbeidsuke: 37,5 timer
+  </text>
+  <text x="90" y="155" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    • Månedslønn: 45 000 kr
+  </text>
+  <text x="90" y="170" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    • Daglønn: 2 250 kr
+  </text>
+  <text x="90" y="185" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    • Timer per dag: 7,5 timer
+  </text>
+  
+  <rect x="90" y="200" width="230" height="30" fill="#27ae60" rx="3"/>
+  <text x="205" y="220" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white" text-anchor="middle">
+    Helligdagslønn: 2 250 kr
+  </text>
+  <text x="205" y="250" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d" text-anchor="middle">
+    (Full daglønn uavhengig av helligdag)
+  </text>
+  
+  <!-- Part-time employee -->
+  <rect x="370" y="90" width="250" height="200" fill="#ecf0f1" stroke="#e74c3c" stroke-width="1" rx="5"/>
+  <text x="495" y="115" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50" text-anchor="middle">
+    Deltidsansatt (60%)
+  </text>
+  
+  <text x="380" y="140" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    • Arbeidsuke: 22,5 timer
+  </text>
+  <text x="380" y="155" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    • Månedslønn: 27 000 kr
+  </text>
+  <text x="380" y="170" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    • Daglønn: 1 350 kr
+  </text>
+  <text x="380" y="185" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    • Timer per dag: 4,5 timer
+  </text>
+  
+  <rect x="380" y="200" width="230" height="30" fill="#e74c3c" rx="3"/>
+  <text x="495" y="220" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white" text-anchor="middle">
+    Helligdagslønn: 1 350 kr
+  </text>
+  <text x="495" y="250" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d" text-anchor="middle">
+    (Basert på normal arbeidsdag)
+  </text>
+  
+  <!-- Calculation method -->
+  <rect x="80" y="310" width="540" height="120" fill="#f8f9fa" stroke="#f39c12" stroke-width="2" rx="5"/>
+  <text x="350" y="335" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50" text-anchor="middle">
+    Beregningsmetode for Deltidsansatte
+  </text>
+  
+  <text x="100" y="360" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+    <tspan font-weight="bold">Formel:</tspan> Helligdagslønn = (Månedslønn ÷ Antall arbeidsdager) × Normale timer på helligdagen
+  </text>
+  
+  <text x="100" y="380" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+    <tspan font-weight="bold">Eksempel:</tspan> 27 000 kr ÷ 20 dager = 1 350 kr per dag
+  </text>
+  
+  <text x="100" y="400" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+    <tspan font-weight="bold">Resultat:</tspan> Deltidsansatt får lønn tilsvarende sin normale arbeidsdag
+  </text>
+  
+  <text x="100" y="420" font-family="Arial, sans-serif" font-size="11" fill="#7f8c8d">
+    * Hvis helligdagen faller på en dag ansatte normalt ikke arbeider, får de ingen helligdagslønn
+  </text>
+  
+  <!-- Special cases -->
+  <rect x="80" y="450" width="540" height="80" fill="#ffffff" stroke="#9b59b6" stroke-width="2" rx="5"/>
+  <text x="350" y="475" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50" text-anchor="middle">
+    Spesielle Tilfeller
+  </text>
+  
+  <text x="100" y="495" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    • <tspan font-weight="bold">Variabel arbeidstid:</tspan> Beregn gjennomsnitt av siste 3 måneder
+  </text>
+  <text x="100" y="510" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    • <tspan font-weight="bold">Turnus/skift:</tspan> Basert på planlagt vakt på helligdagen
+  </text>
+  <text x="100" y="525" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    • <tspan font-weight="bold">Provisjonslønn:</tspan> Minimum kontraktsfestet grunnlønn
+  </text>
+  
+  <!-- Key principle -->
+  <rect x="80" y="560" width="540" height="30" fill="#27ae60" rx="5"/>
+  <text x="350" y="580" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white" text-anchor="middle">
+    Prinsipp: Helligdagslønn skal tilsvare det ansatte ville tjent på en normal arbeidsdag
+  </text>
+</svg>

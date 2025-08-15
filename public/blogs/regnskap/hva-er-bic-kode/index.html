@@ -1,0 +1,462 @@
+<!doctype html>
+<html lang="nb">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Hva er BIC-kode? | ReAI</title>
+  <meta name="description" content="Komplett regnskapssystem med faktura, lønn, bilagsføring og årsoppgjør.">
+  
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<script src="https://cdn.tailwindcss.com?plugins=typography"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        fontFamily: { sans: ['Inter','ui-sans-serif','system-ui','Arial','sans-serif'] },
+        colors: {
+          brand: { DEFAULT: '#111827' },
+          accent: { DEFAULT: '#2563eb' }
+        }
+      }
+    }
+  }
+</script>
+<style>
+   
+  header .header-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #000 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link:hover { background-position: 0; }
+  header .header-link:hover::before { width: 100%; }
+
+  footer .footer-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #ffffff 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link:hover { background-position: 0; }
+  footer .footer-link:hover::before { width: 100%; }
+</style>
+<style>
+   
+  .prose { overflow-wrap: anywhere; word-break: break-word; }
+  .prose img { max-width: 100%; height: auto; }
+  .prose table { display: block; width: 100%; overflow-x: auto; }
+  .prose pre { white-space: pre-wrap; word-break: break-word; overflow-x: auto; }
+  .prose code { word-break: break-word; }
+  .prose iframe, .prose video { max-width: 100%; width: 100%; height: auto; }
+</style>
+<style>
+   
+  button,
+  .btn,
+  a.btn,
+  .button,
+  .cta,
+  .link-button,
+   
+  a.inline-flex.rounded-md,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"] {
+    transition: transform 220ms ease, box-shadow 220ms ease, background-color 220ms ease, color 220ms ease, opacity 220ms ease;
+    will-change: transform, box-shadow;
+  }
+
+  button:hover,
+  .btn:hover,
+  a.btn:hover,
+  .button:hover,
+  .cta:hover,
+  .link-button:hover,
+  a.inline-flex.rounded-md:hover,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+
+  button:active,
+  .btn:active,
+  a.btn:active,
+  .button:active,
+  .cta:active,
+  .link-button:active,
+  a.inline-flex.rounded-md:active,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:active {
+    transform: translateY(-1px) scale(0.99);
+    box-shadow: 0 6px 12px rgba(2, 6, 23, 0.1);
+  }
+
+  button:focus-visible,
+  .btn:focus-visible,
+  a.btn:focus-visible,
+  .button:focus-visible,
+  .cta:focus-visible,
+  .link-button:focus-visible,
+  a.inline-flex.rounded-md:focus-visible,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.35), 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+</style>
+
+<link rel="icon" type="image/svg+xml" href="/images/ReAI-logo-square.svg">
+<link rel="shortcut icon" href="/images/ReAI-logo-square.svg">
+
+</head>
+<body class="min-h-dvh bg-white text-gray-900 font-sans">
+  <header class="sticky top-0 z-40 bg-white/80 backdrop-blur">
+  
+  <div class="border-b border-slate-200/70">
+    <div class="max-w-7xl mx-auto px-4">
+      <div class="h-16 flex items-center justify-between">
+        <a href="/" class="flex items-center gap-2" aria-label="ReAI">
+          <img src="/images/ReAI-logo-square.svg?v=4" alt="ReAI logo" class="h-14 w-14 rounded-md mt-5" width="56" height="56" loading="eager" decoding="async">
+        </a>
+        <nav class="hidden md:block">
+          <ul class="flex items-center gap-5 text-sm">
+            <li><a href="/courses/" class="header-link text-slate-700 hover:text-black">Gratis kurs</a></li>
+            <li><a href="/contact/" class="header-link text-slate-700 hover:text-black">Kontakt oss</a></li>
+            <li><a href="/blog/" class="header-link text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+            <li><a href="/bli-partner/" class="header-link text-slate-700 hover:text-black">Bli partner</a></li>
+            <li><a href="/fakturamal/" class="header-link text-slate-700 hover:text-black">Lag faktura</a></li>
+          </ul>
+        </nav>
+        <button id="mobileMenuBtn" aria-controls="mobileMenu" aria-expanded="false" class="md:hidden inline-flex items-center justify-center h-9 w-9 rounded-md border border-slate-300">
+          <span class="sr-only">Menu</span>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-5 w-5"><path d="M3.75 6.75h16.5v1.5H3.75zM3.75 11.25h16.5v1.5H3.75zM3.75 15.75h16.5v1.5H3.75z"/></svg>
+        </button>
+      </div>
+    </div>
+  </div>
+  
+  <nav id="mobileMenu" class="md:hidden hidden border-b border-slate-200/70 bg-white/95 backdrop-blur">
+    <div class="max-w-7xl mx-auto px-4 py-3">
+      <ul class="flex flex-col items-center gap-3 text-sm text-center">
+        <li><a href="/courses/" class="header-link block text-slate-700 hover:text-black">Gratis kurs</a></li>
+        <li><a href="/contact/" class="header-link block text-slate-700 hover:text-black">Kontakt oss</a></li>
+        <li><a href="/blog/" class="header-link block text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+        <li><a href="/bli-partner/" class="header-link block text-slate-700 hover:text-black">Bli partner</a></li>
+        <li><a href="/fakturamal/" class="header-link block text-slate-700 hover:text-black">Lag faktura</a></li>
+      </ul>
+    </div>
+  </nav>
+  <script>
+    (function() {
+      const btn = document.getElementById('mobileMenuBtn');
+      const menu = document.getElementById('mobileMenu');
+      if (!btn || !menu) return;
+      btn.addEventListener('click', function() {
+        const isHidden = menu.classList.contains('hidden');
+        menu.classList.toggle('hidden');
+        btn.setAttribute('aria-expanded', String(isHidden));
+      });
+    })();
+  </script>
+</header>
+  <main>
+    
+<section class="pt-10 md:pt-14">
+  <div class="max-w-3xl mx-auto px-4">
+    <h1 class="text-3xl font-semibold tracking-tight text-center">Hva er BIC-kode?</h1>
+    <p class="mt-2 text-gray-700">BIC-kode (Bank Identifier Code) er en internasjonal standard for identifikasjon av banker ved grenseoverskridende betalinger. Denne artikkelen forklarer BIC-kodens struktur, anvendelse i SWIFT-systemet, og betydning for norske bedrifter som håndterer internasjonale transaksjoner og valutahandel.
+</p>
+    <article class="prose max-w-none mt-6"><p><strong>BIC-kode</strong> (Bank Identifier Code) er en internasjonal standard som brukes for å identifisere banker og finansinstitusjoner ved grenseoverskridende betalinger og finansielle transaksjoner. For norske bedrifter som driver med internasjonal handel, er forståelse av BIC-koder essensielt for korrekt håndtering av <a href="/blogs/regnskap/hva-er-banktransaksjoner" title="Hva er Banktransaksjoner? Komplett Guide til Registrering og Bokføring">banktransaksjoner</a> og <a href="/blogs/regnskap/hva-er-betalingsmidler" title="Hva er Betalingsmidler? Tvungne, Elektroniske og Tradisjonelle Metoder">valutahandel</a>.</p>
+<p>BIC-koden fungerer som en digital adresse for banker i det globale finanssystemet og er uunnværlig for korrekt <a href="/blogs/regnskap/hva-er-bankavstemming" title="Hva er Bankavstemming? Komplett Guide til Avstemming av Bankkonti">bokføring av internasjonale transaksjoner</a> og oppfyllelse av regnskapsmessige krav.</p>
+<h2 id="hva-er-bic-kode">Hva er BIC-kode?</h2>
+<p>BIC-kode står for <strong>Bank Identifier Code</strong> og er også kjent som <strong>SWIFT-kode</strong>, oppkalt etter <a href="/blogs/regnskap/hva-er-swift" title="Hva er SWIFT? En Komplett Guide til SWIFT-nettverket og Internasjonal Finanskommunikasjon">SWIFT</a> (Society for Worldwide Interbank Financial Telecommunication) som administrerer systemet. Denne koden er en unik identifikator som sikrer at internasjonale betalinger når frem til riktig bank og filial.</p>
+<p><img src="bic-kode-struktur.svg" alt="BIC-kode struktur og komponenter"></p>
+<h3 id="bic-kodens-struktur">BIC-kodens Struktur</h3>
+<p>En BIC-kode består av <strong>8 eller 11 tegn</strong> og er bygget opp som følger:</p>
+<table>
+  <thead>
+      <tr>
+          <th>Posisjon</th>
+          <th>Lengde</th>
+          <th>Beskrivelse</th>
+          <th>Eksempel</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>1-4</td>
+          <td>4 tegn</td>
+          <td><strong>Bankkode</strong> - Identifiserer banken</td>
+          <td>DNBA</td>
+      </tr>
+      <tr>
+          <td>5-6</td>
+          <td>2 tegn</td>
+          <td><strong>Landkode</strong> - ISO 3166-1 alpha-2</td>
+          <td>NO</td>
+      </tr>
+      <tr>
+          <td>7-8</td>
+          <td>2 tegn</td>
+          <td><strong>Stedkode</strong> - Identifiserer byen/regionen</td>
+          <td>22</td>
+      </tr>
+      <tr>
+          <td>9-11</td>
+          <td>3 tegn</td>
+          <td><strong>Filialkode</strong> - Identifiserer spesifikk filial (valgfritt)</td>
+          <td>XXX</td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="eksempel-på-norske-bic-koder">Eksempel på Norske BIC-koder</h3>
+<p>Her er noen eksempler på BIC-koder for store norske banker:</p>
+<table>
+  <thead>
+      <tr>
+          <th>Bank</th>
+          <th>BIC-kode</th>
+          <th>Forklaring</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>DNB</td>
+          <td>DNBANOKKXXX</td>
+          <td>DNB Bank ASA, Norge, Oslo</td>
+      </tr>
+      <tr>
+          <td>Nordea</td>
+          <td>NDEANOKK</td>
+          <td>Nordea Bank Norge ASA</td>
+      </tr>
+      <tr>
+          <td>Sparebank 1</td>
+          <td>SPRONO22</td>
+          <td>Sparebank 1 SR-Bank</td>
+      </tr>
+      <tr>
+          <td>Handelsbanken</td>
+          <td>HANDSESS</td>
+          <td>Svenska Handelsbanken (norsk filial)</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="bic-kodens-rolle-i-internasjonale-betalinger">BIC-kodens Rolle i Internasjonale Betalinger</h2>
+<p>BIC-koder er fundamentale for <strong><a href="/blogs/regnskap/hva-er-swift" title="Hva er SWIFT? En Komplett Guide til SWIFT-nettverket og Internasjonal Finanskommunikasjon">SWIFT-nettverket</a></strong>, som håndterer over 40 millioner meldinger daglig mellom mer enn 11 000 finansinstitusjoner i over 200 land. For norske bedrifter betyr dette sikker og sporbar overføring av <a href="/blogs/regnskap/hva-er-betalingsmidler" title="Hva er Betalingsmidler? Tvungne, Elektroniske og Tradisjonelle Metoder">betalingsmidler</a> på tvers av landegrenser.</p>
+<p><img src="swift-nettverk-bic.svg" alt="SWIFT-nettverket og BIC-koder"></p>
+<h3 id="hvordan-bic-koder-fungerer-i-praksis">Hvordan BIC-koder Fungerer i Praksis</h3>
+<p>Når en norsk bedrift skal sende en internasjonal betaling, skjer følgende prosess:</p>
+<ol>
+<li><strong>Identifikasjon</strong>: Mottakers BIC-kode identifiserer riktig bank</li>
+<li><strong>Routing</strong>: SWIFT-systemet ruter betalingen gjennom riktige mellombanker</li>
+<li><strong>Levering</strong>: Betalingen ankommer mottakers bank med korrekt identifikasjon</li>
+<li><strong>Konfirmasjon</strong>: Bekreftelse sendes tilbake til avsender</li>
+</ol>
+<p>Dette systemet sikrer at <a href="/blogs/regnskap/hva-er-banktransaksjoner" title="Hva er Banktransaksjoner? Komplett Guide til Registrering og Bokføring">banktransaksjoner</a> kan spores og dokumenteres korrekt for regnskapsformål.</p>
+<h2 id="bic-kode-vs-iban---forskjeller-og-sammenheng">BIC-kode vs. IBAN - Forskjeller og Sammenheng</h2>
+<p>Mens <strong>BIC-koden</strong> identifiserer banken, identifiserer <strong><a href="/blogs/regnskap/hva-er-iban-nummer" title="Hva er IBAN-nummer? Komplett Guide til International Bank Account Number i Norge">IBAN-nummeret</a></strong> (International Bank Account Number) den spesifikke kontoen. Begge er nødvendige for internasjonale betalinger:</p>
+<table>
+  <thead>
+      <tr>
+          <th>Aspekt</th>
+          <th>BIC-kode</th>
+          <th>IBAN</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>Formål</strong></td>
+          <td>Identifiserer bank/finansinstitusjon</td>
+          <td>Identifiserer spesifikk bankkonto</td>
+      </tr>
+      <tr>
+          <td><strong>Lengde</strong></td>
+          <td>8 eller 11 tegn</td>
+          <td>Opptil 34 tegn (15 i Norge)</td>
+      </tr>
+      <tr>
+          <td><strong>Struktur</strong></td>
+          <td>Bankkode + Landkode + Stedkode + Filialkode</td>
+          <td>Landkode + Kontrollsiffer + Bankkode + Kontonummer</td>
+      </tr>
+      <tr>
+          <td><strong>Eksempel</strong></td>
+          <td>DNBANOKKXXX</td>
+          <td>NO93 8601 1117 947</td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="praktisk-anvendelse">Praktisk Anvendelse</h3>
+<p>For en komplett internasjonal betaling trenger du:</p>
+<ul>
+<li><strong>BIC-kode</strong> for å identifisere mottakers bank</li>
+<li><strong>IBAN</strong> for å identifisere mottakers spesifikke konto</li>
+<li><strong>Betalingsreferanse</strong> for korrekt <a href="/blogs/regnskap/hva-er-avstemming" title="Hva er Avstemming? Komplett Guide til Regnskapsmessig Avstemming">avstemming</a></li>
+</ul>
+<h2 id="regnskapsmessige-implikasjoner-av-bic-koder">Regnskapsmessige Implikasjoner av BIC-koder</h2>
+<p>For norske bedrifter har BIC-koder flere viktige regnskapsmessige implikasjoner som påvirker både <a href="/blogs/regnskap/hva-er-regnskap" title="Hva er Regnskap? En Komplett Innføring i Norsk Regnskapsføring">bokføring</a> og <a href="/blogs/regnskap/hva-er-attestering" title="Hva er Attestering? En Komplett Guide til Bilagsbehandling og Godkjenning">internkontroll</a>.</p>
+<p><img src="bic-regnskap-implikasjoner.svg" alt="Regnskapsmessige aspekter ved BIC-koder"></p>
+<h3 id="dokumentasjon-og-sporbarhet">Dokumentasjon og Sporbarhet</h3>
+<p>BIC-koder bidrar til:</p>
+<ul>
+<li><strong>Fullstendig dokumentasjon</strong> av internasjonale transaksjoner</li>
+<li><strong>Sporbarhet</strong> av betalinger for revisjonsformål</li>
+<li><strong>Korrekt identifikasjon</strong> av motparter i regnskapet</li>
+<li><strong>Overholdelse</strong> av bokføringslovens krav til dokumentasjon</li>
+</ul>
+<h3 id="valutahåndtering-og-kursrisiko">Valutahåndtering og Kursrisiko</h3>
+<p>Ved internasjonale betalinger med BIC-koder må bedrifter håndtere:</p>
+<ul>
+<li><strong>Valutakurser</strong> på transaksjonstidspunktet</li>
+<li><strong>Kursgevinster og kurstap</strong> i regnskapet</li>
+<li><strong>Sikringsstrategier</strong> for valutarisiko</li>
+<li><strong>Periodisering</strong> av valutaeffekter</li>
+<li><strong><a href="/blogs/regnskap/hva-er-fjernleverbare-tjenester" title="Hva er Fjernleverbare Tjenester i Regnskap? MVA-regler og Bokføring">Fjernleverbare tjenester</a></strong> har spesielle MVA-regler ved grenseoverskridende levering</li>
+</ul>
+<h2 id="bic-koder-i-norsk-banksektor">BIC-koder i Norsk Banksektor</h2>
+<p>Den norske banksektoren har implementert BIC-koder som en integrert del av det internasjonale betalingssystemet. Dette påvirker hvordan norske bedrifter håndterer <a href="/blogs/regnskap/hva-er-bankinnskudd" title="Hva er Bankinnskudd? Typer, Renter og Regnskapsføring">bankinnskudd</a> og internasjonale transaksjoner.</p>
+<h3 id="norske-bankers-bic-struktur">Norske Bankers BIC-struktur</h3>
+<p>Norske BIC-koder følger et konsistent mønster:</p>
+<ul>
+<li><strong>Landkode</strong>: Alltid &ldquo;NO&rdquo; for Norge</li>
+<li><strong>Stedkode</strong>: Vanligvis &ldquo;22&rdquo; for Oslo, men kan variere</li>
+<li><strong>Bankkode</strong>: Unike 4-tegns koder for hver bank</li>
+</ul>
+<h3 id="implementering-i-norske-betalingssystemer">Implementering i Norske Betalingssystemer</h3>
+<p>Norske banker har integrert BIC-koder i:</p>
+<ul>
+<li><strong>Nettbanktjenester</strong> for privatpersoner og bedrifter</li>
+<li><strong><a href="/blogs/regnskap/hva-er-bankgiro" title="Hva er BankGiro? Komplett Guide til Norsk Betalingssystem">BankGiro</a></strong>-systemet for internasjonale betalinger</li>
+<li><strong>Regnskapssystemer</strong> for automatisk bokføring</li>
+<li><strong>Rapporteringssystemer</strong> for myndighetskrav</li>
+</ul>
+<h2 id="praktiske-råd-for-bedrifter">Praktiske Råd for Bedrifter</h2>
+<p>For norske bedrifter som håndterer internasjonale transaksjoner, er det viktig å etablere gode rutiner rundt BIC-koder:</p>
+<h3 id="beste-praksis-for-bic-håndtering">Beste Praksis for BIC-håndtering</h3>
+<ul>
+<li><strong>Verifiser alltid BIC-koder</strong> før du sender betalinger</li>
+<li><strong>Oppbevar dokumentasjon</strong> av alle internasjonale transaksjoner</li>
+<li><strong>Implementer kontrollrutiner</strong> for å unngå feil i BIC-koder</li>
+<li><strong>Tren personalet</strong> i korrekt bruk av BIC-koder</li>
+</ul>
+<h3 id="vanlige-feil-og-hvordan-unngå-dem">Vanlige Feil og Hvordan Unngå Dem</h3>
+<p>De mest vanlige feilene ved bruk av BIC-koder inkluderer:</p>
+<ol>
+<li><strong>Feil BIC-kode</strong>: Kan føre til forsinkede eller returnerte betalinger</li>
+<li><strong>Manglende BIC-kode</strong>: Kan resultere i ekstra gebyrer eller avvist betaling</li>
+<li><strong>Utdaterte BIC-koder</strong>: Banker kan endre sine koder ved fusjoner eller omorganiseringer</li>
+<li><strong>Feil kombinasjon</strong>: BIC-kode som ikke matcher IBAN-kontoen</li>
+</ol>
+<h3 id="kontrollrutiner-for-bic-koder">Kontrollrutiner for BIC-koder</h3>
+<p>Etabler følgende kontrollrutiner:</p>
+<ul>
+<li><strong>Dobbel verifikasjon</strong> av BIC-koder før betaling</li>
+<li><strong>Regelmessig oppdatering</strong> av BIC-database</li>
+<li><strong><a href="/blogs/regnskap/hva-er-attestering" title="Hva er Attestering? En Komplett Guide til Bilagsbehandling og Godkjenning">Attestering</a></strong> av internasjonale betalinger</li>
+<li><strong>Oppfølging</strong> av betalingsstatus</li>
+</ul>
+<h2 id="fremtiden-for-bic-koder">Fremtiden for BIC-koder</h2>
+<p>BIC-systemet utvikler seg kontinuerlig for å møte nye krav i det globale finanssystemet. Viktige utviklingstrender inkluderer:</p>
+<h3 id="digitalisering-og-automatisering">Digitalisering og Automatisering</h3>
+<ul>
+<li><strong>API-integrasjoner</strong> for sanntids BIC-validering</li>
+<li><strong>Automatisk BIC-oppslag</strong> i regnskapssystemer</li>
+<li><strong>Kunstig intelligens</strong> for feildeteksjon</li>
+<li><strong>Blockchain-teknologi</strong> for økt sikkerhet</li>
+</ul>
+<h3 id="regulatoriske-endringer">Regulatoriske Endringer</h3>
+<ul>
+<li><strong>Økt rapporteringskrav</strong> for internasjonale transaksjoner</li>
+<li><strong>Strengere KYC-krav</strong> (Know Your Customer)</li>
+<li><strong>Anti-hvitvasking</strong> regulering</li>
+<li><strong>GDPR-compliance</strong> for databehandling</li>
+</ul>
+<h2 id="konklusjon">Konklusjon</h2>
+<p>BIC-koder er en fundamental komponent i det moderne internasjonale finanssystemet og spiller en kritisk rolle for norske bedrifter som driver med grenseoverskridende handel. Korrekt forståelse og anvendelse av BIC-koder sikrer:</p>
+<ul>
+<li><strong>Effektive internasjonale betalinger</strong> uten forsinkelser eller feil</li>
+<li><strong>Korrekt regnskapsføring</strong> av internasjonale transaksjoner</li>
+<li><strong>Overholdelse</strong> av regulatoriske krav</li>
+<li><strong>God internkontroll</strong> og sporbarhet</li>
+</ul>
+<p>For bedrifter som ønsker å optimalisere sin håndtering av internasjonale betalinger, er det essensielt å etablere robuste rutiner for BIC-koder som en del av den overordnede <a href="/blogs/regnskap/hva-er-bankavstemming" title="Hva er Bankavstemming? Komplett Guide til Avstemming av Bankkonti">bankavstemming</a> og regnskapsprosessen.</p>
+<p>Ved å følge beste praksis og holde seg oppdatert på utviklingen innen BIC-systemet, kan norske bedrifter sikre smidig og sikker håndtering av sine internasjonale finansielle transaksjoner.</p>
+</article>
+  </div>
+</section>
+
+  </main>
+  <footer class="mt-16 border-t border-slate-800/60 bg-slate-900">
+  <div class="max-w-7xl mx-auto px-4 py-14">
+    <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3 text-center sm:text-left">
+      
+      <div>
+        <h3 class="text-sm font-semibold text-white">Verktøy</h3>
+        <ul class="mt-2 space-y-2 text-sm text-slate-300">
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/finn-iban/">IBAN kalkulator</a></li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/lag-faktura-gratis/">Lag faktura</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Selskaps-informasjon</h3>
+        <ul class="mt-2 space-y-1 text-sm text-slate-300">
+          <li>Reai AS</li>
+          <li>Orgnr: 935606403</li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="mailto:post@reai.no">post@reai.no</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Om ReAI</h3>
+        <p class="mt-2 text-sm text-slate-300">ReAI er et gratis regnskapsprogram laget av tidligere ansatte i Tripletex
+          / Visma. Vi mener det er på tide med mer konkurranse i regnskaps-bransjen som kan komme bedrifter til gode.
+        </p>
+      </div>
+    </div>
+    <div class="mt-12 border-t border-slate-800/60 pt-6 flex flex-col items-center sm:flex-row sm:items-center sm:justify-between text-sm text-slate-400 text-center sm:text-left">
+      <div class="flex items-center gap-2">
+        
+        
+      </div>
+      <div class="mt-4 sm:mt-0 flex items-center justify-center sm:justify-end">
+        <div class="opacity-80">&copy; 2025 ReAI. All rights reserved.</div>
+      </div>
+    </div>
+  </div>
+</footer>
+</body>
+</html>

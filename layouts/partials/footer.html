@@ -1,41 +1,40 @@
-<footer class="mt-16 border-t border-slate-200/70 bg-white">
+<footer class="mt-16 border-t border-slate-800/60 bg-slate-900">
   <div class="max-w-7xl mx-auto px-4 py-14">
-    <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
+    <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3 text-center sm:text-left">
       <!-- <div>
-        <h3 class="text-sm font-semibold text-slate-900">App</h3>
-        <p class="mt-2 text-sm text-slate-600">Vi har såklart en app du kan bruke så du kan laste opp bilag fra mobilen
+        <h3 class="text-sm font-semibold text-white">App</h3>
+        <p class="mt-2 text-sm text-slate-300">Vi har såklart en app du kan bruke så du kan laste opp bilag fra mobilen
           din, og ha alt av regnskap digitalt!</p>
       </div> -->
       <div>
-        <h3 class="text-sm font-semibold text-slate-900">Verktøy</h3>
-        <ul class="mt-2 space-y-2 text-sm text-slate-600">
-          <li><a class="hover:text-black" href="/pages/finn-iban/">IBAN kalkulator</a></li>
-          <li><a class="hover:text-black" href="/pages/lag-faktura-gratis/">Lag faktura</a></li>
+        <h3 class="text-sm font-semibold text-white">Verktøy</h3>
+        <ul class="mt-2 space-y-2 text-sm text-slate-300">
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/finn-iban/">IBAN kalkulator</a></li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/lag-faktura-gratis/">Lag faktura</a></li>
         </ul>
       </div>
       <div>
-        <h3 class="text-sm font-semibold text-slate-900">Selskaps-informasjon</h3>
-        <ul class="mt-2 space-y-1 text-sm text-slate-600">
+        <h3 class="text-sm font-semibold text-white">Selskaps-informasjon</h3>
+        <ul class="mt-2 space-y-1 text-sm text-slate-300">
           <li>Reai AS</li>
           <li>Orgnr: 935606403</li>
-          <li><a class="hover:text-black" href="mailto:post@reai.no">post@reai.no</a></li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="mailto:post@reai.no">post@reai.no</a></li>
         </ul>
       </div>
       <div>
-        <h3 class="text-sm font-semibold text-slate-900">Om ReAI</h3>
-        <p class="mt-2 text-sm text-slate-600">ReAI er et gratis regnskapsprogram laget av tidligere ansatte i Tripletex
+        <h3 class="text-sm font-semibold text-white">Om ReAI</h3>
+        <p class="mt-2 text-sm text-slate-300">ReAI er et gratis regnskapsprogram laget av tidligere ansatte i Tripletex
           / Visma. Vi mener det er på tide med mer konkurranse i regnskaps-bransjen som kan komme bedrifter til gode.
         </p>
       </div>
     </div>
-    <div class="mt-12 border-t border-slate-200/70 pt-6 flex items-center justify-between text-sm text-slate-600">
+    <div class="mt-12 border-t border-slate-800/60 pt-6 flex flex-col items-center sm:flex-row sm:items-center sm:justify-between text-sm text-slate-400 text-center sm:text-left">
       <div class="flex items-center gap-2">
         <!-- <span class="inline-block h-6 w-6 rounded-md bg-slate-900"></span> -->
         <!-- <span class="font-medium">{{ .Site.Title }}</span> -->
       </div>
-      <div
-        class=" w-full mt-12 border-t border-slate-200/70 pt-6 flex items-center justify-center text-sm text-slate-600">
-        <div class="opacity-80 text-center">&copy; {{ now.Year }} {{ .Site.Title }}. All rights reserved.</div>
+      <div class="mt-4 sm:mt-0 flex items-center justify-center sm:justify-end">
+        <div class="opacity-80">&copy; {{ now.Year }} {{ .Site.Title }}. All rights reserved.</div>
       </div>
     </div>
   </div>

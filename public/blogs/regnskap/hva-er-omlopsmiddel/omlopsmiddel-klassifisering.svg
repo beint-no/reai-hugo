@@ -1,0 +1,97 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1e40af;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="mainGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#dbeafe;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#bfdbfe;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8fafc"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
+  <text x="400" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="bold">Klassifisering av Omløpsmidler</text>
+  
+  <!-- Main title box -->
+  <rect x="300" y="80" width="200" height="60" fill="url(#mainGradient)" stroke="#2563eb" stroke-width="3" rx="10"/>
+  <text x="400" y="105" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="16" font-weight="bold">OMLØPSMIDLER</text>
+  <text x="400" y="125" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="14">(Kortsiktige eiendeler)</text>
+  
+  <!-- Category 1: Kontanter og kontantekvivalenter -->
+  <rect x="50" y="200" width="160" height="140" fill="#dcfce7" stroke="#16a34a" stroke-width="2" rx="8"/>
+  <text x="130" y="225" text-anchor="middle" fill="#15803d" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Kontanter &amp;</text>
+  <text x="130" y="245" text-anchor="middle" fill="#15803d" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Kontantekvivalenter</text>
+  <text x="130" y="270" text-anchor="middle" fill="#166534" font-family="Arial, sans-serif" font-size="11">• Kassebeholdning</text>
+  <text x="130" y="285" text-anchor="middle" fill="#166534" font-family="Arial, sans-serif" font-size="11">• Bankinnskudd</text>
+  <text x="130" y="300" text-anchor="middle" fill="#166534" font-family="Arial, sans-serif" font-size="11">• Pengemarkedsfond</text>
+  <text x="130" y="315" text-anchor="middle" fill="#166534" font-family="Arial, sans-serif" font-size="11">• Statskasseveksler</text>
+  
+  <!-- Arrow from main to category 1 -->
+  <path d="M 320 140 L 180 200" stroke="#2563eb" stroke-width="2" marker-end="url(#blueArrow)"/>
+  
+  <!-- Category 2: Kortsiktige fordringer -->
+  <rect x="240" y="200" width="160" height="140" fill="#dbeafe" stroke="#2563eb" stroke-width="2" rx="8"/>
+  <text x="320" y="225" text-anchor="middle" fill="#1d4ed8" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Kortsiktige</text>
+  <text x="320" y="245" text-anchor="middle" fill="#1d4ed8" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Fordringer</text>
+  <text x="320" y="270" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="11">• Kundefordringer</text>
+  <text x="320" y="285" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="11">• Forskuddsbetalinger</text>
+  <text x="320" y="300" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="11">• MVA-refusjon</text>
+  <text x="320" y="315" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="11">• Påløpte inntekter</text>
+  
+  <!-- Arrow from main to category 2 -->
+  <path d="M 380 140 L 340 200" stroke="#2563eb" stroke-width="2" marker-end="url(#blueArrow)"/>
+  
+  <!-- Category 3: Varelager -->
+  <rect x="430" y="200" width="160" height="140" fill="#fef3c7" stroke="#d97706" stroke-width="2" rx="8"/>
+  <text x="510" y="235" text-anchor="middle" fill="#b45309" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Varelager</text>
+  <text x="510" y="265" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="11">• Råvarer</text>
+  <text x="510" y="280" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="11">• Varer under arbeid</text>
+  <text x="510" y="295" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="11">• Ferdigvarer</text>
+  <text x="510" y="310" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="11">• Hjelpestoffer</text>
+  
+  <!-- Arrow from main to category 3 -->
+  <path d="M 420 140 L 460 200" stroke="#2563eb" stroke-width="2" marker-end="url(#blueArrow)"/>
+  
+  <!-- Category 4: Kortsiktige investeringer -->
+  <rect x="620" y="200" width="160" height="140" fill="#fce7f3" stroke="#be185d" stroke-width="2" rx="8"/>
+  <text x="700" y="225" text-anchor="middle" fill="#be185d" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Kortsiktige</text>
+  <text x="700" y="245" text-anchor="middle" fill="#be185d" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Investeringer</text>
+  <text x="700" y="270" text-anchor="middle" fill="#9d174d" font-family="Arial, sans-serif" font-size="11">• Aksjer</text>
+  <text x="700" y="285" text-anchor="middle" fill="#9d174d" font-family="Arial, sans-serif" font-size="11">• Obligasjoner</text>
+  <text x="700" y="300" text-anchor="middle" fill="#9d174d" font-family="Arial, sans-serif" font-size="11">• Fond</text>
+  <text x="700" y="315" text-anchor="middle" fill="#9d174d" font-family="Arial, sans-serif" font-size="11">• Derivater</text>
+  
+  <!-- Arrow from main to category 4 -->
+  <path d="M 480 140 L 620 200" stroke="#2563eb" stroke-width="2" marker-end="url(#blueArrow)"/>
+  
+  <!-- Liquidity scale -->
+  <rect x="100" y="400" width="600" height="80" fill="#f1f5f9" stroke="#64748b" stroke-width="2" rx="10"/>
+  <text x="400" y="425" text-anchor="middle" fill="#334155" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Likviditetsskala (høyest til lavest)</text>
+  
+  <!-- Liquidity arrow -->
+  <path d="M 150 450 L 650 450" stroke="#64748b" stroke-width="4" marker-end="url(#grayArrow)"/>
+  <text x="200" y="470" text-anchor="middle" fill="#475569" font-family="Arial, sans-serif" font-size="12">Kontanter</text>
+  <text x="350" y="470" text-anchor="middle" fill="#475569" font-family="Arial, sans-serif" font-size="12">Fordringer</text>
+  <text x="500" y="470" text-anchor="middle" fill="#475569" font-family="Arial, sans-serif" font-size="12">Investeringer</text>
+  <text x="600" y="470" text-anchor="middle" fill="#475569" font-family="Arial, sans-serif" font-size="12">Varelager</text>
+  
+  <!-- Key characteristics box -->
+  <rect x="200" y="520" width="400" height="60" fill="#e0f2fe" stroke="#0891b2" stroke-width="2" rx="8"/>
+  <text x="400" y="540" text-anchor="middle" fill="#0e7490" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Felles kjennetegn:</text>
+  <text x="400" y="560" text-anchor="middle" fill="#0e7490" font-family="Arial, sans-serif" font-size="12">Realiseres innen 12 måneder • Støtter daglig drift • Variabel verdi</text>
+  
+  <!-- Arrow markers -->
+  <defs>
+    <marker id="blueArrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#2563eb"/>
+    </marker>
+    <marker id="grayArrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#64748b"/>
+    </marker>
+  </defs>
+</svg>

@@ -1,0 +1,115 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#2563eb;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="method2Gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#059669;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#047857;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="method3Gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#dc2626;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#b91c1c;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="method4Gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#d97706;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#b45309;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="method5Gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#7c3aed;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#6d28d9;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="method6Gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#be185d;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#9d174d;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8fafc"/>
+  
+  <!-- Header -->
+  <rect x="50" y="20" width="700" height="60" rx="8" fill="url(#headerGradient)"/>
+  <text x="400" y="40" text-anchor="middle" fill="white" font-size="18" font-weight="bold">Alternative Tollverdimetoder</text>
+  <text x="400" y="60" text-anchor="middle" fill="white" font-size="14">Når transaksjonsverdien ikke kan anvendes</text>
+  
+  <!-- Method 2: Identiske Varer -->
+  <rect x="50" y="100" width="320" height="120" rx="8" fill="url(#method2Gradient)"/>
+  <text x="210" y="125" text-anchor="middle" fill="white" font-size="16" font-weight="bold">Metode 2: Identiske Varer</text>
+  <text x="70" y="145" fill="white" font-size="12">• Samme produsent og opprinnelse</text>
+  <text x="70" y="165" fill="white" font-size="12">• Samme tidspunkt (±60 dager)</text>
+  <text x="70" y="185" fill="white" font-size="12">• Sammenlignbart handelsnivå</text>
+  <text x="70" y="205" fill="white" font-size="12">• Tilsvarende handelsvilkår</text>
+  
+  <!-- Method 3: Lignende Varer -->
+  <rect x="430" y="100" width="320" height="120" rx="8" fill="url(#method3Gradient)"/>
+  <text x="590" y="125" text-anchor="middle" fill="white" font-size="16" font-weight="bold">Metode 3: Lignende Varer</text>
+  <text x="450" y="145" fill="white" font-size="12">• Samme funksjon og anvendelse</text>
+  <text x="450" y="165" fill="white" font-size="12">• Lignende egenskaper</text>
+  <text x="450" y="185" fill="white" font-size="12">• Sammenlignbar kvalitet</text>
+  <text x="450" y="205" fill="white" font-size="12">• Tilsvarende markedsposisjon</text>
+  
+  <!-- Method 4: Fradragsmetoden -->
+  <rect x="50" y="250" width="320" height="120" rx="8" fill="url(#method4Gradient)"/>
+  <text x="210" y="275" text-anchor="middle" fill="white" font-size="16" font-weight="bold">Metode 4: Fradragsmetoden</text>
+  <text x="70" y="295" fill="white" font-size="12">• Salgspris i Norge</text>
+  <text x="70" y="315" fill="white" font-size="12">• Minus handelsmarginer</text>
+  <text x="70" y="335" fill="white" font-size="12">• Minus kostnader etter import</text>
+  <text x="70" y="355" fill="white" font-size="12">• Minus toll og avgifter</text>
+  
+  <!-- Method 5: Kalkulert Verdi -->
+  <rect x="430" y="250" width="320" height="120" rx="8" fill="url(#method5Gradient)"/>
+  <text x="590" y="275" text-anchor="middle" fill="white" font-size="16" font-weight="bold">Metode 5: Kalkulert Verdi</text>
+  <text x="450" y="295" fill="white" font-size="12">• Produksjonskostnader</text>
+  <text x="450" y="315" fill="white" font-size="12">• Plus normal fortjeneste</text>
+  <text x="450" y="335" fill="white" font-size="12">• Plus transportkostnader</text>
+  <text x="450" y="355" fill="white" font-size="12">• Plus forsikring</text>
+  
+  <!-- Method 6: Fleksibel Metode -->
+  <rect x="240" y="400" width="320" height="120" rx="8" fill="url(#method6Gradient)"/>
+  <text x="400" y="425" text-anchor="middle" fill="white" font-size="16" font-weight="bold">Metode 6: Fleksibel Metode</text>
+  <text x="260" y="445" fill="white" font-size="12">• Tilgjengelige data fra lignende tilfeller</text>
+  <text x="260" y="465" fill="white" font-size="12">• Publiserte prislister</text>
+  <text x="260" y="485" fill="white" font-size="12">• Ekspertvurderinger</text>
+  <text x="260" y="505" fill="white" font-size="12">• WTO-kompatible tilnærminger</text>
+  
+  <!-- Arrows showing hierarchy -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#374151"/>
+    </marker>
+  </defs>
+  
+  <!-- Arrow from Method 2 to Method 3 -->
+  <path d="M 370 160 L 430 160" stroke="#374151" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Arrow from Method 3 to Method 4 -->
+  <path d="M 590 220 L 590 250 L 210 250" stroke="#374151" stroke-width="2" marker-end="url(#arrowhead)" fill="none"/>
+  
+  <!-- Arrow from Method 4 to Method 5 -->
+  <path d="M 370 310 L 430 310" stroke="#374151" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Arrow from Method 5 to Method 6 -->
+  <path d="M 590 370 L 590 400 L 400 400" stroke="#374151" stroke-width="2" marker-end="url(#arrowhead)" fill="none"/>
+  
+  <!-- Priority indicators -->
+  <circle cx="65" cy="115" r="12" fill="white"/>
+  <text x="65" y="120" text-anchor="middle" fill="#059669" font-size="12" font-weight="bold">2</text>
+  
+  <circle cx="445" cy="115" r="12" fill="white"/>
+  <text x="445" y="120" text-anchor="middle" fill="#dc2626" font-size="12" font-weight="bold">3</text>
+  
+  <circle cx="65" cy="265" r="12" fill="white"/>
+  <text x="65" y="270" text-anchor="middle" fill="#d97706" font-size="12" font-weight="bold">4</text>
+  
+  <circle cx="445" cy="265" r="12" fill="white"/>
+  <text x="445" y="270" text-anchor="middle" fill="#7c3aed" font-size="12" font-weight="bold">5</text>
+  
+  <circle cx="255" cy="415" r="12" fill="white"/>
+  <text x="255" y="420" text-anchor="middle" fill="#be185d" font-size="12" font-weight="bold">6</text>
+  
+  <!-- Footer note -->
+  <text x="400" y="560" text-anchor="middle" fill="#64748b" font-size="12">Metodene anvendes i prioritert rekkefølge når transaksjonsverdien (Metode 1) ikke kan brukes</text>
+  <text x="400" y="580" text-anchor="middle" fill="#64748b" font-size="12">Alle metoder må være i samsvar med WTO-avtalen om tollverdi</text>
+</svg>

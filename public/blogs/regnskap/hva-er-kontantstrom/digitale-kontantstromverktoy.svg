@@ -1,0 +1,195 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="erpGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#3F51B5;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#5C6BC0;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accountingGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#66BB6A;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="specializedGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FF9800;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FFB74D;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="apiGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#9C27B0;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#BA68C8;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="benefitsGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#42A5F5;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#333">
+    Digitale Kontantstrømverktøy
+  </text>
+  
+  <!-- ERP Systems Section -->
+  <rect x="50" y="70" width="340" height="120" fill="url(#erpGradient)" rx="15" opacity="0.1"/>
+  <rect x="60" y="80" width="320" height="30" fill="url(#erpGradient)" rx="5"/>
+  <text x="220" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    1. ERP-SYSTEMER
+  </text>
+  
+  <!-- ERP features -->
+  <text x="70" y="130" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Integrert kontantstrømrapportering
+  </text>
+  <text x="70" y="145" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Automatisk oppdatering fra alle moduler
+  </text>
+  <text x="70" y="160" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Sanntids kontantposisjon
+  </text>
+  <text x="70" y="175" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Helhetlig oversikt over bedriftens økonomi
+  </text>
+  
+  <!-- Accounting Systems Section -->
+  <rect x="410" y="70" width="340" height="120" fill="url(#accountingGradient)" rx="15" opacity="0.1"/>
+  <rect x="420" y="80" width="320" height="30" fill="url(#accountingGradient)" rx="5"/>
+  <text x="580" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    2. REGNSKAPSSYSTEMER
+  </text>
+  
+  <!-- Accounting features -->
+  <text x="430" y="130" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Automatisk kontantstrømoppstilling
+  </text>
+  <text x="430" y="145" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Integrering med bankkontoer
+  </text>
+  <text x="430" y="160" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Prognosefunksjonalitet
+  </text>
+  <text x="430" y="175" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Standardiserte rapporter og analyser
+  </text>
+  
+  <!-- Specialized Tools Section -->
+  <rect x="50" y="210" width="340" height="120" fill="url(#specializedGradient)" rx="15" opacity="0.1"/>
+  <rect x="60" y="220" width="320" height="30" fill="url(#specializedGradient)" rx="5"/>
+  <text x="220" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    3. SPESIALISERTE VERKTØY
+  </text>
+  
+  <!-- Specialized features -->
+  <text x="70" y="270" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Avanserte prognosealgoritmeer
+  </text>
+  <text x="70" y="285" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Scenarioanalyse og stresstesting
+  </text>
+  <text x="70" y="300" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Risikostyring og varslingssystemer
+  </text>
+  <text x="70" y="315" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Avanserte dashboards og visualisering
+  </text>
+  
+  <!-- API Integration Section -->
+  <rect x="410" y="210" width="340" height="120" fill="url(#apiGradient)" rx="15" opacity="0.1"/>
+  <rect x="420" y="220" width="320" height="30" fill="url(#apiGradient)" rx="5"/>
+  <text x="580" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    4. API-INTEGRASJONER
+  </text>
+  
+  <!-- API features -->
+  <text x="430" y="270" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Automatisk datainnhenting fra banker
+  </text>
+  <text x="430" y="285" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Integrasjon med kundesystemer
+  </text>
+  <text x="430" y="300" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Sanntids oppdateringer
+  </text>
+  <text x="430" y="315" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Automatiserte arbeidsflyter
+  </text>
+  
+  <!-- Benefits Section -->
+  <rect x="50" y="350" width="700" height="140" fill="url(#benefitsGradient)" rx="15"/>
+  <text x="400" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
+    FORDELER MED DIGITALISERING
+  </text>
+  
+  <!-- Benefits grid -->
+  <rect x="80" y="400" width="300" height="70" fill="rgba(255,255,255,0.2)" rx="8"/>
+  <text x="230" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    Effektivitet og Nøyaktighet
+  </text>
+  <text x="90" y="440" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Sanntids innsikt i kontantposisjon
+  </text>
+  <text x="90" y="455" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Redusert manuelt arbeid og feilrisiko
+  </text>
+  
+  <rect x="400" y="400" width="300" height="70" fill="rgba(255,255,255,0.2)" rx="8"/>
+  <text x="550" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    Automatisering og Integrasjon
+  </text>
+  <text x="410" y="440" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Automatiserte prognoser basert på data
+  </text>
+  <text x="410" y="455" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Integrerte rapporter på tvers av systemer
+  </text>
+  
+  <!-- Implementation Process -->
+  <rect x="50" y="510" width="700" height="70" fill="#e8f5e8" stroke="#4CAF50" stroke-width="2" rx="10"/>
+  <text x="400" y="535" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2E7D32">
+    Implementeringsprosess
+  </text>
+  <text x="70" y="555" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    1. <tspan font-weight="bold">Behovsanalyse:</tspan> Kartlegg nåværende prosesser og identifiser forbedringspotensial
+  </text>
+  <text x="70" y="570" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    2. <tspan font-weight="bold">Systemvalg:</tspan> Velg verktøy basert på bedriftens størrelse, kompleksitet og budsjett
+  </text>
+  
+  <!-- Technology icons -->
+  <circle cx="220" cy="50" r="15" fill="#3F51B5"/>
+  <text x="220" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">💻</text>
+  
+  <circle cx="580" cy="50" r="15" fill="#4CAF50"/>
+  <text x="580" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">📊</text>
+  
+  <circle cx="220" cy="190" r="15" fill="#FF9800"/>
+  <text x="220" y="198" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">🔧</text>
+  
+  <circle cx="580" cy="190" r="15" fill="#9C27B0"/>
+  <text x="580" y="198" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">🔗</text>
+  
+  <!-- Connection arrows -->
+  <path d="M 220 330 L 400 350" stroke="#2196F3" stroke-width="2" fill="none" marker-end="url(#arrowBlue)"/>
+  <path d="M 580 330 L 400 350" stroke="#2196F3" stroke-width="2" fill="none" marker-end="url(#arrowBlue)"/>
+  <path d="M 220 190 L 400 350" stroke="#2196F3" stroke-width="2" fill="none" marker-end="url(#arrowBlue)"/>
+  <path d="M 580 190 L 400 350" stroke="#2196F3" stroke-width="2" fill="none" marker-end="url(#arrowBlue)"/>
+  
+  <!-- Warning box -->
+  <rect x="420" y="510" width="330" height="70" fill="#fff3e0" stroke="#FF9800" stroke-width="2" rx="10"/>
+  <text x="585" y="535" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#E65100">
+    Viktige Suksessfaktorer
+  </text>
+  <text x="430" y="555" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    • Opplæring av ansatte i nye systemer
+  </text>
+  <text x="430" y="570" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    • Gradvis implementering og testing av funksjoner
+  </text>
+  
+  <!-- Arrow markers -->
+  <defs>
+    <marker id="arrowBlue" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#2196F3"/>
+    </marker>
+  </defs>
+</svg>

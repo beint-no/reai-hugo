@@ -1,0 +1,634 @@
+<!doctype html>
+<html lang="nb">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Hva er Saldoavskrivning i Regnskap? | ReAI</title>
+  <meta name="description" content="Komplett regnskapssystem med faktura, lønn, bilagsføring og årsoppgjør.">
+  
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<script src="https://cdn.tailwindcss.com?plugins=typography"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        fontFamily: { sans: ['Inter','ui-sans-serif','system-ui','Arial','sans-serif'] },
+        colors: {
+          brand: { DEFAULT: '#111827' },
+          accent: { DEFAULT: '#2563eb' }
+        }
+      }
+    }
+  }
+</script>
+<style>
+   
+  header .header-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #000 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link:hover { background-position: 0; }
+  header .header-link:hover::before { width: 100%; }
+
+  footer .footer-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #ffffff 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link:hover { background-position: 0; }
+  footer .footer-link:hover::before { width: 100%; }
+</style>
+<style>
+   
+  .prose { overflow-wrap: anywhere; word-break: break-word; }
+  .prose img { max-width: 100%; height: auto; }
+  .prose table { display: block; width: 100%; overflow-x: auto; }
+  .prose pre { white-space: pre-wrap; word-break: break-word; overflow-x: auto; }
+  .prose code { word-break: break-word; }
+  .prose iframe, .prose video { max-width: 100%; width: 100%; height: auto; }
+</style>
+<style>
+   
+  button,
+  .btn,
+  a.btn,
+  .button,
+  .cta,
+  .link-button,
+   
+  a.inline-flex.rounded-md,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"] {
+    transition: transform 220ms ease, box-shadow 220ms ease, background-color 220ms ease, color 220ms ease, opacity 220ms ease;
+    will-change: transform, box-shadow;
+  }
+
+  button:hover,
+  .btn:hover,
+  a.btn:hover,
+  .button:hover,
+  .cta:hover,
+  .link-button:hover,
+  a.inline-flex.rounded-md:hover,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+
+  button:active,
+  .btn:active,
+  a.btn:active,
+  .button:active,
+  .cta:active,
+  .link-button:active,
+  a.inline-flex.rounded-md:active,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:active {
+    transform: translateY(-1px) scale(0.99);
+    box-shadow: 0 6px 12px rgba(2, 6, 23, 0.1);
+  }
+
+  button:focus-visible,
+  .btn:focus-visible,
+  a.btn:focus-visible,
+  .button:focus-visible,
+  .cta:focus-visible,
+  .link-button:focus-visible,
+  a.inline-flex.rounded-md:focus-visible,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.35), 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+</style>
+
+<link rel="icon" type="image/svg+xml" href="/images/ReAI-logo-square.svg">
+<link rel="shortcut icon" href="/images/ReAI-logo-square.svg">
+
+</head>
+<body class="min-h-dvh bg-white text-gray-900 font-sans">
+  <header class="sticky top-0 z-40 bg-white/80 backdrop-blur">
+  
+  <div class="border-b border-slate-200/70">
+    <div class="max-w-7xl mx-auto px-4">
+      <div class="h-16 flex items-center justify-between">
+        <a href="/" class="flex items-center gap-2" aria-label="ReAI">
+          <img src="/images/ReAI-logo-square.svg?v=4" alt="ReAI logo" class="h-14 w-14 rounded-md mt-5" width="56" height="56" loading="eager" decoding="async">
+        </a>
+        <nav class="hidden md:block">
+          <ul class="flex items-center gap-5 text-sm">
+            <li><a href="/courses/" class="header-link text-slate-700 hover:text-black">Gratis kurs</a></li>
+            <li><a href="/contact/" class="header-link text-slate-700 hover:text-black">Kontakt oss</a></li>
+            <li><a href="/blog/" class="header-link text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+            <li><a href="/bli-partner/" class="header-link text-slate-700 hover:text-black">Bli partner</a></li>
+            <li><a href="/fakturamal/" class="header-link text-slate-700 hover:text-black">Lag faktura</a></li>
+          </ul>
+        </nav>
+        <button id="mobileMenuBtn" aria-controls="mobileMenu" aria-expanded="false" class="md:hidden inline-flex items-center justify-center h-9 w-9 rounded-md border border-slate-300">
+          <span class="sr-only">Menu</span>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-5 w-5"><path d="M3.75 6.75h16.5v1.5H3.75zM3.75 11.25h16.5v1.5H3.75zM3.75 15.75h16.5v1.5H3.75z"/></svg>
+        </button>
+      </div>
+    </div>
+  </div>
+  
+  <nav id="mobileMenu" class="md:hidden hidden border-b border-slate-200/70 bg-white/95 backdrop-blur">
+    <div class="max-w-7xl mx-auto px-4 py-3">
+      <ul class="flex flex-col items-center gap-3 text-sm text-center">
+        <li><a href="/courses/" class="header-link block text-slate-700 hover:text-black">Gratis kurs</a></li>
+        <li><a href="/contact/" class="header-link block text-slate-700 hover:text-black">Kontakt oss</a></li>
+        <li><a href="/blog/" class="header-link block text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+        <li><a href="/bli-partner/" class="header-link block text-slate-700 hover:text-black">Bli partner</a></li>
+        <li><a href="/fakturamal/" class="header-link block text-slate-700 hover:text-black">Lag faktura</a></li>
+      </ul>
+    </div>
+  </nav>
+  <script>
+    (function() {
+      const btn = document.getElementById('mobileMenuBtn');
+      const menu = document.getElementById('mobileMenu');
+      if (!btn || !menu) return;
+      btn.addEventListener('click', function() {
+        const isHidden = menu.classList.contains('hidden');
+        menu.classList.toggle('hidden');
+        btn.setAttribute('aria-expanded', String(isHidden));
+      });
+    })();
+  </script>
+</header>
+  <main>
+    
+<section class="pt-10 md:pt-14">
+  <div class="max-w-3xl mx-auto px-4">
+    <h1 class="text-3xl font-semibold tracking-tight text-center">Hva er Saldoavskrivning i Regnskap?</h1>
+    <p class="mt-2 text-gray-700">Saldoavskrivning er en degressiv avskrivningsmetode hvor eiendeler avskrives med en fast prosentsats av gjenstående bokført verdi hvert år. Metoden gir høyere avskrivninger tidlig og lavere senere, og følger norske skattemessige saldogrupper med fastsatte maksimale avskrivningssatser.</p>
+    <article class="prose max-w-none mt-6"><p><strong>Saldoavskrivning</strong> er en av de mest brukte avskrivningsmetodene i norsk regnskap, hvor <a href="/blogs/regnskap/hva-er-anleggsmidler" title="Hva er Anleggsmidler? Komplett Guide til Faste Eiendeler">anleggsmidler</a> avskrives med en fast prosentsats av den gjenstående bokførte verdien hvert år. Metoden brukes ofte for <a href="/blogs/regnskap/hva-er-varige-driftsmidler" title="Hva er Varige Driftsmidler? Komplett Guide til Avskrivbare Anleggsmidler">varige driftsmidler</a> som maskiner, biler og IT-utstyr. Denne metoden gir høyere avskrivninger i de første årene og lavere avskrivninger senere, noe som gjenspeiler den typiske verdiforringelsen av mange <a href="/blogs/regnskap/hva-er-eiendel" title="Hva er Eiendel i Regnskap? Komplett Guide til Eiendom og Verdier">eiendeler</a>. Denne artikkelen gir en grundig gjennomgang av saldoavskrivning, beregningsmetoder og praktisk anvendelse.</p>
+<h2 id="seksjon-1-grunnleggende-om-saldoavskrivning">Seksjon 1: Grunnleggende om Saldoavskrivning</h2>
+<h3 id="11-definisjon-og-konsept">1.1 Definisjon og Konsept</h3>
+<p>Saldoavskrivning er en <strong>degressiv avskrivningsmetode</strong> hvor avskrivningen beregnes som en fast prosentsats av den gjenstående <a href="/blogs/regnskap/hva-er-bokfort-verdi" title="Hva er Bokført Verdi? Komplett Guide til Balanseførte Verdier">bokførte verdien</a> ved årets begynnelse. I motsetning til <a href="/blogs/regnskap/hva-er-avskrivning" title="Hva er Avskrivning? Komplett Guide til Avskrivningsmetoder">lineær avskrivning</a> som gir like store avskrivninger hvert år, synker avskrivningsbeløpet hvert år med saldoavskrivning.</p>
+<p><img src="saldoavskrivning-konsept.svg" alt="Saldoavskrivning Grunnleggende Konsept"></p>
+<h3 id="12-formel-for-saldoavskrivning">1.2 Formel for Saldoavskrivning</h3>
+<p>Den grunnleggende formelen for saldoavskrivning er:</p>
+<p><strong>Årets avskrivning = Inngående saldo × Avskrivningssats</strong></p>
+<p>Hvor:</p>
+<ul>
+<li><strong>Inngående saldo</strong> = Bokført verdi ved årets begynnelse</li>
+<li><strong>Avskrivningssats</strong> = Fast prosentsats fastsatt for eiendelsgruppen</li>
+</ul>
+<h3 id="13-sammenligning-med-andre-avskrivningsmetoder">1.3 Sammenligning med Andre Avskrivningsmetoder</h3>
+<table>
+  <thead>
+      <tr>
+          <th><strong>Metode</strong></th>
+          <th><strong>Karakteristikk</strong></th>
+          <th><strong>Avskrivning år 1</strong></th>
+          <th><strong>Avskrivning år 5</strong></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>Saldoavskrivning</strong></td>
+          <td>Degressiv, høy i starten</td>
+          <td>Høy</td>
+          <td>Lav</td>
+      </tr>
+      <tr>
+          <td><strong><a href="/blogs/regnskap/hva-er-avskrivning" title="Hva er Avskrivning? Komplett Guide til Avskrivningsmetoder">Lineær avskrivning</a></strong></td>
+          <td>Konstant over tid</td>
+          <td>Middels</td>
+          <td>Middels</td>
+      </tr>
+      <tr>
+          <td><strong>Produksjonsavskrivning</strong></td>
+          <td>Basert på bruk</td>
+          <td>Variabel</td>
+          <td>Variabel</td>
+      </tr>
+  </tbody>
+</table>
+<p><img src="avskrivningsmetoder-sammenligning.svg" alt="Sammenligning Avskrivningsmetoder"></p>
+<h2 id="seksjon-2-saldoavskrivning-i-norsk-skattelovgivning">Seksjon 2: Saldoavskrivning i Norsk Skattelovgivning</h2>
+<h3 id="21-skattemessige-saldogrupper">2.1 Skattemessige Saldogrupper</h3>
+<p>Norsk skattelovgivning deler avskrivbare <a href="/blogs/regnskap/hva-er-eiendel" title="Hva er Eiendel i Regnskap? Komplett Guide til Eiendom og Verdier">eiendeler</a> inn i forskjellige <strong><a href="/blogs/regnskap/saldogruppe" title="Hva er Saldogruppe? Guide til Skattemessige Avskrivningsgrupper">saldogrupper</a></strong> med fastsatte maksimale avskrivningssatser:</p>
+<table>
+  <thead>
+      <tr>
+          <th><strong>Saldogruppe</strong></th>
+          <th><strong>Type Eiendeler</strong></th>
+          <th><strong>Maksimal Sats</strong></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>Saldogruppe a</strong></td>
+          <td>Kontormaskiner, EDB-utstyr</td>
+          <td><strong>30%</strong></td>
+      </tr>
+      <tr>
+          <td><strong>Saldogruppe c</strong></td>
+          <td>Traktorer, lastebiler, busser</td>
+          <td><strong>24%</strong></td>
+      </tr>
+      <tr>
+          <td><strong>Saldogruppe d</strong></td>
+          <td>Personbiler, varebiler</td>
+          <td><strong>20%</strong></td>
+      </tr>
+      <tr>
+          <td><strong>Saldogruppe e</strong></td>
+          <td>Skip, luftfartøy</td>
+          <td><strong>14%</strong></td>
+      </tr>
+      <tr>
+          <td><strong>Saldogruppe f</strong></td>
+          <td>Forretningsbygg, hoteller</td>
+          <td><strong>2%</strong></td>
+      </tr>
+      <tr>
+          <td><strong>Saldogruppe g</strong></td>
+          <td>Anlegg for teknisk installasjon</td>
+          <td><strong>10%</strong></td>
+      </tr>
+      <tr>
+          <td><strong>Saldogruppe h</strong></td>
+          <td>Ervervede immaterielle rettigheter</td>
+          <td><strong>20%</strong></td>
+      </tr>
+      <tr>
+          <td><strong>Saldogruppe i</strong></td>
+          <td>Husdyr, pelsdyr</td>
+          <td><strong>30%</strong></td>
+      </tr>
+      <tr>
+          <td><strong>Saldogruppe j</strong></td>
+          <td>Maskiner, redskap, inventar</td>
+          <td><strong>15%</strong></td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="22-spesielle-regler">2.2 Spesielle Regler</h3>
+<p><strong>Halvårsregelen:</strong> Ved kjøp av <a href="/blogs/regnskap/hva-er-eiendel" title="Hva er Eiendel i Regnskap? Komplett Guide til Eiendom og Verdier">eiendeler</a> i løpet av året kan kun halvparten av normalavskrivningen kreves første år.</p>
+<p><strong>Skattereduktiv avskrivning:</strong> Virksomheter kan velge lavere avskrivningssats enn maksimum, men ikke høyere.</p>
+<p><img src="skattemessige-saldogrupper.svg" alt="Skattemessige Saldogrupper"></p>
+<h2 id="seksjon-3-beregning-av-saldoavskrivning---praktiske-eksempler">Seksjon 3: Beregning av Saldoavskrivning - Praktiske Eksempler</h2>
+<h3 id="31-enkelt-beregningseksempel">3.1 Enkelt Beregningseksempel</h3>
+<p><strong>Eksempel:</strong> En virksomhet kjøper en maskin for 500.000 kr som tilhører saldogruppe j (15% avskrivning).</p>
+<table>
+  <thead>
+      <tr>
+          <th><strong>År</strong></th>
+          <th><strong>Inngående Saldo</strong></th>
+          <th><strong>Avskrivning (15%)</strong></th>
+          <th><strong>Utgående Saldo</strong></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>1</strong></td>
+          <td>500.000</td>
+          <td>75.000</td>
+          <td>425.000</td>
+      </tr>
+      <tr>
+          <td><strong>2</strong></td>
+          <td>425.000</td>
+          <td>63.750</td>
+          <td>361.250</td>
+      </tr>
+      <tr>
+          <td><strong>3</strong></td>
+          <td>361.250</td>
+          <td>54.188</td>
+          <td>307.063</td>
+      </tr>
+      <tr>
+          <td><strong>4</strong></td>
+          <td>307.063</td>
+          <td>46.059</td>
+          <td>261.004</td>
+      </tr>
+      <tr>
+          <td><strong>5</strong></td>
+          <td>261.004</td>
+          <td>39.151</td>
+          <td>221.853</td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="32-beregning-med-halvårsregel">3.2 Beregning med Halvårsregel</h3>
+<p><strong>Eksempel:</strong> Samme maskin kjøpt 15. juli (midt i året):</p>
+<table>
+  <thead>
+      <tr>
+          <th><strong>År</strong></th>
+          <th><strong>Beregning</strong></th>
+          <th><strong>Avskrivning</strong></th>
+          <th><strong>Bokført Verdi</strong></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>1</strong></td>
+          <td>500.000 × 15% × 0,5</td>
+          <td>37.500</td>
+          <td>462.500</td>
+      </tr>
+      <tr>
+          <td><strong>2</strong></td>
+          <td>462.500 × 15%</td>
+          <td>69.375</td>
+          <td>393.125</td>
+      </tr>
+      <tr>
+          <td><strong>3</strong></td>
+          <td>393.125 × 15%</td>
+          <td>58.969</td>
+          <td>334.156</td>
+      </tr>
+  </tbody>
+</table>
+<p><img src="saldoavskrivning-beregning.svg" alt="Saldoavskrivning Beregningseksempel"></p>
+<h3 id="33-flere-eiendeler-i-samme-saldogruppe">3.3 Flere Eiendeler i Samme Saldogruppe</h3>
+<p>Når virksomheten har flere <a href="/blogs/regnskap/hva-er-eiendel" title="Hva er Eiendel i Regnskap? Komplett Guide til Eiendom og Verdier">eiendeler</a> i samme saldogruppe, behandles de samlet:</p>
+<p><strong>Eksempel - Saldogruppe j:</strong></p>
+<ul>
+<li>Inngående saldo: 800.000 kr</li>
+<li>Kjøp i året: 200.000 kr</li>
+<li>Salg i året: 150.000 kr (salgspris)</li>
+</ul>
+<p><strong>Beregning:</strong></p>
+<ol>
+<li><strong>Ny saldo:</strong> 800.000 + 200.000 - 150.000 = 850.000 kr</li>
+<li><strong>Avskrivning:</strong> 850.000 × 15% = 127.500 kr</li>
+<li><strong>Utgående saldo:</strong> 850.000 - 127.500 = 722.500 kr</li>
+</ol>
+<h2 id="seksjon-4-regnskapsmessig-behandling">Seksjon 4: Regnskapsmessig Behandling</h2>
+<h3 id="41-journalføring-av-saldoavskrivning">4.1 Journalføring av Saldoavskrivning</h3>
+<p><strong>Ved innkjøp av eiendel:</strong></p>
+<pre tabindex="0"><code>Maskiner og utstyr          500.000
+    Leverandørgjeld                 500.000
+</code></pre><p><strong>Ved årlig avskrivning:</strong></p>
+<pre tabindex="0"><code>Avskrivning maskiner         75.000
+    Akkumulerte avskrivninger       75.000
+</code></pre><h3 id="42-presentasjon-i-balansen">4.2 Presentasjon i <a href="/blogs/regnskap/hva-er-balanse" title="Balanse i Regnskap - Komplett Guide til Balansens Oppbygging og Funksjon">Balansen</a></h3>
+<p>I <a href="/blogs/regnskap/hva-er-balanse" title="Balanse i Regnskap - Komplett Guide til Balansens Oppbygging og Funksjon">balansen</a> presenteres <a href="/blogs/regnskap/hva-er-anleggsmidler" title="Hva er Anleggsmidler? Komplett Guide til Faste Eiendeler">anleggsmidler</a> enten <strong>netto</strong> eller <strong>brutto:</strong></p>
+<p><strong>Netto presentasjon:</strong></p>
+<ul>
+<li>Maskiner og utstyr (netto): 425.000 kr</li>
+</ul>
+<p><strong>Brutto presentasjon:</strong></p>
+<ul>
+<li>Maskiner og utstyr (kostpris): 500.000 kr</li>
+<li>Akkumulerte avskrivninger: (75.000) kr</li>
+<li><strong>Bokført verdi:</strong> 425.000 kr</li>
+</ul>
+<p><img src="balanse-saldoavskrivning.svg" alt="Balansepresentasjon Saldoavskrivning"></p>
+<h2 id="seksjon-5-salg-og-utrangering-av-saldoeiendeler">Seksjon 5: Salg og Utrangering av Saldoeiendeler</h2>
+<h3 id="51-gevinst-og-tap-ved-salg">5.1 Gevinst og Tap ved Salg</h3>
+<p>Ved salg av <a href="/blogs/regnskap/hva-er-eiendel" title="Hva er Eiendel i Regnskap? Komplett Guide til Eiendom og Verdier">eiendeler</a> som inngår i saldoavskrivning:</p>
+<p><strong>Gevinst oppstår når:</strong> Salgspris &gt; Bokført verdi
+<strong>Tap oppstår når:</strong> Salgspris &lt; Bokført verdi</p>
+<h3 id="52-skattemessig-behandling-av-salg">5.2 Skattemessig Behandling av Salg</h3>
+<p>I skattemessig saldosystem:</p>
+<ul>
+<li><strong>Salgssummen trekkes fra saldoen</strong> (ikke bokført verdi)</li>
+<li><strong>Ingen umiddelbar gevinst/tap</strong> - effekten kommer via fremtidig avskrivning</li>
+<li><strong>Negativ saldo</strong> ved årsskiftet behandles som skattepliktig inntekt</li>
+</ul>
+<p><strong>Eksempel:</strong></p>
+<ul>
+<li>Saldo før salg: 300.000 kr</li>
+<li>Salgspris: 350.000 kr</li>
+<li>Saldo etter salg: 300.000 - 350.000 = -50.000 kr</li>
+<li><strong>Skattepliktig inntekt:</strong> 50.000 kr</li>
+</ul>
+<p><img src="salg-saldoeiendeler.svg" alt="Salg av Saldoeiendeler"></p>
+<h2 id="seksjon-6-forskjeller-mellom-regnskapsmessig-og-skattemessig-avskrivning">Seksjon 6: Forskjeller Mellom Regnskapsmessig og Skattemessig Avskrivning</h2>
+<h3 id="61-ulike-prinsipper">6.1 Ulike Prinsipper</h3>
+<table>
+  <thead>
+      <tr>
+          <th><strong>Aspekt</strong></th>
+          <th><strong>Regnskapsmessig</strong></th>
+          <th><strong>Skattemessig</strong></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>Formål</strong></td>
+          <td>Riktig resultatmåling</td>
+          <td>Skatteplanlegging</td>
+      </tr>
+      <tr>
+          <td><strong>Fleksibilitet</strong></td>
+          <td>Kan tilpasses</td>
+          <td>Faste regler</td>
+      </tr>
+      <tr>
+          <td><strong>Avskrivningssats</strong></td>
+          <td>Basert på brukstid</td>
+          <td>Lovbestemte satser</td>
+      </tr>
+      <tr>
+          <td><strong>Restverdi</strong></td>
+          <td>Kan inkluderes</td>
+          <td>Ignoreres</td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="62-utsatt-skatt">6.2 Utsatt Skatt</h3>
+<p>Forskjeller mellom regnskaps- og skattemessige <a href="/blogs/regnskap/hva-er-avskrivning" title="Hva er Avskrivning? Komplett Guide til Avskrivningsmetoder">avskrivninger</a> skaper <strong>midlertidige forskjeller</strong> som påvirker <a href="/blogs/regnskap/hva-er-utsatt-skatt" title="Hva er Utsatt Skatt? Komplett Guide til Skattemessige Forskjeller">utsatt skatt</a>:</p>
+<ul>
+<li><strong>Høyere skattemessig avskrivning</strong> → Utsatt skattefordel</li>
+<li><strong>Høyere regnskapsmessig avskrivning</strong> → Utsatt skattegjeld</li>
+</ul>
+<p><img src="forskjeller-regnskap-skatt.svg" alt="Forskjeller Regnskap Skatt"></p>
+<h2 id="seksjon-7-fordeler-og-ulemper-med-saldoavskrivning">Seksjon 7: Fordeler og Ulemper med Saldoavskrivning</h2>
+<h3 id="71-fordeler">7.1 Fordeler</h3>
+<ul>
+<li><strong>Realistisk verdimåling:</strong> Gjenspeiler typisk verdifall for mange <a href="/blogs/regnskap/hva-er-eiendel" title="Hva er Eiendel i Regnskap? Komplett Guide til Eiendom og Verdier">eiendeler</a></li>
+<li><strong>Skattemessige fordeler:</strong> Høyere avskrivning tidlig gir bedre <a href="/blogs/regnskap/hva-er-kontantstrom" title="Hva er Kontantstrøm? Komplett Guide til Cash Flow Analyse og Styring">kontantstrøm</a></li>
+<li><strong>Enkel administrasjon:</strong> Automatisk behandling i regnskapssystemer</li>
+<li><strong>Fleksibilitet:</strong> Kan tilpasses forskjellige <a href="/blogs/regnskap/hva-er-anleggsmidler" title="Hva er Anleggsmidler? Komplett Guide til Faste Eiendeler">eiendelstyper</a></li>
+</ul>
+<h3 id="72-ulemper">7.2 Ulemper</h3>
+<ul>
+<li><strong>Kompleks sammenligning:</strong> Vanskelig å sammenligne med lineær <a href="/blogs/regnskap/hva-er-avskrivning" title="Hva er Avskrivning? Komplett Guide til Avskrivningsmetoder">avskrivning</a></li>
+<li><strong>Aldri null verdi:</strong> <a href="/blogs/regnskap/hva-er-eiendel" title="Hva er Eiendel i Regnskap? Komplett Guide til Eiendom og Verdier">Eiendeler</a> får teoretisk aldri bokført verdi null</li>
+<li><strong>Resultatpåvirkning:</strong> Varierende avskrivningskostnader over tid</li>
+<li><strong>Planleggingsutfordringer:</strong> Mindre forutsigbare <a href="/blogs/regnskap/hva-er-kostnad" title="Hva er Kostnad? Komplett Guide til Kostnadstyper i Regnskap">kostnadsutviklinger</a></li>
+</ul>
+<p><img src="fordeler-ulemper-saldoavskrivning.svg" alt="Fordeler Ulemper Saldoavskrivning"></p>
+<h2 id="seksjon-8-praktisk-implementering-og-systemstøtte">Seksjon 8: Praktisk Implementering og Systemstøtte</h2>
+<h3 id="81-regnskapssystemenes-rolle">8.1 Regnskapssystemenes Rolle</h3>
+<p>Moderne regnskapssystemer tilbyr:</p>
+<ul>
+<li><strong>Automatisk beregning</strong> av saldoavskrivninger</li>
+<li><strong>Separate spor</strong> for regnskaps- og skattemessige <a href="/blogs/regnskap/hva-er-avskrivning" title="Hva er Avskrivning? Komplett Guide til Avskrivningsmetoder">avskrivninger</a></li>
+<li><strong>Saldogruppestyring</strong> med forhåndsdefinerte satser</li>
+<li><strong>Rapporter</strong> for avskrivningsoversikter og prognoser</li>
+</ul>
+<h3 id="82-månedlig-vs-årlig-avskrivning">8.2 Månedlig vs. Årlig Avskrivning</h3>
+<p><strong>Månedlig avskrivning:</strong></p>
+<ul>
+<li>Månedlig sats = Årlig sats ÷ 12</li>
+<li>Bedre kostnadsfordeling gjennom året</li>
+<li>Mer kompleks administrasjon</li>
+</ul>
+<p><strong>Årlig avskrivning:</strong></p>
+<ul>
+<li>Enklere administrasjon</li>
+<li>All avskrivning i desember</li>
+<li>Mindre presise periodiseringer</li>
+</ul>
+<h3 id="83-dokumentasjon-og-kontroll">8.3 Dokumentasjon og Kontroll</h3>
+<p><strong>Viktige dokumenter:</strong></p>
+<ul>
+<li>Oversikt over saldogrupper og satser</li>
+<li>Eiendelsregister med klassifisering</li>
+<li>Månedlige avskrivningsrapporter</li>
+<li>Årlige avstemminger mot selvangivelse</li>
+</ul>
+<p><img src="digital-saldoavskrivning.svg" alt="Digital Saldoavskrivning"></p>
+<h2 id="seksjon-9-saldoavskrivning-og-finansiell-analyse">Seksjon 9: Saldoavskrivning og Finansiell Analyse</h2>
+<h3 id="91-påvirkning-på-nøkkeltall">9.1 Påvirkning på <a href="/blogs/regnskap/hva-er-nokkeltall" title="Hva er Nøkkeltall? Komplett Guide til Finansielle Nøkkeltall i Regnskap">Nøkkeltall</a></h3>
+<p>Saldoavskrivning påvirker flere viktige finansielle nøkkeltall:</p>
+<ul>
+<li><strong><a href="/blogs/regnskap/hva-er-avkastning" title="Hva er Avkastning? Komplett Guide til ROI, ROE og Avkastningsanalyse">Avkastning</a> på <a href="/blogs/regnskap/hva-er-aktiva" title="Hva er Aktiva? En Komplett Guide til Eiendeler i Regnskap">aktiva</a>:</strong> Høyere i senere år</li>
+<li><strong>Bokført verdi <a href="/blogs/regnskap/hva-er-anleggsmidler" title="Hva er Anleggsmidler? Komplett Guide til Faste Eiendeler">anleggsmidler</a>:</strong> Raskere reduksjon</li>
+<li><strong>Resultatvolatilitet:</strong> Varierende avskrivningskostnader</li>
+<li><strong>Sammenlignbarhet:</strong> Utfordringer mellom virksomheter</li>
+</ul>
+<h3 id="92-analyse-av-avskrivningspolicy">9.2 Analyse av Avskrivningspolicy</h3>
+<p>Analytikere bør vurdere:</p>
+<ul>
+<li><strong>Valg av avskrivningsmetode</strong> og begrunnelse</li>
+<li><strong>Konsistens</strong> i anvendelse over tid</li>
+<li><strong>Påvirkning på resultatutvikling</strong></li>
+<li><strong>Sammenligning</strong> med bransjestandard</li>
+</ul>
+<p><img src="finansiell-analyse-saldoavskrivning.svg" alt="Finansiell Analyse Saldoavskrivning"></p>
+<h2 id="seksjon-10-fremtidige-utviklingstrekk">Seksjon 10: Fremtidige Utviklingstrekk</h2>
+<h3 id="101-teknologisk-utvikling">10.1 Teknologisk Utvikling</h3>
+<ul>
+<li><strong>Kunstig intelligens</strong> for optimal avskrivningsplanlegging</li>
+<li><strong>Automatisk klassifisering</strong> av <a href="/blogs/regnskap/hva-er-eiendel" title="Hva er Eiendel i Regnskap? Komplett Guide til Eiendom og Verdier">eiendeler</a> i saldogrupper</li>
+<li><strong>Prediktiv analyse</strong> av verdiutvikling</li>
+<li><strong>Integrerte systemer</strong> for regnskaps- og skattemessig behandling</li>
+</ul>
+<h3 id="102-regulatoriske-endringer">10.2 Regulatoriske Endringer</h3>
+<p>Potensielle endringer kan omfatte:</p>
+<ul>
+<li><strong>Nye saldogrupper</strong> for digital teknologi</li>
+<li><strong>Justerte avskrivningssatser</strong> basert på teknologiutvikling</li>
+<li><strong>Harmonisering</strong> mellom regnskaps- og skattestandard</li>
+<li><strong>Miljøhensyn</strong> i avskrivningsregler</li>
+</ul>
+<h3 id="103-bærekraft-og-saldoavskrivning">10.3 Bærekraft og Saldoavskrivning</h3>
+<p>Økende fokus på bærekraft påvirker:</p>
+<ul>
+<li><strong>Levetidsvurderinger</strong> av <a href="/blogs/regnskap/hva-er-eiendel" title="Hva er Eiendel i Regnskap? Komplett Guide til Eiendom og Verdier">eiendeler</a></li>
+<li><strong>Miljømessige avskrivninger</strong> for forurensende <a href="/blogs/regnskap/hva-er-aktiva" title="Hva er Aktiva? En Komplett Guide til Eiendeler i Regnskap">aktiva</a></li>
+<li><strong>Investering i grønn teknologi</strong> og tilhørende avskrivningsregimer</li>
+<li><strong>Rapportering</strong> av miljøpåvirkning fra <a href="/blogs/regnskap/hva-er-anleggsmidler" title="Hva er Anleggsmidler? Komplett Guide til Faste Eiendeler">anleggsmidler</a></li>
+</ul>
+<p><img src="fremtiden-saldoavskrivning.svg" alt="Fremtiden Saldoavskrivning"></p>
+<h2 id="konklusjon">Konklusjon</h2>
+<p>Saldoavskrivning er en fundamental avskrivningsmetode som spiller en sentral rolle i både regnskapsmessig og skattemessig behandling av <a href="/blogs/regnskap/hva-er-anleggsmidler" title="Hva er Anleggsmidler? Komplett Guide til Faste Eiendeler">anleggsmidler</a>. Metoden tilbyr en realistisk tilnærming til verdiregistrering som gjenspeiler den faktiske verdiforringelsen av mange <a href="/blogs/regnskap/hva-er-eiendel" title="Hva er Eiendel i Regnskap? Komplett Guide til Eiendom og Verdier">eiendelstyper</a>.</p>
+<p><strong>Hovedfordelene med saldoavskrivning:</strong></p>
+<ul>
+<li>Realistisk verdimåling som følger typiske verdiforringelsesmønstre</li>
+<li>Skattemessige fordeler gjennom høyere tidlige <a href="/blogs/regnskap/hva-er-avskrivning" title="Hva er Avskrivning? Komplett Guide til Avskrivningsmetoder">avskrivninger</a></li>
+<li>Enkel implementering i moderne regnskapssystemer</li>
+<li>Fleksibilitet for ulike <a href="/blogs/regnskap/hva-er-anleggsmidler" title="Hva er Anleggsmidler? Komplett Guide til Faste Eiendeler">eiendelstyper</a></li>
+</ul>
+<p><strong>Kritiske suksessfaktorer:</strong></p>
+<ul>
+<li>Korrekt klassifisering i riktig saldogruppe</li>
+<li>Konsistent anvendelse av avskrivningsprinsipper</li>
+<li>God systemstøtte for automatiserte beregninger</li>
+<li>Regelmessig <a href="/blogs/regnskap/hva-er-avstemming" title="Hva er Avstemming i Regnskap? Komplett Guide til Regnskapsavstemming">avstemming</a> mellom regnskaps- og skattemessige tall</li>
+</ul>
+<p>For virksomheter som arbeider med saldoavskrivning, er det essensielt å forstå både de regnskapsmessige og skattemessige implikasjonene. Dette sikrer korrekt finansiell rapportering, optimal <a href="/blogs/regnskap/hva-er-skatteplanlegging" title="Hva er Skatteplanlegging? Strategier for Optimal Skattebehandling">skatteplanlegging</a> og pålitelig grunnlag for økonomiske beslutninger.</p>
+<p>Saldoavskrivning vil fortsette å være en viktig komponent i norsk regnskapsføring, og med teknologisk utvikling og endrede <a href="/blogs/regnskap/hva-er-regnskapsloven" title="Hva er Regnskapsloven? Komplett Guide til Norsk Regnskapslovgivning">regulatoriske krav</a> vil metoden trolig utvikle seg for å møte fremtidens behov for transparent og relevant finansiell rapportering.</p>
+</article>
+  </div>
+</section>
+
+  </main>
+  <footer class="mt-16 border-t border-slate-800/60 bg-slate-900">
+  <div class="max-w-7xl mx-auto px-4 py-14">
+    <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3 text-center sm:text-left">
+      
+      <div>
+        <h3 class="text-sm font-semibold text-white">Verktøy</h3>
+        <ul class="mt-2 space-y-2 text-sm text-slate-300">
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/finn-iban/">IBAN kalkulator</a></li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/lag-faktura-gratis/">Lag faktura</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Selskaps-informasjon</h3>
+        <ul class="mt-2 space-y-1 text-sm text-slate-300">
+          <li>Reai AS</li>
+          <li>Orgnr: 935606403</li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="mailto:post@reai.no">post@reai.no</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Om ReAI</h3>
+        <p class="mt-2 text-sm text-slate-300">ReAI er et gratis regnskapsprogram laget av tidligere ansatte i Tripletex
+          / Visma. Vi mener det er på tide med mer konkurranse i regnskaps-bransjen som kan komme bedrifter til gode.
+        </p>
+      </div>
+    </div>
+    <div class="mt-12 border-t border-slate-800/60 pt-6 flex flex-col items-center sm:flex-row sm:items-center sm:justify-between text-sm text-slate-400 text-center sm:text-left">
+      <div class="flex items-center gap-2">
+        
+        
+      </div>
+      <div class="mt-4 sm:mt-0 flex items-center justify-center sm:justify-end">
+        <div class="opacity-80">&copy; 2025 ReAI. All rights reserved.</div>
+      </div>
+    </div>
+  </div>
+</footer>
+</body>
+</html>

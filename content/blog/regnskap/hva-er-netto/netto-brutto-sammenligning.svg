@@ -1,0 +1,310 @@
+<svg width="800" height="700" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="bruttoGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ff9800;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f57c00;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="nettoGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#4caf50;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2e7d32;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="700" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
+  <text x="400" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="22" font-weight="bold">
+    Detaljert Sammenligning: Netto vs. Brutto
+  </text>
+  
+  <!-- Main content area -->
+  <rect x="30" y="80" width="740" height="580" fill="white" stroke="#dee2e6" stroke-width="1" rx="10"/>
+  
+  <!-- Column headers -->
+  <rect x="50" y="100" width="150" height="40" fill="#f5f5f5" stroke="#999" stroke-width="1"/>
+  <text x="125" y="125" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    Område
+  </text>
+  
+  <rect x="200" y="100" width="200" height="40" fill="url(#bruttoGradient)"/>
+  <text x="300" y="125" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    BRUTTO
+  </text>
+  
+  <rect x="400" y="100" width="200" height="40" fill="url(#nettoGradient)"/>
+  <text x="500" y="125" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    NETTO
+  </text>
+  
+  <rect x="600" y="100" width="150" height="40" fill="#f5f5f5" stroke="#999" stroke-width="1"/>
+  <text x="675" y="125" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    Forskjell
+  </text>
+  
+  <!-- Row 1: Lønn -->
+  <rect x="50" y="140" width="150" height="60" fill="#e3f2fd" stroke="#1976d2" stroke-width="1"/>
+  <text x="125" y="165" text-anchor="middle" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    LØNN
+  </text>
+  <text x="125" y="185" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+    Personalregnskap
+  </text>
+  
+  <rect x="200" y="140" width="200" height="60" fill="#fff3e0" stroke="#ff9800" stroke-width="1"/>
+  <text x="300" y="160" text-anchor="middle" fill="#ff9800" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    Før skattetrekk
+  </text>
+  <text x="300" y="175" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+    Inkl. alle tillegg og ytelser
+  </text>
+  <text x="300" y="190" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+    Eks: 50.000 kr
+  </text>
+  
+  <rect x="400" y="140" width="200" height="60" fill="#e8f5e8" stroke="#4caf50" stroke-width="1"/>
+  <text x="500" y="160" text-anchor="middle" fill="#4caf50" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    Etter skattetrekk
+  </text>
+  <text x="500" y="175" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+    Det som utbetales
+  </text>
+  <text x="500" y="190" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+    Eks: 32.000 kr
+  </text>
+  
+  <rect x="600" y="140" width="150" height="60" fill="#ffebee" stroke="#f44336" stroke-width="1"/>
+  <text x="675" y="160" text-anchor="middle" fill="#f44336" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    Skatt &amp; avgifter
+  </text>
+  <text x="675" y="175" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+    Trygdeavgift
+  </text>
+  <text x="675" y="190" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+    Pensjon
+  </text>
+  
+  <!-- Row 2: Omsetning -->
+  <rect x="50" y="200" width="150" height="60" fill="#e3f2fd" stroke="#1976d2" stroke-width="1"/>
+  <text x="125" y="225" text-anchor="middle" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    OMSETNING
+  </text>
+  <text x="125" y="245" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+    Salgsinntekter
+  </text>
+  
+  <rect x="200" y="200" width="200" height="60" fill="#fff3e0" stroke="#ff9800" stroke-width="1"/>
+  <text x="300" y="220" text-anchor="middle" fill="#ff9800" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    Inkl. MVA
+  </text>
+  <text x="300" y="235" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+    Totalt fakturert beløp
+  </text>
+  <text x="300" y="250" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+    Eks: 1.250.000 kr
+  </text>
+  
+  <rect x="400" y="200" width="200" height="60" fill="#e8f5e8" stroke="#4caf50" stroke-width="1"/>
+  <text x="500" y="220" text-anchor="middle" fill="#4caf50" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    Ekskl. MVA
+  </text>
+  <text x="500" y="235" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+    Faktisk salgsinntekt
+  </text>
+  <text x="500" y="250" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+    Eks: 1.000.000 kr
+  </text>
+  
+  <rect x="600" y="200" width="150" height="60" fill="#ffebee" stroke="#f44336" stroke-width="1"/>
+  <text x="675" y="220" text-anchor="middle" fill="#f44336" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    MVA
+  </text>
+  <text x="675" y="235" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+    Rabatter
+  </text>
+  <text x="675" y="250" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+    Returvarer
+  </text>
+  
+  <!-- Row 3: Resultat -->
+  <rect x="50" y="260" width="150" height="60" fill="#e3f2fd" stroke="#1976d2" stroke-width="1"/>
+  <text x="125" y="285" text-anchor="middle" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    RESULTAT
+  </text>
+  <text x="125" y="305" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+    Lønnsomhet
+  </text>
+  
+  <rect x="200" y="260" width="200" height="60" fill="#fff3e0" stroke="#ff9800" stroke-width="1"/>
+  <text x="300" y="280" text-anchor="middle" fill="#ff9800" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    Før alle kostnader
+  </text>
+  <text x="300" y="295" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+    Totale inntekter
+  </text>
+  <text x="300" y="310" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+    Eks: 2.000.000 kr
+  </text>
+  
+  <rect x="400" y="260" width="200" height="60" fill="#e8f5e8" stroke="#4caf50" stroke-width="1"/>
+  <text x="500" y="280" text-anchor="middle" fill="#4caf50" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    Etter alle kostnader
+  </text>
+  <text x="500" y="295" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+    Endelig overskudd
+  </text>
+  <text x="500" y="310" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+    Eks: 560.000 kr
+  </text>
+  
+  <rect x="600" y="260" width="150" height="60" fill="#ffebee" stroke="#f44336" stroke-width="1"/>
+  <text x="675" y="280" text-anchor="middle" fill="#f44336" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    Drift, finans
+  </text>
+  <text x="675" y="295" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+    &amp; skatter
+  </text>
+  <text x="675" y="310" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+    1.440.000 kr
+  </text>
+  
+  <!-- Row 4: Investering -->
+  <rect x="50" y="320" width="150" height="60" fill="#e3f2fd" stroke="#1976d2" stroke-width="1"/>
+  <text x="125" y="345" text-anchor="middle" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    INVESTERING
+  </text>
+  <text x="125" y="365" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+    Anleggsmidler
+  </text>
+  
+  <rect x="200" y="320" width="200" height="60" fill="#fff3e0" stroke="#ff9800" stroke-width="1"/>
+  <text x="300" y="340" text-anchor="middle" fill="#ff9800" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    Før avskrivninger
+  </text>
+  <text x="300" y="355" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+    Opprinnelig kostpris
+  </text>
+  <text x="300" y="370" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+    Eks: 1.000.000 kr
+  </text>
+  
+  <rect x="400" y="320" width="200" height="60" fill="#e8f5e8" stroke="#4caf50" stroke-width="1"/>
+  <text x="500" y="340" text-anchor="middle" fill="#4caf50" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    Etter avskrivninger
+  </text>
+  <text x="500" y="355" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+    Bokført verdi
+  </text>
+  <text x="500" y="370" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+    Eks: 700.000 kr
+  </text>
+  
+  <rect x="600" y="320" width="150" height="60" fill="#ffebee" stroke="#f44336" stroke-width="1"/>
+  <text x="675" y="340" text-anchor="middle" fill="#f44336" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    Verdiforringelse
+  </text>
+  <text x="675" y="355" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+    Slitasje
+  </text>
+  <text x="675" y="370" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+    300.000 kr
+  </text>
+  
+  <!-- Row 5: Formue -->
+  <rect x="50" y="380" width="150" height="60" fill="#e3f2fd" stroke="#1976d2" stroke-width="1"/>
+  <text x="125" y="405" text-anchor="middle" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    FORMUE
+  </text>
+  <text x="125" y="425" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+    Økonomisk stilling
+  </text>
+  
+  <rect x="200" y="380" width="200" height="60" fill="#fff3e0" stroke="#ff9800" stroke-width="1"/>
+  <text x="300" y="400" text-anchor="middle" fill="#ff9800" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    Før gjeld
+  </text>
+  <text x="300" y="415" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+    Totale eiendeler
+  </text>
+  <text x="300" y="430" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+    Eks: 3.000.000 kr
+  </text>
+  
+  <rect x="400" y="380" width="200" height="60" fill="#e8f5e8" stroke="#4caf50" stroke-width="1"/>
+  <text x="500" y="400" text-anchor="middle" fill="#4caf50" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    Etter gjeldsfradrag
+  </text>
+  <text x="500" y="415" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+    Egenkapital
+  </text>
+  <text x="500" y="430" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+    Eks: 1.800.000 kr
+  </text>
+  
+  <rect x="600" y="380" width="150" height="60" fill="#ffebee" stroke="#f44336" stroke-width="1"/>
+  <text x="675" y="400" text-anchor="middle" fill="#f44336" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    Lån &amp; gjeld
+  </text>
+  <text x="675" y="415" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+    Forpliktelser
+  </text>
+  <text x="675" y="430" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+    1.200.000 kr
+  </text>
+  
+  <!-- Summary section -->
+  <rect x="50" y="460" width="700" height="80" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2" rx="10"/>
+  <text x="400" y="485" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+    Hovedforskjeller mellom Brutto og Netto
+  </text>
+  
+  <text x="80" y="510" fill="#666" font-family="Arial, sans-serif" font-size="12">
+    • Brutto viser totalverdien før fradrag - gir oversikt over omfang og størrelse
+  </text>
+  <text x="80" y="525" fill="#666" font-family="Arial, sans-serif" font-size="12">
+    • Netto viser reell verdi etter fradrag - gir presist bilde av faktisk situasjon
+  </text>
+  
+  <!-- Key insights -->
+  <rect x="50" y="560" width="340" height="80" fill="#e3f2fd" stroke="#1976d2" stroke-width="1" rx="5"/>
+  <text x="220" y="580" text-anchor="middle" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    Når brukes brutto?
+  </text>
+  <text x="70" y="600" fill="#666" font-family="Arial, sans-serif" font-size="10">
+    • Budsjettplanlegging og prognoser
+  </text>
+  <text x="70" y="615" fill="#666" font-family="Arial, sans-serif" font-size="10">
+    • Sammenligning av totale størrelser
+  </text>
+  <text x="70" y="630" fill="#666" font-family="Arial, sans-serif" font-size="10">
+    • Analyse av omsetning og aktivitet
+  </text>
+  
+  <rect x="410" y="560" width="340" height="80" fill="#e8f5e8" stroke="#4caf50" stroke-width="1" rx="5"/>
+  <text x="580" y="580" text-anchor="middle" fill="#4caf50" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    Når brukes netto?
+  </text>
+  <text x="430" y="600" fill="#666" font-family="Arial, sans-serif" font-size="10">
+    • Lønnsomhetsanalyse og rentabilitet
+  </text>
+  <text x="430" y="615" fill="#666" font-family="Arial, sans-serif" font-size="10">
+    • Skatteberegninger og avgifter
+  </text>
+  <text x="430" y="630" fill="#666" font-family="Arial, sans-serif" font-size="10">
+    • Investeringsbeslutninger
+  </text>
+  
+  <!-- Footer -->
+  <text x="400" y="680" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="11">
+    Både brutto og netto er viktige for helhetlig forståelse av regnskapet
+  </text>
+</svg>

@@ -1,0 +1,105 @@
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="pyramidGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#28a745;stop-opacity:0.9" />
+      <stop offset="100%" style="stop-color:#155724;stop-opacity:0.9" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="600" height="400" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Title -->
+  <text x="300" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#212529">
+    Overskuddshierarki
+  </text>
+  
+  <!-- Pyramid structure -->
+  <!-- Level 1: Bruttooverskudd (widest) -->
+  <polygon points="100,80 500,80 480,120 120,120" fill="#007bff" stroke="#0056b3" stroke-width="2"/>
+  <text x="300" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    BRUTTOOVERSKUDD
+  </text>
+  
+  <!-- Level 2: Driftsoverskudd -->
+  <polygon points="120,120 480,120 460,160 140,160" fill="#28a745" stroke="#20c997" stroke-width="2"/>
+  <text x="300" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    DRIFTSOVERSKUDD
+  </text>
+  
+  <!-- Level 3: Ordinært overskudd -->
+  <polygon points="140,160 460,160 440,200 160,200" fill="#ffc107" stroke="#e0a800" stroke-width="2"/>
+  <text x="300" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    ORDINÆRT OVERSKUDD
+  </text>
+  
+  <!-- Level 4: Årsoverskudd (narrowest) -->
+  <polygon points="160,200 440,200 420,240 180,240" fill="#dc3545" stroke="#c82333" stroke-width="2"/>
+  <text x="300" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    ÅRSOVERSKUDD
+  </text>
+  
+  <!-- Side labels with calculations -->
+  <text x="50" y="100" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    Salg - Varekost
+  </text>
+  <text x="50" y="140" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    - Driftskost
+  </text>
+  <text x="50" y="180" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    ± Finansposter
+  </text>
+  <text x="50" y="220" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    - Skatt
+  </text>
+  
+  <!-- Right side percentages (example) -->
+  <text x="520" y="100" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    40-60%
+  </text>
+  <text x="520" y="140" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    20-40%
+  </text>
+  <text x="520" y="180" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    15-35%
+  </text>
+  <text x="520" y="220" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    10-25%
+  </text>
+  
+  <!-- Bottom explanation -->
+  <text x="300" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#212529">
+    Hver nivå representerer et mer raffinert mål på lønnsomhet
+  </text>
+  
+  <!-- Legend -->
+  <rect x="50" y="310" width="15" height="15" fill="#007bff"/>
+  <text x="75" y="322" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    Bruttooverskudd - Kjerneaktivitet
+  </text>
+  
+  <rect x="250" y="310" width="15" height="15" fill="#28a745"/>
+  <text x="275" y="322" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    Driftsoverskudd - Operasjonell
+  </text>
+  
+  <rect x="50" y="335" width="15" height="15" fill="#ffc107"/>
+  <text x="75" y="347" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    Ordinært overskudd - Før skatt
+  </text>
+  
+  <rect x="250" y="335" width="15" height="15" fill="#dc3545"/>
+  <text x="275" y="347" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    Årsoverskudd - Til eierne
+  </text>
+  
+  <!-- Arrows showing flow -->
+  <polygon points="300,250 295,265 305,265" fill="#6c757d"/>
+  <text x="300" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+    Disponering
+  </text>
+</svg>

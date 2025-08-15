@@ -1,0 +1,232 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+    Regnskapsføring av Baksmell - Steg for Steg
+  </text>
+  
+  <!-- Step 1: Discovery -->
+  <rect x="50" y="70" width="150" height="100" fill="#e74c3c" fill-opacity="0.2" stroke="#e74c3c" stroke-width="2" rx="5"/>
+  <text x="125" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+    Steg 1: Oppdagelse
+  </text>
+  <text x="125" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    Baksmell identifiseres
+  </text>
+  <text x="125" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    ved årsavslutning
+  </text>
+  <text x="125" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    eller skattemelding
+  </text>
+  <text x="125" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e74c3c">
+    Beløp: 80 000 kr
+  </text>
+  
+  <!-- Arrow 1 -->
+  <line x1="210" y1="120" x2="250" y2="120" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Step 2: Initial booking -->
+  <rect x="260" y="70" width="150" height="100" fill="#3498db" fill-opacity="0.2" stroke="#3498db" stroke-width="2" rx="5"/>
+  <text x="335" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+    Steg 2: Avsetning
+  </text>
+  <text x="335" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    Foreløpig bokføring
+  </text>
+  <text x="335" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    av estimert beløp
+  </text>
+  
+  <!-- Booking entry 1 -->
+  <rect x="270" y="135" width="130" height="30" fill="#3498db" fill-opacity="0.1" stroke="#3498db"/>
+  <text x="335" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    Dr: Skattekostnad 80 000
+  </text>
+  <text x="335" y="162" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    Cr: Avsetning Skatt 80 000
+  </text>
+  
+  <!-- Arrow 2 -->
+  <line x1="420" y1="120" x2="460" y2="120" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Step 3: Verification -->
+  <rect x="470" y="70" width="150" height="100" fill="#f39c12" fill-opacity="0.2" stroke="#f39c12" stroke-width="2" rx="5"/>
+  <text x="545" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+    Steg 3: Verifikasjon
+  </text>
+  <text x="545" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    Endelig fastsettelse
+  </text>
+  <text x="545" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    av skattebeløp
+  </text>
+  <text x="545" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    Faktisk: 85 000 kr
+  </text>
+  <text x="545" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#f39c12">
+    Justering: +5 000 kr
+  </text>
+  
+  <!-- Detailed booking examples -->
+  <text x="400" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c3e50">
+    Detaljerte Bokføringseksempler
+  </text>
+  
+  <!-- Example 1: Tax -->
+  <rect x="50" y="250" width="220" height="120" fill="#e74c3c" fill-opacity="0.1" stroke="#e74c3c" stroke-width="2" rx="5"/>
+  <text x="160" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
+    Skattemessig Baksmell
+  </text>
+  
+  <rect x="60" y="280" width="200" height="80" fill="#fff" stroke="#bdc3c7"/>
+  <text x="70" y="295" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2c3e50">
+    Opprinnelig bokføring:
+  </text>
+  <text x="70" y="310" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    Dr: 5800 Skattekostnad        80 000
+  </text>
+  <text x="70" y="322" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    Cr: 2500 Betalbar skatt       80 000
+  </text>
+  
+  <text x="70" y="340" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2c3e50">
+    Justering (+5 000):
+  </text>
+  <text x="70" y="352" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    Dr: 5800 Skattekostnad         5 000
+  </text>
+  <text x="70" y="364" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    Cr: 2500 Betalbar skatt        5 000
+  </text>
+  
+  <!-- Example 2: Holiday pay -->
+  <rect x="290" y="250" width="220" height="120" fill="#3498db" fill-opacity="0.1" stroke="#3498db" stroke-width="2" rx="5"/>
+  <text x="400" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
+    Feriepenger Baksmell
+  </text>
+  
+  <rect x="300" y="280" width="200" height="80" fill="#fff" stroke="#bdc3c7"/>
+  <text x="310" y="295" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2c3e50">
+    Opprinnelig avsetning:
+  </text>
+  <text x="310" y="310" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    Dr: 5000 Lønnskostnad         25 000
+  </text>
+  <text x="310" y="322" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    Cr: 2940 Feriepenger          25 000
+  </text>
+  
+  <text x="310" y="340" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2c3e50">
+    Tilleggsavsetning (+15 000):
+  </text>
+  <text x="310" y="352" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    Dr: 5000 Lønnskostnad         15 000
+  </text>
+  <text x="310" y="364" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    Cr: 2940 Feriepenger          15 000
+  </text>
+  
+  <!-- Example 3: Supplier debt -->
+  <rect x="530" y="250" width="220" height="120" fill="#f39c12" fill-opacity="0.1" stroke="#f39c12" stroke-width="2" rx="5"/>
+  <text x="640" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
+    Leverandørgjeld Baksmell
+  </text>
+  
+  <rect x="540" y="280" width="200" height="80" fill="#fff" stroke="#bdc3c7"/>
+  <text x="550" y="295" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2c3e50">
+    Ikke-registrerte fakturaer:
+  </text>
+  <text x="550" y="310" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    Dr: 4000 Varekostnad          45 000
+  </text>
+  <text x="550" y="322" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    Cr: 2400 Leverandørgjeld      45 000
+  </text>
+  
+  <text x="550" y="340" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2c3e50">
+    Etterfølgende betaling:
+  </text>
+  <text x="550" y="352" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    Dr: 2400 Leverandørgjeld      45 000
+  </text>
+  <text x="550" y="364" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    Cr: 1920 Bankinnskudd         45 000
+  </text>
+  
+  <!-- Final settlement process -->
+  <text x="400" y="410" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c3e50">
+    Oppgjørsprosess og Betaling
+  </text>
+  
+  <!-- Settlement steps -->
+  <rect x="100" y="440" width="140" height="80" fill="#9b59b6" fill-opacity="0.2" stroke="#9b59b6" stroke-width="2" rx="5"/>
+  <text x="170" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+    1. Oppgjør Skatt
+  </text>
+  <text x="170" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    Dr: 2500 Betalbar skatt
+  </text>
+  <text x="170" y="495" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    Cr: 1920 Bankinnskudd
+  </text>
+  <text x="170" y="510" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#9b59b6">
+    85 000 kr
+  </text>
+  
+  <line x1="250" y1="480" x2="290" y2="480" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <rect x="300" y="440" width="140" height="80" fill="#27ae60" fill-opacity="0.2" stroke="#27ae60" stroke-width="2" rx="5"/>
+  <text x="370" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+    2. Renter &amp; Gebyrer
+  </text>
+  <text x="370" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    Dr: 5810 Rentekostnad
+  </text>
+  <text x="370" y="495" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    Cr: 1920 Bankinnskudd
+  </text>
+  <text x="370" y="510" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#27ae60">
+    3 500 kr
+  </text>
+  
+  <line x1="450" y1="480" x2="490" y2="480" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <rect x="500" y="440" width="140" height="80" fill="#e67e22" fill-opacity="0.2" stroke="#e67e22" stroke-width="2" rx="5"/>
+  <text x="570" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+    3. Total Kostnad
+  </text>
+  <text x="570" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    Direkte baksmell +
+  </text>
+  <text x="570" y="495" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    tilleggsgebyrer
+  </text>
+  <text x="570" y="510" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e67e22">
+    88 500 kr
+  </text>
+  
+  <!-- Control measures -->
+  <rect x="100" y="540" width="600" height="50" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2" rx="5"/>
+  <text x="400" y="560" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
+    Kontrollrutiner etter Baksmell
+  </text>
+  <text x="200" y="580" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    • Månedlig gjennomgang prognoser
+  </text>
+  <text x="400" y="580" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    • Kvartalsvis revisjon avsetninger
+  </text>
+  <text x="600" y="580" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    • Styrket internkontroll
+  </text>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>
+    </marker>
+  </defs>
+</svg>

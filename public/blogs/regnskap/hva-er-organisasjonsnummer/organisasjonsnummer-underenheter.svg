@@ -1,0 +1,121 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="mainGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="subGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#f59e0b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#d97706;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="400" fill="#ffffff"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
+    Organisasjonsnummer og Underenheter
+  </text>
+  
+  <!-- Main entity -->
+  <g transform="translate(300, 80)">
+    <rect x="0" y="0" width="200" height="80" fill="url(#mainGradient)" stroke="#1e40af" stroke-width="2" rx="10"/>
+    <text x="100" y="30" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+      HOVEDENHET
+    </text>
+    <text x="100" y="50" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14">
+      123 456 789
+    </text>
+    <text x="100" y="65" text-anchor="middle" fill="#bfdbfe" font-family="Arial, sans-serif" font-size="11">
+      (Starter med 1-7)
+    </text>
+  </g>
+  
+  <!-- Connection lines -->
+  <g stroke="#6b7280" stroke-width="2" fill="none">
+    <!-- Main to sub1 -->
+    <path d="M 350 160 L 350 200 L 150 200 L 150 220"/>
+    <!-- Main to sub2 -->
+    <path d="M 400 160 L 400 200 L 400 220"/>
+    <!-- Main to sub3 -->
+    <path d="M 450 160 L 450 200 L 650 200 L 650 220"/>
+  </g>
+  
+  <!-- Sub-entities -->
+  <!-- Sub-entity 1 -->
+  <g transform="translate(50, 220)">
+    <rect x="0" y="0" width="200" height="80" fill="url(#subGradient)" stroke="#d97706" stroke-width="2" rx="10"/>
+    <text x="100" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      UNDERENHET
+    </text>
+    <text x="100" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14">
+      812 345 678
+    </text>
+    <text x="100" y="60" text-anchor="middle" fill="#fed7aa" font-family="Arial, sans-serif" font-size="10">
+      Oslo-avdeling
+    </text>
+    <text x="100" y="75" text-anchor="middle" fill="#fed7aa" font-family="Arial, sans-serif" font-size="10">
+      (Starter med 8)
+    </text>
+  </g>
+  
+  <!-- Sub-entity 2 -->
+  <g transform="translate(300, 220)">
+    <rect x="0" y="0" width="200" height="80" fill="url(#subGradient)" stroke="#d97706" stroke-width="2" rx="10"/>
+    <text x="100" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      UNDERENHET
+    </text>
+    <text x="100" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14">
+      912 345 679
+    </text>
+    <text x="100" y="60" text-anchor="middle" fill="#fed7aa" font-family="Arial, sans-serif" font-size="10">
+      Bergen-filial
+    </text>
+    <text x="100" y="75" text-anchor="middle" fill="#fed7aa" font-family="Arial, sans-serif" font-size="10">
+      (Starter med 9)
+    </text>
+  </g>
+  
+  <!-- Sub-entity 3 -->
+  <g transform="translate(550, 220)">
+    <rect x="0" y="0" width="200" height="80" fill="url(#subGradient)" stroke="#d97706" stroke-width="2" rx="10"/>
+    <text x="100" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      UNDERENHET
+    </text>
+    <text x="100" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14">
+      812 345 680
+    </text>
+    <text x="100" y="60" text-anchor="middle" fill="#fed7aa" font-family="Arial, sans-serif" font-size="10">
+      Trondheim-kontor
+    </text>
+    <text x="100" y="75" text-anchor="middle" fill="#fed7aa" font-family="Arial, sans-serif" font-size="10">
+      (Starter med 8)
+    </text>
+  </g>
+  
+  <!-- Information box -->
+  <g transform="translate(50, 330)">
+    <rect x="0" y="0" width="700" height="60" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1" rx="5"/>
+    
+    <text x="20" y="20" fill="#1f2937" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      Nøkkelpunkter:
+    </text>
+    
+    <text x="20" y="35" fill="#374151" font-family="Arial, sans-serif" font-size="12">
+      • Underenhetsnummer starter alltid med 8 eller 9
+    </text>
+    
+    <text x="20" y="50" fill="#374151" font-family="Arial, sans-serif" font-size="12">
+      • Hver underenhet knyttes til én hovedenhet
+    </text>
+    
+    <text x="350" y="35" fill="#374151" font-family="Arial, sans-serif" font-size="12">
+      • Brukes for geografisk eller organisatorisk skille
+    </text>
+    
+    <text x="350" y="50" fill="#374151" font-family="Arial, sans-serif" font-size="12">
+      • Følger samme kontrollsiffer-algoritme som hovedenheter
+    </text>
+  </g>
+</svg>

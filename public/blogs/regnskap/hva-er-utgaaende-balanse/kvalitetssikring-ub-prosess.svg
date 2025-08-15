@@ -1,0 +1,224 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="cardGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f1f5f9;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="url(#bgGradient)"/>
+  
+  <!-- Title -->
+  <text x="400" y="35" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="#1e293b">
+    Kvalitetssikring av Utgående Balanse - Prosessflyt
+  </text>
+  
+  <!-- Process flow arrows -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#6366f1"/>
+    </marker>
+  </defs>
+  
+  <!-- Step 1: Internal Controls -->
+  <rect x="50" y="70" width="160" height="100" fill="url(#cardGradient)" stroke="#3b82f6" stroke-width="2" rx="8"/>
+  <text x="130" y="90" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#1e40af">
+    1. INTERNE KONTROLLER
+  </text>
+  <text x="130" y="110" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#1e40af">
+    Månedlige rutiner
+  </text>
+  <text x="60" y="130" font-family="Arial, sans-serif" font-size="9" fill="#1e40af">
+    ✓ Kontoabstemminger
+  </text>
+  <text x="60" y="145" font-family="Arial, sans-serif" font-size="9" fill="#1e40af">
+    ✓ Mellomregningskontoer
+  </text>
+  <text x="60" y="160" font-family="Arial, sans-serif" font-size="9" fill="#1e40af">
+    ✓ Saldolister
+  </text>
+  
+  <!-- Arrow 1 -->
+  <path d="M220 120 L260 120" stroke="#6366f1" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Step 2: External Verifications -->
+  <rect x="270" y="70" width="160" height="100" fill="url(#cardGradient)" stroke="#8b5cf6" stroke-width="2" rx="8"/>
+  <text x="350" y="90" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#7c3aed">
+    2. EKSTERNE VERIFIKASJONER
+  </text>
+  <text x="350" y="110" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#7c3aed">
+    Uavhengige kilder
+  </text>
+  <text x="280" y="130" font-family="Arial, sans-serif" font-size="9" fill="#7c3aed">
+    ✓ Bankavstemming
+  </text>
+  <text x="280" y="145" font-family="Arial, sans-serif" font-size="9" fill="#7c3aed">
+    ✓ Leverandørbekreftelser
+  </text>
+  <text x="280" y="160" font-family="Arial, sans-serif" font-size="9" fill="#7c3aed">
+    ✓ Kundebekreftelser
+  </text>
+  
+  <!-- Arrow 2 -->
+  <path d="M440 120 L480 120" stroke="#6366f1" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Step 3: Analysis and Review -->
+  <rect x="490" y="70" width="160" height="100" fill="url(#cardGradient)" stroke="#f59e0b" stroke-width="2" rx="8"/>
+  <text x="570" y="90" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#d97706">
+    3. ANALYSE OG GJENNOMGANG
+  </text>
+  <text x="570" y="110" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#d97706">
+    Detaljert vurdering
+  </text>
+  <text x="500" y="130" font-family="Arial, sans-serif" font-size="9" fill="#d97706">
+    ✓ Trendanalyse
+  </text>
+  <text x="500" y="145" font-family="Arial, sans-serif" font-size="9" fill="#d97706">
+    ✓ Avviksanalyse
+  </text>
+  <text x="500" y="160" font-family="Arial, sans-serif" font-size="9" fill="#d97706">
+    ✓ Reasonableness tests
+  </text>
+  
+  <!-- Arrow down -->
+  <path d="M570 180 L570 220" stroke="#6366f1" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Control checklist -->
+  <rect x="50" y="220" width="700" height="200" fill="#f0f9ff" stroke="#0ea5e9" stroke-width="2" rx="10"/>
+  <text x="400" y="245" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0c4a6e">
+    KVALITETSSIKRING SJEKKLISTE
+  </text>
+  
+  <!-- Checklist columns -->
+  <!-- Column 1: Balanse kontroller -->
+  <rect x="80" y="260" width="150" height="140" fill="#ffffff" stroke="#0ea5e9" stroke-width="1" rx="6"/>
+  <text x="155" y="280" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0c4a6e">
+    Balanse Kontroller
+  </text>
+  <text x="90" y="300" font-family="Arial, sans-serif" font-size="10" fill="#075985">
+    ☐ Sum debet = Sum kredit
+  </text>
+  <text x="90" y="315" font-family="Arial, sans-serif" font-size="10" fill="#075985">
+    ☐ UB = IB + bevegelser
+  </text>
+  <text x="90" y="330" font-family="Arial, sans-serif" font-size="10" fill="#075985">
+    ☐ Alle kontoer avstemt
+  </text>
+  <text x="90" y="345" font-family="Arial, sans-serif" font-size="10" fill="#075985">
+    ☐ Mellomregninger null
+  </text>
+  <text x="90" y="360" font-family="Arial, sans-serif" font-size="10" fill="#075985">
+    ☐ Negative saldoer forklart
+  </text>
+  <text x="90" y="375" font-family="Arial, sans-serif" font-size="10" fill="#075985">
+    ☐ Klassifisering korrekt
+  </text>
+  
+  <!-- Column 2: Dokumentasjon -->
+  <rect x="250" y="260" width="150" height="140" fill="#ffffff" stroke="#0ea5e9" stroke-width="1" rx="6"/>
+  <text x="325" y="280" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0c4a6e">
+    Dokumentasjon
+  </text>
+  <text x="260" y="300" font-family="Arial, sans-serif" font-size="10" fill="#075985">
+    ☐ Alle bilag arkivert
+  </text>
+  <text x="260" y="315" font-family="Arial, sans-serif" font-size="10" fill="#075985">
+    ☐ Justeringsposter dokumentert
+  </text>
+  <text x="260" y="330" font-family="Arial, sans-serif" font-size="10" fill="#075985">
+    ☐ Beregninger vedlagt
+  </text>
+  <text x="260" y="345" font-family="Arial, sans-serif" font-size="10" fill="#075985">
+    ☐ Avviksdokumentasjon
+  </text>
+  <text x="260" y="360" font-family="Arial, sans-serif" font-size="10" fill="#075985">
+    ☐ Godkjenninger på plass
+  </text>
+  <text x="260" y="375" font-family="Arial, sans-serif" font-size="10" fill="#075985">
+    ☐ Kontrollspor etablert
+  </text>
+  
+  <!-- Column 3: Periodisering -->
+  <rect x="420" y="260" width="150" height="140" fill="#ffffff" stroke="#0ea5e9" stroke-width="1" rx="6"/>
+  <text x="495" y="280" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0c4a6e">
+    Periodisering
+  </text>
+  <text x="430" y="300" font-family="Arial, sans-serif" font-size="10" fill="#075985">
+    ☐ Påløpte kostnader
+  </text>
+  <text x="430" y="315" font-family="Arial, sans-serif" font-size="10" fill="#075985">
+    ☐ Forskuddsbetalinger
+  </text>
+  <text x="430" y="330" font-family="Arial, sans-serif" font-size="10" fill="#075985">
+    ☐ Avsetninger vurdert
+  </text>
+  <text x="430" y="345" font-family="Arial, sans-serif" font-size="10" fill="#075985">
+    ☐ Utsatt skatt beregnet
+  </text>
+  <text x="430" y="360" font-family="Arial, sans-serif" font-size="10" fill="#075985">
+    ☐ Valutajusteringer
+  </text>
+  <text x="430" y="375" font-family="Arial, sans-serif" font-size="10" fill="#075985">
+    ☐ Cut-off kontroll
+  </text>
+  
+  <!-- Column 4: Verdivurdering -->
+  <rect x="590" y="260" width="150" height="140" fill="#ffffff" stroke="#0ea5e9" stroke-width="1" rx="6"/>
+  <text x="665" y="280" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0c4a6e">
+    Verdivurdering
+  </text>
+  <text x="600" y="300" font-family="Arial, sans-serif" font-size="10" fill="#075985">
+    ☐ Nedskrivningsvurdering
+  </text>
+  <text x="600" y="315" font-family="Arial, sans-serif" font-size="10" fill="#075985">
+    ☐ Avskrivninger korrekte
+  </text>
+  <text x="600" y="330" font-family="Arial, sans-serif" font-size="10" fill="#075985">
+    ☐ Varelager verdsatt
+  </text>
+  <text x="600" y="345" font-family="Arial, sans-serif" font-size="10" fill="#075985">
+    ☐ Markedsverdier oppdatert
+  </text>
+  <text x="600" y="360" font-family="Arial, sans-serif" font-size="10" fill="#075985">
+    ☐ Tap på fordringer
+  </text>
+  <text x="600" y="375" font-family="Arial, sans-serif" font-size="10" fill="#075985">
+    ☐ Virkelig verdi-test
+  </text>
+  
+  <!-- Final approval -->
+  <rect x="200" y="450" width="400" height="120" fill="#dcfce7" stroke="#16a34a" stroke-width="2" rx="10"/>
+  <text x="400" y="475" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#166534">
+    ENDELIG GODKJENNING
+  </text>
+  
+  <!-- Approval steps -->
+  <text x="220" y="500" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#166534">
+    Ansvarlig regnskapsfører:
+  </text>
+  <text x="230" y="515" font-family="Arial, sans-serif" font-size="10" fill="#14532d">
+    ☐ Gjennomgang gjennomført
+  </text>
+  <text x="230" y="530" font-family="Arial, sans-serif" font-size="10" fill="#14532d">
+    ☐ Alle kontroller utført
+  </text>
+  
+  <text x="420" y="500" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#166534">
+    Økonomileder:
+  </text>
+  <text x="430" y="515" font-family="Arial, sans-serif" font-size="10" fill="#14532d">
+    ☐ Kvalitet godkjent
+  </text>
+  <text x="430" y="530" font-family="Arial, sans-serif" font-size="10" fill="#14532d">
+    ☐ Rapporter frigitt
+  </text>
+  
+  <text x="400" y="555" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#166534">
+    UB klar for overføring til neste periode
+  </text>
+</svg>

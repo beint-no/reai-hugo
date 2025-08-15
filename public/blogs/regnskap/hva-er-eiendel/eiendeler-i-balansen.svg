@@ -1,0 +1,93 @@
+<svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="400" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+    Eiendeler i Balansen
+  </text>
+  
+  <!-- Balance equation -->
+  <text x="400" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#7f8c8d">
+    Eiendeler = Gjeld + Egenkapital
+  </text>
+  
+  <!-- Left side - EIENDELER -->
+  <rect x="50" y="90" width="300" height="280" fill="#e8f5e8" stroke="#27ae60" stroke-width="4" rx="10"/>
+  <text x="200" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#27ae60">
+    EIENDELER
+  </text>
+  
+  <!-- Anleggsmidler section -->
+  <rect x="70" y="130" width="260" height="100" fill="#d5f4e6" stroke="#1e8449" stroke-width="2" rx="5"/>
+  <text x="200" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e8449">
+    Anleggsmidler
+  </text>
+  <text x="200" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+    (Minst likvide)
+  </text>
+  
+  <!-- Anleggsmidler items -->
+  <text x="80" y="190" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">• Immaterielle eiendeler</text>
+  <text x="80" y="205" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">• Materielle anleggsmidler</text>
+  <text x="80" y="220" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">• Finansielle anleggsmidler</text>
+  
+  <!-- Omløpsmidler section -->
+  <rect x="70" y="250" width="260" height="100" fill="#a9dfbf" stroke="#148f77" stroke-width="2" rx="5"/>
+  <text x="200" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#148f77">
+    Omløpsmidler
+  </text>
+  <text x="200" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+    (Mest likvide)
+  </text>
+  
+  <!-- Omløpsmidler items -->
+  <text x="80" y="310" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">• Varelager</text>
+  <text x="80" y="325" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">• Fordringer</text>
+  <text x="80" y="340" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">• Bankinnskudd og kontanter</text>
+  
+  <!-- Equals sign -->
+  <text x="375" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="bold" fill="#34495e">
+    =
+  </text>
+  
+  <!-- Right side - GJELD + EGENKAPITAL -->
+  <rect x="450" y="90" width="300" height="280" fill="#fef9e7" stroke="#f39c12" stroke-width="4" rx="10"/>
+  <text x="600" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#f39c12">
+    GJELD + EGENKAPITAL
+  </text>
+  
+  <!-- Gjeld section -->
+  <rect x="470" y="130" width="260" height="100" fill="#fdeaa7" stroke="#d68910" stroke-width="2" rx="5"/>
+  <text x="600" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#d68910">
+    Gjeld
+  </text>
+  <text x="600" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+    (Forpliktelser)
+  </text>
+  
+  <!-- Gjeld items -->
+  <text x="480" y="190" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">• Langsiktig gjeld</text>
+  <text x="480" y="205" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">• Kortsiktig gjeld</text>
+  <text x="480" y="220" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">• Leverandørgjeld</text>
+  
+  <!-- Egenkapital section -->
+  <rect x="470" y="250" width="260" height="100" fill="#f8c471" stroke="#ca6f1e" stroke-width="2" rx="5"/>
+  <text x="600" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#ca6f1e">
+    Egenkapital
+  </text>
+  <text x="600" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+    (Eierens andel)
+  </text>
+  
+  <!-- Egenkapital items -->
+  <text x="480" y="310" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">• Aksjekapital</text>
+  <text x="480" y="325" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">• Opptjent egenkapital</text>
+  <text x="480" y="340" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">• Årets resultat</text>
+  
+  <!-- Bottom note -->
+  <rect x="100" y="380" width="600" height="15" fill="#ecf0f1" rx="5"/>
+  <text x="400" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">
+    Eiendeler ordnes etter likviditet - fra minst til mest likvide
+  </text>
+</svg>

@@ -1,0 +1,88 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="passivaBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:0.1" />
+      <stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:0.1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="400" fill="url(#bgGradient)"/>
+  
+  <!-- Main container -->
+  <rect x="50" y="50" width="700" height="300" fill="url(#passivaBg)" stroke="#3b82f6" stroke-width="2" rx="10"/>
+  
+  <!-- Title -->
+  <text x="400" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#1e40af">
+    HVA ER PASSIVA?
+  </text>
+  
+  <!-- Subtitle -->
+  <text x="400" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#475569">
+    Gjeld og Egenkapital i Regnskap
+  </text>
+  
+  <!-- Balance illustration -->
+  <g transform="translate(100, 160)">
+    <!-- Balance scale base -->
+    <line x1="250" y1="120" x2="350" y2="120" stroke="#374151" stroke-width="3"/>
+    <circle cx="300" cy="120" r="8" fill="#374151"/>
+    <line x1="300" y1="112" x2="300" y2="80" stroke="#374151" stroke-width="2"/>
+    
+    <!-- Left side - Aktiva -->
+    <rect x="180" y="90" width="120" height="30" fill="#10b981" stroke="#059669" stroke-width="2" rx="5"/>
+    <text x="240" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      AKTIVA
+    </text>
+    <line x1="240" y1="90" x2="280" y2="80" stroke="#374151" stroke-width="2"/>
+    
+    <!-- Right side - Passiva -->
+    <rect x="300" y="90" width="120" height="30" fill="#3b82f6" stroke="#2563eb" stroke-width="2" rx="5"/>
+    <text x="360" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      PASSIVA
+    </text>
+    <line x1="360" y1="90" x2="320" y2="80" stroke="#374151" stroke-width="2"/>
+    
+    <!-- Balance equation -->
+    <text x="300" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#374151">
+      AKTIVA = PASSIVA
+    </text>
+  </g>
+  
+  <!-- Passiva breakdown -->
+  <g transform="translate(450, 160)">
+    <!-- Egenkapital -->
+    <rect x="0" y="0" width="120" height="40" fill="#8b5cf6" stroke="#7c3aed" stroke-width="2" rx="5"/>
+    <text x="60" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      EGENKAPITAL
+    </text>
+    
+    <!-- Plus sign -->
+    <text x="60" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#374151">
+      +
+    </text>
+    
+    <!-- Gjeld -->
+    <rect x="0" y="70" width="120" height="40" fill="#ef4444" stroke="#dc2626" stroke-width="2" rx="5"/>
+    <text x="60" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      GJELD
+    </text>
+  </g>
+  
+  <!-- Key concepts -->
+  <g transform="translate(50, 280)">
+    <text x="0" y="0" font-family="Arial, sans-serif" font-size="14" fill="#475569">
+      • Finansieringskilder for bedriftens eiendeler
+    </text>
+    <text x="250" y="0" font-family="Arial, sans-serif" font-size="14" fill="#475569">
+      • Kortsiktig og langsiktig gjeld
+    </text>
+    <text x="500" y="0" font-family="Arial, sans-serif" font-size="14" fill="#475569">
+      • Grunnlag for finansiell analyse
+    </text>
+  </g>
+</svg>

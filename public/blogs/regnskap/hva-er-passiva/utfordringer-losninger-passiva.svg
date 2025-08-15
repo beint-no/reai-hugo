@@ -1,0 +1,125 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="url(#bgGradient)" stroke="#cbd5e1" stroke-width="1" rx="10"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1e40af">
+    UTFORDRINGER OG LØSNINGER I PASSIVA-FORVALTNING
+  </text>
+  
+  <!-- Challenge 1: Liquidity Management -->
+  <g transform="translate(50, 60)">
+    <!-- Challenge -->
+    <rect x="0" y="0" width="300" height="120" fill="#fecaca" fill-opacity="0.3" stroke="#ef4444" stroke-width="2" rx="8"/>
+    <text x="150" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#dc2626">
+      UTFORDRING: LIKVIDITETSSTYRING
+    </text>
+    <text x="20" y="50" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Uforutsigbare kontantstrømmer</text>
+    <text x="20" y="65" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Sesongvariasjoner i forretningen</text>
+    <text x="20" y="80" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Plutselige betalingskrav</text>
+    <text x="20" y="95" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Begrenset tilgang til kortsiktig kreditt</text>
+    
+    <!-- Solution -->
+    <rect x="0" y="130" width="300" height="120" fill="#bbf7d0" fill-opacity="0.3" stroke="#10b981" stroke-width="2" rx="8"/>
+    <text x="150" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#059669">
+      LØSNING: PROAKTIV PLANLEGGING
+    </text>
+    <text x="20" y="180" font-family="Arial, sans-serif" font-size="12" fill="#374151">• 13-ukers rullende likviditetsprognose</text>
+    <text x="20" y="195" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Fleksible kredittlinjer</text>
+    <text x="20" y="210" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Diversifiserte inntektskilder</text>
+    <text x="20" y="225" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Automatisk cash pooling</text>
+  </g>
+  
+  <!-- Challenge 2: Refinancing Risk -->
+  <g transform="translate(450, 60)">
+    <!-- Challenge -->
+    <rect x="0" y="0" width="300" height="120" fill="#fecaca" fill-opacity="0.3" stroke="#ef4444" stroke-width="2" rx="8"/>
+    <text x="150" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#dc2626">
+      UTFORDRING: REFINANSIERINGSRISIKO
+    </text>
+    <text x="20" y="50" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Konsentrasjon av låneforfall</text>
+    <text x="20" y="65" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Endrede markedsforhold</text>
+    <text x="20" y="80" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Strengere lånevilkår</text>
+    <text x="20" y="95" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Avhengighet av få långivere</text>
+    
+    <!-- Solution -->
+    <rect x="0" y="130" width="300" height="120" fill="#bbf7d0" fill-opacity="0.3" stroke="#10b981" stroke-width="2" rx="8"/>
+    <text x="150" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#059669">
+      LØSNING: SPREDNING OG TIMING
+    </text>
+    <text x="20" y="180" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Spred forfall over tid</text>
+    <text x="20" y="195" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Diversifiser finansieringskilder</text>
+    <text x="20" y="210" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Tidlig refinansiering</text>
+    <text x="20" y="225" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Oppbygging av bankforbindelser</text>
+  </g>
+  
+  <!-- Challenge 3: Interest Rate Risk -->
+  <g transform="translate(50, 310)">
+    <!-- Challenge -->
+    <rect x="0" y="0" width="300" height="120" fill="#fecaca" fill-opacity="0.3" stroke="#ef4444" stroke-width="2" rx="8"/>
+    <text x="150" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#dc2626">
+      UTFORDRING: RENTERISIKO
+    </text>
+    <text x="20" y="50" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Flytende rente på store lån</text>
+    <text x="20" y="65" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Uforutsigbare rentekostnader</text>
+    <text x="20" y="80" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Påvirkning på lønnsomhet</text>
+    <text x="20" y="95" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Vanskeligere budgettering</text>
+    
+    <!-- Solution -->
+    <rect x="0" y="130" width="300" height="120" fill="#bbf7d0" fill-opacity="0.3" stroke="#10b981" stroke-width="2" rx="8"/>
+    <text x="150" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#059669">
+      LØSNING: RISIKOHÅNDTERING
+    </text>
+    <text x="20" y="180" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Blanding av fast/flytende rente</text>
+    <text x="20" y="195" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Rentederivater for sikring</text>
+    <text x="20" y="210" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Løpende rentevurderinger</text>
+    <text x="20" y="225" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Sensitivitetsanalyser</text>
+  </g>
+  
+  <!-- Challenge 4: Currency Risk -->
+  <g transform="translate(450, 310)">
+    <!-- Challenge -->
+    <rect x="0" y="0" width="300" height="120" fill="#fecaca" fill-opacity="0.3" stroke="#ef4444" stroke-width="2" rx="8"/>
+    <text x="150" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#dc2626">
+      UTFORDRING: VALUTARISIKO
+    </text>
+    <text x="20" y="50" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Gjeld i utenlandsk valuta</text>
+    <text x="20" y="65" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Valutakurssvingninger</text>
+    <text x="20" y="80" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Økte gjeldsbeløp i NOK</text>
+    <text x="20" y="95" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Påvirkning på egenkapital</text>
+    
+    <!-- Solution -->
+    <rect x="0" y="130" width="300" height="120" fill="#bbf7d0" fill-opacity="0.3" stroke="#10b981" stroke-width="2" rx="8"/>
+    <text x="150" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#059669">
+      LØSNING: VALUTASIKRING
+    </text>
+    <text x="20" y="180" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Naturlig sikring via inntekter</text>
+    <text x="20" y="195" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Valutaterminkontrakter</text>
+    <text x="20" y="210" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Begrens valutaeksponering</text>
+    <text x="20" y="225" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Kontinuerlig overvåking</text>
+  </g>
+  
+  <!-- Best practices framework -->
+  <g transform="translate(50, 480)">
+    <rect x="0" y="0" width="700" height="100" fill="#e0f2fe" fill-opacity="0.5" stroke="#0891b2" stroke-width="2" rx="8"/>
+    <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#0891b2">
+      BESTE PRAKSIS RAMMEVERK
+    </text>
+    
+    <text x="20" y="50" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">1. KONTINUERLIG OVERVÅKING:</text>
+    <text x="200" y="50" font-family="Arial, sans-serif" font-size="12" fill="#374151">Daglig likviditetsoppfølging og månedlige nøkkeltall</text>
+    
+    <text x="20" y="70" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">2. PROAKTIV PLANLEGGING:</text>
+    <text x="200" y="70" font-family="Arial, sans-serif" font-size="12" fill="#374151">12-månders finansieringsplan og scenario-analyser</text>
+    
+    <text x="20" y="90" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">3. DIVERSIFISERING:</text>
+    <text x="200" y="90" font-family="Arial, sans-serif" font-size="12" fill="#374151">Spred risiko på tvers av kilder, forfallstider og valutaer</text>
+  </g>
+</svg>

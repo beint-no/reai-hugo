@@ -1,0 +1,123 @@
+<svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="400" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#2c3e50">
+    Crowdfunding i Regnskap
+  </text>
+  
+  <!-- Central platform circle -->
+  <circle cx="400" cy="200" r="80" fill="#3498db" stroke="#2980b9" stroke-width="3"/>
+  <text x="400" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    Crowdfunding
+  </text>
+  <text x="400" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    Plattform
+  </text>
+  
+  <!-- Contributors (left side) -->
+  <g id="contributors">
+    <!-- Contributor 1 -->
+    <circle cx="150" cy="120" r="25" fill="#e74c3c"/>
+    <text x="150" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      Bidrag
+    </text>
+    <text x="150" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      Investor 1
+    </text>
+    
+    <!-- Contributor 2 -->
+    <circle cx="150" cy="200" r="25" fill="#e74c3c"/>
+    <text x="150" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      Bidrag
+    </text>
+    <text x="150" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      Investor 2
+    </text>
+    
+    <!-- Contributor 3 -->
+    <circle cx="150" cy="280" r="25" fill="#e74c3c"/>
+    <text x="150" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      Bidrag
+    </text>
+    <text x="150" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      Investor 3
+    </text>
+  </g>
+  
+  <!-- Arrows from contributors to platform -->
+  <path d="M 175 120 L 320 180" stroke="#27ae60" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  <path d="M 175 200 L 320 200" stroke="#27ae60" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  <path d="M 175 280 L 320 220" stroke="#27ae60" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Business/Project (right side) -->
+  <rect x="580" y="160" width="120" height="80" fill="#9b59b6" stroke="#8e44ad" stroke-width="2" rx="10"/>
+  <text x="640" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    Bedrift/
+  </text>
+  <text x="640" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    Prosjekt
+  </text>
+  <text x="640" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    Mottar
+  </text>
+  <text x="640" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    Finansiering
+  </text>
+  
+  <!-- Arrow from platform to business -->
+  <path d="M 480 200 L 580 200" stroke="#f39c12" stroke-width="4" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Accounting elements -->
+  <g id="accounting">
+    <!-- Accounting box 1 -->
+    <rect x="50" y="350" width="150" height="40" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1" rx="5"/>
+    <text x="125" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      Regnskapsføring
+    </text>
+    <text x="125" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      av Inntekter
+    </text>
+    
+    <!-- Accounting box 2 -->
+    <rect x="220" y="350" width="150" height="40" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1" rx="5"/>
+    <text x="295" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      MVA-behandling
+    </text>
+    <text x="295" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      og Skatt
+    </text>
+    
+    <!-- Accounting box 3 -->
+    <rect x="430" y="350" width="150" height="40" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1" rx="5"/>
+    <text x="505" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      Juridiske
+    </text>
+    <text x="505" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      Krav
+    </text>
+    
+    <!-- Accounting box 4 -->
+    <rect x="600" y="350" width="150" height="40" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1" rx="5"/>
+    <text x="675" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      Finansiell
+    </text>
+    <text x="675" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      Rapportering
+    </text>
+  </g>
+  
+  <!-- Money symbols -->
+  <text x="250" y="140" font-family="Arial, sans-serif" font-size="20" fill="#27ae60">kr</text>
+  <text x="250" y="180" font-family="Arial, sans-serif" font-size="20" fill="#27ae60">kr</text>
+  <text x="250" y="220" font-family="Arial, sans-serif" font-size="20" fill="#27ae60">kr</text>
+  <text x="250" y="260" font-family="Arial, sans-serif" font-size="20" fill="#27ae60">kr</text>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#27ae60"/>
+    </marker>
+  </defs>
+</svg>

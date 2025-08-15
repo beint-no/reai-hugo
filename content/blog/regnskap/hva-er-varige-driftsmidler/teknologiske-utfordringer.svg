@@ -1,0 +1,110 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1e3a8a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="techGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#dc2626;stop-opacity:0.1" />
+      <stop offset="100%" style="stop-color:#dc2626;stop-opacity:0.3" />
+    </linearGradient>
+    <linearGradient id="cyberGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ea580c;stop-opacity:0.1" />
+      <stop offset="100%" style="stop-color:#ea580c;stop-opacity:0.3" />
+    </linearGradient>
+    <filter id="shadow">
+      <feDropShadow dx="2" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8fafc"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
+  <text x="400" y="30" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="18" font-weight="bold">Teknologiske Utfordringer</text>
+  <text x="400" y="55" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14">Varige Driftsmidler</text>
+  
+  <!-- Main Content Area -->
+  <rect x="40" y="100" width="720" height="480" fill="white" stroke="#e2e8f0" stroke-width="2" rx="8" filter="url(#shadow)"/>
+  
+  <!-- Section 1: Rask Teknologisk Utvikling -->
+  <rect x="60" y="130" width="340" height="200" fill="url(#techGradient)" stroke="#dc2626" stroke-width="2" rx="8"/>
+  <text x="230" y="155" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Rask Teknologisk Utvikling</text>
+  
+  <!-- Technology icons -->
+  <circle cx="110" cy="190" r="20" fill="#fca5a5" stroke="#dc2626" stroke-width="2"/>
+  <text x="110" y="196" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="12" font-weight="bold">IT</text>
+  
+  <circle cx="230" cy="190" r="20" fill="#fca5a5" stroke="#dc2626" stroke-width="2"/>
+  <text x="230" y="196" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="12" font-weight="bold">AI</text>
+  
+  <circle cx="350" cy="190" r="20" fill="#fca5a5" stroke="#dc2626" stroke-width="2"/>
+  <text x="350" y="196" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="10" font-weight="bold">IoT</text>
+  
+  <!-- Challenge points -->
+  <text x="80" y="235" fill="#7f1d1d" font-family="Arial, sans-serif" font-size="12" font-weight="bold">• Kortere levetid</text>
+  <text x="80" y="255" fill="#7f1d1d" font-family="Arial, sans-serif" font-size="11">Raskere foreldelse av IT-utstyr</text>
+  
+  <text x="80" y="280" fill="#7f1d1d" font-family="Arial, sans-serif" font-size="12" font-weight="bold">• Oppgraderingskostnader</text>
+  <text x="80" y="300" fill="#7f1d1d" font-family="Arial, sans-serif" font-size="11">Hyppige investeringer i ny teknologi</text>
+  
+  <text x="80" y="320" fill="#7f1d1d" font-family="Arial, sans-serif" font-size="12" font-weight="bold">• Kompatibilitetsproblemer</text>
+  
+  <!-- Section 2: Cybersikkerhet -->
+  <rect x="420" y="130" width="320" height="200" fill="url(#cyberGradient)" stroke="#ea580c" stroke-width="2" rx="8"/>
+  <text x="580" y="155" text-anchor="middle" fill="#ea580c" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Cybersikkerhet</text>
+  
+  <!-- Security icons -->
+  <rect x="460" y="175" width="30" height="30" fill="#fed7aa" stroke="#ea580c" stroke-width="2" rx="4"/>
+  <text x="475" y="195" text-anchor="middle" fill="#ea580c" font-family="Arial, sans-serif" font-size="16" font-weight="bold">🔒</text>
+  
+  <rect x="510" y="175" width="30" height="30" fill="#fed7aa" stroke="#ea580c" stroke-width="2" rx="4"/>
+  <text x="525" y="195" text-anchor="middle" fill="#ea580c" font-family="Arial, sans-serif" font-size="16" font-weight="bold">🛡️</text>
+  
+  <rect x="560" y="175" width="30" height="30" fill="#fed7aa" stroke="#ea580c" stroke-width="2" rx="4"/>
+  <text x="575" y="195" text-anchor="middle" fill="#ea580c" font-family="Arial, sans-serif" font-size="16" font-weight="bold">⚠️</text>
+  
+  <!-- Security challenges -->
+  <text x="440" y="235" fill="#c2410c" font-family="Arial, sans-serif" font-size="12" font-weight="bold">• Sikkerhetsinvesteringer</text>
+  <text x="440" y="255" fill="#c2410c" font-family="Arial, sans-serif" font-size="11">Kostnader til beskyttelse</text>
+  
+  <text x="440" y="280" fill="#c2410c" font-family="Arial, sans-serif" font-size="12" font-weight="bold">• Compliance-krav</text>
+  <text x="440" y="300" fill="#c2410c" font-family="Arial, sans-serif" font-size="11">Regulatoriske sikkerhetsstandarder</text>
+  
+  <text x="440" y="320" fill="#c2410c" font-family="Arial, sans-serif" font-size="12" font-weight="bold">• Risikohåndtering</text>
+  
+  <!-- Impact Arrow -->
+  <path d="M 230 350 L 350 380 L 450 380 L 580 350" stroke="#6b7280" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Impact Section -->
+  <rect x="60" y="390" width="680" height="170" fill="#f1f5f9" stroke="#64748b" stroke-width="2" rx="8"/>
+  <text x="400" y="415" text-anchor="middle" fill="#1e293b" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Påvirkning på Varige Driftsmidler</text>
+  
+  <!-- Impact grid -->
+  <rect x="80" y="430" width="200" height="60" fill="white" stroke="#cbd5e1" stroke-width="1" rx="4"/>
+  <text x="90" y="450" fill="#475569" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Regnskapsmessig</text>
+  <text x="90" y="470" fill="#475569" font-family="Arial, sans-serif" font-size="11">• Kortere avskrivningstid</text>
+  <text x="90" y="485" fill="#475569" font-family="Arial, sans-serif" font-size="11">• Økt nedskrivningsrisiko</text>
+  
+  <rect x="300" y="430" width="200" height="60" fill="white" stroke="#cbd5e1" stroke-width="1" rx="4"/>
+  <text x="310" y="450" fill="#475569" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Operasjonell</text>
+  <text x="310" y="470" fill="#475569" font-family="Arial, sans-serif" font-size="11">• Økte vedlikeholdskostnader</text>
+  <text x="310" y="485" fill="#475569" font-family="Arial, sans-serif" font-size="11">• Redusert produktivitet</text>
+  
+  <rect x="520" y="430" width="200" height="60" fill="white" stroke="#cbd5e1" stroke-width="1" rx="4"/>
+  <text x="530" y="450" fill="#475569" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Strategisk</text>
+  <text x="530" y="470" fill="#475569" font-family="Arial, sans-serif" font-size="11">• Raskere utskifting</text>
+  <text x="530" y="485" fill="#475569" font-family="Arial, sans-serif" font-size="11">• Økt investeringsbehov</text>
+  
+  <!-- Solution approaches -->
+  <text x="90" y="520" fill="#059669" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Løsningsstrategier:</text>
+  <text x="90" y="540" fill="#059669" font-family="Arial, sans-serif" font-size="11">• Fleksible avskrivningsmetoder • Kontinuerlig teknologiutvikling • Systematisk risikohåndtering</text>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#6b7280"/>
+    </marker>
+  </defs>
+</svg>

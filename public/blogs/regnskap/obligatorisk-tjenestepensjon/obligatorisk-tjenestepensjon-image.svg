@@ -1,0 +1,66 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="400" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
+  
+  <!-- Main Title -->
+  <text x="400" y="45" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" fill="white">
+    Obligatorisk Tjenestepensjon
+  </text>
+  
+  <!-- Subtitle -->
+  <text x="400" y="110" font-family="Arial, sans-serif" font-size="18" text-anchor="middle" fill="#495057">
+    Lovpålagt pensjonsordning for norske arbeidsgivere
+  </text>
+  
+  <!-- Key Points Section -->
+  <rect x="50" y="140" width="700" height="220" fill="white" stroke="#dee2e6" stroke-width="1" rx="8"/>
+  
+  <!-- Key Point 1 -->
+  <circle cx="80" cy="170" r="8" fill="#28a745"/>
+  <text x="100" y="175" font-family="Arial, sans-serif" font-size="16" fill="#212529">
+    <tspan font-weight="bold">Lovkrav:</tspan> Alle arbeidsgivere med ansatte må etablere ordning
+  </text>
+  
+  <!-- Key Point 2 -->
+  <circle cx="80" cy="210" r="8" fill="#17a2b8"/>
+  <text x="100" y="215" font-family="Arial, sans-serif" font-size="16" fill="#212529">
+    <tspan font-weight="bold">Regnskapsføring:</tspan> Betydelige konsekvenser for bedriftens regnskap
+  </text>
+  
+  <!-- Key Point 3 -->
+  <circle cx="80" cy="250" r="8" fill="#ffc107"/>
+  <text x="100" y="255" font-family="Arial, sans-serif" font-size="16" fill="#212529">
+    <tspan font-weight="bold">Kostnader:</tspan> 2-5% av lønn + arbeidsgiveravgift + administrasjon
+  </text>
+  
+  <!-- Key Point 4 -->
+  <circle cx="80" cy="290" r="8" fill="#dc3545"/>
+  <text x="100" y="295" font-family="Arial, sans-serif" font-size="16" fill="#212529">
+    <tspan font-weight="bold">Sanksjoner:</tspan> Dagmulkt inntil kr 50 000 ved manglende etterlevelse
+  </text>
+  
+  <!-- Key Point 5 -->
+  <circle cx="80" cy="330" r="8" fill="#6f42c1"/>
+  <text x="100" y="335" font-family="Arial, sans-serif" font-size="16" fill="#212529">
+    <tspan font-weight="bold">Alternativer:</tspan> Innskudds- eller ytelsesbaserte ordninger
+  </text>
+  
+  <!-- Footer -->
+  <text x="400" y="385" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#6c757d">
+    En komplett guide til obligatorisk tjenestepensjon for norske bedrifter
+  </text>
+</svg>

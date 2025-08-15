@@ -1,0 +1,96 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="qaGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e40af;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="400" fill="#f8fafc"/>
+  
+  <!-- Main QA Process Circle -->
+  <circle cx="400" cy="200" r="120" fill="url(#qaGradient)" stroke="#1e40af" stroke-width="3"/>
+  
+  <!-- QA Text in Center -->
+  <text x="400" y="190" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white" text-anchor="middle">QA</text>
+  <text x="400" y="215" font-family="Arial, sans-serif" font-size="16" fill="white" text-anchor="middle">Quality Assurance</text>
+  
+  <!-- Four Main Components around the circle -->
+  <!-- Planning -->
+  <g>
+    <rect x="150" y="50" width="120" height="60" rx="10" fill="#e2e8f0" stroke="#64748b" stroke-width="2"/>
+    <text x="210" y="75" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#334155" text-anchor="middle">Planlegging</text>
+    <text x="210" y="95" font-family="Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle">Risikokartlegging</text>
+    <!-- Arrow to center -->
+    <path d="M270,80 Q320,100 320,140" stroke="#64748b" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  </g>
+  
+  <!-- Control -->
+  <g>
+    <rect x="530" y="50" width="120" height="60" rx="10" fill="#e2e8f0" stroke="#64748b" stroke-width="2"/>
+    <text x="590" y="75" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#334155" text-anchor="middle">Kontroll</text>
+    <text x="590" y="95" font-family="Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle">Systemer &amp; Prosesser</text>
+    <!-- Arrow to center -->
+    <path d="M530,80 Q480,100 480,140" stroke="#64748b" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  </g>
+  
+  <!-- Monitoring -->
+  <g>
+    <rect x="530" y="290" width="120" height="60" rx="10" fill="#e2e8f0" stroke="#64748b" stroke-width="2"/>
+    <text x="590" y="315" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#334155" text-anchor="middle">Overvåking</text>
+    <text x="590" y="335" font-family="Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle">KPI &amp; Målinger</text>
+    <!-- Arrow to center -->
+    <path d="M530,320 Q480,300 480,260" stroke="#64748b" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  </g>
+  
+  <!-- Improvement -->
+  <g>
+    <rect x="150" y="290" width="120" height="60" rx="10" fill="#e2e8f0" stroke="#64748b" stroke-width="2"/>
+    <text x="210" y="315" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#334155" text-anchor="middle">Forbedring</text>
+    <text x="210" y="335" font-family="Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle">Kontinuerlig utvikling</text>
+    <!-- Arrow to center -->
+    <path d="M270,320 Q320,300 320,260" stroke="#64748b" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  </g>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#64748b"/>
+    </marker>
+  </defs>
+  
+  <!-- Title -->
+  <text x="400" y="30" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1e293b" text-anchor="middle">QA (Quality Assurance) i Regnskap</text>
+  
+  <!-- Benefits boxes at bottom -->
+  <g>
+    <rect x="50" y="370" width="100" height="25" rx="5" fill="#dcfce7" stroke="#16a34a" stroke-width="1"/>
+    <text x="100" y="385" font-family="Arial, sans-serif" font-size="11" fill="#166534" text-anchor="middle">Nøyaktighet</text>
+  </g>
+  
+  <g>
+    <rect x="170" y="370" width="100" height="25" rx="5" fill="#dbeafe" stroke="#2563eb" stroke-width="1"/>
+    <text x="220" y="385" font-family="Arial, sans-serif" font-size="11" fill="#1d4ed8" text-anchor="middle">Compliance</text>
+  </g>
+  
+  <g>
+    <rect x="290" y="370" width="100" height="25" rx="5" fill="#fef3c7" stroke="#d97706" stroke-width="1"/>
+    <text x="340" y="385" font-family="Arial, sans-serif" font-size="11" fill="#92400e" text-anchor="middle">Pålitelighet</text>
+  </g>
+  
+  <g>
+    <rect x="410" y="370" width="100" height="25" rx="5" fill="#f3e8ff" stroke="#7c3aed" stroke-width="1"/>
+    <text x="460" y="385" font-family="Arial, sans-serif" font-size="11" fill="#5b21b6" text-anchor="middle">Konsistens</text>
+  </g>
+  
+  <g>
+    <rect x="530" y="370" width="100" height="25" rx="5" fill="#fce7f3" stroke="#db2777" stroke-width="1"/>
+    <text x="580" y="385" font-family="Arial, sans-serif" font-size="11" fill="#be185d" text-anchor="middle">Transparens</text>
+  </g>
+  
+  <g>
+    <rect x="650" y="370" width="100" height="25" rx="5" fill="#e0f2fe" stroke="#0891b2" stroke-width="1"/>
+    <text x="700" y="385" font-family="Arial, sans-serif" font-size="11" fill="#0e7490" text-anchor="middle">Effektivitet</text>
+  </g>
+</svg>

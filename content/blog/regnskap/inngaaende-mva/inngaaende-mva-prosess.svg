@@ -1,0 +1,20 @@
+<svg width="600" height="150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#333"/>
+    </marker>
+  </defs>
+  <!-- Leverandør faktura -->
+  <rect x="50" y="50" width="150" height="50" fill="#e3f2fd" stroke="#1976d2" rx="5"/>
+  <text x="125" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#1976d2">Leverandør faktura</text>
+  <!-- Pil til Inngående MVA -->
+  <path d="M200,75 L260,75" stroke="#333" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <!-- Inngående MVA -->
+  <rect x="260" y="50" width="150" height="50" fill="#fff3cd" stroke="#f59e0b" rx="5"/>
+  <text x="335" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#f59e0b">Inngående MVA</text>
+  <!-- Pil til Regnskapsføring -->
+  <path d="M410,75 L470,75" stroke="#333" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <!-- Regnskapsføring -->
+  <rect x="470" y="50" width="150" height="50" fill="#d1fae5" stroke="#059669" rx="5"/>
+  <text x="545" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#059669">Regnskapsføring</text>
+</svg>

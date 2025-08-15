@@ -1,0 +1,356 @@
+<!doctype html>
+<html lang="nb">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Hva er Aktivering i Regnskap? | ReAI</title>
+  <meta name="description" content="Komplett regnskapssystem med faktura, lønn, bilagsføring og årsoppgjør.">
+  
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<script src="https://cdn.tailwindcss.com?plugins=typography"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        fontFamily: { sans: ['Inter','ui-sans-serif','system-ui','Arial','sans-serif'] },
+        colors: {
+          brand: { DEFAULT: '#111827' },
+          accent: { DEFAULT: '#2563eb' }
+        }
+      }
+    }
+  }
+</script>
+<style>
+   
+  header .header-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #000 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link:hover { background-position: 0; }
+  header .header-link:hover::before { width: 100%; }
+
+  footer .footer-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #ffffff 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link:hover { background-position: 0; }
+  footer .footer-link:hover::before { width: 100%; }
+</style>
+<style>
+   
+  .prose { overflow-wrap: anywhere; word-break: break-word; }
+  .prose img { max-width: 100%; height: auto; }
+  .prose table { display: block; width: 100%; overflow-x: auto; }
+  .prose pre { white-space: pre-wrap; word-break: break-word; overflow-x: auto; }
+  .prose code { word-break: break-word; }
+  .prose iframe, .prose video { max-width: 100%; width: 100%; height: auto; }
+</style>
+<style>
+   
+  button,
+  .btn,
+  a.btn,
+  .button,
+  .cta,
+  .link-button,
+   
+  a.inline-flex.rounded-md,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"] {
+    transition: transform 220ms ease, box-shadow 220ms ease, background-color 220ms ease, color 220ms ease, opacity 220ms ease;
+    will-change: transform, box-shadow;
+  }
+
+  button:hover,
+  .btn:hover,
+  a.btn:hover,
+  .button:hover,
+  .cta:hover,
+  .link-button:hover,
+  a.inline-flex.rounded-md:hover,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+
+  button:active,
+  .btn:active,
+  a.btn:active,
+  .button:active,
+  .cta:active,
+  .link-button:active,
+  a.inline-flex.rounded-md:active,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:active {
+    transform: translateY(-1px) scale(0.99);
+    box-shadow: 0 6px 12px rgba(2, 6, 23, 0.1);
+  }
+
+  button:focus-visible,
+  .btn:focus-visible,
+  a.btn:focus-visible,
+  .button:focus-visible,
+  .cta:focus-visible,
+  .link-button:focus-visible,
+  a.inline-flex.rounded-md:focus-visible,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.35), 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+</style>
+
+<link rel="icon" type="image/svg+xml" href="/images/ReAI-logo-square.svg">
+<link rel="shortcut icon" href="/images/ReAI-logo-square.svg">
+
+</head>
+<body class="min-h-dvh bg-white text-gray-900 font-sans">
+  <header class="sticky top-0 z-40 bg-white/80 backdrop-blur">
+  
+  <div class="border-b border-slate-200/70">
+    <div class="max-w-7xl mx-auto px-4">
+      <div class="h-16 flex items-center justify-between">
+        <a href="/" class="flex items-center gap-2" aria-label="ReAI">
+          <img src="/images/ReAI-logo-square.svg?v=4" alt="ReAI logo" class="h-14 w-14 rounded-md mt-5" width="56" height="56" loading="eager" decoding="async">
+        </a>
+        <nav class="hidden md:block">
+          <ul class="flex items-center gap-5 text-sm">
+            <li><a href="/courses/" class="header-link text-slate-700 hover:text-black">Gratis kurs</a></li>
+            <li><a href="/contact/" class="header-link text-slate-700 hover:text-black">Kontakt oss</a></li>
+            <li><a href="/blog/" class="header-link text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+            <li><a href="/bli-partner/" class="header-link text-slate-700 hover:text-black">Bli partner</a></li>
+            <li><a href="/fakturamal/" class="header-link text-slate-700 hover:text-black">Lag faktura</a></li>
+          </ul>
+        </nav>
+        <button id="mobileMenuBtn" aria-controls="mobileMenu" aria-expanded="false" class="md:hidden inline-flex items-center justify-center h-9 w-9 rounded-md border border-slate-300">
+          <span class="sr-only">Menu</span>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-5 w-5"><path d="M3.75 6.75h16.5v1.5H3.75zM3.75 11.25h16.5v1.5H3.75zM3.75 15.75h16.5v1.5H3.75z"/></svg>
+        </button>
+      </div>
+    </div>
+  </div>
+  
+  <nav id="mobileMenu" class="md:hidden hidden border-b border-slate-200/70 bg-white/95 backdrop-blur">
+    <div class="max-w-7xl mx-auto px-4 py-3">
+      <ul class="flex flex-col items-center gap-3 text-sm text-center">
+        <li><a href="/courses/" class="header-link block text-slate-700 hover:text-black">Gratis kurs</a></li>
+        <li><a href="/contact/" class="header-link block text-slate-700 hover:text-black">Kontakt oss</a></li>
+        <li><a href="/blog/" class="header-link block text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+        <li><a href="/bli-partner/" class="header-link block text-slate-700 hover:text-black">Bli partner</a></li>
+        <li><a href="/fakturamal/" class="header-link block text-slate-700 hover:text-black">Lag faktura</a></li>
+      </ul>
+    </div>
+  </nav>
+  <script>
+    (function() {
+      const btn = document.getElementById('mobileMenuBtn');
+      const menu = document.getElementById('mobileMenu');
+      if (!btn || !menu) return;
+      btn.addEventListener('click', function() {
+        const isHidden = menu.classList.contains('hidden');
+        menu.classList.toggle('hidden');
+        btn.setAttribute('aria-expanded', String(isHidden));
+      });
+    })();
+  </script>
+</header>
+  <main>
+    
+<section class="pt-10 md:pt-14">
+  <div class="max-w-3xl mx-auto px-4">
+    <h1 class="text-3xl font-semibold tracking-tight text-center">Hva er Aktivering i Regnskap?</h1>
+    <p class="mt-2 text-gray-700">Aktivering er regnskapsføringen av kostnader som eiendeler, slik at de balanseføres og avskrives over tid i stedet for å kostnadsføres direkte.</p>
+    <article class="prose max-w-none mt-6"><p><strong>Aktivering</strong> er regnskapsprosessen hvor kostnader som oppfyller visse kriterier balanseføres som eiendeler (aktiva) og avskrives over tid. Gjennom <strong>aktivering</strong> sikrer man korrekt kostnadsfordeling og samsvar med relevante regnskapsprinsipper.</p>
+<p><img src="hva-er-aktivering-image.svg" alt="Hva er Aktivering?"></p>
+<h2 id="1-hva-er-aktivering">1. Hva er Aktivering?</h2>
+<p>Aktivering innebærer at en kostnad ikke kostnadsføres direkte i resultatet, men føres i balansen som en eiendel. Dette er sentralt for å fordele store investeringer over flere perioder, slik at resultatet reflekterer brukstid og økonomisk levetid.</p>
+<h2 id="2-kriterier-for-aktivering">2. Kriterier for Aktivering</h2>
+<p>For at en kostnad skal kunne aktiveres, må den oppfylle alle følgende kriterier:</p>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">Kriterium</th>
+          <th style="text-align: left">Forklaring</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left"><strong>Kontroll</strong></td>
+          <td style="text-align: left">Bedriften må ha kontroll over ressursen som følge av tidligere hendelser.</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><strong>Fremtidige økonomiske fordeler</strong></td>
+          <td style="text-align: left">Ressursen må forventes å bidra til fremtidige kontantstrømmer.</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><strong>Pålitelig måling</strong></td>
+          <td style="text-align: left">Kostnaden må kunne måles på en pålitelig måte.</td>
+      </tr>
+  </tbody>
+</table>
+<p>Kriteriene er i tråd med det grunnleggende rammeverket for regnskapsføring av <a href="/blogs/regnskap/hva-er-anleggsmidler" title="Hva er Anleggsmidler? Komplett Guide til Faste Eiendeler i Regnskap">anleggsmidler</a> og <a href="/blogs/regnskap/hva-er-imaterielle-eiendeler" title="Hva er Immaterielle Eiendeler? Komplett Guide til Utenfysiske Anleggsmidler">immaterielle eiendeler</a>, inkludert <a href="/blogs/kontoplan/1000-forskning-og-utvikling" title="Hva er Konto 1000 - Forskning og utvikling?">forskning og utvikling</a>.</p>
+<h2 id="3-bokføring-av-aktivering">3. Bokføring av Aktivering</h2>
+<p>Når en kostnad aktiveres, bokføres den som regel ved en journalføring som øker en eiendelskonto og krediterer en betalingskonto eller leverandørgjeld. Eksempel:</p>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">Transaksjon</th>
+          <th style="text-align: left">Debet</th>
+          <th style="text-align: left">Kredit</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left">Kjøp og installasjon av maskin</td>
+          <td style="text-align: left">1230 Maskiner</td>
+          <td style="text-align: left">2400 Leverandørgjeld</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Utvikling av programvare</td>
+          <td style="text-align: left">1250 Immaterielle eiendeler</td>
+          <td style="text-align: left">2400 Leverandørgjeld</td>
+      </tr>
+  </tbody>
+</table>
+<p>For en detaljert gjennomgang av <a href="/blogs/regnskap/hva-er-anskaffelseskost" title="Hva er Anskaffelseskost? Beregning, Komponenter og Regnskapsføring">anskaffelseskost</a>, se vår artikkel om anskaffelseskost.</p>
+<h2 id="4-skattemessige-konsekvenser">4. Skattemessige Konsekvenser</h2>
+<p>Aktivering påvirker skattegrunnlaget ved at kostnader balanseføres og avskrives over tid. I Norge følger skattemyndighetene egne regler for avskrivningssatser og fradragsrett. Les mer i vår guide til <a href="/blogs/regnskap/hva-er-avskrivning" title="Hva er Avskrivning i Regnskap? Metoder, Beregning og Praktiske Eksempler">avskrivning</a>.</p>
+<h2 id="5-sammenheng-med-avskrivning-og-amortisering">5. Sammenheng med Avskrivning og Amortisering</h2>
+<ul>
+<li><strong>Avskrivning</strong> gjelder for materielle eiendeler som maskiner og bygninger.</li>
+<li><strong>Amortisering</strong> gjelder for immaterielle eiendeler som patenter og lisenser.</li>
+</ul>
+<p>Begge prosesser bygger på at kostnaden først er aktivert i balansen gjennom aktivering. For mer informasjon, se vår artikkel om <a href="/blogs/regnskap/hva-er-amortisering" title="Hva er Amortisering? En Komplett Guide til Avskrivninger">amortisering</a>.</p>
+<h2 id="6-oppsummering">6. Oppsummering</h2>
+<p>Aktivering er et grunnleggende regnskapsprinsipp som sikrer at store kostnader for eiendeler fordeles over flere perioder. Dette gir mer korrekt resultatrapportering og samsvar med regnskapsstandarder.</p>
+<p>For videre lesning, se også:</p>
+<ul>
+<li><a href="/blogs/regnskap/hva-er-varige-driftsmidler" title="Hva er Varige Driftsmidler? Komplett Guide til Avskrivbare Anleggsmidler">Hva er varige driftsmidler?</a></li>
+<li><a href="/blogs/regnskap/hva-er-anskaffelseskost" title="Hva er Anskaffelseskost? Beregning og Regnskapsføring">Hva er anskaffelseskost?</a></li>
+<li><a href="/blogs/regnskap/hva-er-avskrivning" title="Hva er Avskrivning i Regnskap? Metoder, Beregning og Praktiske Eksempler">Hva er avskrivning?</a></li>
+</ul>
+<h2 id="7-praktiske-eksempler">7. Praktiske Eksempler</h2>
+<p>Her er noen konkrete eksempler på hvordan <strong>aktivering</strong> anvendes i praksis:</p>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">Eksempel</th>
+          <th style="text-align: left">Debet</th>
+          <th style="text-align: left">Kredit</th>
+          <th style="text-align: left">Kommentar</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left">Kjøp av produksjonsmaskin</td>
+          <td style="text-align: left">1230 Maskiner</td>
+          <td style="text-align: left">2400 Leverandørgjeld</td>
+          <td style="text-align: left">Maskinen forventes å ha levetid på 5 år</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Utvikling av ny programvare</td>
+          <td style="text-align: left">1250 Immaterielle eiendeler</td>
+          <td style="text-align: left">2400 Leverandørgjeld</td>
+          <td style="text-align: left">Kriterier for aktivering oppfylt</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Ombygging av kontorlokaler</td>
+          <td style="text-align: left">1240 Bygninger og tomter</td>
+          <td style="text-align: left">2400 Leverandørgjeld</td>
+          <td style="text-align: left">Forbedring som øker levetid</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="8-vanlige-feil-og-fallgruver">8. Vanlige Feil og Fallgruver</h2>
+<p>Ved <strong>aktivering</strong> er det viktig å unngå vanlige feil:</p>
+<ul>
+<li>Aktivering av kostnader som ikke oppfyller aktiveringskriteriene</li>
+<li>Manglende dokumentasjon av anskaffelseskost og kontroll over eiendelen</li>
+<li>Feil avskrivningsperiode i forhold til eiendelens økonomiske levetid</li>
+<li>Overser skattemessige begrensninger og fradragsregler</li>
+</ul>
+<h2 id="9-realisering-ved-avhending">9. Realisering ved avhending</h2>
+<p>For informasjon om hvordan eiendeler realiseres ved salg eller avhending, se <a href="/blogs/regnskap/realisering" title="Realisering i regnskap: Gevinst og tap ved salg av eiendeler">Realisering</a>.</p>
+</article>
+  </div>
+</section>
+
+  </main>
+  <footer class="mt-16 border-t border-slate-800/60 bg-slate-900">
+  <div class="max-w-7xl mx-auto px-4 py-14">
+    <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3 text-center sm:text-left">
+      
+      <div>
+        <h3 class="text-sm font-semibold text-white">Verktøy</h3>
+        <ul class="mt-2 space-y-2 text-sm text-slate-300">
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/finn-iban/">IBAN kalkulator</a></li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/lag-faktura-gratis/">Lag faktura</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Selskaps-informasjon</h3>
+        <ul class="mt-2 space-y-1 text-sm text-slate-300">
+          <li>Reai AS</li>
+          <li>Orgnr: 935606403</li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="mailto:post@reai.no">post@reai.no</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Om ReAI</h3>
+        <p class="mt-2 text-sm text-slate-300">ReAI er et gratis regnskapsprogram laget av tidligere ansatte i Tripletex
+          / Visma. Vi mener det er på tide med mer konkurranse i regnskaps-bransjen som kan komme bedrifter til gode.
+        </p>
+      </div>
+    </div>
+    <div class="mt-12 border-t border-slate-800/60 pt-6 flex flex-col items-center sm:flex-row sm:items-center sm:justify-between text-sm text-slate-400 text-center sm:text-left">
+      <div class="flex items-center gap-2">
+        
+        
+      </div>
+      <div class="mt-4 sm:mt-0 flex items-center justify-center sm:justify-end">
+        <div class="opacity-80">&copy; 2025 ReAI. All rights reserved.</div>
+      </div>
+    </div>
+  </div>
+</footer>
+</body>
+</html>

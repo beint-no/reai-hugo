@@ -1,0 +1,127 @@
+<svg width="500" height="350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="revenueGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#007bff;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#0056b3;stop-opacity:0.8" />
+    </linearGradient>
+    <linearGradient id="costGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6c757d;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#495057;stop-opacity:0.8" />
+    </linearGradient>
+    <linearGradient id="freeIncomeGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#28a745;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#1e7e34;stop-opacity:0.8" />
+    </linearGradient>
+    <linearGradient id="taxGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#dc3545;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#c82333;stop-opacity:0.8" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="500" height="350" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1"/>
+  
+  <!-- Title -->
+  <text x="250" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#212529">
+    Beregning Kraftsektorens Grunnrenteskatt
+  </text>
+  
+  <!-- Example data -->
+  <text x="250" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
+    Eksempel: Vannkraftverk 2024
+  </text>
+  
+  <!-- Calculation steps -->
+  <g transform="translate(50, 70)">
+    
+    <!-- Step 1: Revenue -->
+    <rect x="0" y="0" width="400" height="40" fill="url(#revenueGradient)" rx="5"/>
+    <text x="10" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      1. Kraftinntekter
+    </text>
+    <text x="10" y="35" font-family="Arial, sans-serif" font-size="11" fill="white">
+      100.000 MWh × 0,80 kr/kWh = 80.000.000 kr
+    </text>
+    <text x="390" y="25" text-anchor="end" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      80.000.000 kr
+    </text>
+    
+    <!-- Step 2: Costs -->
+    <rect x="0" y="50" width="400" height="40" fill="url(#costGradient)" rx="5"/>
+    <text x="10" y="70" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      2. Driftskostnader
+    </text>
+    <text x="10" y="85" font-family="Arial, sans-serif" font-size="11" fill="white">
+      Drift og vedlikehold
+    </text>
+    <text x="390" y="75" text-anchor="end" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      -15.000.000 kr
+    </text>
+    
+    <!-- Step 3: Free income -->
+    <rect x="0" y="100" width="400" height="40" fill="url(#freeIncomeGradient)" rx="5"/>
+    <text x="10" y="120" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      3. Friinntekt (7%)
+    </text>
+    <text x="10" y="135" font-family="Arial, sans-serif" font-size="11" fill="white">
+      200.000.000 kr × 7% = 14.000.000 kr
+    </text>
+    <text x="390" y="125" text-anchor="end" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      -14.000.000 kr
+    </text>
+    
+    <!-- Divider line -->
+    <line x1="0" y1="155" x2="400" y2="155" stroke="#495057" stroke-width="2"/>
+    
+    <!-- Tax base -->
+    <rect x="0" y="165" width="400" height="30" fill="#e9ecef" stroke="#adb5bd" stroke-width="1" rx="5"/>
+    <text x="10" y="185" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
+      Grunnlag for grunnrenteskatt
+    </text>
+    <text x="390" y="185" text-anchor="end" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#495057">
+      51.000.000 kr
+    </text>
+    
+    <!-- Tax calculation -->
+    <rect x="0" y="205" width="400" height="40" fill="url(#taxGradient)" rx="5"/>
+    <text x="10" y="225" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      4. Grunnrenteskatt (45%)
+    </text>
+    <text x="10" y="240" font-family="Arial, sans-serif" font-size="11" fill="white">
+      51.000.000 kr × 45%
+    </text>
+    <text x="390" y="230" text-anchor="end" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      22.950.000 kr
+    </text>
+    
+  </g>
+  
+  <!-- Visual breakdown -->
+  <g transform="translate(50, 320)">
+    <text x="200" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
+      Effektiv skattesats på totale inntekter: 28,7%
+    </text>
+  </g>
+  
+  <!-- Side illustration -->
+  <g transform="translate(420, 80)">
+    <!-- Tax rate circle -->
+    <circle cx="0" cy="50" r="30" fill="#dc3545" opacity="0.2"/>
+    <text x="0" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#dc3545">
+      45%
+    </text>
+    <text x="0" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#dc3545">
+      Skattesats
+    </text>
+    
+    <!-- Arrow pointing to calculation -->
+    <path d="M-20,50 L-40,50" stroke="#dc3545" stroke-width="2" marker-end="url(#arrowhead)"/>
+  </g>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#dc3545"/>
+    </marker>
+  </defs>
+</svg>

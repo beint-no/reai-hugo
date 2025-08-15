@@ -1,0 +1,208 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="norwayGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#dc2626;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#b91c1c;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="euGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#2563eb;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="globalGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#059669;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#047857;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="400" fill="#ffffff"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
+    Norske og Internasjonale Identifikatorer
+  </text>
+  
+  <!-- Norwegian section -->
+  <g transform="translate(50, 70)">
+    <rect x="0" y="0" width="220" height="300" fill="#fef2f2" stroke="#fecaca" stroke-width="2" rx="10"/>
+    
+    <!-- Header -->
+    <rect x="10" y="10" width="200" height="40" fill="url(#norwayGradient)" rx="5"/>
+    <text x="110" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+      🇳🇴 NORGE
+    </text>
+    
+    <!-- Norwegian identifiers -->
+    <g transform="translate(20, 70)">
+      <rect x="0" y="0" width="180" height="50" fill="#ffffff" stroke="#dc2626" stroke-width="1" rx="5"/>
+      <text x="90" y="20" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+        Organisasjonsnummer
+      </text>
+      <text x="90" y="35" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+        123 456 789
+      </text>
+      <text x="90" y="45" text-anchor="middle" fill="#6b7280" font-family="Arial, sans-serif" font-size="9">
+        9 siffer
+      </text>
+      
+      <rect x="0" y="60" width="180" height="50" fill="#ffffff" stroke="#dc2626" stroke-width="1" rx="5"/>
+      <text x="90" y="80" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+        Underenhetsnummer
+      </text>
+      <text x="90" y="95" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+        812 345 678
+      </text>
+      <text x="90" y="105" text-anchor="middle" fill="#6b7280" font-family="Arial, sans-serif" font-size="9">
+        Starter med 8/9
+      </text>
+      
+      <rect x="0" y="120" width="180" height="50" fill="#ffffff" stroke="#dc2626" stroke-width="1" rx="5"/>
+      <text x="90" y="140" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+        MVA-nummer
+      </text>
+      <text x="90" y="155" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+        NO 123 456 789 MVA
+      </text>
+      <text x="90" y="165" text-anchor="middle" fill="#6b7280" font-family="Arial, sans-serif" font-size="9">
+        Norsk MVA-format
+      </text>
+    </g>
+    
+    <text x="110" y="250" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+      Nasjonale registre
+    </text>
+    <text x="110" y="270" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+      • Enhetsregisteret
+    </text>
+    <text x="110" y="285" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+      • Foretaksregisteret
+    </text>
+  </g>
+  
+  <!-- EU/EEA section -->
+  <g transform="translate(290, 70)">
+    <rect x="0" y="0" width="220" height="300" fill="#eff6ff" stroke="#bfdbfe" stroke-width="2" rx="10"/>
+    
+    <!-- Header -->
+    <rect x="10" y="10" width="200" height="40" fill="url(#euGradient)" rx="5"/>
+    <text x="110" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+      🇪🇺 EU/EØS
+    </text>
+    
+    <!-- EU identifiers -->
+    <g transform="translate(20, 70)">
+      <rect x="0" y="0" width="180" height="50" fill="#ffffff" stroke="#2563eb" stroke-width="1" rx="5"/>
+      <text x="90" y="20" text-anchor="middle" fill="#2563eb" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+        VAT-nummer
+      </text>
+      <text x="90" y="35" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+        NO123456789
+      </text>
+      <text x="90" y="45" text-anchor="middle" fill="#6b7280" font-family="Arial, sans-serif" font-size="9">
+        EU MVA-format
+      </text>
+      
+      <rect x="0" y="60" width="180" height="50" fill="#ffffff" stroke="#2563eb" stroke-width="1" rx="5"/>
+      <text x="90" y="80" text-anchor="middle" fill="#2563eb" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+        EORI-nummer
+      </text>
+      <text x="90" y="95" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+        NO123456789
+      </text>
+      <text x="90" y="105" text-anchor="middle" fill="#6b7280" font-family="Arial, sans-serif" font-size="9">
+        Toll og avgift
+      </text>
+      
+      <rect x="0" y="120" width="180" height="50" fill="#ffffff" stroke="#2563eb" stroke-width="1" rx="5"/>
+      <text x="90" y="140" text-anchor="middle" fill="#2563eb" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+        D-U-N-S
+      </text>
+      <text x="90" y="155" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+        123456789
+      </text>
+      <text x="90" y="165" text-anchor="middle" fill="#6b7280" font-family="Arial, sans-serif" font-size="9">
+        Dun &amp; Bradstreet
+      </text>
+    </g>
+    
+    <text x="110" y="250" text-anchor="middle" fill="#2563eb" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+      Europeiske systemer
+    </text>
+    <text x="110" y="270" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+      • VIES (MVA-validering)
+    </text>
+    <text x="110" y="285" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+      • EORI-database
+    </text>
+  </g>
+  
+  <!-- Global section -->
+  <g transform="translate(530, 70)">
+    <rect x="0" y="0" width="220" height="300" fill="#f0fdf4" stroke="#bbf7d0" stroke-width="2" rx="10"/>
+    
+    <!-- Header -->
+    <rect x="10" y="10" width="200" height="40" fill="url(#globalGradient)" rx="5"/>
+    <text x="110" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+      🌍 GLOBALT
+    </text>
+    
+    <!-- Global identifiers -->
+    <g transform="translate(20, 70)">
+      <rect x="0" y="0" width="180" height="50" fill="#ffffff" stroke="#059669" stroke-width="1" rx="5"/>
+      <text x="90" y="20" text-anchor="middle" fill="#059669" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+        LEI-kode
+      </text>
+      <text x="90" y="35" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+        549300ABCD1234567890
+      </text>
+      <text x="90" y="45" text-anchor="middle" fill="#6b7280" font-family="Arial, sans-serif" font-size="9">
+        20 tegn
+      </text>
+      
+      <rect x="0" y="60" width="180" height="50" fill="#ffffff" stroke="#059669" stroke-width="1" rx="5"/>
+      <text x="90" y="80" text-anchor="middle" fill="#059669" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+        BIC-kode
+      </text>
+      <text x="90" y="95" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+        DNBANOKK
+      </text>
+      <text x="90" y="105" text-anchor="middle" fill="#6b7280" font-family="Arial, sans-serif" font-size="9">
+        Bank-identifikasjon
+      </text>
+      
+      <rect x="0" y="120" width="180" height="50" fill="#ffffff" stroke="#059669" stroke-width="1" rx="5"/>
+      <text x="90" y="140" text-anchor="middle" fill="#059669" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+        GTIN/EAN
+      </text>
+      <text x="90" y="155" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+        7090000123456
+      </text>
+      <text x="90" y="165" text-anchor="middle" fill="#6b7280" font-family="Arial, sans-serif" font-size="9">
+        Produktkoder
+      </text>
+    </g>
+    
+    <text x="110" y="250" text-anchor="middle" fill="#059669" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+      Internasjonale standarder
+    </text>
+    <text x="110" y="270" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+      • GLEIF (LEI-register)
+    </text>
+    <text x="110" y="285" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+      • SWIFT (BIC-koder)
+    </text>
+  </g>
+  
+  <!-- Connection arrows -->
+  <g stroke="#6b7280" stroke-width="2" fill="none" marker-end="url(#arrowhead)">
+    <path d="M 270 220 L 290 220"/>
+    <path d="M 510 220 L 530 220"/>
+  </g>
+  
+  <!-- Arrow marker -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#6b7280"/>
+    </marker>
+  </defs>
+</svg>

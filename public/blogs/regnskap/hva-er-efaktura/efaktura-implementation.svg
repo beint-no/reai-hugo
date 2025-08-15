@@ -1,0 +1,152 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="stepGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#007bff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0056b3;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
+    eFaktura Implementering Prosess
+  </text>
+  
+  <!-- Step 1: Access Point Selection -->
+  <circle cx="150" cy="120" r="30" fill="url(#stepGradient)" stroke="#003366" stroke-width="2"/>
+  <text x="150" y="128" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">1</text>
+  
+  <rect x="80" y="160" width="140" height="80" fill="#d4edda" stroke="#28a745" stroke-width="2" rx="8"/>
+  <text x="150" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#155724">
+    Velg Access Point
+  </text>
+  <text x="150" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#155724">
+    Sertifisert leverandør
+  </text>
+  <text x="150" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#155724">
+    fra Difi's liste
+  </text>
+  <text x="150" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#155724">
+    Evaluér pris og service
+  </text>
+  
+  <!-- Arrow 1 to 2 -->
+  <path d="M 220 200 L 280 200 L 270 190 M 280 200 L 270 210" stroke="#6c757d" stroke-width="2" fill="none"/>
+  
+  <!-- Step 2: PEPPOL Registration -->
+  <circle cx="350" cy="120" r="30" fill="url(#stepGradient)" stroke="#003366" stroke-width="2"/>
+  <text x="350" y="128" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">2</text>
+  
+  <rect x="280" y="160" width="140" height="80" fill="#cce5ff" stroke="#007bff" stroke-width="2" rx="8"/>
+  <text x="350" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#004085">
+    PEPPOL Registrering
+  </text>
+  <text x="350" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#004085">
+    Unikt Participant ID
+  </text>
+  <text x="350" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#004085">
+    Bedriftsregistrering
+  </text>
+  <text x="350" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#004085">
+    Sertifikatoppsett
+  </text>
+  
+  <!-- Arrow 2 to 3 -->
+  <path d="M 420 200 L 480 200 L 470 190 M 480 200 L 470 210" stroke="#6c757d" stroke-width="2" fill="none"/>
+  
+  <!-- Step 3: ERP Configuration -->
+  <circle cx="550" cy="120" r="30" fill="url(#stepGradient)" stroke="#003366" stroke-width="2"/>
+  <text x="550" y="128" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">3</text>
+  
+  <rect x="480" y="160" width="140" height="80" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="8"/>
+  <text x="550" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#856404">
+    ERP Konfigurering
+  </text>
+  <text x="550" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#856404">
+    Systemoppsett
+  </text>
+  <text x="550" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#856404">
+    Formatvalidering
+  </text>
+  <text x="550" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#856404">
+    Integrasjonstest
+  </text>
+  
+  <!-- Arrow down from step 3 -->
+  <path d="M 550 250 L 550 310 L 540 300 M 550 310 L 560 300" stroke="#6c757d" stroke-width="2" fill="none"/>
+  
+  <!-- Step 4: Testing -->
+  <circle cx="550" cy="350" r="30" fill="url(#stepGradient)" stroke="#003366" stroke-width="2"/>
+  <text x="550" y="358" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">4</text>
+  
+  <rect x="480" y="390" width="140" height="80" fill="#f8d7da" stroke="#dc3545" stroke-width="2" rx="8"/>
+  <text x="550" y="410" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#721c24">
+    Testing og Validering
+  </text>
+  <text x="550" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#721c24">
+    Pilotpartnere
+  </text>
+  <text x="550" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#721c24">
+    Fakturaformater
+  </text>
+  <text x="550" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#721c24">
+    Sikkerhetstest
+  </text>
+  
+  <!-- Arrow 4 to 5 -->
+  <path d="M 480 430 L 420 430 L 430 420 M 420 430 L 430 440" stroke="#6c757d" stroke-width="2" fill="none"/>
+  
+  <!-- Step 5: Go Live -->
+  <circle cx="350" cy="350" r="30" fill="url(#stepGradient)" stroke="#003366" stroke-width="2"/>
+  <text x="350" y="358" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">5</text>
+  
+  <rect x="280" y="390" width="140" height="80" fill="#d1ecf1" stroke="#17a2b8" stroke-width="2" rx="8"/>
+  <text x="350" y="410" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#0c5460">
+    Produksjon
+  </text>
+  <text x="350" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#0c5460">
+    Live system
+  </text>
+  <text x="350" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#0c5460">
+    Overvåking
+  </text>
+  <text x="350" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0c5460">
+    Support og drift
+  </text>
+  
+  <!-- Requirements section -->
+  <text x="100" y="530" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#212529">
+    Krav for Implementering:
+  </text>
+  
+  <text x="120" y="550" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+    • ERP-system med eFaktura-støtte
+  </text>
+  <text x="120" y="565" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+    • Organisasjonsnummer og MVA-registrering
+  </text>
+  <text x="120" y="580" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+    • Teknisk kompetanse eller konsulentbistand
+  </text>
+  
+  <!-- Timeline section -->
+  <text x="450" y="530" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#212529">
+    Typisk Tidsramme:
+  </text>
+  
+  <text x="470" y="550" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+    • Små bedrifter: 2-4 uker
+  </text>
+  <text x="470" y="565" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+    • Mellomstore: 1-3 måneder
+  </text>
+  <text x="470" y="580" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+    • Store bedrifter: 3-6 måneder
+  </text>
+</svg>

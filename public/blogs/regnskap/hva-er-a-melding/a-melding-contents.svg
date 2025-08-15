@@ -1,0 +1,35 @@
+<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#f0f4f8"/>
+  <style>
+    .title { font-family: Arial, sans-serif; font-size: 28px; text-anchor: middle; font-weight: bold; }
+    .box { fill: #ffffff; stroke: #333; stroke-width: 2; rx: 5; }
+    .text { font-family: Arial, sans-serif; font-size: 16px; text-anchor: middle; }
+    .line { stroke: #333; stroke-width: 1; }
+  </style>
+
+  <text x="400" y="50" class="title">Hva inneholder en A-melding?</text>
+
+  <!-- Main Box -->
+  <rect x="100" y="100" width="600" height="350" class="box"/>
+
+  <!-- Sections -->
+  <text x="400" y="130" class="text" font-weight="bold">Opplysninger om virksomheten</text>
+  <line x1="120" y1="145" x2="680" y2="145" class="line"/>
+  <text x="250" y="170" class="text">- Org.nummer</text>
+  <text x="550" y="170" class="text">- Juridisk navn</text>
+
+  <text x="400" y="210" class="text" font-weight="bold">Opplysninger om arbeidsforhold</text>
+  <line x1="120" y1="225" x2="680" y2="225" class="line"/>
+  <text x="250" y="250" class="text">- Start- og sluttdato</text>
+  <text x="250" y="275" class="text">- Stillingsprosent</text>
+  <text x="550" y="250" class="text">- Yrkeskode</text>
+  <text x="550" y="275" class="text">- Lønnsansiennitet</text>
+
+  <text x="400" y="315" class="text" font-weight="bold">Opplysninger om inntekt</text>
+  <line x1="120" y1="330" x2="680" y2="330" class="line"/>
+  <text x="250" y="355" class="text">- Lønn og ytelser</text>
+  <text x="250" y="380" class="text">- Forskuddstrekk</text>
+  <text x="550" y="355" class="text">- Fradrag</text>
+  <text x="550" y="380" class="text">- Arbeidsgiveravgift</text>
+
+</svg>

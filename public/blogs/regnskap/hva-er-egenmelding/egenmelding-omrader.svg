@@ -1,0 +1,119 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+    Egenmelding i Ulike Rapporteringsområder
+  </text>
+  
+  <!-- Central hub -->
+  <circle cx="400" cy="300" r="60" fill="#34495e" stroke="#2c3e50" stroke-width="4"/>
+  <text x="400" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    EGENMELDING
+  </text>
+  <text x="400" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#ecf0f1">
+    Rapportering
+  </text>
+  
+  <!-- Tax reporting (top left) -->
+  <circle cx="200" cy="150" r="70" fill="#e74c3c" stroke="#c0392b" stroke-width="3"/>
+  <text x="200" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    SKATTEMELDING
+  </text>
+  <text x="200" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    Årlig rapportering
+  </text>
+  <text x="200" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    Inntekt • Fradrag • Formue
+  </text>
+  
+  <!-- MVA reporting (top right) -->
+  <circle cx="600" cy="150" r="70" fill="#27ae60" stroke="#229954" stroke-width="3"/>
+  <text x="600" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    MVA-MELDING
+  </text>
+  <text x="600" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    Annenhver måned
+  </text>
+  <text x="600" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    Utgående • Inngående
+  </text>
+  
+  <!-- A-melding (bottom left) -->
+  <circle cx="200" cy="450" r="70" fill="#f39c12" stroke="#e67e22" stroke-width="3"/>
+  <text x="200" y="440" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    A-MELDING
+  </text>
+  <text x="200" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    Månedlig
+  </text>
+  <text x="200" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    Lønn • Ytelser • Avgift
+  </text>
+  
+  <!-- Annual accounts (bottom right) -->
+  <circle cx="600" cy="450" r="70" fill="#9b59b6" stroke="#8e44ad" stroke-width="3"/>
+  <text x="600" y="440" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    ÅRSREGNSKAP
+  </text>
+  <text x="600" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    Årlig
+  </text>
+  <text x="600" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    Resultat • Balanse
+  </text>
+  
+  <!-- Connecting lines -->
+  <line x1="270" y1="180" x2="340" y2="260" stroke="#95a5a6" stroke-width="3"/>
+  <line x1="530" y1="180" x2="460" y2="260" stroke="#95a5a6" stroke-width="3"/>
+  <line x1="270" y1="420" x2="340" y2="340" stroke="#95a5a6" stroke-width="3"/>
+  <line x1="530" y1="420" x2="460" y2="340" stroke="#95a5a6" stroke-width="3"/>
+  
+  <!-- Frequency indicators -->
+  <rect x="50" y="80" width="100" height="30" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1" rx="5"/>
+  <text x="100" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e74c3c">
+    Årlig
+  </text>
+  
+  <rect x="650" y="80" width="100" height="30" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1" rx="5"/>
+  <text x="700" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#27ae60">
+    Bi-månedlig
+  </text>
+  
+  <rect x="50" y="520" width="100" height="30" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1" rx="5"/>
+  <text x="100" y="540" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#f39c12">
+    Månedlig
+  </text>
+  
+  <rect x="650" y="520" width="100" height="30" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1" rx="5"/>
+  <text x="700" y="540" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#9b59b6">
+    Årlig
+  </text>
+  
+  <!-- Digital platform indicator -->
+  <rect x="320" y="50" width="160" height="40" fill="#e8f5e8" stroke="#27ae60" stroke-width="2" rx="8"/>
+  <text x="400" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#27ae60">
+    Digital Plattform
+  </text>
+  <text x="400" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#229954">
+    Altinn • API • Mobile apper
+  </text>
+  
+  <!-- Compliance requirements -->
+  <rect x="50" y="280" width="120" height="40" fill="#fff5f5" stroke="#e74c3c" stroke-width="2" rx="8"/>
+  <text x="110" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e74c3c">
+    Lovpålagt
+  </text>
+  <text x="110" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#c0392b">
+    Compliance-krav
+  </text>
+  
+  <rect x="630" y="280" width="120" height="40" fill="#f0f8ff" stroke="#3498db" stroke-width="2" rx="8"/>
+  <text x="690" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#3498db">
+    Automatisert
+  </text>
+  <text x="690" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2980b9">
+    Kvalitetskontroll
+  </text>
+</svg>

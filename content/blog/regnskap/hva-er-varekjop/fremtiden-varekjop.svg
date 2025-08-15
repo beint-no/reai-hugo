@@ -1,0 +1,135 @@
+<svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="futureGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#06b6d4;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0891b2;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="sustainGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#22c55e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#16a34a;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="techGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#8b5cf6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7c3aed;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="400" fill="url(#bgGradient)"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1e293b">Fremtidens Varekjøpsprosesser</text>
+  
+  <!-- Sustainability section -->
+  <g transform="translate(50,70)">
+    <rect x="0" y="0" width="220" height="140" rx="10" fill="white" stroke="url(#sustainGradient)" stroke-width="2"/>
+    <rect x="10" y="10" width="200" height="30" rx="5" fill="url(#sustainGradient)"/>
+    <text x="110" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">🌱 Bærekraft</text>
+    
+    <g transform="translate(15,50)">
+      <text x="0" y="15" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#16a34a">Miljøfokus:</text>
+      <text x="0" y="30" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Karbonfotavtrykk-sporing</text>
+      <text x="0" y="42" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Miljøsertifisering</text>
+      <text x="0" y="54" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Sirkulær økonomi</text>
+      <text x="0" y="66" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Lokal sourcing</text>
+      
+      <text x="0" y="85" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#16a34a">ESG-rapportering:</text>
+      <text x="0" y="100" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Leverandørkjede-transparens</text>
+      <text x="0" y="112" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Sosial ansvarlighet</text>
+    </g>
+  </g>
+  
+  <!-- Technology innovations -->
+  <g transform="translate(290,70)">
+    <rect x="0" y="0" width="220" height="140" rx="10" fill="white" stroke="url(#techGradient)" stroke-width="2"/>
+    <rect x="10" y="10" width="200" height="30" rx="5" fill="url(#techGradient)"/>
+    <text x="110" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">🤖 Teknologi</text>
+    
+    <g transform="translate(15,50)">
+      <text x="0" y="15" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#7c3aed">Blockchain:</text>
+      <text x="0" y="30" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Smart contracts</text>
+      <text x="0" y="42" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Transparent sporbarhet</text>
+      
+      <text x="0" y="60" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#7c3aed">IoT &amp; Sensorer:</text>
+      <text x="0" y="75" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Smart lagerstyring</text>
+      <text x="0" y="87" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Prediktivt vedlikehold</text>
+      
+      <text x="0" y="105" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#7c3aed">AI/ML:</text>
+      <text x="0" y="120" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Etterspørselsprediksjon</text>
+    </g>
+  </g>
+  
+  <!-- Customer integration -->
+  <g transform="translate(530,70)">
+    <rect x="0" y="0" width="220" height="140" rx="10" fill="white" stroke="url(#futureGradient)" stroke-width="2"/>
+    <rect x="10" y="10" width="200" height="30" rx="5" fill="url(#futureGradient)"/>
+    <text x="110" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">👥 Kundeintegrasjon</text>
+    
+    <g transform="translate(15,50)">
+      <text x="0" y="15" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#0891b2">Omnikanal:</text>
+      <text x="0" y="30" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Realtidsinformasjon</text>
+      <text x="0" y="42" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Integrerte opplevelser</text>
+      
+      <text x="0" y="60" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#0891b2">Personalisering:</text>
+      <text x="0" y="75" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Mass customization</text>
+      <text x="0" y="87" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• On-demand produksjon</text>
+      
+      <text x="0" y="105" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#0891b2">Direktelevering:</text>
+      <text x="0" y="120" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Drop-shipping 2.0</text>
+    </g>
+  </g>
+  
+  <!-- Digital transformation roadmap -->
+  <g transform="translate(50,240)">
+    <rect x="0" y="0" width="700" height="130" rx="10" fill="white" stroke="#e2e8f0" stroke-width="2"/>
+    <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">Digital Transformasjon Roadmap</text>
+    
+    <!-- Timeline -->
+    <line x1="70" y1="60" x2="630" y2="60" stroke="#64748b" stroke-width="2"/>
+    
+    <!-- 2024-2025 -->
+    <g transform="translate(70,45)">
+      <circle cx="0" cy="15" r="8" fill="#f59e0b"/>
+      <text x="0" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#1e293b">2024-2025</text>
+      <text x="0" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#64748b">Grunnleggende</text>
+      <text x="0" y="68" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#64748b">digitalisering</text>
+    </g>
+    
+    <!-- 2026-2027 -->
+    <g transform="translate(250,45)">
+      <circle cx="0" cy="15" r="8" fill="#3b82f6"/>
+      <text x="0" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#1e293b">2026-2027</text>
+      <text x="0" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#64748b">AI &amp; Automatisering</text>
+      <text x="0" y="68" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#64748b">implementering</text>
+    </g>
+    
+    <!-- 2028-2029 -->
+    <g transform="translate(430,45)">
+      <circle cx="0" cy="15" r="8" fill="#8b5cf6"/>
+      <text x="0" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#1e293b">2028-2029</text>
+      <text x="0" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#64748b">Blockchain &amp;</text>
+      <text x="0" y="68" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#64748b">IoT integrasjon</text>
+    </g>
+    
+    <!-- 2030+ -->
+    <g transform="translate(610,45)">
+      <circle cx="0" cy="15" r="8" fill="#22c55e"/>
+      <text x="0" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#1e293b">2030+</text>
+      <text x="0" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#64748b">Autonome</text>
+      <text x="0" y="68" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#64748b">økosystemer</text>
+    </g>
+    
+    <!-- Key impact areas -->
+    <g transform="translate(50,90)">
+      <text x="300" y="10" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">Påvirkningsområder:</text>
+      <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">Effektivitet ↑80%</text>
+      <text x="250" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">Feilrate ↓90%</text>
+      <text x="400" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">Kostnader ↓60%</text>
+      <text x="550" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">Miljøpåvirkning ↓50%</text>
+    </g>
+  </g>
+</svg>

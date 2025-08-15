@@ -1,0 +1,262 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0D47A1;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="liquidityGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1B5E20;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="cashGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF9800;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#E65100;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="returnGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#9C27B0;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4A148C;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="currencyGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#607D8B;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#263238;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
+  <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
+    Nøkkeltall for Bankinnskudd Analyse
+  </text>
+  
+  <!-- Key Metrics Cards -->
+  <!-- Liquidity Ratio 1 -->
+  <g transform="translate(50, 80)">
+    <rect x="0" y="0" width="160" height="140" rx="10" fill="url(#liquidityGradient)" opacity="0.9"/>
+    <text x="80" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      Likviditetsgrad 1
+    </text>
+    <circle cx="80" cy="55" r="18" fill="white" opacity="0.3"/>
+    <text x="80" y="63" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">💧</text>
+    
+    <text x="80" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
+      2.1
+    </text>
+    <text x="80" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+      Omløpsmidler /
+    </text>
+    <text x="80" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+      Kortsiktig gjeld
+    </text>
+    <text x="80" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+      ✅ God betalingsevne
+    </text>
+  </g>
+  
+  <!-- Cash Ratio -->
+  <g transform="translate(230, 80)">
+    <rect x="0" y="0" width="160" height="140" rx="10" fill="url(#cashGradient)" opacity="0.9"/>
+    <text x="80" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      Kontantandel
+    </text>
+    <circle cx="80" cy="55" r="18" fill="white" opacity="0.3"/>
+    <text x="80" y="63" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">💰</text>
+    
+    <text x="80" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
+      15.2%
+    </text>
+    <text x="80" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+      Bank /
+    </text>
+    <text x="80" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+      Totale eiendeler
+    </text>
+    <text x="80" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+      📊 Likviditetsnivå
+    </text>
+  </g>
+  
+  <!-- Interest Return -->
+  <g transform="translate(410, 80)">
+    <rect x="0" y="0" width="160" height="140" rx="10" fill="url(#returnGradient)" opacity="0.9"/>
+    <text x="80" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      Renteavkastning
+    </text>
+    <circle cx="80" cy="55" r="18" fill="white" opacity="0.3"/>
+    <text x="80" y="63" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">📈</text>
+    
+    <text x="80" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
+      2.8%
+    </text>
+    <text x="80" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+      Renteinntekter /
+    </text>
+    <text x="80" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+      Gj.snitt bankinnskudd
+    </text>
+    <text x="80" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+      💡 Avkastningseffektivitet
+    </text>
+  </g>
+  
+  <!-- Currency Exposure -->
+  <g transform="translate(590, 80)">
+    <rect x="0" y="0" width="160" height="140" rx="10" fill="url(#currencyGradient)" opacity="0.9"/>
+    <text x="80" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      Valutaeksponering
+    </text>
+    <circle cx="80" cy="55" r="18" fill="white" opacity="0.3"/>
+    <text x="80" y="63" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">🌍</text>
+    
+    <text x="80" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
+      12.5%
+    </text>
+    <text x="80" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+      Valutainnskudd /
+    </text>
+    <text x="80" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+      Totale bankinnskudd
+    </text>
+    <text x="80" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+      ⚠️ Valutarisiko
+    </text>
+  </g>
+  
+  <!-- Detailed Analysis Table -->
+  <text x="50" y="260" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333">
+    Detaljert Nøkkeltallanalyse:
+  </text>
+  
+  <!-- Analysis Table -->
+  <g transform="translate(50, 280)">
+    <rect x="0" y="0" width="700" height="200" rx="10" fill="#ffffff" stroke="#ddd" stroke-width="2"/>
+    
+    <!-- Table Header -->
+    <rect x="10" y="10" width="680" height="30" fill="#E3F2FD"/>
+    <text x="80" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1976D2">
+      Nøkkeltall
+    </text>
+    <text x="220" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1976D2">
+      Formel
+    </text>
+    <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1976D2">
+      Verdi
+    </text>
+    <text x="550" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1976D2">
+      Betydning
+    </text>
+    
+    <!-- Row 1: Liquidity Ratio -->
+    <rect x="10" y="40" width="680" height="35" fill="#F8F9FA"/>
+    <text x="20" y="60" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+      Likviditetsgrad 1
+    </text>
+    <text x="160" y="60" font-family="Arial, sans-serif" font-size="11" fill="#333">
+      Omløpsmidler / Kortsiktig gjeld
+    </text>
+    <text x="400" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2E7D32">
+      2.1
+    </text>
+    <text x="480" y="60" font-family="Arial, sans-serif" font-size="11" fill="#333">
+      God betalingsevne
+    </text>
+    
+    <!-- Row 2: Cash Ratio -->
+    <text x="20" y="90" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+      Kontantandel
+    </text>
+    <text x="160" y="90" font-family="Arial, sans-serif" font-size="11" fill="#333">
+      Bank / Totale eiendeler
+    </text>
+    <text x="400" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#F57C00">
+      15.2%
+    </text>
+    <text x="480" y="90" font-family="Arial, sans-serif" font-size="11" fill="#333">
+      Moderat likviditetsnivå
+    </text>
+    
+    <!-- Row 3: Interest Return -->
+    <rect x="10" y="100" width="680" height="35" fill="#F8F9FA"/>
+    <text x="20" y="120" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+      Renteavkastning
+    </text>
+    <text x="160" y="120" font-family="Arial, sans-serif" font-size="11" fill="#333">
+      Renteinntekter / Gj.snitt bankinnskudd
+    </text>
+    <text x="400" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#7B1FA2">
+      2.8%
+    </text>
+    <text x="480" y="120" font-family="Arial, sans-serif" font-size="11" fill="#333">
+      Tilfredsstillende avkastning
+    </text>
+    
+    <!-- Row 4: Currency Exposure -->
+    <text x="20" y="150" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+      Valutaeksponering
+    </text>
+    <text x="160" y="150" font-family="Arial, sans-serif" font-size="11" fill="#333">
+      Valutainnskudd / Totale bankinnskudd
+    </text>
+    <text x="400" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#455A64">
+      12.5%
+    </text>
+    <text x="480" y="150" font-family="Arial, sans-serif" font-size="11" fill="#333">
+      Moderat valutarisiko
+    </text>
+    
+    <!-- Benchmark Comparison -->
+    <text x="20" y="180" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#D32F2F">
+      Bransjebenchmark:
+    </text>
+    <text x="160" y="180" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      Likviditetsgrad: 1.5-2.5 • Kontantandel: 10-20% • Renteavkastning: 2-4%
+    </text>
+  </g>
+  
+  <!-- Trend Analysis -->
+  <text x="50" y="510" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333">
+    Trendanalyse og Anbefalinger:
+  </text>
+  
+  <!-- Trend Cards -->
+  <g transform="translate(50, 530)">
+    <rect x="0" y="0" width="220" height="60" rx="10" fill="#E8F5E8" stroke="#4CAF50" stroke-width="2"/>
+    <text x="110" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2E7D32">
+      Positiv utvikling
+    </text>
+    <text x="20" y="40" font-family="Arial, sans-serif" font-size="12" fill="#333">
+      Likviditetsgrad økt med 0.3 siste år
+    </text>
+    <text x="20" y="55" font-family="Arial, sans-serif" font-size="12" fill="#333">
+      Renteavkastning stabil på 2.8%
+    </text>
+  </g>
+  
+  <g transform="translate(290, 530)">
+    <rect x="0" y="0" width="220" height="60" rx="10" fill="#FFF3E0" stroke="#FF9800" stroke-width="2"/>
+    <text x="110" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#F57C00">
+      Områder for forbedring
+    </text>
+    <text x="20" y="40" font-family="Arial, sans-serif" font-size="12" fill="#333">
+      Vurder økt renteavkastning
+    </text>
+    <text x="20" y="55" font-family="Arial, sans-serif" font-size="12" fill="#333">
+      Diversifiser valutaeksponering
+    </text>
+  </g>
+  
+  <g transform="translate(530, 530)">
+    <rect x="0" y="0" width="220" height="60" rx="10" fill="#F3E5F5" stroke="#9C27B0" stroke-width="2"/>
+    <text x="110" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#7B1FA2">
+      Strategiske tiltak
+    </text>
+    <text x="20" y="40" font-family="Arial, sans-serif" font-size="12" fill="#333">
+      Implementer automatisk likviditetsstyring
+    </text>
+    <text x="20" y="55" font-family="Arial, sans-serif" font-size="12" fill="#333">
+      Månedlig nøkkeltalloppfølging
+    </text>
+  </g>
+</svg>

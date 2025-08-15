@@ -1,0 +1,60 @@
+<svg width="700" height="500" viewBox="0 0 700 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="700" height="500" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="350" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#212529">Pakkeseddelens Hovedformål</text>
+  
+  <!-- Central pakkeseddel -->
+  <rect x="300" y="200" width="100" height="80" fill="white" stroke="#007bff" stroke-width="3" rx="8"/>
+  <text x="350" y="235" text-anchor="middle" font-size="14" font-weight="bold" fill="#007bff">PAKKE-</text>
+  <text x="350" y="250" text-anchor="middle" font-size="14" font-weight="bold" fill="#007bff">SEDDEL</text>
+  
+  <!-- Dokumentasjon -->
+  <rect x="80" y="80" width="120" height="80" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="8"/>
+  <text x="140" y="110" text-anchor="middle" font-size="14" font-weight="bold" fill="#1976d2">Dokumentasjon</text>
+  <text x="140" y="130" text-anchor="middle" font-size="11" fill="#1976d2">Dokumenterer</text>
+  <text x="140" y="145" text-anchor="middle" font-size="11" fill="#1976d2">leveransens</text>
+  <text x="140" y="160" text-anchor="middle" font-size="11" fill="#1976d2">innhold</text>
+  
+  <!-- Kontroll -->
+  <rect x="500" y="80" width="120" height="80" fill="#e8f5e8" stroke="#388e3c" stroke-width="2" rx="8"/>
+  <text x="560" y="110" text-anchor="middle" font-size="14" font-weight="bold" fill="#388e3c">Kontroll</text>
+  <text x="560" y="130" text-anchor="middle" font-size="11" fill="#388e3c">Mottaker kan</text>
+  <text x="560" y="145" text-anchor="middle" font-size="11" fill="#388e3c">kontrollere</text>
+  <text x="560" y="160" text-anchor="middle" font-size="11" fill="#388e3c">leveransen</text>
+  
+  <!-- Sporbarhet -->
+  <rect x="80" y="360" width="120" height="80" fill="#fff3e0" stroke="#f57c00" stroke-width="2" rx="8"/>
+  <text x="140" y="390" text-anchor="middle" font-size="14" font-weight="bold" fill="#f57c00">Sporbarhet</text>
+  <text x="140" y="410" text-anchor="middle" font-size="11" fill="#f57c00">Kobler ordre</text>
+  <text x="140" y="425" text-anchor="middle" font-size="11" fill="#f57c00">til levering</text>
+  
+  <!-- Internkontroll -->
+  <rect x="500" y="360" width="120" height="80" fill="#fce4ec" stroke="#c2185b" stroke-width="2" rx="8"/>
+  <text x="560" y="390" text-anchor="middle" font-size="14" font-weight="bold" fill="#c2185b">Internkontroll</text>
+  <text x="560" y="410" text-anchor="middle" font-size="11" fill="#c2185b">Støtter</text>
+  <text x="560" y="425" text-anchor="middle" font-size="11" fill="#c2185b">kontrollrutiner</text>
+  
+  <!-- Arrows -->
+  <path d="M200 120 L300 220" stroke="#1976d2" stroke-width="2" fill="none" marker-end="url(#arrowhead1)"/>
+  <path d="M500 120 L400 220" stroke="#388e3c" stroke-width="2" fill="none" marker-end="url(#arrowhead2)"/>
+  <path d="M200 400 L300 280" stroke="#f57c00" stroke-width="2" fill="none" marker-end="url(#arrowhead3)"/>
+  <path d="M500 400 L400 280" stroke="#c2185b" stroke-width="2" fill="none" marker-end="url(#arrowhead4)"/>
+  
+  <!-- Arrow markers -->
+  <defs>
+    <marker id="arrowhead1" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#1976d2"/>
+    </marker>
+    <marker id="arrowhead2" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#388e3c"/>
+    </marker>
+    <marker id="arrowhead3" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#f57c00"/>
+    </marker>
+    <marker id="arrowhead4" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#c2185b"/>
+    </marker>
+  </defs>
+</svg>

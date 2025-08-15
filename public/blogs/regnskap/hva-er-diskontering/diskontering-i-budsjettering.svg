@@ -1,0 +1,257 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0D47A1;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="budgetGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1B5E20;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="strategicGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF9800;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#E65100;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="scenarioGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#9C27B0;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4A148C;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="processGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#607D8B;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#263238;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
+  <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
+    Diskontering i Budsjettering
+  </text>
+  
+  <!-- Application 1: Capital Budgets -->
+  <g transform="translate(50, 80)">
+    <rect x="0" y="0" width="340" height="120" rx="10" fill="url(#budgetGradient)" opacity="0.9"/>
+    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      Kapitalbudsjetter
+    </text>
+    
+    <!-- Icon -->
+    <circle cx="50" cy="65" r="20" fill="white" opacity="0.3"/>
+    <text x="50" y="72" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">💼</text>
+    
+    <!-- Description -->
+    <text x="90" y="50" font-family="Arial, sans-serif" font-size="14" fill="white">
+      Evaluering av investeringsprosjekter
+    </text>
+    
+    <!-- Key points -->
+    <text x="90" y="70" font-family="Arial, sans-serif" font-size="12" fill="white">
+      • NPV-analyse av kapitalinvesteringer
+    </text>
+    <text x="90" y="85" font-family="Arial, sans-serif" font-size="12" fill="white">
+      • Sammenligning av alternative prosjekter
+    </text>
+    <text x="90" y="100" font-family="Arial, sans-serif" font-size="12" fill="white">
+      • Prioritering basert på verdiskapning
+    </text>
+  </g>
+  
+  <!-- Application 2: Strategic Plans -->
+  <g transform="translate(410, 80)">
+    <rect x="0" y="0" width="340" height="120" rx="10" fill="url(#strategicGradient)" opacity="0.9"/>
+    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      Strategiske Planer
+    </text>
+    
+    <!-- Icon -->
+    <circle cx="50" cy="65" r="20" fill="white" opacity="0.3"/>
+    <text x="50" y="72" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">🎯</text>
+    
+    <!-- Description -->
+    <text x="90" y="50" font-family="Arial, sans-serif" font-size="14" fill="white">
+      Langsiktige verdivurderinger
+    </text>
+    
+    <!-- Key points -->
+    <text x="90" y="70" font-family="Arial, sans-serif" font-size="12" fill="white">
+      • Verdsettelse av strategiske initiativer
+    </text>
+    <text x="90" y="85" font-family="Arial, sans-serif" font-size="12" fill="white">
+      • Langsiktig verdiskapning
+    </text>
+    <text x="90" y="100" font-family="Arial, sans-serif" font-size="12" fill="white">
+      • Ressursallokering over tid
+    </text>
+  </g>
+  
+  <!-- Application 3: Scenario Analysis -->
+  <g transform="translate(50, 220)">
+    <rect x="0" y="0" width="340" height="120" rx="10" fill="url(#scenarioGradient)" opacity="0.9"/>
+    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      Scenarioanalyse
+    </text>
+    
+    <!-- Icon -->
+    <circle cx="50" cy="65" r="20" fill="white" opacity="0.3"/>
+    <text x="50" y="72" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">📊</text>
+    
+    <!-- Description -->
+    <text x="90" y="50" font-family="Arial, sans-serif" font-size="14" fill="white">
+      Vurdering av ulike fremtidsscenarier
+    </text>
+    
+    <!-- Key points -->
+    <text x="90" y="70" font-family="Arial, sans-serif" font-size="12" fill="white">
+      • Optimistisk, realistisk, pessimistisk
+    </text>
+    <text x="90" y="85" font-family="Arial, sans-serif" font-size="12" fill="white">
+      • Sensitivitetsanalyse av nøkkelvariabler
+    </text>
+    <text x="90" y="100" font-family="Arial, sans-serif" font-size="12" fill="white">
+      • Risikojusterte diskonteringsrenter
+    </text>
+  </g>
+  
+  <!-- Application 4: Risk Adjustment -->
+  <g transform="translate(410, 220)">
+    <rect x="0" y="0" width="340" height="120" rx="10" fill="url(#processGradient)" opacity="0.9"/>
+    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      Risikojustering
+    </text>
+    
+    <!-- Icon -->
+    <circle cx="50" cy="65" r="20" fill="white" opacity="0.3"/>
+    <text x="50" y="72" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">⚖️</text>
+    
+    <!-- Description -->
+    <text x="90" y="50" font-family="Arial, sans-serif" font-size="14" fill="white">
+      Tilpasning av diskonteringsrente for risiko
+    </text>
+    
+    <!-- Key points -->
+    <text x="90" y="70" font-family="Arial, sans-serif" font-size="12" fill="white">
+      • Høyere rente for risikofylte prosjekter
+    </text>
+    <text x="90" y="85" font-family="Arial, sans-serif" font-size="12" fill="white">
+      • Markedsrisiko vs. prosjektspesifikk risiko
+    </text>
+    <text x="90" y="100" font-family="Arial, sans-serif" font-size="12" fill="white">
+      • WACC-justering for ulike divisjoner
+    </text>
+  </g>
+  
+  <!-- Budget Process Flow -->
+  <g transform="translate(50, 360)">
+    <rect x="0" y="0" width="700" height="140" rx="10" fill="#ffffff" stroke="#ddd" stroke-width="2"/>
+    <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333">
+      Diskonteringsprosess i Budsjettering
+    </text>
+    
+    <!-- Step 1 -->
+    <g transform="translate(50, 40)">
+      <rect x="0" y="0" width="120" height="80" rx="5" fill="#e3f2fd" stroke="#2196F3" stroke-width="1"/>
+      <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1976D2">
+        1. Identifiser
+      </text>
+      <text x="60" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">
+        Investeringsmuligheter
+      </text>
+      <text x="60" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#666">
+        • Prosjektforslag
+      </text>
+      <text x="60" y="63" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#666">
+        • Strategiske initiativer
+      </text>
+      <text x="60" y="76" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#666">
+        • Vedlikeholdsinvesteringer
+      </text>
+    </g>
+    
+    <!-- Arrow -->
+    <text x="185" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#666">→</text>
+    
+    <!-- Step 2 -->
+    <g transform="translate(200, 40)">
+      <rect x="0" y="0" width="120" height="80" rx="5" fill="#e8f5e8" stroke="#4CAF50" stroke-width="1"/>
+      <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2E7D32">
+        2. Estimer
+      </text>
+      <text x="60" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">
+        Kontantstrømmer
+      </text>
+      <text x="60" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#666">
+        • Inntekter
+      </text>
+      <text x="60" y="63" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#666">
+        • Kostnader
+      </text>
+      <text x="60" y="76" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#666">
+        • Investeringer
+      </text>
+    </g>
+    
+    <!-- Arrow -->
+    <text x="335" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#666">→</text>
+    
+    <!-- Step 3 -->
+    <g transform="translate(350, 40)">
+      <rect x="0" y="0" width="120" height="80" rx="5" fill="#fff3e0" stroke="#FF9800" stroke-width="1"/>
+      <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#F57C00">
+        3. Bestem
+      </text>
+      <text x="60" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">
+        Diskonteringsrente
+      </text>
+      <text x="60" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#666">
+        • WACC
+      </text>
+      <text x="60" y="63" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#666">
+        • Risikojustering
+      </text>
+      <text x="60" y="76" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#666">
+        • Prosjektspesifikk rente
+      </text>
+    </g>
+    
+    <!-- Arrow -->
+    <text x="485" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#666">→</text>
+    
+    <!-- Step 4 -->
+    <g transform="translate(500, 40)">
+      <rect x="0" y="0" width="120" height="80" rx="5" fill="#f3e5f5" stroke="#9C27B0" stroke-width="1"/>
+      <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#7B1FA2">
+        4. Evaluer
+      </text>
+      <text x="60" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">
+        og Prioriter
+      </text>
+      <text x="60" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#666">
+        • NPV-beregning
+      </text>
+      <text x="60" y="63" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#666">
+        • Rangering
+      </text>
+      <text x="60" y="76" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#666">
+        • Budsjettallokering
+      </text>
+    </g>
+  </g>
+  
+  <!-- Key Considerations -->
+  <g transform="translate(50, 520)">
+    <rect x="0" y="0" width="700" height="70" rx="10" fill="#e8f5e8" stroke="#4CAF50" stroke-width="2"/>
+    <text x="350" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2E7D32">
+      Viktige Hensyn ved Diskontering i Budsjettering
+    </text>
+    
+    <text x="50" y="40" font-family="Arial, sans-serif" font-size="13" fill="#333">
+      • Konsistens: Bruk samme metodikk og forutsetninger på tvers av prosjekter
+    </text>
+    <text x="50" y="55" font-family="Arial, sans-serif" font-size="13" fill="#333">
+      • Fleksibilitet: Juster diskonteringsrenter basert på prosjektrisiko og markedsforhold
+    </text>
+  </g>
+</svg>

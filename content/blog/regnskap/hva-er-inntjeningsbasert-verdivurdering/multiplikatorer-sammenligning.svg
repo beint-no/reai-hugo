@@ -1,0 +1,285 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#212529">
+    Sammenligning av Vanlige Multiplikatorer
+  </text>
+  
+  <!-- P/E Ratio -->
+  <rect x="50" y="80" width="150" height="200" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="10"/>
+  <text x="125" y="105" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#1976d2">
+    P/E
+  </text>
+  <text x="125" y="125" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#424242">
+    Pris/Inntjening
+  </text>
+  
+  <text x="125" y="150" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#666">
+    Beregning:
+  </text>
+  <text x="125" y="165" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+    Aksjekurs ÷
+  </text>
+  <text x="125" y="178" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+    Resultat per aksje
+  </text>
+  
+  <text x="125" y="200" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#666">
+    Best for:
+  </text>
+  <text x="125" y="215" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+    • Lønnsomme selskaper
+  </text>
+  <text x="125" y="228" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+    • Stabil inntjening
+  </text>
+  <text x="125" y="241" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+    • Modne bransjer
+  </text>
+  
+  <!-- EV/EBITDA -->
+  <rect x="225" y="80" width="150" height="200" fill="#f3e5f5" stroke="#7b1fa2" stroke-width="2" rx="10"/>
+  <text x="300" y="105" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#7b1fa2">
+    EV/EBITDA
+  </text>
+  <text x="300" y="125" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#424242">
+    Enterprise Value/EBITDA
+  </text>
+  
+  <text x="300" y="150" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#666">
+    Beregning:
+  </text>
+  <text x="300" y="165" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+    (Markedsverdi + Netto gjeld) ÷
+  </text>
+  <text x="300" y="178" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+    EBITDA
+  </text>
+  
+  <text x="300" y="200" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#666">
+    Best for:
+  </text>
+  <text x="300" y="215" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+    • Kapitalintensive
+  </text>
+  <text x="300" y="228" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+    • Ulik kapitalstruktur
+  </text>
+  <text x="300" y="241" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+    • M&amp;A sammenligning
+  </text>
+  
+  <!-- EV/Sales -->
+  <rect x="400" y="80" width="150" height="200" fill="#e8f5e8" stroke="#388e3c" stroke-width="2" rx="10"/>
+  <text x="475" y="105" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#388e3c">
+    EV/Sales
+  </text>
+  <text x="475" y="125" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#424242">
+    Enterprise Value/Omsetning
+  </text>
+  
+  <text x="475" y="150" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#666">
+    Beregning:
+  </text>
+  <text x="475" y="165" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+    (Markedsverdi + Netto gjeld) ÷
+  </text>
+  <text x="475" y="178" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+    Årlig omsetning
+  </text>
+  
+  <text x="475" y="200" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#666">
+    Best for:
+  </text>
+  <text x="475" y="215" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+    • Vekstselskaper
+  </text>
+  <text x="475" y="228" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+    • Lav/negativ margin
+  </text>
+  <text x="475" y="241" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+    • Teknologi/startup
+  </text>
+  
+  <!-- P/B Ratio -->
+  <rect x="575" y="80" width="150" height="200" fill="#fff3e0" stroke="#f57c00" stroke-width="2" rx="10"/>
+  <text x="650" y="105" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#f57c00">
+    P/B
+  </text>
+  <text x="650" y="125" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#424242">
+    Pris/Bokført verdi
+  </text>
+  
+  <text x="650" y="150" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#666">
+    Beregning:
+  </text>
+  <text x="650" y="165" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+    Aksjekurs ÷
+  </text>
+  <text x="650" y="178" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+    Bokført verdi per aksje
+  </text>
+  
+  <text x="650" y="200" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#666">
+    Best for:
+  </text>
+  <text x="650" y="215" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+    • Finansielle tjenester
+  </text>
+  <text x="650" y="228" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+    • Eiendom
+  </text>
+  <text x="650" y="241" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+    • Kapitalintensive
+  </text>
+  
+  <!-- Comparison table -->
+  <rect x="50" y="320" width="700" height="250" fill="#fff" stroke="#ccc" stroke-width="1" rx="5"/>
+  <text x="400" y="345" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#495057">
+    Sammenligning av Egenskaper
+  </text>
+  
+  <!-- Table headers -->
+  <rect x="70" y="360" width="120" height="30" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1"/>
+  <text x="130" y="380" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#495057">
+    Multiplikator
+  </text>
+  
+  <rect x="190" y="360" width="120" height="30" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1"/>
+  <text x="250" y="380" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#495057">
+    Kompleksitet
+  </text>
+  
+  <rect x="310" y="360" width="120" height="30" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1"/>
+  <text x="370" y="380" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#495057">
+    Markedsrelevans
+  </text>
+  
+  <rect x="430" y="360" width="120" height="30" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1"/>
+  <text x="490" y="380" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#495057">
+    Volatilitet
+  </text>
+  
+  <rect x="550" y="360" width="120" height="30" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1"/>
+  <text x="610" y="380" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#495057">
+    Anvendelse
+  </text>
+  
+  <!-- P/E row -->
+  <rect x="70" y="390" width="120" height="30" fill="#e3f2fd" stroke="#dee2e6" stroke-width="1"/>
+  <text x="130" y="410" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#1976d2">
+    P/E
+  </text>
+  
+  <rect x="190" y="390" width="120" height="30" fill="#fff" stroke="#dee2e6" stroke-width="1"/>
+  <text x="250" y="410" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#666">
+    Lav
+  </text>
+  
+  <rect x="310" y="390" width="120" height="30" fill="#fff" stroke="#dee2e6" stroke-width="1"/>
+  <text x="370" y="410" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#666">
+    Høy
+  </text>
+  
+  <rect x="430" y="390" width="120" height="30" fill="#fff" stroke="#dee2e6" stroke-width="1"/>
+  <text x="490" y="410" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#666">
+    Høy
+  </text>
+  
+  <rect x="550" y="390" width="120" height="30" fill="#fff" stroke="#dee2e6" stroke-width="1"/>
+  <text x="610" y="410" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#666">
+    Bred
+  </text>
+  
+  <!-- EV/EBITDA row -->
+  <rect x="70" y="420" width="120" height="30" fill="#f3e5f5" stroke="#dee2e6" stroke-width="1"/>
+  <text x="130" y="440" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#7b1fa2">
+    EV/EBITDA
+  </text>
+  
+  <rect x="190" y="420" width="120" height="30" fill="#fff" stroke="#dee2e6" stroke-width="1"/>
+  <text x="250" y="440" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#666">
+    Middels
+  </text>
+  
+  <rect x="310" y="420" width="120" height="30" fill="#fff" stroke="#dee2e6" stroke-width="1"/>
+  <text x="370" y="440" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#666">
+    Høy
+  </text>
+  
+  <rect x="430" y="420" width="120" height="30" fill="#fff" stroke="#dee2e6" stroke-width="1"/>
+  <text x="490" y="440" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#666">
+    Middels
+  </text>
+  
+  <rect x="550" y="420" width="120" height="30" fill="#fff" stroke="#dee2e6" stroke-width="1"/>
+  <text x="610" y="440" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#666">
+    M&amp;A fokus
+  </text>
+  
+  <!-- EV/Sales row -->
+  <rect x="70" y="450" width="120" height="30" fill="#e8f5e8" stroke="#dee2e6" stroke-width="1"/>
+  <text x="130" y="470" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#388e3c">
+    EV/Sales
+  </text>
+  
+  <rect x="190" y="450" width="120" height="30" fill="#fff" stroke="#dee2e6" stroke-width="1"/>
+  <text x="250" y="470" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#666">
+    Lav
+  </text>
+  
+  <rect x="310" y="450" width="120" height="30" fill="#fff" stroke="#dee2e6" stroke-width="1"/>
+  <text x="370" y="470" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#666">
+    Middels
+  </text>
+  
+  <rect x="430" y="450" width="120" height="30" fill="#fff" stroke="#dee2e6" stroke-width="1"/>
+  <text x="490" y="470" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#666">
+    Høy
+  </text>
+  
+  <rect x="550" y="450" width="120" height="30" fill="#fff" stroke="#dee2e6" stroke-width="1"/>
+  <text x="610" y="470" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#666">
+    Vekstselskaper
+  </text>
+  
+  <!-- P/B row -->
+  <rect x="70" y="480" width="120" height="30" fill="#fff3e0" stroke="#dee2e6" stroke-width="1"/>
+  <text x="130" y="500" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#f57c00">
+    P/B
+  </text>
+  
+  <rect x="190" y="480" width="120" height="30" fill="#fff" stroke="#dee2e6" stroke-width="1"/>
+  <text x="250" y="500" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#666">
+    Lav
+  </text>
+  
+  <rect x="310" y="480" width="120" height="30" fill="#fff" stroke="#dee2e6" stroke-width="1"/>
+  <text x="370" y="500" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#666">
+    Middels
+  </text>
+  
+  <rect x="430" y="480" width="120" height="30" fill="#fff" stroke="#dee2e6" stroke-width="1"/>
+  <text x="490" y="500" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#666">
+    Lav
+  </text>
+  
+  <rect x="550" y="480" width="120" height="30" fill="#fff" stroke="#dee2e6" stroke-width="1"/>
+  <text x="610" y="500" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#666">
+    Spesialisert
+  </text>
+  
+  <!-- Bottom note -->
+  <text x="400" y="540" font-family="Arial, sans-serif" font-size="12" font-style="italic" text-anchor="middle" fill="#6c757d">
+    Valg av multiplikator avhenger av bransje, selskapsmodning og tilgjengelige data
+  </text>
+</svg>

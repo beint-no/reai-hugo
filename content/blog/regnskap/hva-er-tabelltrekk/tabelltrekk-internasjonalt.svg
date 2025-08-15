@@ -1,0 +1,112 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1e40af;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8fafc"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="80" fill="url(#headerGrad)"/>
+  <text x="400" y="50" text-anchor="middle" fill="white" font-size="24" font-weight="bold">INTERNASJONALT TABELLTREKK</text>
+  
+  <!-- Foreign workers section -->
+  <rect x="50" y="100" width="340" height="220" fill="#f0f9ff" stroke="#0284c7" stroke-width="2" rx="10"/>
+  <rect x="60" y="110" width="320" height="30" fill="#0284c7" rx="5"/>
+  <text x="220" y="130" text-anchor="middle" fill="white" font-size="14" font-weight="bold">UTENLANDSKE ARBEIDSTAKERE</text>
+  
+  <text x="70" y="155" font-size="12" font-weight="bold" fill="#0c4a6e">Skatteplikt-vurdering:</text>
+  
+  <!-- Status table -->
+  <rect x="70" y="170" width="300" height="130" fill="white" stroke="#cbd5e1" stroke-width="1" rx="5"/>
+  
+  <!-- Table headers -->
+  <rect x="70" y="170" width="300" height="25" fill="#e0f2fe" rx="5 5 0 0"/>
+  <text x="100" y="185" text-anchor="middle" font-size="10" font-weight="bold" fill="#0c4a6e">Status</text>
+  <text x="200" y="185" text-anchor="middle" font-size="10" font-weight="bold" fill="#0c4a6e">Trekkprosent</text>
+  <text x="300" y="185" text-anchor="middle" font-size="10" font-weight="bold" fill="#0c4a6e">Forutsetning</text>
+  
+  <line x1="70" y1="195" x2="370" y2="195" stroke="#cbd5e1" stroke-width="1"/>
+  
+  <!-- Table rows -->
+  <text x="100" y="210" text-anchor="middle" font-size="9" fill="#374151">Bosatt Norge</text>
+  <text x="200" y="210" text-anchor="middle" font-size="9" fill="#16a34a">Standard</text>
+  <text x="300" y="210" text-anchor="middle" font-size="9" fill="#374151">Normal skatteplikt</text>
+  
+  <line x1="70" y1="220" x2="370" y2="220" stroke="#e5e7eb" stroke-width="1"/>
+  
+  <text x="100" y="235" text-anchor="middle" font-size="9" fill="#374151">Ikke bosatt</text>
+  <text x="200" y="235" text-anchor="middle" font-size="9" fill="#f59e0b">25%</text>
+  <text x="300" y="235" text-anchor="middle" font-size="9" fill="#374151">Begrenset skatteplikt</text>
+  
+  <line x1="70" y1="245" x2="370" y2="245" stroke="#e5e7eb" stroke-width="1"/>
+  
+  <text x="100" y="260" text-anchor="middle" font-size="9" fill="#374151">SINK-ordning</text>
+  <text x="200" y="260" text-anchor="middle" font-size="9" fill="#f59e0b">25%</text>
+  <text x="300" y="260" text-anchor="middle" font-size="9" fill="#374151">Nettoinntekt</text>
+  
+  <line x1="70" y1="270" x2="370" y2="270" stroke="#e5e7eb" stroke-width="1"/>
+  
+  <text x="100" y="285" text-anchor="middle" font-size="9" fill="#374151">Skatteavtale</text>
+  <text x="200" y="285" text-anchor="middle" font-size="9" fill="#16a34a">0%</text>
+  <text x="300" y="285" text-anchor="middle" font-size="9" fill="#374151">Gyldig attest</text>
+  
+  <text x="220" y="315" text-anchor="middle" font-size="11" fill="#0284c7" font-weight="bold">Dokumentasjonskrav: Utenlandsk skatteattest</text>
+  
+  <!-- Norwegian workers abroad -->
+  <rect x="410" y="100" width="340" height="220" fill="#f0fdf4" stroke="#16a34a" stroke-width="2" rx="10"/>
+  <rect x="420" y="110" width="320" height="30" fill="#16a34a" rx="5"/>
+  <text x="580" y="130" text-anchor="middle" fill="white" font-size="14" font-weight="bold">NORSKE ARBEIDSTAKERE I UTLANDET</text>
+  
+  <text x="430" y="155" font-size="12" font-weight="bold" fill="#14532d">Trekkfritak ved:</text>
+  <text x="430" y="175" font-size="10" fill="#374151">• Langvarig utenlandsopphold (>6 mnd)</text>
+  <text x="430" y="190" font-size="10" fill="#374151">• Skatteplikt i annet land</text>
+  <text x="430" y="205" font-size="10" fill="#374151">• Dokumentert utenlandsk skatt</text>
+  
+  <text x="430" y="225" font-size="12" font-weight="bold" fill="#14532d">Særordninger:</text>
+  
+  <rect x="430" y="240" width="300" height="70" fill="#dcfce7" stroke="#16a34a" stroke-width="1" rx="3"/>
+  <text x="440" y="255" font-size="10" fill="#14532d" font-weight="bold">Svalbard:</text>
+  <text x="440" y="270" font-size="10" fill="#374151">• 8% flat skatt (Svalbard-skatteloven)</text>
+  <text x="440" y="285" font-size="10" fill="#374151">• Ingen trygdeavgift</text>
+  <text x="440" y="300" font-size="10" fill="#374151">• Spesiell trekkordning</text>
+  
+  <!-- Cross-border reporting -->
+  <rect x="50" y="340" width="700" height="180" fill="#fef7ff" stroke="#a855f7" stroke-width="2" rx="10"/>
+  <text x="400" y="365" text-anchor="middle" font-size="16" font-weight="bold" fill="#7c3aed">GRENSEOVERSKRIDENDE RAPPORTERING</text>
+  
+  <!-- CRS section -->
+  <rect x="70" y="380" width="200" height="120" fill="#f3e8ff" stroke="#a855f7" stroke-width="1" rx="5"/>
+  <text x="170" y="400" text-anchor="middle" font-size="12" font-weight="bold" fill="#7c3aed">CRS-RAPPORTERING</text>
+  <text x="80" y="420" font-size="10" fill="#374151">Common Reporting Standard:</text>
+  <text x="80" y="435" font-size="10" fill="#374151">• Automatisk informasjonsutveksling</text>
+  <text x="80" y="450" font-size="10" fill="#374151">• Lønns- og trekkopplysninger</text>
+  <text x="80" y="465" font-size="10" fill="#374151">• Koordinerte kontroller</text>
+  <text x="80" y="480" font-size="10" fill="#7c3aed" font-weight="bold">• Økt sporbarhet</text>
+  
+  <!-- DAC section -->
+  <rect x="290" y="380" width="200" height="120" fill="#fef3c7" stroke="#f59e0b" stroke-width="1" rx="5"/>
+  <text x="390" y="400" text-anchor="middle" font-size="12" font-weight="bold" fill="#92400e">DAC-DIREKTIVER</text>
+  <text x="300" y="420" font-size="10" fill="#374151">Directive on Administrative</text>
+  <text x="300" y="435" font-size="10" fill="#374151">Cooperation:</text>
+  <text x="300" y="450" font-size="10" fill="#374151">• EU informasjonsutveksling</text>
+  <text x="300" y="465" font-size="10" fill="#374151">• Trekkdata-deling</text>
+  <text x="300" y="480" font-size="10" fill="#f59e0b" font-weight="bold">• Harmoniserte prosedyrer</text>
+  
+  <!-- Digital integration -->
+  <rect x="510" y="380" width="200" height="120" fill="#ecfdf5" stroke="#16a34a" stroke-width="1" rx="5"/>
+  <text x="610" y="400" text-anchor="middle" font-size="12" font-weight="bold" fill="#16a34a">DIGITAL INTEGRASJON</text>
+  <text x="520" y="420" font-size="10" fill="#374151">Fremtidig utvikling:</text>
+  <text x="520" y="435" font-size="10" fill="#374151">• Real-time datautveksling</text>
+  <text x="520" y="450" font-size="10" fill="#374151">• API-basert rapportering</text>
+  <text x="520" y="465" font-size="10" fill="#374151">• Blockchain-verifikasjon</text>
+  <text x="520" y="480" font-size="10" fill="#16a34a" font-weight="bold">• Standardiserte protokoller</text>
+  
+  <!-- Practical example -->
+  <rect x="50" y="540" width="700" height="40" fill="#f1f5f9" stroke="#64748b" stroke-width="1" rx="5"/>
+  <text x="70" y="560" font-size="12" fill="#374151">Eksempel: Tysk arbeidstaker i Norge - Standard norsk tabelltrekk hvis bosatt >6 måneder</text>
+  <text x="70" y="575" font-size="12" fill="#0284c7" font-weight="bold">Norsk arbeider på Svalbard - 8% flat skatt uten standardfradrag eller trygdeavgift</text>
+</svg>

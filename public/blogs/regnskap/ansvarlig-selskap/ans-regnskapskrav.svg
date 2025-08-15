@@ -1,0 +1,145 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .title-text { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 24px; font-weight: bold; fill: #2c3e50; text-anchor: middle; }
+      .header-text { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 16px; font-weight: bold; fill: #34495e; text-anchor: middle; }
+      .body-text { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 14px; fill: #2c3e50; text-anchor: middle; }
+      .small-text { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 12px; fill: #7f8c8d; text-anchor: middle; }
+      .box-fill { fill: #ecf0f1; stroke: #34495e; stroke-width: 2; }
+      .highlight-box { fill: #3498db; stroke: #2980b9; stroke-width: 2; }
+      .warning-box { fill: #e74c3c; stroke: #c0392b; stroke-width: 2; }
+      .success-box { fill: #27ae60; stroke: #2ecc71; stroke-width: 2; }
+      .info-box { fill: #f39c12; stroke: #d68910; stroke-width: 2; }
+      .white-text { fill: white; }
+    </style>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#ffffff"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" class="title-text">Regnskapskrav for Ansvarlig Selskap</text>
+  
+  <!-- Main requirements -->
+  <g transform="translate(50, 70)">
+    <!-- Bokføringsloven -->
+    <rect x="0" y="0" width="700" height="60" class="highlight-box" rx="5"/>
+    <text x="350" y="30" class="header-text white-text">Bokføringsloven - Grunnleggende Krav</text>
+    <text x="350" y="50" class="body-text white-text">ANS er bokføringspliktig og må følge standard regnskapsprinsipper</text>
+    
+    <!-- Core requirements -->
+    <g transform="translate(0, 80)">
+      <text x="350" y="0" class="header-text">Kjernekomponenter i Regnskapet</text>
+      
+      <!-- Hovedbok -->
+      <rect x="0" y="20" width="160" height="100" class="success-box" rx="5"/>
+      <text x="80" y="40" class="body-text white-text">Hovedbok</text>
+      <text x="80" y="60" class="small-text white-text">Alle</text>
+      <text x="80" y="75" class="small-text white-text">forretningshendelser</text>
+      <text x="80" y="90" class="small-text white-text">Kronologisk</text>
+      <text x="80" y="105" class="small-text white-text">registrering</text>
+      
+      <!-- Bilag -->
+      <rect x="180" y="20" width="160" height="100" class="info-box" rx="5"/>
+      <text x="260" y="40" class="body-text white-text">Bilag</text>
+      <text x="260" y="60" class="small-text white-text">Dokumentasjon</text>
+      <text x="260" y="75" class="small-text white-text">for alle</text>
+      <text x="260" y="90" class="small-text white-text">transaksjoner</text>
+      <text x="260" y="105" class="small-text white-text">Oppbevaring 5 år</text>
+      
+      <!-- Balanse -->
+      <rect x="360" y="20" width="160" height="100" class="box-fill" rx="5"/>
+      <text x="440" y="40" class="body-text">Balanse</text>
+      <text x="440" y="60" class="small-text">Eiendeler</text>
+      <text x="440" y="75" class="small-text">Egenkapital</text>
+      <text x="440" y="90" class="small-text">Gjeld</text>
+      <text x="440" y="105" class="small-text">Per 31.12</text>
+      
+      <!-- Resultatregnskap -->
+      <rect x="540" y="20" width="160" height="100" class="box-fill" rx="5"/>
+      <text x="620" y="40" class="body-text">Resultatregnskap</text>
+      <text x="620" y="60" class="small-text">Inntekter</text>
+      <text x="620" y="75" class="small-text">Kostnader</text>
+      <text x="620" y="90" class="small-text">Årsresultat</text>
+      <text x="620" y="105" class="small-text">Hele året</text>
+    </g>
+    
+    <!-- Specific ANS requirements -->
+    <g transform="translate(0, 220)">
+      <text x="350" y="0" class="header-text">Spesielle Krav for ANS</text>
+      
+      <!-- Deltakerandeler -->
+      <rect x="50" y="20" width="200" height="80" class="warning-box" rx="5"/>
+      <text x="150" y="40" class="body-text white-text">Deltakerandeler</text>
+      <text x="150" y="55" class="small-text white-text">Spesifikasjon av hver</text>
+      <text x="150" y="70" class="small-text white-text">deltakers andel av</text>
+      <text x="150" y="85" class="small-text white-text">egenkapital og resultat</text>
+      
+      <!-- Resultatfordeling -->
+      <rect x="270" y="20" width="200" height="80" class="info-box" rx="5"/>
+      <text x="370" y="40" class="body-text white-text">Resultatfordeling</text>
+      <text x="370" y="55" class="small-text white-text">Dokumentasjon av</text>
+      <text x="370" y="70" class="small-text white-text">hvordan årsresultat</text>
+      <text x="370" y="85" class="small-text white-text">fordeles på deltakerne</text>
+      
+      <!-- Mellomregning -->
+      <rect x="490" y="20" width="200" height="80" class="success-box" rx="5"/>
+      <text x="590" y="40" class="body-text white-text">Mellomregning</text>
+      <text x="590" y="55" class="small-text white-text">Uttak og innbetalinger</text>
+      <text x="590" y="70" class="small-text white-text">fra deltakerne</text>
+      <text x="590" y="85" class="small-text white-text">Løpende oppfølging</text>
+    </g>
+    
+    <!-- Tax implications -->
+    <g transform="translate(0, 330)">
+      <text x="350" y="0" class="header-text">Skattemessige Konsekvenser</text>
+      
+      <!-- No corporate tax -->
+      <rect x="0" y="20" width="220" height="80" class="success-box" rx="5"/>
+      <text x="110" y="40" class="body-text white-text">Ingen Selskapsskatt</text>
+      <text x="110" y="55" class="small-text white-text">ANS betaler ikke skatt</text>
+      <text x="110" y="70" class="small-text white-text">Gjennomslagsskatt</text>
+      <text x="110" y="85" class="small-text white-text">til deltakerne</text>
+      
+      <!-- Individual taxation -->
+      <rect x="240" y="20" width="220" height="80" class="warning-box" rx="5"/>
+      <text x="350" y="40" class="body-text white-text">Individuell Beskatning</text>
+      <text x="350" y="55" class="small-text white-text">Hver deltaker beskattes</text>
+      <text x="350" y="70" class="small-text white-text">for sin andel av</text>
+      <text x="350" y="85" class="small-text white-text">overskudd/underskudd</text>
+      
+      <!-- Tax reporting -->
+      <rect x="480" y="20" width="220" height="80" class="info-box" rx="5"/>
+      <text x="590" y="40" class="body-text white-text">Skatterapportering</text>
+      <text x="590" y="55" class="small-text white-text">Selvangivelse for</text>
+      <text x="590" y="70" class="small-text white-text">hver deltaker</text>
+      <text x="590" y="85" class="small-text white-text">Næringsspesifikasjon</text>
+    </g>
+    
+    <!-- Timeline -->
+    <g transform="translate(0, 440)">
+      <text x="350" y="0" class="header-text">Tidsfrister og Oppbevaring</text>
+      
+      <!-- Timeline boxes -->
+      <rect x="0" y="20" width="140" height="60" class="box-fill" rx="5"/>
+      <text x="70" y="40" class="body-text">Månedsavslutning</text>
+      <text x="70" y="55" class="small-text">Innen 15. hver måned</text>
+      <text x="70" y="70" class="small-text">Intern rapportering</text>
+      
+      <rect x="160" y="20" width="140" height="60" class="box-fill" rx="5"/>
+      <text x="230" y="40" class="body-text">Årsavslutning</text>
+      <text x="230" y="55" class="small-text">Innen 31. mars</text>
+      <text x="230" y="70" class="small-text">Påfølgende år</text>
+      
+      <rect x="320" y="20" width="140" height="60" class="warning-box" rx="5"/>
+      <text x="390" y="40" class="body-text white-text">Skatterapport</text>
+      <text x="390" y="55" class="small-text white-text">Innen 31. mai</text>
+      <text x="390" y="70" class="small-text white-text">Selvangivelse</text>
+      
+      <rect x="480" y="20" width="140" height="60" class="info-box" rx="5"/>
+      <text x="550" y="40" class="body-text white-text">Oppbevaring</text>
+      <text x="550" y="55" class="small-text white-text">Regnskapsmateriale</text>
+      <text x="550" y="70" class="small-text white-text">5 år</text>
+    </g>
+  </g>
+</svg>

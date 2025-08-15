@@ -1,0 +1,175 @@
+<svg width="800" height="700" viewBox="0 0 800 700" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bransjGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0f766e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0d9488;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="700" fill="#f8fafc"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="60" fill="url(#bransjGrad)"/>
+  <text x="400" y="40" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="22" font-weight="bold">Bransjespesifikke Tilnærminger til Sysselsatt Kapital</text>
+  
+  <!-- Manufacturing -->
+  <g transform="translate(50, 80)">
+    <rect x="0" y="0" width="320" height="180" fill="#dbeafe" stroke="#3b82f6" stroke-width="2" rx="10"/>
+    <rect x="0" y="0" width="320" height="40" fill="#3b82f6" rx="10"/>
+    <text x="160" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">🏭 Produksjonsselskaper</text>
+    
+    <text x="15" y="60" fill="#1e40af" font-family="Arial, sans-serif" font-size="13" font-weight="bold">Karakteristika:</text>
+    <text x="15" y="75" fill="#1e40af" font-family="Arial, sans-serif" font-size="11">• Høy binding i maskiner og utstyr</text>
+    <text x="15" y="88" fill="#1e40af" font-family="Arial, sans-serif" font-size="11">• Store anleggsinvesteringer</text>
+    <text x="15" y="101" fill="#1e40af" font-family="Arial, sans-serif" font-size="11">• Betydelig lagerbeholdning</text>
+    
+    <text x="15" y="120" fill="#1e40af" font-family="Arial, sans-serif" font-size="13" font-weight="bold">Fokusområder:</text>
+    <text x="15" y="135" fill="#1e40af" font-family="Arial, sans-serif" font-size="11">• Kapasitetsutnyttelse kritisk for ROCE</text>
+    <text x="15" y="148" fill="#1e40af" font-family="Arial, sans-serif" font-size="11">• Avskrivningsmetoder påvirker resultater</text>
+    <text x="15" y="161" fill="#1e40af" font-family="Arial, sans-serif" font-size="11">• Leanprinsipper for kapitaloptimalisering</text>
+  </g>
+  
+  <!-- Retail -->
+  <g transform="translate(390, 80)">
+    <rect x="0" y="0" width="320" height="180" fill="#dcfce7" stroke="#16a34a" stroke-width="2" rx="10"/>
+    <rect x="0" y="0" width="320" height="40" fill="#16a34a" rx="10"/>
+    <text x="160" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">🛒 Handelsbedrifter</text>
+    
+    <text x="15" y="60" fill="#166534" font-family="Arial, sans-serif" font-size="13" font-weight="bold">Karakteristika:</text>
+    <text x="15" y="75" fill="#166534" font-family="Arial, sans-serif" font-size="11">• Stor lagerbeholdning</text>
+    <text x="15" y="88" fill="#166534" font-family="Arial, sans-serif" font-size="11">• Begrenset anleggsmidler</text>
+    <text x="15" y="101" fill="#166534" font-family="Arial, sans-serif" font-size="11">• Sesongvariasjoner i kapitalbinding</text>
+    
+    <text x="15" y="120" fill="#166534" font-family="Arial, sans-serif" font-size="13" font-weight="bold">Fokusområder:</text>
+    <text x="15" y="135" fill="#166534" font-family="Arial, sans-serif" font-size="11">• Lageromsetning som nøkkelfaktor</text>
+    <text x="15" y="148" fill="#166534" font-family="Arial, sans-serif" font-size="11">• Just-in-time leveranser</text>
+    <text x="15" y="161" fill="#166534" font-family="Arial, sans-serif" font-size="11">• Kategorianalyse av kapitalbinding</text>
+  </g>
+  
+  <!-- Services -->
+  <g transform="translate(50, 280)">
+    <rect x="0" y="0" width="320" height="180" fill="#fef3c7" stroke="#d97706" stroke-width="2" rx="10"/>
+    <rect x="0" y="0" width="320" height="40" fill="#d97706" rx="10"/>
+    <text x="160" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">💼 Servicebedrifter</text>
+    
+    <text x="15" y="60" fill="#92400e" font-family="Arial, sans-serif" font-size="13" font-weight="bold">Karakteristika:</text>
+    <text x="15" y="75" fill="#92400e" font-family="Arial, sans-serif" font-size="11">• Lavere total kapitalbinding</text>
+    <text x="15" y="88" fill="#92400e" font-family="Arial, sans-serif" font-size="11">• Høy andel humankapital</text>
+    <text x="15" y="101" fill="#92400e" font-family="Arial, sans-serif" font-size="11">• Kundefordringer som hovedkomponent</text>
+    
+    <text x="15" y="120" fill="#92400e" font-family="Arial, sans-serif" font-size="13" font-weight="bold">Fokusområder:</text>
+    <text x="15" y="135" fill="#92400e" font-family="Arial, sans-serif" font-size="11">• Arbeidskapitalstyring kritisk</text>
+    <text x="15" y="148" fill="#92400e" font-family="Arial, sans-serif" font-size="11">• Innkrevingsrutiner påvirker ROCE</text>
+    <text x="15" y="161" fill="#92400e" font-family="Arial, sans-serif" font-size="11">• Effektiv ressursutnyttelse</text>
+  </g>
+  
+  <!-- Technology -->
+  <g transform="translate(390, 280)">
+    <rect x="0" y="0" width="320" height="180" fill="#f3e8ff" stroke="#8b5cf6" stroke-width="2" rx="10"/>
+    <rect x="0" y="0" width="320" height="40" fill="#8b5cf6" rx="10"/>
+    <text x="160" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">💻 Teknologiselskaper</text>
+    
+    <text x="15" y="60" fill="#7c2d12" font-family="Arial, sans-serif" font-size="13" font-weight="bold">Karakteristika:</text>
+    <text x="15" y="75" fill="#7c2d12" font-family="Arial, sans-serif" font-size="11">• Varierende avhengig av vekstfase</text>
+    <text x="15" y="88" fill="#7c2d12" font-family="Arial, sans-serif" font-size="11">• Høye FoU-investeringer</text>
+    <text x="15" y="101" fill="#7c2d12" font-family="Arial, sans-serif" font-size="11">• Immaterielle eiendeler viktige</text>
+    
+    <text x="15" y="120" fill="#7c2d12" font-family="Arial, sans-serif" font-size="13" font-weight="bold">Fokusområder:</text>
+    <text x="15" y="135" fill="#7c2d12" font-family="Arial, sans-serif" font-size="11">• Balanse mellom vekst og lønnsomhet</text>
+    <text x="15" y="148" fill="#7c2d12" font-family="Arial, sans-serif" font-size="11">• Aktivering av utviklingskostnader</text>
+    <text x="15" y="161" fill="#7c2d12" font-family="Arial, sans-serif" font-size="11">• Skalerbarhet av forretningsmodell</text>
+  </g>
+  
+  <!-- ROCE benchmarks by industry -->
+  <g transform="translate(50, 480)">
+    <rect x="0" y="0" width="700" height="30" fill="#374151"/>
+    <text x="350" y="20" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Typiske ROCE-nivåer etter Bransje</text>
+    
+    <!-- Industry benchmarks table -->
+    <rect x="0" y="30" width="175" height="25" fill="#6b7280"/>
+    <text x="87" y="47" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Bransje</text>
+    
+    <rect x="175" y="30" width="175" height="25" fill="#6b7280"/>
+    <text x="262" y="47" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Typisk ROCE</text>
+    
+    <rect x="350" y="30" width="175" height="25" fill="#6b7280"/>
+    <text x="437" y="47" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Hovedutfordringer</text>
+    
+    <rect x="525" y="30" width="175" height="25" fill="#6b7280"/>
+    <text x="612" y="47" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Optimaliseringsmuligheter</text>
+    
+    <!-- Row 1: Manufacturing -->
+    <rect x="0" y="55" width="175" height="20" fill="#dbeafe"/>
+    <text x="10" y="69" fill="#1e40af" font-family="Arial, sans-serif" font-size="11">Produksjon</text>
+    
+    <rect x="175" y="55" width="175" height="20" fill="#f0f9ff"/>
+    <text x="262" y="69" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="11">8-15%</text>
+    
+    <rect x="350" y="55" width="175" height="20" fill="#f0f9ff"/>
+    <text x="355" y="69" fill="#1e40af" font-family="Arial, sans-serif" font-size="10">Høy kapitalbinding</text>
+    
+    <rect x="525" y="55" width="175" height="20" fill="#f0f9ff"/>
+    <text x="530" y="69" fill="#1e40af" font-family="Arial, sans-serif" font-size="10">Lean production</text>
+    
+    <!-- Row 2: Retail -->
+    <rect x="0" y="75" width="175" height="20" fill="#dcfce7"/>
+    <text x="10" y="89" fill="#166534" font-family="Arial, sans-serif" font-size="11">Handel</text>
+    
+    <rect x="175" y="75" width="175" height="20" fill="#f0fdf4"/>
+    <text x="262" y="89" text-anchor="middle" fill="#166534" font-family="Arial, sans-serif" font-size="11">12-20%</text>
+    
+    <rect x="350" y="75" width="175" height="20" fill="#f0fdf4"/>
+    <text x="355" y="89" fill="#166534" font-family="Arial, sans-serif" font-size="10">Lagerstyring</text>
+    
+    <rect x="525" y="75" width="175" height="20" fill="#f0fdf4"/>
+    <text x="530" y="89" fill="#166534" font-family="Arial, sans-serif" font-size="10">JIT, kategorioptimalisering</text>
+    
+    <!-- Row 3: Services -->
+    <rect x="0" y="95" width="175" height="20" fill="#fef3c7"/>
+    <text x="10" y="109" fill="#92400e" font-family="Arial, sans-serif" font-size="11">Tjenester</text>
+    
+    <rect x="175" y="95" width="175" height="20" fill="#fffbeb"/>
+    <text x="262" y="109" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="11">15-25%</text>
+    
+    <rect x="350" y="95" width="175" height="20" fill="#fffbeb"/>
+    <text x="355" y="109" fill="#92400e" font-family="Arial, sans-serif" font-size="10">Ressursutnyttelse</text>
+    
+    <rect x="525" y="95" width="175" height="20" fill="#fffbeb"/>
+    <text x="530" y="109" fill="#92400e" font-family="Arial, sans-serif" font-size="10">Kapasitetsplanlegging</text>
+    
+    <!-- Row 4: Technology -->
+    <rect x="0" y="115" width="175" height="20" fill="#f3e8ff"/>
+    <text x="10" y="129" fill="#7c2d12" font-family="Arial, sans-serif" font-size="11">Teknologi</text>
+    
+    <rect x="175" y="115" width="175" height="20" fill="#faf5ff"/>
+    <text x="262" y="129" text-anchor="middle" fill="#7c2d12" font-family="Arial, sans-serif" font-size="11">10-30%</text>
+    
+    <rect x="350" y="115" width="175" height="20" fill="#faf5ff"/>
+    <text x="355" y="129" fill="#7c2d12" font-family="Arial, sans-serif" font-size="10">Vekst vs. lønnsomhet</text>
+    
+    <rect x="525" y="115" width="175" height="20" fill="#faf5ff"/>
+    <text x="530" y="129" fill="#7c2d12" font-family="Arial, sans-serif" font-size="10">Skalerbarhet</text>
+    
+    <!-- Row 5: Real Estate -->
+    <rect x="0" y="135" width="175" height="20" fill="#fee2e2"/>
+    <text x="10" y="149" fill="#dc2626" font-family="Arial, sans-serif" font-size="11">Eiendom</text>
+    
+    <rect x="175" y="135" width="175" height="20" fill="#fef2f2"/>
+    <text x="262" y="149" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="11">5-12%</text>
+    
+    <rect x="350" y="135" width="175" height="20" fill="#fef2f2"/>
+    <text x="355" y="149" fill="#dc2626" font-family="Arial, sans-serif" font-size="10">Høy gjeldsgrad</text>
+    
+    <rect x="525" y="135" width="175" height="20" fill="#fef2f2"/>
+    <text x="530" y="149" fill="#dc2626" font-family="Arial, sans-serif" font-size="10">Porteføljeoptimalisering</text>
+  </g>
+  
+  <!-- Key success factors -->
+  <g transform="translate(50, 640)">
+    <rect x="0" y="0" width="700" height="50" fill="#f1f5f9" stroke="#475569" stroke-width="1" rx="8"/>
+    <text x="20" y="20" fill="#334155" font-family="Arial, sans-serif" font-size="13" font-weight="bold">🎯 Bransjeuavhengige Suksessfaktorer:</text>
+    <text x="20" y="35" fill="#334155" font-family="Arial, sans-serif" font-size="11">• Kontinuerlig måling og oppfølging • Benchmarking mot beste i klassen • Fokus på både teller (EBIT) og nevner (kapital)</text>
+    <text x="20" y="48" fill="#334155" font-family="Arial, sans-serif" font-size="11">• Balanse mellom vekst og lønnsomhet • Integrering av ROCE i insentivordninger • Langsiktig perspektiv på kapitalallokering</text>
+  </g>
+</svg>

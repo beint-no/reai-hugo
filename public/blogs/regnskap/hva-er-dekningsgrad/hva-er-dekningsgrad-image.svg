@@ -1,0 +1,57 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="400" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="50" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle" fill="#2c3e50">Hva er Dekningsgrad?</text>
+  
+  <!-- Main concept illustration -->
+  <g transform="translate(50, 100)">
+    <!-- Coverage ratio concept -->
+    <rect x="0" y="0" width="300" height="200" fill="#3498db" opacity="0.1" stroke="#3498db" stroke-width="2"/>
+    <text x="150" y="30" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#2c3e50">Ressurser</text>
+    
+    <!-- Resources bars -->
+    <rect x="20" y="50" width="260" height="30" fill="#27ae60"/>
+    <text x="150" y="70" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="white">Driftsinntekter</text>
+    
+    <rect x="20" y="90" width="200" height="30" fill="#2980b9"/>
+    <text x="120" y="110" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="white">Egenkapital</text>
+    
+    <rect x="20" y="130" width="180" height="30" fill="#8e44ad"/>
+    <text x="110" y="150" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="white">Likviditet</text>
+    
+    <!-- Obligations -->
+    <rect x="350" y="0" width="300" height="200" fill="#e74c3c" opacity="0.1" stroke="#e74c3c" stroke-width="2"/>
+    <text x="500" y="30" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#2c3e50">Forpliktelser</text>
+    
+    <!-- Obligations bars -->
+    <rect x="370" y="50" width="180" height="30" fill="#c0392b"/>
+    <text x="460" y="70" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="white">Rentekostnader</text>
+    
+    <rect x="370" y="90" width="150" height="30" fill="#e67e22"/>
+    <text x="445" y="110" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="white">Kortsiktig gjeld</text>
+    
+    <rect x="370" y="130" width="200" height="30" fill="#d35400"/>
+    <text x="470" y="150" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="white">Driftskostnader</text>
+    
+    <!-- Arrow showing ratio -->
+    <path d="M 320 100 L 340 100" stroke="#34495e" stroke-width="3" marker-end="url(#arrowhead)"/>
+    <text x="330" y="95" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#34495e">÷</text>
+  </g>
+  
+  <!-- Formula examples -->
+  <g transform="translate(50, 320)">
+    <text x="0" y="0" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">Eksempler på dekningsgrader:</text>
+    <text x="0" y="25" font-family="Arial, sans-serif" font-size="14" fill="#34495e">• Rentedekningsgrad = EBIT ÷ Rentekostnader</text>
+    <text x="0" y="45" font-family="Arial, sans-serif" font-size="14" fill="#34495e">• Egenkapitaldekningsgrad = Egenkapital ÷ Totalkapital</text>
+    <text x="0" y="65" font-family="Arial, sans-serif" font-size="14" fill="#34495e">• Likviditetsgrad = Omløpsmidler ÷ Kortsiktig gjeld</text>
+  </g>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>
+    </marker>
+  </defs>
+</svg>

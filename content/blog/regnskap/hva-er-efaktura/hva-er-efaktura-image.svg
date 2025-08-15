@@ -1,0 +1,111 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="blueGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="400" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Title -->
+  <text x="400" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#212529">
+    Hva er eFaktura?
+  </text>
+  
+  <!-- Subtitle -->
+  <text x="400" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#6c757d">
+    Norges Elektroniske Faktureringssystem
+  </text>
+  
+  <!-- Computer/Digital Device -->
+  <rect x="150" y="120" width="180" height="120" rx="10" fill="url(#blueGradient)" stroke="#003366" stroke-width="2"/>
+  <rect x="160" y="130" width="160" height="90" fill="#ffffff" stroke="#dee2e6" stroke-width="1"/>
+  
+  <!-- Screen content - eFaktura interface -->
+  <rect x="170" y="140" width="140" height="8" fill="#28a745" rx="2"/>
+  <text x="175" y="155" font-family="Arial, sans-serif" font-size="10" fill="#212529">eFaktura System</text>
+  
+  <rect x="170" y="165" width="100" height="6" fill="#6c757d" rx="1"/>
+  <rect x="170" y="175" width="120" height="6" fill="#6c757d" rx="1"/>
+  <rect x="170" y="185" width="80" height="6" fill="#6c757d" rx="1"/>
+  
+  <!-- Send button -->
+  <rect x="170" y="200" width="50" height="15" fill="#007bff" rx="3"/>
+  <text x="195" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">Send</text>
+  
+  <!-- Arrow pointing right -->
+  <path d="M 350 180 L 420 180 L 410 170 M 420 180 L 410 190" stroke="#28a745" stroke-width="3" fill="none"/>
+  <text x="385" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#28a745">PEPPOL</text>
+  
+  <!-- Receiving system -->
+  <rect x="450" y="120" width="180" height="120" rx="10" fill="url(#blueGradient)" stroke="#003366" stroke-width="2"/>
+  <rect x="460" y="130" width="160" height="90" fill="#ffffff" stroke="#dee2e6" stroke-width="1"/>
+  
+  <!-- Receiving screen content -->
+  <rect x="470" y="140" width="140" height="8" fill="#dc3545" rx="2"/>
+  <text x="475" y="155" font-family="Arial, sans-serif" font-size="10" fill="#212529">Regnskapssystem</text>
+  
+  <rect x="470" y="165" width="110" height="6" fill="#6c757d" rx="1"/>
+  <rect x="470" y="175" width="130" height="6" fill="#6c757d" rx="1"/>
+  <rect x="470" y="185" width="90" height="6" fill="#6c757d" rx="1"/>
+  
+  <!-- Receive button -->
+  <rect x="470" y="200" width="50" height="15" fill="#28a745" rx="3"/>
+  <text x="495" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">Motta</text>
+  
+  <!-- Benefits section -->
+  <text x="400" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#212529">
+    Fordeler med eFaktura
+  </text>
+  
+  <!-- Benefit boxes -->
+  <rect x="80" y="300" width="140" height="60" fill="#d4edda" stroke="#28a745" stroke-width="2" rx="5"/>
+  <text x="150" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#155724">
+    80% Kostnadsreduksjon
+  </text>
+  <text x="150" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#155724">
+    Automatisert behandling
+  </text>
+  <text x="150" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#155724">
+    reduserer kostnader
+  </text>
+  
+  <rect x="240" y="300" width="140" height="60" fill="#cce5ff" stroke="#007bff" stroke-width="2" rx="5"/>
+  <text x="310" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#004085">
+    Raskere Behandling
+  </text>
+  <text x="310" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#004085">
+    Automatisk validering
+  </text>
+  <text x="310" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#004085">
+    og bokføring
+  </text>
+  
+  <rect x="400" y="300" width="140" height="60" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="5"/>
+  <text x="470" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#856404">
+    Bedre Kontroll
+  </text>
+  <text x="470" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#856404">
+    Sanntidssporing og
+  </text>
+  <text x="470" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#856404">
+    digital arkivering
+  </text>
+  
+  <rect x="560" y="300" width="140" height="60" fill="#f8d7da" stroke="#dc3545" stroke-width="2" rx="5"/>
+  <text x="630" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#721c24">
+    Miljøvennlig
+  </text>
+  <text x="630" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#721c24">
+    Eliminerer papir og
+  </text>
+  <text x="630" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#721c24">
+    fysisk transport
+  </text>
+</svg>

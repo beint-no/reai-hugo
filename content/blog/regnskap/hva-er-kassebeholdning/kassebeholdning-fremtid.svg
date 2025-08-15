@@ -1,0 +1,327 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="digitalGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1565C0;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="aiGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#9C27B0;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#6A1B9A;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="cryptoGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF9800;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#F57C00;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="sustainGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2E7D32;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="futureGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#E91E63;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#AD1457;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#333">
+    Fremtidige Trender for Kassebeholdning
+  </text>
+  
+  <!-- Timeline -->
+  <line x1="100" y1="80" x2="700" y2="80" stroke="#333" stroke-width="3"/>
+  <text x="100" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+    2024
+  </text>
+  <text x="300" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+    2027
+  </text>
+  <text x="500" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+    2030
+  </text>
+  <text x="700" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+    2035+
+  </text>
+  
+  <!-- Timeline markers -->
+  <circle cx="100" cy="80" r="5" fill="#333"/>
+  <circle cx="300" cy="80" r="5" fill="#333"/>
+  <circle cx="500" cy="80" r="5" fill="#333"/>
+  <circle cx="700" cy="80" r="5" fill="#333"/>
+  
+  <!-- Digital Currency Section -->
+  <rect x="50" y="130" width="340" height="180" rx="10" fill="url(#digitalGrad)" stroke="#1565C0" stroke-width="2"/>
+  <text x="220" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#fff">
+    DIGITALE VALUTAER
+  </text>
+  
+  <!-- Digital currency features -->
+  <rect x="70" y="170" width="140" height="70" rx="5" fill="#fff" opacity="0.9"/>
+  <text x="140" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1565C0">
+    CBDC (2025-2027)
+  </text>
+  <text x="140" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    • Digital norsk krone
+  </text>
+  <text x="140" y="218" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    • Øyeblikkelig oppgjør
+  </text>
+  <text x="140" y="231" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    • Programmérbare penger
+  </text>
+  
+  <rect x="220" y="170" width="140" height="70" rx="5" fill="#fff" opacity="0.9"/>
+  <text x="290" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1565C0">
+    Stablecoins (2024-2026)
+  </text>
+  <text x="290" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    • Regulerte stablecoins
+  </text>
+  <text x="290" y="218" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    • Grenseoverskridende
+  </text>
+  <text x="290" y="231" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    • Lavere kostnader
+  </text>
+  
+  <rect x="70" y="250" width="140" height="50" rx="5" fill="#fff" opacity="0.9"/>
+  <text x="140" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1565C0">
+    Interoperabilitet
+  </text>
+  <text x="140" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    • Sømløs utveksling
+  </text>
+  <text x="140" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    • Cross-chain protokoller
+  </text>
+  
+  <rect x="220" y="250" width="140" height="50" rx="5" fill="#fff" opacity="0.9"/>
+  <text x="290" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1565C0">
+    Smart Contracts
+  </text>
+  <text x="290" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    • Automatiske betalinger
+  </text>
+  <text x="290" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    • Betingede transaksjoner
+  </text>
+  
+  <!-- AI and Automation Section -->
+  <rect x="410" y="130" width="340" height="180" rx="10" fill="url(#aiGrad)" stroke="#6A1B9A" stroke-width="2"/>
+  <text x="580" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#fff">
+    AI &amp; AUTOMATISERING
+  </text>
+  
+  <!-- AI features -->
+  <rect x="430" y="170" width="140" height="70" rx="5" fill="#fff" opacity="0.9"/>
+  <text x="500" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#6A1B9A">
+    Prediktiv AI (2024-2026)
+  </text>
+  <text x="500" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    • Kontantstrømprediksjoner
+  </text>
+  <text x="500" y="218" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    • Risikoprediksjoner
+  </text>
+  <text x="500" y="231" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    • Markedsanalyse
+  </text>
+  
+  <rect x="580" y="170" width="140" height="70" rx="5" fill="#fff" opacity="0.9"/>
+  <text x="650" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#6A1B9A">
+    Autonom Kassestyring
+  </text>
+  <text x="650" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    • Selvstyrende systemer
+  </text>
+  <text x="650" y="218" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    • Automatisk optimalisering
+  </text>
+  <text x="650" y="231" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    • Minimal menneskelig input
+  </text>
+  
+  <rect x="430" y="250" width="140" height="50" rx="5" fill="#fff" opacity="0.9"/>
+  <text x="500" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#6A1B9A">
+    Quantum Computing
+  </text>
+  <text x="500" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    • Komplekse beregninger
+  </text>
+  <text x="500" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    • Risikomodellering
+  </text>
+  
+  <rect x="580" y="250" width="140" height="50" rx="5" fill="#fff" opacity="0.9"/>
+  <text x="650" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#6A1B9A">
+    Neural Networks
+  </text>
+  <text x="650" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    • Dype læringsmodeller
+  </text>
+  <text x="650" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    • Adaptiv læring
+  </text>
+  
+  <!-- Sustainability Section -->
+  <rect x="50" y="330" width="340" height="140" rx="10" fill="url(#sustainGrad)" stroke="#2E7D32" stroke-width="2"/>
+  <text x="220" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#fff">
+    BÆREKRAFT &amp; ESG
+  </text>
+  
+  <!-- Sustainability features -->
+  <rect x="70" y="370" width="100" height="90" rx="5" fill="#fff" opacity="0.9"/>
+  <text x="120" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2E7D32">
+    Grønne Investeringer
+  </text>
+  <text x="120" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#666">
+    • ESG-fond
+  </text>
+  <text x="120" y="418" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#666">
+    • Grønne obligasjoner
+  </text>
+  <text x="120" y="431" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#666">
+    • Klimarapportering
+  </text>
+  <text x="120" y="444" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#666">
+    • Karbonnøytralitet
+  </text>
+  
+  <rect x="180" y="370" width="100" height="90" rx="5" fill="#fff" opacity="0.9"/>
+  <text x="230" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2E7D32">
+    Kontantløst Samfunn
+  </text>
+  <text x="230" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#666">
+    • Redusert papirbruk
+  </text>
+  <text x="230" y="418" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#666">
+    • Lavere energiforbruk
+  </text>
+  <text x="230" y="431" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#666">
+    • Digitale kvitteringer
+  </text>
+  <text x="230" y="444" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#666">
+    • Mindre transport
+  </text>
+  
+  <rect x="290" y="370" width="100" height="90" rx="5" fill="#fff" opacity="0.9"/>
+  <text x="340" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2E7D32">
+    Sirkulær Økonomi
+  </text>
+  <text x="340" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#666">
+    • Gjenbruk av ressurser
+  </text>
+  <text x="340" y="418" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#666">
+    • Bærekraftige banker
+  </text>
+  <text x="340" y="431" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#666">
+    • Miljøvennlige produkter
+  </text>
+  <text x="340" y="444" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#666">
+    • Grønn teknologi
+  </text>
+  
+  <!-- Future Innovations Section -->
+  <rect x="410" y="330" width="340" height="140" rx="10" fill="url(#futureGrad)" stroke="#AD1457" stroke-width="2"/>
+  <text x="580" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#fff">
+    FREMTIDIGE INNOVASJONER
+  </text>
+  
+  <!-- Future features -->
+  <rect x="430" y="370" width="100" height="90" rx="5" fill="#fff" opacity="0.9"/>
+  <text x="480" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#AD1457">
+    IoT Integration
+  </text>
+  <text x="480" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#666">
+    • Smarte sensorer
+  </text>
+  <text x="480" y="418" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#666">
+    • Automatisk rapportering
+  </text>
+  <text x="480" y="431" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#666">
+    • Sanntidsdata
+  </text>
+  <text x="480" y="444" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#666">
+    • Prediktiv vedlikehold
+  </text>
+  
+  <rect x="540" y="370" width="100" height="90" rx="5" fill="#fff" opacity="0.9"/>
+  <text x="590" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#AD1457">
+    Metaverse Banking
+  </text>
+  <text x="590" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#666">
+    • Virtuell bankfilialer
+  </text>
+  <text x="590" y="418" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#666">
+    • VR/AR grensesnitt
+  </text>
+  <text x="590" y="431" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#666">
+    • Immersive opplevelser
+  </text>
+  <text x="590" y="444" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#666">
+    • Digital tvillinger
+  </text>
+  
+  <rect x="650" y="370" width="100" height="90" rx="5" fill="#fff" opacity="0.9"/>
+  <text x="700" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#AD1457">
+    Biometrisk Sikkerhet
+  </text>
+  <text x="700" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#666">
+    • DNA-autentisering
+  </text>
+  <text x="700" y="418" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#666">
+    • Hjernesignaler
+  </text>
+  <text x="700" y="431" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#666">
+    • Kontinuerlig verifikasjon
+  </text>
+  <text x="700" y="444" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#666">
+    • Zero-trust arkitektur
+  </text>
+  
+  <!-- Impact Assessment -->
+  <rect x="100" y="490" width="600" height="80" rx="10" fill="#fff" stroke="#ddd" stroke-width="2"/>
+  <text x="400" y="515" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#333">
+    PÅVIRKNING PÅ KASSEBEHOLDNING
+  </text>
+  
+  <!-- Impact categories -->
+  <rect x="120" y="525" width="130" height="35" rx="5" fill="#E3F2FD" stroke="#2196F3" stroke-width="1"/>
+  <text x="185" y="540" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#1565C0">
+    Økt Effektivitet
+  </text>
+  <text x="185" y="552" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#666">
+    Automatisering &amp; AI
+  </text>
+  
+  <rect x="260" y="525" width="130" height="35" rx="5" fill="#F3E5F5" stroke="#9C27B0" stroke-width="1"/>
+  <text x="325" y="540" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#6A1B9A">
+    Lavere Kostnader
+  </text>
+  <text x="325" y="552" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#666">
+    Digitalisering
+  </text>
+  
+  <rect x="400" y="525" width="130" height="35" rx="5" fill="#FFF3E0" stroke="#FF9800" stroke-width="1"/>
+  <text x="465" y="540" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#F57C00">
+    Ny Risikoprofil
+  </text>
+  <text x="465" y="552" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#666">
+    Teknologirisiko
+  </text>
+  
+  <rect x="540" y="525" width="130" height="35" rx="5" fill="#E8F5E8" stroke="#4CAF50" stroke-width="1"/>
+  <text x="605" y="540" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#2E7D32">
+    Bærekraftig Fokus
+  </text>
+  <text x="605" y="552" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#666">
+    ESG-krav
+  </text>
+  
+  <!-- Future timeline indicator -->
+  <text x="400" y="590" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+    Kassebeholdning vil bli mer intelligent, automatisert og bærekraftig
+  </text>
+</svg>

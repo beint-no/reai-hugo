@@ -1,0 +1,123 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="rightGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#10b981;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#059669;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="dutyGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="2" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.1"/>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8fafc"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e293b" text-anchor="middle">Rettigheter og Plikter ved Purring</text>
+  <text x="400" y="65" font-family="Arial, sans-serif" font-size="16" fill="#64748b" text-anchor="middle">Oversikt over juridiske forhold</text>
+  
+  <!-- Customer Rights Section -->
+  <rect x="50" y="100" width="320" height="400" fill="url(#rightGradient)" rx="15" filter="url(#shadow)"/>
+  <text x="210" y="135" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">KUNDENS RETTIGHETER</text>
+  
+  <!-- Shield icon -->
+  <polygon points="210,150 190,160 190,190 210,200 230,190 230,160" fill="white" opacity="0.3"/>
+  <polygon points="210,155 195,162 195,185 210,195 225,185 225,162" fill="white"/>
+  <text x="210" y="180" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#059669" text-anchor="middle">⚖</text>
+  
+  <!-- Rights list -->
+  <circle cx="80" cy="230" r="6" fill="white"/>
+  <text x="76" y="235" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#059669" text-anchor="middle">1</text>
+  <text x="100" y="225" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Innsyn i grunnlaget</text>
+  <text x="100" y="240" font-family="Arial, sans-serif" font-size="10" fill="white">Rett til å se dokumentasjon</text>
+  <text x="100" y="253" font-family="Arial, sans-serif" font-size="10" fill="white">for kravet og purregebyret</text>
+  
+  <circle cx="80" cy="280" r="6" fill="white"/>
+  <text x="76" y="285" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#059669" text-anchor="middle">2</text>
+  <text x="100" y="275" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Bestriding av kravet</text>
+  <text x="100" y="290" font-family="Arial, sans-serif" font-size="10" fill="white">Rett til å protestere på</text>
+  <text x="100" y="303" font-family="Arial, sans-serif" font-size="10" fill="white">urettmessige krav</text>
+  
+  <circle cx="80" cy="330" r="6" fill="white"/>
+  <text x="76" y="335" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#059669" text-anchor="middle">3</text>
+  <text x="100" y="325" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Betalingsordninger</text>
+  <text x="100" y="340" font-family="Arial, sans-serif" font-size="10" fill="white">Rett til å forhandle om</text>
+  <text x="100" y="353" font-family="Arial, sans-serif" font-size="10" fill="white">avdragsordninger</text>
+  
+  <circle cx="80" cy="380" r="6" fill="white"/>
+  <text x="76" y="385" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#059669" text-anchor="middle">4</text>
+  <text x="100" y="375" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Klage på gebyrer</text>
+  <text x="100" y="390" font-family="Arial, sans-serif" font-size="10" fill="white">Rett til å klage på</text>
+  <text x="100" y="403" font-family="Arial, sans-serif" font-size="10" fill="white">urimelige purregebyrer</text>
+  
+  <circle cx="80" cy="430" r="6" fill="white"/>
+  <text x="76" y="435" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#059669" text-anchor="middle">5</text>
+  <text x="100" y="425" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Juridisk veiledning</text>
+  <text x="100" y="440" font-family="Arial, sans-serif" font-size="10" fill="white">Rett til å søke juridisk</text>
+  <text x="100" y="453" font-family="Arial, sans-serif" font-size="10" fill="white">bistand ved tvister</text>
+  
+  <!-- Creditor Duties Section -->
+  <rect x="430" y="100" width="320" height="400" fill="url(#dutyGradient)" rx="15" filter="url(#shadow)"/>
+  <text x="590" y="135" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">KREDITORS PLIKTER</text>
+  
+  <!-- Balance icon -->
+  <rect x="575" y="150" width="30" height="4" fill="white"/>
+  <circle cx="580" cy="152" r="3" fill="white"/>
+  <circle cx="600" cy="152" r="3" fill="white"/>
+  <rect x="588" y="154" width="4" height="20" fill="white"/>
+  <rect x="575" y="174" width="30" height="4" fill="white"/>
+  
+  <!-- Duties list -->
+  <circle cx="460" cy="230" r="6" fill="white"/>
+  <text x="456" y="235" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#1d4ed8" text-anchor="middle">1</text>
+  <text x="480" y="225" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Rimelige gebyrer</text>
+  <text x="480" y="240" font-family="Arial, sans-serif" font-size="10" fill="white">Purregebyr må stå i forhold</text>
+  <text x="480" y="253" font-family="Arial, sans-serif" font-size="10" fill="white">til faktiske kostnader</text>
+  
+  <circle cx="460" cy="280" r="6" fill="white"/>
+  <text x="456" y="285" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#1d4ed8" text-anchor="middle">2</text>
+  <text x="480" y="275" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Korrekt informasjon</text>
+  <text x="480" y="290" font-family="Arial, sans-serif" font-size="10" fill="white">Må gi riktige opplysninger</text>
+  <text x="480" y="303" font-family="Arial, sans-serif" font-size="10" fill="white">om krav og rettigheter</text>
+  
+  <circle cx="460" cy="330" r="6" fill="white"/>
+  <text x="456" y="335" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#1d4ed8" text-anchor="middle">3</text>
+  <text x="480" y="325" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Dokumentasjon</text>
+  <text x="480" y="340" font-family="Arial, sans-serif" font-size="10" fill="white">Må kunne dokumentere</text>
+  <text x="480" y="353" font-family="Arial, sans-serif" font-size="10" fill="white">det opprinnelige kravet</text>
+  
+  <circle cx="460" cy="380" r="6" fill="white"/>
+  <text x="456" y="385" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#1d4ed8" text-anchor="middle">4</text>
+  <text x="480" y="375" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Respekt for avtaler</text>
+  <text x="480" y="390" font-family="Arial, sans-serif" font-size="10" fill="white">Må overholde inngåtte</text>
+  <text x="480" y="403" font-family="Arial, sans-serif" font-size="10" fill="white">betalingsavtaler</text>
+  
+  <circle cx="460" cy="430" r="6" fill="white"/>
+  <text x="456" y="435" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#1d4ed8" text-anchor="middle">5</text>
+  <text x="480" y="425" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Overholdelse av lov</text>
+  <text x="480" y="440" font-family="Arial, sans-serif" font-size="10" fill="white">Må følge inkassoloven</text>
+  <text x="480" y="453" font-family="Arial, sans-serif" font-size="10" fill="white">og forbrukerbeskyttelse</text>
+  
+  <!-- Warning box at bottom -->
+  <rect x="100" y="520" width="600" height="60" fill="#fef2f2" stroke="#ef4444" stroke-width="2" rx="10"/>
+  <polygon points="130,540 120,560 140,560" fill="#ef4444"/>
+  <text x="130" y="555" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white" text-anchor="middle">!</text>
+  
+  <text x="160" y="540" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#dc2626">Sanksjoner ved brudd:</text>
+  <text x="160" y="555" font-family="Arial, sans-serif" font-size="11" fill="#dc2626">• Bortfall av krav på purregebyr • Erstatningsansvar • Administrative sanksjoner</text>
+  <text x="160" y="570" font-family="Arial, sans-serif" font-size="11" fill="#dc2626">• Tap av inkassotillatelse for profesjonelle aktører</text>
+  
+  <!-- Central balance element -->
+  <circle cx="400" cy="300" r="40" fill="white" stroke="#64748b" stroke-width="3" filter="url(#shadow)"/>
+  <text x="400" y="290" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b" text-anchor="middle">BALANSE</text>
+  <text x="400" y="305" font-family="Arial, sans-serif" font-size="10" fill="#64748b" text-anchor="middle">mellom</text>
+  <text x="400" y="318" font-family="Arial, sans-serif" font-size="10" fill="#64748b" text-anchor="middle">interesser</text>
+  
+  <!-- Connecting lines -->
+  <line x1="370" y1="300" x2="360" y2="300" stroke="#64748b" stroke-width="2"/>
+  <line x1="430" y1="300" x2="440" y2="300" stroke="#64748b" stroke-width="2"/>
+</svg>

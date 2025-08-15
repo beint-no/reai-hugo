@@ -1,7 +1,7 @@
 {{ define "main" }}
 <section class="pt-10 md:pt-14">
   <div class="max-w-3xl mx-auto px-4">
-    <h1 class="text-3xl font-semibold tracking-tight">{{ .Title }}</h1>
+    <h1 class="text-3xl font-semibold tracking-tight text-center">{{ .Title }}</h1>
     {{ with .Params.summary }}<p class="mt-2 text-gray-700">{{ . }}</p>{{ end }}
     <article class="prose max-w-none mt-6">{{ .Content }}</article>
   </div>

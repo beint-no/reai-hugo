@@ -1,0 +1,345 @@
+<!doctype html>
+<html lang="nb">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Protokoll | ReAI</title>
+  <meta name="description" content="Komplett regnskapssystem med faktura, lønn, bilagsføring og årsoppgjør.">
+  
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<script src="https://cdn.tailwindcss.com?plugins=typography"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        fontFamily: { sans: ['Inter','ui-sans-serif','system-ui','Arial','sans-serif'] },
+        colors: {
+          brand: { DEFAULT: '#111827' },
+          accent: { DEFAULT: '#2563eb' }
+        }
+      }
+    }
+  }
+</script>
+<style>
+   
+  header .header-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #000 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link:hover { background-position: 0; }
+  header .header-link:hover::before { width: 100%; }
+
+  footer .footer-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #ffffff 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link:hover { background-position: 0; }
+  footer .footer-link:hover::before { width: 100%; }
+</style>
+<style>
+   
+  .prose { overflow-wrap: anywhere; word-break: break-word; }
+  .prose img { max-width: 100%; height: auto; }
+  .prose table { display: block; width: 100%; overflow-x: auto; }
+  .prose pre { white-space: pre-wrap; word-break: break-word; overflow-x: auto; }
+  .prose code { word-break: break-word; }
+  .prose iframe, .prose video { max-width: 100%; width: 100%; height: auto; }
+</style>
+<style>
+   
+  button,
+  .btn,
+  a.btn,
+  .button,
+  .cta,
+  .link-button,
+   
+  a.inline-flex.rounded-md,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"] {
+    transition: transform 220ms ease, box-shadow 220ms ease, background-color 220ms ease, color 220ms ease, opacity 220ms ease;
+    will-change: transform, box-shadow;
+  }
+
+  button:hover,
+  .btn:hover,
+  a.btn:hover,
+  .button:hover,
+  .cta:hover,
+  .link-button:hover,
+  a.inline-flex.rounded-md:hover,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+
+  button:active,
+  .btn:active,
+  a.btn:active,
+  .button:active,
+  .cta:active,
+  .link-button:active,
+  a.inline-flex.rounded-md:active,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:active {
+    transform: translateY(-1px) scale(0.99);
+    box-shadow: 0 6px 12px rgba(2, 6, 23, 0.1);
+  }
+
+  button:focus-visible,
+  .btn:focus-visible,
+  a.btn:focus-visible,
+  .button:focus-visible,
+  .cta:focus-visible,
+  .link-button:focus-visible,
+  a.inline-flex.rounded-md:focus-visible,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.35), 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+</style>
+
+<link rel="icon" type="image/svg+xml" href="/images/ReAI-logo-square.svg">
+<link rel="shortcut icon" href="/images/ReAI-logo-square.svg">
+
+</head>
+<body class="min-h-dvh bg-white text-gray-900 font-sans">
+  <header class="sticky top-0 z-40 bg-white/80 backdrop-blur">
+  
+  <div class="border-b border-slate-200/70">
+    <div class="max-w-7xl mx-auto px-4">
+      <div class="h-16 flex items-center justify-between">
+        <a href="/" class="flex items-center gap-2" aria-label="ReAI">
+          <img src="/images/ReAI-logo-square.svg?v=4" alt="ReAI logo" class="h-14 w-14 rounded-md mt-5" width="56" height="56" loading="eager" decoding="async">
+        </a>
+        <nav class="hidden md:block">
+          <ul class="flex items-center gap-5 text-sm">
+            <li><a href="/courses/" class="header-link text-slate-700 hover:text-black">Gratis kurs</a></li>
+            <li><a href="/contact/" class="header-link text-slate-700 hover:text-black">Kontakt oss</a></li>
+            <li><a href="/blog/" class="header-link text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+            <li><a href="/bli-partner/" class="header-link text-slate-700 hover:text-black">Bli partner</a></li>
+            <li><a href="/fakturamal/" class="header-link text-slate-700 hover:text-black">Lag faktura</a></li>
+          </ul>
+        </nav>
+        <button id="mobileMenuBtn" aria-controls="mobileMenu" aria-expanded="false" class="md:hidden inline-flex items-center justify-center h-9 w-9 rounded-md border border-slate-300">
+          <span class="sr-only">Menu</span>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-5 w-5"><path d="M3.75 6.75h16.5v1.5H3.75zM3.75 11.25h16.5v1.5H3.75zM3.75 15.75h16.5v1.5H3.75z"/></svg>
+        </button>
+      </div>
+    </div>
+  </div>
+  
+  <nav id="mobileMenu" class="md:hidden hidden border-b border-slate-200/70 bg-white/95 backdrop-blur">
+    <div class="max-w-7xl mx-auto px-4 py-3">
+      <ul class="flex flex-col items-center gap-3 text-sm text-center">
+        <li><a href="/courses/" class="header-link block text-slate-700 hover:text-black">Gratis kurs</a></li>
+        <li><a href="/contact/" class="header-link block text-slate-700 hover:text-black">Kontakt oss</a></li>
+        <li><a href="/blog/" class="header-link block text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+        <li><a href="/bli-partner/" class="header-link block text-slate-700 hover:text-black">Bli partner</a></li>
+        <li><a href="/fakturamal/" class="header-link block text-slate-700 hover:text-black">Lag faktura</a></li>
+      </ul>
+    </div>
+  </nav>
+  <script>
+    (function() {
+      const btn = document.getElementById('mobileMenuBtn');
+      const menu = document.getElementById('mobileMenu');
+      if (!btn || !menu) return;
+      btn.addEventListener('click', function() {
+        const isHidden = menu.classList.contains('hidden');
+        menu.classList.toggle('hidden');
+        btn.setAttribute('aria-expanded', String(isHidden));
+      });
+    })();
+  </script>
+</header>
+  <main>
+    
+<section class="pt-10 md:pt-14">
+  <div class="max-w-3xl mx-auto px-4">
+    <h1 class="text-3xl font-semibold tracking-tight text-center">Protokoll</h1>
+    <p class="mt-2 text-gray-700">Protokoll er det formelle dokumentet som dokumenterer vedtak og diskusjoner i generalforsamling og styremøter. Denne guiden dekker krav, struktur, roller og oppbevaring av protokoller i norske selskaper.</p>
+    <article class="prose max-w-none mt-6"><p><strong>Protokoll</strong> er det formelle dokumentet som <strong>dokumenterer</strong> vedtak, diskusjoner og beslutningsprosesser i <strong>generalforsamlinger</strong>, <strong>styremøter</strong> og andre formelle selskapsorganer. En korrekt ført protokoll er avgjørende for å sikre <strong>sporbarhet</strong> og <strong>gjennomsiktighet</strong> i regnskapet.</p>
+<p><img src="protokoll-image.svg" alt="Protokoll"></p>
+<h2 id="hva-er-protokoll">Hva er protokoll?</h2>
+<p>En <strong>protokoll</strong> er et offisielt møtereferat som dokumenterer hvem som var til stede, hvilke saker som ble behandlet, diskusjoner, vedtak og stemmeresultater. Protokoller er et lovpålagt krav for flere typer formelle møter i norske selskaper, blant annet ordinære og ekstraordinære generalforsamlinger og styremøter.</p>
+<h2 id="formelle-krav-til-protokoll">Formelle krav til protokoll</h2>
+<p>For å oppfylle lovkrav må protokollene inneholde følgende:</p>
+<ul>
+<li>Skal føres for både <strong>ordinære og ekstraordinære generalforsamlinger</strong> (se <a href="/blogs/regnskap/hva-er-generalforsamling" title="Hva er generalforsamling? Guide til generalforsamling">Hva er generalforsamling?</a>).</li>
+<li>Skal føres for <strong>styremøter</strong> i henhold til <a href="/blogs/regnskap/hva-er-aksjeloven" title="Hva er Aksjeloven? Regler for Aksjeselskaper i Norge">Aksjeloven</a>.</li>
+<li>Må angi dato, sted, deltakerliste, behandlede saker, vedtak og stemmeresultater.</li>
+<li>Protokollen skal underskrives av møteleder og minst ett annet møtevalgt medlem.</li>
+<li>Oppbevares i minst <strong>10 år</strong> etter regnskapsårets slutt i henhold til <a href="/blogs/regnskap/hva-er-bokforingsloven" title="Hva er Bokføringsloven? Krav til bokføring og oppbevaring">Bokføringsloven</a>.</li>
+</ul>
+<h2 id="hovedkomponenter-i-en-protokoll">Hovedkomponenter i en protokoll</h2>
+<table>
+  <thead>
+      <tr>
+          <th>Komponent</th>
+          <th>Beskrivelse</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>Møteinformasjon</strong></td>
+          <td>Dato, tid og sted</td>
+      </tr>
+      <tr>
+          <td><strong>Deltakere</strong></td>
+          <td>Navn på møtedeltakere og deres roller</td>
+      </tr>
+      <tr>
+          <td><strong>Behandlede saker</strong></td>
+          <td>Overskrift og innhold for hver sak</td>
+      </tr>
+      <tr>
+          <td><strong>Vedtak og stemmer</strong></td>
+          <td>Resultat av avstemming</td>
+      </tr>
+      <tr>
+          <td><strong>Underskrifter</strong></td>
+          <td>Signaturer fra møteleder og møtevalgte medlemmer</td>
+      </tr>
+  </tbody>
+</table>
+<p><img src="protokoll-komponenter.svg" alt="Hovedkomponenter i protokoll"></p>
+<h2 id="roller-og-ansvar">Roller og ansvar</h2>
+<table>
+  <thead>
+      <tr>
+          <th>Rolle</th>
+          <th>Ansvar</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Møteleder</td>
+          <td>Lede møtet og sikre korrekt prosess</td>
+      </tr>
+      <tr>
+          <td>Protokollfører</td>
+          <td>Skrive protokoll og dokumentere vedtak</td>
+      </tr>
+      <tr>
+          <td>Styremedlemmer</td>
+          <td>Diskutere saker og avgi stemmer</td>
+      </tr>
+      <tr>
+          <td>Aksjonærer</td>
+          <td>Delta, diskutere og stemme</td>
+      </tr>
+  </tbody>
+</table>
+<p><img src="protokoll-roller.svg" alt="Roller i protokollføring"></p>
+<h2 id="protokollprosessen">Protokollprosessen</h2>
+<ol>
+<li><strong>Innkalling og dagsorden:</strong> Distribuer innkalling i samsvar med <a href="/blogs/regnskap/hva-er-vedtekter-for-aksjeselskap" title="Hva er Vedtekter for Aksjeselskap?">Vedtekter</a>.</li>
+<li><strong>Gjennomføring av møtet:</strong> Lede møtet, behandle saker og registrere diskusjoner.</li>
+<li><strong>Utarbeidelse av protokoll:</strong> Protokollfører skriver referat med alle nødvendige detaljer.</li>
+<li><strong>Underskrift:</strong> Møteleder og utpekte medlemmer underskriver protokollen.</li>
+<li><strong>Distribusjon og oppbevaring:</strong> Arkiver protokollen i samsvar med <a href="/blogs/regnskap/hva-er-bokforingsloven" title="Hva er Bokføringsloven? Krav til bokføring og oppbevaring">Bokføringsloven</a> og <a href="/blogs/regnskap/oppbevaring-av-regnskapsmateriale" title="Oppbevaring av regnskapsmateriale">Oppbevaring av regnskapsmateriale</a>.</li>
+</ol>
+<p><img src="protokoll-prosess.svg" alt="Flyt for protokollprosess"></p>
+<h2 id="oppbevaring-av-protokoll">Oppbevaring av protokoll</h2>
+<p>I henhold til <a href="/blogs/regnskap/hva-er-bokforingsloven" title="Hva er Bokføringsloven? Krav til bokføring og oppbevaring">Bokføringsloven</a> skal protokoller oppbevares i minst ti år etter regnskapsårets slutt. Protokoller regnes som regnskapsmateriale og må være tilgjengelige ved bokettersyn.</p>
+<h2 id="beste-praksis">Beste praksis</h2>
+<ul>
+<li><strong>Standardiser maler:</strong> Bruk en fast mal for å sikre konsistens.</li>
+<li><strong>Digital arkivering:</strong> Vurder elektroniske protokoller og verifiser at digitale signaturer er gyldige.</li>
+<li><strong>Versjonskontroll:</strong> Sørg for at endringer er dokumentert og tidligere versjoner arkiveres.</li>
+<li><strong>Sikker oppbevaring:</strong> Beskytt protokoller mot uautorisert tilgang og datatap.</li>
+<li><strong>Regelmessig opplæring:</strong> Gi opplæring i korrekt protokollføring for nøkkelpersonell.</li>
+</ul>
+<h2 id="relaterte-artikler">Relaterte artikler</h2>
+<ul>
+<li><a href="/blogs/regnskap/hva-er-generalforsamling" title="Hva er generalforsamling? Guide til generalforsamling">Hva er generalforsamling?</a></li>
+<li><a href="/blogs/regnskap/hva-er-vedtekter-for-aksjeselskap" title="Hva er Vedtekter for Aksjeselskap?">Hva er vedtekter for aksjeselskap?</a></li>
+<li><a href="/blogs/regnskap/hva-er-aksjeloven" title="Hva er Aksjeloven? Regler for Aksjeselskaper i Norge">Hva er aksjeloven?</a></li>
+<li><a href="/blogs/regnskap/oppbevaring-av-regnskapsmateriale" title="Oppbevaring av regnskapsmateriale">Oppbevaring av regnskapsmateriale</a></li>
+<li><a href="/blogs/regnskap/noter" title="Noter – Guide til regnskapsnoter">Noter</a></li>
+</ul>
+</article>
+  </div>
+</section>
+
+  </main>
+  <footer class="mt-16 border-t border-slate-800/60 bg-slate-900">
+  <div class="max-w-7xl mx-auto px-4 py-14">
+    <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3 text-center sm:text-left">
+      
+      <div>
+        <h3 class="text-sm font-semibold text-white">Verktøy</h3>
+        <ul class="mt-2 space-y-2 text-sm text-slate-300">
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/finn-iban/">IBAN kalkulator</a></li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/lag-faktura-gratis/">Lag faktura</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Selskaps-informasjon</h3>
+        <ul class="mt-2 space-y-1 text-sm text-slate-300">
+          <li>Reai AS</li>
+          <li>Orgnr: 935606403</li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="mailto:post@reai.no">post@reai.no</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Om ReAI</h3>
+        <p class="mt-2 text-sm text-slate-300">ReAI er et gratis regnskapsprogram laget av tidligere ansatte i Tripletex
+          / Visma. Vi mener det er på tide med mer konkurranse i regnskaps-bransjen som kan komme bedrifter til gode.
+        </p>
+      </div>
+    </div>
+    <div class="mt-12 border-t border-slate-800/60 pt-6 flex flex-col items-center sm:flex-row sm:items-center sm:justify-between text-sm text-slate-400 text-center sm:text-left">
+      <div class="flex items-center gap-2">
+        
+        
+      </div>
+      <div class="mt-4 sm:mt-0 flex items-center justify-center sm:justify-end">
+        <div class="opacity-80">&copy; 2025 ReAI. All rights reserved.</div>
+      </div>
+    </div>
+  </div>
+</footer>
+</body>
+</html>

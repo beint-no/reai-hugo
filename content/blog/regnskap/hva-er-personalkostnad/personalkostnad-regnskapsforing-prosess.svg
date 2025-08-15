@@ -1,0 +1,127 @@
+<svg width="550" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="processBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
+    </linearGradient>
+    <marker id="processArrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#475569"/>
+    </marker>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="550" height="400" fill="url(#processBg)" stroke="#cbd5e1" stroke-width="2"/>
+  
+  <!-- Title -->
+  <text x="275" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">Personalkostnad - Regnskapsføringsprosess</text>
+  
+  <!-- Step 1: Lønnskjøring -->
+  <rect x="30" y="60" width="120" height="80" fill="#dbeafe" stroke="#3b82f6" stroke-width="2" rx="8"/>
+  <text x="90" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e40af">1. Lønnskjøring</text>
+  <text x="90" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#1d4ed8">• Grunnlønn</text>
+  <text x="90" y="107" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#1d4ed8">• Overtid</text>
+  <text x="90" y="119" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#1d4ed8">• Tillegg</text>
+  <text x="90" y="131" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#1d4ed8">• Trekk</text>
+  
+  <!-- Step 2: Beregning sosiale kostnader -->
+  <rect x="200" y="60" width="120" height="80" fill="#fef3c7" stroke="#f59e0b" stroke-width="2" rx="8"/>
+  <text x="260" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#92400e">2. Sosiale kostnader</text>
+  <text x="260" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#b45309">• Feriepenger</text>
+  <text x="260" y="107" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#b45309">• Arbeidsgiveravgift</text>
+  <text x="260" y="119" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#b45309">• Pensjon</text>
+  <text x="260" y="131" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#b45309">• Forsikring</text>
+  
+  <!-- Step 3: Periodisering -->
+  <rect x="370" y="60" width="120" height="80" fill="#d1fae5" stroke="#10b981" stroke-width="2" rx="8"/>
+  <text x="430" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#065f46">3. Periodisering</text>
+  <text x="430" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#047857">• Feriepengeravsetning</text>
+  <text x="430" y="107" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#047857">• Bonusavsetning</text>
+  <text x="430" y="119" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#047857">• Overtidskompensasjon</text>
+  
+  <!-- Arrows between steps -->
+  <path d="M 150 100 L 190 100" fill="none" stroke="#475569" stroke-width="2" marker-end="url(#processArrow)"/>
+  <path d="M 320 100 L 360 100" fill="none" stroke="#475569" stroke-width="2" marker-end="url(#processArrow)"/>
+  
+  <!-- Bookkeeping table -->
+  <rect x="30" y="170" width="490" height="180" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2" rx="8"/>
+  <text x="275" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">Regnskapsføringseksempel</text>
+  
+  <!-- Table header -->
+  <rect x="50" y="200" width="200" height="25" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+  <rect x="250" y="200" width="80" height="25" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+  <rect x="330" y="200" width="80" height="25" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+  <rect x="410" y="200" width="100" height="25" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+  
+  <text x="150" y="217" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#374151">Konto</text>
+  <text x="290" y="217" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#374151">Debet</text>
+  <text x="370" y="217" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#374151">Kredit</text>
+  <text x="460" y="217" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#374151">Beskrivelse</text>
+  
+  <!-- Table rows -->
+  <rect x="50" y="225" width="200" height="20" fill="white" stroke="#94a3b8" stroke-width="1"/>
+  <rect x="250" y="225" width="80" height="20" fill="white" stroke="#94a3b8" stroke-width="1"/>
+  <rect x="330" y="225" width="80" height="20" fill="white" stroke="#94a3b8" stroke-width="1"/>
+  <rect x="410" y="225" width="100" height="20" fill="white" stroke="#94a3b8" stroke-width="1"/>
+  
+  <text x="60" y="238" font-family="Arial, sans-serif" font-size="9" fill="#374151">Lønnskostnad</text>
+  <text x="290" y="238" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#374151">100 000</text>
+  <text x="370" y="238" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#374151">-</text>
+  <text x="420" y="238" font-family="Arial, sans-serif" font-size="8" fill="#374151">Grunnlønn</text>
+  
+  <rect x="50" y="245" width="200" height="20" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"/>
+  <rect x="250" y="245" width="80" height="20" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"/>
+  <rect x="330" y="245" width="80" height="20" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"/>
+  <rect x="410" y="245" width="100" height="20" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"/>
+  
+  <text x="60" y="258" font-family="Arial, sans-serif" font-size="9" fill="#374151">Feriepengekostnad</text>
+  <text x="290" y="258" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#374151">12 000</text>
+  <text x="370" y="258" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#374151">-</text>
+  <text x="420" y="258" font-family="Arial, sans-serif" font-size="8" fill="#374151">12% av grunnlønn</text>
+  
+  <rect x="50" y="265" width="200" height="20" fill="white" stroke="#94a3b8" stroke-width="1"/>
+  <rect x="250" y="265" width="80" height="20" fill="white" stroke="#94a3b8" stroke-width="1"/>
+  <rect x="330" y="265" width="80" height="20" fill="white" stroke="#94a3b8" stroke-width="1"/>
+  <rect x="410" y="265" width="100" height="20" fill="white" stroke="#94a3b8" stroke-width="1"/>
+  
+  <text x="60" y="278" font-family="Arial, sans-serif" font-size="9" fill="#374151">Arbeidsgiveravgift</text>
+  <text x="290" y="278" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#374151">14 100</text>
+  <text x="370" y="278" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#374151">-</text>
+  <text x="420" y="278" font-family="Arial, sans-serif" font-size="8" fill="#374151">14,1% av grunnlag</text>
+  
+  <rect x="50" y="285" width="200" height="20" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"/>
+  <rect x="250" y="285" width="80" height="20" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"/>
+  <rect x="330" y="285" width="80" height="20" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"/>
+  <rect x="410" y="285" width="100" height="20" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"/>
+  
+  <text x="60" y="298" font-family="Arial, sans-serif" font-size="9" fill="#374151">Pensjonskostnad</text>
+  <text x="290" y="298" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#374151">4 000</text>
+  <text x="370" y="298" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#374151">-</text>
+  <text x="420" y="298" font-family="Arial, sans-serif" font-size="8" fill="#374151">4% av lønn</text>
+  
+  <rect x="50" y="305" width="200" height="20" fill="white" stroke="#94a3b8" stroke-width="1"/>
+  <rect x="250" y="305" width="80" height="20" fill="white" stroke="#94a3b8" stroke-width="1"/>
+  <rect x="330" y="305" width="80" height="20" fill="white" stroke="#94a3b8" stroke-width="1"/>
+  <rect x="410" y="305" width="100" height="20" fill="white" stroke="#94a3b8" stroke-width="1"/>
+  
+  <text x="60" y="318" font-family="Arial, sans-serif" font-size="9" fill="#374151">Skyldig lønn</text>
+  <text x="290" y="318" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#374151">-</text>
+  <text x="370" y="318" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#374151">75 000</text>
+  <text x="420" y="318" font-family="Arial, sans-serif" font-size="8" fill="#374151">Nettolønn</text>
+  
+  <rect x="50" y="325" width="200" height="20" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"/>
+  <rect x="250" y="325" width="80" height="20" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"/>
+  <rect x="330" y="325" width="80" height="20" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"/>
+  <rect x="410" y="325" width="100" height="20" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"/>
+  
+  <text x="60" y="338" font-family="Arial, sans-serif" font-size="9" fill="#374151">Diverse skyldig</text>
+  <text x="290" y="338" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#374151">-</text>
+  <text x="370" y="338" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#374151">55 100</text>
+  <text x="420" y="338" font-family="Arial, sans-serif" font-size="8" fill="#374151">Avgifter &amp; avsetninger</text>
+  
+  <!-- Total row -->
+  <rect x="50" y="345" width="460" height="2" fill="#374151"/>
+  
+  <!-- Summary -->
+  <text x="275" y="375" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#374151">Total personalkostnad: 130 100 kr (130% av grunnlønn)</text>
+  <text x="275" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#64748b">Månedlig kostnadsføring sikrer korrekt periodisering</text>
+</svg>

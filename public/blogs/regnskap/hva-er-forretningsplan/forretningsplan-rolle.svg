@@ -1,0 +1,161 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="planGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="url(#bgGradient)"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#212529">
+    Forretningsplanens Rolle i Økonomistyring
+  </text>
+  
+  <!-- Central business plan -->
+  <g transform="translate(350, 100)">
+    <circle cx="50" cy="50" r="60" fill="url(#planGradient)" stroke="#003366" stroke-width="3"/>
+    <text x="50" y="45" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+      Forretnings-
+    </text>
+    <text x="50" y="60" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+      plan
+    </text>
+  </g>
+  
+  <!-- Budget Integration -->
+  <g transform="translate(100, 80)">
+    <rect x="0" y="0" width="120" height="80" fill="#e8f5e8" stroke="#28a745" stroke-width="2" rx="8"/>
+    <text x="60" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#155724">
+      Budsjett-
+    </text>
+    <text x="60" y="35" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#155724">
+      integrasjon
+    </text>
+    <text x="60" y="55" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#155724">
+      Finansielle prognoser
+    </text>
+    <text x="60" y="68" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#155724">
+      danner grunnlag
+    </text>
+  </g>
+  
+  <!-- Arrow from budget to plan -->
+  <g transform="translate(220, 120)">
+    <path d="M0,0 L110,0 L105,-6 M110,0 L105,6" stroke="#28a745" stroke-width="2" fill="none"/>
+  </g>
+  
+  <!-- Account Structure -->
+  <g transform="translate(580, 80)">
+    <rect x="0" y="0" width="120" height="80" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="8"/>
+    <text x="60" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#856404">
+      Kontoplan-
+    </text>
+    <text x="60" y="35" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#856404">
+      tilpasning
+    </text>
+    <text x="60" y="55" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#856404">
+      Planlagte aktiviteter
+    </text>
+    <text x="60" y="68" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#856404">
+      påvirker struktur
+    </text>
+  </g>
+  
+  <!-- Arrow from plan to account structure -->
+  <g transform="translate(470, 120)">
+    <path d="M0,0 L110,0 L105,-6 M110,0 L105,6" stroke="#ffc107" stroke-width="2" fill="none"/>
+  </g>
+  
+  <!-- Reporting Foundation -->
+  <g transform="translate(100, 250)">
+    <rect x="0" y="0" width="120" height="80" fill="#f8d7da" stroke="#dc3545" stroke-width="2" rx="8"/>
+    <text x="60" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#721c24">
+      Rapporterings-
+    </text>
+    <text x="60" y="35" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#721c24">
+      grunnlag
+    </text>
+    <text x="60" y="55" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#721c24">
+      Definerer kritiske
+    </text>
+    <text x="60" y="68" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#721c24">
+      nøkkeltall
+    </text>
+  </g>
+  
+  <!-- Arrow from plan to reporting -->
+  <g transform="translate(330, 200)">
+    <path d="M0,0 L-110,50 L-105,44 M-110,50 L-105,56" stroke="#dc3545" stroke-width="2" fill="none"/>
+  </g>
+  
+  <!-- Accounting System -->
+  <g transform="translate(580, 250)">
+    <rect x="0" y="0" width="120" height="80" fill="#d1ecf1" stroke="#17a2b8" stroke-width="2" rx="8"/>
+    <text x="60" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0c5460">
+      Regnskaps-
+    </text>
+    <text x="60" y="35" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0c5460">
+      system
+    </text>
+    <text x="60" y="55" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#0c5460">
+      Kontinuerlig
+    </text>
+    <text x="60" y="68" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#0c5460">
+      oppfølging
+    </text>
+  </g>
+  
+  <!-- Arrow from plan to accounting system -->
+  <g transform="translate(470, 200)">
+    <path d="M0,0 L110,50 L105,44 M110,50 L105,56" stroke="#17a2b8" stroke-width="2" fill="none"/>
+  </g>
+  
+  <!-- Central connection lines -->
+  <g transform="translate(350, 200)">
+    <!-- Vertical line down from plan -->
+    <line x1="50" y1="0" x2="50" y2="80" stroke="#6c757d" stroke-width="2" stroke-dasharray="5,5"/>
+  </g>
+  
+  <!-- Bottom integration box -->
+  <g transform="translate(300, 350)">
+    <rect x="0" y="0" width="200" height="100" fill="white" stroke="#6c757d" stroke-width="2" rx="10"/>
+    <text x="100" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#212529">
+      Integrert Økonomistyring
+    </text>
+    
+    <!-- Integration elements -->
+    <g transform="translate(20, 40)">
+      <circle cx="8" cy="8" r="6" fill="#28a745"/>
+      <path d="M5,8 L7,10 L11,6" stroke="white" stroke-width="1.5" fill="none"/>
+      <text x="20" y="12" font-family="Arial, sans-serif" font-size="10" fill="#212529">Strategisk planlegging</text>
+    </g>
+    
+    <g transform="translate(20, 60)">
+      <circle cx="8" cy="8" r="6" fill="#28a745"/>
+      <path d="M5,8 L7,10 L11,6" stroke="white" stroke-width="1.5" fill="none"/>
+      <text x="20" y="12" font-family="Arial, sans-serif" font-size="10" fill="#212529">Operasjonell kontroll</text>
+    </g>
+    
+    <g transform="translate(20, 80)">
+      <circle cx="8" cy="8" r="6" fill="#28a745"/>
+      <path d="M5,8 L7,10 L11,6" stroke="white" stroke-width="1.5" fill="none"/>
+      <text x="20" y="12" font-family="Arial, sans-serif" font-size="10" fill="#212529">Finansiell rapportering</text>
+    </g>
+  </g>
+  
+  <!-- Connection arrows to integration box -->
+  <g transform="translate(160, 330)">
+    <path d="M0,0 L120,20 L115,14 M120,20 L115,26" stroke="#6c757d" stroke-width="2" fill="none"/>
+  </g>
+  
+  <g transform="translate(520, 330)">
+    <path d="M0,0 L-120,20 L-115,14 M-120,20 L-115,26" stroke="#6c757d" stroke-width="2" fill="none"/>
+  </g>
+</svg>

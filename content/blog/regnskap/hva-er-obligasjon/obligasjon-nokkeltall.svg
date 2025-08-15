@@ -1,0 +1,90 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="url(#bgGradient)"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">Obligasjoners Påvirkning på Finansielle Nøkkeltall</text>
+  
+  <!-- Balance Sheet Impact -->
+  <rect x="50" y="60" width="340" height="180" rx="10" fill="white" stroke="#28a745" stroke-width="2"/>
+  <text x="220" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#28a745">Balanse</text>
+  
+  <!-- Assets side -->
+  <rect x="70" y="100" width="140" height="120" rx="5" fill="#d4edda" stroke="#28a745" stroke-width="1"/>
+  <text x="140" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#155724">EIENDELER</text>
+  <text x="80" y="140" font-family="Arial, sans-serif" font-size="10" fill="#155724">Obligasjoner (omløpsmidler)</text>
+  <text x="80" y="155" font-family="Arial, sans-serif" font-size="10" fill="#155724">+ Kortsiktige obligasjoner</text>
+  <text x="80" y="170" font-family="Arial, sans-serif" font-size="10" fill="#155724">Obligasjoner (anleggsmidler)</text>
+  <text x="80" y="185" font-family="Arial, sans-serif" font-size="10" fill="#155724">+ Langsiktige obligasjoner</text>
+  <text x="80" y="205" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="#28a745">→ Øker likviditet</text>
+  
+  <!-- Liabilities side -->
+  <rect x="230" y="100" width="140" height="120" rx="5" fill="#f8d7da" stroke="#dc3545" stroke-width="1"/>
+  <text x="300" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#721c24">GJELD &amp; EGENKAPITAL</text>
+  <text x="240" y="140" font-family="Arial, sans-serif" font-size="10" fill="#721c24">Obligasjonsgjeld</text>
+  <text x="240" y="155" font-family="Arial, sans-serif" font-size="10" fill="#721c24">+ Utstedte obligasjoner</text>
+  <text x="240" y="170" font-family="Arial, sans-serif" font-size="10" fill="#721c24">Rentekostnader</text>
+  <text x="240" y="185" font-family="Arial, sans-serif" font-size="10" fill="#721c24">+ Påløpte renter</text>
+  <text x="240" y="205" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="#dc3545">→ Reduserer soliditet</text>
+  
+  <!-- Income Statement Impact -->
+  <rect x="410" y="60" width="340" height="180" rx="10" fill="white" stroke="#007bff" stroke-width="2"/>
+  <text x="580" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#007bff">Resultatregnskap</text>
+  
+  <!-- Income side -->
+  <rect x="430" y="100" width="140" height="120" rx="5" fill="#cce5ff" stroke="#007bff" stroke-width="1"/>
+  <text x="500" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#004085">INNTEKTER</text>
+  <text x="440" y="140" font-family="Arial, sans-serif" font-size="10" fill="#004085">Renteinntekter</text>
+  <text x="440" y="155" font-family="Arial, sans-serif" font-size="10" fill="#004085">+ Kupongrenter</text>
+  <text x="440" y="170" font-family="Arial, sans-serif" font-size="10" fill="#004085">+ Amortisering underkurs</text>
+  <text x="440" y="185" font-family="Arial, sans-serif" font-size="10" fill="#004085">Kursgevinster</text>
+  <text x="440" y="200" font-family="Arial, sans-serif" font-size="10" fill="#004085">+ Realiserte gevinster</text>
+  
+  <!-- Expense side -->
+  <rect x="590" y="100" width="140" height="120" rx="5" fill="#fff3cd" stroke="#ffc107" stroke-width="1"/>
+  <text x="660" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#856404">KOSTNADER</text>
+  <text x="600" y="140" font-family="Arial, sans-serif" font-size="10" fill="#856404">Rentekostnader</text>
+  <text x="600" y="155" font-family="Arial, sans-serif" font-size="10" fill="#856404">+ Kupongrenter</text>
+  <text x="600" y="170" font-family="Arial, sans-serif" font-size="10" fill="#856404">- Amortisering overkurs</text>
+  <text x="600" y="185" font-family="Arial, sans-serif" font-size="10" fill="#856404">Kurstap</text>
+  <text x="600" y="200" font-family="Arial, sans-serif" font-size="10" fill="#856404">+ Realiserte tap</text>
+  
+  <!-- Key Ratios -->
+  <rect x="50" y="260" width="700" height="220" rx="10" fill="white" stroke="#6f42c1" stroke-width="2"/>
+  <text x="400" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#6f42c1">Påvirkning på Nøkkeltall</text>
+  
+  <!-- Liquidity ratios -->
+  <rect x="70" y="300" width="200" height="80" rx="5" fill="#e2e3f0" stroke="#6f42c1" stroke-width="1"/>
+  <text x="170" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#6f42c1">Likviditetsgrad</text>
+  <text x="80" y="340" font-family="Arial, sans-serif" font-size="10" fill="#495057">Omløpsmidler / Kortsiktig gjeld</text>
+  <text x="80" y="355" font-family="Arial, sans-serif" font-size="10" fill="#28a745">↑ Kortsiktige obligasjoner øker</text>
+  <text x="80" y="370" font-family="Arial, sans-serif" font-size="10" fill="#dc3545">↓ Obligasjonsgjeld reduserer</text>
+  
+  <!-- Solvency ratios -->
+  <rect x="300" y="300" width="200" height="80" rx="5" fill="#e2e3f0" stroke="#6f42c1" stroke-width="1"/>
+  <text x="400" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#6f42c1">Soliditetsgrad</text>
+  <text x="310" y="340" font-family="Arial, sans-serif" font-size="10" fill="#495057">Egenkapital / Sum eiendeler</text>
+  <text x="310" y="355" font-family="Arial, sans-serif" font-size="10" fill="#28a745">↑ Obligasjonsinvesteringer øker</text>
+  <text x="310" y="370" font-family="Arial, sans-serif" font-size="10" fill="#dc3545">↓ Obligasjonsgjeld reduserer</text>
+  
+  <!-- Profitability ratios -->
+  <rect x="530" y="300" width="200" height="80" rx="5" fill="#e2e3f0" stroke="#6f42c1" stroke-width="1"/>
+  <text x="630" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#6f42c1">Rentabilitet</text>
+  <text x="540" y="340" font-family="Arial, sans-serif" font-size="10" fill="#495057">Resultat / Egenkapital</text>
+  <text x="540" y="355" font-family="Arial, sans-serif" font-size="10" fill="#28a745">↑ Renteinntekter øker</text>
+  <text x="540" y="370" font-family="Arial, sans-serif" font-size="10" fill="#dc3545">↓ Rentekostnader reduserer</text>
+  
+  <!-- Example calculation -->
+  <rect x="70" y="400" width="660" height="70" rx="5" fill="#f8f9fa" stroke="#6c757d" stroke-width="1"/>
+  <text x="400" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#495057">Eksempel: Påvirkning på Likviditetsgrad</text>
+  <text x="80" y="440" font-family="Arial, sans-serif" font-size="11" fill="#495057">Før obligasjonskjøp: Omløpsmidler 2,000,000 kr / Kortsiktig gjeld 1,000,000 kr = 2.0</text>
+  <text x="80" y="455" font-family="Arial, sans-serif" font-size="11" fill="#495057">Etter kjøp av kortsiktige obligasjoner 500,000 kr: 2,500,000 kr / 1,000,000 kr = 2.5</text>
+  <text x="400" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#28a745">→ Forbedret likviditet med 25%</text>
+</svg>

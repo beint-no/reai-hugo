@@ -1,0 +1,181 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cloudGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3498db;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2980b9;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="edgeGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#27ae60;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#229954;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="deviceGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f39c12;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e67e22;stop-opacity:1" />
+    </linearGradient>
+    <filter id="techShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="2" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.2"/>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c3e50">
+    Teknologisk Arkitektur for Landbrukets Dataflyt
+  </text>
+  
+  <!-- Cloud Layer -->
+  <rect x="100" y="70" width="600" height="100" rx="15" fill="url(#cloudGrad)" stroke="#2980b9" stroke-width="2" filter="url(#techShadow)"/>
+  <text x="400" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    CLOUD PLATTFORM
+  </text>
+  <text x="400" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    Skalerbar databehandling og lagring
+  </text>
+  
+  <!-- Cloud services -->
+  <rect x="120" y="135" width="80" height="25" rx="5" fill="rgba(255,255,255,0.3)" stroke="white" stroke-width="1"/>
+  <text x="160" y="152" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">AI/ML Tjenester</text>
+  
+  <rect x="220" y="135" width="80" height="25" rx="5" fill="rgba(255,255,255,0.3)" stroke="white" stroke-width="1"/>
+  <text x="260" y="152" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">Data Analytics</text>
+  
+  <rect x="320" y="135" width="80" height="25" rx="5" fill="rgba(255,255,255,0.3)" stroke="white" stroke-width="1"/>
+  <text x="360" y="152" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">API Gateway</text>
+  
+  <rect x="420" y="135" width="80" height="25" rx="5" fill="rgba(255,255,255,0.3)" stroke="white" stroke-width="1"/>
+  <text x="460" y="152" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">Database</text>
+  
+  <rect x="520" y="135" width="80" height="25" rx="5" fill="rgba(255,255,255,0.3)" stroke="white" stroke-width="1"/>
+  <text x="560" y="152" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">Backup &amp; Sikkerhet</text>
+  
+  <!-- Edge Computing Layer -->
+  <rect x="150" y="220" width="500" height="80" rx="12" fill="url(#edgeGrad)" stroke="#229954" stroke-width="2" filter="url(#techShadow)"/>
+  <text x="400" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    EDGE COMPUTING
+  </text>
+  <text x="400" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    Lokal databehandling og sanntidsrespons
+  </text>
+  
+  <!-- Edge services -->
+  <rect x="170" y="275" width="90" height="20" rx="3" fill="rgba(255,255,255,0.3)" stroke="white" stroke-width="1"/>
+  <text x="215" y="288" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">Lokal Database</text>
+  
+  <rect x="280" y="275" width="90" height="20" rx="3" fill="rgba(255,255,255,0.3)" stroke="white" stroke-width="1"/>
+  <text x="325" y="288" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">Datafiltrering</text>
+  
+  <rect x="390" y="275" width="90" height="20" rx="3" fill="rgba(255,255,255,0.3)" stroke="white" stroke-width="1"/>
+  <text x="435" y="288" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">Sanntidsanalyse</text>
+  
+  <rect x="500" y="275" width="90" height="20" rx="3" fill="rgba(255,255,255,0.3)" stroke="white" stroke-width="1"/>
+  <text x="545" y="288" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">Kommunikasjon</text>
+  
+  <!-- Device Layer -->
+  <rect x="50" y="350" width="700" height="120" rx="10" fill="url(#deviceGrad)" stroke="#e67e22" stroke-width="2" filter="url(#techShadow)"/>
+  <text x="400" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    ENHETER &amp; SENSORER
+  </text>
+  <text x="400" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    Datainnsamling fra gården
+  </text>
+  
+  <!-- Device categories -->
+  <rect x="70" y="420" width="120" height="40" rx="5" fill="rgba(255,255,255,0.3)" stroke="white" stroke-width="1"/>
+  <text x="130" y="435" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">IoT SENSORER</text>
+  <text x="130" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">Temperatur, fuktighet</text>
+  
+  <rect x="210" y="420" width="120" height="40" rx="5" fill="rgba(255,255,255,0.3)" stroke="white" stroke-width="1"/>
+  <text x="270" y="435" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">MASKINER</text>
+  <text x="270" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">Traktorer, høstere</text>
+  
+  <rect x="350" y="420" width="120" height="40" rx="5" fill="rgba(255,255,255,0.3)" stroke="white" stroke-width="1"/>
+  <text x="410" y="435" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">DYREOVERVÅKING</text>
+  <text x="410" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">Melkeroboter, chips</text>
+  
+  <rect x="490" y="420" width="120" height="40" rx="5" fill="rgba(255,255,255,0.3)" stroke="white" stroke-width="1"/>
+  <text x="550" y="435" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">MOBILE ENHETER</text>
+  <text x="550" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">Tablets, smartphones</text>
+  
+  <rect x="630" y="420" width="100" height="40" rx="5" fill="rgba(255,255,255,0.3)" stroke="white" stroke-width="1"/>
+  <text x="680" y="435" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">DRONER</text>
+  <text x="680" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">Luftovervåking</text>
+  
+  <!-- Connection arrows -->
+  <defs>
+    <marker id="techArrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#34495e" />
+    </marker>
+  </defs>
+  
+  <!-- Vertical connections -->
+  <line x1="400" y1="170" x2="400" y2="220" stroke="#34495e" stroke-width="3" marker-end="url(#techArrow)"/>
+  <line x1="400" y1="300" x2="400" y2="350" stroke="#34495e" stroke-width="3" marker-end="url(#techArrow)"/>
+  
+  <!-- Data flow indicators -->
+  <text x="420" y="195" font-family="Arial, sans-serif" font-size="10" fill="#34495e">
+    Strukturert data
+  </text>
+  <text x="420" y="325" font-family="Arial, sans-serif" font-size="10" fill="#34495e">
+    Rådata
+  </text>
+  
+  <!-- Technology details section -->
+  <rect x="50" y="500" width="700" height="80" rx="8" fill="white" stroke="#bdc3c7" stroke-width="2"/>
+  <text x="400" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+    TEKNOLOGISKE KOMPONENTER
+  </text>
+  
+  <!-- Technology grid -->
+  <g transform="translate(70, 535)">
+    <!-- Column 1 -->
+    <text x="0" y="0" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#3498db">KOMMUNIKASJON:</text>
+    <text x="0" y="15" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• 5G/4G nettverk</text>
+    <text x="0" y="28" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• WiFi &amp; LoRaWAN</text>
+    <text x="0" y="41" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Satellittforbindelse</text>
+    
+    <!-- Column 2 -->
+    <text x="180" y="0" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#27ae60">DATABEHANDLING:</text>
+    <text x="180" y="15" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Edge computing</text>
+    <text x="180" y="28" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Sanntidsanalyse</text>
+    <text x="180" y="41" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Maskinlæring</text>
+    
+    <!-- Column 3 -->
+    <text x="360" y="0" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#f39c12">LAGRING:</text>
+    <text x="360" y="15" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Cloud database</text>
+    <text x="360" y="28" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Lokal cache</text>
+    <text x="360" y="41" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Backup systemer</text>
+    
+    <!-- Column 4 -->
+    <text x="540" y="0" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#e74c3c">SIKKERHET:</text>
+    <text x="540" y="15" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Kryptering</text>
+    <text x="540" y="28" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Autentisering</text>
+    <text x="540" y="41" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Tilgangskontroll</text>
+  </g>
+  
+  <!-- Data flow animation -->
+  <circle cx="130" cy="440" r="3" fill="#e74c3c">
+    <animate attributeName="opacity" values="1;0.3;1" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="270" cy="440" r="3" fill="#e74c3c">
+    <animate attributeName="opacity" values="1;0.3;1" dur="3s" begin="0.3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="410" cy="440" r="3" fill="#e74c3c">
+    <animate attributeName="opacity" values="1;0.3;1" dur="3s" begin="0.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="550" cy="440" r="3" fill="#e74c3c">
+    <animate attributeName="opacity" values="1;0.3;1" dur="3s" begin="0.9s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="680" cy="440" r="3" fill="#e74c3c">
+    <animate attributeName="opacity" values="1;0.3;1" dur="3s" begin="1.2s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Processing indicators -->
+  <circle cx="400" cy="260" r="3" fill="#27ae60">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="400" cy="120" r="3" fill="#3498db">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" begin="1s" repeatCount="indefinite"/>
+  </circle>
+</svg>

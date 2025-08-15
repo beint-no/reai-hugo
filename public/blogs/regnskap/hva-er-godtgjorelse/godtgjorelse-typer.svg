@@ -1,0 +1,103 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" fill="white">
+    Oversikt over Godtgjørelsestyper
+  </text>
+  
+  <!-- Reisegodtgjørelse -->
+  <rect x="50" y="100" width="320" height="160" fill="white" stroke="#28a745" stroke-width="2" rx="10"/>
+  <rect x="50" y="100" width="320" height="40" fill="#28a745" rx="10"/>
+  <rect x="50" y="130" width="320" height="10" fill="#28a745"/>
+  
+  <text x="210" y="125" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+    Reisegodtgjørelse
+  </text>
+  
+  <!-- Travel icon -->
+  <circle cx="100" cy="180" r="20" fill="#28a745" stroke="#1e7e34" stroke-width="2"/>
+  <path d="M 90 175 L 110 175 M 95 170 L 105 170 M 95 185 L 105 185" stroke="white" stroke-width="2"/>
+  
+  <text x="140" y="165" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#495057">Inkluderer:</text>
+  <text x="140" y="185" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">• Transport (fly, tog, bil)</text>
+  <text x="140" y="200" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">• Overnatting</text>
+  <text x="140" y="215" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">• Måltider</text>
+  <text x="140" y="230" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">• Diverse utgifter</text>
+  
+  <!-- Kjøregodtgjørelse -->
+  <rect x="430" y="100" width="320" height="160" fill="white" stroke="#17a2b8" stroke-width="2" rx="10"/>
+  <rect x="430" y="100" width="320" height="40" fill="#17a2b8" rx="10"/>
+  <rect x="430" y="130" width="320" height="10" fill="#17a2b8"/>
+  
+  <text x="590" y="125" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+    Kjøregodtgjørelse
+  </text>
+  
+  <!-- Car icon -->
+  <rect x="470" y="165" width="40" height="20" fill="#17a2b8" stroke="#138496" stroke-width="2" rx="5"/>
+  <circle cx="480" cy="190" r="8" fill="#495057"/>
+  <circle cx="500" cy="190" r="8" fill="#495057"/>
+  
+  <text x="520" y="165" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#495057">Basert på:</text>
+  <text x="520" y="185" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">• Antall kilometer</text>
+  <text x="520" y="200" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">• Standardsats: kr 4,35/km</text>
+  <text x="520" y="215" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">• Dekker alle bilkostnader</text>
+  <text x="520" y="230" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">• Egen bil i tjenesten</text>
+  
+  <!-- Telefon/Internet-godtgjørelse -->
+  <rect x="50" y="300" width="320" height="160" fill="white" stroke="#ffc107" stroke-width="2" rx="10"/>
+  <rect x="50" y="300" width="320" height="40" fill="#ffc107" rx="10"/>
+  <rect x="50" y="330" width="320" height="10" fill="#ffc107"/>
+  
+  <text x="210" y="325" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#495057">
+    Telefon/Internet
+  </text>
+  
+  <!-- Phone icon -->
+  <rect x="85" y="365" width="30" height="40" fill="#ffc107" stroke="#e0a800" stroke-width="2" rx="8"/>
+  <rect x="90" y="370" width="20" height="15" fill="white" rx="2"/>
+  <circle cx="100" cy="395" r="3" fill="white"/>
+  
+  <text x="140" y="365" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#495057">Dekker:</text>
+  <text x="140" y="385" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">• Forretningssamtaler</text>
+  <text x="140" y="400" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">• Internett til hjemmekontor</text>
+  <text x="140" y="415" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">• Dokumentert bruk</text>
+  <text x="140" y="430" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">• Rimelige anslag</text>
+  
+  <!-- Hjemmekontor-godtgjørelse -->
+  <rect x="430" y="300" width="320" height="160" fill="white" stroke="#6f42c1" stroke-width="2" rx="10"/>
+  <rect x="430" y="300" width="320" height="40" fill="#6f42c1" rx="10"/>
+  <rect x="430" y="330" width="320" height="10" fill="#6f42c1"/>
+  
+  <text x="590" y="325" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+    Hjemmekontor
+  </text>
+  
+  <!-- Home office icon -->
+  <rect x="470" y="365" width="40" height="30" fill="#6f42c1" stroke="#5a2d91" stroke-width="2" rx="3"/>
+  <rect x="475" y="370" width="12" height="8" fill="white"/>
+  <rect x="493" y="370" width="12" height="8" fill="white"/>
+  <rect x="475" y="382" width="30" height="8" fill="white"/>
+  
+  <text x="520" y="365" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#495057">Omfatter:</text>
+  <text x="520" y="385" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">• Økte strømkostnader</text>
+  <text x="520" y="400" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">• Kontorrekvisita</text>
+  <text x="520" y="415" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">• Ergonomisk utstyr</text>
+  <text x="520" y="430" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">• IT-utstyr</text>
+</svg>

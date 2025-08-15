@@ -1,0 +1,81 @@
+<svg width="800" height="250" viewBox="0 0 800 250" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="250" fill="url(#bgGradient3)"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e293b">
+    Fristlinje for aksjonærregisteroppgave
+  </text>
+  
+  <!-- Timeline line -->
+  <line x1="100" y1="120" x2="700" y2="120" stroke="#64748b" stroke-width="3"/>
+  
+  <!-- 31. mai marker -->
+  <circle cx="200" cy="120" r="8" fill="#3b82f6" stroke="#1e40af" stroke-width="2"/>
+  <line x1="200" y1="120" x2="200" y2="80" stroke="#3b82f6" stroke-width="2"/>
+  <rect x="150" y="60" width="100" height="20" rx="4" fill="#3b82f6"/>
+  <text x="200" y="74" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    31. mai
+  </text>
+  <text x="200" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#3b82f6">
+    Hovedfrist
+  </text>
+  <text x="200" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#3b82f6">
+    Gebyr: 2,000 NOK
+  </text>
+  
+  <!-- 31. august marker -->
+  <circle cx="400" cy="120" r="8" fill="#f59e0b" stroke="#d97706" stroke-width="2"/>
+  <line x1="400" y1="120" x2="400" y2="80" stroke="#f59e0b" stroke-width="2"/>
+  <rect x="350" y="60" width="100" height="20" rx="4" fill="#f59e0b"/>
+  <text x="400" y="74" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    31. august
+  </text>
+  <text x="400" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#f59e0b">
+    Forlenget frist
+  </text>
+  <text x="400" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#f59e0b">
+    Gebyr: 5,000 NOK
+  </text>
+  
+  <!-- 31. desember marker -->
+  <circle cx="600" cy="120" r="8" fill="#dc2626" stroke="#b91c1c" stroke-width="2"/>
+  <line x1="600" y1="120" x2="600" y2="80" stroke="#dc2626" stroke-width="2"/>
+  <rect x="550" y="60" width="100" height="20" rx="4" fill="#dc2626"/>
+  <text x="600" y="74" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    31. desember
+  </text>
+  <text x="600" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#dc2626">
+    Avsluttende frist
+  </text>
+  <text x="600" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#dc2626">
+    Gebyr: 15,000 NOK
+  </text>
+  
+  <!-- Warning zones -->
+  <rect x="200" y="180" width="200" height="30" rx="4" fill="#fef3c7" stroke="#f59e0b" stroke-width="1"/>
+  <text x="300" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#92400e">
+    Advarsel: Økende sanksjoner
+  </text>
+  
+  <rect x="400" y="180" width="200" height="30" rx="4" fill="#fecaca" stroke="#dc2626" stroke-width="1"/>
+  <text x="500" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#991b1b">
+    Fare: Tvangsgebyr &amp; politianmeldelse
+  </text>
+  
+  <!-- Start point -->
+  <circle cx="100" cy="120" r="6" fill="#22c55e" stroke="#16a34a" stroke-width="2"/>
+  <text x="100" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#22c55e">
+    1. januar
+  </text>
+  <text x="100" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#22c55e">
+    Regnskapsår start
+  </text>
+</svg>

@@ -1,0 +1,288 @@
+<svg viewBox="0 0 1000 700" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1000" height="700" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="500" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+    Internasjonale Tilbudsperspektiver
+  </text>
+  
+  <!-- World map silhouette -->
+  <g stroke="#bdc3c7" stroke-width="2" fill="none">
+    <!-- Simplified world continents -->
+    <path d="M150 200 Q200 180 250 200 L300 180 Q350 190 400 180 L450 200 Q500 180 550 200 L600 180 Q650 190 700 180 L750 200 Q800 180 850 200" />
+    <path d="M200 300 Q250 280 300 300 L350 280 Q400 290 450 280 L500 300 Q550 280 600 300 L650 280 Q700 290 750 280" />
+    <path d="M300 400 Q350 380 400 400 L450 380 Q500 390 550 380 L600 400 Q650 380 700 400" />
+  </g>
+  
+  <!-- Regional boxes -->
+  
+  <!-- North America -->
+  <g transform="translate(50, 80)">
+    <rect x="0" y="0" width="260" height="140" rx="10" fill="#e8f4f8" stroke="#3498db" stroke-width="2"/>
+    <text x="130" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
+      NORDAMERIKA
+    </text>
+    <text x="10" y="40" font-family="Arial, sans-serif" font-size="12" fill="#34495e">
+      Karakteristika:
+    </text>
+    <text x="10" y="55" font-family="Arial, sans-serif" font-size="11" fill="#34495e">
+      • Direkte og konkurransefokusert
+    </text>
+    <text x="10" y="68" font-family="Arial, sans-serif" font-size="11" fill="#34495e">
+      • Korte beslutningstider
+    </text>
+    <text x="10" y="81" font-family="Arial, sans-serif" font-size="11" fill="#34495e">
+      • Juridisk orientert kontrakter
+    </text>
+    <text x="10" y="94" font-family="Arial, sans-serif" font-size="11" fill="#34495e">
+      • Høy grad av standardisering
+    </text>
+    <text x="10" y="115" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#27ae60">
+      Fokus: Effektivitet
+    </text>
+  </g>
+  
+  <!-- Europe -->
+  <g transform="translate(370, 80)">
+    <rect x="0" y="0" width="260" height="140" rx="10" fill="#f8e8e8" stroke="#e74c3c" stroke-width="2"/>
+    <text x="130" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
+      EUROPA
+    </text>
+    <text x="10" y="40" font-family="Arial, sans-serif" font-size="12" fill="#34495e">
+      Karakteristika:
+    </text>
+    <text x="10" y="55" font-family="Arial, sans-serif" font-size="11" fill="#34495e">
+      • Regulatorisk kompleksitet
+    </text>
+    <text x="10" y="68" font-family="Arial, sans-serif" font-size="11" fill="#34495e">
+      • Sterke arbeidstakerrettigheter
+    </text>
+    <text x="10" y="81" font-family="Arial, sans-serif" font-size="11" fill="#34495e">
+      • Konsensusbaserte prosesser
+    </text>
+    <text x="10" y="94" font-family="Arial, sans-serif" font-size="11" fill="#34495e">
+      • Miljøkrav og bærekraft
+    </text>
+    <text x="10" y="115" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#27ae60">
+      Fokus: Compliance
+    </text>
+  </g>
+  
+  <!-- Asia-Pacific -->
+  <g transform="translate(690, 80)">
+    <rect x="0" y="0" width="260" height="140" rx="10" fill="#fff3e0" stroke="#ff9800" stroke-width="2"/>
+    <text x="130" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
+      ASIA-STILLEHAVET
+    </text>
+    <text x="10" y="40" font-family="Arial, sans-serif" font-size="12" fill="#34495e">
+      Karakteristika:
+    </text>
+    <text x="10" y="55" font-family="Arial, sans-serif" font-size="11" fill="#34495e">
+      • Relasjonsbyggende tilnærming
+    </text>
+    <text x="10" y="68" font-family="Arial, sans-serif" font-size="11" fill="#34495e">
+      • Hierarkiske beslutninger
+    </text>
+    <text x="10" y="81" font-family="Arial, sans-serif" font-size="11" fill="#34495e">
+      • Personlige møter viktig
+    </text>
+    <text x="10" y="94" font-family="Arial, sans-serif" font-size="11" fill="#34495e">
+      • Guanxi og nettverk
+    </text>
+    <text x="10" y="115" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#27ae60">
+      Fokus: Relasjoner
+    </text>
+  </g>
+  
+  <!-- Currency Risk Section -->
+  <g transform="translate(50, 280)">
+    <rect x="0" y="0" width="400" height="180" rx="10" fill="#f4f1ff" stroke="#9b59b6" stroke-width="2"/>
+    <text x="200" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
+      VALUTARISIKO OG SIKRING
+    </text>
+    
+    <!-- Currency symbols -->
+    <circle cx="70" cy="50" r="20" fill="#3498db" opacity="0.7"/>
+    <text x="70" y="56" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">$</text>
+    
+    <circle cx="150" cy="50" r="20" fill="#e74c3c" opacity="0.7"/>
+    <text x="150" y="56" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">€</text>
+    
+    <circle cx="230" cy="50" r="20" fill="#f39c12" opacity="0.7"/>
+    <text x="230" y="56" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">¥</text>
+    
+    <circle cx="310" cy="50" r="20" fill="#27ae60" opacity="0.7"/>
+    <text x="310" y="56" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">£</text>
+    
+    <!-- Risk arrows -->
+    <path d="M100 70 Q150 90 200 70" stroke="#e74c3c" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+    <path d="M180 70 Q230 90 280 70" stroke="#e74c3c" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+    
+    <text x="10" y="100" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#34495e">
+      Valutaeksponering:
+    </text>
+    <text x="10" y="115" font-family="Arial, sans-serif" font-size="11" fill="#34495e">
+      • Transaksjonsrisiko
+    </text>
+    <text x="10" y="128" font-family="Arial, sans-serif" font-size="11" fill="#34495e">
+      • Translationsrisiko
+    </text>
+    <text x="10" y="141" font-family="Arial, sans-serif" font-size="11" fill="#34495e">
+      • Økonomisk risiko
+    </text>
+    
+    <text x="210" y="100" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#34495e">
+      Sikringsstrategier:
+    </text>
+    <text x="210" y="115" font-family="Arial, sans-serif" font-size="11" fill="#34495e">
+      • Valutaterminer
+    </text>
+    <text x="210" y="128" font-family="Arial, sans-serif" font-size="11" fill="#34495e">
+      • Opsjoner
+    </text>
+    <text x="210" y="141" font-family="Arial, sans-serif" font-size="11" fill="#34495e">
+      • Naturlig sikring
+    </text>
+    <text x="210" y="154" font-family="Arial, sans-serif" font-size="11" fill="#34495e">
+      • Prisindeksering
+    </text>
+  </g>
+  
+  <!-- Regulatory Comparison Table -->
+  <g transform="translate(500, 280)">
+    <rect x="0" y="0" width="450" height="180" rx="10" fill="#f0f8f0" stroke="#27ae60" stroke-width="2"/>
+    <text x="225" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
+      REGULATORISKE FORSKJELLER
+    </text>
+    
+    <!-- Table header -->
+    <rect x="10" y="30" width="80" height="25" fill="#34495e"/>
+    <rect x="90" y="30" width="120" height="25" fill="#34495e"/>
+    <rect x="210" y="30" width="120" height="25" fill="#34495e"/>
+    <rect x="330" y="30" width="110" height="25" fill="#34495e"/>
+    
+    <text x="50" y="47" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">Region</text>
+    <text x="150" y="47" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">Hovedfokus</text>
+    <text x="270" y="47" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">Typiske Krav</text>
+    <text x="385" y="47" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">Spesielle Hensyn</text>
+    
+    <!-- EU row -->
+    <rect x="10" y="55" width="80" height="25" fill="#e8f4f8"/>
+    <rect x="90" y="55" width="120" height="25" fill="#e8f4f8"/>
+    <rect x="210" y="55" width="120" height="25" fill="#e8f4f8"/>
+    <rect x="330" y="55" width="110" height="25" fill="#e8f4f8"/>
+    
+    <text x="50" y="72" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">EU</text>
+    <text x="150" y="72" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">Åpenhet</text>
+    <text x="270" y="72" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">GDPR, Anskaffelser</text>
+    <text x="385" y="72" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">Digital Single Market</text>
+    
+    <!-- USA row -->
+    <rect x="10" y="80" width="80" height="25" fill="#f8e8e8"/>
+    <rect x="90" y="80" width="120" height="25" fill="#f8e8e8"/>
+    <rect x="210" y="80" width="120" height="25" fill="#f8e8e8"/>
+    <rect x="330" y="80" width="110" height="25" fill="#f8e8e8"/>
+    
+    <text x="50" y="97" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">USA</text>
+    <text x="150" y="97" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">Innovasjon</text>
+    <text x="270" y="97" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">SEC, Antitrust</text>
+    <text x="385" y="97" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">Buy American Act</text>
+    
+    <!-- Asia row -->
+    <rect x="10" y="105" width="80" height="25" fill="#fff3e0"/>
+    <rect x="90" y="105" width="120" height="25" fill="#fff3e0"/>
+    <rect x="210" y="105" width="120" height="25" fill="#fff3e0"/>
+    <rect x="330" y="105" width="110" height="25" fill="#fff3e0"/>
+    
+    <text x="50" y="122" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">Asia</text>
+    <text x="150" y="122" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">Relasjoner</text>
+    <text x="270" y="122" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">Lokalt innhold</text>
+    <text x="385" y="122" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">Guanxi nettverk</text>
+    
+    <!-- Middle East row -->
+    <rect x="10" y="130" width="80" height="25" fill="#f4f1ff"/>
+    <rect x="90" y="130" width="120" height="25" fill="#f4f1ff"/>
+    <rect x="210" y="130" width="120" height="25" fill="#f4f1ff"/>
+    <rect x="330" y="130" width="110" height="25" fill="#f4f1ff"/>
+    
+    <text x="50" y="147" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">Midt-Østen</text>
+    <text x="150" y="147" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">Sikkerhet</text>
+    <text x="270" y="147" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">Islamsk finans</text>
+    <text x="385" y="147" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">Geopolitisk risiko</text>
+    
+    <!-- Table borders -->
+    <g stroke="#bdc3c7" stroke-width="1" fill="none">
+      <line x1="10" y1="30" x2="440" y2="30"/>
+      <line x1="10" y1="55" x2="440" y2="55"/>
+      <line x1="10" y1="80" x2="440" y2="80"/>
+      <line x1="10" y1="105" x2="440" y2="105"/>
+      <line x1="10" y1="130" x2="440" y2="130"/>
+      <line x1="10" y1="155" x2="440" y2="155"/>
+      <line x1="90" y1="30" x2="90" y2="155"/>
+      <line x1="210" y1="30" x2="210" y2="155"/>
+      <line x1="330" y1="30" x2="330" y2="155"/>
+    </g>
+  </g>
+  
+  <!-- Key Success Factors -->
+  <g transform="translate(50, 510)">
+    <rect x="0" y="0" width="900" height="120" rx="10" fill="#f8f9fa" stroke="#6c757d" stroke-width="2"/>
+    <text x="450" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
+      NØKKELFAKTORER FOR INTERNASJONALE TILBUD
+    </text>
+    
+    <!-- Success factors boxes -->
+    <g transform="translate(20, 30)">
+      <rect x="0" y="0" width="200" height="70" rx="5" fill="#e8f5e8" stroke="#27ae60" stroke-width="1"/>
+      <text x="100" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#27ae60">
+        Kulturell Tilpasning
+      </text>
+      <text x="10" y="30" font-family="Arial, sans-serif" font-size="10" fill="#34495e">• Respekt for lokale normer</text>
+      <text x="10" y="43" font-family="Arial, sans-serif" font-size="10" fill="#34495e">• Språklig tilpasning</text>
+      <text x="10" y="56" font-family="Arial, sans-serif" font-size="10" fill="#34495e">• Relasjonsbygging</text>
+    </g>
+    
+    <g transform="translate(240, 30)">
+      <rect x="0" y="0" width="200" height="70" rx="5" fill="#e8f4f8" stroke="#3498db" stroke-width="1"/>
+      <text x="100" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#3498db">
+        Risikostyring
+      </text>
+      <text x="10" y="30" font-family="Arial, sans-serif" font-size="10" fill="#34495e">• Valutasikring</text>
+      <text x="10" y="43" font-family="Arial, sans-serif" font-size="10" fill="#34495e">• Politisk risiko</text>
+      <text x="10" y="56" font-family="Arial, sans-serif" font-size="10" fill="#34495e">• Kontraktsikring</text>
+    </g>
+    
+    <g transform="translate(460, 30)">
+      <rect x="0" y="0" width="200" height="70" rx="5" fill="#fff3e0" stroke="#ff9800" stroke-width="1"/>
+      <text x="100" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#ff9800">
+        Regulatorisk Etterlevelse
+      </text>
+      <text x="10" y="30" font-family="Arial, sans-serif" font-size="10" fill="#34495e">• Lokale krav</text>
+      <text x="10" y="43" font-family="Arial, sans-serif" font-size="10" fill="#34495e">• Dokumentasjon</text>
+      <text x="10" y="56" font-family="Arial, sans-serif" font-size="10" fill="#34495e">• Compliance</text>
+    </g>
+    
+    <g transform="translate(680, 30)">
+      <rect x="0" y="0" width="200" height="70" rx="5" fill="#f8e8e8" stroke="#e74c3c" stroke-width="1"/>
+      <text x="100" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e74c3c">
+        Strategisk Partnering
+      </text>
+      <text x="10" y="30" font-family="Arial, sans-serif" font-size="10" fill="#34495e">• Lokale partnere</text>
+      <text x="10" y="43" font-family="Arial, sans-serif" font-size="10" fill="#34495e">• Joint ventures</text>
+      <text x="10" y="56" font-family="Arial, sans-serif" font-size="10" fill="#34495e">• Nettverk</text>
+    </g>
+  </g>
+  
+  <!-- Bottom note -->
+  <text x="500" y="680" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-style="italic" fill="#7f8c8d">
+    Internasjonale tilbud krever dyptgående forståelse av lokale markedsbetingelser og kulturelle forskjeller
+  </text>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#e74c3c"/>
+    </marker>
+  </defs>
+</svg>

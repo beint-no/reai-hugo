@@ -1,0 +1,200 @@
+<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="challengeBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="url(#challengeBg)"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1e293b">
+    Utfordringer og Løsningsstrategier
+  </text>
+  
+  <!-- Technical Challenges -->
+  <g transform="translate(50, 60)">
+    <text x="0" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#ef4444">
+      Tekniske Utfordringer
+    </text>
+    
+    <!-- Challenge 1: Scanning Issues -->
+    <g transform="translate(0, 40)">
+      <rect x="0" y="0" width="300" height="80" rx="8" fill="#fef2f2" stroke="#ef4444" stroke-width="2"/>
+      <circle cx="20" cy="20" r="8" fill="#ef4444"/>
+      <text x="18" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">!</text>
+      
+      <text x="35" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#991b1b">
+        Skanningsproblemer
+      </text>
+      <text x="35" y="40" font-family="Arial, sans-serif" font-size="10" fill="#991b1b">
+        • Skitne eller skadede etiketter
+      </text>
+      <text x="35" y="55" font-family="Arial, sans-serif" font-size="10" fill="#991b1b">
+        • Dårlige lysforhold
+      </text>
+      <text x="35" y="70" font-family="Arial, sans-serif" font-size="10" fill="#991b1b">
+        • Feil vinkel eller avstand
+      </text>
+    </g>
+    
+    <!-- Challenge 2: System Integration -->
+    <g transform="translate(0, 130)">
+      <rect x="0" y="0" width="300" height="80" rx="8" fill="#fef2f2" stroke="#ef4444" stroke-width="2"/>
+      <circle cx="20" cy="20" r="8" fill="#ef4444"/>
+      <text x="18" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">!</text>
+      
+      <text x="35" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#991b1b">
+        Systemintegrasjon
+      </text>
+      <text x="35" y="40" font-family="Arial, sans-serif" font-size="10" fill="#991b1b">
+        • Kompatibilitetsproblemer
+      </text>
+      <text x="35" y="55" font-family="Arial, sans-serif" font-size="10" fill="#991b1b">
+        • API-begrensninger
+      </text>
+      <text x="35" y="70" font-family="Arial, sans-serif" font-size="10" fill="#991b1b">
+        • Dataformat-konflikter
+      </text>
+    </g>
+    
+    <!-- Challenge 3: Network Issues -->
+    <g transform="translate(0, 220)">
+      <rect x="0" y="0" width="300" height="80" rx="8" fill="#fef2f2" stroke="#ef4444" stroke-width="2"/>
+      <circle cx="20" cy="20" r="8" fill="#ef4444"/>
+      <text x="18" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">!</text>
+      
+      <text x="35" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#991b1b">
+        Nettverksproblemer
+      </text>
+      <text x="35" y="40" font-family="Arial, sans-serif" font-size="10" fill="#991b1b">
+        • Ustabile tilkoblinger
+      </text>
+      <text x="35" y="55" font-family="Arial, sans-serif" font-size="10" fill="#991b1b">
+        • Lav båndbredde
+      </text>
+      <text x="35" y="70" font-family="Arial, sans-serif" font-size="10" fill="#991b1b">
+        • Latency-problemer
+      </text>
+    </g>
+  </g>
+  
+  <!-- Solutions for Technical Challenges -->
+  <g transform="translate(420, 60)">
+    <text x="0" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#10b981">
+      Tekniske Løsninger
+    </text>
+    
+    <!-- Solution 1: Quality Control -->
+    <g transform="translate(0, 40)">
+      <rect x="0" y="0" width="330" height="80" rx="8" fill="#f0fdf4" stroke="#10b981" stroke-width="2"/>
+      <circle cx="20" cy="20" r="8" fill="#10b981"/>
+      <text x="18" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">✓</text>
+      
+      <text x="35" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#14532d">
+        Kvalitetskontroll og vedlikehold
+      </text>
+      <text x="35" y="40" font-family="Arial, sans-serif" font-size="10" fill="#14532d">
+        • Regelmessig rengjøring av etiketter
+      </text>
+      <text x="35" y="55" font-family="Arial, sans-serif" font-size="10" fill="#14532d">
+        • Optimalisert belysning og posisjonering
+      </text>
+      <text x="35" y="70" font-family="Arial, sans-serif" font-size="10" fill="#14532d">
+        • Backup manuell registrering
+      </text>
+    </g>
+    
+    <!-- Solution 2: API Management -->
+    <g transform="translate(0, 130)">
+      <rect x="0" y="0" width="330" height="80" rx="8" fill="#f0fdf4" stroke="#10b981" stroke-width="2"/>
+      <circle cx="20" cy="20" r="8" fill="#10b981"/>
+      <text x="18" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">✓</text>
+      
+      <text x="35" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#14532d">
+        Middleware og API-gateway
+      </text>
+      <text x="35" y="40" font-family="Arial, sans-serif" font-size="10" fill="#14532d">
+        • Standardiserte integrasjonsgrensesnitt
+      </text>
+      <text x="35" y="55" font-family="Arial, sans-serif" font-size="10" fill="#14532d">
+        • Dataformat-transformasjon
+      </text>
+      <text x="35" y="70" font-family="Arial, sans-serif" font-size="10" fill="#14532d">
+        • Feilhåndtering og retry-logikk
+      </text>
+    </g>
+    
+    <!-- Solution 3: Offline Mode -->
+    <g transform="translate(0, 220)">
+      <rect x="0" y="0" width="330" height="80" rx="8" fill="#f0fdf4" stroke="#10b981" stroke-width="2"/>
+      <circle cx="20" cy="20" r="8" fill="#10b981"/>
+      <text x="18" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">✓</text>
+      
+      <text x="35" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#14532d">
+        Offline-modus og lokal cache
+      </text>
+      <text x="35" y="40" font-family="Arial, sans-serif" font-size="10" fill="#14532d">
+        • Lokal datalagring og synkronisering
+      </text>
+      <text x="35" y="55" font-family="Arial, sans-serif" font-size="10" fill="#14532d">
+        • Redundante nettverkstilkoblinger
+      </text>
+      <text x="35" y="70" font-family="Arial, sans-serif" font-size="10" fill="#14532d">
+        • Edge computing-løsninger
+      </text>
+    </g>
+  </g>
+  
+  <!-- Organizational Challenges -->
+  <g transform="translate(50, 330)">
+    <text x="0" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#f59e0b">
+      Organisatoriske Utfordringer
+    </text>
+    
+    <!-- Challenge grid -->
+    <g transform="translate(0, 40)">
+      <!-- Change resistance -->
+      <rect x="0" y="0" width="170" height="100" rx="8" fill="#fefbeb" stroke="#f59e0b" stroke-width="2"/>
+      <text x="85" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#92400e">
+        Motstand mot endring
+      </text>
+      <text x="10" y="40" font-family="Arial, sans-serif" font-size="10" fill="#92400e">• Frykt for teknologi</text>
+      <text x="10" y="55" font-family="Arial, sans-serif" font-size="10" fill="#92400e">• Etablerte rutiner</text>
+      <text x="10" y="70" font-family="Arial, sans-serif" font-size="10" fill="#92400e">• Usikkerhet om fremtiden</text>
+      <text x="10" y="85" font-family="Arial, sans-serif" font-size="10" fill="#92400e">• Manglende kompetanse</text>
+      
+      <!-- Training needs -->
+      <rect x="190" y="0" width="170" height="100" rx="8" fill="#fefbeb" stroke="#f59e0b" stroke-width="2"/>
+      <text x="275" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#92400e">
+        Opplæringsbehov
+      </text>
+      <text x="200" y="40" font-family="Arial, sans-serif" font-size="10" fill="#92400e">• Teknisk kompetanse</text>
+      <text x="200" y="55" font-family="Arial, sans-serif" font-size="10" fill="#92400e">• Nye arbeidsflyter</text>
+      <text x="200" y="70" font-family="Arial, sans-serif" font-size="10" fill="#92400e">• Feilsøking og vedlikehold</text>
+      <text x="200" y="85" font-family="Arial, sans-serif" font-size="10" fill="#92400e">• Kontinuerlig oppdatering</text>
+      
+      <!-- Process changes -->
+      <rect x="380" y="0" width="170" height="100" rx="8" fill="#fefbeb" stroke="#f59e0b" stroke-width="2"/>
+      <text x="465" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#92400e">
+        Prosessendringer
+      </text>
+      <text x="390" y="40" font-family="Arial, sans-serif" font-size="10" fill="#92400e">• Reviderte rutiner</text>
+      <text x="390" y="55" font-family="Arial, sans-serif" font-size="10" fill="#92400e">• Nye ansvarsområder</text>
+      <text x="390" y="70" font-family="Arial, sans-serif" font-size="10" fill="#92400e">• Kvalitetssikring</text>
+      <text x="390" y="85" font-family="Arial, sans-serif" font-size="10" fill="#92400e">• Dokumentasjon</text>
+      
+      <!-- Resource allocation -->
+      <rect x="570" y="0" width="170" height="100" rx="8" fill="#fefbeb" stroke="#f59e0b" stroke-width="2"/>
+      <text x="655" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#92400e">
+        Ressursallokering
+      </text>
+      <text x="580" y="40" font-family="Arial, sans-serif" font-size="10" fill="#92400e">• Budsjettmessige hensyn</text>
+      <text x="580" y="55" font-family="Arial, sans-serif" font-size="10" fill="#92400e">• Tidsbruk og prioritering</text>
+      <text x="580" y="70" font-family="Arial, sans-serif" font-size="10" fill="#92400e">• Personellbehov</text>
+      <text x="580" y="85" font-family="Arial, sans-serif" font-size="10" fill="#92400e">• ROI-forventninger</text>
+    </g>
+  </g>
+</svg>

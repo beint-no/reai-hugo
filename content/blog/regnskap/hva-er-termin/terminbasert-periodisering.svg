@@ -1,0 +1,166 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#e5e7eb" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="incomeGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#16a34a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#22c55e;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="costGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#dc2626;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ef4444;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f9fafb"/>
+  
+  <!-- Title -->
+  <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1f2937">Terminbasert Periodisering - Eksempel</text>
+  
+  <!-- Timeline -->
+  <g transform="translate(80, 80)">
+    <!-- Month labels -->
+    <text x="80" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">Des 2023</text>
+    <text x="200" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">Jan 2024</text>
+    <text x="320" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">Feb 2024</text>
+    <text x="440" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">Mar 2024</text>
+    <text x="560" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">Apr 2024</text>
+    
+    <!-- Timeline line -->
+    <line x1="40" y1="40" x2="600" y2="40" stroke="#6b7280" stroke-width="2"/>
+    
+    <!-- Month dividers -->
+    <g stroke="#6b7280" stroke-width="1">
+      <line x1="80" y1="30" x2="80" y2="50"/>
+      <line x1="200" y1="30" x2="200" y2="50"/>
+      <line x1="320" y1="30" x2="320" y2="50"/>
+      <line x1="440" y1="30" x2="440" y2="50"/>
+      <line x1="560" y1="30" x2="560" y2="50"/>
+    </g>
+  </g>
+  
+  <!-- Transaction Examples -->
+  <g transform="translate(50, 130)">
+    <!-- Example 1: Prepaid Rent -->
+    <g>
+      <rect x="0" y="0" width="700" height="120" fill="#f0f9ff" stroke="#0ea5e9" stroke-width="2" rx="8"/>
+      <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0c4a6e">Eksempel 1: Forhåndsbetalt leie (3 måneder)</text>
+      
+      <!-- Cash payment -->
+      <g transform="translate(30, 40)">
+        <rect x="0" y="0" width="120" height="60" fill="#fee2e2" stroke="#dc2626" stroke-width="1" rx="4"/>
+        <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#dc2626">Kontant betaling</text>
+        <text x="60" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f1d1d">31. desember 2023</text>
+        <text x="60" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f1d1d">150.000 kr</text>
+      </g>
+      
+      <!-- Periodization arrows -->
+      <g transform="translate(170, 55)">
+        <path d="M 0 15 L 100 15" stroke="#0ea5e9" stroke-width="2" marker-end="url(#arrowhead)"/>
+        <text x="50" y="12" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0c4a6e">Periodisering</text>
+        
+        <path d="M 120 15 L 220 15" stroke="#0ea5e9" stroke-width="2" marker-end="url(#arrowhead)"/>
+        <path d="M 240 15 L 340 15" stroke="#0ea5e9" stroke-width="2" marker-end="url(#arrowhead)"/>
+      </g>
+      
+      <!-- Monthly expenses -->
+      <g transform="translate(190, 40)">
+        <rect x="0" y="0" width="80" height="60" fill="url(#costGrad)" rx="4"/>
+        <text x="40" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">Jan 2024</text>
+        <text x="40" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">50.000 kr</text>
+        
+        <rect x="100" y="0" width="80" height="60" fill="url(#costGrad)" rx="4"/>
+        <text x="140" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">Feb 2024</text>
+        <text x="140" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">50.000 kr</text>
+        
+        <rect x="200" y="0" width="80" height="60" fill="url(#costGrad)" rx="4"/>
+        <text x="240" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">Mar 2024</text>
+        <text x="240" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">50.000 kr</text>
+      </g>
+    </g>
+    
+    <!-- Example 2: Accrued Revenue -->
+    <g transform="translate(0, 150)">
+      <rect x="0" y="0" width="700" height="120" fill="#f0fdf4" stroke="#16a34a" stroke-width="2" rx="8"/>
+      <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#14532d">Eksempel 2: Påløpte inntekter (tjenesteoppdrag)</text>
+      
+      <!-- Work performed monthly -->
+      <g transform="translate(50, 40)">
+        <rect x="0" y="0" width="80" height="60" fill="url(#incomeGrad)" rx="4"/>
+        <text x="40" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">Jan 2024</text>
+        <text x="40" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">Arbeid utført</text>
+        <text x="40" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">75.000 kr</text>
+        
+        <rect x="100" y="0" width="80" height="60" fill="url(#incomeGrad)" rx="4"/>
+        <text x="140" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">Feb 2024</text>
+        <text x="140" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">Arbeid utført</text>
+        <text x="140" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">75.000 kr</text>
+        
+        <rect x="200" y="0" width="80" height="60" fill="url(#incomeGrad)" rx="4"/>
+        <text x="240" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">Mar 2024</text>
+        <text x="240" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">Arbeid utført</text>
+        <text x="240" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">75.000 kr</text>
+      </g>
+      
+      <!-- Consolidation arrows -->
+      <g transform="translate(350, 55)">
+        <path d="M 0 15 L 100 15" stroke="#16a34a" stroke-width="2" marker-end="url(#arrowhead)"/>
+        <text x="50" y="12" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#14532d">Samlet fakturering</text>
+      </g>
+      
+      <!-- Final invoice -->
+      <g transform="translate(470, 40)">
+        <rect x="0" y="0" width="120" height="60" fill="#dcfce7" stroke="#16a34a" stroke-width="1" rx="4"/>
+        <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#16a34a">Faktura sendt</text>
+        <text x="60" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#15803d">31. mars 2024</text>
+        <text x="60" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#15803d">225.000 kr</text>
+      </g>
+    </g>
+  </g>
+  
+  <!-- Accounting entries -->
+  <g transform="translate(50, 420)">
+    <text x="350" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#374151">Regnskapsføring</text>
+    
+    <!-- Prepaid expense entries -->
+    <g transform="translate(0, 30)">
+      <rect x="0" y="0" width="340" height="100" fill="#ffffff" stroke="#d1d5db" stroke-width="1" rx="6"/>
+      <text x="170" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">Forhåndsbetalte utgifter</text>
+      
+      <g transform="translate(10, 30)">
+        <text x="0" y="15" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#1f2937">31. des 2023 (betaling):</text>
+        <text x="0" y="30" font-family="Arial, sans-serif" font-size="9" fill="#6b7280">Debet: Forhåndsbetalte utgifter 150.000</text>
+        <text x="0" y="45" font-family="Arial, sans-serif" font-size="9" fill="#6b7280">Kredit: Bank 150.000</text>
+        
+        <text x="0" y="65" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#1f2937">Månedlig (jan-mar 2024):</text>
+        <text x="0" y="80" font-family="Arial, sans-serif" font-size="9" fill="#6b7280">Debet: Leieutgift 50.000</text>
+        <text x="0" y="95" font-family="Arial, sans-serif" font-size="9" fill="#6b7280">Kredit: Forhåndsbetalte utgifter 50.000</text>
+      </g>
+    </g>
+    
+    <!-- Accrued revenue entries -->
+    <g transform="translate(360, 30)">
+      <rect x="0" y="0" width="340" height="100" fill="#ffffff" stroke="#d1d5db" stroke-width="1" rx="6"/>
+      <text x="170" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">Påløpte inntekter</text>
+      
+      <g transform="translate(10, 30)">
+        <text x="0" y="15" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#1f2937">Månedlig (jan-mar 2024):</text>
+        <text x="0" y="30" font-family="Arial, sans-serif" font-size="9" fill="#6b7280">Debet: Påløpte inntekter 75.000</text>
+        <text x="0" y="45" font-family="Arial, sans-serif" font-size="9" fill="#6b7280">Kredit: Tjenesteinntekt 75.000</text>
+        
+        <text x="0" y="65" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#1f2937">31. mar 2024 (fakturering):</text>
+        <text x="0" y="80" font-family="Arial, sans-serif" font-size="9" fill="#6b7280">Debet: Kundefordringer 225.000</text>
+        <text x="0" y="95" font-family="Arial, sans-serif" font-size="9" fill="#6b7280">Kredit: Påløpte inntekter 225.000</text>
+      </g>
+    </g>
+  </g>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#6b7280" />
+    </marker>
+  </defs>
+</svg>

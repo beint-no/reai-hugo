@@ -1,0 +1,80 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
+  <text x="400" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="22" font-weight="bold">Digitale Kreditorl&amp;oslash;sninger</text>
+  
+  <!-- Features Section -->
+  <rect x="50" y="80" width="700" height="180" fill="white" stroke="#dee2e6" stroke-width="1" rx="8"/>
+  <text x="400" y="105" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="18" font-weight="bold">Funksjoner i Kreditormoduler</text>
+  
+  <!-- Feature boxes -->
+  <rect x="80" y="130" width="150" height="100" fill="#e8f5e8" stroke="#28a745" stroke-width="1" rx="4"/>
+  <text x="155" y="155" text-anchor="middle" fill="#28a745" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Automatisk</text>
+  <text x="155" y="170" text-anchor="middle" fill="#28a745" font-family="Arial, sans-serif" font-size="12" font-weight="bold">fakturamottak</text>
+  <text x="155" y="190" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">eFaktura og</text>
+  <text x="155" y="205" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">OCR-teknologi</text>
+  <text x="155" y="220" text-anchor="middle" fill="#28a745" font-family="Arial, sans-serif" font-size="9" font-weight="bold">Reduserer manuelle feil</text>
+  
+  <rect x="250" y="130" width="150" height="100" fill="#e3f2fd" stroke="#007bff" stroke-width="1" rx="4"/>
+  <text x="325" y="155" text-anchor="middle" fill="#007bff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Godkjennings-</text>
+  <text x="325" y="170" text-anchor="middle" fill="#007bff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">workflow</text>
+  <text x="325" y="190" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">Digitale</text>
+  <text x="325" y="205" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">godkjenningsprosesser</text>
+  <text x="325" y="220" text-anchor="middle" fill="#007bff" font-family="Arial, sans-serif" font-size="9" font-weight="bold">Raskere behandling</text>
+  
+  <rect x="420" y="130" width="150" height="100" fill="#fff3cd" stroke="#ffc107" stroke-width="1" rx="4"/>
+  <text x="495" y="155" text-anchor="middle" fill="#856404" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Betalings-</text>
+  <text x="495" y="170" text-anchor="middle" fill="#856404" font-family="Arial, sans-serif" font-size="12" font-weight="bold">automatikk</text>
+  <text x="495" y="190" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">Automatiserte</text>
+  <text x="495" y="205" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">betalinger</text>
+  <text x="495" y="220" text-anchor="middle" fill="#ffc107" font-family="Arial, sans-serif" font-size="9" font-weight="bold">Optimal timing</text>
+  
+  <rect x="590" y="130" width="150" height="100" fill="#f8d7da" stroke="#dc3545" stroke-width="1" rx="4"/>
+  <text x="665" y="155" text-anchor="middle" fill="#721c24" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Rapportering</text>
+  <text x="665" y="170" text-anchor="middle" fill="#721c24" font-family="Arial, sans-serif" font-size="12" font-weight="bold">&amp; Analyse</text>
+  <text x="665" y="190" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">Aldersanalyse og</text>
+  <text x="665" y="205" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">n&amp;oslash;kkeltall</text>
+  <text x="665" y="220" text-anchor="middle" fill="#dc3545" font-family="Arial, sans-serif" font-size="9" font-weight="bold">Bedre kontroll</text>
+  
+  <!-- Benefits Section -->
+  <rect x="50" y="280" width="700" height="120" fill="white" stroke="#dee2e6" stroke-width="1" rx="8"/>
+  <text x="400" y="305" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="18" font-weight="bold">Fordeler med Digitalisering</text>
+  
+  <!-- Benefits list -->
+  <circle cx="80" cy="330" r="4" fill="#28a745"/>
+  <text x="100" y="335" fill="#333" font-family="Arial, sans-serif" font-size="13">Reduserte manuelle feil og &amp;oslash;kt n&amp;oslash;yaktighet</text>
+  
+  <circle cx="80" cy="350" r="4" fill="#28a745"/>
+  <text x="100" y="355" fill="#333" font-family="Arial, sans-serif" font-size="13">Raskere behandling og godkjenning av fakturaer</text>
+  
+  <circle cx="80" cy="370" r="4" fill="#28a745"/>
+  <text x="100" y="375" fill="#333" font-family="Arial, sans-serif" font-size="13">Automatisk utnyttelse av kontantrabatter</text>
+  
+  <circle cx="420" cy="330" r="4" fill="#007bff"/>
+  <text x="440" y="335" fill="#333" font-family="Arial, sans-serif" font-size="13">Bedre oversikt og kontroll over leverand&amp;oslash;rgjeld</text>
+  
+  <circle cx="420" cy="350" r="4" fill="#007bff"/>
+  <text x="440" y="355" fill="#333" font-family="Arial, sans-serif" font-size="13">Integrert rapportering og analyse</text>
+  
+  <circle cx="420" cy="370" r="4" fill="#007bff"/>
+  <text x="440" y="375" fill="#333" font-family="Arial, sans-serif" font-size="13">Skalerbare l&amp;oslash;sninger for vekst</text>
+  
+  <!-- Implementation Section -->
+  <rect x="50" y="420" width="700" height="60" fill="white" stroke="#dee2e6" stroke-width="1" rx="8"/>
+  <text x="400" y="445" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Implementering</text>
+  <text x="400" y="465" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="12">Integrasjon med eksisterende regnskapssystem og oppl&amp;aelig;ring av personale</text>
+</svg>

@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500">
+  <style>
+    .title-text { font-family: Arial, sans-serif; font-size: 24px; font-weight: bold; fill: #2d3748; }
+    .category-text { font-family: Arial, sans-serif; font-size: 18px; font-weight: bold; fill: #1e88e5; }
+    .ratio-text { font-family: Arial, sans-serif; font-size: 16px; font-weight: bold; fill: #2d3748; }
+    .formula-text { font-family: Arial, sans-serif; font-size: 14px; fill: #4a5568; }
+    .desc-text { font-family: Arial, sans-serif; font-size: 12px; fill: #718096; }
+    .example-text { font-family: Arial, sans-serif; font-size: 12px; fill: #2d3748; }
+    .likviditet-box { fill: #e6f3ff; stroke: #1e88e5; stroke-width: 2; }
+    .soliditet-box { fill: #e6ffe6; stroke: #38a169; stroke-width: 2; }
+    .effektivitet-box { fill: #fff2e6; stroke: #ff8c00; stroke-width: 2; }
+  </style>
+  
+  <!-- Title -->
+  <text x="400" y="30" class="title-text" text-anchor="middle">Finansielle Nøkkeltall fra Balansen</text>
+  
+  <!-- Likviditetsanalyse -->
+  <rect x="50" y="60" width="220" height="180" class="likviditet-box" rx="10"/>
+  <text x="160" y="85" class="category-text" text-anchor="middle">LIKVIDITETSANALYSE</text>
+  <text x="160" y="105" class="desc-text" text-anchor="middle">Evne til å møte kortsiktige forpliktelser</text>
+  
+  <!-- Arbeidskapital -->
+  <text x="70" y="130" class="ratio-text">Arbeidskapital</text>
+  <text x="70" y="145" class="formula-text">= Omløpsmidler - Kortsiktig gjeld</text>
+  <text x="70" y="160" class="example-text">Eks: 1.400.000 - 650.000 = 750.000</text>
+  
+  <!-- Likviditetsgrad 1 -->
+  <text x="70" y="180" class="ratio-text">Likviditetsgrad 1</text>
+  <text x="70" y="195" class="formula-text">= Omløpsmidler / Kortsiktig gjeld</text>
+  <text x="70" y="210" class="example-text">Eks: 1.400.000 / 650.000 = 2,15</text>
+  <text x="70" y="225" class="desc-text">Bør være > 2,0</text>
+  
+  <!-- Soliditetsanalyse -->
+  <rect x="290" y="60" width="220" height="180" class="soliditet-box" rx="10"/>
+  <text x="400" y="85" class="category-text" text-anchor="middle">SOLIDITETSANALYSE</text>
+  <text x="400" y="105" class="desc-text" text-anchor="middle">Finansiell styrke og stabilitet</text>
+  
+  <!-- Egenkapitalandel -->
+  <text x="310" y="130" class="ratio-text">Egenkapitalandel</text>
+  <text x="310" y="145" class="formula-text">= Egenkapital / Sum aktiva</text>
+  <text x="310" y="160" class="example-text">Eks: 1.700.000 / 4.350.000 = 39%</text>
+  <text x="310" y="175" class="desc-text">Bør være > 30%</text>
+  
+  <!-- Gjeldsgrad -->
+  <text x="310" y="195" class="ratio-text">Gjeldsgrad</text>
+  <text x="310" y="210" class="formula-text">= Sum gjeld / Sum aktiva</text>
+  <text x="310" y="225" class="example-text">Eks: 2.450.000 / 4.350.000 = 61%</text>
+  
+  <!-- Effektivitetsanalyse -->
+  <rect x="530" y="60" width="220" height="180" class="effektivitet-box" rx="10"/>
+  <text x="640" y="85" class="category-text" text-anchor="middle">EFFEKTIVITETSANALYSE</text>
+  <text x="640" y="105" class="desc-text" text-anchor="middle">Hvor effektivt ressurser brukes</text>
+  
+  <!-- Totalkapitalrentabilitet -->
+  <text x="550" y="130" class="ratio-text">Totalkapitalrentabilitet</text>
+  <text x="550" y="145" class="formula-text">= Driftsresultat / Gj.snitt totalkapital</text>
+  <text x="550" y="160" class="example-text">Eks: 500.000 / 4.200.000 = 12%</text>
+  
+  <!-- Egenkapitalrentabilitet -->
+  <text x="550" y="180" class="ratio-text">Egenkapitalrentabilitet</text>
+  <text x="550" y="195" class="formula-text">= Årets resultat / Gj.snitt egenkapital</text>
+  <text x="550" y="210" class="example-text">Eks: 300.000 / 1.650.000 = 18%</text>
+  <text x="550" y="225" class="desc-text">Bør være > 10%</text>
+  
+  <!-- Detailed ratio explanations -->
+  <rect x="50" y="270" width="700" height="200" fill="#f7fafc" stroke="#4a5568" stroke-width="1" rx="10"/>
+  <text x="400" y="295" class="category-text" text-anchor="middle">Tolkning av Nøkkeltall</text>
+  
+  <!-- Likviditet explanation -->
+  <text x="70" y="320" class="ratio-text">Likviditet:</text>
+  <text x="70" y="335" class="desc-text">• Arbeidskapital > 0: Positiv likviditet</text>
+  <text x="70" y="350" class="desc-text">• Likviditetsgrad 1 > 2,0: God betalingsevne</text>
+  <text x="70" y="365" class="desc-text">• Likviditetsgrad 2 > 1,0: Akseptabel uten varelager</text>
+  
+  <!-- Soliditet explanation -->
+  <text x="280" y="320" class="ratio-text">Soliditet:</text>
+  <text x="280" y="335" class="desc-text">• Egenkapitalandel > 30%: God soliditet</text>
+  <text x="280" y="350" class="desc-text">• Gjeldsgrad &lt; 70%: Akseptabel gjeldsbelastning</text>
+  <text x="280" y="365" class="desc-text">• Høy egenkapitalandel = lavere risiko</text>
+  
+  <!-- Rentabilitet explanation -->
+  <text x="520" y="320" class="ratio-text">Rentabilitet:</text>
+  <text x="520" y="335" class="desc-text">• Totalkapitalrentabilitet: Avkastning på alle midler</text>
+  <text x="520" y="350" class="desc-text">• Egenkapitalrentabilitet: Avkastning til eiere</text>
+  <text x="520" y="365" class="desc-text">• Sammenlign med bransje og tidligere år</text>
+  
+  <!-- Warning box -->
+  <rect x="150" y="390" width="500" height="60" fill="#fff5f5" stroke="#e53e3e" stroke-width="2" rx="5"/>
+  <text x="400" y="410" class="ratio-text" text-anchor="middle">Viktig å huske:</text>
+  <text x="400" y="425" class="desc-text" text-anchor="middle">Nøkkeltall må alltid vurderes i sammenheng med bransje, marked og historisk utvikling.</text>
+  <text x="400" y="440" class="desc-text" text-anchor="middle">Ett tall alene gir ikke det komplette bildet av virksomhetens finansielle helse.</text>
+</svg>

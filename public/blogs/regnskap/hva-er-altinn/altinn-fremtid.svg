@@ -1,0 +1,212 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="aiGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0D47A1;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="automationGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1B5E20;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="blockchainGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF9800;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#E65100;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="iotGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#9C27B0;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4A148C;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#333">
+    Altinn Fremtidsteknologier
+  </text>
+  
+  <!-- AI and Machine Learning Section -->
+  <g transform="translate(50, 80)">
+    <rect x="0" y="0" width="340" height="200" rx="10" fill="url(#aiGradient)" opacity="0.9"/>
+    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      Kunstig Intelligens
+    </text>
+    <text x="170" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+      AI og maskinlæring
+    </text>
+    
+    <!-- AI features grid -->
+    <g transform="translate(20, 65)">
+      <!-- Machine Learning -->
+      <rect x="0" y="0" width="140" height="60" rx="5" fill="white" opacity="0.2"/>
+      <text x="70" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        Maskinlæring
+      </text>
+      <text x="10" y="35" font-family="Arial, sans-serif" font-size="11" fill="white">• Datavalidering</text>
+      <text x="10" y="50" font-family="Arial, sans-serif" font-size="11" fill="white">• Anomalideteksjon</text>
+      
+      <!-- Natural Language Processing -->
+      <rect x="160" y="0" width="140" height="60" rx="5" fill="white" opacity="0.2"/>
+      <text x="230" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        Språkbehandling
+      </text>
+      <text x="170" y="35" font-family="Arial, sans-serif" font-size="11" fill="white">• Forbedret søk</text>
+      <text x="170" y="50" font-family="Arial, sans-serif" font-size="11" fill="white">• Brukerinteraksjon</text>
+      
+      <!-- Predictive Analytics -->
+      <rect x="0" y="75" width="140" height="60" rx="5" fill="white" opacity="0.2"/>
+      <text x="70" y="93" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        Prediktiv analyse
+      </text>
+      <text x="10" y="110" font-family="Arial, sans-serif" font-size="11" fill="white">• Proaktiv identifikasjon</text>
+      <text x="10" y="125" font-family="Arial, sans-serif" font-size="11" fill="white">• Problemforebygging</text>
+      
+      <!-- Intelligent Automation -->
+      <rect x="160" y="75" width="140" height="60" rx="5" fill="white" opacity="0.2"/>
+      <text x="230" y="93" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        Intelligent automatisering
+      </text>
+      <text x="170" y="110" font-family="Arial, sans-serif" font-size="11" fill="white">• Rutineoppgaver</text>
+      <text x="170" y="125" font-family="Arial, sans-serif" font-size="11" fill="white">• Brukeropplevelse</text>
+    </g>
+  </g>
+  
+  <!-- Process Automation Section -->
+  <g transform="translate(410, 80)">
+    <rect x="0" y="0" width="340" height="200" rx="10" fill="url(#automationGradient)" opacity="0.9"/>
+    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      Prosessautomatisering
+    </text>
+    <text x="170" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+      RPA og edge computing
+    </text>
+    
+    <!-- Automation grid -->
+    <g transform="translate(20, 65)">
+      <!-- Robotic Process Automation -->
+      <rect x="0" y="0" width="140" height="60" rx="5" fill="white" opacity="0.2"/>
+      <text x="70" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        RPA
+      </text>
+      <text x="10" y="35" font-family="Arial, sans-serif" font-size="11" fill="white">• Repetitive oppgaver</text>
+      <text x="10" y="50" font-family="Arial, sans-serif" font-size="11" fill="white">• Automatisert behandling</text>
+      
+      <!-- Edge Computing -->
+      <rect x="160" y="0" width="140" height="60" rx="5" fill="white" opacity="0.2"/>
+      <text x="230" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        Edge Computing
+      </text>
+      <text x="170" y="35" font-family="Arial, sans-serif" font-size="11" fill="white">• Raskere behandling</text>
+      <text x="170" y="50" font-family="Arial, sans-serif" font-size="11" fill="white">• Redusert latens</text>
+      
+      <!-- Workflow Optimization -->
+      <rect x="0" y="75" width="140" height="60" rx="5" fill="white" opacity="0.2"/>
+      <text x="70" y="93" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        Arbeidsflytoptimalisering
+      </text>
+      <text x="10" y="110" font-family="Arial, sans-serif" font-size="11" fill="white">• Effektive prosesser</text>
+      <text x="10" y="125" font-family="Arial, sans-serif" font-size="11" fill="white">• Redusert behandlingstid</text>
+      
+      <!-- Smart Integration -->
+      <rect x="160" y="75" width="140" height="60" rx="5" fill="white" opacity="0.2"/>
+      <text x="230" y="93" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        Smart integrasjon
+      </text>
+      <text x="170" y="110" font-family="Arial, sans-serif" font-size="11" fill="white">• Sømløs dataflyt</text>
+      <text x="170" y="125" font-family="Arial, sans-serif" font-size="11" fill="white">• Systemkommunikasjon</text>
+    </g>
+  </g>
+  
+  <!-- Blockchain and Security Section -->
+  <g transform="translate(50, 300)">
+    <rect x="0" y="0" width="340" height="200" rx="10" fill="url(#blockchainGradient)" opacity="0.9"/>
+    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      Blockchain og Sikkerhet
+    </text>
+    <text x="170" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+      Økt sikkerhet og sporbarhet
+    </text>
+    
+    <!-- Blockchain grid -->
+    <g transform="translate(20, 65)">
+      <!-- Blockchain Technology -->
+      <rect x="0" y="0" width="140" height="60" rx="5" fill="white" opacity="0.2"/>
+      <text x="70" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        Blockchain
+      </text>
+      <text x="10" y="35" font-family="Arial, sans-serif" font-size="11" fill="white">• Økt sikkerhet</text>
+      <text x="10" y="50" font-family="Arial, sans-serif" font-size="11" fill="white">• Sporbarhet</text>
+      
+      <!-- Digital Identity -->
+      <rect x="160" y="0" width="140" height="60" rx="5" fill="white" opacity="0.2"/>
+      <text x="230" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        Digital identitet
+      </text>
+      <text x="170" y="35" font-family="Arial, sans-serif" font-size="11" fill="white">• Sikker autentisering</text>
+      <text x="170" y="50" font-family="Arial, sans-serif" font-size="11" fill="white">• Identitetsbekreftelse</text>
+      
+      <!-- Cybersecurity -->
+      <rect x="0" y="75" width="140" height="60" rx="5" fill="white" opacity="0.2"/>
+      <text x="70" y="93" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        Cybersikkerhet
+      </text>
+      <text x="10" y="110" font-family="Arial, sans-serif" font-size="11" fill="white">• Nye sikkerhetsstandarder</text>
+      <text x="10" y="125" font-family="Arial, sans-serif" font-size="11" fill="white">• Trusseldeteksjon</text>
+      
+      <!-- Data Privacy -->
+      <rect x="160" y="75" width="140" height="60" rx="5" fill="white" opacity="0.2"/>
+      <text x="230" y="93" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        Personvern
+      </text>
+      <text x="170" y="110" font-family="Arial, sans-serif" font-size="11" fill="white">• GDPR-compliance</text>
+      <text x="170" y="125" font-family="Arial, sans-serif" font-size="11" fill="white">• Databeskyttelse</text>
+    </g>
+  </g>
+  
+  <!-- IoT and User Experience Section -->
+  <g transform="translate(410, 300)">
+    <rect x="0" y="0" width="340" height="200" rx="10" fill="url(#iotGradient)" opacity="0.9"/>
+    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      IoT og Brukeropplevelse
+    </text>
+    <text x="170" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+      Fremtidens interaksjon
+    </text>
+    
+    <!-- IoT and UX grid -->
+    <g transform="translate(20, 65)">
+      <!-- IoT Integration -->
+      <rect x="0" y="0" width="140" height="60" rx="5" fill="white" opacity="0.2"/>
+      <text x="70" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        IoT-integrasjon
+      </text>
+      <text x="10" y="35" font-family="Arial, sans-serif" font-size="11" fill="white">• Smarte enheter</text>
+      <text x="10" y="50" font-family="Arial, sans-serif" font-size="11" fill="white">• Direkte rapportering</text>
+      
+      <!-- Mobile Optimization -->
+      <rect x="160" y="0" width="140" height="60" rx="5" fill="white" opacity="0.2"/>
+      <text x="230" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        Mobiloptimalisering
+      </text>
+      <text x="170" y="35" font-family="Arial, sans-serif" font-size="11" fill="white">• Bedre mobilstøtte</text>
+      <text x="170" y="50" font-family="Arial, sans-serif" font-size="11" fill="white">• Responsivt design</text>
+      
+      <!-- Personalization -->
+      <rect x="0" y="75" width="140" height="60" rx="5" fill="white" opacity="0.2"/>
+      <text x="70" y="93" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        Personalisering
+      </text>
+      <text x="10" y="110" font-family="Arial, sans-serif" font-size="11" fill="white">• Tilpassede opplevelser</text>
+      <text x="10" y="125" font-family="Arial, sans-serif" font-size="11" fill="white">• Bruksmønstre</text>
+      
+      <!-- Real-time Updates -->
+      <rect x="160" y="75" width="140" height="60" rx="5" fill="white" opacity="0.2"/>
+      <text x="230" y="93" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        Sanntidsoppdateringer
+      </text>
+      <text x="170" y="110" font-family="Arial, sans-serif" font-size="11" fill="white">• Umiddelbar tilbakemelding</text>
+      <text x="170" y="125" font-family="Arial, sans-serif" font-size="11" fill="white">• Statusoppdateringer</text>
+    </g>
+  </g>
+</svg>

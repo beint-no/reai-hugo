@@ -1,0 +1,103 @@
+<svg width="800" height="350" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="350" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c3e50">
+    Regnskapsføring av Feriepenger
+  </text>
+  
+  <!-- Main container -->
+  <rect x="50" y="50" width="700" height="270" fill="white" stroke="#e9ecef" stroke-width="2" rx="10"/>
+  
+  <!-- Step 1: Monthly accrual -->
+  <rect x="80" y="80" width="200" height="100" fill="#3498db" rx="5"/>
+  <text x="180" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    1. Månedlig Avsetning
+  </text>
+  <text x="180" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    Debet: Lønnskostnad
+  </text>
+  <text x="180" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    (konto 5000-5099)
+  </text>
+  <text x="180" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    Kredit: Avsetning feriepenger
+  </text>
+  <text x="180" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    (konto 2940)
+  </text>
+  
+  <!-- Arrow 1 -->
+  <path d="M 300 130 L 350 130" stroke="#34495e" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Step 2: Payment -->
+  <rect x="370" y="80" width="200" height="100" fill="#e74c3c" rx="5"/>
+  <text x="470" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    2. Utbetaling
+  </text>
+  <text x="470" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    Debet: Avsetning feriepenger
+  </text>
+  <text x="470" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    (konto 2940)
+  </text>
+  <text x="470" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    Kredit: Bankkonto
+  </text>
+  <text x="470" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    (konto 1920)
+  </text>
+  
+  <!-- Step 3: Employer tax -->
+  <rect x="300" y="200" width="200" height="100" fill="#f39c12" rx="5"/>
+  <text x="400" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    3. Arbeidsgiveravgift
+  </text>
+  <text x="400" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    Debet: Arbeidsgiveravgift
+  </text>
+  <text x="400" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    (konto 5400)
+  </text>
+  <text x="400" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    Kredit: Skyldig arbeidsgiveravgift
+  </text>
+  <text x="400" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    (konto 2700)
+  </text>
+  
+  <!-- Arrow 2 -->
+  <path d="M 470 190 L 450 190" stroke="#34495e" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Balance sheet representation -->
+  <rect x="580" y="120" width="140" height="120" fill="#9b59b6" rx="5"/>
+  <text x="650" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    Balanse
+  </text>
+  <text x="650" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    Kortsiktig gjeld:
+  </text>
+  <text x="650" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    Avsetning feriepenger
+  </text>
+  <text x="650" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    Skyldig arbeidsgiveravgift
+  </text>
+  <text x="650" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    Resultatregnskap:
+  </text>
+  <text x="650" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    Lønnskostnad inkl. feriepenger
+  </text>
+  
+  <!-- Arrow 3 -->
+  <path d="M 520 180 L 570 180" stroke="#34495e" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>
+    </marker>
+  </defs>
+</svg>

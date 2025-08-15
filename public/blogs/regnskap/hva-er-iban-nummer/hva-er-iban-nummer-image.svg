@@ -1,0 +1,87 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="400" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
+  
+  <!-- Title -->
+  <text x="400" y="35" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" fill="white">
+    IBAN-nummer
+  </text>
+  <text x="400" y="60" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#e6f3ff">
+    International Bank Account Number
+  </text>
+  
+  <!-- IBAN Example Box -->
+  <rect x="50" y="120" width="700" height="80" fill="white" stroke="#0066cc" stroke-width="2" rx="8"/>
+  <text x="400" y="145" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#333">
+    Norsk IBAN-eksempel:
+  </text>
+  <text x="400" y="175" font-family="Courier, monospace" font-size="32" font-weight="bold" text-anchor="middle" fill="#0066cc">
+    NO93 8601 1117 947
+  </text>
+  
+  <!-- Structure breakdown -->
+  <g transform="translate(50, 230)">
+    <!-- NO -->
+    <rect x="0" y="0" width="80" height="50" fill="#ff6b6b" stroke="#e55353" stroke-width="1" rx="4"/>
+    <text x="40" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">NO</text>
+    <text x="40" y="35" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="white">Landkode</text>
+    
+    <!-- 93 -->
+    <rect x="100" y="0" width="80" height="50" fill="#4ecdc4" stroke="#45b7aa" stroke-width="1" rx="4"/>
+    <text x="140" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">93</text>
+    <text x="140" y="35" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="white">Kontroll</text>
+    
+    <!-- 8601 -->
+    <rect x="200" y="0" width="120" height="50" fill="#45b7d1" stroke="#3a9bc1" stroke-width="1" rx="4"/>
+    <text x="260" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">8601</text>
+    <text x="260" y="35" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="white">Bankkode</text>
+    
+    <!-- 1117947 -->
+    <rect x="340" y="0" width="160" height="50" fill="#96ceb4" stroke="#85b8a3" stroke-width="1" rx="4"/>
+    <text x="420" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">1117947</text>
+    <text x="420" y="35" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="white">Kontonummer</text>
+    
+    <!-- Benefits -->
+    <text x="550" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">Fordeler:</text>
+    <text x="550" y="40" font-family="Arial, sans-serif" font-size="12" fill="#666">• Standardisert format</text>
+    <text x="550" y="55" font-family="Arial, sans-serif" font-size="12" fill="#666">• Innebygd validering</text>
+  </g>
+  
+  <!-- Footer info -->
+  <text x="400" y="320" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#333">
+    Brukes i 77 land for internasjonale betalinger
+  </text>
+  <text x="400" y="340" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666">
+    Sikrer korrekt identifikasjon av mottakers bankkonto
+  </text>
+  
+  <!-- Globe icon -->
+  <circle cx="100" cy="350" r="25" fill="none" stroke="#0066cc" stroke-width="2"/>
+  <path d="M 85 350 Q 100 330 115 350 Q 100 370 85 350" fill="none" stroke="#0066cc" stroke-width="1.5"/>
+  <path d="M 85 350 Q 100 370 115 350 Q 100 330 85 350" fill="none" stroke="#0066cc" stroke-width="1.5"/>
+  <line x1="75" y1="350" x2="125" y2="350" stroke="#0066cc" stroke-width="1.5"/>
+  
+  <!-- Bank icon -->
+  <g transform="translate(650, 325)">
+    <rect x="0" y="15" width="50" height="25" fill="#0066cc"/>
+    <polygon points="0,15 25,0 50,15" fill="#004499"/>
+    <rect x="8" y="20" width="6" height="15" fill="white"/>
+    <rect x="18" y="20" width="6" height="15" fill="white"/>
+    <rect x="28" y="20" width="6" height="15" fill="white"/>
+    <rect x="38" y="20" width="6" height="15" fill="white"/>
+  </g>
+</svg>

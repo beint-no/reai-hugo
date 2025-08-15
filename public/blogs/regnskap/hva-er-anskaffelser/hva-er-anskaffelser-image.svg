@@ -1,0 +1,85 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="400" fill="url(#bgGradient)"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
+  
+  <!-- Title -->
+  <text x="400" y="50" font-family="Arial, sans-serif" font-size="36" font-weight="bold" text-anchor="middle" fill="white">
+    Hva er Anskaffelser?
+  </text>
+  
+  <!-- Main content area -->
+  <rect x="50" y="100" width="700" height="250" fill="white" stroke="#dee2e6" stroke-width="2" rx="10"/>
+  
+  <!-- Icons and sections -->
+  <!-- Public procurement icon -->
+  <circle cx="150" cy="180" r="30" fill="#28a745" opacity="0.2"/>
+  <rect x="130" y="160" width="40" height="40" fill="none" stroke="#28a745" stroke-width="3"/>
+  <text x="150" y="170" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" fill="#28a745">§</text>
+  <text x="150" y="220" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#333">
+    Offentlige
+  </text>
+  <text x="150" y="235" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#333">
+    Anskaffelser
+  </text>
+  
+  <!-- Private procurement icon -->
+  <circle cx="400" cy="180" r="30" fill="#007bff" opacity="0.2"/>
+  <rect x="380" y="160" width="40" height="40" fill="none" stroke="#007bff" stroke-width="3"/>
+  <circle cx="400" cy="180" r="8" fill="#007bff"/>
+  <text x="400" y="220" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#333">
+    Private
+  </text>
+  <text x="400" y="235" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#333">
+    Anskaffelser
+  </text>
+  
+  <!-- Contract management icon -->
+  <circle cx="650" cy="180" r="30" fill="#ffc107" opacity="0.2"/>
+  <rect x="630" y="160" width="40" height="40" fill="none" stroke="#ffc107" stroke-width="3"/>
+  <path d="M640 170 L660 170 M640 175 L660 175 M640 180 L655 180 M640 185 L650 185" stroke="#ffc107" stroke-width="2"/>
+  <text x="650" y="220" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#333">
+    Kontrakt-
+  </text>
+  <text x="650" y="235" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#333">
+    styring
+  </text>
+  
+  <!-- Connecting arrows -->
+  <path d="M180 180 L370 180" stroke="#6c757d" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <path d="M430 180 L620 180" stroke="#6c757d" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#6c757d"/>
+    </marker>
+  </defs>
+  
+  <!-- Bottom text -->
+  <text x="400" y="280" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#666">
+    Prosessen med å kjøpe varer, tjenester og bygge- og anleggsarbeider
+  </text>
+  <text x="400" y="300" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#666">
+    for å dekke en organisasjons behov
+  </text>
+  
+  <!-- Footer -->
+  <rect x="0" y="360" width="800" height="40" fill="#f8f9fa"/>
+  <text x="400" y="385" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#6c757d">
+    Omfatter lovverk, prosedyrer, kontraktstyper og regnskapsmessig behandling
+  </text>
+</svg>

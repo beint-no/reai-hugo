@@ -1,0 +1,57 @@
+<svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="400" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">NUF - Bro mellom utenlandsk selskap og norsk marked</text>
+  
+  <!-- Foreign company (left side) -->
+  <rect x="50" y="100" width="200" height="120" rx="10" fill="#3498db" stroke="#2980b9" stroke-width="2"/>
+  <text x="150" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">Utenlandsk</text>
+  <text x="150" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">Selskap</text>
+  <text x="150" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">• EU/EØS eller tredjeland</text>
+  <text x="150" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">• Begrenset ansvar</text>
+  
+  <!-- Bridge (NUF) -->
+  <rect x="300" y="140" width="200" height="80" rx="10" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+  <text x="400" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">NUF</text>
+  <text x="400" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Registreringsform</text>
+  <text x="400" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">i Norge</text>
+  
+  <!-- Norwegian market (right side) -->
+  <rect x="550" y="100" width="200" height="120" rx="10" fill="#27ae60" stroke="#229954" stroke-width="2"/>
+  <text x="650" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">Norsk</text>
+  <text x="650" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">Marked</text>
+  <text x="650" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">• Norske kunder</text>
+  <text x="650" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">• Norsk organisasjonsnr</text>
+  
+  <!-- Arrows -->
+  <path d="M 250 160 L 300 160" stroke="#34495e" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  <path d="M 500 160 L 550 160" stroke="#34495e" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>
+    </marker>
+  </defs>
+  
+  <!-- Benefits boxes -->
+  <rect x="100" y="280" width="150" height="80" rx="5" fill="#f39c12" stroke="#e67e22" stroke-width="1"/>
+  <text x="175" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Fordeler</text>
+  <text x="175" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• Rask etablering</text>
+  <text x="175" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• Lave kostnader</text>
+  <text x="175" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• Fleksibilitet</text>
+  
+  <rect x="300" y="280" width="200" height="80" rx="5" fill="#9b59b6" stroke="#8e44ad" stroke-width="1"/>
+  <text x="400" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Krav</text>
+  <text x="400" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• Norsk regnskap og rapportering</text>
+  <text x="400" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• MVA-registrering (hvis aktuelt)</text>
+  <text x="400" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• Norsk skatteplikt på norsk inntekt</text>
+  
+  <rect x="550" y="280" width="150" height="80" rx="5" fill="#1abc9c" stroke="#16a085" stroke-width="1"/>
+  <text x="625" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Egnet for</text>
+  <text x="625" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• Konsulenter</text>
+  <text x="625" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• IT-selskaper</text>
+  <text x="625" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• Handelsvirksomhet</text>
+</svg>

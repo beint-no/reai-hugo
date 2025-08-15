@@ -1,0 +1,148 @@
+<svg width="800" height="650" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="example1Grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#28a745;stop-opacity:0.9" />
+      <stop offset="100%" style="stop-color:#20c997;stop-opacity:0.9" />
+    </linearGradient>
+    <linearGradient id="example2Grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#007bff;stop-opacity:0.9" />
+      <stop offset="100%" style="stop-color:#6610f2;stop-opacity:0.9" />
+    </linearGradient>
+    <linearGradient id="example3Grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#fd7e14;stop-opacity:0.9" />
+      <stop offset="100%" style="stop-color:#e83e8c;stop-opacity:0.9" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="650" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" 
+        text-anchor="middle" fill="#212529">Praktiske Eksempler på Honorar</text>
+  
+  <!-- Example 1: Consultant -->
+  <rect x="50" y="70" width="700" height="160" fill="url(#example1Grad)" stroke="#28a745" stroke-width="2" rx="10"/>
+  <text x="400" y="95" font-family="Arial, sans-serif" font-size="18" font-weight="bold" 
+        text-anchor="middle" fill="white">Eksempel 1: Konsulenthonorar til AS</text>
+  
+  <text x="70" y="120" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    Situasjon: Strategiutvikling av konsulentselskap
+  </text>
+  
+  <!-- Left side - Invoice details -->
+  <text x="70" y="145" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    Faktura fra konsulent:
+  </text>
+  <text x="80" y="165" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Honorar: kr 50,000
+  </text>
+  <text x="80" y="180" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • MVA (25%): kr 12,500
+  </text>
+  <text x="80" y="195" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Total: kr 62,500
+  </text>
+  
+  <!-- Right side - Bookkeeping -->
+  <text x="400" y="145" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    Bokføring:
+  </text>
+  <rect x="410" y="155" width="320" height="60" fill="rgba(255,255,255,0.2)" stroke="white" stroke-width="1" rx="3"/>
+  <text x="420" y="175" font-family="Courier, monospace" font-size="10" fill="white">
+    Debet: Konsulenthonorar    kr 50,000
+  </text>
+  <text x="420" y="190" font-family="Courier, monospace" font-size="10" fill="white">
+    Debet: Inngående MVA       kr 12,500
+  </text>
+  <text x="420" y="205" font-family="Courier, monospace" font-size="10" fill="white">
+    Kredit: Leverandørgjeld    kr 62,500
+  </text>
+  
+  <!-- Example 2: Board -->
+  <rect x="50" y="250" width="700" height="160" fill="url(#example2Grad)" stroke="#007bff" stroke-width="2" rx="10"/>
+  <text x="400" y="275" font-family="Arial, sans-serif" font-size="18" font-weight="bold" 
+        text-anchor="middle" fill="white">Eksempel 2: Styrehonorar til Privatperson</text>
+  
+  <text x="70" y="300" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    Situasjon: Årshonorar til styremedlem uten organisasjonsnummer
+  </text>
+  
+  <!-- Left side - Calculation -->
+  <text x="70" y="325" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    Beregning:
+  </text>
+  <text x="80" y="345" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Bruttohonorar: kr 30,000
+  </text>
+  <text x="80" y="360" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Skattetrekk (25%): kr 7,500
+  </text>
+  <text x="80" y="375" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Netto utbetaling: kr 22,500
+  </text>
+  
+  <!-- Right side - Bookkeeping -->
+  <text x="400" y="325" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    Bokføring:
+  </text>
+  <rect x="410" y="335" width="320" height="60" fill="rgba(255,255,255,0.2)" stroke="white" stroke-width="1" rx="3"/>
+  <text x="420" y="355" font-family="Courier, monospace" font-size="10" fill="white">
+    Debet: Styrehonorar        kr 30,000
+  </text>
+  <text x="420" y="370" font-family="Courier, monospace" font-size="10" fill="white">
+    Kredit: Forskuddstrekk     kr  7,500
+  </text>
+  <text x="420" y="385" font-family="Courier, monospace" font-size="10" fill="white">
+    Kredit: Bank               kr 22,500
+  </text>
+  
+  <!-- Example 3: Lecture -->
+  <rect x="50" y="430" width="700" height="160" fill="url(#example3Grad)" stroke="#fd7e14" stroke-width="2" rx="10"/>
+  <text x="400" y="455" font-family="Arial, sans-serif" font-size="18" font-weight="bold" 
+        text-anchor="middle" fill="white">Eksempel 3: Foredragshonorar</text>
+  
+  <text x="70" y="480" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    Situasjon: Dagskurs med foredragsholder
+  </text>
+  
+  <!-- Left side - Components -->
+  <text x="70" y="505" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    Komponenter:
+  </text>
+  <text x="80" y="525" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Foredragshonorar: kr 8,000
+  </text>
+  <text x="80" y="540" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Reisegodtgjørelse: kr 1,200
+  </text>
+  <text x="80" y="555" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Total: kr 9,200
+  </text>
+  
+  <!-- Right side - Bookkeeping -->
+  <text x="400" y="505" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    Bokføring:
+  </text>
+  <rect x="410" y="515" width="320" height="60" fill="rgba(255,255,255,0.2)" stroke="white" stroke-width="1" rx="3"/>
+  <text x="420" y="535" font-family="Courier, monospace" font-size="10" fill="white">
+    Debet: Kurshonorar         kr  8,000
+  </text>
+  <text x="420" y="550" font-family="Courier, monospace" font-size="10" fill="white">
+    Debet: Reisekostnader      kr  1,200
+  </text>
+  <text x="420" y="565" font-family="Courier, monospace" font-size="10" fill="white">
+    Kredit: Bank               kr  9,200
+  </text>
+  
+  <!-- Bottom summary -->
+  <rect x="50" y="610" width="700" height="30" fill="white" stroke="#dee2e6" stroke-width="1" rx="5"/>
+  <text x="400" y="630" font-family="Arial, sans-serif" font-size="12" font-weight="bold" 
+        text-anchor="middle" fill="#0066cc">
+    Viktig: Alle honorarutbetalinger må ha korrekt dokumentasjon og godkjenning
+  </text>
+</svg>

@@ -1,0 +1,103 @@
+<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="500" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+    Grunnbeløpets Justeringsmekanisme
+  </text>
+  
+  <!-- Formula box -->
+  <rect x="200" y="60" width="400" height="60" fill="#3498db" stroke="#2980b9" stroke-width="2" rx="10"/>
+  <text x="400" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    Nytt G = Gammelt G × (1 + lønnsvekst)
+  </text>
+  <text x="400" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    Justeres årlig 1. mai
+  </text>
+  
+  <!-- Timeline -->
+  <line x1="100" y1="200" x2="700" y2="200" stroke="#34495e" stroke-width="3"/>
+  
+  <!-- Year markers -->
+  <circle cx="200" cy="200" r="8" fill="#e74c3c"/>
+  <text x="200" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+    2023
+  </text>
+  <text x="200" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#7f8c8d">
+    118 620 kr
+  </text>
+  
+  <circle cx="400" cy="200" r="8" fill="#f39c12"/>
+  <text x="400" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+    2024
+  </text>
+  <text x="400" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#7f8c8d">
+    124 028 kr
+  </text>
+  
+  <circle cx="600" cy="200" r="8" fill="#27ae60"/>
+  <text x="600" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+    2025
+  </text>
+  <text x="600" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#7f8c8d">
+    ? kr
+  </text>
+  
+  <!-- Growth arrows -->
+  <path d="M 220 180 L 280 180 L 275 175 M 280 180 L 275 185" stroke="#e74c3c" stroke-width="2" fill="none"/>
+  <text x="250" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#e74c3c">
+    +5,4%
+  </text>
+  
+  <path d="M 420 180 L 480 180 L 475 175 M 480 180 L 475 185" stroke="#f39c12" stroke-width="2" fill="none"/>
+  <text x="450" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#f39c12">
+    +?%
+  </text>
+  
+  <!-- Factors affecting adjustment -->
+  <rect x="50" y="300" width="200" height="120" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2" rx="10"/>
+  <text x="150" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+    Påvirkningsfaktorer
+  </text>
+  <text x="150" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#34495e">
+    • Lønnsvekst
+  </text>
+  <text x="150" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#34495e">
+    • Prisstigning
+  </text>
+  <text x="150" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#34495e">
+    • Økonomisk utvikling
+  </text>
+  <text x="150" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#34495e">
+    • Stortingets vedtak
+  </text>
+  
+  <!-- Decision process -->
+  <rect x="550" y="300" width="200" height="120" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2" rx="10"/>
+  <text x="650" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+    Beslutningsprosess
+  </text>
+  <text x="650" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#34495e">
+    1. Regjeringens forslag
+  </text>
+  <text x="650" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#34495e">
+    2. Stortingets behandling
+  </text>
+  <text x="650" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#34495e">
+    3. Vedtak og ikrafttredelse
+  </text>
+  <text x="650" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#34495e">
+    4. Implementering 1. mai
+  </text>
+  
+  <!-- Connection arrows -->
+  <path d="M 250 360 L 350 220 L 345 225 M 350 220 L 345 215" stroke="#95a5a6" stroke-width="2" fill="none"/>
+  <path d="M 550 360 L 450 220 L 455 225 M 450 220 L 455 215" stroke="#95a5a6" stroke-width="2" fill="none"/>
+  
+  <!-- Impact note -->
+  <rect x="300" y="450" width="200" height="30" fill="#e8f5e8" stroke="#27ae60" stroke-width="1" rx="5"/>
+  <text x="400" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#27ae60">
+    Påvirker millioner av nordmenn
+  </text>
+</svg>

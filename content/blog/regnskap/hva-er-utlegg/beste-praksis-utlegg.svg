@@ -1,0 +1,206 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="url(#bgGradient)"/>
+  
+  <!-- Title -->
+  <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#16a34a">
+    Beste Praksis for Utleggshåndtering
+  </text>
+  
+  <!-- Best Practice Categories -->
+  
+  <!-- Category 1: Policy &amp; Guidelines -->
+  <g transform="translate(50, 70)">
+    <rect x="0" y="0" width="220" height="160" rx="12" fill="#dcfce7" stroke="#22c55e" stroke-width="2"/>
+    <circle cx="110" cy="25" r="15" fill="#22c55e"/>
+    <text x="110" y="31" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">📋</text>
+    <text x="110" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#15803d">
+      Retningslinjer &amp; Policy
+    </text>
+    
+    <text x="15" y="75" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#16a34a">Utleggspolicy skal inneholde:</text>
+    <text x="15" y="90" font-family="Arial, sans-serif" font-size="10" fill="#15803d">• Klare definisjoner av tillatte utgifter</text>
+    <text x="15" y="105" font-family="Arial, sans-serif" font-size="10" fill="#15803d">• Beløpsgrenser per kategori og ansattnivå</text>
+    <text x="15" y="120" font-family="Arial, sans-serif" font-size="10" fill="#15803d">• Dokumentasjonskrav og frister</text>
+    <text x="15" y="135" font-family="Arial, sans-serif" font-size="10" fill="#15803d">• Godkjenningsprosess og ansvar</text>
+    <text x="15" y="150" font-family="Arial, sans-serif" font-size="10" fill="#15803d">• Sanksjoner ved brudd på reglene</text>
+  </g>
+  
+  <!-- Category 2: Documentation -->
+  <g transform="translate(290, 70)">
+    <rect x="0" y="0" width="220" height="160" rx="12" fill="#dbeafe" stroke="#3b82f6" stroke-width="2"/>
+    <circle cx="110" cy="25" r="15" fill="#3b82f6"/>
+    <text x="110" y="31" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">📄</text>
+    <text x="110" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e40af">
+      Dokumentasjon
+    </text>
+    
+    <text x="15" y="75" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1d4ed8">Krav til dokumentasjon:</text>
+    <text x="15" y="90" font-family="Arial, sans-serif" font-size="10" fill="#1e40af">• Originalkvitteringer alltid påkrevd</text>
+    <text x="15" y="105" font-family="Arial, sans-serif" font-size="10" fill="#1e40af">• Utfyllende beskrivelse av formål</text>
+    <text x="15" y="120" font-family="Arial, sans-serif" font-size="10" fill="#1e40af">• Deltakere ved representasjonsutgifter</text>
+    <text x="15" y="135" font-family="Arial, sans-serif" font-size="10" fill="#1e40af">• Tidspunkt og sted for utgiften</text>
+    <text x="15" y="150" font-family="Arial, sans-serif" font-size="10" fill="#1e40af">• Forretningsrelasjons relevans</text>
+  </g>
+  
+  <!-- Category 3: Process Efficiency -->
+  <g transform="translate(530, 70)">
+    <rect x="0" y="0" width="220" height="160" rx="12" fill="#fef3c7" stroke="#f59e0b" stroke-width="2"/>
+    <circle cx="110" cy="25" r="15" fill="#f59e0b"/>
+    <text x="110" y="31" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">⚡</text>
+    <text x="110" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#92400e">
+      Prosesseffektivitet
+    </text>
+    
+    <text x="15" y="75" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#b45309">Effektive prosesser:</text>
+    <text x="15" y="90" font-family="Arial, sans-serif" font-size="10" fill="#d97706">• Mobilbasert registrering underveis</text>
+    <text x="15" y="105" font-family="Arial, sans-serif" font-size="10" fill="#d97706">• Automatisk godkjenningsworkflow</text>
+    <text x="15" y="120" font-family="Arial, sans-serif" font-size="10" fill="#d97706">• Integrasjon med regnskapssystem</text>
+    <text x="15" y="135" font-family="Arial, sans-serif" font-size="10" fill="#d97706">• Maksimalt 48 timer behandlingstid</text>
+    <text x="15" y="150" font-family="Arial, sans-serif" font-size="10" fill="#d97706">• Selvservice for ansatte</text>
+  </g>
+  
+  <!-- Implementation Timeline -->
+  <g transform="translate(50, 260)">
+    <text x="350" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#374151">
+      Implementeringsplan for Beste Praksis
+    </text>
+    
+    <!-- Phase 1 -->
+    <rect x="0" y="20" width="160" height="120" rx="10" fill="#f0f9ff" stroke="#0ea5e9" stroke-width="2"/>
+    <circle cx="80" cy="40" r="12" fill="#0ea5e9"/>
+    <text x="80" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">Fase 1</text>
+    <text x="80" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#0c4a6e">
+      Analyse &amp; Planlegging
+    </text>
+    <text x="10" y="85" font-family="Arial, sans-serif" font-size="9" fill="#0369a1">• Kartlegg nåværende prosesser</text>
+    <text x="10" y="98" font-family="Arial, sans-serif" font-size="9" fill="#0369a1">• Identifiser forbedringsområder</text>
+    <text x="10" y="111" font-family="Arial, sans-serif" font-size="9" fill="#0369a1">• Utarbeid implementeringsplan</text>
+    <text x="10" y="124" font-family="Arial, sans-serif" font-size="9" fill="#0369a1">• Definer målsetninger og KPI-er</text>
+    
+    <!-- Phase 2 -->
+    <rect x="170" y="20" width="160" height="120" rx="10" fill="#f0fdf4" stroke="#22c55e" stroke-width="2"/>
+    <circle cx="250" cy="40" r="12" fill="#22c55e"/>
+    <text x="250" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">Fase 2</text>
+    <text x="250" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#15803d">
+      Policy &amp; Retningslinjer
+    </text>
+    <text x="180" y="85" font-family="Arial, sans-serif" font-size="9" fill="#16a34a">• Utvikle utleggspolicy</text>
+    <text x="180" y="98" font-family="Arial, sans-serif" font-size="9" fill="#16a34a">• Definer beløpsgrenser</text>
+    <text x="180" y="111" font-family="Arial, sans-serif" font-size="9" fill="#16a34a">• Etabler godkjenningsmatrise</text>
+    <text x="180" y="124" font-family="Arial, sans-serif" font-size="9" fill="#16a34a">• Kommuniser til organisasjonen</text>
+    
+    <!-- Phase 3 -->
+    <rect x="340" y="20" width="160" height="120" rx="10" fill="#fef3c7" stroke="#f59e0b" stroke-width="2"/>
+    <circle cx="420" cy="40" r="12" fill="#f59e0b"/>
+    <text x="420" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">Fase 3</text>
+    <text x="420" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#92400e">
+      Teknologi &amp; Systemer
+    </text>
+    <text x="350" y="85" font-family="Arial, sans-serif" font-size="9" fill="#b45309">• Implementer utleggssystem</text>
+    <text x="350" y="98" font-family="Arial, sans-serif" font-size="9" fill="#b45309">• Integrer med ERP/regnskap</text>
+    <text x="350" y="111" font-family="Arial, sans-serif" font-size="9" fill="#b45309">• Sett opp automatiseringer</text>
+    <text x="350" y="124" font-family="Arial, sans-serif" font-size="9" fill="#b45309">• Test og kvalitetssikre</text>
+    
+    <!-- Phase 4 -->
+    <rect x="510" y="20" width="160" height="120" rx="10" fill="#fce7f3" stroke="#ec4899" stroke-width="2"/>
+    <circle cx="590" cy="40" r="12" fill="#ec4899"/>
+    <text x="590" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">Fase 4</text>
+    <text x="590" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#be185d">
+      Opplæring &amp; Utrulling
+    </text>
+    <text x="520" y="85" font-family="Arial, sans-serif" font-size="9" fill="#db2777">• Gjennomfør opplæringsprogram</text>
+    <text x="520" y="98" font-family="Arial, sans-serif" font-size="9" fill="#db2777">• Pilot med utvalgte avdelinger</text>
+    <text x="520" y="111" font-family="Arial, sans-serif" font-size="9" fill="#db2777">• Gradvis utrulling til alle</text>
+    <text x="520" y="124" font-family="Arial, sans-serif" font-size="9" fill="#db2777">• Løpende støtte og oppfølging</text>
+  </g>
+  
+  <!-- Success Metrics -->
+  <g transform="translate(50, 400)">
+    <text x="350" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#374151">
+      Suksessmetrikker og Kontinuerlig Forbedring
+    </text>
+    
+    <!-- Metrics Grid -->
+    <rect x="0" y="20" width="700" height="150" rx="10" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1"/>
+    
+    <!-- Efficiency Metrics -->
+    <g transform="translate(20, 40)">
+      <text x="0" y="0" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#059669">Effektivitetsmetrikker:</text>
+      
+      <rect x="0" y="10" width="150" height="40" rx="5" fill="#ecfccb" stroke="#84cc16" stroke-width="1"/>
+      <text x="75" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#365314">Behandlingstid</text>
+      <text x="75" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#4d7c0f">Mål: &lt; 48t</text>
+      
+      <rect x="160" y="10" width="150" height="40" rx="5" fill="#dbeafe" stroke="#3b82f6" stroke-width="1"/>
+      <text x="235" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#1e40af">Automatisering</text>
+      <text x="235" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1d4ed8">Mål: &gt; 80%</text>
+      
+      <rect x="320" y="10" width="150" height="40" rx="5" fill="#fef3c7" stroke="#f59e0b" stroke-width="1"/>
+      <text x="395" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#92400e">Kostnad per utlegg</text>
+      <text x="395" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#b45309">Mål: &lt; kr 40</text>
+    </g>
+    
+    <!-- Quality Metrics -->
+    <g transform="translate(20, 100)">
+      <text x="0" y="0" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#dc2626">Kvalitetsmetrikker:</text>
+      
+      <rect x="0" y="10" width="150" height="40" rx="5" fill="#fee2e2" stroke="#ef4444" stroke-width="1"/>
+      <text x="75" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#dc2626">Avviksrate</text>
+      <text x="75" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#b91c1c">Mål: &lt; 5%</text>
+      
+      <rect x="160" y="10" width="150" height="40" rx="5" fill="#fce7f3" stroke="#ec4899" stroke-width="1"/>
+      <text x="235" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#be185d">Førstegangsgodkjenning</text>
+      <text x="235" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#db2777">Mål: &gt; 95%</text>
+      
+      <rect x="320" y="10" width="150" height="40" rx="5" fill="#e0e7ff" stroke="#6366f1" stroke-width="1"/>
+      <text x="395" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#4338ca">Compliance-score</text>
+      <text x="395" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#4f46e5">Mål: 100%</text>
+    </g>
+    
+    <!-- Continuous Improvement Process -->
+    <g transform="translate(500, 40)">
+      <text x="90" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#7c3aed">
+        Kontinuerlig Forbedring
+      </text>
+      
+      <!-- PDCA Cycle -->
+      <circle cx="90" cy="60" r="35" fill="none" stroke="#8b5cf6" stroke-width="2"/>
+      
+      <!-- Plan -->
+      <rect x="70" y="30" width="20" height="15" rx="3" fill="#ddd6fe"/>
+      <text x="80" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="#5b21b6">Plan</text>
+      
+      <!-- Do -->
+      <rect x="105" y="45" width="20" height="15" rx="3" fill="#ddd6fe"/>
+      <text x="115" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="#5b21b6">Do</text>
+      
+      <!-- Check -->
+      <rect x="90" y="80" width="20" height="15" rx="3" fill="#ddd6fe"/>
+      <text x="100" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="#5b21b6">Check</text>
+      
+      <!-- Act -->
+      <rect x="60" y="65" width="20" height="15" rx="3" fill="#ddd6fe"/>
+      <text x="70" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="#5b21b6">Act</text>
+      
+      <text x="90" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#7c3aed">
+        Månedlig gjennomgang
+      </text>
+    </g>
+  </g>
+  
+  <!-- Bottom Call-to-Action -->
+  <g transform="translate(50, 570)">
+    <rect x="0" y="0" width="700" height="25" rx="5" fill="#16a34a" opacity="0.1"/>
+    <text x="350" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#16a34a">
+      🎯 Suksess krever dedikert ledelse, klare prosesser og kontinuerlig fokus på forbedring
+    </text>
+  </g>
+</svg>

@@ -1,0 +1,124 @@
+<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="500" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#2c3e50">Skattetrekkskonto - Feriepenger og Sesongvariasjoner</text>
+  
+  <!-- Timeline showing year progression -->
+  <rect x="50" y="60" width="700" height="120" rx="10" fill="#3498db" stroke="#2980b9" stroke-width="2"/>
+  <text x="400" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">FERIEPENGER OPPTJENING OG UTBETALING</text>
+  
+  <!-- Monthly timeline -->
+  <line x1="80" y1="120" x2="720" y2="120" stroke="#fff" stroke-width="3"/>
+  
+  <!-- Month markers -->
+  <circle cx="120" cy="120" r="8" fill="#27ae60"/>
+  <text x="120" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">JAN</text>
+  <text x="120" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">Opptjening</text>
+  <text x="120" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">8.333 kr</text>
+  
+  <circle cx="200" cy="120" r="8" fill="#27ae60"/>
+  <text x="200" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">FEB</text>
+  <text x="200" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">Opptjening</text>
+  <text x="200" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">8.333 kr</text>
+  
+  <circle cx="280" cy="120" r="8" fill="#27ae60"/>
+  <text x="280" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">MAR</text>
+  <text x="280" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">Opptjening</text>
+  <text x="280" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">8.333 kr</text>
+  
+  <circle cx="360" cy="120" r="8" fill="#27ae60"/>
+  <text x="360" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">APR</text>
+  <text x="360" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">Opptjening</text>
+  <text x="360" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">8.333 kr</text>
+  
+  <circle cx="440" cy="120" r="8" fill="#27ae60"/>
+  <text x="440" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">MAI</text>
+  <text x="440" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">Opptjening</text>
+  <text x="440" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">8.333 kr</text>
+  
+  <circle cx="520" cy="120" r="12" fill="#e74c3c"/>
+  <text x="520" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">JUN</text>
+  <text x="520" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="white">UTBETALING</text>
+  <text x="520" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="white">100.000 kr</text>
+  
+  <circle cx="600" cy="120" r="8" fill="#27ae60"/>
+  <text x="600" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">JUL-DES</text>
+  <text x="600" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">Ny opptjening</text>
+  <text x="600" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">Neste år</text>
+  
+  <!-- Accounting entries -->
+  <rect x="50" y="200" width="350" height="120" rx="10" fill="#9b59b6" stroke="#8e44ad" stroke-width="2"/>
+  <text x="225" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">REGNSKAPSFØRING OPPTJENING</text>
+  
+  <rect x="70" y="240" width="310" height="70" rx="5" fill="#8e44ad"/>
+  <text x="85" y="255" font-family="monospace" font-size="10" fill="white">Månedlig (jan-mai):</text>
+  <text x="85" y="270" font-family="monospace" font-size="10" fill="white">Dr. Lønnskostnad              8.333</text>
+  <text x="105" y="285" font-family="monospace" font-size="10" fill="white">Kr. Feriepenger skyldig        8.333</text>
+  <text x="85" y="300" font-family="monospace" font-size="9" fill="white">Total opptjent: 50.000 kr</text>
+  
+  <rect x="420" y="200" width="330" height="120" rx="10" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+  <text x="585" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">REGNSKAPSFØRING UTBETALING</text>
+  
+  <rect x="440" y="240" width="290" height="70" rx="5" fill="#c0392b"/>
+  <text x="455" y="255" font-family="monospace" font-size="10" fill="white">Juni utbetaling:</text>
+  <text x="455" y="270" font-family="monospace" font-size="10" fill="white">Dr. Feriepenger skyldig    100.000</text>
+  <text x="475" y="285" font-family="monospace" font-size="10" fill="white">Kr. Skattetrekk skyldig     20.000</text>
+  <text x="475" y="300" font-family="monospace" font-size="10" fill="white">Kr. Bankutbetaling          80.000</text>
+  
+  <!-- Liquidity impact chart -->
+  <rect x="50" y="340" width="700" height="130" rx="10" fill="#17a2b8" stroke="#138496" stroke-width="2"/>
+  <text x="400" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">LIKVIDITETSPLANLEGGING - SKATTETREKKSKONTO</text>
+  
+  <!-- Chart showing cash flow impact -->
+  <rect x="80" y="380" width="640" height="80" rx="5" fill="#138496"/>
+  
+  <!-- Monthly bars showing skattetrekk amounts -->
+  <rect x="100" y="430" width="40" height="20" fill="#27ae60"/>
+  <text x="120" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">JAN</text>
+  <text x="120" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">7k</text>
+  
+  <rect x="160" y="430" width="40" height="20" fill="#27ae60"/>
+  <text x="180" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">FEB</text>
+  <text x="180" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">7k</text>
+  
+  <rect x="220" y="430" width="40" height="20" fill="#27ae60"/>
+  <text x="240" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">MAR</text>
+  <text x="240" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">7k</text>
+  
+  <rect x="280" y="430" width="40" height="20" fill="#27ae60"/>
+  <text x="300" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">APR</text>
+  <text x="300" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">7k</text>
+  
+  <rect x="340" y="430" width="40" height="20" fill="#27ae60"/>
+  <text x="360" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">MAI</text>
+  <text x="360" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">7k</text>
+  
+  <!-- June spike -->
+  <rect x="400" y="390" width="40" height="60" fill="#e74c3c"/>
+  <text x="420" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="white">JUN</text>
+  <text x="420" y="375" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#e74c3c">KRITISK</text>
+  <text x="420" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="white">27k</text>
+  
+  <rect x="460" y="430" width="40" height="20" fill="#27ae60"/>
+  <text x="480" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">JUL</text>
+  <text x="480" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">7k</text>
+  
+  <rect x="520" y="430" width="40" height="20" fill="#27ae60"/>
+  <text x="540" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">AUG</text>
+  <text x="540" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">7k</text>
+  
+  <rect x="580" y="430" width="40" height="20" fill="#27ae60"/>
+  <text x="600" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">SEP-DES</text>
+  <text x="600" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">7k/mnd</text>
+  
+  <!-- Planning recommendations -->
+  <rect x="100" y="480" width="600" height="15" rx="3" fill="#fff3cd" stroke="#ffc107" stroke-width="1"/>
+  <text x="400" y="492" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#856404">PLANLEGGING: Ekstra arbeidskapital 20.000 kr i juni for feriepengeutbetaling</text>
+  
+  <!-- Warning indicators -->
+  <circle cx="420" cy="320" r="15" fill="#dc3545"/>
+  <text x="420" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">!</text>
+  <text x="460" y="325" font-family="Arial, sans-serif" font-size="10" fill="#dc3545">400% økning i juni</text>
+</svg>

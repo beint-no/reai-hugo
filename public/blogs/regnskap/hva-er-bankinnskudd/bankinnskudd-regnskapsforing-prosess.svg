@@ -1,0 +1,201 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0D47A1;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="processGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1B5E20;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accountGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF9800;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#E65100;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="balanceGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#9C27B0;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4A148C;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
+  <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
+    Regnskapsføring av Bankinnskudd - Prosess
+  </text>
+  
+  <!-- Step 1: Cash Deposit -->
+  <g transform="translate(50, 100)">
+    <rect x="0" y="0" width="160" height="100" rx="10" fill="url(#processGradient)" opacity="0.9"/>
+    <text x="80" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      1. Kontantinnskudd
+    </text>
+    <circle cx="80" cy="50" r="15" fill="white" opacity="0.3"/>
+    <text x="80" y="57" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">💰</text>
+    <text x="80" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+      Setter inn kontanter
+    </text>
+    <text x="80" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+      på bankkonto
+    </text>
+  </g>
+  
+  <!-- Arrow 1 -->
+  <path d="M 220 150 L 260 150" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Step 2: Journal Entry -->
+  <g transform="translate(270, 100)">
+    <rect x="0" y="0" width="160" height="100" rx="10" fill="url(#accountGradient)" opacity="0.9"/>
+    <text x="80" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      2. Bilagsføring
+    </text>
+    <circle cx="80" cy="50" r="15" fill="white" opacity="0.3"/>
+    <text x="80" y="57" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">📝</text>
+    <text x="80" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+      Debet: Bank (1900)
+    </text>
+    <text x="80" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+      Kredit: Kasse (1800)
+    </text>
+  </g>
+  
+  <!-- Arrow 2 -->
+  <path d="M 440 150 L 480 150" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Step 3: Balance Sheet -->
+  <g transform="translate(490, 100)">
+    <rect x="0" y="0" width="160" height="100" rx="10" fill="url(#balanceGradient)" opacity="0.9"/>
+    <text x="80" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      3. Balanse
+    </text>
+    <circle cx="80" cy="50" r="15" fill="white" opacity="0.3"/>
+    <text x="80" y="57" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">📊</text>
+    <text x="80" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+      Omløpsmidler
+    </text>
+    <text x="80" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+      øker med beløpet
+    </text>
+  </g>
+  
+  <!-- Account Types Section -->
+  <text x="50" y="250" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333">
+    Kontoplan for Bankinnskudd:
+  </text>
+  
+  <!-- Account 1900 -->
+  <g transform="translate(50, 270)">
+    <rect x="0" y="0" width="150" height="60" rx="5" fill="#E3F2FD" stroke="#2196F3" stroke-width="2"/>
+    <text x="75" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1976D2">
+      1900 - Bank
+    </text>
+    <text x="75" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">
+      Hovedkonto for
+    </text>
+    <text x="75" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">
+      bankinnskudd
+    </text>
+  </g>
+  
+  <!-- Account 1901 -->
+  <g transform="translate(220, 270)">
+    <rect x="0" y="0" width="150" height="60" rx="5" fill="#E8F5E8" stroke="#4CAF50" stroke-width="2"/>
+    <text x="75" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2E7D32">
+      1901 - Brukskonto
+    </text>
+    <text x="75" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">
+      Daglige
+    </text>
+    <text x="75" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">
+      transaksjoner
+    </text>
+  </g>
+  
+  <!-- Account 1902 -->
+  <g transform="translate(390, 270)">
+    <rect x="0" y="0" width="150" height="60" rx="5" fill="#FFF3E0" stroke="#FF9800" stroke-width="2"/>
+    <text x="75" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#F57C00">
+      1902 - Sparekonto
+    </text>
+    <text x="75" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">
+      Sparing med
+    </text>
+    <text x="75" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">
+      høyere rente
+    </text>
+  </g>
+  
+  <!-- Account 1903 -->
+  <g transform="translate(560, 270)">
+    <rect x="0" y="0" width="150" height="60" rx="5" fill="#F3E5F5" stroke="#9C27B0" stroke-width="2"/>
+    <text x="75" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#7B1FA2">
+      1903 - Terminskudd
+    </text>
+    <text x="75" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">
+      Bundne innskudd
+    </text>
+    <text x="75" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">
+      med fast løpetid
+    </text>
+  </g>
+  
+  <!-- Transfer Process -->
+  <text x="50" y="380" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333">
+    Overføring mellom kontoer:
+  </text>
+  
+  <!-- Transfer Example -->
+  <g transform="translate(50, 400)">
+    <rect x="0" y="0" width="300" height="120" rx="10" fill="#E8F5E8" stroke="#4CAF50" stroke-width="2"/>
+    <text x="150" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2E7D32">
+      Eksempel: Brukskonto → Sparekonto
+    </text>
+    
+    <text x="20" y="50" font-family="Arial, sans-serif" font-size="14" fill="#333">
+      Debet: Sparekonto (1902)     200.000
+    </text>
+    <text x="20" y="70" font-family="Arial, sans-serif" font-size="14" fill="#333">
+      Kredit: Brukskonto (1901)            200.000
+    </text>
+    
+    <text x="20" y="95" font-family="Arial, sans-serif" font-size="12" fill="#666">
+      Flytter midler for bedre renteavkastning
+    </text>
+    <text x="20" y="110" font-family="Arial, sans-serif" font-size="12" fill="#666">
+      Totale bankinnskudd forblir uendret
+    </text>
+  </g>
+  
+  <!-- Interest Accrual -->
+  <g transform="translate(400, 400)">
+    <rect x="0" y="0" width="300" height="120" rx="10" fill="#FFF3E0" stroke="#FF9800" stroke-width="2"/>
+    <text x="150" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#F57C00">
+      Renteinntekter
+    </text>
+    
+    <text x="20" y="50" font-family="Arial, sans-serif" font-size="14" fill="#333">
+      Debet: Bank (1900)           5.000
+    </text>
+    <text x="20" y="70" font-family="Arial, sans-serif" font-size="14" fill="#333">
+      Kredit: Renteinntekter (8050)        5.000
+    </text>
+    
+    <text x="20" y="95" font-family="Arial, sans-serif" font-size="12" fill="#666">
+      Renter tilskrevet av bank
+    </text>
+    <text x="20" y="110" font-family="Arial, sans-serif" font-size="12" fill="#666">
+      Øker både bankinnskudd og inntekter
+    </text>
+  </g>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" 
+     refX="0" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#333" />
+    </marker>
+  </defs>
+</svg>

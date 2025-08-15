@@ -1,0 +1,225 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+    Struktur og Organisering av Arbeidspapirer
+  </text>
+  
+  <!-- File categories section -->
+  <g transform="translate(50, 70)">
+    <text x="0" y="0" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">Hovedkategorier</text>
+    
+    <!-- Permanent files -->
+    <g transform="translate(0, 30)">
+      <rect x="0" y="0" width="320" height="180" fill="#3498db" stroke="#2980b9" stroke-width="2" rx="10"/>
+      <text x="160" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">PERMANENTE FILER</text>
+      <text x="160" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Informasjon relevant over flere år</text>
+      
+      <!-- Permanent file types -->
+      <g transform="translate(20, 65)">
+        <rect x="0" y="0" width="120" height="25" fill="#2980b9" stroke="#1f4e79" stroke-width="1" rx="3"/>
+        <text x="60" y="17" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">Selskapsinfo</text>
+      </g>
+      <g transform="translate(160, 65)">
+        <rect x="0" y="0" width="120" height="25" fill="#2980b9" stroke="#1f4e79" stroke-width="1" rx="3"/>
+        <text x="60" y="17" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">Avtaler</text>
+      </g>
+      <g transform="translate(20, 100)">
+        <rect x="0" y="0" width="120" height="25" fill="#2980b9" stroke="#1f4e79" stroke-width="1" rx="3"/>
+        <text x="60" y="17" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">Regnskapsrutiner</text>
+      </g>
+      <g transform="translate(160, 100)">
+        <rect x="0" y="0" width="120" height="25" fill="#2980b9" stroke="#1f4e79" stroke-width="1" rx="3"/>
+        <text x="60" y="17" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">Tidligere revisjoner</text>
+      </g>
+      
+      <!-- Examples -->
+      <text x="20" y="150" font-family="Arial, sans-serif" font-size="10" fill="white">Eksempler:</text>
+      <text x="20" y="165" font-family="Arial, sans-serif" font-size="10" fill="white">• Vedtekter, organisasjonskart</text>
+      <text x="160" y="165" font-family="Arial, sans-serif" font-size="10" fill="white">• Leieavtaler, låneavtaler</text>
+    </g>
+    
+    <!-- Current files -->
+    <g transform="translate(380, 30)">
+      <rect x="0" y="0" width="320" height="180" fill="#e74c3c" stroke="#c0392b" stroke-width="2" rx="10"/>
+      <text x="160" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">LØPENDE FILER</text>
+      <text x="160" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Informasjon for inneværende års revisjon</text>
+      
+      <!-- Current file types -->
+      <g transform="translate(20, 65)">
+        <rect x="0" y="0" width="120" height="25" fill="#c0392b" stroke="#922b21" stroke-width="1" rx="3"/>
+        <text x="60" y="17" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">Planlegging</text>
+      </g>
+      <g transform="translate(160, 65)">
+        <rect x="0" y="0" width="120" height="25" fill="#c0392b" stroke="#922b21" stroke-width="1" rx="3"/>
+        <text x="60" y="17" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">Utførelse</text>
+      </g>
+      <g transform="translate(20, 100)">
+        <rect x="0" y="0" width="120" height="25" fill="#c0392b" stroke="#922b21" stroke-width="1" rx="3"/>
+        <text x="60" y="17" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">Gjennomgang</text>
+      </g>
+      <g transform="translate(160, 100)">
+        <rect x="0" y="0" width="120" height="25" fill="#c0392b" stroke="#922b21" stroke-width="1" rx="3"/>
+        <text x="60" y="17" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">Avslutning</text>
+      </g>
+      
+      <!-- Examples -->
+      <text x="20" y="150" font-family="Arial, sans-serif" font-size="10" fill="white">Eksempler:</text>
+      <text x="20" y="165" font-family="Arial, sans-serif" font-size="10" fill="white">• Risikovurderinger</text>
+      <text x="160" y="165" font-family="Arial, sans-serif" font-size="10" fill="white">• Tester, analyser</text>
+    </g>
+  </g>
+  
+  <!-- Organization systems section -->
+  <g transform="translate(50, 300)">
+    <text x="0" y="0" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">Organiseringssystemer</text>
+    
+    <!-- Numeric system -->
+    <g transform="translate(0, 30)">
+      <rect x="0" y="0" width="320" height="140" fill="#f39c12" stroke="#e67e22" stroke-width="2" rx="10"/>
+      <text x="160" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">NUMERISK SYSTEM</text>
+      
+      <!-- Numeric examples -->
+      <g transform="translate(20, 45)">
+        <rect x="0" y="0" width="60" height="20" fill="#e67e22" stroke="#d35400" stroke-width="1" rx="3"/>
+        <text x="30" y="14" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">100</text>
+        <text x="70" y="14" font-family="Arial, sans-serif" font-size="11" fill="white">Planlegging</text>
+      </g>
+      <g transform="translate(20, 70)">
+        <rect x="0" y="0" width="60" height="20" fill="#e67e22" stroke="#d35400" stroke-width="1" rx="3"/>
+        <text x="30" y="14" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">110</text>
+        <text x="70" y="14" font-family="Arial, sans-serif" font-size="11" fill="white">Risikovurdering</text>
+      </g>
+      <g transform="translate(20, 95)">
+        <rect x="0" y="0" width="60" height="20" fill="#e67e22" stroke="#d35400" stroke-width="1" rx="3"/>
+        <text x="30" y="14" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">110.1</text>
+        <text x="70" y="14" font-family="Arial, sans-serif" font-size="11" fill="white">Individuelt papir</text>
+      </g>
+      
+      <g transform="translate(160, 45)">
+        <rect x="0" y="0" width="60" height="20" fill="#e67e22" stroke="#d35400" stroke-width="1" rx="3"/>
+        <text x="30" y="14" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">200</text>
+        <text x="70" y="14" font-family="Arial, sans-serif" font-size="11" fill="white">Utførelse</text>
+      </g>
+      <g transform="translate(160, 70)">
+        <rect x="0" y="0" width="60" height="20" fill="#e67e22" stroke="#d35400" stroke-width="1" rx="3"/>
+        <text x="30" y="14" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">210</text>
+        <text x="70" y="14" font-family="Arial, sans-serif" font-size="11" fill="white">Kontrolltesting</text>
+      </g>
+      <g transform="translate(160, 95)">
+        <rect x="0" y="0" width="60" height="20" fill="#e67e22" stroke="#d35400" stroke-width="1" rx="3"/>
+        <text x="30" y="14" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">210.1</text>
+        <text x="70" y="14" font-family="Arial, sans-serif" font-size="11" fill="white">Spesifikk test</text>
+      </g>
+    </g>
+    
+    <!-- Alphabetic system -->
+    <g transform="translate(380, 30)">
+      <rect x="0" y="0" width="320" height="140" fill="#27ae60" stroke="#229954" stroke-width="2" rx="10"/>
+      <text x="160" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">ALFABETISK SYSTEM</text>
+      
+      <!-- Alphabetic examples -->
+      <g transform="translate(20, 45)">
+        <rect x="0" y="0" width="30" height="20" fill="#229954" stroke="#1e8449" stroke-width="1" rx="3"/>
+        <text x="15" y="14" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">A</text>
+        <text x="40" y="14" font-family="Arial, sans-serif" font-size="11" fill="white">Administrative forhold</text>
+      </g>
+      <g transform="translate(20, 70)">
+        <rect x="0" y="0" width="30" height="20" fill="#229954" stroke="#1e8449" stroke-width="1" rx="3"/>
+        <text x="15" y="14" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">B</text>
+        <text x="40" y="14" font-family="Arial, sans-serif" font-size="11" fill="white">Balanseposter</text>
+      </g>
+      <g transform="translate(20, 95)">
+        <rect x="0" y="0" width="30" height="20" fill="#229954" stroke="#1e8449" stroke-width="1" rx="3"/>
+        <text x="15" y="14" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">R</text>
+        <text x="40" y="14" font-family="Arial, sans-serif" font-size="11" fill="white">Resultatposter</text>
+      </g>
+      
+      <g transform="translate(160, 45)">
+        <rect x="0" y="0" width="30" height="20" fill="#229954" stroke="#1e8449" stroke-width="1" rx="3"/>
+        <text x="15" y="14" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">S</text>
+        <text x="40" y="14" font-family="Arial, sans-serif" font-size="11" fill="white">Sammendrag</text>
+      </g>
+      <g transform="translate(160, 70)">
+        <rect x="0" y="0" width="30" height="20" fill="#229954" stroke="#1e8449" stroke-width="1" rx="3"/>
+        <text x="15" y="14" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">K</text>
+        <text x="40" y="14" font-family="Arial, sans-serif" font-size="11" fill="white">Konklusjoner</text>
+      </g>
+      <g transform="translate(160, 95)">
+        <rect x="0" y="0" width="30" height="20" fill="#229954" stroke="#1e8449" stroke-width="1" rx="3"/>
+        <text x="15" y="14" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">T</text>
+        <text x="40" y="14" font-family="Arial, sans-serif" font-size="11" fill="white">Tester og prosedyrer</text>
+      </g>
+    </g>
+  </g>
+  
+  <!-- Organization flow -->
+  <g transform="translate(100, 500)">
+    <text x="300" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">Organisering og Tilgang</text>
+    
+    <!-- Flow elements -->
+    <g transform="translate(0, 25)">
+      <!-- Structure -->
+      <rect x="0" y="0" width="80" height="30" fill="#9b59b6" stroke="#8e44ad" stroke-width="1" rx="5"/>
+      <text x="40" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">STRUKTUR</text>
+      
+      <!-- Arrow 1 -->
+      <path d="M 85 15 L 115 15" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
+      
+      <!-- Index -->
+      <rect x="120" y="0" width="80" height="30" fill="#34495e" stroke="#2c3e50" stroke-width="1" rx="5"/>
+      <text x="160" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">INDEKS</text>
+      
+      <!-- Arrow 2 -->
+      <path d="M 205 15 L 235 15" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
+      
+      <!-- Reference -->
+      <rect x="240" y="0" width="80" height="30" fill="#16a085" stroke="#138d75" stroke-width="1" rx="5"/>
+      <text x="280" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">REFERANSE</text>
+      
+      <!-- Arrow 3 -->
+      <path d="M 325 15 L 355 15" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
+      
+      <!-- Access -->
+      <rect x="360" y="0" width="80" height="30" fill="#e67e22" stroke="#d35400" stroke-width="1" rx="5"/>
+      <text x="400" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">TILGANG</text>
+      
+      <!-- Arrow 4 -->
+      <path d="M 445 15 L 475 15" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
+      
+      <!-- Efficiency -->
+      <rect x="480" y="0" width="80" height="30" fill="#c0392b" stroke="#a93226" stroke-width="1" rx="5"/>
+      <text x="520" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">EFFEKTIVITET</text>
+    </g>
+  </g>
+  
+  <!-- Benefits sidebar -->
+  <g transform="translate(50, 480)">
+    <text x="650" y="0" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">Fordeler:</text>
+    <g transform="translate(650, 20)">
+      <circle cx="5" cy="0" r="3" fill="#3498db"/>
+      <text x="15" y="4" font-family="Arial, sans-serif" font-size="12" fill="#34495e">Rask tilgang</text>
+    </g>
+    <g transform="translate(650, 35)">
+      <circle cx="5" cy="0" r="3" fill="#e74c3c"/>
+      <text x="15" y="4" font-family="Arial, sans-serif" font-size="12" fill="#34495e">Konsistens</text>
+    </g>
+    <g transform="translate(650, 50)">
+      <circle cx="5" cy="0" r="3" fill="#f39c12"/>
+      <text x="15" y="4" font-family="Arial, sans-serif" font-size="12" fill="#34495e">Sporbarhet</text>
+    </g>
+    <g transform="translate(650, 65)">
+      <circle cx="5" cy="0" r="3" fill="#27ae60"/>
+      <text x="15" y="4" font-family="Arial, sans-serif" font-size="12" fill="#34495e">Kvalitetskontroll</text>
+    </g>
+  </g>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>
+    </marker>
+  </defs>
+</svg>

@@ -1,0 +1,145 @@
+<svg width="800" height="650" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="futureGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6A1B9A;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4A148C;stop-opacity:1" />
+    </linearGradient>
+    <radialGradient id="techGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#E8EAF6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#C5CAE9;stop-opacity:1" />
+    </radialGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="650" fill="#F3F4F6"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="60" fill="url(#futureGrad)"/>
+  <text x="400" y="38" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white" text-anchor="middle">FREMTIDENS PENSJONSRAPPORTERING</text>
+  
+  <!-- Timeline -->
+  <g transform="translate(100, 100)">
+    <!-- Timeline line -->
+    <line x1="0" y1="250" x2="600" y2="250" stroke="#666" stroke-width="3"/>
+    
+    <!-- Current state (2024) -->
+    <g transform="translate(0, 200)">
+      <circle cx="0" cy="50" r="8" fill="#FF5722"/>
+      <text x="0" y="80" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#FF5722" text-anchor="middle">2024</text>
+      <text x="0" y="95" font-family="Arial, sans-serif" font-size="10" fill="#333" text-anchor="middle">Dagens tilstand</text>
+      
+      <rect x="-60" y="-40" width="120" height="60" fill="#FFEBEE" stroke="#FF5722" stroke-width="1" rx="5"/>
+      <text x="0" y="-20" font-family="Arial, sans-serif" font-size="9" fill="#333" text-anchor="middle">• Manuelle prosesser</text>
+      <text x="0" y="-8" font-family="Arial, sans-serif" font-size="9" fill="#333" text-anchor="middle">• Fragmenterte systemer</text>
+      <text x="0" y="4" font-family="Arial, sans-serif" font-size="9" fill="#333" text-anchor="middle">• Tidkrevende rapportering</text>
+    </g>
+    
+    <!-- Near future (2026-2028) -->
+    <g transform="translate(200, 150)">
+      <circle cx="0" cy="100" r="8" fill="#FF9800"/>
+      <text x="0" y="130" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#FF9800" text-anchor="middle">2026-2028</text>
+      <text x="0" y="145" font-family="Arial, sans-serif" font-size="10" fill="#333" text-anchor="middle">Kort sikt</text>
+      
+      <rect x="-60" y="10" width="120" height="80" fill="#FFF3E0" stroke="#FF9800" stroke-width="1" rx="5"/>
+      <text x="0" y="25" font-family="Arial, sans-serif" font-size="9" fill="#333" text-anchor="middle">• API-integrasjoner</text>
+      <text x="0" y="37" font-family="Arial, sans-serif" font-size="9" fill="#333" text-anchor="middle">• Automatisering</text>
+      <text x="0" y="49" font-family="Arial, sans-serif" font-size="9" fill="#333" text-anchor="middle">• Cloud-baserte løsninger</text>
+      <text x="0" y="61" font-family="Arial, sans-serif" font-size="9" fill="#333" text-anchor="middle">• Sanntidsrapportering</text>
+      <text x="0" y="73" font-family="Arial, sans-serif" font-size="9" fill="#333" text-anchor="middle">• AI-assistert validering</text>
+    </g>
+    
+    <!-- Medium future (2029-2032) -->
+    <g transform="translate(400, 120)">
+      <circle cx="0" cy="130" r="8" fill="#4CAF50"/>
+      <text x="0" y="160" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#4CAF50" text-anchor="middle">2029-2032</text>
+      <text x="0" y="175" font-family="Arial, sans-serif" font-size="10" fill="#333" text-anchor="middle">Mellomlang sikt</text>
+      
+      <rect x="-70" y="40" width="140" height="80" fill="#E8F5E8" stroke="#4CAF50" stroke-width="1" rx="5"/>
+      <text x="0" y="55" font-family="Arial, sans-serif" font-size="9" fill="#333" text-anchor="middle">• Prediktiv analyse</text>
+      <text x="0" y="67" font-family="Arial, sans-serif" font-size="9" fill="#333" text-anchor="middle">• Blockchain for transparens</text>
+      <text x="0" y="79" font-family="Arial, sans-serif" font-size="9" fill="#333" text-anchor="middle">• Automatiske regelverk-oppdateringer</text>
+      <text x="0" y="91" font-family="Arial, sans-serif" font-size="9" fill="#333" text-anchor="middle">• Intelligente dashboards</text>
+      <text x="0" y="103" font-family="Arial, sans-serif" font-size="9" fill="#333" text-anchor="middle">• ESG-integrerte rapporter</text>
+    </g>
+    
+    <!-- Long term future (2033+) -->
+    <g transform="translate(600, 100)">
+      <circle cx="0" cy="150" r="8" fill="#2196F3"/>
+      <text x="0" y="180" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2196F3" text-anchor="middle">2033+</text>
+      <text x="0" y="195" font-family="Arial, sans-serif" font-size="10" fill="#333" text-anchor="middle">Lang sikt</text>
+      
+      <rect x="-70" y="60" width="140" height="80" fill="#E3F2FD" stroke="#2196F3" stroke-width="1" rx="5"/>
+      <text x="0" y="75" font-family="Arial, sans-serif" font-size="9" fill="#333" text-anchor="middle">• Fullstendig AI-styring</text>
+      <text x="0" y="87" font-family="Arial, sans-serif" font-size="9" fill="#333" text-anchor="middle">• Selvkörende rapportering</text>
+      <text x="0" y="99" font-family="Arial, sans-serif" font-size="9" fill="#333" text-anchor="middle">• Quantum computing</text>
+      <text x="0" y="111" font-family="Arial, sans-serif" font-size="9" fill="#333" text-anchor="middle">• Personaliserte pensjoner</text>
+      <text x="0" y="123" font-family="Arial, sans-serif" font-size="9" fill="#333" text-anchor="middle">• Global standardisering</text>
+    </g>
+  </g>
+  
+  <!-- Technology Evolution -->
+  <g transform="translate(50, 420)">
+    <rect x="0" y="0" width="700" height="180" fill="url(#techGrad)" stroke="#5E35B1" stroke-width="2" rx="10"/>
+    <text x="350" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#4A148C" text-anchor="middle">TEKNOLOGISK UTVIKLING</text>
+    
+    <!-- AI/ML -->
+    <g transform="translate(30, 50)">
+      <rect x="0" y="0" width="150" height="100" fill="white" stroke="#7E57C2" stroke-width="1" rx="6"/>
+      <text x="75" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#5E35B1" text-anchor="middle">KUNSTIG INTELLIGENS</text>
+      <text x="10" y="40" font-family="Arial, sans-serif" font-size="10" fill="#333">• Automatiske beregninger</text>
+      <text x="10" y="55" font-family="Arial, sans-serif" font-size="10" fill="#333">• Anomali-deteksjon</text>
+      <text x="10" y="70" font-family="Arial, sans-serif" font-size="10" fill="#333">• Prognostisering</text>
+      <text x="10" y="85" font-family="Arial, sans-serif" font-size="10" fill="#333">• Naturlig språkbehandling</text>
+    </g>
+    
+    <!-- Blockchain -->
+    <g transform="translate(200, 50)">
+      <rect x="0" y="0" width="150" height="100" fill="white" stroke="#7E57C2" stroke-width="1" rx="6"/>
+      <text x="75" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#5E35B1" text-anchor="middle">BLOCKCHAIN</text>
+      <text x="10" y="40" font-family="Arial, sans-serif" font-size="10" fill="#333">• Transparent historikk</text>
+      <text x="10" y="55" font-family="Arial, sans-serif" font-size="10" fill="#333">• Sikker datadeling</text>
+      <text x="10" y="70" font-family="Arial, sans-serif" font-size="10" fill="#333">• Smart kontrakter</text>
+      <text x="10" y="85" font-family="Arial, sans-serif" font-size="10" fill="#333">• Desentralisert verifikasjon</text>
+    </g>
+    
+    <!-- IoT & Sensors -->
+    <g transform="translate(370, 50)">
+      <rect x="0" y="0" width="150" height="100" fill="white" stroke="#7E57C2" stroke-width="1" rx="6"/>
+      <text x="75" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#5E35B1" text-anchor="middle">IOT &amp; SENSORER</text>
+      <text x="10" y="40" font-family="Arial, sans-serif" font-size="10" fill="#333">• Sanntidsdata</text>
+      <text x="10" y="55" font-family="Arial, sans-serif" font-size="10" fill="#333">• Automatisk innsamling</text>
+      <text x="10" y="70" font-family="Arial, sans-serif" font-size="10" fill="#333">• Prediktive modeller</text>
+      <text x="10" y="85" font-family="Arial, sans-serif" font-size="10" fill="#333">• Kontinuerlig overvåking</text>
+    </g>
+    
+    <!-- Quantum Computing -->
+    <g transform="translate(540, 50)">
+      <rect x="0" y="0" width="150" height="100" fill="white" stroke="#7E57C2" stroke-width="1" rx="6"/>
+      <text x="75" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#5E35B1" text-anchor="middle">QUANTUM COMPUTING</text>
+      <text x="10" y="40" font-family="Arial, sans-serif" font-size="10" fill="#333">• Komplekse simuleringer</text>
+      <text x="10" y="55" font-family="Arial, sans-serif" font-size="10" fill="#333">• Optimalisering</text>
+      <text x="10" y="70" font-family="Arial, sans-serif" font-size="10" fill="#333">• Risiko-modellering</text>
+      <text x="10" y="85" font-family="Arial, sans-serif" font-size="10" fill="#333">• Kryptografi</text>
+    </g>
+  </g>
+  
+  <!-- Key Benefits -->
+  <g transform="translate(100, 380)">
+    <text x="300" y="0" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333" text-anchor="middle">HOVEDGEVINSTER VED FREMTIDENS PENSJONSRAPPORTERING</text>
+    
+    <g transform="translate(0, 15)">
+      <circle cx="8" cy="8" r="4" fill="#4CAF50"/>
+      <text x="20" y="12" font-family="Arial, sans-serif" font-size="11" fill="#333">Reduserte kostnader og økt effektivitet</text>
+    </g>
+    
+    <g transform="translate(200, 15)">
+      <circle cx="8" cy="8" r="4" fill="#4CAF50"/>
+      <text x="20" y="12" font-family="Arial, sans-serif" font-size="11" fill="#333">Forbedret nøyaktighet og kvalitet</text>
+    </g>
+    
+    <g transform="translate(400, 15)">
+      <circle cx="8" cy="8" r="4" fill="#4CAF50"/>
+      <text x="20" y="12" font-family="Arial, sans-serif" font-size="11" fill="#333">Sanntids beslutningsstøtte</text>
+    </g>
+  </g>
+</svg>

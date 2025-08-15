@@ -1,0 +1,217 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1e40af;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="dailyGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#059669;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#047857;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="monthlyGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#f59e0b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#d97706;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="yearlyGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#dc2626;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#b91c1c;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="techGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#7c3aed;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#6d28d9;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8fafc"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="60" fill="url(#headerGrad)"/>
+  <text x="400" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
+    Beste Praksis for Etterlevelse
+  </text>
+  
+  <!-- Central Best Practices Circle -->
+  <g transform="translate(350, 280)">
+    <circle cx="50" cy="50" r="45" fill="#dbeafe" stroke="#2563eb" stroke-width="4"/>
+    <text x="50" y="40" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      BESTE
+    </text>
+    <text x="50" y="55" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      PRAKSIS
+    </text>
+    <text x="50" y="70" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      ETTERLEVELSE
+    </text>
+  </g>
+  
+  <!-- Daily Routines -->
+  <g transform="translate(50, 80)">
+    <rect x="0" y="0" width="180" height="40" rx="5" fill="url(#dailyGrad)"/>
+    <text x="90" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+      DAGLIGE RUTINER
+    </text>
+    
+    <rect x="10" y="50" width="160" height="120" rx="5" fill="#ecfdf5" stroke="#059669" stroke-width="2"/>
+    <text x="90" y="70" text-anchor="middle" fill="#065f46" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      Oppgaver:
+    </text>
+    <text x="20" y="90" fill="#065f46" font-family="Arial, sans-serif" font-size="12">
+      • Systematisk bilagsføring
+    </text>
+    <text x="20" y="105" fill="#065f46" font-family="Arial, sans-serif" font-size="12">
+      • Regelmessig avstemming
+    </text>
+    <text x="20" y="120" fill="#065f46" font-family="Arial, sans-serif" font-size="12">
+      • Bankavstemming kontroll
+    </text>
+    <text x="20" y="135" fill="#065f46" font-family="Arial, sans-serif" font-size="12">
+      • Oppfølging kundefordringer
+    </text>
+    <text x="20" y="150" fill="#065f46" font-family="Arial, sans-serif" font-size="12">
+      • Dokumentasjon og arkivering
+    </text>
+    
+    <!-- Arrow to center -->
+    <path d="M230 140 L350 280" stroke="#059669" stroke-width="3" stroke-dasharray="5,5"/>
+  </g>
+  
+  <!-- Monthly Routines -->
+  <g transform="translate(570, 80)">
+    <rect x="0" y="0" width="180" height="40" rx="5" fill="url(#monthlyGrad)"/>
+    <text x="90" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+      MÅNEDLIGE RUTINER
+    </text>
+    
+    <rect x="10" y="50" width="160" height="120" rx="5" fill="#fffbeb" stroke="#f59e0b" stroke-width="2"/>
+    <text x="90" y="70" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      Oppgaver:
+    </text>
+    <text x="20" y="90" fill="#92400e" font-family="Arial, sans-serif" font-size="12">
+      • Fullstendig avstemming
+    </text>
+    <text x="20" y="105" fill="#92400e" font-family="Arial, sans-serif" font-size="12">
+      • MVA-oppgave kontroll
+    </text>
+    <text x="20" y="120" fill="#92400e" font-family="Arial, sans-serif" font-size="12">
+      • Resultatregnskap gjennomgang
+    </text>
+    <text x="20" y="135" fill="#92400e" font-family="Arial, sans-serif" font-size="12">
+      • Arbeidskapital oppfølging
+    </text>
+    <text x="20" y="150" fill="#92400e" font-family="Arial, sans-serif" font-size="12">
+      • Rapporter og analyser
+    </text>
+    
+    <!-- Arrow to center -->
+    <path d="M570 140 L450 280" stroke="#f59e0b" stroke-width="3" stroke-dasharray="5,5"/>
+  </g>
+  
+  <!-- Yearly Routines -->
+  <g transform="translate(50, 450)">
+    <rect x="0" y="0" width="180" height="40" rx="5" fill="url(#yearlyGrad)"/>
+    <text x="90" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+      ÅRLIGE RUTINER
+    </text>
+    
+    <rect x="10" y="50" width="160" height="100" rx="5" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+    <text x="90" y="70" text-anchor="middle" fill="#991b1b" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      Oppgaver:
+    </text>
+    <text x="20" y="90" fill="#991b1b" font-family="Arial, sans-serif" font-size="12">
+      • Regnskapsavslutning
+    </text>
+    <text x="20" y="105" fill="#991b1b" font-family="Arial, sans-serif" font-size="12">
+      • Avskrivninger gjennomgang
+    </text>
+    <text x="20" y="120" fill="#991b1b" font-family="Arial, sans-serif" font-size="12">
+      • Balanseregnskap kontroll
+    </text>
+    <text x="20" y="135" fill="#991b1b" font-family="Arial, sans-serif" font-size="12">
+      • Regnskapsprinsipper revisjon
+    </text>
+    
+    <!-- Arrow to center -->
+    <path d="M230 500 L350 380" stroke="#dc2626" stroke-width="3" stroke-dasharray="5,5"/>
+  </g>
+  
+  <!-- Technology Solutions -->
+  <g transform="translate(570, 450)">
+    <rect x="0" y="0" width="180" height="40" rx="5" fill="url(#techGrad)"/>
+    <text x="90" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+      TEKNOLOGI
+    </text>
+    
+    <rect x="10" y="50" width="160" height="100" rx="5" fill="#f5f3ff" stroke="#7c3aed" stroke-width="2"/>
+    <text x="90" y="70" text-anchor="middle" fill="#581c87" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      Løsninger:
+    </text>
+    <text x="20" y="90" fill="#581c87" font-family="Arial, sans-serif" font-size="12">
+      • Automatisk kontering
+    </text>
+    <text x="20" y="105" fill="#581c87" font-family="Arial, sans-serif" font-size="12">
+      • Elektronisk bilagsmottak
+    </text>
+    <text x="20" y="120" fill="#581c87" font-family="Arial, sans-serif" font-size="12">
+      • Automatisk backup
+    </text>
+    <text x="20" y="135" fill="#581c87" font-family="Arial, sans-serif" font-size="12">
+      • Tilgangskontroll og sporbarhet
+    </text>
+    
+    <!-- Arrow to center -->
+    <path d="M570 500 L450 380" stroke="#7c3aed" stroke-width="3" stroke-dasharray="5,5"/>
+  </g>
+  
+  <!-- Competence Development -->
+  <g transform="translate(280, 220)">
+    <rect x="0" y="0" width="240" height="40" rx="5" fill="#1f2937"/>
+    <text x="120" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+      KOMPETANSEUTVIKLING
+    </text>
+    
+    <rect x="20" y="50" width="200" height="80" rx="5" fill="#f9fafb" stroke="#374151" stroke-width="2"/>
+    <text x="120" y="70" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      Kontinuerlig læring:
+    </text>
+    <text x="30" y="90" fill="#1f2937" font-family="Arial, sans-serif" font-size="12">
+      • Kursing i bokføringsloven og regnskapsføring
+    </text>
+    <text x="30" y="105" fill="#1f2937" font-family="Arial, sans-serif" font-size="12">
+      • Oppdatering på regelverksendringer
+    </text>
+    <text x="30" y="120" fill="#1f2937" font-family="Arial, sans-serif" font-size="12">
+      • Faglig nettverk og profesjonell rådgivning
+    </text>
+  </g>
+  
+  <!-- Control Mechanisms -->
+  <g transform="translate(280, 380)">
+    <rect x="0" y="0" width="240" height="40" rx="5" fill="#065f46"/>
+    <text x="120" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+      KONTROLLMEKANISMER
+    </text>
+    
+    <rect x="20" y="50" width="200" height="80" rx="5" fill="#ecfdf5" stroke="#065f46" stroke-width="2"/>
+    <text x="120" y="70" text-anchor="middle" fill="#065f46" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      Innebygde kontroller:
+    </text>
+    <text x="30" y="90" fill="#065f46" font-family="Arial, sans-serif" font-size="12">
+      • Valideringsregler og automatisk avstemming
+    </text>
+    <text x="30" y="105" fill="#065f46" font-family="Arial, sans-serif" font-size="12">
+      • Avviksrapporter og feilidentifisering
+    </text>
+    <text x="30" y="120" fill="#065f46" font-family="Arial, sans-serif" font-size="12">
+      • Tilgangskontroll og sporbarhet
+    </text>
+  </g>
+  
+  <!-- Success indicators -->
+  <g transform="translate(50, 570)">
+    <rect x="0" y="0" width="700" height="25" rx="3" fill="#dbeafe" stroke="#2563eb" stroke-width="1"/>
+    <text x="350" y="17" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      RESULTAT: Regelverksoverholdelse + Solid grunnlag for strategiske beslutninger
+    </text>
+  </g>
+</svg>

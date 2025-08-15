@@ -1,0 +1,106 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="400" fill="url(#bgGradient)" />
+  
+  <!-- Header background -->
+  <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)" />
+  
+  <!-- Main title -->
+  <text x="400" y="50" font-family="Arial, sans-serif" font-size="36" font-weight="bold" text-anchor="middle" fill="white">
+    Hva er opplysningsplikt?
+  </text>
+  
+  <!-- Document icons representing different reporting types -->
+  <g transform="translate(100, 120)">
+    <!-- A-melding document -->
+    <rect x="0" y="0" width="80" height="100" fill="#ffffff" stroke="#0066cc" stroke-width="2" rx="5"/>
+    <rect x="10" y="10" width="60" height="8" fill="#0066cc" rx="2"/>
+    <rect x="10" y="25" width="45" height="6" fill="#666666" rx="1"/>
+    <rect x="10" y="35" width="50" height="6" fill="#666666" rx="1"/>
+    <rect x="10" y="45" width="40" height="6" fill="#666666" rx="1"/>
+    <text x="40" y="125" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0066cc">
+      A-melding
+    </text>
+  </g>
+  
+  <g transform="translate(250, 120)">
+    <!-- MVA document -->
+    <rect x="0" y="0" width="80" height="100" fill="#ffffff" stroke="#00aa44" stroke-width="2" rx="5"/>
+    <rect x="10" y="10" width="60" height="8" fill="#00aa44" rx="2"/>
+    <rect x="10" y="25" width="45" height="6" fill="#666666" rx="1"/>
+    <rect x="10" y="35" width="50" height="6" fill="#666666" rx="1"/>
+    <rect x="10" y="45" width="40" height="6" fill="#666666" rx="1"/>
+    <text x="40" y="125" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#00aa44">
+      MVA-melding
+    </text>
+  </g>
+  
+  <g transform="translate(400, 120)">
+    <!-- Næringsoppgave document -->
+    <rect x="0" y="0" width="80" height="100" fill="#ffffff" stroke="#cc6600" stroke-width="2" rx="5"/>
+    <rect x="10" y="10" width="60" height="8" fill="#cc6600" rx="2"/>
+    <rect x="10" y="25" width="45" height="6" fill="#666666" rx="1"/>
+    <rect x="10" y="35" width="50" height="6" fill="#666666" rx="1"/>
+    <rect x="10" y="45" width="40" height="6" fill="#666666" rx="1"/>
+    <text x="40" y="125" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#cc6600">
+      Næringsoppgave
+    </text>
+  </g>
+  
+  <g transform="translate(550, 120)">
+    <!-- Årsregnskap document -->
+    <rect x="0" y="0" width="80" height="100" fill="#ffffff" stroke="#9900cc" stroke-width="2" rx="5"/>
+    <rect x="10" y="10" width="60" height="8" fill="#9900cc" rx="2"/>
+    <rect x="10" y="25" width="45" height="6" fill="#666666" rx="1"/>
+    <rect x="10" y="35" width="50" height="6" fill="#666666" rx="1"/>
+    <rect x="10" y="45" width="40" height="6" fill="#666666" rx="1"/>
+    <text x="40" y="125" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#9900cc">
+      Årsregnskap
+    </text>
+  </g>
+  
+  <!-- Arrows pointing to central authority -->
+  <g stroke="#333333" stroke-width="2" fill="none" marker-end="url(#arrowhead)">
+    <defs>
+      <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+        <polygon points="0 0, 10 3.5, 0 7" fill="#333333" />
+      </marker>
+    </defs>
+    <path d="M 180 180 Q 300 260 380 280" />
+    <path d="M 330 180 Q 350 230 380 280" />
+    <path d="M 480 180 Q 450 230 420 280" />
+    <path d="M 630 180 Q 520 260 440 280" />
+  </g>
+  
+  <!-- Central authority building -->
+  <g transform="translate(350, 280)">
+    <rect x="0" y="0" width="100" height="60" fill="#4a5568" rx="5"/>
+    <rect x="10" y="10" width="15" height="15" fill="#ffffff" rx="2"/>
+    <rect x="30" y="10" width="15" height="15" fill="#ffffff" rx="2"/>
+    <rect x="50" y="10" width="15" height="15" fill="#ffffff" rx="2"/>
+    <rect x="70" y="10" width="15" height="15" fill="#ffffff" rx="2"/>
+    <rect x="10" y="30" width="15" height="15" fill="#ffffff" rx="2"/>
+    <rect x="30" y="30" width="15" height="15" fill="#ffffff" rx="2"/>
+    <rect x="50" y="30" width="15" height="15" fill="#ffffff" rx="2"/>
+    <rect x="70" y="30" width="15" height="15" fill="#ffffff" rx="2"/>
+    <text x="50" y="75" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#4a5568">
+      Myndigheter
+    </text>
+  </g>
+  
+  <!-- Bottom description -->
+  <text x="400" y="370" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#4a5568">
+    Lovpålagt rapportering av økonomisk informasjon til offentlige myndigheter
+  </text>
+</svg>

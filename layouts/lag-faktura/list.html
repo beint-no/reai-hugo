@@ -1,47 +1,139 @@
 {{ define "main" }}
 <section class="pt-10 md:pt-14">
   <div class="max-w-6xl mx-auto px-4">
-    <nav class="text-sm text-slate-600"><a href="/">Hjem</a> / Lag faktura</nav>
-    <header class="mt-2">
-      <h1 class="text-3xl md:text-4xl font-semibold tracking-tight">Lag faktura</h1>
-      <p class="mt-2 text-gray-700 md:text-lg">Opprett en enkel faktura på minutter. Bruk som veiledning eller gå rett til appen.</p>
-      <div class="mt-5 flex gap-3">
-        <a href="https://app.reai.no" target="_blank" rel="noopener" class="inline-flex items-center justify-center rounded-md bg-black text-white px-5 py-3 font-medium">Åpne appen</a>
-        <a href="/courses/fakturakurs/" class="inline-flex items-center justify-center rounded-md border border-gray-300 px-5 py-3 font-medium hover:bg-gray-50">Se fakturakurs</a>
-      </div>
-    </header>
+    <h1 class="text-3xl md:text-4xl font-semibold tracking-tight text-center">Lag faktura</h1>
 
-    <!-- guided card grid -->
-    <section class="mt-10 grid md:grid-cols-2 gap-4 md:gap-6">
-      <div class="rounded-2xl ring-1 ring-gray-200 p-6 bg-white">
-        <h2 class="font-semibold">1. Kundeinformasjon</h2>
-        <p class="text-gray-700 mt-1">Navn, organisasjonsnummer, adresse, e‑post. Legg til KID om nødvendig.</p>
-      </div>
-      <div class="rounded-2xl ring-1 ring-gray-200 p-6 bg-white">
-        <h2 class="font-semibold">2. Varelinjer</h2>
-        <p class="text-gray-700 mt-1">Beskrivelse, antall, pris, mva‑sats. Legg til flere linjer ved behov.</p>
-      </div>
-      <div class="rounded-2xl ring-1 ring-gray-200 p-6 bg-white">
-        <h2 class="font-semibold">3. Betalingsbetingelser</h2>
-        <p class="text-gray-700 mt-1">Forfallsdato, KID / melding, og leveringsdato.</p>
-      </div>
-      <div class="rounded-2xl ring-1 ring-gray-200 p-6 bg-white">
-        <h2 class="font-semibold">4. Send og bokfør</h2>
-        <p class="text-gray-700 mt-1">Send via e‑post eller EHF. Bokfør automatisk i regnskapet.</p>
-      </div>
-    </section>
+    <!-- Invoice card -->
+    <div class="mt-10">
+      <div id="invoice-pdf" class="max-w-4xl mx-auto p-6 bg-white/95 backdrop-blur rounded-xl shadow-lg border border-gray-200">
+        <h1 class="text-2xl font-bold mb-4">Fakturamal</h1>
+        <p class="mb-6 text-gray-600">
+          Fyll inn feltene nedenfor, legg til linjer etter behov, og last ned som PDF. Fakturamal er helt gratis å bruke, og informasjonen din lagres til neste gang slik at du slipper å skrive alt på nytt. Du kan alltid bruke <a href="https://reai.no" class="text-blue-600 underline">reai.no</a> for å opprette en gratis faktura.
+        </p>
 
-    <section class="mt-12">
-      <div class="rounded-3xl bg-gradient-to-r from-indigo-600 via-sky-600 to-emerald-600 p-1">
-        <div class="rounded-3xl bg-white p-8 md:p-12 text-center">
-          <h2 class="text-2xl md:text-3xl font-semibold tracking-tight">Klar til å sende din første faktura?</h2>
-          <p class="mt-3 text-gray-700">Kom i gang gratis – du betaler ingenting for å prøve.</p>
-          <div class="mt-5">
-            <a href="https://app.reai.no" target="_blank" rel="noopener" class="inline-flex items-center justify-center rounded-md bg-black text-white px-6 py-3 font-medium">Start nå</a>
-          </div>
+        <!-- Selger informasjon -->
+        <h2 class="text-xl font-semibold mb-3">Selgerinformasjon (deg)</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
+          <input type="text" placeholder="Navn" class="border rounded p-2 w-full">
+          <input type="text" placeholder="Kontonummer (IBAN/Norsk)" class="border rounded p-2 w-full">
+          <input type="text" placeholder="Adresse" class="border rounded p-2 w-full">
+          <input type="text" placeholder="Postnummer/Sted" class="border rounded p-2 w-full">
+          <input type="text" placeholder="Telefon" class="border rounded p-2 w-full">
+          <input type="email" placeholder="E-post" class="border rounded p-2 w-full">
+        </div>
+
+        <!-- Kjøper informasjon -->
+        <h2 class="text-xl font-semibold mb-3">Kjøperinformasjon</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
+          <input type="text" placeholder="Navn/Firmanavn" class="border rounded p-2 w-full">
+          <input type="text" placeholder="Organisasjonsnummer (valgfritt)" class="border rounded p-2 w-full">
+          <input type="text" placeholder="Adresse" class="border rounded p-2 w-full">
+          <input type="text" placeholder="Postnummer/Sted" class="border rounded p-2 w-full">
+          <input type="email" placeholder="E-post" class="border rounded p-2 w-full">
+        </div>
+
+        <!-- Fakturadetaljer -->
+        <h2 class="text-xl font-semibold mb-3">Fakturadetaljer</h2>
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
+          <input type="text" placeholder="Fakturanummer" class="border rounded p-2 w-full">
+          <input type="date" value="2025-08-13" class="border rounded p-2 w-full">
+          <input type="date" value="2025-08-27" class="border rounded p-2 w-full">
+        </div>
+
+        <!-- Vare / Tjenester -->
+        <h2 class="text-xl font-semibold mb-3">Varer / Tjenester</h2>
+        <div class="overflow-x-auto mb-4">
+          <table class="w-full border">
+            <thead class="bg-gray-100">
+              <tr>
+                <th class="border p-2">Beskrivelse</th>
+                <th class="border p-2">Antall</th>
+                <th class="border p-2">Pris (NOK)</th>
+                <th class="border p-2">MVA %</th>
+                <th class="border p-2">Sum</th>
+              </tr>
+            </thead>
+            <tbody id="invoice-rows">
+              <tr>
+                <td class="border p-2"><input type="text" placeholder="Beskrivelse" class="w-full border rounded p-1"></td>
+                <td class="border p-2"><input type="number" value="1" class="w-full border rounded p-1"></td>
+                <td class="border p-2"><input type="number" value="0.00" class="w-full border rounded p-1"></td>
+                <td class="border p-2"><input type="number" value="25" class="w-full border rounded p-1"></td>
+                <td class="border p-2"><input type="number" value="0.00" class="w-full border rounded p-1" readonly></td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <button id="add-line-btn" class="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700">Legg til linje</button>
+
+        <!-- Summering -->
+        <div class="mt-6 space-y-2 text-right">
+          <p>Delsum: <span class="font-semibold">0,00 NOK</span></p>
+          <p>MVA: <span class="font-semibold">0,00 NOK</span></p>
+          <p>Beløp å betale: <span class="font-bold text-lg">0,00 NOK</span></p>
+        </div>
+
+        <!-- Nedlastingsknapp -->
+        <div class="mt-6 text-right">
+          <button id="download-pdf-btn" class="bg-green-600 text-white px-6 py-2 rounded hover:bg-green-700">Last ned som PDF</button>
         </div>
       </div>
-    </section>
+      <!-- Scripts -->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
+      <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          const addBtn = document.getElementById('add-line-btn');
+          const rowsTbody = document.getElementById('invoice-rows');
+          const pdfBtn = document.getElementById('download-pdf-btn');
+          const pdfEl = document.getElementById('invoice-pdf');
+
+          if (addBtn && rowsTbody) {
+            addBtn.addEventListener('click', function () {
+              const last = rowsTbody.lastElementChild;
+              if (!last) return;
+              const clone = last.cloneNode(true);
+              try {
+                const tds = clone.querySelectorAll('td');
+                if (tds.length >= 5) {
+                  tds[0].querySelector('input').value = '';
+                  tds[1].querySelector('input').value = '1';
+                  tds[2].querySelector('input').value = '0.00';
+                  tds[3].querySelector('input').value = '25';
+                  const sumInput = tds[4].querySelector('input');
+                  sumInput.value = '0.00';
+                } else {
+                  // Fallback: clear all inputs
+                  clone.querySelectorAll('input').forEach(inp => {
+                    if (inp.hasAttribute('readonly')) inp.value = '0.00';
+                    else if (inp.type === 'number') inp.value = inp.value || '0';
+                    else inp.value = '';
+                  });
+                }
+              } catch (e) {
+                // ignore and still append
+              }
+              rowsTbody.appendChild(clone);
+            });
+          }
+
+          if (pdfBtn && pdfEl) {
+            pdfBtn.addEventListener('click', function () {
+              const nrInput = pdfEl.querySelector('input[placeholder="Fakturanummer"]');
+              const nr = nrInput && nrInput.value ? nrInput.value.trim() : '';
+              const filename = `Faktura-${nr || 'uten-nummer'}.pdf`;
+              const opt = {
+                margin:       10,
+                filename:     filename,
+                image:        { type: 'jpeg', quality: 0.98 },
+                html2canvas:  { scale: 2, useCORS: true },
+                jsPDF:        { unit: 'mm', format: 'a4', orientation: 'portrait' }
+              };
+              window.html2pdf().set(opt).from(pdfEl).save();
+            });
+          }
+        });
+      </script>
+    </div>
   </div>
 </section>
 {{ end }}

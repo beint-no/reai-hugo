@@ -1,0 +1,240 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#2563eb;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e40af;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="cardGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="#000" flood-opacity="0.1"/>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f1f5f9"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
+  <text x="400" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
+    Compliance og Regulatoriske Krav ved Tilbud
+  </text>
+  
+  <!-- Three main compliance areas -->
+  
+  <!-- 1. Public Procurement Law -->
+  <g transform="translate(50, 120)">
+    <rect x="0" y="0" width="200" height="180" rx="10" fill="url(#cardGradient)" filter="url(#shadow)"/>
+    <circle cx="100" cy="40" r="20" fill="#16a34a"/>
+    <path d="M90 35 L95 40 L110 25" stroke="white" stroke-width="2" fill="none"/>
+    
+    <text x="100" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e293b">
+      Offentlige Anskaffelser
+    </text>
+    
+    <text x="100" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#475569">
+      • Likebehandling
+    </text>
+    <text x="100" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#475569">
+      • Åpenhet
+    </text>
+    <text x="100" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#475569">
+      • Forholdsmessighet
+    </text>
+    <text x="100" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#475569">
+      • Konkurranse
+    </text>
+    <text x="100" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">
+      EU-direktiver og DOFFIN/TED
+    </text>
+  </g>
+  
+  <!-- 2. Competition Law -->
+  <g transform="translate(300, 120)">
+    <rect x="0" y="0" width="200" height="180" rx="10" fill="url(#cardGradient)" filter="url(#shadow)"/>
+    <circle cx="100" cy="40" r="20" fill="#dc2626"/>
+    <path d="M90 30 L110 50 M110 30 L90 50" stroke="white" stroke-width="2"/>
+    
+    <text x="100" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e293b">
+      Konkurranserett
+    </text>
+    
+    <text x="100" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#475569">
+      Forbudt:
+    </text>
+    <text x="100" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#475569">
+      • Prissamarbeid
+    </text>
+    <text x="100" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#475569">
+      • Markedsdeling
+    </text>
+    <text x="100" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#475569">
+      • Predatory pricing
+    </text>
+    <text x="100" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">
+      Sanksjoner: Bøter/erstatning
+    </text>
+  </g>
+  
+  <!-- 3. Accounting Law -->
+  <g transform="translate(550, 120)">
+    <rect x="0" y="0" width="200" height="180" rx="10" fill="url(#cardGradient)" filter="url(#shadow)"/>
+    <circle cx="100" cy="40" r="20" fill="#7c3aed"/>
+    <rect x="90" y="30" width="20" height="15" fill="white" rx="2"/>
+    <path d="M95 32 L105 32 M95 35 L105 35 M95 38 L102 38" stroke="#7c3aed" stroke-width="1"/>
+    
+    <text x="100" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e293b">
+      Regnskapslov
+    </text>
+    
+    <text x="100" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#475569">
+      • Dokumentasjon
+    </text>
+    <text x="100" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#475569">
+      • Sporbarhet
+    </text>
+    <text x="100" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#475569">
+      • Årsregnskap
+    </text>
+    <text x="100" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#475569">
+      • Revisorattest
+    </text>
+    <text x="100" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">
+      Sanksjoner: Straffeansvar
+    </text>
+  </g>
+  
+  <!-- Compliance Process Flow -->
+  <g transform="translate(50, 340)">
+    <rect x="0" y="0" width="700" height="200" rx="10" fill="url(#cardGradient)" filter="url(#shadow)"/>
+    
+    <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">
+      Compliance-prosess for Tilbud
+    </text>
+    
+    <!-- Step 1: Vurdering -->
+    <circle cx="100" cy="80" r="30" fill="#3b82f6"/>
+    <text x="100" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+      1. Vurdering
+    </text>
+    <text x="100" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#475569">
+      Juridisk analyse
+    </text>
+    <text x="100" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#475569">
+      Risikokartlegging
+    </text>
+    
+    <!-- Arrow 1 -->
+    <path d="M130 80 L165 80" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
+    
+    <!-- Step 2: Dokumentasjon -->
+    <circle cx="195" cy="80" r="30" fill="#059669"/>
+    <text x="195" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+      2. Dokument
+    </text>
+    <text x="195" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#475569">
+      Sporbarhet
+    </text>
+    <text x="195" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#475569">
+      Versjonskontroll
+    </text>
+    
+    <!-- Arrow 2 -->
+    <path d="M225 80 L260 80" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
+    
+    <!-- Step 3: Godkjenning -->
+    <circle cx="290" cy="80" r="30" fill="#dc2626"/>
+    <text x="290" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+      3. Godkjenn
+    </text>
+    <text x="290" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#475569">
+      Intern kontroll
+    </text>
+    <text x="290" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#475569">
+      Signering
+    </text>
+    
+    <!-- Arrow 3 -->
+    <path d="M320 80 L355 80" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
+    
+    <!-- Step 4: Innsending -->
+    <circle cx="385" cy="80" r="30" fill="#7c3aed"/>
+    <text x="385" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+      4. Innsend
+    </text>
+    <text x="385" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#475569">
+      Frist/format
+    </text>
+    <text x="385" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#475569">
+      Bekreftelse
+    </text>
+    
+    <!-- Arrow 4 -->
+    <path d="M415 80 L450 80" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
+    
+    <!-- Step 5: Oppfølging -->
+    <circle cx="480" cy="80" r="30" fill="#ea580c"/>
+    <text x="480" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+      5. Oppfølg
+    </text>
+    <text x="480" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#475569">
+      Klagerett
+    </text>
+    <text x="480" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#475569">
+      Kontraktstyring
+    </text>
+    
+    <!-- Compliance checklist -->
+    <g transform="translate(550, 45)">
+      <rect x="0" y="0" width="140" height="120" rx="5" fill="white" stroke="#e2e8f0" stroke-width="1"/>
+      <text x="70" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">
+        Compliance Sjekkliste
+      </text>
+      
+      <circle cx="10" cy="30" r="3" fill="#16a34a"/>
+      <text x="20" y="35" font-family="Arial, sans-serif" font-size="9" fill="#475569">
+        Juridisk vurdering utført
+      </text>
+      
+      <circle cx="10" cy="45" r="3" fill="#16a34a"/>
+      <text x="20" y="50" font-family="Arial, sans-serif" font-size="9" fill="#475569">
+        Dokumentasjon komplett
+      </text>
+      
+      <circle cx="10" cy="60" r="3" fill="#16a34a"/>
+      <text x="20" y="65" font-family="Arial, sans-serif" font-size="9" fill="#475569">
+        Intern godkjenning
+      </text>
+      
+      <circle cx="10" cy="75" r="3" fill="#16a34a"/>
+      <text x="20" y="80" font-family="Arial, sans-serif" font-size="9" fill="#475569">
+        Frist og format OK
+      </text>
+      
+      <circle cx="10" cy="90" r="3" fill="#16a34a"/>
+      <text x="20" y="95" font-family="Arial, sans-serif" font-size="9" fill="#475569">
+        Oppfølging planlagt
+      </text>
+    </g>
+  </g>
+  
+  <!-- Key regulations summary -->
+  <g transform="translate(50, 560)">
+    <rect x="0" y="0" width="700" height="35" rx="5" fill="#fef3c7"/>
+    <text x="20" y="15" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#92400e">
+      Viktige lover:
+    </text>
+    <text x="20" y="28" font-family="Arial, sans-serif" font-size="10" fill="#92400e">
+      Anskaffelsesloven • Konkurranseloven • Regnskapsloven • Markedsføringsloven • EU-direktiver
+    </text>
+  </g>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#64748b"/>
+    </marker>
+  </defs>
+</svg>

@@ -1,0 +1,167 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="cardGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f1f5f9;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="url(#bgGradient)"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="24" font-weight="bold">Kundekartotek Datastruktur</text>
+  
+  <!-- Customer record structure -->
+  <g transform="translate(50, 60)">
+    <!-- Header -->
+    <rect x="0" y="0" width="700" height="40" fill="url(#headerGradient)" rx="8"/>
+    <text x="350" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="18" font-weight="bold">KUNDEPOST - Eksempel: Bedrift AS</text>
+    
+    <!-- Main data sections -->
+    
+    <!-- Basic Information Section -->
+    <g transform="translate(0, 50)">
+      <rect x="0" y="0" width="340" height="200" fill="url(#cardGradient)" stroke="#10b981" stroke-width="2" rx="8"/>
+      <rect x="0" y="0" width="340" height="30" fill="#10b981" rx="8"/>
+      <text x="170" y="20" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">GRUNNLEGGENDE OPPLYSNINGER</text>
+      
+      <!-- Data fields -->
+      <g transform="translate(15, 40)">
+        <text x="0" y="15" fill="#1f2937" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Kundenummer:</text>
+        <text x="120" y="15" fill="#374151" font-family="Arial, sans-serif" font-size="12">K-2024-001</text>
+        
+        <text x="0" y="35" fill="#1f2937" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Firmanavn:</text>
+        <text x="120" y="35" fill="#374151" font-family="Arial, sans-serif" font-size="12">Eksempel Bedrift AS</text>
+        
+        <text x="0" y="55" fill="#1f2937" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Org.nummer:</text>
+        <text x="120" y="55" fill="#374151" font-family="Arial, sans-serif" font-size="12">123 456 789 MVA</text>
+        
+        <text x="0" y="75" fill="#1f2937" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Adresse:</text>
+        <text x="120" y="75" fill="#374151" font-family="Arial, sans-serif" font-size="12">Storgata 1</text>
+        <text x="120" y="90" fill="#374151" font-family="Arial, sans-serif" font-size="12">0001 Oslo</text>
+        
+        <text x="0" y="110" fill="#1f2937" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Kontakt:</text>
+        <text x="120" y="110" fill="#374151" font-family="Arial, sans-serif" font-size="12">post@eksempel.no</text>
+        <text x="120" y="125" fill="#374151" font-family="Arial, sans-serif" font-size="12">+47 12 34 56 78</text>
+        
+        <text x="0" y="145" fill="#1f2937" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Kontaktperson:</text>
+        <text x="120" y="145" fill="#374151" font-family="Arial, sans-serif" font-size="12">Ola Nordmann</text>
+        
+        <text x="0" y="165" fill="#1f2937" font-family="Arial, sans-serif" font-size="12" font-weight="bold">MVA-registrert:</text>
+        <text x="120" y="165" fill="#10b981" font-family="Arial, sans-serif" font-size="12" font-weight="bold">JA</text>
+      </g>
+    </g>
+    
+    <!-- Business Information Section -->
+    <g transform="translate(360, 50)">
+      <rect x="0" y="0" width="340" height="200" fill="url(#cardGradient)" stroke="#f59e0b" stroke-width="2" rx="8"/>
+      <rect x="0" y="0" width="340" height="30" fill="#f59e0b" rx="8"/>
+      <text x="170" y="20" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">FORRETNINGSOPPLYSNINGER</text>
+      
+      <!-- Business data fields -->
+      <g transform="translate(15, 40)">
+        <text x="0" y="15" fill="#1f2937" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Kundekategori:</text>
+        <text x="120" y="15" fill="#374151" font-family="Arial, sans-serif" font-size="12">B2B - Stor bedrift</text>
+        
+        <text x="0" y="35" fill="#1f2937" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Bransje:</text>
+        <text x="120" y="35" fill="#374151" font-family="Arial, sans-serif" font-size="12">Teknologi</text>
+        
+        <text x="0" y="55" fill="#1f2937" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Betalingsfrist:</text>
+        <text x="120" y="55" fill="#374151" font-family="Arial, sans-serif" font-size="12">30 dager netto</text>
+        
+        <text x="0" y="75" fill="#1f2937" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Kredittgrense:</text>
+        <text x="120" y="75" fill="#374151" font-family="Arial, sans-serif" font-size="12">500 000 NOK</text>
+        
+        <text x="0" y="95" fill="#1f2937" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Rabattavtale:</text>
+        <text x="120" y="95" fill="#374151" font-family="Arial, sans-serif" font-size="12">5% volum &gt; 100k</text>
+        
+        <text x="0" y="115" fill="#1f2937" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Betalingsmetode:</text>
+        <text x="120" y="115" fill="#374151" font-family="Arial, sans-serif" font-size="12">Bankgiro</text>
+        
+        <text x="0" y="135" fill="#1f2937" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Salgsansvarlig:</text>
+        <text x="120" y="135" fill="#374151" font-family="Arial, sans-serif" font-size="12">Kari Hansen</text>
+        
+        <text x="0" y="155" fill="#1f2937" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Opprettet:</text>
+        <text x="120" y="155" fill="#374151" font-family="Arial, sans-serif" font-size="12">15.01.2024</text>
+      </g>
+    </g>
+    
+    <!-- Transaction History Section -->
+    <g transform="translate(0, 270)">
+      <rect x="0" y="0" width="700" height="160" fill="url(#cardGradient)" stroke="#8b5cf6" stroke-width="2" rx="8"/>
+      <rect x="0" y="0" width="700" height="30" fill="#8b5cf6" rx="8"/>
+      <text x="350" y="20" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">TRANSAKSJONSHISTORIKK &amp; SALDO</text>
+      
+      <!-- Transaction table header -->
+      <g transform="translate(15, 40)">
+        <rect x="0" y="0" width="670" height="20" fill="#e5e7eb"/>
+        <text x="10" y="15" fill="#1f2937" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Dato</text>
+        <text x="80" y="15" fill="#1f2937" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Type</text>
+        <text x="150" y="15" fill="#1f2937" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Fakturanr</text>
+        <text x="250" y="15" fill="#1f2937" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Beløp</text>
+        <text x="350" y="15" fill="#1f2937" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Status</text>
+        <text x="450" y="15" fill="#1f2937" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Forfallsdato</text>
+        <text x="550" y="15" fill="#1f2937" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Saldo</text>
+        
+        <!-- Transaction rows -->
+        <text x="10" y="35" fill="#374151" font-family="Arial, sans-serif" font-size="10">15.03.24</text>
+        <text x="80" y="35" fill="#374151" font-family="Arial, sans-serif" font-size="10">Faktura</text>
+        <text x="150" y="35" fill="#374151" font-family="Arial, sans-serif" font-size="10">F-2024-156</text>
+        <text x="250" y="35" fill="#374151" font-family="Arial, sans-serif" font-size="10">125 000</text>
+        <text x="350" y="35" fill="#ef4444" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Åpen</text>
+        <text x="450" y="35" fill="#374151" font-family="Arial, sans-serif" font-size="10">14.04.24</text>
+        <text x="550" y="35" fill="#ef4444" font-family="Arial, sans-serif" font-size="10" font-weight="bold">125 000</text>
+        
+        <text x="10" y="50" fill="#374151" font-family="Arial, sans-serif" font-size="10">01.03.24</text>
+        <text x="80" y="50" fill="#374151" font-family="Arial, sans-serif" font-size="10">Betaling</text>
+        <text x="150" y="50" fill="#374151" font-family="Arial, sans-serif" font-size="10">F-2024-089</text>
+        <text x="250" y="50" fill="#374151" font-family="Arial, sans-serif" font-size="10">75 000</text>
+        <text x="350" y="50" fill="#10b981" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Betalt</text>
+        <text x="450" y="50" fill="#374151" font-family="Arial, sans-serif" font-size="10">28.02.24</text>
+        <text x="550" y="50" fill="#374151" font-family="Arial, sans-serif" font-size="10">0</text>
+        
+        <text x="10" y="65" fill="#374151" font-family="Arial, sans-serif" font-size="10">15.02.24</text>
+        <text x="80" y="65" fill="#374151" font-family="Arial, sans-serif" font-size="10">Faktura</text>
+        <text x="150" y="65" fill="#374151" font-family="Arial, sans-serif" font-size="10">F-2024-089</text>
+        <text x="250" y="65" fill="#374151" font-family="Arial, sans-serif" font-size="10">75 000</text>
+        <text x="350" y="65" fill="#10b981" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Betalt</text>
+        <text x="450" y="65" fill="#374151" font-family="Arial, sans-serif" font-size="10">17.03.24</text>
+        <text x="550" y="65" fill="#374151" font-family="Arial, sans-serif" font-size="10">75 000</text>
+        
+        <!-- Summary -->
+        <rect x="0" y="85" width="670" height="20" fill="#f3f4f6"/>
+        <text x="10" y="98" fill="#1f2937" font-family="Arial, sans-serif" font-size="11" font-weight="bold">SAMMENDRAG:</text>
+        <text x="150" y="98" fill="#1f2937" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Total omsetning 2024: 200 000 NOK</text>
+        <text x="400" y="98" fill="#ef4444" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Utestående: 125 000 NOK</text>
+      </g>
+    </g>
+    
+    <!-- Communication Log Section -->
+    <g transform="translate(0, 450)">
+      <rect x="0" y="0" width="700" height="100" fill="url(#cardGradient)" stroke="#ef4444" stroke-width="2" rx="8"/>
+      <rect x="0" y="0" width="700" height="30" fill="#ef4444" rx="8"/>
+      <text x="350" y="20" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">KOMMUNIKASJONSLOGG</text>
+      
+      <!-- Communication entries -->
+      <g transform="translate(15, 40)">
+        <text x="0" y="15" fill="#1f2937" font-family="Arial, sans-serif" font-size="11" font-weight="bold">20.03.24:</text>
+        <text x="70" y="15" fill="#374151" font-family="Arial, sans-serif" font-size="11">E-post sendt - Påminnelse om forfalt faktura F-2024-156</text>
+        
+        <text x="0" y="30" fill="#1f2937" font-family="Arial, sans-serif" font-size="11" font-weight="bold">18.03.24:</text>
+        <text x="70" y="30" fill="#374151" font-family="Arial, sans-serif" font-size="11">Telefon - Kunde bekrefter mottak av faktura, betaling planlagt</text>
+        
+        <text x="0" y="45" fill="#1f2937" font-family="Arial, sans-serif" font-size="11" font-weight="bold">15.03.24:</text>
+        <text x="70" y="45" fill="#374151" font-family="Arial, sans-serif" font-size="11">Faktura F-2024-156 sendt via e-post</text>
+      </g>
+    </g>
+  </g>
+</svg>

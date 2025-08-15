@@ -1,0 +1,135 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="timelineGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
+    Historisk Utvikling av Arbeidsgiveravgift
+  </text>
+  
+  <!-- Timeline line -->
+  <line x1="100" y1="250" x2="700" y2="250" stroke="url(#timelineGradient)" stroke-width="4"/>
+  
+  <!-- 1975 - Innføring -->
+  <g transform="translate(150, 250)">
+    <circle cx="0" cy="0" r="8" fill="#0066cc"/>
+    <line x1="0" y1="0" x2="0" y2="-80" stroke="#666" stroke-width="2"/>
+    <rect x="-60" y="-120" width="120" height="60" fill="white" stroke="#0066cc" stroke-width="2" rx="5"/>
+    <text x="0" y="-105" text-anchor="middle" fill="#0066cc" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      1975
+    </text>
+    <text x="0" y="-90" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="12">
+      Innføring av
+    </text>
+    <text x="0" y="-75" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="12">
+      arbeidsgiveravgift
+    </text>
+    <text x="0" y="25" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="11">
+      Folketrygdfinansiering
+    </text>
+  </g>
+  
+  <!-- 1990-tallet - Geografisk differensiering -->
+  <g transform="translate(300, 250)">
+    <circle cx="0" cy="0" r="8" fill="#0066cc"/>
+    <line x1="0" y1="0" x2="0" y2="80" stroke="#666" stroke-width="2"/>
+    <rect x="-70" y="60" width="140" height="60" fill="white" stroke="#0066cc" stroke-width="2" rx="5"/>
+    <text x="0" y="75" text-anchor="middle" fill="#0066cc" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      1990-tallet
+    </text>
+    <text x="0" y="90" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="12">
+      Geografisk
+    </text>
+    <text x="0" y="105" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="12">
+      differensiering
+    </text>
+    <text x="0" y="-25" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="11">
+      Distriktspolitikk
+    </text>
+  </g>
+  
+  <!-- 2004 - EU/EØS tilpasning -->
+  <g transform="translate(450, 250)">
+    <circle cx="0" cy="0" r="8" fill="#0066cc"/>
+    <line x1="0" y1="0" x2="0" y2="-80" stroke="#666" stroke-width="2"/>
+    <rect x="-60" y="-120" width="120" height="60" fill="white" stroke="#0066cc" stroke-width="2" rx="5"/>
+    <text x="0" y="-105" text-anchor="middle" fill="#0066cc" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      2004
+    </text>
+    <text x="0" y="-90" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="12">
+      EU/EØS-tilpassede
+    </text>
+    <text x="0" y="-75" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="12">
+      regler
+    </text>
+    <text x="0" y="25" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="11">
+      Statsstøtteregler
+    </text>
+  </g>
+  
+  <!-- 2015 - A-ordningen -->
+  <g transform="translate(600, 250)">
+    <circle cx="0" cy="0" r="8" fill="#0066cc"/>
+    <line x1="0" y1="0" x2="0" y2="80" stroke="#666" stroke-width="2"/>
+    <rect x="-60" y="60" width="120" height="60" fill="white" stroke="#0066cc" stroke-width="2" rx="5"/>
+    <text x="0" y="75" text-anchor="middle" fill="#0066cc" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      2015
+    </text>
+    <text x="0" y="90" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="12">
+      A-ordningen
+    </text>
+    <text x="0" y="105" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="12">
+      integrering
+    </text>
+    <text x="0" y="-25" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="11">
+      Digital rapportering
+    </text>
+  </g>
+  
+  <!-- Key developments box -->
+  <g transform="translate(50, 350)">
+    <rect x="0" y="0" width="700" height="120" fill="white" stroke="#0066cc" stroke-width="2" rx="10"/>
+    <text x="20" y="25" fill="#0066cc" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+      Viktige utviklingstrekk:
+    </text>
+    
+    <g transform="translate(20, 45)">
+      <circle cx="8" cy="8" r="3" fill="#28a745"/>
+      <text x="20" y="12" fill="#333" font-family="Arial, sans-serif" font-size="13">
+        1975: Etablering som finansieringskilde for folketrygden og velferdsordninger
+      </text>
+    </g>
+    
+    <g transform="translate(20, 65)">
+      <circle cx="8" cy="8" r="3" fill="#28a745"/>
+      <text x="20" y="12" fill="#333" font-family="Arial, sans-serif" font-size="13">
+        1990-tallet: Innføring av geografiske soner for å stimulere distriktsnæring
+      </text>
+    </g>
+    
+    <g transform="translate(20, 85)">
+      <circle cx="8" cy="8" r="3" fill="#28a745"/>
+      <text x="20" y="12" fill="#333" font-family="Arial, sans-serif" font-size="13">
+        2004: Tilpasning til EU/EØS-regelverket med krav om statsstøttegodkjenning
+      </text>
+    </g>
+    
+    <g transform="translate(20, 105)">
+      <circle cx="8" cy="8" r="3" fill="#28a745"/>
+      <text x="20" y="12" fill="#333" font-family="Arial, sans-serif" font-size="13">
+        2015: Integrering i A-ordningen for forenklet og digital rapportering
+      </text>
+    </g>
+  </g>
+</svg>

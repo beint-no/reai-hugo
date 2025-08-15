@@ -1,0 +1,92 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#2563eb;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="400" fill="url(#bgGradient)" stroke="#cbd5e1" stroke-width="2"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
+  
+  <!-- Title -->
+  <text x="400" y="45" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle" fill="white">
+    Hva er internkontroll?
+  </text>
+  
+  <!-- Central shield icon representing protection/control -->
+  <g transform="translate(350, 120)">
+    <path d="M50 0 L80 20 L80 60 C80 80 65 90 50 90 C35 90 20 80 20 60 L20 20 Z" 
+          fill="#10b981" stroke="#059669" stroke-width="2"/>
+    <circle cx="50" cy="45" r="15" fill="white"/>
+    <path d="M42 45 L48 51 L58 39" stroke="#10b981" stroke-width="3" fill="none" stroke-linecap="round"/>
+  </g>
+  
+  <!-- Three pillars representing the three main objectives -->
+  <g transform="translate(100, 250)">
+    <!-- Pillar 1: Operational Efficiency -->
+    <rect x="0" y="0" width="120" height="80" fill="#3b82f6" stroke="#1d4ed8" stroke-width="2" rx="5"/>
+    <text x="60" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+      Operasjonell
+    </text>
+    <text x="60" y="40" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+      Effektivitet
+    </text>
+    <circle cx="60" cy="60" r="8" fill="white"/>
+    <path d="M55 60 L59 64 L65 56" stroke="#3b82f6" stroke-width="2" fill="none" stroke-linecap="round"/>
+  </g>
+  
+  <g transform="translate(340, 250)">
+    <!-- Pillar 2: Financial Reporting -->
+    <rect x="0" y="0" width="120" height="80" fill="#059669" stroke="#047857" stroke-width="2" rx="5"/>
+    <text x="60" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+      Pålitelig
+    </text>
+    <text x="60" y="40" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+      Rapportering
+    </text>
+    <rect x="45" y="50" width="30" height="20" fill="white" rx="2"/>
+    <line x1="50" y1="55" x2="70" y2="55" stroke="#059669" stroke-width="1"/>
+    <line x1="50" y1="60" x2="70" y2="60" stroke="#059669" stroke-width="1"/>
+    <line x1="50" y1="65" x2="65" y2="65" stroke="#059669" stroke-width="1"/>
+  </g>
+  
+  <g transform="translate(580, 250)">
+    <!-- Pillar 3: Compliance -->
+    <rect x="0" y="0" width="120" height="80" fill="#dc2626" stroke="#b91c1c" stroke-width="2" rx="5"/>
+    <text x="60" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+      Overholdelse
+    </text>
+    <text x="60" y="40" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+      av Lover
+    </text>
+    <rect x="50" y="50" width="20" height="25" fill="white" rx="2"/>
+    <rect x="52" y="52" width="16" height="3" fill="#dc2626"/>
+    <rect x="52" y="57" width="16" height="3" fill="#dc2626"/>
+    <rect x="52" y="62" width="16" height="3" fill="#dc2626"/>
+    <rect x="52" y="67" width="16" height="3" fill="#dc2626"/>
+  </g>
+  
+  <!-- Connecting arrows -->
+  <path d="M220 290 L320 290" stroke="#64748b" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  <path d="M460 290 L560 290" stroke="#64748b" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#64748b"/>
+    </marker>
+  </defs>
+  
+  <!-- Bottom text -->
+  <text x="400" y="370" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#475569">
+    Et helhetlig system for risikostyring og kontroll
+  </text>
+</svg>

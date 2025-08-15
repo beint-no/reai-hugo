@@ -1,0 +1,27 @@
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg" font-family="Arial, sans-serif">
+    <defs>
+        <marker id="audit-arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+            <path d="M 0 0 L 10 5 L 0 10 z" fill="#37474f" />
+        </marker>
+    </defs>
+    <g id="planning">
+        <rect x="20" y="80" width="150" height="60" rx="5" fill="#eceff1" stroke="#90a4ae" stroke-width="2"/>
+        <text x="95" y="115" text-anchor="middle">1. Planlegging</text>
+    </g>
+    <path d="M 175 110 L 215 110" stroke="#37474f" stroke-width="2" marker-end="url(#audit-arrow)"/>
+    <g id="risk-assessment">
+        <rect x="220" y="80" width="150" height="60" rx="5" fill="#eceff1" stroke="#90a4ae" stroke-width="2"/>
+        <text x="295" y="115" text-anchor="middle">2. Risikovurdering</text>
+    </g>
+    <path d="M 375 110 L 415 110" stroke="#37474f" stroke-width="2" marker-end="url(#audit-arrow)"/>
+    <g id="testing">
+        <rect x="420" y="80" width="150" height="60" rx="5" fill="#eceff1" stroke="#90a4ae" stroke-width="2"/>
+        <text x="495" y="115" text-anchor="middle">3. Kontrolltesting</text>
+    </g>
+    <path d="M 575 110 L 615 110" stroke="#37474f" stroke-width="2" marker-end="url(#audit-arrow)"/>
+    <g id="reporting">
+        <rect x="620" y="80" width="150" height="60" rx="5" fill="#cfd8dc" stroke="#78909c" stroke-width="2"/>
+        <text x="695" y="115" text-anchor="middle">4. Rapportering</text>
+    </g>
+    <text x="400" y="40" text-anchor="middle" font-size="22" font-weight="bold">Revisjonsprosessen</text>
+</svg>

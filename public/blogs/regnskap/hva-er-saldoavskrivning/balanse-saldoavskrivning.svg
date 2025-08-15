@@ -1,0 +1,190 @@
+<svg width="750" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="balanceGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#059669;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#047857;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="750" height="500" fill="#f0fdf4" stroke="#bbf7d0" stroke-width="2"/>
+  
+  <!-- Title -->
+  <text x="375" y="35" font-family="Arial, sans-serif" font-size="22" font-weight="bold" 
+        text-anchor="middle" fill="url(#balanceGradient)">
+    Saldoavskrivning i Balansen
+  </text>
+  
+  <!-- Subtitle -->
+  <text x="375" y="60" font-family="Arial, sans-serif" font-size="14" 
+        text-anchor="middle" fill="#047857">
+    Presentasjon av anleggsmidler med akkumulerte avskrivninger
+  </text>
+  
+  <!-- Netto Presentasjon -->
+  <rect x="50" y="90" width="300" height="180" fill="white" stroke="#10b981" stroke-width="2" rx="8"/>
+  
+  <text x="200" y="115" font-family="Arial, sans-serif" font-size="16" font-weight="bold" 
+        text-anchor="middle" fill="#059669">
+    Netto Presentasjon
+  </text>
+  
+  <text x="70" y="145" font-family="Arial, sans-serif" font-size="14" font-weight="bold" 
+        fill="#374151">
+    ANLEGGSMIDLER
+  </text>
+  
+  <text x="70" y="170" font-family="Arial, sans-serif" font-size="13" 
+        fill="#6b7280">
+    Maskiner og utstyr
+  </text>
+  <text x="310" y="170" font-family="Arial, sans-serif" font-size="13" font-weight="bold" 
+        text-anchor="end" fill="#374151">
+    425.000
+  </text>
+  
+  <text x="70" y="190" font-family="Arial, sans-serif" font-size="13" 
+        fill="#6b7280">
+    Kontormaskiner
+  </text>
+  <text x="310" y="190" font-family="Arial, sans-serif" font-size="13" font-weight="bold" 
+        text-anchor="end" fill="#374151">
+    150.000
+  </text>
+  
+  <line x1="240" y1="200" x2="320" y2="200" stroke="#6b7280" stroke-width="1"/>
+  
+  <text x="70" y="220" font-family="Arial, sans-serif" font-size="14" font-weight="bold" 
+        fill="#059669">
+    Sum anleggsmidler
+  </text>
+  <text x="310" y="220" font-family="Arial, sans-serif" font-size="14" font-weight="bold" 
+        text-anchor="end" fill="#059669">
+    575.000
+  </text>
+  
+  <text x="200" y="250" font-family="Arial, sans-serif" font-size="12" 
+        text-anchor="middle" fill="#047857" style="font-style: italic;">
+    Enklest å lese
+  </text>
+  
+  <!-- Brutto Presentasjon -->
+  <rect x="400" y="90" width="300" height="240" fill="white" stroke="#10b981" stroke-width="2" rx="8"/>
+  
+  <text x="550" y="115" font-family="Arial, sans-serif" font-size="16" font-weight="bold" 
+        text-anchor="middle" fill="#059669">
+    Brutto Presentasjon
+  </text>
+  
+  <text x="420" y="145" font-family="Arial, sans-serif" font-size="14" font-weight="bold" 
+        fill="#374151">
+    ANLEGGSMIDLER
+  </text>
+  
+  <text x="420" y="170" font-family="Arial, sans-serif" font-size="13" 
+        fill="#6b7280">
+    Maskiner og utstyr (kostpris)
+  </text>
+  <text x="660" y="170" font-family="Arial, sans-serif" font-size="13" 
+        text-anchor="end" fill="#374151">
+    500.000
+  </text>
+  
+  <text x="440" y="190" font-family="Arial, sans-serif" font-size="12" 
+        fill="#dc2626">
+    - Akkumulerte avskrivninger
+  </text>
+  <text x="660" y="190" font-family="Arial, sans-serif" font-size="12" 
+        text-anchor="end" fill="#dc2626">
+    (75.000)
+  </text>
+  
+  <line x1="600" y1="200" x2="670" y2="200" stroke="#6b7280" stroke-width="1"/>
+  
+  <text x="440" y="220" font-family="Arial, sans-serif" font-size="13" font-weight="bold" 
+        fill="#374151">
+    Bokført verdi maskiner
+  </text>
+  <text x="660" y="220" font-family="Arial, sans-serif" font-size="13" font-weight="bold" 
+        text-anchor="end" fill="#374151">
+    425.000
+  </text>
+  
+  <text x="420" y="245" font-family="Arial, sans-serif" font-size="13" 
+        fill="#6b7280">
+    Kontormaskiner (kostpris)
+  </text>
+  <text x="660" y="245" font-family="Arial, sans-serif" font-size="13" 
+        text-anchor="end" fill="#374151">
+    200.000
+  </text>
+  
+  <text x="440" y="265" font-family="Arial, sans-serif" font-size="12" 
+        fill="#dc2626">
+    - Akkumulerte avskrivninger
+  </text>
+  <text x="660" y="265" font-family="Arial, sans-serif" font-size="12" 
+        text-anchor="end" fill="#dc2626">
+    (50.000)
+  </text>
+  
+  <line x1="600" y1="275" x2="670" y2="275" stroke="#6b7280" stroke-width="1"/>
+  
+  <text x="440" y="295" font-family="Arial, sans-serif" font-size="13" font-weight="bold" 
+        fill="#374151">
+    Bokført verdi kontormaskiner
+  </text>
+  <text x="660" y="295" font-family="Arial, sans-serif" font-size="13" font-weight="bold" 
+        text-anchor="end" fill="#374151">
+    150.000
+  </text>
+  
+  <line x1="590" y1="305" x2="670" y2="305" stroke="#059669" stroke-width="2"/>
+  
+  <text x="420" y="325" font-family="Arial, sans-serif" font-size="14" font-weight="bold" 
+        fill="#059669">
+    Sum anleggsmidler
+  </text>
+  <text x="660" y="325" font-family="Arial, sans-serif" font-size="14" font-weight="bold" 
+        text-anchor="end" fill="#059669">
+    575.000
+  </text>
+  
+  <!-- Journalføring example -->
+  <rect x="80" y="350" width="590" height="120" fill="#ecfdf5" stroke="#10b981" stroke-width="1" rx="5"/>
+  
+  <text x="375" y="375" font-family="Arial, sans-serif" font-size="16" font-weight="bold" 
+        text-anchor="middle" fill="#059669">
+    Journalføring av Saldoavskrivning
+  </text>
+  
+  <text x="100" y="400" font-family="Arial, sans-serif" font-size="13" font-weight="bold" 
+        fill="#374151">
+    Årets avskrivning:
+  </text>
+  
+  <text x="120" y="420" font-family="Arial, sans-serif" font-size="12" font-family="monospace" 
+        fill="#6b7280">
+    Avskrivning maskiner og utstyr    75.000
+  </text>
+  
+  <text x="120" y="435" font-family="Arial, sans-serif" font-size="12" font-family="monospace" 
+        fill="#6b7280">
+        Akkumulerte avskrivninger           75.000
+  </text>
+  
+  <text x="400" y="420" font-family="Arial, sans-serif" font-size="12" 
+        fill="#374151">
+    Kostnadsføres i resultatregnskapet
+  </text>
+  
+  <text x="400" y="435" font-family="Arial, sans-serif" font-size="12" 
+        fill="#374151">
+    Reduserer bokført verdi i balansen
+  </text>
+  
+  <text x="100" y="460" font-family="Arial, sans-serif" font-size="12" 
+        fill="#047857" style="font-style: italic;">
+    Akkumulerte avskrivninger øker hvert år med årets avskrivning
+  </text>
+</svg>

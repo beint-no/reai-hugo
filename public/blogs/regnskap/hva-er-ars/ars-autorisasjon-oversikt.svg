@@ -1,0 +1,77 @@
+<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="500" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+    ARS Autorisasjon Oversikt
+  </text>
+  
+  <!-- Finanstilsynet logo/box -->
+  <rect x="300" y="70" width="200" height="60" rx="8" fill="#2c3e50"/>
+  <text x="400" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    Finanstilsynet
+  </text>
+  <text x="400" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    Autorisasjonsmyndighet
+  </text>
+  
+  <!-- Arrow down -->
+  <path d="M400 140 L400 170 M390 160 L400 170 L410 160" stroke="#2c3e50" stroke-width="3" fill="none"/>
+  
+  <!-- ARS Requirements Circle -->
+  <circle cx="400" cy="220" r="80" fill="#3498db" opacity="0.1" stroke="#3498db" stroke-width="2"/>
+  <text x="400" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+    ARS Krav
+  </text>
+  <text x="400" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+    Faglig kompetanse
+  </text>
+  
+  <!-- Left branch - Faglige krav -->
+  <path d="M340 260 L200 320" stroke="#27ae60" stroke-width="2" fill="none"/>
+  <circle cx="180" cy="340" r="50" fill="#27ae60" opacity="0.1" stroke="#27ae60" stroke-width="2"/>
+  <text x="180" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+    Faglige Krav
+  </text>
+  <text x="180" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    • Autorisert leder
+  </text>
+  <text x="180" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    • 50% autoriserte
+  </text>
+  
+  <!-- Right branch - Organisatoriske krav -->
+  <path d="M460 260 L600 320" stroke="#e74c3c" stroke-width="2" fill="none"/>
+  <circle cx="620" cy="340" r="50" fill="#e74c3c" opacity="0.1" stroke="#e74c3c" stroke-width="2"/>
+  <text x="620" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+    Organisatoriske
+  </text>
+  <text x="620" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+    Krav
+  </text>
+  <text x="620" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    • Kvalitetssystem
+  </text>
+  <text x="620" y="375" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    • Internkontroll
+  </text>
+  
+  <!-- Bottom branch - Økonomiske krav -->
+  <path d="M400 300 L400 380" stroke="#f39c12" stroke-width="2" fill="none"/>
+  <circle cx="400" cy="420" r="50" fill="#f39c12" opacity="0.1" stroke="#f39c12" stroke-width="2"/>
+  <text x="400" y="415" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+    Økonomiske Krav
+  </text>
+  <text x="400" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    • Ansvarsforsikring
+  </text>
+  <text x="400" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    • Økonomisk soliditet
+  </text>
+  
+  <!-- Bottom text -->
+  <text x="400" y="485" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">
+    Alle krav må oppfylles for å oppnå og beholde ARS-autorisasjon
+  </text>
+</svg>

@@ -1,0 +1,99 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#212529">
+    Bransjespesifikke Inkassosalær
+  </text>
+  
+  <!-- Chart background -->
+  <rect x="100" y="70" width="600" height="350" fill="white" stroke="#dee2e6" stroke-width="1"/>
+  
+  <!-- Y-axis labels -->
+  <text x="90" y="100" font-family="Arial, sans-serif" font-size="12" text-anchor="end" fill="#6c757d">20%</text>
+  <text x="90" y="150" font-family="Arial, sans-serif" font-size="12" text-anchor="end" fill="#6c757d">15%</text>
+  <text x="90" y="200" font-family="Arial, sans-serif" font-size="12" text-anchor="end" fill="#6c757d">10%</text>
+  <text x="90" y="250" font-family="Arial, sans-serif" font-size="12" text-anchor="end" fill="#6c757d">5%</text>
+  <text x="90" y="300" font-family="Arial, sans-serif" font-size="12" text-anchor="end" fill="#6c757d">0%</text>
+  
+  <!-- Grid lines -->
+  <line x1="100" y1="100" x2="700" y2="100" stroke="#e9ecef" stroke-width="1"/>
+  <line x1="100" y1="150" x2="700" y2="150" stroke="#e9ecef" stroke-width="1"/>
+  <line x1="100" y1="200" x2="700" y2="200" stroke="#e9ecef" stroke-width="1"/>
+  <line x1="100" y1="250" x2="700" y2="250" stroke="#e9ecef" stroke-width="1"/>
+  <line x1="100" y1="300" x2="700" y2="300" stroke="#e9ecef" stroke-width="1"/>
+  
+  <!-- Bar 1: Detaljhandel (10-15%) -->
+  <rect x="130" y="150" width="80" height="150" fill="#28a745" stroke="#1e7e34" stroke-width="2"/>
+  <text x="170" y="140" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#1e7e34">15%</text>
+  <text x="170" y="325" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#495057">Detaljhandel</text>
+  <text x="170" y="340" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6c757d">Mange små</text>
+  <text x="170" y="352" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6c757d">fordringer</text>
+  
+  <!-- Bar 2: B2B Tjenester (5-10%) -->
+  <rect x="230" y="200" width="80" height="100" fill="#17a2b8" stroke="#138496" stroke-width="2"/>
+  <text x="270" y="190" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#138496">10%</text>
+  <text x="270" y="325" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#495057">B2B Tjenester</text>
+  <text x="270" y="340" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6c757d">Komplekse</text>
+  <text x="270" y="352" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6c757d">avtaler</text>
+  
+  <!-- Bar 3: Telekom (15-20%) -->
+  <rect x="330" y="100" width="80" height="200" fill="#dc3545" stroke="#c82333" stroke-width="2"/>
+  <text x="370" y="90" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#c82333">20%</text>
+  <text x="370" y="325" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#495057">Telekom</text>
+  <text x="370" y="340" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6c757d">Høy kunde-</text>
+  <text x="370" y="352" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6c757d">omsetning</text>
+  
+  <!-- Bar 4: Finansielle tjenester (5-8%) -->
+  <rect x="430" y="230" width="80" height="70" fill="#6f42c1" stroke="#5a32a3" stroke-width="2"/>
+  <text x="470" y="220" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#5a32a3">8%</text>
+  <text x="470" y="325" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#495057">Finansielle</text>
+  <text x="470" y="340" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6c757d">Streng</text>
+  <text x="470" y="352" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6c757d">regulering</text>
+  
+  <!-- Bar 5: Helsesektoren (8-12%) -->
+  <rect x="530" y="180" width="80" height="120" fill="#ffc107" stroke="#e0a800" stroke-width="2"/>
+  <text x="570" y="170" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#e0a800">12%</text>
+  <text x="570" y="325" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#495057">Helsesektoren</text>
+  <text x="570" y="340" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6c757d">Etiske</text>
+  <text x="570" y="352" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6c757d">hensyn</text>
+  
+  <!-- Legend -->
+  <rect x="50" y="380" width="700" height="80" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="5"/>
+  <text x="400" y="400" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#495057">
+    Faktorer som Påvirker Inkassosalær
+  </text>
+  
+  <text x="70" y="420" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+    • Fordringens størrelse og kompleksitet
+  </text>
+  <text x="70" y="435" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+    • Skyldnerens betalingsevne og -historie
+  </text>
+  <text x="70" y="450" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+    • Bransjespesifikke utfordringer og risiko
+  </text>
+  
+  <text x="420" y="420" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+    • Regulatoriske krav og begrensninger
+  </text>
+  <text x="420" y="435" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+    • Geografisk lokasjon og prosesser
+  </text>
+  <text x="420" y="450" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+    • Tidsperspektiv og innkrevingsstrategier
+  </text>
+  
+  <!-- Y-axis title -->
+  <text x="30" y="200" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#495057" transform="rotate(-90 30 200)">
+    Typisk Inkassosalær (% av fordring)
+  </text>
+</svg>

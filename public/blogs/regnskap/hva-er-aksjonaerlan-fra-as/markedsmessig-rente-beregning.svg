@@ -1,0 +1,88 @@
+<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="correctGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#27AE60;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#229954;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="wrongGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#E74C3C;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#C0392B;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="taxGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#F39C12;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#E67E22;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="#F8F9FA"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2C3E50">Markedsmessig Rente - Beregning og Konsekvenser</text>
+  
+  <!-- Normrente info box -->
+  <rect x="50" y="50" width="700" height="60" fill="#ECF0F1" stroke="#BDC3C7" stroke-width="2" rx="8"/>
+  <text x="400" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2C3E50">Normrente 2024: 3,0%</text>
+  <text x="400" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7F8C8D">Fastsatt av Skatteetaten - oppdateres årlig</text>
+  
+  <!-- Correct example (left) -->
+  <rect x="50" y="130" width="320" height="320" fill="url(#correctGradient)" stroke="#2C3E50" stroke-width="2" rx="10"/>
+  <text x="210" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#FFF">✓ Korrekt Rente</text>
+  
+  <!-- Correct calculation -->
+  <rect x="70" y="180" width="280" height="120" fill="#FFF" stroke="#27AE60" stroke-width="2" rx="5"/>
+  <text x="210" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2C3E50">Låneeksempel</text>
+  <text x="80" y="220" font-family="Arial, sans-serif" font-size="12" fill="#2C3E50">Lånebeløp: 500 000 kr</text>
+  <text x="80" y="240" font-family="Arial, sans-serif" font-size="12" fill="#2C3E50">Rente: 3,0% (normrente)</text>
+  <text x="80" y="260" font-family="Arial, sans-serif" font-size="12" fill="#2C3E50">Årlig rentekostnad: 15 000 kr</text>
+  <text x="80" y="285" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#27AE60">Ingen ekstra skattekonsekvenser</text>
+  
+  <!-- Correct consequences -->
+  <text x="210" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFF">Konsekvenser:</text>
+  <text x="80" y="350" font-family="Arial, sans-serif" font-size="12" fill="#FFF">• Ingen skattepliktig fordel</text>
+  <text x="80" y="370" font-family="Arial, sans-serif" font-size="12" fill="#FFF">• Rente fradragsberettiget</text>
+  <text x="80" y="390" font-family="Arial, sans-serif" font-size="12" fill="#FFF">• Følger regelverket</text>
+  <text x="80" y="410" font-family="Arial, sans-serif" font-size="12" fill="#FFF">• Ingen tilleggsskatt</text>
+  
+  <!-- Wrong example (right) -->
+  <rect x="430" y="130" width="320" height="320" fill="url(#wrongGradient)" stroke="#2C3E50" stroke-width="2" rx="10"/>
+  <text x="590" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#FFF">✗ For Lav Rente</text>
+  
+  <!-- Wrong calculation -->
+  <rect x="450" y="180" width="280" height="120" fill="#FFF" stroke="#E74C3C" stroke-width="2" rx="5"/>
+  <text x="590" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2C3E50">Samme Lån</text>
+  <text x="460" y="220" font-family="Arial, sans-serif" font-size="12" fill="#2C3E50">Lånebeløp: 500 000 kr</text>
+  <text x="460" y="240" font-family="Arial, sans-serif" font-size="12" fill="#2C3E50">Rente: 1,0% (for lav!)</text>
+  <text x="460" y="260" font-family="Arial, sans-serif" font-size="12" fill="#2C3E50">Årlig rentekostnad: 5 000 kr</text>
+  <text x="460" y="285" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#E74C3C">Rentefordel: 10 000 kr årlig</text>
+  
+  <!-- Wrong consequences -->
+  <text x="590" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFF">Konsekvenser:</text>
+  <text x="460" y="350" font-family="Arial, sans-serif" font-size="12" fill="#FFF">• 10 000 kr skattepliktig fordel</text>
+  <text x="460" y="370" font-family="Arial, sans-serif" font-size="12" fill="#FFF">• Kan utløse utbytteskatt</text>
+  <text x="460" y="390" font-family="Arial, sans-serif" font-size="12" fill="#FFF">• Risiko for tilleggsskatt</text>
+  <text x="460" y="410" font-family="Arial, sans-serif" font-size="12" fill="#FFF">• Skatteetaten kan omklassifisere</text>
+  
+  <!-- Tax calculation box -->
+  <rect x="150" y="470" width="500" height="25" fill="url(#taxGradient)" stroke="#2C3E50" stroke-width="1" rx="5"/>
+  <text x="400" y="487" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#FFF">
+    Utbytteskatt på rentefordel: 10 000 kr × 31,68% = 3 168 kr ekstra skatt
+  </text>
+  
+  <!-- Formula box -->
+  <rect x="200" y="380" width="400" height="80" fill="#2C3E50" stroke="#34495E" stroke-width="2" rx="8"/>
+  <text x="400" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFF">Beregning av Rentefordel</text>
+  <text x="400" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#FFF">Rentefordel = (Normrente - Faktisk rente) × Lånebeløp</text>
+  <text x="400" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#FFF">Eksempel: (3,0% - 1,0%) × 500 000 = 10 000 kr</text>
+  
+  <!-- Arrows pointing to formula -->
+  <path d="M 210 350 L 250 390" stroke="#27AE60" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  <path d="M 590 350 L 550 390" stroke="#E74C3C" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Arrow markers -->
+  <defs>
+    <marker id="arrowhead" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#2C3E50"/>
+    </marker>
+  </defs>
+</svg>

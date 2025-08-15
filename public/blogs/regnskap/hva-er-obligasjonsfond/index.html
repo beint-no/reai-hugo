@@ -1,0 +1,356 @@
+<!doctype html>
+<html lang="nb">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Hva er Obligasjonsfond? | ReAI</title>
+  <meta name="description" content="Komplett regnskapssystem med faktura, lønn, bilagsføring og årsoppgjør.">
+  
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<script src="https://cdn.tailwindcss.com?plugins=typography"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        fontFamily: { sans: ['Inter','ui-sans-serif','system-ui','Arial','sans-serif'] },
+        colors: {
+          brand: { DEFAULT: '#111827' },
+          accent: { DEFAULT: '#2563eb' }
+        }
+      }
+    }
+  }
+</script>
+<style>
+   
+  header .header-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #000 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link:hover { background-position: 0; }
+  header .header-link:hover::before { width: 100%; }
+
+  footer .footer-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #ffffff 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link:hover { background-position: 0; }
+  footer .footer-link:hover::before { width: 100%; }
+</style>
+<style>
+   
+  .prose { overflow-wrap: anywhere; word-break: break-word; }
+  .prose img { max-width: 100%; height: auto; }
+  .prose table { display: block; width: 100%; overflow-x: auto; }
+  .prose pre { white-space: pre-wrap; word-break: break-word; overflow-x: auto; }
+  .prose code { word-break: break-word; }
+  .prose iframe, .prose video { max-width: 100%; width: 100%; height: auto; }
+</style>
+<style>
+   
+  button,
+  .btn,
+  a.btn,
+  .button,
+  .cta,
+  .link-button,
+   
+  a.inline-flex.rounded-md,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"] {
+    transition: transform 220ms ease, box-shadow 220ms ease, background-color 220ms ease, color 220ms ease, opacity 220ms ease;
+    will-change: transform, box-shadow;
+  }
+
+  button:hover,
+  .btn:hover,
+  a.btn:hover,
+  .button:hover,
+  .cta:hover,
+  .link-button:hover,
+  a.inline-flex.rounded-md:hover,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+
+  button:active,
+  .btn:active,
+  a.btn:active,
+  .button:active,
+  .cta:active,
+  .link-button:active,
+  a.inline-flex.rounded-md:active,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:active {
+    transform: translateY(-1px) scale(0.99);
+    box-shadow: 0 6px 12px rgba(2, 6, 23, 0.1);
+  }
+
+  button:focus-visible,
+  .btn:focus-visible,
+  a.btn:focus-visible,
+  .button:focus-visible,
+  .cta:focus-visible,
+  .link-button:focus-visible,
+  a.inline-flex.rounded-md:focus-visible,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.35), 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+</style>
+
+<link rel="icon" type="image/svg+xml" href="/images/ReAI-logo-square.svg">
+<link rel="shortcut icon" href="/images/ReAI-logo-square.svg">
+
+</head>
+<body class="min-h-dvh bg-white text-gray-900 font-sans">
+  <header class="sticky top-0 z-40 bg-white/80 backdrop-blur">
+  
+  <div class="border-b border-slate-200/70">
+    <div class="max-w-7xl mx-auto px-4">
+      <div class="h-16 flex items-center justify-between">
+        <a href="/" class="flex items-center gap-2" aria-label="ReAI">
+          <img src="/images/ReAI-logo-square.svg?v=4" alt="ReAI logo" class="h-14 w-14 rounded-md mt-5" width="56" height="56" loading="eager" decoding="async">
+        </a>
+        <nav class="hidden md:block">
+          <ul class="flex items-center gap-5 text-sm">
+            <li><a href="/courses/" class="header-link text-slate-700 hover:text-black">Gratis kurs</a></li>
+            <li><a href="/contact/" class="header-link text-slate-700 hover:text-black">Kontakt oss</a></li>
+            <li><a href="/blog/" class="header-link text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+            <li><a href="/bli-partner/" class="header-link text-slate-700 hover:text-black">Bli partner</a></li>
+            <li><a href="/fakturamal/" class="header-link text-slate-700 hover:text-black">Lag faktura</a></li>
+          </ul>
+        </nav>
+        <button id="mobileMenuBtn" aria-controls="mobileMenu" aria-expanded="false" class="md:hidden inline-flex items-center justify-center h-9 w-9 rounded-md border border-slate-300">
+          <span class="sr-only">Menu</span>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-5 w-5"><path d="M3.75 6.75h16.5v1.5H3.75zM3.75 11.25h16.5v1.5H3.75zM3.75 15.75h16.5v1.5H3.75z"/></svg>
+        </button>
+      </div>
+    </div>
+  </div>
+  
+  <nav id="mobileMenu" class="md:hidden hidden border-b border-slate-200/70 bg-white/95 backdrop-blur">
+    <div class="max-w-7xl mx-auto px-4 py-3">
+      <ul class="flex flex-col items-center gap-3 text-sm text-center">
+        <li><a href="/courses/" class="header-link block text-slate-700 hover:text-black">Gratis kurs</a></li>
+        <li><a href="/contact/" class="header-link block text-slate-700 hover:text-black">Kontakt oss</a></li>
+        <li><a href="/blog/" class="header-link block text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+        <li><a href="/bli-partner/" class="header-link block text-slate-700 hover:text-black">Bli partner</a></li>
+        <li><a href="/fakturamal/" class="header-link block text-slate-700 hover:text-black">Lag faktura</a></li>
+      </ul>
+    </div>
+  </nav>
+  <script>
+    (function() {
+      const btn = document.getElementById('mobileMenuBtn');
+      const menu = document.getElementById('mobileMenu');
+      if (!btn || !menu) return;
+      btn.addEventListener('click', function() {
+        const isHidden = menu.classList.contains('hidden');
+        menu.classList.toggle('hidden');
+        btn.setAttribute('aria-expanded', String(isHidden));
+      });
+    })();
+  </script>
+</header>
+  <main>
+    
+<section class="pt-10 md:pt-14">
+  <div class="max-w-3xl mx-auto px-4">
+    <h1 class="text-3xl font-semibold tracking-tight text-center">Hva er Obligasjonsfond?</h1>
+    <p class="mt-2 text-gray-700">Obligasjonsfond er fond som investerer i rentebærende verdipapirer som obligasjoner. De gir diversifisert renteavkastning med ulike risiko- og likviditetsprofiler.</p>
+    <article class="prose max-w-none mt-6"><p><strong>Obligasjonsfond</strong> er en type <strong>investeringsfond</strong> som samler kapital fra flere investorer for å plassere den i ulike rentebærende verdipapirer, primært obligasjoner. Dette gir investorer tilgang til en <strong>diversifisert portefølje</strong> av rentepapirer med profesjonell forvaltning.</p>
+<p>For en introduksjon til <strong>fond</strong>, se <a href="/blogs/regnskap/hva-er-fond" title="Hva er Fond? Ulike Typer Fond og Regnskapsbehandling">Hva er Fond?</a>.
+For en dypere forståelse av <strong>obligasjoner</strong>, se <a href="/blogs/regnskap/hva-er-obligasjon" title="Hva er en Obligasjon? Komplett Guide til Obligasjoner i Regnskap">Hva er en Obligasjon?</a>.</p>
+<p><img src="obligasjonsfond-image.svg" alt="Illustrasjon som viser tittelen Obligasjonsfond"></p>
+<h2 id="definisjon-av-obligasjonsfond">Definisjon av Obligasjonsfond</h2>
+<p>Et <strong>obligasjonsfond</strong> er et fond som investerer i en portefølje av obligasjoner. Hensikten er å oppnå <strong>renteavkastning</strong> samtidig som risikoen spres ved å kombinere ulike utstedere og obligasjonstyper.</p>
+<h2 id="typer-obligasjonsfond">Typer Obligasjonsfond</h2>
+<table>
+  <thead>
+      <tr>
+          <th>Fondtype</th>
+          <th>Løpetid</th>
+          <th>Risiko</th>
+          <th>Forventet avkastning</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Pengemarkedsfond</td>
+          <td>&lt; 1 år</td>
+          <td>Lav</td>
+          <td>Lav</td>
+      </tr>
+      <tr>
+          <td>Korte obligasjonsfond</td>
+          <td>1–3 år</td>
+          <td>Moderat</td>
+          <td>Moderat</td>
+      </tr>
+      <tr>
+          <td>Lange obligasjonsfond</td>
+          <td>&gt; 3 år</td>
+          <td>Høy</td>
+          <td>Høy</td>
+      </tr>
+      <tr>
+          <td>Høyrenteobligasjonsfond</td>
+          <td>Varierende</td>
+          <td>Høy</td>
+          <td>Høy</td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="fordeler">Fordeler</h3>
+<ul>
+<li><strong>Diversifisering</strong> av renteinvesteringene</li>
+<li>Profesjonell <strong>forvaltning</strong> av porteføljen</li>
+<li>Lavere minstegrense for tilgang til obligasjonsmarkedet</li>
+<li>Potensiell stabil <strong>renteavkastning</strong> over tid</li>
+</ul>
+<h3 id="ulemper">Ulemper</h3>
+<ul>
+<li>Eksponering mot <strong>renterisiko</strong> ved renteendringer</li>
+<li><strong>Forvaltningskostnader</strong> som reduserer nettoavkastningen</li>
+<li>Potensiell <strong>likviditetsrisiko</strong> ved lav omsettbarhet i visse perioder</li>
+</ul>
+<h2 id="regnskapsmessig-behandling">Regnskapsmessig Behandling</h2>
+<p>Obligasjonsfond regnskapsføres som en <strong>finansiell investering</strong>. Valg av verdsettelsesmetode avhenger av investeringsformålet:</p>
+<table>
+  <thead>
+      <tr>
+          <th>Formål</th>
+          <th>Verdsettelsesmetode</th>
+          <th>Resultatføring</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Hold til forfall</td>
+          <td>Amortisert kost</td>
+          <td>Ikke resultatført</td>
+      </tr>
+      <tr>
+          <td>Handelsformål</td>
+          <td>Virkelig verdi</td>
+          <td>Resultatført</td>
+      </tr>
+      <tr>
+          <td>Tilgjengelig for salg</td>
+          <td>Virkelig verdi</td>
+          <td>Egenkapital (totalresultat)</td>
+      </tr>
+  </tbody>
+</table>
+<p>Verdsettelse til amortisert kost krever <strong>periodisering</strong> av over-/underkurs ved hjelp av <a href="/blogs/regnskap/hva-er-amortisering" title="Hva er Amortisering? Guide til Avskrivning av Immaterielle Eiendeler">amortisering</a>.</p>
+<h2 id="risiko-og-avkastning">Risiko og Avkastning</h2>
+<p>Obligasjonsfond inneholder flere risikofaktorer som påvirker avkastningen:</p>
+<ul>
+<li><strong>Kredittrisiko</strong> – risiko for mislighold hos utsteder</li>
+<li><strong>Renterisiko</strong> – følsomhet for renteendringer målt ved durasjon</li>
+<li><strong>Likviditetsrisiko</strong> – evnen til å selge fondets andeler raskt</li>
+</ul>
+<p>For en grundigere gjennomgang av beregning av avkastning, se <a href="/blogs/regnskap/hva-er-avkastning" title="Hva er Avkastning? Guide til Beregning av Avkastning og Renters Influens">Hva er Avkastning?</a>.</p>
+<h2 id="skattemessige-forhold">Skattemessige Forhold</h2>
+<p>Andelseiere i obligasjonsfond beskattes som følger:</p>
+<ul>
+<li><strong>Renteinntekter</strong> fra fondet er skattepliktige som kapitalinntekt</li>
+<li><strong>Realiserte gevinster og tap</strong> ved salg av andeler påvirker skattbar gevinst</li>
+<li><strong>Urealiserte verdiendringer</strong> beskattes ikke før realisasjon</li>
+</ul>
+<h2 id="valg-av-obligasjonsfond">Valg av Obligasjonsfond</h2>
+<p>Ved valg av obligasjonsfond bør man vurdere:</p>
+<ol>
+<li><strong>Løpetid (durasjon)</strong> – høy durasjon gir høyere renterisiko</li>
+<li><strong>Kredittrating</strong> til fondets obligasjoner</li>
+<li><strong>Forvaltningshonorarer</strong> og andre kostnader</li>
+<li><strong>Fondets historiske avkastning</strong> og risikoprofil</li>
+</ol>
+<h2 id="konklusjon">Konklusjon</h2>
+<p>Obligasjonsfond er et <strong>effektivt verktøy</strong> for å oppnå diversifisert renteavkastning med profesjonell forvaltning. Ved å kombinere ulike obligasjoner kan man tilpasse risiko og forventet avkastning etter ønsket investeringsstrategi. Korrekt regnskapsmessig behandling og forståelse av skattemessige konsekvenser er avgjørende for både investorer og regnskapsførere.</p>
+<p>Med økende fokus på rente- og kredittforhold vil kunnskap om obligasjonsfond være essensiell for å ta informerte beslutninger i både økonomistyring og porteføljeforvaltning.</p>
+</article>
+  </div>
+</section>
+
+  </main>
+  <footer class="mt-16 border-t border-slate-800/60 bg-slate-900">
+  <div class="max-w-7xl mx-auto px-4 py-14">
+    <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3 text-center sm:text-left">
+      
+      <div>
+        <h3 class="text-sm font-semibold text-white">Verktøy</h3>
+        <ul class="mt-2 space-y-2 text-sm text-slate-300">
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/finn-iban/">IBAN kalkulator</a></li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/lag-faktura-gratis/">Lag faktura</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Selskaps-informasjon</h3>
+        <ul class="mt-2 space-y-1 text-sm text-slate-300">
+          <li>Reai AS</li>
+          <li>Orgnr: 935606403</li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="mailto:post@reai.no">post@reai.no</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Om ReAI</h3>
+        <p class="mt-2 text-sm text-slate-300">ReAI er et gratis regnskapsprogram laget av tidligere ansatte i Tripletex
+          / Visma. Vi mener det er på tide med mer konkurranse i regnskaps-bransjen som kan komme bedrifter til gode.
+        </p>
+      </div>
+    </div>
+    <div class="mt-12 border-t border-slate-800/60 pt-6 flex flex-col items-center sm:flex-row sm:items-center sm:justify-between text-sm text-slate-400 text-center sm:text-left">
+      <div class="flex items-center gap-2">
+        
+        
+      </div>
+      <div class="mt-4 sm:mt-0 flex items-center justify-center sm:justify-end">
+        <div class="opacity-80">&copy; 2025 ReAI. All rights reserved.</div>
+      </div>
+    </div>
+  </div>
+</footer>
+</body>
+</html>

@@ -1,0 +1,73 @@
+<svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#2563eb;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="cardGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <rect width="800" height="400" fill="#ffffff"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
+  <text x="400" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="white">
+    Hva er Virksomhetsnummer?
+  </text>
+  
+  <!-- Main content area -->
+  <rect x="50" y="100" width="700" height="280" fill="url(#cardGradient)" stroke="#cbd5e1" stroke-width="2" rx="10"/>
+  
+  <!-- Virksomhetsnummer example box -->
+  <rect x="80" y="130" width="300" height="120" fill="white" stroke="#3b82f6" stroke-width="2" rx="8"/>
+  <text x="230" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e40af">
+    Virksomhetsnummer
+  </text>
+  <text x="230" y="195" text-anchor="middle" font-family="Arial, monospace" font-size="32" font-weight="bold" fill="#1e40af">
+    123 456 789
+  </text>
+  <text x="230" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#64748b">
+    9-sifret unik identifikator
+  </text>
+  
+  <!-- Key features -->
+  <text x="420" y="155" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e40af">
+    Nøkkelfunksjoner:
+  </text>
+  
+  <circle cx="430" cy="175" r="3" fill="#22c55e"/>
+  <text x="445" y="180" font-family="Arial, sans-serif" font-size="14" fill="#374151">
+    Unik identifikasjon av virksomheter
+  </text>
+  
+  <circle cx="430" cy="195" r="3" fill="#22c55e"/>
+  <text x="445" y="200" font-family="Arial, sans-serif" font-size="14" fill="#374151">
+    Obligatorisk på fakturaer og dokumenter
+  </text>
+  
+  <circle cx="430" cy="215" r="3" fill="#22c55e"/>
+  <text x="445" y="220" font-family="Arial, sans-serif" font-size="14" fill="#374151">
+    Grunnlag for MVA-registrering
+  </text>
+  
+  <circle cx="430" cy="235" r="3" fill="#22c55e"/>
+  <text x="445" y="240" font-family="Arial, sans-serif" font-size="14" fill="#374151">
+    Basis for offentlige registre
+  </text>
+  
+  <!-- Bottom info -->
+  <text x="230" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#64748b">
+    Tildeles av Brønnøysundregistrene ved virksomhetsregistrering
+  </text>
+  
+  <text x="230" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#64748b">
+    Fundamentet for norsk forretningsidentifikasjon
+  </text>
+  
+  <text x="230" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#9ca3af">
+    Kontrollsiffer sikrer validitet og reduserer feil
+  </text>
+</svg>

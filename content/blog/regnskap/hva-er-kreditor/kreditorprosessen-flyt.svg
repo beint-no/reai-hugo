@@ -1,0 +1,101 @@
+<svg width="900" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="stepGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
+    </linearGradient>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#0066cc"/>
+    </marker>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="900" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Title -->
+  <text x="450" y="40" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="24" font-weight="bold">Kreditorprosessen</text>
+  
+  <!-- Step 1: Innkjøp på kreditt -->
+  <rect x="50" y="80" width="120" height="80" fill="url(#stepGradient)" rx="8"/>
+  <text x="110" y="105" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">1. Innkj&amp;oslash;p</text>
+  <text x="110" y="120" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">p&amp;aring; kreditt</text>
+  <text x="110" y="140" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">Mottak av varer/</text>
+  <text x="110" y="152" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">tjenester</text>
+  
+  <!-- Arrow 1 -->
+  <path d="M 170 120 L 210 120" stroke="#0066cc" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Step 2: Fakturamottak -->
+  <rect x="220" y="80" width="120" height="80" fill="url(#stepGradient)" rx="8"/>
+  <text x="280" y="105" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">2. Faktura-</text>
+  <text x="280" y="120" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">mottak</text>
+  <text x="280" y="140" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">Mottak av faktura</text>
+  <text x="280" y="152" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">fra leverand&amp;oslash;r</text>
+  
+  <!-- Arrow 2 -->
+  <path d="M 340 120 L 380 120" stroke="#0066cc" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Step 3: Registrering -->
+  <rect x="390" y="80" width="120" height="80" fill="url(#stepGradient)" rx="8"/>
+  <text x="450" y="105" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">3. Registrering</text>
+  <text x="450" y="125" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">Bokf&amp;oslash;ring av</text>
+  <text x="450" y="137" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">leverand&amp;oslash;rgjeld</text>
+  <text x="450" y="149" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">i regnskapet</text>
+  
+  <!-- Arrow 3 -->
+  <path d="M 510 120 L 550 120" stroke="#0066cc" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Step 4: Godkjenning -->
+  <rect x="560" y="80" width="120" height="80" fill="url(#stepGradient)" rx="8"/>
+  <text x="620" y="105" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">4. Godkjenning</text>
+  <text x="620" y="125" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">Kontroll og</text>
+  <text x="620" y="137" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">godkjenning</text>
+  <text x="620" y="149" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">av faktura</text>
+  
+  <!-- Arrow 4 (down) -->
+  <path d="M 620 160 L 620 200" stroke="#0066cc" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Step 5: Betaling -->
+  <rect x="560" y="210" width="120" height="80" fill="url(#stepGradient)" rx="8"/>
+  <text x="620" y="235" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">5. Betaling</text>
+  <text x="620" y="255" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">Utbetaling til</text>
+  <text x="620" y="267" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">leverand&amp;oslash;r</text>
+  <text x="620" y="279" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">innen frist</text>
+  
+  <!-- Arrow 5 (left) -->
+  <path d="M 560 250 L 520 250" stroke="#0066cc" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Step 6: Avstemming -->
+  <rect x="390" y="210" width="120" height="80" fill="url(#stepGradient)" rx="8"/>
+  <text x="450" y="235" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">6. Avstemming</text>
+  <text x="450" y="255" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">Matching av</text>
+  <text x="450" y="267" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">betaling mot</text>
+  <text x="450" y="279" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">faktura</text>
+  
+  <!-- Key benefits section -->
+  <rect x="50" y="320" width="800" height="120" fill="white" stroke="#dee2e6" stroke-width="1" rx="8"/>
+  <text x="450" y="345" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="18" font-weight="bold">Fordeler med Systematisk Kreditorh&amp;aring;ndtering</text>
+  
+  <!-- Benefits list -->
+  <circle cx="80" cy="370" r="4" fill="#28a745"/>
+  <text x="100" y="375" fill="#333" font-family="Arial, sans-serif" font-size="14">Bedre leverand&amp;oslash;rforhold og tilgang til kontantrabatter</text>
+  
+  <circle cx="80" cy="395" r="4" fill="#28a745"/>
+  <text x="100" y="400" fill="#333" font-family="Arial, sans-serif" font-size="14">Optimalisert likviditet og arbeidskapitalstyring</text>
+  
+  <circle cx="80" cy="420" r="4" fill="#28a745"/>
+  <text x="100" y="425" fill="#333" font-family="Arial, sans-serif" font-size="14">Redusert risiko for forsinkelsesrenter og leveringsstopp</text>
+  
+  <circle cx="450" cy="370" r="4" fill="#28a745"/>
+  <text x="470" y="375" fill="#333" font-family="Arial, sans-serif" font-size="14">Bedre kontroll over utgifter og budsjetter</text>
+  
+  <circle cx="450" cy="395" r="4" fill="#28a745"/>
+  <text x="470" y="400" fill="#333" font-family="Arial, sans-serif" font-size="14">Automatiserte prosesser og reduserte manuelle feil</text>
+  
+  <circle cx="450" cy="420" r="4" fill="#28a745"/>
+  <text x="470" y="425" fill="#333" font-family="Arial, sans-serif" font-size="14">Forbedret regnskapsn&amp;oslash;yaktighet og etterlevelse</text>
+</svg>

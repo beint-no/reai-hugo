@@ -1,0 +1,92 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="400" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
+  
+  <!-- Title -->
+  <text x="400" y="45" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" fill="white">
+    Hva er likviditetsbudsjett?
+  </text>
+  
+  <!-- Main content area -->
+  <rect x="50" y="120" width="700" height="240" fill="white" stroke="#dee2e6" stroke-width="1" rx="8"/>
+  
+  <!-- Cash flow illustration -->
+  <g transform="translate(100, 150)">
+    <!-- Incoming cash flow -->
+    <rect x="0" y="0" width="120" height="60" fill="#28a745" rx="5"/>
+    <text x="60" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+      INNBETALINGER
+    </text>
+    <text x="60" y="40" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="white">
+      Kontantinnstrøm
+    </text>
+    
+    <!-- Arrow right -->
+    <path d="M 130 30 L 170 30" stroke="#6c757d" stroke-width="3" marker-end="url(#arrowhead)"/>
+    
+    <!-- Cash balance -->
+    <rect x="180" y="0" width="120" height="60" fill="#007bff" rx="5"/>
+    <text x="240" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+      KONTANTBALANSE
+    </text>
+    <text x="240" y="40" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="white">
+      Likviditet
+    </text>
+    
+    <!-- Arrow right -->
+    <path d="M 310 30 L 350 30" stroke="#6c757d" stroke-width="3" marker-end="url(#arrowhead)"/>
+    
+    <!-- Outgoing cash flow -->
+    <rect x="360" y="0" width="120" height="60" fill="#dc3545" rx="5"/>
+    <text x="420" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+      UTBETALINGER
+    </text>
+    <text x="420" y="40" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="white">
+      Kontantutstrøm
+    </text>
+  </g>
+  
+  <!-- Planning elements -->
+  <g transform="translate(100, 240)">
+    <circle cx="60" cy="30" r="25" fill="#ffc107" stroke="#e0a800" stroke-width="2"/>
+    <text x="60" y="35" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="#212529">
+      PLANLEGGING
+    </text>
+    
+    <circle cx="240" cy="30" r="25" fill="#17a2b8" stroke="#138496" stroke-width="2"/>
+    <text x="240" y="35" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="white">
+      KONTROLL
+    </text>
+    
+    <circle cx="420" cy="30" r="25" fill="#6f42c1" stroke="#5a32a3" stroke-width="2"/>
+    <text x="420" y="35" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="white">
+      OPTIMERING
+    </text>
+  </g>
+  
+  <!-- Bottom description -->
+  <text x="400" y="385" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#6c757d">
+    Systematisk planlegging og styring av kontantstrømmer
+  </text>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#6c757d"/>
+    </marker>
+  </defs>
+</svg>

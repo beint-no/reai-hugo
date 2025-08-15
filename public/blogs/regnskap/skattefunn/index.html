@@ -1,0 +1,358 @@
+<!doctype html>
+<html lang="nb">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Hva er Skattefunn? | ReAI</title>
+  <meta name="description" content="Komplett regnskapssystem med faktura, lønn, bilagsføring og årsoppgjør.">
+  
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<script src="https://cdn.tailwindcss.com?plugins=typography"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        fontFamily: { sans: ['Inter','ui-sans-serif','system-ui','Arial','sans-serif'] },
+        colors: {
+          brand: { DEFAULT: '#111827' },
+          accent: { DEFAULT: '#2563eb' }
+        }
+      }
+    }
+  }
+</script>
+<style>
+   
+  header .header-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #000 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link:hover { background-position: 0; }
+  header .header-link:hover::before { width: 100%; }
+
+  footer .footer-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #ffffff 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link:hover { background-position: 0; }
+  footer .footer-link:hover::before { width: 100%; }
+</style>
+<style>
+   
+  .prose { overflow-wrap: anywhere; word-break: break-word; }
+  .prose img { max-width: 100%; height: auto; }
+  .prose table { display: block; width: 100%; overflow-x: auto; }
+  .prose pre { white-space: pre-wrap; word-break: break-word; overflow-x: auto; }
+  .prose code { word-break: break-word; }
+  .prose iframe, .prose video { max-width: 100%; width: 100%; height: auto; }
+</style>
+<style>
+   
+  button,
+  .btn,
+  a.btn,
+  .button,
+  .cta,
+  .link-button,
+   
+  a.inline-flex.rounded-md,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"] {
+    transition: transform 220ms ease, box-shadow 220ms ease, background-color 220ms ease, color 220ms ease, opacity 220ms ease;
+    will-change: transform, box-shadow;
+  }
+
+  button:hover,
+  .btn:hover,
+  a.btn:hover,
+  .button:hover,
+  .cta:hover,
+  .link-button:hover,
+  a.inline-flex.rounded-md:hover,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+
+  button:active,
+  .btn:active,
+  a.btn:active,
+  .button:active,
+  .cta:active,
+  .link-button:active,
+  a.inline-flex.rounded-md:active,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:active {
+    transform: translateY(-1px) scale(0.99);
+    box-shadow: 0 6px 12px rgba(2, 6, 23, 0.1);
+  }
+
+  button:focus-visible,
+  .btn:focus-visible,
+  a.btn:focus-visible,
+  .button:focus-visible,
+  .cta:focus-visible,
+  .link-button:focus-visible,
+  a.inline-flex.rounded-md:focus-visible,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.35), 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+</style>
+
+<link rel="icon" type="image/svg+xml" href="/images/ReAI-logo-square.svg">
+<link rel="shortcut icon" href="/images/ReAI-logo-square.svg">
+
+</head>
+<body class="min-h-dvh bg-white text-gray-900 font-sans">
+  <header class="sticky top-0 z-40 bg-white/80 backdrop-blur">
+  
+  <div class="border-b border-slate-200/70">
+    <div class="max-w-7xl mx-auto px-4">
+      <div class="h-16 flex items-center justify-between">
+        <a href="/" class="flex items-center gap-2" aria-label="ReAI">
+          <img src="/images/ReAI-logo-square.svg?v=4" alt="ReAI logo" class="h-14 w-14 rounded-md mt-5" width="56" height="56" loading="eager" decoding="async">
+        </a>
+        <nav class="hidden md:block">
+          <ul class="flex items-center gap-5 text-sm">
+            <li><a href="/courses/" class="header-link text-slate-700 hover:text-black">Gratis kurs</a></li>
+            <li><a href="/contact/" class="header-link text-slate-700 hover:text-black">Kontakt oss</a></li>
+            <li><a href="/blog/" class="header-link text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+            <li><a href="/bli-partner/" class="header-link text-slate-700 hover:text-black">Bli partner</a></li>
+            <li><a href="/fakturamal/" class="header-link text-slate-700 hover:text-black">Lag faktura</a></li>
+          </ul>
+        </nav>
+        <button id="mobileMenuBtn" aria-controls="mobileMenu" aria-expanded="false" class="md:hidden inline-flex items-center justify-center h-9 w-9 rounded-md border border-slate-300">
+          <span class="sr-only">Menu</span>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-5 w-5"><path d="M3.75 6.75h16.5v1.5H3.75zM3.75 11.25h16.5v1.5H3.75zM3.75 15.75h16.5v1.5H3.75z"/></svg>
+        </button>
+      </div>
+    </div>
+  </div>
+  
+  <nav id="mobileMenu" class="md:hidden hidden border-b border-slate-200/70 bg-white/95 backdrop-blur">
+    <div class="max-w-7xl mx-auto px-4 py-3">
+      <ul class="flex flex-col items-center gap-3 text-sm text-center">
+        <li><a href="/courses/" class="header-link block text-slate-700 hover:text-black">Gratis kurs</a></li>
+        <li><a href="/contact/" class="header-link block text-slate-700 hover:text-black">Kontakt oss</a></li>
+        <li><a href="/blog/" class="header-link block text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+        <li><a href="/bli-partner/" class="header-link block text-slate-700 hover:text-black">Bli partner</a></li>
+        <li><a href="/fakturamal/" class="header-link block text-slate-700 hover:text-black">Lag faktura</a></li>
+      </ul>
+    </div>
+  </nav>
+  <script>
+    (function() {
+      const btn = document.getElementById('mobileMenuBtn');
+      const menu = document.getElementById('mobileMenu');
+      if (!btn || !menu) return;
+      btn.addEventListener('click', function() {
+        const isHidden = menu.classList.contains('hidden');
+        menu.classList.toggle('hidden');
+        btn.setAttribute('aria-expanded', String(isHidden));
+      });
+    })();
+  </script>
+</header>
+  <main>
+    
+<section class="pt-10 md:pt-14">
+  <div class="max-w-3xl mx-auto px-4">
+    <h1 class="text-3xl font-semibold tracking-tight text-center">Hva er Skattefunn?</h1>
+    <p class="mt-2 text-gray-700">Lær alt om Skattefunn – en statlig skatteordning som gir skattefradrag for forskning og utvikling i norske bedrifter. Denne artikkelen dekker kriterier, søknadsprosess, satser og praktiske råd.</p>
+    <article class="prose max-w-none mt-6"><p><strong>Skattefunn</strong> er en statlig ordning som gir <strong>skattefradrag</strong> for kostnader knyttet til forskning og utvikling (FoU) i norske bedrifter. Ordningen administreres av Norges forskningsråd og Skatteetaten, og er en viktig del av satsingen på innovasjon. For å rapportere fradraget i skattemeldingen kreves utfylling av <a href="/blogs/regnskap/hva-er-naeringsoppgave" title="Hva er næringsoppgave? Komplett Guide til Næringsoppgaven">næringsoppgave</a> og spesifikk dokumentasjon i <a href="/blogs/regnskap/skattemelding" title="Skattemelding - Komplett Guide til Utfylling og Innlevering">skattemeldingen</a>. Skattefradraget beregnes i henhold til gjeldende satser for FoU-aktivitet og avregnes mot betalbar skatt i <a href="/blogs/regnskap/skatteberegning" title="Skatteberegning - Guide til Beregning av Bedriftsskatt og Personlig Skatt">skatteberegning</a>.</p>
+<h2 id="hva-er-skattefunn">Hva er Skattefunn?</h2>
+<p>Skattefunn-ordningen ble etablert i 2002 for å stimulere til mer forskning og utvikling i næringslivet. Ved å gi en andel av FoU-kostnadene som skattefradrag, skal ordningen redusere økonomisk risiko ved innovasjonsprosjekter.</p>
+<p><img src="skattefunn-image.svg" alt="Skattefunn Oversikt"></p>
+<p>Skattefunn består av to hovedformer:</p>
+<table>
+  <thead>
+      <tr>
+          <th>Type prosjekt</th>
+          <th style="text-align: right">Støttesats (enkeltpersonforetak/ANS)</th>
+          <th style="text-align: right">Støttesats (AS og andre selskapsformer)</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Basisprosjekt (små)</td>
+          <td style="text-align: right">78 %</td>
+          <td style="text-align: right">78 %</td>
+      </tr>
+      <tr>
+          <td>Hovedprosjekt (store)</td>
+          <td style="text-align: right">18 %</td>
+          <td style="text-align: right">18 %</td>
+      </tr>
+  </tbody>
+</table>
+<p>Støtteberettigede FoU-kostnader omfatter blant annet lønn, driftsutstyr, eksterne tjenester og indirekte kostnader.</p>
+<h2 id="hvem-kan-søke">Hvem kan søke?</h2>
+<p>Ordningen er åpen for norske foretak som driver <em>næringsvirksomhet</em>. Følgende selskapsformer kan søke:</p>
+<ul>
+<li><strong>Enkeltpersonforetak</strong> som fører regnskap etter bokføringsloven</li>
+<li><strong>Aksjeselskap (AS)</strong> og andre selskapsformer med skattepliktig inntekt</li>
+<li><strong>Ansvarlig selskap (ANS/DA)</strong> når regnskapet føres etter regnskapsloven</li>
+</ul>
+<p>For en fullstendig oversikt over krav til leveringsplikt, se <a href="/blogs/regnskap/hva-er-naeringsoppgave" title="Hva er næringsoppgave? Komplett Guide til Næringsoppgaven">Hva er næringsoppgave?</a>.</p>
+<h2 id="støtteberettigede-kostnader">Støtteberettigede kostnader</h2>
+<p>Følgende kostnadstyper kan inngå i grunnlaget for Skattefunn:</p>
+<ul>
+<li><strong>Lønnskostnader</strong> for ansatte som utfører FoU-aktiviteter</li>
+<li><strong>Direkte driftskostnader</strong> (for eksempel materialer og forsyninger)</li>
+<li><strong>Eksterne FoU-tjenester</strong> kjøpt fra godkjente forskningsinstitusjoner</li>
+<li><strong>Indirekte kostnader</strong> basert på en fast andel av direkte kostnader</li>
+</ul>
+<h3 id="eksempel-på-kostnadsfordeling">Eksempel på kostnadsfordeling</h3>
+<table>
+  <thead>
+      <tr>
+          <th>Kostnadstype</th>
+          <th style="text-align: right">Andel av totale kostnader</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Lønn</td>
+          <td style="text-align: right">60 %</td>
+      </tr>
+      <tr>
+          <td>Materialer og utstyr</td>
+          <td style="text-align: right">20 %</td>
+      </tr>
+      <tr>
+          <td>Eksterne tjenester</td>
+          <td style="text-align: right">15 %</td>
+      </tr>
+      <tr>
+          <td>Indirekte kostnader</td>
+          <td style="text-align: right">5 %</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="slik-søker-du-skattefunn">Slik søker du Skattefunn</h2>
+<p><img src="skattefunn-prosess.svg" alt="Skattefunn Søknadsprosess"></p>
+<p>For å få godkjent et Skattefunn-prosjekt må du gjennom tre hovedtrinn:</p>
+<ol>
+<li><strong>Forbered prosjektbeskrivelse</strong> og budsjett i Forskningsrådets eSøknadssystem</li>
+<li><strong>Send søknad</strong> innen fristen (vanligvis 1. september)</li>
+<li><strong>Rapportering</strong> av gjennomført aktivitet og kostnader til både Forskningsrådet og Skatteetaten</li>
+</ol>
+<table>
+  <thead>
+      <tr>
+          <th>Aktivitet</th>
+          <th>Ansvarlig</th>
+          <th>Frist</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Søknad til Forskningsrådet</td>
+          <td>Prosjektleder</td>
+          <td>1. september</td>
+      </tr>
+      <tr>
+          <td>Inntektsføring i regnskap</td>
+          <td>Regnskapsfører</td>
+          <td>Løpende</td>
+      </tr>
+      <tr>
+          <td>Innlevering av skattemelding</td>
+          <td>Daglig leder / økonomiansvarlig</td>
+          <td>31. mai</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="praktiske-tips">Praktiske tips</h2>
+<ul>
+<li>Utarbeid <strong>løpende dokumentasjon</strong> av timeføring og kostnader for å unngå feil.</li>
+<li>Bruk <strong>egen prosjektkode</strong> i regnskapssystemet for å skille Skattefunn-kostnader.</li>
+<li>Sammenhold prosjektbeskrivelsen med faktisk gjennomføring for korrekt rapportering.</li>
+<li>Sørg for god internkontroll med avstemninger før innsending.</li>
+</ul>
+<h2 id="oppsummering">Oppsummering</h2>
+<p>Skattefunn er et kraftig virkemiddel for å redusere kostnaden ved forskning og utvikling. Ved å følge en strukturert søknadsprosess og dokumentere alle kostnader kan norske bedrifter dra nytte av betydelige <strong>skattefradrag</strong>. Les mer om prosjektstyring i FoU-prosjekter i vår guide til <a href="/blogs/regnskap/hva-er-prosjektregnskap" title="Hva er Prosjektregnskap? Oversikt og Beste Praksis">prosjektregnskap</a>.</p>
+</article>
+  </div>
+</section>
+
+  </main>
+  <footer class="mt-16 border-t border-slate-800/60 bg-slate-900">
+  <div class="max-w-7xl mx-auto px-4 py-14">
+    <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3 text-center sm:text-left">
+      
+      <div>
+        <h3 class="text-sm font-semibold text-white">Verktøy</h3>
+        <ul class="mt-2 space-y-2 text-sm text-slate-300">
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/finn-iban/">IBAN kalkulator</a></li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/lag-faktura-gratis/">Lag faktura</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Selskaps-informasjon</h3>
+        <ul class="mt-2 space-y-1 text-sm text-slate-300">
+          <li>Reai AS</li>
+          <li>Orgnr: 935606403</li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="mailto:post@reai.no">post@reai.no</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Om ReAI</h3>
+        <p class="mt-2 text-sm text-slate-300">ReAI er et gratis regnskapsprogram laget av tidligere ansatte i Tripletex
+          / Visma. Vi mener det er på tide med mer konkurranse i regnskaps-bransjen som kan komme bedrifter til gode.
+        </p>
+      </div>
+    </div>
+    <div class="mt-12 border-t border-slate-800/60 pt-6 flex flex-col items-center sm:flex-row sm:items-center sm:justify-between text-sm text-slate-400 text-center sm:text-left">
+      <div class="flex items-center gap-2">
+        
+        
+      </div>
+      <div class="mt-4 sm:mt-0 flex items-center justify-center sm:justify-end">
+        <div class="opacity-80">&copy; 2025 ReAI. All rights reserved.</div>
+      </div>
+    </div>
+  </div>
+</footer>
+</body>
+</html>

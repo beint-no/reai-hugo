@@ -1,0 +1,109 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">Regnskapsbehandling av Inflasjon</text>
+  
+  <!-- Historical Cost vs Inflation Adjusted -->
+  <g transform="translate(50, 80)">
+    <text x="350" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">REGNSKAPSPRINSIPPER</text>
+    
+    <!-- Historical Cost -->
+    <rect x="0" y="40" width="300" height="150" fill="#e74c3c" rx="15"/>
+    <text x="150" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">HISTORISK KOST</text>
+    <text x="150" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">(Norsk praksis)</text>
+    
+    <text x="20" y="110" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Prinsipper:</text>
+    <text x="25" y="125" font-family="Arial, sans-serif" font-size="11" fill="white">• Opprinnelig anskaffelseskost</text>
+    <text x="25" y="140" font-family="Arial, sans-serif" font-size="11" fill="white">• Ikke inflasjonsjustert</text>
+    <text x="25" y="155" font-family="Arial, sans-serif" font-size="11" fill="white">• Enkel å anvende</text>
+    
+    <text x="20" y="175" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Utfordringer:</text>
+    <text x="25" y="190" font-family="Arial, sans-serif" font-size="11" fill="white">• Undervurderte eiendeler</text>
+    
+    <!-- Inflation Adjusted -->
+    <rect x="350" y="40" width="300" height="150" fill="#27ae60" rx="15"/>
+    <text x="500" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">INFLASJONSJUSTERT</text>
+    <text x="500" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">(Høy inflasjon)</text>
+    
+    <text x="370" y="110" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Prinsipper:</text>
+    <text x="375" y="125" font-family="Arial, sans-serif" font-size="11" fill="white">• Justert for prisstigning</text>
+    <text x="375" y="140" font-family="Arial, sans-serif" font-size="11" fill="white">• Reflekterer real verdi</text>
+    <text x="375" y="155" font-family="Arial, sans-serif" font-size="11" fill="white">• Mer kompleks</text>
+    
+    <text x="370" y="175" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Fordeler:</text>
+    <text x="375" y="190" font-family="Arial, sans-serif" font-size="11" fill="white">• Realistiske verdier</text>
+  </g>
+  
+  <!-- Monetary vs Non-monetary Items -->
+  <g transform="translate(50, 260)">
+    <text x="350" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">BEHANDLING AV BALANSEPOSTE</text>
+    
+    <!-- Monetary Items -->
+    <rect x="0" y="40" width="300" height="120" fill="#3498db" rx="15"/>
+    <text x="150" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">MONETÆRE POSTER</text>
+    
+    <text x="20" y="90" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Eksempler:</text>
+    <text x="25" y="105" font-family="Arial, sans-serif" font-size="11" fill="white">• Kontanter og bankinnskudd</text>
+    <text x="25" y="120" font-family="Arial, sans-serif" font-size="11" fill="white">• Kundefordringer</text>
+    <text x="25" y="135" font-family="Arial, sans-serif" font-size="11" fill="white">• Leverandørgjeld</text>
+    
+    <text x="20" y="155" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Behandling: Ikke justeres</text>
+    
+    <!-- Non-monetary Items -->
+    <rect x="350" y="40" width="300" height="120" fill="#f39c12" rx="15"/>
+    <text x="500" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">IKKE-MONETÆRE POSTER</text>
+    
+    <text x="370" y="90" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Eksempler:</text>
+    <text x="375" y="105" font-family="Arial, sans-serif" font-size="11" fill="white">• Anleggsmidler</text>
+    <text x="375" y="120" font-family="Arial, sans-serif" font-size="11" fill="white">• Varelager</text>
+    <text x="375" y="135" font-family="Arial, sans-serif" font-size="11" fill="white">• Investeringer</text>
+    
+    <text x="370" y="155" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Behandling: Justeres</text>
+  </g>
+  
+  <!-- Disclosure Requirements -->
+  <g transform="translate(50, 420)">
+    <text x="350" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">NOTEOPPLYSNINGER</text>
+    
+    <rect x="0" y="40" width="700" height="120" fill="#9b59b6" rx="15"/>
+    
+    <text x="50" y="70" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Viktige opplysninger ved inflasjonspåvirkning:</text>
+    
+    <g transform="translate(50, 85)">
+      <text x="0" y="15" font-family="Arial, sans-serif" font-size="12" fill="white">1. Verdsettelsesprinsipper:</text>
+      <text x="20" y="30" font-family="Arial, sans-serif" font-size="11" fill="white">• Beskrivelse av anvendte metoder</text>
+      <text x="20" y="45" font-family="Arial, sans-serif" font-size="11" fill="white">• Eventuelle endringer i prinsipper</text>
+      
+      <text x="350" y="15" font-family="Arial, sans-serif" font-size="12" fill="white">2. Sensitivitetsanalyse:</text>
+      <text x="370" y="30" font-family="Arial, sans-serif" font-size="11" fill="white">• Påvirkning av inflasjonsendringer</text>
+      <text x="370" y="45" font-family="Arial, sans-serif" font-size="11" fill="white">• Scenario-beregninger</text>
+      
+      <text x="0" y="70" font-family="Arial, sans-serif" font-size="12" fill="white">3. Sammenlignbarhet:</text>
+      <text x="20" y="85" font-family="Arial, sans-serif" font-size="11" fill="white">• Inflasjonsjusterte nøkkeltall</text>
+      <text x="20" y="100" font-family="Arial, sans-serif" font-size="11" fill="white">• Flerårige sammenligninger</text>
+      
+      <text x="350" y="70" font-family="Arial, sans-serif" font-size="12" fill="white">4. Risikofaktorer:</text>
+      <text x="370" y="85" font-family="Arial, sans-serif" font-size="11" fill="white">• Inflasjoneksponering</text>
+      <text x="370" y="100" font-family="Arial, sans-serif" font-size="11" fill="white">• Risikostyring</text>
+    </g>
+  </g>
+  
+  <!-- Example calculation box -->
+  <g transform="translate(450, 80)">
+    <rect x="250" y="200" width="300" height="140" fill="#ecf0f1" rx="10" stroke="#bdc3c7" stroke-width="2"/>
+    <text x="400" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">EKSEMPEL</text>
+    <text x="400" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Anleggsmiddel - 5 år</text>
+    
+    <text x="270" y="260" font-family="Arial, sans-serif" font-size="11" fill="#34495e">Historisk kost: 1 000 000 kr</text>
+    <text x="270" y="275" font-family="Arial, sans-serif" font-size="11" fill="#34495e">Akkumulert avskrivning: 400 000 kr</text>
+    <text x="270" y="290" font-family="Arial, sans-serif" font-size="11" fill="#34495e">Bokført verdi: 600 000 kr</text>
+    
+    <line x1="270" y1="300" x2="530" y2="300" stroke="#7f8c8d" stroke-width="1"/>
+    
+    <text x="270" y="315" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#e74c3c">Inflasjonsjustert (3% årlig):</text>
+    <text x="270" y="330" font-family="Arial, sans-serif" font-size="11" fill="#34495e">Justert kost: 1 159 000 kr</text>
+    <text x="270" y="345" font-family="Arial, sans-serif" font-size="11" fill="#34495e">Justert bokført: 695 000 kr</text>
+  </g>
+</svg>

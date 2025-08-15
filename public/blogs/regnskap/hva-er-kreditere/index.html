@@ -1,0 +1,482 @@
+<!doctype html>
+<html lang="nb">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Hva er kreditere? | ReAI</title>
+  <meta name="description" content="Komplett regnskapssystem med faktura, lønn, bilagsføring og årsoppgjør.">
+  
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<script src="https://cdn.tailwindcss.com?plugins=typography"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        fontFamily: { sans: ['Inter','ui-sans-serif','system-ui','Arial','sans-serif'] },
+        colors: {
+          brand: { DEFAULT: '#111827' },
+          accent: { DEFAULT: '#2563eb' }
+        }
+      }
+    }
+  }
+</script>
+<style>
+   
+  header .header-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #000 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link:hover { background-position: 0; }
+  header .header-link:hover::before { width: 100%; }
+
+  footer .footer-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #ffffff 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link:hover { background-position: 0; }
+  footer .footer-link:hover::before { width: 100%; }
+</style>
+<style>
+   
+  .prose { overflow-wrap: anywhere; word-break: break-word; }
+  .prose img { max-width: 100%; height: auto; }
+  .prose table { display: block; width: 100%; overflow-x: auto; }
+  .prose pre { white-space: pre-wrap; word-break: break-word; overflow-x: auto; }
+  .prose code { word-break: break-word; }
+  .prose iframe, .prose video { max-width: 100%; width: 100%; height: auto; }
+</style>
+<style>
+   
+  button,
+  .btn,
+  a.btn,
+  .button,
+  .cta,
+  .link-button,
+   
+  a.inline-flex.rounded-md,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"] {
+    transition: transform 220ms ease, box-shadow 220ms ease, background-color 220ms ease, color 220ms ease, opacity 220ms ease;
+    will-change: transform, box-shadow;
+  }
+
+  button:hover,
+  .btn:hover,
+  a.btn:hover,
+  .button:hover,
+  .cta:hover,
+  .link-button:hover,
+  a.inline-flex.rounded-md:hover,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+
+  button:active,
+  .btn:active,
+  a.btn:active,
+  .button:active,
+  .cta:active,
+  .link-button:active,
+  a.inline-flex.rounded-md:active,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:active {
+    transform: translateY(-1px) scale(0.99);
+    box-shadow: 0 6px 12px rgba(2, 6, 23, 0.1);
+  }
+
+  button:focus-visible,
+  .btn:focus-visible,
+  a.btn:focus-visible,
+  .button:focus-visible,
+  .cta:focus-visible,
+  .link-button:focus-visible,
+  a.inline-flex.rounded-md:focus-visible,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.35), 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+</style>
+
+<link rel="icon" type="image/svg+xml" href="/images/ReAI-logo-square.svg">
+<link rel="shortcut icon" href="/images/ReAI-logo-square.svg">
+
+</head>
+<body class="min-h-dvh bg-white text-gray-900 font-sans">
+  <header class="sticky top-0 z-40 bg-white/80 backdrop-blur">
+  
+  <div class="border-b border-slate-200/70">
+    <div class="max-w-7xl mx-auto px-4">
+      <div class="h-16 flex items-center justify-between">
+        <a href="/" class="flex items-center gap-2" aria-label="ReAI">
+          <img src="/images/ReAI-logo-square.svg?v=4" alt="ReAI logo" class="h-14 w-14 rounded-md mt-5" width="56" height="56" loading="eager" decoding="async">
+        </a>
+        <nav class="hidden md:block">
+          <ul class="flex items-center gap-5 text-sm">
+            <li><a href="/courses/" class="header-link text-slate-700 hover:text-black">Gratis kurs</a></li>
+            <li><a href="/contact/" class="header-link text-slate-700 hover:text-black">Kontakt oss</a></li>
+            <li><a href="/blog/" class="header-link text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+            <li><a href="/bli-partner/" class="header-link text-slate-700 hover:text-black">Bli partner</a></li>
+            <li><a href="/fakturamal/" class="header-link text-slate-700 hover:text-black">Lag faktura</a></li>
+          </ul>
+        </nav>
+        <button id="mobileMenuBtn" aria-controls="mobileMenu" aria-expanded="false" class="md:hidden inline-flex items-center justify-center h-9 w-9 rounded-md border border-slate-300">
+          <span class="sr-only">Menu</span>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-5 w-5"><path d="M3.75 6.75h16.5v1.5H3.75zM3.75 11.25h16.5v1.5H3.75zM3.75 15.75h16.5v1.5H3.75z"/></svg>
+        </button>
+      </div>
+    </div>
+  </div>
+  
+  <nav id="mobileMenu" class="md:hidden hidden border-b border-slate-200/70 bg-white/95 backdrop-blur">
+    <div class="max-w-7xl mx-auto px-4 py-3">
+      <ul class="flex flex-col items-center gap-3 text-sm text-center">
+        <li><a href="/courses/" class="header-link block text-slate-700 hover:text-black">Gratis kurs</a></li>
+        <li><a href="/contact/" class="header-link block text-slate-700 hover:text-black">Kontakt oss</a></li>
+        <li><a href="/blog/" class="header-link block text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+        <li><a href="/bli-partner/" class="header-link block text-slate-700 hover:text-black">Bli partner</a></li>
+        <li><a href="/fakturamal/" class="header-link block text-slate-700 hover:text-black">Lag faktura</a></li>
+      </ul>
+    </div>
+  </nav>
+  <script>
+    (function() {
+      const btn = document.getElementById('mobileMenuBtn');
+      const menu = document.getElementById('mobileMenu');
+      if (!btn || !menu) return;
+      btn.addEventListener('click', function() {
+        const isHidden = menu.classList.contains('hidden');
+        menu.classList.toggle('hidden');
+        btn.setAttribute('aria-expanded', String(isHidden));
+      });
+    })();
+  </script>
+</header>
+  <main>
+    
+<section class="pt-10 md:pt-14">
+  <div class="max-w-3xl mx-auto px-4">
+    <h1 class="text-3xl font-semibold tracking-tight text-center">Hva er kreditere?</h1>
+    <p class="mt-2 text-gray-700">En dyptgående guide til kreditering som forklarer krediteringsprinsipper, hvordan du krediterer ulike kontoer korrekt, sammenhengen mellom kreditering og kontering, og praktiske eksempler fra norsk regnskapspraksis.</p>
+    <article class="prose max-w-none mt-6"><p><strong>Kreditere</strong> er en fundamental handling i <a href="/blogs/regnskap/hva-er-dobbel-bokforing" title="Hva er Dobbel Bokføring? Komplett Guide til Dobbelt Bokføringssystem">dobbelt bokføring</a> som innebærer å registrere et beløp på høyre side av en konto. Sammen med <a href="/blogs/regnskap/hva-er-debet" title="Hva er Debet i Regnskap? Komplett Guide til Debetposter og Bokføring">debet</a> utgjør kreditering grunnlaget for all systematisk <a href="/blogs/regnskap/hva-er-bokforing" title="Hva er Bokføring? En Komplett Guide til Norsk Bokføringspraksis">bokføring</a> og <a href="/blogs/regnskap/hva-er-kontering" title="Hva er Kontering? En Komplett Guide til Kontokoding i Regnskap">kontering</a>.</p>
+<p>Kreditering er ikke bare en teknisk prosess, men en kritisk komponent som sikrer at <a href="/blogs/regnskap/hva-er-regnskap" title="Hva er Regnskap? En Dybdeanalyse for Norge">regnskapsligningen</a> alltid balanserer og at finansiell rapportering følger <a href="/blogs/regnskap/god-regnskapsskikk" title="God Regnskapsskikk - Prinsipper, Standarder og Beste Praksis i Norge">god regnskapsskikk</a>.</p>
+<p>For mer informasjon om teknisk utførelse av <strong>debitere</strong> kontoer, se <a href="/blogs/regnskap/debitere" title="Debitere i Regnskap? En Komplett Guide til Debitering av Kontoer">Debitere</a>.</p>
+<p><img src="hva-er-kreditere-image.svg" alt="Kreditere - Grunnleggende Konsept"></p>
+<h2 id="grunnleggende-prinsipper-for-kreditering">Grunnleggende Prinsipper for Kreditering</h2>
+<h3 id="etymologi-og-historisk-bakgrunn">Etymologi og Historisk Bakgrunn</h3>
+<p>Begrepet &ldquo;kredit&rdquo; kommer fra det latinske ordet <em>credere</em>, som betyr &ldquo;å tro&rdquo; eller &ldquo;å betro&rdquo;. Dette reflekterer den historiske tilliten som var nødvendig i handelstransaksjoner hvor varer ble levert før betaling ble mottatt.</p>
+<h3 id="krediteringens-rolle-i-dobbelt-bokføring">Krediteringens Rolle i Dobbelt Bokføring</h3>
+<p>I <a href="/blogs/regnskap/hva-er-dobbel-bokforing" title="Hva er Dobbel Bokføring? Komplett Guide til Dobbelt Bokføringssystem">dobbelt bokføring</a> må hver transaksjon registreres med minst én <strong>debet</strong> og én <strong>kredit</strong>, hvor den totale debetsummen alltid må være lik den totale kreditsummen. Dette sikrer at <a href="/blogs/regnskap/hva-er-regnskap" title="Hva er Regnskap? En Dybdeanalyse for Norge">regnskapsligningen</a> (Eiendeler = Gjeld + Egenkapital) alltid balanserer.</p>
+<p><img src="debet-kredit-balanse.svg" alt="Debet og Kredit Balanse"></p>
+<h2 id="krediteringsregler-for-ulike-kontotyper">Krediteringsregler for Ulike Kontotyper</h2>
+<p>Forståelsen av når og hvordan man krediterer ulike kontotyper er avgjørende for korrekt <a href="/blogs/regnskap/hva-er-bokforing" title="Hva er Bokføring? En Komplett Guide til Norsk Bokføringspraksis">bokføring</a>. Reglene varierer basert på kontotypen:</p>
+<h3 id="tabell-krediteringsregler-per-kontotype">Tabell: Krediteringsregler per Kontotype</h3>
+<table>
+  <thead>
+      <tr>
+          <th>Kontotype</th>
+          <th>Kreditering Øker</th>
+          <th>Kreditering Reduserer</th>
+          <th>Eksempler</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong><a href="/blogs/regnskap/hva-er-aktiva" title="Hva er Aktiva? En Komplett Guide til Eiendeler i Regnskap">Eiendeler</a></strong></td>
+          <td>Nei</td>
+          <td>Ja</td>
+          <td>Bankinnskudd, varelager, maskiner</td>
+      </tr>
+      <tr>
+          <td><strong><a href="/blogs/regnskap/hva-er-gjeld" title="Hva er Gjeld i Regnskap? Komplett Guide til Forpliktelser og Gjeldstyper">Gjeld</a></strong></td>
+          <td>Ja</td>
+          <td>Nei</td>
+          <td>Leverandørgjeld, banklån, skyldige skatter</td>
+      </tr>
+      <tr>
+          <td><strong><a href="/blogs/regnskap/hva-er-egenkapital" title="Hva er Egenkapital? Komplett Guide til Egenkapital i Regnskap">Egenkapital</a></strong></td>
+          <td>Ja</td>
+          <td>Nei</td>
+          <td>Aksjekapital, opptjent egenkapital</td>
+      </tr>
+      <tr>
+          <td><strong><a href="/blogs/regnskap/hva-er-inntekter" title="Hva er Inntekter? Komplett Guide til Inntektstyper og Regnskapsføring">Inntekter</a></strong></td>
+          <td>Ja</td>
+          <td>Nei</td>
+          <td>Salgsinntekter, renteinntekter</td>
+      </tr>
+      <tr>
+          <td><strong>Kostnader</strong></td>
+          <td>Nei</td>
+          <td>Ja</td>
+          <td>Lønn, husleie, <a href="/blogs/regnskap/hva-er-driftskostnader" title="Hva er Driftskostnader? Typer, Beregning og Regnskapsføring - Komplett Guide">driftskostnader</a></td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="detaljerte-krediteringsregler">Detaljerte Krediteringsregler</h3>
+<h4 id="1-kreditering-av-eiendelskontoer">1. Kreditering av Eiendelskontoer</h4>
+<p>Når du <strong>krediterer</strong> en eiendelskonto, <strong>reduserer</strong> du eiendelens verdi. Dette skjer typisk når:</p>
+<ul>
+<li>Kontanter brukes til å betale regninger</li>
+<li>Varelager selges til kunder</li>
+<li><a href="/blogs/regnskap/hva-er-avskrivning" title="Hva er Avskrivning? Komplett Guide til Avskrivninger i Norsk Regnskap">Avskrivning</a> reduserer verdien av <a href="/blogs/regnskap/hva-er-anleggsmidler" title="Hva er Anleggsmidler? Komplett Guide til Anleggsmidler i Regnskap">anleggsmidler</a></li>
+</ul>
+<p><strong>Eksempel:</strong> Betaling av leverandørfaktura på 10 000 kr</p>
+<pre tabindex="0"><code>Debet: Leverandørgjeld    10 000 kr
+Kredit: Bankkonto         10 000 kr
+</code></pre><h4 id="2-kreditering-av-gjeldskontoer">2. Kreditering av Gjeldskontoer</h4>
+<p>Kreditering av <a href="/blogs/regnskap/hva-er-gjeld" title="Hva er Gjeld i Regnskap? Komplett Guide til Forpliktelser og Gjeldstyper">gjeldskontoer</a> <strong>øker</strong> gjeldsbeløpet. Dette skjer når:</p>
+<ul>
+<li>Nye lån tas opp</li>
+<li><a href="/blogs/regnskap/hva-er-en-faktura" title="Hva er en Faktura? En Guide til Norske Fakturakrav">Fakturaer</a> mottas fra leverandører</li>
+<li>Påløpte kostnader registreres</li>
+</ul>
+<p><strong>Eksempel:</strong> Mottak av leverandørfaktura på 15 000 kr</p>
+<pre tabindex="0"><code>Debet: Varekjøp          15 000 kr
+Kredit: Leverandørgjeld  15 000 kr
+</code></pre><h4 id="3-kreditering-av-egenkapitalkontoer">3. Kreditering av Egenkapitalkontoer</h4>
+<p>Kreditering av <a href="/blogs/regnskap/hva-er-egenkapital" title="Hva er Egenkapital? Komplett Guide til Egenkapital i Regnskap">egenkapitalkontoer</a> <strong>øker</strong> egenkapitalen. Dette inkluderer:</p>
+<ul>
+<li>Innskudd av ny <a href="/blogs/regnskap/hva-er-aksjekapital" title="Hva er Aksjekapital? Komplett Guide til Aksjekapital i Norge">aksjekapital</a></li>
+<li>Tilbakeholdt overskudd</li>
+<li>Kapitalinnskudd</li>
+</ul>
+<h4 id="4-kreditering-av-inntektskontoer">4. Kreditering av Inntektskontoer</h4>
+<p><a href="/blogs/regnskap/hva-er-inntekter" title="Hva er Inntekter? Komplett Guide til Inntektstyper og Regnskapsføring">Inntektskontoer</a> krediteres når inntekter <strong>opptjenes</strong>. Dette følger periodiseringsprinsippet i <a href="/blogs/regnskap/god-regnskapsskikk" title="God Regnskapsskikk - Prinsipper, Standarder og Beste Praksis i Norge">god regnskapsskikk</a>.</p>
+<p><strong>Eksempel:</strong> Salg av varer for 25 000 kr</p>
+<pre tabindex="0"><code>Debet: Kundefordringer   25 000 kr
+Kredit: Salgsinntekter   25 000 kr
+</code></pre><h2 id="praktiske-eksempler-på-kreditering">Praktiske Eksempler på Kreditering</h2>
+<h3 id="eksempel-1-komplett-salgstransaksjon">Eksempel 1: Komplett Salgstransaksjon</h3>
+<p>En bedrift selger varer for 50 000 kr (ekskl. mva) med 25% <a href="/blogs/regnskap/hva-er-avgiftsplikt-mva" title="Hva er Avgiftsplikt MVA? Komplett Guide til Merverdiavgift i Norge">mva</a>:</p>
+<p><img src="salgstransaksjon-mva.svg" alt="Salgstransaksjon med MVA"></p>
+<pre tabindex="0"><code>Debet: Kundefordringer        62 500 kr
+Kredit: Salgsinntekter        50 000 kr
+Kredit: Utgående MVA          12 500 kr
+</code></pre><h3 id="eksempel-2-lønnsutbetaling">Eksempel 2: Lønnsutbetaling</h3>
+<p>Utbetaling av lønn på 40 000 kr med <a href="/blogs/regnskap/hva-er-forskuddstrekk" title="Hva er Forskuddstrekk? Komplett Guide til Forskuddstrekk i Norge">forskuddstrekk</a> på 8 000 kr:</p>
+<pre tabindex="0"><code>Debet: Lønnskostnad           40 000 kr
+Kredit: Skyldig forskuddstrekk 8 000 kr
+Kredit: Bankkonto             32 000 kr
+</code></pre><h3 id="eksempel-3-avskrivning-av-anleggsmidler">Eksempel 3: Avskrivning av Anleggsmidler</h3>
+<p>Månedlig <a href="/blogs/regnskap/hva-er-avskrivning" title="Hva er Avskrivning? Komplett Guide til Avskrivninger i Norsk Regnskap">avskrivning</a> av maskiner på 5 000 kr:</p>
+<pre tabindex="0"><code>Debet: Avskrivningskostnad    5 000 kr
+Kredit: Akkumulerte avskrivninger  5 000 kr
+</code></pre><h2 id="kreditering-og-kontering">Kreditering og Kontering</h2>
+<p><strong><a href="/blogs/regnskap/hva-er-kontering" title="Hva er Kontering? En Komplett Guide til Kontokoding i Regnskap">Kontering</a></strong> er prosessen med å tildele riktig kontonummer til hver debet- og kreditpostering. Korrekt kontering sikrer at krediteringer registreres på riktige kontoer i <a href="/blogs/regnskap/hva-er-kontoplan" title="Hva er Kontoplan? Komplett Guide til Kontoplan i Norsk Regnskap">kontoplanen</a>.</p>
+<h3 id="konteringseksempel-med-kreditering">Konteringseksempel med Kreditering</h3>
+<p>For en innkjøpsfaktura på 20 000 kr + 5 000 kr mva:</p>
+<p><img src="kontering-innkjop.svg" alt="Kontering av Innkjøpsfaktura"></p>
+<table>
+  <thead>
+      <tr>
+          <th>Beskrivelse</th>
+          <th>Kontonummer</th>
+          <th>Debet</th>
+          <th>Kredit</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Varekjøp</td>
+          <td>4005</td>
+          <td>20 000</td>
+          <td>-</td>
+      </tr>
+      <tr>
+          <td>Inngående MVA</td>
+          <td>2701</td>
+          <td>5 000</td>
+          <td>-</td>
+      </tr>
+      <tr>
+          <td>Leverandørgjeld</td>
+          <td>2400</td>
+          <td>-</td>
+          <td>25 000</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="vanlige-feil-ved-kreditering">Vanlige Feil ved Kreditering</h2>
+<h3 id="1-feil-krediteringsretning">1. Feil Krediteringsretning</h3>
+<p><strong>Problem:</strong> Kreditere en eiendelskonto når den skulle økes
+<strong>Løsning:</strong> Husk at eiendeler øker med debet, ikke kredit</p>
+<h3 id="2-manglende-balanse">2. Manglende Balanse</h3>
+<p><strong>Problem:</strong> Total debet ≠ total kredit
+<strong>Løsning:</strong> Bruk <a href="/blogs/regnskap/hva-er-avstemming" title="Hva er Avstemming? Komplett Guide til Regnskapsavstemming">avstemming</a> for å identifisere ubalanser</p>
+<h3 id="3-feil-kontering">3. Feil Kontering</h3>
+<p><strong>Problem:</strong> Kreditere feil konto
+<strong>Løsning:</strong> Følg systematisk <a href="/blogs/regnskap/hva-er-kontoplan" title="Hva er Kontoplan? Komplett Guide til Kontoplan i Norsk Regnskap">kontoplan</a> og kontroller</p>
+<h2 id="kreditering-i-moderne-regnskapssystemer">Kreditering i Moderne Regnskapssystemer</h2>
+<h3 id="automatisk-kreditering">Automatisk Kreditering</h3>
+<p>Moderne <a href="/blogs/regnskap/hva-er-erp-system" title="Hva er ERP System? Komplett Guide til Enterprise Resource Planning">ERP-systemer</a> automatiserer mange krediteringsprosesser:</p>
+<ul>
+<li><strong>Automatisk MVA-beregning:</strong> Systemet krediterer automatisk MVA-kontoer</li>
+<li><strong>Periodisering:</strong> Automatisk kreditering av påløpte kostnader</li>
+<li><strong><a href="/blogs/regnskap/hva-er-bankavstemming" title="Hva er Bankavstemming? Komplett Guide til Bankavstemming i Regnskap">Bankavstemming</a>:</strong> Automatisk matching og kreditering</li>
+</ul>
+<h3 id="integrasjon-med-eksterne-systemer">Integrasjon med Eksterne Systemer</h3>
+<p><img src="system-integrasjon.svg" alt="Systemintegrasjon og Kreditering"></p>
+<ul>
+<li><strong><a href="/blogs/regnskap/hva-er-efaktura" title="Hva er E-faktura? Komplett Guide til Elektronisk Fakturering">E-faktura</a>:</strong> Automatisk kreditering av leverandørgjeld</li>
+<li><strong>Lønnssystemer:</strong> Automatisk kreditering av lønnsrelaterte kontoer</li>
+<li><strong><a href="/blogs/regnskap/hva-er-datakasse" title="Hva er Datakasse? Komplett Guide til Kassasystem, Krav og Regnskapsføring">Datakasse</a>:</strong> Automatisk kreditering av salgsinntekter</li>
+</ul>
+<h2 id="kreditering-og-finansiell-rapportering">Kreditering og Finansiell Rapportering</h2>
+<h3 id="påvirkning-på-finansregnskapet">Påvirkning på Finansregnskapet</h3>
+<p>Korrekt kreditering påvirker direkte <a href="/blogs/regnskap/hva-er-finansregnskap" title="Hva er Finansregnskap? En Komplett Guide til Ekstern Finansiell Rapportering">finansregnskapet</a>:</p>
+<h4 id="resultatregnskap">Resultatregnskap</h4>
+<ul>
+<li><strong>Kreditering av inntektskontoer</strong> øker totale inntekter</li>
+<li><strong>Kreditering av kostnadskontoer</strong> reduserer totale kostnader</li>
+</ul>
+<h4 id="balanse">Balanse</h4>
+<ul>
+<li><strong>Kreditering av gjeldskontoer</strong> øker total gjeld</li>
+<li><strong>Kreditering av egenkapitalkontoer</strong> øker total egenkapital</li>
+<li><strong>Kreditering av eiendelskontoer</strong> reduserer totale eiendeler</li>
+</ul>
+<h3 id="kontroll-og-kvalitetssikring">Kontroll og Kvalitetssikring</h3>
+<p><img src="kontroll-kreditering.svg" alt="Kontrollprosess for Kreditering"></p>
+<h4 id="månedlige-kontroller">Månedlige Kontroller</h4>
+<ul>
+<li><strong>Saldobalanse:</strong> Verifiser at total debet = total kredit</li>
+<li><strong>Kontoanalyse:</strong> Gjennomgå alle krediteringer per konto</li>
+<li><strong>Avstemming:</strong> Sammenlign med eksterne kilder</li>
+</ul>
+<h4 id="årlige-kontroller">Årlige Kontroller</h4>
+<ul>
+<li><strong><a href="/blogs/regnskap/hva-er-revisjon" title="Hva er Revisjon? Komplett Guide til Revisjon og Revisorplikter">Revisjon</a>:</strong> Ekstern kontroll av krediteringspraksis</li>
+<li><strong>Internkontroll:</strong> Evaluering av krediteringsprosedyrer</li>
+</ul>
+<h2 id="kreditering-i-spesielle-situasjoner">Kreditering i Spesielle Situasjoner</h2>
+<h3 id="1-valutakursdifferanser">1. Valutakursdifferanser</h3>
+<p>Ved transaksjoner i utenlandsk valuta kan det oppstå kursdifferanser som krever spesiell krediteringsbehandling:</p>
+<pre tabindex="0"><code>Debet: Kundefordringer (NOK)     105 000 kr
+Kredit: Salgsinntekter (NOK)     100 000 kr
+Kredit: Kursgevinst               5 000 kr
+</code></pre><h3 id="2-kreditnotaer">2. Kreditnotaer</h3>
+<p>Når kreditnotaer utstedes, reverseres den opprinnelige krediteringen:</p>
+<p><strong>Opprinnelig salg:</strong></p>
+<pre tabindex="0"><code>Debet: Kundefordringer    25 000 kr
+Kredit: Salgsinntekter    25 000 kr
+</code></pre><p><strong>Kreditnota:</strong></p>
+<pre tabindex="0"><code>Debet: Salgsinntekter     25 000 kr
+Kredit: Kundefordringer   25 000 kr
+</code></pre><h3 id="3-avsetninger-og-estimater">3. Avsetninger og Estimater</h3>
+<p>Kreditering av avsetningskontoer for fremtidige forpliktelser:</p>
+<pre tabindex="0"><code>Debet: Avsetningskostnad     50 000 kr
+Kredit: Avsetning for garanti 50 000 kr
+</code></pre><h2 id="beste-praksis-for-kreditering">Beste Praksis for Kreditering</h2>
+<h3 id="1-systematisk-tilnærming">1. Systematisk Tilnærming</h3>
+<ul>
+<li><strong>Bruk standardiserte prosedyrer</strong> for alle krediteringer</li>
+<li><strong>Dokumenter alle transaksjoner</strong> med tilstrekkelige <a href="/blogs/regnskap/hva-er-bilag" title="Hva er Bilag i Regnskap? Komplett Guide til Regnskapsbilag og Dokumentasjon">bilag</a></li>
+<li><strong>Følg <a href="/blogs/regnskap/hva-er-bokforingsloven" title="Hva er Bokføringsloven? Komplett Guide til Norsk Bokføringslovgivning">bokføringsloven</a></strong> og <a href="/blogs/regnskap/hva-er-bokforingsforskriften" title="Hva er Bokføringsforskriften? Detaljert Guide til Norske Bokføringsregler">bokføringsforskriften</a></li>
+</ul>
+<h3 id="2-kvalitetskontroll">2. Kvalitetskontroll</h3>
+<ul>
+<li><strong>Dobbeltsjekk alle krediteringer</strong> før registrering</li>
+<li><strong>Utfør regelmessige avstemminger</strong> av alle kontoer</li>
+<li><strong>Implementer fireøyesprinsippet</strong> for større transaksjoner</li>
+</ul>
+<h3 id="3-teknologisk-støtte">3. Teknologisk Støtte</h3>
+<ul>
+<li><strong>Bruk moderne regnskapssystemer</strong> med innebygde kontroller</li>
+<li><strong>Automatiser rutinekrediteringer</strong> hvor mulig</li>
+<li><strong>Implementer elektronisk <a href="/blogs/regnskap/hva-er-bilagsforing" title="Hva er Bilagsføring? Komplett Guide til Bilagsføring i Regnskap">bilagsbehandling</a></strong></li>
+</ul>
+<h2 id="sammenheng-med-andre-regnskapskonsepter">Sammenheng med Andre Regnskapskonsepter</h2>
+<h3 id="kreditering-og-periodisering">Kreditering og Periodisering</h3>
+<p>Kreditering følger <strong>periodiseringsprinsippet</strong>, hvor transaksjoner registreres når de oppstår, ikke nødvendigvis når kontanter utveksles. Dette er fundamentalt for <a href="/blogs/regnskap/god-regnskapsskikk" title="God Regnskapsskikk - Prinsipper, Standarder og Beste Praksis i Norge">god regnskapsskikk</a>.</p>
+<h3 id="kreditering-og-kontantstrøm">Kreditering og Kontantstrøm</h3>
+<p>Mens kreditering påvirker <a href="/blogs/regnskap/hva-er-driftsregnskap" title="Hva er Driftsregnskap? Komplett Guide til Driftsregnskapet i Norge">resultatregnskapet</a>, påvirker det ikke nødvendigvis <a href="/blogs/regnskap/hva-er-kontantstrom" title="Hva er Kontantstrøm? Komplett Guide til Kontantstrømanalyse">kontantstrømmen</a> samtidig.</p>
+<p><img src="kreditering-kontantstrom.svg" alt="Sammenheng Kreditering og Kontantstrøm"></p>
+<h2 id="konklusjon">Konklusjon</h2>
+<p><strong>Kreditering</strong> er en fundamental komponent i <a href="/blogs/regnskap/hva-er-dobbel-bokforing" title="Hva er Dobbel Bokføring? Komplett Guide til Dobbelt Bokføringssystem">dobbelt bokføring</a> som sikrer nøyaktig og balansert <a href="/blogs/regnskap/hva-er-regnskap" title="Hva er Regnskap? En Dybdeanalyse for Norge">regnskapsføring</a>. Forståelse av krediteringsprinsipper, kombinert med korrekt <a href="/blogs/regnskap/hva-er-kontering" title="Hva er Kontering? En Komplett Guide til Kontokoding i Regnskap">kontering</a>, er avgjørende for å opprettholde <a href="/blogs/regnskap/god-regnskapsskikk" title="God Regnskapsskikk - Prinsipper, Standarder og Beste Praksis i Norge">god regnskapsskikk</a> og produsere pålitelige finansielle rapporter.</p>
+<p>Ved å følge systematiske prosedyrer, implementere kvalitetskontroller og utnytte moderne teknologi, kan bedrifter sikre at deres krediteringspraksis støtter både daglig drift og langsiktig finansiell planlegging.</p>
+</article>
+  </div>
+</section>
+
+  </main>
+  <footer class="mt-16 border-t border-slate-800/60 bg-slate-900">
+  <div class="max-w-7xl mx-auto px-4 py-14">
+    <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3 text-center sm:text-left">
+      
+      <div>
+        <h3 class="text-sm font-semibold text-white">Verktøy</h3>
+        <ul class="mt-2 space-y-2 text-sm text-slate-300">
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/finn-iban/">IBAN kalkulator</a></li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/lag-faktura-gratis/">Lag faktura</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Selskaps-informasjon</h3>
+        <ul class="mt-2 space-y-1 text-sm text-slate-300">
+          <li>Reai AS</li>
+          <li>Orgnr: 935606403</li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="mailto:post@reai.no">post@reai.no</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Om ReAI</h3>
+        <p class="mt-2 text-sm text-slate-300">ReAI er et gratis regnskapsprogram laget av tidligere ansatte i Tripletex
+          / Visma. Vi mener det er på tide med mer konkurranse i regnskaps-bransjen som kan komme bedrifter til gode.
+        </p>
+      </div>
+    </div>
+    <div class="mt-12 border-t border-slate-800/60 pt-6 flex flex-col items-center sm:flex-row sm:items-center sm:justify-between text-sm text-slate-400 text-center sm:text-left">
+      <div class="flex items-center gap-2">
+        
+        
+      </div>
+      <div class="mt-4 sm:mt-0 flex items-center justify-center sm:justify-end">
+        <div class="opacity-80">&copy; 2025 ReAI. All rights reserved.</div>
+      </div>
+    </div>
+  </div>
+</footer>
+</body>
+</html>

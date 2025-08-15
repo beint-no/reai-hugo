@@ -1,0 +1,142 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">Prosess for Utbytteutdeling</text>
+  
+  <!-- Process Flow -->
+  
+  <!-- Step 1: Styrets Rolle -->
+  <g>
+    <rect x="50" y="80" width="180" height="120" fill="#e8f4fd" stroke="#3498db" stroke-width="2" rx="10"/>
+    <text x="140" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">1. Styrets Rolle</text>
+    
+    <!-- Board icon -->
+    <rect x="120" y="115" width="40" height="25" fill="#3498db" rx="3"/>
+    <circle cx="125" cy="125" r="3" fill="#fff"/>
+    <circle cx="135" cy="125" r="3" fill="#fff"/>
+    <circle cx="145" cy="125" r="3" fill="#fff"/>
+    <circle cx="155" cy="125" r="3" fill="#fff"/>
+    
+    <text x="60" y="155" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">• Vurdere økonomi</text>
+    <text x="60" y="170" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">• Beregne maks utbytte</text>
+    <text x="60" y="185" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">• Foreslå til GF</text>
+  </g>
+  
+  <!-- Arrow 1 -->
+  <path d="M 240 140 L 280 140" stroke="#e74c3c" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Step 2: Generalforsamling -->
+  <g>
+    <rect x="290" y="80" width="180" height="120" fill="#f0f8e8" stroke="#27ae60" stroke-width="2" rx="10"/>
+    <text x="380" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">2. Generalforsamling</text>
+    
+    <!-- Assembly icon -->
+    <circle cx="360" cy="125" r="8" fill="#27ae60"/>
+    <circle cx="380" cy="125" r="8" fill="#27ae60"/>
+    <circle cx="400" cy="125" r="8" fill="#27ae60"/>
+    <text x="380" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">VEDTAK</text>
+    
+    <text x="300" y="160" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">• Vedta årsregnskap</text>
+    <text x="300" y="175" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">• Beslutte utbytte</text>
+    <text x="300" y="190" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">• Fastsette dato</text>
+  </g>
+  
+  <!-- Arrow 2 -->
+  <path d="M 480 140 L 520 140" stroke="#e74c3c" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Step 3: Dokumentasjon -->
+  <g>
+    <rect x="530" y="80" width="180" height="120" fill="#fdf2e8" stroke="#e67e22" stroke-width="2" rx="10"/>
+    <text x="620" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">3. Dokumentasjon</text>
+    
+    <!-- Document icon -->
+    <rect x="600" y="115" width="40" height="30" fill="#e67e22" rx="3"/>
+    <rect x="605" y="120" width="30" height="20" fill="#fff"/>
+    <line x1="610" y1="125" x2="630" y2="125" stroke="#e67e22" stroke-width="1"/>
+    <line x1="610" y1="130" x2="630" y2="130" stroke="#e67e22" stroke-width="1"/>
+    <line x1="610" y1="135" x2="625" y2="135" stroke="#e67e22" stroke-width="1"/>
+    
+    <text x="540" y="160" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">• Styreprotokoll</text>
+    <text x="540" y="175" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">• GF-protokoll</text>
+    <text x="540" y="190" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">• Beregninger</text>
+  </g>
+  
+  <!-- Detailed Requirements Section -->
+  <rect x="50" y="230" width="700" height="150" fill="#ecf0f1" stroke="#95a5a6" stroke-width="2" rx="10"/>
+  <text x="400" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">Detaljerte Krav og Ansvar</text>
+  
+  <!-- Board Requirements -->
+  <g>
+    <text x="70" y="280" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#3498db">Styrets Ansvar:</text>
+    <text x="70" y="300" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">✓ Grundig økonomisk analyse</text>
+    <text x="70" y="315" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">✓ Soliditetsvurdering</text>
+    <text x="70" y="330" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">✓ Fremtidig likviditetsbehov</text>
+    <text x="70" y="345" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">✓ Juridisk compliance</text>
+    <text x="70" y="360" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">✓ Risikoevaluering</text>
+  </g>
+  
+  <!-- General Assembly Requirements -->
+  <g>
+    <text x="280" y="280" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#27ae60">Generalforsamling:</text>
+    <text x="280" y="300" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">✓ Kvorum oppnådd</text>
+    <text x="280" y="315" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">✓ Formelt vedtak</text>
+    <text x="280" y="330" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">✓ Ikke overstige maks</text>
+    <text x="280" y="345" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">✓ Protokollføring</text>
+    <text x="280" y="360" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">✓ Utbetalingsdato</text>
+  </g>
+  
+  <!-- Documentation Requirements -->
+  <g>
+    <text x="490" y="280" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#e67e22">Dokumentasjon:</text>
+    <text x="490" y="300" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">✓ Styreprotokoll med vurdering</text>
+    <text x="490" y="315" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">✓ GF-protokoll med vedtak</text>
+    <text x="490" y="330" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">✓ Utbytteberegning</text>
+    <text x="490" y="345" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">✓ Regnskapsnotater</text>
+    <text x="490" y="360" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">✓ Juridisk grunnlag</text>
+  </g>
+  
+  <!-- Timeline Section -->
+  <rect x="50" y="400" width="700" height="120" fill="#f8f9fa" stroke="#34495e" stroke-width="2" rx="10"/>
+  <text x="400" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">Typisk Tidslinje</text>
+  
+  <!-- Timeline -->
+  <line x1="100" y1="450" x2="700" y2="450" stroke="#34495e" stroke-width="3"/>
+  
+  <!-- Timeline points -->
+  <circle cx="150" cy="450" r="8" fill="#3498db"/>
+  <text x="150" y="440" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#3498db">JAN</text>
+  <text x="150" y="475" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">Årsregnskap</text>
+  <text x="150" y="490" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">ferdigstilles</text>
+  
+  <circle cx="300" cy="450" r="8" fill="#27ae60"/>
+  <text x="300" y="440" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#27ae60">MAR</text>
+  <text x="300" y="475" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">Styremøte</text>
+  <text x="300" y="490" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">utbytteforslag</text>
+  
+  <circle cx="450" cy="450" r="8" fill="#e67e22"/>
+  <text x="450" y="440" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#e67e22">APR</text>
+  <text x="450" y="475" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">General-</text>
+  <text x="450" y="490" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">forsamling</text>
+  
+  <circle cx="600" cy="450" r="8" fill="#9b59b6"/>
+  <text x="600" y="440" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#9b59b6">MAI</text>
+  <text x="600" y="475" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">Utbetaling</text>
+  <text x="600" y="490" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">til aksjonærer</text>
+  
+  <!-- Warning Box -->
+  <rect x="50" y="540" width="700" height="50" fill="#ffeaa7" stroke="#fdcb6e" stroke-width="2" rx="5"/>
+  <polygon points="80,555 70,570 90,570" fill="#e17055"/>
+  <text x="85" y="567" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#fff">!</text>
+  
+  <text x="110" y="560" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">Viktig:</text>
+  <text x="110" y="575" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Utbytte kan ikke overstige maskimalt utbytte. Styret er personlig ansvarlig for overskridelser.</text>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#e74c3c"/>
+    </marker>
+  </defs>
+</svg>

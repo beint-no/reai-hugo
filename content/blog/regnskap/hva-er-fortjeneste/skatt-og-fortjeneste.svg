@@ -1,0 +1,157 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="taxGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF5722;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#BF360C;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="planningGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3F51B5;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1A237E;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="strategyGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1B5E20;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="complianceGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF9800;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#E65100;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#333">
+    Skatt og Fortjeneste
+  </text>
+  <text x="400" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#666">
+    Strategisk skatteplanlegging og optimalisering av fortjeneste
+  </text>
+  
+  <!-- Tax Impact on Profit -->
+  <g transform="translate(50, 90)">
+    <rect x="0" y="0" width="340" height="200" rx="10" fill="url(#taxGradient)" opacity="0.9"/>
+    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      Skattens Påvirkning på Fortjeneste
+    </text>
+    
+    <!-- Profit flow diagram -->
+    <g transform="translate(30, 50)">
+      <!-- Gross profit -->
+      <rect x="0" y="0" width="280" height="25" rx="5" fill="white" opacity="0.3"/>
+      <text x="10" y="17" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Driftsfortjeneste (EBIT)</text>
+      <text x="220" y="17" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">1 000 000 kr</text>
+      
+      <!-- Financial costs -->
+      <text x="140" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">↓</text>
+      <rect x="0" y="45" width="280" height="20" rx="5" fill="white" opacity="0.2"/>
+      <text x="10" y="58" font-family="Arial, sans-serif" font-size="11" fill="white">- Finanskostnader</text>
+      <text x="220" y="58" font-family="Arial, sans-serif" font-size="11" fill="white">50 000 kr</text>
+      
+      <!-- Pre-tax profit -->
+      <text x="140" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">↓</text>
+      <rect x="0" y="85" width="280" height="25" rx="5" fill="white" opacity="0.3"/>
+      <text x="10" y="102" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Resultat før skatt</text>
+      <text x="220" y="102" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">950 000 kr</text>
+      
+      <!-- Tax -->
+      <text x="140" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">↓</text>
+      <rect x="0" y="125" width="280" height="20" rx="5" fill="#D32F2F" opacity="0.8"/>
+      <text x="10" y="138" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">- Skatt (22%)</text>
+      <text x="220" y="138" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">209 000 kr</text>
+      
+      <!-- Net profit -->
+      <text x="140" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">↓</text>
+      <rect x="0" y="165" width="280" height="25" rx="5" fill="white" opacity="0.4"/>
+      <text x="10" y="182" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Nettofortjeneste</text>
+      <text x="220" y="182" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">741 000 kr</text>
+    </g>
+  </g>
+  
+  <!-- Tax Planning Strategies -->
+  <g transform="translate(410, 90)">
+    <rect x="0" y="0" width="340" height="200" rx="10" fill="url(#planningGradient)" opacity="0.9"/>
+    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      Skatteplanleggingsstrategier
+    </text>
+    
+    <!-- Strategy list -->
+    <g transform="translate(20, 45)">
+      <text x="0" y="15" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Timing av inntekter og kostnader:</text>
+      <text x="10" y="30" font-family="Arial, sans-serif" font-size="10" fill="white">• Periodisering - Optimalisere når poster bokføres</text>
+      <text x="10" y="45" font-family="Arial, sans-serif" font-size="10" fill="white">• Investeringsfradrag - Utnytte skattemessige fordeler</text>
+      <text x="10" y="60" font-family="Arial, sans-serif" font-size="10" fill="white">• Avskrivningsstrategier - Velge optimale metoder</text>
+      
+      <text x="0" y="85" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Konsernstruktur:</text>
+      <text x="10" y="100" font-family="Arial, sans-serif" font-size="10" fill="white">• Konsernbidrag - Utnytte muligheter i konsern</text>
+      <text x="10" y="115" font-family="Arial, sans-serif" font-size="10" fill="white">• Internprising - Sikre korrekt prising mellom selskap</text>
+      <text x="10" y="130" font-family="Arial, sans-serif" font-size="10" fill="white">• Transfer pricing - Optimalisere global skatteposisjon</text>
+      
+      <text x="0" y="155" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Dokumentasjon:</text>
+      <text x="10" y="170" font-family="Arial, sans-serif" font-size="10" fill="white">• Oppfylle krav til internprisingsdokumentasjon</text>
+    </g>
+  </g>
+  
+  <!-- Tax Optimization Framework -->
+  <g transform="translate(50, 310)">
+    <rect x="0" y="0" width="700" height="180" rx="10" fill="url(#strategyGradient)" opacity="0.9"/>
+    <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      Rammeverk for Skatteoptimalisering
+    </text>
+    
+    <!-- Framework steps -->
+    <g transform="translate(50, 50)">
+      <!-- Step 1: Analysis -->
+      <g transform="translate(0, 0)">
+        <circle cx="25" cy="25" r="20" fill="white" opacity="0.3"/>
+        <text x="25" y="31" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">1</text>
+        <text x="60" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Analyse</text>
+        <text x="60" y="35" font-family="Arial, sans-serif" font-size="10" fill="white">• Kartlegg nåværende skatteposisjon</text>
+        <text x="60" y="50" font-family="Arial, sans-serif" font-size="10" fill="white">• Identifiser optimaliserings-muligheter</text>
+      </g>
+      
+      <!-- Step 2: Planning -->
+      <g transform="translate(300, 0)">
+        <circle cx="25" cy="25" r="20" fill="white" opacity="0.3"/>
+        <text x="25" y="31" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">2</text>
+        <text x="60" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Planlegging</text>
+        <text x="60" y="35" font-family="Arial, sans-serif" font-size="10" fill="white">• Utvikle skatteoptimal strategi</text>
+        <text x="60" y="50" font-family="Arial, sans-serif" font-size="10" fill="white">• Vurder risiko vs. gevinst</text>
+      </g>
+      
+      <!-- Step 3: Implementation -->
+      <g transform="translate(0, 80)">
+        <circle cx="25" cy="25" r="20" fill="white" opacity="0.3"/>
+        <text x="25" y="31" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">3</text>
+        <text x="60" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Implementering</text>
+        <text x="60" y="35" font-family="Arial, sans-serif" font-size="10" fill="white">• Gjennomfør skattetiltak</text>
+        <text x="60" y="50" font-family="Arial, sans-serif" font-size="10" fill="white">• Sikre korrekt dokumentasjon</text>
+      </g>
+      
+      <!-- Step 4: Monitoring -->
+      <g transform="translate(300, 80)">
+        <circle cx="25" cy="25" r="20" fill="white" opacity="0.3"/>
+        <text x="25" y="31" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">4</text>
+        <text x="60" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Overvåking</text>
+        <text x="60" y="35" font-family="Arial, sans-serif" font-size="10" fill="white">• Følg opp resultater</text>
+        <text x="60" y="50" font-family="Arial, sans-serif" font-size="10" fill="white">• Tilpass ved regelendringer</text>
+      </g>
+    </g>
+  </g>
+  
+  <!-- Compliance Warning -->
+  <g transform="translate(50, 510)">
+    <rect x="0" y="0" width="700" height="70" rx="10" fill="url(#complianceGradient)" opacity="0.9"/>
+    <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      ⚠️ Viktig: Compliance og Regelverksendringer
+    </text>
+    
+    <g transform="translate(50, 35)">
+      <text x="0" y="15" font-family="Arial, sans-serif" font-size="11" fill="white">• Alle skatteoptimaliseringstiltak må være i tråd med norsk skattelovgivning</text>
+      <text x="0" y="30" font-family="Arial, sans-serif" font-size="11" fill="white">• Søk profesjonell rådgivning for komplekse skattestrukturer</text>
+      <text x="350" y="15" font-family="Arial, sans-serif" font-size="11" fill="white">• Hold deg oppdatert på regelverksendringer</text>
+      <text x="350" y="30" font-family="Arial, sans-serif" font-size="11" fill="white">• Dokumenter alle beslutninger og begrunnelser</text>
+    </g>
+  </g>
+</svg>

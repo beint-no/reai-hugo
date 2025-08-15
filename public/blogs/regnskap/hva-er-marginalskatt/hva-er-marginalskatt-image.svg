@@ -1,0 +1,60 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="barGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#ffc107;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#dc3545;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="400" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Title -->
+  <text x="400" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#212529">
+    Hva er Marginalskatt?
+  </text>
+  
+  <!-- Subtitle -->
+  <text x="400" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#6c757d">
+    Skattesatsen på den siste kronen du tjener
+  </text>
+  
+  <!-- Progressive tax visualization -->
+  <rect x="100" y="120" width="600" height="40" fill="url(#barGradient)" stroke="#495057" stroke-width="2"/>
+  
+  <!-- Tax brackets labels -->
+  <text x="120" y="180" font-family="Arial, sans-serif" font-size="14" fill="#495057">0%</text>
+  <text x="200" y="180" font-family="Arial, sans-serif" font-size="14" fill="#495057">1,7%</text>
+  <text x="320" y="180" font-family="Arial, sans-serif" font-size="14" fill="#495057">4,0%</text>
+  <text x="480" y="180" font-family="Arial, sans-serif" font-size="14" fill="#495057">13,4%</text>
+  <text x="600" y="180" font-family="Arial, sans-serif" font-size="14" fill="#495057">16,4%</text>
+  <text x="680" y="180" font-family="Arial, sans-serif" font-size="14" fill="#495057">17,4%</text>
+  
+  <!-- Income levels -->
+  <text x="120" y="200" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">0 kr</text>
+  <text x="180" y="200" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">208k</text>
+  <text x="280" y="200" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">293k</text>
+  <text x="440" y="200" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">670k</text>
+  <text x="560" y="200" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">938k</text>
+  <text x="640" y="200" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">1,35M</text>
+  
+  <!-- Arrow pointing to marginal rate -->
+  <path d="M 400 240 L 420 260 L 400 280 L 380 260 Z" fill="#dc3545"/>
+  <text x="400" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#dc3545">
+    Din marginalskatt
+  </text>
+  
+  <!-- Example calculation box -->
+  <rect x="50" y="330" width="700" height="50" fill="#fff3cd" stroke="#ffeaa7" stroke-width="2" rx="5"/>
+  <text x="70" y="350" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#856404">
+    Eksempel: Ved 500 000 kr inntekt er marginalskatten ca. 18,3%
+  </text>
+  <text x="70" y="370" font-family="Arial, sans-serif" font-size="12" fill="#856404">
+    (4% trinnskatt + 11,9% kommuneskatt + 2,4% fylkeskommunal skatt)
+  </text>
+</svg>

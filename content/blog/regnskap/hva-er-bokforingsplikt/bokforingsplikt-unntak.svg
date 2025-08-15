@@ -1,0 +1,217 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1e40af;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="exemptGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#059669;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#047857;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="smallBusinessGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#f59e0b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#d97706;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="hobbyGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#8b5cf6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7c3aed;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="investmentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#dc2626;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#b91c1c;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8fafc"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="60" fill="url(#headerGrad)"/>
+  <text x="400" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
+    Unntak fra Bokføringsplikten
+  </text>
+  
+  <!-- Central Exemption Circle -->
+  <g transform="translate(350, 280)">
+    <circle cx="50" cy="50" r="50" fill="#ecfdf5" stroke="#059669" stroke-width="4"/>
+    <text x="50" y="40" text-anchor="middle" fill="#065f46" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+      UNNTAK FRA
+    </text>
+    <text x="50" y="60" text-anchor="middle" fill="#065f46" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+      BOKFØRINGS-
+    </text>
+    <text x="50" y="75" text-anchor="middle" fill="#065f46" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+      PLIKT
+    </text>
+  </g>
+  
+  <!-- Small Sole Proprietorships -->
+  <g transform="translate(50, 100)">
+    <rect x="0" y="0" width="220" height="50" rx="10" fill="url(#smallBusinessGrad)"/>
+    <text x="110" y="30" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+      SMÅ ENKELTPERSONFORETAK
+    </text>
+    
+    <rect x="20" y="60" width="180" height="140" rx="5" fill="#fffbeb" stroke="#f59e0b" stroke-width="2"/>
+    <text x="110" y="80" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      Under inntektsgrensene:
+    </text>
+    <text x="30" y="100" fill="#92400e" font-family="Arial, sans-serif" font-size="12">
+      • Omsetning under 5 mill. kr
+    </text>
+    <text x="30" y="115" fill="#92400e" font-family="Arial, sans-serif" font-size="12">
+      • Balansesum under 20 mill. kr
+    </text>
+    <text x="30" y="130" fill="#92400e" font-family="Arial, sans-serif" font-size="12">
+      • Under 20 ansatte
+    </text>
+    <text x="30" y="150" fill="#92400e" font-family="Arial, sans-serif" font-size="12">
+      Alternativer:
+    </text>
+    <text x="30" y="165" fill="#92400e" font-family="Arial, sans-serif" font-size="12">
+      • Forenklet regnskapsføring
+    </text>
+    <text x="30" y="180" fill="#92400e" font-family="Arial, sans-serif" font-size="12">
+      • Skattemessig regnskap
+    </text>
+    <text x="30" y="195" fill="#92400e" font-family="Arial, sans-serif" font-size="12">
+      • Frivillig full bokføring
+    </text>
+    
+    <!-- Arrow to center -->
+    <path d="M270 170 L350 280" stroke="#f59e0b" stroke-width="3" stroke-dasharray="5,5"/>
+  </g>
+  
+  <!-- Hobby Activities -->
+  <g transform="translate(530, 100)">
+    <rect x="0" y="0" width="220" height="50" rx="10" fill="url(#hobbyGrad)"/>
+    <text x="110" y="30" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+      HOBBYVIRKSOMHET
+    </text>
+    
+    <rect x="20" y="60" width="180" height="120" rx="5" fill="#f5f3ff" stroke="#8b5cf6" stroke-width="2"/>
+    <text x="110" y="80" text-anchor="middle" fill="#581c87" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      Kjennetegn:
+    </text>
+    <text x="30" y="100" fill="#581c87" font-family="Arial, sans-serif" font-size="12">
+      • Ingen kommersiell karakter
+    </text>
+    <text x="30" y="115" fill="#581c87" font-family="Arial, sans-serif" font-size="12">
+      • Sporadisk aktivitet
+    </text>
+    <text x="30" y="130" fill="#581c87" font-family="Arial, sans-serif" font-size="12">
+      • Lav omsetning
+    </text>
+    <text x="30" y="145" fill="#581c87" font-family="Arial, sans-serif" font-size="12">
+      • Ikke hovedinntektskilde
+    </text>
+    <text x="30" y="160" fill="#581c87" font-family="Arial, sans-serif" font-size="12">
+      • Personlig interesse/hobby
+    </text>
+    
+    <!-- Arrow to center -->
+    <path d="M530 160 L450 280" stroke="#8b5cf6" stroke-width="3" stroke-dasharray="5,5"/>
+  </g>
+  
+  <!-- Passive Investments -->
+  <g transform="translate(50, 400)">
+    <rect x="0" y="0" width="220" height="50" rx="10" fill="url(#investmentGrad)"/>
+    <text x="110" y="30" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+      PASSIVE INVESTERINGER
+    </text>
+    
+    <rect x="20" y="60" width="180" height="100" rx="5" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+    <text x="110" y="80" text-anchor="middle" fill="#991b1b" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      Eksempler:
+    </text>
+    <text x="30" y="100" fill="#991b1b" font-family="Arial, sans-serif" font-size="12">
+      • Aksjer og obligasjoner
+    </text>
+    <text x="30" y="115" fill="#991b1b" font-family="Arial, sans-serif" font-size="12">
+      • Bankinnskudd og sparing
+    </text>
+    <text x="30" y="130" fill="#991b1b" font-family="Arial, sans-serif" font-size="12">
+      • Fond og verdipapirer
+    </text>
+    <text x="30" y="145" fill="#991b1b" font-family="Arial, sans-serif" font-size="12">
+      • Ikke aktiv forvaltning
+    </text>
+    
+    <!-- Arrow to center -->
+    <path d="M270 450 L350 380" stroke="#dc2626" stroke-width="3" stroke-dasharray="5,5"/>
+  </g>
+  
+  <!-- Property Rental -->
+  <g transform="translate(530, 400)">
+    <rect x="0" y="0" width="220" height="50" rx="10" fill="url(#exemptGrad)"/>
+    <text x="110" y="30" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+      UTLEIE AV EGEN BOLIG
+    </text>
+    
+    <rect x="20" y="60" width="180" height="100" rx="5" fill="#ecfdf5" stroke="#059669" stroke-width="2"/>
+    <text x="110" y="80" text-anchor="middle" fill="#065f46" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      Betingelser:
+    </text>
+    <text x="30" y="100" fill="#065f46" font-family="Arial, sans-serif" font-size="12">
+      • Utleie av egen bolig/hytte
+    </text>
+    <text x="30" y="115" fill="#065f46" font-family="Arial, sans-serif" font-size="12">
+      • Ikke kommersiell utleie
+    </text>
+    <text x="30" y="130" fill="#065f46" font-family="Arial, sans-serif" font-size="12">
+      • Under visse inntektsgrenser
+    </text>
+    <text x="30" y="145" fill="#065f46" font-family="Arial, sans-serif" font-size="12">
+      • Ikke hovedvirksomhet
+    </text>
+    
+    <!-- Arrow to center -->
+    <path d="M530 450 L450 380" stroke="#059669" stroke-width="3" stroke-dasharray="5,5"/>
+  </g>
+  
+  <!-- Important Note Box -->
+  <g transform="translate(200, 240)">
+    <rect x="0" y="0" width="400" height="80" rx="10" fill="#fef3c7" stroke="#f59e0b" stroke-width="3"/>
+    <text x="200" y="25" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+      VIKTIG Å MERKE SEG
+    </text>
+    <text x="200" y="45" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="13">
+      Selv om bokføringsplikt ikke gjelder, kan det være
+    </text>
+    <text x="200" y="65" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="13">
+      skattemessige rapporteringskrav og dokumentasjonsplikter
+    </text>
+  </g>
+  
+  <!-- Transition Warning -->
+  <g transform="translate(200, 340)">
+    <rect x="0" y="0" width="400" height="60" rx="10" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+    <text x="200" y="25" text-anchor="middle" fill="#991b1b" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+      OVERVÅK AKTIVITETSNIVÅ
+    </text>
+    <text x="200" y="45" text-anchor="middle" fill="#991b1b" font-family="Arial, sans-serif" font-size="13">
+      Bokføringsplikten kan inntreffe når aktiviteten øker
+    </text>
+  </g>
+  
+  <!-- Public Entities -->
+  <g transform="translate(280, 80)">
+    <rect x="0" y="0" width="240" height="40" rx="5" fill="#1f2937"/>
+    <text x="120" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      ENKELTE OFFENTLIGE VIRKSOMHETER
+    </text>
+    
+    <rect x="20" y="50" width="200" height="40" rx="3" fill="#f9fafb" stroke="#374151" stroke-width="1"/>
+    <text x="120" y="70" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="12">
+      Med særregulering og egne rapporteringskrav
+    </text>
+  </g>
+  
+  <!-- Bottom Legal Reference -->
+  <g transform="translate(50, 560)">
+    <rect x="0" y="0" width="700" height="30" rx="5" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+    <text x="350" y="20" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      Bokføringsloven § 2 - Virkeområde og unntak fra bokføringsplikten
+    </text>
+  </g>
+</svg>

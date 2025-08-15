@@ -1,0 +1,122 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1e40af;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="cardGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f1f5f9"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
+  <text x="400" y="50" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="white" text-anchor="middle">Årsoppgave i Regnskap</text>
+  
+  <!-- Main content area -->
+  <g transform="translate(50, 100)">
+    
+    <!-- Document illustration -->
+    <g transform="translate(50, 20)">
+      <rect x="0" y="0" width="200" height="280" fill="white" stroke="#cbd5e1" stroke-width="2" rx="8"/>
+      <rect x="20" y="20" width="160" height="8" fill="#e2e8f0" rx="4"/>
+      <rect x="20" y="40" width="120" height="6" fill="#cbd5e1" rx="3"/>
+      <rect x="20" y="55" width="140" height="6" fill="#cbd5e1" rx="3"/>
+      
+      <!-- Form fields -->
+      <rect x="20" y="80" width="160" height="20" fill="#dbeafe" stroke="#3b82f6" stroke-width="1" rx="4"/>
+      <text x="100" y="94" font-family="Arial, sans-serif" font-size="10" fill="#1e40af" text-anchor="middle">Resultatregnskap</text>
+      
+      <rect x="20" y="110" width="160" height="20" fill="#dcfce7" stroke="#10b981" stroke-width="1" rx="4"/>
+      <text x="100" y="124" font-family="Arial, sans-serif" font-size="10" fill="#059669" text-anchor="middle">Balanse</text>
+      
+      <rect x="20" y="140" width="160" height="20" fill="#fef3c7" stroke="#f59e0b" stroke-width="1" rx="4"/>
+      <text x="100" y="154" font-family="Arial, sans-serif" font-size="10" fill="#d97706" text-anchor="middle">Skatteposisjon</text>
+      
+      <rect x="20" y="170" width="160" height="20" fill="#fce7f3" stroke="#ec4899" stroke-width="1" rx="4"/>
+      <text x="100" y="184" font-family="Arial, sans-serif" font-size="10" fill="#be185d" text-anchor="middle">Tilleggsskjemaer</text>
+      
+      <!-- Signature area -->
+      <rect x="20" y="220" width="160" height="40" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1" rx="4"/>
+      <text x="100" y="238" font-family="Arial, sans-serif" font-size="8" fill="#475569" text-anchor="middle">Elektronisk signatur</text>
+      <text x="100" y="250" font-family="Arial, sans-serif" font-size="8" fill="#475569" text-anchor="middle">Altinn-portal</text>
+    </g>
+    
+    <!-- Process flow -->
+    <g transform="translate(300, 20)">
+      <!-- Step 1 -->
+      <circle cx="50" cy="40" r="25" fill="#dbeafe" stroke="#3b82f6" stroke-width="2"/>
+      <text x="50" y="35" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e40af" text-anchor="middle">1</text>
+      <text x="50" y="47" font-family="Arial, sans-serif" font-size="8" fill="#1e40af" text-anchor="middle">Utarbeidelse</text>
+      <text x="50" y="75" font-family="Arial, sans-serif" font-size="10" fill="#334155" text-anchor="middle">Regnskap til</text>
+      <text x="50" y="87" font-family="Arial, sans-serif" font-size="10" fill="#334155" text-anchor="middle">skatteposisjon</text>
+      
+      <!-- Arrow 1 -->
+      <line x1="75" y1="40" x2="125" y2="40" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
+      
+      <!-- Step 2 -->
+      <circle cx="150" cy="40" r="25" fill="#dcfce7" stroke="#10b981" stroke-width="2"/>
+      <text x="150" y="35" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#059669" text-anchor="middle">2</text>
+      <text x="150" y="47" font-family="Arial, sans-serif" font-size="8" fill="#059669" text-anchor="middle">Kontroll</text>
+      <text x="150" y="75" font-family="Arial, sans-serif" font-size="10" fill="#334155" text-anchor="middle">Kvalitetssikring</text>
+      <text x="150" y="87" font-family="Arial, sans-serif" font-size="10" fill="#334155" text-anchor="middle">og revisjon</text>
+      
+      <!-- Arrow 2 -->
+      <line x1="175" y1="40" x2="225" y2="40" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
+      
+      <!-- Step 3 -->
+      <circle cx="250" cy="40" r="25" fill="#fef3c7" stroke="#f59e0b" stroke-width="2"/>
+      <text x="250" y="35" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#d97706" text-anchor="middle">3</text>
+      <text x="250" y="47" font-family="Arial, sans-serif" font-size="8" fill="#d97706" text-anchor="middle">Innlevering</text>
+      <text x="250" y="75" font-family="Arial, sans-serif" font-size="10" fill="#334155" text-anchor="middle">Elektronisk til</text>
+      <text x="250" y="87" font-family="Arial, sans-serif" font-size="10" fill="#334155" text-anchor="middle">Skatteetaten</text>
+      
+      <!-- Arrow 3 -->
+      <line x1="250" y1="65" x2="250" y2="115" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
+      
+      <!-- Step 4 -->
+      <circle cx="250" cy="140" r="25" fill="#fce7f3" stroke="#ec4899" stroke-width="2"/>
+      <text x="250" y="135" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#be185d" text-anchor="middle">4</text>
+      <text x="250" y="147" font-family="Arial, sans-serif" font-size="8" fill="#be185d" text-anchor="middle">Behandling</text>
+      <text x="250" y="175" font-family="Arial, sans-serif" font-size="10" fill="#334155" text-anchor="middle">Skatteberegning</text>
+      <text x="250" y="187" font-family="Arial, sans-serif" font-size="10" fill="#334155" text-anchor="middle">og kontroll</text>
+    </g>
+    
+    <!-- Key information boxes -->
+    <g transform="translate(50, 340)">
+      <!-- Frister -->
+      <rect x="0" y="0" width="150" height="80" fill="url(#cardGradient)" stroke="#cbd5e1" stroke-width="1" rx="8"/>
+      <text x="75" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#334155" text-anchor="middle">Viktige Frister</text>
+      <text x="10" y="40" font-family="Arial, sans-serif" font-size="10" fill="#475569">• 31. mai: Ordinær frist</text>
+      <text x="10" y="55" font-family="Arial, sans-serif" font-size="10" fill="#475569">• Forsinkelse: Gebyr</text>
+      <text x="10" y="70" font-family="Arial, sans-serif" font-size="10" fill="#475569">• Utsettelse: Søknad</text>
+      
+      <!-- Innhold -->
+      <rect x="170" y="0" width="150" height="80" fill="url(#cardGradient)" stroke="#cbd5e1" stroke-width="1" rx="8"/>
+      <text x="245" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#334155" text-anchor="middle">Hovedinnhold</text>
+      <text x="180" y="40" font-family="Arial, sans-serif" font-size="10" fill="#475569">• Resultatregnskap</text>
+      <text x="180" y="55" font-family="Arial, sans-serif" font-size="10" fill="#475569">• Balanse</text>
+      <text x="180" y="70" font-family="Arial, sans-serif" font-size="10" fill="#475569">• Skatteberegning</text>
+      
+      <!-- Konsekvenser -->
+      <rect x="340" y="0" width="150" height="80" fill="url(#cardGradient)" stroke="#cbd5e1" stroke-width="1" rx="8"/>
+      <text x="415" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#334155" text-anchor="middle">Konsekvenser</text>
+      <text x="350" y="40" font-family="Arial, sans-serif" font-size="10" fill="#475569">• Skatteberegning</text>
+      <text x="350" y="55" font-family="Arial, sans-serif" font-size="10" fill="#475569">• Kontrollgrunnlag</text>
+      <text x="350" y="70" font-family="Arial, sans-serif" font-size="10" fill="#475569">• Statistikkformål</text>
+    </g>
+    
+  </g>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#64748b"/>
+    </marker>
+  </defs>
+  
+</svg>

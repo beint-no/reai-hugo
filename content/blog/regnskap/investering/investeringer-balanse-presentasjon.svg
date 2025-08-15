@@ -1,0 +1,24 @@
+<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="500" fill="#f0f4f8"/>
+  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" fill="#2c3e50" text-anchor="middle">Presentasjon av Investeringer i Balansen</text>
+
+  <!-- Anleggsmidler -->
+  <g transform="translate(50, 80)">
+    <rect width="330" height="380" fill="#2980b9" rx="10"/>
+    <text x="165" y="40" font-family="Arial, sans-serif" font-size="20" fill="white" text-anchor="middle">Anleggsmidler (Langsiktig)</text>
+    <line x1="30" y1="60" x2="300" y2="60" stroke="white" stroke-width="2"/>
+    <text x="40" y="100" font-family="Arial, sans-serif" font-size="14" fill="white">- Investeringer i datterselskaper</text>
+    <text x="40" y="140" font-family="Arial, sans-serif" font-size="14" fill="white">- Investeringer i tilknyttede selskaper</text>
+    <text x="40" y="180" font-family="Arial, sans-serif" font-size="14" fill="white">- Andre langsiktige investeringer</text>
+  </g>
+
+  <!-- Omløpsmidler -->
+  <g transform="translate(420, 80)">
+    <rect width="330" height="380" fill="#27ae60" rx="10"/>
+    <text x="165" y="40" font-family="Arial, sans-serif" font-size="20" fill="white" text-anchor="middle">Omløpsmidler (Kortsiktig)</text>
+    <line x1="30" y1="60" x2="300" y2="60" stroke="white" stroke-width="2"/>
+    <text x="40" y="100" font-family="Arial, sans-serif" font-size="14" fill="white">- Kortsiktige investeringer</text>
+    <text x="40" y="140" font-family="Arial, sans-serif" font-size="14" fill="white">- Markedsbaserte verdipapirer</text>
+    <text x="40" y="180" font-family="Arial, sans-serif" font-size="14" fill="white">- Likvide midler</text>
+  </g>
+</svg>

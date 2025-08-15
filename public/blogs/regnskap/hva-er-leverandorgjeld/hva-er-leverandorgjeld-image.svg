@@ -1,0 +1,79 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="400" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
+  <text x="400" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="28" font-weight="bold">
+    Leverandørgjeld i Regnskap
+  </text>
+  
+  <!-- Main content area -->
+  <rect x="50" y="120" width="700" height="240" fill="white" stroke="#dee2e6" stroke-width="1" rx="8"/>
+  
+  <!-- Left section - Definition -->
+  <rect x="70" y="140" width="320" height="200" fill="#f8f9fa" stroke="#e9ecef" stroke-width="1" rx="4"/>
+  <text x="230" y="165" text-anchor="middle" fill="#0066cc" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+    Definisjon
+  </text>
+  <text x="80" y="190" fill="#333" font-family="Arial, sans-serif" font-size="12">
+    Leverandørgjeld er virksomhetens
+  </text>
+  <text x="80" y="210" fill="#333" font-family="Arial, sans-serif" font-size="12">
+    forpliktelser overfor leverandører
+  </text>
+  <text x="80" y="230" fill="#333" font-family="Arial, sans-serif" font-size="12">
+    for varer og tjenester som er
+  </text>
+  <text x="80" y="250" fill="#333" font-family="Arial, sans-serif" font-size="12">
+    mottatt, men ennå ikke betalt.
+  </text>
+  
+  <!-- Arrow -->
+  <path d="M 410 250 L 430 250" stroke="#0066cc" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Right section - Key characteristics -->
+  <rect x="450" y="140" width="280" height="200" fill="#e8f4fd" stroke="#b3d9ff" stroke-width="1" rx="4"/>
+  <text x="590" y="165" text-anchor="middle" fill="#0066cc" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+    Kjennetegn
+  </text>
+  <text x="460" y="190" fill="#333" font-family="Arial, sans-serif" font-size="11">
+    • Kortsiktig gjeld (30-90 dager)
+  </text>
+  <text x="460" y="210" fill="#333" font-family="Arial, sans-serif" font-size="11">
+    • Handelskreditt fra leverandører
+  </text>
+  <text x="460" y="230" fill="#333" font-family="Arial, sans-serif" font-size="11">
+    • Ofte rentefri periode
+  </text>
+  <text x="460" y="250" fill="#333" font-family="Arial, sans-serif" font-size="11">
+    • Dokumentert med fakturaer
+  </text>
+  <text x="460" y="270" fill="#333" font-family="Arial, sans-serif" font-size="11">
+    • Viktig for leverandørforhold
+  </text>
+  <text x="460" y="290" fill="#333" font-family="Arial, sans-serif" font-size="11">
+    • Del av arbeidskapitalstyring
+  </text>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#0066cc"/>
+    </marker>
+  </defs>
+  
+  <!-- Bottom accent -->
+  <rect x="0" y="380" width="800" height="20" fill="#0066cc" opacity="0.1"/>
+</svg>

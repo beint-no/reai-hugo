@@ -1,0 +1,106 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="2" dy="2" stdDeviation="3" flood-color="#00000020"/>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#212529">MVA-pliktens Komponenter</text>
+  
+  <!-- Central circle - MVA-plikt -->
+  <circle cx="400" cy="250" r="80" fill="#0066cc" stroke="white" stroke-width="4" filter="url(#shadow)"/>
+  <text x="400" y="245" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">MVA-plikt</text>
+  <text x="400" y="265" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">Juridisk</text>
+  <text x="400" y="280" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">forpliktelse</text>
+  
+  <!-- Component 1: Registreringsplikt -->
+  <rect x="120" y="80" width="140" height="80" fill="#e3f2fd" stroke="#0066cc" stroke-width="2" rx="10" filter="url(#shadow)"/>
+  <text x="190" y="105" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0066cc">Registreringsplikt</text>
+  <text x="190" y="125" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#0066cc">Når omsetningsgrenser</text>
+  <text x="190" y="140" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#0066cc">overskrides</text>
+  <text x="190" y="155" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#0066cc">Innen 1 måned</text>
+  
+  <!-- Component 2: Beregningsplikt -->
+  <rect x="540" y="80" width="140" height="80" fill="#e8f5e8" stroke="#28a745" stroke-width="2" rx="10" filter="url(#shadow)"/>
+  <text x="610" y="105" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#28a745">Beregningsplikt</text>
+  <text x="610" y="125" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#28a745">Korrekt MVA på alle</text>
+  <text x="610" y="140" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#28a745">transaksjoner</text>
+  <text x="610" y="155" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#28a745">Riktige satser</text>
+  
+  <!-- Component 3: Innkrevingsplikt -->
+  <rect x="120" y="360" width="140" height="80" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="10" filter="url(#shadow)"/>
+  <text x="190" y="385" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#856404">Innkrevingsplikt</text>
+  <text x="190" y="405" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#856404">Kreve inn MVA</text>
+  <text x="190" y="420" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#856404">fra kunder</text>
+  <text x="190" y="435" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#856404">Ved salg</text>
+  
+  <!-- Component 4: Rapporteringsplikt -->
+  <rect x="540" y="360" width="140" height="80" fill="#f8d7da" stroke="#dc3545" stroke-width="2" rx="10" filter="url(#shadow)"/>
+  <text x="610" y="385" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#721c24">Rapporteringsplikt</text>
+  <text x="610" y="405" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#721c24">Periodiske</text>
+  <text x="610" y="420" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#721c24">MVA-oppgaver</text>
+  <text x="610" y="435" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#721c24">Til Skatteetaten</text>
+  
+  <!-- Component 5: Betalingsplikt -->
+  <rect x="50" y="200" width="140" height="80" fill="#d1ecf1" stroke="#17a2b8" stroke-width="2" rx="10" filter="url(#shadow)"/>
+  <text x="120" y="225" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0c5460">Betalingsplikt</text>
+  <text x="120" y="245" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#0c5460">Betale MVA til</text>
+  <text x="120" y="260" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#0c5460">Skatteetaten</text>
+  <text x="120" y="275" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#0c5460">Innen frister</text>
+  
+  <!-- Component 6: Dokumentasjonsplikt -->
+  <rect x="610" y="200" width="140" height="80" fill="#e2e3e5" stroke="#6c757d" stroke-width="2" rx="10" filter="url(#shadow)"/>
+  <text x="680" y="225" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#495057">Dokumentasjonsplikt</text>
+  <text x="680" y="245" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#495057">Oppbevare bilag</text>
+  <text x="680" y="260" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#495057">og dokumentasjon</text>
+  <text x="680" y="275" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#495057">I 5 år</text>
+  
+  <!-- Arrows from center to components -->
+  <!-- To Registreringsplikt -->
+  <path d="M 350 200 L 230 140" stroke="#0066cc" stroke-width="3" fill="none" marker-end="url(#arrowBlue)"/>
+  
+  <!-- To Beregningsplikt -->
+  <path d="M 450 200 L 570 140" stroke="#28a745" stroke-width="3" fill="none" marker-end="url(#arrowGreen)"/>
+  
+  <!-- To Innkrevingsplikt -->
+  <path d="M 350 300 L 230 380" stroke="#ffc107" stroke-width="3" fill="none" marker-end="url(#arrowYellow)"/>
+  
+  <!-- To Rapporteringsplikt -->
+  <path d="M 450 300 L 570 380" stroke="#dc3545" stroke-width="3" fill="none" marker-end="url(#arrowRed)"/>
+  
+  <!-- To Betalingsplikt -->
+  <path d="M 340 250 L 190 250" stroke="#17a2b8" stroke-width="3" fill="none" marker-end="url(#arrowCyan)"/>
+  
+  <!-- To Dokumentasjonsplikt -->
+  <path d="M 460 250 L 610 250" stroke="#6c757d" stroke-width="3" fill="none" marker-end="url(#arrowGray)"/>
+  
+  <!-- Arrow markers -->
+  <defs>
+    <marker id="arrowBlue" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#0066cc"/>
+    </marker>
+    <marker id="arrowGreen" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#28a745"/>
+    </marker>
+    <marker id="arrowYellow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#ffc107"/>
+    </marker>
+    <marker id="arrowRed" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#dc3545"/>
+    </marker>
+    <marker id="arrowCyan" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#17a2b8"/>
+    </marker>
+    <marker id="arrowGray" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#6c757d"/>
+    </marker>
+  </defs>
+</svg>

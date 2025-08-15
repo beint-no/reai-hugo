@@ -1,0 +1,138 @@
+<svg width="700" height="900" viewBox="0 0 700 900" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="700" height="900" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="350" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+    Anatomien til en Gyldig Purring
+  </text>
+  
+  <!-- Document outline -->
+  <rect x="100" y="80" width="500" height="700" fill="white" stroke="#bdc3c7" stroke-width="2" rx="10"/>
+  
+  <!-- Header section -->
+  <g transform="translate(120, 100)">
+    <rect x="0" y="0" width="460" height="80" fill="#3498db" fill-opacity="0.1" stroke="#3498db" stroke-width="1" rx="5"/>
+    <text x="10" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">1. AVSENDER INFORMASJON</text>
+    <text x="10" y="40" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Bedriftsnavn AS</text>
+    <text x="10" y="55" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Org.nr: 123 456 789 MVA</text>
+    <text x="10" y="70" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Adresse, Postnummer Sted</text>
+    
+    <!-- Annotation -->
+    <circle cx="470" cy="40" r="3" fill="#e74c3c"/>
+    <line x1="470" y1="40" x2="520" y2="20" stroke="#e74c3c" stroke-width="1"/>
+    <text x="525" y="20" font-family="Arial, sans-serif" font-size="9" fill="#e74c3c">Må inkludere org.nr</text>
+    <text x="525" y="32" font-family="Arial, sans-serif" font-size="9" fill="#e74c3c">og MVA-status</text>
+  </g>
+  
+  <!-- Recipient section -->
+  <g transform="translate(120, 200)">
+    <rect x="0" y="0" width="460" height="60" fill="#f39c12" fill-opacity="0.1" stroke="#f39c12" stroke-width="1" rx="5"/>
+    <text x="10" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">2. MOTTAKER INFORMASJON</text>
+    <text x="10" y="40" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Kunde Navn</text>
+    <text x="10" y="55" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Kundens adresse, Postnummer Sted</text>
+  </g>
+  
+  <!-- Date and reference -->
+  <g transform="translate(120, 280)">
+    <rect x="0" y="0" width="460" height="40" fill="#e67e22" fill-opacity="0.1" stroke="#e67e22" stroke-width="1" rx="5"/>
+    <text x="10" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">3. DATO OG REFERANSE</text>
+    <text x="10" y="35" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Dato: 15. mars 2024 | Vår ref: PURR-2024-001</text>
+  </g>
+  
+  <!-- Subject -->
+  <g transform="translate(120, 340)">
+    <rect x="0" y="0" width="460" height="40" fill="#e74c3c" fill-opacity="0.1" stroke="#e74c3c" stroke-width="1" rx="5"/>
+    <text x="10" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">4. EMNE</text>
+    <text x="10" y="35" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2c3e50">PURRING - Faktura nr. 2024-0123</text>
+    
+    <!-- Annotation -->
+    <circle cx="470" cy="25" r="3" fill="#e74c3c"/>
+    <line x1="470" y1="25" x2="520" y2="10" stroke="#e74c3c" stroke-width="1"/>
+    <text x="525" y="10" font-family="Arial, sans-serif" font-size="9" fill="#e74c3c">Tydelig identifikasjon</text>
+    <text x="525" y="22" font-family="Arial, sans-serif" font-size="9" fill="#e74c3c">av opprinnelig faktura</text>
+  </g>
+  
+  <!-- Main content -->
+  <g transform="translate(120, 400)">
+    <rect x="0" y="0" width="460" height="180" fill="#27ae60" fill-opacity="0.1" stroke="#27ae60" stroke-width="1" rx="5"/>
+    <text x="10" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">5. HOVEDINNHOLD</text>
+    
+    <text x="10" y="40" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Vi viser til faktura nr. 2024-0123 datert 1. februar 2024</text>
+    <text x="10" y="55" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">med forfallsdato 15. februar 2024.</text>
+    
+    <text x="10" y="75" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Fakturaen er fortsatt ikke betalt. Vi krever derfor:</text>
+    
+    <text x="20" y="95" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Hovedstol: kr 10.000,00</text>
+    <text x="20" y="110" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Morarenter (fra 16.02.24): kr 245,00</text>
+    <text x="20" y="125" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Purregebyr: kr 75,00</text>
+    <text x="20" y="145" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2c3e50">Totalt å betale: kr 10.320,00</text>
+    
+    <text x="10" y="170" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50" font-weight="bold">Betalingsfrist: 29. mars 2024 (14 dager)</text>
+    
+    <!-- Annotation -->
+    <circle cx="470" cy="120" r="3" fill="#27ae60"/>
+    <line x1="470" y1="120" x2="520" y2="100" stroke="#27ae60" stroke-width="1"/>
+    <text x="525" y="100" font-family="Arial, sans-serif" font-size="9" fill="#27ae60">Alle beløp må</text>
+    <text x="525" y="112" font-family="Arial, sans-serif" font-size="9" fill="#27ae60">spesifiseres separat</text>
+  </g>
+  
+  <!-- Consequences -->
+  <g transform="translate(120, 600)">
+    <rect x="0" y="0" width="460" height="80" fill="#8e44ad" fill-opacity="0.1" stroke="#8e44ad" stroke-width="1" rx="5"/>
+    <text x="10" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">6. KONSEKVENSER</text>
+    <text x="10" y="40" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Dersom betaling ikke skjer innen fristen, vil saken</text>
+    <text x="10" y="55" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">bli overført til inkassoselskap med tilleggsgebyrer.</text>
+    <text x="10" y="70" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Dette kan påvirke din kredittvurdering.</text>
+    
+    <!-- Annotation -->
+    <circle cx="470" cy="50" r="3" fill="#8e44ad"/>
+    <line x1="470" y1="50" x2="520" y2="35" stroke="#8e44ad" stroke-width="1"/>
+    <text x="525" y="35" font-family="Arial, sans-serif" font-size="9" fill="#8e44ad">Tydelig advarsel om</text>
+    <text x="525" y="47" font-family="Arial, sans-serif" font-size="9" fill="#8e44ad">videre tiltak</text>
+  </g>
+  
+  <!-- Contact info -->
+  <g transform="translate(120, 700)">
+    <rect x="0" y="0" width="460" height="60" fill="#34495e" fill-opacity="0.1" stroke="#34495e" stroke-width="1" rx="5"/>
+    <text x="10" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">7. KONTAKTINFORMASJON</text>
+    <text x="10" y="40" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Ved spørsmål, kontakt oss på telefon 12 34 56 78</text>
+    <text x="10" y="55" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">eller e-post: regnskap@bedrift.no</text>
+    
+    <!-- Annotation -->
+    <circle cx="470" cy="40" r="3" fill="#34495e"/>
+    <line x1="470" y1="40" x2="520" y2="25" stroke="#34495e" stroke-width="1"/>
+    <text x="525" y="25" font-family="Arial, sans-serif" font-size="9" fill="#34495e">Tilgjengelig for</text>
+    <text x="525" y="37" font-family="Arial, sans-serif" font-size="9" fill="#34495e">henvendelser</text>
+  </g>
+  
+  <!-- Legal requirements checklist -->
+  <g transform="translate(50, 820)">
+    <text x="0" y="0" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">Lovpålagte Krav - Sjekkliste:</text>
+    
+    <g transform="translate(0, 20)">
+      <circle cx="5" cy="5" r="3" fill="#27ae60"/>
+      <text x="15" y="9" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">✓ Tydelig identifikasjon av opprinnelig faktura</text>
+    </g>
+    
+    <g transform="translate(250, 20)">
+      <circle cx="5" cy="5" r="3" fill="#27ae60"/>
+      <text x="15" y="9" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">✓ Hovedstol, renter og gebyrer spesifisert</text>
+    </g>
+    
+    <g transform="translate(0, 40)">
+      <circle cx="5" cy="5" r="3" fill="#27ae60"/>
+      <text x="15" y="9" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">✓ Ny betalingsfrist (minimum 14 dager)</text>
+    </g>
+    
+    <g transform="translate(250, 40)">
+      <circle cx="5" cy="5" r="3" fill="#27ae60"/>
+      <text x="15" y="9" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">✓ Konsekvenser ved manglende betaling</text>
+    </g>
+    
+    <g transform="translate(500, 30)">
+      <circle cx="5" cy="5" r="3" fill="#27ae60"/>
+      <text x="15" y="9" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">✓ Kontaktinformasjon</text>
+    </g>
+  </g>
+</svg>

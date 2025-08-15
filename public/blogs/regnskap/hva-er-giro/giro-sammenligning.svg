@@ -1,0 +1,154 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="giroGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3498db;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2980b9;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="creditGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e74c3c;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#c0392b;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="cashGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f39c12;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e67e22;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="modernGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#9b59b6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8e44ad;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+    Sammenligning av Betalingssystemer
+  </text>
+  
+  <!-- Giro (Center Left) -->
+  <g transform="translate(80, 120)">
+    <rect x="0" y="0" width="160" height="180" rx="15" fill="url(#giroGradient)" opacity="0.9"/>
+    <text x="80" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      GIRO
+    </text>
+    <text x="10" y="55" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Fordeler:</text>
+    <text x="10" y="75" font-family="Arial, sans-serif" font-size="10" fill="white">• Lave gebyrer</text>
+    <text x="10" y="90" font-family="Arial, sans-serif" font-size="10" fill="white">• Høy sikkerhet</text>
+    <text x="10" y="105" font-family="Arial, sans-serif" font-size="10" fill="white">• Utmerket regnskap</text>
+    <text x="10" y="120" font-family="Arial, sans-serif" font-size="10" fill="white">• Komplett sporing</text>
+    <text x="10" y="140" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Ulemper:</text>
+    <text x="10" y="155" font-family="Arial, sans-serif" font-size="10" fill="white">• 1-3 dagers behandling</text>
+    <text x="10" y="170" font-family="Arial, sans-serif" font-size="10" fill="white">• Krever bankkonto</text>
+  </g>
+  
+  <!-- Credit Card (Top Right) -->
+  <g transform="translate(560, 120)">
+    <rect x="0" y="0" width="160" height="180" rx="15" fill="url(#creditGradient)" opacity="0.9"/>
+    <text x="80" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      KREDITTKORT
+    </text>
+    <text x="10" y="55" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Fordeler:</text>
+    <text x="10" y="75" font-family="Arial, sans-serif" font-size="10" fill="white">• Øyeblikkelig</text>
+    <text x="10" y="90" font-family="Arial, sans-serif" font-size="10" fill="white">• Høy sikkerhet</text>
+    <text x="10" y="105" font-family="Arial, sans-serif" font-size="10" fill="white">• Forbrukerbeskyttelse</text>
+    <text x="10" y="120" font-family="Arial, sans-serif" font-size="10" fill="white">• Internasjonal bruk</text>
+    <text x="10" y="140" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Ulemper:</text>
+    <text x="10" y="155" font-family="Arial, sans-serif" font-size="10" fill="white">• Høye gebyrer</text>
+    <text x="10" y="170" font-family="Arial, sans-serif" font-size="10" fill="white">• Svindelrisiko</text>
+  </g>
+  
+  <!-- Cash (Bottom Left) -->
+  <g transform="translate(80, 340)">
+    <rect x="0" y="0" width="160" height="180" rx="15" fill="url(#cashGradient)" opacity="0.9"/>
+    <text x="80" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      KONTANT
+    </text>
+    <text x="10" y="55" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Fordeler:</text>
+    <text x="10" y="75" font-family="Arial, sans-serif" font-size="10" fill="white">• Ingen gebyrer</text>
+    <text x="10" y="90" font-family="Arial, sans-serif" font-size="10" fill="white">• Øyeblikkelig</text>
+    <text x="10" y="105" font-family="Arial, sans-serif" font-size="10" fill="white">• Universell aksept</text>
+    <text x="10" y="120" font-family="Arial, sans-serif" font-size="10" fill="white">• Privat</text>
+    <text x="10" y="140" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Ulemper:</text>
+    <text x="10" y="155" font-family="Arial, sans-serif" font-size="10" fill="white">• Ingen sporing</text>
+    <text x="10" y="170" font-family="Arial, sans-serif" font-size="10" fill="white">• Tyveri/tap risiko</text>
+  </g>
+  
+  <!-- Modern Solutions (Bottom Right) -->
+  <g transform="translate(560, 340)">
+    <rect x="0" y="0" width="160" height="180" rx="15" fill="url(#modernGradient)" opacity="0.9"/>
+    <text x="80" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      MODERNE
+    </text>
+    <text x="80" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+      (Vipps, PayPal)
+    </text>
+    <text x="10" y="70" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Fordeler:</text>
+    <text x="10" y="85" font-family="Arial, sans-serif" font-size="10" fill="white">• Rask for små beløp</text>
+    <text x="10" y="100" font-family="Arial, sans-serif" font-size="10" fill="white">• Mobiloptimalisert</text>
+    <text x="10" y="115" font-family="Arial, sans-serif" font-size="10" fill="white">• Brukervennlig</text>
+    <text x="10" y="130" font-family="Arial, sans-serif" font-size="10" fill="white">• Internasjonal</text>
+    <text x="10" y="150" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Ulemper:</text>
+    <text x="10" y="165" font-family="Arial, sans-serif" font-size="10" fill="white">• Høyere kostnader</text>
+  </g>
+  
+  <!-- Comparison Table in Center -->
+  <g transform="translate(280, 150)">
+    <rect x="0" y="0" width="240" height="220" rx="10" fill="white" stroke="#bdc3c7" stroke-width="2" opacity="0.95"/>
+    <text x="120" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+      Sammenligning
+    </text>
+    
+    <!-- Table Headers -->
+    <text x="10" y="50" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#34495e">Aspekt</text>
+    <text x="80" y="50" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#34495e">Giro</text>
+    <text x="130" y="50" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#34495e">Kort</text>
+    <text x="180" y="50" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#34495e">Kontant</text>
+    
+    <!-- Divider line -->
+    <line x1="10" y1="55" x2="230" y2="55" stroke="#bdc3c7" stroke-width="1"/>
+    
+    <!-- Table Rows -->
+    <text x="10" y="75" font-family="Arial, sans-serif" font-size="10" fill="#34495e">Kostnad</text>
+    <text x="80" y="75" font-family="Arial, sans-serif" font-size="10" fill="#27ae60">Lav</text>
+    <text x="130" y="75" font-family="Arial, sans-serif" font-size="10" fill="#e74c3c">Høy</text>
+    <text x="180" y="75" font-family="Arial, sans-serif" font-size="10" fill="#27ae60">Ingen</text>
+    
+    <text x="10" y="95" font-family="Arial, sans-serif" font-size="10" fill="#34495e">Hastighet</text>
+    <text x="80" y="95" font-family="Arial, sans-serif" font-size="10" fill="#f39c12">1-3 dager</text>
+    <text x="130" y="95" font-family="Arial, sans-serif" font-size="10" fill="#27ae60">Øyeblikkelig</text>
+    <text x="180" y="95" font-family="Arial, sans-serif" font-size="10" fill="#27ae60">Øyeblikkelig</text>
+    
+    <text x="10" y="115" font-family="Arial, sans-serif" font-size="10" fill="#34495e">Sikkerhet</text>
+    <text x="80" y="115" font-family="Arial, sans-serif" font-size="10" fill="#27ae60">Høy</text>
+    <text x="130" y="115" font-family="Arial, sans-serif" font-size="10" fill="#27ae60">Høy</text>
+    <text x="180" y="115" font-family="Arial, sans-serif" font-size="10" fill="#e74c3c">Risiko</text>
+    
+    <text x="10" y="135" font-family="Arial, sans-serif" font-size="10" fill="#34495e">Sporing</text>
+    <text x="80" y="135" font-family="Arial, sans-serif" font-size="10" fill="#27ae60">Komplett</text>
+    <text x="130" y="135" font-family="Arial, sans-serif" font-size="10" fill="#27ae60">God</text>
+    <text x="180" y="135" font-family="Arial, sans-serif" font-size="10" fill="#e74c3c">Ingen</text>
+    
+    <text x="10" y="155" font-family="Arial, sans-serif" font-size="10" fill="#34495e">Regnskap</text>
+    <text x="80" y="155" font-family="Arial, sans-serif" font-size="10" fill="#27ae60">Utmerket</text>
+    <text x="130" y="155" font-family="Arial, sans-serif" font-size="10" fill="#f39c12">God</text>
+    <text x="180" y="155" font-family="Arial, sans-serif" font-size="10" fill="#e74c3c">Manuell</text>
+    
+    <text x="10" y="175" font-family="Arial, sans-serif" font-size="10" fill="#34495e">Tilgang</text>
+    <text x="80" y="175" font-family="Arial, sans-serif" font-size="10" fill="#f39c12">Bank</text>
+    <text x="130" y="175" font-family="Arial, sans-serif" font-size="10" fill="#f39c12">Kreditt</text>
+    <text x="180" y="175" font-family="Arial, sans-serif" font-size="10" fill="#27ae60">Alle</text>
+  </g>
+  
+  <!-- Connection arrows -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#7f8c8d" />
+    </marker>
+  </defs>
+  
+  <line x1="240" y1="210" x2="280" y2="210" stroke="#7f8c8d" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="520" y1="210" x2="560" y2="210" stroke="#7f8c8d" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="240" y1="430" x2="280" y2="320" stroke="#7f8c8d" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="520" y1="320" x2="560" y2="430" stroke="#7f8c8d" stroke-width="2" marker-end="url(#arrowhead)"/>
+</svg>

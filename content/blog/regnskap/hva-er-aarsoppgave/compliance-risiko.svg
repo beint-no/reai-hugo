@@ -1,0 +1,86 @@
+<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1e40af;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="#f8fafc"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
+  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white" text-anchor="middle">Compliance-risiko og Regulatoriske Utfordringer</text>
+  
+  <!-- Content area -->
+  <g transform="translate(50, 80)">
+    
+    <!-- Regulatorisk risiko -->
+    <g transform="translate(0, 0)">
+      <rect x="0" y="0" width="340" height="180" fill="#fef2f2" stroke="#ef4444" stroke-width="2" rx="12"/>
+      <text x="170" y="30" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#dc2626" text-anchor="middle">Regulatorisk Risiko</text>
+      
+      <text x="20" y="60" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#dc2626">Regelendringer:</text>
+      <text x="30" y="80" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Nye lover og standarder</text>
+      <text x="30" y="100" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Endret tolkningspraksis</text>
+      <text x="30" y="120" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Korte implementeringsfrister</text>
+      
+      <text x="20" y="150" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#dc2626">Konsekvenser:</text>
+      <text x="30" y="170" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Feil rapportering og sanksjoner</text>
+    </g>
+    
+    <!-- Systemrisiko -->
+    <g transform="translate(360, 0)">
+      <rect x="0" y="0" width="340" height="180" fill="#fefce8" stroke="#facc15" stroke-width="2" rx="12"/>
+      <text x="170" y="30" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#ca8a04" text-anchor="middle">Systemrisiko</text>
+      
+      <text x="20" y="60" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#ca8a04">Teknologiske sårbarheter:</text>
+      <text x="30" y="80" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Systemfeil og nedetid</text>
+      <text x="30" y="100" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Cybersikkerhet og databrudde</text>
+      <text x="30" y="120" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Integrasjonsutfall</text>
+      
+      <text x="20" y="150" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#ca8a04">Datarisiko:</text>
+      <text x="30" y="170" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Tap av kritiske data</text>
+    </g>
+    
+    <!-- Internasjonale utfordringer -->
+    <g transform="translate(0, 200)">
+      <rect x="0" y="0" width="340" height="180" fill="#fce7f3" stroke="#ec4899" stroke-width="2" rx="12"/>
+      <text x="170" y="30" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#be185d" text-anchor="middle">Internasjonale Utfordringer</text>
+      
+      <text x="20" y="60" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#be185d">Jurisdiksjonsutfordringer:</text>
+      <text x="30" y="80" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Forskjellige regelverk</text>
+      <text x="30" y="100" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Koordinering av rapportering</text>
+      <text x="30" y="120" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Valutafluktuasjoner</text>
+      
+      <text x="20" y="150" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#be185d">Transfer pricing:</text>
+      <text x="30" y="170" font-family="Arial, sans-serif" font-size="11" fill="#374151">• OECD-retningslinjer og BEPS</text>
+    </g>
+    
+    <!-- Kompetanserisiko -->
+    <g transform="translate(360, 200)">
+      <rect x="0" y="0" width="340" height="180" fill="#e0e7ff" stroke="#6366f1" stroke-width="2" rx="12"/>
+      <text x="170" y="30" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#4338ca" text-anchor="middle">Kompetanserisiko</text>
+      
+      <text x="20" y="60" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#4338ca">Personavhengighet:</text>
+      <text x="30" y="80" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Nøkkelpersoner uten backup</text>
+      <text x="30" y="100" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Mangel på spesialistkompetanse</text>
+      
+      <text x="20" y="130" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#4338ca">Opplæringsbehov:</text>
+      <text x="30" y="150" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Kontinuerlig kompetanseutvikling</text>
+      <text x="30" y="170" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Tverrfaglig forståelse</text>
+    </g>
+    
+    <!-- Risikostyring -->
+    <g transform="translate(0, 400)">
+      <rect x="0" y="0" width="700" height="80" fill="#ecfdf5" stroke="#10b981" stroke-width="2" rx="8"/>
+      <text x="350" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#059669" text-anchor="middle">Proaktiv Risikostyring</text>
+      <text x="20" y="45" font-family="Arial, sans-serif" font-size="11" fill="#047857">• Etabler robuste systemer for kontinuerlig overvåking av regulatoriske endringer</text>
+      <text x="20" y="60" font-family="Arial, sans-serif" font-size="11" fill="#047857">• Invester i backup-systemer, cybersikkerhet og kontinuitetsplanlegging</text>
+      <text x="20" y="75" font-family="Arial, sans-serif" font-size="11" fill="#047857">• Bygg kompetanse og nettverk for å håndtere komplekse utfordringer</text>
+    </g>
+    
+  </g>
+  
+</svg>

@@ -1,0 +1,73 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">Juridisk Grunnlag for Konsernregulering</text>
+  
+  <!-- Central circle - Konsern -->
+  <circle cx="400" cy="300" r="80" fill="#3498db" stroke="#2980b9" stroke-width="3"/>
+  <text x="400" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">KONSERN</text>
+  <text x="400" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">Regulering</text>
+  
+  <!-- Aksjeloven -->
+  <rect x="100" y="120" width="180" height="100" rx="10" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+  <text x="190" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">AKSJELOVEN</text>
+  <text x="190" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Kapittel 1-5</text>
+  <text x="190" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Konserndefinisjoner</text>
+  <text x="190" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Styringsregler</text>
+  <text x="190" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Aksjonærrettigheter</text>
+  
+  <!-- Regnskapsloven -->
+  <rect x="520" y="120" width="180" height="100" rx="10" fill="#27ae60" stroke="#229954" stroke-width="2"/>
+  <text x="610" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">REGNSKAPSLOVEN</text>
+  <text x="610" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Kapittel 3</text>
+  <text x="610" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Konsernregnskap</text>
+  <text x="610" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Konsolidering</text>
+  <text x="610" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Rapportering</text>
+  
+  <!-- Skatteloven -->
+  <rect x="100" y="480" width="180" height="100" rx="10" fill="#f39c12" stroke="#e67e22" stroke-width="2"/>
+  <text x="190" y="510" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">SKATTELOVEN</text>
+  <text x="190" y="530" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Konsernbeskatning</text>
+  <text x="190" y="545" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Konsernbidrag</text>
+  <text x="190" y="560" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Skatteoptimalisering</text>
+  <text x="190" y="575" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Transfer pricing</text>
+  
+  <!-- Allmennaksjeloven -->
+  <rect x="520" y="480" width="180" height="100" rx="10" fill="#9b59b6" stroke="#8e44ad" stroke-width="2"/>
+  <text x="610" y="505" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">ALLMENNAKSJELOVEN</text>
+  <text x="610" y="525" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Børsnoterte selskaper</text>
+  <text x="610" y="540" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Transparenskrav</text>
+  <text x="610" y="555" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Offentliggjøring</text>
+  <text x="610" y="570" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Corporate governance</text>
+  
+  <!-- Arrows connecting laws to central konsern -->
+  <line x1="280" y1="170" x2="340" y2="250" stroke="#34495e" stroke-width="3" marker-end="url(#arrowhead)"/>
+  <line x1="520" y1="170" x2="460" y2="250" stroke="#34495e" stroke-width="3" marker-end="url(#arrowhead)"/>
+  <line x1="280" y1="530" x2="340" y2="350" stroke="#34495e" stroke-width="3" marker-end="url(#arrowhead)"/>
+  <line x1="520" y1="530" x2="460" y2="350" stroke="#34495e" stroke-width="3" marker-end="url(#arrowhead)"/>
+  
+  <!-- Additional regulatory bodies -->
+  <ellipse cx="400" cy="80" rx="120" ry="30" fill="#95a5a6" stroke="#7f8c8d" stroke-width="2"/>
+  <text x="400" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">BRØNNØYSUNDREGISTRENE</text>
+  <text x="400" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">Registrering og tilsyn</text>
+  
+  <ellipse cx="400" cy="520" rx="100" ry="25" fill="#95a5a6" stroke="#7f8c8d" stroke-width="2"/>
+  <text x="400" y="525" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">FINANSTILSYNET</text>
+  <text x="400" y="540" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">Tilsyn og kontroll</text>
+  
+  <!-- Arrows from regulatory bodies -->
+  <line x1="400" y1="110" x2="400" y2="220" stroke="#7f8c8d" stroke-width="2" marker-end="url(#arrowhead2)"/>
+  <line x1="400" y1="495" x2="400" y2="380" stroke="#7f8c8d" stroke-width="2" marker-end="url(#arrowhead2)"/>
+  
+  <!-- Arrow marker definitions -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>
+    </marker>
+    <marker id="arrowhead2" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#7f8c8d"/>
+    </marker>
+  </defs>
+</svg>

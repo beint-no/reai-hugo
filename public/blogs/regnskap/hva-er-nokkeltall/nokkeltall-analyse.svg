@@ -1,0 +1,126 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .title { font-family: Arial, sans-serif; font-size: 24px; font-weight: bold; fill: #2c3e50; }
+      .step-title { font-family: Arial, sans-serif; font-size: 16px; font-weight: bold; fill: white; }
+      .step-text { font-family: Arial, sans-serif; font-size: 14px; fill: white; }
+      .detail-text { font-family: Arial, sans-serif; font-size: 12px; fill: #2c3e50; }
+      .step1 { fill: #3498db; stroke: #2980b9; stroke-width: 2; }
+      .step2 { fill: #e74c3c; stroke: #c0392b; stroke-width: 2; }
+      .step3 { fill: #2ecc71; stroke: #27ae60; stroke-width: 2; }
+      .step4 { fill: #f39c12; stroke: #e67e22; stroke-width: 2; }
+      .step5 { fill: #9b59b6; stroke: #8e44ad; stroke-width: 2; }
+      .arrow { stroke: #7f8c8d; stroke-width: 3; fill: none; marker-end: url(#arrowhead); }
+      .detail-box { fill: #ecf0f1; stroke: #bdc3c7; stroke-width: 1; rx: 5; }
+    </style>
+    <defs>
+      <marker id="arrowhead" markerWidth="10" markerHeight="7" 
+       refX="9" refY="3.5" orient="auto">
+        <polygon points="0 0, 10 3.5, 0 7" fill="#7f8c8d" />
+      </marker>
+    </defs>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#ffffff"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" class="title">Prosess for Beregning og Analyse av Nøkkeltall</text>
+  
+  <!-- Step 1: Data Collection -->
+  <rect x="50" y="70" width="140" height="80" class="step1" rx="10"/>
+  <text x="120" y="95" text-anchor="middle" class="step-title">1. DATAINNSAMLING</text>
+  <text x="120" y="115" text-anchor="middle" class="step-text">Samle inn</text>
+  <text x="120" y="130" text-anchor="middle" class="step-text">regnskapsdata</text>
+  
+  <rect x="60" y="160" width="120" height="60" class="detail-box"/>
+  <text x="120" y="175" text-anchor="middle" class="detail-text">• Resultatregnskap</text>
+  <text x="120" y="190" text-anchor="middle" class="detail-text">• Balanse</text>
+  <text x="120" y="205" text-anchor="middle" class="detail-text">• Noteopplysninger</text>
+  
+  <!-- Arrow 1 -->
+  <line x1="190" y1="110" x2="230" y2="110" class="arrow"/>
+  
+  <!-- Step 2: Calculate Ratios -->
+  <rect x="240" y="70" width="140" height="80" class="step2" rx="10"/>
+  <text x="310" y="95" text-anchor="middle" class="step-title">2. BEREGNING</text>
+  <text x="310" y="115" text-anchor="middle" class="step-text">Beregn</text>
+  <text x="310" y="130" text-anchor="middle" class="step-text">nøkkeltall</text>
+  
+  <rect x="250" y="160" width="120" height="60" class="detail-box"/>
+  <text x="310" y="175" text-anchor="middle" class="detail-text">• Lønnsomhet</text>
+  <text x="310" y="190" text-anchor="middle" class="detail-text">• Likviditet</text>
+  <text x="310" y="205" text-anchor="middle" class="detail-text">• Soliditet</text>
+  
+  <!-- Arrow 2 -->
+  <line x1="380" y1="110" x2="420" y2="110" class="arrow"/>
+  
+  <!-- Step 3: Historical Comparison -->
+  <rect x="430" y="70" width="140" height="80" class="step3" rx="10"/>
+  <text x="500" y="95" text-anchor="middle" class="step-title">3. SAMMENLIGNING</text>
+  <text x="500" y="115" text-anchor="middle" class="step-text">Sammenlign</text>
+  <text x="500" y="130" text-anchor="middle" class="step-text">over tid</text>
+  
+  <rect x="440" y="160" width="120" height="60" class="detail-box"/>
+  <text x="500" y="175" text-anchor="middle" class="detail-text">• Historiske data</text>
+  <text x="500" y="190" text-anchor="middle" class="detail-text">• Trender</text>
+  <text x="500" y="205" text-anchor="middle" class="detail-text">• Utvikling</text>
+  
+  <!-- Arrow 3 -->
+  <line x1="570" y1="110" x2="610" y2="110" class="arrow"/>
+  
+  <!-- Step 4: Benchmarking -->
+  <rect x="620" y="70" width="140" height="80" class="step4" rx="10"/>
+  <text x="690" y="95" text-anchor="middle" class="step-title">4. BENCHMARKING</text>
+  <text x="690" y="115" text-anchor="middle" class="step-text">Sammenlign med</text>
+  <text x="690" y="130" text-anchor="middle" class="step-text">bransjen</text>
+  
+  <rect x="630" y="160" width="120" height="60" class="detail-box"/>
+  <text x="690" y="175" text-anchor="middle" class="detail-text">• Konkurrenter</text>
+  <text x="690" y="190" text-anchor="middle" class="detail-text">• Bransjegjennomsnitt</text>
+  <text x="690" y="205" text-anchor="middle" class="detail-text">• Beste praksis</text>
+  
+  <!-- Arrow down -->
+  <line x1="690" y1="150" x2="690" y2="270" class="arrow"/>
+  <line x1="690" y1="270" x2="120" y2="270" class="arrow"/>
+  
+  <!-- Step 5: Analysis and Action -->
+  <rect x="50" y="280" width="140" height="80" class="step5" rx="10"/>
+  <text x="120" y="305" text-anchor="middle" class="step-title">5. ANALYSE</text>
+  <text x="120" y="325" text-anchor="middle" class="step-text">Tolkning og</text>
+  <text x="120" y="340" text-anchor="middle" class="step-text">handlingsplan</text>
+  
+  <rect x="60" y="370" width="120" height="60" class="detail-box"/>
+  <text x="120" y="385" text-anchor="middle" class="detail-text">• Identifiser årsaker</text>
+  <text x="120" y="400" text-anchor="middle" class="detail-text">• Forbedringstiltak</text>
+  <text x="120" y="415" text-anchor="middle" class="detail-text">• Oppfølging</text>
+  
+  <!-- Analysis Framework -->
+  <rect x="250" y="300" width="500" height="250" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2" rx="10"/>
+  <text x="500" y="325" text-anchor="middle" class="step-title" fill="#2c3e50">ANALYSEVERKTØY</text>
+  
+  <!-- SWOT-like analysis boxes -->
+  <rect x="270" y="340" width="220" height="90" fill="#d4edda" stroke="#28a745" stroke-width="1" rx="5"/>
+  <text x="380" y="360" text-anchor="middle" class="detail-text" style="font-weight: bold;">STYRKER</text>
+  <text x="380" y="380" text-anchor="middle" class="detail-text">• Høy lønnsomhet</text>
+  <text x="380" y="395" text-anchor="middle" class="detail-text">• God likviditet</text>
+  <text x="380" y="410" text-anchor="middle" class="detail-text">• Sterk soliditet</text>
+  
+  <rect x="510" y="340" width="220" height="90" fill="#f8d7da" stroke="#dc3545" stroke-width="1" rx="5"/>
+  <text x="620" y="360" text-anchor="middle" class="detail-text" style="font-weight: bold;">SVAKHETER</text>
+  <text x="620" y="380" text-anchor="middle" class="detail-text">• Lav omløpshastighet</text>
+  <text x="620" y="395" text-anchor="middle" class="detail-text">• Høy gjeldsgrad</text>
+  <text x="620" y="410" text-anchor="middle" class="detail-text">• Fallende marginer</text>
+  
+  <rect x="270" y="450" width="220" height="80" fill="#fff3cd" stroke="#ffc107" stroke-width="1" rx="5"/>
+  <text x="380" y="470" text-anchor="middle" class="detail-text" style="font-weight: bold;">MULIGHETER</text>
+  <text x="380" y="490" text-anchor="middle" class="detail-text">• Markedsvekst</text>
+  <text x="380" y="505" text-anchor="middle" class="detail-text">• Kostnadsreduksjon</text>
+  <text x="380" y="520" text-anchor="middle" class="detail-text">• Digitalisering</text>
+  
+  <rect x="510" y="450" width="220" height="80" fill="#d1ecf1" stroke="#17a2b8" stroke-width="1" rx="5"/>
+  <text x="620" y="470" text-anchor="middle" class="detail-text" style="font-weight: bold;">TRUSLER</text>
+  <text x="620" y="490" text-anchor="middle" class="detail-text">• Økt konkurranse</text>
+  <text x="620" y="505" text-anchor="middle" class="detail-text">• Regulatoriske endringer</text>
+  <text x="620" y="520" text-anchor="middle" class="detail-text">• Konjunkturnedgang</text>
+</svg>

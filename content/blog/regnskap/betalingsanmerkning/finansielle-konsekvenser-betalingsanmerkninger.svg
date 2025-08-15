@@ -1,0 +1,151 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="beforeGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#10b981;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#059669;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="afterGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ef4444;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#dc2626;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="impactGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f59e0b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#d97706;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8fafc"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1e293b">
+    Finansielle Konsekvenser av Betalingsanmerkninger
+  </text>
+  
+  <!-- Before/After comparison -->
+  <text x="200" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#059669">
+    FØR ANMERKNING
+  </text>
+  <text x="600" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#dc2626">
+    ETTER ANMERKNING
+  </text>
+  
+  <!-- Credit interest rates -->
+  <rect x="50" y="90" width="300" height="80" rx="8" fill="url(#beforeGradient)" stroke="#059669" stroke-width="2"/>
+  <text x="200" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    LÅNERENTE
+  </text>
+  <text x="200" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
+    3-5%
+  </text>
+  <text x="200" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    Markedsrente for bedriftslån
+  </text>
+  
+  <rect x="450" y="90" width="300" height="80" rx="8" fill="url(#afterGradient)" stroke="#dc2626" stroke-width="2"/>
+  <text x="600" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    LÅNERENTE
+  </text>
+  <text x="600" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
+    8-12%
+  </text>
+  <text x="600" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    Risikotillegg 3-7 prosentpoeng
+  </text>
+  
+  <!-- Arrow showing increase -->
+  <path d="M 350 130 L 450 130" stroke="#f59e0b" stroke-width="4" fill="none" marker-end="url(#arrowhead)"/>
+  <text x="400" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#f59e0b">
+    +3-7%
+  </text>
+  
+  <!-- Credit availability -->
+  <rect x="50" y="190" width="300" height="80" rx="8" fill="url(#beforeGradient)" stroke="#059669" stroke-width="2"/>
+  <text x="200" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    KREDITTGRENSE
+  </text>
+  <text x="200" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
+    100%
+  </text>
+  <text x="200" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    Normal kredittvurdering
+  </text>
+  
+  <rect x="450" y="190" width="300" height="80" rx="8" fill="url(#afterGradient)" stroke="#dc2626" stroke-width="2"/>
+  <text x="600" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    KREDITTGRENSE
+  </text>
+  <text x="600" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
+    25-50%
+  </text>
+  <text x="600" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    Kraftig reduksjon eller avslag
+  </text>
+  
+  <!-- Payment terms -->
+  <rect x="50" y="290" width="300" height="80" rx="8" fill="url(#beforeGradient)" stroke="#059669" stroke-width="2"/>
+  <text x="200" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    BETALINGSBETINGELSER
+  </text>
+  <text x="200" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
+    30-60 dager
+  </text>
+  <text x="200" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    Standard leverandørkreditt
+  </text>
+  
+  <rect x="450" y="290" width="300" height="80" rx="8" fill="url(#afterGradient)" stroke="#dc2626" stroke-width="2"/>
+  <text x="600" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    BETALINGSBETINGELSER
+  </text>
+  <text x="600" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
+    Kontant/Forskudd
+  </text>
+  <text x="600" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    Krav om umiddelbar betaling
+  </text>
+  
+  <!-- Economic impact calculation -->
+  <rect x="50" y="400" width="700" height="150" rx="8" fill="url(#impactGradient)" stroke="#d97706" stroke-width="2"/>
+  <text x="400" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+    ØKONOMISK PÅVIRKNING - EKSEMPEL
+  </text>
+  
+  <!-- Example calculation -->
+  <text x="80" y="460" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    Bedrift med 2 mill. kr årlig kreditbehov:
+  </text>
+  
+  <text x="80" y="485" font-family="Arial, sans-serif" font-size="12" fill="white">
+    • FØR anmerkning: 2.000.000 kr × 4% rente = 80.000 kr/år
+  </text>
+  <text x="80" y="505" font-family="Arial, sans-serif" font-size="12" fill="white">
+    • ETTER anmerkning: 2.000.000 kr × 9% rente = 180.000 kr/år
+  </text>
+  <text x="80" y="525" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    ⬆️ Ekstrakostnad: 100.000 kr per år (+125%)
+  </text>
+  
+  <text x="450" y="485" font-family="Arial, sans-serif" font-size="12" fill="white">
+    • Redusert arbeidskapital påvirker drift
+  </text>
+  <text x="450" y="505" font-family="Arial, sans-serif" font-size="12" fill="white">
+    • Tapte forretningsmuligheter (50-100k kr/år)
+  </text>
+  <text x="450" y="525" font-family="Arial, sans-serif" font-size="12" fill="white">
+    • Økt administrasjon og stress (25-50k kr/år)
+  </text>
+  
+  <!-- Bottom summary -->
+  <rect x="50" y="570" width="700" height="25" rx="5" fill="#1e293b"/>
+  <text x="400" y="587" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    Total årlig ekstrakostnad: 175-250.000 kr for en mellomstor bedrift (3-5 års varighet)
+  </text>
+  
+  <!-- Arrow marker -->
+  <defs>
+    <marker id="arrowhead" markerWidth="12" markerHeight="8" refX="12" refY="4" orient="auto">
+      <polygon points="0 0, 12 4, 0 8" fill="#f59e0b"/>
+    </marker>
+  </defs>
+</svg>

@@ -1,0 +1,308 @@
+<!doctype html>
+<html lang="nb">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Regnskapsprogram | ReAI</title>
+  <meta name="description" content="Komplett regnskapssystem med faktura, lønn, bilagsføring og årsoppgjør.">
+  
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<script src="https://cdn.tailwindcss.com?plugins=typography"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        fontFamily: { sans: ['Inter','ui-sans-serif','system-ui','Arial','sans-serif'] },
+        colors: {
+          brand: { DEFAULT: '#111827' },
+          accent: { DEFAULT: '#2563eb' }
+        }
+      }
+    }
+  }
+</script>
+<style>
+   
+  header .header-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #000 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link:hover { background-position: 0; }
+  header .header-link:hover::before { width: 100%; }
+
+  footer .footer-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #ffffff 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link:hover { background-position: 0; }
+  footer .footer-link:hover::before { width: 100%; }
+</style>
+<style>
+   
+  .prose { overflow-wrap: anywhere; word-break: break-word; }
+  .prose img { max-width: 100%; height: auto; }
+  .prose table { display: block; width: 100%; overflow-x: auto; }
+  .prose pre { white-space: pre-wrap; word-break: break-word; overflow-x: auto; }
+  .prose code { word-break: break-word; }
+  .prose iframe, .prose video { max-width: 100%; width: 100%; height: auto; }
+</style>
+<style>
+   
+  button,
+  .btn,
+  a.btn,
+  .button,
+  .cta,
+  .link-button,
+   
+  a.inline-flex.rounded-md,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"] {
+    transition: transform 220ms ease, box-shadow 220ms ease, background-color 220ms ease, color 220ms ease, opacity 220ms ease;
+    will-change: transform, box-shadow;
+  }
+
+  button:hover,
+  .btn:hover,
+  a.btn:hover,
+  .button:hover,
+  .cta:hover,
+  .link-button:hover,
+  a.inline-flex.rounded-md:hover,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+
+  button:active,
+  .btn:active,
+  a.btn:active,
+  .button:active,
+  .cta:active,
+  .link-button:active,
+  a.inline-flex.rounded-md:active,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:active {
+    transform: translateY(-1px) scale(0.99);
+    box-shadow: 0 6px 12px rgba(2, 6, 23, 0.1);
+  }
+
+  button:focus-visible,
+  .btn:focus-visible,
+  a.btn:focus-visible,
+  .button:focus-visible,
+  .cta:focus-visible,
+  .link-button:focus-visible,
+  a.inline-flex.rounded-md:focus-visible,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.35), 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+</style>
+
+<link rel="icon" type="image/svg+xml" href="/images/ReAI-logo-square.svg">
+<link rel="shortcut icon" href="/images/ReAI-logo-square.svg">
+
+</head>
+<body class="min-h-dvh bg-white text-gray-900 font-sans">
+  <header class="sticky top-0 z-40 bg-white/80 backdrop-blur">
+  
+  <div class="border-b border-slate-200/70">
+    <div class="max-w-7xl mx-auto px-4">
+      <div class="h-16 flex items-center justify-between">
+        <a href="/" class="flex items-center gap-2" aria-label="ReAI">
+          <img src="/images/ReAI-logo-square.svg?v=4" alt="ReAI logo" class="h-14 w-14 rounded-md mt-5" width="56" height="56" loading="eager" decoding="async">
+        </a>
+        <nav class="hidden md:block">
+          <ul class="flex items-center gap-5 text-sm">
+            <li><a href="/courses/" class="header-link text-slate-700 hover:text-black">Gratis kurs</a></li>
+            <li><a href="/contact/" class="header-link text-slate-700 hover:text-black">Kontakt oss</a></li>
+            <li><a href="/blog/" class="header-link text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+            <li><a href="/bli-partner/" class="header-link text-slate-700 hover:text-black">Bli partner</a></li>
+            <li><a href="/fakturamal/" class="header-link text-slate-700 hover:text-black">Lag faktura</a></li>
+          </ul>
+        </nav>
+        <button id="mobileMenuBtn" aria-controls="mobileMenu" aria-expanded="false" class="md:hidden inline-flex items-center justify-center h-9 w-9 rounded-md border border-slate-300">
+          <span class="sr-only">Menu</span>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-5 w-5"><path d="M3.75 6.75h16.5v1.5H3.75zM3.75 11.25h16.5v1.5H3.75zM3.75 15.75h16.5v1.5H3.75z"/></svg>
+        </button>
+      </div>
+    </div>
+  </div>
+  
+  <nav id="mobileMenu" class="md:hidden hidden border-b border-slate-200/70 bg-white/95 backdrop-blur">
+    <div class="max-w-7xl mx-auto px-4 py-3">
+      <ul class="flex flex-col items-center gap-3 text-sm text-center">
+        <li><a href="/courses/" class="header-link block text-slate-700 hover:text-black">Gratis kurs</a></li>
+        <li><a href="/contact/" class="header-link block text-slate-700 hover:text-black">Kontakt oss</a></li>
+        <li><a href="/blog/" class="header-link block text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+        <li><a href="/bli-partner/" class="header-link block text-slate-700 hover:text-black">Bli partner</a></li>
+        <li><a href="/fakturamal/" class="header-link block text-slate-700 hover:text-black">Lag faktura</a></li>
+      </ul>
+    </div>
+  </nav>
+  <script>
+    (function() {
+      const btn = document.getElementById('mobileMenuBtn');
+      const menu = document.getElementById('mobileMenu');
+      if (!btn || !menu) return;
+      btn.addEventListener('click', function() {
+        const isHidden = menu.classList.contains('hidden');
+        menu.classList.toggle('hidden');
+        btn.setAttribute('aria-expanded', String(isHidden));
+      });
+    })();
+  </script>
+</header>
+  <main>
+    
+<section class="pt-10 md:pt-14">
+  <div class="max-w-3xl mx-auto px-4">
+    <h1 class="text-3xl font-semibold tracking-tight text-center">Regnskapsprogram</h1>
+    <p class="mt-2 text-gray-700">Regnskapsprogram er sentrale verktøy for norsk bedriftsøkonomi. Oppdag funksjoner, fordeler, integrasjoner og beste praksis i denne veiledningen.</p>
+    <article class="prose max-w-none mt-6"><p><strong>Regnskapsprogram</strong> er hjertet i moderne økonomistyring for norske bedrifter. En <strong>alt-i-ett-løsning</strong> som integrerer funksjoner for bokføring, fakturering, lønn, rapportering og budsjettstyring i ett system.</p>
+<p><img src="regnskapsprogram-image.svg" alt="Regnskapsprogram Oversikt"></p>
+<h2 id="nøkkelfunksjoner-i-regnskapsprogram">Nøkkelfunksjoner i Regnskapsprogram</h2>
+<p>Moderne regnskapsprogrammer tilbyr et bredt spekter av funksjoner for å forenkle og digitalisere økonomiprosesser:</p>
+<ul>
+<li><strong>Automatisert bokføring</strong> med støtte for <a href="/blogs/regnskap/bilag" title="Bilag - Komplett Guide til Regnskapsbilag">bilag</a> og <a href="/blogs/regnskap/hva-er-bokforing" title="Hva er Bokføring? En Komplett Guide til Norsk Bokføringspraksis">bokføring</a>.</li>
+<li><strong>Faktura- og betalingshåndtering</strong> via <a href="/blogs/regnskap/fakturaprogram" title="Fakturaprogram: Automatisert Fakturabehandling for Norske Bedrifter">fakturaprogram</a> og <a href="/blogs/regnskap/hva-er-elektronisk-fakturering" title="Hva er elektronisk fakturering? Komplett Guide til Digitale Fakturaløsninger">elektronisk fakturering</a>.</li>
+<li><strong>Sanntidsrapportering</strong> og dashboards for likviditetsstyring, <a href="/blogs/regnskap/budsjett" title="Budsjett - Guide til Budsjettering og Finansplanlegging">budsjett</a> og nøkkeltall.</li>
+<li><strong>Samarbeid med regnskapsbyrå</strong> for ekstra kompetanse og støtte i komplekse transaksjoner (se <a href="/blogs/regnskap/regnskapsbyra" title="Regnskapsbyrå – Hvordan velge riktig regnskapsbyrå for din bedrift">Regnskapsbyrå</a>).</li>
+<li><strong>Integrasjoner</strong> med bank, <a href="/blogs/regnskap/hva-er-erp-system" title="Hva er ERP-system? Komplett Guide til Enterprise Resource Planning">ERP-systemer</a> og andre forretningsapplikasjoner via <a href="/blogs/regnskap/api-integrasjon-automatisering-regnskap" title="API Integrasjon og Automatisering av Regnskap – Komplett Guide til Digital Regnskapsføring">API-integrasjon og automatisering av regnskap</a>.</li>
+<li><strong>Compliance</strong> og sikkerhet med støtte for MVA, <a href="/blogs/regnskap/hva-er-altinn" title="Hva er Altinn? Komplett Guide til Norges Digitale Offentlige Tjenester">Altinn</a> og innsending av <a href="/blogs/regnskap/hva-er-naeringsoppgave" title="Hva er næringsoppgave? En Guide til Norsk Næringsoppgave">næringsoppgave</a>.</li>
+</ul>
+<h2 id="sammenligning-av-løsningstyper">Sammenligning av Løsningstyper</h2>
+<table>
+  <thead>
+      <tr>
+          <th><strong>Type</strong></th>
+          <th><strong>Beskrivelse</strong></th>
+          <th><strong>Fordeler</strong></th>
+          <th><strong>Ulemper</strong></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>Skybasert</strong></td>
+          <td>Tilgang via nettleser uten lokal installasjon.</td>
+          <td>Skalerbar, automatiske oppdateringer</td>
+          <td>Avhengig av internett</td>
+      </tr>
+      <tr>
+          <td><strong>Lokal installasjon</strong></td>
+          <td>Installert på egne servere eller PC-er lokalt.</td>
+          <td>Full kontroll over data</td>
+          <td>Krever IT-vedlikehold og backup</td>
+      </tr>
+      <tr>
+          <td><strong>Hybrid</strong></td>
+          <td>Kombinerer sky og lokal infrastruktur for fleksibilitet.</td>
+          <td>Balanse mellom kontroll og tilgjengelighet</td>
+          <td>Mer kompleks oppsett</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="hvordan-velge-riktig-regnskapsprogram">Hvordan velge riktig Regnskapsprogram</h2>
+<p>Valg av regnskapsprogram avhenger av bedriftens størrelse, bransje og behov. Vurder følgende kriterier:</p>
+<ul>
+<li><strong>Pris og prismodell:</strong> Abonnement vs. engangslisens.</li>
+<li><strong>Brukervennlighet:</strong> Intuitivt grensesnitt og opplæringsbehov.</li>
+<li><strong>Skalerbarhet:</strong> Antall brukere, transaksjonsvolum og tilleggsmoduler.</li>
+<li><strong>Integrasjoner:</strong> Tilgjengelige koblinger til bank, fakturaprogram og andre systemer.</li>
+<li><strong>Sikkerhet og compliance:</strong> Sertifiseringer, kryptering og datalagring (GDPR).</li>
+</ul>
+<h2 id="implementering-og-beste-praksis">Implementering og beste praksis</h2>
+<p>En vellykket implementering omfatter:</p>
+<ul>
+<li><strong>Kartlegging av prosesser:</strong> Identifiser eksisterende arbeidsflyt og systembruk.</li>
+<li><strong>Datamigrering:</strong> Overfør kunderegister, transaksjoner og historikk.</li>
+<li><strong>Opplæring:</strong> Involver ansatte tidlig for å sikre adopsjon.</li>
+<li><strong>Pilotfase:</strong> Test løsningen med begrenset bruk og kvalitetssikring.</li>
+<li><strong>Kontinuerlig forbedring:</strong> Samle tilbakemeldinger og juster rutiner over tid.</li>
+</ul>
+<h2 id="konklusjon">Konklusjon</h2>
+<p>Et riktig regnskapsprogram gir bedriften oversikt, effektivitet og trygghet i økonomistyringen. Ved å velge en løsning som passer dine behov og integrasjonskrav, får du et kraftig verktøy for fremtidig vekst.</p>
+</article>
+  </div>
+</section>
+
+  </main>
+  <footer class="mt-16 border-t border-slate-800/60 bg-slate-900">
+  <div class="max-w-7xl mx-auto px-4 py-14">
+    <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3 text-center sm:text-left">
+      
+      <div>
+        <h3 class="text-sm font-semibold text-white">Verktøy</h3>
+        <ul class="mt-2 space-y-2 text-sm text-slate-300">
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/finn-iban/">IBAN kalkulator</a></li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/lag-faktura-gratis/">Lag faktura</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Selskaps-informasjon</h3>
+        <ul class="mt-2 space-y-1 text-sm text-slate-300">
+          <li>Reai AS</li>
+          <li>Orgnr: 935606403</li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="mailto:post@reai.no">post@reai.no</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Om ReAI</h3>
+        <p class="mt-2 text-sm text-slate-300">ReAI er et gratis regnskapsprogram laget av tidligere ansatte i Tripletex
+          / Visma. Vi mener det er på tide med mer konkurranse i regnskaps-bransjen som kan komme bedrifter til gode.
+        </p>
+      </div>
+    </div>
+    <div class="mt-12 border-t border-slate-800/60 pt-6 flex flex-col items-center sm:flex-row sm:items-center sm:justify-between text-sm text-slate-400 text-center sm:text-left">
+      <div class="flex items-center gap-2">
+        
+        
+      </div>
+      <div class="mt-4 sm:mt-0 flex items-center justify-center sm:justify-end">
+        <div class="opacity-80">&copy; 2025 ReAI. All rights reserved.</div>
+      </div>
+    </div>
+  </div>
+</footer>
+</body>
+</html>

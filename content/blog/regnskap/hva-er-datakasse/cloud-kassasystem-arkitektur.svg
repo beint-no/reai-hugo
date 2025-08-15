@@ -1,0 +1,202 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+    Cloud-basert Kassasystem Arkitektur
+  </text>
+  
+  <!-- Cloud Infrastructure -->
+  <g transform="translate(300, 80)">
+    <!-- Main cloud -->
+    <ellipse cx="100" cy="60" rx="80" ry="50" fill="#3498db" opacity="0.8"/>
+    <ellipse cx="60" cy="50" rx="50" ry="35" fill="#3498db" opacity="0.8"/>
+    <ellipse cx="140" cy="50" rx="50" ry="35" fill="#3498db" opacity="0.8"/>
+    
+    <text x="100" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      CLOUD
+    </text>
+    <text x="100" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+      KASSASYSTEM
+    </text>
+    
+    <!-- Cloud services -->
+    <g transform="translate(20, 120)">
+      <rect x="0" y="0" width="50" height="30" rx="5" fill="#2980b9"/>
+      <text x="25" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Database</text>
+      
+      <rect x="60" y="0" width="50" height="30" rx="5" fill="#2980b9"/>
+      <text x="85" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">API</text>
+      
+      <rect x="120" y="0" width="50" height="30" rx="5" fill="#2980b9"/>
+      <text x="145" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Backup</text>
+    </g>
+  </g>
+  
+  <!-- POS Terminal 1 -->
+  <g transform="translate(50, 250)">
+    <rect x="0" y="0" width="100" height="80" rx="10" fill="#34495e"/>
+    <rect x="10" y="10" width="80" height="50" fill="#3498db"/>
+    <text x="50" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">KASSE 1</text>
+    <text x="50" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">Butikk</text>
+    
+    <!-- Keyboard -->
+    <rect x="15" y="70" width="70" height="20" rx="3" fill="#95a5a6"/>
+    
+    <!-- Connection line to cloud -->
+    <g stroke="#27ae60" stroke-width="3" fill="none" marker-end="url(#arrowgreen)">
+      <defs>
+        <marker id="arrowgreen" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+          <polygon points="0 0, 10 3.5, 0 7" fill="#27ae60"/>
+        </marker>
+      </defs>
+      <path d="M 100 290 Q 200 250 300 180"/>
+    </g>
+    
+    <text x="50" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">WiFi/4G</text>
+  </g>
+  
+  <!-- POS Terminal 2 -->
+  <g transform="translate(200, 350)">
+    <rect x="0" y="0" width="100" height="80" rx="10" fill="#34495e"/>
+    <rect x="10" y="10" width="80" height="50" fill="#3498db"/>
+    <text x="50" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">KASSE 2</text>
+    <text x="50" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">Lager</text>
+    
+    <!-- Keyboard -->
+    <rect x="15" y="70" width="70" height="20" rx="3" fill="#95a5a6"/>
+    
+    <!-- Connection line to cloud -->
+    <g stroke="#27ae60" stroke-width="3" fill="none" marker-end="url(#arrowgreen)">
+      <path d="M 250 350 Q 320 280 380 180"/>
+    </g>
+    
+    <text x="50" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">WiFi/4G</text>
+  </g>
+  
+  <!-- Mobile Device -->
+  <g transform="translate(550, 280)">
+    <rect x="0" y="0" width="60" height="100" rx="15" fill="#2c3e50"/>
+    <rect x="5" y="15" width="50" height="70" fill="#3498db"/>
+    <text x="30" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">MOBIL</text>
+    <text x="30" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">KASSE</text>
+    <text x="30" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">Marked</text>
+    
+    <!-- Home button -->
+    <circle cx="30" cy="90" r="5" fill="#95a5a6"/>
+    
+    <!-- Connection line to cloud -->
+    <g stroke="#27ae60" stroke-width="3" fill="none" marker-end="url(#arrowgreen)">
+      <path d="M 550 320 Q 500 250 480 180"/>
+    </g>
+    
+    <text x="30" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">4G/5G</text>
+  </g>
+  
+  <!-- Tablet -->
+  <g transform="translate(650, 350)">
+    <rect x="0" y="0" width="80" height="60" rx="10" fill="#2c3e50"/>
+    <rect x="5" y="5" width="70" height="50" fill="#3498db"/>
+    <text x="40" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">TABLET</text>
+    <text x="40" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">Restaurant</text>
+    
+    <!-- Connection line to cloud -->
+    <g stroke="#27ae60" stroke-width="3" fill="none" marker-end="url(#arrowgreen)">
+      <path d="M 650 370 Q 580 300 520 180"/>
+    </g>
+    
+    <text x="40" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">WiFi</text>
+  </g>
+  
+  <!-- Integration Systems -->
+  <g transform="translate(50, 450)">
+    <text x="0" y="0" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">Integrerte Systemer:</text>
+    
+    <!-- Accounting System -->
+    <g transform="translate(0, 30)">
+      <rect x="0" y="0" width="120" height="40" rx="5" fill="#e74c3c"/>
+      <text x="60" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Regnskapssystem</text>
+      
+      <!-- Connection to cloud -->
+      <g stroke="#e74c3c" stroke-width="2" fill="none" marker-end="url(#arrowred)">
+        <defs>
+          <marker id="arrowred" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
+            <polygon points="0 0, 8 3, 0 6" fill="#e74c3c"/>
+          </marker>
+        </defs>
+        <path d="M 120 500 Q 200 400 300 200"/>
+      </g>
+    </g>
+    
+    <!-- Inventory System -->
+    <g transform="translate(150, 30)">
+      <rect x="0" y="0" width="120" height="40" rx="5" fill="#f39c12"/>
+      <text x="60" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Lagersystem</text>
+      
+      <!-- Connection to cloud -->
+      <g stroke="#f39c12" stroke-width="2" fill="none" marker-end="url(#arroworange)">
+        <defs>
+          <marker id="arroworange" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
+            <polygon points="0 0, 8 3, 0 6" fill="#f39c12"/>
+          </marker>
+        </defs>
+        <path d="M 270 500 Q 320 400 380 200"/>
+      </g>
+    </g>
+    
+    <!-- E-commerce -->
+    <g transform="translate(300, 30)">
+      <rect x="0" y="0" width="120" height="40" rx="5" fill="#9b59b6"/>
+      <text x="60" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Nettbutikk</text>
+      
+      <!-- Connection to cloud -->
+      <g stroke="#9b59b6" stroke-width="2" fill="none" marker-end="url(#arrowpurple)">
+        <defs>
+          <marker id="arrowpurple" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
+            <polygon points="0 0, 8 3, 0 6" fill="#9b59b6"/>
+          </marker>
+        </defs>
+        <path d="M 420 500 Q 440 400 460 200"/>
+      </g>
+    </g>
+    
+    <!-- Payment Terminal -->
+    <g transform="translate(450, 30)">
+      <rect x="0" y="0" width="120" height="40" rx="5" fill="#27ae60"/>
+      <text x="60" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Betalingsterminal</text>
+      
+      <!-- Connection to cloud -->
+      <g stroke="#27ae60" stroke-width="2" fill="none" marker-end="url(#arrowgreen2)">
+        <defs>
+          <marker id="arrowgreen2" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
+            <polygon points="0 0, 8 3, 0 6" fill="#27ae60"/>
+          </marker>
+        </defs>
+        <path d="M 570 500 Q 540 400 520 200"/>
+      </g>
+    </g>
+  </g>
+  
+  <!-- Benefits Box -->
+  <g transform="translate(600, 450)">
+    <rect x="0" y="0" width="180" height="120" rx="10" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2"/>
+    <text x="90" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+      Cloud Fordeler
+    </text>
+    
+    <text x="10" y="40" font-family="Arial, sans-serif" font-size="11" fill="#27ae60">✓ Tilgang overalt</text>
+    <text x="10" y="55" font-family="Arial, sans-serif" font-size="11" fill="#27ae60">✓ Automatisk backup</text>
+    <text x="10" y="70" font-family="Arial, sans-serif" font-size="11" fill="#27ae60">✓ Sanntids synkronisering</text>
+    <text x="10" y="85" font-family="Arial, sans-serif" font-size="11" fill="#27ae60">✓ Automatiske oppdateringer</text>
+    <text x="10" y="100" font-family="Arial, sans-serif" font-size="11" fill="#27ae60">✓ Skalerbar løsning</text>
+  </g>
+  
+  <!-- Data Flow Indicators -->
+  <g transform="translate(100, 200)">
+    <text x="0" y="0" font-family="Arial, sans-serif" font-size="12" fill="#27ae60">Sanntids dataflyt</text>
+    <text x="0" y="15" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">• Salgsdata</text>
+    <text x="0" y="28" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">• Lageroppdateringer</text>
+    <text x="0" y="41" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">• Rapporter</text>
+  </g>
+</svg>

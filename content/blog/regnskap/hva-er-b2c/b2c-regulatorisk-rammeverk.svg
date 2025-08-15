@@ -1,0 +1,80 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="500" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" font-size="24" font-weight="bold" text-anchor="middle" fill="#2c3e50">B2C Regulatorisk Rammeverk i Norge</text>
+  
+  <!-- Central government circle -->
+  <circle cx="400" cy="150" r="80" fill="#3498db" stroke="#2c3e50" stroke-width="2"/>
+  <text x="400" y="140" font-size="14" font-weight="bold" text-anchor="middle" fill="white">Norsk</text>
+  <text x="400" y="155" font-size="14" font-weight="bold" text-anchor="middle" fill="white">Regulatorisk</text>
+  <text x="400" y="170" font-size="14" font-weight="bold" text-anchor="middle" fill="white">Rammeverk</text>
+  
+  <!-- Regulatory bodies -->
+  <!-- Forbrukerkjøpsloven -->
+  <rect x="50" y="250" width="140" height="80" fill="#e74c3c" rx="10"/>
+  <text x="120" y="275" font-size="12" font-weight="bold" text-anchor="middle" fill="white">Forbrukerkjøpsloven</text>
+  <text x="120" y="290" font-size="10" text-anchor="middle" fill="white">• Angrerett (14 dager)</text>
+  <text x="120" y="305" font-size="10" text-anchor="middle" fill="white">• Reklamasjon (2 år)</text>
+  <text x="120" y="320" font-size="10" text-anchor="middle" fill="white">• Leveringsfrister</text>
+  
+  <!-- Finanstilsynet -->
+  <rect x="220" y="250" width="140" height="80" fill="#9b59b6" rx="10"/>
+  <text x="290" y="275" font-size="12" font-weight="bold" text-anchor="middle" fill="white">Finanstilsynet</text>
+  <text x="290" y="290" font-size="10" text-anchor="middle" fill="white">• Betalingstjenester</text>
+  <text x="290" y="305" font-size="10" text-anchor="middle" fill="white">• Forsikring</text>
+  <text x="290" y="320" font-size="10" text-anchor="middle" fill="white">• Investeringstjenester</text>
+  
+  <!-- Skatteetaten -->
+  <rect x="390" y="250" width="140" height="80" fill="#27ae60" rx="10"/>
+  <text x="460" y="275" font-size="12" font-weight="bold" text-anchor="middle" fill="white">Skatteetaten</text>
+  <text x="460" y="290" font-size="10" text-anchor="middle" fill="white">• MVA-registrering</text>
+  <text x="460" y="305" font-size="10" text-anchor="middle" fill="white">• Skatteinnkreving</text>
+  <text x="460" y="320" font-size="10" text-anchor="middle" fill="white">• Regnskapsplikt</text>
+  
+  <!-- Datatilsynet -->
+  <rect x="560" y="250" width="140" height="80" fill="#f39c12" rx="10"/>
+  <text x="630" y="275" font-size="12" font-weight="bold" text-anchor="middle" fill="white">Datatilsynet</text>
+  <text x="630" y="290" font-size="10" text-anchor="middle" fill="white">• GDPR-overholdelse</text>
+  <text x="630" y="305" font-size="10" text-anchor="middle" fill="white">• Personvern</text>
+  <text x="630" y="320" font-size="10" text-anchor="middle" fill="white">• Databehandling</text>
+  
+  <!-- Arrows from center to regulatory bodies -->
+  <line x1="340" y1="200" x2="150" y2="240" stroke="#2c3e50" stroke-width="2"/>
+  <line x1="370" y1="220" x2="320" y2="240" stroke="#2c3e50" stroke-width="2"/>
+  <line x1="430" y1="220" x2="490" y2="240" stroke="#2c3e50" stroke-width="2"/>
+  <line x1="460" y1="200" x2="650" y2="240" stroke="#2c3e50" stroke-width="2"/>
+  
+  <!-- EU regulations -->
+  <rect x="50" y="360" width="200" height="100" fill="#34495e" rx="10"/>
+  <text x="150" y="380" font-size="14" font-weight="bold" text-anchor="middle" fill="white">EU-regelverk</text>
+  <text x="150" y="400" font-size="10" text-anchor="middle" fill="white">• Digital Services Act (DSA)</text>
+  <text x="150" y="415" font-size="10" text-anchor="middle" fill="white">• GDPR (Personvern)</text>
+  <text x="150" y="430" font-size="10" text-anchor="middle" fill="white">• PSD2 (Betalingstjenester)</text>
+  <text x="150" y="445" font-size="10" text-anchor="middle" fill="white">• E-commerce Directive</text>
+  
+  <!-- Compliance requirements -->
+  <rect x="280" y="360" width="240" height="100" fill="#1abc9c" rx="10"/>
+  <text x="400" y="380" font-size="14" font-weight="bold" text-anchor="middle" fill="white">Compliance-krav for B2C</text>
+  <text x="400" y="400" font-size="10" text-anchor="middle" fill="white">• Tydelige kjøpsbetingelser</text>
+  <text x="400" y="415" font-size="10" text-anchor="middle" fill="white">• Obligatorisk prisopplysning</text>
+  <text x="400" y="430" font-size="10" text-anchor="middle" fill="white">• Sikker betalingsløsning</text>
+  <text x="400" y="445" font-size="10" text-anchor="middle" fill="white">• Korrekt MVA-behandling</text>
+  
+  <!-- Sanctions -->
+  <rect x="550" y="360" width="200" height="100" fill="#e67e22" rx="10"/>
+  <text x="650" y="380" font-size="14" font-weight="bold" text-anchor="middle" fill="white">Sanksjoner</text>
+  <text x="650" y="400" font-size="10" text-anchor="middle" fill="white">• Bøter og gebyrer</text>
+  <text x="650" y="415" font-size="10" text-anchor="middle" fill="white">• Registertilbaketrekking</text>
+  <text x="650" y="430" font-size="10" text-anchor="middle" fill="white">• Offentlig kritikk</text>
+  <text x="650" y="445" font-size="10" text-anchor="middle" fill="white">• Erstatningsansvar</text>
+  
+  <!-- Arrows to compliance boxes -->
+  <line x1="150" y1="330" x2="150" y2="360" stroke="#2c3e50" stroke-width="2"/>
+  <line x1="400" y1="330" x2="400" y2="360" stroke="#2c3e50" stroke-width="2"/>
+  <line x1="650" y1="330" x2="650" y2="360" stroke="#2c3e50" stroke-width="2"/>
+  
+  <!-- Key message -->
+  <text x="400" y="485" font-size="12" font-weight="bold" text-anchor="middle" fill="#e74c3c">Regulatorisk overholdelse er essensielt for bærekraftig B2C-drift</text>
+</svg>

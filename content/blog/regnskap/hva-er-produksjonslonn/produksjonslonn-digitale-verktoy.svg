@@ -1,0 +1,116 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="digitalGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0ea5e9;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0284c7;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="#ffffff"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="50" fill="url(#digitalGrad)"/>
+  <text x="400" y="32" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">Digitale Verktøy for Produksjonslønn</text>
+  
+  <!-- Central hub -->
+  <circle cx="400" cy="220" r="60" fill="#0ea5e9"/>
+  <text x="400" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">DIGITAL</text>
+  <text x="400" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">LØSNING</text>
+  
+  <!-- ERP System -->
+  <g transform="translate(120, 100)">
+    <rect x="0" y="0" width="120" height="80" fill="#dbeafe" stroke="#3b82f6" stroke-width="2" rx="8"/>
+    <text x="60" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e40af">ERP-SYSTEM</text>
+    <text x="15" y="45" font-family="Arial, sans-serif" font-size="9" fill="#1e40af">• Integrert lønn</text>
+    <text x="15" y="55" font-family="Arial, sans-serif" font-size="9" fill="#1e40af">• Automatisk beregning</text>
+    <text x="15" y="65" font-family="Arial, sans-serif" font-size="9" fill="#1e40af">• Rapportgenerering</text>
+    
+    <!-- Connection line -->
+    <line x1="120" y1="140" x2="340" y2="200" stroke="#3b82f6" stroke-width="3"/>
+  </g>
+  
+  <!-- Production Tracking -->
+  <g transform="translate(560, 100)">
+    <rect x="0" y="0" width="120" height="80" fill="#dcfce7" stroke="#16a34a" stroke-width="2" rx="8"/>
+    <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#15803d">PRODUKSJONS-</text>
+    <text x="60" y="32" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#15803d">SPORING</text>
+    <text x="15" y="50" font-family="Arial, sans-serif" font-size="9" fill="#15803d">• IoT sensorer</text>
+    <text x="15" y="60" font-family="Arial, sans-serif" font-size="9" fill="#15803d">• Sanntidsdata</text>
+    <text x="15" y="70" font-family="Arial, sans-serif" font-size="9" fill="#15803d">• Automatisk telling</text>
+    
+    <!-- Connection line -->
+    <line x1="560" y1="140" x2="460" y2="200" stroke="#16a34a" stroke-width="3"/>
+  </g>
+  
+  <!-- Quality Management -->
+  <g transform="translate(120, 300)">
+    <rect x="0" y="0" width="120" height="80" fill="#fef3c7" stroke="#f59e0b" stroke-width="2" rx="8"/>
+    <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#92400e">KVALITETS-</text>
+    <text x="60" y="32" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#92400e">SYSTEM</text>
+    <text x="15" y="50" font-family="Arial, sans-serif" font-size="9" fill="#92400e">• Feilregistrering</text>
+    <text x="15" y="60" font-family="Arial, sans-serif" font-size="9" fill="#92400e">• Kvalitetsindeks</text>
+    <text x="15" y="70" font-family="Arial, sans-serif" font-size="9" fill="#92400e">• Bonusberegning</text>
+    
+    <!-- Connection line -->
+    <line x1="240" y1="340" x2="340" y2="240" stroke="#f59e0b" stroke-width="3"/>
+  </g>
+  
+  <!-- Mobile App -->
+  <g transform="translate(560, 300)">
+    <rect x="0" y="0" width="120" height="80" fill="#fce7f3" stroke="#ec4899" stroke-width="2" rx="8"/>
+    <text x="60" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#be185d">MOBIL APP</text>
+    <text x="15" y="45" font-family="Arial, sans-serif" font-size="9" fill="#be185d">• Timeregistrering</text>
+    <text x="15" y="55" font-family="Arial, sans-serif" font-size="9" fill="#be185d">• Produksjonsrapport</text>
+    <text x="15" y="65" font-family="Arial, sans-serif" font-size="9" fill="#be185d">• Sanntidsstatus</text>
+    
+    <!-- Connection line -->
+    <line x1="560" y1="340" x2="460" y2="240" stroke="#ec4899" stroke-width="3"/>
+  </g>
+  
+  <!-- Business Intelligence -->
+  <g transform="translate(340, 380)">
+    <rect x="0" y="0" width="120" height="80" fill="#f3e8ff" stroke="#8b5cf6" stroke-width="2" rx="8"/>
+    <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#7c3aed">BUSINESS</text>
+    <text x="60" y="32" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#7c3aed">INTELLIGENCE</text>
+    <text x="15" y="50" font-family="Arial, sans-serif" font-size="9" fill="#7c3aed">• Analysedashboard</text>
+    <text x="15" y="60" font-family="Arial, sans-serif" font-size="9" fill="#7c3aed">• Trendanalyse</text>
+    <text x="15" y="70" font-family="Arial, sans-serif" font-size="9" fill="#7c3aed">• Prediktiv analyse</text>
+    
+    <!-- Connection line -->
+    <line x1="400" y1="380" x2="400" y2="280" stroke="#8b5cf6" stroke-width="3"/>
+  </g>
+  
+  <!-- Feature comparison table -->
+  <rect x="50" y="400" width="300" height="80" fill="#f8fafc" stroke="#64748b" stroke-width="2" rx="8"/>
+  <text x="200" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1f2937">Tradisjonell vs Digital</text>
+  
+  <text x="70" y="440" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#374151">Tradisjonell:</text>
+  <text x="70" y="452" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Manuell registrering</text>
+  <text x="70" y="462" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Feilpotensial høyt</text>
+  <text x="70" y="472" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Tidkrevende</text>
+  
+  <text x="200" y="440" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#374151">Digital:</text>
+  <text x="200" y="452" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Automatisk registrering</text>
+  <text x="200" y="462" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Redusert feilrate</text>
+  <text x="200" y="472" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Sanntidsdata</text>
+  
+  <!-- Implementation benefits -->
+  <rect x="450" y="400" width="300" height="80" fill="#f0fdf4" stroke="#16a34a" stroke-width="2" rx="8"/>
+  <text x="600" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#15803d">Implementeringsgevinster</text>
+  
+  <g transform="translate(470, 430)">
+    <rect x="0" y="0" width="12" height="12" fill="#10b981" rx="2"/>
+    <text x="20" y="10" font-family="Arial, sans-serif" font-size="10" fill="#15803d">70% reduksjon i administrasjonstid</text>
+  </g>
+  
+  <g transform="translate(470, 445)">
+    <rect x="0" y="0" width="12" height="12" fill="#10b981" rx="2"/>
+    <text x="20" y="10" font-family="Arial, sans-serif" font-size="10" fill="#15803d">90% færre feil i lønnsberegning</text>
+  </g>
+  
+  <g transform="translate(470, 460)">
+    <rect x="0" y="0" width="12" height="12" fill="#10b981" rx="2"/>
+    <text x="20" y="10" font-family="Arial, sans-serif" font-size="10" fill="#15803d">Sanntids innsikt i produksjonsdata</text>
+  </g>
+</svg>

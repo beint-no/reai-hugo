@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="120">
+  <style>
+    .title { font: bold 16px sans-serif; }
+    .node { font: 14px sans-serif; }
+    .box { fill: #eef; stroke: #77a; stroke-width: 2px; }
+    .arrow { fill: none; stroke: #555; stroke-width: 2px; marker-end: url(#arrowhead); }
+  </style>
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#555"/>
+    </marker>
+  </defs>
+  <text class="title" x="200" y="20">SWIFT Meldingsflyt</text>
+  <text class="node" x="20" y="70">Bank A</text>
+  <rect class="box" x="200" y="40" width="200" height="40"/>
+  <text class="node" x="240" y="68">SWIFT-nettverket</text>
+  <text class="node" x="460" y="70">Bank B</text>
+  <path class="arrow" d="M80,60 L200,60"/>
+  <path class="arrow" d="M400,60 L520,60"/>
+</svg>

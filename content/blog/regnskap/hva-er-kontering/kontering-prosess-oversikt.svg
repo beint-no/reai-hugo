@@ -1,0 +1,176 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="stepGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#0066cc">
+    Konteringsprosessen - Oversikt
+  </text>
+  
+  <!-- Step 1: Bilag -->
+  <rect x="50" y="80" width="140" height="100" fill="url(#stepGradient)" rx="10"/>
+  <text x="120" y="110" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+    1. BILAG
+  </text>
+  <text x="120" y="130" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+    Faktura
+  </text>
+  <text x="120" y="145" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+    Kvittering
+  </text>
+  <text x="120" y="160" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+    Banktransaksjon
+  </text>
+  
+  <!-- Arrow 1 -->
+  <path d="M 200 130 L 250 130" stroke="#0066cc" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#0066cc"/>
+    </marker>
+  </defs>
+  
+  <!-- Step 2: Analyse -->
+  <rect x="270" y="80" width="140" height="100" fill="#28a745" rx="10"/>
+  <text x="340" y="110" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+    2. ANALYSE
+  </text>
+  <text x="340" y="130" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+    Transaksjonens art
+  </text>
+  <text x="340" y="145" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+    Beløp &amp; MVA
+  </text>
+  <text x="340" y="160" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+    Periode
+  </text>
+  
+  <!-- Arrow 2 -->
+  <path d="M 420 130 L 470 130" stroke="#28a745" stroke-width="3" fill="none" marker-end="url(#arrowhead2)"/>
+  <defs>
+    <marker id="arrowhead2" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#28a745"/>
+    </marker>
+  </defs>
+  
+  <!-- Step 3: Kontovalg -->
+  <rect x="490" y="80" width="140" height="100" fill="#ffc107" rx="10"/>
+  <text x="560" y="110" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="black">
+    3. KONTOVALG
+  </text>
+  <text x="560" y="130" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="black">
+    Hovedkonto
+  </text>
+  <text x="560" y="145" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="black">
+    Motkonto
+  </text>
+  <text x="560" y="160" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="black">
+    Hjelpekonto
+  </text>
+  
+  <!-- Arrow down -->
+  <path d="M 560 190 L 560 240" stroke="#ffc107" stroke-width="3" fill="none" marker-end="url(#arrowhead3)"/>
+  <defs>
+    <marker id="arrowhead3" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#ffc107"/>
+    </marker>
+  </defs>
+  
+  <!-- Step 4: Debet/Kredit -->
+  <rect x="490" y="260" width="140" height="100" fill="#dc3545" rx="10"/>
+  <text x="560" y="290" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+    4. DEBET/KREDIT
+  </text>
+  <text x="560" y="310" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+    Bestem side
+  </text>
+  <text x="560" y="325" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+    av kontoen
+  </text>
+  <text x="560" y="340" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+    Balansering
+  </text>
+  
+  <!-- Arrow left -->
+  <path d="M 480 310 L 430 310" stroke="#dc3545" stroke-width="3" fill="none" marker-end="url(#arrowhead4)"/>
+  <defs>
+    <marker id="arrowhead4" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#dc3545"/>
+    </marker>
+  </defs>
+  
+  <!-- Step 5: Registrering -->
+  <rect x="270" y="260" width="140" height="100" fill="#6f42c1" rx="10"/>
+  <text x="340" y="290" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+    5. REGISTRERING
+  </text>
+  <text x="340" y="310" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+    Regnskapssystem
+  </text>
+  <text x="340" y="325" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+    Bilagsreferanse
+  </text>
+  <text x="340" y="340" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+    Beskrivelse
+  </text>
+  
+  <!-- Arrow left -->
+  <path d="M 260 310 L 210 310" stroke="#6f42c1" stroke-width="3" fill="none" marker-end="url(#arrowhead5)"/>
+  <defs>
+    <marker id="arrowhead5" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#6f42c1"/>
+    </marker>
+  </defs>
+  
+  <!-- Step 6: Kontroll -->
+  <rect x="50" y="260" width="140" height="100" fill="#17a2b8" rx="10"/>
+  <text x="120" y="290" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+    6. KONTROLL
+  </text>
+  <text x="120" y="310" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+    Avstemming
+  </text>
+  <text x="120" y="325" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+    Balansekontroll
+  </text>
+  <text x="120" y="340" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+    Rapporter
+  </text>
+  
+  <!-- Central Process Circle -->
+  <circle cx="340" cy="195" r="25" fill="#ffffff" stroke="#0066cc" stroke-width="3"/>
+  <text x="340" y="202" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0066cc">
+    K
+  </text>
+  
+  <!-- Bottom Description -->
+  <text x="400" y="420" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#495057">
+    Systematisk prosess for korrekt kontering av alle transaksjoner
+  </text>
+  
+  <!-- Quality Indicators -->
+  <rect x="650" y="380" width="120" height="80" fill="#e8f5e8" stroke="#28a745" stroke-width="2" rx="8"/>
+  <text x="710" y="400" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#28a745">
+    KVALITET
+  </text>
+  <text x="710" y="420" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#28a745">
+    ✓ Nøyaktighet
+  </text>
+  <text x="710" y="435" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#28a745">
+    ✓ Konsistens
+  </text>
+  <text x="710" y="450" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#28a745">
+    ✓ Sporbarhet
+  </text>
+</svg>

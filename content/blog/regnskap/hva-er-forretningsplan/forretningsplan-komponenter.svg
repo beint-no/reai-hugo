@@ -1,0 +1,210 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="componentGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#004499;stop-opacity:0.8" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="url(#bgGradient)"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#212529">
+    Forretningsplanens Hovedkomponenter
+  </text>
+  
+  <!-- Central hub -->
+  <g transform="translate(350, 250)">
+    <circle cx="50" cy="50" r="50" fill="url(#componentGradient)" stroke="#003366" stroke-width="3"/>
+    <text x="50" y="45" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+      Forretnings-
+    </text>
+    <text x="50" y="60" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+      plan
+    </text>
+  </g>
+  
+  <!-- Component 1: Business Description -->
+  <g transform="translate(50, 80)">
+    <rect x="0" y="0" width="160" height="100" fill="#e8f5e8" stroke="#28a745" stroke-width="2" rx="10"/>
+    <text x="80" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#155724">
+      Virksomhetsbeskrivelse
+    </text>
+    <text x="80" y="35" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#155724">
+      og Markedsanalyse
+    </text>
+    
+    <g transform="translate(10, 50)">
+      <circle cx="6" cy="6" r="4" fill="#28a745"/>
+      <text x="15" y="10" font-family="Arial, sans-serif" font-size="9" fill="#155724">Bransjetilhørighet</text>
+    </g>
+    <g transform="translate(10, 65)">
+      <circle cx="6" cy="6" r="4" fill="#28a745"/>
+      <text x="15" y="10" font-family="Arial, sans-serif" font-size="9" fill="#155724">Aktivitetstype</text>
+    </g>
+    <g transform="translate(10, 80)">
+      <circle cx="6" cy="6" r="4" fill="#28a745"/>
+      <text x="15" y="10" font-family="Arial, sans-serif" font-size="9" fill="#155724">Geografisk virkeområde</text>
+    </g>
+  </g>
+  
+  <!-- Arrow from component 1 to center -->
+  <g transform="translate(210, 150)">
+    <path d="M0,0 L120,80 L115,74 M120,80 L114,86" stroke="#28a745" stroke-width="2" fill="none"/>
+  </g>
+  
+  <!-- Component 2: Organization -->
+  <g transform="translate(590, 80)">
+    <rect x="0" y="0" width="160" height="100" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="10"/>
+    <text x="80" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#856404">
+      Organisasjonsstruktur
+    </text>
+    <text x="80" y="35" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#856404">
+      og Ledelse
+    </text>
+    
+    <g transform="translate(10, 50)">
+      <circle cx="6" cy="6" r="4" fill="#ffc107"/>
+      <text x="15" y="10" font-family="Arial, sans-serif" font-size="9" fill="#856404">Eierstruktur</text>
+    </g>
+    <g transform="translate(10, 65)">
+      <circle cx="6" cy="6" r="4" fill="#ffc107"/>
+      <text x="15" y="10" font-family="Arial, sans-serif" font-size="9" fill="#856404">Ledelsesstruktur</text>
+    </g>
+    <g transform="translate(10, 80)">
+      <circle cx="6" cy="6" r="4" fill="#ffc107"/>
+      <text x="15" y="10" font-family="Arial, sans-serif" font-size="9" fill="#856404">Avdelingsstruktur</text>
+    </g>
+  </g>
+  
+  <!-- Arrow from component 2 to center -->
+  <g transform="translate(590, 150)">
+    <path d="M0,0 L-120,80 L-115,74 M-120,80 L-114,86" stroke="#ffc107" stroke-width="2" fill="none"/>
+  </g>
+  
+  <!-- Component 3: Products and Services -->
+  <g transform="translate(50, 420)">
+    <rect x="0" y="0" width="160" height="100" fill="#f8d7da" stroke="#dc3545" stroke-width="2" rx="10"/>
+    <text x="80" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#721c24">
+      Produkter og
+    </text>
+    <text x="80" y="35" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#721c24">
+      Tjenester
+    </text>
+    
+    <g transform="translate(10, 50)">
+      <circle cx="6" cy="6" r="4" fill="#dc3545"/>
+      <text x="15" y="10" font-family="Arial, sans-serif" font-size="9" fill="#721c24">Inntektsføring</text>
+    </g>
+    <g transform="translate(10, 65)">
+      <circle cx="6" cy="6" r="4" fill="#dc3545"/>
+      <text x="15" y="10" font-family="Arial, sans-serif" font-size="9" fill="#721c24">Lagerføring</text>
+    </g>
+    <g transform="translate(10, 80)">
+      <circle cx="6" cy="6" r="4" fill="#dc3545"/>
+      <text x="15" y="10" font-family="Arial, sans-serif" font-size="9" fill="#721c24">MVA-behandling</text>
+    </g>
+  </g>
+  
+  <!-- Arrow from component 3 to center -->
+  <g transform="translate(210, 420)">
+    <path d="M0,0 L120,-80 L115,-74 M120,-80 L114,-86" stroke="#dc3545" stroke-width="2" fill="none"/>
+  </g>
+  
+  <!-- Component 4: Financial Planning -->
+  <g transform="translate(590, 420)">
+    <rect x="0" y="0" width="160" height="100" fill="#d1ecf1" stroke="#17a2b8" stroke-width="2" rx="10"/>
+    <text x="80" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0c5460">
+      Finansiell
+    </text>
+    <text x="80" y="35" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0c5460">
+      Planlegging
+    </text>
+    
+    <g transform="translate(10, 50)">
+      <circle cx="6" cy="6" r="4" fill="#17a2b8"/>
+      <text x="15" y="10" font-family="Arial, sans-serif" font-size="9" fill="#0c5460">Resultatbudsjett</text>
+    </g>
+    <g transform="translate(10, 65)">
+      <circle cx="6" cy="6" r="4" fill="#17a2b8"/>
+      <text x="15" y="10" font-family="Arial, sans-serif" font-size="9" fill="#0c5460">Likviditetsbudsjett</text>
+    </g>
+    <g transform="translate(10, 80)">
+      <circle cx="6" cy="6" r="4" fill="#17a2b8"/>
+      <text x="15" y="10" font-family="Arial, sans-serif" font-size="9" fill="#0c5460">Balansebudsjett</text>
+    </g>
+  </g>
+  
+  <!-- Arrow from component 4 to center -->
+  <g transform="translate(590, 420)">
+    <path d="M0,0 L-120,-80 L-115,-74 M-120,-80 L-114,-86" stroke="#17a2b8" stroke-width="2" fill="none"/>
+  </g>
+  
+  <!-- Component 5: Risk Analysis -->
+  <g transform="translate(320, 80)">
+    <rect x="0" y="0" width="160" height="80" fill="#e2e3e5" stroke="#6c757d" stroke-width="2" rx="10"/>
+    <text x="80" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#495057">
+      Risikoanalyse og
+    </text>
+    <text x="80" y="35" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#495057">
+      Scenarioplanlegging
+    </text>
+    
+    <g transform="translate(10, 50)">
+      <circle cx="6" cy="6" r="4" fill="#6c757d"/>
+      <text x="15" y="10" font-family="Arial, sans-serif" font-size="9" fill="#495057">Finansielle risikoer</text>
+    </g>
+    <g transform="translate(80, 50)">
+      <circle cx="6" cy="6" r="4" fill="#6c757d"/>
+      <text x="15" y="10" font-family="Arial, sans-serif" font-size="9" fill="#495057">Operasjonelle risikoer</text>
+    </g>
+  </g>
+  
+  <!-- Arrow from component 5 to center -->
+  <g transform="translate(400, 160)">
+    <path d="M0,0 L0,70 L-6,65 M0,70 L6,65" stroke="#6c757d" stroke-width="2" fill="none"/>
+  </g>
+  
+  <!-- Component 6: Implementation -->
+  <g transform="translate(320, 480)">
+    <rect x="0" y="0" width="160" height="80" fill="#d4edda" stroke="#155724" stroke-width="2" rx="10"/>
+    <text x="80" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#155724">
+      Implementering og
+    </text>
+    <text x="80" y="35" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#155724">
+      Oppfølging
+    </text>
+    
+    <g transform="translate(10, 50)">
+      <circle cx="6" cy="6" r="4" fill="#155724"/>
+      <text x="15" y="10" font-family="Arial, sans-serif" font-size="9" fill="#155724">Budsjettoppfølging</text>
+    </g>
+    <g transform="translate(80, 50)">
+      <circle cx="6" cy="6" r="4" fill="#155724"/>
+      <text x="15" y="10" font-family="Arial, sans-serif" font-size="9" fill="#155724">Revidering</text>
+    </g>
+  </g>
+  
+  <!-- Arrow from center to component 6 -->
+  <g transform="translate(400, 350)">
+    <path d="M0,0 L0,70 L-6,65 M0,70 L6,65" stroke="#155724" stroke-width="2" fill="none"/>
+  </g>
+  
+  <!-- Integration indicators -->
+  <g transform="translate(300, 200)">
+    <text x="100" y="0" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#495057">
+      Regnskapsmessige Implikasjoner
+    </text>
+  </g>
+  
+  <!-- Curved connection lines showing integration -->
+  <path d="M 230,130 Q 400,200 570,130" stroke="#6c757d" stroke-width="1" stroke-dasharray="3,3" fill="none"/>
+  <path d="M 230,470 Q 400,400 570,470" stroke="#6c757d" stroke-width="1" stroke-dasharray="3,3" fill="none"/>
+  <path d="M 130,200 Q 200,300 130,400" stroke="#6c757d" stroke-width="1" stroke-dasharray="3,3" fill="none"/>
+  <path d="M 670,200 Q 600,300 670,400" stroke="#6c757d" stroke-width="1" stroke-dasharray="3,3" fill="none"/>
+</svg>

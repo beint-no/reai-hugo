@@ -1,0 +1,100 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="cardGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f8f9fa;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="400" fill="url(#bgGradient)"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#2c3e50">
+    Frikortgrense i Norge
+  </text>
+  
+  <!-- Main card -->
+  <rect x="50" y="70" width="700" height="280" rx="15" ry="15" fill="url(#cardGradient)" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Tax-free zone illustration -->
+  <rect x="80" y="100" width="300" height="80" rx="8" ry="8" fill="#d4edda" stroke="#28a745" stroke-width="2"/>
+  <text x="230" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#155724">
+    SKATTEFRI SONE
+  </text>
+  <text x="230" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#155724">
+    Inntekt opp til 69.300 kr
+  </text>
+  <text x="230" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#155724">
+    (Ordinær frikortgrense)
+  </text>
+  
+  <!-- Taxable zone illustration -->
+  <rect x="420" y="100" width="300" height="80" rx="8" ry="8" fill="#f8d7da" stroke="#dc3545" stroke-width="2"/>
+  <text x="570" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#721c24">
+    SKATTEPLIKTIG SONE
+  </text>
+  <text x="570" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#721c24">
+    Inntekt over frikortgrensen
+  </text>
+  <text x="570" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#721c24">
+    (Ordinær skattesats)
+  </text>
+  
+  <!-- Arrow between zones -->
+  <path d="M 390 140 L 410 140" stroke="#6c757d" stroke-width="3" marker-end="url(#arrowhead)"/>
+  
+  <!-- Arrow marker -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#6c757d"/>
+    </marker>
+  </defs>
+  
+  <!-- Key benefits -->
+  <text x="100" y="220" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
+    Hovedfordeler med frikort:
+  </text>
+  
+  <!-- Benefit 1 -->
+  <circle cx="120" cy="245" r="4" fill="#28a745"/>
+  <text x="140" y="250" font-family="Arial, sans-serif" font-size="14" fill="#2c3e50">
+    Ingen skattetrekk på lav inntekt
+  </text>
+  
+  <!-- Benefit 2 -->
+  <circle cx="120" cy="270" r="4" fill="#28a745"/>
+  <text x="140" y="275" font-family="Arial, sans-serif" font-size="14" fill="#2c3e50">
+    Særlig gunstig for studenter og pensjonister
+  </text>
+  
+  <!-- Benefit 3 -->
+  <circle cx="120" cy="295" r="4" fill="#28a745"/>
+  <text x="140" y="300" font-family="Arial, sans-serif" font-size="14" fill="#2c3e50">
+    Enkel digital søknadsprosess
+  </text>
+  
+  <!-- Important note -->
+  <rect x="420" y="210" width="300" height="110" rx="8" ry="8" fill="#fff3cd" stroke="#ffc107" stroke-width="2"/>
+  <text x="570" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#856404">
+    Viktig å huske:
+  </text>
+  <text x="440" y="255" font-family="Arial, sans-serif" font-size="12" fill="#856404">
+    • Må søkes på nytt hvert år
+  </text>
+  <text x="440" y="275" font-family="Arial, sans-serif" font-size="12" fill="#856404">
+    • Gjelder kun hos én arbeidsgiver
+  </text>
+  <text x="440" y="295" font-family="Arial, sans-serif" font-size="12" fill="#856404">
+    • Overvåk total årsinntekt
+  </text>
+  
+  <!-- Footer -->
+  <text x="400" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
+    Frikortgrense sikrer at personer med lav inntekt ikke betaler skatt på grunnleggende inntekt
+  </text>
+</svg>

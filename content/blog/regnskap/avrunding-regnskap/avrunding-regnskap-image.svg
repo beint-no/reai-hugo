@@ -1,0 +1,81 @@
+<svg width="600" height="400" viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="600" height="400" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="300" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+    Avrunding i Regnskap
+  </text>
+  
+  <!-- Main container -->
+  <rect x="50" y="70" width="500" height="300" fill="white" stroke="#2c3e50" stroke-width="2" rx="10"/>
+  
+  <!-- Left side - Before rounding -->
+  <rect x="70" y="90" width="220" height="40" fill="#3498db" opacity="0.8"/>
+  <text x="180" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    FØR AVRUNDING
+  </text>
+  
+  <!-- Before rounding examples -->
+  <text x="80" y="150" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+    Omsetning: 1.234.567,89 kr
+  </text>
+  <text x="80" y="170" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+    Kostnader: 987.654,32 kr
+  </text>
+  <text x="80" y="190" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+    Resultat: 246.913,57 kr
+  </text>
+  <text x="80" y="210" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+    Aktiva: 5.678.901,23 kr
+  </text>
+  
+  <!-- Arrow -->
+  <path d="M 300 200 L 330 200 M 320 190 L 330 200 L 320 210" stroke="#e74c3c" stroke-width="3" fill="none"/>
+  <text x="315" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e74c3c">
+    AVRUNDING
+  </text>
+  
+  <!-- Right side - After rounding -->
+  <rect x="340" y="90" width="190" height="40" fill="#27ae60" opacity="0.8"/>
+  <text x="435" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    ETTER AVRUNDING
+  </text>
+  
+  <!-- After rounding examples -->
+  <text x="350" y="150" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+    Omsetning: 1.235 tkr
+  </text>
+  <text x="350" y="170" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+    Kostnader: 988 tkr
+  </text>
+  <text x="350" y="190" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+    Resultat: 247 tkr
+  </text>
+  <text x="350" y="210" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+    Aktiva: 5.679 tkr
+  </text>
+  
+  <!-- Key principles box -->
+  <rect x="70" y="240" width="460" height="110" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1" rx="5"/>
+  <text x="300" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+    NØKKELPRINSIPPER FOR AVRUNDING
+  </text>
+  
+  <!-- Principles list -->
+  <text x="90" y="280" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    • Konsistens gjennom hele regnskapet
+  </text>
+  <text x="90" y="295" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    • Følg regnskapsloven § 7-1
+  </text>
+  <text x="90" y="310" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    • Dokumenter avrundingsprinsipper
+  </text>
+  <text x="90" y="325" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    • Kontroller avrundingsdifferanser
+  </text>
+  <text x="90" y="340" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    • Sikre balanse stemmer etter avrunding
+  </text>
+</svg>

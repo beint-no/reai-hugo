@@ -1,0 +1,181 @@
+<svg width="800" height="650" viewBox="0 0 800 650" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="compGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#4338ca;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3730a3;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="650" fill="#f9fafb"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="60" fill="url(#compGrad)"/>
+  <text x="400" y="40" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="22" font-weight="bold">Sammenligning av Kapitalbegreper</text>
+  
+  <!-- Table structure -->
+  <g transform="translate(30, 80)">
+    <!-- Table headers -->
+    <rect x="0" y="0" width="120" height="40" fill="#374151"/>
+    <text x="60" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="13" font-weight="bold">Begrep</text>
+    
+    <rect x="120" y="0" width="150" height="40" fill="#374151"/>
+    <text x="195" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="13" font-weight="bold">Inkluderer</text>
+    
+    <rect x="270" y="0" width="150" height="40" fill="#374151"/>
+    <text x="345" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="13" font-weight="bold">Ekskluderer</text>
+    
+    <rect x="420" y="0" width="150" height="40" fill="#374151"/>
+    <text x="495" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="13" font-weight="bold">Formål</text>
+    
+    <rect x="570" y="0" width="180" height="40" fill="#374151"/>
+    <text x="660" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="13" font-weight="bold">Nøkkeltall</text>
+    
+    <!-- Row 1: Sysselsatt kapital -->
+    <rect x="0" y="40" width="120" height="60" fill="#dbeafe"/>
+    <text x="60" y="60" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Sysselsatt</text>
+    <text x="60" y="75" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Kapital</text>
+    
+    <rect x="120" y="40" width="150" height="60" fill="#f0f9ff"/>
+    <text x="125" y="55" fill="#1e40af" font-family="Arial, sans-serif" font-size="10">• Egenkapital</text>
+    <text x="125" y="68" fill="#1e40af" font-family="Arial, sans-serif" font-size="10">• Rentebærende gjeld</text>
+    <text x="125" y="81" fill="#1e40af" font-family="Arial, sans-serif" font-size="10">• Alle eiendeler</text>
+    <text x="125" y="94" fill="#1e40af" font-family="Arial, sans-serif" font-size="10">- Rentefri gjeld</text>
+    
+    <rect x="270" y="40" width="150" height="60" fill="#f0f9ff"/>
+    <text x="275" y="55" fill="#1e40af" font-family="Arial, sans-serif" font-size="10">• Leverandørgjeld</text>
+    <text x="275" y="68" fill="#1e40af" font-family="Arial, sans-serif" font-size="10">• Offentlige avgifter</text>
+    <text x="275" y="81" fill="#1e40af" font-family="Arial, sans-serif" font-size="10">• Påløpte kostnader</text>
+    <text x="275" y="94" fill="#1e40af" font-family="Arial, sans-serif" font-size="10">• Forhåndsbetaling</text>
+    
+    <rect x="420" y="40" width="150" height="60" fill="#f0f9ff"/>
+    <text x="425" y="60" fill="#1e40af" font-family="Arial, sans-serif" font-size="10">Måle total</text>
+    <text x="425" y="73" fill="#1e40af" font-family="Arial, sans-serif" font-size="10">kapitaleffektivitet</text>
+    <text x="425" y="86" fill="#1e40af" font-family="Arial, sans-serif" font-size="10">og produktivitet</text>
+    
+    <rect x="570" y="40" width="180" height="60" fill="#f0f9ff"/>
+    <text x="575" y="55" fill="#1e40af" font-family="Arial, sans-serif" font-size="10">• ROCE</text>
+    <text x="575" y="68" fill="#1e40af" font-family="Arial, sans-serif" font-size="10">• Kapitalomsetning</text>
+    <text x="575" y="81" fill="#1e40af" font-family="Arial, sans-serif" font-size="10">• Kapitalvekst</text>
+    
+    <!-- Row 2: Egenkapital -->
+    <rect x="0" y="100" width="120" height="60" fill="#dcfce7"/>
+    <text x="60" y="125" text-anchor="middle" fill="#166534" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Egenkapital</text>
+    
+    <rect x="120" y="100" width="150" height="60" fill="#f0fdf4"/>
+    <text x="125" y="115" fill="#166534" font-family="Arial, sans-serif" font-size="10">• Aksjekapital</text>
+    <text x="125" y="128" fill="#166534" font-family="Arial, sans-serif" font-size="10">• Opptjent egenkapital</text>
+    <text x="125" y="141" fill="#166534" font-family="Arial, sans-serif" font-size="10">• Overkursfond</text>
+    <text x="125" y="154" fill="#166534" font-family="Arial, sans-serif" font-size="10">• Fond</text>
+    
+    <rect x="270" y="100" width="150" height="60" fill="#f0fdf4"/>
+    <text x="275" y="125" fill="#166534" font-family="Arial, sans-serif" font-size="10">• All gjeld</text>
+    <text x="275" y="138" fill="#166534" font-family="Arial, sans-serif" font-size="10">• Forpliktelser</text>
+    <text x="275" y="151" fill="#166534" font-family="Arial, sans-serif" font-size="10">til kreditorer</text>
+    
+    <rect x="420" y="100" width="150" height="60" fill="#f0fdf4"/>
+    <text x="425" y="120" fill="#166534" font-family="Arial, sans-serif" font-size="10">Måle eiernes</text>
+    <text x="425" y="133" fill="#166534" font-family="Arial, sans-serif" font-size="10">investering og</text>
+    <text x="425" y="146" fill="#166534" font-family="Arial, sans-serif" font-size="10">finansiell stabilitet</text>
+    
+    <rect x="570" y="100" width="180" height="60" fill="#f0fdf4"/>
+    <text x="575" y="115" fill="#166534" font-family="Arial, sans-serif" font-size="10">• ROE</text>
+    <text x="575" y="128" fill="#166534" font-family="Arial, sans-serif" font-size="10">• Egenkapitalandel</text>
+    <text x="575" y="141" fill="#166534" font-family="Arial, sans-serif" font-size="10">• Gjeldsgrad</text>
+    <text x="575" y="154" fill="#166534" font-family="Arial, sans-serif" font-size="10">• Soliditetsgrad</text>
+    
+    <!-- Row 3: Arbeidskapital -->
+    <rect x="0" y="160" width="120" height="60" fill="#fef3c7"/>
+    <text x="60" y="180" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Arbeids-</text>
+    <text x="60" y="195" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="12" font-weight="bold">kapital</text>
+    
+    <rect x="120" y="160" width="150" height="60" fill="#fffbeb"/>
+    <text x="125" y="175" fill="#92400e" font-family="Arial, sans-serif" font-size="10">• Omløpsmidler</text>
+    <text x="125" y="188" fill="#92400e" font-family="Arial, sans-serif" font-size="10">- Kortsiktig gjeld</text>
+    <text x="125" y="201" fill="#92400e" font-family="Arial, sans-serif" font-size="10">• Kontanter, lager,</text>
+    <text x="125" y="214" fill="#92400e" font-family="Arial, sans-serif" font-size="10">kundefordringer</text>
+    
+    <rect x="270" y="160" width="150" height="60" fill="#fffbeb"/>
+    <text x="275" y="185" fill="#92400e" font-family="Arial, sans-serif" font-size="10">• Anleggsmidler</text>
+    <text x="275" y="198" fill="#92400e" font-family="Arial, sans-serif" font-size="10">• Langsiktig gjeld</text>
+    <text x="275" y="211" fill="#92400e" font-family="Arial, sans-serif" font-size="10">• Egenkapital</text>
+    
+    <rect x="420" y="160" width="150" height="60" fill="#fffbeb"/>
+    <text x="425" y="180" fill="#92400e" font-family="Arial, sans-serif" font-size="10">Måle kortsiktig</text>
+    <text x="425" y="193" fill="#92400e" font-family="Arial, sans-serif" font-size="10">likviditet og</text>
+    <text x="425" y="206" fill="#92400e" font-family="Arial, sans-serif" font-size="10">driftskapital</text>
+    
+    <rect x="570" y="160" width="180" height="60" fill="#fffbeb"/>
+    <text x="575" y="175" fill="#92400e" font-family="Arial, sans-serif" font-size="10">• Arbeidskapitalandel</text>
+    <text x="575" y="188" fill="#92400e" font-family="Arial, sans-serif" font-size="10">• Likviditetsgrad</text>
+    <text x="575" y="201" fill="#92400e" font-family="Arial, sans-serif" font-size="10">• Kontantkonvertering</text>
+    
+    <!-- Row 4: Total kapital -->
+    <rect x="0" y="220" width="120" height="60" fill="#f3e8ff"/>
+    <text x="60" y="245" text-anchor="middle" fill="#7c2d12" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Total Kapital</text>
+    
+    <rect x="120" y="220" width="150" height="60" fill="#faf5ff"/>
+    <text x="125" y="235" fill="#7c2d12" font-family="Arial, sans-serif" font-size="10">• Alle eiendeler</text>
+    <text x="125" y="248" fill="#7c2d12" font-family="Arial, sans-serif" font-size="10">• Balansens</text>
+    <text x="125" y="261" fill="#7c2d12" font-family="Arial, sans-serif" font-size="10">aktivaside</text>
+    <text x="125" y="274" fill="#7c2d12" font-family="Arial, sans-serif" font-size="10">• Hele porteføljen</text>
+    
+    <rect x="270" y="220" width="150" height="60" fill="#faf5ff"/>
+    <text x="275" y="250" fill="#7c2d12" font-family="Arial, sans-serif" font-size="10">• Ingen</text>
+    <text x="275" y="263" fill="#7c2d12" font-family="Arial, sans-serif" font-size="10">(Inkluderer alt)</text>
+    
+    <rect x="420" y="220" width="150" height="60" fill="#faf5ff"/>
+    <text x="425" y="240" fill="#7c2d12" font-family="Arial, sans-serif" font-size="10">Måle total størrelse</text>
+    <text x="425" y="253" fill="#7c2d12" font-family="Arial, sans-serif" font-size="10">og ressursbase</text>
+    <text x="425" y="266" fill="#7c2d12" font-family="Arial, sans-serif" font-size="10">til selskapet</text>
+    
+    <rect x="570" y="220" width="180" height="60" fill="#faf5ff"/>
+    <text x="575" y="235" fill="#7c2d12" font-family="Arial, sans-serif" font-size="10">• ROA</text>
+    <text x="575" y="248" fill="#7c2d12" font-family="Arial, sans-serif" font-size="10">• Kapitalomsetning</text>
+    <text x="575" y="261" fill="#7c2d12" font-family="Arial, sans-serif" font-size="10">• Balansesum</text>
+  </g>
+  
+  <!-- Usage scenarios -->
+  <g transform="translate(30, 370)">
+    <rect x="0" y="0" width="740" height="30" fill="#6b7280"/>
+    <text x="370" y="20" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Når Brukes Hvert Begrep?</text>
+    
+    <rect x="0" y="30" width="370" height="120" fill="#f0fdf4" stroke="#16a34a" stroke-width="2" rx="8"/>
+    <text x="15" y="50" fill="#166534" font-family="Arial, sans-serif" font-size="14" font-weight="bold">🎯 Sysselsatt Kapital</text>
+    <text x="15" y="70" fill="#166534" font-family="Arial, sans-serif" font-size="12">• Analyse av total kapitaleffektivitet</text>
+    <text x="15" y="85" fill="#166534" font-family="Arial, sans-serif" font-size="12">• Sammenligning av ROCE mellom selskaper</text>
+    <text x="15" y="100" fill="#166534" font-family="Arial, sans-serif" font-size="12">• Vurdering av investeringsbeslutninger</text>
+    <text x="15" y="115" fill="#166534" font-family="Arial, sans-serif" font-size="12">• Benchmarking av kapitalproduktivitet</text>
+    <text x="15" y="130" fill="#166534" font-family="Arial, sans-serif" font-size="12">• Strategisk kapitalplanlegging</text>
+    
+    <rect x="370" y="30" width="370" height="120" fill="#dbeafe" stroke="#3b82f6" stroke-width="2" rx="8"/>
+    <text x="385" y="50" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold">💰 Egenkapital</text>
+    <text x="385" y="70" fill="#1e40af" font-family="Arial, sans-serif" font-size="12">• Analyse av finansiell stabilitet</text>
+    <text x="385" y="85" fill="#1e40af" font-family="Arial, sans-serif" font-size="12">• Beregning av egenkapitalrentabilitet (ROE)</text>
+    <text x="385" y="100" fill="#1e40af" font-family="Arial, sans-serif" font-size="12">• Vurdering av gjeldsgrad og risiko</text>
+    <text x="385" y="115" fill="#1e40af" font-family="Arial, sans-serif" font-size="12">• Utbyttepolitikk og kapitalstruktur</text>
+    <text x="385" y="130" fill="#1e40af" font-family="Arial, sans-serif" font-size="12">• Soliditetsvurdering</text>
+    
+    <rect x="0" y="160" width="370" height="100" fill="#fef3c7" stroke="#d97706" stroke-width="2" rx="8"/>
+    <text x="15" y="180" fill="#92400e" font-family="Arial, sans-serif" font-size="14" font-weight="bold">⚡ Arbeidskapital</text>
+    <text x="15" y="200" fill="#92400e" font-family="Arial, sans-serif" font-size="12">• Analyse av kortsiktig likviditet</text>
+    <text x="15" y="215" fill="#92400e" font-family="Arial, sans-serif" font-size="12">• Vurdering av betalingsevne</text>
+    <text x="15" y="230" fill="#92400e" font-family="Arial, sans-serif" font-size="12">• Optimalisering av kontantstrøm</text>
+    <text x="15" y="245" fill="#92400e" font-family="Arial, sans-serif" font-size="12">• Driftseffektivitet og lagerstyring</text>
+    
+    <rect x="370" y="160" width="370" height="100" fill="#f3e8ff" stroke="#8b5cf6" stroke-width="2" rx="8"/>
+    <text x="385" y="180" fill="#7c2d12" font-family="Arial, sans-serif" font-size="14" font-weight="bold">📊 Total Kapital</text>
+    <text x="385" y="200" fill="#7c2d12" font-family="Arial, sans-serif" font-size="12">• Måle total størrelse og ressursbase</text>
+    <text x="385" y="215" fill="#7c2d12" font-family="Arial, sans-serif" font-size="12">• Sammenligning av selskapsstørrelse</text>
+    <text x="385" y="230" fill="#7c2d12" font-family="Arial, sans-serif" font-size="12">• Beregning av total avkastning (ROA)</text>
+    <text x="385" y="245" fill="#7c2d12" font-family="Arial, sans-serif" font-size="12">• Kapasitetsvurderinger</text>
+  </g>
+  
+  <!-- Key insight -->
+  <rect x="30" y="580" width="740" height="50" fill="#f8fafc" stroke="#374151" stroke-width="1" rx="5"/>
+  <text x="50" y="600" fill="#374151" font-family="Arial, sans-serif" font-size="13" font-weight="bold">💡 Hovedforskjell:</text>
+  <text x="160" y="600" fill="#374151" font-family="Arial, sans-serif" font-size="12">Sysselsatt kapital fokuserer på kapital som</text>
+  <text x="350" y="600" fill="#dc2626" font-family="Arial, sans-serif" font-size="12" font-weight="bold">aktivt genererer avkastning</text>
+  <text x="480" y="600" fill="#374151" font-family="Arial, sans-serif" font-size="12">og ekskluderer derfor</text>
+  <text x="50" y="615" fill="#374151" font-family="Arial, sans-serif" font-size="12">rentefrie forpliktelser som ikke krever kompensasjon til kapitalgivere.</text>
+</svg>

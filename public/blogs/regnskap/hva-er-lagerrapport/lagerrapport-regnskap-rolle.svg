@@ -1,0 +1,81 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="balanceGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#10b981;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#059669;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="resultGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="cashflowGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#f59e0b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#d97706;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="#ffffff"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e293b">Lagerrapportens Rolle i Regnskapet</text>
+  
+  <!-- Central Lagerrapport -->
+  <circle cx="400" cy="250" r="80" fill="#f1f5f9" stroke="#64748b" stroke-width="3"/>
+  <text x="400" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">LAGER-</text>
+  <text x="400" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">RAPPORT</text>
+  
+  <!-- Balance section -->
+  <rect x="50" y="80" width="200" height="120" fill="url(#balanceGradient)" rx="10"/>
+  <text x="150" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">BALANSE</text>
+  <text x="150" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Aktiva - Omløpsmidler</text>
+  <text x="150" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Lagerverdier som eiendeler</text>
+  <text x="150" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Påvirker finansiell stilling</text>
+  
+  <!-- Result section -->
+  <rect x="550" y="80" width="200" height="120" fill="url(#resultGradient)" rx="10"/>
+  <text x="650" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">RESULTAT</text>
+  <text x="650" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Kostpris solgte varer</text>
+  <text x="650" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Lagerendringer</text>
+  <text x="650" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Påvirker lønnsomhet</text>
+  
+  <!-- Cash flow section -->
+  <rect x="300" y="380" width="200" height="100" fill="url(#cashflowGradient)" rx="10"/>
+  <text x="400" y="410" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">KONTANTSTRØM</text>
+  <text x="400" y="435" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Arbeidskapital</text>
+  <text x="400" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Lagerinvesteringer</text>
+  
+  <!-- Arrows from center to sections -->
+  <path d="M 340 200 L 200 160" stroke="#64748b" stroke-width="3" fill="none" marker-end="url(#arrowhead1)"/>
+  <path d="M 460 200 L 600 160" stroke="#64748b" stroke-width="3" fill="none" marker-end="url(#arrowhead2)"/>
+  <path d="M 400 330 L 400 380" stroke="#64748b" stroke-width="3" fill="none" marker-end="url(#arrowhead3)"/>
+  
+  <!-- Arrow markers -->
+  <defs>
+    <marker id="arrowhead1" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#64748b"/>
+    </marker>
+    <marker id="arrowhead2" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#64748b"/>
+    </marker>
+    <marker id="arrowhead3" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#64748b"/>
+    </marker>
+  </defs>
+  
+  <!-- Key impacts boxes -->
+  <rect x="80" y="220" width="140" height="80" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" rx="5"/>
+  <text x="150" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">Regnskapsmessige</text>
+  <text x="150" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">Konsekvenser:</text>
+  <text x="150" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#475569">• Verdivurdering</text>
+  <text x="150" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#475569">• Avskrivninger</text>
+  
+  <rect x="580" y="220" width="140" height="80" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" rx="5"/>
+  <text x="650" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">Operasjonelle</text>
+  <text x="650" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">Påvirkninger:</text>
+  <text x="650" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#475569">• Bruttofortjeneste</text>
+  <text x="650" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#475569">• Driftsresultat</text>
+  
+  <!-- Bottom note -->
+  <text x="400" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#64748b">Lagerrapporter påvirker alle hovedområder i regnskapet og er kritiske for korrekt finansiell rapportering</text>
+</svg>

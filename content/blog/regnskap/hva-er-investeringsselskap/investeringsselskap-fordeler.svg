@@ -1,0 +1,195 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <radialGradient id="centerGradient" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#28a745;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#155724;stop-opacity:0.9" />
+    </radialGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
+    Fordeler med Investeringsselskaper
+  </text>
+  
+  <!-- Central circle -->
+  <circle cx="400" cy="250" r="80" fill="url(#centerGradient)" stroke="#155724" stroke-width="3"/>
+  <text x="400" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    Investerings-
+  </text>
+  <text x="400" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    selskap
+  </text>
+  <text x="400" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    Fordeler
+  </text>
+  
+  <!-- Benefit 1: Professional Management -->
+  <rect x="50" y="80" width="200" height="100" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="10"/>
+  <circle cx="150" cy="110" r="15" fill="#1976d2"/>
+  <text x="150" y="118" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    1
+  </text>
+  <text x="150" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0d47a1">
+    Profesjonell Forvaltning
+  </text>
+  <text x="60" y="160" font-family="Arial, sans-serif" font-size="11" fill="#1565c0">
+    • Erfarne forvaltere
+  </text>
+  <text x="60" y="175" font-family="Arial, sans-serif" font-size="11" fill="#1565c0">
+    • Markedskunnskap
+  </text>
+  
+  <!-- Benefit 2: Diversification -->
+  <rect x="550" y="80" width="200" height="100" fill="#fff3e0" stroke="#f57c00" stroke-width="2" rx="10"/>
+  <circle cx="650" cy="110" r="15" fill="#f57c00"/>
+  <text x="650" y="118" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    2
+  </text>
+  <text x="650" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#e65100">
+    Diversifisering
+  </text>
+  <text x="560" y="160" font-family="Arial, sans-serif" font-size="11" fill="#f57c00">
+    • Spredning av risiko
+  </text>
+  <text x="560" y="175" font-family="Arial, sans-serif" font-size="11" fill="#f57c00">
+    • Mange investeringer
+  </text>
+  
+  <!-- Benefit 3: Low Minimum Investment -->
+  <rect x="50" y="320" width="200" height="100" fill="#e8f5e8" stroke="#2e7d32" stroke-width="2" rx="10"/>
+  <circle cx="150" cy="350" r="15" fill="#2e7d32"/>
+  <text x="150" y="358" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    3
+  </text>
+  <text x="150" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1b5e20">
+    Lave Minimumsinvesteringer
+  </text>
+  <text x="60" y="400" font-family="Arial, sans-serif" font-size="11" fill="#2e7d32">
+    • Tilgang med små beløp
+  </text>
+  <text x="60" y="415" font-family="Arial, sans-serif" font-size="11" fill="#2e7d32">
+    • Demokratisert investering
+  </text>
+  
+  <!-- Benefit 4: Liquidity -->
+  <rect x="550" y="320" width="200" height="100" fill="#f3e5f5" stroke="#7b1fa2" stroke-width="2" rx="10"/>
+  <circle cx="650" cy="350" r="15" fill="#7b1fa2"/>
+  <text x="650" y="358" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    4
+  </text>
+  <text x="650" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#4a148c">
+    Likviditet
+  </text>
+  <text x="560" y="400" font-family="Arial, sans-serif" font-size="11" fill="#7b1fa2">
+    • Enkel inn- og utgang
+  </text>
+  <text x="560" y="415" font-family="Arial, sans-serif" font-size="11" fill="#7b1fa2">
+    • Daglig handel
+  </text>
+  
+  <!-- Benefit 5: Cost Efficiency -->
+  <rect x="300" y="60" width="200" height="80" fill="#ffebee" stroke="#c62828" stroke-width="2" rx="10"/>
+  <circle cx="400" cy="85" r="12" fill="#c62828"/>
+  <text x="400" y="92" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+    5
+  </text>
+  <text x="400" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#b71c1c">
+    Kostnadseffektivitet
+  </text>
+  <text x="310" y="125" font-family="Arial, sans-serif" font-size="10" fill="#c62828">
+    • Stordriftsfordeler • Delte kostnader
+  </text>
+  
+  <!-- Benefit 6: Transparency -->
+  <rect x="300" y="360" width="200" height="80" fill="#e1f5fe" stroke="#0277bd" stroke-width="2" rx="10"/>
+  <circle cx="400" cy="385" r="12" fill="#0277bd"/>
+  <text x="400" y="392" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+    6
+  </text>
+  <text x="400" y="410" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#01579b">
+    Transparens
+  </text>
+  <text x="310" y="425" font-family="Arial, sans-serif" font-size="10" fill="#0277bd">
+    • Regelmessig rapportering • Åpen info
+  </text>
+  
+  <!-- Connection lines from center to benefits -->
+  <line x1="330" y1="200" x2="200" y2="130" stroke="#6c757d" stroke-width="2" stroke-dasharray="3,3"/>
+  <line x1="470" y1="200" x2="600" y2="130" stroke="#6c757d" stroke-width="2" stroke-dasharray="3,3"/>
+  <line x1="330" y1="300" x2="200" y2="370" stroke="#6c757d" stroke-width="2" stroke-dasharray="3,3"/>
+  <line x1="470" y1="300" x2="600" y2="370" stroke="#6c757d" stroke-width="2" stroke-dasharray="3,3"/>
+  <line x1="400" y1="170" x2="400" y2="140" stroke="#6c757d" stroke-width="2" stroke-dasharray="3,3"/>
+  <line x1="400" y1="330" x2="400" y2="360" stroke="#6c757d" stroke-width="2" stroke-dasharray="3,3"/>
+  
+  <!-- Additional benefits box -->
+  <rect x="50" y="200" width="150" height="120" fill="#fff" stroke="#28a745" stroke-width="2" rx="5"/>
+  <text x="125" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#155724">
+    Ekstra Fordeler
+  </text>
+  <text x="60" y="240" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    ✓ Regulatorisk beskyttelse
+  </text>
+  <text x="60" y="255" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    ✓ Profesjonell risikostyring
+  </text>
+  <text x="60" y="270" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    ✓ Tilgang til ekspertise
+  </text>
+  <text x="60" y="285" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    ✓ Automatisk reinvestering
+  </text>
+  <text x="60" y="300" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    ✓ Skatteoptimalisering
+  </text>
+  
+  <!-- Comparison with individual investing -->
+  <rect x="600" y="200" width="150" height="120" fill="#fff" stroke="#dc3545" stroke-width="2" rx="5"/>
+  <text x="675" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#721c24">
+    vs. Individuell Investering
+  </text>
+  <text x="610" y="240" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    ✗ Høyere minimumsinvestering
+  </text>
+  <text x="610" y="255" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    ✗ Begrenset diversifisering
+  </text>
+  <text x="610" y="270" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    ✗ Mer tidkrevende
+  </text>
+  <text x="610" y="285" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    ✗ Høyere transaksjonskost
+  </text>
+  <text x="610" y="300" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    ✗ Krever mer kunnskap
+  </text>
+  
+  <!-- Key statistics -->
+  <rect x="250" y="200" width="100" height="100" fill="#f8f9fa" stroke="#6c757d" stroke-width="1" rx="5"/>
+  <text x="300" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#212529">
+    Nøkkeltall
+  </text>
+  <text x="260" y="240" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    Min.invest: 100-1000kr
+  </text>
+  <text x="260" y="255" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    Gebyrer: 0.5-2.5%
+  </text>
+  <text x="260" y="270" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    Likviditet: Daglig
+  </text>
+  <text x="260" y="285" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    Regulering: Streng
+  </text>
+  
+  <!-- Footer -->
+  <text x="400" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
+    Investeringsselskaper tilbyr mange fordeler sammenlignet med individuell investering
+  </text>
+</svg>

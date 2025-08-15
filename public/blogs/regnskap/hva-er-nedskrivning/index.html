@@ -1,0 +1,612 @@
+<!doctype html>
+<html lang="nb">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Hva er Nedskrivning i Regnskap? | ReAI</title>
+  <meta name="description" content="Komplett regnskapssystem med faktura, lønn, bilagsføring og årsoppgjør.">
+  
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<script src="https://cdn.tailwindcss.com?plugins=typography"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        fontFamily: { sans: ['Inter','ui-sans-serif','system-ui','Arial','sans-serif'] },
+        colors: {
+          brand: { DEFAULT: '#111827' },
+          accent: { DEFAULT: '#2563eb' }
+        }
+      }
+    }
+  }
+</script>
+<style>
+   
+  header .header-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #000 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link:hover { background-position: 0; }
+  header .header-link:hover::before { width: 100%; }
+
+  footer .footer-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #ffffff 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link:hover { background-position: 0; }
+  footer .footer-link:hover::before { width: 100%; }
+</style>
+<style>
+   
+  .prose { overflow-wrap: anywhere; word-break: break-word; }
+  .prose img { max-width: 100%; height: auto; }
+  .prose table { display: block; width: 100%; overflow-x: auto; }
+  .prose pre { white-space: pre-wrap; word-break: break-word; overflow-x: auto; }
+  .prose code { word-break: break-word; }
+  .prose iframe, .prose video { max-width: 100%; width: 100%; height: auto; }
+</style>
+<style>
+   
+  button,
+  .btn,
+  a.btn,
+  .button,
+  .cta,
+  .link-button,
+   
+  a.inline-flex.rounded-md,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"] {
+    transition: transform 220ms ease, box-shadow 220ms ease, background-color 220ms ease, color 220ms ease, opacity 220ms ease;
+    will-change: transform, box-shadow;
+  }
+
+  button:hover,
+  .btn:hover,
+  a.btn:hover,
+  .button:hover,
+  .cta:hover,
+  .link-button:hover,
+  a.inline-flex.rounded-md:hover,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+
+  button:active,
+  .btn:active,
+  a.btn:active,
+  .button:active,
+  .cta:active,
+  .link-button:active,
+  a.inline-flex.rounded-md:active,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:active {
+    transform: translateY(-1px) scale(0.99);
+    box-shadow: 0 6px 12px rgba(2, 6, 23, 0.1);
+  }
+
+  button:focus-visible,
+  .btn:focus-visible,
+  a.btn:focus-visible,
+  .button:focus-visible,
+  .cta:focus-visible,
+  .link-button:focus-visible,
+  a.inline-flex.rounded-md:focus-visible,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.35), 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+</style>
+
+<link rel="icon" type="image/svg+xml" href="/images/ReAI-logo-square.svg">
+<link rel="shortcut icon" href="/images/ReAI-logo-square.svg">
+
+</head>
+<body class="min-h-dvh bg-white text-gray-900 font-sans">
+  <header class="sticky top-0 z-40 bg-white/80 backdrop-blur">
+  
+  <div class="border-b border-slate-200/70">
+    <div class="max-w-7xl mx-auto px-4">
+      <div class="h-16 flex items-center justify-between">
+        <a href="/" class="flex items-center gap-2" aria-label="ReAI">
+          <img src="/images/ReAI-logo-square.svg?v=4" alt="ReAI logo" class="h-14 w-14 rounded-md mt-5" width="56" height="56" loading="eager" decoding="async">
+        </a>
+        <nav class="hidden md:block">
+          <ul class="flex items-center gap-5 text-sm">
+            <li><a href="/courses/" class="header-link text-slate-700 hover:text-black">Gratis kurs</a></li>
+            <li><a href="/contact/" class="header-link text-slate-700 hover:text-black">Kontakt oss</a></li>
+            <li><a href="/blog/" class="header-link text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+            <li><a href="/bli-partner/" class="header-link text-slate-700 hover:text-black">Bli partner</a></li>
+            <li><a href="/fakturamal/" class="header-link text-slate-700 hover:text-black">Lag faktura</a></li>
+          </ul>
+        </nav>
+        <button id="mobileMenuBtn" aria-controls="mobileMenu" aria-expanded="false" class="md:hidden inline-flex items-center justify-center h-9 w-9 rounded-md border border-slate-300">
+          <span class="sr-only">Menu</span>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-5 w-5"><path d="M3.75 6.75h16.5v1.5H3.75zM3.75 11.25h16.5v1.5H3.75zM3.75 15.75h16.5v1.5H3.75z"/></svg>
+        </button>
+      </div>
+    </div>
+  </div>
+  
+  <nav id="mobileMenu" class="md:hidden hidden border-b border-slate-200/70 bg-white/95 backdrop-blur">
+    <div class="max-w-7xl mx-auto px-4 py-3">
+      <ul class="flex flex-col items-center gap-3 text-sm text-center">
+        <li><a href="/courses/" class="header-link block text-slate-700 hover:text-black">Gratis kurs</a></li>
+        <li><a href="/contact/" class="header-link block text-slate-700 hover:text-black">Kontakt oss</a></li>
+        <li><a href="/blog/" class="header-link block text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+        <li><a href="/bli-partner/" class="header-link block text-slate-700 hover:text-black">Bli partner</a></li>
+        <li><a href="/fakturamal/" class="header-link block text-slate-700 hover:text-black">Lag faktura</a></li>
+      </ul>
+    </div>
+  </nav>
+  <script>
+    (function() {
+      const btn = document.getElementById('mobileMenuBtn');
+      const menu = document.getElementById('mobileMenu');
+      if (!btn || !menu) return;
+      btn.addEventListener('click', function() {
+        const isHidden = menu.classList.contains('hidden');
+        menu.classList.toggle('hidden');
+        btn.setAttribute('aria-expanded', String(isHidden));
+      });
+    })();
+  </script>
+</header>
+  <main>
+    
+<section class="pt-10 md:pt-14">
+  <div class="max-w-3xl mx-auto px-4">
+    <h1 class="text-3xl font-semibold tracking-tight text-center">Hva er Nedskrivning i Regnskap?</h1>
+    <p class="mt-2 text-gray-700">Nedskrivning er en regnskapsmessig reduksjon av en eiendels bokførte verdi når den virkelige verdien er lavere enn det som står i balansen. Dette skjer når eiendeler har tapt verdi permanent.</p>
+    <article class="prose max-w-none mt-6"><p><strong>Nedskrivning</strong> er en regnskapsmessig reduksjon av en <a href="/blogs/regnskap/hva-er-aktiva" title="Hva er Aktiva? Komplett Guide til Eiendeler i Regnskap">eiendels</a> bokførte verdi når den virkelige verdien er lavere enn det som står i <a href="/blogs/regnskap/hva-er-balanse" title="Hva er Balanse? Komplett Guide til Balanseregnskap">balansen</a>. Dette er en permanent verdireduksjon som skiller seg fra ordinære <a href="/blogs/regnskap/hva-er-avskrivning" title="Hva er Avskrivning i Regnskap? Metoder, Beregning og Regler">avskrivninger</a>.</p>
+<p><img src="hva-er-nedskrivning-image.svg" alt="Illustrasjon som viser nedskrivning av eiendeler i regnskap"></p>
+<h2 id="definisjon-og-grunnleggende-prinsipper">Definisjon og Grunnleggende Prinsipper</h2>
+<h3 id="hva-er-nedskrivning">Hva er Nedskrivning?</h3>
+<p>Nedskrivning oppstår når en eiendels <strong>gjenvinnbare beløp</strong> er lavere enn dens <strong>bokførte verdi</strong>. Det gjenvinnbare beløpet er det høyeste av:</p>
+<ul>
+<li><strong>Virkelig verdi</strong> minus salgskostnader</li>
+<li><strong>Bruksverdi</strong> (nåverdi av fremtidige kontantstrømmer)</li>
+</ul>
+<h3 id="forskjell-mellom-nedskrivning-og-avskrivning">Forskjell mellom Nedskrivning og Avskrivning</h3>
+<p><img src="nedskrivning-vs-avskrivning.svg" alt="Sammenligning av nedskrivning og avskrivning"></p>
+<table>
+  <thead>
+      <tr>
+          <th>Aspekt</th>
+          <th>Nedskrivning</th>
+          <th><a href="/blogs/regnskap/hva-er-avskrivning" title="Hva er Avskrivning i Regnskap? Metoder, Beregning og Regler">Avskrivning</a></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>Karakter</strong></td>
+          <td>Permanent verditap</td>
+          <td>Planlagt fordeling av kostnad</td>
+      </tr>
+      <tr>
+          <td><strong>Timing</strong></td>
+          <td>Når verditap oppdages</td>
+          <td>Systematisk over brukstid</td>
+      </tr>
+      <tr>
+          <td><strong>Reversering</strong></td>
+          <td>Kan reverseres (unntatt goodwill)</td>
+          <td>Kan ikke reverseres</td>
+      </tr>
+      <tr>
+          <td><strong>Årsak</strong></td>
+          <td>Markedsendringer, skade, teknologi</td>
+          <td>Normal slitasje og elde</td>
+      </tr>
+      <tr>
+          <td><strong>Beregning</strong></td>
+          <td>Basert på virkelig verdi</td>
+          <td>Basert på <a href="/blogs/regnskap/hva-er-anskaffelseskost" title="Hva er Anskaffelseskost? Komplett Guide til Beregning og Behandling">anskaffelseskost</a></td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="når-skal-nedskrivning-gjennomføres">Når Skal Nedskrivning Gjennomføres?</h2>
+<h3 id="indikatorer-på-verdifall">Indikatorer på Verdifall</h3>
+<h4 id="eksterne-indikatorer">Eksterne Indikatorer</h4>
+<ul>
+<li><strong>Markedsverdi</strong> har falt betydelig mer enn forventet</li>
+<li><strong>Teknologiske endringer</strong> som gjør eiendelen foreldet</li>
+<li><strong>Økonomiske forhold</strong> som påvirker eiendelens verdi negativt</li>
+<li><strong>Juridiske endringer</strong> som begrenser bruken av eiendelen</li>
+</ul>
+<h4 id="interne-indikatorer">Interne Indikatorer</h4>
+<ul>
+<li><strong>Fysisk skade</strong> eller forringelse av eiendelen</li>
+<li><strong>Endringer i bruk</strong> - eiendelen brukes mindre enn planlagt</li>
+<li><strong>Dårligere ytelse</strong> enn forventet</li>
+<li><strong>Planer om avhending</strong> eller omstrukturering</li>
+</ul>
+<p><img src="nedskrivning-indikatorer.svg" alt="Indikatorer for nedskrivning"></p>
+<h3 id="regelmessig-vurdering">Regelmessig Vurdering</h3>
+<p>Bedrifter må <strong>minst årlig</strong> vurdere om det finnes indikasjoner på verdifall for:</p>
+<ul>
+<li><a href="/blogs/regnskap/hva-er-anleggsmidler" title="Hva er Anleggsmidler? Komplett Guide til Faste Eiendeler">Anleggsmidler</a></li>
+<li><a href="/blogs/regnskap/hva-er-imaterielle-eiendeler" title="Hva er Immaterielle Eiendeler? Komplett Guide til Immaterielle Rettigheter">Immaterielle eiendeler</a></li>
+<li><a href="/blogs/regnskap/hva-er-goodwill" title="Hva er Goodwill? Komplett Guide til Goodwill i Regnskap">Goodwill</a></li>
+<li>Investeringer i datterselskaper</li>
+</ul>
+<h2 id="beregning-av-nedskrivning">Beregning av Nedskrivning</h2>
+<h3 id="grunnleggende-formel">Grunnleggende Formel</h3>
+<p><strong>Nedskrivning = Bokført verdi - Gjenvinnbart beløp</strong></p>
+<h3 id="steg-for-steg-prosess">Steg-for-Steg Prosess</h3>
+<h4 id="steg-1-identifiser-kontantgenererende-enhet">Steg 1: Identifiser Kontantgenererende Enhet</h4>
+<p>Hvis en individuell eiendel ikke kan generere uavhengige kontantstrømmer, må nedskrivning vurderes på nivået av den <strong>kontantgenererende enheten</strong> (CGU).</p>
+<h4 id="steg-2-beregn-gjenvinnbart-beløp">Steg 2: Beregn Gjenvinnbart Beløp</h4>
+<p>Det gjenvinnbare beløpet er det høyeste av:</p>
+<p><strong>Virkelig verdi minus salgskostnader:</strong></p>
+<ul>
+<li>Markedspris for tilsvarende eiendeler</li>
+<li>Minus kostnader ved salg (meglerhonorarer, juridiske kostnader, etc.)</li>
+</ul>
+<p><strong>Bruksverdi:</strong></p>
+<ul>
+<li>Nåverdi av forventede fremtidige kontantstrømmer</li>
+<li>Diskontert med relevant diskonteringsrente</li>
+</ul>
+<p><img src="gjenvinnbart-belop-beregning.svg" alt="Beregning av gjenvinnbart beløp"></p>
+<h4 id="steg-3-sammenlign-med-bokført-verdi">Steg 3: Sammenlign med Bokført Verdi</h4>
+<p>Hvis gjenvinnbart beløp &lt; bokført verdi → Nedskrivning kreves</p>
+<h3 id="praktisk-eksempel">Praktisk Eksempel</h3>
+<p><strong>Situasjon:</strong> En produksjonsmaskin har følgende verdier:</p>
+<ul>
+<li><strong>Bokført verdi:</strong> 800 000 kr</li>
+<li><strong>Virkelig verdi:</strong> 650 000 kr</li>
+<li><strong>Salgskostnader:</strong> 50 000 kr</li>
+<li><strong>Bruksverdi:</strong> 580 000 kr</li>
+</ul>
+<p><strong>Beregning:</strong></p>
+<ul>
+<li>Virkelig verdi minus salgskostnader: 650 000 - 50 000 = <strong>600 000 kr</strong></li>
+<li>Bruksverdi: <strong>580 000 kr</strong></li>
+<li>Gjenvinnbart beløp: max(600 000, 580 000) = <strong>600 000 kr</strong></li>
+<li>Nedskrivning: 800 000 - 600 000 = <strong>200 000 kr</strong></li>
+</ul>
+<h2 id="regnskapsmessig-behandling">Regnskapsmessig Behandling</h2>
+<h3 id="bokføring-av-nedskrivning">Bokføring av Nedskrivning</h3>
+<h4 id="ordinære-eiendeler">Ordinære Eiendeler</h4>
+<pre tabindex="0"><code>Debet: Nedskrivning av eiendeler    200 000
+Kredit: Akkumulerte nedskrivninger  200 000
+</code></pre><h4 id="oppskrevne-eiendeler">Oppskrevne Eiendeler</h4>
+<p>Hvis eiendelen tidligere er oppskrevet, reduseres først oppskrivningsreserven:</p>
+<pre tabindex="0"><code>Debet: Oppskrivningsreserve         100 000
+Debet: Nedskrivning av eiendeler    100 000
+Kredit: Akkumulerte nedskrivninger  200 000
+</code></pre><p><img src="nedskrivning-bokforing.svg" alt="Regnskapsmessig behandling av nedskrivning"></p>
+<h3 id="presentasjon-i-regnskapet">Presentasjon i Regnskapet</h3>
+<h4 id="resultatregnskap">Resultatregnskap</h4>
+<ul>
+<li><strong>Nedskrivninger</strong> presenteres som egen post eller inkludert i <a href="/blogs/regnskap/hva-er-driftskostnader" title="Hva er Driftskostnader? Komplett Guide til Driftskostnader i Regnskap">driftskostnader</a></li>
+<li>Må spesifiseres i noter hvis beløpet er vesentlig</li>
+</ul>
+<h4 id="balanse">Balanse</h4>
+<ul>
+<li><strong>Eiendeler</strong> vises til bokført verdi minus akkumulerte nedskrivninger</li>
+<li><strong>Noter</strong> må beskrive nedskrivningens art og beløp</li>
+</ul>
+<h3 id="skattemessige-forhold">Skattemessige Forhold</h3>
+<h4 id="fradragsrett">Fradragsrett</h4>
+<ul>
+<li><strong>Regnskapsmessige nedskrivninger</strong> gir ikke automatisk skattefradrag</li>
+<li><strong>Realiserte tap</strong> ved salg gir fradrag</li>
+<li><strong>Midlertidige forskjeller</strong> oppstår mellom regnskaps- og skattemessig verdi</li>
+</ul>
+<h4 id="saldogrupper">Saldogrupper</h4>
+<p>For skattemessige formål følger nedskrivninger reglene for <a href="/blogs/regnskap/hva-er-avskrivning" title="Hva er Avskrivning i Regnskap? Metoder, Beregning og Regler">avskrivninger</a> i relevante saldogrupper.</p>
+<h2 id="reversering-av-nedskrivning">Reversering av Nedskrivning</h2>
+<h3 id="når-kan-nedskrivning-reverseres">Når Kan Nedskrivning Reverseres?</h3>
+<p>Nedskrivning kan reverseres hvis det er <strong>klare indikasjoner</strong> på at:</p>
+<ul>
+<li>Årsakene til nedskrivningen ikke lenger eksisterer</li>
+<li>Eiendelens gjenvinnbare beløp har økt</li>
+</ul>
+<p><strong>Viktig unntak:</strong> Nedskrivning av <a href="/blogs/regnskap/hva-er-goodwill" title="Hva er Goodwill? Komplett Guide til Goodwill i Regnskap">goodwill</a> kan <strong>aldri</strong> reverseres.</p>
+<h3 id="begrensninger-ved-reversering">Begrensninger ved Reversering</h3>
+<p>Reversering kan ikke overstige:</p>
+<ul>
+<li><strong>Bokført verdi</strong> eiendelen ville hatt uten tidligere nedskrivning</li>
+<li>Justert for <a href="/blogs/regnskap/hva-er-avskrivning" title="Hva er Avskrivning i Regnskap? Metoder, Beregning og Regler">avskrivninger</a> som ville vært foretatt</li>
+</ul>
+<h3 id="bokføring-av-reversering">Bokføring av Reversering</h3>
+<pre tabindex="0"><code>Debet: Akkumulerte nedskrivninger   150 000
+Kredit: Reversering av nedskrivning 150 000
+</code></pre><p><img src="reversering-nedskrivning.svg" alt="Prosess for reversering av nedskrivning"></p>
+<h2 id="spesielle-situasjoner">Spesielle Situasjoner</h2>
+<h3 id="nedskrivning-av-goodwill">Nedskrivning av Goodwill</h3>
+<h4 id="årlig-test">Årlig Test</h4>
+<ul>
+<li><strong>Goodwill</strong> må testes for verdifall minst årlig</li>
+<li>Testen gjøres på nivået av kontantgenererende enheter</li>
+<li>Nedskrivning kan <strong>ikke</strong> reverseres</li>
+</ul>
+<h4 id="allokering-av-nedskrivning">Allokering av Nedskrivning</h4>
+<p>Når en kontantgenererende enhet skal skrives ned:</p>
+<ol>
+<li><strong>Goodwill</strong> skrives ned først</li>
+<li><strong>Andre eiendeler</strong> skrives ned forholdsmessig</li>
+</ol>
+<h3 id="nedskrivning-av-finansielle-eiendeler">Nedskrivning av Finansielle Eiendeler</h3>
+<h4 id="utlån-og-fordringer">Utlån og Fordringer</h4>
+<ul>
+<li>Nedskrivning basert på <strong>forventet kredittap</strong></li>
+<li><strong>Tapsavsetninger</strong> bokføres mot <a href="/blogs/regnskap/hva-er-kundefordring" title="Hva er Kundefordring? Komplett Guide til Kundefordringer i Regnskap">kundefordringer</a></li>
+</ul>
+<h4 id="investeringer">Investeringer</h4>
+<ul>
+<li><strong>Børsnoterte aksjer:</strong> Nedskrivning når verdifall er betydelig eller langvarig</li>
+<li><strong>Ikke-børsnoterte investeringer:</strong> Basert på vurdering av underliggende verdier</li>
+</ul>
+<p><img src="nedskrivning-eiendelstyper.svg" alt="Nedskrivning av ulike eiendelstyper"></p>
+<h2 id="bransjespesifikke-forhold">Bransjespesifikke Forhold</h2>
+<h3 id="eiendom-og-utvikling">Eiendom og Utvikling</h3>
+<h4 id="utviklingsprosjekter">Utviklingsprosjekter</h4>
+<ul>
+<li><strong>Tomter og byggeprosjekter</strong> vurderes mot markedsverdi</li>
+<li><strong>Nedskrivning</strong> når prosjektkostnader overstiger forventet salgsverdi</li>
+</ul>
+<h4 id="utleieeiendommer">Utleieeiendommer</h4>
+<ul>
+<li>Vurderes mot <strong>virkelig verdi</strong> eller <strong>gjenvinnbart beløp</strong></li>
+<li>Markedsendringer kan utløse nedskrivning</li>
+</ul>
+<h3 id="industri-og-produksjon">Industri og Produksjon</h3>
+<h4 id="produksjonsutstyr">Produksjonsutstyr</h4>
+<ul>
+<li><strong>Teknologisk utvikling</strong> kan gjøre utstyr foreldet</li>
+<li><strong>Kapasitetsutnyttelse</strong> påvirker bruksverdi</li>
+</ul>
+<h4 id="lagerbeholdning">Lagerbeholdning</h4>
+<ul>
+<li><a href="/blogs/regnskap/hva-er-lagerbeholdning" title="Hva er Lagerbeholdning? Komplett Guide til Lagerføring">Lagerbeholdning</a> nedskrives til <strong>netto realisasjonsverdi</strong></li>
+<li>Inkluderer foreldede eller skadede varer</li>
+</ul>
+<h3 id="olje-og-gass">Olje og Gass</h3>
+<h4 id="leteaktiviteter">Leteaktiviteter</h4>
+<ul>
+<li><strong>Letekostnader</strong> nedskrives hvis ikke kommersielt funn</li>
+<li><strong>Produksjonsanlegg</strong> vurderes mot fremtidige oljeinntekter</li>
+</ul>
+<h2 id="internasjonale-regnskapsregler">Internasjonale Regnskapsregler</h2>
+<h3 id="ifrs-vs-norske-regler">IFRS vs. Norske Regler</h3>
+<table>
+  <thead>
+      <tr>
+          <th>Aspekt</th>
+          <th>IFRS (IAS 36)</th>
+          <th>Norske Regler (NRS)</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>Testfrekvens</strong></td>
+          <td>Årlig for goodwill</td>
+          <td>Når indikasjoner foreligger</td>
+      </tr>
+      <tr>
+          <td><strong>Reversering</strong></td>
+          <td>Tillatt (unntatt goodwill)</td>
+          <td>Tillatt med begrensninger</td>
+      </tr>
+      <tr>
+          <td><strong>Diskonteringsrente</strong></td>
+          <td>Spesifikke krav</td>
+          <td>Mer fleksibel tilnærming</td>
+      </tr>
+      <tr>
+          <td><strong>Kontantgenererende enheter</strong></td>
+          <td>Detaljerte regler</td>
+          <td>Enklere tilnærming</td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="overgang-til-ifrs">Overgang til IFRS</h3>
+<p>Bedrifter som går over til IFRS må:</p>
+<ul>
+<li><strong>Revurdere</strong> alle tidligere nedskrivninger</li>
+<li><strong>Justere</strong> åpningsbalansen</li>
+<li><strong>Dokumentere</strong> endringer i regnskapsprinsipper</li>
+</ul>
+<p><img src="ifrs-vs-nrs-nedskrivning.svg" alt="Sammenligning av regnskapsregler"></p>
+<h2 id="praktiske-utfordringer">Praktiske Utfordringer</h2>
+<h3 id="verdsettelse-og-estimater">Verdsettelse og Estimater</h3>
+<h4 id="usikkerhet-i-beregninger">Usikkerhet i Beregninger</h4>
+<ul>
+<li><strong>Fremtidige kontantstrømmer</strong> er usikre</li>
+<li><strong>Diskonteringsrenter</strong> kan variere</li>
+<li><strong>Markedsverdier</strong> kan være vanskelige å fastslå</li>
+</ul>
+<h4 id="profesjonell-vurdering">Profesjonell Vurdering</h4>
+<ul>
+<li><strong>Verdsettelsesspesialister</strong> kan være nødvendig</li>
+<li><strong>Revisor</strong> må vurdere estimatenes rimelighet</li>
+<li><strong>Sensitivitetsanalyser</strong> anbefales</li>
+</ul>
+<h3 id="timing-og-dokumentasjon">Timing og Dokumentasjon</h3>
+<h4 id="når-skal-nedskrivning-bokføres">Når Skal Nedskrivning Bokføres?</h4>
+<ul>
+<li><strong>Så snart</strong> verdifall er identifisert</li>
+<li><strong>Ikke vente</strong> til årsslutt hvis verdifall er klart</li>
+<li><strong>Dokumentere</strong> beslutningsgrunnlaget</li>
+</ul>
+<h4 id="krav-til-dokumentasjon">Krav til Dokumentasjon</h4>
+<ul>
+<li><strong>Beregninger</strong> og forutsetninger</li>
+<li><strong>Markedsanalyser</strong> og verdsettelser</li>
+<li><strong>Beslutningsprosess</strong> og godkjenninger</li>
+</ul>
+<p><img src="nedskrivning-prosess.svg" alt="Prosess for nedskrivningsvurdering"></p>
+<h2 id="kontroll-og-revisjon">Kontroll og Revisjon</h2>
+<h3 id="internkontroll">Internkontroll</h3>
+<h4 id="rutiner-for-identifikasjon">Rutiner for Identifikasjon</h4>
+<ul>
+<li><strong>Regelmessige vurderinger</strong> av eiendelers verdi</li>
+<li><strong>Overvåking</strong> av markedsforhold og indikatorer</li>
+<li><strong>Rapportering</strong> av potensielle verdifall</li>
+</ul>
+<h4 id="godkjenningsprosess">Godkjenningsprosess</h4>
+<ul>
+<li><strong>Ledelsens vurdering</strong> av nedskrivningsbehov</li>
+<li><strong>Styrets godkjenning</strong> for vesentlige nedskrivninger</li>
+<li><strong>Dokumentasjon</strong> av beslutningsgrunnlag</li>
+</ul>
+<h3 id="revisjon-av-nedskrivninger">Revisjon av Nedskrivninger</h3>
+<h4 id="revisorens-ansvar">Revisorens Ansvar</h4>
+<ul>
+<li><strong>Vurdere</strong> ledelsens identifikasjon av nedskrivningsbehov</li>
+<li><strong>Teste</strong> beregninger og forutsetninger</li>
+<li><strong>Evaluere</strong> dokumentasjon og beslutningsprosess</li>
+</ul>
+<h4 id="vanlige-revisjonshandlinger">Vanlige Revisjonshandlinger</h4>
+<ul>
+<li><strong>Sensitivitetsanalyser</strong> av nøkkelforutsetninger</li>
+<li><strong>Sammenligning</strong> med markedsdata</li>
+<li><strong>Vurdering</strong> av tidligere estimaters nøyaktighet</li>
+</ul>
+<h2 id="rapportering-og-noteopplysninger">Rapportering og Noteopplysninger</h2>
+<h3 id="krav-til-noteopplysninger">Krav til Noteopplysninger</h3>
+<h4 id="vesentlige-nedskrivninger">Vesentlige Nedskrivninger</h4>
+<p>Noter må inneholde:</p>
+<ul>
+<li><strong>Beskrivelse</strong> av nedskrevne eiendeler</li>
+<li><strong>Årsaker</strong> til nedskrivningen</li>
+<li><strong>Beløp</strong> og beregningsmetode</li>
+<li><strong>Kontantgenererende enheter</strong> som er berørt</li>
+</ul>
+<h4 id="goodwill-og-immaterielle-eiendeler">Goodwill og Immaterielle Eiendeler</h4>
+<p>Spesielle krav til:</p>
+<ul>
+<li><strong>Allokering</strong> av goodwill til kontantgenererende enheter</li>
+<li><strong>Nøkkelforutsetninger</strong> i verdsettelsen</li>
+<li><strong>Sensitivitetsanalyser</strong> for kritiske estimater</li>
+</ul>
+<h3 id="eksempel-på-noteopplysning">Eksempel på Noteopplysning</h3>
+<blockquote>
+<p><strong>Note X - Nedskrivning av Anleggsmidler</strong></p>
+<p>Selskapet har i 2024 foretatt nedskrivning av produksjonsutstyr med kr 2,5 millioner som følge av teknologiske endringer som har redusert utstyrets konkurranseevne. Nedskrivningen er basert på vurdering av bruksverdi beregnet som nåverdi av forventede fremtidige kontantstrømmer diskontert med 8% rente.</p></blockquote>
+<p><img src="nedskrivning-rapportering.svg" alt="Rapportering av nedskrivninger"></p>
+<h2 id="fremtidige-utviklingstrekk">Fremtidige Utviklingstrekk</h2>
+<h3 id="digitalisering-og-automatisering">Digitalisering og Automatisering</h3>
+<h4 id="ai-og-maskinlæring">AI og Maskinlæring</h4>
+<ul>
+<li><strong>Automatisk identifikasjon</strong> av nedskrivningsindikatorer</li>
+<li><strong>Prediktive modeller</strong> for verdsettelse</li>
+<li><strong>Kontinuerlig overvåking</strong> av eiendelers verdi</li>
+</ul>
+<h4 id="sanntidsdata">Sanntidsdata</h4>
+<ul>
+<li><strong>Markedsdata</strong> oppdateres kontinuerlig</li>
+<li><strong>Automatiske varsler</strong> ved verdifall</li>
+<li><strong>Integrerte systemer</strong> for raskere rapportering</li>
+</ul>
+<h3 id="regulatoriske-endringer">Regulatoriske Endringer</h3>
+<h4 id="bærekraftsrapportering">Bærekraftsrapportering</h4>
+<ul>
+<li><strong>Klimarisiko</strong> påvirker eiendelers verdi</li>
+<li><strong>ESG-faktorer</strong> inkluderes i verdsettelser</li>
+<li><strong>Stranded assets</strong> får økt oppmerksomhet</li>
+</ul>
+<h4 id="harmonisering-av-regler">Harmonisering av Regler</h4>
+<ul>
+<li><strong>Konvergens</strong> mellom nasjonale og internasjonale regler</li>
+<li><strong>Forenkling</strong> av komplekse bestemmelser</li>
+<li><strong>Økt fokus</strong> på sammenlignbarhet</li>
+</ul>
+<h2 id="konklusjon">Konklusjon</h2>
+<p><strong>Nedskrivning</strong> er et viktig regnskapsprinsipp som sikrer at <a href="/blogs/regnskap/hva-er-aktiva" title="Hva er Aktiva? Komplett Guide til Eiendeler i Regnskap">eiendeler</a> ikke er overvurdert i <a href="/blogs/regnskap/hva-er-balanse" title="Hva er Balanse? Komplett Guide til Balanseregnskap">balansen</a>. Korrekt håndtering av nedskrivninger krever:</p>
+<ul>
+<li><strong>Systematisk overvåking</strong> av indikatorer på verdifall</li>
+<li><strong>Grundige verdsettelser</strong> basert på markedsdata og fremtidige kontantstrømmer</li>
+<li><strong>Korrekt regnskapsmessig behandling</strong> i henhold til gjeldende regler</li>
+<li><strong>Tilstrekkelig dokumentasjon</strong> og noteopplysninger</li>
+</ul>
+<p>Forskjellen fra ordinære <a href="/blogs/regnskap/hva-er-avskrivning" title="Hva er Avskrivning i Regnskap? Metoder, Beregning og Regler">avskrivninger</a> er at nedskrivning reflekterer <strong>permanente verdifall</strong> som ikke var forventet ved anskaffelsen. Dette gjør nedskrivning til et viktig verktøy for å opprettholde <strong>regnskapets relevans</strong> og <strong>pålitelighet</strong>.</p>
+<p><strong>Profesjonell rådgivning</strong> anbefales for komplekse nedskrivningsvurderinger, særlig når det gjelder verdsettelse av <a href="/blogs/regnskap/hva-er-goodwill" title="Hva er Goodwill? Komplett Guide til Goodwill i Regnskap">goodwill</a> og andre <a href="/blogs/regnskap/hva-er-imaterielle-eiendeler" title="Hva er Immaterielle Eiendeler? Komplett Guide til Immaterielle Rettigheter">immaterielle eiendeler</a>. God <a href="/blogs/regnskap/hva-er-internkontroll" title="Hva er Internkontroll? Komplett Guide til Internkontrollsystemer">internkontroll</a> og regelmessige vurderinger sikrer at nedskrivninger identifiseres og behandles korrekt i henhold til <a href="/blogs/regnskap/god-regnskapsskikk" title="God Regnskapsskikk - Prinsipper og Regler i Norsk Regnskap">god regnskapsskikk</a>.</p>
+</article>
+  </div>
+</section>
+
+  </main>
+  <footer class="mt-16 border-t border-slate-800/60 bg-slate-900">
+  <div class="max-w-7xl mx-auto px-4 py-14">
+    <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3 text-center sm:text-left">
+      
+      <div>
+        <h3 class="text-sm font-semibold text-white">Verktøy</h3>
+        <ul class="mt-2 space-y-2 text-sm text-slate-300">
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/finn-iban/">IBAN kalkulator</a></li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/lag-faktura-gratis/">Lag faktura</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Selskaps-informasjon</h3>
+        <ul class="mt-2 space-y-1 text-sm text-slate-300">
+          <li>Reai AS</li>
+          <li>Orgnr: 935606403</li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="mailto:post@reai.no">post@reai.no</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Om ReAI</h3>
+        <p class="mt-2 text-sm text-slate-300">ReAI er et gratis regnskapsprogram laget av tidligere ansatte i Tripletex
+          / Visma. Vi mener det er på tide med mer konkurranse i regnskaps-bransjen som kan komme bedrifter til gode.
+        </p>
+      </div>
+    </div>
+    <div class="mt-12 border-t border-slate-800/60 pt-6 flex flex-col items-center sm:flex-row sm:items-center sm:justify-between text-sm text-slate-400 text-center sm:text-left">
+      <div class="flex items-center gap-2">
+        
+        
+      </div>
+      <div class="mt-4 sm:mt-0 flex items-center justify-center sm:justify-end">
+        <div class="opacity-80">&copy; 2025 ReAI. All rights reserved.</div>
+      </div>
+    </div>
+  </div>
+</footer>
+</body>
+</html>

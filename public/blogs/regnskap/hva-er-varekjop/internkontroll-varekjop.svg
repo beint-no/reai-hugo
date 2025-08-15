@@ -1,0 +1,127 @@
+<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="controlGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#dc2626;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#b91c1c;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="url(#bgGradient)"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e293b">Internkontroll ved Varekjøp</text>
+  
+  <!-- Control framework -->
+  <g transform="translate(50,70)">
+    <rect x="0" y="0" width="700" height="50" rx="10" fill="url(#controlGradient)"/>
+    <text x="350" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">Fire-øyeprinsippet: Adskillelse av Ansvar og Kontroll</text>
+  </g>
+  
+  <!-- Control elements -->
+  
+  <!-- Authorization -->
+  <g transform="translate(50,150)">
+    <rect x="0" y="0" width="160" height="120" rx="10" fill="white" stroke="#dc2626" stroke-width="2"/>
+    <rect x="10" y="10" width="140" height="25" rx="5" fill="url(#controlGradient)"/>
+    <text x="80" y="28" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Autorisering</text>
+    
+    <text x="80" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e293b">Bestillingsansvar</text>
+    <text x="15" y="75" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Budsjettgodkjenning</text>
+    <text x="15" y="88" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Leverandørvalg</text>
+    <text x="15" y="101" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Prisforhandling</text>
+    <text x="15" y="114" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Kontraktsinngåelse</text>
+  </g>
+  
+  <!-- Receiving -->
+  <g transform="translate(240,150)">
+    <rect x="0" y="0" width="160" height="120" rx="10" fill="white" stroke="#dc2626" stroke-width="2"/>
+    <rect x="10" y="10" width="140" height="25" rx="5" fill="url(#controlGradient)"/>
+    <text x="80" y="28" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Varemottak</text>
+    
+    <text x="80" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e293b">Mottakskontroll</text>
+    <text x="15" y="75" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Kvantitetskontroll</text>
+    <text x="15" y="88" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Kvalitetsinspeksjon</text>
+    <text x="15" y="101" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Dokumentasjon</text>
+    <text x="15" y="114" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Lagerregistrering</text>
+  </g>
+  
+  <!-- Invoice processing -->
+  <g transform="translate(430,150)">
+    <rect x="0" y="0" width="160" height="120" rx="10" fill="white" stroke="#dc2626" stroke-width="2"/>
+    <rect x="10" y="10" width="140" height="25" rx="5" fill="url(#controlGradient)"/>
+    <text x="80" y="28" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Fakturabehandling</text>
+    
+    <text x="80" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e293b">Attestering</text>
+    <text x="15" y="75" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Saklig kontroll</text>
+    <text x="15" y="88" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Regnskapskontroll</text>
+    <text x="15" y="101" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• MVA-verifikasjon</text>
+    <text x="15" y="114" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Tre-veismatching</text>
+  </g>
+  
+  <!-- Payment authorization -->
+  <g transform="translate(620,150)">
+    <rect x="0" y="0" width="160" height="120" rx="10" fill="white" stroke="#dc2626" stroke-width="2"/>
+    <rect x="10" y="10" width="140" height="25" rx="5" fill="url(#controlGradient)"/>
+    <text x="80" y="28" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Betalingsgodkjenning</text>
+    
+    <text x="80" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e293b">Utbetalingskontroll</text>
+    <text x="15" y="75" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Dobbel signatur</text>
+    <text x="15" y="88" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Fullmaktskontroll</text>
+    <text x="15" y="101" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Beløpsverifisering</text>
+    <text x="15" y="114" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Bankrekonsiliastion</text>
+  </g>
+  
+  <!-- Risk factors and controls table -->
+  <g transform="translate(50,300)">
+    <rect x="0" y="0" width="700" height="170" rx="10" fill="white" stroke="#e2e8f0" stroke-width="2"/>
+    <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">Risikofaktorer og Kontrolltiltak</text>
+    
+    <!-- Table header -->
+    <rect x="20" y="35" width="660" height="25" fill="#fee2e2"/>
+    <text x="30" y="52" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e293b">Risikofaktor</text>
+    <text x="200" y="52" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e293b">Potensielle Konsekvenser</text>
+    <text x="450" y="52" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e293b">Kontrolltiltak</text>
+    
+    <!-- Table rows -->
+    <g transform="translate(0,60)">
+      <rect x="20" y="0" width="660" height="22" fill="white" stroke="#e5e7eb" stroke-width="1"/>
+      <text x="30" y="16" font-family="Arial, sans-serif" font-size="10" fill="#1e293b">Uautoriserte kjøp</text>
+      <text x="200" y="16" font-family="Arial, sans-serif" font-size="10" fill="#64748b">Budsjettoverskridelser, ikke-godkjente leverandører</text>
+      <text x="450" y="16" font-family="Arial, sans-serif" font-size="10" fill="#64748b">Godkjenningsmatrise, budsjettoppfølging</text>
+    </g>
+    
+    <g transform="translate(0,82)">
+      <rect x="20" y="0" width="660" height="22" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1"/>
+      <text x="30" y="16" font-family="Arial, sans-serif" font-size="10" fill="#1e293b">Kvalitetsavvik</text>
+      <text x="200" y="16" font-family="Arial, sans-serif" font-size="10" fill="#64748b">Kundeklager, returkostnader, omdømmetap</text>
+      <text x="450" y="16" font-family="Arial, sans-serif" font-size="10" fill="#64748b">Inngangssinspeksjon, leverandøraudit</text>
+    </g>
+    
+    <g transform="translate(0,104)">
+      <rect x="20" y="0" width="660" height="22" fill="white" stroke="#e5e7eb" stroke-width="1"/>
+      <text x="30" y="16" font-family="Arial, sans-serif" font-size="10" fill="#1e293b">Fakturamisligheter</text>
+      <text x="200" y="16" font-family="Arial, sans-serif" font-size="10" fill="#64748b">Overprising, fiktive fakturaer, dobbeltbetaling</text>
+      <text x="450" y="16" font-family="Arial, sans-serif" font-size="10" fill="#64748b">Tre-veismatching, leverandørverifisering</text>
+    </g>
+    
+    <g transform="translate(0,126)">
+      <rect x="20" y="0" width="660" height="22" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1"/>
+      <text x="30" y="16" font-family="Arial, sans-serif" font-size="10" fill="#1e293b">Lagertyveri</text>
+      <text x="200" y="16" font-family="Arial, sans-serif" font-size="10" fill="#64748b">Direkte tap, forsikringskrav, svinn</text>
+      <text x="450" y="16" font-family="Arial, sans-serif" font-size="10" fill="#64748b">Sikkerhetssystemer, tilgangskontroll, telling</text>
+    </g>
+  </g>
+  
+  <!-- Key principles -->
+  <g transform="translate(100,480)">
+    <text x="300" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#dc2626">Kjerneprinsipper:</text>
+    <text x="100" y="15" font-family="Arial, sans-serif" font-size="10" fill="#64748b">• Ansvarsadskillelse</text>
+    <text x="250" y="15" font-family="Arial, sans-serif" font-size="10" fill="#64748b">• Kontinuerlig overvåking</text>
+    <text x="420" y="15" font-family="Arial, sans-serif" font-size="10" fill="#64748b">• Dokumentasjon og sporbarhet</text>
+  </g>
+</svg>

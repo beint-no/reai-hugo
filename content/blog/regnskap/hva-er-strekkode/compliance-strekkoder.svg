@@ -1,0 +1,218 @@
+<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="complianceBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
+    </linearGradient>
+    <marker id="complianceArrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#3b82f6"/>
+    </marker>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="url(#complianceBg)"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1e293b">
+    Compliance og Regulatoriske Aspekter
+  </text>
+  
+  <!-- Legal Framework -->
+  <g transform="translate(50, 60)">
+    <text x="0" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">
+      Lovgivningsmessige Krav
+    </text>
+    
+    <!-- Bokføringsloven -->
+    <g transform="translate(0, 40)">
+      <rect x="0" y="0" width="180" height="100" rx="8" fill="#fef2f2" stroke="#ef4444" stroke-width="2"/>
+      <text x="90" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#991b1b">
+        Bokføringsloven
+      </text>
+      <text x="10" y="40" font-family="Arial, sans-serif" font-size="11" fill="#991b1b">• § 4: Dokumentasjonskrav</text>
+      <text x="10" y="55" font-family="Arial, sans-serif" font-size="11" fill="#991b1b">• § 5: Bilagskrav</text>
+      <text x="10" y="70" font-family="Arial, sans-serif" font-size="11" fill="#991b1b">• § 13: Sporbarhet</text>
+      <text x="10" y="85" font-family="Arial, sans-serif" font-size="11" fill="#991b1b">• § 14: Oppbevaringsplikt</text>
+    </g>
+    
+    <!-- MVA-regelverk -->
+    <g transform="translate(200, 40)">
+      <rect x="0" y="0" width="180" height="100" rx="8" fill="#f0fdf4" stroke="#16a34a" stroke-width="2"/>
+      <text x="90" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#14532d">
+        MVA-regelverk
+      </text>
+      <text x="10" y="40" font-family="Arial, sans-serif" font-size="11" fill="#14532d">• Korrekt registrering</text>
+      <text x="10" y="55" font-family="Arial, sans-serif" font-size="11" fill="#14532d">• Tidsstemplinger</text>
+      <text x="10" y="70" font-family="Arial, sans-serif" font-size="11" fill="#14532d">• Fullstendig dokumentasjon</text>
+      <text x="10" y="85" font-family="Arial, sans-serif" font-size="11" fill="#14532d">• Digital rapportering</text>
+    </g>
+    
+    <!-- GDPR -->
+    <g transform="translate(400, 40)">
+      <rect x="0" y="0" width="180" height="100" rx="8" fill="#eff6ff" stroke="#3b82f6" stroke-width="2"/>
+      <text x="90" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e40af">
+        GDPR/Personvern
+      </text>
+      <text x="10" y="40" font-family="Arial, sans-serif" font-size="11" fill="#1e40af">• Dataminimering</text>
+      <text x="10" y="55" font-family="Arial, sans-serif" font-size="11" fill="#1e40af">• Sikker lagring</text>
+      <text x="10" y="70" font-family="Arial, sans-serif" font-size="11" fill="#1e40af">• Tilgangskontroll</text>
+      <text x="10" y="85" font-family="Arial, sans-serif" font-size="11" fill="#1e40af">• Slettingsrutiner</text>
+    </g>
+  </g>
+  
+  <!-- Audit Trail Flow -->
+  <g transform="translate(50, 200)">
+    <text x="0" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">
+      Revisjons- og Sporingskrav
+    </text>
+    
+    <!-- Scanning event -->
+    <g transform="translate(0, 40)">
+      <rect x="0" y="0" width="100" height="60" rx="6" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="2"/>
+      <text x="50" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">
+        Skanning
+      </text>
+      <text x="50" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">
+        Tidsstempel
+      </text>
+      <text x="50" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">
+        Bruker-ID
+      </text>
+    </g>
+    
+    <!-- Arrow -->
+    <path d="M 110 70 L 140 70" stroke="#3b82f6" stroke-width="2" marker-end="url(#complianceArrow)"/>
+    
+    <!-- Data validation -->
+    <g transform="translate(150, 40)">
+      <rect x="0" y="0" width="100" height="60" rx="6" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="2"/>
+      <text x="50" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">
+        Validering
+      </text>
+      <text x="50" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">
+        Kontrollsum
+      </text>
+      <text x="50" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">
+        Format-sjekk
+      </text>
+    </g>
+    
+    <!-- Arrow -->
+    <path d="M 260 70 L 290 70" stroke="#3b82f6" stroke-width="2" marker-end="url(#complianceArrow)"/>
+    
+    <!-- System entry -->
+    <g transform="translate(300, 40)">
+      <rect x="0" y="0" width="100" height="60" rx="6" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="2"/>
+      <text x="50" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">
+        Systemregistrering
+      </text>
+      <text x="50" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">
+        Transaksjons-ID
+      </text>
+      <text x="50" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">
+        Batch-nummer
+      </text>
+    </g>
+    
+    <!-- Arrow -->
+    <path d="M 410 70 L 440 70" stroke="#3b82f6" stroke-width="2" marker-end="url(#complianceArrow)"/>
+    
+    <!-- Archive -->
+    <g transform="translate(450, 40)">
+      <rect x="0" y="0" width="100" height="60" rx="6" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="2"/>
+      <text x="50" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">
+        Arkivering
+      </text>
+      <text x="50" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">
+        5 års oppbevaring
+      </text>
+      <text x="50" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">
+        Sikker lagring
+      </text>
+    </g>
+  </g>
+  
+  <!-- Compliance checklist -->
+  <g transform="translate(50, 320)">
+    <text x="0" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">
+      Compliance Sjekkliste for Strekkoder
+    </text>
+    
+    <rect x="0" y="30" width="700" height="140" rx="8" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+    
+    <!-- Checklist items -->
+    <g transform="translate(20, 50)">
+      <!-- Column 1 -->
+      <g transform="translate(0, 0)">
+        <circle cx="8" cy="8" r="6" fill="#10b981" stroke="#059669" stroke-width="1"/>
+        <text x="6" y="12" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">✓</text>
+        <text x="20" y="12" font-family="Arial, sans-serif" font-size="11" fill="#374151">Automatisk tidsstampling av alle transaksjoner</text>
+        
+        <circle cx="8" cy="28" r="6" fill="#10b981" stroke="#059669" stroke-width="1"/>
+        <text x="6" y="32" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">✓</text>
+        <text x="20" y="32" font-family="Arial, sans-serif" font-size="11" fill="#374151">Komplett brukerlogging og ansvarssporing</text>
+        
+        <circle cx="8" cy="48" r="6" fill="#10b981" stroke="#059669" stroke-width="1"/>
+        <text x="6" y="52" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">✓</text>
+        <text x="20" y="52" font-family="Arial, sans-serif" font-size="11" fill="#374151">Uforanderlig transaksjonshistorikk</text>
+        
+        <circle cx="8" cy="68" r="6" fill="#10b981" stroke="#059669" stroke-width="1"/>
+        <text x="6" y="72" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">✓</text>
+        <text x="20" y="72" font-family="Arial, sans-serif" font-size="11" fill="#374151">Digital signering av kritiske transaksjoner</text>
+        
+        <circle cx="8" cy="88" r="6" fill="#10b981" stroke="#059669" stroke-width="1"/>
+        <text x="6" y="92" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">✓</text>
+        <text x="20" y="92" font-family="Arial, sans-serif" font-size="11" fill="#374151">Regelmessig backup og gjenopprettingstest</text>
+        
+        <circle cx="8" cy="108" r="6" fill="#10b981" stroke="#059669" stroke-width="1"/>
+        <text x="6" y="112" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">✓</text>
+        <text x="20" y="112" font-family="Arial, sans-serif" font-size="11" fill="#374151">Tilgangskontroll og autorisasjonsmatrise</text>
+      </g>
+      
+      <!-- Column 2 -->
+      <g transform="translate(350, 0)">
+        <circle cx="8" cy="8" r="6" fill="#10b981" stroke="#059669" stroke-width="1"/>
+        <text x="6" y="12" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">✓</text>
+        <text x="20" y="12" font-family="Arial, sans-serif" font-size="11" fill="#374151">Dataintegritetskontroller og checksummer</text>
+        
+        <circle cx="8" cy="28" r="6" fill="#10b981" stroke="#059669" stroke-width="1"/>
+        <text x="6" y="32" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">✓</text>
+        <text x="20" y="32" font-family="Arial, sans-serif" font-size="11" fill="#374151">Kryptering av sensitive data</text>
+        
+        <circle cx="8" cy="48" r="6" fill="#10b981" stroke="#059669" stroke-width="1"/>
+        <text x="6" y="52" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">✓</text>
+        <text x="20" y="52" font-family="Arial, sans-serif" font-size="11" fill="#374151">Standardiserte rapporteringsformater</text>
+        
+        <circle cx="8" cy="68" r="6" fill="#10b981" stroke="#059669" stroke-width="1"/>
+        <text x="6" y="72" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">✓</text>
+        <text x="20" y="72" font-family="Arial, sans-serif" font-size="11" fill="#374151">Automatisk export til myndighetssystemer</text>
+        
+        <circle cx="8" cy="88" r="6" fill="#10b981" stroke="#059669" stroke-width="1"/>
+        <text x="6" y="92" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">✓</text>
+        <text x="20" y="92" font-family="Arial, sans-serif" font-size="11" fill="#374151">Dokumentasjon av systemkonfigurasjoner</text>
+        
+        <circle cx="8" cy="108" r="6" fill="#10b981" stroke="#059669" stroke-width="1"/>
+        <text x="6" y="112" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">✓</text>
+        <text x="20" y="112" font-family="Arial, sans-serif" font-size="11" fill="#374151">Regelmessige compliance-auditer</text>
+      </g>
+    </g>
+  </g>
+  
+  <!-- Standards section -->
+  <g transform="translate(600, 60)">
+    <text x="0" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e293b">
+      Relevante Standarder
+    </text>
+    
+    <rect x="0" y="30" width="150" height="120" rx="6" fill="#fefce8" stroke="#eab308" stroke-width="2"/>
+    
+    <text x="10" y="50" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#a16207">GS1 Standards:</text>
+    <text x="10" y="65" font-family="Arial, sans-serif" font-size="10" fill="#a16207">• GTIN produktkoding</text>
+    <text x="10" y="78" font-family="Arial, sans-serif" font-size="10" fill="#a16207">• GLN lokasjonskoding</text>
+    <text x="10" y="91" font-family="Arial, sans-serif" font-size="10" fill="#a16207">• SSCC fraktkoding</text>
+    
+    <text x="10" y="110" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#a16207">ISO Standards:</text>
+    <text x="10" y="125" font-family="Arial, sans-serif" font-size="10" fill="#a16207">• ISO/IEC 15420</text>
+    <text x="10" y="138" font-family="Arial, sans-serif" font-size="10" fill="#a16207">• ISO/IEC 18004</text>
+  </g>
+</svg>

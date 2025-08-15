@@ -1,0 +1,143 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="skattGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#dc3545;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#c82333;stop-opacity:0.8" />
+    </linearGradient>
+    <linearGradient id="mvaGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#28a745;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#20c997;stop-opacity:0.8" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#333">
+    Skattemessige Aspekter av Inntekter
+  </text>
+  
+  <!-- Corporate Tax Section -->
+  <rect x="50" y="80" width="340" height="180" fill="url(#skattGradient)" stroke="#dc3545" stroke-width="2" rx="10"/>
+  <text x="220" y="110" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+    SELSKAPSSKATT
+  </text>
+  <text x="220" y="135" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="white">
+    22% på alminnelig inntekt
+  </text>
+  
+  <!-- Tax details -->
+  <rect x="70" y="150" width="300" height="100" fill="white" fill-opacity="0.9" rx="5"/>
+  <text x="80" y="175" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#dc3545">
+    Skattepliktige inntekter:
+  </text>
+  <text x="80" y="195" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    • Driftsinntekter - ordinær sats 22%
+  </text>
+  <text x="80" y="210" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    • Finansinntekter - fritaksmetoden for utbytte
+  </text>
+  <text x="80" y="225" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    • Gevinst ved salg - avskrivninger tilbakeføres
+  </text>
+  <text x="80" y="240" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    • Offentlige tilskudd - varierer etter formål
+  </text>
+  
+  <!-- VAT Section -->
+  <rect x="410" y="80" width="340" height="180" fill="url(#mvaGradient)" stroke="#28a745" stroke-width="2" rx="10"/>
+  <text x="580" y="110" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+    MERVERDIAVGIFT (MVA)
+  </text>
+  <text x="580" y="135" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="white">
+    Varierende satser
+  </text>
+  
+  <!-- VAT details -->
+  <rect x="430" y="150" width="300" height="100" fill="white" fill-opacity="0.9" rx="5"/>
+  <text x="440" y="175" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#28a745">
+    MVA-satser:
+  </text>
+  <text x="440" y="195" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    • Standardsats: 25% (de fleste varer/tjenester)
+  </text>
+  <text x="440" y="210" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    • Redusert sats: 15% (næringsmidler)
+  </text>
+  <text x="440" y="225" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    • Redusert sats: 12% (transport, hotell)
+  </text>
+  <text x="440" y="240" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    • Fritatt: Finansielle tjenester, helse, utdanning
+  </text>
+  
+  <!-- Timing Differences Section -->
+  <rect x="50" y="290" width="700" height="180" fill="white" stroke="#ffc107" stroke-width="2" rx="10"/>
+  <text x="400" y="320" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#333">
+    Timing - Regnskap vs Skatt
+  </text>
+  
+  <!-- Left column - Accounting -->
+  <rect x="70" y="340" width="300" height="120" fill="#f8f9fa" stroke="#0066cc" stroke-width="1" rx="5"/>
+  <text x="220" y="365" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0066cc">
+    REGNSKAPSFØRING
+  </text>
+  <text x="80" y="385" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    Følger regnskapsloven og god regnskapsskikk:
+  </text>
+  <text x="80" y="405" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    • Inntektsføringsprinsippet (IFRS 15)
+  </text>
+  <text x="80" y="420" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    • Når ytelsesforpliktelse oppfylles
+  </text>
+  <text x="80" y="435" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    • Kontroll overført til kunde
+  </text>
+  <text x="80" y="450" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    • Estimater for returer og rabatter
+  </text>
+  
+  <!-- Right column - Tax -->
+  <rect x="430" y="340" width="300" height="120" fill="#f8f9fa" stroke="#dc3545" stroke-width="1" rx="5"/>
+  <text x="580" y="365" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#dc3545">
+    SKATTEFØRING
+  </text>
+  <text x="440" y="385" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    Følger skatteloven og kan avvike fra regnskap:
+  </text>
+  <text x="440" y="405" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    • Realisasjonsprinsippet
+  </text>
+  <text x="440" y="420" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    • Når betaling mottas eller krav oppstår
+  </text>
+  <text x="440" y="435" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    • Ulike avskrivningsregler
+  </text>
+  <text x="440" y="450" font-family="Arial, sans-serif" font-size="10" fill="#333">
+    • Forskjellige nedskrivningskriterier
+  </text>
+  
+  <!-- Arrow between columns -->
+  <polygon points="380,400 400,390 400,410" fill="#ffc107"/>
+  <text x="390" y="385" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#ffc107">
+    ≠
+  </text>
+  
+  <!-- Icons -->
+  <circle cx="100" cy="60" r="20" fill="#dc3545" opacity="0.1"/>
+  <text x="100" y="68" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#dc3545">
+    %
+  </text>
+  
+  <circle cx="700" cy="60" r="20" fill="#28a745" opacity="0.1"/>
+  <text x="700" y="68" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#28a745">
+    kr
+  </text>
+</svg>

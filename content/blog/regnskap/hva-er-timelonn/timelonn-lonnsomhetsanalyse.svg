@@ -1,0 +1,210 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e40af">
+    Lønnsomhetsanalyse for Timelønn
+  </text>
+  
+  <!-- Cost Breakdown Chart -->
+  <rect x="50" y="80" width="350" height="250" rx="10" fill="white" stroke="#d1d5db" stroke-width="2"/>
+  <text x="225" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#374151">
+    Kostnadssstruktur per Time
+  </text>
+  
+  <!-- Bar Chart -->
+  <!-- Direct Salary -->
+  <rect x="80" y="130" width="40" height="100" fill="#3b82f6" opacity="0.7"/>
+  <text x="100" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#1e40af">
+    Grunnlønn
+  </text>
+  <text x="100" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#1e40af">
+    200 kr
+  </text>
+  
+  <!-- Social Costs -->
+  <rect x="140" y="180" width="40" height="50" fill="#10b981" opacity="0.7"/>
+  <text x="160" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#059669">
+    Sosiale
+  </text>
+  <text x="160" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#059669">
+    50 kr
+  </text>
+  
+  <!-- Overhead -->
+  <rect x="200" y="200" width="40" height="30" fill="#f59e0b" opacity="0.7"/>
+  <text x="220" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#d97706">
+    Overhead
+  </text>
+  <text x="220" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#d97706">
+    30 kr
+  </text>
+  
+  <!-- Equipment -->
+  <rect x="260" y="210" width="40" height="20" fill="#ef4444" opacity="0.7"/>
+  <text x="280" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#dc2626">
+    Utstyr
+  </text>
+  <text x="280" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#dc2626">
+    20 kr
+  </text>
+  
+  <!-- Training -->
+  <rect x="320" y="220" width="40" height="10" fill="#8b5cf6" opacity="0.7"/>
+  <text x="340" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7c3aed">
+    Opplæring
+  </text>
+  <text x="340" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7c3aed">
+    10 kr
+  </text>
+  
+  <!-- Total Cost Line -->
+  <line x1="80" y1="290" x2="360" y2="290" stroke="#374151" stroke-width="2"/>
+  <text x="220" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#374151">
+    Total kostnad per time: 310 kr
+  </text>
+  
+  <!-- Revenue Analysis -->
+  <rect x="420" y="80" width="330" height="250" rx="10" fill="white" stroke="#d1d5db" stroke-width="2"/>
+  <text x="585" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#374151">
+    Inntektsanalyse
+  </text>
+  
+  <!-- Revenue scenarios -->
+  <rect x="440" y="130" width="80" height="60" fill="#dcfce7" stroke="#10b981" stroke-width="2"/>
+  <text x="480" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#059669">
+    Intern Prosjekt
+  </text>
+  <text x="480" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#065f46">
+    Kostpris: 310 kr
+  </text>
+  <text x="480" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#065f46">
+    Margin: 0%
+  </text>
+  
+  <rect x="540" y="130" width="80" height="60" fill="#fef3c7" stroke="#f59e0b" stroke-width="2"/>
+  <text x="580" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#d97706">
+    Klientarbeid
+  </text>
+  <text x="580" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#92400e">
+    Salgspris: 450 kr
+  </text>
+  <text x="580" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#92400e">
+    Margin: 31%
+  </text>
+  
+  <rect x="640" y="130" width="80" height="60" fill="#dbeafe" stroke="#3b82f6" stroke-width="2"/>
+  <text x="680" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1d4ed8">
+    Spesialkompetanse
+  </text>
+  <text x="680" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#1e3a8a">
+    Salgspris: 650 kr
+  </text>
+  <text x="680" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#1e3a8a">
+    Margin: 52%
+  </text>
+  
+  <!-- Profitability Chart -->
+  <rect x="440" y="210" width="280" height="100" fill="#f3f4f6"/>
+  <text x="580" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#374151">
+    Månedlig Lønnsomhet (160 timer)
+  </text>
+  
+  <!-- Monthly bars -->
+  <rect x="460" y="250" width="60" height="15" fill="#ef4444" opacity="0.6"/>
+  <text x="490" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#991b1b">
+    Kostnad: 49 600 kr
+  </text>
+  
+  <rect x="540" y="250" width="60" height="22" fill="#f59e0b" opacity="0.6"/>
+  <text x="570" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#92400e">
+    Klient: 72 000 kr
+  </text>
+  
+  <rect x="620" y="250" width="60" height="35" fill="#10b981" opacity="0.6"/>
+  <text x="650" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#065f46">
+    Spesial: 104 000 kr
+  </text>
+  
+  <!-- KPI Dashboard -->
+  <rect x="50" y="360" width="700" height="180" rx="10" fill="white" stroke="#d1d5db" stroke-width="2"/>
+  <text x="400" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#374151">
+    Nøkkeltall for Timelønn (KPIer)
+  </text>
+  
+  <!-- KPI Grid -->
+  <rect x="80" y="410" width="150" height="60" fill="#e5f7ff" stroke="#0ea5e9" stroke-width="1"/>
+  <text x="155" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#0369a1">
+    Produktivitetsrate
+  </text>
+  <text x="155" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#0ea5e9">
+    75%
+  </text>
+  <text x="155" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#075985">
+    Fakturerbare/totale timer
+  </text>
+  
+  <rect x="250" y="410" width="150" height="60" fill="#f0fdf4" stroke="#22c55e" stroke-width="1"/>
+  <text x="325" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#15803d">
+    Kapasitetsutnyttelse
+  </text>
+  <text x="325" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#22c55e">
+    92%
+  </text>
+  <text x="325" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#14532d">
+    Planlagte/maks timer
+  </text>
+  
+  <rect x="420" y="410" width="150" height="60" fill="#fef3c7" stroke="#f59e0b" stroke-width="1"/>
+  <text x="495" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#d97706">
+    Overtidsandel
+  </text>
+  <text x="495" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#f59e0b">
+    12%
+  </text>
+  <text x="495" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#92400e">
+    Overtidstimer/totalt
+  </text>
+  
+  <rect x="590" y="410" width="150" height="60" fill="#fce7f3" stroke="#ec4899" stroke-width="1"/>
+  <text x="665" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#be185d">
+    Effektiv timesats
+  </text>
+  <text x="665" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#ec4899">
+    385 kr
+  </text>
+  <text x="665" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#9d174d">
+    Snitt salg minus kostnad
+  </text>
+  
+  <!-- Bottom KPIs -->
+  <rect x="140" y="490" width="150" height="40" fill="#f3e8ff" stroke="#a855f7" stroke-width="1"/>
+  <text x="215" y="510" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#7e22ce">
+    ROI per ansatt: 24%
+  </text>
+  <text x="215" y="525" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6b21a8">
+    Avkastning investering
+  </text>
+  
+  <rect x="310" y="490" width="180" height="40" fill="#dcfce7" stroke="#16a34a" stroke-width="1"/>
+  <text x="400" y="510" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#15803d">
+    Personalkost./omsetning: 42%
+  </text>
+  <text x="400" y="525" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#14532d">
+    Bransjegjennomsnitt: 35-55%
+  </text>
+  
+  <rect x="510" y="490" width="150" height="40" fill="#fef2f2" stroke="#ef4444" stroke-width="1"/>
+  <text x="585" y="510" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#dc2626">
+    Sykefravær: 6,2%
+  </text>
+  <text x="585" y="525" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#991b1b">
+    Nasjonalt gjennomsnitt: 5,8%
+  </text>
+  
+  <!-- Bottom Note -->
+  <text x="400" y="570" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6b7280">
+    Optimal lønnsomhet krever balanse mellom kostnadskontroll og salgsoptimalisering
+  </text>
+</svg>

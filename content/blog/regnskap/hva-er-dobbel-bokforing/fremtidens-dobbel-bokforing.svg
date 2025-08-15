@@ -1,0 +1,235 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="futureGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="blockchainGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#8b5cf6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7c3aed;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="realtimeGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#10b981;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#059669;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="automationGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f59e0b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#d97706;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="ecosystemGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ef4444;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#dc2626;stop-opacity:1" />
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge> 
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#64748b" />
+    </marker>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="url(#bgGradient)"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e293b">
+    Fremtidens Dobbel Bokføring
+  </text>
+  
+  <!-- Central Future Hub -->
+  <circle cx="400" cy="300" r="100" fill="url(#futureGradient)" stroke="#1d4ed8" stroke-width="4" filter="url(#glow)"/>
+  <text x="400" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+    Fremtidens
+  </text>
+  <text x="400" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+    Dobbel Bokføring
+  </text>
+  <text x="400" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    Intelligent • Automatisert • Integrert
+  </text>
+  
+  <!-- Blockchain Technology -->
+  <g transform="translate(120, 120)">
+    <rect x="0" y="0" width="160" height="100" rx="15" fill="url(#blockchainGradient)" stroke="#7c3aed" stroke-width="3"/>
+    <text x="80" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      Blockchain-teknologi
+    </text>
+    <text x="80" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+      Uforanderlig transaksjonshistorikk
+    </text>
+    <text x="20" y="65" font-family="Arial, sans-serif" font-size="10" fill="white">• Distribuert regnskapsføring</text>
+    <text x="20" y="80" font-family="Arial, sans-serif" font-size="10" fill="white">• Kryptografisk sikkerhet</text>
+    <text x="20" y="95" font-family="Arial, sans-serif" font-size="10" fill="white">• Transparent og sporbar</text>
+    <!-- Connection line -->
+    <line x1="160" y1="70" x2="300" y2="250" stroke="#64748b" stroke-width="3" stroke-dasharray="8,4" marker-end="url(#arrowhead)"/>
+  </g>
+  
+  <!-- Real-time Bookkeeping -->
+  <g transform="translate(520, 120)">
+    <rect x="0" y="0" width="160" height="100" rx="15" fill="url(#realtimeGradient)" stroke="#059669" stroke-width="3"/>
+    <text x="80" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      Sanntidsbokføring
+    </text>
+    <text x="80" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+      Øyeblikkelig registrering og rapportering
+    </text>
+    <text x="20" y="65" font-family="Arial, sans-serif" font-size="10" fill="white">• Live finansielle dashboards</text>
+    <text x="20" y="80" font-family="Arial, sans-serif" font-size="10" fill="white">• Kontinuerlig avstemming</text>
+    <text x="20" y="95" font-family="Arial, sans-serif" font-size="10" fill="white">• Prediktiv analyse</text>
+    <!-- Connection line -->
+    <line x1="0" y1="70" x2="500" y2="250" stroke="#64748b" stroke-width="3" stroke-dasharray="8,4" marker-end="url(#arrowhead)"/>
+  </g>
+  
+  <!-- Automation -->
+  <g transform="translate(120, 380)">
+    <rect x="0" y="0" width="160" height="100" rx="15" fill="url(#automationGradient)" stroke="#d97706" stroke-width="3"/>
+    <text x="80" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      Total Automatisering
+    </text>
+    <text x="80" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+      Minimal manuell inngripen
+    </text>
+    <text x="20" y="65" font-family="Arial, sans-serif" font-size="10" fill="white">• AI-drevet kontering</text>
+    <text x="20" y="80" font-family="Arial, sans-serif" font-size="10" fill="white">• Selvlærende systemer</text>
+    <text x="20" y="95" font-family="Arial, sans-serif" font-size="10" fill="white">• Automatisk compliance</text>
+    <!-- Connection line -->
+    <line x1="160" y1="30" x2="300" y2="350" stroke="#64748b" stroke-width="3" stroke-dasharray="8,4" marker-end="url(#arrowhead)"/>
+  </g>
+  
+  <!-- Integrated Ecosystems -->
+  <g transform="translate(520, 380)">
+    <rect x="0" y="0" width="160" height="100" rx="15" fill="url(#ecosystemGradient)" stroke="#dc2626" stroke-width="3"/>
+    <text x="80" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      Integrerte Økosystemer
+    </text>
+    <text x="80" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+      Sømløs kobling mellom alle systemer
+    </text>
+    <text x="20" y="65" font-family="Arial, sans-serif" font-size="10" fill="white">• API-basert integrasjon</text>
+    <text x="20" y="80" font-family="Arial, sans-serif" font-size="10" fill="white">• Tverrsektoriell datadeling</text>
+    <text x="20" y="95" font-family="Arial, sans-serif" font-size="10" fill="white">• Holistisk forretningsstyring</text>
+    <!-- Connection line -->
+    <line x1="0" y1="30" x2="500" y2="350" stroke="#64748b" stroke-width="3" stroke-dasharray="8,4" marker-end="url(#arrowhead)"/>
+  </g>
+  
+  <!-- Key Benefits Section -->
+  <g transform="translate(50, 520)">
+    <rect x="0" y="0" width="700" height="60" rx="10" fill="#f1f5f9" stroke="#64748b" stroke-width="2"/>
+    <text x="350" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">
+      Nøkkelfordeler med Fremtidens Dobbel Bokføring
+    </text>
+    
+    <!-- Benefit 1 -->
+    <g transform="translate(30, 30)">
+      <circle cx="8" cy="8" r="6" fill="#3b82f6"/>
+      <text x="8" y="12" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">1</text>
+      <text x="20" y="8" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e293b">Økt sikkerhet</text>
+      <text x="20" y="20" font-family="Arial, sans-serif" font-size="9" fill="#64748b">Kryptografisk beskyttelse</text>
+    </g>
+    
+    <!-- Benefit 2 -->
+    <g transform="translate(150, 30)">
+      <circle cx="8" cy="8" r="6" fill="#10b981"/>
+      <text x="8" y="12" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">2</text>
+      <text x="20" y="8" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e293b">Sanntidsinnsikt</text>
+      <text x="20" y="20" font-family="Arial, sans-serif" font-size="9" fill="#64748b">Øyeblikkelig beslutningsgrunnlag</text>
+    </g>
+    
+    <!-- Benefit 3 -->
+    <g transform="translate(290, 30)">
+      <circle cx="8" cy="8" r="6" fill="#f59e0b"/>
+      <text x="8" y="12" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">3</text>
+      <text x="20" y="8" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e293b">Kostnadseffektivitet</text>
+      <text x="20" y="20" font-family="Arial, sans-serif" font-size="9" fill="#64748b">Reduserte driftskostnader</text>
+    </g>
+    
+    <!-- Benefit 4 -->
+    <g transform="translate(450, 30)">
+      <circle cx="8" cy="8" r="6" fill="#ef4444"/>
+      <text x="8" y="12" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">4</text>
+      <text x="20" y="8" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e293b">Global standardisering</text>
+      <text x="20" y="20" font-family="Arial, sans-serif" font-size="9" fill="#64748b">Universell kompatibilitet</text>
+    </g>
+    
+    <!-- Benefit 5 -->
+    <g transform="translate(590, 30)">
+      <circle cx="8" cy="8" r="6" fill="#8b5cf6"/>
+      <text x="8" y="12" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">5</text>
+      <text x="20" y="8" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e293b">Skalerbarhet</text>
+      <text x="20" y="20" font-family="Arial, sans-serif" font-size="9" fill="#64748b">Håndterer kompleks vekst</text>
+    </g>
+  </g>
+  
+  <!-- Technology Timeline -->
+  <g transform="translate(300, 250)">
+    <circle cx="0" cy="0" r="3" fill="#64748b"/>
+    <circle cx="50" cy="0" r="3" fill="#3b82f6"/>
+    <circle cx="100" cy="0" r="3" fill="#10b981"/>
+    <circle cx="150" cy="0" r="3" fill="#f59e0b"/>
+    <circle cx="200" cy="0" r="3" fill="#ef4444"/>
+    <line x1="0" y1="0" x2="200" y2="0" stroke="#64748b" stroke-width="2"/>
+    
+    <text x="100" y="-15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#64748b">
+      Teknologisk Evolusjon
+    </text>
+    <text x="0" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#64748b">I dag</text>
+    <text x="200" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#64748b">2030+</text>
+  </g>
+  
+  <!-- Challenges and Opportunities -->
+  <g transform="translate(50, 60)">
+    <text x="0" y="0" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#64748b">Utfordringer og Muligheter:</text>
+    <text x="200" y="0" font-family="Arial, sans-serif" font-size="10" fill="#dc2626">• Cybersikkerhet</text>
+    <text x="320" y="0" font-family="Arial, sans-serif" font-size="10" fill="#f59e0b">• Regulatorisk tilpasning</text>
+    <text x="480" y="0" font-family="Arial, sans-serif" font-size="10" fill="#10b981">• Kompetanseutvikling</text>
+    <text x="620" y="0" font-family="Arial, sans-serif" font-size="10" fill="#3b82f6">• Standardisering</text>
+  </g>
+  
+  <!-- Innovation Icons -->
+  <!-- Blockchain icon -->
+  <g transform="translate(180, 140)">
+    <rect x="0" y="0" width="8" height="8" fill="white" opacity="0.9"/>
+    <rect x="10" y="0" width="8" height="8" fill="white" opacity="0.7"/>
+    <rect x="20" y="0" width="8" height="8" fill="white" opacity="0.9"/>
+    <line x1="8" y1="4" x2="10" y2="4" stroke="white" stroke-width="1"/>
+    <line x1="18" y1="4" x2="20" y2="4" stroke="white" stroke-width="1"/>
+  </g>
+  
+  <!-- Real-time icon -->
+  <g transform="translate(580, 140)">
+    <circle cx="12" cy="12" r="10" fill="none" stroke="white" stroke-width="2"/>
+    <line x1="12" y1="12" x2="18" y2="8" stroke="white" stroke-width="2"/>
+    <line x1="12" y1="12" x2="12" y2="6" stroke="white" stroke-width="2"/>
+  </g>
+  
+  <!-- Automation icon -->
+  <g transform="translate(180, 400)">
+    <circle cx="8" cy="8" r="6" fill="none" stroke="white" stroke-width="2"/>
+    <circle cx="16" cy="8" r="6" fill="none" stroke="white" stroke-width="2"/>
+    <line x1="14" y1="8" x2="10" y2="8" stroke="white" stroke-width="2"/>
+  </g>
+  
+  <!-- Integration icon -->
+  <g transform="translate(580, 400)">
+    <circle cx="6" cy="6" r="4" fill="white" opacity="0.8"/>
+    <circle cx="18" cy="6" r="4" fill="white" opacity="0.8"/>
+    <circle cx="6" cy="18" r="4" fill="white" opacity="0.8"/>
+    <circle cx="18" cy="18" r="4" fill="white" opacity="0.8"/>
+    <line x1="10" y1="6" x2="14" y2="6" stroke="white" stroke-width="1"/>
+    <line x1="6" y1="10" x2="6" y2="14" stroke="white" stroke-width="1"/>
+    <line x1="18" y1="10" x2="18" y2="14" stroke="white" stroke-width="1"/>
+    <line x1="10" y1="18" x2="14" y2="18" stroke="white" stroke-width="1"/>
+  </g>
+  
+  <!-- Orbital rings around center -->
+  <circle cx="400" cy="300" r="150" fill="none" stroke="#64748b" stroke-width="1" stroke-dasharray="10,5" opacity="0.3"/>
+  <circle cx="400" cy="300" r="200" fill="none" stroke="#64748b" stroke-width="1" stroke-dasharray="15,10" opacity="0.2"/>
+</svg>

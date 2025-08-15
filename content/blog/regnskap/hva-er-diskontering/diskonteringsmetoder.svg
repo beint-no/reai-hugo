@@ -1,0 +1,199 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0D47A1;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="methodGradient1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1B5E20;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="methodGradient2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF9800;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#E65100;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="methodGradient3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#9C27B0;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4A148C;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="methodGradient4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#F44336;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#B71C1C;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
+  <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
+    Diskonteringsmetoder
+  </text>
+  
+  <!-- Method 1: Simple Discounting -->
+  <g transform="translate(50, 80)">
+    <rect x="0" y="0" width="340" height="120" rx="10" fill="url(#methodGradient1)" opacity="0.9"/>
+    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      1. Enkelt Diskontering
+    </text>
+    
+    <!-- Icon -->
+    <circle cx="50" cy="60" r="20" fill="white" opacity="0.3"/>
+    <text x="50" y="67" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">💰</text>
+    
+    <!-- Description -->
+    <text x="90" y="50" font-family="Arial, sans-serif" font-size="14" fill="white">
+      For enkeltstående fremtidige betalinger
+    </text>
+    
+    <!-- Formula -->
+    <rect x="90" y="60" width="230" height="25" rx="5" fill="white" opacity="0.2"/>
+    <text x="205" y="77" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      PV = FV / (1 + r)^n
+    </text>
+    
+    <!-- Example -->
+    <text x="90" y="100" font-family="Arial, sans-serif" font-size="12" fill="white">
+      Eksempel: 100 000 kr om 3 år, r=8% → PV = 79 383 kr
+    </text>
+  </g>
+  
+  <!-- Method 2: Annuity Discounting -->
+  <g transform="translate(410, 80)">
+    <rect x="0" y="0" width="340" height="120" rx="10" fill="url(#methodGradient2)" opacity="0.9"/>
+    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      2. Annuitet Diskontering
+    </text>
+    
+    <!-- Icon -->
+    <circle cx="50" cy="60" r="20" fill="white" opacity="0.3"/>
+    <text x="50" y="67" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">📊</text>
+    
+    <!-- Description -->
+    <text x="90" y="50" font-family="Arial, sans-serif" font-size="14" fill="white">
+      For like årlige betalinger over flere år
+    </text>
+    
+    <!-- Formula -->
+    <rect x="90" y="60" width="230" height="25" rx="5" fill="white" opacity="0.2"/>
+    <text x="205" y="77" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      PV = PMT × [(1-(1+r)^-n)/r]
+    </text>
+    
+    <!-- Example -->
+    <text x="90" y="100" font-family="Arial, sans-serif" font-size="12" fill="white">
+      Eksempel: 50 000 kr/år i 5 år, r=6% → PV = 210 618 kr
+    </text>
+  </g>
+  
+  <!-- Method 3: Perpetuity Discounting -->
+  <g transform="translate(50, 220)">
+    <rect x="0" y="0" width="340" height="120" rx="10" fill="url(#methodGradient3)" opacity="0.9"/>
+    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      3. Perpetuitet Diskontering
+    </text>
+    
+    <!-- Icon -->
+    <circle cx="50" cy="60" r="20" fill="white" opacity="0.3"/>
+    <text x="50" y="67" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">♾️</text>
+    
+    <!-- Description -->
+    <text x="90" y="50" font-family="Arial, sans-serif" font-size="14" fill="white">
+      For evige like betalinger
+    </text>
+    
+    <!-- Formula -->
+    <rect x="90" y="60" width="230" height="25" rx="5" fill="white" opacity="0.2"/>
+    <text x="205" y="77" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      PV = PMT / r
+    </text>
+    
+    <!-- Example -->
+    <text x="90" y="100" font-family="Arial, sans-serif" font-size="12" fill="white">
+      Eksempel: 30 000 kr/år for alltid, r=5% → PV = 600 000 kr
+    </text>
+  </g>
+  
+  <!-- Method 4: Growing Perpetuity -->
+  <g transform="translate(410, 220)">
+    <rect x="0" y="0" width="340" height="120" rx="10" fill="url(#methodGradient4)" opacity="0.9"/>
+    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      4. Voksende Perpetuitet
+    </text>
+    
+    <!-- Icon -->
+    <circle cx="50" cy="60" r="20" fill="white" opacity="0.3"/>
+    <text x="50" y="67" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">📈</text>
+    
+    <!-- Description -->
+    <text x="90" y="50" font-family="Arial, sans-serif" font-size="14" fill="white">
+      For evige betalinger som vokser med konstant rate
+    </text>
+    
+    <!-- Formula -->
+    <rect x="90" y="60" width="230" height="25" rx="5" fill="white" opacity="0.2"/>
+    <text x="205" y="77" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      PV = PMT / (r - g)
+    </text>
+    
+    <!-- Example -->
+    <text x="90" y="100" font-family="Arial, sans-serif" font-size="12" fill="white">
+      Eksempel: 25 000 kr/år, vekst 3%, r=8% → PV = 500 000 kr
+    </text>
+  </g>
+  
+  <!-- Comparison Table -->
+  <g transform="translate(50, 360)">
+    <rect x="0" y="0" width="700" height="160" rx="10" fill="#ffffff" stroke="#ddd" stroke-width="2"/>
+    <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333">
+      Sammenligning av Diskonteringsmetoder
+    </text>
+    
+    <!-- Table Headers -->
+    <rect x="20" y="40" width="660" height="25" fill="#f5f5f5" stroke="#ddd" stroke-width="1"/>
+    <text x="40" y="55" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#333">Metode</text>
+    <text x="180" y="55" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#333">Anvendelse</text>
+    <text x="380" y="55" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#333">Kontantstrøm</text>
+    <text x="550" y="55" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#333">Kompleksitet</text>
+    
+    <!-- Row 1: Simple -->
+    <text x="40" y="80" font-family="Arial, sans-serif" font-size="12" fill="#333">Enkelt</text>
+    <text x="180" y="80" font-family="Arial, sans-serif" font-size="12" fill="#333">Engangsbeløp</text>
+    <text x="380" y="80" font-family="Arial, sans-serif" font-size="12" fill="#333">Ett fremtidig beløp</text>
+    <text x="550" y="80" font-family="Arial, sans-serif" font-size="12" fill="#4CAF50">Lav</text>
+    
+    <!-- Row 2: Annuity -->
+    <text x="40" y="100" font-family="Arial, sans-serif" font-size="12" fill="#333">Annuitet</text>
+    <text x="180" y="100" font-family="Arial, sans-serif" font-size="12" fill="#333">Lån, leasing</text>
+    <text x="380" y="100" font-family="Arial, sans-serif" font-size="12" fill="#333">Like årlige beløp</text>
+    <text x="550" y="100" font-family="Arial, sans-serif" font-size="12" fill="#FF9800">Middels</text>
+    
+    <!-- Row 3: Perpetuity -->
+    <text x="40" y="120" font-family="Arial, sans-serif" font-size="12" fill="#333">Perpetuitet</text>
+    <text x="180" y="120" font-family="Arial, sans-serif" font-size="12" fill="#333">Obligasjoner, aksjer</text>
+    <text x="380" y="120" font-family="Arial, sans-serif" font-size="12" fill="#333">Evige like beløp</text>
+    <text x="550" y="120" font-family="Arial, sans-serif" font-size="12" fill="#4CAF50">Lav</text>
+    
+    <!-- Row 4: Growing Perpetuity -->
+    <text x="40" y="140" font-family="Arial, sans-serif" font-size="12" fill="#333">Voksende Perpetuitet</text>
+    <text x="180" y="140" font-family="Arial, sans-serif" font-size="12" fill="#333">Aksjevurdering</text>
+    <text x="380" y="140" font-family="Arial, sans-serif" font-size="12" fill="#333">Voksende beløp</text>
+    <text x="550" y="140" font-family="Arial, sans-serif" font-size="12" fill="#FF9800">Middels</text>
+  </g>
+  
+  <!-- Key Considerations -->
+  <g transform="translate(50, 540)">
+    <rect x="0" y="0" width="700" height="50" rx="10" fill="#e3f2fd" stroke="#2196F3" stroke-width="2"/>
+    <text x="350" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1976D2">
+      Viktige Hensyn ved Valg av Metode
+    </text>
+    
+    <text x="50" y="35" font-family="Arial, sans-serif" font-size="13" fill="#333">
+      • Velg metode basert på kontantstrømmenes natur og timing
+    </text>
+    <text x="400" y="35" font-family="Arial, sans-serif" font-size="13" fill="#333">
+      • Vurder om vekst er realistisk over tid
+    </text>
+  </g>
+</svg>

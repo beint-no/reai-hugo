@@ -1,0 +1,139 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="cardGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f1f5f9;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="#000000" flood-opacity="0.1"/>
+    </filter>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="url(#bgGradient)"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" font-family="Arial, sans-serif" font-size="28" font-weight="bold" 
+        text-anchor="middle" fill="#1e293b">Beste Praksis - Årsavslutning</text>
+  
+  <!-- Main circle in center -->
+  <circle cx="400" cy="320" r="80" fill="#3b82f6" stroke="#1e40af" stroke-width="3" filter="url(#shadow)"/>
+  <text x="400" y="315" font-family="Arial, sans-serif" font-size="14" font-weight="bold" 
+        text-anchor="middle" fill="white">ÅRSAVSLUTNING</text>
+  <text x="400" y="330" font-family="Arial, sans-serif" font-size="12" 
+        text-anchor="middle" fill="white">BESTE PRAKSIS</text>
+  
+  <!-- Phase 1: Planning -->
+  <g transform="translate(150, 150)">
+    <rect x="0" y="0" width="160" height="100" rx="10" fill="url(#cardGradient)" 
+          stroke="#10b981" stroke-width="2" filter="url(#shadow)"/>
+    <text x="80" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" 
+          text-anchor="middle" fill="#065f46">1. PLANLEGGING</text>
+    <text x="10" y="40" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Tidlig start</text>
+    <text x="10" y="55" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Månedlige avstemminger</text>
+    <text x="10" y="70" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Kvartalsvise gjennomganger</text>
+    <text x="10" y="85" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Løpende dokumentasjon</text>
+  </g>
+  
+  <!-- Phase 2: Competence -->
+  <g transform="translate(490, 150)">
+    <rect x="0" y="0" width="160" height="100" rx="10" fill="url(#cardGradient)" 
+          stroke="#8b5cf6" stroke-width="2" filter="url(#shadow)"/>
+    <text x="80" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" 
+          text-anchor="middle" fill="#581c87">2. KOMPETANSE</text>
+    <text x="10" y="40" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Opplæring av personale</text>
+    <text x="10" y="55" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Ekstern bistand</text>
+    <text x="10" y="70" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Kvalitetssikring</text>
+    <text x="10" y="85" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Kontrollrutiner</text>
+  </g>
+  
+  <!-- Phase 3: Standardization -->
+  <g transform="translate(150, 450)">
+    <rect x="0" y="0" width="160" height="100" rx="10" fill="url(#cardGradient)" 
+          stroke="#f59e0b" stroke-width="2" filter="url(#shadow)"/>
+    <text x="80" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" 
+          text-anchor="middle" fill="#92400e">3. STANDARDISERING</text>
+    <text x="10" y="40" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Prosedyrer og sjekklister</text>
+    <text x="10" y="55" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Standardiserte maler</text>
+    <text x="10" y="70" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Tidsplaner med milepæler</text>
+    <text x="10" y="85" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Kontrollpunkter</text>
+  </g>
+  
+  <!-- Phase 4: Technology -->
+  <g transform="translate(490, 450)">
+    <rect x="0" y="0" width="160" height="100" rx="10" fill="url(#cardGradient)" 
+          stroke="#ef4444" stroke-width="2" filter="url(#shadow)"/>
+    <text x="80" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" 
+          text-anchor="middle" fill="#991b1b">4. TEKNOLOGI</text>
+    <text x="10" y="40" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Digitale løsninger</text>
+    <text x="10" y="55" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Automatiske funksjoner</text>
+    <text x="10" y="70" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Systemintegrasjon</text>
+    <text x="10" y="85" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Analyseverktøy</text>
+  </g>
+  
+  <!-- Arrows connecting phases to center -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#64748b"/>
+    </marker>
+  </defs>
+  
+  <!-- Arrow from Planning to center -->
+  <line x1="275" y1="220" x2="350" y2="280" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Arrow from Competence to center -->
+  <line x1="525" y1="220" x2="450" y2="280" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Arrow from Standardization to center -->
+  <line x1="275" y1="420" x2="350" y2="360" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Arrow from Technology to center -->
+  <line x1="525" y1="420" x2="450" y2="360" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Success factors box -->
+  <rect x="50" y="90" width="200" height="40" rx="5" fill="#dcfce7" stroke="#16a34a" stroke-width="1"/>
+  <text x="150" y="105" font-family="Arial, sans-serif" font-size="12" font-weight="bold" 
+        text-anchor="middle" fill="#15803d">SUKSESSFAKTORER</text>
+  <text x="150" y="120" font-family="Arial, sans-serif" font-size="10" 
+        text-anchor="middle" fill="#166534">Systematisk tilnærming</text>
+  
+  <!-- Benefits box -->
+  <rect x="550" y="90" width="200" height="40" rx="5" fill="#e0f2fe" stroke="#0284c7" stroke-width="1"/>
+  <text x="650" y="105" font-family="Arial, sans-serif" font-size="12" font-weight="bold" 
+        text-anchor="middle" fill="#0369a1">RESULTATER</text>
+  <text x="650" y="120" font-family="Arial, sans-serif" font-size="10" 
+        text-anchor="middle" fill="#075985">Effektiv og pålitelig avslutning</text>
+  
+  <!-- Quality circle -->
+  <circle cx="100" cy="320" r="40" fill="#22c55e" stroke="#16a34a" stroke-width="2" filter="url(#shadow)"/>
+  <text x="100" y="315" font-family="Arial, sans-serif" font-size="10" font-weight="bold" 
+        text-anchor="middle" fill="white">KVALITET</text>
+  <text x="100" y="327" font-family="Arial, sans-serif" font-size="8" 
+        text-anchor="middle" fill="white">SIKRING</text>
+  
+  <!-- Efficiency circle -->
+  <circle cx="700" cy="320" r="40" fill="#0ea5e9" stroke="#0284c7" stroke-width="2" filter="url(#shadow)"/>
+  <text x="700" y="315" font-family="Arial, sans-serif" font-size="10" font-weight="bold" 
+        text-anchor="middle" fill="white">EFFEKTIV</text>
+  <text x="700" y="327" font-family="Arial, sans-serif" font-size="8" 
+        text-anchor="middle" fill="white">ISERING</text>
+  
+  <!-- Connecting lines to side circles -->
+  <line x1="140" y1="320" x2="320" y2="320" stroke="#94a3b8" stroke-width="2" stroke-dasharray="5,5"/>
+  <line x1="480" y1="320" x2="660" y2="320" stroke="#94a3b8" stroke-width="2" stroke-dasharray="5,5"/>
+  
+  <!-- Bottom note -->
+  <text x="400" y="580" font-family="Arial, sans-serif" font-size="12" font-style="italic" 
+        text-anchor="middle" fill="#64748b">Vellykkede årsavslutninger bygger på solid planlegging og systematisk gjennomføring</text>
+</svg>

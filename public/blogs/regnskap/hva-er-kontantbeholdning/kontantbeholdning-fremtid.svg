@@ -1,0 +1,273 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="digitalGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#007bff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0056b3;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="aiGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6f42c1;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#5a2d91;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="esgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#20c997;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="blockchainGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffc107;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e0a800;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="url(#bgGradient)"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#2c3e50">
+    Fremtidige Trender i Kontantforvaltning
+  </text>
+  
+  <!-- Timeline arrow -->
+  <g transform="translate(100, 80)">
+    <line x1="0" y1="0" x2="600" y2="0" stroke="#2c3e50" stroke-width="4" marker-end="url(#arrowhead)"/>
+    <defs>
+      <marker id="arrowhead" markerWidth="15" markerHeight="10" refX="14" refY="5" orient="auto">
+        <polygon points="0 0, 15 5, 0 10" fill="#2c3e50"/>
+      </marker>
+    </defs>
+    <text x="300" y="-15" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#2c3e50">
+      Fremtiden
+    </text>
+  </g>
+  
+  <!-- Trend 1: Digitalisering -->
+  <g transform="translate(150, 150)">
+    <rect x="-70" y="0" width="140" height="120" fill="url(#digitalGradient)" stroke="#0056b3" stroke-width="2" rx="15"/>
+    
+    <!-- Digital icon -->
+    <rect x="-30" y="15" width="60" height="40" fill="white" stroke="#0056b3" stroke-width="2" rx="5"/>
+    <rect x="-25" y="20" width="10" height="6" fill="#0056b3"/>
+    <rect x="-10" y="20" width="10" height="6" fill="#0056b3"/>
+    <rect x="5" y="20" width="10" height="6" fill="#0056b3"/>
+    <rect x="20" y="20" width="10" height="6" fill="#0056b3"/>
+    <rect x="-25" y="30" width="15" height="6" fill="#0056b3"/>
+    <rect x="-5" y="30" width="15" height="6" fill="#0056b3"/>
+    <rect x="15" y="30" width="15" height="6" fill="#0056b3"/>
+    <rect x="-25" y="40" width="20" height="6" fill="#0056b3"/>
+    <rect x="10" y="40" width="20" height="6" fill="#0056b3"/>
+    
+    <!-- Title -->
+    <text x="0" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      Digitalisering
+    </text>
+    <text x="0" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      Automatisering &amp; Sanntid
+    </text>
+    <text x="0" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      Integrerte plattformer
+    </text>
+    
+    <!-- Details -->
+    <text x="0" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+      Nøkkelteknologier:
+    </text>
+    <text x="0" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+      • Cloud-baserte løsninger
+    </text>
+    <text x="0" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+      • API-integrasjoner
+    </text>
+    <text x="0" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+      • Mobile applikasjoner
+    </text>
+  </g>
+  
+  <!-- Trend 2: Kunstig Intelligens -->
+  <g transform="translate(350, 150)">
+    <rect x="-70" y="0" width="140" height="120" fill="url(#aiGradient)" stroke="#5a2d91" stroke-width="2" rx="15"/>
+    
+    <!-- AI icon -->
+    <circle cx="0" cy="35" r="25" fill="white" stroke="#5a2d91" stroke-width="2"/>
+    <circle cx="-8" cy="28" r="3" fill="#5a2d91"/>
+    <circle cx="8" cy="28" r="3" fill="#5a2d91"/>
+    <path d="M -10 40 Q 0 50 10 40" stroke="#5a2d91" stroke-width="2" fill="none"/>
+    
+    <!-- Neural network lines -->
+    <line x1="-15" y1="15" x2="-8" y2="28" stroke="#5a2d91" stroke-width="1"/>
+    <line x1="15" y1="15" x2="8" y2="28" stroke="#5a2d91" stroke-width="1"/>
+    <line x1="0" y1="10" x2="0" y2="28" stroke="#5a2d91" stroke-width="1"/>
+    <circle cx="-15" cy="15" r="2" fill="#5a2d91"/>
+    <circle cx="15" cy="15" r="2" fill="#5a2d91"/>
+    <circle cx="0" cy="10" r="2" fill="#5a2d91"/>
+    
+    <!-- Title -->
+    <text x="0" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      Kunstig Intelligens
+    </text>
+    <text x="0" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      Prediktiv analyse
+    </text>
+    <text x="0" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      Automatisk optimalisering
+    </text>
+    
+    <!-- Details -->
+    <text x="0" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+      Anvendelser:
+    </text>
+    <text x="0" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+      • Kontantstrømprognoser
+    </text>
+    <text x="0" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+      • Risikostyring
+    </text>
+    <text x="0" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+      • Scenarioanalyse
+    </text>
+  </g>
+  
+  <!-- Trend 3: ESG og Bærekraft -->
+  <g transform="translate(550, 150)">
+    <rect x="-70" y="0" width="140" height="120" fill="url(#esgGradient)" stroke="#20c997" stroke-width="2" rx="15"/>
+    
+    <!-- ESG icon -->
+    <circle cx="0" cy="35" r="20" fill="white" stroke="#20c997" stroke-width="2"/>
+    <path d="M -12 25 L -5 35 L 12 20" stroke="#20c997" stroke-width="3" fill="none"/>
+    <circle cx="0" cy="35" r="8" fill="none" stroke="#20c997" stroke-width="2"/>
+    
+    <!-- Leaf elements -->
+    <path d="M -25 20 Q -20 15 -15 20 Q -20 25 -25 20" fill="#20c997"/>
+    <path d="M 25 20 Q 20 15 15 20 Q 20 25 25 20" fill="#20c997"/>
+    
+    <!-- Title -->
+    <text x="0" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      ESG &amp; Bærekraft
+    </text>
+    <text x="0" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      Grønne investeringer
+    </text>
+    <text x="0" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      Bærekraftig finans
+    </text>
+    
+    <!-- Details -->
+    <text x="0" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+      Fokusområder:
+    </text>
+    <text x="0" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+      • Grønne obligasjoner
+    </text>
+    <text x="0" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+      • Bærekraftige banker
+    </text>
+    <text x="0" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+      • ESG-rapportering
+    </text>
+  </g>
+  
+  <!-- Trend 4: Blockchain og Digitale Valutaer -->
+  <g transform="translate(250, 320)">
+    <rect x="-70" y="0" width="140" height="120" fill="url(#blockchainGradient)" stroke="#e0a800" stroke-width="2" rx="15"/>
+    
+    <!-- Blockchain icon -->
+    <rect x="-25" y="15" width="15" height="15" fill="white" stroke="#e0a800" stroke-width="2" rx="2"/>
+    <rect x="-5" y="15" width="15" height="15" fill="white" stroke="#e0a800" stroke-width="2" rx="2"/>
+    <rect x="15" y="15" width="15" height="15" fill="white" stroke="#e0a800" stroke-width="2" rx="2"/>
+    <rect x="-15" y="35" width="15" height="15" fill="white" stroke="#e0a800" stroke-width="2" rx="2"/>
+    <rect x="5" y="35" width="15" height="15" fill="white" stroke="#e0a800" stroke-width="2" rx="2"/>
+    
+    <!-- Connection lines -->
+    <line x1="-10" y1="22" x2="-5" y2="22" stroke="#e0a800" stroke-width="2"/>
+    <line x1="10" y1="22" x2="15" y2="22" stroke="#e0a800" stroke-width="2"/>
+    <line x1="-17" y1="30" x2="-17" y2="35" stroke="#e0a800" stroke-width="2"/>
+    <line x1="2" y1="30" x2="2" y2="35" stroke="#e0a800" stroke-width="2"/>
+    <line x1="12" y1="30" x2="12" y2="35" stroke="#e0a800" stroke-width="2"/>
+    
+    <!-- Title -->
+    <text x="0" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      Blockchain &amp; CBDC
+    </text>
+    <text x="0" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      Digitale sentralbankvalutaer
+    </text>
+    <text x="0" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      Raskere oppgjør
+    </text>
+    
+    <!-- Details -->
+    <text x="0" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+      Muligheter:
+    </text>
+    <text x="0" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+      • Reduserte kostnader
+    </text>
+    <text x="0" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+      • Økt transparens
+    </text>
+    <text x="0" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+      • Nye kontantekvivalenter
+    </text>
+  </g>
+  
+  <!-- Trend 5: Regulatoriske Endringer -->
+  <g transform="translate(450, 320)">
+    <rect x="-70" y="0" width="140" height="120" fill="#dc3545" stroke="#c82333" stroke-width="2" rx="15"/>
+    
+    <!-- Regulatory icon -->
+    <rect x="-25" y="15" width="50" height="35" fill="white" stroke="#c82333" stroke-width="2" rx="3"/>
+    <rect x="-20" y="20" width="40" height="5" fill="#c82333"/>
+    <rect x="-20" y="30" width="30" height="3" fill="#c82333"/>
+    <rect x="-20" y="37" width="35" height="3" fill="#c82333"/>
+    <rect x="-20" y="44" width="25" height="3" fill="#c82333"/>
+    
+    <!-- Seal -->
+    <circle cx="15" cy="35" r="8" fill="#c82333"/>
+    <text x="15" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="white">
+      ✓
+    </text>
+    
+    <!-- Title -->
+    <text x="0" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      Regulatoriske Endringer
+    </text>
+    <text x="0" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      Økte transparenskrav
+    </text>
+    <text x="0" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      Nye standarder
+    </text>
+    
+    <!-- Details -->
+    <text x="0" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+      Endringer:
+    </text>
+    <text x="0" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+      • Likviditetsrapportering
+    </text>
+    <text x="0" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+      • Cybersikkerhet
+    </text>
+    <text x="0" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+      • Digitale valutaer
+    </text>
+  </g>
+  
+  <!-- Impact summary -->
+  <g transform="translate(400, 460)">
+    <text x="0" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
+      Samlet påvirkning på kontantforvaltning
+    </text>
+    <text x="-200" y="25" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
+      • Mer effektiv kapitalallokering
+    </text>
+    <text x="0" y="25" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
+      • Bedre risikostyring
+    </text>
+    <text x="200" y="25" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
+      • Økt automatisering
+    </text>
+  </g>
+</svg>

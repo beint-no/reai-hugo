@@ -1,0 +1,156 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-size="24" font-weight="bold" fill="#2c3e50">
+    Tollverdi Dokumentasjonskrav
+  </text>
+  
+  <!-- Primary Documents Section -->
+  <g transform="translate(50, 80)">
+    <rect x="0" y="0" width="300" height="200" fill="#e8f4f8" stroke="#3498db" stroke-width="2" rx="10"/>
+    <text x="150" y="25" text-anchor="middle" font-size="18" font-weight="bold" fill="#2c3e50">
+      Primære Dokumenter
+    </text>
+    
+    <!-- Document icons and text -->
+    <g transform="translate(20, 40)">
+      <!-- Invoice icon -->
+      <rect x="0" y="0" width="25" height="20" fill="#3498db" rx="2"/>
+      <text x="35" y="15" font-size="12" fill="#2c3e50">Salgsfaktura med prisspecifikasjon</text>
+      
+      <!-- Contract icon -->
+      <rect x="0" y="30" width="25" height="20" fill="#2ecc71" rx="2"/>
+      <text x="35" y="45" font-size="12" fill="#2c3e50">Kjøpekontrakt med vilkår</text>
+      
+      <!-- Transport icon -->
+      <rect x="0" y="60" width="25" height="20" fill="#f39c12" rx="2"/>
+      <text x="35" y="75" font-size="12" fill="#2c3e50">Fraktdokumenter med kostnader</text>
+      
+      <!-- Insurance icon -->
+      <rect x="0" y="90" width="25" height="20" fill="#e74c3c" rx="2"/>
+      <text x="35" y="105" font-size="12" fill="#2c3e50">Forsikringsdokumenter</text>
+      
+      <!-- Credit note icon -->
+      <rect x="0" y="120" width="25" height="20" fill="#9b59b6" rx="2"/>
+      <text x="35" y="135" font-size="12" fill="#2c3e50">Kreditnotaer og justeringer</text>
+    </g>
+  </g>
+  
+  <!-- Supporting Documents Section -->
+  <g transform="translate(450, 80)">
+    <rect x="0" y="0" width="300" height="200" fill="#fdf2e9" stroke="#e67e22" stroke-width="2" rx="10"/>
+    <text x="150" y="25" text-anchor="middle" font-size="18" font-weight="bold" fill="#2c3e50">
+      Støttedokumenter
+    </text>
+    
+    <!-- Document icons and text -->
+    <g transform="translate(20, 40)">
+      <!-- Royalty icon -->
+      <rect x="0" y="0" width="25" height="20" fill="#e67e22" rx="2"/>
+      <text x="35" y="15" font-size="12" fill="#2c3e50">Royalty-avtaler og beregninger</text>
+      
+      <!-- Analysis icon -->
+      <rect x="0" y="30" width="25" height="20" fill="#1abc9c" rx="2"/>
+      <text x="35" y="45" font-size="12" fill="#2c3e50">Verdikjede-analyser</text>
+      
+      <!-- Market icon -->
+      <rect x="0" y="60" width="25" height="20" fill="#34495e" rx="2"/>
+      <text x="35" y="75" font-size="12" fill="#2c3e50">Markedsanalyser og prissammenligninger</text>
+      
+      <!-- Technical icon -->
+      <rect x="0" y="90" width="25" height="20" fill="#e74c3c" rx="2"/>
+      <text x="35" y="105" font-size="12" fill="#2c3e50">Tekniske spesifikasjoner</text>
+      
+      <!-- Currency icon -->
+      <rect x="0" y="120" width="25" height="20" fill="#f39c12" rx="2"/>
+      <text x="35" y="135" font-size="12" fill="#2c3e50">Valutakursberegninger</text>
+    </g>
+  </g>
+  
+  <!-- Digital Documentation Section -->
+  <g transform="translate(50, 320)">
+    <rect x="0" y="0" width="700" height="160" fill="#eef7ff" stroke="#2980b9" stroke-width="2" rx="10"/>
+    <text x="350" y="25" text-anchor="middle" font-size="18" font-weight="bold" fill="#2c3e50">
+      Digital Dokumenthåndtering
+    </text>
+    
+    <!-- Digital system components -->
+    <g transform="translate(50, 40)">
+      <!-- TVINN System -->
+      <rect x="0" y="0" width="140" height="80" fill="#3498db" rx="5"/>
+      <text x="70" y="20" text-anchor="middle" font-size="14" font-weight="bold" fill="white">TVINN-systemet</text>
+      <text x="70" y="40" text-anchor="middle" font-size="11" fill="white">Strukturerte data</text>
+      <text x="70" y="55" text-anchor="middle" font-size="11" fill="white">Elektroniske vedlegg</text>
+      
+      <!-- Digital Signatures -->
+      <rect x="160" y="0" width="140" height="80" fill="#2ecc71" rx="5"/>
+      <text x="230" y="20" text-anchor="middle" font-size="14" font-weight="bold" fill="white">Digitale signaturer</text>
+      <text x="230" y="40" text-anchor="middle" font-size="11" fill="white">Validering</text>
+      <text x="230" y="55" text-anchor="middle" font-size="11" fill="white">Autentisering</text>
+      
+      <!-- Backup Systems -->
+      <rect x="320" y="0" width="140" height="80" fill="#e74c3c" rx="5"/>
+      <text x="390" y="20" text-anchor="middle" font-size="14" font-weight="bold" fill="white">Backup-systemer</text>
+      <text x="390" y="40" text-anchor="middle" font-size="11" fill="white">Dokumentbevaring</text>
+      <text x="390" y="55" text-anchor="middle" font-size="11" fill="white">Sikkerhetskopi</text>
+      
+      <!-- Integration -->
+      <rect x="480" y="0" width="140" height="80" fill="#9b59b6" rx="5"/>
+      <text x="550" y="20" text-anchor="middle" font-size="14" font-weight="bold" fill="white">Integrasjon</text>
+      <text x="550" y="40" text-anchor="middle" font-size="11" fill="white">Tolldeklarasjoner</text>
+      <text x="550" y="55" text-anchor="middle" font-size="11" fill="white">Automatisering</text>
+    </g>
+  </g>
+  
+  <!-- Documentation Process Flow -->
+  <g transform="translate(50, 500)">
+    <text x="0" y="0" font-size="16" font-weight="bold" fill="#2c3e50">Dokumentasjonsprosess:</text>
+    
+    <!-- Arrow flow -->
+    <g transform="translate(0, 20)">
+      <!-- Step 1 -->
+      <circle cx="50" cy="25" r="20" fill="#3498db"/>
+      <text x="50" y="30" text-anchor="middle" font-size="12" font-weight="bold" fill="white">1</text>
+      <text x="50" y="55" text-anchor="middle" font-size="11" fill="#2c3e50">Samle primære</text>
+      <text x="50" y="70" text-anchor="middle" font-size="11" fill="#2c3e50">dokumenter</text>
+      
+      <!-- Arrow -->
+      <polygon points="80,25 100,20 100,30" fill="#7f8c8d"/>
+      
+      <!-- Step 2 -->
+      <circle cx="130" cy="25" r="20" fill="#2ecc71"/>
+      <text x="130" y="30" text-anchor="middle" font-size="12" font-weight="bold" fill="white">2</text>
+      <text x="130" y="55" text-anchor="middle" font-size="11" fill="#2c3e50">Verifiser</text>
+      <text x="130" y="70" text-anchor="middle" font-size="11" fill="#2c3e50">støttedokumenter</text>
+      
+      <!-- Arrow -->
+      <polygon points="160,25 180,20 180,30" fill="#7f8c8d"/>
+      
+      <!-- Step 3 -->
+      <circle cx="210" cy="25" r="20" fill="#e67e22"/>
+      <text x="210" y="30" text-anchor="middle" font-size="12" font-weight="bold" fill="white">3</text>
+      <text x="210" y="55" text-anchor="middle" font-size="11" fill="#2c3e50">Digital</text>
+      <text x="210" y="70" text-anchor="middle" font-size="11" fill="#2c3e50">behandling</text>
+      
+      <!-- Arrow -->
+      <polygon points="240,25 260,20 260,30" fill="#7f8c8d"/>
+      
+      <!-- Step 4 -->
+      <circle cx="290" cy="25" r="20" fill="#e74c3c"/>
+      <text x="290" y="30" text-anchor="middle" font-size="12" font-weight="bold" fill="white">4</text>
+      <text x="290" y="55" text-anchor="middle" font-size="11" fill="#2c3e50">Innlevering til</text>
+      <text x="290" y="70" text-anchor="middle" font-size="11" fill="#2c3e50">tollvesen</text>
+    </g>
+  </g>
+  
+  <!-- Key Requirements Box -->
+  <g transform="translate(450, 500)">
+    <rect x="0" y="0" width="280" height="80" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="5"/>
+    <text x="10" y="20" font-size="14" font-weight="bold" fill="#856404">Viktige krav:</text>
+    <text x="10" y="35" font-size="12" fill="#856404">• Komplett prisspecifikasjon</text>
+    <text x="10" y="50" font-size="12" fill="#856404">• Korrekt valutaomregning</text>
+    <text x="10" y="65" font-size="12" fill="#856404">• Bevaringspliktig i 10 år</text>
+  </g>
+</svg>

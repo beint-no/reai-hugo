@@ -1,0 +1,113 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="calcGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#8b5cf6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7c3aed;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <rect width="800" height="600" fill="#f8fafc"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e40af">
+    Kontrollsiffer Beregning for Virksomhetsnummer
+  </text>
+  
+  <!-- Example number -->
+  <text x="400" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#64748b">
+    Eksempel: 123 456 78?
+  </text>
+  
+  <!-- Step 1: Multiplication table -->
+  <rect x="50" y="110" width="700" height="140" fill="white" stroke="#cbd5e1" stroke-width="1" rx="8"/>
+  
+  <text x="400" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1e40af">
+    Steg 1: Multipliser hver posisjon med vektfaktor
+  </text>
+  
+  <!-- Header row -->
+  <text x="80" y="165" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#374151">Posisjon:</text>
+  <text x="180" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#374151">1</text>
+  <text x="230" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#374151">2</text>
+  <text x="280" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#374151">3</text>
+  <text x="330" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#374151">4</text>
+  <text x="380" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#374151">5</text>
+  <text x="430" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#374151">6</text>
+  <text x="480" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#374151">7</text>
+  <text x="530" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#374151">8</text>
+  
+  <!-- Siffer row -->
+  <text x="80" y="185" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#374151">Siffer:</text>
+  <text x="180" y="185" text-anchor="middle" font-family="Arial, monospace" font-size="14" font-weight="bold" fill="#1e40af">1</text>
+  <text x="230" y="185" text-anchor="middle" font-family="Arial, monospace" font-size="14" font-weight="bold" fill="#1e40af">2</text>
+  <text x="280" y="185" text-anchor="middle" font-family="Arial, monospace" font-size="14" font-weight="bold" fill="#1e40af">3</text>
+  <text x="330" y="185" text-anchor="middle" font-family="Arial, monospace" font-size="14" font-weight="bold" fill="#1e40af">4</text>
+  <text x="380" y="185" text-anchor="middle" font-family="Arial, monospace" font-size="14" font-weight="bold" fill="#1e40af">5</text>
+  <text x="430" y="185" text-anchor="middle" font-family="Arial, monospace" font-size="14" font-weight="bold" fill="#1e40af">6</text>
+  <text x="480" y="185" text-anchor="middle" font-family="Arial, monospace" font-size="14" font-weight="bold" fill="#1e40af">7</text>
+  <text x="530" y="185" text-anchor="middle" font-family="Arial, monospace" font-size="14" font-weight="bold" fill="#1e40af">8</text>
+  
+  <!-- Vektfaktor row -->
+  <text x="80" y="205" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#374151">Vektfaktor:</text>
+  <text x="180" y="205" text-anchor="middle" font-family="Arial, monospace" font-size="14" fill="#7c3aed">3</text>
+  <text x="230" y="205" text-anchor="middle" font-family="Arial, monospace" font-size="14" fill="#7c3aed">2</text>
+  <text x="280" y="205" text-anchor="middle" font-family="Arial, monospace" font-size="14" fill="#7c3aed">7</text>
+  <text x="330" y="205" text-anchor="middle" font-family="Arial, monospace" font-size="14" fill="#7c3aed">6</text>
+  <text x="380" y="205" text-anchor="middle" font-family="Arial, monospace" font-size="14" fill="#7c3aed">5</text>
+  <text x="430" y="205" text-anchor="middle" font-family="Arial, monospace" font-size="14" fill="#7c3aed">4</text>
+  <text x="480" y="205" text-anchor="middle" font-family="Arial, monospace" font-size="14" fill="#7c3aed">3</text>
+  <text x="530" y="205" text-anchor="middle" font-family="Arial, monospace" font-size="14" fill="#7c3aed">2</text>
+  
+  <!-- Product row -->
+  <text x="80" y="225" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#374151">Produkt:</text>
+  <text x="180" y="225" text-anchor="middle" font-family="Arial, monospace" font-size="14" font-weight="bold" fill="#059669">3</text>
+  <text x="230" y="225" text-anchor="middle" font-family="Arial, monospace" font-size="14" font-weight="bold" fill="#059669">4</text>
+  <text x="280" y="225" text-anchor="middle" font-family="Arial, monospace" font-size="14" font-weight="bold" fill="#059669">21</text>
+  <text x="330" y="225" text-anchor="middle" font-family="Arial, monospace" font-size="14" font-weight="bold" fill="#059669">24</text>
+  <text x="380" y="225" text-anchor="middle" font-family="Arial, monospace" font-size="14" font-weight="bold" fill="#059669">25</text>
+  <text x="430" y="225" text-anchor="middle" font-family="Arial, monospace" font-size="14" font-weight="bold" fill="#059669">24</text>
+  <text x="480" y="225" text-anchor="middle" font-family="Arial, monospace" font-size="14" font-weight="bold" fill="#059669">21</text>
+  <text x="530" y="225" text-anchor="middle" font-family="Arial, monospace" font-size="14" font-weight="bold" fill="#059669">16</text>
+  
+  <!-- Step 2: Sum -->
+  <rect x="50" y="270" width="700" height="80" fill="white" stroke="#cbd5e1" stroke-width="1" rx="8"/>
+  
+  <text x="400" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1e40af">
+    Steg 2: Summer alle produktene
+  </text>
+  
+  <text x="400" y="325" text-anchor="middle" font-family="Arial, monospace" font-size="16" fill="#374151">
+    3 + 4 + 21 + 24 + 25 + 24 + 21 + 16 = <tspan font-weight="bold" fill="#059669">138</tspan>
+  </text>
+  
+  <!-- Step 3: Modulo calculation -->
+  <rect x="50" y="370" width="700" height="100" fill="white" stroke="#cbd5e1" stroke-width="1" rx="8"/>
+  
+  <text x="400" y="395" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1e40af">
+    Steg 3: Beregn rest ved deling på 11
+  </text>
+  
+  <text x="400" y="420" text-anchor="middle" font-family="Arial, monospace" font-size="16" fill="#374151">
+    138 ÷ 11 = 12 rest <tspan font-weight="bold" fill="#059669">6</tspan>
+  </text>
+  
+  <text x="400" y="445" text-anchor="middle" font-family="Arial, monospace" font-size="16" fill="#374151">
+    (138 mod 11 = <tspan font-weight="bold" fill="#059669">6</tspan>)
+  </text>
+  
+  <!-- Step 4: Control digit -->
+  <rect x="50" y="490" width="700" height="80" fill="url(#calcGrad)" stroke="#7c3aed" stroke-width="2" rx="8"/>
+  
+  <text x="400" y="515" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+    Steg 4: Kontrollsiffer = 11 - rest
+  </text>
+  
+  <text x="400" y="545" text-anchor="middle" font-family="Arial, monospace" font-size="20" font-weight="bold" fill="white">
+    Kontrollsiffer = 11 - 6 = 5
+  </text>
+  
+  <!-- Final result -->
+  <text x="400" y="590" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e40af">
+    Komplett virksomhetsnummer: 123 456 785
+  </text>
+</svg>

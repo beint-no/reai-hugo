@@ -1,0 +1,359 @@
+<!doctype html>
+<html lang="nb">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Hva er forskuddsskatt? | ReAI</title>
+  <meta name="description" content="Komplett regnskapssystem med faktura, lønn, bilagsføring og årsoppgjør.">
+  
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<script src="https://cdn.tailwindcss.com?plugins=typography"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        fontFamily: { sans: ['Inter','ui-sans-serif','system-ui','Arial','sans-serif'] },
+        colors: {
+          brand: { DEFAULT: '#111827' },
+          accent: { DEFAULT: '#2563eb' }
+        }
+      }
+    }
+  }
+</script>
+<style>
+   
+  header .header-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #000 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link:hover { background-position: 0; }
+  header .header-link:hover::before { width: 100%; }
+
+  footer .footer-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #ffffff 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link:hover { background-position: 0; }
+  footer .footer-link:hover::before { width: 100%; }
+</style>
+<style>
+   
+  .prose { overflow-wrap: anywhere; word-break: break-word; }
+  .prose img { max-width: 100%; height: auto; }
+  .prose table { display: block; width: 100%; overflow-x: auto; }
+  .prose pre { white-space: pre-wrap; word-break: break-word; overflow-x: auto; }
+  .prose code { word-break: break-word; }
+  .prose iframe, .prose video { max-width: 100%; width: 100%; height: auto; }
+</style>
+<style>
+   
+  button,
+  .btn,
+  a.btn,
+  .button,
+  .cta,
+  .link-button,
+   
+  a.inline-flex.rounded-md,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"] {
+    transition: transform 220ms ease, box-shadow 220ms ease, background-color 220ms ease, color 220ms ease, opacity 220ms ease;
+    will-change: transform, box-shadow;
+  }
+
+  button:hover,
+  .btn:hover,
+  a.btn:hover,
+  .button:hover,
+  .cta:hover,
+  .link-button:hover,
+  a.inline-flex.rounded-md:hover,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+
+  button:active,
+  .btn:active,
+  a.btn:active,
+  .button:active,
+  .cta:active,
+  .link-button:active,
+  a.inline-flex.rounded-md:active,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:active {
+    transform: translateY(-1px) scale(0.99);
+    box-shadow: 0 6px 12px rgba(2, 6, 23, 0.1);
+  }
+
+  button:focus-visible,
+  .btn:focus-visible,
+  a.btn:focus-visible,
+  .button:focus-visible,
+  .cta:focus-visible,
+  .link-button:focus-visible,
+  a.inline-flex.rounded-md:focus-visible,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.35), 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+</style>
+
+<link rel="icon" type="image/svg+xml" href="/images/ReAI-logo-square.svg">
+<link rel="shortcut icon" href="/images/ReAI-logo-square.svg">
+
+</head>
+<body class="min-h-dvh bg-white text-gray-900 font-sans">
+  <header class="sticky top-0 z-40 bg-white/80 backdrop-blur">
+  
+  <div class="border-b border-slate-200/70">
+    <div class="max-w-7xl mx-auto px-4">
+      <div class="h-16 flex items-center justify-between">
+        <a href="/" class="flex items-center gap-2" aria-label="ReAI">
+          <img src="/images/ReAI-logo-square.svg?v=4" alt="ReAI logo" class="h-14 w-14 rounded-md mt-5" width="56" height="56" loading="eager" decoding="async">
+        </a>
+        <nav class="hidden md:block">
+          <ul class="flex items-center gap-5 text-sm">
+            <li><a href="/courses/" class="header-link text-slate-700 hover:text-black">Gratis kurs</a></li>
+            <li><a href="/contact/" class="header-link text-slate-700 hover:text-black">Kontakt oss</a></li>
+            <li><a href="/blog/" class="header-link text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+            <li><a href="/bli-partner/" class="header-link text-slate-700 hover:text-black">Bli partner</a></li>
+            <li><a href="/fakturamal/" class="header-link text-slate-700 hover:text-black">Lag faktura</a></li>
+          </ul>
+        </nav>
+        <button id="mobileMenuBtn" aria-controls="mobileMenu" aria-expanded="false" class="md:hidden inline-flex items-center justify-center h-9 w-9 rounded-md border border-slate-300">
+          <span class="sr-only">Menu</span>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-5 w-5"><path d="M3.75 6.75h16.5v1.5H3.75zM3.75 11.25h16.5v1.5H3.75zM3.75 15.75h16.5v1.5H3.75z"/></svg>
+        </button>
+      </div>
+    </div>
+  </div>
+  
+  <nav id="mobileMenu" class="md:hidden hidden border-b border-slate-200/70 bg-white/95 backdrop-blur">
+    <div class="max-w-7xl mx-auto px-4 py-3">
+      <ul class="flex flex-col items-center gap-3 text-sm text-center">
+        <li><a href="/courses/" class="header-link block text-slate-700 hover:text-black">Gratis kurs</a></li>
+        <li><a href="/contact/" class="header-link block text-slate-700 hover:text-black">Kontakt oss</a></li>
+        <li><a href="/blog/" class="header-link block text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+        <li><a href="/bli-partner/" class="header-link block text-slate-700 hover:text-black">Bli partner</a></li>
+        <li><a href="/fakturamal/" class="header-link block text-slate-700 hover:text-black">Lag faktura</a></li>
+      </ul>
+    </div>
+  </nav>
+  <script>
+    (function() {
+      const btn = document.getElementById('mobileMenuBtn');
+      const menu = document.getElementById('mobileMenu');
+      if (!btn || !menu) return;
+      btn.addEventListener('click', function() {
+        const isHidden = menu.classList.contains('hidden');
+        menu.classList.toggle('hidden');
+        btn.setAttribute('aria-expanded', String(isHidden));
+      });
+    })();
+  </script>
+</header>
+  <main>
+    
+<section class="pt-10 md:pt-14">
+  <div class="max-w-3xl mx-auto px-4">
+    <h1 class="text-3xl font-semibold tracking-tight text-center">Hva er forskuddsskatt?</h1>
+    <p class="mt-2 text-gray-700">Denne artikkelen dekker alt du trenger å vite om forskuddsskatt i Norge, inkludert beregning, innbetalingsfrister, praktiske eksempler, terminvis oversikt og regnskapsføring. Vi gir også råd for riktig planlegging og unngåelse av gebyrer.</p>
+    <article class="prose max-w-none mt-6"><p><strong>Forskuddsskatt</strong> er en forskuddsbetaling av forventet skatt for bedrifter og selvstendige næringsdrivende, basert på anslått alminnelig inntekt. Systemet fordeler skatteforpliktelsen over året gjennom terminer, og bidrar til forutsigbar likviditet for virksomheten.</p>
+<p><img src="hva-er-forskuddsskatt-image.svg" alt="Forskuddsskatt Oversikt"></p>
+<h2 id="seksjon-1-hva-er-forskuddsskatt">Seksjon 1: Hva er forskuddsskatt?</h2>
+<p>Forskuddsskatt er et krav fra Skatteetaten om løpende innbetaling av forventet selskapsskatt (for aksjeselskap og ansvarlig selskap) eller personinntektsskatt (for enkeltpersonforetak) basert på anslått alminnelig inntekt. Formålet er å sikre en jevn fordeling av skattebetalingen og redusere risiko for store restskatter ved årets slutt.</p>
+<p><strong>Nøkkelprinsipper:</strong></p>
+<ul>
+<li>Skattepliktig inntekt estimeres på forhånd</li>
+<li>Betaling skjer i faste terminer gjennom året</li>
+<li>Endelig belastning avstemmes mot faktisk skatt i <a href="/blogs/regnskap/skattemelding" title="Skattemelding - Komplett Guide til Utfylling og Innlevering">skattemeldingen</a></li>
+</ul>
+<h2 id="seksjon-2-hvem-må-betale-forskuddsskatt">Seksjon 2: Hvem må betale forskuddsskatt?</h2>
+<p>Forskuddsskatt gjelder for følgende virksomheter og foretak:</p>
+<table>
+  <thead>
+      <tr>
+          <th><strong>Virksomhetstype</strong></th>
+          <th><strong>Hvem</strong></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Aksjeselskap (AS)</td>
+          <td>Alle AS</td>
+      </tr>
+      <tr>
+          <td>Ansvarlig selskap (ANS/DA)</td>
+          <td>Alle selskaper med deltakerligning</td>
+      </tr>
+      <tr>
+          <td>Enkeltpersonforetak (ENK)</td>
+          <td>Når anslått skatt overstiger 10 000 kr</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="seksjon-3-terminvis-betaling-og-frister">Seksjon 3: Terminvis betaling og frister</h2>
+<p>Forskuddsskatt betales normalt i fire terminer:</p>
+<table>
+  <thead>
+      <tr>
+          <th><strong>Termin</strong></th>
+          <th><strong>Forfallsdato</strong></th>
+          <th><strong>Andel av årlig skatt</strong></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>1. termin</td>
+          <td>15. februar</td>
+          <td>25 %</td>
+      </tr>
+      <tr>
+          <td>2. termin</td>
+          <td>15. april</td>
+          <td>25 %</td>
+      </tr>
+      <tr>
+          <td>3. termin</td>
+          <td>15. september</td>
+          <td>25 %</td>
+      </tr>
+      <tr>
+          <td>4. termin</td>
+          <td>15. november</td>
+          <td>25 %</td>
+      </tr>
+  </tbody>
+</table>
+<p><img src="beregning-forskuddsskatt.svg" alt="Terminvis Oversikt"></p>
+<h2 id="seksjon-4-beregning-av-forskuddsskatt">Seksjon 4: Beregning av forskuddsskatt</h2>
+<p>For å beregne forskuddsskatt må du:</p>
+<ol>
+<li>Estimere årlig alminnelig inntekt</li>
+<li>Beregne forventet skatt (× gjeldende skattesats)</li>
+<li>Fordele totalt beløp på terminer</li>
+</ol>
+<table>
+  <thead>
+      <tr>
+          <th><strong>Post</strong></th>
+          <th><strong>Beløp (kr)</strong></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Anslått alminnelig inntekt</td>
+          <td>1 000 000</td>
+      </tr>
+      <tr>
+          <td>× Skattesats (22 %)</td>
+          <td>220 000</td>
+      </tr>
+      <tr>
+          <td>Terminbeløp (× 25 %)</td>
+          <td>55 000</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="seksjon-5-bokføring-og-avregning">Seksjon 5: Bokføring og avregning</h2>
+<p>Ved innbetaling av forskuddsskatt føres betalingen som kortsiktig gjeld og kostnad:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-plain" data-lang="plain"><span style="display:flex;"><span>Debet: 9200 Forskuddsskatt (kostnad)      kr 55 000
+</span></span><span style="display:flex;"><span>Kredit: 2800 Skyldig forskuddsskatt (gjeld) kr 55 000
+</span></span></code></pre></div><p>I endelig avregning mot faktisk skatt i skattemeldingen:</p>
+<ul>
+<li><strong>Restskatt</strong> oppstår om forskuddsskatt &lt; endelig skatt</li>
+<li><strong>Til gode</strong> oppstår om forskuddsskatt &gt; endelig skatt</li>
+</ul>
+<h2 id="seksjon-6-praktiske-tips-og-fallgruver">Seksjon 6: Praktiske tips og fallgruver</h2>
+<ul>
+<li><strong>Oppdater beregningen</strong> ved vesentlige avvik i inntekt</li>
+<li><strong>Sjekk fristene</strong> nøye for å unngå gebyrer og renter</li>
+<li><strong>Følg med på skatteendringer</strong> – nye satser eller regler kan påvirke beløpet</li>
+</ul>
+<hr>
+<p><em>Relaterte artikler:</em> <a href="/blogs/regnskap/betalbar-skatt" title="Betalbar skatt - Faktisk skatteforpliktelse i regnskapet">Betalbar skatt</a>, <a href="/blogs/regnskap/skattemelding" title="Skattemelding - Komplett Guide til Utfylling og Innlevering">Skattemelding</a>, <a href="/blogs/regnskap/forhandsfastsetting" title="Hva er Forhåndsfastsetting?">Forhåndsfastsetting</a>, <a href="/blogs/regnskap/restskatt" title="Restskatt – Hva er restskatt og hvordan beregnes den?">Restskatt</a></p>
+</article>
+  </div>
+</section>
+
+  </main>
+  <footer class="mt-16 border-t border-slate-800/60 bg-slate-900">
+  <div class="max-w-7xl mx-auto px-4 py-14">
+    <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3 text-center sm:text-left">
+      
+      <div>
+        <h3 class="text-sm font-semibold text-white">Verktøy</h3>
+        <ul class="mt-2 space-y-2 text-sm text-slate-300">
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/finn-iban/">IBAN kalkulator</a></li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/lag-faktura-gratis/">Lag faktura</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Selskaps-informasjon</h3>
+        <ul class="mt-2 space-y-1 text-sm text-slate-300">
+          <li>Reai AS</li>
+          <li>Orgnr: 935606403</li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="mailto:post@reai.no">post@reai.no</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Om ReAI</h3>
+        <p class="mt-2 text-sm text-slate-300">ReAI er et gratis regnskapsprogram laget av tidligere ansatte i Tripletex
+          / Visma. Vi mener det er på tide med mer konkurranse i regnskaps-bransjen som kan komme bedrifter til gode.
+        </p>
+      </div>
+    </div>
+    <div class="mt-12 border-t border-slate-800/60 pt-6 flex flex-col items-center sm:flex-row sm:items-center sm:justify-between text-sm text-slate-400 text-center sm:text-left">
+      <div class="flex items-center gap-2">
+        
+        
+      </div>
+      <div class="mt-4 sm:mt-0 flex items-center justify-center sm:justify-end">
+        <div class="opacity-80">&copy; 2025 ReAI. All rights reserved.</div>
+      </div>
+    </div>
+  </div>
+</footer>
+</body>
+</html>

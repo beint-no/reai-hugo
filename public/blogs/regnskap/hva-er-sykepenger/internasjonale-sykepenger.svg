@@ -1,0 +1,87 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8fafc"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-size="24" font-weight="bold" fill="#1f2937">Internasjonale Aspekter - Sykepenger</text>
+  
+  <!-- EØS section -->
+  <rect x="50" y="60" width="350" height="200" fill="#dbeafe" stroke="#3b82f6" stroke-width="2" rx="8"/>
+  <text x="225" y="85" text-anchor="middle" font-size="18" font-weight="bold" fill="#1d4ed8">EØS-regelverket</text>
+  
+  <!-- EØS icon -->
+  <rect x="200" y="100" width="50" height="40" fill="white" stroke="#3b82f6" stroke-width="2" rx="4"/>
+  <text x="225" y="125" text-anchor="middle" font-size="20" fill="#3b82f6">🇪🇺</text>
+  
+  <text x="70" y="155" font-size="12" fill="#1d4ed8" font-weight="bold">Hovedprinsipper:</text>
+  <text x="70" y="175" font-size="11" fill="#1d4ed8">• Likebehandling av EØS-borgere</text>
+  <text x="70" y="190" font-size="11" fill="#1d4ed8">• Sammenregning av opptjening</text>
+  <text x="70" y="205" font-size="11" fill="#1d4ed8">• Utbetaling på tvers av landegrenser</text>
+  <text x="70" y="220" font-size="11" fill="#1d4ed8">• Arbeidsstedet bestemmer regelverk</text>
+  <text x="70" y="235" font-size="11" fill="#1d4ed8">• A1-attest for utstasjonering</text>
+  <text x="70" y="250" font-size="11" fill="#1d4ed8">• Koordinering gjennom NAV</text>
+  
+  <!-- Utstasjonering section -->
+  <rect x="420" y="60" width="330" height="200" fill="#fef3c7" stroke="#f59e0b" stroke-width="2" rx="8"/>
+  <text x="585" y="85" text-anchor="middle" font-size="18" font-weight="bold" fill="#92400e">Utstasjonerte Arbeidstakere</text>
+  
+  <!-- Travel icon -->
+  <rect x="560" y="100" width="50" height="40" fill="white" stroke="#f59e0b" stroke-width="2" rx="4"/>
+  <text x="585" y="125" text-anchor="middle" font-size="20" fill="#f59e0b">✈️</text>
+  
+  <text x="440" y="155" font-size="12" fill="#92400e" font-weight="bold">Regelverksbestemmelse:</text>
+  <text x="440" y="175" font-size="11" fill="#92400e">• Korttid (&lt;2 år): Norske regler</text>
+  <text x="440" y="190" font-size="11" fill="#92400e">• Langtid (&gt;2 år): Vertslandets regler</text>
+  <text x="440" y="205" font-size="11" fill="#92400e">• Tredjeland: Bilaterale avtaler</text>
+  <text x="440" y="220" font-size="11" fill="#92400e">• A1-attest må foreligge</text>
+  <text x="440" y="235" font-size="11" fill="#92400e">• Dokumentasjon av arbeidssted</text>
+  <text x="440" y="250" font-size="11" fill="#92400e">• Særregler for sjøfolk og flygende</text>
+  
+  <!-- Situasjonstabelle -->
+  <rect x="50" y="280" width="700" height="200" fill="white" stroke="#d1d5db" stroke-width="1" rx="8"/>
+  <text x="400" y="305" text-anchor="middle" font-size="16" font-weight="bold" fill="#1f2937">Sykepengerettigheter etter Situasjon</text>
+  
+  <!-- Table header -->
+  <rect x="50" y="320" width="700" height="30" fill="#f3f4f6" rx="8 8 0 0"/>
+  <text x="130" y="340" text-anchor="middle" font-size="12" font-weight="bold" fill="#1f2937">Situasjon</text>
+  <text x="280" y="340" text-anchor="middle" font-size="12" font-weight="bold" fill="#1f2937">Gjeldende regelverk</text>
+  <text x="450" y="340" text-anchor="middle" font-size="12" font-weight="bold" fill="#1f2937">Arbeidsgiverens ansvar</text>
+  <text x="630" y="340" text-anchor="middle" font-size="12" font-weight="bold" fill="#1f2937">Særlige krav</text>
+  
+  <!-- Table rows -->
+  <line x1="50" y1="350" x2="750" y2="350" stroke="#e5e7eb"/>
+  <text x="130" y="370" text-anchor="middle" font-size="10" fill="#374151">Norsk ansatt i Norge</text>
+  <text x="280" y="370" text-anchor="middle" font-size="10" fill="#374151">Norske regler</text>
+  <text x="450" y="370" text-anchor="middle" font-size="10" fill="#374151">Normal arbeidsgiverperiode</text>
+  <text x="630" y="370" text-anchor="middle" font-size="10" fill="#374151">Standard dokumentasjon</text>
+  
+  <line x1="50" y1="380" x2="750" y2="380" stroke="#e5e7eb"/>
+  <text x="130" y="400" text-anchor="middle" font-size="10" fill="#374151">Utstasjonert korttid</text>
+  <text x="280" y="400" text-anchor="middle" font-size="10" fill="#374151">Norske regler</text>
+  <text x="450" y="400" text-anchor="middle" font-size="10" fill="#374151">Normal arbeidsgiverperiode</text>
+  <text x="630" y="400" text-anchor="middle" font-size="10" fill="#374151">A1-attest påkrevd</text>
+  
+  <line x1="50" y1="410" x2="750" y2="410" stroke="#e5e7eb"/>
+  <text x="130" y="430" text-anchor="middle" font-size="10" fill="#374151">Utstasjonert langtid</text>
+  <text x="280" y="430" text-anchor="middle" font-size="10" fill="#374151">Vertslandets regler</text>
+  <text x="450" y="430" text-anchor="middle" font-size="10" fill="#374151">Lokale bestemmelser</text>
+  <text x="630" y="430" text-anchor="middle" font-size="10" fill="#374151">Lokal registrering</text>
+  
+  <line x1="50" y1="440" x2="750" y2="440" stroke="#e5e7eb"/>
+  <text x="130" y="460" text-anchor="middle" font-size="10" fill="#374151">Hjemmearbeid utland</text>
+  <text x="280" y="460" text-anchor="middle" font-size="10" fill="#374151">Avhenger av varighet</text>
+  <text x="450" y="460" text-anchor="middle" font-size="10" fill="#374151">Uavklart</text>
+  <text x="630" y="460" text-anchor="middle" font-size="10" fill="#374151">Bevis for arbeidssted</text>
+  
+  <!-- Modern challenges -->
+  <rect x="50" y="500" width="700" height="80" fill="#f3e8ff" stroke="#8b5cf6" stroke-width="1" rx="8"/>
+  <text x="400" y="525" text-anchor="middle" font-size="16" font-weight="bold" fill="#7c3aed">Moderne Utfordringer</text>
+  <text x="70" y="545" font-size="12" fill="#7c3aed">• Digitale nomader: Uklart arbeidssted kompliserer regelverksbestemmelse</text>
+  <text x="70" y="560" font-size="12" fill="#7c3aed">• Fjernarbeid: Midlertidig vs. permanent opphold påvirker rettigheter</text>
+  <text x="70" y="575" font-size="12" fill="#7c3aed">• Teknisk integrasjon: Behov for systemkobling på tvers av land</text>
+  
+  <!-- Vertical separators in table -->
+  <line x1="205" y1="320" x2="205" y2="470" stroke="#d1d5db"/>
+  <line x1="365" y1="320" x2="365" y2="470" stroke="#d1d5db"/>
+  <line x1="540" y1="320" x2="540" y2="470" stroke="#d1d5db"/>
+</svg>

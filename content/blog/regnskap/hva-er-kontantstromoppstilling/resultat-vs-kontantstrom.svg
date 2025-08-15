@@ -1,0 +1,156 @@
+<svg width="700" height="400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="700" height="400" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Title -->
+  <text x="350" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c3e50">
+    Resultat vs Kontantstrøm
+  </text>
+  
+  <!-- Left side - Resultatregnskap -->
+  <rect x="50" y="60" width="280" height="300" fill="#e8f5e8" stroke="#28a745" stroke-width="2" rx="10"/>
+  <text x="190" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#155724">
+    Resultatregnskap
+  </text>
+  <text x="190" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#155724">
+    (Periodiseringsprinsippet)
+  </text>
+  
+  <!-- Resultatregnskap items -->
+  <text x="70" y="135" font-family="Arial, sans-serif" font-size="12" fill="#155724">
+    Salgsinntekter (inkl. kreditsalg)
+  </text>
+  <text x="290" y="135" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#155724">
+    1.000.000
+  </text>
+  
+  <text x="70" y="155" font-family="Arial, sans-serif" font-size="12" fill="#155724">
+    Varekostnad
+  </text>
+  <text x="290" y="155" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#155724">
+    (600.000)
+  </text>
+  
+  <text x="70" y="175" font-family="Arial, sans-serif" font-size="12" fill="#155724">
+    Lønnskostnader
+  </text>
+  <text x="290" y="175" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#155724">
+    (200.000)
+  </text>
+  
+  <text x="70" y="195" font-family="Arial, sans-serif" font-size="12" fill="#155724">
+    Avskrivninger (ikke-kontant)
+  </text>
+  <text x="290" y="195" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#155724">
+    (100.000)
+  </text>
+  
+  <text x="70" y="215" font-family="Arial, sans-serif" font-size="12" fill="#155724">
+    Andre driftskostnader
+  </text>
+  <text x="290" y="215" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#155724">
+    (50.000)
+  </text>
+  
+  <line x1="70" y1="230" x2="290" y2="230" stroke="#155724" stroke-width="1"/>
+  
+  <text x="70" y="250" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#155724">
+    Årets resultat
+  </text>
+  <text x="290" y="250" text-anchor="end" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#155724">
+    50.000
+  </text>
+  
+  <text x="190" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-style="italic" fill="#155724">
+    Viser lønnsomhet
+  </text>
+  <text x="190" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-style="italic" fill="#155724">
+    Inkluderer ikke-kontante poster
+  </text>
+  <text x="190" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-style="italic" fill="#155724">
+    Periodiserte inntekter/kostnader
+  </text>
+  
+  <!-- Right side - Kontantstrøm -->
+  <rect x="370" y="60" width="280" height="300" fill="#d1ecf1" stroke="#17a2b8" stroke-width="2" rx="10"/>
+  <text x="510" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#0c5460">
+    Kontantstrøm fra Drift
+  </text>
+  <text x="510" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#0c5460">
+    (Faktiske kontantbevegelser)
+  </text>
+  
+  <!-- Kontantstrøm items -->
+  <text x="390" y="135" font-family="Arial, sans-serif" font-size="12" fill="#0c5460">
+    Kontant mottatt fra kunder
+  </text>
+  <text x="630" y="135" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#0c5460">
+    800.000
+  </text>
+  
+  <text x="390" y="155" font-family="Arial, sans-serif" font-size="12" fill="#0c5460">
+    Betalt til leverandører
+  </text>
+  <text x="630" y="155" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#0c5460">
+    (550.000)
+  </text>
+  
+  <text x="390" y="175" font-family="Arial, sans-serif" font-size="12" fill="#0c5460">
+    Betalt i lønn
+  </text>
+  <text x="630" y="175" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#0c5460">
+    (200.000)
+  </text>
+  
+  <text x="390" y="195" font-family="Arial, sans-serif" font-size="12" fill="#0c5460">
+    Betalt i skatter
+  </text>
+  <text x="630" y="195" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#0c5460">
+    (30.000)
+  </text>
+  
+  <text x="390" y="215" font-family="Arial, sans-serif" font-size="12" fill="#0c5460">
+    Andre kontantutbetalinger
+  </text>
+  <text x="630" y="215" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#0c5460">
+    (40.000)
+  </text>
+  
+  <line x1="390" y1="230" x2="630" y2="230" stroke="#0c5460" stroke-width="1"/>
+  
+  <text x="390" y="250" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0c5460">
+    Netto kontantstrøm fra drift
+  </text>
+  <text x="630" y="250" text-anchor="end" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0c5460">
+    (20.000)
+  </text>
+  
+  <text x="510" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-style="italic" fill="#0c5460">
+    Viser likviditet
+  </text>
+  <text x="510" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-style="italic" fill="#0c5460">
+    Kun faktiske kontantbevegelser
+  </text>
+  <text x="510" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-style="italic" fill="#0c5460">
+    Påvirket av arbeidskapital
+  </text>
+  
+  <!-- Comparison arrow and text -->
+  <path d="M 340 200 L 360 200" stroke="#dc3545" stroke-width="3" marker-end="url(#arrowhead)"/>
+  <text x="350" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#dc3545">
+    VS
+  </text>
+  
+  <!-- Bottom explanation -->
+  <rect x="100" y="370" width="500" height="25" fill="#fff3cd" stroke="#ffc107" stroke-width="1" rx="5"/>
+  <text x="350" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#856404">
+    Samme periode - forskjellige resultater på grunn av periodisering og arbeidskapital
+  </text>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#dc3545"/>
+    </marker>
+  </defs>
+</svg>

@@ -1,0 +1,110 @@
+<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="500" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">Utsatt Skatt Konsept</text>
+  
+  <!-- Main illustration -->
+  <g transform="translate(50, 60)">
+    
+    <!-- Timeline -->
+    <line x1="50" y1="350" x2="650" y2="350" stroke="#34495e" stroke-width="3"/>
+    
+    <!-- Year markers -->
+    <g transform="translate(0, 360)">
+      <line x1="100" y1="0" x2="100" y2="20" stroke="#34495e" stroke-width="2"/>
+      <text x="100" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">År 1</text>
+      
+      <line x1="250" y1="0" x2="250" y2="20" stroke="#34495e" stroke-width="2"/>
+      <text x="250" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">År 2</text>
+      
+      <line x1="400" y1="0" x2="400" y2="20" stroke="#34495e" stroke-width="2"/>
+      <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">År 3</text>
+      
+      <line x1="550" y1="0" x2="550" y2="20" stroke="#34495e" stroke-width="2"/>
+      <text x="550" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">År 4</text>
+    </g>
+    
+    <!-- Regnskapsmessig avskrivning (top) -->
+    <g transform="translate(0, 50)">
+      <text x="50" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#3498db">Regnskapsmessig avskrivning</text>
+      <text x="50" y="40" font-family="Arial, sans-serif" font-size="12" fill="#3498db">Lineær avskrivning: 100.000 kr/år</text>
+      
+      <!-- Yearly bars -->
+      <rect x="75" y="60" width="50" height="80" fill="#3498db" stroke="#2980b9" stroke-width="2"/>
+      <text x="100" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white" font-weight="bold">100k</text>
+      <text x="100" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">År 1</text>
+      
+      <rect x="225" y="60" width="50" height="80" fill="#3498db" stroke="#2980b9" stroke-width="2"/>
+      <text x="250" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white" font-weight="bold">100k</text>
+      <text x="250" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">År 2</text>
+      
+      <rect x="375" y="60" width="50" height="80" fill="#3498db" stroke="#2980b9" stroke-width="2"/>
+      <text x="400" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white" font-weight="bold">100k</text>
+      <text x="400" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">År 3</text>
+      
+      <rect x="525" y="60" width="50" height="80" fill="#3498db" stroke="#2980b9" stroke-width="2"/>
+      <text x="550" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white" font-weight="bold">100k</text>
+      <text x="550" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">År 4</text>
+    </g>
+    
+    <!-- Skattemessig avskrivning (bottom) -->
+    <g transform="translate(0, 220)">
+      <text x="50" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#e74c3c">Skattemessig avskrivning</text>
+      <text x="50" y="40" font-family="Arial, sans-serif" font-size="12" fill="#e74c3c">Saldoavskrivning: 20% årlig</text>
+      
+      <!-- Yearly bars with decreasing amounts -->
+      <rect x="75" y="60" width="50" height="100" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+      <text x="100" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white" font-weight="bold">80k</text>
+      <text x="100" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">År 1</text>
+      
+      <rect x="225" y="60" width="50" height="68" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+      <text x="250" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white" font-weight="bold">64k</text>
+      <text x="250" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">År 2</text>
+      
+      <rect x="375" y="60" width="50" height="51" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+      <text x="400" y="92" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white" font-weight="bold">51k</text>
+      <text x="400" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">År 3</text>
+      
+      <rect x="525" y="60" width="50" height="41" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+      <text x="550" y="86" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white" font-weight="bold">41k</text>
+      <text x="550" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">År 4</text>
+    </g>
+    
+    <!-- Difference indicators -->
+    <g transform="translate(620, 100)">
+      <rect x="0" y="0" width="120" height="200" fill="#f39c12" rx="8" stroke="#e67e22" stroke-width="2"/>
+      <text x="60" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Forskjeller</text>
+      
+      <text x="20" y="50" font-family="Arial, sans-serif" font-size="11" fill="white">År 1:</text>
+      <text x="80" y="50" font-family="Arial, sans-serif" font-size="11" fill="white" font-weight="bold">20k</text>
+      
+      <text x="20" y="70" font-family="Arial, sans-serif" font-size="11" fill="white">År 2:</text>
+      <text x="80" y="70" font-family="Arial, sans-serif" font-size="11" fill="white" font-weight="bold">36k</text>
+      
+      <text x="20" y="90" font-family="Arial, sans-serif" font-size="11" fill="white">År 3:</text>
+      <text x="80" y="90" font-family="Arial, sans-serif" font-size="11" fill="white" font-weight="bold">49k</text>
+      
+      <text x="20" y="110" font-family="Arial, sans-serif" font-size="11" fill="white">År 4:</text>
+      <text x="80" y="110" font-family="Arial, sans-serif" font-size="11" fill="white" font-weight="bold">59k</text>
+      
+      <line x1="10" y1="125" x2="110" y2="125" stroke="white" stroke-width="1"/>
+      
+      <text x="20" y="145" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">Kumulativ:</text>
+      <text x="80" y="145" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">164k</text>
+      
+      <text x="60" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Utsatt skatt:</text>
+      <text x="60" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">36k kr</text>
+      <text x="60" y="198" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">(164k × 22%)</text>
+    </g>
+    
+    <!-- Formula box -->
+    <g transform="translate(200, 420)">
+      <rect x="0" y="0" width="300" height="60" fill="#2c3e50" rx="8"/>
+      <text x="150" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Utsatt skatt beregning</text>
+      <text x="150" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#f1c40f">Midlertidig forskjell × Skattesats = Utsatt skatt</text>
+    </g>
+    
+  </g>
+</svg>

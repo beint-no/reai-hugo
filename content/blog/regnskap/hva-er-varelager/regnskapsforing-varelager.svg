@@ -1,0 +1,81 @@
+<svg width="600" height="450" viewBox="0 0 600 450" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="accountingGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#7c2d12;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#dc2626;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="600" height="450" fill="#ffffff"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="600" height="50" fill="url(#accountingGrad)"/>
+  <text x="300" y="30" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="18" font-weight="bold">Regnskapsføring av Varelager</text>
+  
+  <!-- Purchase section -->
+  <rect x="30" y="70" width="260" height="160" fill="#fef2f2" stroke="#ef4444" stroke-width="2" rx="8"/>
+  <text x="160" y="95" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="14" font-weight="bold">VED VAREKJØP</text>
+  
+  <text x="45" y="120" fill="#dc2626" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Bokføring ved mottak:</text>
+  
+  <rect x="45" y="130" width="230" height="60" fill="#ffffff" stroke="#fca5a5" stroke-width="1" rx="4"/>
+  <text x="160" y="150" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Debet: Varelager (omløpsmidler)</text>
+  <text x="160" y="165" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Kredit: Leverandørgjeld/Bank</text>
+  <text x="160" y="185" text-anchor="middle" fill="#6b7280" font-family="Arial, sans-serif" font-size="10">Beløp: Anskaffelseskost inkl. tilleggskost.</text>
+  
+  <text x="45" y="210" fill="#dc2626" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Inkludert i anskaffelseskost:</text>
+  <text x="45" y="225" fill="#374151" font-family="Arial, sans-serif" font-size="10">• Innkjøpspris (eks. fradragsber. MVA)</text>
+  <text x="45" y="238" fill="#374151" font-family="Arial, sans-serif" font-size="10">• Transport- og ekspedisjonskostnader</text>
+  <text x="45" y="251" fill="#374151" font-family="Arial, sans-serif" font-size="10">• Toll og importavgifter</text>
+  
+  <!-- Sales section -->
+  <rect x="310" y="70" width="260" height="160" fill="#f0fdf4" stroke="#22c55e" stroke-width="2" rx="8"/>
+  <text x="440" y="95" text-anchor="middle" fill="#16a34a" font-family="Arial, sans-serif" font-size="14" font-weight="bold">VED SALG AV VARER</text>
+  
+  <text x="325" y="120" fill="#16a34a" font-family="Arial, sans-serif" font-size="12" font-weight="bold">1. Registrering av salgsinntekt:</text>
+  
+  <rect x="325" y="125" width="230" height="40" fill="#ffffff" stroke="#86efac" stroke-width="1" rx="4"/>
+  <text x="440" y="140" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Debet: Kundefordringer/Bank</text>
+  <text x="440" y="155" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Kredit: Salgsinntekter</text>
+  
+  <text x="325" y="185" fill="#16a34a" font-family="Arial, sans-serif" font-size="12" font-weight="bold">2. Kostnadføring av solgte varer:</text>
+  
+  <rect x="325" y="190" width="230" height="40" fill="#ffffff" stroke="#86efac" stroke-width="1" rx="4"/>
+  <text x="440" y="205" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Debet: Kostpris solgte varer</text>
+  <text x="440" y="220" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Kredit: Varelager</text>
+  
+  <!-- Adjustments section -->
+  <rect x="30" y="250" width="540" height="180" fill="#f8fafc" stroke="#64748b" stroke-width="2" rx="8"/>
+  <text x="300" y="275" text-anchor="middle" fill="#475569" font-family="Arial, sans-serif" font-size="14" font-weight="bold">LAGERJUSTERINGER OG SPESIELLE SITUASJONER</text>
+  
+  <!-- Shrinkage -->
+  <rect x="50" y="290" width="160" height="80" fill="#fef3c7" stroke="#f59e0b" stroke-width="1" rx="4"/>
+  <text x="130" y="310" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="12" font-weight="bold">SVINN/TYVERI</text>
+  <text x="130" y="330" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Debet: Svinn og tap</text>
+  <text x="130" y="345" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Kredit: Varelager</text>
+  <text x="130" y="365" text-anchor="middle" fill="#6b7280" font-family="Arial, sans-serif" font-size="9">Ved oppdaget manko</text>
+  
+  <!-- Write-down -->
+  <rect x="220" y="290" width="160" height="80" fill="#fce7f3" stroke="#ec4899" stroke-width="1" rx="4"/>
+  <text x="300" y="310" text-anchor="middle" fill="#be185d" font-family="Arial, sans-serif" font-size="12" font-weight="bold">NEDSKRIVNING</text>
+  <text x="300" y="330" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Debet: Nedskriv. varelager</text>
+  <text x="300" y="345" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Kredit: Varelager</text>
+  <text x="300" y="365" text-anchor="middle" fill="#6b7280" font-family="Arial, sans-serif" font-size="9">Ved verdifall</text>
+  
+  <!-- Returns -->
+  <rect x="390" y="290" width="160" height="80" fill="#e0e7ff" stroke="#6366f1" stroke-width="1" rx="4"/>
+  <text x="470" y="310" text-anchor="middle" fill="#4338ca" font-family="Arial, sans-serif" font-size="12" font-weight="bold">RETURVARER</text>
+  <text x="470" y="330" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Debet: Varelager</text>
+  <text x="470" y="345" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Kredit: Kundeford./Levgjeld</text>
+  <text x="470" y="365" text-anchor="middle" fill="#6b7280" font-family="Arial, sans-serif" font-size="9">Ved retur til/fra</text>
+  
+  <!-- Correction -->
+  <rect x="140" y="380" width="160" height="40" fill="#dcfce7" stroke="#16a34a" stroke-width="1" rx="4"/>
+  <text x="220" y="397" text-anchor="middle" fill="#15803d" font-family="Arial, sans-serif" font-size="12" font-weight="bold">LAGERØKNING</text>
+  <text x="220" y="412" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">Debet: Varelager / Kredit: Andre inntekter</text>
+  
+  <rect x="310" y="380" width="160" height="40" fill="#fef2f2" stroke="#ef4444" stroke-width="1" rx="4"/>
+  <text x="390" y="397" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="12" font-weight="bold">REVERSERING NEDSKRIV.</text>
+  <text x="390" y="412" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">Debet: Varelager / Kredit: Revers. nedskriv.</text>
+</svg>

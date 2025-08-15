@@ -1,0 +1,60 @@
+<svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="400" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">Skattemessige forhold for NUF</text>
+  
+  <!-- NUF Company -->
+  <rect x="50" y="80" width="180" height="100" rx="10" fill="#3498db" stroke="#2980b9" stroke-width="2"/>
+  <text x="140" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">NUF-selskap</text>
+  <text x="140" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Utenlandsk eier</text>
+  <text x="140" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Norsk virksomhet</text>
+  
+  <!-- Norwegian Tax -->
+  <rect x="300" y="80" width="200" height="100" rx="10" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+  <text x="400" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">Norsk skatteplikt</text>
+  <text x="400" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">22% selskapsskatt</text>
+  <text x="400" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">På norsk inntekt</text>
+  
+  <!-- Home Country Tax -->
+  <rect x="570" y="80" width="180" height="100" rx="10" fill="#27ae60" stroke="#229954" stroke-width="2"/>
+  <text x="660" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">Hjemlandsskatt</text>
+  <text x="660" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Skatteavtale</text>
+  <text x="660" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Kredittfradrag</text>
+  
+  <!-- Arrows -->
+  <path d="M 230 130 L 300 130" stroke="#34495e" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  <path d="M 500 130 L 570 130" stroke="#34495e" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>
+    </marker>
+  </defs>
+  
+  <!-- Taxable Income Types -->
+  <rect x="50" y="220" width="200" height="120" rx="5" fill="#f39c12" stroke="#e67e22" stroke-width="1"/>
+  <text x="150" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Skattepliktig inntekt</text>
+  <text x="150" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Inntekt fra virksomhet i Norge</text>
+  <text x="150" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Inntekt fra fast eiendom</text>
+  <text x="150" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Royalties og lisenser</text>
+  <text x="150" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Kapitalgevinster</text>
+  
+  <!-- Tax Rates -->
+  <rect x="300" y="220" width="200" height="120" rx="5" fill="#9b59b6" stroke="#8e44ad" stroke-width="1"/>
+  <text x="400" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Skattesatser</text>
+  <text x="400" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Alminnelig inntekt: 22%</text>
+  <text x="400" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Petroleumsinntekt: 78%</text>
+  <text x="400" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Kraftproduksjon: 37%</text>
+  <text x="400" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Finansinntekt: 22%</text>
+  
+  <!-- Tax Exemptions -->
+  <rect x="550" y="220" width="200" height="120" rx="5" fill="#1abc9c" stroke="#16a085" stroke-width="1"/>
+  <text x="650" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Skattefritak</text>
+  <text x="650" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Inntekt fra hjemlandet</text>
+  <text x="650" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Utbytte fra utlandet</text>
+  <text x="650" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Utenlandske investeringer</text>
+  <text x="650" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• (med forbehold)</text>
+</svg>

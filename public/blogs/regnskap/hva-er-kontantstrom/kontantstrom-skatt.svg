@@ -1,0 +1,227 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="taxTimingGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#f44336;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ef5350;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="optimizationGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#66BB6A;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="planningGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#42A5F5;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="impactGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FF9800;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FFB74D;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#333">
+    Kontantstrøm og Skatt
+  </text>
+  
+  <!-- Tax Timing Section -->
+  <rect x="50" y="70" width="340" height="180" fill="url(#taxTimingGradient)" rx="15" opacity="0.1"/>
+  <rect x="60" y="80" width="320" height="30" fill="url(#taxTimingGradient)" rx="5"/>
+  <text x="220" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    TIMING AV SKATTEBETALINGER
+  </text>
+  
+  <!-- Tax timing factors -->
+  <circle cx="80" cy="130" r="8" fill="#f44336"/>
+  <text x="100" y="135" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#c62828">
+    Forskuddsskatt
+  </text>
+  <text x="100" y="150" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    Påvirker månedlig kontantstrøm
+  </text>
+  <text x="100" y="165" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    Regelmessige utbetalinger gjennom året
+  </text>
+  
+  <circle cx="80" cy="185" r="8" fill="#f44336"/>
+  <text x="100" y="190" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#c62828">
+    Restskatt
+  </text>
+  <text x="100" y="205" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    Kan skape store utbetalinger
+  </text>
+  <text x="100" y="220" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    Uforutsigbar påvirkning på likviditet
+  </text>
+  
+  <circle cx="80" cy="240" r="8" fill="#f44336"/>
+  <text x="100" y="245" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#c62828">
+    MVA-oppgjør
+  </text>
+  <text x="100" y="260" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    Månedlige/toårige utbetalinger
+  </text>
+  
+  <!-- Tax Optimization Section -->
+  <rect x="410" y="70" width="340" height="180" fill="url(#optimizationGradient)" rx="15" opacity="0.1"/>
+  <rect x="420" y="80" width="320" height="30" fill="url(#optimizationGradient)" rx="5"/>
+  <text x="580" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    SKATTEOPTIMALISERING
+  </text>
+  
+  <!-- Optimization strategies -->
+  <circle cx="440" cy="130" r="8" fill="#4CAF50"/>
+  <text x="460" y="135" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#2E7D32">
+    Timing av Investeringer
+  </text>
+  <text x="460" y="150" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    Utnytte avskrivninger
+  </text>
+  <text x="460" y="165" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    Planlegg kjøp for skattefordeler
+  </text>
+  
+  <circle cx="440" cy="185" r="8" fill="#4CAF50"/>
+  <text x="460" y="190" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#2E7D32">
+    Forskuddsbetaling av Kostnader
+  </text>
+  <text x="460" y="205" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    Fremskynde fradrag
+  </text>
+  <text x="460" y="220" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    Redusere skattbar inntekt
+  </text>
+  
+  <circle cx="440" cy="240" r="8" fill="#4CAF50"/>
+  <text x="460" y="245" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#2E7D32">
+    Utsettelse av Inntekter
+  </text>
+  <text x="460" y="260" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    Når mulig og lovlig
+  </text>
+  
+  <!-- Tax Planning Calendar -->
+  <rect x="50" y="270" width="700" height="160" fill="url(#planningGradient)" rx="15"/>
+  <text x="400" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
+    SKATTEPLANLEGGING GJENNOM ÅRET
+  </text>
+  
+  <!-- Calendar quarters -->
+  <rect x="80" y="320" width="150" height="90" fill="rgba(255,255,255,0.2)" rx="8"/>
+  <text x="155" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    Q1 (Jan-Mar)
+  </text>
+  <text x="90" y="360" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Forskuddsskatt termin 1
+  </text>
+  <text x="90" y="375" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • MVA-oppgjør
+  </text>
+  <text x="90" y="390" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Planlegg investeringer
+  </text>
+  
+  <rect x="250" y="320" width="150" height="90" fill="rgba(255,255,255,0.2)" rx="8"/>
+  <text x="325" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    Q2 (Apr-Jun)
+  </text>
+  <text x="260" y="360" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Forskuddsskatt termin 2
+  </text>
+  <text x="260" y="375" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Selvangivelse frist
+  </text>
+  <text x="260" y="390" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Vurder skatteposisjon
+  </text>
+  
+  <rect x="420" y="320" width="150" height="90" fill="rgba(255,255,255,0.2)" rx="8"/>
+  <text x="495" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    Q3 (Jul-Sep)
+  </text>
+  <text x="430" y="360" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Forskuddsskatt termin 3
+  </text>
+  <text x="430" y="375" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Midtårs skatteplanlegging
+  </text>
+  <text x="430" y="390" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Juster prognoser
+  </text>
+  
+  <rect x="590" y="320" width="150" height="90" fill="rgba(255,255,255,0.2)" rx="8"/>
+  <text x="665" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    Q4 (Okt-Des)
+  </text>
+  <text x="600" y="360" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Forskuddsskatt termin 4
+  </text>
+  <text x="600" y="375" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Årsavslutning planlegging
+  </text>
+  <text x="600" y="390" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Siste sjanse optimalisering
+  </text>
+  
+  <!-- Impact on Cash Flow -->
+  <rect x="50" y="450" width="700" height="120" fill="url(#impactGradient)" rx="15"/>
+  <text x="400" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
+    SKATTEMESSIG PÅVIRKNING PÅ KONTANTSTRØM
+  </text>
+  
+  <!-- Impact factors -->
+  <rect x="80" y="500" width="200" height="50" fill="rgba(255,255,255,0.2)" rx="8"/>
+  <text x="180" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    Direkte Påvirkning
+  </text>
+  <text x="90" y="535" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Skattebetalinger reduserer kontanter
+  </text>
+  <text x="90" y="545" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Timing påvirker likviditet
+  </text>
+  
+  <rect x="300" y="500" width="200" height="50" fill="rgba(255,255,255,0.2)" rx="8"/>
+  <text x="400" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    Planleggingsmuligheter
+  </text>
+  <text x="310" y="535" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Optimalisere timing av transaksjoner
+  </text>
+  <text x="310" y="545" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Utnytte skattefordeler
+  </text>
+  
+  <rect x="520" y="500" width="200" height="50" fill="rgba(255,255,255,0.2)" rx="8"/>
+  <text x="620" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    Risikofaktorer
+  </text>
+  <text x="530" y="535" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Uventede skatteendringer
+  </text>
+  <text x="530" y="545" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Feilberegninger og bøter
+  </text>
+  
+  <!-- Best practices -->
+  <rect x="50" y="580" width="700" height="15" fill="#e8f5e8" rx="5"/>
+  <text x="400" y="590" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2E7D32">
+    Beste praksis: Integrer skatteplanlegging i kontantstrømbudsjett • Konsulter skatterådgiver • Hold deg oppdatert på regelendringer
+  </text>
+  
+  <!-- Connection arrows -->
+  <path d="M 220 260 L 400 270" stroke="#f44336" stroke-width="2" fill="none" marker-end="url(#arrowRed)"/>
+  <path d="M 580 260 L 400 270" stroke="#4CAF50" stroke-width="2" fill="none" marker-end="url(#arrowGreen)"/>
+  
+  <!-- Arrow markers -->
+  <defs>
+    <marker id="arrowRed" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#f44336"/>
+    </marker>
+    <marker id="arrowGreen" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#4CAF50"/>
+    </marker>
+  </defs>
+</svg>

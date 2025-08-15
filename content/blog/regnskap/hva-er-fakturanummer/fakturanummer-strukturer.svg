@@ -1,0 +1,230 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" fill="#2c3e50" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
+    Avanserte Fakturanummer Strukturer
+  </text>
+  
+  <!-- Structure 1: Year-Department-Number -->
+  <g transform="translate(50, 80)">
+    <text x="0" y="0" fill="#2c3e50" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
+      1. År-Avdeling-Løpenummer
+    </text>
+    
+    <!-- Structure breakdown -->
+    <rect x="0" y="20" width="100" height="50" fill="#3498db" rx="5"/>
+    <text x="50" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      2024
+    </text>
+    <text x="50" y="55" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+      År
+    </text>
+    
+    <text x="110" y="50" text-anchor="middle" fill="#2c3e50" font-family="Arial, sans-serif" font-size="20">
+      -
+    </text>
+    
+    <rect x="120" y="20" width="100" height="50" fill="#e74c3c" rx="5"/>
+    <text x="170" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      OSLO
+    </text>
+    <text x="170" y="55" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+      Avdeling
+    </text>
+    
+    <text x="230" y="50" text-anchor="middle" fill="#2c3e50" font-family="Arial, sans-serif" font-size="20">
+      -
+    </text>
+    
+    <rect x="240" y="20" width="100" height="50" fill="#27ae60" rx="5"/>
+    <text x="290" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      001
+    </text>
+    <text x="290" y="55" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+      Løpenummer
+    </text>
+    
+    <!-- Examples -->
+    <text x="0" y="100" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14">
+      Eksempler: 2024-OSLO-001, 2024-BERGEN-001, 2024-OSLO-002
+    </text>
+  </g>
+  
+  <!-- Structure 2: Product-Year-Number -->
+  <g transform="translate(50, 200)">
+    <text x="0" y="0" fill="#2c3e50" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
+      2. Produktkode-År-Nummer
+    </text>
+    
+    <!-- Structure breakdown -->
+    <rect x="0" y="20" width="80" height="50" fill="#9b59b6" rx="5"/>
+    <text x="40" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      IT
+    </text>
+    <text x="40" y="55" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+      Produkt
+    </text>
+    
+    <text x="90" y="50" text-anchor="middle" fill="#2c3e50" font-family="Arial, sans-serif" font-size="20">
+      -
+    </text>
+    
+    <rect x="100" y="20" width="80" height="50" fill="#f39c12" rx="5"/>
+    <text x="140" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      2024
+    </text>
+    <text x="140" y="55" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+      År
+    </text>
+    
+    <text x="190" y="50" text-anchor="middle" fill="#2c3e50" font-family="Arial, sans-serif" font-size="20">
+      -
+    </text>
+    
+    <rect x="200" y="20" width="80" height="50" fill="#1abc9c" rx="5"/>
+    <text x="240" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      001
+    </text>
+    <text x="240" y="55" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+      Nummer
+    </text>
+    
+    <!-- Examples -->
+    <text x="0" y="100" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14">
+      Eksempler: IT-2024-001, REGNSKAP-2024-001, KONSULENT-2024-001
+    </text>
+  </g>
+  
+  <!-- Structure 3: Customer-Year-Month-Number -->
+  <g transform="translate(50, 320)">
+    <text x="0" y="0" fill="#2c3e50" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
+      3. Kunde-År-Måned-Nummer
+    </text>
+    
+    <!-- Structure breakdown -->
+    <rect x="0" y="20" width="70" height="50" fill="#e67e22" rx="5"/>
+    <text x="35" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      ABC
+    </text>
+    <text x="35" y="55" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+      Kunde
+    </text>
+    
+    <text x="80" y="50" text-anchor="middle" fill="#2c3e50" font-family="Arial, sans-serif" font-size="20">
+      -
+    </text>
+    
+    <rect x="90" y="20" width="70" height="50" fill="#34495e" rx="5"/>
+    <text x="125" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      2024
+    </text>
+    <text x="125" y="55" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+      År
+    </text>
+    
+    <text x="170" y="50" text-anchor="middle" fill="#2c3e50" font-family="Arial, sans-serif" font-size="20">
+      -
+    </text>
+    
+    <rect x="180" y="20" width="70" height="50" fill="#8e44ad" rx="5"/>
+    <text x="215" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      03
+    </text>
+    <text x="215" y="55" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+      Måned
+    </text>
+    
+    <text x="260" y="50" text-anchor="middle" fill="#2c3e50" font-family="Arial, sans-serif" font-size="20">
+      -
+    </text>
+    
+    <rect x="270" y="20" width="70" height="50" fill="#c0392b" rx="5"/>
+    <text x="305" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      001
+    </text>
+    <text x="305" y="55" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+      Nummer
+    </text>
+    
+    <!-- Examples -->
+    <text x="0" y="100" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14">
+      Eksempler: ABC-2024-03-001, XYZ-2024-03-001, ABC-2024-04-001
+    </text>
+  </g>
+  
+  <!-- Advantages and considerations -->
+  <g transform="translate(450, 80)">
+    <text x="0" y="0" fill="#2c3e50" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
+      Fordeler med Strukturerte Nummer:
+    </text>
+    
+    <!-- Advantage 1 -->
+    <circle cx="10" cy="35" r="5" fill="#27ae60"/>
+    <text x="25" y="40" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14">
+      <tspan font-weight="bold">Organisering:</tspan> Enkel sortering og søk
+    </text>
+    
+    <!-- Advantage 2 -->
+    <circle cx="10" cy="65" r="5" fill="#3498db"/>
+    <text x="25" y="70" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14">
+      <tspan font-weight="bold">Rapportering:</tspan> Automatisk kategorisering
+    </text>
+    
+    <!-- Advantage 3 -->
+    <circle cx="10" cy="95" r="5" fill="#e74c3c"/>
+    <text x="25" y="100" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14">
+      <tspan font-weight="bold">Kontroll:</tspan> Bedre oversikt og styring
+    </text>
+    
+    <!-- Advantage 4 -->
+    <circle cx="10" cy="125" r="5" fill="#9b59b6"/>
+    <text x="25" y="130" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14">
+      <tspan font-weight="bold">Analyse:</tspan> Enklere dataanalyse
+    </text>
+    
+    <text x="0" y="180" fill="#2c3e50" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
+      Viktige Hensyn:
+    </text>
+    
+    <!-- Consideration 1 -->
+    <circle cx="10" cy="215" r="5" fill="#f39c12"/>
+    <text x="25" y="220" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14">
+      <tspan font-weight="bold">Kompleksitet:</tspan> Mer komplisert system
+    </text>
+    
+    <!-- Consideration 2 -->
+    <circle cx="10" cy="245" r="5" fill="#e67e22"/>
+    <text x="25" y="250" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14">
+      <tspan font-weight="bold">Vedlikehold:</tspan> Krever mer administrasjon
+    </text>
+    
+    <!-- Consideration 3 -->
+    <circle cx="10" cy="275" r="5" fill="#34495e"/>
+    <text x="25" y="280" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14">
+      <tspan font-weight="bold">Fleksibilitet:</tspan> Vanskeligere å endre senere
+    </text>
+  </g>
+  
+  <!-- Best practices box -->
+  <g transform="translate(50, 450)">
+    <rect x="0" y="0" width="700" height="120" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2" rx="10"/>
+    <text x="20" y="25" fill="#2c3e50" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+      Beste Praksis for Strukturerte Fakturanummer:
+    </text>
+    
+    <text x="20" y="50" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14">
+      • Planlegg strukturen nøye før implementering - den er vanskelig å endre senere
+    </text>
+    <text x="20" y="70" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14">
+      • Sørg for at hver kategori har egen sammenhengende nummerserie
+    </text>
+    <text x="20" y="90" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14">
+      • Dokumenter strukturen grundig for fremtidige brukere og revisorer
+    </text>
+    <text x="20" y="110" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14">
+      • Test systemet grundig før produksjonssetting
+    </text>
+  </g>
+</svg>

@@ -1,0 +1,139 @@
+<svg width="700" height="500" viewBox="0 0 700 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="700" height="500" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="350" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c3e50">
+    Sammenligning av Avskrivningsmetoder
+  </text>
+  
+  <!-- Linear depreciation section -->
+  <rect x="50" y="60" width="280" height="200" fill="white" stroke="#3498db" stroke-width="2" rx="10"/>
+  <rect x="50" y="60" width="280" height="40" fill="#3498db" rx="10 10 0 0"/>
+  <text x="190" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    LINEÆR AVSKRIVNING
+  </text>
+  
+  <!-- Linear chart -->
+  <line x1="80" y1="230" x2="300" y2="230" stroke="#2c3e50" stroke-width="1"/>
+  <line x1="80" y1="120" x2="80" y2="240" stroke="#2c3e50" stroke-width="1"/>
+  
+  <!-- Linear depreciation bars -->
+  <rect x="90" y="130" width="30" height="100" fill="#3498db" opacity="0.8"/>
+  <rect x="130" y="130" width="30" height="100" fill="#3498db" opacity="0.8"/>
+  <rect x="170" y="130" width="30" height="100" fill="#3498db" opacity="0.8"/>
+  <rect x="210" y="130" width="30" height="100" fill="#3498db" opacity="0.8"/>
+  <rect x="250" y="130" width="30" height="100" fill="#3498db" opacity="0.8"/>
+  
+  <!-- Linear labels -->
+  <text x="105" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">År 1</text>
+  <text x="145" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">År 2</text>
+  <text x="185" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">År 3</text>
+  <text x="225" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">År 4</text>
+  <text x="265" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">År 5</text>
+  
+  <text x="190" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+    Lik avskrivning hvert år
+  </text>
+  
+  <!-- Declining balance section -->
+  <rect x="370" y="60" width="280" height="200" fill="white" stroke="#e74c3c" stroke-width="2" rx="10"/>
+  <rect x="370" y="60" width="280" height="40" fill="#e74c3c" rx="10 10 0 0"/>
+  <text x="510" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    DEGRESSIV AVSKRIVNING
+  </text>
+  
+  <!-- Declining chart -->
+  <line x1="400" y1="230" x2="620" y2="230" stroke="#2c3e50" stroke-width="1"/>
+  <line x1="400" y1="120" x2="400" y2="240" stroke="#2c3e50" stroke-width="1"/>
+  
+  <!-- Declining depreciation bars -->
+  <rect x="410" y="130" width="30" height="100" fill="#e74c3c" opacity="0.9"/>
+  <rect x="450" y="150" width="30" height="80" fill="#e74c3c" opacity="0.8"/>
+  <rect x="490" y="170" width="30" height="60" fill="#e74c3c" opacity="0.7"/>
+  <rect x="530" y="185" width="30" height="45" fill="#e74c3c" opacity="0.6"/>
+  <rect x="570" y="195" width="30" height="35" fill="#e74c3c" opacity="0.5"/>
+  
+  <!-- Declining labels -->
+  <text x="425" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">År 1</text>
+  <text x="465" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">År 2</text>
+  <text x="505" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">År 3</text>
+  <text x="545" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">År 4</text>
+  <text x="585" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">År 5</text>
+  
+  <text x="510" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+    Høyere avskrivning først
+  </text>
+  
+  <!-- Comparison table -->
+  <rect x="50" y="290" width="600" height="180" fill="white" stroke="#2c3e50" stroke-width="2" rx="10"/>
+  <text x="350" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
+    SAMMENLIGNING - EKSEMPEL: 500.000 KR OVER 5 ÅR
+  </text>
+  
+  <!-- Table headers -->
+  <rect x="70" y="330" width="80" height="30" fill="#34495e"/>
+  <text x="110" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">År</text>
+  
+  <rect x="150" y="330" width="120" height="30" fill="#3498db"/>
+  <text x="210" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Lineær</text>
+  
+  <rect x="270" y="330" width="120" height="30" fill="#e74c3c"/>
+  <text x="330" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Degressiv (30%)</text>
+  
+  <rect x="390" y="330" width="120" height="30" fill="#27ae60"/>
+  <text x="450" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Bokført verdi (L)</text>
+  
+  <rect x="510" y="330" width="120" height="30" fill="#f39c12"/>
+  <text x="570" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Bokført verdi (D)</text>
+  
+  <!-- Table rows -->
+  <g font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    <!-- Year 1 -->
+    <text x="110" y="380" text-anchor="middle">1</text>
+    <text x="210" y="380" text-anchor="middle">100.000</text>
+    <text x="330" y="380" text-anchor="middle">150.000</text>
+    <text x="450" y="380" text-anchor="middle">400.000</text>
+    <text x="570" y="380" text-anchor="middle">350.000</text>
+    
+    <!-- Year 2 -->
+    <text x="110" y="400" text-anchor="middle">2</text>
+    <text x="210" y="400" text-anchor="middle">100.000</text>
+    <text x="330" y="400" text-anchor="middle">105.000</text>
+    <text x="450" y="400" text-anchor="middle">300.000</text>
+    <text x="570" y="400" text-anchor="middle">245.000</text>
+    
+    <!-- Year 3 -->
+    <text x="110" y="420" text-anchor="middle">3</text>
+    <text x="210" y="420" text-anchor="middle">100.000</text>
+    <text x="330" y="420" text-anchor="middle">73.500</text>
+    <text x="450" y="420" text-anchor="middle">200.000</text>
+    <text x="570" y="420" text-anchor="middle">171.500</text>
+    
+    <!-- Year 4 -->
+    <text x="110" y="440" text-anchor="middle">4</text>
+    <text x="210" y="440" text-anchor="middle">100.000</text>
+    <text x="330" y="440" text-anchor="middle">51.450</text>
+    <text x="450" y="440" text-anchor="middle">100.000</text>
+    <text x="570" y="440" text-anchor="middle">120.050</text>
+    
+    <!-- Year 5 -->
+    <text x="110" y="460" text-anchor="middle">5</text>
+    <text x="210" y="460" text-anchor="middle">100.000</text>
+    <text x="330" y="460" text-anchor="middle">36.015</text>
+    <text x="450" y="460" text-anchor="middle">0</text>
+    <text x="570" y="460" text-anchor="middle">84.035</text>
+  </g>
+  
+  <!-- Grid lines -->
+  <line x1="70" y1="360" x2="630" y2="360" stroke="#bdc3c7" stroke-width="1"/>
+  <line x1="70" y1="390" x2="630" y2="390" stroke="#bdc3c7" stroke-width="1"/>
+  <line x1="70" y1="410" x2="630" y2="410" stroke="#bdc3c7" stroke-width="1"/>
+  <line x1="70" y1="430" x2="630" y2="430" stroke="#bdc3c7" stroke-width="1"/>
+  <line x1="70" y1="450" x2="630" y2="450" stroke="#bdc3c7" stroke-width="1"/>
+  
+  <line x1="150" y1="330" x2="150" y2="470" stroke="#bdc3c7" stroke-width="1"/>
+  <line x1="270" y1="330" x2="270" y2="470" stroke="#bdc3c7" stroke-width="1"/>
+  <line x1="390" y1="330" x2="390" y2="470" stroke="#bdc3c7" stroke-width="1"/>
+  <line x1="510" y1="330" x2="510" y2="470" stroke="#bdc3c7" stroke-width="1"/>
+</svg>

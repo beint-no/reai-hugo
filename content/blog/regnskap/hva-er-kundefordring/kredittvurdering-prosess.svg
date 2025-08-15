@@ -1,0 +1,157 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#2563eb;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="stepGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#f0f9ff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#dbeafe;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#ffffff"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="70" fill="url(#headerGrad)"/>
+  <text x="400" y="40" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="22" font-weight="bold">
+    Kredittvurderingsprosess
+  </text>
+  
+  <!-- Step 1: Information Gathering -->
+  <rect x="50" y="100" width="220" height="180" rx="10" fill="url(#stepGrad)" stroke="#3b82f6" stroke-width="2"/>
+  <circle cx="160" cy="130" r="20" fill="#2563eb"/>
+  <text x="160" y="137" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">1</text>
+  
+  <text x="160" y="165" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+    Innhenting av
+  </text>
+  <text x="160" y="185" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+    Informasjon
+  </text>
+  
+  <text x="70" y="210" fill="#374151" font-family="Arial, sans-serif" font-size="12">
+    • Regnskapsdata fra
+  </text>
+  <text x="70" y="225" fill="#374151" font-family="Arial, sans-serif" font-size="12">
+      Brønnøysundregistrene
+  </text>
+  <text x="70" y="245" fill="#374151" font-family="Arial, sans-serif" font-size="12">
+    • Kredittrapporter fra
+  </text>
+  <text x="70" y="260" fill="#374151" font-family="Arial, sans-serif" font-size="12">
+      kredittbyråer
+  </text>
+  
+  <!-- Step 2: Payment Ability Analysis -->
+  <rect x="290" y="100" width="220" height="180" rx="10" fill="url(#stepGrad)" stroke="#3b82f6" stroke-width="2"/>
+  <circle cx="400" cy="130" r="20" fill="#2563eb"/>
+  <text x="400" y="137" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">2</text>
+  
+  <text x="400" y="165" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+    Analyse av
+  </text>
+  <text x="400" y="185" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+    Betalingsevne
+  </text>
+  
+  <text x="310" y="210" fill="#374151" font-family="Arial, sans-serif" font-size="12">
+    • Likviditet og
+  </text>
+  <text x="310" y="225" fill="#374151" font-family="Arial, sans-serif" font-size="12">
+      kontantstrøm
+  </text>
+  <text x="310" y="245" fill="#374151" font-family="Arial, sans-serif" font-size="12">
+    • Soliditet og egenkapital
+  </text>
+  <text x="310" y="260" fill="#374151" font-family="Arial, sans-serif" font-size="12">
+    • Historisk betalingsadferd
+  </text>
+  
+  <!-- Step 3: Credit Limit Setting -->
+  <rect x="530" y="100" width="220" height="180" rx="10" fill="url(#stepGrad)" stroke="#3b82f6" stroke-width="2"/>
+  <circle cx="640" cy="130" r="20" fill="#2563eb"/>
+  <text x="640" y="137" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">3</text>
+  
+  <text x="640" y="165" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+    Fastsettelse av
+  </text>
+  <text x="640" y="185" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+    Kredittramme
+  </text>
+  
+  <text x="550" y="210" fill="#374151" font-family="Arial, sans-serif" font-size="12">
+    • Maksimalt kredittbeløp
+  </text>
+  <text x="550" y="225" fill="#374151" font-family="Arial, sans-serif" font-size="12">
+    • Betalingsbetingelser
+  </text>
+  <text x="550" y="245" fill="#374151" font-family="Arial, sans-serif" font-size="12">
+    • Sikkerhetskrav
+  </text>
+  <text x="550" y="260" fill="#374151" font-family="Arial, sans-serif" font-size="12">
+    • Overvåkingsrutiner
+  </text>
+  
+  <!-- Arrows between steps -->
+  <path d="M 270 190 L 290 190" stroke="#64748b" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  <path d="M 510 190 L 530 190" stroke="#64748b" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Risk Management Section -->
+  <rect x="50" y="320" width="700" height="120" rx="10" fill="#fef3c7" stroke="#f59e0b" stroke-width="2"/>
+  <text x="400" y="350" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
+    Risikostyring
+  </text>
+  
+  <rect x="80" y="370" width="150" height="50" fill="#ecfdf5" stroke="#10b981" stroke-width="1"/>
+  <text x="155" y="390" text-anchor="middle" fill="#065f46" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    Diversifisering
+  </text>
+  <text x="155" y="405" text-anchor="middle" fill="#047857" font-family="Arial, sans-serif" font-size="10">
+    Unngå avhengighet av få kunder
+  </text>
+  
+  <rect x="250" y="370" width="150" height="50" fill="#fef2f2" stroke="#ef4444" stroke-width="1"/>
+  <text x="325" y="390" text-anchor="middle" fill="#991b1b" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    Overvåking
+  </text>
+  <text x="325" y="405" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="10">
+    Regelmessig oppfølging
+  </text>
+  
+  <rect x="420" y="370" width="150" height="50" fill="#f0f9ff" stroke="#3b82f6" stroke-width="1"/>
+  <text x="495" y="390" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    Forsikring
+  </text>
+  <text x="495" y="405" text-anchor="middle" fill="#2563eb" font-family="Arial, sans-serif" font-size="10">
+    Kreditforsikring
+  </text>
+  
+  <rect x="590" y="370" width="150" height="50" fill="#f3e8ff" stroke="#8b5cf6" stroke-width="1"/>
+  <text x="665" y="390" text-anchor="middle" fill="#6b21a8" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    Sikkerhet
+  </text>
+  <text x="665" y="405" text-anchor="middle" fill="#7c3aed" font-family="Arial, sans-serif" font-size="10">
+    Garantier og pant
+  </text>
+  
+  <!-- Decision outcome -->
+  <rect x="250" y="480" width="300" height="80" rx="10" fill="#dcfce7" stroke="#16a34a" stroke-width="2"/>
+  <text x="400" y="510" text-anchor="middle" fill="#15803d" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+    Kredittvurdering Fullført
+  </text>
+  <text x="400" y="530" text-anchor="middle" fill="#166534" font-family="Arial, sans-serif" font-size="12">
+    ✓ Kredittramme fastsatt
+  </text>
+  <text x="400" y="545" text-anchor="middle" fill="#166534" font-family="Arial, sans-serif" font-size="12">
+    ✓ Betalingsbetingelser definert
+  </text>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#64748b"/>
+    </marker>
+  </defs>
+</svg>

@@ -1,0 +1,353 @@
+<!doctype html>
+<html lang="nb">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Styrehonorar i aksjeselskap | ReAI</title>
+  <meta name="description" content="Komplett regnskapssystem med faktura, lønn, bilagsføring og årsoppgjør.">
+  
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<script src="https://cdn.tailwindcss.com?plugins=typography"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        fontFamily: { sans: ['Inter','ui-sans-serif','system-ui','Arial','sans-serif'] },
+        colors: {
+          brand: { DEFAULT: '#111827' },
+          accent: { DEFAULT: '#2563eb' }
+        }
+      }
+    }
+  }
+</script>
+<style>
+   
+  header .header-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #000 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link:hover { background-position: 0; }
+  header .header-link:hover::before { width: 100%; }
+
+  footer .footer-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #ffffff 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link:hover { background-position: 0; }
+  footer .footer-link:hover::before { width: 100%; }
+</style>
+<style>
+   
+  .prose { overflow-wrap: anywhere; word-break: break-word; }
+  .prose img { max-width: 100%; height: auto; }
+  .prose table { display: block; width: 100%; overflow-x: auto; }
+  .prose pre { white-space: pre-wrap; word-break: break-word; overflow-x: auto; }
+  .prose code { word-break: break-word; }
+  .prose iframe, .prose video { max-width: 100%; width: 100%; height: auto; }
+</style>
+<style>
+   
+  button,
+  .btn,
+  a.btn,
+  .button,
+  .cta,
+  .link-button,
+   
+  a.inline-flex.rounded-md,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"] {
+    transition: transform 220ms ease, box-shadow 220ms ease, background-color 220ms ease, color 220ms ease, opacity 220ms ease;
+    will-change: transform, box-shadow;
+  }
+
+  button:hover,
+  .btn:hover,
+  a.btn:hover,
+  .button:hover,
+  .cta:hover,
+  .link-button:hover,
+  a.inline-flex.rounded-md:hover,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+
+  button:active,
+  .btn:active,
+  a.btn:active,
+  .button:active,
+  .cta:active,
+  .link-button:active,
+  a.inline-flex.rounded-md:active,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:active {
+    transform: translateY(-1px) scale(0.99);
+    box-shadow: 0 6px 12px rgba(2, 6, 23, 0.1);
+  }
+
+  button:focus-visible,
+  .btn:focus-visible,
+  a.btn:focus-visible,
+  .button:focus-visible,
+  .cta:focus-visible,
+  .link-button:focus-visible,
+  a.inline-flex.rounded-md:focus-visible,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.35), 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+</style>
+
+<link rel="icon" type="image/svg+xml" href="/images/ReAI-logo-square.svg">
+<link rel="shortcut icon" href="/images/ReAI-logo-square.svg">
+
+</head>
+<body class="min-h-dvh bg-white text-gray-900 font-sans">
+  <header class="sticky top-0 z-40 bg-white/80 backdrop-blur">
+  
+  <div class="border-b border-slate-200/70">
+    <div class="max-w-7xl mx-auto px-4">
+      <div class="h-16 flex items-center justify-between">
+        <a href="/" class="flex items-center gap-2" aria-label="ReAI">
+          <img src="/images/ReAI-logo-square.svg?v=4" alt="ReAI logo" class="h-14 w-14 rounded-md mt-5" width="56" height="56" loading="eager" decoding="async">
+        </a>
+        <nav class="hidden md:block">
+          <ul class="flex items-center gap-5 text-sm">
+            <li><a href="/courses/" class="header-link text-slate-700 hover:text-black">Gratis kurs</a></li>
+            <li><a href="/contact/" class="header-link text-slate-700 hover:text-black">Kontakt oss</a></li>
+            <li><a href="/blog/" class="header-link text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+            <li><a href="/bli-partner/" class="header-link text-slate-700 hover:text-black">Bli partner</a></li>
+            <li><a href="/fakturamal/" class="header-link text-slate-700 hover:text-black">Lag faktura</a></li>
+          </ul>
+        </nav>
+        <button id="mobileMenuBtn" aria-controls="mobileMenu" aria-expanded="false" class="md:hidden inline-flex items-center justify-center h-9 w-9 rounded-md border border-slate-300">
+          <span class="sr-only">Menu</span>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-5 w-5"><path d="M3.75 6.75h16.5v1.5H3.75zM3.75 11.25h16.5v1.5H3.75zM3.75 15.75h16.5v1.5H3.75z"/></svg>
+        </button>
+      </div>
+    </div>
+  </div>
+  
+  <nav id="mobileMenu" class="md:hidden hidden border-b border-slate-200/70 bg-white/95 backdrop-blur">
+    <div class="max-w-7xl mx-auto px-4 py-3">
+      <ul class="flex flex-col items-center gap-3 text-sm text-center">
+        <li><a href="/courses/" class="header-link block text-slate-700 hover:text-black">Gratis kurs</a></li>
+        <li><a href="/contact/" class="header-link block text-slate-700 hover:text-black">Kontakt oss</a></li>
+        <li><a href="/blog/" class="header-link block text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+        <li><a href="/bli-partner/" class="header-link block text-slate-700 hover:text-black">Bli partner</a></li>
+        <li><a href="/fakturamal/" class="header-link block text-slate-700 hover:text-black">Lag faktura</a></li>
+      </ul>
+    </div>
+  </nav>
+  <script>
+    (function() {
+      const btn = document.getElementById('mobileMenuBtn');
+      const menu = document.getElementById('mobileMenu');
+      if (!btn || !menu) return;
+      btn.addEventListener('click', function() {
+        const isHidden = menu.classList.contains('hidden');
+        menu.classList.toggle('hidden');
+        btn.setAttribute('aria-expanded', String(isHidden));
+      });
+    })();
+  </script>
+</header>
+  <main>
+    
+<section class="pt-10 md:pt-14">
+  <div class="max-w-3xl mx-auto px-4">
+    <h1 class="text-3xl font-semibold tracking-tight text-center">Styrehonorar i aksjeselskap</h1>
+    <p class="mt-2 text-gray-700">En komplett guide til styrehonorar i aksjeselskaper. Artikkelen dekker styrehonorarens fastsetting, beregningsmodell, generalforsamlingsbeslutninger, skattemessige regler, bokføringsprinsipper og rapportering.</p>
+    <article class="prose max-w-none mt-6"><p><img src="styrehonorar-image.svg" alt="Styrehonorar"></p>
+<p><strong>Styrehonorar</strong> er vederlaget til styremedlemmer for deres arbeid i et <a href="/blogs/regnskap/hva-er-et-aksjeselskap" title="Hva er et Aksjeselskap? Komplett Guide til AS og Selskapsrett">aksjeselskap</a>. Det er et sentralt element i norsk selskapsstyring og krever både formell fastsetting, skattemessig behandling og korrekt bokføring.</p>
+<p><em>Se også: <a href="/blogs/regnskap/hva-er-et-styremote" title="Hva er et styremøte? Guide til Møter, Protokoller og Prosess">Hva er et styremøte?</a> | <a href="/blogs/regnskap/styreverv" title="Styreverv: Roller, Ansvar og Fordeler ved Styreverv i Norske Selskaper">Styreverv</a>.</em></p>
+<h2 id="seksjon-1-definisjon-og-roller">Seksjon 1: Definisjon og Roller</h2>
+<p>Styrehonorar er godtgjørelse for:</p>
+<ul>
+<li>Deltakelse i styremøter</li>
+<li>Forberedelse og strategiarbeid</li>
+<li>Arbeid i underutvalg eller komiteer</li>
+<li><a href="/blogs/regnskap/styreleder" title="Hva er Styreleder? Styrets Lederrolle i Norske Aksjeselskaper">Styreleder</a>&rsquo;s ekstra ansvar og arbeid</li>
+</ul>
+<p>Styrehonorar fastsettes normalt av selskapets <a href="/blogs/regnskap/hva-er-generalforsamling" title="Hva er Generalforsamling? Komplett Guide til Generalforsamling og Beslutningsprosesser">generalforsamling</a>.</p>
+<h2 id="seksjon-2-fastsetting-i-generalforsamlingen">Seksjon 2: Fastsetting i Generalforsamlingen</h2>
+<p><img src="styrehonorar-godkjenning.svg" alt="Fremgangsmåte for fastsetting av styrehonorar"></p>
+<p>Fastsetting av styrehonorar følger vanligvis denne prosessen:</p>
+<ol>
+<li>Innstilling fra valgkomité eller styret</li>
+<li>Presentasjon for generalforsamlingen</li>
+<li>Avstemming og godkjenning i generalforsamlingen</li>
+</ol>
+<table>
+  <thead>
+      <tr>
+          <th>Bedriftsstørrelse</th>
+          <th>Typisk Årshonorar</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Små AS</td>
+          <td>kr 20 000 – 50 000</td>
+      </tr>
+      <tr>
+          <td>Mellomstore AS</td>
+          <td>kr 50 000 – 150 000</td>
+      </tr>
+      <tr>
+          <td>Store AS</td>
+          <td>kr 150 000 – 500 000+</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="seksjon-3-beregningsmodell">Seksjon 3: Beregningsmodell</h2>
+<p><img src="styrehonorar-beregning.svg" alt="Beregningsmodell for styrehonorar"></p>
+<p>Grunnmodellen for beregning av styrehonorar kan beskrives som:</p>
+<pre tabindex="0"><code>Styrehonorar = Årshonorar + (Antall styremøter × Møtegodtgjørelse) + Utvalgsgodtgjørelse
+</code></pre><p>De enkelte komponentene fastsettes gjerne i selskapets vedtekter eller i egne retningslinjer for godtgjørelse.</p>
+<h2 id="seksjon-4-skattemessig-behandling">Seksjon 4: Skattemessig Behandling</h2>
+<p><img src="styrehonorar-skatt.svg" alt="Skattemessig behandling av styrehonorar"></p>
+<p>Styrehonorar omfattes av egne regler for skattetrekk og rapportering:</p>
+<table>
+  <thead>
+      <tr>
+          <th>Aspekt</th>
+          <th>Beskrivelse</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Skattetrekk</td>
+          <td>25 % ved utbetaling til person uten organisasjonsnummer</td>
+      </tr>
+      <tr>
+          <td>Rapportering</td>
+          <td>RF-1088 Oppgave over utbetalt styrehonorar</td>
+      </tr>
+      <tr>
+          <td>Skatteplikt</td>
+          <td>Inntektsskatt etter alminnelig sats</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="seksjon-5-bokføring-og-kontoplan">Seksjon 5: Bokføring og Kontoplan</h2>
+<p>Styrehonorar bokføres normalt slik:</p>
+<table>
+  <thead>
+      <tr>
+          <th>Konto</th>
+          <th>Beskrivelse</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>6570</td>
+          <td>Styrehonorar</td>
+      </tr>
+  </tbody>
+</table>
+<p><strong>Eksempel bokføring ved utbetaling:</strong></p>
+<pre tabindex="0"><code>Debet: Styrehonorar (6570)    kr 100 000
+Kredit: Forskuddstrekk         kr 25 000
+Kredit: Bank                  kr 75 000
+</code></pre><h2 id="seksjon-6-rapportering-og-dokumentasjon">Seksjon 6: Rapportering og Dokumentasjon</h2>
+<p>God dokumentasjon og rutiner er viktig for internkontroll og revisjon:</p>
+<ul>
+<li>Skriftlig avtale eller vedtak i generalforsamlingen</li>
+<li>Protokoll fra generalforsamling</li>
+<li>Faktura eller kravspesifikasjon fra styremedlemmer</li>
+<li>Underlag for skattetrekk og rapportering på RF-1088</li>
+</ul>
+<h2 id="seksjon-7-referanser-og-videre-lesning">Seksjon 7: Referanser og Videre Lesning</h2>
+<p>For mer informasjon om styrehonorar, se også:</p>
+<ul>
+<li><a href="/blogs/regnskap/hva-er-honorar" title="Hva er Honorar i Regnskap? Komplett Guide til Honorarutbetalinger og Skattebehandling">Hva er honorar?</a></li>
+<li><a href="/blogs/regnskap/hva-er-generalforsamling" title="Hva er Generalforsamling? Komplett Guide til Generalforsamling og Beslutningsprosesser">Hva er generalforsamling?</a></li>
+<li><a href="/blogs/regnskap/hva-er-bokforing" title="Hva er Bokføring? Komplett Guide til Regnskapsføring og Bokføringsprinsipper">Hva er bokføring?</a></li>
+</ul>
+<p>Styrehonorar er en viktig del av selskapsstyringen og krever både juridisk etterlevelse, korrekt skattemessig behandling og god regnskapsføring for å sikre tillit og transparens i selskapet.</p>
+</article>
+  </div>
+</section>
+
+  </main>
+  <footer class="mt-16 border-t border-slate-800/60 bg-slate-900">
+  <div class="max-w-7xl mx-auto px-4 py-14">
+    <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3 text-center sm:text-left">
+      
+      <div>
+        <h3 class="text-sm font-semibold text-white">Verktøy</h3>
+        <ul class="mt-2 space-y-2 text-sm text-slate-300">
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/finn-iban/">IBAN kalkulator</a></li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/lag-faktura-gratis/">Lag faktura</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Selskaps-informasjon</h3>
+        <ul class="mt-2 space-y-1 text-sm text-slate-300">
+          <li>Reai AS</li>
+          <li>Orgnr: 935606403</li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="mailto:post@reai.no">post@reai.no</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Om ReAI</h3>
+        <p class="mt-2 text-sm text-slate-300">ReAI er et gratis regnskapsprogram laget av tidligere ansatte i Tripletex
+          / Visma. Vi mener det er på tide med mer konkurranse i regnskaps-bransjen som kan komme bedrifter til gode.
+        </p>
+      </div>
+    </div>
+    <div class="mt-12 border-t border-slate-800/60 pt-6 flex flex-col items-center sm:flex-row sm:items-center sm:justify-between text-sm text-slate-400 text-center sm:text-left">
+      <div class="flex items-center gap-2">
+        
+        
+      </div>
+      <div class="mt-4 sm:mt-0 flex items-center justify-center sm:justify-end">
+        <div class="opacity-80">&copy; 2025 ReAI. All rights reserved.</div>
+      </div>
+    </div>
+  </div>
+</footer>
+</body>
+</html>

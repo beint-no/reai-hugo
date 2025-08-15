@@ -1,0 +1,192 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0D47A1;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="techGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1B5E20;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="marketGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF9800;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#E65100;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="futureGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#9C27B0;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4A148C;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="timelineGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#F44336;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#B71C1C;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
+  <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
+    Fremtidige Trender for Direkte Remittering
+  </text>
+  
+  <!-- Technological Innovations Section -->
+  <g transform="translate(50, 80)">
+    <rect x="0" y="0" width="340" height="200" rx="10" fill="url(#techGradient)" opacity="0.9"/>
+    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      🚀 Teknologiske Innovasjoner
+    </text>
+    
+    <g transform="translate(20, 45)">
+      <rect x="0" y="0" width="300" height="35" rx="5" fill="white" opacity="0.2"/>
+      <text x="10" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        Øyeblikkelige betalinger
+      </text>
+      <text x="10" y="30" font-family="Arial, sans-serif" font-size="11" fill="white">• 24/7 sanntidsoverføringer</text>
+      
+      <rect x="0" y="40" width="300" height="35" rx="5" fill="white" opacity="0.2"/>
+      <text x="10" y="58" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        Blockchain-teknologi
+      </text>
+      <text x="10" y="70" font-family="Arial, sans-serif" font-size="11" fill="white">• Desentraliserte betalingssystemer</text>
+      
+      <rect x="0" y="80" width="300" height="35" rx="5" fill="white" opacity="0.2"/>
+      <text x="10" y="98" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        Kunstig intelligens
+      </text>
+      <text x="10" y="110" font-family="Arial, sans-serif" font-size="11" fill="white">• Automatisk svindeldeteksjon</text>
+      
+      <rect x="0" y="120" width="300" height="35" rx="5" fill="white" opacity="0.2"/>
+      <text x="10" y="138" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        API-integrasjon
+      </text>
+      <text x="10" y="150" font-family="Arial, sans-serif" font-size="11" fill="white">• Sømløs integrasjon med regnskapssystemer</text>
+    </g>
+  </g>
+  
+  <!-- Market Trends Section -->
+  <g transform="translate(410, 80)">
+    <rect x="0" y="0" width="340" height="200" rx="10" fill="url(#marketGradient)" opacity="0.9"/>
+    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      📈 Markedstrender
+    </text>
+    
+    <g transform="translate(20, 45)">
+      <rect x="0" y="0" width="300" height="35" rx="5" fill="white" opacity="0.2"/>
+      <text x="10" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        Økt automatisering
+      </text>
+      <text x="10" y="30" font-family="Arial, sans-serif" font-size="11" fill="white">• Flere prosesser blir automatiserte</text>
+      
+      <rect x="0" y="40" width="300" height="35" rx="5" fill="white" opacity="0.2"/>
+      <text x="10" y="58" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        Lavere kostnader
+      </text>
+      <text x="10" y="70" font-family="Arial, sans-serif" font-size="11" fill="white">• Konkurranse driver ned priser</text>
+      
+      <rect x="0" y="80" width="300" height="35" rx="5" fill="white" opacity="0.2"/>
+      <text x="10" y="98" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        Bedre brukeropplevelse
+      </text>
+      <text x="10" y="110" font-family="Arial, sans-serif" font-size="11" fill="white">• Enklere grensesnitt</text>
+      
+      <rect x="0" y="120" width="300" height="35" rx="5" fill="white" opacity="0.2"/>
+      <text x="10" y="138" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        Økt sikkerhet
+      </text>
+      <text x="10" y="150" font-family="Arial, sans-serif" font-size="11" fill="white">• Avanserte sikkerhetstiltak</text>
+    </g>
+  </g>
+  
+  <!-- Future Timeline Section -->
+  <g transform="translate(50, 300)">
+    <rect x="0" y="0" width="700" height="180" rx="10" fill="url(#futureGradient)" opacity="0.9"/>
+    <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      🔮 Tidslinje for Fremtidige Utviklinger
+    </text>
+    
+    <!-- Timeline -->
+    <g transform="translate(50, 50)">
+      <!-- 2024-2025 -->
+      <rect x="0" y="0" width="150" height="100" rx="5" fill="white" opacity="0.2"/>
+      <text x="75" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        2024-2025
+      </text>
+      <text x="10" y="35" font-family="Arial, sans-serif" font-size="10" fill="white">• Øyeblikkelige betalinger</text>
+      <text x="10" y="50" font-family="Arial, sans-serif" font-size="10" fill="white">• Forbedret API-integrasjon</text>
+      <text x="10" y="65" font-family="Arial, sans-serif" font-size="10" fill="white">• Sterkere autentisering</text>
+      <text x="10" y="80" font-family="Arial, sans-serif" font-size="10" fill="white">• Lavere transaksjonskostnader</text>
+      <text x="10" y="95" font-family="Arial, sans-serif" font-size="10" fill="white">• Bedre mobilløsninger</text>
+      
+      <text x="165" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">→</text>
+      
+      <!-- 2026-2027 -->
+      <rect x="180" y="0" width="150" height="100" rx="5" fill="white" opacity="0.2"/>
+      <text x="255" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        2026-2027
+      </text>
+      <text x="190" y="35" font-family="Arial, sans-serif" font-size="10" fill="white">• AI-basert risikostyring</text>
+      <text x="190" y="50" font-family="Arial, sans-serif" font-size="10" fill="white">• Blockchain-implementering</text>
+      <text x="190" y="65" font-family="Arial, sans-serif" font-size="10" fill="white">• Automatisk compliance</text>
+      <text x="190" y="80" font-family="Arial, sans-serif" font-size="10" fill="white">• Prediktiv analyse</text>
+      <text x="190" y="95" font-family="Arial, sans-serif" font-size="10" fill="white">• Sømløs integrasjon</text>
+      
+      <text x="345" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">→</text>
+      
+      <!-- 2028-2030 -->
+      <rect x="360" y="0" width="150" height="100" rx="5" fill="white" opacity="0.2"/>
+      <text x="435" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        2028-2030
+      </text>
+      <text x="370" y="35" font-family="Arial, sans-serif" font-size="10" fill="white">• Fullt automatiserte systemer</text>
+      <text x="370" y="50" font-family="Arial, sans-serif" font-size="10" fill="white">• Kvantekryptografi</text>
+      <text x="370" y="65" font-family="Arial, sans-serif" font-size="10" fill="white">• Globale standarder</text>
+      <text x="370" y="80" font-family="Arial, sans-serif" font-size="10" fill="white">• Null-kostnad transaksjoner</text>
+      <text x="370" y="95" font-family="Arial, sans-serif" font-size="10" fill="white">• Universell tilgjengelighet</text>
+      
+      <text x="525" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">→</text>
+      
+      <!-- 2030+ -->
+      <rect x="540" y="0" width="110" height="100" rx="5" fill="white" opacity="0.2"/>
+      <text x="595" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        2030+
+      </text>
+      <text x="550" y="35" font-family="Arial, sans-serif" font-size="10" fill="white">• Selvstyrende</text>
+      <text x="550" y="47" font-family="Arial, sans-serif" font-size="10" fill="white">  økosystemer</text>
+      <text x="550" y="62" font-family="Arial, sans-serif" font-size="10" fill="white">• Ubegrenset</text>
+      <text x="550" y="74" font-family="Arial, sans-serif" font-size="10" fill="white">  skalering</text>
+      <text x="550" y="89" font-family="Arial, sans-serif" font-size="10" fill="white">• Perfekt sikkerhet</text>
+    </g>
+  </g>
+  
+  <!-- Impact Assessment Section -->
+  <g transform="translate(50, 500)">
+    <rect x="0" y="0" width="700" height="80" rx="10" fill="url(#timelineGradient)" opacity="0.9"/>
+    <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      💡 Forventet Påvirkning på Norsk Næringsliv
+    </text>
+    
+    <g transform="translate(30, 40)">
+      <rect x="0" y="0" width="160" height="30" rx="3" fill="white" opacity="0.2"/>
+      <text x="80" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+        Kostnadsreduksjon: 60-80%
+      </text>
+      
+      <rect x="170" y="0" width="160" height="30" rx="3" fill="white" opacity="0.2"/>
+      <text x="250" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+        Tidsbesparelse: 90-95%
+      </text>
+      
+      <rect x="340" y="0" width="160" height="30" rx="3" fill="white" opacity="0.2"/>
+      <text x="420" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+        Feilreduksjon: 99%+
+      </text>
+      
+      <rect x="510" y="0" width="160" height="30" rx="3" fill="white" opacity="0.2"/>
+      <text x="590" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+        Sikkerhetsforbedring: 10x
+      </text>
+    </g>
+  </g>
+</svg>

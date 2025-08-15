@@ -1,0 +1,124 @@
+<svg width="600" height="400" viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="600" height="400" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="300" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c3e50">
+    Kategorisering av Avvikstyper og Alvorlighetsgrad
+  </text>
+  
+  <!-- Severity pyramid -->
+  <!-- Level 1: Kritisk (top) -->
+  <polygon points="300,70 250,120 350,120" fill="#c0392b" opacity="0.9"/>
+  <text x="300" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    KRITISK
+  </text>
+  <text x="300" y="108" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+    Umiddelbar handling
+  </text>
+  
+  <!-- Level 2: Høy (second) -->
+  <polygon points="240,120 360,120 380,160 220,160" fill="#e74c3c" opacity="0.9"/>
+  <text x="300" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    HØY PRIORITET
+  </text>
+  <text x="300" y="153" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+    Handling innen 24 timer
+  </text>
+  
+  <!-- Level 3: Middels (third) -->
+  <polygon points="210,160 390,160 410,200 190,200" fill="#f39c12" opacity="0.9"/>
+  <text x="300" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    MIDDELS PRIORITET
+  </text>
+  <text x="300" y="193" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+    Handling innen 1 uke
+  </text>
+  
+  <!-- Level 4: Lav (bottom) -->
+  <polygon points="180,200 420,200 440,240 160,240" fill="#27ae60" opacity="0.9"/>
+  <text x="300" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    LAV PRIORITET
+  </text>
+  <text x="300" y="233" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+    Planlagt oppfølging
+  </text>
+  
+  <!-- Examples for each level -->
+  <rect x="50" y="270" width="500" height="110" fill="white" stroke="#2c3e50" stroke-width="2" rx="10"/>
+  <text x="300" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+    Eksempler på Avvikstyper
+  </text>
+  
+  <!-- Critical examples -->
+  <rect x="70" y="300" width="110" height="70" fill="#c0392b" opacity="0.1" rx="5"/>
+  <text x="125" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#c0392b">
+    KRITISK
+  </text>
+  <text x="75" y="330" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+    • Svindel
+  </text>
+  <text x="75" y="342" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+    • Systemkrasj
+  </text>
+  <text x="75" y="354" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+    • Compliance-brudd
+  </text>
+  <text x="75" y="366" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+    • Vesentlige feil
+  </text>
+  
+  <!-- High priority examples -->
+  <rect x="195" y="300" width="110" height="70" fill="#e74c3c" opacity="0.1" rx="5"/>
+  <text x="250" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#e74c3c">
+    HØY
+  </text>
+  <text x="200" y="330" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+    • Bankavstemming
+  </text>
+  <text x="200" y="342" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+    • Budsjettavvik >10%
+  </text>
+  <text x="200" y="354" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+    • Periodiseringsfeil
+  </text>
+  <text x="200" y="366" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+    • Mva-avvik
+  </text>
+  
+  <!-- Medium priority examples -->
+  <rect x="320" y="300" width="110" height="70" fill="#f39c12" opacity="0.1" rx="5"/>
+  <text x="375" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#f39c12">
+    MIDDELS
+  </text>
+  <text x="325" y="330" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+    • Klassifiseringsfeil
+  </text>
+  <text x="325" y="342" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+    • Mindre budsjettavvik
+  </text>
+  <text x="325" y="354" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+    • Dokumentasjonsfeil
+  </text>
+  <text x="325" y="366" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+    • Kontrollrutiner
+  </text>
+  
+  <!-- Low priority examples -->
+  <rect x="445" y="300" width="110" height="70" fill="#27ae60" opacity="0.1" rx="5"/>
+  <text x="500" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#27ae60">
+    LAV
+  </text>
+  <text x="450" y="330" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+    • Tastefeil
+  </text>
+  <text x="450" y="342" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+    • Mindre beløp
+  </text>
+  <text x="450" y="354" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+    • Rutineoppgaver
+  </text>
+  <text x="450" y="366" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+    • Formatering
+  </text>
+</svg>

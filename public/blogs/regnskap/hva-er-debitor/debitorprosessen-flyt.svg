@@ -1,0 +1,159 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#0066cc"/>
+    </marker>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#212529">
+    Debitorprosessen - Fra Salg til Betaling
+  </text>
+  
+  <!-- Step 1: Salg på kreditt -->
+  <rect x="50" y="80" width="120" height="60" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="10"/>
+  <text x="110" y="105" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#1976d2">
+    1. Salg på
+  </text>
+  <text x="110" y="120" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#1976d2">
+    kreditt
+  </text>
+  
+  <!-- Arrow 1 -->
+  <path d="M 180 110 L 220 110" stroke="#0066cc" stroke-width="3" marker-end="url(#arrowhead)"/>
+  
+  <!-- Step 2: Fakturering -->
+  <rect x="240" y="80" width="120" height="60" fill="#fff3e0" stroke="#f57c00" stroke-width="2" rx="10"/>
+  <text x="300" y="105" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#f57c00">
+    2. Fakturering
+  </text>
+  <text x="300" y="120" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#f57c00">
+    til kunde
+  </text>
+  
+  <!-- Arrow 2 -->
+  <path d="M 370 110 L 410 110" stroke="#0066cc" stroke-width="3" marker-end="url(#arrowhead)"/>
+  
+  <!-- Step 3: Registrering -->
+  <rect x="430" y="80" width="120" height="60" fill="#f3e5f5" stroke="#7b1fa2" stroke-width="2" rx="10"/>
+  <text x="490" y="105" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#7b1fa2">
+    3. Bokføring av
+  </text>
+  <text x="490" y="120" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#7b1fa2">
+    kundefordring
+  </text>
+  
+  <!-- Arrow 3 -->
+  <path d="M 560 110 L 600 110" stroke="#0066cc" stroke-width="3" marker-end="url(#arrowhead)"/>
+  
+  <!-- Step 4: Oppfølging -->
+  <rect x="620" y="80" width="120" height="60" fill="#fff8e1" stroke="#fbc02d" stroke-width="2" rx="10"/>
+  <text x="680" y="105" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#f57f17">
+    4. Oppfølging av
+  </text>
+  <text x="680" y="120" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#f57f17">
+    betalingsfrister
+  </text>
+  
+  <!-- Arrow down -->
+  <path d="M 680 150 L 680 190" stroke="#0066cc" stroke-width="3" marker-end="url(#arrowhead)"/>
+  
+  <!-- Step 5: Innbetaling -->
+  <rect x="620" y="210" width="120" height="60" fill="#e8f5e8" stroke="#388e3c" stroke-width="2" rx="10"/>
+  <text x="680" y="235" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#388e3c">
+    5. Mottak av
+  </text>
+  <text x="680" y="250" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#388e3c">
+    betaling
+  </text>
+  
+  <!-- Arrow left -->
+  <path d="M 610 240 L 570 240" stroke="#0066cc" stroke-width="3" marker-end="url(#arrowhead)"/>
+  
+  <!-- Step 6: Avstemming -->
+  <rect x="430" y="210" width="120" height="60" fill="#fce4ec" stroke="#c2185b" stroke-width="2" rx="10"/>
+  <text x="490" y="235" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#c2185b">
+    6. Avstemming
+  </text>
+  <text x="490" y="250" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#c2185b">
+    og lukking
+  </text>
+  
+  <!-- Details section -->
+  <rect x="50" y="320" width="700" height="150" fill="white" stroke="#dee2e6" stroke-width="1" rx="10"/>
+  
+  <text x="400" y="345" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#212529">
+    Detaljer for hvert trinn
+  </text>
+  
+  <!-- Column 1 -->
+  <text x="70" y="370" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1976d2">
+    Salg på kreditt:
+  </text>
+  <text x="70" y="385" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    • Levering av varer/tjenester
+  </text>
+  <text x="70" y="400" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    • Avtale om betalingsbetingelser
+  </text>
+  <text x="70" y="415" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    • Kredittvurdering av kunde
+  </text>
+  
+  <!-- Column 2 -->
+  <text x="270" y="370" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#f57c00">
+    Fakturering:
+  </text>
+  <text x="270" y="385" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    • Utsendelse av faktura
+  </text>
+  <text x="270" y="400" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    • Angivelse av forfallsdato
+  </text>
+  <text x="270" y="415" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    • Betalingsinformasjon
+  </text>
+  
+  <!-- Column 3 -->
+  <text x="470" y="370" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#7b1fa2">
+    Bokføring:
+  </text>
+  <text x="470" y="385" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    • Debet kundefordringer
+  </text>
+  <text x="470" y="400" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    • Kredit salgsinntekt
+  </text>
+  <text x="470" y="415" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    • Registrering i reskontro
+  </text>
+  
+  <!-- Bottom row -->
+  <text x="70" y="440" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#f57f17">
+    Oppfølging:
+  </text>
+  <text x="70" y="455" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    • Overvåking av forfallsdatoer
+  </text>
+  
+  <text x="270" y="440" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#388e3c">
+    Innbetaling:
+  </text>
+  <text x="270" y="455" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    • Mottak på bankkonto
+  </text>
+  
+  <text x="470" y="440" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#c2185b">
+    Avstemming:
+  </text>
+  <text x="470" y="455" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    • Matching betaling mot faktura
+  </text>
+</svg>

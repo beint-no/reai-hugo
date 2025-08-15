@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600">
+  <style>
+    .title-text { font-family: Arial, sans-serif; font-size: 24px; font-weight: bold; fill: #2d3748; text-anchor: middle; }
+    .section-title { font-family: Arial, sans-serif; font-size: 18px; font-weight: bold; fill: #2d3748; text-anchor: middle; }
+    .category-text { font-family: Arial, sans-serif; font-size: 16px; font-weight: bold; fill: #2d3748; }
+    .item-text { font-family: Arial, sans-serif; font-size: 14px; fill: #4a5568; }
+    .value-text { font-family: Arial, sans-serif; font-size: 14px; font-weight: bold; fill: #2d3748; text-anchor: end; }
+    .highlight-text { font-family: Arial, sans-serif; font-size: 14px; font-weight: bold; fill: #1e88e5; }
+    .result-text { font-family: Arial, sans-serif; font-size: 18px; font-weight: bold; fill: #38b2ac; text-anchor: middle; }
+    .balance-bg { fill: #f7fafc; stroke: #2d3748; stroke-width: 2; }
+    .assets-bg { fill: #e6fffa; stroke: #38b2ac; stroke-width: 1; }
+    .liabilities-bg { fill: #fed7d7; stroke: #e53e3e; stroke-width: 1; }
+    .equity-bg { fill: #fef5e7; stroke: #d69e2e; stroke-width: 1; }
+    .highlight-bg { fill: #ebf8ff; stroke: #1e88e5; stroke-width: 2; }
+  </style>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#ffffff"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" class="title-text">Arbeidskapital i Balansen</text>
+  
+  <!-- Balance sheet container -->
+  <rect x="50" y="60" width="700" height="450" class="balance-bg" rx="10"/>
+  
+  <!-- Balance sheet title -->
+  <text x="400" y="85" class="section-title">BALANSE - Norsk Bedrift AS</text>
+  
+  <!-- Assets side -->
+  <text x="200" y="115" class="category-text">EIENDELER (AKTIVA)</text>
+  
+  <!-- Anleggsmidler -->
+  <rect x="70" y="130" width="280" height="80" class="assets-bg" rx="5"/>
+  <text x="90" y="150" class="item-text">ANLEGGSMIDLER</text>
+  <text x="90" y="170" class="item-text">Bygninger og maskiner</text>
+  <text x="90" y="190" class="item-text">Immaterielle eiendeler</text>
+  <text x="330" y="170" class="value-text">2.400.000</text>
+  
+  <!-- Omløpsmidler (highlighted) -->
+  <rect x="70" y="220" width="280" height="120" class="highlight-bg" rx="5"/>
+  <text x="90" y="240" class="highlight-text">OMLØPSMIDLER ←</text>
+  <text x="90" y="260" class="item-text">Varelager</text>
+  <text x="320" y="260" class="value-text">800.000</text>
+  <text x="90" y="280" class="item-text">Kundefordringer</text>
+  <text x="320" y="280" class="value-text">1.200.000</text>
+  <text x="90" y="300" class="item-text">Kontanter og bank</text>
+  <text x="320" y="300" class="value-text">500.000</text>
+  <text x="90" y="320" class="item-text">Forskuddsbetalt</text>
+  <text x="320" y="320" class="value-text">100.000</text>
+  
+  <!-- Total assets -->
+  <line x1="70" y1="350" x2="350" y2="350" stroke="#2d3748" stroke-width="2"/>
+  <text x="90" y="370" class="category-text">SUM EIENDELER</text>
+  <text x="330" y="370" class="value-text" font-weight="bold">5.000.000</text>
+  
+  <!-- Liabilities and Equity side -->
+  <text x="600" y="115" class="category-text">GJELD OG EGENKAPITAL</text>
+  
+  <!-- Egenkapital -->
+  <rect x="450" y="130" width="280" height="60" class="equity-bg" rx="5"/>
+  <text x="470" y="150" class="item-text">EGENKAPITAL</text>
+  <text x="470" y="170" class="item-text">Aksjekapital og opptjent kapital</text>
+  <text x="710" y="160" class="value-text">1.800.000</text>
+  
+  <!-- Langsiktig gjeld -->
+  <rect x="450" y="200" width="280" height="60" class="liabilities-bg" rx="5"/>
+  <text x="470" y="220" class="item-text">LANGSIKTIG GJELD</text>
+  <text x="470" y="240" class="item-text">Banklån og obligasjoner</text>
+  <text x="710" y="230" class="value-text">1.500.000</text>
+  
+  <!-- Kortsiktig gjeld (highlighted) -->
+  <rect x="450" y="270" width="280" height="100" class="highlight-bg" rx="5"/>
+  <text x="470" y="290" class="highlight-text">KORTSIKTIG GJELD ←</text>
+  <text x="470" y="310" class="item-text">Leverandørgjeld</text>
+  <text x="700" y="310" class="value-text">800.000</text>
+  <text x="470" y="330" class="item-text">Påløpte kostnader</text>
+  <text x="700" y="330" class="value-text">300.000</text>
+  <text x="470" y="350" class="item-text">Kortsiktige lån og skatt</text>
+  <text x="700" y="350" class="value-text">600.000</text>
+  
+  <!-- Total liabilities and equity -->
+  <line x1="450" y1="380" x2="730" y2="380" stroke="#2d3748" stroke-width="2"/>
+  <text x="470" y="400" class="category-text">SUM GJELD OG EGENKAPITAL</text>
+  <text x="710" y="400" class="value-text" font-weight="bold">5.000.000</text>
+  
+  <!-- Working capital calculation -->
+  <rect x="200" y="530" width="400" height="50" class="highlight-bg" rx="8"/>
+  <text x="400" y="550" class="section-title">ARBEIDSKAPITAL BEREGNING</text>
+  <text x="400" y="570" class="result-text">2.600.000 - 1.700.000 = 900.000 NOK</text>
+  
+  <!-- Arrows pointing to highlighted sections -->
+  <path d="M 250 430 Q 250 480 300 520" stroke="#1e88e5" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  <path d="M 550 430 Q 550 480 500 520" stroke="#1e88e5" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Arrow marker -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#1e88e5"/>
+    </marker>
+  </defs>
+</svg>

@@ -1,0 +1,210 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="revenueGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#007bff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0056b3;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="grossGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#17a2b8;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#138496;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="operatingGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#fd7e14;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e8650e;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="netGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="3" dy="3" stdDeviation="4" flood-color="#000000" flood-opacity="0.2"/>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
+    Fortjeneste Nivåer - Fra Inntekt til Nettofortjeneste
+  </text>
+  
+  <!-- Waterfall diagram showing profit levels -->
+  
+  <!-- Revenue level -->
+  <g transform="translate(50, 80)">
+    <rect x="0" y="0" width="700" height="60" fill="url(#revenueGradient)" rx="8" filter="url(#shadow)"/>
+    <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      SALGSINNTEKTER
+    </text>
+    <text x="350" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+      Totale inntekter fra salg av varer og tjenester
+    </text>
+    <text x="680" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      100%
+    </text>
+  </g>
+  
+  <!-- Minus COGS -->
+  <g transform="translate(100, 160)">
+    <rect x="0" y="0" width="200" height="40" fill="#dc3545" rx="6"/>
+    <text x="100" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      - VAREKOSTNADER
+    </text>
+    <text x="100" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      (Cost of Goods Sold)
+    </text>
+    
+    <!-- Arrow down -->
+    <path d="M 100 50 L 100 80" stroke="#495057" stroke-width="3" marker-end="url(#arrowdown)"/>
+  </g>
+  
+  <!-- Gross Profit level -->
+  <g transform="translate(50, 220)">
+    <rect x="0" y="0" width="500" height="60" fill="url(#grossGradient)" rx="8" filter="url(#shadow)"/>
+    <text x="250" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      BRUTTOFORTJENESTE
+    </text>
+    <text x="250" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+      Salgsinntekter minus varekostnader
+    </text>
+    <text x="480" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      ~70%
+    </text>
+  </g>
+  
+  <!-- Minus Operating Expenses -->
+  <g transform="translate(100, 300)">
+    <rect x="0" y="0" width="200" height="40" fill="#dc3545" rx="6"/>
+    <text x="100" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      - DRIFTSKOSTNADER
+    </text>
+    <text x="100" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      (Lønn, husleie, markedsføring)
+    </text>
+    
+    <!-- Arrow down -->
+    <path d="M 100 50 L 100 80" stroke="#495057" stroke-width="3" marker-end="url(#arrowdown)"/>
+  </g>
+  
+  <!-- Operating Profit level -->
+  <g transform="translate(50, 360)">
+    <rect x="0" y="0" width="350" height="60" fill="url(#operatingGradient)" rx="8" filter="url(#shadow)"/>
+    <text x="175" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      DRIFTSFORTJENESTE (EBIT)
+    </text>
+    <text x="175" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+      Bruttofortjeneste minus driftskostnader
+    </text>
+    <text x="330" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      ~15%
+    </text>
+  </g>
+  
+  <!-- Minus Financial costs and taxes -->
+  <g transform="translate(100, 440)">
+    <rect x="0" y="0" width="200" height="50" fill="#dc3545" rx="6"/>
+    <text x="100" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+      - FINANSKOSTNADER
+    </text>
+    <text x="100" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+      - SKATTER
+    </text>
+    <text x="100" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+      (Renter og skatt)
+    </text>
+    
+    <!-- Arrow down -->
+    <path d="M 100 60 L 100 90" stroke="#495057" stroke-width="3" marker-end="url(#arrowdown)"/>
+  </g>
+  
+  <!-- Net Profit level -->
+  <g transform="translate(50, 510)">
+    <rect x="0" y="0" width="250" height="60" fill="url(#netGradient)" rx="8" filter="url(#shadow)"/>
+    <text x="125" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      NETTOFORTJENESTE
+    </text>
+    <text x="125" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+      Endelig overskudd til eiere
+    </text>
+    <text x="230" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      ~8%
+    </text>
+  </g>
+  
+  <!-- Side explanations -->
+  <g transform="translate(580, 180)">
+    <rect x="0" y="0" width="180" height="350" fill="#ffffff" stroke="#dee2e6" stroke-width="2" rx="8"/>
+    <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#495057">
+      Nøkkelpunkter
+    </text>
+    
+    <text x="10" y="50" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#17a2b8">
+      Bruttofortjeneste:
+    </text>
+    <text x="10" y="65" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      • Viser lønnsomhet på
+    </text>
+    <text x="10" y="78" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+        produktnivå
+    </text>
+    <text x="10" y="91" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      • Viktig for prissetting
+    </text>
+    
+    <text x="10" y="115" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#fd7e14">
+      Driftsfortjeneste:
+    </text>
+    <text x="10" y="130" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      • Måler operasjonell
+    </text>
+    <text x="10" y="143" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+        effektivitet
+    </text>
+    <text x="10" y="156" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      • Sammenlignbart
+    </text>
+    <text x="10" y="169" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+        mellom bedrifter
+    </text>
+    
+    <text x="10" y="193" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#28a745">
+      Nettofortjeneste:
+    </text>
+    <text x="10" y="208" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      • Endelig resultat
+    </text>
+    <text x="10" y="221" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      • Grunnlag for utbytte
+    </text>
+    <text x="10" y="234" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      • Påvirkes av
+    </text>
+    <text x="10" y="247" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+        finansiering og skatt
+    </text>
+    
+    <text x="10" y="275" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#6f42c1">
+      Andre mål:
+    </text>
+    <text x="10" y="290" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      • EBITDA: Før
+    </text>
+    <text x="10" y="303" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+        avskrivninger
+    </text>
+    <text x="10" y="316" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      • EBIT: Før finans
+    </text>
+    <text x="10" y="329" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+        og skatt
+    </text>
+  </g>
+  
+  <!-- Arrow markers -->
+  <defs>
+    <marker id="arrowdown" markerWidth="8" markerHeight="8" refX="4" refY="6" orient="auto">
+      <polygon points="0 0, 8 0, 4 6" fill="#495057"/>
+    </marker>
+  </defs>
+</svg>

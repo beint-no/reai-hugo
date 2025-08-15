@@ -1,0 +1,147 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="lawGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1a237e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3949ab;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#1a237e">
+    Juridisk Grunnlag for Morarente
+  </text>
+  
+  <!-- Law book illustration -->
+  <rect x="50" y="80" width="200" height="150" fill="url(#lawGradient)" stroke="#1a237e" stroke-width="3" rx="10"/>
+  <rect x="60" y="90" width="180" height="20" fill="white" rx="5"/>
+  <text x="150" y="105" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#1a237e">
+    Forsinkelsesrenteloven
+  </text>
+  <text x="150" y="130" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+    17. desember 1976
+  </text>
+  <text x="150" y="150" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">
+    Etablerer juridisk
+  </text>
+  <text x="150" y="165" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">
+    rammeverk for
+  </text>
+  <text x="150" y="180" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">
+    automatisk rentepåløp
+  </text>
+  <text x="150" y="210" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+    §§ 1-9
+  </text>
+  
+  <!-- Arrow from law to principles -->
+  <path d="M 250 155 L 290 155" stroke="#666" stroke-width="3" marker-end="url(#arrowhead)"/>
+  
+  <!-- Principles boxes -->
+  <rect x="300" y="80" width="180" height="60" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="8"/>
+  <text x="390" y="100" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#1976d2">
+    Automatisk Rettskrav
+  </text>
+  <text x="390" y="118" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#1976d2">
+    Påløper fra forfallsdato
+  </text>
+  <text x="390" y="132" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#1976d2">
+    uten påminnelse
+  </text>
+  
+  <rect x="300" y="160" width="180" height="60" fill="#f3e5f5" stroke="#7b1fa2" stroke-width="2" rx="8"/>
+  <text x="390" y="180" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#7b1fa2">
+    Ingen Avtalekrav
+  </text>
+  <text x="390" y="198" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#7b1fa2">
+    Krever ikke eksplisitt
+  </text>
+  <text x="390" y="212" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#7b1fa2">
+    avtale mellom partene
+  </text>
+  
+  <!-- Arrow to application -->
+  <path d="M 480 155 L 520 155" stroke="#666" stroke-width="3" marker-end="url(#arrowhead)"/>
+  
+  <!-- Application area -->
+  <rect x="530" y="80" width="220" height="150" fill="white" stroke="#28a745" stroke-width="2" rx="10"/>
+  <text x="640" y="105" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#28a745">
+    Universell Anvendelse
+  </text>
+  
+  <!-- Application items -->
+  <circle cx="560" cy="130" r="5" fill="#28a745"/>
+  <text x="575" y="135" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    Alle pengefordringer
+  </text>
+  
+  <circle cx="560" cy="150" r="5" fill="#28a745"/>
+  <text x="575" y="155" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    Kommersielle transaksjoner
+  </text>
+  
+  <circle cx="560" cy="170" r="5" fill="#28a745"/>
+  <text x="575" y="175" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    Private lån
+  </text>
+  
+  <circle cx="560" cy="190" r="5" fill="#28a745"/>
+  <text x="575" y="195" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    Fakturaer &amp; leveranser
+  </text>
+  
+  <circle cx="560" cy="210" r="5" fill="#28a745"/>
+  <text x="575" y="215" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    Lønn &amp; honorarer
+  </text>
+  
+  <!-- Protection section -->
+  <rect x="50" y="280" width="700" height="120" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="10"/>
+  <text x="400" y="305" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#856404">
+    Beskyttelse mot Avvik
+  </text>
+  
+  <rect x="80" y="320" width="300" height="60" fill="#d4edda" stroke="#28a745" stroke-width="1" rx="5"/>
+  <text x="230" y="340" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#155724">
+    Gyldige Avtaler
+  </text>
+  <text x="230" y="358" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#155724">
+    Høyere rente enn lovens minimum
+  </text>
+  <text x="230" y="372" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#155724">
+    Raskere forfallsdatoer
+  </text>
+  
+  <rect x="420" y="320" width="300" height="60" fill="#f8d7da" stroke="#dc3545" stroke-width="1" rx="5"/>
+  <text x="570" y="340" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#721c24">
+    Ugyldige Avtaler
+  </text>
+  <text x="570" y="358" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#721c24">
+    Lavere rente enn lovens minimum
+  </text>
+  <text x="570" y="372" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#721c24">
+    Fullstendig fraskrivelse av rente
+  </text>
+  
+  <!-- Bottom note -->
+  <rect x="100" y="430" width="600" height="50" fill="#e9ecef" stroke="#6c757d" stroke-width="1" rx="5"/>
+  <text x="400" y="450" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#495057">
+    Lovens Formål
+  </text>
+  <text x="400" y="468" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#6c757d">
+    Sikre kreditorer kompensasjon for økonomiske tap ved forsinket betaling
+  </text>
+  
+  <!-- Arrow marker -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#666"/>
+    </marker>
+  </defs>
+</svg>

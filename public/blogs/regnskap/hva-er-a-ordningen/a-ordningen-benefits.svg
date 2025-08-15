@@ -1,0 +1,37 @@
+<svg width="800" height="450" viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#f0f4f8"/>
+  <style>
+    .title { font-family: Arial, sans-serif; font-size: 28px; text-anchor: middle; font-weight: bold; }
+    .card { fill: #ffffff; stroke: #0050b3; stroke-width: 2; rx: 10; }
+    .icon { font-size: 40px; text-anchor: middle; }
+    .text { font-family: Arial, sans-serif; font-size: 16px; text-anchor: middle; }
+    .desc { font-family: Arial, sans-serif; font-size: 12px; text-anchor: middle; }
+  </style>
+
+  <text x="400" y="50" class="title">Fordeler med A-ordningen</text>
+
+  <!-- Card 1: Enklere for Arbeidsgiver -->
+  <rect x="50" y="100" width="200" height="250" class="card"/>
+  <text x="150" y="150" class="icon">🏢</text>
+  <text x="150" y="190" class="text" font-weight="bold">Enklere for Arbeidsgiver</text>
+  <text x="150" y="220" class="desc">Én rapport, én frist.</text>
+  <text x="150" y="240" class="desc">Mindre administrasjon.</text>
+  <text x="150" y="260" class="desc">Redusert risiko for feil.</text>
+
+  <!-- Card 2: Bedre Datakvalitet -->
+  <rect x="300" y="100" width="200" height="250" class="card"/>
+  <text x="400" y="150" class="icon">📊</text>
+  <text x="400" y="190" class="text" font-weight="bold">Bedre Datakvalitet</text>
+  <text x="400" y="220" class="desc">Oppdatert sanntidsdata.</text>
+  <text x="400" y="240" class="desc">Færre feilkilder.</text>
+  <text x="400" y="260" class="desc">Lik informasjon til alle etater.</text>
+
+  <!-- Card 3: Nyttige Tjenester -->
+  <rect x="550" y="100" width="200" height="250" class="card"/>
+  <text x="650" y="150" class="icon">💡</text>
+  <text x="650" y="190" class="text" font-weight="bold">Nyttige Tjenester</text>
+  <text x="650" y="220" class="desc">Korrekt skatteberegning.</text>
+  <text x="650" y="240" class="desc">Riktige ytelser fra NAV.</text>
+  <text x="650" y="260" class="desc">Pålitelig statistikk fra SSB.</text>
+
+</svg>

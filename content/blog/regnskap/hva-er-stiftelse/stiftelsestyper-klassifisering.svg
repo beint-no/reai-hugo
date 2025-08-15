@@ -1,0 +1,166 @@
+<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="purpleGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#8B5CF6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#5B21B6;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="orangeGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#F59E0B;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#D97706;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="#F8FAFC"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1E293B">
+    Klassifisering av Stiftelsestyper
+  </text>
+  
+  <!-- Main classification tree -->
+  <rect x="350" y="70" width="100" height="40" fill="url(#purpleGradient)" rx="5"/>
+  <text x="400" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF">
+    STIFTELSER
+  </text>
+  
+  <!-- Branch lines -->
+  <line x1="400" y1="110" x2="400" y2="140" stroke="#64748B" stroke-width="3"/>
+  <line x1="200" y1="140" x2="600" y2="140" stroke="#64748B" stroke-width="3"/>
+  <line x1="200" y1="140" x2="200" y2="170" stroke="#64748B" stroke-width="3"/>
+  <line x1="600" y1="140" x2="600" y2="170" stroke="#64748B" stroke-width="3"/>
+  
+  <!-- Allmennyttige Stiftelser -->
+  <rect x="50" y="170" width="300" height="50" fill="url(#orangeGradient)" rx="8"/>
+  <text x="200" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#FFFFFF">
+    Allmennyttige Stiftelser
+  </text>
+  <text x="200" y="208" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#FFFFFF">
+    Samfunnsgagn og allmenne interesser
+  </text>
+  
+  <!-- Private Stiftelser -->
+  <rect x="450" y="170" width="300" height="50" fill="url(#orangeGradient)" rx="8"/>
+  <text x="600" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#FFFFFF">
+    Private Stiftelser
+  </text>
+  <text x="600" y="208" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#FFFFFF">
+    Avgrenset målgruppe eller spesielle interesser
+  </text>
+  
+  <!-- Allmennyttige characteristics -->
+  <rect x="20" y="250" width="160" height="80" fill="#E0F2FE" stroke="#0891B2" stroke-width="2" rx="5"/>
+  <text x="100" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#0C4A6E">
+    Skattefordeler
+  </text>
+  <text x="100" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#0C4A6E">
+    • Fritak for skatteplikt
+  </text>
+  <text x="100" y="298" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#0C4A6E">
+    • Skattefradrag for givere
+  </text>
+  <text x="100" y="311" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#0C4A6E">
+    • Moms-unntak for visse
+  </text>
+  <text x="100" y="324" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#0C4A6E">
+    aktiviteter
+  </text>
+  
+  <rect x="190" y="250" width="160" height="80" fill="#F0FDF4" stroke="#16A34A" stroke-width="2" rx="5"/>
+  <text x="270" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#14532D">
+    Eksempler
+  </text>
+  <text x="270" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#14532D">
+    • Helseforskningsstiftelser
+  </text>
+  <text x="270" y="298" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#14532D">
+    • Kulturstiftelser
+  </text>
+  <text x="270" y="311" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#14532D">
+    • Miljøstiftelser
+  </text>
+  <text x="270" y="324" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#14532D">
+    • Utdannelsesstiftelser
+  </text>
+  
+  <!-- Private characteristics -->
+  <rect x="420" y="250" width="160" height="80" fill="#FEF3C7" stroke="#D97706" stroke-width="2" rx="5"/>
+  <text x="500" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#92400E">
+    Skattebehandling
+  </text>
+  <text x="500" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#92400E">
+    • Ordinær skatteplikt for
+  </text>
+  <text x="500" y="298" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#92400E">
+    næringsinntekt
+  </text>
+  <text x="500" y="311" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#92400E">
+    • Begrenset skattefradrag
+  </text>
+  <text x="500" y="324" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#92400E">
+    for givere
+  </text>
+  
+  <rect x="590" y="250" width="160" height="80" fill="#FDF2F8" stroke="#EC4899" stroke-width="2" rx="5"/>
+  <text x="670" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#831843">
+    Eksempler
+  </text>
+  <text x="670" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#831843">
+    • Familiestiftelser
+  </text>
+  <text x="670" y="298" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#831843">
+    • Bedriftsstiftelser
+  </text>
+  <text x="670" y="311" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#831843">
+    • Kunstsamlinger
+  </text>
+  <text x="670" y="324" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#831843">
+    • Stipendstiftelser
+  </text>
+  
+  <!-- Criteria table -->
+  <rect x="100" y="360" width="600" height="120" fill="#FFFFFF" stroke="#D1D5DB" stroke-width="2" rx="8"/>
+  <text x="400" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1F2937">
+    Kriterier for Allmennyttighet
+  </text>
+  
+  <!-- Table headers -->
+  <rect x="120" y="395" width="180" height="25" fill="#F3F4F6" stroke="#D1D5DB" stroke-width="1"/>
+  <rect x="300" y="395" width="180" height="25" fill="#F3F4F6" stroke="#D1D5DB" stroke-width="1"/>
+  <rect x="480" y="395" width="200" height="25" fill="#F3F4F6" stroke="#D1D5DB" stroke-width="1"/>
+  
+  <text x="210" y="410" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#374151">
+    Kriterium
+  </text>
+  <text x="390" y="410" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#374151">
+    Allmennyttig
+  </text>
+  <text x="580" y="410" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#374151">
+    Privat
+  </text>
+  
+  <!-- Table rows -->
+  <rect x="120" y="420" width="180" height="20" fill="#FFFFFF" stroke="#D1D5DB" stroke-width="1"/>
+  <rect x="300" y="420" width="180" height="20" fill="#FFFFFF" stroke="#D1D5DB" stroke-width="1"/>
+  <rect x="480" y="420" width="200" height="20" fill="#FFFFFF" stroke="#D1D5DB" stroke-width="1"/>
+  
+  <text x="130" y="433" font-family="Arial, sans-serif" font-size="10" fill="#374151">Formål</text>
+  <text x="310" y="433" font-family="Arial, sans-serif" font-size="10" fill="#374151">Samfunnsgagn</text>
+  <text x="490" y="433" font-family="Arial, sans-serif" font-size="10" fill="#374151">Avgrenset krets</text>
+  
+  <rect x="120" y="440" width="180" height="20" fill="#F9FAFB" stroke="#D1D5DB" stroke-width="1"/>
+  <rect x="300" y="440" width="180" height="20" fill="#F9FAFB" stroke="#D1D5DB" stroke-width="1"/>
+  <rect x="480" y="440" width="200" height="20" fill="#F9FAFB" stroke="#D1D5DB" stroke-width="1"/>
+  
+  <text x="130" y="453" font-family="Arial, sans-serif" font-size="10" fill="#374151">Målgruppe</text>
+  <text x="310" y="453" font-family="Arial, sans-serif" font-size="10" fill="#374151">Alle/bred gruppe</text>
+  <text x="490" y="453" font-family="Arial, sans-serif" font-size="10" fill="#374151">Spesifikk gruppe</text>
+  
+  <rect x="120" y="460" width="180" height="20" fill="#FFFFFF" stroke="#D1D5DB" stroke-width="1"/>
+  <rect x="300" y="460" width="180" height="20" fill="#FFFFFF" stroke="#D1D5DB" stroke-width="1"/>
+  <rect x="480" y="460" width="200" height="20" fill="#FFFFFF" stroke="#D1D5DB" stroke-width="1"/>
+  
+  <text x="130" y="473" font-family="Arial, sans-serif" font-size="10" fill="#374151">Skattebehandling</text>
+  <text x="310" y="473" font-family="Arial, sans-serif" font-size="10" fill="#374151">Fritak mulig</text>
+  <text x="490" y="473" font-family="Arial, sans-serif" font-size="10" fill="#374151">Ordinær beskatning</text>
+</svg>

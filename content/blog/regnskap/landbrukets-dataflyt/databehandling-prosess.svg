@@ -1,0 +1,220 @@
+<svg width="900" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="processGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3498db;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2980b9;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="processGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#27ae60;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#229954;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="processGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f39c12;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e67e22;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="processGrad4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e74c3c;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#c0392b;stop-opacity:1" />
+    </linearGradient>
+    <filter id="dropShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="3" dy="3" stdDeviation="2" flood-color="#000000" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="900" height="500" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="450" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#2c3e50">
+    Prosessflyt for Databehandling i Landbruket
+  </text>
+  
+  <!-- Phase 1: Data Collection -->
+  <rect x="50" y="80" width="180" height="120" rx="15" fill="url(#processGrad1)" stroke="#2980b9" stroke-width="3" filter="url(#dropShadow)"/>
+  <text x="140" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    FASE 1
+  </text>
+  <text x="140" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    DATAINNSAMLING
+  </text>
+  
+  <!-- Phase 1 details -->
+  <rect x="60" y="150" width="160" height="40" rx="5" fill="rgba(255,255,255,0.2)" stroke="white" stroke-width="1"/>
+  <text x="140" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Sensorer og IoT
+  </text>
+  <text x="140" y="178" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Manuell registrering
+  </text>
+  <text x="140" y="191" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Eksterne API-er
+  </text>
+  
+  <!-- Phase 2: Data Processing -->
+  <rect x="280" y="80" width="180" height="120" rx="15" fill="url(#processGrad2)" stroke="#229954" stroke-width="3" filter="url(#dropShadow)"/>
+  <text x="370" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    FASE 2
+  </text>
+  <text x="370" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    DATABEHANDLING
+  </text>
+  
+  <!-- Phase 2 details -->
+  <rect x="290" y="150" width="160" height="40" rx="5" fill="rgba(255,255,255,0.2)" stroke="white" stroke-width="1"/>
+  <text x="370" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Validering &amp; Rensing
+  </text>
+  <text x="370" y="178" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Standardisering
+  </text>
+  <text x="370" y="191" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Transformasjon
+  </text>
+  
+  <!-- Phase 3: Data Integration -->
+  <rect x="510" y="80" width="180" height="120" rx="15" fill="url(#processGrad3)" stroke="#e67e22" stroke-width="3" filter="url(#dropShadow)"/>
+  <text x="600" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    FASE 3
+  </text>
+  <text x="600" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    DATAINTEGRASJON
+  </text>
+  
+  <!-- Phase 3 details -->
+  <rect x="520" y="150" width="160" height="40" rx="5" fill="rgba(255,255,255,0.2)" stroke="white" stroke-width="1"/>
+  <text x="600" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Sammenstilling
+  </text>
+  <text x="600" y="178" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Kobling av data
+  </text>
+  <text x="600" y="191" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Kvalitetssikring
+  </text>
+  
+  <!-- Phase 4: Analysis & Reporting -->
+  <rect x="740" y="80" width="180" height="120" rx="15" fill="url(#processGrad4)" stroke="#c0392b" stroke-width="3" filter="url(#dropShadow)"/>
+  <text x="830" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    FASE 4
+  </text>
+  <text x="830" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    ANALYSE &amp; RAPPORT
+  </text>
+  
+  <!-- Phase 4 details -->
+  <rect x="750" y="150" width="160" height="40" rx="5" fill="rgba(255,255,255,0.2)" stroke="white" stroke-width="1"/>
+  <text x="830" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Produksjonsanalyse
+  </text>
+  <text x="830" y="178" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Økonomisk rapportering
+  </text>
+  <text x="830" y="191" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Compliance-rapporter
+  </text>
+  
+  <!-- Flow arrows -->
+  <defs>
+    <marker id="flowArrow" markerWidth="12" markerHeight="8" refX="11" refY="4" orient="auto">
+      <polygon points="0 0, 12 4, 0 8" fill="#34495e" />
+    </marker>
+  </defs>
+  
+  <!-- Horizontal flow arrows -->
+  <line x1="230" y1="140" x2="280" y2="140" stroke="#34495e" stroke-width="4" marker-end="url(#flowArrow)"/>
+  <line x1="460" y1="140" x2="510" y2="140" stroke="#34495e" stroke-width="4" marker-end="url(#flowArrow)"/>
+  <line x1="690" y1="140" x2="740" y2="140" stroke="#34495e" stroke-width="4" marker-end="url(#flowArrow)"/>
+  
+  <!-- Data quality indicators -->
+  <rect x="50" y="250" width="870" height="60" rx="10" fill="white" stroke="#bdc3c7" stroke-width="2"/>
+  <text x="485" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+    DATAKVALITET GJENNOM PROSESSEN
+  </text>
+  
+  <!-- Quality progression bars -->
+  <rect x="80" y="285" width="120" height="15" rx="7" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
+  <rect x="80" y="285" width="30" height="15" rx="7" fill="#e74c3c"/>
+  <text x="140" y="296" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#7f8c8d">
+    Rådata (25%)
+  </text>
+  
+  <rect x="310" y="285" width="120" height="15" rx="7" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
+  <rect x="310" y="285" width="72" height="15" rx="7" fill="#f39c12"/>
+  <text x="370" y="296" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#7f8c8d">
+    Behandlet (60%)
+  </text>
+  
+  <rect x="540" y="285" width="120" height="15" rx="7" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
+  <rect x="540" y="285" width="96" height="15" rx="7" fill="#27ae60"/>
+  <text x="600" y="296" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#7f8c8d">
+    Integrert (80%)
+  </text>
+  
+  <rect x="770" y="285" width="120" height="15" rx="7" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
+  <rect x="770" y="285" width="114" height="15" rx="7" fill="#2ecc71"/>
+  <text x="830" y="296" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#7f8c8d">
+    Analyseklar (95%)
+  </text>
+  
+  <!-- Process details section -->
+  <rect x="50" y="340" width="870" height="130" rx="10" fill="white" stroke="#bdc3c7" stroke-width="2"/>
+  <text x="485" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
+    DETALJERT PROSESSBESKRIVELSE
+  </text>
+  
+  <!-- Detailed process steps -->
+  <g transform="translate(70, 380)">
+    <!-- Step 1 -->
+    <circle cx="0" cy="0" r="8" fill="#3498db"/>
+    <text x="0" y="5" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">1</text>
+    <text x="20" y="5" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+      <tspan font-weight="bold">Innsamling:</tspan> Kontinuerlig datastrøm fra sensorer, maskiner og manuelle kilder
+    </text>
+    
+    <!-- Step 2 -->
+    <circle cx="0" cy="25" r="8" fill="#27ae60"/>
+    <text x="0" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">2</text>
+    <text x="20" y="30" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+      <tspan font-weight="bold">Validering:</tspan> Automatisk kontroll av dataformat, verdier og konsistens
+    </text>
+    
+    <!-- Step 3 -->
+    <circle cx="0" cy="50" r="8" fill="#f39c12"/>
+    <text x="0" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">3</text>
+    <text x="20" y="55" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+      <tspan font-weight="bold">Integrasjon:</tspan> Sammenstilling av data fra ulike kilder til helhetlig datasett
+    </text>
+    
+    <!-- Step 4 -->
+    <circle cx="0" cy="75" r="8" fill="#e74c3c"/>
+    <text x="0" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">4</text>
+    <text x="20" y="80" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+      <tspan font-weight="bold">Analyse:</tspan> Generering av innsikt, rapporter og beslutningsstøtte
+    </text>
+  </g>
+  
+  <!-- Data flow indicators with animation -->
+  <circle cx="255" cy="120" r="4" fill="#3498db">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="485" cy="120" r="4" fill="#27ae60">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" begin="0.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="715" cy="120" r="4" fill="#f39c12">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" begin="1s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Time indicators -->
+  <text x="140" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">
+    Kontinuerlig
+  </text>
+  <text x="370" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">
+    Sanntid
+  </text>
+  <text x="600" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">
+    Daglig
+  </text>
+  <text x="830" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">
+    På forespørsel
+  </text>
+</svg>

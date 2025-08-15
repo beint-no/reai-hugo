@@ -1,0 +1,79 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="prognoseGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#059669;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#10b981;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="budsjettGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1e40af;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="#f8fafc"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e293b">Prognose vs. Budsjett - Hovedforskjeller</text>
+  
+  <!-- Left column: Prognose -->
+  <rect x="50" y="70" width="300" height="400" fill="url(#prognoseGrad)" rx="12"/>
+  <text x="200" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">PROGNOSE</text>
+  
+  <!-- Prognose characteristics -->
+  <text x="70" y="130" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Formål:</text>
+  <text x="70" y="150" font-family="Arial, sans-serif" font-size="12" fill="white">• Forutsi fremtidige resultater</text>
+  <text x="70" y="165" font-family="Arial, sans-serif" font-size="12" fill="white">• Gi realistiske forventninger</text>
+  <text x="70" y="180" font-family="Arial, sans-serif" font-size="12" fill="white">• Støtte beslutningsprosesser</text>
+  
+  <text x="70" y="210" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Tidshorisont:</text>
+  <text x="70" y="230" font-family="Arial, sans-serif" font-size="12" fill="white">• Variabel (3 mnd - 5 år)</text>
+  <text x="70" y="245" font-family="Arial, sans-serif" font-size="12" fill="white">• Rullerende oppdateringer</text>
+  
+  <text x="70" y="275" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Fleksibilitet:</text>
+  <text x="70" y="295" font-family="Arial, sans-serif" font-size="12" fill="white">• Høy - kontinuerlig justering</text>
+  <text x="70" y="310" font-family="Arial, sans-serif" font-size="12" fill="white">• Tilpasses nye forhold</text>
+  <text x="70" y="325" font-family="Arial, sans-serif" font-size="12" fill="white">• Scenario-basert</text>
+  
+  <text x="70" y="355" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Grunnlag:</text>
+  <text x="70" y="375" font-family="Arial, sans-serif" font-size="12" fill="white">• Historiske data + trender</text>
+  <text x="70" y="390" font-family="Arial, sans-serif" font-size="12" fill="white">• Markedsforhold</text>
+  <text x="70" y="405" font-family="Arial, sans-serif" font-size="12" fill="white">• Ekstern informasjon</text>
+  
+  <text x="70" y="435" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Nøyaktighet:</text>
+  <text x="70" y="455" font-family="Arial, sans-serif" font-size="12" fill="white">• Variabel usikkerhet</text>
+  
+  <!-- Right column: Budsjett -->
+  <rect x="450" y="70" width="300" height="400" fill="url(#budsjettGrad)" rx="12"/>
+  <text x="600" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">BUDSJETT</text>
+  
+  <!-- Budsjett characteristics -->
+  <text x="470" y="130" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Formål:</text>
+  <text x="470" y="150" font-family="Arial, sans-serif" font-size="12" fill="white">• Sette finansielle mål</text>
+  <text x="470" y="165" font-family="Arial, sans-serif" font-size="12" fill="white">• Kontrollere ressursbruk</text>
+  <text x="470" y="180" font-family="Arial, sans-serif" font-size="12" fill="white">• Planlegge investeringer</text>
+  
+  <text x="470" y="210" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Tidshorisont:</text>
+  <text x="470" y="230" font-family="Arial, sans-serif" font-size="12" fill="white">• Fast (vanligvis 1 år)</text>
+  <text x="470" y="245" font-family="Arial, sans-serif" font-size="12" fill="white">• Årlig revidere</text>
+  
+  <text x="470" y="275" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Fleksibilitet:</text>
+  <text x="470" y="295" font-family="Arial, sans-serif" font-size="12" fill="white">• Lav - stabile målsettinger</text>
+  <text x="470" y="310" font-family="Arial, sans-serif" font-size="12" fill="white">• Endres sjelden i løpet av året</text>
+  <text x="470" y="325" font-family="Arial, sans-serif" font-size="12" fill="white">• Kontrollhensyn</text>
+  
+  <text x="470" y="355" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Grunnlag:</text>
+  <text x="470" y="375" font-family="Arial, sans-serif" font-size="12" fill="white">• Strategiske mål</text>
+  <text x="470" y="390" font-family="Arial, sans-serif" font-size="12" fill="white">• Ressursbegrensninger</text>
+  <text x="470" y="405" font-family="Arial, sans-serif" font-size="12" fill="white">• Ledelsens ambisjoner</text>
+  
+  <text x="470" y="435" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Nøyaktighet:</text>
+  <text x="470" y="455" font-family="Arial, sans-serif" font-size="12" fill="white">• Målsettinger, ikke prediksjoner</text>
+  
+  <!-- Dividing line -->
+  <line x1="400" y1="70" x2="400" y2="470" stroke="#64748b" stroke-width="2" stroke-dasharray="10,5"/>
+  
+  <!-- VS indicator -->
+  <circle cx="400" cy="270" r="25" fill="white" stroke="#64748b" stroke-width="3"/>
+  <text x="400" y="278" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#64748b">VS</text>
+</svg>

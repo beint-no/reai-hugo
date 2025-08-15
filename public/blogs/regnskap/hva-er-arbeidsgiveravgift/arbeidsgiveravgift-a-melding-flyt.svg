@@ -1,0 +1,166 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="stepGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:0.9" />
+      <stop offset="100%" style="stop-color:#004499;stop-opacity:0.9" />
+    </linearGradient>
+    <linearGradient id="systemGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#28a745;stop-opacity:0.9" />
+      <stop offset="100%" style="stop-color:#1e7e34;stop-opacity:0.9" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
+    Arbeidsgiveravgift i A-melding Prosessen
+  </text>
+  
+  <!-- Step 1: Payroll calculation -->
+  <g transform="translate(50, 80)">
+    <rect x="0" y="0" width="150" height="80" fill="url(#stepGradient)" stroke="#333" stroke-width="2" rx="10"/>
+    <text x="75" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      1. Lønnskjøring
+    </text>
+    <text x="75" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+      Beregn lønn og
+    </text>
+    <text x="75" y="60" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+      arbeidsgiveravgift
+    </text>
+  </g>
+  
+  <!-- Arrow 1 -->
+  <g transform="translate(220, 115)">
+    <line x1="0" y1="0" x2="60" y2="0" stroke="#666" stroke-width="3"/>
+    <polygon points="55,-5 65,0 55,5" fill="#666"/>
+  </g>
+  
+  <!-- Step 2: A-melding preparation -->
+  <g transform="translate(300, 80)">
+    <rect x="0" y="0" width="150" height="80" fill="url(#stepGradient)" stroke="#333" stroke-width="2" rx="10"/>
+    <text x="75" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      2. A-melding
+    </text>
+    <text x="75" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+      Forbered data for
+    </text>
+    <text x="75" y="60" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+      rapportering
+    </text>
+  </g>
+  
+  <!-- Arrow 2 -->
+  <g transform="translate(470, 115)">
+    <line x1="0" y1="0" x2="60" y2="0" stroke="#666" stroke-width="3"/>
+    <polygon points="55,-5 65,0 55,5" fill="#666"/>
+  </g>
+  
+  <!-- Step 3: Altinn submission -->
+  <g transform="translate(550, 80)">
+    <rect x="0" y="0" width="150" height="80" fill="url(#stepGradient)" stroke="#333" stroke-width="2" rx="10"/>
+    <text x="75" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      3. Altinn
+    </text>
+    <text x="75" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+      Send A-melding
+    </text>
+    <text x="75" y="60" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+      til Skatteetaten
+    </text>
+  </g>
+  
+  <!-- Data flow down -->
+  <g transform="translate(625, 180)">
+    <line x1="0" y1="0" x2="0" y2="60" stroke="#666" stroke-width="3"/>
+    <polygon points="-5,55 0,65 5,55" fill="#666"/>
+  </g>
+  
+  <!-- Government systems -->
+  <g transform="translate(400, 260)">
+    <rect x="0" y="0" width="300" height="100" fill="url(#systemGradient)" stroke="#333" stroke-width="2" rx="10"/>
+    <text x="150" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+      Offentlige Systemer
+    </text>
+    <text x="150" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+      Skatteetaten • NAV • SSB
+    </text>
+    <text x="150" y="65" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+      Mottar og behandler arbeidsgiveravgift
+    </text>
+    <text x="150" y="85" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+      og andre lønnsdata automatisk
+    </text>
+  </g>
+  
+  <!-- Payment flow -->
+  <g transform="translate(50, 200)">
+    <rect x="0" y="0" width="300" height="120" fill="white" stroke="#dc3545" stroke-width="2" rx="10"/>
+    <text x="150" y="25" text-anchor="middle" fill="#dc3545" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+      Betalingsprosess
+    </text>
+    
+    <g transform="translate(20, 45)">
+      <circle cx="8" cy="8" r="3" fill="#dc3545"/>
+      <text x="20" y="12" fill="#333" font-family="Arial, sans-serif" font-size="12">
+        <tspan font-weight="bold">Frist A-melding:</tspan> 5. i påfølgende måned
+      </text>
+    </g>
+    
+    <g transform="translate(20, 65)">
+      <circle cx="8" cy="8" r="3" fill="#dc3545"/>
+      <text x="20" y="12" fill="#333" font-family="Arial, sans-serif" font-size="12">
+        <tspan font-weight="bold">Betalingsfrist:</tspan> 15. i påfølgende måned
+      </text>
+    </g>
+    
+    <g transform="translate(20, 85)">
+      <circle cx="8" cy="8" r="3" fill="#dc3545"/>
+      <text x="20" y="12" fill="#333" font-family="Arial, sans-serif" font-size="12">
+        <tspan font-weight="bold">Betaling inkluderer:</tspan> Forskuddstrekk + arbeidsgiveravgift
+      </text>
+    </g>
+  </g>
+  
+  <!-- Data components -->
+  <g transform="translate(50, 380)">
+    <rect x="0" y="0" width="700" height="100" fill="white" stroke="#0066cc" stroke-width="2" rx="10"/>
+    <text x="350" y="25" text-anchor="middle" fill="#0066cc" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+      Arbeidsgiveravgift Data i A-meldingen
+    </text>
+    
+    <g transform="translate(50, 45)">
+      <circle cx="8" cy="8" r="3" fill="#0066cc"/>
+      <text x="20" y="12" fill="#333" font-family="Arial, sans-serif" font-size="12">
+        <tspan font-weight="bold">Grunnlag:</tspan> Bruttolønn og avgiftspliktige ytelser per ansatt
+      </text>
+    </g>
+    
+    <g transform="translate(50, 65)">
+      <circle cx="8" cy="8" r="3" fill="#0066cc"/>
+      <text x="20" y="12" fill="#333" font-family="Arial, sans-serif" font-size="12">
+        <tspan font-weight="bold">Sone:</tspan> Geografisk arbeidssted for korrekt avgiftssats
+      </text>
+    </g>
+    
+    <g transform="translate(400, 45)">
+      <circle cx="8" cy="8" r="3" fill="#0066cc"/>
+      <text x="20" y="12" fill="#333" font-family="Arial, sans-serif" font-size="12">
+        <tspan font-weight="bold">Fritak:</tspan> Aldersbaserte og andre fritak registreres
+      </text>
+    </g>
+    
+    <g transform="translate(400, 65)">
+      <circle cx="8" cy="8" r="3" fill="#0066cc"/>
+      <text x="20" y="12" fill="#333" font-family="Arial, sans-serif" font-size="12">
+        <tspan font-weight="bold">Beløp:</tspan> Beregnet arbeidsgiveravgift per ansatt og totalt
+      </text>
+    </g>
+  </g>
+</svg>

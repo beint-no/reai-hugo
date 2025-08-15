@@ -1,0 +1,146 @@
+<svg width="600" height="400" viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="600" height="400" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="300" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">
+    Faktorer i Aktuarberegninger for Ytelsespensjon
+  </text>
+  
+  <!-- Central circle - Aktuarberegning -->
+  <circle cx="300" cy="200" r="60" fill="#e74c3c" opacity="0.9"/>
+  <text x="300" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    AKTUAR-
+  </text>
+  <text x="300" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    BEREGNING
+  </text>
+  
+  <!-- Demographic factors (left side) -->
+  <rect x="50" y="80" width="150" height="40" fill="#3498db" opacity="0.9" rx="5"/>
+  <text x="125" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    DEMOGRAFISKE FAKTORER
+  </text>
+  <text x="125" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+    Befolkningsstatistikk
+  </text>
+  
+  <!-- Demographic sub-factors -->
+  <rect x="20" y="140" width="80" height="30" fill="#3498db" opacity="0.7" rx="3"/>
+  <text x="60" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="white">
+    Dødelighet
+  </text>
+  <text x="60" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">
+    Forventet levealder
+  </text>
+  
+  <rect x="110" y="140" width="80" height="30" fill="#3498db" opacity="0.7" rx="3"/>
+  <text x="150" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="white">
+    Uføregrad
+  </text>
+  <text x="150" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">
+    Sannsynlighet uførhet
+  </text>
+  
+  <rect x="65" y="180" width="80" height="30" fill="#3498db" opacity="0.7" rx="3"/>
+  <text x="105" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="white">
+    Turnover
+  </text>
+  <text x="105" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">
+    Fratreden før pensjon
+  </text>
+  
+  <!-- Economic factors (right side) -->
+  <rect x="400" y="80" width="150" height="40" fill="#27ae60" opacity="0.9" rx="5"/>
+  <text x="475" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    ØKONOMISKE FAKTORER
+  </text>
+  <text x="475" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+    Finansielle forutsetninger
+  </text>
+  
+  <!-- Economic sub-factors -->
+  <rect x="420" y="140" width="80" height="30" fill="#27ae60" opacity="0.7" rx="3"/>
+  <text x="460" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="white">
+    Diskontering
+  </text>
+  <text x="460" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">
+    Obligasjonsrente
+  </text>
+  
+  <rect x="510" y="140" width="80" height="30" fill="#27ae60" opacity="0.7" rx="3"/>
+  <text x="550" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="white">
+    Lønnsvekst
+  </text>
+  <text x="550" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">
+    Årlig økning %
+  </text>
+  
+  <rect x="465" y="180" width="80" height="30" fill="#27ae60" opacity="0.7" rx="3"/>
+  <text x="505" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="white">
+    G-regulering
+  </text>
+  <text x="505" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">
+    Grunnbeløpsjustering
+  </text>
+  
+  <!-- Plan specific factors (top) -->
+  <rect x="225" y="50" width="150" height="40" fill="#9b59b6" opacity="0.9" rx="5"/>
+  <text x="300" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    ORDNINGSSPESIFIKKE
+  </text>
+  <text x="300" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+    Pensjonsreglenes utforming
+  </text>
+  
+  <!-- Company factors (bottom) -->
+  <rect x="225" y="310" width="150" height="40" fill="#f39c12" opacity="0.9" rx="5"/>
+  <text x="300" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    VIRKSOMHETSSPESIFIKKE
+  </text>
+  <text x="300" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+    Ansattsammensetting
+  </text>
+  
+  <!-- Arrows connecting to center -->
+  <path d="M 200 100 L 245 155" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <path d="M 400 100 L 355 155" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <path d="M 300 90 L 300 140" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <path d="M 300 310 L 300 260" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Additional detailed factors around the edges -->
+  <rect x="50" y="250" width="120" height="50" fill="#34495e" opacity="0.1" rx="3"/>
+  <text x="110" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#34495e">
+    Sensitivitetsanalyse:
+  </text>
+  <text x="60" y="280" font-family="Arial, sans-serif" font-size="8" fill="#34495e">
+    • 0,5% endring i rente = ±15% i forpliktelse
+  </text>
+  <text x="60" y="292" font-family="Arial, sans-serif" font-size="8" fill="#34495e">
+    • 1 år økt levealder = +4% i forpliktelse
+  </text>
+  
+  <rect x="430" y="250" width="120" height="50" fill="#34495e" opacity="0.1" rx="3"/>
+  <text x="490" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#34495e">
+    Oppdateringsfrekvens:
+  </text>
+  <text x="440" y="280" font-family="Arial, sans-serif" font-size="8" fill="#34495e">
+    • Årlig ved regnskapsavslutning
+  </text>
+  <text x="440" y="292" font-family="Arial, sans-serif" font-size="8" fill="#34495e">
+    • Oftere ved store endringer
+  </text>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>
+    </marker>
+  </defs>
+  
+  <!-- Bottom note -->
+  <rect x="150" y="370" width="300" height="25" fill="#ecf0f1" rx="3"/>
+  <text x="300" y="387" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2c3e50">
+    Alle faktorer påvirker størrelsen på pensjonsforpliktelsen
+  </text>
+</svg>

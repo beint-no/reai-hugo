@@ -1,0 +1,82 @@
+<svg width="800" height="550" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="qualityGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#7c2d12;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#92400e;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="checkGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#fef3c7;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#fde68a;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="actionGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#ecfdf5;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#a7f3d0;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="550" fill="#ffffff"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="60" fill="url(#qualityGrad)"/>
+  <text x="400" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="bold">Kvalitetskontroll Prosess for Inngående Balanse</text>
+  
+  <!-- Control areas -->
+  <text x="400" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#374151">Fire Hovedområder for Kvalitetskontroll</text>
+  
+  <!-- Area 1: Tallmessig avstemming -->
+  <rect x="50" y="120" width="320" height="180" fill="url(#checkGrad)" stroke="#f59e0b" stroke-width="2" rx="8"/>
+  <text x="210" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#92400e">1. TALLMESSIG AVSTEMMING</text>
+  
+  <text x="70" y="170" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#78350f">Kontrollpunkter:</text>
+  <text x="70" y="190" font-family="Arial, sans-serif" font-size="12" fill="#78350f">• Inngående balanse = Utgående balanse forrige år</text>
+  <text x="70" y="205" font-family="Arial, sans-serif" font-size="12" fill="#78350f">• Sum aktiva = Sum passiva</text>
+  <text x="70" y="220" font-family="Arial, sans-serif" font-size="12" fill="#78350f">• Alle hovedkonti stemmer</text>
+  <text x="70" y="235" font-family="Arial, sans-serif" font-size="12" fill="#78350f">• Underreskontro = Hovedbok</text>
+  
+  <rect x="70" y="250" width="280" height="35" fill="#ffffff" stroke="#f59e0b" stroke-width="1" rx="3"/>
+  <text x="210" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#92400e">Resultat: Numerisk korrekthet sikret</text>
+  
+  <!-- Area 2: Kontoavstemming -->
+  <rect x="430" y="120" width="320" height="180" fill="url(#checkGrad)" stroke="#f59e0b" stroke-width="2" rx="8"/>
+  <text x="590" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#92400e">2. KONTOAVSTEMMING</text>
+  
+  <text x="450" y="170" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#78350f">Kontrollpunkter:</text>
+  <text x="450" y="190" font-family="Arial, sans-serif" font-size="12" fill="#78350f">• Detaljert gjennomgang alle balansekonti</text>
+  <text x="450" y="205" font-family="Arial, sans-serif" font-size="12" fill="#78350f">• Bankavstemming fullført</text>
+  <text x="450" y="220" font-family="Arial, sans-serif" font-size="12" fill="#78350f">• Kundefordringer kontrollert</text>
+  <text x="450" y="235" font-family="Arial, sans-serif" font-size="12" fill="#78350f">• Leverandørgjeld verifisert</text>
+  
+  <rect x="450" y="250" width="280" height="35" fill="#ffffff" stroke="#f59e0b" stroke-width="1" rx="3"/>
+  <text x="590" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#92400e">Resultat: Kontomessig korrekthet sikret</text>
+  
+  <!-- Area 3: Dokumentasjonskontroll -->
+  <rect x="50" y="320" width="320" height="180" fill="url(#checkGrad)" stroke="#f59e0b" stroke-width="2" rx="8"/>
+  <text x="210" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#92400e">3. DOKUMENTASJONSKONTROLL</text>
+  
+  <text x="70" y="370" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#78350f">Kontrollpunkter:</text>
+  <text x="70" y="390" font-family="Arial, sans-serif" font-size="12" fill="#78350f">• Alle bilag korrekt arkivert</text>
+  <text x="70" y="405" font-family="Arial, sans-serif" font-size="12" fill="#78350f">• Sporbarhet til kildetransaksjoner</text>
+  <text x="70" y="420" font-family="Arial, sans-serif" font-size="12" fill="#78350f">• Godkjenninger på plass</text>
+  <text x="70" y="435" font-family="Arial, sans-serif" font-size="12" fill="#78350f">• Digital backup sikret</text>
+  
+  <rect x="70" y="450" width="280" height="35" fill="#ffffff" stroke="#f59e0b" stroke-width="1" rx="3"/>
+  <text x="210" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#92400e">Resultat: Dokumentasjon komplett</text>
+  
+  <!-- Area 4: Periodeavgrensningskontroll -->
+  <rect x="430" y="320" width="320" height="180" fill="url(#checkGrad)" stroke="#f59e0b" stroke-width="2" rx="8"/>
+  <text x="590" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#92400e">4. PERIODEAVGRENSNING</text>
+  
+  <text x="450" y="370" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#78350f">Kontrollpunkter:</text>
+  <text x="450" y="390" font-family="Arial, sans-serif" font-size="12" fill="#78350f">• Korrekte avgrensninger</text>
+  <text x="450" y="405" font-family="Arial, sans-serif" font-size="12" fill="#78350f">• Påløpte poster identifisert</text>
+  <text x="450" y="420" font-family="Arial, sans-serif" font-size="12" fill="#78350f">• Forskuddsbetalinger justert</text>
+  <text x="450" y="435" font-family="Arial, sans-serif" font-size="12" fill="#78350f">• Periodisering korrekt</text>
+  
+  <rect x="450" y="450" width="280" height="35" fill="#ffffff" stroke="#f59e0b" stroke-width="1" rx="3"/>
+  <text x="590" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#92400e">Resultat: Periodisering korrekt</text>
+  
+  <!-- Final result -->
+  <rect x="150" y="520" width="500" height="25" fill="url(#actionGrad)" stroke="#22c55e" stroke-width="2" rx="5"/>
+  <text x="400" y="537" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#166534">✓ INNGÅENDE BALANSE KVALITETSSIKRET OG KLAR FOR BRUK</text>
+</svg>

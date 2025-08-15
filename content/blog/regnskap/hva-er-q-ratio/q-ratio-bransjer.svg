@@ -1,0 +1,131 @@
+<svg width="800" height="700" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .title { font-family: Arial, sans-serif; font-size: 20px; font-weight: bold; fill: #2c3e50; }
+      .header { font-family: Arial, sans-serif; font-size: 16px; font-weight: bold; fill: #34495e; }
+      .subheader { font-family: Arial, sans-serif; font-size: 14px; font-weight: bold; fill: #34495e; }
+      .text { font-family: Arial, sans-serif; font-size: 12px; fill: #34495e; }
+      .q-range { font-family: Arial, sans-serif; font-size: 14px; font-weight: bold; fill: #e74c3c; }
+      .low-q { fill: #d5f4e6; stroke: #27ae60; stroke-width: 2; }
+      .medium-q { fill: #fef9e7; stroke: #f39c12; stroke-width: 2; }
+      .high-q { fill: #fadbd8; stroke: #e74c3c; stroke-width: 2; }
+      .box { fill: #f8f9fa; stroke: #dee2e6; stroke-width: 1; }
+    </style>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="700" fill="#ffffff"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" class="title" text-anchor="middle">Q-ratio Bransjeoversikt og Benchmark</text>
+  <text x="400" y="55" class="text" text-anchor="middle">Typiske Q-ratio verdier across ulike industrisektorer</text>
+  
+  <!-- Low Q Industries -->
+  <rect x="50" y="80" width="220" height="280" class="low-q" rx="10"/>
+  <text x="160" y="105" class="header" text-anchor="middle">Lav Q-ratio</text>
+  <text x="160" y="125" class="q-range" text-anchor="middle">Q = 0.6 - 1.2</text>
+  
+  <!-- Shipping -->
+  <rect x="70" y="140" width="180" height="60" class="box" rx="5"/>
+  <text x="160" y="160" class="subheader" text-anchor="middle">Shipping</text>
+  <text x="80" y="175" class="text">• Høye skipsinvesteringer</text>
+  <text x="80" y="190" class="text">• Sykliske markeder</text>
+  
+  <!-- Oil & Gas -->
+  <rect x="70" y="210" width="180" height="60" class="box" rx="5"/>
+  <text x="160" y="230" class="subheader" text-anchor="middle">Olje &amp; Gass</text>
+  <text x="80" y="245" class="text">• Kapitalintensive operasjoner</text>
+  <text x="80" y="260" class="text">• Volatile råvarepriser</text>
+  
+  <!-- Mining -->
+  <rect x="70" y="280" width="180" height="60" class="box" rx="5"/>
+  <text x="160" y="300" class="subheader" text-anchor="middle">Gruvedrift</text>
+  <text x="80" y="315" class="text">• Store infrastrukturkostnader</text>
+  <text x="80" y="330" class="text">• Lange utviklingsperioder</text>
+  
+  <!-- Medium Q Industries -->
+  <rect x="290" y="80" width="220" height="280" class="medium-q" rx="10"/>
+  <text x="400" y="105" class="header" text-anchor="middle">Medium Q-ratio</text>
+  <text x="400" y="125" class="q-range" text-anchor="middle">Q = 1.0 - 2.0</text>
+  
+  <!-- Manufacturing -->
+  <rect x="310" y="140" width="180" height="60" class="box" rx="5"/>
+  <text x="400" y="160" class="subheader" text-anchor="middle">Produksjon</text>
+  <text x="320" y="175" class="text">• Balansert kapitalstruktur</text>
+  <text x="320" y="190" class="text">• Stabile kontantstrømmer</text>
+  
+  <!-- Retail -->
+  <rect x="310" y="210" width="180" height="60" class="box" rx="5"/>
+  <text x="400" y="230" class="subheader" text-anchor="middle">Detaljhandel</text>
+  <text x="320" y="245" class="text">• Merkevarer og lokasjon</text>
+  <text x="320" y="260" class="text">• Varelager og utstyr</text>
+  
+  <!-- Financial Services -->
+  <rect x="310" y="280" width="180" height="60" class="box" rx="5"/>
+  <text x="400" y="300" class="subheader" text-anchor="middle">Finanstjenester</text>
+  <text x="320" y="315" class="text">• Regulerte miljøer</text>
+  <text x="320" y="330" class="text">• Kundebase verdi</text>
+  
+  <!-- High Q Industries -->
+  <rect x="530" y="80" width="220" height="280" class="high-q" rx="10"/>
+  <text x="640" y="105" class="header" text-anchor="middle">Høy Q-ratio</text>
+  <text x="640" y="125" class="q-range" text-anchor="middle">Q = 1.5 - 3.0+</text>
+  
+  <!-- Technology -->
+  <rect x="550" y="140" width="180" height="60" class="box" rx="5"/>
+  <text x="640" y="160" class="subheader" text-anchor="middle">Teknologi</text>
+  <text x="560" y="175" class="text">• Immaterielle eiendeler</text>
+  <text x="560" y="190" class="text">• Høye vekstforventninger</text>
+  
+  <!-- Biotech -->
+  <rect x="550" y="210" width="180" height="60" class="box" rx="5"/>
+  <text x="640" y="230" class="subheader" text-anchor="middle">Biotech</text>
+  <text x="560" y="245" class="text">• R&amp;D intensive</text>
+  <text x="560" y="260" class="text">• Patentportfolio</text>
+  
+  <!-- Software -->
+  <rect x="550" y="280" width="180" height="60" class="box" rx="5"/>
+  <text x="640" y="300" class="subheader" text-anchor="middle">Software</text>
+  <text x="560" y="315" class="text">• Skalerbare forretningsmodeller</text>
+  <text x="560" y="330" class="text">• Lave marginalkostnader</text>
+  
+  <!-- Factors explaining Q-ratio differences -->
+  <rect x="50" y="380" width="700" height="180" fill="#f8f9fa" stroke="#6c757d" stroke-width="2" rx="10"/>
+  <text x="400" y="405" class="header" text-anchor="middle">Faktorer som Forklarer Q-ratio Forskjeller</text>
+  
+  <!-- Factor boxes -->
+  <rect x="70" y="420" width="200" height="130" fill="#e8f4f8" stroke="#3498db" stroke-width="1" rx="5"/>
+  <text x="170" y="440" class="subheader" text-anchor="middle">Kapitalintensitet</text>
+  <text x="80" y="460" class="text">• Høy kapitalintensitet → Lav Q</text>
+  <text x="80" y="475" class="text">• Store fysiske investeringer</text>
+  <text x="80" y="490" class="text">• Lang payback tid</text>
+  <text x="80" y="505" class="text">• Eksempel: Shipping, olje</text>
+  <circle cx="85" cy="525" r="5" fill="#27ae60"/>
+  <text x="100" y="530" class="text">Lav Q forventet</text>
+  
+  <rect x="290" y="420" width="200" height="130" fill="#fef9e7" stroke="#f39c12" stroke-width="1" rx="5"/>
+  <text x="390" y="440" class="subheader" text-anchor="middle">Vekstpotensial</text>
+  <text x="300" y="460" class="text">• Høyt vekstpotensial → Høy Q</text>
+  <text x="300" y="475" class="text">• Fremtidige kontantstrømmer</text>
+  <text x="300" y="490" class="text">• Markedsoptimisme</text>
+  <text x="300" y="505" class="text">• Eksempel: Tech, biotech</text>
+  <circle cx="305" cy="525" r="5" fill="#e74c3c"/>
+  <text x="320" y="530" class="text">Høy Q forventet</text>
+  
+  <rect x="510" y="420" width="200" height="130" fill="#e8f6f3" stroke="#1abc9c" stroke-width="1" rx="5"/>
+  <text x="610" y="440" class="subheader" text-anchor="middle">Immaterielle Eiendeler</text>
+  <text x="520" y="460" class="text">• Ikke-bokførte verdier → Høy Q</text>
+  <text x="520" y="475" class="text">• Merkevarer, patenter</text>
+  <text x="520" y="490" class="text">• Kundebase, data</text>
+  <text x="520" y="505" class="text">• Eksempel: Software, farma</text>
+  <circle cx="525" cy="525" r="5" fill="#e74c3c"/>
+  <text x="540" y="530" class="text">Høy Q typisk</text>
+  
+  <!-- Investment implications -->
+  <rect x="50" y="580" width="700" height="100" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="8"/>
+  <text x="400" y="605" class="header" text-anchor="middle">Investeringsimplikasjoner per Bransje</text>
+  
+  <text x="100" y="630" class="text">🔍 <tspan class="subheader">Lav Q Bransjer:</tspan> Fokus på operasjonell effektivitet og asset utilization</text>
+  <text x="100" y="650" class="text">⚖️ <tspan class="subheader">Medium Q Bransjer:</tspan> Balansert tilnærming - både vekst og verdi faktorer</text>
+  <text x="100" y="670" class="text">🚀 <tspan class="subheader">Høy Q Bransjer:</tspan> Vekt på innovasjon, markedsposisjon og disruptive potensial</text>
+</svg>

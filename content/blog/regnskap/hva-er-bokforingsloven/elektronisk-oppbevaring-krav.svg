@@ -1,0 +1,182 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1e40af;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="securityGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#dc2626;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#b91c1c;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accessGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#059669;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#047857;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="integrityGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#7c3aed;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#6d28d9;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8fafc"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="60" fill="url(#headerGrad)"/>
+  <text x="400" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
+    Elektronisk Oppbevaring - Sikkerhetskrav
+  </text>
+  
+  <!-- Central Server/Cloud Icon -->
+  <g transform="translate(350, 80)">
+    <rect x="0" y="0" width="100" height="80" rx="10" fill="#e2e8f0" stroke="#475569" stroke-width="2"/>
+    <rect x="10" y="10" width="80" height="8" rx="2" fill="#3b82f6"/>
+    <rect x="10" y="25" width="80" height="8" rx="2" fill="#10b981"/>
+    <rect x="10" y="40" width="80" height="8" rx="2" fill="#f59e0b"/>
+    <rect x="10" y="55" width="80" height="8" rx="2" fill="#8b5cf6"/>
+    <text x="50" y="75" text-anchor="middle" fill="#1e293b" font-family="Arial, sans-serif" font-size="10" font-weight="bold">
+      ELEKTRONISK ARKIV
+    </text>
+  </g>
+  
+  <!-- Security Requirements - Top Left -->
+  <g transform="translate(50, 200)">
+    <rect x="0" y="0" width="180" height="40" rx="5" fill="url(#securityGrad)"/>
+    <text x="90" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+      SIKKERHET
+    </text>
+    
+    <rect x="10" y="50" width="160" height="120" rx="5" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+    <text x="90" y="70" text-anchor="middle" fill="#991b1b" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      Beskyttelse mot:
+    </text>
+    <text x="20" y="90" fill="#991b1b" font-family="Arial, sans-serif" font-size="12">
+      • Tap av data
+    </text>
+    <text x="20" y="105" fill="#991b1b" font-family="Arial, sans-serif" font-size="12">
+      • Uautoriserte endringer
+    </text>
+    <text x="20" y="120" fill="#991b1b" font-family="Arial, sans-serif" font-size="12">
+      • Uautorisert tilgang
+    </text>
+    <text x="20" y="135" fill="#991b1b" font-family="Arial, sans-serif" font-size="12">
+      • Tekniske feil
+    </text>
+    <text x="20" y="150" fill="#991b1b" font-family="Arial, sans-serif" font-size="12">
+      • Naturkatastrofer
+    </text>
+  </g>
+  
+  <!-- Access Requirements - Top Right -->
+  <g transform="translate(570, 200)">
+    <rect x="0" y="0" width="180" height="40" rx="5" fill="url(#accessGrad)"/>
+    <text x="90" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+      TILGJENGELIGHET
+    </text>
+    
+    <rect x="10" y="50" width="160" height="120" rx="5" fill="#ecfdf5" stroke="#059669" stroke-width="2"/>
+    <text x="90" y="70" text-anchor="middle" fill="#065f46" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      Krav til tilgang:
+    </text>
+    <text x="20" y="90" fill="#065f46" font-family="Arial, sans-serif" font-size="12">
+      • Rask tilgang for kontroll
+    </text>
+    <text x="20" y="105" fill="#065f46" font-family="Arial, sans-serif" font-size="12">
+      • 24/7 tilgjengelighet
+    </text>
+    <text x="20" y="120" fill="#065f46" font-family="Arial, sans-serif" font-size="12">
+      • Søkefunksjonalitet
+    </text>
+    <text x="20" y="135" fill="#065f46" font-family="Arial, sans-serif" font-size="12">
+      • Eksportmuligheter
+    </text>
+    <text x="20" y="150" fill="#065f46" font-family="Arial, sans-serif" font-size="12">
+      • Backup-systemer
+    </text>
+  </g>
+  
+  <!-- Readability Requirements - Bottom Left -->
+  <g transform="translate(50, 380)">
+    <rect x="0" y="0" width="180" height="40" rx="5" fill="#1f2937"/>
+    <text x="90" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+      LESBARHET
+    </text>
+    
+    <rect x="10" y="50" width="160" height="120" rx="5" fill="#f9fafb" stroke="#374151" stroke-width="2"/>
+    <text x="90" y="70" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      Tekniske krav:
+    </text>
+    <text x="20" y="90" fill="#1f2937" font-family="Arial, sans-serif" font-size="12">
+      • Lesbar hele perioden
+    </text>
+    <text x="20" y="105" fill="#1f2937" font-family="Arial, sans-serif" font-size="12">
+      • Standardiserte formater
+    </text>
+    <text x="20" y="120" fill="#1f2937" font-family="Arial, sans-serif" font-size="12">
+      • Kompatibilitet
+    </text>
+    <text x="20" y="135" fill="#1f2937" font-family="Arial, sans-serif" font-size="12">
+      • Kvalitetssikring
+    </text>
+    <text x="20" y="150" fill="#1f2937" font-family="Arial, sans-serif" font-size="12">
+      • Migrering ved behov
+    </text>
+  </g>
+  
+  <!-- Integrity Requirements - Bottom Right -->
+  <g transform="translate(570, 380)">
+    <rect x="0" y="0" width="180" height="40" rx="5" fill="url(#integrityGrad)"/>
+    <text x="90" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+      SPORBARHET
+    </text>
+    
+    <rect x="10" y="50" width="160" height="120" rx="5" fill="#f5f3ff" stroke="#7c3aed" stroke-width="2"/>
+    <text x="90" y="70" text-anchor="middle" fill="#581c87" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      Dokumentasjon av:
+    </text>
+    <text x="20" y="90" fill="#581c87" font-family="Arial, sans-serif" font-size="12">
+      • Alle endringer
+    </text>
+    <text x="20" y="105" fill="#581c87" font-family="Arial, sans-serif" font-size="12">
+      • Hvem som gjorde hva
+    </text>
+    <text x="20" y="120" fill="#581c87" font-family="Arial, sans-serif" font-size="12">
+      • Tidspunkt for endringer
+    </text>
+    <text x="20" y="135" fill="#581c87" font-family="Arial, sans-serif" font-size="12">
+      • Årsak til endringer
+    </text>
+    <text x="20" y="150" fill="#581c87" font-family="Arial, sans-serif" font-size="12">
+      • Autorisasjonsspor
+    </text>
+  </g>
+  
+  <!-- Central Requirements Box -->
+  <g transform="translate(280, 280)">
+    <rect x="0" y="0" width="240" height="80" rx="10" fill="#dbeafe" stroke="#2563eb" stroke-width="3"/>
+    <text x="120" y="25" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+      OPPBEVARINGSTID
+    </text>
+    <text x="120" y="45" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="14">
+      Regnskapsbilag: 5 år
+    </text>
+    <text x="120" y="60" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="14">
+      Årsregnskap: 10 år
+    </text>
+  </g>
+  
+  <!-- Connection lines from central archive to requirements -->
+  <path d="M350 160 L140 200" stroke="#64748b" stroke-width="2" stroke-dasharray="3,3"/>
+  <path d="M450 160 L660 200" stroke="#64748b" stroke-width="2" stroke-dasharray="3,3"/>
+  <path d="M350 160 L140 380" stroke="#64748b" stroke-width="2" stroke-dasharray="3,3"/>
+  <path d="M450 160 L660 380" stroke="#64748b" stroke-width="2" stroke-dasharray="3,3"/>
+  
+  <!-- Legal compliance note -->
+  <rect x="200" y="520" width="400" height="60" rx="5" fill="#fef3c7" stroke="#f59e0b" stroke-width="2"/>
+  <text x="400" y="540" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    LOVKRAV - BOKFØRINGSLOVEN § 13
+  </text>
+  <text x="400" y="560" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="12">
+    Elektronisk oppbevaring må oppfylle alle krav til autentisitet og integritet
+  </text>
+</svg>

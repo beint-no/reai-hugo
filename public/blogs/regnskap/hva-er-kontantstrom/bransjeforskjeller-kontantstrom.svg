@@ -1,0 +1,213 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="retailGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#66BB6A;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="manufacturingGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#42A5F5;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="servicesGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FF9800;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FFB74D;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="constructionGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#9C27B0;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#BA68C8;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#333">
+    Bransjeforskjeller i Kontantstrøm
+  </text>
+  
+  <!-- Retail Section -->
+  <rect x="50" y="70" width="340" height="240" fill="url(#retailGradient)" rx="15" opacity="0.1"/>
+  <rect x="60" y="80" width="320" height="30" fill="url(#retailGradient)" rx="5"/>
+  <text x="220" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    DETALJHANDEL
+  </text>
+  
+  <!-- Retail characteristics -->
+  <text x="70" y="130" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2E7D32">
+    Karakteristika:
+  </text>
+  <text x="70" y="150" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Høy omsetningshastighet på varelager
+  </text>
+  <text x="70" y="165" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Sesongvariasjoner i kontantstrøm
+  </text>
+  <text x="70" y="180" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Kontantsalg gir umiddelbar innstrøm
+  </text>
+  <text x="70" y="195" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Relativt lav kapitalbinding
+  </text>
+  
+  <text x="70" y="220" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2E7D32">
+    Utfordringer:
+  </text>
+  <text x="70" y="240" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Lagerstyring og sesongplanlegging
+  </text>
+  <text x="70" y="255" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Håndtering av sesongtopper
+  </text>
+  <text x="70" y="270" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Konkurransepress på marginer
+  </text>
+  
+  <!-- Cash flow pattern for retail -->
+  <rect x="70" y="285" width="300" height="15" fill="#e8f5e8" rx="3"/>
+  <text x="220" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2E7D32">
+    Kontantstrøm: Rask og forutsigbar
+  </text>
+  
+  <!-- Manufacturing Section -->
+  <rect x="410" y="70" width="340" height="240" fill="url(#manufacturingGradient)" rx="15" opacity="0.1"/>
+  <rect x="420" y="80" width="320" height="30" fill="url(#manufacturingGradient)" rx="5"/>
+  <text x="580" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    PRODUKSJON
+  </text>
+  
+  <!-- Manufacturing characteristics -->
+  <text x="430" y="130" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1565C0">
+    Karakteristika:
+  </text>
+  <text x="430" y="150" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Lange produksjonssykluser
+  </text>
+  <text x="430" y="165" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Store investeringer i maskiner/utstyr
+  </text>
+  <text x="430" y="180" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Arbeidskapitalintensiv drift
+  </text>
+  <text x="430" y="195" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Høy kapitalbinding i lager
+  </text>
+  
+  <text x="430" y="220" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1565C0">
+    Utfordringer:
+  </text>
+  <text x="430" y="240" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Balansere produksjon og etterspørsel
+  </text>
+  <text x="430" y="255" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Finansiere lange produksjonssykluser
+  </text>
+  <text x="430" y="270" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Håndtere store investeringer
+  </text>
+  
+  <!-- Cash flow pattern for manufacturing -->
+  <rect x="430" y="285" width="300" height="15" fill="#e3f2fd" rx="3"/>
+  <text x="580" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#1565C0">
+    Kontantstrøm: Syklisk og kapitalintensiv
+  </text>
+  
+  <!-- Services Section -->
+  <rect x="50" y="330" width="340" height="240" fill="url(#servicesGradient)" rx="15" opacity="0.1"/>
+  <rect x="60" y="340" width="320" height="30" fill="url(#servicesGradient)" rx="5"/>
+  <text x="220" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    TJENESTEYTING
+  </text>
+  
+  <!-- Services characteristics -->
+  <text x="70" y="390" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#E65100">
+    Karakteristika:
+  </text>
+  <text x="70" y="410" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Lav kapitalbinding i varelager
+  </text>
+  <text x="70" y="425" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Høy andel faste kostnader (lønn)
+  </text>
+  <text x="70" y="440" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Variabel innstrøm avhengig av prosjekter
+  </text>
+  <text x="70" y="455" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Kunnskapsbasert verdiskaping
+  </text>
+  
+  <text x="70" y="480" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#E65100">
+    Utfordringer:
+  </text>
+  <text x="70" y="500" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Jevne ut kontantstrømvariasjoner
+  </text>
+  <text x="70" y="515" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Håndtere prosjektbaserte inntekter
+  </text>
+  <text x="70" y="530" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Sikre forutsigbar innstrøm
+  </text>
+  
+  <!-- Cash flow pattern for services -->
+  <rect x="70" y="545" width="300" height="15" fill="#fff3e0" rx="3"/>
+  <text x="220" y="555" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#E65100">
+    Kontantstrøm: Variabel og prosjektbasert
+  </text>
+  
+  <!-- Construction Section -->
+  <rect x="410" y="330" width="340" height="240" fill="url(#constructionGradient)" rx="15" opacity="0.1"/>
+  <rect x="420" y="340" width="320" height="30" fill="url(#constructionGradient)" rx="5"/>
+  <text x="580" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    BYGG OG ANLEGG
+  </text>
+  
+  <!-- Construction characteristics -->
+  <text x="430" y="390" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#6A1B9A">
+    Karakteristika:
+  </text>
+  <text x="430" y="410" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Prosjektbasert kontantstrøm
+  </text>
+  <text x="430" y="425" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Lange betalingsbetingelser fra kunder
+  </text>
+  <text x="430" y="440" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Avanse fra kunder (forskuddsbetaling)
+  </text>
+  <text x="430" y="455" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Store materialkostnader
+  </text>
+  
+  <text x="430" y="480" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#6A1B9A">
+    Utfordringer:
+  </text>
+  <text x="430" y="500" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Finansiere prosjekter før betaling
+  </text>
+  <text x="430" y="515" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Håndtere lange betalingsfrister
+  </text>
+  <text x="430" y="530" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Risikostyring i store prosjekter
+  </text>
+  
+  <!-- Cash flow pattern for construction -->
+  <rect x="430" y="545" width="300" height="15" fill="#f3e5f5" rx="3"/>
+  <text x="580" y="555" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6A1B9A">
+    Kontantstrøm: Ujevn og prosjektavhengig
+  </text>
+  
+  <!-- Industry comparison icons -->
+  <circle cx="220" cy="50" r="12" fill="#4CAF50"/>
+  <text x="220" y="57" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">🏪</text>
+  
+  <circle cx="580" cy="50" r="12" fill="#2196F3"/>
+  <text x="580" y="57" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">🏭</text>
+  
+  <circle cx="220" cy="310" r="12" fill="#FF9800"/>
+  <text x="220" y="317" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">💼</text>
+  
+  <circle cx="580" cy="310" r="12" fill="#9C27B0"/>
+  <text x="580" y="317" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">🏗️</text>
+</svg>

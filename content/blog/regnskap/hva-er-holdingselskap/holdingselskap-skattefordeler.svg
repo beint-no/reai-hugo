@@ -1,0 +1,126 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="holdingGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#007bff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0056b3;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="datterGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="taxGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#dc3545;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#c82333;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="benefitGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffc107;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e0a800;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="url(#bgGradient)"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">Skattefordeler ved Holdingselskap</text>
+  
+  <!-- Scenario 1: Without holding company -->
+  <text x="200" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#495057">UTEN Holdingselskap</text>
+  
+  <!-- Direct ownership -->
+  <rect x="120" y="90" width="160" height="50" rx="5" fill="url(#datterGradient)" stroke="#1e7e34" stroke-width="2"/>
+  <text x="200" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">DATTERSELSKAP</text>
+  <text x="200" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Utbytte: 100 000 kr</text>
+  
+  <!-- Tax arrow -->
+  <line x1="200" y1="140" x2="200" y2="170" stroke="#dc3545" stroke-width="3" marker-end="url(#taxArrow)"/>
+  <text x="200" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#dc3545">SKATT</text>
+  
+  <!-- Personal tax -->
+  <rect x="120" y="180" width="160" height="40" rx="5" fill="url(#taxGradient)" stroke="#c82333" stroke-width="2"/>
+  <text x="200" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Personlig utbytteskatt</text>
+  <text x="200" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">31,68% = 31 680 kr</text>
+  
+  <!-- Net result -->
+  <rect x="120" y="240" width="160" height="30" rx="5" fill="#6c757d" stroke="#495057" stroke-width="1"/>
+  <text x="200" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Netto: 68 320 kr</text>
+  
+  <!-- Scenario 2: With holding company -->
+  <text x="600" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#495057">MED Holdingselskap</text>
+  
+  <!-- Daughter company -->
+  <rect x="520" y="90" width="160" height="50" rx="5" fill="url(#datterGradient)" stroke="#1e7e34" stroke-width="2"/>
+  <text x="600" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">DATTERSELSKAP</text>
+  <text x="600" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Utbytte: 100 000 kr</text>
+  
+  <!-- Tax-free arrow -->
+  <line x1="600" y1="140" x2="600" y2="170" stroke="#28a745" stroke-width="3" marker-end="url(#benefitArrow)"/>
+  <text x="600" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#28a745">SKATTEFRITT</text>
+  
+  <!-- Holding company -->
+  <rect x="520" y="180" width="160" height="50" rx="5" fill="url(#holdingGradient)" stroke="#0056b3" stroke-width="2"/>
+  <text x="600" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">HOLDINGSELSKAP</text>
+  <text x="600" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Mottatt: 100 000 kr</text>
+  
+  <!-- Flexible distribution -->
+  <rect x="520" y="250" width="160" height="30" rx="5" fill="url(#benefitGradient)" stroke="#e0a800" stroke-width="2"/>
+  <text x="600" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Fleksibel utdeling</text>
+  
+  <!-- Arrow markers -->
+  <defs>
+    <marker id="taxArrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#dc3545"/>
+    </marker>
+    <marker id="benefitArrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#28a745"/>
+    </marker>
+  </defs>
+  
+  <!-- Fritaksmetoden explanation -->
+  <rect x="50" y="320" width="700" height="120" rx="10" fill="#ffffff" stroke="#dee2e6" stroke-width="2"/>
+  <text x="400" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#495057">Fritaksmetoden - Hovedfordeler</text>
+  
+  <!-- Benefits list -->
+  <text x="80" y="370" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#007bff">1. Skattefritt utbytte:</text>
+  <text x="100" y="385" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">• Utbytte fra datterselskap til holdingselskap er 100% skattefritt</text>
+  <text x="100" y="400" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">• Gjelder ved minimum 10% eierandel og 2 års eiertid</text>
+  
+  <text x="420" y="370" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#007bff">2. Skattefri gevinst:</text>
+  <text x="440" y="385" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">• Salg av aksjer i datterselskap er ofte skattefritt</text>
+  <text x="440" y="400" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">• Samme betingelser som for utbytte</text>
+  
+  <text x="80" y="420" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#007bff">3. Fleksibel timing:</text>
+  <text x="100" y="435" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">• Kan time utbyttebetalinger til eier optimalt</text>
+  
+  <text x="420" y="420" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#007bff">4. Konsernbidrag:</text>
+  <text x="440" y="435" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">• Skattemessig resultatutjevning mellom selskaper</text>
+  
+  <!-- Additional tax strategies -->
+  <rect x="50" y="460" width="700" height="120" rx="10" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1"/>
+  <text x="400" y="485" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#495057">Andre Skattestrategier</text>
+  
+  <!-- Strategy boxes -->
+  <rect x="80" y="500" width="150" height="60" rx="5" fill="#ffffff" stroke="#28a745" stroke-width="1"/>
+  <text x="155" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#28a745">Reinvestering</text>
+  <text x="155" y="535" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">Beholde overskudd</text>
+  <text x="155" y="550" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">i holdingselskap</text>
+  
+  <rect x="250" y="500" width="150" height="60" rx="5" fill="#ffffff" stroke="#ffc107" stroke-width="1"/>
+  <text x="325" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e0a800">Diversifisering</text>
+  <text x="325" y="535" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">Investere i flere</text>
+  <text x="325" y="550" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">virksomheter</text>
+  
+  <rect x="420" y="500" width="150" height="60" rx="5" fill="#ffffff" stroke="#17a2b8" stroke-width="1"/>
+  <text x="495" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#17a2b8">Suksesjon</text>
+  <text x="495" y="535" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">Planlegge</text>
+  <text x="495" y="550" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">generasjonsskifte</text>
+  
+  <rect x="590" y="500" width="150" height="60" rx="5" fill="#ffffff" stroke="#6f42c1" stroke-width="1"/>
+  <text x="665" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#6f42c1">Likviditet</text>
+  <text x="665" y="535" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">Kontrollere</text>
+  <text x="665" y="550" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">kapitalstrøm</text>
+</svg>

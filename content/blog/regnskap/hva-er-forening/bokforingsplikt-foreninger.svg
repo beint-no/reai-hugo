@@ -1,0 +1,116 @@
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="600" height="400" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2" rx="10"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="600" height="60" fill="url(#headerGradient)" rx="10"/>
+  
+  <!-- Title -->
+  <text x="300" y="35" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+    Bokføringsplikt for Foreninger
+  </text>
+  
+  <!-- Decision tree structure -->
+  <!-- Start box -->
+  <g transform="translate(250, 80)">
+    <rect x="0" y="0" width="100" height="40" fill="#e9ecef" stroke="#6c757d" stroke-width="2" rx="5"/>
+    <text x="50" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#333">
+      Forening
+    </text>
+  </g>
+  
+  <!-- Arrow down -->
+  <line x1="300" y1="120" x2="300" y2="140" stroke="#6c757d" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- First decision: Omsetning -->
+  <g transform="translate(50, 150)">
+    <rect x="0" y="0" width="150" height="60" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="5"/>
+    <text x="75" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#333">
+      Omsetning over
+    </text>
+    <text x="75" y="40" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#333">
+      5 mill. kr?
+    </text>
+  </g>
+  
+  <!-- Second decision: Næringsvirksomhet -->
+  <g transform="translate(225, 150)">
+    <rect x="0" y="0" width="150" height="60" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="5"/>
+    <text x="75" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#333">
+      Driver
+    </text>
+    <text x="75" y="40" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#333">
+      næringsvirksomhet?
+    </text>
+  </g>
+  
+  <!-- Third decision: Tilskudd -->
+  <g transform="translate(400, 150)">
+    <rect x="0" y="0" width="150" height="60" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="5"/>
+    <text x="75" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#333">
+      Betydelige offentlige
+    </text>
+    <text x="75" y="40" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#333">
+      tilskudd?
+    </text>
+  </g>
+  
+  <!-- Arrows from start to decisions -->
+  <line x1="300" y1="140" x2="125" y2="150" stroke="#6c757d" stroke-width="2"/>
+  <line x1="300" y1="140" x2="300" y2="150" stroke="#6c757d" stroke-width="2"/>
+  <line x1="300" y1="140" x2="475" y2="150" stroke="#6c757d" stroke-width="2"/>
+  
+  <!-- Yes arrows -->
+  <line x1="125" y1="210" x2="125" y2="250" stroke="#28a745" stroke-width="3"/>
+  <line x1="300" y1="210" x2="300" y2="250" stroke="#28a745" stroke-width="3"/>
+  <line x1="475" y1="210" x2="475" y2="250" stroke="#28a745" stroke-width="3"/>
+  
+  <!-- Yes labels -->
+  <text x="135" y="230" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#28a745">JA</text>
+  <text x="310" y="230" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#28a745">JA</text>
+  <text x="485" y="230" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#28a745">JA</text>
+  
+  <!-- Result: Bokføringsplikt -->
+  <g transform="translate(200, 260)">
+    <rect x="0" y="0" width="200" height="50" fill="#d4edda" stroke="#28a745" stroke-width="2" rx="5"/>
+    <text x="100" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#155724">
+      HAR BOKFØRINGSPLIKT
+    </text>
+    <text x="100" y="40" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#155724">
+      Må følge bokføringsloven
+    </text>
+  </g>
+  
+  <!-- No result -->
+  <g transform="translate(200, 330)">
+    <rect x="0" y="0" width="200" height="50" fill="#f8d7da" stroke="#dc3545" stroke-width="2" rx="5"/>
+    <text x="100" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#721c24">
+      INGEN BOKFØRINGSPLIKT
+    </text>
+    <text x="100" y="40" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#721c24">
+      Men kan ha regnskapsplikt
+    </text>
+  </g>
+  
+  <!-- No arrow -->
+  <line x1="300" y1="310" x2="300" y2="330" stroke="#dc3545" stroke-width="2"/>
+  <text x="310" y="325" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#dc3545">NEI til alle</text>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#6c757d"/>
+    </marker>
+  </defs>
+</svg>

@@ -1,0 +1,147 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+    Anvendelsesområder for Dekningsbidrag
+  </text>
+  
+  <!-- Central circle -->
+  <circle cx="400" cy="300" r="80" fill="#3498db" stroke="white" stroke-width="4"/>
+  <text x="400" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    Dekningsbidrag
+  </text>
+  <text x="400" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+    Analyse
+  </text>
+  
+  <!-- Application 1: Pricing -->
+  <g>
+    <circle cx="200" cy="150" r="60" fill="#27ae60" stroke="white" stroke-width="3"/>
+    <text x="200" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      Prissetting
+    </text>
+    <text x="200" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+      &amp; Rabatter
+    </text>
+    
+    <!-- Details -->
+    <rect x="80" y="80" width="240" height="50" fill="white" stroke="#27ae60" stroke-width="2" rx="5"/>
+    <text x="200" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+      • Minimumspriser basert på variable kostnader
+    </text>
+    <text x="200" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+      • Rabattgrenser og konkurransedyktig prising
+    </text>
+    
+    <!-- Connection line -->
+    <line x1="280" y1="180" x2="340" y2="240" stroke="#27ae60" stroke-width="2"/>
+  </g>
+  
+  <!-- Application 2: Product Portfolio -->
+  <g>
+    <circle cx="600" cy="150" r="60" fill="#e74c3c" stroke="white" stroke-width="3"/>
+    <text x="600" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      Produkt-
+    </text>
+    <text x="600" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      portefølje
+    </text>
+    
+    <!-- Details -->
+    <rect x="480" y="80" width="240" height="50" fill="white" stroke="#e74c3c" stroke-width="2" rx="5"/>
+    <text x="600" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+      • Identifisere mest lønnsomme produkter
+    </text>
+    <text x="600" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+      • Eliminere produkter med negativt DB
+    </text>
+    
+    <!-- Connection line -->
+    <line x1="520" y1="180" x2="460" y2="240" stroke="#e74c3c" stroke-width="2"/>
+  </g>
+  
+  <!-- Application 3: Break-even Analysis -->
+  <g>
+    <circle cx="200" cy="450" r="60" fill="#f39c12" stroke="white" stroke-width="3"/>
+    <text x="200" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      Break-even
+    </text>
+    <text x="200" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      Analyse
+    </text>
+    
+    <!-- Details -->
+    <rect x="80" y="470" width="240" height="50" fill="white" stroke="#f39c12" stroke-width="2" rx="5"/>
+    <text x="200" y="490" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+      • Beregne nødvendig salgsvolum
+    </text>
+    <text x="200" y="505" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+      • Målsetting for omsetning og volum
+    </text>
+    
+    <!-- Connection line -->
+    <line x1="280" y1="420" x2="340" y2="360" stroke="#f39c12" stroke-width="2"/>
+  </g>
+  
+  <!-- Application 4: Capacity Utilization -->
+  <g>
+    <circle cx="600" cy="450" r="60" fill="#9b59b6" stroke="white" stroke-width="3"/>
+    <text x="600" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      Kapasitets-
+    </text>
+    <text x="600" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      utnyttelse
+    </text>
+    
+    <!-- Details -->
+    <rect x="480" y="470" width="240" height="50" fill="white" stroke="#9b59b6" stroke-width="2" rx="5"/>
+    <text x="600" y="490" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+      • Optimalisere produksjonsmiks
+    </text>
+    <text x="600" y="505" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+      • Akseptere ordrer ved ledig kapasitet
+    </text>
+    
+    <!-- Connection line -->
+    <line x1="520" y1="420" x2="460" y2="360" stroke="#9b59b6" stroke-width="2"/>
+  </g>
+  
+  <!-- Application 5: Budgeting -->
+  <g>
+    <circle cx="300" cy="300" r="50" fill="#1abc9c" stroke="white" stroke-width="3"/>
+    <text x="300" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      Budsjettering
+    </text>
+    <text x="300" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      &amp; Prognoser
+    </text>
+    
+    <!-- Connection line -->
+    <line x1="350" y1="300" x2="320" y2="300" stroke="#1abc9c" stroke-width="2"/>
+  </g>
+  
+  <!-- Application 6: Decision Making -->
+  <g>
+    <circle cx="500" cy="300" r="50" fill="#34495e" stroke="white" stroke-width="3"/>
+    <text x="500" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      Beslutnings-
+    </text>
+    <text x="500" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      støtte
+    </text>
+    
+    <!-- Connection line -->
+    <line x1="480" y1="300" x2="450" y2="300" stroke="#34495e" stroke-width="2"/>
+  </g>
+  
+  <!-- Key benefits box -->
+  <rect x="250" y="540" width="300" height="50" fill="white" stroke="#2c3e50" stroke-width="2" rx="5"/>
+  <text x="400" y="560" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+    Nøkkelfordeler ved Dekningsbidragsanalyse
+  </text>
+  <text x="400" y="580" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+    Enkel å forstå • Fokus på lønnsomhet • Støtter kortsiktige beslutninger
+  </text>
+</svg>

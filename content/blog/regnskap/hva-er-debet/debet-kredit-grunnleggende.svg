@@ -1,0 +1,62 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="debitBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#dcfce7;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#bbf7d0;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="creditBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#fef3c7;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#fde68a;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="#f9fafb"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="24" font-weight="bold">Debet og Kredit - Grunnleggende Konsept</text>
+  
+  <!-- Debit section -->
+  <rect x="50" y="80" width="320" height="350" fill="url(#debitBg)" stroke="#16a34a" stroke-width="2" rx="10"/>
+  <text x="210" y="110" text-anchor="middle" fill="#15803d" font-family="Arial, sans-serif" font-size="20" font-weight="bold">DEBET</text>
+  <text x="210" y="135" text-anchor="middle" fill="#15803d" font-family="Arial, sans-serif" font-size="14">(Venstre side)</text>
+  
+  <!-- Debit rules -->
+  <text x="70" y="170" fill="#374151" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Øker med debet:</text>
+  <text x="70" y="195" fill="#374151" font-family="Arial, sans-serif" font-size="14">• Eiendeler (Aktiva)</text>
+  <text x="70" y="215" fill="#374151" font-family="Arial, sans-serif" font-size="14">• Kostnader</text>
+  <text x="70" y="235" fill="#374151" font-family="Arial, sans-serif" font-size="14">• Tap</text>
+  
+  <text x="70" y="270" fill="#374151" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Reduseres med debet:</text>
+  <text x="70" y="295" fill="#374151" font-family="Arial, sans-serif" font-size="14">• Gjeld</text>
+  <text x="70" y="315" fill="#374151" font-family="Arial, sans-serif" font-size="14">• Egenkapital</text>
+  <text x="70" y="335" fill="#374151" font-family="Arial, sans-serif" font-size="14">• Inntekter</text>
+  
+  <!-- Etymology -->
+  <text x="70" y="370" fill="#6b7280" font-family="Arial, sans-serif" font-size="12" font-style="italic">Fra latin: "debere" = å skylde</text>
+  <text x="70" y="390" fill="#6b7280" font-family="Arial, sans-serif" font-size="12" font-style="italic">Normal saldo: Eiendeler og kostnader</text>
+  
+  <!-- Credit section -->
+  <rect x="430" y="80" width="320" height="350" fill="url(#creditBg)" stroke="#d97706" stroke-width="2" rx="10"/>
+  <text x="590" y="110" text-anchor="middle" fill="#c2410c" font-family="Arial, sans-serif" font-size="20" font-weight="bold">KREDIT</text>
+  <text x="590" y="135" text-anchor="middle" fill="#c2410c" font-family="Arial, sans-serif" font-size="14">(Høyre side)</text>
+  
+  <!-- Credit rules -->
+  <text x="450" y="170" fill="#374151" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Øker med kredit:</text>
+  <text x="450" y="195" fill="#374151" font-family="Arial, sans-serif" font-size="14">• Gjeld</text>
+  <text x="450" y="215" fill="#374151" font-family="Arial, sans-serif" font-size="14">• Egenkapital</text>
+  <text x="450" y="235" fill="#374151" font-family="Arial, sans-serif" font-size="14">• Inntekter</text>
+  
+  <text x="450" y="270" fill="#374151" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Reduseres med kredit:</text>
+  <text x="450" y="295" fill="#374151" font-family="Arial, sans-serif" font-size="14">• Eiendeler (Aktiva)</text>
+  <text x="450" y="315" fill="#374151" font-family="Arial, sans-serif" font-size="14">• Kostnader</text>
+  <text x="450" y="335" fill="#374151" font-family="Arial, sans-serif" font-size="14">• Tap</text>
+  
+  <!-- Etymology -->
+  <text x="450" y="370" fill="#6b7280" font-family="Arial, sans-serif" font-size="12" font-style="italic">Fra latin: "credere" = å betro</text>
+  <text x="450" y="390" fill="#6b7280" font-family="Arial, sans-serif" font-size="12" font-style="italic">Normal saldo: Gjeld, egenkapital, inntekter</text>
+  
+  <!-- Balance equation -->
+  <rect x="200" y="450" width="400" height="40" fill="#e5e7eb" stroke="#9ca3af" stroke-width="1" rx="5"/>
+  <text x="400" y="475" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="16" font-weight="bold">TOTAL DEBET = TOTAL KREDIT</text>
+</svg>

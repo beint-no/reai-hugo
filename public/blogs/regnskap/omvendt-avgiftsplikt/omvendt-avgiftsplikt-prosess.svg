@@ -1,0 +1,179 @@
+<svg width="800" height="700" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="stepGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#007bff;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#0056b3;stop-opacity:0.9" />
+    </linearGradient>
+    <linearGradient id="actionGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#28a745;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#1e7e34;stop-opacity:0.9" />
+    </linearGradient>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#495057"/>
+    </marker>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="700" fill="url(#bgGradient)"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
+    Prosess for Omvendt Avgiftsplikt
+  </text>
+  
+  <!-- Step 1: Receive Invoice -->
+  <rect x="50" y="70" width="300" height="80" fill="url(#stepGradient)" stroke="#0056b3" stroke-width="2" rx="10"/>
+  <text x="200" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    1. Motta Faktura
+  </text>
+  <text x="200" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    Fra utenlandsk leverandør
+  </text>
+  <text x="200" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    UTEN norsk MVA
+  </text>
+  
+  <!-- Arrow 1 -->
+  <path d="M 200 150 L 200 180" stroke="#495057" stroke-width="3" marker-end="url(#arrowhead)"/>
+  
+  <!-- Step 2: Identify Reverse Charge -->
+  <rect x="50" y="190" width="300" height="80" fill="url(#stepGradient)" stroke="#0056b3" stroke-width="2" rx="10"/>
+  <text x="200" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    2. Identifiser Omvendt Avgiftsplikt
+  </text>
+  <text x="200" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    Kontroller om tjenesten omfattes
+  </text>
+  <text x="200" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    av omvendt avgiftsplikt
+  </text>
+  
+  <!-- Arrow 2 -->
+  <path d="M 200 270 L 200 300" stroke="#495057" stroke-width="3" marker-end="url(#arrowhead)"/>
+  
+  <!-- Step 3: Calculate MVA -->
+  <rect x="50" y="310" width="300" height="80" fill="url(#actionGradient)" stroke="#1e7e34" stroke-width="2" rx="10"/>
+  <text x="200" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    3. Beregn MVA
+  </text>
+  <text x="200" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    Grunnlag × MVA-sats (25%)
+  </text>
+  <text x="200" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    100 000 kr × 25% = 25 000 kr
+  </text>
+  
+  <!-- Arrow 3 -->
+  <path d="M 350 350 L 450 350" stroke="#495057" stroke-width="3" marker-end="url(#arrowhead)"/>
+  
+  <!-- Step 4: Book Transaction -->
+  <rect x="450" y="70" width="300" height="80" fill="url(#actionGradient)" stroke="#1e7e34" stroke-width="2" rx="10"/>
+  <text x="600" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    4. Bokfør Transaksjonen
+  </text>
+  <text x="600" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    Debet: Kostnad + Inngående MVA
+  </text>
+  <text x="600" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    Kredit: Utgående MVA + Leverandørgjeld
+  </text>
+  
+  <!-- Arrow 4 -->
+  <path d="M 600 150 L 600 180" stroke="#495057" stroke-width="3" marker-end="url(#arrowhead)"/>
+  
+  <!-- Step 5: Report in MVA Return -->
+  <rect x="450" y="190" width="300" height="80" fill="url(#actionGradient)" stroke="#1e7e34" stroke-width="2" rx="10"/>
+  <text x="600" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    5. Rapporter i MVA-melding
+  </text>
+  <text x="600" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    Kode 81: Utgående MVA
+  </text>
+  <text x="600" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    Vanlig kode: Inngående MVA
+  </text>
+  
+  <!-- Arrow 5 -->
+  <path d="M 600 270 L 600 300" stroke="#495057" stroke-width="3" marker-end="url(#arrowhead)"/>
+  
+  <!-- Step 6: Submit and Pay -->
+  <rect x="450" y="310" width="300" height="80" fill="url(#actionGradient)" stroke="#1e7e34" stroke-width="2" rx="10"/>
+  <text x="600" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    6. Send inn og Betal
+  </text>
+  <text x="600" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    Netto MVA-effekt ofte 0 kr
+  </text>
+  <text x="600" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    (hvis full fradragsrett)
+  </text>
+  
+  <!-- Example box -->
+  <rect x="100" y="420" width="600" height="200" fill="white" stroke="#dee2e6" stroke-width="2" rx="10"/>
+  <text x="400" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#495057">
+    Praktisk Eksempel
+  </text>
+  
+  <!-- Example details -->
+  <rect x="120" y="460" width="250" height="140" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="5"/>
+  <text x="245" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#495057">
+    Faktura fra Danmark
+  </text>
+  <text x="130" y="500" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+    IT-konsulenttjenester: 100 000 kr
+  </text>
+  <text x="130" y="515" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+    MVA: 0 kr (ikke pålagt)
+  </text>
+  <text x="130" y="530" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
+    Total faktura: 100 000 kr
+  </text>
+  
+  <text x="130" y="555" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
+    Norsk bedrift må:
+  </text>
+  <text x="130" y="570" font-family="Arial, sans-serif" font-size="11" fill="#6c757d">
+    • Beregne 25% MVA = 25 000 kr
+  </text>
+  <text x="130" y="585" font-family="Arial, sans-serif" font-size="11" fill="#6c757d">
+    • Rapportere i MVA-melding
+  </text>
+  
+  <!-- Booking example -->
+  <rect x="390" y="460" width="290" height="140" fill="#e8f5e8" stroke="#28a745" stroke-width="1" rx="5"/>
+  <text x="535" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2e7d32">
+    Bokføring
+  </text>
+  <text x="400" y="500" font-family="Arial, sans-serif" font-size="11" fill="#2e7d32">
+    Debet: IT-kostnader        100 000 kr
+  </text>
+  <text x="400" y="515" font-family="Arial, sans-serif" font-size="11" fill="#2e7d32">
+    Debet: Inngående MVA        25 000 kr
+  </text>
+  <text x="400" y="535" font-family="Arial, sans-serif" font-size="11" fill="#2e7d32">
+    Kredit: Utgående MVA        25 000 kr
+  </text>
+  <text x="400" y="550" font-family="Arial, sans-serif" font-size="11" fill="#2e7d32">
+    Kredit: Leverandørgjeld    100 000 kr
+  </text>
+  
+  <text x="535" y="575" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2e7d32">
+    MVA-melding
+  </text>
+  <text x="400" y="590" font-family="Arial, sans-serif" font-size="11" fill="#2e7d32">
+    Kode 81: 100 000 kr (grunnlag)
+  </text>
+  
+  <!-- Important notes -->
+  <rect x="150" y="640" width="500" height="50" fill="#fff3cd" stroke="#ffeaa7" stroke-width="1" rx="5"/>
+  <text x="400" y="660" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#856404">
+    Viktig å Huske
+  </text>
+  <text x="160" y="675" font-family="Arial, sans-serif" font-size="11" fill="#856404">
+    • Dokumenter leverandørens utenlandske status • Kontroller fradragsrett • Følg frister for MVA-melding
+  </text>
+</svg>

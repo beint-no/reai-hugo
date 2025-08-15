@@ -1,0 +1,136 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="crowdfundingGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#007bff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0056b3;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="workGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="collectiveGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ffc107;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e0a800;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="distributedGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#dc3545;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#c82333;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="url(#bgGradient)"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
+    Hovedtyper av Crowdsourcing i Regnskap
+  </text>
+  
+  <!-- Crowdfunding Box -->
+  <rect x="50" y="80" width="320" height="180" rx="15" fill="url(#crowdfundingGradient)" stroke="#0056b3" stroke-width="2"/>
+  <text x="210" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+    Crowdfunding
+  </text>
+  <text x="210" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+    Folkefinansiering
+  </text>
+  
+  <!-- Crowdfunding subtypes -->
+  <rect x="70" y="145" width="80" height="40" rx="5" fill="rgba(255,255,255,0.2)" stroke="white" stroke-width="1"/>
+  <text x="110" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Belønnings-</text>
+  <text x="110" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">basert</text>
+  
+  <rect x="160" y="145" width="80" height="40" rx="5" fill="rgba(255,255,255,0.2)" stroke="white" stroke-width="1"/>
+  <text x="200" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Egenkapital-</text>
+  <text x="200" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">basert</text>
+  
+  <rect x="250" y="145" width="80" height="40" rx="5" fill="rgba(255,255,255,0.2)" stroke="white" stroke-width="1"/>
+  <text x="290" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Låne-</text>
+  <text x="290" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">basert</text>
+  
+  <!-- Key features -->
+  <text x="70" y="210" font-family="Arial, sans-serif" font-size="11" fill="white">• Produkter/tjenester som belønning</text>
+  <text x="70" y="225" font-family="Arial, sans-serif" font-size="11" fill="white">• Eierandeler i selskapet</text>
+  <text x="70" y="240" font-family="Arial, sans-serif" font-size="11" fill="white">• Lån med renter (P2P)</text>
+  
+  <!-- Crowdsourced Work Box -->
+  <rect x="430" y="80" width="320" height="180" rx="15" fill="url(#workGradient)" stroke="#1e7e34" stroke-width="2"/>
+  <text x="590" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+    Crowdsourced Regnskapsarbeid
+  </text>
+  <text x="590" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+    Eksterne ressurser
+  </text>
+  
+  <!-- Work subtypes -->
+  <rect x="450" y="145" width="90" height="40" rx="5" fill="rgba(255,255,255,0.2)" stroke="white" stroke-width="1"/>
+  <text x="495" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Freelance</text>
+  <text x="495" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Regnskapsførere</text>
+  
+  <rect x="550" y="145" width="90" height="40" rx="5" fill="rgba(255,255,255,0.2)" stroke="white" stroke-width="1"/>
+  <text x="595" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Spesialist-</text>
+  <text x="595" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">konsulenter</text>
+  
+  <rect x="650" y="145" width="90" height="40" rx="5" fill="rgba(255,255,255,0.2)" stroke="white" stroke-width="1"/>
+  <text x="695" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Prosjekt-</text>
+  <text x="695" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">team</text>
+  
+  <!-- Key features -->
+  <text x="450" y="210" font-family="Arial, sans-serif" font-size="11" fill="white">• Fleksibel bemanning</text>
+  <text x="450" y="225" font-family="Arial, sans-serif" font-size="11" fill="white">• Spesialistkompetanse</text>
+  <text x="450" y="240" font-family="Arial, sans-serif" font-size="11" fill="white">• Kostnadseffektivitet</text>
+  
+  <!-- Collective Financing Box -->
+  <rect x="50" y="290" width="320" height="160" rx="15" fill="url(#collectiveGradient)" stroke="#e0a800" stroke-width="2"/>
+  <text x="210" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+    Kollektiv Finansiering
+  </text>
+  <text x="210" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+    Samling av midler
+  </text>
+  
+  <!-- Collective features -->
+  <text x="70" y="365" font-family="Arial, sans-serif" font-size="11" fill="white">• Mange små investorer</text>
+  <text x="70" y="380" font-family="Arial, sans-serif" font-size="11" fill="white">• Redusert individuell risiko</text>
+  <text x="70" y="395" font-family="Arial, sans-serif" font-size="11" fill="white">• Demokratisk beslutningsprosess</text>
+  <text x="70" y="410" font-family="Arial, sans-serif" font-size="11" fill="white">• Transparente investeringskriterier</text>
+  <text x="70" y="425" font-family="Arial, sans-serif" font-size="11" fill="white">• Felles due diligence</text>
+  
+  <!-- Distributed Capital Box -->
+  <rect x="430" y="290" width="320" height="160" rx="15" fill="url(#distributedGradient)" stroke="#c82333" stroke-width="2"/>
+  <text x="590" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+    Distribuert Arbeidskapital
+  </text>
+  <text x="590" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+    Risikospredning
+  </text>
+  
+  <!-- Distributed features -->
+  <text x="450" y="365" font-family="Arial, sans-serif" font-size="11" fill="white">• Geografisk spredning</text>
+  <text x="450" y="380" font-family="Arial, sans-serif" font-size="11" fill="white">• Sektorspredning</text>
+  <text x="450" y="395" font-family="Arial, sans-serif" font-size="11" fill="white">• Tidsmessig spredning</text>
+  <text x="450" y="410" font-family="Arial, sans-serif" font-size="11" fill="white">• Diversifiserte finansieringskilder</text>
+  <text x="450" y="425" font-family="Arial, sans-serif" font-size="11" fill="white">• Redusert avhengighet</text>
+  
+  <!-- Central connecting arrows -->
+  <path d="M 370 170 L 430 170" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  <path d="M 210 260 L 210 290" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  <path d="M 590 260 L 590 290" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  <path d="M 370 370 L 430 370" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#6c757d"/>
+    </marker>
+  </defs>
+  
+  <!-- Bottom note -->
+  <text x="400" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-style="italic" fill="#6c757d">
+    Alle typer krever grundig regnskapsmessig planlegging og juridisk vurdering
+  </text>
+</svg>

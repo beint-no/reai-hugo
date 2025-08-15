@@ -1,0 +1,85 @@
+<svg width="700" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="700" height="400" fill="url(#bgGradient)" stroke="#cbd5e1" stroke-width="1" rx="10"/>
+  
+  <!-- Title -->
+  <text x="350" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#ea580c">
+    LANGSIKTIG GJELD OVERSIKT
+  </text>
+  
+  <!-- Subtitle -->
+  <text x="350" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#475569">
+    Forpliktelser med forfall over 12 måneder
+  </text>
+  
+  <!-- Main container -->
+  <rect x="50" y="80" width="600" height="280" fill="#f97316" fill-opacity="0.1" stroke="#f97316" stroke-width="2" rx="8"/>
+  <text x="350" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#ea580c">
+    LANGSIKTIG GJELD
+  </text>
+  
+  <!-- Pantelån -->
+  <rect x="80" y="120" width="260" height="90" fill="#fb923c" fill-opacity="0.3" stroke="#f97316" stroke-width="2" rx="6"/>
+  <text x="210" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#ea580c">
+    PANTELÅN
+  </text>
+  <text x="90" y="165" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Lån sikret med pant i eiendeler</text>
+  <text x="90" y="180" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Eiendomslån, maskinlån</text>
+  <text x="90" y="195" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Lavere rente pga sikkerhet</text>
+  
+  <!-- Obligasjonslån -->
+  <rect x="360" y="120" width="260" height="90" fill="#fb923c" fill-opacity="0.3" stroke="#f97316" stroke-width="2" rx="6"/>
+  <text x="490" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#ea580c">
+    OBLIGASJONSLÅN
+  </text>
+  <text x="370" y="165" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Verdipapirgjeld</text>
+  <text x="370" y="180" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Utstedt til investorer</text>
+  <text x="370" y="195" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Fast eller flytende rente</text>
+  
+  <!-- Pensjonsforpliktelser -->
+  <rect x="80" y="230" width="260" height="90" fill="#fb923c" fill-opacity="0.3" stroke="#f97316" stroke-width="2" rx="6"/>
+  <text x="210" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#ea580c">
+    PENSJONSFORPLIKTELSER
+  </text>
+  <text x="90" y="275" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Ytelsesbaserte pensjoner</text>
+  <text x="90" y="290" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Fremtidige utbetalinger</text>
+  <text x="90" y="305" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Aktuarmessig beregnet</text>
+  
+  <!-- Annen langsiktig gjeld -->
+  <rect x="360" y="230" width="260" height="90" fill="#fb923c" fill-opacity="0.3" stroke="#f97316" stroke-width="2" rx="6"/>
+  <text x="490" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#ea580c">
+    ANNEN LANGSIKTIG GJELD
+  </text>
+  <text x="370" y="275" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Konvertible lån</text>
+  <text x="370" y="290" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Ansvarlige lån</text>
+  <text x="370" y="305" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Andre lån over 1 år</text>
+  
+  <!-- Timeline -->
+  <g transform="translate(50, 380)">
+    <line x1="0" y1="0" x2="600" y2="0" stroke="#374151" stroke-width="2"/>
+    <circle cx="100" cy="0" r="4" fill="#dc2626"/>
+    <circle cx="200" cy="0" r="4" fill="#f97316"/>
+    <circle cx="300" cy="0" r="4" fill="#f97316"/>
+    <circle cx="400" cy="0" r="4" fill="#f97316"/>
+    <circle cx="500" cy="0" r="4" fill="#f97316"/>
+    <circle cx="600" cy="0" r="4" fill="#f97316"/>
+    
+    <text x="100" y="-10" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#374151">12 mnd</text>
+    <text x="200" y="-10" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#374151">2 år</text>
+    <text x="300" y="-10" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#374151">3 år</text>
+    <text x="400" y="-10" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#374151">5 år</text>
+    <text x="500" y="-10" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#374151">10 år</text>
+    <text x="600" y="-10" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#374151">20+ år</text>
+    
+    <text x="350" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#ea580c">
+      Forfall spredt over mange år - gir finansiell stabilitet
+    </text>
+  </g>
+</svg>

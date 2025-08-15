@@ -1,0 +1,240 @@
+<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="backgroundGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="url(#backgroundGrad)"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e293b">
+    Typer Strekkoder i Regnskapsarbeid
+  </text>
+  
+  <!-- 1D Barcodes Section -->
+  <text x="50" y="80" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1e293b">
+    1D (Endimensjonale) Strekkoder
+  </text>
+  
+  <!-- EAN-13 -->
+  <g transform="translate(50, 100)">
+    <text x="0" y="15" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#374151">EAN-13</text>
+    <!-- Barcode bars for EAN-13 -->
+    <rect x="0" y="25" width="2" height="40" fill="#1e293b"/>
+    <rect x="4" y="25" width="1" height="40" fill="#1e293b"/>
+    <rect x="7" y="25" width="3" height="40" fill="#1e293b"/>
+    <rect x="12" y="25" width="1" height="40" fill="#1e293b"/>
+    <rect x="15" y="25" width="2" height="40" fill="#1e293b"/>
+    <rect x="19" y="25" width="1" height="40" fill="#1e293b"/>
+    <rect x="22" y="25" width="4" height="40" fill="#1e293b"/>
+    <rect x="28" y="25" width="1" height="40" fill="#1e293b"/>
+    <rect x="31" y="25" width="2" height="40" fill="#1e293b"/>
+    <rect x="35" y="25" width="3" height="40" fill="#1e293b"/>
+    <rect x="40" y="25" width="1" height="40" fill="#1e293b"/>
+    <rect x="43" y="25" width="2" height="40" fill="#1e293b"/>
+    <rect x="47" y="25" width="1" height="40" fill="#1e293b"/>
+    <rect x="50" y="25" width="3" height="40" fill="#1e293b"/>
+    <rect x="55" y="25" width="2" height="40" fill="#1e293b"/>
+    <rect x="59" y="25" width="1" height="40" fill="#1e293b"/>
+    
+    <text x="30" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">
+      Detaljhandel, Global Standard
+    </text>
+  </g>
+  
+  <!-- Code 128 -->
+  <g transform="translate(250, 100)">
+    <text x="0" y="15" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#374151">Code 128</text>
+    <!-- Barcode bars for Code 128 -->
+    <rect x="0" y="25" width="3" height="40" fill="#1e293b"/>
+    <rect x="5" y="25" width="1" height="40" fill="#1e293b"/>
+    <rect x="8" y="25" width="2" height="40" fill="#1e293b"/>
+    <rect x="12" y="25" width="1" height="40" fill="#1e293b"/>
+    <rect x="15" y="25" width="4" height="40" fill="#1e293b"/>
+    <rect x="21" y="25" width="1" height="40" fill="#1e293b"/>
+    <rect x="24" y="25" width="2" height="40" fill="#1e293b"/>
+    <rect x="28" y="25" width="3" height="40" fill="#1e293b"/>
+    <rect x="33" y="25" width="1" height="40" fill="#1e293b"/>
+    <rect x="36" y="25" width="2" height="40" fill="#1e293b"/>
+    <rect x="40" y="25" width="1" height="40" fill="#1e293b"/>
+    <rect x="43" y="25" width="3" height="40" fill="#1e293b"/>
+    <rect x="48" y="25" width="2" height="40" fill="#1e293b"/>
+    <rect x="52" y="25" width="1" height="40" fill="#1e293b"/>
+    <rect x="55" y="25" width="4" height="40" fill="#1e293b"/>
+    
+    <text x="30" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">
+      Logistikk, Høy datadensitet
+    </text>
+  </g>
+  
+  <!-- Code 39 -->
+  <g transform="translate(450, 100)">
+    <text x="0" y="15" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#374151">Code 39</text>
+    <!-- Barcode bars for Code 39 -->
+    <rect x="0" y="25" width="2" height="40" fill="#1e293b"/>
+    <rect x="4" y="25" width="1" height="40" fill="#1e293b"/>
+    <rect x="7" y="25" width="3" height="40" fill="#1e293b"/>
+    <rect x="12" y="25" width="1" height="40" fill="#1e293b"/>
+    <rect x="15" y="25" width="2" height="40" fill="#1e293b"/>
+    <rect x="20" y="25" width="1" height="40" fill="#1e293b"/>
+    <rect x="23" y="25" width="4" height="40" fill="#1e293b"/>
+    <rect x="29" y="25" width="1" height="40" fill="#1e293b"/>
+    <rect x="32" y="25" width="2" height="40" fill="#1e293b"/>
+    <rect x="36" y="25" width="3" height="40" fill="#1e293b"/>
+    <rect x="41" y="25" width="1" height="40" fill="#1e293b"/>
+    <rect x="44" y="25" width="2" height="40" fill="#1e293b"/>
+    
+    <text x="25" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">
+      Industri, Enkel implementering
+    </text>
+  </g>
+  
+  <!-- 2D Barcodes Section -->
+  <text x="50" y="200" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1e293b">
+    2D (Todimensjonale) Strekkoder
+  </text>
+  
+  <!-- QR Code -->
+  <g transform="translate(50, 220)">
+    <text x="0" y="15" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#374151">QR-kode</text>
+    <!-- QR Code representation -->
+    <rect x="0" y="25" width="60" height="60" fill="#ffffff" stroke="#1e293b" stroke-width="1"/>
+    <!-- Position markers -->
+    <rect x="5" y="30" width="15" height="15" fill="#1e293b"/>
+    <rect x="40" y="30" width="15" height="15" fill="#1e293b"/>
+    <rect x="5" y="65" width="15" height="15" fill="#1e293b"/>
+    <rect x="8" y="33" width="9" height="9" fill="#ffffff"/>
+    <rect x="43" y="33" width="9" height="9" fill="#ffffff"/>
+    <rect x="8" y="68" width="9" height="9" fill="#ffffff"/>
+    <rect x="11" y="36" width="3" height="3" fill="#1e293b"/>
+    <rect x="46" y="36" width="3" height="3" fill="#1e293b"/>
+    <rect x="11" y="71" width="3" height="3" fill="#1e293b"/>
+    <!-- Data modules (simplified) -->
+    <rect x="25" y="30" width="2" height="2" fill="#1e293b"/>
+    <rect x="29" y="30" width="2" height="2" fill="#1e293b"/>
+    <rect x="33" y="30" width="2" height="2" fill="#1e293b"/>
+    <rect x="25" y="35" width="2" height="2" fill="#1e293b"/>
+    <rect x="31" y="35" width="2" height="2" fill="#1e293b"/>
+    <rect x="27" y="40" width="2" height="2" fill="#1e293b"/>
+    <rect x="33" y="40" width="2" height="2" fill="#1e293b"/>
+    
+    <text x="30" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">
+      Høy kapasitet, Mobile løsninger
+    </text>
+  </g>
+  
+  <!-- Data Matrix -->
+  <g transform="translate(200, 220)">
+    <text x="0" y="15" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#374151">Data Matrix</text>
+    <!-- Data Matrix representation -->
+    <rect x="0" y="25" width="40" height="40" fill="#ffffff" stroke="#1e293b" stroke-width="1"/>
+    <!-- Pattern -->
+    <rect x="2" y="27" width="2" height="2" fill="#1e293b"/>
+    <rect x="6" y="27" width="2" height="2" fill="#1e293b"/>
+    <rect x="10" y="27" width="2" height="2" fill="#1e293b"/>
+    <rect x="14" y="27" width="2" height="2" fill="#1e293b"/>
+    <rect x="18" y="27" width="2" height="2" fill="#1e293b"/>
+    <rect x="22" y="27" width="2" height="2" fill="#1e293b"/>
+    <rect x="26" y="27" width="2" height="2" fill="#1e293b"/>
+    <rect x="30" y="27" width="2" height="2" fill="#1e293b"/>
+    <rect x="34" y="27" width="2" height="2" fill="#1e293b"/>
+    <rect x="36" y="27" width="2" height="36" fill="#1e293b"/>
+    <rect x="2" y="61" width="34" height="2" fill="#1e293b"/>
+    <!-- Internal pattern -->
+    <rect x="4" y="31" width="2" height="2" fill="#1e293b"/>
+    <rect x="8" y="31" width="2" height="2" fill="#1e293b"/>
+    <rect x="12" y="35" width="2" height="2" fill="#1e293b"/>
+    <rect x="16" y="39" width="2" height="2" fill="#1e293b"/>
+    <rect x="20" y="43" width="2" height="2" fill="#1e293b"/>
+    <rect x="24" y="47" width="2" height="2" fill="#1e293b"/>
+    
+    <text x="20" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">
+      Kompakt, Små overflater
+    </text>
+  </g>
+  
+  <!-- PDF417 -->
+  <g transform="translate(320, 220)">
+    <text x="0" y="15" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#374151">PDF417</text>
+    <!-- PDF417 representation -->
+    <rect x="0" y="25" width="80" height="40" fill="#ffffff" stroke="#1e293b" stroke-width="1"/>
+    <!-- Rows of data -->
+    <rect x="5" y="27" width="2" height="3" fill="#1e293b"/>
+    <rect x="9" y="27" width="4" height="3" fill="#1e293b"/>
+    <rect x="15" y="27" width="2" height="3" fill="#1e293b"/>
+    <rect x="19" y="27" width="6" height="3" fill="#1e293b"/>
+    <rect x="27" y="27" width="2" height="3" fill="#1e293b"/>
+    <rect x="31" y="27" width="4" height="3" fill="#1e293b"/>
+    
+    <rect x="5" y="32" width="4" height="3" fill="#1e293b"/>
+    <rect x="11" y="32" width="2" height="3" fill="#1e293b"/>
+    <rect x="15" y="32" width="6" height="3" fill="#1e293b"/>
+    <rect x="23" y="32" width="2" height="3" fill="#1e293b"/>
+    <rect x="27" y="32" width="4" height="3" fill="#1e293b"/>
+    
+    <rect x="5" y="37" width="2" height="3" fill="#1e293b"/>
+    <rect x="9" y="37" width="6" height="3" fill="#1e293b"/>
+    <rect x="17" y="37" width="2" height="3" fill="#1e293b"/>
+    <rect x="21" y="37" width="4" height="3" fill="#1e293b"/>
+    <rect x="27" y="37" width="2" height="3" fill="#1e293b"/>
+    
+    <rect x="5" y="42" width="6" height="3" fill="#1e293b"/>
+    <rect x="13" y="42" width="2" height="3" fill="#1e293b"/>
+    <rect x="17" y="42" width="4" height="3" fill="#1e293b"/>
+    <rect x="23" y="42" width="2" height="3" fill="#1e293b"/>
+    
+    <text x="40" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">
+      Dokumenter, Høy kapasitet
+    </text>
+  </g>
+  
+  <!-- Comparison table -->
+  <g transform="translate(50, 320)">
+    <text x="0" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">
+      Sammenligning av Egenskaper
+    </text>
+    
+    <!-- Table headers -->
+    <rect x="0" y="30" width="700" height="25" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1"/>
+    <text x="10" y="47" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">Type</text>
+    <text x="120" y="47" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">Datakapasitet</text>
+    <text x="250" y="47" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">Anvendelse</text>
+    <text x="400" y="47" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">Fordeler</text>
+    <text x="580" y="47" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">Ulemper</text>
+    
+    <!-- Row 1: EAN-13 -->
+    <rect x="0" y="55" width="700" height="25" fill="#ffffff" stroke="#cbd5e1" stroke-width="1"/>
+    <text x="10" y="72" font-family="Arial, sans-serif" font-size="11" fill="#374151">EAN-13</text>
+    <text x="120" y="72" font-family="Arial, sans-serif" font-size="11" fill="#374151">13 siffer</text>
+    <text x="250" y="72" font-family="Arial, sans-serif" font-size="11" fill="#374151">Detaljhandel</text>
+    <text x="400" y="72" font-family="Arial, sans-serif" font-size="11" fill="#374151">Global standard</text>
+    <text x="580" y="72" font-family="Arial, sans-serif" font-size="11" fill="#374151">Begrenset data</text>
+    
+    <!-- Row 2: Code 128 -->
+    <rect x="0" y="80" width="700" height="25" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1"/>
+    <text x="10" y="97" font-family="Arial, sans-serif" font-size="11" fill="#374151">Code 128</text>
+    <text x="120" y="97" font-family="Arial, sans-serif" font-size="11" fill="#374151">Alfanumerisk</text>
+    <text x="250" y="97" font-family="Arial, sans-serif" font-size="11" fill="#374151">Logistikk</text>
+    <text x="400" y="97" font-family="Arial, sans-serif" font-size="11" fill="#374151">Høy densitet</text>
+    <text x="580" y="97" font-family="Arial, sans-serif" font-size="11" fill="#374151">Kompleksitet</text>
+    
+    <!-- Row 3: QR-kode -->
+    <rect x="0" y="105" width="700" height="25" fill="#ffffff" stroke="#cbd5e1" stroke-width="1"/>
+    <text x="10" y="122" font-family="Arial, sans-serif" font-size="11" fill="#374151">QR-kode</text>
+    <text x="120" y="122" font-family="Arial, sans-serif" font-size="11" fill="#374151">4000+ tegn</text>
+    <text x="250" y="122" font-family="Arial, sans-serif" font-size="11" fill="#374151">Mobile løsninger</text>
+    <text x="400" y="122" font-family="Arial, sans-serif" font-size="11" fill="#374151">Feilkorreksjon</text>
+    <text x="580" y="122" font-family="Arial, sans-serif" font-size="11" fill="#374151">Krever 2D-skanner</text>
+    
+    <!-- Row 4: Data Matrix -->
+    <rect x="0" y="130" width="700" height="25" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1"/>
+    <text x="10" y="147" font-family="Arial, sans-serif" font-size="11" fill="#374151">Data Matrix</text>
+    <text x="120" y="147" font-family="Arial, sans-serif" font-size="11" fill="#374151">2000+ tegn</text>
+    <text x="250" y="147" font-family="Arial, sans-serif" font-size="11" fill="#374151">Små komponenter</text>
+    <text x="400" y="147" font-family="Arial, sans-serif" font-size="11" fill="#374151">Kompakt størrelse</text>
+    <text x="580" y="147" font-family="Arial, sans-serif" font-size="11" fill="#374151">Spesiell leseteknologi</text>
+  </g>
+</svg>

@@ -1,0 +1,348 @@
+<!doctype html>
+<html lang="nb">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>NIBOR | ReAI</title>
+  <meta name="description" content="Komplett regnskapssystem med faktura, lønn, bilagsføring og årsoppgjør.">
+  
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<script src="https://cdn.tailwindcss.com?plugins=typography"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        fontFamily: { sans: ['Inter','ui-sans-serif','system-ui','Arial','sans-serif'] },
+        colors: {
+          brand: { DEFAULT: '#111827' },
+          accent: { DEFAULT: '#2563eb' }
+        }
+      }
+    }
+  }
+</script>
+<style>
+   
+  header .header-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #000 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link:hover { background-position: 0; }
+  header .header-link:hover::before { width: 100%; }
+
+  footer .footer-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #ffffff 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link:hover { background-position: 0; }
+  footer .footer-link:hover::before { width: 100%; }
+</style>
+<style>
+   
+  .prose { overflow-wrap: anywhere; word-break: break-word; }
+  .prose img { max-width: 100%; height: auto; }
+  .prose table { display: block; width: 100%; overflow-x: auto; }
+  .prose pre { white-space: pre-wrap; word-break: break-word; overflow-x: auto; }
+  .prose code { word-break: break-word; }
+  .prose iframe, .prose video { max-width: 100%; width: 100%; height: auto; }
+</style>
+<style>
+   
+  button,
+  .btn,
+  a.btn,
+  .button,
+  .cta,
+  .link-button,
+   
+  a.inline-flex.rounded-md,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"] {
+    transition: transform 220ms ease, box-shadow 220ms ease, background-color 220ms ease, color 220ms ease, opacity 220ms ease;
+    will-change: transform, box-shadow;
+  }
+
+  button:hover,
+  .btn:hover,
+  a.btn:hover,
+  .button:hover,
+  .cta:hover,
+  .link-button:hover,
+  a.inline-flex.rounded-md:hover,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+
+  button:active,
+  .btn:active,
+  a.btn:active,
+  .button:active,
+  .cta:active,
+  .link-button:active,
+  a.inline-flex.rounded-md:active,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:active {
+    transform: translateY(-1px) scale(0.99);
+    box-shadow: 0 6px 12px rgba(2, 6, 23, 0.1);
+  }
+
+  button:focus-visible,
+  .btn:focus-visible,
+  a.btn:focus-visible,
+  .button:focus-visible,
+  .cta:focus-visible,
+  .link-button:focus-visible,
+  a.inline-flex.rounded-md:focus-visible,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.35), 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+</style>
+
+<link rel="icon" type="image/svg+xml" href="/images/ReAI-logo-square.svg">
+<link rel="shortcut icon" href="/images/ReAI-logo-square.svg">
+
+</head>
+<body class="min-h-dvh bg-white text-gray-900 font-sans">
+  <header class="sticky top-0 z-40 bg-white/80 backdrop-blur">
+  
+  <div class="border-b border-slate-200/70">
+    <div class="max-w-7xl mx-auto px-4">
+      <div class="h-16 flex items-center justify-between">
+        <a href="/" class="flex items-center gap-2" aria-label="ReAI">
+          <img src="/images/ReAI-logo-square.svg?v=4" alt="ReAI logo" class="h-14 w-14 rounded-md mt-5" width="56" height="56" loading="eager" decoding="async">
+        </a>
+        <nav class="hidden md:block">
+          <ul class="flex items-center gap-5 text-sm">
+            <li><a href="/courses/" class="header-link text-slate-700 hover:text-black">Gratis kurs</a></li>
+            <li><a href="/contact/" class="header-link text-slate-700 hover:text-black">Kontakt oss</a></li>
+            <li><a href="/blog/" class="header-link text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+            <li><a href="/bli-partner/" class="header-link text-slate-700 hover:text-black">Bli partner</a></li>
+            <li><a href="/fakturamal/" class="header-link text-slate-700 hover:text-black">Lag faktura</a></li>
+          </ul>
+        </nav>
+        <button id="mobileMenuBtn" aria-controls="mobileMenu" aria-expanded="false" class="md:hidden inline-flex items-center justify-center h-9 w-9 rounded-md border border-slate-300">
+          <span class="sr-only">Menu</span>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-5 w-5"><path d="M3.75 6.75h16.5v1.5H3.75zM3.75 11.25h16.5v1.5H3.75zM3.75 15.75h16.5v1.5H3.75z"/></svg>
+        </button>
+      </div>
+    </div>
+  </div>
+  
+  <nav id="mobileMenu" class="md:hidden hidden border-b border-slate-200/70 bg-white/95 backdrop-blur">
+    <div class="max-w-7xl mx-auto px-4 py-3">
+      <ul class="flex flex-col items-center gap-3 text-sm text-center">
+        <li><a href="/courses/" class="header-link block text-slate-700 hover:text-black">Gratis kurs</a></li>
+        <li><a href="/contact/" class="header-link block text-slate-700 hover:text-black">Kontakt oss</a></li>
+        <li><a href="/blog/" class="header-link block text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+        <li><a href="/bli-partner/" class="header-link block text-slate-700 hover:text-black">Bli partner</a></li>
+        <li><a href="/fakturamal/" class="header-link block text-slate-700 hover:text-black">Lag faktura</a></li>
+      </ul>
+    </div>
+  </nav>
+  <script>
+    (function() {
+      const btn = document.getElementById('mobileMenuBtn');
+      const menu = document.getElementById('mobileMenu');
+      if (!btn || !menu) return;
+      btn.addEventListener('click', function() {
+        const isHidden = menu.classList.contains('hidden');
+        menu.classList.toggle('hidden');
+        btn.setAttribute('aria-expanded', String(isHidden));
+      });
+    })();
+  </script>
+</header>
+  <main>
+    
+<section class="pt-10 md:pt-14">
+  <div class="max-w-3xl mx-auto px-4">
+    <h1 class="text-3xl font-semibold tracking-tight text-center">NIBOR</h1>
+    <p class="mt-2 text-gray-700">En grundig guide til NIBOR, den norske interbank offered rate, inkludert hvordan den beregnes, anvendes og påvirker finansielle instrumenter.</p>
+    <article class="prose max-w-none mt-6"><p><strong>NIBOR</strong> (Norwegian Interbank Offered Rate) er den viktigste <strong>referanserenten</strong> i det norske pengemarkedet. Den angir hva banker er villige til å låne ut til hverandre for usikrede kortsiktige innskudd, og er en sentral faktor for fastsettelse av renter på lån, derivater og andre finansielle instrumenter.</p>
+<p><img src="nibor-image.svg" alt="NIBOR Oversikt"></p>
+<h2 id="hva-er-nibor">Hva er NIBOR?</h2>
+<p>NIBOR publiseres daglig av <strong>Oslo Børs</strong> basert på innrapporterte priser fra et utvalg banker for ulike løpetider. Den dekker normalt følgende terminer:</p>
+<table>
+  <thead>
+      <tr>
+          <th>Løpetid</th>
+          <th>Beskrivelse</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>1 måned</td>
+          <td>Usikrede innskudd i 1 måned</td>
+      </tr>
+      <tr>
+          <td>3 måneder</td>
+          <td>Usikrede innskudd i 3 måneder</td>
+      </tr>
+      <tr>
+          <td>6 måneder</td>
+          <td>Usikrede innskudd i 6 måneder</td>
+      </tr>
+      <tr>
+          <td>12 måneder</td>
+          <td>Usikrede innskudd i 12 måneder</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="hvordan-beregnes-nibor">Hvordan beregnes NIBOR?</h2>
+<p>NIBOR beregnes som et <strong>trimmet gjennomsnitt</strong> av de innrapporterte rentene, der de høyeste og laveste verdiene forkastes før gjennomsnittet tas. Dette sikrer at ekstreme avvik ikke påvirker referanserenten.</p>
+<h2 id="bruksområder">Bruksområder</h2>
+<p>NIBOR har bred anvendelse i både bank- og finansnæringen:</p>
+<ul>
+<li><strong>Lån og finansiering:</strong> Grunnlag for variabel rente på boliglån, bedriftslån og kredittlån</li>
+<li><strong>Derivater:</strong> Brukt som referanserente for renteswapper, renter terminer og andre finansielle derivater (se <a href="/blogs/regnskap/derivater" title="Hva er Derivater? Introduksjon til finansielle derivater i norsk regnskap">Hva er derivater?</a>)</li>
+<li><strong>Kapitalkostnad:</strong> Bidrar til å fastsette kostnad ved finansiering i investeringsanalyser og beregning av <a href="/blogs/regnskap/internrente" title="Hva er Internrente? Nåverdi og internrente i investeringsanalyse">internrente</a></li>
+<li><strong>Markedsindikator:</strong> Måler likviditet og kredittrisiko i det norske pengemarkedet</li>
+</ul>
+<h2 id="sammenligning-med-andre-referanserenter">Sammenligning med andre referanserenter</h2>
+<table>
+  <thead>
+      <tr>
+          <th>Referanserente</th>
+          <th>Område</th>
+          <th>Typisk bruk</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>NIBOR</strong></td>
+          <td>Norsk interbankmarked</td>
+          <td>Lån, swapper, derivater</td>
+      </tr>
+      <tr>
+          <td><strong>STIBOR</strong></td>
+          <td>Svensk interbankmarked</td>
+          <td>Svenske banklån, finansielle instrumenter</td>
+      </tr>
+      <tr>
+          <td><strong>EURIBOR</strong></td>
+          <td>Eurosonen interbankmarked</td>
+          <td>Euro-lån, internasjonale swapper</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="eksempel-på-bruk-i-lån">Eksempel på bruk i lån</h2>
+<p>En bedrift tar opp et lån med variabel rente knyttet til NIBOR 3 måneder + 1 %. Hvis NIBOR er 4,50 %, blir nominell rente 5,50 %.</p>
+<table>
+  <thead>
+      <tr>
+          <th>Parameter</th>
+          <th>Verdi</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>NIBOR (3 måneder)</td>
+          <td>4,50 %</td>
+      </tr>
+      <tr>
+          <td>Margin</td>
+          <td>1,00 %</td>
+      </tr>
+      <tr>
+          <td><strong>Total nominell rente</strong></td>
+          <td><strong>5,50 %</strong></td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="ofte-stilte-spørsmål">Ofte stilte spørsmål</h2>
+<h3 id="hva-skiller-nibor-fra-styringsrenten">Hva skiller NIBOR fra styringsrenten?</h3>
+<p>NIBOR reflekterer prisen banker setter for gjensidig lån i markedet, mens <a href="/blogs/regnskap/hva-er-inflasjon" title="Hva er inflasjon? En guide til pengepolitikk og styringsrente">styringsrenten</a> fastsettes av Norges Bank som et pengepolitisk verktøy.</p>
+<h3 id="hvordan-påvirker-nibor-boliglånsrenten">Hvordan påvirker NIBOR boliglånsrenten?</h3>
+<p>Boliglån med flytende rente er ofte priset som <strong>NIBOR + margin</strong>, slik at endringer i NIBOR slår direkte ut på kundens rente.</p>
+<h2 id="videre-lesning">Videre lesning</h2>
+<ul>
+<li><a href="/blogs/regnskap/hva-er-effektiv-rente" title="Hva er Effektiv Rente? Beregning og betydning">Hva er effektiv rente?</a></li>
+<li><a href="/blogs/regnskap/derivater" title="Hva er Derivater? Introduksjon til finansielle derivater i norsk regnskap">Hva er derivater?</a></li>
+<li><a href="/blogs/regnskap/internrente" title="Hva er Internrente? Nåverdi og internrente i investeringsanalyse">Hva er internrente?</a></li>
+<li><a href="/blogs/regnskap/finansinntekt" title="Finansinntekt – Renter, utbytte og kapitalgevinster i norsk regnskap">Finansinntekt</a></li>
+</ul>
+</article>
+  </div>
+</section>
+
+  </main>
+  <footer class="mt-16 border-t border-slate-800/60 bg-slate-900">
+  <div class="max-w-7xl mx-auto px-4 py-14">
+    <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3 text-center sm:text-left">
+      
+      <div>
+        <h3 class="text-sm font-semibold text-white">Verktøy</h3>
+        <ul class="mt-2 space-y-2 text-sm text-slate-300">
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/finn-iban/">IBAN kalkulator</a></li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/lag-faktura-gratis/">Lag faktura</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Selskaps-informasjon</h3>
+        <ul class="mt-2 space-y-1 text-sm text-slate-300">
+          <li>Reai AS</li>
+          <li>Orgnr: 935606403</li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="mailto:post@reai.no">post@reai.no</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Om ReAI</h3>
+        <p class="mt-2 text-sm text-slate-300">ReAI er et gratis regnskapsprogram laget av tidligere ansatte i Tripletex
+          / Visma. Vi mener det er på tide med mer konkurranse i regnskaps-bransjen som kan komme bedrifter til gode.
+        </p>
+      </div>
+    </div>
+    <div class="mt-12 border-t border-slate-800/60 pt-6 flex flex-col items-center sm:flex-row sm:items-center sm:justify-between text-sm text-slate-400 text-center sm:text-left">
+      <div class="flex items-center gap-2">
+        
+        
+      </div>
+      <div class="mt-4 sm:mt-0 flex items-center justify-center sm:justify-end">
+        <div class="opacity-80">&copy; 2025 ReAI. All rights reserved.</div>
+      </div>
+    </div>
+  </div>
+</footer>
+</body>
+</html>

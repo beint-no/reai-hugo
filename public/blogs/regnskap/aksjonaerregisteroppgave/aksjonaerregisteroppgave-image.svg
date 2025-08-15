@@ -1,0 +1,100 @@
+<svg viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="blueGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e40af;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="greenGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#10b981;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#047857;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="redGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ef4444;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#dc2626;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="400" fill="url(#bgGradient)" />
+  
+  <!-- Main document icon -->
+  <rect x="50" y="80" width="200" height="260" rx="10" fill="white" stroke="#e2e8f0" stroke-width="2" />
+  <rect x="50" y="80" width="200" height="40" rx="10" fill="url(#blueGradient)" />
+  
+  <!-- Document header -->
+  <text x="150" y="105" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Aksjonærregister</text>
+  <text x="150" y="120" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">Oppgave</text>
+  
+  <!-- Document content lines -->
+  <line x1="70" y1="150" x2="230" y2="150" stroke="#cbd5e1" stroke-width="2" />
+  <line x1="70" y1="170" x2="220" y2="170" stroke="#cbd5e1" stroke-width="2" />
+  <line x1="70" y1="190" x2="210" y2="190" stroke="#cbd5e1" stroke-width="2" />
+  <line x1="70" y1="210" x2="225" y2="210" stroke="#cbd5e1" stroke-width="2" />
+  <line x1="70" y1="230" x2="215" y2="230" stroke="#cbd5e1" stroke-width="2" />
+  <line x1="70" y1="250" x2="220" y2="250" stroke="#cbd5e1" stroke-width="2" />
+  <line x1="70" y1="270" x2="210" y2="270" stroke="#cbd5e1" stroke-width="2" />
+  <line x1="70" y1="290" x2="225" y2="290" stroke="#cbd5e1" stroke-width="2" />
+  <line x1="70" y1="310" x2="215" y2="310" stroke="#cbd5e1" stroke-width="2" />
+  
+  <!-- Arrow pointing to building -->
+  <path d="M 280 200 L 340 200" stroke="#6b7280" stroke-width="3" fill="none" marker-end="url(#arrowhead)" />
+  
+  <!-- Arrow marker -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#6b7280" />
+    </marker>
+  </defs>
+  
+  <!-- Skatteetaten building -->
+  <rect x="350" y="140" width="120" height="120" fill="url(#greenGradient)" />
+  <rect x="350" y="120" width="120" height="20" fill="#065f46" />
+  <rect x="365" y="160" width="20" height="20" fill="#a7f3d0" />
+  <rect x="395" y="160" width="20" height="20" fill="#a7f3d0" />
+  <rect x="425" y="160" width="20" height="20" fill="#a7f3d0" />
+  <rect x="365" y="190" width="20" height="20" fill="#a7f3d0" />
+  <rect x="395" y="190" width="20" height="20" fill="#a7f3d0" />
+  <rect x="425" y="190" width="20" height="20" fill="#a7f3d0" />
+  <rect x="365" y="220" width="20" height="20" fill="#a7f3d0" />
+  <rect x="395" y="220" width="20" height="20" fill="#a7f3d0" />
+  <rect x="425" y="220" width="20" height="20" fill="#a7f3d0" />
+  
+  <!-- Building label -->
+  <text x="410" y="280" text-anchor="middle" fill="#065f46" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Skatteetaten</text>
+  
+  <!-- Calendar icon -->
+  <rect x="520" y="140" width="80" height="80" rx="8" fill="white" stroke="#e2e8f0" stroke-width="2" />
+  <rect x="520" y="140" width="80" height="20" fill="url(#redGradient)" />
+  <text x="560" y="155" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Mai</text>
+  <text x="560" y="180" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="24" font-weight="bold">31</text>
+  <text x="560" y="200" text-anchor="middle" fill="#6b7280" font-family="Arial, sans-serif" font-size="10">Frist</text>
+  
+  <!-- Computer/Altinn icon -->
+  <rect x="650" y="160" width="100" height="60" rx="8" fill="#374151" />
+  <rect x="660" y="170" width="80" height="45" rx="4" fill="#60a5fa" />
+  <rect x="670" y="225" width="60" height="8" rx="4" fill="#374151" />
+  <rect x="690" y="240" width="20" height="15" rx="2" fill="#374151" />
+  <text x="700" y="195" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Altinn</text>
+  <text x="700" y="207" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="8">Digital levering</text>
+  
+  <!-- Title -->
+  <text x="400" y="50" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="24" font-weight="bold">Aksjonærregisteroppgave</text>
+  <text x="400" y="70" text-anchor="middle" fill="#6b7280" font-family="Arial, sans-serif" font-size="14">Obligatorisk årlig rapportering for alle norske aksjeselskaper</text>
+  
+  <!-- Additional informational elements -->
+  <circle cx="100" cy="350" r="15" fill="url(#blueGradient)" />
+  <text x="100" y="356" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">AS</text>
+  <text x="140" y="356" text-anchor="start" fill="#4b5563" font-family="Arial, sans-serif" font-size="12">Alle aksjeselskaper</text>
+  
+  <circle cx="300" cy="350" r="15" fill="url(#greenGradient)" />
+  <text x="300" y="356" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">!</text>
+  <text x="340" y="356" text-anchor="start" fill="#4b5563" font-family="Arial, sans-serif" font-size="12">Sanksjoner ved forsinkelse</text>
+  
+  <circle cx="500" cy="350" r="15" fill="url(#redGradient)" />
+  <text x="500" y="356" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">✓</text>
+  <text x="540" y="356" text-anchor="start" fill="#4b5563" font-family="Arial, sans-serif" font-size="12">Elektronisk levering</text>
+</svg>

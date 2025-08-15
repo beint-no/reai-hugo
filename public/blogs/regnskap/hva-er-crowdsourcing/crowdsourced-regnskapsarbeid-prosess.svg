@@ -1,0 +1,160 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="companyGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#007bff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0056b3;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="platformGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6f42c1;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#5a32a3;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="freelancerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="url(#bgGradient)"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
+    Crowdsourced Regnskapsarbeid - Prosess
+  </text>
+  
+  <!-- Step 1: Company -->
+  <rect x="50" y="80" width="150" height="100" rx="10" fill="url(#companyGradient)" stroke="#0056b3" stroke-width="2"/>
+  <text x="125" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    BEDRIFT
+  </text>
+  <text x="125" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    Regnskapsbehov
+  </text>
+  <text x="125" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    Prosjektdefinisjon
+  </text>
+  <text x="125" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    Budsjett
+  </text>
+  
+  <!-- Step 2: Platform -->
+  <rect x="325" y="80" width="150" height="100" rx="10" fill="url(#platformGradient)" stroke="#5a32a3" stroke-width="2"/>
+  <text x="400" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    PLATTFORM
+  </text>
+  <text x="400" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    Matching
+  </text>
+  <text x="400" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    Kvalitetssikring
+  </text>
+  <text x="400" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    Betalingshåndtering
+  </text>
+  
+  <!-- Step 3: Freelancers -->
+  <rect x="600" y="80" width="150" height="100" rx="10" fill="url(#freelancerGradient)" stroke="#1e7e34" stroke-width="2"/>
+  <text x="675" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    FREELANCERE
+  </text>
+  <text x="675" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    Regnskapsførere
+  </text>
+  <text x="675" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    Konsulenter
+  </text>
+  <text x="675" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    Spesialister
+  </text>
+  
+  <!-- Process Flow Arrows -->
+  <path d="M 200 130 L 325 130" stroke="#ffc107" stroke-width="4" fill="none" marker-end="url(#arrowhead)"/>
+  <path d="M 475 130 L 600 130" stroke="#ffc107" stroke-width="4" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Detailed Process Steps -->
+  
+  <!-- Phase 1: Planlegging -->
+  <rect x="50" y="220" width="700" height="80" rx="10" fill="rgba(0,123,255,0.1)" stroke="#007bff" stroke-width="1"/>
+  <text x="70" y="245" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#007bff">
+    Fase 1: Planlegging og Forberedelse
+  </text>
+  
+  <circle cx="100" cy="270" r="15" fill="#007bff"/>
+  <text x="100" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">1</text>
+  <text x="130" y="275" font-family="Arial, sans-serif" font-size="12" fill="#495057">Definere regnskapsbehov og omfang</text>
+  
+  <circle cx="350" cy="270" r="15" fill="#007bff"/>
+  <text x="350" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">2</text>
+  <text x="380" y="275" font-family="Arial, sans-serif" font-size="12" fill="#495057">Sette budsjett og tidsramme</text>
+  
+  <circle cx="580" cy="270" r="15" fill="#007bff"/>
+  <text x="580" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">3</text>
+  <text x="610" y="275" font-family="Arial, sans-serif" font-size="12" fill="#495057">Velge plattform og kriterier</text>
+  
+  <!-- Phase 2: Utvelgelse -->
+  <rect x="50" y="320" width="700" height="80" rx="10" fill="rgba(111,66,193,0.1)" stroke="#6f42c1" stroke-width="1"/>
+  <text x="70" y="345" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#6f42c1">
+    Fase 2: Utvelgelse og Matching
+  </text>
+  
+  <circle cx="100" cy="370" r="15" fill="#6f42c1"/>
+  <text x="100" y="375" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">4</text>
+  <text x="130" y="375" font-family="Arial, sans-serif" font-size="12" fill="#495057">Publisere prosjektutlysning</text>
+  
+  <circle cx="350" cy="370" r="15" fill="#6f42c1"/>
+  <text x="350" y="375" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">5</text>
+  <text x="380" y="375" font-family="Arial, sans-serif" font-size="12" fill="#495057">Evaluere kandidater og referanser</text>
+  
+  <circle cx="580" cy="370" r="15" fill="#6f42c1"/>
+  <text x="580" y="375" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">6</text>
+  <text x="610" y="375" font-family="Arial, sans-serif" font-size="12" fill="#495057">Inngå kontrakt og avtaler</text>
+  
+  <!-- Phase 3: Gjennomføring -->
+  <rect x="50" y="420" width="700" height="80" rx="10" fill="rgba(40,167,69,0.1)" stroke="#28a745" stroke-width="1"/>
+  <text x="70" y="445" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#28a745">
+    Fase 3: Gjennomføring og Oppfølging
+  </text>
+  
+  <circle cx="100" cy="470" r="15" fill="#28a745"/>
+  <text x="100" y="475" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">7</text>
+  <text x="130" y="475" font-family="Arial, sans-serif" font-size="12" fill="#495057">Overføre data og dokumentasjon</text>
+  
+  <circle cx="350" cy="470" r="15" fill="#28a745"/>
+  <text x="350" y="475" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">8</text>
+  <text x="380" y="475" font-family="Arial, sans-serif" font-size="12" fill="#495057">Løpende kommunikasjon og status</text>
+  
+  <circle cx="580" cy="470" r="15" fill="#28a745"/>
+  <text x="580" y="475" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">9</text>
+  <text x="610" y="475" font-family="Arial, sans-serif" font-size="12" fill="#495057">Kvalitetskontroll underveis</text>
+  
+  <!-- Phase 4: Levering -->
+  <rect x="50" y="520" width="700" height="60" rx="10" fill="rgba(220,53,69,0.1)" stroke="#dc3545" stroke-width="1"/>
+  <text x="70" y="545" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#dc3545">
+    Fase 4: Levering og Evaluering
+  </text>
+  
+  <circle cx="150" cy="565" r="15" fill="#dc3545"/>
+  <text x="150" y="570" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">10</text>
+  <text x="180" y="570" font-family="Arial, sans-serif" font-size="12" fill="#495057">Motta og godkjenne leveranse</text>
+  
+  <circle cx="450" cy="565" r="15" fill="#dc3545"/>
+  <text x="450" y="570" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">11</text>
+  <text x="480" y="570" font-family="Arial, sans-serif" font-size="12" fill="#495057">Betaling og evaluering av samarbeid</text>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#ffc107"/>
+    </marker>
+  </defs>
+  
+  <!-- Key Benefits Box -->
+  <rect x="50" y="590" width="200" height="5" fill="none"/>
+  
+  <!-- Key Challenges Box -->
+  <rect x="550" y="590" width="200" height="5" fill="none"/>
+</svg>

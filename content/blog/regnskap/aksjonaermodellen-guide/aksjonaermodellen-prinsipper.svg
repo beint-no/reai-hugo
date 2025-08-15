@@ -1,0 +1,69 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="neutralGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f766e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#14b8a6;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="simplicityGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#7c3aed;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#a855f7;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="avoidDoubleGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#dc2626;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f87171;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="competitiveGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ea580c;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#fb923c;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="#f8fafc"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" fill="#1e293b" font-family="Arial, sans-serif" font-size="28" font-weight="bold">Aksjonærmodellens Prinsipper</text>
+  
+  <!-- Principle 1: Nøytralitet -->
+  <g>
+    <rect x="50" y="80" width="300" height="150" fill="url(#neutralGrad)" rx="10"/>
+    <text x="200" y="110" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="18" font-weight="bold">Nøytralitet</text>
+    <text x="200" y="140" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14">Lik skattemessig behandling</text>
+    <text x="200" y="160" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">• Samme regler for alle</text>
+    <text x="200" y="180" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">• Uavhengig av finansieringsform</text>
+    <text x="200" y="200" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">• Ikke skjevhet i investeringer</text>
+  </g>
+  
+  <!-- Principle 2: Enkelhet -->
+  <g>
+    <rect x="450" y="80" width="300" height="150" fill="url(#simplicityGrad)" rx="10"/>
+    <text x="600" y="110" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="18" font-weight="bold">Enkelhet</text>
+    <text x="600" y="140" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14">Forenklede regler</text>
+    <text x="600" y="160" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">• Enhetlig regelverk</text>
+    <text x="600" y="180" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">• Færre unntak</text>
+    <text x="600" y="200" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">• Lavere compliance-kostnader</text>
+  </g>
+  
+  <!-- Principle 3: Unngå dobbeltbeskatning -->
+  <g>
+    <rect x="50" y="280" width="300" height="150" fill="url(#avoidDoubleGrad)" rx="10"/>
+    <text x="200" y="310" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="18" font-weight="bold">Unngå dobbeltbeskatning</text>
+    <text x="200" y="340" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14">Kun én gang beskatning</text>
+    <text x="200" y="360" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">• Selskapsbeskatning først</text>
+    <text x="200" y="380" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">• Fritaksmetoden for selskaper</text>
+    <text x="200" y="400" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">• Skjermingsfradrag for personer</text>
+  </g>
+  
+  <!-- Principle 4: Internasjonal konkurranseevne -->
+  <g>
+    <rect x="450" y="280" width="300" height="150" fill="url(#competitiveGrad)" rx="10"/>
+    <text x="600" y="310" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="18" font-weight="bold">Konkurranseevne</text>
+    <text x="600" y="340" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14">Internasjonalt sammenlignbare</text>
+    <text x="600" y="360" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">• Tiltrekke kapital</text>
+    <text x="600" y="380" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">• Beholde bedrifter i Norge</text>
+    <text x="600" y="400" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">• Sammenlignbare skattenivåer</text>
+  </g>
+  
+  <!-- Bottom note -->
+  <text x="400" y="470" text-anchor="middle" fill="#64748b" font-family="Arial, sans-serif" font-size="14" font-style="italic">Disse prinsippene bygger fundamentet for aksjonærmodellen</text>
+</svg>

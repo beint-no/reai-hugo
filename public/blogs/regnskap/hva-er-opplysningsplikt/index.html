@@ -1,0 +1,390 @@
+<!doctype html>
+<html lang="nb">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Hva er opplysningsplikt? | ReAI</title>
+  <meta name="description" content="Komplett regnskapssystem med faktura, lønn, bilagsføring og årsoppgjør.">
+  
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<script src="https://cdn.tailwindcss.com?plugins=typography"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        fontFamily: { sans: ['Inter','ui-sans-serif','system-ui','Arial','sans-serif'] },
+        colors: {
+          brand: { DEFAULT: '#111827' },
+          accent: { DEFAULT: '#2563eb' }
+        }
+      }
+    }
+  }
+</script>
+<style>
+   
+  header .header-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #000 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link:hover { background-position: 0; }
+  header .header-link:hover::before { width: 100%; }
+
+  footer .footer-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #ffffff 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link:hover { background-position: 0; }
+  footer .footer-link:hover::before { width: 100%; }
+</style>
+<style>
+   
+  .prose { overflow-wrap: anywhere; word-break: break-word; }
+  .prose img { max-width: 100%; height: auto; }
+  .prose table { display: block; width: 100%; overflow-x: auto; }
+  .prose pre { white-space: pre-wrap; word-break: break-word; overflow-x: auto; }
+  .prose code { word-break: break-word; }
+  .prose iframe, .prose video { max-width: 100%; width: 100%; height: auto; }
+</style>
+<style>
+   
+  button,
+  .btn,
+  a.btn,
+  .button,
+  .cta,
+  .link-button,
+   
+  a.inline-flex.rounded-md,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"] {
+    transition: transform 220ms ease, box-shadow 220ms ease, background-color 220ms ease, color 220ms ease, opacity 220ms ease;
+    will-change: transform, box-shadow;
+  }
+
+  button:hover,
+  .btn:hover,
+  a.btn:hover,
+  .button:hover,
+  .cta:hover,
+  .link-button:hover,
+  a.inline-flex.rounded-md:hover,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+
+  button:active,
+  .btn:active,
+  a.btn:active,
+  .button:active,
+  .cta:active,
+  .link-button:active,
+  a.inline-flex.rounded-md:active,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:active {
+    transform: translateY(-1px) scale(0.99);
+    box-shadow: 0 6px 12px rgba(2, 6, 23, 0.1);
+  }
+
+  button:focus-visible,
+  .btn:focus-visible,
+  a.btn:focus-visible,
+  .button:focus-visible,
+  .cta:focus-visible,
+  .link-button:focus-visible,
+  a.inline-flex.rounded-md:focus-visible,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.35), 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+</style>
+
+<link rel="icon" type="image/svg+xml" href="/images/ReAI-logo-square.svg">
+<link rel="shortcut icon" href="/images/ReAI-logo-square.svg">
+
+</head>
+<body class="min-h-dvh bg-white text-gray-900 font-sans">
+  <header class="sticky top-0 z-40 bg-white/80 backdrop-blur">
+  
+  <div class="border-b border-slate-200/70">
+    <div class="max-w-7xl mx-auto px-4">
+      <div class="h-16 flex items-center justify-between">
+        <a href="/" class="flex items-center gap-2" aria-label="ReAI">
+          <img src="/images/ReAI-logo-square.svg?v=4" alt="ReAI logo" class="h-14 w-14 rounded-md mt-5" width="56" height="56" loading="eager" decoding="async">
+        </a>
+        <nav class="hidden md:block">
+          <ul class="flex items-center gap-5 text-sm">
+            <li><a href="/courses/" class="header-link text-slate-700 hover:text-black">Gratis kurs</a></li>
+            <li><a href="/contact/" class="header-link text-slate-700 hover:text-black">Kontakt oss</a></li>
+            <li><a href="/blog/" class="header-link text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+            <li><a href="/bli-partner/" class="header-link text-slate-700 hover:text-black">Bli partner</a></li>
+            <li><a href="/fakturamal/" class="header-link text-slate-700 hover:text-black">Lag faktura</a></li>
+          </ul>
+        </nav>
+        <button id="mobileMenuBtn" aria-controls="mobileMenu" aria-expanded="false" class="md:hidden inline-flex items-center justify-center h-9 w-9 rounded-md border border-slate-300">
+          <span class="sr-only">Menu</span>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-5 w-5"><path d="M3.75 6.75h16.5v1.5H3.75zM3.75 11.25h16.5v1.5H3.75zM3.75 15.75h16.5v1.5H3.75z"/></svg>
+        </button>
+      </div>
+    </div>
+  </div>
+  
+  <nav id="mobileMenu" class="md:hidden hidden border-b border-slate-200/70 bg-white/95 backdrop-blur">
+    <div class="max-w-7xl mx-auto px-4 py-3">
+      <ul class="flex flex-col items-center gap-3 text-sm text-center">
+        <li><a href="/courses/" class="header-link block text-slate-700 hover:text-black">Gratis kurs</a></li>
+        <li><a href="/contact/" class="header-link block text-slate-700 hover:text-black">Kontakt oss</a></li>
+        <li><a href="/blog/" class="header-link block text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+        <li><a href="/bli-partner/" class="header-link block text-slate-700 hover:text-black">Bli partner</a></li>
+        <li><a href="/fakturamal/" class="header-link block text-slate-700 hover:text-black">Lag faktura</a></li>
+      </ul>
+    </div>
+  </nav>
+  <script>
+    (function() {
+      const btn = document.getElementById('mobileMenuBtn');
+      const menu = document.getElementById('mobileMenu');
+      if (!btn || !menu) return;
+      btn.addEventListener('click', function() {
+        const isHidden = menu.classList.contains('hidden');
+        menu.classList.toggle('hidden');
+        btn.setAttribute('aria-expanded', String(isHidden));
+      });
+    })();
+  </script>
+</header>
+  <main>
+    
+<section class="pt-10 md:pt-14">
+  <div class="max-w-3xl mx-auto px-4">
+    <h1 class="text-3xl font-semibold tracking-tight text-center">Hva er opplysningsplikt?</h1>
+    <p class="mt-2 text-gray-700">Opplysningsplikt er bedrifters lovpålagte ansvar for å rapportere økonomisk informasjon til myndighetene gjennom a-melding, skattemelding og andre ordninger. Les mer her.</p>
+    <article class="prose max-w-none mt-6"><p><strong>Opplysningsplikt</strong> er det lovpålagte ansvaret bedrifter og organisasjoner har for å rapportere økonomisk og administrativ informasjon til offentlige myndigheter. Dette omfatter en rekke rapporteringsordninger som sikrer at staten har nødvendig informasjon for skattlegging, statistikk, kontroll og utbetaling av offentlige ytelser. Den mest kjente formen for opplysningsplikt er <strong><a href="/blogs/regnskap/hva-er-a-melding" title="Hva er a-melding? En komplett guide">a-meldingen</a></strong>, men det finnes mange andre rapporteringskrav som bedrifter må forholde seg til.</p>
+<p>Opplysningsplikten er hjemlet i flere lover og forskrifter, og er en grunnleggende del av det norske skatte- og avgiftssystemet. Den sikrer at myndighetene har tilgang til korrekt og oppdatert informasjon som er nødvendig for å administrere offentlige ordninger effektivt.</p>
+<p><img src="opplysningsplikt-oversikt.svg" alt="Oversikt over opplysningsplikt"></p>
+<h2 id="hovedformål-med-opplysningsplikt">Hovedformål med opplysningsplikt</h2>
+<p>Opplysningsplikten tjener flere viktige formål i det norske samfunnet:</p>
+<ul>
+<li><strong>Skattlegging:</strong> Sikrer at alle betaler riktig skatt basert på faktiske inntekter og økonomiske forhold</li>
+<li><strong>Statistikk:</strong> Gir grunnlag for offisiell statistikk om økonomi, sysselsetting og samfunnsutvikling</li>
+<li><strong>Kontroll:</strong> Muliggjør kontroll av at bedrifter følger gjeldende lover og regler</li>
+<li><strong>Ytelsesutbetaling:</strong> Sikrer korrekt beregning og utbetaling av offentlige ytelser som sykepenger og dagpenger</li>
+<li><strong>Samfunnsplanlegging:</strong> Gir myndighetene data for å planlegge og utvikle offentlige tjenester</li>
+</ul>
+<h2 id="hovedtyper-av-opplysningsplikt">Hovedtyper av opplysningsplikt</h2>
+<h3 id="a-ordningen-og-a-melding">A-ordningen og a-melding</h3>
+<p><strong><a href="/blogs/regnskap/hva-er-a-ordningen" title="Hva er A-ordningen?">A-ordningen</a></strong> er den mest omfattende rapporteringsordningen for arbeidsgivere. Gjennom <strong><a href="/blogs/regnskap/hva-er-a-melding" title="Hva er a-melding? En komplett guide">a-meldingen</a></strong> rapporterer arbeidsgivere månedlig om:</p>
+<ul>
+<li>Arbeidsforhold og ansettelsesdetaljer</li>
+<li><strong><a href="/blogs/regnskap/hva-er-lonn" title="Hva er Lønn? Komplett Guide til Lønnsutbetaling og Regnskapsføring">Lønn</a></strong> og andre inntekter</li>
+<li><strong><a href="/blogs/regnskap/hva-er-forskuddstrekk" title="Hva er Forskuddstrekk? Komplett Guide til Skattetrekk i Lønn">Forskuddstrekk</a></strong> og <strong><a href="/blogs/regnskap/hva-er-arbeidsgiveravgift" title="Hva er Arbeidsgiveravgift? En Komplett Guide til Norges Lønnsavgift">arbeidsgiveravgift</a></strong></li>
+<li>Feriepenger og andre ytelser</li>
+</ul>
+<h3 id="skattemeldingen-og-næringsoppgaven">Skattemeldingen og næringsoppgaven</h3>
+<p>For bedrifter er <strong><a href="/blogs/regnskap/hva-er-naeringsoppgave" title="Hva er Næringsoppgave? Komplett Guide til Selvangivelse for Næringsdrivende">næringsoppgaven</a></strong> en sentral del av opplysningsplikten. Den inneholder detaljert informasjon om:</p>
+<ul>
+<li>Driftsinntekter og -kostnader</li>
+<li><strong><a href="/blogs/regnskap/hva-er-balanse" title="Hva er Balanse? En Enkel Forklaring av Balanseregnskap">Balanse</a></strong> og <strong><a href="/blogs/regnskap/hva-er-egenkapital" title="Hva er Egenkapital? En Komplett Guide til Bedriftens Egenkapital">egenkapital</a></strong></li>
+<li><strong><a href="/blogs/regnskap/hva-er-avskrivning" title="Hva er Avskrivning? Komplett Guide til Avskrivning av Driftsmidler">Avskrivninger</a></strong> og investeringer</li>
+<li>Særskilte fradrag og tillegg</li>
+</ul>
+<h3 id="mva-meldingen">MVA-meldingen</h3>
+<p><strong><a href="/blogs/regnskap/hva-er-mva-melding" title="Hva er MVA-melding? Komplett Guide til Merverdiavgift Rapportering">MVA-meldingen</a></strong> er en annen viktig del av opplysningsplikten for <strong><a href="/blogs/regnskap/hva-er-mva-registeret" title="Hva er MVA-registeret? Guide til Merverdiavgift Registrering">MVA-registrerte</a></strong> virksomheter:</p>
+<ul>
+<li>Utgående MVA på salg</li>
+<li>Inngående MVA på kjøp</li>
+<li>Spesielle MVA-regler og unntak</li>
+<li><strong><a href="/blogs/regnskap/omvendt-avgiftsplikt" title="Omvendt Avgiftsplikt - Komplett Guide til Reverse Charge MVA">Omvendt avgiftsplikt</a></strong></li>
+</ul>
+<p><img src="mva-rapportering-prosess.svg" alt="MVA rapportering prosess"></p>
+<h2 id="rapporteringsfrister-og-sanksjoner">Rapporteringsfrister og sanksjoner</h2>
+<p>Opplysningsplikten er knyttet til strenge frister som varierer avhengig av rapporteringstype:</p>
+<table>
+  <thead>
+      <tr>
+          <th>Rapporteringstype</th>
+          <th>Frist</th>
+          <th>Frekvens</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong><a href="/blogs/regnskap/hva-er-a-melding" title="Hva er a-melding? En komplett guide">A-melding</a></strong></td>
+          <td>5. i måneden etter</td>
+          <td>Månedlig</td>
+      </tr>
+      <tr>
+          <td><strong><a href="/blogs/regnskap/hva-er-mva-melding" title="Hva er MVA-melding? Komplett Guide til Merverdiavgift Rapportering">MVA-melding</a></strong></td>
+          <td><a href="/blogs/regnskap/virkedager" title="Virkedager">Siste virkedag</a> i måneden etter</td>
+          <td>Hver 2. måned</td>
+      </tr>
+      <tr>
+          <td><strong><a href="/blogs/regnskap/hva-er-naeringsoppgave" title="Hva er Næringsoppgave? Komplett Guide til Selvangivelse for Næringsdrivende">Næringsoppgave</a></strong></td>
+          <td>31. mai</td>
+          <td>Årlig</td>
+      </tr>
+      <tr>
+          <td>Årsregnskap</td>
+          <td>31. juli</td>
+          <td>Årlig</td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="konsekvenser-ved-brudd-på-opplysningsplikten">Konsekvenser ved brudd på opplysningsplikten</h3>
+<p>Brudd på opplysningsplikten kan få alvorlige konsekvenser:</p>
+<ul>
+<li><strong>Tvangsmulkt:</strong> Daglige mulkter for forsinket levering</li>
+<li><strong>Tilleggsskatt:</strong> Ved feilaktige eller manglende opplysninger</li>
+<li><strong>Anmeldelse:</strong> I alvorlige tilfeller kan det føre til straffeforfølgelse</li>
+<li><strong>Tap av fradragsrett:</strong> For eksempel ved manglende <strong><a href="/blogs/regnskap/hva-er-bilag" title="Hva er Bilag? Komplett Guide til Regnskapsbilag og Dokumentasjon">bilag</a></strong></li>
+</ul>
+<h2 id="digitalisering-og-automatisering">Digitalisering og automatisering</h2>
+<p>Den norske opplysningsplikten har gjennomgått en omfattende digitalisering de siste årene. <strong><a href="/blogs/regnskap/hva-er-altinn" title="Hva er Altinn? Norges Digitale Portal for Næringsliv og Privatpersoner">Altinn</a></strong> er den sentrale plattformen for digital rapportering, og de fleste moderne <strong><a href="/blogs/regnskap/hva-er-regnskap" title="Hva er Regnskap? En Enkel Forklaring">regnskapssystemer</a></strong> har integrert funksjonalitet for automatisk rapportering.</p>
+<h3 id="fordeler-med-digital-rapportering">Fordeler med digital rapportering</h3>
+<ul>
+<li><strong>Redusert feilrisiko:</strong> Automatisk validering og kontroll</li>
+<li><strong>Tidsbesparelse:</strong> Mindre manuelt arbeid</li>
+<li><strong>Bedre oversikt:</strong> Enklere å holde oversikt over frister og krav</li>
+<li><strong>Raskere behandling:</strong> Myndighetene kan behandle rapportene mer effektivt</li>
+</ul>
+<p><img src="digital-rapportering-flyt.svg" alt="Digital rapportering flyt"></p>
+<h2 id="spesielle-opplysningspliktregler">Spesielle opplysningspliktregler</h2>
+<h3 id="internasjonale-forhold">Internasjonale forhold</h3>
+<p>Bedrifter med internasjonale aktiviteter har utvidede opplysningspliktregler:</p>
+<ul>
+<li><strong>CRS-rapportering:</strong> For finansinstitusjoner</li>
+<li><strong>Country-by-Country rapportering:</strong> For store multinasjonale konsern</li>
+<li><strong>Kontrollert utenlandsk selskap (CFC):</strong> Særskilte regler for utenlandske datterselskap</li>
+</ul>
+<h3 id="særskilte-bransjer">Særskilte bransjer</h3>
+<p>Enkelte bransjer har spesielle opplysningspliktregler:</p>
+<ul>
+<li><strong>Finanssektoren:</strong> Utvidede rapporteringskrav til Finanstilsynet</li>
+<li><strong>Byggebransjen:</strong> Særskilte krav til <strong><a href="/blogs/regnskap/hva-er-internkontroll" title="Hva er Internkontroll? Guide til Internkontrollsystemer i Bedrifter">HMS-rapportering</a></strong></li>
+<li><strong>Landbruk:</strong> Spesielle regler for <strong><a href="/blogs/regnskap/hva-er-jordbruksfradrag" title="Hva er Jordbruksfradrag? Komplett Guide til Skattefradrag i Landbruket">jordbruksfradrag</a></strong></li>
+</ul>
+<h2 id="praktiske-råd-for-å-oppfylle-opplysningsplikten">Praktiske råd for å oppfylle opplysningsplikten</h2>
+<h3 id="etabler-gode-rutiner">Etabler gode rutiner</h3>
+<ul>
+<li><strong>Månedlige kontroller:</strong> Gjennomgå alle rapporteringskrav hver måned</li>
+<li><strong>Dokumentasjon:</strong> Sørg for god <strong><a href="/blogs/regnskap/hva-er-dokumentasjon-regnskap-bokforing" title="Hva er Dokumentasjon (regnskap, bokføring)? Komplett Guide til Regnskapsdokumentasjon">dokumentasjon</a></strong> av alle transaksjoner</li>
+<li><strong>Backup-systemer:</strong> Ha reserveløsninger hvis hovedsystemet svikter</li>
+<li><strong>Kompetanse:</strong> Sørg for at ansvarlige har nødvendig kunnskap</li>
+</ul>
+<h3 id="bruk-av-profesjonelle-tjenester">Bruk av profesjonelle tjenester</h3>
+<p>Mange bedrifter velger å bruke <strong><a href="/blogs/regnskap/hva-er-en-regnskapsforer" title="Hva er en Regnskapsfører? Komplett Guide til Regnskapsføring">regnskapsførere</a></strong> eller revisorer for å sikre korrekt oppfyllelse av opplysningsplikten. Dette kan være særlig viktig for:</p>
+<ul>
+<li>Komplekse virksomheter med mange ansatte</li>
+<li>Bedrifter med internasjonale aktiviteter</li>
+<li>Virksomheter i regulerte bransjer</li>
+</ul>
+<h2 id="fremtidige-utviklinger">Fremtidige utviklinger</h2>
+<p>Opplysningsplikten er i kontinuerlig utvikling, med flere viktige trender:</p>
+<ul>
+<li><strong>Økt automatisering:</strong> Mer direkte integrasjon mellom bedriftssystemer og offentlige registre</li>
+<li><strong>Sanntidsrapportering:</strong> Bevegelse mot kontinuerlig rapportering i stedet for periodiske rapporter</li>
+<li><strong>Utvidet datainnsamling:</strong> Nye krav til rapportering av bærekraftsinformasjon og <strong><a href="/blogs/regnskap/hva-er-esg" title="Hva er ESG? Komplett Guide til Environmental, Social og Governance">ESG-data</a></strong></li>
+<li><strong>Kunstig intelligens:</strong> Bruk av AI for å identifisere avvik og forbedre datakvalitet</li>
+</ul>
+<p><img src="fremtidens-opplysningsplikt.svg" alt="Fremtidens opplysningsplikt"></p>
+<h2 id="konklusjon">Konklusjon</h2>
+<p>Opplysningsplikten er en fundamental del av det norske skatte- og avgiftssystemet som sikrer at myndighetene har nødvendig informasjon for å administrere offentlige ordninger effektivt. For bedrifter er det avgjørende å ha gode systemer og rutiner for å oppfylle disse kravene korrekt og i tide.</p>
+<p>Ved å forstå de ulike typene opplysningsplikt og etablere robuste rapporteringsprosesser, kan bedrifter unngå sanksjoner og bidra til et velfungerende samfunnssystem. Den pågående digitaliseringen gjør det enklere enn noen gang å oppfylle disse kravene, men krever samtidig at bedrifter holder seg oppdatert på nye krav og muligheter.</p>
+<p>Les også: <a href="/blogs/regnskap/hva-er-bokforingsplikt" title="Hva er Bokføringsplikt i Norge?">Hva er Bokføringsplikt i Norge?</a></p>
+<h2 id="relaterte-ord">Relaterte ord</h2>
+<ul>
+<li>A-melding</li>
+<li>A-ordningen</li>
+<li>Altinn</li>
+<li>Arbeidsgiveravgift</li>
+<li><a href="/blogs/regnskap/hva-er-bokforingsplikt" title="Hva er Bokføringsplikt i Norge?">Bokføringsplikt</a></li>
+<li>Forskuddstrekk</li>
+<li>MVA-melding</li>
+<li>Næringsoppgave</li>
+<li>Rapporteringsplikt</li>
+<li>Skattemelding</li>
+</ul>
+</article>
+  </div>
+</section>
+
+  </main>
+  <footer class="mt-16 border-t border-slate-800/60 bg-slate-900">
+  <div class="max-w-7xl mx-auto px-4 py-14">
+    <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3 text-center sm:text-left">
+      
+      <div>
+        <h3 class="text-sm font-semibold text-white">Verktøy</h3>
+        <ul class="mt-2 space-y-2 text-sm text-slate-300">
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/finn-iban/">IBAN kalkulator</a></li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/lag-faktura-gratis/">Lag faktura</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Selskaps-informasjon</h3>
+        <ul class="mt-2 space-y-1 text-sm text-slate-300">
+          <li>Reai AS</li>
+          <li>Orgnr: 935606403</li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="mailto:post@reai.no">post@reai.no</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Om ReAI</h3>
+        <p class="mt-2 text-sm text-slate-300">ReAI er et gratis regnskapsprogram laget av tidligere ansatte i Tripletex
+          / Visma. Vi mener det er på tide med mer konkurranse i regnskaps-bransjen som kan komme bedrifter til gode.
+        </p>
+      </div>
+    </div>
+    <div class="mt-12 border-t border-slate-800/60 pt-6 flex flex-col items-center sm:flex-row sm:items-center sm:justify-between text-sm text-slate-400 text-center sm:text-left">
+      <div class="flex items-center gap-2">
+        
+        
+      </div>
+      <div class="mt-4 sm:mt-0 flex items-center justify-center sm:justify-end">
+        <div class="opacity-80">&copy; 2025 ReAI. All rights reserved.</div>
+      </div>
+    </div>
+  </div>
+</footer>
+</body>
+</html>

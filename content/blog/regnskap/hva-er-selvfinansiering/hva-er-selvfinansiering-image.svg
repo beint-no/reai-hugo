@@ -1,0 +1,171 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="greenGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#10b981;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#059669;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="blueGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="url(#bgGradient)"/>
+  
+  <!-- Title -->
+  <text x="400" y="50" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" fill="#1e293b">
+    Selvfinansiering
+  </text>
+  
+  <!-- Central building/company representation -->
+  <g transform="translate(350, 120)">
+    <!-- Building base -->
+    <rect x="0" y="40" width="100" height="80" fill="url(#blueGradient)" stroke="#1e40af" stroke-width="2"/>
+    <rect x="10" y="50" width="15" height="15" fill="#dbeafe"/>
+    <rect x="30" y="50" width="15" height="15" fill="#dbeafe"/>
+    <rect x="55" y="50" width="15" height="15" fill="#dbeafe"/>
+    <rect x="75" y="50" width="15" height="15" fill="#dbeafe"/>
+    <rect x="10" y="70" width="15" height="15" fill="#dbeafe"/>
+    <rect x="30" y="70" width="15" height="15" fill="#dbeafe"/>
+    <rect x="55" y="70" width="15" height="15" fill="#dbeafe"/>
+    <rect x="75" y="70" width="15" height="15" fill="#dbeafe"/>
+    <rect x="10" y="90" width="15" height="15" fill="#dbeafe"/>
+    <rect x="30" y="90" width="15" height="15" fill="#dbeafe"/>
+    <rect x="55" y="90" width="15" height="15" fill="#dbeafe"/>
+    <rect x="75" y="90" width="15" height="15" fill="#dbeafe"/>
+    
+    <!-- Roof -->
+    <polygon points="50,40 0,40 50,10 100,40" fill="#059669" stroke="#047857" stroke-width="2"/>
+    
+    <!-- Company label -->
+    <text x="50" y="140" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#1e293b">
+      Bedrift
+    </text>
+  </g>
+  
+  <!-- Internal financing sources (left side) -->
+  <g transform="translate(50, 250)">
+    <text x="100" y="0" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#059669">
+      Interne Finansieringskilder
+    </text>
+    
+    <!-- Retained earnings box -->
+    <rect x="20" y="20" width="160" height="40" fill="#dcfce7" stroke="#16a34a" stroke-width="2" rx="5"/>
+    <text x="100" y="35" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#15803d">
+      Tilbakeholdt Overskudd
+    </text>
+    <text x="100" y="50" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#15803d">
+      Årsresultat - Utbytte
+    </text>
+    
+    <!-- Depreciation box -->
+    <rect x="20" y="80" width="160" height="40" fill="#dcfce7" stroke="#16a34a" stroke-width="2" rx="5"/>
+    <text x="100" y="95" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#15803d">
+      Avskrivninger
+    </text>
+    <text x="100" y="110" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#15803d">
+      Kontantfri kostnader
+    </text>
+    
+    <!-- Working capital box -->
+    <rect x="20" y="140" width="160" height="40" fill="#dcfce7" stroke="#16a34a" stroke-width="2" rx="5"/>
+    <text x="100" y="155" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#15803d">
+      Arbeidskapitaloptimalisering
+    </text>
+    <text x="100" y="170" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#15803d">
+      Frigjorte midler
+    </text>
+  </g>
+  
+  <!-- External financing (right side) -->
+  <g transform="translate(550, 250)">
+    <text x="100" y="0" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#dc2626">
+      Eksterne Alternativer
+    </text>
+    
+    <!-- Bank loan box -->
+    <rect x="20" y="20" width="160" height="40" fill="#fef2f2" stroke="#dc2626" stroke-width="2" rx="5"/>
+    <text x="100" y="35" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#dc2626">
+      Banklån
+    </text>
+    <text x="100" y="50" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#dc2626">
+      Renter og avdrag
+    </text>
+    
+    <!-- Equity box -->
+    <rect x="20" y="80" width="160" height="40" fill="#fef2f2" stroke="#dc2626" stroke-width="2" rx="5"/>
+    <text x="100" y="95" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#dc2626">
+      Ny Egenkapital
+    </text>
+    <text x="100" y="110" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#dc2626">
+      Utvanning av eierskap
+    </text>
+    
+    <!-- Other financing box -->
+    <rect x="20" y="140" width="160" height="40" fill="#fef2f2" stroke="#dc2626" stroke-width="2" rx="5"/>
+    <text x="100" y="155" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#dc2626">
+      Annen Finansiering
+    </text>
+    <text x="100" y="170" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#dc2626">
+      Ulike betingelser
+    </text>
+  </g>
+  
+  <!-- Arrows showing flow -->
+  <!-- From internal sources to company -->
+  <defs>
+    <marker id="greenArrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+      <polygon points="0,0 0,6 9,3" fill="#16a34a"/>
+    </marker>
+    <marker id="redArrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+      <polygon points="0,0 0,6 9,3" fill="#dc2626"/>
+    </marker>
+  </defs>
+  
+  <path d="M 230 350 Q 290 320 350 280" stroke="#16a34a" stroke-width="3" fill="none" marker-end="url(#greenArrow)"/>
+  <path d="M 570 350 Q 510 320 450 280" stroke="#dc2626" stroke-width="3" fill="none" marker-end="url(#redArrow)"/>
+  
+  <!-- Benefits of self-financing -->
+  <g transform="translate(200, 480)">
+    <text x="200" y="0" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#1e293b">
+      Fordeler ved Selvfinansiering
+    </text>
+    
+    <g transform="translate(0, 25)">
+      <circle cx="15" cy="15" r="8" fill="#10b981"/>
+      <text x="12" y="19" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">✓</text>
+      <text x="35" y="19" font-family="Arial, sans-serif" font-size="12" fill="#1e293b">
+        Finansiell uavhengighet
+      </text>
+    </g>
+    
+    <g transform="translate(150, 25)">
+      <circle cx="15" cy="15" r="8" fill="#10b981"/>
+      <text x="12" y="19" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">✓</text>
+      <text x="35" y="19" font-family="Arial, sans-serif" font-size="12" fill="#1e293b">
+        Ingen rentekostnader
+      </text>
+    </g>
+    
+    <g transform="translate(0, 50)">
+      <circle cx="15" cy="15" r="8" fill="#10b981"/>
+      <text x="12" y="19" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">✓</text>
+      <text x="35" y="19" font-family="Arial, sans-serif" font-size="12" fill="#1e293b">
+        Beholder full kontroll
+      </text>
+    </g>
+    
+    <g transform="translate(150, 50)">
+      <circle cx="15" cy="15" r="8" fill="#10b981"/>
+      <text x="12" y="19" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">✓</text>
+      <text x="35" y="19" font-family="Arial, sans-serif" font-size="12" fill="#1e293b">
+        Økt finansiell stabilitet
+      </text>
+    </g>
+  </g>
+</svg>

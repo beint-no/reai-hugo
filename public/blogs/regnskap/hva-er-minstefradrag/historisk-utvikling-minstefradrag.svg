@@ -1,0 +1,160 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#8e44ad;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#9b59b6;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="timelineGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#3498db;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2980b9;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="url(#bgGradient)"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="70" fill="url(#headerGradient)"/>
+  <text x="400" y="40" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="22" font-weight="bold">
+    Historisk Utvikling av Minstefradrag (1975-2024)
+  </text>
+  
+  <!-- Timeline Base -->
+  <rect x="100" y="120" width="600" height="8" fill="url(#timelineGradient)" rx="4"/>
+  
+  <!-- Timeline Years -->
+  <text x="400" y="110" text-anchor="middle" fill="#2c3e50" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+    Viktige Milepæler
+  </text>
+  
+  <!-- 1975 - Innføring -->
+  <circle cx="150" cy="124" r="8" fill="#e74c3c"/>
+  <rect x="80" y="150" width="140" height="100" fill="#fdf2f2" stroke="#e74c3c" stroke-width="2" rx="8"/>
+  <rect x="80" y="150" width="140" height="30" fill="#e74c3c" rx="8"/>
+  <text x="150" y="170" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">1975</text>
+  
+  <text x="90" y="190" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Innføring av</text>
+  <text x="90" y="205" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold">minstefradrag</text>
+  <text x="90" y="225" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">Forenkling av</text>
+  <text x="90" y="238" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">skattesystemet</text>
+  
+  <!-- 1992 - Økning til 40% -->
+  <circle cx="300" cy="124" r="8" fill="#f39c12"/>
+  <rect x="230" y="150" width="140" height="100" fill="#fef9e7" stroke="#f39c12" stroke-width="2" rx="8"/>
+  <rect x="230" y="150" width="140" height="30" fill="#f39c12" rx="8"/>
+  <text x="300" y="170" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">1992</text>
+  
+  <text x="240" y="190" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Økning til 40%</text>
+  <text x="240" y="205" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold">for lønn</text>
+  <text x="240" y="225" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">Bedre dekning av</text>
+  <text x="240" y="238" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">reelle kostnader</text>
+  
+  <!-- 2006 - Maksimalbeløp -->
+  <circle cx="450" cy="124" r="8" fill="#9b59b6"/>
+  <rect x="380" y="150" width="140" height="100" fill="#f4f1f8" stroke="#9b59b6" stroke-width="2" rx="8"/>
+  <rect x="380" y="150" width="140" height="30" fill="#9b59b6" rx="8"/>
+  <text x="450" y="170" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">2006</text>
+  
+  <text x="390" y="190" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Innføring av</text>
+  <text x="390" y="205" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold">maksimalbeløp</text>
+  <text x="390" y="225" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">Begrensning for</text>
+  <text x="390" y="238" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">høye inntekter</text>
+  
+  <!-- 2019 - Økning til 46% -->
+  <circle cx="600" cy="124" r="8" fill="#27ae60"/>
+  <rect x="530" y="150" width="140" height="100" fill="#eafaf1" stroke="#27ae60" stroke-width="2" rx="8"/>
+  <rect x="530" y="150" width="140" height="30" fill="#27ae60" rx="8"/>
+  <text x="600" y="170" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">2019</text>
+  
+  <text x="540" y="190" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Økning til 46%</text>
+  <text x="540" y="205" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold">for lønn</text>
+  <text x="540" y="225" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">Kompensasjon for</text>
+  <text x="540" y="238" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">økte transportkost.</text>
+  
+  <!-- 2024 - Current status -->
+  <circle cx="650" cy="124" r="8" fill="#3498db"/>
+  <rect x="580" y="280" width="140" height="80" fill="#ebf3fd" stroke="#3498db" stroke-width="2" rx="8"/>
+  <rect x="580" y="280" width="140" height="30" fill="#3498db" rx="8"/>
+  <text x="650" y="300" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">2024</text>
+  
+  <text x="590" y="320" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Justering av</text>
+  <text x="590" y="335" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold">maksimalbeløp</text>
+  <text x="590" y="350" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">Inflasjonsjustering</text>
+  
+  <!-- Connecting lines -->
+  <line x1="150" y1="132" x2="150" y2="150" stroke="#e74c3c" stroke-width="2"/>
+  <line x1="300" y1="132" x2="300" y2="150" stroke="#f39c12" stroke-width="2"/>
+  <line x1="450" y1="132" x2="450" y2="150" stroke="#9b59b6" stroke-width="2"/>
+  <line x1="600" y1="132" x2="600" y2="150" stroke="#27ae60" stroke-width="2"/>
+  <line x1="650" y1="132" x2="650" y2="280" stroke="#3498db" stroke-width="2"/>
+  
+  <!-- Current rates table -->
+  <rect x="50" y="380" width="320" height="180" fill="#f8f9fa" stroke="#6c757d" stroke-width="2" rx="10"/>
+  <rect x="50" y="380" width="320" height="35" fill="#6c757d" rx="10"/>
+  <text x="210" y="402" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    Gjeldende Satser 2024
+  </text>
+  
+  <!-- Table content -->
+  <text x="70" y="430" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Inntektstype</text>
+  <text x="200" y="430" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Sats</text>
+  <text x="280" y="430" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Maks</text>
+  
+  <line x1="60" y1="435" x2="350" y2="435" stroke="#dee2e6" stroke-width="1"/>
+  
+  <text x="70" y="450" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">Lønnsinntekt</text>
+  <text x="200" y="450" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">46%</text>
+  <text x="280" y="450" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">104 850</text>
+  
+  <text x="70" y="470" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">Pensjonsinntekt</text>
+  <text x="200" y="470" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">31%</text>
+  <text x="280" y="470" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">90 800</text>
+  
+  <text x="70" y="490" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">Næringsinntekt</text>
+  <text x="200" y="490" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">25%</text>
+  <text x="280" y="490" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">69 700</text>
+  
+  <text x="70" y="510" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">Sjømannsfradrag</text>
+  <text x="200" y="510" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">30%</text>
+  <text x="280" y="510" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">83 000</text>
+  
+  <!-- Development chart -->
+  <rect x="430" y="380" width="320" height="180" fill="#f8f9fa" stroke="#6c757d" stroke-width="2" rx="10"/>
+  <rect x="430" y="380" width="320" height="35" fill="#6c757d" rx="10"/>
+  <text x="590" y="402" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    Utviklingstrend
+  </text>
+  
+  <!-- Simple chart showing percentage increase -->
+  <text x="450" y="430" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Lønnsfradrag utvikling:</text>
+  
+  <!-- Chart bars -->
+  <rect x="450" y="440" width="30" height="40" fill="#e74c3c" opacity="0.7"/>
+  <text x="465" y="460" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10" font-weight="bold">1975</text>
+  <text x="465" y="490" text-anchor="middle" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">Start</text>
+  
+  <rect x="500" y="420" width="30" height="60" fill="#f39c12" opacity="0.7"/>
+  <text x="515" y="455" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10" font-weight="bold">1992</text>
+  <text x="515" y="490" text-anchor="middle" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">40%</text>
+  
+  <rect x="550" y="400" width="30" height="80" fill="#27ae60" opacity="0.7"/>
+  <text x="565" y="445" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10" font-weight="bold">2019</text>
+  <text x="565" y="490" text-anchor="middle" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">46%</text>
+  
+  <rect x="600" y="400" width="30" height="80" fill="#3498db" opacity="0.7"/>
+  <text x="615" y="445" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10" font-weight="bold">2024</text>
+  <text x="615" y="490" text-anchor="middle" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">46%</text>
+  
+  <text x="590" y="510" text-anchor="middle" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="10" font-style="italic">
+    + maksimalbeløp justert for inflasjon
+  </text>
+  
+  <!-- Bottom summary -->
+  <text x="400" y="580" text-anchor="middle" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="12" font-style="italic">
+    Minstefradrag har utviklet seg fra et enkelt forenklingstiltak til et omfattende system med differensierte satser
+  </text>
+</svg>

@@ -1,0 +1,237 @@
+<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="planBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
+    </linearGradient>
+    <marker id="planArrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#3b82f6"/>
+    </marker>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="url(#planBg)"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1e293b">
+    Implementeringsplan for Strekkodeteknologi
+  </text>
+  
+  <!-- Timeline -->
+  <line x1="50" y1="80" x2="750" y2="80" stroke="#374151" stroke-width="3"/>
+  
+  <!-- Phase 1: Analysis -->
+  <g transform="translate(50, 50)">
+    <circle cx="0" cy="30" r="8" fill="#ef4444"/>
+    <text x="0" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">1</text>
+    <text x="0" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">
+      Analyse
+    </text>
+    <text x="0" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">
+      Uke 1-3
+    </text>
+    
+    <!-- Analysis details -->
+    <rect x="-80" y="80" width="160" height="120" rx="8" fill="#fef2f2" stroke="#ef4444" stroke-width="2"/>
+    <text x="0" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#991b1b">
+      Behovsanalyse
+    </text>
+    
+    <text x="-70" y="120" font-family="Arial, sans-serif" font-size="10" fill="#991b1b">• Kartlegging av prosesser</text>
+    <text x="-70" y="135" font-family="Arial, sans-serif" font-size="10" fill="#991b1b">• Identifikasjon av behov</text>
+    <text x="-70" y="150" font-family="Arial, sans-serif" font-size="10" fill="#991b1b">• Vurdering av teknologi</text>
+    <text x="-70" y="165" font-family="Arial, sans-serif" font-size="10" fill="#991b1b">• Kostnad-nytte-analyse</text>
+    <text x="-70" y="180" font-family="Arial, sans-serif" font-size="10" fill="#991b1b">• Risikovurdering</text>
+    <text x="-70" y="195" font-family="Arial, sans-serif" font-size="10" fill="#991b1b">• Leverandørevaluering</text>
+  </g>
+  
+  <!-- Arrow 1-2 -->
+  <path d="M 190 80 L 240 80" stroke="#3b82f6" stroke-width="2" marker-end="url(#planArrow)"/>
+  
+  <!-- Phase 2: Design -->
+  <g transform="translate(250, 50)">
+    <circle cx="0" cy="30" r="8" fill="#f59e0b"/>
+    <text x="0" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">2</text>
+    <text x="0" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">
+      Design
+    </text>
+    <text x="0" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">
+      Uke 4-6
+    </text>
+    
+    <!-- Design details -->
+    <rect x="-80" y="80" width="160" height="120" rx="8" fill="#fefbeb" stroke="#f59e0b" stroke-width="2"/>
+    <text x="0" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#92400e">
+      Systemdesign
+    </text>
+    
+    <text x="-70" y="120" font-family="Arial, sans-serif" font-size="10" fill="#92400e">• Teknisk arkitektur</text>
+    <text x="-70" y="135" font-family="Arial, sans-serif" font-size="10" fill="#92400e">• Integrasjonsplan</text>
+    <text x="-70" y="150" font-family="Arial, sans-serif" font-size="10" fill="#92400e">• Workflow-design</text>
+    <text x="-70" y="165" font-family="Arial, sans-serif" font-size="10" fill="#92400e">• Datamodellering</text>
+    <text x="-70" y="180" font-family="Arial, sans-serif" font-size="10" fill="#92400e">• Sikkerhetsspesifikasjon</text>
+    <text x="-70" y="195" font-family="Arial, sans-serif" font-size="10" fill="#92400e">• Testplan utarbeidelse</text>
+  </g>
+  
+  <!-- Arrow 2-3 -->
+  <path d="M 390 80 L 440 80" stroke="#3b82f6" stroke-width="2" marker-end="url(#planArrow)"/>
+  
+  <!-- Phase 3: Pilot -->
+  <g transform="translate(450, 50)">
+    <circle cx="0" cy="30" r="8" fill="#3b82f6"/>
+    <text x="0" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">3</text>
+    <text x="0" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">
+      Pilot
+    </text>
+    <text x="0" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">
+      Uke 7-10
+    </text>
+    
+    <!-- Pilot details -->
+    <rect x="-80" y="80" width="160" height="120" rx="8" fill="#eff6ff" stroke="#3b82f6" stroke-width="2"/>
+    <text x="0" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e40af">
+      Pilotprosjekt
+    </text>
+    
+    <text x="-70" y="120" font-family="Arial, sans-serif" font-size="10" fill="#1e40af">• Begrenset scope</text>
+    <text x="-70" y="135" font-family="Arial, sans-serif" font-size="10" fill="#1e40af">• Hardware installasjon</text>
+    <text x="-70" y="150" font-family="Arial, sans-serif" font-size="10" fill="#1e40af">• Software konfigurering</text>
+    <text x="-70" y="165" font-family="Arial, sans-serif" font-size="10" fill="#1e40af">• Brukertraining</text>
+    <text x="-70" y="180" font-family="Arial, sans-serif" font-size="10" fill="#1e40af">• Funksjonell testing</text>
+    <text x="-70" y="195" font-family="Arial, sans-serif" font-size="10" fill="#1e40af">• Performance måling</text>
+  </g>
+  
+  <!-- Arrow 3-4 -->
+  <path d="M 590 80 L 640 80" stroke="#3b82f6" stroke-width="2" marker-end="url(#planArrow)"/>
+  
+  <!-- Phase 4: Rollout -->
+  <g transform="translate(650, 50)">
+    <circle cx="0" cy="30" r="8" fill="#10b981"/>
+    <text x="0" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">4</text>
+    <text x="0" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">
+      Utrulling
+    </text>
+    <text x="0" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">
+      Uke 11-16
+    </text>
+    
+    <!-- Rollout details -->
+    <rect x="-80" y="80" width="160" height="120" rx="8" fill="#f0fdf4" stroke="#10b981" stroke-width="2"/>
+    <text x="0" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#14532d">
+      Fullskala Utrulling
+    </text>
+    
+    <text x="-70" y="120" font-family="Arial, sans-serif" font-size="10" fill="#14532d">• Fasevis implementering</text>
+    <text x="-70" y="135" font-family="Arial, sans-serif" font-size="10" fill="#14532d">• Datamigrering</text>
+    <text x="-70" y="150" font-family="Arial, sans-serif" font-size="10" fill="#14532d">• Brukeropplæring</text>
+    <text x="-70" y="165" font-family="Arial, sans-serif" font-size="10" fill="#14532d">• Go-live support</text>
+    <text x="-70" y="180" font-family="Arial, sans-serif" font-size="10" fill="#14532d">• Stabilisering</text>
+    <text x="-70" y="195" font-family="Arial, sans-serif" font-size="10" fill="#14532d">• Dokumentasjon</text>
+  </g>
+  
+  <!-- Key Success Factors -->
+  <g transform="translate(50, 250)">
+    <text x="0" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">
+      Kritiske Suksessfaktorer
+    </text>
+    
+    <rect x="0" y="30" width="700" height="100" rx="8" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+    
+    <!-- Success factors grid -->
+    <g transform="translate(20, 50)">
+      <!-- Factor 1 -->
+      <circle cx="8" cy="8" r="6" fill="#10b981"/>
+      <text x="6" y="12" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">1</text>
+      <text x="20" y="12" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">
+        Ledelsesforankring og støtte
+      </text>
+      <text x="20" y="25" font-family="Arial, sans-serif" font-size="10" fill="#64748b">
+        Tydelig mandat og tilstrekkelig ressursallokering
+      </text>
+      
+      <!-- Factor 2 -->
+      <circle cx="358" cy="8" r="6" fill="#3b82f6"/>
+      <text x="356" y="12" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">2</text>
+      <text x="370" y="12" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">
+        Brukerinvolvering fra start
+      </text>
+      <text x="370" y="25" font-family="Arial, sans-serif" font-size="10" fill="#64748b">
+        Tidlig involvering og kontinuerlig feedback
+      </text>
+      
+      <!-- Factor 3 -->
+      <circle cx="8" cy="48" r="6" fill="#f59e0b"/>
+      <text x="6" y="52" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">3</text>
+      <text x="20" y="52" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">
+        Realistiske tidsrammer
+      </text>
+      <text x="20" y="65" font-family="Arial, sans-serif" font-size="10" fill="#64748b">
+        Tilstrekkelig tid for testing og tilpasning
+      </text>
+      
+      <!-- Factor 4 -->
+      <circle cx="358" cy="48" r="6" fill="#8b5cf6"/>
+      <text x="356" y="52" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">4</text>
+      <text x="370" y="52" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">
+        Kompetent prosjektteam
+      </text>
+      <text x="370" y="65" font-family="Arial, sans-serif" font-size="10" fill="#64748b">
+        Rett mix av teknisk og forretningskompetanse
+      </text>
+    </g>
+  </g>
+  
+  <!-- Common Pitfalls -->
+  <g transform="translate(50, 380)">
+    <text x="0" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#ef4444">
+      Vanlige Fallgruver å Unngå
+    </text>
+    
+    <rect x="0" y="30" width="700" height="80" rx="8" fill="#fef2f2" stroke="#ef4444" stroke-width="2"/>
+    
+    <!-- Pitfalls grid -->
+    <g transform="translate(20, 50)">
+      <!-- Pitfall 1 -->
+      <circle cx="8" cy="8" r="6" fill="#ef4444"/>
+      <text x="6" y="12" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">!</text>
+      <text x="20" y="12" font-family="Arial, sans-serif" font-size="11" fill="#991b1b">
+        Undervurdere kompleksiteten av integrasjoner
+      </text>
+      
+      <!-- Pitfall 2 -->
+      <circle cx="250" cy="8" r="6" fill="#ef4444"/>
+      <text x="248" y="12" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">!</text>
+      <text x="262" y="12" font-family="Arial, sans-serif" font-size="11" fill="#991b1b">
+        Mangelfull brukeropplæring og endringsledelse
+      </text>
+      
+      <!-- Pitfall 3 -->
+      <circle cx="8" cy="38" r="6" fill="#ef4444"/>
+      <text x="6" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">!</text>
+      <text x="20" y="42" font-family="Arial, sans-serif" font-size="11" fill="#991b1b">
+        For ambisiøse mål i første implementering
+      </text>
+      
+      <!-- Pitfall 4 -->
+      <circle cx="250" cy="38" r="6" fill="#ef4444"/>
+      <text x="248" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">!</text>
+      <text x="262" y="42" font-family="Arial, sans-serif" font-size="11" fill="#991b1b">
+        Utilstrekkelig testing og kvalitetssikring
+      </text>
+      
+      <!-- Pitfall 5 -->
+      <circle cx="480" cy="8" r="6" fill="#ef4444"/>
+      <text x="478" y="12" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">!</text>
+      <text x="492" y="12" font-family="Arial, sans-serif" font-size="11" fill="#991b1b">
+        Neglisjere sikkerhet og compliance-krav
+      </text>
+      
+      <!-- Pitfall 6 -->
+      <circle cx="480" cy="38" r="6" fill="#ef4444"/>
+      <text x="478" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">!</text>
+      <text x="492" y="42" font-family="Arial, sans-serif" font-size="11" fill="#991b1b">
+        Manglende plan for kontinuerlig forbedring
+      </text>
+    </g>
+  </g>
+</svg>

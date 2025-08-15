@@ -1,0 +1,190 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="equityGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e8f5e8;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#c8e6c9;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="debtGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#fff3e0;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ffe0b2;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="url(#bgGradient)"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#333">
+    Egenfinansiering vs Fremmedfinansiering
+  </text>
+  
+  <!-- Left side - Egenfinansiering -->
+  <rect x="50" y="70" width="320" height="500" fill="url(#equityGradient)" stroke="#4caf50" stroke-width="3" rx="10"/>
+  
+  <!-- Egenfinansiering header -->
+  <rect x="70" y="90" width="280" height="40" fill="#4caf50" rx="5"/>
+  <text x="210" y="115" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+    EGENFINANSIERING
+  </text>
+  
+  <!-- Egenfinansiering definition -->
+  <text x="210" y="155" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#2e7d32">
+    Kapital fra eierne
+  </text>
+  
+  <!-- Egenfinansiering types -->
+  <text x="80" y="185" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2e7d32">
+    Hovedtyper:
+  </text>
+  <circle cx="90" cy="205" r="4" fill="#4caf50"/>
+  <text x="105" y="210" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    Aksjekapital
+  </text>
+  <circle cx="90" cy="225" r="4" fill="#4caf50"/>
+  <text x="105" y="230" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    Tilbakeholdt overskudd
+  </text>
+  <circle cx="90" cy="245" r="4" fill="#4caf50"/>
+  <text x="105" y="250" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    Egenkapitaltilskudd
+  </text>
+  
+  <!-- Egenfinansiering advantages -->
+  <text x="80" y="285" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2e7d32">
+    Fordeler:
+  </text>
+  <text x="90" y="305" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    ✓ Ingen rentekostnader
+  </text>
+  <text x="90" y="320" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    ✓ Økt finansiell stabilitet
+  </text>
+  <text x="90" y="335" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    ✓ Større fleksibilitet
+  </text>
+  <text x="90" y="350" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    ✓ Bedre kredittrating
+  </text>
+  
+  <!-- Egenfinansiering disadvantages -->
+  <text x="80" y="385" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2e7d32">
+    Ulemper:
+  </text>
+  <text x="90" y="405" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    ✗ Utvanning av eierskap
+  </text>
+  <text x="90" y="420" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    ✗ Høyere kapitalkostnad
+  </text>
+  <text x="90" y="435" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    ✗ Begrenset tilgang
+  </text>
+  <text x="90" y="450" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    ✗ Potensielt tap av kontroll
+  </text>
+  
+  <!-- Egenfinansiering characteristics -->
+  <rect x="80" y="480" width="260" height="70" fill="white" stroke="#4caf50" stroke-width="1" rx="5"/>
+  <text x="210" y="500" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#2e7d32">
+    Karakteristika
+  </text>
+  <text x="90" y="520" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    • Ingen tilbakebetalingsplikt
+  </text>
+  <text x="90" y="535" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    • Eierrettigheter og stemmerett
+  </text>
+  
+  <!-- Right side - Fremmedfinansiering -->
+  <rect x="430" y="70" width="320" height="500" fill="url(#debtGradient)" stroke="#ff9800" stroke-width="3" rx="10"/>
+  
+  <!-- Fremmedfinansiering header -->
+  <rect x="450" y="90" width="280" height="40" fill="#ff9800" rx="5"/>
+  <text x="590" y="115" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+    FREMMEDFINANSIERING
+  </text>
+  
+  <!-- Fremmedfinansiering definition -->
+  <text x="590" y="155" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#e65100">
+    Lån av kapital
+  </text>
+  
+  <!-- Fremmedfinansiering types -->
+  <text x="460" y="185" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#e65100">
+    Hovedtyper:
+  </text>
+  <circle cx="470" cy="205" r="4" fill="#ff9800"/>
+  <text x="485" y="210" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    Banklån
+  </text>
+  <circle cx="470" cy="225" r="4" fill="#ff9800"/>
+  <text x="485" y="230" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    Obligasjoner
+  </text>
+  <circle cx="470" cy="245" r="4" fill="#ff9800"/>
+  <text x="485" y="250" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    Leverandørkreditt
+  </text>
+  
+  <!-- Fremmedfinansiering advantages -->
+  <text x="460" y="285" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#e65100">
+    Fordeler:
+  </text>
+  <text x="470" y="305" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    ✓ Beholder eierskap
+  </text>
+  <text x="470" y="320" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    ✓ Skattefradrag for renter
+  </text>
+  <text x="470" y="335" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    ✓ Lavere kapitalkostnad
+  </text>
+  <text x="470" y="350" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    ✓ Større tilgang på kapital
+  </text>
+  
+  <!-- Fremmedfinansiering disadvantages -->
+  <text x="460" y="385" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#e65100">
+    Ulemper:
+  </text>
+  <text x="470" y="405" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    ✗ Faste rentekostnader
+  </text>
+  <text x="470" y="420" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    ✗ Økt finansiell risiko
+  </text>
+  <text x="470" y="435" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    ✗ Krav til sikkerhet
+  </text>
+  <text x="470" y="450" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    ✗ Lånebetingelser
+  </text>
+  
+  <!-- Fremmedfinansiering characteristics -->
+  <rect x="460" y="480" width="260" height="70" fill="white" stroke="#ff9800" stroke-width="1" rx="5"/>
+  <text x="590" y="500" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#e65100">
+    Karakteristika
+  </text>
+  <text x="470" y="520" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    • Tilbakebetalingsplikt med renter
+  </text>
+  <text x="470" y="535" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    • Ingen eierrettigheter
+  </text>
+  
+  <!-- Central comparison arrow -->
+  <path d="M 380 300 L 420 300" stroke="#666" stroke-width="3" fill="none"/>
+  <polygon points="420,295 430,300 420,305" fill="#666"/>
+  <path d="M 420 320 L 380 320" stroke="#666" stroke-width="3" fill="none"/>
+  <polygon points="380,315 370,320 380,325" fill="#666"/>
+  
+  <!-- VS text -->
+  <circle cx="400" cy="310" r="25" fill="white" stroke="#666" stroke-width="2"/>
+  <text x="400" y="318" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#666">
+    VS
+  </text>
+</svg>

@@ -1,0 +1,121 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">Fordeler med Giro-systemet</text>
+  
+  <!-- Central giro system -->
+  <circle cx="400" cy="300" r="80" fill="#3498db" stroke="#2980b9" stroke-width="4"/>
+  <text x="400" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">GIRO</text>
+  <text x="400" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">SYSTEM</text>
+  
+  <!-- Privatpersoner -->
+  <rect x="50" y="80" width="250" height="150" rx="10" fill="#e8f4fd" stroke="#3498db" stroke-width="3"/>
+  <text x="175" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">Privatpersoner</text>
+  
+  <!-- Benefits for individuals -->
+  <circle cx="80" cy="140" r="5" fill="#27ae60"/>
+  <text x="95" y="145" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Enkelhet i betaling</text>
+  
+  <circle cx="80" cy="160" r="5" fill="#27ae60"/>
+  <text x="95" y="165" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Økt sikkerhet</text>
+  
+  <circle cx="80" cy="180" r="5" fill="#27ae60"/>
+  <text x="95" y="185" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Komplett sporbarhet</text>
+  
+  <circle cx="80" cy="200" r="5" fill="#27ae60"/>
+  <text x="95" y="205" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Automatiseringsmuligheter</text>
+  
+  <!-- Bedrifter -->
+  <rect x="500" y="80" width="250" height="150" rx="10" fill="#e8f8f5" stroke="#27ae60" stroke-width="3"/>
+  <text x="625" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">Bedrifter</text>
+  
+  <!-- Benefits for businesses -->
+  <circle cx="530" cy="140" r="5" fill="#3498db"/>
+  <text x="545" y="145" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Forbedret arbeidskapital</text>
+  
+  <circle cx="530" cy="160" r="5" fill="#3498db"/>
+  <text x="545" y="165" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Reduserte kostnader</text>
+  
+  <circle cx="530" cy="180" r="5" fill="#3498db"/>
+  <text x="545" y="185" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Bedre kontroll</text>
+  
+  <circle cx="530" cy="200" r="5" fill="#3498db"/>
+  <text x="545" y="205" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Automatisk bokføring</text>
+  
+  <!-- Samfunnet -->
+  <rect x="50" y="450" width="250" height="120" rx="10" fill="#fdf2e9" stroke="#f39c12" stroke-width="3"/>
+  <text x="175" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">Samfunnet</text>
+  
+  <!-- Benefits for society -->
+  <circle cx="80" cy="510" r="5" fill="#9b59b6"/>
+  <text x="95" y="515" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Økt effektivitet</text>
+  
+  <circle cx="80" cy="530" r="5" fill="#9b59b6"/>
+  <text x="95" y="535" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Bedre transparens</text>
+  
+  <circle cx="80" cy="550" r="5" fill="#9b59b6"/>
+  <text x="95" y="555" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Finansiell inkludering</text>
+  
+  <!-- Regnskapsførere -->
+  <rect x="500" y="450" width="250" height="120" rx="10" fill="#fdf2f8" stroke="#9b59b6" stroke-width="3"/>
+  <text x="625" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">Regnskapsførere</text>
+  
+  <!-- Benefits for accountants -->
+  <circle cx="530" cy="510" r="5" fill="#e74c3c"/>
+  <text x="545" y="515" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Automatiserte prosesser</text>
+  
+  <circle cx="530" cy="530" r="5" fill="#e74c3c"/>
+  <text x="545" y="535" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Bedre datakvalitet</text>
+  
+  <circle cx="530" cy="550" r="5" fill="#e74c3c"/>
+  <text x="545" y="555" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Effektiv avstemming</text>
+  
+  <!-- Arrows connecting to central system -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>
+    </marker>
+  </defs>
+  
+  <!-- Arrow from individuals -->
+  <line x1="300" y1="155" x2="340" y2="250" stroke="#3498db" stroke-width="3" marker-end="url(#arrowhead)"/>
+  
+  <!-- Arrow from businesses -->
+  <line x1="500" y1="155" x2="460" y2="250" stroke="#27ae60" stroke-width="3" marker-end="url(#arrowhead)"/>
+  
+  <!-- Arrow from society -->
+  <line x1="300" y1="510" x2="340" y2="350" stroke="#f39c12" stroke-width="3" marker-end="url(#arrowhead)"/>
+  
+  <!-- Arrow from accountants -->
+  <line x1="500" y1="510" x2="460" y2="350" stroke="#9b59b6" stroke-width="3" marker-end="url(#arrowhead)"/>
+  
+  <!-- Key metrics -->
+  <rect x="320" y="400" width="160" height="80" rx="5" fill="#ffffff" stroke="#bdc3c7" stroke-width="2"/>
+  <text x="400" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">Nøkkeltall</text>
+  <text x="400" y="440" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">4+ mill. brukere</text>
+  <text x="400" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Milliarder i volum</text>
+  <text x="400" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">99.9% oppetid</text>
+  
+  <!-- Cost savings indicator -->
+  <rect x="150" y="280" width="120" height="60" rx="5" fill="#d4edda" stroke="#28a745" stroke-width="2"/>
+  <text x="210" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#155724">Kostnadsbesparelser</text>
+  <text x="210" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#155724">Reduserte</text>
+  <text x="210" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#155724">transaksjonskostnader</text>
+  
+  <!-- Time savings indicator -->
+  <rect x="530" y="280" width="120" height="60" rx="5" fill="#cce5ff" stroke="#007bff" stroke-width="2"/>
+  <text x="590" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#004085">Tidsbesparelser</text>
+  <text x="590" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#004085">Automatiserte</text>
+  <text x="590" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#004085">prosesser</text>
+  
+  <!-- Environmental benefits -->
+  <circle cx="400" cy="520" r="30" fill="#28a745" stroke="#1e7e34" stroke-width="2"/>
+  <text x="400" y="515" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">MILJØ</text>
+  <text x="400" y="530" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">Mindre papir</text>
+  
+  <!-- Innovation indicator -->
+  <polygon points="400,60 410,80 430,80 416,92 422,112 400,100 378,112 384,92 370,80 390,80" fill="#ffc107" stroke="#e0a800" stroke-width="2"/>
+  <text x="400" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="#856404">INNOVASJON</text>
+</svg>

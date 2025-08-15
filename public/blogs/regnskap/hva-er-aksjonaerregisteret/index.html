@@ -1,0 +1,514 @@
+<!doctype html>
+<html lang="nb">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Hva er Aksjonærregisteret? | ReAI</title>
+  <meta name="description" content="Komplett regnskapssystem med faktura, lønn, bilagsføring og årsoppgjør.">
+  
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<script src="https://cdn.tailwindcss.com?plugins=typography"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        fontFamily: { sans: ['Inter','ui-sans-serif','system-ui','Arial','sans-serif'] },
+        colors: {
+          brand: { DEFAULT: '#111827' },
+          accent: { DEFAULT: '#2563eb' }
+        }
+      }
+    }
+  }
+</script>
+<style>
+   
+  header .header-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #000 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link:hover { background-position: 0; }
+  header .header-link:hover::before { width: 100%; }
+
+  footer .footer-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #ffffff 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link:hover { background-position: 0; }
+  footer .footer-link:hover::before { width: 100%; }
+</style>
+<style>
+   
+  .prose { overflow-wrap: anywhere; word-break: break-word; }
+  .prose img { max-width: 100%; height: auto; }
+  .prose table { display: block; width: 100%; overflow-x: auto; }
+  .prose pre { white-space: pre-wrap; word-break: break-word; overflow-x: auto; }
+  .prose code { word-break: break-word; }
+  .prose iframe, .prose video { max-width: 100%; width: 100%; height: auto; }
+</style>
+<style>
+   
+  button,
+  .btn,
+  a.btn,
+  .button,
+  .cta,
+  .link-button,
+   
+  a.inline-flex.rounded-md,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"] {
+    transition: transform 220ms ease, box-shadow 220ms ease, background-color 220ms ease, color 220ms ease, opacity 220ms ease;
+    will-change: transform, box-shadow;
+  }
+
+  button:hover,
+  .btn:hover,
+  a.btn:hover,
+  .button:hover,
+  .cta:hover,
+  .link-button:hover,
+  a.inline-flex.rounded-md:hover,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+
+  button:active,
+  .btn:active,
+  a.btn:active,
+  .button:active,
+  .cta:active,
+  .link-button:active,
+  a.inline-flex.rounded-md:active,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:active {
+    transform: translateY(-1px) scale(0.99);
+    box-shadow: 0 6px 12px rgba(2, 6, 23, 0.1);
+  }
+
+  button:focus-visible,
+  .btn:focus-visible,
+  a.btn:focus-visible,
+  .button:focus-visible,
+  .cta:focus-visible,
+  .link-button:focus-visible,
+  a.inline-flex.rounded-md:focus-visible,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.35), 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+</style>
+
+<link rel="icon" type="image/svg+xml" href="/images/ReAI-logo-square.svg">
+<link rel="shortcut icon" href="/images/ReAI-logo-square.svg">
+
+</head>
+<body class="min-h-dvh bg-white text-gray-900 font-sans">
+  <header class="sticky top-0 z-40 bg-white/80 backdrop-blur">
+  
+  <div class="border-b border-slate-200/70">
+    <div class="max-w-7xl mx-auto px-4">
+      <div class="h-16 flex items-center justify-between">
+        <a href="/" class="flex items-center gap-2" aria-label="ReAI">
+          <img src="/images/ReAI-logo-square.svg?v=4" alt="ReAI logo" class="h-14 w-14 rounded-md mt-5" width="56" height="56" loading="eager" decoding="async">
+        </a>
+        <nav class="hidden md:block">
+          <ul class="flex items-center gap-5 text-sm">
+            <li><a href="/courses/" class="header-link text-slate-700 hover:text-black">Gratis kurs</a></li>
+            <li><a href="/contact/" class="header-link text-slate-700 hover:text-black">Kontakt oss</a></li>
+            <li><a href="/blog/" class="header-link text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+            <li><a href="/bli-partner/" class="header-link text-slate-700 hover:text-black">Bli partner</a></li>
+            <li><a href="/fakturamal/" class="header-link text-slate-700 hover:text-black">Lag faktura</a></li>
+          </ul>
+        </nav>
+        <button id="mobileMenuBtn" aria-controls="mobileMenu" aria-expanded="false" class="md:hidden inline-flex items-center justify-center h-9 w-9 rounded-md border border-slate-300">
+          <span class="sr-only">Menu</span>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-5 w-5"><path d="M3.75 6.75h16.5v1.5H3.75zM3.75 11.25h16.5v1.5H3.75zM3.75 15.75h16.5v1.5H3.75z"/></svg>
+        </button>
+      </div>
+    </div>
+  </div>
+  
+  <nav id="mobileMenu" class="md:hidden hidden border-b border-slate-200/70 bg-white/95 backdrop-blur">
+    <div class="max-w-7xl mx-auto px-4 py-3">
+      <ul class="flex flex-col items-center gap-3 text-sm text-center">
+        <li><a href="/courses/" class="header-link block text-slate-700 hover:text-black">Gratis kurs</a></li>
+        <li><a href="/contact/" class="header-link block text-slate-700 hover:text-black">Kontakt oss</a></li>
+        <li><a href="/blog/" class="header-link block text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+        <li><a href="/bli-partner/" class="header-link block text-slate-700 hover:text-black">Bli partner</a></li>
+        <li><a href="/fakturamal/" class="header-link block text-slate-700 hover:text-black">Lag faktura</a></li>
+      </ul>
+    </div>
+  </nav>
+  <script>
+    (function() {
+      const btn = document.getElementById('mobileMenuBtn');
+      const menu = document.getElementById('mobileMenu');
+      if (!btn || !menu) return;
+      btn.addEventListener('click', function() {
+        const isHidden = menu.classList.contains('hidden');
+        menu.classList.toggle('hidden');
+        btn.setAttribute('aria-expanded', String(isHidden));
+      });
+    })();
+  </script>
+</header>
+  <main>
+    
+<section class="pt-10 md:pt-14">
+  <div class="max-w-3xl mx-auto px-4">
+    <h1 class="text-3xl font-semibold tracking-tight text-center">Hva er Aksjonærregisteret?</h1>
+    <p class="mt-2 text-gray-700">Aksjonærregisteret er et offentlig register som inneholder informasjon om alle aksjonærer i norske aksjeselskaper. Registeret administreres av Brønnøysundregistrene og gir innsyn i eierskap og eierstruktur.</p>
+    <article class="prose max-w-none mt-6"><p><strong>Aksjonærregisteret</strong> er et offentlig register som inneholder informasjon om alle aksjonærer i norske <a href="/blogs/regnskap/hva-er-et-aksjeselskap" title="Hva er et Aksjeselskap? Komplett Guide til Selskapsformen">aksjeselskaper (AS)</a>. Registeret administreres av <a href="/blogs/regnskap/bronnoysundregistrene" title="Hva er Brønnøysundregistrene? En Guide til Norges Registerforvalter"><strong>Brønnøysundregistrene</strong></a> og gir innsyn i eierskap og eierstruktur i norske selskaper.</p>
+<p><img src="hva-er-aksjonaerregisteret-image.svg" alt="Oversikt over aksjonærregisteret og dets funksjon"></p>
+<h3 id="hva-er-formålet-med-aksjonærregisteret">Hva er Formålet med Aksjonærregisteret?</h3>
+<p>Det er viktig å skille mellom Aksjonærregisteret og selskapets egen <a href="/blogs/regnskap/hva-er-en-aksjeeierbok" title="Hva er en Aksjeeierbok? En Komplett Guide">aksjeeierbok</a>.</p>
+<ul>
+<li><strong>Aksjeeierboken</strong> er selskapets interne, løpende register over eiere. Denne må være oppdatert til enhver tid og danner grunnlaget for eiernes rettigheter.</li>
+<li><strong>Aksjonærregisteret</strong> er den årlige, offentlige rapporteringen til myndighetene, basert på informasjonen i aksjeeierboken per 31. desember. Denne rapporteringen skjer via <a href="/blogs/regnskap/aksjonaerregisteroppgave" title="Hva er Aksjonærregisteroppgave? Komplett Guide til Årlig Rapportering">aksjonærregisteroppgaven (RF-1086)</a>.</li>
+</ul>
+<p>Aksjonærregisteret har flere viktige formål i det norske samfunnet:</p>
+<ul>
+<li><strong>Transparens og åpenhet:</strong> Sikrer offentlig innsyn i hvem som eier norske selskaper</li>
+<li><strong>Bekjempelse av hvitvasking:</strong> Hjelper myndigheter med å spore pengestrømmer og eierskap</li>
+<li><strong>Skatteformål:</strong> Gir skattemyndighetene oversikt over eierskap og kapitalstruktur</li>
+<li><strong>Juridisk sikkerhet:</strong> Beskytter <a href="/blogs/regnskap/hva-er-en-aksjonaer" title="Hva er en Aksjonær? En Komplett Guide">aksjonærer</a> og kreditorer ved å dokumentere eierforhold</li>
+</ul>
+<h3 id="hvilke-opplysninger-registreres">Hvilke Opplysninger Registreres?</h3>
+<p>Aksjonærregisteret inneholder detaljert informasjon om både selskaper og deres eiere. Her er en oversikt over de viktigste opplysningene:</p>
+<h4 id="opplysninger-om-aksjonærer">Opplysninger om Aksjonærer</h4>
+<table>
+  <thead>
+      <tr>
+          <th><strong>Opplysningstype</strong></th>
+          <th><strong>Beskrivelse</strong></th>
+          <th><strong>Offentlig tilgjengelig</strong></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Navn</td>
+          <td>Fullt navn på aksjonær</td>
+          <td>Ja</td>
+      </tr>
+      <tr>
+          <td>Fødselsnummer/Org.nr</td>
+          <td>Identifikasjon av aksjonær</td>
+          <td>Delvis*</td>
+      </tr>
+      <tr>
+          <td>Adresse</td>
+          <td>Bostedsadresse</td>
+          <td>Ja</td>
+      </tr>
+      <tr>
+          <td>Antall aksjer</td>
+          <td>Hvor mange <a href="/blogs/regnskap/hva-er-en-aksje" title="Hva er en Aksje? En Enkel Forklaring">aksjer</a> som eies</td>
+          <td>Ja</td>
+      </tr>
+      <tr>
+          <td>Aksjeklasse</td>
+          <td>Type aksjer (<a href="/blogs/regnskap/hva-er-aksjeklasser" title="Hva er Aksjeklasser? A-aksjer og B-aksjer Forklart">A-aksjer, B-aksjer</a>)</td>
+          <td>Ja</td>
+      </tr>
+      <tr>
+          <td>Eierandel</td>
+          <td>Prosentvis eierandel i selskapet</td>
+          <td>Ja</td>
+      </tr>
+      <tr>
+          <td>Ervervsdato</td>
+          <td>Når aksjene ble ervervet</td>
+          <td>Ja</td>
+      </tr>
+  </tbody>
+</table>
+<p>*Fødselsnummer vises kun delvis av personvernhensyn</p>
+<h4 id="opplysninger-om-selskapet">Opplysninger om Selskapet</h4>
+<ul>
+<li><strong>Selskapsnavn</strong> og organisasjonsnummer</li>
+<li><strong><a href="/blogs/regnskap/hva-er-aksjekapital" title="Hva er Aksjekapital? Krav og Forklaring">Aksjekapital</a></strong> og antall aksjer</li>
+<li><strong>Aksjeklasser</strong> og deres rettigheter</li>
+<li><strong>Styre</strong> og <a href="/blogs/regnskap/hva-er-daglig-leder" title="Hva er Daglig Leder? Rolle, Ansvar og Regnskapsmessige Forpliktelser"><strong>daglig leder</strong></a></li>
+<li><strong>Revisor</strong> og revisjonsplikt</li>
+</ul>
+<p><img src="aksjonaerregister-struktur.svg" alt="Struktur og innhold i aksjonærregisteret"></p>
+<h3 id="hvem-har-tilgang-til-aksjonærregisteret">Hvem Har Tilgang til Aksjonærregisteret?</h3>
+<p>Tilgangen til aksjonærregisteret er <strong>gradert</strong> basert på hvem som spør og hvilket formål de har:</p>
+<h4 id="offentlig-tilgjengelig-informasjon">Offentlig Tilgjengelig Informasjon</h4>
+<p>Alle kan få tilgang til:</p>
+<ul>
+<li>Aksjonærens navn og adresse</li>
+<li>Antall aksjer og eierandel</li>
+<li>Aksjeklasse</li>
+<li>Ervervsdato</li>
+</ul>
+<h4 id="begrenset-tilgang">Begrenset Tilgang</h4>
+<p>Visse opplysninger er kun tilgjengelige for:</p>
+<ul>
+<li><strong>Offentlige myndigheter</strong> (skatt, politi, finanstilsyn)</li>
+<li><strong>Selskapet selv</strong> og dets representanter</li>
+<li><strong>Andre aksjonærer</strong> i samme selskap</li>
+<li><strong>Kreditorer</strong> med berettiget interesse</li>
+</ul>
+<h3 id="hvordan-fungerer-registreringen">Hvordan Fungerer Registreringen?</h3>
+<p>Registreringen i aksjonærregisteret skjer <strong>automatisk</strong> når det skjer endringer i eierskap. Her er prosessen:</p>
+<p><img src="registreringsprosess.svg" alt="Prosess for registrering i aksjonærregisteret"></p>
+<h4 id="meldeplikt-for-selskaper">Meldeplikt for Selskaper</h4>
+<p><a href="/blogs/regnskap/hva-er-et-aksjeselskap" title="Hva er et Aksjeselskap? Komplett Guide til Selskapsformen">Aksjeselskaper</a> har <strong>meldeplikt</strong> til aksjonærregisteret når:</p>
+<ol>
+<li><strong>Nye aksjonærer</strong> kommer til</li>
+<li><strong>Eksisterende aksjonærer</strong> endrer sin eierandel</li>
+<li><strong>Aksjer overføres</strong> mellom parter</li>
+<li><strong><a href="/blogs/regnskap/hva-er-aksjekapital" title="Hva er Aksjekapital? Krav og Forklaring">Aksjekapitalen</a> endres</strong></li>
+<li><strong>Nye <a href="/blogs/regnskap/hva-er-aksjeklasser" title="Hva er Aksjeklasser? A-aksjer og B-aksjer Forklart">aksjeklasser</a> opprettes</strong></li>
+</ol>
+<h4 id="frister-og-sanksjoner">Frister og Sanksjoner</h4>
+<table>
+  <thead>
+      <tr>
+          <th><strong>Hendelse</strong></th>
+          <th><strong>Meldefrist</strong></th>
+          <th><strong>Sanksjon ved forsinkelse</strong></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Aksjeoverdragelse</td>
+          <td>1 måned</td>
+          <td>Gebyr kr 1.140</td>
+      </tr>
+      <tr>
+          <td>Kapitalforhøyelse</td>
+          <td>1 måned</td>
+          <td>Gebyr kr 1.140</td>
+      </tr>
+      <tr>
+          <td>Endring av aksjeklasser</td>
+          <td>1 måned</td>
+          <td>Gebyr kr 1.140</td>
+      </tr>
+      <tr>
+          <td>Adresseendring</td>
+          <td>1 måned</td>
+          <td>Gebyr kr 540</td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="reelle-rettighetshavere">Reelle Rettighetshavere</h3>
+<p>I tillegg til aksjonærregisteret finnes det et eget <strong>register over reelle rettighetshavere</strong>. Dette registeret fanger opp:</p>
+<ul>
+<li><strong>Indirekte eierskap</strong> gjennom holdingselskaper</li>
+<li><strong>Kontroll</strong> gjennom stemmerettigheter</li>
+<li><strong>Økonomisk interesse</strong> gjennom andre konstruksjoner</li>
+</ul>
+<p><img src="reelle-rettighetshavere.svg" alt="Sammenheng mellom aksjonærregister og register over reelle rettighetshavere"></p>
+<h4 id="terskelverdi-for-registrering">Terskelverdi for Registrering</h4>
+<p>Reelle rettighetshavere må registreres når de:</p>
+<ul>
+<li>Eier <strong>25% eller mer</strong> av aksjene</li>
+<li>Har <strong>25% eller mer</strong> av stemmene</li>
+<li>Har <strong>kontroll</strong> på annen måte</li>
+</ul>
+<h3 id="praktiske-konsekvenser-for-aksjonærer">Praktiske Konsekvenser for Aksjonærer</h3>
+<p>Som aksjonær i et norsk <a href="/blogs/regnskap/hva-er-et-aksjeselskap" title="Hva er et Aksjeselskap? Komplett Guide til Selskapsformen">aksjeselskap</a> påvirker aksjonærregisteret deg på flere måter:</p>
+<h4 id="personvern-og-offentlighet">Personvern og Offentlighet</h4>
+<ul>
+<li><strong>Ditt navn</strong> og eierskap er offentlig tilgjengelig</li>
+<li><strong>Fødselsnummer</strong> vises kun delvis</li>
+<li><strong>Adresse</strong> er offentlig, men kan være c/o-adresse</li>
+</ul>
+<h4 id="skattemessige-konsekvenser">Skattemessige Konsekvenser</h4>
+<p>Aksjonærregisteret brukes av skattemyndighetene til:</p>
+<ul>
+<li><strong>Kontroll av <a href="/blogs/regnskap/hva-er-en-aksje" title="Hva er en Aksje? En Enkel Forklaring">utbytte</a></strong> og kapitalgevinster</li>
+<li><strong>Verifikasjon av <a href="/blogs/regnskap/hva-er-aksjonaerlan-fra-as" title="Hva er Aksjonærlån fra AS? Regler, Skatt og Praktiske Råd">aksjonærlån</a></strong></li>
+<li><strong>Overvåking av <a href="/blogs/regnskap/hva-er-aksjonaerlan-til-as" title="Hva er Aksjonærlån til AS? Finansiering, Skatt og Praktiske Råd">lån til selskapet</a></strong></li>
+</ul>
+<h3 id="digitalisering-og-fremtiden">Digitalisering og Fremtiden</h3>
+<p>Aksjonærregisteret er i stadig utvikling med fokus på:</p>
+<h4 id="teknologiske-forbedringer">Teknologiske Forbedringer</h4>
+<ul>
+<li><strong>Sanntidsoppdateringer</strong> av eierskap</li>
+<li><strong>Bedre søkefunksjonalitet</strong> for offentligheten</li>
+<li><strong>API-tilgang</strong> for profesjonelle brukere</li>
+<li><strong>Integrering</strong> med andre offentlige registre</li>
+</ul>
+<h4 id="økt-transparens">Økt Transparens</h4>
+<ul>
+<li><strong>Utvidet rapportering</strong> av komplekse eierstrukturer</li>
+<li><strong>Bedre sporing</strong> av internasjonale eiere</li>
+<li><strong>Styrket kontroll</strong> med hvitvasking</li>
+</ul>
+<p><img src="fremtidens-aksjonaerregister.svg" alt="Fremtidens aksjonærregister med digitale løsninger"></p>
+<h3 id="internasjonalt-perspektiv">Internasjonalt Perspektiv</h3>
+<p>Norge er ikke alene om å ha et offentlig aksjonærregister. Mange land har lignende systemer:</p>
+<h4 id="sammenligning-med-andre-land">Sammenligning med Andre Land</h4>
+<table>
+  <thead>
+      <tr>
+          <th><strong>Land</strong></th>
+          <th><strong>Offentlig tilgang</strong></th>
+          <th><strong>Reelle rettighetshavere</strong></th>
+          <th><strong>Gebyr for innsyn</strong></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Norge</td>
+          <td>Ja</td>
+          <td>Ja</td>
+          <td>Gratis online</td>
+      </tr>
+      <tr>
+          <td>Danmark</td>
+          <td>Ja</td>
+          <td>Ja</td>
+          <td>Gratis online</td>
+      </tr>
+      <tr>
+          <td>Sverige</td>
+          <td>Ja</td>
+          <td>Nei</td>
+          <td>Gratis online</td>
+      </tr>
+      <tr>
+          <td>Tyskland</td>
+          <td>Begrenset</td>
+          <td>Ja</td>
+          <td>Gebyr</td>
+      </tr>
+      <tr>
+          <td>Storbritannia</td>
+          <td>Ja</td>
+          <td>Ja</td>
+          <td>Gratis online</td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="hvordan-få-tilgang-til-informasjon">Hvordan Få Tilgang til Informasjon</h3>
+<p>For å få tilgang til informasjon fra aksjonærregisteret kan du:</p>
+<h4 id="online-søk">Online Søk</h4>
+<ul>
+<li>Besøk <strong>Brønnøysundregistrenes</strong> nettsider</li>
+<li>Søk på <strong>selskapsnavn</strong> eller <strong>organisasjonsnummer</strong></li>
+<li>Få <strong>gratis</strong> tilgang til grunnleggende informasjon</li>
+</ul>
+<h4 id="utvidet-informasjon">Utvidet Informasjon</h4>
+<p>For mer detaljert informasjon:</p>
+<ul>
+<li><strong>Bestill utskrift</strong> mot gebyr</li>
+<li><strong>Kontakt selskapet</strong> direkte</li>
+<li><strong>Bruk profesjonelle tjenester</strong> for omfattende analyser</li>
+</ul>
+<h3 id="juridiske-aspekter-og-regelverk">Juridiske Aspekter og Regelverk</h3>
+<p>Aksjonærregisteret er regulert av flere lover og forskrifter:</p>
+<h4 id="relevant-lovgivning">Relevant Lovgivning</h4>
+<ul>
+<li><strong><a href="/blogs/regnskap/hva-er-aksjeloven" title="Hva er Aksjeloven? Regler for Aksjeselskaper i Norge">Aksjeloven</a></strong> - grunnleggende regler for aksjeselskaper</li>
+<li><strong>Regnskapsloven</strong> - krav til <a href="/blogs/regnskap/hva-er-regnskap" title="Hva er Regnskap? En komplett guide">regnskap</a> og rapportering</li>
+<li><strong>Hvitvaskingsloven</strong> - regler om reelle rettighetshavere</li>
+<li><strong>Forvaltningsloven</strong> - saksbehandling og innsyn</li>
+</ul>
+<h4 id="rettigheter-og-plikter">Rettigheter og Plikter</h4>
+<p>Som aksjonær har du:</p>
+<p><strong>Rettigheter:</strong></p>
+<ul>
+<li>Innsyn i egne opplysninger</li>
+<li>Rett til korreksjon av feil</li>
+<li>Beskyttelse av personopplysninger</li>
+</ul>
+<p><strong>Plikter:</strong></p>
+<ul>
+<li>Melde adresseendringer</li>
+<li>Oppgi korrekte opplysninger</li>
+<li>Samarbeide ved kontroller</li>
+</ul>
+<h3 id="konklusjon">Konklusjon</h3>
+<p>Aksjonærregisteret er en <strong>hjørnestein</strong> i det norske selskapsrettslige systemet. Det sikrer transparens, bekjemper økonomisk kriminalitet og gir nødvendig innsyn i eierskap av norske selskaper.</p>
+<p>For deg som aksjonær eller som vurderer å investere i <a href="/blogs/regnskap/hva-er-en-aksje" title="Hva er en Aksje? En Enkel Forklaring">aksjer</a>, er det viktig å forstå at ditt eierskap vil være <strong>offentlig tilgjengelig</strong>. Dette er prisen for å delta i det norske næringslivet, men det gir også trygghet og forutsigbarhet for alle parter.</p>
+<p>Registeret vil fortsette å utvikle seg med teknologien, og vi kan forvente enda bedre tilgang til informasjon og økt transparens i årene som kommer.</p>
+</article>
+  </div>
+</section>
+
+  </main>
+  <footer class="mt-16 border-t border-slate-800/60 bg-slate-900">
+  <div class="max-w-7xl mx-auto px-4 py-14">
+    <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3 text-center sm:text-left">
+      
+      <div>
+        <h3 class="text-sm font-semibold text-white">Verktøy</h3>
+        <ul class="mt-2 space-y-2 text-sm text-slate-300">
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/finn-iban/">IBAN kalkulator</a></li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/lag-faktura-gratis/">Lag faktura</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Selskaps-informasjon</h3>
+        <ul class="mt-2 space-y-1 text-sm text-slate-300">
+          <li>Reai AS</li>
+          <li>Orgnr: 935606403</li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="mailto:post@reai.no">post@reai.no</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Om ReAI</h3>
+        <p class="mt-2 text-sm text-slate-300">ReAI er et gratis regnskapsprogram laget av tidligere ansatte i Tripletex
+          / Visma. Vi mener det er på tide med mer konkurranse i regnskaps-bransjen som kan komme bedrifter til gode.
+        </p>
+      </div>
+    </div>
+    <div class="mt-12 border-t border-slate-800/60 pt-6 flex flex-col items-center sm:flex-row sm:items-center sm:justify-between text-sm text-slate-400 text-center sm:text-left">
+      <div class="flex items-center gap-2">
+        
+        
+      </div>
+      <div class="mt-4 sm:mt-0 flex items-center justify-center sm:justify-end">
+        <div class="opacity-80">&copy; 2025 ReAI. All rights reserved.</div>
+      </div>
+    </div>
+  </div>
+</footer>
+</body>
+</html>

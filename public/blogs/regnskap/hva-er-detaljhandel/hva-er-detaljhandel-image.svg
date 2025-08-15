@@ -1,0 +1,79 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="shopGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4a90e2;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#357abd;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="400" fill="url(#bgGradient)"/>
+  
+  <!-- Title -->
+  <text x="400" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#2c3e50">
+    Detaljhandel og Regnskap
+  </text>
+  
+  <!-- Shop building -->
+  <rect x="100" y="150" width="200" height="180" fill="url(#shopGradient)" stroke="#2c3e50" stroke-width="2"/>
+  <polygon points="90,150 210,100 330,150" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+  
+  <!-- Shop windows -->
+  <rect x="120" y="180" width="60" height="80" fill="#ecf0f1" stroke="#34495e" stroke-width="2"/>
+  <rect x="200" y="180" width="60" height="80" fill="#ecf0f1" stroke="#34495e" stroke-width="2"/>
+  
+  <!-- Shop door -->
+  <rect x="160" y="220" width="40" height="110" fill="#8b4513" stroke="#654321" stroke-width="2"/>
+  <circle cx="190" cy="275" r="3" fill="#f1c40f"/>
+  
+  <!-- Cash register -->
+  <rect x="450" y="200" width="120" height="80" fill="#34495e" stroke="#2c3e50" stroke-width="2"/>
+  <rect x="460" y="190" width="100" height="20" fill="#2ecc71" stroke="#27ae60" stroke-width="1"/>
+  <text x="510" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#fff">KASSE</text>
+  
+  <!-- Money symbols -->
+  <text x="480" y="250" font-family="Arial, sans-serif" font-size="24" fill="#f39c12">kr</text>
+  <text x="520" y="250" font-family="Arial, sans-serif" font-size="24" fill="#f39c12">€</text>
+  
+  <!-- Accounting ledger -->
+  <rect x="600" y="180" width="100" height="120" fill="#3498db" stroke="#2980b9" stroke-width="2"/>
+  <line x1="620" y1="200" x2="680" y2="200" stroke="#fff" stroke-width="2"/>
+  <line x1="620" y1="220" x2="680" y2="220" stroke="#fff" stroke-width="1"/>
+  <line x1="620" y1="240" x2="680" y2="240" stroke="#fff" stroke-width="1"/>
+  <line x1="620" y1="260" x2="680" y2="260" stroke="#fff" stroke-width="1"/>
+  <text x="650" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#fff" font-weight="bold">REGNSKAP</text>
+  
+  <!-- Arrows showing flow -->
+  <path d="M 320 240 Q 380 220 440 240" stroke="#e74c3c" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  <path d="M 580 240 Q 590 240 590 240" stroke="#e74c3c" stroke-width="3" fill="none" marker-end="url(#arrowhead2)"/>
+  
+  <!-- Arrow markers -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#e74c3c"/>
+    </marker>
+    <marker id="arrowhead2" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#e74c3c"/>
+    </marker>
+  </defs>
+  
+  <!-- Labels -->
+  <text x="200" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#2c3e50" font-weight="bold">
+    Butikk
+  </text>
+  <text x="510" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#2c3e50" font-weight="bold">
+    Salgsregistrering
+  </text>
+  <text x="650" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#2c3e50" font-weight="bold">
+    Regnskapsføring
+  </text>
+  
+  <!-- Bottom text -->
+  <text x="400" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#7f8c8d">
+    Fra salg til regnskap - kompleks prosess med mange komponenter
+  </text>
+</svg>

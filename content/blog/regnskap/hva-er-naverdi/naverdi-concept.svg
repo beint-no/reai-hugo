@@ -1,0 +1,14 @@
+<svg width="500" height="120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arrow" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L6,3 Z" fill="#2C3E50" />
+    </marker>
+  </defs>
+  <circle cx="60" cy="60" r="20" fill="#ffffff" stroke="#2C3E50" stroke-width="2" />
+  <text x="60" y="65" font-family="Arial, sans-serif" font-size="14" fill="#2C3E50" text-anchor="middle">PV</text>
+  <circle cx="440" cy="60" r="20" fill="#ffffff" stroke="#2C3E50" stroke-width="2" />
+  <text x="440" y="65" font-family="Arial, sans-serif" font-size="14" fill="#2C3E50" text-anchor="middle">FV</text>
+  <line x1="80" y1="60" x2="420" y2="60" stroke="#2C3E50" stroke-width="2" marker-end="url(#arrow)" />
+  <text x="250" y="40" font-family="Arial, sans-serif" font-size="14" fill="#2C3E50" text-anchor="middle">(1 + r)^n</text>
+  <text x="250" y="90" font-family="Arial, sans-serif" font-size="14" fill="#2C3E50" text-anchor="middle">n perioder</text>
+</svg>

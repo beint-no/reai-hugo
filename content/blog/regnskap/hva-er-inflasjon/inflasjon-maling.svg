@@ -1,0 +1,84 @@
+<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="500" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">Sammenligning av Ulike Inflasjonsmål</text>
+  
+  <!-- Chart area -->
+  <g transform="translate(80, 80)">
+    <!-- Chart background -->
+    <rect x="0" y="0" width="640" height="320" fill="white" stroke="#bdc3c7" stroke-width="1" rx="5"/>
+    
+    <!-- Y-axis -->
+    <line x1="0" y1="0" x2="0" y2="320" stroke="#34495e" stroke-width="2"/>
+    
+    <!-- X-axis -->
+    <line x1="0" y1="320" x2="640" y2="320" stroke="#34495e" stroke-width="2"/>
+    
+    <!-- Y-axis labels -->
+    <text x="-15" y="25" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">6%</text>
+    <text x="-15" y="80" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">5%</text>
+    <text x="-15" y="135" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">4%</text>
+    <text x="-15" y="190" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">3%</text>
+    <text x="-15" y="245" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">2%</text>
+    <text x="-15" y="300" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">1%</text>
+    <text x="-15" y="325" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">0%</text>
+    
+    <!-- X-axis labels -->
+    <text x="80" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">2019</text>
+    <text x="200" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">2020</text>
+    <text x="320" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">2021</text>
+    <text x="440" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">2022</text>
+    <text x="560" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">2023</text>
+    
+    <!-- Grid lines -->
+    <g stroke="#ecf0f1" stroke-width="1">
+      <line x1="0" y1="80" x2="640" y2="80"/>
+      <line x1="0" y1="135" x2="640" y2="135"/>
+      <line x1="0" y1="190" x2="640" y2="190"/>
+      <line x1="0" y1="245" x2="640" y2="245"/>
+      <line x1="0" y1="300" x2="640" y2="300"/>
+    </g>
+    
+    <!-- KPI line (Consumer Price Index) -->
+    <polyline points="80,245 200,300 320,135 440,80 560,190" 
+              fill="none" stroke="#e74c3c" stroke-width="3"/>
+    
+    <!-- Core inflation line -->
+    <polyline points="80,245 200,280 320,160 440,110 560,210" 
+              fill="none" stroke="#3498db" stroke-width="3"/>
+    
+    <!-- PPI line (Producer Price Index) -->
+    <polyline points="80,235 200,290 320,100 440,50 560,170" 
+              fill="none" stroke="#f39c12" stroke-width="3"/>
+    
+    <!-- Target line (2%) -->
+    <line x1="0" y1="245" x2="640" y2="245" stroke="#27ae60" stroke-width="2" stroke-dasharray="10,5"/>
+  </g>
+  
+  <!-- Legend -->
+  <g transform="translate(100, 420)">
+    <rect x="0" y="0" width="600" height="60" fill="#ecf0f1" rx="5" stroke="#bdc3c7"/>
+    
+    <!-- KPI legend -->
+    <line x1="20" y1="20" x2="50" y2="20" stroke="#e74c3c" stroke-width="3"/>
+    <text x="60" y="25" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">KPI (Konsumprisindeks)</text>
+    
+    <!-- Core inflation legend -->
+    <line x1="20" y1="40" x2="50" y2="40" stroke="#3498db" stroke-width="3"/>
+    <text x="60" y="45" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Kjerneinflasjonen</text>
+    
+    <!-- PPI legend -->
+    <line x1="220" y1="20" x2="250" y2="20" stroke="#f39c12" stroke-width="3"/>
+    <text x="260" y="25" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">PPI (Produsentprisindeks)</text>
+    
+    <!-- Target legend -->
+    <line x1="220" y1="40" x2="250" y2="40" stroke="#27ae60" stroke-width="2" stroke-dasharray="5,3"/>
+    <text x="260" y="45" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Inflasjonsmål (2%)</text>
+    
+    <!-- Key insights -->
+    <text x="450" y="25" font-family="Arial, sans-serif" font-size="11" fill="#7f8c8d">• PPI ofte mer volatil enn KPI</text>
+    <text x="450" y="45" font-family="Arial, sans-serif" font-size="11" fill="#7f8c8d">• Kjerneinflasjonen mer stabil</text>
+  </g>
+</svg>

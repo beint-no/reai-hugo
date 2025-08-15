@@ -1,0 +1,305 @@
+<svg width="900" height="700" viewBox="0 0 900 700" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="900" height="700" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="450" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+    Dagsoppgjør Prosessflyt
+  </text>
+  
+  <!-- Step 1: Forberedelse -->
+  <g transform="translate(50, 80)">
+    <rect x="0" y="0" width="160" height="100" rx="10" fill="#3498db" stroke="#2980b9" stroke-width="2"/>
+    <text x="80" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      1. FORBEREDELSE
+    </text>
+    <text x="80" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+      08:00-09:00
+    </text>
+    
+    <!-- Clock icon -->
+    <circle cx="80" cy="70" r="15" fill="white" opacity="0.9"/>
+    <circle cx="80" cy="70" r="12" fill="none" stroke="#3498db" stroke-width="2"/>
+    <line x1="80" y1="70" x2="80" y2="62" stroke="#3498db" stroke-width="2"/>
+    <line x1="80" y1="70" x2="86" y2="70" stroke="#3498db" stroke-width="2"/>
+    
+    <!-- Details box -->
+    <rect x="0" y="110" width="160" height="80" rx="5" fill="white" stroke="#3498db" stroke-width="1" opacity="0.9"/>
+    <text x="10" y="125" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      • Samle bilag og dokumenter
+    </text>
+    <text x="10" y="140" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      • Organisere transaksjonsdata
+    </text>
+    <text x="10" y="155" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      • Forberede kontrollskjemaer
+    </text>
+    <text x="10" y="170" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      • Sikre systemtilgang
+    </text>
+    <text x="10" y="185" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      • Sjekklister klare
+    </text>
+  </g>
+  
+  <!-- Arrow 1 -->
+  <path d="M 230 130 L 270 130" stroke="#34495e" stroke-width="3" marker-end="url(#arrowhead)"/>
+  
+  <!-- Step 2: Registrering og Kontroll -->
+  <g transform="translate(290, 80)">
+    <rect x="0" y="0" width="160" height="100" rx="10" fill="#2ecc71" stroke="#27ae60" stroke-width="2"/>
+    <text x="80" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      2. REGISTRERING
+    </text>
+    <text x="80" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      &amp; KONTROLL
+    </text>
+    <text x="80" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+      09:00-11:00
+    </text>
+    
+    <!-- Document icon -->
+    <rect x="65" y="65" width="30" height="20" rx="2" fill="white" opacity="0.9"/>
+    <rect x="70" y="70" width="20" height="2" fill="#2ecc71"/>
+    <rect x="70" y="74" width="15" height="2" fill="#2ecc71"/>
+    <rect x="70" y="78" width="18" height="2" fill="#2ecc71"/>
+    
+    <!-- Details box -->
+    <rect x="0" y="110" width="160" height="80" rx="5" fill="white" stroke="#2ecc71" stroke-width="1" opacity="0.9"/>
+    <text x="10" y="125" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      • Registrere transaksjoner
+    </text>
+    <text x="10" y="140" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      • Kontrollere kontoer
+    </text>
+    <text x="10" y="155" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      • Verifisere beløp og datoer
+    </text>
+    <text x="10" y="170" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      • Sikre korrekt bilagsføring
+    </text>
+    <text x="10" y="185" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      • Kvalitetskontroll
+    </text>
+  </g>
+  
+  <!-- Arrow 2 -->
+  <path d="M 470 130 L 510 130" stroke="#34495e" stroke-width="3" marker-end="url(#arrowhead)"/>
+  
+  <!-- Step 3: Avstemming -->
+  <g transform="translate(530, 80)">
+    <rect x="0" y="0" width="160" height="100" rx="10" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+    <text x="80" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      3. AVSTEMMING
+    </text>
+    <text x="80" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+      11:00-12:00
+    </text>
+    
+    <!-- Balance icon -->
+    <rect x="60" y="60" width="40" height="25" rx="3" fill="white" opacity="0.9"/>
+    <rect x="65" y="65" width="30" height="3" fill="#e74c3c"/>
+    <rect x="65" y="70" width="25" height="3" fill="#e74c3c"/>
+    <rect x="65" y="75" width="28" height="3" fill="#e74c3c"/>
+    
+    <!-- Details box -->
+    <rect x="0" y="110" width="160" height="80" rx="5" fill="white" stroke="#e74c3c" stroke-width="1" opacity="0.9"/>
+    <text x="10" y="125" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      • Kassaoppgjør utføres
+    </text>
+    <text x="10" y="140" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      • Bankavstemming
+    </text>
+    <text x="10" y="155" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      • Sammenligne rapporter
+    </text>
+    <text x="10" y="170" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      • Identifisere avvik
+    </text>
+    <text x="10" y="185" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      • Dokumentere differanser
+    </text>
+  </g>
+  
+  <!-- Arrow 3 (down) -->
+  <path d="M 610 200 L 610 240" stroke="#34495e" stroke-width="3" marker-end="url(#arrowhead)"/>
+  
+  <!-- Step 4: Korrigering og Oppfølging -->
+  <g transform="translate(530, 260)">
+    <rect x="0" y="0" width="160" height="100" rx="10" fill="#f39c12" stroke="#e67e22" stroke-width="2"/>
+    <text x="80" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      4. KORRIGERING
+    </text>
+    <text x="80" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      &amp; OPPFØLGING
+    </text>
+    <text x="80" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+      12:00-13:00
+    </text>
+    
+    <!-- Fix icon -->
+    <circle cx="80" cy="75" r="10" fill="white" opacity="0.9"/>
+    <text x="80" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#f39c12">
+      ✓
+    </text>
+    
+    <!-- Details box -->
+    <rect x="0" y="110" width="160" height="80" rx="5" fill="white" stroke="#f39c12" stroke-width="1" opacity="0.9"/>
+    <text x="10" y="125" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      • Korrigere identifiserte feil
+    </text>
+    <text x="10" y="140" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      • Følge opp uavklarte poster
+    </text>
+    <text x="10" y="155" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      • Eskalere komplekse saker
+    </text>
+    <text x="10" y="170" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      • Dokumentere korrigeringer
+    </text>
+    <text x="10" y="185" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      • Kvalitetssikring
+    </text>
+  </g>
+  
+  <!-- Arrow 4 (left) -->
+  <path d="M 510 310 L 470 310" stroke="#34495e" stroke-width="3" marker-end="url(#arrowhead)"/>
+  
+  <!-- Step 5: Rapportering og Arkivering -->
+  <g transform="translate(290, 260)">
+    <rect x="0" y="0" width="160" height="100" rx="10" fill="#9b59b6" stroke="#8e44ad" stroke-width="2"/>
+    <text x="80" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      5. RAPPORTERING
+    </text>
+    <text x="80" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      &amp; ARKIVERING
+    </text>
+    <text x="80" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+      13:00-14:00
+    </text>
+    
+    <!-- Archive icon -->
+    <rect x="65" y="65" width="30" height="20" rx="2" fill="white" opacity="0.9"/>
+    <rect x="70" y="70" width="20" height="3" fill="#9b59b6"/>
+    <rect x="70" y="75" width="20" height="3" fill="#9b59b6"/>
+    <rect x="70" y="80" width="20" height="3" fill="#9b59b6"/>
+    
+    <!-- Details box -->
+    <rect x="0" y="110" width="160" height="80" rx="5" fill="white" stroke="#9b59b6" stroke-width="1" opacity="0.9"/>
+    <text x="10" y="125" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      • Generere dagsrapporter
+    </text>
+    <text x="10" y="140" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      • Arkivere bilag og dokumenter
+    </text>
+    <text x="10" y="155" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      • Oppdatere kontrollregistre
+    </text>
+    <text x="10" y="170" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      • Forberede neste dag
+    </text>
+    <text x="10" y="185" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      • Kommunisere status
+    </text>
+  </g>
+  
+  <!-- Decision diamond: Avvik funnet? -->
+  <g transform="translate(370, 420)">
+    <polygon points="80,0 160,40 80,80 0,40" fill="#e67e22" stroke="#d35400" stroke-width="2"/>
+    <text x="80" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      AVVIK
+    </text>
+    <text x="80" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      FUNNET?
+    </text>
+  </g>
+  
+  <!-- Arrow from Step 3 to Decision -->
+  <path d="M 610 370 L 610 400 L 450 400 L 450 420" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)" fill="none"/>
+  
+  <!-- Yes arrow (to correction loop) -->
+  <path d="M 530 440 L 580 440 L 580 380 L 610 380" stroke="#e74c3c" stroke-width="2" marker-end="url(#arrowhead)" fill="none"/>
+  <text x="555" y="435" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e74c3c">JA</text>
+  
+  <!-- No arrow (to completion) -->
+  <path d="M 370 460 L 320 460 L 320 500" stroke="#2ecc71" stroke-width="2" marker-end="url(#arrowhead)" fill="none"/>
+  <text x="340" y="455" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2ecc71">NEI</text>
+  
+  <!-- Completion box -->
+  <g transform="translate(240, 520)">
+    <rect x="0" y="0" width="160" height="80" rx="10" fill="#27ae60" stroke="#229954" stroke-width="2"/>
+    <text x="80" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      DAGSOPPGJØR
+    </text>
+    <text x="80" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      FULLFØRT
+    </text>
+    
+    <!-- Checkmark -->
+    <circle cx="80" cy="65" r="10" fill="white" opacity="0.9"/>
+    <text x="80" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#27ae60">
+      ✓
+    </text>
+  </g>
+  
+  <!-- Quality control indicators -->
+  <g transform="translate(50, 450)">
+    <rect x="0" y="0" width="200" height="120" rx="8" fill="white" stroke="#95a5a6" stroke-width="1" opacity="0.95"/>
+    <text x="100" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+      Kvalitetskontroller
+    </text>
+    
+    <text x="10" y="40" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#e74c3c">
+      Kritiske kontrollpunkter:
+    </text>
+    <text x="10" y="55" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      • Alle transaksjoner registrert
+    </text>
+    <text x="10" y="68" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      • Kassabeholdning avstemt
+    </text>
+    <text x="10" y="81" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      • Banktransaksjoner kontrollert
+    </text>
+    <text x="10" y="94" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      • Bilag komplett og arkivert
+    </text>
+    <text x="10" y="107" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      • Systembackup verifisert
+    </text>
+  </g>
+  
+  <!-- Time indicators -->
+  <g transform="translate(700, 450)">
+    <rect x="0" y="0" width="150" height="120" rx="8" fill="white" stroke="#95a5a6" stroke-width="1" opacity="0.95"/>
+    <text x="75" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+      Tidsplan
+    </text>
+    
+    <text x="10" y="40" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#3498db">
+      Total tid: 6 timer
+    </text>
+    <text x="10" y="55" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      Forberedelse: 1 time
+    </text>
+    <text x="10" y="68" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      Registrering: 2 timer
+    </text>
+    <text x="10" y="81" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      Avstemming: 1 time
+    </text>
+    <text x="10" y="94" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      Korrigering: 1 time
+    </text>
+    <text x="10" y="107" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      Rapportering: 1 time
+    </text>
+  </g>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>
+    </marker>
+  </defs>
+</svg>

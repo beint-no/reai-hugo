@@ -1,0 +1,158 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="riskGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#dc2626;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ef4444;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="operationalGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#f59e0b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#d97706;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="financialGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#8b5cf6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7c3aed;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="controlGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#10b981;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#059669;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#ffffff"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="70" fill="url(#riskGrad)"/>
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">PSD2 Risikoområder og Kontrolltiltak</text>
+  <text x="400" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">Identifikasjon og håndtering av PSD2-relaterte risikoer</text>
+  
+  <!-- Central Risk Management Circle -->
+  <circle cx="400" cy="300" r="80" fill="#fee2e2" stroke="#dc2626" stroke-width="3"/>
+  <text x="400" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#991b1b">Risikostyring</text>
+  <text x="400" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#991b1b">Risk Management</text>
+  <text x="400" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#991b1b">PSD2 Compliance</text>
+  
+  <!-- Operational Risks (Top Left) -->
+  <rect x="50" y="120" width="280" height="120" fill="url(#operationalGrad)" stroke="#92400e" stroke-width="2" rx="10"/>
+  <text x="190" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">Operasjonelle Risikoer</text>
+  
+  <!-- Operational risk items -->
+  <rect x="70" y="160" width="120" height="30" fill="rgba(255,255,255,0.3)" stroke="white" stroke-width="1" rx="4"/>
+  <text x="130" y="172" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white" font-weight="bold">🔗 API-tilgjengelighet</text>
+  <text x="130" y="184" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">Systemnedetid</text>
+  
+  <rect x="200" y="160" width="120" height="30" fill="rgba(255,255,255,0.3)" stroke="white" stroke-width="1" rx="4"/>
+  <text x="260" y="172" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white" font-weight="bold">⚙️ Dataintegrasjon</text>
+  <text x="260" y="184" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">Automatiseringsfeil</text>
+  
+  <rect x="70" y="200" width="120" height="30" fill="rgba(255,255,255,0.3)" stroke="white" stroke-width="1" rx="4"/>
+  <text x="130" y="212" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white" font-weight="bold">🤝 Tredjepartsavhengighet</text>
+  <text x="130" y="224" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">Leverandørrisiko</text>
+  
+  <rect x="200" y="200" width="120" height="30" fill="rgba(255,255,255,0.3)" stroke="white" stroke-width="1" rx="4"/>
+  <text x="260" y="212" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white" font-weight="bold">🛡️ Cybersikkerhet</text>
+  <text x="260" y="224" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">Digitale trusler</text>
+  
+  <!-- Financial Risks (Top Right) -->
+  <rect x="470" y="120" width="280" height="120" fill="url(#financialGrad)" stroke="#5b21b6" stroke-width="2" rx="10"/>
+  <text x="610" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">Finansielle Risikoer</text>
+  
+  <!-- Financial risk items -->
+  <rect x="490" y="160" width="120" height="30" fill="rgba(255,255,255,0.3)" stroke="white" stroke-width="1" rx="4"/>
+  <text x="550" y="172" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white" font-weight="bold">💰 Gebyrvolatilitet</text>
+  <text x="550" y="184" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">Uforutsigbare kostnader</text>
+  
+  <rect x="620" y="160" width="120" height="30" fill="rgba(255,255,255,0.3)" stroke="white" stroke-width="1" rx="4"/>
+  <text x="680" y="172" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white" font-weight="bold">💱 Valutarisiko</text>
+  <text x="680" y="184" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">Grenseoverskridende</text>
+  
+  <rect x="490" y="200" width="120" height="30" fill="rgba(255,255,255,0.3)" stroke="white" stroke-width="1" rx="4"/>
+  <text x="550" y="212" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white" font-weight="bold">💧 Likviditetsrisiko</text>
+  <text x="550" y="224" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">Betalingsforsinkelser</text>
+  
+  <rect x="620" y="200" width="120" height="30" fill="rgba(255,255,255,0.3)" stroke="white" stroke-width="1" rx="4"/>
+  <text x="680" y="212" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white" font-weight="bold">🏦 Kredittrisiko</text>
+  <text x="680" y="224" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">Motpartsrisiko</text>
+  
+  <!-- Control Measures (Bottom) -->
+  <rect x="50" y="420" width="700" height="140" fill="url(#controlGrad)" stroke="#065f46" stroke-width="2" rx="10"/>
+  <text x="400" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">Kontrolltiltak og Risikoreduksjon</text>
+  
+  <!-- Control categories -->
+  <rect x="80" y="460" width="150" height="80" fill="rgba(255,255,255,0.2)" stroke="white" stroke-width="1" rx="4"/>
+  <text x="155" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Preventive Kontroller</text>
+  <text x="90" y="495" font-family="Arial, sans-serif" font-size="9" fill="white">• Tilgangskontroll</text>
+  <text x="90" y="507" font-family="Arial, sans-serif" font-size="9" fill="white">• Autorisasjonsmatrise</text>
+  <text x="90" y="519" font-family="Arial, sans-serif" font-size="9" fill="white">• Systemvalidering</text>
+  <text x="90" y="531" font-family="Arial, sans-serif" font-size="9" fill="white">• Backup-rutiner</text>
+  
+  <rect x="250" y="460" width="150" height="80" fill="rgba(255,255,255,0.2)" stroke="white" stroke-width="1" rx="4"/>
+  <text x="325" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Detektive Kontroller</text>
+  <text x="260" y="495" font-family="Arial, sans-serif" font-size="9" fill="white">• Kontinuerlig overvåking</text>
+  <text x="260" y="507" font-family="Arial, sans-serif" font-size="9" fill="white">• Avviksrapportering</text>
+  <text x="260" y="519" font-family="Arial, sans-serif" font-size="9" fill="white">• Transaksjonslogging</text>
+  <text x="260" y="531" font-family="Arial, sans-serif" font-size="9" fill="white">• Periodisk gjennomgang</text>
+  
+  <rect x="420" y="460" width="150" height="80" fill="rgba(255,255,255,0.2)" stroke="white" stroke-width="1" rx="4"/>
+  <text x="495" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Korrektive Kontroller</text>
+  <text x="430" y="495" font-family="Arial, sans-serif" font-size="9" fill="white">• Hendelseshåndtering</text>
+  <text x="430" y="507" font-family="Arial, sans-serif" font-size="9" fill="white">• Korrigerende tiltak</text>
+  <text x="430" y="519" font-family="Arial, sans-serif" font-size="9" fill="white">• Prosessforbedring</text>
+  <text x="430" y="531" font-family="Arial, sans-serif" font-size="9" fill="white">• Læring og utvikling</text>
+  
+  <rect x="590" y="460" width="130" height="80" fill="rgba(255,255,255,0.2)" stroke="white" stroke-width="1" rx="4"/>
+  <text x="655" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Rapportering</text>
+  <text x="600" y="495" font-family="Arial, sans-serif" font-size="9" fill="white">• Månedlige rapporter</text>
+  <text x="600" y="507" font-family="Arial, sans-serif" font-size="9" fill="white">• KRI-overvåking</text>
+  <text x="600" y="519" font-family="Arial, sans-serif" font-size="9" fill="white">• Styrerapportering</text>
+  <text x="600" y="531" font-family="Arial, sans-serif" font-size="9" fill="white">• Myndighetskontakt</text>
+  
+  <!-- Risk Assessment Matrix -->
+  <rect x="50" y="260" width="280" height="140" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2" rx="8"/>
+  <text x="190" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1f2937">Risikovurderingsmatrise</text>
+  
+  <!-- Matrix grid -->
+  <text x="70" y="300" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#374151">Sannsynlighet</text>
+  <text x="310" y="390" text-anchor="end" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#374151">Konsekvens</text>
+  
+  <!-- High risk -->
+  <rect x="80" y="310" width="40" height="20" fill="#fca5a5" stroke="#dc2626" stroke-width="1"/>
+  <text x="100" y="323" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#991b1b" font-weight="bold">HØY</text>
+  
+  <!-- Medium risk -->
+  <rect x="130" y="310" width="40" height="20" fill="#fed7aa" stroke="#f59e0b" stroke-width="1"/>
+  <text x="150" y="323" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#92400e" font-weight="bold">MED</text>
+  
+  <!-- Low risk -->
+  <rect x="180" y="310" width="40" height="20" fill="#bbf7d0" stroke="#10b981" stroke-width="1"/>
+  <text x="200" y="323" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#065f46" font-weight="bold">LAV</text>
+  
+  <!-- Risk examples -->
+  <text x="70" y="350" font-family="Arial, sans-serif" font-size="9" fill="#374151">• API-nedetid: HØY</text>
+  <text x="70" y="362" font-family="Arial, sans-serif" font-size="9" fill="#374151">• Cybersikkerhet: HØY</text>
+  <text x="70" y="374" font-family="Arial, sans-serif" font-size="9" fill="#374151">• Gebyrvolatilitet: MED</text>
+  <text x="70" y="386" font-family="Arial, sans-serif" font-size="9" fill="#374151">• Valutarisiko: LAV</text>
+  
+  <!-- Compliance Requirements -->
+  <rect x="470" y="260" width="280" height="140" fill="#f1f5f9" stroke="#94a3b8" stroke-width="2" rx="8"/>
+  <text x="610" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1f2937">Compliance-krav</text>
+  
+  <!-- Compliance items -->
+  <rect x="490" y="295" width="240" height="20" fill="#dbeafe" stroke="#3b82f6" stroke-width="1" rx="3"/>
+  <text x="610" y="308" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#1e40af" font-weight="bold">Risikovurdering (årlig)</text>
+  
+  <rect x="490" y="320" width="240" height="20" fill="#fef3c7" stroke="#f59e0b" stroke-width="1" rx="3"/>
+  <text x="610" y="333" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#92400e" font-weight="bold">Hendelsesrapportering (umiddelbart)</text>
+  
+  <rect x="490" y="345" width="240" height="20" fill="#dcfce7" stroke="#10b981" stroke-width="1" rx="3"/>
+  <text x="610" y="358" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#065f46" font-weight="bold">Kontrolltesting (kvartalsvis)</text>
+  
+  <rect x="490" y="370" width="240" height="20" fill="#fce7f3" stroke="#ec4899" stroke-width="1" rx="3"/>
+  <text x="610" y="383" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#be185d" font-weight="bold">Dokumentasjon (kontinuerlig)</text>
+  
+  <!-- Connection lines from risks to central circle -->
+  <path d="M 330 180 Q 365 240 365 260" stroke="#f59e0b" stroke-width="2" fill="none"/>
+  <path d="M 470 180 Q 435 240 435 260" stroke="#8b5cf6" stroke-width="2" fill="none"/>
+  <path d="M 330 350 Q 365 340 365 340" stroke="#10b981" stroke-width="2" fill="none"/>
+  <path d="M 470 350 Q 435 340 435 340" stroke="#6b7280" stroke-width="2" fill="none"/>
+</svg>

@@ -1,0 +1,337 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0D47A1;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="automationGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1B5E20;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="integrationGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF9800;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#E65100;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="analyticsGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#9C27B0;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4A148C;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
+  <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
+    Digitale Verktøy for Differanseanalyse
+  </text>
+  
+  <!-- Main Content Area -->
+  <g transform="translate(50, 80)">
+    
+    <!-- Automated Reports Section -->
+    <g transform="translate(0, 0)">
+      <rect x="0" y="0" width="220" height="160" rx="10" fill="url(#automationGradient)" opacity="0.9"/>
+      <text x="110" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+        Automatiserte Rapporter
+      </text>
+      
+      <!-- Robot/automation icon -->
+      <g transform="translate(85, 35)">
+        <rect x="10" y="5" width="30" height="35" rx="5" fill="white" opacity="0.8"/>
+        <rect x="15" y="10" width="8" height="6" rx="2" fill="url(#automationGradient)"/>
+        <rect x="27" y="10" width="8" height="6" rx="2" fill="url(#automationGradient)"/>
+        <rect x="20" y="20" width="10" height="4" rx="2" fill="url(#automationGradient)"/>
+        <rect x="18" y="28" width="14" height="8" rx="2" fill="url(#automationGradient)"/>
+        <text x="25" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">
+          24/7 Automatisering
+        </text>
+      </g>
+      
+      <!-- Features -->
+      <g transform="translate(15, 85)">
+        <circle cx="8" cy="8" r="4" fill="white"/>
+        <text x="20" y="12" font-family="Arial, sans-serif" font-size="11" fill="white">
+          Sanntids budsjettoppfølging
+        </text>
+        
+        <circle cx="8" cy="28" r="4" fill="white"/>
+        <text x="20" y="32" font-family="Arial, sans-serif" font-size="11" fill="white">
+          Automatiske varsler ved avvik
+        </text>
+        
+        <circle cx="8" cy="48" r="4" fill="white"/>
+        <text x="20" y="52" font-family="Arial, sans-serif" font-size="11" fill="white">
+          Grafisk fremstilling av trender
+        </text>
+      </g>
+    </g>
+    
+    <!-- Integration Section -->
+    <g transform="translate(240, 0)">
+      <rect x="0" y="0" width="220" height="160" rx="10" fill="url(#integrationGradient)" opacity="0.9"/>
+      <text x="110" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+        Integrasjoner
+      </text>
+      
+      <!-- Network/connection icon -->
+      <g transform="translate(85, 35)">
+        <circle cx="15" cy="15" r="8" fill="white" opacity="0.8"/>
+        <circle cx="35" cy="15" r="8" fill="white" opacity="0.8"/>
+        <circle cx="25" cy="35" r="8" fill="white" opacity="0.8"/>
+        <line x1="22" y1="18" x2="28" y2="12" stroke="white" stroke-width="2"/>
+        <line x1="28" y1="18" x2="22" y2="12" stroke="white" stroke-width="2"/>
+        <line x1="20" y1="25" x2="30" y2="25" stroke="white" stroke-width="2"/>
+        <text x="25" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">
+          Sammenkoblede systemer
+        </text>
+      </g>
+      
+      <!-- Integration types -->
+      <g transform="translate(15, 85)">
+        <circle cx="8" cy="8" r="4" fill="white"/>
+        <text x="20" y="12" font-family="Arial, sans-serif" font-size="11" fill="white">
+          Kobling til ERP-systemer
+        </text>
+        
+        <circle cx="8" cy="28" r="4" fill="white"/>
+        <text x="20" y="32" font-family="Arial, sans-serif" font-size="11" fill="white">
+          Import fra CSV-filer
+        </text>
+        
+        <circle cx="8" cy="48" r="4" fill="white"/>
+        <text x="20" y="52" font-family="Arial, sans-serif" font-size="11" fill="white">
+          API-integrasjoner
+        </text>
+      </g>
+    </g>
+    
+    <!-- Analytics Section -->
+    <g transform="translate(480, 0)">
+      <rect x="0" y="0" width="220" height="160" rx="10" fill="url(#analyticsGradient)" opacity="0.9"/>
+      <text x="110" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+        Avansert Analyse
+      </text>
+      
+      <!-- Analytics icon -->
+      <g transform="translate(85, 35)">
+        <rect x="0" y="30" width="50" height="2" fill="white"/>
+        <rect x="0" y="30" width="2" height="-25" fill="white"/>
+        <!-- Trend line -->
+        <path d="M 5 25 L 15 20 L 25 15 L 35 10 L 45 5" stroke="white" stroke-width="2" fill="none"/>
+        <!-- Data points -->
+        <circle cx="5" cy="25" r="2" fill="white"/>
+        <circle cx="15" cy="20" r="2" fill="white"/>
+        <circle cx="25" cy="15" r="2" fill="white"/>
+        <circle cx="35" cy="10" r="2" fill="white"/>
+        <circle cx="45" cy="5" r="2" fill="white"/>
+        <text x="25" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">
+          AI-drevet analyse
+        </text>
+      </g>
+      
+      <!-- Analytics features -->
+      <g transform="translate(15, 85)">
+        <circle cx="8" cy="8" r="4" fill="white"/>
+        <text x="20" y="12" font-family="Arial, sans-serif" font-size="11" fill="white">
+          Prediktiv analyse av avvik
+        </text>
+        
+        <circle cx="8" cy="28" r="4" fill="white"/>
+        <text x="20" y="32" font-family="Arial, sans-serif" font-size="11" fill="white">
+          Automatisk mønstergjenkjenning
+        </text>
+        
+        <circle cx="8" cy="48" r="4" fill="white"/>
+        <text x="20" y="52" font-family="Arial, sans-serif" font-size="11" fill="white">
+          Intelligent varsling
+        </text>
+      </g>
+    </g>
+    
+    <!-- Digital Workflow -->
+    <g transform="translate(0, 180)">
+      <rect x="0" y="0" width="700" height="200" rx="10" fill="#6c757d" opacity="0.9"/>
+      <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+        Digital Arbeidsflyt for Differanseanalyse
+      </text>
+      
+      <!-- Step 1: Data Collection -->
+      <g transform="translate(30, 50)">
+        <rect x="0" y="0" width="120" height="120" rx="5" fill="white" opacity="0.1"/>
+        <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+          1. Datainnsamling
+        </text>
+        
+        <circle cx="60" cy="45" r="15" fill="white" opacity="0.3"/>
+        <text x="60" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">📊</text>
+        
+        <text x="10" y="75" font-family="Arial, sans-serif" font-size="9" fill="white">
+          • Automatisk import
+        </text>
+        <text x="10" y="88" font-family="Arial, sans-serif" font-size="9" fill="white">
+          • Sanntidsdata
+        </text>
+        <text x="10" y="101" font-family="Arial, sans-serif" font-size="9" fill="white">
+          • Kvalitetskontroll
+        </text>
+      </g>
+      
+      <!-- Arrow 1 -->
+      <path d="M 160 110 L 185 110" stroke="white" stroke-width="2" fill="none"/>
+      <polygon points="180,105 190,110 180,115" fill="white"/>
+      
+      <!-- Step 2: Processing -->
+      <g transform="translate(195, 50)">
+        <rect x="0" y="0" width="120" height="120" rx="5" fill="white" opacity="0.1"/>
+        <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+          2. Behandling
+        </text>
+        
+        <circle cx="60" cy="45" r="15" fill="white" opacity="0.3"/>
+        <text x="60" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">⚙️</text>
+        
+        <text x="10" y="75" font-family="Arial, sans-serif" font-size="9" fill="white">
+          • Beregning av avvik
+        </text>
+        <text x="10" y="88" font-family="Arial, sans-serif" font-size="9" fill="white">
+          • Kategorisering
+        </text>
+        <text x="10" y="101" font-family="Arial, sans-serif" font-size="9" fill="white">
+          • Validering
+        </text>
+      </g>
+      
+      <!-- Arrow 2 -->
+      <path d="M 325 110 L 350 110" stroke="white" stroke-width="2" fill="none"/>
+      <polygon points="345,105 355,110 345,115" fill="white"/>
+      
+      <!-- Step 3: Analysis -->
+      <g transform="translate(360, 50)">
+        <rect x="0" y="0" width="120" height="120" rx="5" fill="white" opacity="0.1"/>
+        <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+          3. Analyse
+        </text>
+        
+        <circle cx="60" cy="45" r="15" fill="white" opacity="0.3"/>
+        <text x="60" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">🧠</text>
+        
+        <text x="10" y="75" font-family="Arial, sans-serif" font-size="9" fill="white">
+          • AI-algoritmer
+        </text>
+        <text x="10" y="88" font-family="Arial, sans-serif" font-size="9" fill="white">
+          • Trendanalyse
+        </text>
+        <text x="10" y="101" font-family="Arial, sans-serif" font-size="9" fill="white">
+          • Årsaksidentifikasjon
+        </text>
+      </g>
+      
+      <!-- Arrow 3 -->
+      <path d="M 490 110 L 515 110" stroke="white" stroke-width="2" fill="none"/>
+      <polygon points="510,105 520,110 510,115" fill="white"/>
+      
+      <!-- Step 4: Reporting -->
+      <g transform="translate(525, 50)">
+        <rect x="0" y="0" width="120" height="120" rx="5" fill="white" opacity="0.1"/>
+        <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+          4. Rapportering
+        </text>
+        
+        <circle cx="60" cy="45" r="15" fill="white" opacity="0.3"/>
+        <text x="60" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">📈</text>
+        
+        <text x="10" y="75" font-family="Arial, sans-serif" font-size="9" fill="white">
+          • Dashboards
+        </text>
+        <text x="10" y="88" font-family="Arial, sans-serif" font-size="9" fill="white">
+          • Automatiske varsler
+        </text>
+        <text x="10" y="101" font-family="Arial, sans-serif" font-size="9" fill="white">
+          • Tilpassede rapporter
+        </text>
+      </g>
+    </g>
+    
+  </g>
+  
+  <!-- Technology Stack -->
+  <g transform="translate(50, 400)">
+    <rect x="0" y="0" width="700" height="150" rx="10" fill="#e9ecef" stroke="#6c757d" stroke-width="2"/>
+    <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#495057">
+      Teknologistack for Moderne Differanseanalyse
+    </text>
+    
+    <g transform="translate(50, 40)">
+      <!-- Cloud Platform -->
+      <g transform="translate(0, 0)">
+        <rect x="0" y="0" width="150" height="80" rx="5" fill="white" stroke="#6c757d"/>
+        <text x="75" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
+          Skyplattform
+        </text>
+        <text x="75" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#0066cc">
+          ☁️
+        </text>
+        <text x="75" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+          Skalerbar infrastruktur
+        </text>
+        <text x="75" y="72" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+          Høy tilgjengelighet
+        </text>
+      </g>
+      
+      <!-- AI/ML -->
+      <g transform="translate(175, 0)">
+        <rect x="0" y="0" width="150" height="80" rx="5" fill="white" stroke="#6c757d"/>
+        <text x="75" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
+          AI/Maskinlæring
+        </text>
+        <text x="75" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#ff6600">
+          🤖
+        </text>
+        <text x="75" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+          Prediktiv analyse
+        </text>
+        <text x="75" y="72" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+          Automatisk læring
+        </text>
+      </g>
+      
+      <!-- Real-time Processing -->
+      <g transform="translate(350, 0)">
+        <rect x="0" y="0" width="150" height="80" rx="5" fill="white" stroke="#6c757d"/>
+        <text x="75" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
+          Sanntidsbehandling
+        </text>
+        <text x="75" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#00cc66">
+          ⚡
+        </text>
+        <text x="75" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+          Øyeblikkelig analyse
+        </text>
+        <text x="75" y="72" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+          Kontinuerlig overvåking
+        </text>
+      </g>
+      
+      <!-- Mobile Access -->
+      <g transform="translate(525, 0)">
+        <rect x="0" y="0" width="150" height="80" rx="5" fill="white" stroke="#6c757d"/>
+        <text x="75" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
+          Mobil Tilgang
+        </text>
+        <text x="75" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#cc00cc">
+          📱
+        </text>
+        <text x="75" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+          Tilgang overalt
+        </text>
+        <text x="75" y="72" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+          Responsiv design
+        </text>
+      </g>
+    </g>
+  </g>
+  
+</svg>

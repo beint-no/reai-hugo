@@ -1,0 +1,143 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1565c0;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#42a5f5;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="60" fill="url(#headerGrad)"/>
+  <text x="400" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="20" font-weight="bold">AVSKRIVNINGER OG VERDIJUSTERINGER</text>
+  <text x="400" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14">Systematisk verdireduksjon av anleggsmidler</text>
+  
+  <!-- Two main sections -->
+  
+  <!-- Left: Systematic Depreciation -->
+  <g transform="translate(50, 80)">
+    <rect x="0" y="0" width="320" height="480" fill="#fff" stroke="#ddd" stroke-width="2" rx="10"/>
+    <rect x="0" y="0" width="320" height="40" fill="#4caf50" rx="10"/>
+    <rect x="0" y="40" width="320" height="10" fill="#4caf50"/>
+    <text x="160" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">SYSTEMATISKE AVSKRIVNINGER</text>
+    
+    <!-- Linear Depreciation -->
+    <g transform="translate(15, 70)">
+      <rect x="0" y="0" width="290" height="120" fill="#e8f5e8" stroke="#4caf50" stroke-width="1" rx="5"/>
+      <text x="145" y="18" text-anchor="middle" fill="#2e7d32" font-family="Arial, sans-serif" font-size="14" font-weight="bold">LINEÆR AVSKRIVNING</text>
+      
+      <text x="10" y="35" fill="#333" font-family="Arial, sans-serif" font-size="11">Formel:</text>
+      <rect x="10" y="40" width="270" height="25" fill="#c8e6c9" rx="3"/>
+      <text x="145" y="55" text-anchor="middle" fill="#1b5e20" font-family="Arial, sans-serif" font-size="10" font-weight="bold">(Anskaffelseskost - Utrangeringsverdi) / Brukstid</text>
+      
+      <text x="10" y="80" fill="#333" font-family="Arial, sans-serif" font-size="11">Eksempel:</text>
+      <text x="15" y="95" fill="#666" font-family="Arial, sans-serif" font-size="10">• Maskin: NOK 1.000.000</text>
+      <text x="15" y="106" fill="#666" font-family="Arial, sans-serif" font-size="10">• Utrangeringsverdi: NOK 100.000</text>
+      <text x="15" y="117" fill="#666" font-family="Arial, sans-serif" font-size="10">• Brukstid: 10 år → NOK 90.000/år</text>
+    </g>
+    
+    <!-- Declining Balance -->
+    <g transform="translate(15, 200)">
+      <rect x="0" y="0" width="290" height="120" fill="#e3f2fd" stroke="#2196f3" stroke-width="1" rx="5"/>
+      <text x="145" y="18" text-anchor="middle" fill="#1565c0" font-family="Arial, sans-serif" font-size="14" font-weight="bold">SALDOAVSKRIVNING</text>
+      
+      <text x="10" y="35" fill="#333" font-family="Arial, sans-serif" font-size="11">Metode:</text>
+      <rect x="10" y="40" width="270" height="25" fill="#bbdefb" rx="3"/>
+      <text x="145" y="55" text-anchor="middle" fill="#0d47a1" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Fast prosentsats × Gjenstående bokført verdi</text>
+      
+      <text x="10" y="80" fill="#333" font-family="Arial, sans-serif" font-size="11">Eksempel (20% sats):</text>
+      <text x="15" y="95" fill="#666" font-family="Arial, sans-serif" font-size="10">• År 1: 1.000.000 × 20% = 200.000</text>
+      <text x="15" y="106" fill="#666" font-family="Arial, sans-serif" font-size="10">• År 2: 800.000 × 20% = 160.000</text>
+      <text x="15" y="117" fill="#666" font-family="Arial, sans-serif" font-size="10">• År 3: 640.000 × 20% = 128.000</text>
+    </g>
+    
+    <!-- Comparison Chart -->
+    <g transform="translate(15, 330)">
+      <rect x="0" y="0" width="290" height="120" fill="#f8f9fa" stroke="#666" stroke-width="1" rx="5"/>
+      <text x="145" y="18" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold">SAMMENLIGNING</text>
+      
+      <!-- Simple chart -->
+      <g transform="translate(20, 30)">
+        <!-- Axes -->
+        <line x1="0" y1="70" x2="250" y2="70" stroke="#333" stroke-width="1"/>
+        <line x1="0" y1="0" x2="0" y2="70" stroke="#333" stroke-width="1"/>
+        
+        <!-- Linear line -->
+        <line x1="0" y1="0" x2="200" y2="70" stroke="#4caf50" stroke-width="3"/>
+        <text x="205" y="65" fill="#4caf50" font-family="Arial, sans-serif" font-size="9">Lineær</text>
+        
+        <!-- Declining curve -->
+        <path d="M 0 0 Q 50 20 100 45 Q 150 55 200 70" stroke="#2196f3" stroke-width="3" fill="none"/>
+        <text x="205" y="75" fill="#2196f3" font-family="Arial, sans-serif" font-size="9">Saldo</text>
+        
+        <text x="125" y="85" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">Tid →</text>
+        <text x="-35" y="35" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9" transform="rotate(-90, -35, 35)">Bokført verdi</text>
+      </g>
+    </g>
+  </g>
+  
+  <!-- Right: Impairment -->
+  <g transform="translate(430, 80)">
+    <rect x="0" y="0" width="320" height="480" fill="#fff" stroke="#ddd" stroke-width="2" rx="10"/>
+    <rect x="0" y="0" width="320" height="40" fill="#f44336" rx="10"/>
+    <rect x="0" y="40" width="320" height="10" fill="#f44336"/>
+    <text x="160" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">VERDIJUSTERINGER</text>
+    
+    <!-- Impairment Process -->
+    <g transform="translate(15, 70)">
+      <rect x="0" y="0" width="290" height="140" fill="#ffebee" stroke="#f44336" stroke-width="1" rx="5"/>
+      <text x="145" y="18" text-anchor="middle" fill="#c62828" font-family="Arial, sans-serif" font-size="14" font-weight="bold">NEDSKRIVNING</text>
+      
+      <text x="10" y="35" fill="#333" font-family="Arial, sans-serif" font-size="11">Når kreves nedskrivning?</text>
+      <text x="15" y="50" fill="#666" font-family="Arial, sans-serif" font-size="10">• Markedsverdi &lt; Bokført verdi</text>
+      <text x="15" y="62" fill="#666" font-family="Arial, sans-serif" font-size="10">• Teknologisk foreldelse</text>
+      <text x="15" y="74" fill="#666" font-family="Arial, sans-serif" font-size="10">• Fysisk skade eller ødeleggelse</text>
+      <text x="15" y="86" fill="#666" font-family="Arial, sans-serif" font-size="10">• Redusert bruksevne</text>
+      
+      <rect x="10" y="95" width="270" height="20" fill="#ffcdd2" rx="3"/>
+      <text x="145" y="108" text-anchor="middle" fill="#b71c1c" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Nedskrivning = Bokført verdi - Gjenvinnbar verdi</text>
+      
+      <text x="10" y="125" fill="#333" font-family="Arial, sans-serif" font-size="11">Regnskapsføring:</text>
+      <text x="15" y="138" fill="#666" font-family="Arial, sans-serif" font-size="10">Debet: Nedskrivningskostnad | Kredit: Anleggsmiddel</text>
+    </g>
+    
+    <!-- Revaluation -->
+    <g transform="translate(15, 220)">
+      <rect x="0" y="0" width="290" height="100" fill="#e8f5e8" stroke="#4caf50" stroke-width="1" rx="5"/>
+      <text x="145" y="18" text-anchor="middle" fill="#2e7d32" font-family="Arial, sans-serif" font-size="14" font-weight="bold">OPPSKRIVNING</text>
+      
+      <text x="10" y="35" fill="#333" font-family="Arial, sans-serif" font-size="11">Begrenset tillatelse:</text>
+      <text x="15" y="50" fill="#666" font-family="Arial, sans-serif" font-size="10">• Kun når tillatt etter regnskapsreglene</text>
+      <text x="15" y="62" fill="#666" font-family="Arial, sans-serif" font-size="10">• Dokumentert økning i markedsverdi</text>
+      <text x="15" y="74" fill="#666" font-family="Arial, sans-serif" font-size="10">• Ikke over tidligere nedskrevne beløp</text>
+      <text x="15" y="86" fill="#666" font-family="Arial, sans-serif" font-size="10">• Spesielle krav til dokumentasjon</text>
+    </g>
+    
+    <!-- Annual Assessment -->
+    <g transform="translate(15, 330)">
+      <rect x="0" y="0" width="290" height="120" fill="#fff3e0" stroke="#ff9800" stroke-width="1" rx="5"/>
+      <text x="145" y="18" text-anchor="middle" fill="#e65100" font-family="Arial, sans-serif" font-size="14" font-weight="bold">ÅRLIG VURDERING</text>
+      
+      <text x="10" y="35" fill="#333" font-family="Arial, sans-serif" font-size="11">Kontrollpunkter:</text>
+      
+      <g transform="translate(15, 45)">
+        <circle cx="5" cy="5" r="3" fill="#ff9800"/>
+        <text x="15" y="9" fill="#666" font-family="Arial, sans-serif" font-size="10">Markedsutvikling og priser</text>
+        
+        <circle cx="5" cy="20" r="3" fill="#ff9800"/>
+        <text x="15" y="24" fill="#666" font-family="Arial, sans-serif" font-size="10">Teknologiske endringer</text>
+        
+        <circle cx="5" cy="35" r="3" fill="#ff9800"/>
+        <text x="15" y="39" fill="#666" font-family="Arial, sans-serif" font-size="10">Fysisk tilstand av eiendeler</text>
+        
+        <circle cx="5" cy="50" r="3" fill="#ff9800"/>
+        <text x="15" y="54" fill="#666" font-family="Arial, sans-serif" font-size="10">Endringer i bruksintensitet</text>
+        
+        <circle cx="5" cy="65" r="3" fill="#ff9800"/>
+        <text x="15" y="69" fill="#666" font-family="Arial, sans-serif" font-size="10">Økonomiske indikatorer</text>
+      </g>
+    </g>
+  </g>
+</svg>

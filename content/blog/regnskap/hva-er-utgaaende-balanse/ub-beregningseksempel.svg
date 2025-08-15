@@ -1,0 +1,232 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="eksempelGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f1f5f9;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="url(#bgGradient)"/>
+  
+  <!-- Title -->
+  <text x="400" y="35" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="#1e293b">
+    Utgående Balanse - Beregningseksempler
+  </text>
+  
+  <!-- Example 1: Bank account -->
+  <rect x="50" y="70" width="330" height="250" fill="url(#eksempelGradient)" stroke="#3b82f6" stroke-width="2" rx="10"/>
+  <text x="215" y="95" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#1e40af">
+    Eksempel 1: Bankkonto
+  </text>
+  
+  <!-- IB -->
+  <rect x="70" y="110" width="290" height="30" fill="#dbeafe" stroke="#3b82f6" stroke-width="1" rx="5"/>
+  <text x="80" y="125" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e40af">
+    Inngående Balanse 1. januar:
+  </text>
+  <text x="320" y="125" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="end" fill="#1e40af">
+    Kr 250.000
+  </text>
+  <text x="80" y="135" font-family="Arial, sans-serif" font-size="10" fill="#1e40af">
+    (debetsaldo)
+  </text>
+  
+  <!-- Bevegelser -->
+  <text x="80" y="165" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">
+    Bevegelser i perioden:
+  </text>
+  
+  <rect x="70" y="175" width="290" height="25" fill="#f0f9ff" stroke="#0ea5e9" stroke-width="1" rx="3"/>
+  <text x="80" y="190" font-family="Arial, sans-serif" font-size="11" fill="#0c4a6e">
+    + Innskudd fra kunder:</text>
+  <text x="320" y="190" font-family="Arial, sans-serif" font-size="11" text-anchor="end" fill="#0c4a6e">
+    Kr 500.000
+  </text>
+  
+  <rect x="70" y="205" width="290" height="25" fill="#fef2f2" stroke="#ef4444" stroke-width="1" rx="3"/>
+  <text x="80" y="220" font-family="Arial, sans-serif" font-size="11" fill="#991b1b">
+    - Utbetalinger til leverandører:</text>
+  <text x="320" y="220" font-family="Arial, sans-serif" font-size="11" text-anchor="end" fill="#991b1b">
+    Kr 180.000
+  </text>
+  
+  <rect x="70" y="235" width="290" height="25" fill="#fef2f2" stroke="#ef4444" stroke-width="1" rx="3"/>
+  <text x="80" y="250" font-family="Arial, sans-serif" font-size="11" fill="#991b1b">
+    - Lønnsutbetalinger:</text>
+  <text x="320" y="250" font-family="Arial, sans-serif" font-size="11" text-anchor="end" fill="#991b1b">
+    Kr 120.000
+  </text>
+  
+  <!-- Calculation line -->
+  <line x1="80" y1="270" x2="350" y2="270" stroke="#64748b" stroke-width="1"/>
+  
+  <!-- UB -->
+  <rect x="70" y="280" width="290" height="30" fill="#dcfce7" stroke="#16a34a" stroke-width="2" rx="5"/>
+  <text x="80" y="295" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#166534">
+    Utgående Balanse 31. desember:
+  </text>
+  <text x="320" y="295" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="end" fill="#166534">
+    Kr 450.000
+  </text>
+  <text x="80" y="305" font-family="Arial, sans-serif" font-size="10" fill="#166534">
+    (250.000 + 500.000 - 180.000 - 120.000)
+  </text>
+  
+  <!-- Example 2: Customer receivables -->
+  <rect x="420" y="70" width="330" height="250" fill="url(#eksempelGradient)" stroke="#8b5cf6" stroke-width="2" rx="10"/>
+  <text x="585" y="95" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#7c3aed">
+    Eksempel 2: Kundefordringer
+  </text>
+  
+  <!-- IB -->
+  <rect x="440" y="110" width="290" height="30" fill="#ede9fe" stroke="#8b5cf6" stroke-width="1" rx="5"/>
+  <text x="450" y="125" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#7c3aed">
+    Inngående Balanse 1. januar:
+  </text>
+  <text x="720" y="125" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="end" fill="#7c3aed">
+    Kr 180.000
+  </text>
+  <text x="450" y="135" font-family="Arial, sans-serif" font-size="10" fill="#7c3aed">
+    (debetsaldo)
+  </text>
+  
+  <!-- Movements -->
+  <text x="450" y="165" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">
+    Bevegelser i perioden:
+  </text>
+  
+  <rect x="440" y="175" width="290" height="25" fill="#f0f9ff" stroke="#0ea5e9" stroke-width="1" rx="3"/>
+  <text x="450" y="190" font-family="Arial, sans-serif" font-size="11" fill="#0c4a6e">
+    + Nye salg på kreditt:</text>
+  <text x="720" y="190" font-family="Arial, sans-serif" font-size="11" text-anchor="end" fill="#0c4a6e">
+    Kr 850.000
+  </text>
+  
+  <rect x="440" y="205" width="290" height="25" fill="#fef2f2" stroke="#ef4444" stroke-width="1" rx="3"/>
+  <text x="450" y="220" font-family="Arial, sans-serif" font-size="11" fill="#991b1b">
+    - Innbetalinger fra kunder:</text>
+  <text x="720" y="220" font-family="Arial, sans-serif" font-size="11" text-anchor="end" fill="#991b1b">
+    Kr 720.000
+  </text>
+  
+  <rect x="440" y="235" width="290" height="25" fill="#fef2f2" stroke="#ef4444" stroke-width="1" rx="3"/>
+  <text x="450" y="250" font-family="Arial, sans-serif" font-size="11" fill="#991b1b">
+    - Tap på fordringer:</text>
+  <text x="720" y="250" font-family="Arial, sans-serif" font-size="11" text-anchor="end" fill="#991b1b">
+    Kr 15.000
+  </text>
+  
+  <!-- Calculation line -->
+  <line x1="450" y1="270" x2="720" y2="270" stroke="#64748b" stroke-width="1"/>
+  
+  <!-- UB -->
+  <rect x="440" y="280" width="290" height="30" fill="#dcfce7" stroke="#16a34a" stroke-width="2" rx="5"/>
+  <text x="450" y="295" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#166534">
+    Utgående Balanse 31. desember:
+  </text>
+  <text x="720" y="295" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="end" fill="#166534">
+    Kr 295.000
+  </text>
+  <text x="450" y="305" font-family="Arial, sans-serif" font-size="10" fill="#166534">
+    (180.000 + 850.000 - 720.000 - 15.000)
+  </text>
+  
+  <!-- Example 3: Suppliers debt -->
+  <rect x="50" y="340" width="330" height="230" fill="url(#eksempelGradient)" stroke="#f59e0b" stroke-width="2" rx="10"/>
+  <text x="215" y="365" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#d97706">
+    Eksempel 3: Leverandørgjeld
+  </text>
+  
+  <!-- IB -->
+  <rect x="70" y="380" width="290" height="30" fill="#fef3c7" stroke="#f59e0b" stroke-width="1" rx="5"/>
+  <text x="80" y="395" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#d97706">
+    Inngående Balanse 1. januar:
+  </text>
+  <text x="320" y="395" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="end" fill="#d97706">
+    Kr 150.000
+  </text>
+  <text x="80" y="405" font-family="Arial, sans-serif" font-size="10" fill="#d97706">
+    (kreditsaldo)
+  </text>
+  
+  <!-- Movements -->
+  <text x="80" y="430" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">
+    Bevegelser i perioden:
+  </text>
+  
+  <rect x="70" y="440" width="290" height="25" fill="#f0f9ff" stroke="#0ea5e9" stroke-width="1" rx="3"/>
+  <text x="80" y="455" font-family="Arial, sans-serif" font-size="11" fill="#0c4a6e">
+    + Nye innkjøp på kreditt:</text>
+  <text x="320" y="455" font-family="Arial, sans-serif" font-size="11" text-anchor="end" fill="#0c4a6e">
+    Kr 450.000
+  </text>
+  
+  <rect x="70" y="470" width="290" height="25" fill="#fef2f2" stroke="#ef4444" stroke-width="1" rx="3"/>
+  <text x="80" y="485" font-family="Arial, sans-serif" font-size="11" fill="#991b1b">
+    - Betalinger til leverandører:</text>
+  <text x="320" y="485" font-family="Arial, sans-serif" font-size="11" text-anchor="end" fill="#991b1b">
+    Kr 280.000
+  </text>
+  
+  <!-- Calculation line -->
+  <line x1="80" y1="505" x2="350" y2="505" stroke="#64748b" stroke-width="1"/>
+  
+  <!-- UB -->
+  <rect x="70" y="515" width="290" height="30" fill="#dcfce7" stroke="#16a34a" stroke-width="2" rx="5"/>
+  <text x="80" y="530" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#166534">
+    Utgående Balanse 31. desember:
+  </text>
+  <text x="320" y="530" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="end" fill="#166534">
+    Kr 320.000
+  </text>
+  <text x="80" y="540" font-family="Arial, sans-serif" font-size="10" fill="#166534">
+    (150.000 + 450.000 - 280.000)
+  </text>
+  <text x="80" y="555" font-family="Arial, sans-serif" font-size="10" fill="#166534">
+    (kreditsaldo)
+  </text>
+  
+  <!-- Formula box -->
+  <rect x="420" y="340" width="330" height="230" fill="#f0f9ff" stroke="#0ea5e9" stroke-width="2" rx="10"/>
+  <text x="585" y="365" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0c4a6e">
+    Generelle Formler
+  </text>
+  
+  <!-- Debet kontoer -->
+  <rect x="440" y="380" width="290" height="60" fill="#ffffff" stroke="#0ea5e9" stroke-width="1" rx="5"/>
+  <text x="585" y="400" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0c4a6e">
+    For Debet Normal Balanse:
+  </text>
+  <text x="585" y="420" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#075985">
+    UB = IB + Debetbevegelser - Kreditbevegelser
+  </text>
+  <text x="585" y="435" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#075985">
+    (Aktiva, kostnader)
+  </text>
+  
+  <!-- Kredit kontoer -->
+  <rect x="440" y="450" width="290" height="60" fill="#ffffff" stroke="#0ea5e9" stroke-width="1" rx="5"/>
+  <text x="585" y="470" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0c4a6e">
+    For Kredit Normal Balanse:
+  </text>
+  <text x="585" y="490" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#075985">
+    UB = IB + Kreditbevegelser - Debetbevegelser
+  </text>
+  <text x="585" y="505" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#075985">
+    (Passiva, inntekter)
+  </text>
+  
+  <!-- Key principle -->
+  <rect x="440" y="520" width="290" height="40" fill="#fef3c7" stroke="#f59e0b" stroke-width="1" rx="5"/>
+  <text x="585" y="535" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#92400e">
+    Viktig prinsipp:
+  </text>
+  <text x="585" y="550" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#451a03">
+    UB periode n = IB periode n+1
+  </text>
+</svg>

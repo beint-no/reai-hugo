@@ -1,0 +1,104 @@
+<svg width="900" height="500" viewBox="0 0 900 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="900" height="500" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="450" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">BankGiro Prosess</text>
+  
+  <!-- Step 1: Fakturering -->
+  <rect x="50" y="70" width="120" height="80" rx="8" fill="#3498db" stroke="#2980b9" stroke-width="2"/>
+  <text x="110" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">STEG 1</text>
+  <text x="110" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">Fakturering</text>
+  <text x="110" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Leverandør sender</text>
+  <text x="110" y="138" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">faktura med OCR</text>
+  
+  <!-- Step 2: Betaling -->
+  <rect x="220" y="70" width="120" height="80" rx="8" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+  <text x="280" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">STEG 2</text>
+  <text x="280" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">Betaling</text>
+  <text x="280" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Kunde betaler</text>
+  <text x="280" y="138" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">via bank</text>
+  
+  <!-- Step 3: Overføring -->
+  <rect x="390" y="70" width="120" height="80" rx="8" fill="#f39c12" stroke="#e67e22" stroke-width="2"/>
+  <text x="450" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">STEG 3</text>
+  <text x="450" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">Overføring</text>
+  <text x="450" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Bank overfører</text>
+  <text x="450" y="138" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">til leverandør</text>
+  
+  <!-- Step 4: Avstemming -->
+  <rect x="560" y="70" width="120" height="80" rx="8" fill="#27ae60" stroke="#229954" stroke-width="2"/>
+  <text x="620" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">STEG 4</text>
+  <text x="620" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">Avstemming</text>
+  <text x="620" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">OCR sikrer</text>
+  <text x="620" y="138" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">automatisk match</text>
+  
+  <!-- Step 5: Registrering -->
+  <rect x="730" y="70" width="120" height="80" rx="8" fill="#9b59b6" stroke="#8e44ad" stroke-width="2"/>
+  <text x="790" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">STEG 5</text>
+  <text x="790" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">Registrering</text>
+  <text x="790" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Automatisk</text>
+  <text x="790" y="138" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">bokføring</text>
+  
+  <!-- Arrows between steps -->
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>
+    </marker>
+  </defs>
+  
+  <line x1="170" y1="110" x2="220" y2="110" stroke="#34495e" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="340" y1="110" x2="390" y2="110" stroke="#34495e" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="510" y1="110" x2="560" y2="110" stroke="#34495e" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="680" y1="110" x2="730" y2="110" stroke="#34495e" stroke-width="2" marker-end="url(#arrow)"/>
+  
+  <!-- Detailed process flow -->
+  <text x="450" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">Detaljert Prosessflyt</text>
+  
+  <!-- Leverandør -->
+  <rect x="50" y="230" width="150" height="60" rx="8" fill="#3498db" stroke="#2980b9" stroke-width="2"/>
+  <text x="125" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">LEVERANDØR</text>
+  <text x="125" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Genererer OCR-nummer</text>
+  <text x="125" y="278" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Sender faktura</text>
+  
+  <!-- Kunde -->
+  <rect x="250" y="230" width="150" height="60" rx="8" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+  <text x="325" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">KUNDE</text>
+  <text x="325" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Mottar faktura</text>
+  <text x="325" y="278" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Betaler med OCR</text>
+  
+  <!-- Bank -->
+  <rect x="450" y="230" width="150" height="60" rx="8" fill="#f39c12" stroke="#e67e22" stroke-width="2"/>
+  <text x="525" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">BANK</text>
+  <text x="525" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Behandler betaling</text>
+  <text x="525" y="278" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Overfører midler</text>
+  
+  <!-- Nets -->
+  <rect x="650" y="230" width="150" height="60" rx="8" fill="#27ae60" stroke="#229954" stroke-width="2"/>
+  <text x="725" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">NETS</text>
+  <text x="725" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Formidler data</text>
+  <text x="725" y="278" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Rapporterer</text>
+  
+  <!-- Flow arrows -->
+  <line x1="200" y1="260" x2="250" y2="260" stroke="#34495e" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="400" y1="260" x2="450" y2="260" stroke="#34495e" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="600" y1="260" x2="650" y2="260" stroke="#34495e" stroke-width="2" marker-end="url(#arrow)"/>
+  
+  <!-- OCR number flow -->
+  <rect x="200" y="330" width="500" height="50" rx="8" fill="#9b59b6" stroke="#8e44ad" stroke-width="2"/>
+  <text x="450" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">OCR-NUMMER FLYT</text>
+  <text x="450" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Leverandør → Kunde → Bank → Nets → Leverandør (Avstemming)</text>
+  
+  <!-- Benefits box -->
+  <rect x="50" y="400" width="800" height="80" rx="8" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2"/>
+  <text x="450" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">Fordeler med BankGiro</text>
+  <text x="150" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#34495e">Automatisk avstemming</text>
+  <text x="350" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#34495e">Redusert manuelt arbeid</text>
+  <text x="550" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#34495e">Raskere innbetaling</text>
+  <text x="750" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#34495e">Færre feil</text>
+  
+  <text x="150" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#34495e">Bedre arbeidskapital</text>
+  <text x="350" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#34495e">Lavere kostnader</text>
+  <text x="550" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#34495e">Enkel integrering</text>
+  <text x="750" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#34495e">Trygg betaling</text>
+</svg>

@@ -1,0 +1,187 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="greenGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="blueGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#007bff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0056b3;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="purpleGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6f42c1;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#5a32a3;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="orangeGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#fd7e14;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e55a00;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="url(#bgGradient)"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#212529">
+    Fordeler med Utkontraktering for Virksomheter
+  </text>
+  
+  <!-- Central company circle -->
+  <circle cx="400" cy="300" r="80" fill="url(#blueGradient)"/>
+  <text x="400" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#ffffff">
+    DERES
+  </text>
+  <text x="400" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#ffffff">
+    BEDRIFT
+  </text>
+  
+  <!-- Benefit 1: Kostnadsbesparelser (top left) -->
+  <circle cx="200" cy="150" r="60" fill="url(#greenGradient)"/>
+  <text x="200" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#ffffff">
+    KOSTNADS-
+  </text>
+  <text x="200" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#ffffff">
+    BESPARELSER
+  </text>
+  
+  <rect x="100" y="80" width="200" height="60" fill="#d4edda" stroke="#28a745" stroke-width="2" rx="5"/>
+  <text x="200" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#155724">
+    40-70% lavere totalkostnader
+  </text>
+  <text x="110" y="115" font-family="Arial, sans-serif" font-size="9" fill="#155724">
+    • Eliminerer lønns- og sosiale kostnader
+  </text>
+  <text x="110" y="127" font-family="Arial, sans-serif" font-size="9" fill="#155724">
+    • Reduserte infrastruktur- og systemkostnader
+  </text>
+  
+  <!-- Connection line -->
+  <line x1="260" y1="180" x2="340" y2="240" stroke="#28a745" stroke-width="3"/>
+  
+  <!-- Benefit 2: Ekspertise (top right) -->
+  <circle cx="600" cy="150" r="60" fill="url(#purpleGradient)"/>
+  <text x="600" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#ffffff">
+    SPESIALISERT
+  </text>
+  <text x="600" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#ffffff">
+    EKSPERTISE
+  </text>
+  
+  <rect x="500" y="80" width="200" height="60" fill="#e2e3f1" stroke="#6f42c1" stroke-width="2" rx="5"/>
+  <text x="600" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#4c2a85">
+    Tilgang til fagkompetanse
+  </text>
+  <text x="510" y="115" font-family="Arial, sans-serif" font-size="9" fill="#4c2a85">
+    • Dybdekunnskap innen spesifikke områder
+  </text>
+  <text x="510" y="127" font-family="Arial, sans-serif" font-size="9" fill="#4c2a85">
+    • Oppdatert kunnskap om regelverksendringer
+  </text>
+  
+  <!-- Connection line -->
+  <line x1="540" y1="180" x2="460" y2="240" stroke="#6f42c1" stroke-width="3"/>
+  
+  <!-- Benefit 3: Fokus på kjernevirksomhet (bottom left) -->
+  <circle cx="200" cy="450" r="60" fill="url(#orangeGradient)"/>
+  <text x="200" y="440" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#ffffff">
+    FOKUS PÅ
+  </text>
+  <text x="200" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#ffffff">
+    KJERNE-
+  </text>
+  <text x="200" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#ffffff">
+    VIRKSOMHET
+  </text>
+  
+  <rect x="100" y="520" width="200" height="60" fill="#fff3cd" stroke="#fd7e14" stroke-width="2" rx="5"/>
+  <text x="200" y="540" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#856404">
+    Frigjør ressurser til strategiske aktiviteter
+  </text>
+  <text x="110" y="555" font-family="Arial, sans-serif" font-size="9" fill="#856404">
+    • Mer tid til salg og markedsføring
+  </text>
+  <text x="110" y="567" font-family="Arial, sans-serif" font-size="9" fill="#856404">
+    • Fokus på produktutvikling og innovasjon
+  </text>
+  
+  <!-- Connection line -->
+  <line x1="260" y1="420" x2="340" y2="360" stroke="#fd7e14" stroke-width="3"/>
+  
+  <!-- Benefit 4: Fleksibilitet (bottom right) -->
+  <circle cx="600" cy="450" r="60" fill="#17a2b8"/>
+  <text x="600" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#ffffff">
+    FLEKSIBILITET
+  </text>
+  <text x="600" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#ffffff">
+    &amp; SKALERING
+  </text>
+  
+  <rect x="500" y="520" width="200" height="60" fill="#d1ecf1" stroke="#17a2b8" stroke-width="2" rx="5"/>
+  <text x="600" y="540" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#0c5460">
+    Tilpasning etter behov og aktivitetsnivå
+  </text>
+  <text x="510" y="555" font-family="Arial, sans-serif" font-size="9" fill="#0c5460">
+    • Rask oppskalering ved økt aktivitet
+  </text>
+  <text x="510" y="567" font-family="Arial, sans-serif" font-size="9" fill="#0c5460">
+    • Nedskalering i roligere perioder
+  </text>
+  
+  <!-- Connection line -->
+  <line x1="540" y1="420" x2="460" y2="360" stroke="#17a2b8" stroke-width="3"/>
+  
+  <!-- Additional benefits in center area -->
+  <rect x="320" y="200" width="160" height="80" fill="#f8f9fa" stroke="#6c757d" stroke-width="1" rx="5"/>
+  <text x="400" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
+    ANDRE FORDELER
+  </text>
+  <text x="330" y="240" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    • Raskere implementering
+  </text>
+  <text x="330" y="252" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    • Redusert rekrutteringsrisiko
+  </text>
+  <text x="330" y="264" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    • Tilgang til moderne teknologi
+  </text>
+  
+  <!-- Success metrics -->
+  <rect x="50" y="300" width="120" height="100" fill="#e7f3ff" stroke="#007bff" stroke-width="2" rx="5"/>
+  <text x="110" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#004085">
+    TYPISKE RESULTATER
+  </text>
+  <text x="60" y="340" font-family="Arial, sans-serif" font-size="10" fill="#004085">
+    📊 40-70% kostnadsreduksjon
+  </text>
+  <text x="60" y="355" font-family="Arial, sans-serif" font-size="10" fill="#004085">
+    ⏱️ 50% raskere prosesser
+  </text>
+  <text x="60" y="370" font-family="Arial, sans-serif" font-size="10" fill="#004085">
+    📈 Økt fokus på vekst
+  </text>
+  <text x="60" y="385" font-family="Arial, sans-serif" font-size="10" fill="#004085">
+    🎯 Bedre kvalitet og nøyaktighet
+  </text>
+  
+  <!-- ROI indicator -->
+  <rect x="630" y="300" width="120" height="100" fill="#e8f5e8" stroke="#28a745" stroke-width="2" rx="5"/>
+  <text x="690" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#155724">
+    AVKASTNING (ROI)
+  </text>
+  <text x="640" y="340" font-family="Arial, sans-serif" font-size="10" fill="#155724">
+    💰 Besparelser fra dag 1
+  </text>
+  <text x="640" y="355" font-family="Arial, sans-serif" font-size="10" fill="#155724">
+    📊 200-400% ROI første år
+  </text>
+  <text x="640" y="370" font-family="Arial, sans-serif" font-size="10" fill="#155724">
+    ⚡ Rask tilbakebetaling
+  </text>
+  <text x="640" y="385" font-family="Arial, sans-serif" font-size="10" fill="#155724">
+    📈 Langsiktig verdiskaping
+  </text>
+</svg>

@@ -1,0 +1,127 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="processGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="2" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Title -->
+  <rect x="0" y="0" width="800" height="60" fill="url(#processGradient)"/>
+  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
+    Forskuddsbetaling Prosess
+  </text>
+  
+  <!-- Step 1: Agreement -->
+  <rect x="50" y="100" width="150" height="80" fill="white" stroke="#0066cc" stroke-width="2" rx="10" filter="url(#shadow)"/>
+  <text x="125" y="125" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0066cc">
+    1. Avtale
+  </text>
+  <text x="125" y="145" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">
+    Kontrakt med
+  </text>
+  <text x="125" y="160" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">
+    forskuddsklausul
+  </text>
+  
+  <!-- Arrow 1 -->
+  <polygon points="210,140 250,140 240,130 250,140 240,150" fill="#666" stroke="#666" stroke-width="1"/>
+  
+  <!-- Step 2: Payment -->
+  <rect x="270" y="100" width="150" height="80" fill="white" stroke="#28a745" stroke-width="2" rx="10" filter="url(#shadow)"/>
+  <text x="345" y="125" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#28a745">
+    2. Forskudd
+  </text>
+  <text x="345" y="145" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">
+    Kjøper betaler
+  </text>
+  <text x="345" y="160" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">
+    på forhånd
+  </text>
+  
+  <!-- Arrow 2 -->
+  <polygon points="430,140 470,140 460,130 470,140 460,150" fill="#666" stroke="#666" stroke-width="1"/>
+  
+  <!-- Step 3: Production -->
+  <rect x="490" y="100" width="150" height="80" fill="white" stroke="#ffc107" stroke-width="2" rx="10" filter="url(#shadow)"/>
+  <text x="565" y="125" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffc107">
+    3. Produksjon
+  </text>
+  <text x="565" y="145" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">
+    Selger utfører
+  </text>
+  <text x="565" y="160" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">
+    arbeid/produksjon
+  </text>
+  
+  <!-- Arrow down -->
+  <polygon points="565,190 565,230 555,220 565,230 575,220" fill="#666" stroke="#666" stroke-width="1"/>
+  
+  <!-- Step 4: Delivery -->
+  <rect x="490" y="250" width="150" height="80" fill="white" stroke="#dc3545" stroke-width="2" rx="10" filter="url(#shadow)"/>
+  <text x="565" y="275" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#dc3545">
+    4. Levering
+  </text>
+  <text x="565" y="295" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">
+    Vare/tjeneste
+  </text>
+  <text x="565" y="310" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">
+    leveres til kjøper
+  </text>
+  
+  <!-- Arrow left -->
+  <polygon points="480,290 440,290 450,280 440,290 450,300" fill="#666" stroke="#666" stroke-width="1"/>
+  
+  <!-- Step 5: Completion -->
+  <rect x="270" y="250" width="150" height="80" fill="white" stroke="#6f42c1" stroke-width="2" rx="10" filter="url(#shadow)"/>
+  <text x="345" y="275" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#6f42c1">
+    5. Fullføring
+  </text>
+  <text x="345" y="295" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">
+    Transaksjon
+  </text>
+  <text x="345" y="310" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">
+    fullført
+  </text>
+  
+  <!-- Key participants -->
+  <rect x="50" y="370" width="300" height="100" fill="#e8f4fd" stroke="#0066cc" stroke-width="1" rx="5"/>
+  <text x="200" y="395" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0066cc">
+    Kjøper (Kunde)
+  </text>
+  <text x="70" y="415" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Betaler forskudd før levering
+  </text>
+  <text x="70" y="430" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Bærer leveringsrisiko
+  </text>
+  <text x="70" y="445" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Kan få rabatt for forskuddsbetaling
+  </text>
+  <text x="70" y="460" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Sikrer tilgang til vare/tjeneste
+  </text>
+  
+  <rect x="450" y="370" width="300" height="100" fill="#f8f9fa" stroke="#28a745" stroke-width="1" rx="5"/>
+  <text x="600" y="395" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#28a745">
+    Selger (Leverandør)
+  </text>
+  <text x="470" y="415" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Mottar betaling før levering
+  </text>
+  <text x="470" y="430" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Forbedrer kontantstrøm
+  </text>
+  <text x="470" y="445" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Reduserer kredittrisiko
+  </text>
+  <text x="470" y="460" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Har leveringsforpliktelse
+  </text>
+</svg>

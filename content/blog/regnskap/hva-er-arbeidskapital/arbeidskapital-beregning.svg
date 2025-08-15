@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="400">
+  <style>
+    .title-text { font-family: Arial, sans-serif; font-size: 24px; font-weight: bold; fill: #2d3748; text-anchor: middle; }
+    .header-text { font-family: Arial, sans-serif; font-size: 18px; font-weight: bold; fill: #2d3748; text-anchor: middle; }
+    .item-text { font-family: Arial, sans-serif; font-size: 14px; fill: #4a5568; }
+    .value-text { font-family: Arial, sans-serif; font-size: 14px; font-weight: bold; fill: #2d3748; }
+    .formula-text { font-family: Arial, sans-serif; font-size: 20px; font-weight: bold; fill: #1e88e5; text-anchor: middle; }
+    .result-text { font-family: Arial, sans-serif; font-size: 18px; font-weight: bold; fill: #38b2ac; text-anchor: middle; }
+    .positive-bg { fill: #e6fffa; stroke: #38b2ac; stroke-width: 2; }
+    .negative-bg { fill: #fed7d7; stroke: #e53e3e; stroke-width: 2; }
+    .neutral-bg { fill: #f7fafc; stroke: #a0aec0; stroke-width: 2; }
+  </style>
+  
+  <!-- Background -->
+  <rect width="700" height="400" fill="#ffffff"/>
+  
+  <!-- Title -->
+  <text x="350" y="30" class="title-text">Beregning av Arbeidskapital</text>
+  
+  <!-- Step 1: Omløpsmidler -->
+  <rect x="50" y="60" width="250" height="120" class="positive-bg" rx="8"/>
+  <text x="175" y="85" class="header-text">Steg 1: Omløpsmidler</text>
+  
+  <text x="70" y="110" class="item-text">Kontanter og bank:</text>
+  <text x="220" y="110" class="value-text">500.000</text>
+  
+  <text x="70" y="130" class="item-text">Kundefordringer:</text>
+  <text x="220" y="130" class="value-text">1.200.000</text>
+  
+  <text x="70" y="150" class="item-text">Varelager:</text>
+  <text x="220" y="150" class="value-text">800.000</text>
+  
+  <line x1="70" y1="160" x2="280" y2="160" stroke="#38b2ac" stroke-width="2"/>
+  <text x="70" y="175" class="item-text" font-weight="bold">Sum omløpsmidler:</text>
+  <text x="220" y="175" class="value-text" fill="#38b2ac">2.500.000</text>
+  
+  <!-- Step 2: Kortsiktig gjeld -->
+  <rect x="400" y="60" width="250" height="120" class="negative-bg" rx="8"/>
+  <text x="525" y="85" class="header-text">Steg 2: Kortsiktig Gjeld</text>
+  
+  <text x="420" y="110" class="item-text">Leverandørgjeld:</text>
+  <text x="570" y="110" class="value-text">800.000</text>
+  
+  <text x="420" y="130" class="item-text">Kortsiktige lån:</text>
+  <text x="570" y="130" class="value-text">400.000</text>
+  
+  <text x="420" y="150" class="item-text">Påløpte kostnader:</text>
+  <text x="570" y="150" class="value-text">300.000</text>
+  
+  <line x1="420" y1="160" x2="630" y2="160" stroke="#e53e3e" stroke-width="2"/>
+  <text x="420" y="175" class="item-text" font-weight="bold">Sum kortsiktig gjeld:</text>
+  <text x="570" y="175" class="value-text" fill="#e53e3e">1.500.000</text>
+  
+  <!-- Formula -->
+  <rect x="150" y="220" width="400" height="50" class="neutral-bg" rx="8"/>
+  <text x="350" y="250" class="formula-text">2.500.000 - 1.500.000 = 1.000.000</text>
+  
+  <!-- Arrow from omløpsmidler -->
+  <path d="M 175 190 L 175 210 L 250 210 L 250 230" stroke="#38b2ac" stroke-width="3" fill="none" marker-end="url(#arrowhead-green)"/>
+  
+  <!-- Arrow from kortsiktig gjeld -->
+  <path d="M 525 190 L 525 210 L 450 210 L 450 230" stroke="#e53e3e" stroke-width="3" fill="none" marker-end="url(#arrowhead-red)"/>
+  
+  <!-- Result -->
+  <rect x="200" y="300" width="300" height="60" class="positive-bg" rx="8"/>
+  <text x="350" y="325" class="header-text">Arbeidskapital</text>
+  <text x="350" y="350" class="result-text">1.000.000 NOK</text>
+  
+  <!-- Arrow to result -->
+  <path d="M 350 280 L 350 290" stroke="#1e88e5" stroke-width="3" fill="none" marker-end="url(#arrowhead-blue)"/>
+  
+  <!-- Interpretation -->
+  <text x="350" y="385" class="item-text" text-anchor="middle">Positiv arbeidskapital = God likviditet</text>
+  
+  <!-- Arrow markers -->
+  <defs>
+    <marker id="arrowhead-green" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#38b2ac"/>
+    </marker>
+    <marker id="arrowhead-red" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#e53e3e"/>
+    </marker>
+    <marker id="arrowhead-blue" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#1e88e5"/>
+    </marker>
+  </defs>
+</svg>

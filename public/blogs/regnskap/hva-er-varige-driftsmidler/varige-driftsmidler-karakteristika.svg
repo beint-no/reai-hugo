@@ -1,0 +1,112 @@
+<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cardGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="#f1f5f9"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e40af">
+    Karakteristika ved Varige Driftsmidler
+  </text>
+  
+  <!-- Central concept -->
+  <circle cx="400" cy="250" r="80" fill="#3b82f6" stroke="#1e40af" stroke-width="3"/>
+  <text x="400" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    VARIGE
+  </text>
+  <text x="400" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    DRIFTSMIDLER
+  </text>
+  
+  <!-- Characteristic 1: Langsiktig karakter -->
+  <g transform="translate(100, 100)">
+    <rect x="0" y="0" width="180" height="80" fill="url(#cardGradient)" rx="8" stroke="#3b82f6" stroke-width="2"/>
+    <circle cx="25" cy="25" r="12" fill="#10b981"/>
+    <text x="25" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">1</text>
+    <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e40af">
+      Langsiktig karakter
+    </text>
+    <text x="90" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#64748b">
+      Holdes i flere år
+    </text>
+    <text x="90" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#64748b">
+      (&gt; 1 regnskapsperiode)
+    </text>
+  </g>
+  
+  <!-- Characteristic 2: Produktiv bruk -->
+  <g transform="translate(520, 100)">
+    <rect x="0" y="0" width="180" height="80" fill="url(#cardGradient)" rx="8" stroke="#3b82f6" stroke-width="2"/>
+    <circle cx="25" cy="25" r="12" fill="#f59e0b"/>
+    <text x="25" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">2</text>
+    <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e40af">
+      Produktiv bruk
+    </text>
+    <text x="90" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#64748b">
+      Bidrar til
+    </text>
+    <text x="90" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#64748b">
+      inntektsgenerering
+    </text>
+  </g>
+  
+  <!-- Characteristic 3: Begrenset likviditet -->
+  <g transform="translate(100, 320)">
+    <rect x="0" y="0" width="180" height="80" fill="url(#cardGradient)" rx="8" stroke="#3b82f6" stroke-width="2"/>
+    <circle cx="25" cy="25" r="12" fill="#ef4444"/>
+    <text x="25" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">3</text>
+    <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e40af">
+      Begrenset likviditet
+    </text>
+    <text x="90" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#64748b">
+      Ikke lett konverterbare
+    </text>
+    <text x="90" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#64748b">
+      til kontanter
+    </text>
+  </g>
+  
+  <!-- Characteristic 4: Avskrivbare -->
+  <g transform="translate(520, 320)">
+    <rect x="0" y="0" width="180" height="80" fill="url(#cardGradient)" rx="8" stroke="#3b82f6" stroke-width="2"/>
+    <circle cx="25" cy="25" r="12" fill="#8b5cf6"/>
+    <text x="25" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">4</text>
+    <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e40af">
+      Avskrivbare
+    </text>
+    <text x="90" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#64748b">
+      Verdi reduseres
+    </text>
+    <text x="90" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#64748b">
+      systematisk over tid
+    </text>
+  </g>
+  
+  <!-- Characteristic 5: Betydelig verdi -->
+  <g transform="translate(310, 420)">
+    <rect x="0" y="0" width="180" height="80" fill="url(#cardGradient)" rx="8" stroke="#3b82f6" stroke-width="2"/>
+    <circle cx="25" cy="25" r="12" fill="#06b6d4"/>
+    <text x="25" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">5</text>
+    <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e40af">
+      Betydelig verdi
+    </text>
+    <text x="90" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#64748b">
+      Ofte store
+    </text>
+    <text x="90" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#64748b">
+      investeringer
+    </text>
+  </g>
+  
+  <!-- Connection lines -->
+  <line x1="320" y1="250" x2="280" y2="140" stroke="#94a3b8" stroke-width="2" stroke-dasharray="5,5"/>
+  <line x1="480" y1="250" x2="520" y2="140" stroke="#94a3b8" stroke-width="2" stroke-dasharray="5,5"/>
+  <line x1="320" y1="250" x2="280" y2="360" stroke="#94a3b8" stroke-width="2" stroke-dasharray="5,5"/>
+  <line x1="480" y1="250" x2="520" y2="360" stroke="#94a3b8" stroke-width="2" stroke-dasharray="5,5"/>
+  <line x1="400" y1="330" x2="400" y2="420" stroke="#94a3b8" stroke-width="2" stroke-dasharray="5,5"/>
+</svg>

@@ -1,0 +1,193 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="greenGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2E7D32;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="blueGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1565C0;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="purpleGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#9C27B0;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#6A1B9A;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+    ESG i Tilbudsprosessen
+  </text>
+  
+  <!-- Central Process Flow -->
+  <g transform="translate(400, 300)">
+    <!-- Central Circle -->
+    <circle cx="0" cy="0" r="60" fill="url(#blueGradient)" stroke="#fff" stroke-width="3"/>
+    <text x="0" y="-8" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      TILBUDS-
+    </text>
+    <text x="0" y="8" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      PROSESS
+    </text>
+  </g>
+  
+  <!-- Environmental (E) Section -->
+  <g transform="translate(150, 150)">
+    <circle cx="0" cy="0" r="80" fill="url(#greenGradient)" stroke="#fff" stroke-width="3"/>
+    <text x="0" y="-20" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      E
+    </text>
+    <text x="0" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      MILJØ
+    </text>
+    <text x="0" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      ENVIRONMENTAL
+    </text>
+    
+    <!-- Environmental factors -->
+    <g transform="translate(0, 120)">
+      <rect x="-80" y="0" width="160" height="100" fill="#E8F5E8" stroke="#4CAF50" stroke-width="2" rx="5"/>
+      <text x="0" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2E7D32">
+        Miljøkriterier
+      </text>
+      <text x="0" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2E7D32">
+        • Karbonfotavtrykk
+      </text>
+      <text x="0" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2E7D32">
+        • Energieffektivitet
+      </text>
+      <text x="0" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2E7D32">
+        • Avfallsreduksjon
+      </text>
+      <text x="0" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2E7D32">
+        • Sirkulær økonomi
+      </text>
+    </g>
+  </g>
+  
+  <!-- Social (S) Section -->
+  <g transform="translate(650, 150)">
+    <circle cx="0" cy="0" r="80" fill="url(#blueGradient)" stroke="#fff" stroke-width="3"/>
+    <text x="0" y="-20" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      S
+    </text>
+    <text x="0" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      SOSIALT
+    </text>
+    <text x="0" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      SOCIAL
+    </text>
+    
+    <!-- Social factors -->
+    <g transform="translate(0, 120)">
+      <rect x="-80" y="0" width="160" height="100" fill="#E3F2FD" stroke="#2196F3" stroke-width="2" rx="5"/>
+      <text x="0" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1565C0">
+        Sosiale krav
+      </text>
+      <text x="0" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#1565C0">
+        • Arbeiderrettigheter
+      </text>
+      <text x="0" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#1565C0">
+        • Mangfold &amp; inkludering
+      </text>
+      <text x="0" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#1565C0">
+        • Lokalsamfunn
+      </text>
+      <text x="0" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#1565C0">
+        • Menneskerettigheter
+      </text>
+    </g>
+  </g>
+  
+  <!-- Governance (G) Section -->
+  <g transform="translate(400, 450)">
+    <circle cx="0" cy="0" r="80" fill="url(#purpleGradient)" stroke="#fff" stroke-width="3"/>
+    <text x="0" y="-20" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      G
+    </text>
+    <text x="0" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      STYRING
+    </text>
+    <text x="0" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      GOVERNANCE
+    </text>
+    
+    <!-- Governance factors -->
+    <g transform="translate(0, 120)">
+      <rect x="-80" y="0" width="160" height="100" fill="#F3E5F5" stroke="#9C27B0" stroke-width="2" rx="5"/>
+      <text x="0" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#6A1B9A">
+        Styringskrav
+      </text>
+      <text x="0" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6A1B9A">
+        • Etikk &amp; compliance
+      </text>
+      <text x="0" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6A1B9A">
+        • Transparent rapportering
+      </text>
+      <text x="0" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6A1B9A">
+        • Risikostyring
+      </text>
+      <text x="0" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6A1B9A">
+        • Korrupsjonsbekjempelse
+      </text>
+    </g>
+  </g>
+  
+  <!-- Connecting arrows -->
+  <g fill="none" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)">
+    <!-- Define arrow marker -->
+    <defs>
+      <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+        <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>
+      </marker>
+    </defs>
+    
+    <!-- Arrows connecting ESG to central process -->
+    <path d="M 220 210 L 340 260" stroke-dasharray="5,5"/>
+    <path d="M 580 210 L 460 260" stroke-dasharray="5,5"/>
+    <path d="M 400 380 L 400 360" stroke-dasharray="5,5"/>
+  </g>
+  
+  <!-- Integration indicators -->
+  <g transform="translate(50, 350)">
+    <rect x="0" y="0" width="200" height="80" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="5"/>
+    <text x="100" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#856404">
+      ESG-integrering
+    </text>
+    <text x="100" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#856404">
+      • Evaluering av tilbud
+    </text>
+    <text x="100" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#856404">
+      • Leverandørvalg
+    </text>
+    <text x="100" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#856404">
+      • Kontraktsbetingelser
+    </text>
+  </g>
+  
+  <g transform="translate(550, 350)">
+    <rect x="0" y="0" width="200" height="80" fill="#d1ecf1" stroke="#17a2b8" stroke-width="2" rx="5"/>
+    <text x="100" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#0c5460">
+      Rapportering
+    </text>
+    <text x="100" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#0c5460">
+      • EU-taksonomi
+    </text>
+    <text x="100" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#0c5460">
+      • GRI-standarder
+    </text>
+    <text x="100" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#0c5460">
+      • Åpenhetsloven
+    </text>
+  </g>
+  
+  <!-- Bottom process flow -->
+  <g transform="translate(400, 580)">
+    <text x="0" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+      Bærekraftig tilbudsprosess med integrerte ESG-kriterier
+    </text>
+  </g>
+</svg>

@@ -1,0 +1,260 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+    Bilagsbehandlingsprosessen fra Mottak til Arkivering
+  </text>
+  
+  <!-- Process flow -->
+  <!-- Step 1: Receipt -->
+  <g transform="translate(100, 120)">
+    <circle cx="0" cy="0" r="40" fill="#3498db" opacity="0.2" stroke="#3498db" stroke-width="3"/>
+    <text x="0" y="-5" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#3498db">
+      1
+    </text>
+    <text x="0" y="8" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      MOTTAK
+    </text>
+    <text x="0" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+      Mottak og Registrering
+    </text>
+    <text x="0" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">
+      Bilag mottas og registreres
+    </text>
+    <text x="0" y="88" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">
+      i systemet med unikt nummer
+    </text>
+  </g>
+  
+  <!-- Step 2: Content Control -->
+  <g transform="translate(300, 120)">
+    <circle cx="0" cy="0" r="40" fill="#f39c12" opacity="0.2" stroke="#f39c12" stroke-width="3"/>
+    <text x="0" y="-5" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#f39c12">
+      2
+    </text>
+    <text x="0" y="8" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      SAKLIG
+    </text>
+    <text x="0" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+      Saklig Kontroll
+    </text>
+    <text x="0" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">
+      Verifisering av at varen/
+    </text>
+    <text x="0" y="88" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">
+      tjenesten er levert
+    </text>
+  </g>
+  
+  <!-- Step 3: Accounting Control -->
+  <g transform="translate(500, 120)">
+    <circle cx="0" cy="0" r="40" fill="#9b59b6" opacity="0.2" stroke="#9b59b6" stroke-width="3"/>
+    <text x="0" y="-5" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#9b59b6">
+      3
+    </text>
+    <text x="0" y="8" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      REGNSKAP
+    </text>
+    <text x="0" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+      Regnskapsmessig Kontroll
+    </text>
+    <text x="0" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">
+      Kontroll av kontering
+    </text>
+    <text x="0" y="88" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">
+      og MVA-behandling
+    </text>
+  </g>
+  
+  <!-- Step 4: Approval -->
+  <g transform="translate(700, 120)">
+    <circle cx="0" cy="0" r="40" fill="#27ae60" opacity="0.2" stroke="#27ae60" stroke-width="3"/>
+    <text x="0" y="-5" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#27ae60">
+      4
+    </text>
+    <text x="0" y="8" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      GODKJENN
+    </text>
+    <text x="0" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+      Attestering
+    </text>
+    <text x="0" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">
+      Godkjenning av
+    </text>
+    <text x="0" y="88" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">
+      autorisert person
+    </text>
+  </g>
+  
+  <!-- Step 5: Booking -->
+  <g transform="translate(200, 320)">
+    <circle cx="0" cy="0" r="40" fill="#e74c3c" opacity="0.2" stroke="#e74c3c" stroke-width="3"/>
+    <text x="0" y="-5" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e74c3c">
+      5
+    </text>
+    <text x="0" y="8" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      BOKFØR
+    </text>
+    <text x="0" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+      Bokføring
+    </text>
+    <text x="0" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">
+      Registrering i
+    </text>
+    <text x="0" y="88" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">
+      regnskapet
+    </text>
+  </g>
+  
+  <!-- Step 6: Payment -->
+  <g transform="translate(400, 320)">
+    <circle cx="0" cy="0" r="40" fill="#1abc9c" opacity="0.2" stroke="#1abc9c" stroke-width="3"/>
+    <text x="0" y="-5" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1abc9c">
+      6
+    </text>
+    <text x="0" y="8" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      BETAL
+    </text>
+    <text x="0" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+      Betaling
+    </text>
+    <text x="0" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">
+      Utbetaling til
+    </text>
+    <text x="0" y="88" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">
+      leverandør
+    </text>
+  </g>
+  
+  <!-- Step 7: Archiving -->
+  <g transform="translate(600, 320)">
+    <circle cx="0" cy="0" r="40" fill="#34495e" opacity="0.2" stroke="#34495e" stroke-width="3"/>
+    <text x="0" y="-5" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#34495e">
+      7
+    </text>
+    <text x="0" y="8" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      ARKIVER
+    </text>
+    <text x="0" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+      Arkivering
+    </text>
+    <text x="0" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">
+      Lagring for fremtidig
+    </text>
+    <text x="0" y="88" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">
+      referanse (5 år)
+    </text>
+  </g>
+  
+  <!-- Flow arrows -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#7f8c8d"/>
+    </marker>
+  </defs>
+  
+  <!-- Horizontal arrows top row -->
+  <path d="M 140 120 L 260 120" stroke="#7f8c8d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  <path d="M 340 120 L 460 120" stroke="#7f8c8d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  <path d="M 540 120 L 660 120" stroke="#7f8c8d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Vertical arrow down -->
+  <path d="M 700 160 Q 700 200 650 240 Q 600 280 560 320" stroke="#7f8c8d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Horizontal arrows bottom row -->
+  <path d="M 560 320 L 440 320" stroke="#7f8c8d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  <path d="M 360 320 L 240 320" stroke="#7f8c8d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Control points and responsibilities -->
+  <g transform="translate(400, 450)">
+    <text x="0" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">
+      Ansvarsfordeling og Kontrollpunkter
+    </text>
+  </g>
+  
+  <!-- Responsibility table -->
+  <g transform="translate(100, 500)">
+    <rect x="0" y="0" width="600" height="80" fill="white" stroke="#bdc3c7" stroke-width="1" rx="5"/>
+    
+    <!-- Header -->
+    <rect x="0" y="0" width="600" height="20" fill="#ecf0f1" rx="5"/>
+    <text x="75" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+      Rolle
+    </text>
+    <text x="225" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+      Ansvar
+    </text>
+    <text x="450" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+      Kontrollpunkt
+    </text>
+    
+    <!-- Rows -->
+    <line x1="0" y1="20" x2="600" y2="20" stroke="#bdc3c7" stroke-width="1"/>
+    <line x1="150" y1="0" x2="150" y2="80" stroke="#bdc3c7" stroke-width="1"/>
+    <line x1="300" y1="0" x2="300" y2="80" stroke="#bdc3c7" stroke-width="1"/>
+    
+    <!-- Row 1 -->
+    <text x="75" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      Bestiller
+    </text>
+    <text x="225" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      Bestilling av varer/tjenester
+    </text>
+    <text x="450" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      Forretningsformål
+    </text>
+    
+    <!-- Row 2 -->
+    <line x1="0" y1="40" x2="600" y2="40" stroke="#bdc3c7" stroke-width="1"/>
+    <text x="75" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      Mottaker
+    </text>
+    <text x="225" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      Mottak og kvalitetskontroll
+    </text>
+    <text x="450" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      Levering i henhold til bestilling
+    </text>
+    
+    <!-- Row 3 -->
+    <line x1="0" y1="60" x2="600" y2="60" stroke="#bdc3c7" stroke-width="1"/>
+    <text x="75" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      Attestant
+    </text>
+    <text x="225" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      Godkjenning av betaling
+    </text>
+    <text x="450" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      Fullmakt og budsjett
+    </text>
+  </g>
+  
+  <!-- Quality control indicators -->
+  <g transform="translate(100, 220)">
+    <rect x="-80" y="-30" width="160" height="60" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="5"/>
+    <text x="0" y="-15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#856404">
+      Kvalitetskontroll
+    </text>
+    <text x="0" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      • Kompletthetssjekk
+    </text>
+    <text x="0" y="12" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      • Beløpskontroll
+    </text>
+  </g>
+  
+  <g transform="translate(700, 220)">
+    <rect x="-80" y="-30" width="160" height="60" fill="#d1ecf1" stroke="#17a2b8" stroke-width="2" rx="5"/>
+    <text x="0" y="-15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#0c5460">
+      Autorisasjonskontroll
+    </text>
+    <text x="0" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      • Fullmaktskontroll
+    </text>
+    <text x="0" y="12" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      • Budsjettramme
+    </text>
+  </g>
+</svg>

@@ -1,0 +1,193 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="3" dy="3" stdDeviation="3" flood-color="#00000030"/>
+    </filter>
+    <linearGradient id="preventiveGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#10b981;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#059669;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="detectiveGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#f59e0b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#d97706;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="correctiveGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#dc2626;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#b91c1c;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="url(#bgGradient)" stroke="#cbd5e1" stroke-width="2"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#1e293b">
+    Typer Kontrollaktiviteter
+  </text>
+  
+  <!-- Timeline arrow -->
+  <path d="M100 100 L700 100" stroke="#64748b" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  <text x="400" y="90" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#64748b">
+    Tidslinje for Kontrollaktiviteter
+  </text>
+  
+  <!-- Preventive Controls -->
+  <g transform="translate(80, 150)">
+    <rect x="0" y="0" width="200" height="180" fill="url(#preventiveGradient)" stroke="#059669" stroke-width="3" rx="10" filter="url(#shadow)"/>
+    
+    <!-- Shield icon -->
+    <g transform="translate(85, 20)">
+      <path d="M30 0 L50 10 L50 35 C50 50 40 55 30 55 C20 55 10 50 10 35 L10 10 Z" 
+            fill="white" stroke="#059669" stroke-width="2"/>
+      <circle cx="30" cy="30" r="8" fill="#10b981"/>
+      <path d="M26 30 L29 33 L34 26" stroke="white" stroke-width="2" fill="none" stroke-linecap="round"/>
+    </g>
+    
+    <text x="100" y="90" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+      PREVENTIVE
+    </text>
+    <text x="100" y="110" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+      KONTROLLER
+    </text>
+    
+    <text x="100" y="135" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+      Forhindrer problemer
+    </text>
+    
+    <text x="20" y="155" font-family="Arial, sans-serif" font-size="10" fill="white">• Autorisasjonskontroller</text>
+    <text x="20" y="170" font-family="Arial, sans-serif" font-size="10" fill="white">• Segregering av oppgaver</text>
+  </g>
+  
+  <!-- Detective Controls -->
+  <g transform="translate(300, 150)">
+    <rect x="0" y="0" width="200" height="180" fill="url(#detectiveGradient)" stroke="#d97706" stroke-width="3" rx="10" filter="url(#shadow)"/>
+    
+    <!-- Magnifying glass icon -->
+    <g transform="translate(85, 20)">
+      <circle cx="25" cy="25" r="15" fill="white" stroke="#f59e0b" stroke-width="3"/>
+      <circle cx="25" cy="25" r="8" fill="none" stroke="#f59e0b" stroke-width="2"/>
+      <path d="M35 35 L45 45" stroke="#f59e0b" stroke-width="4" stroke-linecap="round"/>
+    </g>
+    
+    <text x="100" y="90" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+      DETEKTIVE
+    </text>
+    <text x="100" y="110" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+      KONTROLLER
+    </text>
+    
+    <text x="100" y="135" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+      Oppdager problemer
+    </text>
+    
+    <text x="20" y="155" font-family="Arial, sans-serif" font-size="10" fill="white">• Avstemming av kontoer</text>
+    <text x="20" y="170" font-family="Arial, sans-serif" font-size="10" fill="white">• Analytiske gjennomganger</text>
+  </g>
+  
+  <!-- Corrective Controls -->
+  <g transform="translate(520, 150)">
+    <rect x="0" y="0" width="200" height="180" fill="url(#correctiveGradient)" stroke="#b91c1c" stroke-width="3" rx="10" filter="url(#shadow)"/>
+    
+    <!-- Wrench/repair icon -->
+    <g transform="translate(85, 20)">
+      <rect x="20" y="15" width="20" height="30" fill="white" rx="3"/>
+      <circle cx="30" cy="20" r="3" fill="#dc2626"/>
+      <circle cx="30" cy="40" r="3" fill="#dc2626"/>
+      <rect x="25" y="45" width="10" height="8" fill="white" rx="2"/>
+    </g>
+    
+    <text x="100" y="90" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+      KORREKTIVE
+    </text>
+    <text x="100" y="110" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+      KONTROLLER
+    </text>
+    
+    <text x="100" y="135" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+      Retter opp problemer
+    </text>
+    
+    <text x="20" y="155" font-family="Arial, sans-serif" font-size="10" fill="white">• Feilrettingsprosedyrer</text>
+    <text x="20" y="170" font-family="Arial, sans-serif" font-size="10" fill="white">• Oppfølgingsrutiner</text>
+  </g>
+  
+  <!-- Timeline markers -->
+  <circle cx="180" cy="100" r="8" fill="#10b981" stroke="white" stroke-width="2"/>
+  <text x="180" y="125" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="#059669">
+    FØR
+  </text>
+  
+  <circle cx="400" cy="100" r="8" fill="#f59e0b" stroke="white" stroke-width="2"/>
+  <text x="400" y="125" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="#d97706">
+    UNDER
+  </text>
+  
+  <circle cx="620" cy="100" r="8" fill="#dc2626" stroke="white" stroke-width="2"/>
+  <text x="620" y="125" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="#b91c1c">
+    ETTER
+  </text>
+  
+  <!-- Detailed examples section -->
+  <text x="400" y="380" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#1e293b">
+    Eksempler på Kontrollaktiviteter
+  </text>
+  
+  <!-- Example boxes -->
+  <g transform="translate(50, 420)">
+    <rect x="0" y="0" width="220" height="120" fill="white" stroke="#10b981" stroke-width="2" rx="5" filter="url(#shadow)"/>
+    <rect x="0" y="0" width="220" height="30" fill="#10b981" rx="5"/>
+    <text x="110" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+      PREVENTIVE EKSEMPLER
+    </text>
+    
+    <text x="10" y="50" font-family="Arial, sans-serif" font-size="10" fill="#1e293b">• Godkjenning før utbetaling</text>
+    <text x="10" y="65" font-family="Arial, sans-serif" font-size="10" fill="#1e293b">• Fysisk sikring av eiendeler</text>
+    <text x="10" y="80" font-family="Arial, sans-serif" font-size="10" fill="#1e293b">• Tilgangskontroll til systemer</text>
+    <text x="10" y="95" font-family="Arial, sans-serif" font-size="10" fill="#1e293b">• Kompetansekrav for ansatte</text>
+    <text x="10" y="110" font-family="Arial, sans-serif" font-size="10" fill="#1e293b">• Dokumentasjonskrav</text>
+  </g>
+  
+  <g transform="translate(290, 420)">
+    <rect x="0" y="0" width="220" height="120" fill="white" stroke="#f59e0b" stroke-width="2" rx="5" filter="url(#shadow)"/>
+    <rect x="0" y="0" width="220" height="30" fill="#f59e0b" rx="5"/>
+    <text x="110" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+      DETEKTIVE EKSEMPLER
+    </text>
+    
+    <text x="10" y="50" font-family="Arial, sans-serif" font-size="10" fill="#1e293b">• Bankavstemming</text>
+    <text x="10" y="65" font-family="Arial, sans-serif" font-size="10" fill="#1e293b">• Inventartelling</text>
+    <text x="10" y="80" font-family="Arial, sans-serif" font-size="10" fill="#1e293b">• Budsjettanalyse</text>
+    <text x="10" y="95" font-family="Arial, sans-serif" font-size="10" fill="#1e293b">• Overvåking av nøkkeltall</text>
+    <text x="10" y="110" font-family="Arial, sans-serif" font-size="10" fill="#1e293b">• Uavhengige kontroller</text>
+  </g>
+  
+  <g transform="translate(530, 420)">
+    <rect x="0" y="0" width="220" height="120" fill="white" stroke="#dc2626" stroke-width="2" rx="5" filter="url(#shadow)"/>
+    <rect x="0" y="0" width="220" height="30" fill="#dc2626" rx="5"/>
+    <text x="110" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+      KORREKTIVE EKSEMPLER
+    </text>
+    
+    <text x="10" y="50" font-family="Arial, sans-serif" font-size="10" fill="#1e293b">• Feilretting i regnskap</text>
+    <text x="10" y="65" font-family="Arial, sans-serif" font-size="10" fill="#1e293b">• Oppfølging av avvik</text>
+    <text x="10" y="80" font-family="Arial, sans-serif" font-size="10" fill="#1e293b">• Forbedring av prosesser</text>
+    <text x="10" y="95" font-family="Arial, sans-serif" font-size="10" fill="#1e293b">• Opplæring etter feil</text>
+    <text x="10" y="110" font-family="Arial, sans-serif" font-size="10" fill="#1e293b">• Systemoppdateringer</text>
+  </g>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#64748b"/>
+    </marker>
+  </defs>
+  
+  <!-- Bottom note -->
+  <text x="400" y="580" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#64748b">
+    Effektiv internkontroll krever en kombinasjon av alle tre typer kontroller
+  </text>
+</svg>

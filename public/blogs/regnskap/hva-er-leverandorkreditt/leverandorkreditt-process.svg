@@ -1,0 +1,101 @@
+<svg width="900" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="stepGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3498DB;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2980B9;stop-opacity:1" />
+    </linearGradient>
+    <marker id="processArrow" markerWidth="12" markerHeight="8" refX="10" refY="4" orient="auto">
+      <polygon points="0 0, 12 4, 0 8" fill="#34495E" />
+    </marker>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="900" height="600" fill="#F8F9FA"/>
+  
+  <!-- Title -->
+  <text x="450" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#2C3E50">Leverandørkreditt Prosess</text>
+  
+  <!-- Step 1: Leveranse -->
+  <rect x="50" y="100" width="150" height="100" rx="10" fill="url(#stepGradient)" stroke="#2980B9" stroke-width="2"/>
+  <circle cx="75" cy="125" r="15" fill="#E74C3C"/>
+  <text x="75" y="132" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">1</text>
+  <text x="125" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">LEVERANSE</text>
+  <text x="125" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Varer/tjenester</text>
+  <text x="125" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">leveres til kunde</text>
+  
+  <!-- Arrow 1 -->
+  <line x1="200" y1="150" x2="250" y2="150" stroke="#34495E" stroke-width="3" marker-end="url(#processArrow)"/>
+  
+  <!-- Step 2: Fakturering -->
+  <rect x="270" y="100" width="150" height="100" rx="10" fill="url(#stepGradient)" stroke="#2980B9" stroke-width="2"/>
+  <circle cx="295" cy="125" r="15" fill="#E74C3C"/>
+  <text x="295" y="132" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">2</text>
+  <text x="345" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">FAKTURERING</text>
+  <text x="345" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Faktura sendes</text>
+  <text x="345" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">med betalingsfrist</text>
+  
+  <!-- Arrow 2 -->
+  <line x1="420" y1="150" x2="470" y2="150" stroke="#34495E" stroke-width="3" marker-end="url(#processArrow)"/>
+  
+  <!-- Step 3: Kredittperiode -->
+  <rect x="490" y="100" width="150" height="100" rx="10" fill="#F39C12" stroke="#E67E22" stroke-width="2"/>
+  <circle cx="515" cy="125" r="15" fill="#E74C3C"/>
+  <text x="515" y="132" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">3</text>
+  <text x="565" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">KREDITTPERIODE</text>
+  <text x="565" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">14-60 dager</text>
+  <text x="565" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">ventetid</text>
+  
+  <!-- Arrow 3 -->
+  <line x1="640" y1="150" x2="690" y2="150" stroke="#34495E" stroke-width="3" marker-end="url(#processArrow)"/>
+  
+  <!-- Step 4: Betaling -->
+  <rect x="710" y="100" width="150" height="100" rx="10" fill="#27AE60" stroke="#229954" stroke-width="2"/>
+  <circle cx="735" cy="125" r="15" fill="#E74C3C"/>
+  <text x="735" y="132" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">4</text>
+  <text x="785" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">BETALING</text>
+  <text x="785" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Kunde betaler</text>
+  <text x="785" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">innen forfallsdato</text>
+  
+  <!-- Alternative path: Late payment -->
+  <rect x="490" y="280" width="150" height="100" rx="10" fill="#E74C3C" stroke="#C0392B" stroke-width="2"/>
+  <circle cx="515" cy="305" r="15" fill="#FFFFFF"/>
+  <text x="515" y="312" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#E74C3C">5</text>
+  <text x="565" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">OPPFØLGING</text>
+  <text x="565" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Purring &amp;</text>
+  <text x="565" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">inkassoprosess</text>
+  
+  <!-- Arrow to late payment -->
+  <line x1="565" y1="200" x2="565" y2="280" stroke="#E74C3C" stroke-width="3" marker-end="url(#processArrow)"/>
+  <text x="580" y="240" font-family="Arial, sans-serif" font-size="12" fill="#E74C3C">Ved forsinket</text>
+  <text x="580" y="255" font-family="Arial, sans-serif" font-size="12" fill="#E74C3C">betaling</text>
+  
+  <!-- Timeline -->
+  <rect x="50" y="450" width="810" height="60" rx="5" fill="#ECF0F1" stroke="#BDC3C7" stroke-width="1"/>
+  <text x="455" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2C3E50">TIDSLINJE</text>
+  
+  <!-- Timeline markers -->
+  <circle cx="125" cy="490" r="5" fill="#3498DB"/>
+  <text x="125" y="505" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2C3E50">Dag 0</text>
+  
+  <circle cx="345" cy="490" r="5" fill="#3498DB"/>
+  <text x="345" y="505" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2C3E50">Dag 1</text>
+  
+  <circle cx="565" cy="490" r="5" fill="#F39C12"/>
+  <text x="565" y="505" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2C3E50">Dag 2-60</text>
+  
+  <circle cx="785" cy="490" r="5" fill="#27AE60"/>
+  <text x="785" y="505" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2C3E50">Forfallsdato</text>
+  
+  <!-- Timeline line -->
+  <line x1="125" y1="490" x2="785" y2="490" stroke="#95A5A6" stroke-width="2"/>
+  
+  <!-- Key benefits box -->
+  <rect x="50" y="540" width="200" height="50" rx="5" fill="#D5DBDB" stroke="#AEB6BF" stroke-width="1"/>
+  <text x="150" y="560" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2C3E50">NØKKELFORDELER</text>
+  <text x="150" y="575" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2C3E50">Forbedret kontantstrøm for kunde</text>
+  
+  <!-- Key risks box -->
+  <rect x="650" y="540" width="200" height="50" rx="5" fill="#FADBD8" stroke="#F1948A" stroke-width="1"/>
+  <text x="750" y="560" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#E74C3C">NØKKELRISIKO</text>
+  <text x="750" y="575" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#E74C3C">Kredittrisiko for leverandør</text>
+</svg>

@@ -1,0 +1,175 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="stepGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e40af;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="processGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#059669;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#047857;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="3" dy="3" stdDeviation="4" flood-color="#000000" flood-opacity="0.3"/>
+    </filter>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#10b981"/>
+    </marker>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8fafc"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1e293b">
+    Direkte Remittering - Detaljert Flyt
+  </text>
+  
+  <!-- Step 1: Initiering -->
+  <circle cx="100" cy="100" r="30" fill="url(#stepGradient)" filter="url(#shadow)"/>
+  <text x="100" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">1</text>
+  <text x="100" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">INITIERING</text>
+  
+  <rect x="20" y="140" width="160" height="80" rx="8" fill="#dbeafe" stroke="#3b82f6" stroke-width="1"/>
+  <text x="100" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e40af">
+    Avsender gir oppdrag
+  </text>
+  <text x="30" y="180" font-family="Arial, sans-serif" font-size="10" fill="#3b82f6">
+    • Mottakers kontonummer
+  </text>
+  <text x="30" y="195" font-family="Arial, sans-serif" font-size="10" fill="#3b82f6">
+    • Beløp og valuta
+  </text>
+  <text x="30" y="210" font-family="Arial, sans-serif" font-size="10" fill="#3b82f6">
+    • Betalingsreferanse
+  </text>
+  
+  <!-- Arrow 1 -->
+  <path d="M180 180 L220 180" stroke="#10b981" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Step 2: Autorisering -->
+  <circle cx="280" cy="100" r="30" fill="url(#stepGradient)" filter="url(#shadow)"/>
+  <text x="280" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">2</text>
+  <text x="280" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">AUTORISERING</text>
+  
+  <rect x="200" y="140" width="160" height="80" rx="8" fill="#dcfce7" stroke="#059669" stroke-width="1"/>
+  <text x="280" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#047857">
+    Bank verifiserer
+  </text>
+  <text x="210" y="180" font-family="Arial, sans-serif" font-size="10" fill="#059669">
+    • Identitet og signatur
+  </text>
+  <text x="210" y="195" font-family="Arial, sans-serif" font-size="10" fill="#059669">
+    • Tilgjengelige midler
+  </text>
+  <text x="210" y="210" font-family="Arial, sans-serif" font-size="10" fill="#059669">
+    • Kontoinformasjon
+  </text>
+  
+  <!-- Arrow 2 -->
+  <path d="M360 180 L400 180" stroke="#10b981" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Step 3: Behandling -->
+  <circle cx="460" cy="100" r="30" fill="url(#stepGradient)" filter="url(#shadow)"/>
+  <text x="460" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">3</text>
+  <text x="460" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">BEHANDLING</text>
+  
+  <rect x="380" y="140" width="160" height="80" rx="8" fill="#fef3c7" stroke="#f59e0b" stroke-width="1"/>
+  <text x="460" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#92400e">
+    Banksystem prosesserer
+  </text>
+  <text x="390" y="180" font-family="Arial, sans-serif" font-size="10" fill="#b45309">
+    • Midler reserveres
+  </text>
+  <text x="390" y="195" font-family="Arial, sans-serif" font-size="10" fill="#b45309">
+    • Transaksjonslogg
+  </text>
+  <text x="390" y="210" font-family="Arial, sans-serif" font-size="10" fill="#b45309">
+    • Sikkerhetskontroll
+  </text>
+  
+  <!-- Arrow 3 -->
+  <path d="M540 180 L580 180" stroke="#10b981" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Step 4: Overføring -->
+  <circle cx="640" cy="100" r="30" fill="url(#stepGradient)" filter="url(#shadow)"/>
+  <text x="640" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">4</text>
+  <text x="640" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">OVERFØRING</text>
+  
+  <rect x="560" y="140" width="160" height="80" rx="8" fill="#f3e8ff" stroke="#7c3aed" stroke-width="1"/>
+  <text x="640" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#5b21b6">
+    Interbankoverføring
+  </text>
+  <text x="570" y="180" font-family="Arial, sans-serif" font-size="10" fill="#7c3aed">
+    • Kryptert kommunikasjon
+  </text>
+  <text x="570" y="195" font-family="Arial, sans-serif" font-size="10" fill="#7c3aed">
+    • SWIFT/SEPA protokoll
+  </text>
+  <text x="570" y="210" font-family="Arial, sans-serif" font-size="10" fill="#7c3aed">
+    • Automatisk routing
+  </text>
+  
+  <!-- Arrow down to step 5 -->
+  <path d="M640 230 Q640 260 640 290" stroke="#10b981" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Step 5: Mottak -->
+  <circle cx="640" cy="320" r="30" fill="url(#processGradient)" filter="url(#shadow)"/>
+  <text x="640" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">5</text>
+  <text x="640" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">MOTTAK</text>
+  
+  <rect x="560" y="360" width="160" height="80" rx="8" fill="#dcfce7" stroke="#059669" stroke-width="1"/>
+  <text x="640" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#047857">
+    Mottakers bank
+  </text>
+  <text x="570" y="400" font-family="Arial, sans-serif" font-size="10" fill="#059669">
+    • Krediterer konto
+  </text>
+  <text x="570" y="415" font-family="Arial, sans-serif" font-size="10" fill="#059669">
+    • Sender bekreftelse
+  </text>
+  <text x="570" y="430" font-family="Arial, sans-serif" font-size="10" fill="#059669">
+    • Oppdaterer saldo
+  </text>
+  
+  <!-- Arrow left to confirmation -->
+  <path d="M560 400 L400 400" stroke="#10b981" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Confirmation box -->
+  <rect x="200" y="360" width="200" height="80" rx="8" fill="#fef2f2" stroke="#ef4444" stroke-width="1"/>
+  <text x="300" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#dc2626">
+    Bekreftelse til begge parter
+  </text>
+  <text x="210" y="400" font-family="Arial, sans-serif" font-size="10" fill="#ef4444">
+    • SMS/e-post varsling
+  </text>
+  <text x="210" y="415" font-family="Arial, sans-serif" font-size="10" fill="#ef4444">
+    • Kontoutskrift oppdatering
+  </text>
+  <text x="210" y="430" font-family="Arial, sans-serif" font-size="10" fill="#ef4444">
+    • Transaksjonsreferanse
+  </text>
+  
+  <!-- Timeline -->
+  <rect x="50" y="480" width="700" height="60" rx="8" fill="#1e293b"/>
+  <text x="70" y="500" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    Typisk tidsforløp:
+  </text>
+  <text x="70" y="520" font-family="Arial, sans-serif" font-size="11" fill="#cbd5e1">
+    Innenlandsk: Øyeblikkelig til 2 timer • Internasjonal: 1-3 virkedager • Automatisert: Forhåndsbestemt tidspunkt
+  </text>
+  
+  <!-- Security indicators -->
+  <rect x="50" y="250" width="480" height="80" rx="8" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="60" y="270" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">
+    Sikkerhetstiltak gjennom hele prosessen:
+  </text>
+  <text x="60" y="290" font-family="Arial, sans-serif" font-size="10" fill="#475569">
+    🔒 End-to-end kryptering • 🔐 To-faktor autentisering • 📋 Transaksjonslogging
+  </text>
+  <text x="60" y="305" font-family="Arial, sans-serif" font-size="10" fill="#475569">
+    🛡️ Svindeldeteksjon • ⚡ Sanntidsovervåking • 📊 Automatisk rapportering
+  </text>
+  <text x="60" y="320" font-family="Arial, sans-serif" font-size="10" fill="#475569">
+    💾 Backup-systemer • 🔄 Redundante kommunikasjonskanaler • 📝 Revisjonslogg
+  </text>
+</svg>

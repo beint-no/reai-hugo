@@ -1,0 +1,384 @@
+<!doctype html>
+<html lang="nb">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Hva er Vedtekter for Aksjeselskap? | ReAI</title>
+  <meta name="description" content="Komplett regnskapssystem med faktura, lønn, bilagsføring og årsoppgjør.">
+  
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<script src="https://cdn.tailwindcss.com?plugins=typography"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        fontFamily: { sans: ['Inter','ui-sans-serif','system-ui','Arial','sans-serif'] },
+        colors: {
+          brand: { DEFAULT: '#111827' },
+          accent: { DEFAULT: '#2563eb' }
+        }
+      }
+    }
+  }
+</script>
+<style>
+   
+  header .header-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #000 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link:hover { background-position: 0; }
+  header .header-link:hover::before { width: 100%; }
+
+  footer .footer-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #ffffff 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link:hover { background-position: 0; }
+  footer .footer-link:hover::before { width: 100%; }
+</style>
+<style>
+   
+  .prose { overflow-wrap: anywhere; word-break: break-word; }
+  .prose img { max-width: 100%; height: auto; }
+  .prose table { display: block; width: 100%; overflow-x: auto; }
+  .prose pre { white-space: pre-wrap; word-break: break-word; overflow-x: auto; }
+  .prose code { word-break: break-word; }
+  .prose iframe, .prose video { max-width: 100%; width: 100%; height: auto; }
+</style>
+<style>
+   
+  button,
+  .btn,
+  a.btn,
+  .button,
+  .cta,
+  .link-button,
+   
+  a.inline-flex.rounded-md,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"] {
+    transition: transform 220ms ease, box-shadow 220ms ease, background-color 220ms ease, color 220ms ease, opacity 220ms ease;
+    will-change: transform, box-shadow;
+  }
+
+  button:hover,
+  .btn:hover,
+  a.btn:hover,
+  .button:hover,
+  .cta:hover,
+  .link-button:hover,
+  a.inline-flex.rounded-md:hover,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+
+  button:active,
+  .btn:active,
+  a.btn:active,
+  .button:active,
+  .cta:active,
+  .link-button:active,
+  a.inline-flex.rounded-md:active,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:active {
+    transform: translateY(-1px) scale(0.99);
+    box-shadow: 0 6px 12px rgba(2, 6, 23, 0.1);
+  }
+
+  button:focus-visible,
+  .btn:focus-visible,
+  a.btn:focus-visible,
+  .button:focus-visible,
+  .cta:focus-visible,
+  .link-button:focus-visible,
+  a.inline-flex.rounded-md:focus-visible,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.35), 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+</style>
+
+<link rel="icon" type="image/svg+xml" href="/images/ReAI-logo-square.svg">
+<link rel="shortcut icon" href="/images/ReAI-logo-square.svg">
+
+</head>
+<body class="min-h-dvh bg-white text-gray-900 font-sans">
+  <header class="sticky top-0 z-40 bg-white/80 backdrop-blur">
+  
+  <div class="border-b border-slate-200/70">
+    <div class="max-w-7xl mx-auto px-4">
+      <div class="h-16 flex items-center justify-between">
+        <a href="/" class="flex items-center gap-2" aria-label="ReAI">
+          <img src="/images/ReAI-logo-square.svg?v=4" alt="ReAI logo" class="h-14 w-14 rounded-md mt-5" width="56" height="56" loading="eager" decoding="async">
+        </a>
+        <nav class="hidden md:block">
+          <ul class="flex items-center gap-5 text-sm">
+            <li><a href="/courses/" class="header-link text-slate-700 hover:text-black">Gratis kurs</a></li>
+            <li><a href="/contact/" class="header-link text-slate-700 hover:text-black">Kontakt oss</a></li>
+            <li><a href="/blog/" class="header-link text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+            <li><a href="/bli-partner/" class="header-link text-slate-700 hover:text-black">Bli partner</a></li>
+            <li><a href="/fakturamal/" class="header-link text-slate-700 hover:text-black">Lag faktura</a></li>
+          </ul>
+        </nav>
+        <button id="mobileMenuBtn" aria-controls="mobileMenu" aria-expanded="false" class="md:hidden inline-flex items-center justify-center h-9 w-9 rounded-md border border-slate-300">
+          <span class="sr-only">Menu</span>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-5 w-5"><path d="M3.75 6.75h16.5v1.5H3.75zM3.75 11.25h16.5v1.5H3.75zM3.75 15.75h16.5v1.5H3.75z"/></svg>
+        </button>
+      </div>
+    </div>
+  </div>
+  
+  <nav id="mobileMenu" class="md:hidden hidden border-b border-slate-200/70 bg-white/95 backdrop-blur">
+    <div class="max-w-7xl mx-auto px-4 py-3">
+      <ul class="flex flex-col items-center gap-3 text-sm text-center">
+        <li><a href="/courses/" class="header-link block text-slate-700 hover:text-black">Gratis kurs</a></li>
+        <li><a href="/contact/" class="header-link block text-slate-700 hover:text-black">Kontakt oss</a></li>
+        <li><a href="/blog/" class="header-link block text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+        <li><a href="/bli-partner/" class="header-link block text-slate-700 hover:text-black">Bli partner</a></li>
+        <li><a href="/fakturamal/" class="header-link block text-slate-700 hover:text-black">Lag faktura</a></li>
+      </ul>
+    </div>
+  </nav>
+  <script>
+    (function() {
+      const btn = document.getElementById('mobileMenuBtn');
+      const menu = document.getElementById('mobileMenu');
+      if (!btn || !menu) return;
+      btn.addEventListener('click', function() {
+        const isHidden = menu.classList.contains('hidden');
+        menu.classList.toggle('hidden');
+        btn.setAttribute('aria-expanded', String(isHidden));
+      });
+    })();
+  </script>
+</header>
+  <main>
+    
+<section class="pt-10 md:pt-14">
+  <div class="max-w-3xl mx-auto px-4">
+    <h1 class="text-3xl font-semibold tracking-tight text-center">Hva er Vedtekter for Aksjeselskap?</h1>
+    <p class="mt-2 text-gray-700">Vedtekter for aksjeselskap er obligatoriske bestemmelser som regulerer selskapets organisering, styringsstruktur og drift.</p>
+    <article class="prose max-w-none mt-6"><p><strong>Vedtekter for aksjeselskap</strong> er obligatoriske juridiske bestemmelser som regulerer hvordan et <a href="/blogs/regnskap/hva-er-et-aksjeselskap" title="Hva er et Aksjeselskap? Komplett Guide til Selskapsformen">aksjeselskap (AS)</a> skal organiseres og drives. Vedtektene fungerer som selskapets grunnlov og må utarbeides i henhold til <a href="/blogs/regnskap/hva-er-aksjeloven" title="Hva er Aksjeloven? Regler for Aksjeselskaper i Norge">aksjeloven</a>. De definerer selskapets <strong>formål</strong>, <strong>aksjekapital</strong>, <strong>styringsstruktur</strong> og andre fundamentale forhold som påvirker både <a href="/blogs/regnskap/hva-er-bokforing" title="Hva er Bokføring? Komplett Guide til Regnskapsføring">regnskapsføring</a> og daglig drift.</p>
+<p><img src="hva-er-vedtekter-for-aksjeselskap-image.svg" alt="Illustrasjon av vedtekter for aksjeselskap konsept"></p>
+<h3 id="hva-er-vedtekter">Hva er Vedtekter?</h3>
+<p>Vedtekter er de grunnleggende reglene som styrer et aksjeselskap. De må være skriftlige og inneholde <strong>obligatoriske bestemmelser</strong> som kreves av aksjeloven, samt eventuelle <strong>fakultative bestemmelser</strong> som aksjonærene ønsker å inkludere.</p>
+<p>Vedtektene har <strong>juridisk bindende kraft</strong> for selskapet, <a href="/blogs/regnskap/hva-er-styre" title="Hva er et Styre? Roller og Ansvar i Aksjeselskap">styret</a>, aksjonærene og tredjeparter. De registreres i Foretaksregisteret og er offentlig tilgjengelige, noe som gir transparent informasjon om selskapets organisering.</p>
+<p><img src="vedtekter-komponenter-oversikt.svg" alt="Oversikt over vedtektenes hovedkomponenter"></p>
+<h3 id="lovpålagte-krav-til-vedtekter">Lovpålagte Krav til Vedtekter</h3>
+<p>Aksjeloven § 2-2 krever at vedtektene inneholder følgende <strong>obligatoriske bestemmelser</strong>:</p>
+<table>
+  <thead>
+      <tr>
+          <th>Bestemmelse</th>
+          <th>Beskrivelse</th>
+          <th>Betydning</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>Selskapets navn</strong></td>
+          <td>Fullstendig firmanavn med AS-betegnelse</td>
+          <td>Identifiserer selskapet juridisk</td>
+      </tr>
+      <tr>
+          <td><strong>Forretningsadresse</strong></td>
+          <td>Hvor selskapet har sitt hovedsete</td>
+          <td>Bestemmer verneting og jurisdiksjon</td>
+      </tr>
+      <tr>
+          <td><strong>Virksomhetens art</strong></td>
+          <td>Beskrivelse av selskapets formål og aktiviteter</td>
+          <td>Avgrenser hva selskapet kan drive med</td>
+      </tr>
+      <tr>
+          <td><strong>Aksjekapital</strong></td>
+          <td>Størrelse på <a href="/blogs/regnskap/hva-er-aksjekapital" title="Hva er Aksjekapital? Betydning og Krav">aksjekapital</a> og pålydende</td>
+          <td>Grunnlag for <a href="/blogs/regnskap/hva-er-egenkapital" title="Hva er Egenkapital? Regnskapsføring og Beregning">egenkapital</a></td>
+      </tr>
+      <tr>
+          <td><strong>Aksjenes pålydende</strong></td>
+          <td>Verdi per aksje eller at aksjer ikke har pålydende</td>
+          <td>Påvirker aksjestruktur og rettigheter</td>
+      </tr>
+  </tbody>
+</table>
+<p><img src="vedtekter-juridiske-krav.svg" alt="Lovpålagte krav til vedtektsinnhold"></p>
+<h3 id="innhold-i-vedtektene">Innhold i Vedtektene</h3>
+<h4 id="obligatoriske-bestemmelser">Obligatoriske Bestemmelser</h4>
+<p><strong>Selskapets navn</strong> må være unikt og inneholde &ldquo;aksjeselskap&rdquo; eller forkortelsen &ldquo;AS&rdquo;. Navnet registreres i Foretaksregisteret og kan ikke forveksles med eksisterende selskaper.</p>
+<p><strong>Forretningsadressen</strong> angir hvor selskapet har sitt juridiske hovedsete. Dette påvirker hvilket tingrett som har jurisdiksjon og hvor <a href="/blogs/regnskap/hva-er-generalforsamling" title="Hva er Generalforsamling? Makt og Ansvar">generalforsamling</a> skal avholdes.</p>
+<p><strong>Virksomhetens art</strong> beskriver hva selskapet skal drive med. En bred formulering gir fleksibilitet, mens en snever formulering kan kreve vedtektsendring ved utvidelse av virksomheten.</p>
+<p><img src="vedtekter-innhold-detaljert.svg" alt="Detaljert oversikt over vedtektenes innhold"></p>
+<h4 id="fakultative-bestemmelser">Fakultative Bestemmelser</h4>
+<p>Vedtektene kan også inneholde <strong>valgfrie bestemmelser</strong> som:</p>
+<ul>
+<li><strong>Styrets sammensetning</strong> og valgperiode</li>
+<li><strong>Generalforsamlingens myndighet</strong> utover lovens minimum</li>
+<li><strong>Aksjenes omsettbarhet</strong> og <a href="/blogs/regnskap/forkjopsrett" title="Hva er en Forkjøpsrett? Retten til å kjøpe aksjer før eksterne">forkjøpsretter</a>. Dette henger tett sammen med føringen av <a href="/blogs/regnskap/hva-er-en-aksjeeierbok" title="Hva er en Aksjeeierbok? En Komplett Guide">aksjeeierboken</a>, og detaljerte regler for salg og overføring av aksjer reguleres ofte i en <a href="/blogs/regnskap/aksjonaeravtale" title="Hva er en Aksjonæravtale? En Omfattende Guide til Aksjonæravtaler i Norge">aksjonæravtale</a>.</li>
+<li><strong>Utbyttepolitikk</strong> og distribusjonsbegrensninger</li>
+<li><strong>Særlige rettigheter</strong> for ulike aksjeklasser</li>
+</ul>
+<h3 id="vedtektenes-rolle-i-selskapsorganiseringen">Vedtektenes Rolle i Selskapsorganiseringen</h3>
+<h4 id="styringsstruktur">Styringsstruktur</h4>
+<p>Vedtektene definerer hvordan selskapet skal styres og organiseres. De fastsetter <a href="/blogs/regnskap/hva-er-styre" title="Hva er et Styre? Roller og Ansvar i Aksjeselskap">styrets</a> sammensetning, generalforsamlingens myndighet og beslutningsprosesser.</p>
+<p>Dette påvirker direkte <strong>regnskapsansvaret</strong> og hvordan <a href="/blogs/regnskap/hva-er-internkontroll" title="Hva er Internkontroll? System for Risikostyring">internkontroll</a> skal organiseres. Tydelige ansvarsforhold i vedtektene bidrar til bedre <a href="/blogs/regnskap/god-regnskapsskikk" title="God Regnskapsskikk: Prinsipper og Praktisk Anvendelse">god regnskapsskikk</a>.</p>
+<h4 id="kapitalstruktur">Kapitalstruktur</h4>
+<p>Vedtektene regulerer selskapets <strong>kapitalstruktur</strong> gjennom bestemmelser om:</p>
+<ul>
+<li><a href="/blogs/regnskap/hva-er-aksjekapital" title="Hva er Aksjekapital? Betydning og Krav">Aksjekapital</a> og aksjefordeling</li>
+<li>Rettigheter knyttet til ulike aksjeklasser</li>
+<li>Prosedyrer for <a href="/blogs/regnskap/kapitalforhoyelse" title="Kapitalforhøyelse: Metoder og Regnskapsføring">kapitalforhøyelse</a></li>
+<li>Begrensninger på <a href="/blogs/regnskap/hva-er-utbytte" title="Hva er Utbytte? Utdeling fra Aksjeselskap">utbytte</a></li>
+</ul>
+<p><img src="vedtekter-kapitalstruktur.svg" alt="Vedtektenes påvirkning på kapitalstruktur"></p>
+<h3 id="endring-av-vedtekter">Endring av Vedtekter</h3>
+<h4 id="beslutningsprosess">Beslutningsprosess</h4>
+<p>Endring av vedtekter krever <strong>kvalifisert flertall</strong> i generalforsamlingen, normalt to tredjedeler av både avgitte stemmer og representert aksjekapital. Aksjonærer kan koordinere sin stemmegivning ved slike viktige vedtektsendringer gjennom en <a href="/blogs/regnskap/aksjonaeravtale" title="Hva er en Aksjonæravtale? En Omfattende Guide til Aksjonæravtaler i Norge">aksjonæravtale</a> for å sikre enhetlig beslutningstagning. Prosessen omfatter:</p>
+<ol>
+<li><strong>Innkalling</strong> til generalforsamling med minst 21 dagers varsel</li>
+<li><strong>Behandling</strong> av vedtektsendringen i generalforsamlingen</li>
+<li><strong>Vedtak</strong> med kvalifisert flertall</li>
+<li><strong>Registrering</strong> i Foretaksregisteret innen 30 dager</li>
+</ol>
+<p><img src="vedtekter-endringsprosess.svg" alt="Prosess for endring av vedtekter"></p>
+<h4 id="registrering-og-ikrafttredelse">Registrering og Ikrafttredelse</h4>
+<p>Vedtektsendringer må <strong>registreres</strong> i Foretaksregisteret for å få juridisk virkning. Endringen trer i kraft når den er registrert, med mindre annet er bestemt i vedtaket.</p>
+<p>Enkelte endringer, som økning av aksjekapital, krever også at <strong>kapitaltilskuddet</strong> er innbetalt før registrering kan skje.</p>
+<h3 id="regnskapsmessige-konsekvenser">Regnskapsmessige Konsekvenser</h3>
+<h4 id="påvirkning-på-regnskapsføring">Påvirkning på Regnskapsføring</h4>
+<p>Vedtektene påvirker <a href="/blogs/regnskap/hva-er-bokforing" title="Hva er Bokføring? Komplett Guide til Regnskapsføring">regnskapsføring</a> på flere måter:</p>
+<ul>
+<li><strong>Aksjekapital</strong> føres som <a href="/blogs/regnskap/hva-er-egenkapital" title="Hva er Egenkapital? Regnskapsføring og Beregning">egenkapital</a> i <a href="/blogs/regnskap/hva-er-balanse" title="Hva er Balanse? Grunnleggende Regnskapsprinsipp">balansen</a></li>
+<li><strong>Aksjepremie</strong> føres separat ved emisjon over pålydende</li>
+<li><strong>Bunden egenkapital</strong> påvirkes av aksjekapitalens størrelse</li>
+<li><strong>Utbyttebegrensninger</strong> følger av vedtektenes kapitalbestemmelser</li>
+</ul>
+<p><img src="vedtekter-regnskapseffekter.svg" alt="Vedtektenes påvirkning på regnskapsføring"></p>
+<h4 id="rapportering-og-noteopplysninger">Rapportering og Noteopplysninger</h4>
+<p><a href="/blogs/regnskap/hva-er-arsregnskap" title="Hva er Årsregnskap? Innhold og Krav">Årsregnskapet</a> må inneholde opplysninger om:</p>
+<ul>
+<li>Aksjekapitalens størrelse og sammensetning</li>
+<li>Endringer i aksjekapital i løpet av året</li>
+<li>Begrensninger i utdeling av utbytte</li>
+<li>Særlige rettigheter knyttet til aksjeklasser</li>
+</ul>
+<h3 id="praktiske-råd-for-etablering">Praktiske Råd for Etablering</h3>
+<h4 id="utforming-av-vedtekter">Utforming av Vedtekter</h4>
+<p>Ved etablering av aksjeselskap bør du vurdere:</p>
+<ul>
+<li><strong>Bred formulering</strong> av virksomhetens art for fremtidig fleksibilitet</li>
+<li><strong>Praktisk aksjekapital</strong> som dekker oppstartsbehovene</li>
+<li><strong>Tydelige styringsregler</strong> for å unngå fremtidige konflikter</li>
+<li><strong>Forkjøpsretter</strong> for å kontrollere eiersammensetningen</li>
+</ul>
+<h4 id="profesjonell-bistand">Profesjonell Bistand</h4>
+<p>Det anbefales å bruke <strong>advokat</strong> eller <strong>regnskapsfører</strong> ved utarbeidelse av vedtekter. De kan sikre at:</p>
+<ul>
+<li>Alle lovkrav er oppfylt</li>
+<li>Vedtektene er tilpasset din virksomhet</li>
+<li>Skattemessige konsekvenser er vurdert</li>
+<li>Fremtidige endringsbehov er forutsett</li>
+</ul>
+<p><img src="vedtekter-beste-praksis.svg" alt="Beste praksis for vedtektsutforming"></p>
+<h3 id="digitale-verktøy-og-ressurser">Digitale Verktøy og Ressurser</h3>
+<h4 id="elektronisk-registrering">Elektronisk Registrering</h4>
+<p><strong>Altinn</strong> tilbyr elektronisk innsending av vedtektsendringer til Foretaksregisteret. Dette forenkler prosessen og reduserer behandlingstiden.</p>
+<p>Mange <strong>regnskapssystemer</strong> kan også generere nødvendige rapporter basert på vedtektenes kapitalbestemmelser.</p>
+<h4 id="vedlikehold-og-oppdatering">Vedlikehold og Oppdatering</h4>
+<p>Vedtektene bør <strong>gjennomgås jevnlig</strong> for å sikre at de fortsatt er hensiktsmessige. Ved større endringer i virksomheten eller lovverket kan oppdatering være nødvendig.</p>
+<p><img src="vedtekter-digitale-verktoy.svg" alt="Digitale verktøy for vedtektshåndtering"></p>
+<h3 id="fremtidige-utviklinger">Fremtidige Utviklinger</h3>
+<h4 id="lovutvikling">Lovutvikling</h4>
+<p>Aksjeloven gjennomgås jevnlig, og endringer kan påvirke kravene til vedtekter. Det er viktig å <strong>holde seg oppdatert</strong> på lovutvikling som kan kreve vedtektsendringer.</p>
+<h4 id="digitalisering">Digitalisering</h4>
+<p>Økt digitalisering kan føre til <strong>elektroniske generalforsamlinger</strong> og digitale beslutningsprosesser, noe som kan kreve tilpasninger i vedtektene.</p>
+<p><strong>ESG-krav</strong> (Environmental, Social, Governance) kan også påvirke hvordan vedtekter utformes for å sikre bærekraftig virksomhet.</p>
+<p><img src="vedtekter-fremtidige-trender.svg" alt="Fremtidige trender for selskapsvedtekter"></p>
+<h3 id="konklusjon">Konklusjon</h3>
+<p>Vedtekter for aksjeselskap er <strong>fundamentale juridiske dokumenter</strong> som regulerer selskapets organisering og drift. De påvirker alt fra <a href="/blogs/regnskap/hva-er-bokforing" title="Hva er Bokføring? Komplett Guide til Regnskapsføring">regnskapsføring</a> til <a href="/blogs/regnskap/hva-er-styre" title="Hva er et Styre? Roller og Ansvar i Aksjeselskap">styringsansvar</a> og må utarbeides nøye for å sikre effektiv selskapsorganisering.</p>
+<p>Ved å forstå vedtektenes rolle og krav kan du <strong>sikre at ditt aksjeselskap</strong> opererer innenfor lovens rammer og har en solid juridisk struktur for fremtidig vekst og utvikling.</p>
+</article>
+  </div>
+</section>
+
+  </main>
+  <footer class="mt-16 border-t border-slate-800/60 bg-slate-900">
+  <div class="max-w-7xl mx-auto px-4 py-14">
+    <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3 text-center sm:text-left">
+      
+      <div>
+        <h3 class="text-sm font-semibold text-white">Verktøy</h3>
+        <ul class="mt-2 space-y-2 text-sm text-slate-300">
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/finn-iban/">IBAN kalkulator</a></li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/lag-faktura-gratis/">Lag faktura</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Selskaps-informasjon</h3>
+        <ul class="mt-2 space-y-1 text-sm text-slate-300">
+          <li>Reai AS</li>
+          <li>Orgnr: 935606403</li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="mailto:post@reai.no">post@reai.no</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Om ReAI</h3>
+        <p class="mt-2 text-sm text-slate-300">ReAI er et gratis regnskapsprogram laget av tidligere ansatte i Tripletex
+          / Visma. Vi mener det er på tide med mer konkurranse i regnskaps-bransjen som kan komme bedrifter til gode.
+        </p>
+      </div>
+    </div>
+    <div class="mt-12 border-t border-slate-800/60 pt-6 flex flex-col items-center sm:flex-row sm:items-center sm:justify-between text-sm text-slate-400 text-center sm:text-left">
+      <div class="flex items-center gap-2">
+        
+        
+      </div>
+      <div class="mt-4 sm:mt-0 flex items-center justify-center sm:justify-end">
+        <div class="opacity-80">&copy; 2025 ReAI. All rights reserved.</div>
+      </div>
+    </div>
+  </div>
+</footer>
+</body>
+</html>

@@ -1,0 +1,208 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0D47A1;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="step1Gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1B5E20;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="step2Gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF9800;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#E65100;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="step3Gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#9C27B0;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4A148C;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="step4Gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#F44336;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#B71C1C;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="step5Gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#607D8B;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#263238;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
+  <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
+    Implementering av Direkte Remittering i Bedriften
+  </text>
+  
+  <!-- Step 1: Needs Analysis -->
+  <g transform="translate(50, 80)">
+    <rect x="0" y="0" width="340" height="180" rx="10" fill="url(#step1Gradient)" opacity="0.9"/>
+    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      1️⃣ Behovsanalyse
+    </text>
+    
+    <g transform="translate(20, 45)">
+      <rect x="0" y="0" width="300" height="40" rx="5" fill="white" opacity="0.2"/>
+      <text x="10" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        Kartlegg eksisterende betalingsprosesser
+      </text>
+      <text x="10" y="32" font-family="Arial, sans-serif" font-size="11" fill="white">• Dokumenter nåværende arbeidsflyt</text>
+      
+      <rect x="0" y="50" width="300" height="40" rx="5" fill="white" opacity="0.2"/>
+      <text x="10" y="68" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        Identifiser forbedringsområder
+      </text>
+      <text x="10" y="82" font-family="Arial, sans-serif" font-size="11" fill="white">• Flaskehalser og ineffektivitet</text>
+      
+      <rect x="0" y="100" width="300" height="40" rx="5" fill="white" opacity="0.2"/>
+      <text x="10" y="118" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        Beregn potensielle besparelser
+      </text>
+      <text x="10" y="132" font-family="Arial, sans-serif" font-size="11" fill="white">• ROI-analyse og kostnads-nytte vurdering</text>
+    </g>
+  </g>
+  
+  <!-- Step 2: System Selection -->
+  <g transform="translate(410, 80)">
+    <rect x="0" y="0" width="340" height="180" rx="10" fill="url(#step2Gradient)" opacity="0.9"/>
+    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      2️⃣ Systemvalg
+    </text>
+    
+    <g transform="translate(20, 45)">
+      <rect x="0" y="0" width="300" height="40" rx="5" fill="white" opacity="0.2"/>
+      <text x="10" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        Evaluer ulike banktjenester
+      </text>
+      <text x="10" y="32" font-family="Arial, sans-serif" font-size="11" fill="white">• Sammenlign tilbydere og tjenester</text>
+      
+      <rect x="0" y="50" width="300" height="40" rx="5" fill="white" opacity="0.2"/>
+      <text x="10" y="68" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        Vurder integrasjon med eksisterende systemer
+      </text>
+      <text x="10" y="82" font-family="Arial, sans-serif" font-size="11" fill="white">• API-kompatibilitet og dataflyt</text>
+      
+      <rect x="0" y="100" width="300" height="40" rx="5" fill="white" opacity="0.2"/>
+      <text x="10" y="118" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        Sammenlign kostnader og funksjonalitet
+      </text>
+      <text x="10" y="132" font-family="Arial, sans-serif" font-size="11" fill="white">• Transaksjonsgebyrer og månedskostnader</text>
+    </g>
+  </g>
+  
+  <!-- Step 3: Setup and Testing -->
+  <g transform="translate(50, 280)">
+    <rect x="0" y="0" width="340" height="180" rx="10" fill="url(#step3Gradient)" opacity="0.9"/>
+    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      3️⃣ Oppsett og Testing
+    </text>
+    
+    <g transform="translate(20, 45)">
+      <rect x="0" y="0" width="300" height="40" rx="5" fill="white" opacity="0.2"/>
+      <text x="10" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        Konfigurer banksystemer
+      </text>
+      <text x="10" y="32" font-family="Arial, sans-serif" font-size="11" fill="white">• Oppsett av kontoer og tilganger</text>
+      
+      <rect x="0" y="50" width="300" height="40" rx="5" fill="white" opacity="0.2"/>
+      <text x="10" y="68" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        Test med små beløp
+      </text>
+      <text x="10" y="82" font-family="Arial, sans-serif" font-size="11" fill="white">• Pilotprosjekt med begrenset risiko</text>
+      
+      <rect x="0" y="100" width="300" height="40" rx="5" fill="white" opacity="0.2"/>
+      <text x="10" y="118" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        Tren personale
+      </text>
+      <text x="10" y="132" font-family="Arial, sans-serif" font-size="11" fill="white">• Opplæring i nye prosedyrer og systemer</text>
+    </g>
+  </g>
+  
+  <!-- Step 4: Rollout -->
+  <g transform="translate(410, 280)">
+    <rect x="0" y="0" width="340" height="180" rx="10" fill="url(#step4Gradient)" opacity="0.9"/>
+    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      4️⃣ Utrulling
+    </text>
+    
+    <g transform="translate(20, 45)">
+      <rect x="0" y="0" width="300" height="40" rx="5" fill="white" opacity="0.2"/>
+      <text x="10" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        Gradvis overgang fra gamle systemer
+      </text>
+      <text x="10" y="32" font-family="Arial, sans-serif" font-size="11" fill="white">• Faseinndelt implementering</text>
+      
+      <rect x="0" y="50" width="300" height="40" rx="5" fill="white" opacity="0.2"/>
+      <text x="10" y="68" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        Overvåk ytelse og feil
+      </text>
+      <text x="10" y="82" font-family="Arial, sans-serif" font-size="11" fill="white">• Kontinuerlig monitorering og logging</text>
+      
+      <rect x="0" y="100" width="300" height="40" rx="5" fill="white" opacity="0.2"/>
+      <text x="10" y="118" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        Juster prosedyrer etter behov
+      </text>
+      <text x="10" y="132" font-family="Arial, sans-serif" font-size="11" fill="white">• Tilpasninger basert på erfaringer</text>
+    </g>
+  </g>
+  
+  <!-- Step 5: Optimization -->
+  <g transform="translate(230, 480)">
+    <rect x="0" y="0" width="340" height="100" rx="10" fill="url(#step5Gradient)" opacity="0.9"/>
+    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      5️⃣ Optimalisering
+    </text>
+    
+    <g transform="translate(20, 40)">
+      <rect x="0" y="0" width="90" height="45" rx="3" fill="white" opacity="0.2"/>
+      <text x="45" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+        Analyser
+      </text>
+      <text x="45" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+        bruksmønstre
+      </text>
+      <text x="5" y="40" font-family="Arial, sans-serif" font-size="9" fill="white">• Identifiser trender</text>
+      
+      <rect x="105" y="0" width="90" height="45" rx="3" fill="white" opacity="0.2"/>
+      <text x="150" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+        Automatiser
+      </text>
+      <text x="150" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+        flere prosesser
+      </text>
+      <text x="110" y="40" font-family="Arial, sans-serif" font-size="9" fill="white">• Reduser manuelt arbeid</text>
+      
+      <rect x="210" y="0" width="90" height="45" rx="3" fill="white" opacity="0.2"/>
+      <text x="255" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+        Kontinuerlig
+      </text>
+      <text x="255" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+        forbedring
+      </text>
+      <text x="215" y="40" font-family="Arial, sans-serif" font-size="9" fill="white">• Regelmessig evaluering</text>
+    </g>
+  </g>
+  
+  <!-- Process Flow Arrows -->
+  <g fill="#666" opacity="0.7">
+    <!-- Arrow 1 to 2 -->
+    <path d="M 390 170 L 410 170" stroke="#666" stroke-width="3" marker-end="url(#arrowhead)"/>
+    
+    <!-- Arrow 2 to 3 -->
+    <path d="M 580 260 L 580 280" stroke="#666" stroke-width="3" marker-end="url(#arrowhead)"/>
+    
+    <!-- Arrow 3 to 4 -->
+    <path d="M 390 370 L 410 370" stroke="#666" stroke-width="3" marker-end="url(#arrowhead)"/>
+    
+    <!-- Arrow 4 to 5 -->
+    <path d="M 580 460 L 580 480" stroke="#666" stroke-width="3" marker-end="url(#arrowhead)"/>
+  </g>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#666"/>
+    </marker>
+  </defs>
+</svg>

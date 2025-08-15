@@ -1,0 +1,150 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="url(#bgGrad)" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Title -->
+  <rect x="0" y="0" width="800" height="70" fill="url(#headerGrad)"/>
+  <text x="400" y="45" font-family="Arial, sans-serif" font-size="26" font-weight="bold" text-anchor="middle" fill="white">
+    Omsetning i Ulike Bransjer
+  </text>
+  
+  <!-- Industry boxes -->
+  <!-- Retail -->
+  <rect x="50" y="100" width="340" height="120" fill="white" stroke="#28a745" stroke-width="2" rx="8"/>
+  <rect x="50" y="100" width="340" height="40" fill="#28a745" rx="8"/>
+  <text x="220" y="125" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+    Detaljhandel
+  </text>
+  
+  <circle cx="80" cy="160" r="6" fill="#28a745"/>
+  <text x="100" y="165" font-family="Arial, sans-serif" font-size="13" fill="#495057">
+    <tspan font-weight="bold">Omsetningstype:</tspan> Varesalg til sluttbrukere
+  </text>
+  
+  <circle cx="80" cy="185" r="6" fill="#28a745"/>
+  <text x="100" y="190" font-family="Arial, sans-serif" font-size="13" fill="#495057">
+    <tspan font-weight="bold">MVA-sats:</tspan> Vanligvis 25% på de fleste varer
+  </text>
+  
+  <circle cx="80" cy="210" r="6" fill="#28a745"/>
+  <text x="100" y="215" font-family="Arial, sans-serif" font-size="13" fill="#495057">
+    <tspan font-weight="bold">Særlige hensyn:</tspan> Høy omsetningsfrekvens
+  </text>
+  
+  <!-- Services -->
+  <rect x="410" y="100" width="340" height="120" fill="white" stroke="#dc3545" stroke-width="2" rx="8"/>
+  <rect x="410" y="100" width="340" height="40" fill="#dc3545" rx="8"/>
+  <text x="580" y="125" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+    Tjenesteyting
+  </text>
+  
+  <circle cx="440" cy="160" r="6" fill="#dc3545"/>
+  <text x="460" y="165" font-family="Arial, sans-serif" font-size="13" fill="#495057">
+    <tspan font-weight="bold">Omsetningstype:</tspan> Honorar og gebyrer
+  </text>
+  
+  <circle cx="440" cy="185" r="6" fill="#dc3545"/>
+  <text x="460" y="190" font-family="Arial, sans-serif" font-size="13" fill="#495057">
+    <tspan font-weight="bold">MVA-sats:</tspan> Kan variere (0%, 15%, 25%)
+  </text>
+  
+  <circle cx="440" cy="210" r="6" fill="#dc3545"/>
+  <text x="460" y="215" font-family="Arial, sans-serif" font-size="13" fill="#495057">
+    <tspan font-weight="bold">Særlige hensyn:</tspan> Tidspunkt for inntektsføring
+  </text>
+  
+  <!-- Manufacturing -->
+  <rect x="50" y="240" width="340" height="120" fill="white" stroke="#ffc107" stroke-width="2" rx="8"/>
+  <rect x="50" y="240" width="340" height="40" fill="#ffc107" rx="8"/>
+  <text x="220" y="265" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+    Produksjon
+  </text>
+  
+  <circle cx="80" cy="300" r="6" fill="#ffc107"/>
+  <text x="100" y="305" font-family="Arial, sans-serif" font-size="13" fill="#495057">
+    <tspan font-weight="bold">Omsetningstype:</tspan> Produserte varer
+  </text>
+  
+  <circle cx="80" cy="325" r="6" fill="#ffc107"/>
+  <text x="100" y="330" font-family="Arial, sans-serif" font-size="13" fill="#495057">
+    <tspan font-weight="bold">MVA-sats:</tspan> 25% på de fleste produkter
+  </text>
+  
+  <circle cx="80" cy="350" r="6" fill="#ffc107"/>
+  <text x="100" y="355" font-family="Arial, sans-serif" font-size="13" fill="#495057">
+    <tspan font-weight="bold">Særlige hensyn:</tspan> B2B og B2C salg
+  </text>
+  
+  <!-- Real Estate -->
+  <rect x="410" y="240" width="340" height="120" fill="white" stroke="#6f42c1" stroke-width="2" rx="8"/>
+  <rect x="410" y="240" width="340" height="40" fill="#6f42c1" rx="8"/>
+  <text x="580" y="265" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+    Eiendom
+  </text>
+  
+  <circle cx="440" cy="300" r="6" fill="#6f42c1"/>
+  <text x="460" y="305" font-family="Arial, sans-serif" font-size="13" fill="#495057">
+    <tspan font-weight="bold">Omsetningstype:</tspan> Leieinntekter
+  </text>
+  
+  <circle cx="440" cy="325" r="6" fill="#6f42c1"/>
+  <text x="460" y="330" font-family="Arial, sans-serif" font-size="13" fill="#495057">
+    <tspan font-weight="bold">MVA-sats:</tspan> Ofte MVA-fritatt
+  </text>
+  
+  <circle cx="440" cy="350" r="6" fill="#6f42c1"/>
+  <text x="460" y="355" font-family="Arial, sans-serif" font-size="13" fill="#495057">
+    <tspan font-weight="bold">Særlige hensyn:</tspan> Spesielle MVA-regler
+  </text>
+  
+  <!-- Digital -->
+  <rect x="230" y="380" width="340" height="120" fill="white" stroke="#17a2b8" stroke-width="2" rx="8"/>
+  <rect x="230" y="380" width="340" height="40" fill="#17a2b8" rx="8"/>
+  <text x="400" y="405" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+    Digital/IT
+  </text>
+  
+  <circle cx="260" cy="440" r="6" fill="#17a2b8"/>
+  <text x="280" y="445" font-family="Arial, sans-serif" font-size="13" fill="#495057">
+    <tspan font-weight="bold">Omsetningstype:</tspan> Abonnementer, lisenser
+  </text>
+  
+  <circle cx="260" cy="465" r="6" fill="#17a2b8"/>
+  <text x="280" y="470" font-family="Arial, sans-serif" font-size="13" fill="#495057">
+    <tspan font-weight="bold">MVA-sats:</tspan> 25% på digitale tjenester
+  </text>
+  
+  <circle cx="260" cy="490" r="6" fill="#17a2b8"/>
+  <text x="280" y="495" font-family="Arial, sans-serif" font-size="13" fill="#495057">
+    <tspan font-weight="bold">Særlige hensyn:</tspan> Grensekryssende salg
+  </text>
+  
+  <!-- Example calculation box -->
+  <rect x="100" y="520" width="600" height="60" fill="white" stroke="#0066cc" stroke-width="2" rx="8"/>
+  <text x="400" y="540" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0066cc">
+    Eksempel - Konsulentselskap (Tjenesteyting)
+  </text>
+  <text x="120" y="560" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+    Månedlig honorar: 80 000 kr (eks. MVA) + 20 000 kr MVA = 
+  </text>
+  <text x="520" y="560" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#0066cc">
+    100 000 kr omsetning
+  </text>
+  
+  <!-- Bottom note -->
+  <rect x="150" y="585" width="500" height="10" fill="#e9ecef" stroke="#dee2e6" stroke-width="1" rx="2"/>
+  <text x="400" y="592" font-family="Arial, sans-serif" font-size="8" text-anchor="middle" fill="#6c757d">
+    Hver bransje har sine særegenheter når det gjelder omsetningsberegning og MVA-behandling
+  </text>
+</svg>

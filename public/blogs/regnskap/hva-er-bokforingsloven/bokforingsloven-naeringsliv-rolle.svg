@@ -1,0 +1,203 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1e40af;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="legalGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#dc2626;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#b91c1c;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="businessGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#059669;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#047857;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="trustGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#7c3aed;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#6d28d9;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="societyGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#f59e0b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#d97706;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8fafc"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="60" fill="url(#headerGrad)"/>
+  <text x="400" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
+    Bokføringslovens Rolle i Norsk Næringsliv
+  </text>
+  
+  <!-- Central Law Circle -->
+  <g transform="translate(350, 280)">
+    <circle cx="50" cy="50" r="50" fill="#dbeafe" stroke="#2563eb" stroke-width="4"/>
+    <text x="50" y="40" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+      BOKFØRINGS-
+    </text>
+    <text x="50" y="60" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+      LOVEN
+    </text>
+  </g>
+  
+  <!-- Legal Requirements -->
+  <g transform="translate(50, 100)">
+    <rect x="0" y="0" width="200" height="50" rx="10" fill="url(#legalGrad)"/>
+    <text x="100" y="30" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+      JURIDISK KRAV
+    </text>
+    
+    <rect x="20" y="60" width="160" height="120" rx="5" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+    <text x="100" y="80" text-anchor="middle" fill="#991b1b" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      Lovpålagte plikter:
+    </text>
+    <text x="30" y="100" fill="#991b1b" font-family="Arial, sans-serif" font-size="12">
+      • Systematisk regnskapsføring
+    </text>
+    <text x="30" y="115" fill="#991b1b" font-family="Arial, sans-serif" font-size="12">
+      • Dokumentasjon og oppbevaring
+    </text>
+    <text x="30" y="130" fill="#991b1b" font-family="Arial, sans-serif" font-size="12">
+      • Rapportering til myndigheter
+    </text>
+    <text x="30" y="145" fill="#991b1b" font-family="Arial, sans-serif" font-size="12">
+      • Overholdelse av frister
+    </text>
+    <text x="30" y="160" fill="#991b1b" font-family="Arial, sans-serif" font-size="12">
+      • Sanksjoner ved brudd
+    </text>
+    
+    <!-- Arrow to center -->
+    <path d="M250 160 L350 280" stroke="#dc2626" stroke-width="3" stroke-dasharray="5,5"/>
+  </g>
+  
+  <!-- Business Management Tool -->
+  <g transform="translate(550, 100)">
+    <rect x="0" y="0" width="200" height="50" rx="10" fill="url(#businessGrad)"/>
+    <text x="100" y="30" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+      STYRINGSVERKTØY
+    </text>
+    
+    <rect x="20" y="60" width="160" height="120" rx="5" fill="#ecfdf5" stroke="#059669" stroke-width="2"/>
+    <text x="100" y="80" text-anchor="middle" fill="#065f46" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      Bedre økonomistyring:
+    </text>
+    <text x="30" y="100" fill="#065f46" font-family="Arial, sans-serif" font-size="12">
+      • Oversikt over økonomisk situasjon
+    </text>
+    <text x="30" y="115" fill="#065f46" font-family="Arial, sans-serif" font-size="12">
+      • Grunnlag for beslutninger
+    </text>
+    <text x="30" y="130" fill="#065f46" font-family="Arial, sans-serif" font-size="12">
+      • Budsjett og prognoser
+    </text>
+    <text x="30" y="145" fill="#065f46" font-family="Arial, sans-serif" font-size="12">
+      • Risikostyring
+    </text>
+    <text x="30" y="160" fill="#065f46" font-family="Arial, sans-serif" font-size="12">
+      • Strategisk planlegging
+    </text>
+    
+    <!-- Arrow to center -->
+    <path d="M550 160 L450 280" stroke="#059669" stroke-width="3" stroke-dasharray="5,5"/>
+  </g>
+  
+  <!-- Trust and Credibility -->
+  <g transform="translate(50, 420)">
+    <rect x="0" y="0" width="200" height="50" rx="10" fill="url(#trustGrad)"/>
+    <text x="100" y="30" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+      TILLIT OG TROVERDIGHET
+    </text>
+    
+    <rect x="20" y="60" width="160" height="100" rx="5" fill="#f5f3ff" stroke="#7c3aed" stroke-width="2"/>
+    <text x="100" y="80" text-anchor="middle" fill="#581c87" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      Økt tillit fra:
+    </text>
+    <text x="30" y="100" fill="#581c87" font-family="Arial, sans-serif" font-size="12">
+      • Banker og finansinstitusjoner
+    </text>
+    <text x="30" y="115" fill="#581c87" font-family="Arial, sans-serif" font-size="12">
+      • Leverandører og kunder
+    </text>
+    <text x="30" y="130" fill="#581c87" font-family="Arial, sans-serif" font-size="12">
+      • Investorer og eiere
+    </text>
+    <text x="30" y="145" fill="#581c87" font-family="Arial, sans-serif" font-size="12">
+      • Offentlige myndigheter
+    </text>
+    
+    <!-- Arrow to center -->
+    <path d="M250 470 L350 380" stroke="#7c3aed" stroke-width="3" stroke-dasharray="5,5"/>
+  </g>
+  
+  <!-- Society Benefits -->
+  <g transform="translate(550, 420)">
+    <rect x="0" y="0" width="200" height="50" rx="10" fill="url(#societyGrad)"/>
+    <text x="100" y="30" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+      SAMFUNNSNYTTE
+    </text>
+    
+    <rect x="20" y="60" width="160" height="100" rx="5" fill="#fffbeb" stroke="#f59e0b" stroke-width="2"/>
+    <text x="100" y="80" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      Bidrag til samfunnet:
+    </text>
+    <text x="30" y="100" fill="#92400e" font-family="Arial, sans-serif" font-size="12">
+      • Korrekt skattegrunnlag
+    </text>
+    <text x="30" y="115" fill="#92400e" font-family="Arial, sans-serif" font-size="12">
+      • Økonomisk statistikk
+    </text>
+    <text x="30" y="130" fill="#92400e" font-family="Arial, sans-serif" font-size="12">
+      • Kreditorvern
+    </text>
+    <text x="30" y="145" fill="#92400e" font-family="Arial, sans-serif" font-size="12">
+      • Transparent næringsliv
+    </text>
+    
+    <!-- Arrow to center -->
+    <path d="M550 470 L450 380" stroke="#f59e0b" stroke-width="3" stroke-dasharray="5,5"/>
+  </g>
+  
+  <!-- Key Benefits Box -->
+  <g transform="translate(250, 240)">
+    <rect x="0" y="0" width="300" height="80" rx="10" fill="#1f2937" stroke="#374151" stroke-width="2"/>
+    <text x="150" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+      HOVEDGEVINSTER
+    </text>
+    <text x="150" y="45" text-anchor="middle" fill="#d1d5db" font-family="Arial, sans-serif" font-size="13">
+      Regelverksoverholdelse + Bedre økonomistyring
+    </text>
+    <text x="150" y="65" text-anchor="middle" fill="#d1d5db" font-family="Arial, sans-serif" font-size="13">
+      = Solid grunnlag for strategiske beslutninger
+    </text>
+  </g>
+  
+  <!-- Implementation Success -->
+  <g transform="translate(250, 350)">
+    <rect x="0" y="0" width="300" height="60" rx="10" fill="#ecfdf5" stroke="#059669" stroke-width="2"/>
+    <text x="150" y="25" text-anchor="middle" fill="#065f46" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+      SUKSESSFAKTORER
+    </text>
+    <text x="150" y="45" text-anchor="middle" fill="#065f46" font-family="Arial, sans-serif" font-size="13">
+      Gode rutiner • Moderne teknologi • Kontinuerlig læring
+    </text>
+  </g>
+  
+  <!-- Bottom message -->
+  <g transform="translate(50, 560)">
+    <rect x="0" y="0" width="700" height="30" rx="5" fill="#fef3c7" stroke="#f59e0b" stroke-width="2"/>
+    <text x="350" y="20" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      Bokføringsloven: Ikke bare et juridisk krav, men et verktøy for suksess i næringslivet
+    </text>
+  </g>
+  
+  <!-- Norwegian business ecosystem indicator -->
+  <g transform="translate(320, 80)">
+    <rect x="0" y="0" width="160" height="25" rx="3" fill="#dbeafe" stroke="#2563eb" stroke-width="1"/>
+    <text x="80" y="17" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+      NORSK NÆRINGSLIV
+    </text>
+  </g>
+</svg>

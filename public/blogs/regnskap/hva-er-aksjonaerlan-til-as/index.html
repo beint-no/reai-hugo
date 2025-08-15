@@ -1,0 +1,453 @@
+<!doctype html>
+<html lang="nb">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Hva er Aksjonærlån til AS? | ReAI</title>
+  <meta name="description" content="Komplett regnskapssystem med faktura, lønn, bilagsføring og årsoppgjør.">
+  
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<script src="https://cdn.tailwindcss.com?plugins=typography"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        fontFamily: { sans: ['Inter','ui-sans-serif','system-ui','Arial','sans-serif'] },
+        colors: {
+          brand: { DEFAULT: '#111827' },
+          accent: { DEFAULT: '#2563eb' }
+        }
+      }
+    }
+  }
+</script>
+<style>
+   
+  header .header-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #000 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link:hover { background-position: 0; }
+  header .header-link:hover::before { width: 100%; }
+
+  footer .footer-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #ffffff 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link:hover { background-position: 0; }
+  footer .footer-link:hover::before { width: 100%; }
+</style>
+<style>
+   
+  .prose { overflow-wrap: anywhere; word-break: break-word; }
+  .prose img { max-width: 100%; height: auto; }
+  .prose table { display: block; width: 100%; overflow-x: auto; }
+  .prose pre { white-space: pre-wrap; word-break: break-word; overflow-x: auto; }
+  .prose code { word-break: break-word; }
+  .prose iframe, .prose video { max-width: 100%; width: 100%; height: auto; }
+</style>
+<style>
+   
+  button,
+  .btn,
+  a.btn,
+  .button,
+  .cta,
+  .link-button,
+   
+  a.inline-flex.rounded-md,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"] {
+    transition: transform 220ms ease, box-shadow 220ms ease, background-color 220ms ease, color 220ms ease, opacity 220ms ease;
+    will-change: transform, box-shadow;
+  }
+
+  button:hover,
+  .btn:hover,
+  a.btn:hover,
+  .button:hover,
+  .cta:hover,
+  .link-button:hover,
+  a.inline-flex.rounded-md:hover,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+
+  button:active,
+  .btn:active,
+  a.btn:active,
+  .button:active,
+  .cta:active,
+  .link-button:active,
+  a.inline-flex.rounded-md:active,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:active {
+    transform: translateY(-1px) scale(0.99);
+    box-shadow: 0 6px 12px rgba(2, 6, 23, 0.1);
+  }
+
+  button:focus-visible,
+  .btn:focus-visible,
+  a.btn:focus-visible,
+  .button:focus-visible,
+  .cta:focus-visible,
+  .link-button:focus-visible,
+  a.inline-flex.rounded-md:focus-visible,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.35), 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+</style>
+
+<link rel="icon" type="image/svg+xml" href="/images/ReAI-logo-square.svg">
+<link rel="shortcut icon" href="/images/ReAI-logo-square.svg">
+
+</head>
+<body class="min-h-dvh bg-white text-gray-900 font-sans">
+  <header class="sticky top-0 z-40 bg-white/80 backdrop-blur">
+  
+  <div class="border-b border-slate-200/70">
+    <div class="max-w-7xl mx-auto px-4">
+      <div class="h-16 flex items-center justify-between">
+        <a href="/" class="flex items-center gap-2" aria-label="ReAI">
+          <img src="/images/ReAI-logo-square.svg?v=4" alt="ReAI logo" class="h-14 w-14 rounded-md mt-5" width="56" height="56" loading="eager" decoding="async">
+        </a>
+        <nav class="hidden md:block">
+          <ul class="flex items-center gap-5 text-sm">
+            <li><a href="/courses/" class="header-link text-slate-700 hover:text-black">Gratis kurs</a></li>
+            <li><a href="/contact/" class="header-link text-slate-700 hover:text-black">Kontakt oss</a></li>
+            <li><a href="/blog/" class="header-link text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+            <li><a href="/bli-partner/" class="header-link text-slate-700 hover:text-black">Bli partner</a></li>
+            <li><a href="/fakturamal/" class="header-link text-slate-700 hover:text-black">Lag faktura</a></li>
+          </ul>
+        </nav>
+        <button id="mobileMenuBtn" aria-controls="mobileMenu" aria-expanded="false" class="md:hidden inline-flex items-center justify-center h-9 w-9 rounded-md border border-slate-300">
+          <span class="sr-only">Menu</span>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-5 w-5"><path d="M3.75 6.75h16.5v1.5H3.75zM3.75 11.25h16.5v1.5H3.75zM3.75 15.75h16.5v1.5H3.75z"/></svg>
+        </button>
+      </div>
+    </div>
+  </div>
+  
+  <nav id="mobileMenu" class="md:hidden hidden border-b border-slate-200/70 bg-white/95 backdrop-blur">
+    <div class="max-w-7xl mx-auto px-4 py-3">
+      <ul class="flex flex-col items-center gap-3 text-sm text-center">
+        <li><a href="/courses/" class="header-link block text-slate-700 hover:text-black">Gratis kurs</a></li>
+        <li><a href="/contact/" class="header-link block text-slate-700 hover:text-black">Kontakt oss</a></li>
+        <li><a href="/blog/" class="header-link block text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+        <li><a href="/bli-partner/" class="header-link block text-slate-700 hover:text-black">Bli partner</a></li>
+        <li><a href="/fakturamal/" class="header-link block text-slate-700 hover:text-black">Lag faktura</a></li>
+      </ul>
+    </div>
+  </nav>
+  <script>
+    (function() {
+      const btn = document.getElementById('mobileMenuBtn');
+      const menu = document.getElementById('mobileMenu');
+      if (!btn || !menu) return;
+      btn.addEventListener('click', function() {
+        const isHidden = menu.classList.contains('hidden');
+        menu.classList.toggle('hidden');
+        btn.setAttribute('aria-expanded', String(isHidden));
+      });
+    })();
+  </script>
+</header>
+  <main>
+    
+<section class="pt-10 md:pt-14">
+  <div class="max-w-3xl mx-auto px-4">
+    <h1 class="text-3xl font-semibold tracking-tight text-center">Hva er Aksjonærlån til AS?</h1>
+    <p class="mt-2 text-gray-700">Et aksjonærlån til AS er et lån som en aksjonær gir til sitt eget aksjeselskap. Dette er en vanlig finansieringsform som krever korrekt dokumentasjon og markedsmessige vilkår.</p>
+    <article class="prose max-w-none mt-6"><p>Et <strong>aksjonærlån til AS</strong> er et lån som en <a href="/blogs/regnskap/hva-er-en-aksjonaer" title="Hva er en Aksjonær? En Komplett Guide">aksjonær</a> gir til sitt eget <a href="/blogs/regnskap/hva-er-et-aksjeselskap" title="Hva er et Aksjeselskap? Komplett Guide til Selskapsformen">aksjeselskap</a>. Dette er en vanlig måte å tilføre kapital til selskapet på, spesielt i oppstartsfasen eller når selskapet trenger ekstra likviditet.</p>
+<p><img src="hva-er-aksjonaerlan-til-as-image.svg" alt="Illustrasjon som viser konseptet om aksjonærlån til AS"></p>
+<h3 id="hva-er-et-aksjonærlån-til-as">Hva er et Aksjonærlån til AS?</h3>
+<p>Et aksjonærlån til AS oppstår når en aksjonær låner penger til selskapet sitt i stedet for å øke <a href="/blogs/regnskap/hva-er-aksjekapital" title="Hva er Aksjekapital? Krav og Forklaring">aksjekapitalen</a>. Dette kan være:</p>
+<ul>
+<li><strong>Kortsiktig finansiering:</strong> For å dekke midlertidige likviditetsbehov</li>
+<li><strong>Oppstartskapital:</strong> Når selskapet trenger penger før det kan generere inntekter</li>
+<li><strong>Ekspansjonsfinansiering:</strong> For investeringer og vekst</li>
+<li><strong>Alternativ til <a href="/blogs/regnskap/kapitalforhoyelse" title="Kapitalforhøyelse: Metoder og Regnskapsføring">kapitalforhøyelse</a>:</strong> Når man ikke ønsker å utvanne eierandelene</li>
+</ul>
+<p>Lånet må dokumenteres skriftlig og følge markedsmessige vilkår for å unngå skattemessige problemer.</p>
+<p><img src="aksjonaerlan-til-as-situasjoner.svg" alt="Diagram som viser ulike situasjoner for aksjonærlån til AS"></p>
+<h3 id="fordeler-med-aksjonærlån-til-as">Fordeler med Aksjonærlån til AS</h3>
+<h4 id="for-aksjonæren-långiveren">For Aksjonæren (Långiveren)</h4>
+<ul>
+<li><strong>Fleksibilitet:</strong> Enklere å få pengene tilbake enn ved kapitalforhøyelse</li>
+<li><strong>Renteinntekt:</strong> Kan motta markedsmessig rente på lånet</li>
+<li><strong>Sikkerhet:</strong> Kan kreve sikkerhet for lånet</li>
+<li><strong>Kontroll:</strong> Beholder samme eierandel i selskapet</li>
+</ul>
+<h4 id="for-selskapet-låntakeren">For Selskapet (Låntakeren)</h4>
+<ul>
+<li><strong>Rask tilgang til kapital:</strong> Ingen kompliserte kapitalforhøyelsesprosesser</li>
+<li><strong>Lavere kostnader:</strong> Unngår kostnader ved emisjon av nye aksjer</li>
+<li><strong>Bevarer eierstruktur:</strong> Ingen utvanning av eksisterende aksjonærer</li>
+<li><strong>Skattefordel:</strong> Renteutgifter er fradragsberettigede</li>
+</ul>
+<p><img src="aksjonaerlan-fordeler.svg" alt="Sammenligning av fordeler for aksjonær og selskap"></p>
+<h3 id="skattemessige-konsekvenser">Skattemessige Konsekvenser</h3>
+<h4 id="for-aksjonæren-långiveren-1">For Aksjonæren (Långiveren)</h4>
+<ul>
+<li><strong>Renteinntekt:</strong> Mottatt rente regnes som skattepliktig kapitalinntekt</li>
+<li><strong>Tap på fordring:</strong> Eventuelle tap kan være fradragsberettiget</li>
+<li><strong>Dokumentasjon:</strong> Må kunne dokumentere lånet og renteinntektene</li>
+</ul>
+<h4 id="for-selskapet-låntakeren-1">For Selskapet (Låntakeren)</h4>
+<ul>
+<li><strong>Renteutgift:</strong> Betalt rente er fradragsberettiget i selskapet</li>
+<li><strong>Markedsmessig rente:</strong> Må betale markedsmessig rente for å unngå problemer</li>
+<li><strong>Regnskapsføring:</strong> Lånet må føres korrekt i <a href="/blogs/regnskap/hva-er-regnskap" title="Hva er Regnskap? En komplett guide">regnskapet</a></li>
+</ul>
+<h3 id="markedsmessig-rente-og-vilkår">Markedsmessig Rente og Vilkår</h3>
+<p>For at lånet skal være skattemessig akseptabelt, må det ha <strong>markedsmessige vilkår</strong>:</p>
+<h4 id="rentesats">Rentesats</h4>
+<ul>
+<li><strong>Normrente:</strong> Skatteetaten fastsetter en normrente som veiledning</li>
+<li><strong>Markedsrente:</strong> Renten må tilsvare det selskapet ville betalt til en ekstern långiver</li>
+<li><strong>Risikojustering:</strong> Høyere risiko kan rettferdiggjøre høyere rente</li>
+</ul>
+<h4 id="lånebetingelser">Lånebetingelser</h4>
+<ul>
+<li><strong>Nedbetalingsplan:</strong> Klare avtaler om tilbakebetaling</li>
+<li><strong>Sikkerhet:</strong> Eventuelle sikkerheter må dokumenteres</li>
+<li><strong>Oppsigelse:</strong> Vilkår for oppsigelse av lånet</li>
+</ul>
+<p><img src="markedsmessige-vilkar.svg" alt="Illustrasjon av markedsmessige vilkår for aksjonærlån"></p>
+<h3 id="dokumentasjonskrav">Dokumentasjonskrav</h3>
+<p>Alle aksjonærlån til AS må være <strong>skriftlig dokumentert</strong>:</p>
+<h4 id="låneavtale">Låneavtale</h4>
+<ul>
+<li><strong>Lånebeløp:</strong> Hvor mye som lånes til selskapet</li>
+<li><strong>Rentesats:</strong> Markedsmessig rente som skal betales</li>
+<li><strong>Nedbetalingsplan:</strong> Hvordan og når lånet skal tilbakebetales</li>
+<li><strong>Sikkerhet:</strong> Eventuelle sikkerheter selskapet stiller</li>
+<li><strong>Misligholdsbestemmelser:</strong> Konsekvenser ved manglende betaling</li>
+</ul>
+<h4 id="regnskapsføring">Regnskapsføring</h4>
+<p>Lånet må føres korrekt i både aksjonærens og selskapets regnskap:</p>
+<p><strong>I Selskapets Regnskap:</strong></p>
+<ul>
+<li><strong>Balansen:</strong> Lånet føres som gjeld til aksjonær</li>
+<li><strong>Resultatregnskapet:</strong> Renteutgifter føres som finanskostnad</li>
+<li><strong>Noter:</strong> Aksjonærlån må spesifiseres i notene</li>
+</ul>
+<p><strong>I Aksjonærens Regnskap:</strong></p>
+<ul>
+<li><strong>Balansen:</strong> Lånet føres som fordring på selskap</li>
+<li><strong>Resultatregnskapet:</strong> Renteinntekter føres som finansinntekt</li>
+</ul>
+<h3 id="praktiske-eksempler">Praktiske Eksempler</h3>
+<h4 id="eksempel-1-oppstartsfinansiering">Eksempel 1: Oppstartsfinansiering</h4>
+<p>Et nystartet selskap trenger 200 000 kr til utstyr:</p>
+<ul>
+<li><strong>Lånebeløp:</strong> 200 000 kr fra aksjonær</li>
+<li><strong>Rente:</strong> 4,0% (markedsmessig for oppstartsselskap)</li>
+<li><strong>Nedbetalingstid:</strong> 5 år</li>
+<li><strong>Årlig rentekostnad for selskap:</strong> 8 000 kr</li>
+<li><strong>Skattefordel for selskap:</strong> 8 000 kr × 22% = 1 760 kr</li>
+</ul>
+<h4 id="eksempel-2-likviditetsutfordring">Eksempel 2: Likviditetsutfordring</h4>
+<p>Etablert selskap trenger midlertidig finansiering:</p>
+<ul>
+<li><strong>Lånebeløp:</strong> 500 000 kr</li>
+<li><strong>Rente:</strong> 3,5% (lavere risiko)</li>
+<li><strong>Nedbetalingstid:</strong> 2 år</li>
+<li><strong>Månedlige avdrag:</strong> ca. 21 500 kr</li>
+<li><strong>Fleksibilitet:</strong> Kan nedbetales raskere ved bedret likviditet</li>
+</ul>
+<p><img src="aksjonaerlan-eksempler.svg" alt="Praktiske eksempler på aksjonærlån til AS"></p>
+<h3 id="alternativer-til-aksjonærlån">Alternativer til Aksjonærlån</h3>
+<h4 id="kapitalforhøyelse">Kapitalforhøyelse</h4>
+<ul>
+<li><strong>Permanent kapital:</strong> Pengene blir permanent egenkapital</li>
+<li><strong>Utvanning:</strong> Kan påvirke eierforhold hvis andre ikke deltar</li>
+<li><strong>Kompleksitet:</strong> Krever generalforsamlingsvedtak og registrering</li>
+</ul>
+<h4 id="innskuddskapital">Innskuddskapital</h4>
+<ul>
+<li><strong>Mellomløsning:</strong> Kan senere konverteres til aksjekapital</li>
+<li><strong>Fleksibilitet:</strong> Enklere å få tilbake enn aksjekapital</li>
+<li><strong>Skattemessig:</strong> Spesielle regler for innskuddskapital</li>
+</ul>
+<h4 id="ekstern-finansiering">Ekstern finansiering</h4>
+<ul>
+<li><strong>Banklån:</strong> Tradisjonell finansiering fra bank</li>
+<li><strong>Høyere krav:</strong> Strengere krav til sikkerhet og dokumentasjon</li>
+<li><strong>Uavhengighet:</strong> Ikke avhengig av aksjonærenes private økonomi</li>
+</ul>
+<h3 id="risiko-og-fallgruver">Risiko og Fallgruver</h3>
+<h4 id="vanlige-feil">Vanlige Feil</h4>
+<ul>
+<li><strong>Manglende dokumentasjon:</strong> Lån uten skriftlig avtale</li>
+<li><strong>Ikke-markedsmessige vilkår:</strong> For lav eller høy rente</li>
+<li><strong>Feil regnskapsføring:</strong> Ikke føre lånet korrekt</li>
+<li><strong>Blanding med privat økonomi:</strong> Ikke skille mellom privat og selskap</li>
+</ul>
+<h4 id="konsekvenser-ved-feil">Konsekvenser ved Feil</h4>
+<ul>
+<li><strong>Skatteetaten kan omklassifisere</strong> lånet som kapitalinnskudd</li>
+<li><strong>Tap av rentefradrag</strong> for selskapet</li>
+<li><strong>Skattemessige problemer</strong> for aksjonæren</li>
+<li><strong>Juridiske utfordringer</strong> ved manglende dokumentasjon</li>
+</ul>
+<h3 id="juridiske-aspekter">Juridiske Aspekter</h3>
+<h4 id="aksjelovens-bestemmelser">Aksjelovens Bestemmelser</h4>
+<p><a href="/blogs/regnskap/hva-er-aksjeloven" title="Hva er Aksjeloven? Regler for Aksjeselskaper i Norge">Aksjeloven</a> regulerer forholdet mellom aksjonærer og selskap:</p>
+<ul>
+<li><strong>Kreditorvern:</strong> Aksjonærlån må ikke svekke kreditorenes stilling</li>
+<li><strong>Likestilling:</strong> Alle aksjonærer må behandles likt</li>
+<li><strong>Styrets ansvar:</strong> Styret må vurdere selskapets evne til å betjene lånet</li>
+</ul>
+<h4 id="konkursloven">Konkursloven</h4>
+<p>Ved konkurs har aksjonærlån spesiell status:</p>
+<ul>
+<li><strong>Ansvarlig lånekapital:</strong> Kan bli underordnet andre kreditorer</li>
+<li><strong>Tilbakebetalingsrett:</strong> Begrenset rett til tilbakebetaling ved konkurs</li>
+<li><strong>Dokumentasjon:</strong> Viktig med korrekt dokumentasjon for å bevare rettigheter</li>
+</ul>
+<h3 id="praktiske-råd">Praktiske Råd</h3>
+<h4 id="for-aksjonæren">For Aksjonæren</h4>
+<ol>
+<li><strong>Vurder risiko:</strong> Forstå at lånet kan gå tapt ved konkurs</li>
+<li><strong>Krev markedsmessige vilkår:</strong> Både rente og sikkerhet</li>
+<li><strong>Dokumenter alt:</strong> Skriftlig avtale og oppfølging</li>
+<li><strong>Følg opp betalinger:</strong> Sørg for at renter og avdrag betales</li>
+<li><strong>Konsulter eksperter:</strong> Få juridisk og regnskapsmessig rådgivning</li>
+</ol>
+<h4 id="for-selskapet">For Selskapet</h4>
+<ol>
+<li><strong>Vurder alternativer:</strong> Sammenlign med andre finansieringsformer</li>
+<li><strong>Sørg for bærekraft:</strong> Ikke ta opp mer enn selskapet kan betjene</li>
+<li><strong>Korrekt regnskapsføring:</strong> Før lånet riktig fra dag én</li>
+<li><strong>Overholdelse av avtaler:</strong> Betal renter og avdrag i tide</li>
+<li><strong>Kommunikasjon:</strong> Hold aksjonæren informert om selskapets situasjon</li>
+</ol>
+<h3 id="regnskapsføring-i-detalj">Regnskapsføring i Detalj</h3>
+<h4 id="etablering-av-lånet">Etablering av Lånet</h4>
+<pre tabindex="0"><code>Selskapets Regnskap:
+Debet: Bank/Kasse (økning i eiendeler)
+Kredit: Gjeld til aksjonær (økning i gjeld)
+
+Aksjonærens Regnskap:
+Debet: Fordring på selskap (økning i eiendeler)  
+Kredit: Bank/Kasse (reduksjon i eiendeler)
+</code></pre><h4 id="renteberegning-og-betaling">Renteberegning og Betaling</h4>
+<pre tabindex="0"><code>Selskapets Regnskap:
+Debet: Rentekostnad (kostnad)
+Kredit: Gjeld til aksjonær (økt gjeld) eller Bank (betaling)
+
+Aksjonærens Regnskap:
+Debet: Bank/Kasse eller Fordring (økning)
+Kredit: Renteinntekt (inntekt)
+</code></pre><h3 id="oppfølging-og-kontroll">Oppfølging og Kontroll</h3>
+<h4 id="løpende-oppfølging">Løpende Oppfølging</h4>
+<ul>
+<li><strong>Renteberegning:</strong> Månedlig eller kvartalsvis beregning</li>
+<li><strong>Betalingsoppfølging:</strong> Kontroll av at avtaler overholdes</li>
+<li><strong>Likviditetsvurdering:</strong> Vurdering av selskapets betalingsevne</li>
+<li><strong>Markedsrentejustering:</strong> Årlig vurdering av rentesats</li>
+</ul>
+<h4 id="årlig-gjennomgang">Årlig Gjennomgang</h4>
+<ul>
+<li><strong>Avtalegjennomgang:</strong> Vurdering av om avtalen fortsatt er hensiktsmessig</li>
+<li><strong>Risikoevaluering:</strong> Vurdering av selskapets kredittverdighet</li>
+<li><strong>Skattemessig gjennomgang:</strong> Kontroll av skattemessig behandling</li>
+<li><strong>Regnskapsrevisjon:</strong> Kontroll av korrekt regnskapsføring</li>
+</ul>
+<h3 id="relaterte-begreper">Relaterte Begreper</h3>
+<p>For å forstå aksjonærlån til AS fullt ut, bør du også sette deg inn i:</p>
+<ul>
+<li><strong><a href="/blogs/regnskap/hva-er-et-aksjeselskap" title="Hva er et Aksjeselskap? Komplett Guide til Selskapsformen">Aksjeselskap (AS)</a></strong> - Selskapsformen som mottar lånet</li>
+<li><strong><a href="/blogs/regnskap/hva-er-en-aksje" title="Hva er en Aksje? En Enkel Forklaring">Aksjer</a></strong> - Eierandelene som gir rett til å låne til selskapet</li>
+<li><strong><a href="/blogs/regnskap/hva-er-aksjekapital" title="Hva er Aksjekapital? Krav og Forklaring">Aksjekapital</a></strong> - Alternativ til lån for kapitalinnsprøytning</li>
+<li><strong><a href="/blogs/regnskap/hva-er-aksjonaerlan-fra-as" title="Hva er Aksjonærlån fra AS? Regler, Skatt og Praktiske Råd">Aksjonærlån fra AS</a></strong> - Det motsatte: lån fra selskap til aksjonær</li>
+<li><strong><a href="/blogs/regnskap/hva-er-aksjeloven" title="Hva er Aksjeloven? Regler for Aksjeselskaper i Norge">Aksjeloven</a></strong> - Loven som regulerer forholdet mellom aksjonærer og selskap</li>
+<li><strong><a href="/blogs/regnskap/hva-er-regnskap" title="Hva er Regnskap? En komplett guide">Regnskap</a></strong> - Regnskapsføring av lån og renter</li>
+</ul>
+<p>Aksjonærlån til AS kan være en effektiv finansieringsform, men krever nøye planlegging, korrekt dokumentasjon og oppfølging for å sikre både skattemessig og juridisk korrekt behandling.</p>
+</article>
+  </div>
+</section>
+
+  </main>
+  <footer class="mt-16 border-t border-slate-800/60 bg-slate-900">
+  <div class="max-w-7xl mx-auto px-4 py-14">
+    <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3 text-center sm:text-left">
+      
+      <div>
+        <h3 class="text-sm font-semibold text-white">Verktøy</h3>
+        <ul class="mt-2 space-y-2 text-sm text-slate-300">
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/finn-iban/">IBAN kalkulator</a></li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/lag-faktura-gratis/">Lag faktura</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Selskaps-informasjon</h3>
+        <ul class="mt-2 space-y-1 text-sm text-slate-300">
+          <li>Reai AS</li>
+          <li>Orgnr: 935606403</li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="mailto:post@reai.no">post@reai.no</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Om ReAI</h3>
+        <p class="mt-2 text-sm text-slate-300">ReAI er et gratis regnskapsprogram laget av tidligere ansatte i Tripletex
+          / Visma. Vi mener det er på tide med mer konkurranse i regnskaps-bransjen som kan komme bedrifter til gode.
+        </p>
+      </div>
+    </div>
+    <div class="mt-12 border-t border-slate-800/60 pt-6 flex flex-col items-center sm:flex-row sm:items-center sm:justify-between text-sm text-slate-400 text-center sm:text-left">
+      <div class="flex items-center gap-2">
+        
+        
+      </div>
+      <div class="mt-4 sm:mt-0 flex items-center justify-center sm:justify-end">
+        <div class="opacity-80">&copy; 2025 ReAI. All rights reserved.</div>
+      </div>
+    </div>
+  </div>
+</footer>
+</body>
+</html>

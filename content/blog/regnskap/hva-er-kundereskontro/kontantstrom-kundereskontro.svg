@@ -1,0 +1,139 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .title { font-family: Arial, sans-serif; font-size: 18px; font-weight: bold; fill: #2c3e50; }
+      .subtitle { font-family: Arial, sans-serif; font-size: 14px; font-weight: bold; fill: #34495e; }
+      .text { font-family: Arial, sans-serif; font-size: 11px; fill: #2c3e50; }
+      .small-text { font-family: Arial, sans-serif; font-size: 10px; fill: #2c3e50; }
+      .section-title { font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; fill: #fff; }
+      .positive { fill: #27ae60; }
+      .negative { fill: #e74c3c; }
+      .neutral { fill: #3498db; }
+      .metric-text { font-family: Arial, sans-serif; font-size: 10px; fill: #2c3e50; text-anchor: middle; }
+      .formula { font-family: monospace, sans-serif; font-size: 9px; fill: #2c3e50; }
+    </style>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" class="title" text-anchor="middle">Kontantstrøm og Kundereskontro</text>
+  <text x="400" y="50" class="subtitle" text-anchor="middle">Påvirkning på bedriftens likviditet</text>
+  
+  <!-- Central flow diagram -->
+  <g transform="translate(400, 150)">
+    <!-- Central circle representing cash flow -->
+    <circle cx="0" cy="0" r="50" fill="#3498db" stroke="#2980b9" stroke-width="3"/>
+    <text x="0" y="-5" class="section-title" text-anchor="middle">KONTANT-</text>
+    <text x="0" y="10" class="section-title" text-anchor="middle">STRØM</text>
+    
+    <!-- Positive effects (left side) -->
+    <g transform="translate(-200, 0)">
+      <rect x="-80" y="-60" width="160" height="120" fill="#27ae60" stroke="#229954" stroke-width="2" rx="10"/>
+      <text x="0" y="-40" class="section-title" text-anchor="middle">POSITIVE EFFEKTER</text>
+      <text x="0" y="-20" class="section-title" text-anchor="middle">Effektiv styring</text>
+      
+      <text x="-70" y="0" class="small-text" fill="#fff">✓ Raskere innbetaling</text>
+      <text x="-70" y="15" class="small-text" fill="#fff">✓ Redusert tap</text>
+      <text x="-70" y="30" class="small-text" fill="#fff">✓ Bedre prognoser</text>
+      <text x="-70" y="45" class="small-text" fill="#fff">✓ Økt likviditet</text>
+    </g>
+    
+    <!-- Negative effects (right side) -->
+    <g transform="translate(200, 0)">
+      <rect x="-80" y="-60" width="160" height="120" fill="#e74c3c" stroke="#c0392b" stroke-width="2" rx="10"/>
+      <text x="0" y="-40" class="section-title" text-anchor="middle">NEGATIVE EFFEKTER</text>
+      <text x="0" y="-20" class="section-title" text-anchor="middle">Dårlig styring</text>
+      
+      <text x="-70" y="0" class="small-text" fill="#fff">✗ Forsinket innbetaling</text>
+      <text x="-70" y="15" class="small-text" fill="#fff">✗ Økte tap</text>
+      <text x="-70" y="30" class="small-text" fill="#fff">✗ Likviditetsproblemer</text>
+      <text x="-70" y="45" class="small-text" fill="#fff">✗ Uforutsigbarhet</text>
+    </g>
+    
+    <!-- Arrows showing impact -->
+    <path d="M -120 0 L -60 0" stroke="#27ae60" stroke-width="4" fill="none" marker-end="url(#greenArrow)"/>
+    <path d="M 60 0 L 120 0" stroke="#e74c3c" stroke-width="4" fill="none" marker-end="url(#redArrow)"/>
+  </g>
+  
+  <!-- Arrow markers -->
+  <defs>
+    <marker id="greenArrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#27ae60"/>
+    </marker>
+    <marker id="redArrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#e74c3c"/>
+    </marker>
+  </defs>
+  
+  <!-- Key metrics section -->
+  <rect x="50" y="280" width="700" height="180" fill="#fff" stroke="#bdc3c7" stroke-width="1" rx="10"/>
+  <text x="400" y="305" class="subtitle" text-anchor="middle">Nøkkeltall for Oppfølging</text>
+  
+  <!-- Metric 1: Average collection time -->
+  <g transform="translate(100, 330)">
+    <rect x="0" y="0" width="180" height="100" fill="#e8f4fd" stroke="#3498db" stroke-width="2" rx="5"/>
+    <text x="90" y="20" class="text" text-anchor="middle" font-weight="bold">Gjennomsnittlig</text>
+    <text x="90" y="35" class="text" text-anchor="middle" font-weight="bold">Innkrevingstid</text>
+    
+    <text x="90" y="55" class="formula" text-anchor="middle">(Kundefordringer × 365) ÷ Årlig omsetning</text>
+    
+    <rect x="10" y="65" width="160" height="25" fill="#3498db" rx="3"/>
+    <text x="90" y="82" class="section-title" text-anchor="middle">Målsetting: Under 30 dager</text>
+  </g>
+  
+  <!-- Metric 2: Bad debt percentage -->
+  <g transform="translate(310, 330)">
+    <rect x="0" y="0" width="180" height="100" fill="#fdf2e9" stroke="#f39c12" stroke-width="2" rx="5"/>
+    <text x="90" y="20" class="text" text-anchor="middle" font-weight="bold">Tapsprosent</text>
+    
+    <text x="90" y="45" class="formula" text-anchor="middle">(Tap på fordringer ÷ Omsetning) × 100</text>
+    
+    <rect x="10" y="65" width="160" height="25" fill="#f39c12" rx="3"/>
+    <text x="90" y="82" class="section-title" text-anchor="middle">Målsetting: Under 2%</text>
+  </g>
+  
+  <!-- Metric 3: Overdue rate -->
+  <g transform="translate(520, 330)">
+    <rect x="0" y="0" width="180" height="100" fill="#fdedec" stroke="#e74c3c" stroke-width="2" rx="5"/>
+    <text x="90" y="20" class="text" text-anchor="middle" font-weight="bold">Forfallsrate</text>
+    
+    <text x="90" y="45" class="formula" text-anchor="middle">Forfalte fordringer ÷ Totale fordringer</text>
+    
+    <rect x="10" y="65" width="160" height="25" fill="#e74c3c" rx="3"/>
+    <text x="90" y="82" class="section-title" text-anchor="middle">Målsetting: Under 15%</text>
+  </g>
+  
+  <!-- Cash flow impact visualization -->
+  <rect x="50" y="480" width="700" height="100" fill="#f8f9fa" stroke="#bdc3c7" stroke-width="1" rx="10"/>
+  <text x="400" y="505" class="subtitle" text-anchor="middle">Kontantstrøm Påvirkning Over Tid</text>
+  
+  <!-- Timeline showing improvement -->
+  <g transform="translate(100, 520)">
+    <!-- Timeline line -->
+    <line x1="0" y1="30" x2="600" y2="30" stroke="#7f8c8d" stroke-width="2"/>
+    
+    <!-- Time markers -->
+    <text x="0" y="50" class="small-text" text-anchor="middle">Måned 1</text>
+    <text x="150" y="50" class="small-text" text-anchor="middle">Måned 3</text>
+    <text x="300" y="50" class="small-text" text-anchor="middle">Måned 6</text>
+    <text x="450" y="50" class="small-text" text-anchor="middle">Måned 12</text>
+    <text x="600" y="50" class="small-text" text-anchor="middle">Måned 24</text>
+    
+    <!-- Improvement curve -->
+    <path d="M 0 30 Q 150 40 300 20 Q 450 10 600 5" stroke="#27ae60" stroke-width="3" fill="none"/>
+    
+    <!-- Improvement indicators -->
+    <circle cx="0" cy="30" r="4" fill="#e74c3c"/>
+    <circle cx="150" cy="35" r="4" fill="#f39c12"/>
+    <circle cx="300" cy="20" r="4" fill="#f39c12"/>
+    <circle cx="450" cy="12" r="4" fill="#27ae60"/>
+    <circle cx="600" cy="5" r="4" fill="#27ae60"/>
+    
+    <!-- Labels -->
+    <text x="0" y="15" class="small-text" text-anchor="middle">Dårlig</text>
+    <text x="300" y="5" class="small-text" text-anchor="middle">Forbedring</text>
+    <text x="600" y="-10" class="small-text" text-anchor="middle">Optimalt</text>
+  </g>
+</svg>

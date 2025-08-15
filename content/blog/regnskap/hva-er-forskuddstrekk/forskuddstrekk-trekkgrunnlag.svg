@@ -1,0 +1,136 @@
+<svg width="700" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="700" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="700" height="60" fill="url(#headerGradient)"/>
+  
+  <!-- Title -->
+  <text x="350" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
+    Trekkgrunnlag for Forskuddstrekk
+  </text>
+  
+  <!-- Main content area -->
+  <g transform="translate(50, 80)">
+    
+    <!-- Trekkpliktige ytelser -->
+    <rect x="0" y="0" width="280" height="350" fill="#d4edda" stroke="#28a745" stroke-width="2" rx="10"/>
+    <text x="140" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#155724">
+      TREKKPLIKTIGE YTELSER
+    </text>
+    
+    <!-- List of trekkpliktige ytelser -->
+    <g transform="translate(20, 50)">
+      <circle cx="5" cy="5" r="3" fill="#28a745"/>
+      <text x="15" y="10" font-family="Arial, sans-serif" font-size="12" fill="#333">Kontantlønn (fast/time/akkord)</text>
+      
+      <circle cx="5" cy="30" r="3" fill="#28a745"/>
+      <text x="15" y="35" font-family="Arial, sans-serif" font-size="12" fill="#333">Overtidsgodtgjørelse</text>
+      
+      <circle cx="5" cy="55" r="3" fill="#28a745"/>
+      <text x="15" y="60" font-family="Arial, sans-serif" font-size="12" fill="#333">Bonuser og provisjoner</text>
+      
+      <circle cx="5" cy="80" r="3" fill="#28a745"/>
+      <text x="15" y="85" font-family="Arial, sans-serif" font-size="12" fill="#333">Feriepenger</text>
+      
+      <circle cx="5" cy="105" r="3" fill="#28a745"/>
+      <text x="15" y="110" font-family="Arial, sans-serif" font-size="12" fill="#333">Sykepenger (arbeidsgiverperiode)</text>
+      
+      <circle cx="5" cy="130" r="3" fill="#28a745"/>
+      <text x="15" y="135" font-family="Arial, sans-serif" font-size="12" fill="#333">Naturalytelser:</text>
+      
+      <circle cx="25" cy="155" r="2" fill="#6c757d"/>
+      <text x="35" y="160" font-family="Arial, sans-serif" font-size="11" fill="#333">• Firmabil</text>
+      
+      <circle cx="25" cy="175" r="2" fill="#6c757d"/>
+      <text x="35" y="180" font-family="Arial, sans-serif" font-size="11" fill="#333">• Fri telefon</text>
+      
+      <circle cx="25" cy="195" r="2" fill="#6c757d"/>
+      <text x="35" y="200" font-family="Arial, sans-serif" font-size="11" fill="#333">• Helseforsikring</text>
+      
+      <circle cx="25" cy="215" r="2" fill="#6c757d"/>
+      <text x="35" y="220" font-family="Arial, sans-serif" font-size="11" fill="#333">• Fri parkering</text>
+      
+      <circle cx="5" cy="240" r="3" fill="#28a745"/>
+      <text x="15" y="245" font-family="Arial, sans-serif" font-size="12" fill="#333">Pensjonstilskudd</text>
+      
+      <circle cx="5" cy="265" r="3" fill="#28a745"/>
+      <text x="15" y="270" font-family="Arial, sans-serif" font-size="12" fill="#333">Dagpenger og trygdeytelser</text>
+      
+      <circle cx="5" cy="290" r="3" fill="#28a745"/>
+      <text x="15" y="295" font-family="Arial, sans-serif" font-size="12" fill="#333">Andre skattepliktige ytelser</text>
+    </g>
+    
+    <!-- Arrow -->
+    <g transform="translate(300, 175)">
+      <line x1="0" y1="0" x2="50" y2="0" stroke="#0066cc" stroke-width="4" marker-end="url(#arrowhead)"/>
+      <text x="25" y="-10" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0066cc">
+        BEREGNING
+      </text>
+    </g>
+    
+    <!-- Beregningseksempel -->
+    <rect x="370" y="0" width="230" height="350" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="10"/>
+    <text x="485" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#1565c0">
+      BEREGNINGSEKSEMPEL
+    </text>
+    
+    <!-- Calculation example -->
+    <g transform="translate(385, 50)">
+      <text x="0" y="0" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">Månedslønn ansatt:</text>
+      
+      <text x="0" y="25" font-family="Arial, sans-serif" font-size="12" fill="#333">Fastlønn: kr 45.000</text>
+      <text x="0" y="45" font-family="Arial, sans-serif" font-size="12" fill="#333">Overtid: kr 3.000</text>
+      <text x="0" y="65" font-family="Arial, sans-serif" font-size="12" fill="#333">Bonus: kr 2.000</text>
+      <text x="0" y="85" font-family="Arial, sans-serif" font-size="12" fill="#333">Firmabil: kr 4.500</text>
+      
+      <line x1="0" y1="100" x2="180" y2="100" stroke="#333" stroke-width="1"/>
+      
+      <text x="0" y="120" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1565c0">
+        Trekkgrunnlag: kr 54.500
+      </text>
+      
+      <text x="0" y="150" font-family="Arial, sans-serif" font-size="12" fill="#333">Trekkprosent: 27%</text>
+      
+      <text x="0" y="180" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#dc3545">
+        Forskuddstrekk:
+      </text>
+      <text x="0" y="200" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#dc3545">
+        kr 54.500 × 27% = kr 14.715
+      </text>
+      
+      <text x="0" y="230" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#28a745">
+        Nettolønn:
+      </text>
+      <text x="0" y="250" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#28a745">
+        kr 54.500 - kr 14.715 = kr 39.785
+      </text>
+      
+      <rect x="-10" y="270" width="200" height="40" fill="#fff3cd" stroke="#856404" stroke-width="1" rx="5"/>
+      <text x="90" y="285" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#856404">
+        Merk: Naturalytelser inngår
+      </text>
+      <text x="90" y="300" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#856404">
+        i trekkgrunnlaget
+      </text>
+    </g>
+  </g>
+  
+  <!-- Arrow marker -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#0066cc"/>
+    </marker>
+  </defs>
+</svg>

@@ -1,0 +1,107 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="400" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+    Kapitaloptimaliseringsstrategier
+  </text>
+  
+  <!-- Central optimization hub -->
+  <g transform="translate(320, 160)">
+    <circle cx="80" cy="80" r="60" fill="#f39c12" stroke="#e67e22" stroke-width="4"/>
+    <text x="80" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      KAPITAL-
+    </text>
+    <text x="80" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      OPTIMALISERING
+    </text>
+  </g>
+  
+  <!-- Strategy 1: Equity Strengthening (top left) -->
+  <g transform="translate(50, 60)">
+    <rect x="0" y="0" width="180" height="100" fill="#27ae60" stroke="#229954" stroke-width="2" rx="10"/>
+    <text x="90" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      EGENKAPITALSTYRKING
+    </text>
+    
+    <text x="15" y="40" font-family="Arial, sans-serif" font-size="11" fill="white">• Egenfinansiering</text>
+    <text x="15" y="55" font-family="Arial, sans-serif" font-size="11" fill="white">• Kapitalutvidelser</text>
+    <text x="15" y="70" font-family="Arial, sans-serif" font-size="11" fill="white">• Tilbakeholdt overskudd</text>
+    <text x="15" y="85" font-family="Arial, sans-serif" font-size="11" fill="white">• Salg av eiendeler</text>
+  </g>
+  
+  <!-- Strategy 2: Debt Optimization (top right) -->
+  <g transform="translate(570, 60)">
+    <rect x="0" y="0" width="180" height="100" fill="#e74c3c" stroke="#c0392b" stroke-width="2" rx="10"/>
+    <text x="90" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      GJELDSOPTIMALISERING
+    </text>
+    
+    <text x="15" y="40" font-family="Arial, sans-serif" font-size="11" fill="white">• Refinansiering</text>
+    <text x="15" y="55" font-family="Arial, sans-serif" font-size="11" fill="white">• Diversifisering</text>
+    <text x="15" y="70" font-family="Arial, sans-serif" font-size="11" fill="white">• Bedre betingelser</text>
+    <text x="15" y="85" font-family="Arial, sans-serif" font-size="11" fill="white">• Løpetidsbalansering</text>
+  </g>
+  
+  <!-- Strategy 3: Working Capital Management (bottom left) -->
+  <g transform="translate(50, 280)">
+    <rect x="0" y="0" width="180" height="100" fill="#3498db" stroke="#2980b9" stroke-width="2" rx="10"/>
+    <text x="90" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      ARBEIDSKAPITAL-
+    </text>
+    <text x="90" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      STYRING
+    </text>
+    
+    <text x="15" y="55" font-family="Arial, sans-serif" font-size="11" fill="white">• Kontantstrømstyring</text>
+    <text x="15" y="70" font-family="Arial, sans-serif" font-size="11" fill="white">• Redusert kapitalbinding</text>
+    <text x="15" y="85" font-family="Arial, sans-serif" font-size="11" fill="white">• Effektiv fakturering</text>
+  </g>
+  
+  <!-- Strategy 4: Risk Management (bottom right) -->
+  <g transform="translate(570, 280)">
+    <rect x="0" y="0" width="180" height="100" fill="#9b59b6" stroke="#8e44ad" stroke-width="2" rx="10"/>
+    <text x="90" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      RISIKOSTYRING
+    </text>
+    
+    <text x="15" y="45" font-family="Arial, sans-serif" font-size="11" fill="white">• Diversifisering</text>
+    <text x="15" y="60" font-family="Arial, sans-serif" font-size="11" fill="white">• Reserver</text>
+    <text x="15" y="75" font-family="Arial, sans-serif" font-size="11" fill="white">• Overvåking</text>
+    <text x="15" y="90" font-family="Arial, sans-serif" font-size="11" fill="white">• Beredskapsplaner</text>
+  </g>
+  
+  <!-- Arrows connecting strategies to center -->
+  <path d="M 230 110 L 320 200" stroke="#27ae60" stroke-width="3" fill="none" marker-end="url(#greenArrow)"/>
+  <path d="M 570 110 L 480 200" stroke="#e74c3c" stroke-width="3" fill="none" marker-end="url(#redArrow)"/>
+  <path d="M 230 330 L 320 280" stroke="#3498db" stroke-width="3" fill="none" marker-end="url(#blueArrow)"/>
+  <path d="M 570 330 L 480 280" stroke="#9b59b6" stroke-width="3" fill="none" marker-end="url(#purpleArrow)"/>
+  
+  <!-- Benefits box at bottom center -->
+  <g transform="translate(280, 340)">
+    <rect x="0" y="0" width="240" height="50" fill="#1abc9c" stroke="#16a085" stroke-width="2" rx="8"/>
+    <text x="120" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      RESULTATER AV OPTIMALISERING
+    </text>
+    <text x="120" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      Bedre lønnsomhet • Lavere risiko • Økt fleksibilitet
+    </text>
+  </g>
+  
+  <!-- Arrow markers -->
+  <defs>
+    <marker id="greenArrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#27ae60"/>
+    </marker>
+    <marker id="redArrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#e74c3c"/>
+    </marker>
+    <marker id="blueArrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#3498db"/>
+    </marker>
+    <marker id="purpleArrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#9b59b6"/>
+    </marker>
+  </defs>
+</svg>

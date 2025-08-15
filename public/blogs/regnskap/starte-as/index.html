@@ -1,0 +1,322 @@
+<!doctype html>
+<html lang="nb">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Starte AS | ReAI</title>
+  <meta name="description" content="Komplett regnskapssystem med faktura, lønn, bilagsføring og årsoppgjør.">
+  
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<script src="https://cdn.tailwindcss.com?plugins=typography"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        fontFamily: { sans: ['Inter','ui-sans-serif','system-ui','Arial','sans-serif'] },
+        colors: {
+          brand: { DEFAULT: '#111827' },
+          accent: { DEFAULT: '#2563eb' }
+        }
+      }
+    }
+  }
+</script>
+<style>
+   
+  header .header-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #000 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link:hover { background-position: 0; }
+  header .header-link:hover::before { width: 100%; }
+
+  footer .footer-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #ffffff 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link:hover { background-position: 0; }
+  footer .footer-link:hover::before { width: 100%; }
+</style>
+<style>
+   
+  .prose { overflow-wrap: anywhere; word-break: break-word; }
+  .prose img { max-width: 100%; height: auto; }
+  .prose table { display: block; width: 100%; overflow-x: auto; }
+  .prose pre { white-space: pre-wrap; word-break: break-word; overflow-x: auto; }
+  .prose code { word-break: break-word; }
+  .prose iframe, .prose video { max-width: 100%; width: 100%; height: auto; }
+</style>
+<style>
+   
+  button,
+  .btn,
+  a.btn,
+  .button,
+  .cta,
+  .link-button,
+   
+  a.inline-flex.rounded-md,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"] {
+    transition: transform 220ms ease, box-shadow 220ms ease, background-color 220ms ease, color 220ms ease, opacity 220ms ease;
+    will-change: transform, box-shadow;
+  }
+
+  button:hover,
+  .btn:hover,
+  a.btn:hover,
+  .button:hover,
+  .cta:hover,
+  .link-button:hover,
+  a.inline-flex.rounded-md:hover,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+
+  button:active,
+  .btn:active,
+  a.btn:active,
+  .button:active,
+  .cta:active,
+  .link-button:active,
+  a.inline-flex.rounded-md:active,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:active {
+    transform: translateY(-1px) scale(0.99);
+    box-shadow: 0 6px 12px rgba(2, 6, 23, 0.1);
+  }
+
+  button:focus-visible,
+  .btn:focus-visible,
+  a.btn:focus-visible,
+  .button:focus-visible,
+  .cta:focus-visible,
+  .link-button:focus-visible,
+  a.inline-flex.rounded-md:focus-visible,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.35), 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+</style>
+
+<link rel="icon" type="image/svg+xml" href="/images/ReAI-logo-square.svg">
+<link rel="shortcut icon" href="/images/ReAI-logo-square.svg">
+
+</head>
+<body class="min-h-dvh bg-white text-gray-900 font-sans">
+  <header class="sticky top-0 z-40 bg-white/80 backdrop-blur">
+  
+  <div class="border-b border-slate-200/70">
+    <div class="max-w-7xl mx-auto px-4">
+      <div class="h-16 flex items-center justify-between">
+        <a href="/" class="flex items-center gap-2" aria-label="ReAI">
+          <img src="/images/ReAI-logo-square.svg?v=4" alt="ReAI logo" class="h-14 w-14 rounded-md mt-5" width="56" height="56" loading="eager" decoding="async">
+        </a>
+        <nav class="hidden md:block">
+          <ul class="flex items-center gap-5 text-sm">
+            <li><a href="/courses/" class="header-link text-slate-700 hover:text-black">Gratis kurs</a></li>
+            <li><a href="/contact/" class="header-link text-slate-700 hover:text-black">Kontakt oss</a></li>
+            <li><a href="/blog/" class="header-link text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+            <li><a href="/bli-partner/" class="header-link text-slate-700 hover:text-black">Bli partner</a></li>
+            <li><a href="/fakturamal/" class="header-link text-slate-700 hover:text-black">Lag faktura</a></li>
+          </ul>
+        </nav>
+        <button id="mobileMenuBtn" aria-controls="mobileMenu" aria-expanded="false" class="md:hidden inline-flex items-center justify-center h-9 w-9 rounded-md border border-slate-300">
+          <span class="sr-only">Menu</span>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-5 w-5"><path d="M3.75 6.75h16.5v1.5H3.75zM3.75 11.25h16.5v1.5H3.75zM3.75 15.75h16.5v1.5H3.75z"/></svg>
+        </button>
+      </div>
+    </div>
+  </div>
+  
+  <nav id="mobileMenu" class="md:hidden hidden border-b border-slate-200/70 bg-white/95 backdrop-blur">
+    <div class="max-w-7xl mx-auto px-4 py-3">
+      <ul class="flex flex-col items-center gap-3 text-sm text-center">
+        <li><a href="/courses/" class="header-link block text-slate-700 hover:text-black">Gratis kurs</a></li>
+        <li><a href="/contact/" class="header-link block text-slate-700 hover:text-black">Kontakt oss</a></li>
+        <li><a href="/blog/" class="header-link block text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+        <li><a href="/bli-partner/" class="header-link block text-slate-700 hover:text-black">Bli partner</a></li>
+        <li><a href="/fakturamal/" class="header-link block text-slate-700 hover:text-black">Lag faktura</a></li>
+      </ul>
+    </div>
+  </nav>
+  <script>
+    (function() {
+      const btn = document.getElementById('mobileMenuBtn');
+      const menu = document.getElementById('mobileMenu');
+      if (!btn || !menu) return;
+      btn.addEventListener('click', function() {
+        const isHidden = menu.classList.contains('hidden');
+        menu.classList.toggle('hidden');
+        btn.setAttribute('aria-expanded', String(isHidden));
+      });
+    })();
+  </script>
+</header>
+  <main>
+    
+<section class="pt-10 md:pt-14">
+  <div class="max-w-3xl mx-auto px-4">
+    <h1 class="text-3xl font-semibold tracking-tight text-center">Starte AS</h1>
+    <p class="mt-2 text-gray-700">En praktisk guide som viser deg hvordan du starter et aksjeselskap (AS) i Norge, inkludert krav til aksjekapital, vedtekter, registreringsprosesser og kostnader.
+</p>
+    <article class="prose max-w-none mt-6"><p>Se vår <a href="/blogs/regnskap/hva-er-et-aksjeselskap" title="Hva er et Aksjeselskap? Komplett Guide til Selskapsformen">Hva er et Aksjeselskap?</a> for en oversikt over <strong>aksjeselskapets</strong> egenskaper før du starter prosessen.</p>
+<p><img src="starte-as-image.svg" alt="Starte AS"></p>
+<p>Å <strong>starte et aksjeselskap (AS)</strong> krever nøye planlegging og oppfyllelse av flere formelle krav. Denne guiden tar deg gjennom prosessen steg for steg.</p>
+<h3 id="oversikt-over-stegene">Oversikt over stegene</h3>
+<ol>
+<li>Planlegg selskapet og forretningsidéen.</li>
+<li>Utarbeid <a href="/blogs/regnskap/vedtekter" title="Vedtekter: Definisjon, Krav og Betydning i Norsk Regnskap">vedtekter</a> og stiftelsesdokument.</li>
+<li>Gjennomfør stiftelsesmøte og tegn aksjer.</li>
+<li>Registrer selskapet i <a href="/blogs/regnskap/hva-er-foretaksregisteret" title="Hva er Foretaksregisteret? Enhetsregister, Org.nr og Selskapsregister">Enhetsregisteret</a>.</li>
+<li>Åpne bankkonto og innbetal aksjekapital.</li>
+<li>Meld selskapet i <a href="/blogs/regnskap/mva-plikt" title="MVA-plikt: Komplett Guide til Merverdiavgiftsplikt i Norge">MVA-registeret</a> om nødvendig.</li>
+<li>Motta bekreftelse fra Brønnøysund og start driften.</li>
+</ol>
+<h3 id="tidslinje-og-kostnader">Tidslinje og kostnader</h3>
+<table>
+  <thead>
+      <tr>
+          <th>Steg</th>
+          <th>Ansvarlig</th>
+          <th>Kostnad</th>
+          <th>Estimert tid</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Planlegging</td>
+          <td>Gründer</td>
+          <td>0 kr</td>
+          <td>1 dag</td>
+      </tr>
+      <tr>
+          <td>Stiftelsesmøte og <a href="/blogs/regnskap/vedtekter" title="Vedtekter: Definisjon, Krav og Betydning i Norsk Regnskap">vedtekter</a></td>
+          <td>Gründer</td>
+          <td>0–5 000 kr*</td>
+          <td>1 dag</td>
+      </tr>
+      <tr>
+          <td>Registrering i Brønnøysund</td>
+          <td>Gründer</td>
+          <td><a href="/blogs/regnskap/stiftelsesgebyr" title="Stiftelsesgebyr ved registrering av AS">Stiftelsesgebyr</a></td>
+          <td>1–3 dager</td>
+      </tr>
+      <tr>
+          <td>MVA-registrering</td>
+          <td>Selskap</td>
+          <td>Gratis</td>
+          <td>0–5 dager</td>
+      </tr>
+      <tr>
+          <td><strong>Totalsum</strong></td>
+          <td>–</td>
+          <td><strong><a href="/blogs/regnskap/stiftelsesgebyr" title="Stiftelsesgebyr ved registrering av AS">5 570 kr</a></strong></td>
+          <td><strong>3–10 dager</strong></td>
+      </tr>
+  </tbody>
+</table>
+<p>*Kan tilkomme honorarer til rådgiver eller jurist.</p>
+<h3 id="viktige-krav-for-å-starte-as">Viktige krav for å starte AS</h3>
+<ul>
+<li><strong>Minimum aksjekapital</strong> på 30 000 kr (kan være penger eller tingsinnskudd).</li>
+<li><strong>Minst én stifter</strong> (person eller selskap) som tegner alle aksjene.</li>
+<li><strong><a href="/blogs/regnskap/vedtekter" title="Vedtekter: Definisjon, Krav og Betydning i Norsk Regnskap">Vedtekter</a></strong> som inneholder selskapsnavn, formål og aksjekapital.</li>
+<li>Gjennomført <strong>stiftelsesmøte</strong> med protokoll.</li>
+<li>Innbetaling av aksjekapital til separat <strong>selskapskonto</strong>.</li>
+<li><strong>Organisasjonsnummer</strong> tildeles via Foretaksregisteret.</li>
+<li>Rapportering til <strong>Altinn</strong> og eventuell registrering i <a href="/blogs/regnskap/hva-er-a-melding" title="Hva er A-melding? Rapporteringsplikt for arbeidsgiver">A-meldingen</a>.</li>
+</ul>
+<h3 id="etter-registrering">Etter registrering</h3>
+<p>Når selskapet er registrert, kan du:</p>
+<ul>
+<li><strong>Opprette fakturamal</strong> i <a href="/blogs/regnskap/fakturaprogram" title="Hva er Fakturaprogram? En Komplett Guide til Fakturaverktøy">fakturaprogram</a>.</li>
+<li><strong>Sette opp regnskapssystem</strong> og kontakte <a href="/blogs/regnskap/hva-er-ars" title="Hva er ARS? Autorisert Regnskapsførerselskap - Krav, Fordeler og Prosess">ARS</a>.</li>
+<li>Utforske finansiering via <a href="/blogs/regnskap/hylleselskap" title="Hva er et Hylleselskap? Guide til Ferdigregistrerte Selskaper i Norge">hylleselskap</a> om rask oppstart er viktig.</li>
+<li><strong>Utarbeide <a href="/blogs/regnskap/apningsbalanse-for-aksjeselskap" title="Åpningsbalanse for aksjeselskap">åpningsbalanse for aksjeselskap</a> for korrekt registrering av startbalanse.</strong></li>
+</ul>
+<p>For komplett informasjon om aksjeselskapets egenskaper, se <a href="/blogs/regnskap/hva-er-et-aksjeselskap" title="Hva er et Aksjeselskap? Komplett Guide til Selskapsformen">Hva er et Aksjeselskap?</a> og avsnittet “Krav for å Starte et Aksjeselskap”.</p>
+</article>
+  </div>
+</section>
+
+  </main>
+  <footer class="mt-16 border-t border-slate-800/60 bg-slate-900">
+  <div class="max-w-7xl mx-auto px-4 py-14">
+    <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3 text-center sm:text-left">
+      
+      <div>
+        <h3 class="text-sm font-semibold text-white">Verktøy</h3>
+        <ul class="mt-2 space-y-2 text-sm text-slate-300">
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/finn-iban/">IBAN kalkulator</a></li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/lag-faktura-gratis/">Lag faktura</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Selskaps-informasjon</h3>
+        <ul class="mt-2 space-y-1 text-sm text-slate-300">
+          <li>Reai AS</li>
+          <li>Orgnr: 935606403</li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="mailto:post@reai.no">post@reai.no</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Om ReAI</h3>
+        <p class="mt-2 text-sm text-slate-300">ReAI er et gratis regnskapsprogram laget av tidligere ansatte i Tripletex
+          / Visma. Vi mener det er på tide med mer konkurranse i regnskaps-bransjen som kan komme bedrifter til gode.
+        </p>
+      </div>
+    </div>
+    <div class="mt-12 border-t border-slate-800/60 pt-6 flex flex-col items-center sm:flex-row sm:items-center sm:justify-between text-sm text-slate-400 text-center sm:text-left">
+      <div class="flex items-center gap-2">
+        
+        
+      </div>
+      <div class="mt-4 sm:mt-0 flex items-center justify-center sm:justify-end">
+        <div class="opacity-80">&copy; 2025 ReAI. All rights reserved.</div>
+      </div>
+    </div>
+  </div>
+</footer>
+</body>
+</html>

@@ -1,0 +1,141 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="costGradient1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#28a745;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#20c997;stop-opacity:0.6" />
+    </linearGradient>
+    <linearGradient id="costGradient2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffc107;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#fd7e14;stop-opacity:0.6" />
+    </linearGradient>
+    <linearGradient id="costGradient3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#dc3545;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#e83e8c;stop-opacity:0.6" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="400" fill="url(#bgGradient)"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">Kostnadsstruktur for Lagerlokasjoner</text>
+  
+  <!-- Chart background -->
+  <rect x="100" y="60" width="600" height="280" fill="white" stroke="#dee2e6" stroke-width="2" rx="10"/>
+  
+  <!-- Y-axis -->
+  <line x1="130" y1="80" x2="130" y2="320" stroke="#495057" stroke-width="2"/>
+  
+  <!-- X-axis -->
+  <line x1="130" y1="320" x2="680" y2="320" stroke="#495057" stroke-width="2"/>
+  
+  <!-- Y-axis labels -->
+  <text x="125" y="85" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">1500</text>
+  <text x="125" y="125" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">1200</text>
+  <text x="125" y="165" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">900</text>
+  <text x="125" y="205" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">600</text>
+  <text x="125" y="245" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">300</text>
+  <text x="125" y="285" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">0</text>
+  
+  <!-- Y-axis title -->
+  <text x="50" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057" transform="rotate(-90, 50, 200)">Kostnad (kr/mnd per m²)</text>
+  
+  <!-- Grid lines -->
+  <line x1="130" y1="125" x2="680" y2="125" stroke="#e9ecef" stroke-width="1"/>
+  <line x1="130" y1="165" x2="680" y2="165" stroke="#e9ecef" stroke-width="1"/>
+  <line x1="130" y1="205" x2="680" y2="205" stroke="#e9ecef" stroke-width="1"/>
+  <line x1="130" y1="245" x2="680" y2="245" stroke="#e9ecef" stroke-width="1"/>
+  <line x1="130" y1="285" x2="680" y2="285" stroke="#e9ecef" stroke-width="1"/>
+  
+  <!-- Bars -->
+  <!-- Standardhylle (150-300) -->
+  <rect x="150" y="245" width="80" height="75" fill="url(#costGradient1)" stroke="#28a745" stroke-width="2" rx="3"/>
+  <text x="190" y="287" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">225</text>
+  <text x="190" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#495057">Standard-</text>
+  <text x="190" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#495057">hylle</text>
+  
+  <!-- Kjølelager (400-800) -->
+  <rect x="250" y="165" width="80" height="155" fill="url(#costGradient2)" stroke="#ffc107" stroke-width="2" rx="3"/>
+  <text x="290" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">600</text>
+  <text x="290" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#495057">Kjølelager</text>
+  
+  <!-- Høysikkerhet (600-1200) -->
+  <rect x="350" y="125" width="80" height="195" fill="url(#costGradient3)" stroke="#dc3545" stroke-width="2" rx="3"/>
+  <text x="390" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">900</text>
+  <text x="390" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#495057">Høy-</text>
+  <text x="390" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#495057">sikkerhet</text>
+  
+  <!-- Automatisert (800-1500) -->
+  <rect x="450" y="85" width="80" height="235" fill="#6f42c1" fill-opacity="0.8" stroke="#6f42c1" stroke-width="2" rx="3"/>
+  <text x="490" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">1150</text>
+  <text x="490" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#495057">Automatisert</text>
+  
+  <!-- Utendørs (50-150) -->
+  <rect x="550" y="285" width="80" height="35" fill="#17a2b8" fill-opacity="0.8" stroke="#17a2b8" stroke-width="2" rx="3"/>
+  <text x="590" y="307" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">100</text>
+  <text x="590" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#495057">Utendørs</text>
+  
+  <!-- Cost breakdown legend -->
+  <g>
+    <rect x="450" y="60" width="240" height="120" fill="white" fill-opacity="0.95" stroke="#dee2e6" stroke-width="1" rx="5"/>
+    <text x="460" y="78" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">Kostnadsfaktorer:</text>
+    
+    <!-- Security icon -->
+    <rect x="460" y="85" width="15" height="10" fill="none" stroke="#dc3545" stroke-width="1" rx="1"/>
+    <path d="M465 85 Q465 82 467.5 82 Q470 82 470 85" fill="none" stroke="#dc3545" stroke-width="1"/>
+    <text x="480" y="93" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">Sikkerhetsnivå</text>
+    
+    <!-- Temperature icon -->
+    <circle cx="467" cy="105" r="7" fill="#2196f3" fill-opacity="0.3" stroke="#2196f3" stroke-width="1"/>
+    <text x="467" y="109" text-anchor="middle" font-family="Arial, sans-serif" font-size="6" font-weight="bold" fill="#2196f3">°C</text>
+    <text x="480" y="109" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">Temperaturkontroll</text>
+    
+    <!-- Automation icon -->
+    <rect x="460" y="115" width="15" height="8" fill="#6f42c1" fill-opacity="0.3" stroke="#6f42c1" stroke-width="1" rx="1"/>
+    <circle cx="467" cy="119" r="3" fill="#6f42c1"/>
+    <text x="480" y="123" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">Automatisering</text>
+    
+    <!-- Accessibility icon -->
+    <circle cx="467" cy="135" r="7" fill="#28a745" fill-opacity="0.3" stroke="#28a745" stroke-width="1"/>
+    <text x="467" y="139" text-anchor="middle" font-family="Arial, sans-serif" font-size="6" font-weight="bold" fill="#28a745">24/7</text>
+    <text x="480" y="139" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">Tilgjengelighet</text>
+    
+    <!-- Location icon -->
+    <path d="M467 145 L467 155 M464 148 L470 148 M464 152 L470 152" stroke="#17a2b8" stroke-width="1"/>
+    <text x="480" y="153" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">Plassering</text>
+    
+    <!-- Infrastructure icon -->
+    <rect x="460" y="160" width="15" height="8" fill="#ffc107" fill-opacity="0.3" stroke="#ffc107" stroke-width="1" rx="1"/>
+    <line x1="462" y1="164" x2="473" y2="164" stroke="#ffc107" stroke-width="1"/>
+    <text x="480" y="167" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">Infrastruktur</text>
+  </g>
+  
+  <!-- Additional cost information -->
+  <g>
+    <rect x="100" y="360" width="600" height="35" fill="white" fill-opacity="0.95" stroke="#dee2e6" stroke-width="1" rx="5"/>
+    <text x="110" y="378" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">Tilleggskostnader å vurdere:</text>
+    <text x="110" y="390" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">• Forsikring • Vedlikehold • Energi • Personalkostnader • Teknologi og utstyr • Compliance og sertifiseringer</text>
+  </g>
+  
+  <!-- Cost efficiency indicators -->
+  <g>
+    <!-- Low cost indicator -->
+    <circle cx="590" cy="100" r="8" fill="#28a745"/>
+    <text x="590" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="white">L</text>
+    <text x="590" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#28a745">Lav kostnad</text>
+    
+    <!-- Medium cost indicator -->
+    <circle cx="290" cy="100" r="8" fill="#ffc107"/>
+    <text x="290" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="white">M</text>
+    <text x="290" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#f57c00">Medium kostnad</text>
+    
+    <!-- High cost indicator -->
+    <circle cx="490" cy="100" r="8" fill="#dc3545"/>
+    <text x="490" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="white">H</text>
+    <text x="490" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#dc3545">Høy kostnad</text>
+  </g>
+</svg>

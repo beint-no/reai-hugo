@@ -1,0 +1,186 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="blueGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e40af;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="greenGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#10b981;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#059669;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="purpleGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#8b5cf6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7c3aed;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="orangeGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f59e0b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#d97706;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8fafc"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e293b">
+    Strategisk Planlegging av Varige Driftsmidler
+  </text>
+  
+  <!-- Central planning hub -->
+  <circle cx="400" cy="300" r="80" fill="url(#blueGradient)" stroke="#1e40af" stroke-width="3"/>
+  <text x="400" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    Strategisk
+  </text>
+  <text x="400" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    Planlegging
+  </text>
+  
+  <!-- 5-års investeringsplan -->
+  <rect x="50" y="80" width="150" height="100" rx="10" fill="url(#greenGradient)" stroke="#059669" stroke-width="2"/>
+  <text x="125" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    5-års
+  </text>
+  <text x="125" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    Investeringsplan
+  </text>
+  <text x="125" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Koordinert utskifting
+  </text>
+  <text x="125" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Kapitalbudsjett
+  </text>
+  <text x="125" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Tidsplanlegging
+  </text>
+  
+  <!-- Teknologiutvikling -->
+  <rect x="600" y="80" width="150" height="100" rx="10" fill="url(#purpleGradient)" stroke="#7c3aed" stroke-width="2"/>
+  <text x="675" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    Teknologi-
+  </text>
+  <text x="675" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    utvikling
+  </text>
+  <text x="675" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Bransjestandarder
+  </text>
+  <text x="675" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Innovasjon
+  </text>
+  <text x="675" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Automatisering
+  </text>
+  
+  <!-- Kapasitetsplanlegging -->
+  <rect x="50" y="450" width="150" height="100" rx="10" fill="url(#orangeGradient)" stroke="#d97706" stroke-width="2"/>
+  <text x="125" y="475" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    Kapasitets-
+  </text>
+  <text x="125" y="490" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    planlegging
+  </text>
+  <text x="125" y="510" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Forventet vekst
+  </text>
+  <text x="125" y="525" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Skalering
+  </text>
+  <text x="125" y="540" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Effektivitet
+  </text>
+  
+  <!-- Bærekraftshensyn -->
+  <rect x="600" y="450" width="150" height="100" rx="10" fill="#059669" stroke="#047857" stroke-width="2"/>
+  <text x="675" y="475" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    Bærekrafts-
+  </text>
+  <text x="675" y="490" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    hensyn
+  </text>
+  <text x="675" y="510" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Energieffektivitet
+  </text>
+  <text x="675" y="525" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Miljøpåvirkning
+  </text>
+  <text x="675" y="540" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Sirkulærøkonomi
+  </text>
+  
+  <!-- Livssyklusanalyse -->
+  <ellipse cx="280" cy="200" rx="80" ry="50" fill="#f1f5f9" stroke="#64748b" stroke-width="2"/>
+  <text x="280" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">
+    Livssyklus-
+  </text>
+  <text x="280" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">
+    analyse
+  </text>
+  <text x="280" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#475569">
+    TCO • Driftskostnader
+  </text>
+  
+  <!-- Risikohåndtering -->
+  <ellipse cx="520" cy="200" rx="80" ry="50" fill="#f1f5f9" stroke="#64748b" stroke-width="2"/>
+  <text x="520" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">
+    Risiko-
+  </text>
+  <text x="520" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">
+    håndtering
+  </text>
+  <text x="520" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#475569">
+    Forsikring • Backup
+  </text>
+  
+  <!-- Kostnadsoptimalisering -->
+  <ellipse cx="280" cy="400" rx="80" ry="50" fill="#f1f5f9" stroke="#64748b" stroke-width="2"/>
+  <text x="280" y="395" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">
+    Kostnads-
+  </text>
+  <text x="280" y="410" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">
+    optimalisering
+  </text>
+  <text x="280" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#475569">
+    Effektivitet • ROI
+  </text>
+  
+  <!-- Compliance -->
+  <ellipse cx="520" cy="400" rx="80" ry="50" fill="#f1f5f9" stroke="#64748b" stroke-width="2"/>
+  <text x="520" y="395" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">
+    Compliance &amp;
+  </text>
+  <text x="520" y="410" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">
+    Standarder
+  </text>
+  <text x="520" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#475569">
+    Regulering • Kvalitet
+  </text>
+  
+  <!-- Connections from central hub -->
+  <line x1="340" y1="250" x2="200" y2="130" stroke="#3b82f6" stroke-width="3" opacity="0.7"/>
+  <line x1="460" y1="250" x2="600" y2="130" stroke="#3b82f6" stroke-width="3" opacity="0.7"/>
+  <line x1="340" y1="350" x2="200" y2="500" stroke="#3b82f6" stroke-width="3" opacity="0.7"/>
+  <line x1="460" y1="350" x2="600" y2="500" stroke="#3b82f6" stroke-width="3" opacity="0.7"/>
+  
+  <!-- Connections to secondary elements -->
+  <line x1="350" y1="270" x2="280" y2="200" stroke="#64748b" stroke-width="2" opacity="0.5"/>
+  <line x1="450" y1="270" x2="520" y2="200" stroke="#64748b" stroke-width="2" opacity="0.5"/>
+  <line x1="350" y1="330" x2="280" y2="400" stroke="#64748b" stroke-width="2" opacity="0.5"/>
+  <line x1="450" y1="330" x2="520" y2="400" stroke="#64748b" stroke-width="2" opacity="0.5"/>
+  
+  <!-- Timeline indicator -->
+  <rect x="300" y="560" width="200" height="30" rx="15" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+  <text x="400" y="580" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">
+    Kontinuerlig planleggingssyklus
+  </text>
+  
+  <!-- Process flow indicators -->
+  <path d="M 250 300 Q 300 280 350 300" stroke="#3b82f6" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  <path d="M 450 300 Q 500 280 550 300" stroke="#3b82f6" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Arrow marker -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#3b82f6"/>
+    </marker>
+  </defs>
+</svg>

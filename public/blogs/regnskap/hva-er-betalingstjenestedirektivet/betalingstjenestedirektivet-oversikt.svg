@@ -1,0 +1,119 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#2563eb;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="cardGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#ffffff"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
+  <text x="400" y="30" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="bold">PSD2 - Betalingstjenestedirektivet</text>
+  <text x="400" y="55" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14">Payment Services Directive 2</text>
+  
+  <!-- Main sections -->
+  <!-- EU Flag -->
+  <rect x="50" y="120" width="60" height="40" fill="#003399"/>
+  <circle cx="65" cy="130" r="2" fill="#ffcc00"/>
+  <circle cx="75" cy="130" r="2" fill="#ffcc00"/>
+  <circle cx="85" cy="130" r="2" fill="#ffcc00"/>
+  <circle cx="95" cy="130" r="2" fill="#ffcc00"/>
+  <circle cx="65" cy="140" r="2" fill="#ffcc00"/>
+  <circle cx="75" cy="140" r="2" fill="#ffcc00"/>
+  <circle cx="85" cy="140" r="2" fill="#ffcc00"/>
+  <circle cx="95" cy="140" r="2" fill="#ffcc00"/>
+  <circle cx="65" cy="150" r="2" fill="#ffcc00"/>
+  <circle cx="75" cy="150" r="2" fill="#ffcc00"/>
+  <circle cx="85" cy="150" r="2" fill="#ffcc00"/>
+  <circle cx="95" cy="150" r="2" fill="#ffcc00"/>
+  
+  <text x="130" y="140" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1f2937">EU-direktiv fra 2018</text>
+  <text x="130" y="155" font-family="Arial, sans-serif" font-size="12" fill="#6b7280">Regulerer betalingstjenester</text>
+  
+  <!-- Open Banking Section -->
+  <rect x="50" y="200" width="320" height="120" fill="url(#cardGradient)" stroke="#cbd5e1" stroke-width="1" rx="8"/>
+  <text x="210" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1f2937">Åpen Bankvirksomhet</text>
+  
+  <!-- Bank icon -->
+  <rect x="70" y="240" width="40" height="30" fill="#3b82f6" rx="4"/>
+  <rect x="75" y="245" width="6" height="6" fill="white"/>
+  <rect x="85" y="245" width="6" height="6" fill="white"/>
+  <rect x="95" y="245" width="6" height="6" fill="white"/>
+  <rect x="75" y="255" width="6" height="6" fill="white"/>
+  <rect x="85" y="255" width="6" height="6" fill="white"/>
+  <rect x="95" y="255" width="6" height="6" fill="white"/>
+  
+  <!-- Arrow -->
+  <path d="M 120 255 L 140 255" stroke="#10b981" stroke-width="3" marker-end="url(#arrowhead)"/>
+  
+  <!-- Third party -->
+  <rect x="150" y="240" width="40" height="30" fill="#10b981" rx="4"/>
+  <text x="170" y="258" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white" font-weight="bold">API</text>
+  
+  <text x="70" y="290" font-family="Arial, sans-serif" font-size="12" fill="#374151">• AIS - Kontoinformasjon</text>
+  <text x="70" y="305" font-family="Arial, sans-serif" font-size="12" fill="#374151">• PIS - Betalingsinitiering</text>
+  
+  <!-- Strong Authentication Section -->
+  <rect x="430" y="200" width="320" height="120" fill="url(#cardGradient)" stroke="#cbd5e1" stroke-width="1" rx="8"/>
+  <text x="590" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1f2937">Sterk Kundeautentisering</text>
+  
+  <!-- Authentication factors -->
+  <circle cx="470" cy="255" r="20" fill="#ef4444"/>
+  <text x="470" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white" font-weight="bold">PIN</text>
+  <text x="470" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#374151">Noe du vet</text>
+  
+  <circle cx="540" cy="255" r="20" fill="#f59e0b"/>
+  <text x="540" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white" font-weight="bold">📱</text>
+  <text x="540" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#374151">Noe du har</text>
+  
+  <circle cx="610" cy="255" r="20" fill="#8b5cf6"/>
+  <text x="610" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white" font-weight="bold">👆</text>
+  <text x="610" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#374151">Noe du er</text>
+  
+  <text x="590" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#374151">To-faktor autentisering</text>
+  
+  <!-- Accounting Impact Section -->
+  <rect x="50" y="360" width="700" height="100" fill="url(#cardGradient)" stroke="#cbd5e1" stroke-width="1" rx="8"/>
+  <text x="400" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1f2937">Regnskapsmessige Konsekvenser</text>
+  
+  <!-- Impact areas -->
+  <rect x="80" y="400" width="120" height="40" fill="#dbeafe" stroke="#3b82f6" stroke-width="1" rx="4"/>
+  <text x="140" y="415" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#1e40af" font-weight="bold">Nye</text>
+  <text x="140" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#1e40af" font-weight="bold">Transaksjonstyper</text>
+  
+  <rect x="220" y="400" width="120" height="40" fill="#fef3c7" stroke="#f59e0b" stroke-width="1" rx="4"/>
+  <text x="280" y="415" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#92400e" font-weight="bold">Compliance</text>
+  <text x="280" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#92400e" font-weight="bold">Kostnader</text>
+  
+  <rect x="360" y="400" width="120" height="40" fill="#dcfce7" stroke="#10b981" stroke-width="1" rx="4"/>
+  <text x="420" y="415" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#065f46" font-weight="bold">API</text>
+  <text x="420" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#065f46" font-weight="bold">Integrasjoner</text>
+  
+  <rect x="500" y="400" width="120" height="40" fill="#fce7f3" stroke="#ec4899" stroke-width="1" rx="4"/>
+  <text x="560" y="415" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#be185d" font-weight="bold">Risikostyring</text>
+  <text x="560" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#be185d" font-weight="bold">&amp; Kontroll</text>
+  
+  <rect x="640" y="400" width="100" height="40" fill="#e0e7ff" stroke="#6366f1" stroke-width="1" rx="4"/>
+  <text x="690" y="415" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#4338ca" font-weight="bold">Rapportering</text>
+  <text x="690" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#4338ca" font-weight="bold">&amp; Dokumentasjon</text>
+  
+  <!-- Footer -->
+  <rect x="0" y="520" width="800" height="80" fill="#f1f5f9"/>
+  <text x="400" y="545" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#475569" font-weight="bold">Implementert i Norge gjennom Finanstilsynet</text>
+  <text x="400" y="565" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#64748b">Påvirker alle bedrifter som håndterer elektroniske betalinger</text>
+  <text x="400" y="580" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#64748b">Krever tilpasninger i regnskapssystemer og prosedyrer</text>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#10b981"/>
+    </marker>
+  </defs>
+</svg>

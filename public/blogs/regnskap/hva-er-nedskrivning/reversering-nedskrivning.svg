@@ -1,0 +1,160 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="greenGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#66BB6A;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="blueGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#42A5F5;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="orangeGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FF9800;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FFB74D;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+    Reversering av Nedskrivning
+  </text>
+  
+  <!-- Step 1: Conditions -->
+  <rect x="50" y="70" width="200" height="120" rx="10" fill="url(#greenGradient)" stroke="#4CAF50" stroke-width="2"/>
+  <text x="150" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    Betingelser for
+  </text>
+  <text x="150" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    Reversering
+  </text>
+  <text x="150" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Årsaker til nedskrivning
+  </text>
+  <text x="150" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    ikke lenger eksisterer
+  </text>
+  <text x="150" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Gjenvinnbart beløp økt
+  </text>
+  
+  <!-- Arrow 1 -->
+  <path d="M 270 130 L 320 130" stroke="#34495e" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Step 2: Limitations -->
+  <rect x="340" y="70" width="200" height="120" rx="10" fill="url(#orangeGradient)" stroke="#FF9800" stroke-width="2"/>
+  <text x="440" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    Begrensninger
+  </text>
+  <text x="440" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    Kan ikke overstige:
+  </text>
+  <text x="440" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Bokført verdi uten
+  </text>
+  <text x="440" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    tidligere nedskrivning
+  </text>
+  <text x="440" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Justert for avskrivninger
+  </text>
+  
+  <!-- Arrow 2 -->
+  <path d="M 560 130 L 610 130" stroke="#34495e" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Step 3: Accounting -->
+  <rect x="630" y="70" width="150" height="120" rx="10" fill="url(#blueGradient)" stroke="#2196F3" stroke-width="2"/>
+  <text x="705" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    Bokføring
+  </text>
+  <text x="705" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    Debet: Akkumulerte
+  </text>
+  <text x="705" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    nedskrivninger
+  </text>
+  <text x="705" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    Kredit: Reversering
+  </text>
+  <text x="705" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    av nedskrivning
+  </text>
+  
+  <!-- Exception Box -->
+  <rect x="200" y="230" width="400" height="80" rx="10" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+  <text x="400" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    VIKTIG UNNTAK
+  </text>
+  <text x="400" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+    Nedskrivning av goodwill kan ALDRI reverseres
+  </text>
+  <text x="400" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    Dette gjelder både etter IFRS og norske regnskapsregler
+  </text>
+  
+  <!-- Process Flow -->
+  <text x="400" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">
+    Vurderingsprosess
+  </text>
+  
+  <!-- Decision Diamond -->
+  <path d="M 400 380 L 480 420 L 400 460 L 320 420 Z" fill="#f39c12" stroke="#e67e22" stroke-width="2"/>
+  <text x="400" y="415" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    Klare
+  </text>
+  <text x="400" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    indikasjoner?
+  </text>
+  
+  <!-- Yes path -->
+  <path d="M 480 420 L 550 420" stroke="#27ae60" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  <text x="515" y="410" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#27ae60">
+    JA
+  </text>
+  
+  <rect x="570" y="390" width="120" height="60" rx="5" fill="#27ae60" stroke="#229954" stroke-width="2"/>
+  <text x="630" y="415" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    Beregn reversering
+  </text>
+  <text x="630" y="435" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    og bokfør
+  </text>
+  
+  <!-- No path -->
+  <path d="M 320 420 L 250 420" stroke="#e74c3c" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  <text x="285" y="410" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e74c3c">
+    NEI
+  </text>
+  
+  <rect x="110" y="390" width="120" height="60" rx="5" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+  <text x="170" y="415" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    Ingen reversering
+  </text>
+  <text x="170" y="435" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    Fortsett overvåking
+  </text>
+  
+  <!-- Example calculation -->
+  <rect x="150" y="490" width="500" height="90" rx="10" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2"/>
+  <text x="400" y="515" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+    Eksempel på Reverseringsberegning
+  </text>
+  <text x="400" y="535" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#34495e">
+    Opprinnelig bokført verdi: 800 000 kr | Tidligere nedskrivning: 200 000 kr
+  </text>
+  <text x="400" y="550" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#34495e">
+    Avskrivninger som ville vært foretatt: 50 000 kr
+  </text>
+  <text x="400" y="565" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#27ae60">
+    Maksimal reversering: 800 000 - 50 000 - 600 000 = 150 000 kr
+  </text>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>
+    </marker>
+  </defs>
+</svg>

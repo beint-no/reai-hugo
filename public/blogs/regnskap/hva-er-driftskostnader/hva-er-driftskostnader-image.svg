@@ -1,0 +1,94 @@
+<svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="400" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#2c3e50">
+    Driftskostnader
+  </text>
+  
+  <!-- Subtitle -->
+  <text x="400" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#7f8c8d">
+    Kostnader i den daglige driften
+  </text>
+  
+  <!-- Main illustration - Factory/Business building -->
+  <g transform="translate(100, 120)">
+    <!-- Building -->
+    <rect x="0" y="80" width="200" height="120" fill="#3498db" stroke="#2980b9" stroke-width="2"/>
+    <rect x="20" y="100" width="30" height="40" fill="#ecf0f1" stroke="#bdc3c7"/>
+    <rect x="70" y="100" width="30" height="40" fill="#ecf0f1" stroke="#bdc3c7"/>
+    <rect x="120" y="100" width="30" height="40" fill="#ecf0f1" stroke="#bdc3c7"/>
+    <rect x="170" y="100" width="20" height="60" fill="#e74c3c" stroke="#c0392b"/>
+    
+    <!-- Roof -->
+    <polygon points="0,80 100,40 200,80" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+    
+    <!-- Chimney smoke -->
+    <circle cx="180" cy="30" r="8" fill="#95a5a6" opacity="0.7"/>
+    <circle cx="185" cy="20" r="6" fill="#95a5a6" opacity="0.5"/>
+    <circle cx="190" cy="12" r="4" fill="#95a5a6" opacity="0.3"/>
+  </g>
+  
+  <!-- Cost categories -->
+  <g transform="translate(350, 140)">
+    <!-- Fixed costs box -->
+    <rect x="0" y="0" width="180" height="80" fill="#e8f5e8" stroke="#27ae60" stroke-width="2" rx="5"/>
+    <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#27ae60">
+      Faste Kostnader
+    </text>
+    <text x="10" y="45" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+      • Husleie
+    </text>
+    <text x="10" y="60" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+      • Forsikring
+    </text>
+    <text x="10" y="75" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+      • Grunnlønn
+    </text>
+    
+    <!-- Variable costs box -->
+    <rect x="200" y="0" width="180" height="80" fill="#fef9e7" stroke="#f39c12" stroke-width="2" rx="5"/>
+    <text x="290" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#f39c12">
+      Variable Kostnader
+    </text>
+    <text x="210" y="45" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+      • Råvarer
+    </text>
+    <text x="210" y="60" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+      • Provisjon
+    </text>
+    <text x="210" y="75" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+      • Transport
+    </text>
+  </g>
+  
+  <!-- Arrow pointing to costs -->
+  <g transform="translate(320, 180)">
+    <line x1="0" y1="0" x2="20" y2="0" stroke="#34495e" stroke-width="3" marker-end="url(#arrowhead)"/>
+  </g>
+  
+  <!-- Arrow marker -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>
+    </marker>
+  </defs>
+  
+  <!-- Bottom section - Key metrics -->
+  <g transform="translate(100, 280)">
+    <rect x="0" y="0" width="600" height="60" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1" rx="5"/>
+    <text x="300" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
+      Nøkkeltall for Driftskostnader
+    </text>
+    <text x="50" y="45" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">
+      Kostnadsratio • Break-even • Dekningsbidrag • Budsjettoppfølging
+    </text>
+  </g>
+  
+  <!-- Decorative elements -->
+  <circle cx="50" cy="350" r="15" fill="#3498db" opacity="0.3"/>
+  <circle cx="750" cy="350" r="15" fill="#e74c3c" opacity="0.3"/>
+  <circle cx="50" cy="50" r="10" fill="#27ae60" opacity="0.3"/>
+  <circle cx="750" cy="50" r="10" fill="#f39c12" opacity="0.3"/>
+</svg>

@@ -1,0 +1,148 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .title { font-family: Arial, sans-serif; font-size: 18px; font-weight: bold; fill: #2c3e50; }
+      .subtitle { font-family: Arial, sans-serif; font-size: 14px; font-weight: bold; fill: #34495e; }
+      .text { font-family: Arial, sans-serif; font-size: 11px; fill: #2c3e50; }
+      .small-text { font-family: Arial, sans-serif; font-size: 10px; fill: #2c3e50; }
+      .tech-title { font-family: Arial, sans-serif; font-size: 13px; font-weight: bold; fill: #fff; }
+      .tech-text { font-family: Arial, sans-serif; font-size: 10px; fill: #fff; }
+      .ai { fill: #e74c3c; }
+      .blockchain { fill: #f39c12; }
+      .realtime { fill: #9b59b6; }
+      .future-center { fill: #34495e; }
+      .year-text { font-family: Arial, sans-serif; font-size: 11px; fill: #7f8c8d; text-anchor: middle; }
+    </style>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" class="title" text-anchor="middle">Fremtidens Kundereskontro</text>
+  <text x="400" y="50" class="subtitle" text-anchor="middle">Teknologiske trender som former fremtiden</text>
+  
+  <!-- Timeline -->
+  <line x1="100" y1="80" x2="700" y2="80" stroke="#bdc3c7" stroke-width="2"/>
+  <text x="150" y="75" class="year-text">I dag</text>
+  <text x="400" y="75" class="year-text">2025-2030</text>
+  <text x="650" y="75" class="year-text">2030+</text>
+  
+  <!-- Central future hub -->
+  <circle cx="400" cy="250" r="70" class="future-center"/>
+  <text x="400" y="235" class="tech-title" text-anchor="middle">FREMTIDENS</text>
+  <text x="400" y="250" class="tech-title" text-anchor="middle">KUNDERESKONTRO</text>
+  <text x="400" y="265" class="tech-title" text-anchor="middle">2030+</text>
+  
+  <!-- Technology 1: Artificial Intelligence -->
+  <g transform="translate(150, 150)">
+    <rect x="0" y="0" width="200" height="160" class="ai" rx="15"/>
+    <text x="100" y="25" class="tech-title" text-anchor="middle">KUNSTIG INTELLIGENS</text>
+    <text x="100" y="40" class="tech-title" text-anchor="middle">(AI)</text>
+    
+    <!-- AI Brain Icon -->
+    <g transform="translate(100, 70)">
+      <circle cx="0" cy="0" r="20" fill="#fff"/>
+      <circle cx="-6" cy="-6" r="3" fill="#e74c3c"/>
+      <circle cx="6" cy="-6" r="3" fill="#e74c3c"/>
+      <circle cx="0" cy="0" r="3" fill="#e74c3c"/>
+      <circle cx="-8" cy="8" r="2" fill="#e74c3c"/>
+      <circle cx="8" cy="8" r="2" fill="#e74c3c"/>
+      <line x1="-6" y1="-3" x2="0" y2="-3" stroke="#e74c3c" stroke-width="1"/>
+      <line x1="6" y1="-3" x2="0" y2="-3" stroke="#e74c3c" stroke-width="1"/>
+      <line x1="-6" y1="5" x2="0" y2="3" stroke="#e74c3c" stroke-width="1"/>
+      <line x1="6" y1="5" x2="0" y2="3" stroke="#e74c3c" stroke-width="1"/>
+    </g>
+    
+    <text x="15" y="115" class="tech-text">• Prediktiv analyse</text>
+    <text x="15" y="130" class="tech-text">• Automatisk risikoscoring</text>
+    <text x="15" y="145" class="tech-text">• Chatbots for kundekommunikasjon</text>
+  </g>
+  
+  <!-- Technology 2: Blockchain -->
+  <g transform="translate(450, 150)">
+    <rect x="0" y="0" width="200" height="160" class="blockchain" rx="15"/>
+    <text x="100" y="25" class="tech-title" text-anchor="middle">BLOCKCHAIN</text>
+    <text x="100" y="40" class="tech-title" text-anchor="middle">TEKNOLOGI</text>
+    
+    <!-- Blockchain Icon -->
+    <g transform="translate(100, 70)">
+      <rect x="-20" y="-8" width="16" height="16" fill="#fff" rx="2"/>
+      <rect x="-4" y="-8" width="16" height="16" fill="#fff" rx="2"/>
+      <rect x="12" y="-8" width="16" height="16" fill="#fff" rx="2"/>
+      <line x1="-4" y1="0" x2="-4" y2="0" stroke="#f39c12" stroke-width="2"/>
+      <line x1="12" y1="0" x2="12" y2="0" stroke="#f39c12" stroke-width="2"/>
+      <circle cx="-12" cy="0" r="2" fill="#f39c12"/>
+      <circle cx="4" cy="0" r="2" fill="#f39c12"/>
+      <circle cx="20" cy="0" r="2" fill="#f39c12"/>
+    </g>
+    
+    <text x="15" y="115" class="tech-text">• Smart contracts</text>
+    <text x="15" y="130" class="tech-text">• Transparent historikk</text>
+    <text x="15" y="145" class="tech-text">• Redusert svindel</text>
+  </g>
+  
+  <!-- Technology 3: Real-time Integration -->
+  <g transform="translate(300, 350)">
+    <rect x="0" y="0" width="200" height="160" class="realtime" rx="15"/>
+    <text x="100" y="25" class="tech-title" text-anchor="middle">SANNTIDS</text>
+    <text x="100" y="40" class="tech-title" text-anchor="middle">INTEGRASJON</text>
+    
+    <!-- Real-time Icon -->
+    <g transform="translate(100, 70)">
+      <circle cx="0" cy="0" r="18" fill="#fff"/>
+      <circle cx="0" cy="0" r="12" fill="none" stroke="#9b59b6" stroke-width="2"/>
+      <circle cx="0" cy="0" r="6" fill="none" stroke="#9b59b6" stroke-width="2"/>
+      <circle cx="0" cy="0" r="2" fill="#9b59b6"/>
+      <path d="M 0 -12 L 0 -18 M 12 0 L 18 0 M 0 12 L 0 18 M -12 0 L -18 0" stroke="#9b59b6" stroke-width="2"/>
+    </g>
+    
+    <text x="15" y="115" class="tech-text">• Øyeblikkelig oppdatering</text>
+    <text x="15" y="130" class="tech-text">• Mobil tilgang</text>
+    <text x="15" y="145" class="tech-text">• API-integrasjoner</text>
+  </g>
+  
+  <!-- Connection lines -->
+  <g stroke="#7f8c8d" stroke-width="2" fill="none" stroke-dasharray="5,5">
+    <line x1="320" y1="200" x2="360" y2="220"/>
+    <line x1="480" y1="200" x2="440" y2="220"/>
+    <line x1="400" y1="320" x2="400" y2="350"/>
+  </g>
+  
+  <!-- Benefits section -->
+  <rect x="50" y="530" width="700" height="60" fill="#fff" stroke="#bdc3c7" stroke-width="1" rx="10"/>
+  <text x="400" y="550" class="subtitle" text-anchor="middle">Forventede Fordeler</text>
+  
+  <g transform="translate(80, 565)">
+    <circle cx="0" cy="0" r="6" fill="#27ae60"/>
+    <text x="0" y="2" class="small-text" text-anchor="middle" fill="#fff">✓</text>
+    <text x="15" y="3" class="small-text">Automatisert beslutningstaking</text>
+  </g>
+  
+  <g transform="translate(250, 565)">
+    <circle cx="0" cy="0" r="6" fill="#27ae60"/>
+    <text x="0" y="2" class="small-text" text-anchor="middle" fill="#fff">✓</text>
+    <text x="15" y="3" class="small-text">Økt sikkerhet og tillit</text>
+  </g>
+  
+  <g transform="translate(400, 565)">
+    <circle cx="0" cy="0" r="6" fill="#27ae60"/>
+    <text x="0" y="2" class="small-text" text-anchor="middle" fill="#fff">✓</text>
+    <text x="15" y="3" class="small-text">Sanntids innsikt</text>
+  </g>
+  
+  <g transform="translate(550, 565)">
+    <circle cx="0" cy="0" r="6" fill="#27ae60"/>
+    <text x="0" y="2" class="small-text" text-anchor="middle" fill="#fff">✓</text>
+    <text x="15" y="3" class="small-text">Reduserte kostnader</text>
+  </g>
+  
+  <!-- Current state vs Future -->
+  <rect x="50" y="100" width="300" height="40" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1" rx="5"/>
+  <text x="200" y="115" class="text" text-anchor="middle" font-weight="bold">I DAG:</text>
+  <text x="200" y="130" class="small-text" text-anchor="middle">Manuell oppfølging, begrenset automatisering</text>
+  
+  <rect x="450" y="100" width="300" height="40" fill="#e8f5e8" stroke="#27ae60" stroke-width="1" rx="5"/>
+  <text x="600" y="115" class="text" text-anchor="middle" font-weight="bold">FREMTIDEN:</text>
+  <text x="600" y="130" class="small-text" text-anchor="middle">Intelligent, automatisert, transparent</text>
+</svg>

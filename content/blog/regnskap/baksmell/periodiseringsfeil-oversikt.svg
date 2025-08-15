@@ -1,0 +1,152 @@
+<svg viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="500" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#2c3e50">
+    Periodiseringsfeil som Fører til Baksmell
+  </text>
+  
+  <!-- Timeline -->
+  <line x1="100" y1="100" x2="700" y2="100" stroke="#34495e" stroke-width="3"/>
+  
+  <!-- Period markers -->
+  <circle cx="200" cy="100" r="8" fill="#3498db"/>
+  <text x="200" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+    Q4 2023
+  </text>
+  
+  <circle cx="400" cy="100" r="8" fill="#e74c3c"/>
+  <text x="400" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+    Årsskifte
+  </text>
+  
+  <circle cx="600" cy="100" r="8" fill="#27ae60"/>
+  <text x="600" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+    Q1 2024
+  </text>
+  
+  <!-- Error Type 1: Wrong period revenue -->
+  <rect x="120" y="140" width="160" height="80" fill="#3498db" fill-opacity="0.2" stroke="#3498db" stroke-width="2" rx="5"/>
+  <text x="200" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+    Inntekt i Feil Periode
+  </text>
+  <text x="200" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    Fakturert i desember
+  </text>
+  <text x="200" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    Tjeneste levert i januar
+  </text>
+  <text x="200" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#e74c3c">
+    → Økt skattegrunnlag 2023
+  </text>
+  
+  <!-- Error Type 2: Accrued costs underestimated -->
+  <rect x="320" y="140" width="160" height="80" fill="#f39c12" fill-opacity="0.2" stroke="#f39c12" stroke-width="2" rx="5"/>
+  <text x="400" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+    Påløpte Kostnader
+  </text>
+  <text x="400" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    Undervurderte renter
+  </text>
+  <text x="400" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    og gebyrer
+  </text>
+  <text x="400" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#e74c3c">
+    → Ekstra kostnader
+  </text>
+  
+  <!-- Error Type 3: Prepaid expenses -->
+  <rect x="520" y="140" width="160" height="80" fill="#9b59b6" fill-opacity="0.2" stroke="#9b59b6" stroke-width="2" rx="5"/>
+  <text x="600" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+    Forskuddsbetalte Kostnader
+  </text>
+  <text x="600" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    Forsikringspremier
+  </text>
+  <text x="600" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    feilberegnet
+  </text>
+  <text x="600" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#e74c3c">
+    → Feil kostnadsfordeling
+  </text>
+  
+  <!-- Impact section -->
+  <rect x="50" y="280" width="700" height="180" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2" rx="10"/>
+  <text x="400" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">
+    Konsekvenser av Periodiseringsfeil
+  </text>
+  
+  <!-- Impact boxes -->
+  <rect x="80" y="320" width="180" height="120" fill="#e74c3c" fill-opacity="0.1" stroke="#e74c3c" stroke-width="2" rx="5"/>
+  <text x="170" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+    Skattemessige Konsekvenser
+  </text>
+  <text x="170" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    • Høyere skattegrunnlag
+  </text>
+  <text x="170" y="375" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    • Baksmell ved oppgjør
+  </text>
+  <text x="170" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    • Renter og gebyrer
+  </text>
+  <text x="170" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    • Økt kontrollrisiko
+  </text>
+  <text x="170" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e74c3c">
+    Baksmell: 50 000 - 500 000 kr
+  </text>
+  
+  <rect x="310" y="320" width="180" height="120" fill="#f39c12" fill-opacity="0.1" stroke="#f39c12" stroke-width="2" rx="5"/>
+  <text x="400" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+    Regnskapsmessige Feil
+  </text>
+  <text x="400" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    • Feil resultatpresentasjon
+  </text>
+  <text x="400" y="375" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    • Revisjonsmerknader
+  </text>
+  <text x="400" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    • Korreksjoner påkrevd
+  </text>
+  <text x="400" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    • Omdømmerisiko
+  </text>
+  <text x="400" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#f39c12">
+    Kostnader: 20 000 - 200 000 kr
+  </text>
+  
+  <rect x="540" y="320" width="180" height="120" fill="#3498db" fill-opacity="0.1" stroke="#3498db" stroke-width="2" rx="5"/>
+  <text x="630" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+    Likviditetseffekter
+  </text>
+  <text x="630" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    • Uventet kontantbehov
+  </text>
+  <text x="630" y="375" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    • Finansieringsbehov
+  </text>
+  <text x="630" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    • Kredittpress
+  </text>
+  <text x="630" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    • Planleggingsutfordringer
+  </text>
+  <text x="630" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#3498db">
+    Behov: 100 000 - 1 000 000 kr
+  </text>
+  
+  <!-- Arrows connecting timeline to examples -->
+  <line x1="200" y1="115" x2="200" y2="135" stroke="#3498db" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="400" y1="115" x2="400" y2="135" stroke="#f39c12" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="600" y1="115" x2="600" y2="135" stroke="#9b59b6" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>
+    </marker>
+  </defs>
+</svg>

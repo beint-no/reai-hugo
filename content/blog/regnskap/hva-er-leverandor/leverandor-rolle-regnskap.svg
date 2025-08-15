@@ -1,0 +1,136 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+    Leverandørens Rolle i Regnskapet
+  </text>
+  
+  <!-- Supplier Box -->
+  <rect x="50" y="100" width="200" height="120" rx="10" fill="#3498db" stroke="#2980b9" stroke-width="2"/>
+  <text x="150" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    LEVERANDØR
+  </text>
+  <text x="150" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    Leverer varer/tjenester
+  </text>
+  <text x="150" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    Sender fakturaer
+  </text>
+  <text x="150" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    Mottar betalinger
+  </text>
+  
+  <!-- Company Box -->
+  <rect x="550" y="100" width="200" height="120" rx="10" fill="#27ae60" stroke="#229954" stroke-width="2"/>
+  <text x="650" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    DIN BEDRIFT
+  </text>
+  <text x="650" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    Mottar varer/tjenester
+  </text>
+  <text x="650" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    Mottar fakturaer
+  </text>
+  <text x="650" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    Foretar betalinger
+  </text>
+  
+  <!-- Arrow from Supplier to Company -->
+  <path d="M 250 140 L 540 140" stroke="#e74c3c" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  <text x="395" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#e74c3c">
+    Varer/Tjenester &amp; Fakturaer
+  </text>
+  
+  <!-- Arrow from Company to Supplier -->
+  <path d="M 540 180 L 250 180" stroke="#f39c12" stroke-width="3" fill="none" marker-end="url(#arrowhead2)"/>
+  <text x="395" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#f39c12">
+    Betalinger
+  </text>
+  
+  <!-- Accounting Impact Box -->
+  <rect x="300" y="280" width="200" height="180" rx="10" fill="#9b59b6" stroke="#8e44ad" stroke-width="2"/>
+  <text x="400" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    REGNSKAPSEFFEKT
+  </text>
+  
+  <!-- Accounting entries -->
+  <text x="320" y="340" font-family="Arial, sans-serif" font-size="12" fill="white">
+    • Innkjøpstransaksjoner
+  </text>
+  <text x="320" y="360" font-family="Arial, sans-serif" font-size="12" fill="white">
+    • Leverandørgjeld
+  </text>
+  <text x="320" y="380" font-family="Arial, sans-serif" font-size="12" fill="white">
+    • Kostnadsføring
+  </text>
+  <text x="320" y="400" font-family="Arial, sans-serif" font-size="12" fill="white">
+    • MVA-behandling
+  </text>
+  <text x="320" y="420" font-family="Arial, sans-serif" font-size="12" fill="white">
+    • Kontantstrømpåvirkning
+  </text>
+  <text x="320" y="440" font-family="Arial, sans-serif" font-size="12" fill="white">
+    • Bilagsføring
+  </text>
+  
+  <!-- Arrows to accounting -->
+  <path d="M 400 220 L 400 270" stroke="#34495e" stroke-width="2" fill="none" marker-end="url(#arrowhead3)"/>
+  
+  <!-- Key processes -->
+  <rect x="100" y="500" width="150" height="80" rx="5" fill="#e67e22" stroke="#d35400" stroke-width="1"/>
+  <text x="175" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    INNKJØPSPROSESS
+  </text>
+  <text x="175" y="540" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    Bestilling
+  </text>
+  <text x="175" y="555" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    Mottak
+  </text>
+  <text x="175" y="570" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    Kontroll
+  </text>
+  
+  <rect x="325" y="500" width="150" height="80" rx="5" fill="#1abc9c" stroke="#16a085" stroke-width="1"/>
+  <text x="400" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    FAKTURABEHANDLING
+  </text>
+  <text x="400" y="540" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    Mottak
+  </text>
+  <text x="400" y="555" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    Attestering
+  </text>
+  <text x="400" y="570" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    Bokføring
+  </text>
+  
+  <rect x="550" y="500" width="150" height="80" rx="5" fill="#e74c3c" stroke="#c0392b" stroke-width="1"/>
+  <text x="625" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    BETALINGSPROSESS
+  </text>
+  <text x="625" y="540" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    Godkjenning
+  </text>
+  <text x="625" y="555" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    Betaling
+  </text>
+  <text x="625" y="570" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    Avstemming
+  </text>
+  
+  <!-- Arrow markers -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#e74c3c"/>
+    </marker>
+    <marker id="arrowhead2" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#f39c12"/>
+    </marker>
+    <marker id="arrowhead3" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>
+    </marker>
+  </defs>
+</svg>

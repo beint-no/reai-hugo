@@ -1,0 +1,197 @@
+<svg width="600" height="400" viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="600" height="400" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="300" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c3e50">
+    Oversikt over Kontrollfrekvens og Ansvarsområder
+  </text>
+  
+  <!-- Daily Controls -->
+  <rect x="50" y="60" width="150" height="100" fill="#e74c3c" opacity="0.9" rx="10"/>
+  <text x="125" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    DAGLIGE KONTROLLER
+  </text>
+  
+  <text x="60" y="100" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Bankavstemming
+  </text>
+  <text x="60" y="115" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Kundefordringer
+  </text>
+  <text x="60" y="130" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Leverandørgjeld
+  </text>
+  <text x="60" y="145" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Kontantstrøm
+  </text>
+  
+  <!-- Weekly Controls -->
+  <rect x="225" y="60" width="150" height="100" fill="#f39c12" opacity="0.9" rx="10"/>
+  <text x="300" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    UKENTLIGE KONTROLLER
+  </text>
+  
+  <text x="235" y="100" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Lønnsreskontro
+  </text>
+  <text x="235" y="115" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Lageravstemminger
+  </text>
+  <text x="235" y="130" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Periodiseringer
+  </text>
+  <text x="235" y="145" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Mellomregninger
+  </text>
+  
+  <!-- Monthly Controls -->
+  <rect x="400" y="60" width="150" height="100" fill="#27ae60" opacity="0.9" rx="10"/>
+  <text x="475" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    MÅNEDLIGE KONTROLLER
+  </text>
+  
+  <text x="410" y="100" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Balanseavstemming
+  </text>
+  <text x="410" y="115" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Budsjettoppfølging
+  </text>
+  <text x="410" y="130" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Hovedkontoer
+  </text>
+  <text x="410" y="145" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Rapportkvalitet
+  </text>
+  
+  <!-- Responsibility Matrix -->
+  <rect x="50" y="190" width="500" height="180" fill="white" stroke="#2c3e50" stroke-width="2" rx="10"/>
+  <text x="300" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
+    Ansvarsmatrise
+  </text>
+  
+  <!-- Table Header -->
+  <rect x="70" y="220" width="120" height="25" fill="#34495e"/>
+  <text x="130" y="237" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    Kontrollområde
+  </text>
+  
+  <rect x="190" y="220" width="100" height="25" fill="#34495e"/>
+  <text x="240" y="237" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    Ansvarlig
+  </text>
+  
+  <rect x="290" y="220" width="80" height="25" fill="#34495e"/>
+  <text x="330" y="237" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    Frekvens
+  </text>
+  
+  <rect x="370" y="220" width="100" height="25" fill="#34495e"/>
+  <text x="420" y="237" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    Rapportering
+  </text>
+  
+  <rect x="470" y="220" width="70" height="25" fill="#34495e"/>
+  <text x="505" y="237" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    Prioritet
+  </text>
+  
+  <!-- Table Rows -->
+  <!-- Row 1 -->
+  <rect x="70" y="245" width="470" height="20" fill="#ecf0f1"/>
+  <text x="75" y="258" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    Bankavstemming
+  </text>
+  <text x="195" y="258" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    Regnskapsfører
+  </text>
+  <text x="295" y="258" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    Daglig
+  </text>
+  <text x="375" y="258" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    Økonomisjef
+  </text>
+  <circle cx="505" cy="255" r="5" fill="#e74c3c"/>
+  
+  <!-- Row 2 -->
+  <text x="75" y="278" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    Budsjettavvik
+  </text>
+  <text x="195" y="278" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    Controller
+  </text>
+  <text x="295" y="278" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    Månedlig
+  </text>
+  <text x="375" y="278" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    Ledelse
+  </text>
+  <circle cx="505" cy="275" r="5" fill="#f39c12"/>
+  
+  <!-- Row 3 -->
+  <rect x="70" y="285" width="470" height="20" fill="#ecf0f1"/>
+  <text x="75" y="298" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    Lageravvik
+  </text>
+  <text x="195" y="298" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    Lagersjef
+  </text>
+  <text x="295" y="298" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    Ukentlig
+  </text>
+  <text x="375" y="298" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    Økonomisjef
+  </text>
+  <circle cx="505" cy="295" r="5" fill="#f39c12"/>
+  
+  <!-- Row 4 -->
+  <text x="75" y="318" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    Systemkontroller
+  </text>
+  <text x="195" y="318" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    IT-ansvarlig
+  </text>
+  <text x="295" y="318" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    Kontinuerlig
+  </text>
+  <text x="375" y="318" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    Økonomisjef
+  </text>
+  <circle cx="505" cy="315" r="5" fill="#27ae60"/>
+  
+  <!-- Row 5 -->
+  <rect x="70" y="325" width="470" height="20" fill="#ecf0f1"/>
+  <text x="75" y="338" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    Kvalitetssikring
+  </text>
+  <text x="195" y="338" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    Regnskapssjef
+  </text>
+  <text x="295" y="338" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    Månedlig
+  </text>
+  <text x="375" y="338" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    Styre
+  </text>
+  <circle cx="505" cy="335" r="5" fill="#e74c3c"/>
+  
+  <!-- Legend -->
+  <text x="70" y="365" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+    Prioritetsnivå:
+  </text>
+  
+  <circle cx="170" cy="365" r="5" fill="#e74c3c"/>
+  <text x="180" y="369" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    Høy
+  </text>
+  
+  <circle cx="220" cy="365" r="5" fill="#f39c12"/>
+  <text x="230" y="369" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    Middels
+  </text>
+  
+  <circle cx="280" cy="365" r="5" fill="#27ae60"/>
+  <text x="290" y="369" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    Lav
+  </text>
+</svg>

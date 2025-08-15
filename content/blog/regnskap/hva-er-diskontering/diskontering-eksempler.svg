@@ -1,0 +1,167 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0D47A1;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="exampleGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1B5E20;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="calculationGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF9800;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#E65100;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
+  <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
+    Praktiske Diskonteringseksempler
+  </text>
+  
+  <!-- Example 1: Machine Investment -->
+  <g transform="translate(50, 80)">
+    <rect x="0" y="0" width="340" height="220" rx="10" fill="url(#exampleGradient)" opacity="0.9"/>
+    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      Eksempel 1: Maskininvestering
+    </text>
+    
+    <!-- Machine icon -->
+    <circle cx="60" cy="70" r="25" fill="white" opacity="0.3"/>
+    <text x="60" y="78" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="white">⚙️</text>
+    
+    <!-- Investment details -->
+    <text x="110" y="55" font-family="Arial, sans-serif" font-size="14" fill="white">
+      Investering: 500 000 kr
+    </text>
+    <text x="110" y="75" font-family="Arial, sans-serif" font-size="14" fill="white">
+      Diskonteringsrente: 10%
+    </text>
+    <text x="110" y="95" font-family="Arial, sans-serif" font-size="14" fill="white">
+      Periode: 4 år
+    </text>
+    
+    <!-- Cash flows -->
+    <text x="20" y="125" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      Kontantstrømmer:
+    </text>
+    <text x="20" y="145" font-family="Arial, sans-serif" font-size="12" fill="white">
+      År 1: 150 000 kr → PV: 136 364 kr
+    </text>
+    <text x="20" y="160" font-family="Arial, sans-serif" font-size="12" fill="white">
+      År 2: 180 000 kr → PV: 148 760 kr
+    </text>
+    <text x="20" y="175" font-family="Arial, sans-serif" font-size="12" fill="white">
+      År 3: 200 000 kr → PV: 150 263 kr
+    </text>
+    <text x="20" y="190" font-family="Arial, sans-serif" font-size="12" fill="white">
+      År 4: 120 000 kr → PV: 82 012 kr
+    </text>
+    
+    <!-- Result -->
+    <rect x="20" y="200" width="300" height="15" fill="white" opacity="0.2"/>
+    <text x="170" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      NPV = 17 399 kr ✓ Lønnsom
+    </text>
+  </g>
+  
+  <!-- Example 2: Lease vs Buy -->
+  <g transform="translate(410, 80)">
+    <rect x="0" y="0" width="340" height="220" rx="10" fill="url(#calculationGradient)" opacity="0.9"/>
+    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      Eksempel 2: Kjøp vs. Leasing
+    </text>
+    
+    <!-- Scale icon -->
+    <circle cx="60" cy="70" r="25" fill="white" opacity="0.3"/>
+    <text x="60" y="78" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="white">⚖️</text>
+    
+    <!-- Comparison details -->
+    <text x="110" y="55" font-family="Arial, sans-serif" font-size="14" fill="white">
+      Utstyr verdi: 800 000 kr
+    </text>
+    <text x="110" y="75" font-family="Arial, sans-serif" font-size="14" fill="white">
+      Diskonteringsrente: 8%
+    </text>
+    <text x="110" y="95" font-family="Arial, sans-serif" font-size="14" fill="white">
+      Periode: 5 år
+    </text>
+    
+    <!-- Options comparison -->
+    <text x="20" y="125" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      Kjøpsalternativ:
+    </text>
+    <text x="20" y="145" font-family="Arial, sans-serif" font-size="12" fill="white">
+      Kjøpspris: -800 000 kr
+    </text>
+    <text x="20" y="160" font-family="Arial, sans-serif" font-size="12" fill="white">
+      Driftskostnader PV: -199 635 kr
+    </text>
+    <text x="20" y="175" font-family="Arial, sans-serif" font-size="12" fill="white">
+      Salgsverdi PV: +136 116 kr
+    </text>
+    <text x="20" y="190" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      NPV Kjøp: -863 519 kr
+    </text>
+    
+    <!-- Result -->
+    <rect x="20" y="200" width="300" height="15" fill="white" opacity="0.2"/>
+    <text x="170" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      Leasing NPV: -718 686 kr ✓ Bedre
+    </text>
+  </g>
+  
+  <!-- Formula Section -->
+  <g transform="translate(50, 320)">
+    <rect x="0" y="0" width="700" height="120" rx="10" fill="#ffffff" stroke="#ddd" stroke-width="2"/>
+    <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333">
+      Diskonteringsformler
+    </text>
+    
+    <!-- Present Value Formula -->
+    <text x="50" y="55" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2196F3">
+      Nåverdi (PV):
+    </text>
+    <text x="180" y="55" font-family="Arial, sans-serif" font-size="14" fill="#333">
+      PV = FV / (1 + r)^n
+    </text>
+    
+    <!-- NPV Formula -->
+    <text x="50" y="80" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#4CAF50">
+      Netto Nåverdi (NPV):
+    </text>
+    <text x="220" y="80" font-family="Arial, sans-serif" font-size="14" fill="#333">
+      NPV = Σ [CFt / (1 + r)^t] - I0
+    </text>
+    
+    <!-- Legend -->
+    <text x="50" y="105" font-family="Arial, sans-serif" font-size="12" fill="#666">
+      FV = Fremtidig verdi, r = Diskonteringsrente, n = Antall perioder, CFt = Kontantstrøm periode t, I0 = Initial investering
+    </text>
+  </g>
+  
+  <!-- Key Insights -->
+  <g transform="translate(50, 460)">
+    <rect x="0" y="0" width="700" height="120" rx="10" fill="#e3f2fd" stroke="#2196F3" stroke-width="2"/>
+    <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1976D2">
+      Nøkkelinnsikt fra Eksemplene
+    </text>
+    
+    <text x="50" y="50" font-family="Arial, sans-serif" font-size="14" fill="#333">
+      • Maskininvesteringen har positiv NPV (17 399 kr) og er derfor lønnsom
+    </text>
+    <text x="50" y="70" font-family="Arial, sans-serif" font-size="14" fill="#333">
+      • Leasing er mer fordelaktig enn kjøp (-718 686 kr vs -863 519 kr)
+    </text>
+    <text x="50" y="90" font-family="Arial, sans-serif" font-size="14" fill="#333">
+      • Diskonteringsrenten påvirker beslutningen betydelig - høyere rente favoriserer kortere tilbakebetalingstid
+    </text>
+    <text x="50" y="110" font-family="Arial, sans-serif" font-size="14" fill="#333">
+      • Alle fremtidige kontantstrømmer må diskonteres for sammenligning med dagens investeringskostnad
+    </text>
+  </g>
+</svg>

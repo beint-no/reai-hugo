@@ -1,0 +1,145 @@
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ordinaryTaxGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#007bff;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#0056b3;stop-opacity:0.8" />
+    </linearGradient>
+    <linearGradient id="specialTaxGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#dc3545;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#c82333;stop-opacity:0.8" />
+    </linearGradient>
+    <linearGradient id="totalTaxGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6f42c1;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#5a32a3;stop-opacity:0.8" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="600" height="400" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1"/>
+  
+  <!-- Title -->
+  <text x="300" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#212529">
+    Petroleumsskatt Oversikt
+  </text>
+  
+  <!-- Subtitle -->
+  <text x="300" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#6c757d">
+    Dobbelt skattesystem for petroleumsvirksomhet
+  </text>
+  
+  <!-- Oil platform illustration -->
+  <g transform="translate(50, 80)">
+    <!-- Platform base -->
+    <rect x="0" y="40" width="80" height="30" fill="#495057"/>
+    <!-- Platform legs -->
+    <rect x="10" y="70" width="8" height="50" fill="#495057"/>
+    <rect x="30" y="70" width="8" height="50" fill="#495057"/>
+    <rect x="50" y="70" width="8" height="50" fill="#495057"/>
+    <rect x="70" y="70" width="8" height="50" fill="#495057"/>
+    <!-- Derrick -->
+    <polygon points="35,10 45,10 42,40 38,40" fill="#495057"/>
+    <!-- Flame -->
+    <ellipse cx="42" cy="8" rx="3" ry="5" fill="#fd7e14"/>
+    
+    <text x="40" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+      Petroleumsplattform
+    </text>
+  </g>
+  
+  <!-- Tax structure visualization -->
+  <g transform="translate(200, 80)">
+    
+    <!-- Ordinary corporate tax -->
+    <rect x="0" y="0" width="350" height="60" fill="url(#ordinaryTaxGradient)" rx="5"/>
+    <text x="20" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      Ordinær Selskapsskatt
+    </text>
+    <text x="20" y="45" font-family="Arial, sans-serif" font-size="12" fill="white">
+      Samme som andre selskaper i Norge
+    </text>
+    <text x="330" y="35" text-anchor="end" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
+      22%
+    </text>
+    
+    <!-- Plus sign -->
+    <text x="175" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#495057">
+      +
+    </text>
+    
+    <!-- Special tax -->
+    <rect x="0" y="100" width="350" height="60" fill="url(#specialTaxGradient)" rx="5"/>
+    <text x="20" y="125" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      Særskatt (Grunnrenteskatt)
+    </text>
+    <text x="20" y="145" font-family="Arial, sans-serif" font-size="12" fill="white">
+      Ekstra skatt på petroleumsvirksomhet
+    </text>
+    <text x="330" y="135" text-anchor="end" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
+      56%
+    </text>
+    
+    <!-- Equals sign -->
+    <text x="175" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#495057">
+      =
+    </text>
+    
+    <!-- Total tax -->
+    <rect x="0" y="200" width="350" height="60" fill="url(#totalTaxGradient)" rx="5"/>
+    <text x="20" y="225" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      Total Marginalskattesats
+    </text>
+    <text x="20" y="245" font-family="Arial, sans-serif" font-size="12" fill="white">
+      Kombinert skattesats på petroleumsinntekter
+    </text>
+    <text x="330" y="235" text-anchor="end" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
+      78%
+    </text>
+    
+  </g>
+  
+  <!-- Key features -->
+  <g transform="translate(50, 300)">
+    <text x="250" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#212529">
+      Særtrekk ved Petroleumsskatt
+    </text>
+    
+    <!-- Feature boxes -->
+    <g transform="translate(0, 20)">
+      <!-- Immediate depreciation -->
+      <rect x="0" y="0" width="120" height="50" fill="#28a745" opacity="0.2" rx="5"/>
+      <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#155724">
+        Øyeblikkelig
+      </text>
+      <text x="60" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#155724">
+        Avskrivning
+      </text>
+      
+      <!-- Free income -->
+      <rect x="130" y="0" width="120" height="50" fill="#17a2b8" opacity="0.2" rx="5"/>
+      <text x="190" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#0c5460">
+        Friinntekt
+      </text>
+      <text x="190" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#0c5460">
+        5,2%
+      </text>
+      
+      <!-- Loss carryforward with interest -->
+      <rect x="260" y="0" width="120" height="50" fill="#ffc107" opacity="0.2" rx="5"/>
+      <text x="320" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#856404">
+        Fremføring
+      </text>
+      <text x="320" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#856404">
+        med rente
+      </text>
+      
+      <!-- Uplift -->
+      <rect x="390" y="0" width="120" height="50" fill="#6f42c1" opacity="0.2" rx="5"/>
+      <text x="450" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#4a2c7a">
+        Særlige
+      </text>
+      <text x="450" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#4a2c7a">
+        Fradrag
+      </text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,183 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="phaseGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="phaseGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#10b981;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#059669;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="phaseGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f59e0b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#d97706;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="phaseGrad4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#8b5cf6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7c3aed;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="phaseGrad5" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ef4444;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#dc2626;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f9fafb"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="24" font-weight="bold">Implementeringsprosess for Styringsverktøy</text>
+  <text x="400" y="50" text-anchor="middle" fill="#6b7280" font-family="Arial, sans-serif" font-size="14">5-fase metodikk for vellykket innføring</text>
+  
+  <!-- Timeline -->
+  <line x1="100" y1="100" x2="700" y2="100" stroke="#374151" stroke-width="4"/>
+  
+  <!-- Phase 1: Planning -->
+  <circle cx="150" cy="100" r="25" fill="url(#phaseGrad1)"/>
+  <text x="150" y="108" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">1</text>
+  
+  <rect x="75" y="140" width="150" height="140" rx="10" fill="url(#phaseGrad1)" opacity="0.9"/>
+  <text x="150" y="165" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">PLANLEGGING</text>
+  <text x="150" y="185" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">2-4 uker</text>
+  
+  <!-- Phase 1 tasks -->
+  <rect x="85" y="200" width="130" height="15" rx="3" fill="#ffffff" opacity="0.9"/>
+  <text x="150" y="210" text-anchor="middle" fill="#1d4ed8" font-family="Arial, sans-serif" font-size="9">Behovsanalyse</text>
+  
+  <rect x="85" y="220" width="130" height="15" rx="3" fill="#ffffff" opacity="0.9"/>
+  <text x="150" y="230" text-anchor="middle" fill="#1d4ed8" font-family="Arial, sans-serif" font-size="9">Målsetting</text>
+  
+  <rect x="85" y="240" width="130" height="15" rx="3" fill="#ffffff" opacity="0.9"/>
+  <text x="150" y="250" text-anchor="middle" fill="#1d4ed8" font-family="Arial, sans-serif" font-size="9">Ressursallokering</text>
+  
+  <rect x="85" y="260" width="130" height="15" rx="3" fill="#ffffff" opacity="0.9"/>
+  <text x="150" y="270" text-anchor="middle" fill="#1d4ed8" font-family="Arial, sans-serif" font-size="9">Tidsplan</text>
+  
+  <!-- Phase 2: Design -->
+  <circle cx="250" cy="100" r="25" fill="url(#phaseGrad2)"/>
+  <text x="250" y="108" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">2</text>
+  
+  <rect x="175" y="300" width="150" height="140" rx="10" fill="url(#phaseGrad2)" opacity="0.9"/>
+  <text x="250" y="325" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">DESIGN</text>
+  <text x="250" y="345" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">3-6 uker</text>
+  
+  <!-- Phase 2 tasks -->
+  <rect x="185" y="360" width="130" height="15" rx="3" fill="#ffffff" opacity="0.9"/>
+  <text x="250" y="370" text-anchor="middle" fill="#059669" font-family="Arial, sans-serif" font-size="9">Systemarkitektur</text>
+  
+  <rect x="185" y="380" width="130" height="15" rx="3" fill="#ffffff" opacity="0.9"/>
+  <text x="250" y="390" text-anchor="middle" fill="#059669" font-family="Arial, sans-serif" font-size="9">Datamodellering</text>
+  
+  <rect x="185" y="400" width="130" height="15" rx="3" fill="#ffffff" opacity="0.9"/>
+  <text x="250" y="410" text-anchor="middle" fill="#059669" font-family="Arial, sans-serif" font-size="9">Brukergrensesnitt</text>
+  
+  <rect x="185" y="420" width="130" height="15" rx="3" fill="#ffffff" opacity="0.9"/>
+  <text x="250" y="430" text-anchor="middle" fill="#059669" font-family="Arial, sans-serif" font-size="9">Integrasjonsplan</text>
+  
+  <!-- Phase 3: Implementation -->
+  <circle cx="400" cy="100" r="25" fill="url(#phaseGrad3)"/>
+  <text x="400" y="108" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">3</text>
+  
+  <rect x="325" y="140" width="150" height="140" rx="10" fill="url(#phaseGrad3)" opacity="0.9"/>
+  <text x="400" y="165" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">IMPLEMENTERING</text>
+  <text x="400" y="185" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">6-12 uker</text>
+  
+  <!-- Phase 3 tasks -->
+  <rect x="335" y="200" width="130" height="15" rx="3" fill="#ffffff" opacity="0.9"/>
+  <text x="400" y="210" text-anchor="middle" fill="#d97706" font-family="Arial, sans-serif" font-size="9">Systemkonfigurasjon</text>
+  
+  <rect x="335" y="220" width="130" height="15" rx="3" fill="#ffffff" opacity="0.9"/>
+  <text x="400" y="230" text-anchor="middle" fill="#d97706" font-family="Arial, sans-serif" font-size="9">Datamigrering</text>
+  
+  <rect x="335" y="240" width="130" height="15" rx="3" fill="#ffffff" opacity="0.9"/>
+  <text x="400" y="250" text-anchor="middle" fill="#d97706" font-family="Arial, sans-serif" font-size="9">Testing</text>
+  
+  <rect x="335" y="260" width="130" height="15" rx="3" fill="#ffffff" opacity="0.9"/>
+  <text x="400" y="270" text-anchor="middle" fill="#d97706" font-family="Arial, sans-serif" font-size="9">Brukeropplæring</text>
+  
+  <!-- Phase 4: Deployment -->
+  <circle cx="550" cy="100" r="25" fill="url(#phaseGrad4)"/>
+  <text x="550" y="108" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">4</text>
+  
+  <rect x="475" y="300" width="150" height="140" rx="10" fill="url(#phaseGrad4)" opacity="0.9"/>
+  <text x="550" y="325" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">UTRULLING</text>
+  <text x="550" y="345" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">2-4 uker</text>
+  
+  <!-- Phase 4 tasks -->
+  <rect x="485" y="360" width="130" height="15" rx="3" fill="#ffffff" opacity="0.9"/>
+  <text x="550" y="370" text-anchor="middle" fill="#7c3aed" font-family="Arial, sans-serif" font-size="9">Produksjonssetting</text>
+  
+  <rect x="485" y="380" width="130" height="15" rx="3" fill="#ffffff" opacity="0.9"/>
+  <text x="550" y="390" text-anchor="middle" fill="#7c3aed" font-family="Arial, sans-serif" font-size="9">Overvåking</text>
+  
+  <rect x="485" y="400" width="130" height="15" rx="3" fill="#ffffff" opacity="0.9"/>
+  <text x="550" y="410" text-anchor="middle" fill="#7c3aed" font-family="Arial, sans-serif" font-size="9">Brukerstøtte</text>
+  
+  <rect x="485" y="420" width="130" height="15" rx="3" fill="#ffffff" opacity="0.9"/>
+  <text x="550" y="430" text-anchor="middle" fill="#7c3aed" font-family="Arial, sans-serif" font-size="9">Justeringer</text>
+  
+  <!-- Phase 5: Optimization -->
+  <circle cx="650" cy="100" r="25" fill="url(#phaseGrad5)"/>
+  <text x="650" y="108" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">5</text>
+  
+  <rect x="575" y="140" width="150" height="140" rx="10" fill="url(#phaseGrad5)" opacity="0.9"/>
+  <text x="650" y="165" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">OPTIMALISERING</text>
+  <text x="650" y="185" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">Kontinuerlig</text>
+  
+  <!-- Phase 5 tasks -->
+  <rect x="585" y="200" width="130" height="15" rx="3" fill="#ffffff" opacity="0.9"/>
+  <text x="650" y="210" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="9">Ytelsesanalyse</text>
+  
+  <rect x="585" y="220" width="130" height="15" rx="3" fill="#ffffff" opacity="0.9"/>
+  <text x="650" y="230" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="9">Prosessforbedring</text>
+  
+  <rect x="585" y="240" width="130" height="15" rx="3" fill="#ffffff" opacity="0.9"/>
+  <text x="650" y="250" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="9">Funksjonsutvidelser</text>
+  
+  <rect x="585" y="260" width="130" height="15" rx="3" fill="#ffffff" opacity="0.9"/>
+  <text x="650" y="270" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="9">ROI-evaluering</text>
+  
+  <!-- Arrows between phases -->
+  <path d="M 175 100 L 225 100" stroke="#374151" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  <path d="M 275 100 L 375 100" stroke="#374151" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  <path d="M 425 100 L 525 100" stroke="#374151" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  <path d="M 575 100 L 625 100" stroke="#374151" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Arrow marker -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#374151"/>
+    </marker>
+  </defs>
+  
+  <!-- Critical Success Factors -->
+  <text x="400" y="480" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="18" font-weight="bold">Kritiske Suksessfaktorer</text>
+  
+  <!-- Success factors -->
+  <rect x="50" y="500" width="140" height="60" rx="8" fill="#dcfce7" stroke="#16a34a" stroke-width="2"/>
+  <text x="120" y="520" text-anchor="middle" fill="#166534" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Ledelsesforankring</text>
+  <text x="120" y="535" text-anchor="middle" fill="#15803d" font-family="Arial, sans-serif" font-size="10">Tydelig støtte fra</text>
+  <text x="120" y="550" text-anchor="middle" fill="#15803d" font-family="Arial, sans-serif" font-size="10">toppledelsen</text>
+  
+  <rect x="210" y="500" width="140" height="60" rx="8" fill="#fef3c7" stroke="#f59e0b" stroke-width="2"/>
+  <text x="280" y="520" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Brukermedvirkning</text>
+  <text x="280" y="535" text-anchor="middle" fill="#b45309" font-family="Arial, sans-serif" font-size="10">Involver slutt-</text>
+  <text x="280" y="550" text-anchor="middle" fill="#b45309" font-family="Arial, sans-serif" font-size="10">brukerne tidlig</text>
+  
+  <rect x="370" y="500" width="140" height="60" rx="8" fill="#dbeafe" stroke="#3b82f6" stroke-width="2"/>
+  <text x="440" y="520" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Kompetanseutvikling</text>
+  <text x="440" y="535" text-anchor="middle" fill="#1d4ed8" font-family="Arial, sans-serif" font-size="10">Systematisk opplæring</text>
+  <text x="440" y="550" text-anchor="middle" fill="#1d4ed8" font-family="Arial, sans-serif" font-size="10">og støtte</text>
+  
+  <rect x="530" y="500" width="140" height="60" rx="8" fill="#f3e8ff" stroke="#8b5cf6" stroke-width="2"/>
+  <text x="600" y="520" text-anchor="middle" fill="#6b21a8" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Datakvalitet</text>
+  <text x="600" y="535" text-anchor="middle" fill="#7c3aed" font-family="Arial, sans-serif" font-size="10">Ren og konsistent</text>
+  <text x="600" y="550" text-anchor="middle" fill="#7c3aed" font-family="Arial, sans-serif" font-size="10">datakilde</text>
+  
+  <!-- Warning icon -->
+  <circle cx="30" cy="530" r="8" fill="#ef4444"/>
+  <text x="30" y="535" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">!</text>
+  
+  <!-- Total timeline -->
+  <text x="400" y="580" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Total prosjekttid: 13-26 uker (avhengig av kompleksitet)</text>
+</svg>

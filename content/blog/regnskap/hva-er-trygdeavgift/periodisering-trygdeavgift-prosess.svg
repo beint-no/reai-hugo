@@ -1,0 +1,143 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8fafc"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e293b">
+    Periodisering og Regnskapsføring av Trygdeavgift
+  </text>
+  
+  <!-- Process flow -->
+  <rect x="50" y="80" width="700" height="480" rx="10" fill="#f1f5f9" stroke="#94a3b8" stroke-width="2"/>
+  
+  <!-- Monthly process -->
+  <text x="400" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#334155">
+    Månedlig Prosess
+  </text>
+  
+  <!-- Step 1: Calculation -->
+  <rect x="80" y="130" width="150" height="80" rx="6" fill="#dbeafe" stroke="#3b82f6"/>
+  <text x="155" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e40af">
+    1. Beregning
+  </text>
+  <text x="155" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#3730a3">
+    Lønnskjøring
+  </text>
+  <text x="155" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#3730a3">
+    Trygdeavgift 11,4%
+  </text>
+  <text x="155" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#3730a3">
+    Arbeidsgiveravgift
+  </text>
+  
+  <!-- Step 2: Booking -->
+  <rect x="260" y="130" width="150" height="80" rx="6" fill="#dcfce7" stroke="#22c55e"/>
+  <text x="335" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#166534">
+    2. Bokføring
+  </text>
+  <text x="335" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#15803d">
+    Periodisering
+  </text>
+  <text x="335" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#15803d">
+    Kostnadsføring
+  </text>
+  <text x="335" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#15803d">
+    Skyldig avgift
+  </text>
+  
+  <!-- Step 3: Reporting -->
+  <rect x="440" y="130" width="150" height="80" rx="6" fill="#fef3c7" stroke="#f59e0b"/>
+  <text x="515" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#92400e">
+    3. A-melding
+  </text>
+  <text x="515" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#92400e">
+    Frist: 5. i måneden
+  </text>
+  <text x="515" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#92400e">
+    Til Altinn
+  </text>
+  <text x="515" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#92400e">
+    Lønnsopplysninger
+  </text>
+  
+  <!-- Step 4: Payment -->
+  <rect x="620" y="130" width="150" height="80" rx="6" fill="#fee2e2" stroke="#ef4444"/>
+  <text x="695" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#dc2626">
+    4. Betaling
+  </text>
+  <text x="695" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#dc2626">
+    Frist: 15. i måneden
+  </text>
+  <text x="695" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#dc2626">
+    Til Skatteetaten
+  </text>
+  <text x="695" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#dc2626">
+    Nettbank/avtale
+  </text>
+  
+  <!-- Accounting example -->
+  <rect x="80" y="240" width="640" height="160" rx="8" fill="#f0f9ff" stroke="#0ea5e9"/>
+  <text x="400" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#0c4a6e">
+    Regnskapsføring Eksempel (månedslønn 50.000 kr)
+  </text>
+  
+  <!-- Journal entries -->
+  <text x="100" y="295" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0c4a6e">
+    Ved lønnsutbetaling:
+  </text>
+  <text x="120" y="315" font-family="Arial, sans-serif" font-size="12" fill="#0369a1">
+    Debet: Lønnskostnad .......................... 50.000 kr
+  </text>
+  <text x="120" y="330" font-family="Arial, sans-serif" font-size="12" fill="#0369a1">
+    Kredit: Skyldige lønn til ansatte ............. 31.300 kr
+  </text>
+  <text x="120" y="345" font-family="Arial, sans-serif" font-size="12" fill="#0369a1">
+    Kredit: Skyldig forskuddstrekk ................ 12.500 kr
+  </text>
+  <text x="120" y="360" font-family="Arial, sans-serif" font-size="12" fill="#0369a1">
+    Kredit: Skyldig trygdeavgift .................. 5.700 kr
+  </text>
+  <text x="120" y="375" font-family="Arial, sans-serif" font-size="12" fill="#0369a1">
+    Kredit: Skyldig pensjon ....................... 500 kr
+  </text>
+  
+  <text x="450" y="315" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0c4a6e">
+    Arbeidsgiveravgift:
+  </text>
+  <text x="470" y="335" font-family="Arial, sans-serif" font-size="12" fill="#0369a1">
+    Debet: Lønnskostnad (arb.avg) ........ 7.050 kr
+  </text>
+  <text x="470" y="350" font-family="Arial, sans-serif" font-size="12" fill="#0369a1">
+    Kredit: Skyldig arbeidsgiveravgift .... 7.050 kr
+  </text>
+  
+  <!-- Balance movement -->
+  <rect x="80" y="430" width="640" height="100" rx="8" fill="#fef2f2" stroke="#ef4444"/>
+  <text x="400" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#dc2626">
+    Månedlig Bevegelse på Balansekontoer
+  </text>
+  
+  <text x="100" y="480" font-family="Arial, sans-serif" font-size="12" fill="#991b1b">
+    Inngående saldo skyldig trygdeavgift: 8.500 kr (forrige måned)
+  </text>
+  <text x="100" y="495" font-family="Arial, sans-serif" font-size="12" fill="#991b1b">
+    + Påløpt trygdeavgift inneværende måned: 12.750 kr (5.700 + 7.050)
+  </text>
+  <text x="100" y="510" font-family="Arial, sans-serif" font-size="12" fill="#991b1b">
+    - Innbetalt til Skatteetaten: 8.500 kr (forrige måneds skyldig beløp)
+  </text>
+  <text x="100" y="525" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#991b1b">
+    = Utgående saldo skyldig trygdeavgift: 12.750 kr
+  </text>
+  
+  <!-- Arrows between steps -->
+  <polygon points="235,170 255,170 245,180" fill="#64748b"/>
+  <polygon points="415,170 435,170 425,180" fill="#64748b"/>
+  <polygon points="595,170 615,170 605,180" fill="#64748b"/>
+  
+  <!-- Important note -->
+  <rect x="150" y="550" width="500" height="40" rx="5" fill="#ecfdf5" stroke="#10b981"/>
+  <text x="400" y="575" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#065f46">
+    Viktig: Periodisering sikrer at kostnader bokføres i riktig periode
+  </text>
+</svg>

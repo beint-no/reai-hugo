@@ -1,0 +1,111 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#dc2626;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f87171;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8fafc"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="80" fill="url(#headerGrad)"/>
+  <text x="400" y="50" text-anchor="middle" fill="white" font-size="24" font-weight="bold">FEILKORRIGERING I TABELLTREKK</text>
+  
+  <!-- Error detection flow -->
+  <rect x="50" y="100" width="700" height="200" fill="#fef2f2" stroke="#dc2626" stroke-width="2" rx="10"/>
+  <text x="400" y="125" text-anchor="middle" font-size="16" font-weight="bold" fill="#7f1d1d">FEILDETEKSJON OG KORRIGERING</text>
+  
+  <!-- Step 1: Detection -->
+  <rect x="80" y="150" width="120" height="120" fill="#fee2e2" stroke="#dc2626" stroke-width="1" rx="8"/>
+  <text x="140" y="170" text-anchor="middle" font-size="12" font-weight="bold" fill="#7f1d1d">1. DETEKSJON</text>
+  <text x="90" y="190" font-size="10" fill="#374151">• Månedlig avstemming</text>
+  <text x="90" y="205" font-size="10" fill="#374151">• Automatiske kontroller</text>
+  <text x="90" y="220" font-size="10" fill="#374151">• Manuell gjennomgang</text>
+  <text x="90" y="235" font-size="10" fill="#374151">• Avviksrapporter</text>
+  <text x="90" y="250" font-size="10" fill="#dc2626" font-weight="bold">• Feil identifisert</text>
+  
+  <!-- Step 2: Analysis -->
+  <rect x="220" y="150" width="120" height="120" fill="#fef3c7" stroke="#f59e0b" stroke-width="1" rx="8"/>
+  <text x="280" y="170" text-anchor="middle" font-size="12" font-weight="bold" fill="#92400e">2. ANALYSE</text>
+  <text x="230" y="190" font-size="10" fill="#374151">• Årsaksidentifisering</text>
+  <text x="230" y="205" font-size="10" fill="#374151">• Påvirket periode</text>
+  <text x="230" y="220" font-size="10" fill="#374151">• Beløp og konsekvenser</text>
+  <text x="230" y="235" font-size="10" fill="#374151">• Berørte arbeidstakere</text>
+  <text x="230" y="250" font-size="10" fill="#f59e0b" font-weight="bold">• Løsningsstrategi</text>
+  
+  <!-- Step 3: Calculation -->
+  <rect x="360" y="150" width="120" height="120" fill="#e0f2fe" stroke="#0284c7" stroke-width="1" rx="8"/>
+  <text x="420" y="170" text-anchor="middle" font-size="12" font-weight="bold" fill="#0c4a6e">3. BEREGNING</text>
+  <text x="370" y="190" font-size="10" fill="#374151">• Korrekt trekkbeløp</text>
+  <text x="370" y="205" font-size="10" fill="#374151">• Differanseberegning</text>
+  <text x="370" y="220" font-size="10" fill="#374151">• Renter og gebyrer</text>
+  <text x="370" y="235" font-size="10" fill="#374151">• Periodisering</text>
+  <text x="370" y="250" font-size="10" fill="#0284c7" font-weight="bold">• Justeringsbeløp</text>
+  
+  <!-- Step 4: Correction -->
+  <rect x="500" y="150" width="120" height="120" fill="#dcfce7" stroke="#16a34a" stroke-width="1" rx="8"/>
+  <text x="560" y="170" text-anchor="middle" font-size="12" font-weight="bold" fill="#14532d">4. KORRIGERING</text>
+  <text x="510" y="190" font-size="10" fill="#374151">• Regnskapsjustering</text>
+  <text x="510" y="205" font-size="10" fill="#374151">• Lønnskjøring</text>
+  <text x="510" y="220" font-size="10" fill="#374151">• A-melding endring</text>
+  <text x="510" y="235" font-size="10" fill="#374151">• Betaling/refusjon</text>
+  <text x="510" y="250" font-size="10" fill="#16a34a" font-weight="bold">• Dokumentasjon</text>
+  
+  <!-- Step 5: Verification -->
+  <rect x="640" y="150" width="100" height="120" fill="#f3e8ff" stroke="#7c3aed" stroke-width="1" rx="8"/>
+  <text x="690" y="170" text-anchor="middle" font-size="12" font-weight="bold" fill="#581c87">5. VERIFIKASJON</text>
+  <text x="650" y="190" font-size="10" fill="#374151">• Kontrollavstemi</text>
+  <text x="650" y="205" font-size="10" fill="#374151">• Validering</text>
+  <text x="650" y="220" font-size="10" fill="#374151">• Godkjenning</text>
+  <text x="650" y="235" font-size="10" fill="#374151">• Rapportering</text>
+  <text x="650" y="250" font-size="10" fill="#7c3aed" font-weight="bold">• Avslutning</text>
+  
+  <!-- Arrows between steps -->
+  <polygon points="205,210 215,210 210,205 215,210 210,215" fill="#dc2626"/>
+  <polygon points="345,210 355,210 350,205 355,210 350,215" fill="#f59e0b"/>
+  <polygon points="485,210 495,210 490,205 495,210 490,215" fill="#0284c7"/>
+  <polygon points="625,210 635,210 630,205 635,210 630,215" fill="#16a34a"/>
+  
+  <!-- Common errors section -->
+  <rect x="50" y="320" width="340" height="200" fill="#f0f9ff" stroke="#0284c7" stroke-width="2" rx="10"/>
+  <text x="220" y="345" text-anchor="middle" font-size="14" font-weight="bold" fill="#0c4a6e">VANLIGE FEILTYPER</text>
+  
+  <rect x="70" y="360" width="300" height="140" fill="white" stroke="#cbd5e1" stroke-width="1" rx="5"/>
+  
+  <text x="80" y="380" font-size="11" font-weight="bold" fill="#dc2626">1. Feil trekkart-registrering:</text>
+  <text x="90" y="395" font-size="10" fill="#374151">• Galt tabellnummer</text>
+  <text x="90" y="408" font-size="10" fill="#374151">• Manglende fradragskoder</text>
+  
+  <text x="80" y="428" font-size="11" font-weight="bold" fill="#dc2626">2. Systemerrorer:</text>
+  <text x="90" y="443" font-size="10" fill="#374151">• Inkorrekt programmering</text>
+  <text x="90" y="456" font-size="10" fill="#374151">• Utdaterte tabeller</text>
+  
+  <text x="80" y="476" font-size="11" font-weight="bold" fill="#dc2626">3. Manuelle feil:</text>
+  <text x="90" y="491" font-size="10" fill="#374151">• Feilregistrering av data</text>
+  <text x="90" y="504" font-size="10" fill="#374151">• Retrospektive justeringer</text>
+  
+  <!-- Correction methods -->
+  <rect x="410" y="320" width="340" height="200" fill="#f0fdf4" stroke="#16a34a" stroke-width="2" rx="10"/>
+  <text x="580" y="345" text-anchor="middle" font-size="14" font-weight="bold" fill="#14532d">KORRIGERINGSMETODER</text>
+  
+  <rect x="430" y="360" width="300" height="140" fill="white" stroke="#cbd5e1" stroke-width="1" rx="5"/>
+  
+  <text x="440" y="380" font-size="11" font-weight="bold" fill="#16a34a">Løpende måned:</text>
+  <text x="450" y="395" font-size="10" fill="#374151">• Direkte justering i lønn</text>
+  <text x="450" y="408" font-size="10" fill="#374151">• Automatisk balansering</text>
+  
+  <text x="440" y="428" font-size="11" font-weight="bold" fill="#16a34a">Tidligere måneder:</text>
+  <text x="450" y="443" font-size="10" fill="#374151">• Supplerende A-melding</text>
+  <text x="450" y="456" font-size="10" fill="#374151">• Separat utbetaling/innkreving</text>
+  
+  <text x="440" y="476" font-size="11" font-weight="bold" fill="#16a34a">Regnskapsføring:</text>
+  <text x="450" y="491" font-size="10" fill="#374151">• Debet/Kredit justering</text>
+  <text x="450" y="504" font-size="10" fill="#374151">• Dokumentert begrunnelse</text>
+  
+  <!-- Example calculation -->
+  <rect x="50" y="540" width="700" height="40" fill="#f8fafc" stroke="#64748b" stroke-width="1" rx="5"/>
+  <text x="70" y="560" font-size="12" fill="#374151">Eksempel korrigering: Feil trekk 18.000 kr (skulle vært 16.000 kr) = 2.000 kr for mye trukket</text>
+  <text x="70" y="575" font-size="12" fill="#16a34a" font-weight="bold">Justering: Reduser neste måneds trekk med 2.000 kr + send korrigert A-melding</text>
+</svg>

@@ -1,0 +1,132 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="centerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#20c997;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="conceptGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#007bff;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#6610f2;stop-opacity:0.8" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="url(#bgGradient)"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
+    Bruttobegreper i Regnskapet
+  </text>
+  
+  <!-- Central circle -->
+  <circle cx="400" cy="250" r="80" fill="url(#centerGradient)" stroke="#fff" stroke-width="3"/>
+  <text x="400" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
+    BRUTTO
+  </text>
+  <text x="400" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+    Totalbeløp før
+  </text>
+  <text x="400" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+    fradrag
+  </text>
+  
+  <!-- Bruttoomsetning -->
+  <circle cx="200" cy="120" r="60" fill="url(#conceptGradient)" stroke="#fff" stroke-width="2"/>
+  <text x="200" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    Bruttoomsetning
+  </text>
+  <text x="200" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    Inkl. MVA
+  </text>
+  <line x1="260" y1="150" x2="340" y2="200" stroke="#6c757d" stroke-width="2"/>
+  
+  <!-- Bruttofortjeneste -->
+  <circle cx="600" cy="120" r="60" fill="url(#conceptGradient)" stroke="#fff" stroke-width="2"/>
+  <text x="600" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    Bruttofortjeneste
+  </text>
+  <text x="600" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    Før driftskostnader
+  </text>
+  <line x1="540" y1="150" x2="460" y2="200" stroke="#6c757d" stroke-width="2"/>
+  
+  <!-- Bruttolønn -->
+  <circle cx="150" cy="380" r="60" fill="url(#conceptGradient)" stroke="#fff" stroke-width="2"/>
+  <text x="150" y="375" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    Bruttolønn
+  </text>
+  <text x="150" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    Før skattetrekk
+  </text>
+  <line x1="210" y1="350" x2="340" y2="300" stroke="#6c757d" stroke-width="2"/>
+  
+  <!-- Brutto arbeidskapital -->
+  <circle cx="650" cy="380" r="60" fill="url(#conceptGradient)" stroke="#fff" stroke-width="2"/>
+  <text x="650" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    Brutto
+  </text>
+  <text x="650" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    arbeidskapital
+  </text>
+  <text x="650" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    Omløpsmidler
+  </text>
+  <line x1="590" y1="350" x2="460" y2="300" stroke="#6c757d" stroke-width="2"/>
+  
+  <!-- Brutto driftsmargin -->
+  <circle cx="100" cy="250" r="55" fill="url(#conceptGradient)" stroke="#fff" stroke-width="2"/>
+  <text x="100" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="white">
+    Brutto
+  </text>
+  <text x="100" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="white">
+    driftsmargin
+  </text>
+  <line x1="155" y1="250" x2="320" y2="250" stroke="#6c757d" stroke-width="2"/>
+  
+  <!-- Brutto investeringer -->
+  <circle cx="700" cy="250" r="55" fill="url(#conceptGradient)" stroke="#fff" stroke-width="2"/>
+  <text x="700" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="white">
+    Brutto
+  </text>
+  <text x="700" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="white">
+    investeringer
+  </text>
+  <line x1="645" y1="250" x2="480" y2="250" stroke="#6c757d" stroke-width="2"/>
+  
+  <!-- Information boxes -->
+  <rect x="50" y="450" width="150" height="40" rx="5" fill="white" stroke="#dee2e6" stroke-width="1"/>
+  <text x="125" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#495057">
+    Felles kjennetegn:
+  </text>
+  <text x="125" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#6c757d">
+    Før fradrag og reduksjoner
+  </text>
+  
+  <rect x="220" y="450" width="150" height="40" rx="5" fill="white" stroke="#dee2e6" stroke-width="1"/>
+  <text x="295" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#495057">
+    Regnskapsprinsipp:
+  </text>
+  <text x="295" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#6c757d">
+    Bruttoprinsippet
+  </text>
+  
+  <rect x="390" y="450" width="150" height="40" rx="5" fill="white" stroke="#dee2e6" stroke-width="1"/>
+  <text x="465" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#495057">
+    Formål:
+  </text>
+  <text x="465" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#6c757d">
+    Transparent rapportering
+  </text>
+  
+  <rect x="560" y="450" width="150" height="40" rx="5" fill="white" stroke="#dee2e6" stroke-width="1"/>
+  <text x="635" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#495057">
+    Anvendelse:
+  </text>
+  <text x="635" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#6c757d">
+    Analyse og sammenligning
+  </text>
+</svg>

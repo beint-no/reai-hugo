@@ -1,0 +1,138 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="centerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#007bff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#6610f2;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="factor1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#20c997;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="factor2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffc107;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#fd7e14;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="factor3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#dc3545;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e83e8c;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="factor4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#17a2b8;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#6f42c1;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
+    Faktorer som Påvirker Utrangeringsverdi
+  </text>
+  
+  <!-- Central circle -->
+  <circle cx="400" cy="300" r="80" fill="url(#centerGradient)"/>
+  <text x="400" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    Utrangeringsverdi
+  </text>
+  <text x="400" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    (Restverdi)
+  </text>
+  
+  <!-- Factor 1: Technical Factors -->
+  <g transform="translate(150, 120)">
+    <rect x="0" y="0" width="140" height="100" rx="10" fill="url(#factor1)"/>
+    <text x="70" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      Tekniske
+    </text>
+    <text x="70" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      Faktorer
+    </text>
+    <text x="70" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+      • Slitasje og elde
+    </text>
+    <text x="70" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+      • Vedlikehold
+    </text>
+    <text x="70" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+      • Teknologi
+    </text>
+    
+    <!-- Connection line -->
+    <line x1="140" y1="70" x2="320" y2="250" stroke="#28a745" stroke-width="3"/>
+  </g>
+  
+  <!-- Factor 2: Market Factors -->
+  <g transform="translate(510, 120)">
+    <rect x="0" y="0" width="140" height="100" rx="10" fill="url(#factor2)"/>
+    <text x="70" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      Markeds-
+    </text>
+    <text x="70" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      faktorer
+    </text>
+    <text x="70" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+      • Etterspørsel
+    </text>
+    <text x="70" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+      • Konkurranse
+    </text>
+    <text x="70" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+      • Geografi
+    </text>
+    
+    <!-- Connection line -->
+    <line x1="0" y1="70" x2="480" y2="250" stroke="#fd7e14" stroke-width="3"/>
+  </g>
+  
+  <!-- Factor 3: Economic Factors -->
+  <g transform="translate(150, 430)">
+    <rect x="0" y="0" width="140" height="100" rx="10" fill="url(#factor3)"/>
+    <text x="70" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      Økonomiske
+    </text>
+    <text x="70" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      Faktorer
+    </text>
+    <text x="70" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+      • Inflasjon
+    </text>
+    <text x="70" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+      • Renter
+    </text>
+    <text x="70" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+      • Konjunkturer
+    </text>
+    
+    <!-- Connection line -->
+    <line x1="140" y1="30" x2="320" y2="350" stroke="#dc3545" stroke-width="3"/>
+  </g>
+  
+  <!-- Factor 4: Regulatory Factors -->
+  <g transform="translate(510, 430)">
+    <rect x="0" y="0" width="140" height="100" rx="10" fill="url(#factor4)"/>
+    <text x="70" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      Regulatoriske
+    </text>
+    <text x="70" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      Faktorer
+    </text>
+    <text x="70" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+      • Miljøkrav
+    </text>
+    <text x="70" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+      • Sikkerhet
+    </text>
+    <text x="70" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+      • Standarder
+    </text>
+    
+    <!-- Connection line -->
+    <line x1="0" y1="30" x2="480" y2="350" stroke="#17a2b8" stroke-width="3"/>
+  </g>
+  
+  <!-- Bottom note -->
+  <text x="400" y="580" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
+    Alle faktorer må vurderes samlet for korrekt estimering av utrangeringsverdi
+  </text>
+</svg>

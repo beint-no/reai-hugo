@@ -1,0 +1,168 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="creditorGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#20c997;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="debitorGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#007bff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#6610f2;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#495057">
+    Praktisk Håndtering av Morarente
+  </text>
+  
+  <!-- Creditor section -->
+  <rect x="50" y="80" width="320" height="380" fill="url(#creditorGradient)" stroke="#28a745" stroke-width="3" rx="15"/>
+  <text x="210" y="110" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="white">
+    KREDITOR
+  </text>
+  <text x="210" y="130" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="white">
+    (Mottar morarente)
+  </text>
+  
+  <!-- Creditor - Preventive measures -->
+  <rect x="70" y="150" width="280" height="120" fill="white" stroke="#28a745" stroke-width="1" rx="8"/>
+  <text x="210" y="170" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#28a745">
+    Forebyggende Tiltak
+  </text>
+  
+  <circle cx="90" cy="190" r="4" fill="#28a745"/>
+  <text x="105" y="195" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    Tydelige betalingsbetingelser
+  </text>
+  
+  <circle cx="90" cy="210" r="4" fill="#28a745"/>
+  <text x="105" y="215" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    Automatiserte påminnelser
+  </text>
+  
+  <circle cx="90" cy="230" r="4" fill="#28a745"/>
+  <text x="105" y="235" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    Kredittvurdering før salg
+  </text>
+  
+  <circle cx="90" cy="250" r="4" fill="#28a745"/>
+  <text x="105" y="255" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    Elektronisk fakturering (eFaktura)
+  </text>
+  
+  <!-- Creditor - Reactive measures -->
+  <rect x="70" y="290" width="280" height="150" fill="white" stroke="#28a745" stroke-width="1" rx="8"/>
+  <text x="210" y="310" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#28a745">
+    Reaktive Tiltak
+  </text>
+  
+  <circle cx="90" cy="330" r="4" fill="#28a745"/>
+  <text x="105" y="335" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    Daglig overvåking av forfallne fordringer
+  </text>
+  
+  <circle cx="90" cy="350" r="4" fill="#28a745"/>
+  <text x="105" y="355" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    Automatisk beregning av påløpt rente
+  </text>
+  
+  <circle cx="90" cy="370" r="4" fill="#28a745"/>
+  <text x="105" y="375" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    Regelmessig fakturering av rentekrav
+  </text>
+  
+  <circle cx="90" cy="390" r="4" fill="#28a745"/>
+  <text x="105" y="395" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    Detaljert dokumentasjon
+  </text>
+  
+  <circle cx="90" cy="410" r="4" fill="#28a745"/>
+  <text x="105" y="415" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    Integrert regnskapsføring
+  </text>
+  
+  <!-- Debitor section -->
+  <rect x="430" y="80" width="320" height="380" fill="url(#debitorGradient)" stroke="#007bff" stroke-width="3" rx="15"/>
+  <text x="590" y="110" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="white">
+    DEBITOR
+  </text>
+  <text x="590" y="130" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="white">
+    (Betaler morarente)
+  </text>
+  
+  <!-- Debitor - Proactive strategies -->
+  <rect x="450" y="150" width="280" height="120" fill="white" stroke="#007bff" stroke-width="1" rx="8"/>
+  <text x="590" y="170" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#007bff">
+    Proaktive Strategier
+  </text>
+  
+  <circle cx="470" cy="190" r="4" fill="#007bff"/>
+  <text x="485" y="195" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    Betalingsplanlegging &amp; budsjettering
+  </text>
+  
+  <circle cx="470" cy="210" r="4" fill="#007bff"/>
+  <text x="485" y="215" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    Automatisk betaling (AvtaleGiro)
+  </text>
+  
+  <circle cx="470" cy="230" r="4" fill="#007bff"/>
+  <text x="485" y="235" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    Prioritering av høyrisiko-fakturaer
+  </text>
+  
+  <circle cx="470" cy="250" r="4" fill="#007bff"/>
+  <text x="485" y="255" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    Proaktiv kommunikasjon ved problemer
+  </text>
+  
+  <!-- Debitor - Risk management -->
+  <rect x="450" y="290" width="280" height="150" fill="white" stroke="#007bff" stroke-width="1" rx="8"/>
+  <text x="590" y="310" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#007bff">
+    Risikohåndtering
+  </text>
+  
+  <circle cx="470" cy="330" r="4" fill="#007bff"/>
+  <text x="485" y="335" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    Overvåk forfallsdatoer systematisk
+  </text>
+  
+  <circle cx="470" cy="350" r="4" fill="#007bff"/>
+  <text x="485" y="355" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    Sikre tilstrekkelig likviditet
+  </text>
+  
+  <circle cx="470" cy="370" r="4" fill="#007bff"/>
+  <text x="485" y="375" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    Budsjetter potensielle rentekostnader
+  </text>
+  
+  <circle cx="470" cy="390" r="4" fill="#007bff"/>
+  <text x="485" y="395" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    Forhandle betalingsutsettelser tidlig
+  </text>
+  
+  <circle cx="470" cy="410" r="4" fill="#007bff"/>
+  <text x="485" y="415" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    Dokumenter alle betalinger
+  </text>
+  
+  <!-- Central connecting element -->
+  <rect x="380" y="200" width="40" height="100" fill="#ffc107" stroke="#856404" stroke-width="2" rx="20"/>
+  <text x="400" y="225" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#856404" transform="rotate(-90 400 225)">
+    MORARENTE
+  </text>
+  <text x="400" y="250" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="#856404" transform="rotate(-90 400 250)">
+    12,50%
+  </text>
+  <text x="400" y="275" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="#856404" transform="rotate(-90 400 275)">
+    ÅRLIG
+  </text>
+</svg>

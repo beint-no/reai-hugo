@@ -1,0 +1,69 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="class1Gradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="class2Gradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#10b981;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#059669;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="class3Gradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#f59e0b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#d97706;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="class4Gradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#ef4444;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#dc2626;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="class5Gradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#8b5cf6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7c3aed;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8fafc"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" fill="#1e293b" font-family="Arial, sans-serif" font-size="24" font-weight="bold">Hovedklasser i Standardkontoplanen</text>
+  
+  <!-- Class 1: Eiendeler -->
+  <rect x="50" y="70" width="680" height="90" fill="url(#class1Gradient)" rx="10" stroke="#1e40af" stroke-width="2"/>
+  <text x="70" y="100" fill="white" font-family="Arial, sans-serif" font-size="32" font-weight="bold">1</text>
+  <text x="120" y="95" fill="white" font-family="Arial, sans-serif" font-size="20" font-weight="bold">EIENDELER (AKTIVA)</text>
+  <text x="120" y="115" fill="white" font-family="Arial, sans-serif" font-size="14">10-14: Anleggsmidler</text>
+  <text x="120" y="135" fill="white" font-family="Arial, sans-serif" font-size="14">15-19: Omløpsmidler</text>
+  <text x="400" y="115" fill="white" font-family="Arial, sans-serif" font-size="14">Eksempel: 1500 Kundefordringer, 1900 Bankinnskudd</text>
+  
+  <!-- Class 2: Gjeld og Egenkapital -->
+  <rect x="50" y="180" width="680" height="90" fill="url(#class2Gradient)" rx="10" stroke="#047857" stroke-width="2"/>
+  <text x="70" y="210" fill="white" font-family="Arial, sans-serif" font-size="32" font-weight="bold">2</text>
+  <text x="120" y="205" fill="white" font-family="Arial, sans-serif" font-size="20" font-weight="bold">GJELD OG EGENKAPITAL (PASSIVA)</text>
+  <text x="120" y="225" fill="white" font-family="Arial, sans-serif" font-size="14">20-24: Egenkapital</text>
+  <text x="120" y="245" fill="white" font-family="Arial, sans-serif" font-size="14">25-29: Gjeld</text>
+  <text x="400" y="225" fill="white" font-family="Arial, sans-serif" font-size="14">Eksempel: 2000 Egenkapital, 2400 Leverandørgjeld</text>
+  
+  <!-- Class 3: Driftsinntekter -->
+  <rect x="50" y="290" width="680" height="90" fill="url(#class3Gradient)" rx="10" stroke="#d97706" stroke-width="2"/>
+  <text x="70" y="320" fill="white" font-family="Arial, sans-serif" font-size="32" font-weight="bold">3</text>
+  <text x="120" y="315" fill="white" font-family="Arial, sans-serif" font-size="20" font-weight="bold">DRIFTSINNTEKTER</text>
+  <text x="120" y="335" fill="white" font-family="Arial, sans-serif" font-size="14">30-39: Alle driftsinntekter</text>
+  <text x="120" y="355" fill="white" font-family="Arial, sans-serif" font-size="14">Salg av varer og tjenester</text>
+  <text x="400" y="335" fill="white" font-family="Arial, sans-serif" font-size="14">Eksempel: 3000 Salgsinntekt, 3900 Andre driftsinntekter</text>
+  
+  <!-- Class 4: Driftskostnader -->
+  <rect x="50" y="400" width="680" height="90" fill="url(#class4Gradient)" rx="10" stroke="#dc2626" stroke-width="2"/>
+  <text x="70" y="430" fill="white" font-family="Arial, sans-serif" font-size="32" font-weight="bold">4</text>
+  <text x="120" y="425" fill="white" font-family="Arial, sans-serif" font-size="20" font-weight="bold">DRIFTSKOSTNADER</text>
+  <text x="120" y="445" fill="white" font-family="Arial, sans-serif" font-size="14">40-49: Alle driftskostnader</text>
+  <text x="120" y="465" fill="white" font-family="Arial, sans-serif" font-size="14">Varekostnader, lønn, husleie</text>
+  <text x="400" y="445" fill="white" font-family="Arial, sans-serif" font-size="14">Eksempel: 4000 Varekostnad, 5000 Lønnskostnad</text>
+  
+  <!-- Class 5-8: Finansposter og Skatt -->
+  <rect x="50" y="510" width="680" height="70" fill="url(#class5Gradient)" rx="10" stroke="#7c3aed" stroke-width="2"/>
+  <text x="70" y="540" fill="white" font-family="Arial, sans-serif" font-size="32" font-weight="bold">5-8</text>
+  <text x="130" y="535" fill="white" font-family="Arial, sans-serif" font-size="20" font-weight="bold">FINANSPOSTER OG SKATT</text>
+  <text x="130" y="555" fill="white" font-family="Arial, sans-serif" font-size="14">50-59: Finansinntekter/-kostnader, 60-79: Ekstraordinære, 80-89: Skatt</text>
+  <text x="450" y="555" fill="white" font-family="Arial, sans-serif" font-size="14">Eksempel: 8050 Renteinntekt, 8150 Rentekostnad</text>
+</svg>

@@ -1,0 +1,236 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+    EHF Implementeringsprosess
+  </text>
+  
+  <!-- Process flow timeline -->
+  <line x1="100" y1="100" x2="700" y2="100" stroke="#34495e" stroke-width="4"/>
+  
+  <!-- Step 1: Behovsanalyse -->
+  <circle cx="150" cy="100" r="15" fill="#e74c3c"/>
+  <text x="150" y="106" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">1</text>
+  
+  <rect x="80" y="130" width="140" height="80" fill="#fff5f5" stroke="#e74c3c" stroke-width="2" rx="8"/>
+  <text x="150" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#c0392b">
+    Behovsanalyse
+  </text>
+  <text x="150" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    • Kartlegg systemer
+  </text>
+  <text x="150" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    • Identifiser partnere
+  </text>
+  <text x="150" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    • Vurder ressurser
+  </text>
+  
+  <!-- Step 2: Systemtilpasning -->
+  <circle cx="250" cy="100" r="15" fill="#f39c12"/>
+  <text x="250" y="106" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">2</text>
+  
+  <rect x="180" y="230" width="140" height="80" fill="#fffbf0" stroke="#f39c12" stroke-width="2" rx="8"/>
+  <text x="250" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#d68910">
+    Systemtilpasning
+  </text>
+  <text x="250" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    • ERP-integrasjon
+  </text>
+  <text x="250" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    • XML-behandling
+  </text>
+  <text x="250" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    • Validering
+  </text>
+  
+  <!-- Step 3: PEPPOL Registrering -->
+  <circle cx="350" cy="100" r="15" fill="#27ae60"/>
+  <text x="350" y="106" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">3</text>
+  
+  <rect x="280" y="130" width="140" height="80" fill="#f0fff4" stroke="#27ae60" stroke-width="2" rx="8"/>
+  <text x="350" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#1e8449">
+    PEPPOL
+  </text>
+  <text x="350" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#1e8449">
+    Registrering
+  </text>
+  <text x="350" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    • Access Point
+  </text>
+  <text x="350" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    • Participant ID
+  </text>
+  <text x="350" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    • Sertifisering
+  </text>
+  
+  <!-- Step 4: Testing -->
+  <circle cx="450" cy="100" r="15" fill="#3498db"/>
+  <text x="450" y="106" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">4</text>
+  
+  <rect x="380" y="230" width="140" height="80" fill="#f0f8ff" stroke="#3498db" stroke-width="2" rx="8"/>
+  <text x="450" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2471a3">
+    Testing
+  </text>
+  <text x="450" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    • Pilotprosjekt
+  </text>
+  <text x="450" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    • Validering
+  </text>
+  <text x="450" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    • Feilretting
+  </text>
+  
+  <!-- Step 5: Produksjon -->
+  <circle cx="550" cy="100" r="15" fill="#9b59b6"/>
+  <text x="550" y="106" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">5</text>
+  
+  <rect x="480" y="130" width="140" height="80" fill="#faf5ff" stroke="#9b59b6" stroke-width="2" rx="8"/>
+  <text x="550" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#7d3c98">
+    Produksjon
+  </text>
+  <text x="550" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    • Go-live
+  </text>
+  <text x="550" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    • Overvåking
+  </text>
+  <text x="550" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    • Support
+  </text>
+  
+  <!-- Step 6: Optimalisering -->
+  <circle cx="650" cy="100" r="15" fill="#1abc9c"/>
+  <text x="650" y="106" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">6</text>
+  
+  <rect x="580" y="230" width="140" height="80" fill="#f0ffff" stroke="#1abc9c" stroke-width="2" rx="8"/>
+  <text x="650" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#138d75">
+    Optimalisering
+  </text>
+  <text x="650" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    • Automatisering
+  </text>
+  <text x="650" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    • Utvidelser
+  </text>
+  <text x="650" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    • Forbedringer
+  </text>
+  
+  <!-- Connecting lines -->
+  <line x1="150" y1="115" x2="150" y2="130" stroke="#e74c3c" stroke-width="2"/>
+  <line x1="250" y1="115" x2="250" y2="230" stroke="#f39c12" stroke-width="2"/>
+  <line x1="350" y1="115" x2="350" y2="130" stroke="#27ae60" stroke-width="2"/>
+  <line x1="450" y1="115" x2="450" y2="230" stroke="#3498db" stroke-width="2"/>
+  <line x1="550" y1="115" x2="550" y2="130" stroke="#9b59b6" stroke-width="2"/>
+  <line x1="650" y1="115" x2="650" y2="230" stroke="#1abc9c" stroke-width="2"/>
+  
+  <!-- Key stakeholders section -->
+  <text x="400" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">
+    Nøkkelaktører i Implementeringen
+  </text>
+  
+  <!-- Stakeholder boxes -->
+  <rect x="50" y="380" width="140" height="70" fill="#ecf0f1" stroke="#95a5a6" stroke-width="2" rx="8"/>
+  <text x="120" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+    IT-avdeling
+  </text>
+  <text x="120" y="415" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">
+    Teknisk implementering
+  </text>
+  <text x="120" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">
+    Systemintegrasjon
+  </text>
+  <text x="120" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">
+    Testing og validering
+  </text>
+  
+  <rect x="210" y="380" width="140" height="70" fill="#ecf0f1" stroke="#95a5a6" stroke-width="2" rx="8"/>
+  <text x="280" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+    Økonomiavdeling
+  </text>
+  <text x="280" y="415" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">
+    Forretningskrav
+  </text>
+  <text x="280" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">
+    Prosessdesign
+  </text>
+  <text x="280" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">
+    Brukeropplæring
+  </text>
+  
+  <rect x="370" y="380" width="140" height="70" fill="#ecf0f1" stroke="#95a5a6" stroke-width="2" rx="8"/>
+  <text x="440" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+    Access Point
+  </text>
+  <text x="440" y="415" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">
+    PEPPOL-tilkobling
+  </text>
+  <text x="440" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">
+    Teknisk support
+  </text>
+  <text x="440" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">
+    Sertifisering
+  </text>
+  
+  <rect x="530" y="380" width="140" height="70" fill="#ecf0f1" stroke="#95a5a6" stroke-width="2" rx="8"/>
+  <text x="600" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+    ERP-leverandør
+  </text>
+  <text x="600" y="415" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">
+    Systemtilpasning
+  </text>
+  <text x="600" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">
+    EHF-modul
+  </text>
+  <text x="600" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">
+    Vedlikehold
+  </text>
+  
+  <!-- Timeline indicators -->
+  <text x="400" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
+    Typisk Tidsramme
+  </text>
+  
+  <rect x="100" y="500" width="600" height="40" fill="#fff" stroke="#bdc3c7" stroke-width="2" rx="8"/>
+  
+  <!-- Timeline segments -->
+  <rect x="100" y="500" width="100" height="40" fill="#e74c3c" opacity="0.7"/>
+  <text x="150" y="525" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    2-4 uker
+  </text>
+  
+  <rect x="200" y="500" width="100" height="40" fill="#f39c12" opacity="0.7"/>
+  <text x="250" y="525" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    4-8 uker
+  </text>
+  
+  <rect x="300" y="500" width="100" height="40" fill="#27ae60" opacity="0.7"/>
+  <text x="350" y="525" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    1-2 uker
+  </text>
+  
+  <rect x="400" y="500" width="100" height="40" fill="#3498db" opacity="0.7"/>
+  <text x="450" y="525" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    2-4 uker
+  </text>
+  
+  <rect x="500" y="500" width="100" height="40" fill="#9b59b6" opacity="0.7"/>
+  <text x="550" y="525" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    1 uke
+  </text>
+  
+  <rect x="600" y="500" width="100" height="40" fill="#1abc9c" opacity="0.7"/>
+  <text x="650" y="525" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    Kontinuerlig
+  </text>
+  
+  <!-- Total timeline -->
+  <text x="400" y="565" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+    Total implementeringstid: 3-6 måneder
+  </text>
+</svg>

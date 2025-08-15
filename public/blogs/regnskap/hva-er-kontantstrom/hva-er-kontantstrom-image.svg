@@ -1,0 +1,121 @@
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1e3a8a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="cardGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:0.95" />
+      <stop offset="100%" style="stop-color:#f8fafc;stop-opacity:0.95" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="600" height="400" fill="url(#bgGradient)"/>
+  
+  <!-- Main title card -->
+  <rect x="50" y="50" width="500" height="100" rx="10" fill="url(#cardGradient)" stroke="#e2e8f0" stroke-width="2"/>
+  
+  <!-- Title -->
+  <text x="300" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e293b">
+    Hva er Kontantstrøm?
+  </text>
+  <text x="300" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#64748b">
+    Cash Flow - Bevegelse av kontanter inn og ut av bedriften
+  </text>
+  
+  <!-- Cash flow diagram -->
+  <!-- Inflow arrow -->
+  <g>
+    <rect x="80" y="200" width="120" height="60" rx="8" fill="#10b981" opacity="0.9"/>
+    <text x="140" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      INNSTRØM
+    </text>
+    <text x="140" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      • Kundebetalinger
+    </text>
+    <text x="140" y="248" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      • Salg av eiendeler
+    </text>
+    
+    <!-- Arrow pointing right -->
+    <polygon points="200,230 240,215 240,225 220,230 240,235 240,245" fill="#10b981"/>
+  </g>
+  
+  <!-- Central box - Company -->
+  <rect x="260" y="200" width="80" height="60" rx="8" fill="#3b82f6" opacity="0.9"/>
+  <text x="300" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    BEDRIFT
+  </text>
+  <text x="300" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    Kontant-
+  </text>
+  <text x="300" y="248" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    beholdning
+  </text>
+  
+  <!-- Outflow arrow -->
+  <g>
+    <!-- Arrow pointing right -->
+    <polygon points="340,230 380,215 380,225 360,230 380,235 380,245" fill="#ef4444"/>
+    
+    <rect x="400" y="200" width="120" height="60" rx="8" fill="#ef4444" opacity="0.9"/>
+    <text x="460" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      UTSTRØM
+    </text>
+    <text x="460" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      • Leverandører
+    </text>
+    <text x="460" y="248" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      • Lønn &amp; kostnader
+    </text>
+  </g>
+  
+  <!-- Three categories below -->
+  <g>
+    <!-- Drift -->
+    <rect x="80" y="300" width="140" height="70" rx="6" fill="#ffffff" stroke="#10b981" stroke-width="2" opacity="0.95"/>
+    <text x="150" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#059669">
+      DRIFT
+    </text>
+    <text x="150" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+      Kjernevirksomhet
+    </text>
+    <text x="150" y="348" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+      Salg - Kostnader
+    </text>
+    <text x="150" y="361" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+      = Operasjonell CF
+    </text>
+    
+    <!-- Investering -->
+    <rect x="230" y="300" width="140" height="70" rx="6" fill="#ffffff" stroke="#3b82f6" stroke-width="2" opacity="0.95"/>
+    <text x="300" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2563eb">
+      INVESTERING
+    </text>
+    <text x="300" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+      Anleggsmidler
+    </text>
+    <text x="300" y="348" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+      Kjøp - Salg
+    </text>
+    <text x="300" y="361" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+      = Investerings CF
+    </text>
+    
+    <!-- Finansiering -->
+    <rect x="380" y="300" width="140" height="70" rx="6" fill="#ffffff" stroke="#ef4444" stroke-width="2" opacity="0.95"/>
+    <text x="450" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#dc2626">
+      FINANSIERING
+    </text>
+    <text x="450" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+      Kapitalstruktur
+    </text>
+    <text x="450" y="348" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+      Lån + Egenkapital
+    </text>
+    <text x="450" y="361" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+      = Finansierings CF
+    </text>
+  </g>
+</svg>

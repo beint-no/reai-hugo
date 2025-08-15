@@ -1,0 +1,168 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="redGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#EF4444;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#DC2626;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="greenGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#10B981;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#047857;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#F8FAFC"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1E293B">
+    Skattemessige Forhold for Stiftelser
+  </text>
+  
+  <!-- Decision tree -->
+  <rect x="350" y="70" width="100" height="40" fill="#6366F1" rx="5"/>
+  <text x="400" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#FFFFFF">
+    STIFTELSE
+  </text>
+  
+  <!-- Decision diamond -->
+  <polygon points="400,130 480,170 400,210 320,170" fill="#FCD34D" stroke="#F59E0B" stroke-width="2"/>
+  <text x="400" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#92400E">
+    Allmennyttig?
+  </text>
+  <text x="400" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#92400E">
+    Oppfyller krav
+  </text>
+  <text x="400" y="192" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#92400E">
+    til skattefritak
+  </text>
+  
+  <!-- Connection line -->
+  <line x1="400" y1="110" x2="400" y2="130" stroke="#64748B" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Left branch - Allmennyttig -->
+  <line x1="320" y1="170" x2="200" y2="170" stroke="#64748B" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <text x="260" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#047857">
+    JA
+  </text>
+  
+  <!-- Right branch - Ikke allmennyttig -->
+  <line x1="480" y1="170" x2="600" y2="170" stroke="#64748B" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <text x="540" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#DC2626">
+    NEI
+  </text>
+  
+  <!-- Allmennyttig stiftelse (Left) -->
+  <rect x="50" y="200" width="300" height="80" fill="url(#greenGradient)" rx="8"/>
+  <text x="200" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#FFFFFF">
+    Allmennyttig Stiftelse
+  </text>
+  <text x="200" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#FFFFFF">
+    Fritak for skatteplikt på alminnelig inntekt
+  </text>
+  <text x="200" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#FFFFFF">
+    Skattefradrag for givere på kvalifiserte gaver
+  </text>
+  
+  <!-- Privat stiftelse (Right) -->
+  <rect x="450" y="200" width="300" height="80" fill="url(#redGradient)" rx="8"/>
+  <text x="600" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#FFFFFF">
+    Privat Stiftelse
+  </text>
+  <text x="600" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#FFFFFF">
+    Ordinær skatteplikt - 22% selskapsskatt
+  </text>
+  <text x="600" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#FFFFFF">
+    Begrenset skattefradrag for givere
+  </text>
+  
+  <!-- Connection lines -->
+  <line x1="200" y1="190" x2="200" y2="200" stroke="#64748B" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="600" y1="190" x2="600" y2="200" stroke="#64748B" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Detailed breakdown for allmennyttig -->
+  <rect x="20" y="300" width="360" height="120" fill="#FFFFFF" stroke="#10B981" stroke-width="2" rx="8"/>
+  <text x="200" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#047857">
+    Krav for Skattefritak
+  </text>
+  
+  <rect x="40" y="340" width="160" height="70" fill="#ECFDF5" stroke="#10B981" stroke-width="1" rx="4"/>
+  <text x="120" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#14532D">
+    Formålskrav
+  </text>
+  <text x="120" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#14532D">
+    • Allmennyttig karakter</text>
+  <text x="120" y="382" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#14532D">
+    • Ikke-kommersiell</text>
+  <text x="120" y="394" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#14532D">
+    • Samfunnsgagn</text>
+  
+  <rect x="210" y="340" width="160" height="70" fill="#ECFDF5" stroke="#10B981" stroke-width="1" rx="4"/>
+  <text x="290" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#14532D">
+    Organisasjonskrav
+  </text>
+  <text x="290" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#14532D">
+    • Ingen utdeling til eiere</text>
+  <text x="290" y="382" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#14532D">
+    • Formålsbinding</text>
+  <text x="290" y="394" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#14532D">
+    • Oppløsningsklausul</text>
+  
+  <!-- Detailed breakdown for privat -->
+  <rect x="420" y="300" width="360" height="120" fill="#FFFFFF" stroke="#EF4444" stroke-width="2" rx="8"/>
+  <text x="600" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#DC2626">
+    Skattebehandling
+  </text>
+  
+  <rect x="440" y="340" width="160" height="70" fill="#FEE2E2" stroke="#EF4444" stroke-width="1" rx="4"/>
+  <text x="520" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#991B1B">
+    Næringsinntekt
+  </text>
+  <text x="520" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#991B1B">
+    • 22% selskapsskatt</text>
+  <text x="520" y="382" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#991B1B">
+    • Fradrag for kostnader</text>
+  <text x="520" y="394" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#991B1B">
+    • MVA-registrering</text>
+  
+  <rect x="610" y="340" width="160" height="70" fill="#FEE2E2" stroke="#EF4444" stroke-width="1" rx="4"/>
+  <text x="690" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#991B1B">
+    Kapitalinntekt
+  </text>
+  <text x="690" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#991B1B">
+    • Skatt på gevinst/utbytte</text>
+  <text x="690" y="382" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#991B1B">
+    • Begrenset skjermingsfr.</text>
+  <text x="690" y="394" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#991B1B">
+    • Formuesskatt (opphørt)</text>
+  
+  <!-- Rapportering section -->
+  <rect x="100" y="450" width="600" height="120" fill="#F8FAFC" stroke="#64748B" stroke-width="2" rx="8"/>
+  <text x="400" y="475" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1F2937">
+    Rapporteringsforpliktelser
+  </text>
+  
+  <!-- Left column -->
+  <rect x="120" y="490" width="250" height="70" fill="#FFFFFF" stroke="#64748B" stroke-width="1" rx="4"/>
+  <text x="245" y="510" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">
+    Allmennyttige Stiftelser
+  </text>
+  <text x="130" y="530" font-family="Arial, sans-serif" font-size="10" fill="#374151">• VOPI-oppgave (mottatte gaver)</text>
+  <text x="130" y="545" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Dokumentasjon av aktiviteter</text>
+  <text x="130" y="560" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Eventuelt næringsoppgave</text>
+  
+  <!-- Right column -->
+  <rect x="430" y="490" width="250" height="70" fill="#FFFFFF" stroke="#64748B" stroke-width="1" rx="4"/>
+  <text x="555" y="510" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">
+    Private Stiftelser
+  </text>
+  <text x="440" y="530" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Skattemelding (ordinær)</text>
+  <text x="440" y="545" font-family="Arial, sans-serif" font-size="10" fill="#374151">• MVA-oppgave (hvis registrert)</text>
+  <text x="440" y="560" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Årsregnskapsoppgave</text>
+  
+  <!-- Arrow marker -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#64748B"/>
+    </marker>
+  </defs>
+</svg>

@@ -1,0 +1,171 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="processGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3498db;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2980b9;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="challengeGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e74c3c;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#c0392b;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="url(#bgGradient)"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#2c3e50">
+    Regnskapsprosesser i Detaljhandel
+  </text>
+  
+  <!-- Lagerstyring -->
+  <rect x="50" y="80" width="140" height="100" fill="url(#processGradient)" stroke="#2c3e50" stroke-width="2" rx="10"/>
+  <text x="120" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#fff">
+    LAGERSTYRING
+  </text>
+  <text x="120" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#ecf0f1">
+    • Varebeholdning
+  </text>
+  <text x="120" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#ecf0f1">
+    • Lagertelling
+  </text>
+  <text x="120" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#ecf0f1">
+    • Verdsettelse
+  </text>
+  <text x="120" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#ecf0f1">
+    • Svinn/tyveri
+  </text>
+  
+  <!-- Challenge box for Lagerstyring -->
+  <rect x="50" y="190" width="140" height="30" fill="url(#challengeGradient)" stroke="#2c3e50" stroke-width="1" rx="5"/>
+  <text x="120" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#fff">
+    Utfordring: Svinn og ukurans
+  </text>
+  
+  <!-- Salgsregistrering -->
+  <rect x="220" y="80" width="140" height="100" fill="url(#processGradient)" stroke="#2c3e50" stroke-width="2" rx="10"/>
+  <text x="290" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#fff">
+    SALGSREGISTRERING
+  </text>
+  <text x="290" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#ecf0f1">
+    • Kassasystem
+  </text>
+  <text x="290" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#ecf0f1">
+    • Transaksjoner
+  </text>
+  <text x="290" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#ecf0f1">
+    • Dagsoppgjør
+  </text>
+  <text x="290" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#ecf0f1">
+    • Kontanthandtering
+  </text>
+  
+  <!-- Challenge box for Salgsregistrering -->
+  <rect x="220" y="190" width="140" height="30" fill="url(#challengeGradient)" stroke="#2c3e50" stroke-width="1" rx="5"/>
+  <text x="290" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#fff">
+    Utfordring: Høyt volum
+  </text>
+  
+  <!-- Innkjøp -->
+  <rect x="390" y="80" width="140" height="100" fill="url(#processGradient)" stroke="#2c3e50" stroke-width="2" rx="10"/>
+  <text x="460" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#fff">
+    INNKJØP
+  </text>
+  <text x="460" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#ecf0f1">
+    • Varebestilling
+  </text>
+  <text x="460" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#ecf0f1">
+    • Leverandørgjeld
+  </text>
+  <text x="460" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#ecf0f1">
+    • Kredittider
+  </text>
+  <text x="460" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#ecf0f1">
+    • Kvalitetskontroll
+  </text>
+  
+  <!-- Challenge box for Innkjøp -->
+  <rect x="390" y="190" width="140" height="30" fill="url(#challengeGradient)" stroke="#2c3e50" stroke-width="1" rx="5"/>
+  <text x="460" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#fff">
+    Utfordring: Sesongvariasjoner
+  </text>
+  
+  <!-- Moms -->
+  <rect x="560" y="80" width="140" height="100" fill="url(#processGradient)" stroke="#2c3e50" stroke-width="2" rx="10"/>
+  <text x="630" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#fff">
+    MOMS
+  </text>
+  <text x="630" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#ecf0f1">
+    • Utgående moms
+  </text>
+  <text x="630" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#ecf0f1">
+    • Inngående moms
+  </text>
+  <text x="630" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#ecf0f1">
+    • Rapportering
+  </text>
+  <text x="630" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#ecf0f1">
+    • Oppgjør
+  </text>
+  
+  <!-- Challenge box for Moms -->
+  <rect x="560" y="190" width="140" height="30" fill="url(#challengeGradient)" stroke="#2c3e50" stroke-width="1" rx="5"/>
+  <text x="630" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#fff">
+    Utfordring: Komplekse satser
+  </text>
+  
+  <!-- Kassasystem (central) -->
+  <rect x="300" y="280" width="200" height="80" fill="#f39c12" stroke="#e67e22" stroke-width="3" rx="15"/>
+  <text x="400" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#fff">
+    KASSASYSTEM
+  </text>
+  <text x="400" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#fff">
+    Integrering med regnskap
+  </text>
+  <text x="400" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#fff">
+    Automatisering av prosesser
+  </text>
+  
+  <!-- Arrows from processes to kassasystem -->
+  <path d="M 120 220 Q 120 250 300 320" stroke="#34495e" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  <path d="M 290 220 Q 290 250 320 320" stroke="#34495e" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  <path d="M 460 220 Q 460 250 480 320" stroke="#34495e" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  <path d="M 630 220 Q 630 250 500 320" stroke="#34495e" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Arrow from kassasystem to regnskap -->
+  <path d="M 400 360 Q 400 390 400 420" stroke="#27ae60" stroke-width="4" fill="none" marker-end="url(#arrowhead2)"/>
+  
+  <!-- Regnskap (bottom) -->
+  <rect x="300" y="420" width="200" height="60" fill="#27ae60" stroke="#229954" stroke-width="3" rx="15"/>
+  <text x="400" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#fff">
+    REGNSKAPSSYSTEM
+  </text>
+  <text x="400" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#fff">
+    Samlet rapportering og analyse
+  </text>
+  
+  <!-- Arrow markers -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>
+    </marker>
+    <marker id="arrowhead2" markerWidth="12" markerHeight="8" refX="11" refY="4" orient="auto">
+      <polygon points="0 0, 12 4, 0 8" fill="#27ae60"/>
+    </marker>
+  </defs>
+  
+  <!-- Side notes -->
+  <text x="50" y="260" font-family="Arial, sans-serif" font-size="11" fill="#7f8c8d" font-style="italic">
+    Alle prosesser må
+  </text>
+  <text x="50" y="275" font-family="Arial, sans-serif" font-size="11" fill="#7f8c8d" font-style="italic">
+    integreres for effektiv
+  </text>
+  <text x="50" y="290" font-family="Arial, sans-serif" font-size="11" fill="#7f8c8d" font-style="italic">
+    regnskapsføring
+  </text>
+</svg>

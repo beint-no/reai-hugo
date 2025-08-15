@@ -1,0 +1,174 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="smallBizGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2ecc71;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#27ae60;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="largeBizGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3498db;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2980b9;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accountantGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#9b59b6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8e44ad;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="processGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f39c12;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e67e22;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+    Praktisk Bruk av Giro
+  </text>
+  
+  <!-- Small Business Section (Top Left) -->
+  <g transform="translate(50, 80)">
+    <rect x="0" y="0" width="220" height="200" rx="15" fill="url(#smallBizGradient)" opacity="0.9"/>
+    <text x="110" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      SMÅ BEDRIFTER
+    </text>
+    
+    <text x="10" y="55" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Implementering:</text>
+    <text x="15" y="75" font-family="Arial, sans-serif" font-size="10" fill="white">1. Velg riktig bank</text>
+    <text x="15" y="90" font-family="Arial, sans-serif" font-size="10" fill="white">2. Sett opp systemer</text>
+    <text x="15" y="105" font-family="Arial, sans-serif" font-size="10" fill="white">3. Tren personale</text>
+    <text x="15" y="120" font-family="Arial, sans-serif" font-size="10" fill="white">4. Etabler rutiner</text>
+    <text x="15" y="135" font-family="Arial, sans-serif" font-size="10" fill="white">5. Overvåk og optimaliser</text>
+    
+    <text x="10" y="160" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Beste praksis:</text>
+    <text x="15" y="175" font-family="Arial, sans-serif" font-size="10" fill="white">• Automatiser mest mulig</text>
+    <text x="15" y="190" font-family="Arial, sans-serif" font-size="10" fill="white">• Kontroller regelmessig</text>
+  </g>
+  
+  <!-- Large Business Section (Top Right) -->
+  <g transform="translate(530, 80)">
+    <rect x="0" y="0" width="220" height="200" rx="15" fill="url(#largeBizGradient)" opacity="0.9"/>
+    <text x="110" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      STORE BEDRIFTER
+    </text>
+    
+    <text x="10" y="55" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Avanserte løsninger:</text>
+    <text x="15" y="75" font-family="Arial, sans-serif" font-size="10" fill="white">• Treasury management</text>
+    <text x="15" y="90" font-family="Arial, sans-serif" font-size="10" fill="white">• Cash pooling</text>
+    <text x="15" y="105" font-family="Arial, sans-serif" font-size="10" fill="white">• Automatisert avstemming</text>
+    <text x="15" y="120" font-family="Arial, sans-serif" font-size="10" fill="white">• Risikostyring</text>
+    <text x="15" y="135" font-family="Arial, sans-serif" font-size="10" fill="white">• Detaljert rapportering</text>
+    
+    <text x="10" y="160" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Fordeler:</text>
+    <text x="15" y="175" font-family="Arial, sans-serif" font-size="10" fill="white">• Sentralisert kontroll</text>
+    <text x="15" y="190" font-family="Arial, sans-serif" font-size="10" fill="white">• Optimalisert likviditet</text>
+  </g>
+  
+  <!-- Accountant Section (Bottom Left) -->
+  <g transform="translate(50, 320)">
+    <rect x="0" y="0" width="220" height="200" rx="15" fill="url(#accountantGradient)" opacity="0.9"/>
+    <text x="110" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      REGNSKAPSFØRERE
+    </text>
+    
+    <text x="10" y="55" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Arbeidsområder:</text>
+    <text x="15" y="75" font-family="Arial, sans-serif" font-size="10" fill="white">• Klientrådgivning</text>
+    <text x="15" y="90" font-family="Arial, sans-serif" font-size="10" fill="white">• Systemintegrasjon</text>
+    <text x="15" y="105" font-family="Arial, sans-serif" font-size="10" fill="white">• Avstemmingsarbeid</text>
+    <text x="15" y="120" font-family="Arial, sans-serif" font-size="10" fill="white">• Kontroll og revisjon</text>
+    <text x="15" y="135" font-family="Arial, sans-serif" font-size="10" fill="white">• Finansiell rapportering</text>
+    
+    <text x="10" y="160" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Verdi:</text>
+    <text x="15" y="175" font-family="Arial, sans-serif" font-size="10" fill="white">• Effektiv bankavstemming</text>
+    <text x="15" y="190" font-family="Arial, sans-serif" font-size="10" fill="white">• Bedre kontrollrutiner</text>
+  </g>
+  
+  <!-- Implementation Process (Bottom Right) -->
+  <g transform="translate(530, 320)">
+    <rect x="0" y="0" width="220" height="200" rx="15" fill="url(#processGradient)" opacity="0.9"/>
+    <text x="110" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      IMPLEMENTERINGSPROSESS
+    </text>
+    
+    <text x="10" y="55" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Trinn-for-trinn:</text>
+    
+    <!-- Step 1 -->
+    <circle cx="25" cy="70" r="8" fill="white"/>
+    <text x="25" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#f39c12">1</text>
+    <text x="40" y="75" font-family="Arial, sans-serif" font-size="10" fill="white">Behovsanalyse</text>
+    
+    <!-- Step 2 -->
+    <circle cx="25" cy="95" r="8" fill="white"/>
+    <text x="25" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#f39c12">2</text>
+    <text x="40" y="100" font-family="Arial, sans-serif" font-size="10" fill="white">Leverandørvalg</text>
+    
+    <!-- Step 3 -->
+    <circle cx="25" cy="120" r="8" fill="white"/>
+    <text x="25" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#f39c12">3</text>
+    <text x="40" y="125" font-family="Arial, sans-serif" font-size="10" fill="white">Systemoppsett</text>
+    
+    <!-- Step 4 -->
+    <circle cx="25" cy="145" r="8" fill="white"/>
+    <text x="25" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#f39c12">4</text>
+    <text x="40" y="150" font-family="Arial, sans-serif" font-size="10" fill="white">Testing og opplæring</text>
+    
+    <!-- Step 5 -->
+    <circle cx="25" cy="170" r="8" fill="white"/>
+    <text x="25" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#f39c12">5</text>
+    <text x="40" y="175" font-family="Arial, sans-serif" font-size="10" fill="white">Produksjonssetting</text>
+    
+    <!-- Step 6 -->
+    <circle cx="25" cy="195" r="8" fill="white"/>
+    <text x="25" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#f39c12">6</text>
+    <text x="40" y="200" font-family="Arial, sans-serif" font-size="10" fill="white">Kontinuerlig forbedring</text>
+  </g>
+  
+  <!-- Central Connection Hub -->
+  <g transform="translate(350, 280)">
+    <circle cx="50" cy="50" r="40" fill="white" stroke="#34495e" stroke-width="3" opacity="0.9"/>
+    <text x="50" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#34495e">
+      GIRO
+    </text>
+    <text x="50" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#34495e">
+      PRAKTISK BRUK
+    </text>
+  </g>
+  
+  <!-- Connection Lines -->
+  <line x1="270" y1="180" x2="350" y2="300" stroke="#7f8c8d" stroke-width="2" opacity="0.7"/>
+  <line x1="530" y1="180" x2="450" y2="300" stroke="#7f8c8d" stroke-width="2" opacity="0.7"/>
+  <line x1="270" y1="420" x2="350" y2="360" stroke="#7f8c8d" stroke-width="2" opacity="0.7"/>
+  <line x1="530" y1="420" x2="450" y2="360" stroke="#7f8c8d" stroke-width="2" opacity="0.7"/>
+  
+  <!-- Icons for each section -->
+  <!-- Small Business Icon -->
+  <g transform="translate(60, 90)">
+    <rect x="0" y="0" width="20" height="15" rx="2" fill="white" opacity="0.8"/>
+    <rect x="2" y="2" width="16" height="11" fill="none" stroke="#2ecc71" stroke-width="1"/>
+    <line x1="4" y1="5" x2="16" y2="5" stroke="#2ecc71" stroke-width="1"/>
+    <line x1="4" y1="8" x2="12" y2="8" stroke="#2ecc71" stroke-width="1"/>
+  </g>
+  
+  <!-- Large Business Icon -->
+  <g transform="translate(540, 90)">
+    <rect x="0" y="0" width="25" height="20" rx="2" fill="white" opacity="0.8"/>
+    <rect x="2" y="2" width="21" height="16" fill="none" stroke="#3498db" stroke-width="1"/>
+    <line x1="4" y1="6" x2="20" y2="6" stroke="#3498db" stroke-width="1"/>
+    <line x1="4" y1="10" x2="16" y2="10" stroke="#3498db" stroke-width="1"/>
+    <line x1="4" y1="14" x2="18" y2="14" stroke="#3498db" stroke-width="1"/>
+  </g>
+  
+  <!-- Accountant Icon -->
+  <g transform="translate(60, 330)">
+    <circle cx="10" cy="8" r="6" fill="white" opacity="0.8"/>
+    <path d="M 4 14 Q 10 12 16 14 L 16 20 L 4 20 Z" fill="white" opacity="0.8"/>
+    <circle cx="10" cy="8" r="4" fill="none" stroke="#9b59b6" stroke-width="1"/>
+    <path d="M 6 14 Q 10 12 14 14 L 14 18 L 6 18 Z" fill="none" stroke="#9b59b6" stroke-width="1"/>
+  </g>
+  
+  <!-- Process Icon -->
+  <g transform="translate(540, 330)">
+    <circle cx="10" cy="10" r="8" fill="white" opacity="0.8"/>
+    <path d="M 6 10 L 8 12 L 14 6" fill="none" stroke="#f39c12" stroke-width="2"/>
+  </g>
+</svg>

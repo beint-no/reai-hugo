@@ -1,0 +1,320 @@
+<!doctype html>
+<html lang="nb">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Velferdspermisjon: Rettigheter, Regnskapsføring og Skattemessig Behandling | ReAI</title>
+  <meta name="description" content="Komplett regnskapssystem med faktura, lønn, bilagsføring og årsoppgjør.">
+  
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<script src="https://cdn.tailwindcss.com?plugins=typography"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        fontFamily: { sans: ['Inter','ui-sans-serif','system-ui','Arial','sans-serif'] },
+        colors: {
+          brand: { DEFAULT: '#111827' },
+          accent: { DEFAULT: '#2563eb' }
+        }
+      }
+    }
+  }
+</script>
+<style>
+   
+  header .header-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #000 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link:hover { background-position: 0; }
+  header .header-link:hover::before { width: 100%; }
+
+  footer .footer-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #ffffff 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link:hover { background-position: 0; }
+  footer .footer-link:hover::before { width: 100%; }
+</style>
+<style>
+   
+  .prose { overflow-wrap: anywhere; word-break: break-word; }
+  .prose img { max-width: 100%; height: auto; }
+  .prose table { display: block; width: 100%; overflow-x: auto; }
+  .prose pre { white-space: pre-wrap; word-break: break-word; overflow-x: auto; }
+  .prose code { word-break: break-word; }
+  .prose iframe, .prose video { max-width: 100%; width: 100%; height: auto; }
+</style>
+<style>
+   
+  button,
+  .btn,
+  a.btn,
+  .button,
+  .cta,
+  .link-button,
+   
+  a.inline-flex.rounded-md,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"] {
+    transition: transform 220ms ease, box-shadow 220ms ease, background-color 220ms ease, color 220ms ease, opacity 220ms ease;
+    will-change: transform, box-shadow;
+  }
+
+  button:hover,
+  .btn:hover,
+  a.btn:hover,
+  .button:hover,
+  .cta:hover,
+  .link-button:hover,
+  a.inline-flex.rounded-md:hover,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+
+  button:active,
+  .btn:active,
+  a.btn:active,
+  .button:active,
+  .cta:active,
+  .link-button:active,
+  a.inline-flex.rounded-md:active,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:active {
+    transform: translateY(-1px) scale(0.99);
+    box-shadow: 0 6px 12px rgba(2, 6, 23, 0.1);
+  }
+
+  button:focus-visible,
+  .btn:focus-visible,
+  a.btn:focus-visible,
+  .button:focus-visible,
+  .cta:focus-visible,
+  .link-button:focus-visible,
+  a.inline-flex.rounded-md:focus-visible,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.35), 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+</style>
+
+<link rel="icon" type="image/svg+xml" href="/images/ReAI-logo-square.svg">
+<link rel="shortcut icon" href="/images/ReAI-logo-square.svg">
+
+</head>
+<body class="min-h-dvh bg-white text-gray-900 font-sans">
+  <header class="sticky top-0 z-40 bg-white/80 backdrop-blur">
+  
+  <div class="border-b border-slate-200/70">
+    <div class="max-w-7xl mx-auto px-4">
+      <div class="h-16 flex items-center justify-between">
+        <a href="/" class="flex items-center gap-2" aria-label="ReAI">
+          <img src="/images/ReAI-logo-square.svg?v=4" alt="ReAI logo" class="h-14 w-14 rounded-md mt-5" width="56" height="56" loading="eager" decoding="async">
+        </a>
+        <nav class="hidden md:block">
+          <ul class="flex items-center gap-5 text-sm">
+            <li><a href="/courses/" class="header-link text-slate-700 hover:text-black">Gratis kurs</a></li>
+            <li><a href="/contact/" class="header-link text-slate-700 hover:text-black">Kontakt oss</a></li>
+            <li><a href="/blog/" class="header-link text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+            <li><a href="/bli-partner/" class="header-link text-slate-700 hover:text-black">Bli partner</a></li>
+            <li><a href="/fakturamal/" class="header-link text-slate-700 hover:text-black">Lag faktura</a></li>
+          </ul>
+        </nav>
+        <button id="mobileMenuBtn" aria-controls="mobileMenu" aria-expanded="false" class="md:hidden inline-flex items-center justify-center h-9 w-9 rounded-md border border-slate-300">
+          <span class="sr-only">Menu</span>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-5 w-5"><path d="M3.75 6.75h16.5v1.5H3.75zM3.75 11.25h16.5v1.5H3.75zM3.75 15.75h16.5v1.5H3.75z"/></svg>
+        </button>
+      </div>
+    </div>
+  </div>
+  
+  <nav id="mobileMenu" class="md:hidden hidden border-b border-slate-200/70 bg-white/95 backdrop-blur">
+    <div class="max-w-7xl mx-auto px-4 py-3">
+      <ul class="flex flex-col items-center gap-3 text-sm text-center">
+        <li><a href="/courses/" class="header-link block text-slate-700 hover:text-black">Gratis kurs</a></li>
+        <li><a href="/contact/" class="header-link block text-slate-700 hover:text-black">Kontakt oss</a></li>
+        <li><a href="/blog/" class="header-link block text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+        <li><a href="/bli-partner/" class="header-link block text-slate-700 hover:text-black">Bli partner</a></li>
+        <li><a href="/fakturamal/" class="header-link block text-slate-700 hover:text-black">Lag faktura</a></li>
+      </ul>
+    </div>
+  </nav>
+  <script>
+    (function() {
+      const btn = document.getElementById('mobileMenuBtn');
+      const menu = document.getElementById('mobileMenu');
+      if (!btn || !menu) return;
+      btn.addEventListener('click', function() {
+        const isHidden = menu.classList.contains('hidden');
+        menu.classList.toggle('hidden');
+        btn.setAttribute('aria-expanded', String(isHidden));
+      });
+    })();
+  </script>
+</header>
+  <main>
+    
+<section class="pt-10 md:pt-14">
+  <div class="max-w-3xl mx-auto px-4">
+    <h1 class="text-3xl font-semibold tracking-tight text-center">Velferdspermisjon: Rettigheter, Regnskapsføring og Skattemessig Behandling</h1>
+    <p class="mt-2 text-gray-700">En grundig guide til velferdspermisjon: definisjon, typer, regnskapsføring og praktiske tips for norske virksomheter.
+</p>
+    <article class="prose max-w-none mt-6"><p><strong>Velferdspermisjon</strong> gir ansatte rett til permisjon ved visse livshendelser eller behov utover ordinær <strong>sykepenge</strong>‑ og <strong>foreldrepengelovgivning</strong>. Dette omfatter blant annet omsorg for nære familiemedlemmer, egen utdanning eller deltakelse i offentlige verv.</p>
+<p><img src="velferdspermisjon-image.svg" alt="Velferdspermisjon"></p>
+<h2 id="hva-er-velferdspermisjon">Hva er velferdspermisjon?</h2>
+<p>Velferdspermisjon er en form for <strong>velferdsgode</strong> som gir ansatte fri fra arbeid med eller uten lønn for å ivareta viktige behov. Ordningen kan være hjemlet i arbeidsavtale, tariffavtale eller i <a href="/blogs/regnskap/hva-er-arbeidsforholdstype" title="Hva er Arbeidsforholdstype? Lover, Plikter og Rettigheter i Norsk Arbeidsliv">Arbeidsmiljøloven</a>, og støttes ofte økonomisk gjennom refusjonsordninger i <a href="/blogs/regnskap/hva-er-folketrygden" title="Hva er Folketrygden? Struktur og Ytelser">Folketrygden</a>.</p>
+<h2 id="typer-velferdspermisjon">Typer velferdspermisjon</h2>
+<p>De vanligste typene <strong>velferdspermisjon</strong> i norske virksomheter er:</p>
+<ul>
+<li><strong>Omsorgspermisjon</strong> – permisjon ved alvorlig sykdom eller død i nærmeste familie.</li>
+<li><strong>Utdanningspermisjon</strong> – fri for studie- eller kompetanseutvikling.</li>
+<li><strong>Tillitsverv</strong> – permisjon for offentlige eller faglige tillitsverv.</li>
+<li><strong>Vernetjeneste</strong> – tjeneste i vernepliktsordningen eller sivilforsvaret.</li>
+<li><strong>Flyttepermisjon</strong> – fri ved flytting mellom hjem og arbeid.</li>
+</ul>
+<p><img src="velferdspermisjon-typer.svg" alt="Typer velferdspermisjon"></p>
+<h2 id="regnskapsføring-og-skattemessig-behandling">Regnskapsføring og skattemessig behandling</h2>
+<p>Arbeidsgivere må vurdere både lønnskostnad, refusjonskrav og eventuell skatteplikt. Nedenfor er en forenklet oversikt:</p>
+<table>
+  <thead>
+      <tr>
+          <th><strong>Permisjonstype</strong></th>
+          <th><strong>Lønn under permisjon</strong></th>
+          <th><strong>Refusjon/tilskudd</strong></th>
+          <th><strong>Regnskapsføring</strong></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Omsorgspermisjon</td>
+          <td>Etter avtale</td>
+          <td>Inntil 60 % via NAV</td>
+          <td>Debet: Lønnskostnad <!-- raw HTML omitted --> Kredit: Skyldig lønn/refusjonsfordring</td>
+      </tr>
+      <tr>
+          <td>Utdanningspermisjon</td>
+          <td>Kan være lønnet/frivillig</td>
+          <td>Varierende fra staten eller fylke</td>
+          <td>Debet: Opplæringskostnad <!-- raw HTML omitted --> Kredit: Leverandør/skyldig lønn</td>
+      </tr>
+      <tr>
+          <td>Tillitsverv</td>
+          <td>Full lønn eller delvis</td>
+          <td>Tilskudd fra tilsvarende organisasjon</td>
+          <td>Debet: Lønnskostnad tillitsverv <!-- raw HTML omitted --> Kredit: Skyldig lønn</td>
+      </tr>
+      <tr>
+          <td>Vernetjeneste</td>
+          <td>Full lønn</td>
+          <td>Ingen refusjon</td>
+          <td>Debet: Lønnskostnad verneplikt <!-- raw HTML omitted --> Kredit: Skyldig lønn</td>
+      </tr>
+      <tr>
+          <td>Flyttepermisjon</td>
+          <td>Vanlig lønn</td>
+          <td>Ikke refusjonsrett</td>
+          <td>Debet: Lønnskostnad <!-- raw HTML omitted --> Kredit: Skyldig lønn</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="praktiske-tips-for-arbeidsgivere">Praktiske tips for arbeidsgivere</h2>
+<p>For effektiv håndtering av <strong>velferdspermisjon</strong>:</p>
+<ul>
+<li>Etabler klare rutiner for <em>søknad</em> og dokumentasjon.</li>
+<li>Sørg for korrekt periodisering i lønnssystemet.</li>
+<li>Implementer interne retningslinjer i <a href="/blogs/regnskap/arbeidskontrakten" title="Arbeidskontrakten – Roller og Ansvar i Norsk Arbeidsliv og Regnskap">Arbeidskontrakten</a>.</li>
+</ul>
+<h2 id="relaterte-artikler">Relaterte artikler</h2>
+<ul>
+<li><a href="/blogs/regnskap/velferdsgoder" title="Velferdsgoder i Norsk Regnskap: Oversikt over Ansattfordeler og Regnskapsføring">Velferdsgoder</a></li>
+<li><a href="/blogs/regnskap/fodselspermisjon" title="Fødselspermisjon – Guide til foreldrepenger og regnskapsføring i Norge">Fødselspermisjon</a></li>
+<li><a href="/blogs/regnskap/hva-er-sykepenger" title="Hva er Sykepenger? Arbeidsgiverperiode, NAV-refusjon og Regnskapsføring">Sykepenger</a></li>
+<li><a href="/blogs/regnskap/hva-er-folketrygden" title="Hva er Folketrygden? Struktur og Ytelser">Folketrygden</a></li>
+</ul>
+<h2 id="oppsummering">Oppsummering</h2>
+<p><strong>Velferdspermisjon</strong> gir ansatte viktig støtte ved livshendelser og kompetanseutvikling. Korrekt håndtering av lønn, refusjon og regnskap er avgjørende for både ansatttilfredshet og overholdelse av regelverk.</p>
+</article>
+  </div>
+</section>
+
+  </main>
+  <footer class="mt-16 border-t border-slate-800/60 bg-slate-900">
+  <div class="max-w-7xl mx-auto px-4 py-14">
+    <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3 text-center sm:text-left">
+      
+      <div>
+        <h3 class="text-sm font-semibold text-white">Verktøy</h3>
+        <ul class="mt-2 space-y-2 text-sm text-slate-300">
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/finn-iban/">IBAN kalkulator</a></li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/lag-faktura-gratis/">Lag faktura</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Selskaps-informasjon</h3>
+        <ul class="mt-2 space-y-1 text-sm text-slate-300">
+          <li>Reai AS</li>
+          <li>Orgnr: 935606403</li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="mailto:post@reai.no">post@reai.no</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Om ReAI</h3>
+        <p class="mt-2 text-sm text-slate-300">ReAI er et gratis regnskapsprogram laget av tidligere ansatte i Tripletex
+          / Visma. Vi mener det er på tide med mer konkurranse i regnskaps-bransjen som kan komme bedrifter til gode.
+        </p>
+      </div>
+    </div>
+    <div class="mt-12 border-t border-slate-800/60 pt-6 flex flex-col items-center sm:flex-row sm:items-center sm:justify-between text-sm text-slate-400 text-center sm:text-left">
+      <div class="flex items-center gap-2">
+        
+        
+      </div>
+      <div class="mt-4 sm:mt-0 flex items-center justify-center sm:justify-end">
+        <div class="opacity-80">&copy; 2025 ReAI. All rights reserved.</div>
+      </div>
+    </div>
+  </div>
+</footer>
+</body>
+</html>

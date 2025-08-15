@@ -1,0 +1,99 @@
+<svg viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="url(#bgGradient)" stroke="#cbd5e1" stroke-width="2"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e293b">Skattemessige Konsekvenser av Ulike Yield-Typer</text>
+  
+  <!-- Norwegian Tax Overview -->
+  <rect x="50" y="60" width="700" height="60" fill="white" stroke="#dc2626" stroke-width="2" rx="8"/>
+  <rect x="50" y="60" width="700" height="30" fill="#dc2626" rx="8"/>
+  <text x="400" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">Norsk Skattesystem - Yield-Beskatning</text>
+  <text x="400" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#1e293b">Alminnelig inntekt: 22% skattesats | Personlig skatt: opptil 47.4%</text>
+  
+  <!-- Dividend Taxation -->
+  <rect x="50" y="150" width="340" height="140" fill="white" stroke="#3b82f6" stroke-width="2" rx="8"/>
+  <rect x="50" y="150" width="340" height="30" fill="#3b82f6" rx="8"/>
+  <text x="220" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Utbytte (Dividend Yield)</text>
+  
+  <g>
+    <text x="70" y="195" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">Private investorer:</text>
+    <text x="70" y="210" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Skjermet utbytte: 0% skatt</text>
+    <text x="70" y="223" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Skjermingsgrunnlag = aksjekapital × skjermingsrente</text>
+    <text x="70" y="236" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Utbytte over skjerming: 22% + evt. toppskatt</text>
+    
+    <text x="70" y="255" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">Selskaper (fritaksmetoden):</text>
+    <text x="70" y="270" font-family="Arial, sans-serif" font-size="10" fill="#059669">• 0% skatt på utbytte fra kvalifiserte aksjer</text>
+    <text x="70" y="283" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Krav: Min. 10% eierandel i 2+ år</text>
+  </g>
+  
+  <!-- Interest/Bond Taxation -->
+  <rect x="410" y="150" width="340" height="140" fill="white" stroke="#f59e0b" stroke-width="2" rx="8"/>
+  <rect x="410" y="150" width="340" height="30" fill="#f59e0b" rx="8"/>
+  <text x="580" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Renter/Obligasjoner (Bond Yield)</text>
+  
+  <g>
+    <text x="430" y="195" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">Alle investorer:</text>
+    <text x="430" y="210" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Renteinntekter: 22% skatt (alminnelig inntekt)</text>
+    <text x="430" y="223" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Kapitalgevinst: 22% skatt ved realisering</text>
+    <text x="430" y="236" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Kapitaltap: Fradrag mot kapitalgevinst</text>
+    
+    <text x="430" y="255" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">Effective yield-beskatning:</text>
+    <text x="430" y="270" font-family="Arial, sans-serif" font-size="10" fill="#dc2626">• Løpende renteinntekter beskattes årlig</text>
+    <text x="430" y="283" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Kursgevinster kun ved realisering</text>
+  </g>
+  
+  <!-- Tax Optimization Strategies -->
+  <rect x="50" y="310" width="700" height="160" fill="white" stroke="#22c55e" stroke-width="2" rx="8"/>
+  <rect x="50" y="310" width="700" height="30" fill="#22c55e" rx="8"/>
+  <text x="400" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">Skatteoptimalisering av Yield</text>
+  
+  <g>
+    <!-- Left column -->
+    <text x="70" y="360" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#1e293b">Timing-strategier:</text>
+    <text x="70" y="375" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Realiser gevinster i lavere skatteyear</text>
+    <text x="70" y="388" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Realiser tap mot gevinster (modregning)</text>
+    <text x="70" y="401" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Utsett skattepliktige realisasjoner</text>
+    
+    <text x="70" y="420" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#1e293b">Strukturelle grep:</text>
+    <text x="70" y="435" font-family="Arial, sans-serif" font-size="10" fill="#374151">• ISK-konto for aksjesparingen</text>
+    <text x="70" y="448" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Pensjonssparing (skattefordel)</text>
+    
+    <!-- Center column -->
+    <text x="290" y="360" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#1e293b">Skjermingsoptimalisering:</text>
+    <text x="290" y="375" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Maksimer skjermingsgrunnlag</text>
+    <text x="290" y="388" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Timing av aksjekjøp (2-års regel)</text>
+    <text x="290" y="401" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Fremføring av ubenyttet skjerming</text>
+    
+    <text x="290" y="420" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#1e293b">Selskapsstruktur:</text>
+    <text x="290" y="435" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Fritaksmetoden for selskaper</text>
+    <text x="290" y="448" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Holdingselskap-strukturer</text>
+    
+    <!-- Right column -->
+    <text x="520" y="360" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#1e293b">Yield etter skatt beregning:</text>
+    <rect x="520" y="370" width="200" height="75" fill="#f1f5f9" stroke="#64748b" stroke-width="1" rx="4"/>
+    <text x="530" y="385" font-family="Arial, sans-serif" font-size="10" fill="#374151">Eksempel dividend yield:</text>
+    <text x="530" y="398" font-family="Arial, sans-serif" font-size="9" fill="#374151">Brutto yield: 5%</text>
+    <text x="530" y="410" font-family="Arial, sans-serif" font-size="9" fill="#374151">Skjermet del: 3% (0% skatt)</text>
+    <text x="530" y="422" font-family="Arial, sans-serif" font-size="9" fill="#374151">Skattepliktig: 2% × (1-0.22) = 1.56%</text>
+    <text x="530" y="435" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="#059669">Netto yield: 3% + 1.56% = 4.56%</text>
+  </g>
+  
+  <!-- International Considerations -->
+  <rect x="70" y="460" width="280" height="25" fill="#fef3c7" stroke="#f59e0b" stroke-width="1" rx="4"/>
+  <text x="80" y="475" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#d97706">Internasjonalt: Kildeskatt og skatteavtaler påvirker netto yield</text>
+  
+  <!-- Warning Box -->
+  <rect x="370" y="460" width="350" height="25" fill="#fee2e2" stroke="#ef4444" stroke-width="1" rx="4"/>
+  <text x="380" y="475" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#dc2626">Viktig: Skatteregler endres - søk faglig råd for optimalisering</text>
+  
+  <!-- Footer -->
+  <text x="400" y="495" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b" font-style="italic">Skatteeffektivitet er avgjørende for netto yield-optimalisering</text>
+</svg>

@@ -1,0 +1,252 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="standardGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3B82F6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1E40AF;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="automationGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#10B981;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#047857;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="qualityGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#F59E0B;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#D97706;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="improvementGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#EF4444;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#DC2626;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="circleFill" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#8B5CF6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7C3AED;stop-opacity:1" />
+    </linearGradient>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#64748B"/>
+    </marker>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#F8FAFC"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1E293B">
+    Beste Praksis for Ansattutlegg
+  </text>
+  
+  <!-- Central Circle -->
+  <circle cx="400" cy="300" r="80" fill="url(#circleFill)" stroke="#7C3AED" stroke-width="3"/>
+  <text x="400" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    Effektiv
+  </text>
+  <text x="400" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    Utleggshåndtering
+  </text>
+  
+  <!-- Standardization -->
+  <rect x="70" y="80" width="180" height="120" rx="10" fill="url(#standardGradient)" stroke="#1E40AF" stroke-width="2"/>
+  <text x="160" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    Standardisering
+  </text>
+  <text x="80" y="125" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Standardiserte skjemaer
+  </text>
+  <text x="80" y="140" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Konsistente prosesser
+  </text>
+  <text x="80" y="155" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Enhetlige retningslinjer
+  </text>
+  <text x="80" y="170" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Faste rutiner
+  </text>
+  <text x="80" y="185" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Dokumentasjonsmal
+  </text>
+  
+  <!-- Automation -->
+  <rect x="550" y="80" width="180" height="120" rx="10" fill="url(#automationGradient)" stroke="#047857" stroke-width="2"/>
+  <text x="640" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    Automatisering
+  </text>
+  <text x="560" y="125" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Minimering av manuelt arbeid
+  </text>
+  <text x="560" y="140" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Automatisk arbeidsflyt
+  </text>
+  <text x="560" y="155" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Systemintegrasjon
+  </text>
+  <text x="560" y="170" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Digitale løsninger
+  </text>
+  <text x="560" y="185" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • AI-støttede prosesser
+  </text>
+  
+  <!-- Quality Control -->
+  <rect x="70" y="400" width="180" height="120" rx="10" fill="url(#qualityGradient)" stroke="#D97706" stroke-width="2"/>
+  <text x="160" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    Kvalitetskontroll
+  </text>
+  <text x="80" y="445" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Regelmessig gjennomgang
+  </text>
+  <text x="80" y="460" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Stikprøvekontroller
+  </text>
+  <text x="80" y="475" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Validering av data
+  </text>
+  <text x="80" y="490" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Kontrollrutiner
+  </text>
+  <text x="80" y="505" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Feilregistrering
+  </text>
+  
+  <!-- Continuous Improvement -->
+  <rect x="550" y="400" width="180" height="120" rx="10" fill="url(#improvementGradient)" stroke="#DC2626" stroke-width="2"/>
+  <text x="640" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    Kontinuerlig Forbedring
+  </text>
+  <text x="560" y="445" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Oppdatering basert på erfaring
+  </text>
+  <text x="560" y="460" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Feedback fra brukere
+  </text>
+  <text x="560" y="475" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Prosessforbedring
+  </text>
+  <text x="560" y="490" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Teknologiutvikling
+  </text>
+  <text x="560" y="505" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Benchmarking
+  </text>
+  
+  <!-- Connecting Lines -->
+  <g stroke="#64748B" stroke-width="2" fill="none" marker-end="url(#arrowhead)">
+    <!-- From Standardization to center -->
+    <path d="M 250 160 L 340 250" stroke-dasharray="5,5"/>
+    <!-- From Automation to center -->
+    <path d="M 550 160 L 460 250" stroke-dasharray="5,5"/>
+    <!-- From Quality Control to center -->
+    <path d="M 250 460 L 340 350" stroke-dasharray="5,5"/>
+    <!-- From Continuous Improvement to center -->
+    <path d="M 550 460 L 460 350" stroke-dasharray="5,5"/>
+  </g>
+  
+  <!-- Implementation Framework -->
+  <rect x="280" y="50" width="240" height="30" rx="5" fill="#E2E8F0" stroke="#64748B" stroke-width="2"/>
+  <text x="400" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1E293B">
+    Implementeringsrammeverk
+  </text>
+  
+  <!-- Phase indicators -->
+  <g id="phases">
+    <!-- Phase 1 -->
+    <circle cx="300" cy="220" r="15" fill="#3B82F6" stroke="#1E40AF" stroke-width="2"/>
+    <text x="300" y="226" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      1
+    </text>
+    <text x="300" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#1E293B">
+      Analyser
+    </text>
+    
+    <!-- Phase 2 -->
+    <circle cx="350" cy="170" r="15" fill="#10B981" stroke="#047857" stroke-width="2"/>
+    <text x="350" y="176" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      2
+    </text>
+    <text x="350" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#1E293B">
+      Standardiser
+    </text>
+    
+    <!-- Phase 3 -->
+    <circle cx="450" cy="170" r="15" fill="#F59E0B" stroke="#D97706" stroke-width="2"/>
+    <text x="450" y="176" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      3
+    </text>
+    <text x="450" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#1E293B">
+      Automatiser
+    </text>
+    
+    <!-- Phase 4 -->
+    <circle cx="500" cy="220" r="15" fill="#EF4444" stroke="#DC2626" stroke-width="2"/>
+    <text x="500" y="226" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      4
+    </text>
+    <text x="500" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#1E293B">
+      Forbedre
+    </text>
+    
+    <!-- Phase 5 -->
+    <circle cx="450" cy="430" r="15" fill="#8B5CF6" stroke="#7C3AED" stroke-width="2"/>
+    <text x="450" y="436" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      5
+    </text>
+    <text x="450" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#1E293B">
+      Overvåke
+    </text>
+    
+    <!-- Phase 6 -->
+    <circle cx="350" cy="430" r="15" fill="#6B7280" stroke="#4B5563" stroke-width="2"/>
+    <text x="350" y="436" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      6
+    </text>
+    <text x="350" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#1E293B">
+      Optimalisere
+    </text>
+  </g>
+  
+  <!-- Success Metrics -->
+  <rect x="50" y="550" width="700" height="40" rx="5" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="1"/>
+  <text x="70" y="570" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1E293B">
+    Suksessmålinger:
+  </text>
+  <text x="70" y="585" font-family="Arial, sans-serif" font-size="10" fill="#475569">
+    • Redusert behandlingstid • Færre feil • Høyere brukertilfredshet • Lavere administrative kostnader
+    • Bedre compliance • Økt transparens
+  </text>
+  
+  <!-- Key Performance Indicators -->
+  <g id="kpiBoxes">
+    <!-- KPI 1 -->
+    <rect x="280" y="120" width="60" height="40" rx="5" fill="#DBEAFE" stroke="#3B82F6" stroke-width="1"/>
+    <text x="310" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#1E40AF">
+      90%
+    </text>
+    <text x="310" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#1E40AF">
+      Digitalisering
+    </text>
+    
+    <!-- KPI 2 -->
+    <rect x="460" y="120" width="60" height="40" rx="5" fill="#D1FAE5" stroke="#10B981" stroke-width="1"/>
+    <text x="490" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#047857">
+      &lt;24h
+    </text>
+    <text x="490" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#047857">
+      Behandlingstid
+    </text>
+    
+    <!-- KPI 3 -->
+    <rect x="280" y="360" width="60" height="40" rx="5" fill="#FEF3C7" stroke="#F59E0B" stroke-width="1"/>
+    <text x="310" y="375" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#92400E">
+      &lt;2%
+    </text>
+    <text x="310" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#92400E">
+      Feilrate
+    </text>
+    
+    <!-- KPI 4 -->
+    <rect x="460" y="360" width="60" height="40" rx="5" fill="#FEE2E2" stroke="#EF4444" stroke-width="1"/>
+    <text x="490" y="375" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#DC2626">
+      95%
+    </text>
+    <text x="490" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#DC2626">
+      Compliance
+    </text>
+  </g>
+</svg>

@@ -1,0 +1,144 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="processGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e3f2fd;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#bbdefb;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="stepGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f5f5f5;stop-opacity:1" />
+    </linearGradient>
+    <marker id="flowArrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#1976d2"/>
+    </marker>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="url(#processGrad)" stroke="#1976d2" stroke-width="2"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="#1976d2">
+    Kvartalsrapport Prosessflyt
+  </text>
+  
+  <!-- Step 1: Data Collection -->
+  <g transform="translate(50, 70)">
+    <rect x="0" y="0" width="180" height="100" fill="url(#stepGrad)" stroke="#1976d2" stroke-width="2" rx="8"/>
+    <circle cx="90" cy="25" r="15" fill="#1976d2"/>
+    <text x="90" y="30" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">1</text>
+    
+    <text x="90" y="50" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#333">
+      Datainnsamling
+    </text>
+    <text x="10" y="70" font-family="Arial, sans-serif" font-size="10" fill="#666">• Månedsavslutning</text>
+    <text x="10" y="85" font-family="Arial, sans-serif" font-size="10" fill="#666">• Konsolidering</text>
+  </g>
+  
+  <!-- Arrow 1 -->
+  <line x1="230" y1="120" x2="270" y2="120" stroke="#1976d2" stroke-width="3" marker-end="url(#flowArrow)"/>
+  
+  <!-- Step 2: Reconciliation -->
+  <g transform="translate(280, 70)">
+    <rect x="0" y="0" width="180" height="100" fill="url(#stepGrad)" stroke="#388e3c" stroke-width="2" rx="8"/>
+    <circle cx="90" cy="25" r="15" fill="#388e3c"/>
+    <text x="90" y="30" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">2</text>
+    
+    <text x="90" y="50" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#333">
+      Avstemming
+    </text>
+    <text x="10" y="70" font-family="Arial, sans-serif" font-size="10" fill="#666">• Kontroll av poster</text>
+    <text x="10" y="85" font-family="Arial, sans-serif" font-size="10" fill="#666">• Balanseavstemming</text>
+  </g>
+  
+  <!-- Arrow 2 -->
+  <line x1="460" y1="120" x2="500" y2="120" stroke="#1976d2" stroke-width="3" marker-end="url(#flowArrow)"/>
+  
+  <!-- Step 3: Analysis -->
+  <g transform="translate(510, 70)">
+    <rect x="0" y="0" width="180" height="100" fill="url(#stepGrad)" stroke="#f57c00" stroke-width="2" rx="8"/>
+    <circle cx="90" cy="25" r="15" fill="#f57c00"/>
+    <text x="90" y="30" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">3</text>
+    
+    <text x="90" y="50" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#333">
+      Analyse
+    </text>
+    <text x="10" y="70" font-family="Arial, sans-serif" font-size="10" fill="#666">• Avviksanalyse</text>
+    <text x="10" y="85" font-family="Arial, sans-serif" font-size="10" fill="#666">• Trendvurdering</text>
+  </g>
+  
+  <!-- Arrow down -->
+  <line x1="600" y1="170" x2="600" y2="210" stroke="#1976d2" stroke-width="3" marker-end="url(#flowArrow)"/>
+  
+  <!-- Step 4: Report Preparation -->
+  <g transform="translate(510, 220)">
+    <rect x="0" y="0" width="180" height="100" fill="url(#stepGrad)" stroke="#c2185b" stroke-width="2" rx="8"/>
+    <circle cx="90" cy="25" r="15" fill="#c2185b"/>
+    <text x="90" y="30" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">4</text>
+    
+    <text x="90" y="50" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#333">
+      Rapportutarbeidelse
+    </text>
+    <text x="10" y="70" font-family="Arial, sans-serif" font-size="10" fill="#666">• Finansielle oppstillinger</text>
+    <text x="10" y="85" font-family="Arial, sans-serif" font-size="10" fill="#666">• Kommentarer</text>
+  </g>
+  
+  <!-- Arrow left -->
+  <line x1="510" y1="270" x2="470" y2="270" stroke="#1976d2" stroke-width="3" marker-end="url(#flowArrow)"/>
+  
+  <!-- Step 5: Quality Control -->
+  <g transform="translate(280, 220)">
+    <rect x="0" y="0" width="180" height="100" fill="url(#stepGrad)" stroke="#9c27b0" stroke-width="2" rx="8"/>
+    <circle cx="90" cy="25" r="15" fill="#9c27b0"/>
+    <text x="90" y="30" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">5</text>
+    
+    <text x="90" y="50" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#333">
+      Kvalitetssikring
+    </text>
+    <text x="10" y="70" font-family="Arial, sans-serif" font-size="10" fill="#666">• Internkontroll</text>
+    <text x="10" y="85" font-family="Arial, sans-serif" font-size="10" fill="#666">• Godkjenning</text>
+  </g>
+  
+  <!-- Arrow left -->
+  <line x1="280" y1="270" x2="240" y2="270" stroke="#1976d2" stroke-width="3" marker-end="url(#flowArrow)"/>
+  
+  <!-- Step 6: Publication -->
+  <g transform="translate(50, 220)">
+    <rect x="0" y="0" width="180" height="100" fill="url(#stepGrad)" stroke="#607d8b" stroke-width="2" rx="8"/>
+    <circle cx="90" cy="25" r="15" fill="#607d8b"/>
+    <text x="90" y="30" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">6</text>
+    
+    <text x="90" y="50" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#333">
+      Publisering
+    </text>
+    <text x="10" y="70" font-family="Arial, sans-serif" font-size="10" fill="#666">• Oslo Børs</text>
+    <text x="10" y="85" font-family="Arial, sans-serif" font-size="10" fill="#666">• Interessenter</text>
+  </g>
+  
+  <!-- Timeline indicators -->
+  <g transform="translate(50, 350)">
+    <text x="0" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#333">Typisk Tidsramme:</text>
+    
+    <!-- Week indicators -->
+    <rect x="0" y="40" width="150" height="30" fill="#e8f5e8" stroke="#4caf50" stroke-width="1" rx="4"/>
+    <text x="75" y="58" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#2e7d32">Uke 1-2</text>
+    
+    <rect x="170" y="40" width="150" height="30" fill="#fff3e0" stroke="#ff9800" stroke-width="1" rx="4"/>
+    <text x="245" y="58" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#f57c00">Uke 3-4</text>
+    
+    <rect x="340" y="40" width="150" height="30" fill="#fce4ec" stroke="#e91e63" stroke-width="1" rx="4"/>
+    <text x="415" y="58" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#c2185b">Uke 5-6</text>
+    
+    <rect x="510" y="40" width="150" height="30" fill="#e3f2fd" stroke="#2196f3" stroke-width="1" rx="4"/>
+    <text x="585" y="58" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1976d2">Uke 7-8</text>
+    
+    <text x="0" y="95" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      Datainnsamling → Avstemming → Analyse → Rapportering → Kvalitetssikring → Publisering
+    </text>
+  </g>
+  
+  <!-- Key stakeholders -->
+  <g transform="translate(50, 420)">
+    <text x="0" y="0" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">Involverte parter:</text>
+    <text x="0" y="18" font-family="Arial, sans-serif" font-size="11" fill="#666">• Regnskapsavdeling • Økonomisjef • Ledelse • Revisor • Styre</text>
+  </g>
+</svg>

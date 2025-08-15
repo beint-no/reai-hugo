@@ -1,0 +1,92 @@
+<svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="400" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c3e50">
+    EKSEMPEL AVSKRIVNINGSPLAN - LINEÆR METODE
+  </text>
+  
+  <!-- Table header -->
+  <rect x="50" y="60" width="700" height="40" fill="#34495e" rx="5"/>
+  <text x="100" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">ÅR</text>
+  <text x="200" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">BOKFØRT VERDI</text>
+  <text x="300" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">AVSKRIVNING</text>
+  <text x="450" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">AKKUMULERTE AVSKRIVNINGER</text>
+  <text x="650" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">BOKFØRT VERDI</text>
+  
+  <!-- Table rows -->
+  <!-- Year 0 -->
+  <rect x="50" y="100" width="700" height="30" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
+  <text x="100" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">0</text>
+  <text x="200" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">500.000</text>
+  <text x="300" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">-</text>
+  <text x="450" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">-</text>
+  <text x="650" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2c3e50">500.000</text>
+  
+  <!-- Year 1 -->
+  <rect x="50" y="130" width="700" height="30" fill="white" stroke="#bdc3c7" stroke-width="1"/>
+  <text x="100" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">1</text>
+  <text x="200" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">500.000</text>
+  <text x="300" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#e74c3c">90.000</text>
+  <text x="450" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">90.000</text>
+  <text x="650" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#27ae60">410.000</text>
+  
+  <!-- Year 2 -->
+  <rect x="50" y="160" width="700" height="30" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
+  <text x="100" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">2</text>
+  <text x="200" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">500.000</text>
+  <text x="300" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#e74c3c">90.000</text>
+  <text x="450" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">180.000</text>
+  <text x="650" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#27ae60">320.000</text>
+  
+  <!-- Year 3 -->
+  <rect x="50" y="190" width="700" height="30" fill="white" stroke="#bdc3c7" stroke-width="1"/>
+  <text x="100" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">3</text>
+  <text x="200" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">500.000</text>
+  <text x="300" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#e74c3c">90.000</text>
+  <text x="450" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">270.000</text>
+  <text x="650" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#27ae60">230.000</text>
+  
+  <!-- Year 4 -->
+  <rect x="50" y="220" width="700" height="30" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
+  <text x="100" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">4</text>
+  <text x="200" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">500.000</text>
+  <text x="300" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#e74c3c">90.000</text>
+  <text x="450" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">360.000</text>
+  <text x="650" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#27ae60">140.000</text>
+  
+  <!-- Year 5 -->
+  <rect x="50" y="250" width="700" height="30" fill="white" stroke="#bdc3c7" stroke-width="1"/>
+  <text x="100" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">5</text>
+  <text x="200" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">500.000</text>
+  <text x="300" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#e74c3c">90.000</text>
+  <text x="450" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">450.000</text>
+  <text x="650" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#f39c12">50.000</text>
+  
+  <!-- Calculation details -->
+  <rect x="100" y="300" width="600" height="80" fill="#ecf0f1" rx="10" stroke="#bdc3c7" stroke-width="2"/>
+  <text x="400" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+    BEREGNINGSGRUNNLAG
+  </text>
+  
+  <text x="150" y="345" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+    • Anskaffelseskost: 500.000 kr
+  </text>
+  <text x="150" y="360" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+    • Forventet brukstid: 5 år
+  </text>
+  <text x="150" y="375" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+    • Restverdi: 50.000 kr
+  </text>
+  
+  <text x="450" y="345" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e74c3c">
+    Årlig avskrivning:
+  </text>
+  <text x="450" y="360" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+    (500.000 - 50.000) ÷ 5 = 90.000 kr
+  </text>
+  <text x="450" y="375" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+    Lineær avskrivning over 5 år
+  </text>
+</svg>

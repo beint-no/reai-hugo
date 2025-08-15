@@ -1,0 +1,152 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="positiveGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2E7D32;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="negativeGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF5722;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#D32F2F;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="neutralGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1976D2;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+    Provisjon og Kontantstrøm Impact
+  </text>
+  
+  <!-- Cash Flow Timeline -->
+  <line x1="50" y1="100" x2="750" y2="100" stroke="#34495e" stroke-width="3"/>
+  
+  <!-- Time markers -->
+  <text x="100" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#34495e">Jan</text>
+  <text x="200" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#34495e">Feb</text>
+  <text x="300" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#34495e">Mar</text>
+  <text x="400" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#34495e">Apr</text>
+  <text x="500" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#34495e">Mai</text>
+  <text x="600" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#34495e">Jun</text>
+  <text x="700" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#34495e">Jul</text>
+  
+  <!-- Positive Effects Section -->
+  <rect x="50" y="130" width="340" height="200" fill="url(#positiveGradient)" opacity="0.1" rx="10"/>
+  <text x="220" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2E7D32">
+    Positive Kontantstrømeffekter
+  </text>
+  
+  <!-- Variable cost bars -->
+  <rect x="80" y="170" width="20" height="40" fill="#4CAF50"/>
+  <rect x="120" y="170" width="20" height="60" fill="#4CAF50"/>
+  <rect x="160" y="170" width="20" height="35" fill="#4CAF50"/>
+  <rect x="200" y="170" width="20" height="80" fill="#4CAF50"/>
+  <rect x="240" y="170" width="20" height="50" fill="#4CAF50"/>
+  <rect x="280" y="170" width="20" height="70" fill="#4CAF50"/>
+  
+  <text x="80" y="230" font-family="Arial, sans-serif" font-size="10" fill="#2E7D32">Variable</text>
+  <text x="80" y="242" font-family="Arial, sans-serif" font-size="10" fill="#2E7D32">kostnader</text>
+  
+  <text x="80" y="260" font-family="Arial, sans-serif" font-size="11" fill="#2E7D32">✓ Følger revenue</text>
+  <text x="80" y="275" font-family="Arial, sans-serif" font-size="11" fill="#2E7D32">✓ Reduserte faste kostnader</text>
+  <text x="80" y="290" font-family="Arial, sans-serif" font-size="11" fill="#2E7D32">✓ Tilpasset incentiver</text>
+  
+  <!-- Challenges Section -->
+  <rect x="410" y="130" width="340" height="200" fill="url(#negativeGradient)" opacity="0.1" rx="10"/>
+  <text x="580" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#D32F2F">
+    Kontantstrøm Utfordringer
+  </text>
+  
+  <!-- Lump sum payment illustration -->
+  <rect x="450" y="170" width="15" height="20" fill="#FF5722"/>
+  <rect x="470" y="170" width="15" height="25" fill="#FF5722"/>
+  <rect x="490" y="170" width="15" height="15" fill="#FF5722"/>
+  <rect x="510" y="170" width="15" height="90" fill="#FF5722"/> <!-- Large payment -->
+  <rect x="530" y="170" width="15" height="30" fill="#FF5722"/>
+  <rect x="550" y="170" width="15" height="20" fill="#FF5722"/>
+  
+  <text x="450" y="280" font-family="Arial, sans-serif" font-size="10" fill="#D32F2F">Lumpsum</text>
+  <text x="450" y="292" font-family="Arial, sans-serif" font-size="10" fill="#D32F2F">payments</text>
+  
+  <text x="450" y="310" font-family="Arial, sans-serif" font-size="11" fill="#D32F2F">⚠ Store salg = store utbetalinger</text>
+  
+  <!-- Seasonal variations -->
+  <path d="M 600 200 Q 620 180 640 200 Q 660 220 680 200 Q 700 180 720 200" stroke="#FF5722" stroke-width="2" fill="none"/>
+  <text x="600" y="235" font-family="Arial, sans-serif" font-size="10" fill="#D32F2F">Sesongvariasjoner</text>
+  
+  <!-- Timing mismatch -->
+  <rect x="600" y="250" width="80" height="20" fill="#FF5722" opacity="0.3"/>
+  <text x="600" y="245" font-family="Arial, sans-serif" font-size="9" fill="#D32F2F">Forsinket innkreving</text>
+  <text x="600" y="265" font-family="Arial, sans-serif" font-size="9" fill="#D32F2F">vs øyeblikkelig provisjon</text>
+  
+  <!-- Liquidity Planning Section -->
+  <rect x="50" y="350" width="700" height="220" fill="url(#neutralGradient)" opacity="0.1" rx="10"/>
+  <text x="400" y="375" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1976D2">
+    Likviditetsplanlegging
+  </text>
+  
+  <!-- Planning elements -->
+  <circle cx="150" cy="410" r="30" fill="#2196F3" opacity="0.8"/>
+  <text x="150" y="415" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white" font-weight="bold">
+    Maksimum
+  </text>
+  <text x="150" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white" font-weight="bold">
+    Provisjoner
+  </text>
+  <text x="150" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#1976D2">
+    Gode perioder
+  </text>
+  
+  <circle cx="400" cy="410" r="30" fill="#2196F3" opacity="0.8"/>
+  <text x="400" y="415" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white" font-weight="bold">
+    Minimum
+  </text>
+  <text x="400" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white" font-weight="bold">
+    Kontanter
+  </text>
+  <text x="400" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#1976D2">
+    Utbetalinger
+  </text>
+  
+  <circle cx="650" cy="410" r="30" fill="#2196F3" opacity="0.8"/>
+  <text x="650" y="415" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white" font-weight="bold">
+    Kreditt
+  </text>
+  <text x="650" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white" font-weight="bold">
+    Fasiliteter
+  </text>
+  <text x="650" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#1976D2">
+    Timing mismatch
+  </text>
+  
+  <!-- Arrows connecting planning elements -->
+  <path d="M 180 410 Q 220 390 260 410" stroke="#1976D2" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  <path d="M 430 410 Q 480 390 520 410" stroke="#1976D2" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Arrow marker -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#1976D2"/>
+    </marker>
+  </defs>
+  
+  <!-- Cash flow balance illustration -->
+  <rect x="150" y="490" width="500" height="30" fill="#ecf0f1" stroke="#34495e" stroke-width="1"/>
+  <rect x="150" y="490" width="200" height="30" fill="#e74c3c" opacity="0.7"/>
+  <rect x="350" y="490" width="150" height="30" fill="#f39c12" opacity="0.7"/>
+  <rect x="500" y="490" width="150" height="30" fill="#27ae60" opacity="0.7"/>
+  
+  <text x="150" y="485" font-family="Arial, sans-serif" font-size="10" fill="#34495e">Kontantstrøm balanse:</text>
+  <text x="180" y="540" font-family="Arial, sans-serif" font-size="9" fill="#e74c3c">Utfordringer</text>
+  <text x="380" y="540" font-family="Arial, sans-serif" font-size="9" fill="#f39c12">Planlegging</text>
+  <text x="540" y="540" font-family="Arial, sans-serif" font-size="9" fill="#27ae60">Optimalisering</text>
+  
+  <!-- Key insights -->
+  <text x="50" y="570" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+    Nøkkel: Provisjon krever strategisk kontantstrømhåndtering for å balansere variabel kompensasjon med likviditetsbehov
+  </text>
+</svg>

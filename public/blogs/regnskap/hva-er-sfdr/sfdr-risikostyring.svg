@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">SFDR Risikostyring</text>
+  
+  <!-- Main Risk Management Framework -->
+  <rect x="50" y="60" width="700" height="480" fill="#ffffff" stroke="#3498db" stroke-width="2" rx="10"/>
+  
+  <!-- Traditional Risk Management (Left Side) -->
+  <rect x="80" y="90" width="320" height="420" fill="#ecf0f1" stroke="#7f8c8d" stroke-width="1" rx="5"/>
+  <text x="240" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">Tradisjonell Risikostyring</text>
+  
+  <!-- Traditional Risk Types -->
+  <rect x="100" y="140" width="280" height="60" fill="#3498db" stroke="#2980b9" stroke-width="1" rx="5"/>
+  <text x="240" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Markedsrisiko</text>
+  <text x="240" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Prisvolatilitet og markedsendringer</text>
+  
+  <rect x="100" y="220" width="280" height="60" fill="#e74c3c" stroke="#c0392b" stroke-width="1" rx="5"/>
+  <text x="240" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Kredittrisiko</text>
+  <text x="240" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Misligholdelse og kreditttap</text>
+  
+  <rect x="100" y="300" width="280" height="60" fill="#f39c12" stroke="#d68910" stroke-width="1" rx="5"/>
+  <text x="240" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Operasjonell Risiko</text>
+  <text x="240" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Prosessfeil og systemsvikt</text>
+  
+  <rect x="100" y="380" width="280" height="60" fill="#9b59b6" stroke="#8e44ad" stroke-width="1" rx="5"/>
+  <text x="240" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Likviditetsrisiko</text>
+  <text x="240" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Finansieringsutfordringer</text>
+  
+  <!-- SFDR Enhanced Risk Management (Right Side) -->
+  <rect x="420" y="90" width="320" height="420" fill="#e8f5e8" stroke="#27ae60" stroke-width="1" rx="5"/>
+  <text x="580" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">SFDR Risikostyring</text>
+  
+  <!-- ESG Integrated Risk Types -->
+  <rect x="440" y="140" width="280" height="60" fill="#27ae60" stroke="#229954" stroke-width="1" rx="5"/>
+  <text x="580" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Fysisk Klimarisiko</text>
+  <text x="580" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Ekstremvær og naturkatastrofer</text>
+  
+  <rect x="440" y="220" width="280" height="60" fill="#16a085" stroke="#138d75" stroke-width="1" rx="5"/>
+  <text x="580" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Overgangsrisiko</text>
+  <text x="580" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Regulatorisk og teknologisk skifte</text>
+  
+  <rect x="440" y="300" width="280" height="60" fill="#2ecc71" stroke="#27ae60" stroke-width="1" rx="5"/>
+  <text x="580" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Sosial Risiko</text>
+  <text x="580" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Arbeidskonflikter og sosiale forhold</text>
+  
+  <rect x="440" y="380" width="280" height="60" fill="#58d68d" stroke="#52c370" stroke-width="1" rx="5"/>
+  <text x="580" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Governance-risiko</text>
+  <text x="580" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Styringsfeil og omdømmerisiko</text>
+  
+  <!-- Integration Arrows -->
+  <path d="M 400 170 L 440 170" stroke="#34495e" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  <path d="M 400 250 L 440 250" stroke="#34495e" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  <path d="M 400 330 L 440 330" stroke="#34495e" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  <path d="M 400 410 L 440 410" stroke="#34495e" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>
+    </marker>
+  </defs>
+  
+  <!-- Integration Label -->
+  <text x="400" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#27ae60">ESG-integrering</text>
+  
+  <!-- Key Components at Bottom -->
+  <rect x="50" y="550" width="700" height="40" fill="#ffffff" stroke="#bdc3c7" stroke-width="1" rx="5"/>
+  <text x="70" y="565" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#2c3e50">Nøkkelkomponenter:</text>
+  <text x="70" y="578" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• PAI-rapportering • Bærekraftsintegrasjon • Due diligence • Risikoscenarier • Kapitallokering</text>
+  
+  <!-- Legend -->
+  <rect x="580" y="465" width="150" height="70" fill="#ffffff" stroke="#bdc3c7" stroke-width="1" rx="3"/>
+  <text x="590" y="480" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#2c3e50">Forklaring:</text>
+  <rect x="590" y="485" width="12" height="8" fill="#3498db"/>
+  <text x="610" y="492" font-family="Arial, sans-serif" font-size="8" fill="#2c3e50">Tradisjonell risiko</text>
+  <rect x="590" y="498" width="12" height="8" fill="#27ae60"/>
+  <text x="610" y="505" font-family="Arial, sans-serif" font-size="8" fill="#2c3e50">SFDR-risiko</text>
+  <text x="590" y="520" font-family="Arial, sans-serif" font-size="8" fill="#2c3e50">→ Integrering</text>
+</svg>

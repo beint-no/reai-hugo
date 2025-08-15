@@ -1,0 +1,102 @@
+<svg width="700" height="500" viewBox="0 0 700 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="700" height="500" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="350" y="30" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c3e50" text-anchor="middle">
+    Feriepenger Beregning inkl. Helligdagslønn
+  </text>
+  
+  <!-- Income components -->
+  <rect x="50" y="60" width="600" height="200" fill="#ffffff" stroke="#3498db" stroke-width="2" rx="10"/>
+  <text x="350" y="85" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50" text-anchor="middle">
+    Feriepengegivende Inntekt
+  </text>
+  
+  <!-- Regular salary -->
+  <rect x="80" y="110" width="250" height="60" fill="#3498db" rx="5"/>
+  <text x="205" y="130" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white" text-anchor="middle">
+    Ordinær Lønn
+  </text>
+  <text x="205" y="145" font-family="Arial, sans-serif" font-size="11" fill="white" text-anchor="middle">
+    Jan-Des: 480 000 kr
+  </text>
+  <text x="205" y="160" font-family="Arial, sans-serif" font-size="10" fill="white" text-anchor="middle">
+    (40 000 kr × 12 mnd)
+  </text>
+  
+  <!-- Holiday wages -->
+  <rect x="370" y="110" width="250" height="60" fill="#e74c3c" rx="5"/>
+  <text x="495" y="130" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white" text-anchor="middle">
+    Helligdagslønn
+  </text>
+  <text x="495" y="145" font-family="Arial, sans-serif" font-size="11" fill="white" text-anchor="middle">
+    14 helligdager: 28 000 kr
+  </text>
+  <text x="495" y="160" font-family="Arial, sans-serif" font-size="10" fill="white" text-anchor="middle">
+    (2 000 kr × 14 dager)
+  </text>
+  
+  <!-- Overtime on holidays -->
+  <rect x="80" y="190" width="250" height="60" fill="#f39c12" rx="5"/>
+  <text x="205" y="210" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white" text-anchor="middle">
+    Overtid på Helligdager
+  </text>
+  <text x="205" y="225" font-family="Arial, sans-serif" font-size="11" fill="white" text-anchor="middle">
+    5 dager: 15 000 kr
+  </text>
+  <text x="205" y="240" font-family="Arial, sans-serif" font-size="10" fill="white" text-anchor="middle">
+    (3 000 kr × 5 dager)
+  </text>
+  
+  <!-- Holiday supplement -->
+  <rect x="370" y="190" width="250" height="60" fill="#9b59b6" rx="5"/>
+  <text x="495" y="210" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white" text-anchor="middle">
+    Helligdagstillegg
+  </text>
+  <text x="495" y="225" font-family="Arial, sans-serif" font-size="11" fill="white" text-anchor="middle">
+    Arbeid på helligdag: 10 000 kr
+  </text>
+  <text x="495" y="240" font-family="Arial, sans-serif" font-size="10" fill="white" text-anchor="middle">
+    (100% tillegg × 5 dager)
+  </text>
+  
+  <!-- Arrow down -->
+  <path d="M 350 280 L 350 310" stroke="#7f8c8d" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Calculation section -->
+  <rect x="50" y="320" width="600" height="120" fill="#ecf0f1" stroke="#27ae60" stroke-width="2" rx="10"/>
+  <text x="350" y="345" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50" text-anchor="middle">
+    Feriepenger Beregning
+  </text>
+  
+  <!-- Calculation details -->
+  <text x="80" y="370" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+    Total feriepengegivende inntekt: 480 000 + 28 000 + 15 000 + 10 000 = 533 000 kr
+  </text>
+  
+  <text x="80" y="390" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+    Feriepenger (12%): 533 000 × 0,12 = 63 960 kr
+  </text>
+  
+  <text x="80" y="410" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+    Arbeidsgiveravgift på feriepenger (14,1%): 63 960 × 0,141 = 9 018 kr
+  </text>
+  
+  <text x="80" y="430" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#e74c3c">
+    Total feriepengekostnad: 72 978 kr
+  </text>
+  
+  <!-- Monthly accrual -->
+  <rect x="50" y="460" width="600" height="30" fill="#27ae60" rx="5"/>
+  <text x="350" y="480" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white" text-anchor="middle">
+    Månedlig avsetning: 72 978 ÷ 12 = 6 082 kr per måned
+  </text>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#7f8c8d"/>
+    </marker>
+  </defs>
+</svg>

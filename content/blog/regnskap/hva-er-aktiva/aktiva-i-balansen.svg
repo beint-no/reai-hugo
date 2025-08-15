@@ -1,0 +1,124 @@
+<svg width="600" height="500" viewBox="0 0 600 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="600" height="500" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="300" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+    Aktiva i Balansen
+  </text>
+  
+  <!-- Balance sheet structure -->
+  <rect x="50" y="70" width="500" height="400" fill="white" stroke="#2c3e50" stroke-width="2" rx="10"/>
+  
+  <!-- Header -->
+  <rect x="50" y="70" width="500" height="40" fill="#34495e" rx="10 10 0 0"/>
+  <text x="300" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+    BALANSE - AKTIVA
+  </text>
+  
+  <!-- Anleggsmidler section -->
+  <rect x="70" y="130" width="460" height="30" fill="#3498db" opacity="0.8"/>
+  <text x="90" y="150" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    ANLEGGSMIDLER
+  </text>
+  
+  <!-- Immaterielle eiendeler -->
+  <text x="90" y="175" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+    Immaterielle eiendeler
+  </text>
+  <text x="90" y="195" font-family="Arial, sans-serif" font-size="11" fill="#7f8c8d">
+    - Goodwill
+  </text>
+  <text x="450" y="195" font-family="Arial, sans-serif" font-size="11" fill="#7f8c8d" text-anchor="end">
+    500.000
+  </text>
+  <text x="90" y="210" font-family="Arial, sans-serif" font-size="11" fill="#7f8c8d">
+    - Programvare
+  </text>
+  <text x="450" y="210" font-family="Arial, sans-serif" font-size="11" fill="#7f8c8d" text-anchor="end">
+    200.000
+  </text>
+  <line x1="350" y1="220" x2="460" y2="220" stroke="#2c3e50" stroke-width="1"/>
+  <text x="450" y="235" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50" text-anchor="end" font-weight="bold">
+    700.000
+  </text>
+  
+  <!-- Varige driftsmidler -->
+  <text x="90" y="255" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+    Varige driftsmidler
+  </text>
+  <text x="90" y="275" font-family="Arial, sans-serif" font-size="11" fill="#7f8c8d">
+    - Bygninger
+  </text>
+  <text x="450" y="275" font-family="Arial, sans-serif" font-size="11" fill="#7f8c8d" text-anchor="end">
+    2.500.000
+  </text>
+  <text x="90" y="290" font-family="Arial, sans-serif" font-size="11" fill="#7f8c8d">
+    - Maskiner og utstyr
+  </text>
+  <text x="450" y="290" font-family="Arial, sans-serif" font-size="11" fill="#7f8c8d" text-anchor="end">
+    1.200.000
+  </text>
+  <line x1="350" y1="300" x2="460" y2="300" stroke="#2c3e50" stroke-width="1"/>
+  <text x="450" y="315" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50" text-anchor="end" font-weight="bold">
+    3.700.000
+  </text>
+  
+  <!-- Sum anleggsmidler -->
+  <line x1="300" y1="330" x2="460" y2="330" stroke="#2c3e50" stroke-width="2"/>
+  <text x="300" y="345" font-family="Arial, sans-serif" font-size="13" fill="#2c3e50" font-weight="bold">
+    SUM ANLEGGSMIDLER
+  </text>
+  <text x="450" y="345" font-family="Arial, sans-serif" font-size="13" fill="#2c3e50" text-anchor="end" font-weight="bold">
+    4.400.000
+  </text>
+  
+  <!-- Omløpsmidler section -->
+  <rect x="70" y="360" width="460" height="30" fill="#e74c3c" opacity="0.8"/>
+  <text x="90" y="380" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    OMLØPSMIDLER
+  </text>
+  
+  <!-- Varer -->
+  <text x="90" y="405" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+    Varer
+  </text>
+  <text x="450" y="405" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50" text-anchor="end">
+    800.000
+  </text>
+  
+  <!-- Fordringer -->
+  <text x="90" y="425" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+    Kundefordringer
+  </text>
+  <text x="450" y="425" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50" text-anchor="end">
+    600.000
+  </text>
+  
+  <!-- Bankinnskudd -->
+  <text x="90" y="445" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+    Bankinnskudd
+  </text>
+  <text x="450" y="445" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50" text-anchor="end">
+    400.000
+  </text>
+  
+  <!-- Sum omløpsmidler -->
+  <line x1="300" y1="455" x2="460" y2="455" stroke="#2c3e50" stroke-width="1"/>
+  <text x="300" y="470" font-family="Arial, sans-serif" font-size="13" fill="#2c3e50" font-weight="bold">
+    SUM OMLØPSMIDLER
+  </text>
+  <text x="450" y="470" font-family="Arial, sans-serif" font-size="13" fill="#2c3e50" text-anchor="end" font-weight="bold">
+    1.800.000
+  </text>
+  
+  <!-- Total aktiva -->
+  <line x1="200" y1="480" x2="460" y2="480" stroke="#2c3e50" stroke-width="3"/>
+  <line x1="200" y1="485" x2="460" y2="485" stroke="#2c3e50" stroke-width="1"/>
+  <text x="200" y="500" font-family="Arial, sans-serif" font-size="16" fill="#2c3e50" font-weight="bold">
+    SUM AKTIVA
+  </text>
+  <text x="450" y="500" font-family="Arial, sans-serif" font-size="16" fill="#2c3e50" text-anchor="end" font-weight="bold">
+    6.200.000
+  </text>
+</svg>

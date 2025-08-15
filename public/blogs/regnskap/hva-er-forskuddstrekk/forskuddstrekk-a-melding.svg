@@ -1,0 +1,177 @@
+<svg width="700" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="700" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="700" height="60" fill="url(#headerGradient)"/>
+  
+  <!-- Title -->
+  <text x="350" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
+    Forskuddstrekk i A-meldingen
+  </text>
+  
+  <!-- Main content -->
+  <g transform="translate(50, 80)">
+    
+    <!-- Monthly process -->
+    <rect x="0" y="0" width="600" height="350" fill="white" stroke="#dee2e6" stroke-width="2" rx="10"/>
+    <text x="300" y="25" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#333">
+      Månedlig Rapporteringsprosess
+    </text>
+    
+    <!-- Step 1: Payroll calculation -->
+    <g transform="translate(30, 50)">
+      <rect x="0" y="0" width="120" height="80" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="8"/>
+      <text x="60" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#1565c0">
+        1. LØNNSKJØRING
+      </text>
+      <text x="10" y="40" font-family="Arial, sans-serif" font-size="10" fill="#333">
+        • Beregn bruttolønn
+      </text>
+      <text x="10" y="55" font-family="Arial, sans-serif" font-size="10" fill="#333">
+        • Anvend trekkprosent
+      </text>
+      <text x="10" y="70" font-family="Arial, sans-serif" font-size="10" fill="#333">
+        • Trekk forskuddstrekk
+      </text>
+    </g>
+    
+    <!-- Arrow 1 -->
+    <g transform="translate(160, 85)">
+      <line x1="0" y1="0" x2="30" y2="0" stroke="#28a745" stroke-width="3" marker-end="url(#arrowhead)"/>
+    </g>
+    
+    <!-- Step 2: A-melding preparation -->
+    <g transform="translate(200, 50)">
+      <rect x="0" y="0" width="120" height="80" fill="#d4edda" stroke="#28a745" stroke-width="2" rx="8"/>
+      <text x="60" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#155724">
+        2. A-MELDING
+      </text>
+      <text x="10" y="40" font-family="Arial, sans-serif" font-size="10" fill="#333">
+        • Samle lønnsdata
+      </text>
+      <text x="10" y="55" font-family="Arial, sans-serif" font-size="10" fill="#333">
+        • Rapporter trekk
+      </text>
+      <text x="10" y="70" font-family="Arial, sans-serif" font-size="10" fill="#333">
+        • Send innen 5.
+      </text>
+    </g>
+    
+    <!-- Arrow 2 -->
+    <g transform="translate(330, 85)">
+      <line x1="0" y1="0" x2="30" y2="0" stroke="#dc3545" stroke-width="3" marker-end="url(#arrowhead2)"/>
+    </g>
+    
+    <!-- Step 3: Payment -->
+    <g transform="translate(370, 50)">
+      <rect x="0" y="0" width="120" height="80" fill="#ffebee" stroke="#dc3545" stroke-width="2" rx="8"/>
+      <text x="60" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#c62828">
+        3. INNBETALING
+      </text>
+      <text x="10" y="40" font-family="Arial, sans-serif" font-size="10" fill="#333">
+        • Betal til Skatteetaten
+      </text>
+      <text x="10" y="55" font-family="Arial, sans-serif" font-size="10" fill="#333">
+        • Frist 15. i måneden
+      </text>
+      <text x="10" y="70" font-family="Arial, sans-serif" font-size="10" fill="#333">
+        • Unngå forsinkelse
+      </text>
+    </g>
+    
+    <!-- Information reported -->
+    <rect x="30" y="150" width="540" height="180" fill="#f8f9fa" stroke="#6c757d" stroke-width="1" rx="8"/>
+    <text x="300" y="175" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#333">
+      Informasjon som Rapporteres i A-meldingen
+    </text>
+    
+    <!-- Left column -->
+    <g transform="translate(50, 190)">
+      <text x="0" y="0" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0066cc">
+        Arbeidsgiverdata:
+      </text>
+      <text x="0" y="20" font-family="Arial, sans-serif" font-size="11" fill="#333">
+        • Organisasjonsnummer
+      </text>
+      <text x="0" y="35" font-family="Arial, sans-serif" font-size="11" fill="#333">
+        • Kontaktinformasjon
+      </text>
+      <text x="0" y="50" font-family="Arial, sans-serif" font-size="11" fill="#333">
+        • Rapporteringsperiode
+      </text>
+      
+      <text x="0" y="80" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0066cc">
+        Forskuddstrekkdata:
+      </text>
+      <text x="0" y="100" font-family="Arial, sans-serif" font-size="11" fill="#333">
+        • Trekkgrunnlag per ansatt
+      </text>
+      <text x="0" y="115" font-family="Arial, sans-serif" font-size="11" fill="#333">
+        • Anvendt trekkprosent
+      </text>
+      <text x="0" y="130" font-family="Arial, sans-serif" font-size="11" fill="#333">
+        • Beregnet forskuddstrekk
+      </text>
+    </g>
+    
+    <!-- Right column -->
+    <g transform="translate(320, 190)">
+      <text x="0" y="0" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0066cc">
+        Ansattdata:
+      </text>
+      <text x="0" y="20" font-family="Arial, sans-serif" font-size="11" fill="#333">
+        • Fødselsnummer
+      </text>
+      <text x="0" y="35" font-family="Arial, sans-serif" font-size="11" fill="#333">
+        • Arbeidsforholdstype
+      </text>
+      <text x="0" y="50" font-family="Arial, sans-serif" font-size="11" fill="#333">
+        • Utbetalt bruttolønn
+      </text>
+      
+      <text x="0" y="80" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0066cc">
+        Kontrollinformasjon:
+      </text>
+      <text x="0" y="100" font-family="Arial, sans-serif" font-size="11" fill="#333">
+        • Tabellnummer fra skattekort
+      </text>
+      <text x="0" y="115" font-family="Arial, sans-serif" font-size="11" fill="#333">
+        • Eventuelle korrigeringer
+      </text>
+      <text x="0" y="130" font-family="Arial, sans-serif" font-size="11" fill="#333">
+        • Naturalytelser
+      </text>
+    </g>
+    
+    <!-- Important note -->
+    <rect x="30" y="350" width="540" height="50" fill="#fff3cd" stroke="#856404" stroke-width="1" rx="5"/>
+    <text x="300" y="370" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#856404">
+      Viktig: A-meldingen må sendes selv om det ikke har vært lønnsutbetalinger
+    </text>
+    <text x="300" y="385" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#856404">
+      (null-melding for å bekrefte at arbeidsforholdet fortsatt består)
+    </text>
+  </g>
+  
+  <!-- Arrow markers -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#28a745"/>
+    </marker>
+    <marker id="arrowhead2" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#dc3545"/>
+    </marker>
+  </defs>
+</svg>

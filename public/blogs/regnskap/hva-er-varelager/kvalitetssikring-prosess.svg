@@ -1,0 +1,161 @@
+<svg width="600" height="400" viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="qualityGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0f766e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#14b8a6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="600" height="400" fill="#ffffff"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="600" height="50" fill="url(#qualityGrad)"/>
+  <text x="300" y="30" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="18" font-weight="bold">Kvalitetssikring i Lageroperasjoner</text>
+  
+  <!-- Receiving Inspection -->
+  <rect x="30" y="80" width="130" height="100" fill="#ecfdf5" stroke="#10b981" stroke-width="2" rx="8"/>
+  <text x="95" y="105" text-anchor="middle" fill="#047857" font-family="Arial, sans-serif" font-size="12" font-weight="bold">MOTTAKSKONTROLL</text>
+  
+  <!-- Inspection checklist -->
+  <rect x="70" y="115" width="50" height="35" fill="white" stroke="#10b981" rx="3"/>
+  <circle cx="80" cy="125" r="2" fill="#22c55e"/>
+  <text x="85" y="128" fill="#374151" font-family="Arial, sans-serif" font-size="8">Kvantitet</text>
+  <circle cx="80" cy="135" r="2" fill="#22c55e"/>
+  <text x="85" y="138" fill="#374151" font-family="Arial, sans-serif" font-size="8">Kvalitet</text>
+  <circle cx="80" cy="145" r="2" fill="#f59e0b"/>
+  <text x="85" y="148" fill="#374151" font-family="Arial, sans-serif" font-size="8">Dokument</text>
+  
+  <text x="40" y="165" fill="#047857" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Kontrollpunkter:</text>
+  <text x="40" y="177" fill="#374151" font-family="Arial, sans-serif" font-size="8">• Visuell inspeksjon</text>
+  <text x="40" y="187" fill="#374151" font-family="Arial, sans-serif" font-size="8">• Dimensjonskontroll</text>
+  <text x="40" y="197" fill="#374151" font-family="Arial, sans-serif" font-size="8">• Dokumentverifikasjon</text>
+  
+  <!-- Arrow 1 -->
+  <path d="M165 130 L185 130" stroke="#374151" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+  
+  <!-- Sampling -->
+  <rect x="190" y="80" width="130" height="100" fill="#fef3c7" stroke="#f59e0b" stroke-width="2" rx="8"/>
+  <text x="255" y="105" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="12" font-weight="bold">STIKKPRØVEKONTROLL</text>
+  
+  <!-- Sample boxes -->
+  <rect x="230" y="115" width="12" height="12" fill="#f59e0b" stroke="#d97706"/>
+  <rect x="245" y="115" width="12" height="12" fill="#f59e0b" stroke="#d97706"/>
+  <rect x="260" y="115" width="12" height="12" fill="#f59e0b" stroke="#d97706"/>
+  <rect x="230" y="130" width="12" height="12" fill="#f59e0b" stroke="#d97706"/>
+  <rect x="260" y="130" width="12" height="12" fill="#f59e0b" stroke="#d97706"/>
+  
+  <text x="200" y="155" fill="#92400e" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Stikkprøveplan:</text>
+  <text x="200" y="167" fill="#374151" font-family="Arial, sans-serif" font-size="8">• AQL-standard</text>
+  <text x="200" y="177" fill="#374151" font-family="Arial, sans-serif" font-size="8">• Statistisk sampling</text>
+  <text x="200" y="187" fill="#374151" font-family="Arial, sans-serif" font-size="8">• Risikobasert utvelgelse</text>
+  
+  <!-- Arrow 2 -->
+  <path d="M325 130 L345 130" stroke="#374151" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+  
+  <!-- Testing -->
+  <rect x="350" y="80" width="130" height="100" fill="#dbeafe" stroke="#3b82f6" stroke-width="2" rx="8"/>
+  <text x="415" y="105" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="12" font-weight="bold">TESTING/ANALYSE</text>
+  
+  <!-- Testing equipment -->
+  <rect x="395" y="115" width="40" height="25" fill="#3b82f6" rx="3"/>
+  <rect x="400" y="120" width="30" height="3" fill="white"/>
+  <rect x="400" y="125" width="25" height="3" fill="white"/>
+  <rect x="400" y="130" width="20" height="3" fill="white"/>
+  <circle cx="425" cy="125" r="3" fill="#22c55e"/>
+  
+  <text x="360" y="155" fill="#1e40af" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Testmetoder:</text>
+  <text x="360" y="167" fill="#374151" font-family="Arial, sans-serif" font-size="8">• Funksjonstesting</text>
+  <text x="360" y="177" fill="#374151" font-family="Arial, sans-serif" font-size="8">• Materialanalyse</text>
+  <text x="360" y="187" fill="#374151" font-family="Arial, sans-serif" font-size="8">• Sertifikatverifikasjon</text>
+  
+  <!-- Arrow 3 -->
+  <path d="M485 130 L505 130" stroke="#374151" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+  
+  <!-- Decision -->
+  <rect x="510" y="80" width="60" height="100" fill="#f3e8ff" stroke="#a855f7" stroke-width="2" rx="8"/>
+  <text x="540" y="105" text-anchor="middle" fill="#7c3aed" font-family="Arial, sans-serif" font-size="12" font-weight="bold">BESLUTNING</text>
+  
+  <!-- Decision diamond -->
+  <polygon points="540,120 525,135 540,150 555,135" fill="#a855f7"/>
+  <text x="540" y="138" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="8">OK?</text>
+  
+  <text x="518" y="165" fill="#7c3aed" font-family="Arial, sans-serif" font-size="9" font-weight="bold">Alternativer:</text>
+  <text x="518" y="177" fill="#374151" font-family="Arial, sans-serif" font-size="8">• Godkjenn</text>
+  <text x="518" y="187" fill="#374151" font-family="Arial, sans-serif" font-size="8">• Avvis/Retur</text>
+  
+  <!-- Approved path -->
+  <path d="M540 185 L540 205" stroke="#22c55e" stroke-width="2" fill="none" marker-end="url(#arrowGreen)"/>
+  
+  <!-- Approved storage -->
+  <rect x="480" y="210" width="120" height="60" fill="#dcfce7" stroke="#16a34a" stroke-width="2" rx="8"/>
+  <text x="540" y="235" text-anchor="middle" fill="#15803d" font-family="Arial, sans-serif" font-size="12" font-weight="bold">GODKJENT LAGER</text>
+  
+  <!-- Storage boxes -->
+  <rect x="500" y="245" width="15" height="15" fill="#16a34a" rx="2"/>
+  <rect x="520" y="245" width="15" height="15" fill="#16a34a" rx="2"/>
+  <rect x="540" y="245" width="15" height="15" fill="#16a34a" rx="2"/>
+  <rect x="560" y="245" width="15" height="15" fill="#16a34a" rx="2"/>
+  
+  <!-- Rejected path -->
+  <path d="M525 135 L480 135 L480 165" stroke="#ef4444" stroke-width="2" fill="none" marker-end="url(#arrowRed)"/>
+  
+  <!-- Rejection handling -->
+  <rect x="400" y="210" width="120" height="60" fill="#fef2f2" stroke="#ef4444" stroke-width="2" rx="8"/>
+  <text x="460" y="235" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="12" font-weight="bold">AVVIKSHÅNDTERING</text>
+  
+  <text x="410" y="250" fill="#dc2626" font-family="Arial, sans-serif" font-size="9" font-weight="bold">Tiltak:</text>
+  <text x="410" y="262" fill="#374151" font-family="Arial, sans-serif" font-size="8">• Leverandørvarsel</text>
+  <text x="410" y="272" fill="#374151" font-family="Arial, sans-serif" font-size="8">• Returprosess</text>
+  
+  <!-- Quality documentation -->
+  <rect x="280" y="210" width="120" height="60" fill="#f0f9ff" stroke="#0ea5e9" stroke-width="2" rx="8"/>
+  <text x="340" y="235" text-anchor="middle" fill="#0c4a6e" font-family="Arial, sans-serif" font-size="12" font-weight="bold">DOKUMENTASJON</text>
+  
+  <!-- Document icon -->
+  <rect x="325" y="245" width="30" height="20" fill="white" stroke="#0ea5e9"/>
+  <rect x="330" y="250" width="20" height="2" fill="#0ea5e9"/>
+  <rect x="330" y="255" width="15" height="2" fill="#0ea5e9"/>
+  <rect x="330" y="260" width="18" height="2" fill="#0ea5e9"/>
+  
+  <!-- Continuous improvement -->
+  <rect x="30" y="300" width="120" height="60" fill="#fefce8" stroke="#eab308" stroke-width="2" rx="8"/>
+  <text x="90" y="325" text-anchor="middle" fill="#a16207" font-family="Arial, sans-serif" font-size="12" font-weight="bold">KONTINUERLIG</text>
+  <text x="90" y="340" text-anchor="middle" fill="#a16207" font-family="Arial, sans-serif" font-size="12" font-weight="bold">FORBEDRING</text>
+  
+  <!-- Improvement cycle -->
+  <circle cx="90" cy="350" r="8" fill="none" stroke="#eab308" stroke-width="2"/>
+  <path d="M85 345 L95 345" stroke="#eab308" stroke-width="2" marker-end="url(#arrowYellow)"/>
+  
+  <!-- Supplier feedback -->
+  <rect x="160" y="300" width="120" height="60" fill="#e0e7ff" stroke="#6366f1" stroke-width="2" rx="8"/>
+  <text x="220" y="325" text-anchor="middle" fill="#4338ca" font-family="Arial, sans-serif" font-size="12" font-weight="bold">LEVERANDØR</text>
+  <text x="220" y="340" text-anchor="middle" fill="#4338ca" font-family="Arial, sans-serif" font-size="12" font-weight="bold">TILBAKEMELDING</text>
+  
+  <!-- Feedback arrow -->
+  <path d="M220 355 L220 375" stroke="#6366f1" stroke-width="2" fill="none"/>
+  <path d="M210 375 L230 375" stroke="#6366f1" stroke-width="2" fill="none"/>
+  <path d="M215 370 L220 375 L225 370" stroke="#6366f1" stroke-width="2" fill="none"/>
+  
+  <!-- Connection lines -->
+  <path d="M460 275 L340 305" stroke="#64748b" stroke-width="1" stroke-dasharray="3,3"/>
+  <path d="M340 275 L340 305" stroke="#64748b" stroke-width="1" stroke-dasharray="3,3"/>
+  <path d="M340 275 L220 305" stroke="#64748b" stroke-width="1" stroke-dasharray="3,3"/>
+  <path d="M155 240 L90 305" stroke="#64748b" stroke-width="1" stroke-dasharray="3,3"/>
+  
+  <!-- Arrow markers -->
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#374151"/>
+    </marker>
+    <marker id="arrowGreen" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#22c55e"/>
+    </marker>
+    <marker id="arrowRed" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#ef4444"/>
+    </marker>
+    <marker id="arrowYellow" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#eab308"/>
+    </marker>
+  </defs>
+</svg>

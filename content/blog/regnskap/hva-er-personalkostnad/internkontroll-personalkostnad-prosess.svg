@@ -1,0 +1,262 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="processGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2E7D32;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="riskGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF9800;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#F57C00;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="controlGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1976D2;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+    Internkontroll for Personalkostnad
+  </text>
+  
+  <!-- Main Process Flow -->
+  <g>
+    <!-- Autorisasjon og Godkjenning -->
+    <rect x="50" y="70" width="200" height="80" rx="10" fill="url(#processGradient)" stroke="#2E7D32" stroke-width="2"/>
+    <text x="150" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      Autorisasjon og
+    </text>
+    <text x="150" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      Godkjenning
+    </text>
+    <text x="150" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      Ansettelseskontrakter
+    </text>
+    
+    <!-- Kontrollrutiner -->
+    <rect x="300" y="70" width="200" height="80" rx="10" fill="url(#controlGradient)" stroke="#1976D2" stroke-width="2"/>
+    <text x="400" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      Kontrollrutiner
+    </text>
+    <text x="400" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      Månedlig avstemming
+    </text>
+    <text x="400" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      Feriepengeravsetning
+    </text>
+    
+    <!-- Risikoområder -->
+    <rect x="550" y="70" width="200" height="80" rx="10" fill="url(#riskGradient)" stroke="#F57C00" stroke-width="2"/>
+    <text x="650" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      Risikoområder
+    </text>
+    <text x="650" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      Fiktive ansatte
+    </text>
+    <text x="650" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      Feil satser
+    </text>
+  </g>
+  
+  <!-- Arrows between main sections -->
+  <path d="M 250 110 L 290 110" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  <path d="M 500 110 L 540 110" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Detailed Process Steps -->
+  <g>
+    <!-- Left Column: Autorisasjon Details -->
+    <rect x="30" y="200" width="240" height="120" rx="8" fill="white" stroke="#2E7D32" stroke-width="2"/>
+    <text x="150" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2E7D32">
+      Autorisasjonsprosess
+    </text>
+    
+    <circle cx="50" cy="240" r="4" fill="#4CAF50"/>
+    <text x="65" y="245" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      Godkjenning av lønnsvilkår
+    </text>
+    
+    <circle cx="50" cy="260" r="4" fill="#4CAF50"/>
+    <text x="65" y="265" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      Dokumentert lønnsendringer
+    </text>
+    
+    <circle cx="50" cy="280" r="4" fill="#4CAF50"/>
+    <text x="65" y="285" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      Forhåndsgodkjenning overtid
+    </text>
+    
+    <circle cx="50" cy="300" r="4" fill="#4CAF50"/>
+    <text x="65" y="305" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      Oppdatert personelliste
+    </text>
+    
+    <!-- Middle Column: Kontroll Details -->
+    <rect x="280" y="200" width="240" height="120" rx="8" fill="white" stroke="#1976D2" stroke-width="2"/>
+    <text x="400" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1976D2">
+      Kontrollaktiviteter
+    </text>
+    
+    <circle cx="300" cy="240" r="4" fill="#2196F3"/>
+    <text x="315" y="245" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      Lønnssystem vs hovedbok
+    </text>
+    
+    <circle cx="300" cy="260" r="4" fill="#2196F3"/>
+    <text x="315" y="265" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      Feriepengeravsetning beregning
+    </text>
+    
+    <circle cx="300" cy="280" r="4" fill="#2196F3"/>
+    <text x="315" y="285" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      Ansettelser/oppsigelser
+    </text>
+    
+    <circle cx="300" cy="300" r="4" fill="#2196F3"/>
+    <text x="315" y="305" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      Periodiseringskontroll
+    </text>
+    
+    <!-- Right Column: Risk Details -->
+    <rect x="530" y="200" width="240" height="120" rx="8" fill="white" stroke="#F57C00" stroke-width="2"/>
+    <text x="650" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#F57C00">
+      Risikoidentifikasjon
+    </text>
+    
+    <circle cx="550" cy="240" r="4" fill="#FF9800"/>
+    <text x="565" y="245" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      Svindel med fiktive ansatte
+    </text>
+    
+    <circle cx="550" cy="260" r="4" fill="#FF9800"/>
+    <text x="565" y="265" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      Feil arbeidsgiveravgift
+    </text>
+    
+    <circle cx="550" cy="280" r="4" fill="#FF9800"/>
+    <text x="565" y="285" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      Manglende avsetninger
+    </text>
+    
+    <circle cx="550" cy="300" r="4" fill="#FF9800"/>
+    <text x="565" y="305" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+      Feil pensjonskostnader
+    </text>
+  </g>
+  
+  <!-- Monthly Process Cycle -->
+  <g>
+    <text x="400" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
+      Månedlig Kontrollsyklus
+    </text>
+    
+    <!-- Circle process -->
+    <circle cx="400" cy="450" r="80" fill="none" stroke="#2c3e50" stroke-width="3"/>
+    
+    <!-- Process steps around circle -->
+    <circle cx="400" cy="370" r="25" fill="#4CAF50"/>
+    <text x="400" y="375" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+      Lønns-
+    </text>
+    <text x="400" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+      kjøring
+    </text>
+    
+    <circle cx="480" cy="420" r="25" fill="#2196F3"/>
+    <text x="480" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+      Avstem-
+    </text>
+    <text x="480" y="435" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+      ming
+    </text>
+    
+    <circle cx="480" cy="480" r="25" fill="#FF9800"/>
+    <text x="480" y="485" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+      Avviks-
+    </text>
+    <text x="480" y="495" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+      analyse
+    </text>
+    
+    <circle cx="400" cy="530" r="25" fill="#9C27B0"/>
+    <text x="400" y="535" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+      Rapport-
+    </text>
+    <text x="400" y="545" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+      ering
+    </text>
+    
+    <circle cx="320" cy="480" r="25" fill="#F44336"/>
+    <text x="320" y="485" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+      Korrigering
+    </text>
+    
+    <circle cx="320" cy="420" r="25" fill="#795548"/>
+    <text x="320" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+      Dokument-
+    </text>
+    <text x="320" y="435" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+      asjon
+    </text>
+    
+    <!-- Arrows for process flow -->
+    <path d="M 415 385 Q 460 400 465 405" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+    <path d="M 485 445 Q 490 465 485 465" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+    <path d="M 465 495 Q 445 515 415 515" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+    <path d="M 385 515 Q 340 500 335 485" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+    <path d="M 315 465 Q 310 445 315 435" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+    <path d="M 335 405 Q 360 385 385 385" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  </g>
+  
+  <!-- Key Controls Box -->
+  <rect x="50" y="350" width="200" height="100" rx="8" fill="#e3f2fd" stroke="#1976D2" stroke-width="2"/>
+  <text x="150" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1976D2">
+    Nøkkelkontroller
+  </text>
+  
+  <text x="60" y="390" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    ✓ Tofaktorautentisering
+  </text>
+  <text x="60" y="405" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    ✓ Segregering av oppgaver
+  </text>
+  <text x="60" y="420" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    ✓ Automatiske varsler
+  </text>
+  <text x="60" y="435" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    ✓ Regelmessige revisjoner
+  </text>
+  
+  <!-- Compliance Box -->
+  <rect x="550" y="350" width="200" height="100" rx="8" fill="#fff3e0" stroke="#F57C00" stroke-width="2"/>
+  <text x="650" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#F57C00">
+    Compliance Sjekk
+  </text>
+  
+  <text x="560" y="390" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    ✓ A-melding rapportering
+  </text>
+  <text x="560" y="405" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    ✓ Skattetrekk kontroll
+  </text>
+  <text x="560" y="420" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    ✓ Pensjonspremie
+  </text>
+  <text x="560" y="435" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    ✓ Arbeidsgiveravgift
+  </text>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#2c3e50"/>
+    </marker>
+  </defs>
+  
+  <!-- Footer -->
+  <text x="400" y="585" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">
+    Internkontroll sikrer korrekt håndtering av personalkostnader og overholdelse av regelverk
+  </text>
+</svg>

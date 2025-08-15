@@ -1,0 +1,255 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="errorGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ef4444;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#dc2626;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="warningGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f59e0b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#d97706;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="solutionGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#10b981;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#059669;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="2" dy="2" stdDeviation="2" flood-color="#64748b" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="url(#bgGradient)"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e293b">
+    Vanlige Feil i Dobbel Bokføring
+  </text>
+  
+  <!-- Error 1: Wrong Account Assignment -->
+  <g transform="translate(50, 80)">
+    <rect x="0" y="0" width="200" height="100" rx="10" fill="url(#errorGradient)" stroke="#dc2626" stroke-width="2" filter="url(#shadow)"/>
+    <circle cx="25" cy="25" r="15" fill="white"/>
+    <text x="25" y="31" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#dc2626">1</text>
+    <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      Feil Kontotildeling
+    </text>
+    <text x="100" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+      Bruk av feil kontonummer
+    </text>
+    <text x="100" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      Eksempel: Driftskostnad → Anleggsmiddel
+    </text>
+    <text x="100" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      Konsekvens: Feil klassifisering
+    </text>
+    <text x="100" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      Løsning: Kontrollrutiner og opplæring
+    </text>
+  </g>
+  
+  <!-- Error 2: Unbalanced Entries -->
+  <g transform="translate(300, 80)">
+    <rect x="0" y="0" width="200" height="100" rx="10" fill="url(#errorGradient)" stroke="#dc2626" stroke-width="2" filter="url(#shadow)"/>
+    <circle cx="25" cy="25" r="15" fill="white"/>
+    <text x="25" y="31" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#dc2626">2</text>
+    <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      Ubalanserte Poster
+    </text>
+    <text x="100" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+      Debet ≠ Kredit
+    </text>
+    <text x="100" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      Eksempel: Dr. 1000 vs Kr. 900
+    </text>
+    <text x="100" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      Konsekvens: Prøvebalanse balanserer ikke
+    </text>
+    <text x="100" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      Løsning: Automatisk validering
+    </text>
+  </g>
+  
+  <!-- Error 3: Missing Documentation -->
+  <g transform="translate(550, 80)">
+    <rect x="0" y="0" width="200" height="100" rx="10" fill="url(#errorGradient)" stroke="#dc2626" stroke-width="2" filter="url(#shadow)"/>
+    <circle cx="25" cy="25" r="15" fill="white"/>
+    <text x="25" y="31" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#dc2626">3</text>
+    <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      Manglende Bilag
+    </text>
+    <text x="100" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+      Transaksjoner uten dokumentasjon
+    </text>
+    <text x="100" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      Eksempel: Kontantuttak uten kvittering
+    </text>
+    <text x="100" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      Konsekvens: Manglende sporbarhet
+    </text>
+    <text x="100" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      Løsning: Obligatorisk bilagsvedlegg
+    </text>
+  </g>
+  
+  <!-- Error 4: Periodization Errors -->
+  <g transform="translate(50, 220)">
+    <rect x="0" y="0" width="200" height="100" rx="10" fill="url(#warningGradient)" stroke="#d97706" stroke-width="2" filter="url(#shadow)"/>
+    <circle cx="25" cy="25" r="15" fill="white"/>
+    <text x="25" y="31" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#d97706">4</text>
+    <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      Periodiseringsfeil
+    </text>
+    <text x="100" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+      Feil tidspunkt for registrering
+    </text>
+    <text x="100" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      Eksempel: Desember-kostnad i januar
+    </text>
+    <text x="100" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      Konsekvens: Feil periodisering
+    </text>
+    <text x="100" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      Løsning: Månedlige avstemminger
+    </text>
+  </g>
+  
+  <!-- Error 5: Rounding Errors -->
+  <g transform="translate(300, 220)">
+    <rect x="0" y="0" width="200" height="100" rx="10" fill="url(#warningGradient)" stroke="#d97706" stroke-width="2" filter="url(#shadow)"/>
+    <circle cx="25" cy="25" r="15" fill="white"/>
+    <text x="25" y="31" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#d97706">5</text>
+    <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      Avrundingsfeil
+    </text>
+    <text x="100" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+      Små differanser som akkumuleres
+    </text>
+    <text x="100" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      Eksempel: 0,01 kr differanser
+    </text>
+    <text x="100" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      Konsekvens: Balanseavvik over tid
+    </text>
+    <text x="100" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      Løsning: Konsistente avrundingsregler
+    </text>
+  </g>
+  
+  <!-- Prevention Strategies -->
+  <g transform="translate(550, 220)">
+    <rect x="0" y="0" width="200" height="100" rx="10" fill="url(#solutionGradient)" stroke="#059669" stroke-width="2" filter="url(#shadow)"/>
+    <circle cx="25" cy="25" r="15" fill="white"/>
+    <text x="25" y="31" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#059669">✓</text>
+    <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      Forebyggende Tiltak
+    </text>
+    <text x="100" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+      Beste praksis for feilfri bokføring
+    </text>
+    <text x="100" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      • Systematisk kontroll
+    </text>
+    <text x="100" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      • Regelmessig opplæring
+    </text>
+    <text x="100" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      • Kvalitetssikring
+    </text>
+  </g>
+  
+  <!-- Error Impact Visualization -->
+  <g transform="translate(50, 360)">
+    <rect x="0" y="0" width="700" height="120" rx="10" fill="#fef2f2" stroke="#fecaca" stroke-width="2"/>
+    <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#dc2626">
+      Konsekvenser av Bokføringsfeil
+    </text>
+    
+    <!-- Impact 1 -->
+    <g transform="translate(30, 40)">
+      <circle cx="10" cy="10" r="8" fill="#ef4444"/>
+      <text x="10" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">!</text>
+      <text x="30" y="10" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#dc2626">Feil beslutningsgrunnlag</text>
+      <text x="30" y="25" font-family="Arial, sans-serif" font-size="10" fill="#dc2626">Ledelsen tar beslutninger basert på feil data</text>
+    </g>
+    
+    <!-- Impact 2 -->
+    <g transform="translate(250, 40)">
+      <circle cx="10" cy="10" r="8" fill="#f59e0b"/>
+      <text x="10" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">⚠</text>
+      <text x="30" y="10" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#dc2626">Compliance-problemer</text>
+      <text x="30" y="25" font-family="Arial, sans-serif" font-size="10" fill="#dc2626">Brudd på regnskapslovgivning</text>
+    </g>
+    
+    <!-- Impact 3 -->
+    <g transform="translate(450, 40)">
+      <circle cx="10" cy="10" r="8" fill="#8b5cf6"/>
+      <text x="10" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">$</text>
+      <text x="30" y="10" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#dc2626">Økonomiske konsekvenser</text>
+      <text x="30" y="25" font-family="Arial, sans-serif" font-size="10" fill="#dc2626">Bøter, tilleggsskatt og revisjonsgebyr</text>
+    </g>
+    
+    <!-- Additional impacts -->
+    <g transform="translate(30, 70)">
+      <text x="0" y="0" font-family="Arial, sans-serif" font-size="11" fill="#dc2626">• Tap av kredibilitet overfor interessenter</text>
+      <text x="250" y="0" font-family="Arial, sans-serif" font-size="11" fill="#dc2626">• Økt revisjonsrisiko og -kostnad</text>
+      <text x="500" y="0" font-family="Arial, sans-serif" font-size="11" fill="#dc2626">• Tidkrevende korrigeringer</text>
+    </g>
+  </g>
+  
+  <!-- Best Practices Section -->
+  <g transform="translate(50, 500)">
+    <rect x="0" y="0" width="700" height="80" rx="10" fill="#f0fdf4" stroke="#bbf7d0" stroke-width="2"/>
+    <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#059669">
+      Beste Praksis for Feilfri Bokføring
+    </text>
+    
+    <!-- Best Practice 1 -->
+    <g transform="translate(30, 35)">
+      <circle cx="8" cy="8" r="6" fill="#10b981"/>
+      <text x="8" y="12" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">1</text>
+      <text x="25" y="8" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#059669">Systematisk kontroll</text>
+      <text x="25" y="20" font-family="Arial, sans-serif" font-size="9" fill="#059669">Regelmessig prøvebalanse og avstemming</text>
+    </g>
+    
+    <!-- Best Practice 2 -->
+    <g transform="translate(200, 35)">
+      <circle cx="8" cy="8" r="6" fill="#10b981"/>
+      <text x="8" y="12" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">2</text>
+      <text x="25" y="8" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#059669">Dokumentasjon</text>
+      <text x="25" y="20" font-family="Arial, sans-serif" font-size="9" fill="#059669">Sikre at alle transaksjoner har bilag</text>
+    </g>
+    
+    <!-- Best Practice 3 -->
+    <g transform="translate(350, 35)">
+      <circle cx="8" cy="8" r="6" fill="#10b981"/>
+      <text x="8" y="12" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">3</text>
+      <text x="25" y="8" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#059669">Opplæring</text>
+      <text x="25" y="20" font-family="Arial, sans-serif" font-size="9" fill="#059669">Kontinuerlig kompetanseutvikling</text>
+    </g>
+    
+    <!-- Best Practice 4 -->
+    <g transform="translate(500, 35)">
+      <circle cx="8" cy="8" r="6" fill="#10b981"/>
+      <text x="8" y="12" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">4</text>
+      <text x="25" y="8" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#059669">Kvalitetssikring</text>
+      <text x="25" y="20" font-family="Arial, sans-serif" font-size="9" fill="#059669">Implementere kontrollrutiner</text>
+    </g>
+  </g>
+  
+  <!-- Error frequency indicators -->
+  <g transform="translate(50, 340)">
+    <text x="0" y="0" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#64748b">Feilfrekvens:</text>
+    <circle cx="100" cy="-3" r="4" fill="#ef4444"/>
+    <text x="110" y="1" font-family="Arial, sans-serif" font-size="10" fill="#64748b">Høy risiko</text>
+    
+    <circle cx="200" cy="-3" r="4" fill="#f59e0b"/>
+    <text x="210" y="1" font-family="Arial, sans-serif" font-size="10" fill="#64748b">Moderat risiko</text>
+    
+    <circle cx="320" cy="-3" r="4" fill="#10b981"/>
+    <text x="330" y="1" font-family="Arial, sans-serif" font-size="10" fill="#64748b">Forebyggbare</text>
+  </g>
+</svg>

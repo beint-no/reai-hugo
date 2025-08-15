@@ -1,0 +1,147 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="preventGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#007bff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0056b3;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="cardGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="60" fill="url(#preventGradient)"/>
+  <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
+    Forebyggende tiltak mot kredittap
+  </text>
+  
+  <!-- Stage 1: Before sales -->
+  <rect x="50" y="80" width="700" height="120" fill="white" stroke="#28a745" stroke-width="3" rx="10"/>
+  <rect x="50" y="80" width="700" height="30" fill="#d4edda" rx="10"/>
+  <text x="400" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#155724">
+    1. FØR SALG - Forebyggende kredittarbeid
+  </text>
+  
+  <g transform="translate(70, 120)">
+    <rect x="0" y="0" width="150" height="70" fill="#e3f2fd" stroke="#1976d2" stroke-width="1" rx="5"/>
+    <text x="75" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#1565c0">Kredittsjekk</text>
+    <text x="75" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#1976d2">• Brønnøysund</text>
+    <text x="75" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#1976d2">• Bisnode</text>
+    <text x="75" y="54" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#1976d2">• Årsregnskap</text>
+    <text x="75" y="66" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#1976d2">• Referanser</text>
+    
+    <rect x="170" y="0" width="150" height="70" fill="#f3e5f5" stroke="#7b1fa2" stroke-width="1" rx="5"/>
+    <text x="245" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#6a1b9a">Kredittgrenser</text>
+    <text x="245" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#7b1fa2">• Fastsett grenser</text>
+    <text x="245" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#7b1fa2">• Risikoprofil</text>
+    <text x="245" y="54" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#7b1fa2">• Betalingshistorikk</text>
+    <text x="245" y="66" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#7b1fa2">• Bransjevurdering</text>
+    
+    <rect x="340" y="0" width="150" height="70" fill="#fff3e0" stroke="#f57c00" stroke-width="1" rx="5"/>
+    <text x="415" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#ef6c00">Sikringsordninger</text>
+    <text x="415" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#f57c00">• Kreditforsikring</text>
+    <text x="415" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#f57c00">• Garanti/sikkerhet</text>
+    <text x="415" y="54" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#f57c00">• Betinget levering</text>
+    <text x="415" y="66" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#f57c00">• Forskuddsbetaling</text>
+    
+    <rect x="510" y="0" width="150" height="70" fill="#e8f5e8" stroke="#2e7d32" stroke-width="1" rx="5"/>
+    <text x="585" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#1b5e20">Kontraktsvilkår</text>
+    <text x="585" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2e7d32">• Klare betalingsfrist</text>
+    <text x="585" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2e7d32">• Rentebetingelser</text>
+    <text x="585" y="54" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2e7d32">• Eiendomsforbehold</text>
+    <text x="585" y="66" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2e7d32">• Inkassoklausul</text>
+  </g>
+  
+  <!-- Stage 2: During sales process -->
+  <rect x="50" y="220" width="700" height="120" fill="white" stroke="#ffc107" stroke-width="3" rx="10"/>
+  <rect x="50" y="220" width="700" height="30" fill="#fff3cd" rx="10"/>
+  <text x="400" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#856404">
+    2. UNDER SALG - Aktiv overvåking og oppfølging
+  </text>
+  
+  <g transform="translate(70, 260)">
+    <rect x="0" y="0" width="150" height="70" fill="#e1f5fe" stroke="#0288d1" stroke-width="1" rx="5"/>
+    <text x="75" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#01579b">Løpende overvåking</text>
+    <text x="75" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0288d1">• Månedlig aldersanalyse</text>
+    <text x="75" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0288d1">• Betalingsmønstre</text>
+    <text x="75" y="54" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0288d1">• Kredittgrenseutilisering</text>
+    <text x="75" y="66" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0288d1">• Tidlig varsling</text>
+    
+    <rect x="170" y="0" width="150" height="70" fill="#fce4ec" stroke="#c2185b" stroke-width="1" rx="5"/>
+    <text x="245" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#880e4f">Rask oppfølging</text>
+    <text x="245" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#c2185b">• Samme dag forfall</text>
+    <text x="245" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#c2185b">• Strukturert purring</text>
+    <text x="245" y="54" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#c2185b">• Personlig kontakt</text>
+    <text x="245" y="66" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#c2185b">• Dokumentasjon</text>
+    
+    <rect x="340" y="0" width="150" height="70" fill="#f1f8e9" stroke="#689f38" stroke-width="1" rx="5"/>
+    <text x="415" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#33691e">Betalingsavtaler</text>
+    <text x="415" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#689f38">• Avdragsordninger</text>
+    <text x="415" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#689f38">• Skriftlige avtaler</text>
+    <text x="415" y="54" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#689f38">• Oppfølgingsplan</text>
+    <text x="415" y="66" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#689f38">• Sikkerhetsstillelse</text>
+    
+    <rect x="510" y="0" width="150" height="70" fill="#fff8e1" stroke="#ffa000" stroke-width="1" rx="5"/>
+    <text x="585" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#e65100">Leveringsstopp</text>
+    <text x="585" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#ffa000">• Ved overskridelse</text>
+    <text x="585" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#ffa000">• Klare kriterier</text>
+    <text x="585" y="54" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#ffa000">• Varselrutiner</text>
+    <text x="585" y="66" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#ffa000">• Eskaleringsplan</text>
+  </g>
+  
+  <!-- Stage 3: When problems arise -->
+  <rect x="50" y="360" width="700" height="120" fill="white" stroke="#dc3545" stroke-width="3" rx="10"/>
+  <rect x="50" y="360" width="700" height="30" fill="#f8d7da" rx="10"/>
+  <text x="400" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#721c24">
+    3. VED BETALINGSPROBLEMER - Rask og strukturert handling
+  </text>
+  
+  <g transform="translate(70, 400)">
+    <rect x="0" y="0" width="150" height="70" fill="#ffebee" stroke="#f44336" stroke-width="1" rx="5"/>
+    <text x="75" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#b71c1c">Umiddelbare tiltak</text>
+    <text x="75" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#f44336">• Stopp leveranser</text>
+    <text x="75" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#f44336">• Telefonisk kontakt</text>
+    <text x="75" y="54" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#f44336">• Situasjonsavklaring</text>
+    <text x="75" y="66" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#f44336">• Betalingsplan</text>
+    
+    <rect x="170" y="0" width="150" height="70" fill="#e8eaf6" stroke="#3f51b5" stroke-width="1" rx="5"/>
+    <text x="245" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#1a237e">Juridiske skritt</text>
+    <text x="245" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#3f51b5">• Formell purring</text>
+    <text x="245" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#3f51b5">• Inkassoselskap</text>
+    <text x="245" y="54" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#3f51b5">• Forliksråd</text>
+    <text x="245" y="66" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#3f51b5">• Rettslige skritt</text>
+    
+    <rect x="340" y="0" width="150" height="70" fill="#f3e5f5" stroke="#9c27b0" stroke-width="1" rx="5"/>
+    <text x="415" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#4a148c">Sikring av bevis</text>
+    <text x="415" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#9c27b0">• All korrespondanse</text>
+    <text x="415" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#9c27b0">• Leveringsbevis</text>
+    <text x="415" y="54" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#9c27b0">• Telefonsummer</text>
+    <text x="415" y="66" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#9c27b0">• Vitner/kronologi</text>
+    
+    <rect x="510" y="0" width="150" height="70" fill="#e0f2f1" stroke="#00695c" stroke-width="1" rx="5"/>
+    <text x="585" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#004d40">Verdisikring</text>
+    <text x="585" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#00695c">• Tilbakehenting</text>
+    <text x="585" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#00695c">• Separatistrett</text>
+    <text x="585" y="54" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#00695c">• Utlegg/arrest</text>
+    <text x="585" y="66" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#00695c">• Sikringspant</text>
+  </g>
+  
+  <!-- Digital tools section -->
+  <rect x="100" y="500" width="600" height="80" fill="url(#cardGradient)" stroke="#6c757d" stroke-width="2" rx="10"/>
+  <text x="400" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#212529">
+    DIGITALE VERKTØY OG SYSTEMER
+  </text>
+  <text x="400" y="540" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    • CRM-systemer med kredittovervåking • Automatisk purring og oppfølging • Integrert kredittsjekk
+  </text>
+  <text x="400" y="555" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    • Dashboards for risikoanalyse • AI-baserte prediksjonsmodeller • Automatisk kredittgrensejustering
+  </text>
+  <text x="400" y="570" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    • Blockchain for betalingsgarantier • Open Banking for sanntids kredittsjekk
+  </text>
+</svg>

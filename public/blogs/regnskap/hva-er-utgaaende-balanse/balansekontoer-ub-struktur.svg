@@ -1,0 +1,194 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="aktivaGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#dbeafe;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#bfdbfe;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="passivaGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#dcfce7;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#bbf7d0;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="url(#bgGradient)"/>
+  
+  <!-- Title -->
+  <text x="400" y="35" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="#1e293b">
+    Balansekontoer og Utgående Balanse Struktur
+  </text>
+  
+  <!-- AKTIVA Section -->
+  <rect x="50" y="70" width="320" height="480" fill="url(#aktivaGradient)" stroke="#3b82f6" stroke-width="2" rx="10"/>
+  <text x="210" y="95" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#1e40af">
+    AKTIVA
+  </text>
+  <text x="210" y="115" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1e40af">
+    (Eiendeler - Debet Normal Balanse)
+  </text>
+  
+  <!-- Anleggsmidler -->
+  <text x="70" y="145" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e40af">
+    ANLEGGSMIDLER
+  </text>
+  
+  <!-- Materielle anleggsmidler -->
+  <rect x="70" y="155" width="280" height="85" fill="#ffffff" stroke="#3b82f6" stroke-width="1" rx="5"/>
+  <text x="80" y="175" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">
+    Materielle Anleggsmidler
+  </text>
+  <text x="80" y="195" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+    • Bygninger: UB Kr 2.500.000
+  </text>
+  <text x="80" y="210" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+    • Maskiner: UB Kr 800.000
+  </text>
+  <text x="80" y="225" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+    • Inventar: UB Kr 150.000
+  </text>
+  
+  <!-- Immaterielle anleggsmidler -->
+  <rect x="70" y="250" width="280" height="70" fill="#ffffff" stroke="#3b82f6" stroke-width="1" rx="5"/>
+  <text x="80" y="270" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">
+    Immaterielle Anleggsmidler
+  </text>
+  <text x="80" y="290" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+    • Goodwill: UB Kr 300.000
+  </text>
+  <text x="80" y="305" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+    • Programvare: UB Kr 100.000
+  </text>
+  
+  <!-- Omløpsmidler -->
+  <text x="70" y="345" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e40af">
+    OMLØPSMIDLER
+  </text>
+  
+  <!-- Varelager -->
+  <rect x="70" y="355" width="280" height="55" fill="#ffffff" stroke="#3b82f6" stroke-width="1" rx="5"/>
+  <text x="80" y="375" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">
+    Varelager
+  </text>
+  <text x="80" y="395" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+    UB: Kr 650.000
+  </text>
+  
+  <!-- Fordringer -->
+  <rect x="70" y="420" width="280" height="70" fill="#ffffff" stroke="#3b82f6" stroke-width="1" rx="5"/>
+  <text x="80" y="440" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">
+    Fordringer
+  </text>
+  <text x="80" y="460" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+    • Kundefordringer: UB Kr 420.000
+  </text>
+  <text x="80" y="475" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+    • Andre fordringer: UB Kr 80.000
+  </text>
+  
+  <!-- Kontanter -->
+  <rect x="70" y="500" width="280" height="40" fill="#ffffff" stroke="#3b82f6" stroke-width="1" rx="5"/>
+  <text x="80" y="520" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">
+    Kontanter og Bank
+  </text>
+  <text x="80" y="535" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+    UB: Kr 150.000
+  </text>
+  
+  <!-- PASSIVA Section -->
+  <rect x="430" y="70" width="320" height="480" fill="url(#passivaGradient)" stroke="#16a34a" stroke-width="2" rx="10"/>
+  <text x="590" y="95" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#166534">
+    PASSIVA
+  </text>
+  <text x="590" y="115" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#166534">
+    (Gjeld &amp; Egenkapital - Kredit Normal Balanse)
+  </text>
+  
+  <!-- Egenkapital -->
+  <text x="450" y="145" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#166534">
+    EGENKAPITAL
+  </text>
+  
+  <rect x="450" y="155" width="280" height="85" fill="#ffffff" stroke="#16a34a" stroke-width="1" rx="5"/>
+  <text x="460" y="175" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">
+    Egenkapitalkomponenter
+  </text>
+  <text x="460" y="195" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+    • Aksjekapital: UB Kr 500.000
+  </text>
+  <text x="460" y="210" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+    • Opptjent egenkapital: UB Kr 1.200.000
+  </text>
+  <text x="460" y="225" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+    • Årets resultat: UB Kr 350.000
+  </text>
+  
+  <!-- Langsiktig gjeld -->
+  <text x="450" y="265" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#166534">
+    LANGSIKTIG GJELD
+  </text>
+  
+  <rect x="450" y="275" width="280" height="85" fill="#ffffff" stroke="#16a34a" stroke-width="1" rx="5"/>
+  <text x="460" y="295" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">
+    Langsiktige Forpliktelser
+  </text>
+  <text x="460" y="315" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+    • Banklån: UB Kr 1.200.000
+  </text>
+  <text x="460" y="330" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+    • Obligasjonslån: UB Kr 600.000
+  </text>
+  <text x="460" y="345" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+    • Pensjonsforpliktelser: UB Kr 200.000
+  </text>
+  
+  <!-- Kortsiktig gjeld -->
+  <text x="450" y="385" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#166534">
+    KORTSIKTIG GJELD
+  </text>
+  
+  <rect x="450" y="395" width="280" height="100" fill="#ffffff" stroke="#16a34a" stroke-width="1" rx="5"/>
+  <text x="460" y="415" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">
+    Kortsiktige Forpliktelser
+  </text>
+  <text x="460" y="435" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+    • Leverandørgjeld: UB Kr 320.000
+  </text>
+  <text x="460" y="450" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+    • Skyldig skatt: UB Kr 150.000
+  </text>
+  <text x="460" y="465" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+    • Påløpte kostnader: UB Kr 180.000
+  </text>
+  <text x="460" y="480" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+    • Kortsiktig del banklån: UB Kr 100.000
+  </text>
+  
+  <!-- Balance totals -->
+  <rect x="450" y="510" width="280" height="30" fill="#fef3c7" stroke="#f59e0b" stroke-width="2" rx="5"/>
+  <text x="590" y="530" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#92400e">
+    SUM PASSIVA: Kr 5.200.000
+  </text>
+  
+  <rect x="70" y="560" width="280" height="30" fill="#fef3c7" stroke="#f59e0b" stroke-width="2" rx="5"/>
+  <text x="210" y="580" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#92400e">
+    SUM AKTIVA: Kr 5.200.000
+  </text>
+  
+  <!-- Balance equation arrow -->
+  <path d="M380 400 L420 400" stroke="#dc2626" stroke-width="4" fill="none" marker-end="url(#arrowhead)"/>
+  <defs>
+    <marker id="arrowhead" markerWidth="12" markerHeight="8" refX="11" refY="4" orient="auto">
+      <polygon points="0 0, 12 4, 0 8" fill="#dc2626"/>
+    </marker>
+  </defs>
+  <text x="400" y="390" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#dc2626">
+    BALANSE
+  </text>
+  <text x="400" y="420" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#dc2626">
+    UB Aktiva = UB Passiva
+  </text>
+</svg>

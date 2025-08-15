@@ -1,0 +1,126 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <radialGradient id="challengeGradient" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#dc3545;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#c82333;stop-opacity:1" />
+    </radialGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" fill="#dc3545" font-family="Arial, sans-serif" font-size="24" font-weight="bold">Utfordringer med Grunnlønn</text>
+  
+  <!-- Central challenge circle -->
+  <circle cx="400" cy="250" r="70" fill="url(#challengeGradient)" stroke="#a71e2a" stroke-width="3"/>
+  <text x="400" y="240" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">GRUNNLØNN</text>
+  <text x="400" y="260" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14">UTFORDRINGER</text>
+  
+  <!-- Challenge 1: Lønnsforhandlinger (top) -->
+  <g transform="translate(400, 100)">
+    <rect x="-80" y="-25" width="160" height="50" fill="#ffc107" stroke="#e0a800" stroke-width="2" rx="8"/>
+    <text x="0" y="-5" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">LØNNSFORHANDLINGER</text>
+    <text x="0" y="15" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">Balanse økonomi/konkurransedyktighet</text>
+    
+    <!-- Warning icon -->
+    <polygon points="-90,-35 -75,-10 -105,-10" fill="#ff6b35" stroke="#e55a00" stroke-width="1"/>
+    <text x="-90" y="-15" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">!</text>
+  </g>
+  
+  <!-- Challenge 2: Tariffbinding (top-right) -->
+  <g transform="translate(600, 150)">
+    <rect x="-70" y="-25" width="140" height="50" fill="#007bff" stroke="#0056b3" stroke-width="2" rx="8"/>
+    <text x="0" y="-5" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">TARIFFBINDING</text>
+    <text x="0" y="15" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">Overholdelse av avtaler</text>
+    
+    <polygon points="75,-35 90,-10 60,-10" fill="#ff6b35" stroke="#e55a00" stroke-width="1"/>
+    <text x="75" y="-15" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">!</text>
+  </g>
+  
+  <!-- Challenge 3: Likestilling (right) -->
+  <g transform="translate(650, 250)">
+    <rect x="-65" y="-25" width="130" height="50" fill="#28a745" stroke="#1e7e34" stroke-width="2" rx="8"/>
+    <text x="0" y="-5" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">LIKESTILLING</text>
+    <text x="0" y="15" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">Lik lønn for likt arbeid</text>
+    
+    <polygon points="70,-35 85,-10 55,-10" fill="#ff6b35" stroke="#e55a00" stroke-width="1"/>
+    <text x="70" y="-15" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">!</text>
+  </g>
+  
+  <!-- Challenge 4: Markedstilpasning (bottom-right) -->
+  <g transform="translate(600, 350)">
+    <rect x="-75" y="-25" width="150" height="50" fill="#6f42c1" stroke="#5a32a3" stroke-width="2" rx="8"/>
+    <text x="0" y="-5" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">MARKEDSTILPASNING</text>
+    <text x="0" y="15" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">Holde tritt med utviklingen</text>
+    
+    <polygon points="80,-35 95,-10 65,-10" fill="#ff6b35" stroke="#e55a00" stroke-width="1"/>
+    <text x="80" y="-15" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">!</text>
+  </g>
+  
+  <!-- Challenge 5: Rekruttering (bottom) -->
+  <g transform="translate(400, 400)">
+    <rect x="-70" y="-25" width="140" height="50" fill="#17a2b8" stroke="#138496" stroke-width="2" rx="8"/>
+    <text x="0" y="-5" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">REKRUTTERING</text>
+    <text x="0" y="15" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">Tiltrekke talent</text>
+    
+    <polygon points="-85,-35 -70,-10 -100,-10" fill="#ff6b35" stroke="#e55a00" stroke-width="1"/>
+    <text x="-85" y="-15" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">!</text>
+  </g>
+  
+  <!-- Challenge 6: Juridiske krav (bottom-left) -->
+  <g transform="translate(200, 350)">
+    <rect x="-70" y="-25" width="140" height="50" fill="#fd7e14" stroke="#e55a00" stroke-width="2" rx="8"/>
+    <text x="0" y="-5" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">JURIDISKE KRAV</text>
+    <text x="0" y="15" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">Lovkrav og forskrifter</text>
+    
+    <polygon points="-85,-35 -70,-10 -100,-10" fill="#ff6b35" stroke="#e55a00" stroke-width="1"/>
+    <text x="-85" y="-15" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">!</text>
+  </g>
+  
+  <!-- Challenge 7: Dokumentasjon (left) -->
+  <g transform="translate(150, 250)">
+    <rect x="-75" y="-25" width="150" height="50" fill="#20c997" stroke="#17a085" stroke-width="2" rx="8"/>
+    <text x="0" y="-5" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">DOKUMENTASJON</text>
+    <text x="0" y="15" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">Grunnlag for forskjeller</text>
+    
+    <polygon points="-90,-35 -75,-10 -105,-10" fill="#ff6b35" stroke="#e55a00" stroke-width="1"/>
+    <text x="-90" y="-15" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">!</text>
+  </g>
+  
+  <!-- Challenge 8: Rapportering (top-left) -->
+  <g transform="translate(200, 150)">
+    <rect x="-70" y="-25" width="140" height="50" fill="#e83e8c" stroke="#d91a72" stroke-width="2" rx="8"/>
+    <text x="0" y="-5" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">RAPPORTERING</text>
+    <text x="0" y="15" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">Korrekt til myndigheter</text>
+    
+    <polygon points="-85,-35 -70,-10 -100,-10" fill="#ff6b35" stroke="#e55a00" stroke-width="1"/>
+    <text x="-85" y="-15" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">!</text>
+  </g>
+  
+  <!-- Connecting lines from center to challenges -->
+  <defs>
+    <marker id="arrowhead" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#666" />
+    </marker>
+  </defs>
+  
+  <!-- Lines to each challenge -->
+  <line x1="400" y1="180" x2="400" y2="125" stroke="#666" stroke-width="2" stroke-dasharray="5,5"/>
+  <line x1="460" y1="200" x2="540" y2="160" stroke="#666" stroke-width="2" stroke-dasharray="5,5"/>
+  <line x1="470" y1="250" x2="585" y2="250" stroke="#666" stroke-width="2" stroke-dasharray="5,5"/>
+  <line x1="460" y1="300" x2="540" y2="340" stroke="#666" stroke-width="2" stroke-dasharray="5,5"/>
+  <line x1="400" y1="320" x2="400" y2="375" stroke="#666" stroke-width="2" stroke-dasharray="5,5"/>
+  <line x1="340" y1="300" x2="260" y2="340" stroke="#666" stroke-width="2" stroke-dasharray="5,5"/>
+  <line x1="330" y1="250" x2="225" y2="250" stroke="#666" stroke-width="2" stroke-dasharray="5,5"/>
+  <line x1="340" y1="200" x2="260" y2="160" stroke="#666" stroke-width="2" stroke-dasharray="5,5"/>
+  
+  <!-- Legend -->
+  <rect x="50" y="450" width="700" height="40" fill="white" stroke="#dee2e6" stroke-width="1" rx="5"/>
+  <text x="400" y="470" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Grunnlønn krever balansering av mange utfordrende faktorer</text>
+  <text x="400" y="485" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="11">Proaktiv håndtering reduserer risiko og sikrer compliance</text>
+</svg>

@@ -1,0 +1,193 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+    Likviditetskrise Håndtering
+  </text>
+  
+  <!-- Crisis Alert -->
+  <g transform="translate(300, 80)">
+    <polygon points="100,0 200,50 100,100 0,50" fill="#e74c3c" stroke="#c0392b" stroke-width="3"/>
+    <text x="100" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      LIKVIDITETS-
+    </text>
+    <text x="100" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      KRISE
+    </text>
+  </g>
+  
+  <!-- Immediate Actions (Left Side) -->
+  <g transform="translate(50, 200)">
+    <rect x="0" y="0" width="300" height="30" fill="#e74c3c" stroke="#c0392b" stroke-width="2" rx="5"/>
+    <text x="150" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      UMIDDELBARE TILTAK (0-7 dager)
+    </text>
+    
+    <!-- Action 1 -->
+    <rect x="0" y="50" width="300" height="60" fill="#f39c12" stroke="#e67e22" stroke-width="2" rx="8"/>
+    <text x="20" y="70" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      1. Akselerere Kundeinnbetalinger
+    </text>
+    <text x="30" y="85" font-family="Arial, sans-serif" font-size="10" fill="white">
+      • Ring alle kunder med utestående fordringer
+    </text>
+    <text x="30" y="100" font-family="Arial, sans-serif" font-size="10" fill="white">
+      • Tilby kontantrabatter for umiddelbar betaling
+    </text>
+    
+    <!-- Action 2 -->
+    <rect x="0" y="130" width="300" height="60" fill="#f39c12" stroke="#e67e22" stroke-width="2" rx="8"/>
+    <text x="20" y="150" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      2. Utsette Ikke-kritiske Utbetalinger
+    </text>
+    <text x="30" y="165" font-family="Arial, sans-serif" font-size="10" fill="white">
+      • Forhandle med leverandører om utsettelse
+    </text>
+    <text x="30" y="180" font-family="Arial, sans-serif" font-size="10" fill="white">
+      • Prioritere kritiske betalinger (lønn, skatt)
+    </text>
+    
+    <!-- Action 3 -->
+    <rect x="0" y="210" width="300" height="60" fill="#f39c12" stroke="#e67e22" stroke-width="2" rx="8"/>
+    <text x="20" y="230" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      3. Salg av Ikke-essensielle Eiendeler
+    </text>
+    <text x="30" y="245" font-family="Arial, sans-serif" font-size="10" fill="white">
+      • Identifiser eiendeler som kan selges raskt
+    </text>
+    <text x="30" y="260" font-family="Arial, sans-serif" font-size="10" fill="white">
+      • Kontakt potensielle kjøpere umiddelbart
+    </text>
+  </g>
+  
+  <!-- Medium-term Actions (Right Side) -->
+  <g transform="translate(450, 200)">
+    <rect x="0" y="0" width="300" height="30" fill="#3498db" stroke="#2980b9" stroke-width="2" rx="5"/>
+    <text x="150" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      MELLOMLANGSIKTIGE TILTAK (1-4 uker)
+    </text>
+    
+    <!-- Action 4 -->
+    <rect x="0" y="50" width="300" height="60" fill="#27ae60" stroke="#229954" stroke-width="2" rx="8"/>
+    <text x="20" y="70" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      4. Restrukturering av Gjeld
+    </text>
+    <text x="30" y="85" font-family="Arial, sans-serif" font-size="10" fill="white">
+      • Forhandle nye betalingsplaner med kreditorer
+    </text>
+    <text x="30" y="100" font-family="Arial, sans-serif" font-size="10" fill="white">
+      • Konsolider kortsiktig gjeld til langsiktig
+    </text>
+    
+    <!-- Action 5 -->
+    <rect x="0" y="130" width="300" height="60" fill="#27ae60" stroke="#229954" stroke-width="2" rx="8"/>
+    <text x="20" y="150" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      5. Tilleggsfinansiering
+    </text>
+    <text x="30" y="165" font-family="Arial, sans-serif" font-size="10" fill="white">
+      • Søk om kredittlinje eller kortsiktig lån
+    </text>
+    <text x="30" y="180" font-family="Arial, sans-serif" font-size="10" fill="white">
+      • Vurder factoring av kundefordringer
+    </text>
+    
+    <!-- Action 6 -->
+    <rect x="0" y="210" width="300" height="60" fill="#27ae60" stroke="#229954" stroke-width="2" rx="8"/>
+    <text x="20" y="230" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      6. Kostnadskutt og Effektivisering
+    </text>
+    <text x="30" y="245" font-family="Arial, sans-serif" font-size="10" fill="white">
+      • Reduser alle ikke-essensielle kostnader
+    </text>
+    <text x="30" y="260" font-family="Arial, sans-serif" font-size="10" fill="white">
+      • Implementer midlertidige besparelser
+    </text>
+  </g>
+  
+  <!-- Decision Tree -->
+  <g transform="translate(200, 350)">
+    <rect x="0" y="0" width="400" height="40" fill="#34495e" stroke="#2c3e50" stroke-width="2" rx="8"/>
+    <text x="200" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      Beslutningstre for Likviditetskrise
+    </text>
+    
+    <!-- Decision Points -->
+    <rect x="0" y="60" width="120" height="50" fill="#9b59b6" stroke="#8e44ad" stroke-width="2" rx="5"/>
+    <text x="60" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+      Kontanter &lt; 7 dager?
+    </text>
+    <text x="60" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      KRITISK
+    </text>
+    
+    <rect x="140" y="60" width="120" height="50" fill="#f39c12" stroke="#e67e22" stroke-width="2" rx="5"/>
+    <text x="200" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+      Kontanter &lt; 30 dager?
+    </text>
+    <text x="200" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      ALVORLIG
+    </text>
+    
+    <rect x="280" y="60" width="120" height="50" fill="#27ae60" stroke="#229954" stroke-width="2" rx="5"/>
+    <text x="340" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+      Kontanter &gt; 30 dager?
+    </text>
+    <text x="340" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      OVERVÅK
+    </text>
+    
+    <!-- Arrows -->
+    <path d="M60 110 L60 130" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+    <path d="M200 110 L200 130" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+    <path d="M340 110 L340 130" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+    
+    <!-- Actions -->
+    <rect x="0" y="140" width="120" height="40" fill="#e74c3c" stroke="#c0392b" stroke-width="1" rx="5"/>
+    <text x="60" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+      Alle umiddelbare
+    </text>
+    <text x="60" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+      tiltak NÅ
+    </text>
+    
+    <rect x="140" y="140" width="120" height="40" fill="#f39c12" stroke="#e67e22" stroke-width="1" rx="5"/>
+    <text x="200" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+      Umiddelbare +
+    </text>
+    <text x="200" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+      Mellomlangsiktige
+    </text>
+    
+    <rect x="280" y="140" width="120" height="40" fill="#27ae60" stroke="#229954" stroke-width="1" rx="5"/>
+    <text x="340" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+      Forebyggende
+    </text>
+    <text x="340" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+      tiltak
+    </text>
+  </g>
+  
+  <!-- Warning Signs -->
+  <g transform="translate(50, 500)">
+    <rect x="0" y="0" width="700" height="80" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2" rx="8"/>
+    <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
+      Tidlige Varseltegn på Likviditetsproblemer
+    </text>
+    
+    <text x="50" y="45" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+      • Økende kundefordringer • Forsinket leverandørbetaling • Redusert kontantbeholdning
+    </text>
+    <text x="50" y="65" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+      • Økt avhengighet av kredittlinjer • Problemer med å møte lønnsutbetalinger • Kreditorer som krever sikkerhet
+    </text>
+  </g>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#2c3e50"/>
+    </marker>
+  </defs>
+</svg>

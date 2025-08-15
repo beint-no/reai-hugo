@@ -1,0 +1,155 @@
+<svg width="1000" height="600" viewBox="0 0 1000 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1000" height="600" fill="#f8f9fa"/>
+
+  <!-- Title -->
+  <text x="500" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+    Fremtidige Trender i Bilagsmottak
+  </text>
+
+  <!-- Timeline -->
+  <line x1="100" y1="100" x2="900" y2="100" stroke="#34495e" stroke-width="3"/>
+
+  <!-- Current state -->
+  <g transform="translate(100, 80)">
+    <circle cx="0" cy="20" r="8" fill="#3498db"/>
+    <text x="0" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">I DAG</text>
+    <text x="0" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">2024</text>
+  </g>
+
+  <!-- Near future -->
+  <g transform="translate(350, 80)">
+    <circle cx="0" cy="20" r="8" fill="#f39c12"/>
+    <text x="0" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">NÆRT</text>
+    <text x="0" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">2025-2027</text>
+  </g>
+
+  <!-- Medium future -->
+  <g transform="translate(650, 80)">
+    <circle cx="0" cy="20" r="8" fill="#e74c3c"/>
+    <text x="0" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">MEDIUM</text>
+    <text x="0" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">2028-2030</text>
+  </g>
+
+  <!-- Far future -->
+  <g transform="translate(900, 80)">
+    <circle cx="0" cy="20" r="8" fill="#9b59b6"/>
+    <text x="0" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">FREMTID</text>
+    <text x="0" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">2030+</text>
+  </g>
+
+  <!-- Current technologies -->
+  <g transform="translate(50, 140)">
+    <rect x="0" y="0" width="200" height="120" rx="10" fill="#e3f2fd" stroke="#3498db" stroke-width="2"/>
+    <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#3498db">Dagens Teknologi</text>
+    <text x="100" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">• OCR-skanning</text>
+    <text x="100" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">• Regelbasert automatisering</text>
+    <text x="100" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">• E-post integrasjon</text>
+    <text x="100" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">• Grunnleggende AI</text>
+    <text x="100" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">• Cloud-lagring</text>
+  </g>
+
+  <!-- Near future technologies -->
+  <g transform="translate(300, 140)">
+    <rect x="0" y="0" width="200" height="120" rx="10" fill="#fff3e0" stroke="#f39c12" stroke-width="2"/>
+    <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#f39c12">Avansert AI</text>
+    <text x="100" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">• Kontekstuell forståelse</text>
+    <text x="100" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">• Prediktiv analyse</text>
+    <text x="100" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">• Naturlig språkbehandling</text>
+    <text x="100" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">• Automatisk forhandling</text>
+    <text x="100" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">• Sanntids-validering</text>
+  </g>
+
+  <!-- Medium future technologies -->
+  <g transform="translate(550, 140)">
+    <rect x="0" y="0" width="200" height="120" rx="10" fill="#ffebee" stroke="#e74c3c" stroke-width="2"/>
+    <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#e74c3c">Blockchain &amp; IoT</text>
+    <text x="100" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">• Uforanderlige poster</text>
+    <text x="100" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">• Smart contracts</text>
+    <text x="100" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">• IoT-sensorer</text>
+    <text x="100" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">• Automatisk levering</text>
+    <text x="100" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">• Desentralisert verifisering</text>
+  </g>
+
+  <!-- Far future technologies -->
+  <g transform="translate(800, 140)">
+    <rect x="0" y="0" width="200" height="120" rx="10" fill="#f3e5f5" stroke="#9b59b6" stroke-width="2"/>
+    <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#9b59b6">Fullt Autonomt</text>
+    <text x="100" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">• Selvlærende systemer</text>
+    <text x="100" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">• Kvantedatabehandling</text>
+    <text x="100" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">• Hjernemaskin-grensesnitt</text>
+    <text x="100" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">• Null menneskelig input</text>
+    <text x="100" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">• Prediktiv økonomi</text>
+  </g>
+
+  <!-- Key trends section -->
+  <g transform="translate(100, 300)">
+    <rect x="0" y="0" width="800" height="200" rx="10" fill="#f8f9fa" stroke="#6c757d" stroke-width="2"/>
+    <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#495057">Nøkkeltrender</text>
+
+    <!-- Trend 1: Automation -->
+    <g transform="translate(50, 50)">
+      <rect x="0" y="0" width="150" height="120" rx="8" fill="#e8f5e8" stroke="#28a745" stroke-width="1"/>
+      <text x="75" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#28a745">🤖 Automatisering</text>
+      <text x="75" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">95% automatisering</text>
+      <text x="75" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">innen 2030</text>
+      <text x="75" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Redusert manuelt</text>
+      <text x="75" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">arbeid med 90%</text>
+      <text x="75" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Økt nøyaktighet</text>
+    </g>
+
+    <!-- Trend 2: Real-time -->
+    <g transform="translate(220, 50)">
+      <rect x="0" y="0" width="150" height="120" rx="8" fill="#fff3e0" stroke="#f57c00" stroke-width="1"/>
+      <text x="75" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#f57c00">⚡ Sanntid</text>
+      <text x="75" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Øyeblikkelig</text>
+      <text x="75" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">behandling</text>
+      <text x="75" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Live dashboards</text>
+      <text x="75" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Prediktiv analyse</text>
+      <text x="75" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Proaktiv styring</text>
+    </g>
+
+    <!-- Trend 3: Integration -->
+    <g transform="translate(390, 50)">
+      <rect x="0" y="0" width="150" height="120" rx="8" fill="#e3f2fd" stroke="#1976d2" stroke-width="1"/>
+      <text x="75" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1976d2">🔗 Integrasjon</text>
+      <text x="75" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">API-først</text>
+      <text x="75" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">arkitektur</text>
+      <text x="75" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Sømløse</text>
+      <text x="75" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">arbeidsflyter</text>
+      <text x="75" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Unified platform</text>
+    </g>
+
+    <!-- Trend 4: Security -->
+    <g transform="translate(560, 50)">
+      <rect x="0" y="0" width="150" height="120" rx="8" fill="#fce4ec" stroke="#c2185b" stroke-width="1"/>
+      <text x="75" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#c2185b">🛡️ Sikkerhet</text>
+      <text x="75" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Zero-trust</text>
+      <text x="75" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">arkitektur</text>
+      <text x="75" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Biometrisk</text>
+      <text x="75" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">autentisering</text>
+      <text x="75" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Kryptert alt</text>
+    </g>
+  </g>
+
+  <!-- Impact metrics -->
+  <g transform="translate(200, 520)">
+    <rect x="0" y="0" width="600" height="60" rx="10" fill="#d4edda" stroke="#28a745" stroke-width="2"/>
+    <text x="300" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#155724">Forventet Påvirkning innen 2030</text>
+
+    <g transform="translate(50, 30)">
+      <text x="0" y="15" font-family="Arial, sans-serif" font-size="11" fill="#155724">📊 Kostnadsreduksjon: 70%</text>
+      <text x="0" y="28" font-family="Arial, sans-serif" font-size="11" fill="#155724">⚡ Behandlingstid: 95% raskere</text>
+    </g>
+
+    <g transform="translate(250, 30)">
+      <text x="0" y="15" font-family="Arial, sans-serif" font-size="11" fill="#155724">🎯 Nøyaktighet: 99.9%</text>
+      <text x="0" y="28" font-family="Arial, sans-serif" font-size="11" fill="#155724">🌱 Miljøpåvirkning: -80%</text>
+    </g>
+
+    <g transform="translate(450, 30)">
+      <text x="0" y="15" font-family="Arial, sans-serif" font-size="11" fill="#155724">👥 Medarbeidertilfredshet: +60%</text>
+      <text x="0" y="28" font-family="Arial, sans-serif" font-size="11" fill="#155724">🚀 Innovasjonstakt: +300%</text>
+    </g>
+  </g>
+</svg>

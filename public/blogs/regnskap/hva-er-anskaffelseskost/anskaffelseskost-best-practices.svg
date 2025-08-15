@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <style>
+      .title { font-family: Arial, sans-serif; font-size: 24px; font-weight: bold; fill: #2c3e50; }
+      .subtitle { font-family: Arial, sans-serif; font-size: 18px; font-weight: bold; fill: #34495e; }
+      .text { font-family: Arial, sans-serif; font-size: 14px; fill: #2c3e50; }
+      .good { font-family: Arial, sans-serif; font-size: 14px; fill: #27ae60; }
+      .bad { font-family: Arial, sans-serif; font-size: 14px; fill: #e74c3c; }
+      .warning { font-family: Arial, sans-serif; font-size: 14px; fill: #f39c12; }
+      .box-docs { fill: #e8f5e8; stroke: #27ae60; stroke-width: 2; }
+      .box-errors { fill: #ffeaea; stroke: #e74c3c; stroke-width: 2; }
+      .box-controls { fill: #fff3cd; stroke: #f39c12; stroke-width: 2; }
+      .icon-check { fill: #27ae60; }
+      .icon-x { fill: #e74c3c; }
+      .icon-warning { fill: #f39c12; }
+    </style>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#ffffff"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" class="title">Best Practices for Anskaffelseskost</text>
+  <text x="400" y="55" text-anchor="middle" class="subtitle">Dokumentasjon og Kvalitetssikring</text>
+  
+  <!-- Documentation Section -->
+  <rect x="50" y="80" width="700" height="140" class="box-docs"/>
+  
+  <!-- Check icon -->
+  <g transform="translate(70, 100)">
+    <circle cx="15" cy="15" r="12" class="icon-check"/>
+    <path d="M10,15 L13,18 L20,11" stroke="white" stroke-width="2" fill="none"/>
+  </g>
+  
+  <text x="110" y="110" class="subtitle">Essensielle Dokumenter:</text>
+  
+  <text x="90" y="135" class="good">✓ Kjøpskontrakter: Detaljerte avtaler med leverandører</text>
+  <text x="90" y="155" class="good">✓ Fakturaer: Alle kostnader knyttet til anskaffelsen</text>
+  <text x="90" y="175" class="good">✓ Leveringsbevis: Dokumentasjon på mottakstidspunkt</text>
+  <text x="90" y="195" class="good">✓ Installasjonsrapporter: Bevis på at eiendelen er klar til bruk</text>
+  
+  <!-- Common Errors Section -->
+  <rect x="50" y="240" width="700" height="140" class="box-errors"/>
+  
+  <!-- X icon -->
+  <g transform="translate(70, 260)">
+    <circle cx="15" cy="15" r="12" class="icon-x"/>
+    <path d="M10,10 L20,20 M20,10 L10,20" stroke="white" stroke-width="2"/>
+  </g>
+  
+  <text x="110" y="270" class="subtitle">Vanlige Feil å Unngå:</text>
+  
+  <text x="90" y="295" class="bad">✗ Feil 1: Inkludere driftskostnader i anskaffelseskost</text>
+  <text x="110" y="315" class="text">Løsning: Klar skille mellom kostnader før og etter ibruktagning</text>
+  
+  <text x="90" y="335" class="bad">✗ Feil 2: Manglende fordeling ved sammensatte kjøp</text>
+  <text x="110" y="355" class="text">Løsning: Bruk profesjonell verdsettelse for komplekse transaksjoner</text>
+  
+  <!-- Quality Control Section -->
+  <rect x="50" y="400" width="700" height="140" class="box-controls"/>
+  
+  <!-- Warning icon -->
+  <g transform="translate(70, 420)">
+    <polygon points="15,5 25,20 5,20" class="icon-warning"/>
+    <text x="15" y="17" text-anchor="middle" fill="white" font-size="10">!</text>
+  </g>
+  
+  <text x="110" y="430" class="subtitle">Kvalitetssikring og Kontroll:</text>
+  
+  <text x="90" y="455" class="warning">Månedlige kontroller:</text>
+  <text x="90" y="475" class="text">• Gjennomgang av aktiverte kostnader • Sammenligning med budsjett</text>
+  
+  <text x="90" y="500" class="warning">Årlige vurderinger:</text>
+  <text x="90" y="520" class="text">• Nedskrivningstesting • Vurdering av brukstid • Markedsverdi-sammenligning</text>
+  
+  <!-- Key Success Factors -->
+  <rect x="50" y="560" width="700" height="30" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2"/>
+  <text x="400" y="580" text-anchor="middle" class="text" font-weight="bold">
+    Suksessfaktorer: Systematisk dokumentasjon + Regelmessig oppfølging + Profesjonell veiledning
+  </text>
+</svg>

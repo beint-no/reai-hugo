@@ -1,0 +1,123 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">Internasjonal Terminharmonisering</text>
+  
+  <!-- Central Hub (Parent Company) -->
+  <circle cx="400" cy="300" r="80" fill="#3498db" stroke="#2980b9" stroke-width="3"/>
+  <text x="400" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">MORSELSKAP</text>
+  <text x="400" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Konsern HQ</text>
+  
+  <!-- Subsidiary 1 - Europe -->
+  <circle cx="200" cy="150" r="60" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+  <text x="200" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">EUROPA</text>
+  <text x="200" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Jan-Des</text>
+  
+  <!-- Subsidiary 2 - Asia -->
+  <circle cx="600" cy="150" r="60" fill="#9b59b6" stroke="#8e44ad" stroke-width="2"/>
+  <text x="600" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">ASIA</text>
+  <text x="600" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Apr-Mar</text>
+  
+  <!-- Subsidiary 3 - Americas -->
+  <circle cx="200" cy="450" r="60" fill="#27ae60" stroke="#229954" stroke-width="2"/>
+  <text x="200" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">AMERIKA</text>
+  <text x="200" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Okt-Sep</text>
+  
+  <!-- Subsidiary 4 - Africa -->
+  <circle cx="600" cy="450" r="60" fill="#f39c12" stroke="#e67e22" stroke-width="2"/>
+  <text x="600" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">AFRIKA</text>
+  <text x="600" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Jul-Jun</text>
+  
+  <!-- Connection Lines -->
+  <line x1="320" y1="240" x2="240" y2="190" stroke="#7f8c8d" stroke-width="2" stroke-dasharray="5,5"/>
+  <line x1="480" y1="240" x2="540" y2="190" stroke="#7f8c8d" stroke-width="2" stroke-dasharray="5,5"/>
+  <line x1="320" y1="360" x2="240" y2="410" stroke="#7f8c8d" stroke-width="2" stroke-dasharray="5,5"/>
+  <line x1="480" y1="360" x2="540" y2="410" stroke="#7f8c8d" stroke-width="2" stroke-dasharray="5,5"/>
+  
+  <!-- Challenge Indicators -->
+  <g id="challenge1">
+    <rect x="50" y="80" width="150" height="60" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1" rx="5"/>
+    <text x="125" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#e74c3c">UTFORDRING</text>
+    <text x="125" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#34495e">Ulike</text>
+    <text x="125" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#34495e">regnskapsår</text>
+  </g>
+  
+  <g id="challenge2">
+    <rect x="600" y="80" width="150" height="60" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1" rx="5"/>
+    <text x="675" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#e74c3c">UTFORDRING</text>
+    <text x="675" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#34495e">Valutaomregning</text>
+    <text x="675" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#34495e">&amp; kurseffekter</text>
+  </g>
+  
+  <g id="challenge3">
+    <rect x="50" y="460" width="150" height="60" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1" rx="5"/>
+    <text x="125" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#e74c3c">UTFORDRING</text>
+    <text x="125" y="495" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#34495e">Elimineringer</text>
+    <text x="125" y="510" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#34495e">intern omsetning</text>
+  </g>
+  
+  <!-- Harmonization Process -->
+  <g id="harmonization">
+    <rect x="280" y="50" width="240" height="100" fill="#e8f5e8" stroke="#27ae60" stroke-width="2" rx="10"/>
+    <text x="400" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#27ae60">HARMONISERINGSPROSESS</text>
+    
+    <text x="290" y="90" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">1. Standardisering regnskapsår</text>
+    <text x="290" y="105" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">2. Felles regnskapsprinsiper</text>
+    <text x="290" y="120" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">3. Konsolideringsrutiner</text>
+    <text x="290" y="135" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">4. Kvalitetskontroll</text>
+  </g>
+  
+  <!-- Solution Arrows -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#27ae60"/>
+    </marker>
+  </defs>
+  
+  <path d="M 320 150 Q 360 120 400 150" stroke="#27ae60" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  <path d="M 480 150 Q 440 120 400 150" stroke="#27ae60" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Implementation Timeline -->
+  <g id="timeline">
+    <rect x="50" y="550" width="700" height="40" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1" rx="5"/>
+    <text x="400" y="570" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">IMPLEMENTERINGS-TIDSLINJE</text>
+    
+    <!-- Timeline markers -->
+    <circle cx="150" cy="580" r="3" fill="#3498db"/>
+    <text x="150" y="595" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">Q1: Analyse</text>
+    
+    <circle cx="300" cy="580" r="3" fill="#f39c12"/>
+    <text x="300" y="595" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">Q2: Design</text>
+    
+    <circle cx="450" cy="580" r="3" fill="#e74c3c"/>
+    <text x="450" y="595" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">Q3: Testing</text>
+    
+    <circle cx="600" cy="580" r="3" fill="#27ae60"/>
+    <text x="600" y="595" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">Q4: Go-live</text>
+  </g>
+  
+  <!-- Benefits Box -->
+  <g id="benefits">
+    <rect x="600" y="460" width="150" height="80" fill="#e8f8f5" stroke="#27ae60" stroke-width="1" rx="5"/>
+    <text x="675" y="475" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#27ae60">GEVINSTER</text>
+    <text x="675" y="490" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Konsistent rapportering</text>
+    <text x="675" y="505" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Bedre sammenligning</text>
+    <text x="675" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Effektiv konsolidering</text>
+    <text x="675" y="535" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Compliance-sikkerhet</text>
+  </g>
+  
+  <!-- Currency symbols -->
+  <text x="180" y="180" font-family="Arial, sans-serif" font-size="14" fill="#2c3e50">€</text>
+  <text x="580" y="180" font-family="Arial, sans-serif" font-size="14" fill="#2c3e50">¥</text>
+  <text x="180" y="480" font-family="Arial, sans-serif" font-size="14" fill="#2c3e50">$</text>
+  <text x="580" y="480" font-family="Arial, sans-serif" font-size="14" fill="#2c3e50">R</text>
+  
+  <!-- Data flow indicators -->
+  <g id="dataflow">
+    <rect x="320" y="380" width="160" height="40" fill="#fff3cd" stroke="#f39c12" stroke-width="1" rx="5"/>
+    <text x="400" y="395" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#f39c12">KONSOLIDERING</text>
+    <text x="400" y="410" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">Månedlig rapportering</text>
+  </g>
+</svg>

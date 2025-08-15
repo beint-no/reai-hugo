@@ -1,0 +1,126 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="smbGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#10b981"/>
+      <stop offset="100%" style="stop-color:#34d399"/>
+    </linearGradient>
+    <linearGradient id="largeGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6366f1"/>
+      <stop offset="100%" style="stop-color:#8b5cf6"/>
+    </linearGradient>
+    <linearGradient id="specialGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#f59e0b"/>
+      <stop offset="100%" style="stop-color:#fbbf24"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8fafc"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" fill="#1e293b" font-family="Arial, sans-serif" font-size="24" font-weight="bold">Saldobalanse i Ulike Virksomhetstyper</text>
+  
+  <!-- SMB box -->
+  <rect x="50" y="80" width="220" height="200" fill="white" stroke="#10b981" stroke-width="3" rx="12"/>
+  <rect x="50" y="80" width="220" height="40" fill="url(#smbGrad)" rx="12 12 0 0"/>
+  <text x="160" y="105" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">SMB (Små/Mellomstore)</text>
+  
+  <text x="70" y="140" fill="#059669" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Karakteristika:</text>
+  <text x="80" y="155" fill="#374151" font-family="Arial, sans-serif" font-size="10">• Enklere struktur</text>
+  <text x="80" y="170" fill="#374151" font-family="Arial, sans-serif" font-size="10">• Færre kontoer (50-200)</text>
+  <text x="80" y="185" fill="#374151" font-family="Arial, sans-serif" font-size="10">• Månedlig utarbeidelse</text>
+  <text x="80" y="200" fill="#374151" font-family="Arial, sans-serif" font-size="10">• Begrenset automatisering</text>
+  
+  <text x="70" y="225" fill="#dc2626" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Utfordringer:</text>
+  <text x="80" y="240" fill="#374151" font-family="Arial, sans-serif" font-size="10">• Manuell avstemming</text>
+  <text x="80" y="255" fill="#374151" font-family="Arial, sans-serif" font-size="10">• Begrenset kompetanse</text>
+  <text x="80" y="270" fill="#374151" font-family="Arial, sans-serif" font-size="10">• Sesongvariasjoner</text>
+  
+  <!-- Large enterprise box -->
+  <rect x="290" y="80" width="220" height="200" fill="white" stroke="#6366f1" stroke-width="3" rx="12"/>
+  <rect x="290" y="80" width="220" height="40" fill="url(#largeGrad)" rx="12 12 0 0"/>
+  <text x="400" y="105" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Store Virksomheter</text>
+  
+  <text x="310" y="140" fill="#6366f1" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Karakteristika:</text>
+  <text x="320" y="155" fill="#374151" font-family="Arial, sans-serif" font-size="10">• Kompleks struktur</text>
+  <text x="320" y="170" fill="#374151" font-family="Arial, sans-serif" font-size="10">• Tusenvis av kontoer</text>
+  <text x="320" y="185" fill="#374151" font-family="Arial, sans-serif" font-size="10">• Multiple enheter</text>
+  <text x="320" y="200" fill="#374151" font-family="Arial, sans-serif" font-size="10">• Konsolideringskrav</text>
+  
+  <text x="310" y="225" fill="#059669" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Fordeler:</text>
+  <text x="320" y="240" fill="#374151" font-family="Arial, sans-serif" font-size="10">• Automatiserte systemer</text>
+  <text x="320" y="255" fill="#374151" font-family="Arial, sans-serif" font-size="10">• Dedikerte ressurser</text>
+  <text x="320" y="270" fill="#374151" font-family="Arial, sans-serif" font-size="10">• Avanserte kontroller</text>
+  
+  <!-- Special industries box -->
+  <rect x="530" y="80" width="220" height="200" fill="white" stroke="#f59e0b" stroke-width="3" rx="12"/>
+  <rect x="530" y="80" width="220" height="40" fill="url(#specialGrad)" rx="12 12 0 0"/>
+  <text x="640" y="105" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Spesielle Bransjer</text>
+  
+  <text x="550" y="140" fill="#f59e0b" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Banker/Finans:</text>
+  <text x="560" y="155" fill="#374151" font-family="Arial, sans-serif" font-size="10">• IFRS-standarder</text>
+  <text x="560" y="170" fill="#374151" font-family="Arial, sans-serif" font-size="10">• Regulatoriske krav</text>
+  <text x="560" y="185" fill="#374151" font-family="Arial, sans-serif" font-size="10">• Risikoklassifisering</text>
+  
+  <text x="550" y="210" fill="#7c3aed" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Offentlig Sektor:</text>
+  <text x="560" y="225" fill="#374151" font-family="Arial, sans-serif" font-size="10">• Spesielle standarder</text>
+  <text x="560" y="240" fill="#374151" font-family="Arial, sans-serif" font-size="10">• Budsjettkontroll</text>
+  <text x="560" y="255" fill="#374151" font-family="Arial, sans-serif" font-size="10">• Transparenskrav</text>
+  
+  <!-- Comparison table -->
+  <rect x="50" y="320" width="700" height="200" fill="white" stroke="#cbd5e1" stroke-width="2" rx="8"/>
+  <rect x="50" y="320" width="700" height="30" fill="#f1f5f9" rx="8 8 0 0"/>
+  
+  <text x="120" y="340" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Aspekt</text>
+  <text x="250" y="340" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="12" font-weight="bold">SMB</text>
+  <text x="400" y="340" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Store Virksomheter</text>
+  <text x="600" y="340" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Spesielle Bransjer</text>
+  
+  <!-- Table lines -->
+  <line x1="50" y1="350" x2="750" y2="350" stroke="#e5e7eb" stroke-width="1"/>
+  <line x1="180" y1="320" x2="180" y2="520" stroke="#e5e7eb" stroke-width="1"/>
+  <line x1="320" y1="320" x2="320" y2="520" stroke="#e5e7eb" stroke-width="1"/>
+  <line x1="500" y1="320" x2="500" y2="520" stroke="#e5e7eb" stroke-width="1"/>
+  
+  <line x1="50" y1="375" x2="750" y2="375" stroke="#e5e7eb" stroke-width="1"/>
+  <line x1="50" y1="400" x2="750" y2="400" stroke="#e5e7eb" stroke-width="1"/>
+  <line x1="50" y1="425" x2="750" y2="425" stroke="#e5e7eb" stroke-width="1"/>
+  <line x1="50" y1="450" x2="750" y2="450" stroke="#e5e7eb" stroke-width="1"/>
+  <line x1="50" y1="475" x2="750" y2="475" stroke="#e5e7eb" stroke-width="1"/>
+  
+  <!-- Table content -->
+  <text x="70" y="367" fill="#374151" font-family="Arial, sans-serif" font-size="10">Antall kontoer</text>
+  <text x="250" y="367" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">50-200</text>
+  <text x="400" y="367" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">1000+</text>
+  <text x="600" y="367" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">Varierer</text>
+  
+  <text x="70" y="392" fill="#374151" font-family="Arial, sans-serif" font-size="10">Frekvens</text>
+  <text x="250" y="392" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">Månedlig</text>
+  <text x="400" y="392" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">Daglig/Ukentlig</text>
+  <text x="600" y="392" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">Regulator-bestemt</text>
+  
+  <text x="70" y="417" fill="#374151" font-family="Arial, sans-serif" font-size="10">Automatisering</text>
+  <text x="250" y="417" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">Begrenset</text>
+  <text x="400" y="417" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">Høy</text>
+  <text x="600" y="417" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">Svært høy</text>
+  
+  <text x="70" y="442" fill="#374151" font-family="Arial, sans-serif" font-size="10">Kompleksitet</text>
+  <text x="250" y="442" text-anchor="middle" fill="#059669" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Lav</text>
+  <text x="400" y="442" text-anchor="middle" fill="#f59e0b" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Høy</text>
+  <text x="600" y="442" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Svært høy</text>
+  
+  <text x="70" y="467" fill="#374151" font-family="Arial, sans-serif" font-size="10">Kontrollnivå</text>
+  <text x="250" y="467" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">Grunnleggende</text>
+  <text x="400" y="467" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">Avansert</text>
+  <text x="600" y="467" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">Maksimal</text>
+  
+  <text x="70" y="492" fill="#374151" font-family="Arial, sans-serif" font-size="10">Ressursbehov</text>
+  <text x="250" y="492" text-anchor="middle" fill="#059669" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Lavt</text>
+  <text x="400" y="492" text-anchor="middle" fill="#f59e0b" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Høyt</text>
+  <text x="600" y="492" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Svært høyt</text>
+  
+  <!-- Bottom note -->
+  <rect x="100" y="540" width="600" height="40" fill="#fffbeb" stroke="#f59e0b" stroke-width="1" rx="6"/>
+  <text x="400" y="560" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Uavhengig av størrelse og bransje:</text>
+  <text x="400" y="575" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="11">Saldobalansen er grunnleggende for alle virksomheter</text>
+</svg>

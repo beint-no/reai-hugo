@@ -1,0 +1,227 @@
+<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="500" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#2c3e50">
+    Implementeringskostnader for Elektronisk Fakturering
+  </text>
+  
+  <!-- Company size categories -->
+  <text x="150" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#e74c3c">
+    Mikrobedrift
+  </text>
+  <text x="150" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">
+    1-9 ansatte
+  </text>
+  
+  <text x="300" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#f39c12">
+    Små bedrifter
+  </text>
+  <text x="300" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">
+    10-49 ansatte
+  </text>
+  
+  <text x="500" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#27ae60">
+    Mellomstore
+  </text>
+  <text x="500" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">
+    50-249 ansatte
+  </text>
+  
+  <text x="650" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#3498db">
+    Store bedrifter
+  </text>
+  <text x="650" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">
+    250+ ansatte
+  </text>
+  
+  <!-- Cost breakdown bars -->
+  
+  <!-- Mikrobedrift -->
+  <rect x="100" y="120" width="100" height="30" fill="#e74c3c" rx="5"/>
+  <text x="150" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+    Systemoppgradering
+  </text>
+  <text x="210" y="140" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">20-50k</text>
+  
+  <rect x="100" y="160" width="40" height="25" fill="#c0392b" rx="5"/>
+  <text x="120" y="177" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="white">
+    PEPPOL
+  </text>
+  <text x="150" y="177" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">5-15k</text>
+  
+  <rect x="100" y="190" width="60" height="25" fill="#a93226" rx="5"/>
+  <text x="130" y="207" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="white">
+    Konsulent
+  </text>
+  <text x="170" y="207" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">10-30k</text>
+  
+  <rect x="100" y="220" width="30" height="25" fill="#922b21" rx="5"/>
+  <text x="115" y="237" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="white">
+    Opp.
+  </text>
+  <text x="140" y="237" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">5-15k</text>
+  
+  <rect x="100" y="250" width="25" height="25" fill="#7b241c" rx="5"/>
+  <text x="112" y="267" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="white">
+    Test
+  </text>
+  <text x="135" y="267" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">5-10k</text>
+  
+  <rect x="100" y="290" width="100" height="35" fill="#641e16" stroke="#5d1a13" stroke-width="2" rx="5"/>
+  <text x="150" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    TOTAL
+  </text>
+  <text x="150" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    45-120k
+  </text>
+  
+  <!-- Små bedrifter -->
+  <rect x="250" y="120" width="100" height="30" fill="#f39c12" rx="5"/>
+  <text x="300" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+    Systemoppgradering
+  </text>
+  <text x="360" y="140" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">50-150k</text>
+  
+  <rect x="250" y="160" width="50" height="25" fill="#e67e22" rx="5"/>
+  <text x="275" y="177" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="white">
+    PEPPOL
+  </text>
+  <text x="310" y="177" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">10-25k</text>
+  
+  <rect x="250" y="190" width="75" height="25" fill="#d68910" rx="5"/>
+  <text x="287" y="207" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="white">
+    Konsulent
+  </text>
+  <text x="335" y="207" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">25-75k</text>
+  
+  <rect x="250" y="220" width="40" height="25" fill="#ca6f1e" rx="5"/>
+  <text x="270" y="237" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="white">
+    Opp.
+  </text>
+  <text x="300" y="237" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">15-30k</text>
+  
+  <rect x="250" y="250" width="35" height="25" fill="#bb6c14" rx="5"/>
+  <text x="267" y="267" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="white">
+    Test
+  </text>
+  <text x="295" y="267" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">10-20k</text>
+  
+  <rect x="250" y="290" width="100" height="35" fill="#a04000" stroke="#935c28" stroke-width="2" rx="5"/>
+  <text x="300" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    TOTAL
+  </text>
+  <text x="300" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    110-300k
+  </text>
+  
+  <!-- Mellomstore -->
+  <rect x="450" y="120" width="100" height="30" fill="#27ae60" rx="5"/>
+  <text x="500" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+    Systemoppgradering
+  </text>
+  <text x="560" y="140" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">200-500k</text>
+  
+  <rect x="450" y="160" width="60" height="25" fill="#229954" rx="5"/>
+  <text x="480" y="177" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="white">
+    PEPPOL
+  </text>
+  <text x="520" y="177" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">25-50k</text>
+  
+  <rect x="450" y="190" width="90" height="25" fill="#1e8449" rx="5"/>
+  <text x="495" y="207" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="white">
+    Konsulent
+  </text>
+  <text x="550" y="207" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">75-200k</text>
+  
+  <rect x="450" y="220" width="55" height="25" fill="#196f3d" rx="5"/>
+  <text x="477" y="237" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="white">
+    Opp.
+  </text>
+  <text x="515" y="237" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">30-75k</text>
+  
+  <rect x="450" y="250" width="45" height="25" fill="#145a32" rx="5"/>
+  <text x="472" y="267" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="white">
+    Test
+  </text>
+  <text x="505" y="267" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">20-50k</text>
+  
+  <rect x="450" y="290" width="100" height="35" fill="#0e4b2a" stroke="#186a3b" stroke-width="2" rx="5"/>
+  <text x="500" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    TOTAL
+  </text>
+  <text x="500" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    350-875k
+  </text>
+  
+  <!-- Store bedrifter -->
+  <rect x="600" y="120" width="100" height="30" fill="#3498db" rx="5"/>
+  <text x="650" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+    Systemoppgradering
+  </text>
+  <text x="710" y="140" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">500k-2M</text>
+  
+  <rect x="600" y="160" width="70" height="25" fill="#2980b9" rx="5"/>
+  <text x="635" y="177" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="white">
+    PEPPOL
+  </text>
+  <text x="680" y="177" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">50-100k</text>
+  
+  <rect x="600" y="190" width="100" height="25" fill="#2471a3" rx="5"/>
+  <text x="650" y="207" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="white">
+    Konsulent
+  </text>
+  <text x="710" y="207" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">200-500k</text>
+  
+  <rect x="600" y="220" width="75" height="25" fill="#1f618d" rx="5"/>
+  <text x="637" y="237" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="white">
+    Opp.
+  </text>
+  <text x="685" y="237" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">75-200k</text>
+  
+  <rect x="600" y="250" width="60" height="25" fill="#1a5276" rx="5"/>
+  <text x="630" y="267" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="white">
+    Test
+  </text>
+  <text x="670" y="267" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">50-150k</text>
+  
+  <rect x="600" y="290" width="100" height="35" fill="#154360" stroke="#1b4f72" stroke-width="2" rx="5"/>
+  <text x="650" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    TOTAL
+  </text>
+  <text x="650" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    875k-2,95M
+  </text>
+  
+  <!-- ROI Timeline -->
+  <rect x="100" y="360" width="600" height="100" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2" rx="10"/>
+  <text x="400" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
+    Tilbakebetalingstid (ROI)
+  </text>
+  
+  <!-- ROI bars -->
+  <rect x="150" y="400" width="60" height="25" fill="#e74c3c" rx="5"/>
+  <text x="180" y="417" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+    6-12 mnd
+  </text>
+  
+  <rect x="250" y="400" width="80" height="25" fill="#f39c12" rx="5"/>
+  <text x="290" y="417" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+    8-15 mnd
+  </text>
+  
+  <rect x="370" y="400" width="100" height="25" fill="#27ae60" rx="5"/>
+  <text x="420" y="417" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+    12-18 mnd
+  </text>
+  
+  <rect x="510" y="400" width="120" height="25" fill="#3498db" rx="5"/>
+  <text x="570" y="417" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+    18-24 mnd
+  </text>
+  
+  <text x="400" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+    Avhengig av fakturavolum og kompleksitet
+  </text>
+</svg>

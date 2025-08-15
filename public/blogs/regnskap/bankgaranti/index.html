@@ -1,0 +1,335 @@
+<!doctype html>
+<html lang="nb">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Hva er en Bankgaranti? | ReAI</title>
+  <meta name="description" content="Komplett regnskapssystem med faktura, lønn, bilagsføring og årsoppgjør.">
+  
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<script src="https://cdn.tailwindcss.com?plugins=typography"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        fontFamily: { sans: ['Inter','ui-sans-serif','system-ui','Arial','sans-serif'] },
+        colors: {
+          brand: { DEFAULT: '#111827' },
+          accent: { DEFAULT: '#2563eb' }
+        }
+      }
+    }
+  }
+</script>
+<style>
+   
+  header .header-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #000 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link:hover { background-position: 0; }
+  header .header-link:hover::before { width: 100%; }
+
+  footer .footer-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #ffffff 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link:hover { background-position: 0; }
+  footer .footer-link:hover::before { width: 100%; }
+</style>
+<style>
+   
+  .prose { overflow-wrap: anywhere; word-break: break-word; }
+  .prose img { max-width: 100%; height: auto; }
+  .prose table { display: block; width: 100%; overflow-x: auto; }
+  .prose pre { white-space: pre-wrap; word-break: break-word; overflow-x: auto; }
+  .prose code { word-break: break-word; }
+  .prose iframe, .prose video { max-width: 100%; width: 100%; height: auto; }
+</style>
+<style>
+   
+  button,
+  .btn,
+  a.btn,
+  .button,
+  .cta,
+  .link-button,
+   
+  a.inline-flex.rounded-md,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"] {
+    transition: transform 220ms ease, box-shadow 220ms ease, background-color 220ms ease, color 220ms ease, opacity 220ms ease;
+    will-change: transform, box-shadow;
+  }
+
+  button:hover,
+  .btn:hover,
+  a.btn:hover,
+  .button:hover,
+  .cta:hover,
+  .link-button:hover,
+  a.inline-flex.rounded-md:hover,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+
+  button:active,
+  .btn:active,
+  a.btn:active,
+  .button:active,
+  .cta:active,
+  .link-button:active,
+  a.inline-flex.rounded-md:active,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:active {
+    transform: translateY(-1px) scale(0.99);
+    box-shadow: 0 6px 12px rgba(2, 6, 23, 0.1);
+  }
+
+  button:focus-visible,
+  .btn:focus-visible,
+  a.btn:focus-visible,
+  .button:focus-visible,
+  .cta:focus-visible,
+  .link-button:focus-visible,
+  a.inline-flex.rounded-md:focus-visible,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.35), 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+</style>
+
+<link rel="icon" type="image/svg+xml" href="/images/ReAI-logo-square.svg">
+<link rel="shortcut icon" href="/images/ReAI-logo-square.svg">
+
+</head>
+<body class="min-h-dvh bg-white text-gray-900 font-sans">
+  <header class="sticky top-0 z-40 bg-white/80 backdrop-blur">
+  
+  <div class="border-b border-slate-200/70">
+    <div class="max-w-7xl mx-auto px-4">
+      <div class="h-16 flex items-center justify-between">
+        <a href="/" class="flex items-center gap-2" aria-label="ReAI">
+          <img src="/images/ReAI-logo-square.svg?v=4" alt="ReAI logo" class="h-14 w-14 rounded-md mt-5" width="56" height="56" loading="eager" decoding="async">
+        </a>
+        <nav class="hidden md:block">
+          <ul class="flex items-center gap-5 text-sm">
+            <li><a href="/courses/" class="header-link text-slate-700 hover:text-black">Gratis kurs</a></li>
+            <li><a href="/contact/" class="header-link text-slate-700 hover:text-black">Kontakt oss</a></li>
+            <li><a href="/blog/" class="header-link text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+            <li><a href="/bli-partner/" class="header-link text-slate-700 hover:text-black">Bli partner</a></li>
+            <li><a href="/fakturamal/" class="header-link text-slate-700 hover:text-black">Lag faktura</a></li>
+          </ul>
+        </nav>
+        <button id="mobileMenuBtn" aria-controls="mobileMenu" aria-expanded="false" class="md:hidden inline-flex items-center justify-center h-9 w-9 rounded-md border border-slate-300">
+          <span class="sr-only">Menu</span>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-5 w-5"><path d="M3.75 6.75h16.5v1.5H3.75zM3.75 11.25h16.5v1.5H3.75zM3.75 15.75h16.5v1.5H3.75z"/></svg>
+        </button>
+      </div>
+    </div>
+  </div>
+  
+  <nav id="mobileMenu" class="md:hidden hidden border-b border-slate-200/70 bg-white/95 backdrop-blur">
+    <div class="max-w-7xl mx-auto px-4 py-3">
+      <ul class="flex flex-col items-center gap-3 text-sm text-center">
+        <li><a href="/courses/" class="header-link block text-slate-700 hover:text-black">Gratis kurs</a></li>
+        <li><a href="/contact/" class="header-link block text-slate-700 hover:text-black">Kontakt oss</a></li>
+        <li><a href="/blog/" class="header-link block text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+        <li><a href="/bli-partner/" class="header-link block text-slate-700 hover:text-black">Bli partner</a></li>
+        <li><a href="/fakturamal/" class="header-link block text-slate-700 hover:text-black">Lag faktura</a></li>
+      </ul>
+    </div>
+  </nav>
+  <script>
+    (function() {
+      const btn = document.getElementById('mobileMenuBtn');
+      const menu = document.getElementById('mobileMenu');
+      if (!btn || !menu) return;
+      btn.addEventListener('click', function() {
+        const isHidden = menu.classList.contains('hidden');
+        menu.classList.toggle('hidden');
+        btn.setAttribute('aria-expanded', String(isHidden));
+      });
+    })();
+  </script>
+</header>
+  <main>
+    
+<section class="pt-10 md:pt-14">
+  <div class="max-w-3xl mx-auto px-4">
+    <h1 class="text-3xl font-semibold tracking-tight text-center">Hva er en Bankgaranti?</h1>
+    <p class="mt-2 text-gray-700">En bankgaranti er en skriftlig forpliktelse fra banken om å dekke et økonomisk krav dersom kunden ikke oppfyller sine kontraktuelle forpliktelser.</p>
+    <article class="prose max-w-none mt-6"><p>En <strong>bankgaranti</strong> er en form for <strong>sikkerhetsstillelse</strong> der en bank forplikter seg skriftlig til å dekke et beløp til en mottaker dersom bankens kunde ikke oppfyller avtalte forpliktelser. En bankgaranti reduserer <strong>motpartsrisiko</strong> ved at mottaker kan kreve direkte betaling fra banken uten å måtte gå via kundens hovedavtale.</p>
+<p><img src="bankgaranti-image.svg" alt="Illustrasjon av konseptet bankgaranti"></p>
+<h2 id="hvorfor-bruke-bankgaranti">Hvorfor bruke bankgaranti?</h2>
+<p>Bankgarantier brukes ofte for å sikre at kontraktsfestede ytelser leveres eller betalinger gjennomføres. Typiske bruksområder inkluderer:</p>
+<ul>
+<li><strong>Offentlige anbud</strong> og innkjøp</li>
+<li><strong>Bygge- og anleggsprosjekter</strong></li>
+<li><strong>Leieavtaler</strong> for eiendom og utstyr</li>
+<li><strong>Import/eksport</strong> og internasjonal handel</li>
+<li><strong>Reklamasjons- og retensjonsgarantier</strong> i leverandørkontrakter</li>
+</ul>
+<h2 id="typer-bankgarantier">Typer bankgarantier</h2>
+<p><img src="bankgaranti-types.svg" alt="Typer Bankgaranti"></p>
+<table>
+  <thead>
+      <tr>
+          <th>Type garanti</th>
+          <th>Formål</th>
+          <th>Varighet</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>Tilbudsbankgaranti</strong></td>
+          <td>Sikrer tilbudsfasen i anbud</td>
+          <td>Frem til kontraktsinngåelse</td>
+      </tr>
+      <tr>
+          <td><strong>Avtalebankgaranti</strong></td>
+          <td>Sikrer kontraktsoppfyllelse</td>
+          <td>Kontraktsperioden</td>
+      </tr>
+      <tr>
+          <td><strong>Retensjonsgaranti</strong></td>
+          <td>Dekker reklamasjonskrav</td>
+          <td>Reklamasjonsperioden</td>
+      </tr>
+      <tr>
+          <td><strong>Utbetalingsgaranti</strong></td>
+          <td>Betaling ved mislighold</td>
+          <td>Ved mislighold</td>
+      </tr>
+      <tr>
+          <td><strong>Deltakelsesgaranti</strong></td>
+          <td>Sikkerhet ved offentlige anbud</td>
+          <td>Anbudsfristen</td>
+      </tr>
+  </tbody>
+</table>
+<p>Se også <a href="/blogs/regnskap/hva-er-retensjonsgaranti" title="Hva er Retensjonsgaranti? Guide til Retensjonsgarantier i Norge">Hva er Retensjonsgaranti?</a>.</p>
+<h2 id="regnskapsføring-av-bankgarantier">Regnskapsføring av bankgarantier</h2>
+<p><img src="bankgaranti-accounting.svg" alt="Regnskapsføring av bankgaranti"></p>
+<p>Bankgarantier regnskapsføres vanligvis <strong>ikke</strong> i balansen, da de er betingede forpliktelser. I noter til årsregnskapet bør utestående garantier likevel opplyses:</p>
+<table>
+  <thead>
+      <tr>
+          <th>Post</th>
+          <th>Beskrivelse</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>Utestående garantier</strong></td>
+          <td>Totalt garantiansvar banken kan kreves å betale</td>
+      </tr>
+      <tr>
+          <td><strong>Notehenvisning</strong></td>
+          <td>Referanse til noter (f.eks. Note 10)</td>
+      </tr>
+  </tbody>
+</table>
+<p>For føring av garantiforpliktelser, se <a href="/blogs/regnskap/avsetning" title="Hva er Avsetning? Ulike typer og regnskapsføring">Hva er Avsetning?</a>.</p>
+<h2 id="prosess-for-etablering-av-bankgaranti">Prosess for etablering av bankgaranti</h2>
+<p><img src="bankgaranti-prosess.svg" alt="Prosess for etablering av bankgaranti"></p>
+<ol>
+<li><strong>Kontakt banken</strong> med kontraktsdokumentasjon og ønsket garantitype.</li>
+<li><strong>Kredittvurdering:</strong> Banken vurderer kundens betalingsevne og eventuelle sikkerheter.</li>
+<li><strong>Sikkerhetsstillelse:</strong> Kunden stiller ofte pant eller depositum.</li>
+<li><strong>Utstedelse av garanti:</strong> Banken genererer garantidokumentet til fordel for mottaker.</li>
+<li><strong>Forvaltning:</strong> Garantien fornyes eller tilbakeleveres ved utløp.</li>
+</ol>
+<p>Les mer om <a href="/blogs/regnskap/hva-er-depositum" title="Hva er Depositum? Slik håndteres depositum i regnskap">Depositum</a>.</p>
+<h2 id="relaterte-artikler">Relaterte artikler</h2>
+<ul>
+<li><a href="/blogs/regnskap/avsetning" title="Hva er Avsetning? Ulike typer og regnskapsføring">Hva er Avsetning?</a></li>
+<li><a href="/blogs/regnskap/hva-er-periodisering" title="Hva er Periodisering? Prinsipper og Eksempler">Hva er Periodisering?</a></li>
+<li><a href="/blogs/regnskap/bedriftsbank" title="Bedriftsbank - Oversikt over banktjenester for bedrifter og regnskapsintegrasjon">Bedriftsbank</a></li>
+<li><a href="/blogs/regnskap/sikkerhet-gjeld" title="Sikkerhet for gjeld - pant og garantier">Sikkerhet for gjeld</a></li>
+<li><a href="/blogs/regnskap/kausjonist" title="Hva er en Kausjonist? Rolle og Ansvar">Hva er en Kausjonist?</a></li>
+</ul>
+</article>
+  </div>
+</section>
+
+  </main>
+  <footer class="mt-16 border-t border-slate-800/60 bg-slate-900">
+  <div class="max-w-7xl mx-auto px-4 py-14">
+    <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3 text-center sm:text-left">
+      
+      <div>
+        <h3 class="text-sm font-semibold text-white">Verktøy</h3>
+        <ul class="mt-2 space-y-2 text-sm text-slate-300">
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/finn-iban/">IBAN kalkulator</a></li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/lag-faktura-gratis/">Lag faktura</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Selskaps-informasjon</h3>
+        <ul class="mt-2 space-y-1 text-sm text-slate-300">
+          <li>Reai AS</li>
+          <li>Orgnr: 935606403</li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="mailto:post@reai.no">post@reai.no</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Om ReAI</h3>
+        <p class="mt-2 text-sm text-slate-300">ReAI er et gratis regnskapsprogram laget av tidligere ansatte i Tripletex
+          / Visma. Vi mener det er på tide med mer konkurranse i regnskaps-bransjen som kan komme bedrifter til gode.
+        </p>
+      </div>
+    </div>
+    <div class="mt-12 border-t border-slate-800/60 pt-6 flex flex-col items-center sm:flex-row sm:items-center sm:justify-between text-sm text-slate-400 text-center sm:text-left">
+      <div class="flex items-center gap-2">
+        
+        
+      </div>
+      <div class="mt-4 sm:mt-0 flex items-center justify-center sm:justify-end">
+        <div class="opacity-80">&copy; 2025 ReAI. All rights reserved.</div>
+      </div>
+    </div>
+  </div>
+</footer>
+</body>
+</html>

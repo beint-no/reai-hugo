@@ -1,0 +1,216 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="planGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="implementGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="monitorGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ffc107;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e0a800;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="improveGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#dc3545;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#c82333;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Title -->
+  <text x="400" y="35" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="#333">
+    Implementering av Regnskapsstandarder - Systematisk Tilnærming
+  </text>
+  
+  <!-- Step 1: Planning -->
+  <rect x="50" y="70" width="150" height="100" fill="url(#planGradient)" rx="8"/>
+  <text x="125" y="95" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+    1. Planlegging
+  </text>
+  <text x="125" y="115" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">
+    • Kartlegging av krav
+  </text>
+  <text x="125" y="130" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">
+    • Gap-analyse
+  </text>
+  <text x="125" y="145" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">
+    • Ressursallokering
+  </text>
+  <text x="125" y="160" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">
+    • Tidsplan
+  </text>
+  
+  <!-- Step 2: Implementation -->
+  <rect x="220" y="70" width="150" height="100" fill="url(#implementGradient)" rx="8"/>
+  <text x="295" y="95" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+    2. Implementering
+  </text>
+  <text x="295" y="115" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">
+    • Systemoppdateringer
+  </text>
+  <text x="295" y="130" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">
+    • Prosessendringer
+  </text>
+  <text x="295" y="145" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">
+    • Opplæring
+  </text>
+  <text x="295" y="160" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">
+    • Testing
+  </text>
+  
+  <!-- Step 3: Monitoring -->
+  <rect x="390" y="70" width="150" height="100" fill="url(#monitorGradient)" rx="8"/>
+  <text x="465" y="95" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+    3. Overvåking
+  </text>
+  <text x="465" y="115" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">
+    • Kvalitetskontroll
+  </text>
+  <text x="465" y="130" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">
+    • Compliance-sjekk
+  </text>
+  <text x="465" y="145" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">
+    • Rapportering
+  </text>
+  <text x="465" y="160" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">
+    • Dokumentasjon
+  </text>
+  
+  <!-- Step 4: Improvement -->
+  <rect x="560" y="70" width="150" height="100" fill="url(#improveGradient)" rx="8"/>
+  <text x="635" y="95" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+    4. Forbedring
+  </text>
+  <text x="635" y="115" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">
+    • Evaluering
+  </text>
+  <text x="635" y="130" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">
+    • Identifisere gap
+  </text>
+  <text x="635" y="145" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">
+    • Korrigerende tiltak
+  </text>
+  <text x="635" y="160" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">
+    • Kontinuerlig utvikling
+  </text>
+  
+  <!-- Arrows between steps -->
+  <path d="M 200 120 L 210 120" stroke="#666" stroke-width="3" marker-end="url(#arrowhead)"/>
+  <path d="M 370 120 L 380 120" stroke="#666" stroke-width="3" marker-end="url(#arrowhead)"/>
+  <path d="M 540 120 L 550 120" stroke="#666" stroke-width="3" marker-end="url(#arrowhead)"/>
+  
+  <!-- Feedback arrow -->
+  <path d="M 635 180 Q 400 220 125 180" stroke="#666" stroke-width="2" stroke-dasharray="5,5" fill="none" marker-end="url(#arrowhead)"/>
+  <text x="400" y="210" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#666">
+    Kontinuerlig forbedringssyklus
+  </text>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="12" markerHeight="8" refX="10" refY="4" orient="auto">
+      <polygon points="0 0, 12 4, 0 8" fill="#666"/>
+    </marker>
+  </defs>
+  
+  <!-- Key success factors -->
+  <text x="400" y="260" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#333">
+    Kritiske Suksessfaktorer
+  </text>
+  
+  <!-- Success factors grid -->
+  <rect x="80" y="280" width="160" height="80" fill="white" stroke="#0066cc" stroke-width="2" rx="6"/>
+  <text x="160" y="305" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0066cc">
+    Ledelsesforankring
+  </text>
+  <text x="160" y="325" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#666">
+    • Tydelig mandat
+  </text>
+  <text x="160" y="340" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#666">
+    • Ressursallokering
+  </text>
+  <text x="160" y="355" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#666">
+    • Prioritering
+  </text>
+  
+  <rect x="260" y="280" width="160" height="80" fill="white" stroke="#28a745" stroke-width="2" rx="6"/>
+  <text x="340" y="305" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#28a745">
+    Kompetanse
+  </text>
+  <text x="340" y="325" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#666">
+    • Faglig ekspertise
+  </text>
+  <text x="340" y="340" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#666">
+    • Opplæringsprogrammer
+  </text>
+  <text x="340" y="355" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#666">
+    • Sertifisering
+  </text>
+  
+  <rect x="440" y="280" width="160" height="80" fill="white" stroke="#ffc107" stroke-width="2" rx="6"/>
+  <text x="520" y="305" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#e0a800">
+    Teknologi
+  </text>
+  <text x="520" y="325" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#666">
+    • Moderne systemer
+  </text>
+  <text x="520" y="340" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#666">
+    • Automatisering
+  </text>
+  <text x="520" y="355" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#666">
+    • Integrasjon
+  </text>
+  
+  <!-- Common challenges -->
+  <text x="400" y="390" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#333">
+    Vanlige Utfordringer og Løsninger
+  </text>
+  
+  <!-- Challenges -->
+  <rect x="50" y="410" width="200" height="60" fill="#fff2f2" stroke="#dc3545" stroke-width="1" rx="4"/>
+  <text x="150" y="430" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#dc3545">
+    Utfordringer
+  </text>
+  <text x="150" y="445" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+    • Kompleksitet • Ressursmangel
+  </text>
+  <text x="150" y="460" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+    • Motstand mot endring • Tidspress
+  </text>
+  
+  <!-- Solutions -->
+  <rect x="270" y="410" width="200" height="60" fill="#f2fff2" stroke="#28a745" stroke-width="1" rx="4"/>
+  <text x="370" y="430" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#28a745">
+    Løsninger
+  </text>
+  <text x="370" y="445" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+    • Trinnvis implementering • Ekstern bistand
+  </text>
+  <text x="370" y="460" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+    • Endringsledelse • Realistisk planlegging
+  </text>
+  
+  <!-- Best practices -->
+  <rect x="490" y="410" width="200" height="60" fill="#fff9e6" stroke="#ffc107" stroke-width="1" rx="4"/>
+  <text x="590" y="430" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#e0a800">
+    Beste Praksis
+  </text>
+  <text x="590" y="445" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+    • Pilotprosjekter • Dokumentasjon
+  </text>
+  <text x="590" y="460" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+    • Regelmessig evaluering • Læring
+  </text>
+  
+  <!-- Footer -->
+  <text x="400" y="490" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#666">
+    Vellykket implementering krever systematisk tilnærming, riktige ressurser og kontinuerlig forbedring
+  </text>
+</svg>

@@ -1,0 +1,205 @@
+<svg width="800" height="800" viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="800" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c3e50">
+    Beslutningstre: Velg Riktig Selskapsform
+  </text>
+  
+  <!-- Start node -->
+  <rect x="320" y="60" width="160" height="50" fill="#3498db" stroke="#2980b9" stroke-width="2" rx="25"/>
+  <text x="400" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    Skal starte virksomhet?
+  </text>
+  
+  <!-- First question: Risk level -->
+  <rect x="320" y="150" width="160" height="60" fill="#f39c12" stroke="#e67e22" stroke-width="2" rx="10"/>
+  <text x="400" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    Har virksomheten
+  </text>
+  <text x="400" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    høy finansiell risiko?
+  </text>
+  <text x="400" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    (store investeringer, ansatte, erstatningskrav)
+  </text>
+  
+  <!-- Arrow from start to first question -->
+  <line x1="400" y1="110" x2="400" y2="150" stroke="#2c3e50" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- High risk path -->
+  <line x1="480" y1="180" x2="580" y2="180" stroke="#e74c3c" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <text x="530" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e74c3c">
+    JA
+  </text>
+  
+  <rect x="580" y="150" width="160" height="60" fill="#e74c3c" stroke="#c0392b" stroke-width="2" rx="10"/>
+  <text x="660" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    Vurder Aksjeselskap
+  </text>
+  <text x="660" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    Begrenset ansvar beskytter
+  </text>
+  <text x="660" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    din private økonomi
+  </text>
+  
+  <!-- Low risk path -->
+  <line x1="400" y1="210" x2="400" y2="250" stroke="#27ae60" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <text x="420" y="235" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#27ae60">
+    NEI
+  </text>
+  
+  <!-- Second question: Partners -->
+  <rect x="320" y="250" width="160" height="60" fill="#9b59b6" stroke="#8e44ad" stroke-width="2" rx="10"/>
+  <text x="400" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    Trenger du partnere
+  </text>
+  <text x="400" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    eller investorer?
+  </text>
+  <text x="400" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    (ekstern kapital, delt eierskap)
+  </text>
+  
+  <!-- Partners yes path -->
+  <line x1="480" y1="280" x2="580" y2="280" stroke="#e74c3c" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <text x="530" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e74c3c">
+    JA
+  </text>
+  
+  <rect x="580" y="250" width="160" height="60" fill="#e67e22" stroke="#d35400" stroke-width="2" rx="10"/>
+  <text x="660" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    Aksjeselskap eller
+  </text>
+  <text x="660" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    Ansvarlig Selskap
+  </text>
+  <text x="660" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    Mulighet for flere eiere
+  </text>
+  
+  <!-- Partners no path -->
+  <line x1="400" y1="310" x2="400" y2="350" stroke="#27ae60" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <text x="420" y="335" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#27ae60">
+    NEI
+  </text>
+  
+  <!-- Third question: Income level -->
+  <rect x="320" y="350" width="160" height="60" fill="#34495e" stroke="#2c3e50" stroke-width="2" rx="10"/>
+  <text x="400" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    Forventer du høy
+  </text>
+  <text x="400" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    inntekt (>1 mill/år)?
+  </text>
+  <text x="400" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    (skatteoptimalisering kan lønne seg)
+  </text>
+  
+  <!-- High income path -->
+  <line x1="480" y1="380" x2="580" y2="380" stroke="#e74c3c" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <text x="530" y="375" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e74c3c">
+    JA
+  </text>
+  
+  <rect x="580" y="350" width="160" height="60" fill="#8e44ad" stroke="#7d3c98" stroke-width="2" rx="10"/>
+  <text x="660" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    Vurder Aksjeselskap
+  </text>
+  <text x="660" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    Skattefordeler ved høy inntekt
+  </text>
+  <text x="660" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    (selskapsskatt + utbytteskatt)
+  </text>
+  
+  <!-- Low income path -->
+  <line x1="400" y1="410" x2="400" y2="450" stroke="#27ae60" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <text x="420" y="435" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#27ae60">
+    NEI
+  </text>
+  
+  <!-- Fourth question: Complexity -->
+  <rect x="320" y="450" width="160" height="60" fill="#16a085" stroke="#138d75" stroke-width="2" rx="10"/>
+  <text x="400" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    Ønsker du enkel
+  </text>
+  <text x="400" y="485" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    administrasjon?
+  </text>
+  <text x="400" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    (minimal byråkrati og rapportering)
+  </text>
+  
+  <!-- Complex path -->
+  <line x1="480" y1="480" x2="580" y2="480" stroke="#e74c3c" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <text x="530" y="475" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e74c3c">
+    NEI
+  </text>
+  
+  <rect x="580" y="450" width="160" height="60" fill="#c0392b" stroke="#a93226" stroke-width="2" rx="10"/>
+  <text x="660" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    Vurder andre
+  </text>
+  <text x="660" y="485" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    selskapsformer
+  </text>
+  <text x="660" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    Aksjeselskap for struktur
+  </text>
+  
+  <!-- Simple path - ENKELTPERSONFORETAK -->
+  <line x1="400" y1="510" x2="400" y2="580" stroke="#27ae60" stroke-width="3" marker-end="url(#arrowhead)"/>
+  <text x="420" y="550" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#27ae60">
+    JA
+  </text>
+  
+  <!-- Final recommendation -->
+  <rect x="280" y="580" width="240" height="80" fill="#27ae60" stroke="#1e8449" stroke-width="3" rx="15"/>
+  <text x="400" y="605" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    ENKELTPERSONFORETAK
+  </text>
+  <text x="400" y="625" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    ✓ Perfekt for din situasjon!
+  </text>
+  <text x="400" y="640" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Enkel oppstart og drift
+  </text>
+  <text x="400" y="655" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Lav risiko og kompleksitet
+  </text>
+  
+  <!-- Additional considerations box -->
+  <rect x="50" y="700" width="700" height="80" fill="#ecf0f1" stroke="#95a5a6" stroke-width="2" rx="10"/>
+  <text x="400" y="720" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+    Viktige Vurderinger for Enkeltpersonforetak:
+  </text>
+  <text x="70" y="740" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    • Kan du leve med ubegrenset personlig ansvar?
+  </text>
+  <text x="70" y="755" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    • Er virksomheten knyttet til din person (konsulent, håndverker, kunstner)?
+  </text>
+  <text x="70" y="770" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    • Har du tilgang til forsikring som dekker yrkesansvar?
+  </text>
+  
+  <text x="420" y="740" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    • Forventer du stabil, moderat inntekt?
+  </text>
+  <text x="420" y="755" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    • Ønsker du full kontroll uten partnere?
+  </text>
+  <text x="420" y="770" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+    • Er enkel administrasjon viktig for deg?
+  </text>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#2c3e50"/>
+    </marker>
+  </defs>
+</svg>

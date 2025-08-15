@@ -1,0 +1,156 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="basicGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#10b981;stop-opacity:0.2" />
+      <stop offset="100%" style="stop-color:#059669;stop-opacity:0.2" />
+    </linearGradient>
+    <linearGradient id="economicGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#f59e0b;stop-opacity:0.2" />
+      <stop offset="100%" style="stop-color:#d97706;stop-opacity:0.2" />
+    </linearGradient>
+    <linearGradient id="segmentGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#8b5cf6;stop-opacity:0.2" />
+      <stop offset="100%" style="stop-color:#7c3aed;stop-opacity:0.2" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8fafc"/>
+  
+  <!-- Title -->
+  <rect x="0" y="0" width="800" height="60" fill="url(#headerGrad)"/>
+  <text x="400" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="bold">Innhold i en Kundeliste</text>
+  
+  <!-- Central customer list representation -->
+  <rect x="300" y="200" width="200" height="200" fill="white" stroke="#3b82f6" stroke-width="3" rx="10"/>
+  <text x="400" y="225" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="16" font-weight="bold">KUNDELISTE</text>
+  
+  <!-- Customer list icon -->
+  <rect x="320" y="240" width="160" height="120" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1" rx="4"/>
+  <rect x="330" y="250" width="140" height="15" fill="#3b82f6" rx="2"/>
+  <rect x="330" y="270" width="140" height="12" fill="#e2e8f0" rx="1"/>
+  <rect x="330" y="285" width="140" height="12" fill="#f8fafc" rx="1"/>
+  <rect x="330" y="300" width="140" height="12" fill="#e2e8f0" rx="1"/>
+  <rect x="330" y="315" width="140" height="12" fill="#f8fafc" rx="1"/>
+  <rect x="330" y="330" width="140" height="12" fill="#e2e8f0" rx="1"/>
+  <rect x="330" y="345" width="140" height="12" fill="#f8fafc" rx="1"/>
+  
+  <!-- Category 1: Grunnleggende opplysninger (Top Left) -->
+  <rect x="50" y="80" width="250" height="180" fill="url(#basicGrad)" stroke="#10b981" stroke-width="2" rx="8"/>
+  <text x="175" y="105" text-anchor="middle" fill="#065f46" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Grunnleggende Opplysninger</text>
+  
+  <circle cx="80" cy="130" r="6" fill="#10b981"/>
+  <text x="95" y="135" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Kundenummer</text>
+  
+  <circle cx="80" cy="150" r="6" fill="#10b981"/>
+  <text x="95" y="155" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Firmanavn/Personnavn</text>
+  
+  <circle cx="80" cy="170" r="6" fill="#10b981"/>
+  <text x="95" y="175" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Organisasjonsnummer</text>
+  
+  <circle cx="80" cy="190" r="6" fill="#10b981"/>
+  <text x="95" y="195" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Kontaktinformasjon</text>
+  
+  <circle cx="80" cy="210" r="6" fill="#10b981"/>
+  <text x="95" y="215" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Betalingsbetingelser</text>
+  
+  <circle cx="80" cy="230" r="6" fill="#10b981"/>
+  <text x="95" y="235" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Registreringsdato</text>
+  
+  <!-- Category 2: Økonomiske opplysninger (Top Right) -->
+  <rect x="500" y="80" width="250" height="180" fill="url(#economicGrad)" stroke="#f59e0b" stroke-width="2" rx="8"/>
+  <text x="625" y="105" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Økonomiske Opplysninger</text>
+  
+  <circle cx="530" cy="130" r="6" fill="#f59e0b"/>
+  <text x="545" y="135" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Kredittgrense</text>
+  
+  <circle cx="530" cy="150" r="6" fill="#f59e0b"/>
+  <text x="545" y="155" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Utestående fordringer</text>
+  
+  <circle cx="530" cy="170" r="6" fill="#f59e0b"/>
+  <text x="545" y="175" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Betalingshistorikk</text>
+  
+  <circle cx="530" cy="190" r="6" fill="#f59e0b"/>
+  <text x="545" y="195" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Total omsetning</text>
+  
+  <circle cx="530" cy="210" r="6" fill="#f59e0b"/>
+  <text x="545" y="215" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Siste transaksjon</text>
+  
+  <circle cx="530" cy="230" r="6" fill="#f59e0b"/>
+  <text x="545" y="235" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Gjennomsnittlig kjøp</text>
+  
+  <!-- Category 3: Segmentering (Bottom Left) -->
+  <rect x="50" y="420" width="250" height="160" fill="url(#segmentGrad)" stroke="#8b5cf6" stroke-width="2" rx="8"/>
+  <text x="175" y="445" text-anchor="middle" fill="#5b21b6" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Segmentering &amp; Kategorisering</text>
+  
+  <circle cx="80" cy="470" r="6" fill="#8b5cf6"/>
+  <text x="95" y="475" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Kundekategori</text>
+  
+  <circle cx="80" cy="490" r="6" fill="#8b5cf6"/>
+  <text x="95" y="495" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Bransje</text>
+  
+  <circle cx="80" cy="510" r="6" fill="#8b5cf6"/>
+  <text x="95" y="515" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Geografisk område</text>
+  
+  <circle cx="80" cy="530" r="6" fill="#8b5cf6"/>
+  <text x="95" y="535" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">ABC-klassifisering</text>
+  
+  <circle cx="80" cy="550" r="6" fill="#8b5cf6"/>
+  <text x="95" y="555" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Risikovurdering</text>
+  
+  <!-- Category 4: Status og aktivitet (Bottom Right) -->
+  <rect x="500" y="420" width="250" height="160" fill="#fef3c7" stroke="#f59e0b" stroke-width="2" rx="8"/>
+  <text x="625" y="445" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Status &amp; Aktivitet</text>
+  
+  <circle cx="530" cy="470" r="6" fill="#f59e0b"/>
+  <text x="545" y="475" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Kundestatus</text>
+  
+  <circle cx="530" cy="490" r="6" fill="#f59e0b"/>
+  <text x="545" y="495" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Aktivitetsnivå</text>
+  
+  <circle cx="530" cy="510" r="6" fill="#f59e0b"/>
+  <text x="545" y="515" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Siste kontakt</text>
+  
+  <circle cx="530" cy="530" r="6" fill="#f59e0b"/>
+  <text x="545" y="535" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Kampanjerespons</text>
+  
+  <circle cx="530" cy="550" r="6" fill="#f59e0b"/>
+  <text x="545" y="555" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Kundetilfredshet</text>
+  
+  <!-- Arrows pointing to center -->
+  <!-- From top left -->
+  <path d="M 250 170 L 320 220" stroke="#10b981" stroke-width="2" fill="none" marker-end="url(#greenArrow)"/>
+  
+  <!-- From top right -->
+  <path d="M 550 170 L 480 220" stroke="#f59e0b" stroke-width="2" fill="none" marker-end="url(#orangeArrow)"/>
+  
+  <!-- From bottom left -->
+  <path d="M 250 450 L 320 380" stroke="#8b5cf6" stroke-width="2" fill="none" marker-end="url(#purpleArrow)"/>
+  
+  <!-- From bottom right -->
+  <path d="M 550 450 L 480 380" stroke="#f59e0b" stroke-width="2" fill="none" marker-end="url(#orangeArrow2)"/>
+  
+  <!-- Arrow markers -->
+  <defs>
+    <marker id="greenArrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#10b981"/>
+    </marker>
+    <marker id="orangeArrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#f59e0b"/>
+    </marker>
+    <marker id="orangeArrow2" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#f59e0b"/>
+    </marker>
+    <marker id="purpleArrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#8b5cf6"/>
+    </marker>
+  </defs>
+  
+  <!-- Central text -->
+  <text x="400" y="375" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Komplett oversikt</text>
+  <text x="400" y="390" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="12" font-weight="bold">over kundebase</text>
+</svg>

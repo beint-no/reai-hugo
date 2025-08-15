@@ -1,0 +1,140 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="aktivaGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#20c997;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="gjeldGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#dc3545;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#fd7e14;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="egenkapitalGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#6f42c1;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
+    Leverandørgjeld i Regnskapssammenheng
+  </text>
+  
+  <!-- Balance equation -->
+  <text x="400" y="60" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="16">
+    Aktiva = Gjeld + Egenkapital
+  </text>
+  
+  <!-- Left side - Aktiva -->
+  <rect x="50" y="100" width="300" height="350" fill="url(#aktivaGradient)" stroke="#28a745" stroke-width="2" rx="8"/>
+  <text x="200" y="130" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="20" font-weight="bold">
+    AKTIVA
+  </text>
+  
+  <!-- Anleggsmidler -->
+  <rect x="70" y="150" width="260" height="80" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.5)" stroke-width="1" rx="4"/>
+  <text x="200" y="175" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    Anleggsmidler
+  </text>
+  <text x="80" y="195" fill="white" font-family="Arial, sans-serif" font-size="11">
+    • Bygninger og maskiner
+  </text>
+  <text x="80" y="210" fill="white" font-family="Arial, sans-serif" font-size="11">
+    • Immaterielle eiendeler
+  </text>
+  
+  <!-- Omløpsmidler -->
+  <rect x="70" y="250" width="260" height="180" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.5)" stroke-width="1" rx="4"/>
+  <text x="200" y="275" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    Omløpsmidler
+  </text>
+  <text x="80" y="295" fill="white" font-family="Arial, sans-serif" font-size="11">
+    • Varelager
+  </text>
+  <text x="80" y="310" fill="white" font-family="Arial, sans-serif" font-size="11">
+    • Kundefordringer
+  </text>
+  <text x="80" y="325" fill="white" font-family="Arial, sans-serif" font-size="11">
+    • Bank og kontanter
+  </text>
+  <text x="80" y="340" fill="white" font-family="Arial, sans-serif" font-size="11">
+    • Andre fordringer
+  </text>
+  
+  <!-- Equals sign -->
+  <text x="400" y="280" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="36" font-weight="bold">
+    =
+  </text>
+  
+  <!-- Right side - Gjeld -->
+  <rect x="450" y="100" width="300" height="200" fill="url(#gjeldGradient)" stroke="#dc3545" stroke-width="2" rx="8"/>
+  <text x="600" y="130" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="20" font-weight="bold">
+    GJELD
+  </text>
+  
+  <!-- Kortsiktig gjeld -->
+  <rect x="470" y="150" width="260" height="120" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.5)" stroke-width="1" rx="4"/>
+  <text x="600" y="175" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    Kortsiktig Gjeld
+  </text>
+  
+  <!-- Highlight leverandørgjeld -->
+  <rect x="480" y="185" width="240" height="25" fill="#ffff00" fill-opacity="0.3" stroke="#ffc107" stroke-width="2" rx="2"/>
+  <text x="490" y="200" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    • LEVERANDØRGJELD
+  </text>
+  
+  <text x="490" y="220" fill="white" font-family="Arial, sans-serif" font-size="11">
+    • Kortsiktige banklån
+  </text>
+  <text x="490" y="235" fill="white" font-family="Arial, sans-serif" font-size="11">
+    • Skyldig skatt og avgifter
+  </text>
+  <text x="490" y="250" fill="white" font-family="Arial, sans-serif" font-size="11">
+    • Påløpte kostnader
+  </text>
+  
+  <!-- Right side - Egenkapital -->
+  <rect x="450" y="320" width="300" height="130" fill="url(#egenkapitalGradient)" stroke="#0066cc" stroke-width="2" rx="8"/>
+  <text x="600" y="350" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="20" font-weight="bold">
+    EGENKAPITAL
+  </text>
+  
+  <rect x="470" y="370" width="260" height="60" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.5)" stroke-width="1" rx="4"/>
+  <text x="490" y="390" fill="white" font-family="Arial, sans-serif" font-size="11">
+    • Aksjekapital
+  </text>
+  <text x="490" y="405" fill="white" font-family="Arial, sans-serif" font-size="11">
+    • Opptjent egenkapital
+  </text>
+  <text x="490" y="420" fill="white" font-family="Arial, sans-serif" font-size="11">
+    • Årets resultat
+  </text>
+  
+  <!-- Arrow pointing to leverandørgjeld -->
+  <path d="M 350 200 Q 380 180 420 200" stroke="#ffc107" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  <text x="320" y="175" fill="#ffc107" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    Fokus på
+  </text>
+  <text x="310" y="190" fill="#ffc107" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    leverandørgjeld
+  </text>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#ffc107"/>
+    </marker>
+  </defs>
+  
+  <!-- Bottom note -->
+  <text x="400" y="480" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="12" font-style="italic">
+    Leverandørgjeld er en sentral del av kortsiktig gjeld og påvirker virksomhetens likviditet
+  </text>
+</svg>

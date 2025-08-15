@@ -1,0 +1,240 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="processGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#007bff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0056b3;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="systemGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#20c997;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="url(#bgGrad)"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
+    Implementering av Utrangeringsverdi-rutiner
+  </text>
+  
+  <!-- Process Flow -->
+  <g transform="translate(50, 70)">
+    <rect x="0" y="0" width="700" height="200" fill="url(#processGrad)" rx="15"/>
+    <text x="350" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      Implementeringsprosess
+    </text>
+    
+    <!-- Step 1 -->
+    <g transform="translate(30, 50)">
+      <rect x="0" y="0" width="120" height="120" fill="white" rx="10"/>
+      <circle cx="60" cy="25" r="15" fill="#007bff"/>
+      <text x="60" y="31" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">1</text>
+      
+      <text x="60" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#007bff">
+        Ansvarsfordeling
+      </text>
+      <text x="10" y="75" font-family="Arial, sans-serif" font-size="9" fill="#495057">
+        • Utpek ansvarlige personer
+      </text>
+      <text x="10" y="88" font-family="Arial, sans-serif" font-size="9" fill="#495057">
+        • Definer roller og oppgaver
+      </text>
+      <text x="10" y="101" font-family="Arial, sans-serif" font-size="9" fill="#495057">
+        • Etabler godkjenningsnivåer
+      </text>
+      <text x="10" y="114" font-family="Arial, sans-serif" font-size="9" fill="#495057">
+        • Sikre kompetanse og opplæring
+      </text>
+    </g>
+    
+    <!-- Arrow 1 -->
+    <polygon points="165,110 180,105 180,115" fill="white"/>
+    
+    <!-- Step 2 -->
+    <g transform="translate(190, 50)">
+      <rect x="0" y="0" width="120" height="120" fill="white" rx="10"/>
+      <circle cx="60" cy="25" r="15" fill="#007bff"/>
+      <text x="60" y="31" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">2</text>
+      
+      <text x="60" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#007bff">
+        Retningslinjer
+      </text>
+      <text x="10" y="75" font-family="Arial, sans-serif" font-size="9" fill="#495057">
+        • Utvikle interne regler
+      </text>
+      <text x="10" y="88" font-family="Arial, sans-serif" font-size="9" fill="#495057">
+        • Definer estimeringsmetoder
+      </text>
+      <text x="10" y="101" font-family="Arial, sans-serif" font-size="9" fill="#495057">
+        • Sett krav til dokumentasjon
+      </text>
+      <text x="10" y="114" font-family="Arial, sans-serif" font-size="9" fill="#495057">
+        • Bestem revurderingsfrekvens
+      </text>
+    </g>
+    
+    <!-- Arrow 2 -->
+    <polygon points="325,110 340,105 340,115" fill="white"/>
+    
+    <!-- Step 3 -->
+    <g transform="translate(350, 50)">
+      <rect x="0" y="0" width="120" height="120" fill="white" rx="10"/>
+      <circle cx="60" cy="25" r="15" fill="#007bff"/>
+      <text x="60" y="31" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">3</text>
+      
+      <text x="60" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#007bff">
+        Dokumentasjon
+      </text>
+      <text x="10" y="75" font-family="Arial, sans-serif" font-size="9" fill="#495057">
+        • Lag sporbare vurderinger
+      </text>
+      <text x="10" y="88" font-family="Arial, sans-serif" font-size="9" fill="#495057">
+        • Begrunn valg av metoder
+      </text>
+      <text x="10" y="101" font-family="Arial, sans-serif" font-size="9" fill="#495057">
+        • Arkiver beslutningsgrunnlag
+      </text>
+      <text x="10" y="114" font-family="Arial, sans-serif" font-size="9" fill="#495057">
+        • Vedlikehold historikk
+      </text>
+    </g>
+    
+    <!-- Arrow 3 -->
+    <polygon points="485,110 500,105 500,115" fill="white"/>
+    
+    <!-- Step 4 -->
+    <g transform="translate(510, 50)">
+      <rect x="0" y="0" width="120" height="120" fill="white" rx="10"/>
+      <circle cx="60" cy="25" r="15" fill="#007bff"/>
+      <text x="60" y="31" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">4</text>
+      
+      <text x="60" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#007bff">
+        Kvalitetssikring
+      </text>
+      <text x="10" y="75" font-family="Arial, sans-serif" font-size="9" fill="#495057">
+        • Etabler kontrollmekanismer
+      </text>
+      <text x="10" y="88" font-family="Arial, sans-serif" font-size="9" fill="#495057">
+        • Sammenlign med faktiske salg
+      </text>
+      <text x="10" y="101" font-family="Arial, sans-serif" font-size="9" fill="#495057">
+        • Gjennomfør uavhengige vurderinger
+      </text>
+      <text x="10" y="114" font-family="Arial, sans-serif" font-size="9" fill="#495057">
+        • Korriger avvik systematisk
+      </text>
+    </g>
+  </g>
+  
+  <!-- System Support -->
+  <g transform="translate(50, 300)">
+    <rect x="0" y="0" width="340" height="180" fill="url(#systemGrad)" rx="15"/>
+    <text x="170" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      Systemstøtte
+    </text>
+    
+    <rect x="20" y="45" width="300" height="120" fill="white" rx="8"/>
+    
+    <!-- System icon -->
+    <rect x="30" y="60" width="40" height="25" rx="3" fill="#28a745"/>
+    <rect x="32" y="62" width="36" height="18" rx="2" fill="#e9ecef"/>
+    <rect x="45" y="87" width="10" height="8" rx="2" fill="#6c757d"/>
+    
+    <text x="85" y="70" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#28a745">
+      IT-systemintegrasjon:
+    </text>
+    <text x="85" y="88" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      • Integrasjon med anleggsmiddelregister
+    </text>
+    <text x="85" y="101" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      • Automatiske varsler ved behov for revurdering
+    </text>
+    <text x="85" y="114" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      • Rapporteringsverktøy for oppfølging
+    </text>
+    
+    <text x="30" y="135" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#28a745">
+      Automatisering:
+    </text>
+    <text x="30" y="150" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      ✓ Månedlige avskrivningsberegninger
+    </text>
+    <text x="30" y="163" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      ✓ Avviksrapportering og trendanalyse
+    </text>
+  </g>
+  
+  <!-- Best Practices -->
+  <g transform="translate(410, 300)">
+    <rect x="0" y="0" width="340" height="180" fill="#ffc107" rx="15"/>
+    <text x="170" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      Beste Praksis
+    </text>
+    
+    <rect x="20" y="45" width="300" height="120" fill="white" rx="8"/>
+    
+    <!-- Best practice icon -->
+    <polygon points="30,60 45,60 37.5,75" fill="#ffc107"/>
+    <text x="37.5" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">★</text>
+    
+    <text x="55" y="70" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#856404">
+      Vurderingsprinsipper:
+    </text>
+    <text x="55" y="88" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      • Konservative estimater ved høy usikkerhet
+    </text>
+    <text x="55" y="101" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      • Markedsbaserte metoder når data finnes
+    </text>
+    <text x="55" y="114" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      • Ekspertvurderinger for spesialiserte eiendeler
+    </text>
+    
+    <text x="30" y="135" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#856404">
+      Kvalitetskontroll:
+    </text>
+    <text x="30" y="150" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      ✓ Benchmarking mot faktiske salgsresultater
+    </text>
+    <text x="30" y="163" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      ✓ Ekstern validering ved behov
+    </text>
+  </g>
+  
+  <!-- Implementation timeline -->
+  <g transform="translate(50, 510)">
+    <rect x="0" y="0" width="700" height="70" fill="white" stroke="#17a2b8" stroke-width="3" rx="15"/>
+    <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#17a2b8">
+      Implementeringstidslinje
+    </text>
+    
+    <!-- Timeline -->
+    <line x1="80" y1="45" x2="620" y2="45" stroke="#17a2b8" stroke-width="3"/>
+    
+    <!-- Phase markers -->
+    <circle cx="130" cy="45" r="5" fill="#17a2b8"/>
+    <text x="130" y="62" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#17a2b8" font-weight="bold">
+      Uke 1-2: Planlegging
+    </text>
+    
+    <circle cx="270" cy="45" r="5" fill="#17a2b8"/>
+    <text x="270" y="62" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#17a2b8" font-weight="bold">
+      Uke 3-6: Utvikling
+    </text>
+    
+    <circle cx="410" cy="45" r="5" fill="#17a2b8"/>
+    <text x="410" y="62" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#17a2b8" font-weight="bold">
+      Uke 7-8: Testing
+    </text>
+    
+    <circle cx="550" cy="45" r="5" fill="#17a2b8"/>
+    <text x="550" y="62" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#17a2b8" font-weight="bold">
+      Uke 9+: Produksjon
+    </text>
+  </g>
+</svg>

@@ -1,0 +1,86 @@
+<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1e40af;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="#f8fafc"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
+  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white" text-anchor="middle">Systemoptimalisering og Teknologi</text>
+  
+  <!-- Content area -->
+  <g transform="translate(50, 80)">
+    
+    <!-- ERP-integrasjon -->
+    <g transform="translate(0, 0)">
+      <rect x="0" y="0" width="340" height="180" fill="#dbeafe" stroke="#3b82f6" stroke-width="2" rx="12"/>
+      <text x="170" y="30" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e40af" text-anchor="middle">ERP-integrasjon</text>
+      
+      <text x="20" y="60" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e40af">Sømløs dataflyt:</text>
+      <text x="30" y="80" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Automatisk dataoverføring</text>
+      <text x="30" y="100" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Eliminering av manuell inntasting</text>
+      <text x="30" y="120" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Real-time oppdatering</text>
+      
+      <text x="20" y="150" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e40af">Fordeler:</text>
+      <text x="30" y="170" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Redusert feilrisiko og tidsforbruk</text>
+    </g>
+    
+    <!-- Automatiserte avstemminger -->
+    <g transform="translate(360, 0)">
+      <rect x="0" y="0" width="340" height="180" fill="#dcfce7" stroke="#10b981" stroke-width="2" rx="12"/>
+      <text x="170" y="30" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#059669" text-anchor="middle">Automatiserte Avstemminger</text>
+      
+      <text x="20" y="60" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#059669">Automatisk prosessering:</text>
+      <text x="30" y="80" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Bankavstemminger</text>
+      <text x="30" y="100" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Leverandørkontoer</text>
+      <text x="30" y="120" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Kundefordringer</text>
+      
+      <text x="20" y="150" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#059669">Validering:</text>
+      <text x="30" y="170" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Innbyggede kontroller for datakvalitet</text>
+    </g>
+    
+    <!-- Dashboard og analyse -->
+    <g transform="translate(0, 200)">
+      <rect x="0" y="0" width="340" height="180" fill="#fef3c7" stroke="#f59e0b" stroke-width="2" rx="12"/>
+      <text x="170" y="30" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#d97706" text-anchor="middle">Dashboard og Analyse</text>
+      
+      <text x="20" y="60" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#d97706">Real-time oversikt:</text>
+      <text x="30" y="80" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Live nøkkeltall og status</text>
+      <text x="30" y="100" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Automatisk varsling ved avvik</text>
+      
+      <text x="20" y="130" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#d97706">Analytiske verktøy:</text>
+      <text x="30" y="150" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Trendsanalyse og prognoser</text>
+      <text x="30" y="170" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Automatisk avviksidentifikasjon</text>
+    </g>
+    
+    <!-- Backup og sikkerhet -->
+    <g transform="translate(360, 200)">
+      <rect x="0" y="0" width="340" height="180" fill="#fce7f3" stroke="#ec4899" stroke-width="2" rx="12"/>
+      <text x="170" y="30" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#be185d" text-anchor="middle">Backup og Sikkerhet</text>
+      
+      <text x="20" y="60" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#be185d">Datasikring:</text>
+      <text x="30" y="80" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Automatisk backup-rutiner</text>
+      <text x="30" y="100" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Redundante systemer</text>
+      <text x="30" y="120" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Katastrofegjenoppretting</text>
+      
+      <text x="20" y="150" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#be185d">Tilgangskontroll:</text>
+      <text x="30" y="170" font-family="Arial, sans-serif" font-size="11" fill="#374151">• Brukerrettigheter og autorisasjon</text>
+    </g>
+    
+    <!-- Investering og ROI -->
+    <g transform="translate(0, 400)">
+      <rect x="0" y="0" width="700" height="80" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="2" rx="8"/>
+      <text x="350" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#334155" text-anchor="middle">Investeringsvurdering og Gevinstrealisering</text>
+      <text x="20" y="45" font-family="Arial, sans-serif" font-size="11" fill="#475569">• Teknologiinvesteringer må vurderes mot langsiktige gevinster i effektivitet og kvalitet</text>
+      <text x="20" y="60" font-family="Arial, sans-serif" font-size="11" fill="#475569">• ROI inkluderer tids- og kostnadsbesparing, redusert feilrisiko og forbedret rapporteringskvalitet</text>
+      <text x="20" y="75" font-family="Arial, sans-serif" font-size="11" fill="#475569">• Suksessfulle implementeringer krever grundig planlegging og brukeropplæring</text>
+    </g>
+    
+  </g>
+  
+</svg>

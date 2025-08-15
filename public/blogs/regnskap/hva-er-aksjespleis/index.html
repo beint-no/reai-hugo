@@ -1,0 +1,348 @@
+<!doctype html>
+<html lang="nb">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Hva er Aksjespleis? En Detaljert Guide | ReAI</title>
+  <meta name="description" content="Komplett regnskapssystem med faktura, lønn, bilagsføring og årsoppgjør.">
+  
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<script src="https://cdn.tailwindcss.com?plugins=typography"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        fontFamily: { sans: ['Inter','ui-sans-serif','system-ui','Arial','sans-serif'] },
+        colors: {
+          brand: { DEFAULT: '#111827' },
+          accent: { DEFAULT: '#2563eb' }
+        }
+      }
+    }
+  }
+</script>
+<style>
+   
+  header .header-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #000 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link:hover { background-position: 0; }
+  header .header-link:hover::before { width: 100%; }
+
+  footer .footer-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #ffffff 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link:hover { background-position: 0; }
+  footer .footer-link:hover::before { width: 100%; }
+</style>
+<style>
+   
+  .prose { overflow-wrap: anywhere; word-break: break-word; }
+  .prose img { max-width: 100%; height: auto; }
+  .prose table { display: block; width: 100%; overflow-x: auto; }
+  .prose pre { white-space: pre-wrap; word-break: break-word; overflow-x: auto; }
+  .prose code { word-break: break-word; }
+  .prose iframe, .prose video { max-width: 100%; width: 100%; height: auto; }
+</style>
+<style>
+   
+  button,
+  .btn,
+  a.btn,
+  .button,
+  .cta,
+  .link-button,
+   
+  a.inline-flex.rounded-md,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"] {
+    transition: transform 220ms ease, box-shadow 220ms ease, background-color 220ms ease, color 220ms ease, opacity 220ms ease;
+    will-change: transform, box-shadow;
+  }
+
+  button:hover,
+  .btn:hover,
+  a.btn:hover,
+  .button:hover,
+  .cta:hover,
+  .link-button:hover,
+  a.inline-flex.rounded-md:hover,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+
+  button:active,
+  .btn:active,
+  a.btn:active,
+  .button:active,
+  .cta:active,
+  .link-button:active,
+  a.inline-flex.rounded-md:active,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:active {
+    transform: translateY(-1px) scale(0.99);
+    box-shadow: 0 6px 12px rgba(2, 6, 23, 0.1);
+  }
+
+  button:focus-visible,
+  .btn:focus-visible,
+  a.btn:focus-visible,
+  .button:focus-visible,
+  .cta:focus-visible,
+  .link-button:focus-visible,
+  a.inline-flex.rounded-md:focus-visible,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.35), 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+</style>
+
+<link rel="icon" type="image/svg+xml" href="/images/ReAI-logo-square.svg">
+<link rel="shortcut icon" href="/images/ReAI-logo-square.svg">
+
+</head>
+<body class="min-h-dvh bg-white text-gray-900 font-sans">
+  <header class="sticky top-0 z-40 bg-white/80 backdrop-blur">
+  
+  <div class="border-b border-slate-200/70">
+    <div class="max-w-7xl mx-auto px-4">
+      <div class="h-16 flex items-center justify-between">
+        <a href="/" class="flex items-center gap-2" aria-label="ReAI">
+          <img src="/images/ReAI-logo-square.svg?v=4" alt="ReAI logo" class="h-14 w-14 rounded-md mt-5" width="56" height="56" loading="eager" decoding="async">
+        </a>
+        <nav class="hidden md:block">
+          <ul class="flex items-center gap-5 text-sm">
+            <li><a href="/courses/" class="header-link text-slate-700 hover:text-black">Gratis kurs</a></li>
+            <li><a href="/contact/" class="header-link text-slate-700 hover:text-black">Kontakt oss</a></li>
+            <li><a href="/blog/" class="header-link text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+            <li><a href="/bli-partner/" class="header-link text-slate-700 hover:text-black">Bli partner</a></li>
+            <li><a href="/fakturamal/" class="header-link text-slate-700 hover:text-black">Lag faktura</a></li>
+          </ul>
+        </nav>
+        <button id="mobileMenuBtn" aria-controls="mobileMenu" aria-expanded="false" class="md:hidden inline-flex items-center justify-center h-9 w-9 rounded-md border border-slate-300">
+          <span class="sr-only">Menu</span>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-5 w-5"><path d="M3.75 6.75h16.5v1.5H3.75zM3.75 11.25h16.5v1.5H3.75zM3.75 15.75h16.5v1.5H3.75z"/></svg>
+        </button>
+      </div>
+    </div>
+  </div>
+  
+  <nav id="mobileMenu" class="md:hidden hidden border-b border-slate-200/70 bg-white/95 backdrop-blur">
+    <div class="max-w-7xl mx-auto px-4 py-3">
+      <ul class="flex flex-col items-center gap-3 text-sm text-center">
+        <li><a href="/courses/" class="header-link block text-slate-700 hover:text-black">Gratis kurs</a></li>
+        <li><a href="/contact/" class="header-link block text-slate-700 hover:text-black">Kontakt oss</a></li>
+        <li><a href="/blog/" class="header-link block text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+        <li><a href="/bli-partner/" class="header-link block text-slate-700 hover:text-black">Bli partner</a></li>
+        <li><a href="/fakturamal/" class="header-link block text-slate-700 hover:text-black">Lag faktura</a></li>
+      </ul>
+    </div>
+  </nav>
+  <script>
+    (function() {
+      const btn = document.getElementById('mobileMenuBtn');
+      const menu = document.getElementById('mobileMenu');
+      if (!btn || !menu) return;
+      btn.addEventListener('click', function() {
+        const isHidden = menu.classList.contains('hidden');
+        menu.classList.toggle('hidden');
+        btn.setAttribute('aria-expanded', String(isHidden));
+      });
+    })();
+  </script>
+</header>
+  <main>
+    
+<section class="pt-10 md:pt-14">
+  <div class="max-w-3xl mx-auto px-4">
+    <h1 class="text-3xl font-semibold tracking-tight text-center">Hva er Aksjespleis? En Detaljert Guide</h1>
+    <p class="mt-2 text-gray-700">En aksjespleis, også kjent som omvendt aksjesplitt, er en prosess der et selskap reduserer antall utestående aksjer og samtidig øker aksjekursen proporsjonalt. Dette påvirker ikke selskapets totale markedsverdi.</p>
+    <article class="prose max-w-none mt-6"><p>En <strong>aksjespleis</strong>, ofte kalt <em>omvendt aksjesplitt</em>, er en strategisk manøver et <a href="/blogs/regnskap/hva-er-et-aksjeselskap" title="Hva er et aksjeselskap?">aksjeselskap</a> kan gjennomføre for å redusere antall utestående aksjer. Dette fører til at verdien per aksje øker tilsvarende, uten at den totale verdien av <a href="/blogs/regnskap/hva-er-aksjekapital" title="Hva er aksjekapital?">aksjekapitalen</a> endres.</p>
+<p>Tenk på det som å bytte ti 10-kronestykker mot én 100-kroneseddel. Verdien er den samme, men antallet enheter er færre. En aksjespleis er det motsatte av en <a href="/blogs/regnskap/hva-er-aksjesplitt" title="Hva er en Aksjesplitt? En Komplett Guide">aksjesplitt</a>, hvor man i stedet deler opp aksjer for å senke prisen per aksje.</p>
+<h2 id="hvorfor-gjennomfører-selskaper-en-aksjespleis">Hvorfor gjennomfører selskaper en aksjespleis?</h2>
+<p>Det er flere grunner til at et selskap kan velge å gjennomføre en aksjespleis. Ofte er målet å gjøre aksjen mer attraktiv for investorer eller å oppfylle visse krav på en børs.</p>
+<ul>
+<li><strong>Øke aksjekursen:</strong> En svært lav aksjekurs kan gi inntrykk av at selskapet er i trøbbel eller av lav kvalitet. Ved å &ldquo;spleise&rdquo; aksjene, øker kursen per aksje, noe som kan forbedre selskapets image og tiltrekke seg større, institusjonelle investorer.</li>
+<li><strong>Krav fra børsen:</strong> Noen børser har minimumskrav til aksjekursen for å kunne være notert. En aksjespleis kan være nødvendig for å unngå å bli strøket fra listen.</li>
+<li><strong>Redusere volatilitet:</strong> Aksjer med svært lav kurs (såkalte &ldquo;penny stocks&rdquo;) kan være utsatt for store prosentvise svingninger. En høyere aksjekurs kan bidra til mer stabilitet.</li>
+<li><strong>Administrativ forenkling:</strong> Å redusere antall aksjer kan forenkle administrasjonen og redusere kostnader knyttet til <a href="/blogs/regnskap/hva-er-aksjonaerregisteret" title="Hva er Aksjonærregisteret?">aksjonærregisteret</a>.</li>
+</ul>
+<p><img src="aksjespleis-prosess.svg" alt="Illustrasjon som viser prosessen av en aksjespleis"></p>
+<h2 id="hvordan-fungerer-en-aksjespleis-i-praksis">Hvordan fungerer en aksjespleis i praksis?</h2>
+<p>Prosessen for en aksjespleis er regulert av <a href="/blogs/regnskap/hva-er-aksjeloven" title="Les mer om Aksjeloven">Aksjeloven</a>. Beslutningen må tas i selskapets generalforsamling med tilstrekkelig flertall.</p>
+<p>La oss se på et eksempel:</p>
+<p>Et selskap, &ldquo;Tech Invest AS&rdquo;, har 10 000 000 utestående aksjer med en kurs på 0,50 kr per aksje. Selskapets totale markedsverdi er 5 000 000 kr.</p>
+<p>Styret ønsker en høyere aksjekurs og foreslår en aksjespleis i forholdet 10:1. Det vil si at 10 gamle aksjer slås sammen til 1 ny aksje.</p>
+<p><strong>Før aksjespleis:</strong></p>
+<table>
+  <thead>
+      <tr>
+          <th>Egenskap</th>
+          <th>Verdi</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Antall aksjer</td>
+          <td>10 000 000</td>
+      </tr>
+      <tr>
+          <td>Pålydende per aksje</td>
+          <td>0,10 kr</td>
+      </tr>
+      <tr>
+          <td>Kurs per aksje</td>
+          <td>0,50 kr</td>
+      </tr>
+      <tr>
+          <td><strong>Total markedsverdi</strong></td>
+          <td><strong>5 000 000 kr</strong></td>
+      </tr>
+  </tbody>
+</table>
+<p><strong>Etter aksjespleis (10:1):</strong></p>
+<table>
+  <thead>
+      <tr>
+          <th>Egenskap</th>
+          <th>Verdi</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Antall aksjer</td>
+          <td>1 000 000 (10 000 000 / 10)</td>
+      </tr>
+      <tr>
+          <td>Pålydende per aksje</td>
+          <td>1,00 kr (0,10 kr * 10)</td>
+      </tr>
+      <tr>
+          <td>Kurs per aksje</td>
+          <td>5,00 kr (0,50 kr * 10)</td>
+      </tr>
+      <tr>
+          <td><strong>Total markedsverdi</strong></td>
+          <td><strong>5 000 000 kr</strong></td>
+      </tr>
+  </tbody>
+</table>
+<p>Som tabellen viser, er selskapets totale verdi uendret. En aksjonær som eide 1000 aksjer verdt 500 kr før spleisen, vil eie 100 aksjer verdt 500 kr etter spleisen.</p>
+<h2 id="hva-skjer-med-brøkaksjer">Hva skjer med brøkaksjer?</h2>
+<p>En utfordring med aksjespleis er at noen aksjonærer kan ende opp med et antall aksjer som ikke er delelig med spleiseforholdet. Dette resulterer i <em>brøkaksjer</em>.</p>
+<p>Hvis en aksjonær eier 15 aksjer i vårt eksempel med en 10:1 spleis, ville vedkommende fått 1,5 nye aksjer. Siden man ikke kan eie en halv aksje, blir slike overskytende aksjer vanligvis tvangsinnløst og utbetalt til aksjonæren. Detaljene for dette skal være beskrevet i innkallingen til generalforsamlingen.</p>
+<h2 id="fordeler-og-ulemper-med-aksjespleis">Fordeler og ulemper med aksjespleis</h2>
+<table>
+  <thead>
+      <tr>
+          <th>Fordeler</th>
+          <th>Ulemper</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Forbedret image og troverdighet</td>
+          <td>Kan signalisere at selskapet har hatt problemer</td>
+      </tr>
+      <tr>
+          <td>Tiltrekker seg institusjonelle investorer</td>
+          <td>Endrer ikke de underliggende økonomiske forholdene</td>
+      </tr>
+      <tr>
+          <td>Oppfyller børskrav</td>
+          <td>Kan føre til tvangsinnløsning for småaksjonærer</td>
+      </tr>
+      <tr>
+          <td>Redusert kursvolatilitet</td>
+          <td>Ingen garanti for at kursen vil holde seg oppe</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="konklusjon">Konklusjon</h2>
+<p>En aksjespleis er et verktøy selskaper kan bruke for å justere aksjestrukturen sin. Det er en ren kosmetisk endring som ikke i seg selv skaper verdi, men som kan ha psykologiske og administrative fordeler. For en investor er det viktig å forstå at en aksjespleis ikke endrer den fundamentale verdien av investeringen, men det kan være et signal om selskapets strategi og fremtidsutsikter. Det er alltid lurt å undersøke <em>hvorfor</em> selskapet gjennomfører spleisen før man tar videre beslutninger.</p>
+</article>
+  </div>
+</section>
+
+  </main>
+  <footer class="mt-16 border-t border-slate-800/60 bg-slate-900">
+  <div class="max-w-7xl mx-auto px-4 py-14">
+    <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3 text-center sm:text-left">
+      
+      <div>
+        <h3 class="text-sm font-semibold text-white">Verktøy</h3>
+        <ul class="mt-2 space-y-2 text-sm text-slate-300">
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/finn-iban/">IBAN kalkulator</a></li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/lag-faktura-gratis/">Lag faktura</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Selskaps-informasjon</h3>
+        <ul class="mt-2 space-y-1 text-sm text-slate-300">
+          <li>Reai AS</li>
+          <li>Orgnr: 935606403</li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="mailto:post@reai.no">post@reai.no</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Om ReAI</h3>
+        <p class="mt-2 text-sm text-slate-300">ReAI er et gratis regnskapsprogram laget av tidligere ansatte i Tripletex
+          / Visma. Vi mener det er på tide med mer konkurranse i regnskaps-bransjen som kan komme bedrifter til gode.
+        </p>
+      </div>
+    </div>
+    <div class="mt-12 border-t border-slate-800/60 pt-6 flex flex-col items-center sm:flex-row sm:items-center sm:justify-between text-sm text-slate-400 text-center sm:text-left">
+      <div class="flex items-center gap-2">
+        
+        
+      </div>
+      <div class="mt-4 sm:mt-0 flex items-center justify-center sm:justify-end">
+        <div class="opacity-80">&copy; 2025 ReAI. All rights reserved.</div>
+      </div>
+    </div>
+  </div>
+</footer>
+</body>
+</html>

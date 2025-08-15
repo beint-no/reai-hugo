@@ -1,0 +1,194 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="timelineGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0D47A1;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="phase1Gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1B5E20;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="phase2Gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF9800;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#E65100;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="phase3Gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#9C27B0;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4A148C;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="riskGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#F44336;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#B71C1C;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#333">
+    API-integrasjon Implementeringsplan
+  </text>
+  <text x="400" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#666">
+    12-ukers milepælsplan for vellykket API-automatisering
+  </text>
+  
+  <!-- Timeline Header -->
+  <g transform="translate(50, 90)">
+    <rect x="0" y="0" width="700" height="40" rx="5" fill="url(#timelineGradient)" opacity="0.9"/>
+    <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      📅 Implementeringstidslinje
+    </text>
+  </g>
+  
+  <!-- Week markers -->
+  <g transform="translate(50, 140)">
+    <!-- Week numbers -->
+    <text x="60" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#666">Uke 1-2</text>
+    <text x="180" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#666">Uke 3-6</text>
+    <text x="300" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#666">Uke 7-8</text>
+    <text x="420" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#666">Uke 9-10</text>
+    <text x="540" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#666">Uke 11-12</text>
+    
+    <!-- Timeline line -->
+    <line x1="60" y1="25" x2="540" y2="25" stroke="#666" stroke-width="3"/>
+    
+    <!-- Milestone markers -->
+    <circle cx="60" cy="25" r="6" fill="url(#phase1Gradient)"/>
+    <circle cx="180" cy="25" r="6" fill="url(#phase2Gradient)"/>
+    <circle cx="300" cy="25" r="6" fill="url(#phase3Gradient)"/>
+    <circle cx="420" cy="25" r="6" fill="url(#phase2Gradient)"/>
+    <circle cx="540" cy="25" r="6" fill="url(#phase1Gradient)"/>
+  </g>
+  
+  <!-- Phase 1: Systemkartlegging og datamodellering -->
+  <g transform="translate(50, 180)">
+    <rect x="0" y="0" width="120" height="120" rx="10" fill="url(#phase1Gradient)" opacity="0.9"/>
+    <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      Uke 1-2
+    </text>
+    <text x="60" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+      Systemkartlegging
+    </text>
+    
+    <text x="10" y="60" font-family="Arial, sans-serif" font-size="9" fill="white">• Kartlegg eksisterende</text>
+    <text x="10" y="75" font-family="Arial, sans-serif" font-size="9" fill="white">  systemer</text>
+    <text x="10" y="90" font-family="Arial, sans-serif" font-size="9" fill="white">• Datamodellering</text>
+    <text x="10" y="105" font-family="Arial, sans-serif" font-size="9" fill="white">• Behovsanalyse</text>
+  </g>
+  
+  <!-- Phase 2: API-utvikling og testing -->
+  <g transform="translate(190, 180)">
+    <rect x="0" y="0" width="120" height="120" rx="10" fill="url(#phase2Gradient)" opacity="0.9"/>
+    <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      Uke 3-6
+    </text>
+    <text x="60" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+      API-utvikling
+    </text>
+    
+    <text x="10" y="60" font-family="Arial, sans-serif" font-size="9" fill="white">• API-koblinger</text>
+    <text x="10" y="75" font-family="Arial, sans-serif" font-size="9" fill="white">• Datavalidering</text>
+    <text x="10" y="90" font-family="Arial, sans-serif" font-size="9" fill="white">• Enhetstesting</text>
+    <text x="10" y="105" font-family="Arial, sans-serif" font-size="9" fill="white">• Sikkerhetstesting</text>
+  </g>
+  
+  <!-- Phase 3: Pilotimplementering -->
+  <g transform="translate(330, 180)">
+    <rect x="0" y="0" width="120" height="120" rx="10" fill="url(#phase3Gradient)" opacity="0.9"/>
+    <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      Uke 7-8
+    </text>
+    <text x="60" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+      Pilotimplementering
+    </text>
+    
+    <text x="10" y="60" font-family="Arial, sans-serif" font-size="9" fill="white">• Begrenset scope</text>
+    <text x="10" y="75" font-family="Arial, sans-serif" font-size="9" fill="white">• Testmiljø</text>
+    <text x="10" y="90" font-family="Arial, sans-serif" font-size="9" fill="white">• Feilretting</text>
+    <text x="10" y="105" font-family="Arial, sans-serif" font-size="9" fill="white">• Ytelsesoptimalisering</text>
+  </g>
+  
+  <!-- Phase 4: Fullskala utrulling -->
+  <g transform="translate(470, 180)">
+    <rect x="0" y="0" width="120" height="120" rx="10" fill="url(#phase2Gradient)" opacity="0.9"/>
+    <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      Uke 9-10
+    </text>
+    <text x="60" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+      Fullskala utrulling
+    </text>
+    
+    <text x="10" y="60" font-family="Arial, sans-serif" font-size="9" fill="white">• Produksjonsmiljø</text>
+    <text x="10" y="75" font-family="Arial, sans-serif" font-size="9" fill="white">• Brukertesting</text>
+    <text x="10" y="90" font-family="Arial, sans-serif" font-size="9" fill="white">• Overvåking</text>
+    <text x="10" y="105" font-family="Arial, sans-serif" font-size="9" fill="white">• Support</text>
+  </g>
+  
+  <!-- Phase 5: Optimalisering -->
+  <g transform="translate(610, 180)">
+    <rect x="0" y="0" width="120" height="120" rx="10" fill="url(#phase1Gradient)" opacity="0.9"/>
+    <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      Uke 11-12
+    </text>
+    <text x="60" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+      Optimalisering
+    </text>
+    
+    <text x="10" y="60" font-family="Arial, sans-serif" font-size="9" fill="white">• Ytelsestuning</text>
+    <text x="10" y="75" font-family="Arial, sans-serif" font-size="9" fill="white">• Dokumentasjon</text>
+    <text x="10" y="90" font-family="Arial, sans-serif" font-size="9" fill="white">• Brukeropplæring</text>
+    <text x="10" y="105" font-family="Arial, sans-serif" font-size="9" fill="white">• Evaluering</text>
+  </g>
+  
+  <!-- Risk Management Section -->
+  <g transform="translate(50, 320)">
+    <rect x="0" y="0" width="700" height="140" rx="10" fill="url(#riskGradient)" opacity="0.9"/>
+    <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      ⚠️ Risikohåndtering og Sikkerhetstiltak
+    </text>
+    
+    <g transform="translate(50, 45)">
+      <!-- Backup plans -->
+      <g transform="translate(0, 0)">
+        <text x="0" y="15" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">🔄 Backup-planer:</text>
+        <text x="10" y="30" font-family="Arial, sans-serif" font-size="10" fill="white">• Manuelle prosedyrer for kritiske funksjoner</text>
+        <text x="10" y="45" font-family="Arial, sans-serif" font-size="10" fill="white">• Alternative datakilder og integrasjoner</text>
+        <text x="10" y="60" font-family="Arial, sans-serif" font-size="10" fill="white">• Nødkommunikasjonsplaner</text>
+      </g>
+      
+      <!-- Parallel running -->
+      <g transform="translate(300, 0)">
+        <text x="0" y="15" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">⚖️ Parallellkjøring:</text>
+        <text x="10" y="30" font-family="Arial, sans-serif" font-size="10" fill="white">• Gamle og nye systemer kjører samtidig</text>
+        <text x="10" y="45" font-family="Arial, sans-serif" font-size="10" fill="white">• Sammenligning og validering av resultater</text>
+        <text x="10" y="60" font-family="Arial, sans-serif" font-size="10" fill="white">• Gradvis overgang til nye prosesser</text>
+      </g>
+      
+      <!-- Rollback procedures -->
+      <g transform="translate(150, 75)">
+        <text x="0" y="15" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">↩️ Rollback-prosedyrer:</text>
+        <text x="10" y="30" font-family="Arial, sans-serif" font-size="10" fill="white">• Rask tilbakeføring ved kritiske feil</text>
+        <text x="10" y="45" font-family="Arial, sans-serif" font-size="10" fill="white">• Datasikkerhet og backup-rutiner</text>
+      </g>
+    </g>
+  </g>
+  
+  <!-- Success Metrics -->
+  <g transform="translate(100, 480)">
+    <rect x="0" y="0" width="600" height="100" rx="10" fill="#E8F5E8" stroke="#4CAF50" stroke-width="2"/>
+    <text x="300" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2E7D32">
+      📊 Suksessmålinger og KPI-er
+    </text>
+    
+    <g transform="translate(50, 40)">
+      <text x="0" y="15" font-family="Arial, sans-serif" font-size="11" fill="#2E7D32">• Redusert behandlingstid: Mål 80% reduksjon</text>
+      <text x="0" y="30" font-family="Arial, sans-serif" font-size="11" fill="#2E7D32">• Automatiseringsgrad: Mål 90% av transaksjoner</text>
+      <text x="0" y="45" font-family="Arial, sans-serif" font-size="11" fill="#2E7D32">• Feilrate: Mål under 0.1% av alle transaksjoner</text>
+      
+      <text x="300" y="15" font-family="Arial, sans-serif" font-size="11" fill="#2E7D32">• ROI: Positiv avkastning innen 24 måneder</text>
+      <text x="300" y="30" font-family="Arial, sans-serif" font-size="11" fill="#2E7D32">• Brukertilfredshet: Minimum 85% score</text>
+      <text x="300" y="45" font-family="Arial, sans-serif" font-size="11" fill="#2E7D32">• Systemoppetid: Minimum 99.5% tilgjengelighet</text>
+    </g>
+  </g>
+</svg>

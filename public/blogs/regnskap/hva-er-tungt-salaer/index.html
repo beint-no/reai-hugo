@@ -1,0 +1,472 @@
+<!doctype html>
+<html lang="nb">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Hva er Tungt Salær? | ReAI</title>
+  <meta name="description" content="Komplett regnskapssystem med faktura, lønn, bilagsføring og årsoppgjør.">
+  
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<script src="https://cdn.tailwindcss.com?plugins=typography"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        fontFamily: { sans: ['Inter','ui-sans-serif','system-ui','Arial','sans-serif'] },
+        colors: {
+          brand: { DEFAULT: '#111827' },
+          accent: { DEFAULT: '#2563eb' }
+        }
+      }
+    }
+  }
+</script>
+<style>
+   
+  header .header-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #000 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link:hover { background-position: 0; }
+  header .header-link:hover::before { width: 100%; }
+
+  footer .footer-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #ffffff 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link:hover { background-position: 0; }
+  footer .footer-link:hover::before { width: 100%; }
+</style>
+<style>
+   
+  .prose { overflow-wrap: anywhere; word-break: break-word; }
+  .prose img { max-width: 100%; height: auto; }
+  .prose table { display: block; width: 100%; overflow-x: auto; }
+  .prose pre { white-space: pre-wrap; word-break: break-word; overflow-x: auto; }
+  .prose code { word-break: break-word; }
+  .prose iframe, .prose video { max-width: 100%; width: 100%; height: auto; }
+</style>
+<style>
+   
+  button,
+  .btn,
+  a.btn,
+  .button,
+  .cta,
+  .link-button,
+   
+  a.inline-flex.rounded-md,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"] {
+    transition: transform 220ms ease, box-shadow 220ms ease, background-color 220ms ease, color 220ms ease, opacity 220ms ease;
+    will-change: transform, box-shadow;
+  }
+
+  button:hover,
+  .btn:hover,
+  a.btn:hover,
+  .button:hover,
+  .cta:hover,
+  .link-button:hover,
+  a.inline-flex.rounded-md:hover,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+
+  button:active,
+  .btn:active,
+  a.btn:active,
+  .button:active,
+  .cta:active,
+  .link-button:active,
+  a.inline-flex.rounded-md:active,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:active {
+    transform: translateY(-1px) scale(0.99);
+    box-shadow: 0 6px 12px rgba(2, 6, 23, 0.1);
+  }
+
+  button:focus-visible,
+  .btn:focus-visible,
+  a.btn:focus-visible,
+  .button:focus-visible,
+  .cta:focus-visible,
+  .link-button:focus-visible,
+  a.inline-flex.rounded-md:focus-visible,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.35), 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+</style>
+
+<link rel="icon" type="image/svg+xml" href="/images/ReAI-logo-square.svg">
+<link rel="shortcut icon" href="/images/ReAI-logo-square.svg">
+
+</head>
+<body class="min-h-dvh bg-white text-gray-900 font-sans">
+  <header class="sticky top-0 z-40 bg-white/80 backdrop-blur">
+  
+  <div class="border-b border-slate-200/70">
+    <div class="max-w-7xl mx-auto px-4">
+      <div class="h-16 flex items-center justify-between">
+        <a href="/" class="flex items-center gap-2" aria-label="ReAI">
+          <img src="/images/ReAI-logo-square.svg?v=4" alt="ReAI logo" class="h-14 w-14 rounded-md mt-5" width="56" height="56" loading="eager" decoding="async">
+        </a>
+        <nav class="hidden md:block">
+          <ul class="flex items-center gap-5 text-sm">
+            <li><a href="/courses/" class="header-link text-slate-700 hover:text-black">Gratis kurs</a></li>
+            <li><a href="/contact/" class="header-link text-slate-700 hover:text-black">Kontakt oss</a></li>
+            <li><a href="/blog/" class="header-link text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+            <li><a href="/bli-partner/" class="header-link text-slate-700 hover:text-black">Bli partner</a></li>
+            <li><a href="/fakturamal/" class="header-link text-slate-700 hover:text-black">Lag faktura</a></li>
+          </ul>
+        </nav>
+        <button id="mobileMenuBtn" aria-controls="mobileMenu" aria-expanded="false" class="md:hidden inline-flex items-center justify-center h-9 w-9 rounded-md border border-slate-300">
+          <span class="sr-only">Menu</span>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-5 w-5"><path d="M3.75 6.75h16.5v1.5H3.75zM3.75 11.25h16.5v1.5H3.75zM3.75 15.75h16.5v1.5H3.75z"/></svg>
+        </button>
+      </div>
+    </div>
+  </div>
+  
+  <nav id="mobileMenu" class="md:hidden hidden border-b border-slate-200/70 bg-white/95 backdrop-blur">
+    <div class="max-w-7xl mx-auto px-4 py-3">
+      <ul class="flex flex-col items-center gap-3 text-sm text-center">
+        <li><a href="/courses/" class="header-link block text-slate-700 hover:text-black">Gratis kurs</a></li>
+        <li><a href="/contact/" class="header-link block text-slate-700 hover:text-black">Kontakt oss</a></li>
+        <li><a href="/blog/" class="header-link block text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+        <li><a href="/bli-partner/" class="header-link block text-slate-700 hover:text-black">Bli partner</a></li>
+        <li><a href="/fakturamal/" class="header-link block text-slate-700 hover:text-black">Lag faktura</a></li>
+      </ul>
+    </div>
+  </nav>
+  <script>
+    (function() {
+      const btn = document.getElementById('mobileMenuBtn');
+      const menu = document.getElementById('mobileMenu');
+      if (!btn || !menu) return;
+      btn.addEventListener('click', function() {
+        const isHidden = menu.classList.contains('hidden');
+        menu.classList.toggle('hidden');
+        btn.setAttribute('aria-expanded', String(isHidden));
+      });
+    })();
+  </script>
+</header>
+  <main>
+    
+<section class="pt-10 md:pt-14">
+  <div class="max-w-3xl mx-auto px-4">
+    <h1 class="text-3xl font-semibold tracking-tight text-center">Hva er Tungt Salær?</h1>
+    <p class="mt-2 text-gray-700">Tungt salær refererer til betydelige honorarer eller vederlag som krever spesiell regnskapsføring og skattemessig behandling i norsk regnskap.</p>
+    <article class="prose max-w-none mt-6"><p><strong>Tungt salær</strong> er et begrep som beskriver betydelige honorarer eller <a href="/blogs/regnskap/hva-er-vederlag" title="Hva er Vederlag i Regnskap? Komplett Guide til Vederlag og Kompensasjon">vederlag</a> som utbetales for spesielle tjenester eller oppdrag, og som krever særskilt oppmerksomhet i regnskapsføring og skattemessig behandling. Dette er særlig relevant innenfor juridiske tjenester, konsulentarbeid og andre profesjonelle serviceytelser hvor kompensasjonen kan være vesentlig.</p>
+<p><img src="hva-er-tungt-salaer-image.svg" alt="Illustrasjon av konseptet tungt salær"></p>
+<p>Begrepet &ldquo;tungt salær&rdquo; stammer fra det juridiske miljøet, men har utvidet seg til å omfatte alle former for betydelige honorarer og vederlag i næringsvirksomhet. Forståelse av dette konseptet er kritisk for korrekt <a href="/blogs/regnskap/hva-er-bokforing" title="Hva er Bokføring? Grunnleggende Guide til Regnskapsføring">regnskapsføring</a> og <a href="/blogs/regnskap/hva-er-skatt" title="Hva er Skatt? Komplett Guide til Norsk Skattesystem">skattemessig behandling</a>.</p>
+<h2 id="definisjon-og-karakteristikker">Definisjon og Karakteristikker</h2>
+<p><strong>Tungt salær</strong> karakteriseres av følgende egenskaper:</p>
+<ul>
+<li><strong>Størrelse</strong>: Vesentlig høyere enn vanlige honorarer for tilsvarende tjenester</li>
+<li><strong>Kompleksitet</strong>: Ofte knyttet til spesialiserte eller komplekse oppdrag</li>
+<li><strong>Varighet</strong>: Kan være både engangshonorarer og langvarige avtaler</li>
+<li><strong>Profil</strong>: Høy synlighet eller strategisk betydning for bedriften</li>
+</ul>
+<p><img src="tungt-salaer-karakteristikker.svg" alt="Karakteristikker ved tungt salær"></p>
+<h3 id="typiske-eksempler-på-tungt-salær">Typiske Eksempler på Tungt Salær</h3>
+<table>
+  <thead>
+      <tr>
+          <th>Tjenestetype</th>
+          <th>Eksempel</th>
+          <th>Typisk størrelse</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Juridiske tjenester</td>
+          <td>M&amp;A-transaksjoner</td>
+          <td>5-50 millioner kr</td>
+      </tr>
+      <tr>
+          <td>Konsulentarbeid</td>
+          <td>Strategiske omorganiseringer</td>
+          <td>2-20 millioner kr</td>
+      </tr>
+      <tr>
+          <td>Tekniske tjenester</td>
+          <td>Systemimplementeringer</td>
+          <td>10-100 millioner kr</td>
+      </tr>
+      <tr>
+          <td>Finansielle tjenester</td>
+          <td>IPO-prosesser</td>
+          <td>20-200 millioner kr</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="regnskapsføring-av-tungt-salær">Regnskapsføring av Tungt Salær</h2>
+<p>Regnskapsføringen av tungt salær følger samme grunnprinsipper som annen <a href="/blogs/regnskap/hva-er-periodisering" title="Hva er Periodisering? Guide til Periodiseringsprinsippet">periodisering</a>, men krever særskilt oppmerksomhet på grunn av beløpsstørrelsen og kompleksiteten.</p>
+<p><img src="regnskapsforing-tungt-salaer.svg" alt="Regnskapsføringsprosess for tungt salær"></p>
+<h3 id="grunnleggende-regnskapsføring">Grunnleggende Regnskapsføring</h3>
+<p>For leverandøren av tjenesten:</p>
+<pre tabindex="0"><code>Dr. Kundefordringer     X kr
+    Kr. Salgsinntekt         X kr
+</code></pre><p>For kjøperen av tjenesten:</p>
+<pre tabindex="0"><code>Dr. Driftskostnad      X kr
+    Kr. Leverandørgjeld      X kr
+</code></pre><h3 id="spesielle-hensyn">Spesielle Hensyn</h3>
+<p><strong>Forskuddsbetalinger</strong> og <strong>milepælsbetalinger</strong> er vanlige ved tungt salær og krever spesiell behandling:</p>
+<ul>
+<li>Forskudd fra kunde registreres som kortsiktig gjeld</li>
+<li>Gradvis inntektsføring etter leveranse</li>
+<li>Dokumentasjon av leveransemilestoner</li>
+</ul>
+<p><img src="milepaels-fakturering-tungt-salaer.svg" alt="Milepælsbasert fakturering"></p>
+<h2 id="skattemessig-behandling">Skattemessig Behandling</h2>
+<p>Skattemessig behandling av tungt salær følger standard prinsipper for <a href="/blogs/regnskap/hva-er-overskudd" title="Hva er Overskudd? Guide til Regnskapsført Resultat">næringsinntekt</a>, men med særlige vurderinger rundt timing og fradragsrett.</p>
+<h3 id="for-leverandøren">For Leverandøren</h3>
+<ul>
+<li><strong>Inntektsføring</strong>: Når tjenesten er levert (opptjent)</li>
+<li><strong>MVA-behandling</strong>: 25% MVA på profesjonelle tjenester</li>
+<li><strong>Forskuddsskatt</strong>: Økt oppmerksomhet på forskuddsbetalinger</li>
+</ul>
+<h3 id="for-kjøperen">For Kjøperen</h3>
+<ul>
+<li><strong>Fradragsrett</strong>: Fullt fradrag når kostnad er pådratt</li>
+<li><strong>Kapitalisering</strong>: Vurder om kostnaden skal <a href="/blogs/regnskap/hva-er-anleggsmidler" title="Hva er Anleggsmidler? Guide til Varige Driftsmidler">aktiveres</a></li>
+<li><strong>Dokumentasjon</strong>: Styrket krav til dokumentasjon</li>
+</ul>
+<p><img src="skattemessige-vurderinger-tungt-salaer.svg" alt="Skattemessige vurderinger ved tungt salær"></p>
+<h2 id="juridiske-aspekter-og-avtaleforhold">Juridiske Aspekter og Avtaleforhold</h2>
+<p>Tungt salær involverer ofte komplekse avtaleforhold som krever juridisk ekspertise og nøye dokumentasjon.</p>
+<h3 id="kontraktsutforming">Kontraktsutforming</h3>
+<p><strong>Viktige kontraktselementer</strong>:</p>
+<ul>
+<li>Tydelig definisjon av leveranser</li>
+<li>Milepæler og betalingsbetingelser</li>
+<li>Ansvarsbegrensninger</li>
+<li>Tvistløsningsmekanismer</li>
+</ul>
+<h3 id="regulatoriske-krav">Regulatoriske Krav</h3>
+<p>Enkelte bransjer har spesifikke reguleringer for høye honorarer:</p>
+<ul>
+<li><strong>Advokatbransjen</strong>: Retningslinjer for rimelige salærer</li>
+<li><strong>Revisjonsbransjen</strong>: Uavhengighetskrav ved høye honorarer</li>
+<li><strong>Konsulentbransjen</strong>: Offentlige anskaffelsesregler</li>
+</ul>
+<p><img src="juridisk-rammeverk-tungt-salaer.svg" alt="Juridisk rammeverk for tungt salær"></p>
+<h2 id="internkontroll-og-risikostyring">Internkontroll og Risikostyring</h2>
+<p>Ved håndtering av tungt salær er det kritisk med robust <a href="/blogs/regnskap/hva-er-internkontroll" title="Hva er Internkontroll? Guide til Kontrollsystemer">internkontroll</a> for å sikre korrekt behandling.</p>
+<h3 id="kontrollaktiviteter">Kontrollaktiviteter</h3>
+<p><strong>Godkjenningsprosesser</strong>:</p>
+<ul>
+<li>Styregodkjenning for betydelige engasjementer</li>
+<li>Skriftlige fullmakter og budsjettgodkjenninger</li>
+<li>Regelmessig oppfølging av kostnadsutvikling</li>
+</ul>
+<p><strong>Dokumentasjon</strong>:</p>
+<ul>
+<li>Detaljerte tidsregistreringer</li>
+<li>Omfattende prosjektrapportering</li>
+<li>Ekstern verifikasjon av leveranser</li>
+</ul>
+<p><img src="kontrollprosesser-tungt-salaer.svg" alt="Kontrollprosesser for tungt salær"></p>
+<h3 id="risikoområder">Risikoområder</h3>
+<table>
+  <thead>
+      <tr>
+          <th>Risikoområde</th>
+          <th>Beskrivelse</th>
+          <th>Kontrolltiltak</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Kostnadsoverskridelser</td>
+          <td>Uforutsette ekstrakostnader</td>
+          <td>Fastprisavtaler og budsjettoppfølging</td>
+      </tr>
+      <tr>
+          <td>Kvalitetsrisiko</td>
+          <td>Manglende leveransekvalitet</td>
+          <td>Milepælskontroller og godkjenningsprosesser</td>
+      </tr>
+      <tr>
+          <td>Juridisk risiko</td>
+          <td>Kontraktsbrudd eller tvister</td>
+          <td>Grundig juridisk gjennomgang</td>
+      </tr>
+      <tr>
+          <td>Regnskapsrisiko</td>
+          <td>Feil periodisering</td>
+          <td>Månedlig regnskapsavstemminger</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="bransjespesifikke-særegenheter">Bransjespesifikke Særegenheter</h2>
+<p>Ulike bransjer har distinkte tilnærminger til tungt salær basert på bransjepraksis og regulatoriske krav.</p>
+<h3 id="teknologisektoren">Teknologisektoren</h3>
+<ul>
+<li><strong>Implementeringsprosjekter</strong>: Lange tidsrammer og fasedeling</li>
+<li><strong>Lisensiering</strong>: Kombinasjon av engangsbeløp og løpende royalties</li>
+<li><strong>Support og vedlikehold</strong>: Langvarige serviceavtaler</li>
+</ul>
+<h3 id="finanssektoren">Finanssektoren</h3>
+<ul>
+<li><strong>M&amp;A-rådgivning</strong>: Suksessbaserte honorarer</li>
+<li><strong>Kapitalmarkedstransaksjoner</strong>: Kombinerte retainer- og suksesshonorar</li>
+<li><strong>Compliance-tjenester</strong>: Løpende rådgivningsavtaler</li>
+</ul>
+<p><img src="bransje-tilnarminger-tungt-salaer.svg" alt="Bransjespesifikke tilnærminger til tungt salær"></p>
+<h2 id="digitalisering-og-fremtidens-tungt-salær">Digitalisering og Fremtidens Tungt Salær</h2>
+<p>Digitaliseringen endrer hvordan tungt salær håndteres og dokumenteres, med nye muligheter for effektivitet og kontroll.</p>
+<h3 id="teknologiske-løsninger">Teknologiske Løsninger</h3>
+<p><strong>Prosjektstyringsverktøy</strong>:</p>
+<ul>
+<li>Integrert tidsregistrering og fakturering</li>
+<li>Sanntids budsjettoppfølging</li>
+<li>Automatiserte rapporteringsfunksjoner</li>
+</ul>
+<p><strong>Kunstig intelligens</strong>:</p>
+<ul>
+<li>Prediktiv analyse av prosjektkostnader</li>
+<li>Automatisert kontraktsanalyse</li>
+<li>Risikovurdering basert på historiske data</li>
+</ul>
+<p><img src="digitale-verktoy-tungt-salaer.svg" alt="Digitale verktøy for håndtering av tungt salær"></p>
+<h3 id="fremtidige-trender">Fremtidige Trender</h3>
+<ul>
+<li><strong>Blockchain-baserte kontrakter</strong>: Automatiserte betalingsmekanismer</li>
+<li><strong>AI-drevet risikostyring</strong>: Prediktive modeller for kostnadskontroll</li>
+<li><strong>Integrerte regnskapsplattformer</strong>: Sanntids regnskapsføring og rapportering</li>
+</ul>
+<h2 id="internasjonale-perspektiver">Internasjonale Perspektiver</h2>
+<p>Ved internasjonale engasjementer med tungt salær oppstår ytterligere kompleksitet rundt <a href="/blogs/regnskap/hva-er-skatt" title="Hva er Skatt? Komplett Guide til Norsk Skattesystem">transfer pricing</a> og skattemessig behandling.</p>
+<h3 id="transfer-pricing-vurderinger">Transfer Pricing-vurderinger</h3>
+<p><strong>Armlengdeprinsippet</strong>:</p>
+<ul>
+<li>Sammenligning med tilsvarende transaksjoner</li>
+<li>Dokumentasjon av prisfastsettelse</li>
+<li>Konsistens på tvers av jurisdiksjoner</li>
+</ul>
+<h3 id="skatteavtaler-og-dobbeltbeskatning">Skatteavtaler og Dobbeltbeskatning</h3>
+<ul>
+<li><strong>Permanent establishment</strong>: Vurdering av skatteposisjon</li>
+<li><strong>Kildeskatt</strong>: Behandling av grenseoverskridende betalinger</li>
+<li><strong>Forhåndsavklaringer</strong>: Sikkerhet rundt skattemessig behandling</li>
+</ul>
+<p><img src="internasjonale-vurderinger-tungt-salaer.svg" alt="Internasjonale skattemessige vurderinger"></p>
+<h2 id="best-practice-og-anbefalinger">Best Practice og Anbefalinger</h2>
+<p>For optimal håndtering av tungt salær anbefales følgende tilnærming:</p>
+<h3 id="planleggingsfasen">Planleggingsfasen</h3>
+<ul>
+<li><strong>Grundig kontraktsutforming</strong> med tydelige leveransemilestoner</li>
+<li><strong>Skattemessig planlegging</strong> for optimalisering av fradrag</li>
+<li><strong>Risikovurdering</strong> og etablering av kontrollrutiner</li>
+</ul>
+<h3 id="gjennomføringsfasen">Gjennomføringsfasen</h3>
+<ul>
+<li><strong>Løpende oppfølging</strong> av kostnader og leveranser</li>
+<li><strong>Regelmessig rapportering</strong> til relevante interessenter</li>
+<li><strong>Proaktiv risikostyring</strong> ved avvik fra planer</li>
+</ul>
+<h3 id="avslutningsfasen">Avslutningsfasen</h3>
+<ul>
+<li><strong>Fullstendig dokumentasjon</strong> av alle leveranser og kostnader</li>
+<li><strong>Endelig regnskapsføring</strong> og skattemessig avklaring</li>
+<li><strong>Læringspunkter</strong> for fremtidige engasjementer</li>
+</ul>
+<p><img src="best-practice-tungt-salaer.svg" alt="Best practice-prosess for tungt salær"></p>
+<h2 id="konklusjon">Konklusjon</h2>
+<p>Tungt salær representerer en betydelig kategori av forretningsutgifter som krever spesiell oppmerksomhet på grunn av størrelse, kompleksitet og potensielle risikoer. Korrekt håndtering involverer:</p>
+<ul>
+<li><strong>Grundig planlegging</strong> av kontrakts- og regnskapsmessige aspekter</li>
+<li><strong>Robust internkontroll</strong> for å sikre korrekt behandling</li>
+<li><strong>Kontinuerlig oppfølging</strong> av kostnader og leveranser</li>
+<li><strong>Professjonell rådgivning</strong> ved komplekse engasjementer</li>
+</ul>
+<p>Ved å følge anerkjente best practices og opprettholde høy dokumentasjonskvalitet kan organisasjoner håndtere tungt salær på en måte som både optimaliserer forretningsverdi og sikrer regulatorisk compliance.</p>
+<p>For ytterligere veiledning om relaterte emner, se våre artikler om <a href="/blogs/regnskap/hva-er-personalkostnad" title="Hva er Personalkostnad? Guide til Lønnskostnader">personalkostnad</a>, <a href="/blogs/regnskap/hva-er-attestering" title="Hva er Attestering? Guide til Attestasjonsprosesser">attestering</a> og <a href="/blogs/regnskap/hva-er-internkontroll" title="Hva er Internkontroll? Guide til Kontrollsystemer">internkontroll</a>.</p>
+</article>
+  </div>
+</section>
+
+  </main>
+  <footer class="mt-16 border-t border-slate-800/60 bg-slate-900">
+  <div class="max-w-7xl mx-auto px-4 py-14">
+    <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3 text-center sm:text-left">
+      
+      <div>
+        <h3 class="text-sm font-semibold text-white">Verktøy</h3>
+        <ul class="mt-2 space-y-2 text-sm text-slate-300">
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/finn-iban/">IBAN kalkulator</a></li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/lag-faktura-gratis/">Lag faktura</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Selskaps-informasjon</h3>
+        <ul class="mt-2 space-y-1 text-sm text-slate-300">
+          <li>Reai AS</li>
+          <li>Orgnr: 935606403</li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="mailto:post@reai.no">post@reai.no</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Om ReAI</h3>
+        <p class="mt-2 text-sm text-slate-300">ReAI er et gratis regnskapsprogram laget av tidligere ansatte i Tripletex
+          / Visma. Vi mener det er på tide med mer konkurranse i regnskaps-bransjen som kan komme bedrifter til gode.
+        </p>
+      </div>
+    </div>
+    <div class="mt-12 border-t border-slate-800/60 pt-6 flex flex-col items-center sm:flex-row sm:items-center sm:justify-between text-sm text-slate-400 text-center sm:text-left">
+      <div class="flex items-center gap-2">
+        
+        
+      </div>
+      <div class="mt-4 sm:mt-0 flex items-center justify-center sm:justify-end">
+        <div class="opacity-80">&copy; 2025 ReAI. All rights reserved.</div>
+      </div>
+    </div>
+  </div>
+</footer>
+</body>
+</html>

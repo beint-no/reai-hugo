@@ -1,0 +1,61 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#2563eb;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="cardGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
+  <text x="400" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">Avregningseksempler</text>
+  
+  <!-- Example 1: Prosjektavregning -->
+  <rect x="50" y="120" width="340" height="200" fill="url(#cardGradient)" rx="10" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="220" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1e293b">Prosjektavregning</text>
+  
+  <text x="70" y="180" font-family="Arial, sans-serif" font-size="14" fill="#475569">Byggeprosjekt - 10 mill kr</text>
+  <text x="70" y="200" font-family="Arial, sans-serif" font-size="14" fill="#475569">Ferdigstillelse: 60%</text>
+  <text x="70" y="220" font-family="Arial, sans-serif" font-size="14" fill="#475569">Opptjent: 6 mill kr</text>
+  <text x="70" y="240" font-family="Arial, sans-serif" font-size="14" fill="#475569">Fakturert: 5,5 mill kr</text>
+  
+  <rect x="70" y="255" width="280" height="30" fill="#dcfce7" rx="5"/>
+  <text x="210" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#166534">Avregning: 500 000 kr</text>
+  
+  <!-- Example 2: MVA-avregning -->
+  <rect x="410" y="120" width="340" height="200" fill="url(#cardGradient)" rx="10" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="580" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1e293b">MVA-avregning</text>
+  
+  <text x="430" y="180" font-family="Arial, sans-serif" font-size="14" fill="#475569">Utgående MVA: 250 000 kr</text>
+  <text x="430" y="200" font-family="Arial, sans-serif" font-size="14" fill="#475569">Inngående MVA: 180 000 kr</text>
+  <text x="430" y="220" font-family="Arial, sans-serif" font-size="14" fill="#475569">Differanse: 70 000 kr</text>
+  
+  <rect x="430" y="240" width="280" height="30" fill="#fef3c7" rx="5"/>
+  <text x="570" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#92400e">Til betaling: 70 000 kr</text>
+  
+  <!-- Example 3: Lønnsavregning -->
+  <rect x="50" y="360" width="340" height="200" fill="url(#cardGradient)" rx="10" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="220" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1e293b">Lønnsavregning</text>
+  
+  <text x="70" y="420" font-family="Arial, sans-serif" font-size="14" fill="#475569">Bruttolønn: 450 000 kr</text>
+  <text x="70" y="440" font-family="Arial, sans-serif" font-size="14" fill="#475569">Arbeidsgiveravgift: 63 000 kr</text>
+  <text x="70" y="460" font-family="Arial, sans-serif" font-size="14" fill="#475569">Skattetrekk: 135 000 kr</text>
+  
+  <rect x="70" y="480" width="280" height="30" fill="#e0e7ff" rx="5"/>
+  <text x="210" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#3730a3">Netto: 315 000 kr</text>
+  
+  <!-- Example 4: Periodisering -->
+  <rect x="410" y="360" width="340" height="200" fill="url(#cardGradient)" rx="10" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="580" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1e293b">Periodisering</text>
+  
+  <text x="430" y="420" font-family="Arial, sans-serif" font-size="14" fill="#475569">Forsikring betalt: 60 000 kr</text>
+  <text x="430" y="440" font-family="Arial, sans-serif" font-size="14" fill="#475569">Gjelder 12 måneder</text>
+  <text x="430" y="460" font-family="Arial, sans-serif" font-size="14" fill="#475569">Månedlig kostnad: 5 000 kr</text>
+  
+  <rect x="430" y="480" width="280" height="30" fill="#fed7d7" rx="5"/>
+  <text x="570" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#c53030">Fordeling per måned</text>
+</svg>

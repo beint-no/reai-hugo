@@ -1,0 +1,89 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#2563eb;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="orgGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#059669;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#10b981;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="compensationGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#dc2626;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ef4444;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8fafc"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
+  <text x="400" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="bold">MVA-Kompensasjonsordningen</text>
+  
+  <!-- Main flow diagram -->
+  
+  <!-- Organizations section -->
+  <rect x="50" y="120" width="180" height="120" rx="10" fill="url(#orgGradient)" stroke="#047857" stroke-width="2"/>
+  <text x="140" y="145" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Berettigede</text>
+  <text x="140" y="165" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Organisasjoner</text>
+  <text x="140" y="190" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">• Ideelle organisasjoner</text>
+  <text x="140" y="210" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">• Offentlige virksomheter</text>
+  <text x="140" y="230" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">• Ikke-kommersielle aktiviteter</text>
+  
+  <!-- Arrow from organizations to requirements -->
+  <path d="M 230 180 Q 280 180 330 180" stroke="#374151" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Requirements section -->
+  <rect x="330" y="120" width="180" height="120" rx="10" fill="#fbbf24" stroke="#f59e0b" stroke-width="2"/>
+  <text x="420" y="145" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Vilkår</text>
+  <text x="420" y="170" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="12">• Ikke-kommersielle</text>
+  <text x="420" y="190" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="12">  aktiviteter</text>
+  <text x="420" y="210" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="12">• Årlig kompensasjons-</text>
+  <text x="420" y="230" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="12">  oppgave</text>
+  
+  <!-- Arrow from requirements to compensation -->
+  <path d="M 510 180 Q 560 180 610 180" stroke="#374151" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Compensation section -->
+  <rect x="570" y="120" width="180" height="120" rx="10" fill="url(#compensationGradient)" stroke="#dc2626" stroke-width="2"/>
+  <text x="660" y="145" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">MVA-Kompensasjon</text>
+  <text x="660" y="170" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">Sats: Tilsvarer</text>
+  <text x="660" y="190" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">standard MVA-sats</text>
+  <text x="660" y="210" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">(25% generell sats)</text>
+  
+  <!-- Calculation example -->
+  <rect x="100" y="300" width="600" height="200" rx="10" fill="#e5e7eb" stroke="#9ca3af" stroke-width="2"/>
+  <text x="400" y="330" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="18" font-weight="bold">Beregningseksempel</text>
+  
+  <!-- Example calculation -->
+  <rect x="150" y="350" width="200" height="120" rx="5" fill="#dbeafe" stroke="#3b82f6" stroke-width="1"/>
+  <text x="250" y="375" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Innkjøp med MVA</text>
+  <text x="250" y="395" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="12">Kontorrekvisita: 10 000 kr</text>
+  <text x="250" y="415" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="12">MVA (25%): 2 500 kr</text>
+  <text x="250" y="435" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="12">Totalt: 12 500 kr</text>
+  <text x="250" y="455" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Betalt av organisasjon</text>
+  
+  <!-- Arrow -->
+  <path d="M 350 410 Q 400 410 450 410" stroke="#374151" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Compensation calculation -->
+  <rect x="450" y="350" width="200" height="120" rx="5" fill="#dcfce7" stroke="#16a34a" stroke-width="1"/>
+  <text x="550" y="375" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Kompensasjon</text>
+  <text x="550" y="395" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="12">Kompensasjonssats: 25%</text>
+  <text x="550" y="415" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="12">Av netto kostnad: 10 000 kr</text>
+  <text x="550" y="435" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="12">= 2 500 kr</text>
+  <text x="550" y="455" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Refundert fra staten</text>
+  
+  <!-- Process flow -->
+  <rect x="50" y="530" width="700" height="50" rx="5" fill="#f3f4f6" stroke="#6b7280" stroke-width="1"/>
+  <text x="400" y="550" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Prosess: Årlig kompensasjonsoppgave → Behandling → Utbetaling</text>
+  <text x="400" y="570" text-anchor="middle" fill="#6b7280" font-family="Arial, sans-serif" font-size="12">Organisasjonen får refundert MVA-komponenten av sine kostnader</text>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#374151"/>
+    </marker>
+  </defs>
+</svg>

@@ -1,0 +1,268 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f4f6ff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e8ecff;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="subscriptionGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#764ba2;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="platformGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#f093fb;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f5576c;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="cryptoGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#4facfe;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00f2fe;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="esgGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#43e97b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#38f9d7;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="digitalGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#fa709a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#fee140;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="realtimeGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#a8edea;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#fed6e3;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="url(#bgGradient)"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#2c3e50">
+    Fremtidens Omsetning
+  </text>
+  
+  <!-- Central future icon -->
+  <g transform="translate(350, 70)">
+    <circle cx="50" cy="50" r="35" fill="#3498db" stroke="#2980b9" stroke-width="3"/>
+    <!-- Rocket icon -->
+    <polygon points="50,25 45,45 55,45" fill="white"/>
+    <rect x="47" y="45" width="6" height="15" fill="white"/>
+    <polygon points="44,60 50,65 56,60" fill="#e74c3c"/>
+    <polygon points="41,50 44,55 47,50" fill="#f39c12"/>
+    <polygon points="53,50 56,55 59,50" fill="#f39c12"/>
+    
+    <text x="50" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+      Innovasjon
+    </text>
+  </g>
+  
+  <!-- Subscription Models -->
+  <g transform="translate(50, 150)">
+    <rect x="0" y="0" width="170" height="110" fill="url(#subscriptionGradient)" rx="10"/>
+    <text x="85" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="white">
+      Abonnementsmodeller
+    </text>
+    
+    <!-- Subscription icon -->
+    <g transform="translate(65, 35)">
+      <rect x="0" y="0" width="40" height="25" fill="white" rx="5"/>
+      <circle cx="10" cy="12" r="3" fill="#667eea"/>
+      <circle cx="20" cy="12" r="3" fill="#667eea"/>
+      <circle cx="30" cy="12" r="3" fill="#667eea"/>
+      <text x="20" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">
+        Månedlig
+      </text>
+    </g>
+    
+    <text x="85" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+      Endrer omsetnings-
+    </text>
+    <text x="85" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+      måling og timing
+    </text>
+  </g>
+  
+  <!-- Platform Economy -->
+  <g transform="translate(250, 150)">
+    <rect x="0" y="0" width="170" height="110" fill="url(#platformGradient)" rx="10"/>
+    <text x="85" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="white">
+      Platform-økonomi
+    </text>
+    
+    <!-- Platform network icon -->
+    <g transform="translate(65, 35)">
+      <circle cx="10" cy="10" r="6" fill="white"/>
+      <circle cx="30" cy="10" r="6" fill="white"/>
+      <circle cx="20" cy="25" r="6" fill="white"/>
+      <line x1="16" y1="10" x2="24" y2="10" stroke="white" stroke-width="2"/>
+      <line x1="15" y1="15" x2="25" y2="20" stroke="white" stroke-width="2"/>
+      <line x1="25" y1="15" x2="15" y2="20" stroke="white" stroke-width="2"/>
+    </g>
+    
+    <text x="85" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+      Nye utfordringer for
+    </text>
+    <text x="85" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+      omsetningsberegning
+    </text>
+  </g>
+  
+  <!-- Cryptocurrency -->
+  <g transform="translate(450, 150)">
+    <rect x="0" y="0" width="170" height="110" fill="url(#cryptoGradient)" rx="10"/>
+    <text x="85" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="white">
+      Kryptovaluta
+    </text>
+    
+    <!-- Bitcoin icon -->
+    <g transform="translate(70, 35)">
+      <circle cx="15" cy="15" r="12" fill="white"/>
+      <text x="15" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#4facfe">
+        ₿
+      </text>
+    </g>
+    
+    <text x="85" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+      Påvirker omsetnings-
+    </text>
+    <text x="85" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+      registrering
+    </text>
+  </g>
+  
+  <!-- ESG/Sustainability -->
+  <g transform="translate(50, 290)">
+    <rect x="0" y="0" width="170" height="110" fill="url(#esgGradient)" rx="10"/>
+    <text x="85" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="white">
+      Bærekraft/ESG
+    </text>
+    
+    <!-- Leaf icon -->
+    <g transform="translate(70, 35)">
+      <ellipse cx="15" cy="20" rx="8" ry="12" fill="white" transform="rotate(-20 15 20)"/>
+      <line x1="15" y1="32" x2="15" y2="25" stroke="#43e97b" stroke-width="2"/>
+    </g>
+    
+    <text x="85" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+      ESG-rapportering
+    </text>
+    <text x="85" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+      inkluderer omsetning
+    </text>
+  </g>
+  
+  <!-- Digital Receipts -->
+  <g transform="translate(250, 290)">
+    <rect x="0" y="0" width="170" height="110" fill="url(#digitalGradient)" rx="10"/>
+    <text x="85" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="white">
+      Digitale kvitteringer
+    </text>
+    
+    <!-- Digital receipt icon -->
+    <g transform="translate(65, 35)">
+      <rect x="0" y="0" width="25" height="35" fill="white" rx="3"/>
+      <line x1="5" y1="8" x2="20" y2="8" stroke="#fa709a" stroke-width="1"/>
+      <line x1="5" y1="13" x2="20" y2="13" stroke="#fa709a" stroke-width="1"/>
+      <line x1="5" y1="18" x2="20" y2="18" stroke="#fa709a" stroke-width="1"/>
+      <line x1="5" y1="23" x2="20" y2="23" stroke="#fa709a" stroke-width="1"/>
+      <circle cx="30" cy="10" r="3" fill="white"/>
+      <path d="M 28 10 L 30 12 L 34 8" stroke="#27ae60" stroke-width="1.5" fill="none"/>
+    </g>
+    
+    <text x="85" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+      Nye krav til
+    </text>
+    <text x="85" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+      dokumentasjon
+    </text>
+  </g>
+  
+  <!-- Real-time Reporting -->
+  <g transform="translate(450, 290)">
+    <rect x="0" y="0" width="170" height="110" fill="url(#realtimeGradient)" rx="10"/>
+    <text x="85" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="white">
+      Sanntidsrapportering
+    </text>
+    
+    <!-- Real-time chart icon -->
+    <g transform="translate(65, 35)">
+      <rect x="0" y="25" width="30" height="2" fill="white"/>
+      <rect x="0" y="25" width="2" height="-20" fill="white"/>
+      <polyline points="2,20 8,15 15,18 22,10 28,12" stroke="white" stroke-width="2" fill="none"/>
+      <circle cx="28" cy="12" r="2" fill="#e74c3c"/>
+    </g>
+    
+    <text x="85" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+      Mulige fremtidige
+    </text>
+    <text x="85" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+      krav til rapportering
+    </text>
+  </g>
+  
+  <!-- Regulatory Changes Section -->
+  <g transform="translate(100, 430)">
+    <rect x="0" y="0" width="600" height="120" fill="#34495e" rx="10"/>
+    <text x="300" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      Regulatoriske endringer på vei:
+    </text>
+    
+    <!-- Future changes -->
+    <g transform="translate(50, 40)">
+      <circle cx="10" cy="10" r="8" fill="#3498db"/>
+      <text x="10" y="14" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">→</text>
+      <text x="25" y="15" font-family="Arial, sans-serif" font-size="13" fill="white">
+        Digitale kvitteringer - nye dokumentasjonskrav
+      </text>
+    </g>
+    
+    <g transform="translate(320, 40)">
+      <circle cx="10" cy="10" r="8" fill="#3498db"/>
+      <text x="10" y="14" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">→</text>
+      <text x="25" y="15" font-family="Arial, sans-serif" font-size="13" fill="white">
+        Sanntidsrapportering til myndigheter
+      </text>
+    </g>
+    
+    <g transform="translate(50, 70)">
+      <circle cx="10" cy="10" r="8" fill="#3498db"/>
+      <text x="10" y="14" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">→</text>
+      <text x="25" y="15" font-family="Arial, sans-serif" font-size="13" fill="white">
+        Automatiserte systemer - økte integrasjonskrav
+      </text>
+    </g>
+    
+    <g transform="translate(320, 70)">
+      <circle cx="10" cy="10" r="8" fill="#3498db"/>
+      <text x="10" y="14" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">→</text>
+      <text x="25" y="15" font-family="Arial, sans-serif" font-size="13" fill="white">
+        AI og maskinlæring i omsetningsanalyse
+      </text>
+    </g>
+  </g>
+  
+  <!-- Connection lines from center -->
+  <path d="M 380 120 L 135 150" stroke="#bdc3c7" stroke-width="2" fill="none" stroke-dasharray="3,3"/>
+  <path d="M 400 120 L 335 150" stroke="#bdc3c7" stroke-width="2" fill="none" stroke-dasharray="3,3"/>
+  <path d="M 420 120 L 535 150" stroke="#bdc3c7" stroke-width="2" fill="none" stroke-dasharray="3,3"/>
+  <path d="M 370 130 L 135 290" stroke="#bdc3c7" stroke-width="2" fill="none" stroke-dasharray="3,3"/>
+  <path d="M 400 130 L 335 290" stroke="#bdc3c7" stroke-width="2" fill="none" stroke-dasharray="3,3"/>
+  <path d="M 430 130 L 535 290" stroke="#bdc3c7" stroke-width="2" fill="none" stroke-dasharray="3,3"/>
+  
+  <!-- Future indicators -->
+  <g transform="translate(20, 20)">
+    <polygon points="15,5 25,15 15,25 5,15" fill="#e74c3c"/>
+    <text x="15" y="19" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">!</text>
+  </g>
+  
+  <g transform="translate(750, 20)">
+    <polygon points="15,5 25,15 15,25 5,15" fill="#e74c3c"/>
+    <text x="15" y="19" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">!</text>
+  </g>
+  
+  <!-- Timeline arrow -->
+  <g transform="translate(650, 80)">
+    <line x1="0" y1="20" x2="100" y2="20" stroke="#3498db" stroke-width="3"/>
+    <polygon points="100,15 110,20 100,25" fill="#3498db"/>
+    <text x="55" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#3498db">
+      2025+
+    </text>
+  </g>
+</svg>

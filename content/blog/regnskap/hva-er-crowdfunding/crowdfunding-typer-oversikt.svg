@@ -1,0 +1,226 @@
+<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="500" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+    Crowdfunding Typer og Regnskapsbehandling
+  </text>
+  
+  <!-- Type 1: Reward-based -->
+  <g id="reward-based">
+    <rect x="50" y="80" width="150" height="120" fill="#e74c3c" stroke="#c0392b" stroke-width="2" rx="10"/>
+    <text x="125" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      Belønningsbasert
+    </text>
+    <text x="125" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      • Produkter/tjenester
+    </text>
+    <text x="125" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      • Forhåndssalg
+    </text>
+    <text x="125" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      • MVA-pliktig
+    </text>
+    <text x="125" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="white">
+      Regnskapsføring:
+    </text>
+    <text x="125" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">
+      Kortsiktig gjeld
+    </text>
+  </g>
+  
+  <!-- Type 2: Donation-based -->
+  <g id="donation-based">
+    <rect x="250" y="80" width="150" height="120" fill="#27ae60" stroke="#229954" stroke-width="2" rx="10"/>
+    <text x="325" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      Donasjonbasert
+    </text>
+    <text x="325" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      • Gaver/tilskudd
+    </text>
+    <text x="325" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      • Ingen motytelse
+    </text>
+    <text x="325" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      • Unntatt MVA
+    </text>
+    <text x="325" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="white">
+      Regnskapsføring:
+    </text>
+    <text x="325" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">
+      Annen driftsinntekt
+    </text>
+  </g>
+  
+  <!-- Type 3: Equity-based -->
+  <g id="equity-based">
+    <rect x="450" y="80" width="150" height="120" fill="#3498db" stroke="#2980b9" stroke-width="2" rx="10"/>
+    <text x="525" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      Egenkapitalbasert
+    </text>
+    <text x="525" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      • Aksjer/eierandeler
+    </text>
+    <text x="525" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      • Investering
+    </text>
+    <text x="525" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      • Unntatt MVA
+    </text>
+    <text x="525" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="white">
+      Regnskapsføring:
+    </text>
+    <text x="525" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">
+      Egenkapital
+    </text>
+  </g>
+  
+  <!-- Type 4: Debt-based -->
+  <g id="debt-based">
+    <rect x="600" y="80" width="150" height="120" fill="#9b59b6" stroke="#8e44ad" stroke-width="2" rx="10"/>
+    <text x="675" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      Lånebasert
+    </text>
+    <text x="675" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      • P2P lending
+    </text>
+    <text x="675" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      • Tilbakebetaling
+    </text>
+    <text x="675" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      • Unntatt MVA
+    </text>
+    <text x="675" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="white">
+      Regnskapsføring:
+    </text>
+    <text x="675" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">
+      Langsiktig gjeld
+    </text>
+  </g>
+  
+  <!-- Accounting treatment flow -->
+  <text x="400" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">
+    Regnskapsmessig Behandling
+  </text>
+  
+  <!-- Flow arrows and descriptions -->
+  <g id="accounting-flow">
+    <!-- Reward-based flow -->
+    <path d="M 125 200 L 125 280" stroke="#e74c3c" stroke-width="3" fill="none" marker-end="url(#arrowhead-red)"/>
+    <rect x="75" y="290" width="100" height="60" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1" rx="5"/>
+    <text x="125" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+      1. Forskudd fra
+    </text>
+    <text x="125" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+      kunder (gjeld)
+    </text>
+    <text x="125" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+      2. Salgsinntekt
+    </text>
+    
+    <!-- Donation-based flow -->
+    <path d="M 325 200 L 325 280" stroke="#27ae60" stroke-width="3" fill="none" marker-end="url(#arrowhead-green)"/>
+    <rect x="275" y="290" width="100" height="60" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1" rx="5"/>
+    <text x="325" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+      Umiddelbar
+    </text>
+    <text x="325" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+      inntektsføring
+    </text>
+    
+    <!-- Equity-based flow -->
+    <path d="M 525 200 L 525 280" stroke="#3498db" stroke-width="3" fill="none" marker-end="url(#arrowhead-blue)"/>
+    <rect x="475" y="290" width="100" height="60" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1" rx="5"/>
+    <text x="525" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+      Økning i
+    </text>
+    <text x="525" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+      egenkapital
+    </text>
+    
+    <!-- Debt-based flow -->
+    <path d="M 675 200 L 675 280" stroke="#9b59b6" stroke-width="3" fill="none" marker-end="url(#arrowhead-purple)"/>
+    <rect x="625" y="290" width="100" height="60" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1" rx="5"/>
+    <text x="675" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+      Økning i
+    </text>
+    <text x="675" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+      gjeld
+    </text>
+  </g>
+  
+  <!-- MVA and Tax implications -->
+  <text x="400" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
+    MVA og Skattemessige Konsekvenser
+  </text>
+  
+  <g id="tax-implications">
+    <!-- MVA table -->
+    <rect x="100" y="410" width="600" height="70" fill="white" stroke="#bdc3c7" stroke-width="1"/>
+    
+    <!-- Table headers -->
+    <rect x="100" y="410" width="150" height="20" fill="#34495e"/>
+    <text x="175" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+      Type
+    </text>
+    
+    <rect x="250" y="410" width="150" height="20" fill="#34495e"/>
+    <text x="325" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+      MVA-behandling
+    </text>
+    
+    <rect x="400" y="410" width="150" height="20" fill="#34495e"/>
+    <text x="475" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+      Skattemessig
+    </text>
+    
+    <rect x="550" y="410" width="150" height="20" fill="#34495e"/>
+    <text x="625" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+      Timing
+    </text>
+    
+    <!-- Table rows -->
+    <text x="175" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+      Belønningsbasert
+    </text>
+    <text x="325" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+      25% MVA
+    </text>
+    <text x="475" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+      Skattepliktig
+    </text>
+    <text x="625" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+      Ved levering
+    </text>
+    
+    <text x="175" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+      Andre typer
+    </text>
+    <text x="325" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+      Unntatt MVA
+    </text>
+    <text x="475" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+      Varierer
+    </text>
+    <text x="625" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+      Ved mottak
+    </text>
+  </g>
+  
+  <!-- Arrow marker definitions -->
+  <defs>
+    <marker id="arrowhead-red" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#e74c3c"/>
+    </marker>
+    <marker id="arrowhead-green" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#27ae60"/>
+    </marker>
+    <marker id="arrowhead-blue" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#3498db"/>
+    </marker>
+    <marker id="arrowhead-purple" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#9b59b6"/>
+    </marker>
+  </defs>
+</svg>

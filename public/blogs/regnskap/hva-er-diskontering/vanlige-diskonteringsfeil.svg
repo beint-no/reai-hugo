@@ -1,0 +1,235 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0D47A1;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="errorGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#F44336;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#B71C1C;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="solutionGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1B5E20;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="warningGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF9800;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#E65100;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
+  <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
+    Vanlige Diskonteringsfeil
+  </text>
+  
+  <!-- Error 1: Wrong Discount Rate -->
+  <g transform="translate(50, 80)">
+    <rect x="0" y="0" width="340" height="100" rx="10" fill="url(#errorGradient)" opacity="0.9"/>
+    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      1. Feil Diskonteringsrente
+    </text>
+    
+    <!-- Error icon -->
+    <circle cx="50" cy="55" r="20" fill="white" opacity="0.3"/>
+    <text x="50" y="62" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">❌</text>
+    
+    <!-- Description -->
+    <text x="90" y="45" font-family="Arial, sans-serif" font-size="13" fill="white">
+      Problem: Ikke tilpasset risikoprofil
+    </text>
+    <text x="90" y="60" font-family="Arial, sans-serif" font-size="12" fill="white">
+      Eksempel: Bruker 5% for høyrisiko prosjekt
+    </text>
+    <text x="90" y="75" font-family="Arial, sans-serif" font-size="12" fill="white">
+      Konsekvens: Overvurderer prosjektverdi
+    </text>
+  </g>
+  
+  <!-- Error 2: Nominal vs Real -->
+  <g transform="translate(410, 80)">
+    <rect x="0" y="0" width="340" height="100" rx="10" fill="url(#errorGradient)" opacity="0.9"/>
+    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      2. Nominell vs. Real Rente
+    </text>
+    
+    <!-- Error icon -->
+    <circle cx="50" cy="55" r="20" fill="white" opacity="0.3"/>
+    <text x="50" y="62" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">🔄</text>
+    
+    <!-- Description -->
+    <text x="90" y="45" font-family="Arial, sans-serif" font-size="13" fill="white">
+      Problem: Blanding av nominelle og reelle størrelser
+    </text>
+    <text x="90" y="60" font-family="Arial, sans-serif" font-size="12" fill="white">
+      Eksempel: Real rente med nominelle kontantstrømmer
+    </text>
+    <text x="90" y="75" font-family="Arial, sans-serif" font-size="12" fill="white">
+      Konsekvens: Feil nåverdi beregning
+    </text>
+  </g>
+  
+  <!-- Error 3: Timing -->
+  <g transform="translate(50, 200)">
+    <rect x="0" y="0" width="340" height="100" rx="10" fill="url(#errorGradient)" opacity="0.9"/>
+    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      3. Timing av Kontantstrømmer
+    </text>
+    
+    <!-- Error icon -->
+    <circle cx="50" cy="55" r="20" fill="white" opacity="0.3"/>
+    <text x="50" y="62" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">⏰</text>
+    
+    <!-- Description -->
+    <text x="90" y="45" font-family="Arial, sans-serif" font-size="13" fill="white">
+      Problem: Feil tidspunkt for kontantstrømmer
+    </text>
+    <text x="90" y="60" font-family="Arial, sans-serif" font-size="12" fill="white">
+      Eksempel: Årsslutt vs. månedlig timing
+    </text>
+    <text x="90" y="75" font-family="Arial, sans-serif" font-size="12" fill="white">
+      Konsekvens: Unøyaktig verdsettelse
+    </text>
+  </g>
+  
+  <!-- Error 4: Tax -->
+  <g transform="translate(410, 200)">
+    <rect x="0" y="0" width="340" height="100" rx="10" fill="url(#errorGradient)" opacity="0.9"/>
+    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      4. Skatteeffekter
+    </text>
+    
+    <!-- Error icon -->
+    <circle cx="50" cy="55" r="20" fill="white" opacity="0.3"/>
+    <text x="50" y="62" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">💰</text>
+    
+    <!-- Description -->
+    <text x="90" y="45" font-family="Arial, sans-serif" font-size="13" fill="white">
+      Problem: Glemmer å justere for skatteeffekter
+    </text>
+    <text x="90" y="60" font-family="Arial, sans-serif" font-size="12" fill="white">
+      Eksempel: Brutto vs. netto kontantstrømmer
+    </text>
+    <text x="90" y="75" font-family="Arial, sans-serif" font-size="12" fill="white">
+      Konsekvens: Overvurderer investeringsverdi
+    </text>
+  </g>
+  
+  <!-- Error 5: Terminal Value -->
+  <g transform="translate(50, 320)">
+    <rect x="0" y="0" width="340" height="100" rx="10" fill="url(#errorGradient)" opacity="0.9"/>
+    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      5. Terminalverdi
+    </text>
+    
+    <!-- Error icon -->
+    <circle cx="50" cy="55" r="20" fill="white" opacity="0.3"/>
+    <text x="50" y="62" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">🎯</text>
+    
+    <!-- Description -->
+    <text x="90" y="45" font-family="Arial, sans-serif" font-size="13" fill="white">
+      Problem: Feil beregning av sluttverdi
+    </text>
+    <text x="90" y="60" font-family="Arial, sans-serif" font-size="12" fill="white">
+      Eksempel: Urealistisk vekstrate i perpetuitet
+    </text>
+    <text x="90" y="75" font-family="Arial, sans-serif" font-size="12" fill="white">
+      Konsekvens: Dramatisk feil verdsettelse
+    </text>
+  </g>
+  
+  <!-- Error 6: Sensitivity Analysis -->
+  <g transform="translate(410, 320)">
+    <rect x="0" y="0" width="340" height="100" rx="10" fill="url(#warningGradient)" opacity="0.9"/>
+    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      6. Manglende Sensitivitetsanalyse
+    </text>
+    
+    <!-- Warning icon -->
+    <circle cx="50" cy="55" r="20" fill="white" opacity="0.3"/>
+    <text x="50" y="62" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">⚠️</text>
+    
+    <!-- Description -->
+    <text x="90" y="45" font-family="Arial, sans-serif" font-size="13" fill="white">
+      Problem: Ikke tester ulike scenarioer
+    </text>
+    <text x="90" y="60" font-family="Arial, sans-serif" font-size="12" fill="white">
+      Eksempel: Kun ett sett med forutsetninger
+    </text>
+    <text x="90" y="75" font-family="Arial, sans-serif" font-size="12" fill="white">
+      Konsekvens: Mangler risikoperspektiv
+    </text>
+  </g>
+  
+  <!-- Best Practices Section -->
+  <g transform="translate(50, 440)">
+    <rect x="0" y="0" width="700" height="140" rx="10" fill="url(#solutionGradient)" opacity="0.9"/>
+    <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
+      Beste Praksis for å Unngå Feil
+    </text>
+    
+    <!-- Best Practice 1 -->
+    <g transform="translate(50, 40)">
+      <circle cx="15" cy="15" r="12" fill="white" opacity="0.3"/>
+      <text x="15" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">✓</text>
+      <text x="40" y="12" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+        Konsistente forutsetninger
+      </text>
+      <text x="40" y="26" font-family="Arial, sans-serif" font-size="12" fill="white">
+        Bruk enten nominelle eller reelle størrelser konsekvent
+      </text>
+    </g>
+    
+    <!-- Best Practice 2 -->
+    <g transform="translate(350, 40)">
+      <circle cx="15" cy="15" r="12" fill="white" opacity="0.3"/>
+      <text x="15" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">✓</text>
+      <text x="40" y="12" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+        Riktig diskonteringsrente
+      </text>
+      <text x="40" y="26" font-family="Arial, sans-serif" font-size="12" fill="white">
+        Tilpass renten til prosjektets risikoprofil
+      </text>
+    </g>
+    
+    <!-- Best Practice 3 -->
+    <g transform="translate(50, 80)">
+      <circle cx="15" cy="15" r="12" fill="white" opacity="0.3"/>
+      <text x="15" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">✓</text>
+      <text x="40" y="12" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+        Skattetilpasning
+      </text>
+      <text x="40" y="26" font-family="Arial, sans-serif" font-size="12" fill="white">
+        Juster for skatteeffekter der relevant
+      </text>
+    </g>
+    
+    <!-- Best Practice 4 -->
+    <g transform="translate(350, 80)">
+      <circle cx="15" cy="15" r="12" fill="white" opacity="0.3"/>
+      <text x="15" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">✓</text>
+      <text x="40" y="12" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+        Sensitivitetsanalyse
+      </text>
+      <text x="40" y="26" font-family="Arial, sans-serif" font-size="12" fill="white">
+        Test ulike scenarioer og forutsetninger
+      </text>
+    </g>
+    
+    <!-- Best Practice 5 -->
+    <g transform="translate(200, 110)">
+      <circle cx="15" cy="15" r="12" fill="white" opacity="0.3"/>
+      <text x="15" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">✓</text>
+      <text x="40" y="12" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+        Dokumentasjon
+      </text>
+      <text x="40" y="26" font-family="Arial, sans-serif" font-size="12" fill="white">
+        Dokumenter alle forutsetninger og beregninger
+      </text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,188 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="stepGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="2" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="url(#bgGradient)"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#0066cc">
+    Attestering Prosess Oversikt
+  </text>
+  
+  <!-- Step 1: Bilag Mottas -->
+  <g transform="translate(50, 80)">
+    <rect x="0" y="0" width="120" height="80" fill="url(#stepGradient)" rx="10" filter="url(#shadow)"/>
+    <text x="60" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+      1. BILAG
+    </text>
+    <text x="60" y="40" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+      MOTTAS
+    </text>
+    
+    <!-- Document icon -->
+    <rect x="40" y="50" width="20" height="25" fill="white" rx="2"/>
+    <rect x="42" y="55" width="16" height="2" fill="#0066cc"/>
+    <rect x="42" y="60" width="12" height="1" fill="#666"/>
+    <rect x="42" y="65" width="14" height="1" fill="#666"/>
+    <rect x="42" y="70" width="10" height="1" fill="#666"/>
+  </g>
+  
+  <!-- Arrow 1 -->
+  <path d="M180 120 L220 120" stroke="#0066cc" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Step 2: Saklig Kontroll -->
+  <g transform="translate(230, 80)">
+    <rect x="0" y="0" width="120" height="80" fill="url(#stepGradient)" rx="10" filter="url(#shadow)"/>
+    <text x="60" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+      2. SAKLIG
+    </text>
+    <text x="60" y="40" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+      KONTROLL
+    </text>
+    
+    <!-- Magnifying glass icon -->
+    <circle cx="55" cy="60" r="8" fill="none" stroke="white" stroke-width="2"/>
+    <path d="M61 66 L68 73" stroke="white" stroke-width="2"/>
+  </g>
+  
+  <!-- Arrow 2 -->
+  <path d="M360 120 L400 120" stroke="#0066cc" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Step 3: Regnskapsmessig Kontroll -->
+  <g transform="translate(410, 80)">
+    <rect x="0" y="0" width="120" height="80" fill="url(#stepGradient)" rx="10" filter="url(#shadow)"/>
+    <text x="60" y="20" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="white">
+      3. REGNSKAPS-
+    </text>
+    <text x="60" y="35" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="white">
+      MESSIG
+    </text>
+    <text x="60" y="50" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="white">
+      KONTROLL
+    </text>
+    
+    <!-- Calculator icon -->
+    <rect x="45" y="55" width="30" height="20" fill="white" rx="2"/>
+    <rect x="48" y="58" width="6" height="3" fill="#0066cc"/>
+    <rect x="56" y="58" width="6" height="3" fill="#0066cc"/>
+    <rect x="64" y="58" width="6" height="3" fill="#0066cc"/>
+    <rect x="48" y="63" width="6" height="3" fill="#0066cc"/>
+    <rect x="56" y="63" width="6" height="3" fill="#0066cc"/>
+    <rect x="64" y="63" width="6" height="3" fill="#0066cc"/>
+    <rect x="48" y="68" width="6" height="3" fill="#0066cc"/>
+    <rect x="56" y="68" width="14" height="3" fill="#28a745"/>
+  </g>
+  
+  <!-- Arrow 3 -->
+  <path d="M540 120 L580 120" stroke="#0066cc" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Step 4: Økonomisk Kontroll -->
+  <g transform="translate(590, 80)">
+    <rect x="0" y="0" width="120" height="80" fill="url(#stepGradient)" rx="10" filter="url(#shadow)"/>
+    <text x="60" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+      4. ØKONOMISK
+    </text>
+    <text x="60" y="40" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+      KONTROLL
+    </text>
+    
+    <!-- Money icon -->
+    <circle cx="60" cy="62" r="12" fill="white"/>
+    <text x="60" y="68" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0066cc">
+      kr
+    </text>
+  </g>
+  
+  <!-- Vertical arrow down -->
+  <path d="M650 170 L650 210" stroke="#0066cc" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Step 5: Attestering -->
+  <g transform="translate(590, 220)">
+    <rect x="0" y="0" width="120" height="80" fill="#28a745" rx="10" filter="url(#shadow)"/>
+    <text x="60" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+      5. ATTESTERING
+    </text>
+    <text x="60" y="40" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+      GODKJENNING
+    </text>
+    
+    <!-- Signature icon -->
+    <path d="M45 55 Q55 65 65 55 Q70 50 75 55" stroke="white" stroke-width="2" fill="none"/>
+    <circle cx="75" cy="55" r="2" fill="white"/>
+  </g>
+  
+  <!-- Arrow left -->
+  <path d="M580 260 L540 260" stroke="#28a745" stroke-width="3" fill="none" marker-end="url(#arrowheadGreen)"/>
+  
+  <!-- Step 6: Bokføring -->
+  <g transform="translate(410, 220)">
+    <rect x="0" y="0" width="120" height="80" fill="#28a745" rx="10" filter="url(#shadow)"/>
+    <text x="60" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+      6. BOKFØRING
+    </text>
+    <text x="60" y="40" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+      I REGNSKAP
+    </text>
+    
+    <!-- Book icon -->
+    <rect x="45" y="50" width="30" height="20" fill="white" rx="2"/>
+    <rect x="47" y="52" width="26" height="2" fill="#28a745"/>
+    <rect x="47" y="56" width="20" height="1" fill="#666"/>
+    <rect x="47" y="59" width="22" height="1" fill="#666"/>
+    <rect x="47" y="62" width="18" height="1" fill="#666"/>
+    <rect x="47" y="65" width="24" height="1" fill="#666"/>
+  </g>
+  
+  <!-- Control Points -->
+  <g transform="translate(50, 350)">
+    <text x="0" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#0066cc">
+      Kontrollpunkter:
+    </text>
+    
+    <!-- Saklig -->
+    <circle cx="20" cy="45" r="5" fill="#0066cc"/>
+    <text x="35" y="50" font-family="Arial, sans-serif" font-size="12" fill="#333">
+      <tspan font-weight="bold">Saklig:</tspan> Er varen/tjenesten levert som avtalt?
+    </text>
+    
+    <!-- Regnskapsmessig -->
+    <circle cx="20" cy="70" r="5" fill="#0066cc"/>
+    <text x="35" y="75" font-family="Arial, sans-serif" font-size="12" fill="#333">
+      <tspan font-weight="bold">Regnskapsmessig:</tspan> Riktig kontering og MVA-behandling?
+    </text>
+    
+    <!-- Økonomisk -->
+    <circle cx="20" cy="95" r="5" fill="#0066cc"/>
+    <text x="35" y="100" font-family="Arial, sans-serif" font-size="12" fill="#333">
+      <tspan font-weight="bold">Økonomisk:</tspan> Innenfor budsjett og fullmakter?
+    </text>
+    
+    <!-- Formell -->
+    <circle cx="20" cy="120" r="5" fill="#28a745"/>
+    <text x="35" y="125" font-family="Arial, sans-serif" font-size="12" fill="#333">
+      <tspan font-weight="bold">Formell:</tspan> Autorisert attestant og korrekt dokumentasjon?
+    </text>
+  </g>
+  
+  <!-- Arrow marker definitions -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#0066cc"/>
+    </marker>
+    <marker id="arrowheadGreen" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#28a745"/>
+    </marker>
+  </defs>
+</svg>

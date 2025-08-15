@@ -1,0 +1,106 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="500" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+    Kontantstrømoppstilling - Oversikt
+  </text>
+  
+  <!-- Main sections -->
+  <!-- Operating Activities -->
+  <rect x="50" y="80" width="200" height="150" fill="#e8f5e8" stroke="#28a745" stroke-width="2" rx="10"/>
+  <text x="150" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#155724">
+    Driftsaktiviteter
+  </text>
+  <text x="150" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#155724">
+    • Kontant fra kunder
+  </text>
+  <text x="150" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#155724">
+    • Betaling til leverandører
+  </text>
+  <text x="150" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#155724">
+    • Lønnsutbetalinger
+  </text>
+  <text x="150" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#155724">
+    • Skatter og avgifter
+  </text>
+  <text x="150" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#155724">
+    = Driftskontantstrøm
+  </text>
+  
+  <!-- Investment Activities -->
+  <rect x="300" y="80" width="200" height="150" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="10"/>
+  <text x="400" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#856404">
+    Investeringsaktiviteter
+  </text>
+  <text x="400" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#856404">
+    • Kjøp av anleggsmidler
+  </text>
+  <text x="400" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#856404">
+    • Salg av eiendeler
+  </text>
+  <text x="400" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#856404">
+    • Investeringer
+  </text>
+  <text x="400" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#856404">
+    • Utlån
+  </text>
+  <text x="400" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#856404">
+    = Investeringskontantstrøm
+  </text>
+  
+  <!-- Financing Activities -->
+  <rect x="550" y="80" width="200" height="150" fill="#d1ecf1" stroke="#17a2b8" stroke-width="2" rx="10"/>
+  <text x="650" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#0c5460">
+    Finansieringsaktiviteter
+  </text>
+  <text x="650" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#0c5460">
+    • Opptak av lån
+  </text>
+  <text x="650" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#0c5460">
+    • Nedbetaling av lån
+  </text>
+  <text x="650" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#0c5460">
+    • Utbytte
+  </text>
+  <text x="650" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#0c5460">
+    • Aksjeemisjoner
+  </text>
+  <text x="650" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0c5460">
+    = Finansieringskontantstrøm
+  </text>
+  
+  <!-- Arrows pointing down -->
+  <path d="M 150 240 L 150 280" stroke="#2c3e50" stroke-width="3" marker-end="url(#arrowhead)"/>
+  <path d="M 400 240 L 400 280" stroke="#2c3e50" stroke-width="3" marker-end="url(#arrowhead)"/>
+  <path d="M 650 240 L 650 280" stroke="#2c3e50" stroke-width="3" marker-end="url(#arrowhead)"/>
+  
+  <!-- Sum box -->
+  <rect x="250" y="300" width="300" height="80" fill="#f8d7da" stroke="#dc3545" stroke-width="2" rx="10"/>
+  <text x="400" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#721c24">
+    Netto Endring i Kontanter
+  </text>
+  <text x="400" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#721c24">
+    Drift + Investering + Finansiering
+  </text>
+  <text x="400" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#721c24">
+    = Endring i kontantbeholdning
+  </text>
+  
+  <!-- Final equation -->
+  <rect x="150" y="400" width="500" height="60" fill="#d4edda" stroke="#28a745" stroke-width="2" rx="10"/>
+  <text x="400" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#155724">
+    Kontanter ved periodens begynnelse + Netto endring
+  </text>
+  <text x="400" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#155724">
+    = Kontanter ved periodens slutt
+  </text>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#2c3e50"/>
+    </marker>
+  </defs>
+</svg>

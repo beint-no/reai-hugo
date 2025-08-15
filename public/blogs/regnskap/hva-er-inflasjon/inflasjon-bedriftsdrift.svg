@@ -1,0 +1,132 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">Inflasjonens Påvirkning på Bedriftsdrift</text>
+  
+  <!-- Central business circle -->
+  <circle cx="400" cy="300" r="70" fill="#3498db" stroke="#2980b9" stroke-width="3"/>
+  <text x="400" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">BEDRIFT</text>
+  <text x="400" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Drift &amp; Økonomi</text>
+  
+  <!-- Cost increases (left side) -->
+  <g transform="translate(50, 150)">
+    <text x="100" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#e74c3c">ØKTE KOSTNADER</text>
+    
+    <!-- Labor costs -->
+    <rect x="0" y="40" width="200" height="60" fill="#e74c3c" rx="10"/>
+    <text x="100" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Lønnskostnader</text>
+    <text x="20" y="80" font-family="Arial, sans-serif" font-size="11" fill="white">• Årlige lønnsøkninger</text>
+    <text x="20" y="95" font-family="Arial, sans-serif" font-size="11" fill="white">• Økte sosiale kostnader</text>
+    
+    <!-- Raw materials -->
+    <rect x="0" y="120" width="200" height="60" fill="#c0392b" rx="10"/>
+    <text x="100" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Råvarekostnader</text>
+    <text x="20" y="160" font-family="Arial, sans-serif" font-size="11" fill="white">• Volatile priser</text>
+    <text x="20" y="175" font-family="Arial, sans-serif" font-size="11" fill="white">• Importavhengighet</text>
+    
+    <!-- Energy costs -->
+    <rect x="0" y="200" width="200" height="60" fill="#8e44ad" rx="10"/>
+    <text x="100" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Energikostnader</text>
+    <text x="20" y="240" font-family="Arial, sans-serif" font-size="11" fill="white">• Strøm og oppvarming</text>
+    <text x="20" y="255" font-family="Arial, sans-serif" font-size="11" fill="white">• Transport og logistikk</text>
+    
+    <!-- Arrow to center -->
+    <path d="M200 180 L330 250" stroke="#e74c3c" stroke-width="4" fill="none" marker-end="url(#arrowhead-red)"/>
+  </g>
+  
+  <!-- Revenue opportunities (right side) -->
+  <g transform="translate(550, 150)">
+    <text x="100" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#27ae60">INNTEKTSMULIGHETER</text>
+    
+    <!-- Price increases -->
+    <rect x="0" y="40" width="200" height="60" fill="#27ae60" rx="10"/>
+    <text x="100" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Prisøkninger</text>
+    <text x="20" y="80" font-family="Arial, sans-serif" font-size="11" fill="white">• Justere salgspriser</text>
+    <text x="20" y="95" font-family="Arial, sans-serif" font-size="11" fill="white">• Markedsaksept</text>
+    
+    <!-- Contract indexing -->
+    <rect x="0" y="120" width="200" height="60" fill="#2ecc71" rx="10"/>
+    <text x="100" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Kontraktsindeksering</text>
+    <text x="20" y="160" font-family="Arial, sans-serif" font-size="11" fill="white">• Automatisk justering</text>
+    <text x="20" y="175" font-family="Arial, sans-serif" font-size="11" fill="white">• Langsiktige avtaler</text>
+    
+    <!-- Value creation -->
+    <rect x="0" y="200" width="200" height="60" fill="#16a085" rx="10"/>
+    <text x="100" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Verdiskaping</text>
+    <text x="20" y="240" font-family="Arial, sans-serif" font-size="11" fill="white">• Produktforbedring</text>
+    <text x="20" y="255" font-family="Arial, sans-serif" font-size="11" fill="white">• Effektivisering</text>
+    
+    <!-- Arrow to center -->
+    <path d="M0 180 L70 250" stroke="#27ae60" stroke-width="4" fill="none" marker-end="url(#arrowhead-green)"/>
+  </g>
+  
+  <!-- Financial impact (bottom) -->
+  <g transform="translate(200, 450)">
+    <text x="200" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#f39c12">FINANSIELL PÅVIRKNING</text>
+    
+    <!-- Working capital -->
+    <rect x="0" y="40" width="130" height="80" fill="#f39c12" rx="10"/>
+    <text x="65" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Arbeidskapital</text>
+    <text x="15" y="80" font-family="Arial, sans-serif" font-size="10" fill="white">• Økt lagerbehov</text>
+    <text x="15" y="95" font-family="Arial, sans-serif" font-size="10" fill="white">• Høyere verdier</text>
+    <text x="15" y="110" font-family="Arial, sans-serif" font-size="10" fill="white">• Likviditetsbehov</text>
+    
+    <!-- Debt burden -->
+    <rect x="140" y="40" width="130" height="80" fill="#e67e22" rx="10"/>
+    <text x="205" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Gjeldsbyrde</text>
+    <text x="155" y="80" font-family="Arial, sans-serif" font-size="10" fill="white">• Fast gjeld "billigere"</text>
+    <text x="155" y="95" font-family="Arial, sans-serif" font-size="10" fill="white">• Realverdi synker</text>
+    <text x="155" y="110" font-family="Arial, sans-serif" font-size="10" fill="white">• Gjeldsfordel</text>
+    
+    <!-- Investment decisions -->
+    <rect x="280" y="40" width="130" height="80" fill="#d35400" rx="10"/>
+    <text x="345" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Investeringer</text>
+    <text x="295" y="80" font-family="Arial, sans-serif" font-size="10" fill="white">• Høyere kostnader</text>
+    <text x="295" y="95" font-family="Arial, sans-serif" font-size="10" fill="white">• Timing viktig</text>
+    <text x="295" y="110" font-family="Arial, sans-serif" font-size="10" fill="white">• Real vs nominell</text>
+    
+    <!-- Arrow to center -->
+    <path d="M200 40 L350 350" stroke="#f39c12" stroke-width="4" fill="none" marker-end="url(#arrowhead-orange)"/>
+  </g>
+  
+  <!-- Strategic responses (top) -->
+  <g transform="translate(250, 80)">
+    <text x="150" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#9b59b6">STRATEGISKE TILTAK</text>
+    
+    <!-- Efficiency -->
+    <rect x="0" y="30" width="100" height="50" fill="#9b59b6" rx="8"/>
+    <text x="50" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">Effektivisering</text>
+    <text x="50" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">Reduser kostnader</text>
+    
+    <!-- Automation -->
+    <rect x="110" y="30" width="100" height="50" fill="#8e44ad" rx="8"/>
+    <text x="160" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">Automatisering</text>
+    <text x="160" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">Mindre lønnskostnader</text>
+    
+    <!-- Diversification -->
+    <rect x="220" y="30" width="100" height="50" fill="#7d3c98" rx="8"/>
+    <text x="270" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">Diversifisering</text>
+    <text x="270" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">Spre risiko</text>
+    
+    <!-- Arrow to center -->
+    <path d="M150 80 L350 230" stroke="#9b59b6" stroke-width="4" fill="none" marker-end="url(#arrowhead-purple)"/>
+  </g>
+  
+  <!-- Arrow markers -->
+  <defs>
+    <marker id="arrowhead-red" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#e74c3c"/>
+    </marker>
+    <marker id="arrowhead-green" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#27ae60"/>
+    </marker>
+    <marker id="arrowhead-orange" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#f39c12"/>
+    </marker>
+    <marker id="arrowhead-purple" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#9b59b6"/>
+    </marker>
+  </defs>
+</svg>

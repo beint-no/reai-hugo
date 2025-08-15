@@ -1,0 +1,98 @@
+<svg width="700" height="450" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#06b6d4;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0891b2;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="cardGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#f0fdff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#cffafe;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="700" height="450" fill="#ffffff"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="700" height="60" fill="url(#headerGradient)"/>
+  <text x="350" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="20" font-weight="bold">Klasse 2: Omløpsmidler</text>
+  
+  <!-- Main container -->
+  <rect x="30" y="80" width="640" height="350" fill="url(#cardGradient)" stroke="#67e8f9" stroke-width="2" rx="10"/>
+  
+  <!-- Inventory section -->
+  <g transform="translate(60, 110)">
+    <rect x="0" y="0" width="140" height="80" fill="#06b6d4" stroke="#0891b2" stroke-width="2" rx="8"/>
+    <text x="70" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">200-209</text>
+    <text x="70" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">Varelager</text>
+    <text x="70" y="60" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">&amp; råvarer</text>
+    <text x="70" y="75" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">Handelsvarer, materialer</text>
+  </g>
+  
+  <!-- Accounts receivable section -->
+  <g transform="translate(220, 110)">
+    <rect x="0" y="0" width="140" height="80" fill="#0891b2" stroke="#0e7490" stroke-width="2" rx="8"/>
+    <text x="70" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">210-219</text>
+    <text x="70" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">Kundefordringer</text>
+    <text x="70" y="60" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">Utestående fakturaer</text>
+    <text x="70" y="75" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">fra kunder</text>
+  </g>
+  
+  <!-- Other receivables section -->
+  <g transform="translate(380, 110)">
+    <rect x="0" y="0" width="140" height="80" fill="#0e7490" stroke="#155e75" stroke-width="2" rx="8"/>
+    <text x="70" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">220-229</text>
+    <text x="70" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">Andre</text>
+    <text x="70" y="60" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">fordringer</text>
+    <text x="70" y="75" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">Forskudd, depositum</text>
+  </g>
+  
+  <!-- Cash and bank section -->
+  <g transform="translate(540, 110)">
+    <rect x="0" y="0" width="100" height="80" fill="#155e75" stroke="#164e63" stroke-width="2" rx="8"/>
+    <text x="50" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">230-239</text>
+    <text x="50" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">Bank &amp;</text>
+    <text x="50" y="60" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">kontanter</text>
+    <text x="50" y="75" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">Likvide midler</text>
+  </g>
+  
+  <!-- Detailed breakdown -->
+  <g transform="translate(60, 220)">
+    <!-- Inventory details -->
+    <rect x="0" y="0" width="140" height="100" fill="#a7f3d0" stroke="#6ee7b7" stroke-width="1" rx="5"/>
+    <text x="70" y="20" text-anchor="middle" fill="#065f46" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Varelager detaljer:</text>
+    <text x="10" y="40" fill="#047857" font-family="Arial, sans-serif" font-size="10">• Handelsvarer</text>
+    <text x="10" y="55" fill="#047857" font-family="Arial, sans-serif" font-size="10">• Råvarer</text>
+    <text x="10" y="70" fill="#047857" font-family="Arial, sans-serif" font-size="10">• Halvfabrikata</text>
+    <text x="10" y="85" fill="#047857" font-family="Arial, sans-serif" font-size="10">• Ferdigvarer</text>
+  </g>
+  
+  <!-- Receivables details -->
+  <g transform="translate(220, 220)">
+    <rect x="0" y="0" width="140" height="100" fill="#bfdbfe" stroke="#93c5fd" stroke-width="1" rx="5"/>
+    <text x="70" y="20" text-anchor="middle" fill="#1e3a8a" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Fordringer detaljer:</text>
+    <text x="10" y="40" fill="#1e40af" font-family="Arial, sans-serif" font-size="10">• Kundefordringer</text>
+    <text x="10" y="55" fill="#1e40af" font-family="Arial, sans-serif" font-size="10">• Forskudd leverandører</text>
+    <text x="10" y="70" fill="#1e40af" font-family="Arial, sans-serif" font-size="10">• Depositum</text>
+    <text x="10" y="85" fill="#1e40af" font-family="Arial, sans-serif" font-size="10">• Påløpte inntekter</text>
+  </g>
+  
+  <!-- Cash details -->
+  <g transform="translate(380, 220)">
+    <rect x="0" y="0" width="160" height="100" fill="#fef3c7" stroke="#fde68a" stroke-width="1" rx="5"/>
+    <text x="80" y="20" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Likvide midler:</text>
+    <text x="10" y="40" fill="#b45309" font-family="Arial, sans-serif" font-size="10">• Bankinnskudd</text>
+    <text x="10" y="55" fill="#b45309" font-family="Arial, sans-serif" font-size="10">• Kontanter i kasse</text>
+    <text x="10" y="70" fill="#b45309" font-family="Arial, sans-serif" font-size="10">• Kortsiktige plasseringer</text>
+    <text x="10" y="85" fill="#b45309" font-family="Arial, sans-serif" font-size="10">• Pengemarkedsfond</text>
+  </g>
+  </g>
+  
+  <!-- Working capital concept -->
+  <g transform="translate(60, 350)">
+    <rect x="0" y="0" width="580" height="60" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1" rx="5"/>
+    <text x="290" y="20" text-anchor="middle" fill="#334155" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Arbeidskapital = Omløpsmidler - Kortsiktig gjeld</text>
+    <text x="290" y="40" text-anchor="middle" fill="#64748b" font-family="Arial, sans-serif" font-size="12">Omløpsmidler omsettes til kontanter eller forbrukes innen 12 måneder</text>
+    <text x="290" y="55" text-anchor="middle" fill="#64748b" font-family="Arial, sans-serif" font-size="11">Viktig for å vurdere selskapets likviditet og kortsiktige betalingsevne</text>
+  </g>
+</svg>

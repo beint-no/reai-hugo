@@ -1,0 +1,87 @@
+<svg width="700" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6f42c1;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#5a32a3;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="700" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="700" height="50" fill="url(#headerGradient)"/>
+  <text x="350" y="30" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="20" font-weight="bold">
+    Kontostruktur for Lønnskostnader
+  </text>
+  
+  <!-- Account structure -->
+  <g transform="translate(50, 70)">
+    <!-- Account class 5000-5099: Salary costs -->
+    <rect x="50" y="30" width="550" height="70" fill="#28a745" stroke="#1e7e34" stroke-width="2" rx="5"/>
+    <text x="70" y="50" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      5000-5099: LØNNSKOSTNADER
+    </text>
+    <text x="70" y="70" fill="white" font-family="Arial, sans-serif" font-size="12">
+      • 5000 Lønn til ansatte • 5010 Overtidstillegg • 5020 Bonuser og provisjoner
+    </text>
+    <text x="70" y="85" fill="white" font-family="Arial, sans-serif" font-size="12">
+      • 5030 Feriepenger • 5040 Sykepenger (arbeidsgiverperiode)
+    </text>
+    
+    <!-- Account class 5400-5499: Employer contributions -->
+    <rect x="50" y="120" width="550" height="70" fill="#dc3545" stroke="#c82333" stroke-width="2" rx="5"/>
+    <text x="70" y="140" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      5400-5499: ARBEIDSGIVERAVGIFT
+    </text>
+    <text x="70" y="160" fill="white" font-family="Arial, sans-serif" font-size="12">
+      • 5400 Arbeidsgiveravgift • 5410 Avgift på feriepenger
+    </text>
+    <text x="70" y="175" fill="white" font-family="Arial, sans-serif" font-size="12">
+      • 5420 Avgift på sykepenger • 5430 Avgift på andre ytelser
+    </text>
+    
+    <!-- Account class 5700-5799: Pension costs -->
+    <rect x="50" y="210" width="550" height="70" fill="#ffc107" stroke="#e0a800" stroke-width="2" rx="5"/>
+    <text x="70" y="230" fill="black" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      5700-5799: PENSJONSKOSTNADER
+    </text>
+    <text x="70" y="250" fill="black" font-family="Arial, sans-serif" font-size="12">
+      • 5700 Pensjonskostnad • 5710 AFP-kostnad • 5720 Gruppelivsforsikring
+    </text>
+    <text x="70" y="265" fill="black" font-family="Arial, sans-serif" font-size="12">
+      • 5730 Uføreforsikring • 5740 Andre pensjonskostnader
+    </text>
+    
+    <!-- Account class 5800-5899: Other personnel costs -->
+    <rect x="50" y="300" width="550" height="70" fill="#17a2b8" stroke="#138496" stroke-width="2" rx="5"/>
+    <text x="70" y="320" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      5800-5899: ANDRE PERSONALKOSTNADER
+    </text>
+    <text x="70" y="340" fill="white" font-family="Arial, sans-serif" font-size="12">
+      • 5800 Yrkesskadeforsikring • 5810 Kurs og opplæring • 5820 Rekruttering
+    </text>
+    <text x="70" y="355" fill="white" font-family="Arial, sans-serif" font-size="12">
+      • 5830 Arbeidsklær • 5840 Personalfester • 5850 Andre personalkostnader
+    </text>
+  </g>
+  
+  <!-- Balance sheet accounts (liabilities) -->
+  <g transform="translate(50, 400)">
+    <text x="300" y="20" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+      Tilhørende Balansekontoer (Gjeld)
+    </text>
+    
+    <rect x="50" y="30" width="500" height="50" fill="#6c757d" stroke="#5a6268" stroke-width="1" rx="3"/>
+    <text x="70" y="50" fill="white" font-family="Arial, sans-serif" font-size="12">
+      2600 Skyldig lønn • 2610 Skyldig forskuddstrekk • 2620 Skyldig arbeidsgiveravgift
+    </text>
+    <text x="70" y="65" fill="white" font-family="Arial, sans-serif" font-size="12">
+      2630 Skyldig pensjon • 2640 Skyldig feriepenger • 2650 Andre skyldige lønnsrelaterte poster
+    </text>
+  </g>
+</svg>

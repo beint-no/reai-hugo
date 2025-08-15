@@ -1,0 +1,141 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="digitalGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0f172a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e293b;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f1f5f9"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="60" fill="url(#digitalGrad)"/>
+  <text x="400" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="22" font-weight="bold">Digitale Verktøy for Kapitalanalyse</text>
+  <text x="400" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14">Moderne Løsninger for Oppfølging av Sysselsatt Kapital</text>
+  
+  <!-- ERP Systems -->
+  <g transform="translate(50, 80)">
+    <rect x="0" y="0" width="320" height="150" fill="#dbeafe" stroke="#3b82f6" stroke-width="2" rx="12"/>
+    <rect x="0" y="0" width="320" height="40" fill="#3b82f6" rx="12"/>
+    <text x="160" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">🏢 ERP-systemer</text>
+    
+    <text x="15" y="60" fill="#1e40af" font-family="Arial, sans-serif" font-size="13" font-weight="bold">Automatiske Funksjoner:</text>
+    <text x="15" y="75" fill="#1e40af" font-family="Arial, sans-serif" font-size="11">• Sanntidsberegning av sysselsatt kapital</text>
+    <text x="15" y="88" fill="#1e40af" font-family="Arial, sans-serif" font-size="11">• Automatisk klassifisering av gjeld</text>
+    <text x="15" y="101" fill="#1e40af" font-family="Arial, sans-serif" font-size="11">• Integrerte rapporter og dashboards</text>
+    <text x="15" y="114" fill="#1e40af" font-family="Arial, sans-serif" font-size="11">• Varsling ved avvik fra målsetninger</text>
+    
+    <text x="15" y="135" fill="#1e40af" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Eksempler: SAP, Oracle, Microsoft Dynamics</text>
+  </g>
+  
+  <!-- BI Tools -->
+  <g transform="translate(390, 80)">
+    <rect x="0" y="0" width="320" height="150" fill="#dcfce7" stroke="#16a34a" stroke-width="2" rx="12"/>
+    <rect x="0" y="0" width="320" height="40" fill="#16a34a" rx="12"/>
+    <text x="160" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">📊 BI og Analyse</text>
+    
+    <text x="15" y="60" fill="#166534" font-family="Arial, sans-serif" font-size="13" font-weight="bold">Analysemuligheter:</text>
+    <text x="15" y="75" fill="#166534" font-family="Arial, sans-serif" font-size="11">• Dashboards for kontinuerlig overvåking</text>
+    <text x="15" y="88" fill="#166534" font-family="Arial, sans-serif" font-size="11">• Scenarioanalyser for planlegging</text>
+    <text x="15" y="101" fill="#166534" font-family="Arial, sans-serif" font-size="11">• Benchmarking mot bransjedata</text>
+    <text x="15" y="114" fill="#166534" font-family="Arial, sans-serif" font-size="11">• Prognosemodeller for kapitalutvikling</text>
+    
+    <text x="15" y="135" fill="#166534" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Eksempler: Power BI, Tableau, Qlik Sense</text>
+  </g>
+  
+  <!-- Excel/Spreadsheets -->
+  <g transform="translate(50, 250)">
+    <rect x="0" y="0" width="320" height="120" fill="#fef3c7" stroke="#d97706" stroke-width="2" rx="12"/>
+    <rect x="0" y="0" width="320" height="40" fill="#d97706" rx="12"/>
+    <text x="160" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">📋 Excel og Regneark</text>
+    
+    <text x="15" y="60" fill="#92400e" font-family="Arial, sans-serif" font-size="13" font-weight="bold">Fordeler for SMB:</text>
+    <text x="15" y="75" fill="#92400e" font-family="Arial, sans-serif" font-size="11">• Lavere kostnader og enkel implementering</text>
+    <text x="15" y="88" fill="#92400e" font-family="Arial, sans-serif" font-size="11">• Fleksible maler og formler</text>
+    <text x="15" y="101" fill="#92400e" font-family="Arial, sans-serif" font-size="11">• Enkel opplæring av ansatte</text>
+    <text x="15" y="114" fill="#92400e" font-family="Arial, sans-serif" font-size="11">• Integrasjon med eksisterende systemer</text>
+  </g>
+  
+  <!-- Cloud Solutions -->
+  <g transform="translate(390, 250)">
+    <rect x="0" y="0" width="320" height="120" fill="#f3e8ff" stroke="#8b5cf6" stroke-width="2" rx="12"/>
+    <rect x="0" y="0" width="320" height="40" fill="#8b5cf6" rx="12"/>
+    <text x="160" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">☁️ Skybaserte Løsninger</text>
+    
+    <text x="15" y="60" fill="#7c2d12" font-family="Arial, sans-serif" font-size="13" font-weight="bold">Moderne Fordeler:</text>
+    <text x="15" y="75" fill="#7c2d12" font-family="Arial, sans-serif" font-size="11">• Tilgang fra hvor som helst</text>
+    <text x="15" y="88" fill="#7c2d12" font-family="Arial, sans-serif" font-size="11">• Automatiske oppdateringer</text>
+    <text x="15" y="101" fill="#7c2d12" font-family="Arial, sans-serif" font-size="11">• Skalerbare løsninger</text>
+    <text x="15" y="114" fill="#7c2d12" font-family="Arial, sans-serif" font-size="11">• Integrerte sikkerhetsfunksjoner</text>
+  </g>
+  
+  <!-- Implementation Process -->
+  <g transform="translate(50, 390)">
+    <rect x="0" y="0" width="700" height="30" fill="#374151"/>
+    <text x="350" y="20" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Implementeringsprosess for Digitale Kapitalverktøy</text>
+    
+    <!-- Step 1 -->
+    <rect x="0" y="40" width="140" height="100" fill="#fef2f2" stroke="#dc2626" stroke-width="1" rx="8"/>
+    <text x="70" y="60" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="14" font-weight="bold">1. Kartlegging</text>
+    <text x="10" y="75" fill="#dc2626" font-family="Arial, sans-serif" font-size="10">• Nåværende prosesser</text>
+    <text x="10" y="88" fill="#dc2626" font-family="Arial, sans-serif" font-size="10">• Datakilder</text>
+    <text x="10" y="101" fill="#dc2626" font-family="Arial, sans-serif" font-size="10">• Rapporteringsbehov</text>
+    <text x="10" y="114" fill="#dc2626" font-family="Arial, sans-serif" font-size="10">• Brukergrupper</text>
+    <text x="10" y="127" fill="#dc2626" font-family="Arial, sans-serif" font-size="10">• Budsjettramme</text>
+    
+    <!-- Arrow 1 -->
+    <polygon points="145,90 155,85 155,95" fill="#6b7280"/>
+    
+    <!-- Step 2 -->
+    <rect x="160" y="40" width="140" height="100" fill="#fef3c7" stroke="#d97706" stroke-width="1" rx="8"/>
+    <text x="230" y="60" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="14" font-weight="bold">2. Valg av Verktøy</text>
+    <text x="170" y="75" fill="#92400e" font-family="Arial, sans-serif" font-size="10">• Sammenlign løsninger</text>
+    <text x="170" y="88" fill="#92400e" font-family="Arial, sans-serif" font-size="10">• Vurder integrasjon</text>
+    <text x="170" y="101" fill="#92400e" font-family="Arial, sans-serif" font-size="10">• Test funksjonalitet</text>
+    <text x="170" y="114" fill="#92400e" font-family="Arial, sans-serif" font-size="10">• Beregn ROI</text>
+    <text x="170" y="127" fill="#92400e" font-family="Arial, sans-serif" font-size="10">• Velg leverandør</text>
+    
+    <!-- Arrow 2 -->
+    <polygon points="305,90 315,85 315,95" fill="#6b7280"/>
+    
+    <!-- Step 3 -->
+    <rect x="320" y="40" width="140" height="100" fill="#dbeafe" stroke="#3b82f6" stroke-width="1" rx="8"/>
+    <text x="390" y="60" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold">3. Implementering</text>
+    <text x="330" y="75" fill="#1e40af" font-family="Arial, sans-serif" font-size="10">• Datamigrering</text>
+    <text x="330" y="88" fill="#1e40af" font-family="Arial, sans-serif" font-size="10">• Systemkonfigurasjon</text>
+    <text x="330" y="101" fill="#1e40af" font-family="Arial, sans-serif" font-size="10">• Testing og validering</text>
+    <text x="330" y="114" fill="#1e40af" font-family="Arial, sans-serif" font-size="10">• Brukeropplæring</text>
+    <text x="330" y="127" fill="#1e40af" font-family="Arial, sans-serif" font-size="10">• Pilotperiode</text>
+    
+    <!-- Arrow 3 -->
+    <polygon points="465,90 475,85 475,95" fill="#6b7280"/>
+    
+    <!-- Step 4 -->
+    <rect x="480" y="40" width="140" height="100" fill="#dcfce7" stroke="#16a34a" stroke-width="1" rx="8"/>
+    <text x="550" y="60" text-anchor="middle" fill="#166534" font-family="Arial, sans-serif" font-size="14" font-weight="bold">4. Optimalisering</text>
+    <text x="490" y="75" fill="#166534" font-family="Arial, sans-serif" font-size="10">• Kontinuerlig forbedring</text>
+    <text x="490" y="88" fill="#166534" font-family="Arial, sans-serif" font-size="10">• Bruker feedback</text>
+    <text x="490" y="101" fill="#166534" font-family="Arial, sans-serif" font-size="10">• Utvidede funksjoner</text>
+    <text x="490" y="114" fill="#166534" font-family="Arial, sans-serif" font-size="10">• Performance tuning</text>
+    <text x="490" y="127" fill="#166534" font-family="Arial, sans-serif" font-size="10">• Rapportforbedringer</text>
+    
+    <!-- Arrow 4 -->
+    <polygon points="625,90 635,85 635,95" fill="#6b7280"/>
+    
+    <!-- Step 5 -->
+    <rect x="640" y="40" width="110" height="100" fill="#f3e8ff" stroke="#8b5cf6" stroke-width="1" rx="8"/>
+    <text x="695" y="60" text-anchor="middle" fill="#7c2d12" font-family="Arial, sans-serif" font-size="14" font-weight="bold">5. Vedlikehold</text>
+    <text x="650" y="75" fill="#7c2d12" font-family="Arial, sans-serif" font-size="10">• Regelmessige</text>
+    <text x="650" y="88" fill="#7c2d12" font-family="Arial, sans-serif" font-size="10">oppdateringer</text>
+    <text x="650" y="101" fill="#7c2d12" font-family="Arial, sans-serif" font-size="10">• Systemstøtte</text>
+    <text x="650" y="114" fill="#7c2d12" font-family="Arial, sans-serif" font-size="10">• Sikkerhetspatches</text>
+    <text x="650" y="127" fill="#7c2d12" font-family="Arial, sans-serif" font-size="10">• Brukertrening</text>
+  </g>
+  
+  <!-- Best practices -->
+  <rect x="50" y="550" width="700" height="40" fill="#f8fafc" stroke="#64748b" stroke-width="1" rx="5"/>
+  <text x="70" y="570" fill="#334155" font-family="Arial, sans-serif" font-size="13" font-weight="bold">💡 Beste Praksis:</text>
+  <text x="170" y="570" fill="#334155" font-family="Arial, sans-serif" font-size="11">Start enkelt med Excel-maler, bygg kompetanse gradvis, involver sluttbrukere i valg og design,</text>
+  <text x="70" y="585" fill="#334155" font-family="Arial, sans-serif" font-size="11">prioriter datakvalitet over avanserte funksjoner, etabler klare ansvarsforhold for systemvedlikehold.</text>
+</svg>

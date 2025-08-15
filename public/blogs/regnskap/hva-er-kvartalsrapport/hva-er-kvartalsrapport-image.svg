@@ -1,0 +1,76 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="400" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
+  
+  <!-- Title -->
+  <text x="400" y="50" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle" fill="white">
+    Hva er kvartalsrapport?
+  </text>
+  
+  <!-- Calendar quarters illustration -->
+  <g transform="translate(50, 120)">
+    <!-- Q1 -->
+    <rect x="0" y="0" width="150" height="100" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="8"/>
+    <text x="75" y="30" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#1976d2">Q1</text>
+    <text x="75" y="50" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">Jan-Mar</text>
+    <text x="75" y="70" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">Rapport: Mai</text>
+    
+    <!-- Q2 -->
+    <rect x="170" y="0" width="150" height="100" fill="#e8f5e8" stroke="#388e3c" stroke-width="2" rx="8"/>
+    <text x="245" y="30" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#388e3c">Q2</text>
+    <text x="245" y="50" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">Apr-Jun</text>
+    <text x="245" y="70" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">Rapport: Aug</text>
+    
+    <!-- Q3 -->
+    <rect x="340" y="0" width="150" height="100" fill="#fff3e0" stroke="#f57c00" stroke-width="2" rx="8"/>
+    <text x="415" y="30" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#f57c00">Q3</text>
+    <text x="415" y="50" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">Jul-Sep</text>
+    <text x="415" y="70" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">Rapport: Nov</text>
+    
+    <!-- Q4 -->
+    <rect x="510" y="0" width="150" height="100" fill="#fce4ec" stroke="#c2185b" stroke-width="2" rx="8"/>
+    <text x="585" y="30" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#c2185b">Q4</text>
+    <text x="585" y="50" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">Okt-Des</text>
+    <text x="585" y="70" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">Årsrapport: Mar</text>
+  </g>
+  
+  <!-- Key components -->
+  <g transform="translate(50, 250)">
+    <text x="0" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#333">Hovedkomponenter:</text>
+    
+    <!-- Component boxes -->
+    <rect x="0" y="35" width="160" height="60" fill="#f1f8ff" stroke="#0066cc" stroke-width="1" rx="4"/>
+    <text x="80" y="55" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0066cc">Resultatregnskap</text>
+    <text x="80" y="75" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">Inntekter &amp; kostnader</text>
+    
+    <rect x="180" y="35" width="160" height="60" fill="#f1f8ff" stroke="#0066cc" stroke-width="1" rx="4"/>
+    <text x="260" y="55" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0066cc">Balanse</text>
+    <text x="260" y="75" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">Eiendeler &amp; gjeld</text>
+    
+    <rect x="360" y="35" width="160" height="60" fill="#f1f8ff" stroke="#0066cc" stroke-width="1" rx="4"/>
+    <text x="440" y="55" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0066cc">Kontantstrøm</text>
+    <text x="440" y="75" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">Drift, investering, finans</text>
+    
+    <rect x="540" y="35" width="160" height="60" fill="#f1f8ff" stroke="#0066cc" stroke-width="1" rx="4"/>
+    <text x="620" y="55" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0066cc">Noter</text>
+    <text x="620" y="75" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">Tilleggsopplysninger</text>
+  </g>
+  
+  <!-- Decorative elements -->
+  <circle cx="720" cy="140" r="30" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" opacity="0.7"/>
+  <text x="720" y="148" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#1976d2">3 mnd</text>
+</svg>

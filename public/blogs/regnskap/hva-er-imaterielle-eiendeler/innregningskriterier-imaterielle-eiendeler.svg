@@ -1,0 +1,273 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#059669;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#10b981;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="criteriaGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#ecfdf5;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#d1fae5;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="processGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#fef3c7;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#fde68a;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="warningGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#fef2f2;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#fecaca;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#ffffff"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
+  <text x="400" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
+    Innregningskriterier for Imaterielle Eiendeler
+  </text>
+  
+  <!-- Main content area -->
+  <g transform="translate(50, 100)">
+    
+    <!-- Decision flowchart -->
+    <g transform="translate(0, 0)">
+      <text x="350" y="20" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
+        Beslutningsflyt for Innregning
+      </text>
+      
+      <!-- Start -->
+      <g transform="translate(300, 40)">
+        <ellipse cx="50" cy="25" rx="50" ry="25" fill="#10b981" stroke="white" stroke-width="2"/>
+        <text x="50" y="30" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+          Immateriell
+        </text>
+        <text x="50" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+          Ressurs
+        </text>
+      </g>
+      
+      <!-- Arrow down -->
+      <path d="M 350 90 L 350 120" stroke="#374151" stroke-width="3" marker-end="url(#arrowGray)"/>
+      
+      <!-- First decision: Identifiable -->
+      <g transform="translate(275, 130)">
+        <polygon points="75,0 150,37.5 75,75 0,37.5" fill="#3b82f6" stroke="white" stroke-width="2"/>
+        <text x="75" y="30" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+          Identifiserbar?
+        </text>
+        <text x="75" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">
+          (Separerbar eller
+        </text>
+        <text x="75" y="58" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">
+          kontraktuell)
+        </text>
+      </g>
+      
+      <!-- No path from identifiable -->
+      <path d="M 275 167.5 L 150 167.5 L 150 250" stroke="#dc2626" stroke-width="2" marker-end="url(#arrowRed)"/>
+      <text x="200" y="160" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="10" font-weight="bold">
+        NEI
+      </text>
+      
+      <!-- Yes path from identifiable -->
+      <path d="M 350 205 L 350 230" stroke="#10b981" stroke-width="2" marker-end="url(#arrowGreen)"/>
+      <text x="365" y="220" fill="#10b981" font-family="Arial, sans-serif" font-size="10" font-weight="bold">
+        JA
+      </text>
+      
+      <!-- Second decision: Controllable -->
+      <g transform="translate(275, 240)">
+        <polygon points="75,0 150,37.5 75,75 0,37.5" fill="#3b82f6" stroke="white" stroke-width="2"/>
+        <text x="75" y="30" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+          Kontrollerbar?
+        </text>
+        <text x="75" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">
+          (Kan begrense
+        </text>
+        <text x="75" y="58" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">
+          andres tilgang)
+        </text>
+      </g>
+      
+      <!-- No path from controllable -->
+      <path d="M 275 277.5 L 150 277.5" stroke="#dc2626" stroke-width="2" marker-end="url(#arrowRed)"/>
+      <text x="200" y="270" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="10" font-weight="bold">
+        NEI
+      </text>
+      
+      <!-- Yes path from controllable -->
+      <path d="M 350 315 L 350 340" stroke="#10b981" stroke-width="2" marker-end="url(#arrowGreen)"/>
+      <text x="365" y="330" fill="#10b981" font-family="Arial, sans-serif" font-size="10" font-weight="bold">
+        JA
+      </text>
+      
+      <!-- Third decision: Future benefits -->
+      <g transform="translate(275, 350)">
+        <polygon points="75,0 150,37.5 75,75 0,37.5" fill="#3b82f6" stroke="white" stroke-width="2"/>
+        <text x="75" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+          Fremtidige
+        </text>
+        <text x="75" y="40" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+          fordeler?
+        </text>
+        <text x="75" y="55" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">
+          (Sannsynlige inntekter)
+        </text>
+      </g>
+      
+      <!-- No path from future benefits -->
+      <path d="M 275 387.5 L 150 387.5" stroke="#dc2626" stroke-width="2" marker-end="url(#arrowRed)"/>
+      <text x="200" y="380" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="10" font-weight="bold">
+        NEI
+      </text>
+      
+      <!-- Yes path from future benefits -->
+      <path d="M 350 425 L 350 450" stroke="#10b981" stroke-width="2" marker-end="url(#arrowGreen)"/>
+      <text x="365" y="440" fill="#10b981" font-family="Arial, sans-serif" font-size="10" font-weight="bold">
+        JA
+      </text>
+      
+      <!-- Final decision: Reliable measurement -->
+      <g transform="translate(275, 460)">
+        <polygon points="75,0 150,37.5 75,75 0,37.5" fill="#3b82f6" stroke="white" stroke-width="2"/>
+        <text x="75" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+          Pålitelig
+        </text>
+        <text x="75" y="40" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+          måling?
+        </text>
+        <text x="75" y="55" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">
+          (Kostnad kan måles)
+        </text>
+      </g>
+      
+      <!-- No path from reliable measurement -->
+      <path d="M 275 497.5 L 150 497.5" stroke="#dc2626" stroke-width="2" marker-end="url(#arrowRed)"/>
+      <text x="200" y="490" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="10" font-weight="bold">
+        NEI
+      </text>
+      
+      <!-- Yes path to success -->
+      <path d="M 425 497.5 L 550 497.5 L 550 450" stroke="#10b981" stroke-width="2" marker-end="url(#arrowGreen)"/>
+      <text x="500" y="490" text-anchor="middle" fill="#10b981" font-family="Arial, sans-serif" font-size="10" font-weight="bold">
+        JA
+      </text>
+      
+      <!-- Rejection box -->
+      <g transform="translate(75, 250)">
+        <rect x="0" y="0" width="150" height="80" rx="10" fill="url(#warningGradient)" stroke="#dc2626" stroke-width="2"/>
+        <text x="75" y="25" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+          IKKE INNREGN
+        </text>
+        <text x="75" y="45" text-anchor="middle" fill="#7f1d1d" font-family="Arial, sans-serif" font-size="11">
+          Kostnadsføres direkte
+        </text>
+        <text x="75" y="60" text-anchor="middle" fill="#7f1d1d" font-family="Arial, sans-serif" font-size="11">
+          eller behandles som
+        </text>
+        <text x="75" y="75" text-anchor="middle" fill="#7f1d1d" font-family="Arial, sans-serif" font-size="11">
+          goodwill
+        </text>
+      </g>
+      
+      <!-- Success box -->
+      <g transform="translate(475, 370)">
+        <rect x="0" y="0" width="150" height="80" rx="10" fill="url(#criteriaGradient)" stroke="#10b981" stroke-width="2"/>
+        <text x="75" y="25" text-anchor="middle" fill="#10b981" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+          INNREGN SOM
+        </text>
+        <text x="75" y="40" text-anchor="middle" fill="#10b981" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+          EIENDEL
+        </text>
+        <text x="75" y="60" text-anchor="middle" fill="#047857" font-family="Arial, sans-serif" font-size="11">
+          Aktiveres i balansen
+        </text>
+        <text x="75" y="75" text-anchor="middle" fill="#047857" font-family="Arial, sans-serif" font-size="11">
+          og amortiseres
+        </text>
+      </g>
+    </g>
+    
+  </g>
+  
+  <!-- Detailed criteria section -->
+  <g transform="translate(50, 100)">
+    <g transform="translate(0, 450)">
+      <rect x="0" y="0" width="700" height="120" rx="10" fill="#f8fafc" stroke="#e2e8f0" stroke-width="2"/>
+      
+      <text x="350" y="25" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+        Detaljerte Innregningskriterier
+      </text>
+      
+      <!-- Criteria grid -->
+      <g transform="translate(30, 40)">
+        <!-- Row 1 -->
+        <g transform="translate(0, 0)">
+          <rect x="0" y="0" width="150" height="60" rx="5" fill="white" stroke="#e2e8f0" stroke-width="1"/>
+          <text x="75" y="20" text-anchor="middle" fill="#3b82f6" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+            Identifiserbarhet
+          </text>
+          <text x="75" y="35" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+            • Separerbar fra bedriften
+          </text>
+          <text x="75" y="48" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+            • Oppstår fra rettigheter
+          </text>
+        </g>
+        
+        <g transform="translate(170, 0)">
+          <rect x="0" y="0" width="150" height="60" rx="5" fill="white" stroke="#e2e8f0" stroke-width="1"/>
+          <text x="75" y="20" text-anchor="middle" fill="#10b981" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+            Kontroll
+          </text>
+          <text x="75" y="35" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+            • Kan begrense tilgang
+          </text>
+          <text x="75" y="48" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+            • Juridisk eller faktisk
+          </text>
+        </g>
+        
+        <g transform="translate(340, 0)">
+          <rect x="0" y="0" width="150" height="60" rx="5" fill="white" stroke="#e2e8f0" stroke-width="1"/>
+          <text x="75" y="20" text-anchor="middle" fill="#f59e0b" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+            Fremtidige Fordeler
+          </text>
+          <text x="75" y="35" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+            • Sannsynlige inntekter
+          </text>
+          <text x="75" y="48" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+            • Kostnadsbesparelser
+          </text>
+        </g>
+        
+        <g transform="translate(510, 0)">
+          <rect x="0" y="0" width="150" height="60" rx="5" fill="white" stroke="#e2e8f0" stroke-width="1"/>
+          <text x="75" y="20" text-anchor="middle" fill="#ec4899" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+            Pålitelig Måling
+          </text>
+          <text x="75" y="35" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+            • Kostnad kan måles
+          </text>
+          <text x="75" y="48" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+            • Objektiv verdsettelse
+          </text>
+        </g>
+      </g>
+    </g>
+  </g>
+  
+  <!-- Arrow markers -->
+  <defs>
+    <marker id="arrowGray" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+      <polygon points="0,0 0,6 9,3" fill="#374151"/>
+    </marker>
+    <marker id="arrowGreen" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+      <polygon points="0,0 0,6 9,3" fill="#10b981"/>
+    </marker>
+    <marker id="arrowRed" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+      <polygon points="0,0 0,6 9,3" fill="#dc2626"/>
+    </marker>
+  </defs>
+</svg>

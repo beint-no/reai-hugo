@@ -1,0 +1,109 @@
+<svg width="900" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="timelineGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#ffc107;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#dc3545;stop-opacity:1" />
+    </linearGradient>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#666"/>
+    </marker>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="900" height="400" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Title -->
+  <text x="450" y="30" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="20" font-weight="bold">Ansattopsjoners Livssyklus</text>
+  
+  <!-- Timeline line -->
+  <line x1="100" y1="200" x2="800" y2="200" stroke="url(#timelineGradient)" stroke-width="6"/>
+  
+  <!-- Timeline markers -->
+  <circle cx="150" cy="200" r="8" fill="#28a745" stroke="#fff" stroke-width="2"/>
+  <circle cx="300" cy="200" r="8" fill="#17a2b8" stroke="#fff" stroke-width="2"/>
+  <circle cx="500" cy="200" r="8" fill="#ffc107" stroke="#fff" stroke-width="2"/>
+  <circle cx="650" cy="200" r="8" fill="#fd7e14" stroke="#fff" stroke-width="2"/>
+  <circle cx="750" cy="200" r="8" fill="#dc3545" stroke="#fff" stroke-width="2"/>
+  
+  <!-- Phase 1: Grant -->
+  <rect x="80" y="80" width="140" height="100" fill="#d4edda" stroke="#28a745" stroke-width="2" rx="8"/>
+  <text x="150" y="105" text-anchor="middle" fill="#28a745" font-family="Arial, sans-serif" font-size="14" font-weight="bold">TILDELING</text>
+  <text x="150" y="125" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">• Opsjoner tildeles</text>
+  <text x="150" y="140" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">• Virkelig verdi fastsettes</text>
+  <text x="150" y="155" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">• Ingen skatteplikt</text>
+  <text x="150" y="170" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">• Opptjening starter</text>
+  
+  <!-- Phase 2: Vesting Period -->
+  <rect x="230" y="80" width="140" height="100" fill="#d1ecf1" stroke="#17a2b8" stroke-width="2" rx="8"/>
+  <text x="300" y="105" text-anchor="middle" fill="#17a2b8" font-family="Arial, sans-serif" font-size="14" font-weight="bold">OPPTJENING</text>
+  <text x="300" y="125" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">• Gradvis opptjening</text>
+  <text x="300" y="140" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">• Kostnadsføring</text>
+  <text x="300" y="155" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">• Tjenestebetingelser</text>
+  <text x="300" y="170" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">• Prestasjonsmål</text>
+  
+  <!-- Phase 3: Vested -->
+  <rect x="430" y="80" width="140" height="100" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="8"/>
+  <text x="500" y="105" text-anchor="middle" fill="#856404" font-family="Arial, sans-serif" font-size="14" font-weight="bold">OPPTJENT</text>
+  <text x="500" y="125" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">• Fullt opptjent</text>
+  <text x="500" y="140" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">• Kan utøves</text>
+  <text x="500" y="155" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">• Venter på timing</text>
+  <text x="500" y="170" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">• Markedsovervåking</text>
+  
+  <!-- Phase 4: Exercise -->
+  <rect x="580" y="80" width="140" height="100" fill="#ffeaa7" stroke="#fd7e14" stroke-width="2" rx="8"/>
+  <text x="650" y="105" text-anchor="middle" fill="#fd7e14" font-family="Arial, sans-serif" font-size="14" font-weight="bold">UTØVELSE</text>
+  <text x="650" y="125" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">• Opsjoner utøves</text>
+  <text x="650" y="140" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">• Skattepliktig fordel</text>
+  <text x="650" y="155" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">• Aksjer mottas</text>
+  <text x="650" y="170" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">• Arbeidsgiveravgift</text>
+  
+  <!-- Phase 5: Sale -->
+  <rect x="680" y="80" width="140" height="100" fill="#f8d7da" stroke="#dc3545" stroke-width="2" rx="8"/>
+  <text x="750" y="105" text-anchor="middle" fill="#dc3545" font-family="Arial, sans-serif" font-size="14" font-weight="bold">SALG</text>
+  <text x="750" y="125" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">• Aksjer selges</text>
+  <text x="750" y="140" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">• Kapitalgevinst</text>
+  <text x="750" y="155" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">• Skatt på gevinst</text>
+  <text x="750" y="170" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">• Endelig avkastning</text>
+  
+  <!-- Time labels -->
+  <text x="150" y="230" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Dag 0</text>
+  <text x="300" y="230" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="12" font-weight="bold">År 1-3</text>
+  <text x="500" y="230" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="12" font-weight="bold">År 3+</text>
+  <text x="650" y="230" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Utøvelse</text>
+  <text x="750" y="230" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Salg</text>
+  
+  <!-- Accounting impact boxes -->
+  <rect x="80" y="270" width="140" height="60" fill="#e9ecef" stroke="#6c757d" stroke-width="1" rx="5"/>
+  <text x="150" y="290" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Regnskapseffekt:</text>
+  <text x="150" y="305" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="10">Ingen umiddelbar</text>
+  <text x="150" y="318" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="10">påvirkning</text>
+  
+  <rect x="230" y="270" width="140" height="60" fill="#e9ecef" stroke="#6c757d" stroke-width="1" rx="5"/>
+  <text x="300" y="290" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Regnskapseffekt:</text>
+  <text x="300" y="305" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="10">Lønnskostnad</text>
+  <text x="300" y="318" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="10">Egenkapital øker</text>
+  
+  <rect x="430" y="270" width="140" height="60" fill="#e9ecef" stroke="#6c757d" stroke-width="1" rx="5"/>
+  <text x="500" y="290" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Regnskapseffekt:</text>
+  <text x="500" y="305" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="10">Ingen endring</text>
+  <text x="500" y="318" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="10">Venter på utøvelse</text>
+  
+  <rect x="580" y="270" width="140" height="60" fill="#e9ecef" stroke="#6c757d" stroke-width="1" rx="5"/>
+  <text x="650" y="290" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Regnskapseffekt:</text>
+  <text x="650" y="305" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="10">Egenkapital til</text>
+  <text x="650" y="318" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="10">aksjekapital</text>
+  
+  <rect x="680" y="270" width="140" height="60" fill="#e9ecef" stroke="#6c757d" stroke-width="1" rx="5"/>
+  <text x="750" y="290" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Regnskapseffekt:</text>
+  <text x="750" y="305" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="10">Ingen direkte</text>
+  <text x="750" y="318" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="10">påvirkning</text>
+  
+  <!-- Bottom note -->
+  <rect x="150" y="360" width="600" height="25" fill="#fff" stroke="#dee2e6" stroke-width="1" rx="5"/>
+  <text x="450" y="377" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="11">Typisk tidsramme: 3-5 år fra tildeling til salg, avhengig av opptjeningsperiode og markedsforhold</text>
+</svg>

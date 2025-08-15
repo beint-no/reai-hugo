@@ -1,0 +1,156 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="blueGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3B82F6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1E40AF;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="greenGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#10B981;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#047857;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#F8FAFC"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1E293B">
+    Regnskapsbehandling av Donasjoner
+  </text>
+  
+  <!-- Flow diagram -->
+  <rect x="350" y="70" width="100" height="40" fill="url(#blueGradient)" rx="5"/>
+  <text x="400" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#FFFFFF">
+    DONASJON
+  </text>
+  
+  <!-- Decision diamond -->
+  <polygon points="400,130 450,160 400,190 350,160" fill="#FCD34D" stroke="#F59E0B" stroke-width="2"/>
+  <text x="400" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#92400E">
+    Betinget?
+  </text>
+  <text x="400" y="168" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#92400E">
+    (Øremerket)
+  </text>
+  
+  <!-- Decision arrows -->
+  <line x1="400" y1="110" x2="400" y2="130" stroke="#64748B" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Left path - Ubetinget -->
+  <line x1="350" y1="160" x2="250" y2="160" stroke="#64748B" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <text x="300" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#64748B">
+    NEI
+  </text>
+  
+  <!-- Right path - Betinget -->
+  <line x1="450" y1="160" x2="550" y2="160" stroke="#64748B" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <text x="500" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#64748B">
+    JA
+  </text>
+  
+  <!-- Ubetinget donasjon -->
+  <rect x="100" y="200" width="300" height="80" fill="url(#greenGradient)" rx="8"/>
+  <text x="250" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF">
+    Ubetinget Donasjon
+  </text>
+  <text x="250" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#FFFFFF">
+    Ingen betingelser eller øremerking
+  </text>
+  <text x="250" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#FFFFFF">
+    → Direkte inntektsføring
+  </text>
+  <text x="250" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#FFFFFF">
+    → Kan brukes til formålet umiddelbart
+  </text>
+  
+  <!-- Betinget donasjon -->
+  <rect x="450" y="200" width="300" height="80" fill="#F59E0B" rx="8"/>
+  <text x="600" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF">
+    Betinget Donasjon
+  </text>
+  <text x="600" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#FFFFFF">
+    Øremerket til spesifikke formål
+  </text>
+  <text x="600" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#FFFFFF">
+    → Utsatt inntekt frem til oppfyllelse
+  </text>
+  <text x="600" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#FFFFFF">
+    → Sporing av formålsbrukt
+  </text>
+  
+  <!-- Connecting lines -->
+  <line x1="250" y1="180" x2="250" y2="200" stroke="#64748B" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="600" y1="180" x2="600" y2="200" stroke="#64748B" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Accounting entries -->
+  <rect x="50" y="320" width="300" height="220" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="2" rx="8"/>
+  <text x="200" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1F2937">
+    Regnskapsføring - Ubetinget
+  </text>
+  
+  <!-- Journal entry 1 -->
+  <rect x="70" y="360" width="260" height="60" fill="#F0F9FF" stroke="#0EA5E9" stroke-width="1" rx="4"/>
+  <text x="80" y="378" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#0C4A6E">
+    Ved mottak:
+  </text>
+  <text x="80" y="395" font-family="Arial, sans-serif" font-size="10" fill="#0C4A6E">
+    Debet: Bank/Kontanter     NOK 500.000
+  </text>
+  <text x="80" y="408" font-family="Arial, sans-serif" font-size="10" fill="#0C4A6E">
+    Kredit: Donasjonsinntekt      NOK 500.000
+  </text>
+  
+  <!-- Journal entry 2 -->
+  <rect x="70" y="430" width="260" height="60" fill="#F0FDF4" stroke="#22C55E" stroke-width="1" rx="4"/>
+  <text x="80" y="448" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#14532D">
+    Resultat:
+  </text>
+  <text x="80" y="465" font-family="Arial, sans-serif" font-size="10" fill="#14532D">
+    • Øker årets resultat umiddelbart
+  </text>
+  <text x="80" y="478" font-family="Arial, sans-serif" font-size="10" fill="#14532D">
+    • Kan disponeres til formålet
+  </text>
+  
+  <rect x="400" y="320" width="350" height="220" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="2" rx="8"/>
+  <text x="575" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1F2937">
+    Regnskapsføring - Betinget
+  </text>
+  
+  <!-- Journal entry 3 -->
+  <rect x="420" y="360" width="310" height="60" fill="#FEF3C7" stroke="#F59E0B" stroke-width="1" rx="4"/>
+  <text x="430" y="378" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#92400E">
+    Ved mottak:
+  </text>
+  <text x="430" y="395" font-family="Arial, sans-serif" font-size="10" fill="#92400E">
+    Debet: Bank/Kontanter         NOK 500.000
+  </text>
+  <text x="430" y="408" font-family="Arial, sans-serif" font-size="10" fill="#92400E">
+    Kredit: Utsatt inntekt (gjeld)     NOK 500.000
+  </text>
+  
+  <!-- Journal entry 4 -->
+  <rect x="420" y="430" width="310" height="60" fill="#FDF2F8" stroke="#EC4899" stroke-width="1" rx="4"/>
+  <text x="430" y="448" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#831843">
+    Ved oppfyllelse av betingelse:
+  </text>
+  <text x="430" y="465" font-family="Arial, sans-serif" font-size="10" fill="#831843">
+    Debet: Utsatt inntekt          NOK 500.000
+  </text>
+  <text x="430" y="478" font-family="Arial, sans-serif" font-size="10" fill="#831843">
+    Kredit: Donasjonsinntekt          NOK 500.000
+  </text>
+  
+  <!-- Bottom note -->
+  <rect x="100" y="560" width="600" height="30" fill="#EFF6FF" stroke="#3B82F6" stroke-width="1" rx="4"/>
+  <text x="400" y="580" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1E40AF">
+    Viktig: Betingede donasjoner må spores separat for å sikre formålsbrukt av midlene
+  </text>
+  
+  <!-- Arrow marker -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#64748B"/>
+    </marker>
+  </defs>
+</svg>

@@ -1,0 +1,101 @@
+<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="500" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">KPI Dashboard for Tolloperasjoner</text>
+  
+  <!-- Main container -->
+  <rect x="50" y="60" width="700" height="420" fill="white" stroke="#dee2e6" stroke-width="2" rx="10"/>
+  
+  <!-- Processing time KPI -->
+  <g transform="translate(80, 90)">
+    <rect x="0" y="0" width="160" height="100" fill="#0d6efd" stroke="#0339a8" stroke-width="2" rx="8"/>
+    <text x="80" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Behandlingstid</text>
+    <text x="80" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">14.2</text>
+    <text x="80" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">timer (snitt)</text>
+    <text x="80" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#e9ecef">↓ 15% vs. forrige måned</text>
+  </g>
+  
+  <!-- Error rate KPI -->
+  <g transform="translate(260, 90)">
+    <rect x="0" y="0" width="160" height="100" fill="#28a745" stroke="#1e7e34" stroke-width="2" rx="8"/>
+    <text x="80" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Feilrate</text>
+    <text x="80" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">2.3%</text>
+    <text x="80" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">av deklarasjoner</text>
+    <text x="80" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#c3e6cb">↓ 0.5% vs. mål</text>
+  </g>
+  
+  <!-- Cost per declaration -->
+  <g transform="translate(440, 90)">
+    <rect x="0" y="0" width="160" height="100" fill="#dc3545" stroke="#b02a37" stroke-width="2" rx="8"/>
+    <text x="80" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Kostnad per</text>
+    <text x="80" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">deklarasjon</text>
+    <text x="80" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">485</text>
+    <text x="80" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">NOK</text>
+    <text x="80" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#f5c6cb">↑ 25 NOK vs. forrige kvartal</text>
+  </g>
+  
+  <!-- Storage period -->
+  <g transform="translate(620, 90)">
+    <rect x="0" y="0" width="160" height="100" fill="#ffc107" stroke="#d39e00" stroke-width="2" rx="8"/>
+    <text x="80" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#212529">Lagringsperiode</text>
+    <text x="80" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">3.2</text>
+    <text x="80" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#212529">dager (snitt)</text>
+    <text x="80" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c5d00">Innenfor mål: &lt;5 dager</text>
+  </g>
+  
+  <!-- Control rate -->
+  <g transform="translate(80, 210)">
+    <rect x="0" y="0" width="160" height="100" fill="#6f42c1" stroke="#59359a" stroke-width="2" rx="8"/>
+    <text x="80" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Kontrollrate</text>
+    <text x="80" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">4.7%</text>
+    <text x="80" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">fysisk kontroll</text>
+    <text x="80" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#d1c5e5">EU-snitt: 3.2%</text>
+  </g>
+  
+  <!-- Volume trend chart -->
+  <g transform="translate(260, 210)">
+    <rect x="0" y="0" width="280" height="100" fill="#17a2b8" stroke="#138496" stroke-width="2" rx="8"/>
+    <text x="140" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Volumutvikling (siste 6 måneder)</text>
+    
+    <!-- Simple line chart -->
+    <polyline points="20,80 60,70 100,65 140,60 180,55 220,50 260,45" 
+              fill="none" stroke="white" stroke-width="3"/>
+    
+    <!-- Data points -->
+    <circle cx="20" cy="80" r="3" fill="white"/>
+    <circle cx="60" cy="70" r="3" fill="white"/>
+    <circle cx="100" cy="65" r="3" fill="white"/>
+    <circle cx="140" cy="60" r="3" fill="white"/>
+    <circle cx="180" cy="55" r="3" fill="white"/>
+    <circle cx="220" cy="50" r="3" fill="white"/>
+    <circle cx="260" cy="45" r="3" fill="white"/>
+    
+    <text x="140" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">↗ 18% økning i importvolum</text>
+  </g>
+  
+  <!-- Compliance score -->
+  <g transform="translate(560, 210)">
+    <rect x="0" y="0" width="160" height="100" fill="#28a745" stroke="#1e7e34" stroke-width="2" rx="8"/>
+    <text x="80" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Compliance Score</text>
+    <text x="80" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">87%</text>
+    <text x="80" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">regelinnsettelse</text>
+    <text x="80" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#c3e6cb">Mål: &gt;85%</text>
+  </g>
+  
+  <!-- Action items -->
+  <rect x="80" y="330" width="640" height="80" fill="#e9ecef" stroke="#adb5bd" stroke-width="2" rx="8"/>
+  <text x="400" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#212529">Handlingsområder</text>
+  
+  <text x="100" y="375" font-family="Arial, sans-serif" font-size="12" fill="#dc3545">⚠ Kostnad per deklarasjon øker - vurder automatisering</text>
+  <text x="100" y="390" font-family="Arial, sans-serif" font-size="12" fill="#28a745">✓ Behandlingstid innenfor mål - oppretthold effektivitet</text>
+  <text x="100" y="405" font-family="Arial, sans-serif" font-size="12" fill="#ffc107">⚡ Volumøkning krever kapasitetstilpasning</text>
+  
+  <!-- Update frequency -->
+  <rect x="250" y="430" width="300" height="25" fill="#6f42c1" stroke="#59359a" stroke-width="1" rx="8"/>
+  <text x="400" y="447" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Oppdateres daglig kl. 08:00 • Sist oppdatert: I dag</text>
+  
+  <!-- Alerts indicator -->
+  <circle cx="720" cy="100" r="8" fill="#dc3545"/>
+  <text x="720" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">!</text>
+</svg>

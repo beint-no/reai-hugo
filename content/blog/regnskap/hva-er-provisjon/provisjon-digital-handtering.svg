@@ -1,0 +1,133 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="500" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#2c3e50">Digital Provisjonshåndtering</text>
+  
+  <!-- Modern workflow -->
+  <g transform="translate(50, 70)">
+    <!-- Step 1: CRM Input -->
+    <rect x="0" y="0" width="140" height="80" rx="8" fill="#3498db" stroke="#2980b9" stroke-width="2"/>
+    <text x="70" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">CRM SYSTEM</text>
+    <text x="70" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• Salgsregistrering</text>
+    <text x="70" y="52" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• Automatisk sporing</text>
+    <text x="70" y="66" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• Real-time data</text>
+    
+    <!-- Arrow -->
+    <path d="M 150 40 L 190 40" stroke="#34495e" stroke-width="2" marker-end="url(#arrow)"/>
+    
+    <!-- Step 2: Commission Engine -->
+    <rect x="200" y="0" width="140" height="80" rx="8" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+    <text x="270" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">PROVISJONS-</text>
+    <text x="270" y="28" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">MOTOR</text>
+    <text x="270" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• Automatisk beregning</text>
+    <text x="270" y="59" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• Regelbasert logikk</text>
+    <text x="270" y="73" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• Komplekse strukturer</text>
+    
+    <!-- Arrow -->
+    <path d="M 350 40 L 390 40" stroke="#34495e" stroke-width="2" marker-end="url(#arrow)"/>
+    
+    <!-- Step 3: Accounting Integration -->
+    <rect x="400" y="0" width="140" height="80" rx="8" fill="#27ae60" stroke="#229954" stroke-width="2"/>
+    <text x="470" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">REGNSKAP</text>
+    <text x="470" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• Automatisk føring</text>
+    <text x="470" y="52" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• Periodisering</text>
+    <text x="470" y="66" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• Compliance</text>
+    
+    <!-- Arrow -->
+    <path d="M 550 40 L 590 40" stroke="#34495e" stroke-width="2" marker-end="url(#arrow)"/>
+    
+    <!-- Step 4: Payment -->
+    <rect x="600" y="0" width="140" height="80" rx="8" fill="#9b59b6" stroke="#8e44ad" stroke-width="2"/>
+    <text x="670" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">UTBETALING</text>
+    <text x="670" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• Automatisk lønn</text>
+    <text x="670" y="52" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• Digital overføring</text>
+    <text x="670" y="66" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• Transparente rapporter</text>
+  </g>
+  
+  <!-- Key technologies -->
+  <g transform="translate(50, 180)">
+    <text x="0" y="0" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">Nøkkelteknologier</text>
+    
+    <!-- AI/ML -->
+    <g transform="translate(0, 30)">
+      <rect x="0" y="0" width="180" height="100" rx="8" fill="#ffffff" stroke="#3498db" stroke-width="2"/>
+      <text x="90" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">AI/MACHINE LEARNING</text>
+      <text x="90" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Prediktiv modellering</text>
+      <text x="90" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Automatisk optimalisering</text>
+      <text x="90" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Mønstergjenkjenning</text>
+      <text x="90" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Anomalideteksjon</text>
+    </g>
+    
+    <!-- Blockchain -->
+    <g transform="translate(200, 30)">
+      <rect x="0" y="0" width="180" height="100" rx="8" fill="#ffffff" stroke="#e74c3c" stroke-width="2"/>
+      <text x="90" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">BLOCKCHAIN</text>
+      <text x="90" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Transparent recording</text>
+      <text x="90" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Immutable records</text>
+      <text x="90" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Smart contracts</text>
+      <text x="90" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Audit trail</text>
+    </g>
+    
+    <!-- Real-time Analytics -->
+    <g transform="translate(400, 30)">
+      <rect x="0" y="0" width="180" height="100" rx="8" fill="#ffffff" stroke="#27ae60" stroke-width="2"/>
+      <text x="90" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">REAL-TIME ANALYTICS</text>
+      <text x="90" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Live dashboards</text>
+      <text x="90" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Performance tracking</text>
+      <text x="90" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Predictive insights</text>
+      <text x="90" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Goal monitoring</text>
+    </g>
+  </g>
+  
+  <!-- Benefits section -->
+  <g transform="translate(50, 320)">
+    <text x="0" y="0" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">Digitale Fordeler</text>
+    
+    <g transform="translate(0, 30)">
+      <!-- Accuracy -->
+      <rect x="0" y="0" width="140" height="70" rx="5" fill="#ecf0f1" stroke="#95a5a6"/>
+      <text x="70" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2c3e50">NØYAKTIGHET</text>
+      <text x="70" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Eliminerer feil</text>
+      <text x="70" y="43" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Konsistent beregning</text>
+      <text x="70" y="56" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Automatisk validering</text>
+      
+      <!-- Speed -->
+      <rect x="160" y="0" width="140" height="70" rx="5" fill="#ecf0f1" stroke="#95a5a6"/>
+      <text x="230" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2c3e50">HASTIGHET</text>
+      <text x="230" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Umiddelbar beregning</text>
+      <text x="230" y="43" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Real-time oppdatering</text>
+      <text x="230" y="56" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Rask rapportering</text>
+      
+      <!-- Transparency -->
+      <rect x="320" y="0" width="140" height="70" rx="5" fill="#ecf0f1" stroke="#95a5a6"/>
+      <text x="390" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2c3e50">TRANSPARENS</text>
+      <text x="390" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Synlige beregninger</text>
+      <text x="390" y="43" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Sporbarhet</text>
+      <text x="390" y="56" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Tilgjengelighet</text>
+      
+      <!-- Scalability -->
+      <rect x="480" y="0" width="140" height="70" rx="5" fill="#ecf0f1" stroke="#95a5a6"/>
+      <text x="550" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2c3e50">SKALERBARHET</text>
+      <text x="550" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Håndterer volum</text>
+      <text x="550" y="43" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Fleksible strukturer</text>
+      <text x="550" y="56" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Global deployment</text>
+    </g>
+  </g>
+  
+  <!-- Future trends -->
+  <g transform="translate(50, 430)">
+    <rect x="0" y="0" width="700" height="50" rx="8" fill="#1abc9c" stroke="#16a085" stroke-width="2"/>
+    <text x="350" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Fremtidige Trender</text>
+    <text x="350" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">Voice interfaces • Microservices • API-first design • Cloud-native solutions</text>
+    <text x="350" y="47" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">Mobile optimization • Integration platforms • Advanced security • Regulatory automation</text>
+  </g>
+  
+  <!-- Arrow marker -->
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>
+    </marker>
+  </defs>
+</svg>

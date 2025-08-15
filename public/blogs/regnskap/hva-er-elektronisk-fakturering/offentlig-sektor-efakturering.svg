@@ -1,0 +1,129 @@
+<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="500" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#2c3e50">
+    Offentlig Sektor - Obligatorisk Elektronisk Fakturering
+  </text>
+  
+  <!-- Government building icon -->
+  <rect x="350" y="60" width="100" height="80" fill="#34495e" stroke="#2c3e50" stroke-width="3"/>
+  <polygon points="340,60 400,40 460,60" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+  <rect x="365" y="80" width="15" height="25" fill="#ecf0f1"/>
+  <rect x="385" y="80" width="15" height="25" fill="#ecf0f1"/>
+  <rect x="405" y="80" width="15" height="25" fill="#ecf0f1"/>
+  <rect x="425" y="80" width="15" height="25" fill="#ecf0f1"/>
+  <rect x="365" y="110" width="15" height="25" fill="#ecf0f1"/>
+  <rect x="385" y="110" width="15" height="25" fill="#ecf0f1"/>
+  <rect x="405" y="110" width="15" height="25" fill="#ecf0f1"/>
+  <rect x="425" y="110" width="15" height="25" fill="#ecf0f1"/>
+  <text x="400" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+    Offentlig Sektor
+  </text>
+  
+  <!-- Requirements box -->
+  <rect x="50" y="200" width="300" height="150" fill="#e74c3c" stroke="#c0392b" stroke-width="3" rx="10"/>
+  <text x="200" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    OBLIGATORISKE KRAV
+  </text>
+  <text x="200" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+    Fra 2019
+  </text>
+  
+  <text x="70" y="270" font-family="Arial, sans-serif" font-size="12" fill="white">
+    ✓ Alle fakturaer over 100 000 kr
+  </text>
+  <text x="70" y="290" font-family="Arial, sans-serif" font-size="12" fill="white">
+    ✓ EHF-format påkrevd
+  </text>
+  <text x="70" y="310" font-family="Arial, sans-serif" font-size="12" fill="white">
+    ✓ PEPPOL-registrering obligatorisk
+  </text>
+  <text x="70" y="330" font-family="Arial, sans-serif" font-size="12" fill="white">
+    ✓ Validering mot offentlige regler
+  </text>
+  
+  <!-- Consequences box -->
+  <rect x="450" y="200" width="300" height="150" fill="#f39c12" stroke="#e67e22" stroke-width="3" rx="10"/>
+  <text x="600" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    KONSEKVENSER
+  </text>
+  <text x="600" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+    Ved manglende etterlevelse
+  </text>
+  
+  <text x="470" y="270" font-family="Arial, sans-serif" font-size="12" fill="white">
+    ⚠ Forsinket betaling
+  </text>
+  <text x="470" y="290" font-family="Arial, sans-serif" font-size="12" fill="white">
+    ⚠ Ekstra behandlingsgebyrer
+  </text>
+  <text x="470" y="310" font-family="Arial, sans-serif" font-size="12" fill="white">
+    ⚠ Utelukkelse fra anbudsrunder
+  </text>
+  <text x="470" y="330" font-family="Arial, sans-serif" font-size="12" fill="white">
+    ⚠ Kontraktbrudd
+  </text>
+  
+  <!-- Implementation support -->
+  <rect x="200" y="380" width="400" height="100" fill="#27ae60" stroke="#229954" stroke-width="3" rx="10"/>
+  <text x="400" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    IMPLEMENTERINGSSTØTTE
+  </text>
+  <text x="400" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+    Fra Digdir og offentlige myndigheter
+  </text>
+  
+  <text x="220" y="445" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Veiledning og dokumentasjon
+  </text>
+  <text x="220" y="460" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Testmiljøer for validering
+  </text>
+  
+  <text x="420" y="445" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Opplæring og kurs
+  </text>
+  <text x="420" y="460" font-family="Arial, sans-serif" font-size="11" fill="white">
+    • Teknisk support
+  </text>
+  
+  <!-- Arrows connecting elements -->
+  <path d="M 400 170 L 200 200" stroke="#7f8c8d" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  <path d="M 400 170 L 600 200" stroke="#7f8c8d" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  <path d="M 400 170 L 400 380" stroke="#7f8c8d" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#7f8c8d"/>
+    </marker>
+  </defs>
+  
+  <!-- Statistics -->
+  <circle cx="100" cy="100" r="40" fill="#3498db" stroke="#2980b9" stroke-width="3"/>
+  <text x="100" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    100%
+  </text>
+  <text x="100" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    Obligatorisk
+  </text>
+  <text x="100" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    Alle leverandører
+  </text>
+  
+  <circle cx="700" cy="100" r="40" fill="#9b59b6" stroke="#8e44ad" stroke-width="3"/>
+  <text x="700" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    100k+
+  </text>
+  <text x="700" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    kroner
+  </text>
+  <text x="700" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    grense
+  </text>
+  <text x="700" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    Minimumsbeløp
+  </text>
+</svg>

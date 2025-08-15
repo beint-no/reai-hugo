@@ -1,0 +1,159 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#2563eb;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e40af;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="transferGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#059669;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#047857;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="customsGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#dc2626;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#b91c1c;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="harmonizationGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#7c3aed;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#6d28d9;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8fafc"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
+  <text x="400" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="22" font-weight="bold">
+    Transfer Pricing og Tollverdi Sammenheng
+  </text>
+  
+  <!-- Transfer Pricing Section -->
+  <g transform="translate(50, 80)">
+    <rect x="0" y="0" width="300" height="180" fill="url(#transferGradient)" rx="10"/>
+    <text x="150" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+      Transfer Pricing
+    </text>
+    <text x="150" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+      (Skattemessig prissetting)
+    </text>
+    
+    <!-- Transfer Pricing Elements -->
+    <rect x="20" y="55" width="260" height="25" fill="rgba(255,255,255,0.2)" rx="5"/>
+    <text x="30" y="72" fill="white" font-family="Arial, sans-serif" font-size="11">
+      ✓ OECD-retningslinjer
+    </text>
+    
+    <rect x="20" y="85" width="260" height="25" fill="rgba(255,255,255,0.2)" rx="5"/>
+    <text x="30" y="102" fill="white" font-family="Arial, sans-serif" font-size="11">
+      ✓ Armslengdes prinsipp
+    </text>
+    
+    <rect x="20" y="115" width="260" height="25" fill="rgba(255,255,255,0.2)" rx="5"/>
+    <text x="30" y="132" fill="white" font-family="Arial, sans-serif" font-size="11">
+      ✓ Konserninternt salg
+    </text>
+    
+    <rect x="20" y="145" width="260" height="25" fill="rgba(255,255,255,0.2)" rx="5"/>
+    <text x="30" y="162" fill="white" font-family="Arial, sans-serif" font-size="11">
+      ✓ Dokumentasjonskrav
+    </text>
+  </g>
+  
+  <!-- Customs Valuation Section -->
+  <g transform="translate(450, 80)">
+    <rect x="0" y="0" width="300" height="180" fill="url(#customsGradient)" rx="10"/>
+    <text x="150" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+      Tollverdi
+    </text>
+    <text x="150" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+      (Tollmessig verdsettelse)
+    </text>
+    
+    <!-- Customs Valuation Elements -->
+    <rect x="20" y="55" width="260" height="25" fill="rgba(255,255,255,0.2)" rx="5"/>
+    <text x="30" y="72" fill="white" font-family="Arial, sans-serif" font-size="11">
+      ✓ WTO-avtale om tollverdi
+    </text>
+    
+    <rect x="20" y="85" width="260" height="25" fill="rgba(255,255,255,0.2)" rx="5"/>
+    <text x="30" y="102" fill="white" font-family="Arial, sans-serif" font-size="11">
+      ✓ Transaksjonsverdien
+    </text>
+    
+    <rect x="20" y="115" width="260" height="25" fill="rgba(255,255,255,0.2)" rx="5"/>
+    <text x="30" y="132" fill="white" font-family="Arial, sans-serif" font-size="11">
+      ✓ CIF-verdi beregning
+    </text>
+    
+    <rect x="20" y="145" width="260" height="25" fill="rgba(255,255,255,0.2)" rx="5"/>
+    <text x="30" y="162" fill="white" font-family="Arial, sans-serif" font-size="11">
+      ✓ Markedsverdi kontroll
+    </text>
+  </g>
+  
+  <!-- Connection Arrow -->
+  <path d="M 350 170 L 450 170" stroke="#374151" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  <path d="M 450 170 L 350 170" stroke="#374151" stroke-width="3" fill="none" marker-end="url(#arrowhead2)"/>
+  
+  <!-- Arrow markers -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#374151"/>
+    </marker>
+    <marker id="arrowhead2" markerWidth="10" markerHeight="7" refX="1" refY="3.5" orient="auto">
+      <polygon points="10 0, 0 3.5, 10 7" fill="#374151"/>
+    </marker>
+  </defs>
+  
+  <!-- Harmonization Requirements -->
+  <g transform="translate(200, 300)">
+    <rect x="0" y="0" width="400" height="220" fill="url(#harmonizationGradient)" rx="10"/>
+    <text x="200" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+      Harmoniseringskrav
+    </text>
+    
+    <!-- Harmonization Elements -->
+    <rect x="20" y="40" width="360" height="35" fill="rgba(255,255,255,0.2)" rx="5"/>
+    <text x="30" y="55" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+      Samtidig koordinering av skatte- og tollposition
+    </text>
+    <text x="30" y="68" fill="white" font-family="Arial, sans-serif" font-size="10">
+      Konsernpriser må være akseptable for både skattemyndighetene og tollvesenet
+    </text>
+    
+    <rect x="20" y="85" width="360" height="35" fill="rgba(255,255,255,0.2)" rx="5"/>
+    <text x="30" y="100" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+      Felles dokumentasjonskrav
+    </text>
+    <text x="30" y="113" fill="white" font-family="Arial, sans-serif" font-size="10">
+      Prisfastsettelse må dokumenteres og forsvares overfor begge regimer
+    </text>
+    
+    <rect x="20" y="130" width="360" height="35" fill="rgba(255,255,255,0.2)" rx="5"/>
+    <text x="30" y="145" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+      Risikohåndtering
+    </text>
+    <text x="30" y="158" fill="white" font-family="Arial, sans-serif" font-size="10">
+      Koordinert tilnærming reduserer risiko for dobbelt justering
+    </text>
+    
+    <rect x="20" y="175" width="360" height="35" fill="rgba(255,255,255,0.2)" rx="5"/>
+    <text x="30" y="190" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+      Systemintegrasjon
+    </text>
+    <text x="30" y="203" fill="white" font-family="Arial, sans-serif" font-size="10">
+      Integrerte systemer for konsistent prisbehandling
+    </text>
+  </g>
+  
+  <!-- Key Benefits -->
+  <g transform="translate(50, 540)">
+    <rect x="0" y="0" width="700" height="45" fill="#f3f4f6" stroke="#d1d5db" rx="8"/>
+    <text x="20" y="20" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+      Hovedfordeler med koordinert tilnærming:
+    </text>
+    <text x="20" y="35" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+      • Redusert kompliansekostnad • Konsistent prissetting • Lavere risiko for justeringer • Bedre myndighetsdialog
+    </text>
+  </g>
+</svg>

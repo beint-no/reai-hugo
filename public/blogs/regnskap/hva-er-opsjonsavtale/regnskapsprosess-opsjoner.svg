@@ -1,0 +1,93 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="processGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#007bff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0056b3;stop-opacity:1" />
+    </linearGradient>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#666"/>
+    </marker>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="20" font-weight="bold">Regnskapsprosess for Opsjoner</text>
+  
+  <!-- Step 1: Initial Recognition -->
+  <rect x="50" y="70" width="200" height="80" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="10"/>
+  <text x="150" y="95" text-anchor="middle" fill="#1976d2" font-family="Arial, sans-serif" font-size="14" font-weight="bold">1. FØRSTE GANGS</text>
+  <text x="150" y="115" text-anchor="middle" fill="#1976d2" font-family="Arial, sans-serif" font-size="14" font-weight="bold">INNREGNING</text>
+  <text x="150" y="135" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">Virkelig verdi på</text>
+  <text x="150" y="148" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">kontraktsdato</text>
+  
+  <!-- Arrow 1 -->
+  <path d="M 250 110 L 300 110" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Step 2: Classification -->
+  <rect x="320" y="70" width="200" height="80" fill="#fff3e0" stroke="#f57c00" stroke-width="2" rx="10"/>
+  <text x="420" y="95" text-anchor="middle" fill="#f57c00" font-family="Arial, sans-serif" font-size="14" font-weight="bold">2. KLASSIFISERING</text>
+  <text x="420" y="115" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">Eiendel eller</text>
+  <text x="420" y="128" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">forpliktelse</text>
+  <text x="420" y="141" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">Handels- eller sikring</text>
+  
+  <!-- Arrow 2 -->
+  <path d="M 520 110 L 570 110" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Step 3: Subsequent Measurement -->
+  <rect x="590" y="70" width="160" height="80" fill="#e8f5e8" stroke="#4caf50" stroke-width="2" rx="10"/>
+  <text x="670" y="95" text-anchor="middle" fill="#4caf50" font-family="Arial, sans-serif" font-size="14" font-weight="bold">3. ETTERFØLGENDE</text>
+  <text x="670" y="115" text-anchor="middle" fill="#4caf50" font-family="Arial, sans-serif" font-size="14" font-weight="bold">MÅLING</text>
+  <text x="670" y="135" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">Virkelig verdi</text>
+  
+  <!-- Decision Diamond -->
+  <polygon points="400,200 450,230 400,260 350,230" fill="#ffeaa7" stroke="#fdcb6e" stroke-width="2"/>
+  <text x="400" y="225" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Sikring?</text>
+  <text x="400" y="240" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Handel?</text>
+  
+  <!-- Arrow to decision -->
+  <path d="M 420 150 L 420 180 L 400 200" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Trading Path -->
+  <rect x="100" y="320" width="180" height="100" fill="#ffebee" stroke="#e57373" stroke-width="2" rx="10"/>
+  <text x="190" y="345" text-anchor="middle" fill="#e57373" font-family="Arial, sans-serif" font-size="14" font-weight="bold">HANDELSFORMÅL</text>
+  <text x="190" y="365" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">Virkelig verdi gjennom</text>
+  <text x="190" y="378" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">resultatregnskap</text>
+  <text x="190" y="395" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">Alle endringer til</text>
+  <text x="190" y="408" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">resultat umiddelbart</text>
+  
+  <!-- Hedging Path -->
+  <rect x="520" y="320" width="180" height="100" fill="#e8f5e8" stroke="#66bb6a" stroke-width="2" rx="10"/>
+  <text x="610" y="345" text-anchor="middle" fill="#66bb6a" font-family="Arial, sans-serif" font-size="14" font-weight="bold">SIKRINGSFORMÅL</text>
+  <text x="610" y="365" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">Spesiell behandling</text>
+  <text x="610" y="378" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">Sikringsbokføring</text>
+  <text x="610" y="395" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">Effektiv del til OCI</text>
+  <text x="610" y="408" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">Ineffektiv del til resultat</text>
+  
+  <!-- Arrows from decision -->
+  <path d="M 350 230 L 280 230 L 280 300 L 190 320" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  <text x="250" y="280" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="11">Handel</text>
+  
+  <path d="M 450 230 L 520 230 L 520 300 L 610 320" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  <text x="550" y="280" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="11">Sikring</text>
+  
+  <!-- Final Step: Disclosure -->
+  <rect x="300" y="480" width="200" height="80" fill="#f3e5f5" stroke="#ba68c8" stroke-width="2" rx="10"/>
+  <text x="400" y="505" text-anchor="middle" fill="#ba68c8" font-family="Arial, sans-serif" font-size="14" font-weight="bold">4. NOTEOPPLYSNINGER</text>
+  <text x="400" y="525" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">Virkelig verdi-hierarki</text>
+  <text x="400" y="538" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">Risiko og sensitivitet</text>
+  <text x="400" y="551" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">Sikringseffektivitet</text>
+  
+  <!-- Arrows to final step -->
+  <path d="M 190 420 L 190 450 L 350 450 L 350 480" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  <path d="M 610 420 L 610 450 L 450 450 L 450 480" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Standards reference -->
+  <rect x="50" y="570" width="700" height="25" fill="#fff" stroke="#dee2e6" stroke-width="1" rx="5"/>
+  <text x="400" y="587" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="12">Følger IFRS 9 (Finansielle instrumenter), IAS 32 (Presentasjon) og IFRS 7 (Opplysninger)</text>
+</svg>

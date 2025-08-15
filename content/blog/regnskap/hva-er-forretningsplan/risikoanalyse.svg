@@ -1,0 +1,147 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="url(#bgGradient)"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#212529">
+    Risikoanalyse i Forretningsplan
+  </text>
+  
+  <!-- Financial Risks -->
+  <g transform="translate(50, 80)">
+    <rect x="0" y="0" width="200" height="140" fill="#f8d7da" stroke="#dc3545" stroke-width="3" rx="10"/>
+    <text x="100" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#721c24">
+      Finansielle Risikoer
+    </text>
+    
+    <g transform="translate(15, 45)">
+      <rect x="0" y="0" width="170" height="20" fill="rgba(220,53,69,0.1)" rx="3"/>
+      <text x="5" y="13" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#721c24">Likviditetsrisiko</text>
+    </g>
+    <text x="20" y="75" font-family="Arial, sans-serif" font-size="9" fill="#721c24">• Kontantstrømproblemer</text>
+    <text x="20" y="87" font-family="Arial, sans-serif" font-size="9" fill="#721c24">• Arbeidskapitalmangel</text>
+    
+    <g transform="translate(15, 95)">
+      <rect x="0" y="0" width="170" height="20" fill="rgba(220,53,69,0.1)" rx="3"/>
+      <text x="5" y="13" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#721c24">Kredittrisiko</text>
+    </g>
+    <text x="20" y="125" font-family="Arial, sans-serif" font-size="9" fill="#721c24">• Tap på kundefordringer</text>
+  </g>
+  
+  <!-- Operational Risks -->
+  <g transform="translate(300, 80)">
+    <rect x="0" y="0" width="200" height="140" fill="#fff3cd" stroke="#ffc107" stroke-width="3" rx="10"/>
+    <text x="100" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#856404">
+      Operasjonelle Risikoer
+    </text>
+    
+    <g transform="translate(15, 45)">
+      <rect x="0" y="0" width="170" height="20" fill="rgba(255,193,7,0.2)" rx="3"/>
+      <text x="5" y="13" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#856404">Markedsrisiko</text>
+    </g>
+    <text x="20" y="75" font-family="Arial, sans-serif" font-size="9" fill="#856404">• Endret etterspørsel</text>
+    <text x="20" y="87" font-family="Arial, sans-serif" font-size="9" fill="#856404">• Økt konkurranse</text>
+    
+    <g transform="translate(15, 95)">
+      <rect x="0" y="0" width="170" height="20" fill="rgba(255,193,7,0.2)" rx="3"/>
+      <text x="5" y="13" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#856404">Leverandørrisiko</text>
+    </g>
+    <text x="20" y="125" font-family="Arial, sans-serif" font-size="9" fill="#856404">• Avhengighet av nøkkelleverandører</text>
+  </g>
+  
+  <!-- Regulatory Risks -->
+  <g transform="translate(550, 80)">
+    <rect x="0" y="0" width="200" height="140" fill="#e2e3e5" stroke="#6c757d" stroke-width="3" rx="10"/>
+    <text x="100" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#495057">
+      Regulatoriske Risikoer
+    </text>
+    
+    <g transform="translate(15, 45)">
+      <rect x="0" y="0" width="170" height="20" fill="rgba(108,117,125,0.2)" rx="3"/>
+      <text x="5" y="13" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#495057">Lovgivningsendringer</text>
+    </g>
+    <text x="20" y="75" font-family="Arial, sans-serif" font-size="9" fill="#495057">• Nye regnskapsstandarder</text>
+    <text x="20" y="87" font-family="Arial, sans-serif" font-size="9" fill="#495057">• Endrede skatteregler</text>
+    
+    <g transform="translate(15, 95)">
+      <rect x="0" y="0" width="170" height="20" fill="rgba(108,117,125,0.2)" rx="3"/>
+      <text x="5" y="13" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#495057">Compliance-risiko</text>
+    </g>
+    <text x="20" y="125" font-family="Arial, sans-serif" font-size="9" fill="#495057">• Rapporteringsfeil</text>
+  </g>
+  
+  <!-- Scenario Planning -->
+  <g transform="translate(50, 260)">
+    <rect x="0" y="0" width="700" height="200" fill="white" stroke="#dee2e6" stroke-width="2" rx="10"/>
+    <text x="350" y="25" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#212529">
+      Scenarioplanlegging
+    </text>
+    
+    <!-- Scenario table -->
+    <g transform="translate(50, 50)">
+      <!-- Header -->
+      <rect x="0" y="0" width="600" height="25" fill="#6c757d"/>
+      <text x="60" y="17" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Scenario</text>
+      <text x="150" y="17" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Sannsynlighet</text>
+      <text x="270" y="17" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Omsetning År 1</text>
+      <text x="400" y="17" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Resultat År 1</text>
+      <text x="520" y="17" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Likviditetsbehov</text>
+      
+      <!-- Optimistic -->
+      <rect x="0" y="25" width="600" height="25" fill="#e8f5e8"/>
+      <text x="20" y="42" font-family="Arial, sans-serif" font-size="11" fill="#155724">Optimistisk</text>
+      <text x="170" y="42" font-family="Arial, sans-serif" font-size="11" fill="#155724">20%</text>
+      <text x="290" y="42" font-family="Arial, sans-serif" font-size="11" fill="#155724">5 000 000</text>
+      <text x="420" y="42" font-family="Arial, sans-serif" font-size="11" fill="#155724">800 000</text>
+      <text x="540" y="42" font-family="Arial, sans-serif" font-size="11" fill="#155724">500 000</text>
+      
+      <!-- Realistic -->
+      <rect x="0" y="50" width="600" height="25" fill="#fff3cd"/>
+      <text x="20" y="67" font-family="Arial, sans-serif" font-size="11" fill="#856404">Realistisk</text>
+      <text x="170" y="67" font-family="Arial, sans-serif" font-size="11" fill="#856404">60%</text>
+      <text x="290" y="67" font-family="Arial, sans-serif" font-size="11" fill="#856404">3 500 000</text>
+      <text x="420" y="67" font-family="Arial, sans-serif" font-size="11" fill="#856404">400 000</text>
+      <text x="540" y="67" font-family="Arial, sans-serif" font-size="11" fill="#856404">750 000</text>
+      
+      <!-- Pessimistic -->
+      <rect x="0" y="75" width="600" height="25" fill="#f8d7da"/>
+      <text x="20" y="92" font-family="Arial, sans-serif" font-size="11" fill="#721c24">Pessimistisk</text>
+      <text x="170" y="92" font-family="Arial, sans-serif" font-size="11" fill="#721c24">20%</text>
+      <text x="290" y="92" font-family="Arial, sans-serif" font-size="11" fill="#721c24">2 000 000</text>
+      <text x="420" y="92" font-family="Arial, sans-serif" font-size="11" fill="#721c24">-200 000</text>
+      <text x="540" y="92" font-family="Arial, sans-serif" font-size="11" fill="#721c24">1 200 000</text>
+    </g>
+    
+    <!-- Risk mitigation strategies -->
+    <g transform="translate(50, 160)">
+      <text x="300" y="0" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#495057">
+        Risikohåndteringsstrategier
+      </text>
+      
+      <g transform="translate(0, 20)">
+        <circle cx="8" cy="8" r="6" fill="#28a745"/>
+        <path d="M5,8 L7,10 L11,6" stroke="white" stroke-width="1.5" fill="none"/>
+        <text x="20" y="12" font-family="Arial, sans-serif" font-size="10" fill="#495057">Diversifisering av inntektskilder</text>
+      </g>
+      
+      <g transform="translate(200, 20)">
+        <circle cx="8" cy="8" r="6" fill="#28a745"/>
+        <path d="M5,8 L7,10 L11,6" stroke="white" stroke-width="1.5" fill="none"/>
+        <text x="20" y="12" font-family="Arial, sans-serif" font-size="10" fill="#495057">Forsikringsdekning</text>
+      </g>
+      
+      <g transform="translate(350, 20)">
+        <circle cx="8" cy="8" r="6" fill="#28a745"/>
+        <path d="M5,8 L7,10 L11,6" stroke="white" stroke-width="1.5" fill="none"/>
+        <text x="20" y="12" font-family="Arial, sans-serif" font-size="10" fill="#495057">Kontingentplanlegging</text>
+      </g>
+    </g>
+  </g>
+</svg>

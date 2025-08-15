@@ -1,0 +1,82 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#dc2626;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#b91c1c;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="card1Grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2563eb;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="card2Grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#10b981;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#059669;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="card3Grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#f59e0b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#d97706;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="card4Grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#8b5cf6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7c3aed;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="#f8fafc"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="60" fill="url(#headerGrad)"/>
+  <text x="400" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="bold">Gjeldsnøkkeltall - Finansiell Analyse</text>
+  
+  <!-- Gjeldsgrad -->
+  <rect x="50" y="90" width="330" height="180" fill="url(#card1Grad)" stroke="#1e40af" stroke-width="3" rx="10"/>
+  <text x="215" y="120" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="18" font-weight="bold">GJELDSGRAD</text>
+  
+  <rect x="70" y="140" width="290" height="40" fill="rgba(255,255,255,0.2)" rx="5"/>
+  <text x="215" y="160" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Total Gjeld / Total Aktiva</text>
+  
+  <text x="80" y="200" fill="white" font-family="Arial, sans-serif" font-size="13">• Viser andel av aktiva finansiert med gjeld</text>
+  <text x="80" y="220" fill="white" font-family="Arial, sans-serif" font-size="13">• Høy gjeldsgrad = høy finansiell risiko</text>
+  <text x="80" y="240" fill="white" font-family="Arial, sans-serif" font-size="13">• Typisk akseptabelt nivå: 30-60%</text>
+  <text x="80" y="260" fill="white" font-family="Arial, sans-serif" font-size="13">• Varierer mellom bransjer</text>
+  
+  <!-- Egenkapitalandel -->
+  <rect x="420" y="90" width="330" height="180" fill="url(#card2Grad)" stroke="#047857" stroke-width="3" rx="10"/>
+  <text x="585" y="120" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="18" font-weight="bold">EGENKAPITALANDEL</text>
+  
+  <rect x="440" y="140" width="290" height="40" fill="rgba(255,255,255,0.2)" rx="5"/>
+  <text x="585" y="160" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Egenkapital / Total Aktiva</text>
+  
+  <text x="450" y="200" fill="white" font-family="Arial, sans-serif" font-size="13">• Viser andel av aktiva finansiert med EK</text>
+  <text x="450" y="220" fill="white" font-family="Arial, sans-serif" font-size="13">• Høy EK-andel = lav finansiell risiko</text>
+  <text x="450" y="240" fill="white" font-family="Arial, sans-serif" font-size="13">• Gjeldsgrad + EK-andel = 100%</text>
+  <text x="450" y="260" fill="white" font-family="Arial, sans-serif" font-size="13">• Indikerer finansiell stabilitet</text>
+  
+  <!-- Gjeldsgrad 2 -->
+  <rect x="50" y="290" width="330" height="180" fill="url(#card3Grad)" stroke="#d97706" stroke-width="3" rx="10"/>
+  <text x="215" y="320" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="18" font-weight="bold">GJELDSGRAD 2</text>
+  
+  <rect x="70" y="340" width="290" height="40" fill="rgba(255,255,255,0.2)" rx="5"/>
+  <text x="215" y="360" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Total Gjeld / Egenkapital</text>
+  
+  <text x="80" y="400" fill="white" font-family="Arial, sans-serif" font-size="13">• Forholdet mellom gjeld og egenkapital</text>
+  <text x="80" y="420" fill="white" font-family="Arial, sans-serif" font-size="13">• Høy ratio = høy gearing/leverage</text>
+  <text x="80" y="440" fill="white" font-family="Arial, sans-serif" font-size="13">• Ratio > 1 = mer gjeld enn egenkapital</text>
+  <text x="80" y="460" fill="white" font-family="Arial, sans-serif" font-size="13">• Viktig for kredittvurdering</text>
+  
+  <!-- Rentedekningsgrad -->
+  <rect x="420" y="290" width="330" height="180" fill="url(#card4Grad)" stroke="#7c3aed" stroke-width="3" rx="10"/>
+  <text x="585" y="320" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="18" font-weight="bold">RENTEDEKNINGSGRAD</text>
+  
+  <rect x="440" y="340" width="290" height="40" fill="rgba(255,255,255,0.2)" rx="5"/>
+  <text x="585" y="360" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Driftsresultat / Rentekostnader</text>
+  
+  <text x="450" y="400" fill="white" font-family="Arial, sans-serif" font-size="13">• Evne til å dekke rentekostnader</text>
+  <text x="450" y="420" fill="white" font-family="Arial, sans-serif" font-size="13">• Høy ratio = god rentebetalingsevne</text>
+  <text x="450" y="440" fill="white" font-family="Arial, sans-serif" font-size="13">• Minimum 2-3x anbefalt</text>
+  <text x="450" y="460" fill="white" font-family="Arial, sans-serif" font-size="13">• Kritisk for långivere</text>
+  
+  <!-- Bottom note -->
+  <text x="400" y="490" text-anchor="middle" fill="#6b7280" font-family="Arial, sans-serif" font-size="12" font-style="italic">Gjeldsnøkkeltall må vurderes i sammenheng og sammenlignes med bransjenormer</text>
+</svg>

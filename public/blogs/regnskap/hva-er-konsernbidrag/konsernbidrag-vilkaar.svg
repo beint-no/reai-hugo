@@ -1,0 +1,193 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="blueGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3498DB;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2980B9;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="greenGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2ECC71;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#27AE60;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="orangeGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#F39C12;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#E67E22;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#F8F9FA"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2C3E50">
+    Vilkår for Konsernbidrag
+  </text>
+  
+  <!-- Subtitle -->
+  <text x="400" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#7F8C8D">
+    Alle vilkår må være oppfylt samtidig
+  </text>
+  
+  <!-- Ownership Requirements -->
+  <rect x="50" y="90" width="220" height="150" rx="10" fill="url(#blueGradient)" stroke="#2C3E50" stroke-width="2"/>
+  <text x="160" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    Eierskapsvilkår
+  </text>
+  
+  <!-- Ownership icon -->
+  <circle cx="160" cy="140" r="15" fill="white" opacity="0.3"/>
+  <text x="160" y="147" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+    90%
+  </text>
+  
+  <text x="160" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    • Minimum 90% eierandel
+  </text>
+  <text x="160" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    • Direkte eller indirekte
+  </text>
+  <text x="160" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    • Kontinuerlig eierskap
+  </text>
+  <text x="160" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    • Hele inntektsåret
+  </text>
+  
+  <!-- Organization Requirements -->
+  <rect x="290" y="90" width="220" height="150" rx="10" fill="url(#greenGradient)" stroke="#2C3E50" stroke-width="2"/>
+  <text x="400" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    Organisasjonsvilkår
+  </text>
+  
+  <!-- Organization icon -->
+  <rect x="385" y="130" width="30" height="20" rx="3" fill="white" opacity="0.3"/>
+  <text x="400" y="143" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+    AS
+  </text>
+  
+  <text x="400" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    • Norske AS/ASA
+  </text>
+  <text x="400" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    • Registrert i Norge
+  </text>
+  <text x="400" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    • Norsk skattesubjekt
+  </text>
+  <text x="400" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    • Ikke under avvikling
+  </text>
+  
+  <!-- Time Requirements -->
+  <rect x="530" y="90" width="220" height="150" rx="10" fill="url(#orangeGradient)" stroke="#2C3E50" stroke-width="2"/>
+  <text x="640" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    Tidsvilkår
+  </text>
+  
+  <!-- Clock icon -->
+  <circle cx="640" cy="140" r="15" fill="white" opacity="0.3"/>
+  <line x1="640" y1="130" x2="640" y2="140" stroke="white" stroke-width="2"/>
+  <line x1="640" y1="140" x2="648" y2="140" stroke="white" stroke-width="2"/>
+  
+  <text x="640" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    • Samme regnskapsår
+  </text>
+  <text x="640" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    • Samtidig vedtak
+  </text>
+  <text x="640" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    • Innen fristen
+  </text>
+  <text x="640" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    • Dokumentasjon
+  </text>
+  
+  <!-- Detailed ownership structure -->
+  <rect x="50" y="270" width="700" height="180" rx="10" fill="#ECF0F1" stroke="#BDC3C7" stroke-width="2"/>
+  <text x="400" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2C3E50">
+    Eierskapsstruktur - Eksempler
+  </text>
+  
+  <!-- Direct ownership example -->
+  <text x="200" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2C3E50">
+    Direkte Eierskap
+  </text>
+  
+  <rect x="150" y="330" width="100" height="40" rx="5" fill="#3498DB" stroke="#2C3E50" stroke-width="1"/>
+  <text x="200" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    Mor AS
+  </text>
+  <text x="200" y="358" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+    (Ydende)
+  </text>
+  
+  <line x1="200" y1="370" x2="200" y2="390" stroke="#2C3E50" stroke-width="2"/>
+  <text x="210" y="385" font-family="Arial, sans-serif" font-size="10" fill="#E74C3C" font-weight="bold">
+    95%
+  </text>
+  
+  <rect x="150" y="390" width="100" height="40" rx="5" fill="#2ECC71" stroke="#2C3E50" stroke-width="1"/>
+  <text x="200" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    Datter AS
+  </text>
+  <text x="200" y="418" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+    (Mottakende)
+  </text>
+  
+  <!-- Indirect ownership example -->
+  <text x="600" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2C3E50">
+    Indirekte Eierskap
+  </text>
+  
+  <rect x="550" y="330" width="100" height="30" rx="5" fill="#3498DB" stroke="#2C3E50" stroke-width="1"/>
+  <text x="600" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    Holding AS
+  </text>
+  
+  <line x1="600" y1="360" x2="600" y2="375" stroke="#2C3E50" stroke-width="2"/>
+  <text x="610" y="370" font-family="Arial, sans-serif" font-size="9" fill="#E74C3C" font-weight="bold">
+    100%
+  </text>
+  
+  <rect x="550" y="375" width="100" height="30" rx="5" fill="#F39C12" stroke="#2C3E50" stroke-width="1"/>
+  <text x="600" y="395" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    Mellom AS
+  </text>
+  
+  <line x1="600" y1="405" x2="600" y2="420" stroke="#2C3E50" stroke-width="2"/>
+  <text x="610" y="415" font-family="Arial, sans-serif" font-size="9" fill="#E74C3C" font-weight="bold">
+    92%
+  </text>
+  
+  <rect x="550" y="420" width="100" height="30" rx="5" fill="#2ECC71" stroke="#2C3E50" stroke-width="1"/>
+  <text x="600" y="440" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    Operativ AS
+  </text>
+  
+  <!-- Calculation -->
+  <rect x="350" y="380" width="150" height="50" rx="5" fill="#FFF3CD" stroke="#F39C12" stroke-width="2"/>
+  <text x="425" y="395" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#2C3E50">
+    Indirekte eierskap:
+  </text>
+  <text x="425" y="408" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2C3E50">
+    100% × 92% = 92%
+  </text>
+  <text x="425" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#27AE60" font-weight="bold">
+    ✓ Oppfyller 90%-kravet
+  </text>
+  
+  <!-- Warning section -->
+  <rect x="50" y="470" width="700" height="110" rx="10" fill="#FADBD8" stroke="#E74C3C" stroke-width="2"/>
+  <text x="400" y="495" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#E74C3C">
+    ⚠️ Viktige Begrensninger
+  </text>
+  
+  <text x="80" y="520" font-family="Arial, sans-serif" font-size="12" fill="#2C3E50">
+    • <tspan font-weight="bold">Kontinuerlig eierskap:</tspan> 90%-kravet må være oppfylt hele inntektsåret
+  </text>
+  <text x="80" y="540" font-family="Arial, sans-serif" font-size="12" fill="#2C3E50">
+    • <tspan font-weight="bold">Samme regnskapsår:</tspan> Begge selskaper må ha identisk regnskapsår
+  </text>
+  <text x="80" y="560" font-family="Arial, sans-serif" font-size="12" fill="#2C3E50">
+    • <tspan font-weight="bold">Formelle vedtak:</tspan> Styrevedtak kreves i begge selskaper før fristen
+  </text>
+</svg>

@@ -1,0 +1,149 @@
+<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="taxableGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#dc2626;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ef4444;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="exemptGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#059669;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#10b981;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="#f8fafc"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
+    Skattemessig behandling av uføretrygdkomponenter
+  </text>
+  
+  <!-- Taxable components section -->
+  <g transform="translate(50, 80)">
+    <text x="0" y="20" fill="#dc2626" font-family="Arial, sans-serif" font-size="20" font-weight="bold">
+      Skattepliktige komponenter
+    </text>
+    
+    <!-- Basic disability benefit -->
+    <rect x="0" y="40" width="300" height="60" rx="8" fill="url(#taxableGrad)" stroke="#dc2626" stroke-width="2"/>
+    <text x="150" y="60" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+      Grunnbeløp uføretrygd
+    </text>
+    <text x="150" y="80" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14">
+      Behandles som ordinær lønn
+    </text>
+    <text x="150" y="95" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+      Trygdeavgift: 5,1%
+    </text>
+    
+    <!-- Child supplement -->
+    <rect x="0" y="120" width="300" height="60" rx="8" fill="url(#taxableGrad)" stroke="#dc2626" stroke-width="2"/>
+    <text x="150" y="140" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+      Barnetillegg
+    </text>
+    <text x="150" y="160" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14">
+      Behandles separat
+    </text>
+    <text x="150" y="175" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+      Full skatteplikt
+    </text>
+  </g>
+  
+  <!-- Tax-exempt components section -->
+  <g transform="translate(450, 80)">
+    <text x="0" y="20" fill="#059669" font-family="Arial, sans-serif" font-size="20" font-weight="bold">
+      Skattefrie komponenter
+    </text>
+    
+    <!-- Compensation supplement -->
+    <rect x="0" y="40" width="300" height="60" rx="8" fill="url(#exemptGrad)" stroke="#059669" stroke-width="2"/>
+    <text x="150" y="60" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+      Kompensasjonstillegg
+    </text>
+    <text x="150" y="80" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14">
+      Ikke regnet som inntekt
+    </text>
+    <text x="150" y="95" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+      Skattefritt
+    </text>
+    
+    <!-- Care allowance -->
+    <rect x="0" y="120" width="300" height="60" rx="8" fill="url(#exemptGrad)" stroke="#059669" stroke-width="2"/>
+    <text x="150" y="140" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+      Hjelpestønad
+    </text>
+    <text x="150" y="160" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14">
+      Ikke skattepliktig
+    </text>
+    <text x="150" y="175" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+      Særlig støtte
+    </text>
+  </g>
+  
+  <!-- Comparison table -->
+  <g transform="translate(50, 280)">
+    <text x="0" y="20" fill="#1f2937" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
+      Sammenligning med ordinær lønn
+    </text>
+    
+    <!-- Table header -->
+    <rect x="0" y="40" width="700" height="40" fill="#e5e7eb" stroke="#9ca3af" stroke-width="1"/>
+    <text x="175" y="65" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      Element
+    </text>
+    <text x="350" y="65" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      Uføretrygd
+    </text>
+    <text x="525" y="65" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      Ordinær lønn
+    </text>
+    
+    <!-- Row 1: Tax rate -->
+    <rect x="0" y="80" width="700" height="30" fill="white" stroke="#d1d5db" stroke-width="1"/>
+    <text x="175" y="100" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="13">
+      Trygdeavgift
+    </text>
+    <text x="350" y="100" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="13">
+      5,1%
+    </text>
+    <text x="525" y="100" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="13">
+      8,2% (over 2G)
+    </text>
+    
+    <!-- Row 2: Employer tax -->
+    <rect x="0" y="110" width="700" height="30" fill="#f9fafb" stroke="#d1d5db" stroke-width="1"/>
+    <text x="175" y="130" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="13">
+      Arbeidsgiveravgift
+    </text>
+    <text x="350" y="130" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="13">
+      Ingen (NAV betaler)
+    </text>
+    <text x="525" y="130" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="13">
+      14,1%
+    </text>
+    
+    <!-- Row 3: Holiday pay -->
+    <rect x="0" y="140" width="700" height="30" fill="white" stroke="#d1d5db" stroke-width="1"/>
+    <text x="175" y="160" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="13">
+      Feriepenger
+    </text>
+    <text x="350" y="160" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="13">
+      Nei
+    </text>
+    <text x="525" y="160" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="13">
+      12%
+    </text>
+    
+    <!-- Row 4: Pension accrual -->
+    <rect x="0" y="170" width="700" height="30" fill="#f9fafb" stroke="#d1d5db" stroke-width="1"/>
+    <text x="175" y="190" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="13">
+      Pensjonsopptjening
+    </text>
+    <text x="350" y="190" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="13">
+      Ja (fortsetter)
+    </text>
+    <text x="525" y="190" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="13">
+      Ja (normal)
+    </text>
+  </g>
+</svg>

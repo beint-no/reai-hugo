@@ -1,0 +1,136 @@
+<svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="maintenanceGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ef4444;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#dc2626;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="improvementGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#10b981;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#059669;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="400" fill="#f8fafc"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1e40af">
+    Vedlikehold vs. Forbedringer - Regnskapsmessig Behandling
+  </text>
+  
+  <!-- Main container -->
+  <rect x="50" y="60" width="700" height="320" fill="white" stroke="#cbd5e1" stroke-width="2" rx="8"/>
+  
+  <!-- Maintenance side -->
+  <rect x="80" y="90" width="300" height="250" fill="#fee2e2" stroke="#ef4444" stroke-width="2" rx="6"/>
+  <text x="230" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#dc2626">
+    Ordinært Vedlikehold
+  </text>
+  <text x="230" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#dc2626">
+    Kostnadsføres direkte
+  </text>
+  
+  <!-- Maintenance characteristics -->
+  <text x="100" y="160" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#dc2626">Kjennetegn:</text>
+  <text x="100" y="175" font-family="Arial, sans-serif" font-size="10" fill="#dc2626">• Opprettholder eksisterende funksjon</text>
+  <text x="100" y="187" font-family="Arial, sans-serif" font-size="10" fill="#dc2626">• Forhindrer forfall og slitasje</text>
+  <text x="100" y="199" font-family="Arial, sans-serif" font-size="10" fill="#dc2626">• Gjenoppretter opprinnelig tilstand</text>
+  <text x="100" y="211" font-family="Arial, sans-serif" font-size="10" fill="#dc2626">• Regelmessig og forutsigbar</text>
+  <text x="100" y="223" font-family="Arial, sans-serif" font-size="10" fill="#dc2626">• Relativt små beløp</text>
+  
+  <!-- Maintenance examples -->
+  <text x="100" y="245" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#dc2626">Eksempler:</text>
+  <text x="100" y="260" font-family="Arial, sans-serif" font-size="10" fill="#dc2626">• Oljeskift og service</text>
+  <text x="100" y="272" font-family="Arial, sans-serif" font-size="10" fill="#dc2626">• Utskifting av slitedeler</text>
+  <text x="100" y="284" font-family="Arial, sans-serif" font-size="10" fill="#dc2626">• Rengjøring og smøring</text>
+  <text x="100" y="296" font-family="Arial, sans-serif" font-size="10" fill="#dc2626">• Mindre reparasjoner</text>
+  <text x="100" y="308" font-family="Arial, sans-serif" font-size="10" fill="#dc2626">• Kalibrering av instrumenter</text>
+  
+  <!-- Journal entry for maintenance -->
+  <g transform="translate(100, 320)">
+    <rect x="0" y="0" width="200" height="15" fill="#fca5a5" stroke="#ef4444" rx="2"/>
+    <text x="100" y="11" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="#7f1d1d">
+      Debet: Vedlikeholdskostnad | Kredit: Bank
+    </text>
+  </g>
+  
+  <!-- Improvements side -->
+  <rect x="420" y="90" width="300" height="250" fill="#dcfce7" stroke="#16a34a" stroke-width="2" rx="6"/>
+  <text x="570" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#15803d">
+    Større Forbedringer
+  </text>
+  <text x="570" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#15803d">
+    Aktiveres som investering
+  </text>
+  
+  <!-- Improvement characteristics -->
+  <text x="440" y="160" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#15803d">Kjennetegn:</text>
+  <text x="440" y="175" font-family="Arial, sans-serif" font-size="10" fill="#15803d">• Øker eiendelens verdi eller kapasitet</text>
+  <text x="440" y="187" font-family="Arial, sans-serif" font-size="10" fill="#15803d">• Forlenger økonomisk levetid</text>
+  <text x="440" y="199" font-family="Arial, sans-serif" font-size="10" fill="#15803d">• Forbedrer ytelse eller effektivitet</text>
+  <text x="440" y="211" font-family="Arial, sans-serif" font-size="10" fill="#15803d">• Engangsutgift av betydelig størrelse</text>
+  <text x="440" y="223" font-family="Arial, sans-serif" font-size="10" fill="#15803d">• Fremtidige økonomiske fordeler</text>
+  
+  <!-- Improvement examples -->
+  <text x="440" y="245" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#15803d">Eksempler:</text>
+  <text x="440" y="260" font-family="Arial, sans-serif" font-size="10" fill="#15803d">• Oppgradering av motor</text>
+  <text x="440" y="272" font-family="Arial, sans-serif" font-size="10" fill="#15803d">• Installasjon av ny teknologi</text>
+  <text x="440" y="284" font-family="Arial, sans-serif" font-size="10" fill="#15803d">• Kapasitetsutvidelser</text>
+  <text x="440" y="296" font-family="Arial, sans-serif" font-size="10" fill="#15803d">• Miljøoppgraderinger</text>
+  <text x="440" y="308" font-family="Arial, sans-serif" font-size="10" fill="#15803d">• Automatiseringssystemer</text>
+  
+  <!-- Journal entry for improvements -->
+  <g transform="translate(440, 320)">
+    <rect x="0" y="0" width="200" height="15" fill="#a7f3d0" stroke="#16a34a" rx="2"/>
+    <text x="100" y="11" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="#14532d">
+      Debet: Varige driftsmidler | Kredit: Bank
+    </text>
+  </g>
+  
+  <!-- Decision criteria -->
+  <g transform="translate(200, 360)">
+    <rect x="0" y="0" width="400" height="30" fill="#fef3c7" stroke="#f59e0b" stroke-width="2" rx="6"/>
+    <text x="200" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#92400e">
+      Beslutningskriterier
+    </text>
+    <text x="200" y="27" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#92400e">
+      Vurder: Øker verdien? Forlenger levetiden? Forbedrer ytelsen? → Aktiver | Kun vedlikehold? → Kostnadsføring
+    </text>
+  </g>
+  
+  <!-- Central divider -->
+  <line x1="400" y1="90" x2="400" y2="340" stroke="#94a3b8" stroke-width="2" stroke-dasharray="5,5"/>
+  
+  <!-- Icons -->
+  <!-- Maintenance icon -->
+  <g transform="translate(150, 120)">
+    <circle cx="15" cy="15" r="12" fill="url(#maintenanceGrad)"/>
+    <rect x="10" y="8" width="2" height="14" fill="white"/>
+    <rect x="8" y="13" width="6" height="2" fill="white"/>
+    <circle cx="20" cy="10" r="2" fill="white"/>
+    <text x="15" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#dc2626">Reparasjon</text>
+  </g>
+  
+  <!-- Improvement icon -->
+  <g transform="translate(630, 120)">
+    <circle cx="15" cy="15" r="12" fill="url(#improvementGrad)"/>
+    <polygon points="10,20 15,8 20,20" fill="white"/>
+    <rect x="12" y="16" width="6" height="6" fill="white"/>
+    <text x="15" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#15803d">Oppgradering</text>
+  </g>
+  
+  <!-- Cost impact visualization -->
+  <g transform="translate(80, 350)">
+    <rect x="0" y="0" width="150" height="12" fill="#fee2e2" stroke="#ef4444" rx="2"/>
+    <text x="75" y="9" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#7f1d1d">
+      Påvirker resultat umiddelbart
+    </text>
+  </g>
+  
+  <g transform="translate(570, 350)">
+    <rect x="0" y="0" width="150" height="12" fill="#dcfce7" stroke="#16a34a" rx="2"/>
+    <text x="75" y="9" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#14532d">
+      Avskrives over tid
+    </text>
+  </g>
+</svg>

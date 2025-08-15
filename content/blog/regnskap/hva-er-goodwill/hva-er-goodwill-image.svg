@@ -1,0 +1,58 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#2563eb;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="cardGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="400" fill="#ffffff"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
+  <text x="400" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="white">Hva er Goodwill?</text>
+  
+  <!-- Main content area -->
+  <rect x="50" y="100" width="700" height="280" fill="url(#cardGradient)" stroke="#cbd5e1" stroke-width="2" rx="10"/>
+  
+  <!-- Formula section -->
+  <text x="400" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1e293b">Goodwill Beregning</text>
+  
+  <!-- Formula box -->
+  <rect x="150" y="160" width="500" height="60" fill="#dbeafe" stroke="#3b82f6" stroke-width="2" rx="8"/>
+  <text x="400" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e40af">Goodwill = Kjøpesum - Virkelig verdi av</text>
+  <text x="400" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e40af">identifiserbare netto eiendeler</text>
+  
+  <!-- Key components -->
+  <text x="400" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#374151">Goodwill representerer:</text>
+  
+  <!-- Component boxes -->
+  <rect x="80" y="270" width="140" height="80" fill="#fef3c7" stroke="#f59e0b" stroke-width="1" rx="6"/>
+  <text x="150" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#92400e">Merkevare-</text>
+  <text x="150" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#92400e">gjenkjenning</text>
+  <text x="150" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#92400e">Etablert omdømme</text>
+  <text x="150" y="343" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#92400e">og kjennskap</text>
+  
+  <rect x="240" y="270" width="140" height="80" fill="#dcfce7" stroke="#16a34a" stroke-width="1" rx="6"/>
+  <text x="310" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#166534">Kunde-</text>
+  <text x="310" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#166534">lojalitet</text>
+  <text x="310" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#166534">Stabile kunde-</text>
+  <text x="310" y="343" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#166534">relasjoner</text>
+  
+  <rect x="400" y="270" width="140" height="80" fill="#fce7f3" stroke="#ec4899" stroke-width="1" rx="6"/>
+  <text x="470" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#be185d">Ansattes</text>
+  <text x="470" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#be185d">kompetanse</text>
+  <text x="470" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#be185d">Verdifull kunnskap</text>
+  <text x="470" y="343" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#be185d">og erfaring</text>
+  
+  <rect x="560" y="270" width="140" height="80" fill="#e0e7ff" stroke="#6366f1" stroke-width="1" rx="6"/>
+  <text x="630" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#4338ca">Markeds-</text>
+  <text x="630" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#4338ca">posisjon</text>
+  <text x="630" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#4338ca">Konkurransefortrinn</text>
+  <text x="630" y="343" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#4338ca">og markedsandeler</text>
+</svg>

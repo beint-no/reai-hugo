@@ -1,0 +1,211 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+    Likviditetsforbedring Strategier
+  </text>
+  
+  <!-- Central Circle -->
+  <circle cx="400" cy="300" r="80" fill="#3498db" stroke="#2980b9" stroke-width="4"/>
+  <text x="400" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    Forbedre
+  </text>
+  <text x="400" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    Likviditet
+  </text>
+  
+  <!-- Strategy 1: Reduce Receivables -->
+  <g transform="translate(150, 120)">
+    <rect x="0" y="0" width="180" height="100" fill="#27ae60" stroke="#229954" stroke-width="2" rx="10"/>
+    <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      Reduser Kundefordringer
+    </text>
+    <text x="20" y="45" font-family="Arial, sans-serif" font-size="11" fill="white">
+      • Elektronisk fakturering
+    </text>
+    <text x="20" y="60" font-family="Arial, sans-serif" font-size="11" fill="white">
+      • Kontantrabatter (2/10 net 30)
+    </text>
+    <text x="20" y="75" font-family="Arial, sans-serif" font-size="11" fill="white">
+      • Forbedre kredittvurdering
+    </text>
+    <text x="20" y="90" font-family="Arial, sans-serif" font-size="11" fill="white">
+      • Aktiv oppfølging
+    </text>
+    
+    <!-- Arrow to center -->
+    <path d="M180 120 L320 220" stroke="#27ae60" stroke-width="3" fill="none" marker-end="url(#arrowgreen)"/>
+  </g>
+  
+  <!-- Strategy 2: Optimize Inventory -->
+  <g transform="translate(470, 120)">
+    <rect x="0" y="0" width="180" height="100" fill="#f39c12" stroke="#e67e22" stroke-width="2" rx="10"/>
+    <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      Optimaliser Lager
+    </text>
+    <text x="20" y="45" font-family="Arial, sans-serif" font-size="11" fill="white">
+      • Just-in-time levering
+    </text>
+    <text x="20" y="60" font-family="Arial, sans-serif" font-size="11" fill="white">
+      • Forbedre prognoser
+    </text>
+    <text x="20" y="75" font-family="Arial, sans-serif" font-size="11" fill="white">
+      • Reduser dødt lager
+    </text>
+    <text x="20" y="90" font-family="Arial, sans-serif" font-size="11" fill="white">
+      • ABC-analyse
+    </text>
+    
+    <!-- Arrow to center -->
+    <path d="M470 220 L480 220" stroke="#f39c12" stroke-width="3" fill="none" marker-end="url(#arroworange)"/>
+  </g>
+  
+  <!-- Strategy 3: Extend Payables -->
+  <g transform="translate(470, 380)">
+    <rect x="0" y="0" width="180" height="100" fill="#e74c3c" stroke="#c0392b" stroke-width="2" rx="10"/>
+    <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      Forleng Leverandørkreditt
+    </text>
+    <text x="20" y="45" font-family="Arial, sans-serif" font-size="11" fill="white">
+      • Forhandle betalingsvilkår
+    </text>
+    <text x="20" y="60" font-family="Arial, sans-serif" font-size="11" fill="white">
+      • 30 → 45 → 60 dager
+    </text>
+    <text x="20" y="75" font-family="Arial, sans-serif" font-size="11" fill="white">
+      • Bygge leverandørrelasjoner
+    </text>
+    <text x="20" y="90" font-family="Arial, sans-serif" font-size="11" fill="white">
+      • Volum-rabatter
+    </text>
+    
+    <!-- Arrow to center -->
+    <path d="M470 380 L480 380" stroke="#e74c3c" stroke-width="3" fill="none" marker-end="url(#arrowred)"/>
+  </g>
+  
+  <!-- Strategy 4: Alternative Financing -->
+  <g transform="translate(150, 380)">
+    <rect x="0" y="0" width="180" height="100" fill="#9b59b6" stroke="#8e44ad" stroke-width="2" rx="10"/>
+    <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      Alternativ Finansiering
+    </text>
+    <text x="20" y="45" font-family="Arial, sans-serif" font-size="11" fill="white">
+      • Factoring av fordringer
+    </text>
+    <text x="20" y="60" font-family="Arial, sans-serif" font-size="11" fill="white">
+      • Kredittlinjer
+    </text>
+    <text x="20" y="75" font-family="Arial, sans-serif" font-size="11" fill="white">
+      • Kortsiktige lån
+    </text>
+    <text x="20" y="90" font-family="Arial, sans-serif" font-size="11" fill="white">
+      • Leasing vs. kjøp
+    </text>
+    
+    <!-- Arrow to center -->
+    <path d="M330 380 L320 380" stroke="#9b59b6" stroke-width="3" fill="none" marker-end="url(#arrowpurple)"/>
+  </g>
+  
+  <!-- Strategy 5: Technology & Automation -->
+  <g transform="translate(50, 250)">
+    <rect x="0" y="0" width="160" height="100" fill="#1abc9c" stroke="#16a085" stroke-width="2" rx="10"/>
+    <text x="80" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="white">
+      Teknologi &amp;
+    </text>
+    <text x="80" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="white">
+      Automatisering
+    </text>
+    <text x="15" y="55" font-family="Arial, sans-serif" font-size="10" fill="white">
+      • ERP-systemer
+    </text>
+    <text x="15" y="70" font-family="Arial, sans-serif" font-size="10" fill="white">
+      • Automatisk fakturering
+    </text>
+    <text x="15" y="85" font-family="Arial, sans-serif" font-size="10" fill="white">
+      • Sanntids rapportering
+    </text>
+    
+    <!-- Arrow to center -->
+    <path d="M210 300 L320 300" stroke="#1abc9c" stroke-width="3" fill="none" marker-end="url(#arrowteal)"/>
+  </g>
+  
+  <!-- Strategy 6: Cash Flow Monitoring -->
+  <g transform="translate(590, 250)">
+    <rect x="0" y="0" width="160" height="100" fill="#34495e" stroke="#2c3e50" stroke-width="2" rx="10"/>
+    <text x="80" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="white">
+      Kontantstrøm
+    </text>
+    <text x="80" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="white">
+      Overvåking
+    </text>
+    <text x="15" y="55" font-family="Arial, sans-serif" font-size="10" fill="white">
+      • Daglige rapporter
+    </text>
+    <text x="15" y="70" font-family="Arial, sans-serif" font-size="10" fill="white">
+      • 13-ukers prognoser
+    </text>
+    <text x="15" y="85" font-family="Arial, sans-serif" font-size="10" fill="white">
+      • Scenarioanalyse
+    </text>
+    
+    <!-- Arrow to center -->
+    <path d="M590 300 L480 300" stroke="#34495e" stroke-width="3" fill="none" marker-end="url(#arrowdark)"/>
+  </g>
+  
+  <!-- Results Box -->
+  <g transform="translate(250, 520)">
+    <rect x="0" y="0" width="300" height="60" fill="#2ecc71" stroke="#27ae60" stroke-width="3" rx="10"/>
+    <text x="150" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      Forventede Resultater
+    </text>
+    <text x="150" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+      Forbedret likviditet • Redusert risiko • Økt fleksibilitet
+    </text>
+  </g>
+  
+  <!-- Priority Indicators -->
+  <g transform="translate(50, 80)">
+    <text x="0" y="15" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+      Prioritet:
+    </text>
+    
+    <circle cx="80" cy="10" r="8" fill="#e74c3c"/>
+    <text x="95" y="15" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+      Høy - Umiddelbar effekt
+    </text>
+    
+    <circle cx="250" cy="10" r="8" fill="#f39c12"/>
+    <text x="265" y="15" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+      Middels - 1-3 måneder
+    </text>
+    
+    <circle cx="420" cy="10" r="8" fill="#27ae60"/>
+    <text x="435" y="15" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+      Lav - Langsiktig
+    </text>
+  </g>
+  
+  <!-- Arrow markers -->
+  <defs>
+    <marker id="arrowgreen" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#27ae60"/>
+    </marker>
+    <marker id="arroworange" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#f39c12"/>
+    </marker>
+    <marker id="arrowred" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#e74c3c"/>
+    </marker>
+    <marker id="arrowpurple" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#9b59b6"/>
+    </marker>
+    <marker id="arrowteal" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#1abc9c"/>
+    </marker>
+    <marker id="arrowdark" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>
+    </marker>
+  </defs>
+</svg>

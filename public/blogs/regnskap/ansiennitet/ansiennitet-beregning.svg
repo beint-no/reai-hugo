@@ -1,0 +1,88 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="timeGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#E3F2FD;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1976D2;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="400" fill="#FAFAFA"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1976D2">
+    Ansiennitetsberegning
+  </text>
+  
+  <!-- Timeline -->
+  <line x1="80" y1="100" x2="720" y2="100" stroke="#333" stroke-width="2"/>
+  
+  <!-- Year markers -->
+  <g font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
+    <line x1="80" y1="95" x2="80" y2="105" stroke="#333" stroke-width="2"/>
+    <text x="80" y="120" fill="#333">2018</text>
+    <text x="80" y="135" fill="#666">Ansettelse</text>
+    
+    <line x1="240" y1="95" x2="240" y2="105" stroke="#333" stroke-width="2"/>
+    <text x="240" y="120" fill="#333">2020</text>
+    <text x="240" y="135" fill="#666">2 år</text>
+    
+    <line x1="400" y1="95" x2="400" y2="105" stroke="#333" stroke-width="2"/>
+    <text x="400" y="120" fill="#333">2022</text>
+    <text x="400" y="135" fill="#666">4 år</text>
+    
+    <line x1="560" y1="95" x2="560" y2="105" stroke="#333" stroke-width="2"/>
+    <text x="560" y="120" fill="#333">2024</text>
+    <text x="560" y="135" fill="#666">6 år</text>
+    
+    <line x1="720" y1="95" x2="720" y2="105" stroke="#333" stroke-width="2"/>
+    <text x="720" y="120" fill="#333">2026</text>
+    <text x="720" y="135" fill="#666">8 år</text>
+  </g>
+  
+  <!-- Progress bar -->
+  <rect x="80" y="85" width="480" height="10" fill="url(#timeGradient)" rx="5"/>
+  
+  <!-- Current position marker -->
+  <circle cx="560" cy="90" r="8" fill="#FF5722"/>
+  <text x="560" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#FF5722">
+    Nå
+  </text>
+  
+  <!-- Calculation box -->
+  <rect x="100" y="180" width="600" height="180" fill="#E8F5E8" stroke="#4CAF50" stroke-width="2" rx="10"/>
+  
+  <!-- Calculation title -->
+  <text x="400" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2E7D32">
+    Beregning av Ansiennitet
+  </text>
+  
+  <!-- Calculation details -->
+  <g font-family="Arial, sans-serif" font-size="14" fill="#333">
+    <text x="120" y="230">Ansettelsesdato: 15. januar 2018</text>
+    <text x="120" y="250">Beregningsdato: 15. januar 2024</text>
+    <text x="120" y="270">Totalt antall år: 6 år</text>
+    
+    <text x="120" y="300" font-weight="bold">Spesielle forhold:</text>
+    <text x="140" y="320">• Svangerskapspermisjon 2020: Regnes med (+10 mnd)</text>
+    <text x="140" y="340">• Militærtjeneste 2021: Regnes med (+12 mnd)</text>
+  </g>
+  
+  <!-- Result -->
+  <rect x="450" y="220" width="230" height="120" fill="#FFF3E0" stroke="#FF9800" stroke-width="2" rx="5"/>
+  <text x="565" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#E65100">
+    Beregnet Ansiennitet
+  </text>
+  <text x="565" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#E65100">
+    6 år
+  </text>
+  <text x="565" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    (72 måneder)
+  </text>
+  <text x="565" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    Gir rett til 3 måneders
+  </text>
+  <text x="565" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    oppsigelse
+  </text>
+</svg>

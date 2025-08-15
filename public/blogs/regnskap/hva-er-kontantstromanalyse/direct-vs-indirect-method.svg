@@ -1,0 +1,230 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="directGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e3f2fd;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#bbdefb;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="indirectGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f3e5f5;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e1bee7;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
+  <text x="400" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="22" font-weight="bold">
+    Direkte vs. Indirekte Metode - Operasjonell Kontantstrøm
+  </text>
+  
+  <!-- Direct Method Section -->
+  <rect x="50" y="80" width="320" height="450" fill="url(#directGradient)" stroke="#1976d2" stroke-width="2" rx="10"/>
+  <text x="210" y="110" text-anchor="middle" fill="#1976d2" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
+    DIREKTE METODE
+  </text>
+  <text x="210" y="130" text-anchor="middle" fill="#1976d2" font-family="Arial, sans-serif" font-size="14">
+    Faktiske kontantbevegelser
+  </text>
+  
+  <!-- Direct method content -->
+  <text x="70" y="160" fill="#424242" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    Kontantinnbetalinger:
+  </text>
+  <text x="80" y="180" fill="#495057" font-family="Arial, sans-serif" font-size="12">
+    Fra kunder
+  </text>
+  <text x="320" y="180" text-anchor="end" fill="#495057" font-family="Arial, sans-serif" font-size="12">
+    1,500,000
+  </text>
+  
+  <text x="80" y="200" fill="#495057" font-family="Arial, sans-serif" font-size="12">
+    Renteinntekter
+  </text>
+  <text x="320" y="200" text-anchor="end" fill="#495057" font-family="Arial, sans-serif" font-size="12">
+    25,000
+  </text>
+  
+  <text x="80" y="220" fill="#495057" font-family="Arial, sans-serif" font-size="12">
+    Andre inntekter
+  </text>
+  <text x="320" y="220" text-anchor="end" fill="#495057" font-family="Arial, sans-serif" font-size="12">
+    15,000
+  </text>
+  
+  <line x1="250" y1="230" x2="330" y2="230" stroke="#424242" stroke-width="1"/>
+  <text x="80" y="250" fill="#424242" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    Totale innbetalinger
+  </text>
+  <text x="320" y="250" text-anchor="end" fill="#424242" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    1,540,000
+  </text>
+  
+  <text x="70" y="280" fill="#424242" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    Kontantutbetalinger:
+  </text>
+  <text x="80" y="300" fill="#495057" font-family="Arial, sans-serif" font-size="12">
+    Til leverandører
+  </text>
+  <text x="320" y="300" text-anchor="end" fill="#495057" font-family="Arial, sans-serif" font-size="12">
+    (800,000)
+  </text>
+  
+  <text x="80" y="320" fill="#495057" font-family="Arial, sans-serif" font-size="12">
+    Til ansatte
+  </text>
+  <text x="320" y="320" text-anchor="end" fill="#495057" font-family="Arial, sans-serif" font-size="12">
+    (400,000)
+  </text>
+  
+  <text x="80" y="340" fill="#495057" font-family="Arial, sans-serif" font-size="12">
+    Rentebetalinger
+  </text>
+  <text x="320" y="340" text-anchor="end" fill="#495057" font-family="Arial, sans-serif" font-size="12">
+    (50,000)
+  </text>
+  
+  <text x="80" y="360" fill="#495057" font-family="Arial, sans-serif" font-size="12">
+    Skattebetalinger
+  </text>
+  <text x="320" y="360" text-anchor="end" fill="#495057" font-family="Arial, sans-serif" font-size="12">
+    (100,000)
+  </text>
+  
+  <text x="80" y="380" fill="#495057" font-family="Arial, sans-serif" font-size="12">
+    Andre driftskostnader
+  </text>
+  <text x="320" y="380" text-anchor="end" fill="#495057" font-family="Arial, sans-serif" font-size="12">
+    (40,000)
+  </text>
+  
+  <line x1="250" y1="390" x2="330" y2="390" stroke="#424242" stroke-width="1"/>
+  <text x="80" y="410" fill="#424242" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    Totale utbetalinger
+  </text>
+  <text x="320" y="410" text-anchor="end" fill="#424242" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    (1,390,000)
+  </text>
+  
+  <line x1="200" y1="430" x2="330" y2="430" stroke="#1976d2" stroke-width="2"/>
+  <text x="70" y="450" fill="#1976d2" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    Netto operasjonell kontantstrøm
+  </text>
+  <text x="320" y="450" text-anchor="end" fill="#1976d2" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    150,000
+  </text>
+  
+  <text x="70" y="480" fill="#6c757d" font-family="Arial, sans-serif" font-size="11" font-style="italic">
+    Viser faktiske kontantbevegelser
+  </text>
+  <text x="70" y="495" fill="#6c757d" font-family="Arial, sans-serif" font-size="11" font-style="italic">
+    Lettere å forstå for brukere
+  </text>
+  <text x="70" y="510" fill="#6c757d" font-family="Arial, sans-serif" font-size="11" font-style="italic">
+    Krever mer detaljert sporing
+  </text>
+  
+  <!-- Indirect Method Section -->
+  <rect x="430" y="80" width="320" height="450" fill="url(#indirectGradient)" stroke="#7b1fa2" stroke-width="2" rx="10"/>
+  <text x="590" y="110" text-anchor="middle" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
+    INDIREKTE METODE
+  </text>
+  <text x="590" y="130" text-anchor="middle" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="14">
+    Justerer nettoresultat
+  </text>
+  
+  <!-- Indirect method content -->
+  <text x="450" y="160" fill="#424242" font-family="Arial, sans-serif" font-size="12">
+    Nettoresultat
+  </text>
+  <text x="700" y="160" text-anchor="end" fill="#424242" font-family="Arial, sans-serif" font-size="12">
+    200,000
+  </text>
+  
+  <text x="450" y="190" fill="#424242" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    Justeringer for ikke-kontante poster:
+  </text>
+  <text x="460" y="210" fill="#495057" font-family="Arial, sans-serif" font-size="12">
+    Avskrivninger
+  </text>
+  <text x="700" y="210" text-anchor="end" fill="#495057" font-family="Arial, sans-serif" font-size="12">
+    100,000
+  </text>
+  
+  <text x="460" y="230" fill="#495057" font-family="Arial, sans-serif" font-size="12">
+    Tap på fordringer
+  </text>
+  <text x="700" y="230" text-anchor="end" fill="#495057" font-family="Arial, sans-serif" font-size="12">
+    10,000
+  </text>
+  
+  <text x="450" y="260" fill="#424242" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    Endringer i arbeidskapital:
+  </text>
+  <text x="460" y="280" fill="#495057" font-family="Arial, sans-serif" font-size="12">
+    Økning i kundefordringer
+  </text>
+  <text x="700" y="280" text-anchor="end" fill="#495057" font-family="Arial, sans-serif" font-size="12">
+    (80,000)
+  </text>
+  
+  <text x="460" y="300" fill="#495057" font-family="Arial, sans-serif" font-size="12">
+    Økning i varelager
+  </text>
+  <text x="700" y="300" text-anchor="end" fill="#495057" font-family="Arial, sans-serif" font-size="12">
+    (50,000)
+  </text>
+  
+  <text x="460" y="320" fill="#495057" font-family="Arial, sans-serif" font-size="12">
+    Økning i leverandørgjeld
+  </text>
+  <text x="700" y="320" text-anchor="end" fill="#495057" font-family="Arial, sans-serif" font-size="12">
+    30,000
+  </text>
+  
+  <text x="460" y="340" fill="#495057" font-family="Arial, sans-serif" font-size="12">
+    Reduksjon i påløpte kostnader
+  </text>
+  <text x="700" y="340" text-anchor="end" fill="#495057" font-family="Arial, sans-serif" font-size="12">
+    (50,000)
+  </text>
+  
+  <text x="460" y="360" fill="#495057" font-family="Arial, sans-serif" font-size="12">
+    Økning i forskuddsbetaling
+  </text>
+  <text x="700" y="360" text-anchor="end" fill="#495057" font-family="Arial, sans-serif" font-size="12">
+    (10,000)
+  </text>
+  
+  <line x1="630" y1="380" x2="710" y2="380" stroke="#7b1fa2" stroke-width="2"/>
+  <text x="450" y="400" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    Netto operasjonell kontantstrøm
+  </text>
+  <text x="700" y="400" text-anchor="end" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    150,000
+  </text>
+  
+  <text x="450" y="430" fill="#6c757d" font-family="Arial, sans-serif" font-size="11" font-style="italic">
+    Starter med nettoresultat
+  </text>
+  <text x="450" y="445" fill="#6c757d" font-family="Arial, sans-serif" font-size="11" font-style="italic">
+    Mest brukte metode
+  </text>
+  <text x="450" y="460" fill="#6c757d" font-family="Arial, sans-serif" font-size="11" font-style="italic">
+    Lettere å utarbeide
+  </text>
+  <text x="450" y="475" fill="#6c757d" font-family="Arial, sans-serif" font-size="11" font-style="italic">
+    Viser sammenheng med resultat
+  </text>
+  
+  <!-- Bottom comparison -->
+  <rect x="100" y="550" width="600" height="40" fill="white" stroke="#ced4da" stroke-width="1" rx="5"/>
+  <text x="400" y="575" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    Begge metoder gir samme resultat: 150,000 NOK i operasjonell kontantstrøm
+  </text>
+</svg>

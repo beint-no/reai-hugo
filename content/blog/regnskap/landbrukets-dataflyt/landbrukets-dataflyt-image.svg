@@ -1,0 +1,165 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e8f5e8;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#d4f1d4;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="farmGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4a7c59;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2d5016;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="400" fill="url(#bgGradient)"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2d5016">
+    Landbrukets Dataflyt
+  </text>
+  
+  <!-- Farm section -->
+  <rect x="50" y="80" width="150" height="120" rx="10" fill="url(#farmGradient)" stroke="#2d5016" stroke-width="2"/>
+  <text x="125" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    GÅRD
+  </text>
+  <text x="125" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Sensorer
+  </text>
+  <text x="125" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Maskiner
+  </text>
+  <text x="125" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Produksjon
+  </text>
+  <text x="125" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Dyr &amp; Avling
+  </text>
+  <text x="125" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • GPS-data
+  </text>
+  
+  <!-- Data processing section -->
+  <rect x="300" y="80" width="150" height="120" rx="10" fill="#3498db" stroke="#2980b9" stroke-width="2"/>
+  <text x="375" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    DATABEHANDLING
+  </text>
+  <text x="375" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Innsamling
+  </text>
+  <text x="375" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Validering
+  </text>
+  <text x="375" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Integrasjon
+  </text>
+  <text x="375" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Analyse
+  </text>
+  <text x="375" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Rapportering
+  </text>
+  
+  <!-- Accounting section -->
+  <rect x="550" y="80" width="150" height="120" rx="10" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+  <text x="625" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    REGNSKAP
+  </text>
+  <text x="625" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Bokføring
+  </text>
+  <text x="625" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Kostnader
+  </text>
+  <text x="625" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Inntekter
+  </text>
+  <text x="625" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Rapporter
+  </text>
+  <text x="625" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Compliance
+  </text>
+  
+  <!-- Arrows -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#2d5016" />
+    </marker>
+  </defs>
+  
+  <!-- Arrow from farm to processing -->
+  <line x1="200" y1="140" x2="300" y2="140" stroke="#2d5016" stroke-width="3" marker-end="url(#arrowhead)"/>
+  <text x="250" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2d5016">
+    Rådata
+  </text>
+  
+  <!-- Arrow from processing to accounting -->
+  <line x1="450" y1="140" x2="550" y2="140" stroke="#2d5016" stroke-width="3" marker-end="url(#arrowhead)"/>
+  <text x="500" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2d5016">
+    Strukturert data
+  </text>
+  
+  <!-- External data sources -->
+  <rect x="50" y="250" width="120" height="80" rx="8" fill="#f39c12" stroke="#e67e22" stroke-width="2"/>
+  <text x="110" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    EKSTERNE DATA
+  </text>
+  <text x="110" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+    • Værdata
+  </text>
+  <text x="110" y="308" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+    • Markedspriser
+  </text>
+  <text x="110" y="321" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+    • Regelverk
+  </text>
+  
+  <!-- Regulatory reporting -->
+  <rect x="300" y="250" width="120" height="80" rx="8" fill="#9b59b6" stroke="#8e44ad" stroke-width="2"/>
+  <text x="360" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    MYNDIGHETER
+  </text>
+  <text x="360" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+    • Subsidier
+  </text>
+  <text x="360" y="308" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+    • Miljørapporter
+  </text>
+  <text x="360" y="321" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+    • Mattrygghet
+  </text>
+  
+  <!-- Market section -->
+  <rect x="550" y="250" width="120" height="80" rx="8" fill="#1abc9c" stroke="#16a085" stroke-width="2"/>
+  <text x="610" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    MARKED
+  </text>
+  <text x="610" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+    • Salg
+  </text>
+  <text x="610" y="308" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+    • Kunder
+  </text>
+  <text x="610" y="321" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+    • Sporbarhet
+  </text>
+  
+  <!-- Connecting arrows -->
+  <line x1="170" y1="290" x2="300" y2="200" stroke="#f39c12" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="450" y1="200" x2="360" y2="250" stroke="#9b59b6" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="700" y1="140" x2="610" y2="250" stroke="#1abc9c" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Data flow indicators -->
+  <circle cx="250" cy="120" r="3" fill="#2d5016">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="500" cy="120" r="3" fill="#2d5016">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" begin="0.5s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Bottom description -->
+  <text x="400" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2d5016">
+    Integrert dataflyt fra produksjon til regnskap og rapportering
+  </text>
+</svg>

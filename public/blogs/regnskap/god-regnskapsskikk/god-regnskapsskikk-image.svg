@@ -1,0 +1,43 @@
+<svg width="400" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="400" height="200" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Title -->
+  <text x="200" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">God Regnskapsskikk</text>
+  
+  <!-- Subtitle -->
+  <text x="200" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#6c757d">Prinsipper for kvalitetsregnskap</text>
+  
+  <!-- Icons representing key principles -->
+  <!-- Integrity icon -->
+  <circle cx="80" cy="120" r="25" fill="#28a745" opacity="0.2"/>
+  <path d="M65 120 L75 130 L95 110" stroke="#28a745" stroke-width="3" fill="none"/>
+  <text x="80" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#495057">Integritet</text>
+  
+  <!-- Transparency icon -->
+  <circle cx="160" cy="120" r="25" fill="#007bff" opacity="0.2"/>
+  <rect x="150" y="110" width="20" height="20" fill="none" stroke="#007bff" stroke-width="2"/>
+  <circle cx="160" cy="120" r="5" fill="#007bff"/>
+  <text x="160" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#495057">Transparens</text>
+  
+  <!-- Quality icon -->
+  <circle cx="240" cy="120" r="25" fill="#ffc107" opacity="0.2"/>
+  <polygon points="240,105 245,115 255,115 247,123 250,133 240,128 230,133 233,123 225,115 235,115" fill="#ffc107"/>
+  <text x="240" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#495057">Kvalitet</text>
+  
+  <!-- Compliance icon -->
+  <circle cx="320" cy="120" r="25" fill="#dc3545" opacity="0.2"/>
+  <rect x="310" y="110" width="20" height="20" fill="none" stroke="#dc3545" stroke-width="2"/>
+  <path d="M315 115 L318 118 L325 111" stroke="#dc3545" stroke-width="2" fill="none"/>
+  <text x="320" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#495057">Etterlevelse</text>
+  
+  <!-- Bottom text -->
+  <text x="200" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">Grunnlag for pålitelig finansiell rapportering</text>
+</svg>

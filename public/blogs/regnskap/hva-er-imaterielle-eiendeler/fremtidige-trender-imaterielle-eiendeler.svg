@@ -1,0 +1,299 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#4338ca;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#6366f1;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="futureGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#f0f9ff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#dbeafe;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="techGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#f3e8ff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9d5ff;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="regulatoryGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#ecfdf5;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#d1fae5;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="dataGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#fef3c7;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#fde68a;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#ffffff"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
+  <text x="400" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
+    Fremtidige Trender for Imaterielle Eiendeler
+  </text>
+  
+  <!-- Main content area -->
+  <g transform="translate(50, 100)">
+    
+    <!-- Emerging technologies -->
+    <g transform="translate(0, 0)">
+      <text x="350" y="20" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
+        Nye Teknologier og Eiendeltyper
+      </text>
+      
+      <!-- Four emerging technologies in 2x2 grid -->
+      <g transform="translate(0, 40)">
+        <!-- AI and Machine Learning -->
+        <rect x="0" y="0" width="340" height="120" rx="10" fill="url(#techGradient)" stroke="#8b5cf6" stroke-width="2"/>
+        
+        <g transform="translate(20, 20)">
+          <circle cx="15" cy="15" r="12" fill="#8b5cf6"/>
+          <text x="15" y="20" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">🤖</text>
+          <text x="35" y="20" fill="#7c3aed" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+            Kunstig Intelligens
+          </text>
+        </g>
+        
+        <g transform="translate(20, 50)">
+          <text x="0" y="15" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+            • Algoritmer og maskinlæringsmodeller
+          </text>
+          <text x="0" y="30" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+            • Treningsdata og datasett
+          </text>
+          <text x="0" y="45" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+            • AI-drevne beslutningssystemer
+          </text>
+          <text x="0" y="60" fill="#7c3aed" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+            → Nye verdsettelsesutfordringer
+          </text>
+        </g>
+        
+        <!-- Blockchain and Digital Assets -->
+        <rect x="360" y="0" width="340" height="120" rx="10" fill="url(#dataGradient)" stroke="#f59e0b" stroke-width="2"/>
+        
+        <g transform="translate(380, 20)">
+          <circle cx="15" cy="15" r="12" fill="#f59e0b"/>
+          <text x="15" y="20" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">⛓️</text>
+          <text x="35" y="20" fill="#d97706" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+            Blockchain og Digitale Eiendeler
+          </text>
+        </g>
+        
+        <g transform="translate(380, 50)">
+          <text x="0" y="15" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+            • Kryptovalutaer og digitale tokens
+          </text>
+          <text x="0" y="30" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+            • Smart contracts og DeFi-protokoller
+          </text>
+          <text x="0" y="45" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+            • NFT-er og digitale samleobjekter
+          </text>
+          <text x="0" y="60" fill="#d97706" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+            → Nye kategorier av immaterielle eiendeler
+          </text>
+        </g>
+        
+        <!-- Data as Asset -->
+        <rect x="0" y="140" width="340" height="120" rx="10" fill="url(#futureGradient)" stroke="#3b82f6" stroke-width="2"/>
+        
+        <g transform="translate(20, 160)">
+          <circle cx="15" cy="15" r="12" fill="#3b82f6"/>
+          <text x="15" y="20" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">📊</text>
+          <text x="35" y="20" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+            Data som Eiendel
+          </text>
+        </g>
+        
+        <g transform="translate(20, 190)">
+          <text x="0" y="15" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+            • Strukturerte datasett med kommersiell verdi
+          </text>
+          <text x="0" y="30" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+            • Kundedata og atferdsmønstre
+          </text>
+          <text x="0" y="45" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+            • Proprietære databaser og analyser
+          </text>
+          <text x="0" y="60" fill="#1e40af" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+            → Økende fokus på dataverdi
+          </text>
+        </g>
+        
+        <!-- Digital Twins -->
+        <rect x="360" y="140" width="340" height="120" rx="10" fill="url(#regulatoryGradient)" stroke="#10b981" stroke-width="2"/>
+        
+        <g transform="translate(380, 160)">
+          <circle cx="15" cy="15" r="12" fill="#10b981"/>
+          <text x="15" y="20" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">🔄</text>
+          <text x="35" y="20" fill="#059669" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+            Digitale Tvillinger
+          </text>
+        </g>
+        
+        <g transform="translate(380, 190)">
+          <text x="0" y="15" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+            • Virtuelle representasjoner av fysiske systemer
+          </text>
+          <text x="0" y="30" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+            • Simuleringer og prediktive modeller
+          </text>
+          <text x="0" y="45" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+            • IoT-integrerte overvåkingssystemer
+          </text>
+          <text x="0" y="60" fill="#059669" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+            → Nye former for teknologieiendeler
+          </text>
+        </g>
+      </g>
+    </g>
+    
+    <!-- Regulatory developments -->
+    <g transform="translate(0, 300)">
+      <text x="350" y="20" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
+        Regulatoriske Utviklingstrekk
+      </text>
+      
+      <!-- Timeline of regulatory changes -->
+      <g transform="translate(50, 40)">
+        <!-- Timeline line -->
+        <line x1="0" y1="50" x2="600" y2="50" stroke="#374151" stroke-width="3"/>
+        
+        <!-- Current state -->
+        <g transform="translate(0, 0)">
+          <circle cx="0" cy="50" r="8" fill="#6b7280"/>
+          <rect x="-60" y="70" width="120" height="80" rx="5" fill="#f9fafb" stroke="#d1d5db" stroke-width="1"/>
+          <text x="0" y="90" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+            I dag (2024)
+          </text>
+          <text x="0" y="110" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+            • Tradisjonelle standarder
+          </text>
+          <text x="0" y="125" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+            • Begrenset digital fokus
+          </text>
+          <text x="0" y="140" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+            • Fragmenterte regler
+          </text>
+        </g>
+        
+        <!-- Near future -->
+        <g transform="translate(200, 0)">
+          <circle cx="0" cy="50" r="8" fill="#f59e0b"/>
+          <rect x="-60" y="70" width="120" height="80" rx="5" fill="url(#dataGradient)" stroke="#f59e0b" stroke-width="1"/>
+          <text x="0" y="90" text-anchor="middle" fill="#d97706" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+            2025-2027
+          </text>
+          <text x="0" y="110" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+            • Utvidet definisjon
+          </text>
+          <text x="0" y="125" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+            • Digitale eiendeler inkludert
+          </text>
+          <text x="0" y="140" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+            • Nye verdsettelsesmetoder
+          </text>
+        </g>
+        
+        <!-- Medium term -->
+        <g transform="translate(400, 0)">
+          <circle cx="0" cy="50" r="8" fill="#3b82f6"/>
+          <rect x="-60" y="70" width="120" height="80" rx="5" fill="url(#futureGradient)" stroke="#3b82f6" stroke-width="1"/>
+          <text x="0" y="90" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+            2028-2030
+          </text>
+          <text x="0" y="110" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+            • Forbedret måling
+          </text>
+          <text x="0" y="125" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+            • AI-basert verdsettelse
+          </text>
+          <text x="0" y="140" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+            • Økt transparens
+          </text>
+        </g>
+        
+        <!-- Long term -->
+        <g transform="translate(600, 0)">
+          <circle cx="0" cy="50" r="8" fill="#10b981"/>
+          <rect x="-60" y="70" width="120" height="80" rx="5" fill="url(#regulatoryGradient)" stroke="#10b981" stroke-width="1"/>
+          <text x="0" y="90" text-anchor="middle" fill="#059669" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+            2030+
+          </text>
+          <text x="0" y="110" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+            • Harmonisering
+          </text>
+          <text x="0" y="125" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+            • Global standardisering
+          </text>
+          <text x="0" y="140" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+            • Automatisert rapportering
+          </text>
+        </g>
+      </g>
+    </g>
+    
+    <!-- Key changes summary -->
+    <g transform="translate(0, 480)">
+      <rect x="0" y="0" width="700" height="100" rx="10" fill="#f8fafc" stroke="#e2e8f0" stroke-width="2"/>
+      
+      <text x="350" y="25" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+        Forventede Endringer i Regnskapsbehandling
+      </text>
+      
+      <g transform="translate(30, 40)">
+        <!-- Changes grid -->
+        <g transform="translate(0, 0)">
+          <circle cx="8" cy="8" r="6" fill="#8b5cf6"/>
+          <text x="8" y="12" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="8">+</text>
+          <text x="20" y="12" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+            <tspan font-weight="bold">Utvidet definisjon:</tspan> Inkludering av AI, data og digitale eiendeler
+          </text>
+        </g>
+        
+        <g transform="translate(0, 25)">
+          <circle cx="8" cy="8" r="6" fill="#3b82f6"/>
+          <text x="8" y="12" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="8">📈</text>
+          <text x="20" y="12" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+            <tspan font-weight="bold">Forbedret måling:</tspan> Nye verdsettelsesmetoder for teknologi og data
+          </text>
+        </g>
+        
+        <g transform="translate(350, 0)">
+          <circle cx="8" cy="8" r="6" fill="#10b981"/>
+          <text x="8" y="12" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="8">👁️</text>
+          <text x="20" y="12" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+            <tspan font-weight="bold">Økt transparens:</tspan> Mer detaljerte opplysningskrav og rapportering
+          </text>
+        </g>
+        
+        <g transform="translate(350, 25)">
+          <circle cx="8" cy="8" r="6" fill="#f59e0b"/>
+          <text x="8" y="12" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="8">🌐</text>
+          <text x="20" y="12" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+            <tspan font-weight="bold">Harmonisering:</tspan> Tilnærming mellom nasjonale og internasjonale standarder
+          </text>
+        </g>
+      </g>
+    </g>
+    
+  </g>
+  
+  <!-- Future vision -->
+  <g transform="translate(50, 520)">
+    <rect x="0" y="0" width="700" height="60" rx="8" fill="#eef2ff" stroke="#6366f1" stroke-width="1"/>
+    
+    <text x="350" y="20" text-anchor="middle" fill="#4338ca" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      Fremtidens Immaterielle Eiendeler
+    </text>
+    
+    <g transform="translate(30, 30)">
+      <text x="0" y="15" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+        Økende digitalisering vil skape nye kategorier av immaterielle eiendeler som krever innovative tilnærminger
+      </text>
+      <text x="0" y="30" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+        til identifisering, verdsettelse og regnskapsføring i den moderne økonomien.
+      </text>
+    </g>
+  </g>
+</svg>

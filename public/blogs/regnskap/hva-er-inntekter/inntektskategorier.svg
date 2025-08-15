@@ -1,0 +1,152 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="driftGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#28a745;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#20c997;stop-opacity:0.8" />
+    </linearGradient>
+    <linearGradient id="finansGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#17a2b8;stop-opacity:0.8" />
+    </linearGradient>
+    <linearGradient id="andreGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffc107;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#fd7e14;stop-opacity:0.8" />
+    </linearGradient>
+    <linearGradient id="ekstraGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#dc3545;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#e83e8c;stop-opacity:0.8" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#333">
+    Hovedkategorier av Inntekter
+  </text>
+  
+  <!-- Central hub -->
+  <circle cx="400" cy="300" r="60" fill="white" stroke="#333" stroke-width="3"/>
+  <text x="400" y="295" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#333">
+    INNTEKTER
+  </text>
+  <text x="400" y="315" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666">
+    Kategorier
+  </text>
+  
+  <!-- Category 1: Driftsinntekter -->
+  <rect x="50" y="100" width="200" height="120" fill="url(#driftGradient)" stroke="#28a745" stroke-width="2" rx="10"/>
+  <text x="150" y="130" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+    DRIFTSINNTEKTER
+  </text>
+  <text x="150" y="155" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+    Fra hovedvirksomhet
+  </text>
+  <text x="70" y="180" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Salg av varer
+  </text>
+  <text x="70" y="195" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Tjenesteinntekter
+  </text>
+  <text x="70" y="210" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Leieinntekter
+  </text>
+  
+  <!-- Category 2: Finansinntekter -->
+  <rect x="550" y="100" width="200" height="120" fill="url(#finansGradient)" stroke="#0066cc" stroke-width="2" rx="10"/>
+  <text x="650" y="130" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+    FINANSINNTEKTER
+  </text>
+  <text x="650" y="155" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+    Fra finansielle aktiviteter
+  </text>
+  <text x="570" y="180" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Renteinntekter
+  </text>
+  <text x="570" y="195" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Utbytte
+  </text>
+  <text x="570" y="210" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Gevinster
+  </text>
+  
+  <!-- Category 3: Andre inntekter -->
+  <rect x="50" y="480" width="200" height="120" fill="url(#andreGradient)" stroke="#ffc107" stroke-width="2" rx="10"/>
+  <text x="150" y="510" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+    ANDRE INNTEKTER
+  </text>
+  <text x="150" y="535" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+    Utenfor normal drift
+  </text>
+  <text x="70" y="560" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Offentlige tilskudd
+  </text>
+  <text x="70" y="575" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Forsikringsoppgjør
+  </text>
+  <text x="70" y="590" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Gevinst ved salg
+  </text>
+  
+  <!-- Category 4: Ekstraordinære inntekter -->
+  <rect x="550" y="480" width="200" height="120" fill="url(#ekstraGradient)" stroke="#dc3545" stroke-width="2" rx="10"/>
+  <text x="650" y="510" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+    EKSTRAORDINÆRE
+  </text>
+  <text x="650" y="530" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+    INNTEKTER
+  </text>
+  <text x="650" y="555" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+    Sjeldne hendelser
+  </text>
+  <text x="570" y="580" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Engangstilfeller
+  </text>
+  <text x="570" y="595" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Uvanlige hendelser
+  </text>
+  
+  <!-- Connecting lines -->
+  <line x1="250" y1="160" x2="350" y2="260" stroke="#28a745" stroke-width="3"/>
+  <line x1="550" y1="160" x2="450" y2="260" stroke="#0066cc" stroke-width="3"/>
+  <line x1="250" y1="540" x2="350" y2="340" stroke="#ffc107" stroke-width="3"/>
+  <line x1="550" y1="540" x2="450" y2="340" stroke="#dc3545" stroke-width="3"/>
+  
+  <!-- Percentage indicators -->
+  <circle cx="150" cy="80" r="25" fill="#28a745" opacity="0.9"/>
+  <text x="150" y="88" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+    85%
+  </text>
+  
+  <circle cx="650" cy="80" r="25" fill="#0066cc" opacity="0.9"/>
+  <text x="650" y="88" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+    10%
+  </text>
+  
+  <circle cx="150" cy="460" r="25" fill="#ffc107" opacity="0.9"/>
+  <text x="150" y="468" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+    4%
+  </text>
+  
+  <circle cx="650" cy="460" r="25" fill="#dc3545" opacity="0.9"/>
+  <text x="650" y="468" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+    1%
+  </text>
+  
+  <!-- Legend -->
+  <rect x="300" y="380" width="200" height="60" fill="white" stroke="#dee2e6" stroke-width="1" rx="5"/>
+  <text x="400" y="400" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#333">
+    Typisk fordeling
+  </text>
+  <text x="400" y="420" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+    Prosentsatser viser gjennomsnittlig
+  </text>
+  <text x="400" y="435" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+    fordeling i norske virksomheter
+  </text>
+</svg>

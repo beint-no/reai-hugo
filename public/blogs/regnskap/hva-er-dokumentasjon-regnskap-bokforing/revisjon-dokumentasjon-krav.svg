@@ -1,0 +1,188 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="auditGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#E91E63;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#C2185B;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="requirementGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3F51B5;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#303F9F;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="documentGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#607D8B;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#455A64;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="3" dy="3" stdDeviation="4" flood-color="#000000" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#333">
+    Revisjon og Dokumentasjonskrav
+  </text>
+  
+  <!-- Main audit section -->
+  <rect x="250" y="60" width="300" height="80" rx="15" fill="url(#auditGradient)" filter="url(#shadow)"/>
+  <text x="400" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+    REVISJONSKLARE DOKUMENTER
+  </text>
+  <text x="400" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    Krav fra revisor for godkjent dokumentasjon
+  </text>
+  
+  <!-- Four main requirements -->
+  
+  <!-- 1. Komplett dokumentasjon -->
+  <rect x="50" y="180" width="160" height="120" rx="12" fill="url(#requirementGradient)" filter="url(#shadow)"/>
+  <text x="130" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    KOMPLETT
+  </text>
+  <text x="130" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    DOKUMENTASJON
+  </text>
+  <text x="130" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Alle transaksjoner
+  </text>
+  <text x="130" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    må være dokumentert
+  </text>
+  <text x="130" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Ingen manglende bilag
+  </text>
+  
+  <!-- 2. Sporbarhet -->
+  <rect x="240" y="180" width="160" height="120" rx="12" fill="url(#requirementGradient)" filter="url(#shadow)"/>
+  <text x="320" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    SPORBARHET
+  </text>
+  <text x="320" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Klar sammenheng mellom
+  </text>
+  <text x="320" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    bilag og regnskapsføring
+  </text>
+  <text x="320" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Tydelig revisjonsspor
+  </text>
+  <text x="320" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Nummererte referanser
+  </text>
+  
+  <!-- 3. Tilgjengelighet -->
+  <rect x="430" y="180" width="160" height="120" rx="12" fill="url(#requirementGradient)" filter="url(#shadow)"/>
+  <text x="510" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    TILGJENGELIGHET
+  </text>
+  <text x="510" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Rask tilgang til alle
+  </text>
+  <text x="510" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    relevante dokumenter
+  </text>
+  <text x="510" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Organisert arkivstruktur
+  </text>
+  <text x="510" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Digital søkefunksjon
+  </text>
+  
+  <!-- 4. Forklaringer -->
+  <rect x="620" y="180" width="160" height="120" rx="12" fill="url(#requirementGradient)" filter="url(#shadow)"/>
+  <text x="700" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    FORKLARINGER
+  </text>
+  <text x="700" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Tilstrekkelige notater
+  </text>
+  <text x="700" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    og forklaringer
+  </text>
+  <text x="700" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Kontekstuelle opplysninger
+  </text>
+  <text x="700" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    • Begrunnelser for valg
+  </text>
+  
+  <!-- Preparation section -->
+  <rect x="150" y="340" width="500" height="100" rx="15" fill="url(#documentGradient)" filter="url(#shadow)"/>
+  <text x="400" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    FORBEREDELSE TIL REVISJON
+  </text>
+  <text x="200" y="390" font-family="Arial, sans-serif" font-size="12" fill="white">
+    • Organisert arkiv med tydelig struktur
+  </text>
+  <text x="200" y="405" font-family="Arial, sans-serif" font-size="12" fill="white">
+    • Komplette arbeidspapirer og støttedokumentasjon
+  </text>
+  <text x="200" y="420" font-family="Arial, sans-serif" font-size="12" fill="white">
+    • Oppdaterte avstemminger og kontroller
+  </text>
+  
+  <!-- Icons -->
+  <!-- Checklist icon for completeness -->
+  <g transform="translate(70, 320)">
+    <rect x="0" y="0" width="20" height="25" fill="#fff" rx="2"/>
+    <path d="M 3 8 L 7 12 L 17 5" stroke="#4CAF50" stroke-width="2" fill="none"/>
+    <path d="M 3 15 L 7 19 L 17 12" stroke="#4CAF50" stroke-width="2" fill="none"/>
+  </g>
+  
+  <!-- Chain link icon for traceability -->
+  <g transform="translate(260, 320)">
+    <circle cx="8" cy="10" r="6" fill="none" stroke="#fff" stroke-width="2"/>
+    <circle cx="18" cy="10" r="6" fill="none" stroke="#fff" stroke-width="2"/>
+    <rect x="8" y="7" width="10" height="6" fill="none" stroke="#fff" stroke-width="2"/>
+  </g>
+  
+  <!-- Folder icon for accessibility -->
+  <g transform="translate(450, 320)">
+    <path d="M 2 8 L 2 22 L 22 22 L 22 10 L 12 10 L 10 8 Z" fill="#fff"/>
+    <rect x="6" y="12" width="12" height="2" fill="#3F51B5"/>
+    <rect x="6" y="16" width="8" height="2" fill="#3F51B5"/>
+  </g>
+  
+  <!-- Note icon for explanations -->
+  <g transform="translate(640, 320)">
+    <rect x="2" y="2" width="18" height="22" fill="#fff" rx="2"/>
+    <line x1="6" y1="8" x2="16" y2="8" stroke="#333" stroke-width="1"/>
+    <line x1="6" y1="12" x2="16" y2="12" stroke="#333" stroke-width="1"/>
+    <line x1="6" y1="16" x2="12" y2="16" stroke="#333" stroke-width="1"/>
+  </g>
+  
+  <!-- Connection arrows -->
+  <path d="M 400 150 L 130 170" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)" stroke-dasharray="3,3"/>
+  <path d="M 400 150 L 320 170" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)" stroke-dasharray="3,3"/>
+  <path d="M 400 150 L 510 170" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)" stroke-dasharray="3,3"/>
+  <path d="M 400 150 L 700 170" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)" stroke-dasharray="3,3"/>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#666"/>
+    </marker>
+  </defs>
+  
+  <!-- Quality assurance section -->
+  <rect x="200" y="480" width="400" height="80" rx="10" fill="#fff" stroke="#ddd" stroke-width="2" filter="url(#shadow)"/>
+  <text x="400" y="505" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">
+    KVALITETSSIKRING
+  </text>
+  <text x="220" y="525" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    • Månedlig avstemming: Sammenligning av bilag og bokføring
+  </text>
+  <text x="220" y="540" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    • Kvartalskontroll: Gjennomgang av arkivering og organisering
+  </text>
+  <text x="220" y="555" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    • Årlig revisjon: Komplett gjennomgang av dokumentasjonssystem
+  </text>
+  
+  <!-- Footer -->
+  <text x="400" y="585" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#888">
+    Systematisk tilnærming til revisjonsklare dokumenter
+  </text>
+</svg>

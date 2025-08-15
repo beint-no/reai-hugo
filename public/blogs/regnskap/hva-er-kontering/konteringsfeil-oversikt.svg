@@ -1,0 +1,134 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="errorGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#dc3545;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#c82333;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="solutionGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#dc3545">
+    Vanlige Konteringsfeil og Løsninger
+  </text>
+  
+  <!-- Error 1: Wrong Account -->
+  <rect x="50" y="60" width="320" height="120" fill="#fff5f5" stroke="#dc3545" stroke-width="2" rx="8"/>
+  <rect x="60" y="70" width="300" height="30" fill="url(#errorGradient)" rx="4"/>
+  <text x="210" y="90" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+    FEIL KONTO
+  </text>
+  <text x="70" y="115" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    Problem: Bruk av gal kontoklasse
+  </text>
+  <text x="70" y="130" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    Eksempel: Kontormaterialer på lønnskonto
+  </text>
+  <text x="70" y="145" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    Konsekvens: Feil rapportering og analyse
+  </text>
+  <text x="70" y="165" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#dc3545">
+    Løsning: Grundig bilagsanalyse
+  </text>
+  
+  <!-- Error 2: Debit/Credit Error -->
+  <rect x="430" y="60" width="320" height="120" fill="#fff5f5" stroke="#dc3545" stroke-width="2" rx="8"/>
+  <rect x="440" y="70" width="300" height="30" fill="url(#errorGradient)" rx="4"/>
+  <text x="590" y="90" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+    DEBET/KREDIT FEIL
+  </text>
+  <text x="450" y="115" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    Problem: Feil side av kontoen
+  </text>
+  <text x="450" y="130" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    Eksempel: Inntekt på debetsiden
+  </text>
+  <text x="450" y="145" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    Konsekvens: Ubalanse i regnskapet
+  </text>
+  <text x="450" y="165" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#dc3545">
+    Løsning: Forstå kontoenes natur
+  </text>
+  
+  <!-- Error 3: VAT Error -->
+  <rect x="50" y="200" width="320" height="120" fill="#fff5f5" stroke="#dc3545" stroke-width="2" rx="8"/>
+  <rect x="60" y="210" width="300" height="30" fill="url(#errorGradient)" rx="4"/>
+  <text x="210" y="230" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+    MVA-FEIL
+  </text>
+  <text x="70" y="255" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    Problem: Feil MVA-behandling
+  </text>
+  <text x="70" y="270" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    Eksempel: Glemt MVA på kjøp
+  </text>
+  <text x="70" y="285" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    Konsekvens: Feil MVA-oppgave
+  </text>
+  <text x="70" y="305" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#dc3545">
+    Løsning: Kjenn MVA-reglene
+  </text>
+  
+  <!-- Error 4: Period Error -->
+  <rect x="430" y="200" width="320" height="120" fill="#fff5f5" stroke="#dc3545" stroke-width="2" rx="8"/>
+  <rect x="440" y="210" width="300" height="30" fill="url(#errorGradient)" rx="4"/>
+  <text x="590" y="230" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+    PERIODISERINGSFEIL
+  </text>
+  <text x="450" y="255" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    Problem: Feil periode
+  </text>
+  <text x="450" y="270" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    Eksempel: Desember-kostnad i januar
+  </text>
+  <text x="450" y="285" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    Konsekvens: Feil periodisering
+  </text>
+  <text x="450" y="305" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#dc3545">
+    Løsning: Forstå periodiseringsprinsippet
+  </text>
+  
+  <!-- Best Practices Section -->
+  <rect x="100" y="340" width="600" height="140" fill="url(#solutionGradient)" rx="10"/>
+  <text x="400" y="370" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+    BESTE PRAKSIS FOR FEILFRI KONTERING
+  </text>
+  
+  <!-- Best Practice Items -->
+  <circle cx="140" cy="395" r="12" fill="white"/>
+  <text x="140" y="401" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="#28a745">1</text>
+  <text x="165" y="400" font-family="Arial, sans-serif" font-size="14" fill="white">Systematisk tilnærming - følg samme prosess hver gang</text>
+  
+  <circle cx="140" cy="420" r="12" fill="white"/>
+  <text x="140" y="426" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="#28a745">2</text>
+  <text x="165" y="425" font-family="Arial, sans-serif" font-size="14" fill="white">Grundig dokumentasjon - noter begrunnelse for komplekse konteringer</text>
+  
+  <circle cx="140" cy="445" r="12" fill="white"/>
+  <text x="140" y="451" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="#28a745">3</text>
+  <text x="165" y="450" font-family="Arial, sans-serif" font-size="14" fill="white">Regelmessig avstemming - kontroller at alt balanserer</text>
+  
+  <circle cx="140" cy="470" r="12" fill="white"/>
+  <text x="140" y="476" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="#28a745">4</text>
+  <text x="165" y="475" font-family="Arial, sans-serif" font-size="14" fill="white">Kontinuerlig læring - hold deg oppdatert på regnskapsregler</text>
+  
+  <!-- Warning Icons -->
+  <circle cx="30" cy="120" r="20" fill="#dc3545"/>
+  <text x="30" y="130" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="white">!</text>
+  
+  <circle cx="30" cy="260" r="20" fill="#dc3545"/>
+  <text x="30" y="270" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="white">!</text>
+  
+  <!-- Success Icon -->
+  <circle cx="70" cy="400" r="25" fill="white" stroke="#28a745" stroke-width="3"/>
+  <text x="70" y="410" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="#28a745">✓</text>
+</svg>
