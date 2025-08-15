@@ -2,43 +2,47 @@
 <section class="pt-10 md:pt-14">
   <div class="max-w-5xl mx-auto px-4">
     <h1 class="text-3xl font-semibold tracking-tight">Regnskapsblogg</h1>
-    {{/* Fetch the accounting subsection under blog and paginate its pages */}}
-    {{ $regnskap := site.GetPage "section" "blog/regnskap" }}
-    {{ $pages := slice }}
-    {{ with $regnskap }}
-      {{ $pages = .RegularPages.ByDate.Reverse }}
+    {{/* Hent alle artikler under /blog (inkl. undersseksjoner) uten paginering */}}
+    {{ $all := slice }}
+    {{ $blog := site.GetPage "section" "blog" }}
+    {{ with $blog }}
+      {{ $all = .RegularPagesRecursive.ByDate.Reverse }}
     {{ end }}
-    {{ if gt (len $pages) 0 }}
-      {{ $p := .Paginate $pages }}
+
+    {{ if gt (len $all) 0 }}
       <div class="mt-8 space-y-6">
-        {{ range $p.Pages }}
-        {{ $pg := . }}
+        {{ range $all }}
+        {{ $page := . }}
         <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5 flex gap-4">
-          {{ with $pg.Params.featured_image }}
-            {{ $img := $pg.Resources.GetMatch . }}
-            {{ if $img }}
-              <img src="{{ $img.RelPermalink }}" alt="{{ with $pg.Params.featured_image_alt }}{{ . }}{{ else }}Illustrasjon{{ end }}" class="w-16 h-16 object-contain" />
+          {{/* Finn korrekt bildekilde, støtt også SVG fra /static eller absolutte URLer */}}
+          {{ $imgSrc := "" }}
+          {{ with $page.Params.featured_image }}
+            {{ $feat := . }}
+            {{ $s := newScratch }}
+            {{ if or (hasPrefix $feat "/") (hasPrefix $feat "http") }}
+              {{ $s.Set "src" $feat }}
             {{ else }}
-              <img src="{{ printf "%s%s" $pg.RelPermalink . }}" alt="{{ with $pg.Params.featured_image_alt }}{{ . }}{{ else }}Illustrasjon{{ end }}" class="w-16 h-16 object-contain" />
+              {{ with $page.Resources.GetMatch $feat }}
+                {{ $s.Set "src" .RelPermalink }}
+              {{ else }}
+                {{ $s.Set "src" $feat }}
+              {{ end }}
             {{ end }}
+            {{ $imgSrc = $s.Get "src" }}
+          {{ end }}
+          {{ with $imgSrc }}
+            <img loading="lazy" src="{{ . }}" alt="{{ with $page.Params.featured_image_alt }}{{ . }}{{ else }}Illustrasjon{{ end }}" class="w-16 h-16 object-contain" />
           {{ end }}
           <div>
-            <h2 class="text-xl font-semibold"><a href="{{ $pg.RelPermalink }}">{{ $pg.Title }}</a></h2>
-            {{ with $pg.Params.summary }}<p class="text-gray-700 mt-1">{{ . }}</p>{{ end }}
+            <h2 class="text-xl font-semibold"><a href="{{ $page.RelPermalink }}">{{ $page.Title }}</a></h2>
+            {{ with $page.Params.summary }}<p class="text-gray-700 mt-1">{{ . }}</p>{{ end }}
           </div>
         </article>
         {{ end }}
       </div>
-      {{ if gt $p.TotalPages 1 }}
-      <nav class="mt-8 flex items-center justify-center gap-3 text-sm">
-        {{ with $p.Prev }}<a class="px-3 py-1 rounded ring-1 ring-gray-300 hover:bg-gray-50" href="{{ .URL }}">Previous</a>{{ end }}
-        <span class="px-3 py-1">Page {{ $p.PageNumber }} of {{ $p.TotalPages }}</span>
-        {{ with $p.Next }}<a class="px-3 py-1 rounded ring-1 ring-gray-300 hover:bg-gray-50" href="{{ .URL }}">Next</a>{{ end }}
-      </nav>
-      {{ end }}
     {{ else }}
       <div class="mt-8">
-        <p class="text-gray-600">No accounting articles found.</p>
+        <p class="text-gray-600">Ingen artikler funnet.</p>
       </div>
     {{ end }}
   </div>

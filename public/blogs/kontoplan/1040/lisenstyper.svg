@@ -1,0 +1,119 @@
+<svg width="500" height="350" viewBox="0 0 500 350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="techGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e3f2fd;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1976d2;stop-opacity:0.8" />
+    </linearGradient>
+    <linearGradient id="softwareGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f3e5f5;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7b1fa2;stop-opacity:0.8" />
+    </linearGradient>
+    <linearGradient id="brandGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e8f5e8;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#388e3c;stop-opacity:0.8" />
+    </linearGradient>
+    <linearGradient id="franchiseGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#fff3e0;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f57c00;stop-opacity:0.8" />
+    </linearGradient>
+    <filter id="cardShadow">
+      <feDropShadow dx="3" dy="3" stdDeviation="3" flood-color="#000" flood-opacity="0.2"/>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="500" height="350" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1"/>
+  
+  <!-- Title -->
+  <text x="250" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#333">Forskjellige Typer Lisenser</text>
+  
+  <!-- Technology Licenses -->
+  <rect x="20" y="50" width="220" height="130" fill="url(#techGradient)" stroke="#1976d2" stroke-width="2" rx="8" filter="url(#cardShadow)"/>
+  <text x="130" y="75" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#1976d2">TEKNOLOGILISENSER</text>
+  
+  <!-- Tech icon -->
+  <g transform="translate(35, 85)">
+    <rect x="0" y="0" width="20" height="15" fill="none" stroke="#1976d2" stroke-width="2" rx="2"/>
+    <line x1="5" y1="4" x2="15" y2="4" stroke="#1976d2" stroke-width="1"/>
+    <line x1="5" y1="7" x2="15" y2="7" stroke="#1976d2" stroke-width="1"/>
+    <line x1="5" y1="10" x2="15" y2="10" stroke="#1976d2" stroke-width="1"/>
+    <circle cx="25" cy="7" r="3" fill="#1976d2"/>
+  </g>
+  
+  <text x="30" y="115" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1976d2">Eksempler:</text>
+  <text x="30" y="130" font-family="Arial, sans-serif" font-size="9" fill="#333">• Produksjonsteknologi</text>
+  <text x="30" y="142" font-family="Arial, sans-serif" font-size="9" fill="#333">• Prosesslisenser</text>
+  <text x="30" y="154" font-family="Arial, sans-serif" font-size="9" fill="#333">• Designlisenser</text>
+  <text x="30" y="166" font-family="Arial, sans-serif" font-size="9" fill="#333">• Know-how overføring</text>
+  
+  <!-- Software Licenses -->
+  <rect x="260" y="50" width="220" height="130" fill="url(#softwareGradient)" stroke="#7b1fa2" stroke-width="2" rx="8" filter="url(#cardShadow)"/>
+  <text x="370" y="75" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#7b1fa2">PROGRAMVARELISENSER</text>
+  
+  <!-- Software icon -->
+  <g transform="translate(275, 85)">
+    <rect x="0" y="0" width="18" height="22" fill="none" stroke="#7b1fa2" stroke-width="2" rx="2"/>
+    <rect x="3" y="3" width="12" height="8" fill="#7b1fa2" opacity="0.3"/>
+    <line x1="5" y1="14" x2="13" y2="14" stroke="#7b1fa2" stroke-width="1"/>
+    <line x1="5" y1="17" x2="13" y2="17" stroke="#7b1fa2" stroke-width="1"/>
+    <line x1="5" y1="20" x2="13" y2="20" stroke="#7b1fa2" stroke-width="1"/>
+  </g>
+  
+  <text x="270" y="115" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#7b1fa2">Eksempler:</text>
+  <text x="270" y="130" font-family="Arial, sans-serif" font-size="9" fill="#333">• ERP-systemer</text>
+  <text x="270" y="142" font-family="Arial, sans-serif" font-size="9" fill="#333">• Spesialiserte applikasjoner</text>
+  <text x="270" y="154" font-family="Arial, sans-serif" font-size="9" fill="#333">• Utviklingsplattformer</text>
+  <text x="270" y="166" font-family="Arial, sans-serif" font-size="9" fill="#333">• Sikkerhetssystemer</text>
+  
+  <!-- Brand/Trademark Licenses -->
+  <rect x="20" y="190" width="220" height="130" fill="url(#brandGradient)" stroke="#388e3c" stroke-width="2" rx="8" filter="url(#cardShadow)"/>
+  <text x="130" y="215" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#388e3c">VAREMERKELISENSER</text>
+  
+  <!-- Brand icon -->
+  <g transform="translate(35, 225)">
+    <circle cx="10" cy="10" r="8" fill="none" stroke="#388e3c" stroke-width="2"/>
+    <text x="10" y="15" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="#388e3c">®</text>
+    <path d="M20 5 L25 10 L20 15" fill="none" stroke="#388e3c" stroke-width="2"/>
+  </g>
+  
+  <text x="30" y="255" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#388e3c">Eksempler:</text>
+  <text x="30" y="270" font-family="Arial, sans-serif" font-size="9" fill="#333">• Merkevarerettigheter</text>
+  <text x="30" y="282" font-family="Arial, sans-serif" font-size="9" fill="#333">• Logobruk</text>
+  <text x="30" y="294" font-family="Arial, sans-serif" font-size="9" fill="#333">• Produktmerking</text>
+  <text x="30" y="306" font-family="Arial, sans-serif" font-size="9" fill="#333">• Markedsføringsrettigheter</text>
+  
+  <!-- Franchise Rights -->
+  <rect x="260" y="190" width="220" height="130" fill="url(#franchiseGradient)" stroke="#f57c00" stroke-width="2" rx="8" filter="url(#cardShadow)"/>
+  <text x="370" y="215" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#f57c00">FRANCHISERETTIGHETER</text>
+  
+  <!-- Franchise icon -->
+  <g transform="translate(275, 225)">
+    <rect x="0" y="0" width="12" height="18" fill="none" stroke="#f57c00" stroke-width="2" rx="2"/>
+    <rect x="3" y="3" width="6" height="4" fill="#f57c00" opacity="0.5"/>
+    <rect x="15" y="5" width="8" height="8" fill="none" stroke="#f57c00" stroke-width="2" rx="1"/>
+    <line x1="17" y1="7" x2="21" y2="7" stroke="#f57c00" stroke-width="1"/>
+    <line x1="17" y1="9" x2="21" y2="9" stroke="#f57c00" stroke-width="1"/>
+    <line x1="17" y1="11" x2="21" y2="11" stroke="#f57c00" stroke-width="1"/>
+  </g>
+  
+  <text x="270" y="255" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#f57c00">Eksempler:</text>
+  <text x="270" y="270" font-family="Arial, sans-serif" font-size="9" fill="#333">• Forretningskonsepter</text>
+  <text x="270" y="282" font-family="Arial, sans-serif" font-size="9" fill="#333">• Driftsmetoder</text>
+  <text x="270" y="294" font-family="Arial, sans-serif" font-size="9" fill="#333">• Merkevarebruk</text>
+  <text x="270" y="306" font-family="Arial, sans-serif" font-size="9" fill="#333">• Territoriell eksklusivitet</text>
+  
+  <!-- Central connection -->
+  <circle cx="250" cy="175" r="25" fill="white" stroke="#666" stroke-width="2" filter="url(#cardShadow)"/>
+  <text x="250" y="180" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#666">KONTO</text>
+  <text x="250" y="193" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#666">1040</text>
+  
+  <!-- Connection lines -->
+  <line x1="240" y1="115" x2="235" y2="155" stroke="#666" stroke-width="2" opacity="0.5"/>
+  <line x1="260" y1="115" x2="265" y2="155" stroke="#666" stroke-width="2" opacity="0.5"/>
+  <line x1="240" y1="255" x2="235" y2="195" stroke="#666" stroke-width="2" opacity="0.5"/>
+  <line x1="260" y1="255" x2="265" y2="195" stroke="#666" stroke-width="2" opacity="0.5"/>
+  
+  <!-- Bottom note -->
+  <rect x="100" y="335" width="300" height="10" fill="white" stroke="#ccc" stroke-width="1" rx="2"/>
+  <text x="250" y="342" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#666">Alle lisenstyper aktiveres på samme konto men med ulike vurderingskriterier</text>
+</svg>

@@ -1,0 +1,75 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Main title -->
+  <text x="400" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#2c3e50">
+    Konto 1050
+  </text>
+  <text x="400" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#34495e">
+    Varemerker
+  </text>
+  
+  <!-- Main trademark symbol -->
+  <circle cx="400" cy="250" r="80" fill="#3498db" stroke="#2980b9" stroke-width="4"/>
+  <text x="400" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="60" font-weight="bold" fill="white">
+    ®
+  </text>
+  
+  <!-- Left side - Brand examples -->
+  <rect x="50" y="180" width="200" height="40" fill="#e74c3c" rx="20"/>
+  <text x="150" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    MERKEVARE A
+  </text>
+  
+  <rect x="50" y="240" width="200" height="40" fill="#f39c12" rx="20"/>
+  <text x="150" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    MERKEVARE B
+  </text>
+  
+  <rect x="50" y="300" width="200" height="40" fill="#27ae60" rx="20"/>
+  <text x="150" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    MERKEVARE C
+  </text>
+  
+  <!-- Right side - Key features -->
+  <rect x="550" y="180" width="200" height="40" fill="#9b59b6" rx="5"/>
+  <text x="650" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    Immaterielle eiendeler
+  </text>
+  
+  <rect x="550" y="240" width="200" height="40" fill="#34495e" rx="5"/>
+  <text x="650" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    Aktivering i balansen
+  </text>
+  
+  <rect x="550" y="300" width="200" height="40" fill="#16a085" rx="5"/>
+  <text x="650" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    Amortisering over tid
+  </text>
+  
+  <!-- Arrows pointing to center -->
+  <path d="M 250 220 L 320 240" stroke="#7f8c8d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  <path d="M 550 220 L 480 240" stroke="#7f8c8d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Bottom info box -->
+  <rect x="200" y="400" width="400" height="120" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2" rx="10"/>
+  <text x="400" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">
+    Varemerkeregnskapet
+  </text>
+  <text x="400" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#34495e">
+    Registrering av varemerkerettigheter
+  </text>
+  <text x="400" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#34495e">
+    som kan aktiveres og amortiseres
+  </text>
+  <text x="400" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#34495e">
+    over varemerkenes levetid
+  </text>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#7f8c8d"/>
+    </marker>
+  </defs>
+</svg>

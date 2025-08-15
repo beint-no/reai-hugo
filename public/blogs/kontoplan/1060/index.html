@@ -1,0 +1,682 @@
+<!doctype html>
+<html lang="nb">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>1060 | ReAI</title>
+  <meta name="description" content="Komplett regnskapssystem med faktura, lønn, bilagsføring og årsoppgjør.">
+  
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<script src="https://cdn.tailwindcss.com?plugins=typography"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        fontFamily: { sans: ['Inter','ui-sans-serif','system-ui','Arial','sans-serif'] },
+        colors: {
+          brand: { DEFAULT: '#111827' },
+          accent: { DEFAULT: '#2563eb' }
+        }
+      }
+    }
+  }
+</script>
+<style>
+   
+  header .header-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #000 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link:hover { background-position: 0; }
+  header .header-link:hover::before { width: 100%; }
+
+  footer .footer-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #ffffff 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link:hover { background-position: 0; }
+  footer .footer-link:hover::before { width: 100%; }
+</style>
+<style>
+   
+  html { font-family: 'Inter', ui-sans-serif, system-ui, Arial, sans-serif; font-size: 16px; }
+  @media (min-width: 768px) { html { font-size: 17px; } }
+  body {
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    font-kerning: normal;
+    font-feature-settings: "kern", "liga", "ss01";
+  }
+  h1, h2, h3, h4, h5, h6 { letter-spacing: -0.01em; }
+  h1 { font-weight: 700; }
+  h2, h3, h4, h5, h6 { font-weight: 600; }
+</style>
+<style>
+   
+  .prose { overflow-wrap: anywhere; word-break: break-word; }
+  .prose img { max-width: 100%; height: auto; }
+  .prose table { display: block; width: 100%; overflow-x: auto; }
+  .prose pre { white-space: pre-wrap; word-break: break-word; overflow-x: auto; }
+  .prose code { word-break: break-word; }
+  .prose iframe, .prose video { max-width: 100%; width: 100%; height: auto; }
+</style>
+<style>
+   
+  button,
+  .btn,
+  a.btn,
+  .button,
+  .cta,
+  .link-button,
+   
+  a.inline-flex.rounded-md,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"] {
+    transition: transform 220ms ease, box-shadow 220ms ease, background-color 220ms ease, color 220ms ease, opacity 220ms ease;
+    will-change: transform, box-shadow;
+  }
+
+  button:hover,
+  .btn:hover,
+  a.btn:hover,
+  .button:hover,
+  .cta:hover,
+  .link-button:hover,
+  a.inline-flex.rounded-md:hover,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+
+  button:active,
+  .btn:active,
+  a.btn:active,
+  .button:active,
+  .cta:active,
+  .link-button:active,
+  a.inline-flex.rounded-md:active,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:active {
+    transform: translateY(-1px) scale(0.99);
+    box-shadow: 0 6px 12px rgba(2, 6, 23, 0.1);
+  }
+
+  button:focus-visible,
+  .btn:focus-visible,
+  a.btn:focus-visible,
+  .button:focus-visible,
+  .cta:focus-visible,
+  .link-button:focus-visible,
+  a.inline-flex.rounded-md:focus-visible,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.35), 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+</style>
+
+<link rel="icon" type="image/svg+xml" href="/images/ReAI-logo-square.svg">
+<link rel="shortcut icon" href="/images/ReAI-logo-square.svg">
+
+</head>
+<body class="min-h-dvh bg-white text-gray-900 font-sans">
+  <header class="sticky top-0 z-40 bg-white/80 backdrop-blur">
+  
+  <div class="border-b border-slate-200/70">
+    <div class="max-w-7xl mx-auto px-4">
+      <div class="h-16 flex items-center justify-between">
+        <a href="/" class="flex items-center gap-2" aria-label="ReAI">
+          <img src="/images/ReAI-logo-square.svg?v=4" alt="ReAI logo" class="h-14 w-14 rounded-md mt-5" width="56" height="56" loading="eager" decoding="async">
+        </a>
+        <nav class="hidden md:block">
+          <ul class="flex items-center gap-5 text-sm">
+            <li><a href="/courses/" class="header-link text-slate-700 hover:text-black">Gratis kurs</a></li>
+            <li><a href="/contact/" class="header-link text-slate-700 hover:text-black">Kontakt oss</a></li>
+            <li><a href="/blog/" class="header-link text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+            <li><a href="/blog/kontoplan/" class="header-link text-slate-700 hover:text-black">Kontoplan</a></li>
+            <li><a href="/bli-partner/" class="header-link text-slate-700 hover:text-black">Bli partner</a></li>
+            <li><a href="/fakturamal/" class="header-link text-slate-700 hover:text-black">Lag faktura</a></li>
+          </ul>
+        </nav>
+        <button id="mobileMenuBtn" aria-controls="mobileMenu" aria-expanded="false" class="md:hidden inline-flex items-center justify-center h-9 w-9 rounded-md border border-slate-300">
+          <span class="sr-only">Meny</span>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-5 w-5"><path d="M3.75 6.75h16.5v1.5H3.75zM3.75 11.25h16.5v1.5H3.75zM3.75 15.75h16.5v1.5H3.75z"/></svg>
+        </button>
+      </div>
+    </div>
+  </div>
+  
+  <nav id="mobileMenu" class="md:hidden hidden border-b border-slate-200/70 bg-white/95 backdrop-blur">
+    <div class="max-w-7xl mx-auto px-4 py-3">
+      <ul class="flex flex-col items-center gap-3 text-sm text-center">
+        <li><a href="/courses/" class="header-link block text-slate-700 hover:text-black">Gratis kurs</a></li>
+        <li><a href="/contact/" class="header-link block text-slate-700 hover:text-black">Kontakt oss</a></li>
+        <li><a href="/blog/" class="header-link block text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+        <li><a href="/blog/kontoplan/" class="header-link block text-slate-700 hover:text-black">Kontoplan</a></li>
+        <li><a href="/bli-partner/" class="header-link block text-slate-700 hover:text-black">Bli partner</a></li>
+        <li><a href="/fakturamal/" class="header-link block text-slate-700 hover:text-black">Lag faktura</a></li>
+      </ul>
+    </div>
+  </nav>
+  <script>
+    (function() {
+      const btn = document.getElementById('mobileMenuBtn');
+      const menu = document.getElementById('mobileMenu');
+      if (!btn || !menu) return;
+      btn.addEventListener('click', function() {
+        const isHidden = menu.classList.contains('hidden');
+        menu.classList.toggle('hidden');
+        btn.setAttribute('aria-expanded', String(isHidden));
+      });
+    })();
+  </script>
+</header>
+  <main>
+    
+<section class="pt-10 md:pt-14">
+  <div class="max-w-3xl mx-auto px-4">
+    <h1 class="text-3xl font-semibold tracking-tight text-center">1060</h1>
+    
+    <article class="prose max-w-none mt-6"><p><strong>Konto 1060 - Andre rettigheter</strong> er en viktig konto i norsk kontoplan som anvendes for å registrere <a href="/blogs/regnskap/hva-er-imaterielle-eiendeler" title="Hva er Imaterielle Eiendeler?">immaterielle eiendeler</a> knyttet til ulike typer rettigheter som ikke dekkes av andre spesifikke kontoer. Denne kontoen brukes når virksomheter erverver eller utvikler rettigheter som kan <a href="/blogs/regnskap/hva-er-aktivering" title="Hva er Aktivering i Regnskap?">aktiveres</a> i <a href="/blogs/regnskap/hva-er-balanse" title="Hva er Balanse?">balansen</a> og <a href="/blogs/regnskap/hva-er-amortisering" title="Hva er Amortisering?">amortiseres</a> over rettighetenes levetid.</p>
+<p><img src="1060-andre-rettigheter-image.svg" alt="Illustrasjon av konto 1060 andre rettigheter"></p>
+<h2 id="hva-er-andre-rettigheter">Hva er andre rettigheter?</h2>
+<p><strong>Andre rettigheter</strong> omfatter et bredt spekter av immaterielle eiendeler som gir virksomheten juridiske eller økonomiske fordeler. Disse rettighetene kan være av ulik karakter og varighet:</p>
+<h3 id="hovedtyper-av-andre-rettigheter">Hovedtyper av andre rettigheter</h3>
+<ul>
+<li><strong>Opphavsrettigheter</strong> - litterære, kunstneriske og vitenskapelige verk</li>
+<li><strong>Designrettigheter</strong> - beskyttelse av industrielt design og mønstre</li>
+<li><strong>Kundekontrakter</strong> - langsiktige avtaler med kunder</li>
+<li><strong>Leverandøravtaler</strong> - fordelaktige leverandørforhold</li>
+<li><strong>Teknologirettigheter</strong> - know-how og teknisk kunnskap</li>
+<li><strong>Bruksrettigheter</strong> - rettigheter til bruk av andres eiendeler</li>
+<li><strong>Distribusjonsrettigheter</strong> - eksklusive salgs- og distribusjonsrettigheter</li>
+<li><strong>Franchiserettigheter</strong> - rettigheter til å drive under etablerte konsepter</li>
+</ul>
+<p><img src="andre-rettigheter-kategorier.svg" alt="Oversikt over andre rettigheter"></p>
+<h2 id="kriterier-for-aktivering-av-andre-rettigheter">Kriterier for aktivering av andre rettigheter</h2>
+<p>For at andre rettigheter kan aktiveres på konto 1060, må de oppfylle standardkriteriene for <a href="/blogs/regnskap/hva-er-imaterielle-eiendeler" title="Hva er Imaterielle Eiendeler?">immaterielle eiendeler</a>:</p>
+<h3 id="1-identifiserbar-ressurs">1. Identifiserbar ressurs</h3>
+<p>Rettigheten må være <strong>identifiserbar</strong> gjennom:</p>
+<ul>
+<li>Separerbarhet fra virksomheten</li>
+<li>Juridisk håndheving av rettigheten</li>
+<li>Overdragbarhet til tredjeparter</li>
+<li>Spesifikk kontraktsmessig beskyttelse</li>
+</ul>
+<h3 id="2-kontrollerbar-ressurs">2. Kontrollerbar ressurs</h3>
+<p>Virksomheten må ha <strong>kontroll</strong> over rettigheten gjennom:</p>
+<ul>
+<li>Juridisk eiendomsrett eller bruksrett</li>
+<li>Kontraktsmessige rettigheter</li>
+<li>Faktisk kontroll over ressursen</li>
+<li>Mulighet til å begrense andres tilgang</li>
+</ul>
+<h3 id="3-fremtidige-økonomiske-fordeler">3. Fremtidige økonomiske fordeler</h3>
+<p>Rettigheten må kunne generere <strong>økonomiske fordeler</strong> gjennom:</p>
+<ul>
+<li>Direkte inntektsgenerering</li>
+<li>Kostnadsbesparelser</li>
+<li>Konkurransefordeler</li>
+<li>Markedsposisjonering</li>
+</ul>
+<h3 id="4-pålitelig-kostnadsmåling">4. Pålitelig kostnadsmåling</h3>
+<p><strong>Anskaffelseskostnaden</strong> må kunne måles pålitelig og inkludere:</p>
+<ul>
+<li>Kjøpspris eller utviklingskostnader</li>
+<li>Juridiske kostnader og gebyrer</li>
+<li>Konsulenthonorar</li>
+<li>Registrerings- og dokumentasjonskostnader</li>
+</ul>
+<h2 id="regnskapsføring-av-andre-rettigheter">Regnskapsføring av andre rettigheter</h2>
+<h3 id="førstegangsinnregning">Førstegangsinnregning</h3>
+<p>Ved <strong>anskaffelse</strong> av andre rettigheter registreres <a href="/blogs/regnskap/hva-er-anskaffelseskost" title="Hva er Anskaffelseskost?">anskaffelseskostnaden</a>:</p>
+<table>
+  <thead>
+      <tr>
+          <th>Kostnadskategori</th>
+          <th>Inkluderes</th>
+          <th>Eksempel</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>Kjøpspris</strong></td>
+          <td>✓</td>
+          <td>Faktisk betalt beløp</td>
+      </tr>
+      <tr>
+          <td><strong>Juridiske kostnader</strong></td>
+          <td>✓</td>
+          <td>Advokat- og notariuskostnader</td>
+      </tr>
+      <tr>
+          <td><strong>Konsulenthonorar</strong></td>
+          <td>✓</td>
+          <td>Profesjonelle tjenester</td>
+      </tr>
+      <tr>
+          <td><strong>Registreringsgebyrer</strong></td>
+          <td>✓</td>
+          <td>Offentlige avgifter</td>
+      </tr>
+      <tr>
+          <td><strong>Transaksjonskostnader</strong></td>
+          <td>✓</td>
+          <td>Meglerkostnader</td>
+      </tr>
+      <tr>
+          <td><strong>Vedlikeholdskostnader</strong></td>
+          <td>✗</td>
+          <td>Kostnadsføres løpende</td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="internt-utviklede-rettigheter">Internt utviklede rettigheter</h3>
+<p>For <strong>internt utviklede rettigheter</strong> kan disse kostnadene aktiveres:</p>
+<ul>
+<li>Direkte personalkostnader</li>
+<li>Materialforbruk og tjenester</li>
+<li>Prosjektrelaterte kostnader</li>
+<li>Juridiske kostnader for registrering</li>
+</ul>
+<p><img src="aktivering-andre-rettigheter.svg" alt="Prosess for aktivering av andre rettigheter"></p>
+<h2 id="amortisering-av-andre-rettigheter">Amortisering av andre rettigheter</h2>
+<h3 id="amortiseringsperiode">Amortiseringsperiode</h3>
+<p>Andre rettigheter amortiseres over deres <strong>økonomiske levetid</strong>:</p>
+<table>
+  <thead>
+      <tr>
+          <th>Rettighetstype</th>
+          <th>Typisk amortiseringsperiode</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>Opphavsrettigheter</strong></td>
+          <td>5-20 år</td>
+      </tr>
+      <tr>
+          <td><strong>Designrettigheter</strong></td>
+          <td>5-15 år</td>
+      </tr>
+      <tr>
+          <td><strong>Kundekontrakter</strong></td>
+          <td>Kontraktslengde</td>
+      </tr>
+      <tr>
+          <td><strong>Leverandøravtaler</strong></td>
+          <td>Avtalens varighet</td>
+      </tr>
+      <tr>
+          <td><strong>Teknologirettigheter</strong></td>
+          <td>3-10 år</td>
+      </tr>
+      <tr>
+          <td><strong>Bruksrettigheter</strong></td>
+          <td>Bruksperiode</td>
+      </tr>
+      <tr>
+          <td><strong>Distribusjonsrettigheter</strong></td>
+          <td>5-15 år</td>
+      </tr>
+      <tr>
+          <td><strong>Franchiserettigheter</strong></td>
+          <td>Franchiseperiode</td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="amortiseringsmetoder">Amortiseringsmetoder</h3>
+<p><strong>Lineær amortisering</strong> er den vanligste metoden:</p>
+<pre tabindex="0"><code>Årlig amortisering = Aktivert kostnad / Amortiseringsperiode
+</code></pre><p><strong>Eksempel på amortisering:</strong></p>
+<ul>
+<li>Aktivert kostnad for kundekontrakt: NOK 200,000</li>
+<li>Kontraktslengde: 5 år</li>
+<li>Årlig amortisering: NOK 40,000</li>
+</ul>
+<h3 id="verdifall-og-nedskrivning">Verdifall og nedskrivning</h3>
+<p>Andre rettigheter må vurderes for <strong>verdifall</strong> regelmessig:</p>
+<ul>
+<li>Endringer i markedsforhold</li>
+<li>Teknologisk utvikling</li>
+<li>Konkurransesituasjon</li>
+<li>Juridiske endringer</li>
+</ul>
+<h2 id="praktiske-eksempler">Praktiske eksempler</h2>
+<h3 id="eksempel-1-opphavsrettigheter">Eksempel 1: Opphavsrettigheter</h3>
+<p>Et forlag kjøper opphavsrettigheter til en bokutgivelse for NOK 150,000:</p>
+<p><strong>Regnskapsføring ved kjøp:</strong></p>
+<ul>
+<li>Debit: Konto 1060 Andre rettigheter NOK 150,000</li>
+<li>Kredit: Konto 1900 Leverandørgjeld NOK 150,000</li>
+</ul>
+<p><strong>Årlig amortisering (10 år):</strong></p>
+<ul>
+<li>Debit: Konto 6031 Amortisering NOK 15,000</li>
+<li>Kredit: Konto 1060 Andre rettigheter NOK 15,000</li>
+</ul>
+<h3 id="eksempel-2-kundekontrakt">Eksempel 2: Kundekontrakt</h3>
+<p>En IT-bedrift erverver en kunde med 3-årig kontrakt verdt NOK 300,000:</p>
+<p><strong>Regnskapsføring:</strong></p>
+<ul>
+<li>Debit: Konto 1060 Andre rettigheter NOK 300,000</li>
+<li>Kredit: Konto 1900 Leverandørgjeld NOK 300,000</li>
+</ul>
+<p><strong>Årlig amortisering (3 år):</strong></p>
+<ul>
+<li>Debit: Konto 6031 Amortisering NOK 100,000</li>
+<li>Kredit: Konto 1060 Andre rettigheter NOK 100,000</li>
+</ul>
+<h3 id="eksempel-3-franchiserettigheter">Eksempel 3: Franchiserettigheter</h3>
+<p>En restaurantkjede kjøper franchiserettigheter for NOK 400,000 med 8 års varighet:</p>
+<p><strong>Regnskapsføring:</strong></p>
+<ul>
+<li>Debit: Konto 1060 Andre rettigheter NOK 400,000</li>
+<li>Kredit: Konto 1900 Leverandørgjeld NOK 400,000</li>
+</ul>
+<p><strong>Årlig amortisering (8 år):</strong></p>
+<ul>
+<li>Debit: Konto 6031 Amortisering NOK 50,000</li>
+<li>Kredit: Konto 1060 Andre rettigheter NOK 50,000</li>
+</ul>
+<h2 id="forhold-til-andre-kontoer">Forhold til andre kontoer</h2>
+<h3 id="tilknyttede-anleggsmidler">Tilknyttede <a href="/blogs/regnskap/hva-er-anleggsmidler" title="Hva er Anleggsmidler?">anleggsmidler</a>:</h3>
+<ul>
+<li><strong><a href="/blogs/kontoplan/1000" title="Konto 1000 - Forskning og utvikling">Konto 1000</a></strong> - Forskning og utvikling</li>
+<li><strong><a href="/blogs/kontoplan/1020" title="Konto 1020 - Konsesjoner">Konto 1020</a></strong> - Konsesjoner</li>
+<li><strong><a href="/blogs/kontoplan/1030" title="Konto 1030 - Patenter">Konto 1030</a></strong> - Patenter</li>
+<li><strong><a href="/blogs/kontoplan/1040" title="Konto 1040 - Lisenser">Konto 1040</a></strong> - Lisenser</li>
+<li><strong><a href="/blogs/kontoplan/1050" title="Konto 1050 - Varemerker">Konto 1050</a></strong> - Varemerker</li>
+<li><strong><a href="/blogs/kontoplan/1080-goodwill" title="Konto 1080 - Goodwill">Konto 1080</a></strong> - Goodwill</li>
+</ul>
+<h3 id="kostnadskontoer">Kostnadskontoer:</h3>
+<ul>
+<li><strong><a href="/blogs/kontoplan/6020-avskrivning-pa-immatrielle-eiendeler" title="Konto 6020 - Avskrivning på immaterielle eiendeler">Konto 6020</a></strong> - Avskrivning på immaterielle eiendeler</li>
+<li><strong>Konto 6032</strong> - Nedskrivning av immaterielle eiendeler</li>
+</ul>
+<p><img src="andre-rettigheter-sammenheng.svg" alt="Sammenheng mellom andre rettigheter og tilknyttede kontoer"></p>
+<h2 id="juridiske-aspekter">Juridiske aspekter</h2>
+<h3 id="opphavsrettigheter">Opphavsrettigheter</h3>
+<p><strong>Opphavsrett</strong> beskytter originale verk og gir rettigheter til:</p>
+<ul>
+<li><strong>Eksemplarfremstilling</strong> - reproduksjon av verket</li>
+<li><strong>Tilgjengeliggjøring</strong> - offentlig fremføring</li>
+<li><strong>Bearbeiding</strong> - endring og tilpasning</li>
+<li><strong>Distribusjon</strong> - salg og utleie</li>
+</ul>
+<h3 id="designrettigheter">Designrettigheter</h3>
+<p><strong>Designrettigheter</strong> beskytter industrielt design:</p>
+<ul>
+<li><strong>Registrert design</strong> - 5 års beskyttelse (fornybar)</li>
+<li><strong>Uregistrert design</strong> - 3 års beskyttelse</li>
+<li><strong>Fellesskapsdesign</strong> - EU-omfattende beskyttelse</li>
+<li><strong>Internasjonalt design</strong> - global beskyttelse</li>
+</ul>
+<h3 id="kontraktsrettigheter">Kontraktsrettigheter</h3>
+<p><strong>Kontraktsrettigheter</strong> sikres gjennom:</p>
+<ul>
+<li><strong>Skriftlige avtaler</strong> med klare vilkår</li>
+<li><strong>Eksklusivitetsklausuler</strong> for konkurransefordel</li>
+<li><strong>Varighet og fornyelse</strong> av avtaler</li>
+<li><strong>Overføringsrettigheter</strong> til tredjeparter</li>
+</ul>
+<h2 id="skattemessige-forhold">Skattemessige forhold</h2>
+<h3 id="skattemessig-behandling">Skattemessig behandling</h3>
+<p>Andre rettigheter behandles <strong>skattemessig</strong> som:</p>
+<ul>
+<li><strong>Avskrivbare driftsmidler</strong> med saldoavskrivning</li>
+<li><strong>Tidsbegrenset avskrivning</strong> for rettigheter med kjent levetid</li>
+<li><strong>Fradragsberettiget</strong> amortisering over levetiden</li>
+</ul>
+<h3 id="avskrivningsgrupper">Avskrivningsgrupper</h3>
+<p><strong>Skattemessige avskrivningsgrupper</strong> for andre rettigheter:</p>
+<table>
+  <thead>
+      <tr>
+          <th>Rettighetstype</th>
+          <th>Avskrivningsgruppe</th>
+          <th>Avskrivningssats</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>Opphavsrettigheter</strong></td>
+          <td>Gruppe d</td>
+          <td>20%</td>
+      </tr>
+      <tr>
+          <td><strong>Designrettigheter</strong></td>
+          <td>Gruppe d</td>
+          <td>20%</td>
+      </tr>
+      <tr>
+          <td><strong>Kundekontrakter</strong></td>
+          <td>Gruppe d</td>
+          <td>20%</td>
+      </tr>
+      <tr>
+          <td><strong>Tidsbegrensede rettigheter</strong></td>
+          <td>Tidsbegrenset</td>
+          <td>Over levetid</td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="gevinst-og-tap">Gevinst og tap</h3>
+<p>Ved <strong>salg eller avhending</strong> av andre rettigheter:</p>
+<ul>
+<li><strong>Gevinst</strong> inntektsføres som alminnelig inntekt</li>
+<li><strong>Tap</strong> er <strong>fradragsberettiget</strong> i alminnelig inntekt</li>
+<li><strong>Gjenvinning</strong> ved salg over skattemessig verdi</li>
+</ul>
+<h2 id="bransjespesifikke-forhold">Bransjespesifikke forhold</h2>
+<h3 id="mediebransjen">Mediebransjen</h3>
+<p>I <strong>mediebransjen</strong> er andre rettigheter kritiske for:</p>
+<ul>
+<li><strong>Filmrettigheter</strong> og produksjonsrettigheter</li>
+<li><strong>Musikkrettigheter</strong> og komponistrettigheter</li>
+<li><strong>Fotografirettigheter</strong> og bilderettigheter</li>
+<li><strong>Publiseringsrettigheter</strong> og distribusjon</li>
+</ul>
+<h3 id="it-bransjen">IT-bransjen</h3>
+<p><strong>IT-selskaper</strong> fokuserer på:</p>
+<ul>
+<li><strong>Kildekoderettigheter</strong> og proprietær programvare</li>
+<li><strong>Algoritmer</strong> og datastrukturer</li>
+<li><strong>Brukergrensesnitt</strong> og designrettigheter</li>
+<li><strong>Teknisk dokumentasjon</strong> og manualer</li>
+</ul>
+<h3 id="franchisebransjen">Franchisebransjen</h3>
+<p><strong>Franchisevirksomheter</strong> investerer i:</p>
+<ul>
+<li><strong>Konseptrettigheter</strong> og forretningsmodeller</li>
+<li><strong>Operasjonsmanualer</strong> og prosedyrer</li>
+<li><strong>Merkevarerettigheter</strong> og identitet</li>
+<li><strong>Territorierettigheter</strong> og eksklusivitet</li>
+</ul>
+<h2 id="internasjonale-forhold">Internasjonale forhold</h2>
+<h3 id="internasjonale-rettigheter">Internasjonale rettigheter</h3>
+<p>For <strong>internasjonale rettigheter</strong> gjelder:</p>
+<ul>
+<li><strong>Bern-konvensjonen</strong> for opphavsrettigheter</li>
+<li><strong>Pariskonvensjonen</strong> for industriell eiendomsrett</li>
+<li><strong>TRIPS-avtalen</strong> for immaterielle rettigheter</li>
+<li><strong>Nasjonale varianter</strong> i lovgivning</li>
+</ul>
+<h3 id="valutahensyn">Valutahensyn</h3>
+<p>Ved <strong>utenlandske rettigheter</strong> må man vurdere:</p>
+<ul>
+<li><strong>Valutaomregning</strong> ved anskaffelse</li>
+<li><strong>Kurssikring</strong> for langsiktige kontrakter</li>
+<li><strong>Valutaeffekter</strong> på amortisering</li>
+<li><strong>Regnskapsmessig behandling</strong> av kursgevinster/-tap</li>
+</ul>
+<h2 id="kontroll-og-revisjon">Kontroll og revisjon</h2>
+<h3 id="interne-kontroller">Interne kontroller</h3>
+<p><strong>Rettighetsforvaltning</strong> krever:</p>
+<ul>
+<li><strong>Registrering</strong> av alle rettigheter</li>
+<li><strong>Oppfolging</strong> av utløpsdatoer</li>
+<li><strong>Verdivurdering</strong> ved regnskapsavslutning</li>
+<li><strong>Dokumentasjon</strong> av aktiverte kostnader</li>
+</ul>
+<h3 id="revisorens-kontroll">Revisorens kontroll</h3>
+<p><strong>Revisor</strong> må kontrollere:</p>
+<ul>
+<li><strong>Aktiveringsvilkår</strong> for andre rettigheter</li>
+<li><strong>Amortiseringsperioder</strong> og -metoder</li>
+<li><strong>Nedskrivningsbehov</strong> og verdivurderinger</li>
+<li><strong>Juridisk validitet</strong> av rettigheter</li>
+</ul>
+<h3 id="dokumentasjonskrav">Dokumentasjonskrav</h3>
+<p><strong>Dokumentasjon</strong> må omfatte:</p>
+<ul>
+<li><strong>Kontraktsdokumenter</strong> og avtaler</li>
+<li><strong>Registreringsbevis</strong> og sertifikater</li>
+<li><strong>Kostnadsdokumentasjon</strong> og fakturaer</li>
+<li><strong>Juridiske vurderinger</strong> av rettigheter</li>
+</ul>
+<h2 id="utfordringer-og-fallgruver">Utfordringer og fallgruver</h2>
+<h3 id="verdsettelsesutfordringer">Verdsettelsesutfordringer</h3>
+<p><strong>Verdsettelse</strong> av andre rettigheter kan være vanskelig:</p>
+<ul>
+<li><strong>Manglende sammenlignbare transaksjoner</strong></li>
+<li><strong>Usikkerhet</strong> rundt fremtidige kontantstrømmer</li>
+<li><strong>Teknologisk utvikling</strong> som reduserer verdi</li>
+<li><strong>Markedsendringer</strong> som påvirker verdien</li>
+</ul>
+<h3 id="juridiske-risiker">Juridiske risiker</h3>
+<p><strong>Juridiske risikofaktorer</strong> inkluderer:</p>
+<ul>
+<li><strong>Krenkelser</strong> av andres rettigheter</li>
+<li><strong>Ugyldige</strong> registreringer eller avtaler</li>
+<li><strong>Kontraktbrudd</strong> og tvistesaker</li>
+<li><strong>Endringer</strong> i lovgivning</li>
+</ul>
+<h3 id="regnskapsutfordringer">Regnskapsutfordringer</h3>
+<p><strong>Regnskapsmessige utfordringer</strong>:</p>
+<ul>
+<li><strong>Aktiveringsvilkår</strong> kan være vanskelige å vurdere</li>
+<li><strong>Amortiseringsperioder</strong> er ofte skjønnsmessige</li>
+<li><strong>Nedskrivningsvurderinger</strong> krever ekspertise</li>
+<li><strong>Klassifisering</strong> mellom ulike rettighetstyper</li>
+</ul>
+<h2 id="fremtidige-utviklingstrender">Fremtidige utviklingstrender</h2>
+<h3 id="digitalisering">Digitalisering</h3>
+<p><strong>Digitaliseringen</strong> påvirker andre rettigheter:</p>
+<ul>
+<li><strong>Digitale rettigheter</strong> og online-innhold</li>
+<li><strong>Blockchain-baserte</strong> rettigheter</li>
+<li><strong>NFT-er</strong> og digitale samleobjekter</li>
+<li><strong>Metaverse-rettigheter</strong> og virtuelle verdener</li>
+</ul>
+<h3 id="bærekraft">Bærekraft</h3>
+<p><strong>Bærekraftsfokus</strong> skaper nye rettighetstyper:</p>
+<ul>
+<li><strong>Karbonkreditter</strong> og utslippsrettigheter</li>
+<li><strong>Miljøsertifiseringer</strong> og kvalitetsmerkinger</li>
+<li><strong>Sosialt ansvar</strong> og etiske sertifiseringer</li>
+<li><strong>Sirkulær økonomi</strong> og resirkuleringsrettigheter</li>
+</ul>
+<h3 id="regulatoriske-endringer">Regulatoriske endringer</h3>
+<p><strong>Regulatoriske utviklinger</strong> påvirker:</p>
+<ul>
+<li><strong>Databeskyttelse</strong> og personvernrettigheter</li>
+<li><strong>Kunstig intelligens</strong> og algoritmerettigheter</li>
+<li><strong>Åpen kildekode</strong> og delingsrettigheter</li>
+<li><strong>Internasjonal harmonisering</strong> av regler</li>
+</ul>
+<h2 id="konklusjon">Konklusjon</h2>
+<p>Konto 1060 Andre rettigheter er en fleksibel konto som dekker et bredt spekter av <a href="/blogs/regnskap/hva-er-imaterielle-eiendeler" title="Hva er Imaterielle Eiendeler?">immaterielle eiendeler</a> som ikke passer inn i andre spesifikke kontoer. <strong>Korrekt regnskapsføring</strong> av andre rettigheter krever grundig forståelse av både regnskapsmessige prinsipper og juridiske aspekter.</p>
+<p><strong>Nøkkelpunkter</strong> for regnskapsføring av andre rettigheter:</p>
+<ul>
+<li><strong>Vurder aktiveringsvilkår</strong> nøye for hver rettighet</li>
+<li><strong>Dokumenter</strong> alle kostnader og juridiske forhold</li>
+<li><strong>Amortiser</strong> over rimelig økonomisk levetid</li>
+<li><strong>Følg opp</strong> nedskrivningsbehov regelmessig</li>
+<li><strong>Oppretthold</strong> god kontroll og dokumentasjon</li>
+</ul>
+<p>Andre rettigheter representerer ofte betydelige verdier for virksomheter og krever profesjonell forvaltning for å sikre både regnskapsmessig korrekthet og optimal forretningsnytte. Med økende fokus på digitalisering og immaterielle verdier blir denne kontoen stadig mer relevant for moderne virksomheter.</p>
+</article>
+  </div>
+</section>
+
+  </main>
+  <footer class="mt-16 border-t border-slate-800/60 bg-slate-900">
+  <div class="max-w-7xl mx-auto px-4 py-8 md:py-10">
+    <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3 text-center sm:text-left">
+      
+      <div>
+        <h3 class="text-sm font-semibold text-white">Verktøy</h3>
+        <ul class="mt-2 space-y-2 text-sm text-slate-300">
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/finn-iban/" target="_blank" rel="noopener">IBAN kalkulator</a></li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/fakturamal/">Lag faktura</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Selskaps-informasjon</h3>
+        <ul class="mt-2 space-y-1 text-sm text-slate-300">
+          <li>Reai AS</li>
+          <li>Orgnr: 935606403</li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="mailto:post@reai.no">post@reai.no</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Om ReAI</h3>
+        <p class="mt-2 text-sm text-slate-300">ReAI er et gratis regnskapsprogram laget av tidligere ansatte i Tripletex
+          / Visma. Vi mener det er på tide med mer konkurranse i regnskaps-bransjen som kan komme bedrifter til gode.
+        </p>
+      </div>
+    </div>
+    <div class="mt-8 border-t border-slate-800/60 pt-4 flex flex-col items-center sm:flex-row sm:items-center sm:justify-between text-sm text-slate-400 text-center sm:text-left">
+      <div class="flex items-center gap-2">
+        
+        
+      </div>
+      <div class="mt-4 sm:mt-0 flex items-center justify-center sm:justify-end">
+        <div class="opacity-80">&copy; 2025 ReAI. All rights reserved.</div>
+      </div>
+    </div>
+  </div>
+</footer>
+</body>
+</html>

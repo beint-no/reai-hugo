@@ -1,0 +1,64 @@
+{{ define "main" }}
+<section class="pt-10 md:pt-14">
+  <div class="max-w-5xl mx-auto px-4">
+    <h1 class="text-3xl font-semibold tracking-tight">{{ .Title }}</h1>
+    {{ $pages := .RegularPagesRecursive.ByDate.Reverse }}
+    {{ if gt (len $pages) 0 }}
+      <div class="mt-8 space-y-6">
+        {{ range $pages }}
+        {{ $page := . }}
+        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5 flex gap-4">
+          {{/* Featured image support via Page Resource, absolute, or static path */}}
+          {{ $imgSrc := "" }}
+          {{ with $page.Params.featured_image }}
+            {{ $feat := . }}
+            {{ $s := newScratch }}
+            {{ if or (hasPrefix $feat "/") (hasPrefix $feat "http") }}
+              {{ $s.Set "src" $feat }}
+            {{ else }}
+              {{ with $page.Resources.GetMatch $feat }}
+                {{ $s.Set "src" .RelPermalink }}
+              {{ else }}
+                {{ $s.Set "src" $feat }}
+              {{ end }}
+            {{ end }}
+            {{ $imgSrc = $s.Get "src" }}
+          {{ end }}
+          {{/* If no featured_image provided, auto-pick first SVG from page bundle */}}
+          {{ if eq $imgSrc "" }}
+            {{ $svgs := $page.Resources.Match "*.svg" }}
+            {{ with $svgs }}
+              {{ $first := index . 0 }}
+              {{ with $first }}
+                {{ $imgSrc = .RelPermalink }}
+              {{ end }}
+            {{ end }}
+          {{ end }}
+          {{/* As a fallback, pick the first image resource of any type */}}
+          {{ if eq $imgSrc "" }}
+            {{ $imgs := $page.Resources.ByType "image" }}
+            {{ with $imgs }}
+              {{ $firstImg := index . 0 }}
+              {{ with $firstImg }}
+                {{ $imgSrc = .RelPermalink }}
+              {{ end }}
+            {{ end }}
+          {{ end }}
+          {{ with $imgSrc }}
+            <img loading="lazy" src="{{ . }}" alt="{{ with $page.Params.featured_image_alt }}{{ . }}{{ else }}Illustrasjon{{ end }}" class="w-16 h-16 object-contain" />
+          {{ end }}
+          <div>
+            <h2 class="text-xl font-semibold"><a href="{{ $page.RelPermalink }}">{{ $page.Title }}</a></h2>
+            {{ with $page.Params.summary }}<p class="text-gray-700 mt-1">{{ . }}</p>{{ end }}
+          </div>
+        </article>
+        {{ end }}
+      </div>
+    {{ else }}
+      <div class="mt-8">
+        <p class="text-gray-600">Ingen artikler funnet.</p>
+      </div>
+    {{ end }}
+  </div>
+</section>
+{{ end }}

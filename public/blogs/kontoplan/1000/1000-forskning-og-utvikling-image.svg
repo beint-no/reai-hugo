@@ -1,0 +1,129 @@
+<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="500" fill="#f8f9fa"/>
+  
+  <!-- Main title background -->
+  <rect x="50" y="30" width="700" height="80" fill="#2c3e50" rx="10"/>
+  
+  <!-- Main title -->
+  <text x="400" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
+    Konto 1000
+  </text>
+  <text x="400" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="white">
+    Forskning og utvikling
+  </text>
+  
+  <!-- Research icon -->
+  <g transform="translate(100, 150)">
+    <circle cx="50" cy="50" r="40" fill="#3498db" stroke="#2c3e50" stroke-width="2"/>
+    <text x="50" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      FORSKNING
+    </text>
+    <text x="50" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+      Kostnadsfører
+    </text>
+  </g>
+  
+  <!-- Arrow pointing right -->
+  <path d="M 200 200 L 250 200" stroke="#2c3e50" stroke-width="3" marker-end="url(#arrowhead)"/>
+  
+  <!-- Development icon -->
+  <g transform="translate(280, 150)">
+    <circle cx="50" cy="50" r="40" fill="#27ae60" stroke="#2c3e50" stroke-width="2"/>
+    <text x="50" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      UTVIKLING
+    </text>
+    <text x="50" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+      Kan aktiveres
+    </text>
+  </g>
+  
+  <!-- Arrow pointing right -->
+  <path d="M 380 200 L 430 200" stroke="#2c3e50" stroke-width="3" marker-end="url(#arrowhead)"/>
+  
+  <!-- Balance sheet icon -->
+  <g transform="translate(460, 150)">
+    <rect x="10" y="10" width="80" height="80" fill="#e74c3c" stroke="#2c3e50" stroke-width="2" rx="5"/>
+    <text x="50" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      BALANSE
+    </text>
+    <text x="50" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      Immaterielle
+    </text>
+    <text x="50" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      eiendeler
+    </text>
+    <text x="50" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      Konto 1000
+    </text>
+  </g>
+  
+  <!-- Arrow pointing down -->
+  <path d="M 500 250 L 500 300" stroke="#2c3e50" stroke-width="3" marker-end="url(#arrowhead)"/>
+  
+  <!-- Amortization box -->
+  <g transform="translate(420, 320)">
+    <rect x="0" y="0" width="160" height="60" fill="#9b59b6" stroke="#2c3e50" stroke-width="2" rx="5"/>
+    <text x="80" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      AMORTISERING
+    </text>
+    <text x="80" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      Over økonomisk levetid
+    </text>
+    <text x="80" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      Typisk 3-15 år
+    </text>
+  </g>
+  
+  <!-- Key criteria box -->
+  <g transform="translate(600, 150)">
+    <rect x="0" y="0" width="150" height="180" fill="#f39c12" stroke="#2c3e50" stroke-width="2" rx="5"/>
+    <text x="75" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      AKTIVERINGSKRITERIER
+    </text>
+    <text x="10" y="40" font-family="Arial, sans-serif" font-size="9" fill="white">
+      1. Teknisk gjennomførbarhet
+    </text>
+    <text x="10" y="55" font-family="Arial, sans-serif" font-size="9" fill="white">
+      2. Intensjon om ferdigstillelse
+    </text>
+    <text x="10" y="70" font-family="Arial, sans-serif" font-size="9" fill="white">
+      3. Evne til bruk/salg
+    </text>
+    <text x="10" y="85" font-family="Arial, sans-serif" font-size="9" fill="white">
+      4. Tilstrekkelige ressurser
+    </text>
+    <text x="10" y="100" font-family="Arial, sans-serif" font-size="9" fill="white">
+      5. Pålitelig måling
+    </text>
+    
+    <text x="75" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+      ALLE må være oppfylt
+    </text>
+    
+    <text x="75" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+      Aktiverbare kostnader:
+    </text>
+    <text x="10" y="160" font-family="Arial, sans-serif" font-size="8" fill="white">
+      • Lønn til utviklere
+    </text>
+    <text x="10" y="175" font-family="Arial, sans-serif" font-size="8" fill="white">
+      • Materialer &amp; tjenester
+    </text>
+  </g>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#2c3e50"/>
+    </marker>
+  </defs>
+  
+  <!-- Bottom information -->
+  <text x="400" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+    FoU-kostnader i utviklingsfasen kan aktiveres som immaterielle eiendeler
+  </text>
+  <text x="400" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+    og amortiseres over eiendelens økonomiske levetid
+  </text>
+</svg>
