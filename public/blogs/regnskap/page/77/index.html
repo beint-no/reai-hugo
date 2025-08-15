@@ -1,6 +1,6 @@
 <!doctype html>
 <html lang="nb">
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1314&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Regnskap | ReAI</title>
@@ -77,6 +77,22 @@
   }
   footer .footer-link:hover { background-position: 0; }
   footer .footer-link:hover::before { width: 100%; }
+</style>
+<style>
+   
+  html { font-family: 'Inter', ui-sans-serif, system-ui, Arial, sans-serif; font-size: 16px; }
+  @media (min-width: 768px) { html { font-size: 17px; } }
+  body {
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    font-kerning: normal;
+    font-feature-settings: "kern", "liga", "ss01";
+  }
+  h1, h2, h3, h4, h5, h6 { letter-spacing: -0.01em; }
+  h1 { font-weight: 700; }
+  h2, h3, h4, h5, h6 { font-weight: 600; }
 </style>
 <style>
    
@@ -157,6 +173,7 @@
             <li><a href="/courses/" class="header-link text-slate-700 hover:text-black">Gratis kurs</a></li>
             <li><a href="/contact/" class="header-link text-slate-700 hover:text-black">Kontakt oss</a></li>
             <li><a href="/blog/" class="header-link text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+            <li><a href="/blog/kontoplan/" class="header-link text-slate-700 hover:text-black">Kontoplan</a></li>
             <li><a href="/bli-partner/" class="header-link text-slate-700 hover:text-black">Bli partner</a></li>
             <li><a href="/fakturamal/" class="header-link text-slate-700 hover:text-black">Lag faktura</a></li>
           </ul>
@@ -175,6 +192,7 @@
         <li><a href="/courses/" class="header-link block text-slate-700 hover:text-black">Gratis kurs</a></li>
         <li><a href="/contact/" class="header-link block text-slate-700 hover:text-black">Kontakt oss</a></li>
         <li><a href="/blog/" class="header-link block text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+        <li><a href="/blog/kontoplan/" class="header-link block text-slate-700 hover:text-black">Kontoplan</a></li>
         <li><a href="/bli-partner/" class="header-link block text-slate-700 hover:text-black">Bli partner</a></li>
         <li><a href="/fakturamal/" class="header-link block text-slate-700 hover:text-black">Lag faktura</a></li>
       </ul>
@@ -208,35 +226,89 @@
       
       <div class="mt-8 space-y-6">
         
-        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5">
-          <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/hva-er-en-faktura/">Hva er en faktura?</a></h2>
-          <p class="text-gray-700 mt-1">En detaljert gjennomgang av fakturaens rolle i regnskapet. Denne artikkelen forklarer de lovpålagte kravene til en norsk faktura, illustrerer dens anatomi, og beskriver de ulike typene fakturaer som brukes i næringslivet, inkludert salgsfaktura og kreditnota.</p>
+        
+        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5 flex gap-4">
+          
+            
+            
+              <img src="/blogs/regnskap/hva-er-en-faktura/hva-er-en-faktura-image.svg" alt="Hva er en faktura?" class="w-16 h-16 object-contain" />
+            
+          
+          <div>
+            <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/hva-er-en-faktura/">Hva er en faktura?</a></h2>
+            <p class="text-gray-700 mt-1">En detaljert gjennomgang av fakturaens rolle i regnskapet. Denne artikkelen forklarer de lovpålagte kravene til en norsk faktura, illustrerer dens anatomi, og beskriver de ulike typene fakturaer som brukes i næringslivet, inkludert salgsfaktura og kreditnota.</p>
+          </div>
         </article>
         
-        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5">
-          <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/hva-er-csv-fil/">Hva er en CSV-fil?</a></h2>
-          <p class="text-gray-700 mt-1">En omfattende guide til CSV-filer (Comma-Separated Values) i regnskapssammenheng. Artikkelen forklarer hvordan CSV-filer brukes for datautveksling mellom regnskapssystemer, import av banktransaksjoner, eksport av rapporter, og beste praksis for sikker håndtering av regnskapsdata.
+        
+        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5 flex gap-4">
+          
+            
+            
+              <img src="/blogs/regnskap/hva-er-csv-fil/hva-er-csv-fil-image.svg" alt="Hva er en CSV-fil?" class="w-16 h-16 object-contain" />
+            
+          
+          <div>
+            <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/hva-er-csv-fil/">Hva er en CSV-fil?</a></h2>
+            <p class="text-gray-700 mt-1">En omfattende guide til CSV-filer (Comma-Separated Values) i regnskapssammenheng. Artikkelen forklarer hvordan CSV-filer brukes for datautveksling mellom regnskapssystemer, import av banktransaksjoner, eksport av rapporter, og beste praksis for sikker håndtering av regnskapsdata.
 </p>
+          </div>
         </article>
         
-        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5">
-          <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/call-opsjon/">Hva er en Call-opsjon?</a></h2>
-          <p class="text-gray-700 mt-1">En call-opsjon gir innehaveren rett, men ikke plikt, til å kjøpe en eiendel til en forhåndsbestemt pris innen en spesifisert tidsperiode. Viktig finansielt instrument for risikostyring og investeringer.</p>
+        
+        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5 flex gap-4">
+          
+            
+            
+              <img src="/blogs/regnskap/call-opsjon/call-opsjon-image.svg" alt="Illustrasjon av konseptet call-opsjon" class="w-16 h-16 object-contain" />
+            
+          
+          <div>
+            <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/call-opsjon/">Hva er en Call-opsjon?</a></h2>
+            <p class="text-gray-700 mt-1">En call-opsjon gir innehaveren rett, men ikke plikt, til å kjøpe en eiendel til en forhåndsbestemt pris innen en spesifisert tidsperiode. Viktig finansielt instrument for risikostyring og investeringer.</p>
+          </div>
         </article>
         
-        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5">
-          <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/bankgaranti/">Hva er en Bankgaranti?</a></h2>
-          <p class="text-gray-700 mt-1">En bankgaranti er en skriftlig forpliktelse fra banken om å dekke et økonomisk krav dersom kunden ikke oppfyller sine kontraktuelle forpliktelser.</p>
+        
+        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5 flex gap-4">
+          
+            
+            
+              <img src="/blogs/regnskap/bankgaranti/bankgaranti-image.svg" alt="Illustrasjon av konseptet bankgaranti" class="w-16 h-16 object-contain" />
+            
+          
+          <div>
+            <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/bankgaranti/">Hva er en Bankgaranti?</a></h2>
+            <p class="text-gray-700 mt-1">En bankgaranti er en skriftlig forpliktelse fra banken om å dekke et økonomisk krav dersom kunden ikke oppfyller sine kontraktuelle forpliktelser.</p>
+          </div>
         </article>
         
-        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5">
-          <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/aksjonaeravtale/">Hva er en Aksjonæravtale?</a></h2>
-          <p class="text-gray-700 mt-1">En aksjonæravtale er en omfattende selskapsrettslig avtale som regulerer forholdet mellom aksjonærer, sikrer eierstyring, stemmerettigheter og konfliktløsning i aksjeselskaper.</p>
+        
+        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5 flex gap-4">
+          
+            
+            
+              <img src="/blogs/regnskap/aksjonaeravtale/aksjonaeravtale-image.svg" alt="Illustrasjon av konseptet aksjonæravtale" class="w-16 h-16 object-contain" />
+            
+          
+          <div>
+            <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/aksjonaeravtale/">Hva er en Aksjonæravtale?</a></h2>
+            <p class="text-gray-700 mt-1">En aksjonæravtale er en omfattende selskapsrettslig avtale som regulerer forholdet mellom aksjonærer, sikrer eierstyring, stemmerettigheter og konfliktløsning i aksjeselskaper.</p>
+          </div>
         </article>
         
-        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5">
-          <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/hva-er-en-aksjonaer/">Hva er en Aksjonær? En Komplett Guide</a></h2>
-          <p class="text-gray-700 mt-1">En detaljert gjennomgang av rollen som aksjonær i et norsk aksjeselskap, inkludert rettigheter, plikter, og innflytelse i selskapet.</p>
+        
+        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5 flex gap-4">
+          
+            
+            
+              <img src="/blogs/regnskap/hva-er-en-aksjonaer/hva-er-en-aksjonaer.svg" alt="Hva er en aksjonær" class="w-16 h-16 object-contain" />
+            
+          
+          <div>
+            <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/hva-er-en-aksjonaer/">Hva er en Aksjonær? En Komplett Guide</a></h2>
+            <p class="text-gray-700 mt-1">En detaljert gjennomgang av rollen som aksjonær i et norsk aksjeselskap, inkludert rettigheter, plikter, og innflytelse i selskapet.</p>
+          </div>
         </article>
         
       </div>
@@ -253,7 +325,7 @@
 
   </main>
   <footer class="mt-16 border-t border-slate-800/60 bg-slate-900">
-  <div class="max-w-7xl mx-auto px-4 py-14">
+  <div class="max-w-7xl mx-auto px-4 py-8 md:py-10">
     <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3 text-center sm:text-left">
       
       <div>
@@ -278,7 +350,7 @@
         </p>
       </div>
     </div>
-    <div class="mt-12 border-t border-slate-800/60 pt-6 flex flex-col items-center sm:flex-row sm:items-center sm:justify-between text-sm text-slate-400 text-center sm:text-left">
+    <div class="mt-8 border-t border-slate-800/60 pt-4 flex flex-col items-center sm:flex-row sm:items-center sm:justify-between text-sm text-slate-400 text-center sm:text-left">
       <div class="flex items-center gap-2">
         
         

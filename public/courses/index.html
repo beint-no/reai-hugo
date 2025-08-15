@@ -80,6 +80,22 @@
 </style>
 <style>
    
+  html { font-family: 'Inter', ui-sans-serif, system-ui, Arial, sans-serif; font-size: 16px; }
+  @media (min-width: 768px) { html { font-size: 17px; } }
+  body {
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    font-kerning: normal;
+    font-feature-settings: "kern", "liga", "ss01";
+  }
+  h1, h2, h3, h4, h5, h6 { letter-spacing: -0.01em; }
+  h1 { font-weight: 700; }
+  h2, h3, h4, h5, h6 { font-weight: 600; }
+</style>
+<style>
+   
   .prose { overflow-wrap: anywhere; word-break: break-word; }
   .prose img { max-width: 100%; height: auto; }
   .prose table { display: block; width: 100%; overflow-x: auto; }
@@ -157,6 +173,7 @@
             <li><a href="/courses/" class="header-link text-slate-700 hover:text-black">Gratis kurs</a></li>
             <li><a href="/contact/" class="header-link text-slate-700 hover:text-black">Kontakt oss</a></li>
             <li><a href="/blog/" class="header-link text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+            <li><a href="/blog/kontoplan/" class="header-link text-slate-700 hover:text-black">Kontoplan</a></li>
             <li><a href="/bli-partner/" class="header-link text-slate-700 hover:text-black">Bli partner</a></li>
             <li><a href="/fakturamal/" class="header-link text-slate-700 hover:text-black">Lag faktura</a></li>
           </ul>
@@ -175,6 +192,7 @@
         <li><a href="/courses/" class="header-link block text-slate-700 hover:text-black">Gratis kurs</a></li>
         <li><a href="/contact/" class="header-link block text-slate-700 hover:text-black">Kontakt oss</a></li>
         <li><a href="/blog/" class="header-link block text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+        <li><a href="/blog/kontoplan/" class="header-link block text-slate-700 hover:text-black">Kontoplan</a></li>
         <li><a href="/bli-partner/" class="header-link block text-slate-700 hover:text-black">Bli partner</a></li>
         <li><a href="/fakturamal/" class="header-link block text-slate-700 hover:text-black">Lag faktura</a></li>
       </ul>
@@ -204,17 +222,15 @@
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 p-6 items-stretch">
         
         <a href="/courses/fakturakurs/" class="block group h-full">
-        <div class="relative h-full flex flex-col bg-white/95 backdrop-blur rounded-xl shadow-lg border border-gray-200 p-6 text-center transition-transform group-hover:-translate-y-0.5">
+        <div class="relative h-full flex flex-col bg-white/95 backdrop-blur rounded-xl shadow-lg border border-gray-200 p-6 pt-12 text-center transition-transform group-hover:-translate-y-0.5">
           <span class="absolute top-3 right-3 inline-flex items-center rounded-full bg-emerald-600 text-white text-xs font-semibold px-2.5 py-1 shadow-sm">kr 0</span>
-          <div class="flex justify-center mb-4">
-            <div class="w-16 h-16 mx-auto rounded-full bg-gradient-to-r from-indigo-600 via-sky-500 to-emerald-500 flex items-center justify-center shadow-md">
-              
-              <svg xmlns="http://www.w3.org/2000/svg" class="w-7 h-7 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 10h.01M12 10h.01M16 10h.01M21 12c0 4.418-4.03 8-9 8s-9-3.582-9-8 4.03-8 9-8 9 3.582 9 8z" />
-              </svg>
-            </div>
+          
+          <div class="absolute -top-7 left-1/2 -translate-x-1/2 w-14 h-14 rounded-full bg-indigo-600 grid place-items-center shadow-xl ring-4 ring-white">
+            <img src="/images/invoice-icon.svg" alt="Invoice icon" class="w-7 h-7" />
           </div>
-          <h3 class="text-xl font-bold bg-gradient-to-r from-indigo-600 via-sky-500 to-emerald-500 bg-clip-text text-transparent">Fakturakurs</h3>
+          <div class="min-h-[4.5rem]">
+            <h3 class="text-xl font-bold text-slate-900">Fakturakurs</h3>
+          </div>
           <p class="text-gray-500">Lær hvordan man fakturerer</p>
           <ul class="mt-4 space-y-1 text-left text-green-600">
             <li>• Grunnleggende fakturering</li>
@@ -229,17 +245,15 @@
 
         
         <a href="/courses/arsoppgjor-kurs/" class="block group h-full">
-        <div class="relative h-full flex flex-col bg-white/95 backdrop-blur rounded-xl shadow-lg border border-gray-200 p-6 text-center transition-transform group-hover:-translate-y-0.5">
+        <div class="relative h-full flex flex-col bg-white/95 backdrop-blur rounded-xl shadow-lg border border-gray-200 p-6 pt-12 text-center transition-transform group-hover:-translate-y-0.5">
           <span class="absolute top-3 right-3 inline-flex items-center rounded-full bg-emerald-600 text-white text-xs font-semibold px-2.5 py-1 shadow-sm">kr 0</span>
-          <div class="flex justify-center mb-4">
-            <div class="w-16 h-16 mx-auto rounded-full bg-gradient-to-r from-indigo-600 via-sky-500 to-emerald-500 flex items-center justify-center shadow-md">
-              
-              <svg xmlns="http://www.w3.org/2000/svg" class="w-7 h-7 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4" />
-              </svg>
-            </div>
+          
+          <div class="absolute -top-7 left-1/2 -translate-x-1/2 w-14 h-14 rounded-full bg-indigo-600 grid place-items-center shadow-xl ring-4 ring-white">
+            <img src="/images/clip.svg" alt="Clip icon" class="w-7 h-7" />
           </div>
-          <h3 class="text-xl font-bold bg-gradient-to-r from-indigo-600 via-sky-500 to-emerald-500 bg-clip-text text-transparent">Kurs i årsoppgjør og sluttposteringer</h3>
+          <div class="min-h-[4.5rem]">
+            <h3 class="text-xl font-bold text-slate-900">Kurs i årsoppgjør og sluttposteringer</h3>
+          </div>
           <ul class="mt-4 space-y-1 text-left text-green-600">
             <li>• Årsavslutningsprosessen</li>
             <li>• Periodisering av inntekter</li>
@@ -254,17 +268,15 @@
 
         
         <a href="/courses/lonnskurs/" class="block group h-full">
-        <div class="relative h-full flex flex-col bg-white/95 backdrop-blur rounded-xl shadow-lg border border-gray-200 p-6 text-center transition-transform group-hover:-translate-y-0.5">
+        <div class="relative h-full flex flex-col bg-white/95 backdrop-blur rounded-xl shadow-lg border border-gray-200 p-6 pt-12 text-center transition-transform group-hover:-translate-y-0.5">
           <span class="absolute top-3 right-3 inline-flex items-center rounded-full bg-emerald-600 text-white text-xs font-semibold px-2.5 py-1 shadow-sm">kr 0</span>
-          <div class="flex justify-center mb-4">
-            <div class="w-16 h-16 mx-auto rounded-full bg-gradient-to-r from-indigo-600 via-sky-500 to-emerald-500 flex items-center justify-center shadow-md">
-              
-              <svg xmlns="http://www.w3.org/2000/svg" class="w-7 h-7 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 12H4" />
-              </svg>
-            </div>
+          
+          <div class="absolute -top-7 left-1/2 -translate-x-1/2 w-14 h-14 rounded-full bg-indigo-600 grid place-items-center shadow-xl ring-4 ring-white">
+            <img src="/images/team.svg" alt="Team icon" class="w-7 h-7" />
           </div>
-          <h3 class="text-xl font-bold bg-gradient-to-r from-indigo-600 via-sky-500 to-emerald-500 bg-clip-text text-transparent">Lønnskurs</h3>
+          <div class="min-h-[4.5rem]">
+            <h3 class="text-xl font-bold text-slate-900">Lønnskurs</h3>
+          </div>
           <ul class="mt-4 space-y-1 text-left text-green-600">
             <li>• Grunnlønn og tillegg</li>
             <li>• Skattetrekk og beregning</li>
@@ -279,17 +291,15 @@
 
         
         <a href="/courses/regnskapskurs/" class="block group h-full">
-        <div class="relative h-full flex flex-col bg-white/95 backdrop-blur rounded-xl shadow-lg border border-gray-200 p-6 text-center transition-transform group-hover:-translate-y-0.5">
+        <div class="relative h-full flex flex-col bg-white/95 backdrop-blur rounded-xl shadow-lg border border-gray-200 p-6 pt-12 text-center transition-transform group-hover:-translate-y-0.5">
           <span class="absolute top-3 right-3 inline-flex items-center rounded-full bg-emerald-600 text-white text-xs font-semibold px-2.5 py-1 shadow-sm">kr 0</span>
-          <div class="flex justify-center mb-4">
-            <div class="w-16 h-16 mx-auto rounded-full bg-gradient-to-r from-indigo-600 via-sky-500 to-emerald-500 flex items-center justify-center shadow-md">
-              
-              <svg xmlns="http://www.w3.org/2000/svg" class="w-7 h-7 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 4a1 1 0 011-1h16a1 1 0 011 1v16a1 1 0 01-1 1H4a1 1 0 01-1-1V4z" />
-              </svg>
-            </div>
+          
+          <div class="absolute -top-7 left-1/2 -translate-x-1/2 w-14 h-14 rounded-full bg-indigo-600 grid place-items-center shadow-xl ring-4 ring-white">
+            <img src="/images/ledger.svg" alt="Ledger icon" class="w-7 h-7" />
           </div>
-          <h3 class="text-xl font-bold bg-gradient-to-r from-indigo-600 via-sky-500 to-emerald-500 bg-clip-text text-transparent">Regnskapskurs</h3>
+          <div class="min-h-[4.5rem]">
+            <h3 class="text-xl font-bold text-slate-900">Regnskapskurs</h3>
+          </div>
           <ul class="mt-4 space-y-1 text-left text-green-600">
             <li>• Grunnleggende bokføring</li>
             <li>• Kontoplan og bilag</li>
@@ -308,7 +318,7 @@
 
   </main>
   <footer class="mt-16 border-t border-slate-800/60 bg-slate-900">
-  <div class="max-w-7xl mx-auto px-4 py-14">
+  <div class="max-w-7xl mx-auto px-4 py-8 md:py-10">
     <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3 text-center sm:text-left">
       
       <div>
@@ -333,7 +343,7 @@
         </p>
       </div>
     </div>
-    <div class="mt-12 border-t border-slate-800/60 pt-6 flex flex-col items-center sm:flex-row sm:items-center sm:justify-between text-sm text-slate-400 text-center sm:text-left">
+    <div class="mt-8 border-t border-slate-800/60 pt-4 flex flex-col items-center sm:flex-row sm:items-center sm:justify-between text-sm text-slate-400 text-center sm:text-left">
       <div class="flex items-center gap-2">
         
         

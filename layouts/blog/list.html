@@ -12,9 +12,20 @@
       {{ $p := .Paginate $pages }}
       <div class="mt-8 space-y-6">
         {{ range $p.Pages }}
-        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5">
-          <h2 class="text-xl font-semibold"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-          {{ with .Params.summary }}<p class="text-gray-700 mt-1">{{ . }}</p>{{ end }}
+        {{ $pg := . }}
+        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5 flex gap-4">
+          {{ with $pg.Params.featured_image }}
+            {{ $img := $pg.Resources.GetMatch . }}
+            {{ if $img }}
+              <img src="{{ $img.RelPermalink }}" alt="{{ with $pg.Params.featured_image_alt }}{{ . }}{{ else }}Illustrasjon{{ end }}" class="w-16 h-16 object-contain" />
+            {{ else }}
+              <img src="{{ printf "%s%s" $pg.RelPermalink . }}" alt="{{ with $pg.Params.featured_image_alt }}{{ . }}{{ else }}Illustrasjon{{ end }}" class="w-16 h-16 object-contain" />
+            {{ end }}
+          {{ end }}
+          <div>
+            <h2 class="text-xl font-semibold"><a href="{{ $pg.RelPermalink }}">{{ $pg.Title }}</a></h2>
+            {{ with $pg.Params.summary }}<p class="text-gray-700 mt-1">{{ . }}</p>{{ end }}
+          </div>
         </article>
         {{ end }}
       </div>

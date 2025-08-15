@@ -1,0 +1,41 @@
+{{ define "main" }}
+<section class="py-10">
+  <div class="max-w-5xl mx-auto px-4">
+    <h1 class="text-3xl font-semibold tracking-tight">Kontoplan</h1>
+
+    {{/* Use the section-scoped pages; this template is at blog/kontoplan/list.html so context is the kontoplan section */}}
+    {{ $pages := .CurrentSection.RegularPages.ByDate.Reverse }}
+    {{ if gt (len $pages) 0 }}
+      {{ $p := .Paginate $pages }}
+      <div class="mt-8 grid md:grid-cols-2 gap-6">
+        {{ range $p.Pages }}
+        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5 flex gap-4">
+          {{ with .Params.featured_image }}
+            {{ $img := $.Resources.GetMatch . }}
+            {{ if $img }}
+              <img src="{{ $img.RelPermalink }}" alt="{{ with $.Params.featured_image_alt }}{{ . }}{{ else }}Illustrasjon{{ end }}" class="w-16 h-16 object-contain" />
+            {{ else }}
+              <img src="{{ $.RelPermalink }}{{ . }}" alt="{{ with $.Params.featured_image_alt }}{{ . }}{{ else }}Illustrasjon{{ end }}" class="w-16 h-16 object-contain" />
+            {{ end }}
+          {{ end }}
+          <div>
+            <h2 class="text-xl font-semibold"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+            {{ with .Params.summary }}<p class="text-gray-700 mt-1">{{ . }}</p>{{ end }}
+          </div>
+        </article>
+        {{ end }}
+      </div>
+
+      {{ if gt $p.TotalPages 1 }}
+      <nav class="mt-8 flex items-center justify-center gap-3 text-sm">
+        {{ with $p.Prev }}<a class="px-3 py-1 rounded ring-1 ring-gray-300 hover:bg-gray-50" href="{{ .URL }}">Forrige</a>{{ end }}
+        <span class="px-3 py-1">Side {{ $p.PageNumber }} av {{ $p.TotalPages }}</span>
+        {{ with $p.Next }}<a class="px-3 py-1 rounded ring-1 ring-gray-300 hover:bg-gray-50" href="{{ .URL }}">Neste</a>{{ end }}
+      </nav>
+      {{ end }}
+    {{ else }}
+      <p class="text-gray-600 mt-6">Ingen artikler funnet.</p>
+    {{ end }}
+  </div>
+</section>
+{{ end }}

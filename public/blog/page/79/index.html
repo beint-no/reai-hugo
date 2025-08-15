@@ -80,6 +80,22 @@
 </style>
 <style>
    
+  html { font-family: 'Inter', ui-sans-serif, system-ui, Arial, sans-serif; font-size: 16px; }
+  @media (min-width: 768px) { html { font-size: 17px; } }
+  body {
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    font-kerning: normal;
+    font-feature-settings: "kern", "liga", "ss01";
+  }
+  h1, h2, h3, h4, h5, h6 { letter-spacing: -0.01em; }
+  h1 { font-weight: 700; }
+  h2, h3, h4, h5, h6 { font-weight: 600; }
+</style>
+<style>
+   
   .prose { overflow-wrap: anywhere; word-break: break-word; }
   .prose img { max-width: 100%; height: auto; }
   .prose table { display: block; width: 100%; overflow-x: auto; }
@@ -157,6 +173,7 @@
             <li><a href="/courses/" class="header-link text-slate-700 hover:text-black">Gratis kurs</a></li>
             <li><a href="/contact/" class="header-link text-slate-700 hover:text-black">Kontakt oss</a></li>
             <li><a href="/blog/" class="header-link text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+            <li><a href="/blog/kontoplan/" class="header-link text-slate-700 hover:text-black">Kontoplan</a></li>
             <li><a href="/bli-partner/" class="header-link text-slate-700 hover:text-black">Bli partner</a></li>
             <li><a href="/fakturamal/" class="header-link text-slate-700 hover:text-black">Lag faktura</a></li>
           </ul>
@@ -175,6 +192,7 @@
         <li><a href="/courses/" class="header-link block text-slate-700 hover:text-black">Gratis kurs</a></li>
         <li><a href="/contact/" class="header-link block text-slate-700 hover:text-black">Kontakt oss</a></li>
         <li><a href="/blog/" class="header-link block text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+        <li><a href="/blog/kontoplan/" class="header-link block text-slate-700 hover:text-black">Kontoplan</a></li>
         <li><a href="/bli-partner/" class="header-link block text-slate-700 hover:text-black">Bli partner</a></li>
         <li><a href="/fakturamal/" class="header-link block text-slate-700 hover:text-black">Lag faktura</a></li>
       </ul>
@@ -208,36 +226,90 @@
       
       <div class="mt-8 space-y-6">
         
-        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5">
-          <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/hva-er-elektronisk-fakturering/">Hva er Elektronisk Fakturering?</a></h2>
-          <p class="text-gray-700 mt-1">En omfattende guide til elektronisk fakturering som samlebegrep for alle digitale fakturaløsninger i Norge. Artikkelen dekker eFaktura, EHF, Vipps eFaktura, tekniske standarder, implementering og hvordan elektronisk fakturering revolusjonerer regnskapsføring.</p>
+        
+        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5 flex gap-4">
+          
+            
+            
+              <img src="/blogs/regnskap/hva-er-elektronisk-fakturering/hva-er-elektronisk-fakturering-image.svg" alt="Hva er Elektronisk Fakturering?" class="w-16 h-16 object-contain" />
+            
+          
+          <div>
+            <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/hva-er-elektronisk-fakturering/">Hva er Elektronisk Fakturering?</a></h2>
+            <p class="text-gray-700 mt-1">En omfattende guide til elektronisk fakturering som samlebegrep for alle digitale fakturaløsninger i Norge. Artikkelen dekker eFaktura, EHF, Vipps eFaktura, tekniske standarder, implementering og hvordan elektronisk fakturering revolusjonerer regnskapsføring.</p>
+          </div>
         </article>
         
-        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5">
-          <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/hva-er-eksternregnskap/">Hva er eksternregnskap?</a></h2>
-          <p class="text-gray-700 mt-1">Denne artikkelen gir en dyptgående analyse av eksternregnskap, som er finansiell rapportering rettet mot eksterne interessenter som investorer, kreditorer og myndigheter. Vi dekker regnskapsstandarder, årsregnskapets komponenter, revisjonsplikt, transparens og tillitskrav, samt forskjellene mellom ekstern- og internregnskap. Artikkelen inneholder praktiske eksempler, tabeller og illustrasjoner for å forklare komplekse konsepter.</p>
+        
+        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5 flex gap-4">
+          
+            
+            
+              <img src="/blogs/regnskap/hva-er-eksternregnskap/hva-er-eksternregnskap-image.svg" alt="Hva er eksternregnskap?" class="w-16 h-16 object-contain" />
+            
+          
+          <div>
+            <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/hva-er-eksternregnskap/">Hva er eksternregnskap?</a></h2>
+            <p class="text-gray-700 mt-1">Denne artikkelen gir en dyptgående analyse av eksternregnskap, som er finansiell rapportering rettet mot eksterne interessenter som investorer, kreditorer og myndigheter. Vi dekker regnskapsstandarder, årsregnskapets komponenter, revisjonsplikt, transparens og tillitskrav, samt forskjellene mellom ekstern- og internregnskap. Artikkelen inneholder praktiske eksempler, tabeller og illustrasjoner for å forklare komplekse konsepter.</p>
+          </div>
         </article>
         
-        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5">
-          <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/hva-er-eiendeler/">Hva er eiendeler?</a></h2>
-          <p class="text-gray-700 mt-1">En omfattende guide til eiendeler i regnskapssammenheng. Artikkelen dekker hovedkategoriene anleggsmidler og omløpsmidler, ulike verdsettelsesmetoder og praktisk bruk i finansiell rapportering.</p>
+        
+        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5 flex gap-4">
+          
+            
+            
+              <img src="/blogs/regnskap/hva-er-eiendeler/hva-er-eiendeler-image.svg" alt="Hva er eiendeler?" class="w-16 h-16 object-contain" />
+            
+          
+          <div>
+            <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/hva-er-eiendeler/">Hva er eiendeler?</a></h2>
+            <p class="text-gray-700 mt-1">En omfattende guide til eiendeler i regnskapssammenheng. Artikkelen dekker hovedkategoriene anleggsmidler og omløpsmidler, ulike verdsettelsesmetoder og praktisk bruk i finansiell rapportering.</p>
+          </div>
         </article>
         
-        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5">
-          <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/hva-er-eiendel/">Hva er eiendel?</a></h2>
-          <p class="text-gray-700 mt-1">En omfattende guide til eiendeler (eiendel) i regnskapssammenheng. Artikkelen dekker alle typer eiendeler fra fast eiendom og løsøre til immaterielle rettigheter, deres klassifisering, verdsettelse og regnskapsføring. Perfekt for å forstå hvordan eiendeler håndteres i norsk regnskap og deres betydning for bedriftens økonomiske stilling.
+        
+        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5 flex gap-4">
+          
+            
+            
+              <img src="/blogs/regnskap/hva-er-eiendel/hva-er-eiendel-image.svg" alt="Hva er eiendel?" class="w-16 h-16 object-contain" />
+            
+          
+          <div>
+            <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/hva-er-eiendel/">Hva er eiendel?</a></h2>
+            <p class="text-gray-700 mt-1">En omfattende guide til eiendeler (eiendel) i regnskapssammenheng. Artikkelen dekker alle typer eiendeler fra fast eiendom og løsøre til immaterielle rettigheter, deres klassifisering, verdsettelse og regnskapsføring. Perfekt for å forstå hvordan eiendeler håndteres i norsk regnskap og deres betydning for bedriftens økonomiske stilling.
 </p>
+          </div>
         </article>
         
-        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5">
-          <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/hva-er-ehf/">Hva er EHF?</a></h2>
-          <p class="text-gray-700 mt-1">En omfattende guide til EHF (Elektronisk Handelsformat), Norges nasjonale standard for elektronisk fakturabehandling og handelsdokumenter. Artikkelen dekker tekniske spesifikasjoner, XML-struktur, implementering, integrasjon med regnskapssystemer og fremtidige utviklingstrender.
+        
+        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5 flex gap-4">
+          
+            
+            
+              <img src="/blogs/regnskap/hva-er-ehf/hva-er-ehf-image.svg" alt="Hva er EHF?" class="w-16 h-16 object-contain" />
+            
+          
+          <div>
+            <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/hva-er-ehf/">Hva er EHF?</a></h2>
+            <p class="text-gray-700 mt-1">En omfattende guide til EHF (Elektronisk Handelsformat), Norges nasjonale standard for elektronisk fakturabehandling og handelsdokumenter. Artikkelen dekker tekniske spesifikasjoner, XML-struktur, implementering, integrasjon med regnskapssystemer og fremtidige utviklingstrender.
 </p>
+          </div>
         </article>
         
-        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5">
-          <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/hva-er-egenmelding/">Hva er Egenmelding?</a></h2>
-          <p class="text-gray-700 mt-1">Denne artikkelen gir en detaljert oversikt over egenmelding som konsept i norsk regnskap og skatteforvaltning. Vi dekker alt fra grunnleggende prinsipper om selvrapportering, til praktiske aspekter som digitale løsninger, kontrollmekanismer og compliance-krav. Artikkelen forklarer også hvordan egenmelding fungerer i ulike sammenhenger som MVA-rapportering, skattemeldinger og regnskapsrapportering, samt hvilke fordeler og utfordringer dette systemet medfører.</p>
+        
+        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5 flex gap-4">
+          
+            
+            
+              <img src="/blogs/regnskap/hva-er-egenmelding/hva-er-egenmelding-image.svg" alt="Hva er Egenmelding?" class="w-16 h-16 object-contain" />
+            
+          
+          <div>
+            <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/hva-er-egenmelding/">Hva er Egenmelding?</a></h2>
+            <p class="text-gray-700 mt-1">Denne artikkelen gir en detaljert oversikt over egenmelding som konsept i norsk regnskap og skatteforvaltning. Vi dekker alt fra grunnleggende prinsipper om selvrapportering, til praktiske aspekter som digitale løsninger, kontrollmekanismer og compliance-krav. Artikkelen forklarer også hvordan egenmelding fungerer i ulike sammenhenger som MVA-rapportering, skattemeldinger og regnskapsrapportering, samt hvilke fordeler og utfordringer dette systemet medfører.</p>
+          </div>
         </article>
         
       </div>
@@ -254,7 +326,7 @@
 
   </main>
   <footer class="mt-16 border-t border-slate-800/60 bg-slate-900">
-  <div class="max-w-7xl mx-auto px-4 py-14">
+  <div class="max-w-7xl mx-auto px-4 py-8 md:py-10">
     <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3 text-center sm:text-left">
       
       <div>
@@ -279,7 +351,7 @@
         </p>
       </div>
     </div>
-    <div class="mt-12 border-t border-slate-800/60 pt-6 flex flex-col items-center sm:flex-row sm:items-center sm:justify-between text-sm text-slate-400 text-center sm:text-left">
+    <div class="mt-8 border-t border-slate-800/60 pt-4 flex flex-col items-center sm:flex-row sm:items-center sm:justify-between text-sm text-slate-400 text-center sm:text-left">
       <div class="flex items-center gap-2">
         
         

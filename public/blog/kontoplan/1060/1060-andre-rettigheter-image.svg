@@ -1,0 +1,107 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#2563eb;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="cardGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f1f5f9"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="100" fill="url(#headerGradient)"/>
+  <text x="400" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="bold">KONTO 1060</text>
+  <text x="400" y="65" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="20">Andre rettigheter</text>
+  
+  <!-- Main content area -->
+  <rect x="50" y="120" width="700" height="400" fill="url(#cardGradient)" stroke="#cbd5e1" stroke-width="2" rx="10"/>
+  
+  <!-- Rights categories -->
+  <g transform="translate(80, 150)">
+    <!-- Opphavsrettigheter -->
+    <rect x="0" y="0" width="150" height="80" fill="#dbeafe" stroke="#3b82f6" stroke-width="2" rx="5"/>
+    <text x="75" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Opphavsrett</text>
+    <text x="75" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">Litterære &amp;</text>
+    <text x="75" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">kunstneriske verk</text>
+    
+    <!-- Designrettigheter -->
+    <rect x="170" y="0" width="150" height="80" fill="#dcfce7" stroke="#16a34a" stroke-width="2" rx="5"/>
+    <text x="245" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Designrett</text>
+    <text x="245" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">Industrielt design</text>
+    <text x="245" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">&amp; mønstre</text>
+    
+    <!-- Kundekontrakter -->
+    <rect x="340" y="0" width="150" height="80" fill="#fef3c7" stroke="#d97706" stroke-width="2" rx="5"/>
+    <text x="415" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Kundekontrakter</text>
+    <text x="415" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">Langsiktige</text>
+    <text x="415" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">kundeavtaler</text>
+    
+    <!-- Franchiserettigheter -->
+    <rect x="510" y="0" width="150" height="80" fill="#fce7f3" stroke="#be185d" stroke-width="2" rx="5"/>
+    <text x="585" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Franchiserett</text>
+    <text x="585" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">Etablerte</text>
+    <text x="585" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">konsepter</text>
+    
+    <!-- Teknologirettigheter -->
+    <rect x="85" y="100" width="150" height="80" fill="#e0e7ff" stroke="#6366f1" stroke-width="2" rx="5"/>
+    <text x="160" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Teknologirett</text>
+    <text x="160" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">Know-how &amp;</text>
+    <text x="160" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">teknisk kunnskap</text>
+    
+    <!-- Bruksrettigheter -->
+    <rect x="255" y="100" width="150" height="80" fill="#fef7ff" stroke="#a855f7" stroke-width="2" rx="5"/>
+    <text x="330" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Bruksrett</text>
+    <text x="330" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">Rettigheter til</text>
+    <text x="330" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">andres eiendeler</text>
+    
+    <!-- Distribusjonsrettigheter -->
+    <rect x="425" y="100" width="150" height="80" fill="#ecfdf5" stroke="#10b981" stroke-width="2" rx="5"/>
+    <text x="500" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Distribusjonsrett</text>
+    <text x="500" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">Eksklusive</text>
+    <text x="500" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">salgsrettigheter</text>
+  </g>
+  
+  <!-- Process arrows -->
+  <g stroke="#64748b" stroke-width="2" fill="none" marker-end="url(#arrowhead)">
+    <defs>
+      <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+        <polygon points="0 0, 10 3.5, 0 7" fill="#64748b"/>
+      </marker>
+    </defs>
+    
+    <!-- Central process flow -->
+    <path d="M 400 350 L 400 400" />
+    <path d="M 400 400 L 400 450" />
+  </g>
+  
+  <!-- Process steps -->
+  <g transform="translate(300, 360)">
+    <rect x="0" y="0" width="200" height="35" fill="#f8fafc" stroke="#64748b" stroke-width="1" rx="5"/>
+    <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Aktivering</text>
+  </g>
+  
+  <g transform="translate(300, 410)">
+    <rect x="0" y="0" width="200" height="35" fill="#f8fafc" stroke="#64748b" stroke-width="1" rx="5"/>
+    <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Amortisering</text>
+  </g>
+  
+  <g transform="translate(300, 460)">
+    <rect x="0" y="0" width="200" height="35" fill="#f8fafc" stroke="#64748b" stroke-width="1" rx="5"/>
+    <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Nedskrivningsvurdering</text>
+  </g>
+  
+  <!-- Key characteristics -->
+  <g transform="translate(100, 540)">
+    <text x="0" y="0" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+      <tspan x="0" dy="0">• Immaterielle eiendeler</tspan>
+      <tspan x="200" dy="0">• Juridiske rettigheter</tspan>
+      <tspan x="400" dy="0">• Økonomiske fordeler</tspan>
+      <tspan x="600" dy="0">• Aktiverbare kostnader</tspan>
+    </text>
+  </g>
+</svg>

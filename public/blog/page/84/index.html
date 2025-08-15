@@ -80,6 +80,22 @@
 </style>
 <style>
    
+  html { font-family: 'Inter', ui-sans-serif, system-ui, Arial, sans-serif; font-size: 16px; }
+  @media (min-width: 768px) { html { font-size: 17px; } }
+  body {
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    font-kerning: normal;
+    font-feature-settings: "kern", "liga", "ss01";
+  }
+  h1, h2, h3, h4, h5, h6 { letter-spacing: -0.01em; }
+  h1 { font-weight: 700; }
+  h2, h3, h4, h5, h6 { font-weight: 600; }
+</style>
+<style>
+   
   .prose { overflow-wrap: anywhere; word-break: break-word; }
   .prose img { max-width: 100%; height: auto; }
   .prose table { display: block; width: 100%; overflow-x: auto; }
@@ -157,6 +173,7 @@
             <li><a href="/courses/" class="header-link text-slate-700 hover:text-black">Gratis kurs</a></li>
             <li><a href="/contact/" class="header-link text-slate-700 hover:text-black">Kontakt oss</a></li>
             <li><a href="/blog/" class="header-link text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+            <li><a href="/blog/kontoplan/" class="header-link text-slate-700 hover:text-black">Kontoplan</a></li>
             <li><a href="/bli-partner/" class="header-link text-slate-700 hover:text-black">Bli partner</a></li>
             <li><a href="/fakturamal/" class="header-link text-slate-700 hover:text-black">Lag faktura</a></li>
           </ul>
@@ -175,6 +192,7 @@
         <li><a href="/courses/" class="header-link block text-slate-700 hover:text-black">Gratis kurs</a></li>
         <li><a href="/contact/" class="header-link block text-slate-700 hover:text-black">Kontakt oss</a></li>
         <li><a href="/blog/" class="header-link block text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+        <li><a href="/blog/kontoplan/" class="header-link block text-slate-700 hover:text-black">Kontoplan</a></li>
         <li><a href="/bli-partner/" class="header-link block text-slate-700 hover:text-black">Bli partner</a></li>
         <li><a href="/fakturamal/" class="header-link block text-slate-700 hover:text-black">Lag faktura</a></li>
       </ul>
@@ -208,34 +226,88 @@
       
       <div class="mt-8 space-y-6">
         
-        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5">
-          <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/hva-er-deflasjon/">Hva er Deflasjon?</a></h2>
-          <p class="text-gray-700 mt-1">Deflasjon er den generelle nedgangen i prisnivået over tid, noe som øker kjøpekraften til penger. Dette er et viktig økonomisk konsept som påvirker regnskap og bedriftsdrift.</p>
+        
+        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5 flex gap-4">
+          
+            
+            
+              <img src="/blogs/regnskap/hva-er-deflasjon/hva-er-deflasjon-image.svg" alt="Illustrasjon av deflasjon og dens påvirkning på økonomi og regnskap" class="w-16 h-16 object-contain" />
+            
+          
+          <div>
+            <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/hva-er-deflasjon/">Hva er Deflasjon?</a></h2>
+            <p class="text-gray-700 mt-1">Deflasjon er den generelle nedgangen i prisnivået over tid, noe som øker kjøpekraften til penger. Dette er et viktig økonomisk konsept som påvirker regnskap og bedriftsdrift.</p>
+          </div>
         </article>
         
-        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5">
-          <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/hva-er-debitor/">Hva er debitor?</a></h2>
-          <p class="text-gray-700 mt-1">Denne artikkelen gir en dyptgående forklaring av debitor i regnskap, fra grunnleggende prinsipper til praktisk debitorhåndtering. Vi dekker kundefordringer, kredittid, debitoroppfølging, inkassoprosesser, og hvordan debitor påvirker selskapets likviditet og arbeidskapital. Artikkelen inneholder praktiske eksempler, tabeller og illustrasjoner som forklarer debitorbegrepet på en lettfattelig måte.</p>
+        
+        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5 flex gap-4">
+          
+            
+            
+              <img src="/blogs/regnskap/hva-er-debitor/hva-er-debitor-image.svg" alt="Hva er debitor?" class="w-16 h-16 object-contain" />
+            
+          
+          <div>
+            <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/hva-er-debitor/">Hva er debitor?</a></h2>
+            <p class="text-gray-700 mt-1">Denne artikkelen gir en dyptgående forklaring av debitor i regnskap, fra grunnleggende prinsipper til praktisk debitorhåndtering. Vi dekker kundefordringer, kredittid, debitoroppfølging, inkassoprosesser, og hvordan debitor påvirker selskapets likviditet og arbeidskapital. Artikkelen inneholder praktiske eksempler, tabeller og illustrasjoner som forklarer debitorbegrepet på en lettfattelig måte.</p>
+          </div>
         </article>
         
-        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5">
-          <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/hva-er-debet/">Hva er debet?</a></h2>
-          <p class="text-gray-700 mt-1">Denne artikkelen gir en dyptgående forklaring av debet i regnskap, fra grunnleggende prinsipper til praktisk anvendelse. Vi dekker debetregler for ulike kontotyper, sammenhengen mellom debet og kredit, T-kontoer, og hvordan debetposter brukes i dobbelt bokholderi. Artikkelen inneholder praktiske eksempler, tabeller og illustrasjoner som forklarer debetbegrepet på en lettfattelig måte.</p>
+        
+        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5 flex gap-4">
+          
+            
+            
+              <img src="/blogs/regnskap/hva-er-debet/hva-er-debet-image.svg" alt="Hva er debet?" class="w-16 h-16 object-contain" />
+            
+          
+          <div>
+            <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/hva-er-debet/">Hva er debet?</a></h2>
+            <p class="text-gray-700 mt-1">Denne artikkelen gir en dyptgående forklaring av debet i regnskap, fra grunnleggende prinsipper til praktisk anvendelse. Vi dekker debetregler for ulike kontotyper, sammenhengen mellom debet og kredit, T-kontoer, og hvordan debetposter brukes i dobbelt bokholderi. Artikkelen inneholder praktiske eksempler, tabeller og illustrasjoner som forklarer debetbegrepet på en lettfattelig måte.</p>
+          </div>
         </article>
         
-        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5">
-          <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/datterselskap/">Hva er Datterselskap?</a></h2>
-          <p class="text-gray-700 mt-1">En omfattende guide til datterselskap, selskap under kontroll av et morselskap, inkludert typer, juridiske definisjoner, regnskapsmessige konsekvenser og internkonsernbehandling.</p>
+        
+        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5 flex gap-4">
+          
+            
+            
+              <img src="/blogs/regnskap/datterselskap/datterselskap-image.svg" alt="Illustrasjon av datterselskap og konsernstruktur" class="w-16 h-16 object-contain" />
+            
+          
+          <div>
+            <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/datterselskap/">Hva er Datterselskap?</a></h2>
+            <p class="text-gray-700 mt-1">En omfattende guide til datterselskap, selskap under kontroll av et morselskap, inkludert typer, juridiske definisjoner, regnskapsmessige konsekvenser og internkonsernbehandling.</p>
+          </div>
         </article>
         
-        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5">
-          <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/hva-er-datakasse/">Hva er Datakasse (Kassasystem)?</a></h2>
-          <p class="text-gray-700 mt-1">Datakasse er et elektronisk kassasystem som registrerer og dokumenterer alle kontantsalg. Systemet sikrer korrekt regnskapsføring, oppfyller lovkrav og gir bedre kontroll over kontantomsetning.</p>
+        
+        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5 flex gap-4">
+          
+            
+            
+              <img src="/blogs/regnskap/hva-er-datakasse/hva-er-datakasse-image.svg" alt="Illustrasjon som viser konseptet om datakasse og kassasystem" class="w-16 h-16 object-contain" />
+            
+          
+          <div>
+            <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/hva-er-datakasse/">Hva er Datakasse (Kassasystem)?</a></h2>
+            <p class="text-gray-700 mt-1">Datakasse er et elektronisk kassasystem som registrerer og dokumenterer alle kontantsalg. Systemet sikrer korrekt regnskapsføring, oppfyller lovkrav og gir bedre kontroll over kontantomsetning.</p>
+          </div>
         </article>
         
-        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5">
-          <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/hva-er-dagsoppgjor/">Hva er Dagsoppgjør i Regnskap?</a></h2>
-          <p class="text-gray-700 mt-1">Dagsoppgjør er en daglig regnskapsprosess som sikrer at alle transaksjoner er korrekt registrert, avstemt og kontrollert. Dette inkluderer kassaoppgjør, bankavstemming og verifikasjon av alle daglige regnskapsposter.</p>
+        
+        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5 flex gap-4">
+          
+            
+            
+              <img src="/blogs/regnskap/hva-er-dagsoppgjor/hva-er-dagsoppgjor-image.svg" alt="Illustrasjon som viser konseptet om dagsoppgjør i regnskap" class="w-16 h-16 object-contain" />
+            
+          
+          <div>
+            <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/hva-er-dagsoppgjor/">Hva er Dagsoppgjør i Regnskap?</a></h2>
+            <p class="text-gray-700 mt-1">Dagsoppgjør er en daglig regnskapsprosess som sikrer at alle transaksjoner er korrekt registrert, avstemt og kontrollert. Dette inkluderer kassaoppgjør, bankavstemming og verifikasjon av alle daglige regnskapsposter.</p>
+          </div>
         </article>
         
       </div>
@@ -252,7 +324,7 @@
 
   </main>
   <footer class="mt-16 border-t border-slate-800/60 bg-slate-900">
-  <div class="max-w-7xl mx-auto px-4 py-14">
+  <div class="max-w-7xl mx-auto px-4 py-8 md:py-10">
     <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3 text-center sm:text-left">
       
       <div>
@@ -277,7 +349,7 @@
         </p>
       </div>
     </div>
-    <div class="mt-12 border-t border-slate-800/60 pt-6 flex flex-col items-center sm:flex-row sm:items-center sm:justify-between text-sm text-slate-400 text-center sm:text-left">
+    <div class="mt-8 border-t border-slate-800/60 pt-4 flex flex-col items-center sm:flex-row sm:items-center sm:justify-between text-sm text-slate-400 text-center sm:text-left">
       <div class="flex items-center gap-2">
         
         

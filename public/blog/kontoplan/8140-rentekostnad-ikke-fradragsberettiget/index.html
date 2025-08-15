@@ -1,0 +1,339 @@
+<!doctype html>
+<html lang="nb">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1314&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>8140-rentekostnad-ikke-fradragsberettiget | ReAI</title>
+  <meta name="description" content="Komplett regnskapssystem med faktura, lønn, bilagsføring og årsoppgjør.">
+  
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<script src="https://cdn.tailwindcss.com?plugins=typography"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        fontFamily: { sans: ['Inter','ui-sans-serif','system-ui','Arial','sans-serif'] },
+        colors: {
+          brand: { DEFAULT: '#111827' },
+          accent: { DEFAULT: '#2563eb' }
+        }
+      }
+    }
+  }
+</script>
+<style>
+   
+  header .header-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #000 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link:hover { background-position: 0; }
+  header .header-link:hover::before { width: 100%; }
+
+  footer .footer-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #ffffff 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link:hover { background-position: 0; }
+  footer .footer-link:hover::before { width: 100%; }
+</style>
+<style>
+   
+  html { font-family: 'Inter', ui-sans-serif, system-ui, Arial, sans-serif; font-size: 16px; }
+  @media (min-width: 768px) { html { font-size: 17px; } }
+  body {
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    font-kerning: normal;
+    font-feature-settings: "kern", "liga", "ss01";
+  }
+  h1, h2, h3, h4, h5, h6 { letter-spacing: -0.01em; }
+  h1 { font-weight: 700; }
+  h2, h3, h4, h5, h6 { font-weight: 600; }
+</style>
+<style>
+   
+  .prose { overflow-wrap: anywhere; word-break: break-word; }
+  .prose img { max-width: 100%; height: auto; }
+  .prose table { display: block; width: 100%; overflow-x: auto; }
+  .prose pre { white-space: pre-wrap; word-break: break-word; overflow-x: auto; }
+  .prose code { word-break: break-word; }
+  .prose iframe, .prose video { max-width: 100%; width: 100%; height: auto; }
+</style>
+<style>
+   
+  button,
+  .btn,
+  a.btn,
+  .button,
+  .cta,
+  .link-button,
+   
+  a.inline-flex.rounded-md,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"] {
+    transition: transform 220ms ease, box-shadow 220ms ease, background-color 220ms ease, color 220ms ease, opacity 220ms ease;
+    will-change: transform, box-shadow;
+  }
+
+  button:hover,
+  .btn:hover,
+  a.btn:hover,
+  .button:hover,
+  .cta:hover,
+  .link-button:hover,
+  a.inline-flex.rounded-md:hover,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+
+  button:active,
+  .btn:active,
+  a.btn:active,
+  .button:active,
+  .cta:active,
+  .link-button:active,
+  a.inline-flex.rounded-md:active,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:active {
+    transform: translateY(-1px) scale(0.99);
+    box-shadow: 0 6px 12px rgba(2, 6, 23, 0.1);
+  }
+
+  button:focus-visible,
+  .btn:focus-visible,
+  a.btn:focus-visible,
+  .button:focus-visible,
+  .cta:focus-visible,
+  .link-button:focus-visible,
+  a.inline-flex.rounded-md:focus-visible,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.35), 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+</style>
+
+<link rel="icon" type="image/svg+xml" href="/images/ReAI-logo-square.svg">
+<link rel="shortcut icon" href="/images/ReAI-logo-square.svg">
+
+</head>
+<body class="min-h-dvh bg-white text-gray-900 font-sans">
+  <header class="sticky top-0 z-40 bg-white/80 backdrop-blur">
+  
+  <div class="border-b border-slate-200/70">
+    <div class="max-w-7xl mx-auto px-4">
+      <div class="h-16 flex items-center justify-between">
+        <a href="/" class="flex items-center gap-2" aria-label="ReAI">
+          <img src="/images/ReAI-logo-square.svg?v=4" alt="ReAI logo" class="h-14 w-14 rounded-md mt-5" width="56" height="56" loading="eager" decoding="async">
+        </a>
+        <nav class="hidden md:block">
+          <ul class="flex items-center gap-5 text-sm">
+            <li><a href="/courses/" class="header-link text-slate-700 hover:text-black">Gratis kurs</a></li>
+            <li><a href="/contact/" class="header-link text-slate-700 hover:text-black">Kontakt oss</a></li>
+            <li><a href="/blog/" class="header-link text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+            <li><a href="/blog/kontoplan/" class="header-link text-slate-700 hover:text-black">Kontoplan</a></li>
+            <li><a href="/bli-partner/" class="header-link text-slate-700 hover:text-black">Bli partner</a></li>
+            <li><a href="/fakturamal/" class="header-link text-slate-700 hover:text-black">Lag faktura</a></li>
+          </ul>
+        </nav>
+        <button id="mobileMenuBtn" aria-controls="mobileMenu" aria-expanded="false" class="md:hidden inline-flex items-center justify-center h-9 w-9 rounded-md border border-slate-300">
+          <span class="sr-only">Menu</span>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-5 w-5"><path d="M3.75 6.75h16.5v1.5H3.75zM3.75 11.25h16.5v1.5H3.75zM3.75 15.75h16.5v1.5H3.75z"/></svg>
+        </button>
+      </div>
+    </div>
+  </div>
+  
+  <nav id="mobileMenu" class="md:hidden hidden border-b border-slate-200/70 bg-white/95 backdrop-blur">
+    <div class="max-w-7xl mx-auto px-4 py-3">
+      <ul class="flex flex-col items-center gap-3 text-sm text-center">
+        <li><a href="/courses/" class="header-link block text-slate-700 hover:text-black">Gratis kurs</a></li>
+        <li><a href="/contact/" class="header-link block text-slate-700 hover:text-black">Kontakt oss</a></li>
+        <li><a href="/blog/" class="header-link block text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+        <li><a href="/blog/kontoplan/" class="header-link block text-slate-700 hover:text-black">Kontoplan</a></li>
+        <li><a href="/bli-partner/" class="header-link block text-slate-700 hover:text-black">Bli partner</a></li>
+        <li><a href="/fakturamal/" class="header-link block text-slate-700 hover:text-black">Lag faktura</a></li>
+      </ul>
+    </div>
+  </nav>
+  <script>
+    (function() {
+      const btn = document.getElementById('mobileMenuBtn');
+      const menu = document.getElementById('mobileMenu');
+      if (!btn || !menu) return;
+      btn.addEventListener('click', function() {
+        const isHidden = menu.classList.contains('hidden');
+        menu.classList.toggle('hidden');
+        btn.setAttribute('aria-expanded', String(isHidden));
+      });
+    })();
+  </script>
+</header>
+  <main>
+    
+<section class="pt-10 md:pt-14">
+  <div class="max-w-3xl mx-auto px-4">
+    <h1 class="text-3xl font-semibold tracking-tight text-center">8140-rentekostnad-ikke-fradragsberettiget</h1>
+    
+    <article class="prose max-w-none mt-6"><p><strong>Konto 8140 - Rentekostnad, ikke fradragsberettiget</strong> er en konto i Norsk Standard Kontoplan som brukes til å registrere <strong>rentekostnader</strong> som ikke er fradragsberettiget.</p>
+<p><img src="8140-rentekostnad-ikke-fradragsberettiget-image.svg" alt="Illustrasjon av konto 8140 Rentekostnad, ikke fradragsberettiget"></p>
+<h2 id="hva-er-rentekostnad-ikke-fradragsberettiget">Hva er rentekostnad, ikke fradragsberettiget?</h2>
+<p><em>Rentekostnad, ikke fradragsberettiget</em> oppstår når påløpte renter ikke kan føres som fradrag i skattemeldingen, for eksempel på visse typer lån eller representasjonskostnader.</p>
+<h2 id="når-benyttes-konto-8140">Når benyttes konto 8140?</h2>
+<p>Konto 8140 brukes spesielt for å separere ikke-fradragsberettigede rentekostnader fra øvrige rentekostnader. Typiske situasjoner inkluderer:</p>
+<ul>
+<li><strong>Representasjonslån</strong> eller andre lån der rentekostnader anses som privat forbruk.</li>
+<li><strong>Lån til eier eller nærstående</strong> der rentekostnader ikke er fradragsberettiget etter skatteloven.</li>
+<li><strong>Fritaksmetode-relaterte renter</strong> som etter særskilte regler ikke gir skattemessig fradrag.</li>
+</ul>
+<h2 id="regnskapsføring-av-ikke-fradragsberettigede-rentekostnader">Regnskapsføring av ikke-fradragsberettigede rentekostnader</h2>
+<table>
+  <thead>
+      <tr>
+          <th>Transaksjon</th>
+          <th>Debet</th>
+          <th>Kredit</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Ikke-fradragsberettigede rentekostnader</td>
+          <td>Konto 8140 - Rentekostnad, ikke fradragsberettiget</td>
+          <td>Konto 1920 - Bankinnskudd</td>
+      </tr>
+      <tr>
+          <td>Påløpte ikke-fradragsberettigede renter uten faktura</td>
+          <td>Konto 8140 - Rentekostnad, ikke fradragsberettiget</td>
+          <td>Konto 2400 - Leverandørgjeld</td>
+      </tr>
+      <tr>
+          <td>Betaling av ikke-fradragsberettigede rentekostnader</td>
+          <td>Konto 2400 - Leverandørgjeld</td>
+          <td>Konto 1920 - Bankinnskudd</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="eksempel-på-bokføring">Eksempel på bokføring</h2>
+<table>
+  <thead>
+      <tr>
+          <th>Dato</th>
+          <th>Beskrivelse</th>
+          <th>Debet</th>
+          <th>Kredit</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>31.12.2023</td>
+          <td>Renter på lån som ikke er fradragsberettiget</td>
+          <td>Konto 8140 - Rentekostnad, ikke fradragsberettiget</td>
+          <td>Konto 2400 - Leverandørgjeld</td>
+      </tr>
+      <tr>
+          <td>15.01.2024</td>
+          <td>Betaling av ikke-fradragsberettigede rentekostnader</td>
+          <td>Konto 2400 - Leverandørgjeld</td>
+          <td>Konto 1920 - Bankinnskudd</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="skattemessige-hensyn">Skattemessige hensyn</h2>
+<p>Ved skattlegging skal ikke-fradragsberettigede rentekostnader ikke føres til fradrag i skattemeldingen, noe som kan påvirke skattegrunnlaget. For mer informasjon om skatteregler, se <a href="/blogs/regnskap/hva-er-skatt" title="Hva er skatt? Oversikt over skatteregler i Norge">Hva er skatt?</a>.</p>
+<h2 id="relaterte-artikler">Relaterte artikler</h2>
+<ul>
+<li><a href="/blogs/kontoplan/8140-rentekostnad-ikke-fradragsberettiget" title="Konto 8140 - Rentekostnad, ikke fradragsberettiget i Norsk Standard Kontoplan">Konto 8140 - Rentekostnad, ikke fradragsberettiget</a></li>
+<li><a href="/blogs/kontoplan/8130-rentekostnad-foretak-i-samme-konsern" title="Konto 8130 - Rentekostnad foretak i samme konsern">Konto 8130 - Rentekostnad foretak i samme konsern</a></li>
+<li><a href="/blogs/kontoplan/8150-annen-rentekostnad" title="Konto 8150 - Annen rentekostnad: Guide til andre rentekostnader">Konto 8150 - Annen rentekostnad</a></li>
+<li><a href="/blogs/kontoplan/1760-palopte-renter" title="Konto 1760 - Påløpte renter: Regnskapsføring av påløpte renteutgifter">Konto 1760 - Påløpte renter</a></li>
+<li><a href="/blogs/kontoplan/2950-palopte-renter" title="Konto 2950 - Påløpte renter: Regnskapsføring av påløpte renteutgifter">Konto 2950 - Påløpte renter</a></li>
+<li><a href="/blogs/regnskap/hva-er-kontoplan" title="Hva er en Kontoplan? Komplett Guide til Kontoplaner i norsk regnskap">Hva er Kontoplan?</a></li>
+<li><a href="/blogs/kontoplan/8160-valutatap-disagio" title="Konto 8160 - Valutatap (Disagio)">Konto 8160 - Valutatap (Disagio)</a></li>
+<li><a href="/blogs/kontoplan/8170-annen-finanskostnad" title="Konto 8170 - Annen finanskostnad: Guide til andre finanskostnader">Konto 8170 - Annen finanskostnad</a></li>
+</ul>
+</article>
+  </div>
+</section>
+
+  </main>
+  <footer class="mt-16 border-t border-slate-800/60 bg-slate-900">
+  <div class="max-w-7xl mx-auto px-4 py-8 md:py-10">
+    <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3 text-center sm:text-left">
+      
+      <div>
+        <h3 class="text-sm font-semibold text-white">Verktøy</h3>
+        <ul class="mt-2 space-y-2 text-sm text-slate-300">
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/finn-iban/">IBAN kalkulator</a></li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/lag-faktura-gratis/">Lag faktura</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Selskaps-informasjon</h3>
+        <ul class="mt-2 space-y-1 text-sm text-slate-300">
+          <li>Reai AS</li>
+          <li>Orgnr: 935606403</li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="mailto:post@reai.no">post@reai.no</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Om ReAI</h3>
+        <p class="mt-2 text-sm text-slate-300">ReAI er et gratis regnskapsprogram laget av tidligere ansatte i Tripletex
+          / Visma. Vi mener det er på tide med mer konkurranse i regnskaps-bransjen som kan komme bedrifter til gode.
+        </p>
+      </div>
+    </div>
+    <div class="mt-8 border-t border-slate-800/60 pt-4 flex flex-col items-center sm:flex-row sm:items-center sm:justify-between text-sm text-slate-400 text-center sm:text-left">
+      <div class="flex items-center gap-2">
+        
+        
+      </div>
+      <div class="mt-4 sm:mt-0 flex items-center justify-center sm:justify-end">
+        <div class="opacity-80">&copy; 2025 ReAI. All rights reserved.</div>
+      </div>
+    </div>
+  </div>
+</footer>
+</body>
+</html>

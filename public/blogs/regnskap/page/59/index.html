@@ -1,6 +1,6 @@
 <!doctype html>
 <html lang="nb">
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1314&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Regnskap | ReAI</title>
@@ -77,6 +77,22 @@
   }
   footer .footer-link:hover { background-position: 0; }
   footer .footer-link:hover::before { width: 100%; }
+</style>
+<style>
+   
+  html { font-family: 'Inter', ui-sans-serif, system-ui, Arial, sans-serif; font-size: 16px; }
+  @media (min-width: 768px) { html { font-size: 17px; } }
+  body {
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    font-kerning: normal;
+    font-feature-settings: "kern", "liga", "ss01";
+  }
+  h1, h2, h3, h4, h5, h6 { letter-spacing: -0.01em; }
+  h1 { font-weight: 700; }
+  h2, h3, h4, h5, h6 { font-weight: 600; }
 </style>
 <style>
    
@@ -157,6 +173,7 @@
             <li><a href="/courses/" class="header-link text-slate-700 hover:text-black">Gratis kurs</a></li>
             <li><a href="/contact/" class="header-link text-slate-700 hover:text-black">Kontakt oss</a></li>
             <li><a href="/blog/" class="header-link text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+            <li><a href="/blog/kontoplan/" class="header-link text-slate-700 hover:text-black">Kontoplan</a></li>
             <li><a href="/bli-partner/" class="header-link text-slate-700 hover:text-black">Bli partner</a></li>
             <li><a href="/fakturamal/" class="header-link text-slate-700 hover:text-black">Lag faktura</a></li>
           </ul>
@@ -175,6 +192,7 @@
         <li><a href="/courses/" class="header-link block text-slate-700 hover:text-black">Gratis kurs</a></li>
         <li><a href="/contact/" class="header-link block text-slate-700 hover:text-black">Kontakt oss</a></li>
         <li><a href="/blog/" class="header-link block text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+        <li><a href="/blog/kontoplan/" class="header-link block text-slate-700 hover:text-black">Kontoplan</a></li>
         <li><a href="/bli-partner/" class="header-link block text-slate-700 hover:text-black">Bli partner</a></li>
         <li><a href="/fakturamal/" class="header-link block text-slate-700 hover:text-black">Lag faktura</a></li>
       </ul>
@@ -208,34 +226,88 @@
       
       <div class="mt-8 space-y-6">
         
-        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5">
-          <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/insolvens/">Hva er Insolvens?</a></h2>
-          <p class="text-gray-700 mt-1">Insolvens beskriver en situasjon der en virksomhet ikke kan oppfylle sine forpliktelser ved forfall. Forstå årsaker, regnskapsmessig behandling og nøkkelindikatorer for å unngå insolvens.</p>
+        
+        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5 flex gap-4">
+          
+            
+            
+              <img src="/blogs/regnskap/insolvens/insolvens-image.svg" alt="Illustrasjon som viser konseptet insolvens i regnskap" class="w-16 h-16 object-contain" />
+            
+          
+          <div>
+            <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/insolvens/">Hva er Insolvens?</a></h2>
+            <p class="text-gray-700 mt-1">Insolvens beskriver en situasjon der en virksomhet ikke kan oppfylle sine forpliktelser ved forfall. Forstå årsaker, regnskapsmessig behandling og nøkkelindikatorer for å unngå insolvens.</p>
+          </div>
         </article>
         
-        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5">
-          <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/hva-er-inntjeningsbasert-verdivurdering/">Hva er Inntjeningsbasert Verdivurdering?</a></h2>
-          <p class="text-gray-700 mt-1">Inntjeningsbasert verdivurdering er prosessen med å fastsette verdien av et selskap eller eiendel basert på dets evne til å generere fremtidig inntjening og kontantstrøm. Dette omfatter metoder som DCF-analyse, multipler og andre inntjeningsbaserte verdsettelsesteknikker.</p>
+        
+        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5 flex gap-4">
+          
+            
+            
+              <img src="/blogs/regnskap/hva-er-inntjeningsbasert-verdivurdering/hva-er-inntjeningsbasert-verdivurdering-image.svg" alt="Illustrasjon som viser konseptet om inntjeningsbasert verdivurdering i regnskap" class="w-16 h-16 object-contain" />
+            
+          
+          <div>
+            <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/hva-er-inntjeningsbasert-verdivurdering/">Hva er Inntjeningsbasert Verdivurdering?</a></h2>
+            <p class="text-gray-700 mt-1">Inntjeningsbasert verdivurdering er prosessen med å fastsette verdien av et selskap eller eiendel basert på dets evne til å generere fremtidig inntjening og kontantstrøm. Dette omfatter metoder som DCF-analyse, multipler og andre inntjeningsbaserte verdsettelsesteknikker.</p>
+          </div>
         </article>
         
-        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5">
-          <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/hva-er-inntekter/">Hva er inntekter?</a></h2>
-          <p class="text-gray-700 mt-1">En omfattende guide til inntekter som forklarer alle typer inntekter, hvordan de regnskapsføres, skattemessige konsekvenser og praktiske eksempler for bedre forståelse av inntektsbegrepet.</p>
+        
+        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5 flex gap-4">
+          
+            
+            
+              <img src="/blogs/regnskap/hva-er-inntekter/hva-er-inntekter-image.svg" alt="Hva er inntekter?" class="w-16 h-16 object-contain" />
+            
+          
+          <div>
+            <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/hva-er-inntekter/">Hva er inntekter?</a></h2>
+            <p class="text-gray-700 mt-1">En omfattende guide til inntekter som forklarer alle typer inntekter, hvordan de regnskapsføres, skattemessige konsekvenser og praktiske eksempler for bedre forståelse av inntektsbegrepet.</p>
+          </div>
         </article>
         
-        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5">
-          <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/hva-er-inntakskost/">Hva er inntakskost og kostpris?</a></h2>
-          <p class="text-gray-700 mt-1">En omfattende guide til inntakskost og kostpris i norsk regnskap. Artikkelen forklarer forskjellen mellom anskaffelseskost, produksjonskost og andre kostnadsbegreper, samt hvordan disse påvirker regnskapsføring og lønnsomhetsanalyse.</p>
+        
+        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5 flex gap-4">
+          
+            
+            
+              <img src="/blogs/regnskap/hva-er-inntakskost/hva-er-inntakskost-image.svg" alt="Hva er inntakskost og kostpris?" class="w-16 h-16 object-contain" />
+            
+          
+          <div>
+            <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/hva-er-inntakskost/">Hva er inntakskost og kostpris?</a></h2>
+            <p class="text-gray-700 mt-1">En omfattende guide til inntakskost og kostpris i norsk regnskap. Artikkelen forklarer forskjellen mellom anskaffelseskost, produksjonskost og andre kostnadsbegreper, samt hvordan disse påvirker regnskapsføring og lønnsomhetsanalyse.</p>
+          </div>
         </article>
         
-        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5">
-          <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/inngaaende-balanse/">Hva er Inngående Balanse i Regnskap?</a></h2>
-          <p class="text-gray-700 mt-1">Inngående balanse er åpningsbalansen som viser en virksomhets økonomiske stilling ved begynnelsen av en regnskapsperiode. Den er identisk med utgående balanse fra forrige periode og danner grunnlaget for all regnskapsføring i den nye perioden.</p>
+        
+        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5 flex gap-4">
+          
+            
+            
+              <img src="/blogs/regnskap/inngaaende-balanse/inngaaende-balanse-image.svg" alt="Illustrasjon som viser inngående balanse og overgang mellom regnskapsperioder" class="w-16 h-16 object-contain" />
+            
+          
+          <div>
+            <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/inngaaende-balanse/">Hva er Inngående Balanse i Regnskap?</a></h2>
+            <p class="text-gray-700 mt-1">Inngående balanse er åpningsbalansen som viser en virksomhets økonomiske stilling ved begynnelsen av en regnskapsperiode. Den er identisk med utgående balanse fra forrige periode og danner grunnlaget for all regnskapsføring i den nye perioden.</p>
+          </div>
         </article>
         
-        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5">
-          <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/hva-er-inkassosalaer/">Hva er inkassosalær?</a></h2>
-          <p class="text-gray-700 mt-1">En omfattende guide til inkassosalær som forklarer hvordan inkassohonorar og gebyrer beregnes, lovlige satser, regelverk og praktiske aspekter ved inkassosalær for både bedrifter og privatpersoner.</p>
+        
+        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5 flex gap-4">
+          
+            
+            
+              <img src="/blogs/regnskap/hva-er-inkassosalaer/hva-er-inkassosalaer-image.svg" alt="Hva er inkassosalær?" class="w-16 h-16 object-contain" />
+            
+          
+          <div>
+            <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/hva-er-inkassosalaer/">Hva er inkassosalær?</a></h2>
+            <p class="text-gray-700 mt-1">En omfattende guide til inkassosalær som forklarer hvordan inkassohonorar og gebyrer beregnes, lovlige satser, regelverk og praktiske aspekter ved inkassosalær for både bedrifter og privatpersoner.</p>
+          </div>
         </article>
         
       </div>
@@ -252,7 +324,7 @@
 
   </main>
   <footer class="mt-16 border-t border-slate-800/60 bg-slate-900">
-  <div class="max-w-7xl mx-auto px-4 py-14">
+  <div class="max-w-7xl mx-auto px-4 py-8 md:py-10">
     <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3 text-center sm:text-left">
       
       <div>
@@ -277,7 +349,7 @@
         </p>
       </div>
     </div>
-    <div class="mt-12 border-t border-slate-800/60 pt-6 flex flex-col items-center sm:flex-row sm:items-center sm:justify-between text-sm text-slate-400 text-center sm:text-left">
+    <div class="mt-8 border-t border-slate-800/60 pt-4 flex flex-col items-center sm:flex-row sm:items-center sm:justify-between text-sm text-slate-400 text-center sm:text-left">
       <div class="flex items-center gap-2">
         
         

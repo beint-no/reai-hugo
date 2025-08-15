@@ -80,6 +80,22 @@
 </style>
 <style>
    
+  html { font-family: 'Inter', ui-sans-serif, system-ui, Arial, sans-serif; font-size: 16px; }
+  @media (min-width: 768px) { html { font-size: 17px; } }
+  body {
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    font-kerning: normal;
+    font-feature-settings: "kern", "liga", "ss01";
+  }
+  h1, h2, h3, h4, h5, h6 { letter-spacing: -0.01em; }
+  h1 { font-weight: 700; }
+  h2, h3, h4, h5, h6 { font-weight: 600; }
+</style>
+<style>
+   
   .prose { overflow-wrap: anywhere; word-break: break-word; }
   .prose img { max-width: 100%; height: auto; }
   .prose table { display: block; width: 100%; overflow-x: auto; }
@@ -157,6 +173,7 @@
             <li><a href="/courses/" class="header-link text-slate-700 hover:text-black">Gratis kurs</a></li>
             <li><a href="/contact/" class="header-link text-slate-700 hover:text-black">Kontakt oss</a></li>
             <li><a href="/blog/" class="header-link text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+            <li><a href="/blog/kontoplan/" class="header-link text-slate-700 hover:text-black">Kontoplan</a></li>
             <li><a href="/bli-partner/" class="header-link text-slate-700 hover:text-black">Bli partner</a></li>
             <li><a href="/fakturamal/" class="header-link text-slate-700 hover:text-black">Lag faktura</a></li>
           </ul>
@@ -175,6 +192,7 @@
         <li><a href="/courses/" class="header-link block text-slate-700 hover:text-black">Gratis kurs</a></li>
         <li><a href="/contact/" class="header-link block text-slate-700 hover:text-black">Kontakt oss</a></li>
         <li><a href="/blog/" class="header-link block text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+        <li><a href="/blog/kontoplan/" class="header-link block text-slate-700 hover:text-black">Kontoplan</a></li>
         <li><a href="/bli-partner/" class="header-link block text-slate-700 hover:text-black">Bli partner</a></li>
         <li><a href="/fakturamal/" class="header-link block text-slate-700 hover:text-black">Lag faktura</a></li>
       </ul>
@@ -208,35 +226,89 @@
       
       <div class="mt-8 space-y-6">
         
-        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5">
-          <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/mva-loven/">Mva-loven</a></h2>
-          <p class="text-gray-700 mt-1">En omfattende guide til mva-loven og merverdiavgift i Norge. Artikkelen forklarer mva-satser, registreringsplikt, fradragsrett, mva-oppgaver og hvordan norske bedrifter skal håndtere merverdiavgift i regnskapet i henhold til gjeldende regelverk.</p>
+        
+        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5 flex gap-4">
+          
+            
+            
+              <img src="/blogs/regnskap/mva-loven/mva-loven-image.svg" alt="Mva-loven" class="w-16 h-16 object-contain" />
+            
+          
+          <div>
+            <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/mva-loven/">Mva-loven</a></h2>
+            <p class="text-gray-700 mt-1">En omfattende guide til mva-loven og merverdiavgift i Norge. Artikkelen forklarer mva-satser, registreringsplikt, fradragsrett, mva-oppgaver og hvordan norske bedrifter skal håndtere merverdiavgift i regnskapet i henhold til gjeldende regelverk.</p>
+          </div>
         </article>
         
-        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5">
-          <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/momsregnskap/">Momsregnskap - Komplett Guide til MVA-regnskapsføring</a></h2>
-          <p class="text-gray-700 mt-1">Momsregnskap omfatter alle regnskapsrutiner knyttet til merverdiavgift (MVA). Dette inkluderer bokføring, rapportering, kontoplaner og praktiske prosedyrer for korrekt håndtering av MVA i bedriftens regnskap.
+        
+        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5 flex gap-4">
+          
+            
+            
+              <img src="/blogs/regnskap/momsregnskap/momsregnskap-image.svg" alt="Momsregnskap - Komplett Guide til MVA-regnskapsføring" class="w-16 h-16 object-contain" />
+            
+          
+          <div>
+            <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/momsregnskap/">Momsregnskap - Komplett Guide til MVA-regnskapsføring</a></h2>
+            <p class="text-gray-700 mt-1">Momsregnskap omfatter alle regnskapsrutiner knyttet til merverdiavgift (MVA). Dette inkluderer bokføring, rapportering, kontoplaner og praktiske prosedyrer for korrekt håndtering av MVA i bedriftens regnskap.
 </p>
+          </div>
         </article>
         
-        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5">
-          <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/moms-paa-mat/">Moms på mat</a></h2>
-          <p class="text-gray-700 mt-1">Lær alt om MVA på mat – fra satser og kategorier til unntak og praktiske råd. En komplett guide til MVA-regler for matvarer og serveringsmat i Norge.</p>
+        
+        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5 flex gap-4">
+          
+            
+            
+              <img src="/blogs/regnskap/moms-paa-mat/moms-paa-mat-image.svg" alt="Moms på mat" class="w-16 h-16 object-contain" />
+            
+          
+          <div>
+            <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/moms-paa-mat/">Moms på mat</a></h2>
+            <p class="text-gray-700 mt-1">Lær alt om MVA på mat – fra satser og kategorier til unntak og praktiske råd. En komplett guide til MVA-regler for matvarer og serveringsmat i Norge.</p>
+          </div>
         </article>
         
-        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5">
-          <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/minstepensjon/">Minstepensjon</a></h2>
-          <p class="text-gray-700 mt-1">Minstepensjon, eller garantipensjon, er en basisytelse i folketrygden som sikrer et minimumsnivå på pensjonen for personer med lav eller ingen opptjening. Denne artikkelen forklarer rettigheter, beregning og regnskapsmessige hensyn.</p>
+        
+        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5 flex gap-4">
+          
+            
+            
+              <img src="/blogs/regnskap/minstepensjon/minstepensjon-image.svg" alt="Minstepensjon" class="w-16 h-16 object-contain" />
+            
+          
+          <div>
+            <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/minstepensjon/">Minstepensjon</a></h2>
+            <p class="text-gray-700 mt-1">Minstepensjon, eller garantipensjon, er en basisytelse i folketrygden som sikrer et minimumsnivå på pensjonen for personer med lav eller ingen opptjening. Denne artikkelen forklarer rettigheter, beregning og regnskapsmessige hensyn.</p>
+          </div>
         </article>
         
-        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5">
-          <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/minstelonn/">Minstelønn i Norge: Komplett Guide til Regnskap og Arbeidsgiverforpliktelser</a></h2>
-          <p class="text-gray-700 mt-1">Minstelønn er den laveste lønnen en arbeidsgiver kan betale en ansatt i Norge. Guide til regler, tariffavtaler og regnskapsføring.</p>
+        
+        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5 flex gap-4">
+          
+            
+            
+              <img src="/blogs/regnskap/minstelonn/minstelonn-image.svg" alt="Illustrasjon av Minstelønn i Regnskap" class="w-16 h-16 object-contain" />
+            
+          
+          <div>
+            <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/minstelonn/">Minstelønn i Norge: Komplett Guide til Regnskap og Arbeidsgiverforpliktelser</a></h2>
+            <p class="text-gray-700 mt-1">Minstelønn er den laveste lønnen en arbeidsgiver kan betale en ansatt i Norge. Guide til regler, tariffavtaler og regnskapsføring.</p>
+          </div>
         </article>
         
-        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5">
-          <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/midlertidige-forskjeller/">Midlertidige forskjeller i regnskap og skatt</a></h2>
-          <p class="text-gray-700 mt-1">Forstå hvordan midlertidige forskjeller oppstår, deres typer, beregning av utsatt skatt og praktiske eksempler.</p>
+        
+        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5 flex gap-4">
+          
+            
+            
+              <img src="/blogs/regnskap/midlertidige-forskjeller/midlertidige-forskjeller-image.svg" alt="Midlertidige forskjeller" class="w-16 h-16 object-contain" />
+            
+          
+          <div>
+            <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/midlertidige-forskjeller/">Midlertidige forskjeller i regnskap og skatt</a></h2>
+            <p class="text-gray-700 mt-1">Forstå hvordan midlertidige forskjeller oppstår, deres typer, beregning av utsatt skatt og praktiske eksempler.</p>
+          </div>
         </article>
         
       </div>
@@ -253,7 +325,7 @@
 
   </main>
   <footer class="mt-16 border-t border-slate-800/60 bg-slate-900">
-  <div class="max-w-7xl mx-auto px-4 py-14">
+  <div class="max-w-7xl mx-auto px-4 py-8 md:py-10">
     <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3 text-center sm:text-left">
       
       <div>
@@ -278,7 +350,7 @@
         </p>
       </div>
     </div>
-    <div class="mt-12 border-t border-slate-800/60 pt-6 flex flex-col items-center sm:flex-row sm:items-center sm:justify-between text-sm text-slate-400 text-center sm:text-left">
+    <div class="mt-8 border-t border-slate-800/60 pt-4 flex flex-col items-center sm:flex-row sm:items-center sm:justify-between text-sm text-slate-400 text-center sm:text-left">
       <div class="flex items-center gap-2">
         
         

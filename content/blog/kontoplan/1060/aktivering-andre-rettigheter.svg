@@ -1,0 +1,128 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="processGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#10b981;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#059669;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="stepGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#ecfdf5;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#d1fae5;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8fafc"/>
+  
+  <!-- Title -->
+  <rect x="0" y="0" width="800" height="60" fill="url(#processGradient)"/>
+  <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="white">Prosess for Aktivering av Andre Rettigheter</text>
+  
+  <!-- Step 1: Identifisering -->
+  <g transform="translate(50, 90)">
+    <rect x="0" y="0" width="320" height="120" fill="url(#stepGradient)" stroke="#10b981" stroke-width="2" rx="8"/>
+    <text x="160" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#047857">1. Identifisering av Rettighet</text>
+    
+    <text x="20" y="50" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+      <tspan x="20" dy="0">✓ Separerbar fra virksomheten</tspan>
+      <tspan x="20" dy="15">✓ Juridisk håndhevbar</tspan>
+      <tspan x="20" dy="15">✓ Overdragbar til tredjeparter</tspan>
+      <tspan x="20" dy="15">✓ Spesifikk kontraktsmessig beskyttelse</tspan>
+    </text>
+  </g>
+  
+  <!-- Step 2: Kontrollvurdering -->
+  <g transform="translate(430, 90)">
+    <rect x="0" y="0" width="320" height="120" fill="url(#stepGradient)" stroke="#10b981" stroke-width="2" rx="8"/>
+    <text x="160" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#047857">2. Kontrollvurdering</text>
+    
+    <text x="20" y="50" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+      <tspan x="20" dy="0">✓ Juridisk eiendomsrett/bruksrett</tspan>
+      <tspan x="20" dy="15">✓ Kontraktsmessige rettigheter</tspan>
+      <tspan x="20" dy="15">✓ Faktisk kontroll over ressursen</tspan>
+      <tspan x="20" dy="15">✓ Mulighet til å begrense andres tilgang</tspan>
+    </text>
+  </g>
+  
+  <!-- Step 3: Verdiavslutning -->
+  <g transform="translate(50, 240)">
+    <rect x="0" y="0" width="320" height="120" fill="url(#stepGradient)" stroke="#10b981" stroke-width="2" rx="8"/>
+    <text x="160" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#047857">3. Fremtidige Økonomiske Fordeler</text>
+    
+    <text x="20" y="50" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+      <tspan x="20" dy="0">✓ Direkte inntektsgenerering</tspan>
+      <tspan x="20" dy="15">✓ Kostnadsbesparelser</tspan>
+      <tspan x="20" dy="15">✓ Konkurransefordeler</tspan>
+      <tspan x="20" dy="15">✓ Markedsposisjonering</tspan>
+    </text>
+  </g>
+  
+  <!-- Step 4: Kostnadsmåling -->
+  <g transform="translate(430, 240)">
+    <rect x="0" y="0" width="320" height="120" fill="url(#stepGradient)" stroke="#10b981" stroke-width="2" rx="8"/>
+    <text x="160" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#047857">4. Pålitelig Kostnadsmåling</text>
+    
+    <text x="20" y="50" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+      <tspan x="20" dy="0">✓ Kjøpspris eller utviklingskostnader</tspan>
+      <tspan x="20" dy="15">✓ Juridiske kostnader og gebyrer</tspan>
+      <tspan x="20" dy="15">✓ Konsulenthonorar</tspan>
+      <tspan x="20" dy="15">✓ Registrerings- og dokumentkostnader</tspan>
+    </text>
+  </g>
+  
+  <!-- Decision diamond -->
+  <g transform="translate(350, 390)">
+    <polygon points="100,0 200,50 100,100 0,50" fill="#fef3c7" stroke="#d97706" stroke-width="3"/>
+    <text x="100" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#92400e">Oppfyller alle</text>
+    <text x="100" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#92400e">kriterier?</text>
+  </g>
+  
+  <!-- Yes path -->
+  <g transform="translate(600, 450)">
+    <rect x="0" y="0" width="180" height="60" fill="#dcfce7" stroke="#16a34a" stroke-width="2" rx="8"/>
+    <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#166534">JA</text>
+    <text x="90" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#166534">Aktiver på konto 1060</text>
+  </g>
+  
+  <!-- No path -->
+  <g transform="translate(20, 450)">
+    <rect x="0" y="0" width="180" height="60" fill="#fee2e2" stroke="#dc2626" stroke-width="2" rx="8"/>
+    <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#dc2626">NEI</text>
+    <text x="90" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#dc2626">Kostnadsfør direkte</text>
+  </g>
+  
+  <!-- Flow arrows -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#374151"/>
+    </marker>
+  </defs>
+  
+  <g stroke="#374151" stroke-width="2" fill="none" marker-end="url(#arrowhead)">
+    <!-- Vertical flow -->
+    <path d="M 210 210 L 210 240" />
+    <path d="M 590 210 L 590 240" />
+    <path d="M 400 360 L 400 390" />
+    
+    <!-- Decision paths -->
+    <path d="M 450 440 L 600 470" />
+    <path d="M 350 440 L 200 470" />
+    
+    <!-- Horizontal connections -->
+    <path d="M 370 150 L 430 150" />
+    <path d="M 370 300 L 430 300" />
+  </g>
+  
+  <!-- Labels for arrows -->
+  <text x="500" y="435" font-family="Arial, sans-serif" font-size="12" fill="#059669" font-weight="bold">JA</text>
+  <text x="280" y="435" font-family="Arial, sans-serif" font-size="12" fill="#dc2626" font-weight="bold">NEI</text>
+  
+  <!-- Additional information -->
+  <g transform="translate(50, 540)">
+    <text x="0" y="0" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+      <tspan x="0" dy="0">Viktige hensyn:</tspan>
+      <tspan x="120" dy="0">• Dokumenter alle vurderinger</tspan>
+      <tspan x="300" dy="0">• Vurder amortiseringsperiode</tspan>
+      <tspan x="500" dy="0">• Følg opp nedskrivningsbehov</tspan>
+    </text>
+  </g>
+</svg>

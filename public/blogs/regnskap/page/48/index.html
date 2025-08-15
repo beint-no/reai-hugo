@@ -1,6 +1,6 @@
 <!doctype html>
 <html lang="nb">
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1314&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Regnskap | ReAI</title>
@@ -77,6 +77,22 @@
   }
   footer .footer-link:hover { background-position: 0; }
   footer .footer-link:hover::before { width: 100%; }
+</style>
+<style>
+   
+  html { font-family: 'Inter', ui-sans-serif, system-ui, Arial, sans-serif; font-size: 16px; }
+  @media (min-width: 768px) { html { font-size: 17px; } }
+  body {
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    font-kerning: normal;
+    font-feature-settings: "kern", "liga", "ss01";
+  }
+  h1, h2, h3, h4, h5, h6 { letter-spacing: -0.01em; }
+  h1 { font-weight: 700; }
+  h2, h3, h4, h5, h6 { font-weight: 600; }
 </style>
 <style>
    
@@ -157,6 +173,7 @@
             <li><a href="/courses/" class="header-link text-slate-700 hover:text-black">Gratis kurs</a></li>
             <li><a href="/contact/" class="header-link text-slate-700 hover:text-black">Kontakt oss</a></li>
             <li><a href="/blog/" class="header-link text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+            <li><a href="/blog/kontoplan/" class="header-link text-slate-700 hover:text-black">Kontoplan</a></li>
             <li><a href="/bli-partner/" class="header-link text-slate-700 hover:text-black">Bli partner</a></li>
             <li><a href="/fakturamal/" class="header-link text-slate-700 hover:text-black">Lag faktura</a></li>
           </ul>
@@ -175,6 +192,7 @@
         <li><a href="/courses/" class="header-link block text-slate-700 hover:text-black">Gratis kurs</a></li>
         <li><a href="/contact/" class="header-link block text-slate-700 hover:text-black">Kontakt oss</a></li>
         <li><a href="/blog/" class="header-link block text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+        <li><a href="/blog/kontoplan/" class="header-link block text-slate-700 hover:text-black">Kontoplan</a></li>
         <li><a href="/bli-partner/" class="header-link block text-slate-700 hover:text-black">Bli partner</a></li>
         <li><a href="/fakturamal/" class="header-link block text-slate-700 hover:text-black">Lag faktura</a></li>
       </ul>
@@ -208,35 +226,89 @@
       
       <div class="mt-8 space-y-6">
         
-        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5">
-          <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/hva-er-mva-melding/">Hva er MVA-melding?</a></h2>
-          <p class="text-gray-700 mt-1">En omfattende guide til MVA-melding som dekker alle aspekter av merverdiavgiftsrapportering i Norge. Artikkelen forklarer hva MVA-melding er, hvem som må levere den, frister og prosedyrer, samt praktiske tips for korrekt utfylling og innlevering gjennom Altinn.</p>
+        
+        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5 flex gap-4">
+          
+            
+            
+              <img src="/blogs/regnskap/hva-er-mva-melding/hva-er-mva-melding-image.svg" alt="Hva er MVA-melding?" class="w-16 h-16 object-contain" />
+            
+          
+          <div>
+            <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/hva-er-mva-melding/">Hva er MVA-melding?</a></h2>
+            <p class="text-gray-700 mt-1">En omfattende guide til MVA-melding som dekker alle aspekter av merverdiavgiftsrapportering i Norge. Artikkelen forklarer hva MVA-melding er, hvem som må levere den, frister og prosedyrer, samt praktiske tips for korrekt utfylling og innlevering gjennom Altinn.</p>
+          </div>
         </article>
         
-        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5">
-          <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/hva-er-morarente/">Hva er morarente?</a></h2>
-          <p class="text-gray-700 mt-1">En detaljert guide til morarente i Norge. Artikkelen dekker lovgrunnlag, beregningsmetoder, gjeldende satser, regnskapsføring og praktisk håndtering av morarente for både kreditorer og debitorer i norsk næringsliv.</p>
+        
+        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5 flex gap-4">
+          
+            
+            
+              <img src="/blogs/regnskap/hva-er-morarente/hva-er-morarente-image.svg" alt="Hva er morarente?" class="w-16 h-16 object-contain" />
+            
+          
+          <div>
+            <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/hva-er-morarente/">Hva er morarente?</a></h2>
+            <p class="text-gray-700 mt-1">En detaljert guide til morarente i Norge. Artikkelen dekker lovgrunnlag, beregningsmetoder, gjeldende satser, regnskapsføring og praktisk håndtering av morarente for både kreditorer og debitorer i norsk næringsliv.</p>
+          </div>
         </article>
         
-        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5">
-          <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/hva-er-moms-mva/">Hva er Moms? Komplett Guide til Merverdiavgift (MVA) i Norge</a></h2>
-          <p class="text-gray-700 mt-1">Merverdiavgift (moms) er en indirekte avgift som pålegges salg av varer og tjenester i Norge. Denne artikkelen gir en detaljert gjennomgang av MVA-prinsipper, satser, fradragsregler, rapportering, registrering, internasjonal handel og praktiske tips.
+        
+        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5 flex gap-4">
+          
+            
+            
+              <img src="/blogs/regnskap/hva-er-moms-mva/hva-er-moms-mva-image.svg" alt="Hva er Moms (MVA)?" class="w-16 h-16 object-contain" />
+            
+          
+          <div>
+            <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/hva-er-moms-mva/">Hva er Moms? Komplett Guide til Merverdiavgift (MVA) i Norge</a></h2>
+            <p class="text-gray-700 mt-1">Merverdiavgift (moms) er en indirekte avgift som pålegges salg av varer og tjenester i Norge. Denne artikkelen gir en detaljert gjennomgang av MVA-prinsipper, satser, fradragsregler, rapportering, registrering, internasjonal handel og praktiske tips.
 </p>
+          </div>
         </article>
         
-        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5">
-          <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/hva-er-minstefradrag/">Hva er minstefradrag?</a></h2>
-          <p class="text-gray-700 mt-1">Denne artikkelen gir en grundig gjennomgang av minstefradrag i norsk skatterett. Vi dekker alt fra grunnleggende prinsipper, gjeldende satser og beregningsmetoder, til praktiske eksempler og sammenhenger med andre fradrag. Artikkelen inneholder tabeller, illustrasjoner og praktiske tips for å forstå hvordan minstefradrag fungerer i praksis.</p>
+        
+        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5 flex gap-4">
+          
+            
+            
+              <img src="/blogs/regnskap/hva-er-minstefradrag/hva-er-minstefradrag-image.svg" alt="Hva er minstefradrag?" class="w-16 h-16 object-contain" />
+            
+          
+          <div>
+            <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/hva-er-minstefradrag/">Hva er minstefradrag?</a></h2>
+            <p class="text-gray-700 mt-1">Denne artikkelen gir en grundig gjennomgang av minstefradrag i norsk skatterett. Vi dekker alt fra grunnleggende prinsipper, gjeldende satser og beregningsmetoder, til praktiske eksempler og sammenhenger med andre fradrag. Artikkelen inneholder tabeller, illustrasjoner og praktiske tips for å forstå hvordan minstefradrag fungerer i praksis.</p>
+          </div>
         </article>
         
-        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5">
-          <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/medsalgsplikt/">Hva er Medsalgsplikt?</a></h2>
-          <p class="text-gray-700 mt-1">En guide til medsalgsplikt som forklarer avgiftsrettslige forpliktelser når virksomheter selger varer for en annen, inkludert beregning av MVA og unntak.</p>
+        
+        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5 flex gap-4">
+          
+            
+            
+              <img src="/blogs/regnskap/medsalgsplikt/medsalgsplikt-image.svg" alt="Medsalgsplikt" class="w-16 h-16 object-contain" />
+            
+          
+          <div>
+            <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/medsalgsplikt/">Hva er Medsalgsplikt?</a></h2>
+            <p class="text-gray-700 mt-1">En guide til medsalgsplikt som forklarer avgiftsrettslige forpliktelser når virksomheter selger varer for en annen, inkludert beregning av MVA og unntak.</p>
+          </div>
         </article>
         
-        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5">
-          <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/hva-er-marginalskatt/">Hva er Marginalskatt?</a></h2>
-          <p class="text-gray-700 mt-1">Marginalskatt er den skattesatsen som gjelder for den siste kronen du tjener. Forstå hvordan marginalskatt beregnes og påvirker din personlige og bedriftens økonomi.</p>
+        
+        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5 flex gap-4">
+          
+            
+            
+              <img src="/blogs/regnskap/hva-er-marginalskatt/hva-er-marginalskatt-image.svg" alt="Hva er Marginalskatt?" class="w-16 h-16 object-contain" />
+            
+          
+          <div>
+            <h2 class="text-xl font-semibold"><a href="/blogs/regnskap/hva-er-marginalskatt/">Hva er Marginalskatt?</a></h2>
+            <p class="text-gray-700 mt-1">Marginalskatt er den skattesatsen som gjelder for den siste kronen du tjener. Forstå hvordan marginalskatt beregnes og påvirker din personlige og bedriftens økonomi.</p>
+          </div>
         </article>
         
       </div>
@@ -253,7 +325,7 @@
 
   </main>
   <footer class="mt-16 border-t border-slate-800/60 bg-slate-900">
-  <div class="max-w-7xl mx-auto px-4 py-14">
+  <div class="max-w-7xl mx-auto px-4 py-8 md:py-10">
     <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3 text-center sm:text-left">
       
       <div>
@@ -278,7 +350,7 @@
         </p>
       </div>
     </div>
-    <div class="mt-12 border-t border-slate-800/60 pt-6 flex flex-col items-center sm:flex-row sm:items-center sm:justify-between text-sm text-slate-400 text-center sm:text-left">
+    <div class="mt-8 border-t border-slate-800/60 pt-4 flex flex-col items-center sm:flex-row sm:items-center sm:justify-between text-sm text-slate-400 text-center sm:text-left">
       <div class="flex items-center gap-2">
         
         

@@ -1,0 +1,151 @@
+<svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="400" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" fill="#2c3e50" font-size="24" font-weight="bold" font-family="Arial, sans-serif">
+    Amortiseringsprosess for konsesjoner
+  </text>
+  
+  <!-- Step 1: Anskaffelse -->
+  <rect x="50" y="60" width="150" height="100" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="8"/>
+  <text x="125" y="80" text-anchor="middle" fill="#1976d2" font-size="14" font-weight="bold" font-family="Arial, sans-serif">
+    1. Anskaffelse
+  </text>
+  <text x="125" y="100" text-anchor="middle" fill="#1565c0" font-size="11" font-family="Arial, sans-serif">
+    Konsesjon kjøpes
+  </text>
+  <text x="125" y="115" text-anchor="middle" fill="#1565c0" font-size="11" font-family="Arial, sans-serif">
+    for 1 000 000 NOK
+  </text>
+  <text x="125" y="130" text-anchor="middle" fill="#1565c0" font-size="11" font-family="Arial, sans-serif">
+    Løpetid: 10 år
+  </text>
+  <text x="125" y="145" text-anchor="middle" fill="#1565c0" font-size="11" font-family="Arial, sans-serif">
+    Aktiveres på 1020
+  </text>
+  
+  <!-- Arrow 1 -->
+  <path d="M 200 110 L 230 110" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Step 2: Vurdering -->
+  <rect x="240" y="60" width="150" height="100" fill="#fff3e0" stroke="#f57c00" stroke-width="2" rx="8"/>
+  <text x="315" y="80" text-anchor="middle" fill="#f57c00" font-size="14" font-weight="bold" font-family="Arial, sans-serif">
+    2. Vurdering
+  </text>
+  <text x="315" y="100" text-anchor="middle" fill="#ef6c00" font-size="11" font-family="Arial, sans-serif">
+    Juridisk løpetid:
+  </text>
+  <text x="315" y="115" text-anchor="middle" fill="#ef6c00" font-size="11" font-family="Arial, sans-serif">
+    10 år
+  </text>
+  <text x="315" y="130" text-anchor="middle" fill="#ef6c00" font-size="11" font-family="Arial, sans-serif">
+    Økon. levetid: 12 år
+  </text>
+  <text x="315" y="145" text-anchor="middle" fill="#ef6c00" font-size="11" font-family="Arial, sans-serif">
+    Velg korteste: 10 år
+  </text>
+  
+  <!-- Arrow 2 -->
+  <path d="M 390 110 L 420 110" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Step 3: Beregning -->
+  <rect x="430" y="60" width="150" height="100" fill="#e8f5e8" stroke="#388e3c" stroke-width="2" rx="8"/>
+  <text x="505" y="80" text-anchor="middle" fill="#388e3c" font-size="14" font-weight="bold" font-family="Arial, sans-serif">
+    3. Beregning
+  </text>
+  <text x="505" y="100" text-anchor="middle" fill="#2e7d32" font-size="11" font-family="Arial, sans-serif">
+    Årlig amortisering:
+  </text>
+  <text x="505" y="115" text-anchor="middle" fill="#2e7d32" font-size="11" font-family="Arial, sans-serif">
+    1 000 000 / 10
+  </text>
+  <text x="505" y="130" text-anchor="middle" fill="#2e7d32" font-size="11" font-family="Arial, sans-serif">
+    = 100 000 NOK
+  </text>
+  <text x="505" y="145" text-anchor="middle" fill="#2e7d32" font-size="11" font-family="Arial, sans-serif">
+    per år
+  </text>
+  
+  <!-- Arrow 3 -->
+  <path d="M 580 110 L 610 110" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Step 4: Regnskapsføring -->
+  <rect x="620" y="60" width="130" height="100" fill="#fce4ec" stroke="#c2185b" stroke-width="2" rx="8"/>
+  <text x="685" y="80" text-anchor="middle" fill="#c2185b" font-size="14" font-weight="bold" font-family="Arial, sans-serif">
+    4. Regnskapsføring
+  </text>
+  <text x="685" y="100" text-anchor="middle" fill="#ad1457" font-size="10" font-family="Arial, sans-serif">
+    Debet: 6000
+  </text>
+  <text x="685" y="115" text-anchor="middle" fill="#ad1457" font-size="10" font-family="Arial, sans-serif">
+    Amortisering
+  </text>
+  <text x="685" y="130" text-anchor="middle" fill="#ad1457" font-size="10" font-family="Arial, sans-serif">
+    Kredit: 1029
+  </text>
+  <text x="685" y="145" text-anchor="middle" fill="#ad1457" font-size="10" font-family="Arial, sans-serif">
+    Akk. amortisering
+  </text>
+  
+  <!-- Timeline visualization -->
+  <rect x="50" y="200" width="700" height="150" fill="#f1f3f4" stroke="#6c757d" rx="10"/>
+  <text x="400" y="220" text-anchor="middle" fill="#495057" font-size="16" font-weight="bold" font-family="Arial, sans-serif">
+    Amortiseringsplan - 10 års konsesjon
+  </text>
+  
+  <!-- Timeline bars -->
+  <rect x="70" y="240" width="60" height="30" fill="#2196f3"/>
+  <rect x="140" y="240" width="60" height="30" fill="#4caf50"/>
+  <rect x="210" y="240" width="60" height="30" fill="#ff9800"/>
+  <rect x="280" y="240" width="60" height="30" fill="#f44336"/>
+  <rect x="350" y="240" width="60" height="30" fill="#9c27b0"/>
+  <rect x="420" y="240" width="60" height="30" fill="#607d8b"/>
+  <rect x="490" y="240" width="60" height="30" fill="#795548"/>
+  <rect x="560" y="240" width="60" height="30" fill="#3f51b5"/>
+  <rect x="630" y="240" width="60" height="30" fill="#009688"/>
+  <rect x="700" y="240" width="40" height="30" fill="#cddc39"/>
+  
+  <!-- Year labels -->
+  <text x="100" y="285" text-anchor="middle" fill="#333" font-size="10" font-family="Arial, sans-serif">År 1</text>
+  <text x="170" y="285" text-anchor="middle" fill="#333" font-size="10" font-family="Arial, sans-serif">År 2</text>
+  <text x="240" y="285" text-anchor="middle" fill="#333" font-size="10" font-family="Arial, sans-serif">År 3</text>
+  <text x="310" y="285" text-anchor="middle" fill="#333" font-size="10" font-family="Arial, sans-serif">År 4</text>
+  <text x="380" y="285" text-anchor="middle" fill="#333" font-size="10" font-family="Arial, sans-serif">År 5</text>
+  <text x="450" y="285" text-anchor="middle" fill="#333" font-size="10" font-family="Arial, sans-serif">År 6</text>
+  <text x="520" y="285" text-anchor="middle" fill="#333" font-size="10" font-family="Arial, sans-serif">År 7</text>
+  <text x="590" y="285" text-anchor="middle" fill="#333" font-size="10" font-family="Arial, sans-serif">År 8</text>
+  <text x="660" y="285" text-anchor="middle" fill="#333" font-size="10" font-family="Arial, sans-serif">År 9</text>
+  <text x="720" y="285" text-anchor="middle" fill="#333" font-size="10" font-family="Arial, sans-serif">År 10</text>
+  
+  <!-- Amortization amounts -->
+  <text x="100" y="255" text-anchor="middle" fill="white" font-size="9" font-weight="bold" font-family="Arial, sans-serif">100k</text>
+  <text x="170" y="255" text-anchor="middle" fill="white" font-size="9" font-weight="bold" font-family="Arial, sans-serif">100k</text>
+  <text x="240" y="255" text-anchor="middle" fill="white" font-size="9" font-weight="bold" font-family="Arial, sans-serif">100k</text>
+  <text x="310" y="255" text-anchor="middle" fill="white" font-size="9" font-weight="bold" font-family="Arial, sans-serif">100k</text>
+  <text x="380" y="255" text-anchor="middle" fill="white" font-size="9" font-weight="bold" font-family="Arial, sans-serif">100k</text>
+  <text x="450" y="255" text-anchor="middle" fill="white" font-size="9" font-weight="bold" font-family="Arial, sans-serif">100k</text>
+  <text x="520" y="255" text-anchor="middle" fill="white" font-size="9" font-weight="bold" font-family="Arial, sans-serif">100k</text>
+  <text x="590" y="255" text-anchor="middle" fill="white" font-size="9" font-weight="bold" font-family="Arial, sans-serif">100k</text>
+  <text x="660" y="255" text-anchor="middle" fill="white" font-size="9" font-weight="bold" font-family="Arial, sans-serif">100k</text>
+  <text x="720" y="255" text-anchor="middle" fill="white" font-size="9" font-weight="bold" font-family="Arial, sans-serif">100k</text>
+  
+  <!-- Summary -->
+  <text x="400" y="310" text-anchor="middle" fill="#495057" font-size="12" font-family="Arial, sans-serif">
+    Total amortisering: 1 000 000 NOK over 10 år = 100 000 NOK årlig
+  </text>
+  
+  <text x="400" y="330" text-anchor="middle" fill="#6c757d" font-size="11" font-family="Arial, sans-serif">
+    Balanseført verdi reduseres med 100 000 NOK hvert år til konsesjonen er fullt amortisert
+  </text>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#6c757d"/>
+    </marker>
+  </defs>
+  
+  <!-- Bottom accent -->
+  <rect x="50" y="380" width="700" height="4" fill="#6c757d"/>
+</svg>

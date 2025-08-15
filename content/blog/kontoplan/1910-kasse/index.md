@@ -1,0 +1,73 @@
+---
+title: "1910-kasse"
+slug: 1910-kasse
+type: "blog"
+layout: "pages/single"
+---
+
+**Konto 1910 - Kasse** er en konto i norsk standard kontoplan som brukes til å registrere virksomhetens **kassebeholdning**, det vil si de kontante midlene som ligger tilgjengelig i kassen for daglige utlegg. Kasse er en delmengde av [Konto 1900 - Kontanter](/blogs/kontoplan/1900-kontanter "Konto 1900 - Kontanter") og føres som **omløpsmiddel** i [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse?").
+
+![Illustrasjon av konto 1910 kasse](1910-kasse-image.svg)
+
+Overskytende midler kan plasseres på [Konto 1920 - Bankinnskudd](/blogs/kontoplan/1920-bankinnskudd "Konto 1920 - Bankinnskudd") for økt sikkerhet og avkastning.
+
+## Hva er kasse?
+
+Med **kasse** menes den kontantbeholdningen som oppbevares i virksomhetens kasse (eller kassedisk) for å håndtere daglige betalinger og småutlegg.
+
+## Typer kassebeholdning
+
+| Type kassebeholdning | Beskrivelse                                  |
+|----------------------|----------------------------------------------|
+| **Dagskasse**        | Midler for daglig drift, for eksempel salg   |
+| **Reservesum**       | Reserve til uforutsette småutlegg            |
+| **Minibank**         | Kontanter tilgjengelig i minibank inne i lokalet |
+
+## Regnskapsføring av kasse
+
+### Kassesalg (kontantsalg)
+
+```
+Debet: Konto 1910 - Kasse
+Kredit: Konto 3000 - Salgsinntekter (eller annen inntektskonto)
+```
+
+### Flytting mellom kasse og kontanter
+
+```
+Debet: Konto 1910 - Kasse
+Kredit: Konto 1900 - Kontanter
+```
+
+```
+Debet: Konto 1900 - Kontanter
+Kredit: Konto 1910 - Kasse
+```
+
+## Kontroll og rutiner
+
+For å sikre korrekt registrering og hindre misbruk av kassebeholdningen bør virksomheten:
+
+* **Avstemme kasse** daglig eller etter hvert kasseoppgjør
+* **Oppbevare** kassen i låst skap eller safe
+* **Dokumentere** uttak og innskudd med kasserapporter eller kvitteringer
+* **Begrense** tilgang til autorisert personell
+
+## Fordeler og ulemper ved kassebeholdning
+
+### Fordeler
+
+* **Rask tilgjengelighet** for daglige utlegg og mindre betalinger
+* **Økt kontroll** over kontantstrømmer ved daglig avstemming
+
+### Ulemper
+
+* **Sikkerhetsrisiko** ved tyveri eller svinn
+* **Manglende sporbarhet** hvis dokumentasjon uteblir
+
+## Relaterte artikler
+
+* [Konto 1900 - Kontanter](/blogs/kontoplan/1900-kontanter "Konto 1900 - Kontanter")
+* [Hva er Anleggsmidler?](/blogs/regnskap/hva-er-anleggsmidler "Hva er Anleggsmidler?")
+* [Hva er Balanse?](/blogs/regnskap/hva-er-balanse "Hva er Balanse?")
+* [Hva er Bankinnskudd?](/blogs/regnskap/hva-er-bankinnskudd "Bankinnskudd i Regnskap - Typer, Regnskapsføring og Rentehåndtering")
