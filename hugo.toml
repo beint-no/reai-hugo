@@ -7,6 +7,11 @@ enableRobotsTXT = true
 [params]
   description = 'Komplett regnskapssystem med faktura, lønn, bilagsføring og årsoppgjør.'
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [menus]
   [[menus.main]]
   name = 'Produkter'
@@ -27,3 +32,6 @@ enableRobotsTXT = true
   name = 'Kontakt oss'
   url = '/contact/'
   weight = 100
+
+[pagination]
+  pagerSize = 6
