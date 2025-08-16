@@ -4,6 +4,9 @@
 /assets/node_modules/
 .hugo_build.lock
 
+# Ensure public directory is ignored even if previously tracked
+public/
+
 # OS generated files
 .DS_Store
 .DS_Store?
