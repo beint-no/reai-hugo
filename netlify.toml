@@ -1,0 +1,23 @@
+[build]
+  command = "hugo --gc --minify"
+  publish = "public"
+
+[[redirects]]
+  from = "/courses/*"
+  to = "/collections/all/"
+  status = 301
+
+[[redirects]]
+  from = "/fakturamal/*"
+  to = "/pages/lag-faktura-gratis/"
+  status = 301
+
+[[redirects]]
+  from = "/contact/*"
+  to = "/pages/contact/"
+  status = 301
+
+[[redirects]]
+  from = "/bli-partner/*"
+  to = "/pages/bli-partner/"
+  status = 301

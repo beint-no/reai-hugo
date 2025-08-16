@@ -1,3 +1,3 @@
 ---
-title: "Produkter"
+title: "Kurs og guider"
 ---

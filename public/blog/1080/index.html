@@ -1,0 +1,417 @@
+<!doctype html>
+<html lang="nb">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>1080 | ReAI</title>
+  <meta name="description" content="Komplett regnskapssystem med faktura, lønn, bilagsføring og årsoppgjør.">
+  
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<script src="https://cdn.tailwindcss.com?plugins=typography"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        fontFamily: { sans: ['Inter','ui-sans-serif','system-ui','Arial','sans-serif'] },
+        colors: {
+          brand: { DEFAULT: '#111827' },
+          accent: { DEFAULT: '#2563eb' }
+        }
+      }
+    }
+  }
+</script>
+<style>
+   
+  header .header-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #000 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  header .header-link:hover { background-position: 0; }
+  header .header-link:hover::before { width: 100%; }
+
+  footer .footer-link {
+    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #ffffff 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link::before {
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  footer .footer-link:hover { background-position: 0; }
+  footer .footer-link:hover::before { width: 100%; }
+</style>
+<style>
+   
+  html { font-family: 'Inter', ui-sans-serif, system-ui, Arial, sans-serif; font-size: 16px; }
+  @media (min-width: 768px) { html { font-size: 17px; } }
+  body {
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    font-kerning: normal;
+    font-feature-settings: "kern", "liga", "ss01";
+  }
+  h1, h2, h3, h4, h5, h6 { letter-spacing: -0.01em; }
+  h1 { font-weight: 700; }
+  h2, h3, h4, h5, h6 { font-weight: 600; }
+</style>
+<style>
+   
+  .prose { overflow-wrap: anywhere; word-break: break-word; }
+  .prose img { max-width: 100%; height: auto; }
+  .prose table { display: block; width: 100%; overflow-x: auto; }
+  .prose pre { white-space: pre-wrap; word-break: break-word; overflow-x: auto; }
+  .prose code { word-break: break-word; }
+  .prose iframe, .prose video { max-width: 100%; width: 100%; height: auto; }
+</style>
+<style>
+   
+  button,
+  .btn,
+  a.btn,
+  .button,
+  .cta,
+  .link-button,
+   
+  a.inline-flex.rounded-md,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"] {
+    transition: transform 220ms ease, box-shadow 220ms ease, background-color 220ms ease, color 220ms ease, opacity 220ms ease;
+    will-change: transform, box-shadow;
+  }
+
+  button:hover,
+  .btn:hover,
+  a.btn:hover,
+  .button:hover,
+  .cta:hover,
+  .link-button:hover,
+  a.inline-flex.rounded-md:hover,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+
+  button:active,
+  .btn:active,
+  a.btn:active,
+  .button:active,
+  .cta:active,
+  .link-button:active,
+  a.inline-flex.rounded-md:active,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:active {
+    transform: translateY(-1px) scale(0.99);
+    box-shadow: 0 6px 12px rgba(2, 6, 23, 0.1);
+  }
+
+  button:focus-visible,
+  .btn:focus-visible,
+  a.btn:focus-visible,
+  .button:focus-visible,
+  .cta:focus-visible,
+  .link-button:focus-visible,
+  a.inline-flex.rounded-md:focus-visible,
+  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.35), 0 10px 20px rgba(2, 6, 23, 0.12);
+  }
+</style>
+
+<link rel="icon" type="image/svg+xml" href="/images/ReAI-logo-square.svg">
+<link rel="shortcut icon" href="/images/ReAI-logo-square.svg">
+
+</head>
+<body class="min-h-dvh bg-white text-gray-900 font-sans">
+  <header class="sticky top-0 z-40 bg-white/80 backdrop-blur">
+  
+  <div class="border-b border-slate-200/70">
+    <div class="max-w-7xl mx-auto px-4">
+      <div class="h-16 flex items-center justify-between">
+        <a href="/" class="flex items-center gap-2" aria-label="ReAI">
+          <img src="/images/ReAI-logo-square.svg?v=4" alt="ReAI logo" class="h-14 w-14 rounded-md mt-5" width="56" height="56" loading="eager" decoding="async">
+        </a>
+        <nav class="hidden md:block">
+          <ul class="flex items-center gap-5 text-sm">
+            <li><a href="/courses/" class="header-link text-slate-700 hover:text-black">Gratis kurs</a></li>
+            <li><a href="/contact/" class="header-link text-slate-700 hover:text-black">Kontakt oss</a></li>
+            <li><a href="/blogs/regnskap/" class="header-link text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+            <li><a href="/blogs/kontoplan/" class="header-link text-slate-700 hover:text-black">Kontoplan</a></li>
+            <li><a href="/bli-partner/" class="header-link text-slate-700 hover:text-black">Bli partner</a></li>
+            <li><a href="/fakturamal/" class="header-link text-slate-700 hover:text-black">Lag faktura</a></li>
+          </ul>
+        </nav>
+        <button id="mobileMenuBtn" aria-controls="mobileMenu" aria-expanded="false" class="md:hidden inline-flex items-center justify-center h-9 w-9 rounded-md border border-slate-300">
+          <span class="sr-only">Meny</span>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-5 w-5"><path d="M3.75 6.75h16.5v1.5H3.75zM3.75 11.25h16.5v1.5H3.75zM3.75 15.75h16.5v1.5H3.75z"/></svg>
+        </button>
+      </div>
+    </div>
+  </div>
+  
+  <nav id="mobileMenu" class="md:hidden hidden border-b border-slate-200/70 bg-white/95 backdrop-blur">
+    <div class="max-w-7xl mx-auto px-4 py-3">
+      <ul class="flex flex-col items-center gap-3 text-sm text-center">
+        <li><a href="/courses/" class="header-link block text-slate-700 hover:text-black">Gratis kurs</a></li>
+        <li><a href="/contact/" class="header-link block text-slate-700 hover:text-black">Kontakt oss</a></li>
+        <li><a href="/blogs/regnskap/" class="header-link block text-slate-700 hover:text-black">Regnskapsblogg</a></li>
+        <li><a href="/blogs/kontoplan/" class="header-link block text-slate-700 hover:text-black">Kontoplan</a></li>
+        <li><a href="/bli-partner/" class="header-link block text-slate-700 hover:text-black">Bli partner</a></li>
+        <li><a href="/fakturamal/" class="header-link block text-slate-700 hover:text-black">Lag faktura</a></li>
+      </ul>
+    </div>
+  </nav>
+  <script>
+    (function() {
+      const btn = document.getElementById('mobileMenuBtn');
+      const menu = document.getElementById('mobileMenu');
+      if (!btn || !menu) return;
+      btn.addEventListener('click', function() {
+        const isHidden = menu.classList.contains('hidden');
+        menu.classList.toggle('hidden');
+        btn.setAttribute('aria-expanded', String(isHidden));
+      });
+    })();
+  </script>
+</header>
+  <main>
+    
+<section class="pt-10 md:pt-14">
+  <div class="max-w-3xl mx-auto px-4">
+    <h1 class="text-3xl font-semibold tracking-tight text-center">1080</h1>
+    
+    <article class="prose max-w-none mt-6"><p><strong>Konto 1080 - Goodwill</strong> er en av de mest komplekse kontiene i norsk kontoplan og representerer den delen av <a href="/blogs/regnskap/hva-er-anskaffelseskost" title="Hva er Anskaffelseskost?">anskaffelseskostnaden</a> for en virksomhet som overstiger virkelig verdi av de identifiserbare <a href="/blogs/regnskap/hva-er-anleggsmidler" title="Hva er Anleggsmidler?">anleggsmidlene</a>. Denne kontoen brukes for å registrere <strong>goodwill</strong> som oppstår ved virksomhetsoppkjøp og representerer <a href="/blogs/regnskap/hva-er-imaterielle-eiendeler" title="Hva er Imaterielle Eiendeler?">immaterielle eiendeler</a> som ikke kan identifiseres separat.</p>
+<p><img src="1080-goodwill-image.svg" alt="Illustrasjon av konto 1080 goodwill"></p>
+<h2 id="hva-er-goodwill">Hva er Goodwill?</h2>
+<p><strong>Goodwill</strong> er en immateriell eiendel som representerer den ekstra verdien en virksomhet har utover summen av dens identifiserbare eiendeler og gjeld. I regnskapsmessig sammenheng skilles det mellom:</p>
+<ul>
+<li><strong>Kjøpt goodwill</strong>: Oppstår ved oppkjøp av virksomheter og <a href="/blogs/regnskap/hva-er-aktivering" title="Hva er Aktivering i Regnskap?">aktiveres</a> på konto 1080</li>
+<li><strong>Egenutviklet goodwill</strong>: Kan ikke aktiveres og må kostnadsføres løpende</li>
+</ul>
+<h2 id="hvordan-oppstår-goodwill">Hvordan oppstår Goodwill?</h2>
+<p>Goodwill oppstår når en virksomhet kjøper en annen virksomhet til en pris som overstiger den <strong>netto bokførte verdien</strong> av de identifiserbare eiendelene. Beregningen gjøres slik:</p>
+<table>
+  <thead>
+      <tr>
+          <th>Komponent</th>
+          <th>Beskrivel se</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>Kjøpesum</strong></td>
+          <td>Total betalt for virksomheten</td>
+      </tr>
+      <tr>
+          <td><strong>Minus: Identifiserbare eiendeler</strong></td>
+          <td>Varelager, <a href="/blogs/kontoplan/1500-kundefordringer" title="Konto 1500 - Kundefordringer">kundefordringer</a>, anleggsmidler etc.</td>
+      </tr>
+      <tr>
+          <td><strong>Pluss: Overtatte forpliktelser</strong></td>
+          <td>Leverandørgjeld, lån, avsetninger etc.</td>
+      </tr>
+      <tr>
+          <td><strong>Resultat = Goodwill</strong></td>
+          <td>Differansen aktiveres på konto 1080</td>
+      </tr>
+  </tbody>
+</table>
+<p><img src="goodwill-beregning.svg" alt="Beregning av goodwill ved oppkjøp"></p>
+<h2 id="elementer-som-inngår-i-goodwill">Elementer som inngår i Goodwill</h2>
+<h3 id="identifiserbare-faktorer">Identifiserbare faktorer</h3>
+<ul>
+<li><strong>Kunderelasjoner og kundebase</strong>: Etablerte kundeforhold som genererer fremtidige inntekter</li>
+<li><strong>Leverandørrelasjoner</strong>: Fordelaktige avtaler og etablerte leverandørkjeder</li>
+<li><strong>Medarbeiderlojalitet</strong>: Kvalifisert arbeidskraft og etablerte team</li>
+<li><strong>Markedsposisjon</strong>: Markedsandeler og konkurransefordeler</li>
+<li><strong>Synergier</strong>: Kostnadsbesparelser og inntektsøkninger ved sammenlåing</li>
+</ul>
+<h3 id="ikke-identifiserbare-faktorer">Ikke-identifiserbare faktorer</h3>
+<ul>
+<li><strong>Renommé og omdømme</strong>: Merkevarekapital og tillit i markedet</li>
+<li><strong>Organisasjonskultur</strong>: Etablerte prosesser og arbeidsmetoder</li>
+<li><strong>Innovasjonskapasitet</strong>: Evne til utvikling og tilpasning</li>
+<li><strong>Ledelseskvalitet</strong>: Kompetanse og erfaring i ledergruppen</li>
+</ul>
+<p><img src="goodwill-komponenter.svg" alt="Komponenter av goodwill"></p>
+<h2 id="regnskapsføring-av-goodwill">Regnskapsføring av Goodwill</h2>
+<h3 id="ved-oppkjøp">Ved oppkjøp</h3>
+<p>Når goodwill oppstår ved virksomhetsoppkjøp, bokføres det på følgende måte:</p>
+<pre tabindex="0"><code>Debet:  Konto 1080 - Goodwill         XXX kroner
+Kredit: Konto 1900 - Bankinnskudd     XXX kroner
+</code></pre><h3 id="nedskrivningsvurdering">Nedskrivningsvurdering</h3>
+<p>Goodwill skal <strong>ikke</strong> amortiseres, men må vurderes for <a href="/blogs/regnskap/hva-er-nedskrivning" title="Hva er Nedskrivning?">nedskrivning</a> årlig. Nedskrivning bokføres slik:</p>
+<pre tabindex="0"><code>Debet:  Konto 6890 - Nedskrivning av goodwill    XXX kroner
+Kredit: Konto 1080 - Goodwill                    XXX kroner
+</code></pre><h2 id="vurdering-og-nedskrivning">Vurdering og nedskrivning</h2>
+<h3 id="årlig-nedskrivningstest">Årlig nedskrivningstest</h3>
+<p>Goodwill skal testes for nedskrivning minst en gang årlig eller når det foreligger indikasjoner på verdifall. Testen sammenligner:</p>
+<ul>
+<li><strong>Bokført verdi</strong>: Goodwill pluss andre eiendeler i kontantgenererende enhet</li>
+<li><strong>Gjenvinnbar verdi</strong>: Høyeste av bruksverdi og virkelig verdi minus salgsutgifter</li>
+</ul>
+<h3 id="indikatorer-på-nedskrivning">Indikatorer på nedskrivning</h3>
+<ul>
+<li>Betydelig fall i markedsverdi</li>
+<li>Negative endringer i teknologi eller marked</li>
+<li>Økte renter som påvirker diskonteringsraten</li>
+<li>Bokført verdi av netto eiendeler overstiger markedsverdi</li>
+</ul>
+<p><img src="goodwill-nedskrivning.svg" alt="Nedskrivningsvurdering av goodwill"></p>
+<h2 id="praktiske-eksempler">Praktiske eksempler</h2>
+<h3 id="eksempel-1-oppkjøp-av-mindre-virksomhet">Eksempel 1: Oppkjøp av mindre virksomhet</h3>
+<p>En virksomhet kjøper en konkurrent for 5 millioner kroner. Regnskapsanalysen viser:</p>
+<ul>
+<li><strong>Kjøpesum</strong>: 5 000 000 kroner</li>
+<li><strong>Identifiserbare eiendeler</strong>: 4 200 000 kroner</li>
+<li><strong>Overtatte forpliktelser</strong>: 1 500 000 kroner</li>
+<li><strong>Netto identifiserbare eiendeler</strong>: 2 700 000 kroner</li>
+<li><strong>Goodwill</strong>: 2 300 000 kroner</li>
+</ul>
+<h3 id="eksempel-2-nedskrivning-av-goodwill">Eksempel 2: Nedskrivning av goodwill</h3>
+<p>Etter tre år viser analysen at den kontantgenererende enheten har en gjenvinnbar verdi på 1 800 000 kroner, mens bokført verdi er 2 300 000 kroner. Nedskrivning på 500 000 kroner må bokføres.</p>
+<h2 id="forskjeller-mellom-regnskapsregler">Forskjeller mellom regnskapsregler</h2>
+<h3 id="norske-regnskapsstandarder-ngrs">Norske regnskapsstandarder (NGRS)</h3>
+<ul>
+<li>Goodwill skal amortiseres over økonomisk levetid (maks 20 år)</li>
+<li>Lineær amortisering er hovedregel</li>
+<li>Nedskrivning når bokført verdi overstiger gjenvinnbar verdi</li>
+</ul>
+<h3 id="internasjonale-regnskapsstandarder-ifrs">Internasjonale regnskapsstandarder (IFRS)</h3>
+<ul>
+<li>Goodwill skal <strong>ikke</strong> amortiseres</li>
+<li>Årlig nedskrivningstest er obligatorisk</li>
+<li>Mer detaljerte krav til dokumentasjon</li>
+</ul>
+<h2 id="utfordringer-og-fallgruver">Utfordringer og fallgruver</h2>
+<h3 id="vanlige-feil-ved-goodwill-regnskapsføring">Vanlige feil ved goodwill-regnskapsføring</h3>
+<ul>
+<li><strong>Feil beregning</strong>: Ikke identifisering av alle immaterielle eiendeler</li>
+<li><strong>Manglende nedskrivningstest</strong>: Utsettelse av nødvendige nedskrivninger</li>
+<li><strong>Feil allokering</strong>: Fordeling av goodwill på feil kontantgenererende enheter</li>
+<li><strong>Utilstrekkelig dokumentasjon</strong>: Manglende begrunnelse for verdivurderinger</li>
+</ul>
+<h3 id="best-practice-anbefalinger">Best practice anbefalinger</h3>
+<ul>
+<li>Gjennomfør grundig due diligence før oppkjøp</li>
+<li>Dokumenter alle verdivurderinger og antagelser</li>
+<li>Etabler rutiner for årlig nedskrivningstest</li>
+<li>Konsulter regnskapsfaglig ekspertise ved komplekse transaksjoner</li>
+</ul>
+<h2 id="sammenheng-med-andre-kontoer">Sammenheng med andre kontoer</h2>
+<p>Goodwill har nær sammenheng med andre kontoer i <a href="/blogs/regnskap/hva-er-balanse" title="Hva er Balanse?">balansen</a>:</p>
+<ul>
+<li><strong><a href="/blogs/kontoplan/1000-forskning-og-utvikling" title="Konto 1000 - Forskning og utvikling">Konto 1000 - Forskning og utvikling</a></strong>: Identifiserbare immaterielle eiendeler</li>
+<li><strong><a href="/blogs/kontoplan/1020-konsesjoner" title="Konto 1020 - Konsesjoner">Konto 1020 - Konsesjoner</a></strong>: Spesifikke rettigheter som kan skilles ut</li>
+<li><strong><a href="/blogs/kontoplan/1030-patenter" title="Konto 1030 - Patenter">Konto 1030 - Patenter</a></strong>: Beskyttede teknologier og innovasjoner</li>
+<li><strong><a href="/blogs/kontoplan/1040-lisenser" title="Konto 1040 - Lisenser">Konto 1040 - Lisenser</a></strong>: Bruksrettigheter til teknologi eller innhold</li>
+<li><strong><a href="/blogs/kontoplan/1050-varemerker" title="Konto 1050 - Varemerker">Konto 1050 - Varemerker</a></strong>: Identifiserbare merkevarer</li>
+<li><strong><a href="/blogs/kontoplan/1060-andre-rettigheter" title="Konto 1060 - Andre rettigheter">Konto 1060 - Andre rettigheter</a></strong>: Øvrige identifiserbare immaterielle eiendeler</li>
+</ul>
+<p><img src="goodwill-sammenheng.svg" alt="Sammenheng mellom goodwill og andre immaterielle eiendeler"></p>
+<h2 id="regulatoriske-krav">Regulatoriske krav</h2>
+<h3 id="revisjonspliktige-virksomheter">Revisjonspliktige virksomheter</h3>
+<ul>
+<li><strong>Årlig nedskrivningstest</strong>: Obligatorisk for alle virksomheter med goodwill</li>
+<li><strong>Noteopplysninger</strong>: Detaljert informasjon om endringer i goodwill</li>
+<li><strong>Sensitivitetsanalyse</strong>: Vurdering av følsomhet for endringer i forutsetninger</li>
+</ul>
+<h3 id="rapportering-i-årsregnskap">Rapportering i årsregnskap</h3>
+<p>Følgende opplysninger skal gis i noter til årsregnskapet:</p>
+<ul>
+<li>Brutto bokført verdi ved årets begynnelse og slutt</li>
+<li>Akkumulerte nedskrivninger</li>
+<li>Tilgang ved oppkjøp i regnskapsåret</li>
+<li>Nedskrivninger foretatt i året</li>
+<li>Valuta- og andre justeringer</li>
+</ul>
+<h2 id="konklusjon">Konklusjon</h2>
+<p>Konto 1080 - Goodwill er en kompleks, men viktig del av norsk regnskapsføring. Korrekt håndtering krever:</p>
+<ul>
+<li><strong>Nøyaktig beregning</strong> ved oppkjøp</li>
+<li><strong>Regelmessig nedskrivningstest</strong> for å sikre korrekt verdsetting</li>
+<li><strong>Grundig dokumentasjon</strong> av alle vurderinger og beslutninger</li>
+<li><strong>Kontinuerlig oppfølging</strong> av verdifendringer</li>
+</ul>
+<p>Ved å følge gjeldende regnskapsstandarder og beste praksis kan virksomheter sikre at goodwill reflekterer den faktiske verdien av immaterielle eiendeler og gir interessenter et korrekt bilde av virksomhetens finansielle stilling.</p>
+</article>
+  </div>
+</section>
+
+  </main>
+  <footer class="mt-16 border-t border-slate-800/60 bg-slate-900">
+  <div class="max-w-7xl mx-auto px-4 py-8 md:py-10">
+    <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3 text-center sm:text-left">
+      
+      <div>
+        <h3 class="text-sm font-semibold text-white">Verktøy</h3>
+        <ul class="mt-2 space-y-2 text-sm text-slate-300">
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/pages/finn-iban/" target="_blank" rel="noopener">IBAN kalkulator</a></li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="/fakturamal/">Lag faktura</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Selskaps-informasjon</h3>
+        <ul class="mt-2 space-y-1 text-sm text-slate-300">
+          <li>Reai AS</li>
+          <li>Orgnr: 935606403</li>
+          <li><a class="footer-link transition-colors duration-200 hover:text-white" href="mailto:post@reai.no">post@reai.no</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-sm font-semibold text-white">Om ReAI</h3>
+        <p class="mt-2 text-sm text-slate-300">ReAI er et gratis regnskapsprogram laget av tidligere ansatte i Tripletex
+          / Visma. Vi mener det er på tide med mer konkurranse i regnskaps-bransjen som kan komme bedrifter til gode.
+        </p>
+      </div>
+    </div>
+    <div class="mt-8 border-t border-slate-800/60 pt-4 flex flex-col items-center sm:flex-row sm:items-center sm:justify-between text-sm text-slate-400 text-center sm:text-left">
+      <div class="flex items-center gap-2">
+        
+        
+      </div>
+      <div class="mt-4 sm:mt-0 flex items-center justify-center sm:justify-end">
+        <div class="opacity-80">&copy; 2025 ReAI. All rights reserved.</div>
+      </div>
+    </div>
+  </div>
+</footer>
+</body>
+</html>
