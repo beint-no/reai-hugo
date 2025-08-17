@@ -1,0 +1,192 @@
+{{ define "main" }}
+<div class="container mx-auto px-4 py-8">
+
+<style>
+@keyframes fadeInUp {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.animate-fadeInUp {
+  animation: fadeInUp 0.6s ease-out forwards;
+}
+</style>
+
+<div class="mt-12 flex justify-center">
+  <div class="bg-white shadow-lg rounded-lg p-8 w-full max-w-4xl transition-transform duration-300 hover:scale-[1.01] hover:shadow-2xl animate-fadeInUp">
+    
+    <!-- Title -->
+    <h1 class="text-2xl font-bold mb-4 text-center">Fyll ut feltene nedenfor</h1>
+    <p class="text-gray-600 text-center mb-8">
+      Legg til linjer etter behov, og last ned som PDF. Fakturamal er helt gratis å bruke og informasjonen din lagres til neste gang. 
+      Du kan alltid bruke <a href="https://reai.no" class="text-blue-600 underline">reai.no</a> for å lage en gratis faktura.
+    </p>
+
+    <form class="space-y-8">
+      <!-- Seller Info -->
+      <div>
+        <h2 class="text-lg font-semibold mb-4 border-b pb-1">Selgerinformasjon (deg)</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <input type="text" placeholder="Navn" class="border rounded p-2 w-full" />
+          <input type="text" placeholder="Kontonummer (IBAN/Norsk)" class="border rounded p-2 w-full" />
+          <input type="text" placeholder="Adresse" class="border rounded p-2 w-full" />
+          <input type="text" placeholder="Postnummer/Sted" class="border rounded p-2 w-full" />
+          <input type="tel" placeholder="Telefon" class="border rounded p-2 w-full" />
+          <input type="email" placeholder="E-post" class="border rounded p-2 w-full" />
+        </div>
+      </div>
+
+      <!-- Buyer Info -->
+      <div>
+        <h2 class="text-lg font-semibold mb-4 border-b pb-1">Kjøperinformasjon</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <input type="text" placeholder="Navn/Firmanavn" class="border rounded p-2 w-full" />
+          <input type="text" placeholder="Organisasjonsnummer (valgfritt)" class="border rounded p-2 w-full" />
+          <input type="text" placeholder="Adresse" class="border rounded p-2 w-full" />
+          <input type="text" placeholder="Postnummer/Sted" class="border rounded p-2 w-full" />
+          <input type="email" placeholder="E-post" class="border rounded p-2 w-full" />
+        </div>
+      </div>
+
+      <!-- Invoice Details -->
+      <div>
+        <h2 class="text-lg font-semibold mb-4 border-b pb-1">Fakturadetaljer</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <input type="text" placeholder="Fakturanummer" class="border rounded p-2 w-full" />
+          <input type="date" value="2025-08-13" class="border rounded p-2 w-full" />
+          <input type="text" placeholder="Forfallsdato" class="border rounded p-2 w-full" />
+        </div>
+      </div>
+
+      <!-- Goods / Services Table -->
+      <div>
+        <h2 class="text-lg font-semibold mb-4 border-b pb-1">Varer / Tjenester</h2>
+        <table class="w-full border text-sm" id="items-table">
+          <thead class="bg-gray-100">
+            <tr>
+              <th class="border p-2">Beskrivelse</th>
+              <th class="border p-2">Antall</th>
+              <th class="border p-2">Pris (NOK)</th>
+              <th class="border p-2">MVA %</th>
+              <th class="border p-2">Sum</th>
+              <th class="border p-2 w-14">Fjern</th>
+            </tr>
+          </thead>
+          <tbody id="items-body">
+            <tr>
+              <td class="border p-2"><input type="text" placeholder="Beskrivelse" class="w-full p-1 border rounded desc" /></td>
+              <td class="border p-2"><input type="number" value="1" min="0" step="1" class="w-full p-1 border rounded qty" /></td>
+              <td class="border p-2"><input type="number" value="0.00" min="0" step="0.01" class="w-full p-1 border rounded price" /></td>
+              <td class="border p-2"><input type="number" value="25" min="0" step="0.01" class="w-full p-1 border rounded vat" /></td>
+              <td class="border p-2"><input type="number" value="0.00" readonly class="w-full p-1 border rounded line-sum bg-gray-50" /></td>
+              <td class="border p-2 text-center"><button type="button" class="remove-row px-2 py-1 text-red-600 hover:text-red-800">✕</button></td>
+            </tr>
+          </tbody>
+        </table>
+        <button type="button" id="add-row" class="mt-2 px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700 transition">Legg til rad</button>
+      </div>
+
+      <!-- Totals -->
+      <div class="space-y-1 text-right">
+        <p>Delsum: <span id="subtotal" class="font-semibold">0.00 NOK</span></p>
+        <p>MVA: <span id="vatTotal" class="font-semibold">0.00 NOK</span></p>
+        <p>Å betale: <span id="grandTotal" class="font-bold text-lg">0.00 NOK</span></p>
+      </div>
+
+      <!-- Download Button -->
+      <div class="text-center">
+        <button type="button" id="download-pdf" class="px-6 py-3 bg-green-600 text-white rounded-lg shadow hover:bg-green-700 transition">
+          Last ned som PDF
+        </button>
+      </div>
+    </form>
+
+  </div>
+</div>
+
+<script>
+(function() {
+  const tbody = document.getElementById('items-body');
+  const addBtn = document.getElementById('add-row');
+  const subtotalEl = document.getElementById('subtotal');
+  const vatTotalEl = document.getElementById('vatTotal');
+  const grandTotalEl = document.getElementById('grandTotal');
+
+  function toNumber(v) {
+    const n = parseFloat(String(v).replace(',', '.'));
+    return isNaN(n) ? 0 : n;
+  }
+
+  function formatNOK(n) {
+    return n.toLocaleString('no-NO', { minimumFractionDigits: 2, maximumFractionDigits: 2 }) + ' NOK';
+  }
+
+  function calcRow(tr) {
+    const qty = toNumber(tr.querySelector('.qty')?.value);
+    const price = toNumber(tr.querySelector('.price')?.value);
+    const vat = toNumber(tr.querySelector('.vat')?.value);
+    const net = qty * price;
+    const vatAmount = net * (vat / 100);
+    const sum = net + vatAmount;
+    const sumInput = tr.querySelector('.line-sum');
+    if (sumInput) sumInput.value = sum.toFixed(2);
+    return { net, vatAmount, sum };
+  }
+
+  function recalcAll() {
+    let subtotal = 0, vatTotal = 0, total = 0;
+    [...tbody.querySelectorAll('tr')].forEach(tr => {
+      const { net, vatAmount, sum } = calcRow(tr);
+      subtotal += net; vatTotal += vatAmount; total += sum;
+    });
+    subtotalEl.textContent = formatNOK(subtotal);
+    vatTotalEl.textContent = formatNOK(vatTotal);
+    grandTotalEl.textContent = formatNOK(total);
+  }
+
+  function bindRow(tr) {
+    tr.addEventListener('input', (e) => {
+      if (e.target.matches('.qty, .price, .vat')) {
+        recalcAll();
+      }
+    });
+    tr.querySelector('.remove-row')?.addEventListener('click', () => {
+      if (tbody.children.length > 1) {
+        tr.remove();
+        recalcAll();
+      }
+    });
+  }
+
+  addBtn.addEventListener('click', () => {
+    const tr = document.createElement('tr');
+    tr.innerHTML = `
+      <td class="border p-2"><input type="text" placeholder="Beskrivelse" class="w-full p-1 border rounded desc" /></td>
+      <td class="border p-2"><input type="number" value="1" min="0" step="1" class="w-full p-1 border rounded qty" /></td>
+      <td class="border p-2"><input type="number" value="0.00" min="0" step="0.01" class="w-full p-1 border rounded price" /></td>
+      <td class="border p-2"><input type="number" value="25" min="0" step="0.01" class="w-full p-1 border rounded vat" /></td>
+      <td class="border p-2"><input type="number" value="0.00" readonly class="w-full p-1 border rounded line-sum bg-gray-50" /></td>
+      <td class="border p-2 text-center"><button type="button" class="remove-row px-2 py-1 text-red-600 hover:text-red-800">✕</button></td>
+    `;
+    tbody.appendChild(tr);
+    bindRow(tr);
+    recalcAll();
+  });
+
+  // initial bind
+  bindRow(tbody.querySelector('tr'));
+  recalcAll();
+
+  // Print to PDF functionality
+  document.getElementById('download-pdf')?.addEventListener('click', () => {
+    window.print();
+  });
+})();
+</script>
+
+{{ end }}
