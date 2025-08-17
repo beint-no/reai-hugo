@@ -1,40 +1,17 @@
-baseURL = 'https://reai.no/'
-languageCode = 'nb-no'
+baseURL = 'http://localhost:1313/'
+languageCode = 'no'
 title = 'ReAI'
 
-[permalinks]
-  pages = '/pages/:filename/'
-  products = '/products/:filename/'
-  blogs = '/blog/:filename/'
+disableKinds = ["taxonomy", "term"]
 
-# Enable redirects
 [outputs]
-  home = ['HTML', 'RSS', 'REDIRECTS']
-
-[outputFormats]
-  [outputFormats.REDIRECTS]
-    mediaType = 'text/plain'
-    baseName = '_redirects'
-    notAlternative = true
-    
-[services]
-  [services.robotsTXT]
-    enable = true
-
-[params]
-  description = 'Komplett regnskapssystem med faktura, lønn, bilagsføring og årsoppgjør.'
-
-# Use Git/file times for <lastmod> in pages and sitemap
-enableGitInfo = true
+  home = ['HTML', 'RSS']
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
-      unsafe = true # Allow raw HTML, important for JSON-LD etc.
-  [markup.tableOfContents]
-    endLevel = 3
-    ordered = false
-    startLevel = 2
+      unsafe = true
 
-[pagination]
-  pagerSize = 6
+[params]
+  description = 'Komplett regnskapssystem med AI-drevet automatisering'
+  theme_color = '#1e40af'
