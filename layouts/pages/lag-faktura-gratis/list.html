@@ -4,12 +4,32 @@
     <meta charset="UTF-8" />
     <title>Lag Faktura Gratis - ReAI</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <script
-      src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"
-      integrity="sha512-GsLlZN/3F2ErC5ifS5QtgpiJtWd43JWSuIgh7mbzZ8zBp+5J5n1q6z5i5+5w5vY1qO4R8F4k+ddRwLZnCC/Kg=="
-      crossorigin="anonymous"
-      referrerpolicy="no-referrer"
-    ></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+    <script>
+      // Initialize jsPDF
+      window.jsPDF = window.jspdf.jsPDF;
+      // Wait for html2pdf to be fully loaded
+      function waitForHtml2Pdf() {
+        return new Promise((resolve, reject) => {
+          if (window.html2pdf) {
+            resolve();
+          } else {
+            const checkInterval = setInterval(() => {
+              if (window.html2pdf) {
+                clearInterval(checkInterval);
+                resolve();
+              }
+            }, 100);
+            // Timeout after 5 seconds
+            setTimeout(() => {
+              clearInterval(checkInterval);
+              reject(new Error('html2pdf failed to load'));
+            }, 5000);
+          }
+        });
+      }
+    </script>
     <script src="https://cdn.tailwindcss.com"></script>
     <link
       rel="stylesheet"
@@ -317,79 +337,140 @@
         return date.toLocaleDateString('no-NO');
       }
 
-      async function generateAndDownloadPDF() {
-        console.log('Starting PDF generation...');
-        const btn = document.getElementById('download-pdf');
-        if (btn) {
-          btn.disabled = true;
-          btn.innerHTML = 'Genererer PDF...';
-        }
+      // Function to load scripts dynamically
+  function loadScript(src) {
+    return new Promise((resolve, reject) => {
+      const script = document.createElement('script');
+      script.src = src;
+      script.onload = resolve;
+      script.onerror = () => reject(new Error(`Script load error for ${src}`));
+      document.head.appendChild(script);
+    });
+  }
 
-        let pdfContainer;
+  async function generateAndDownloadPDF() {
+    console.log('Starting PDF generation...');
+    const btn = document.getElementById('download-pdf');
+    if (btn) {
+        btn.disabled = true;
+        btn.innerHTML = 'Genererer PDF...';
+    }
+
+    try {
+        if (!window.jspdf) {
+            await loadScript('https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js');
+            window.jsPDF = window.jspdf.jsPDF;
+        }
         
-        try {
-          console.log('Creating PDF container...');
-          pdfContainer = document.createElement('div');
-          pdfContainer.style.position = 'fixed';
-          pdfContainer.style.left = '-9999px';
-          document.body.appendChild(pdfContainer);
-          
-          console.log('Getting invoice container...');
-          const invoiceContainer = document.querySelector('.bg-white.rounded-lg.p-8');
-          if (!invoiceContainer) {
-            console.error('Invoice container not found');
-            throw new Error('Kunne ikke finne fakturaen');
-          }
-          
-          console.log('Cloning invoice content...');
-          pdfContainer.innerHTML = invoiceContainer.outerHTML;
-          
-          const invoiceNumber = document.getElementById('invoice-number').value || 'faktura';
-          
-          const opt = {
-            margin: 10,
-            filename: `faktura_${invoiceNumber}.pdf`,
-            image: { type: 'jpeg', quality: 0.98 },
-            html2canvas: { 
-              scale: 2,
-              useCORS: true,
-              logging: false,
-              letterRendering: true
-            },
-            jsPDF: { 
-              unit: 'mm', 
-              format: 'a4', 
-              orientation: 'portrait' 
+        if (!window.html2canvas) {
+            await loadScript('https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js');
+        }
+        
+        const invoiceContainer = document.querySelector('.bg-white.rounded-lg.p-8');
+        if (!invoiceContainer) throw new Error('Kunne ikke finne fakturaen');
+
+        const clone = invoiceContainer.cloneNode(true);
+        
+        // Remove unnecessary elements
+        ['#download-pdf', 'h1', '#add-row', 'button:not(.remove-row)', 'p.text-center'].forEach(selector => {
+            const el = clone.querySelector(selector);
+            if (el) el.remove();
+        });
+        
+        // Replace inputs with spans
+        clone.querySelectorAll('input').forEach(input => {
+            const parent = input.parentNode;
+            if (parent) {
+                const value = input.value || (input.type === 'date' ? formatDate(input.value) : '');
+                const span = document.createElement('span');
+                span.textContent = value;
+                span.style.display = 'inline-block';
+                span.style.minHeight = '20px';
+                span.style.width = '100%';
+                span.className = input.className.replace('border', '').replace('rounded', '');
+                parent.replaceChild(span, input);
             }
-          };
-          
-          console.log('Starting PDF generation with html2pdf...');
-          try {
-            await html2pdf()
-              .set(opt)
-              .from(pdfContainer)
-              .save();
-            console.log('PDF generation completed successfully');
-          } catch (pdfError) {
-            console.error('Error during PDF generation:', pdfError);
-            throw pdfError;
-          }
-            
-        } catch (error) {
-          console.error('PDF Error:', error);
-          alert('Kunne ikke generere PDF. Vennligst prøv igjen.');
-        } finally {
-          if (pdfContainer && pdfContainer.parentNode) {
-            document.body.removeChild(pdfContainer);
-          }
-          if (btn) {
+        });
+        
+        clone.querySelectorAll('input').forEach(input => input.remove());
+        clone.querySelectorAll('button').forEach(button => button.remove());
+        
+        // Add title
+        const title = document.createElement('h1');
+        title.textContent = 'FAKTURA';
+        title.style.textAlign = 'center';
+        title.style.fontSize = '24px';
+        title.style.fontWeight = 'bold';
+        title.style.marginBottom = '10px';
+        clone.insertBefore(title, clone.firstChild);
+        
+        // Add payment info
+        const paymentInfo = document.createElement('div');
+        paymentInfo.style.marginTop = '20px';
+        paymentInfo.style.paddingTop = '15px';
+        paymentInfo.style.borderTop = '1px solid #eee';
+        paymentInfo.innerHTML = `<p>${document.getElementById('payment-account')?.value || 'Betales til konto:'}</p>`;
+        clone.appendChild(paymentInfo);
+        
+        // Style adjustments
+        clone.style.width = '190mm';
+        clone.style.padding = '10mm';
+        clone.style.margin = '0';
+        clone.style.boxShadow = 'none';
+        clone.style.border = 'none';
+        
+        const tempContainer = document.createElement('div');
+        tempContainer.style.position = 'fixed';
+        tempContainer.style.left = '0';
+        tempContainer.style.top = '0';
+        tempContainer.style.width = '210mm';
+        tempContainer.style.background = 'white';
+        tempContainer.style.padding = '0';
+        tempContainer.style.zIndex = '9999';
+        tempContainer.style.visibility = 'hidden';
+        tempContainer.appendChild(clone);
+        
+        document.body.appendChild(tempContainer);
+        tempContainer.style.visibility = 'visible';
+        
+        await new Promise(resolve => setTimeout(resolve, 300));
+        
+        const canvas = await html2canvas(clone, {
+            scale: 1.5,
+            useCORS: true,
+            backgroundColor: '#ffffff',
+            logging: false
+        });
+        
+        const pdf = new window.jspdf.jsPDF({
+            orientation: 'portrait',
+            unit: 'mm',
+            format: 'a4'
+        });
+        
+        const imgData = canvas.toDataURL('image/png');
+        const imgWidth = 180;
+        const imgHeight = (canvas.height * imgWidth) / canvas.width;
+        
+        pdf.addImage(imgData, 'PNG', 15, 10, imgWidth, imgHeight);
+        
+        const invoiceNumber = document.getElementById('invoice-number')?.value || 'faktura';
+        pdf.save(`faktura_${invoiceNumber}.pdf`);
+        
+    } catch (error) {
+        console.error('PDF Error:', error);
+        alert('Kunne ikke generere PDF. Vennligst prøv igjen. Feil: ' + error.message);
+    } finally {
+        const tempContainer = document.querySelector('div[style*="z-index: 9999"]');
+        if (tempContainer) tempContainer.remove();
+        if (btn) {
             btn.disabled = false;
             btn.innerHTML = 'Last ned som PDF';
-          }
         }
-      }
+    }
+}
 
-      document.addEventListener('DOMContentLoaded', function() {
+document.addEventListener('DOMContentLoaded', function() {
         const downloadBtn = document.getElementById('download-pdf');
         if (downloadBtn) {
           downloadBtn.addEventListener('click', function(e) {
