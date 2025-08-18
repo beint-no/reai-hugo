@@ -85,7 +85,7 @@
             Legg til linjer etter behov, og last ned som PDF.
           </p>
 
-          <form class="space-y-8">
+          <form class="space-y-8" onsubmit="event.preventDefault();">
             <!-- Selger/Kjøper Info -->
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
               <div>
@@ -151,7 +151,6 @@
               </div>
             </div>
 
-            <!-- Faktura Info -->
             <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
               <input
                 type="text"
@@ -173,7 +172,6 @@
               />
             </div>
 
-            <!-- Items -->
             <table class="w-full border">
               <thead>
                 <tr class="bg-gray-100">
@@ -241,7 +239,6 @@
               Legg til rad
             </button>
 
-            <!-- Totals -->
             <div class="text-right space-y-1">
               <p>
                 Delsum:
@@ -256,7 +253,6 @@
               </p>
             </div>
 
-            <!-- Konto -->
             <div>
               <input
                 type="text"
@@ -315,181 +311,77 @@
         }
       });
 
-      // Function to generate and download PDF
+      function formatDate(dateString) {
+        if (!dateString) return '';
+        const date = new Date(dateString);
+        return date.toLocaleDateString('no-NO');
+      }
+
       async function generateAndDownloadPDF() {
-        try {
-          calculateTotals();
-          const btn = document.getElementById('download-pdf');
+        console.log('Starting PDF generation...');
+        const btn = document.getElementById('download-pdf');
+        if (btn) {
           btn.disabled = true;
-          btn.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Lager PDF...';
+          btn.innerHTML = 'Genererer PDF...';
+        }
 
-          const formatDate = (str) => str ? str.split("-").reverse().join(".") : '';
-          const formatCurrency = (num) => parseFloat(num || 0).toLocaleString("no-NO", { minimumFractionDigits: 2, maximumFractionDigits: 2 });
-
-          // Create a new window for the PDF content
-          const printWindow = window.open('', '_blank');
+        let pdfContainer;
+        
+        try {
+          console.log('Creating PDF container...');
+          pdfContainer = document.createElement('div');
+          pdfContainer.style.position = 'fixed';
+          pdfContainer.style.left = '-9999px';
+          document.body.appendChild(pdfContainer);
           
-          // Get values from the form
-          const sellerName = document.getElementById('seller-name').value || '';
-          const sellerAddress = document.getElementById('seller-address').value || '';
-          const sellerPostal = document.getElementById('seller-postal').value || '';
-          const sellerPhone = document.getElementById('seller-phone').value || '';
-          const sellerEmail = document.getElementById('seller-email').value || '';
-          const buyerName = document.getElementById('buyer-name').value || '';
-          const buyerOrg = document.getElementById('buyer-org').value || '';
-          const buyerAddress = document.getElementById('buyer-address').value || '';
-          const buyerPostal = document.getElementById('buyer-postal').value || '';
-          const invoiceNumber = document.getElementById('invoice-number').value || 'Ukjent';
-          const invoiceDate = document.getElementById('invoice-date').value || '';
-          const dueDate = document.getElementById('due-date').value || '';
-          const paymentAccount = document.getElementById('payment-account').value || '';
+          console.log('Getting invoice container...');
+          const invoiceContainer = document.querySelector('.bg-white.rounded-lg.p-8');
+          if (!invoiceContainer) {
+            console.error('Invoice container not found');
+            throw new Error('Kunne ikke finne fakturaen');
+          }
           
-          // Build the invoice HTML
-          const invoiceHTML = `
-          <!DOCTYPE html>
-          <html>
-          <head>
-            <title>Faktura ${invoiceNumber}</title>
-            <style>
-              body { font-family: Arial, sans-serif; padding: 20px; max-width: 800px; margin: 0 auto; }
-              .header { text-align: center; margin-bottom: 30px; }
-              .invoice-title { font-size: 24px; font-weight: bold; margin-bottom: 10px; }
-              .invoice-meta { display: flex; justify-content: space-between; margin-bottom: 20px; }
-              .seller-info, .buyer-info { width: 45%; }
-              table { width: 100%; border-collapse: collapse; margin: 20px 0; }
-              th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
-              th { background-color: #f5f5f5; }
-              .text-right { text-align: right; }
-              .footer { margin-top: 50px; padding-top: 15px; border-top: 1px solid #eee; font-size: 12px; color: #666; text-align: center; }
-            </style>
-          </head>
-          <body>
-            <div class="header">
-              <h1 class="invoice-title">FAKTURA</h1>
-              <div>Fakturanr: ${invoiceNumber}</div>
-              <div>Fakturadato: ${formatDate(invoiceDate)}</div>
-              <div>Forfallsdato: ${formatDate(dueDate)}</div>
-            </div>
-            
-            <div class="invoice-meta">
-              <div class="seller-info">
-                <h3>Selger:</h3>
-                <p>${sellerName}<br>
-                ${sellerAddress}<br>
-                ${sellerPostal}<br>
-                Tlf: ${sellerPhone}<br>
-                E-post: ${sellerEmail}</p>
-              </div>
-              <div class="buyer-info">
-                <h3>Kjøper:</h3>
-                <p>${buyerName}<br>
-                ${buyerOrg ? 'Org.nr: ' + buyerOrg + '<br>' : ''}
-                ${buyerAddress}<br>
-                ${buyerPostal}</p>
-              </div>
-            </div>
-
-            <table>
-              <thead>
-                <tr>
-                  <th>Beskrivelse</th>
-                  <th>Antall</th>
-                  <th>Å-pris</th>
-                  <th>MVA %</th>
-                  <th>Beløp</th>
-                </tr>
-              </thead>
-              <tbody>
-                ${Array.from(document.querySelectorAll('#items-body tr')).map(row => {
-                  const desc = row.querySelector('.desc').value || '';
-                  const qty = parseFloat(row.querySelector('.qty').value) || 0;
-                  const price = parseFloat(row.querySelector('.price').value) || 0;
-                  const vat = parseFloat(row.querySelector('.vat').value) || 0;
-                  const total = qty * price;
-                  return `
-                    <tr>
-                      <td>${desc}</td>
-                      <td class="text-right">${qty}</td>
-                      <td class="text-right">${formatCurrency(price)}</td>
-                      <td class="text-right">${vat}%</td>
-                      <td class="text-right">${formatCurrency(total)}</td>
-                    </tr>`;
-                }).join('')}
-              </tbody>
-            </table>
-
-            <div style="text-align: right; margin-top: 20px;">
-              <p>Netto: ${document.getElementById('subtotal').textContent}</p>
-              <p>MVA: ${document.getElementById('vatTotal').textContent}</p>
-              <p><strong>Å betale: ${document.getElementById('grandTotal').textContent}</strong></p>
-            </div>
-
-            ${paymentAccount ? `
-            <div style="margin-top: 30px;">
-              <strong>Betales til konto:</strong><br>
-              ${paymentAccount}
-            </div>` : ''}
-
-            <div class="footer">
-              Generert gratis på reai.no — Gratis fakturaer lages her: reai.no/pages/lag-faktura
-            </div>
-          </body>
-          </html>`;
-
-          // Write the complete HTML to the new window
-          printWindow.document.write(invoiceHTML);
-          printWindow.document.close();
+          console.log('Cloning invoice content...');
+          pdfContainer.innerHTML = invoiceContainer.outerHTML;
           
-          // Wait for the content to load
-          printWindow.onload = function() {
-            try {
-              // Try to print directly
-              printWindow.print();
-            } catch (e) {
-              console.error('Print error:', e);
-              // If print fails, try to download as PDF
-              const opt = {
-                margin: 10,
-                filename: `faktura_${invoiceNumber}.pdf`,
-                image: { type: 'jpeg', quality: 0.98 },
-                html2canvas: { 
-                  scale: 2,
-                  useCORS: true,
-                  logging: true,
-                  letterRendering: true
-                },
-                jsPDF: { 
-                  unit: 'mm', 
-                  format: 'a4', 
-                  orientation: 'portrait' 
-                }
-              };
-              
-              // Use the html2pdf library to generate PDF
-              const element = printWindow.document.body;
-              html2pdf()
-                .set(opt)
-                .from(element)
-                .toPdf()
-                .get('pdf')
-                .then(function(pdf) {
-                  pdf.save(opt.filename);
-                });
+          const invoiceNumber = document.getElementById('invoice-number').value || 'faktura';
+          
+          const opt = {
+            margin: 10,
+            filename: `faktura_${invoiceNumber}.pdf`,
+            image: { type: 'jpeg', quality: 0.98 },
+            html2canvas: { 
+              scale: 2,
+              useCORS: true,
+              logging: false,
+              letterRendering: true
+            },
+            jsPDF: { 
+              unit: 'mm', 
+              format: 'a4', 
+              orientation: 'portrait' 
             }
-            
-            // Close the print window after a delay
-            setTimeout(() => {
-              if (printWindow && !printWindow.closed) {
-                printWindow.close();
-              }
-            }, 1000);
           };
           
+          console.log('Starting PDF generation with html2pdf...');
+          try {
+            await html2pdf()
+              .set(opt)
+              .from(pdfContainer)
+              .save();
+            console.log('PDF generation completed successfully');
+          } catch (pdfError) {
+            console.error('Error during PDF generation:', pdfError);
+            throw pdfError;
+          }
+            
         } catch (error) {
           console.error('PDF Error:', error);
-          alert('Kunne ikke generere PDF. Vennligst prøv igjen eller bruk skrive ut-funksjonen i nettleseren.');
+          alert('Kunne ikke generere PDF. Vennligst prøv igjen.');
         } finally {
-          const btn = document.getElementById('download-pdf');
+          if (pdfContainer && pdfContainer.parentNode) {
+            document.body.removeChild(pdfContainer);
+          }
           if (btn) {
             btn.disabled = false;
             btn.innerHTML = 'Last ned som PDF';
@@ -497,11 +389,16 @@
         }
       }
 
-      // Add event listener when the DOM is fully loaded
       document.addEventListener('DOMContentLoaded', function() {
         const downloadBtn = document.getElementById('download-pdf');
         if (downloadBtn) {
-          downloadBtn.addEventListener('click', generateAndDownloadPDF);
+          downloadBtn.addEventListener('click', function(e) {
+            e.preventDefault();
+            generateAndDownloadPDF().catch(error => {
+              console.error('Error in PDF generation:', error);
+              alert('Feil ved generering av PDF: ' + error.message);
+            });
+          });
         }
       });
     </script>
