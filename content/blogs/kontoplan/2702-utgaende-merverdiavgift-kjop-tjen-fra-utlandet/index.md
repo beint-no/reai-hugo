@@ -1,54 +1,56 @@
----
+﻿---
 title: "2702-utgaende-merverdiavgift-kjop-tjen-fra-utlandet"
+meta_title: "2702-utgaende-merverdiavgift-kjop-tjen-fra-utlandet"
+meta_description: "**Konto 2702 - UtgÃ¥ende merverdiavgift kjÃ¸p tjenester fra utlandet** er en konto i **Norsk Standard Kontoplan** som brukes ved periodisk **oppgjÃ¸r av utgÃ¥en..."
 slug: 2702-utgaende-merverdiavgift-kjop-tjen-fra-utlandet
-type: "blog"
-layout: "pages/single"
+type: blog
+layout: pages/single
 ---
 
-**Konto 2702 - Utgående merverdiavgift kjøp tjenester fra utlandet** er en konto i **Norsk Standard Kontoplan** som brukes ved periodisk **oppgjør av utgående merverdiavgift ved kjøp av tjenester fra utlandet** (omvendt avgiftsplikt) for å skille dette fra andre MVA-oppgjør før betaling.
+**Konto 2702 - UtgÃ¥ende merverdiavgift kjÃ¸p tjenester fra utlandet** er en konto i **Norsk Standard Kontoplan** som brukes ved periodisk **oppgjÃ¸r av utgÃ¥ende merverdiavgift ved kjÃ¸p av tjenester fra utlandet** (omvendt avgiftsplikt) for Ã¥ skille dette fra andre MVA-oppgjÃ¸r fÃ¸r betaling.
 
-![Illustrasjon av konto 2702 Utgående merverdiavgift kjøp tjenester fra utlandet](2702-utgaende-merverdiavgift-kjop-tjen-fra-utlandet-image.svg)
+![Illustrasjon av konto 2702 UtgÃ¥ende merverdiavgift kjÃ¸p tjenester fra utlandet](2702-utgaende-merverdiavgift-kjop-tjen-fra-utlandet-image.svg)
 
 ## Hva er konto 2702?
 
-*Konto 2702 - Utgående merverdiavgift kjøp tjenester fra utlandet* benyttes for å overføre påløpt MVA ved kjøp av tjenester fra utlandet etter omvendt avgiftsplikt til oppgjørskontoen før betaling. Dette gir bedre oversikt og kontroll over MVA-oppgjøret for importerte tjenester.
+*Konto 2702 - UtgÃ¥ende merverdiavgift kjÃ¸p tjenester fra utlandet* benyttes for Ã¥ overfÃ¸re pÃ¥lÃ¸pt MVA ved kjÃ¸p av tjenester fra utlandet etter omvendt avgiftsplikt til oppgjÃ¸rskontoen fÃ¸r betaling. Dette gir bedre oversikt og kontroll over MVA-oppgjÃ¸ret for importerte tjenester.
 
-For transaksjonsføringen av omvendt avgiftsplikt ved kjøp av tjenester fra utlandet, se [Konto 1602 - Utgående merverdiavgift kjøp tjenester fra utlandet](/blogs/kontoplan/1602-utgaende-merverdiavgift-kjop-tjen-fra-utlandet "Konto 1602 - Utgående merverdiavgift kjøp tjenester fra utlandet").
+For transaksjonsfÃ¸ringen av omvendt avgiftsplikt ved kjÃ¸p av tjenester fra utlandet, se [Konto 1602 - UtgÃ¥ende merverdiavgift kjÃ¸p tjenester fra utlandet](/blogs/kontoplan/1602-utgaende-merverdiavgift-kjop-tjen-fra-utlandet "Konto 1602 - UtgÃ¥ende merverdiavgift kjÃ¸p tjenester fra utlandet").
 
-## Når skal konto 2702 benyttes?
+## NÃ¥r skal konto 2702 benyttes?
 
-* Ved periodisk oppgjør av **MVA ved kjøp av tjenester fra utlandet** under omvendt avgiftsplikt.
-* I forbindelse med avstemming mot [Konto 1602 - Utgående merverdiavgift kjøp tjenester fra utlandet](/blogs/kontoplan/1602-utgaende-merverdiavgift-kjop-tjen-fra-utlandet "Konto 1602 - Utgående merverdiavgift kjøp tjenester fra utlandet").
-* Når netto påløpt MVA for utenlandstjenester skal betales til skattemyndighetene.
+* Ved periodisk oppgjÃ¸r av **MVA ved kjÃ¸p av tjenester fra utlandet** under omvendt avgiftsplikt.
+* I forbindelse med avstemming mot [Konto 1602 - UtgÃ¥ende merverdiavgift kjÃ¸p tjenester fra utlandet](/blogs/kontoplan/1602-utgaende-merverdiavgift-kjop-tjen-fra-utlandet "Konto 1602 - UtgÃ¥ende merverdiavgift kjÃ¸p tjenester fra utlandet").
+* NÃ¥r netto pÃ¥lÃ¸pt MVA for utenlandstjenester skal betales til skattemyndighetene.
 
-## Regnskapsføring av oppgjør
+## RegnskapsfÃ¸ring av oppgjÃ¸r
 
 | Transaksjon                                                                      | Debet                                                             | Kredit                                                                  |
 |----------------------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------------|
-| Overføring av MVA ved omvendt avgiftsplikt fra transaksjonskonto                 | Konto 1602 - Utgående merverdiavgift kjøp tjenester fra utlandet  | Konto 2702 - Utgående merverdiavgift kjøp tjenester fra utlandet        |
-| Betaling av MVA ved omvendt avgiftsplikt                                          | Konto 2702 - Utgående merverdiavgift kjøp tjenester fra utlandet  | Konto 1920 - Bankinnskudd                                                |
+| OverfÃ¸ring av MVA ved omvendt avgiftsplikt fra transaksjonskonto                 | Konto 1602 - UtgÃ¥ende merverdiavgift kjÃ¸p tjenester fra utlandet  | Konto 2702 - UtgÃ¥ende merverdiavgift kjÃ¸p tjenester fra utlandet        |
+| Betaling av MVA ved omvendt avgiftsplikt                                          | Konto 2702 - UtgÃ¥ende merverdiavgift kjÃ¸p tjenester fra utlandet  | Konto 1920 - Bankinnskudd                                                |
 
 ## Eksempel og beregning
 
-| Beløp uten MVA  | MVA (25 %) | MVA å overføre til oppgjørskonto |
+| BelÃ¸p uten MVA  | MVA (25â€¯%) | MVA Ã¥ overfÃ¸re til oppgjÃ¸rskonto |
 |-----------------|------------|----------------------------------|
-| 5 000 NOK       | 1 250 NOK  | 1 250 NOK                       |
-| 12 000 NOK      | 3 000 NOK  | 3 000 NOK                       |
+| 5â€¯000Â NOK       | 1â€¯250Â NOK  | 1â€¯250Â NOK                       |
+| 12â€¯000Â NOK      | 3â€¯000Â NOK  | 3â€¯000Â NOK                       |
 
-## Fordeler med egen oppgjørskonto for utenlandstjenester
+## Fordeler med egen oppgjÃ¸rskonto for utenlandstjenester
 
-* **Presis avstemming** av MVA for kjøp av tjenester fra utlandet.
-* **Bedre likviditetsstyring** gjennom tydelig separasjon av oppgjørsstrømmer.
+* **Presis avstemming** av MVA for kjÃ¸p av tjenester fra utlandet.
+* **Bedre likviditetsstyring** gjennom tydelig separasjon av oppgjÃ¸rsstrÃ¸mmer.
 * Bidrar til forenklet **rapportering** og etterlevelse av omvendt avgiftsplikt.
 
 ## Relaterte artikler
 
-* [Konto 1602 - Utgående merverdiavgift kjøp tjenester fra utlandet](/blogs/kontoplan/1602-utgaende-merverdiavgift-kjop-tjen-fra-utlandet "Konto 1602 - Utgående merverdiavgift kjøp tjenester fra utlandet")
-* [Konto 2700 - Utgående merverdiavgift](/blogs/kontoplan/2700-utgaende-merverdiavgift "Konto 2700 - Utgående merverdiavgift")
-* [Konto 2701 - Utgående merverdiavgift høy sats](/blogs/kontoplan/2701-utgaende-merverdiavgift-hoy-sats "Konto 2701 - Utgående merverdiavgift høy sats")
-* [Konto 2703 - Utgående merverdiavgift middels sats](/blogs/kontoplan/2703-utgaende-merverdiavgift-middels-sats "Konto 2703 - Utgående merverdiavgift middels sats")
-* [Konto 2704 - Utgående merverdiavgift lav sats](/blogs/kontoplan/2704-utgaende-merverdiavgift-lav-sats "Konto 2704 - Utgående merverdiavgift lav sats")
-* [Konto 1612 - Inngående merverdiavgift kjøp tjenester fra utlandet](/blogs/kontoplan/1612-inngaaende-merverdiavgift-kjop-tjen-fra-utlandet "Konto 1612 - Inngående merverdiavgift kjøp tjenester fra utlandet")
-* [Konto 2712 - Inngående merverdiavgift kjøp tjenester fra utlandet](/blogs/kontoplan/2712-inngaaende-merverdiavgift-kjop-tjen-fra-utlandet "Konto 2712 - Inngående merverdiavgift kjøp tjenester fra utlandet")
-* [Hva er MVA?](/blogs/regnskap/hva-er-moms-mva "Hva er MVA? MVA-regnskapsføring og merverdiavgift")
+* [Konto 1602 - UtgÃ¥ende merverdiavgift kjÃ¸p tjenester fra utlandet](/blogs/kontoplan/1602-utgaende-merverdiavgift-kjop-tjen-fra-utlandet "Konto 1602 - UtgÃ¥ende merverdiavgift kjÃ¸p tjenester fra utlandet")
+* [Konto 2700 - UtgÃ¥ende merverdiavgift](/blogs/kontoplan/2700-utgaende-merverdiavgift "Konto 2700 - UtgÃ¥ende merverdiavgift")
+* [Konto 2701 - UtgÃ¥ende merverdiavgift hÃ¸y sats](/blogs/kontoplan/2701-utgaende-merverdiavgift-hoy-sats "Konto 2701 - UtgÃ¥ende merverdiavgift hÃ¸y sats")
+* [Konto 2703 - UtgÃ¥ende merverdiavgift middels sats](/blogs/kontoplan/2703-utgaende-merverdiavgift-middels-sats "Konto 2703 - UtgÃ¥ende merverdiavgift middels sats")
+* [Konto 2704 - UtgÃ¥ende merverdiavgift lav sats](/blogs/kontoplan/2704-utgaende-merverdiavgift-lav-sats "Konto 2704 - UtgÃ¥ende merverdiavgift lav sats")
+* [Konto 1612 - InngÃ¥ende merverdiavgift kjÃ¸p tjenester fra utlandet](/blogs/kontoplan/1612-inngaaende-merverdiavgift-kjop-tjen-fra-utlandet "Konto 1612 - InngÃ¥ende merverdiavgift kjÃ¸p tjenester fra utlandet")
+* [Konto 2712 - InngÃ¥ende merverdiavgift kjÃ¸p tjenester fra utlandet](/blogs/kontoplan/2712-inngaaende-merverdiavgift-kjop-tjen-fra-utlandet "Konto 2712 - InngÃ¥ende merverdiavgift kjÃ¸p tjenester fra utlandet")
+* [Hva er MVA?](/blogs/regnskap/hva-er-moms-mva "Hva er MVA? MVA-regnskapsfÃ¸ring og merverdiavgift")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")

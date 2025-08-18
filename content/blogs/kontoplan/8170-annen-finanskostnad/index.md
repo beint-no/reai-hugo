@@ -1,21 +1,23 @@
----
+﻿---
 title: "8170-annen-finanskostnad"
+meta_title: "8170-annen-finanskostnad"
+meta_description: "**Konto 8170 - Annen finanskostnad** brukes for Ã¥ registrere diverse **finansielle kostnader** som ikke dekkes av andre spesifikke finanskostnadskonti i Norsk ..."
 slug: 8170-annen-finanskostnad
-type: "blog"
-layout: "pages/single"
+type: blog
+layout: pages/single
 ---
 
-**Konto 8170 - Annen finanskostnad** brukes for å registrere diverse **finansielle kostnader** som ikke dekkes av andre spesifikke finanskostnadskonti i Norsk Standard Kontoplan.
+**Konto 8170 - Annen finanskostnad** brukes for Ã¥ registrere diverse **finansielle kostnader** som ikke dekkes av andre spesifikke finanskostnadskonti i Norsk Standard Kontoplan.
 
 ![Illustrasjon av konto 8170 Annen finanskostnad](8170-annen-finanskostnad-image.svg)
 
 ## Hva er annen finanskostnad?
 
-**Annen finanskostnad** omfatter kostnader knyttet til finansiering som ikke naturlig passer inn på mer detaljerte kontoer som renter, valutakostnader eller gebyrer.
+**Annen finanskostnad** omfatter kostnader knyttet til finansiering som ikke naturlig passer inn pÃ¥ mer detaljerte kontoer som renter, valutakostnader eller gebyrer.
 
 Typiske finanskostnader inkluderer:
 
-* **Renter** på kassekreditt, byggelån og andre lån som ikke dekkes av konto 8130, 8140 eller 8150
+* **Renter** pÃ¥ kassekreditt, byggelÃ¥n og andre lÃ¥n som ikke dekkes av konto 8130, 8140 eller 8150
 * **Valutatap (disagio)** ved omregning av utenlandske transaksjoner
 * **Andre finansieringskostnader** som bankgebyrer, garantiprovisjoner og lignende
 
@@ -24,38 +26,38 @@ Typiske finanskostnader inkluderer:
 | Kostnadstype                | Beskrivelse                                                        |
 |-----------------------------|--------------------------------------------------------------------|
 | **Renter**                  | Generelle rentekostnader som ikke dekkes av mer spesifikke rentekonti |
-| **Valutatap (disagio)**     | Tap ved valutakursendringer som ikke følger konto 8160 eller 8060    |
-| **Andre finansielle kostnader** | Gebyrer, provisjoner og øvrige finansieringsrelaterte kostnader        |
+| **Valutatap (disagio)**     | Tap ved valutakursendringer som ikke fÃ¸lger konto 8160 eller 8060    |
+| **Andre finansielle kostnader** | Gebyrer, provisjoner og Ã¸vrige finansieringsrelaterte kostnader        |
 
 ![Typer av finanskostnader](8170-finanskostnad-typer.svg)
 
-## Regnskapsføring av annen finanskostnad
+## RegnskapsfÃ¸ring av annen finanskostnad
 
 | Transaksjon                                 | Debet                                   | Kredit                       |
 |---------------------------------------------|-----------------------------------------|------------------------------|
 | Annen finanskostnad                         | Konto 8170 - Annen finanskostnad        | Konto 1920 - Bankinnskudd    |
-| Påløpte finanskostnader uten faktura        | Konto 8170 - Annen finanskostnad        | Konto 2400 - Leverandørgjeld |
-| Betaling av påløpte kostnader               | Konto 2400 - Leverandørgjeld            | Konto 1920 - Bankinnskudd    |
+| PÃ¥lÃ¸pte finanskostnader uten faktura        | Konto 8170 - Annen finanskostnad        | Konto 2400 - LeverandÃ¸rgjeld |
+| Betaling av pÃ¥lÃ¸pte kostnader               | Konto 2400 - LeverandÃ¸rgjeld            | Konto 1920 - Bankinnskudd    |
 
 ## Skattemessig behandling
 
-**Skattemessig behandling** av andre finanskostnader følger skattelovens regler for rentefradrag og valutatap. Noen kostnader kan ikke fradragsføres, mens andre har særskilte satser og fradragsperioder.
+**Skattemessig behandling** av andre finanskostnader fÃ¸lger skattelovens regler for rentefradrag og valutatap. Noen kostnader kan ikke fradragsfÃ¸res, mens andre har sÃ¦rskilte satser og fradragsperioder.
 
 For mer informasjon, se [Hva er skatt?](/blogs/regnskap/hva-er-skatt "Hva er skatt? Oversikt over skatteregler i Norge").
 
 ## Eksempel
 
-**Eksempel:** En virksomhet pådrar seg følgende finanskostnader i løpet av året:
+**Eksempel:** En virksomhet pÃ¥drar seg fÃ¸lgende finanskostnader i lÃ¸pet av Ã¥ret:
 
-* Renter på kassekreditt: 50 000 NOK
-* Valutatap ved leverandørbetaling: 10 000 NOK
-* Garantiprovisjon: 5 000 NOK
+* Renter pÃ¥ kassekreditt: 50Â 000Â NOK
+* Valutatap ved leverandÃ¸rbetaling: 10Â 000Â NOK
+* Garantiprovisjon: 5Â 000Â NOK
 
-**Samlet finanskostnad:** 65 000 NOK
+**Samlet finanskostnad:** 65Â 000Â NOK
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NS 4102 som ofte benyttes sammen med konto 8170:
+Andre kontoer i NSÂ 4102 som ofte benyttes sammen med konto 8170:
 
 * [Konto 8130 - Rentekostnad foretak i samme konsern](/blogs/kontoplan/8130-rentekostnad-foretak-i-samme-konsern "Konto 8130 - Rentekostnad foretak i samme konsern")
 * [Konto 8140 - Rentekostnad, ikke fradragsberettiget](/blogs/kontoplan/8140-rentekostnad-ikke-fradragsberettiget "Konto 8140 - Rentekostnad, ikke fradragsberettiget i Norsk Standard Kontoplan")

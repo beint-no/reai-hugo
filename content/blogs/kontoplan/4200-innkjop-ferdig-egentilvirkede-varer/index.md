@@ -1,59 +1,61 @@
----
+﻿---
 title: "4200-innkjop-ferdig-egentilvirkede-varer"
+meta_title: "4200-innkjop-ferdig-egentilvirkede-varer"
+meta_description: "**Konto 4200 - InnkjÃ¸p ferdig egentilvirkede varer hÃ¸y sats** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kjÃ¸p av ferdige egentilvi..."
 slug: 4200-innkjop-ferdig-egentilvirkede-varer
-type: "blog"
-layout: "pages/single"
+type: blog
+layout: pages/single
 ---
 
-**Konto 4200 - Innkjøp ferdig egentilvirkede varer høy sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kjøp av ferdige egentilvirkede varer** som er **avgiftspliktige med høy MVA-sats (25 %)**.
+**Konto 4200 - InnkjÃ¸p ferdig egentilvirkede varer hÃ¸y sats** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kjÃ¸p av ferdige egentilvirkede varer** som er **avgiftspliktige med hÃ¸y MVA-sats (25 %)**.
 
-![Illustrasjon av konto 4200 Innkjøp ferdig egentilvirkede varer høy sats](4200-innkjop-ferdig-egentilvirkede-varer-hoy-sats-image.svg)
+![Illustrasjon av konto 4200 InnkjÃ¸p ferdig egentilvirkede varer hÃ¸y sats](4200-innkjop-ferdig-egentilvirkede-varer-hoy-sats-image.svg)
 
-## Hva er Innkjøp ferdig egentilvirkede varer høy sats?
+## Hva er InnkjÃ¸p ferdig egentilvirkede varer hÃ¸y sats?
 
-*Innkjøp ferdig egentilvirkede varer høy sats* omfatter anskaffelser av varer som er fullført gjennom egen produksjon og der leveransen er underlagt **25 % MVA**.
+*InnkjÃ¸p ferdig egentilvirkede varer hÃ¸y sats* omfatter anskaffelser av varer som er fullfÃ¸rt gjennom egen produksjon og der leveransen er underlagt **25 % MVA**.
 
 | Konto | Beskrivelse                                           | MVA-sats |
 |-------|-------------------------------------------------------|----------|
-| 4200  | Innkjøp ferdig egentilvirkede varer høy sats          | 25 %     |
+| 4200  | InnkjÃ¸p ferdig egentilvirkede varer hÃ¸y sats          | 25 %     |
 
-![Høy MVA-sats for ferdige egentilvirkede varer](4200-mva-hoy-sats-ferdige-egentilvirkede-varer.svg)
+![HÃ¸y MVA-sats for ferdige egentilvirkede varer](4200-mva-hoy-sats-ferdige-egentilvirkede-varer.svg)
 
-## Regnskapsføring
+## RegnskapsfÃ¸ring
 
 | Transaksjon                                   | Debet                                                        | Kredit                           |
 |-----------------------------------------------|--------------------------------------------------------------|----------------------------------|
-| Kjøp av ferdige egentilvirkede varer           | Konto 4200 - Innkjøp ferdig egentilvirkede varer høy sats     | Konto 2400 - Leverandørgjeld     |
-| Inngående merverdiavgift høy sats              | Konto 1611 - Inngående merverdiavgift høy sats               | Konto 2400 - Leverandørgjeld     |
-| Betaling til leverandør                        | Konto 2400 - Leverandørgjeld                                 | Konto 1920 - Bankinnskudd        |
+| KjÃ¸p av ferdige egentilvirkede varer           | Konto 4200 - InnkjÃ¸p ferdig egentilvirkede varer hÃ¸y sats     | Konto 2400 - LeverandÃ¸rgjeld     |
+| InngÃ¥ende merverdiavgift hÃ¸y sats              | Konto 1611 - InngÃ¥ende merverdiavgift hÃ¸y sats               | Konto 2400 - LeverandÃ¸rgjeld     |
+| Betaling til leverandÃ¸r                        | Konto 2400 - LeverandÃ¸rgjeld                                 | Konto 1920 - Bankinnskudd        |
 
-## Eksempel på bokføring
+## Eksempel pÃ¥ bokfÃ¸ring
 
-Anta at en bedrift kjøper ferdige varer for **NOK 20 000** ekskl. MVA med høy sats. Bokføringen blir:
+Anta at en bedrift kjÃ¸per ferdige varer for **NOK 20Â 000** ekskl. MVA med hÃ¸y sats. BokfÃ¸ringen blir:
 
 | Beskrivelse                                   | Debet                                                        | Kredit                                      |
 |-----------------------------------------------|--------------------------------------------------------------|----------------------------------------------|
-| Innkjøp ferdige varer (ekskl. MVA)             | Konto 4200 - Innkjøp ferdig egentilvirkede varer høy sats     | **NOK 20 000**                              |
-| Inngående merverdiavgift (25 %)               | Konto 1611 - Inngående merverdiavgift høy sats               | **NOK 5 000**                               |
-| Leverandørgjeld                               |                                                              | Konto 2400 - Leverandørgjeld (**NOK 25 000**) |
+| InnkjÃ¸p ferdige varer (ekskl. MVA)             | Konto 4200 - InnkjÃ¸p ferdig egentilvirkede varer hÃ¸y sats     | **NOK 20Â 000**                              |
+| InngÃ¥ende merverdiavgift (25 %)               | Konto 1611 - InngÃ¥ende merverdiavgift hÃ¸y sats               | **NOK 5Â 000**                               |
+| LeverandÃ¸rgjeld                               |                                                              | Konto 2400 - LeverandÃ¸rgjeld (**NOK 25Â 000**) |
 
 ## Vurdering og lagerbehandling
 
-Kjøpene bokføres som varekostnad når varene forbrukes eller distribueres. For vurdering av ferdige varer og lageroppgjør, se [Konto 1440 - Ferdige egentilvirkede varer](/blogs/kontoplan/1440-ferdige-egentilvirkede-varer "Konto 1440 - Ferdige egentilvirkede varer").
+KjÃ¸pene bokfÃ¸res som varekostnad nÃ¥r varene forbrukes eller distribueres. For vurdering av ferdige varer og lageroppgjÃ¸r, se [Konto 1440 - Ferdige egentilvirkede varer](/blogs/kontoplan/1440-ferdige-egentilvirkede-varer "Konto 1440 - Ferdige egentilvirkede varer").
 
 ## Intern lenking og relaterte kontoer
 
-* [Konto 1400 - Råvarer og innkjøpte halvfabrikater](/blogs/kontoplan/1400-raavarer-og-innkjopte-halvfabrikater "Konto 1400 - Råvarer og innkjøpte halvfabrikater")
+* [Konto 1400 - RÃ¥varer og innkjÃ¸pte halvfabrikater](/blogs/kontoplan/1400-raavarer-og-innkjopte-halvfabrikater "Konto 1400 - RÃ¥varer og innkjÃ¸pte halvfabrikater")
 * [Konto 1420 - Varer under utvikling](/blogs/kontoplan/1420-varer-under-utvikling "Konto 1420 - Varer under utvikling")
 * [Konto 1440 - Ferdige egentilvirkede varer](/blogs/kontoplan/1440-ferdige-egentilvirkede-varer "Konto 1440 - Ferdige egentilvirkede varer")
-* [Konto 1460 - Innkjøpte varer for videresalg](/blogs/kontoplan/1460-innkjopte-varer-for-videresalg "Konto 1460 - Innkjøpte varer for videresalg")
-* [Konto 4300 - Innkjøp varer for videresalg høy sats](/blogs/kontoplan/4300-innkjop-varer-for-videresalg-hoy-sats "Konto 4300 - Innkjøp varer for videresalg høy sats")
-* [Konto 4100 - Innkjøp varer under tilvirkning høy sats](/blogs/kontoplan/4100-innkjop-varer-under-tilvirkning-hoy-sats "Konto 4100 - Innkjøp varer under tilvirkning høy sats")
-* [Konto 4130 - Innkjøp varer under tilvirkning middels sats](/blogs/kontoplan/4130-innkjop-varer-under-tilvirkning-middels-sats "Konto 4130 - Innkjøp varer under tilvirkning middels sats")
-* [Konto 4200 - Innkjøp ferdig egentilvirkede varer høy sats](/blogs/kontoplan/4200-innkjop-ferdig-egentilvirkede-varer-hoy-sats "Konto 4200 - Innkjøp ferdig egentilvirkede varer høy sats")
-* [Konto 4230 - Innkjøp ferdig egentilvirkede varer middels sats](/blogs/kontoplan/4230-innkjop-ferdig-egentilvirkede-varer-middels-sats "Konto 4230 - Innkjøp ferdig egentilvirkede varer middels sats")
+* [Konto 1460 - InnkjÃ¸pte varer for videresalg](/blogs/kontoplan/1460-innkjopte-varer-for-videresalg "Konto 1460 - InnkjÃ¸pte varer for videresalg")
+* [Konto 4300 - InnkjÃ¸p varer for videresalg hÃ¸y sats](/blogs/kontoplan/4300-innkjop-varer-for-videresalg-hoy-sats "Konto 4300 - InnkjÃ¸p varer for videresalg hÃ¸y sats")
+* [Konto 4100 - InnkjÃ¸p varer under tilvirkning hÃ¸y sats](/blogs/kontoplan/4100-innkjop-varer-under-tilvirkning-hoy-sats "Konto 4100 - InnkjÃ¸p varer under tilvirkning hÃ¸y sats")
+* [Konto 4130 - InnkjÃ¸p varer under tilvirkning middels sats](/blogs/kontoplan/4130-innkjop-varer-under-tilvirkning-middels-sats "Konto 4130 - InnkjÃ¸p varer under tilvirkning middels sats")
+* [Konto 4200 - InnkjÃ¸p ferdig egentilvirkede varer hÃ¸y sats](/blogs/kontoplan/4200-innkjop-ferdig-egentilvirkede-varer-hoy-sats "Konto 4200 - InnkjÃ¸p ferdig egentilvirkede varer hÃ¸y sats")
+* [Konto 4230 - InnkjÃ¸p ferdig egentilvirkede varer middels sats](/blogs/kontoplan/4230-innkjop-ferdig-egentilvirkede-varer-middels-sats "Konto 4230 - InnkjÃ¸p ferdig egentilvirkede varer middels sats")
 * [Konto 4260 - Frakt, toll og spedisjon](/blogs/kontoplan/4260-frakt-toll-og-spedisjon "Konto 4260 - Frakt, toll og spedisjon")
-* [Hva er Varelager?](/blogs/regnskap/hva-er-varelager "Hva er Varelager? Komplett Guide til Lagerføring og Verdivurdering")
+* [Hva er Varelager?](/blogs/regnskap/hva-er-varelager "Hva er Varelager? Komplett Guide til LagerfÃ¸ring og Verdivurdering")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 
-**Korrekt bokføring** av kjøp og MVA sikrer nøyaktig regnskapsføring og rett skattemelding.
+**Korrekt bokfÃ¸ring** av kjÃ¸p og MVA sikrer nÃ¸yaktig regnskapsfÃ¸ring og rett skattemelding.

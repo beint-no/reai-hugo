@@ -1,46 +1,48 @@
----
+﻿---
 title: "6200-elektrisitet"
+meta_title: "6200-elektrisitet"
+meta_description: "**Konto 6200 - Elektrisitet** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **strÃ¸m- og energikostnader** i virksomhetens drift."
 slug: 6200-elektrisitet
-type: "blog"
-layout: "pages/single"
+type: blog
+layout: pages/single
 ---
 
-**Konto 6200 - Elektrisitet** er en konto i Norsk Standard Kontoplan som brukes til å registrere **strøm- og energikostnader** i virksomhetens drift.
+**Konto 6200 - Elektrisitet** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **strÃ¸m- og energikostnader** i virksomhetens drift.
 
 ![Illustrasjon av konto 6200 Elektrisitet](6200-elektrisitet-image.svg)
 
 ## Hva er Elektrisitet?
 
-*Elektrisitet* omfatter kostnader knyttet til **strømforbruk**, **nettleie** og andre energirelaterte avgifter i virksomheten, inkludert:
+*Elektrisitet* omfatter kostnader knyttet til **strÃ¸mforbruk**, **nettleie** og andre energirelaterte avgifter i virksomheten, inkludert:
 
-* **Strømforbruk**: Kraftkjøp fra nettleverandør for drift av lokaler og utstyr.
-* **Nettleie**: Kostnader for transport av kraft gjennom strømnettet.
-* **Energipåslag og avgifter**: Fornybarkraftavgift, el-avgift og elsertifikater.
+* **StrÃ¸mforbruk**: KraftkjÃ¸p fra nettleverandÃ¸r for drift av lokaler og utstyr.
+* **Nettleie**: Kostnader for transport av kraft gjennom strÃ¸mnettet.
+* **EnergipÃ¥slag og avgifter**: Fornybarkraftavgift, el-avgift og elsertifikater.
 
-## Regnskapsføring av strøm- og energikostnader
+## RegnskapsfÃ¸ring av strÃ¸m- og energikostnader
 
 | Transaksjon               | Debet                     | Kredit                       |
 |---------------------------|---------------------------|------------------------------|
-| Strøm- og energikostnader | Konto 6200 - Elektrisitet | Konto 2400 - Leverandørgjeld |
-| Betaling av strømfaktura  | Konto 2400 - Leverandørgjeld | Konto 1920 - Bankinnskudd |
+| StrÃ¸m- og energikostnader | Konto 6200 - Elektrisitet | Konto 2400 - LeverandÃ¸rgjeld |
+| Betaling av strÃ¸mfaktura  | Konto 2400 - LeverandÃ¸rgjeld | Konto 1920 - Bankinnskudd |
 
-## Eksempel på bokføring
+## Eksempel pÃ¥ bokfÃ¸ring
 
-| Beløp ekskl. avgifter | Avgift (%) | Total inkl. avgift |
+| BelÃ¸p ekskl. avgifter | Avgift (%) | Total inkl. avgift |
 |-----------------------|------------|--------------------|
-| 10 000 NOK            | 25 %       | 12 500 NOK         |
+| 10Â 000 NOK            | 25Â %       | 12Â 500 NOK         |
 
 ## Fordeler ved korrekt bruk
 
-* **Nøyaktig kostnadskontroll** av energiforbruk
-* **Bærekraftig rapportering** ved å følge forbruksmønstre
+* **NÃ¸yaktig kostnadskontroll** av energiforbruk
+* **BÃ¦rekraftig rapportering** ved Ã¥ fÃ¸lge forbruksmÃ¸nstre
 * **Bedre budsjettstyring** av driftskostnader
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NS 4102 som ofte brukes sammen med konto 6200:
+Andre kontoer i NSÂ 4102 som ofte brukes sammen med konto 6200:
 
-* [Konto 2400 - Leverandørgjeld](/blogs/kontoplan/2400-leverandorgjeld "Konto 2400 - Leverandørgjeld")
+* [Konto 2400 - LeverandÃ¸rgjeld](/blogs/kontoplan/2400-leverandorgjeld "Konto 2400 - LeverandÃ¸rgjeld")
 * [Konto 1920 - Bankinnskudd](/blogs/kontoplan/1920-bankinnskudd "Konto 1920 - Bankinnskudd")
 * [Konto 4060 - Frakt, toll og spedisjon](/blogs/kontoplan/4060-frakt-toll-og-spedisjon "Konto 4060 - Frakt, toll og spedisjon")
 * [Konto 6210 - Gass](/blogs/kontoplan/6210-gass "Konto 6210 - Gass")

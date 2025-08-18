@@ -1,71 +1,73 @@
----
+﻿---
 title: "3500-garanti"
+meta_title: "3500-garanti"
+meta_description: "**Konto 3500 - Garanti** er en konto i Norsk Standard Kontoplan som brukes for Ã¥ registrere **garantiforpliktelser**, inkludert depositum og garantistillelser ..."
 slug: 3500-garanti
-type: "blog"
-layout: "pages/single"
+type: blog
+layout: pages/single
 ---
 
-**Konto 3500 - Garanti** er en konto i Norsk Standard Kontoplan som brukes for å registrere **garantiforpliktelser**, inkludert depositum og garantistillelser for produkter og tjenester.
+**Konto 3500 - Garanti** er en konto i Norsk Standard Kontoplan som brukes for Ã¥ registrere **garantiforpliktelser**, inkludert depositum og garantistillelser for produkter og tjenester.
 
 ![Illustrasjon av konto 3500 Garanti](3500-garanti-image.svg)
 
 ## Hva er Garanti?
 
-**Garanti** refererer til en forpliktelse fra en selger eller produsent til å reparere, erstatte eller refundere kostnader dersom et produkt eller en tjeneste ikke oppfyller avtalte kvalitets- eller funksjonskrav.
+**Garanti** refererer til en forpliktelse fra en selger eller produsent til Ã¥ reparere, erstatte eller refundere kostnader dersom et produkt eller en tjeneste ikke oppfyller avtalte kvalitets- eller funksjonskrav.
 
 Typer garantiforpliktelser kan inkludere:
 
 * **Produktgaranti**: Forpliktelse knyttet til produktkvalitet og funksjon.
 * **Depositum (garantiinnskudd)**: Sikkerhet stilt av kunde som sikkerhet for levering.
-* **[Bankgaranti](/blogs/regnskap/bankgaranti "Hva er Bankgaranti? En komplett guide til bankgarantier i Norge")**: Garantistillelse utstedt av bank på vegne av kunden.
+* **[Bankgaranti](/blogs/regnskap/bankgaranti "Hva er Bankgaranti? En komplett guide til bankgarantier i Norge")**: Garantistillelse utstedt av bank pÃ¥ vegne av kunden.
 * **Annen garantistillelse**: For eksempel performance bonds eller kontraktsgarantier.
 
-## Når benyttes konto 3500?
+## NÃ¥r benyttes konto 3500?
 
-Konto 3500 benyttes i regnskapet når virksomheten mottar eller stiller garantier og ønsker å periodisere garantiforpliktelser:
+Konto 3500 benyttes i regnskapet nÃ¥r virksomheten mottar eller stiller garantier og Ã¸nsker Ã¥ periodisere garantiforpliktelser:
 
 * Ved registrering av garantiinnskudd mottatt fra kunde.
-* For å periodisere estimert garantikostnad i resultatregnskapet.
-* Når virksomheten stiller bankgaranti eller annen form for garantistillelse.
+* For Ã¥ periodisere estimert garantikostnad i resultatregnskapet.
+* NÃ¥r virksomheten stiller bankgaranti eller annen form for garantistillelse.
 
-## Regnskapsføring av garantiforpliktelser
+## RegnskapsfÃ¸ring av garantiforpliktelser
 
 | Transaksjon                                   | Debet                             | Kredit                       |
 |-----------------------------------------------|-----------------------------------|------------------------------|
 | Mottak av garantiinnskudd                     | Konto 1920 - Bankinnskudd         | Konto 3500 - Garanti         |
-| Periodisk kostnadsføring av garantikostnad    | Konto 7550 - Garantikostnad       | Konto 3500 - Garanti         |
+| Periodisk kostnadsfÃ¸ring av garantikostnad    | Konto 7550 - Garantikostnad       | Konto 3500 - Garanti         |
 | Utbetaling ved krav under garanti             | Konto 3500 - Garanti              | Konto 1920 - Bankinnskudd    |
 
-_*Tilpass kontoer etter selskapets kontoplan og sikr korrekt resultatføring.*_
+_*Tilpass kontoer etter selskapets kontoplan og sikr korrekt resultatfÃ¸ring.*_
 
-## Eksempel på bruk av konto 3500
+## Eksempel pÃ¥ bruk av konto 3500
 
-**Eksempel:** Et selskap mottar 100 000 NOK som garantiinnskudd for leveranse og forventer at 10 % benyttes til garantikostnader.
+**Eksempel:** Et selskap mottar 100Â 000Â NOK som garantiinnskudd for leveranse og forventer at 10Â % benyttes til garantikostnader.
 
-1. Når garantien mottas:
-
-   ```
-   Debet: Konto 1920 - Bankinnskudd 100 000
-   Kredit: Konto 3500 - Garanti 100 000
-   ```
-
-2. Ved regnskapsavslutning avsettes 10 000 NOK som garantikostnad:
+1. NÃ¥r garantien mottas:
 
    ```
-   Debet: Konto 7550 - Garantikostnad 10 000
-   Kredit: Konto 3500 - Garanti 10 000
+   Debet: Konto 1920 - Bankinnskudd 100Â 000
+   Kredit: Konto 3500 - Garanti 100Â 000
    ```
 
-3. Ved utbetaling av garantikrav på 8 000 NOK:
+2. Ved regnskapsavslutning avsettes 10Â 000Â NOK som garantikostnad:
 
    ```
-   Debet: Konto 3500 - Garanti 8 000
-   Kredit: Konto 1920 - Bankinnskudd 8 000
+   Debet: Konto 7550 - Garantikostnad 10Â 000
+   Kredit: Konto 3500 - Garanti 10Â 000
+   ```
+
+3. Ved utbetaling av garantikrav pÃ¥ 8Â 000Â NOK:
+
+   ```
+   Debet: Konto 3500 - Garanti 8Â 000
+   Kredit: Konto 1920 - Bankinnskudd 8Â 000
    ```
 
 ## Vurdering i balansen
 
-> Saldo på konto 3500 presenteres som **kortsiktig gjeld** (omløpsforpliktelser) med mindre garantien har forfall utover ett år, da som **langsiktig gjeld**.
+> Saldo pÃ¥ konto 3500 presenteres som **kortsiktig gjeld** (omlÃ¸psforpliktelser) med mindre garantien har forfall utover ett Ã¥r, da som **langsiktig gjeld**.
 
 ## Intern lenking og relaterte kontoer
 

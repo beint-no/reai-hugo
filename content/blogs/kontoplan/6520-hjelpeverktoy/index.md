@@ -1,75 +1,77 @@
----
+﻿---
 title: "6520-hjelpeverktoy"
+meta_title: "6520-hjelpeverktoy"
+meta_description: "**Konto 6520 - HjelpeverktÃ¸y** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kostnader knyttet til hjelpeverktÃ¸y** og tilhÃ¸rende drif..."
 slug: 6520-hjelpeverktoy
-type: "blog"
-layout: "pages/single"
+type: blog
+layout: pages/single
 ---
 
-**Konto 6520 - Hjelpeverktøy** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kostnader knyttet til hjelpeverktøy** og tilhørende driftsmidler i virksomhetens drift.
+**Konto 6520 - HjelpeverktÃ¸y** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kostnader knyttet til hjelpeverktÃ¸y** og tilhÃ¸rende driftsmidler i virksomhetens drift.
 
-![Illustrasjon av konto 6520 hjelpeverktøy](6520-hjelpeverktoy-image.svg)
+![Illustrasjon av konto 6520 hjelpeverktÃ¸y](6520-hjelpeverktoy-image.svg)
 
-## Hva er hjelpeverktøy?
+## Hva er hjelpeverktÃ¸y?
 
-*Hjelpeverktøy* omfatter verktøy og tilbehør som støtter hovedverktøy og produksjonsprosesser, for eksempel:
+*HjelpeverktÃ¸y* omfatter verktÃ¸y og tilbehÃ¸r som stÃ¸tter hovedverktÃ¸y og produksjonsprosesser, for eksempel:
 
-* **Måleverktøy** som målebånd, skyvelære og mikrometer
+* **MÃ¥leverktÃ¸y** som mÃ¥lebÃ¥nd, skyvelÃ¦re og mikrometer
 * **Stillaser og jigger** som holder materialer stabilt under arbeid
-* **Løfte- og støtteutstyr** som jekk, jekkestropp og løfteanker
+* **LÃ¸fte- og stÃ¸tteutstyr** som jekk, jekkestropp og lÃ¸fteanker
 * **Sikkerhetsutstyr** som vernehansker, vernebriller og beskyttelseshjelmer
-* **Smådeler og tilbehør** som bor, bits, slipemidler og fester
+* **SmÃ¥deler og tilbehÃ¸r** som bor, bits, slipemidler og fester
 
-## Regnskapsføring av hjelpeverktøy
+## RegnskapsfÃ¸ring av hjelpeverktÃ¸y
 
 | Transaksjon                              | Debet                      | Kredit                       |
 |------------------------------------------|----------------------------|------------------------------|
-| Anskaffelse av hjelpeverktøy             | Konto 6520 - Hjelpeverktøy | Konto 2400 - Leverandørgjeld |
-| Betaling av faktura for hjelpeverktøy    | Konto 2400 - Leverandørgjeld | Konto 1920 - Bankinnskudd    |
+| Anskaffelse av hjelpeverktÃ¸y             | Konto 6520 - HjelpeverktÃ¸y | Konto 2400 - LeverandÃ¸rgjeld |
+| Betaling av faktura for hjelpeverktÃ¸y    | Konto 2400 - LeverandÃ¸rgjeld | Konto 1920 - Bankinnskudd    |
 
-## Når skal hjelpeverktøy kostnadsføres vs. aktiveres?
+## NÃ¥r skal hjelpeverktÃ¸y kostnadsfÃ¸res vs. aktiveres?
 
-I noen tilfeller kan hjelpeverktøy av høy verdi eller langsiktig bruk aktiveres som anleggsmiddel i stedet for å kostnadsføres direkte:
+I noen tilfeller kan hjelpeverktÃ¸y av hÃ¸y verdi eller langsiktig bruk aktiveres som anleggsmiddel i stedet for Ã¥ kostnadsfÃ¸res direkte:
 
-1. **Lav anskaffelsesverdi** (under aktiveringsgrensen) og kort levetid: Kostnadsføres på konto 6520.
-2. **Høy anskaffelsesverdi** og forventet bruk over flere år: Aktiveres som anleggsmiddel, for eksempel på [Konto 1200 - Inventar og utstyr](/blogs/kontoplan/1200-inventar-og-utstyr "Konto 1200 - Inventar og utstyr").
+1. **Lav anskaffelsesverdi** (under aktiveringsgrensen) og kort levetid: KostnadsfÃ¸res pÃ¥ konto 6520.
+2. **HÃ¸y anskaffelsesverdi** og forventet bruk over flere Ã¥r: Aktiveres som anleggsmiddel, for eksempel pÃ¥ [Konto 1200 - Inventar og utstyr](/blogs/kontoplan/1200-inventar-og-utstyr "Konto 1200 - Inventar og utstyr").
 
-## Eksempel på bokføring
+## Eksempel pÃ¥ bokfÃ¸ring
 
-| Beløp ekskl. avgifter | Avgift (%) | Total inkl. avgift |
+| BelÃ¸p ekskl. avgifter | Avgift (%) | Total inkl. avgift |
 |-----------------------|------------|--------------------|
-| 3 000 NOK             | 25 %       | 3 750 NOK          |
+| 3Â 000Â NOK             | 25Â %       | 3Â 750Â NOK          |
 
 ```text
-Debet  Konto 6520 - Hjelpeverktøy             3 000 NOK
-Debet  Konto 2710 - Inngående merverdiavgift    750 NOK
-Kredit Konto 2400 - Leverandørgjeld            3 750 NOK
+Debet  Konto 6520 - HjelpeverktÃ¸y             3Â 000Â NOK
+Debet  Konto 2710 - InngÃ¥ende merverdiavgift    750Â NOK
+Kredit Konto 2400 - LeverandÃ¸rgjeld            3Â 750Â NOK
 ```
 
 ## Fordeler med riktig konto
 
-* **Presis kostnadskontroll** for hjelpeverktøy.
-* **Bedre oversikt** over verktøybruk og vedlikehold.
+* **Presis kostnadskontroll** for hjelpeverktÃ¸y.
+* **Bedre oversikt** over verktÃ¸ybruk og vedlikehold.
 * **Effektiv budsjettering** av utskiftnings- og vedlikeholdskostnader.
 
 ## Tips for administrasjon og vedlikehold
 
 * **Systematisk registrering** av serie- eller inventarnummer og anskaffelsesdato.
-* **Regelmessig inspeksjon** og vedlikehold for å forlenge levetiden.
-* **Rutiner for utlån** og retur av hjelpeverktøy for sporbarhet.
-* **Budsjettering** av utskiftningskostnader for å sikre kontinuerlig drift.
+* **Regelmessig inspeksjon** og vedlikehold for Ã¥ forlenge levetiden.
+* **Rutiner for utlÃ¥n** og retur av hjelpeverktÃ¸y for sporbarhet.
+* **Budsjettering** av utskiftningskostnader for Ã¥ sikre kontinuerlig drift.
 
 ## Relaterte artikler
 
-* [Konto 6500 - Motordrevet verktøy](/blogs/kontoplan/6500-motordrevet-verktoy "Konto 6500 - Motordrevet verktøy")
-* [Konto 6510 - Håndverktøy](/blogs/kontoplan/6510-handverktoy "Konto 6510 - Håndverktøy")
-* [Konto 6530 - Spesialverktøy](/blogs/kontoplan/6530-spesialverktoy "Konto 6530 - Spesialverktøy")
+* [Konto 6500 - Motordrevet verktÃ¸y](/blogs/kontoplan/6500-motordrevet-verktoy "Konto 6500 - Motordrevet verktÃ¸y")
+* [Konto 6510 - HÃ¥ndverktÃ¸y](/blogs/kontoplan/6510-handverktoy "Konto 6510 - HÃ¥ndverktÃ¸y")
+* [Konto 6530 - SpesialverktÃ¸y](/blogs/kontoplan/6530-spesialverktoy "Konto 6530 - SpesialverktÃ¸y")
 * [Konto 6540 - Inventar](/blogs/kontoplan/6540-inventar "Konto 6540 - Inventar")
 * [Konto 6550 - Driftsmateriale](/blogs/kontoplan/6550-driftsmateriale "Konto 6550 - Driftsmateriale")
 * [Konto 6560 - Rekvisita](/blogs/kontoplan/6560-rekvisita "Konto 6560 - Rekvisita")
 * [Konto 6800 - Kontorrekvisita](/blogs/kontoplan/6800-kontorrekvisita "Konto 6800 - Kontorrekvisita")
 * [Konto 6820 - Trykksaker](/blogs/kontoplan/6820-trykksaker "Konto 6820 - Trykksaker")
 * [Konto 6820 - Trykksaker](/blogs/kontoplan/6820-trykksaker "Konto 6820 - Trykksaker")
-* [Konto 6570 - Arbeidsklær og verneutstyr](/blogs/kontoplan/6570-arbeidsklaer-og-verneutstyr "Konto 6570 - Arbeidsklær og verneutstyr")
+* [Konto 6570 - ArbeidsklÃ¦r og verneutstyr](/blogs/kontoplan/6570-arbeidsklaer-og-verneutstyr "Konto 6570 - ArbeidsklÃ¦r og verneutstyr")
 * [Konto 6620 - Reparasjon og vedlikehold utstyr](/blogs/kontoplan/6620-reparasjon-og-vedlikehold-utstyr "Konto 6620 - Reparasjon og vedlikehold utstyr")
 * [Konto 6600 - Andre forsikringer](/blogs/kontoplan/6600-andre-forsikringer "Konto 6600 - Andre forsikringer")
 * [Konto 6600 - Reparasjon og vedlikehold bygninger](/blogs/kontoplan/6600-reparasjon-og-vedlikehold-bygninger "Konto 6600 - Reparasjon og vedlikehold bygninger")

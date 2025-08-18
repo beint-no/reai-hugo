@@ -1,11 +1,13 @@
----
+﻿---
 title: "6100-frakt-transportkostnad-og-forsikring"
+meta_title: "6100-frakt-transportkostnad-og-forsikring"
+meta_description: "**Konto 6100 - Frakt, transportkostnad og forsikring** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **frakt**, **transportkostnader** og ..."
 slug: 6100-frakt-transportkostnad-og-forsikring
-type: "blog"
-layout: "pages/single"
+type: blog
+layout: pages/single
 ---
 
-**Konto 6100 - Frakt, transportkostnad og forsikring** er en konto i Norsk Standard Kontoplan som brukes til å registrere **frakt**, **transportkostnader** og **forsikring** knyttet til kjøp og salg av varer.
+**Konto 6100 - Frakt, transportkostnad og forsikring** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **frakt**, **transportkostnader** og **forsikring** knyttet til kjÃ¸p og salg av varer.
 
 ![Illustrasjon av konto 6100 Frakt, transportkostnad og forsikring](6100-frakt-transportkostnad-og-forsikring-image.svg)
 
@@ -13,35 +15,35 @@ layout: "pages/single"
 
 *Frakt, transportkostnad og forsikring* omfatter alle **kostnader** knyttet til transport og sikring av varer, inkludert:
 
-* **Fraktavgifter**: Kostnader for transport av varer fra leverandør til lager eller kunde.
-* **Transportforsikring**: Forsikringspremie for å dekke skade, tap eller tyveri under transport.
-* **Toll- og gebyrkostnader**: Innførseltoll, spedisjonsgebyrer og andre avgifter.
-* **Håndterings- og lagringskostnader**: Kostnader for terminalhåndtering, omlasting og midlertidig lagring.
+* **Fraktavgifter**: Kostnader for transport av varer fra leverandÃ¸r til lager eller kunde.
+* **Transportforsikring**: Forsikringspremie for Ã¥ dekke skade, tap eller tyveri under transport.
+* **Toll- og gebyrkostnader**: InnfÃ¸rseltoll, spedisjonsgebyrer og andre avgifter.
+* **HÃ¥ndterings- og lagringskostnader**: Kostnader for terminalhÃ¥ndtering, omlasting og midlertidig lagring.
 
 | Konto | Beskrivelse                           |
 |-------|---------------------------------------|
 | 6100  | Frakt, transportkostnad og forsikring |
 
-## Regnskapsføring
+## RegnskapsfÃ¸ring
 
-> Ved regnskapsføring skal man skille mellom påløpte kostnader og betaling for transport og forsikring.
+> Ved regnskapsfÃ¸ring skal man skille mellom pÃ¥lÃ¸pte kostnader og betaling for transport og forsikring.
 
 | Transaksjon                            | Debet                                             | Kredit                       |
 |----------------------------------------|---------------------------------------------------|------------------------------|
-| Påløpte transport- og forsikringskostnader | Konto 6100 - Frakt, transportkostnad og forsikring | Konto 2400 - Leverandørgjeld |
-| Betaling av frakt- og forsikringsfaktura  | Konto 2400 - Leverandørgjeld                      | Konto 1920 - Bankinnskudd    |
+| PÃ¥lÃ¸pte transport- og forsikringskostnader | Konto 6100 - Frakt, transportkostnad og forsikring | Konto 2400 - LeverandÃ¸rgjeld |
+| Betaling av frakt- og forsikringsfaktura  | Konto 2400 - LeverandÃ¸rgjeld                      | Konto 1920 - Bankinnskudd    |
 
 ## Fordeler ved korrekt bruk
 
-* **Nøyaktig kostnadsberegning** for transport og forsikring
-* **Forenklet avstemming** av leverandørfakturaer
+* **NÃ¸yaktig kostnadsberegning** for transport og forsikring
+* **Forenklet avstemming** av leverandÃ¸rfakturaer
 * **Bedre oversikt** over logistikk- og forsikringskostnader
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NS 4102 som ofte brukes sammen med konto 6100:
+Andre kontoer i NSÂ 4102 som ofte brukes sammen med konto 6100:
 
-* [Konto 2400 - Leverandørgjeld](/blogs/kontoplan/2400-leverandorgjeld "Konto 2400 - Leverandørgjeld")
+* [Konto 2400 - LeverandÃ¸rgjeld](/blogs/kontoplan/2400-leverandorgjeld "Konto 2400 - LeverandÃ¸rgjeld")
 * [Konto 1920 - Bankinnskudd](/blogs/kontoplan/1920-bankinnskudd "Konto 1920 - Bankinnskudd")
 * [Konto 4060 - Frakt, toll og spedisjon](/blogs/kontoplan/4060-frakt-toll-og-spedisjon "Konto 4060 - Frakt, toll og spedisjon")
 * [Konto 4160 - Frakt, toll og spedisjon](/blogs/kontoplan/4160-frakt-toll-og-spedisjon "Konto 4160 - Frakt, toll og spedisjon")
@@ -52,4 +54,4 @@ Andre kontoer i NS 4102 som ofte brukes sammen med konto 6100:
 * [Konto 7040 - Forsikringer](/blogs/kontoplan/7040-forsikringer "Konto 7040 - Forsikringer")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 
-**Riktig føring** av **frakt-, transportkostnad og forsikring** sikrer korrekt kostnadsallokering og rapportering.
+**Riktig fÃ¸ring** av **frakt-, transportkostnad og forsikring** sikrer korrekt kostnadsallokering og rapportering.

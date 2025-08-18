@@ -1,11 +1,13 @@
----
+﻿---
 title: "3610-leieinntekt-andre-varige-driftsmidler"
+meta_title: "3610-leieinntekt-andre-varige-driftsmidler"
+meta_description: "**Konto 3610 - Leieinntekt andre varige driftsmidler** er en konto i Norsk Standard Kontoplan som benyttes for Ã¥ registrere **leieinntekter** fra **varige drif..."
 slug: 3610-leieinntekt-andre-varige-driftsmidler
-type: "blog"
-layout: "pages/single"
+type: blog
+layout: pages/single
 ---
 
-**Konto 3610 - Leieinntekt andre varige driftsmidler** er en konto i Norsk Standard Kontoplan som benyttes for å registrere **leieinntekter** fra **varige driftsmidler**, for eksempel maskiner, inventar og utstyr.
+**Konto 3610 - Leieinntekt andre varige driftsmidler** er en konto i Norsk Standard Kontoplan som benyttes for Ã¥ registrere **leieinntekter** fra **varige driftsmidler**, for eksempel maskiner, inventar og utstyr.
 
 ![Illustrasjon av konto 3610 Leieinntekt andre varige driftsmidler](3610-leieinntekt-andre-varige-driftsmidler-image.svg)
 
@@ -16,7 +18,7 @@ layout: "pages/single"
 Typiske eksempler inkluderer:
 
 * Industrielle maskiner
-* Kontormøbler og -innredning
+* KontormÃ¸bler og -innredning
 * Transportutstyr
 * Annet spesialutstyr
 
@@ -26,9 +28,9 @@ Typiske eksempler inkluderer:
 
 ![Avgiftsfri MVA-sats: 0 %](3610-mva-avgiftsfri.svg)
 
-## Regnskapsføring av leieinntekter
+## RegnskapsfÃ¸ring av leieinntekter
 
-Regnskapsføringen skal følge **inntektsføringsprinsippet** med korrekt periodisering. Under ser du eksempler på føring av leieinntekter:
+RegnskapsfÃ¸ringen skal fÃ¸lge **inntektsfÃ¸ringsprinsippet** med korrekt periodisering. Under ser du eksempler pÃ¥ fÃ¸ring av leieinntekter:
 
 | Transaksjon                          | Debet                             | Kredit                                            |
 |--------------------------------------|-----------------------------------|---------------------------------------------------|
@@ -37,15 +39,15 @@ Regnskapsføringen skal følge **inntektsføringsprinsippet** med korrekt period
 
 ## Vurdering og rapportering
 
-Leieinntekter rapporteres netto under driftsinntekter i resultatregnskapet. **Korrekt periodisering** er avgjørende for å sikre et **nøyaktig** regnskapsbilde.
+Leieinntekter rapporteres netto under driftsinntekter i resultatregnskapet. **Korrekt periodisering** er avgjÃ¸rende for Ã¥ sikre et **nÃ¸yaktig** regnskapsbilde.
 
 ## Eksempel
 
-En bedrift leier ut en CNC-maskin for kr 20 000 per måned. Ved månedsslutt bokføres:
+En bedrift leier ut en CNC-maskin for kr 20Â 000 per mÃ¥ned. Ved mÃ¥nedsslutt bokfÃ¸res:
 
-| Beskrivelse                  | Beløp     | Konto |
+| Beskrivelse                  | BelÃ¸p     | Konto |
 |------------------------------|-----------|-------|
-| Leieinntekt CNC-maskin       | 20 000 kr | 3610  |
+| Leieinntekt CNC-maskin       | 20Â 000 kr | 3610  |
 
 ## Intern lenking og relaterte kontoer
 

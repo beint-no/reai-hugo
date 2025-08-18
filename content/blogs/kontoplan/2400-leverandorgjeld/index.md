@@ -1,37 +1,39 @@
----
+﻿---
 title: "2400-leverandorgjeld"
+meta_title: "2400-leverandorgjeld"
+meta_description: "**Konto 2400 - LeverandÃ¸rgjeld** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kortsiktig gjeld** til leverandÃ¸rer for varer og tjenes..."
 slug: 2400-leverandorgjeld
-type: "blog"
-layout: "pages/single"
+type: blog
+layout: pages/single
 ---
 
-**Konto 2400 - Leverandørgjeld** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kortsiktig gjeld** til leverandører for varer og tjenester mottatt på kreditt.
+**Konto 2400 - LeverandÃ¸rgjeld** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kortsiktig gjeld** til leverandÃ¸rer for varer og tjenester mottatt pÃ¥ kreditt.
 
-![Illustrasjon av konto 2400 leverandørgjeld](2400-leverandorgjeld-image.svg)
+![Illustrasjon av konto 2400 leverandÃ¸rgjeld](2400-leverandorgjeld-image.svg)
 
-## Hva er leverandørgjeld?
+## Hva er leverandÃ¸rgjeld?
 
-**Leverandørgjeld** oppstår når virksomheter mottar varer eller tjenester på kreditt uten umiddelbar betaling. Dette innebærer at selskapet har en forpliktelse til å betale leverandøren innen avtalt forfallsdato. Se [Hva er en Faktura?](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav") for mer om **faktura** og kredittransaksjoner.
+**LeverandÃ¸rgjeld** oppstÃ¥r nÃ¥r virksomheter mottar varer eller tjenester pÃ¥ kreditt uten umiddelbar betaling. Dette innebÃ¦rer at selskapet har en forpliktelse til Ã¥ betale leverandÃ¸ren innen avtalt forfallsdato. Se [Hva er en Faktura?](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav") for mer om **faktura** og kredittransaksjoner.
 
-## Når benyttes konto 2400?
+## NÃ¥r benyttes konto 2400?
 
-* **Kreditkjøp** av varer og tjenester fra leverandører
-* **Mottak av faktura** fra leverandører uten umiddelbar betaling
-* **Periodisering** av kostnader ved årsavslutning
-* **Kontering av leverandørgjeld** i forbindelse med regnskapsavslutning
-* **Gjeld til konsernselskap:** For gjeld til selskap i samme konsern, se [Konto 2460 - Leverandørgjeld til selskap i samme konsern](/blogs/kontoplan/2460-leverandorgjeld-til-selskap-i-samme-konsern "Konto 2460 - Leverandørgjeld til selskap i samme konsern").
+* **KreditkjÃ¸p** av varer og tjenester fra leverandÃ¸rer
+* **Mottak av faktura** fra leverandÃ¸rer uten umiddelbar betaling
+* **Periodisering** av kostnader ved Ã¥rsavslutning
+* **Kontering av leverandÃ¸rgjeld** i forbindelse med regnskapsavslutning
+* **Gjeld til konsernselskap:** For gjeld til selskap i samme konsern, se [Konto 2460 - LeverandÃ¸rgjeld til selskap i samme konsern](/blogs/kontoplan/2460-leverandorgjeld-til-selskap-i-samme-konsern "Konto 2460 - LeverandÃ¸rgjeld til selskap i samme konsern").
 
-## Regnskapsføring
+## RegnskapsfÃ¸ring
 
 | Transaksjon                             | Debet                                | Kredit                                          |
 |-----------------------------------------|--------------------------------------|-------------------------------------------------|
-| Mottak av varer/tjenester på kreditt    | Konto 1460 / relevant kostnadskonto  | [Konto 2400 - Leverandørgjeld](/blogs/kontoplan/2400-leverandorgjeld "Konto 2400 - Leverandørgjeld") |
-| Betaling av leverandørgjeld             | [Konto 2400 - Leverandørgjeld](/blogs/kontoplan/2400-leverandorgjeld "Konto 2400 - Leverandørgjeld") | Konto 1920 - Bankinnskudd                      |
+| Mottak av varer/tjenester pÃ¥ kreditt    | Konto 1460 / relevant kostnadskonto  | [Konto 2400 - LeverandÃ¸rgjeld](/blogs/kontoplan/2400-leverandorgjeld "Konto 2400 - LeverandÃ¸rgjeld") |
+| Betaling av leverandÃ¸rgjeld             | [Konto 2400 - LeverandÃ¸rgjeld](/blogs/kontoplan/2400-leverandorgjeld "Konto 2400 - LeverandÃ¸rgjeld") | Konto 1920 - Bankinnskudd                      |
 
 ## Vurdering og balansepresentasjon
 
-Leverandørgjeld presenteres som **kortsiktig gjeld** i [balansen](/blogs/regnskap/hva-er-balanseregnskap "Hva er Balanseregnskap?") og reflekterer de utestående forpliktelsene til leverandører per balansedagen.
+LeverandÃ¸rgjeld presenteres som **kortsiktig gjeld** i [balansen](/blogs/regnskap/hva-er-balanseregnskap "Hva er Balanseregnskap?") og reflekterer de utestÃ¥ende forpliktelsene til leverandÃ¸rer per balansedagen.
 
 ## Sammendrag
 
-I denne artikkelen har vi gjennomgått hva konto 2400 - **Leverandørgjeld** representerer, hvordan den benyttes og **regnskapsføres**, samt hvordan leverandørgjeld presenteres i balansen.
+I denne artikkelen har vi gjennomgÃ¥tt hva konto 2400 - **LeverandÃ¸rgjeld** representerer, hvordan den benyttes og **regnskapsfÃ¸res**, samt hvordan leverandÃ¸rgjeld presenteres i balansen.

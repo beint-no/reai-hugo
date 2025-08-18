@@ -1,19 +1,21 @@
----
+﻿---
 title: "6020-avskrivning-pa-immatrielle-eiendeler"
+meta_title: "6020-avskrivning-pa-immatrielle-eiendeler"
+meta_description: "**Konto 6020 - Avskrivning pÃ¥ immaterielle eiendeler** er en konto i norsk kontoplan som benyttes for Ã¥ fordele **anskaffelseskostnaden** til immaterielle eie..."
 slug: 6020-avskrivning-pa-immatrielle-eiendeler
-type: "blog"
-layout: "pages/single"
+type: blog
+layout: pages/single
 ---
 
-**Konto 6020 - Avskrivning på immaterielle eiendeler** er en konto i norsk kontoplan som benyttes for å fordele **anskaffelseskostnaden** til immaterielle eiendeler over deres forventede økonomiske levetid.
+**Konto 6020 - Avskrivning pÃ¥ immaterielle eiendeler** er en konto i norsk kontoplan som benyttes for Ã¥ fordele **anskaffelseskostnaden** til immaterielle eiendeler over deres forventede Ã¸konomiske levetid.
 
-![Illustrasjon av konto 6020 - Avskrivning på immaterielle eiendeler](6020-avskrivning-pa-immatrielle-eiendeler-image.svg)
+![Illustrasjon av konto 6020 - Avskrivning pÃ¥ immaterielle eiendeler](6020-avskrivning-pa-immatrielle-eiendeler-image.svg)
 
-## Når brukes Konto 6020?
+## NÃ¥r brukes Konto 6020?
 
-*Konto 6020* benyttes når en virksomhet skal bokføre årlige avskrivninger (amortisering) på immaterielle eiendeler som eies, utvikles eller erverves av virksomheten.
+*Konto 6020* benyttes nÃ¥r en virksomhet skal bokfÃ¸re Ã¥rlige avskrivninger (amortisering) pÃ¥ immaterielle eiendeler som eies, utvikles eller erverves av virksomheten.
 
-Eksempler på immaterielle eiendeler:
+Eksempler pÃ¥ immaterielle eiendeler:
 
 * Programvare og lisenskostnader
 * Varemerker og designrettigheter
@@ -22,38 +24,38 @@ Eksempler på immaterielle eiendeler:
 
 ## Definisjon og avskrivningsgrunnlag
 
-> **Avskrivning (amortisering)** er en systematisk fordeling av anskaffelseskostnaden over eiendelens økonomiske levetid.
+> **Avskrivning (amortisering)** er en systematisk fordeling av anskaffelseskostnaden over eiendelens Ã¸konomiske levetid.
 
-Følgende kostnadskomponenter inngår i avskrivningsgrunnlaget for immaterielle eiendeler:
+FÃ¸lgende kostnadskomponenter inngÃ¥r i avskrivningsgrunnlaget for immaterielle eiendeler:
 
 | Kostnadstype                   | Beskrivelse                                         |
 |--------------------------------|-----------------------------------------------------|
-| Anskaffelseskostnad            | Inkluderer kjøpesum, toll, frakt og installasjonskostnader |
-| Utviklingskostnader (FoU)      | Aktiverbare utviklingskostnader etter IAS 38/NRFS   |
-| Programvare og lisenser        | Kjøp og intern utvikling                            |
+| Anskaffelseskostnad            | Inkluderer kjÃ¸pesum, toll, frakt og installasjonskostnader |
+| Utviklingskostnader (FoU)      | Aktiverbare utviklingskostnader etter IASÂ 38/NRFS   |
+| Programvare og lisenser        | KjÃ¸p og intern utvikling                            |
 | Juridiske og registreringskostnader | Gebyrer for varemerker, patenter og konsesjoner    |
 
 ## Standard amortiseringssatser og perioder
 
-| Eiendelstype                   | Forventet levetid (år) | Anbefalt årlig satser (%) |
+| Eiendelstype                   | Forventet levetid (Ã¥r) | Anbefalt Ã¥rlig satser (%) |
 |--------------------------------|-----------------------:|---------------------------:|
-| Programvare                    | 3–5                    | 20–33                      |
-| Varemerker                     | 5–10                   | 10–20                      |
-| Patenter og konsesjoner        | 10–20                  | 5–10                       |
-| Utviklingskostnader (FoU)      | 5–10                   | 10–20                      |
+| Programvare                    | 3â€“5                    | 20â€“33                      |
+| Varemerker                     | 5â€“10                   | 10â€“20                      |
+| Patenter og konsesjoner        | 10â€“20                  | 5â€“10                       |
+| Utviklingskostnader (FoU)      | 5â€“10                   | 10â€“20                      |
 
-## Bokføringseksempel
+## BokfÃ¸ringseksempel
 
 ```plaintext
-Debet: Konto 6020 - Avskrivning på immaterielle eiendeler
+Debet: Konto 6020 - Avskrivning pÃ¥ immaterielle eiendeler
 Kredit: Konto 1020 - Immaterielle eiendeler (opprinnelig anskaffelseskost)
 ```
 
 ## Regnskapsstandarder og merverdier
 
-Bokføring av amortisering må følge gjeldende standarder som [IAS 38/NRFS](/blogs/regnskap/hva-er-amortisering "Hva er Amortisering?") og krav til [aktivering av immaterielle eiendeler](/blogs/regnskap/hva-er-imaterielle-eiendeler "Hva er Imaterielle Eiendeler?").
+BokfÃ¸ring av amortisering mÃ¥ fÃ¸lge gjeldende standarder som [IASÂ 38/NRFS](/blogs/regnskap/hva-er-amortisering "Hva er Amortisering?") og krav til [aktivering av immaterielle eiendeler](/blogs/regnskap/hva-er-imaterielle-eiendeler "Hva er Imaterielle Eiendeler?").
 
-## Se også
+## Se ogsÃ¥
 
 * [Konto 1000 - Forskning og utvikling](/blogs/kontoplan/1000-forskning-og-utvikling "Konto 1000 - Forskning og utvikling")
 * [Konto 1020 - Konsesjoner](/blogs/kontoplan/1020-konsesjoner "Konto 1020 - Konsesjoner")

@@ -1,11 +1,13 @@
----
+﻿---
 title: "3100-salgsinntekt-handelsvarer-avgiftsfri"
+meta_title: "3100-salgsinntekt-handelsvarer-avgiftsfri"
+meta_description: "**Konto 3100 - Salgsinntekt handelsvarer avgiftsfri** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **salgsinntekter** fra **handelsvarer*..."
 slug: 3100-salgsinntekt-handelsvarer-avgiftsfri
-type: "blog"
-layout: "pages/single"
+type: blog
+layout: pages/single
 ---
 
-**Konto 3100 - Salgsinntekt handelsvarer avgiftsfri** er en konto i Norsk Standard Kontoplan som brukes til å registrere **salgsinntekter** fra **handelsvarer** som er **avgiftsfrie (0 % MVA)**.
+**Konto 3100 - Salgsinntekt handelsvarer avgiftsfri** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **salgsinntekter** fra **handelsvarer** som er **avgiftsfrie (0 % MVA)**.
 
 ![Illustrasjon av konto 3100 Salgsinntekt handelsvarer avgiftsfri](3100-salgsinntekt-handelsvarer-avgiftsfri-image.svg)
 
@@ -19,9 +21,9 @@ layout: "pages/single"
 
 ![Avgiftsfri MVA-sats: 0 %](3100-mva-avgiftsfri.svg)
 
-## Regnskapsføring
+## RegnskapsfÃ¸ring
 
-Regnskapsføring av avgiftsfrie salgsinntekter skal følge **inntektsføringsprinsippet** og skille mellom netto salgsinntekt og eventuelle kostnader.
+RegnskapsfÃ¸ring av avgiftsfrie salgsinntekter skal fÃ¸lge **inntektsfÃ¸ringsprinsippet** og skille mellom netto salgsinntekt og eventuelle kostnader.
 
 | Transaksjon                            | Debet                                        | Kredit                                             |
 |----------------------------------------|----------------------------------------------|----------------------------------------------------|
@@ -30,17 +32,17 @@ Regnskapsføring av avgiftsfrie salgsinntekter skal følge **inntektsføringspri
 
 ## Vurdering og rapportering
 
-Avgiftsfrie salgsinntekter rapporteres netto og føres i resultatregnskapet under driftsinntekter. Korrekt periodisering og rapportering av omsetning er avgjørende for **nøyaktig regnskapsanalyse**.
+Avgiftsfrie salgsinntekter rapporteres netto og fÃ¸res i resultatregnskapet under driftsinntekter. Korrekt periodisering og rapportering av omsetning er avgjÃ¸rende for **nÃ¸yaktig regnskapsanalyse**.
 
 ## Intern lenking og relaterte kontoer
 
-* [Konto 2701 - Utgående merverdiavgift høy sats](/blogs/kontoplan/2701-utgaende-merverdiavgift-hoy-sats "Konto 2701 - Utgående merverdiavgift høy sats")
-* [Konto 3000 - Salgsinntekt handelsvarer avgiftspl. høy sats](/blogs/kontoplan/3000-salgsinntekt-handelsvarer-avgiftspl-hoy-sats "Konto 3000 - Salgsinntekt handelsvarer avgiftspl. høy sats")
+* [Konto 2701 - UtgÃ¥ende merverdiavgift hÃ¸y sats](/blogs/kontoplan/2701-utgaende-merverdiavgift-hoy-sats "Konto 2701 - UtgÃ¥ende merverdiavgift hÃ¸y sats")
+* [Konto 3000 - Salgsinntekt handelsvarer avgiftspl. hÃ¸y sats](/blogs/kontoplan/3000-salgsinntekt-handelsvarer-avgiftspl-hoy-sats "Konto 3000 - Salgsinntekt handelsvarer avgiftspl. hÃ¸y sats")
 * [Konto 3030 - Salgsinntekt handelsvarer avgiftspl. middels sats](/blogs/kontoplan/3030-salgsinntekt-handelsvarer-avgiftspl-middels-sats "Konto 3030 - Salgsinntekt handelsvarer avgiftspl. middels sats")
 * [Konto 3100 - Salgsinntekt handelsvarer avgiftsfri](/blogs/kontoplan/3100-salgsinntekt-handelsvarer-avgiftsfri "Konto 3100 - Salgsinntekt handelsvarer avgiftsfri")
 * [Konto 3110 - Salgsinntekt egentilvirkede varer avgiftsfri](/blogs/kontoplan/3110-salgsinntekt-egentilvirkede-varer-avgiftsfri "Konto 3110 - Salgsinntekt egentilvirkede varer avgiftsfri")
 * [Konto 3180 - Rabatter og annen salgsinntektsreduksjon avgiftsfri](/blogs/kontoplan/3180-rabatter-og-annen-salgsinntektsreduksjon-avgiftsfri "Konto 3180 - Rabatter og annen salgsinntektsreduksjon avgiftsfri")
-* [Konto 3190 - Refunderbare utlegg for kjøpers regning avgiftsfri](/blogs/kontoplan/3190-refunderbare-utlegg-for-kjopers-regning-avgiftsfri "Konto 3190 - Refunderbare utlegg for kjøpers regning avgiftsfri")
+* [Konto 3190 - Refunderbare utlegg for kjÃ¸pers regning avgiftsfri](/blogs/kontoplan/3190-refunderbare-utlegg-for-kjopers-regning-avgiftsfri "Konto 3190 - Refunderbare utlegg for kjÃ¸pers regning avgiftsfri")
 * [Konto 3200 - Salgsinntekt handelsvarer utenfor avg.omr](/blogs/kontoplan/3200-salgsinntekt-handelsvarer-utenfor-avg-omr "Konto 3200 - Salgsinntekt handelsvarer utenfor avg.omr")
 * [Konto 3210 - Salgsinntekt egentilvirkede varer utenfor avg.omr](/blogs/kontoplan/3210-salgsinntekt-egentilvirkede-varer-utenfor-avg-omr "Konto 3210 - Salgsinntekt egentilvirkede varer utenfor avg.omr")
 * [Konto 3080 - Rabatter og annen salgsinntektsred., avgiftspl.](/blogs/kontoplan/3080-rabatter-og-annen-salgsinntektsred-avgiftspl "Konto 3080 - Rabatter og annen salgsinntektsred., avgiftspl.")

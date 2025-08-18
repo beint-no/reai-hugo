@@ -1,45 +1,47 @@
----
+﻿---
 title: "7900-beholdningsendring-anlegg-under-utforelse"
+meta_title: "7900-beholdningsendring-anlegg-under-utforelse"
+meta_description: "**Konto 7900 - Beholdningsendring anlegg under utfÃ¸relse** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **endringer i beholdning av anle..."
 slug: 7900-beholdningsendring-anlegg-under-utforelse
-type: "blog"
-layout: "pages/single"
+type: blog
+layout: pages/single
 ---
 
-**Konto 7900 - Beholdningsendring anlegg under utførelse** er en konto i Norsk Standard Kontoplan som brukes til å registrere **endringer i beholdning av anlegg under utførelse**, det vil si varige driftsmidler under tilvirkning, i resultatregnskapet.
+**Konto 7900 - Beholdningsendring anlegg under utfÃ¸relse** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **endringer i beholdning av anlegg under utfÃ¸relse**, det vil si varige driftsmidler under tilvirkning, i resultatregnskapet.
 
-![Illustrasjon av konto 7900 Beholdningsendring anlegg under utførelse](7900-beholdningsendring-anlegg-under-utforelse-image.svg)
+![Illustrasjon av konto 7900 Beholdningsendring anlegg under utfÃ¸relse](7900-beholdningsendring-anlegg-under-utforelse-image.svg)
 
-## Hva er anlegg under utførelse?
+## Hva er anlegg under utfÃ¸relse?
 
-*Anlegg under utførelse* (også kalt anlegg under tilvirkning) er varige driftsmidler som er under produksjon eller oppføring, men som ennå ikke er ferdigstilt og tatt i bruk.
+*Anlegg under utfÃ¸relse* (ogsÃ¥ kalt anlegg under tilvirkning) er varige driftsmidler som er under produksjon eller oppfÃ¸ring, men som ennÃ¥ ikke er ferdigstilt og tatt i bruk.
 
 Typiske kjennetegn:
 
 | Kategori                        | Beskrivelse                                                        |
 |---------------------------------|--------------------------------------------------------------------|
-| Bygg og anlegg                  | Prosjekter for bygg, anlegg og infrastruktur under oppføring        |
+| Bygg og anlegg                  | Prosjekter for bygg, anlegg og infrastruktur under oppfÃ¸ring        |
 | Maskiner under montering        | Maskiner eller produksjonslinjer under installasjon                |
 | Immaterielle eiendeler under utvikling | Programvare, patenter og FoU-prosjekter                   |
-| Vedlikeholdsprosjekter          | Større vedlikeholds- og investeringsprosjekter                     |
+| Vedlikeholdsprosjekter          | StÃ¸rre vedlikeholds- og investeringsprosjekter                     |
 
-![Kategorier av anlegg under utførelse](7900-kategorier-anlegg-under-utforelse.svg)
+![Kategorier av anlegg under utfÃ¸relse](7900-kategorier-anlegg-under-utforelse.svg)
 
-## Regnskapsføring av beholdningsendring
+## RegnskapsfÃ¸ring av beholdningsendring
 
 | Transaksjon                       | Debet                                                   | Kredit                                                 |
 |-----------------------------------|---------------------------------------------------------|--------------------------------------------------------|
-| Økning i anlegg under utførelse    | Konto 1300 - Anlegg under utførelse                     | Konto 7900 - Beholdningsendring anlegg under utførelse |
-| Reduksjon i anlegg under utførelse | Konto 7900 - Beholdningsendring anlegg under utførelse | Konto 1100 (ferdig anlegg under utførelse/tatt i bruk) |
+| Ã˜kning i anlegg under utfÃ¸relse    | Konto 1300 - Anlegg under utfÃ¸relse                     | Konto 7900 - Beholdningsendring anlegg under utfÃ¸relse |
+| Reduksjon i anlegg under utfÃ¸relse | Konto 7900 - Beholdningsendring anlegg under utfÃ¸relse | Konto 1100 (ferdig anlegg under utfÃ¸relse/tatt i bruk) |
 
-Ved periodisering av interne tilvirkningskostnader justeres beholdningen for å sikre at kun faktisk kostnadsført produksjon belastes resultatet.
+Ved periodisering av interne tilvirkningskostnader justeres beholdningen for Ã¥ sikre at kun faktisk kostnadsfÃ¸rt produksjon belastes resultatet.
 
-## Eksempel på bokføring
+## Eksempel pÃ¥ bokfÃ¸ring
 
-Et selskap avslutter periodens anlegg under utførelse med en økning på 200 000 NOK:
+Et selskap avslutter periodens anlegg under utfÃ¸relse med en Ã¸kning pÃ¥ 200â€¯000â€¯NOK:
 
 ```plaintext
-Debet: Konto 1300 - Anlegg under utførelse               200 000 NOK
-Kredit: Konto 7900 - Beholdningsendring anlegg under utførelse  200 000 NOK
+Debet: Konto 1300 - Anlegg under utfÃ¸relse               200Â 000 NOK
+Kredit: Konto 7900 - Beholdningsendring anlegg under utfÃ¸relse  200Â 000 NOK
 ```
 
 ## Intern lenking og relaterte kontoer
@@ -53,4 +55,4 @@ Kredit: Konto 7900 - Beholdningsendring anlegg under utførelse  200 000 NOK
 * [Hva er anleggsmidler?](/blogs/regnskap/hva-er-anleggsmidler "Hva er anleggsmidler? Guide til hva anleggsmidler er")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 
-**Korrekt håndtering** av beholdningsendringer for anlegg under utførelse sikrer at kun fullførte prosjekter kostnadsføres, og gir et presist bilde av produksjonsfordringer.
+**Korrekt hÃ¥ndtering** av beholdningsendringer for anlegg under utfÃ¸relse sikrer at kun fullfÃ¸rte prosjekter kostnadsfÃ¸res, og gir et presist bilde av produksjonsfordringer.

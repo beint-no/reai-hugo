@@ -1,11 +1,13 @@
----
+﻿---
 title: "2720-investeringsavgift"
+meta_title: "2720-investeringsavgift"
+meta_description: "**Konto 2720 - Investeringsavgift** er en konto i **Norsk Standard Kontoplan** som brukes til Ã¥ registrere utgÃ¥ende **investeringsavgift** fra leverandÃ¸ren v..."
 slug: 2720-investeringsavgift
-type: "blog"
-layout: "pages/single"
+type: blog
+layout: pages/single
 ---
 
-**Konto 2720 - Investeringsavgift** er en konto i **Norsk Standard Kontoplan** som brukes til å registrere utgående **investeringsavgift** fra leverandøren ved etablering eller utvidelse av anleggsmidler.
+**Konto 2720 - Investeringsavgift** er en konto i **Norsk Standard Kontoplan** som brukes til Ã¥ registrere utgÃ¥ende **investeringsavgift** fra leverandÃ¸ren ved etablering eller utvidelse av anleggsmidler.
 
 ![Illustrasjon av konto 2720 Investeringsavgift](2720-investeringsavgift-image.svg)
 
@@ -13,35 +15,35 @@ layout: "pages/single"
 
 ## Hva er investeringsavgift?
 
-*Investeringsavgift* er en **avgift** som pålegges kunder ved etablering eller utvidelse av anleggsmidler. Avgiften er en del av anskaffelseskostnaden for anleggsmidlet, men faktureres separat av leverandøren.
+*Investeringsavgift* er en **avgift** som pÃ¥legges kunder ved etablering eller utvidelse av anleggsmidler. Avgiften er en del av anskaffelseskostnaden for anleggsmidlet, men faktureres separat av leverandÃ¸ren.
 
-## Når skal konto 2720 benyttes?
+## NÃ¥r skal konto 2720 benyttes?
 
-* Når virksomheten fakturerer utgående investeringsavgift til kunder.
+* NÃ¥r virksomheten fakturerer utgÃ¥ende investeringsavgift til kunder.
 * Ved etablering eller utvidelse av anleggsmidler der investeringsavgiften belastes som en egen post.
 
-## Regnskapsføring av utgående investeringsavgift
+## RegnskapsfÃ¸ring av utgÃ¥ende investeringsavgift
 
 | Transaksjon                                  | Debet                                       | Kredit                                |
 |----------------------------------------------|---------------------------------------------|---------------------------------------|
-| Fakturering av utgående investeringsavgift   | Konto 1500 - Kundefordringer                | Konto 2720 - Investeringsavgift       |
+| Fakturering av utgÃ¥ende investeringsavgift   | Konto 1500 - Kundefordringer                | Konto 2720 - Investeringsavgift       |
 | Periodisering av inntekt for investeringsavgift | Konto 2720 - Investeringsavgift            | Konto 3000 - Annen driftsinntekt      |
 
 ## Eksempel
 
-En leverandør fakturerer investeringsavgift med et avgiftsgrunnlag på 100 000 NOK og sats 5 %.
+En leverandÃ¸r fakturerer investeringsavgift med et avgiftsgrunnlag pÃ¥ 100â€¯000 NOK og sats 5â€¯%.
 
-| Beskrivelse           | Beløp (NOK)    |
+| Beskrivelse           | BelÃ¸p (NOK)    |
 |-----------------------|---------------:|
-| Avgiftsgrunnlag       |        100 000 |
+| Avgiftsgrunnlag       |        100â€¯000 |
 | Sats                  | 5 %            |
-| **Investeringsavgift** | **5 000**     |
+| **Investeringsavgift** | **5â€¯000**     |
 
 ## Fordeler ved korrekt behandling
 
-* **Korrekt inntektsføring** av investeringsavgift og bedre oversikt over avgiftspliktig virksomhet.
-* **Forenklet rapportering** ved å skille investeringsavgift fra øvrige salgstransaksjoner.
-* Overholdelse av **regnskapsstandarder** for aktivering og inntektsføring av investeringsavgifter.
+* **Korrekt inntektsfÃ¸ring** av investeringsavgift og bedre oversikt over avgiftspliktig virksomhet.
+* **Forenklet rapportering** ved Ã¥ skille investeringsavgift fra Ã¸vrige salgstransaksjoner.
+* Overholdelse av **regnskapsstandarder** for aktivering og inntektsfÃ¸ring av investeringsavgifter.
 
 ## Relaterte artikler
 

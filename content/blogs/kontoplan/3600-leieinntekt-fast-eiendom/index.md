@@ -1,17 +1,19 @@
----
+﻿---
 title: "3600-leieinntekt-fast-eiendom"
+meta_title: "3600-leieinntekt-fast-eiendom"
+meta_description: "**Konto 3600 - Leieinntekt fast eiendom** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **leieinntekter** fra **fast eiendom**."
 slug: 3600-leieinntekt-fast-eiendom
-type: "blog"
-layout: "pages/single"
+type: blog
+layout: pages/single
 ---
 
-**Konto 3600 - Leieinntekt fast eiendom** er en konto i Norsk Standard Kontoplan som brukes til å registrere **leieinntekter** fra **fast eiendom**.
+**Konto 3600 - Leieinntekt fast eiendom** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **leieinntekter** fra **fast eiendom**.
 
 ![Illustrasjon av konto 3600 Leieinntekt fast eiendom](3600-leieinntekt-fast-eiendom-image.svg)
 
 ## Hva er Leieinntekt fast eiendom?
 
-*Leieinntekt fast eiendom* omfatter inntekter fra utleie av fast eiendom, som boliger, næringslokaler og parkeringsplasser.
+*Leieinntekt fast eiendom* omfatter inntekter fra utleie av fast eiendom, som boliger, nÃ¦ringslokaler og parkeringsplasser.
 
 | Konto | Beskrivelse                   | MVA-sats |
 |-------|-------------------------------|----------|
@@ -19,9 +21,9 @@ layout: "pages/single"
 
 ![Avgiftsfri MVA-sats: 0 %](3600-mva-avgiftsfri.svg)
 
-## Regnskapsføring
+## RegnskapsfÃ¸ring
 
-Regnskapsføring av leieinntekter skal følge **inntektsføringsprinsippet** og skille mellom netto leieinntekt og eventuelle kostnader.
+RegnskapsfÃ¸ring av leieinntekter skal fÃ¸lge **inntektsfÃ¸ringsprinsippet** og skille mellom netto leieinntekt og eventuelle kostnader.
 
 | Transaksjon                          | Debet                              | Kredit                             |
 |--------------------------------------|------------------------------------|------------------------------------|
@@ -30,7 +32,7 @@ Regnskapsføring av leieinntekter skal følge **inntektsføringsprinsippet** og 
 
 ## Vurdering og rapportering
 
-Leieinntekter rapporteres netto og føres i resultatregnskapet under driftsinntekter. Korrekt periodisering og rapportering av leieinntekter er avgjørende for **nøyaktig regnskapsanalyse**.
+Leieinntekter rapporteres netto og fÃ¸res i resultatregnskapet under driftsinntekter. Korrekt periodisering og rapportering av leieinntekter er avgjÃ¸rende for **nÃ¸yaktig regnskapsanalyse**.
 
 ## Intern lenking og relaterte kontoer
 

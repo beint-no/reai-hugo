@@ -1,44 +1,46 @@
----
+﻿---
 title: "3010-salgsinntekt-egentilvirkede-varer"
+meta_title: "3010-salgsinntekt-egentilvirkede-varer"
+meta_description: "**Konto 3010 - Salgsinntekt egentilvirkede varer avgiftspl. hÃ¸y sats** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **salgsinntekter** f..."
 slug: 3010-salgsinntekt-egentilvirkede-varer
-type: "blog"
-layout: "pages/single"
+type: blog
+layout: pages/single
 ---
 
-**Konto 3010 - Salgsinntekt egentilvirkede varer avgiftspl. høy sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **salgsinntekter** fra **egentilvirkede varer** som er **avgiftspliktige med høy MVA-sats**.
+**Konto 3010 - Salgsinntekt egentilvirkede varer avgiftspl. hÃ¸y sats** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **salgsinntekter** fra **egentilvirkede varer** som er **avgiftspliktige med hÃ¸y MVA-sats**.
 
-![Illustrasjon av konto 3010 Salgsinntekt egentilvirkede varer avgiftspl. høy sats](3010-salgsinntekt-egentilvirkede-varer-avgiftspl-hoy-sats-image.svg)
+![Illustrasjon av konto 3010 Salgsinntekt egentilvirkede varer avgiftspl. hÃ¸y sats](3010-salgsinntekt-egentilvirkede-varer-avgiftspl-hoy-sats-image.svg)
 
-## Hva er Salgsinntekt egentilvirkede varer avgiftspliktig høy sats?
+## Hva er Salgsinntekt egentilvirkede varer avgiftspliktig hÃ¸y sats?
 
-*Salgsinntekt egentilvirkede varer avgiftspliktig høy sats* omfatter omsetning av varer produsert internt i selskapet, der varene selges med **25 % MVA**.
+*Salgsinntekt egentilvirkede varer avgiftspliktig hÃ¸y sats* omfatter omsetning av varer produsert internt i selskapet, der varene selges med **25 % MVA**.
 
 | Konto | Beskrivelse                                                       | MVA-sats |
 |-------|-------------------------------------------------------------------|----------|
-| 3010  | Salgsinntekt egentilvirkede varer avgiftspl. høy sats            | 25 %     |
+| 3010  | Salgsinntekt egentilvirkede varer avgiftspl. hÃ¸y sats            | 25 %     |
 
-![Høy MVA-sats: 25 %](3010-mva-hoy-sats.svg)
+![HÃ¸y MVA-sats: 25 %](3010-mva-hoy-sats.svg)
 
-## Regnskapsføring
+## RegnskapsfÃ¸ring
 
-Regnskapsføring av salgsinntekter skal følge **inntektsføringsprinsippet** og skille mellom netto salgsinntekt og merverdiavgift.
+RegnskapsfÃ¸ring av salgsinntekter skal fÃ¸lge **inntektsfÃ¸ringsprinsippet** og skille mellom netto salgsinntekt og merverdiavgift.
 
 | Transaksjon                                 | Debet                                            | Kredit                                               |
 |---------------------------------------------|--------------------------------------------------|------------------------------------------------------|
-| Salg av egentilvirkede varer ekskl. MVA     | Konto 1500 - Kundefordringer (inkl. MVA)         | Konto 3010 - Salgsinntekt egentilvirkede varer avgiftspl. høy sats |
-| Utgående merverdiavgift høy sats            | Konto 2701 - Utgående merverdiavgift høy sats     | Konto 1500 - Kundefordringer (inkl. MVA)             |
+| Salg av egentilvirkede varer ekskl. MVA     | Konto 1500 - Kundefordringer (inkl. MVA)         | Konto 3010 - Salgsinntekt egentilvirkede varer avgiftspl. hÃ¸y sats |
+| UtgÃ¥ende merverdiavgift hÃ¸y sats            | Konto 2701 - UtgÃ¥ende merverdiavgift hÃ¸y sats     | Konto 1500 - Kundefordringer (inkl. MVA)             |
 | Mottatt betaling fra kunde                  | Konto 1920 - Bankinnskudd                         | Konto 1500 - Kundefordringer                         |
 
 ## Vurdering og rapportering
 
-Salgsinntekter rapporteres netto, det vil si eksklusive MVA, og skal føres i resultatregnskapet under driftsinntekter. Korrekt periodisering og rapportering av omsetning er avgjørende for **nøyaktig regnskapsanalyse**.
+Salgsinntekter rapporteres netto, det vil si eksklusive MVA, og skal fÃ¸res i resultatregnskapet under driftsinntekter. Korrekt periodisering og rapportering av omsetning er avgjÃ¸rende for **nÃ¸yaktig regnskapsanalyse**.
 
 ## Intern lenking og relaterte kontoer
 
-* [Konto 2701 - Utgående merverdiavgift høy sats](/blogs/kontoplan/2701-utgaende-merverdiavgift-hoy-sats "Konto 2701 - Utgående merverdiavgift høy sats")
-* [Konto 3000 - Salgsinntekt handelsvarer avgiftspl. høy sats](/blogs/kontoplan/3000-salgsinntekt-handelsvarer-avgiftspl-hoy-sats "Konto 3000 - Salgsinntekt handelsvarer avgiftspl. høy sats")
-* [Konto 3010 - Salgsinntekt egentilvirkede varer avgiftspl. høy sats](/blogs/kontoplan/3010-salgsinntekt-egentilvirkede-varer-avgiftspl-hoy-sats "Konto 3010 - Salgsinntekt egentilvirkede varer avgiftspl. høy sats")
-* [Konto 3020 - Salgsinntekt tjenester avgiftspl. høy sats](/blogs/kontoplan/3020-salgsinntekt-tjenester-avgiftspl-hoy-sats "Konto 3020 - Salgsinntekt tjenester avgiftspl. høy sats")
+* [Konto 2701 - UtgÃ¥ende merverdiavgift hÃ¸y sats](/blogs/kontoplan/2701-utgaende-merverdiavgift-hoy-sats "Konto 2701 - UtgÃ¥ende merverdiavgift hÃ¸y sats")
+* [Konto 3000 - Salgsinntekt handelsvarer avgiftspl. hÃ¸y sats](/blogs/kontoplan/3000-salgsinntekt-handelsvarer-avgiftspl-hoy-sats "Konto 3000 - Salgsinntekt handelsvarer avgiftspl. hÃ¸y sats")
+* [Konto 3010 - Salgsinntekt egentilvirkede varer avgiftspl. hÃ¸y sats](/blogs/kontoplan/3010-salgsinntekt-egentilvirkede-varer-avgiftspl-hoy-sats "Konto 3010 - Salgsinntekt egentilvirkede varer avgiftspl. hÃ¸y sats")
+* [Konto 3020 - Salgsinntekt tjenester avgiftspl. hÃ¸y sats](/blogs/kontoplan/3020-salgsinntekt-tjenester-avgiftspl-hoy-sats "Konto 3020 - Salgsinntekt tjenester avgiftspl. hÃ¸y sats")
 * [Konto 3030 - Salgsinntekt handelsvarer avgiftspl. middels sats](/blogs/kontoplan/3030-salgsinntekt-handelsvarer-avgiftspl-middels-sats "Konto 3030 - Salgsinntekt handelsvarer avgiftspl. middels sats")
 * [Konto 3040 - Salgsinntekt egentilvirkede varer avgiftspl. middels sats](/blogs/kontoplan/3040-salgsinntekt-egentilvirkede-varer-avgiftspl-middels-sats "Konto 3040 - Salgsinntekt egentilvirkede varer avgiftspl. middels sats")
 * [Konto 3110 - Salgsinntekt egentilvirkede varer avgiftsfri](/blogs/kontoplan/3110-salgsinntekt-egentilvirkede-varer-avgiftsfri "Konto 3110 - Salgsinntekt egentilvirkede varer avgiftsfri")

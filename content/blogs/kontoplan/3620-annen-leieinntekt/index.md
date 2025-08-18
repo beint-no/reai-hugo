@@ -1,11 +1,13 @@
----
+﻿---
 title: "3620-annen-leieinntekt"
+meta_title: "3620-annen-leieinntekt"
+meta_description: "**Konto 3620 - Annen leieinntekt** er en konto i Norsk Standard Kontoplan som benyttes for Ã¥ registrere **annen leieinntekt** fra ulike kilder, for eksempel ko..."
 slug: 3620-annen-leieinntekt
-type: "blog"
-layout: "pages/single"
+type: blog
+layout: pages/single
 ---
 
-**Konto 3620 - Annen leieinntekt** er en konto i Norsk Standard Kontoplan som benyttes for å registrere **annen leieinntekt** fra ulike kilder, for eksempel korttidsleie av utstyr, kjøretøy og andre eiendeler.
+**Konto 3620 - Annen leieinntekt** er en konto i Norsk Standard Kontoplan som benyttes for Ã¥ registrere **annen leieinntekt** fra ulike kilder, for eksempel korttidsleie av utstyr, kjÃ¸retÃ¸y og andre eiendeler.
 
 ![Illustrasjon av konto 3620 Annen leieinntekt](3620-annen-leieinntekt-image.svg)
 
@@ -17,7 +19,7 @@ Typiske eksempler inkluderer:
 
 * Korttidsutleie av **maskiner og utstyr** (for eksempel byggeplassmaskiner)
 * Utleie av **kontorutstyr** og **teknisk utstyr**
-* Utleie av **kjøretøy** (bil, varebil, etc.)
+* Utleie av **kjÃ¸retÃ¸y** (bil, varebil, etc.)
 * Andre **forbruksrelaterte** utleieavtaler
 
 | Konto | Beskrivelse              | MVA-sats |
@@ -26,9 +28,9 @@ Typiske eksempler inkluderer:
 
 ![Avgiftsfri MVA-sats: 0 %](3620-mva-avgiftsfri.svg)
 
-## Regnskapsføring
+## RegnskapsfÃ¸ring
 
-Regnskapsføring av **annen leieinntekt** skal følge **inntektsføringsprinsippet** med korrekt periodisering. Under ser du eksempler på føring av annen leieinntekt:
+RegnskapsfÃ¸ring av **annen leieinntekt** skal fÃ¸lge **inntektsfÃ¸ringsprinsippet** med korrekt periodisering. Under ser du eksempler pÃ¥ fÃ¸ring av annen leieinntekt:
 
 | Transaksjon                          | Debet                             | Kredit                           |
 |--------------------------------------|-----------------------------------|----------------------------------|
@@ -37,7 +39,7 @@ Regnskapsføring av **annen leieinntekt** skal følge **inntektsføringsprinsipp
 
 ## Vurdering og rapportering
 
-Annen leieinntekt rapporteres netto under driftsinntekter i resultatregnskapet. **Korrekt periodisering** er avgjørende for å sikre et **nøyaktig** regnskapsbilde.
+Annen leieinntekt rapporteres netto under driftsinntekter i resultatregnskapet. **Korrekt periodisering** er avgjÃ¸rende for Ã¥ sikre et **nÃ¸yaktig** regnskapsbilde.
 
 ## Intern lenking og relaterte kontoer
 
