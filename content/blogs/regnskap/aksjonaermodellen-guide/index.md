@@ -9,7 +9,7 @@ layout: pages/single
 
 **AksjonÃ¦rmodellen** er det sentrale skattesystemet for [aksjebeskatning](/blogs/regnskap/hva-er-en-aksje "Hva er en aksje? Komplett guide til aksjer i Norge") i Norge, innfÃ¸rt i 2006 for Ã¥ skape et enhetlig og nÃ¸ytralt system for beskatning av [aksjer](/blogs/regnskap/hva-er-en-aksje "Hva er en aksje? Komplett guide til aksjer i Norge") og [utbytte](/blogs/regnskap/maskimalt-utbytte "Maksimalt utbytte fra AS - Beregning og regler"). Modellen bygger pÃ¥ to hovedprinsipper: **fritaksmetoden** og **skjermingsfradrag**, som sammen skal sikre at [aksjonÃ¦rer](/blogs/regnskap/hva-er-en-aksjonaer "Hva er en aksjonÃ¦r? Rettigheter og plikter") ikke blir dobbeltbeskattet.
 
-For en grundig innfÃ¸ring i beskatning av aksjegevinster for bÃ¥de privatpersoner og selskaper, se [Skatt pÃ¥ aksjegevinst](/blogs/regnskap/skatt-pa-aksjegevinst "Skatt pÃ¥ aksjegevinst â€“ Guide til beskatning av aksjegevinster i Norge").
+For en grundig innfÃ¸ring i beskatning av aksjegevinster for bÃ¥de privatpersoner og selskaper, se [Skatt pÃ¥ aksjegevinst](/blogs/regnskap/skatt-pa-aksjegevinst "Skatt pÃ¥ aksjegevinst “ Guide til beskatning av aksjegevinster i Norge").
 
 ![AksjonÃ¦rmodellen oversikt](aksjonaermodellen-guide-image.svg)
 
@@ -279,3 +279,6 @@ For Ã¥ sikre korrekt anvendelse av aksjonÃ¦rmodellen, anbefales det Ã¥ kon
 * [Holdingselskap](/blogs/regnskap/holdingselskap "Holdingselskap - Struktur og skattefordeler")
 * [Skattemelding](/blogs/regnskap/skattemelding "Skattemelding - Komplett guide til innlevering")
 * [Alminnelig inntekt](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt - Beregning og skatteregler")
+
+
+

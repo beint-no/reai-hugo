@@ -39,3 +39,5 @@ For regnskapsfÃ¸rende virksomheter pÃ¥virker ikke pensjonskapitalbevis direk
 * [Hva er tjenestepensjon?](/blogs/regnskap/hva-er-tjenestepensjon "Hva er Tjenestepensjon? Komplett Guide til Bedriftspensjon og RegnskapsfÃ¸ring")
 * [Hva er pensjonsrapportering?](/blogs/regnskap/hva-er-pensjonsrapportering "Hva er Pensjonsrapportering? Komplett Guide til Pensjon i Regnskap")
 * [Pensjonskapitalbevis](/blogs/regnskap/pensjonskapitalbevis "Pensjonskapitalbevis: Hva er pensjonskapitalbevis?")
+
+

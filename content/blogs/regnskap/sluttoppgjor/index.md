@@ -44,3 +44,5 @@ SluttoppgjÃ¸r refererer til den formelle avslutningen av regnskapsperioden, de
 ## Internkontroll og dokumentasjon
 
 God internkontroll er avgjÃ¸rende for et korrekt sluttoppgjÃ¸r. Se ogsÃ¥ artikkelen om [Internkontroll i regnskap](/blogs/regnskap/hva-er-internkontroll "Hva er Internkontroll i regnskap") for flere detaljer.
+
+

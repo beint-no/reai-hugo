@@ -48,3 +48,5 @@ For Ã¥ unngÃ¥ behov for oppbudsbegjÃ¦ring anbefales det Ã¥:
 ---
 
 *Relaterte artikler:* [Hva er Konkurs?](/blogs/regnskap/konkurs "Hva er Konkurs? Juridiske og Regnskapsmessige Konsekvenser av Konkurs"), [Hva er Konkursloven?](/blogs/regnskap/hva-er-konkursloven "Hva er Konkursloven? Oversikt og viktige bestemmelser"), [Insolvens](/blogs/regnskap/insolvens "Hva er Insolvens? Definisjon, Ã…rsaker og Behandling"), [Hva er OppbudsbegjÃ¦ring?](/blogs/regnskap/oppbudsbegjering "Hva er OppbudsbegjÃ¦ring? Guide til konkursbegjÃ¦ring i norsk regnskap").
+
+

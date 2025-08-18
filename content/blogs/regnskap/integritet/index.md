@@ -26,10 +26,10 @@ I regnskapsmessig sammenheng innebÃ¦rer integritet at alle transaksjoner, bila
 
 ## 3. Relevante Lover og Standarder
 
-* **BokfÃ¸ringsloven** â€“ Krav til dokumentasjon, sporbarhet og oppbevaring av regnskapsmateriale
-* **Revisjonsloven** â€“ Revisors uavhengighet og plikt til Ã¥ avdekke feil, jfr. [uavhengighet](/blogs/regnskap/inhabilitet "Hva er Inhabilitet i Regnskap? Guide til habilitetsregler og praksis")
-* **EU-taksonomien** â€“ Rapportering av bÃ¦rekraft med krav til pÃ¥litelig datagrunnlag
-* **God regnskapsskikk** â€“ Etiske prinsipper, transparens og [integritet](/blogs/regnskap/integritet "Hva er Integritet i Regnskap? Betydning og Viktighet for Norske Virksomheter")
+* **BokfÃ¸ringsloven** “ Krav til dokumentasjon, sporbarhet og oppbevaring av regnskapsmateriale
+* **Revisjonsloven** “ Revisors uavhengighet og plikt til Ã¥ avdekke feil, jfr. [uavhengighet](/blogs/regnskap/inhabilitet "Hva er Inhabilitet i Regnskap? Guide til habilitetsregler og praksis")
+* **EU-taksonomien** “ Rapportering av bÃ¦rekraft med krav til pÃ¥litelig datagrunnlag
+* **God regnskapsskikk** “ Etiske prinsipper, transparens og [integritet](/blogs/regnskap/integritet "Hva er Integritet i Regnskap? Betydning og Viktighet for Norske Virksomheter")
 
 ## 4. Implementering av Integritet i Regnskap
 
@@ -42,10 +42,10 @@ For Ã¥ sikre integritet i regnskapet bÃ¸r virksomheter etablere fÃ¸lgende 
 
 ## 5. Konsekvenser av Manglende Integritet
 
-* **Risiko for regulatoriske sanksjoner** â€“ Manglende integritet kan fÃ¸re til overtredelsesgebyrer og straff
-* **Tap av omdÃ¸mme** â€“ Utsalg av tillit hos kunder, leverandÃ¸rer og tilsynsmyndigheter
-* **Ã˜konomiske tap** â€“ Feilaktige rapporter kan medfÃ¸re dÃ¥rlig beslutningsgrunnlag og Ã¸konomiske tap
-* **Revisjonsmerknader** â€“ Avvik og presiseringer i revisjonsberetningen
+* **Risiko for regulatoriske sanksjoner** “ Manglende integritet kan fÃ¸re til overtredelsesgebyrer og straff
+* **Tap av omdÃ¸mme** “ Utsalg av tillit hos kunder, leverandÃ¸rer og tilsynsmyndigheter
+* **Ã˜konomiske tap** “ Feilaktige rapporter kan medfÃ¸re dÃ¥rlig beslutningsgrunnlag og Ã¸konomiske tap
+* **Revisjonsmerknader** “ Avvik og presiseringer i revisjonsberetningen
 
 ## Relaterte Artikler
 
@@ -53,3 +53,5 @@ For Ã¥ sikre integritet i regnskapet bÃ¸r virksomheter etablere fÃ¸lgende 
 * [God regnskapsskikk](/blogs/regnskap/god-regnskapsskikk "God Regnskapsskikk - Prinsipper, Standarder og Beste Praksis i Norge")
 * [BokfÃ¸ringsloven](/blogs/regnskap/hva-er-bokforingsloven "Hva er BokfÃ¸ringsloven? Komplett Guide til Norsk BokfÃ¸ringslovgivning")
 * [Hva er Inhabilitet i Regnskap?](/blogs/regnskap/inhabilitet "Hva er Inhabilitet i Regnskap? Guide til habilitetsregler og praksis")
+
+

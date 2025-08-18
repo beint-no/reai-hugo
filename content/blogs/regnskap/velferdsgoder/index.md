@@ -32,12 +32,12 @@ De vanligste kategoriene av **velferdsgoder** i norske virksomheter inkluderer:
 
 Eksempler pÃ¥ **velferdsgoder** som ofte tilbys norske ansatte:
 
-* **Firmabil** â€“ bruk av kjÃ¸retÃ¸y betalt av arbeidsgiver. Se [Firmabil](/blogs/regnskap/hva-er-firmabil "Hva er Firmabil? RegnskapsfÃ¸ring og Skattemessige Konsekvenser").
-* **Diett** â€“ mÃ¥ltidsgodtgjÃ¸relse ved tjenestereiser. Se [Diett](/blogs/regnskap/diett "Diett i regnskap: Guide til normaltariffer, regler og regnskapsfÃ¸ring").
-* **Tjenestepensjon** â€“ pensjonsordninger utover lovkrav. Se [Tjenestepensjon](/blogs/regnskap/hva-er-tjenestepensjon "Hva er Tjenestepensjon? RegnskapsfÃ¸ring og Skattemessige Konsekvenser").
-* **Bedriftshelsetjeneste** â€“ helse- og arbeidsmiljÃ¸tiltak. Se [Bedriftshelsetjeneste](/blogs/regnskap/hms "HMS og HMS-forskriften: Bedriftshelsetjeneste og Regelverk").
-* **Personalrabatt** â€“ rabatter pÃ¥ varer og tjenester. Se [Personalrabatt](/blogs/regnskap/hva-er-personalrabatt "Hva er Personalrabatt? Skatteplikt og RegnskapsfÃ¸ring").
-* **Andre ordninger** â€“ for eksempel fleksibel arbeidstid, bonus, [Velferdstiltak](/blogs/regnskap/hva-er-velferdstiltak "Velferdstiltak - Komplett Guide til Ansattfordeler, RegnskapsfÃ¸ring og Skattebehandling") og [Velferdspermisjon](/blogs/regnskap/velferdspermisjon "Velferdspermisjon â€“ Rettigheter, RegnskapsfÃ¸ring og Skattemessig Behandling").
+* **Firmabil** “ bruk av kjÃ¸retÃ¸y betalt av arbeidsgiver. Se [Firmabil](/blogs/regnskap/hva-er-firmabil "Hva er Firmabil? RegnskapsfÃ¸ring og Skattemessige Konsekvenser").
+* **Diett** “ mÃ¥ltidsgodtgjÃ¸relse ved tjenestereiser. Se [Diett](/blogs/regnskap/diett "Diett i regnskap: Guide til normaltariffer, regler og regnskapsfÃ¸ring").
+* **Tjenestepensjon** “ pensjonsordninger utover lovkrav. Se [Tjenestepensjon](/blogs/regnskap/hva-er-tjenestepensjon "Hva er Tjenestepensjon? RegnskapsfÃ¸ring og Skattemessige Konsekvenser").
+* **Bedriftshelsetjeneste** “ helse- og arbeidsmiljÃ¸tiltak. Se [Bedriftshelsetjeneste](/blogs/regnskap/hms "HMS og HMS-forskriften: Bedriftshelsetjeneste og Regelverk").
+* **Personalrabatt** “ rabatter pÃ¥ varer og tjenester. Se [Personalrabatt](/blogs/regnskap/hva-er-personalrabatt "Hva er Personalrabatt? Skatteplikt og RegnskapsfÃ¸ring").
+* **Andre ordninger** “ for eksempel fleksibel arbeidstid, bonus, [Velferdstiltak](/blogs/regnskap/hva-er-velferdstiltak "Velferdstiltak - Komplett Guide til Ansattfordeler, RegnskapsfÃ¸ring og Skattebehandling") og [Velferdspermisjon](/blogs/regnskap/velferdspermisjon "Velferdspermisjon “ Rettigheter, RegnskapsfÃ¸ring og Skattemessig Behandling").
 
 ## Skattemessig Behandling og RegnskapsfÃ¸ring
 
@@ -54,3 +54,5 @@ Enkel oversikt over behandling av vanlige velferdsgoder:
 ## Oppsummering
 
 **Velferdsgoder** er en viktig del av total kompensasjonsstrategi, med bÃ¥de praktiske og skattemessige implikasjoner. Ved Ã¥ kombinere lovpÃ¥lagte ordninger, skattefrie personalegoder og mÃ¥lrettede frivillige tiltak kan virksomheter skape merverdi for sine ansatte. For detaljert gjennomgang av strategisk implementering, se [Velferdstiltak](/blogs/regnskap/hva-er-velferdstiltak "Velferdstiltak - Komplett Guide til Ansattfordeler, RegnskapsfÃ¸ring og Skattebehandling").
+
+

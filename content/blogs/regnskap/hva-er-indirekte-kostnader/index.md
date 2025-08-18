@@ -10,9 +10,9 @@ layout: pages/single
 **Indirekte kostnader** (ogsÃ¥ kalt _overhead_ eller **felleskostnader**) er kostnader som ikke kan spores direkte til et spesifikt produkt, en tjeneste eller et kostnadssted. Disse kostnadene oppstÃ¥r for Ã¥ stÃ¸tte den generelle driften av virksomheten og mÃ¥ fordeles pÃ¥ en hensiktsmessig mÃ¥te.
 
 For en komplett oversikt over alle kostnadstyper og kostnadskonsepter i regnskap, se ogsÃ¥ [Hva er kostnader?](/blogs/regnskap/hva-er-kostnader "Hva er Kostnader i Regnskap? Komplett Guide til Kostnadstyper og RegnskapsfÃ¸ring").
-Les ogsÃ¥ om [Direkte kostnader](/blogs/regnskap/hva-er-direkte-kostnader "Hva er Direkte kostnader? Definisjon, Eksempler og RegnskapsfÃ¸ring"), [Variable kostnader](/blogs/regnskap/variable-kostnader "Hva er Variable kostnader? Definisjon, Eksempler og RegnskapsfÃ¸ring"), [Faste kostnader](/blogs/regnskap/hva-er-faste-kostnader "Hva er Faste kostnader? Definisjon og Eksempler"), [Kalkulatoriske kostnader](/blogs/regnskap/kalkulatoriske-kostnader "Hva er Kalkulatoriske kostnader? Guide til kalkulatoriske kostnader og Regnskapsanalyse") og [Kapitalkostnad](/blogs/regnskap/kapitalkostnad "Kapitalkostnad â€“ Grunnleggende konsept for norsk regnskap og investering") for en helhetlig kostnadsforstÃ¥else.
+Les ogsÃ¥ om [Direkte kostnader](/blogs/regnskap/hva-er-direkte-kostnader "Hva er Direkte kostnader? Definisjon, Eksempler og RegnskapsfÃ¸ring"), [Variable kostnader](/blogs/regnskap/variable-kostnader "Hva er Variable kostnader? Definisjon, Eksempler og RegnskapsfÃ¸ring"), [Faste kostnader](/blogs/regnskap/hva-er-faste-kostnader "Hva er Faste kostnader? Definisjon og Eksempler"), [Kalkulatoriske kostnader](/blogs/regnskap/kalkulatoriske-kostnader "Hva er Kalkulatoriske kostnader? Guide til kalkulatoriske kostnader og Regnskapsanalyse") og [Kapitalkostnad](/blogs/regnskap/kapitalkostnad "Kapitalkostnad “ Grunnleggende konsept for norsk regnskap og investering") for en helhetlig kostnadsforstÃ¥else.
 
-Det er nyttig Ã¥ kjenne forskjellen mellom kostnad og [utgift](/blogs/regnskap/utgift "Utgift â€“ Komplett Guide til Utgifter i Norsk Regnskap"); se vÃ¥r artikkel om utgift.
+Det er nyttig Ã¥ kjenne forskjellen mellom kostnad og [utgift](/blogs/regnskap/utgift "Utgift “ Komplett Guide til Utgifter i Norsk Regnskap"); se vÃ¥r artikkel om utgift.
 
 ![Indirekte kostnader](hva-er-indirekte-kostnader-image.svg)
 
@@ -53,3 +53,5 @@ Indirekte kostnader spiller en sentral rolle i kostnads- og lÃ¸nnsomhetsanalys
 ## Oppsummering
 
 **Indirekte kostnader** dekker de felles kostnadene som stÃ¸tter virksomhetens drift, men som ikke kan spores direkte til spesifikke produkter eller tjenester. Gjennom **korrekt allokering** kan virksomheter oppnÃ¥ mer nÃ¸yaktig kostnadsberegning, bedre prissetting og forbedret lÃ¸nnsomhetsanalyse.
+
+

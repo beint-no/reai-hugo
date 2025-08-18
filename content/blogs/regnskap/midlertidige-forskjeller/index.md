@@ -35,7 +35,7 @@ Utsatt skatt beregnes som produktet av midlertidige forskjeller og gjeldende ska
 ## Vanlige eksempler
 
 * **Avskrivninger**: Ulike avskrivningssatser for regnskap og skatt ([Hva er Avskrivning?](/blogs/regnskap/hva-er-avskrivning "Hva er Avskrivning? Prinsipper og Eksempler")).
-* **Varelager**: Forskjeller mellom regnskapsfÃ¸rt verdi og skattemessig verdi av varelager ([Hva er Varelager?](/blogs/regnskap/hva-er-varelager "Hva er Varelager â€“ RegnskapsfÃ¸ring og Vurdering")).
+* **Varelager**: Forskjeller mellom regnskapsfÃ¸rt verdi og skattemessig verdi av varelager ([Hva er Varelager?](/blogs/regnskap/hva-er-varelager "Hva er Varelager “ RegnskapsfÃ¸ring og Vurdering")).
 * **Pensjonsforpliktelser**: Ulike behandlinger av aktuarmessige gevinster og tap i regnskap og skatt.
 * **Periodisering av inntekter og kostnader**: Avvik i tidspunkt for inntekts- og kostnadsfÃ¸ring ([Hva er Periodisering i Regnskap?](/blogs/regnskap/hva-er-periodisering "Periodisering i Regnskap - Komplett Guide til Periodiseringsprinsippet")).
 
@@ -50,13 +50,15 @@ Utsatt skatt bokfÃ¸res som henholdsvis eiendel (utsatt skattefordel) eller for
 
 ## Hvorfor er dette viktig?
 
-En god forstÃ¥else av **midlertidige forskjeller** er avgjÃ¸rende for Ã¥ sikre korrekte skatteberegninger, balansere [betalbar skatt](/blogs/regnskap/betalbar-skatt "Betalbar skatt â€“ Komplett guide til beregning og hÃ¥ndtering") og planlegge fremtidige likviditetsbehov.
+En god forstÃ¥else av **midlertidige forskjeller** er avgjÃ¸rende for Ã¥ sikre korrekte skatteberegninger, balansere [betalbar skatt](/blogs/regnskap/betalbar-skatt "Betalbar skatt “ Komplett guide til beregning og hÃ¥ndtering") og planlegge fremtidige likviditetsbehov.
 
 ## Videre lesning
 
-* [Utsatt skattefordel](/blogs/regnskap/utsatt-skattefordel "Utsatt skattefordel â€“ Guide til beregning og bokfÃ¸ring")
+* [Utsatt skattefordel](/blogs/regnskap/utsatt-skattefordel "Utsatt skattefordel “ Guide til beregning og bokfÃ¸ring")
 * [Hva er Utsatt Skatt?](/blogs/regnskap/hva-er-utsatt-skatt "Hva er Utsatt Skatt? Beregning og RegnskapsfÃ¸ring")
-* [Alminnelig inntekt](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt â€“ Komplett guide til skattemessig resultat og beregning")
-* [Betalbar skatt](/blogs/regnskap/betalbar-skatt "Betalbar skatt â€“ Komplett guide til beregning og hÃ¥ndtering")
+* [Alminnelig inntekt](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt “ Komplett guide til skattemessig resultat og beregning")
+* [Betalbar skatt](/blogs/regnskap/betalbar-skatt "Betalbar skatt “ Komplett guide til beregning og hÃ¥ndtering")
 * [Hva er Periodisering i Regnskap?](/blogs/regnskap/hva-er-periodisering "Periodisering i Regnskap - Komplett Guide til Periodiseringsprinsippet")
 * [Permanente forskjeller](/blogs/regnskap/permanente-forskjeller "Permanente forskjeller i regnskap og skatt")
+
+

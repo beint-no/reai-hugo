@@ -32,13 +32,13 @@ FÃ¸lgende tabell viser en vanlig rating-skala for bonitet:
 
 | Rating | Beskrivelse |
 | ------ | ----------- |
-| AAA    | Utmerket â€“ svÃ¦rt lav kredittrisiko |
-| AA     | Meget god â€“ lav kredittrisiko |
-| A      | God â€“ moderat kredittrisiko |
-| BBB    | Akseptabel â€“ moderat til hÃ¸y kredittrisiko |
-| BB     | Lav â€“ hÃ¸y kredittrisiko |
-| B      | Betydelig â€“ stor kredittrisiko |
-| CCC og lavere | HÃ¸y â€“ svÃ¦rt stor kredittrisiko |
+| AAA    | Utmerket “ svÃ¦rt lav kredittrisiko |
+| AA     | Meget god “ lav kredittrisiko |
+| A      | God “ moderat kredittrisiko |
+| BBB    | Akseptabel “ moderat til hÃ¸y kredittrisiko |
+| BB     | Lav “ hÃ¸y kredittrisiko |
+| B      | Betydelig “ stor kredittrisiko |
+| CCC og lavere | HÃ¸y “ svÃ¦rt stor kredittrisiko |
 
 ![Rating-skala for kredittvurdering](bonitet-rating-scale.svg)
 
@@ -64,3 +64,6 @@ Forbedring av bonitet krever mÃ¥lrettet arbeid:
 ## Oppsummering
 
 Bonitet er en kjerneindikator for finansiell helse og kredittrisiko. Ved Ã¥ forstÃ¥ kredittvurderingsmodeller, rating-skalaer og gode hygienesrutiner kan virksomheter sikre seg bedre vilkÃ¥r og redusere risiko i norsk regnskap og finans.
+
+
+

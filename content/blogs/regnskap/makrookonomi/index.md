@@ -15,7 +15,7 @@ Artikkelen utforsker **nÃ¸kkelbegreper** som BNP, *inflasjon*, *deflasjon*,
 konjunktursykluser, rente og finanspolitikk, samt hvordan disse pÃ¥virker
 norsk regnskap og finansielle beslutninger.
 
-Dataene i denne artikkelen og andre makroÃ¸konomiske indikatorer er hentet fra **[Statistisk sentralbyrÃ¥ (SSB)](/blogs/regnskap/statistisk-sentralbyra "Statistisk sentralbyrÃ¥ (SSB) â€“ Offisiell statistikk og betydning for regnskap i Norge")**, som tilbyr et bredt utvalg av Ã¥pne data via *API*-er og rapporter.
+Dataene i denne artikkelen og andre makroÃ¸konomiske indikatorer er hentet fra **[Statistisk sentralbyrÃ¥ (SSB)](/blogs/regnskap/statistisk-sentralbyra "Statistisk sentralbyrÃ¥ (SSB) “ Offisiell statistikk og betydning for regnskap i Norge")**, som tilbyr et bredt utvalg av Ã¥pne data via *API*-er og rapporter.
 
 ## Hva er MakroÃ¸konomi?
 
@@ -50,3 +50,5 @@ virksomheters regnskapsresultater og Ã¸konomiske planlegging.
 
 For en grundig innfÃ¸ring i overordnede Ã¸konomiske prinsipper, se
 **[MakroÃ¸konomi](/blogs/regnskap/makrookonomi "MakroÃ¸konomi: Prinsipper og Betydning for Norsk Regnskap")**.
+
+

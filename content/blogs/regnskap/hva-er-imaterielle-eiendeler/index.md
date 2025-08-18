@@ -68,7 +68,7 @@ Intellektuelle rettigheter omfatter en bred kategori av juridiske beskyttelser, 
 * **Verdsettelse:** Basert pÃ¥ forventede royalty-inntekter
 * **Eksempler:** Programvare, musikk, litterÃ¦re verk, filmer
 
-* **Domenenavn:** Rett til bruk og registrering av unike internettdomener for bedriftens merkevare. Se [Domenenavn i Regnskap â€“ Behandling og Klassifisering](/blogs/regnskap/domenenavn "Domenenavn i Regnskap â€“ Behandling og Klassifisering").
+* **Domenenavn:** Rett til bruk og registrering av unike internettdomener for bedriftens merkevare. Se [Domenenavn i Regnskap “ Behandling og Klassifisering](/blogs/regnskap/domenenavn "Domenenavn i Regnskap “ Behandling og Klassifisering").
 
 #### Designrettigheter
 * **Definisjon:** Beskyttelse av produkters utseende og form
@@ -341,3 +341,5 @@ NÃ¸kkelen til suksess ligger i Ã¥:
 For bedrifter som Ã¸nsker Ã¥ maksimere verdien av sine immaterielle eiendeler, er det essensielt Ã¥ ha en helhetlig tilnÃ¦rming som kombinerer regnskapsmessig korrekthet med strategisk forretningsstyring. Dette krever tett samarbeid mellom regnskaps-, juridiske og strategiske funksjoner i organisasjonen.
 
 Ved Ã¥ forstÃ¥ og aktivt forvalte imaterielle eiendeler kan bedrifter ikke bare sikre korrekt finansiell rapportering, men ogsÃ¥ bygge bÃ¦rekraftige konkurransefortrinn som driver langsiktig verdiskapning og vekst.
+
+

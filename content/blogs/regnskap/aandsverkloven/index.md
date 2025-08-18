@@ -62,3 +62,6 @@ IÂ regnskapssammenheng klassifiseres opphavsrett som en **immateriell rettighe
 
 * [Hva er BokfÃ¸ringsloven?](/blogs/regnskap/hva-er-bokforingsloven "Hva er BokfÃ¸ringsloven? Komplett Guide til Norsk BokfÃ¸ringslovgivning")
 * [God regnskapsskikk](/blogs/regnskap/god-regnskapsskikk "God Regnskapsskikk - Prinsipper og Standarder i Norge")
+
+
+

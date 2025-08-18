@@ -53,6 +53,8 @@ SSBs data er viktige i flere faser av regnskapsfÃ¸rsel og Ã¸konomisk rapport
 ## Videre lesning
 
 * [MakroÃ¸konomi](/blogs/regnskap/makrookonomi "MakroÃ¸konomi og Norsk Regnskap - Prinsipper og Betydning")  
-* [Norges Bank](/blogs/regnskap/norges-bank "Norges Bank â€“ Norges sentralbank: Funksjoner, rolle og betydning for norsk regnskap")  
+* [Norges Bank](/blogs/regnskap/norges-bank "Norges Bank “ Norges sentralbank: Funksjoner, rolle og betydning for norsk regnskap")  
 * [Enhetsregisteret](/blogs/regnskap/hva-er-enhetsregisteret "Hva er Enhetsregisteret? En Guide til Norske Virksomhetsregistre")  
 * [Hva er regnskap?](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Dybdeanalyse for Norge")
+
+

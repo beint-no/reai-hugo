@@ -9,7 +9,7 @@ layout: pages/single
 
 **Kontantbeholdning** er den totale mengden kontanter og kontantekvivalenter som et selskap holder tilgjengelig for Ã¥ mÃ¸te sine kortsiktige forpliktelser og operasjonelle behov. Som en fundamental del av [likviditetsstyring](/blogs/regnskap/hva-er-arbeidskapital "Hva er Arbeidskapital? Beregning og Betydning for Bedrifter"), representerer kontantbeholdning selskapets evne til Ã¥ hÃ¥ndtere uforutsette utgifter og gripe investeringsmuligheter nÃ¥r de oppstÃ¥r.
 
-KontantutstrÃ¸mmer inkluderer ogsÃ¥ **kontantkjÃ¸p** av varer og tjenester. Se [KontantkjÃ¸p](/blogs/regnskap/kontantkjop "KontantkjÃ¸p â€“ Guide til RegnskapsfÃ¸ring av KontantkjÃ¸p").
+KontantutstrÃ¸mmer inkluderer ogsÃ¥ **kontantkjÃ¸p** av varer og tjenester. Se [KontantkjÃ¸p](/blogs/regnskap/kontantkjop "KontantkjÃ¸p “ Guide til RegnskapsfÃ¸ring av KontantkjÃ¸p").
 
 For mer informasjon om bevegelsen av kontanter i en virksomhet, se [Hva er kontantstrÃ¸m?](/blogs/regnskap/hva-er-kontantstrom "Hva er KontantstrÃ¸m? Komplett Guide til Cash Flow Analyse og Styring").
 
@@ -462,3 +462,5 @@ NÃ¸kkelen til suksess ligger i Ã¥:
 * **Kontinuerlig overvÃ¥ke** og justere tilnÃ¦rmingen
 
 Ved Ã¥ fÃ¸lge disse prinsippene kan bedrifter sikre optimal [likviditetsstyring](/blogs/regnskap/hva-er-arbeidskapital "Hva er Arbeidskapital? Beregning og Betydning for Bedrifter") og stÃ¸tte langsiktig finansiell stabilitet og vekst.
+
+

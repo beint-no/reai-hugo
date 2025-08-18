@@ -327,3 +327,6 @@ Dobbel bokfÃ¸ring forblir det ubestridte fundamentet for moderne regnskapsfÃ�
 Ved Ã¥ mestre prinsippene for dobbel bokfÃ¸ring legger du grunnlaget for solid Ã¸konomisk styring og overholdelse av norske [bokfÃ¸ringsregler](/blogs/regnskap/hva-er-bokforingsregler "Hva er BokfÃ¸ringsregler? Komplett Guide til Norske BokfÃ¸ringsstandarder"). Dette systemet vil fortsette Ã¥ vÃ¦re relevant selv nÃ¥r teknologien utvikler seg, fordi de grunnleggende prinsippene for Ã¸konomisk balanse og sporbarhet forblir uforandret.
 
 For virksomheter som Ã¸nsker Ã¥ implementere eller forbedre sitt dobbelte bokfÃ¸ringssystem, anbefales det Ã¥ arbeide med kvalifiserte regnskapsfÃ¸rere og investere i moderne, integrerte bokfÃ¸ringssystemer som automatiserer rutineoppgaver samtidig som de opprettholder de strenge kravene til nÃ¸yaktighet og kontroll som kjennetegner dobbel bokfÃ¸ring.
+
+
+

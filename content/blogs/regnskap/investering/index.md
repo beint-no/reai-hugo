@@ -268,8 +268,8 @@ Investeringer presenteres i [balansen](/blogs/regnskap/hva-er-balanse "Hva er Ba
 
 #### 6.1.1 Anleggsmidler
 
-* **Investeringer i datterselskaper:** Til kostpris eller [egenkapitalmetoden](/blogs/regnskap/egenkapitalmetoden "Egenkapitalmetoden â€“ Guide til regnskapsfÃ¸ring av tilknyttede selskaper")
-* **Investeringer i tilknyttede selskaper:** [Egenkapitalmetoden](/blogs/regnskap/egenkapitalmetoden "Egenkapitalmetoden â€“ Guide til regnskapsfÃ¸ring av tilknyttede selskaper")
+* **Investeringer i datterselskaper:** Til kostpris eller [egenkapitalmetoden](/blogs/regnskap/egenkapitalmetoden "Egenkapitalmetoden “ Guide til regnskapsfÃ¸ring av tilknyttede selskaper")
+* **Investeringer i tilknyttede selskaper:** [Egenkapitalmetoden](/blogs/regnskap/egenkapitalmetoden "Egenkapitalmetoden “ Guide til regnskapsfÃ¸ring av tilknyttede selskaper")
 * **Andre langsiktige investeringer:** Kostpris eller virkelig verdi
 
 #### 6.1.2 OmlÃ¸psmidler
@@ -480,3 +480,5 @@ Kredit: Bank                                    kr 15.000.000
 For virksomheter som Ã¸nsker Ã¥ optimalisere sin investeringsstrategi, er det avgjÃ¸rende Ã¥ ha solid kunnskap om bÃ¥de de regnskapsmessige og skattemessige konsekvensene av ulike investeringsalternativer. Dette sikrer ikke bare korrekt rapportering, men ogsÃ¥ informerte beslutninger som maksimerer [avkastning](/blogs/regnskap/hva-er-avkastning "Hva er Avkastning? Komplett Guide til Investeringsavkastning og Beregning") innenfor akseptable risikorammer.
 
 Investeringsregnskapet vil fortsette Ã¥ utvikle seg i takt med finansielle innovasjoner og regulatoriske endringer. Bedrifter som holder seg oppdatert pÃ¥ disse utviklingstrekkene vil vÃ¦re best posisjonert for fremtidig suksess i det komplekse investeringslandskapet.
+
+

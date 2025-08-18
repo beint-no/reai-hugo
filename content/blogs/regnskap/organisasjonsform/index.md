@@ -61,7 +61,7 @@ For praktisk oppstart, se ogsÃ¥ [Starte Enkeltpersonforetak](/blogs/regnskap/s
 * **Ã‰n eier** som driver virksomheten i eget navn
 * **Ubegrenset personlig ansvar** for alle forpliktelser
 * **Ingen startkapital** kreves
-* **Personbeskatning** - overskudd beskattes som [personinntekt](/blogs/regnskap/personinntekt "Personinntekt â€“ Komplett guide til personinntekt i norsk regnskap")
+* **Personbeskatning** - overskudd beskattes som [personinntekt](/blogs/regnskap/personinntekt "Personinntekt “ Komplett guide til personinntekt i norsk regnskap")
 * Enkel oppstart og administrasjon
 
 #### Ansvarlig Selskap (ANS)
@@ -173,7 +173,7 @@ For ideelle og allmennyttige formÃ¥l:
 
 Alle registrerte [foretak](/blogs/regnskap/hva-er-foretak "Hva er et Foretak? Komplett Guide til Foretaksformer i Norge") har [bokfÃ¸ringsplikt](/blogs/regnskap/hva-er-bokforingsplikt "Hva er BokfÃ¸ringsplikt? Komplett Guide til Regler og Krav"):
 
-#### [SmÃ¥ Foretak](/blogs/regnskap/sma-foretak "SmÃ¥ Foretak â€“ Kriterier, Regnskapsstandard og Forenklinger")
+#### [SmÃ¥ Foretak](/blogs/regnskap/sma-foretak "SmÃ¥ Foretak “ Kriterier, Regnskapsstandard og Forenklinger")
 * **Regnskapsstandard for smÃ¥ foretak** (RSFF)
 * Forenklet rapportering
 * FÃ¦rre notekrav
@@ -383,3 +383,5 @@ Valg av **organisasjonsform** er en fundamental beslutning som pÃ¥virker alle 
 **Organisasjonsformen** er ikke permanent, men endringer kan vÃ¦re kostbare og komplekse. Det lÃ¸nner seg derfor Ã¥ gjÃ¸re grundige vurderinger fÃ¸r valget tas, og Ã¥ sÃ¸ke profesjonell rÃ¥dgivning nÃ¥r det er nÃ¸dvendig.
 
 ![Sammendrag av organisasjonsformvalg](organisasjonsform-sammendrag.svg)
+
+

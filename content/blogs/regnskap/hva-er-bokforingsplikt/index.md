@@ -324,3 +324,6 @@ Myndighetene arbeider med:
 Ved Ã¥ etablere **gode rutiner** og bruke **riktige verktÃ¸y** kan virksomheter ikke bare oppfylle lovkravene, men ogsÃ¥ dra nytte av regnskapet som et verdifullt styringsverktÃ¸y.
 
 For mer informasjon om relaterte temaer, se vÃ¥re artikler om [bokfÃ¸ring](/blogs/regnskap/hva-er-bokfÃ¸ring "Hva er BokfÃ¸ring? En Komplett Guide til Norsk BokfÃ¸ringspraksis"), [bokfÃ¸ringsloven](/blogs/regnskap/hva-er-bokfÃ¸ringsloven "BokfÃ¸ringsloven - Krav, Regler og Praktisk Veiledning for Norske Bedrifter") og [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide") generelt.
+
+
+

@@ -50,3 +50,6 @@ FÃ¸lgende tiltak kan hjelpe virksomheter med Ã¥ forberede seg til bokettersy
 * [Hva er BokfÃ¸ringsplikt?](/blogs/regnskap/hva-er-bokforingsplikt "Hva er BokfÃ¸ringsplikt i Norge? Hvem, NÃ¥r og Hvordan?")  
 * [Hva er Avstemming i Regnskap?](/blogs/regnskap/hva-er-avstemming "Hva er Avstemming i Regnskap? Komplett Guide")  
 * [Hva er BokfÃ¸ringsloven?](/blogs/regnskap/hva-er-bokforingsloven "Hva er BokfÃ¸ringsloven? Krav, Regler og Praktisk Veiledning")
+
+
+

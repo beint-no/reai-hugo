@@ -7,10 +7,10 @@ type: blog
 layout: pages/single
 ---
 
-**NÃ¦ringsinntekt** er resultatet av virksomhetens inntekter minus fradragsberettigede kostnader, med eventuelle skattemessige justeringer. For [selvstendig nÃ¦ringsdrivende](/blogs/regnskap/selvstendig-naeringsdrivende "Selvstendig nÃ¦ringsdrivende â€“ Guide til selvstendig nÃ¦ringsvirksomhet i Norge") utgjÃ¸r **nÃ¦ringsinntekt** det grunnleggende skattegrunnlaget som rapporteres i nÃ¦ringsoppgaven (RF-1030).
+**NÃ¦ringsinntekt** er resultatet av virksomhetens inntekter minus fradragsberettigede kostnader, med eventuelle skattemessige justeringer. For [selvstendig nÃ¦ringsdrivende](/blogs/regnskap/selvstendig-naeringsdrivende "Selvstendig nÃ¦ringsdrivende “ Guide til selvstendig nÃ¦ringsvirksomhet i Norge") utgjÃ¸r **nÃ¦ringsinntekt** det grunnleggende skattegrunnlaget som rapporteres i nÃ¦ringsoppgaven (RF-1030).
 
 For en mer generell forstÃ¥else av inntekter, se [Hva er inntekter?](/blogs/regnskap/hva-er-inntekter "Hva er Inntekter? Komplett Guide til Inntektstyper og RegnskapsfÃ¸ring").
-For sammenligning med alminnelig inntekt, se [Alminnelig inntekt](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt â€“ Komplett guide til skattemessig resultat og beregning").
+For sammenligning med alminnelig inntekt, se [Alminnelig inntekt](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt “ Komplett guide til skattemessig resultat og beregning").
 
 ![NÃ¦ringsinntekt Oversikt](naeringsinntekt-image.svg)
 
@@ -67,7 +67,9 @@ NÃ¦ringsoppgave (RF-1030) er skjemaet der nÃ¦ringsinntekten spesifiseres og 
 ## Videre lesning
 
 * [Hva er inntekter?](/blogs/regnskap/hva-er-inntekter "Hva er Inntekter? Komplett Guide til Inntektstyper og RegnskapsfÃ¸ring")
-* [Alminnelig inntekt](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt â€“ Komplett guide til skattemessig resultat og beregning")
+* [Alminnelig inntekt](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt “ Komplett guide til skattemessig resultat og beregning")
 * [Hva er nÃ¦ringsspesifikasjon?](/blogs/regnskap/naringsspesifikasjon "Hva er nÃ¦ringsspesifikasjon? Guide til nÃ¦ringsspesifikasjon for selvstendig nÃ¦ringsdrivende")
 * [FremfÃ¸rbart underskudd](/blogs/regnskap/fremforbart-underskudd "FremfÃ¸rbart underskudd: Komplett guide til hÃ¥ndtering av underskudd i regnskap og skatt")
-* [Betalbar skatt](/blogs/regnskap/betalbar-skatt "Betalbar skatt â€“ Komplett guide til beregning og hÃ¥ndtering")
+* [Betalbar skatt](/blogs/regnskap/betalbar-skatt "Betalbar skatt “ Komplett guide til beregning og hÃ¥ndtering")
+
+

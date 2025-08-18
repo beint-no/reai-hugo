@@ -56,3 +56,5 @@ For detaljer om fordeling av midler i boet, se [Dividende ved konkurs](/blogs/re
 ---
 
 *Relaterte artikler:* [Insolvens](/blogs/regnskap/insolvens "Hva er Insolvens? Definisjon, Ã…rsaker og Behandling"), [Hva er Betalingsevne?](/blogs/regnskap/hva-er-betalingsevne "Hva er Betalingsevne? Analyse av Likviditet og Stabilitet"), [Hva er Konkursloven?](/blogs/regnskap/hva-er-konkursloven "Hva er Konkursloven? Oversikt og viktige bestemmelser"), [Dividende ved konkurs](/blogs/regnskap/dividende-ved-konkurs "Dividende ved konkurs: PrioriteringsrekkefÃ¸lge og fordeling av utbytte i konkursbo"), [Tap pÃ¥ fordring](/blogs/regnskap/tap-pa-fordring "Tap pÃ¥ fordring i regnskap og konkurs"), [Konkurskarantene](/blogs/regnskap/konkurskarantene "Hva er Konkurskarantene? Betingelser, Varighet og Konsekvenser"), [Hva er OppbudsbegjÃ¦ring?](/blogs/regnskap/oppbudsbegjering "Hva er OppbudsbegjÃ¦ring? Guide til konkursbegjÃ¦ring i norsk regnskap").
+
+

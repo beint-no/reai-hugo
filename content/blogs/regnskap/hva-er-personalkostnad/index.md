@@ -9,7 +9,7 @@ layout: pages/single
 
 **Personalkostnad** omfatter alle kostnader en bedrift har knyttet til sine ansatte. Dette inkluderer ikke bare grunnlÃ¸nn, men ogsÃ¥ feriepenger, [arbeidsgiveravgift](/blogs/regnskap/hva-er-arbeidsgiveravgift "Hva er Arbeidsgiveravgift? Satser, Beregning og RegnskapsfÃ¸ring") som del av [trygdeavgiften](/blogs/regnskap/hva-er-trygdeavgift "Hva er Trygdeavgift? Komplett Guide til Beregning og RegnskapsfÃ¸ring"), [pensjonskostnader](/blogs/regnskap/hva-er-pensjon "Hva er Pensjon? Komplett Guide til Norsk Pensjonssystem"), forsikringer og andre ytelser. Personalkostnad representerer ofte den stÃ¸rste kostnadsposten for mange bedrifter og pÃ¥virker direkte [lÃ¸nnsomheten](/blogs/regnskap/hva-er-lonnsomhet "Hva er LÃ¸nnsomhet? NÃ¸kkeltall og Analyse for Bedrifter") og [kontantstrÃ¸mmen](/blogs/regnskap/hva-er-kontantstrom "Hva er KontantstrÃ¸m? Betydning og Analyse i Regnskap").
 
-I tillegg til disse kostnadene inngÃ¥r egne poster under **sosiale kostnader**. Les mer i [Sosiale kostnader](/blogs/regnskap/sosiale-kostnader "Sosiale kostnader â€“ Definisjon, Eksempler og RegnskapsfÃ¸ring i Norge").
+I tillegg til disse kostnadene inngÃ¥r egne poster under **sosiale kostnader**. Les mer i [Sosiale kostnader](/blogs/regnskap/sosiale-kostnader "Sosiale kostnader “ Definisjon, Eksempler og RegnskapsfÃ¸ring i Norge").
 
 ![Oversikt over personalkostnadkomponenter](personalkostnad-komponenter-oversikt.svg)
 
@@ -347,3 +347,5 @@ For bedrifter som Ã¸nsker Ã¥ optimalisere personalkostnadstyringen:
 * **Prognoseoppdateringer:** LÃ¸pende revideringer av budsjett
 
 Personalkostnad er et komplekst omrÃ¥de som krever bÃ¥de regnskapsmessig, juridisk og strategisk kompetanse. Ved Ã¥ etablere gode rutiner for regnskapsfÃ¸ring, kontroll og analyse kan bedrifter bÃ¥de sikre compliance og optimalisere kostnadsnivÃ¥et for Ã¸kt lÃ¸nnsomhet.
+
+

@@ -7,7 +7,7 @@ type: blog
 layout: pages/single
 ---
 
-A-melding, ogsÃ¥ kjent som **[samordnet registermelding](/blogs/regnskap/samordnet-registermelding "Samordnet registermelding")**, er en mÃ¥nedlig digital rapport som alle [arbeidsgivere](/blogs/regnskap/arbeidsgiver "Arbeidsgiver â€“ Roller og Ansvar i Norsk Arbeidsliv og Regnskap") i Norge er lovpÃ¥lagt Ã¥ sende inn til myndighetene. Rapporten inneholder detaljerte opplysninger om **inntekter**, **arbeidsforhold** og **[forskuddstrekk](/blogs/regnskap/hva-er-forskuddstrekk "Hva er Forskuddstrekk? Komplett Guide til Skattetrekk i LÃ¸nn")** for hver enkelt ansatt. FormÃ¥let med a-meldingen er Ã¥ forenkle rapporteringsprosessen for arbeidsgivere og samtidig sikre at sentrale etater som Skatteetaten, [NAV](/blogs/regnskap/hva-er-nav "NAV i Regnskap â€“ Rolle og Bruk av Arbeids- og velferdsdata") og Statistisk sentralbyrÃ¥ (SSB) har et nÃ¸yaktig og oppdatert datagrunnlag.
+A-melding, ogsÃ¥ kjent som **[samordnet registermelding](/blogs/regnskap/samordnet-registermelding "Samordnet registermelding")**, er en mÃ¥nedlig digital rapport som alle [arbeidsgivere](/blogs/regnskap/arbeidsgiver "Arbeidsgiver “ Roller og Ansvar i Norsk Arbeidsliv og Regnskap") i Norge er lovpÃ¥lagt Ã¥ sende inn til myndighetene. Rapporten inneholder detaljerte opplysninger om **inntekter**, **arbeidsforhold** og **[forskuddstrekk](/blogs/regnskap/hva-er-forskuddstrekk "Hva er Forskuddstrekk? Komplett Guide til Skattetrekk i LÃ¸nn")** for hver enkelt ansatt. FormÃ¥let med a-meldingen er Ã¥ forenkle rapporteringsprosessen for arbeidsgivere og samtidig sikre at sentrale etater som Skatteetaten, [NAV](/blogs/regnskap/hva-er-nav "NAV i Regnskap “ Rolle og Bruk av Arbeids- og velferdsdata") og Statistisk sentralbyrÃ¥ (SSB) har et nÃ¸yaktig og oppdatert datagrunnlag.
 
 A-meldingen er et viktig eksempel pÃ¥ **[egenmelding](/blogs/regnskap/hva-er-egenmelding "Hva er Egenmelding? Komplett Guide til Selvrapportering i Norsk Regnskap")** - selvrapportering hvor arbeidsgivere selv har ansvar for Ã¥ rapportere korrekte opplysninger om lÃ¸nn og arbeidsforhold til myndighetene. Som en sentral del av **[opplysningsplikten](/blogs/regnskap/hva-er-opplysningsplikt "Hva er opplysningsplikt? Komplett guide til rapporteringsplikt")**, representerer a-meldingen bedrifters lovpÃ¥lagte ansvar for Ã¥ dele Ã¸konomisk informasjon med offentlige myndigheter.
 
@@ -51,7 +51,7 @@ Det finnes i hovedsak to mÃ¥ter Ã¥ levere a-melding pÃ¥:
 
 Dataene fra a-meldingen er kritiske for flere offentlige funksjoner:
 
-*   **[NAV](/blogs/regnskap/hva-er-nav "NAV i Regnskap â€“ Rolle og Bruk av Arbeids- og velferdsdata"):** Bruker informasjonen til Ã¥ beregne og utbetale ytelser som sykepenger, foreldrepenger, dagpenger og ufÃ¸retrygd gjennom [folketrygden](/blogs/regnskap/hva-er-folketrygden "Hva er Folketrygden? Komplett Guide til Norges Nasjonale Trygdesystem"). Korrekte data sikrer at den ansatte fÃ¥r det de har krav pÃ¥.
+*   **[NAV](/blogs/regnskap/hva-er-nav "NAV i Regnskap “ Rolle og Bruk av Arbeids- og velferdsdata"):** Bruker informasjonen til Ã¥ beregne og utbetale ytelser som sykepenger, foreldrepenger, dagpenger og ufÃ¸retrygd gjennom [folketrygden](/blogs/regnskap/hva-er-folketrygden "Hva er Folketrygden? Komplett Guide til Norges Nasjonale Trygdesystem"). Korrekte data sikrer at den ansatte fÃ¥r det de har krav pÃ¥.
 *   **Skatteetaten:** Anvender dataene til Ã¥ oppdatere skattekort, lage den forhÃ¥ndsutfylte skattemeldingen, og kontrollere innbetaling av [forskuddstrekk](/blogs/regnskap/hva-er-forskuddstrekk "Hva er Forskuddstrekk? Komplett Guide til Skattetrekk i LÃ¸nn") og arbeidsgiveravgift.
 *   **SSB:** Bruker anonymiserte data til Ã¥ produsere viktig statistikk om lÃ¸nn, sysselsetting og sykefravÃ¦r i Norge.
 
@@ -71,3 +71,6 @@ Les ogsÃ¥: [Hva er en faktura?](/blogs/regnskap/hva-er-en-faktura "Hva er en F
 *   LÃ¸nnskostnad
 *   Tabelltrekk
 *   Virksomhetsnummer
+
+
+

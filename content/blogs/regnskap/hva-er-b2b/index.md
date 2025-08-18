@@ -29,7 +29,7 @@ B2B-handel skiller seg fra [B2C-handel](/blogs/regnskap/hva-er-b2c "Hva er B2C? 
 | Kjennetegn               | Beskrivelse                                                                                          | Regnskapsmessig behandling |
 |--------------------------|------------------------------------------------------------------------------------------------------|----------------------------|
 | **Langsiktige avtaler**  | Kontrakter med gjentakende leveranser og avtalte betalingsbetingelser                                 | KrÃ¦ver [periodisering](/blogs/regnskap/hva-er-periodisering "Hva er Periodisering? Guide til Periodisering i Regnskap") av inntekter |
-| **Betalingsbetingelser** | Ofte **Netto 30â€“90 dager**; krever god [internkontroll](/blogs/regnskap/hva-er-internkontroll "Hva er Internkontroll?"), i motsetning til [B2C hvor betalinger](/blogs/regnskap/hva-er-b2c "Hva er B2C? Business-to-Consumer i Regnskap") skjer umiddelbart | PÃ¥virker [kundefordringer](/blogs/regnskap/hva-er-kundefordring "Hva er Kundefordring?") |
+| **Betalingsbetingelser** | Ofte **Netto 30“90 dager**; krever god [internkontroll](/blogs/regnskap/hva-er-internkontroll "Hva er Internkontroll?"), i motsetning til [B2C hvor betalinger](/blogs/regnskap/hva-er-b2c "Hva er B2C? Business-to-Consumer i Regnskap") skjer umiddelbart | PÃ¥virker [kundefordringer](/blogs/regnskap/hva-er-kundefordring "Hva er Kundefordring?") |
 | **HÃ¸ye ordreverdier**    | StÃ¸rre volum og mer komplekse leveranser som pÃ¥virker balansen, i motsetning til [B2C med mange smÃ¥ transaksjoner](/blogs/regnskap/hva-er-b2c "Hva er B2C? Business-to-Consumer i Regnskap") | Krever nÃ¸ye [bilagsfÃ¸ring](/blogs/regnskap/hva-er-bilagsforing "Hva er BilagsfÃ¸ring?") |
 | **MVA-hÃ¥ndtering**       | Omvendt avgiftsplikt og spesifikke MVA-koder ved internasjonale transaksjoner                        | Spesielle krav til [MVA-melding](/blogs/regnskap/hva-er-mva-melding "Hva er MVA-melding?") |
 
@@ -222,3 +222,6 @@ Ved **betalingstvister** i B2B-handel:
 
 
 **B2B-handel** krever bÃ¥de teknisk og prosessuell innsikt for Ã¥ sikre effektiv drift, korrekt regnskapsfÃ¸ring og etterlevelse av norske regelverk. Systematisk oppfÃ¸lging av betalingsbetingelser, MVA-hÃ¥ndtering og internkontroll er avgjÃ¸rende for suksess i B2B-markedet.
+
+
+

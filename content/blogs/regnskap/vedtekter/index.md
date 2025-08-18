@@ -66,3 +66,5 @@ Se ogsÃ¥ [Hva er Vedtekter for Aksjeselskap?](/blogs/regnskap/hva-er-vedtekter
 ## Oppsummering
 
 Vedtektene utgjÃ¸r fundamentet for hvordan et selskap styres og drives, og har direkte betydning for regnskapsfÃ¸ring, utbyttebehandling og ansvar. En grundig forstÃ¥else av vedtektenes innhold og lovkrav er avgjÃ¸rende for bÃ¥de grÃ¼ndere, styremedlemmer og regnskapsfÃ¸rere.
+
+

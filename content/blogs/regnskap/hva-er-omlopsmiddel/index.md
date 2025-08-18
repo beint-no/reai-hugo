@@ -9,7 +9,7 @@ layout: pages/single
 
 **OmlÃ¸psmidler** er **kortsiktige [eiendeler](/blogs/regnskap/hva-er-eiendel "Hva er Eiendel i Regnskap? Komplett Guide til Eiendom og Verdier")** som en bedrift forventer Ã¥ konvertere til kontanter, selge eller forbruke innen ett Ã¥r eller den normale driftssyklusen. Disse [eiendelene](/blogs/regnskap/hva-er-eiendel "Hva er Eiendel i Regnskap? Komplett Guide til Eiendom og Verdier") er avgjÃ¸rende for bedriftens **likviditet** og daglige drift. OmlÃ¸psmidler skiller seg fra [anleggsmidler](/blogs/regnskap/hva-er-anleggsmidler "Hva er Anleggsmidler? Komplett Guide til Faste Eiendeler i Regnskap") ved at de er ment for kortsiktig bruk og rask konvertering til kontanter.
 
-OmlÃ¸psmidler er en kategori av [driftsmidler](/blogs/regnskap/driftsmidler "Driftsmidler â€“ Komplett guide til betydning, klassifisering og regnskapsbehandling").
+OmlÃ¸psmidler er en kategori av [driftsmidler](/blogs/regnskap/driftsmidler "Driftsmidler “ Komplett guide til betydning, klassifisering og regnskapsbehandling").
 
 ![Hva er omlÃ¸psmidler - oversikt](hva-er-omlopsmiddel-image.svg)
 
@@ -23,7 +23,7 @@ OmlÃ¸psmidler defineres som **eiendeler som**:
 * **Holdes for produksjon** eller levering av varer og tjenester
 * **Holdes for handel** eller kortsiktige investeringer
 * **Forventes realisert innen ett Ã¥r** eller den normale driftssyklusen
-* **Inkluderer kontanter og kontantekvivalenter** â€“ se [likvide midler](/blogs/regnskap/hva-er-likvide-midler "Hva er likvide midler? Definisjon, Eksempler og RegnskapsfÃ¸ring").
+* **Inkluderer kontanter og kontantekvivalenter** “ se [likvide midler](/blogs/regnskap/hva-er-likvide-midler "Hva er likvide midler? Definisjon, Eksempler og RegnskapsfÃ¸ring").
 
 ### 1.2 Kjennetegn ved OmlÃ¸psmidler
 
@@ -424,3 +424,5 @@ OmlÃ¸psmidler verdsettes etter **laveste verdis prinsipp**:
 Ved Ã¥ forstÃ¥ og aktivt styre omlÃ¸psmidlene kan bedrifter sikre **stabil likviditet**, redusere **finansieringskostnader** og forbedre den **totale lÃ¸nnsomheten**. Dette krever kontinuerlig oppmerksomhet og systematisk tilnÃ¦rming til alle komponenter av omlÃ¸psmidlene.
 
 For mer informasjon om relaterte emner, se vÃ¥re artikler om [anleggsmidler](/blogs/regnskap/hva-er-anleggsmidler "Hva er Anleggsmidler? Komplett Guide til Faste Eiendeler i Regnskap"), [arbeidskapital](/blogs/regnskap/hva-er-arbeidskapital "Hva er Arbeidskapital? Beregning og Betydning for Bedriftens Likviditet") og [likviditetsstyring](/blogs/regnskap/hva-er-likviditetsstyring "Hva er Likviditetsstyring? Guide til KontantstrÃ¸mstyring").
+
+

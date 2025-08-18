@@ -50,3 +50,5 @@ Virksomheter i nÃ¦ringsvirksomhet mÃ¥ ogsÃ¥ vurdere registrering i [NÃ¦r
 ## Oppsummering
 
 **NÃ¦ringsvirksomhet** er kjernen i mange lover og regler for bokfÃ¸ring, skatt og rapportering i Norge. Ved Ã¥ forstÃ¥ definisjonen og de viktigste kriteriene, kan du sikre at virksomheten drives i samsvar med gjeldende krav og unngÃ¥ unÃ¸dvendige avvik eller sanksjoner.
+
+

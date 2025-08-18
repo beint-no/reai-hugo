@@ -195,3 +195,6 @@ For Ã¥ forstÃ¥ aksjonÃ¦rlÃ¥n fullt ut, bÃ¸r du ogsÃ¥ sette deg inn i
 - **[Regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide")** - RegnskapsfÃ¸ring av lÃ¥n og renter
 
 AksjonÃ¦rlÃ¥n kan vÃ¦re et nyttig finansieringsverktÃ¸y, men krever nÃ¸ye planlegging og oppfÃ¸lging for Ã¥ unngÃ¥ skattemessige problemer og sikre korrekt behandling i henhold til norsk lov.
+
+
+

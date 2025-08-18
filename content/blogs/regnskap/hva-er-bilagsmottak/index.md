@@ -9,7 +9,7 @@ layout: pages/single
 
 **Bilagsmottak** er den systematiske prosessen for mottak, registrering, kontroll og behandling av alle regnskapsdokumenter som kommer inn til en virksomhet. Dette omfatter primÃ¦rt [fakturaer](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav"), men ogsÃ¥ andre viktige bilag som [kvitteringer](/blogs/regnskap/kvittering "Hva er Kvittering? En Guide til Kvitteringskrav i Norsk Regnskap"), kontoutskrifter, lÃ¸nnslipper og andre dokumenter som skal bokfÃ¸res. En effektiv bilagsmottaksprosess er grunnleggende for korrekt regnskapsfÃ¸ring og god internkontroll.
 
-(For en generell oversikt over **bilag** i regnskap, se [Bilag](/blogs/regnskap/bilag "Bilag i Regnskap â€“ Guide til Dokumentasjon og Behandling").)
+(For en generell oversikt over **bilag** i regnskap, se [Bilag](/blogs/regnskap/bilag "Bilag i Regnskap “ Guide til Dokumentasjon og Behandling").)
 
 Moderne bilagsmottak har utviklet seg fra tradisjonell papirbasert hÃ¥ndtering til digitale lÃ¸sninger som automatiserer store deler av prosessen. Dette har revolusjonert hvordan bedrifter hÃ¥ndterer sine regnskapsdokumenter og har betydelig forbedret bÃ¥de effektivitet og nÃ¸yaktighet i regnskapsarbeidet.
 
@@ -371,3 +371,6 @@ Bilagsmottaket pÃ¥virker direkte hÃ¥ndteringen av leverandÃ¸rforhold:
 * **Disputbehandling:** Strukturert hÃ¥ndtering av fakturatvister og kreditnotaer
 
 Effektivt bilagsmottak er derfor ikke bare en isolert prosess, men en kritisk komponent som pÃ¥virker kvaliteten og effektiviteten i hele regnskapsarbeidet. Ved Ã¥ investere i moderne bilagsmottakssystemer legger bedrifter grunnlaget for mer nÃ¸yaktig regnskapsfÃ¸ring, bedre internkontroll og Ã¸kt operasjonell effektivitet.
+
+
+

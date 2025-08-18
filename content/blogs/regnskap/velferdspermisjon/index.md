@@ -1,13 +1,13 @@
 ﻿---
 title: "Velferdspermisjon: Rettigheter, RegnskapsfÃ¸ring og Skattemessig Behandling"
 meta_title: "Velferdspermisjon: Rettigheter, RegnskapsfÃ¸ring og Skattemessig Behandling"
-meta_description: '**Velferdspermisjon** gir ansatte rett til permisjon ved visse livshendelser eller behov utover ordinÃ¦r **sykepenge**â€‘ og **foreldrepengelovgivning**. Dette ...'
+meta_description: '**Velferdspermisjon** gir ansatte rett til permisjon ved visse livshendelser eller behov utover ordinÃ¦r **sykepenge**‘ og **foreldrepengelovgivning**. Dette ...'
 slug: velferdspermisjon
 type: blog
 layout: pages/single
 ---
 
-**Velferdspermisjon** gir ansatte rett til permisjon ved visse livshendelser eller behov utover ordinÃ¦r **sykepenge**â€‘ og **foreldrepengelovgivning**. Dette omfatter blant annet omsorg for nÃ¦re familiemedlemmer, egen utdanning eller deltakelse i offentlige verv.
+**Velferdspermisjon** gir ansatte rett til permisjon ved visse livshendelser eller behov utover ordinÃ¦r **sykepenge**‘ og **foreldrepengelovgivning**. Dette omfatter blant annet omsorg for nÃ¦re familiemedlemmer, egen utdanning eller deltakelse i offentlige verv.
 
 ![Velferdspermisjon](velferdspermisjon-image.svg)
 
@@ -19,11 +19,11 @@ Velferdspermisjon er en form for **velferdsgode** som gir ansatte fri fra arbeid
 
 De vanligste typene **velferdspermisjon** i norske virksomheter er:
 
-* **Omsorgspermisjon** â€“ permisjon ved alvorlig sykdom eller dÃ¸d i nÃ¦rmeste familie.
-* **Utdanningspermisjon** â€“ fri for studie- eller kompetanseutvikling.
-* **Tillitsverv** â€“ permisjon for offentlige eller faglige tillitsverv.
-* **Vernetjeneste** â€“ tjeneste i vernepliktsordningen eller sivilforsvaret.
-* **Flyttepermisjon** â€“ fri ved flytting mellom hjem og arbeid.
+* **Omsorgspermisjon** “ permisjon ved alvorlig sykdom eller dÃ¸d i nÃ¦rmeste familie.
+* **Utdanningspermisjon** “ fri for studie- eller kompetanseutvikling.
+* **Tillitsverv** “ permisjon for offentlige eller faglige tillitsverv.
+* **Vernetjeneste** “ tjeneste i vernepliktsordningen eller sivilforsvaret.
+* **Flyttepermisjon** “ fri ved flytting mellom hjem og arbeid.
 
 ![Typer velferdspermisjon](velferdspermisjon-typer.svg)
 
@@ -45,15 +45,17 @@ For effektiv hÃ¥ndtering av **velferdspermisjon**:
 
 * Etabler klare rutiner for _sÃ¸knad_ og dokumentasjon.
 * SÃ¸rg for korrekt periodisering i lÃ¸nnssystemet.
-* Implementer interne retningslinjer i [Arbeidskontrakten](/blogs/regnskap/arbeidskontrakten "Arbeidskontrakten â€“ Roller og Ansvar i Norsk Arbeidsliv og Regnskap").
+* Implementer interne retningslinjer i [Arbeidskontrakten](/blogs/regnskap/arbeidskontrakten "Arbeidskontrakten “ Roller og Ansvar i Norsk Arbeidsliv og Regnskap").
 
 ## Relaterte artikler
 
 * [Velferdsgoder](/blogs/regnskap/velferdsgoder "Velferdsgoder i Norsk Regnskap: Oversikt over Ansattfordeler og RegnskapsfÃ¸ring")
-* [FÃ¸dselspermisjon](/blogs/regnskap/fodselspermisjon "FÃ¸dselspermisjon â€“ Guide til foreldrepenger og regnskapsfÃ¸ring i Norge")
+* [FÃ¸dselspermisjon](/blogs/regnskap/fodselspermisjon "FÃ¸dselspermisjon “ Guide til foreldrepenger og regnskapsfÃ¸ring i Norge")
 * [Sykepenger](/blogs/regnskap/hva-er-sykepenger "Hva er Sykepenger? Arbeidsgiverperiode, NAV-refusjon og RegnskapsfÃ¸ring")
 * [Folketrygden](/blogs/regnskap/hva-er-folketrygden "Hva er Folketrygden? Struktur og Ytelser")
 
 ## Oppsummering
 
 **Velferdspermisjon** gir ansatte viktig stÃ¸tte ved livshendelser og kompetanseutvikling. Korrekt hÃ¥ndtering av lÃ¸nn, refusjon og regnskap er avgjÃ¸rende for bÃ¥de ansatttilfredshet og overholdelse av regelverk.
+
+

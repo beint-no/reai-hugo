@@ -399,3 +399,5 @@ Kostprisstyring utvikler seg med teknologiske fremskritt:
 Moderne virksomheter mÃ¥ mestre bÃ¥de tradisjonelle kostprisprinsipper og nye utfordringer knyttet til digitalisering, bÃ¦rekraft og komplekse verdikjeder. Ved Ã¥ implementere robuste systemer for kostprisstyring kan bedrifter oppnÃ¥ bedre lÃ¸nnsomhet, mer nÃ¸yaktig rapportering og sterkere konkurranseevne.
 
 Effektiv kostprisstyring krever kontinuerlig oppmerksomhet pÃ¥ kostnadsdrivere, regelmessig analyse av lÃ¸nnsomhet og proaktiv tilpasning til endringer i marked og teknologi.
+
+

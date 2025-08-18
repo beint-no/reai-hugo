@@ -174,7 +174,7 @@ Bedrifter mÃ¥ betale for Ã¥ tilby AvtaleGiro:
 
 #### BankGiro
 - **Manuell betaling:** Krever aktiv handling fra kunde for hver faktura
-- **[OCR-avstemming](/blogs/regnskap/hva-er-ocr "Hva er OCR? OCR i Norske Regnskapsprosesser â€“ En Komplett Guide"):** Automatisk avstemming via [BankGiro](/blogs/regnskap/hva-er-bankgiro "Hva er BankGiro? Komplett Guide til Norsk Betalingssystem")
+- **[OCR-avstemming](/blogs/regnskap/hva-er-ocr "Hva er OCR? OCR i Norske Regnskapsprosesser “ En Komplett Guide"):** Automatisk avstemming via [BankGiro](/blogs/regnskap/hva-er-bankgiro "Hva er BankGiro? Komplett Guide til Norsk Betalingssystem")
 - **Fleksibilitet:** Full kontroll over betalingstidspunkt
 - **Egnet for:** Enkeltbetalinger og varierende regninger
 
@@ -222,3 +222,6 @@ AvtaleGiro er et **robust og pÃ¥litelig** betalingssystem som har revolusjoner
 Systemets **hÃ¸ye sikkerhet** og **enkle administrasjon** gjÃ¸r det til et naturlig valg for regelmessige betalinger. Med kontinuerlig teknologisk utvikling vil AvtaleGiro fortsette Ã¥ vÃ¦re en sentral del av det norske betalingslandskapet.
 
 Ved Ã¥ forstÃ¥ hvordan AvtaleGiro fungerer, kan bÃ¥de privatpersoner og bedrifter dra nytte av fordelene systemet tilbyr, samtidig som de unngÃ¥r vanlige fallgruver og utfordringer.
+
+
+

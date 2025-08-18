@@ -17,10 +17,10 @@ For en overordnet introduksjon til *marginalskatt*, se [Hva er Marginalskatt?](/
 
 | Inntektstrinn | Inntektsintervall            | Trinnskatt sats |
 |---------------|------------------------------|-----------------|
-| **Trinn 1**   | 208Â 051Â â€“Â 292Â 850Â kr         | 1,7 %           |
-| **Trinn 2**   | 292Â 851Â â€“Â 670Â 000Â kr         | 4,0 %           |
-| **Trinn 3**   | 670Â 001Â â€“Â 937Â 900Â kr         | 13,4 %          |
-| **Trinn 4**   | 937Â 901Â â€“Â 1Â 350Â 000Â kr       | 16,4 %          |
+| **Trinn 1**   | 208Â 051Â “Â 292Â 850Â kr         | 1,7 %           |
+| **Trinn 2**   | 292Â 851Â “Â 670Â 000Â kr         | 4,0 %           |
+| **Trinn 3**   | 670Â 001Â “Â 937Â 900Â kr         | 13,4 %          |
+| **Trinn 4**   | 937Â 901Â “Â 1Â 350Â 000Â kr       | 16,4 %          |
 | **Trinn 5**   | OverÂ 1Â 350Â 000Â kr            | 17,4 %          |
 
 *Satser for inntektsÃ¥ret 2024.*
@@ -39,15 +39,15 @@ For Ã¥ beregne trinnskatt fÃ¸lger du disse trinnene:
 ### Eksempel 1: Ã…rsinntekt pÃ¥ 500Â 000Â kr
 
 - **Trinn 1**: 0Â kr innenfor trinn 1 (under nedre grense)
-- **Trinn 2**: (500Â 000Â krÂ â€“Â 292Â 851Â kr)Â Ã—Â 4,0Â %Â =Â 8Â 685,96Â kr
+- **Trinn 2**: (500Â 000Â krÂ “Â 292Â 851Â kr)Â Ã—Â 4,0Â %Â =Â 8Â 685,96Â kr
 - **Total trinnskatt**: 8Â 685,96Â kr
 
 ### Eksempel 2: Ã…rsinntekt pÃ¥ 1Â 200Â 000Â kr
 
-- **Trinn 1**: (292Â 850Â krÂ â€“Â 208Â 051Â kr)Â Ã—Â 1,7Â %Â =Â 1Â 456,70Â kr
-- **Trinn 2**: (670Â 000Â krÂ â€“Â 292Â 850Â kr)Â Ã—Â 4,0Â %Â =Â 15Â 286Â kr
-- **Trinn 3**: (937Â 900Â krÂ â€“Â 670Â 000Â kr)Â Ã—Â 13,4Â %Â =Â 36Â 408Â kr
-- **Trinn 4**: (1Â 200Â 000Â krÂ â€“Â 937Â 900Â kr)Â Ã—Â 16,4Â %Â =Â 42Â 004Â kr
+- **Trinn 1**: (292Â 850Â krÂ “Â 208Â 051Â kr)Â Ã—Â 1,7Â %Â =Â 1Â 456,70Â kr
+- **Trinn 2**: (670Â 000Â krÂ “Â 292Â 850Â kr)Â Ã—Â 4,0Â %Â =Â 15Â 286Â kr
+- **Trinn 3**: (937Â 900Â krÂ “Â 670Â 000Â kr)Â Ã—Â 13,4Â %Â =Â 36Â 408Â kr
+- **Trinn 4**: (1Â 200Â 000Â krÂ “Â 937Â 900Â kr)Â Ã—Â 16,4Â %Â =Â 42Â 004Â kr
 - **Total trinnskatt**: 95Â 154,70Â kr
 
 ## Regnskapsmessig behandling
@@ -69,6 +69,8 @@ I regnskapet bÃ¸r trinnskatt:
 
 Se ogsÃ¥ vÃ¥re artikler om:
 
-* [Skatteberegning](/blogs/regnskap/skatteberegning "Skatteberegning â€“ Komplett Guide til Skatteberegning").
+* [Skatteberegning](/blogs/regnskap/skatteberegning "Skatteberegning “ Komplett Guide til Skatteberegning").
 * [Hva er Marginalskatt?](/blogs/regnskap/hva-er-marginalskatt "Hva er Marginalskatt? Komplett Guide til Marginalskatt i Norge").
 * [Hva er Fradrag?](/blogs/regnskap/hva-er-fradrag "Hva er Fradrag? Komplett Guide til Skattefradrag i Norge").
+
+

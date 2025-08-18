@@ -49,7 +49,7 @@ Der:
 * $k_d$ = FÃ¸r-skatte gjeldskostnad  
 * $T$ = Selskaps skattesats (per i dag **22â€¯%**)
 
-For mer om beregning av **egenkapitalkostnad**, se [Egenkapitalmetoden](/blogs/regnskap/egenkapitalmetoden "Egenkapitalmetoden â€“ Avkastningskrav pÃ¥ egenkapital i regnskap"), og for **gjeldskostnad**, les [Hva er gjeld?](/blogs/regnskap/hva-er-gjeld "Hva er Gjeld? Guide til Gjeldstyper og RegnskapsfÃ¸ring").
+For mer om beregning av **egenkapitalkostnad**, se [Egenkapitalmetoden](/blogs/regnskap/egenkapitalmetoden "Egenkapitalmetoden “ Avkastningskrav pÃ¥ egenkapital i regnskap"), og for **gjeldskostnad**, les [Hva er gjeld?](/blogs/regnskap/hva-er-gjeld "Hva er Gjeld? Guide til Gjeldstyper og RegnskapsfÃ¸ring").
 
 ## Praktisk eksempel
 
@@ -86,3 +86,5 @@ Kapitalkostnaden er et uttrykk for avkastningskravet pÃ¥ selskapets samlede ka
 * [Hva er kalkulatoriske kostnader?](/blogs/regnskap/kalkulatoriske-kostnader "Hva er Kalkulatoriske kostnader? Guide til kalkulatoriske kostnader og Regnskapsanalyse")  
 * [Hva er faste kostnader?](/blogs/regnskap/faste-kostnader "Hva er Faste kostnader? Definisjon og Eksempler")  
 * [Hva er indirekte kostnader?](/blogs/regnskap/hva-er-indirekte-kostnader "Hva er Indirekte kostnader? Definisjon, Eksempler og RegnskapsfÃ¸ring")
+
+

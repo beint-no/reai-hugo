@@ -17,11 +17,11 @@ Internkontrollforskriften har som formÃ¥l Ã¥ sikre systematisk **internkontr
 
 | Kapittel | Tema                              | Relevante Paragrafer |
 |----------|-----------------------------------|----------------------|
-| 1        | FormÃ¥l og virkeomrÃ¥de             | Â§â€¯1â€“2               |
+| 1        | FormÃ¥l og virkeomrÃ¥de             | Â§â€¯1“2               |
 | 2        | Definisjoner                      | Â§â€¯3                 |
 | 3        | Krav til internkontrollsystemet   | Â§â€¯4                 |
 | 4        | Risikovurdering                   | Â§â€¯5                 |
-| 5        | Dokumentasjon og oppfÃ¸lging       | Â§â€¯6â€“7               |
+| 5        | Dokumentasjon og oppfÃ¸lging       | Â§â€¯6“7               |
 
 ## Hovedkomponenter i internkontrollsystemet
 
@@ -58,8 +58,10 @@ All internkontrollaktivitet skal dokumenteres skriftlig. Dette omfatter:
 
 * **Daglig leder:** Sikre at prosedyrer er implementert.
 * **Verneombud:** FÃ¸lge opp arbeidsmiljÃ¸ og melde avvik.
-* **ArbeidsmiljÃ¸utvalg (AMU):** Bidra i risikovurdering, se [AMU (ArbeidsmiljÃ¸utvalg)](/blogs/regnskap/amu "AMU (ArbeidsmiljÃ¸utvalg) â€“ Komplett Guide til ArbeidsmiljÃ¸utvalg i Norge").
+* **ArbeidsmiljÃ¸utvalg (AMU):** Bidra i risikovurdering, se [AMU (ArbeidsmiljÃ¸utvalg)](/blogs/regnskap/amu "AMU (ArbeidsmiljÃ¸utvalg) “ Komplett Guide til ArbeidsmiljÃ¸utvalg i Norge").
 
 ## Oppsummering
 
 Internkontrollforskriften er en sentral del av et virksomhets **kontrollsystem**. Ved Ã¥ fÃ¸lge kravene i forskriften, kan norske bedrifter sikre et trygt arbeidsmiljÃ¸, etterleve lovkrav og styrke tilliten til organisasjonens styringsprosesser.
+
+

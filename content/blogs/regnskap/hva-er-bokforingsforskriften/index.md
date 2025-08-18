@@ -184,8 +184,8 @@ BokfÃ¸ringsforskriften henviser til **anerkjente regnskapsstandarder**:
 - **Norsk RegnskapsStandard** (NRS) som alternativ
 - **SÃ¦rlige krav** til **konsernregnskap**
 
-#### [SmÃ¥ Foretak](/blogs/regnskap/sma-foretak "SmÃ¥ Foretak â€“ Kriterier, Regnskapsstandard og Forenklinger")
-- **Forenklet IFRS** for [smÃ¥ foretak](/blogs/regnskap/sma-foretak "SmÃ¥ Foretak â€“ Kriterier, Regnskapsstandard og Forenklinger")
+#### [SmÃ¥ Foretak](/blogs/regnskap/sma-foretak "SmÃ¥ Foretak “ Kriterier, Regnskapsstandard og Forenklinger")
+- **Forenklet IFRS** for [smÃ¥ foretak](/blogs/regnskap/sma-foretak "SmÃ¥ Foretak “ Kriterier, Regnskapsstandard og Forenklinger")
 - **God regnskapsskikk** som grunnlag
 - **Forenklede** rapporteringskrav
 
@@ -374,3 +374,6 @@ BokfÃ¸ringsforskriften er **fundamentet** for norsk regnskapsfÃ¸ring og sikr
 **Regelmessig oppdatering** av kunnskap om bokfÃ¸ringsforskriften og **investering** i **kompetente** ressurser er **avgjÃ¸rende** for Ã¥ lykkes med regnskapsfÃ¸ringen i en **stadig** mer **kompleks** og **digitalisert** verden.
 
 For virksomheter som Ã¸nsker Ã¥ sikre **full overholdelse** av bokfÃ¸ringsforskriften, anbefales det Ã¥ **etablere** robuste rutiner, **investere** i **moderne** regnskapssystemer og **sikre** tilstrekkelig **kompetanse** i organisasjonen.
+
+
+

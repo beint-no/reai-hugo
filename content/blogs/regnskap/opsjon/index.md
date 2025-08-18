@@ -15,11 +15,11 @@ En **opsjon** er en kontrakt som gir innehaveren **rett**, men ikke plikt, til �
 
 En **opsjon** bestÃ¥r av flere sentrale elementer:
 
-* **Underliggende eiendel** â€“ eiendelen som opsjonen knytter seg til.
-* **UtÃ¸velsespris (strike price)** â€“ den avtalte prisen for kjÃ¸p eller salg.
-* **UtlÃ¸psdato** â€“ datoen opsjonen utlÃ¸per.
-* **Opsjonspremie** â€“ prisen for Ã¥ kjÃ¸pe opsjonen.
-* **UtÃ¸velsestype** â€“ europeisk eller amerikansk, avhengig av nÃ¥r opsjonen kan utÃ¸ves.
+* **Underliggende eiendel** “ eiendelen som opsjonen knytter seg til.
+* **UtÃ¸velsespris (strike price)** “ den avtalte prisen for kjÃ¸p eller salg.
+* **UtlÃ¸psdato** “ datoen opsjonen utlÃ¸per.
+* **Opsjonspremie** “ prisen for Ã¥ kjÃ¸pe opsjonen.
+* **UtÃ¸velsestype** “ europeisk eller amerikansk, avhengig av nÃ¥r opsjonen kan utÃ¸ves.
 
 ## Typer Opsjoner
 
@@ -36,7 +36,7 @@ Regnskapsmessig innregning og mÃ¥ling av opsjoner fÃ¸lger internasjonale sta
 
 ## Verdsettelse av Opsjoner
 
-Den mest brukte modellen er Blackâ€“Scholes, som pÃ¥virkes av flere nÃ¸kkelfaktorer:
+Den mest brukte modellen er Black“Scholes, som pÃ¥virkes av flere nÃ¸kkelfaktorer:
 
 | Faktor             | Symbol | PÃ¥virkning pÃ¥ call-opsjon |
 |---------------------|--------|---------------------------|
@@ -57,3 +57,5 @@ Den mest brukte modellen er Blackâ€“Scholes, som pÃ¥virkes av flere nÃ¸
 * [Hva er en Opsjonsavtale?](/blogs/regnskap/hva-er-opsjonsavtale "Hva er en Opsjonsavtale? Komplett Guide til Opsjoner i Regnskap") for en mer detaljert gjennomgang.
 * [Derivater](/blogs/regnskap/derivater "Hva er Derivater? En Guide til Derivater i Regnskap")
 * [Hva er en Put-opsjon?](/blogs/regnskap/put-opsjon "Hva er en Put-opsjon? En Guide til salgsopsjoner i Regnskap")
+
+

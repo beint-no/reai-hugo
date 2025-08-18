@@ -275,3 +275,5 @@ Purring og purregebyr er **lovregulerte virkemidler** for oppfÃ¸lging av forfa
 * **Dokumentasjon** og oppfÃ¸lging er essensielt
 
 En **strukturert purreprosess** med moderne systemer og tydelige rutiner sikrer effektiv oppfÃ¸lging og bedre [likviditet](/blogs/regnskap/hva-er-arbeidskapital "Hva er Arbeidskapital? Guide til Likviditetsstyring") for bedriften.
+
+

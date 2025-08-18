@@ -49,3 +49,5 @@ NÃ¥r eiendeler er omfattet av fantegang, pÃ¥virkes bÃ¥de [varelageret](/bl
 * **Begrensninger:**
   * Avhenger av faktisk besittelse av eiendelene
   * Kan vÃ¦re omstridt ved konkurs eller mot bedre prioritet
+
+

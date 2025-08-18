@@ -245,3 +245,5 @@ For bedrifter som skal etablere eller forvalte pensjonsordninger:
 ![Pensjon beste praksis](pensjon-beste-praksis.svg)
 
 Pensjon er et komplekst omrÃ¥de som krever grundig forstÃ¥else av bÃ¥de juridiske, regnskapsmessige og skattemessige forhold. For bedrifter er det essensielt Ã¥ etablere gode rutiner for hÃ¥ndtering av pensjonsforpliktelser og sikre korrekt regnskapsfÃ¸ring av pensjonskostnader.
+
+

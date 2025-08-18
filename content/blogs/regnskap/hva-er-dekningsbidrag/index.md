@@ -294,3 +294,6 @@ Moderne [regnskapssystemer](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En
 Ved Ã¥ forstÃ¥ sammenhengen mellom **variable kostnader**, **faste kostnader** og **dekningsbidrag**, kan bedrifter ta mer informerte beslutninger om prissetting, produktportefÃ¸lje og ressursallokering.
 
 For optimal anvendelse bÃ¸r dekningsbidragsanalyse kombineres med andre regnskapsverktÃ¸y som [bruttofortjeneste](/blogs/regnskap/hva-er-bruttofortjeneste "Hva er Bruttofortjeneste? Beregning og Analyse av LÃ¸nnsomhet"), [budsjettering](/blogs/regnskap/hva-er-budsjettering "Hva er Budsjettering? Typer, Prosess og Praktiske Eksempler") og [avskrivningsanalyse](/blogs/regnskap/hva-er-avskrivning "Hva er Avskrivning i Regnskap? Metoder, Beregning og Praktiske Eksempler") for Ã¥ gi et helhetlig bilde av bedriftens Ã¸konomiske situasjon.
+
+
+

@@ -275,3 +275,6 @@ EU planlegger flere utvidelser:
 Norske bedrifter som omfattes av CSRD bÃ¸r starte forberedelsene umiddelbart for Ã¥ sikre regelverksetterlevelse og maksimere forretningsmulighetene som fÃ¸lger av Ã¸kt transparens og bÃ¦rekraftsfokus.
 
 For bedrifter som ikke direkte omfattes av CSRD, kan det likevel vÃ¦re lurt Ã¥ fÃ¸lge utviklingen, da krav fra kunder, investorer og andre interessenter kan gjÃ¸re bÃ¦rekraftsrapportering relevant ogsÃ¥ for mindre bedrifter.
+
+
+

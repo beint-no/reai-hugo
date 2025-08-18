@@ -83,3 +83,5 @@ Postering kan variere avhengig av bransje- og virksomhetstype:
 * **Tjenesteytende nÃ¦ring:** Detaljert time- og kostnadsfÃ¸ring.
 * **Produksjonsbedrifter:** Periodiske lager- og produksjonskostposteringer.
 * **Offentlig sektor:** Strenge krav til dokumentasjon og budsjettskontroll.
+
+

@@ -251,3 +251,6 @@ Egeninkasso kan vÃ¦re en kostnadseffektiv og kontrollerbar metode for Ã¥ hÃ
 * **Kontinuerlig evaluering:** Vurder regelmessig om egeninkasso er den beste lÃ¸sningen
 
 For bedrifter som ikke har ressurser eller kompetanse til egeninkasso, kan det vÃ¦re mer hensiktsmessig Ã¥ benytte profesjonelle inkassotjenester. Det viktigste er Ã¥ ha en proaktiv tilnÃ¦rming til [kundeoppfÃ¸lging](/blogs/regnskap/hva-er-ansattreskontro "Hva er Ansattreskontro? Komplett Guide til KundeoppfÃ¸lging og Fordringsstyring") og inkassohÃ¥ndtering for Ã¥ minimere tap pÃ¥ fordringer og opprettholde god [betalingsevne](/blogs/regnskap/hva-er-betalingsevne "Hva er Betalingsevne? Analyse av Likviditet og Finansiell Stabilitet").
+
+
+

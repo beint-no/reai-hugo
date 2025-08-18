@@ -43,7 +43,7 @@ NÃ¥r morselskapet eier mindre enn **100%**, mÃ¥ konsernregnskapet inkludere 
 
 | Eierskapsgrad | Minoritetseierinteresse i resultat og egenkapital |
 |---------------|----------------------------------------------------|
-| 0â€“100%        | Beregnes proporsjonalt basert pÃ¥ eierandel         |
+| 0“100%        | Beregnes proporsjonalt basert pÃ¥ eierandel         |
 
 ## IFRS-regler for konsolidering
 
@@ -78,3 +78,5 @@ Ved konsolidering mÃ¥ man vÃ¦re oppmerksom pÃ¥ skattemessige aspekter som:
 ## Konklusjon
 
 Konsolidering er en sentral del av utarbeidelse av konsernregnskap som sikrer **transparent** og **sammenlignbar** finansiell rapportering for konsern. En korrekt gjennomfÃ¸rt konsolidering bidrar til at bÃ¥de interne og eksterne interessenter fÃ¥r et helhetlig bilde av konsernets Ã¸konomi.
+
+

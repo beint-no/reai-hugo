@@ -297,3 +297,5 @@ For bedrifter som vurderer Ã¥ innfÃ¸re eller forbedre sine rutiner for forsk
 
 Forskuddsbetalinger vil fortsette Ã¥ vÃ¦re en viktig del av moderne forretningsdrift, og med riktig hÃ¥ndtering kan de bidra til bedre kontantstrÃ¸m, redusert risiko og mer effektiv drift for alle parter.
 Se ogsÃ¥ [Konto 1710 - Forskuddsbetalte renter](/blogs/kontoplan/1710-forskuddsbetalte-renter "Konto 1710 - Forskuddsbetalte renter: RegnskapsfÃ¸ring av forhÃ¥ndsbetalte renter") for mer om regnskapsmessig behandling av forskuddsbetalte rentekostnader.
+
+

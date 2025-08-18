@@ -61,3 +61,6 @@ Debetkort er en av flere alternativer i det norske betalingslandskapet. For en b
 ## Konklusjon
 
 Debetkort er en trygg og enkel betalingslÃ¸sning som passer for bedrifter og privatpersoner som Ã¸nsker umiddelbar belastning av bankkontoen uten kredittrammer. Riktig regnskapsbehandling og avstemming av debetkorttransaksjoner er avgjÃ¸rende for Ã¥ ivareta god internkontroll og nÃ¸yaktig regnskapsfÃ¸ring.
+
+
+

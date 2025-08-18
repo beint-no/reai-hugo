@@ -74,3 +74,6 @@ I land med vedvarende deflasjon kan man bruke justerte regnskapsprinsipper:
 * [Hva er Inflasjon?](/blogs/regnskap/hva-er-inflasjon "Hva er Inflasjon? Komplett Guide til Inflasjon i Regnskap og Ã˜konomi")
 * [Hva er BNP-deflator?](/blogs/regnskap/hva-er-bnp-deflator "Hva er BNP-deflator? Forklaring og bruk i makro og regnskap")
 * [Hva er Konjunktur?](/blogs/regnskap/hva-er-konjunktur "Hva er Konjunktur? En Komplett Guide til Ã˜konomiske Sykluser")
+
+
+

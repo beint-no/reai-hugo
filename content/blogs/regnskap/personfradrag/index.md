@@ -51,3 +51,5 @@ Personfradrag kan kombineres med andre fradrag:
 ## Oppsummering
 
 Personfradrag er et grunnleggende element i norsk skatteberegning som sikrer at alle fÃ¥r et standard fradrag for levekostnader. Ã… forstÃ¥ satser og beregninger kan gi bedre skatteplanlegging og Ã¸kt innsikt i egen Ã¸konomi.
+
+

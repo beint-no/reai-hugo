@@ -34,10 +34,10 @@ For Ã¥ beregne antall Ã¥rsverk benyttes formelen:
 
 | Regelverk / Konsept                                                                 | Ã…rsverk-grense                                                 |
 |-------------------------------------------------------------------------------------|-----------------------------------------------------------------|
-| **[SmÃ¥ Foretak](/blogs/regnskap/sma-foretak "SmÃ¥ Foretak â€“ Kriterier, Regnskapsstandard og Forenklinger")**             | Under 50 [Ã¥rsverk](/blogs/regnskap/arsverk "Ã…rsverk")         |
-| **[Revisjonsplikt](/blogs/regnskap/revisjonsplikt "Revisjonsplikt â€“ Alt du trenger Ã¥ vite om Revisjonsplikt i Norge")** | Mer enn 20 [Ã¥rsverk](/blogs/regnskap/arsverk "Ã…rsverk")       |
+| **[SmÃ¥ Foretak](/blogs/regnskap/sma-foretak "SmÃ¥ Foretak “ Kriterier, Regnskapsstandard og Forenklinger")**             | Under 50 [Ã¥rsverk](/blogs/regnskap/arsverk "Ã…rsverk")         |
+| **[Revisjonsplikt](/blogs/regnskap/revisjonsplikt "Revisjonsplikt “ Alt du trenger Ã¥ vite om Revisjonsplikt i Norge")** | Mer enn 20 [Ã¥rsverk](/blogs/regnskap/arsverk "Ã…rsverk")       |
 | **[Eksternregnskap](/blogs/regnskap/hva-er-eksternregnskap "Hva er Eksternregnskap? Komplett Guide til Ekstern Finansiell Rapportering")** | Over 50 [Ã¥rsverk](/blogs/regnskap/arsverk "Ã…rsverk")        |
-| **[CSRD](/blogs/regnskap/hva-er-csrd "Hva er CSRD? Guide til bÃ¦rekraftsrapportering (CSRD) i Norge")**             | 1â€“3 [Ã¥rsverk](/blogs/regnskap/arsverk "Ã…rsverk") for lÃ¸pende drift |
+| **[CSRD](/blogs/regnskap/hva-er-csrd "Hva er CSRD? Guide til bÃ¦rekraftsrapportering (CSRD) i Norge")**             | 1“3 [Ã¥rsverk](/blogs/regnskap/arsverk "Ã…rsverk") for lÃ¸pende drift |
 
 ## Praktiske eksempler
 
@@ -49,5 +49,8 @@ For Ã¥ beregne antall Ã¥rsverk benyttes formelen:
 Ã…rsverk er en viktig mÃ¥leenhet i norsk regnskap for Ã¥ standardisere arbeidsinnsats og sikre korrekt rapportering. Ved Ã¥ forstÃ¥ definisjon, beregning og bruksomrÃ¥der kan virksomheter bedre planlegge bemanning, budsjettere personalkostnader og overholde lovpÃ¥lagte terskelverdier, for eksempel for smÃ¥ foretak og revisjonsplikt.
 
 ```{.hint}
-Dersom du vil lÃ¦re mer om **Ã¥rsverk** i sammenheng med andre regnskapskrav, se artiklene om [SmÃ¥ Foretak](/blogs/regnskap/sma-foretak "SmÃ¥ Foretak â€“ Kriterier, Regnskapsstandard og Forenklinger") og [Revisjonsplikt](/blogs/regnskap/revisjonsplikt "Revisjonsplikt â€“ Alt du trenger Ã¥ vite om Revisjonsplikt i Norge").
+Dersom du vil lÃ¦re mer om **Ã¥rsverk** i sammenheng med andre regnskapskrav, se artiklene om [SmÃ¥ Foretak](/blogs/regnskap/sma-foretak "SmÃ¥ Foretak “ Kriterier, Regnskapsstandard og Forenklinger") og [Revisjonsplikt](/blogs/regnskap/revisjonsplikt "Revisjonsplikt “ Alt du trenger Ã¥ vite om Revisjonsplikt i Norge").
 ```
+
+
+

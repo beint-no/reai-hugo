@@ -65,3 +65,5 @@ Alle eiendeler som har mÃ¥lbar verdi, inkludert maskiner, eiendom, patenter og
 ### Hvordan fastsettes verdien av tingsinnskudd?
 
 Verdien fastsettes gjennom revisorattestasjon i henhold til [Aksjeloven](/blogs/regnskap/hva-er-aksjeloven "Hva er Aksjeloven? Regler for Aksjeselskaper i Norge") og god regnskapsskikk.
+
+

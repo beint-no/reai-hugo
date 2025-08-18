@@ -19,10 +19,10 @@ layout: pages/single
 
 Kontinuitetsprinsippet kan anvendes i flere scenarioer:
 
-* **Virksomhetsoverdragelse** â€“ ved salg av hele eller deler av virksomhet til ny eier.
-* **Fusjon** â€“ ved planlagt sammenslÃ¥ing av selskaper (se [Hva er Fusjon?](/blogs/regnskap/fusjon "Hva er Fusjon? En komplett guide til fusjon i norsk regnskap")).
-* **Fisjon** â€“ ved oppdeling av selskap (se [Hva er Fisjon?](/blogs/regnskap/hva-er-fisjon "Hva er Fisjon? Guide til Fisjon i Norsk Regnskap")).
-* **KonsernoverfÃ¸ringer** â€“ intern omorganisering med skattemessig kontinuitet.
+* **Virksomhetsoverdragelse** “ ved salg av hele eller deler av virksomhet til ny eier.
+* **Fusjon** “ ved planlagt sammenslÃ¥ing av selskaper (se [Hva er Fusjon?](/blogs/regnskap/fusjon "Hva er Fusjon? En komplett guide til fusjon i norsk regnskap")).
+* **Fisjon** “ ved oppdeling av selskap (se [Hva er Fisjon?](/blogs/regnskap/hva-er-fisjon "Hva er Fisjon? Guide til Fisjon i Norsk Regnskap")).
+* **KonsernoverfÃ¸ringer** “ intern omorganisering med skattemessig kontinuitet.
 
 ## Eksempel pÃ¥ kontinuitetsprinsippet
 
@@ -47,3 +47,5 @@ Kontinuitetsprinsippet kan anvendes i flere scenarioer:
 * [Hva er Utsatt Skatt?](/blogs/regnskap/hva-er-utsatt-skatt "Hva er Utsatt Skatt? Beregning og RegnskapsfÃ¸ring")
 
 _Denne artikkelen er en del av vÃ¥r serie om skattemessige prinsipper i norsk regnskap og skatt._
+
+

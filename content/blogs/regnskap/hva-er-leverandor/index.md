@@ -245,3 +245,5 @@ Implementering av beste praksis sikrer effektiv og risikominimerende leverandÃ�
 * **Benchmarking:** Sammenlign med bransjestandarder
 
 Effektiv leverandÃ¸rstyring krever en balansert tilnÃ¦rming som kombinerer strategisk tenkning, operasjonell effektivitet og solid risikostyring. Ved Ã¥ implementere systematiske prosesser og utnytte moderne teknologi kan bedrifter oppnÃ¥ betydelige fordeler gjennom optimaliserte leverandÃ¸rforhold.
+
+

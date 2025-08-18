@@ -80,7 +80,7 @@ Arbeidsgiver er ansvarlig for Ã¥ tilby **obligatorisk tjenestepensjon (OTP)** 
 
 - Obligatorisk tjenestepensjon anbefales Ã¥ avsette minst 2 % av lÃ¸nn.
 - Mulighet for livsforsikring, ulykkesforsikring og gruppelivsforsikring.
-- LovpÃ¥lagt yrkesskadeforsikring for alle ansatte; se [Yrkesskadeforsikring](/blogs/regnskap/yrkesskadeforsikring "Yrkesskadeforsikring â€“ Guide til Yrkesskadeforsikring for Norske Virksomheter").
+- LovpÃ¥lagt yrkesskadeforsikring for alle ansatte; se [Yrkesskadeforsikring](/blogs/regnskap/yrkesskadeforsikring "Yrkesskadeforsikring “ Guide til Yrkesskadeforsikring for Norske Virksomheter").
 
 ### Rapportering og Arkivering
 
@@ -93,3 +93,6 @@ Korrekt rapportering og oppbevaring av dokumenter er kritisk:
 ## Oppsummering
 
 En **arbeidsgiver** har en sentral rolle i norsk arbeidsliv med tydelige juridiske forpliktelser og Ã¸konomiske ansvar. Korrekt hÃ¥ndtering av arbeidsavtaler, lÃ¸nn, arbeidsgiveravgift og rapportering er avgjÃ¸rende for Ã¥ sikre lovlighet og effektiv drift.
+
+
+

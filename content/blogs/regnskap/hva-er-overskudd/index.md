@@ -323,3 +323,5 @@ Overskudd er et **fundamentalt mÃ¥l** pÃ¥ virksomhetens suksess og bÃ¦rekr
 Ved Ã¥ ha god kontroll pÃ¥ overskuddet kan virksomheter ta **informerte beslutninger**, planlegge for **fremtidig vekst** og sikre **langsiktig lÃ¸nnsomhet**. Dette krever bÃ¥de **faglig kompetanse** og **gode systemer** for regnskapsfÃ¸ring og analyse.
 
 Overskudd er ikke bare et tall i regnskapet - det er et **strategisk verktÃ¸y** som kan drive virksomheten fremover og skape verdi for alle interessenter.
+
+

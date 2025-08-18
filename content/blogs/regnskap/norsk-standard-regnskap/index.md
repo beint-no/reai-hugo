@@ -187,7 +187,7 @@ Det norske regnskapsstandardsystemet utvikler seg kontinuerlig for Ã¥ mÃ¸te 
 
 ### 7.3 Regulatoriske Endringer
 
-* **Forenkling:** Reduksjon av administrativ byrde for [smÃ¥ foretak](/blogs/regnskap/sma-foretak "SmÃ¥ Foretak â€“ Kriterier, Regnskapsstandard og Forenklinger")
+* **Forenkling:** Reduksjon av administrativ byrde for [smÃ¥ foretak](/blogs/regnskap/sma-foretak "SmÃ¥ Foretak “ Kriterier, Regnskapsstandard og Forenklinger")
 * **Harmonisering:** Ytterligere tilnÃ¦rming til internasjonale standarder
 * **Fleksibilitet:** Tilpasning til nye forretningsmodeller
 * **Kvalitetssikring:** Styrket kontroll og overvÃ¥king
@@ -245,3 +245,5 @@ Det norske regnskapsstandardsystemet representerer et omfattende og sofistikert 
 For regnskapsfÃ¸rere, revisorer og bedriftsledere er forstÃ¥else av dette systemet avgjÃ¸rende for Ã¥ sikre korrekt og lovlig [regnskapsfÃ¸ring](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Dybdeanalyse for Norge"). Det kontinuerlige utviklingsarbeidet, ledet av **Norsk RegnskapsStiftelse** og i samarbeid med internasjonale organer, sikrer at norske regnskapsstandarder forblir relevante og oppdaterte i et stadig skiftende forretningslandskap.
 
 Fremtiden vil bringe nye utfordringer knyttet til digitalisering, bÃ¦rekraftsrapportering og globalisering, men det solide fundamentet i det norske regnskapsstandardsystemet gir en god plattform for Ã¥ mÃ¸te disse utfordringene pÃ¥ en konstruktiv mÃ¥te.
+
+

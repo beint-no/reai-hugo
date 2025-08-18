@@ -23,7 +23,7 @@ FÃ¸lgende vilkÃ¥r mÃ¥ vÃ¦re oppfylt for at retten kan ilegge konkurskara
 
 * **Uaktsom eller forsettlig adferd** som har bidratt til insolvens.
 * **Manglende regnskapsfÃ¸rsel** eller bokfÃ¸ring som har vÃ¦rt i strid med bokfÃ¸ringsloven.
-* **Prioritetsregler** i konkursloven Â§ 93â€“95 kan anvendes ved mislighold av kreditorenes rettigheter.
+* **Prioritetsregler** i konkursloven Â§ 93“95 kan anvendes ved mislighold av kreditorenes rettigheter.
 
 ## Varighet av konkurskarantene
 
@@ -56,3 +56,5 @@ For Ã¥ redusere risikoen for ileggelse av konkurskarantene bÃ¸r ledere og st
 ---
 
 *Relaterte artikler:* [Konkurs](/blogs/regnskap/konkurs "Hva er Konkurs? Juridiske og regnskapsmessige konsekvenser av Konkurs"), [Insolvens](/blogs/regnskap/insolvens "Hva er Insolvens? Definisjon, Ã…rsaker og Behandling"), [Dividende ved konkurs](/blogs/regnskap/dividende-ved-konkurs "Dividende ved konkurs: PrioriteringsrekkefÃ¸lge og fordeling av utbytte i konkursbo")
+
+

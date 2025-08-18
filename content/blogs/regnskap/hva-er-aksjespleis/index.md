@@ -70,3 +70,6 @@ Hvis en aksjonÃ¦r eier 15 aksjer i vÃ¥rt eksempel med en 10:1 spleis, ville 
 ## Konklusjon
 
 En aksjespleis er et verktÃ¸y selskaper kan bruke for Ã¥ justere aksjestrukturen sin. Det er en ren kosmetisk endring som ikke i seg selv skaper verdi, men som kan ha psykologiske og administrative fordeler. For en investor er det viktig Ã¥ forstÃ¥ at en aksjespleis ikke endrer den fundamentale verdien av investeringen, men det kan vÃ¦re et signal om selskapets strategi og fremtidsutsikter. Det er alltid lurt Ã¥ undersÃ¸ke *hvorfor* selskapet gjennomfÃ¸rer spleisen fÃ¸r man tar videre beslutninger.
+
+
+

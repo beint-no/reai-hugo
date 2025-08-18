@@ -24,7 +24,7 @@ Vederlag representerer verdien som overfÃ¸res fra kjÃ¸per til selger i bytte
 | **LÃ¸nn**              | Fast eller variabel kompensasjon til ansatte for utfÃ¸rt arbeid ([BruttolÃ¸nn](/blogs/regnskap/hva-er-bruttolonn "Hva er BruttolÃ¸nn? Definisjon, Beregning og Praktisk Anvendelse"))      |
 | **Honorar**           | Vederlag for tjenester uten tradisjonelt arbeidsforhold ([Honorar](/blogs/regnskap/hva-er-honorar "Hva er Honorar i Regnskap? Komplett Guide til Honorarutbetalinger"))                 |
 | **GodtgjÃ¸relse**      | Refusjon av faktiske utlegg ([GodtgjÃ¸relse](/blogs/regnskap/hva-er-godtgjorelse "Hva er GodtgjÃ¸relse i Regnskap? Komplett Guide til Refusjon og Utlegg"))                               |
-| **Royalty**           | LÃ¸pende vederlag for bruk av immaterielle rettigheter ([Royalty](/blogs/regnskap/royalty "Royalty i regnskap â€“ Guide til avtaler og regnskapsfÃ¸ring av vederlag"))                  |
+| **Royalty**           | LÃ¸pende vederlag for bruk av immaterielle rettigheter ([Royalty](/blogs/regnskap/royalty "Royalty i regnskap “ Guide til avtaler og regnskapsfÃ¸ring av vederlag"))                  |
 | **Salgsvederlag**     | Betaling ved vare- eller tjenesteleveranse                                                                                     |
 | **Konsulentvederlag** | Honorar til eksterne konsulenter og rÃ¥dgivere                                                                                  |
 
@@ -46,3 +46,5 @@ Vederlag = Enhetspris Ã— Antall âˆ’ Rabatter âˆ’ Returer
 ## Relevans i Regnskap
 
 Riktig mÃ¥ling og periodisering av vederlag er kritisk for Ã¥ oppnÃ¥ et *pÃ¥litelig* og *rettvisende* regnskap. Ved feil mÃ¥ling kan bÃ¥de inntekter og kostnader bli feilaktig presentert, noe som kan pÃ¥virke nÃ¸kkeltall og beslutninger i virksomheten.
+
+

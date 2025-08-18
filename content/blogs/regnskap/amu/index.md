@@ -13,11 +13,11 @@ layout: pages/single
 
 Innen **internkontroll** av arbeidsmiljÃ¸ er AMU et sentralt verktÃ¸y. Les mer om [internkontroll](/blogs/regnskap/hva-er-internkontroll "Hva er internkontroll? Komplett Guide til Internkontroll og Regnskap").
 
-**Bedriftshelsetjeneste** er ogsÃ¥ en viktig partner for AMU, og bidrar med helseundersÃ¸kelser og risikovurderinger. Se [Bedriftshelsetjeneste](/blogs/regnskap/bedriftshelsetjeneste "Bedriftshelsetjeneste â€“ Guide til Bedriftshelsetjeneste i Norge").
+**Bedriftshelsetjeneste** er ogsÃ¥ en viktig partner for AMU, og bidrar med helseundersÃ¸kelser og risikovurderinger. Se [Bedriftshelsetjeneste](/blogs/regnskap/bedriftshelsetjeneste "Bedriftshelsetjeneste “ Guide til Bedriftshelsetjeneste i Norge").
 
 ## 1. Lovgrunnlag og FormÃ¥l
 
-**ArbeidsmiljÃ¸utvalg (AMU)** er regulert i Â§ 7-1â€“7-3 i [arbeidsmiljÃ¸loven](/blogs/regnskap/hva-er-arbeidsmiljoloven "ArbeidsmiljÃ¸loven - Guide til Arbeidsrettslige Forpliktelser"). Hensikten er Ã¥:
+**ArbeidsmiljÃ¸utvalg (AMU)** er regulert i Â§ 7-1“7-3 i [arbeidsmiljÃ¸loven](/blogs/regnskap/hva-er-arbeidsmiljoloven "ArbeidsmiljÃ¸loven - Guide til Arbeidsrettslige Forpliktelser"). Hensikten er Ã¥:
 
 * Systematisk forebygge arbeidsrelaterte skader og sykdommer
 * Legge til rette for et fullt forsvarlig arbeidsmiljÃ¸
@@ -38,7 +38,7 @@ AMU er forankret i **arbeidsmiljÃ¸loven** kapittel 7, og er et lovpÃ¥lagt or
 | Antall ansatte | AMU obligatorisk?         | Kommentarer                                           |
 |----------------|---------------------------|-------------------------------------------------------|
 | 50+            | Ja                        | Virksomheter med mer enn 50 ansatte skal opprette AMU |
-| 20â€“49          | Ja, hvis risikofylt       | Dersom arbeidsmiljÃ¸et medfÃ¸rer sÃ¦rlig risiko          |
+| 20“49          | Ja, hvis risikofylt       | Dersom arbeidsmiljÃ¸et medfÃ¸rer sÃ¦rlig risiko          |
 | Under 20       | Nei, men kan opprettes frivillig | Mindre virksomheter kan dra nytte av AMU-struktur    |
 
 ### SÃ¦rlige Forhold
@@ -154,7 +154,7 @@ AMU kan anbefale investeringer i:
 
 ### Samarbeid med Bedriftshelsetjeneste
 
-AMU samarbeider tett med [bedriftshelsetjenesten](/blogs/regnskap/bedriftshelsetjeneste "Bedriftshelsetjeneste â€“ Guide til Bedriftshelsetjeneste i Norge") om:
+AMU samarbeider tett med [bedriftshelsetjenesten](/blogs/regnskap/bedriftshelsetjeneste "Bedriftshelsetjeneste “ Guide til Bedriftshelsetjeneste i Norge") om:
 
 * HelseundersÃ¸kelser av [ansatte](/blogs/regnskap/hva-er-lonn "Hva er lÃ¸nn? Komplett Guide til LÃ¸nn i Norge")
 * Kartlegging av eksponering
@@ -299,3 +299,6 @@ For Ã¥ fÃ¥ maksimal nytte av AMU-arbeidet er det viktig med:
 * Kontinuerlig forbedring
 
 Virksomheter som investerer i et aktivt og velfungerende AMU vil oppleve bedre arbeidsmiljÃ¸, fÃ¦rre skader og sykdommer, og styrket konkurranseevne gjennom reduserte kostnader og Ã¸kt produktivitet. Dette pÃ¥virker ogsÃ¥ [arbeidskapital](/blogs/regnskap/hva-er-arbeidskapital "Hva er arbeidskapital? Komplett Guide til Arbeidskapital") positivt gjennom reduserte kostnader og Ã¸kt effektivitet.
+
+
+

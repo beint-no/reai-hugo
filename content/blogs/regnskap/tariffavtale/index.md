@@ -69,3 +69,5 @@ God dokumentasjon sikrer etterlevelse og sporbarhet:
 * [Hva er Ansiennitet?](/blogs/regnskap/ansiennitet "Ansiennitet i Norsk Regnskap")
 * [Hva er TimelÃ¸nn?](/blogs/regnskap/hva-er-timelonn "Hva er TimelÃ¸nn? Guide til TimelÃ¸nn og Overtid")
 * [Hva er Ferieloven?](/blogs/regnskap/ferieloven "Hva er Ferieloven? Regler for Ferie")
+
+

@@ -60,3 +60,6 @@ Eksempel pÃ¥ beregning:
 ## Oppsummering
 
 Bunnlinje, eller nettoresultat, er en **nÃ¸kkelindikator** i norsk regnskap som viser selskapets endelige lÃ¸nnsomhet. Ved Ã¥ forstÃ¥ hvordan den beregnes, hvorfor den er viktig, og hvilke strategier som forbedrer den, kan virksomheter ta bedre **Ã¸konomiske beslutninger**.
+
+
+

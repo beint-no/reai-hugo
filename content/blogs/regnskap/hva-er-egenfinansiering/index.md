@@ -271,3 +271,6 @@ For Ã¥ forstÃ¥ egenfinansiering fullt ut, bÃ¸r du ogsÃ¥ sette deg inn i:
 * **[Driftsresultat](/blogs/regnskap/hva-er-driftsresultat "Hva er Driftsresultat? Beregning og Betydning for Bedriften")** - Grunnlag for intern egenfinansiering
 
 Egenfinansiering er en fundamental del av bedriftens kapitalstruktur som krever grundig planlegging og forstÃ¥else av bÃ¥de fordeler og ulemper. Ved Ã¥ velge riktig balanse mellom egenfinansiering og fremmedfinansiering kan bedrifter optimalisere sin finansielle posisjon og skape grunnlag for bÃ¦rekraftig vekst.
+
+
+

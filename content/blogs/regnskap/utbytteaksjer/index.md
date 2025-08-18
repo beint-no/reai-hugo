@@ -12,7 +12,7 @@ layout: pages/single
 ![Illustrasjon som viser konseptet Utbytteaksjer](utbytteaksjer-image.svg)
 
 ## Hva er utbytteaksjer?
-Utbytteaksjer er aksjer i selskaper som regelmessig beslutter Ã¥ utdele deler av overskuddet til aksjonÃ¦rene. NÃ¥r du eier en utbytteaksje, mottar du kontantbetalinger â€“ **utbytte** â€“ som kan gi en stabil inntektsstrÃ¸m. Dette skiller seg fra selskaper som enten reinvesterer hele overskuddet eller kun betaler mindre andeler.
+Utbytteaksjer er aksjer i selskaper som regelmessig beslutter Ã¥ utdele deler av overskuddet til aksjonÃ¦rene. NÃ¥r du eier en utbytteaksje, mottar du kontantbetalinger “ **utbytte** “ som kan gi en stabil inntektsstrÃ¸m. Dette skiller seg fra selskaper som enten reinvesterer hele overskuddet eller kun betaler mindre andeler.
 
 ## Hvordan beregnes utbytteavkastning?
 Utbytteavkastning (dividend yield) viser forholdet mellom Ã¥rlig utbytte per aksje og aksjekurs, uttrykt i prosent. Formelen er:
@@ -52,7 +52,7 @@ Inntekter fra utbytte er skattepliktige. For detaljert gjennomgang av skattemess
 Ved valg av utbytteaksjer kan du vurdere:
 
 1. **Utbyttehistorikk:** Se etter selskaper med stabil eller Ã¸kende utbytte over tid.
-2. **Utbetalingsgrad:** Andel av overskudd som deles ut â€“ for hÃ¸y kan vÃ¦re uholdbar.
+2. **Utbetalingsgrad:** Andel av overskudd som deles ut “ for hÃ¸y kan vÃ¦re uholdbar.
 3. **KontantstrÃ¸m:** Sterk kontantstrÃ¸m sikrer evne til Ã¥ betale utbytte.
 4. **GjeldsnivÃ¥:** Lav gjeld gir stÃ¸rre fleksibilitet ved utbyttebetaling.
 5. **SelskapsstÃ¸rrelse og sektor:** Store, modne selskap i forsvarlige sektorer gir ofte jevn utbytte.
@@ -62,3 +62,5 @@ For mer om analyser av aksjer generelt, se [Hva er en Aksje?](/blogs/regnskap/hv
 ---
 
 **Oppsummering:** Utbytteaksjer gir jevn inntekt og kan vÃ¦re en kjernekomponent i en langsiktig investeringsstrategi. Ved Ã¥ forstÃ¥ utbytteavkastning, risikofaktorer og skattemessige forhold, kan du velge de beste aksjene for en stabil portefÃ¸lje.
+
+

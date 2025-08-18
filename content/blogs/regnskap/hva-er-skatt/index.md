@@ -9,7 +9,7 @@ layout: pages/single
 
 **Skatt** er en grunnleggende del av alle virksomheters Ã¸konomi og regnskap. Det er en obligatorisk avgift som pÃ¥legges av staten for Ã¥ finansiere offentlige tjenester og infrastruktur. For bedrifter innebÃ¦rer skatteplanlegging og -hÃ¥ndtering komplekse regnskaps- og juridiske prosesser som pÃ¥virker bÃ¥de [likviditet](/blogs/regnskap/hva-er-likviditet "Hva er Likviditet? Komplett Guide til Bedriftens Betalingsevne") og [lÃ¸nnsomhet](/blogs/regnskap/hva-er-loennsomhet "Hva er LÃ¸nnsomhet? MÃ¥ling og Analyse av Bedriftens Ã˜konomiske Ytelse"). Den praktiske rapporteringen av skatteinformasjon skjer gjennom [skattemeldingen](/blogs/regnskap/skattemelding "Skattemelding - Komplett Guide til Utfylling og Innlevering"), som er det viktigste dokumentet for skatteoppgjÃ¸ret.
 
-For informasjon om **toppskatt**, se [Toppskatt](/blogs/regnskap/toppskatt "Toppskatt â€“ Komplett guide til toppskatt i Norge").
+For informasjon om **toppskatt**, se [Toppskatt](/blogs/regnskap/toppskatt "Toppskatt “ Komplett guide til toppskatt i Norge").
 
 For en stegvis guide til **beregning** av skatt, se [Skatteberegning](/blogs/regnskap/skatteberegning "Skatteberegning - Guide til Beregning av Bedriftsskatt og Personlig Skatt").
 
@@ -21,7 +21,7 @@ Skatt i bedriftssammenheng omfatter flere typer avgifter som pÃ¥virker den **r
 
 ### 1.1 Bedriftsskatt vs. Personlig Skatt
 
-**Bedriftsskatt** (se ogsÃ¥ [Firmaskatt](/blogs/regnskap/firmaskatt "Firmaskatt â€“ Komplett guide til skatteregler for selskaper"), ogsÃ¥ kalt selskapsskatt) er den direkte skatten som pÃ¥legges selskapers [overskudd](/blogs/regnskap/hva-er-overskudd "Hva er Overskudd? Beregning og Betydning i BedriftsÃ¸konomi"):
+**Bedriftsskatt** (se ogsÃ¥ [Firmaskatt](/blogs/regnskap/firmaskatt "Firmaskatt “ Komplett guide til skatteregler for selskaper"), ogsÃ¥ kalt selskapsskatt) er den direkte skatten som pÃ¥legges selskapers [overskudd](/blogs/regnskap/hva-er-overskudd "Hva er Overskudd? Beregning og Betydning i BedriftsÃ¸konomi"):
 
 * **OrdinÃ¦r sats:** 22% pÃ¥ [skattepliktig inntekt](/blogs/regnskap/hva-er-skattepliktig-inntekt "Hva er Skattepliktig Inntekt? Beregning og Optimalisering") (2024)
 * **Grunnlag:** [Regnskapsmessig resultat](/blogs/regnskap/hva-er-arsresultat "Hva er Ã…rsresultat? Beregning og Betydning i Regnskap") justert for skattemessige forskjeller
@@ -43,7 +43,7 @@ Effektiv **skatteplanlegging** innebÃ¦rer:
 | Timing | Inntekts- og kostnadsfÃ¸ring | [Periodisering](/blogs/regnskap/hva-er-periodisering "Hva er Periodisering? Grunnleggende Regnskapsprinsipp") vs. kontantprinsipp |
 | [Avskrivninger](/blogs/regnskap/hva-er-avskrivning "Hva er Avskrivning? Beregning og RegnskapsfÃ¸ring av Verdireduksjon") | Skattemessige vs. regnskapsmessige | Forskjeller skaper [utsatt skatt](/blogs/regnskap/hva-er-utsatt-skatt "Hva er Utsatt Skatt? Beregning og RegnskapsfÃ¸ring") |
 | Organisasjonsform | AS, [ANS](/blogs/regnskap/ansvarlig-selskap "Ansvarlig Selskap (ANS): Komplett Guide til Norsk Regnskap og Ansvarsstruktur"), ENK | Ulike skatteregler og rapportering |
-| FoU og innovasjon   | StÃ¸tte til FoU-prosjekter gjennom Skattefunn | [Skattefunn](/blogs/regnskap/skattefunn "Skattefunn â€“ Skatteinsentiver for Forskning og Utvikling i Norge") |
+| FoU og innovasjon   | StÃ¸tte til FoU-prosjekter gjennom Skattefunn | [Skattefunn](/blogs/regnskap/skattefunn "Skattefunn “ Skatteinsentiver for Forskning og Utvikling i Norge") |
 
 ![Skatteplanlegging Oversikt](skatteplanlegging-oversikt.svg)
 
@@ -69,7 +69,7 @@ Regnskapsmessig resultat fÃ¸r skatt: 1.000.000 kr
 Ã— 22% = Betalbar skatt: 213.400 kr
 ```
 
-For en detaljert gjennomgang av beregning og regnskapsfÃ¸ring av **betalbar skatt**, se [Betalbar skatt](/blogs/regnskap/betalbar-skatt "Betalbar skatt â€“ Komplett guide til beregning og hÃ¥ndtering").
+For en detaljert gjennomgang av beregning og regnskapsfÃ¸ring av **betalbar skatt**, se [Betalbar skatt](/blogs/regnskap/betalbar-skatt "Betalbar skatt “ Komplett guide til beregning og hÃ¥ndtering").
 
 ### 2.2 Indirekte Skatter
 
@@ -279,7 +279,7 @@ Utsatt skatteforpliktelse: 100.000 Ã— 22% = 22.000 kr
 
 #### RisikoomrÃ¥der:
 * **Aggressiv skatteplanlegging** kan utlÃ¸se skatteetaten kontroller
-* **Skatteflyktning**: Flytting av skattemessig bosted for Ã¥ redusere skattebyrden. Se [Skatteflyktning](/blogs/regnskap/skatteflyktning "Skatteflyktning â€“ Definisjon, Eksempler og Juridiske Konsekvenser").
+* **Skatteflyktning**: Flytting av skattemessig bosted for Ã¥ redusere skattebyrden. Se [Skatteflyktning](/blogs/regnskap/skatteflyktning "Skatteflyktning “ Definisjon, Eksempler og Juridiske Konsekvenser").
 * **Manglende dokumentasjon** kan fÃ¸re til tilleggsskatt
 * **Feiltolkning** av skatteregler kan fÃ¥ alvorlige konsekvenser
 
@@ -560,6 +560,8 @@ Skattemessig etterlevelse er ikke bare en plikt - det er en strategisk mulighet 
 
 ## Betalbar skatt
 
-For detaljer om **betalbar skatt** og dens beregning, se [Betalbar skatt](/blogs/regnskap/betalbar-skatt "Betalbar skatt â€“ Komplett guide til beregning og hÃ¥ndtering").
+For detaljer om **betalbar skatt** og dens beregning, se [Betalbar skatt](/blogs/regnskap/betalbar-skatt "Betalbar skatt “ Komplett guide til beregning og hÃ¥ndtering").
 Skatteetaten er ansvarlig for alle disse prosessene og tilbyr veiledning, digitale tjenester og kontrollrutiner.
-Se ogsÃ¥ [Skatteetaten](/blogs/regnskap/skatteetaten "Skatteetaten â€“ Norges Skatteadministrasjon og Skatteforvaltning") for en oversikt over skattemyndighetens roller og tjenester.
+Se ogsÃ¥ [Skatteetaten](/blogs/regnskap/skatteetaten "Skatteetaten “ Norges Skatteadministrasjon og Skatteforvaltning") for en oversikt over skattemyndighetens roller og tjenester.
+
+

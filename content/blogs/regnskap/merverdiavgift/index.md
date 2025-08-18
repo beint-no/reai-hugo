@@ -17,10 +17,10 @@ For en komplett guide til **Merverdiavgift**, se [Merverdiavgift: Komplett Guide
 
 Merverdiavgift bygger pÃ¥ fÃ¸lgende prinsipper:
 
-* **NÃ¸ytralitet** â€“ avgiften pÃ¥virker ikke konkurranse mellom virksomheter.
-* **Fradragsrett** â€“ virksomheter fÃ¥r fradrag for MVA pÃ¥ sine kjÃ¸p.
-* **Destinasjonsprinsippet** â€“ avgiften ilegges der varen eller tjenesten konsumeres.
-* **Bred avgiftsbase** â€“ de fleste varer og tjenester er omfattet.
+* **NÃ¸ytralitet** “ avgiften pÃ¥virker ikke konkurranse mellom virksomheter.
+* **Fradragsrett** “ virksomheter fÃ¥r fradrag for MVA pÃ¥ sine kjÃ¸p.
+* **Destinasjonsprinsippet** “ avgiften ilegges der varen eller tjenesten konsumeres.
+* **Bred avgiftsbase** “ de fleste varer og tjenester er omfattet.
 
 ![Prinsipper for Merverdiavgift](merverdiavgift-prinsipper.svg)
 
@@ -83,7 +83,7 @@ Virksomheter leverer MVA-melding elektronisk via Altinn eller integrerte [regnsk
 | Ã…rlig omsetning    | Termin        | Innleveringsfrist    | Betalingsfrist          |
 |---------------------|--------------:|----------------------|-------------------------|
 | Under 1Â mill. kr    | Ã…rlig         | 31. januar           | 31. januar              |
-| 1â€“5Â mill. kr        | To mÃ¥neder    | 10. i mÃ¥neden etter  | 15. i mÃ¥neden etter     |
+| 1“5Â mill. kr        | To mÃ¥neder    | 10. i mÃ¥neden etter  | 15. i mÃ¥neden etter     |
 | Over 5Â mill. kr     | MÃ¥nedlig      | 10. i mÃ¥neden etter  | 15. i mÃ¥neden etter     |
 
 ![MVA-melding og terminer](merverdiavgift-melding.svg)
@@ -124,3 +124,5 @@ For mer detaljert informasjon, se ogsÃ¥:
 * [MVA-registeret](/blogs/regnskap/hva-er-mva-registeret "Hva er MVA-registeret? Registreringskrav")
 * [InngÃ¥ende MVA](/blogs/regnskap/inngaaende-mva "Hva er inngÃ¥ende MVA?")
 * [Forholdsmessig MVA](/blogs/regnskap/forholdsmessig-mva "Forholdsmessig MVA: Fordeling av inngÃ¥ende MVA")
+
+

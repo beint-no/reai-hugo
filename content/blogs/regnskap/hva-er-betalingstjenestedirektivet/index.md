@@ -328,3 +328,6 @@ Kredit: 2180 Annen kortsiktig gjeld              200.000
 5. **FÃ¸lg utviklingen** av PSD3 og andre regulatoriske endringer
 
 Ved Ã¥ ta en **proaktiv tilnÃ¦rming** til PSD2 kan bedrifter ikke bare sikre compliance, men ogsÃ¥ posisjonere seg for Ã¥ dra nytte av de nye mulighetene som det digitale betalingslandskapet tilbyr.
+
+
+

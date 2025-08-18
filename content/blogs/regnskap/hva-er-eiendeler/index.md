@@ -41,3 +41,5 @@ I [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse i Regnskap? Oppbyggi
 * **Likviditetsstyring:** Oversikt over omlÃ¸psmidler er kritisk for Ã¥ sikre tilstrekkelig kontantbeholdning.
 * **Investeringsbeslutninger:** Analyse av anleggsmidler pÃ¥virker beslutninger om kapitalbinding og avskrivningsstrategi.
 * **RisikohÃ¥ndtering:** Korrekt registrering og verdsettelse av eiendeler reduserer risiko for feilrapportering og skattemessige konsekvenser.
+
+

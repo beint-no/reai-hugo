@@ -187,3 +187,5 @@ For relaterte emner:
 * [Hva er en Faktura?](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav")
 * [Hva er KasseoppgjÃ¸r?](/blogs/regnskap/hva-er-kasseoppgjor "Hva er KasseoppgjÃ¸r? Komplett Guide til Kasseavstemming og Kontroll")
 * [Hva er Fakturasalg?](/blogs/regnskap/hva-er-fakturasalg "Hva er Fakturasalg? Komplett Guide til Kredittgivning og DebitorhÃ¥ndtering")
+
+

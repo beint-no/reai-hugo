@@ -9,7 +9,7 @@ layout: pages/single
 
 **Bilag** er grunnleggende stÃ¸ttedokumenter som dokumenterer alle forretningshendelser i regnskapet. De fungerer som bevis for at en transaksjon har funnet sted og gir nÃ¸dvendig informasjon for korrekt [bokfÃ¸ring](/blogs/regnskap/hva-er-bokfÃ¸ring "Hva er BokfÃ¸ring? En Komplett Guide til Norsk BokfÃ¸ringspraksis"). Uten bilag ville regnskapet mangle troverdighet og kunne ikke oppfylle lovkravene til dokumentasjon. Bilag er derfor selve fundamentet for pÃ¥litelig [regnskapsfÃ¸ring](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Komplett Guide til Norsk RegnskapsfÃ¸ring") og er essensielle for [internkontroll](/blogs/regnskap/hva-er-attestering "Hva er Attestering? En Komplett Guide til Bilagsbehandling og Godkjenning") i alle bedrifter.
 
-For en komplett guide til bilag i regnskap, se [Bilag i Regnskap](/blogs/regnskap/bilag "Bilag i Regnskap â€“ Guide til Dokumentasjon og Behandling").
+For en komplett guide til bilag i regnskap, se [Bilag i Regnskap](/blogs/regnskap/bilag "Bilag i Regnskap “ Guide til Dokumentasjon og Behandling").
 
 ## Hva er et Bilag?
 
@@ -326,3 +326,6 @@ Bilag er fundamentet for pÃ¥litelig regnskapsfÃ¸ring og god internkontroll. 
 Moderne teknologi tilbyr betydelige muligheter for Ã¥ effektivisere bilagsbehandlingen, men det er viktig Ã¥ huske at teknologien mÃ¥ stÃ¸tte, ikke erstatte, grunnleggende prinsipper for god regnskapsskikk. Uavhengig av hvilke verktÃ¸y som brukes, mÃ¥ bilag fortsatt inneholde nÃ¸dvendig informasjon, behandles av kompetente personer, og oppbevares i henhold til lovkravene.
 
 For bedrifter som Ã¸nsker Ã¥ forbedre sin bilagsbehandling, anbefaler vi Ã¥ starte med en gjennomgang av eksisterende rutiner, identifisere forbedringsomrÃ¥der, og deretter implementere lÃ¸sninger som passer bedriftens stÃ¸rrelse og behov. Med riktig tilnÃ¦rming kan effektiv bilagsbehandling bli en konkurransefordel som bidrar til bedre Ã¸konomistyring og Ã¸kt lÃ¸nnsomhet.
+
+
+

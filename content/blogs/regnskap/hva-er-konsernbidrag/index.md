@@ -265,3 +265,5 @@ Konsernbidrag er et **kraftfullt verktÃ¸y** for skatteoptimalisering i konsern
 For [aksjeselskaper](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap (AS)? Komplett Guide til Selskapsformen") som inngÃ¥r i konsernstrukturer, kan konsernbidrag vÃ¦re avgjÃ¸rende for Ã¥ oppnÃ¥ optimal skatteposisjon og effektiv kapitalforvaltning.
 
 Ved riktig anvendelse kan konsernbidragsordningen gi betydelige **skattebesparelser** og forbedret **likviditetsstyring** for hele konsernet. Det er derfor viktig Ã¥ ha god forstÃ¥else av reglene og sÃ¸ke profesjonell bistand ved implementering.
+
+

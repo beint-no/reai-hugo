@@ -19,10 +19,10 @@ layout: pages/single
 
 Her er noen vanlige typer bonusutbetalinger:
 
-* **Resultatbonus** â€“ utbetales basert pÃ¥ selskapets Ã¥rsresultat.
-* **Individuell bonus** â€“ knyttet til personlige mÃ¥l og prestasjoner.
-* **Signering- og introduksjonsbonus** â€“ engangsutbetaling ved ansettelse eller fullfÃ¸ring av en kontrakt.
-* **Andre variabler** â€“ for eksempel salgsmÃ¥l eller prosjektbonus.
+* **Resultatbonus** “ utbetales basert pÃ¥ selskapets Ã¥rsresultat.
+* **Individuell bonus** “ knyttet til personlige mÃ¥l og prestasjoner.
+* **Signering- og introduksjonsbonus** “ engangsutbetaling ved ansettelse eller fullfÃ¸ring av en kontrakt.
+* **Andre variabler** “ for eksempel salgsmÃ¥l eller prosjektbonus.
 
 ## Hvordan beregnes skattetrekk for bonus?
 
@@ -56,3 +56,5 @@ Se [Hva er A-meldingen?](/blogs/regnskap/hva-er-a-melding "Hva er A-melding?") f
 * Hvordan hÃ¥ndteres bonus i skattemeldingen? Se [Hva er skattemelding?](/blogs/regnskap/skattemelding "Hva er Skattemelding?").
 
 For mer informasjon om lÃ¸nn og skattetrekk, se ogsÃ¥ [Hva er lÃ¸nn?](/blogs/regnskap/hva-er-lonn "Hva er LÃ¸nn?") og [Hva er skattetrekkskonto?](/blogs/regnskap/hva-er-skattetrekkskonto "Hva er Skattetrekkskonto?").
+
+

@@ -19,12 +19,12 @@ Naturalytelser representerer **ikke-kontante kompensasjoner** fra arbeidsgiver, 
 
 Typiske naturalytelser og personalfordeler som kan vÃ¦re aktuelle i norske virksomheter:
 
-* **Firmabil** â€“ bruk av kjÃ¸retÃ¸y betalt av arbeidsgiver med privatbrukmulighet. Se [Firmabil](/blogs/regnskap/firmabil "Firmabil - RegnskapsfÃ¸ring og Skattebehandling").
-* **Diett** â€“ mÃ¥ltidsgodtgjÃ¸relse ved tjenestereiser. Se [Diett](/blogs/regnskap/diett "Diett i regnskap: Guide til normaltariffer, regler og regnskapsfÃ¸ring").
-* **Fri telefon og internett** â€“ dekning av telefon- og internettkostnader hjemme eller pÃ¥ kontor.
-* **Personalrabatt** â€“ gunstige kjÃ¸pspriser for ansatte. Se [Personalrabatt](/blogs/regnskap/hva-er-personalrabatt "Hva er Personalrabatt? Skatteplikt og RegnskapsfÃ¸ring").
-* **Tjenestepensjon** â€“ ytelsesbasert eller innskuddsbasert pensjonsordning. Se [Tjenestepensjon](/blogs/regnskap/hva-er-tjenestepensjon "Hva er Tjenestepensjon? Regulering og RegnskapsfÃ¸ring").
-* **Andre naturalytelser** â€“ for eksempel fri helseforsikring, personalforsikringer eller [velferdsgoder](/blogs/regnskap/velferdsgoder "Velferdsgoder i Norsk Regnskap: Oversikt over Ansattfordeler og RegnskapsfÃ¸ring").
+* **Firmabil** “ bruk av kjÃ¸retÃ¸y betalt av arbeidsgiver med privatbrukmulighet. Se [Firmabil](/blogs/regnskap/firmabil "Firmabil - RegnskapsfÃ¸ring og Skattebehandling").
+* **Diett** “ mÃ¥ltidsgodtgjÃ¸relse ved tjenestereiser. Se [Diett](/blogs/regnskap/diett "Diett i regnskap: Guide til normaltariffer, regler og regnskapsfÃ¸ring").
+* **Fri telefon og internett** “ dekning av telefon- og internettkostnader hjemme eller pÃ¥ kontor.
+* **Personalrabatt** “ gunstige kjÃ¸pspriser for ansatte. Se [Personalrabatt](/blogs/regnskap/hva-er-personalrabatt "Hva er Personalrabatt? Skatteplikt og RegnskapsfÃ¸ring").
+* **Tjenestepensjon** “ ytelsesbasert eller innskuddsbasert pensjonsordning. Se [Tjenestepensjon](/blogs/regnskap/hva-er-tjenestepensjon "Hva er Tjenestepensjon? Regulering og RegnskapsfÃ¸ring").
+* **Andre naturalytelser** “ for eksempel fri helseforsikring, personalforsikringer eller [velferdsgoder](/blogs/regnskap/velferdsgoder "Velferdsgoder i Norsk Regnskap: Oversikt over Ansattfordeler og RegnskapsfÃ¸ring").
 
 ![Naturalytelser Kategorier](naturalytelser-kategorier.svg)
 
@@ -56,3 +56,5 @@ Arbeidsgiver plikter Ã¥ rapportere naturalytelser i a-meldingen og skattemeldi
 ## Oppsummering
 
 Naturalytelser utgjÃ¸r en viktig del av kompensasjonsbildet i mange virksomheter, men stiller krav til **nÃ¸yaktig verdisetting**, korrekt **skattemessig** behandling og **regnskapsfÃ¸ring**. For en komplett veiledning om naturalytelser, se denne artikkelen om [Naturalytelser](/blogs/regnskap/naturalytelser "Naturalytelser i Norsk Regnskap: Guide til Naturlige Ytelser og Beskatning").
+
+

@@ -7,7 +7,7 @@ type: blog
 layout: pages/single
 ---
 
-**Driftsinntekter** er inntekter som oppstÃ¥r fra et selskaps ordinÃ¦re forretningsvirksomhet og utgjÃ¸r grunnlaget for Ã¥ mÃ¥le selskapets operative lÃ¸nnsomhet. Som en viktig del av selskapets totale [inntekter](/blogs/regnskap/hva-er-inntekter "Hva er Inntekter? Komplett Guide til Inntektstyper og RegnskapsfÃ¸ring"), skiller driftsinntekter seg fra [Finansinntekter](/blogs/regnskap/finansinntekt "Finansinntekt â€“ Komplett guide til renter, utbytte og kapitalgevinster i norsk regnskap") som kommer fra investeringer og finansielle aktiviteter, ved at de representerer verdien av varer og tjenester som selskapet leverer til sine kunder. Driftsinntekter utgjÃ¸r hovedkomponenten i selskapets [omsetning](/blogs/regnskap/hva-er-omsetning "Hva er Omsetning? Komplett Guide til Omsetning i Regnskap og Skatt"), men mÃ¥les eksklusive merverdiavgift.
+**Driftsinntekter** er inntekter som oppstÃ¥r fra et selskaps ordinÃ¦re forretningsvirksomhet og utgjÃ¸r grunnlaget for Ã¥ mÃ¥le selskapets operative lÃ¸nnsomhet. Som en viktig del av selskapets totale [inntekter](/blogs/regnskap/hva-er-inntekter "Hva er Inntekter? Komplett Guide til Inntektstyper og RegnskapsfÃ¸ring"), skiller driftsinntekter seg fra [Finansinntekter](/blogs/regnskap/finansinntekt "Finansinntekt “ Komplett guide til renter, utbytte og kapitalgevinster i norsk regnskap") som kommer fra investeringer og finansielle aktiviteter, ved at de representerer verdien av varer og tjenester som selskapet leverer til sine kunder. Driftsinntekter utgjÃ¸r hovedkomponenten i selskapets [omsetning](/blogs/regnskap/hva-er-omsetning "Hva er Omsetning? Komplett Guide til Omsetning i Regnskap og Skatt"), men mÃ¥les eksklusive merverdiavgift.
 
 ## Definisjon og Betydning av Driftsinntekter
 
@@ -98,13 +98,13 @@ Det er viktig Ã¥ skille mellom driftsinntekter og andre former for inntekter i
 | Inntektstype | Kilde | Regelmessighet | Regnskapspost |
 |--------------|-------|----------------|---------------|
 | **Driftsinntekter** | Hovedvirksomhet | Regelmessig | Driftsinntekter |
-| **[Finansinntekter](/blogs/regnskap/finansinntekt "Finansinntekt â€“ Komplett guide til renter, utbytte og kapitalgevinster i norsk regnskap")** | Investeringer, renter | Variabel | Finansinntekter |
+| **[Finansinntekter](/blogs/regnskap/finansinntekt "Finansinntekt “ Komplett guide til renter, utbytte og kapitalgevinster i norsk regnskap")** | Investeringer, renter | Variabel | Finansinntekter |
 | **EkstraordinÃ¦re inntekter** | Engangstilfeller | Sjelden | Andre inntekter |
 | **Tilskudd** | Offentlige stÃ¸tteordninger | Variabel | Offentlige tilskudd |
 
-### [Finansinntekter](/blogs/regnskap/finansinntekt "Finansinntekt â€“ Komplett guide til renter, utbytte og kapitalgevinster i norsk regnskap") vs Driftsinntekter:
+### [Finansinntekter](/blogs/regnskap/finansinntekt "Finansinntekt “ Komplett guide til renter, utbytte og kapitalgevinster i norsk regnskap") vs Driftsinntekter:
 
-**[Finansinntekter](/blogs/regnskap/finansinntekt "Finansinntekt â€“ Komplett guide til renter, utbytte og kapitalgevinster i norsk regnskap")** inkluderer:
+**[Finansinntekter](/blogs/regnskap/finansinntekt "Finansinntekt “ Komplett guide til renter, utbytte og kapitalgevinster i norsk regnskap")** inkluderer:
 * Renteinntekter fra bankinnskudd
 * Utbytte fra investeringer
 * Gevinst ved salg av finansielle instrumenter
@@ -304,3 +304,6 @@ Digitaliseringen har skapt nye utfordringer og muligheter for hÃ¥ndtering av d
 Ved Ã¥ fÃ¸lge etablerte regnskapsprinsipper, implementere gode kontrollrutiner og holde seg oppdatert pÃ¥ nye utviklingstrender, kan selskaper sikre at deres driftsinntekter rapporteres korrekt og gir et rettvisende bilde av virksomhetens prestasjoner.
 
 For mer informasjon om relaterte regnskapstemaer, se vÃ¥re artikler om [bruttofortjeneste](/blogs/regnskap/hva-er-bruttofortjeneste "Hva er Bruttofortjeneste? Beregning og Analyse av Bruttomargin"), [avskrivninger](/blogs/regnskap/hva-er-avskrivning "Hva er Avskrivning i Regnskap? Metoder, Beregning og Praktiske Eksempler") og [bokfÃ¸ring](/blogs/regnskap/hva-er-bokforing "Hva er BokfÃ¸ring? Komplett Guide til RegnskapsfÃ¸ring").
+
+
+

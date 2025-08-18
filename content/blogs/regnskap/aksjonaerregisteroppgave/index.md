@@ -470,3 +470,6 @@ En tysk aksjonÃ¦r mÃ¥ oppgi tysk skattemessig bosted, ikke norsk adresse, se
 5. **Samarbeid** med qualifiserte rÃ¥dgivere ved komplekse strukturer
 
 Investering i **gode rutiner** og **profesjonelle systemer** for aksjonÃ¦rregisteroppgave betaler seg gjennom reduserte risikoinvesteringer og smidigere rapportering over tid.
+
+
+

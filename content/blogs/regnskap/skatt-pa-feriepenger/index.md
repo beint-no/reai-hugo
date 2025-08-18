@@ -63,3 +63,5 @@ A-ordningen krever at bÃ¥de feriepenger og **skattetrekk** rapporteres korrekt
 **Skatt pÃ¥ feriepenger** krever forstÃ¥else av skattetrekk, periodisering og rapportering. Ved Ã¥ fÃ¸lge reglene for forskuddstrekk og A-ordningen sikrer du korrekt hÃ¥ndtering av skatt pÃ¥ feriepengeutbetalinger, unngÃ¥r bokfÃ¸ringsfeil og sikrer riktig likviditetsstyring.
 
 For flere relaterte emner, se [Feriepengegrunnlag](/blogs/regnskap/feriepengegrunnlag "Feriepengegrunnlag: Grunnlag for beregning av feriepenger i Norge"), [Forskuddstrekk](/blogs/regnskap/hva-er-forskuddstrekk "Hva er Forskuddstrekk? Komplett Guide til Skattetrekk i LÃ¸nn"), og [Utsatt skatt](/blogs/regnskap/hva-er-utsatt-skatt "Hva er Utsatt Skatt? Beregning og RegnskapsfÃ¸ring").
+
+

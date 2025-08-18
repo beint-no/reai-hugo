@@ -538,3 +538,6 @@ Avsetninger er ikke bare en regnskapsmessig forpliktelse, men ogsÃ¥ et strateg
 Effektiv avsetningshÃ¥ndtering krever kontinuerlig lÃ¦ring, tilpasning og forbedring. Ved Ã¥ fÃ¸lge beste praksis og holde seg oppdatert pÃ¥ utviklingen innen standarder og teknologi, kan virksomheter sikre at deres avsetningspraksis stÃ¸tter bÃ¥de regnskapsmessige krav og forretningsmessige mÃ¥l.
 
 For videre lesning om relaterte emner, se vÃ¥re artikler om [gjeld](/blogs/regnskap/hva-er-gjeld "Hva er Gjeld i Regnskap? Komplett Guide til Forpliktelser og Gjeldstyper"), [periodisering](/blogs/regnskap/hva-er-periodisering "Hva er Periodisering? Prinsipper og Praktiske Eksempler"), [balanse](/blogs/regnskap/hva-er-balanse "Hva er Balanse? En Guide til Balanseregnskap"), [utsatt skatt](/blogs/kontoplan/2120-utsatt-skatt "Konto 2120 - Utsatt skatt i Norsk Standard Kontoplan"), og [pensjonsforpliktelser](/blogs/kontoplan/2100-pensjonsforpliktelser "Konto 2100 - Pensjonsforpliktelser i Norsk Standard Kontoplan").
+
+
+

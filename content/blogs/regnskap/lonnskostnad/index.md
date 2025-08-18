@@ -232,3 +232,5 @@ Effektiv hÃ¥ndtering av lÃ¸nnskostnader er essensielt for bedriftens **lÃ¸
 * [Hva er Feriepenger?](/blogs/regnskap/hva-er-feriepenger "Hva er Feriepenger? Beregning og RegnskapsfÃ¸ring")
 * [Hva er Driftskostnader?](/blogs/regnskap/hva-er-driftskostnader "Hva er Driftskostnader? Komplett Guide til Kostnadstyper og RegnskapsfÃ¸ring")
 * [Hva er Ansattreskontro?](/blogs/regnskap/hva-er-ansattreskontro "Hva er Ansattreskontro? En Guide til Ansattkontoer i Regnskap")
+
+

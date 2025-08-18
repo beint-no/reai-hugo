@@ -42,3 +42,6 @@ En enkel oversikt over beregningen kan vises slik:
 ## Relaterte konsepter
 
 Ã…rsresultat er nÃ¦rt knyttet til [resultat](/blogs/regnskap/resultat "Resultat: Oversikt over Inntekter og Kostnader") og [Ã¥rsavslutning](/blogs/regnskap/hva-er-aarsavslutning "Ã…rsavslutning: Guide til Ã…rsavslutning i Norsk Regnskap"). For detaljer om skattepostene som pÃ¥virker Ã¥rsresultatet, se ogsÃ¥ [skatt](/blogs/regnskap/hva-er-skatt "Skatt: Komplett Guide til Norsk Skattesystem").
+
+
+

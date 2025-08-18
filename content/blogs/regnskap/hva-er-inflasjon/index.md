@@ -21,7 +21,7 @@ Inflasjon oppstÃ¥r nÃ¥r den generelle prisen pÃ¥ varer og tjenester stiger
 
 **Inflasjonsrate (%) = ((KPI i Ã¥r - KPI i fjor) / KPI i fjor) Ã— 100**
 
-Tall for KPI publiseres mÃ¥nedlig av **[Statistisk sentralbyrÃ¥ (SSB)](/blogs/regnskap/statistisk-sentralbyra "Statistisk sentralbyrÃ¥ (SSB) â€“ Offisiell statistikk og betydning for regnskap i Norge")**, som er primÃ¦rkilde for prisindekser.  
+Tall for KPI publiseres mÃ¥nedlig av **[Statistisk sentralbyrÃ¥ (SSB)](/blogs/regnskap/statistisk-sentralbyra "Statistisk sentralbyrÃ¥ (SSB) “ Offisiell statistikk og betydning for regnskap i Norge")**, som er primÃ¦rkilde for prisindekser.  
 
 ![Diagram som viser beregning av inflasjon og dens komponenter](inflasjon-beregning.svg)
 
@@ -296,3 +296,5 @@ Ved Ã¥ ta hÃ¸yde for inflasjon i alle finansielle beslutninger kan bedrifter
 **Husk:** Inflasjon er ikke bare et makroÃ¸konomisk fenomen - det pÃ¥virker hver enkelt bedrifts daglige drift og langsiktige strategi. Proaktiv hÃ¥ndtering av inflasjon er avgjÃ¸rende for bÃ¦rekraftig vekst og lÃ¸nnsomhet.
 
 For scenarier med bÃ¥de hÃ¸y inflasjon og lav vekst, se [Hva er Stagflasjon?](/blogs/regnskap/hva-er-stagflasjon "Hva er Stagflasjon? ForstÃ¥ kombinasjonen av inflasjon og Ã¸konomisk stagnasjon").
+
+

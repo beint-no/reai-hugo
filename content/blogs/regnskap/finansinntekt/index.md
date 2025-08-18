@@ -9,9 +9,9 @@ layout: pages/single
 
 **Finansinntekt** er inntekter som oppstÃ¥r fra virksomhetens finansielle aktiviteter, som **renter**, **utbytte** og **kapitalgevinster**. ForstÃ¥else av finansinntekt er viktig for korrekt regnskapsfÃ¸ring og skatteberegning i norsk regnskap.
 
-For mer innsikt i [Utbytteaksjer](/blogs/regnskap/utbytteaksjer "Utbytteaksjer â€“ Guide til utbytteaksjer og utbytteavkastning"), se vÃ¥r guide til utbytteaksjer.
+For mer innsikt i [Utbytteaksjer](/blogs/regnskap/utbytteaksjer "Utbytteaksjer “ Guide til utbytteaksjer og utbytteavkastning"), se vÃ¥r guide til utbytteaksjer.
  
-For en mer helhetlig forstÃ¥else av **kapitalinntekter**, se [Kapitalinntekt](/blogs/regnskap/kapitalinntekt "Kapitalinntekt â€“ InnfÃ¸ring i renter, utbytte, leieinntekter og kapitalgevinster i norsk regnskap").
+For en mer helhetlig forstÃ¥else av **kapitalinntekter**, se [Kapitalinntekt](/blogs/regnskap/kapitalinntekt "Kapitalinntekt “ InnfÃ¸ring i renter, utbytte, leieinntekter og kapitalgevinster i norsk regnskap").
 
 ![Finansinntekt](finansinntekt-image.svg)
 
@@ -33,7 +33,7 @@ RegnskapsfÃ¸ring fÃ¸lger alle prinsipper for inntektsfÃ¸ring, men spesifik
 |---------------------------|--------------------------------------------------------------------------|
 | Inntektstidspunkt         | Tidspunkt for opptjening i henhold til kontrakt eller transaksjon         |
 | BokfÃ¸ringskonto           | Vanligvis konto **80X0** i kontoklasse 8 (Finansinntekter)                |
-| Skattemessig behandling   | Ofte beskattet som alminnelig inntekt; se [Alminnelig inntekt](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt â€“ Komplett guide til skattemessig resultat og beregning") |
+| Skattemessig behandling   | Ofte beskattet som alminnelig inntekt; se [Alminnelig inntekt](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt “ Komplett guide til skattemessig resultat og beregning") |
 
 ## Skatteregler for finansinntekt
 
@@ -71,6 +71,9 @@ Typiske konti finnes i kontoklasse 8, se [Hva er kontoklasser?](/blogs/regnskap/
 
 ## Videre lesning
 
-* [Alminnelig inntekt](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt â€“ Komplett guide til skattemessig resultat og beregning")
+* [Alminnelig inntekt](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt “ Komplett guide til skattemessig resultat og beregning")
 * [Hva er Finansregnskap?](/blogs/regnskap/hva-er-finansregnskap "Hva er Finansregnskap? Oversikt og regnskapsregler")
 * [Hva er Avsetning?](/blogs/regnskap/avsetning "Hva er Avsetning? Guide til periodisering og balansefÃ¸ring")
+
+
+

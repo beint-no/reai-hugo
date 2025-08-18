@@ -23,7 +23,7 @@ layout: pages/single
 * **PoengÃ¥r:** Minimum 3 poengÃ¥r etter fylte 16 Ã¥r  
 * **Alle muligheter** for arbeidsrettede tiltak er vurdert
 
-For Ã¥ beskytte inntekt utover ufÃ¸retrygd kan man tegne en privat **ufÃ¸reforsikring**. Les mer i [UfÃ¸reforsikring](/blogs/regnskap/uforeforsikring "UfÃ¸reforsikring â€“ Guide til Private UfÃ¸reforsikringer i Norge").
+For Ã¥ beskytte inntekt utover ufÃ¸retrygd kan man tegne en privat **ufÃ¸reforsikring**. Les mer i [UfÃ¸reforsikring](/blogs/regnskap/uforeforsikring "UfÃ¸reforsikring “ Guide til Private UfÃ¸reforsikringer i Norge").
 
 ### 1.2 Skatteplikt pÃ¥ UfÃ¸retrygd
 
@@ -576,3 +576,5 @@ Digitalisering og automatisering vil fortsette Ã¥ forenkle administrasjon av u
 **Strategisk betydning:**
 
 Korrekt hÃ¥ndtering av skatt pÃ¥ ufÃ¸retrygd bidrar ikke bare til regelverksetterlevelse, men ogsÃ¥ til sosial inkludering og [bÃ¦rekraftig](/blogs/regnskap/hva-er-barekraft "Hva er BÃ¦rekraft? ESG og BÃ¦rekraftig RegnskapsfÃ¸ring") virksomhetsdrift. Ved Ã¥ forstÃ¥ og anvende reglene proaktivt kan bÃ¥de privatpersoner og organisasjoner optimalisere bÃ¥de Ã¸konomiske og sosiale utfall.
+
+

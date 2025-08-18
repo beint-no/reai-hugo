@@ -70,3 +70,6 @@ For regnskapsfÃ¸rere og HR-ansvarlige er gjennomsnittslÃ¸nn et viktig verkt�
 ## Oppsummering
 
 GjennomsnittslÃ¸nn i Norge gir et overblikk over hvordan norsk arbeidsliv belÃ¸nner ulike yrker, bransjer og regioner. Ved Ã¥ forstÃ¥ disse tallene kan virksomheter sikre konkurransedyktige lÃ¸nnstilbud, korrekt budsjettÂ­hÃ¥ndtering og solid lÃ¸nnsstyring.
+
+
+

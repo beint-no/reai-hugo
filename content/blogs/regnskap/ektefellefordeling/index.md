@@ -38,7 +38,7 @@ FÃ¸lg disse trinnene for Ã¥ foreta ektefellefordeling i skattemeldingen:
 
 1. _Avtal_: Avklar hvilke fradrag eller inntekter som skal fordeles.
 2. _Dokumenter_: Noter avtalen i egen skattemelding for begge ektefeller.
-3. _Fyll ut_: Angi andel i skjema RF-1030 ([personinntekt](/blogs/regnskap/personinntekt "Personinntekt â€“ Komplett guide til personinntekt i norsk regnskap")) eller RF-1176 (nÃ¦ringsoppgave) for selvstendig nÃ¦ringsdrivende.
+3. _Fyll ut_: Angi andel i skjema RF-1030 ([personinntekt](/blogs/regnskap/personinntekt "Personinntekt “ Komplett guide til personinntekt i norsk regnskap")) eller RF-1176 (nÃ¦ringsoppgave) for selvstendig nÃ¦ringsdrivende.
 4. _Kontroller_: Sjekk at fordelingen er i samsvar med skattemyndighetenes regler.
 
 ### Eksempel pÃ¥ fordeling av underskudd
@@ -79,3 +79,6 @@ Fordeling av fradrag og inntekter gir flere fordeler, men ogsÃ¥ noen begrensni
 ## Konklusjon
 
 **Ektefellefordeling** er et kraftfullt verktÃ¸y i norsk skatterett som kan gi ektefeller mulighet til Ã¥ optimalisere skatten gjennom bevisst fordeling av fradrag og inntekter. Ved Ã¥ fÃ¸lge gjeldende regler, dokumentere avtaler og levere korrekt informasjon i skattemeldingen, kan fordelingen gi betydelige skattemessige fordeler.
+
+
+

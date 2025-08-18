@@ -54,8 +54,10 @@ Visse virksomheter kan unntas eller velge forenklet revisjonsordning:
 
 ## Se ogsÃ¥
 
-* [Revisjon](/blogs/regnskap/revisjon "Revisjon") â€“ Oversikt over revisjonsprosessen.
-* [Revisor](/blogs/regnskap/revisor "Revisor") â€“ Oversikt over revisorens rolle og ansvar.
-* [Revisorloven](/blogs/regnskap/hva-er-revisorloven "Hva er Revisorloven?") â€“ Regelverk for revisorers rolle og ansvar.
-* [Revisjonsberetning](/blogs/regnskap/hva-er-revisjonsberetning "Hva er Revisjonsberetning?") â€“ Rapporten fra revisor.
-* [Bokettersyn](/blogs/regnskap/bokettersyn "Hva er Bokettersyn?") â€“ Kontroll av bokfÃ¸ringsplikt og regnskapsmateriale.
+* [Revisjon](/blogs/regnskap/revisjon "Revisjon") “ Oversikt over revisjonsprosessen.
+* [Revisor](/blogs/regnskap/revisor "Revisor") “ Oversikt over revisorens rolle og ansvar.
+* [Revisorloven](/blogs/regnskap/hva-er-revisorloven "Hva er Revisorloven?") “ Regelverk for revisorers rolle og ansvar.
+* [Revisjonsberetning](/blogs/regnskap/hva-er-revisjonsberetning "Hva er Revisjonsberetning?") “ Rapporten fra revisor.
+* [Bokettersyn](/blogs/regnskap/bokettersyn "Hva er Bokettersyn?") “ Kontroll av bokfÃ¸ringsplikt og regnskapsmateriale.
+
+

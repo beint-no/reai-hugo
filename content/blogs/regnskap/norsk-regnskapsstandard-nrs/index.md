@@ -338,3 +338,5 @@ Et voksende IT-selskap gikk over fra forenklet regnskap til NRS:
 * **Faglige databaser** - Tilgang til standarder og tolkninger
 
 Norsk regnskapsstandard representerer en balansert tilnÃ¦rming til regnskapsfÃ¸ring som kombinerer internasjonale beste praksis med norske sÃ¦regenheter. For de fleste norske virksomheter gir NRS et praktisk og kostnadseffektivt rammeverk for Ã¥ sikre [god regnskapsskikk](/blogs/regnskap/god-regnskapsskikk "God Regnskapsskikk - Prinsipper, Standarder og Beste Praksis i Norge") og transparent finansiell rapportering. Ved Ã¥ fÃ¸lge NRS kan bedrifter sikre bÃ¥de lovmessig overholdelse og hÃ¸y kvalitet i sin regnskapsfÃ¸ring.
+
+

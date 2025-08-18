@@ -25,7 +25,7 @@ NettolÃ¸nn = BruttolÃ¸nn - Skattetrekk - Trygdeavgift - Pensjonsinnskudd - A
 
 | Fradragskomponent           | Beskrivelse                                                                                                         |
 |-----------------------------|---------------------------------------------------------------------------------------------------------------------|
-| **Skattetrekk**             | Skatteprosent fastsatt av skattemyndighetene (se [Aâ€‘melding](/blogs/regnskap/hva-er-a-melding "Hva er Aâ€‘melding? Komplett Guide til Innlevering og Frister")) |
+| **Skattetrekk**             | Skatteprosent fastsatt av skattemyndighetene (se [A‘melding](/blogs/regnskap/hva-er-a-melding "Hva er A‘melding? Komplett Guide til Innlevering og Frister")) |
 | **Trygdeavgift**            | Arbeidstakerens andel til folketrygden (per [Folketrygden](/blogs/regnskap/hva-er-folketrygden "Hva er Folketrygden? En oversikt over trygdeordninger"))        |
 | **Pensjonsinnskudd**        | Innskudd til obligatorisk tjenestepensjon eller privat pensjonsordning                                               |
 | **Fagforeningskontingent**  | Fradrag for medlemsavgift i fagforening                                                                              |
@@ -51,6 +51,8 @@ NettolÃ¸nn = BruttolÃ¸nn - Skattetrekk - Trygdeavgift - Pensjonsinnskudd - A
 
 For mer om lÃ¸nnsrapportering og -dokumentasjon, se:
 
-* [Hva er Aâ€‘melding?](/blogs/regnskap/hva-er-a-melding "Hva er Aâ€‘melding? Komplett Guide til Innlevering og Frister")
+* [Hva er A‘melding?](/blogs/regnskap/hva-er-a-melding "Hva er A‘melding? Komplett Guide til Innlevering og Frister")
 * [Hva er LÃ¸nn](/blogs/regnskap/hva-er-lonn "Hva er LÃ¸nn i Regnskap? Komplett Guide til LÃ¸nnsformer, Beregning og RegnskapsfÃ¸ring")
 * [Hva er Feriepenger i Prosent](/blogs/regnskap/feriepenger-i-prosent "Feriepenger i Prosent: Beregning og Utbetaling")
+
+

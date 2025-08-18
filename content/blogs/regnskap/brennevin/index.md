@@ -52,3 +52,6 @@ For riktig fÃ¸ring av kjÃ¸p, avgiftene og salg av brennevin anbefales det Ã
 ## Oppsummering
 
 Brennevin krever nÃ¸ye hÃ¥ndtering av bÃ¥de **alkoholavgift** og **merverdiavgift**, i tillegg til korrekt bokfÃ¸ring i henhold til gjeldende lover og kontoplanstandarder. Ved Ã¥ fÃ¸lge anbefalte praksiser for sÃ¦ravgiftsberegning og MVA-behandling sikrer bedriften etterlevelse av regelverket og presis regnskapsrapportering.
+
+
+

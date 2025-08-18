@@ -59,3 +59,5 @@ Se vÃ¥r [Fritaksmetoden - Skattefritak for aksjegevinst og utbytte](/blogs/reg
 * Selskaper rapporterer via RF-1167 og Ã¥rsregnskapet.
 
 For mer omfattende info om beregning av kapitalgevinst, se [Hva er kapitalgevinst?](/blogs/regnskap/hva-er-kapitalgevinst "Hva er kapitalgevinst? Komplett Guide til Skatt og RegnskapsfÃ¸ring").
+
+

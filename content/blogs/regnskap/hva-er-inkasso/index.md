@@ -296,3 +296,5 @@ Inkasso er en kompleks og viktig del av moderne forretningsdrift som krever grun
 Den digitale utviklingen skaper nye muligheter for mer effektiv og kundevennlig inkasso, samtidig som den stiller nye krav til personvern og sikkerhet. Fremtidens inkasso vil vÃ¦re preget av automatisering, personalisering og Ã¸kt fokus pÃ¥ skyldnerens opplevelse.
 
 For bedrifter er det viktig Ã¥ ha en helhetlig tilnÃ¦rming til [fordringshÃ¥ndtering](/blogs/regnskap/hva-er-ansattreskontro "Hva er Ansattreskontro? Komplett Guide til KundeoppfÃ¸lging og Fordringsstyring") som balanserer behovet for innkreving med opprettholdelse av gode kundeforhold. Korrekt regnskapsfÃ¸ring og systematisk oppfÃ¸lging av inkassoaktiviteter er avgjÃ¸rende for Ã¥ opprettholde [likviditet](/blogs/regnskap/hva-er-betalingsevne "Hva er Betalingsevne? Analyse av Likviditet og Finansiell Stabilitet") og finansiell stabilitet.
+
+

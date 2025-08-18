@@ -291,3 +291,5 @@ Ved Ã¥ forstÃ¥ grunnlÃ¸nn som konsept og dens rolle i det totale lÃ¸nnss
 
 For en bredere oversikt over lÃ¸nnsnivÃ¥ i Norge, se ogsÃ¥ [GjennomsnittslÃ¸nn i Norge](/blogs/regnskap/gjennomsnittslonn-i-norge "GjennomsnittslÃ¸nn i Norge").
 Se [Hva er LÃ¸nn](/blogs/regnskap/hva-er-lonn "Hva er LÃ¸nn i Regnskap? Komplett Guide til LÃ¸nnsformer, Beregning og RegnskapsfÃ¸ring").
+
+

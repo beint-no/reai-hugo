@@ -44,8 +44,8 @@ Tabellen under viser en sammenligning av de to hovedformene for remittering:
 
 | Kriterium            | Direkte Remittering              | Indirekte Remittering                |
 |----------------------|----------------------------------|--------------------------------------|
-| **Behandlingstid**   | Umiddelbar til 1 virkedag        | 1â€“3 virkedager                       |
-| **Kostnad**          | Lavâ€“middels                      | Middelsâ€“hÃ¸y                          |
+| **Behandlingstid**   | Umiddelbar til 1 virkedag        | 1“3 virkedager                       |
+| **Kostnad**          | Lav“middels                      | Middels“hÃ¸y                          |
 | **Sikkerhet**        | HÃ¸y                              | Variabel, avhengig av mellomledd     |
 | **Sporbarhet**       | Utmerket                         | God                                  |
 | **Avhengighet**      | Bank-til-Bank                    | Betalingsplattform eller bank        |
@@ -128,3 +128,5 @@ FÃ¸lg disse retningslinjene for Ã¥ optimalisere remitteringsprosessen:
 **Remittering** er en robust og fleksibel betalingsmetode som dekker bÃ¥de direkte og indirekte overfÃ¸ringer. Ved Ã¥ forstÃ¥ typer, prosesser og regulatoriske krav, kan virksomheter dra nytte av effektive, sikre og kostnadseffektive betalingslÃ¸sninger.
 
 For mer dypgÃ¥ende innsikt i direkte remittering, se [Hva er direkte remittering?](/blogs/regnskap/hva-er-direkte-remittering "Hva er Direkte Remittering? Komplett Guide til Direkte OverfÃ¸ringer").
+
+

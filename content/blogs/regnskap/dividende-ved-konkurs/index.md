@@ -34,15 +34,15 @@ For Ã¥ sikre rettferdighet fastsetter konkursloven en **prioriteringsrekkefÃ�
 Selve **dividenten** beregnes ved Ã¥ dele gjenvÃ¦rende midler pÃ¥ kravene i aktuell prioritet:
 
 ```text
-Divident = (Tilgjengelige midler â€“ Sum krav i hÃ¸yere prioritet) / Antall krav i denne prioritet
+Divident = (Tilgjengelige midler “ Sum krav i hÃ¸yere prioritet) / Antall krav i denne prioritet
 ```
 
 Eksempel:
 * Tilgjengelige midler: 1Â 000Â 000Â kr
-* Sum krav i prioritetÂ 1â€“2: 600Â 000Â kr
+* Sum krav i prioritetÂ 1“2: 600Â 000Â kr
 * Antall usikrede krav (prioritetÂ 4): 20
 
-> Divident for prioritetÂ 4Â = (1Â 000Â 000 â€“ 600Â 000) / 20 = 20Â 000Â kr per krav
+> Divident for prioritetÂ 4Â = (1Â 000Â 000 “ 600Â 000) / 20 = 20Â 000Â kr per krav
 
 ## Praktiske hensyn og interne lenker
 
@@ -64,3 +64,6 @@ Hvis det ikke er nok midler til Ã¥ dekke hele prioritetÂ 5, fÃ¥r ingen aks
 Sikrede fordringer (prioritetÂ 3) fÃ¥r ofte vesentlig hÃ¸yere dekningsgrad enn usikrede fordringshavere.
 
 Ved spÃ¸rsmÃ¥l om mer detaljerte krav og regnskapsmessig behandling, se [Konkursloven](/blogs/regnskap/hva-er-konkursloven "Hva er Konkursloven? Oversikt og viktige bestemmelser").
+
+
+

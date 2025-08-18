@@ -506,3 +506,5 @@ Ved Ã¥ fÃ¸lge disse prinsippene og tilpasse kassestyringsstrategien til sels
 ## Relaterte Konsepter
 
 * [Kassekreditt](/blogs/regnskap/kassekreditt "Kassekreditt: Overdraft og Likviditetsstyring")
+
+

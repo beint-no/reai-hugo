@@ -56,3 +56,5 @@ For detaljer om de ulike inntektskategoriene, se [Driftsinntekter](/blogs/regnsk
 ## Oppsummering
 
 Topplinje, eller totale driftsinntekter, er en **kritisk indikator** i resultatregnskapet som viser selskapets inntektsgrunnlag fÃ¸r kostnader, finansposter og skatt. Ved Ã¥ forstÃ¥ hvordan topplinjen er sammensatt og hvorfor den er viktig, kan bedrifter gjÃ¸re mer informerte beslutninger om vekst, prisstrategi og budsjettering.
+
+

@@ -71,3 +71,5 @@ Personlig ansvar kan pÃ¥dra styremedlemmer erstatningsansvar ved brudd pÃ¥ [
 ## Konklusjon
 
 Styremedlem er en **ansvarlig rolle** med strategisk, juridisk og Ã¸konomisk betydning i norske aksjeselskaper. Kunnskap om plikter og ansvar bidrar til effektivt styrearbeid og trygg selskapsstyring.
+
+

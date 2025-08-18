@@ -22,7 +22,7 @@ Virkedager omfatter alle ukedager unntatt **lÃ¸rdager**, **sÃ¸ndager** og **
 For Ã¥ beregne antall virkedager mellom to datoer kan man bruke en enkel formel:
 
 ```text
-Antall virkedager = Totalt antall dager â€“ (Antall lÃ¸rdager + Antall sÃ¸ndager + Antall offentlige helligdager)
+Antall virkedager = Totalt antall dager “ (Antall lÃ¸rdager + Antall sÃ¸ndager + Antall offentlige helligdager)
 ```
 
 | **Periode**      | **Startdato** | **Sluttdato** | **Antall virkedager** |
@@ -54,3 +54,5 @@ Virkedager er sentralt ved fastsettelse av rapporterings- og betalingsfrister. M
 3. Implementer automatiske varsler for Ã¥ unngÃ¥ at frister faller i helg eller helligdag.
 
 Ved Ã¥ mestre beregningen av **virkedager** kan regnskapsfÃ¸rere og bedriftseiere unngÃ¥ forsinkelsesgebyrer og sikre riktig rapportering.
+
+

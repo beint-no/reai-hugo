@@ -85,7 +85,7 @@ Effektiv innkjÃ¸psplanlegging inkluderer:
 * **LeveringsoppfÃ¸lging:** Kontroll av leveringstider og produktkvalitet
 * **Fakturabehandling:** [Bilagsmottak](/blogs/regnskap/hva-er-bilagsmottak "Bilagsmottak - Komplett Guide til Dokumentmottak og Fakturabehandling") og verifikasjon
 * **BetalingshÃ¥ndtering:** Punktlig betaling for Ã¥ opprettholde gode leverandÃ¸rforhold
-* **KontantkjÃ¸p:** Direkte betaling ved levering med kontanter; se [KontantkjÃ¸p](/blogs/regnskap/kontantkjop "KontantkjÃ¸p â€“ Komplett Guide til RegnskapsfÃ¸ring av KontantkjÃ¸p")
+* **KontantkjÃ¸p:** Direkte betaling ved levering med kontanter; se [KontantkjÃ¸p](/blogs/regnskap/kontantkjop "KontantkjÃ¸p “ Komplett Guide til RegnskapsfÃ¸ring av KontantkjÃ¸p")
 
 ### Fasen 3: Mottak og Kontroll
 
@@ -324,3 +324,5 @@ VarekjÃ¸psprosesser er i kontinuerlig utvikling drevet av teknologiske fremskr
 * **Personaliserte produkter:** Mass customization og on-demand produksjon
 * **Direktelevering:** Drop-shipping direkte fra leverandÃ¸r til kunde
 * **Integrerte kunneopplevelser:** SÃ¸mlÃ¸s opplevelse pÃ¥ tvers av alle salgkanal
+
+

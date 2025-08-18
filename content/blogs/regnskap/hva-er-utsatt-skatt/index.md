@@ -15,7 +15,7 @@ layout: pages/single
 Regnskapsregler og skatteregler har ofte forskjellige vurderingsregler for eiendeler og forpliktelser. NÃ¥r disse reglene avviker, oppstÃ¥r **midlertidige forskjeller** som gir grunnlag for utsatt skatt:
 
 * **Regnskapsmessig avskrivning** vs. **skattemessig avskrivning** ([Hva er Avskrivning?](/blogs/regnskap/hva-er-avskrivning "Hva er Avskrivning? Prinsipper og Eksempler")).
-* **Varelager**: bokfÃ¸rt verdi mot skattemessig verdi ([Hva er Varelager?](/blogs/regnskap/hva-er-varelager "Hva er Varelager â€“ RegnskapsfÃ¸ring og Vurdering")).
+* **Varelager**: bokfÃ¸rt verdi mot skattemessig verdi ([Hva er Varelager?](/blogs/regnskap/hva-er-varelager "Hva er Varelager “ RegnskapsfÃ¸ring og Vurdering")).
 * **Pensjonsforpliktelser** behandles forskjellig i regnskap og skatt ([Hva er Tjenestepensjon?](/blogs/regnskap/hva-er-tjenestepensjon "Hva er Tjenestepensjon? RegnskapsfÃ¸ring og Skatt")).
 * **Andre midlertidige differanser**: avsetninger, nedskrivninger, periodiseringer.
 
@@ -31,7 +31,7 @@ Utsatt skatt beregnes som produktet av de midlertidige forskjellene og gjeldende
 ## BokfÃ¸ring av utsatt skatt
 Utsatt skatt fÃ¸res i balansen enten som **utsatt skattefordel** (eiendel) eller **utsatt skattegjeld** (forpliktelse). Behandlingen avhenger av om forskjellen vil gi fremtidige skattemessige fordeler eller kostnader.
 
-For en grundig gjennomgang av **utsatt skattefordel**, se [Utsatt skattefordel](/blogs/regnskap/utsatt-skattefordel "Utsatt skattefordel â€“ Guide til beregning og bokfÃ¸ring").
+For en grundig gjennomgang av **utsatt skattefordel**, se [Utsatt skattefordel](/blogs/regnskap/utsatt-skattefordel "Utsatt skattefordel “ Guide til beregning og bokfÃ¸ring").
 
 | **Endring**                         | **Debet**                    | **Kredit**                  |
 |-------------------------------------|------------------------------|-----------------------------|
@@ -65,9 +65,11 @@ Kredit 8800 Skattekostnad            22Â 000
 
 ## Videre lesning
 
-* [Utsatt skattefordel](/blogs/regnskap/utsatt-skattefordel "Utsatt skattefordel â€“ Guide til beregning og bokfÃ¸ring")
-* [Midlertidige forskjeller](/blogs/regnskap/midlertidige-forskjeller "Midlertidige forskjeller i regnskap â€“ Forklaring og Eksempler")
-* [Permanente forskjeller](/blogs/regnskap/permanente-forskjeller "Permanente forskjeller â€“ Hva er permanente skatteavvik?")
+* [Utsatt skattefordel](/blogs/regnskap/utsatt-skattefordel "Utsatt skattefordel “ Guide til beregning og bokfÃ¸ring")
+* [Midlertidige forskjeller](/blogs/regnskap/midlertidige-forskjeller "Midlertidige forskjeller i regnskap “ Forklaring og Eksempler")
+* [Permanente forskjeller](/blogs/regnskap/permanente-forskjeller "Permanente forskjeller “ Hva er permanente skatteavvik?")
 * [Ã…rsavslutning](/blogs/regnskap/hva-er-aarsavslutning "Hva er Ã…rsavslutning? Prosess og Viktige Poster")
 * [Skattemelding](/blogs/regnskap/skattemelding "Skattemelding - Komplett Guide til Utfylling og Innlevering")
 * [Hva er en faktura?](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav")
+
+

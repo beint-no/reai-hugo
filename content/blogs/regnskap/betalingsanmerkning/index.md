@@ -330,3 +330,6 @@ Som regnskapsfÃ¸rer er det viktig Ã¥ ha klare rutiner for hÃ¥ndtering av b
 * Hold deg oppdatert pÃ¥ endringer i kreditt- og inkassoregelverk
 
 Effektiv hÃ¥ndtering av betalingsanmerkninger krever kombinasjon av juridisk kunnskap, regnskapsfaglig ekspertise og praktisk forretningsforstÃ¥else. Ved Ã¥ fÃ¸lge etablerte prosedyrer og beste praksis kan virksomheter minimere risiko og beskytte sin kredittreputasjon i markedet.
+
+
+

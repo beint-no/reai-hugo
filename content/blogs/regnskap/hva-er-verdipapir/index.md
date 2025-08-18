@@ -48,3 +48,5 @@ Regnskapsprinsipper for verdipapirer kan variere avhengig av regnskapsstandard (
 ## Oppsummering
 
 Verdipapirer er grunnpilarer i moderne finans og regnskap. Ved Ã¥ forstÃ¥ **definisjon**, **klassifisering** og **regnskapsprinsipper** knyttet til verdipapirer kan bÃ¥de privatpersoner og bedrifter ta bedre investeringsbeslutninger og sikre korrekt bokfÃ¸ring.
+
+

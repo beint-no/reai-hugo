@@ -1,6 +1,6 @@
 ﻿---
-title: "Salg â€“ Komplett Guide til Salg i Norsk Regnskap"
-meta_title: "Salg â€“ Komplett Guide til Salg i Norsk Regnskap"
+title: "Salg “ Komplett Guide til Salg i Norsk Regnskap"
+meta_title: "Salg “ Komplett Guide til Salg i Norsk Regnskap"
 meta_description: '**Salg** er en transaksjon hvor varer eller tjenester overfÃ¸res fra selger til kjÃ¸per, ofte mot betaling eller forpliktelse til betaling. I norsk regnskap er ...'
 slug: salg
 type: blog
@@ -17,7 +17,7 @@ Det finnes flere mÃ¥ter Ã¥ kategorisere salg pÃ¥ avhengig av betalingsform
 
 | **Type salg**      | **Beskrivelse**                                                                                                         |
 |--------------------|-------------------------------------------------------------------------------------------------------------------------|
-| **Kontantsalg**    | Umiddelbar betaling ved levering av varer eller tjenester. Se [Kontantsalg](/blogs/regnskap/kontantsalg "Kontantsalg â€“ Komplett Guide til RegnskapsfÃ¸ring av Kontantsalg"). |
+| **Kontantsalg**    | Umiddelbar betaling ved levering av varer eller tjenester. Se [Kontantsalg](/blogs/regnskap/kontantsalg "Kontantsalg “ Komplett Guide til RegnskapsfÃ¸ring av Kontantsalg"). |
 | **Fakturasalg**    | Inntekt registreres ved fakturautstedelse, uavhengig av betalingstidspunkt. Se [Fakturasalg](/blogs/regnskap/hva-er-fakturasalg "Hva er fakturasalg? Komplett Guide til Fakturasalg"). |
 | **Abonnementsalg** | LÃ¸pende leveranse mot periodiske betalinger (for eksempel medlemskap eller lisenser).                                     |
 | **Nettbasert salg**| Salg via nettbutikk eller digitale plattformer, ofte med elektronisk fakturering og betaling.                             |
@@ -66,13 +66,15 @@ Ved betaling av faktura reverseres debetposten pÃ¥ kundefordringer:
 
 ## Sammenheng med andre regnskapsbegreper
 
-* **[Omsetning](/blogs/regnskap/hva-er-omsetning "Hva er omsetning? Komplett Guide til Omsetning i Regnskap og Skatt")** â€“ MÃ¥ler bruttoverdi av alle salg
-* **[Inntekter](/blogs/regnskap/hva-er-inntekter "Hva er Inntekter? Komplett Guide til Inntektstyper og RegnskapsfÃ¸ring")** â€“ Resultat av salg etter fradrag av eventuelle rabatter eller returer
-* **[KontantstrÃ¸m](/blogs/regnskap/hva-er-kontantstrom "Hva er KontantstrÃ¸m? Guide til Cash Flow Analyse og Styring")** â€“ Likviditetseffekt av kontant- og kredittsalg
-* **[Kundefordringer](/blogs/regnskap/hva-er-debitor "Hva er Debitor? Komplett Guide til Kundefordringer og OppfÃ¸lging")** â€“ UtestÃ¥ende krav ved fakturasalg
-* **[VarekjÃ¸p](/blogs/regnskap/hva-er-varekjop "Hva er varekjÃ¸p? Komplett Guide til InnkjÃ¸psstyring")** â€“ Utside av omsetningskjeden, motsatt trafikk
-* **[Kontantkasse](/blogs/regnskap/kontantkasse "Kontantkasse i Regnskap â€“ Guide til Bruk og HÃ¥ndtering")** â€“ Oppbevaring ved kontantsalg
+* **[Omsetning](/blogs/regnskap/hva-er-omsetning "Hva er omsetning? Komplett Guide til Omsetning i Regnskap og Skatt")** “ MÃ¥ler bruttoverdi av alle salg
+* **[Inntekter](/blogs/regnskap/hva-er-inntekter "Hva er Inntekter? Komplett Guide til Inntektstyper og RegnskapsfÃ¸ring")** “ Resultat av salg etter fradrag av eventuelle rabatter eller returer
+* **[KontantstrÃ¸m](/blogs/regnskap/hva-er-kontantstrom "Hva er KontantstrÃ¸m? Guide til Cash Flow Analyse og Styring")** “ Likviditetseffekt av kontant- og kredittsalg
+* **[Kundefordringer](/blogs/regnskap/hva-er-debitor "Hva er Debitor? Komplett Guide til Kundefordringer og OppfÃ¸lging")** “ UtestÃ¥ende krav ved fakturasalg
+* **[VarekjÃ¸p](/blogs/regnskap/hva-er-varekjop "Hva er varekjÃ¸p? Komplett Guide til InnkjÃ¸psstyring")** “ Utside av omsetningskjeden, motsatt trafikk
+* **[Kontantkasse](/blogs/regnskap/kontantkasse "Kontantkasse i Regnskap “ Guide til Bruk og HÃ¥ndtering")** “ Oppbevaring ved kontantsalg
 
 ## Avslutning
 
 Salg er kjernen i de fleste forretningsmodeller og pÃ¥virker bÃ¥de likviditet, arbeidskapital og resultat. Ved Ã¥ fÃ¸lge klare rutiner for dokumentasjon, bokfÃ¸ring og internkontroll, kan virksomheter sikre nÃ¸yaktig regnskapsfÃ¸ring og bedre beslutningsgrunnlag.
+
+

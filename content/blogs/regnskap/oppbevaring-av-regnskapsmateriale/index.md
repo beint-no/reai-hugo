@@ -43,7 +43,7 @@ Oppbevaringsfristene varierer avhengig av type dokument og virksomhetens karakte
 | **Revisjonsberetning** | 10 Ã¥r | Revisorloven Â§ 6-4 | For revisjonspliktge selskaper |
 | **LÃ¸nnsbilag** | 5 Ã¥r | BokfÃ¸ringsloven Â§ 13 | Inkluderer [lÃ¸nnsslipp](/blogs/regnskap/hva-er-lonnslipp "Hva er LÃ¸nnsslipp? Komplett Guide til LÃ¸nnsutbetalinger og Dokumentasjon") |
 | **MVA-dokumenter** | 10 Ã¥r | Merverdiavgiftsloven Â§ 21-1 | Alle [MVA-relaterte](/blogs/regnskap/hva-er-moms-mva "Hva er Moms/MVA? Komplett Guide til Merverdiavgift i Norge") dokumenter |
-| **Skattedokumenter** | 10 Ã¥r | Skatteforvaltningsloven Â§ 8-12 | Inkluderer [ligningspapirer](/blogs/regnskap/ligningspapirer "Ligningspapirer â€“ Guide til krav, dokumentasjon og oppbevaring"), selvangivelse og andre vedlegg |
+| **Skattedokumenter** | 10 Ã¥r | Skatteforvaltningsloven Â§ 8-12 | Inkluderer [ligningspapirer](/blogs/regnskap/ligningspapirer "Ligningspapirer “ Guide til krav, dokumentasjon og oppbevaring"), selvangivelse og andre vedlegg |
 | **Kontrakter og avtaler** | 10 Ã¥r | Anbefaling | Avhengig av kontraktens varighet |
 
 ### Spesielle oppbevaringskrav
@@ -370,3 +370,5 @@ Etablering av **[internkontroll](/blogs/regnskap/hva-er-internkontroll "Hva er I
 Moderne digitale lÃ¸sninger tilbyr betydelige fordeler i form av tilgjengelighet, sikkerhet og kostnadseffektivitet, men krever ogsÃ¥ investering i teknologi, opplÃ¦ring og sikkerhetstiltak. Uavhengig av valgt tilnÃ¦rming er det avgjÃ¸rende Ã¥ opprettholde fokus pÃ¥ **kvalitet**, **sikkerhet** og **compliance** gjennom hele oppbevaringsperioden.
 
 Ved Ã¥ fÃ¸lge retningslinjene i denne guiden kan virksomheter etablere robuste arkivsystemer som ikke bare oppfyller lovkrav, men ogsÃ¥ stÃ¸tter effektiv forretningsdrift og beslutningstaking.
+
+

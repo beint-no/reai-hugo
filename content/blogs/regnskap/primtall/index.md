@@ -56,6 +56,8 @@ Denne teknikken reduserer risiko for manuelle feil og automatiserer validering i
 
 ## Relaterte emner
 
-* [ModulÃ¦r aritmetikk](/blogs/regnskap/hva-er-matematikk "ModulÃ¦r Aritmetikk â€“ Oversikt over aritmetiske operasjoner i regnskap")
+* [ModulÃ¦r aritmetikk](/blogs/regnskap/hva-er-matematikk "ModulÃ¦r Aritmetikk “ Oversikt over aritmetiske operasjoner i regnskap")
 * [Hva er Kontonummer?](/blogs/regnskap/hva-er-kontonummer "Hva er Kontonummer? Struktur og Kontrollsiffer i Norge")
 * [Hva er Organisasjonsnummer?](/blogs/regnskap/hva-er-organisasjonsnummer "Hva er Organisasjonsnummer? Unike IDer for Norske Selskaper")
+
+

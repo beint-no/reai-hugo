@@ -59,3 +59,5 @@ For beste praksis ved automatisering av SAF-T-eksport, se vÃ¥r guide til [API-
 ## Oppsummering
 
 SAF-T representerer en viktig utvikling innen digitalisering av norsk regnskapsrapportering. Ved Ã¥ adoptere SAF-T-standard kan virksomheter oppnÃ¥ bedre internkontroll, mer effektive bokettersyn og sikre etterlevelse av [bokfÃ¸ringsloven](/blogs/regnskap/hva-er-bokforingsloven "Hva er BokfÃ¸ringsloven? Krav, Regler og Praktisk Veiledning").
+
+

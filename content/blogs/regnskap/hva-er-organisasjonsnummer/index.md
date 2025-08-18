@@ -258,3 +258,5 @@ For **regnskapsfÃ¸rere** og **bedriftseiere** er det essensielt Ã¥:
 * **Holde** egne opplysninger oppdatert i registeret
 
 Ved Ã¥ fÃ¸lge disse prinsippene sikrer man **korrekt** og **lovlig** bruk av organisasjonsnummeret i all forretningsvirksomhet og regnskapsfÃ¸ring.
+
+

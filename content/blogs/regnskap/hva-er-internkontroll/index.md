@@ -11,11 +11,11 @@ layout: pages/single
 
 I forbindelse med risikovurdering kan det ogsÃ¥ vÃ¦re nyttig Ã¥ utfÃ¸re en [SWOT-analyse](/blogs/regnskap/swot-analyse "SWOT-analyse: Guide for norske virksomheter") for Ã¥ identifisere styrker, svakheter, muligheter og trusler.
 
-En sentral aktÃ¸r i arbeidsmiljÃ¸arbeidet er ogsÃ¥ [ArbeidsmiljÃ¸utvalg (AMU)](/blogs/regnskap/amu "AMU (ArbeidsmiljÃ¸utvalg) â€“ Komplett Guide til ArbeidsmiljÃ¸utvalg i Norge"), som bidrar til Ã¥ styrke samarbeidet om **HMS** og internkontroll i virksomheten. En annen viktig stÃ¸ttespiller er [Bedriftshelsetjeneste](/blogs/regnskap/bedriftshelsetjeneste "Bedriftshelsetjeneste â€“ Guide til Bedriftshelsetjeneste i Norge"), som tilbyr faglige helseundersÃ¸kelser og risikobedÃ¸mmelser for ansatte.
+En sentral aktÃ¸r i arbeidsmiljÃ¸arbeidet er ogsÃ¥ [ArbeidsmiljÃ¸utvalg (AMU)](/blogs/regnskap/amu "AMU (ArbeidsmiljÃ¸utvalg) “ Komplett Guide til ArbeidsmiljÃ¸utvalg i Norge"), som bidrar til Ã¥ styrke samarbeidet om **HMS** og internkontroll i virksomheten. En annen viktig stÃ¸ttespiller er [Bedriftshelsetjeneste](/blogs/regnskap/bedriftshelsetjeneste "Bedriftshelsetjeneste “ Guide til Bedriftshelsetjeneste i Norge"), som tilbyr faglige helseundersÃ¸kelser og risikobedÃ¸mmelser for ansatte.
 
 For Ã¥ forstÃ¥ hvordan internkontroll integreres med den overordnede regnskapsfÃ¸ringen, er det viktig Ã¥ ha kunnskap om [god regnskapsskikk](/blogs/regnskap/god-regnskapsskikk "God Regnskapsskikk - Prinsipper, Standarder og Beste Praksis i Norge"), som danner grunnlaget for pÃ¥litelig finansiell rapportering. Internkontroll arbeider tett sammen med [QA (Quality Assurance)](/blogs/regnskap/hva-er-qa-kvalitetssikring "Hva er QA (Quality Assurance) i Regnskap? Komplett Guide til Kvalitetssikring") for Ã¥ sikre systematisk kvalitetssikring av regnskapsprosesser.
 
-For spesifikke krav styrt av myndighetene, se ogsÃ¥ [Internkontrollforskriften](/blogs/regnskap/internkontrollforskriften "Internkontrollforskriften â€“ Krav, Struktur og Veiledning for Norske Virksomheter").
+For spesifikke krav styrt av myndighetene, se ogsÃ¥ [Internkontrollforskriften](/blogs/regnskap/internkontrollforskriften "Internkontrollforskriften “ Krav, Struktur og Veiledning for Norske Virksomheter").
 
 ![Internkontroll Oversikt](hva-er-internkontroll-image.svg)
 
@@ -367,3 +367,5 @@ Effektiv internkontroll krever kontinuerlig fokus pÃ¥:
 For organisasjoner som Ã¸nsker Ã¥ styrke sin internkontroll, er det essensielt Ã¥ forstÃ¥ sammenhengen med andre kritiske regnskapsprosesser som [avstemming](/blogs/regnskap/hva-er-avstemming "Hva er Avstemming i Regnskap? Komplett Guide til Avstemmingsprosesser") og [dokumentasjon](/blogs/regnskap/hva-er-bilag "Hva er Bilag i Regnskap? Komplett Guide til Regnskapsbilag og Dokumentasjon"), samt Ã¥ sikre at kontrollsystemene stÃ¸tter pÃ¥litelig [finansiell rapportering](/blogs/regnskap/hva-er-finansregnskap "Hva er Finansregnskap? En Komplett Guide til Ekstern Finansiell Rapportering").
 
 Ved Ã¥ investere i solid internkontroll legger organisasjoner grunnlaget for langsiktig suksess, redusert risiko og Ã¸kt tillit fra interessenter.
+
+

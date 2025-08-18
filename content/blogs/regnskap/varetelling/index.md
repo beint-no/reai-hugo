@@ -52,3 +52,5 @@ En typisk varetelling kan gjennomfÃ¸res i fÃ¸lgende steg:
 Etter varetelling er det avgjÃ¸rende Ã¥ gjennomfÃ¸re [avstemming](/blogs/regnskap/hva-er-avstemming "Hva er Avstemming i regnskap?") av lagerverdier. Dette sikrer at eventuelle avvik blir registrert som justeringer i regnskapet og rapportert korrekt i [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse? Komplett Guide til BalansefÃ¸ring"). Se ogsÃ¥ artikkelen om [VarekretslÃ¸pet](/blogs/regnskap/varekretslopet "VarekretslÃ¸pet: Flyt av varer og kapital") for helhetlig oversikt over lagerets Ã¸konomiske syklus.
 
 Gjennom regelmessig **varetelling** oppnÃ¥r bedriften bedre kontroll over lageret, reduserer Ã¸konomisk risiko og sikrer pÃ¥litelige regnskapstall.
+
+

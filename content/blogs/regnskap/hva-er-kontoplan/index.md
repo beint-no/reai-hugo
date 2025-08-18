@@ -254,3 +254,5 @@ En **veldesignet kontoplan** er fundamentet for god regnskapsfÃ¸ring og Ã¸ko
 Ved Ã¥ investere tid i Ã¥ utvikle en god kontoplan, legger bedrifter grunnlaget for effektiv regnskapsfÃ¸ring, bedre Ã¸konomisk kontroll og mer pÃ¥litelig rapportering.
 
 ![Sammendrag av viktigheten av en god kontoplan](kontoplan-konklusjon.svg)
+
+

@@ -36,8 +36,8 @@ ArbeidsmiljÃ¸loven Â§ 15-3 regulerer **[oppsigelsesfrister](/blogs/regnskap/
 | Ansiennitet      | [Oppsigelsestid](/blogs/regnskap/oppsigelsestid "Oppsigelsestid") |
 |------------------|------------------|
 | Under 6 mÃ¥neder  | 1 mÃ¥ned          |
-| 6 mÃ¥nederâ€“2 Ã¥r   | 2 mÃ¥neder        |
-| 2â€“5 Ã¥r           | 3 mÃ¥neder        |
+| 6 mÃ¥neder“2 Ã¥r   | 2 mÃ¥neder        |
+| 2“5 Ã¥r           | 3 mÃ¥neder        |
 | Over 5 Ã¥r        | 4 mÃ¥neder        |
 
 ### Tariffavtaler
@@ -99,9 +99,9 @@ Mange virksomheter opererer med **lÃ¸nnstrinn** basert pÃ¥ ansiennitet:
 
 | Ansiennitet | LÃ¸nnstrinn | Typisk Ã¸kning |
 |-------------|------------|---------------|
-| 0â€“2 Ã¥r      | Trinn 1-3  | 2-4%          |
-| 2â€“5 Ã¥r      | Trinn 4-8  | 3-5%          |
-| 5â€“10 Ã¥r     | Trinn 9-15 | 4-6%          |
+| 0“2 Ã¥r      | Trinn 1-3  | 2-4%          |
+| 2“5 Ã¥r      | Trinn 4-8  | 3-5%          |
+| 5“10 Ã¥r     | Trinn 9-15 | 4-6%          |
 | 10+ Ã¥r      | Trinn 16+  | 5-8%          |
 
 ### RegnskapsfÃ¸ring av Ansiennitetstillegg
@@ -153,9 +153,9 @@ Kredit: LÃ¸nn til utbetaling (2400)
 
 | Ansiennitet | Opptjeningsrate | Maksimal pensjon |
 |-------------|----------------|------------------|
-| 3â€“10 Ã¥r     | 2,0% per Ã¥r    | 20%              |
-| 10â€“20 Ã¥r    | 2,5% per Ã¥r    | 45%              |
-| 20â€“30 Ã¥r    | 3,0% per Ã¥r    | 75%              |
+| 3“10 Ã¥r     | 2,0% per Ã¥r    | 20%              |
+| 10“20 Ã¥r    | 2,5% per Ã¥r    | 45%              |
+| 20“30 Ã¥r    | 3,0% per Ã¥r    | 75%              |
 | 30+ Ã¥r      | 3,5% per Ã¥r    | 100%             |
 
 ### RegnskapsfÃ¸ring av Pensjonskostnader
@@ -186,9 +186,9 @@ Noen tariffavtaler gir **ekstra feriedager** basert pÃ¥ ansiennitet:
 
 | Ansiennitet | Feriedager | Ekstra dager |
 |-------------|------------|-------------|
-| 0â€“5 Ã¥r      | 25 dager   | 0            |
-| 5â€“10 Ã¥r     | 25 dager   | 1            |
-| 10â€“15 Ã¥r    | 25 dager   | 2            |
+| 0“5 Ã¥r      | 25 dager   | 0            |
+| 5“10 Ã¥r     | 25 dager   | 1            |
+| 10“15 Ã¥r    | 25 dager   | 2            |
 | 15+ Ã¥r      | 25 dager   | 3            |
 
 #### SÃ¦rlige Feriepengesatser
@@ -224,8 +224,8 @@ Se mer om [Feriepenger](/blogs/regnskap/hva-er-feriepenger "Hva er Feriepenger? 
 | Ansiennitet      | Oppsigelsesfrist fra arbeidsgiver | Oppsigelsesfrist fra arbeidstaker |
 |------------------|-----------------------------------|-----------------------------------|
 | Under 6 mÃ¥neder  | 1 mÃ¥ned                           | 14 dager                          |
-| 6 mÃ¥nederâ€“2 Ã¥r   | 2 mÃ¥neder                         | 1 mÃ¥ned                           |
-| 2â€“5 Ã¥r           | 3 mÃ¥neder                         | 1 mÃ¥ned                           |
+| 6 mÃ¥neder“2 Ã¥r   | 2 mÃ¥neder                         | 1 mÃ¥ned                           |
+| 2“5 Ã¥r           | 3 mÃ¥neder                         | 1 mÃ¥ned                           |
 | Over 5 Ã¥r        | 4 mÃ¥neder                         | 1 mÃ¥ned                           |
 
 ### Sluttvederlag
@@ -434,3 +434,6 @@ Virksomheter som implementerer gode ansiennitetssystemer vil kunne:
 * Se [LÃ¸nn](/blogs/regnskap/hva-er-lonn "Hva er LÃ¸nn? Komplett guide til lÃ¸nn og regnskapsfÃ¸ring") for generelle lÃ¸nnsbestemmelser
 
 *Ansiennitet er et sentralt element i norsk arbeidsrett og regnskapsfÃ¸ring. Sikre korrekt hÃ¥ndtering gjennom god planlegging, systemstÃ¸tte og kontinuerlig oppfÃ¸lging av regelverksendringer.*
+
+
+

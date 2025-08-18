@@ -25,21 +25,24 @@ Tabellen nedenfor viser de tre hovedpilarene i HMS og deres regnskapsmessige imp
 
 ## Implementering av HMS-system
 
-1. **Vesentlighetsvurdering** â€“ Identifiser helse-, miljÃ¸- og sikkerhetsrisiko.
-2. **Policy og mÃ¥lsettinger** â€“ Etabler klare HMS-mÃ¥l i samsvar med lover og standarder.
-3. **Tiltak og ansvar** â€“ Definer ansvar og implementer tiltak for Ã¥ redusere risiko.
-4. **Dokumentasjon og rapportering** â€“ Registrer hendelser, avvik og tiltak.
-5. **Kontinuerlig forbedring** â€“ Evaluer resultater og juster HMS-systemet.
+1. **Vesentlighetsvurdering** “ Identifiser helse-, miljÃ¸- og sikkerhetsrisiko.
+2. **Policy og mÃ¥lsettinger** “ Etabler klare HMS-mÃ¥l i samsvar med lover og standarder.
+3. **Tiltak og ansvar** “ Definer ansvar og implementer tiltak for Ã¥ redusere risiko.
+4. **Dokumentasjon og rapportering** “ Registrer hendelser, avvik og tiltak.
+5. **Kontinuerlig forbedring** “ Evaluer resultater og juster HMS-systemet.
 
 ## Regulatorisk rammeverk
 
-* **ArbeidsmiljÃ¸loven** Â§â€¯3â€‘1 til Â§â€¯3â€‘6 â€“ Generelle krav til arbeidsmiljÃ¸, inkludert [internkontroll](/blogs/regnskap/hva-er-internkontroll "Hva er Internkontroll i Regnskap?").
-* **Internkontrollforskriften** â€“ Krav om systematisk helse-, miljÃ¸- og sikkerhetsarbeid.
-* **Forskrift om organisering, ledelse og medvirkning** â€“ Krav til organisering av HMS-arbeidet.
-* **Yrkesskadeforsikring** â€“ LovpÃ¥lagt forsikring for dekning av yrkesskade; se [Yrkesskadeforsikring](/blogs/regnskap/yrkesskadeforsikring "Yrkesskadeforsikring â€“ Guide til Yrkesskadeforsikring for Norske Virksomheter").
+* **ArbeidsmiljÃ¸loven** Â§â€¯3‘1 til Â§â€¯3‘6 “ Generelle krav til arbeidsmiljÃ¸, inkludert [internkontroll](/blogs/regnskap/hva-er-internkontroll "Hva er Internkontroll i Regnskap?").
+* **Internkontrollforskriften** “ Krav om systematisk helse-, miljÃ¸- og sikkerhetsarbeid.
+* **Forskrift om organisering, ledelse og medvirkning** “ Krav til organisering av HMS-arbeidet.
+* **Yrkesskadeforsikring** “ LovpÃ¥lagt forsikring for dekning av yrkesskade; se [Yrkesskadeforsikring](/blogs/regnskap/yrkesskadeforsikring "Yrkesskadeforsikring “ Guide til Yrkesskadeforsikring for Norske Virksomheter").
 
 ## HMS og bÃ¦rekraft
 
 HMS er en sentral del av den sosiale og miljÃ¸messige dimensjonen i [BÃ¦rekraft](/blogs/regnskap/baerekraft "BÃ¦rekraft i Regnskap: En Komplett Guide til BÃ¦rekraftsrapportering"), og bidrar til helhetlig risikostyring og langsiktig verdiskaping.
 
 *Artikkelen ble sist oppdatert for Ã¥ gi en komplett oversikt over HMS i regnskapssammenheng.*
+
+
+

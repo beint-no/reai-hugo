@@ -9,7 +9,7 @@ layout: pages/single
 
 **Marginalskatt** er den skattesatsen som gjelder for den siste kronen du tjener i inntekt. Dette er et sentralt begrep innen [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? Komplett Guide til RegnskapsfÃ¸ring") og skatteplanlegging som pÃ¥virker bÃ¥de privatpersoner og bedrifter i Norge.
 
-Se ogsÃ¥ vÃ¥r artikkel om [Toppskatt](/blogs/regnskap/toppskatt "Toppskatt â€“ Komplett guide til toppskatt i Norge") for mer om ekstra skattesatser pÃ¥ hÃ¸ye inntekter.
+Se ogsÃ¥ vÃ¥r artikkel om [Toppskatt](/blogs/regnskap/toppskatt "Toppskatt “ Komplett guide til toppskatt i Norge") for mer om ekstra skattesatser pÃ¥ hÃ¸ye inntekter.
 
 For en bredere oversikt over generelle skattesatser i Norge, se [Skattesats](/blogs/regnskap/skattesats "Skattesats: Oversikt over Norske Skattesatser").
 
@@ -31,7 +31,7 @@ Det er viktig Ã¥ skille mellom:
 
 ## Norges Skattesystem og Marginalskatt
 
-Se ogsÃ¥ vÃ¥r spesifikke artikkel om [Trinnskatt](/blogs/regnskap/trinnskatt "Trinnskatt â€“ Guide til trinnskatt i Norge") for en detaljert gjennomgang.
+Se ogsÃ¥ vÃ¥r spesifikke artikkel om [Trinnskatt](/blogs/regnskap/trinnskatt "Trinnskatt “ Guide til trinnskatt i Norge") for en detaljert gjennomgang.
 
 ### Trinnvis Skattesystem
 
@@ -88,7 +88,7 @@ For en person med **1 000 000 kr** i Ã¥rsinntekt:
 
 ### Personlige Foretak
 
-[Enkeltpersonforetak](/blogs/regnskap/hva-er-enkeltpersonforetak "Hva er et Enkeltpersonforetak? Komplett Guide til Selskapsformen") beskattes som [personinntekt](/blogs/regnskap/personinntekt "Personinntekt â€“ Komplett guide til personinntekt i norsk regnskap") og fÃ¸lger samme marginalskattsystem som lÃ¸nnsmottakere.
+[Enkeltpersonforetak](/blogs/regnskap/hva-er-enkeltpersonforetak "Hva er et Enkeltpersonforetak? Komplett Guide til Selskapsformen") beskattes som [personinntekt](/blogs/regnskap/personinntekt "Personinntekt “ Komplett guide til personinntekt i norsk regnskap") og fÃ¸lger samme marginalskattsystem som lÃ¸nnsmottakere.
 
 ## Regnskapsmessige Konsekvenser
 
@@ -232,3 +232,5 @@ Marginalskatt er et **fundamentalt konsept** i norsk skatterett som pÃ¥virker 
 Som regnskapsfÃ¸rer er det viktig Ã¥ holde seg oppdatert pÃ¥ endringer i skattesatsene og hjelpe klienter med Ã¥ forstÃ¥ hvordan marginalskatt pÃ¥virker deres Ã¸konomi.
 
 Ved Ã¥ mestre marginalskattberegninger kan du gi verdifull rÃ¥dgivning som optimaliserer klientenes skatteposisjon innenfor gjeldende regelverk.
+
+

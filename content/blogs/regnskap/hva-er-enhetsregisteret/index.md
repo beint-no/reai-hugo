@@ -57,3 +57,5 @@ Enhetsregisteret er et fundamentalt register for alle juridiske enheter i Norge.
 ## Se ogsÃ¥
 
 * [Hva er Regnskapsregisteret?](/blogs/regnskap/hva-er-regnskapsregisteret "Hva er Regnskapsregisteret? Komplett Guide til Regnskapsregisteret i Norge")
+
+

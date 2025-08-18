@@ -96,3 +96,5 @@ Moderne bedrifter bruker Altinn for digital tinglysing:
 * [Hva er Aktiva?](/blogs/regnskap/hva-er-aktiva "Hva er Aktiva? Forklaring av Eiendeler i Balansen")
 * [Oppbevaring av regnskapsmateriale](/blogs/regnskap/oppbevaring-av-regnskapsmateriale "Oppbevaring av Regnskapsmateriale - Krav, Frister og Beste Praksis i Norge")
 * [Gjenpartsbrev](/blogs/regnskap/gjenpartsbrev "Gjenpartsbrev: Definisjon, krav og bruk i norsk regnskap")
+
+

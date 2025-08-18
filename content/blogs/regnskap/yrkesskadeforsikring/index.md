@@ -17,20 +17,20 @@ Yrkesskadeforsikring er en lovpÃ¥lagt **forsikring** som arbeidsgiver mÃ¥ te
 
 Dekningen omfatter blant annet:
 
-* **Medisinske utgifter** â€“ refusjon av nÃ¸dvendige behandlingskostnader.
-* **Erstatning for inntektstap** â€“ kompensasjon for tapt arbeidsinntekt.
-* **Rehabilitering og hjelpemidler** â€“ dekning av tiltak for tilbakefÃ¸ring til arbeid.
-* **Midlertidig og varig mÃ©n** â€“ erstatning ved nedsatt arbeidsevne.
+* **Medisinske utgifter** “ refusjon av nÃ¸dvendige behandlingskostnader.
+* **Erstatning for inntektstap** “ kompensasjon for tapt arbeidsinntekt.
+* **Rehabilitering og hjelpemidler** “ dekning av tiltak for tilbakefÃ¸ring til arbeid.
+* **Midlertidig og varig mÃ©n** “ erstatning ved nedsatt arbeidsevne.
 
 ## Lovkrav og Arbeidsgiveransvar
 
-I Norge er arbeidsgiver pliktig til Ã¥ tegne yrkesskadeforsikring for alle ansatte i henhold til [HMS](/blogs/regnskap/hms "HMS â€“ Helse, miljÃ¸ og sikkerhet i norske virksomheter") og folketrygdloven. Unnlatelse av Ã¥ ha gyldig forsikring kan medfÃ¸re:
+I Norge er arbeidsgiver pliktig til Ã¥ tegne yrkesskadeforsikring for alle ansatte i henhold til [HMS](/blogs/regnskap/hms "HMS “ Helse, miljÃ¸ og sikkerhet i norske virksomheter") og folketrygdloven. Unnlatelse av Ã¥ ha gyldig forsikring kan medfÃ¸re:
 
 * **Tvungent forsikringskjÃ¸p** gjennom offentlige instanser.
 * **Straffegebyr** eller andre sanksjoner.
 * Erstatningsansvar for arbeidsgiver ved skader pÃ¥ ansatte.
 
-Se ogsÃ¥ artikkelen om [Arbeidsgiver](/blogs/regnskap/arbeidsgiver "Arbeidsgiver â€“ Roller og Ansvar i Norsk Arbeidsliv og Regnskap") for mer om arbeidsgivers generelle forpliktelser.
+Se ogsÃ¥ artikkelen om [Arbeidsgiver](/blogs/regnskap/arbeidsgiver "Arbeidsgiver “ Roller og Ansvar i Norsk Arbeidsliv og Regnskap") for mer om arbeidsgivers generelle forpliktelser.
 
 ## Dekningstyper og GrensebelÃ¸p
 
@@ -47,10 +47,10 @@ Tabellen over viser typiske dekningsmodellene. GrensebelÃ¸pene er angitt i G (
 
 Premien for yrkesskadeforsikring beregnes ut fra virksomhetens risikoprofil, bransje, ansattes lÃ¸nnsgrunnlag og antall ansatte. **NÃ¸kkelfaktorer** som pÃ¥virker premie:
 
-* **Bransje/risikoklasse** â€“ hÃ¸y risiko gir hÃ¸yere premie.
-* **Ã…rlig lÃ¸nnsgrunnlag** â€“ samlet lÃ¸nn for alle ansatte.
-* **Antall ansatte** â€“ stÃ¸rre bedrifter fÃ¥r ofte bedre pris per ansatt.
-* **Tidligere erstatningshistorikk** â€“ kravhistorikk kan Ã¸ke premien.
+* **Bransje/risikoklasse** “ hÃ¸y risiko gir hÃ¸yere premie.
+* **Ã…rlig lÃ¸nnsgrunnlag** “ samlet lÃ¸nn for alle ansatte.
+* **Antall ansatte** “ stÃ¸rre bedrifter fÃ¥r ofte bedre pris per ansatt.
+* **Tidligere erstatningshistorikk** “ kravhistorikk kan Ã¸ke premien.
 
 For mer om hvordan **forsikringspremie** regnskapsfÃ¸res, se [Forsikringspremie](/blogs/regnskap/forsikringspremie "Forsikringspremie i Regnskap - Guide til Klassifisering og Periodisering").
 
@@ -73,11 +73,13 @@ Premien for yrkesskadeforsikring er **fradragsberettiget** som en driftskostnad.
 ## Relaterte artikler
 
 * [Forsikringspremie](/blogs/regnskap/forsikringspremie "Forsikringspremie i Regnskap - Guide til Klassifisering og Periodisering")
-* [Arbeidsgiver](/blogs/regnskap/arbeidsgiver "Arbeidsgiver â€“ Roller og Ansvar i Norsk Arbeidsliv og Regnskap")
-* [UfÃ¸reforsikring](/blogs/regnskap/uforeforsikring "UfÃ¸reforsikring â€“ Guide til Private UfÃ¸reforsikringer i Norge")
+* [Arbeidsgiver](/blogs/regnskap/arbeidsgiver "Arbeidsgiver “ Roller og Ansvar i Norsk Arbeidsliv og Regnskap")
+* [UfÃ¸reforsikring](/blogs/regnskap/uforeforsikring "UfÃ¸reforsikring “ Guide til Private UfÃ¸reforsikringer i Norge")
 * [Styreansvarsforsikring](/blogs/regnskap/styreansvarsforsikring "Hva er Styreansvarsforsikring? En Guide til Styremedlemsforsikring i Norge")
-* [HMS](/blogs/regnskap/hms "HMS â€“ Helse, miljÃ¸ og sikkerhet i norske virksomheter")
+* [HMS](/blogs/regnskap/hms "HMS “ Helse, miljÃ¸ og sikkerhet i norske virksomheter")
 
 ---
 
 *Denne artikkelen gir en omfattende oversikt over yrkesskadeforsikring i norsk regnskap. For spesifikke spÃ¸rsmÃ¥l eller komplekse saker, kontakt en regnskapsfÃ¸rer eller forsikringsrÃ¥dgiver.*
+
+

@@ -58,3 +58,6 @@ En **Ã¥pningsbalanse** for et **aksjeselskap (AS)** er den fÃ¸rste balansen 
 Etter oppsett av IB fÃ¸lger den vanlige regnskapsprosessen med bokfÃ¸ring, [avstemming](/blogs/regnskap/hva-er-avstemming "Hva er Avstemming i Regnskap? Komplett Guide til Regnskapsavstemming") og utarbeidelse av [utgÃ¥ende balanse](/blogs/regnskap/hva-er-utgaaende-balanse "Hva er UtgÃ¥ende Balanse? Komplett Guide til SaldooverfÃ¸ring") for neste periode.
 
 Les ogsÃ¥ vÃ¥r guide om [Starte AS](/blogs/regnskap/starte-as "Starte AS: Steg-for-steg guide til Ã¥ stifte aksjeselskap") for sammenheng mellom stiftelse og IB.
+
+
+

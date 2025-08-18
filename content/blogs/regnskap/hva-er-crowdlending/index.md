@@ -230,3 +230,6 @@ NÃ¸kkelpunkter for vellykket crowdlending-regnskap:
 Ved Ã¥ fÃ¸lge etablerte regnskapsprinsipper og holde seg oppdatert pÃ¥ regulatoriske endringer, kan bÃ¥de bedrifter og investorer dra nytte av crowdlending som en effektiv finansieringsform samtidig som de oppfyller alle regnskapsmessige og juridiske krav.
 
 For bedrifter som vurderer crowdlending som finansieringsalternativ, anbefales det Ã¥ konsultere med regnskapsfÃ¸rer eller revisor for Ã¥ sikre korrekt implementering av regnskapsrutiner og overholdelse av alle relevante bestemmelser.
+
+
+

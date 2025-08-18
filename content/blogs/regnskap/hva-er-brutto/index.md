@@ -223,3 +223,6 @@ Ved Ã¥ mestre bruttobegrepet legger man grunnlaget for mer avanserte regnskaps
 ![Sammendrag av bruttobegrepets rolle i regnskapet](brutto-sammendrag-rolle.svg)
 
 Riktig forstÃ¥else og anvendelse av bruttobegrepet er derfor ikke bare en teknisk ferdighet, men en **strategisk kompetanse** som bidrar til bedre Ã¸konomisk styring og beslutningsgrunnlag for virksomheten.
+
+
+

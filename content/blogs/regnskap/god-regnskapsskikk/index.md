@@ -73,7 +73,7 @@ Et robust internkontrollsystem bestÃ¥r av fem hovedkomponenter:
 5. **OvervÃ¥king**
    * LÃ¸pende evaluering av internkontrollens effektivitet
    * [AvvikshÃ¥ndtering](/blogs/regnskap/hva-er-avvikshandtering "Hva er AvvikshÃ¥ndtering i Regnskap? Prosess, Metoder og Beste Praksis") og korrigerende tiltak
-   * **[Uavhengig revisjon](/blogs/regnskap/revisjon "Revisjon â€“ Alt du trenger Ã¥ vite om Revisjon i Norge")** og kontroll
+   * **[Uavhengig revisjon](/blogs/regnskap/revisjon "Revisjon “ Alt du trenger Ã¥ vite om Revisjon i Norge")** og kontroll
 
 ### Dokumentasjon og Sporbarhet
 
@@ -236,3 +236,6 @@ God regnskapsskikk utvikler seg kontinuerlig med nye teknologier og krav.
 * **Transparenskrav** - Ã˜kt Ã¥penhet om forretningsmodeller
 
 God regnskapsskikk er ikke bare et lovkrav, men en investering i virksomhetens troverdighet og langsiktige suksess. Ved Ã¥ fÃ¸lge etablerte prinsipper, implementere robuste kontroller og kontinuerlig forbedre prosesser, kan organisasjoner sikre hÃ¸y kvalitet i sin finansielle rapportering og bygge tillit hos alle interessenter.
+
+
+

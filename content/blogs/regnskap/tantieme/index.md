@@ -49,9 +49,9 @@ Tantieme = Resultatgrunnlag Ã— Tantiemeprosent
 Typiske tantiemeprosenter:
 | Selskapstype    | Prosent av resultatgrunnlaget |
 |-----------------|-------------------------------|
-| SmÃ¥ AS          | 5Â %Â â€“Â 10Â %                   |
-| Mellomstore AS  | 10Â %Â â€“Â 20Â %                  |
-| Store AS        | 15Â %Â â€“Â 25Â %                  |
+| SmÃ¥ AS          | 5Â %Â “Â 10Â %                   |
+| Mellomstore AS  | 10Â %Â “Â 20Â %                  |
+| Store AS        | 15Â %Â “Â 25Â %                  |
 
 ## Seksjon 4: Skattemessig Behandling
 
@@ -95,3 +95,5 @@ For god internkontroll og revisjon bÃ¸r selskapet ha:
 * [Honorar](/blogs/regnskap/hva-er-honorar "Hva er Honorar i Regnskap? Komplett Guide til Honorarutbetalinger og Skattebehandling")
 * [GeneralÂ­forsamling](/blogs/regnskap/hva-er-generalforsamling "Hva er Generalforsamling? Komplett Guide til Generalforsamling og Beslutningsprosesser")
 * [Tantieme](/blogs/regnskap/tantieme "Tantieme i aksjeselskap: Bonusmodell, Skattemessig Behandling og BokfÃ¸ring")
+
+

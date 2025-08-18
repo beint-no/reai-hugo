@@ -197,3 +197,5 @@ For Ã¥ forstÃ¥ aksjeselskaper fullt ut, bÃ¸r du ogsÃ¥ sette deg inn i:
 - **[AksjonÃ¦ravtale](/blogs/regnskap/aksjonaeravtale "Hva er en AksjonÃ¦ravtale? En Omfattende Guide til AksjonÃ¦ravtaler")** - Skriftlig avtale mellom aksjonÃ¦rer om eierstyring og rettigheter
 
 Et aksjeselskap er en kraftig selskapsform som gir fleksibilitet og beskyttelse, men krever ogsÃ¥ grundig planlegging og forstÃ¥else av regelverket.
+
+

@@ -15,9 +15,9 @@ layout: pages/single
 
 Begrepet **leder** omfatter personer eller organer som har formelt ansvar for Ã¥ styre og lede selskapet. Dette inkluderer blant annet:
 
-* [Styreleder](/blogs/regnskap/styreleder "Hva er Styreleder? Styrets Lederrolle i Norske Aksjeselskaper") â€“ Ã˜verste leder av styret som ivaretar selskapets strategiske retning.
-* **Daglig leder** â€“ Ansvarlig for den daglige driften og rapportering til styret.
-* **Ã˜konomiansvarlig** â€“ Leder for Ã¸konomi- og regnskapsfunksjonen.
+* [Styreleder](/blogs/regnskap/styreleder "Hva er Styreleder? Styrets Lederrolle i Norske Aksjeselskaper") “ Ã˜verste leder av styret som ivaretar selskapets strategiske retning.
+* **Daglig leder** “ Ansvarlig for den daglige driften og rapportering til styret.
+* **Ã˜konomiansvarlig** “ Leder for Ã¸konomi- og regnskapsfunksjonen.
 * Andre nÃ¸kkelroller som konsernsjef, finansdirektÃ¸r (CFO) og avdelingsledere.
 
 ## Typer Lederroller
@@ -56,3 +56,5 @@ For mer om internkontroll, se [Hva er internkontroll?](/blogs/regnskap/hva-er-in
 ## Oppsummering
 
 Lederrollen er en hjÃ¸rnestein i norsk selskapsstyring og regnskap. Ved Ã¥ forstÃ¥ de ulike lederrollene og deres ansvar kan selskapet sikre god kontroll, pÃ¥litelig rapportering og etterlevelse av relevant regelverk.
+
+

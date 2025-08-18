@@ -25,8 +25,8 @@ Toppskatt har vÃ¦rt en del av det norske skattesystemet siden 1970-tallet for 
 
 | Innslagspunkt (NOK)      | Toppskatt (%) |
 |-------------------------:|--------------:|
-| 0 â€“ 624 000             | 0%            |
-| 624 001 â€“ 964 800       | 9,0%          |
+| 0 “ 624 000             | 0%            |
+| 624 001 “ 964 800       | 9,0%          |
 | Over 964 800            | 15,4%         |
 
 *Satser for inntektsÃ¥ret 2024. Tersklene inkluderer alminnelig inntekt og trinnskatt.*
@@ -35,8 +35,8 @@ Toppskatt har vÃ¦rt en del av det norske skattesystemet siden 1970-tallet for 
 
 Anta en person med 1 200 000 kr i Ã¥rlig inntekt:
 
-1. **Toppskatt pÃ¥ trinn 1** (624 001â€“964 800): (964 800 â€“ 624 000) Ã— 9,0%  
-2. **Toppskatt pÃ¥ trinn 2** (over 964 800): (1 200 000 â€“ 964 800) Ã— 15,4%  
+1. **Toppskatt pÃ¥ trinn 1** (624 001“964 800): (964 800 “ 624 000) Ã— 9,0%  
+2. **Toppskatt pÃ¥ trinn 2** (over 964 800): (1 200 000 “ 964 800) Ã— 15,4%  
 
 ## Regnskapsmessige konsekvenser
 
@@ -54,10 +54,12 @@ Bedrifter som yter bonus eller naturalytelser til ansatte med hÃ¸y inntekt mÃ
 Marginalskatt er skattesatsen pÃ¥ den siste kronen du tjener, mens toppskatt er den ekstra skatten som pÃ¥legges inntekt over bestemte terskler.
 
 **Gjelder toppskatt for bedrifter?**  
-Nei, toppskatt gjelder primÃ¦rt for personlige inntekter. Selskaper betaler [selskapsskatt](/blogs/regnskap/firmaskatt "Firmaskatt â€“ Komplett guide til skatteregler for selskaper") med en flat sats.
+Nei, toppskatt gjelder primÃ¦rt for personlige inntekter. Selskaper betaler [selskapsskatt](/blogs/regnskap/firmaskatt "Firmaskatt “ Komplett guide til skatteregler for selskaper") med en flat sats.
 
 ## Se ogsÃ¥
 
 - [Hva er Marginalskatt?](/blogs/regnskap/hva-er-marginalskatt "Hva er Marginalskatt? Komplett Guide til Marginalskatt i Norge")  
 - [Hva er Skattesats?](/blogs/regnskap/skattesats "Skattesats: Oversikt over Norske Skattesatser")  
-- [Firmaskatt](/blogs/regnskap/firmaskatt "Firmaskatt â€“ Komplett guide til skatteregler for selskaper")
+- [Firmaskatt](/blogs/regnskap/firmaskatt "Firmaskatt “ Komplett guide til skatteregler for selskaper")
+
+

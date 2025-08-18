@@ -61,3 +61,6 @@ Diett omfatter **mÃ¥ltider** og **smÃ¥forpleining** (for eksempel kaffe og f
  * [Tariff](/blogs/regnskap/tariff "Tariff i Norsk Regnskap")
 
 **Oppsummering:** Diett er en sentral del av reiseregningen og krever korrekt dokumentasjon, attesterte reiseregninger og bokfÃ¸ring pÃ¥ riktige konti for Ã¥ sikre bÃ¥de skattefrihet og riktige regnskapsfÃ¸ringer.
+
+
+

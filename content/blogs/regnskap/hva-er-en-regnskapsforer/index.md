@@ -76,5 +76,7 @@ Les mer om [bokfÃ¸ringsplikt](/blogs/regnskap/hva-er-bokforingsplikt "Hva er B
 
 * [Hva er bokfÃ¸ring?](/blogs/regnskap/hva-er-bokforing "Hva er BokfÃ¸ring? Grunnleggende Prinsipper og Prosesser")
 * [Hva er regnskap?](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide")
-* [Regnskap Norge](/blogs/regnskap/regnskap-norge "Regnskap Norge â€“ Bransjeorganisasjon for RegnskapsfÃ¸rere og RegnskapsbyrÃ¥er")
+* [Regnskap Norge](/blogs/regnskap/regnskap-norge "Regnskap Norge “ Bransjeorganisasjon for RegnskapsfÃ¸rere og RegnskapsbyrÃ¥er")
 * [Hva er internkontroll?](/blogs/regnskap/hva-er-internkontroll "Hva er Internkontroll? Systemer og Prosesser for Risikostyring")
+
+

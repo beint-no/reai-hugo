@@ -17,7 +17,7 @@ Netto representerer den **endelige eller reelle verdien** av et belÃ¸p etter a
 
 * **Korrekt Ã¸konomisk analyse** og beslutningsgrunnlag
 * **Skatteplanlegging** og avgiftsoptimalisering
-* **LÃ¸nnsadministrasjon og personalÃ¸konomi** â€“ se [Hva er LÃ¸nn](/blogs/regnskap/hva-er-lonn "Hva er LÃ¸nn i Regnskap? Komplett Guide til LÃ¸nnsformer, Beregning og RegnskapsfÃ¸ring") og [Hva er NettolÃ¸nn?](/blogs/regnskap/nettolonn "Hva er NettolÃ¸nn? Definisjon, Beregning og Praktisk Eksempler").
+* **LÃ¸nnsadministrasjon og personalÃ¸konomi** “ se [Hva er LÃ¸nn](/blogs/regnskap/hva-er-lonn "Hva er LÃ¸nn i Regnskap? Komplett Guide til LÃ¸nnsformer, Beregning og RegnskapsfÃ¸ring") og [Hva er NettolÃ¸nn?](/blogs/regnskap/nettolonn "Hva er NettolÃ¸nn? Definisjon, Beregning og Praktisk Eksempler").
 * **Investeringsvurderinger** og lÃ¸nnsomhetsanalyse
 * **Sammenligning** av reelle Ã¸konomiske resultater
 * **Budsjettplanlegging** og prognoser
@@ -328,3 +328,5 @@ Norske regnskapsstandarder (NGRS) og internasjonale standarder (IFRS) gir retnin
 * **Sammenligning** av Ã¸konomiske resultater
 
 Ved Ã¥ mestre nettobegrepet og dets anvendelser kan virksomheter ta bedre Ã¸konomiske beslutninger og sikre korrekt regnskapsfÃ¸ring i henhold til gjeldende regelverk og standarder.
+
+

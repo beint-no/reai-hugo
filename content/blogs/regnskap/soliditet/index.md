@@ -9,7 +9,7 @@ layout: pages/single
 
 **Soliditet** er en sentral **soliditetsindikator** som mÃ¥ler andelen egenkapital i forhold til totalkapitalen og gir innsikt i en virksomhets langsiktige finansielle robusthet.
 
-Soliditet beregnes ved Ã¥ sette [egenkapital](/blogs/regnskap/hva-er-egenkapital "Hva er Egenkapital? Komplett Guide til Egenkapital i Regnskap") i forhold til [aktiva (totalkapital)](/blogs/regnskap/hva-er-aktiva "Hva er Aktiva? Komplett Oversikt over Aktiva og Totalkapital") og [totalkapital](/blogs/regnskap/totalkapital "Totalkapital â€“ Sum av egenkapital og gjeld i regnskapet").
+Soliditet beregnes ved Ã¥ sette [egenkapital](/blogs/regnskap/hva-er-egenkapital "Hva er Egenkapital? Komplett Guide til Egenkapital i Regnskap") i forhold til [aktiva (totalkapital)](/blogs/regnskap/hva-er-aktiva "Hva er Aktiva? Komplett Oversikt over Aktiva og Totalkapital") og [totalkapital](/blogs/regnskap/totalkapital "Totalkapital “ Sum av egenkapital og gjeld i regnskapet").
 
 ![Soliditet Formelillustrasjon](soliditet-image.svg)
 
@@ -32,7 +32,7 @@ Der Totalkapital tilsvarer summen av alle eiendeler (aktiva), som ogsÃ¥ reflek
 | SoliditetsnivÃ¥    | Tolkning                                                   |
 |-------------------|-------------------------------------------------------------|
 | Over 50 %         | **HÃ¸y soliditet**: SvÃ¦rt god evne til Ã¥ tÃ¥le Ã¸konomiske tap   |
-| 20â€“50 %           | **Moderat soliditet**: Akseptabel, men fÃ¸lg med og begrens risiko |
+| 20“50 %           | **Moderat soliditet**: Akseptabel, men fÃ¸lg med og begrens risiko |
 | Under 20 %        | **Lav soliditet**: Potensielt risikofylt med begrenset buffer |
 
 ## Faktorer som pÃ¥virker soliditet
@@ -49,3 +49,5 @@ Soliditet bÃ¸r vurderes sammen med andre finansielle nÃ¸kkeltall som [likvid
 ## Oppsummering
 
 Soliditet gir et viktig bilde av virksomhetens evne til Ã¥ stÃ¥ imot Ã¸konomiske pÃ¥kjenninger. Ved Ã¥ overvÃ¥ke egenkapitalandelen kan ledelsen fatteÂ informerte beslutninger om finansiering, utbytte og bÃ¦rekraftig vekst.
+
+

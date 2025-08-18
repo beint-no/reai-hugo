@@ -1,13 +1,13 @@
 ﻿---
 title: "Budsjett"
 meta_title: "Budsjett"
-meta_description: '**Budsjett** er en detaljert plan over forventede inntekter og [utgifter](/blogs/regnskap/utgift "Utgift â€“ Komplett Guide til Utgifter i Norsk Regnskap") for ...'
+meta_description: '**Budsjett** er en detaljert plan over forventede inntekter og [utgifter](/blogs/regnskap/utgift "Utgift “ Komplett Guide til Utgifter i Norsk Regnskap") for ...'
 slug: budsjett
 type: blog
 layout: pages/single
 ---
 
-**Budsjett** er en detaljert plan over forventede inntekter og [utgifter](/blogs/regnskap/utgift "Utgift â€“ Komplett Guide til Utgifter i Norsk Regnskap") for en fremtidig periode. Et godt budsjett hjelper bedrifter med Ã¥ styre ressurser, sette mÃ¥l og kontrollere Ã¸konomien.
+**Budsjett** er en detaljert plan over forventede inntekter og [utgifter](/blogs/regnskap/utgift "Utgift “ Komplett Guide til Utgifter i Norsk Regnskap") for en fremtidig periode. Et godt budsjett hjelper bedrifter med Ã¥ styre ressurser, sette mÃ¥l og kontrollere Ã¸konomien.
 
 ![Budsjettformel](budsjett-formel.svg)
 
@@ -58,3 +58,6 @@ Se vÃ¥r guide til [Prognose](/blogs/regnskap/hva-er-prognose "Hva er Prognose?
 ## Oppsummering
 
 Et **budsjett** er et kraftig verktÃ¸y i Ã¸konomistyringen som gir bedrifter kontroll og innsikt. Ved Ã¥ forstÃ¥ de ulike budsjetttypene og fÃ¸lge en strukturert prosess, kan organisasjoner sette realistiske mÃ¥l, styre risiko og optimalisere ressursbruk.
+
+
+

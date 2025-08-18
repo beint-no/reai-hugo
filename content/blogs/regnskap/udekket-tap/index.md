@@ -58,5 +58,7 @@ Relaterte artikler:
 
 - [Hva er egenkapital?](/blogs/regnskap/hva-er-egenkapital "Hva er Egenkapital? Definisjon og Beregning")
 - [Hva er balanse?](/blogs/regnskap/hva-er-balanse "Hva er Balanse? Komplett Guide til Balanseregnskap")
-- [FremfÃ¸rbart underskudd](/blogs/regnskap/fremforbart-underskudd "FremfÃ¸rbart underskudd â€“ Guide til underskudd i regnskap og skatt")
+- [FremfÃ¸rbart underskudd](/blogs/regnskap/fremforbart-underskudd "FremfÃ¸rbart underskudd “ Guide til underskudd i regnskap og skatt")
 - [Hva er kapitalforhÃ¸yelse?](/blogs/regnskap/kapitalforhoyelse "Hva er KapitalforhÃ¸yelse? Emisjon, Krav og Prosess")
+
+

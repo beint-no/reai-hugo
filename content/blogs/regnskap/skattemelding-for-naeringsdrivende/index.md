@@ -85,3 +85,5 @@ Se ogsÃ¥:
 - [NÃ¦ringsoppgave 1](/blogs/regnskap/naeringsoppgave-1 "Hva er nÃ¦ringsoppgave? Slik fyller du ut nÃ¦ringsoppgave 1 og 2")
 - [Forskuddsskatt](/blogs/regnskap/hva-er-forskuddsskatt "Hva er Forskuddsskatt? Beregning og Innbetaling")
 - [Altinn](/blogs/regnskap/hva-er-altinn "Hva er Altinn? Digital kommunikasjonsplattform for offentlige etater")
+
+

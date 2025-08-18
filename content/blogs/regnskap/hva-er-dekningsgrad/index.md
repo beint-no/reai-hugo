@@ -68,7 +68,7 @@ Dette indikerer at bedriften har god evne til Ã¥ dekke sine rentekostnader.
 
 ### Egenkapitaldekningsgrad
 
-**Egenkapitaldekningsgrad** mÃ¥ler hvor stor andel av [totalkapitalen](/blogs/regnskap/totalkapital "Totalkapital â€“ Sum av egenkapital og gjeld i regnskapet") som er finansiert med [egenkapital](/blogs/regnskap/hva-er-aksjekapital "Hva er Aksjekapital? Guide til Grunnkapital i Aksjeselskap").
+**Egenkapitaldekningsgrad** mÃ¥ler hvor stor andel av [totalkapitalen](/blogs/regnskap/totalkapital "Totalkapital “ Sum av egenkapital og gjeld i regnskapet") som er finansiert med [egenkapital](/blogs/regnskap/hva-er-aksjekapital "Hva er Aksjekapital? Guide til Grunnkapital i Aksjeselskap").
 
 #### Formel for Egenkapitaldekningsgrad:
 ```
@@ -391,3 +391,6 @@ Dekningsgrader er sentrale i **finansiell risikostyring**:
 * **Regelmessig overvÃ¥king** er kritisk for finansiell styring
 
 Gjennom systematisk bruk av dekningsgradsanalyse kan bedrifter identifisere risikoomrÃ¥der tidlig, optimalisere sin finansielle struktur og sikre langsiktig bÃ¦rekraft i sin virksomhet.
+
+
+

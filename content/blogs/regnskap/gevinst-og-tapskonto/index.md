@@ -53,3 +53,6 @@ Se ogsÃ¥ [Hva er skatt?](/blogs/regnskap/hva-er-skatt "Hva er Skatt? En komple
 ## 5. Oppsummering
 
 Bruk av en **gevinst- og tapskonto** sikrer at gevinster og tap ved avhending av anleggsmidler hÃ¥ndteres ryddig og i samsvar med gjeldende lover og god regnskapsskikk. Riktig bokfÃ¸ring gir bedre innsikt i bedriftens engangsposter og legger grunnlaget for korrekt skattemessig behandling.
+
+
+

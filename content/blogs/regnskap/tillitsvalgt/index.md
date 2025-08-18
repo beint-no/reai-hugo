@@ -1,6 +1,6 @@
 ﻿---
-title: "Tillitsvalgt â€“ Rolle og ansvar i norsk regnskap"
-meta_title: "Tillitsvalgt â€“ Rolle og ansvar i norsk regnskap"
+title: "Tillitsvalgt “ Rolle og ansvar i norsk regnskap"
+meta_title: "Tillitsvalgt “ Rolle og ansvar i norsk regnskap"
 meta_description: '![Tillitsvalgt](tillitsvalgt-image.svg)'
 slug: tillitsvalgt
 type: blog
@@ -75,6 +75,8 @@ En **tillitsvalgt** er en sentral aktÃ¸r som fremmer de ansattes interesser, b
 
 ## Relaterte artikler
 
-- [Arbeidskontrakten](/blogs/regnskap/arbeidskontrakten "Arbeidskontrakten â€“ Roller og Ansvar i Norsk Arbeidsliv og Regnskap")
-- [Ferieloven](/blogs/regnskap/ferieloven "Ferieloven â€“ Lov om ferie av 29. april 1988 nr. 21")
+- [Arbeidskontrakten](/blogs/regnskap/arbeidskontrakten "Arbeidskontrakten “ Roller og Ansvar i Norsk Arbeidsliv og Regnskap")
+- [Ferieloven](/blogs/regnskap/ferieloven "Ferieloven “ Lov om ferie av 29. april 1988 nr. 21")
 - [Fellesferie](/blogs/regnskap/fellesferie "Fellesferie: Hva, regler og planlegging i Norge")
+
+

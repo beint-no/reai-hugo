@@ -18,7 +18,7 @@ I henhold til ArbeidsmiljÃ¸loven Â§15-3 har bÃ¥de arbeidstaker og arbeidsg
 | Part           | Minimum oppsigelsestid                   |
 |----------------|------------------------------------------|
 | Arbeidstaker   | 1 mÃ¥ned fra fÃ¸rste dag i mÃ¥neden         |
-| Arbeidsgiver   | 1 mÃ¥ned (ansiennitet < 5 Ã¥r)<br>2 mÃ¥neder (5â€“10 Ã¥r)<br>3 mÃ¥neder (10â€“15 Ã¥r)<br>4 mÃ¥neder (>15 Ã¥r) |
+| Arbeidsgiver   | 1 mÃ¥ned (ansiennitet < 5 Ã¥r)<br>2 mÃ¥neder (5“10 Ã¥r)<br>3 mÃ¥neder (10“15 Ã¥r)<br>4 mÃ¥neder (>15 Ã¥r) |
 
 Se ogsÃ¥ [Ansiennitet](/blogs/regnskap/ansiennitet "Ansiennitet") for detaljer om ansiennitetsbaserte oppsigelsestider.
 
@@ -52,6 +52,8 @@ Ved oppsigelse kan det oppstÃ¥ forpliktelser som pÃ¥virker regnskapet:
 
 ## Relaterte artikler
 
-- [Ansiennitet](/blogs/regnskap/ansiennitet "Ansiennitet") â€“ Ansiennitetsbaserte oppsigelsestider.
-- [Arbeidskontrakten](/blogs/regnskap/arbeidskontrakten "Arbeidskontrakten") â€“ Oppsigelsestider som del av kontraktskrav.
-- [Arbeidsforholdstype](/blogs/regnskap/hva-er-arbeidsforholdstype "Arbeidsforholdstype") â€“ Hvordan ulike ansettelsesformer pÃ¥virker oppsigelsesrett.
+- [Ansiennitet](/blogs/regnskap/ansiennitet "Ansiennitet") “ Ansiennitetsbaserte oppsigelsestider.
+- [Arbeidskontrakten](/blogs/regnskap/arbeidskontrakten "Arbeidskontrakten") “ Oppsigelsestider som del av kontraktskrav.
+- [Arbeidsforholdstype](/blogs/regnskap/hva-er-arbeidsforholdstype "Arbeidsforholdstype") “ Hvordan ulike ansettelsesformer pÃ¥virker oppsigelsesrett.
+
+

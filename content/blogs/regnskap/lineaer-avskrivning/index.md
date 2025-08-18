@@ -80,3 +80,5 @@ Moderne [regnskapssystemer](/blogs/regnskap/fakturaprogram "Fakturaprogram og Re
 LineÃ¦r avskrivning er en **kostnadseffektiv og enkel** metode som passer for eiendeler med jevn verdiforringelse. Ved Ã¥ bruke denne metoden fÃ¥r du klarhet i kostnadsfordelingen, noe som gir bedre grunnlag for beslutninger om investeringer og skatterapportering.
 
 For en mer detaljert presentasjon av avskrivning generelt, besÃ¸k [Hva er Avskrivning?](/blogs/regnskap/hva-er-avskrivning "Hva er Avskrivning i Regnskap?").
+
+

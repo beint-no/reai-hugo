@@ -502,3 +502,5 @@ For Ã¥ lykkes med utkontraktering er det viktig Ã¥:
 Utkontraktering vil fortsette Ã¥ utvikle seg med **teknologiske fremskritt** og endrede markedsbehov. Virksomheter som tar i bruk moderne utkontraktingslÃ¸sninger tidlig, vil kunne oppnÃ¥ konkurransefortrinn gjennom Ã¸kt effektivitet og reduserte kostnader.
 
 Den viktigste faktoren for suksess er Ã¥ **matche utkontraktingsstrategien** med virksomhetens overordnede mÃ¥l og sikre at leverandÃ¸rforholdet bygger pÃ¥ gjensidig tillit og forstÃ¥else.
+
+

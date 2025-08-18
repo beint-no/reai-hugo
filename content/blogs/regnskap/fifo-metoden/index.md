@@ -78,3 +78,6 @@ Effektiv internkontroll av FIFO-bokfÃ¸ring sikres ved:
 For en mer omfattende gjennomgang av metode og praktisk implementering, se artikkelen [FIFO-metoden](/blogs/regnskap/fifo-metoden "FIFO-metoden").
 
 For Ã¥ forstÃ¥ vareflyten i sammenheng med hele **varekretslÃ¸pet**, se ogsÃ¥ artikkelen [VarekretslÃ¸pet](/blogs/regnskap/varekretslopet "VarekretslÃ¸pet: Flyt av varer og kapital").
+
+
+

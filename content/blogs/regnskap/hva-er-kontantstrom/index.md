@@ -21,7 +21,7 @@ KontantstrÃ¸m representerer den faktiske bevegelsen av [kontanter](/blogs/regn
 * **Tidsbasert:** MÃ¥les over spesifikke perioder (mÃ¥nedlig, kvartalsvis, Ã¥rlig)
 * **Likviditetsfokus:** Viser bedriftens evne til Ã¥ mÃ¸te kortsiktige forpliktelser og opprettholde [likviditet](/blogs/regnskap/hva-er-likviditet "Hva er Likviditet? Komplett Guide til Likviditetsstyring og Analyse"). Effektiv [likviditetsstyring](/blogs/regnskap/hva-er-likviditetsstyring "Hva er Likviditetsstyring i Regnskap? KontantstrÃ¸m, Arbeidskapital og Finansiell Planlegging") krever systematisk overvÃ¥king og planlegging av kontantstrÃ¸mmer
 * **Operasjonell indikator:** Reflekterer den faktiske driftseffektiviteten
-* **KontantkjÃ¸p:** Utbetalinger for varer og tjenester betalt kontant pÃ¥virker kontantstrÃ¸mmen; se [KontantkjÃ¸p](/blogs/regnskap/kontantkjop "KontantkjÃ¸p â€“ Guide til RegnskapsfÃ¸ring av KontantkjÃ¸p").
+* **KontantkjÃ¸p:** Utbetalinger for varer og tjenester betalt kontant pÃ¥virker kontantstrÃ¸mmen; se [KontantkjÃ¸p](/blogs/regnskap/kontantkjop "KontantkjÃ¸p “ Guide til RegnskapsfÃ¸ring av KontantkjÃ¸p").
 
 ## Typer KontantstrÃ¸m
 
@@ -494,3 +494,5 @@ KontantstrÃ¸m er grunnlaget for de fleste moderne verdsettelsesmetoder og er k
 Ved Ã¥ implementere disse prinsippene kan bedrifter oppnÃ¥ bedre likviditet, redusert finansiell risiko og Ã¸kt verdi for eiere og interessenter. KontantstrÃ¸mstyring er ikke bare et regnskapsteknisk verktÃ¸y, men en strategisk kapabilitet som kan gi varig konkurransefortrinn.
 
 Husk at kontantstrÃ¸m er **livsnerven** i enhver bedrift - uten tilstrekkelig kontantstrÃ¸m kan selv lÃ¸nnsomme bedrifter gÃ¥ konkurs. Derfor bÃ¸r kontantstrÃ¸mstyring vÃ¦re en prioritet for alle bedriftsledere og regnskapsansvarlige.
+
+

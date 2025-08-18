@@ -247,3 +247,5 @@ Lett salÃ¦r er en **nyttig ordning** for bÃ¥de oppdragsgivere og mottakere n
 * Ikke pensjonsgivende eller grunnlag for sosiale ytelser
 
 For bedrifter som vurderer lett salÃ¦r, er det viktig Ã¥ **konsultere regnskapsfÃ¸rer** eller **skatterÃ¥dgiver** for Ã¥ sikre korrekt behandling og unngÃ¥ problemer med skattemyndighetene.
+
+

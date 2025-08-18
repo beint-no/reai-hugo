@@ -85,3 +85,6 @@ Selv om bÃ¥de a-konto og [forskuddsbetaling](/blogs/regnskap/hva-er-forskuddsb
 ## Oppsummering
 
 A-konto er en praktisk betalingsmodell som skaper **Ã¸konomisk forutsigbarhet** for bÃ¥de leverandÃ¸r og kunde. Ved Ã¥ betale et estimert belÃ¸p jevnlig, unngÃ¥r man store og uventede regninger. NÃ¸kkelen ligger i den endelige [**avregningen**](/blogs/regnskap/hva-er-avregning "Hva er Avregning i Regnskap? Komplett Guide til Avregning"), som sikrer at du kun betaler for det du faktisk har brukt.
+
+
+

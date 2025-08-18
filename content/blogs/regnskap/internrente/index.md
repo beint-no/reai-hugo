@@ -72,3 +72,5 @@ Resultatet blir omtrent **14,5Â %**.
 Internrente brukes ofte i kombinert vurdering med NPV under internregnskapsanalyse og budsjettplanlegging. For mer om diskontering og NPV, se [Hva er Diskontering?](/blogs/regnskap/hva-er-diskontering "Hva er Diskontering? En Guide til NÃ¥verdi, NPV og Diskonteringsrente").
 
 For en grundig gjennomgang av avkastningsbegrepet, se ogsÃ¥ [Hva er Avkastning?](/blogs/regnskap/hva-er-avkastning "Hva er Avkastning? Komplett Guide til Investeringsavkastning og Beregning").
+
+

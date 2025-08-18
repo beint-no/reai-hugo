@@ -1,6 +1,6 @@
 ﻿---
-title: "Kontantkasse i Regnskap â€“ Guide til Bruk og HÃ¥ndtering"
-meta_title: "Kontantkasse i Regnskap â€“ Guide til Bruk og HÃ¥ndtering"
+title: "Kontantkasse i Regnskap “ Guide til Bruk og HÃ¥ndtering"
+meta_title: "Kontantkasse i Regnskap “ Guide til Bruk og HÃ¥ndtering"
 meta_description: '**Kontantkasse** er den fysiske boksen eller kassen som bedrifter bruker til oppbevaring og registrering av **kontanter** fra salg og andre innbetalinger. En ko...'
 slug: kontantkasse
 type: blog
@@ -17,7 +17,7 @@ Artikkelen tar utgangspunkt i **kontantprinsippet**, hvor alle kontanttransaksjo
 
 Kontantkasse er en fysisk beholder for kontanter som brukes i daglig drift, ofte ved siden av moderne [datakasse-systemer](/blogs/regnskap/hva-er-datakasse "Hva er Datakasse? Komplett Guide til Kassasystem, Krav og RegnskapsfÃ¸ring"). Salg i kontantkassen bidrar til umiddelbar [kontantstrÃ¸m](/blogs/regnskap/hva-er-kontantstrom "Hva er KontantstrÃ¸m? Guide til KontantstrÃ¸m i Regnskap") og mÃ¥ avstemmes daglig med [KasseoppgjÃ¸r](/blogs/regnskap/hva-er-kasseoppgjor "Hva er KasseoppgjÃ¸r? Daglig Kontantavstemming i Kassasystemet").
 
-En vanlig bruk av kontantkasse er ved **kontantkjÃ¸p** av smÃ¥ varer og tjenester. Les mer om kontantkjÃ¸p i [KontantkjÃ¸p](/blogs/regnskap/kontantkjop "KontantkjÃ¸p â€“ Komplett Guide til RegnskapsfÃ¸ring av KontantkjÃ¸p").
+En vanlig bruk av kontantkasse er ved **kontantkjÃ¸p** av smÃ¥ varer og tjenester. Les mer om kontantkjÃ¸p i [KontantkjÃ¸p](/blogs/regnskap/kontantkjop "KontantkjÃ¸p “ Komplett Guide til RegnskapsfÃ¸ring av KontantkjÃ¸p").
 
 ## Lovkrav og bokfÃ¸ring
 
@@ -55,3 +55,5 @@ Internkontroll i kontantkassearbeidet reduserer risikoen for svinn og feil:
 | 03.01.2024 | Papir og kontor |                  | 200             | 6Â 400      |
 
 For mer detaljert avstemming, se [Hva er KasseoppgjÃ¸r?](/blogs/regnskap/hva-er-kasseoppgjor "Hva er KasseoppgjÃ¸r? Daglig Kontantavstemming i Kassasystemet").
+
+

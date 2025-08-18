@@ -86,3 +86,5 @@ Typiske funksjoner inkluderer:
 ## Oppsummering
 
 **KjÃ¸regodtgjÃ¸relse** er et sentralt verktÃ¸y for Ã¥ sikre skattefri kompensasjon av bilkostnader ved tjenestekjÃ¸ring. Ved Ã¥ fÃ¸lge Skatteetatens satser, fÃ¸re nÃ¸yaktig dokumentasjon i kjÃ¸rebok og bokfÃ¸re transaksjoner korrekt, kan virksomheter maksimere skattefordelene og redusere administrativt arbeid.
+
+

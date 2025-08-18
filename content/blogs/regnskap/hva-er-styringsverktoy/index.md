@@ -277,6 +277,8 @@ ROI = (Gevinster - Kostnader) / Kostnader Ã— 100%
 
 **StyringsverktÃ¸y** er uunnvÃ¦rlige for moderne virksomhetsledelse. De gir den nÃ¸dvendige innsikten og kontrollen som kreves for Ã¥ navigere i et komplekst og konkurransedyktig marked. Ved Ã¥ velge riktige verktÃ¸y og implementere dem effektivt, kan virksomheter oppnÃ¥ bedre prestasjoner, redusert risiko og Ã¸kt konkurranseevne.
 
-Suksess med styringsverktÃ¸y krever en helhetlig tilnÃ¦rming som kombinerer teknologi, prosesser og mennesker. Det er viktig Ã¥ huske at verktÃ¸yene i seg selv ikke skaper verdi â€“ det er hvordan de brukes og integreres i virksomhetens beslutningsprosesser som avgjÃ¸r deres effektivitet.
+Suksess med styringsverktÃ¸y krever en helhetlig tilnÃ¦rming som kombinerer teknologi, prosesser og mennesker. Det er viktig Ã¥ huske at verktÃ¸yene i seg selv ikke skaper verdi “ det er hvordan de brukes og integreres i virksomhetens beslutningsprosesser som avgjÃ¸r deres effektivitet.
 
 I fremtiden vil styringsverktÃ¸y bli enda mer sofistikerte og tilgjengelige, med kunstig intelligens og automatisering som driver innovasjon. Virksomheter som investerer i moderne styringsverktÃ¸y og bygger kompetanse rundt deres bruk, vil vÃ¦re best posisjonert for fremtidig suksess.
+
+

@@ -36,8 +36,8 @@ Les mer om [Fremmedytelser og Underentreprise](/blogs/kontoplan/4500-fremmedytel
 
 EntreprenÃ¸rer mÃ¥ forholde seg til norsk MVA-regelverk:
 
-* **Omvendt avgiftsplikt** ved kjÃ¸p av tjenester fra utlandet â€“ se [Hva er Omvendt avgiftsplikt?](/blogs/regnskap/omvendt-avgiftsplikt "Hva er Omvendt avgiftsplikt?")
-* **InngÃ¥ende mva** pÃ¥ materialer â€“ kostnadsfÃ¸res som innkjÃ¸p i regnskapet
+* **Omvendt avgiftsplikt** ved kjÃ¸p av tjenester fra utlandet “ se [Hva er Omvendt avgiftsplikt?](/blogs/regnskap/omvendt-avgiftsplikt "Hva er Omvendt avgiftsplikt?")
+* **InngÃ¥ende mva** pÃ¥ materialer “ kostnadsfÃ¸res som innkjÃ¸p i regnskapet
 * **UtgÃ¥ende mva** pÃ¥ fakturerte entreprisetjenester, vanligvis 25â€¯%
 
 ## Viktige eksempler
@@ -52,9 +52,12 @@ EntreprenÃ¸rer mÃ¥ forholde seg til norsk MVA-regelverk:
 1. **Kontraktstype:** Fastpris, lÃ¸pende timearbeid eller kombinasjon.
 2. **Leveringsomfang:** Tydelig beskrivelse av arbeidets omfang.
 3. **Fremdriftsplan:** MilepÃ¦ler for fakturering og levering.
-4. **Sikkerhetsstillelse:** Garantier, bankgaranti â€“ se [bankgaranti](/blogs/regnskap/bankgaranti "Bankgaranti").
+4. **Sikkerhetsstillelse:** Garantier, bankgaranti “ se [bankgaranti](/blogs/regnskap/bankgaranti "Bankgaranti").
 5. **Kvalitetskrav:** Krav til materialer, toleranser og testprosedyrer.
 
 ## Oppsummering
 
 Som entreprenÃ¸r mÃ¥ man sikre korrekt **regnskapsfÃ¸ring**, fÃ¸lge **MVA-regler** og styre bÃ¥de Ã¸konomi og underleverandÃ¸rer effektivt. En godt utarbeidet **entrepriseavtale** og god dokumentasjon er nÃ¸kkelen til suksess.
+
+
+

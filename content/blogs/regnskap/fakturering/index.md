@@ -48,3 +48,6 @@ Det finnes flere metoder for Ã¥ sende fakturaer i Norge:
 * Dokumenter interne rutiner for fakturering og gi ansatte nÃ¸dvendig opplÃ¦ring.
 
 Se ogsÃ¥ [Hva er en faktura?](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav") for en dypere gjennomgang av fakturaens innhold og krav.
+
+
+

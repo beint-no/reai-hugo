@@ -67,3 +67,6 @@ Gjenpartsbrev er et enkelt, men viktig verktÃ¸y i norsk regnskap for Ã¥ sikr
 ## Relaterte Artikler
 
 * [Tinglyse i Regnskap](/blogs/regnskap/tinglyse "Tinglyse i Regnskap: En Guide til Tinglysing")
+
+
+

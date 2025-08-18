@@ -64,3 +64,5 @@ For mer informasjon om sentrale begreper og prosesser, se ogsÃ¥:
 *   [Hva er Styre?](/blogs/regnskap/hva-er-styre "Hva er et Styre? Roller og Ansvar")
 *   [Hva er Vedtekter for Aksjeselskap?](/blogs/regnskap/hva-er-vedtekter-for-aksjeselskap "Hva er Vedtekter for Aksjeselskap?")
 *   [Maskimalt Utbytte](/blogs/regnskap/maskimalt-utbytte "Maskimalt Utbytte - Komplett Guide til Utbytteregler og Beregning")
+
+

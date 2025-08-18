@@ -33,12 +33,12 @@ I en tid med Ã¸kende fokus pÃ¥ klimaendringer, sosiale utfordringer og god s
 
 ## NÃ¸kkeltrinn i bÃ¦rekraftsrapportering
 
-1. **Vesentlighetsanalyse** â€“ Identifisere de ESG-temaene som er mest relevante for virksomheten og interessenter.
-2. **Datainnsamling** â€“ Etablere systemer for Ã¥ samle inn nÃ¸yaktige og pÃ¥litelige ESG-data.
-3. **Oppstilling av KPI-er** â€“ Definere mÃ¥lbare indikatorer (f.eks. COâ‚‚-utslipp, antall arbeidsskader).
-4. **Utforming av rapport** â€“ Velge format (integrert rapport vs. separat rapport) og standarder (ESRS, GRI).
-5. **Intern kontroll og revisjon** â€“ Sikre kvalitet og pÃ¥litelighet gjennom intern kontroll og ekstern verifikasjon.
-6. **Publisering og kommunikasjon** â€“ Dele rapporten med interessenter via nettsider, Ã¥rsrapporter og andre kanaler.
+1. **Vesentlighetsanalyse** “ Identifisere de ESG-temaene som er mest relevante for virksomheten og interessenter.
+2. **Datainnsamling** “ Etablere systemer for Ã¥ samle inn nÃ¸yaktige og pÃ¥litelige ESG-data.
+3. **Oppstilling av KPI-er** “ Definere mÃ¥lbare indikatorer (f.eks. COâ‚‚-utslipp, antall arbeidsskader).
+4. **Utforming av rapport** “ Velge format (integrert rapport vs. separat rapport) og standarder (ESRS, GRI).
+5. **Intern kontroll og revisjon** “ Sikre kvalitet og pÃ¥litelighet gjennom intern kontroll og ekstern verifikasjon.
+6. **Publisering og kommunikasjon** “ Dele rapporten med interessenter via nettsider, Ã¥rsrapporter og andre kanaler.
 
 ## Utfordringer og fremtidig utvikling
 
@@ -51,3 +51,6 @@ Selv om bÃ¦rekraftsrapportering gir mange fordeler, mÃ¸ter bedrifter ogsÃ¥
 | Manglende standardisering   | Ulike rammeverk gir varierende krav og tolkninger          |
 
 Fremover forventes Ã¸kt harmonisering av internasjonale standarder og digitalisering i rapporteringen, noe som vil bidra til mer effektive og sammenlignbare bÃ¦rekraftsdata.
+
+
+

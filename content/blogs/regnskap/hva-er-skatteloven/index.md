@@ -83,3 +83,5 @@ Skatteloven har rÃ¸tter tilbake til:
 * [Hva er Skatt?](/blogs/regnskap/hva-er-skatt "Skatt - Komplett Guide til Norsk Skattesystem og Skatteberegning")
 * [Hva er Skatteberegning?](/blogs/regnskap/skatteberegning "Skatteberegning - Guide til Beregning av Skatt og RegnskapsfÃ¸ring")
 * [Hva er Skattegrunnlag?](/blogs/regnskap/hva-er-skattegrunnlag "Skattegrunnlag - Guide til Beregning av Skattepliktig Inntekt")
+
+

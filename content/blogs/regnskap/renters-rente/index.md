@@ -24,7 +24,7 @@ layout: pages/single
 
 ## Formel for sammensatt rente
 
-Formelen for [**sammensatt rente**](/blogs/regnskap/renters-rente "Renters rente â€“ Rente pÃ¥ rente i regnskap") er:
+Formelen for [**sammensatt rente**](/blogs/regnskap/renters-rente "Renters rente “ Rente pÃ¥ rente i regnskap") er:
 
 $$
 A = P \\times (1 + r)^n
@@ -53,13 +53,15 @@ Hvor:
 
 * **Sparing og investering:** Beregning av fremtidig verdi av innskudd og fond  
 * **LÃ¥nekostnader:** Periodiske rentetilskrivninger i avdragstabeller  
-* **Verdsettelse:** Grunnlag for amortisering og [Hva er amortisering?](/blogs/regnskap/hva-er-amortisering "Amortisering â€“ Avskrivninger og Avdrag")  
+* **Verdsettelse:** Grunnlag for amortisering og [Hva er amortisering?](/blogs/regnskap/hva-er-amortisering "Amortisering “ Avskrivninger og Avdrag")  
 * **PÃ¥lÃ¸pte renter:** Periodisering av renter som finansposter i regnskapet
 
 ## Relaterte artikler
 
-* [Rente](/blogs/regnskap/rente "Rente â€“ En komplett guide til renter i regnskap")  
+* [Rente](/blogs/regnskap/rente "Rente “ En komplett guide til renter i regnskap")  
 * [Hva er nominell rente?](/blogs/regnskap/hva-er-nominell-rente "Hva er Nominell rente? Definisjon og Beregning")  
 * [Hva er effektiv rente?](/blogs/regnskap/hva-er-effektiv-rente "Hva er Effektiv rente? Beregning og Eksempler")  
 * [Hva er diskontering?](/blogs/regnskap/hva-er-diskontering "Hva er Diskontering? Komplett Guide til NÃ¥verdi og Diskonterte KontantstrÃ¸mmer")  
-* [Hva er internrente?](/blogs/regnskap/internrente "Internrente â€“ Beregning av Avkastning")
+* [Hva er internrente?](/blogs/regnskap/internrente "Internrente “ Beregning av Avkastning")
+
+

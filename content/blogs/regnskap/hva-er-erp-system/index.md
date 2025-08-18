@@ -9,7 +9,7 @@ layout: pages/single
 
 Et **ERP-system** (Enterprise Resource Planning) er en integrert programvarelÃ¸sning som samler og koordinerer alle kjerneforretningsprosessene i en organisasjon. For norske bedrifter representerer ERP-systemer ryggraden i moderne forretningsdrift, hvor [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er regnskap? En Dybdeanalyse for Norge"), Ã¸konomi, produksjon, salg og personaladministrasjon integreres i Ã©n sammenhengende plattform.
 
-*Se ogsÃ¥: [Ã˜konomisystem](/blogs/regnskap/okonomisystem "Ã˜konomisystem â€“ En Guide til Moderne Ã˜konomistyring")*
+*Se ogsÃ¥: [Ã˜konomisystem](/blogs/regnskap/okonomisystem "Ã˜konomisystem “ En Guide til Moderne Ã˜konomistyring")*
 
 ## Seksjon 1: Grunnleggende Konsepter og Definisjon
 
@@ -493,3 +493,5 @@ ERP-systemer representerer ryggraden i moderne forretningsdrift for norske bedri
 For norske bedrifter som vurderer ERP-implementering, er det viktig Ã¥ huske at dette er en langsiktig investering som krever betydelige ressurser, men som kan transformere virksomheten fundamentalt. Med riktig tilnÃ¦rming og forventninger kan ERP-systemer bli en kritisk konkurransefordel i dagens digitale Ã¸konomi.
 
 Integrasjonen med norske regnskapskrav, fra [bokfÃ¸ring](/blogs/regnskap/hva-er-bokforing "Hva er BokfÃ¸ring? En Komplett Guide til Norsk BokfÃ¸ringspraksis") til [MVA-rapportering](/blogs/regnskap/hva-er-avgiftsplikt-mva "Hva er Avgiftsplikt (MVA)? Komplett Guide til Merverdiavgift i Norge"), gjÃ¸r ERP-systemer til en naturlig utvidelse av bedriftens regnskapsfunksjon og en investering i fremtidens digitale forretningsdrift.
+
+

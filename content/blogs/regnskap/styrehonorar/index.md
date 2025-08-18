@@ -34,9 +34,9 @@ Fastsetting av styrehonorar fÃ¸lger vanligvis denne prosessen:
 
 | BedriftsstÃ¸rrelse | Typisk Ã…rshonorar |
 |-------------------|-------------------|
-| SmÃ¥ AS            | krÂ 20Â 000Â â€“Â 50Â 000 |
-| Mellomstore AS    | krÂ 50Â 000Â â€“Â 150Â 000 |
-| Store AS          | krÂ 150Â 000Â â€“Â 500Â 000+ |
+| SmÃ¥ AS            | krÂ 20Â 000Â “Â 50Â 000 |
+| Mellomstore AS    | krÂ 50Â 000Â “Â 150Â 000 |
+| Store AS          | krÂ 150Â 000Â “Â 500Â 000+ |
 
 ## Seksjon 3: Beregningsmodell
 
@@ -90,3 +90,5 @@ For mer informasjon om styrehonorar, se ogsÃ¥:
 * [Hva er bokfÃ¸ring?](/blogs/regnskap/hva-er-bokforing "Hva er BokfÃ¸ring? Komplett Guide til RegnskapsfÃ¸ring og BokfÃ¸ringsprinsipper")
 
 Styrehonorar er en viktig del av selskapsstyringen og krever bÃ¥de juridisk etterlevelse, korrekt skattemessig behandling og god regnskapsfÃ¸ring for Ã¥ sikre tillit og transparens i selskapet.
+
+

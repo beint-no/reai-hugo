@@ -318,3 +318,5 @@ Alle [bilag](/blogs/regnskap/hva-er-bilag "Hva er Bilag i Regnskap? Komplett Gui
 [Avstemming](/blogs/regnskap/hva-er-avstemming "Hva er Avstemming? Komplett Guide til Regnskapsavstemming") av kontoer mÃ¥ gjÃ¸res systematisk for hver kontoklass for Ã¥ sikre regnskapets riktighet.
 
 Kontoklassesystemet er fundamentet som gjÃ¸r det mulig Ã¥ produsere pÃ¥litelige og sammenlignbare finansielle rapporter. Ved Ã¥ forstÃ¥ og korrekt anvende dette systemet, sikrer virksomheter bÃ¥de lovmessighet og god Ã¸konomistyring.
+
+

@@ -28,7 +28,7 @@ Diskontering er prosessen med Ã¥ redusere fremtidige kontantstrÃ¸mmer til de
 
 Det er viktig Ã¥ forstÃ¥ forskjellen mellom diskontering og kapitalisering (compound interest).
 
-For en dypere forstÃ¥else av **kapitalisering** (renters rente), se [Renters rente](/blogs/regnskap/renters-rente "Renters rente â€“ Rente pÃ¥ rente i regnskap").
+For en dypere forstÃ¥else av **kapitalisering** (renters rente), se [Renters rente](/blogs/regnskap/renters-rente "Renters rente “ Rente pÃ¥ rente i regnskap").
 
 ![Diskontering vs Kapitalisering](diskontering-vs-kapitalisering.svg)
 
@@ -388,3 +388,6 @@ Diskontering er et fundamentalt konsept i regnskap og finans som gjÃ¸r det mul
 Ved Ã¥ mestre diskonteringsteknikker kan bedrifter ta bedre finansielle beslutninger og overholde regnskapsstandarder. Det er viktig Ã¥ velge riktig diskonteringsrente, forstÃ¥ risikofaktorer, og anvende konsistente metoder for Ã¥ oppnÃ¥ pÃ¥litelige resultater.
 
 Husk at diskontering er bÃ¥de en kunst og en vitenskap - tekniske ferdigheter mÃ¥ kombineres med god forretningsforstÃ¥else og sunt skjÃ¸nn for Ã¥ oppnÃ¥ de beste resultatene.
+
+
+

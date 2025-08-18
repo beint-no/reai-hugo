@@ -1,13 +1,13 @@
 ﻿---
 title: "Fellesferie - Hva, regler og planlegging i Norge"
 meta_title: "Fellesferie - Hva, regler og planlegging i Norge"
-meta_description: '**Fellesferie** er en periode hvor arbeidstakere avvikler sommerferie samtidig i henhold til **[Ferieloven](/blogs/regnskap/ferieloven "Ferieloven â€“ Lov om fe...'
+meta_description: '**Fellesferie** er en periode hvor arbeidstakere avvikler sommerferie samtidig i henhold til **[Ferieloven](/blogs/regnskap/ferieloven "Ferieloven “ Lov om fe...'
 slug: fellesferie
 type: blog
 layout: pages/single
 ---
 
-**Fellesferie** er en periode hvor arbeidstakere avvikler sommerferie samtidig i henhold til **[Ferieloven](/blogs/regnskap/ferieloven "Ferieloven â€“ Lov om ferie av 29. april 1988 nr. 21")**. Ordningen sikrer planlagt ferieavvikling for virksomheter og gode ferieopplevelser for ansatte.
+**Fellesferie** er en periode hvor arbeidstakere avvikler sommerferie samtidig i henhold til **[Ferieloven](/blogs/regnskap/ferieloven "Ferieloven “ Lov om ferie av 29. april 1988 nr. 21")**. Ordningen sikrer planlagt ferieavvikling for virksomheter og gode ferieopplevelser for ansatte.
 
 ![Fellesferie](fellesferie-image.svg)
 
@@ -21,7 +21,7 @@ FÃ¸lgende regler gjelder som minimum for fellesferie:
 
 | Element           | Krav                                                          |
 |-------------------|---------------------------------------------------------------|
-| **Varighet**      | Minst 3 uker sammenhengende ferie innen perioden 1. juniâ€“30. september |
+| **Varighet**      | Minst 3 uker sammenhengende ferie innen perioden 1. juni“30. september |
 | **Varslingsfrist**| Arbeidsgiver mÃ¥ gi skriftlig beskjed senest 2 mÃ¥neder fÃ¸r ferieavvikling |
 | **Avtaleperiode** | Tidspunkt fastsettes av arbeidsgiver etter drÃ¸fting med arbeidstaker |
 
@@ -30,8 +30,8 @@ FÃ¸lgende regler gjelder som minimum for fellesferie:
 God planlegging av fellesferie krever:
 
 * Tidlig dialog om feriebehov og driftsbehov
- * Fastsettelse av ferieplan i arbeidskontrakten eller intern praksis (se [Arbeidskontrakten](/blogs/regnskap/arbeidskontrakten "Arbeidskontrakten â€“ Roller og Ansvar i Norsk Arbeidsliv og Regnskap"))
- * DrÃ¸fting med tillitsvalgt for Ã¥ ivareta ansattes feriebehov (se [Tillitsvalgt](/blogs/regnskap/tillitsvalgt "Tillitsvalgt â€“ Rolle og ansvar i norsk regnskap"))
+ * Fastsettelse av ferieplan i arbeidskontrakten eller intern praksis (se [Arbeidskontrakten](/blogs/regnskap/arbeidskontrakten "Arbeidskontrakten “ Roller og Ansvar i Norsk Arbeidsliv og Regnskap"))
+ * DrÃ¸fting med tillitsvalgt for Ã¥ ivareta ansattes feriebehov (se [Tillitsvalgt](/blogs/regnskap/tillitsvalgt "Tillitsvalgt “ Rolle og ansvar i norsk regnskap"))
  * Skjema eller digital lÃ¸sning for ferieÃ¸nsker og godkjenning
 
 ## Seksjon 4: Regnskapsmessige implikasjoner
@@ -50,3 +50,6 @@ Fellesferie er en viktig del av ferieavviklingen i norske virksomheter. For Ã¥
 * Avsette og regnskapsfÃ¸re feriekostnader korrekt i regnskapet
 
 God praksis rundt fellesferie bidrar til forutsigbarhet, tilfredse ansatte og overholdelse av lovkrav.
+
+
+

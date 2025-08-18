@@ -1,13 +1,13 @@
 ﻿---
 title: "Hva er varige driftsmidler?"
 meta_title: "Hva er varige driftsmidler?"
-meta_description: '**Varige driftsmidler** er en type [driftsmidler](/blogs/regnskap/driftsmidler "Driftsmidler â€“ Komplett guide til betydning, klassifisering og regnskapsbehand...'
+meta_description: '**Varige driftsmidler** er en type [driftsmidler](/blogs/regnskap/driftsmidler "Driftsmidler “ Komplett guide til betydning, klassifisering og regnskapsbehand...'
 slug: hva-er-varige-driftsmidler
 type: blog
 layout: pages/single
 ---
 
-**Varige driftsmidler** er en type [driftsmidler](/blogs/regnskap/driftsmidler "Driftsmidler â€“ Komplett guide til betydning, klassifisering og regnskapsbehandling") og er **langsiktige materielle eiendeler** som brukes aktivt i bedriftens drift og er **avskrivbare** over tid. Disse eiendelene skiller seg fra andre [anleggsmidler](/blogs/regnskap/hva-er-anleggsmidler "Hva er Anleggsmidler? Komplett Guide til Faste Eiendeler i Regnskap") ved at de har fysisk substans og brukes direkte i produksjon eller drift. Varige driftsmidler utgjÃ¸r ofte den stÃ¸rste delen av materielle [anleggsmidler](/blogs/regnskap/hva-er-anleggsmidler "Hva er Anleggsmidler? Komplett Guide til Faste Eiendeler i Regnskap") og er kritiske for bedriftens operative kapasitet.
+**Varige driftsmidler** er en type [driftsmidler](/blogs/regnskap/driftsmidler "Driftsmidler “ Komplett guide til betydning, klassifisering og regnskapsbehandling") og er **langsiktige materielle eiendeler** som brukes aktivt i bedriftens drift og er **avskrivbare** over tid. Disse eiendelene skiller seg fra andre [anleggsmidler](/blogs/regnskap/hva-er-anleggsmidler "Hva er Anleggsmidler? Komplett Guide til Faste Eiendeler i Regnskap") ved at de har fysisk substans og brukes direkte i produksjon eller drift. Varige driftsmidler utgjÃ¸r ofte den stÃ¸rste delen av materielle [anleggsmidler](/blogs/regnskap/hva-er-anleggsmidler "Hva er Anleggsmidler? Komplett Guide til Faste Eiendeler i Regnskap") og er kritiske for bedriftens operative kapasitet.
 
 ![Hva er varige driftsmidler - oversikt](hva-er-varige-driftsmidler-image.svg)
 
@@ -555,3 +555,5 @@ Kredit: Gevinst ved salg anleggsmidler     50.000
 For moderne bedrifter blir digitaliseringen av driftsmiddelforvaltningen stadig viktigere, med IoT-sensorer, prediktivt vedlikehold og AI-basert optimalisering som nye standarder. Samtidig Ã¸ker fokuset pÃ¥ bÃ¦rekraft kravene til energieffektivitet og miljÃ¸pÃ¥virkning.
 
 Ved Ã¥ fÃ¸lge etablerte prinsipper for **regnskapsfÃ¸ring**, **verdsettelse** og **forvaltning** kan bedrifter sikre at deres varige driftsmidler bidrar optimalt til verdiskaping og langsiktig suksess. For mer informasjon om relaterte emner, se vÃ¥re artikler om [avskrivningsmetoder](/blogs/regnskap/hva-er-saldoavskrivning "Hva er Saldoavskrivning i Regnskap? Komplett Guide til Degressiv Avskrivning"), [anskaffelseskostnader](/blogs/regnskap/hva-er-anskaffelse "Hva er Anskaffelse? RegnskapsfÃ¸ring og Skattemessig Behandling") og [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse i Regnskap? Komplett Guide til Balansen og Dens Komponenter").
+
+

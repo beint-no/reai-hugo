@@ -33,7 +33,7 @@ I henhold til arbeidsmiljÃ¸loven Â§14-6 mÃ¥ skriftlige arbeidsavtaler som 
 
 ## Seksjon 3: Typer arbeidskontrakter
 
-Avhengig av behov og varighet finnes det flere kontraktsformer. Se ogsÃ¥ [Arbeidsgiver](/blogs/regnskap/arbeidsgiver "Arbeidsgiver â€“ Roller og Ansvar i Norsk Arbeidsliv og Regnskap") for arbeidsgivers ansvar ved ansettelse.
+Avhengig av behov og varighet finnes det flere kontraktsformer. Se ogsÃ¥ [Arbeidsgiver](/blogs/regnskap/arbeidsgiver "Arbeidsgiver “ Roller og Ansvar i Norsk Arbeidsliv og Regnskap") for arbeidsgivers ansvar ved ansettelse.
 
 - **Fast stilling** (ubegrenset varighet)
 - **Midlertidig ansettelse** (tidsbegrenset)
@@ -82,6 +82,9 @@ En velskrevet **arbeidskontrakt** er fundamentet for et trygt og lovlig arbeidsf
 
 ## Relaterte artikler
 
-  - [Hva er Arbeidsforholdstype?](/blogs/regnskap/hva-er-arbeidsforholdstype "Hva er Arbeidsforholdstype?") â€“ Oversikt over ulike ansettelsesformer.
-  - [Arbeidsgiver](/blogs/regnskap/arbeidsgiver "Arbeidsgiver â€“ Roller og Ansvar i Norsk Arbeidsliv og Regnskap") â€“ Arbeidsgivers juridiske og Ã¸konomiske ansvar.
-  - [Tillitsvalgt](/blogs/regnskap/tillitsvalgt "Tillitsvalgt â€“ Rolle og ansvar i norsk regnskap") â€“ Rolle og ansvar for ansatterepresentanter i norsk regnskap.
+  - [Hva er Arbeidsforholdstype?](/blogs/regnskap/hva-er-arbeidsforholdstype "Hva er Arbeidsforholdstype?") “ Oversikt over ulike ansettelsesformer.
+  - [Arbeidsgiver](/blogs/regnskap/arbeidsgiver "Arbeidsgiver “ Roller og Ansvar i Norsk Arbeidsliv og Regnskap") “ Arbeidsgivers juridiske og Ã¸konomiske ansvar.
+  - [Tillitsvalgt](/blogs/regnskap/tillitsvalgt "Tillitsvalgt “ Rolle og ansvar i norsk regnskap") “ Rolle og ansvar for ansatterepresentanter i norsk regnskap.
+
+
+

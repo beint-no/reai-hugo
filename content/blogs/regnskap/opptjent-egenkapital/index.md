@@ -19,7 +19,7 @@ Opptjent egenkapital beregnes ved Ã¥ ta selskapets totale akkumulert resultat 
 
 ![Beregning av Opptjent egenkapital](opptjent-egenkapital-formel.svg)
 
-*Opptjent egenkapital* **= Akkumulert resultat etter skatt â€“ Utbetalte utbytter**
+*Opptjent egenkapital* **= Akkumulert resultat etter skatt “ Utbetalte utbytter**
 
 ### Viktige Komponenter
 
@@ -58,3 +58,5 @@ Se ogsÃ¥:
 For detaljer om utbytteutbetalinger og regnskapsregler, se vÃ¥re artikler om 
 [EkstraordinÃ¦rt utbytte](/blogs/regnskap/ekstraordinart-utbytte "EkstraordinÃ¦rt Utbytte - Regler og Beregning") 
 og [Maskimalt Utbytte](/blogs/regnskap/maskimalt-utbytte "Maskimalt Utbytte - Komplett Guide til Utbytteregler og Beregning").
+
+

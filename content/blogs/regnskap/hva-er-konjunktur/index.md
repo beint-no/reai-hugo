@@ -11,7 +11,7 @@ layout: pages/single
 
 For et bredere perspektiv pÃ¥ de overordnede Ã¸konomiske kreftene, se **[MakroÃ¸konomi](/blogs/regnskap/makrookonomi "MakroÃ¸konomi: Prinsipper og Betydning for Norsk Regnskap")**.
 
-Datagrunnlaget for konjunkturanalyse hentes fra **[Statistisk sentralbyrÃ¥ (SSB)](/blogs/regnskap/statistisk-sentralbyra "Statistisk sentralbyrÃ¥ (SSB) â€“ Offisiell statistikk og betydning for regnskap i Norge")**, som publiserer lÃ¸pende Ã¸konomiske rapporter og indikatorer.
+Datagrunnlaget for konjunkturanalyse hentes fra **[Statistisk sentralbyrÃ¥ (SSB)](/blogs/regnskap/statistisk-sentralbyra "Statistisk sentralbyrÃ¥ (SSB) “ Offisiell statistikk og betydning for regnskap i Norge")**, som publiserer lÃ¸pende Ã¸konomiske rapporter og indikatorer.
 
 ## Hva er Konjunktur?
 
@@ -435,3 +435,5 @@ Moderne Ã¸konomi pÃ¥virkes av nye faktorer som endrer tradisjonelle konjunkt
 Ved Ã¥ fÃ¸lge konjunkturindikatorer, implementere fleksible strategier og opprettholde konservativ regnskapsfÃ¸ring, kan bedrifter navigere gjennom Ã¸konomiske sykluser og opprettholde langsiktig lÃ¸nnsomhet og vekst.
 
 Moderne bedrifter mÃ¥ ogsÃ¥ vÃ¦re forberedt pÃ¥ at fremtidige konjunktursykluser kan vÃ¦re pÃ¥virket av nye faktorer som teknologi, klimaendringer og geopolitiske forhold, noe som krever kontinuerlig tilpasning av bÃ¥de forretningsstrategier og regnskapspraksis.
+
+

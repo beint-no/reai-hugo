@@ -23,11 +23,11 @@ En **put-opsjon** gir innehaveren rett til Ã¥ selge en underliggende eiendel t
 
 En put-opsjon bestÃ¥r av flere nÃ¸kkelfaktorer:
 
-* **Underliggende eiendel** â€“ den finansielle eiendelen som kan selges.
-* **UtÃ¸velsespris (K)** â€“ den avtalte prisen innehaveren kan selge eiendelen for.
-* **UtlÃ¸psdato (T)** â€“ siste dag opsjonen kan utÃ¸ves.
-* **Opsjonspremie** â€“ kostnaden for Ã¥ erverve put-opsjonen.
-* **Volatilitet (Ïƒ)** â€“ forventet variasjon i underliggende eiendels pris.
+* **Underliggende eiendel** “ den finansielle eiendelen som kan selges.
+* **UtÃ¸velsespris (K)** “ den avtalte prisen innehaveren kan selge eiendelen for.
+* **UtlÃ¸psdato (T)** “ siste dag opsjonen kan utÃ¸ves.
+* **Opsjonspremie** “ kostnaden for Ã¥ erverve put-opsjonen.
+* **Volatilitet (Ïƒ)** “ forventet variasjon i underliggende eiendels pris.
 
 ## Payoffdiagram for put-opsjon
 
@@ -68,3 +68,5 @@ Videre mÃ¥ etterfÃ¸lgende mÃ¥ling skje enten til virkelig verdi gjennom re
 * [Hva er en Opsjonsavtale?](/blogs/regnskap/hva-er-opsjonsavtale "Hva er en Opsjonsavtale? Komplett Guide til Opsjoner i Regnskap")
 * [Hva er en Call-opsjon?](/blogs/regnskap/call-opsjon "Hva er en Call-opsjon? En Guide til KjÃ¸psopsjoner i Regnskap")
 * [Hva er Derivater?](/blogs/regnskap/derivater "Hva er Derivater? En Guide til Derivater i Regnskap")
+
+

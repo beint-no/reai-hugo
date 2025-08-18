@@ -58,3 +58,5 @@ Eksempel:
 ## Oppsummering
 
 Resultat er en **nÃ¸kkelindikator** som viser bedriftens Ã¸konomiske ytelse i en regnskapsperiode. Ved Ã¥ forstÃ¥ de ulike resultatnivÃ¥ene kan du ta mer informerte **Ã¸konomiske beslutninger** og analysere lÃ¸nnsomhet pÃ¥ flere nivÃ¥er.
+
+

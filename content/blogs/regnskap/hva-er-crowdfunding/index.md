@@ -222,3 +222,6 @@ Bedrifter som vurderer crowdfunding bÃ¸r:
 * **Opprettholde transparens:** Kommuniser Ã¥pent med bidragsytere og interessenter
 
 Med riktig planlegging og implementering kan crowdfunding vÃ¦re en verdifull finansieringskilde som styrker bedriftens [arbeidskapital](/blogs/regnskap/hva-er-arbeidskapital "Hva er Arbeidskapital? Komplett Guide til Likviditetsstyring") og vekstmuligheter. Bedrifter bÃ¸r ogsÃ¥ vurdere andre finansieringsalternativer som [egenfinansiering](/blogs/regnskap/hva-er-egenfinansiering "Hva er Egenfinansiering? Komplett Guide til Egenkapitalfinansiering") for Ã¥ finne den optimale kapitalstrukturen, samtidig som alle regnskapsmessige og juridiske krav oppfylles.
+
+
+

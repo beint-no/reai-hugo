@@ -13,19 +13,19 @@ layout: pages/single
 
 ## Hva er firmaskatt?
 
-Firmaskatt, eller selskapsskatt, beregnes pÃ¥ grunnlag av [alminnelig inntekt](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt â€“ Komplett guide") etter fradrag og justeringer. FormÃ¥let med firmaskatten er Ã¥ finansiere offentlige tjenester og sikre korrekt fordeling av skattebyrden mellom virksomheter.
+Firmaskatt, eller selskapsskatt, beregnes pÃ¥ grunnlag av [alminnelig inntekt](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt “ Komplett guide") etter fradrag og justeringer. FormÃ¥let med firmaskatten er Ã¥ finansiere offentlige tjenester og sikre korrekt fordeling av skattebyrden mellom virksomheter.
 
 ## Hvordan beregnes firmaskatt?
 
 Beregningsgrunnlaget for firmaskatt bestÃ¥r av fÃ¸lgende komponenter:
 
-* **Alminnelig inntekt**: Netto skattegrunnlag etter fradrag ([alminnelig inntekt](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt â€“ Komplett guide"))  
+* **Alminnelig inntekt**: Netto skattegrunnlag etter fradrag ([alminnelig inntekt](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt “ Komplett guide"))  
 * **Skattesats**: Gjeldende sats for selskapsÂ­skatt (**22â€¯%** per 2024)  
-* **Forskuddsskatt**: Tidligere betalte terminer som motregnes ([betalbar skatt](/blogs/regnskap/betalbar-skatt "Betalbar skatt â€“ Komplett guide til beregning og hÃ¥ndtering"))  
+* **Forskuddsskatt**: Tidligere betalte terminer som motregnes ([betalbar skatt](/blogs/regnskap/betalbar-skatt "Betalbar skatt “ Komplett guide til beregning og hÃ¥ndtering"))  
 
 | **Element**           | **Beskrivelse**                                                                                  |
 |-----------------------|--------------------------------------------------------------------------------------------------|
-| Alminnelig inntekt    | [Alminnelig inntekt](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt â€“ Komplett guide")    |
+| Alminnelig inntekt    | [Alminnelig inntekt](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt “ Komplett guide")    |
 | Ã— Skattesats (22â€¯%)   | Gjeldende sats for selskapsskatt                                                                   |
 | âˆ’ Forskuddsskatt      | Betalte terminer gjennom Ã¥ret ([betalbar skatt](/blogs/regnskap/betalbar-skatt "Betalbar skatt")) |
 | **= Firmaskatt**      | BelÃ¸pet som skal innbetales til Skatteetaten                                                        |
@@ -50,7 +50,7 @@ Forskuddsskatt betales i fire terminer:
 | 3. termin     | 15. juni       |
 | 4. termin     | 15. oktober    |
 
-For full oversikt over betaling og bokfÃ¸ring, se [Betalbar skatt](/blogs/regnskap/betalbar-skatt "Betalbar skatt â€“ Komplett guide til beregning og hÃ¥ndtering").
+For full oversikt over betaling og bokfÃ¸ring, se [Betalbar skatt](/blogs/regnskap/betalbar-skatt "Betalbar skatt “ Komplett guide til beregning og hÃ¥ndtering").
 
 ## Firmaskatt i regnskapet
 
@@ -92,7 +92,10 @@ Skjermingsfradraget reduserer den skattepliktige gevinsten ved utbytte i aksjese
 
 ## Relatert lesning
 
-* [Alminnelig inntekt](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt â€“ Komplett guide")  
-* [Betalbar skatt](/blogs/regnskap/betalbar-skatt "Betalbar skatt â€“ Komplett guide til beregning og hÃ¥ndtering")  
+* [Alminnelig inntekt](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt “ Komplett guide")  
+* [Betalbar skatt](/blogs/regnskap/betalbar-skatt "Betalbar skatt “ Komplett guide til beregning og hÃ¥ndtering")  
 * [Utsatt skatt](/blogs/regnskap/hva-er-utsatt-skatt "Hva er Utsatt Skatt? Beregning og RegnskapsfÃ¸ring")  
 * [Hva er et aksjeselskap?](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap?")
+
+
+

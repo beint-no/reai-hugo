@@ -62,3 +62,6 @@ En typisk **due diligence**-prosess bestÃ¥r av fire hovedfaser:
 ## Videre lesning
 
 For en dyptgÃ¥ende gjennomgang av *finansiell* og *operasjonell* due diligence, se ogsÃ¥ vÃ¥re artikler om [finansregnskap](/blogs/regnskap/hva-er-finansregnskap "Hva er Finansregnskap? En Komplett Guide til Ekstern Finansiell Rapportering") og [driftsmidler](/blogs/regnskap/hva-er-driftsmidler "Hva er Driftsmidler? En Komplett Guide til Varige Driftsmidler og Avskrivninger").
+
+
+

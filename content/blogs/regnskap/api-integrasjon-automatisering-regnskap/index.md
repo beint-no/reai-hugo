@@ -9,9 +9,9 @@ layout: pages/single
 
 **API-integrasjon og automatisering av regnskap** representerer fremtiden for moderne regnskapsfÃ¸ring, hvor teknologi eliminerer manuelle prosesser og skaper sÃ¸mlÃ¸s dataflyt mellom ulike forretningssystemer. For norske bedrifter betyr dette en revolusjon i hvordan [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er regnskap? En Dybdeanalyse for Norge") hÃ¥ndteres, fra tradisjonell manuell [bokfÃ¸ring](/blogs/regnskap/hva-er-bokforing "Hva er BokfÃ¸ring? En Komplett Guide til Norsk BokfÃ¸ringspraksis") til fullstendig automatiserte regnskapsprosesser.
 
-*Se ogsÃ¥: [Databriller i Regnskap](/blogs/regnskap/databriller "Databriller i Regnskap â€“ Visualisering og Analyse av Regnskapsdata").*
+*Se ogsÃ¥: [Databriller i Regnskap](/blogs/regnskap/databriller "Databriller i Regnskap “ Visualisering og Analyse av Regnskapsdata").*
 
-*Se ogsÃ¥: [Integrasjon](/blogs/regnskap/integrasjon "Integrasjon â€“ En InnfÃ¸ring i Integrasjonskonsepter i Regnskap").*
+*Se ogsÃ¥: [Integrasjon](/blogs/regnskap/integrasjon "Integrasjon “ En InnfÃ¸ring i Integrasjonskonsepter i Regnskap").*
 
 *Se ogsÃ¥: [Hva er Betalingstjenestedirektivet (PSD2)?](/blogs/regnskap/hva-er-betalingstjenestedirektivet "Hva er Betalingstjenestedirektivet (PSD2)?").*
 
@@ -130,7 +130,7 @@ Disse API-er bygger pÃ¥ infrastrukturen til moderne [betalingstjenester](/blog
 
 **Fakturaautomatisering:**
 
-[Fakturatolk](/blogs/regnskap/hva-er-fakturatolk "Hva er Fakturatolk? AI-drevet Fakturabehandling og Automatisering") og [OCR-teknologi](/blogs/regnskap/hva-er-ocr "Hva er OCR? OCR i Norske Regnskapsprosesser â€“ En Komplett Guide") kombinert med API-er muliggjÃ¸r:
+[Fakturatolk](/blogs/regnskap/hva-er-fakturatolk "Hva er Fakturatolk? AI-drevet Fakturabehandling og Automatisering") og [OCR-teknologi](/blogs/regnskap/hva-er-ocr "Hva er OCR? OCR i Norske Regnskapsprosesser “ En Komplett Guide") kombinert med API-er muliggjÃ¸r:
 
 * Automatisk lesing og tolking av innkommende fakturaer
 * Validering mot bestillinger og kontrakter
@@ -412,3 +412,6 @@ API-integrasjon og automatisering av regnskap representerer en fundamental endri
 For bedrifter som Ã¸nsker Ã¥ vÃ¦re konkurransedyktige i fremtidens digitale Ã¸konomi, er API-integrasjon og automatisering av regnskap ikke lenger et valg, men en nÃ¸dvendighet. Ved Ã¥ fÃ¸lge beste praksis og lÃ¦re av andres erfaringer, kan norske bedrifter lykkes med denne viktige digitaliseringsreisen.
 
 Fremtiden tilhÃ¸rer de bedriftene som klarer Ã¥ kombinere teknologisk innovasjon med solid forretningsforstÃ¥else, og API-automatisering av regnskap er en av de viktigste byggesteinene i denne transformasjonen.
+
+
+

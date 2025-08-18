@@ -280,3 +280,6 @@ Depositum er et viktig sikkerhetsinstrument som krever **korrekt regnskapsfÃ¸r
 * **Vurder alternative sikkerhetsinstrumenter** nÃ¥r det er hensiktsmessig
 
 Ved Ã¥ fÃ¸lge disse prinsippene sikrer du **korrekt regnskapsfÃ¸ring** og **effektiv administrasjon** av depositum i din virksomhet.
+
+
+

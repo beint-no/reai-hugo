@@ -80,3 +80,6 @@ Hvis du senere selger Ã©n av disse aksjene for 120 kr, vil din skattepliktige 
 ## Konklusjon
 
 En aksjesplitt er et verktÃ¸y selskaper kan bruke for Ã¥ justere aksjekursen og Ã¸ke likviditeten. For en investor endrer ikke en splitt den fundamentale verdien av investeringen, men den Ã¸ker antallet aksjer man eier. Det er en teknisk justering som ikke har umiddelbare skattemessige konsekvenser, men som krever at man justerer sin kostpris per aksje for fremtidige transaksjoner. ForstÃ¥elsen av hvordan en splitt fungerer er en viktig del av det Ã¥ vÃ¦re en informert [aksjonÃ¦r](/blogs/regnskap/hva-er-en-aksjonaer "Hva er en AksjonÃ¦r? En Komplett Guide").
+
+
+

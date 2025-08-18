@@ -49,7 +49,7 @@ Den **ordinÃ¦re MVA-satsen** pÃ¥ 25% gjelder for de fleste varer og tjeneste
 
 **Redusert sats** pÃ¥ 15% gjelder for:
 
-* **NÃ¦ringsmidler** (mat og drikke for mennesker) â€“ se [Moms pÃ¥ mat](/blogs/regnskap/moms-paa-mat "Moms pÃ¥ mat: Alt du trenger Ã¥ vite om MVA pÃ¥ mat og drikke")
+* **NÃ¦ringsmidler** (mat og drikke for mennesker) “ se [Moms pÃ¥ mat](/blogs/regnskap/moms-paa-mat "Moms pÃ¥ mat: Alt du trenger Ã¥ vite om MVA pÃ¥ mat og drikke")
 * **Overnatting** pÃ¥ hotell, pensjonat og lignende
 * **Persontransport** med rutebil, bÃ¥t, tog og fly
 * **Kino** og andre kulturarrangementer
@@ -471,3 +471,5 @@ For [enkeltpersonforetak](/blogs/regnskap/hva-er-enkeltpersonforetak "Hva er et 
 * **Effektiv drift** med gode rutiner og systemer
 
 Uansett virksomhetens stÃ¸rrelse og kompleksitet er det viktig Ã¥ prioritere MVA-compliance som en integrert del av den daglige driften og den overordnede [regnskapsfÃ¸ringen](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide").
+
+

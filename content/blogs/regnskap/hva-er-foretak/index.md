@@ -153,7 +153,7 @@ Alle foretak som er registrert i Enhetsregisteret har [bokfÃ¸ringsplikt](/blog
 Foretakene mÃ¥ fÃ¸lge:
 
 * **God regnskapsskikk** som grunnleggende prinsipp
-* **Regnskapsstandard for smÃ¥ foretak** (RSFF) for mindre virksomheter (se [SmÃ¥ Foretak](/blogs/regnskap/sma-foretak "SmÃ¥ Foretak â€“ Kriterier, Regnskapsstandard og Forenklinger"))
+* **Regnskapsstandard for smÃ¥ foretak** (RSFF) for mindre virksomheter (se [SmÃ¥ Foretak](/blogs/regnskap/sma-foretak "SmÃ¥ Foretak “ Kriterier, Regnskapsstandard og Forenklinger"))
 * **Norsk regnskapsstandard** (NRS) for stÃ¸rre foretak
 * **IFRS** for bÃ¸rsnoterte selskaper
 
@@ -173,7 +173,7 @@ Dette er sÃ¦rlig relevant for [enkeltpersonforetak](/blogs/regnskap/hva-er-enk
 
 Revisjonsplikt avhenger av foretakets stÃ¸rrelse:
 
-#### [SmÃ¥ Foretak](/blogs/regnskap/sma-foretak "SmÃ¥ Foretak â€“ Kriterier, Regnskapsstandard og Forenklinger") (Fritatt for Revisjon)
+#### [SmÃ¥ Foretak](/blogs/regnskap/sma-foretak "SmÃ¥ Foretak “ Kriterier, Regnskapsstandard og Forenklinger") (Fritatt for Revisjon)
 * Salgsinntekt under **70 millioner kr**
 * Balansesum under **35 millioner kr**
 * Gjennomsnittlig under **50 ansatte**
@@ -196,7 +196,7 @@ Gjelder for:
 * Kommandittselskaper (for komplementarer)
 
 **Karakteristikker:**
-* Overskudd beskattes som [**personinntekt**](/blogs/regnskap/personinntekt "Personinntekt â€“ Komplett guide til personinntekt i norsk regnskap")
+* Overskudd beskattes som [**personinntekt**](/blogs/regnskap/personinntekt "Personinntekt “ Komplett guide til personinntekt i norsk regnskap")
 * **Progressiv skattesats** (0-47,4%)
 * Ingen dobbeltbeskatning
 * Eieren kan ta ut midler fritt
@@ -374,3 +374,5 @@ Det er viktig Ã¥ vurdere bÃ¥de **nÃ¥vÃ¦rende situasjon** og **fremtidige
 **Profesjonell rÃ¥dgivning** fra regnskapsfÃ¸rer, advokat eller revisor anbefales for Ã¥ sikre at valget er optimalt for den konkrete situasjonen. God planlegging i startfasen kan spare mye tid, penger og komplikasjoner senere.
 
 Uansett hvilken foretaksform som velges, er det viktig Ã¥ fÃ¸lge gjeldende lover og regler for [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide"), [bokfÃ¸ring](/blogs/regnskap/hva-er-bokforing "Hva er BokfÃ¸ring? Komplett Guide til BokfÃ¸ringsprinsipper") og rapportering for Ã¥ sikre en vellykket og lovlig drift av virksomheten.
+
+

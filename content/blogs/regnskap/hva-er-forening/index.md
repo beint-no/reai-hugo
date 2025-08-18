@@ -9,7 +9,7 @@ layout: pages/single
 
 En **forening** er en sammenslutning av personer som har sluttet seg sammen for Ã¥ fremme felles interesser eller oppnÃ¥ et bestemt formÃ¥l. I regnskapssammenheng har foreninger sÃ¦rlige krav og regler som skiller seg fra ordinÃ¦re [aksjeselskaper](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap? Komplett Guide til AS i Norge") og [enkeltpersonforetak](/blogs/regnskap/hva-er-enkeltpersonforetak "Hva er Enkeltpersonforetak? Komplett Guide til ENK i Norge"). Denne artikkelen gir en omfattende oversikt over regnskapsfÃ¸ring for foreninger og organisasjoner i Norge.
 
-En viktig **bransjeorganisasjon** innen regnskap er [Regnskap Norge](/blogs/regnskap/regnskap-norge "Regnskap Norge â€“ Bransjeorganisasjon for RegnskapsfÃ¸rere og RegnskapsbyrÃ¥er"), som representerer regnskapsfÃ¸rere og [regnskapsbyrÃ¥er](/blogs/regnskap/regnskapsbyra "RegnskapsbyrÃ¥: Hva gjÃ¸r de og hvorfor er det viktig?") over hele landet.
+En viktig **bransjeorganisasjon** innen regnskap er [Regnskap Norge](/blogs/regnskap/regnskap-norge "Regnskap Norge “ Bransjeorganisasjon for RegnskapsfÃ¸rere og RegnskapsbyrÃ¥er"), som representerer regnskapsfÃ¸rere og [regnskapsbyrÃ¥er](/blogs/regnskap/regnskapsbyra "RegnskapsbyrÃ¥: Hva gjÃ¸r de og hvorfor er det viktig?") over hele landet.
 
 ## Hva er en Forening?
 
@@ -262,3 +262,5 @@ RegnskapsfÃ¸ring for foreninger krever forstÃ¥else av bÃ¥de generelle regn
 Suksessfulle foreninger investerer i god **Ã¸konomistyring**, etablerer robuste kontrollsystemer og sikrer tilstrekkelig kompetanse innen [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Dybdeanalyse for Norge") og [bokfÃ¸ring](/blogs/regnskap/hva-er-bokforing "Hva er BokfÃ¸ring? En Komplett Guide til Norsk BokfÃ¸ringspraksis"). Med riktig tilnÃ¦rming kan regnskapet bli et verdifullt verktÃ¸y for strategisk ledelse og ikke bare en lovpÃ¥lagt oppgave.
 
 Enten det gjelder en liten hobbyforening eller en stor interesseorganisasjon, er solid regnskapsfÃ¸ring grunnlaget for tillit, transparens og langsiktig bÃ¦rekraft i foreningssektoren.
+
+

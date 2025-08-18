@@ -175,7 +175,7 @@ Total utbetaling: 50.000 kr (100% av lÃ¸nn)
 | **Ytelse** | **Kombinasjonsregel** | **Regnskapsimplikasjon** |
 |------------|----------------------|--------------------------|
 | [UfÃ¸retrygd](/blogs/regnskap/skatt-pa-uforetrygd "Skatt pÃ¥ UfÃ¸retrygd - Komplett Guide til Beregning og RegnskapsfÃ¸ring") | Gradert kombinasjon mulig | Kompleks lÃ¸nnsberegning |
-| [Foreldrepenger](/blogs/regnskap/fodselspermisjon "FÃ¸dselspermisjon â€“ Guide til regnskapsfÃ¸ring av foreldrepenger") | Gjensidig utelukkende | Enten/eller situasjon |
+| [Foreldrepenger](/blogs/regnskap/fodselspermisjon "FÃ¸dselspermisjon “ Guide til regnskapsfÃ¸ring av foreldrepenger") | Gjensidig utelukkende | Enten/eller situasjon |
 | Arbeidsavklaringspenger | Erstatter sykepenger | Overgang mellom ordninger |
 
 ### 4.3 Feriepenger under Sykdom
@@ -499,3 +499,5 @@ For regnskapsfÃ¸rere, personalledere og bedriftsledere er forstÃ¥else av syk
 Sykepengeordningen utvikler seg kontinuerlig med teknologiske fremskritt, demografiske endringer og politiske reformer. Bedrifter som investerer i moderne administrasjonssystemer, forebyggende helsearbeid og robust [internkontroll](/blogs/regnskap/hva-er-internkontroll "Hva er Internkontroll? Prinsipper og Implementering i Bedriften") vil vÃ¦re best posisjonert for fremtidige endringer.
 
 Den praktiske hÃ¥ndteringen av sykepenger er ikke bare en administrativ oppgave - det er en strategisk mulighet for Ã¥ demonstrere ansvarlighet som arbeidsgiver, optimalisere [driftskostnader](/blogs/regnskap/hva-er-driftskostnader "Hva er Driftskostnader? Klassifisering og RegnskapsfÃ¸ring") og bygge et bÃ¦rekraftig arbeidsfellesskap som prioriterer bÃ¥de produktivitet og ansattes velferd.
+
+

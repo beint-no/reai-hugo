@@ -323,3 +323,5 @@ Kreditorer pÃ¥virker flere regnskapsrapporter:
 God kreditorhÃ¥ndtering er avgjÃ¸rende for Ã¥ opprettholde gode leverandÃ¸rforhold, optimalisere [likviditet](/blogs/regnskap/hva-er-betalingsevne "Hva er Betalingsevne? Guide til Likviditetsanalyse") og redusere kostnader. Ved Ã¥ fÃ¸lge best practices og bruke moderne digitale verktÃ¸y kan virksomheter optimalisere sin kreditorprosess og styrke sin finansielle posisjon.
 
 KreditorhÃ¥ndtering er ikke bare et regnskapsteknisk spÃ¸rsmÃ¥l, men en strategisk aktivitet som pÃ¥virker bÃ¥de leverandÃ¸rforhold og lÃ¸nnsomhet. Balansen mellom Ã¥ utnytte kredittbetingelser og opprettholde gode leverandÃ¸rforhold er nÃ¸kkelen til suksess.
+
+

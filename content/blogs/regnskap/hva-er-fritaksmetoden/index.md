@@ -9,7 +9,7 @@ layout: pages/single
 
 **Fritaksmetoden** er en sentral skatteregel i norsk skattelovgivning som gir **skattefritak for utbytte og gevinst** ved salg av aksjer mellom selskaper. Denne metoden ble innfÃ¸rt for Ã¥ eliminere **dobbeltbeskatning** og stimulere til investeringer mellom norske bedrifter, og er en viktig del av det norske [skattesystemet](/blogs/regnskap/hva-er-forskuddstrekk "Forskuddstrekk - Komplett Guide til Skatt og Trekk av LÃ¸nn") for selskaper.
 
-For en oversikt over skatteregler for aksjegevinster hos bÃ¥de privatpersoner og selskaper, se [Skatt pÃ¥ aksjegevinst](/blogs/regnskap/skatt-pa-aksjegevinst "Skatt pÃ¥ aksjegevinst â€“ Guide til beskatning av aksjegevinster i Norge").
+For en oversikt over skatteregler for aksjegevinster hos bÃ¥de privatpersoner og selskaper, se [Skatt pÃ¥ aksjegevinst](/blogs/regnskap/skatt-pa-aksjegevinst "Skatt pÃ¥ aksjegevinst “ Guide til beskatning av aksjegevinster i Norge").
 
 For en komplett oversikt over hvordan fritaksmetoden fungerer sammen med andre skatteordninger for aksjonÃ¦rer, se vÃ¥r [AksjonÃ¦rmodellen - Komplett Guide til Norsk Aksjebeskatning](/blogs/regnskap/aksjonaermodellen-guide "AksjonÃ¦rmodellen - Komplett Guide til Norsk Aksjebeskatning").
 
@@ -278,3 +278,5 @@ For selskaper som vurderer investeringer i andre selskaper, er det viktig Ã¥ p
 
 * [AksjonÃ¦rmodellen](/blogs/regnskap/aksjonaermodellen-guide "AksjonÃ¦rmodellen - Komplett Guide til Norsk Aksjebeskatning")
 Fritaksmetoden vil fortsette Ã¥ vÃ¦re en sentral del av norsk skattelovgivning og spille en viktig rolle i Ã¥ stimulere investeringer og kapitalflyt mellom norske bedrifter.
+
+

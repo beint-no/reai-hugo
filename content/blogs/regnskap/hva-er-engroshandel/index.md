@@ -328,3 +328,5 @@ Engroshandel representerer en kompleks og kapitalkrevende virksomhetstype som kr
 * **Teknologisk modernisering** for konkurranseevne
 
 Ved Ã¥ implementere beste praksis innen regnskapsfÃ¸ring, investere i moderne teknologi og fokusere pÃ¥ kontinuerlig forbedring kan engroshandelsvirksomheter oppnÃ¥ bÃ¥de operasjonell effektivitet og finansiell kontroll som grunnlag for bÃ¦rekraftig vekst i et stadig mer konkurranseutsatt marked.
+
+

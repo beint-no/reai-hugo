@@ -20,15 +20,15 @@ Noter i regnskap er tekstlige og numeriske opplysninger som utdyper og supplerer
 I Norge reguleres noteopplysninger primÃ¦rt av [regnskapsloven Â§â€¯7-1 til Â§â€¯7-45](/blogs/regnskap/hva-er-regnskapsloven "Hva er Regnskapsloven? Oversikt og Veiledning") og bokfÃ¸ringsloven, med krav som varierer etter selskapstype og stÃ¸rrelse:
 
 ### Store foretak
-* **Detaljerte regnskapsprinsipper** â€“ beskrivelse av mÃ¥le- og vurderingsregler
-* **Estimatusikkerhet** â€“ omrÃ¥der med betydelig usikkerhet og skjÃ¸nnsmessige vurderinger
-* **Segmentrapportering** â€“ informasjon om forretnings- og geografiske segmenter (se [Hva er IFRS?](/blogs/regnskap/hva-er-ifrs "Hva er IFRS? Komplett Guide til International Financial Reporting Standards"))
-* **Risikostyring** â€“ omfattende beskrivelse av finansiell risiko (kredittrisik o, likviditetsrisiko, markedsrisiko)
+* **Detaljerte regnskapsprinsipper** “ beskrivelse av mÃ¥le- og vurderingsregler
+* **Estimatusikkerhet** “ omrÃ¥der med betydelig usikkerhet og skjÃ¸nnsmessige vurderinger
+* **Segmentrapportering** “ informasjon om forretnings- og geografiske segmenter (se [Hva er IFRS?](/blogs/regnskap/hva-er-ifrs "Hva er IFRS? Komplett Guide til International Financial Reporting Standards"))
+* **Risikostyring** “ omfattende beskrivelse av finansiell risiko (kredittrisik o, likviditetsrisiko, markedsrisiko)
 
 ### SmÃ¥ foretak
-* **Grunnleggende prinsipper** â€“ kort oversikt over anvendte regnskapsprinsipper
-* **Vesentlige poster** â€“ forklaring av hovedposter i balanse og resultat
-* **Pantstillelser og garantier** â€“ oversikt over sikkerhetsstillelser og forpliktelser
+* **Grunnleggende prinsipper** “ kort oversikt over anvendte regnskapsprinsipper
+* **Vesentlige poster** “ forklaring av hovedposter i balanse og resultat
+* **Pantstillelser og garantier** “ oversikt over sikkerhetsstillelser og forpliktelser
 
 ## Kategorier av Noter
 
@@ -75,3 +75,5 @@ For mer informasjon, se ogsÃ¥:
 ## Konklusjon
 
 **Noter** er mer enn en lovpÃ¥lagt formalitet; de er nÃ¸kkelen til **gjennomsiktighet** og **innsikt** i Ã¥rsregnskapet. Gjennom systematisk planlegging, konsistent struktur og god internkontroll kan noter bli et strategisk verktÃ¸y som styrker tilliten mellom selskapet og dets interessenter.
+
+

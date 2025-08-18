@@ -430,3 +430,5 @@ En **velutformet landbrukskontoplan** er avgjÃ¸rende for effektiv regnskapsfÃ
 Ved Ã¥ investere i en god landbrukskontoplan og holde seg oppdatert pÃ¥ regelverket, kan landbruksbedrifter sikre korrekt regnskapsfÃ¸ring, optimalisere skatteposisjonen og fÃ¥ bedre grunnlag for Ã¸konomisk styring av virksomheten.
 
 ![Sammendrag av landbrukskontoplan](landbrukskontoplan-sammendrag.svg)
+
+

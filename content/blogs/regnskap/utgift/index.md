@@ -30,12 +30,12 @@ Utgifter kan deles inn i flere hovedkategorier avhengig av formÃ¥let og tidspu
 Riktig bokfÃ¸ring av utgifter sikrer nÃ¸yaktig regnskapsrapportering og god internkontroll:
 
 * **Dokumentasjon:** Samle originalkvitteringer eller fakturaer for alle utbetalinger
-* **Konto:** FÃ¸r utgiften pÃ¥ korrekt utgiftskonto (f.eks. 6000â€“6999 for driftsutgifter)
+* **Konto:** FÃ¸r utgiften pÃ¥ korrekt utgiftskonto (f.eks. 6000“6999 for driftsutgifter)
 * **Periodisering:** Fordel utgifter over perioder ved behov, se [Hva er periodisering?](/blogs/regnskap/hva-er-periodisering "Hva er Periodisering? Guide til Periodisering i Regnskap")
 
 ## Skattemessig behandling
 
-Utgifter kan vÃ¦re **fradragsberettigede** hvis de tilfredsstiller krav i [skatteloven](/blogs/regnskap/hva-er-skatt "Hva er Skatt? Komplett Guide til Skatteregler i Norge") og bokfÃ¸ringsregler. For mer om fradragsrett, se [Fradragsberettiget](/blogs/regnskap/fradragsberettiget "Fradragsberettiget â€“ NÃ¥r kostnader og utgifter kan trekkes fra").
+Utgifter kan vÃ¦re **fradragsberettigede** hvis de tilfredsstiller krav i [skatteloven](/blogs/regnskap/hva-er-skatt "Hva er Skatt? Komplett Guide til Skatteregler i Norge") og bokfÃ¸ringsregler. For mer om fradragsrett, se [Fradragsberettiget](/blogs/regnskap/fradragsberettiget "Fradragsberettiget “ NÃ¥r kostnader og utgifter kan trekkes fra").
 
 ## Praktiske eksempler
 
@@ -54,3 +54,5 @@ Utgifter kan vÃ¦re **fradragsberettigede** hvis de tilfredsstiller krav i [ska
 ## Oppsummering
 
 En **utgift** er selve betalingen for varer og tjenester, og er et viktig punkt i regnskapsprosessen. Ved Ã¥ klassifisere, dokumentere og bokfÃ¸re utgifter korrekt sikres bedre regnskapskontroll og skattemessig etterlevelse.
+
+

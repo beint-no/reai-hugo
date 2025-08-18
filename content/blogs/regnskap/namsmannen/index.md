@@ -64,3 +64,5 @@ Se ogsÃ¥:
 * [Hva er Betalingsanmerkning?](/blogs/regnskap/betalingsanmerkning "Betalingsanmerkning i Norsk Regnskap")
 * [Hva er Gjeldsregisteret?](/blogs/regnskap/gjeldsregisteret "Hva er Gjeldsregisteret? En Guide til Gjeldsregisteret")
 * [Hva er Tvangsfullbyrdelse?](/blogs/regnskap/tvangsfullbyrdelse "Hva er Tvangsfullbyrdelse? Guide til Norsk Gjelds- og Utleggfullbyrdelse")
+
+

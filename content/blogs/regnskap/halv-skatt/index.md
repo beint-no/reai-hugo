@@ -27,16 +27,16 @@ Skattetrekk skjer ofte basert pÃ¥ [tabelltrekk](/blogs/regnskap/hva-er-tabellt
 
 | MÃ¥ned         | Skattetrekk |
 | ------------- | ----------- |
-| Januarâ€“mai    | 100â€¯%       |
+| Januar“mai    | 100â€¯%       |
 | Juni          | 50â€¯%        |
-| Juliâ€“november | 100â€¯%       |
+| Juli“november | 100â€¯%       |
 | Desember      | 50â€¯%        |
 
 ## Praktiske hensyn
 
 * UndersÃ¸k ditt [skattekort](/blogs/regnskap/hva-er-forskuddstrekk "Hva er forskuddstrekk?") for Ã¥ sikre at riktig trekkgrunnlag brukes.
 * Kontakt lÃ¸nnssystemleverandÃ¸ren for Ã¥ bekrefte at **halv skatt** er aktivert i juni og desember.
-* Merk at **feriepenger** utbetalt i juli ikke er omfattet av **halv skatt** â€“ se [Hva er feriepenger?](/blogs/regnskap/hva-er-feriepenger "Hva er feriepenger?") for mer informasjon.
+* Merk at **feriepenger** utbetalt i juli ikke er omfattet av **halv skatt** “ se [Hva er feriepenger?](/blogs/regnskap/hva-er-feriepenger "Hva er feriepenger?") for mer informasjon.
 
 ## Fordeler og ulemper
 
@@ -52,3 +52,6 @@ Skattetrekk skjer ofte basert pÃ¥ [tabelltrekk](/blogs/regnskap/hva-er-tabellt
 * Krever at arbeidsgiver har kontroll pÃ¥ korrekt registrering av mÃ¥neder med redusert trekk.
 
 For mer om skattetrekk, se ogsÃ¥ [Hva er tabelltrekk?](/blogs/regnskap/hva-er-tabelltrekk "Hva er tabelltrekk?") og [Hva er forskuddstrekk?](/blogs/regnskap/hva-er-forskuddstrekk "Hva er forskuddstrekk?").
+
+
+

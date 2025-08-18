@@ -11,7 +11,7 @@ layout: pages/single
 
 Kostnader pÃ¥virker direkte virksomhetens [driftsresultat](/blogs/regnskap/hva-er-driftsresultat "Hva er Driftsresultat? Komplett Guide til Beregning og Analyse") og er en kritisk komponent i [driftsregnskapet](/blogs/regnskap/hva-er-driftsregnskap "Hva er Driftsregnskap? Komplett Guide til Driftsregnskapet i Norge"). Korrekt klassifisering og regnskapsfÃ¸ring av kostnader er essensielt for Ã¥ fÃ¸lge [god regnskapsskikk](/blogs/regnskap/god-regnskapsskikk "God Regnskapsskikk - Prinsipper, Standarder og Beste Praksis i Norge").
 
-Det er ogsÃ¥ viktig Ã¥ skille mellom **kostnader** og [**utgifter**](/blogs/regnskap/utgift "Utgift â€“ Komplett Guide til Utgifter i Norsk Regnskap"), som representerer tidspunktet for betaling. Les mer i vÃ¥r artikkel om utgift.
+Det er ogsÃ¥ viktig Ã¥ skille mellom **kostnader** og [**utgifter**](/blogs/regnskap/utgift "Utgift “ Komplett Guide til Utgifter i Norsk Regnskap"), som representerer tidspunktet for betaling. Les mer i vÃ¥r artikkel om utgift.
 
 ## Seksjon 1: Grunnleggende Kostnadskonsepter
 
@@ -115,7 +115,7 @@ Noen kostnader har bÃ¥de faste og variable komponenter:
 
 * **Varekostnader:** InnkjÃ¸p av varer for videresalg
 * **LÃ¸nnskostnader:** LÃ¸nn, feriepenger, arbeidsgiveravgift
-* **Sosiale kostnader:** Se [Sosiale kostnader](/blogs/regnskap/sosiale-kostnader "Sosiale kostnader â€“ Definisjon, Eksempler og RegnskapsfÃ¸ring i Norge").
+* **Sosiale kostnader:** Se [Sosiale kostnader](/blogs/regnskap/sosiale-kostnader "Sosiale kostnader “ Definisjon, Eksempler og RegnskapsfÃ¸ring i Norge").
 * **Avskrivninger:** Systematisk fordeling av anleggsmidlers kostnad
 * **Leiekostnader:** Husleie, maskinleie
 * **MarkedsfÃ¸ringskostnader:** Annonsering, messer, PR
@@ -478,3 +478,5 @@ Kostnader er et komplekst og mangefasettert omrÃ¥de innen regnskap som krever 
 Ved Ã¥ mestre kostnadskonseptene og implementere robuste kostnadssystemer, kan virksomheter oppnÃ¥ bedre lÃ¸nnsomhet, mer effektiv ressursbruk og sterkere konkurranseposisjon i markedet.
 
 For dypere innsikt i relaterte emner, utforsk vÃ¥re artikler om [driftskostnader](/blogs/regnskap/hva-er-driftskostnader "Hva er Driftskostnader? Typer, Beregning og RegnskapsfÃ¸ring - Komplett Guide"), [avskrivninger](/blogs/regnskap/hva-er-avskrivning "Hva er Avskrivning? Komplett Guide til Avskrivninger i Norsk Regnskap"), og [dekningsbidrag](/blogs/regnskap/hva-er-dekningsbidrag "Hva er Dekningsbidrag? Komplett Guide til Beregning og Analyse") for Ã¥ bygge en komplett forstÃ¥else av kostnadshÃ¥ndtering i moderne regnskap.
+
+

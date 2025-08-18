@@ -336,6 +336,8 @@ Forskuddstrekk er en **fundamental del** av det norske skattesystemet som sikrer
 * Rapportering skjer mÃ¥nedlig gjennom [A-meldingen](/blogs/regnskap/hva-er-a-melding "Hva er a-melding?")
 * Korrekt hÃ¥ndtering krever gode rutiner og systemer
 * Feil kan medfÃ¸re sanksjoner og tilleggsarbeid
-* Husk at enkelte mÃ¥neder har [halv skatt](/blogs/regnskap/halv-skatt "Halv skatt â€“ Alt du trenger Ã¥ vite om halv skatt i lÃ¸nn"), noe som pÃ¥virker trekkgrunnlaget.
+* Husk at enkelte mÃ¥neder har [halv skatt](/blogs/regnskap/halv-skatt "Halv skatt “ Alt du trenger Ã¥ vite om halv skatt i lÃ¸nn"), noe som pÃ¥virker trekkgrunnlaget.
 
 Ved Ã¥ fÃ¸lge etablerte rutiner, holde seg oppdatert pÃ¥ regelverket og bruke moderne digitale lÃ¸sninger, kan bedrifter hÃ¥ndtere forskuddstrekk effektivt og i samsvar med gjeldende regelverk. Dette sikrer bÃ¥de compliance og god [Ã¸konomistyring](/blogs/regnskap/hva-er-okonomistyring "Hva er Ã˜konomistyring?") i virksomheten.
+
+

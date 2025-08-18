@@ -13,7 +13,7 @@ For en komplett oversikt over kostnadstyper og kostnadskonsepter i regnskap, se 
 
 Disse kostnadene er avgjÃ¸rende i [budsjettering](/blogs/regnskap/hva-er-budsjettering "Hva er Budsjetering? Komplett Guide til Budsjettplanlegging"), [kostnadsanalyse](/blogs/regnskap/hva-er-dekningsbidrag "Hva er Dekningsbidrag? Beregning og Analyse for Bedre LÃ¸nnsomhet") og [break-even analyse](/blogs/regnskap/hva-er-nullpunktsomsetning "Hva er Nullpunktsomsetning (Break-Even Omsetning)?"). For mer om **variable kostnader**, se [Variable kostnader](/blogs/regnskap/variable-kostnader "Hva er Variable kostnader? Definisjon, Eksempler og RegnskapsfÃ¸ring"), [Direkte kostnader](/blogs/regnskap/hva-er-direkte-kostnader "Hva er Direkte kostnader? Definisjon, Eksempler og RegnskapsfÃ¸ring") og [Indirekte kostnader](/blogs/regnskap/hva-er-indirekte-kostnader "Hva er Indirekte kostnader? Definisjon, Eksempler og RegnskapsfÃ¸ring").
 
-Det er viktig Ã¥ skille mellom kostnad og [utgift](/blogs/regnskap/utgift "Utgift â€“ Komplett Guide til Utgifter i Norsk Regnskap"); les mer i vÃ¥r artikkel om utgift.
+Det er viktig Ã¥ skille mellom kostnad og [utgift](/blogs/regnskap/utgift "Utgift “ Komplett Guide til Utgifter i Norsk Regnskap"); les mer i vÃ¥r artikkel om utgift.
 
 ![Faste kostnader](faste-kostnader-image.svg)
 
@@ -57,3 +57,6 @@ Faste kostnader bokfÃ¸res vanligvis pÃ¥ separate kontoer for Ã¥ sikre over
 ## Oppsummering
 
 **Faste kostnader** representerer de uunngÃ¥elige, konstante utgiftene som en virksomhet mÃ¥ dekke uavhengig av aktivitetsnivÃ¥. Ved Ã¥ forstÃ¥ og hÃ¥ndtere faste kostnader kan bedrifter ta bedre beslutninger om budsjettering, prissetting og lÃ¸nnsomhet.
+
+
+

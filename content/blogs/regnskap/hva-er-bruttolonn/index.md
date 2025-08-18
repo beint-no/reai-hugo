@@ -1,13 +1,13 @@
 ﻿---
 title: "Hva er BruttolÃ¸nn?"
 meta_title: "Hva er BruttolÃ¸nn?"
-meta_description: '**BruttolÃ¸nn** er den totale lÃ¸nnen en ansatt tjener fÃ¸r fradrag av skatt, avgifter og andre kostnader. BruttolÃ¸nn danner grunnlaget for [Aâ€‘meldingen](/bl...'
+meta_description: '**BruttolÃ¸nn** er den totale lÃ¸nnen en ansatt tjener fÃ¸r fradrag av skatt, avgifter og andre kostnader. BruttolÃ¸nn danner grunnlaget for [A‘meldingen](/bl...'
 slug: hva-er-bruttolonn
 type: blog
 layout: pages/single
 ---
 
-**BruttolÃ¸nn** er den totale lÃ¸nnen en ansatt tjener fÃ¸r fradrag av skatt, avgifter og andre kostnader. BruttolÃ¸nn danner grunnlaget for [Aâ€‘meldingen](/blogs/regnskap/hva-er-a-melding "Hva er Aâ€‘melding? Komplett Guide til Innlevering og Frister"), beregning av [arbeidsgiveravgift](/blogs/regnskap/hva-er-arbeidsgiveravgift "Hva er Arbeidsgiveravgift? Definisjon og Beregning i Norge"), feriepenger og flere lÃ¸nnsrelaterte nÃ¸kkeltall.
+**BruttolÃ¸nn** er den totale lÃ¸nnen en ansatt tjener fÃ¸r fradrag av skatt, avgifter og andre kostnader. BruttolÃ¸nn danner grunnlaget for [A‘meldingen](/blogs/regnskap/hva-er-a-melding "Hva er A‘melding? Komplett Guide til Innlevering og Frister"), beregning av [arbeidsgiveravgift](/blogs/regnskap/hva-er-arbeidsgiveravgift "Hva er Arbeidsgiveravgift? Definisjon og Beregning i Norge"), feriepenger og flere lÃ¸nnsrelaterte nÃ¸kkeltall.
 
 ![Hva er BruttolÃ¸nn?](hva-er-bruttolonn-image.svg)
 
@@ -59,9 +59,12 @@ Her er et eksempel pÃ¥ beregning av bruttolÃ¸nn for en mÃ¥ned:
 BruttolÃ¸nn er sentralt i flere Ã¸konomiske og administrative prosesser:
 
 * **Budsjettering og prognoser:** Planlegge lÃ¸nnskostnader.
-* **Aâ€‘melding:** MÃ¥nedlig rapportering til Skatteetaten.
+* **A‘melding:** MÃ¥nedlig rapportering til Skatteetaten.
 * **Arbeidsgiveravgift:** Beregning av satser basert pÃ¥ bruttolÃ¸nn.
 * **Feriepenger:** 12â€¯% av feriepengegivende bruttolÃ¸nn.
 
 For en mer samlet oversikt over lÃ¸nnsbegreper, se [LÃ¸nn i regnskap](/blogs/regnskap/hva-er-lonn "Hva er LÃ¸nn i Regnskap? Komplett Guide til Beregning og RegnskapsfÃ¸ring").
 Se [Hva er LÃ¸nn](/blogs/regnskap/hva-er-lonn "Hva er LÃ¸nn i Regnskap? Komplett Guide til LÃ¸nnsformer, Beregning og RegnskapsfÃ¸ring").
+
+
+

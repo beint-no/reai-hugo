@@ -1,13 +1,13 @@
 ﻿---
 title: "Ansattutlegg"
 meta_title: "Ansattutlegg"
-meta_description: '**Ansattutlegg** er [utgifter](/blogs/regnskap/utgift Utgift â€“ Komplett Guide til Utgifter i Norsk Regnskap) som ansatte legger ut pÃ¥ vegne av virksomheten...'
+meta_description: '**Ansattutlegg** er [utgifter](/blogs/regnskap/utgift Utgift “ Komplett Guide til Utgifter i Norsk Regnskap) som ansatte legger ut pÃ¥ vegne av virksomheten...'
 slug: ansattutlegg
 type: blog
 layout: pages/single
 ---
 
-**Ansattutlegg** er [utgifter](/blogs/regnskap/utgift "Utgift â€“ Komplett Guide til Utgifter i Norsk Regnskap") som ansatte legger ut pÃ¥ vegne av virksomheten med egne midler, og som senere refunderes eller avregnes mot lÃ¸nnen. Korrekt hÃ¥ndtering av ansattutlegg er kritisk for Ã¥ sikre nÃ¸yaktig regnskapsfÃ¸ring, internkontroll og skattemessig korrekthet i norske virksomheter.
+**Ansattutlegg** er [utgifter](/blogs/regnskap/utgift "Utgift “ Komplett Guide til Utgifter i Norsk Regnskap") som ansatte legger ut pÃ¥ vegne av virksomheten med egne midler, og som senere refunderes eller avregnes mot lÃ¸nnen. Korrekt hÃ¥ndtering av ansattutlegg er kritisk for Ã¥ sikre nÃ¸yaktig regnskapsfÃ¸ring, internkontroll og skattemessig korrekthet i norske virksomheter.
 
 ![Illustrasjon av Ansattutlegg](ansattutlegg-image.svg)
 
@@ -337,3 +337,6 @@ FÃ¸lgende utlegg gir **ikke fradragsrett**:
 ---
 
 *Denne artikkelen gir en omfattende oversikt over ansattutlegg i norsk regnskap. For spesifikke spÃ¸rsmÃ¥l eller komplekse situasjoner, anbefales det Ã¥ konsultere med regnskapsfÃ¸rer eller revisor.*
+
+
+

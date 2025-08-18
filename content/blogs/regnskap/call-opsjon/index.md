@@ -23,11 +23,11 @@ En **call-opsjon** gir innehaveren rett til Ã¥ kjÃ¸pe en underliggende eiend
 
 En call-opsjon bestÃ¥r av flere nÃ¸kkelfaktorer:
 
-* **Underliggende eiendel** â€“ den finansielle eiendelen som kan kjÃ¸pes.
-* **UtÃ¸velsespris (K)** â€“ den avtalte prisen innehaveren kan kjÃ¸pe eiendelen for.
-* **UtlÃ¸psdato (T)** â€“ siste dag opsjonen kan utÃ¸ves.
-* **Opsjonspremie** â€“ kostnaden for Ã¥ erverve call-opsjonen.
-* **Volatilitet (Ïƒ)** â€“ forventet variasjon i underliggende eiendels pris.
+* **Underliggende eiendel** “ den finansielle eiendelen som kan kjÃ¸pes.
+* **UtÃ¸velsespris (K)** “ den avtalte prisen innehaveren kan kjÃ¸pe eiendelen for.
+* **UtlÃ¸psdato (T)** “ siste dag opsjonen kan utÃ¸ves.
+* **Opsjonspremie** “ kostnaden for Ã¥ erverve call-opsjonen.
+* **Volatilitet (Ïƒ)** “ forventet variasjon i underliggende eiendels pris.
 
 ## Payoffdiagram for call-opsjon
 
@@ -69,3 +69,6 @@ Videre mÃ¥ etterfÃ¸lgende mÃ¥ling skje enten til virkelig verdi gjennom re
 * [Hva er en Put-opsjon?](/blogs/regnskap/put-opsjon "Hva er en Put-opsjon? En Guide til salgsopsjoner i Regnskap")
 * [Hva er IFRS?](/blogs/regnskap/hva-er-ifrs "Hva er IFRS?")
 * [Hva er Derivater?](/blogs/regnskap/derivater "Hva er Derivater? En Guide til Derivater i Regnskap")
+
+
+

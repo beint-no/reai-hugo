@@ -363,3 +363,5 @@ NÃ¸kkelen til suksess ligger i Ã¥ balansere **kontantstrÃ¸moptimalisering*
 * **Kontinuerlig overvÃ¥king** og analyse av nÃ¸kkeltall
 
 Ved Ã¥ implementere beste praksis for leverandÃ¸rgjeld-hÃ¥ndtering kan virksomheter oppnÃ¥ betydelige fordeler i form av reduserte kostnader, forbedret kontantstrÃ¸m og sterkere leverandÃ¸rpartnerskap.
+
+

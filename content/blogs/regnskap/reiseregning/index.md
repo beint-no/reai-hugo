@@ -19,12 +19,12 @@ I norsk regnskap er reiseregningen det primÃ¦re verktÃ¸yet for Ã¥ dokument
 
 Alle reiseregninger mÃ¥ inneholde fÃ¸lgende **obligatoriske opplysninger**:
 
-* **ReisemÃ¥l og formÃ¥l** â€“ Hvor turen gikk og formÃ¥let med reisen
-* **Tidsrom** â€“ Fra- og til-dato for reisen
-* **Kostnadsspesifikasjon** â€“ Detaljert oversikt over alle utlegg (for eksempel transport, overnatting, diett)
-* **BelÃ¸p** â€“ Hvert enkelt utlegg spesifisert med belÃ¸p inkludert MVA
-* **Kvitteringer** â€“ Originalkvitteringer for alle utlegg over fastsatt grense
-* **Attestasjon** â€“ Underskrift eller digital godkjenning fra ansvarlig leder
+* **ReisemÃ¥l og formÃ¥l** “ Hvor turen gikk og formÃ¥let med reisen
+* **Tidsrom** “ Fra- og til-dato for reisen
+* **Kostnadsspesifikasjon** “ Detaljert oversikt over alle utlegg (for eksempel transport, overnatting, diett)
+* **BelÃ¸p** “ Hvert enkelt utlegg spesifisert med belÃ¸p inkludert MVA
+* **Kvitteringer** “ Originalkvitteringer for alle utlegg over fastsatt grense
+* **Attestasjon** “ Underskrift eller digital godkjenning fra ansvarlig leder
 
 ## Oppbevaring og dokumentasjon
 
@@ -42,3 +42,5 @@ Moderne digitale lÃ¸sninger for reiseregning mÃ¥ sikre **autentisitet**, **i
 ## Konklusjon
 
 En grundig forstÃ¥else av kravene til reiseregning er avgjÃ¸rende for korrekt regnskapsfÃ¸ring, skattebehandling og internkontroll. Ved Ã¥ fÃ¸lge lovpÃ¥lagte dokumentasjonskrav og bruke moderne digitale lÃ¸sninger kan virksomheter effektivisere prosessen og redusere risikoen for feil.
+
+

@@ -26,7 +26,7 @@ For en komplett oversikt over kostnadstyper og kostnadskonsepter i regnskap, se 
 | Kalkulatorisk avskrivning         | Kostnaden knyttet til forbruk av varige driftsmidler                             | Avskrivning basert pÃ¥ gjenanskaffelsesverdi|
 | Alternative kalkulatoriske kostnader | Verdi av nest beste bruk av interne ressurser                                   | Bruk av lokaler til eksternt kurs        |
 
-For en helhetlig forstÃ¥else av kostnadsbegrepet, se ogsÃ¥ [Alternativkostnad](/blogs/regnskap/alternativkostnad "Hva er Alternativkostnad? Komplett Guide til Alternativkostnad og Beslutningsanalyse"), [Indirekte kostnader](/blogs/regnskap/hva-er-indirekte-kostnader "Hva er Indirekte kostnader? Definisjon, Eksempler og RegnskapsfÃ¸ring"), [Direkte kostnader](/blogs/regnskap/hva-er-direkte-kostnader "Hva er Direkte kostnader? Definisjon, Eksempler og RegnskapsfÃ¸ring") og [Kapitalkostnad](/blogs/regnskap/kapitalkostnad "Kapitalkostnad â€“ Grunnleggende konsept for norsk regnskap og investering").
+For en helhetlig forstÃ¥else av kostnadsbegrepet, se ogsÃ¥ [Alternativkostnad](/blogs/regnskap/alternativkostnad "Hva er Alternativkostnad? Komplett Guide til Alternativkostnad og Beslutningsanalyse"), [Indirekte kostnader](/blogs/regnskap/hva-er-indirekte-kostnader "Hva er Indirekte kostnader? Definisjon, Eksempler og RegnskapsfÃ¸ring"), [Direkte kostnader](/blogs/regnskap/hva-er-direkte-kostnader "Hva er Direkte kostnader? Definisjon, Eksempler og RegnskapsfÃ¸ring") og [Kapitalkostnad](/blogs/regnskap/kapitalkostnad "Kapitalkostnad “ Grunnleggende konsept for norsk regnskap og investering").
 
 ## Hvorfor bruke kalkulatoriske kostnader?
 
@@ -55,3 +55,5 @@ For en helhetlig forstÃ¥else av kostnadsbegrepet, se ogsÃ¥ [Alternativkostna
 ## Oppsummering
 
 **Kalkulatoriske kostnader** sÃ¸rger for at alle ressurser, selv uten kontantstrÃ¸m, inkluderes i regnskapet. Ved Ã¥ anvende kalkulatoriske kostnader oppnÃ¥r virksomheter et mer komplett og realistisk regnskapsbilde, som er essensielt for god intern styring og beslutningsanalyse.
+
+

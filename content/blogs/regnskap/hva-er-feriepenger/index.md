@@ -7,7 +7,7 @@ type: blog
 layout: pages/single
 ---
 
-**Feriepenger** er lovpÃ¥lagt kompensasjon til arbeidstakere for tapt arbeidsfortjeneste under ferie, regulert av **[Ferieloven](/blogs/regnskap/ferieloven "Ferieloven â€“ Lov om ferie av 29. april 1988 nr. 21")**. For bedrifter er korrekt **regnskapsfÃ¸ring av feriepenger** essensielt bÃ¥de for Ã¥ overholde norsk arbeidsrett og for Ã¥ sikre nÃ¸yaktig [regnskapsfÃ¸ring](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? Komplett Guide til RegnskapsfÃ¸ring og BokfÃ¸ring") av [lÃ¸nnskostnader](/blogs/regnskap/hva-er-driftskostnader "Hva er Driftskostnader? Typer, Beregning og Optimalisering") og avsetninger.
+**Feriepenger** er lovpÃ¥lagt kompensasjon til arbeidstakere for tapt arbeidsfortjeneste under ferie, regulert av **[Ferieloven](/blogs/regnskap/ferieloven "Ferieloven “ Lov om ferie av 29. april 1988 nr. 21")**. For bedrifter er korrekt **regnskapsfÃ¸ring av feriepenger** essensielt bÃ¥de for Ã¥ overholde norsk arbeidsrett og for Ã¥ sikre nÃ¸yaktig [regnskapsfÃ¸ring](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? Komplett Guide til RegnskapsfÃ¸ring og BokfÃ¸ring") av [lÃ¸nnskostnader](/blogs/regnskap/hva-er-driftskostnader "Hva er Driftskostnader? Typer, Beregning og Optimalisering") og avsetninger.
 
 ![Illustrasjon som viser feriepenger-beregning og regnskapsfÃ¸ring](hva-er-feriepenger-image.svg)
 
@@ -24,7 +24,7 @@ Feriepenger er **Ã¸konomisk kompensasjon** som arbeidstakere har rett til unde
 
 Feriepenger er regulert av:
 
-* **[Ferieloven](/blogs/regnskap/ferieloven "Ferieloven â€“ Lov om ferie av 29. april 1988 nr. 21")** (lov om ferie av 29. april 1988 nr. 21)
+* **[Ferieloven](/blogs/regnskap/ferieloven "Ferieloven “ Lov om ferie av 29. april 1988 nr. 21")** (lov om ferie av 29. april 1988 nr. 21)
 * **Regler om obligatorisk fellesferie**: Se [Fellesferie](/blogs/regnskap/fellesferie "Fellesferie: Hva, regler og planlegging i Norge") for regler om kollektiv ferieavvikling
 * **ArbeidsmiljÃ¸loven** for supplerende bestemmelser
 * **Tariffavtaler** som kan gi bedre vilkÃ¥r
@@ -315,4 +315,6 @@ Moderne **[ERP-systemer](/blogs/regnskap/hva-er-erp-system "Hva er ERP-system? F
 
 Ved Ã¥ fÃ¸lge etablerte prosedyrer og bruke moderne digitale verktÃ¸y kan bedrifter sikre **korrekt hÃ¥ndtering** av feriepenger og unngÃ¥ bÃ¥de juridiske og Ã¸konomiske problemer.
 
-For mer informasjon om relaterte emner, se vÃ¥re artikler om [lÃ¸nnskostnader](/blogs/regnskap/hva-er-driftskostnader "Hva er Driftskostnader? Typer, Beregning og Optimalisering"), [arbeidsgiveravgift](/blogs/regnskap/hva-er-arbeidsgiveravgift "Hva er Arbeidsgiveravgift? Satser, Beregning og RegnskapsfÃ¸ring"), [A-ordningen](/blogs/regnskap/hva-er-a-ordningen "Hva er A-ordningen? Rapportering, Frister og Praktisk HÃ¥ndtering") og [halv skatt](/blogs/regnskap/halv-skatt "Halv skatt â€“ Alt du trenger Ã¥ vite om halv skatt i lÃ¸nn").
+For mer informasjon om relaterte emner, se vÃ¥re artikler om [lÃ¸nnskostnader](/blogs/regnskap/hva-er-driftskostnader "Hva er Driftskostnader? Typer, Beregning og Optimalisering"), [arbeidsgiveravgift](/blogs/regnskap/hva-er-arbeidsgiveravgift "Hva er Arbeidsgiveravgift? Satser, Beregning og RegnskapsfÃ¸ring"), [A-ordningen](/blogs/regnskap/hva-er-a-ordningen "Hva er A-ordningen? Rapportering, Frister og Praktisk HÃ¥ndtering") og [halv skatt](/blogs/regnskap/halv-skatt "Halv skatt “ Alt du trenger Ã¥ vite om halv skatt i lÃ¸nn").
+
+

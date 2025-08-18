@@ -67,3 +67,5 @@ Bransjen utvikler seg raskt med fokus pÃ¥ *digitalisering*, *automatisering* o
 ## Oppsummering
 
 Et regnskapsbyrÃ¥ er en viktig samarbeidspartner for norske virksomheter som Ã¸nsker korrekt, effektiv og oppdatert regnskap. Ved Ã¥ benytte et regnskapsbyrÃ¥ kan du fokusere pÃ¥ kjernevirksomheten, samtidig som du sikrer lovlighet og Ã¸konomisk kontroll.
+
+

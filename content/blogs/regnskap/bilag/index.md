@@ -1,6 +1,6 @@
 ﻿---
-title: "Bilag i Regnskap â€“ Guide til Dokumentasjon og Behandling"
-meta_title: "Bilag i Regnskap â€“ Guide til Dokumentasjon og Behandling"
+title: "Bilag i Regnskap “ Guide til Dokumentasjon og Behandling"
+meta_title: "Bilag i Regnskap “ Guide til Dokumentasjon og Behandling"
 meta_description: '**Bilag** er grunnlaget for all **regnskapsfÃ¸ring** og dokumenterer hver forretningshendelse med nÃ¸dvendig informasjon for korrekt [bokfÃ¸ring](/blogs/regnska...'
 slug: bilag
 type: blog
@@ -19,9 +19,9 @@ Et **bilag** er ethvert dokument som dokumenterer en forretningshendelse og gir 
 
 Bilag kan kategoriseres basert pÃ¥ deres opprinnelse og funksjon:
 
-* **InngÃ¥ende bilag** â€“ dokumenter mottatt fra eksterne parter, som [leverandÃ¸rfakturaer](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav") og [kvitteringer](/blogs/regnskap/kvittering "Hva er Kvittering? En Guide til Kvitteringskrav i Norsk Regnskap")
-* **UtgÃ¥ende bilag** â€“ dokumenter sendt til eksterne parter, som salgsfakturaer og [kreditnotaer](/blogs/regnskap/hva-er-kreditnota "Hva er Kreditnota? Komplett Guide til Kreditnotaer")
-* **Interne bilag** â€“ dokumenter opprettet internt, som [reiseregninger](/blogs/regnskap/hva-er-utlegg "Hva er Utlegg? Komplett Guide til Utlegg og Refusjon") og [avskrivningsbilag](/blogs/regnskap/hva-er-avskrivning "Hva er Avskrivning? Metoder, Beregning og RegnskapsfÃ¸ring")
+* **InngÃ¥ende bilag** “ dokumenter mottatt fra eksterne parter, som [leverandÃ¸rfakturaer](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav") og [kvitteringer](/blogs/regnskap/kvittering "Hva er Kvittering? En Guide til Kvitteringskrav i Norsk Regnskap")
+* **UtgÃ¥ende bilag** “ dokumenter sendt til eksterne parter, som salgsfakturaer og [kreditnotaer](/blogs/regnskap/hva-er-kreditnota "Hva er Kreditnota? Komplett Guide til Kreditnotaer")
+* **Interne bilag** “ dokumenter opprettet internt, som [reiseregninger](/blogs/regnskap/hva-er-utlegg "Hva er Utlegg? Komplett Guide til Utlegg og Refusjon") og [avskrivningsbilag](/blogs/regnskap/hva-er-avskrivning "Hva er Avskrivning? Metoder, Beregning og RegnskapsfÃ¸ring")
 
 ### Juridisk grunnlag for bilag
 
@@ -154,7 +154,7 @@ For Ã¥ sikre god **internkontroll** bÃ¸r ulike personer ha ansvar for forskj
 
 Moderne [regnskapssystemer](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap?") og [ERP-systemer](/blogs/regnskap/hva-er-erp-system "Hva er ERP-system?") tilbyr omfattende funksjoner:
 
-* **[OCR-teknologi](/blogs/regnskap/hva-er-ocr "Hva er OCR? OCR i Norske Regnskapsprosesser â€“ En Komplett Guide") (Optical Character Recognition)**
+* **[OCR-teknologi](/blogs/regnskap/hva-er-ocr "Hva er OCR? OCR i Norske Regnskapsprosesser “ En Komplett Guide") (Optical Character Recognition)**
   - Automatisk innsanking av bilagsdata fra PDF-er og bilder
   - Gjenkjenning av [fakturanummer](/blogs/regnskap/hva-er-fakturanummer "Hva er Fakturanummer?"), datoer, belÃ¸p og leverandÃ¸ropplysninger
   - Reduserer manuell dataregistrering med opptil 90%
@@ -327,3 +327,6 @@ Bilagsbehandling er i kontinuerlig utvikling, drevet av teknologiske fremskritt:
 5. **Planlegg for fremtiden**: Velg skalerbare lÃ¸sninger som vokser med bedriften
 
 Med riktig tilnÃ¦rming til bilagsbehandling kan bedrifter ikke bare oppfylle lovkrav, men ogsÃ¥ skape betydelig verdi gjennom bedre Ã¸konomistyring, Ã¸kt effektivitet og reduserte kostnader. Bilagsbehandling utvikler seg fra en administrativ nÃ¸dvendighet til en strategisk konkurransefordel for moderne norske bedrifter.
+
+
+

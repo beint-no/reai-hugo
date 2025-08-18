@@ -21,7 +21,7 @@ Formuesverdi kan defineres pÃ¥ flere mÃ¥ter avhengig av kontekst og formÃ¥
 Dette er den mest grunnleggende formelen som viser at formuesverdi er det som blir igjen nÃ¥r alle forpliktelser er trukket fra alle [eiendeler (aktiva)](/blogs/regnskap/hva-er-aktiva "Hva er Aktiva? Komplett Guide til Eiendeler i Regnskapet").
 
 #### Skattemessig Definisjon
-For skatteformÃ¥l beregnes formuesverdi basert pÃ¥ **skattemessige verdier** av eiendeler og gjeld, som kan avvike fra markedsverdier eller regnskapsmessige verdier. Dette kalles ogsÃ¥ [ligningsverdi](/blogs/regnskap/ligningsverdi "Ligningsverdi â€“ Definisjon, Beregning og Betydning i Norsk Regnskap").
+For skatteformÃ¥l beregnes formuesverdi basert pÃ¥ **skattemessige verdier** av eiendeler og gjeld, som kan avvike fra markedsverdier eller regnskapsmessige verdier. Dette kalles ogsÃ¥ [ligningsverdi](/blogs/regnskap/ligningsverdi "Ligningsverdi “ Definisjon, Beregning og Betydning i Norsk Regnskap").
 
 #### Markedsmessig Definisjon
 Markedsmessig formuesverdi baseres pÃ¥ **faktiske markedsverdier** av eiendeler pÃ¥ beregningstidspunktet, noe som gir det mest realistiske bildet av faktisk formue.
@@ -324,3 +324,5 @@ Ved beregning av formuesverdi er det viktig Ã¥:
 5. **Vurdere risiko** og diversifisering i formuessammensetningen
 
 Formuesverdi er ikke bare et Ã¸yeblikksbilde, men et **dynamisk mÃ¥l** som endres med markedsforhold, Ã¸konomisk utvikling og personlige eller bedriftsmessige beslutninger. Regelmessig overvÃ¥king og analyse av formuesverdi er derfor avgjÃ¸rende for god Ã¸konomisk styring og planlegging.
+
+

@@ -7,7 +7,7 @@ type: blog
 layout: pages/single
 ---
 
-**Personinntekt** er det skattemessige grunnlaget for beregning av personskatt, **trygdeavgift** og **trinnskatt** for bÃ¥de lÃ¸nnsmottakere og personlig nÃ¦ringsdrivende. For sammenligning med tilstÃ¸tende begreper, se [Alminnelig inntekt](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt â€“ Komplett guide til skattemessig resultat og beregning") og [NÃ¦ringsinntekt](/blogs/regnskap/naeringsinntekt "NÃ¦ringsinntekt â€“ Komplett guide til nÃ¦ringsinntekt i norsk regnskap").
+**Personinntekt** er det skattemessige grunnlaget for beregning av personskatt, **trygdeavgift** og **trinnskatt** for bÃ¥de lÃ¸nnsmottakere og personlig nÃ¦ringsdrivende. For sammenligning med tilstÃ¸tende begreper, se [Alminnelig inntekt](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt “ Komplett guide til skattemessig resultat og beregning") og [NÃ¦ringsinntekt](/blogs/regnskap/naeringsinntekt "NÃ¦ringsinntekt “ Komplett guide til nÃ¦ringsinntekt i norsk regnskap").
 
 ![Personinntekt](personinntekt-image.svg)
 
@@ -17,7 +17,7 @@ layout: pages/single
 
 * **LÃ¸nn** og **naturalytelser**
 * **Pensjonsinntekt**
-* **NÃ¦ringsinntekt** fra [selvstendig nÃ¦ringsdrivende](/blogs/regnskap/selvstendig-naeringsdrivende "Selvstendig nÃ¦ringsdrivende â€“ Guide til selvstendig nÃ¦ringsvirksomhet i Norge")
+* **NÃ¦ringsinntekt** fra [selvstendig nÃ¦ringsdrivende](/blogs/regnskap/selvstendig-naeringsdrivende "Selvstendig nÃ¦ringsdrivende “ Guide til selvstendig nÃ¦ringsvirksomhet i Norge")
 
 Fra dette grunnlaget trekkes:
 
@@ -55,7 +55,7 @@ For detaljer om trinnskatt, se [Hva er marginalskatt?](/blogs/regnskap/hva-er-ma
 
 ## Rapportering av personinntekt
 
-Personinntekt rapporteres i skattemeldingen for lÃ¸nnstakere og i nÃ¦ringsoppgaven (RF-1030) for personlig nÃ¦ringsdrivende. Se [Skattemelding](/blogs/regnskap/skattemelding "Skattemelding â€“ Komplett guide til rapportering av inntekt og formue") for mer informasjon.
+Personinntekt rapporteres i skattemeldingen for lÃ¸nnstakere og i nÃ¦ringsoppgaven (RF-1030) for personlig nÃ¦ringsdrivende. Se [Skattemelding](/blogs/regnskap/skattemelding "Skattemelding “ Komplett guide til rapportering av inntekt og formue") for mer informasjon.
 
 ## Hvorfor er personinntekt viktig?
 
@@ -67,3 +67,5 @@ En korrekt beregnet personinntekt sikrer:
 * Oversikt over egen Ã¸konomi
 
 God forstÃ¥else av **personinntekt** er sentralt for personlig Ã¸konomi og skatteplanlegging.
+
+

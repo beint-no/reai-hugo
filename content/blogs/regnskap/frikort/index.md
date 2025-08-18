@@ -49,7 +49,7 @@ Se [Hva er Frikortgrense?](/blogs/regnskap/hva-er-frikortgrense "Hva er Frikortg
 | Kategori                      | Frikortgrense 2024 |
 |-------------------------------|-------------------:|
 | **OrdinÃ¦r frikortgrense**     | 69â€¯300 kr          |
-| **Pensjonister (67â€“69 Ã¥r)**   | 138â€¯050 kr         |
+| **Pensjonister (67“69 Ã¥r)**   | 138â€¯050 kr         |
 | **Pensjonister (70 Ã¥r og +)** | 138â€¯050 kr         |
 
 ## Fordeler med Frikort
@@ -75,3 +75,6 @@ Se [Hva er Frikortgrense?](/blogs/regnskap/hva-er-frikortgrense "Hva er Frikortg
 * [Hva er Forskuddstrekk?](/blogs/regnskap/hva-er-forskuddstrekk "Forskuddstrekk - Slik Beregnes Skattetrekk")
 * [Hva er Altinn?](/blogs/regnskap/hva-er-altinn "Altinn - Digital Kommunikasjon med Offentlige Myndigheter")
 * [Arbeidskontrakten](/blogs/regnskap/arbeidskontrakten "Arbeidskontrakten - Din Kontrakt med Arbeidsgiver")
+
+
+

@@ -21,9 +21,9 @@ MinstelÃ¸nn defineres som den laveste satsen en arbeidstaker mÃ¥ motta per a
 
 I Norge reguleres minstelÃ¸nn primÃ¦rt gjennom:
 
-* **ArbeidsmiljÃ¸loven** â€“ Generelle krav til lÃ¸nn og arbeidsvilkÃ¥r
-* **Tariffavtaler** â€“ Bransje- og virksomhetsspesifikke minstelÃ¸nnssatser
-* **Forskrifter** â€“ For enkelte sektorer (for eksempel renhold og bygg)
+* **ArbeidsmiljÃ¸loven** “ Generelle krav til lÃ¸nn og arbeidsvilkÃ¥r
+* **Tariffavtaler** “ Bransje- og virksomhetsspesifikke minstelÃ¸nnssatser
+* **Forskrifter** “ For enkelte sektorer (for eksempel renhold og bygg)
 
 Det er arbeidsgivers ansvar Ã¥ holde seg oppdatert pÃ¥ gjeldende minstelÃ¸nnssatser og sÃ¸rge for korrekt lÃ¸nnsutbetaling.
 
@@ -61,3 +61,5 @@ Arbeidstilsynet kan ilegge pÃ¥legg eller gebyrer hvis arbeidsgiver ikke overho
 
 **Hvordan finner jeg gjeldende minstelÃ¸nnssatser?**
 Kontakt relevant fagforening eller arbeidsgiverorganisasjon, eller se gjeldende tariffavtale for din bransje.
+
+

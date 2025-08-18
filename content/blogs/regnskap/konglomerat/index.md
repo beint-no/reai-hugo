@@ -62,3 +62,5 @@ Et konglomerat er en spesiell form for [konsern](/blogs/regnskap/hva-er-konsern 
 ## Konklusjon
 
 Et **konglomerat** kan gi betydelige fordeler gjennom diversifisering og synergier, men krever omfattende styring og kompetanse. For norske foretak som vurderer en slik struktur, er det viktig Ã¥ forstÃ¥ bÃ¥de de *strategiske* og *regnskapsmessige* utfordringene.
+
+

@@ -21,7 +21,7 @@ Oslo BÃ¸rs er Norges hovedbÃ¸rs og driver en elektronisk handelsplattform hv
 
 | Egenskap           | Detaljer                                |
 | ------------------ | --------------------------------------- |
-| Ã…pningstid         | 09:00 â€“ 16:30 (CET)                     |
+| Ã…pningstid         | 09:00 “ 16:30 (CET)                     |
 | Antall selskaper   | Over 200                                |
 | Markedsverdi       | Omtrent 3 000 milliarder kroner         |
 | Valuta             | Norske kroner (NOK)                     |
@@ -29,11 +29,11 @@ Oslo BÃ¸rs er Norges hovedbÃ¸rs og driver en elektronisk handelsplattform hv
 
 ## NÃ¸kkelbegreper i bÃ¸rs
 
-* **Aksje** â€“ En eierandel i et selskap. Se [Hva er en aksje?](/blogs/regnskap/hva-er-en-aksje "Hva er en Aksje?")
-* **Aksjekurs** â€“ Prisen en aksje handles for, formet av tilbud og etterspÃ¸rsel pÃ¥ bÃ¸rsen.
-* **Likviditet** â€“ Evnen til Ã¥ kjÃ¸pe og selge uten store prisendringer. Se [Hva er Likviditet?](/blogs/regnskap/hva-er-likviditet "Hva er Likviditet? En komplett guide til likviditetsstyring").
-* **Unoterte aksjer** â€“ Aksjer som ikke er notert pÃ¥ bÃ¸rs. Se [Unoterte aksjer](/blogs/regnskap/unoterte-aksjer "Unoterte aksjer â€“ Veileder til investering og regnskapsfÃ¸ring").
-* **Kurtasje** â€“ avgift betalt til megler eller handelsplattform ved kjÃ¸p eller salg av aksjer og andre verdipapirer. Se [Hva er Kurtasje?](/blogs/regnskap/kurtasje "Hva er Kurtasje? Guide til Kurtasje og Megleravgifter")
+* **Aksje** “ En eierandel i et selskap. Se [Hva er en aksje?](/blogs/regnskap/hva-er-en-aksje "Hva er en Aksje?")
+* **Aksjekurs** “ Prisen en aksje handles for, formet av tilbud og etterspÃ¸rsel pÃ¥ bÃ¸rsen.
+* **Likviditet** “ Evnen til Ã¥ kjÃ¸pe og selge uten store prisendringer. Se [Hva er Likviditet?](/blogs/regnskap/hva-er-likviditet "Hva er Likviditet? En komplett guide til likviditetsstyring").
+* **Unoterte aksjer** “ Aksjer som ikke er notert pÃ¥ bÃ¸rs. Se [Unoterte aksjer](/blogs/regnskap/unoterte-aksjer "Unoterte aksjer “ Veileder til investering og regnskapsfÃ¸ring").
+* **Kurtasje** “ avgift betalt til megler eller handelsplattform ved kjÃ¸p eller salg av aksjer og andre verdipapirer. Se [Hva er Kurtasje?](/blogs/regnskap/kurtasje "Hva er Kurtasje? Guide til Kurtasje og Megleravgifter")
 * **Ordretyper**:
   | Ordretype      | Beskrivelse                             |
   | -------------- | --------------------------------------- |
@@ -57,3 +57,6 @@ For Ã¥ handle aksjer pÃ¥ Oslo BÃ¸rs trenger du en meglerkonto hos et regis
 ## Oppsummering
 
 BÃ¸rsen er en kritisk del av det finansielle systemet i Norge, som muliggjÃ¸r effektiv kapitalallokering og prising av selskaper. Ved Ã¥ forstÃ¥ de grunnleggende prinsippene, *ordretyper* og regulatoriske krav, kan investorer bedre navigere i aksjemarkedet og ta informerte beslutninger.
+
+
+

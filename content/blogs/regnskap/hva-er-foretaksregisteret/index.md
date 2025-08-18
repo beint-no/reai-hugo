@@ -75,3 +75,5 @@ Registreringsprosessen i Foretaksregisteret kan illustreres slik:
 * Se ogsÃ¥ [Hva er Enhetsregisteret?](/blogs/regnskap/enhetsregisteret "Hva er Enhetsregisteret? Oversikt over Enhetsregisteret").
 * Les mer om [Hva er et Foretak?](/blogs/regnskap/hva-er-foretak "Hva er et Foretak? Komplett Guide til Foretaksformer i Norge").
 * LÃ¦r om [Hva er BrÃ¸nnÃ¸ysundregistrene?](/blogs/regnskap/bronnoysundregistrene "Hva er BrÃ¸nnÃ¸ysundregistrene? En Guide til Norges Registerforvalter").
+
+

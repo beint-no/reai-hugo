@@ -9,7 +9,7 @@ layout: pages/single
 
 **BilagsfÃ¸ring** er den systematiske prosessen med Ã¥ registrere, organisere og arkivere alle regnskapsdokumenter som danner grunnlaget for [bokfÃ¸ring](/blogs/regnskap/hva-er-bokforing "Hva er BokfÃ¸ring? En Komplett Guide til Norsk BokfÃ¸ringspraksis"). Dette omfatter alt fra [fakturaer](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav") og [kvitteringer](/blogs/regnskap/kvittering "Hva er Kvittering? En Guide til Kvitteringskrav i Norsk Regnskap") til [arbeidskontrakter](/blogs/regnskap/arbeidskontrakten "Arbeidskontrakten") og banktransaksjoner. Korrekt bilagsfÃ¸ring er ikke bare et lovkrav, men ogsÃ¥ fundamentet for pÃ¥litelig regnskapsfÃ¸ring og effektiv [attestering](/blogs/regnskap/hva-er-attestering "Hva er Attestering? En Komplett Guide til Bilagsbehandling og Godkjenning") av forretningsdokumenter.
 
-(For en generell oversikt over **bilag** i regnskap, se [Bilag](/blogs/regnskap/bilag "Bilag i Regnskap â€“ Guide til Dokumentasjon og Behandling").)
+(For en generell oversikt over **bilag** i regnskap, se [Bilag](/blogs/regnskap/bilag "Bilag i Regnskap “ Guide til Dokumentasjon og Behandling").)
 
 Som en sentral del av den totale [dokumentasjonen i regnskap og bokfÃ¸ring](/blogs/regnskap/hva-er-dokumentasjon-regnskap-bokforing "Hva er Dokumentasjon i Regnskap og BokfÃ¸ring? Komplett Guide til Regnskapsdokumentasjon"), sikrer bilagsfÃ¸ring sporbarhet og etterprÃ¸vbarhet av alle Ã¸konomiske transaksjoner.
 
@@ -248,3 +248,6 @@ Basert pÃ¥ erfaring fra ledende bedrifter, her er de viktigste anbefalingene f
 * **Planlegg for endringer** i lovkrav og standarder
 
 Korrekt bilagsfÃ¸ring er fundamentet for pÃ¥litelig regnskapsfÃ¸ring og effektiv bedriftsstyring. Ved Ã¥ fÃ¸lge etablerte beste praksis og utnytte moderne teknologi kan bedrifter sikre bÃ¥de lovmessighet og operasjonell effektivitet i sin regnskapsfÃ¸ring.
+
+
+

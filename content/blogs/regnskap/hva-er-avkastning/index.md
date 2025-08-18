@@ -48,7 +48,7 @@ Avkastning pÃ¥ [aksjer](/blogs/regnskap/hva-er-en-aksje "Hva er en Aksje? En E
 
 * **Kursgevinst/tap:** Endring i aksjekursen som ved salg blir [kapitalgevinst](/blogs/regnskap/hva-er-kapitalgevinst "Hva er Kapitalgevinst? Komplett Guide til Skatt og RegnskapsfÃ¸ring") eller kapitaltap
 * **Utbytte:** Kontantutbetalinger fra selskapet  
-  Se ogsÃ¥ [Utbytteaksjer](/blogs/regnskap/utbytteaksjer "Utbytteaksjer â€“ Guide til utbytteaksjer og utbytteavkastning") for en komplett guide til aksjer som gir regelmessig utbytte.
+  Se ogsÃ¥ [Utbytteaksjer](/blogs/regnskap/utbytteaksjer "Utbytteaksjer “ Guide til utbytteaksjer og utbytteavkastning") for en komplett guide til aksjer som gir regelmessig utbytte.
 
 **Total aksjeavkastning = Kursavkastning + Utbytteavkastning**
 
@@ -198,17 +198,17 @@ En bedrifts [bruttofortjeneste](/blogs/regnskap/hva-er-bruttofortjeneste "Hva er
 ## Skattemessige Konsekvenser av Avkastning
 
 ### Skatt pÃ¥ Kapitalgevinst
-I Norge beskattes **kapitalgevinst** som [alminnelig inntekt](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt â€“ Komplett guide til skattemessig resultat og beregning") med 22% skattesats for:
+I Norge beskattes **kapitalgevinst** som [alminnelig inntekt](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt “ Komplett guide til skattemessig resultat og beregning") med 22% skattesats for:
 
 * Gevinst ved salg av aksjer
 * Gevinst ved salg av eiendom (med unntak for primÃ¦rbolig)
 * Gevinst ved salg av andre finansielle instrumenter
 
 ### Skatt pÃ¥ Utbytte
-**Utbytte** fra norske aksjer beskattes som [alminnelig inntekt](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt â€“ Komplett guide til skattemessig resultat og beregning"), men med fradrag for skjerming basert pÃ¥ [aksjekapital](/blogs/regnskap/hva-er-aksjekapital "Hva er Aksjekapital? Krav og Forklaring"). For utbytte mellom selskaper kan [fritaksmetoden](/blogs/regnskap/hva-er-fritaksmetoden "Hva er Fritaksmetoden? Komplett Guide til Skattefritak for Utbytte") gi betydelige skattefordeler.
+**Utbytte** fra norske aksjer beskattes som [alminnelig inntekt](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt “ Komplett guide til skattemessig resultat og beregning"), men med fradrag for skjerming basert pÃ¥ [aksjekapital](/blogs/regnskap/hva-er-aksjekapital "Hva er Aksjekapital? Krav og Forklaring"). For utbytte mellom selskaper kan [fritaksmetoden](/blogs/regnskap/hva-er-fritaksmetoden "Hva er Fritaksmetoden? Komplett Guide til Skattefritak for Utbytte") gi betydelige skattefordeler.
 
 ### Skatt pÃ¥ Renteinntekter
-**Renteinntekter** beskattes som [alminnelig inntekt](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt â€“ Komplett guide til skattemessig resultat og beregning") med 22% skattesats.
+**Renteinntekter** beskattes som [alminnelig inntekt](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt “ Komplett guide til skattemessig resultat og beregning") med 22% skattesats.
 
 ![Oversikt over skattemessige konsekvenser av ulike typer avkastning](skatt-avkastning.svg)
 
@@ -333,3 +333,6 @@ I **stabile markeder**:
 Enten du investerer i [aksjer](/blogs/regnskap/hva-er-en-aksje "Hva er en Aksje? En Enkel Forklaring"), driver et [aksjeselskap](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap? Komplett Guide til Selskapsformen"), eller vurderer [aksjonÃ¦rlÃ¥n](/blogs/regnskap/hva-er-aksjonaerlan-til-as "Hva er AksjonÃ¦rlÃ¥n til AS? Finansiering, Skatt og Praktiske RÃ¥d"), er forstÃ¥else av avkastning essensielt for Ã¥ ta gode finansielle beslutninger. For bedrifter er [sysselsatt kapital](/blogs/regnskap/hva-er-sysselsatt-kapital "Hva er Sysselsatt Kapital? Komplett Guide til ROCE og Kapitaleffektivitet") et nÃ¸kkelbegrep for Ã¥ mÃ¥le avkastningen pÃ¥ den totale kapitalen som aktivt brukes i virksomheten. Avkastning er ogsÃ¥ grunnlaget for [inntjeningsbasert verdivurdering](/blogs/regnskap/hva-er-inntjeningsbasert-verdivurdering "Inntjeningsbasert Verdivurdering - DCF, P/E og Verdsettelsesmetoder"), som brukes til Ã¥ verdsette selskaper basert pÃ¥ deres fremtidige inntjeningsevne.
 
 Husk at **tidligere avkastning ikke garanterer fremtidig avkastning**, og det er alltid viktig Ã¥ vurdere din egen risikotoleranse og investeringshorisont fÃ¸r du tar investeringsbeslutninger.
+
+
+

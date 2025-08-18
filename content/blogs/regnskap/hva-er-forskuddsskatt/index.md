@@ -77,8 +77,10 @@ I endelig avregning mot faktisk skatt i skattemeldingen:
 
 * **Oppdater beregningen** ved vesentlige avvik i inntekt
 * **Sjekk fristene** nÃ¸ye for Ã¥ unngÃ¥ gebyrer og renter
-* **FÃ¸lg med pÃ¥ skatteendringer** â€“ nye satser eller regler kan pÃ¥virke belÃ¸pet
+* **FÃ¸lg med pÃ¥ skatteendringer** “ nye satser eller regler kan pÃ¥virke belÃ¸pet
 
 ---
 
-*Relaterte artikler:* [Betalbar skatt](/blogs/regnskap/betalbar-skatt "Betalbar skatt - Faktisk skatteforpliktelse i regnskapet"), [Skattemelding](/blogs/regnskap/skattemelding "Skattemelding - Komplett Guide til Utfylling og Innlevering"), [ForhÃ¥ndsfastsetting](/blogs/regnskap/forhandsfastsetting "Hva er ForhÃ¥ndsfastsetting?"), [Restskatt](/blogs/regnskap/restskatt "Restskatt â€“ Hva er restskatt og hvordan beregnes den?")
+*Relaterte artikler:* [Betalbar skatt](/blogs/regnskap/betalbar-skatt "Betalbar skatt - Faktisk skatteforpliktelse i regnskapet"), [Skattemelding](/blogs/regnskap/skattemelding "Skattemelding - Komplett Guide til Utfylling og Innlevering"), [ForhÃ¥ndsfastsetting](/blogs/regnskap/forhandsfastsetting "Hva er ForhÃ¥ndsfastsetting?"), [Restskatt](/blogs/regnskap/restskatt "Restskatt “ Hva er restskatt og hvordan beregnes den?")
+
+

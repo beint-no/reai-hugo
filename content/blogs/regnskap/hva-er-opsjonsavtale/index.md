@@ -308,3 +308,5 @@ For Ã¥ sikre korrekt hÃ¥ndtering av opsjonsavtaler bÃ¸r [foretak](/blogs/r
 Ved Ã¥ fÃ¸lge disse prinsippene kan organisasjoner dra nytte av opsjoners fleksibilitet og risikostyringsegenskaper, samtidig som de oppfyller alle regnskapsmessige og regulatoriske krav.
 
 ![Oppsummering av nÃ¸kkelpunkter for opsjonsavtaler](opsjonsavtale-oppsummering.svg)
+
+

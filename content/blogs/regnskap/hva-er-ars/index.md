@@ -148,7 +148,7 @@ Moderne ARS-selskaper benytter avanserte digitale lÃ¸sninger for Ã¥ effektiv
 ### Teknologiske lÃ¸sninger
 
 * **Skybaserte regnskapssystemer** for sanntidsrapportering
-* **Automatisk bilagsbehandling** med [OCR-teknologi](/blogs/regnskap/hva-er-ocr "Hva er OCR? OCR i Norske Regnskapsprosesser â€“ En Komplett Guide")
+* **Automatisk bilagsbehandling** med [OCR-teknologi](/blogs/regnskap/hva-er-ocr "Hva er OCR? OCR i Norske Regnskapsprosesser “ En Komplett Guide")
 * **Integrerte lÃ¸sninger** med bank og [Altinn](/blogs/regnskap/hva-er-altinn "Hva er Altinn? En Komplett Guide til Norges Digitale Forvaltning")
 * **Mobile apper** for enkel bilagsregistrering
 * **Dashboards** for Ã¸konomisk oversikt
@@ -213,3 +213,6 @@ Et **ARS (Autorisert RegnskapsfÃ¸rerselskap)** representerer den hÃ¸yeste st
 For bedrifter som Ã¸nsker trygghet, kvalitet og profesjonell hÃ¥ndtering av sitt [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Komplett Guide til RegnskapsfÃ¸ring"), er valg av et ARS en investering i langsiktig Ã¸konomisk helse og compliance. Den ekstra kostnaden oppveies ofte av redusert risiko, bedre rÃ¥dgivning og Ã¸kt effektivitet i regnskapsfÃ¸ringen.
 
 Ved valg av ARS bÃ¸r du vurdere selskapets bransjeerfaring, teknologiske lÃ¸sninger, kommunikasjon og prismodell for Ã¥ finne den beste partneren for din virksomhets behov.
+
+
+

@@ -27,7 +27,9 @@ layout: pages/single
 
 Noen lÃ¸nnstyper som ikke dekkes av tabellen over:
 
-* **BonuslÃ¸nn**â€¯â€“ ekstra kompensasjon basert pÃ¥ mÃ¥loppnÃ¥else.
-* **OvertidslÃ¸nn**â€¯â€“ tillegg for arbeid utenfor normal arbeidstid.
+* **BonuslÃ¸nn**â€¯“ ekstra kompensasjon basert pÃ¥ mÃ¥loppnÃ¥else.
+* **OvertidslÃ¸nn**â€¯“ tillegg for arbeid utenfor normal arbeidstid.
 
 Se ogsÃ¥ [Hva er LÃ¸nn?](/blogs/regnskap/hva-er-lonn "Hva er LÃ¸nn i Regnskap?") for en dypere gjennomgang av **lÃ¸nnsformer** og regnskapsmessig behandling.
+
+

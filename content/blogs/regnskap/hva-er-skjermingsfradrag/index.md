@@ -289,7 +289,7 @@ Ved **blandet anskaffelse** anvendes fÃ¸rst inn, fÃ¸rst ut-prinsippet for Ã
 | **Fisjontype** | **Skjermingsbehandling** | **Dokumentasjonskrav** |
 |----------------|--------------------------|------------------------|
 | Symmetrisk fisjon | Pro rata fordeling | VerdsettelseserklÃ¦ring |
-| Asymmetrisk fisjon | Spesielle regler | [Skattemessig kontinuitetstest](/blogs/regnskap/skattemessig-kontinuitet "Skattemessig kontinuitet â€“ Guide til kontinuitetsprinsippet i norsk skatt") |
+| Asymmetrisk fisjon | Spesielle regler | [Skattemessig kontinuitetstest](/blogs/regnskap/skattemessig-kontinuitet "Skattemessig kontinuitet “ Guide til kontinuitetsprinsippet i norsk skatt") |
 | Grenseoverskridende | Nasjonale regler | EU-direktiv compliance |
 
 ### 5.2 KapitalforhÃ¸yelse og -nedsettelse
@@ -687,3 +687,5 @@ For bedrifter og investorer som Ã¸nsker Ã¥ maksimere verdien av sine investe
 Ved Ã¥ integrere skjermingsfradrag effektivt i den totale [skatteplanleggingen](/blogs/regnskap/hva-er-skatteplanlegging "Hva er Skatteplanlegging? Optimalisering av Skatteposisjon"), kan bedrifter og investorer oppnÃ¥ betydelige besparelser samtidig som de bidrar til et sunt og transparent skattesystem som stÃ¸tter Ã¸konomisk vekst og innovasjon.
 
 For Ã¥ fÃ¥ full oversikt over alle aspekter ved skjermingsfradrag og hvordan dette fungerer sammen med andre skatteordninger for aksjonÃ¦rer, anbefaler vi vÃ¥r [AksjonÃ¦rmodellen - Komplett Guide til Norsk Aksjebeskatning](/blogs/regnskap/aksjonaermodellen-guide "AksjonÃ¦rmodellen - Komplett Guide til Norsk Aksjebeskatning").
+
+

@@ -320,3 +320,6 @@ Suksessfulle dagsoppgjÃ¸rsrutiner krever:
 * **Sterkt fokus** pÃ¥ kvalitet og compliance
 
 Ved Ã¥ implementere **robuste dagsoppgjÃ¸rsrutiner** legger organisasjoner grunnlaget for pÃ¥litelig finansiell rapportering, effektiv [internkontroll](/blogs/regnskap/hva-er-attestering "Hva er Attestering? Kontrollrutiner og Godkjenningsprosesser") og trygg [regnskapsfÃ¸ring](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide") som oppfyller alle juridiske og profesjonelle standarder.
+
+
+

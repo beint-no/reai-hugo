@@ -300,3 +300,5 @@ Norge fÃ¸lger internasjonale trender innen ressursbeskatning:
 Grunnrenteskatt vil fortsette Ã¥ vÃ¦re et sentralt element i norsk nÃ¦ringspolitikk, og virksomheter mÃ¥ vÃ¦re forberedt pÃ¥ fortsatte endringer og tilpasninger i regelverket. En systematisk tilnÃ¦rming til [regnskapsfÃ¸ring](/blogs/regnskap/hva-er-regnskap "Hva er regnskap? En Dybdeanalyse for Norge") og rapportering av grunnrenteskatt er essensielt for Ã¥ sikre compliance og optimal skatteposisjon.
 
 For virksomheter som vurderer investeringer i sektorer som omfattes av grunnrenteskatt, er det viktig Ã¥ inkludere skatteeffektene i [budsjettering](/blogs/regnskap/hva-er-budsjettering "Hva er Budsjettering? Komplett Guide til Budsjettplanlegging") og lÃ¸nnsomhetsanalyser fra tidlig fase.
+
+

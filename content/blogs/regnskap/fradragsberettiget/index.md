@@ -1,13 +1,13 @@
 ﻿---
 title: "Fradragsberettiget"
 meta_title: "Fradragsberettiget"
-meta_description: '**Fradragsberettiget** beskriver nÃ¥r en kostnad eller [utgift](/blogs/regnskap/utgift "Utgift â€“ Komplett Guide til Utgifter i Norsk Regnskap") kan trekkes fr...'
+meta_description: '**Fradragsberettiget** beskriver nÃ¥r en kostnad eller [utgift](/blogs/regnskap/utgift "Utgift “ Komplett Guide til Utgifter i Norsk Regnskap") kan trekkes fr...'
 slug: fradragsberettiget
 type: blog
 layout: pages/single
 ---
 
-**Fradragsberettiget** beskriver nÃ¥r en kostnad eller [utgift](/blogs/regnskap/utgift "Utgift â€“ Komplett Guide til Utgifter i Norsk Regnskap") kan trekkes fra i regnskapet eller skattemeldingen for Ã¥ redusere det skattepliktige grunnlaget. Dette er et sentralt begrep i bÃ¥de bokfÃ¸ring og skatterett, og styrer hvilke kostnader som virksomheter og privatpersoner kan kreve fradrag for.
+**Fradragsberettiget** beskriver nÃ¥r en kostnad eller [utgift](/blogs/regnskap/utgift "Utgift “ Komplett Guide til Utgifter i Norsk Regnskap") kan trekkes fra i regnskapet eller skattemeldingen for Ã¥ redusere det skattepliktige grunnlaget. Dette er et sentralt begrep i bÃ¥de bokfÃ¸ring og skatterett, og styrer hvilke kostnader som virksomheter og privatpersoner kan kreve fradrag for.
 
 ![Fradragsberettiget](fradragsberettiget-image.svg)
 
@@ -17,11 +17,11 @@ For en grundig gjennomgang av fradrag generelt, se ogsÃ¥ [Hva er fradrag?](/bl
 
 For en praktisk innfÃ¸ring i hvordan man **fradragsfÃ¸rer** kostnader, se ogsÃ¥ [Hva er FradragsfÃ¸re?](/blogs/regnskap/hva-er-fradragsfoere "Hva betyr Ã¥ fradragsfÃ¸re i regnskap?").
 
-For eksempler pÃ¥ delvis fradragsberettigede kostnader som faller under representasjon, se [Representasjon](/blogs/regnskap/representasjon "Representasjon â€“ Guide til representasjon og regnskapsmessig behandling i Norge").
+For eksempler pÃ¥ delvis fradragsberettigede kostnader som faller under representasjon, se [Representasjon](/blogs/regnskap/representasjon "Representasjon “ Guide til representasjon og regnskapsmessig behandling i Norge").
 
 ## Grunnleggende prinsipper for fradragsberettigede kostnader
 
-I norsk skatterett er hovedregelen at **fradrag** kun gis for kostnader pÃ¥dratt for Ã¥ erverve, sikre eller vedlikeholde skattepliktig inntekt (skatteloven Â§ 6â€‘1). For at en kostnad skal vÃ¦re **[fradragsberettiget](/blogs/regnskap/fradragsberettiget "Hva betyr Fradragsberettiget?")**, mÃ¥ fÃ¸lgene vilkÃ¥r vÃ¦re oppfylt:
+I norsk skatterett er hovedregelen at **fradrag** kun gis for kostnader pÃ¥dratt for Ã¥ erverve, sikre eller vedlikeholde skattepliktig inntekt (skatteloven Â§ 6‘1). For at en kostnad skal vÃ¦re **[fradragsberettiget](/blogs/regnskap/fradragsberettiget "Hva betyr Fradragsberettiget?")**, mÃ¥ fÃ¸lgene vilkÃ¥r vÃ¦re oppfylt:
 
 * **Ervervstilknytning:** Kostnaden mÃ¥ ha klar kobling til inntektsgivende aktivitet
 * **Faktisk pÃ¥dratt:** Det mÃ¥ foreligge reell utbetaling eller forpliktelse
@@ -66,3 +66,6 @@ God internkontroll og systematikk er avgjÃ¸rende for korrekt fradragshÃ¥ndte
 - **Hold deg oppdatert** pÃ¥ endringer i skattelovgivningen via [Skattefradrag-gaver](/blogs/regnskap/skattefradrag-gaver-veldedige-organisasjoner "Skattefradrag gaver til veldedige organisasjoner") og offentlige kilder
 
 Ved Ã¥ forstÃ¥ og anvende prinsippene for hva som er **fradragsberettiget**, kan virksomheter og privatpersoner optimalisere skatteposisjonen og redusere risiko for feilrapportering.
+
+
+

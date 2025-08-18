@@ -259,3 +259,6 @@ For stÃ¸rre bedrifter gjelder **IFRS** (International Financial Reporting Stan
 Ved Ã¥ fÃ¸lge **etablerte prinsipper**, bruke **moderne verktÃ¸y** og implementere **gode rutiner**, kan bedrifter sikre hÃ¸y kvalitet i sitt balanseregnskap og fÃ¥ maksimal nytte av denne viktige finansielle rapporten.
 
 God forstÃ¥else av balanseregnskap er essensielt for alle som arbeider med [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide"), Ã¸konomi og bedriftsledelse, og danner grunnlaget for informerte beslutninger om bedriftens fremtid.
+
+
+

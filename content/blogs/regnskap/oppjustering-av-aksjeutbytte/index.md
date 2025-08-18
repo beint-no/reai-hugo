@@ -30,7 +30,7 @@ Oppjustering mÃ¥ behandles i trÃ¥d med relevante paragrafer i **aksjeloven**
 | Â§Â 8-2   | Beskriver ekstraordinÃ¦rt utbytte og krav til vedtak |
 | Â§Â 8-6   | Ã…rsregnskapets betydning for disponering av overskudd |
 
-Se ogsÃ¥ [Maskimalt Utbytte](/blogs/regnskap/maskimalt-utbytte "Maskimalt Utbytte â€“ Komplett Guide til Utbytteregler og Beregning") og [EkstraordinÃ¦rt Utbytte](/blogs/regnskap/ekstraordinart-utbytte "EkstraordinÃ¦rt Utbytte â€“ Alt du trenger Ã¥ vite om ekstraordinÃ¦rt utbytte").
+Se ogsÃ¥ [Maskimalt Utbytte](/blogs/regnskap/maskimalt-utbytte "Maskimalt Utbytte “ Komplett Guide til Utbytteregler og Beregning") og [EkstraordinÃ¦rt Utbytte](/blogs/regnskap/ekstraordinart-utbytte "EkstraordinÃ¦rt Utbytte “ Alt du trenger Ã¥ vite om ekstraordinÃ¦rt utbytte").
 
 ## Beregningsmetode
 
@@ -74,10 +74,10 @@ For Ã¥ hÃ¥ndtere oppjusteringen korrekt bÃ¸r du:
 
 Oppjustert utbytte skattlegges etter samme regler som ordinÃ¦rt og ekstraordinÃ¦rt utbytte:
 
-* Personlige aksjonÃ¦rer beskattes etter [AksjonÃ¦rmodellen](/blogs/regnskap/aksjonaermodellen-guide "AksjonÃ¦rmodellen â€“ Komplett Guide til Norsk Aksjebeskatning").
+* Personlige aksjonÃ¦rer beskattes etter [AksjonÃ¦rmodellen](/blogs/regnskap/aksjonaermodellen-guide "AksjonÃ¦rmodellen “ Komplett Guide til Norsk Aksjebeskatning").
 * SelskapsaksjonÃ¦rer kan benytte **fritaksmetoden**.
 * Utenlandske aksjonÃ¦rer kan bli trukket **kildeskatt**.
-* For en komplett oversikt over beskatning av utbytte, se [Skatt pÃ¥ utbytte](/blogs/regnskap/skatt-pa-utbytte "Skatt pÃ¥ utbytte â€“ Guide til beskatning av utbytte i Norge").
+* For en komplett oversikt over beskatning av utbytte, se [Skatt pÃ¥ utbytte](/blogs/regnskap/skatt-pa-utbytte "Skatt pÃ¥ utbytte “ Guide til beskatning av utbytte i Norge").
 
 ## Praktiske rÃ¥d
 
@@ -88,3 +88,5 @@ Oppjustert utbytte skattlegges etter samme regler som ordinÃ¦rt og ekstraordin
 ## Konklusjon
 
 Oppjustering av aksjeutbytte sikrer at selskapet har korrekt **egenkapital** i henhold til aksjelovens krav og at aksjonÃ¦rene mottar riktig belÃ¸p. Ved Ã¥ fÃ¸lge juridiske krav, beregningsmetoder og dokumentasjonsrutiner kan selskapet gjennomfÃ¸re en **lovlig** og **transparent** oppjustering.
+
+

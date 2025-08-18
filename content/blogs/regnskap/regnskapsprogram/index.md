@@ -18,8 +18,8 @@ Moderne regnskapsprogrammer tilbyr et bredt spekter av funksjoner for Ã¥ foren
 * **Automatisert bokfÃ¸ring** med stÃ¸tte for [bilag](/blogs/regnskap/bilag "Bilag - Komplett Guide til Regnskapsbilag") og [bokfÃ¸ring](/blogs/regnskap/hva-er-bokforing "Hva er BokfÃ¸ring? En Komplett Guide til Norsk BokfÃ¸ringspraksis").
 * **Faktura- og betalingshÃ¥ndtering** via [fakturaprogram](/blogs/regnskap/fakturaprogram "Fakturaprogram: Automatisert Fakturabehandling for Norske Bedrifter") og [elektronisk fakturering](/blogs/regnskap/hva-er-elektronisk-fakturering "Hva er elektronisk fakturering? Komplett Guide til Digitale FakturalÃ¸sninger").
 * **Sanntidsrapportering** og dashboards for likviditetsstyring, [budsjett](/blogs/regnskap/budsjett "Budsjett - Guide til Budsjettering og Finansplanlegging") og nÃ¸kkeltall.
-* **Samarbeid med regnskapsbyrÃ¥** for ekstra kompetanse og stÃ¸tte i komplekse transaksjoner (se [RegnskapsbyrÃ¥](/blogs/regnskap/regnskapsbyra "RegnskapsbyrÃ¥ â€“ Hvordan velge riktig regnskapsbyrÃ¥ for din bedrift")).
-* **Integrasjoner** med bank, [ERP-systemer](/blogs/regnskap/hva-er-erp-system "Hva er ERP-system? Komplett Guide til Enterprise Resource Planning") og andre forretningsapplikasjoner via [API-integrasjon og automatisering av regnskap](/blogs/regnskap/api-integrasjon-automatisering-regnskap "API Integrasjon og Automatisering av Regnskap â€“ Komplett Guide til Digital RegnskapsfÃ¸ring").
+* **Samarbeid med regnskapsbyrÃ¥** for ekstra kompetanse og stÃ¸tte i komplekse transaksjoner (se [RegnskapsbyrÃ¥](/blogs/regnskap/regnskapsbyra "RegnskapsbyrÃ¥ “ Hvordan velge riktig regnskapsbyrÃ¥ for din bedrift")).
+* **Integrasjoner** med bank, [ERP-systemer](/blogs/regnskap/hva-er-erp-system "Hva er ERP-system? Komplett Guide til Enterprise Resource Planning") og andre forretningsapplikasjoner via [API-integrasjon og automatisering av regnskap](/blogs/regnskap/api-integrasjon-automatisering-regnskap "API Integrasjon og Automatisering av Regnskap “ Komplett Guide til Digital RegnskapsfÃ¸ring").
 * **Compliance** og sikkerhet med stÃ¸tte for MVA, [Altinn](/blogs/regnskap/hva-er-altinn "Hva er Altinn? Komplett Guide til Norges Digitale Offentlige Tjenester") og innsending av [nÃ¦ringsoppgave](/blogs/regnskap/hva-er-naeringsoppgave "Hva er nÃ¦ringsoppgave? En Guide til Norsk NÃ¦ringsoppgave").
 
 ## Sammenligning av LÃ¸sningstyper
@@ -53,3 +53,5 @@ En vellykket implementering omfatter:
 ## Konklusjon
 
 Et riktig regnskapsprogram gir bedriften oversikt, effektivitet og trygghet i Ã¸konomistyringen. Ved Ã¥ velge en lÃ¸sning som passer dine behov og integrasjonskrav, fÃ¥r du et kraftig verktÃ¸y for fremtidig vekst.
+
+

@@ -1,15 +1,15 @@
 ﻿---
-title: "Proff.no â€“ Oversikt og Brukerveiledning"
-meta_title: "Proff.no â€“ Oversikt og Brukerveiledning"
-meta_description: '![Proff.no â€“ Oversikt og Brukerveiledning](proff-no-image.svg)'
+title: "Proff.no “ Oversikt og Brukerveiledning"
+meta_title: "Proff.no “ Oversikt og Brukerveiledning"
+meta_description: '![Proff.no “ Oversikt og Brukerveiledning](proff-no-image.svg)'
 slug: proff-no
 type: blog
 layout: pages/single
 ---
 
-![Proff.no â€“ Oversikt og Brukerveiledning](proff-no-image.svg)
+![Proff.no “ Oversikt og Brukerveiledning](proff-no-image.svg)
 
-**Proff.no** er en norsk digital plattform for bedriftsinformasjon som gir tilgang til offisielle **regnskapstall**, kredittvurderinger, nÃ¸kkeltall og kontaktinformasjon om alle registrerte virksomheter i Norge. Tjenesten samler data fra blant annet [BrÃ¸nnÃ¸ysundregistrene](/blogs/regnskap/bronnoysundregistrene "BrÃ¸nnÃ¸ysundregistrene â€“ Offentlig register for norske bedrifter") og offentlig tilgjengelige regnskaper.
+**Proff.no** er en norsk digital plattform for bedriftsinformasjon som gir tilgang til offisielle **regnskapstall**, kredittvurderinger, nÃ¸kkeltall og kontaktinformasjon om alle registrerte virksomheter i Norge. Tjenesten samler data fra blant annet [BrÃ¸nnÃ¸ysundregistrene](/blogs/regnskap/bronnoysundregistrene "BrÃ¸nnÃ¸ysundregistrene “ Offentlig register for norske bedrifter") og offentlig tilgjengelige regnskaper.
 
 ## Hva er Proff.no?
 
@@ -44,9 +44,11 @@ Proff.no er utviklet for Ã¥ forenkle tilgang til viktig forretningsinformasjon
 
 1. UndersÃ¸ke potensielle kunder og leverandÃ¸rer.
 2. Analysere konkurrenters Ã¸konomi.
-3. Verifisere juridisk status via [BrÃ¸nnÃ¸ysundregistrene](/blogs/regnskap/bronnoysundregistrene "BrÃ¸nnÃ¸ysundregistrene â€“ Offentlig register for norske bedrifter").
-4. Forberede [due diligence](/blogs/regnskap/due-diligence "Due Diligence â€“ En Guide til Risiko- og SÃ¥rbarhetsanalyse").
+3. Verifisere juridisk status via [BrÃ¸nnÃ¸ysundregistrene](/blogs/regnskap/bronnoysundregistrene "BrÃ¸nnÃ¸ysundregistrene “ Offentlig register for norske bedrifter").
+4. Forberede [due diligence](/blogs/regnskap/due-diligence "Due Diligence “ En Guide til Risiko- og SÃ¥rbarhetsanalyse").
 
 ## Konklusjon
 
 Proff.no er et **kraftig verktÃ¸y** for alle som trenger rask og pÃ¥litelig tilgang til bedriftsinformasjon i Norge. Plattformens kombinasjon av offisielle data, oversiktlige rapporter og nÃ¸kkeltall gjÃ¸r det enkelt Ã¥ ta informerte beslutninger.
+
+

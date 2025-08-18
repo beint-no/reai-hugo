@@ -13,7 +13,7 @@ NÃ¦ringsoppgaven er ikke bare en skattemessig forpliktelse, men ogsÃ¥ et vik
 
 For detaljer om **NÃ¦ringsoppgaveÂ 1**, se [NÃ¦ringsoppgaveÂ 1](/blogs/regnskap/naeringsoppgave-1 "Hva er NÃ¦ringsoppgaveÂ 1? Komplett Guide til NÃ¦ringsoppgaveÂ 1").
 
-Skattefunn-fradrag rapporteres som del av skattemeldingen og nÃ¦ringsoppgaven. Les mer i [Skattefunn](/blogs/regnskap/skattefunn "Skattefunn â€“ Skatteinsentiver for Forskning og Utvikling i Norge").
+Skattefunn-fradrag rapporteres som del av skattemeldingen og nÃ¦ringsoppgaven. Les mer i [Skattefunn](/blogs/regnskap/skattefunn "Skattefunn “ Skatteinsentiver for Forskning og Utvikling i Norge").
 
 ![Oversikt over NÃ¦ringsoppgaven](naeringsoppgave-overview.svg)
 
@@ -218,4 +218,6 @@ NÃ¦ringsoppgaven er en fundamental del av norsk nÃ¦ringslivs skattemessige f
 For bedrifter som Ã¸nsker Ã¥ optimalisere sin regnskapsprosess og sikre korrekt nÃ¦ringsoppgave, anbefales det Ã¥ investere i moderne regnskapssystemer med [API-integrasjon](/blogs/regnskap/api-integrasjon-automatisering-regnskap "API-integrasjon og Automatisering i Regnskap - Komplett Guide") og Ã¥ etablere gode rutiner for lÃ¸pende regnskapsarbeid og kvalitetskontroll.
 **NÃ¦ringsoppgaven** er en sentral del av det norske skattesystemet og representerer den Ã¥rlige skattemeldingen som alle norske bedrifter mÃ¥ levere til Skatteetaten. Som en viktig komponent i **[opplysningsplikten](/blogs/regnskap/hva-er-opplysningsplikt "Hva er opplysningsplikt? Komplett guide til rapporteringsplikt")**, fungerer nÃ¦ringsoppgaven som grunnlaget for beregning av **skatt pÃ¥ nÃ¦ringsinntekt** og er tett knyttet til bedriftens [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? Komplett Guide til RegnskapsfÃ¸ring i Norge") og [bokfÃ¸ring](/blogs/regnskap/hva-er-bokforing "Hva er BokfÃ¸ring? En Komplett Guide til Norsk BokfÃ¸ringspraksis").
 
-NÃ¦ringskode er ogsÃ¥ pÃ¥krevd i nÃ¦ringsoppgaven for Ã¥ spesifisere bransjetilhÃ¸righet, og pÃ¥virker hvordan Skatteetaten klassifiserer virksomheten. Se [NÃ¦ringskode](/blogs/regnskap/naeringskode "NÃ¦ringskode â€“ Guide til bransjeklassifisering og nÃ¦ringskoder").
+NÃ¦ringskode er ogsÃ¥ pÃ¥krevd i nÃ¦ringsoppgaven for Ã¥ spesifisere bransjetilhÃ¸righet, og pÃ¥virker hvordan Skatteetaten klassifiserer virksomheten. Se [NÃ¦ringskode](/blogs/regnskap/naeringskode "NÃ¦ringskode “ Guide til bransjeklassifisering og nÃ¦ringskoder").
+
+

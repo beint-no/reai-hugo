@@ -11,7 +11,7 @@ Regnskap er den systematiske og omfattende registreringen av finansielle transak
 
 For Ã¥ sikre pÃ¥litelig og troverdig finansiell rapportering, er det avgjÃ¸rende Ã¥ fÃ¸lge [god regnskapsskikk](/blogs/regnskap/god-regnskapsskikk "God Regnskapsskikk - Prinsipper, Standarder og Beste Praksis i Norge"), som omfatter bÃ¥de tekniske standarder og etiske prinsipper for kvalitetsregnskap.
 
-For en grundig gjennomgang av **revisjon** i norsk regnskap, se vÃ¥r artikkel [Revisjon](/blogs/regnskap/revisjon "Revisjon â€“ Alt du trenger Ã¥ vite om Revisjon i Norge").
+For en grundig gjennomgang av **revisjon** i norsk regnskap, se vÃ¥r artikkel [Revisjon](/blogs/regnskap/revisjon "Revisjon “ Alt du trenger Ã¥ vite om Revisjon i Norge").
 
 ## Seksjon 1: Regnskapets Konseptuelle Rammeverk
 
@@ -202,7 +202,7 @@ CSRD pÃ¥virker norske bedrifter som oppfyller visse stÃ¸rrelseskriterier og 
 
 Moderne norsk regnskapsfÃ¸ring er dypt integrert med digitale plattformer og er strengt regulert av lovverket for Ã¥ sikre kvalitet og etterprÃ¸vbarhet.
 
-### 7.1 Altinn â€“ Den Digitale Motorveien
+### 7.1 Altinn “ Den Digitale Motorveien
 
 [Altinn](/blogs/regnskap/hva-er-altinn "Hva er Altinn? Norges Digitale Portal for NÃ¦ringsliv og Privatpersoner") er Norges felles internettportal for digital dialog mellom nÃ¦ringslivet, privatpersoner og offentlige etater. For regnskapsfÃ¸rere og bedrifter er Altinn den primÃ¦re kanalen for Ã¥ levere lovpÃ¥lagte skjemaer som MVA-melding, skattemelding og A-melding.
 
@@ -310,3 +310,5 @@ Fordeler ved Ã¥ velge et ARS inkluderer:
 * **Tilsynsmyndighet:** Underlagt Finanstilsynets kontroll og tilsyn.
 
 Valg av riktig regnskapstjeneste er en viktig strategisk beslutning som kan pÃ¥virke bedriftens Ã¸konomiske helse og compliance betydelig.
+
+

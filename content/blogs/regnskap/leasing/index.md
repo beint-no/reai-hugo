@@ -51,8 +51,10 @@ Anta at en bedrift inngÃ¥r en leasingavtale med mÃ¥nedlige betalinger pÃ¥ 
 
 | Periode | MÃ¥nedlig betaling | NÃ¥verdi av betalinger |
 |---------|-------------------|-----------------------|
-| 1â€“36    | 20Â 000Â kr         | 640Â 000Â kr            |
+| 1“36    | 20Â 000Â kr         | 640Â 000Â kr            |
 
 ## 5. Konklusjon
 
 Leasing er et fleksibelt alternativ til kjÃ¸p som kan forbedre likviditet og skatteposisjon, men krever nÃ¸ye vurdering av totale kostnader og balansefÃ¸ring etter IFRSÂ 16.
+
+

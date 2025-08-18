@@ -9,7 +9,7 @@ layout: pages/single
 
 **ELMA** (Elektronisk mottaker- og avsenderregister) er Norges sentrale **digital adresse**-register for mottakere og avsendere av elektroniske meldinger, inkludert [EHF](/blogs/regnskap/hva-er-ehf "Hva er EHF? En Guide til Norsk Elektronisk Handelsformat"), [eFaktura](/blogs/regnskap/hva-er-efaktura "Hva er eFaktura? Komplett Guide til Elektronisk Fakturering i Norge") og annen digital post. Registeret driftes av [BrÃ¸nnÃ¸ysundregistrene](/blogs/regnskap/bronnoysundregistrene "Hva er BrÃ¸nnÃ¸ysundregistrene? En Guide til Norges Registerforvalter") og er en kritisk komponent i Norges infrastruktur for digital meldingsutveksling.
 
-*Se ogsÃ¥: [Integrasjon](/blogs/regnskap/integrasjon "Integrasjon â€“ En InnfÃ¸ring i Integrasjonskonsepter i Regnskap").*
+*Se ogsÃ¥: [Integrasjon](/blogs/regnskap/integrasjon "Integrasjon “ En InnfÃ¸ring i Integrasjonskonsepter i Regnskap").*
 
 ![ELMA Oversikt](elma-image.svg)
 
@@ -70,3 +70,6 @@ Ved Ã¥ forstÃ¥ og benytte ELMA sikrer virksomheter en **pÃ¥litelig**, **ef
 * [Hva er eFaktura?](/blogs/regnskap/hva-er-efaktura "Hva er eFaktura? Komplett Guide til Elektronisk Fakturering i Norge")
 * [Hva er EHF?](/blogs/regnskap/hva-er-ehf "Hva er EHF? En Guide til Norsk Elektronisk Handelsformat")
 * [Hva er BrÃ¸nnÃ¸ysundregistrene?](/blogs/regnskap/bronnoysundregistrene "Hva er BrÃ¸nnÃ¸ysundregistrene? En Guide til Norges Registerforvalter")
+
+
+

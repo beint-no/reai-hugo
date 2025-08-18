@@ -293,3 +293,6 @@ Driftsresultat er et fundamentalt mÃ¥l pÃ¥ bedriftens operasjonelle lÃ¸nns
 * **Rapportering** mÃ¥ fÃ¸lge etablerte regnskapsstandarder
 
 Ved Ã¥ forstÃ¥ og aktivt arbeide med driftsresultat kan bedrifter ta bedre beslutninger, forbedre lÃ¸nnsomheten og skape mer verdi for alle interessenter.
+
+
+

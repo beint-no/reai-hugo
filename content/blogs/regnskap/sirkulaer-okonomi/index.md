@@ -31,10 +31,10 @@ I en **sirkulÃ¦r Ã¸konomi** fokuserer man pÃ¥ Ã¥:
 
 Ã… integrere **sirkulÃ¦r Ã¸konomi** i regnskapsprosesser innebÃ¦rer:
 
-1. *Materielloversikt* â€“ Kartlegge ressursbruk og avfallsmengder.
-2. *Kostnadsfordeling* â€“ Allokere kostnader for reparasjon, omarbeiding og gjenvinning.
-3. *KPI-er* â€“ Definere indikatorer som vektede kostnader per enhet ombruk eller resirkulering.
-4. *Rapportering* â€“ Inkludere sirkulÃ¦rÃ¸konomi-mÃ¥l i bÃ¦rekraftsrapporten etter [CSRD-direktivet](/blogs/regnskap/hva-er-csrd "Hva er CSRD? Corporate Sustainability Reporting Directive - Komplett Guide") og [EU-taksonomien](/blogs/regnskap/hva-er-eu-taksonomien "Hva er EU-taksonomien? Komplett Guide til EUs Klassifiseringssystem for BÃ¦rekraftige Aktiviteter").
+1. *Materielloversikt* “ Kartlegge ressursbruk og avfallsmengder.
+2. *Kostnadsfordeling* “ Allokere kostnader for reparasjon, omarbeiding og gjenvinning.
+3. *KPI-er* “ Definere indikatorer som vektede kostnader per enhet ombruk eller resirkulering.
+4. *Rapportering* “ Inkludere sirkulÃ¦rÃ¸konomi-mÃ¥l i bÃ¦rekraftsrapporten etter [CSRD-direktivet](/blogs/regnskap/hva-er-csrd "Hva er CSRD? Corporate Sustainability Reporting Directive - Komplett Guide") og [EU-taksonomien](/blogs/regnskap/hva-er-eu-taksonomien "Hva er EU-taksonomien? Komplett Guide til EUs Klassifiseringssystem for BÃ¦rekraftige Aktiviteter").
 
 ## Eksempler fra norsk nÃ¦ringsliv
 
@@ -46,3 +46,5 @@ I en **sirkulÃ¦r Ã¸konomi** fokuserer man pÃ¥ Ã¥:
 Ved Ã¥ integrere **sirkulÃ¦r Ã¸konomi** i regnskap og rapportering kan virksomheter oppnÃ¥ bedre ressursutnyttelse, lavere kostnader og styrket omdÃ¸mme.
 
 *Artikkelen ble sist oppdatert for Ã¥ gi en grundig oversikt over prinsipper og regnskapsmessige implikasjoner av sirkulÃ¦r Ã¸konomi.*
+
+

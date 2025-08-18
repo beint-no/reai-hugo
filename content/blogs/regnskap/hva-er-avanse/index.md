@@ -311,3 +311,6 @@ Avanse er et viktig finansielt verktÃ¸y som gir fordeler for bÃ¥de leverand�
 * Moderne teknologi gir nye muligheter for sikring
 
 Ved Ã¥ fÃ¸lge beste praksis for avanse kan bedrifter dra nytte av fordelene samtidig som de minimerer risikoen. Dette krever god forstÃ¥else av bÃ¥de regnskapsmessige, juridiske og praktiske aspekter ved forskuddsbetalinger.
+
+
+

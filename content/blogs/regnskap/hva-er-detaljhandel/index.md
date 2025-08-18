@@ -249,3 +249,6 @@ Detaljhandel representerer en kompleks virksomhetstype som krever spesialisert k
 * **Teknologisk oppdatering** for Ã¥ mÃ¸te fremtidens krav
 
 Ved Ã¥ fÃ¸lge beste praksis og investere i riktige systemer kan detaljhandelsvirksomheter oppnÃ¥ bÃ¥de operasjonell effektivitet og finansiell kontroll som grunnlag for bÃ¦rekraftig vekst.
+
+
+

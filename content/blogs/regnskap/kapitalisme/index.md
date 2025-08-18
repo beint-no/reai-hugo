@@ -89,3 +89,5 @@ Med Ã¸kende fokus pÃ¥ **ESG**, **grÃ¸nn finansiering** og **digitalisering
 ## Oppsummering
 
 Kapitalisme som Ã¸konomisk system har formet moderne nÃ¦ringsliv og regnskap ved Ã¥ fremme **privat eierskap**, **markedsbaserte priser** og **konkurranse**. Samtidig krever samfunnsutfordringer som ulikhet og klimaendringer at systemet tilpasses for Ã¥ sikre langsiktig bÃ¦rekraft og rettferdighet.
+
+

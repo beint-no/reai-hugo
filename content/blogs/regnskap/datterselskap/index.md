@@ -66,3 +66,6 @@ Se ogsÃ¥ vÃ¥r guide til [konsernbidrag](/blogs/regnskap/hva-er-konsernbidrag
 ---
 
 Dette er en omfattende oversikt over **datterselskapers** rolle i norske konsern, deres juridiske basis og regnskapsmessige konsekvenser.
+
+
+

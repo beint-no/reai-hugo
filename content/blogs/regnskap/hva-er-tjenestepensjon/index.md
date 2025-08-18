@@ -329,3 +329,5 @@ Dr. Skyldig pensjonsinnbetaling   XXX
 For bedrifter er det avgjÃ¸rende Ã¥ ha god kontroll pÃ¥ bÃ¥de de regnskapsmessige og operasjonelle aspektene ved tjenestepensjon. Dette krever kompetanse innen regnskap, jus og personaladministrasjon, samt gode systemer for overvÃ¥king og rapportering.
 
 Med riktig tilnÃ¦rming kan tjenestepensjon bli et verdifullt verktÃ¸y for bÃ¥de Ã¥ tiltrekke og beholde kompetente ansatte, samtidig som bedriften opprettholder god Ã¸konomisk kontroll og overholder alle juridiske krav.
+
+

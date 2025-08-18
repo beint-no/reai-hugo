@@ -9,7 +9,7 @@ layout: pages/single
 
 **Fakturasalg** er en regnskapsmetode hvor inntekter registreres pÃ¥ det tidspunktet en [faktura](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav") utstedes til kunden, uavhengig av nÃ¥r betalingen faktisk mottas. Dette er en fundamental del av [periodiseringsprinsippet](/blogs/regnskap/hva-er-bokforingsregler "Hva er BokfÃ¸ringsregler? Komplett Guide til Norske Regnskapsregler") i regnskapet og pÃ¥virker direkte bedriftens [driftsresultat](/blogs/regnskap/hva-er-driftsresultat "Hva er Driftsresultat? Beregning, Analyse og Praktiske Eksempler") og [likviditetsstyring](/blogs/regnskap/hva-er-betalingsevne "Hva er Betalingsevne? Analyse av Likviditet og Finansiell Stabilitet").
 
-For en grundig introduksjon til **salg** i regnskap, se artikkelen [Salg](/blogs/regnskap/salg "Salg â€“ Oversikt over salgskonsepter i Norsk Regnskap").
+For en grundig introduksjon til **salg** i regnskap, se artikkelen [Salg](/blogs/regnskap/salg "Salg “ Oversikt over salgskonsepter i Norsk Regnskap").
 
 ## Seksjon 1: Grunnleggende om Fakturasalg
 
@@ -285,3 +285,5 @@ Fakturasalg utvikler seg kontinuerlig, drevet av teknologiske fremskritt og endr
 Fakturasalg er en **kompleks forretningsprosess** som krever grundig planlegging, effektive systemer og kontinuerlig oppfÃ¸lging. NÃ¥r det hÃ¥ndteres korrekt, kan det vÃ¦re en kraftig driver for vekst og kundetilfredshet. NÃ¸kkelen til suksess ligger i Ã¥ balansere **salgsmuligheter** med **risikostyring**, samtidig som man utnytter moderne teknologi for Ã¥ optimalisere prosessene.
 
 Bedrifter som mestrer fakturasalg vil ha et betydelig konkurransefortrinn gjennom forbedret [kontantstrÃ¸m](/blogs/regnskap/hva-er-betalingsevne "Hva er Betalingsevne? Analyse av Likviditet og Finansiell Stabilitet"), sterkere kunderelasjoner og mer effektive operasjoner. Det krever imidlertid kontinuerlig fokus pÃ¥ [internkontroll](/blogs/regnskap/hva-er-attestering "Hva er Attestering? En Komplett Guide til Bilagsbehandling og Godkjenning"), teknologisk utvikling og tilpasning til endrede markedsforhold.
+
+

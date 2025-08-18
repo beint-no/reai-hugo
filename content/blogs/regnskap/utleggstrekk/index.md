@@ -34,12 +34,12 @@ Utleggstrekk er et tvangsmessig lÃ¸nnstrekk som igangsettes etter et **varsel 
 
 ## 3. Trekkgrunnlag og Beregning
 
-Trekket beregnes pÃ¥ grunnlag av den ansattes **nettolÃ¸nn** etter skatt og minstefradrag. MinstebelÃ¸p som ikke kan trekkes, kalles fribelÃ¸p eller nÃ¸dvendig livsopphold. Etter tvangsfullbyrdelsesloven Â§â€¯6â€‘2 gjelder fÃ¸lgende *minstebelÃ¸p*:
+Trekket beregnes pÃ¥ grunnlag av den ansattes **nettolÃ¸nn** etter skatt og minstefradrag. MinstebelÃ¸p som ikke kan trekkes, kalles fribelÃ¸p eller nÃ¸dvendig livsopphold. Etter tvangsfullbyrdelsesloven Â§â€¯6‘2 gjelder fÃ¸lgende *minstebelÃ¸p*:
 
 | Inntekt per mÃ¥ned (NOK) | FribelÃ¸p per mÃ¥ned (NOK) |
 |--------------------------|--------------------------|
-| 0â€“16â€¯000                 | 75 % av inntekt          |
-| 16â€¯001â€“31â€¯200            | 12â€¯000                   |
+| 0“16â€¯000                 | 75 % av inntekt          |
+| 16â€¯001“31â€¯200            | 12â€¯000                   |
 | Over 31â€¯200              | 24â€¯000                   |
 
 
@@ -78,3 +78,5 @@ Noen situasjoner krever sÃ¦rskilt hÃ¥ndtering:
 Utleggstrekk er et effektivt verktÃ¸y for kreditorer, men stiller krav til bÃ¥de arbeidsgiver og arbeidstaker for korrekt beregning, rapportering og dokumentasjon. Ved Ã¥ fÃ¸lge lovkravene i **tvangsfullbyrdelsesloven** og god regnskapspraksis, sikrer man en ryddig og forutsigbar prosess.
 
 LÃ¦r mer om beslektede temaer som [Ansattutlegg](/blogs/regnskap/ansattutlegg "Ansattutlegg - En komplett guide til utlegg fra ansatte") og [Tvangsfullbyrdelse](/blogs/regnskap/tvangsfullbyrdelse "Tvangsfullbyrdelse") for dypere forstÃ¥else av utleggsprosesser.
+
+

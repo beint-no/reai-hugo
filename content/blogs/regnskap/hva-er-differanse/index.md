@@ -289,3 +289,6 @@ Differanseanalyse utvikler seg med ny teknologi og endrede krav.
 * **Helhetlig styringsinformasjon**
 
 Differanser i regnskap er et omfattende og viktig omrÃ¥de som krever systematisk tilnÃ¦rming og kontinuerlig oppfÃ¸lging. Ved Ã¥ forstÃ¥ ulike typer differanser og implementere gode rutiner for analyse og oppfÃ¸lging, kan bedrifter oppnÃ¥ bedre Ã¸konomisk styring og mer presise prognoser.
+
+
+

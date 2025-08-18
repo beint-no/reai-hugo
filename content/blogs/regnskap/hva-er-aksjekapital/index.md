@@ -49,3 +49,6 @@ I motsetning til risikoen, er potensiell [avkastning](/blogs/regnskap/hva-er-avk
 For detaljert informasjon om hvordan aksjekapital pÃ¥virker skatt pÃ¥ utbytte og gevinst, se vÃ¥r [AksjonÃ¦rmodellen - Komplett Guide til Norsk Aksjebeskatning](/blogs/regnskap/aksjonaermodellen-guide "AksjonÃ¦rmodellen - Komplett Guide til Norsk Aksjebeskatning").
 
 I regnskapet fÃ¸res aksjekapitalen pÃ¥ passivasiden i balansen, under "[Egenkapital](/blogs/regnskap/hva-er-egenkapital "Hva er Egenkapital? Komplett Guide til Egenkapital i Regnskap")".
+
+
+

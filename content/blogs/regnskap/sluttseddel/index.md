@@ -19,10 +19,10 @@ En **sluttseddel** (ogsÃ¥ kalt sluttavregningsseddel) utstedes etter at levera
 
 Sluttseddel er aktuelt ved:
 
-* **Prosjekt- eller kontraktsavslutning** â€“ dokumentasjon av endelig leveranse og avregning.
-* **Bygge- og anleggsprosjekter** â€“ sluttoppgjÃ¸r mellom entreprenÃ¸r og kunde.
-* **Transport- og logistikk** â€“ oppgjÃ¸r for frakt, toll og tilleggstjenester.
-* **Leieforhold** â€“ sluttavregning ved tilbakelevering av utstyr eller lokaler.
+* **Prosjekt- eller kontraktsavslutning** “ dokumentasjon av endelig leveranse og avregning.
+* **Bygge- og anleggsprosjekter** “ sluttoppgjÃ¸r mellom entreprenÃ¸r og kunde.
+* **Transport- og logistikk** “ oppgjÃ¸r for frakt, toll og tilleggstjenester.
+* **Leieforhold** “ sluttavregning ved tilbakelevering av utstyr eller lokaler.
 
 ## Innhold i en Sluttseddel
 
@@ -53,3 +53,5 @@ Sluttseddel er aktuelt ved:
 * [SluttoppgjÃ¸r](/blogs/regnskap/sluttoppgjor "SluttoppgjÃ¸r i regnskap")
 * [Bilag](/blogs/regnskap/hva-er-bilag "Hva er Bilag? En Komplett Guide til Regnskapsbilag")
 * [Pakkeseddel](/blogs/regnskap/hva-er-pakkeseddel "Hva er Pakkeseddel? Komplett Guide til Leveringsdokumentasjon og Regnskap")
+
+

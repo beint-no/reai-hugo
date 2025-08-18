@@ -15,10 +15,10 @@ layout: pages/single
 
 En selskapsform defineres i selskaps- og regnskapslovgivningen og fastsetter:
 
-- **Ansvarsforhold** â€“ hvem som hefter for selskapets gjeld og forpliktelser
-- **Kapitalstruktur** â€“ krav til egenkapital og startkapital
-- **Beskatning** â€“ hvordan overskudd og uttak beskattes
-- **Regnskaps- og rapporteringskrav** â€“ hvilke regnskapsstandarder som gjelder
+- **Ansvarsforhold** “ hvem som hefter for selskapets gjeld og forpliktelser
+- **Kapitalstruktur** “ krav til egenkapital og startkapital
+- **Beskatning** “ hvordan overskudd og uttak beskattes
+- **Regnskaps- og rapporteringskrav** “ hvilke regnskapsstandarder som gjelder
 
 Selskapsformen er en type [organisasjonsform](/blogs/regnskap/organisasjonsform "Organisasjonsform: Komplett Guide til Selskapsformer i Norge") som utelukkende omhandler ulike former for selskaper.
 
@@ -26,12 +26,12 @@ Selskapsformen er en type [organisasjonsform](/blogs/regnskap/organisasjonsform 
 
 | Selskapsform | Ansvar | Minstekapital | Skatt | Mer info |
 |--------------|--------|---------------|-------|----------|
-| [Enkeltpersonforetak](/blogs/regnskap/hva-er-enkeltpersonforetak "Hva er et Enkeltpersonforetak (ENK)?") | Ubegrenset personlig | â€“ | Personlig (0â€“47,4â€¯%) | ENK |
-| [Ansvarlig selskap (ANS)](/blogs/regnskap/ansvarlig-selskap "Hva er et Ansvarlig Selskap (ANS)?") | Ubegrenset solidarisk | â€“ | Personlig (0â€“47,4â€¯%) | ANS |
-| [Kommandittselskap (KS)](/blogs/regnskap/hva-er-kommandittselskap "Hva er Kommandittselskap (KS)?") | Ubegrenset/begrenset | â€“ | Blandet | KS |
+| [Enkeltpersonforetak](/blogs/regnskap/hva-er-enkeltpersonforetak "Hva er et Enkeltpersonforetak (ENK)?") | Ubegrenset personlig | “ | Personlig (0“47,4â€¯%) | ENK |
+| [Ansvarlig selskap (ANS)](/blogs/regnskap/ansvarlig-selskap "Hva er et Ansvarlig Selskap (ANS)?") | Ubegrenset solidarisk | “ | Personlig (0“47,4â€¯%) | ANS |
+| [Kommandittselskap (KS)](/blogs/regnskap/hva-er-kommandittselskap "Hva er Kommandittselskap (KS)?") | Ubegrenset/begrenset | “ | Blandet | KS |
 | [Aksjeselskap (AS)](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap (AS)?") | Begrenset | 30â€¯000â€¯kr | 22â€¯% + utbytteskatt | AS |
 | [Allmennaksjeselskap (ASA)](/blogs/regnskap/hva-er-asa "Hva er ASA? En Guide til Allmennaksjeselskap (ASA)") | Begrenset | 1â€¯000â€¯000â€¯kr | 22â€¯% + utbytteskatt | ASA |
-| [Samvirkeforetak](/blogs/regnskap/samvirkeforetak "Samvirkeforetak: Hva er det?") | Begrenset/varierer | â€“ | Varierer | SA |
+| [Samvirkeforetak](/blogs/regnskap/samvirkeforetak "Samvirkeforetak: Hva er det?") | Begrenset/varierer | “ | Varierer | SA |
 | [NUF](/blogs/regnskap/hva-er-nuf-selskapsform "Hva er NUF? Norskregistrert Utenlandsk Foretak") | Begrenset | Gjennom morselskap | 22â€¯% | NUF |
 
 ## Hvordan velge riktig selskapsform?
@@ -61,3 +61,5 @@ For grundigere informasjon om hver selskapsform, se:
 - [Allmennaksjeselskap (ASA)](/blogs/regnskap/hva-er-asa "Hva er ASA? En Guide til Allmennaksjeselskap (ASA)")
 - [Samvirkeforetak](/blogs/regnskap/samvirkeforetak "Samvirkeforetak: Hva er det?")
 - [NUF](/blogs/regnskap/hva-er-nuf-selskapsform "Hva er NUF? Norskregistrert Utenlandsk Foretak")
+
+

@@ -13,7 +13,7 @@ For informasjon om hvordan utbytte beskattes og pÃ¥virker aksjonÃ¦rene, se v
 
 For mer informasjon om [EkstraordinÃ¦rt Utbytte](/blogs/regnskap/ekstraordinart-utbytte "EkstraordinÃ¦rt Utbytte - Alt du trenger Ã¥ vite om ekstraordinÃ¦rt utbytte"), se egen artikkel om temaet.
 
-For mer om oppjustering av utbytte etter vedtak, se [Oppjustering av aksjeutbytte](/blogs/regnskap/oppjustering-av-aksjeutbytte "Oppjustering av aksjeutbytte â€“ Guide til justering av utbytte for norsk AS").
+For mer om oppjustering av utbytte etter vedtak, se [Oppjustering av aksjeutbytte](/blogs/regnskap/oppjustering-av-aksjeutbytte "Oppjustering av aksjeutbytte “ Guide til justering av utbytte for norsk AS").
 
 ![Illustrasjon som viser beregning av maskimalt utbytte](maskimalt-utbytte-image.svg)
 
@@ -206,7 +206,7 @@ Utbytteutdeling har fÃ¸lgende skattemessige konsekvenser for selskapet:
 
 AksjonÃ¦rene mÃ¥ forholde seg til:
 
-* [**Utbytteskatt**](/blogs/regnskap/skatt-pa-utbytte "Skatt pÃ¥ utbytte â€“ Guide til beskatning av utbytte i Norge") pÃ¥ mottatt utbytte
+* [**Utbytteskatt**](/blogs/regnskap/skatt-pa-utbytte "Skatt pÃ¥ utbytte “ Guide til beskatning av utbytte i Norge") pÃ¥ mottatt utbytte
 * **Skjermingsrente** for personlige aksjonÃ¦rer
 * **Fritaksmetoden** for selskapsaksjonÃ¦rer
 * **Kildeskatt** for utenlandske aksjonÃ¦rer
@@ -379,3 +379,5 @@ For Ã¥ sikre korrekt hÃ¥ndtering anbefales det Ã¥:
 * **Implementere** gode rutiner for utbyttehÃ¥ndtering
 
 Ved Ã¥ fÃ¸lge disse prinsippene kan selskaper sikre at utbytteutdelingen skjer pÃ¥ en **lovlig**, **forsvarlig** og **optimal** mÃ¥te som ivaretar alle interessenters behov.
+
+

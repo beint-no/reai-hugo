@@ -47,6 +47,8 @@ Transaksjoner med [nÃ¦rstÃ¥ende parter](/blogs/regnskap/naerstaende "NÃ¦rs
 
 ## Relaterte Artikler
 
-* [Noter til Ã¥rsoppgjÃ¸ret](/blogs/regnskap/noter-aarsoppgjoer "Noter til Ã…rsoppgjÃ¸ret â€“ LovpÃ¥lagte Noteopplysninger i Regnskap")
+* [Noter til Ã¥rsoppgjÃ¸ret](/blogs/regnskap/noter-aarsoppgjoer "Noter til Ã…rsoppgjÃ¸ret “ LovpÃ¥lagte Noteopplysninger i Regnskap")
 * [Hva er Skatt?](/blogs/regnskap/hva-er-skatt "Hva er Skatt? Guide til norske skatteregler")
 * [NÃ¦ringsoppgave](/blogs/regnskap/hva-er-naeringsoppgave "Hva er NÃ¦ringsoppgave? Komplett guide til levering og krav")
+
+

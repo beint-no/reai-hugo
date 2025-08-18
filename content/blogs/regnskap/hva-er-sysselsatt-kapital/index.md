@@ -367,3 +367,5 @@ For Ã¥ forstÃ¥ sysselsatt kapital fullt ut, bÃ¸r du ogsÃ¥ sette deg inn 
 - **[Budsjettering](/blogs/regnskap/hva-er-budsjettering "Hva er Budsjettering? Komplett Guide til Budsjettplanlegging")** - Planlegging av kapitalbruk
 
 Sysselsatt kapital er et sentralt begrep for alle som Ã¸nsker Ã¥ forstÃ¥ og optimalisere kapitalbruken i en bedrift. Ved Ã¥ mÃ¥le og fÃ¸lge opp sysselsatt kapital systematisk, kan bedrifter forbedre sin lÃ¸nnsomhet og skape mer verdi for eierne.
+
+

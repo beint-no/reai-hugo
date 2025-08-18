@@ -7,7 +7,7 @@ type: blog
 layout: pages/single
 ---
 
-**Anleggsmidler** er **faste [eiendeler](/blogs/regnskap/hva-er-eiendel "Hva er Eiendel i Regnskap? Komplett Guide til Eiendom og Verdier")** som en bedrift planlegger Ã¥ beholde og bruke i mer enn ett Ã¥r i sin lÃ¸pende drift. Disse [eiendelene](/blogs/regnskap/hva-er-eiendel "Hva er Eiendel i Regnskap? Komplett Guide til Eiendom og Verdier") utgjÃ¸r ryggraden i mange bedrifters operasjoner og representerer ofte den stÃ¸rste delen av [totalkapitalen](/blogs/regnskap/totalkapital "Totalkapital â€“ Sum av egenkapital og gjeld i regnskapet"). Anleggsmidler skiller seg fra [omlÃ¸psmidler](/blogs/regnskap/hva-er-omlopsmiddel "Hva er OmlÃ¸psmidler? Komplett Guide til Kortsiktige Eiendeler i Regnskap") ved at de ikke er ment for salg eller konvertering til kontanter pÃ¥ kort sikt.
+**Anleggsmidler** er **faste [eiendeler](/blogs/regnskap/hva-er-eiendel "Hva er Eiendel i Regnskap? Komplett Guide til Eiendom og Verdier")** som en bedrift planlegger Ã¥ beholde og bruke i mer enn ett Ã¥r i sin lÃ¸pende drift. Disse [eiendelene](/blogs/regnskap/hva-er-eiendel "Hva er Eiendel i Regnskap? Komplett Guide til Eiendom og Verdier") utgjÃ¸r ryggraden i mange bedrifters operasjoner og representerer ofte den stÃ¸rste delen av [totalkapitalen](/blogs/regnskap/totalkapital "Totalkapital “ Sum av egenkapital og gjeld i regnskapet"). Anleggsmidler skiller seg fra [omlÃ¸psmidler](/blogs/regnskap/hva-er-omlopsmiddel "Hva er OmlÃ¸psmidler? Komplett Guide til Kortsiktige Eiendeler i Regnskap") ved at de ikke er ment for salg eller konvertering til kontanter pÃ¥ kort sikt.
 
 ![Hva er anleggsmidler - oversikt](hva-er-anleggsmidler-image.svg)
 
@@ -100,7 +100,7 @@ Maskiner og teknisk utstyr som brukes aktivt i produksjon eller drift klassifise
 * **[Varemerker](/blogs/kontoplan/1050-varemerker "Konto 1050 - Varemerker"):** Registrerte merkenavn og logoer
 * **Kundelister:** Verdifulle kundedatabaser
 
-* **Domenenavn:** Viktige for digital markedsfÃ¸ring og merkevarebygging. Se [Domenenavn i Regnskap â€“ Behandling og Klassifisering](/blogs/regnskap/domenenavn "Domenenavn i Regnskap â€“ Behandling og Klassifisering").
+* **Domenenavn:** Viktige for digital markedsfÃ¸ring og merkevarebygging. Se [Domenenavn i Regnskap “ Behandling og Klassifisering](/blogs/regnskap/domenenavn "Domenenavn i Regnskap “ Behandling og Klassifisering").
 
 #### Goodwill
 
@@ -419,3 +419,6 @@ Anleggsmidler pÃ¥virker viktige **finansielle nÃ¸kkeltall**:
 * **Strategisk beslutningsstÃ¸tte**
 
 Ved Ã¥ fÃ¸lge etablerte regnskapsprinsipper og beste praksis kan bedrifter sikre at deres anleggsmidler bidrar maksimalt til verdiskaping og langsiktig suksess. For mer informasjon om relaterte emner, se vÃ¥re artikler om [aktiva generelt](/blogs/regnskap/hva-er-aktiva "Hva er Aktiva? En Komplett Guide til Eiendeler i Regnskap"), [avskrivninger](/blogs/regnskap/hva-er-amortisering "Hva er Amortisering? Forskjell fra Avskrivninger og RegnskapsfÃ¸ring"), [aksjeselskaper](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap? Krav, Stiftelse og Drift i Norge") og [gevinst- og tapskonto](/blogs/regnskap/gevinst-og-tapskonto "Gevinst- og tapskonto i Regnskap: HÃ¥ndtering av gevinster og tap ved avhending").
+
+
+

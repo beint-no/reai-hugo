@@ -56,3 +56,5 @@ For Ã¥ fÃ¥ mest mulig verdi av reskontro anbefales det Ã¥:
 ## Konklusjon
 
 Reskontro er et uunnvÃ¦rlig verktÃ¸y i norsk regnskap for Ã¥ sikre nÃ¸yaktig sporing og oppfÃ¸lging av Ã¸konomiske transaksjoner pÃ¥ individnivÃ¥, enten det gjelder kunder, leverandÃ¸rer eller ansatte. Ved Ã¥ integrere reskontro i regnskapsprosessen oppnÃ¥r bedrifter bedre kontroll, effektivitet og overholdelse av lovkrav.
+
+

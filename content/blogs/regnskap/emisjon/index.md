@@ -74,3 +74,6 @@ Emisjon kan fÃ¸re til utvanning og midlertidig kursnedgang, men samtidig gi se
 - [Hva er vedtekter for aksjeselskap?](/blogs/regnskap/hva-er-vedtekter-for-aksjeselskap "Hva er Vedtekter for Aksjeselskap? Krav og Innhold")
 - [Hva er egenfinansiering?](/blogs/regnskap/hva-er-egenfinansiering "Hva er Egenfinansiering? Komplett guide til egenkapitalfinansiering")
 - [Hva er overkursfond?](/blogs/regnskap/hva-er-overkursfond "Hva er Overkursfond? Guide til overkurs ved kapitalforhÃ¸yelse")
+
+
+

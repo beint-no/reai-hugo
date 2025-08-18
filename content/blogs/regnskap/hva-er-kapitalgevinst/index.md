@@ -10,7 +10,7 @@ layout: pages/single
 **Kapitalgevinst** er den positive differansen mellom salgsprisen og [anskaffelseskostnaden](/blogs/regnskap/hva-er-anskaffelseskost "Hva er Anskaffelseskost? Beregning, Komponenter og RegnskapsfÃ¸ring") nÃ¥r du selger en [eiendel](/blogs/regnskap/hva-er-eiendel "Hva er Eiendel? Komplett Guide til Eiendeler i Regnskap og Balanse"). I Norge er kapitalgevinst skattepliktig inntekt som mÃ¥ rapporteres til Skatteetaten, men det finnes viktige fritak og sÃ¦rregler som kan pÃ¥virke skattebetalingen betydelig.
 For aksjeinvesteringer gjelder spesielle skatteordninger som skjermingsfradrag og fritaksmetoden. Se vÃ¥r [AksjonÃ¦rmodellen - Komplett Guide til Norsk Aksjebeskatning](/blogs/regnskap/aksjonaermodellen-guide "AksjonÃ¦rmodellen - Komplett Guide til Norsk Aksjebeskatning") for detaljert informasjon om beskatning av aksjegevinster.
 
-For en oversikt over skatteregler spesifikt for aksjegevinster, se ogsÃ¥ vÃ¥r [Skatt pÃ¥ aksjegevinst](/blogs/regnskap/skatt-pa-aksjegevinst "Skatt pÃ¥ aksjegevinst â€“ Guide til beskatning av aksjegevinster i Norge").
+For en oversikt over skatteregler spesifikt for aksjegevinster, se ogsÃ¥ vÃ¥r [Skatt pÃ¥ aksjegevinst](/blogs/regnskap/skatt-pa-aksjegevinst "Skatt pÃ¥ aksjegevinst “ Guide til beskatning av aksjegevinster i Norge").
 
 Grunnlaget (Â«inngangsverdiÂ») for gevinstberegningen tilsvarer den opprinnelige kostprisen; se [Inngangsverdi](/blogs/regnskap/inngangsverdi "Inngangsverdi: Kostpris, Beregning og Skattegrunnlag i Norsk Regnskap") for mer informasjon.
 
@@ -54,7 +54,7 @@ Kapitalgevinst kan oppstÃ¥ ved salg av mange forskjellige typer eiendeler, bÃ
 
 ## Skattemessige Regler for Kapitalgevinst
 
-Kapitalgevinst beskattes som [**alminnelig inntekt**](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt â€“ Komplett guide til skattemessig resultat og beregning") med en skattesats pÃ¥ **22%** for 2024. Dette gjelder bÃ¥de for privatpersoner og bedrifter.
+Kapitalgevinst beskattes som [**alminnelig inntekt**](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt “ Komplett guide til skattemessig resultat og beregning") med en skattesats pÃ¥ **22%** for 2024. Dette gjelder bÃ¥de for privatpersoner og bedrifter.
 
 ![Kapitalgevinst Skatt](kapitalgevinst-skatt.svg)
 
@@ -285,7 +285,7 @@ Regelverket for kapitalgevinst endres jevnlig, og det er viktig Ã¥ holde seg o
 
 ### Viktigste Punkter Ã¥ Huske:
 
-* Kapitalgevinst beskattes som [alminnelig inntekt](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt â€“ Komplett guide til skattemessig resultat og beregning") (22%)
+* Kapitalgevinst beskattes som [alminnelig inntekt](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt “ Komplett guide til skattemessig resultat og beregning") (22%)
 * Flere fritak finnes, spesielt for boligsalg og ASK
 * Tap kan motregnes mot gevinst
 * Korrekt dokumentasjon er avgjÃ¸rende
@@ -294,3 +294,5 @@ Regelverket for kapitalgevinst endres jevnlig, og det er viktig Ã¥ holde seg o
 Ved Ã¥ forstÃ¥ reglene for kapitalgevinst kan du ta informerte beslutninger om investeringer og salg av eiendeler, samtidig som du sikrer korrekt rapportering til Skatteetaten.
 
 For aksjeinvesteringer anbefaler vi at du ogsÃ¥ setter deg inn i [AksjonÃ¦rmodellen - Komplett Guide til Norsk Aksjebeskatning](/blogs/regnskap/aksjonaermodellen-guide "AksjonÃ¦rmodellen - Komplett Guide til Norsk Aksjebeskatning") for Ã¥ fÃ¥ full oversikt over alle skatteordninger som kan pÃ¥virke din skattebyrde ved aksjegevinster.
+
+

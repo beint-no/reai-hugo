@@ -45,10 +45,10 @@ Ved regnskapsfÃ¸ring av short-posisjoner benyttes prinsippene i [IFRS 9](/blog
 
 Shorting medfÃ¸rer flere **risikoer** og kostnader:
 
-* **Ubegrenset tapspotensial** â€“ hvis aksjekursen stiger kraftig.
-* **Margin calls** â€“ krav om ytterligere sikkerhet ved ugunstig kursutvikling.
-* **Short squeeze** â€“ kraftig oppgang kan fÃ¸re til tvungne tilbakekjÃ¸p.
-* **LÃ¥nekostnader** â€“ renter og gebyrer for lÃ¥neavtalen.
+* **Ubegrenset tapspotensial** “ hvis aksjekursen stiger kraftig.
+* **Margin calls** “ krav om ytterligere sikkerhet ved ugunstig kursutvikling.
+* **Short squeeze** “ kraftig oppgang kan fÃ¸re til tvungne tilbakekjÃ¸p.
+* **LÃ¥nekostnader** “ renter og gebyrer for lÃ¥neavtalen.
 
 ## Praktiske eksempler
 
@@ -61,3 +61,5 @@ Shorting medfÃ¸rer flere **risikoer** og kostnader:
 * [Hva er Derivater?](/blogs/regnskap/derivater "Hva er Derivater? Komplett Guide til Derivater i Regnskap")
 * [Hva er en Call-opsjon?](/blogs/regnskap/call-opsjon "Hva er en Call-opsjon? En Guide til KjÃ¸psopsjoner i Regnskap")
 * [Hva er en Put-opsjon?](/blogs/regnskap/put-opsjon "Hva er en Put-opsjon? En Guide til Salgsopsjoner i Regnskap")
+
+

@@ -336,3 +336,6 @@ Arbeidspapirer i revisjon er **fundamentet** for kvalitetsrevisjon og profesjone
 - Kontinuerlig forbedring av prosesser og metoder
 
 Ved Ã¥ fÃ¸lge etablerte standarder og beste praksis kan revisorer sikre at arbeidspapirene oppfyller sitt formÃ¥l som grunnlag for pÃ¥litelige revisjonsuttalelser og bidrar til tilliten til [regnskapsrapportering](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide") i norsk nÃ¦ringsliv.
+
+
+

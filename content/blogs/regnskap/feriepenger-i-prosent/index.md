@@ -1,13 +1,13 @@
 ﻿---
 title: "Feriepenger i prosent"
 meta_title: "Feriepenger i prosent"
-meta_description: '**Feriepenger i prosent** er satsen som benyttes for Ã¥ beregne **feriepenger** i henhold til **[Ferieloven](/blogs/regnskap/ferieloven "Ferieloven â€“ Lov om f...'
+meta_description: '**Feriepenger i prosent** er satsen som benyttes for Ã¥ beregne **feriepenger** i henhold til **[Ferieloven](/blogs/regnskap/ferieloven "Ferieloven “ Lov om f...'
 slug: feriepenger-i-prosent
 type: blog
 layout: pages/single
 ---
 
-**Feriepenger i prosent** er satsen som benyttes for Ã¥ beregne **feriepenger** i henhold til **[Ferieloven](/blogs/regnskap/ferieloven "Ferieloven â€“ Lov om ferie av 29. april 1988 nr. 21")**. Ã… forstÃ¥ de ulike prosentsatsene, unntakene og praktiske beregningseksempler sikrer korrekt hÃ¥ndtering av feriepengeplikten.
+**Feriepenger i prosent** er satsen som benyttes for Ã¥ beregne **feriepenger** i henhold til **[Ferieloven](/blogs/regnskap/ferieloven "Ferieloven “ Lov om ferie av 29. april 1988 nr. 21")**. Ã… forstÃ¥ de ulike prosentsatsene, unntakene og praktiske beregningseksempler sikrer korrekt hÃ¥ndtering av feriepengeplikten.
 
 ![Illustrasjon av Feriepenger i prosent](feriepenger-i-prosent-image.svg)
 
@@ -75,3 +75,6 @@ Se vÃ¥r guide [Hva er Feriepenger?](/blogs/regnskap/hva-er-feriepenger "Hva er
 **Feriepenger i prosent** gir en enkel og lovpÃ¥lagt metode for Ã¥ sikre korrekt kompensasjon til ansatte. Ved Ã¥ fÃ¸lge standard satser, kjenne unntak og bruke klare beregningseksempler, oppnÃ¥s bÃ¥de **nÃ¸yaktighet** og **etterlevelse** av ferielovens regler.
 
 For flere verktÃ¸y og illustrasjoner knyttet til feriepenger og lÃ¸nnsregnskap, se relaterte artikler om [arbeidsgiveravgift](/blogs/regnskap/hva-er-arbeidsgiveravgift "Hva er Arbeidsgiveravgift? Satser, Beregning og RegnskapsfÃ¸ring") og [A-ordningen](/blogs/regnskap/hva-er-a-ordningen "Hva er A-ordningen? Rapportering, Frister og Praktisk HÃ¥ndtering").
+
+
+

@@ -382,3 +382,6 @@ ASA-selskaper har ytterligere krav:
 Egenkapitalrentabilitet bÃ¸r alltid vurderes i sammenheng med andre finansielle nÃ¸kkeltall og kvalitative faktorer for Ã¥ fÃ¥ et helhetlig bilde av selskapets finansielle helse og fremtidsutsikter. Som et av de mest brukte lÃ¸nnsomhetsmÃ¥lene i finansverdenen, er forstÃ¥else av ROE essensielt for alle som arbeider med [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide"), finans og investeringer.
 
 ROE er ogsÃ¥ en sentral komponent i [inntjeningsbasert verdivurdering](/blogs/regnskap/hva-er-inntjeningsbasert-verdivurdering "Inntjeningsbasert Verdivurdering - DCF, P/E og Verdsettelsesmetoder"), hvor det brukes i P/E-analyser og andre multiplikatormetoder for Ã¥ vurdere selskapers markedsverdi.
+
+
+

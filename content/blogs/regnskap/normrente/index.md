@@ -41,9 +41,9 @@ Normrente = Norges Banks referanserente
 
 Normrente brukes ofte i forbindelse med:
 
-* **Rentefordeling** ved lÃ¥n mellom aksjonÃ¦rer og selskap â€“ se [Fordelsbeskatning](/blogs/regnskap/fordelsbeskatning "Hva er Fordelsbeskatning? Komplett Guide til Fordelsbeskatning av Rentefritt LÃ¥n").
+* **Rentefordeling** ved lÃ¥n mellom aksjonÃ¦rer og selskap “ se [Fordelsbeskatning](/blogs/regnskap/fordelsbeskatning "Hva er Fordelsbeskatning? Komplett Guide til Fordelsbeskatning av Rentefritt LÃ¥n").
 * **Fordelsbeskatning** ved rentefrie eller lavt forrentede lÃ¥n til nÃ¦rstÃ¥ende.
-* **Grunnlag for forsinkelsesrente** sammen med lovregulert tillegg â€“ les mer i [Hva er Forsinkelsesrente?](/blogs/regnskap/hva-er-forsinkelsesrente "Hva er Forsinkelsesrente? Komplett Guide til LovpÃ¥lagt Forsinkelsesrente i Norge").
+* **Grunnlag for forsinkelsesrente** sammen med lovregulert tillegg “ les mer i [Hva er Forsinkelsesrente?](/blogs/regnskap/hva-er-forsinkelsesrente "Hva er Forsinkelsesrente? Komplett Guide til LovpÃ¥lagt Forsinkelsesrente i Norge").
 
 ## Normrente vs Andre Rentesatser
 
@@ -61,3 +61,5 @@ Normrente brukes ofte i forbindelse med:
 * Brukes i skattemessig inntektsberegning, regnskapsfÃ¸ring og ved rentefordeling.
 
 For en oversikt over flere rente- og kostnadskonsepter, se [Hva er Rente?](/blogs/regnskap/hva-er-avkastning "Hva er Rente? Guide til Rente, NPV og Avkastning").
+
+

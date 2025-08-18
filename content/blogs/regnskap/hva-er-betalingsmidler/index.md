@@ -251,3 +251,6 @@ For bedrifter er det essensielt Ã¥ forstÃ¥ de ulike betalingsmidlenes karakt
 Det elektroniske betalingslandskapet vil fortsette Ã¥ utvikle seg, med nye teknologier og lÃ¸sninger som vil forme fremtidens betalingsmidler. Bedrifter som holder seg oppdatert og tilpasser seg disse endringene, vil vÃ¦re best posisjonert for fremtidig suksess.
 
 For mer informasjon om [betalingstjenester](/blogs/regnskap/betalingstjeneste "Hva er betalingstjeneste?"), se vÃ¥r dyptgÃ¥ende guide til hvordan betalingstjenester fungerer og bokfÃ¸res i norsk regnskap.
+
+
+

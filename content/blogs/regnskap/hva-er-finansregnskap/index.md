@@ -249,3 +249,5 @@ Finansregnskap er ryggraden i ekstern finansiell kommunikasjon og en kritisk kom
 For norske bedrifter er det viktig Ã¥ forstÃ¥ bÃ¥de internasjonale standarder og nasjonale sÃ¦rkrav. Med Ã¸kende digitalisering og nye rapporteringskrav som bÃ¦rekraft, vil finansregnskapet fortsette Ã¥ utvikle seg og kreve kontinuerlig oppmerksomhet fra ledelse og regnskapspersonell.
 
 En solid forstÃ¥else av finansregnskapets prinsipper, komponenter og anvendelse er essensielt for alle som arbeider med eller bruker finansiell informasjon i nÃ¦ringslivet.
+
+

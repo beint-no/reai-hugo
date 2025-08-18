@@ -55,3 +55,6 @@ Tabellen nedenfor viser hvordan **debitere** pÃ¥virker ulike kontotyper:
 * **Dokumenter alltid** alle debetposter med tilhÃ¸rende [bilag](/blogs/regnskap/hva-er-bilag "Hva er Bilag i Regnskap? Komplett Guide til Regnskapsbilag og Dokumentasjon").
 * **Avstem regelmessig** debetposter mot eksterne rapporter som bankutskrifter.
 * **Oppdater kontoplanen** og kontantstrÃ¸moversikt for Ã¥ sikre oversikt og kontroll.
+
+
+

@@ -46,14 +46,16 @@ Styringsrenten fastsettes pÃ¥ rentemÃ¸ter i Norges Banks hovedstyre som hold
 
 Styringsrenten pÃ¥virker nÃ¸kkelomrÃ¥der i regnskap og finans:
 
-* **Renteinntekter og -kostnader:** Endringer i styringsrenten pÃ¥virker [finansinntekt](/blogs/regnskap/finansinntekt "Finansinntekt â€“ Renter, utbytte og kapitalgevinster") og rentekostnader.
-* **Referanserenter:** Grunnlaget for [NIBOR](/blogs/regnskap/nibor "NIBOR â€“ Norsk Interbank Offered Rate") og andre pengemarkedsrenter.
+* **Renteinntekter og -kostnader:** Endringer i styringsrenten pÃ¥virker [finansinntekt](/blogs/regnskap/finansinntekt "Finansinntekt “ Renter, utbytte og kapitalgevinster") og rentekostnader.
+* **Referanserenter:** Grunnlaget for [NIBOR](/blogs/regnskap/nibor "NIBOR “ Norsk Interbank Offered Rate") og andre pengemarkedsrenter.
 * **Normrente:** PÃ¥virker [Normrente](/blogs/regnskap/normrente "Hva er Normrente? Komplett Guide til Normrente i Norsk Regnskapspraksis").
 
 ## Relaterte konsepter
 
 * [Norges Bank](/blogs/regnskap/norges-bank "Hva er Norges Bank? Rolle og Funksjoner i Norsk Ã˜konomi")
 * [Inflasjon](/blogs/regnskap/hva-er-inflasjon "Hva er inflasjon? En guide til pengepolitikk og styringsrente")
-* [Rente](/blogs/regnskap/rente "Rente â€“ En komplett guide til rente i regnskap")
+* [Rente](/blogs/regnskap/rente "Rente “ En komplett guide til rente i regnskap")
 * [Hva er nominell rente?](/blogs/regnskap/hva-er-nominell-rente "Hva er nominell rente? Definisjon og Beregning")
 * [Hva er effektiv rente?](/blogs/regnskap/hva-er-effektiv-rente "Hva er effektiv rente? Beregning og Eksempler")
+
+

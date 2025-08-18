@@ -127,7 +127,7 @@ Norge har implementert flere nasjonale krav og initiativer for ESG-rapportering:
 * **Ã…penhetsloven:** Krav om due diligence for menneskerettigheter og anstendige arbeidsforhold
 * **Regnskapsloven Â§ 3-3c:** Krav om redegjÃ¸relse for samfunnsansvar
 * **Statens pensjonsfond:** ESG-krav for investeringer
-* [EU-taksonomien](/blogs/regnskap/hva-er-eu-taksonomien "EU-taksonomien: Klassifiseringssystem for BÃ¦rekraftige Aktiviteter") â€“ Klassifisering av bÃ¦rekraftige Ã¸konomiske aktiviteter
+* [EU-taksonomien](/blogs/regnskap/hva-er-eu-taksonomien "EU-taksonomien: Klassifiseringssystem for BÃ¦rekraftige Aktiviteter") “ Klassifisering av bÃ¦rekraftige Ã¸konomiske aktiviteter
 
 ## Seksjon 4: Praktisk Implementering av ESG
 
@@ -299,3 +299,5 @@ Suksessful ESG-implementering krever:
 Bedrifter som omfavner ESG-rapportering tidlig vil vÃ¦re bedre posisjonert for fremtidens regulatoriske krav og markedsforventninger, samtidig som de kan realisere betydelige forretningsmessige fordeler gjennom forbedret risikostyring, kostnadseffektivitet og interessenttillit.
 
 ESG er ikke bare en rapporteringsÃ¸velse, men en fundamental endring i hvordan vi tenker om verdiskaping og forretningssuksess i det 21. Ã¥rhundre. For regnskapsfÃ¸rere og finansielle ledere representerer dette en spennende mulighet til Ã¥ utvide sin rolle og bidra til mer bÃ¦rekraftig og ansvarlig forretningsdrift.
+
+

@@ -25,7 +25,7 @@ Hvor:
 
 #### Komponenter i formelen
 
-- **Totalkapital** ([Totalkapital](/blogs/regnskap/totalkapital "Totalkapital â€“ Sum av egenkapital og gjeld i regnskapet")) er summen av egenkapital og gjeld.
+- **Totalkapital** ([Totalkapital](/blogs/regnskap/totalkapital "Totalkapital “ Sum av egenkapital og gjeld i regnskapet")) er summen av egenkapital og gjeld.
 - **Driftsresultat fÃ¸r renter** viser virksomhetens lÃ¸nnsomhet uavhengig av finansieringsstruktur.
 
 ## Hvorfor er Totalkapitalrentabilitet viktig?
@@ -47,7 +47,7 @@ Totalkapitalrentabilitet er essensiell for ulike aktÃ¸rer:
 * **Risikoanalyse** ved kredittvurdering.
 * **Kontinuerlig overvÃ¥king** av finansiell helse.
 
-## Hvordan beregne Totalkapitalrentabilitet â€“ Eksempel
+## Hvordan beregne Totalkapitalrentabilitet “ Eksempel
 
 | **Parameter**                       | **Verdi**         |
 |:-----------------------------------|:------------------|
@@ -75,3 +75,5 @@ Les mer om [Hva er Egenkapitalrentabilitet?](/blogs/regnskap/hva-er-egenkapitalr
 ## Oppsummering
 
 **Totalkapitalrentabilitet** er et kraftfullt nÃ¸kkeltall for Ã¥ vurdere lÃ¸nnsomheten i bedriftens totale kapitalbruk. Ved Ã¥ forstÃ¥ formel, beregning og begrensninger kan du treffe mer informerte beslutninger innen Ã¸konomistyring og investering.
+
+

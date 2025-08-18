@@ -23,7 +23,7 @@ Et **obligasjonsfond** er et fond som investerer i en portefÃ¸lje av obligasjo
 | Fondtype                | LÃ¸petid   | Risiko   | Forventet avkastning |
 |-------------------------|-----------|----------|----------------------|
 | Pengemarkedsfond        | < 1 Ã¥r    | Lav      | Lav                  |
-| Korte obligasjonsfond   | 1â€“3 Ã¥r    | Moderat  | Moderat              |
+| Korte obligasjonsfond   | 1“3 Ã¥r    | Moderat  | Moderat              |
 | Lange obligasjonsfond   | > 3 Ã¥r    | HÃ¸y      | HÃ¸y                  |
 | HÃ¸yrenteobligasjonsfond | Varierende| HÃ¸y      | HÃ¸y                  |
 
@@ -56,9 +56,9 @@ Verdsettelse til amortisert kost krever **periodisering** av over-/underkurs ved
 
 Obligasjonsfond inneholder flere risikofaktorer som pÃ¥virker avkastningen:
 
-* **Kredittrisiko** â€“ risiko for mislighold hos utsteder
-* **Renterisiko** â€“ fÃ¸lsomhet for renteendringer mÃ¥lt ved durasjon
-* **Likviditetsrisiko** â€“ evnen til Ã¥ selge fondets andeler raskt
+* **Kredittrisiko** “ risiko for mislighold hos utsteder
+* **Renterisiko** “ fÃ¸lsomhet for renteendringer mÃ¥lt ved durasjon
+* **Likviditetsrisiko** “ evnen til Ã¥ selge fondets andeler raskt
 
 For en grundigere gjennomgang av beregning av avkastning, se [Hva er Avkastning?](/blogs/regnskap/hva-er-avkastning "Hva er Avkastning? Guide til Beregning av Avkastning og Renters Influens").
 
@@ -74,7 +74,7 @@ Andelseiere i obligasjonsfond beskattes som fÃ¸lger:
 
 Ved valg av obligasjonsfond bÃ¸r man vurdere:
 
-1. **LÃ¸petid (durasjon)** â€“ hÃ¸y durasjon gir hÃ¸yere renterisiko
+1. **LÃ¸petid (durasjon)** “ hÃ¸y durasjon gir hÃ¸yere renterisiko
 2. **Kredittrating** til fondets obligasjoner
 3. **Forvaltningshonorarer** og andre kostnader
 4. **Fondets historiske avkastning** og risikoprofil
@@ -84,3 +84,5 @@ Ved valg av obligasjonsfond bÃ¸r man vurdere:
 Obligasjonsfond er et **effektivt verktÃ¸y** for Ã¥ oppnÃ¥ diversifisert renteavkastning med profesjonell forvaltning. Ved Ã¥ kombinere ulike obligasjoner kan man tilpasse risiko og forventet avkastning etter Ã¸nsket investeringsstrategi. Korrekt regnskapsmessig behandling og forstÃ¥else av skattemessige konsekvenser er avgjÃ¸rende for bÃ¥de investorer og regnskapsfÃ¸rere.
 
 Med Ã¸kende fokus pÃ¥ rente- og kredittforhold vil kunnskap om obligasjonsfond vÃ¦re essensiell for Ã¥ ta informerte beslutninger i bÃ¥de Ã¸konomistyring og portefÃ¸ljeforvaltning.
+
+

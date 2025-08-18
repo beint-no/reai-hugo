@@ -283,3 +283,5 @@ Moderne lagerrapporter inkluderer stadig oftere **bÃ¦rekraftsmÃ¥linger** som
 Dette er spesielt relevant i sammenheng med [ESG-rapportering](/blogs/regnskap/hva-er-esg "Hva er ESG? Komplett Guide til MiljÃ¸, Sosial og Styring i Bedrifter") og [CSRD-direktivet](/blogs/regnskap/hva-er-csrd "Hva er CSRD? Komplett Guide til Corporate Sustainability Reporting Directive").
 
 Lagerrapporter vil fortsette Ã¥ vÃ¦re et fundamentalt verktÃ¸y for bedriftsstyring, men deres form og innhold vil utvikle seg for Ã¥ mÃ¸te nye krav til transparens, bÃ¦rekraft og digital effektivitet. Bedrifter som investerer i moderne lagerrapporteringssystemer vil ha betydelige konkurransefortrinn gjennom bedre beslutningsgrunnlag og mer effektiv ressursbruk.
+
+

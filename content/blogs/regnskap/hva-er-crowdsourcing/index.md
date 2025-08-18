@@ -213,3 +213,6 @@ Viktige kontraktuelle elementer:
 Ved riktig implementering kan crowdsourcing vÃ¦re et kraftfullt verktÃ¸y for Ã¥ skaffe [arbeidskapital](/blogs/regnskap/hva-er-arbeidskapital "Hva er Arbeidskapital? Beregning og Betydning for Bedriftens Likviditet") og realisere forretningsideer, samtidig som det skaper verdi for bÃ¥de bedriften og bidragsyterne.
 
 **Viktig:** Konsulter alltid med regnskapsfÃ¸rere og juridiske rÃ¥dgivere fÃ¸r du starter crowdsourcing-aktiviteter for Ã¥ sikre korrekt hÃ¥ndtering av alle aspekter.
+
+
+

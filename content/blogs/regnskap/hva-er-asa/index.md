@@ -25,7 +25,7 @@ Allmennaksjeselskap (ASA) er regulert av [Aksjeloven](/blogs/regnskap/hva-er-aks
 
 ## Historikk og Bakgrunn
 
-Allmennaksjeselskap (ASA) ble innfÃ¸rt i Norge i 1997 som en utvidelse av [Aksjeloven](/blogs/regnskap/hva-er-aksjeloven "Hva er Aksjeloven? Regler for Aksjeselskaper i Norge") for Ã¥ tilpasse selskapsformen til behovet for offentlig kapitalinnhenting og bÃ¸rsnotering. Hensikten var Ã¥ skille tydelig mellom private og allmenne aksjeforetak, og sikre hÃ¸yere krav til eierâ€‘spredning og transparens.
+Allmennaksjeselskap (ASA) ble innfÃ¸rt i Norge i 1997 som en utvidelse av [Aksjeloven](/blogs/regnskap/hva-er-aksjeloven "Hva er Aksjeloven? Regler for Aksjeselskaper i Norge") for Ã¥ tilpasse selskapsformen til behovet for offentlig kapitalinnhenting og bÃ¸rsnotering. Hensikten var Ã¥ skille tydelig mellom private og allmenne aksjeforetak, og sikre hÃ¸yere krav til eier‘spredning og transparens.
 
 ## Stiftelse og Registrering
 
@@ -123,3 +123,6 @@ For en detaljert gjennomgang av aksjeselskap (AS), se [Hva er et Aksjeselskap?](
 ## Oppsummering
 
 Allmennaksjeselskap (ASA) er en **avansert selskapsform** for store virksomheter som Ã¸nsker tilgang til **offentlig kapital**, **bÃ¸rsnotering** og **langsiktig vekst**. Med hÃ¸yere krav til kapital, styring, rapportering og revisjon gir ASA et robust rammeverk for Ã¥ tiltrekke investorer, samtidig som det sikrer hÃ¸y transparens og tillit i markedet.
+
+
+

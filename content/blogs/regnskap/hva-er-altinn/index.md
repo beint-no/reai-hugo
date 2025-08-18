@@ -9,8 +9,8 @@ layout: pages/single
 
 **Altinn** er Norges felles internettportal for digital dialog mellom nÃ¦ringslivet, privatpersoner og offentlige etater. Siden oppstarten i 2003 har Altinn revolusjonert mÃ¥ten nordmenn kommuniserer med det offentlige pÃ¥, og har blitt en hjÃ¸rnestein i Norges digitale infrastruktur. Plattformen hÃ¥ndterer millioner av transaksjoner Ã¥rlig og er den primÃ¦re kanalen for Ã¥ levere lovpÃ¥lagte skjemaer som MVA-meldinger, skattemeldinger og A-meldinger. Som den sentrale plattformen for **[opplysningsplikten](/blogs/regnskap/hva-er-opplysningsplikt "Hva er opplysningsplikt? Komplett guide til rapporteringsplikt")**, muliggjÃ¸r Altinn **[egenmelding](/blogs/regnskap/hva-er-egenmelding "Hva er Egenmelding? Komplett Guide til Selvrapportering i Norsk Regnskap")** - selvrapportering hvor virksomheter og privatpersoner selv rapporterer sine Ã¸konomiske forhold til myndighetene.
 
-*Se ogsÃ¥: [Integrasjon](/blogs/regnskap/integrasjon "Integrasjon â€“ En InnfÃ¸ring i Integrasjonskonsepter i Regnskap").*
-*Se ogsÃ¥: [Skjemafobi](/blogs/regnskap/skjemafobi "Skjemafobi â€“ Hvordan overvinne frykt for skjemaer i regnskap").*
+*Se ogsÃ¥: [Integrasjon](/blogs/regnskap/integrasjon "Integrasjon “ En InnfÃ¸ring i Integrasjonskonsepter i Regnskap").*
+*Se ogsÃ¥: [Skjemafobi](/blogs/regnskap/skjemafobi "Skjemafobi “ Hvordan overvinne frykt for skjemaer i regnskap").*
 
 ## Seksjon 1: Altinns Historie og Utvikling
 
@@ -351,4 +351,7 @@ For norske bedrifter er Altinn ikke bare et verktÃ¸y, men en nÃ¸dvendighet f
 
 Fremover vil Altinn fortsette Ã¥ utvikle seg, drevet av teknologiske fremskritt og endrede brukerforventninger. Med fokus pÃ¥ kunstig intelligens, forbedret sikkerhet og enda bedre brukeropplevelser, er Altinn godt posisjonert for Ã¥ mÃ¸te fremtidens utfordringer og fortsette sin rolle som en ledende digital forvaltningsplattform.
 
-For alle som driver virksomhet i Norge eller har behov for Ã¥ kommunisere med norske myndigheter, er forstÃ¥else og effektiv bruk av Altinn ikke bare en fordel â€“ det er en nÃ¸dvendighet i dagens digitale samfunn.
+For alle som driver virksomhet i Norge eller har behov for Ã¥ kommunisere med norske myndigheter, er forstÃ¥else og effektiv bruk av Altinn ikke bare en fordel “ det er en nÃ¸dvendighet i dagens digitale samfunn.
+
+
+

@@ -68,3 +68,6 @@ For mer om sikkerhet, se [Hva er tofaktorautentisering?](/blogs/regnskap/hva-er-
 BankID forventes Ã¥ utvikle seg med nye funksjoner som **biometrisk autentisering** og utvidet stÃ¸tte for digitale signaturer i flere juridiske dokumenter. RegnskapsfÃ¸rere og Ã¸konomimedarbeidere mÃ¥ derfor fÃ¸lge med pÃ¥ utviklingen for Ã¥ utnytte potensialet fullt ut.
 
 ![Illustrasjon av konseptet BankID](bankid-image.svg)
+
+
+

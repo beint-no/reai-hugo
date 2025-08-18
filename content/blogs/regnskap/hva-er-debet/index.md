@@ -324,3 +324,6 @@ For Ã¥ mestre debetregistrering i praksis anbefales det Ã¥:
 * **Holde seg oppdatert** pÃ¥ regnskapsregler og -standarder
 
 Debet er ikke bare et teknisk regnskapsbegrep, men et verktÃ¸y som gir innsikt i virksomhetens Ã¸konomiske aktiviteter og finansielle helse. Med solid forstÃ¥else av debetprinsipper kan man bedre analysere og forstÃ¥ regnskapsinformasjon, noe som er verdifullt bÃ¥de for regnskapsfÃ¸rere, ledere og andre interessenter.
+
+
+

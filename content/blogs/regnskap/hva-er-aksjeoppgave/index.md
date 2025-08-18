@@ -84,3 +84,6 @@ AksjonÃ¦ren har selv ansvaret for Ã¥ kontrollere at opplysningene i RF-1088 
 ## Oppsummering
 
 Aksjeoppgaven er en hjÃ¸rnestein i systemet for norsk aksjebeskatning. Den sikrer at riktig informasjon om eierskap, [formue](/blogs/regnskap/hva-er-formue "Hva er formue?") og inntekt blir rapportert til myndighetene. For selskaper er det kritisk Ã¥ ha gode rutiner for fÃ¸ring av aksjeeierbok og rapportering for Ã¥ unngÃ¥ sanksjoner. For aksjonÃ¦rer er det like viktig Ã¥ forstÃ¥ og kontrollere informasjonen som blir rapportert pÃ¥ deres vegne.
+
+
+

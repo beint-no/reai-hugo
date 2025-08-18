@@ -276,3 +276,5 @@ Likviditetsbudsjett er et uunnvÃ¦rlig verktÃ¸y for moderne bedriftsledelse s
 Suksessfull implementering krever kombinasjon av riktige verktÃ¸y, kompetent personell og systematiske prosesser. Med Ã¸kende digitalisering og automatisering blir likviditetsplanlegging stadig mer sofistikert og nÃ¸yaktig, noe som gir bedrifter bedre grunnlag for Ã¥ ta informerte finansielle beslutninger.
 
 For bedrifter som Ã¸nsker Ã¥ styrke sin finansielle posisjon og sikre langsiktig bÃ¦rekraft, er investering i profesjonell likviditetsplanlegging en av de mest verdifulle tiltakene de kan gjennomfÃ¸re.
+
+

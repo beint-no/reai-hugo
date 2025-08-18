@@ -205,3 +205,5 @@ InkassosalÃ¦r er en kompleks del av det norske inkassosystemet som balanserer 
 * **Korrekt regnskapsfÃ¸ring** av inkassokostnader er viktig for bedrifter
 
 Ved valg av inkassopartner bÃ¸r bedrifter vurdere bÃ¥de kostnadsnivÃ¥, service og etisk praksis for Ã¥ sikre en balansert tilnÃ¦rming til [fordringshÃ¥ndtering](/blogs/regnskap/hva-er-ansattreskontro "Hva er Ansattreskontro? Komplett Guide til KundeoppfÃ¸lging og Fordringsstyring").
+
+

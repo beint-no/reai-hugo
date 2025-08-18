@@ -308,3 +308,5 @@ For Ã¥ fÃ¥ en dypere forstÃ¥else av relaterte konsepter, anbefaler vi Ã¥
 * [Hva er et aksjeselskap?](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap? Komplett Guide til AS i Norge")
 
 Goodwill vil fortsette Ã¥ vÃ¦re et sentralt element i moderne [regnskapsfÃ¸ring](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Komplett Guide til RegnskapsfÃ¸ring"), spesielt ettersom [**immaterielle eiendeler**](/blogs/regnskap/hva-er-imaterielle-eiendeler "Hva er Imaterielle Eiendeler? Komplett Guide til Immaterielle Verdier i Regnskap") blir stadig viktigere i dagens kunnskapsÃ¸konomi.
+
+

@@ -73,3 +73,5 @@ Premien for styreansvarsforsikring er normalt fradragsberettiget som en del av s
 * **[Hva er Aksjeloven?](/blogs/regnskap/hva-er-aksjeloven "Hva er Aksjeloven? Regler for Aksjeselskaper i Norge")**
 * **[Hva er Internkontroll?](/blogs/regnskap/hva-er-internkontroll "Hva er Internkontroll? Systemer for Risikoforvaltning og Compliance")**
 * **[Hva er Forsikringspremie?](/blogs/regnskap/forsikringspremie "Hva er Forsikringspremie? En komplett guide")**
+
+

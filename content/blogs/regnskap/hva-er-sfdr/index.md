@@ -418,3 +418,5 @@ SFDR er kun begynnelsen pÃ¥ en omfattende transformasjon av finansmarkedene mo
 Regelverket vil fortsette Ã¥ utvikle seg med Ã¸kt **granularitet**, **digitaliseringsleveransen** og **global harmonisering**. Suksessful SFDR-implementering krever ikke bare [compliance](/blogs/regnskap/hva-er-compliance "Hva er Compliance? Guide til Regelverksoverholdelse i Regnskap"), men strategisk tenkning om hvordan bÃ¦rekraft kan skape [verdi](/blogs/regnskap/hva-er-verdi "Hva er Verdi? Guide til Verdivurdering og Verdianalyse") og **konkurransefortrinn** i et raskt endrende finanslandskap.
 
 **SFDR er mer enn et regelverk - det er en katalysator for en mer bÃ¦rekraftig og transparent finanssektor** som vil definere fremtidens kapitalmarkeder.
+
+

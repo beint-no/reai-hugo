@@ -279,3 +279,5 @@ For Ã¥ fÃ¥ maksimal nytte av tÃ¸mmerkontoordningen bÃ¸r skogeiere:
 * SÃ¸ke faglig bistand ved behov
 
 Med riktig anvendelse kan tÃ¸mmerkonto vÃ¦re et kraftfullt verktÃ¸y for bÃ¦rekraftig skogbruksÃ¸konomi og optimal [skatteplanlegging](/blogs/regnskap/hva-er-skatt "Hva er Skatt? Komplett Guide til Norsk Skattesystem").
+
+

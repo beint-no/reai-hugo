@@ -56,9 +56,9 @@ For at styret skal vÃ¦re beslutningsdyktig, mÃ¥ flertall av styremedlemmer v
 
 | SelskapsstÃ¸rrelse | Minimum mÃ¸ter per Ã¥r | Anbefalt hyppighet |
 |------------------|----------------------|--------------------|
-| SmÃ¥ AS           | 4                    | 4â€“6                |
-| Middels AS       | 6                    | 6â€“8                |
-| Store AS         | 8                    | 8â€“12               |
+| SmÃ¥ AS           | 4                    | 4“6                |
+| Middels AS       | 6                    | 6“8                |
+| Store AS         | 8                    | 8“12               |
 
 ### Internkontroll og styremÃ¸ter
 
@@ -76,3 +76,5 @@ Noen tips for Ã¥ sikre effektive styremÃ¸ter:
 * Effektiv mÃ¸teleder: FÃ¸lg agenda og tidsrammer
 * Tydelig protokoll: Dokumenter beslutninger klart og konkret
 * Evaluering: GjennomfÃ¸r jevnlig evaluering av styremÃ¸teprosessen
+
+

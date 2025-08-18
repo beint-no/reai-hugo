@@ -54,3 +54,5 @@ Ved periodiske kontroller og revisjon er det avgjÃ¸rende Ã¥ kunne fÃ¸lge h
 ----
 
 For mer informasjon om relatert praksis og regnskapsprinsipper, se ogsÃ¥ [BokfÃ¸ringsregler](/blogs/regnskap/hva-er-bokforingsregler "BokfÃ¸ringsregler: Norske Lover og Forskrifter for RegnskapsfÃ¸ring").
+
+

@@ -284,3 +284,6 @@ For Ã¥ forstÃ¥ ansvarlig selskap og delt ansvar fullt ut, bÃ¸r du ogsÃ¥ 
 - **[AksjonÃ¦rlÃ¥n](/blogs/regnskap/hva-er-aksjonaerlan-fra-as "Hva er AksjonÃ¦rlÃ¥n fra AS?")** - Finansieringsalternativer i aksjeselskaper
 
 Ansvarlig selskap representerer en viktig selskapsform i norsk nÃ¦ringsliv som balanserer fleksibilitet med ansvar, og som krever grundig forstÃ¥else av bÃ¥de muligheter og risikoer.
+
+
+

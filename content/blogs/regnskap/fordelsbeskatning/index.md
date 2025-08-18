@@ -74,3 +74,6 @@ Detaljert dokumentasjon og lÃ¸nnsslipp mÃ¥ vise klare spesifikasjoner av bÃ
 * Vurder skatteeffekten ved ulike ytelsesmodeller i samarbeid med regnskapsfÃ¸rer.
 
 For mer dyptgÃ¥ende regler og eksempler pÃ¥ personalytelser, se vÃ¥r artikkel om [Fordelsbeskatning](/blogs/regnskap/fordelsbeskatning "Fordelsbeskatning - Skattemessige regler for Naturalytelser og Personalfordeler").
+
+
+

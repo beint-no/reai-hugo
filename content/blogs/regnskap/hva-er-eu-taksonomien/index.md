@@ -301,7 +301,7 @@ EU-taksonomien pÃ¥virker ogsÃ¥ **regnskapsfÃ¸ringen** i Norge og knytter s
 
 | Regelverk/Standard                | PÃ¥virkning pÃ¥ regnskap                     | Intern link                                                                                                                      |
 |-----------------------------------|--------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
-| **Regnskapsloven Â§Â 3â€‘3c**         | Krav om redegjÃ¸relse for samfunnsansvar    | [Regnskapsloven Â§Â 3â€‘3c](/blogs/regnskap/hva-er-opplysningsplikt "Hva er Opplysningsplikt? Guide til Regnskapsloven Â§â€¯3â€‘3c og samfunnsansvar") |
+| **Regnskapsloven Â§Â 3‘3c**         | Krav om redegjÃ¸relse for samfunnsansvar    | [Regnskapsloven Â§Â 3‘3c](/blogs/regnskap/hva-er-opplysningsplikt "Hva er Opplysningsplikt? Guide til Regnskapsloven Â§â€¯3‘3c og samfunnsansvar") |
 | **Norsk Regnskapsstandard (NRS)** | Retningslinjer for bÃ¦rekraftsrapportering   | [Norsk regnskapsstandard (NRS)](/blogs/regnskap/norsk-regnskapsstandard-nrs "Norsk regnskapsstandard (NRS) - Komplett Guide til Norske Regnskapsstandarder") |
 | **IFRS Sustainability Standards** | For EU-bÃ¸rsnoterte selskaper, integrering av internasjonale bÃ¦rekraftsstandarder | [Hva er IFRS?](/blogs/regnskap/hva-er-ifrs "Hva er IFRS? Guide til internasjonale regnskapsstandarder")                               |
 | **Vedtekter for AS**              | Krav til redegjÃ¸relse i Ã¥rsberetning        | [Hva er vedtekter for aksjeselskap](/blogs/regnskap/hva-er-vedtekter-for-aksjeselskap "Hva er vedtekter for aksjeselskap?")               |
@@ -321,3 +321,5 @@ EU-taksonomien pÃ¥virker ogsÃ¥ **regnskapsfÃ¸ringen** i Norge og knytter s
 EU-taksonomien er ikke bare et **rapporteringskrav**, men et **strategisk verktÃ¸y** for Ã¥ navigere overgangen til en bÃ¦rekraftig Ã¸konomi. Bedrifter som mestrer taksonomien vil vÃ¦re bedre posisjonert for fremtidens marked og finansieringsmuligheter.
 
 Sammen med [CSRD-rapportering](/blogs/regnskap/hva-er-csrd "CSRD - Corporate Sustainability Reporting Directive") og andre bÃ¦rekraftskrav, former EU-taksonomien fremtidens **regnskaps- og rapporteringslandskap** for norske bedrifter.
+
+

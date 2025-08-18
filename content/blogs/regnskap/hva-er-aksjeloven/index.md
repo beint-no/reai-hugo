@@ -95,3 +95,6 @@ Hvis du planlegger Ã¥ starte et [aksjeselskap](/blogs/regnskap/hva-er-et-aksje
 5. **FÃ¸lg frister** for rapportering og mÃ¸ter
 
 Ved Ã¥ fÃ¸lge aksjeloven sikrer du at selskapet ditt opererer innenfor lovens rammer og bygger tillit hos alle interessenter.
+
+
+

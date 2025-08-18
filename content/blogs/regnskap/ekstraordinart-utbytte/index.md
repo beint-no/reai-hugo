@@ -68,7 +68,7 @@ EkstraordinÃ¦rt utbytte skattlegges pÃ¥ tilsvarende mÃ¥te som ordinÃ¦rt 
 * Personlige aksjonÃ¦rer beskattes etter [AksjonÃ¦rmodellen](/blogs/regnskap/aksjonaermodellen-guide "AksjonÃ¦rmodellen - Komplett Guide til Norsk Aksjebeskatning")
 * SelskapsaksjonÃ¦rer kan benytte **fritaksmetoden**
 * Utenlandske aksjonÃ¦rer kan bli trukket **kildeskatt**
-* For en komplett oversikt over beskatning av utbytte, se [Skatt pÃ¥ utbytte](/blogs/regnskap/skatt-pa-utbytte "Skatt pÃ¥ utbytte â€“ Guide til beskatning av utbytte i Norge").
+* For en komplett oversikt over beskatning av utbytte, se [Skatt pÃ¥ utbytte](/blogs/regnskap/skatt-pa-utbytte "Skatt pÃ¥ utbytte “ Guide til beskatning av utbytte i Norge").
 
 ## Praktiske RÃ¥d
 
@@ -87,6 +87,9 @@ EkstraordinÃ¦rt utbytte er en kraftig mÃ¥te Ã¥ dele ut merverdi til aksjon
 
 Ved Ã¥ fÃ¸lge disse prinsippene kan selskaper sikre en **lovlig**, **transparent** og **forsvarlig** ekstraordinÃ¦r utdeling.
 
-For mer om beregning og hÃ¥ndtering av endringer i utbytte etter vedtak, se [Oppjustering av aksjeutbytte](/blogs/regnskap/oppjustering-av-aksjeutbytte "Oppjustering av aksjeutbytte â€“ Guide til justering av utbytte for norsk AS").
+For mer om beregning og hÃ¥ndtering av endringer i utbytte etter vedtak, se [Oppjustering av aksjeutbytte](/blogs/regnskap/oppjustering-av-aksjeutbytte "Oppjustering av aksjeutbytte “ Guide til justering av utbytte for norsk AS").
 
 For mer om tantieme, se [Tantieme](/blogs/regnskap/tantieme "Tantieme i aksjeselskap: Bonusmodell, Skattemessig Behandling og BokfÃ¸ring").
+
+
+

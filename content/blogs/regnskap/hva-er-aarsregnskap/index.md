@@ -69,3 +69,6 @@ Utarbeidelsen krever grundig regnskapsfÃ¸ring gjennom Ã¥ret og involverer bl
 ## Konklusjon
 
 Et **Ã¥rsregnskap** er selve ryggraden i finansiell rapportering for norske selskaper. Ved Ã¥ fÃ¸lge lovpÃ¥lagte krav og benytte de riktige regnskapsprinsippene, fÃ¥r eiere, investorer og myndigheter den innsikten de trenger for Ã¥ vurdere selskapets Ã¸konomi pÃ¥ en pÃ¥litelig mÃ¥te.
+
+
+

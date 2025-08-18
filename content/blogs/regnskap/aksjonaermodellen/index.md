@@ -61,7 +61,7 @@ For [selskaper](/blogs/regnskap/hva-er-foretak "Hva er et Foretak? Komplett Guid
 
 * **97% av utbytte** er skattefritt
 * **97% av gevinst** ved salg av aksjer er skattefritt
-* **3% beskattes** som [alminnelig inntekt](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt â€“ Komplett guide til skattemessig resultat og beregning") (22% skatt)
+* **3% beskattes** som [alminnelig inntekt](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt “ Komplett guide til skattemessig resultat og beregning") (22% skatt)
 * Gjelder kun for aksjer i selskaper med **begrenset ansvar**
 
 ![Fritaksmetoden Oversikt](fritaksmetoden-oversikt.svg)
@@ -185,3 +185,6 @@ For **investorer** gir modellen forutsigbarhet og incentiver til langsiktige inv
 I et **internasjonalt perspektiv** stÃ¥r Norge som et foregangsland med sin unike tilnÃ¦rming til aksjonÃ¦rbeskatning, selv om modellen fortsatt utvikles og tilpasses nye utfordringer i skattesystemet.
 
 For en enda mer detaljert og omfattende gjennomgang av alle aspekter ved aksjonÃ¦rmodellen, anbefaler vi vÃ¥r [AksjonÃ¦rmodellen - Komplett Guide til Norsk Aksjebeskatning](/blogs/regnskap/aksjonaermodellen-guide "AksjonÃ¦rmodellen - Komplett Guide til Norsk Aksjebeskatning").
+
+
+

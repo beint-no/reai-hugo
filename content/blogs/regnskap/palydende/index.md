@@ -57,3 +57,5 @@ I regnskap fÃ¸res pÃ¥lydende verdi av aksjer under egenkapital, og eventuell
 - **PÃ¥lydende** angir den nominelle verdien av aksjer og obligasjoner ved utstedelse.
 - Skiller seg fra **emisjonskurs** og **markedskurs** ved at det fastsettes pÃ¥ forhÃ¥nd.
 - Viktig for regnskapsfÃ¸ring, kapitalstruktur og investoranalyse.
+
+

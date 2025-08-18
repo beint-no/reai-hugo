@@ -219,3 +219,6 @@ AksjonÃ¦rregisteret er en **hjÃ¸rnestein** i det norske selskapsrettslige sy
 For deg som aksjonÃ¦r eller som vurderer Ã¥ investere i [aksjer](/blogs/regnskap/hva-er-en-aksje "Hva er en Aksje? En Enkel Forklaring"), er det viktig Ã¥ forstÃ¥ at ditt eierskap vil vÃ¦re **offentlig tilgjengelig**. Dette er prisen for Ã¥ delta i det norske nÃ¦ringslivet, men det gir ogsÃ¥ trygghet og forutsigbarhet for alle parter.
 
 Registeret vil fortsette Ã¥ utvikle seg med teknologien, og vi kan forvente enda bedre tilgang til informasjon og Ã¸kt transparens i Ã¥rene som kommer.
+
+
+

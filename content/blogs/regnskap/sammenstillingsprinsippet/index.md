@@ -10,7 +10,7 @@ layout: pages/single
 **Sammenstillingsprinsippet** er et grunnleggende regnskapsprinsipp som krever at **kostnader** som er direkte knyttet til **inntektene** de genererer, regnskapsfÃ¸res i samme periode. Dette gir et mest mulig korrekt bilde av virksomhetens lÃ¸nnsomhet og finansielle stilling.
 
 For mer om hvordan inntekter og kostnader fordeles over perioder, se [Hva er Periodisering? Prinsipper og Praktiske Eksempler](/blogs/regnskap/hva-er-periodisering "Hva er Periodisering? Prinsipper og Praktiske Eksempler").
-For en oversikt over grunnleggende regnskapsprinsipper, se [God Regnskapsskikk â€“ Prinsipper og Metoder](/blogs/regnskap/god-regnskapsskikk "God Regnskapsskikk â€“ Prinsipper og Metoder").
+For en oversikt over grunnleggende regnskapsprinsipper, se [God Regnskapsskikk “ Prinsipper og Metoder](/blogs/regnskap/god-regnskapsskikk "God Regnskapsskikk “ Prinsipper og Metoder").
 
 ![Oversikt over Sammenstillingsprinsippet](sammenstillingsprinsippet.svg)
 
@@ -27,16 +27,16 @@ Sammenstillingsprinsippet, ogsÃ¥ kjent som *matching-prinsippet*, handler om �
 
 ## Juridisk og Normativt Grunnlag
 
-Sammenstillingsprinsippet er nedfelt i norsk [bokfÃ¸ringslov](/blogs/regnskap/hva-er-bokforingsloven "Hva er BokfÃ¸ringsloven? En Komplett Guide til Norsk BokfÃ¸ringslovgivning") og gjenspeiles i god regnskapsskikk som beskrevet i [God Regnskapsskikk â€“ Prinsipper og Metoder](/blogs/regnskap/god-regnskapsskikk "God Regnskapsskikk â€“ Prinsipper og Metoder"). Principippet er ogsÃ¥ en viktig del av [periodiseringsprinsippet](/blogs/regnskap/hva-er-periodisering "Hva er Periodisering? Prinsipper og Praktiske Eksempler").
+Sammenstillingsprinsippet er nedfelt i norsk [bokfÃ¸ringslov](/blogs/regnskap/hva-er-bokforingsloven "Hva er BokfÃ¸ringsloven? En Komplett Guide til Norsk BokfÃ¸ringslovgivning") og gjenspeiles i god regnskapsskikk som beskrevet i [God Regnskapsskikk “ Prinsipper og Metoder](/blogs/regnskap/god-regnskapsskikk "God Regnskapsskikk “ Prinsipper og Metoder"). Principippet er ogsÃ¥ en viktig del av [periodiseringsprinsippet](/blogs/regnskap/hva-er-periodisering "Hva er Periodisering? Prinsipper og Praktiske Eksempler").
 
 ## FormÃ¥l og Fordeler
 
 Sammenstilling av kostnader og inntekter gir flere viktige fordeler:
 
-* **Riktig resultatmÃ¥ling** â€“ Bedriften fÃ¥r et mer nÃ¸yaktig bilde av lÃ¸nnsomheten.
-* **Sammenlignbarhet** â€“ Rapporter fra ulike perioder kan sammenlignes uten forvrengning.
-* **Bedre beslutningsgrunnlag** â€“ Ledelsen kan fatte mer informerte beslutninger.
-* **Overholdelse av regelverk** â€“ Oppfyller krav i bokfÃ¸ringsloven og god regnskapsskikk.
+* **Riktig resultatmÃ¥ling** “ Bedriften fÃ¥r et mer nÃ¸yaktig bilde av lÃ¸nnsomheten.
+* **Sammenlignbarhet** “ Rapporter fra ulike perioder kan sammenlignes uten forvrengning.
+* **Bedre beslutningsgrunnlag** “ Ledelsen kan fatte mer informerte beslutninger.
+* **Overholdelse av regelverk** “ Oppfyller krav i bokfÃ¸ringsloven og god regnskapsskikk.
 
 ## Praktisk Anvendelse
 
@@ -61,3 +61,5 @@ Sammenstillingsprinsippet henger nÃ¦rt sammen med:
 ## Oppsummering
 
 **Sammenstillingsprinsippet** er fundamentalt for Ã¥ sikre at regnskapet gir et korrekt og sammenlignbart bilde av virksomhetens Ã¸konomiske situasjon. Ved Ã¥ matche kostnader med tilhÃ¸rende inntekter i samme periode, overholder man bÃ¥de lovkrav og prinsipper for god regnskapsskikk.
+
+

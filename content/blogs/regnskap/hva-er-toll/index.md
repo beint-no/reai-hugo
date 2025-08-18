@@ -67,7 +67,7 @@ Import til Norge krever omfattende dokumentasjon og fÃ¸lger strenge prosedyrer
 
 ### NÃ¸dvendig Dokumentasjon for Import
 
-* [**Tolldeklarasjon (SAD-dokument)**](/blogs/regnskap/tolldeklarasjonsoversikt "Tolldeklarasjonsoversikt: Standardisert EU-dokument for tollbehandling") â€“ Standardisert EU-dokument for tollbehandling
+* [**Tolldeklarasjon (SAD-dokument)**](/blogs/regnskap/tolldeklarasjonsoversikt "Tolldeklarasjonsoversikt: Standardisert EU-dokument for tollbehandling") “ Standardisert EU-dokument for tollbehandling
 * **[Faktura](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav"):** Original salgsfaktura fra leverandÃ¸r
 * **Pakkseddel/Fraktseddel:** Dokumentasjon av varenes innhold
 * **Opprinnelsesbevis:** Dokumenterer varens opprinnelsesland
@@ -308,3 +308,5 @@ Toll er en kompleks, men kritisk komponent i internasjonal handel som krever gru
 Den digitale transformasjonen av tollsektoren, kombinert med endrete geopolitiske forhold og Ã¸kte krav til bÃ¦rekraft, skaper bÃ¥de utfordringer og muligheter. Bedrifter som investerer i moderne tollsystemer og -kompetanse vil vÃ¦re best posisjonert for Ã¥ navigere i det stadig mer komplekse landskapet av internasjonal handel.
 
 For Ã¥ sikre korrekt regnskapsfÃ¸ring av toll og importkostnader, bÃ¸r bedrifter implementere robuste systemer for [bilagsmottak](/blogs/regnskap/hva-er-bilagsmottak "Bilagsmottak - Komplett Guide til Dokumentmottak og Fakturabehandling") og [attestering](/blogs/regnskap/hva-er-attestering "Hva er Attestering? En Komplett Guide til Bilagsbehandling og Godkjenning") som sikrer at alle tollkostnader fanges opp og bokfÃ¸res korrekt i samsvar med god regnskapsskikk.
+
+

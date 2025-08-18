@@ -1,6 +1,6 @@
 ﻿---
-title: "Kontantsalg â€“ Komplett Guide til RegnskapsfÃ¸ring av Kontantsalg"
-meta_title: "Kontantsalg â€“ Komplett Guide til RegnskapsfÃ¸ring av Kontantsalg"
+title: "Kontantsalg “ Komplett Guide til RegnskapsfÃ¸ring av Kontantsalg"
+meta_title: "Kontantsalg “ Komplett Guide til RegnskapsfÃ¸ring av Kontantsalg"
 meta_description: '**Kontantsalg** er salg av varer eller tjenester hvor **kontanter** mottas umiddelbart ved transaksjonen. Dette skiller seg fra kredittsalg, der kunden betaler ...'
 slug: kontantsalg
 type: blog
@@ -56,7 +56,7 @@ Kredit: UtgÃ¥ende MVA (25Â %)            250 kr
 
 * **Standardiserte bilag:** Bruk forhÃ¥ndsnummererte kassekvitteringer eller kontantfakturaer
 * **Daglig avstemming:** UtfÃ¸r daglig [kasseoppgjÃ¸r](/blogs/regnskap/hva-er-kasseoppgjor "Hva er KasseoppgjÃ¸r? Komplett Guide til Daglig Kasseavstemming") av kontantbeholdningen
-* **Sikker oppbevaring:** Ha en lÃ¥st [kontantkasse](/blogs/regnskap/kontantkasse "Kontantkasse i Regnskap â€“ Guide til Bruk og HÃ¥ndtering")
+* **Sikker oppbevaring:** Ha en lÃ¥st [kontantkasse](/blogs/regnskap/kontantkasse "Kontantkasse i Regnskap “ Guide til Bruk og HÃ¥ndtering")
 * **Internkontroll:** Definer roller for mottak, kontroll og bokfÃ¸ring av kassebilag
 * **OpplÃ¦ring:** SÃ¸rg for at ansatte kjenner prosedyrer for kontanthÃ¥ndtering og rapportering
 
@@ -64,14 +64,16 @@ Kredit: UtgÃ¥ende MVA (25Â %)            250 kr
 
 Kontantsalg pÃ¥virker flere nÃ¸kkelomrÃ¥der i regnskapet:
 
-* **[KontantstrÃ¸m](/blogs/regnskap/hva-er-kontantstrom "Hva er KontantstrÃ¸m? Guide til Cash Flow Analyse og Styring")** â€“ Innbetalinger fra kontantsalg inngÃ¥r i kontantstrÃ¸msanalyse
-* **[Kontantbeholdning](/blogs/regnskap/hva-er-kontantbeholdning "Hva er Kontantbeholdning? Komplett Guide til Kontantforvaltning og Likviditet")** â€“ Endringer i kontantbeholdningen reflekterer kontantsalg
-* **[Kontantkasse](/blogs/regnskap/kontantkasse "Kontantkasse i Regnskap â€“ Guide til Bruk og HÃ¥ndtering")** â€“ Fysisk kasse for oppbevaring av kontanter ved kontantsalg
-* **[KontantkjÃ¸p](/blogs/regnskap/kontantkjop "KontantkjÃ¸p â€“ Komplett Guide til RegnskapsfÃ¸ring av KontantkjÃ¸p")** â€“ Motsatt transaksjon der virksomheten betaler kontant
-* **[VarekjÃ¸p](/blogs/regnskap/hva-er-varekjop "Hva er varekjÃ¸p? Komplett Guide til InnkjÃ¸psstyring")** â€“ Kontantsalg er en form for omsetning av varer
-* **[Kontantsalg](/blogs/regnskap/kontantsalg "Kontantsalg â€“ Komplett Guide til RegnskapsfÃ¸ring av Kontantsalg")** â€“ Denne artikkelen gir en komplett oversikt over kontantsalg
-* **[Salg](/blogs/regnskap/salg "Salg â€“ Oversikt over salgskonsepter i Norsk Regnskap")** â€“ Grunnleggende konsept for alle typer salgstransaksjoner
+* **[KontantstrÃ¸m](/blogs/regnskap/hva-er-kontantstrom "Hva er KontantstrÃ¸m? Guide til Cash Flow Analyse og Styring")** “ Innbetalinger fra kontantsalg inngÃ¥r i kontantstrÃ¸msanalyse
+* **[Kontantbeholdning](/blogs/regnskap/hva-er-kontantbeholdning "Hva er Kontantbeholdning? Komplett Guide til Kontantforvaltning og Likviditet")** “ Endringer i kontantbeholdningen reflekterer kontantsalg
+* **[Kontantkasse](/blogs/regnskap/kontantkasse "Kontantkasse i Regnskap “ Guide til Bruk og HÃ¥ndtering")** “ Fysisk kasse for oppbevaring av kontanter ved kontantsalg
+* **[KontantkjÃ¸p](/blogs/regnskap/kontantkjop "KontantkjÃ¸p “ Komplett Guide til RegnskapsfÃ¸ring av KontantkjÃ¸p")** “ Motsatt transaksjon der virksomheten betaler kontant
+* **[VarekjÃ¸p](/blogs/regnskap/hva-er-varekjop "Hva er varekjÃ¸p? Komplett Guide til InnkjÃ¸psstyring")** “ Kontantsalg er en form for omsetning av varer
+* **[Kontantsalg](/blogs/regnskap/kontantsalg "Kontantsalg “ Komplett Guide til RegnskapsfÃ¸ring av Kontantsalg")** “ Denne artikkelen gir en komplett oversikt over kontantsalg
+* **[Salg](/blogs/regnskap/salg "Salg “ Oversikt over salgskonsepter i Norsk Regnskap")** “ Grunnleggende konsept for alle typer salgstransaksjoner
 
 ## Avslutning
 
 Kontantsalg representerer en enkel og umiddelbar betalingsform som krever nÃ¸ye oppmerksomhet pÃ¥ dokumentasjonskrav, internkontroll og korrekt bokfÃ¸ring. Ved Ã¥ fÃ¸lge etablerte rutiner og bruke anbefalte verktÃ¸y sikrer virksomheten nÃ¸yaktig regnskapsfÃ¸ring og god likviditetsstyring.
+
+

@@ -303,3 +303,6 @@ Fremtidens budsjettering vil vÃ¦re tettere integrert med:
 * **Operasjonell rapportering** og KPI-er
 
 Budsjettering forblir et kritisk verktÃ¸y for Ã¸konomistyring, men metodene og teknologiene vil fortsette Ã¥ utvikle seg for Ã¥ mÃ¸te fremtidens forretningsbehov. Ved Ã¥ kombinere tradisjonell finansiell planlegging med moderne teknologi og agile metoder, kan bedrifter skape mer verdifulle og handlingsorienterte budsjetter.
+
+
+

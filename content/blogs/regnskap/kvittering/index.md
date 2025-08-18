@@ -29,11 +29,11 @@ Nedenfor er en oversikt over de vanligste typene kvitteringer som brukes i norsk
 
 Alle kvitteringer mÃ¥ inneholde fÃ¸lgende **obligatoriske opplysninger**:
 
-* **Dato for transaksjon** â€“ NÃ¥r betalingen fant sted
-* **BelÃ¸p** â€“ Transaksjonens verdi inkludert merverdiavgift
-* **Beskrivelse** â€“ Hva betaling gjelder (vare eller tjeneste)
-* **Partene** â€“ Navn pÃ¥ selger og kjÃ¸per
-* **MVA-informasjon** â€“ Merverdiavgift spesifisert dersom aktuelt
+* **Dato for transaksjon** “ NÃ¥r betalingen fant sted
+* **BelÃ¸p** “ Transaksjonens verdi inkludert merverdiavgift
+* **Beskrivelse** “ Hva betaling gjelder (vare eller tjeneste)
+* **Partene** “ Navn pÃ¥ selger og kjÃ¸per
+* **MVA-informasjon** “ Merverdiavgift spesifisert dersom aktuelt
 
 ## Digitale kvitteringer og juridiske krav
 
@@ -49,3 +49,5 @@ Moderne systemer for **digital kvittering** mÃ¥ ivareta **autentisitet**, **in
 ## Konklusjon
 
 En tydelig forstÃ¥else av kvitteringers rolle og krav er avgjÃ¸rende for Ã¥ sikre korrekt regnskapsfÃ¸ring, overholdelse av lover og effektiv revisjon. Ved Ã¥ fÃ¸lge beste praksis kan virksomheter minimere risikoen for feil og mangler i regnskapet.
+
+

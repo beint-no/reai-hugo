@@ -195,3 +195,5 @@ Nye krav og forskrifter pÃ¥virker forretningsfÃ¸rerens ansvar:
 ForretningsfÃ¸rerens rolle er kompleks og omfattende, med betydelig juridisk og operasjonelt ansvar. Suksess krever en kombinasjon av faglig kompetanse, praktisk erfaring og kontinuerlig lÃ¦ring. Ved Ã¥ forstÃ¥ de juridiske kravene, implementere beste praksis og utnytte moderne teknologi, kan forretningsfÃ¸rere effektivt lede sine virksomheter samtidig som de minimerer personlig risiko.
 
 For Ã¥ lykkes som forretningsfÃ¸rer er det essensielt Ã¥ ha solid kunnskap om [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Dybdeanalyse for Norge"), [bokfÃ¸ring](/blogs/regnskap/hva-er-bokforing "Hva er BokfÃ¸ring? En Komplett Guide til Norsk BokfÃ¸ringspraksis") og relevant lovgivning, samt Ã¥ etablere robuste systemer for internkontroll og risikohÃ¥ndtering.
+
+

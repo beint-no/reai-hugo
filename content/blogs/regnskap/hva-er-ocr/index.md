@@ -35,7 +35,7 @@ OCR-teknologi benyttes i flere deler av regnskapsarbeidet for Ã¥ spare tid og 
 OCR-teknologi gir flere viktige fordeler sammenlignet med manuell registrering:
 * **Redusert manuell inntasting:** Opptil 90 % besparelse i tid.
 * **Rask tilgang til data:** Umiddelbar konvertering fra dokument til regnskapssystem.
-* **FÃ¦rre feil:** Feilrate pÃ¥ 0,1â€“1 % versus 3â€“5 % manuelt.
+* **FÃ¦rre feil:** Feilrate pÃ¥ 0,1“1 % versus 3“5 % manuelt.
 * **Bedre sporbarhet:** Fullt audit trail med digitale bilag.
 * **Skalerbarhet:** HÃ¥ndter store volum uten ekstra bemanning.
 
@@ -44,10 +44,12 @@ OCR-teknologi gir flere viktige fordeler sammenlignet med manuell registrering:
 | Egenskap                | Manuell registrering | OCR-teknologi                              |
 |-------------------------|----------------------|---------------------------------------------|
 | **Hastighet**           | Lav                  | HÃ¸y (millisekunder per side)               |
-| **Feilrate**            | 3â€“5 %                | 0,1â€“1 %                                    |
+| **Feilrate**            | 3“5 %                | 0,1“1 %                                    |
 | **Kostnad per side**    | Ca. 2Â NOK            | Ca. 0,2Â NOK                                |
 | **Skalerbarhet**        | Begrenset            | SvÃ¦rt god                                  |
 
 For mer informasjon om praktisk bruk av OCR i fakturahÃ¥ndtering, se [Fakturabehandling](/blogs/regnskap/hva-er-fakturatolk "Hva er Fakturatolk? AI-drevet Fakturabehandling og Automatisering").
 
 Utforsk ogsÃ¥ [BankGiro](/blogs/regnskap/hva-er-bankgiro "Hva er BankGiro? Komplett Guide til Norsk Betalingssystem") for bruk av OCR-nummer i betalingsprosesser.
+
+

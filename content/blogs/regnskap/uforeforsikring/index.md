@@ -15,9 +15,9 @@ UfÃ¸reforsikring er en privat **inntektssikring** som gir erstatning ved varig
 
 Ved varig sykefravÃ¦r eller skade kan offentlige ytelser som ufÃ¸retrygd bli **begrenset**, i bÃ¥de omfang og belÃ¸p. Private ufÃ¸reforsikringer bidrar til:
 
-* **Ã˜konomisk trygghet** â€“ kompenserer for tapt inntekt utover det NAV gir.
-* **Fleksibilitet** â€“ ulike dekningsgrader og ventetid kan tilpasses individuelle behov.
-* **Forutsigbarhet** â€“ fast mÃ¥nedlig erstatning gir forutsigbare levekÃ¥r.
+* **Ã˜konomisk trygghet** “ kompenserer for tapt inntekt utover det NAV gir.
+* **Fleksibilitet** “ ulike dekningsgrader og ventetid kan tilpasses individuelle behov.
+* **Forutsigbarhet** “ fast mÃ¥nedlig erstatning gir forutsigbare levekÃ¥r.
 
 ## Typer dekning og vilkÃ¥r
 
@@ -25,7 +25,7 @@ Ved varig sykefravÃ¦r eller skade kan offentlige ytelser som ufÃ¸retrygd bli
 |---------------------------|---------------|-------------------------|-------------------|
 | GrunnbelÃ¸p (G-basert)     | 12 mÃ¥neder    | Opptil **1 G**          | Lav               |
 | Fast belÃ¸p                | 6 mÃ¥neder     | Valgfritt fast belÃ¸p    | Moderat           |
-| Prosent av lÃ¸nn           | 6â€“12 mÃ¥neder  | **60â€“80 %** av lÃ¸nn     | HÃ¸y               |
+| Prosent av lÃ¸nn           | 6“12 mÃ¥neder  | **60“80 %** av lÃ¸nn     | HÃ¸y               |
 
 Tabellen over viser de vanligste dekningsmodellene. Valg av ventetid og dekningsgrad pÃ¥virker premien direkte.
 
@@ -49,10 +49,10 @@ Premien for privat ufÃ¸reforsikring er **ikke fradragsberettiget**, men utbeta
 
 NÃ¥r du skal velge ufÃ¸reforsikring bÃ¸r du vurdere fÃ¸lgende:
 
-1. **Ventetid og dekningsgrad** â€“ kortere ventetid gir hÃ¸yere premie.
-2. **Krav til helseerklÃ¦ring** â€“ noen forsikringer krever helseattest eller legeerklÃ¦ring.
-3. **Premiebetalingstype** â€“ Ã¥rlig vs. mÃ¥nedlig betalingsfrekvens.
-4. **LÃ¦retid og oppsigelsesvilkÃ¥r** â€“ hvor lenge du mÃ¥ vÃ¦re ufÃ¸r fÃ¸r utbetaling.
+1. **Ventetid og dekningsgrad** “ kortere ventetid gir hÃ¸yere premie.
+2. **Krav til helseerklÃ¦ring** “ noen forsikringer krever helseattest eller legeerklÃ¦ring.
+3. **Premiebetalingstype** “ Ã¥rlig vs. mÃ¥nedlig betalingsfrekvens.
+4. **LÃ¦retid og oppsigelsesvilkÃ¥r** “ hvor lenge du mÃ¥ vÃ¦re ufÃ¸r fÃ¸r utbetaling.
 5. **Tilleggsdekninger** som barnetrygd eller ektefelleforsikring.
 
 ## Relaterte artikler
@@ -60,4 +60,6 @@ NÃ¥r du skal velge ufÃ¸reforsikring bÃ¸r du vurdere fÃ¸lgende:
 * [Hva er UfÃ¸retrygd?](/blogs/regnskap/hva-er-uforetrygd "Hva er UfÃ¸retrygd? Komplett Guide til Trygdeordninger")
 * [Forsikringspremie](/blogs/regnskap/forsikringspremie "Forsikringspremie: Hva er Forsikringspremie og Hvordan Beregne")
 * [Hva er tjenestepensjon?](/blogs/regnskap/hva-er-tjenestepensjon "Hva er Tjenestepensjon? Komplett Guide til Tjenestepensjon i Norge")
-* [Obligatorisk tjenestepensjon](/blogs/regnskap/obligatorisk-tjenestepensjon "Obligatorisk Tjenestepensjon â€“ Hva Bedrifter MÃ¥ Vite")
+* [Obligatorisk tjenestepensjon](/blogs/regnskap/obligatorisk-tjenestepensjon "Obligatorisk Tjenestepensjon “ Hva Bedrifter MÃ¥ Vite")
+
+

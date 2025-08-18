@@ -43,14 +43,16 @@ Norges Banks primÃ¦re oppgaver omfatter:
 
 Norges Banks beslutninger pÃ¥virker nÃ¸kkelparametere i regnskapsrapporteringen:
 
-1. **Renteinntekter og -kostnader:** Endringer i styringsrenten pÃ¥virker [finansinntekt](/blogs/regnskap/finansinntekt "Finansinntekt â€“ Renter, utbytte og kapitalgevinster i norsk regnskap") og rentekostnader i resultatregnskapet.  
+1. **Renteinntekter og -kostnader:** Endringer i styringsrenten pÃ¥virker [finansinntekt](/blogs/regnskap/finansinntekt "Finansinntekt “ Renter, utbytte og kapitalgevinster i norsk regnskap") og rentekostnader i resultatregnskapet.  
 2. **BalansefÃ¸ring av valuta:** Virksomheter med utenlandsk virksomhet mÃ¥ vurdere valutakurser mot NOK, som pÃ¥virkes av sentralbankens valutapolitikk.  
-3. **NIBOR og andre referanserenter:** Styringsrenten gir fÃ¸ringer for [NIBOR](/blogs/regnskap/nibor "NIBOR â€“ Norsk Interbank Offered Rate") og andre markedsrenter.  
+3. **NIBOR og andre referanserenter:** Styringsrenten gir fÃ¸ringer for [NIBOR](/blogs/regnskap/nibor "NIBOR “ Norsk Interbank Offered Rate") og andre markedsrenter.  
 4. **Betalingsinfrastruktur:** Bedrifter bruker Norges Banks systemer for oppgjÃ¸r, inkl. i [bankavstemming](/blogs/regnskap/hva-er-bankavstemming "Hva er bankavstemming? Guide til avstemming av kontoer").
 
 ## Videre lesning
 
 * [Hva er inflasjon?](/blogs/regnskap/hva-er-inflasjon "Hva er inflasjon? En guide til pengepolitikk og styringsrente")  
-* [NIBOR](/blogs/regnskap/nibor "NIBOR â€“ Norsk Interbank Offered Rate")  
-* [Finansinntekt](/blogs/regnskap/finansinntekt "Finansinntekt â€“ Renter, utbytte og kapitalgevinster i norsk regnskap")  
+* [NIBOR](/blogs/regnskap/nibor "NIBOR “ Norsk Interbank Offered Rate")  
+* [Finansinntekt](/blogs/regnskap/finansinntekt "Finansinntekt “ Renter, utbytte og kapitalgevinster i norsk regnskap")  
 * [Regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Dybdeanalyse for Norge")
+
+

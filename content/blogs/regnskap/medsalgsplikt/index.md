@@ -46,9 +46,9 @@ Noen transaksjoner og virksomhetsmodeller kan vÃ¦re unntatt fra medsalgsplikt:
 
 ## Praktiske eksempler
 
-1. **Auksjonarius** som selger brukte biler pÃ¥ vegne av bilforhandler â€“ mÃ¥ beregne og legge til MVA pÃ¥ auksjonsgebyret.
-2. **Netthandelsplattform** som formidler salg fra et utenlandsk selskap til norske kunder â€“ kan bli pliktig til Ã¥ beregne MVA ved videresalg.
-3. **KunstkommisjonÃ¦r** som selger kunstverk for en kunstner â€“ mÃ¥ fakturere kjÃ¸per med MVA og innbetale merverdiavgift.
+1. **Auksjonarius** som selger brukte biler pÃ¥ vegne av bilforhandler “ mÃ¥ beregne og legge til MVA pÃ¥ auksjonsgebyret.
+2. **Netthandelsplattform** som formidler salg fra et utenlandsk selskap til norske kunder “ kan bli pliktig til Ã¥ beregne MVA ved videresalg.
+3. **KunstkommisjonÃ¦r** som selger kunstverk for en kunstner “ mÃ¥ fakturere kjÃ¸per med MVA og innbetale merverdiavgift.
 
 ## Se ogsÃ¥
 
@@ -56,3 +56,5 @@ Noen transaksjoner og virksomhetsmodeller kan vÃ¦re unntatt fra medsalgsplikt:
 - [Forholdsmessig MVA](/blogs/regnskap/forholdsmessig-mva "Forholdsmessig MVA")
 - [Omvendt avgiftsplikt](/blogs/regnskap/omvendt-avgiftsplikt "Omvendt avgiftsplikt")
 - [MVA-loven](/blogs/regnskap/mva-loven "Mva-loven")
+
+

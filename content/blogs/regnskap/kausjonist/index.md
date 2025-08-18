@@ -51,3 +51,5 @@ For mer om betingede forpliktelser og avsetning, se [Hva er Avsetning?](/blogs/r
 * [Gjeldsregisteret](/blogs/regnskap/gjeldsregisteret "Gjeldsregisteret - Oversikt over det norske gjeldsregisteret")
 * [Hva er Internkontroll?](/blogs/regnskap/hva-er-internkontroll "Hva er Internkontroll? Prinsipper og krav")
 * [Hva er Avsetning?](/blogs/regnskap/avsetning "Hva er Avsetning? Ulike typer og regnskapsfÃ¸ring")
+
+

@@ -28,17 +28,17 @@ Foretaksmodellen har rÃ¸tter i internasjonale regnskapsstandarder og norsk reg
 
 ## Prinsipper i Foretaksmodellen
 
-1. **Kontinuitetsprinsippet** â€“ forutsetter at foretaket drives videre
-2. **Forsiktighetsprinsippet** â€“ eiendeler vurderes konservativt, tap innregnes tidlig
-3. **Realiseringsprinsippet** â€“ inntekter innregnes ved opptjening
-4. **Opptjeningsprinsippet** â€“ kostnader og inntekter knyttes til samme periode
+1. **Kontinuitetsprinsippet** “ forutsetter at foretaket drives videre
+2. **Forsiktighetsprinsippet** “ eiendeler vurderes konservativt, tap innregnes tidlig
+3. **Realiseringsprinsippet** “ inntekter innregnes ved opptjening
+4. **Opptjeningsprinsippet** “ kostnader og inntekter knyttes til samme periode
 
 ## Anvendelse og Eksempler
 
 | **BruksomrÃ¥de**             | **Beskrivelse**                                                                 |
 |-----------------------------|---------------------------------------------------------------------------------|
 | Regnskapsrapportering       | Utarbeidelse av Ã¥rsregnskap og noter i henhold til regnskapsloven               |
-| Skattemelding               | Fastsettelse av skattegrunnlag for bÃ¥de selskapsskatt og [personinntekt](/blogs/regnskap/personinntekt "Personinntekt â€“ Komplett guide til personinntekt i norsk regnskap") |
+| Skattemelding               | Fastsettelse av skattegrunnlag for bÃ¥de selskapsskatt og [personinntekt](/blogs/regnskap/personinntekt "Personinntekt “ Komplett guide til personinntekt i norsk regnskap") |
 | LÃ¥nesÃ¸knader og finansiering | Dokumentasjon av balanse og egenkapital for banker og investorer               |
 | Intern beslutningsstÃ¸tte    | Budsjettering, analyse av nÃ¸kkeltall og risikovurdering                         |
 
@@ -68,3 +68,6 @@ Foretaksmodellen er en sentral modell for Ã¥ sikre korrekt **regnskapsfÃ¸rin
 * Klare retningslinjer for **vurdering av eiendeler** og **forpliktelser**
 
 For praktisk implementering og dypere eksempler, kontakt en autorisert **regnskapsfÃ¸rer** eller **revisor**.
+
+
+

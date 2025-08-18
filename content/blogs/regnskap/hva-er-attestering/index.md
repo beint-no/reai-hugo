@@ -254,3 +254,6 @@ Attestering er en **fundamental internkontrollprosess** som sikrer korrekt og lo
 * **Trygghet** for at regnskapet er korrekt og revisjonssikkert
 
 God attesteringspraksis er ikke bare et lovkrav, men en **strategisk fordel** som bidrar til bedre Ã¸konomistyring og Ã¸kt tillit fra interessenter, investorer og myndigheter.
+
+
+

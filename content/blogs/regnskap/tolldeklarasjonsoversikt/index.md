@@ -1,6 +1,6 @@
 ﻿---
-title: "Tolldeklarasjonsoversikt â€“ Guide til Tolldeklarasjon i Norsk Regnskap"
-meta_title: "Tolldeklarasjonsoversikt â€“ Guide til Tolldeklarasjon i Norsk Regnskap"
+title: "Tolldeklarasjonsoversikt “ Guide til Tolldeklarasjon i Norsk Regnskap"
+meta_title: "Tolldeklarasjonsoversikt “ Guide til Tolldeklarasjon i Norsk Regnskap"
 meta_description: '**Tolldeklarasjonsoversikt** gir en grundig gjennomgang av **tolldeklarasjon** (ofte kalt *SAD-dokument*) og hvordan dette komplekse skjemaet brukes i norsk reg...'
 slug: tolldeklarasjonsoversikt
 type: blog
@@ -15,7 +15,7 @@ layout: pages/single
 
 En **tolldeklarasjon** er et standardisert dokument som deklarerer varens art, verdi og opprinnelse ved grensekryssing. Deklarasjonen er pÃ¥krevd for alle varer som importeres til eller eksporteres fra Norge, og behandles av [Tollvesenet](/blogs/regnskap/hva-er-toll "Hva er Toll? Toll og Tollbehandling i Norge") gjennom systemet TVINN.
 
-Tolldeklarasjonen utgjÃ¸r grunnlaget for beregning av avgifter som **toll**, *importâ€‘MVA* og eventuelle sÃ¦ravgifter, og fungerer som et formelt bilag i regnskapet.
+Tolldeklarasjonen utgjÃ¸r grunnlaget for beregning av avgifter som **toll**, *import‘MVA* og eventuelle sÃ¦ravgifter, og fungerer som et formelt bilag i regnskapet.
 
 ## NÃ¸dvendige opplysninger i tolldeklarasjon
 
@@ -23,24 +23,24 @@ En komplett tolldeklarasjon inneholder flere obligatoriske opplysninger som mÃ�
 
 | **Felt**                  | **Beskrivelse**                                     | **Eksempel**                      |
 |---------------------------|-----------------------------------------------------|-----------------------------------|
-| **Declarant**             | Registrert identifikasjon av deklarant (EORIâ€‘nummer) | NO123456789                       |
+| **Declarant**             | Registrert identifikasjon av deklarant (EORI‘nummer) | NO123456789                       |
 | **Varens beskrivelse**    | Detaljert beskrivelse av varen                      | KontormÃ¸bler, stoler og bord      |
-| **KNâ€‘nummer**             | Kombinert Nomenklatur (tariffkode)                  | 94033000                          |
+| **KN‘nummer**             | Kombinert Nomenklatur (tariffkode)                  | 94033000                          |
 | **Tollverdi (CIF)**       | Verdi inkl. forsikring og frakt frem til grensen    | 50Â 000 NOK                        |
 | **Opprinnelsesland**      | Land der varen er fremstilt eller bearbeidet         | DE (Tyskland)                     |
 | **Mengde og vekt**        | Antall enheter og totalvekt                          | 100 enheter, 750 kg               |
-| **LeverandÃ¸rfaktura**     | Referanse til original faktura fra leverandÃ¸r       | INVâ€‘2024â€‘0456                     |
+| **LeverandÃ¸rfaktura**     | Referanse til original faktura fra leverandÃ¸r       | INV‘2024‘0456                     |
 | **Dato for import/eksport**| Dato varene krysset grensen                         | 15.04.2024                        |
 
 ## Fileringsprosess for tolldeklarasjon
 
 Tolldeklarasjon sendes elektronisk via TVINN, Tollvesenets hovedsystem for digitale deklarasjoner:
 
-* **Forberedelse av data** â€“ Registrering av varer, verdier og koder i systemet
-* **Elektronisk innsending** â€“ Send deklarasjonen via TVINNâ€‘grensesnitt eller integrasjon med [ERPâ€‘system](/blogs/regnskap/hva-er-erp-system "Hva er ERPâ€‘system?")
-* **Digital signering** â€“ Sertifisert signatur for autentisitet og integritet
-* **Forkontroll** â€“ Automatisk risikovurdering fÃ¸r varens ankomst
-* **Fysisk kontroll eller frigivelse** â€“ Varer inspiseres ved behov eller frigis for transport
+* **Forberedelse av data** “ Registrering av varer, verdier og koder i systemet
+* **Elektronisk innsending** “ Send deklarasjonen via TVINN‘grensesnitt eller integrasjon med [ERP‘system](/blogs/regnskap/hva-er-erp-system "Hva er ERP‘system?")
+* **Digital signering** “ Sertifisert signatur for autentisitet og integritet
+* **Forkontroll** “ Automatisk risikovurdering fÃ¸r varens ankomst
+* **Fysisk kontroll eller frigivelse** “ Varer inspiseres ved behov eller frigis for transport
 
 ## Digitale krav og TVINN
 
@@ -55,10 +55,10 @@ For at tolldeklarasjonen skal vÃ¦re **juridisk gyldig**, mÃ¥ den oppfylle kr
 
 For Ã¥ sikre effektiv hÃ¥ndtering og korrekt regnskapsfÃ¸ring av tolldeklarasjoner anbefales fÃ¸lgende tiltak:
 
-* **Standardiserte maler** â€“ Bruk faste deklarasjonsprofiler i TVINN for repeterende varegrupper
-* **Automatisering** â€“ Integrer ERPâ€‘ og tolldeklarasjonssystemer for Ã¥ redusere manuelle feil
-* **Kontrollrutiner** â€“ Regelmessig avstemming av importdata mot regnskapssystemet
-* **OpplÃ¦ring** â€“ SÃ¸rg for at ansatte fÃ¥r jevnlig opplÃ¦ring i tollregelverk og TVINNâ€‘bruk
+* **Standardiserte maler** “ Bruk faste deklarasjonsprofiler i TVINN for repeterende varegrupper
+* **Automatisering** “ Integrer ERP‘ og tolldeklarasjonssystemer for Ã¥ redusere manuelle feil
+* **Kontrollrutiner** “ Regelmessig avstemming av importdata mot regnskapssystemet
+* **OpplÃ¦ring** “ SÃ¸rg for at ansatte fÃ¥r jevnlig opplÃ¦ring i tollregelverk og TVINN‘bruk
 
 ## Oppbevaring og internkontroll
 
@@ -71,3 +71,5 @@ Tolldeklarasjoner er regnskapsbilag og omfattes av krav til oppbevaring i henhol
 | **Transportdokumenter**  | Minst 5 Ã¥r          | BokfÃ¸ringsforskriften Â§ 13-2                  |
 
 For mer informasjon om oppbevaringskrav, se [Oppbevaring av regnskapsmateriale](/blogs/regnskap/oppbevaring-av-regnskapsmateriale "Oppbevaring av Regnskapsmateriale - Krav og frister").
+
+

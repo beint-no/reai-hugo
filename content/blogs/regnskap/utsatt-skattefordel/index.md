@@ -85,5 +85,7 @@ Forskjellen avhenger av om midlertidige forskjeller er *skattefrie* eller *skatt
 * [Utsatt skatt](/blogs/regnskap/hva-er-utsatt-skatt "Hva er Utsatt Skatt? Beregning og RegnskapsfÃ¸ring")
 * [Midlertidige forskjeller](/blogs/regnskap/midlertidige-forskjeller "Midlertidige forskjeller i regnskap og skatt")
 * [Permanente forskjeller](/blogs/regnskap/permanente-forskjeller "Permanente forskjeller i regnskap og skatt")
-* [Betalbar skatt](/blogs/regnskap/betalbar-skatt "Betalbar skatt â€“ Komplett guide til beregning og hÃ¥ndtering")
+* [Betalbar skatt](/blogs/regnskap/betalbar-skatt "Betalbar skatt “ Komplett guide til beregning og hÃ¥ndtering")
 * [Hva er en faktura?](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav")
+
+

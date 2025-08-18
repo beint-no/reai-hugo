@@ -14,7 +14,7 @@ layout: pages/single
 
 Arbeidsforholdstypen bestemmer alt fra oppsigelsesfrister og feriepenger til hvordan lÃ¸nnskostnader skal behandles i [regnskapet](/blogs/regnskap/hva-er-regnskap "Hva er regnskap?") og rapporteres gjennom [a-meldingen](/blogs/regnskap/hva-er-a-melding "Hva er a-melding?").
 
-I tillegg spiller [ArbeidsmiljÃ¸utvalg (AMU)](/blogs/regnskap/amu "AMU (ArbeidsmiljÃ¸utvalg) â€“ Komplett Guide til ArbeidsmiljÃ¸utvalg i Norge") en viktig rolle i Ã¥ styrke samarbeidet om **HMS** i virksomheter.
+I tillegg spiller [ArbeidsmiljÃ¸utvalg (AMU)](/blogs/regnskap/amu "AMU (ArbeidsmiljÃ¸utvalg) “ Komplett Guide til ArbeidsmiljÃ¸utvalg i Norge") en viktig rolle i Ã¥ styrke samarbeidet om **HMS** i virksomheter.
 
 ## Hovedtyper av arbeidsforhold i Norge
 
@@ -166,3 +166,6 @@ Valg av arbeidsforholdstype er en fundamental beslutning som pÃ¥virker bÃ¥de
 * Vurdere bÃ¥de fleksibilitet og sikkerhet
 
 For bedrifter er det essensielt Ã¥ ha gode rutiner for hÃ¥ndtering av ulike arbeidsforholdstyper, bÃ¥de for Ã¥ sikre regelverksetterlevelse og optimal ressursutnyttelse.
+
+
+

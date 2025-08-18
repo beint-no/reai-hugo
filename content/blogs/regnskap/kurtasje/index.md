@@ -76,3 +76,5 @@ DEBET: Kurtasjekostnad                  100
 * [Hva er en aksje?](/blogs/regnskap/hva-er-en-aksje "Hva er en Aksje?")
 * [Hva er Diskontering?](/blogs/regnskap/hva-er-diskontering "Hva er Diskontering? Prinsipper og Praktiske Eksempler")
 * [Hva er Kurtasje?](/blogs/regnskap/kurtasje "Hva er Kurtasje? Megleravgift ved kjÃ¸p og salg av verdipapirer")
+
+

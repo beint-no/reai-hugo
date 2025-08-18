@@ -72,3 +72,5 @@ Les mer om [Revisjonsplikt](/blogs/regnskap/revisjonsplikt "Revisjonsplikt") for
 * **Kontinuerlig revisjon** i sanntid for Ã¸kt effektivitet.
 * Ã˜kt fokus pÃ¥ **bÃ¦rekraftsrevisjon** og rapportering av miljÃ¸- og samfunnspÃ¥virkning.
 * Strengere krav til **cybersikkerhet** og IT-revisjon.
+
+

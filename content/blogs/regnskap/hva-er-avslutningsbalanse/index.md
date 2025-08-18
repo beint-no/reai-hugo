@@ -272,3 +272,6 @@ For Ã¥ forstÃ¥ avslutningsbalanse fullt ut, bÃ¸r du ogsÃ¥ sette deg inn 
 * **[Avskrivning](/blogs/regnskap/hva-er-avskrivning "Hva er Avskrivning? Metoder og Beregning")** - Viktig justeringspost i avslutningen
 * **[Aksjekapital](/blogs/regnskap/hva-er-aksjekapital "Hva er Aksjekapital? Krav og Forklaring")** - Del av egenkapitalen i balansen
 * **[Regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide")** - Det overordnede regnskapssystemet
+
+
+

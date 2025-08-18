@@ -79,3 +79,5 @@ Fondsemisjon fÃ¸rer til Ã¸kning av aksjekapital og tilsvarende reduksjon i a
 - [Hva er Overkurs?](/blogs/regnskap/hva-er-overkurs "Hva er Overkurs? En Guide til Overkurs i Regnskap")
 - [Hva er Overkursfond?](/blogs/regnskap/hva-er-overkursfond "Hva er Overkursfond? Guide til overkurs ved kapitalforhÃ¸yelse")
 - [Konto 8950 - Fondsemisjon](/blogs/kontoplan/8950-fondsemisjon "Konto 8950 - Fondsemisjon: Guide til Fondsemisjon i Norsk Standard Kontoplan")
+
+

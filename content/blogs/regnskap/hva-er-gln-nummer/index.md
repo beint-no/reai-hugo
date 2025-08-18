@@ -57,3 +57,5 @@ Ved Ã¥ implementere **GLN-nummer** oppnÃ¥r norske bedrifter:
 * **Effektivisering** av logistikk- og regnskapsprosesser
 * **Bedre datakvalitet** i forretningssystemer
 * **Standardisering** pÃ¥ tvers av landegrenser
+
+

@@ -71,3 +71,5 @@ Figuren viser hvordan en underenhet er plassert under hovedenheten med egne ansv
 ## Oppsummering
 
 En **underenhet** er en viktig komponent i moderne regnskapsorganisering, som gir mulighet for detaljert analyse og styring av virksomhetens ulike deler. Riktig etablering, registrering og rapportering av underenheter sikrer bÃ¥de intern kontroll og ekstern etterlevelse.
+
+

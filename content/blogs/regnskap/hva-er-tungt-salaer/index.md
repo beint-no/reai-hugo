@@ -235,3 +235,5 @@ Tungt salÃ¦r representerer en betydelig kategori av forretningsutgifter som kr
 Ved Ã¥ fÃ¸lge anerkjente best practices og opprettholde hÃ¸y dokumentasjonskvalitet kan organisasjoner hÃ¥ndtere tungt salÃ¦r pÃ¥ en mÃ¥te som bÃ¥de optimaliserer forretningsverdi og sikrer regulatorisk compliance.
 
 For ytterligere veiledning om relaterte emner, se vÃ¥re artikler om [personalkostnad](/blogs/regnskap/hva-er-personalkostnad "Hva er Personalkostnad? Guide til LÃ¸nnskostnader"), [attestering](/blogs/regnskap/hva-er-attestering "Hva er Attestering? Guide til Attestasjonsprosesser") og [internkontroll](/blogs/regnskap/hva-er-internkontroll "Hva er Internkontroll? Guide til Kontrollsystemer").
+
+

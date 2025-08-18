@@ -75,3 +75,5 @@ Prospekt er sjeldent ved kapitalnedsettelse, men ved rettede kapitalnedsettelser
 - [KapitalforhÃ¸yelse](/blogs/regnskap/kapitalforhoyelse "KapitalforhÃ¸yelse: Metoder og RegnskapsfÃ¸ring")
 - [Hva er Aksjekapital?](/blogs/regnskap/hva-er-aksjekapital "Hva er Aksjekapital? Komplett guide til aksjekapital og selskapsetablering")
 - [AksjonÃ¦rmodellen](/blogs/regnskap/aksjonaermodellen "AksjonÃ¦rmodellen: Skattemodell for Utbytte og Gevinst")
+
+

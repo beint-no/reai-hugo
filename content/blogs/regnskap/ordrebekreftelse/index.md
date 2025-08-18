@@ -70,3 +70,5 @@ En korrekt hÃ¥ndtert ordrebekreftelse bidrar til Ã¥ sikre **god intern kontr
 ## 7. Oppsummering
 
 En **ordrebekreftelse** er et essensielt dokument som klargjÃ¸r innholdet i en bestilling og legger grunnlaget for fakturering og regnskapsfÃ¸ring. Ved Ã¥ fÃ¸lge anbefalte krav og beste praksis, sikrer norske bedrifter effektiv kommunikasjon og korrekt regnskapsdokumentasjon.
+
+

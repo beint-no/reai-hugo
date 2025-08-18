@@ -281,3 +281,5 @@ For Ã¥ sikre hÃ¸y kvalitet pÃ¥ noter mÃ¥ selskaper investere i:
 I en tid med Ã¸kende krav til transparens og bÃ¦rekraftsrapportering vil noter til Ã¥rsoppgjÃ¸ret fortsette Ã¥ utvikle seg som et stadig viktigere kommunikasjonsverktÃ¸y mellom selskaper og deres interessenter. Selskaper som mestrer kunsten Ã¥ utarbeide informative, presise og brukervennlige noter vil ha et betydelig konkurransefortrinn i kapitalmarkedene.
 
 Gjennom systematisk tilnÃ¦rming, fokus pÃ¥ vesentlighet og kontinuerlig forbedring kan noter til Ã¥rsoppgjÃ¸ret transformeres fra en byrdefull compliance-oppgave til et strategisk verktÃ¸y for Ã¥ bygge tillit og stÃ¸tte selskapets langsiktige verdiskaping.
+
+

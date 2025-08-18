@@ -52,8 +52,8 @@ Utenlandske aksjonÃ¦rer blir ofte utsatt for **kildeskatt** pÃ¥ utbytte.
 
 | Land/gruppe        | Standard sats | Redusert sats etter skatteavtale |
 |--------------------|---------------|----------------------------------|
-| EÃ˜S-land           | 15%           | 0%â€“15% (avhengig av avtale)      |
-| Andre land         | 15%           | 0%â€“15% (avhengig av avtale)      |
+| EÃ˜S-land           | 15%           | 0%“15% (avhengig av avtale)      |
+| Andre land         | 15%           | 0%“15% (avhengig av avtale)      |
 
 ## EkstraordinÃ¦rt utbytte
 
@@ -73,3 +73,5 @@ EkstraordinÃ¦rt utbytte skattlegges pÃ¥ samme mÃ¥te som ordinÃ¦rt utbytt
 ## Konklusjon
 
 **Skatt pÃ¥ utbytte** er en sentral del av aksjonÃ¦rbeskatningen i Norge. Ved Ã¥ forstÃ¥ prinsippene bak aksjonÃ¦rmodellen, skjermingsfradrag, fritaksmetoden og kildeskatt kan bÃ¥de privatpersoner og selskaper planlegge og rapportere riktig.
+
+

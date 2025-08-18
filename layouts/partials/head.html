@@ -12,9 +12,77 @@
         colors: {
           brand: { DEFAULT: '#111827' },
           accent: { DEFAULT: '#2563eb' }
-        }
+        },
+        typography: {
+          DEFAULT: {
+            css: {
+              maxWidth: '65ch',
+              color: '#374151',
+              lineHeight: '1.6',
+              a: {
+                color: '#2563eb',
+                textDecoration: 'none',
+                fontWeight: '500',
+                '&:hover': {
+                  textDecoration: 'underline',
+                },
+              },
+              'h1, h2, h3, h4, h5, h6': {
+                color: '#111827',
+                fontWeight: '700',
+                lineHeight: '1.2',
+                marginTop: '1.5em',
+                marginBottom: '0.75em',
+              },
+              'h1': { fontSize: '2.25em' },
+              'h2': { fontSize: '1.875em' },
+              'h3': { fontSize: '1.5em' },
+              'h4': { fontSize: '1.25em' },
+              'ul, ol': {
+                paddingLeft: '1.5em',
+              },
+              'li': {
+                marginTop: '0.5em',
+                marginBottom: '0.5em',
+              },
+              'code': {
+                backgroundColor: '#f3f4f6',
+                padding: '0.2em 0.4em',
+                borderRadius: '0.25em',
+                fontSize: '0.9em',
+              },
+              'pre': {
+                backgroundColor: '#1f2937',
+                color: '#f9fafb',
+                padding: '1em',
+                borderRadius: '0.5em',
+                overflowX: 'auto',
+              },
+              'blockquote': {
+                borderLeft: '4px solid #e5e7eb',
+                paddingLeft: '1em',
+                fontStyle: 'italic',
+                color: '#4b5563',
+              },
+              'img': {
+                borderRadius: '0.5em',
+                marginTop: '1.5em',
+                marginBottom: '1.5em',
+              },
+            },
+          },
+        },
       }
-    }
+    },
+    plugins: [
+      function({ addComponents }) {
+        addComponents({
+          '.prose': {
+            '@apply max-w-4xl mx-auto px-4': {},
+          },
+        })
+      },
+    ],
   }
 </script>
 <style>

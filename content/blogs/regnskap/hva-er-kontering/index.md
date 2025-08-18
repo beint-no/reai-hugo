@@ -300,3 +300,5 @@ Kontering er tett knyttet til mange andre viktige regnskapsbegreper og prosesser
 * **[Dokumentasjon](/blogs/regnskap/hva-er-dokumentasjon-regnskap-bokforing "Hva er Dokumentasjon i Regnskap? En Guide til Regnskapsdokumentasjon"):** StÃ¸tte for konteringsbeslutninger
 
 Kontering er fundamentet som hele regnskapet bygger pÃ¥. Ved Ã¥ mestre denne prosessen sikrer du at bedriftens finansielle informasjon er nÃ¸yaktig, pÃ¥litelig og i samsvar med gjeldende regnskapsregler og -standarder.
+
+

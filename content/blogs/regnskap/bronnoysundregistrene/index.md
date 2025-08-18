@@ -31,18 +31,18 @@ layout: pages/single
 
 BrÃ¸nnÃ¸ysundregistrene tilbyr flere **digitale tjenester** for effektiv registrering og innsyn:
 
-* [Altinn](/blogs/regnskap/hva-er-altinn "Hva er Altinn? En Guide til Offentlige Tjenester") â€“ sentral portal for skjema, innlevering og dialog med offentlige registre.
-* [API-integrasjon](/blogs/regnskap/api-integrasjon-automatisering-regnskap "API-integrasjon og automatisering av regnskap") â€“ sanntidsoppdatering og automatiserte arbeidsflyter.
-* **Nettjenester** â€“ direkte sÃ¸k og nedlasting av informasjon via BrÃ¸nnÃ¸ysundregistrenes nettsider.
-* [Firmaattest](/blogs/regnskap/firmaattest "Firmaattest") â€“ Offisielt dokument som bekrefter registrerte opplysninger om selskapet.
-* **Proff.no** â€“ en tredjepartsplattform for bedriftsinformasjon og Ã¸konomiske nÃ¸kkeltall. Les mer i vÃ¥r guide til [Proff.no](/blogs/regnskap/proff-no "Proff.no - Oversikt og Brukerveiledning").
+* [Altinn](/blogs/regnskap/hva-er-altinn "Hva er Altinn? En Guide til Offentlige Tjenester") “ sentral portal for skjema, innlevering og dialog med offentlige registre.
+* [API-integrasjon](/blogs/regnskap/api-integrasjon-automatisering-regnskap "API-integrasjon og automatisering av regnskap") “ sanntidsoppdatering og automatiserte arbeidsflyter.
+* **Nettjenester** “ direkte sÃ¸k og nedlasting av informasjon via BrÃ¸nnÃ¸ysundregistrenes nettsider.
+* [Firmaattest](/blogs/regnskap/firmaattest "Firmaattest") “ Offisielt dokument som bekrefter registrerte opplysninger om selskapet.
+* **Proff.no** “ en tredjepartsplattform for bedriftsinformasjon og Ã¸konomiske nÃ¸kkeltall. Les mer i vÃ¥r guide til [Proff.no](/blogs/regnskap/proff-no "Proff.no - Oversikt og Brukerveiledning").
 
 ### Hvordan sÃ¸ke i BrÃ¸nnÃ¸ysundregistrene
 
 1. BesÃ¸k den offisielle nettsiden til BrÃ¸nnÃ¸ysundregistrene.
 2. Velg relevant register (f.eks. Enhetsregisteret eller Foretaksregisteret).
 3. SÃ¸k pÃ¥ **organisasjonsnummer**, **foretaksnavn** eller **personnummer**.
-4. Last ned eller vis Ã¸nsket informasjon â€“ ofte gratis for grunnleggende data.
+4. Last ned eller vis Ã¸nsket informasjon “ ofte gratis for grunnleggende data.
 
 ### Eksempler pÃ¥ bruk i regnskap
 
@@ -65,3 +65,6 @@ For en mer detaljert beskrivelse av hvert enkelt register, se ogsÃ¥:
 ### Konklusjon
 
 **BrÃ¸nnÃ¸ysundregistrene** er en **hjÃ¸rnestein** i norsk nÃ¦ringsliv ved Ã¥ sikre korrekt registrering, offentliggjÃ¸ring og tilgang til viktig virksomhetsinformasjon. Kunnskap om disse registrene er avgjÃ¸rende for alle som driver eller jobber med regnskap og selskapsforvaltning i Norge.
+
+
+

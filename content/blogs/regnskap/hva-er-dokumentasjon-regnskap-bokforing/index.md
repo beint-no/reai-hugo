@@ -285,3 +285,6 @@ Effektiv dokumentasjon krever:
 * **Kompetanse:** OpplÃ¦ring og utvikling av personale
 
 Ved Ã¥ investere i solid dokumentasjonspraksis legger virksomheter grunnlaget for bÃ¥de daglig drift og langsiktig vekst, samtidig som de oppfyller alle lovmessige krav til regnskapsfÃ¸ring og arkivering.
+
+
+

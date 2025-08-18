@@ -304,3 +304,6 @@ Effektiv arbeidskapitalstyring krever:
 * **Kontinuerlig forbedring** av prosesser og systemer
 
 For mer informasjon om relaterte emner, se vÃ¥re artikler om [aktiva](/blogs/regnskap/hva-er-aktiva "Hva er Aktiva? En Komplett Guide til Eiendeler i Regnskap"), [saldobalanse](/blogs/regnskap/hva-er-saldobalanse "Hva er Saldobalanse? En Komplett Guide") og [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Dybdeanalyse for Norge").
+
+
+

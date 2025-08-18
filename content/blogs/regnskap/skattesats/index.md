@@ -34,7 +34,7 @@ layout: pages/single
 | Trinn 4        | 16,4%           |
 
 
-For en fullstendig guide til trinnskatt, se [Trinnskatt](/blogs/regnskap/trinnskatt "Trinnskatt â€“ Guide til trinnskatt i Norge").
+For en fullstendig guide til trinnskatt, se [Trinnskatt](/blogs/regnskap/trinnskatt "Trinnskatt “ Guide til trinnskatt i Norge").
 For mer detaljer om marginalskatt og trinnskatt, se [Hva er Marginalskatt?](/blogs/regnskap/hva-er-marginalskatt "Hva er Marginalskatt? Komplett guide til marginalskatt").
 
 ## Merverdiavgift (MVA)
@@ -48,3 +48,5 @@ For mer detaljer om marginalskatt og trinnskatt, se [Hva er Marginalskatt?](/blo
 ## Avsluttende kommentarer
 
 Denne artikkelen gir en oversikt over de vanligste **skattesatsene** i Norge. For spesifikke detaljer innen personskatt og justeringer i skatteberegningen, se vÃ¥re artikler om [Skatteberegning](/blogs/regnskap/skatteberegning "Skatteberegning - Komplett Guide til Skatteberegning") og [Hva er Marginalskatt?](/blogs/regnskap/hva-er-marginalskatt "Hva er Marginalskatt? Komplett guide til marginalskatt").
+
+

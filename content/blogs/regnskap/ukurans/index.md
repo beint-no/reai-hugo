@@ -74,3 +74,5 @@ Selv om skattemyndighetene godtar nedskriving for ukurans, kreves det dokumentas
 * [Hva er Varelager?](/blogs/regnskap/hva-er-varelager "Hva er Varelager? Komplett Guide til LagerregnskapsfÃ¸ring og Verdivurdering")
 * [Hva er BokfÃ¸ringsloven?](/blogs/regnskap/hva-er-bokforingsloven "Hva er BokfÃ¸ringsloven? Oversikt over Regnskapets Lovverk")
 * [Hva er Periodisering?](/blogs/regnskap/hva-er-periodisering "Hva er Periodisering? Prinsipper og Praktiske Eksempler")
+
+

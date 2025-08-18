@@ -25,12 +25,12 @@ Se vÃ¥r [Hva er et Enkeltpersonforetak?](/blogs/regnskap/hva-er-enkeltpersonfo
 
 | Steg                        | Ansvarlig    | Kostnad      | Estimert tid   |
 |-----------------------------|--------------|--------------|---------------|
-| Planlegging og forberedelser| GrÃ¼nder      | 0Â kr         | 1â€“3 dager     |
-| Registrering i Enhetsregisteret| GrÃ¼nder  | Gratis*      | 1â€“2 dager     |
+| Planlegging og forberedelser| GrÃ¼nder      | 0Â kr         | 1“3 dager     |
+| Registrering i Enhetsregisteret| GrÃ¼nder  | Gratis*      | 1“2 dager     |
 | Opprettelse av bankkonto    | GrÃ¼nder      | Gratis       | 1 dag         |
-| MVA-registrering            | GrÃ¼nder      | Gratis       | 0â€“5 dager     |
-| Oppsett regnskapssystem     | GrÃ¼nder      | Variabel     | 1â€“2 dager     |
-| **Totalt**                  | â€“            | **0Â kr***    | **3â€“10 dager**|
+| MVA-registrering            | GrÃ¼nder      | Gratis       | 0“5 dager     |
+| Oppsett regnskapssystem     | GrÃ¼nder      | Variabel     | 1“2 dager     |
+| **Totalt**                  | “            | **0Â kr***    | **3“10 dager**|
 
 *Obligatorisk ved omsetning over 50Â 000Â kr.
 
@@ -54,7 +54,7 @@ Se vÃ¥r [Hva er et Enkeltpersonforetak?](/blogs/regnskap/hva-er-enkeltpersonfo
 
 ## Skatt og avgifter
 
-* **Personinntekt**: Overskuddet beskattes som [personinntekt](/blogs/regnskap/personinntekt "Personinntekt â€“ Komplett guide til personinntekt i norsk regnskap").
+* **Personinntekt**: Overskuddet beskattes som [personinntekt](/blogs/regnskap/personinntekt "Personinntekt “ Komplett guide til personinntekt i norsk regnskap").
 * **MVA-registrering** ved omsetning >Â 50Â 000Â kr: se [MVA-plikt](/blogs/regnskap/hva-er-avgiftsplikt-mva "Hva er Avgiftsplikt (MVA)? Komplett Guide til Merverdiavgift i Norge").
 * Levering av **nÃ¦ringsoppgave** via [skattemelding for nÃ¦ringsdrivende](/blogs/regnskap/hva-er-naeringsoppgave "Hva er NÃ¦ringsoppgave? Komplett Guide til NÃ¦ringsoppgaven i Norge").
 
@@ -71,3 +71,5 @@ Se vÃ¥r [Hva er et Enkeltpersonforetak?](/blogs/regnskap/hva-er-enkeltpersonfo
 * [Starte AS](/blogs/regnskap/starte-as "Starte AS: Steg-for-steg guide for Ã¥ registrere aksjeselskap (AS)")
 * [Organisasjonsform](/blogs/regnskap/organisasjonsform "Organisasjonsform: Oversikt over selskapsformer i Norge")
 * [MVA-plikt](/blogs/regnskap/hva-er-avgiftsplikt-mva "Hva er Avgiftsplikt (MVA)? Komplett Guide til Merverdiavgift i Norge")
+
+

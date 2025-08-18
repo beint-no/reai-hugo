@@ -53,4 +53,7 @@ En **firmaattest** er et offisielt dokument utstedt av [BrÃ¸nnÃ¸ysundregistr
 * Se ogsÃ¥ [Hva er en Faktura?](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav").
 * Les mer om [Organisasjonsnummer](/blogs/regnskap/hva-er-virksomhetsnummer "Hva er et Virksomhetsnummer?").
 * LÃ¦r om [Foretaksregisteret](/blogs/regnskap/ansvarlig-selskap "Hva er Ansvarlig Selskap?").
-* Les mer om [Skatteattest](/blogs/regnskap/skatteattest "Skatteattest â€“ Hva er en skatteattest? En Komplett Guide").
+* Les mer om [Skatteattest](/blogs/regnskap/skatteattest "Skatteattest “ Hva er en skatteattest? En Komplett Guide").
+
+
+

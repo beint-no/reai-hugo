@@ -268,3 +268,6 @@ For mer informasjon om [delt ansvar](/blogs/regnskap/ansvarlig-selskap-delt-ansv
 ---
 
 For mer om selskapsformer, se [Organisasjonsform](/blogs/regnskap/organisasjonsform "Organisasjonsform: Komplett Guide til Selskapsformer i Norge") og [Selskapsregistrering](/blogs/regnskap/selskapsregistrering "Selskapsregistrering i Norge").
+
+
+

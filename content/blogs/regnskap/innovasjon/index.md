@@ -52,14 +52,16 @@ Det er viktig Ã¥ sikre god [internkontroll](/blogs/regnskap/hva-er-internkontr
 
 Norsk regnskapslov og NRS har klare krav for behandling av FoU:
 
-* Regnskapsloven Â§â€¯5â€‘10 og Â§â€¯5â€‘11 â€“ definisjon og aktivering av immaterielle eiendeler.
-* Norsk Regnskapsstandard NRSÂ 15 â€“ spesifikke regler for innregning og mÃ¥ling av immaterielle eiendeler.
-* Skatteloven Â§â€¯6â€‘1 â€“ skattemessig fradrag for forsknings- og utviklingskostnader.
+* Regnskapsloven Â§â€¯5‘10 og Â§â€¯5‘11 “ definisjon og aktivering av immaterielle eiendeler.
+* Norsk Regnskapsstandard NRSÂ 15 “ spesifikke regler for innregning og mÃ¥ling av immaterielle eiendeler.
+* Skatteloven Â§â€¯6‘1 “ skattemessig fradrag for forsknings- og utviklingskostnader.
 
 Ved rapportering av innovasjonsaktiviteter er det fordelaktig Ã¥ integrere relevante nÃ¸kkeltall og indikatorer i virksomhetens [internkontroll](/blogs/regnskap/hva-er-internkontroll "Hva er Internkontroll? En Komplett Guide til Internkontroll i Norge") og Ã¥rsrapport.
 
 ## Oppsummering
 
-Innovasjon er mer enn et strategisk buzzword â€“ det er en regnskapsmessig realitet. Ved Ã¥ forstÃ¥ kriteriene for aktivering, sikre god internkontroll og fÃ¸lge gjeldende regelverk, kan virksomheter mÃ¥le og rapportere innovasjonsinvesteringer pÃ¥ en riktig og verdiskapende mÃ¥te.
+Innovasjon er mer enn et strategisk buzzword “ det er en regnskapsmessig realitet. Ved Ã¥ forstÃ¥ kriteriene for aktivering, sikre god internkontroll og fÃ¸lge gjeldende regelverk, kan virksomheter mÃ¥le og rapportere innovasjonsinvesteringer pÃ¥ en riktig og verdiskapende mÃ¥te.
 
 *Artikkelen ble sist oppdatert for Ã¥ gi en omfattende oversikt over innovasjon i regnskapssammenheng.*
+
+

@@ -1,6 +1,6 @@
 ﻿---
-title: "Domenenavn i Regnskap â€“ Behandling og Klassifisering"
-meta_title: "Domenenavn i Regnskap â€“ Behandling og Klassifisering"
+title: "Domenenavn i Regnskap “ Behandling og Klassifisering"
+meta_title: "Domenenavn i Regnskap “ Behandling og Klassifisering"
 meta_description: '**Domenenavn** er registrerte internettadresser som bedrifter bruker som unike identifikatorer pÃ¥ nettet, og representerer en viktig **immateriell eiendel** fo...'
 slug: domenenavn
 type: blog
@@ -60,3 +60,6 @@ I notene til Ã¥rsregnskapet mÃ¥ bedriften gi opplysninger om:
 
 For en dypere forstÃ¥else av immaterielle eiendeler, se ogsÃ¥ [Hva er Imaterielle Eiendeler?](/blogs/regnskap/hva-er-imaterielle-eiendeler "Hva er Imaterielle Eiendeler? Komplett Guide til Immaterielle Verdier i Regnskap").
 For kontekst i balansefÃ¸ring, se [Hva er Anleggsmidler?](/blogs/regnskap/hva-er-anleggsmidler "Hva er Anleggsmidler? Komplett Guide til Faste Eiendeler i Regnskap").
+
+
+

@@ -268,3 +268,5 @@ Klimarapportering vil bli stadig mer integrert med finansiell rapportering:
 GHG-protokollen representerer et paradigmeskifte i hvordan bedrifter mÃ¥ler og rapporterer sin miljÃ¸pÃ¥virkning. For norske bedrifter er det essensielt Ã¥ etablere robuste systemer for klimarapportering som bÃ¥de oppfyller regulatoriske krav og stÃ¸tter strategiske beslutninger for bÃ¦rekraftig verdiskaping.
 
 Implementering av GHG-protokollen krever samme grad av systematikk og nÃ¸yaktighet som tradisjonell [regnskapsfÃ¸ring](/blogs/regnskap/hva-er-bokforing "Hva er BokfÃ¸ring? Komplett Guide til RegnskapsfÃ¸ring og BokfÃ¸ringsregler"), men Ã¥pner samtidig for nye muligheter til Ã¥ skape verdi gjennom bÃ¦rekraftig forretningsutvikling.
+
+

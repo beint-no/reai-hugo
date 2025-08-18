@@ -68,3 +68,5 @@ For Ã¥ sikre lesbarhet og gjenkjennelighet anbefales det Ã¥ fÃ¸lge disse r
 * [Nummereringsprinsipper i noter](/blogs/regnskap/noter "Noter - Komplett Guide til Noter i Regnskap")
 * [Avslutningsbalanse](/blogs/regnskap/hva-er-avslutningsbalanse "Hva er Avslutningsbalanse? Komplett Guide til Ã…rsavslutning")
 * [Dobbel bokfÃ¸ring](/blogs/regnskap/hva-er-dobbel-bokforing "Hva er Dobbel BokfÃ¸ring? Komplett Guide til Dobbelt BokfÃ¸ringssystem")
+
+

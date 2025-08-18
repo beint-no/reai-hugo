@@ -222,3 +222,6 @@ For Ã¥ forstÃ¥ aksjonÃ¦rlÃ¥n til AS fullt ut, bÃ¸r du ogsÃ¥ sette de
 - **[Regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide")** - RegnskapsfÃ¸ring av lÃ¥n og renter
 
 AksjonÃ¦rlÃ¥n til AS kan vÃ¦re en effektiv finansieringsform, men krever nÃ¸ye planlegging, korrekt dokumentasjon og oppfÃ¸lging for Ã¥ sikre bÃ¥de skattemessig og juridisk korrekt behandling.
+
+
+

@@ -59,13 +59,15 @@ Nedenfor er en forenklet tidslinje som viser viktige milepÃ¦ler i planlegginge
 
 | **Tidspunkt**         | **Aktivitet**                        |
 |-----------------------|--------------------------------------|
-| Januar â€“ mars         | Oppdater sjekklister og rutiner      |
-| April â€“ juni          | HalvÃ¥rig [avstemming](/blogs/regnskap/hva-er-avstemming "Hva er Avstemming? Viktige Metoder og Eksempler")       |
-| Juli â€“ september      | Revisjon av periodiseringsposter     |
-| Oktober â€“ november    | Gjennomgang av [Ã¥rsoppgave](/blogs/regnskap/hva-er-aarsoppgave "Hva er Ã…rsoppgave? Guide til Skjemaer og Frister") |
+| Januar “ mars         | Oppdater sjekklister og rutiner      |
+| April “ juni          | HalvÃ¥rig [avstemming](/blogs/regnskap/hva-er-avstemming "Hva er Avstemming? Viktige Metoder og Eksempler")       |
+| Juli “ september      | Revisjon av periodiseringsposter     |
+| Oktober “ november    | Gjennomgang av [Ã¥rsoppgave](/blogs/regnskap/hva-er-aarsoppgave "Hva er Ã…rsoppgave? Guide til Skjemaer og Frister") |
 | Desember              | Forberedende aktiviteter for Ã¥rsavslutning |
 | Januar (neste Ã¥r)     | FullfÃ¸ring av Ã¥rsavslutning uten skippertak  |
 
 ## Sammendrag
 
 Et godt planlagt regnskapsÃ¥r gir mer tid til kvalitetskontroll, reduserer stress og minimerer risikoen for kostbare feil. Ved Ã¥ forstÃ¥ fenomenet **skippertak** og implementere effektive planleggingsrutiner, kan virksomheter sikre en jevn og kontrollert Ã¥rsavslutning.
+
+

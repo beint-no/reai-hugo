@@ -54,3 +54,6 @@ Aksjeklasser gir fleksibilitet for selskaper til Ã¥:
 - **[Aksjeloven](/blogs/regnskap/hva-er-aksjeloven "Hva er Aksjeloven? Regler for Aksjeselskaper i Norge")** - Loven som regulerer aksjeselskaper
 - **[Aksjeselskap (AS)](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap? Komplett Guide til Selskapsformen")** - Selskapsformen som kan ha aksjeklasser
 - **[Aksjekapital](/blogs/regnskap/hva-er-aksjekapital "Hva er Aksjekapital? Krav og Forklaring")** - Den totale verdien av alle aksjer i selskapet
+
+
+

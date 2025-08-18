@@ -68,3 +68,5 @@ NÃ¥verdi brukes i flere sammenhenger i regnskap og finans:
 - [Diskontering](/blogs/regnskap/hva-er-diskontering "Hva er Diskontering? Komplett Guide til NÃ¥verdi og Diskonterte KontantstrÃ¸mmer")
 - [NPV](/blogs/regnskap/hva-er-npv "Hva er NPV? Netto NÃ¥verdi Analyse og Beregning")
 - [Internrente](/blogs/regnskap/internrente "Internrente (IRR) Forklaring og Beregning i Regnskap")
+
+

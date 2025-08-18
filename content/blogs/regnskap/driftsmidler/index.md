@@ -48,3 +48,6 @@ For mer informasjon, se vÃ¥re relaterte artikler:
 * [OmlÃ¸psmidler](/blogs/regnskap/hva-er-omlopsmiddel "Hva er OmlÃ¸psmidler? Guide til Kortsiktige Eiendeler")
 * [Anleggsmidler](/blogs/regnskap/hva-er-anleggsmidler "Hva er Anleggsmidler? Guide til Faste Eiendeler")
 * [Eiendeler](/blogs/regnskap/hva-er-eiendel "Hva er Eiendel? Komplett Guide til Eiendeler i Regnskap")
+
+
+

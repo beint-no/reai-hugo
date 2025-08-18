@@ -172,7 +172,7 @@ For fiskeri- og havbruksnÃ¦ringen finnes det spesielle fradragsordninger for �
 | Inntektskategori                 | Fradragssats | Maksimalt fradrag |
 |----------------------------------|--------------|-------------------|
 | **Liten bÃ¥t (<â€¯15â€¯m)**           | 40â€¯%         | 200â€¯000â€¯kr        |
-| **Mellomstor bÃ¥t (15â€“28â€¯m)**     | 30â€¯%         | 300â€¯000â€¯kr        |
+| **Mellomstor bÃ¥t (15“28â€¯m)**     | 30â€¯%         | 300â€¯000â€¯kr        |
 | **Stor bÃ¥t (>â€¯28â€¯m)**            | 20â€¯%         | Ingen Ã¸vre grense |
 
 **Hovedprinsipper for hjemmekontorfradrag:**
@@ -260,3 +260,5 @@ For Ã¥ maksimere fradragene og sikre compliance, bÃ¸r virksomheter fÃ¸lge 
 **Fradrag** i regnskap og skatterett er et komplekst, men viktig omrÃ¥de som krever grundig forstÃ¥else og systematisk hÃ¥ndtering. Ved Ã¥ fÃ¸lge de grunnleggende prinsippene, opprettholde god dokumentasjon og holde seg oppdatert pÃ¥ regelverket, kan virksomheter optimalisere sine skatteposisjoner samtidig som de sikrer compliance med norsk lovgivning.
 
 For virksomheter som Ã¸nsker Ã¥ forbedre sin fradragshÃ¥ndtering, anbefales det Ã¥ investere i moderne regnskapssystemer og eventuelt sÃ¸ke profesjonell rÃ¥dgivning for komplekse situasjoner. Med riktig tilnÃ¦rming kan effektiv fradragshÃ¥ndtering bidra betydelig til virksomhetens lÃ¸nnsomhet og vekst.
+
+

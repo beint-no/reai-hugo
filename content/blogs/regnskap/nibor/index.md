@@ -68,4 +68,6 @@ BoliglÃ¥n med flytende rente er ofte priset som **NIBOR + margin**, slik at en
 * [Hva er effektiv rente?](/blogs/regnskap/hva-er-effektiv-rente "Hva er Effektiv Rente? Beregning og betydning")
 * [Hva er derivater?](/blogs/regnskap/derivater "Hva er Derivater? Introduksjon til finansielle derivater i norsk regnskap")
 * [Hva er internrente?](/blogs/regnskap/internrente "Hva er Internrente? NÃ¥verdi og internrente i investeringsanalyse")
-* [Finansinntekt](/blogs/regnskap/finansinntekt "Finansinntekt â€“ Renter, utbytte og kapitalgevinster i norsk regnskap")
+* [Finansinntekt](/blogs/regnskap/finansinntekt "Finansinntekt “ Renter, utbytte og kapitalgevinster i norsk regnskap")
+
+

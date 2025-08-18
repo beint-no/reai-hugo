@@ -21,7 +21,7 @@ BeregningsmÃ¥ten kan oppsummeres som fÃ¸lger:
 
 | **Element**               | **Beregning**                                                                                      |
 |---------------------------|----------------------------------------------------------------------------------------------------|
-| Betalbar skatt            | Se [Betalbar skatt](/blogs/regnskap/betalbar-skatt "Betalbar skatt â€“ Komplett guide til beregning og hÃ¥ndtering") |
+| Betalbar skatt            | Se [Betalbar skatt](/blogs/regnskap/betalbar-skatt "Betalbar skatt “ Komplett guide til beregning og hÃ¥ndtering") |
 | âˆ’ Forskuddsskatt          | Sum innbetalte forskuddsskatter i perioden                                                         |
 | **= Utlignet skatt**      | SkattebelÃ¸p som fastsettes i skatteoppgjÃ¸ret                                                       |
 
@@ -51,10 +51,12 @@ Kredit: Konto 1920 - Bankinnskudd                    XXX kr
 
 ## Viktige sammenhenger og videre lesning
 
-* [Betalbar skatt](/blogs/regnskap/betalbar-skatt "Betalbar skatt â€“ Komplett guide til beregning og hÃ¥ndtering")
+* [Betalbar skatt](/blogs/regnskap/betalbar-skatt "Betalbar skatt “ Komplett guide til beregning og hÃ¥ndtering")
 * [Konto 2500 - Betalbar skatt, ikke utlignet](/blogs/kontoplan/2500-betalbar-skatt-ikke-utlignet "Konto 2500 - Betalbar skatt, ikke utlignet")
 * [Konto 2510 - Betalbar skatt, utlignet](/blogs/kontoplan/2510-betalbar-skatt-utlignet "Konto 2510 - Betalbar skatt, utlignet")
 * [SkatteoppgjÃ¸r](/blogs/regnskap/skatteoppgjor "SkatteoppgjÃ¸r Guide: Prosess, Tidslinje og Viktige Frister")
 * [Utsatt skatt](/blogs/regnskap/hva-er-utsatt-skatt "Hva er Utsatt Skatt? Beregning og RegnskapsfÃ¸ring")
-* [Restskatt](/blogs/regnskap/restskatt "Restskatt â€“ Hva er restskatt og hvordan beregnes den?")
-* [Midlertidige forskjeller](/blogs/regnskap/midlertidige-forskjeller "Midlertidige forskjeller i regnskap â€“ Forklaring og Eksempler")
+* [Restskatt](/blogs/regnskap/restskatt "Restskatt “ Hva er restskatt og hvordan beregnes den?")
+* [Midlertidige forskjeller](/blogs/regnskap/midlertidige-forskjeller "Midlertidige forskjeller i regnskap “ Forklaring og Eksempler")
+
+

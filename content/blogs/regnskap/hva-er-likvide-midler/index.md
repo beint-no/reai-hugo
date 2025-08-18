@@ -48,3 +48,5 @@ For Ã¥ optimalisere likvide midler anbefales det Ã¥:
 * Strukturere bankinnskudd i ulike kontoer for fleksibilitet og renteoptimalisering.
 * Inkludere kontantekvivalenter i investeringsstrategien for Ã¥ sikre rask omsetning uten vesentlig verdifall.
 * Bruke [likviditetsbudsjett](/blogs/regnskap/likviditetsbudsjett "Hva er Likviditetsbudsjett? Komplett Guide til KontantstrÃ¸mplanlegging") og kontantstrÃ¸manalyse for Ã¥ forutse fremtidige behov.
+
+

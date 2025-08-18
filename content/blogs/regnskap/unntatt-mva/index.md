@@ -35,3 +35,5 @@ Les mer om [MVA-satser og unntak i Norge](/blogs/regnskap/hva-er-moms-mva "Hva e
 * **Dokumentasjon:** Behold avtaler og kontrakter som viser at tjenesten er lovpÃ¥lagt unntatt MVA.
 
 For e-handel til privatpersoner hÃ¥ndtert via VOEC-ordningen, se [Hva er VOEC?](/blogs/regnskap/voec "Hva er VOEC? Komplett guide til VOEC-ordningen").
+
+

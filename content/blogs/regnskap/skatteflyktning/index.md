@@ -24,8 +24,8 @@ En **skatteflyktning** er en person eller et selskap som bytter skattemessig bos
 | Monaco                        | 0 %                | 0 %              |
 | Bahamas                       | 0 %                | 0 %              |
 | De britiske JomfruÃ¸yer        | 0 %                | 0 %              |
-| Sveits                        | 8,5â€¯â€“â€¯21 %         | Varierende       |
-| Irland                        | 12,5 %             | 0â€¯â€“â€¯45 %         |
+| Sveits                        | 8,5â€¯“â€¯21 %         | Varierende       |
+| Irland                        | 12,5 %             | 0â€¯“â€¯45 %         |
 | Norge                         | 22 %               | 22 %             |
 
 ## Fordeler og ulemper
@@ -54,3 +54,5 @@ Videre kan det oppstÃ¥ spÃ¸rsmÃ¥l om dobbeltbeskatning, som reguleres av i
 * **Tjenestepensjon og forsikring:** Skattetekniske fordeler uten bostedsflytting.
 
 Gjennom god **skatteplanlegging** kan man unngÃ¥ behovet for Ã¥ bli skatteflyktning og samtidig optimalisere skatteposisjonen.
+
+

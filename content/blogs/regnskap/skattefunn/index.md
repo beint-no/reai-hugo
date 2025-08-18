@@ -78,3 +78,5 @@ For Ã¥ fÃ¥ godkjent et Skattefunn-prosjekt mÃ¥ du gjennom tre hovedtrinn:
 ## Oppsummering
 
 Skattefunn er et kraftig virkemiddel for Ã¥ redusere kostnaden ved forskning og utvikling. Ved Ã¥ fÃ¸lge en strukturert sÃ¸knadsprosess og dokumentere alle kostnader kan norske bedrifter dra nytte av betydelige **skattefradrag**. Les mer om prosjektstyring i FoU-prosjekter i vÃ¥r guide til [prosjektregnskap](/blogs/regnskap/hva-er-prosjektregnskap "Hva er Prosjektregnskap? Oversikt og Beste Praksis").
+
+

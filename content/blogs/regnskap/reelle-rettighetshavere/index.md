@@ -59,3 +59,5 @@ For Ã¥ dokumentere reelle rettighetshavere mÃ¥ selskapet:
 
 * [Hva er en aksjonÃ¦r?](/blogs/regnskap/hva-er-en-aksjonaer "Hva er en AksjonÃ¦r? En Komplett Guide")
 * [Organisasjonsform](/blogs/regnskap/organisasjonsform "Organisasjonsform: Komplett Guide til Selskapsformer i Norge")
+
+

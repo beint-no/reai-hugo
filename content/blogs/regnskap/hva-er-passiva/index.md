@@ -260,3 +260,5 @@ Passiva er en fundamental del av enhver bedrifts Ã¸konomi og representerer all
 Ved Ã¥ forstÃ¥ og aktivt forvalte passiva-strukturen kan bedrifter styrke sin finansielle posisjon og skape grunnlag for lÃ¸nnsom drift og vekst. Moderne teknologi gjÃ¸r det enklere enn noen gang Ã¥ overvÃ¥ke og optimalisere passivaen, mens endringer i regelverk krever kontinuerlig oppmerksomhet og tilpasning.
 
 For bedrifter som Ã¸nsker Ã¥ forbedre sin passiva-forvaltning, anbefales det Ã¥ implementere systemer for lÃ¸pende overvÃ¥king, utvikle klare retningslinjer for kapitalstruktur og sikre kompetanse pÃ¥ relevante regelverk og beste praksis.
+
+

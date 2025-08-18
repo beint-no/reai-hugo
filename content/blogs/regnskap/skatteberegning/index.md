@@ -55,9 +55,9 @@ Oversikt over hovedtrinn ved beregning av skatt for privatpersoner:
 
 | Trinn | Inntektsintervall (2024) | Trinnskatt |
 |-------|--------------------------|------------|
-| 1     | 190 350 â€“ 267 900 kr     | 1,7Â %      |
-| 2     | 267 900 â€“ 643 800 kr     | 4,0Â %      |
-| 3     | 643 800 â€“ 969 200 kr     | 13,2Â %     |
+| 1     | 190 350 “ 267 900 kr     | 1,7Â %      |
+| 2     | 267 900 “ 643 800 kr     | 4,0Â %      |
+| 3     | 643 800 “ 969 200 kr     | 13,2Â %     |
 | 4     | Over 969 200 kr          | 16,2Â %     |
 
 Se [Hva er Alminnelig Inntekt?](/blogs/regnskap/alminnelig-inntekt "Hva er Alminnelig Inntekt? Beregning av Skattepliktig Inntekt for Personer") og [Hva er Tabelltrekk?](/blogs/regnskap/hva-er-tabelltrekk "Hva er Tabelltrekk? Komplett Guide til Skattetrekk og Trekkberegning").
@@ -74,8 +74,10 @@ Etter beregning av skatt fastsettes **forskuddsskatt**. Se [Hva er Forskuddsskat
 
 Konsekvensene av differanse mellom beregnet og innbetalt skatt fÃ¸rer til **restskatt** eller tilbakebetaling.
 
-Mer om endelig skatt i skatteoppgjÃ¸ret se [Utlignet skatt](/blogs/regnskap/utlignet-skatt "Utlignet skatt â€“ Forklaring av endelig skatteoppgjÃ¸r").
+Mer om endelig skatt i skatteoppgjÃ¸ret se [Utlignet skatt](/blogs/regnskap/utlignet-skatt "Utlignet skatt “ Forklaring av endelig skatteoppgjÃ¸r").
 
 ---
 
 Gjennom en systematisk tilnÃ¦rming til skatteberegning sikres korrekt rapportering og bedre oversikt over skatteforpliktelser.
+
+

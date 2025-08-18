@@ -7,12 +7,12 @@ type: blog
 layout: pages/single
 ---
 
-Samordnet registermelding er en **enhetlig digital rapport** som samler alle krav til lÃ¸nns- og arbeidsforholdrapportering for [arbeidsgivere](/blogs/regnskap/arbeidsgiver "Arbeidsgiver â€“ Roller og Ansvar i Norsk Arbeidsliv og Regnskap") til Ã©n melding. Dette konseptet, ogsÃ¥ kjent som **A-melding** eller del av **[A-ordningen](/blogs/regnskap/hva-er-a-ordningen "Hva er A-ordningen?")**, forenkler rapporteringsprosessen og sikrer bedre datakvalitet mellom sentrale etater som Skatteetaten, NAV og SSB.
+Samordnet registermelding er en **enhetlig digital rapport** som samler alle krav til lÃ¸nns- og arbeidsforholdrapportering for [arbeidsgivere](/blogs/regnskap/arbeidsgiver "Arbeidsgiver “ Roller og Ansvar i Norsk Arbeidsliv og Regnskap") til Ã©n melding. Dette konseptet, ogsÃ¥ kjent som **A-melding** eller del av **[A-ordningen](/blogs/regnskap/hva-er-a-ordningen "Hva er A-ordningen?")**, forenkler rapporteringsprosessen og sikrer bedre datakvalitet mellom sentrale etater som Skatteetaten, NAV og SSB.
 
 
 ![Samordnet registermelding](samordnet-registermelding-image.svg)
 
-*Se ogsÃ¥: [Skjemafobi](/blogs/regnskap/skjemafobi "Skjemafobi â€“ Hvordan overvinne frykt for skjemaer i regnskap").*
+*Se ogsÃ¥: [Skjemafobi](/blogs/regnskap/skjemafobi "Skjemafobi “ Hvordan overvinne frykt for skjemaer i regnskap").*
 
 
 ## Hva er samordnet registermelding?
@@ -79,3 +79,5 @@ Leveranse av samordnet registermelding kan gjÃ¸res gjennom:
 * Opplysningsplikt  
 * Arbeidsgiveravgift  
 * Forskuddstrekk
+
+

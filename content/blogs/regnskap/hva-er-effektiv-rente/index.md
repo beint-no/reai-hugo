@@ -1,13 +1,13 @@
 ﻿---
 title: "Hva er effektiv rente?"
 meta_title: "Hva er effektiv rente?"
-meta_description: '**Effektiv rente** er en type [rente](/blogs/regnskap/rente "Rente â€“ En komplett guide til rente i regnskap") som tar hensyn til renter pÃ¥ renter, gebyrer og...'
+meta_description: '**Effektiv rente** er en type [rente](/blogs/regnskap/rente "Rente “ En komplett guide til rente i regnskap") som tar hensyn til renter pÃ¥ renter, gebyrer og...'
 slug: hva-er-effektiv-rente
 type: blog
 layout: pages/single
 ---
 
-**Effektiv rente** er en type [rente](/blogs/regnskap/rente "Rente â€“ En komplett guide til rente i regnskap") som tar hensyn til renter pÃ¥ renter, gebyrer og betalingsfrekvens, og gir en mer nÃ¸yaktig sammenligning av kostnader ved lÃ¥n eller avkastning pÃ¥ sparing i regnskap.
+**Effektiv rente** er en type [rente](/blogs/regnskap/rente "Rente “ En komplett guide til rente i regnskap") som tar hensyn til renter pÃ¥ renter, gebyrer og betalingsfrekvens, og gir en mer nÃ¸yaktig sammenligning av kostnader ved lÃ¥n eller avkastning pÃ¥ sparing i regnskap.
 
 ![Hva er effektiv rente?](hva-er-effektiv-rente-image.svg)
 
@@ -39,7 +39,7 @@ Der:
 | *i*    | [Nominell rente](/blogs/regnskap/hva-er-nominell-rente "Hva er Nominell rente? Komplett Guide til Definisjon og Beregning av Nominell rente i Regnskap") (Ã¥rsrente) |
 | *n*    | Antall rentetilskrivninger per Ã¥r |
 
-Den nominelle renten (*i*) er ofte basert pÃ¥ referanserenter som **[NIBOR](/blogs/regnskap/nibor "NIBOR â€“ Norsk Interbank Offered Rate: Definisjon, bruk og betydning")**, som er den norske interbank offered rate brukt som referanse for utlÃ¥ns- og innskuddsrenter.
+Den nominelle renten (*i*) er ofte basert pÃ¥ referanserenter som **[NIBOR](/blogs/regnskap/nibor "NIBOR “ Norsk Interbank Offered Rate: Definisjon, bruk og betydning")**, som er den norske interbank offered rate brukt som referanse for utlÃ¥ns- og innskuddsrenter.
 
 ## Praktisk eksempel
 
@@ -63,3 +63,6 @@ I regnskap brukes effektiv rente-metoden ved mÃ¥ling av finansielle instrument
 
 - [Hva er Avkastning?](/blogs/regnskap/hva-er-avkastning "Hva er Avkastning? Komplett Guide til Investeringsavkastning og Beregning")
 - [Hva er en Obligasjon?](/blogs/regnskap/hva-er-obligasjon "Hva er en Obligasjon? Komplett Guide til Obligasjoner i Regnskap")
+
+
+

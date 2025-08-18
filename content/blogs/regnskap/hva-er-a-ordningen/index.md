@@ -9,7 +9,7 @@ layout: pages/single
 
 A-ordningen representerer en av de stÃ¸rste moderniseringene i norsk offentlig forvaltning. Men hva er det egentlig?
 
-Enkelt forklart er **A-ordningen** en **[samordnet registermelding](/blogs/regnskap/samordnet-registermelding "Samordnet registermelding")** og digital mÃ¥te for [arbeidsgivere](/blogs/regnskap/arbeidsgiver "Arbeidsgiver â€“ Roller og Ansvar i Norsk Arbeidsliv og Regnskap") Ã¥ rapportere informasjon om lÃ¸nn og arbeidsforhold pÃ¥. I stedet for Ã¥ sende flere ulike skjemaer til forskjellige etater, rapporterer arbeidsgiveren nÃ¥ alt samlet pÃ¥ ett sted gjennom [a-meldingen](/blogs/regnskap/hva-er-a-melding "Hva er a-melding?").
+Enkelt forklart er **A-ordningen** en **[samordnet registermelding](/blogs/regnskap/samordnet-registermelding "Samordnet registermelding")** og digital mÃ¥te for [arbeidsgivere](/blogs/regnskap/arbeidsgiver "Arbeidsgiver “ Roller og Ansvar i Norsk Arbeidsliv og Regnskap") Ã¥ rapportere informasjon om lÃ¸nn og arbeidsforhold pÃ¥. I stedet for Ã¥ sende flere ulike skjemaer til forskjellige etater, rapporterer arbeidsgiveren nÃ¥ alt samlet pÃ¥ ett sted gjennom [a-meldingen](/blogs/regnskap/hva-er-a-melding "Hva er a-melding?").
 
 Denne ordningen ble innfÃ¸rt i 2015 for Ã¥ gjÃ¸re hverdagen enklere for bedrifter og samtidig gi myndighetene (Skatteetaten, NAV og SSB) raskere og bedre tilgang til korrekte data.
 
@@ -59,3 +59,6 @@ A-ordningen er tett knyttet til bedriftens [regnskaps-](/blogs/regnskap/hva-er-r
 *   [Feriepenger](/blogs/regnskap/hva-er-feriepenger "Hva er Feriepenger i Regnskap? Beregning, RegnskapsfÃ¸ring og Praktiske Eksempler")
 *   Forskuddstrekk
 *   LÃ¸nnssystem
+
+
+

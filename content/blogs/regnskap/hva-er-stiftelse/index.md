@@ -500,3 +500,5 @@ Moderne stiftelser mÃ¥ tilpasse seg et stadig mer complex samfunn med Ã¸kte 
 For de som etablerer eller driver stiftelser, er det avgjÃ¸rende Ã¥ investere i [professional regnskapsfÃ¸ring](/blogs/regnskap/hva-er-bokforing "Hva er BokfÃ¸ring? Grunnleggende Prinsipper for RegnskapsfÃ¸ring"), systematiske [rapporteringsrutiner](/blogs/regnskap/hva-er-arsrapport "Hva er Ã…rsrapport? Komplett Guide til Ã…rsrapportering") og kontinuerlig kompetanseutvikling. Stiftelser som prioriterer transparens, professional forvaltning og fokus pÃ¥ formÃ¥lsoppnÃ¥else, vil vÃ¦re best posisjonert for Ã¥ skape varig samfunnsverdi og opprettholde tillit hos givere og beneficiaries.
 
 Stiftelser er fundamentale byggeklosser i det sivile samfunn, og deres finansielle integritet og operasjonelle excellence er avgjÃ¸rende for Ã¥ opprettholde tilliten som er basis for deres eksistens og virkefelt.
+
+

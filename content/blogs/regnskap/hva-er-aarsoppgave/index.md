@@ -371,7 +371,7 @@ Plikten til Ã¥ levere Ã¥rsoppgave er hjemlet i:
 
 ![Kontrollvirksomhet](kontrollvirksomhet-oversikt.svg)
 
-For en grundig oversikt over revisjon i Norge, se vÃ¥r artikkel [Revisjon](/blogs/regnskap/revisjon "Revisjon â€“ Alt du trenger Ã¥ vite om Revisjon i Norge").
+For en grundig oversikt over revisjon i Norge, se vÃ¥r artikkel [Revisjon](/blogs/regnskap/revisjon "Revisjon “ Alt du trenger Ã¥ vite om Revisjon i Norge").
 
 ### 6.2 Revisjonsplikt og Ekstern Kontroll
 
@@ -744,3 +744,6 @@ Teknologisk utvikling vil fortsette Ã¥ transformere Ã¥rsoppgaveprosessen med
 Virksomheter som investerer i robust teknologi, kompetent personale og systematiske prosesser vil vÃ¦re best posisjonert for Ã¥ mÃ¸te fremtidens utfordringer. [Ã…rsoppgaven](/blogs/regnskap/hva-er-aarsoppgave "Hva er Ã…rsoppgave i Regnskap? Komplett Guide til SkatteoppgjÃ¸r og Ã…rsrapportering") vil forbli en hjÃ¸rnestein i norsk skatte- og regnskapssystem, men mÃ¥ten den utarbeides og leveres pÃ¥ vil utvikle seg kontinuerlig.
 
 Den moderne Ã¥rsoppgaven representerer mer enn kun skatteoverholdelse - den fungerer som en strategisk kommunikasjonskanal hvor virksomheter demonstrerer sin samfunnsansvar, Ã¸konomiske gjennomsiktighet og bidrag til fellesskapet. En vellykket Ã¥rsoppgave bygger ikke bare tillit til skattemyndighetene, men styrker ogsÃ¥ virksomhetens kredibilitet overfor alle interessenter og stÃ¸tter langsiktig verdisskaping.
+
+
+

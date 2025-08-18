@@ -60,3 +60,6 @@ Det mÃ¥nedlige [lÃ¸nnslipp](/blogs/regnskap/hva-er-lonnslipp "Hva er LÃ¸nn
 *   TimelÃ¸nn
 *   Akkordavtale
 *   LÃ¸nn
+
+
+

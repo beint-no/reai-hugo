@@ -39,7 +39,7 @@ Det finnes flere metoder for Ã¥ beregne avskrivninger, hver med sine fordeler 
 
 ![Sammenligning av avskrivningsmetoder](avskrivningsmetoder-sammenligning.svg)
 
-For en detaljert gjennomgang av **lineÃ¦r avskrivning**, se vÃ¥r egen artikkel [LineÃ¦r Avskrivning](/blogs/regnskap/lineaer-avskrivning "LineÃ¦r Avskrivning i Regnskap â€“ Guide til Beregning og Eksempler").
+For en detaljert gjennomgang av **lineÃ¦r avskrivning**, se vÃ¥r egen artikkel [LineÃ¦r Avskrivning](/blogs/regnskap/lineaer-avskrivning "LineÃ¦r Avskrivning i Regnskap “ Guide til Beregning og Eksempler").
 
 ### LineÃ¦r Avskrivning
 
@@ -336,3 +336,6 @@ Korrekt hÃ¥ndtering av avskrivninger er essensielt for Ã¥ gi et **rettvisend
 ## Realisering ved avhending
 
 NÃ¥r eiendeler selges eller avhendes, mÃ¥ den bokfÃ¸rte verdien realiseres, og eventuell gevinst eller tap mÃ¥ resultatfÃ¸res. For detaljer om dette, se [Realisering](/blogs/regnskap/realisering "Realisering i regnskap: Gevinst og tap ved salg av eiendeler").
+
+
+

@@ -62,3 +62,5 @@ Resesjon er en betydelig utfordring for sÃ¥ vel Ã¸konomien som for den enkel
 For en dypere gjennomgang av denne fasen i konjunktursyklusen, se [Resesjon](/blogs/regnskap/resesjon "Hva er Resesjon? Betydning, Ã¥rsaker og regnskapsmessige implikasjoner").
 
 For kombinasjonen av *lav vekst* og *hÃ¸y inflasjon*, se [Hva er Stagflasjon?](/blogs/regnskap/hva-er-stagflasjon "Hva er Stagflasjon? ForstÃ¥ kombinasjonen av inflasjon og Ã¸konomisk stagnasjon").
+
+

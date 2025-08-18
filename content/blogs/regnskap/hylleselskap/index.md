@@ -42,7 +42,7 @@ Prosessen for kjÃ¸p av hylleselskap inkluderer som regel:
 
 | Egenskap               | Nystiftet Selskap        | Hylleselskap                      |
 | :---------------------- | :----------------------- | :-------------------------------- |
-| **Registreringstid**    | 2â€“4 uker                 | **Umiddelbar** oppstart           |
+| **Registreringstid**    | 2“4 uker                 | **Umiddelbar** oppstart           |
 | **Historikk**           | Ren historikk            | Kan ha **ingen eller begrenset** historikk |
 | **Kostnad**             | Lavere (registreringsgebyr) | HÃ¸yere salgspris                  |
 | **Risiko**              | Lav (ingen skjulte forpliktelser) | Risiko for uoppdaget gjeld        |
@@ -50,10 +50,10 @@ Prosessen for kjÃ¸p av hylleselskap inkluderer som regel:
 
 ## Viktige hensyn ved kjÃ¸p
 
-* **GjennomgÃ¥ regnskap og dokumenter nÃ¸ye** â€“ be om bekreftelse pÃ¥ at selskapet er inaktivt.
-* **Bekreft aksjekapitalens status** â€“ sÃ¸rg for at aksjekapitalen er fullt innbetalt og tilgjengelig.
-* **UndersÃ¸k tinglyste panter og kreditorer** â€“ sjekk for pant i eiendeler eller ubetalte skatter.
-* **Bruk profesjonell rÃ¥dgivning** â€“ benytt advokat eller revisor til juridisk og regnskapsmessig kontroll.
+* **GjennomgÃ¥ regnskap og dokumenter nÃ¸ye** “ be om bekreftelse pÃ¥ at selskapet er inaktivt.
+* **Bekreft aksjekapitalens status** “ sÃ¸rg for at aksjekapitalen er fullt innbetalt og tilgjengelig.
+* **UndersÃ¸k tinglyste panter og kreditorer** “ sjekk for pant i eiendeler eller ubetalte skatter.
+* **Bruk profesjonell rÃ¥dgivning** “ benytt advokat eller revisor til juridisk og regnskapsmessig kontroll.
 
 ## Relaterte artikler
 
@@ -61,3 +61,5 @@ Prosessen for kjÃ¸p av hylleselskap inkluderer som regel:
 * Les mer om [due diligence](/blogs/regnskap/due-diligence "Due diligence i Norske OppkjÃ¸p: En Komplett Guide") for prosess og metodikk ved kjÃ¸p av selskaper.
 
 ![Illustrasjon av begrepet hylleselskap](hylleselskap.svg)
+
+

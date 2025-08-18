@@ -7,9 +7,9 @@ type: blog
 layout: pages/single
 ---
 
-**Alminnelig inntekt** er grunnlaget for Ã¥ beregne skatt (22â€¯%) for norske selskaper og [personlig nÃ¦ringsdrivende](/blogs/regnskap/naeringsinntekt "NÃ¦ringsinntekt â€“ Komplett guide til nÃ¦ringsinntekt for selvstendig nÃ¦ringsdrivende"). ForstÃ¥elsen av alminnelig inntekt er avgjÃ¸rende for korrekt rapportering til Skatteetaten og optimal skatteplanlegging.
+**Alminnelig inntekt** er grunnlaget for Ã¥ beregne skatt (22â€¯%) for norske selskaper og [personlig nÃ¦ringsdrivende](/blogs/regnskap/naeringsinntekt "NÃ¦ringsinntekt “ Komplett guide til nÃ¦ringsinntekt for selvstendig nÃ¦ringsdrivende"). ForstÃ¥elsen av alminnelig inntekt er avgjÃ¸rende for korrekt rapportering til Skatteetaten og optimal skatteplanlegging.
  
-Det inkluderer **kapitalinntekter**, som du kan lese mer om i [Kapitalinntekt](/blogs/regnskap/kapitalinntekt "Kapitalinntekt â€“ InnfÃ¸ring i renter, utbytte, leieinntekter og kapitalgevinster i norsk regnskap").
+Det inkluderer **kapitalinntekter**, som du kan lese mer om i [Kapitalinntekt](/blogs/regnskap/kapitalinntekt "Kapitalinntekt “ InnfÃ¸ring i renter, utbytte, leieinntekter og kapitalgevinster i norsk regnskap").
 
 ![Alminnelig inntekt Oversikt](alminnelig-inntekt-oversikt.svg)
 
@@ -23,7 +23,7 @@ Alminnelig inntekt defineres som det netto skattegrunnlaget som legges til grunn
 
 ## Juridisk grunnlag
 
-Definisjonen av alminnelig inntekt finnes i skatteloven Â§Â 5â€‘2 og bokfÃ¸ringsloven Â§Â 4â€‘1, som fastsetter hvordan inntekter og kostnader skal periodiseres og dokumenteres.
+Definisjonen av alminnelig inntekt finnes i skatteloven Â§Â 5‘2 og bokfÃ¸ringsloven Â§Â 4‘1, som fastsetter hvordan inntekter og kostnader skal periodiseres og dokumenteres.
 
 ## Hvem omfattes?
 
@@ -36,7 +36,7 @@ Alminnelig inntekt gjelder for ulike selskapsformer:
 | [Ansvarlig selskap (ANS/DA)](/blogs/regnskap/ansvarlig-selskap "Ansvarlig Selskap (ANS): Komplett Guide til Norsk Regnskap og Ansvarsstruktur") | Skattesats etter deltakernes andel av alminnelig inntekt        |
 
 Se ogsÃ¥ [Hva er et aksjeselskap?](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap?") og [Hva er Enkeltpersonforetak?](/blogs/regnskap/hva-er-enkeltpersonforetak "Hva er Enkeltpersonforetak?") for mer om selskapsformer.
-For en fullstendig oversikt over **firmaskatt**, se [Firmaskatt](/blogs/regnskap/firmaskatt "Firmaskatt â€“ Komplett guide til skatteregler for selskaper").
+For en fullstendig oversikt over **firmaskatt**, se [Firmaskatt](/blogs/regnskap/firmaskatt "Firmaskatt “ Komplett guide til skatteregler for selskaper").
 
 ## Beregning av alminnelig inntekt
 
@@ -75,7 +75,7 @@ Satsen for alminnelig inntekt er **22â€¯%** (per 2024). Noen viktige unntak:
 
 ## Betalbar skatt
 
-Les mer om hvordan **betalbar skatt** fastsettes og rapporteres i [Betalbar skatt](/blogs/regnskap/betalbar-skatt "Betalbar skatt â€“ Komplett guide til beregning og hÃ¥ndtering").
+Les mer om hvordan **betalbar skatt** fastsettes og rapporteres i [Betalbar skatt](/blogs/regnskap/betalbar-skatt "Betalbar skatt “ Komplett guide til beregning og hÃ¥ndtering").
 
 ## Ofte stilte spÃ¸rsmÃ¥l
 
@@ -98,5 +98,8 @@ Utbytte og gevinst fra datterselskaper kan vÃ¦re delvis fritatt. Se [Hva er fr
 * [Hva er et aksjeselskap?](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap?")
 * [Hva er Enkeltpersonforetak?](/blogs/regnskap/hva-er-enkeltpersonforetak "Hva er Enkeltpersonforetak?")
 * [Hva er fritaksmetoden?](/blogs/regnskap/hva-er-fritaksmetoden "Hva er Fritaksmetoden? Komplett guide til skattefritak for utbytte")
-* [Betalbar skatt](/blogs/regnskap/betalbar-skatt "Betalbar skatt â€“ Komplett guide til beregning og hÃ¥ndtering")
-* [Firmaskatt](/blogs/regnskap/firmaskatt "Firmaskatt â€“ Komplett guide til skatteregler for selskaper")
+* [Betalbar skatt](/blogs/regnskap/betalbar-skatt "Betalbar skatt “ Komplett guide til beregning og hÃ¥ndtering")
+* [Firmaskatt](/blogs/regnskap/firmaskatt "Firmaskatt “ Komplett guide til skatteregler for selskaper")
+
+
+

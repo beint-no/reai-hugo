@@ -27,20 +27,20 @@ I henhold til **[bokfÃ¸ringsloven](/blogs/regnskap/hva-er-bokforingsloven "Hva
 
 Alle regninger mÃ¥ som et minimum inneholde fÃ¸lgende opplysninger:
 
-* **Dato for utstedelse** â€“ NÃ¥r regningen er opprettet.
-* **Forfallsdato** â€“ Siste dato for betaling av kravet.
-* **BelÃ¸p** â€“ TotalbelÃ¸p inkludert merverdiavgift.
-* **Beskrivelse** â€“ Hva kravet gjelder (vare eller tjeneste).
-* **Partene** â€“ Navn og organisasjonsnummer pÃ¥ selger og kjÃ¸per.
-* **MVA-spesifikasjon** â€“ Merverdiavgift spesifisert i samsvar med loven.
+* **Dato for utstedelse** “ NÃ¥r regningen er opprettet.
+* **Forfallsdato** “ Siste dato for betaling av kravet.
+* **BelÃ¸p** “ TotalbelÃ¸p inkludert merverdiavgift.
+* **Beskrivelse** “ Hva kravet gjelder (vare eller tjeneste).
+* **Partene** “ Navn og organisasjonsnummer pÃ¥ selger og kjÃ¸per.
+* **MVA-spesifikasjon** “ Merverdiavgift spesifisert i samsvar med loven.
 
 ## Regning vs Faktura vs Kvittering
 
 Det er viktig Ã¥ forstÃ¥ forskjellen mellom **regning**, **[faktura](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav")** og **[kvittering](/blogs/regnskap/kvittering "Hva er Kvittering? En Guide til Kvitteringskrav i Norsk Regnskap")**:
 
-* **Regning** â€“ Et betalingskrav til kjÃ¸per, som dokumenterer at det er en ubetalt fordring. For reisekostnader benyttes [Reiseregning](/blogs/regnskap/reiseregning "Reiseregning - Guide til reiseregninger i Norsk Regnskap") for dokumentasjon av reiseutlegg.
-* **Faktura** â€“ En formell regning med spesifikke lovkrav til opplysninger og utforming.
-* **Kvittering** â€“ Bekreftelse pÃ¥ at betaling er mottatt.
+* **Regning** “ Et betalingskrav til kjÃ¸per, som dokumenterer at det er en ubetalt fordring. For reisekostnader benyttes [Reiseregning](/blogs/regnskap/reiseregning "Reiseregning - Guide til reiseregninger i Norsk Regnskap") for dokumentasjon av reiseutlegg.
+* **Faktura** “ En formell regning med spesifikke lovkrav til opplysninger og utforming.
+* **Kvittering** “ Bekreftelse pÃ¥ at betaling er mottatt.
 
 ## Oppbevaring av regninger
 
@@ -48,11 +48,13 @@ Regninger skal oppbevares i minst 5 Ã¥r i henhold til **[Oppbevaring av regnsk
 
 ## Beste praksis for hÃ¥ndtering av regninger
 
-* **Digitaliser regninger umiddelbart** â€“ Skann eller lagre elektroniske versjoner for Ã¥ sikre lesbarhet.
-* **Bruk standardiserte maler** â€“ SÃ¸rg for at alle krav inneholder nÃ¸dvendige opplysninger.
-* **Automatiser purring** â€“ Systemer for automatiske purringer bidrar til bedre likviditetsstyring.
-* **Link regninger til prosjekter og kunder** â€“ Gir god oversikt og gjÃ¸r rapportering enklere.
+* **Digitaliser regninger umiddelbart** “ Skann eller lagre elektroniske versjoner for Ã¥ sikre lesbarhet.
+* **Bruk standardiserte maler** “ SÃ¸rg for at alle krav inneholder nÃ¸dvendige opplysninger.
+* **Automatiser purring** “ Systemer for automatiske purringer bidrar til bedre likviditetsstyring.
+* **Link regninger til prosjekter og kunder** “ Gir god oversikt og gjÃ¸r rapportering enklere.
 
 ## Konklusjon
 
 En **god forstÃ¥else av regninger** og deres krav er essensielt for korrekt regnskapsfÃ¸ring og likviditetsstyring. Ved Ã¥ fÃ¸lge lovpÃ¥lagte krav og beste praksis kan virksomheter sikre at fordringer dokumenteres og fÃ¸lges opp effektivt.
+
+

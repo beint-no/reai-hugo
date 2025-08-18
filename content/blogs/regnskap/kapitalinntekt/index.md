@@ -25,8 +25,8 @@ Kapitalinntekt omfatter inntekter fra:
 | Element                     | RegnskapsfÃ¸ring                                                     |
 |-----------------------------|---------------------------------------------------------------------|
 | Inntektstidspunkt           | Opptjeningstidspunkt i henhold til kontrakt eller transaksjon       |
-| BokfÃ¸ringskonto             | Vanligvis konto **80X0â€“82X0** i kontoklasse 8 (Finansinntekter)      |
-| Skattemessig behandling     | Inntekter inngÃ¥r i alminnelig inntekt; se [Alminnelig inntekt](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt â€“ Komplett guide til skattemessig resultat og beregning") |
+| BokfÃ¸ringskonto             | Vanligvis konto **80X0“82X0** i kontoklasse 8 (Finansinntekter)      |
+| Skattemessig behandling     | Inntekter inngÃ¥r i alminnelig inntekt; se [Alminnelig inntekt](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt “ Komplett guide til skattemessig resultat og beregning") |
 
 ## Skatteregler for kapitalinntekt
 
@@ -50,14 +50,16 @@ Kapitalinntekt omfatter inntekter fra:
 
 ### Hva er forskjellen mellom kapitalinntekt og finansinntekt?
 
-Se [Finansinntekt](/blogs/regnskap/finansinntekt "Finansinntekt â€“ Komplett guide til renter, utbytte og kapitalgevinster i norsk regnskap") for detaljer om finansielle inntekter fra verdipapirer.
+Se [Finansinntekt](/blogs/regnskap/finansinntekt "Finansinntekt “ Komplett guide til renter, utbytte og kapitalgevinster i norsk regnskap") for detaljer om finansielle inntekter fra verdipapirer.
 
 ### Hvordan pÃ¥virker kapitalinntekt skattegrunnlaget?
 
-Kapitalinntekter inngÃ¥r i [alminnelig inntekt](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt â€“ Komplett guide til skattemessig resultat og beregning") som danner grunnlag for beregning av skatt.
+Kapitalinntekter inngÃ¥r i [alminnelig inntekt](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt “ Komplett guide til skattemessig resultat og beregning") som danner grunnlag for beregning av skatt.
 
 ## Videre lesning
 
 * [Hva er kapitalgevinst?](/blogs/regnskap/hva-er-kapitalgevinst "Hva er Kapitalgevinst? Guide til gevinst ved salg av eiendeler")
 * [Hva er yield?](/blogs/regnskap/hva-er-yield "Hva er Yield? Avkastning pÃ¥ investeringer forklart")
 * [Hva er skatt?](/blogs/regnskap/hva-er-skatt "Hva er Skatt? Oversikt over skatteregler for privatpersoner og foretak")
+
+

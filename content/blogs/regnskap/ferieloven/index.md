@@ -50,7 +50,7 @@ Se [Hva er Feriepenger?](/blogs/regnskap/hva-er-feriepenger "Feriepenger i Regns
 * **Ferie ved opphÃ¸r av arbeidsforhold**: Arbeidstaker har rett til Ã¥ fÃ¥ utbetalt opptjente feriepenger ved fratredelse.
 * **Sykdom og permisjon**: Sykedager kan pÃ¥virke feriepengeopptjening.
 * **Internasjonale arbeidstakere**: SpÃ¸rsmÃ¥l om ferie i andre land og koordinering med EÃ˜S-regler.
-* **Tillitsvalgt**: Tillitsvalgte kan forhandle om tilpasninger i ferieplaner og avtaler pÃ¥ vegne av ansatte. Se [Tillitsvalgt](/blogs/regnskap/tillitsvalgt "Tillitsvalgt â€“ Rolle og ansvar i norsk regnskap").
+* **Tillitsvalgt**: Tillitsvalgte kan forhandle om tilpasninger i ferieplaner og avtaler pÃ¥ vegne av ansatte. Se [Tillitsvalgt](/blogs/regnskap/tillitsvalgt "Tillitsvalgt “ Rolle og ansvar i norsk regnskap").
 
 ## Sanksjoner ved brudd
 
@@ -64,3 +64,6 @@ Ferieloven er grunnlaget for ferieavvikling i Norge og pÃ¥virker bÃ¥de arbei
 * Beregne og regnskapsfÃ¸re feriepenger i henhold til loven.
 * ForstÃ¥ **sÃ¦rlige regler** ved fratredelse, sykdom og internasjonalt arbeid.
 * Bruke digitale verktÃ¸y og gode rutiner for dokumentasjon.
+
+
+

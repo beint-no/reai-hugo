@@ -81,3 +81,6 @@ Ved **aktivering** er det viktig Ã¥ unngÃ¥ vanlige feil:
 ## 9. Realisering ved avhending
 
 For informasjon om hvordan eiendeler realiseres ved salg eller avhending, se [Realisering](/blogs/regnskap/realisering "Realisering i regnskap: Gevinst og tap ved salg av eiendeler").
+
+
+

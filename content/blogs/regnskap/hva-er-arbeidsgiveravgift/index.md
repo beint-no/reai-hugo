@@ -265,3 +265,6 @@ Ved Ã¥ fÃ¸lge beste praksis og holde seg oppdatert pÃ¥ regelverksendringer
 * [Arbeidsforholdstype](/blogs/regnskap/hva-er-arbeidsforholdstype "Hva er arbeidsforholdstype?") - Juridiske rammer for arbeidsforhold og avgiftskonsekvenser
 * [Altinn](/blogs/regnskap/hva-er-altinn "Hva er Altinn?") - Digital rapporteringsplattform
 * [Regnskap](/blogs/regnskap/hva-er-regnskap "Hva er regnskap?") - Regnskapsmessig behandling av lÃ¸nnskostnader
+
+
+

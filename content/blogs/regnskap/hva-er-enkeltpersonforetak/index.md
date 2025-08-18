@@ -87,7 +87,7 @@ Enkeltpersonforetaket har en svÃ¦rt enkel organisasjonsstruktur:
 * Fleksibel drift tilpasset eierens Ã¸nsker
 
 #### Enkel Skattebehandling
-* **[Personinntekt](/blogs/regnskap/personinntekt "Personinntekt â€“ Komplett guide til personinntekt i norsk regnskap")** - virksomhetens overskudd beskattes som eierens personinntekt
+* **[Personinntekt](/blogs/regnskap/personinntekt "Personinntekt “ Komplett guide til personinntekt i norsk regnskap")** - virksomhetens overskudd beskattes som eierens personinntekt
 * Ingen dobbeltbeskatning som i aksjeselskaper
 * Enklere [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide") og rapportering
 * Mulighet for enkelt [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide") hvis omsetningen er under visse grenser
@@ -266,3 +266,5 @@ NÃ¸kkelen til suksess med enkeltpersonforetak ligger i Ã¥:
 * **Vurdere overgang** til andre selskapsformer nÃ¥r virksomheten vokser
 
 For mange er enkeltpersonforetaket det naturlige fÃ¸rste steget pÃ¥ veien mot Ã¥ bygge en suksessfull virksomhet.
+
+

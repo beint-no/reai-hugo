@@ -58,3 +58,5 @@ Ligningsverdi pÃ¥virker bÃ¥de **formueskatt** og **skattemelding**:
 * [Hva er Formuesverdi?](/blogs/regnskap/hva-er-formuesverdi "Hva er Formuesverdi? Definisjon, Beregningsmetoder og Eksempler")
 * [Formueskatt](/blogs/regnskap/hva-er-formueskatt "Formueskatt - Komplett Guide til Beregning, Satser og Regelverk i Norge")
 * [Skattemelding](/blogs/regnskap/skattemelding "Hva er Skattemelding? Guide til Innsending av Skattemelding i Norge")
+
+

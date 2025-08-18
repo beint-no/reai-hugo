@@ -28,10 +28,10 @@ Rettsgebyrer reguleres av **lov om rettsgebyr**, ofte kalt _rettsgebyrloven_, so
 
 Rettsgebyrer kan deles inn i flere kategorier avhengig av hvilken prosess som igangsettes:
 
-* **Sivil sak (tingrett)** â€“ gebyr for Ã¥ reise sak og behandle tvist i tingretten
-* **Ankesak (lagmannsrett)** â€“ gebyr for Ã¥ anke dom til lagmannsretten
-* **Tvangsfullbyrdelse** â€“ gebyr for Ã¥ begjÃ¦re utleggsforretning og tvangsfullbyrdelse
-* **Registrering** â€“ gebyr for tinglysing eller registrering av avgjÃ¸relser og dommer
+* **Sivil sak (tingrett)** “ gebyr for Ã¥ reise sak og behandle tvist i tingretten
+* **Ankesak (lagmannsrett)** “ gebyr for Ã¥ anke dom til lagmannsretten
+* **Tvangsfullbyrdelse** “ gebyr for Ã¥ begjÃ¦re utleggsforretning og tvangsfullbyrdelse
+* **Registrering** “ gebyr for tinglysing eller registrering av avgjÃ¸relser og dommer
 
 ## Beregning av Rettsgebyr
 
@@ -39,7 +39,7 @@ Beregning av rettsgebyr avhenger av kravets stÃ¸rrelse og sakstype. Nedenfor v
 
 | Kostnadskomponent                                             | BelÃ¸p                                                |
 |---------------------------------------------------------------|------------------------------------------------------|
-| 2â€¯% av kravets belÃ¸p (min. 860Â kr, maks. 48Â 000Â kr) â€“ ved krav pÃ¥ 100Â 000Â kr | 2Â 000Â kr                                           |
+| 2â€¯% av kravets belÃ¸p (min. 860Â kr, maks. 48Â 000Â kr) “ ved krav pÃ¥ 100Â 000Â kr | 2Â 000Â kr                                           |
 
 ## RegnskapsfÃ¸ring av Rettsgebyr
 
@@ -59,3 +59,5 @@ For informasjon om relevante kontoer i Norsk Standard Kontoplan, se [Konto 3920 
 * **Informer regnskapsavdelingen:** SÃ¸rg for at korrekte kontoer er tilgjengelige  
 * **Vurder alternativ tvistelÃ¸sning:** For Ã¥ redusere gebyrkostnader kan mekling eller forlik vÃ¦re gunstig  
 * **Dokumenter utgifter:** Ta vare pÃ¥ kvitteringer og domskopier som bekreftelse pÃ¥ betalte gebyrer
+
+

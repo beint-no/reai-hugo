@@ -10,7 +10,7 @@ layout: pages/single
 En **aksjonÃ¦r**, ogsÃ¥ kjent som en *aksjeeier*, er en person eller en juridisk enhet som eier Ã©n eller flere [aksjer](/blogs/regnskap/hva-er-en-aksje "Hva er en Aksje?") i et [aksjeselskap (AS)](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap (AS)?"). Ved Ã¥ eie aksjer, eier aksjonÃ¦ren en andel av selskapet og har visse rettigheter og plikter. AksjonÃ¦renes rolle er fundamental for styringen og finansieringen av et aksjeselskap.
 
 ForstÃ¥elsen av hva en aksjonÃ¦r er, er kritisk for alle som vurderer Ã¥ [investere](/blogs/regnskap/hva-er-investere "Hva betyr det Ã¥ investere?") i aksjer, starte et eget selskap, eller som jobber med [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap?") og selskapsadministrasjon.
-*Se ogsÃ¥: [Nicolai Tangen](/blogs/regnskap/nicolai-tangen "Nicolai Tangen â€“ Norges Bank Investment Management").*
+*Se ogsÃ¥: [Nicolai Tangen](/blogs/regnskap/nicolai-tangen "Nicolai Tangen “ Norges Bank Investment Management").*
 
 ## Hvordan blir man aksjonÃ¦r?
 
@@ -90,3 +90,5 @@ En aksjonÃ¦r er en eier i et aksjeselskap med rettigheter som gir bÃ¥de Ã¸
 For en komplett oversikt over alle skatteordninger som pÃ¥virker aksjonÃ¦rer, anbefaler vi vÃ¥r [AksjonÃ¦rmodellen - Komplett Guide til Norsk Aksjebeskatning](/blogs/regnskap/aksjonaermodellen-guide "AksjonÃ¦rmodellen - Komplett Guide til Norsk Aksjebeskatning").
 
 *   Se ogsÃ¥: [Reelle Rettighetshavere](/blogs/regnskap/reelle-rettighetshavere "Reelle Rettighetshavere: Ultimate Beneficial Ownership i Norge") for krav til rapportering av ultimate beneficial owners i Norge.
+
+

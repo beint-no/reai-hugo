@@ -77,4 +77,6 @@ I henhold til [BokfÃ¸ringsloven](/blogs/regnskap/hva-er-bokforingsloven "Hva e
 * [Hva er vedtekter for aksjeselskap?](/blogs/regnskap/hva-er-vedtekter-for-aksjeselskap "Hva er Vedtekter for Aksjeselskap?")
 * [Hva er aksjeloven?](/blogs/regnskap/hva-er-aksjeloven "Hva er Aksjeloven? Regler for Aksjeselskaper i Norge")
 * [Oppbevaring av regnskapsmateriale](/blogs/regnskap/oppbevaring-av-regnskapsmateriale "Oppbevaring av regnskapsmateriale")
-* [Noter](/blogs/regnskap/noter "Noter â€“ Guide til regnskapsnoter")
+* [Noter](/blogs/regnskap/noter "Noter “ Guide til regnskapsnoter")
+
+

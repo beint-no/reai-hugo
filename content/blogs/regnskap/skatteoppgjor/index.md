@@ -47,7 +47,7 @@ Prosessen for skatteoppgjÃ¸r bestÃ¥r vanligvis av fÃ¸lgende trinn:
 * [Ã…rsoppgjÃ¸r](/blogs/regnskap/hva-er-aarsavslutning "Hva er Ã…rsavslutning? Ã…rsavslutning Guide")
 * [Forskuddsskatt](/blogs/regnskap/hva-er-forskuddsskatt "Hva er Forskuddsskatt? Beregning og Innbetaling")
 * [Ã…rsregnskap](/blogs/regnskap/hva-er-arsregnskap "Hva er Ã…rsregnskap? Innhold og Krav til Regnskapsrapportering")
-* [Utlignet skatt](/blogs/regnskap/utlignet-skatt "Utlignet skatt â€“ Forklaring av endelig skatteoppgjÃ¸r")
+* [Utlignet skatt](/blogs/regnskap/utlignet-skatt "Utlignet skatt “ Forklaring av endelig skatteoppgjÃ¸r")
 * [TrygdeopgjÃ¸ret](/blogs/regnskap/trygdeopgjoret "TrygdeopgjÃ¸ret: Guide til Ã…rlig OppgjÃ¸r av Trygdeavgift og Ytelser")
 
 ## Hvordan Forberede Seg
@@ -62,3 +62,5 @@ For Ã¥ unngÃ¥ overraskelser ved skatteoppgjÃ¸ret bÃ¸r du:
 ## Konklusjon
 
 Et godt planlagt skatteoppgjÃ¸r bidrar til god likviditet og forutsigbarhet i bÃ¥de personlig Ã¸konomi og bedriftsregnskap. Ved Ã¥ forstÃ¥ prosessen, fristene og dokumentene som inngÃ¥r, kan du sikre en smidig og nÃ¸yaktig skatteavslutning.
+
+

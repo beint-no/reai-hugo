@@ -307,3 +307,6 @@ Fremtiden vil bringe ytterligere digitalisering og automatisering, men grunnprin
 * **Proaktivitet:** Tidlig identifikasjon og hÃ¥ndtering av utfordringer
 
 Ved Ã¥ fÃ¸lge disse prinsippene kan alle aktÃ¸rer bidra til Ã¥ opprettholde og videreutvikle det tillitsbaserte egenmelding-systemet som er sÃ¥ viktig for det norske samfunnet.
+
+
+

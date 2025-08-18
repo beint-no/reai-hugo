@@ -17,7 +17,7 @@ I motsetning til obligatorisk tjenestepensjon, som har krav til minimum innskudd
 
 | Egenskap                             | Obligatorisk Innskuddspensjon (OTP)       | Frivillig Innskuddspensjon                   |
 |:-------------------------------------|:------------------------------------------|:----------------------------------------------|
-| Minimum innskuddssats               | 2% av lÃ¸nn mellom 1-7,1G                  | Valgfri sats, ofte 1â€“10% av lÃ¸nn             |
+| Minimum innskuddssats               | 2% av lÃ¸nn mellom 1-7,1G                  | Valgfri sats, ofte 1“10% av lÃ¸nn             |
 | FormÃ¥l                               | Oppfylle lovkrav                          | Tilleggssparing og konkurransefordel         |
 | Skattebehandling                     | Fradragsberettiget for bedrift            | Fradragsberettiget for bedrift               |
 | Investeringsvalg                     | Begrensede alternativer                   | Fleksible profiler og leverandÃ¸rvalg         |
@@ -56,3 +56,6 @@ Innskuddet fÃ¸res som en **lÃ¸pende kostnad** i resultatregnskapet, og skyld
 * [Egen pensjonskonto](/blogs/regnskap/hva-er-egen-pensjonskonto "Hva er Egen Pensjonskonto? En Guide til Egen Pensjonskonto i Norge")
 * [Pensjonsrapportering](/blogs/regnskap/hva-er-pensjonsrapportering "Hva er Pensjonsrapportering? Komplett Guide til Pensjon i Regnskap")
 * [LÃ¸nnskostnad](/blogs/regnskap/lonnskostnad "LÃ¸nnskostnad - Komplett Guide til Beregning og RegnskapsfÃ¸ring")
+
+
+

@@ -638,4 +638,6 @@ For **arbeidsgivere** er det essensielt Ã¥ investere i moderne lÃ¸nnssysteme
 
 Tabelltrekk-systemet vil fortsette Ã¥ digitaliseres med mÃ¥l om real-time skatteoppgjÃ¸r uten tradisjonelt Ã¥rsoppgjÃ¸r. Integration med AI, blockchain og IoT vil skape et sÃ¸mlÃ¸st Ã¸kosystem hvor skattetrekk justeres automatisk basert pÃ¥ faktisk inntekt og personlige forhold.
 
-Korrekt forstÃ¥else og implementering av tabelltrekk er ikke bare et regnskapsteknisk krav - det er en strategisk kompetanse som pÃ¥virker [kontantstrÃ¸m](/blogs/regnskap/hva-er-kontantstrom "Hva er KontantstrÃ¸m? Analyse og Forvaltning av Bedriftens PengestrÃ¸m"), [arbeidsgiverkostnader](/blogs/regnskap/hva-er-loennskostnad "Hva er LÃ¸nnskostnad? Beregning og RegnskapsfÃ¸ring"), medarbeidertilfredsheten gjennom forutsigbar og korrekt lÃ¸nnsutbetaling, samt [halv skatt](/blogs/regnskap/halv-skatt "Halv skatt â€“ Alt du trenger Ã¥ vite om halv skatt i lÃ¸nn") i ferie- og hÃ¸ytidssesonger.
+Korrekt forstÃ¥else og implementering av tabelltrekk er ikke bare et regnskapsteknisk krav - det er en strategisk kompetanse som pÃ¥virker [kontantstrÃ¸m](/blogs/regnskap/hva-er-kontantstrom "Hva er KontantstrÃ¸m? Analyse og Forvaltning av Bedriftens PengestrÃ¸m"), [arbeidsgiverkostnader](/blogs/regnskap/hva-er-loennskostnad "Hva er LÃ¸nnskostnad? Beregning og RegnskapsfÃ¸ring"), medarbeidertilfredsheten gjennom forutsigbar og korrekt lÃ¸nnsutbetaling, samt [halv skatt](/blogs/regnskap/halv-skatt "Halv skatt “ Alt du trenger Ã¥ vite om halv skatt i lÃ¸nn") i ferie- og hÃ¸ytidssesonger.
+
+

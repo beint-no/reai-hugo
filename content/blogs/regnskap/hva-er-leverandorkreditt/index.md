@@ -254,3 +254,5 @@ LeverandÃ¸rkreditt utvikler seg kontinuerlig pÃ¥virket av teknologiske frems
 * **Konkurranseregulering:** Fokus pÃ¥ rettferdig konkurranse i kredittmarkedet
 
 LeverandÃ¸rkreditt vil fortsette Ã¥ vÃ¦re en sentral del av moderne forretningsdrift, men vil utvikle seg mot mer sofistikerte, teknologidrevne lÃ¸sninger som balanserer effektivitet med risikostyring. Bedrifter som mestrer denne utviklingen vil ha betydelige konkurransefortrinn i fremtidens marked.
+
+

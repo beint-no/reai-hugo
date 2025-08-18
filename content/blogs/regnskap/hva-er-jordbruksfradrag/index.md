@@ -229,7 +229,7 @@ Reglene for jordbruksfradrag varierer avhengig av hvilken selskapsform landbruks
 I [enkeltpersonforetak](/blogs/regnskap/hva-er-enkeltpersonforetak "Hva er Enkeltpersonforetak? Komplett Guide til ENK og Personlig NÃ¦ringsdrift") gjelder standardreglene for jordbruksfradrag:
 
 * **Fullt fradrag** etter ordinÃ¦re satser
-* **Direkte fradrag** i [personinntekt](/blogs/regnskap/personinntekt "Personinntekt â€“ Komplett guide til personinntekt i norsk regnskap")
+* **Direkte fradrag** i [personinntekt](/blogs/regnskap/personinntekt "Personinntekt “ Komplett guide til personinntekt i norsk regnskap")
 * **Kan kombineres** med andre personfradrag
 
 ### Aksjeselskap
@@ -441,3 +441,5 @@ For informasjon om hvordan ektefeller kan fordele fradrag og inntekter i landbru
 Landbruksforetak bÃ¸r etablere gode rutiner for hÃ¥ndtering av jordbruksfradeget, holde seg oppdatert pÃ¥ regelverksendringer og sÃ¸ke faglig rÃ¥dgivning ved behov. Med riktig tilnÃ¦rming kan jordbruksfradeget bidra betydelig til Ã¥ forbedre lÃ¸nnsomheten i landbruksvirksomheten.
 
 Den fortsatte digitaliseringen av landbrukssektoren vil gjÃ¸re administrasjonen av jordbruksfradeget mer effektiv, samtidig som det stiller nye krav til kompetanse og systemlÃ¸sninger. Fremtidens landbruksforetak mÃ¥ vÃ¦re forberedt pÃ¥ Ã¥ tilpasse seg disse endringene for Ã¥ kunne utnytte alle tilgjengelige fordeler.
+
+

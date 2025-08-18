@@ -43,7 +43,7 @@ For [aksjeselskaper](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjesels
 - Representerer eiernes direkte investering
 
 #### 2. Opptjent Egenkapital
-For en grundig gjennomgang av **opptjent egenkapital**, se vÃ¥r egen artikkel [Opptjent egenkapital](/blogs/regnskap/opptjent-egenkapital "Opptjent egenkapital â€“ Guide til tilbakeholdt overskudd og akkumulert resultat").
+For en grundig gjennomgang av **opptjent egenkapital**, se vÃ¥r egen artikkel [Opptjent egenkapital](/blogs/regnskap/opptjent-egenkapital "Opptjent egenkapital “ Guide til tilbakeholdt overskudd og akkumulert resultat").
 
 #### 3. Overkurs
 - BelÃ¸p betalt **utover pÃ¥lydende** ved aksjeemisjoner
@@ -232,7 +232,7 @@ Ved analyse av egenkapital bÃ¸r man se pÃ¥:
 
 ### Egenkapital og Konkursrisiko
 
-For en grundig gjennomgang av akkumulerte tap som ikke er dekket av egenkapital (udekket tap), se artikkelen [Udekket tap](/blogs/regnskap/udekket-tap "Udekket tap â€“ Hva betyr udekket tap i regnskap og hvordan hÃ¥ndtere?").
+For en grundig gjennomgang av akkumulerte tap som ikke er dekket av egenkapital (udekket tap), se artikkelen [Udekket tap](/blogs/regnskap/udekket-tap "Udekket tap “ Hva betyr udekket tap i regnskap og hvordan hÃ¥ndtere?").
 
 #### Negativ Egenkapital
 NÃ¥r gjeld overstiger eiendeler, oppstÃ¥r **negativ egenkapital**:
@@ -313,3 +313,6 @@ For Ã¥ forstÃ¥ egenkapital fullt ut, bÃ¸r du ogsÃ¥ sette deg inn i:
 - **[Regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide")** - Regnskapssystem som viser egenkapital
 
 Egenkapital er et fundamentalt begrep som pÃ¥virker alle aspekter av bedriftsdrift og finansiell planlegging. En solid forstÃ¥else av egenkapital er essensielt for alle som driver eller planlegger Ã¥ drive virksomhet.
+
+
+

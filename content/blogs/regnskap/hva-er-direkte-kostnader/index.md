@@ -12,7 +12,7 @@ layout: pages/single
 For en komplett oversikt over alle kostnadstyper og kostnadskonsepter i regnskap, se ogsÃ¥ [Hva er kostnader?](/blogs/regnskap/hva-er-kostnader "Hva er Kostnader i Regnskap? Komplett Guide til Kostnadstyper og RegnskapsfÃ¸ring").
 Les ogsÃ¥ om [Faste kostnader](/blogs/regnskap/hva-er-faste-kostnader "Hva er Faste kostnader? Definisjon og Eksempler"), [Variable kostnader](/blogs/regnskap/variable-kostnader "Hva er Variable kostnader? Definisjon, Eksempler og RegnskapsfÃ¸ring") og [Indirekte kostnader](/blogs/regnskap/hva-er-indirekte-kostnader "Hva er Indirekte kostnader? Definisjon, Eksempler og RegnskapsfÃ¸ring") for en helhetlig kostnadsforstÃ¥else.
 
-Det er viktig Ã¥ forstÃ¥ forskjellen mellom kostnad og [utgift](/blogs/regnskap/utgift "Utgift â€“ Komplett Guide til Utgifter i Norsk Regnskap"); se vÃ¥r artikkel om utgift.
+Det er viktig Ã¥ forstÃ¥ forskjellen mellom kostnad og [utgift](/blogs/regnskap/utgift "Utgift “ Komplett Guide til Utgifter i Norsk Regnskap"); se vÃ¥r artikkel om utgift.
 
 ![Direkte kostnader](hva-er-direkte-kostnader-image.svg)
 
@@ -53,3 +53,6 @@ Direkte kostnader er sentrale i flere Ã¸konomistyringsmodeller:
 ## Oppsummering
 
 **Direkte kostnader** er kostnader som tydelig knytter seg til produksjon eller levering av varer og tjenester. Ved Ã¥ forstÃ¥ og kontrollere disse kostnadene kan virksomheter oppnÃ¥ mer presise analyser, bedre prisstrategi og optimal ressursbruk.
+
+
+

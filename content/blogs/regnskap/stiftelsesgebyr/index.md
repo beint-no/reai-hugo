@@ -41,3 +41,5 @@ Gebyret anses som en del av selskapets eller stiftelsens **etableringskostnader*
 4. Motta kvittering og registreringsbekreftelse fra BrÃ¸nnÃ¸ysund.
 
 For en detaljert guide pÃ¥ hvordan du starter et AS, se [Starte AS](/blogs/regnskap/starte-as "Starte AS: Steg-for-steg guide til Ã¥ stifte aksjeselskap"). For informasjon om stiftelse av fond eller organisasjoner, se [Hva er Stiftelse?](/blogs/regnskap/hva-er-stiftelse "Hva er Stiftelse? Juridisk Grunnlag og Regnskapsregler").
+
+

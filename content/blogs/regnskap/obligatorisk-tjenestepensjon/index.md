@@ -284,3 +284,5 @@ Obligatorisk tjenestepensjon er en kompleks, men viktig del av norsk arbeidsliv 
 Ved Ã¥ etablere gode rutiner for hÃ¥ndtering av obligatorisk tjenestepensjon sikrer bedrifter bÃ¥de regelverksetterlevelse og en god pensjonsordning for sine ansatte. Dette bidrar til Ã¥ styrke bedriftens attraktivitet som arbeidsgiver og sikrer langsiktig bÃ¦rekraft i personalforvaltningen.
 
 For bedrifter som trenger hjelp med implementering av obligatorisk tjenestepensjon, anbefales det Ã¥ konsultere med [regnskapsfÃ¸rere](/blogs/regnskap/hva-er-en-regnskapsforer "Hva er en RegnskapsfÃ¸rer? Komplett Guide til RegnskapsfÃ¸ring") eller pensjonskonsulenter som kan gi skreddersydde rÃ¥d basert pÃ¥ bedriftens spesifikke situasjon.
+
+

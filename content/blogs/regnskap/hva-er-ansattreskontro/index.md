@@ -151,3 +151,6 @@ Med Ã¸kende digitalisering og automatisering utvikler ansattreskontro seg kont
 Ansattreskontro er et fundamentalt verktÃ¸y i norsk lÃ¸nnsbuchholderi som sikrer korrekt registrering, beregning og rapportering av alle lÃ¸nnsrelaterte transaksjoner. Ved Ã¥ forstÃ¥ hvordan ansattreskontro fungerer, kan bedrifter sikre compliance med norsk lovgivning og opprettholde gode relasjoner med sine ansatte.
 
 For bedrifter som Ã¸nsker Ã¥ optimalisere sin lÃ¸nnsadministrasjon, er det viktig Ã¥ investere i moderne lÃ¸nnssystemer som automatiserer ansattreskontro-prosessene samtidig som de opprettholder full sporbarhet og kontroll over alle transaksjoner.
+
+
+

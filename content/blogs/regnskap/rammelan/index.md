@@ -40,9 +40,9 @@ RammelÃ¥n benyttes ofte for:
 
 | **Kostnadselement** | **Typisk nivÃ¥**                         |
 |---------------------|-----------------------------------------|
-| Rente               | NIBOR + 1â€“3â€¯% margin                    |
-| Etableringsgebyr    | 0â€“10â€¯000â€¯NOK                            |
-| Termingebyr         | 0â€“1â€¯000â€¯NOK per mÃ¥ned                   |
+| Rente               | NIBOR + 1“3â€¯% margin                    |
+| Etableringsgebyr    | 0“10â€¯000â€¯NOK                            |
+| Termingebyr         | 0“1â€¯000â€¯NOK per mÃ¥ned                   |
 
 ## RegnskapsfÃ¸ring av rammelÃ¥n
 
@@ -67,3 +67,5 @@ Diagrammet under viser et eksempel pÃ¥ utnyttet andel av kredittrammen:
 * [Hva er amortisering?](/blogs/regnskap/hva-er-amortisering "Hva er Amortisering? Hvordan nedbetale lÃ¥n over tid")
 
 For mer informasjon om finansiering, se ogsÃ¥ [kapitalkostnad](/blogs/regnskap/kapitalkostnad "Kapitalkostnad - Beregning og implikasjoner for bedrifter").
+
+

@@ -59,3 +59,5 @@ For en mer detaljert oversikt over private ordninger, se [Hva er obligatorisk tj
 * [Hva er tjenestepensjon?](/blogs/regnskap/hva-er-tjenestepensjon "Hva er Tjenestepensjon? Komplett Guide til Bedriftspensjon og RegnskapsfÃ¸ring")
 * [Hva er folketrygden?](/blogs/regnskap/hva-er-folketrygden "Hva er Folketrygden? Komplett Guide til Norges Offentlige Pensjonssystem")
 * [Obligatorisk tjenestepensjon](/blogs/regnskap/obligatorisk-tjenestepensjon "Hva er Obligatorisk tjenestepensjon")
+
+

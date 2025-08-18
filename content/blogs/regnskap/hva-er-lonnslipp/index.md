@@ -308,3 +308,5 @@ Korrekt hÃ¥ndtering av lÃ¸nnslipp er essensielt for:
 * **Effektiv** administrasjon av lÃ¸nns- og personalforhold
 
 Ved Ã¥ fÃ¸lge beste praksis for lÃ¸nnslipp sikrer bedrifter bÃ¥de juridisk compliance og god personaladministrasjon, samtidig som ansatte fÃ¥r den transparens og dokumentasjon de har krav pÃ¥.
+
+

@@ -49,3 +49,5 @@ Overkurs fÃ¸res som egen post under egenkapitalen i balansen og har betydning 
 * [Hva er Aksjekapital?](/blogs/regnskap/hva-er-aksjekapital "Hva er Aksjekapital? Krav og Forklaring")
 * [Hva er Emisjon?](/blogs/regnskap/emisjon "Hva er Emisjon? En komplett guide til kapitalforhÃ¸yelse og aksjeutstedelse")
 * [Hva er Overkursfond?](/blogs/regnskap/hva-er-overkursfond "Hva er Overkursfond? Guide til overkurs ved kapitalforhÃ¸yelse")
+
+

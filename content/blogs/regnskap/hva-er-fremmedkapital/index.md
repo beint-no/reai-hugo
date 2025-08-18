@@ -387,3 +387,5 @@ Fremmedkapital er en fundamental del av bedrifters finansieringsstruktur og spil
 Riktig bruk av fremmedkapital kan **akselerere vekst** og **Ã¸ke avkastning** pÃ¥ egenkapital, men krever nÃ¸ye planlegging og kontinuerlig overvÃ¥king av finansiell risiko. Ved Ã¥ kombinere fremmedkapital med [egenkapital](/blogs/regnskap/hva-er-egenkapital "Hva er Egenkapital? Komplett Guide til Egenkapital i Regnskap") pÃ¥ en optimal mÃ¥te, kan bedrifter oppnÃ¥ sine strategiske mÃ¥l samtidig som de opprettholder finansiell stabilitet.
  
  For en fullstendig oversikt over finansieringsformer, se [Hva er Finansiering?](/blogs/regnskap/hva-er-finansiering "Hva er Finansiering? Komplett Guide til Bedriftsfinansiering og Finansieringsformer").
+
+

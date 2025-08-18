@@ -291,3 +291,6 @@ Moderne anskaffelser krever nye kompetanser:
 * **Dataanalyse** og -tolkning
 
 Anskaffelser er et komplekst fagomrÃ¥de som krever bÃ¥de juridisk, Ã¸konomisk og teknisk kompetanse. For bedrifter som Ã¸nsker Ã¥ optimalisere sine anskaffelsesprosesser, er det viktig Ã¥ ha gode systemer for bÃ¥de innkjÃ¸p og [regnskapsfÃ¸ring](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Komplett Guide til Norsk RegnskapsfÃ¸ring") av anskaffelsene.
+
+
+

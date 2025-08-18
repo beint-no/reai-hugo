@@ -51,7 +51,7 @@ Et styre bestÃ¥r normalt av **3-9 medlemmer**, avhengig av selskapets stÃ¸rr
 | **Fagkompetanse** | Bred kompetanse innen relevante fagomrÃ¥der |
 
 **Styreverv og roller:**
-* [Styreleder](/blogs/regnskap/styreleder "Hva er Styreleder? Styrets Lederrolle i Norske Aksjeselskaper") â€“ Leder styremÃ¸ter og representerer styret eksternt
+* [Styreleder](/blogs/regnskap/styreleder "Hva er Styreleder? Styrets Lederrolle i Norske Aksjeselskaper") “ Leder styremÃ¸ter og representerer styret eksternt
 * **Nestleder:** Fungerer som stedfortreder for styreleder
 * **Styremedlemmer:** Deltar i beslutninger og utÃ¸ver sitt [styreverv](/blogs/regnskap/styreverv "Styreverv: Roller, Ansvar og Fordeler ved Styreverv i Norske Selskaper")
 * **ObservatÃ¸rer:** Kan delta uten stemmerett (f.eks. ansatterepresentanter)
@@ -234,3 +234,5 @@ Et effektivt styre er avgjÃ¸rende for selskapets langsiktige suksess og bÃ¦r
 Et **styre** er det sentrale ledelses- og styringsorganet i et [aksjeselskap (AS)](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap? Komplett Guide til Selskapsformen"), valgt av og ansvarlig overfor aksjonÃ¦rene. Styret fungerer som selskapets Ã¸verste beslutningstaker og har det **overordnede ansvaret** for virksomhetens strategiske retning, risikoforvaltning og overvÃ¥king av daglig ledelse. I regnskapssammenheng spiller styret en kritisk rolle i finansiell rapportering, kontroll og [internkontroll](/blogs/regnskap/hva-er-internkontroll "Hva er Internkontroll? Systemer for Risikoforvaltning og Compliance").
 
 For en oversikt over ulike lederroller og deres ansvar, se ogsÃ¥ artikkelen [Leder](/blogs/regnskap/leder "Leder: Roller og Ansvar i Norske Selskaper").
+
+

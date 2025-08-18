@@ -358,3 +358,5 @@ For bedrifter som vurderer implementering av KID-nummer, er det viktig Ã¥:
 Med riktig implementering og bruk kan KID-nummer vÃ¦re en kraftig driver for digitalisering og effektivisering av betalingsprosesser. Systemet vil fortsette Ã¥ utvikle seg og tilpasse seg nye teknologier og krav, og bedrifter som investerer i KID-nummer i dag posisjonerer seg godt for fremtiden.
 
 For mer informasjon om relaterte emner, se vÃ¥re artikler om [elektronisk fakturering](/blogs/regnskap/hva-er-elektronisk-fakturering "Hva er Elektronisk Fakturering? Komplett Guide til Digitale FakturalÃ¸sninger"), [eFaktura](/blogs/regnskap/hva-er-efaktura "Hva er eFaktura? Komplett Guide til Elektronisk Fakturering i Norge"), og [avstemming](/blogs/regnskap/hva-er-avstemming "Hva er Avstemming? Komplett Guide til Regnskapsavstemming").
+
+

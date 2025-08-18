@@ -50,13 +50,13 @@ For Ã¥ fungere som revisor i Norge mÃ¥ man mÃ¸te krav fastsatt i [Revisorl
 
 Revisjonsprosessen fÃ¸lger gjerne fem hovedtrinn:
 
-1. **Planlegging og risikovurdering** â€“ Fastsette revisjonsstrategi og identifisere vesentlige omrÃ¥der
-2. **Test av internkontroller** â€“ Underbygge vurdering av risikoomrÃ¥der
-3. **Substansielle tester** â€“ Detaljkontroller av transaksjoner og balanseposter
-4. **Konklusjon og rapportutkast** â€“ Samle funn og utarbeide revisjonsberetning
-5. **Revisjonsberetning og oppfÃ¸lging** â€“ Presentere resultat og anbefalinger
+1. **Planlegging og risikovurdering** “ Fastsette revisjonsstrategi og identifisere vesentlige omrÃ¥der
+2. **Test av internkontroller** “ Underbygge vurdering av risikoomrÃ¥der
+3. **Substansielle tester** “ Detaljkontroller av transaksjoner og balanseposter
+4. **Konklusjon og rapportutkast** “ Samle funn og utarbeide revisjonsberetning
+5. **Revisjonsberetning og oppfÃ¸lging** “ Presentere resultat og anbefalinger
 
-For mer om prosessen bak en fullstendig revisjon, se artikkelen om [Revisjon](/blogs/regnskap/revisjon "Revisjon â€“ Alt du trenger Ã¥ vite om Revisjon i Norge").
+For mer om prosessen bak en fullstendig revisjon, se artikkelen om [Revisjon](/blogs/regnskap/revisjon "Revisjon “ Alt du trenger Ã¥ vite om Revisjon i Norge").
 
 ## 5. Typer revisorer
 
@@ -74,8 +74,10 @@ En effektiv revisjon forutsetter tett samarbeid mellom revisor, ledelse og styre
 
 ## 7. Se ogsÃ¥
 
-* [Revisjon](/blogs/regnskap/revisjon "Revisjon â€“ Alt du trenger Ã¥ vite om Revisjon i Norge")
+* [Revisjon](/blogs/regnskap/revisjon "Revisjon “ Alt du trenger Ã¥ vite om Revisjon i Norge")
 * [Revisjonsplikt](/blogs/regnskap/revisjonsplikt "Revisjonsplikt")
 * [Revisjonsberetning](/blogs/regnskap/hva-er-revisjonsberetning "Hva er Revisjonsberetning?")
 * [Revisorloven](/blogs/regnskap/hva-er-revisorloven "Hva er Revisorloven?")
 * [Internkontrollforskriften](/blogs/regnskap/internkontrollforskriften "Internkontrollforskriften")
+
+

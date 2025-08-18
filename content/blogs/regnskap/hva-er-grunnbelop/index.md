@@ -80,7 +80,7 @@ En rekke trygdeytelser beregnes som en andel av grunnbelÃ¸pet:
 
 * **Barnetrygd:** Fast belÃ¸p per barn (ikke knyttet til G)
 * **KontantstÃ¸tte:** Maksimalt 1,0 G for barn 13-23 mÃ¥neder
-* **[Foreldrepenger](/blogs/regnskap/fodselspermisjon "FÃ¸dselspermisjon â€“ Guide til foreldrepenger og regnskapsfÃ¸ring")**: Beregnes av pensjonsgivende inntekt opp til 6 G
+* **[Foreldrepenger](/blogs/regnskap/fodselspermisjon "FÃ¸dselspermisjon “ Guide til foreldrepenger og regnskapsfÃ¸ring")**: Beregnes av pensjonsgivende inntekt opp til 6 G
 * **Sykepenger:** Maksimalt 6 G Ã¥rlig
 * **Arbeidsavklaringspenger:** Maksimalt 66% av tidligere inntekt, begrenset til 6 G
 
@@ -215,3 +215,5 @@ GrunnbelÃ¸pet er en hjÃ¸rnestein i det norske velferds- og skattesystemet so
 For bedrifter er det avgjÃ¸rende Ã¥ forstÃ¥ hvordan grunnbelÃ¸pet pÃ¥virker [lÃ¸nnsadministrasjon](/blogs/regnskap/hva-er-ansattreskontro "Hva er Ansattreskontro? Komplett Guide til LÃ¸nnsreskontro og Personaladministrasjon"), regnskapsfÃ¸ring og budsjettplanlegging. For privatpersoner er kunnskap om grunnbelÃ¸pet viktig for Ã¥ forstÃ¥ rettigheter og plikter i det norske systemet.
 
 Med den kontinuerlige utviklingen av det norske samfunnet vil grunnbelÃ¸pet fortsette Ã¥ vÃ¦re et sentralt verktÃ¸y for Ã¥ sikre rettferdig fordeling og opprettholdelse av kjÃ¸pekraft for alle borgere.
+
+

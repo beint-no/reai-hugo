@@ -268,3 +268,6 @@ Betalingsoppfordring utvikler seg med teknologi og samfunnsendringer:
 Betalingsoppfordring er en balansegang mellom Ã¥ sikre bedriftens likviditet og opprettholde gode kundeforhold. Ved Ã¥ fÃ¸lge juridiske krav, anvende beste praksis og vise forstÃ¥else for kundens situasjon, kan bedrifter oppnÃ¥ effektiv innkreving samtidig som de bevarer sitt omdÃ¸mme og kundebase.
 
 En systematisk og profesjonell tilnÃ¦rming til betalingsoppfordring, stÃ¸ttet av moderne teknologi og tydelige rutiner, er en investering som betaler seg bÃ¥de pÃ¥ kort og lang sikt. Dette gjelder spesielt nÃ¥r det kombineres med god [attestering](/blogs/regnskap/hva-er-attestering "Hva er Attestering? En Komplett Guide til Bilagsbehandling og Godkjenning") av innkommende fakturaer og effektiv [bankavstemming](/blogs/regnskap/hva-er-bankavstemming "Hva er Bankavstemming? Komplett Guide til Avstemming av Bankkonti") for Ã¥ sikre korrekt registrering av innbetalinger.
+
+
+

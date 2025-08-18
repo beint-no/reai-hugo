@@ -13,7 +13,7 @@ En **regnskapskonto** er en unik konto i en [kontoplan](/blogs/regnskap/hva-er-k
 
 ## Struktur og Nummerering av Regnskapskontoer
 
-Regnskapskontoer fÃ¸lger en logisk og hierarkisk nummerering som reflekterer deres plass i kontoplanens hovedklasser og grupper. Hver kontoidentifikator bestÃ¥r vanligvis av 3â€“5 siffer, der:
+Regnskapskontoer fÃ¸lger en logisk og hierarkisk nummerering som reflekterer deres plass i kontoplanens hovedklasser og grupper. Hver kontoidentifikator bestÃ¥r vanligvis av 3“5 siffer, der:
 
 * De fÃ¸rste sifrene angir **hovedklasse** (f.eks. 1 for eiendeler, 4 for inntekter).
 * Mellomliggende sifre kan vise **undergruppe** eller **kontogruppe**.
@@ -53,12 +53,14 @@ Under finner du noen typiske kontoer som benyttes i norsk regnskapsfÃ¸ring:
 
 God struktur pÃ¥ regnskapskontoer bidrar til effektiv bokfÃ¸ring og rapportering:
 
-* **Konsistent nummerering** â€“ fÃ¸lg en fast logikk gjennom kontoplanen.
-* **Tydelige beskrivelser** â€“ kontobeskrivelsen bÃ¸r vÃ¦re kort, men informativ.
-* **Rom for utvidelser** â€“ la ledige nummerserier for fremtidige kontoer.
-* **Dokumentasjon** â€“ beskriv endringer og formÃ¥l for nye kontoer.
-* **Regelmessig revisjon** â€“ gjennomgÃ¥ kontoplanen Ã¥rlig for Ã¥ fjerne ubrukte kontoer og legge til nye.
+* **Konsistent nummerering** “ fÃ¸lg en fast logikk gjennom kontoplanen.
+* **Tydelige beskrivelser** “ kontobeskrivelsen bÃ¸r vÃ¦re kort, men informativ.
+* **Rom for utvidelser** “ la ledige nummerserier for fremtidige kontoer.
+* **Dokumentasjon** “ beskriv endringer og formÃ¥l for nye kontoer.
+* **Regelmessig revisjon** “ gjennomgÃ¥ kontoplanen Ã¥rlig for Ã¥ fjerne ubrukte kontoer og legge til nye.
 
 ## Oppsummering
 
 En velstrukturert **regnskapskonto** er fundamentet for korrekt bokfÃ¸ring og pÃ¥litelig regnskapsrapportering. Ved Ã¥ forstÃ¥ nummerering, hierarki og sammenhengen med kontoplan og kontoklasser, kan virksomheter sikre god oversikt, effektiv prosess og overholdelse av norske regnskapsregler.
+
+

@@ -60,9 +60,11 @@ Selvstendig nÃ¦ringsdrivende passer godt for:
 ## Relaterte artikler
 
 * [Hva er et Enkeltpersonforetak?](/blogs/regnskap/hva-er-enkeltpersonforetak "Hva er et Enkeltpersonforetak? Komplett Guide til Selskapsformen")
-* [Personinntekt](/blogs/regnskap/personinntekt "Personinntekt â€“ Komplett guide til personinntekt i norsk regnskap")
-* [NÃ¦ringsinntekt](/blogs/regnskap/naeringsinntekt "NÃ¦ringsinntekt â€“ Komplett guide til nÃ¦ringsinntekt i norsk regnskap")
+* [Personinntekt](/blogs/regnskap/personinntekt "Personinntekt “ Komplett guide til personinntekt i norsk regnskap")
+* [NÃ¦ringsinntekt](/blogs/regnskap/naeringsinntekt "NÃ¦ringsinntekt “ Komplett guide til nÃ¦ringsinntekt i norsk regnskap")
 
 ## Konklusjon
 
 Ã… vÃ¦re selvstendig nÃ¦ringsdrivende gir **frihet og fleksibilitet**, men krever ogsÃ¥ **ansvar for alt fra regnskap til kundehÃ¥ndtering**. Grundig planlegging av skatt, regnskap og forsikring er nÃ¸kkelen til suksess.
+
+

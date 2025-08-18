@@ -19,7 +19,7 @@ FremfÃ¸rbart underskudd oppstÃ¥r nÃ¥r et selskaps skattemessige **fradrags
 
 * **Negativt skattegrunnlag** etter alminnelig inntekt og justeringer
 * Retten til Ã¥ **reduse fremtidig skatteplikt**
-* Regulert av skatteloven Â§Â 10â€‘14
+* Regulert av skatteloven Â§Â 10‘14
 
 ## Juridisk grunnlag
 
@@ -27,8 +27,8 @@ Reglene for fremfÃ¸rbart underskudd er hjemlet i:
 
 | Lovverk                | Paragraf                      |
 |------------------------|-------------------------------|
-| Skatteloven            | Â§Â 10â€‘14 om fremfÃ¸ring av underskudd |
-| BokfÃ¸ringsloven        | Â§Â 4â€‘1 om dokumentasjon og periodisering |
+| Skatteloven            | Â§Â 10‘14 om fremfÃ¸ring av underskudd |
+| BokfÃ¸ringsloven        | Â§Â 4‘1 om dokumentasjon og periodisering |
 
 ## Betingelser for fremfÃ¸ring
 
@@ -56,7 +56,7 @@ I regnskapet fÃ¸res fremfÃ¸rbart underskudd som en gjeldspost eller egen not
 
 ## Skattemessig behandling og rapportering
 
-Underskudd fremfÃ¸res i skattemeldingen pÃ¥ post for underskudd fra tidligere Ã¥r. Les mer i [Skattemelding](/blogs/regnskap/skattemelding "Skattemelding â€“ Frister, poster og tips") og [Betalbar skatt](/blogs/regnskap/betalbar-skatt "Betalbar skatt â€“ Komplett guide til beregning og hÃ¥ndtering").
+Underskudd fremfÃ¸res i skattemeldingen pÃ¥ post for underskudd fra tidligere Ã¥r. Les mer i [Skattemelding](/blogs/regnskap/skattemelding "Skattemelding “ Frister, poster og tips") og [Betalbar skatt](/blogs/regnskap/betalbar-skatt "Betalbar skatt “ Komplett guide til beregning og hÃ¥ndtering").
 
 ## Praktiske eksempler
 
@@ -78,11 +78,14 @@ Det er ingen generell tidsbegrensning for fremfÃ¸ring; underskuddet kan fremf�
 
 ## Videre lesning
 
-* [Alminnelig inntekt](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt â€“ Komplett guide til skattemessig resultat og beregning")
-* [Baksmell](/blogs/regnskap/baksmell "Baksmell â€“ Hva skjer nÃ¥r avsetninger og periodisering ikke stemmer?" )
+* [Alminnelig inntekt](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt “ Komplett guide til skattemessig resultat og beregning")
+* [Baksmell](/blogs/regnskap/baksmell "Baksmell “ Hva skjer nÃ¥r avsetninger og periodisering ikke stemmer?" )
 * [Konsernbidrag](/blogs/regnskap/konsernbidrag "Hva er Konsernbidrag? Guide til Skatte- og Regnskapsbehandling")
 * [Avsetning](/blogs/regnskap/avsetning "Avsetning i Regnskap - Komplett Guide til Avsetninger og Estimater")
 * [Periodisering](/blogs/regnskap/hva-er-periodisering "Hva er Periodisering? Prinsipper og Eksempler i Regnskap")
-* [Skattemelding](/blogs/regnskap/skattemelding "Skattemelding â€“ Frister, poster og tips")
-* [Betalbar skatt](/blogs/regnskap/betalbar-skatt "Betalbar skatt â€“ Komplett guide til beregning og hÃ¥ndtering")
+* [Skattemelding](/blogs/regnskap/skattemelding "Skattemelding “ Frister, poster og tips")
+* [Betalbar skatt](/blogs/regnskap/betalbar-skatt "Betalbar skatt “ Komplett guide til beregning og hÃ¥ndtering")
 * [Konsernbidrag](/blogs/regnskap/konsernbidrag "Hva er Konsernbidrag? Guide til Skatte- og Regnskapsbehandling")
+
+
+

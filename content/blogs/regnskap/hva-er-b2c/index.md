@@ -311,3 +311,6 @@ Ved Ã¥ implementere **beste praksis** innen B2C-regnskap kan virksomheter oppn
 * **Forbedret lÃ¸nnsomhet**
 
 For videre informasjon om relaterte temaer, se vÃ¥re guides om [detaljhandel](/blogs/regnskap/hva-er-detaljhandel "Hva er detaljhandel? Komplett guide til detaljhandel i regnskap"), [omsetning](/blogs/regnskap/hva-er-omsetning "Hva er omsetning? Komplett guide til omsetning i regnskap") og [kundefordringer](/blogs/regnskap/hva-er-kundefordring "Hva er kundefordring? Komplett guide til kundefordringer").
+
+
+

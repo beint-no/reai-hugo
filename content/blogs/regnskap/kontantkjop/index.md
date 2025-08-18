@@ -1,6 +1,6 @@
 ﻿---
-title: "KontantkjÃ¸p â€“ Komplett Guide til RegnskapsfÃ¸ring av KontantkjÃ¸p"
-meta_title: "KontantkjÃ¸p â€“ Komplett Guide til RegnskapsfÃ¸ring av KontantkjÃ¸p"
+title: "KontantkjÃ¸p “ Komplett Guide til RegnskapsfÃ¸ring av KontantkjÃ¸p"
+meta_title: "KontantkjÃ¸p “ Komplett Guide til RegnskapsfÃ¸ring av KontantkjÃ¸p"
 meta_description: '**KontantkjÃ¸p** er direkte betaling med **kontanter** for varer eller tjenester som skjer umiddelbart ved transaksjonen. Dette skiller seg fra kredittkjÃ¸p, hv...'
 slug: kontantkjop
 type: blog
@@ -19,7 +19,7 @@ KontantkjÃ¸p innebÃ¦rer at kjÃ¸per overleverer kontanter i bytte mot varer
 
 **Hovedkjennetegn:**
 
-* **Umiddelbar betaling:** Ingen betalingsfrist â€“ transaksjonen avsluttes pÃ¥ stedet
+* **Umiddelbar betaling:** Ingen betalingsfrist “ transaksjonen avsluttes pÃ¥ stedet
 * **Dokumentasjon:** [Kassekvittering](/blogs/regnskap/kvittering "Hva er Kvittering? En Guide til Kvitteringskrav i Norsk Regnskap") eller [kontantfaktura](/blogs/regnskap/hva-er-kontantfaktura "Hva er kontantfaktura? En Guide til Kontantfakturering i Norge") som bilag
 * **Ingen kredittrisiko:** Ingen utestÃ¥ende fordringer etter kjÃ¸pet
 
@@ -88,12 +88,14 @@ KontantkjÃ¸p er en enkel, men viktig transaksjonsform som krever bevissthet om
 
 KontantkjÃ¸p pÃ¥virker en rekke andre nÃ¸kkelomrÃ¥der i regnskapet:
 
-* **[KontantstrÃ¸m](/blogs/regnskap/hva-er-kontantstrom "Hva er KontantstrÃ¸m? Guide til Cash Flow Analyse og Styring")** â€“ Utbetalinger for kontantkjÃ¸p inngÃ¥r i kontantstrÃ¸msanalyse
-* **[Kontantbeholdning](/blogs/regnskap/hva-er-kontantbeholdning "Hva er Kontantbeholdning? Komplett Guide til Kontantforvaltning og Likviditet")** â€“ Reflekterer endringer ved kontantkjÃ¸p
-* **[Kontantkasse](/blogs/regnskap/kontantkasse "Kontantkasse â€“ Guide til HÃ¥ndtering av Kontanter")** â€“ Fysisk kasse for oppbevaring av kontanter ved kontantkjÃ¸p
-* **[VarekjÃ¸p](/blogs/regnskap/hva-er-varekjop "Hva er varekjÃ¸p? Komplett Guide til InnkjÃ¸psstyring")** â€“ KontantkjÃ¸p kan vÃ¦re en form for varekjÃ¸p ved kiosksalg og utsalgssteder
-* **[Kontantsalg](/blogs/regnskap/kontantsalg "Kontantsalg â€“ Komplett Guide til RegnskapsfÃ¸ring av Kontantsalg")** â€“ Salgstransaksjon med umiddelbar kontant betaling som pÃ¥virker kontantstrÃ¸m og likviditet
+* **[KontantstrÃ¸m](/blogs/regnskap/hva-er-kontantstrom "Hva er KontantstrÃ¸m? Guide til Cash Flow Analyse og Styring")** “ Utbetalinger for kontantkjÃ¸p inngÃ¥r i kontantstrÃ¸msanalyse
+* **[Kontantbeholdning](/blogs/regnskap/hva-er-kontantbeholdning "Hva er Kontantbeholdning? Komplett Guide til Kontantforvaltning og Likviditet")** “ Reflekterer endringer ved kontantkjÃ¸p
+* **[Kontantkasse](/blogs/regnskap/kontantkasse "Kontantkasse “ Guide til HÃ¥ndtering av Kontanter")** “ Fysisk kasse for oppbevaring av kontanter ved kontantkjÃ¸p
+* **[VarekjÃ¸p](/blogs/regnskap/hva-er-varekjop "Hva er varekjÃ¸p? Komplett Guide til InnkjÃ¸psstyring")** “ KontantkjÃ¸p kan vÃ¦re en form for varekjÃ¸p ved kiosksalg og utsalgssteder
+* **[Kontantsalg](/blogs/regnskap/kontantsalg "Kontantsalg “ Komplett Guide til RegnskapsfÃ¸ring av Kontantsalg")** “ Salgstransaksjon med umiddelbar kontant betaling som pÃ¥virker kontantstrÃ¸m og likviditet
 
 ## Avslutning
 
 KontantkjÃ¸p er en enkel, men viktig transaksjonstype som krever bevissthet om dokumentasjonskrav og internkontroll. Ved Ã¥ fÃ¸lge de rette rutinene sikrer virksomheten nÃ¸yaktig regnskapsfÃ¸ring og god likviditetsstyring.
+
+

@@ -1,13 +1,13 @@
 ﻿---
 title: "Hva er nominell rente?"
 meta_title: "Hva er nominell rente?"
-meta_description: '**Nominell rente** er en spesifikk type [rente](/blogs/regnskap/rente "Rente â€“ En komplett guide til rente i regnskap") som angir den oppgitte Ã¥rsrenten uten...'
+meta_description: '**Nominell rente** er en spesifikk type [rente](/blogs/regnskap/rente "Rente “ En komplett guide til rente i regnskap") som angir den oppgitte Ã¥rsrenten uten...'
 slug: hva-er-nominell-rente
 type: blog
 layout: pages/single
 ---
 
-**Nominell rente** er en spesifikk type [rente](/blogs/regnskap/rente "Rente â€“ En komplett guide til rente i regnskap") som angir den oppgitte Ã¥rsrenten uten hensyn til rentetilskrivninger (rente pÃ¥ rente), og brukes ofte i pristilbud og sammenligninger av lÃ¥n og sparing i regnskap.
+**Nominell rente** er en spesifikk type [rente](/blogs/regnskap/rente "Rente “ En komplett guide til rente i regnskap") som angir den oppgitte Ã¥rsrenten uten hensyn til rentetilskrivninger (rente pÃ¥ rente), og brukes ofte i pristilbud og sammenligninger av lÃ¥n og sparing i regnskap.
 
 ![Hva er nominell rente?](hva-er-nominell-rente-image.svg)
 
@@ -61,3 +61,5 @@ i_nom = 4 * ((1 + 0,05)^(1/4) - 1) â‰ˆ 0,0490 eller 4,90â€¯%.
 * [Hva er Effektiv rente?](/blogs/regnskap/hva-er-effektiv-rente "Hva er Effektiv rente? Komplett Guide til Beregning av Effektiv rente i Regnskap")
 * [Hva er Amortisering?](/blogs/regnskap/hva-er-amortisering "Hva er Amortisering? En Komplett Guide til Avskrivninger og Amortisering")
 * [Hva er Diskontering?](/blogs/regnskap/hva-er-diskontering "Hva er Diskontering? Komplett Guide til NÃ¥verdi og Diskonterte KontantstrÃ¸mmer")
+
+

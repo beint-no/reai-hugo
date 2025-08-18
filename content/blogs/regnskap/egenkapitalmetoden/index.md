@@ -25,22 +25,22 @@ Metoden skiller seg fra [kostmetoden](/blogs/regnskap/hva-er-kostmetoden "Hva er
 | Eierandel     | Betegnelse                      | Regnskapsmetode                |
 | ------------- | ------------------------------- | ------------------------------ |
 | < 20â€¯%        | Minimal innflytelse             | Kostmetoden                    |
-| 20â€¯%â€“50â€¯%     | Betydelig innflytelse           | Egenkapitalmetoden             |
+| 20â€¯%“50â€¯%     | Betydelig innflytelse           | Egenkapitalmetoden             |
 | > 50â€¯%        | Kontroll (konsern)              | Konsolidering                  |
 
 ## RegnskapsfÃ¸ring med egenkapitalmetoden
 
 RegnskapsfÃ¸ringen deles i to hovedtrinn:
 
-1. **Innledende innregning** â€“ Investeringen innregnes til anskaffelseskost.
-2. **EtterfÃ¸lgende mÃ¥ling** â€“ Verdien justeres ved andel av mÃ¥lforetakets resultat og utbytte.
+1. **Innledende innregning** “ Investeringen innregnes til anskaffelseskost.
+2. **EtterfÃ¸lgende mÃ¥ling** “ Verdien justeres ved andel av mÃ¥lforetakets resultat og utbytte.
 
 ### EtterfÃ¸lgende mÃ¥ling
 
 | Hendelse                                         | BokfÃ¸ring i investorens regnskap           |
 | ------------------------------------------------- | ------------------------------------------ |
 | Andel av resultat i mÃ¥lforetaket                  | Ã˜ker investering (Â± Resultatandel)         |
-| Utbytte mottatt fra mÃ¥lforetaket                  | Reduserer investering (â€“ Mottatt utbytte)  |
+| Utbytte mottatt fra mÃ¥lforetaket                  | Reduserer investering (“ Mottatt utbytte)  |
 
 ## Eksempel pÃ¥ bokfÃ¸ring
 
@@ -71,8 +71,8 @@ La oss anta at investor A eier 30â€¯% av aksjene i selskap B. B oppnÃ¥r et
 
 Egenkapitalmetoden er beskrevet i:
 
-- **NRS 8** â€“ Arbeidsgruppekontrollert virksomhet og tilknyttede foretak
-- **IFRS IAS 28** â€“ Investments in Associates and Joint Ventures
+- **NRS 8** “ Arbeidsgruppekontrollert virksomhet og tilknyttede foretak
+- **IFRS IAS 28** “ Investments in Associates and Joint Ventures
 
 ## Fordeler og ulemper
 
@@ -94,3 +94,6 @@ Egenkapitalmetoden er beskrevet i:
 
 ***
 _Artikkelen er sist oppdatert: {{ lastReviewed | date("YYYY-MM-DD") }}_
+
+
+

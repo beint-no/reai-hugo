@@ -22,7 +22,7 @@ En **revisjonsberetning** er dokumentet der revisoren redegjÃ¸r for:
 * Revisors konklusjon om regnskapet, med eventuelle forbehold eller avvik
 * Andre opplysninger som er relevante for regnskapets brukere
 
-Revisjonsberetningen er omtalt i [Revisorloven](/blogs/regnskap/hva-er-revisorloven "Hva er Revisorloven?") og i International Standards on Auditing (ISA), spesielt ISA 700â€“705. Les mer om revisjonsprosessen i artikkelen om [Revisjon](/blogs/regnskap/revisjon "Revisjon") og [Arbeidspapirer i revisjon](/blogs/regnskap/hva-er-arbeidspapirer-revisjon "Hva er Arbeidspapirer i revisjon?").
+Revisjonsberetningen er omtalt i [Revisorloven](/blogs/regnskap/hva-er-revisorloven "Hva er Revisorloven?") og i International Standards on Auditing (ISA), spesielt ISA 700“705. Les mer om revisjonsprosessen i artikkelen om [Revisjon](/blogs/regnskap/revisjon "Revisjon") og [Arbeidspapirer i revisjon](/blogs/regnskap/hva-er-arbeidspapirer-revisjon "Hva er Arbeidspapirer i revisjon?").
 
 ## Lovkrav for Revisjonsberetning i Norge
 
@@ -32,7 +32,7 @@ I Norge reguleres revisjonsberetningens krav av:
 |-----------------|-------------------------------------------------------------------|
 | Revisorloven    | Krav til uavhengighet, ansvar og rapportering                     |
 | BokfÃ¸ringsloven | Krav til fullstendighet og krav til Ã¥rsregnskapets form og innhold |
-| ISA 700â€“705     | Standarder for revisjonsberetningens innhold og utforming         |
+| ISA 700“705     | Standarder for revisjonsberetningens innhold og utforming         |
 
 Se ogsÃ¥ artikkelen om [Revisjonsplikt](/blogs/regnskap/revisjonsplikt "Revisjonsplikt") for en oversikt over hvem som er revisjonspliktige og terskelverdier.
 
@@ -73,3 +73,5 @@ En revisjonsberetning fÃ¸lger typisk denne strukturen:
 * [Revisjon](/blogs/regnskap/revisjon "Revisjon")
 * [Arbeidspapirer i revisjon](/blogs/regnskap/hva-er-arbeidspapirer-revisjon "Hva er Arbeidspapirer i revisjon?")
 * [Revisorloven](/blogs/regnskap/hva-er-revisorloven "Hva er Revisorloven?")
+
+

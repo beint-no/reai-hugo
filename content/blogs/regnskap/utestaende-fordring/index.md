@@ -26,9 +26,9 @@ For Ã¥ vurdere kredittrisikoen og behovet for tapsavsetninger, deles utestÃ¥
 | Forfallsintervall        | Andel av totale fordringer | Anbefalt tapsavsetning (%) |
 |--------------------------|----------------------------|-----------------------------|
 | Ikke forfalt            | 60 %                       | 0 %                         |
-| 1â€“30 dager forfalt      | 20 %                       | 2 %                         |
-| 31â€“60 dager forfalt     | 10 %                       | 10 %                        |
-| 61â€“90 dager forfalt     | 6 %                        | 30 %                        |
+| 1“30 dager forfalt      | 20 %                       | 2 %                         |
+| 31“60 dager forfalt     | 10 %                       | 10 %                        |
+| 61“90 dager forfalt     | 6 %                        | 30 %                        |
 | Over 90 dager forfalt   | 4 %                        | 70 %                        |
 
 ## OppfÃ¸lging og inkassoprosess
@@ -58,3 +58,5 @@ Inkasso mÃ¥ skje i henhold til [Inkassoloven](/blogs/regnskap/hva-er-inkassolo
 ## Oppsummering
 
 Systematisk bruk av **aldersanalyse**, **oppfÃ¸lging** og **tapsvurdering** er avgjÃ¸rende for effektiv styring av utestÃ¥ende fordringer og for Ã¥ sikre bedriftens likviditet.
+
+

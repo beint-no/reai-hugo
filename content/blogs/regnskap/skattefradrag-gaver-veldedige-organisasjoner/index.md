@@ -508,3 +508,5 @@ For privatpersoner og bedrifter som Ã¸nsker Ã¥ stÃ¸tte veldedige formÃ¥l
 Gaveordningen vil trolig utvikle seg i takt med digitalisering, Ã¸kt fokus pÃ¥ bÃ¦rekraft og nye former for filantropi. Givere som bygger systematiske tilnÃ¦rminger til gavepolitikk og holder seg oppdatert pÃ¥ regelverksendringer, vil vÃ¦re best posisjonert til Ã¥ skape maksimal samfunnseffekt samtidig som de optimaliserer sin skatteposisjon.
 
 Kombinert med andre [skattefraderag](/blogs/regnskap/hva-er-skatt "Skatt - Komplett Guide til Bedriftsskatt, MVA og Skatteplanlegging") og [skatteplanleggingsstrategier](/blogs/regnskap/hva-er-skatteplanlegging "Hva er Skatteplanlegging? Strategier for Optimal Skatteposisjon"), kan veldedige gaver vÃ¦re en viktig komponent i en helhetlig tilnÃ¦rming til skatteoptimalisering som ogsÃ¥ skaper positiv samfunnsverdi.
+
+

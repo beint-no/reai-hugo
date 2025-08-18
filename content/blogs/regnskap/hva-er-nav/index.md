@@ -1,6 +1,6 @@
 ﻿---
-title: "NAV i Regnskap â€“ Rolle og Bruk av Arbeids- og velferdsdata"
-meta_title: "NAV i Regnskap â€“ Rolle og Bruk av Arbeids- og velferdsdata"
+title: "NAV i Regnskap “ Rolle og Bruk av Arbeids- og velferdsdata"
+meta_title: "NAV i Regnskap “ Rolle og Bruk av Arbeids- og velferdsdata"
 meta_description: '![NAV i Regnskap](nav-image.svg)'
 slug: hva-er-nav
 type: blog
@@ -49,3 +49,5 @@ NAV henter lÃ¸pende informasjon om arbeidsforhold, inntekter og arbeidsavbrudd
 *   [Hva er Folketrygden?](/blogs/regnskap/hva-er-folketrygden "Hva er Folketrygden? Komplett Guide til Norges Nasjonale Trygdesystem")
 *   [Hva er A-ordningen?](/blogs/regnskap/hva-er-a-ordningen "Hva er A-ordningen?")
 *   [Hva er Altinn?](/blogs/regnskap/hva-er-altinn "Hva er Altinn? Norges Digitale Portal for NÃ¦ringsliv og Privatpersoner")
+
+

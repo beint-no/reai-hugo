@@ -238,3 +238,6 @@ En **aksjonÃ¦ravtale** er en fundamental investering i selskapets **stabilitet
 4. **Juridisk sikkerhet** og **lovlighet**
 
 Investeringen i profesjonell utarbeidelse av aksjonÃ¦ravtaler betaler seg over tid gjennom reduserte **konfliktkostnader** og Ã¸kt **verdiskapning**.
+
+
+

@@ -285,3 +285,6 @@ BokfÃ¸ring er langt mer enn bare lovpÃ¥lagt dokumentasjon - det er et strate
 * Fokuser pÃ¥ kvalitet fremfor hastighet
 
 Ved Ã¥ mestre bokfÃ¸ringens grunnleggende prinsipper og beste praksis, legger virksomheter grunnlaget for solid Ã¸konomisk styring og langsiktig suksess i det norske forretningslandskapet.
+
+
+

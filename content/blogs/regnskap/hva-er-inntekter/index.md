@@ -9,9 +9,9 @@ layout: pages/single
 
 **Inntekter** er alle Ã¸konomiske fordeler som tilflyter en virksomhet i lÃ¸pet av en regnskapsperiode, og som Ã¸ker [egenkapitalen](/blogs/regnskap/hva-er-egenkapital "Hva er Egenkapital? Komplett Guide til Egenkapital i Regnskap") uten at det skyldes tilskudd fra eierne. Inntekter utgjÃ¸r grunnlaget for virksomhetens lÃ¸nnsomhet og er avgjÃ¸rende for Ã¥ vurdere selskapets Ã¸konomiske prestasjoner og fremtidige potensial. Det er viktig Ã¥ skille mellom inntekter og [omsetning](/blogs/regnskap/hva-er-omsetning "Hva er Omsetning? Komplett Guide til Omsetning i Regnskap og Skatt"), hvor omsetning inkluderer merverdiavgift mens inntekter mÃ¥les eksklusive MVA.
 
-For en detaljert gjennomgang av hvordan **alminnelig inntekt** beregnes og pÃ¥virker skatteplikten, se [Alminnelig inntekt](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt â€“ Definisjon og Beregning").
+For en detaljert gjennomgang av hvordan **alminnelig inntekt** beregnes og pÃ¥virker skatteplikten, se [Alminnelig inntekt](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt “ Definisjon og Beregning").
 
-For selvstendig nÃ¦ringsdrivende brukes begrepet **nÃ¦ringsinntekt**. Les mer i [NÃ¦ringsinntekt](/blogs/regnskap/naeringsinntekt "NÃ¦ringsinntekt â€“ Komplett guide til nÃ¦ringsinntekt for selvstendig nÃ¦ringsdrivende").
+For selvstendig nÃ¦ringsdrivende brukes begrepet **nÃ¦ringsinntekt**. Les mer i [NÃ¦ringsinntekt](/blogs/regnskap/naeringsinntekt "NÃ¦ringsinntekt “ Komplett guide til nÃ¦ringsinntekt for selvstendig nÃ¦ringsdrivende").
 
 ## Definisjon og Grunnleggende Prinsipper
 
@@ -37,7 +37,7 @@ Inntekter kan klassifiseres i flere hovedkategorier basert pÃ¥ deres opprinnel
 | Kategori | Beskrivelse | Eksempler | Regnskapspost |
 |----------|-------------|-----------|---------------|
 | **[Driftsinntekter](/blogs/regnskap/hva-er-driftsinntekter "Hva er Driftsinntekter? Komplett Guide til Driftsinntekter i Regnskap")** | Inntekter fra hovedvirksomhet | Salg av varer/tjenester | Driftsinntekter |
-| **[Finansinntekter](/blogs/regnskap/finansinntekt "Finansinntekt â€“ Komplett guide til renter, utbytte og kapitalgevinster i norsk regnskap")** | Inntekter fra finansielle aktiviteter | Renter, utbytte, gevinster | Finansinntekter |
+| **[Finansinntekter](/blogs/regnskap/finansinntekt "Finansinntekt “ Komplett guide til renter, utbytte og kapitalgevinster i norsk regnskap")** | Inntekter fra finansielle aktiviteter | Renter, utbytte, gevinster | Finansinntekter |
 | **Andre inntekter** | Inntekter utenfor normal drift | Tilskudd, gevinst ved salg | Andre inntekter |
 | **EkstraordinÃ¦re inntekter** | Sjeldne og uvanlige hendelser | ForsikringsoppgjÃ¸r | EkstraordinÃ¦re poster |
 
@@ -53,9 +53,9 @@ Inntekter kan klassifiseres i flere hovedkategorier basert pÃ¥ deres opprinnel
 * **Royalty-inntekter:** Inntekter fra lisensavtaler
 * **Provisjonsinntekter:** Inntekter fra formidlingsvirksomhet
 
-### 2. [Finansinntekter](/blogs/regnskap/finansinntekt "Finansinntekt â€“ Komplett guide til renter, utbytte og kapitalgevinster i norsk regnskap")
+### 2. [Finansinntekter](/blogs/regnskap/finansinntekt "Finansinntekt “ Komplett guide til renter, utbytte og kapitalgevinster i norsk regnskap")
 
-**[Finansinntekter](/blogs/regnskap/finansinntekt "Finansinntekt â€“ Komplett guide til renter, utbytte og kapitalgevinster i norsk regnskap")** omfatter alle inntekter som oppstÃ¥r fra virksomhetens finansielle investeringer og aktiviteter.
+**[Finansinntekter](/blogs/regnskap/finansinntekt "Finansinntekt “ Komplett guide til renter, utbytte og kapitalgevinster i norsk regnskap")** omfatter alle inntekter som oppstÃ¥r fra virksomhetens finansielle investeringer og aktiviteter.
 
 **Eksempler pÃ¥ finansinntekter:**
 
@@ -358,3 +358,5 @@ Inntektsregnskapet varierer mellom ulike land og regnskapsstandarder.
 Ved Ã¥ fÃ¸lge etablerte regnskapsprinsipper, implementere gode kontrollrutiner og holde seg oppdatert pÃ¥ nye utviklingstrender, kan virksomheter sikre at deres inntekter rapporteres korrekt og gir et rettvisende bilde av selskapets Ã¸konomiske situasjon.
 
 For mer informasjon om relaterte regnskapstemaer, se vÃ¥re artikler om [driftsinntekter](/blogs/regnskap/hva-er-driftsinntekter "Hva er Driftsinntekter? Komplett Guide til Driftsinntekter i Regnskap"), [bruttofortjeneste](/blogs/regnskap/hva-er-bruttofortjeneste "Hva er Bruttofortjeneste? Beregning og Analyse av Bruttomargin"), [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? Komplett Guide til RegnskapsfÃ¸ring og Regnskapsanalyse") og [bokfÃ¸ring](/blogs/regnskap/hva-er-bokforing "Hva er BokfÃ¸ring? Komplett Guide til RegnskapsfÃ¸ring").
+
+

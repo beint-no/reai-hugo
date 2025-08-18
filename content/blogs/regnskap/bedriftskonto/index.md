@@ -85,3 +85,6 @@ Ved valg av konto bÃ¸r bedriften vurdere:
 * [Hva er Banktransaksjoner?](/blogs/regnskap/hva-er-banktransaksjoner "Banktransaksjoner: Registrering og kontroll")
 * [Hva er Bankavstemming?](/blogs/regnskap/hva-er-bankavstemming "Bankavstemming: Prosess og kontroll")
 * [Hva er Skattetrekkskonto?](/blogs/regnskap/hva-er-skattetrekkskonto "Skattetrekkskonto: RegnskapsfÃ¸ring av skattetrekk")
+
+
+

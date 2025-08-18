@@ -39,3 +39,6 @@ layout: pages/single
 ## Fremtidige utviklinger og regulering
 
 Gjeldsregisteret er gjenstand for lÃ¸pende diskusjoner om **personvern**, **datadeling** og utvidet omfang. Ny teknologi som API-integrasjon og sanntidsoppdateringer vil kunne gi raskere og mer nÃ¸yaktig informasjon om lÃ¥ntakeres gjeldssituasjon.
+
+
+

@@ -17,7 +17,7 @@ Tabell 7100 er strukturert med tre hovedkolonner som angir tabellnummer, inntekt
 
 | **Tabellnr.** | **Inntektstype**                    | **Trekkprosent** |
 |---------------|-------------------------------------|------------------|
-| 7100          | Pensjons- og trygdeutbetalinger     | 20â€“35%           |
+| 7100          | Pensjons- og trygdeutbetalinger     | 20“35%           |
 
 ## 2. Beregningseksempel
 
@@ -56,3 +56,5 @@ Se ogsÃ¥:
 * [Hva er Tabelltrekk?](/blogs/regnskap/hva-er-tabelltrekk "Hva er Tabelltrekk?") for en oversikt over generelle skattetabeller
 * [Hva er Pensjon?](/blogs/regnskap/hva-er-pensjon "Hva er Pensjon?") for dypere innsikt i det norske pensjonssystemet
 * [Hva er Trygdeytelser?](/blogs/regnskap/hva-er-trygdeytelser "Hva er Trygdeytelser?") for forstÃ¥else av trygdegrunnlag og utbetalinger
+
+

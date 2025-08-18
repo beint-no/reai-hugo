@@ -350,3 +350,6 @@ Norge tilpasser seg **internasjonale regnskapsstandarder**:
 BokfÃ¸ringsloven er ikke bare et **juridisk krav**, men ogsÃ¥ et **verktÃ¸y** for bedre Ã¸konomistyring og Ã¸kt tillitt i nÃ¦ringslivet. Ved Ã¥ fÃ¸lge lovens krav sikrer bedrifter bÃ¥de **regelverksoverholdelse** og **solid grunnlag** for strategiske beslutninger.
 
 ![BokfÃ¸ringslovens rolle i norsk nÃ¦ringsliv](bokforingsloven-naeringsliv-rolle.svg)
+
+
+

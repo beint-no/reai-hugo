@@ -37,7 +37,7 @@ Disse rettighetene oppstÃ¥r fra juridiske avtaler og kontrakter:
 * **Franchisingavtaler:** Rettigheter til Ã¥ drive virksomhet under etablerte merkevarer
 * **Ikke-konkurranseklausuler:** Avtaler som begrenser konkurranse
 * **Kundekontrakter:** Langsiktige avtaler med kunder
-* **Royaltyavtaler:** Avtaler om lÃ¸pende vederlag basert pÃ¥ bruk av immaterielle rettigheter. Se [Royalty](/blogs/regnskap/royalty "Royalty i regnskap â€“ Guide til avtaler og regnskapsfÃ¸ring av vederlag").
+* **Royaltyavtaler:** Avtaler om lÃ¸pende vederlag basert pÃ¥ bruk av immaterielle rettigheter. Se [Royalty](/blogs/regnskap/royalty "Royalty i regnskap “ Guide til avtaler og regnskapsfÃ¸ring av vederlag").
 
 ### 1.3 Teknologi og Programvare
 
@@ -270,3 +270,5 @@ Imaterielle rettigheter representerer en stadig viktigere del av moderne virksom
 Ved Ã¥ fÃ¸lge etablerte prinsipper for [bokfÃ¸ring](/blogs/regnskap/hva-er-bokforing "Hva er BokfÃ¸ring? En Komplett Guide til Norsk BokfÃ¸ringspraksis") og regnskapsfÃ¸ring, samt holde seg oppdatert pÃ¥ utviklingen innen standarder og regulering, kan virksomheter sikre optimal hÃ¥ndtering av sine imaterielle rettigheter.
 
 For virksomheter som Ã¸nsker Ã¥ optimalisere sin regnskapsfÃ¸ring av imaterielle rettigheter, anbefales det Ã¥ konsultere med kvalifiserte regnskapsfÃ¸rere og revisorer som har spesialkompetanse pÃ¥ omrÃ¥det.
+
+

@@ -70,7 +70,7 @@ Norge har **differensierte MVA-satser** avhengig av type vare eller tjeneste:
 
 #### Spesielle Regler
 - **Blandede leveranser:** HÃ¸yeste sats gjelder
-- **Tjenester til utlandet:** Ofte 0% eller fritatt â€“ se [Hva er Fjernleverbare Tjenester i Regnskap?](/blogs/regnskap/hva-er-fjernleverbare-tjenester "Fjernleverbare Tjenester - MVA-regler, BokfÃ¸ring og Praktiske Eksempler") for mer informasjon
+- **Tjenester til utlandet:** Ofte 0% eller fritatt “ se [Hva er Fjernleverbare Tjenester i Regnskap?](/blogs/regnskap/hva-er-fjernleverbare-tjenester "Fjernleverbare Tjenester - MVA-regler, BokfÃ¸ring og Praktiske Eksempler") for mer informasjon
 - **Tjenester fra utlandet:** [Omvendt avgiftsplikt](/blogs/regnskap/omvendt-avgiftsplikt "Omvendt Avgiftsplikt - Komplett Guide til Reverse Charge MVA") kan gjelde
 - **Import:** 25% + eventuelle tollsatser
 - **Brukthandel:** Spesielle marginsregler
@@ -216,7 +216,7 @@ Visse aktiviteter er **fritatt fra MVA** uavhengig av omsetning:
 - **Hovedregel:** Leveres der kjÃ¸per er etablert
 - **0% MVA** pÃ¥ mange tjenester til utlandet
 - **Spesielle regler** for transport, eiendom, kultur
-- **Stedbunden tjeneste:** Tjenester levert pÃ¥ et geografisk bestemt sted â€“ se [Stedbunden tjeneste](/blogs/regnskap/hva-er-stedbunden-tjeneste "Hva er Stedbunden tjeneste i Regnskap?") for detaljer
+- **Stedbunden tjeneste:** Tjenester levert pÃ¥ et geografisk bestemt sted “ se [Stedbunden tjeneste](/blogs/regnskap/hva-er-stedbunden-tjeneste "Hva er Stedbunden tjeneste i Regnskap?") for detaljer
 - **[Fjernleverbare tjenester](/blogs/regnskap/hva-er-fjernleverbare-tjenester "Hva er Fjernleverbare Tjenester i Regnskap? MVA-regler og BokfÃ¸ring")** har egne stedsbestemmelsesregler
 
 #### Brukthandel og Kunstgjenstander
@@ -361,3 +361,6 @@ Avgiftsplikt (MVA) er en **fundamental forpliktelse** for de fleste norske bedri
 - **Oppdatert kunnskap** om regelverksendringer
 
 Ved Ã¥ fÃ¸lge regelverket og etablere gode rutiner kan bedrifter **minimere risiko** og **optimalisere** sin MVA-hÃ¥ndtering som en naturlig del av den daglige driften.
+
+
+

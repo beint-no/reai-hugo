@@ -63,3 +63,5 @@ FÃ¸lg disse trinnene for Ã¥ avgjÃ¸re om virksomheten din kvalifiserer:
 4. Evaluer status Ã¥rlig fÃ¸r Ã¥rsavslutning for Ã¥ sikre korrekt anvendelse av regnskapsstandard.
 
 For mer om Ã¥rsavslutning, se [Hva er Ã¥rsavslutning?](/blogs/regnskap/hva-er-aarsavslutning "Hva er Aarsavslutning? Komplett Guide til Ã…rsavslutning").
+
+

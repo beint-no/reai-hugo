@@ -79,7 +79,10 @@ BNP er en av de viktigste **konjunkturindikatorene** som viser om Ã¸konomien e
 
 > Selv om **BNP** er en sentral indikator, har mÃ¥ltallet flere begrensninger som er viktige Ã¥ kjenne til:
 
-* **Ikke-registrert Ã¸konomi** â€“ Svart Ã¸konomi og uformell virksomhet fanges ikke opp.
-* **Fordelingsaspekter** â€“ BNP sier ikke noe om hvordan inntektene fordeles i befolkningen.
-* **MiljÃ¸- og bÃ¦rekraft** â€“ Ressursuttak og klimakostnader er ikke inkludert.
-* **Ulike prisnivÃ¥er** â€“ Sammenligning pÃ¥ tvers av land krever justering for kjÃ¸pekraft (KKP).
+* **Ikke-registrert Ã¸konomi** “ Svart Ã¸konomi og uformell virksomhet fanges ikke opp.
+* **Fordelingsaspekter** “ BNP sier ikke noe om hvordan inntektene fordeles i befolkningen.
+* **MiljÃ¸- og bÃ¦rekraft** “ Ressursuttak og klimakostnader er ikke inkludert.
+* **Ulike prisnivÃ¥er** “ Sammenligning pÃ¥ tvers av land krever justering for kjÃ¸pekraft (KKP).
+
+
+

@@ -402,3 +402,6 @@ For bedrifter som vurderer implementering av datakasse:
 5. **FÃ¸lg opp** systemet jevnlig for optimal ytelse
 
 Med riktig valg og implementering vil en datakasse vÃ¦re en verdifull investering som styrker bedriftens [regnskapsrutiner](/blogs/regnskap/hva-er-bokfÃ¸ring "BokfÃ¸ring - Grunnleggende Prinsipper og Praktisk GjennomfÃ¸ring") og gir bedre kontroll over den finansielle driften.
+
+
+

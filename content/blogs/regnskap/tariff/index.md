@@ -52,3 +52,5 @@ Ved bokfÃ¸ring av lÃ¸nn og ytelser mÃ¥ bedriften dokumentere at gjeldende 
 * [MinstelÃ¸nn](/blogs/regnskap/minstelonn "MinstelÃ¸nn i Regnskap")
 * [TimelÃ¸nn](/blogs/regnskap/hva-er-timelonn "Hva er TimelÃ¸nn? Guide til TimelÃ¸nn og Overtid")
 * [Feriepenger i prosent](/blogs/regnskap/feriepenger-i-prosent "Feriepenger i Prosent: Satser, Beregning og RegnskapsfÃ¸ring")
+
+

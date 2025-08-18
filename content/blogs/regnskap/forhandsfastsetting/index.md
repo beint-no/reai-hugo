@@ -42,3 +42,6 @@ En nÃ¦ringsdrivende leverer ikke skattemelding innen 30. april. Skattemyndighe
 ## Oppsummering
 
 ForhÃ¥ndsfastsetting er et viktig virkemiddel for Ã¥ sikre skatteinntekter nÃ¥r skattyter unnlater Ã¥ levere eller gir mangelfulle opplysninger. **Kjennskap til juridisk grunnlag, prosess og klagemuligheter** gir skattytere bedre forutsetninger for Ã¥ ivareta sine rettigheter.
+
+
+

@@ -30,7 +30,7 @@ For en helhetlig forstÃ¥else av ekstreme Ã¸konomiske hendelser, se [Hva er I
 
 ## Hvordan MÃ¥les og Identifiseres Stagflasjon?
 
-1. **Inflasjonsrate** overstiger sentralt inflasjonsmÃ¥l (for eksempel > 3â€“4â€¯%)
+1. **Inflasjonsrate** overstiger sentralt inflasjonsmÃ¥l (for eksempel > 3“4â€¯%)
 2. **Negativ eller lav [BNP-vekst](/blogs/regnskap/hva-er-bnp "Hva er BNP? Betydning for Bedrifter og RegnskapsfÃ¸ring")** i to eller flere kvartaler
 3. **Arbeidsledighet** Ã¸ker samtidig som prisene stiger
 
@@ -56,3 +56,5 @@ For en helhetlig forstÃ¥else av ekstreme Ã¸konomiske hendelser, se [Hva er I
 ## Oppsummering
 
 **Stagflasjon** er en kompleks utfordring som krever at bedrifter og beslutningstakere kombinerer verktÃ¸y fra bÃ¥de inflasjonsbekjempelse og konjunkturstyring. Ved Ã¥ forstÃ¥ fenomenets Ã¥rsaker og konsekvenser, kan man bedre navigere i perioder med hÃ¸y prisvekst og svak vekst.
+
+

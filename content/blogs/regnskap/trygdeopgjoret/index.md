@@ -25,7 +25,7 @@ TrygdeopgjÃ¸ret er en formell **avslutning** av Ã¥ret for **trygdeavgift** o
 |------------------------------------------|---------------------------|
 | Innsending av Ã¥rsoppgave til NAV og Skatteetaten | 31. januar (etter Ã¥rsslutt) |
 | Endelig fastsettelse av trygdeavgift     | 1. mars                   |
-| Utbetaling av eventuelle tilgodebelÃ¸p    | Marsâ€“april                |
+| Utbetaling av eventuelle tilgodebelÃ¸p    | Mars“april                |
 
 ## Hvordan forberede TrygdeopgjÃ¸ret?
 
@@ -33,7 +33,7 @@ FÃ¸lgende trinn hjelper bedrifter med en smidig gjennomfÃ¸ring:
 
 1. **Kontroller lÃ¸nnsgrunnlag** og [arbeidsgiveravgift](/blogs/regnskap/hva-er-arbeidsgiveravgift "Hva er Arbeidsgiveravgift? Satser og Beregning") for alle ansatte.
 2. **Avstem trygdeavgiftskontoer** i regnskapet.
-3. **Rapporter korrekte tall** i Ã¥rsoppgaven (gjelder bÃ¥de [arbeidsgivere](/blogs/regnskap/arbeidsgiver "Arbeidsgiver â€“ Roller og Ansvar i Norsk Arbeidsliv og Regnskap") og selvstendig nÃ¦ringsdrivende).
+3. **Rapporter korrekte tall** i Ã¥rsoppgaven (gjelder bÃ¥de [arbeidsgivere](/blogs/regnskap/arbeidsgiver "Arbeidsgiver “ Roller og Ansvar i Norsk Arbeidsliv og Regnskap") og selvstendig nÃ¦ringsdrivende).
 4. **GjennomgÃ¥ refusjoner** og etterbetalingskrav fra NAV.
 5. **Arkiver dokumentasjon** for revisjon og internkontroll.
 
@@ -53,3 +53,5 @@ Manglende eller feil oppgjÃ¸r kan fÃ¸re til:
 * [Trygdeavgift](/blogs/regnskap/hva-er-trygdeavgift "Hva er Trygdeavgift? Satser, Beregning og RegnskapsfÃ¸ring")
 
 **TrygdeopgjÃ¸ret** er avgjÃ¸rende for korrekt regnskapsfÃ¸ring og etterlevelse av offentlige krav.
+
+

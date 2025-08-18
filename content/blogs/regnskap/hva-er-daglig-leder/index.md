@@ -44,3 +44,6 @@ Daglig leder har ansvaret for at regnskapsfÃ¸rselen skjer i trÃ¥d med **god 
 ## Oppsummering
 
 Daglig leder er en nÃ¸kkelrolle i norske aksjeselskaper, med ansvar for daglig drift, personalledelse, rapportering og etterlevelse av regelverk. En tydelig rollefordeling mellom generalforsamling, styre og daglig leder er avgjÃ¸rende for god selskapsstyring.
+
+
+

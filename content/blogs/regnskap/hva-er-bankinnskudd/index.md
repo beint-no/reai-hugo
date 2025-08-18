@@ -159,7 +159,7 @@ Renteinntekt = Hovedstol Ã— Rentesats Ã— Tid
 
 ### Sammensatt Rente
 
-For terminskudd med [**sammensatt rente**](/blogs/regnskap/renters-rente "Renters rente â€“ Rente pÃ¥ rente i regnskap"):
+For terminskudd med [**sammensatt rente**](/blogs/regnskap/renters-rente "Renters rente “ Rente pÃ¥ rente i regnskap"):
 
 | Ã…r | Hovedstol | Rente (3%) | Ny hovedstol |
 |----|-----------|------------|--------------|
@@ -401,3 +401,6 @@ Bankinnskudd presenteres i **finansielle rapporter**:
 Ved Ã¥ fÃ¸lge etablerte regnskapsprinsipper og implementere gode kontrollrutiner kan bedrifter sikre optimal forvaltning av sine bankinnskudd samtidig som de oppfyller alle regulatoriske krav.
 
 For mer informasjon om relaterte emner, se vÃ¥re artikler om [bankavstemming](/blogs/regnskap/hva-er-bankavstemming "Bankavstemming - Komplett Guide"), [arbeidskapital](/blogs/regnskap/hva-er-arbeidskapital "Arbeidskapital - Beregning og Betydning"), [depositum](/blogs/regnskap/hva-er-depositum "Hva er Depositum i Regnskap? Typer, RegnskapsfÃ¸ring og Praktiske Eksempler") og [balanse](/blogs/regnskap/hva-er-balanse "Balanse - Komplett Guide til Balansen").
+
+
+

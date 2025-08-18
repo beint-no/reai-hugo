@@ -37,7 +37,7 @@ OmlÃ¸pshastighet = Varekostnad Ã· Gjennomsnittlig varelager
 | OmlÃ¸pshastighet | Vurdering       | Betydning                   |
 | --------------- | --------------- | --------------------------- |
 | **< 2**         | Lav             | Kan indikere overlager      |
-| **2â€‰â€“â€‰4**       | Normal          | Tilfredsstillende lageromlÃ¸p|
+| **2â€‰“â€‰4**       | Normal          | Tilfredsstillende lageromlÃ¸p|
 | **> 4**         | HÃ¸y             | Effektiv lagerstyring       |
 
 ### Detaljert eksempel
@@ -57,3 +57,5 @@ OmlÃ¸pshastighet pÃ¥virker [arbeidskapital](/blogs/regnskap/hva-er-arbeidska
 * [Hva er omlÃ¸psmidler?](/blogs/regnskap/hva-er-omlopsmiddel "Hva er OmlÃ¸psmidler? Komplett Guide til Kortsiktige Eiendeler i Regnskap")
 * [Hva er arbeidskapital?](/blogs/regnskap/hva-er-arbeidskapital "Hva er Arbeidskapital? En Komplett Guide til Working Capital")
 * [Hva er likviditet?](/blogs/regnskap/hva-er-likviditet "Hva er Likviditet? Komplett Guide til Likviditetsstyring og Analyse")
+
+

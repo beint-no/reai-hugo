@@ -235,3 +235,6 @@ For bedrifter som arbeider med [aksjeselskap](/blogs/regnskap/hva-er-et-aksjesel
 Amortisering er et fundamentalt regnskapsprinsipp som sikrer at kostnaden av immaterielle eiendeler fordeles rettferdig over deres Ã¸konomiske levetid. Ved Ã¥ forstÃ¥ de ulike metodene, regnskapsfÃ¸ringen og praktiske anvendelsene, kan bedrifter sikre korrekt finansiell rapportering og ta bedre beslutninger om investeringer i immaterielle eiendeler.
 
 Korrekt amortisering er ikke bare et regnskapskrav, men ogsÃ¥ et verktÃ¸y for Ã¥ forstÃ¥ den virkelige kostnaden ved Ã¥ eie og bruke immaterielle eiendeler i virksomheten.
+
+
+

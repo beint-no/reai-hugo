@@ -246,3 +246,5 @@ Kreditnotaer mÃ¥ behandles i **riktig MVA-periode**:
 Kreditnotaer er et essensielt verktÃ¸y i moderne regnskapsfÃ¸ring som sikrer korrekt behandling av returer, korrigeringer og prisavslag. Korrekt hÃ¥ndtering krever forstÃ¥else av lovkrav, regnskapsprinsipper og beste praksis. Ved Ã¥ implementere gode rutiner for utstedelse, behandling og oppfÃ¸lging av kreditnotaer, kan bedrifter opprettholde nÃ¸yaktig regnskapsfÃ¸ring og unngÃ¥ kostbare feil.
 
 For bedrifter som Ã¸nsker Ã¥ optimalisere sin fakturabehandling, anbefales det Ã¥ vurdere moderne digitale lÃ¸sninger som automatiserer bÃ¥de [fakturering](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav") og kreditnotahÃ¥ndtering. Dette reduserer ikke bare administrative kostnader, men forbedrer ogsÃ¥ nÃ¸yaktigheten og sporbarhet i regnskapsfÃ¸ringen.
+
+

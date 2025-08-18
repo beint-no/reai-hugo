@@ -27,8 +27,8 @@ Fiskerfradraget ble innfÃ¸rt pÃ¥ 1980-tallet for Ã¥:
 
 Det rettslige grunnlaget for fiskerfradrag finnes i:
 
-* **Skatteloven Â§â€¯6-11** â€“ Hovedbestemmelsen om fiskerfradrag
-* **Forskrift om sÃ¦rfradrag for fiskere** â€“ Detaljerte regler og satser
+* **Skatteloven Â§â€¯6-11** “ Hovedbestemmelsen om fiskerfradrag
+* **Forskrift om sÃ¦rfradrag for fiskere** “ Detaljerte regler og satser
 
 ## Beregning av Fiskerfradrag
 
@@ -37,16 +37,16 @@ Det rettslige grunnlaget for fiskerfradrag finnes i:
 | Inntektskategori                 | Fradragssats | Maksimalt fradrag |
 |----------------------------------|--------------|-------------------|
 | **Liten bÃ¥t (<â€¯15â€¯m)**           | 40â€¯%         | 200â€¯000â€¯kr        |
-| **Mellomstor bÃ¥t (15â€“28â€¯m)**     | 30â€¯%         | 300â€¯000â€¯kr        |
+| **Mellomstor bÃ¥t (15“28â€¯m)**     | 30â€¯%         | 300â€¯000â€¯kr        |
 | **Stor bÃ¥t (>â€¯28â€¯m)**            | 20â€¯%         | Ingen Ã¸vre grense |
 
 ### Praktisk Beregningseksempel
 
-**Eksempel 1 â€“ Liten bÃ¥t:**  
+**Eksempel 1 “ Liten bÃ¥t:**  
 - Fangstinntekt: 500â€¯000â€¯kr  
 - Fradrag: 500â€¯000 Ã— 40â€¯% = **200â€¯000â€¯kr**
 
-**Eksempel 2 â€“ Mellomstor bÃ¥t:**  
+**Eksempel 2 “ Mellomstor bÃ¥t:**  
 - Fangstinntekt: 800â€¯000â€¯kr  
 - Fradrag: 800â€¯000 Ã— 30â€¯% = **240â€¯000â€¯kr**
 
@@ -78,3 +78,5 @@ Fiskerfradrag fÃ¸res som et eget fradrag i resultatregnskapet, atskilt fra ord
 ## Konklusjon
 
 **Fiskerfradrag** er et viktig verktÃ¸y for fiskeri- og havbruksnÃ¦ringen for Ã¥ sikre Ã¸konomisk stabilitet og langsiktig bÃ¦rekraft. Ved Ã¥ forstÃ¥ grunnlaget, beregningsmetoder og dokumentasjonskrav kan fiskere optimalisere sine skatteposisjoner og investere i framtiden.
+
+

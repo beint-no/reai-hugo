@@ -304,7 +304,7 @@ For Ã¥ lÃ¦re mer om emner som henger sammen med baksmell, se ogsÃ¥:
 * **[Mva](/blogs/regnskap/hva-er-moms-mva "Hva er Merverdiavgift (MVA)? Beregning og RegnskapsfÃ¸ring")**
 * **[Likviditet](/blogs/regnskap/hva-er-likviditet "Hva er Likviditet? MÃ¥ling og Styring av Betalingsevne")**
 * **[FremfÃ¸rbart underskudd](/blogs/regnskap/fremforbart-underskudd "FremfÃ¸rbart underskudd: Komplett guide til hÃ¥ndtering av underskudd i regnskap og skatt")**
-* **[Restskatt](/blogs/regnskap/restskatt "Restskatt â€“ Hva er restskatt og hvordan beregnes den?")**
+* **[Restskatt](/blogs/regnskap/restskatt "Restskatt “ Hva er restskatt og hvordan beregnes den?")**
 
 ## Oppsummering
 
@@ -319,3 +319,6 @@ For Ã¥ lÃ¦re mer om emner som henger sammen med baksmell, se ogsÃ¥:
 * **Kontinuerlig forbedring** av interne rutiner
 
 Ved Ã¥ ta hensyn til disse faktorene kan virksomheter sikre mer **nÃ¸yaktig finansiell rapportering** og unngÃ¥ de negative konsekvensene som baksmell kan medfÃ¸re.
+
+
+

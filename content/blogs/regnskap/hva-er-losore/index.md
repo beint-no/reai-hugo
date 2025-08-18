@@ -17,7 +17,7 @@ I norsk rett og regnskapspraksis defineres **lÃ¸sÃ¸re** som alle fysiske, **
 
 ## Juridisk grunnlag
 
-I panteloven (Â§â€¯1â€‘2) skilles det eksplisitt mellom pant i fast eiendom og pant i lÃ¸sÃ¸re. **Pant i lÃ¸sÃ¸re** gir kreditor rett til Ã¥ dekke sitt krav ved salg av de pantsatte, flyttbare eiendelene dersom debitor misligholder sine forpliktelser.
+I panteloven (Â§â€¯1‘2) skilles det eksplisitt mellom pant i fast eiendom og pant i lÃ¸sÃ¸re. **Pant i lÃ¸sÃ¸re** gir kreditor rett til Ã¥ dekke sitt krav ved salg av de pantsatte, flyttbare eiendelene dersom debitor misligholder sine forpliktelser.
 
 ## Klassifisering av LÃ¸sÃ¸re
 
@@ -60,3 +60,5 @@ Ved varig verdifall skal det foretas **nedskrivning** til laveste verdi (anskaff
 ## Relevans og intern lenking
 
 LÃ¸sÃ¸re spiller en sentral rolle bÃ¥de i [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse i Regnskap? Oppbygging og Analyse") og ved sikkerhetsstillelse i form av pant. For mer om eiendeler generelt, se [Hva er Eiendel?](/blogs/regnskap/hva-er-eiendel "Hva er Eiendel i Regnskap? Komplett Guide til Eiendom og Verdier").
+
+

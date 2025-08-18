@@ -49,3 +49,6 @@ Metoden for forholdsmessig fradragsrett er beskrevet i [merverdiavgiftsloven](/b
 - [Omvendt avgiftsplikt](/blogs/regnskap/omvendt-avgiftsplikt "Omvendt avgiftsplikt")
 - [Mva-loven](/blogs/regnskap/mva-loven "Mva-loven")
 - [Medsalgsplikt](/blogs/regnskap/medsalgsplikt "Hva er Medsalgsplikt? Komplett Guide til Medsalgsplikt og Merverdiavgift")
+
+
+

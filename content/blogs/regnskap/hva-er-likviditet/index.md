@@ -351,4 +351,6 @@ Kommende regulatoriske endringer som kan pÃ¥virke likviditetsstyring:
 
 Ved Ã¥ mestre likviditetsstyring kan bedrifter ikke bare sikre sin finansielle stabilitet, men ogsÃ¥ posisjonere seg for langsiktig suksess i et stadig mer komplekst forretningslandskap.
 
-For Ã¥ fÃ¥ en helhetlig forstÃ¥else av bedriftens finansielle helse, bÃ¸r likviditetsanalyse alltid ses i sammenheng med [lÃ¸nnsomhetsanalyse](/blogs/regnskap/hva-er-driftsresultat "Hva er Driftsresultat? Komplett Guide til Driftsresultat og LÃ¸nnsomhetsanalyse"), [soliditetsanalyse](/blogs/regnskap/soliditet "Soliditet â€“ ForstÃ¥else av egenkapitalandel og finansiell robusthet"), og overordnet [finansregnskap](/blogs/regnskap/hva-er-finansregnskap "Hva er Finansregnskap? En Komplett Guide til Ekstern Finansiell Rapportering").
+For Ã¥ fÃ¥ en helhetlig forstÃ¥else av bedriftens finansielle helse, bÃ¸r likviditetsanalyse alltid ses i sammenheng med [lÃ¸nnsomhetsanalyse](/blogs/regnskap/hva-er-driftsresultat "Hva er Driftsresultat? Komplett Guide til Driftsresultat og LÃ¸nnsomhetsanalyse"), [soliditetsanalyse](/blogs/regnskap/soliditet "Soliditet “ ForstÃ¥else av egenkapitalandel og finansiell robusthet"), og overordnet [finansregnskap](/blogs/regnskap/hva-er-finansregnskap "Hva er Finansregnskap? En Komplett Guide til Ekstern Finansiell Rapportering").
+
+

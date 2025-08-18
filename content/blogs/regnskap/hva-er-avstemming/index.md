@@ -330,3 +330,6 @@ For Ã¥ lykkes med avstemminger er det viktig Ã¥:
 Ved Ã¥ fÃ¸lge beste praksis og utnytte moderne verktÃ¸y kan organisasjoner transformere avstemmingsarbeid fra en tidkrevende oppgave til en verdiskapende aktivitet som styrker den finansielle kontrollen.
 
 Avstemminger er spesielt kritiske under [Ã¥rsavslutning](/blogs/regnskap/hva-er-aarsavslutning "Hva er Ã…rsavslutning i Regnskap? Komplett Guide til Ã…rsoppgjÃ¸r og Regnskapsavslutning"), hvor alle kontoer mÃ¥ vÃ¦re korrekt avstemt og alle avvik mÃ¥ vÃ¦re [avregnet](/blogs/regnskap/hva-er-avregning "Hva er Avregning i Regnskap? Komplett Guide til Avregning") fÃ¸r Ã¥rsregnskapet kan ferdigstilles og godkjennes.
+
+
+

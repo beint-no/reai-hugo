@@ -11,11 +11,11 @@ layout: pages/single
 
 For en oversikt over ulike selskapsformer i Norge, se [Selskapsform](/blogs/regnskap/selskapsform "Selskapsform: Oversikt over selskapsformer i Norge").
 
-Et **samvirkeforetak (SA)** er en **Ã¸konomisk forening** der medlemmene eier, styrer og deler overskudd basert pÃ¥ **samvirkeprinsippet**. Denne selskapsformen er spesielt vanlig innen landbruk, boligbygging og finans i Norge. Les mer om ulike foretaksformer i vÃ¥r artikkel om [Hva er et Foretak?](/blogs/regnskap/hva-er-foretak "Foretaksformer i Norge â€“ Oversikt og Regnskapskrav").
+Et **samvirkeforetak (SA)** er en **Ã¸konomisk forening** der medlemmene eier, styrer og deler overskudd basert pÃ¥ **samvirkeprinsippet**. Denne selskapsformen er spesielt vanlig innen landbruk, boligbygging og finans i Norge. Les mer om ulike foretaksformer i vÃ¥r artikkel om [Hva er et Foretak?](/blogs/regnskap/hva-er-foretak "Foretaksformer i Norge “ Oversikt og Regnskapskrav").
 
 ## NÃ¸kkelfunksjoner
 
-* **Eierskap og stemmerett:** Ett medlem, Ã©n stemme â€“ uavhengig av kapitalinnskudd.
+* **Eierskap og stemmerett:** Ett medlem, Ã©n stemme “ uavhengig av kapitalinnskudd.
 * **Medlemsfordel:** Medlemmer mottar andel av overskudd basert pÃ¥ omsetning eller bruk.
 * **Ã…pent medlemskap:** Nye medlemmer kan ofte tas opp etter vedtektene.
 * **Begrenset ansvar:** Medlemmene har vanligvis begrenset personlig ansvar for foretakets forpliktelser.
@@ -65,3 +65,5 @@ Samvirkeprinsippet bygger pÃ¥ ideene om frivillig og Ã¥pent medlemskap, demo
 ---
 
 For mer om **Ã¸konomisk forening**, se vÃ¥r artikkel om [Hva er en Forening?](/blogs/regnskap/hva-er-forening "Hva er en Forening?").
+
+

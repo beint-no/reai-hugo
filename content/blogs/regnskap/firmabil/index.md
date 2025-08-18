@@ -62,3 +62,6 @@ FÃ¸lg disse rÃ¥dene for effektiv hÃ¥ndtering av firmabil:
 * Samle alle bilag digitalt for enkel [bilagsbehandling](/blogs/regnskap/hva-er-bilag "Hva er Bilag i Regnskap? Komplett Guide til Regnskapsbilag og Dokumentasjon").
 * GjennomfÃ¸r jevnlige kontroller av kjÃ¸rte kilometer mot kjÃ¸rebok.
 * Vurder bruk av digitale lÃ¸sninger for automatisk registrering av kjÃ¸redata.
+
+
+

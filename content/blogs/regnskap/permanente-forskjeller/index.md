@@ -25,7 +25,7 @@ En **permanent forskjell** oppstÃ¥r nÃ¥r det er en varig avvik mellom regnsk
 ## Vanlige eksempler
 
 * BÃ¸ter og straffeskatt som ikke er fradragsberettiget.
-* Skattefrie utbytter fra datterselskaper (se [Hva er Fritaksmetoden?](/blogs/regnskap/fritaksmetoden "Fritaksmetoden â€“ Skattefri inntekt i selskapsbeskatning")).
+* Skattefrie utbytter fra datterselskaper (se [Hva er Fritaksmetoden?](/blogs/regnskap/fritaksmetoden "Fritaksmetoden “ Skattefri inntekt i selskapsbeskatning")).
 * Gaver til godkjente veldedige organisasjoner (innenfor belÃ¸psgrenser).
 
 ## Eksempel pÃ¥ pÃ¥virkning av skattemessig resultat
@@ -46,7 +46,9 @@ Permanent forskjeller skiller seg fra midlertidige forskjeller, som [Midlertidig
 ## Videre lesning
 
 * [Midlertidige forskjeller](/blogs/regnskap/midlertidige-forskjeller "Midlertidige forskjeller i regnskap og skatt")
-* [Utsatt skattefordel](/blogs/regnskap/utsatt-skattefordel "Utsatt skattefordel â€“ Guide til beregning og bokfÃ¸ring")
+* [Utsatt skattefordel](/blogs/regnskap/utsatt-skattefordel "Utsatt skattefordel “ Guide til beregning og bokfÃ¸ring")
 * [Hva er Utsatt Skatt?](/blogs/regnskap/hva-er-utsatt-skatt "Hva er Utsatt Skatt? Beregning og RegnskapsfÃ¸ring")
-* [Fritaksmetoden](/blogs/regnskap/fritaksmetoden "Fritaksmetoden â€“ Skattefri inntekt i selskapsbeskatning")
+* [Fritaksmetoden](/blogs/regnskap/fritaksmetoden "Fritaksmetoden “ Skattefri inntekt i selskapsbeskatning")
 * [Hva er Periodisering i Regnskap?](/blogs/regnskap/hva-er-periodisering "Periodisering i Regnskap - Komplett Guide til Periodiseringsprinsippet")
+
+

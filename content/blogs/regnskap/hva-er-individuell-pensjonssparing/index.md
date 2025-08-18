@@ -51,3 +51,5 @@ For privatpersoner reduseres den skattepliktige inntekten med innbetalt belÃ¸p
 * [Frivillig Innskuddspensjon](/blogs/regnskap/frivillig-innskuddspensjon "Frivillig Innskuddspensjon: Guide til Frivillig Pensjonsordning for Bedrifter og Ansatte")
 * [Hva er pensjonsrapportering?](/blogs/regnskap/hva-er-pensjonsrapportering "Hva er Pensjonsrapportering? Komplett Guide til Pensjon i Regnskap")
 * [Pensjonskapitalbevis](/blogs/regnskap/pensjonskapitalbevis "Pensjonskapitalbevis: Hva er pensjonskapitalbevis?")
+
+

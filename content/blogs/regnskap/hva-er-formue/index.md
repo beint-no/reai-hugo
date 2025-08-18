@@ -400,3 +400,5 @@ Moderne [ERP-systemer](/blogs/regnskap/hva-er-erp-system "Hva er ERP-system? Fun
 Ved Ã¥ fÃ¸lge prinsippene for **formueoppbygging**, **diversifisering** og **langsiktig tenkning** kan bÃ¥de privatpersoner og bedrifter bygge solid Ã¸konomisk fundament for fremtiden.
 
 Regelmessig **formueanalyse** og **oppfÃ¸lging** av nÃ¸kkeltall sikrer at man holder oversikt over den Ã¸konomiske utviklingen og kan ta informerte beslutninger om fremtidig strategi og investeringer.
+
+

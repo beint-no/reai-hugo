@@ -264,7 +264,7 @@ Betalingstjenester kan integreres med [automatisert fakturabehandling](/blogs/re
 
 **Automatisk matching:**
 * [KID-nummer](/blogs/regnskap/hva-er-kid-nummer "Hva er KID-nummer? Komplett Guide til Kunde-IDentifikasjon i Norge") kobler betalinger til [fakturaer](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav")
-* [OCR-nummer](/blogs/regnskap/hva-er-ocr "Hva er OCR? OCR i Norske Regnskapsprosesser â€“ En Komplett Guide") sikrer korrekt [kundeoppfÃ¸lging](/blogs/regnskap/hva-er-kundereskontro "Hva er Kundereskontro? Komplett Guide til Kundefordringsstyring")
+* [OCR-nummer](/blogs/regnskap/hva-er-ocr "Hva er OCR? OCR i Norske Regnskapsprosesser “ En Komplett Guide") sikrer korrekt [kundeoppfÃ¸lging](/blogs/regnskap/hva-er-kundereskontro "Hva er Kundereskontro? Komplett Guide til Kundefordringsstyring")
 * Automatisk oppdatering av [kundefordringer](/blogs/regnskap/hva-er-kundefordring "Hva er Kundefordring? Komplett Guide til DebitorhÃ¥ndtering")
 
 **Varslingssystemer:**
@@ -457,3 +457,6 @@ Successfull implementering krever grundig planlegging, forstÃ¥else av regulato
 Etterhvert som teknologien utvikler seg, vil betalingstjenester bli enda mer integrert med regnskaps- og forretningsprosesser. Bedrifter som investerer i Ã¥ forstÃ¥ og optimalisere sine betalingslÃ¸sninger i dag, vil vÃ¦re bedre posisjonert for fremtidens digitale handelsmiljÃ¸.
 
 For relaterte temaer, se vÃ¥re guider til [elektronisk fakturering](/blogs/regnskap/hva-er-elektronisk-fakturering "Hva er Elektronisk Fakturering? Komplett Guide til Digitale FakturalÃ¸sninger"), [API-integrasjon](/blogs/regnskap/api-integrasjon-automatisering-regnskap "API-integrasjon & Automatisering i Regnskap"), [banktransaksjoner](/blogs/regnskap/hva-er-banktransaksjoner "Hva er Banktransaksjoner? Typer, RegnskapsfÃ¸ring og Automatisering") og [betalingstjenestedirektivet](/blogs/regnskap/hva-er-betalingstjenestedirektivet "Hva er betalingstjenestedirektivet? PSD2 og Norske Regnskapsregler").
+
+
+

@@ -72,3 +72,6 @@ Beregn alternativkostnad ved Ã¥ identifisere den beste alternative bruken av r
 Ved budsjettering bidrar alternativkostnad til Ã¥ sikre at ressursene fordeles til prosjekter med hÃ¸yest forventet avkastning. Se ogsÃ¥ [Budsjettering](/blogs/regnskap/hva-er-budsjettering "Hva er Budsjettering? Komplett Guide til Budsjettplanlegging").
 
 I investeringsanalyse hjelper alternativkostnad med Ã¥ rangere prosjekter etter opportunitetskostnader, sammen med metoder som [Inntjeningsbasert Verdivurdering](/blogs/regnskap/hva-er-inntjeningsbasert-verdivurdering "Hva er Inntjeningsbasert Verdivurdering? Komplett Guide til Verdsettelsesmetoder").
+
+
+

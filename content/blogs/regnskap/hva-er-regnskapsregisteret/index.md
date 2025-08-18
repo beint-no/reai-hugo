@@ -47,3 +47,5 @@ Regnskapsregisteret kan sÃ¸kes via offentlige tjenester som Proff, Brreg.no og
 * [Hva er Foretaksregisteret?](/blogs/regnskap/hva-er-foretaksregisteret "Hva er Foretaksregisteret? Komplett Guide til Foretaksregisteret i Norge")
 * [Hva er Enhetsregisteret?](/blogs/regnskap/hva-er-enhetsregisteret "Hva er Enhetsregisteret? En Komplett Guide til Enhetsregisteret i Norge")
 * [Hva er MVA-registeret?](/blogs/regnskap/hva-er-mva-registeret "Hva er MVA-registeret? Registreringsplikt for Merverdiavgift")
+
+

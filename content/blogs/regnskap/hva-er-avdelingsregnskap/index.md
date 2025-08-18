@@ -309,3 +309,6 @@ Avdelingsregnskap er et **kraftig styringsverktÃ¸y** som gir ledelsen detaljer
 - **Motivere avdelingsledere til bedre prestasjoner**
 
 Suksess med avdelingsregnskap krever **riktige fordelingsnÃ¸kler**, **gode systemer** og **engasjert ledelse** pÃ¥ alle nivÃ¥er. Med moderne teknologi blir det stadig enklere Ã¥ implementere og drifte avanserte avdelingsregnskapssystemer som gir verdifull innsikt for bedre styring og kontroll.
+
+
+

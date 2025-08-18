@@ -45,3 +45,5 @@ Minstepensjon pÃ¥virker ikke direkte bedriftens regnskap, men rettigheter og u
 * [Hva er pensjon?](/blogs/regnskap/hva-er-pensjon "Hva er pensjon? En oversikt over norsk pensjonssystem") for en helhetlig gjennomgang av alle pensjonssÃ¸yler.
 * [Obligatorisk tjenestepensjon (OTP)](/blogs/regnskap/obligatorisk-tjenestepensjon "Obligatorisk tjenestepensjon: Regler og regnskapsfÃ¸ring") for bedriftens pensjonsforpliktelser.
 * [Individuell pensjonssparing](/blogs/regnskap/hva-er-individuell-pensjonssparing "Hva er individuell pensjonssparing? IPS og andre spareformer") for privat sparing i tredje sÃ¸yle.
+
+

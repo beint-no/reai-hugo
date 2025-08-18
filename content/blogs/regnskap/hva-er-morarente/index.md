@@ -1,13 +1,13 @@
 ﻿---
 title: "Hva er morarente?"
 meta_title: "Hva er morarente?"
-meta_description: '**Morarente** er en type [rente](/blogs/regnskap/rente "Rente â€“ En komplett guide til rente i regnskap") og den juridiske betegnelsen for lovpÃ¥lagt rente som...'
+meta_description: '**Morarente** er en type [rente](/blogs/regnskap/rente "Rente “ En komplett guide til rente i regnskap") og den juridiske betegnelsen for lovpÃ¥lagt rente som...'
 slug: hva-er-morarente
 type: blog
 layout: pages/single
 ---
 
-**Morarente** er en type [rente](/blogs/regnskap/rente "Rente â€“ En komplett guide til rente i regnskap") og den juridiske betegnelsen for lovpÃ¥lagt rente som automatisk pÃ¥lÃ¸per nÃ¥r en betaling ikke skjer innen avtalt forfallsdato. Begrepet stammer fra det latinske "mora" som betyr forsinkelse, og representerer en fundamental rettssikkerhet i norsk kontraktsrett. Morarente sikrer at [kreditorer](/blogs/regnskap/hva-er-kreditor "Hva er Kreditor? Komplett Guide til LeverandÃ¸rgjeld og KreditorhÃ¥ndtering") kompenseres for Ã¸konomiske tap ved forsinket betaling, og gjelder for alle typer pengefordringer inkludert [fakturaer](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav"), lÃ¥n og andre betalingsforpliktelser.
+**Morarente** er en type [rente](/blogs/regnskap/rente "Rente “ En komplett guide til rente i regnskap") og den juridiske betegnelsen for lovpÃ¥lagt rente som automatisk pÃ¥lÃ¸per nÃ¥r en betaling ikke skjer innen avtalt forfallsdato. Begrepet stammer fra det latinske "mora" som betyr forsinkelse, og representerer en fundamental rettssikkerhet i norsk kontraktsrett. Morarente sikrer at [kreditorer](/blogs/regnskap/hva-er-kreditor "Hva er Kreditor? Komplett Guide til LeverandÃ¸rgjeld og KreditorhÃ¥ndtering") kompenseres for Ã¸konomiske tap ved forsinket betaling, og gjelder for alle typer pengefordringer inkludert [fakturaer](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav"), lÃ¥n og andre betalingsforpliktelser.
 
 ![Morarente Oversikt](hva-er-morarente-image.svg)
 
@@ -294,7 +294,7 @@ Morarente kan bli gjenstand for juridiske tvister, sÃ¦rlig nÃ¥r det gjelder 
 **Beregningstvister:**
 * **Rentesats:** Uenighet om gjeldende rentesats pÃ¥ pÃ¥lÃ¸pstidspunktet
 * **Beregningsperiode:** Diskusjon om start- og sluttdato for renteberegning
-* [**Kapitalisering**](/blogs/regnskap/renters-rente "Renters rente â€“ Rente pÃ¥ rente i regnskap"): Uenighet om sammensatt rente og kapitalisering
+* [**Kapitalisering**](/blogs/regnskap/renters-rente "Renters rente “ Rente pÃ¥ rente i regnskap"): Uenighet om sammensatt rente og kapitalisering
 
 ### TvistelÃ¸sningsmekanismer
 
@@ -360,3 +360,5 @@ Morarente representerer en fundamental rettssikkerhet i norsk kontraktsrett som 
 Ved Ã¥ fÃ¸lge beste praksis for morarente-hÃ¥ndtering kan norske bedrifter bÃ¥de beskytte sine interesser som kreditorer og minimere kostnader som debitorer, samtidig som de bidrar til et velfungerende og tillitsbasert forretningsklima.
 
 For ytterligere informasjon om relaterte emner, se vÃ¥re artikler om [forsinkelsesrente](/blogs/regnskap/hva-er-forsinkelsesrente "Hva er Forsinkelsesrente? Komplett Guide til Morarenter og Beregning"), [inkassosalÃ¦r](/blogs/regnskap/hva-er-inkassosalaer "Hva er InkassosalÃ¦r? Komplett Guide til Inkassokostnader og Innkrevingsgebyrer") og [debitorhÃ¥ndtering](/blogs/regnskap/hva-er-debitor "Hva er Debitor? Komplett Guide til Kundefordringer og DebitorhÃ¥ndtering").
+
+

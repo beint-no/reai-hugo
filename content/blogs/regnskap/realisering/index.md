@@ -45,7 +45,7 @@ NÃ¥r en eiendel realiseres, mÃ¥ bokfÃ¸rt verdi fjernes fra balansen, og sa
 Gevinst eller tap beregnes som forskjellen mellom salgsinntekt og bokfÃ¸rt verdi ved tidspunktet for realisering:
 
 ```text
-Gevinst/tap = Salgspris â€“ BokfÃ¸rt verdi
+Gevinst/tap = Salgspris “ BokfÃ¸rt verdi
 ```
 
 | Resultat            | Beregning                                                               |
@@ -70,3 +70,5 @@ Realisering henger tett sammen med andre prinsipper som [aktivering](/blogs/regn
 ## 8. Videre lesning
 
 For en dypere gjennomgang av gevinst- og tapskontoer, se [Gevinst og tapskonto](/blogs/regnskap/gevinst-og-tapskonto "Gevinst- og tapskonto: HÃ¥ndtering av Gevinst og Tap i Regnskap").
+
+

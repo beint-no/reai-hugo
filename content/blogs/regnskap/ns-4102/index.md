@@ -28,13 +28,13 @@ NSÂ 4102 er organisert i fÃ¸lgende hovedklasser:
 
 | Klasse | FormÃ¥l | Kontonummer |
 |--------|--------|-------------|
-| **1** | Eiendeler | 1000â€“1999 |
-| **2** | Egenkapital og gjeld | 2000â€“2999 |
-| **3** | Driftsinntekter | 3000â€“3999 |
-| **4** | Driftskostnader | 4000â€“4999 |
-| **5** | Finansinntekter og -kostnader | 5000â€“5999 |
-| **6** | UtlÃ¥n og avsetninger | 6000â€“6999 |
-| **7** | Tilleggsinformasjon | 7000â€“7999 |
+| **1** | Eiendeler | 1000“1999 |
+| **2** | Egenkapital og gjeld | 2000“2999 |
+| **3** | Driftsinntekter | 3000“3999 |
+| **4** | Driftskostnader | 4000“4999 |
+| **5** | Finansinntekter og -kostnader | 5000“5999 |
+| **6** | UtlÃ¥n og avsetninger | 6000“6999 |
+| **7** | Tilleggsinformasjon | 7000“7999 |
 
 ![NSÂ 4102 Hovedstruktur](ns-4102-main-structure.svg)
 
@@ -54,9 +54,9 @@ Det er vanlig at kommuner legger til lokale konti:
 
 | Type | Beskrivelse | Eksempel |
 |------|-------------|----------|
-| **Prosjektregnskap** | Sporer prosjektrelaterte kostnader | 6100 â€“ Prosjekt A |
-| **Investeringsregnskap** | Separate kontoer for investeringer | 6200 â€“ Investering Anlegg |
-| **Internsalg** | Interne overfÃ¸ringer og kostnadsdeling | 6300 â€“ InternkjÃ¸p |
+| **Prosjektregnskap** | Sporer prosjektrelaterte kostnader | 6100 “ Prosjekt A |
+| **Investeringsregnskap** | Separate kontoer for investeringer | 6200 “ Investering Anlegg |
+| **Internsalg** | Interne overfÃ¸ringer og kostnadsdeling | 6300 “ InternkjÃ¸p |
 
 ## Sammenheng med Generelle Kontoplaner
 
@@ -77,3 +77,5 @@ Tilgjengelige ressurser for NSÂ 4102:
 ## Konklusjon
 
 NSÂ 4102 er et **grunnleggende rammeverk** for kommunal regnskapsfÃ¸ring og sikrer felles struktur og etterlevelse. Ved riktig implementering og lÃ¸pende internkontroll bidrar NSÂ 4102 til mer effektiv, sammenlignbar og transparent regnskapsrapportering i kommunal sektor.
+
+

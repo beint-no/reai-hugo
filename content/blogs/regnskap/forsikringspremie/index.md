@@ -54,3 +54,6 @@ Forsikringspremier er et spesialtilfelle av [forskuddsbetaling](/blogs/regnskap/
 ## Seksjon 4: Oppsummering
 
 Forsikringspremie mÃ¥ regnskapsfÃ¸res som forskuddsbetalt kostnad og periodiseres over forsikringsperioden. Korrekt bokfÃ¸ring sikrer at kostnaden matches mot riktig periode og gir et presist bilde av virksomhetens finansielle situasjon.
+
+
+

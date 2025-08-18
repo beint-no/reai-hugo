@@ -37,12 +37,12 @@ Disagio = PÃ¥lydende verdi - Netto mottatt belÃ¸p
 
 | Ã…r | Netto mottatt belÃ¸p | Amortisert Disagio | Akkumulert Disagio | BokfÃ¸rt Verdi |
 |----|---------------------|--------------------|--------------------|---------------|
-| 0  | 95Â 000              | â€“                  | 0                  | 95Â 000        |
-| 1  | â€“                   | 1Â 000              | 1Â 000              | 96Â 000        |
-| 2  | â€“                   | 1Â 000              | 2Â 000              | 97Â 000        |
-| 3  | â€“                   | 1Â 000              | 3Â 000              | 98Â 000        |
-| 4  | â€“                   | 1Â 000              | 4Â 000              | 99Â 000        |
-| 5  | â€“                   | 1Â 000              | 5Â 000              | 100Â 000       |
+| 0  | 95Â 000              | “                  | 0                  | 95Â 000        |
+| 1  | “                   | 1Â 000              | 1Â 000              | 96Â 000        |
+| 2  | “                   | 1Â 000              | 2Â 000              | 97Â 000        |
+| 3  | “                   | 1Â 000              | 3Â 000              | 98Â 000        |
+| 4  | “                   | 1Â 000              | 4Â 000              | 99Â 000        |
+| 5  | “                   | 1Â 000              | 5Â 000              | 100Â 000       |
 
 ## Seksjon 3: Regnskapsmessig Behandling
 
@@ -70,7 +70,7 @@ For prinsipper for diskontering, se [Hva er Diskontering?](/blogs/regnskap/hva-e
 
 Emisjonsrabatt skal behandles i henhold til NRS for finansielle instrumenter og periodiseringsprinsippet. Disagio klassifiseres som kostnad som fÃ¸res over lÃ¥nets lÃ¸petid.
 
-### 4.2 IFRS 9 â€“ Finansielle instrumenter
+### 4.2 IFRS 9 “ Finansielle instrumenter
 
 Under IFRS 9 mÃ¥ finansielle forpliktelser mÃ¥les til amortisert kost ved bruk av **[Effektiv rente](/blogs/regnskap/hva-er-effektiv-rente "Hva er Effektiv rente? Komplett Guide til Beregning av Effektiv rente i Regnskap")**-metoden, hvor disagio inngÃ¥r i beregningen av **[Effektiv rente](/blogs/regnskap/hva-er-effektiv-rente "Hva er Effektiv rente? Komplett Guide til Beregning av Effektiv rente i Regnskap")**.
 
@@ -78,7 +78,7 @@ Under IFRS 9 mÃ¥ finansielle forpliktelser mÃ¥les til amortisert kost ved br
 
 Skattemessig fordeles disagio vanligvis lineÃ¦rt over lÃ¥nets lÃ¸petid og gir fradrag etter realisasjonsprinsippet.
 
-## Seksjon 5: Praktisk Eksempel â€“ Emisjonsrabatt pÃ¥ Obligasjon
+## Seksjon 5: Praktisk Eksempel “ Emisjonsrabatt pÃ¥ Obligasjon
 
 En bedrift utsteder en obligasjon med pÃ¥lydende 1Â 000Â 000 kr til kurs 98 (netto 980Â 000 kr). Disagio er da 20Â 000 kr.
 
@@ -90,3 +90,6 @@ For mer informasjon om obligasjoner, se [Hva er Obligasjon?](/blogs/regnskap/hva
 * [Hva er Amortisering?](/blogs/regnskap/hva-er-amortisering "Hva er Amortisering? Prinsipper for Avskrivning, Amortisering og Diskontering")
 * [Hva er Diskontering?](/blogs/regnskap/hva-er-diskontering "Hva er Diskontering? Prinsipper og Praktiske Eksempler")
 * [Hva er Obligasjon?](/blogs/regnskap/hva-er-obligasjon "Hva er Obligasjon? Guide til Obligasjoner, Renter og Avkastning")
+
+
+

@@ -292,4 +292,7 @@ Balansen er ikke bare et regnskapsteknisk dokument, men et strategisk verktÃ¸y
 
 ## Soliditet og Solvens
 
-Mens balansen gir innsikt i bedriftens finansielle posisjon pÃ¥ et bestemt tidspunkt, fokuserer **[soliditet](/blogs/regnskap/soliditet "Soliditet â€“ ForstÃ¥else av egenkapitalandel og finansiell robusthet")** pÃ¥ bedriftens langsiktige finansielle robusthet ved Ã¥ mÃ¥le andelen egenkapital i totalkapitalen. Soliditet komplementerer balansen ved Ã¥ gi en rask indikasjon pÃ¥ selskapets evne til Ã¥ tÃ¥le tap og finansielle pÃ¥kjenninger.
+Mens balansen gir innsikt i bedriftens finansielle posisjon pÃ¥ et bestemt tidspunkt, fokuserer **[soliditet](/blogs/regnskap/soliditet "Soliditet “ ForstÃ¥else av egenkapitalandel og finansiell robusthet")** pÃ¥ bedriftens langsiktige finansielle robusthet ved Ã¥ mÃ¥le andelen egenkapital i totalkapitalen. Soliditet komplementerer balansen ved Ã¥ gi en rask indikasjon pÃ¥ selskapets evne til Ã¥ tÃ¥le tap og finansielle pÃ¥kjenninger.
+
+
+

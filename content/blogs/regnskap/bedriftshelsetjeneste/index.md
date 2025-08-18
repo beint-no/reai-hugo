@@ -20,7 +20,7 @@ Bedriftshelsetjeneste er regulert i **arbeidsmiljÃ¸loven** Â§Â 3-3 og tilh
 | Antall ansatte | Krav til BHT-tilknytning            | Kommentar                     |
 |---------------:|-------------------------------------|-------------------------------|
 | 50+            | Obligatorisk                        | Alle virksomheter med 50 eller flere ansatte mÃ¥ tilknytte BHT |
-| 20â€“49          | Obligatorisk ved sÃ¦rlig risiko      | NÃ¥r arbeidsmiljÃ¸et utgjÃ¸r hÃ¸y risiko for helse eller sikkerhet |
+| 20“49          | Obligatorisk ved sÃ¦rlig risiko      | NÃ¥r arbeidsmiljÃ¸et utgjÃ¸r hÃ¸y risiko for helse eller sikkerhet |
 | Under 20       | Anbefalt, men ikke pÃ¥lagt           | Mindre virksomheter oppfordres til Ã¥ benytte BHT frivillig     |
 
 ## 3. Tjenester og oppgaver
@@ -35,7 +35,7 @@ BHT tilbyr en rekke tjenester tilpasset virksomhetens behov:
 
 ## 4. Samarbeid med AMU og Internkontroll
 
-> Samarbeid med [ArbeidsmiljÃ¸utvalg (AMU)](/blogs/regnskap/amu "AMU (ArbeidsmiljÃ¸utvalg) â€“ Komplett Guide til ArbeidsmiljÃ¸utvalg i Norge") og integrering i virksomhetens internkontrollsystem er avgjÃ¸rende for et helhetlig HMS-arbeid.
+> Samarbeid med [ArbeidsmiljÃ¸utvalg (AMU)](/blogs/regnskap/amu "AMU (ArbeidsmiljÃ¸utvalg) “ Komplett Guide til ArbeidsmiljÃ¸utvalg i Norge") og integrering i virksomhetens internkontrollsystem er avgjÃ¸rende for et helhetlig HMS-arbeid.
 
 ## 5. Fordeler ved Bedriftshelsetjeneste
 
@@ -139,3 +139,6 @@ Bedriftshelsetjeneste er en sentral del av **HMS-arbeidet** i norske virksomhete
 * Kontinuerlig evaluering av tiltak
 
 Ved Ã¥ fÃ¸lge beste praksis kan virksomheter redusere risiko, forbedre arbeidsmiljÃ¸ og oppnÃ¥ lovpÃ¥lagt etterlevelse.
+
+
+

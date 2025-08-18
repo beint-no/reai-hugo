@@ -1,13 +1,13 @@
 ﻿---
 title: "Feriepengegrunnlag - Grunnlag for beregning av feriepenger i Norge"
 meta_title: "Feriepengegrunnlag - Grunnlag for beregning av feriepenger i Norge"
-meta_description: '**Feriepengegrunnlag** er det Ã¸konomiske **grunnlaget** for beregning av feriepenger i henhold til **[Ferieloven](/blogs/regnskap/ferieloven "Ferieloven â€“ Lo...'
+meta_description: '**Feriepengegrunnlag** er det Ã¸konomiske **grunnlaget** for beregning av feriepenger i henhold til **[Ferieloven](/blogs/regnskap/ferieloven "Ferieloven “ Lo...'
 slug: feriepengegrunnlag
 type: blog
 layout: pages/single
 ---
 
-**Feriepengegrunnlag** er det Ã¸konomiske **grunnlaget** for beregning av feriepenger i henhold til **[Ferieloven](/blogs/regnskap/ferieloven "Ferieloven â€“ Lov om ferie av 29. april 1988 nr. 21")** og norsk regnskapspraksis. Et korrekt feriepengegrunnlag sikrer at arbeidstakere fÃ¥r riktig **kompensasjon** og at virksomheter oppfyller sine regnskaps- og rapporteringsforpliktelser.
+**Feriepengegrunnlag** er det Ã¸konomiske **grunnlaget** for beregning av feriepenger i henhold til **[Ferieloven](/blogs/regnskap/ferieloven "Ferieloven “ Lov om ferie av 29. april 1988 nr. 21")** og norsk regnskapspraksis. Et korrekt feriepengegrunnlag sikrer at arbeidstakere fÃ¥r riktig **kompensasjon** og at virksomheter oppfyller sine regnskaps- og rapporteringsforpliktelser.
 
 ![Feriepengegrunnlag](feriepengegrunnlag-image.svg)
 
@@ -15,7 +15,7 @@ layout: pages/single
 
 Feriepengegrunnlaget er forankret i:
 
-* **[Ferieloven](/blogs/regnskap/ferieloven "Ferieloven â€“ Lov om ferie av 29. april 1988 nr. 21")** kapittel 2 om opptjening og beregning av feriepenger
+* **[Ferieloven](/blogs/regnskap/ferieloven "Ferieloven “ Lov om ferie av 29. april 1988 nr. 21")** kapittel 2 om opptjening og beregning av feriepenger
 * Bestemmelser i **regnskapsloven** og forskrift om Ã¥rsregnskap og Ã¥rsberetning for regnskapspliktige
 * Tariffavtaler som kan gi sÃ¦rskilte satser eller tillegg
 
@@ -76,3 +76,6 @@ Korrekt periodisering og avsetning av feriepengegrunnlaget er avgjÃ¸rende for 
 ## Oppsummering
 
 Et korrekt **feriepengegrunnlag** er nÃ¸kkelen til riktig beregning og utbetaling av feriepenger. Ved Ã¥ fÃ¸lge ferieloven, dokumentere alle relevante ytelser og periodisere i regnskapet, sikrer du rett kompensasjon til ansatte og oppfyllelse av regnskapsmessige krav.
+
+
+

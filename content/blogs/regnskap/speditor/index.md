@@ -75,3 +75,5 @@ Moderne speditÃ¸rtjenester tilbyr systemintegrasjoner som gir:
 4. SÃ¸rg for at alle transportdokumenter arkiveres i samsvar med [bokfÃ¸ringsloven](/blogs/regnskap/hva-er-bokforingsloven "Hva er BokfÃ¸ringsloven? Komplett Guide til Norsk Regnskapslovgivning").
 
 Se ogsÃ¥ [Hva er fraktbrev?](/blogs/regnskap/hva-er-fraktbrev "Hva er fraktbrev? Komplett Guide til Transportdokumenter og RegnskapsfÃ¸ring") for mer om fraktbrev og bilagshÃ¥ndtering.
+
+

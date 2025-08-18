@@ -52,7 +52,7 @@ For effektiv hÃ¥ndtering av fÃ¸dselspermisjon bÃ¸r virksomheter:
 
 * Ha klare rutiner for _innsending av inntektsmelding_ til NAV
 * Sikre korrekt _periodisering_ av kostnader i lÃ¸nnssystemet
-* Tilpasse arbeidskontrakter med permisjonsbestemmelser (se [Arbeidskontrakten](/blogs/regnskap/arbeidskontrakten "Arbeidskontrakten â€“ Roller og Ansvar i Norsk Arbeidsliv og Regnskap"))
+* Tilpasse arbeidskontrakter med permisjonsbestemmelser (se [Arbeidskontrakten](/blogs/regnskap/arbeidskontrakten "Arbeidskontrakten “ Roller og Ansvar i Norsk Arbeidsliv og Regnskap"))
 
 ## Seksjon 5: Relaterte emner og kilder
 
@@ -62,7 +62,7 @@ Her finner du flere artikler som kan vÃ¦re nyttige:
 * [Feriepengegrunnlag](/blogs/regnskap/feriepengegrunnlag "Feriepengegrunnlag: Grunnlag for beregning av feriepenger i Norge")
 * [Sykepenger](/blogs/regnskap/hva-er-sykepenger "Hva er Sykepenger? Arbeidsgiverperiode, NAV-refusjon og RegnskapsfÃ¸ring")
 * [Folketrygden](/blogs/regnskap/hva-er-folketrygden "Hva er Folketrygden? Struktur og Ytelser")
-* [Velferdspermisjon](/blogs/regnskap/velferdspermisjon "Velferdspermisjon â€“ Rettigheter, RegnskapsfÃ¸ring og Skattemessig Behandling")
+* [Velferdspermisjon](/blogs/regnskap/velferdspermisjon "Velferdspermisjon “ Rettigheter, RegnskapsfÃ¸ring og Skattemessig Behandling")
 
 ## Oppsummering
 
@@ -72,3 +72,6 @@ FÃ¸dselspermisjon og foreldrepenger er sentralt for bÃ¥de ansatte og arbeids
 * **Kompensasjon:** 100â€¯% eller 80â€¯% av gjennomsnittlig inntekt
 * **RegnskapsfÃ¸ring:** ForhÃ¥ndsfinansiering og refusjon fra NAV
 * **Praktiske tips:** Rutiner for inntektsmelding og kontraktsfesting
+
+
+

@@ -354,3 +354,6 @@ En proaktiv tilnÃ¦rming til avvikshÃ¥ndtering, kombinert med kontinuerlig fo
 - Tilpass prosessene til organisasjonens behov
 
 For mer informasjon om relaterte emner, se vÃ¥re artikler om [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide"), [internkontroll](/blogs/regnskap/hva-er-attestering "Hva er Attestering? Komplett Guide til Fakturaattest"), og [regnskapsfÃ¸ring](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide").
+
+
+

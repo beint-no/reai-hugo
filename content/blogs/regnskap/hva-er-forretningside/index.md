@@ -64,3 +64,5 @@ Moderne digitale verktÃ¸y kan hjelpe deg Ã¥ utvikle, teste og dokumentere fo
 ## Oppsummering
 
 En **forretningsidÃ©** er fundamentet for alle videre aktiviteter i en virksomhet. Ved Ã¥ definere og evaluere ideen grundig, legger du sterke fÃ¸ringer for bÃ¥de forretningsplanlegging og regnskapsfÃ¸ringen.
+
+

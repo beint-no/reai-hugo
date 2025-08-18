@@ -292,3 +292,6 @@ For mer informasjon om relaterte regnskapstemaer, se:
 * [Hva er Regnskap?](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide")
 * [Hva er Aktiva?](/blogs/regnskap/hva-er-aktiva "Hva er Aktiva? Forklaring av Eiendeler i Balansen")
 * [Hva er et Aksjeselskap?](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap? Komplett Guide til Selskapsformen")
+
+
+

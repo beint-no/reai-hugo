@@ -28,7 +28,7 @@ En forkjÃ¸psrett kan vÃ¦re **lovfestet** i vedtektene eller **avtalefestet**
 
 1. **Melding om salg**: Selger varsler selskapet eller forkjÃ¸psberettigede om tilbudet og pris.
 2. **Tilbud til forkjÃ¸psberettigede**: Partene fÃ¥r en tidsfrist til Ã¥ akseptere tilbudet.
-3. **Akseptfrist**: Typisk 14â€“30 dager etter varsel, avhengig of vedtekter eller avtale.
+3. **Akseptfrist**: Typisk 14“30 dager etter varsel, avhengig of vedtekter eller avtale.
 4. **GjennomfÃ¸ring**: Dersom forkjÃ¸psretten utÃ¸ves, kjÃ¸pes aksjene til avtalt pris; ellers kan selger gÃ¥ videre med ekstern kjÃ¸per.
 
 ## Praktiske eksempler
@@ -63,7 +63,10 @@ Regnskapsmessig har forkjÃ¸psrett vanligvis **ingen direkte regnskapsmessig ef
 
 ## Relaterte emner
 
-* [Vedtekter for Aksjeselskap](/blogs/regnskap/hva-er-vedtekter-for-aksjeselskap "Hva er Vedtekter for Aksjeselskap? Krav og Innhold") â€“ Lovfestede bestemmelser om blant annet forkjÃ¸psrett.
-* [Hva er en AksjonÃ¦ravtale?](/blogs/regnskap/aksjonaeravtale "Hva er en AksjonÃ¦ravtale? En Omfattende Guide til AksjonÃ¦ravtaler i Norge") â€“ Avtalefestede regler som kan inkludere forkjÃ¸psrett.
-* [Hva er en Aksjeeierbok?](/blogs/regnskap/hva-er-en-aksjeeierbok "Hva er en Aksjeeierbok? En Komplett Guide") â€“ Viktig dokumentasjon for registrering av eierskap.
-* [Tinglyse i Regnskap](/blogs/regnskap/tinglyse "Tinglyse i Regnskap: En Guide til Tinglysing") â€“ Sikring av pant og heftelser gjennom tinglysing.
+* [Vedtekter for Aksjeselskap](/blogs/regnskap/hva-er-vedtekter-for-aksjeselskap "Hva er Vedtekter for Aksjeselskap? Krav og Innhold") “ Lovfestede bestemmelser om blant annet forkjÃ¸psrett.
+* [Hva er en AksjonÃ¦ravtale?](/blogs/regnskap/aksjonaeravtale "Hva er en AksjonÃ¦ravtale? En Omfattende Guide til AksjonÃ¦ravtaler i Norge") “ Avtalefestede regler som kan inkludere forkjÃ¸psrett.
+* [Hva er en Aksjeeierbok?](/blogs/regnskap/hva-er-en-aksjeeierbok "Hva er en Aksjeeierbok? En Komplett Guide") “ Viktig dokumentasjon for registrering av eierskap.
+* [Tinglyse i Regnskap](/blogs/regnskap/tinglyse "Tinglyse i Regnskap: En Guide til Tinglysing") “ Sikring av pant og heftelser gjennom tinglysing.
+
+
+

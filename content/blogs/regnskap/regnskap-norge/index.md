@@ -57,9 +57,9 @@ For Ã¥ bli medlem i Regnskap Norge mÃ¥ virksomheten oppfylle visse **kvalifi
 
 Regnskap Norge arrangerer Ã¥rlig flere **konferanser** og **kurs**:
 
-1. **Regnskapsforum** â€“ hovedkonferanse med bransjeaktÃ¸rer og myndigheter  
-2. **Digitaliseringsseminar** â€“ fokus pÃ¥ nye teknologier, som [fakturatolk](/blogs/regnskap/hva-er-fakturatolk "Hva er Fakturatolk? AI-basert Fakturagjenkjenning og Automatisering")  
-3. **Kompetansedager** â€“ sertifiseringskurs i internkontroll og risikostyring  
+1. **Regnskapsforum** “ hovedkonferanse med bransjeaktÃ¸rer og myndigheter  
+2. **Digitaliseringsseminar** “ fokus pÃ¥ nye teknologier, som [fakturatolk](/blogs/regnskap/hva-er-fakturatolk "Hva er Fakturatolk? AI-basert Fakturagjenkjenning og Automatisering")  
+3. **Kompetansedager** “ sertifiseringskurs i internkontroll og risikostyring  
 4. Lokale fagmÃ¸ter i alle fylker
 
 ## Politisk pÃ¥virkning
@@ -81,3 +81,5 @@ Gjennom medlemskapet fÃ¥r du tilgang til _ekspertgrupper_ og samarbeidsforum:
 ## Kontakt og ressurser
 
 For mer informasjon, besÃ¸k [Regnskap Norge](https://www.regnskapnorge.no) eller send e-post til post@regnskapnorge.no.
+
+

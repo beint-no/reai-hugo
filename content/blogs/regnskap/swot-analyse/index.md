@@ -70,3 +70,5 @@ En typisk arbeidsflyt for SWOT-analyse kan vÃ¦re:
 * **Kombiner med andre verktÃ¸y:** Vurder ogsÃ¥ **PESTEL-analyse** for Ã¥ kartlegge makroÃ¸konomiske trender.
 
 En grundig **SWOT-analyse** er et verdifullt verktÃ¸y for norske virksomheter som Ã¸nsker Ã¥ styrke sin strategi, redusere risiko og skape vekst.
+
+

@@ -56,3 +56,6 @@ En typisk forklaring i en note kan se slik ut:
 4. **Oppdater forklaringene Ã¥rlig**: Reflekter endringer i forutsetninger og regelverk.
 
 Forklaringer bidrar til Ã¸kt troverdighet og beslutningsgrunnlag for bÃ¥de interne og eksterne interessenter.
+
+
+

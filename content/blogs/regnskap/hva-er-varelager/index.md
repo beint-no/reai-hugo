@@ -791,3 +791,5 @@ Fremtidens lagerforvaltning vil vÃ¦re karakteriseret av Ã¸kt automatisering,
 Varelager er ikke lenger bare en kostnadspost som skal minimaliseres, men en strategisk ressurs som kan optimaliseres for Ã¥ skape verdi pÃ¥ tvers av hele verdikjeden. Med riktig tilnÃ¦rming kan lagerforvaltning transformeres fra en operasjonell nÃ¸dvendighet til en kilde til varig konkurransefortrinn.
 
 For Ã¥ sikre at regnskapet gjenspeiler korrekt lagerbeholdning, utfÃ¸res regelmessig [varetelling](/blogs/regnskap/varetelling "Varetelling: Systematisk Lageropptelling og Korreksjon"), som beskrives i detalj i denne artikkelen.
+
+

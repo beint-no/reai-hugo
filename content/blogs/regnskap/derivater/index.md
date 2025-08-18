@@ -40,10 +40,10 @@ _Underliggende eiendel_, utlÃ¸psdato, avtalt pris (strike) og kontraktsstÃ¸r
 
 Vanlige modeller og metoder for verdsettelse av derivater inkluderer:
 
-* **Mark-to-market** â€“ daglig oppdatering til markedsverdi.
-* **Blackâ€“Scholes** â€“ prisingsmodell for europeiske opsjoner.
-* **Binomialmodell** â€“ diskret valuering med mulighet for amerikansk utÃ¸velse.
-* **Monte Carlo-simulering** â€“ numerisk metode for komplekse og eksotiske derivater.
+* **Mark-to-market** “ daglig oppdatering til markedsverdi.
+* **Black“Scholes** “ prisingsmodell for europeiske opsjoner.
+* **Binomialmodell** “ diskret valuering med mulighet for amerikansk utÃ¸velse.
+* **Monte Carlo-simulering** “ numerisk metode for komplekse og eksotiske derivater.
 
 ## Praktiske eksempler
 
@@ -53,10 +53,10 @@ Vanlige modeller og metoder for verdsettelse av derivater inkluderer:
 
 ## Risiko og styring
 
-* **Markedsrisiko** â€“ eksponering mot prisendringer i underliggende eiendel.
-* **Kredittrisiko** â€“ risiko for at motpart ikke oppfyller forpliktelser.
-* **Likviditetsrisiko** â€“ mulighet for vanskeligheter ved avvikling av posisjoner.
-* **Operasjonell risiko** â€“ prosess- og systemfeil knyttet til derivathandel.
+* **Markedsrisiko** “ eksponering mot prisendringer i underliggende eiendel.
+* **Kredittrisiko** “ risiko for at motpart ikke oppfyller forpliktelser.
+* **Likviditetsrisiko** “ mulighet for vanskeligheter ved avvikling av posisjoner.
+* **Operasjonell risiko** “ prosess- og systemfeil knyttet til derivathandel.
 
 ## Oppsummering og videre lesning
 
@@ -69,3 +69,6 @@ Se ogsÃ¥:
 * [Hva er Shorting?](/blogs/regnskap/shorting "Hva er Shorting? En Guide til Short-salg i Norske BÃ¸rser")
 
 *For mer om finansielle instrumenter i regnskap, se [Hva er Finansregnskap?](/blogs/regnskap/hva-er-finansregnskap "Hva er Finansregnskap? En Komplett Guide").*
+
+
+

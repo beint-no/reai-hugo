@@ -315,3 +315,5 @@ Digitale systemer kan forbedre:
 Honorar er en viktig del av moderne forretningsdrift som krever nÃ¸ye hÃ¥ndtering for Ã¥ sikre korrekt regnskapsmessig og skattemessig behandling. Ved Ã¥ forstÃ¥ forskjellene mellom honorar og lÃ¸nn, etablere gode rutiner for dokumentasjon og godkjenning, og holde seg oppdatert pÃ¥ gjeldende regelverk, kan bedrifter hÃ¥ndtere honorarutbetalinger pÃ¥ en effektiv og regelkonform mÃ¥te.
 
 Korrekt hÃ¥ndtering av honorar bidrar ikke bare til Ã¥ oppfylle juridiske krav, men ogsÃ¥ til Ã¥ opprettholde god [internkontroll](/blogs/regnskap/hva-er-attestering "Hva er Attestering? En Komplett Guide til Bilagsbehandling og Godkjenning") og Ã¸konomisk oversikt i bedriften. Med de rette systemene og prosedyrene pÃ¥ plass, kan honorar vÃ¦re et verdifullt verktÃ¸y for Ã¥ fÃ¥ tilgang til spesialisert kompetanse og ekspertise.
+
+

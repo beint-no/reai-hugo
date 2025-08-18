@@ -312,3 +312,6 @@ Ved salg til utlandet kommer tilleggsutfordringer:
 God debitorhÃ¥ndtering er avgjÃ¸rende for Ã¥ opprettholde sunn [likviditet](/blogs/regnskap/hva-er-betalingsevne "Hva er Betalingsevne? Guide til Likviditetsanalyse") og minimere tap pÃ¥ kundefordringer. Ved Ã¥ fÃ¸lge best practices og bruke moderne digitale verktÃ¸y kan virksomheter optimalisere sin debitorprosess og styrke sin finansielle posisjon.
 
 DebitorhÃ¥ndtering er ikke bare et regnskapsteknisk spÃ¸rsmÃ¥l, men en strategisk aktivitet som pÃ¥virker bÃ¥de kundeforhold og lÃ¸nnsomhet. Balansen mellom Ã¥ tilby attraktive kredittbetingelser og Ã¥ opprettholde god risikokontroll er nÃ¸kkelen til suksess.
+
+
+

@@ -7,7 +7,7 @@ type: blog
 layout: pages/single
 ---
 
-**BankGiro** er et av Norges mest brukte betalingssystemer for fakturaer og regninger. Dette elektroniske betalingssystemet gjÃ¸r det enkelt for bÃ¥de privatpersoner og bedrifter Ã¥ betale og motta betalinger med automatisk avstemming gjennom [OCR-nummer](/blogs/regnskap/hva-er-ocr "Hva er OCR? OCR i Norske Regnskapsprosesser â€“ En Komplett Guide"). Som en av de tradisjonelle [betalingstjenestene](/blogs/regnskap/betalingstjeneste "Hva er betalingstjeneste? Komplett Guide til Betalingstjenester i Norge") i Norge, utgjÃ¸r BankGiro en viktig del av det moderne betalingslandskapet.
+**BankGiro** er et av Norges mest brukte betalingssystemer for fakturaer og regninger. Dette elektroniske betalingssystemet gjÃ¸r det enkelt for bÃ¥de privatpersoner og bedrifter Ã¥ betale og motta betalinger med automatisk avstemming gjennom [OCR-nummer](/blogs/regnskap/hva-er-ocr "Hva er OCR? OCR i Norske Regnskapsprosesser “ En Komplett Guide"). Som en av de tradisjonelle [betalingstjenestene](/blogs/regnskap/betalingstjeneste "Hva er betalingstjeneste? Komplett Guide til Betalingstjenester i Norge") i Norge, utgjÃ¸r BankGiro en viktig del av det moderne betalingslandskapet.
  
 Les mer om [Bedriftsbank](/blogs/regnskap/bedriftsbank "Bedriftsbank - Oversikt over banktjenester for bedrifter og regnskapsintegrasjon") for en helhetlig oversikt over bedriftens bank- og [betalingstjenester](/blogs/regnskap/betalingstjeneste "Hva er betalingstjeneste? Komplett Guide til Betalingstjenester i Norge").
 
@@ -18,9 +18,9 @@ Les mer om [Bedriftsbank](/blogs/regnskap/bedriftsbank "Bedriftsbank - Oversikt 
 BankGiro er et **elektronisk betalingssystem** som ble etablert i Norge pÃ¥ 1980-tallet som en del av moderniseringen av det norske [giro-systemet](/blogs/regnskap/hva-er-giro "Hva er Giro? Komplett Guide til Giro-systemet i Norge"). Systemet gjÃ¸r det mulig Ã¥ betale fakturaer og regninger ved hjelp av **OCR-nummer** (Optical Character Recognition), som sikrer automatisk avstemming hos mottaker.
 
 Hovedprinsippet bak BankGiro er:
-- **LeverandÃ¸r** sender faktura med unikt [OCR-nummer](/blogs/regnskap/hva-er-ocr "Hva er OCR? OCR i Norske Regnskapsprosesser â€“ En Komplett Guide")
+- **LeverandÃ¸r** sender faktura med unikt [OCR-nummer](/blogs/regnskap/hva-er-ocr "Hva er OCR? OCR i Norske Regnskapsprosesser “ En Komplett Guide")
 - **Kunde** betaler via nettbank, mobilbank eller bankkontor
-- **[OCR-nummer](/blogs/regnskap/hva-er-ocr "Hva er OCR? OCR i Norske Regnskapsprosesser â€“ En Komplett Guide")** sikrer automatisk avstemming hos leverandÃ¸r
+- **[OCR-nummer](/blogs/regnskap/hva-er-ocr "Hva er OCR? OCR i Norske Regnskapsprosesser “ En Komplett Guide")** sikrer automatisk avstemming hos leverandÃ¸r
 - **Betalingen** registreres automatisk i leverandÃ¸rens [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide")
 
 Dette systemet hÃ¥ndterer milliarder av kroner i betalinger Ã¥rlig og brukes av praktisk talt alle norske bedrifter.
@@ -42,7 +42,7 @@ BankGiro-systemet fungerer gjennom en strukturert prosess som involverer flere a
 
 #### OCR-Nummer Systemet
 
-**[OCR-nummer](/blogs/regnskap/hva-er-ocr "Hva er OCR? OCR i Norske Regnskapsprosesser â€“ En Komplett Guide")** er kjernen i BankGiro-systemet og bestÃ¥r av:
+**[OCR-nummer](/blogs/regnskap/hva-er-ocr "Hva er OCR? OCR i Norske Regnskapsprosesser “ En Komplett Guide")** er kjernen i BankGiro-systemet og bestÃ¥r av:
 - **Kundenummer:** Identifiserer kunden hos leverandÃ¸r
 - **[Fakturanummer](/blogs/regnskap/hva-er-fakturanummer "Hva er Fakturanummer? Komplett Guide til Nummerering og Lovkrav"):** Referanse til spesifikk faktura
 - **Kontrollsiffer:** Sikrer korrekt registrering
@@ -287,3 +287,6 @@ Systemets **automatiske avstemming** gjennom OCR-nummer reduserer manuelt arbeid
 Selv om nye betalingslÃ¸sninger utfordrer BankGiro, forblir det et **viktig verktÃ¸y** for norske bedrifter, spesielt for B2B-transaksjoner og stÃ¸rre betalinger hvor automatisk avstemming er kritisk.
 
 For bedrifter som vurderer BankGiro, er det viktig Ã¥ **planlegge implementeringen nÃ¸ye** og sikre god integrering med eksisterende systemer. Med riktig oppsett kan BankGiro vÃ¦re en verdifull investering som forbedrer bÃ¥de effektivitet og kundeopplevelse.
+
+
+

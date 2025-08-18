@@ -57,3 +57,5 @@ For en fullstendig oversikt over varer og tjenester som er unntatt MVA, se [Unnt
 ## 5. Videre lesning
 
 Se ogsÃ¥ vÃ¥r hovedartikkel om [merverdiavgift i Norge](/blogs/regnskap/hva-er-moms-mva "Hva er Moms (MVA)? Komplett Guide til Merverdiavgift i Norge") for en helhetlig innfÃ¸ring i MVA-regler.
+
+

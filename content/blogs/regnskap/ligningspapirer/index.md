@@ -1,6 +1,6 @@
 ﻿---
-title: "Ligningspapirer â€“ Hva er, krav og oppbevaring"
-meta_title: "Ligningspapirer â€“ Hva er, krav og oppbevaring"
+title: "Ligningspapirer “ Hva er, krav og oppbevaring"
+meta_title: "Ligningspapirer “ Hva er, krav og oppbevaring"
 meta_description: '**Ligningspapirer** er dokumenter som brukes i forbindelse med skattemyndighetenes vurdering av en virksomhets eller en persons skattepliktige inntekt og skatte...'
 slug: ligningspapirer
 type: blog
@@ -15,12 +15,12 @@ layout: pages/single
 
 Ligningspapirer fungerer som grunnlaget for skattemyndighetenes kontroll og fastsettelse av skatt. I Norge omfatter ligningspapirer blant annet:
 
-* **Selvangivelse** â€“ Ã¥rlig rapportering av personlig inntekt og formue
-* **NÃ¦ringsoppgave** â€“ nÃ¦ringsdrivendes oversikt over inntekter og kostnader for skatteformÃ¥l ([Hva er NÃ¦ringsoppgave?](/blogs/regnskap/hva-er-naeringsoppgave "Hva er NÃ¦ringsoppgave? Komplett Guide til NÃ¦ringsoppgave for NÃ¦ringsdrivende"))
-* **Fradragspapirer** â€“ dokumentasjon av fradragsberettigede kostnader, som kvitteringer og fakturaer
-* **Avskrivningsbilag** â€“ dokumentasjon av avskrivninger pÃ¥ varige driftsmidler
-* **Dokumentasjon av lÃ¸nn og godtgjÃ¸relser** â€“ lÃ¸nnsslipper og andre lÃ¸nnsbilag
-* **Andre stÃ¸ttebilag** â€“ avtaler, kontrakter, erklÃ¦ringer og andre underlagsdokumenter
+* **Selvangivelse** “ Ã¥rlig rapportering av personlig inntekt og formue
+* **NÃ¦ringsoppgave** “ nÃ¦ringsdrivendes oversikt over inntekter og kostnader for skatteformÃ¥l ([Hva er NÃ¦ringsoppgave?](/blogs/regnskap/hva-er-naeringsoppgave "Hva er NÃ¦ringsoppgave? Komplett Guide til NÃ¦ringsoppgave for NÃ¦ringsdrivende"))
+* **Fradragspapirer** “ dokumentasjon av fradragsberettigede kostnader, som kvitteringer og fakturaer
+* **Avskrivningsbilag** “ dokumentasjon av avskrivninger pÃ¥ varige driftsmidler
+* **Dokumentasjon av lÃ¸nn og godtgjÃ¸relser** “ lÃ¸nnsslipper og andre lÃ¸nnsbilag
+* **Andre stÃ¸ttebilag** “ avtaler, kontrakter, erklÃ¦ringer og andre underlagsdokumenter
 
 ## Juridisk grunnlag og krav
 
@@ -58,3 +58,5 @@ Moderne regnskapssystemer og arkivlÃ¸sninger forenkler hÃ¥ndtering og oppbev
 * SÃ¸rg for lesbarhet, integritet og autentisitet gjennom hele oppbevaringsperioden
 
 Ligningspapirer er essensielle for korrekt skatteberegning, revisjon og eventuell etterkontroll fra skattemyndighetene. Ã… ha gode rutiner for dokumentasjon og oppbevaring reduserer risikoen for avvik og kontrolltiltak.
+
+

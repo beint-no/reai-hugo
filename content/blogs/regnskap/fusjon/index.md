@@ -68,3 +68,6 @@ Fusjonen trer i kraft nÃ¥r fusjonsmelding er registrert i BrÃ¸nnÃ¸ysundreg
 * [Hva er aksjeloven?](/blogs/regnskap/hva-er-aksjeloven "Hva er Aksjeloven? Regler for Aksjeselskaper i Norge")
 * [Hva er konsern?](/blogs/regnskap/hva-er-konsern "Hva er Konsern? Komplett Guide til Konsernstrukturer")
 * [Hva er emisjon?](/blogs/regnskap/emisjon "Hva er Emisjon? En komplett guide til kapitalforhÃ¸yelse og aksjeutstedelse")
+
+
+

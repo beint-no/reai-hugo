@@ -28,10 +28,10 @@ Se vÃ¥r [Hva er et Aksjeselskap?](/blogs/regnskap/hva-er-et-aksjeselskap "Hva 
 | Steg                                | Ansvarlig    | Kostnad     | Estimert tid  |
 |-------------------------------------|--------------|-------------|--------------|
 | Planlegging                         | GrÃ¼nder      | 0 kr        | 1 dag        |
-| StiftelsesmÃ¸te og [vedtekter](/blogs/regnskap/vedtekter "Vedtekter: Definisjon, Krav og Betydning i Norsk Regnskap") | GrÃ¼nder      | 0â€“5Â 000 kr* | 1 dag        |
-| Registrering i BrÃ¸nnÃ¸ysund          | GrÃ¼nder      | [Stiftelsesgebyr](/blogs/regnskap/stiftelsesgebyr "Stiftelsesgebyr ved registrering av AS") | 1â€“3 dager    |
-| MVA-registrering                    | Selskap      | Gratis      | 0â€“5 dager    |
-| **Totalsum**                        | â€“            | **[5Â 570Â kr](/blogs/regnskap/stiftelsesgebyr "Stiftelsesgebyr ved registrering av AS")** | **3â€“10 dager**|
+| StiftelsesmÃ¸te og [vedtekter](/blogs/regnskap/vedtekter "Vedtekter: Definisjon, Krav og Betydning i Norsk Regnskap") | GrÃ¼nder      | 0“5Â 000 kr* | 1 dag        |
+| Registrering i BrÃ¸nnÃ¸ysund          | GrÃ¼nder      | [Stiftelsesgebyr](/blogs/regnskap/stiftelsesgebyr "Stiftelsesgebyr ved registrering av AS") | 1“3 dager    |
+| MVA-registrering                    | Selskap      | Gratis      | 0“5 dager    |
+| **Totalsum**                        | “            | **[5Â 570Â kr](/blogs/regnskap/stiftelsesgebyr "Stiftelsesgebyr ved registrering av AS")** | **3“10 dager**|
 
 *Kan tilkomme honorarer til rÃ¥dgiver eller jurist.
 
@@ -55,3 +55,5 @@ NÃ¥r selskapet er registrert, kan du:
 - **Utarbeide [Ã¥pningsbalanse for aksjeselskap](/blogs/regnskap/apningsbalanse-for-aksjeselskap "Ã…pningsbalanse for aksjeselskap") for korrekt registrering av startbalanse.**
 
 For komplett informasjon om aksjeselskapets egenskaper, se [Hva er et Aksjeselskap?](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap? Komplett Guide til Selskapsformen") og avsnittet â€œKrav for Ã¥ Starte et Aksjeselskapâ€.
+
+

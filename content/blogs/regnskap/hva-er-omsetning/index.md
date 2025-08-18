@@ -269,3 +269,5 @@ Omsetningsbegrepet utvikler seg med nye forretningsmodeller og teknologi.
 Omsetning er et fundamentalt begrep i norsk regnskap og skatt som pÃ¥virker alt fra MVA-registrering til regnskapsplikt. Ved Ã¥ forstÃ¥ forskjellen mellom omsetning og [inntekt](/blogs/regnskap/hva-er-inntekter "Hva er Inntekter? Komplett Guide til Inntektstyper og RegnskapsfÃ¸ring"), korrekt beregning og rapportering, kan virksomheter sikre compliance og fÃ¥ bedre innsikt i sin Ã¸konomiske utvikling.
 
 For virksomheter er det viktig Ã¥ ha gode systemer for omsetningsregistrering og Ã¥ forstÃ¥ de skattemessige konsekvensene av ulike omsetningsnivÃ¥er. Med riktig kunnskap og verktÃ¸y blir omsetningsadministrasjon en verdifull del av virksomhetsstyringen.
+
+

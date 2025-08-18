@@ -32,7 +32,7 @@ Kontantprinsippet innebÃ¦rer at alle transaksjoner bokfÃ¸res nÃ¥r kontante
 | Leie betalt i starten av mÃ¥neden for forrige mÃ¥neds bruk | BokfÃ¸res pÃ¥ betalingstidspunktet                   | BokfÃ¸res i perioden leien gjelder                  |
 
 Se ogsÃ¥ [Hva er en Faktura?](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav") for mer om fakturering.
-Se ogsÃ¥ [KontantkjÃ¸p](/blogs/regnskap/kontantkjop "KontantkjÃ¸p â€“ Komplett Guide til RegnskapsfÃ¸ring av KontantkjÃ¸p") for en praktisk guide til kontantbetaling ved kjÃ¸p.
+Se ogsÃ¥ [KontantkjÃ¸p](/blogs/regnskap/kontantkjop "KontantkjÃ¸p “ Komplett Guide til RegnskapsfÃ¸ring av KontantkjÃ¸p") for en praktisk guide til kontantbetaling ved kjÃ¸p.
 
 ## Fordeler og ulemper
 
@@ -51,3 +51,5 @@ Se ogsÃ¥ [KontantkjÃ¸p](/blogs/regnskap/kontantkjop "KontantkjÃ¸p â€“
 ## Juridiske og regnskapsmessige krav
 
 I henhold til **bokfÃ¸ringsloven** og **bokfÃ¸ringsforskriften** stilles det krav om dokumentasjon av alle transaksjoner. Selv om kontantprinsippet tillater enkel bokfÃ¸ring, mÃ¥ alle kontanttransaksjoner stÃ¸ttes av gyldig bilag eller [kvittering](/blogs/regnskap/kvittering "Hva er Kvittering? En Guide til Kvitteringskrav i Norsk Regnskap").
+
+

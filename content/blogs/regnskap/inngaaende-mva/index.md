@@ -68,3 +68,5 @@ Det finnes situasjoner hvor inngÃ¥ende mva ikke kan fradragsfÃ¸res fullt ut:
 * Se mer om [Merverdiavgift (MVA)](/blogs/regnskap/hva-er-moms-mva "Hva er Merverdiavgift (MVA)? Beregning og RegnskapsfÃ¸ring")  
 * Les om [Avgiftsplikt (MVA)](/blogs/regnskap/hva-er-avgiftsplikt-mva "Hva er Avgiftsplikt (MVA)? Komplett Guide til Merverdiavgift i Norge")  
 * For krav til regnskapsfÃ¸ring, se [Hva er BokfÃ¸ringsforskriften?](/blogs/regnskap/hva-er-bokforingsforskriften "Hva er BokfÃ¸ringsforskriften? Regler for bokfÃ¸ringsplikt i Norge")
+
+

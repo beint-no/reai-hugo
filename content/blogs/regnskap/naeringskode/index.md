@@ -7,7 +7,7 @@ type: blog
 layout: pages/single
 ---
 
-**NÃ¦ringskode** er et firesifret tall som klassifiserer virksomhetens **bransjetilhÃ¸righet** i norsk regnskap og offentlig registrering. Koden benyttes av [Enhetsregisteret](/blogs/regnskap/enhetsregisteret "Enhetsregisteret â€“ Oversikt over virksomheters grunninformasjon i Norge") og [BrÃ¸nnÃ¸ysundregistrene](/blogs/regnskap/bronnoysundregistrene "BrÃ¸nnÃ¸ysundregistrene - Oversikt over Norske Registere") for Ã¥ systematisere Ã¸konomisk statistikk, skatter og avgifter.
+**NÃ¦ringskode** er et firesifret tall som klassifiserer virksomhetens **bransjetilhÃ¸righet** i norsk regnskap og offentlig registrering. Koden benyttes av [Enhetsregisteret](/blogs/regnskap/enhetsregisteret "Enhetsregisteret “ Oversikt over virksomheters grunninformasjon i Norge") og [BrÃ¸nnÃ¸ysundregistrene](/blogs/regnskap/bronnoysundregistrene "BrÃ¸nnÃ¸ysundregistrene - Oversikt over Norske Registere") for Ã¥ systematisere Ã¸konomisk statistikk, skatter og avgifter.
 
 ![NÃ¦ringskode Oversikt](naeringskode-oversikt.svg)
 
@@ -32,7 +32,7 @@ Koden bestÃ¥r av fire sifre, der:
 
 For Ã¥ finne korrekt koder, bruk:
 
-* [Enhetsregisteret](/blogs/regnskap/enhetsregisteret "Enhetsregisteret â€“ Oversikt over virksomheters grunninformasjon i Norge").
+* [Enhetsregisteret](/blogs/regnskap/enhetsregisteret "Enhetsregisteret “ Oversikt over virksomheters grunninformasjon i Norge").
 * BrÃ¸nnÃ¸ysundregistrenes kodekatalog for Standard for nÃ¦ringsgruppering (SN2007).
 * Kontakt regnskapsfÃ¸rer eller revisor for veiledning.
 
@@ -58,6 +58,8 @@ En virksomhet kan ha Ã©n primÃ¦r nÃ¦ringskode og flere sekundÃ¦re koder 
 
 ### Endres nÃ¦ringskode over tid?
 
-Ja, du kan endre kode ved Ã¥ oppdatere opplysningene i [Enhetsregisteret](/blogs/regnskap/enhetsregisteret "Enhetsregisteret â€“ Oversikt over virksomheters grunninformasjon i Norge") hvis virksomhetens hovedaktivitet endrer seg.
+Ja, du kan endre kode ved Ã¥ oppdatere opplysningene i [Enhetsregisteret](/blogs/regnskap/enhetsregisteret "Enhetsregisteret “ Oversikt over virksomheters grunninformasjon i Norge") hvis virksomhetens hovedaktivitet endrer seg.
 
 For mer om rapportering, se [Hva er nÃ¦ringsoppgave?](/blogs/regnskap/hva-er-naeringsoppgave "Hva er en nÃ¦ringsoppgave?").
+
+

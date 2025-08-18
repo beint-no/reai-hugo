@@ -26,7 +26,7 @@ Se mer om [Aksjeloven](/blogs/regnskap/hva-er-aksjeloven "Hva er Aksjeloven? Reg
 I regnskapsavdelingen mÃ¥ fullmakter dokumenteres og oppbevares for revisjon og internkontroll. Nedenfor er noen viktige brukstilfeller:
 
 * **Attestering:** Godkjenning av fakturaer og bilag krever ofte at fullmaktshaver har nÃ¸dvendig fullmakt til Ã¥ bekrefte forpliktelser. Se [attestering](/blogs/regnskap/hva-er-attestering "Hva er Attestering? En Komplett Guide til Bilagsbehandling og Godkjenning").
-* **Firmaattest og Foretaksregisteret:** En skriftlig fullmakt kan vedlegges ved bestilling av [firmaattest](/blogs/regnskap/firmaattest "Firmaattest â€“ Hva er en firmaattest? En Komplett Guide") fra BrÃ¸nnÃ¸ysundregistrene.
+* **Firmaattest og Foretaksregisteret:** En skriftlig fullmakt kan vedlegges ved bestilling av [firmaattest](/blogs/regnskap/firmaattest "Firmaattest “ Hva er en firmaattest? En Komplett Guide") fra BrÃ¸nnÃ¸ysundregistrene.
 * **Bankfullmakt:** Brukes for Ã¥ autorisere banktransaksjoner og signering pÃ¥ bedriftskonto.
 * **Kontraktsfullmakt:** Sikrer at avtaler signeres av personer med riktig delegasjon, for eksempel _arbeidskontrakten_ signert av daglig leder.
 
@@ -45,3 +45,6 @@ Ved regnskapsrevisjoner og bokettersyn er det avgjÃ¸rende Ã¥ kunne vise til 
 Fullmakt er en grunnleggende del av intern kontroll og autorisasjonsprosesser i regnskap. Ved Ã¥ dokumentere og fÃ¸lge klare rutiner for fullmaktshÃ¥ndtering sikrer virksomheter at Ã¸konomiske disposisjoner utfÃ¸res av riktige personer, og at kravene i _bokfÃ¸ringsloven_ og _avtaleloven_ etterfÃ¸lges.
 
 ![Fullmakt i Regnskap](fullmakt-image.svg)
+
+
+

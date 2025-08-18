@@ -58,3 +58,5 @@ Tvangsmulkt er en administrativ sanksjon som kan ilegges uten rettslig kjennelse
 * [Hva er opplysningsplikt?](/blogs/regnskap/hva-er-opplysningsplikt "Hva er opplysningsplikt? Komplett guide til rapporteringsplikt")
 * [Hva er Regnskap?](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Enkel Forklaring")
 * [Hva er Tvangsfullbyrdelse?](/blogs/regnskap/tvangsfullbyrdelse "Hva er Tvangsfullbyrdelse? Guide til Norsk Gjelds- og Utleggfullbyrdelse")
+
+

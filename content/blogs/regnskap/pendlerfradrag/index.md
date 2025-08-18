@@ -68,3 +68,5 @@ For Ã¥ kreve pendlerfradrag mÃ¥ fÃ¸lgende dokumentasjon foreligge:
 * [Diett](/blogs/regnskap/diett "Diett i regnskap: Guide til normaltariffer, regler og regnskapsfÃ¸ring")
 
 **Oppsummering:** Pendlerfradrag sikrer at pendlere fÃ¥r kompensert reise-, kost- og boutgifter ved pendling over visse avstander. Korrekt dokumentasjon, attestasjon og bokfÃ¸ring er avgjÃ¸rende for Ã¥ oppnÃ¥ fradraget.
+
+
