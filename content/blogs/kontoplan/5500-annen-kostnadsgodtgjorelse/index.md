@@ -1,7 +1,7 @@
 ﻿---
 title: "5500-annen-kostnadsgodtgjorelse"
 meta_title: "5500-annen-kostnadsgodtgjorelse"
-meta_description: "**Konto 5500 - Annen kostnadsgodtgjÃ¸relse** er en konto i Norsk Standard Kontoplan som benyttes for Ã¥ registrere **annen kostnadsgodtgjÃ¸relse** i arbeidsforh..."
+meta_description: '**Konto 5500 - Annen kostnadsgodtgjÃ¸relse** er en konto i Norsk Standard Kontoplan som benyttes for Ã¥ registrere **annen kostnadsgodtgjÃ¸relse** i arbeidsforh...'
 slug: 5500-annen-kostnadsgodtgjorelse
 type: blog
 layout: pages/single

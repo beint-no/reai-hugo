@@ -1,7 +1,7 @@
 ﻿---
 title: "6050-nedskrivning-av-varige-driftsmidler"
 meta_title: "6050-nedskrivning-av-varige-driftsmidler"
-meta_description: "**Konto 6050 - Nedskrivning av varige driftsmidler** er en konto i norsk kontoplan som benyttes for Ã¥ bokfÃ¸re **regnskapsmessige nedskrivninger** av varige dr..."
+meta_description: '**Konto 6050 - Nedskrivning av varige driftsmidler** er en konto i norsk kontoplan som benyttes for Ã¥ bokfÃ¸re **regnskapsmessige nedskrivninger** av varige dr...'
 slug: 6050-nedskrivning-av-varige-driftsmidler
 type: blog
 layout: pages/single

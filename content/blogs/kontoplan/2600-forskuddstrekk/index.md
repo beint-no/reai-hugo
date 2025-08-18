@@ -1,7 +1,7 @@
 ﻿---
 title: "2600-forskuddstrekk"
 meta_title: "2600-forskuddstrekk"
-meta_description: "**Konto 2600 - Skyldig forskuddstrekk** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **skyldig forskuddstrekk** pÃ¥ [lÃ¸nn](/blogs/kontop..."
+meta_description: '**Konto 2600 - Skyldig forskuddstrekk** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **skyldig forskuddstrekk** pÃ¥ [lÃ¸nn](/blogs/kontop...'
 slug: 2600-forskuddstrekk
 type: blog
 layout: pages/single

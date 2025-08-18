@@ -1,15 +1,13 @@
----
+﻿---
 title: "Feriepengegrunnlag - Grunnlag for beregning av feriepenger i Norge"
-summary: "En komplett guide til feriepengegrunnlag - definisjon, lovgrunnlag, komponenter, praktisk beregning og regnskapsmessige hensyn."
-description: "Lær hva som utgjør feriepengegrunnlaget etter ferieloven og regnskapsregler. En omfattende guide til komponentene, beregning og regnskapsføring."
+meta_title: "Feriepengegrunnlag - Grunnlag for beregning av feriepenger i Norge"
+meta_description: '**Feriepengegrunnlag** er det Ã¸konomiske **grunnlaget** for beregning av feriepenger i henhold til **[Ferieloven](/blogs/regnskap/ferieloven "Ferieloven â€“ Lo...'
 slug: feriepengegrunnlag
-featured_image: feriepengegrunnlag-image.svg
-featured_image_alt: "Feriepengegrunnlag"
-url: "/blogs/regnskap/feriepengegrunnlag/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
-**Feriepengegrunnlag** er det økonomiske **grunnlaget** for beregning av feriepenger i henhold til **[Ferieloven](/blogs/regnskap/ferieloven "Ferieloven – Lov om ferie av 29. april 1988 nr. 21")** og norsk regnskapspraksis. Et korrekt feriepengegrunnlag sikrer at arbeidstakere får riktig **kompensasjon** og at virksomheter oppfyller sine regnskaps- og rapporteringsforpliktelser.
+**Feriepengegrunnlag** er det Ã¸konomiske **grunnlaget** for beregning av feriepenger i henhold til **[Ferieloven](/blogs/regnskap/ferieloven "Ferieloven â€“ Lov om ferie av 29. april 1988 nr. 21")** og norsk regnskapspraksis. Et korrekt feriepengegrunnlag sikrer at arbeidstakere fÃ¥r riktig **kompensasjon** og at virksomheter oppfyller sine regnskaps- og rapporteringsforpliktelser.
 
 ![Feriepengegrunnlag](feriepengegrunnlag-image.svg)
 
@@ -17,64 +15,64 @@ draft: false
 
 Feriepengegrunnlaget er forankret i:
 
-* **[Ferieloven](/blogs/regnskap/ferieloven "Ferieloven – Lov om ferie av 29. april 1988 nr. 21")** kapittel 2 om opptjening og beregning av feriepenger
-* Bestemmelser i **regnskapsloven** og forskrift om årsregnskap og årsberetning for regnskapspliktige
-* Tariffavtaler som kan gi særskilte satser eller tillegg
+* **[Ferieloven](/blogs/regnskap/ferieloven "Ferieloven â€“ Lov om ferie av 29. april 1988 nr. 21")** kapittel 2 om opptjening og beregning av feriepenger
+* Bestemmelser i **regnskapsloven** og forskrift om Ã¥rsregnskap og Ã¥rsberetning for regnskapspliktige
+* Tariffavtaler som kan gi sÃ¦rskilte satser eller tillegg
 
 ![Komponenter av Feriepengegrunnlag](feriepengegrunnlag-komponenter.svg)
 
 ## Komponenter av feriepengegrunnlaget
 
-Feriepengegrunnlaget består av alle **feriepengegivende ytelser** som er opptjent i opptjeningsåret:
+Feriepengegrunnlaget bestÃ¥r av alle **feriepengegivende ytelser** som er opptjent i opptjeningsÃ¥ret:
 
 | Komponent                  | Beskrivelse                                    |
 |-----------------------------|------------------------------------------------|
-| **Fastlønn**                | Grunnlønn, månedslønn og timelønn              |
-| **Overtidstillegg**         | Godtgjørelse for overtid                        |
+| **FastlÃ¸nn**                | GrunnlÃ¸nn, mÃ¥nedslÃ¸nn og timelÃ¸nn              |
+| **Overtidstillegg**         | GodtgjÃ¸relse for overtid                        |
 | **Bonus og provisjon**      | Resultatbaserte ytelser                          |
-| **Helligdagstillegg**       | Tillegg for arbeid på [helligdager](/blogs/regnskap/helligdager-regnskap-bedriftseiere "Helligdager i Regnskap for Bedriftseiere")               |
-| **Sykepenger**              | NAV-sykepenger opptil 12 måneder                |
-| **Tidligere opptjente feriepenger** | Feriepengebeløp fra foregående år       |
+| **Helligdagstillegg**       | Tillegg for arbeid pÃ¥ [helligdager](/blogs/regnskap/helligdager-regnskap-bedriftseiere "Helligdager i Regnskap for Bedriftseiere")               |
+| **Sykepenger**              | NAV-sykepenger opptil 12 mÃ¥neder                |
+| **Tidligere opptjente feriepenger** | FeriepengebelÃ¸p fra foregÃ¥ende Ã¥r       |
 
-## Eksempel på beregning
+## Eksempel pÃ¥ beregning
 
-| Beskrivelse                   | Beløp      |
+| Beskrivelse                   | BelÃ¸p      |
 |-------------------------------|------------|
-| Total feriepengegivende inntekt | 500 000 kr |
-| Feriepengesats (standard)     | 10,2 %     |
-| **Feriepenger**               | **51 000 kr** |
+| Total feriepengegivende inntekt | 500Â 000 kr |
+| Feriepengesats (standard)     | 10,2Â %     |
+| **Feriepenger**               | **51Â 000 kr** |
 
-![Eksempel på beregning](feriepengegrunnlag-eksempel.svg)
+![Eksempel pÃ¥ beregning](feriepengegrunnlag-eksempel.svg)
 
 ## Regnskapsmessig behandling
 
-Korrekt periodisering og avsetning av feriepengegrunnlaget er avgjørende for riktig regnskapsføring:
+Korrekt periodisering og avsetning av feriepengegrunnlaget er avgjÃ¸rende for riktig regnskapsfÃ¸ring:
 
-1. **Løpende avsetning** hver måned:
+1. **LÃ¸pende avsetning** hver mÃ¥ned:
 
    ```
-   Debet: Lønnskostnad (konto 5000-5099)
+   Debet: LÃ¸nnskostnad (konto 5000-5099)
    Kredit: Avsetning feriepenger (konto 2940)
    ```
 
-2. **Årlig oppgjør** ved årsskiftet:
+2. **Ã…rlig oppgjÃ¸r** ved Ã¥rsskiftet:
 
-   * Avstemme innestående avsetning mot beregnet feriepengegjeld
+   * Avstemme innestÃ¥ende avsetning mot beregnet feriepengegjeld
    * Justere eventuelle differanser som over- eller underavsetning
 
-3. **Utbetaling** av feriepenger når ferie avvikles:
+3. **Utbetaling** av feriepenger nÃ¥r ferie avvikles:
 
    ```
    Debet: Avsetning feriepenger (konto 2940)
    Kredit: Bankkonto (konto 1920)
    ```
 
-## Viktige unntak og særregler
+## Viktige unntak og sÃ¦rregler
 
-* **Opphør av arbeidsforhold**: Opptjente feriepenger må utbetales ved fratredelse.
-* **Langvarig sykdom**: Ytelser utover 12 måneder sykepenger fra NAV er ikke feriepengegivende.
+* **OpphÃ¸r av arbeidsforhold**: Opptjente feriepenger mÃ¥ utbetales ved fratredelse.
+* **Langvarig sykdom**: Ytelser utover 12 mÃ¥neder sykepenger fra NAV er ikke feriepengegivende.
 * **Deltidsansatte**: Beregnes proporsjonalt med faktisk arbeidstid.
 
 ## Oppsummering
 
-Et korrekt **feriepengegrunnlag** er nøkkelen til riktig beregning og utbetaling av feriepenger. Ved å følge ferieloven, dokumentere alle relevante ytelser og periodisere i regnskapet, sikrer du rett kompensasjon til ansatte og oppfyllelse av regnskapsmessige krav.
+Et korrekt **feriepengegrunnlag** er nÃ¸kkelen til riktig beregning og utbetaling av feriepenger. Ved Ã¥ fÃ¸lge ferieloven, dokumentere alle relevante ytelser og periodisere i regnskapet, sikrer du rett kompensasjon til ansatte og oppfyllelse av regnskapsmessige krav.

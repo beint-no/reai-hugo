@@ -1,7 +1,7 @@
 ﻿---
 title: "7200-provisjonskostnader-oppgavepliktig"
 meta_title: "7200-provisjonskostnader-oppgavepliktig"
-meta_description: "**Konto 7200 - Provisjonskostnader, oppgavepliktig** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **oppgavepliktige provisjonskostnader**..."
+meta_description: '**Konto 7200 - Provisjonskostnader, oppgavepliktig** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **oppgavepliktige provisjonskostnader**...'
 slug: 7200-provisjonskostnader-oppgavepliktig
 type: blog
 layout: pages/single

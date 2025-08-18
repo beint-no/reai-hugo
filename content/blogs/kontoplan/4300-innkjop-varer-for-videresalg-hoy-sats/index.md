@@ -1,7 +1,7 @@
 ﻿---
 title: "4300-innkjop-varer-for-videresalg-hoy-sats"
 meta_title: "4300-innkjop-varer-for-videresalg-hoy-sats"
-meta_description: "**Konto 4300 - InnkjÃ¸p varer for videresalg hÃ¸y sats** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kjÃ¸p av varer for videresalg** s..."
+meta_description: '**Konto 4300 - InnkjÃ¸p varer for videresalg hÃ¸y sats** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kjÃ¸p av varer for videresalg** s...'
 slug: 4300-innkjop-varer-for-videresalg-hoy-sats
 type: blog
 layout: pages/single

@@ -1,7 +1,7 @@
 ﻿---
 title: "5700-laerlingtilskudd"
 meta_title: "5700-laerlingtilskudd"
-meta_description: "**Konto 5700 - LÃ¦rlingtilskudd** er en konto i **Norsk Standard Kontoplan** som brukes til Ã¥ registrere **tilskudd virksomheter mottar for opplÃ¦ring av lÃ¦rl..."
+meta_description: '**Konto 5700 - LÃ¦rlingtilskudd** er en konto i **Norsk Standard Kontoplan** som brukes til Ã¥ registrere **tilskudd virksomheter mottar for opplÃ¦ring av lÃ¦rl...'
 slug: 5700-laerlingtilskudd
 type: blog
 layout: pages/single

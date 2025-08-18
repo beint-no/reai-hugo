@@ -1,75 +1,73 @@
----
-title: "Næringsinntekt"
-summary: "En grundig gjennomgang av næringsinntekt for personlig næringsdrivende, hvordan den beregnes, hvilke fradrag som gjelder og skattemessige vurderinger."
-description: "Lær om næringsinntekt for selvstendig næringsdrivende - definisjon, beregning, skattemessige regler og praktiske eksempler."
+﻿---
+title: "NÃ¦ringsinntekt"
+meta_title: "NÃ¦ringsinntekt"
+meta_description: '**NÃ¦ringsinntekt** er resultatet av virksomhetens inntekter minus fradragsberettigede kostnader, med eventuelle skattemessige justeringer. For [selvstendig nÃ¦...'
 slug: naeringsinntekt
-featured_image: naeringsinntekt-image.svg
-featured_image_alt: "Næringsinntekt"
-url: "/blogs/regnskap/naeringsinntekt/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
-**Næringsinntekt** er resultatet av virksomhetens inntekter minus fradragsberettigede kostnader, med eventuelle skattemessige justeringer. For [selvstendig næringsdrivende](/blogs/regnskap/selvstendig-naeringsdrivende "Selvstendig næringsdrivende – Guide til selvstendig næringsvirksomhet i Norge") utgjør **næringsinntekt** det grunnleggende skattegrunnlaget som rapporteres i næringsoppgaven (RF-1030).
+**NÃ¦ringsinntekt** er resultatet av virksomhetens inntekter minus fradragsberettigede kostnader, med eventuelle skattemessige justeringer. For [selvstendig nÃ¦ringsdrivende](/blogs/regnskap/selvstendig-naeringsdrivende "Selvstendig nÃ¦ringsdrivende â€“ Guide til selvstendig nÃ¦ringsvirksomhet i Norge") utgjÃ¸r **nÃ¦ringsinntekt** det grunnleggende skattegrunnlaget som rapporteres i nÃ¦ringsoppgaven (RF-1030).
 
-For en mer generell forståelse av inntekter, se [Hva er inntekter?](/blogs/regnskap/hva-er-inntekter "Hva er Inntekter? Komplett Guide til Inntektstyper og Regnskapsføring").
-For sammenligning med alminnelig inntekt, se [Alminnelig inntekt](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt – Komplett guide til skattemessig resultat og beregning").
+For en mer generell forstÃ¥else av inntekter, se [Hva er inntekter?](/blogs/regnskap/hva-er-inntekter "Hva er Inntekter? Komplett Guide til Inntektstyper og RegnskapsfÃ¸ring").
+For sammenligning med alminnelig inntekt, se [Alminnelig inntekt](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt â€“ Komplett guide til skattemessig resultat og beregning").
 
-![Næringsinntekt Oversikt](naeringsinntekt-image.svg)
+![NÃ¦ringsinntekt Oversikt](naeringsinntekt-image.svg)
 
-## Hva er næringsinntekt?
+## Hva er nÃ¦ringsinntekt?
 
-**Næringsinntekt** er nettoresultatet fra en virksomhet som drives av en enkeltperson (enkeltpersonforetak) eller selvstendig næringsdrivende. Den beregnes ved å summere alle drifts- og finansinntekter, trekke fra alle kostnader som kan fradragsføres, og justere for periodisering og andre skattemessige korreksjoner.
+**NÃ¦ringsinntekt** er nettoresultatet fra en virksomhet som drives av en enkeltperson (enkeltpersonforetak) eller selvstendig nÃ¦ringsdrivende. Den beregnes ved Ã¥ summere alle drifts- og finansinntekter, trekke fra alle kostnader som kan fradragsfÃ¸res, og justere for periodisering og andre skattemessige korreksjoner.
 
 ## Hvem omfattes?
 
-Begrepet **næringsinntekt** gjelder for:
+Begrepet **nÃ¦ringsinntekt** gjelder for:
 
-* **Enkeltpersonforetak:** Personlig næringsdrivende uten eget rettssubjekt
+* **Enkeltpersonforetak:** Personlig nÃ¦ringsdrivende uten eget rettssubjekt
 * **Deltaker i ansvarlig selskap (ANS/DA):** Andel av resultatet som skattlegges hos deltakeren
-* **Frilansere og konsulenter:** Som leverer tjenester uten å være ansatt
+* **Frilansere og konsulenter:** Som leverer tjenester uten Ã¥ vÃ¦re ansatt
 
-## Beregning av næringsinntekt
+## Beregning av nÃ¦ringsinntekt
 
-Næringsinntekt beregnes slik:
+NÃ¦ringsinntekt beregnes slik:
 
 | Post                         | Beskrivelse                                           |
 |------------------------------|-------------------------------------------------------|
 | **Inntekter**                | Driftsinntekter + finansinntekter                     |
-| **− Kostnader**              | Alle fradragsberettigede kostnader                    |
-| **± Justeringer**            | Periodisering, avskrivninger og andre skattekorreksjoner |
-| **= Næringsinntekt**         | Netto skattegrunnlag                                   |
+| **âˆ’ Kostnader**              | Alle fradragsberettigede kostnader                    |
+| **Â± Justeringer**            | Periodisering, avskrivninger og andre skattekorreksjoner |
+| **= NÃ¦ringsinntekt**         | Netto skattegrunnlag                                   |
 
-Justeringene inkluderer blant annet avskrivninger på anleggsmidler, periodiseringsprinsipp og eventuelle korrigeringer for tidligere år.
+Justeringene inkluderer blant annet avskrivninger pÃ¥ anleggsmidler, periodiseringsprinsipp og eventuelle korrigeringer for tidligere Ã¥r.
 
-## Skattemessige regler og næringsoppgave
+## Skattemessige regler og nÃ¦ringsoppgave
 
-Næringsinntekten rapporteres i næringsoppgaven (RF-1030) som del av skattemeldingen. Se [Hva er næringsspesifikasjon?](/blogs/regnskap/naringsspesifikasjon "Hva er næringsspesifikasjon? Guide til næringsspesifikasjon for selvstendig næringsdrivende").
+NÃ¦ringsinntekten rapporteres i nÃ¦ringsoppgaven (RF-1030) som del av skattemeldingen. Se [Hva er nÃ¦ringsspesifikasjon?](/blogs/regnskap/naringsspesifikasjon "Hva er nÃ¦ringsspesifikasjon? Guide til nÃ¦ringsspesifikasjon for selvstendig nÃ¦ringsdrivende").
 
-Skattesatsen for alminnelig inntekt (22 %) gjelder også for næringsinntekt, men skattemessig overskudd kan påvirkes av personfradrag og trygdeavgift.
+Skattesatsen for alminnelig inntekt (22â€¯%) gjelder ogsÃ¥ for nÃ¦ringsinntekt, men skattemessig overskudd kan pÃ¥virkes av personfradrag og trygdeavgift.
 
-## Eksempel på beregning
+## Eksempel pÃ¥ beregning
 
-| Post                             | Beløp (NOK) |
+| Post                             | BelÃ¸p (NOK) |
 |----------------------------------|-------------|
-| Inntekter                        | 800 000     |
-| Kostnader                        | 500 000     |
-| Avskrivninger og justeringer     | 50 000      |
-| **Næringsinntekt**               | **250 000** |
+| Inntekter                        | 800â€¯000     |
+| Kostnader                        | 500â€¯000     |
+| Avskrivninger og justeringer     | 50â€¯000      |
+| **NÃ¦ringsinntekt**               | **250â€¯000** |
 
-## Ofte stilte spørsmål
+## Ofte stilte spÃ¸rsmÃ¥l
 
-### Hvordan skiller næringsinntekt seg fra alminnelig inntekt?
+### Hvordan skiller nÃ¦ringsinntekt seg fra alminnelig inntekt?
 
-Alminnelig inntekt er et bredere skattegrunnlag som gjelder både selskaper og personlig næringsdrivende, mens næringsinntekt spesifikt refererer til personlig virksomhet før personlige fradrag og trygdeavgift.
+Alminnelig inntekt er et bredere skattegrunnlag som gjelder bÃ¥de selskaper og personlig nÃ¦ringsdrivende, mens nÃ¦ringsinntekt spesifikt refererer til personlig virksomhet fÃ¸r personlige fradrag og trygdeavgift.
 
-### Hva er næringsoppgave (RF-1030)?
+### Hva er nÃ¦ringsoppgave (RF-1030)?
 
-Næringsoppgave (RF-1030) er skjemaet der næringsinntekten spesifiseres og rapporteres til Skatteetaten. Se [Hva er næringsspesifikasjon?](/blogs/regnskap/naringsspesifikasjon "Hva er næringsspesifikasjon? Guide til næringsspesifikasjon for selvstendig næringsdrivende").
+NÃ¦ringsoppgave (RF-1030) er skjemaet der nÃ¦ringsinntekten spesifiseres og rapporteres til Skatteetaten. Se [Hva er nÃ¦ringsspesifikasjon?](/blogs/regnskap/naringsspesifikasjon "Hva er nÃ¦ringsspesifikasjon? Guide til nÃ¦ringsspesifikasjon for selvstendig nÃ¦ringsdrivende").
 
 ## Videre lesning
 
-* [Hva er inntekter?](/blogs/regnskap/hva-er-inntekter "Hva er Inntekter? Komplett Guide til Inntektstyper og Regnskapsføring")
-* [Alminnelig inntekt](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt – Komplett guide til skattemessig resultat og beregning")
-* [Hva er næringsspesifikasjon?](/blogs/regnskap/naringsspesifikasjon "Hva er næringsspesifikasjon? Guide til næringsspesifikasjon for selvstendig næringsdrivende")
-* [Fremførbart underskudd](/blogs/regnskap/fremforbart-underskudd "Fremførbart underskudd: Komplett guide til håndtering av underskudd i regnskap og skatt")
-* [Betalbar skatt](/blogs/regnskap/betalbar-skatt "Betalbar skatt – Komplett guide til beregning og håndtering")
+* [Hva er inntekter?](/blogs/regnskap/hva-er-inntekter "Hva er Inntekter? Komplett Guide til Inntektstyper og RegnskapsfÃ¸ring")
+* [Alminnelig inntekt](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt â€“ Komplett guide til skattemessig resultat og beregning")
+* [Hva er nÃ¦ringsspesifikasjon?](/blogs/regnskap/naringsspesifikasjon "Hva er nÃ¦ringsspesifikasjon? Guide til nÃ¦ringsspesifikasjon for selvstendig nÃ¦ringsdrivende")
+* [FremfÃ¸rbart underskudd](/blogs/regnskap/fremforbart-underskudd "FremfÃ¸rbart underskudd: Komplett guide til hÃ¥ndtering av underskudd i regnskap og skatt")
+* [Betalbar skatt](/blogs/regnskap/betalbar-skatt "Betalbar skatt â€“ Komplett guide til beregning og hÃ¥ndtering")

@@ -1,7 +1,7 @@
 ﻿---
 title: "7620-kostnader-ved-varemerker-o-l"
 meta_title: "7620-kostnader-ved-varemerker-o-l"
-meta_description: "**Konto 7620 - Kostnader ved varemerker o.l.** er en kostnadskonto i norsk kontoplan som benyttes for Ã¥ registrere **kostnader** knyttet til varemerker og andr..."
+meta_description: '**Konto 7620 - Kostnader ved varemerker o.l.** er en kostnadskonto i norsk kontoplan som benyttes for Ã¥ registrere **kostnader** knyttet til varemerker og andr...'
 slug: 7620-kostnader-ved-varemerker-o-l
 type: blog
 layout: pages/single

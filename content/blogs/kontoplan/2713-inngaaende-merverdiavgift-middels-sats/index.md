@@ -1,7 +1,7 @@
 ﻿---
 title: "2713-inngaaende-merverdiavgift-middels-sats"
 meta_title: "2713-inngaaende-merverdiavgift-middels-sats"
-meta_description: "**Konto 2713 - InngÃ¥ende merverdiavgift middels sats** er en konto i **Norsk Standard Kontoplan** som brukes ved periodisk **oppgjÃ¸r av inngÃ¥ende merverdiavg..."
+meta_description: '**Konto 2713 - InngÃ¥ende merverdiavgift middels sats** er en konto i **Norsk Standard Kontoplan** som brukes ved periodisk **oppgjÃ¸r av inngÃ¥ende merverdiavg...'
 slug: 2713-inngaaende-merverdiavgift-middels-sats
 type: blog
 layout: pages/single

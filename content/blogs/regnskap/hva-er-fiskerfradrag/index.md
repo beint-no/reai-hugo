@@ -1,82 +1,80 @@
----
+﻿---
 title: "Hva er fiskerfradrag?"
-summary: "Denne artikkelen dekker alt du må vite om fiskerfradrag - historisk utvikling, rettslig grunnlag, beregningsregler, dokumentasjonskrav og regnskapsføring for fiskeri- og havbruksnæringen."
-description: "En grundig guide om fiskerfradrag i norsk fiskeri- og havbruksnæring. Lær om vilkår, beregning, dokumentasjonskrav og regnskapsføring av fiskerfradrag."
+meta_title: "Hva er fiskerfradrag?"
+meta_description: '**Fiskerfradrag** er et sÃ¦rskilt **skattefradrag** for fiskeri- og havbruksnÃ¦ringen i Norge. Denne artikkelen gir en detaljert gjennomgang av vilkÃ¥r, beregni...'
 slug: hva-er-fiskerfradrag
-featured_image: hva-er-fiskerfradrag-image.svg
-featured_image_alt: "Hva er fiskerfradrag?"
-url: "/blogs/regnskap/hva-er-fiskerfradrag/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
-**Fiskerfradrag** er et særskilt **skattefradrag** for fiskeri- og havbruksnæringen i Norge. Denne artikkelen gir en detaljert gjennomgang av vilkår, beregning, dokumentasjonskrav og regnskapsføring av fiskerfradrag.
+**Fiskerfradrag** er et sÃ¦rskilt **skattefradrag** for fiskeri- og havbruksnÃ¦ringen i Norge. Denne artikkelen gir en detaljert gjennomgang av vilkÃ¥r, beregning, dokumentasjonskrav og regnskapsfÃ¸ring av fiskerfradrag.
 
 ## Grunnleggende om Fiskerfradrag
 
-Fiskerfradrag er regulert i skatteloven § 6-11 og skal kompensere for bransjens usikre fangstforhold og høye investeringskostnader.
+Fiskerfradrag er regulert i skatteloven Â§â€¯6-11 og skal kompensere for bransjens usikre fangstforhold og hÃ¸ye investeringskostnader.
 
 ![Fiskerfradrag Oversikt](fiskerfradrag-oversikt.svg)
 
 ### Historisk Bakgrunn
 
-Fiskerfradraget ble innført på 1980-tallet for å:
+Fiskerfradraget ble innfÃ¸rt pÃ¥ 1980-tallet for Ã¥:
 
 * **Kompensere** for varierende fangstresultater og markedsprissvingninger
-* **Stimulere** til investering i moderne fangstutstyr og fartøy
-* **Opprettholde** aktivitet i kystsamfunn og bærekraftig ressursforvaltning
+* **Stimulere** til investering i moderne fangstutstyr og fartÃ¸y
+* **Opprettholde** aktivitet i kystsamfunn og bÃ¦rekraftig ressursforvaltning
 
 ### Rettslig Grunnlag
 
 Det rettslige grunnlaget for fiskerfradrag finnes i:
 
-* **Skatteloven § 6-11** – Hovedbestemmelsen om fiskerfradrag
-* **Forskrift om særfradrag for fiskere** – Detaljerte regler og satser
+* **Skatteloven Â§â€¯6-11** â€“ Hovedbestemmelsen om fiskerfradrag
+* **Forskrift om sÃ¦rfradrag for fiskere** â€“ Detaljerte regler og satser
 
 ## Beregning av Fiskerfradrag
 
-> Beregningen av fiskerfradrag tar utgangspunkt i fangstinntekten og fartøystørrelse.
+> Beregningen av fiskerfradrag tar utgangspunkt i fangstinntekten og fartÃ¸ystÃ¸rrelse.
 
 | Inntektskategori                 | Fradragssats | Maksimalt fradrag |
 |----------------------------------|--------------|-------------------|
-| **Liten båt (< 15 m)**           | 40 %         | 200 000 kr        |
-| **Mellomstor båt (15–28 m)**     | 30 %         | 300 000 kr        |
-| **Stor båt (> 28 m)**            | 20 %         | Ingen øvre grense |
+| **Liten bÃ¥t (<â€¯15â€¯m)**           | 40â€¯%         | 200â€¯000â€¯kr        |
+| **Mellomstor bÃ¥t (15â€“28â€¯m)**     | 30â€¯%         | 300â€¯000â€¯kr        |
+| **Stor bÃ¥t (>â€¯28â€¯m)**            | 20â€¯%         | Ingen Ã¸vre grense |
 
 ### Praktisk Beregningseksempel
 
-**Eksempel 1 – Liten båt:**  
-- Fangstinntekt: 500 000 kr  
-- Fradrag: 500 000 × 40 % = **200 000 kr**
+**Eksempel 1 â€“ Liten bÃ¥t:**  
+- Fangstinntekt: 500â€¯000â€¯kr  
+- Fradrag: 500â€¯000 Ã— 40â€¯% = **200â€¯000â€¯kr**
 
-**Eksempel 2 – Mellomstor båt:**  
-- Fangstinntekt: 800 000 kr  
-- Fradrag: 800 000 × 30 % = **240 000 kr**
+**Eksempel 2 â€“ Mellomstor bÃ¥t:**  
+- Fangstinntekt: 800â€¯000â€¯kr  
+- Fradrag: 800â€¯000 Ã— 30â€¯% = **240â€¯000â€¯kr**
 
-## Vilkår for Fiskerfradrag
+## VilkÃ¥r for Fiskerfradrag
 
-For å få fiskerfradrag må følgende vilkår være oppfylt:
+For Ã¥ fÃ¥ fiskerfradrag mÃ¥ fÃ¸lgende vilkÃ¥r vÃ¦re oppfylt:
 
-* **Registrert fiskefartøy** med gyldig tillatelse
-* **Dokumentert fangstinntekt** knyttet til fartøyet
-* **Fartøyets størrelse** skal være sertifisert av Sjøfartsdirektoratet
+* **Registrert fiskefartÃ¸y** med gyldig tillatelse
+* **Dokumentert fangstinntekt** knyttet til fartÃ¸yet
+* **FartÃ¸yets stÃ¸rrelse** skal vÃ¦re sertifisert av SjÃ¸fartsdirektoratet
 
 ## Dokumentasjonskrav
 
-Alle krav til dokumentasjon må være oppfylt for at fradraget godkjennes:
+Alle krav til dokumentasjon mÃ¥ vÃ¦re oppfylt for at fradraget godkjennes:
 
 * **Fangstjournal** som viser fangstmengde og lokasjon
 * **Regnskapsbilag** for inntekter og driftskostnader
-* **Fartøysdokumentasjon** med registreringsnummer og sertifikat
+* **FartÃ¸ysdokumentasjon** med registreringsnummer og sertifikat
 
-## Regnskapsføring av Fiskerfradrag
+## RegnskapsfÃ¸ring av Fiskerfradrag
 
-Fiskerfradrag føres som et eget fradrag i resultatregnskapet, atskilt fra ordinære driftskostnader. Se også [Hva er Fradrag?](/blogs/regnskap/hva-er-fradrag "Hva er Fradrag i Regnskap? Komplett Guide til Skattefradrag og Regnskapsføring") for generell behandling av fradrag i regnskapet.
+Fiskerfradrag fÃ¸res som et eget fradrag i resultatregnskapet, atskilt fra ordinÃ¦re driftskostnader. Se ogsÃ¥ [Hva er Fradrag?](/blogs/regnskap/hva-er-fradrag "Hva er Fradrag i Regnskap? Komplett Guide til Skattefradrag og RegnskapsfÃ¸ring") for generell behandling av fradrag i regnskapet.
 
 ## Relaterte Artikler
 
 * [Hva er jordbruksfradrag?](/blogs/regnskap/hva-er-jordbruksfradrag "Hva er Jordbruksfradrag? Komplett Guide til Landbruksfradrag og Skattefordeler")
-* [Hva er fradrag?](/blogs/regnskap/hva-er-fradrag "Hva er Fradrag i Regnskap? Komplett Guide til Skattefradrag og Regnskapsføring")
+* [Hva er fradrag?](/blogs/regnskap/hva-er-fradrag "Hva er Fradrag i Regnskap? Komplett Guide til Skattefradrag og RegnskapsfÃ¸ring")
 
 ## Konklusjon
 
-**Fiskerfradrag** er et viktig verktøy for fiskeri- og havbruksnæringen for å sikre økonomisk stabilitet og langsiktig bærekraft. Ved å forstå grunnlaget, beregningsmetoder og dokumentasjonskrav kan fiskere optimalisere sine skatteposisjoner og investere i framtiden.
+**Fiskerfradrag** er et viktig verktÃ¸y for fiskeri- og havbruksnÃ¦ringen for Ã¥ sikre Ã¸konomisk stabilitet og langsiktig bÃ¦rekraft. Ved Ã¥ forstÃ¥ grunnlaget, beregningsmetoder og dokumentasjonskrav kan fiskere optimalisere sine skatteposisjoner og investere i framtiden.

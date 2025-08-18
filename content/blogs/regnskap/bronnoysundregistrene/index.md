@@ -1,17 +1,15 @@
----
-title: "Hva er Brønnøysundregistrene?"
-summary: "Brønnøysundregistrene administrerer sentrale registre som Enhetsregisteret, Foretaksregisteret, Regnskapsregisteret og MVA-registeret, og er grunnsteinen i norsk næringslivs informasjonsinfrastruktur."
-description: "En omfattende guide til Brønnøysundregistrene – Norges sentrale registerforvalter for virksomheter, inkludert Enhetsregisteret, Foretaksregisteret, Regnskapsregisteret og MVA-registeret."
+﻿---
+title: "Hva er BrÃ¸nnÃ¸ysundregistrene?"
+meta_title: "Hva er BrÃ¸nnÃ¸ysundregistrene?"
+meta_description: '**BrÃ¸nnÃ¸ysundregistrene** er et offentlig forvaltningsorgan under NÃ¦rings- og fiskeridepartementet som administrerer flere sentrale norske registre. Dette in...'
 slug: bronnoysundregistrene
-featured_image: bronnoysundregistrene-image.svg
-featured_image_alt: "Illustrasjon av Brønnøysundregistrene"
-url: "/blogs/regnskap/bronnoysundregistrene/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
-**Brønnøysundregistrene** er et offentlig forvaltningsorgan under Nærings- og fiskeridepartementet som administrerer flere sentrale norske registre. Dette inkluderer blant annet Enhetsregisteret, Foretaksregisteret, Regnskapsregisteret og MVA-registeret, som alle er essensielle for norske virksomheters juridiske og regnskapsmessige status.
+**BrÃ¸nnÃ¸ysundregistrene** er et offentlig forvaltningsorgan under NÃ¦rings- og fiskeridepartementet som administrerer flere sentrale norske registre. Dette inkluderer blant annet Enhetsregisteret, Foretaksregisteret, Regnskapsregisteret og MVA-registeret, som alle er essensielle for norske virksomheters juridiske og regnskapsmessige status.
 
-![Illustrasjon av Brønnøysundregistrene](bronnoysundregistrene-image.svg)
+![Illustrasjon av BrÃ¸nnÃ¸ysundregistrene](bronnoysundregistrene-image.svg)
 
 ### Hovedregistre
 
@@ -19,45 +17,45 @@ draft: false
 |--------------|-----------------|
 | [Enhetsregisteret](/blogs/regnskap/hva-er-enhetsregisteret "Hva er Enhetsregisteret?") | Grunnleggende registrering av alle juridiske enheter i Norge og tildeling av organisasjonsnummer. |
 | [Foretaksregisteret](/blogs/regnskap/ansvarlig-selskap "Hva er Ansvarlig Selskap?") | Registrering av aksjeselskaper, ansvarlige selskaper, kommandittselskaper og andre selskapsformer. |
-| [Regnskapsregisteret](/blogs/regnskap/hva-er-regnskapsregisteret "Hva er Regnskapsregisteret? Komplett Guide til Regnskapsregisteret i Norge") | Innsending og offentliggjøring av årsregnskap for norske selskaper. |
+| [Regnskapsregisteret](/blogs/regnskap/hva-er-regnskapsregisteret "Hva er Regnskapsregisteret? Komplett Guide til Regnskapsregisteret i Norge") | Innsending og offentliggjÃ¸ring av Ã¥rsregnskap for norske selskaper. |
 | [MVA-registeret](/blogs/regnskap/hva-er-mva-registeret "Hva er MVA-registeret?") | Registrering av virksomheter med merverdiavgiftsplikt. |
 
 ### Viktige funksjoner og tjenester
 
-* **Tildeling av organisasjonsnummer:** Gjennom Enhetsregisteret får alle virksomheter et unikt organisasjonsnummer.
+* **Tildeling av organisasjonsnummer:** Gjennom Enhetsregisteret fÃ¥r alle virksomheter et unikt organisasjonsnummer.
 * **Selskapsregistrering:** Opprettelse, endring og sletting av selskaper i Foretaksregisteret.
-* **Offentliggjøring av regnskap:** Innsending og publisering av årsregnskap i Regnskapsregisteret.
+* **OffentliggjÃ¸ring av regnskap:** Innsending og publisering av Ã¥rsregnskap i Regnskapsregisteret.
 * **MVA-registrering:** Registrering av merverdiavgiftspliktige virksomheter.
 
-### Digitale løsninger
+### Digitale lÃ¸sninger
 
-Brønnøysundregistrene tilbyr flere **digitale tjenester** for effektiv registrering og innsyn:
+BrÃ¸nnÃ¸ysundregistrene tilbyr flere **digitale tjenester** for effektiv registrering og innsyn:
 
-* [Altinn](/blogs/regnskap/hva-er-altinn "Hva er Altinn? En Guide til Offentlige Tjenester") – sentral portal for skjema, innlevering og dialog med offentlige registre.
-* [API-integrasjon](/blogs/regnskap/api-integrasjon-automatisering-regnskap "API-integrasjon og automatisering av regnskap") – sanntidsoppdatering og automatiserte arbeidsflyter.
-* **Nettjenester** – direkte søk og nedlasting av informasjon via Brønnøysundregistrenes nettsider.
-* [Firmaattest](/blogs/regnskap/firmaattest "Firmaattest") – Offisielt dokument som bekrefter registrerte opplysninger om selskapet.
-* **Proff.no** – en tredjepartsplattform for bedriftsinformasjon og økonomiske nøkkeltall. Les mer i vår guide til [Proff.no](/blogs/regnskap/proff-no "Proff.no - Oversikt og Brukerveiledning").
+* [Altinn](/blogs/regnskap/hva-er-altinn "Hva er Altinn? En Guide til Offentlige Tjenester") â€“ sentral portal for skjema, innlevering og dialog med offentlige registre.
+* [API-integrasjon](/blogs/regnskap/api-integrasjon-automatisering-regnskap "API-integrasjon og automatisering av regnskap") â€“ sanntidsoppdatering og automatiserte arbeidsflyter.
+* **Nettjenester** â€“ direkte sÃ¸k og nedlasting av informasjon via BrÃ¸nnÃ¸ysundregistrenes nettsider.
+* [Firmaattest](/blogs/regnskap/firmaattest "Firmaattest") â€“ Offisielt dokument som bekrefter registrerte opplysninger om selskapet.
+* **Proff.no** â€“ en tredjepartsplattform for bedriftsinformasjon og Ã¸konomiske nÃ¸kkeltall. Les mer i vÃ¥r guide til [Proff.no](/blogs/regnskap/proff-no "Proff.no - Oversikt og Brukerveiledning").
 
-### Hvordan søke i Brønnøysundregistrene
+### Hvordan sÃ¸ke i BrÃ¸nnÃ¸ysundregistrene
 
-1. Besøk den offisielle nettsiden til Brønnøysundregistrene.
+1. BesÃ¸k den offisielle nettsiden til BrÃ¸nnÃ¸ysundregistrene.
 2. Velg relevant register (f.eks. Enhetsregisteret eller Foretaksregisteret).
-3. Søk på **organisasjonsnummer**, **foretaksnavn** eller **personnummer**.
-4. Last ned eller vis ønsket informasjon – ofte gratis for grunnleggende data.
+3. SÃ¸k pÃ¥ **organisasjonsnummer**, **foretaksnavn** eller **personnummer**.
+4. Last ned eller vis Ã¸nsket informasjon â€“ ofte gratis for grunnleggende data.
 
-### Eksempler på bruk i regnskap
+### Eksempler pÃ¥ bruk i regnskap
 
-Regnskapsførere og revisorer benytter Brønnøysundregistrenes registre for å:
+RegnskapsfÃ¸rere og revisorer benytter BrÃ¸nnÃ¸ysundregistrenes registre for Ã¥:
 
 * Verifisere **organisasjonsnummer** og **virksomhetsstatus**.
-* Hente **årsregnskap** for sammenligning og analyse.
+* Hente **Ã¥rsregnskap** for sammenligning og analyse.
 * Kontrollere at selskapsinformasjon er oppdatert i Foretaksregisteret.
 * Sjekke **MVA-status** og registreringsdato.
 
-### Hvis du vil lære mer
+### Hvis du vil lÃ¦re mer
 
-For en mer detaljert beskrivelse av hvert enkelt register, se også:
+For en mer detaljert beskrivelse av hvert enkelt register, se ogsÃ¥:
 
 * [Hva er Enhetsregisteret?](/blogs/regnskap/hva-er-enhetsregisteret "Hva er Enhetsregisteret?")
 * [Hva er Foretaksregisteret?](/blogs/regnskap/ansvarlig-selskap "Hva er Ansvarlig Selskap?")
@@ -66,4 +64,4 @@ For en mer detaljert beskrivelse av hvert enkelt register, se også:
 
 ### Konklusjon
 
-**Brønnøysundregistrene** er en **hjørnestein** i norsk næringsliv ved å sikre korrekt registrering, offentliggjøring og tilgang til viktig virksomhetsinformasjon. Kunnskap om disse registrene er avgjørende for alle som driver eller jobber med regnskap og selskapsforvaltning i Norge.
+**BrÃ¸nnÃ¸ysundregistrene** er en **hjÃ¸rnestein** i norsk nÃ¦ringsliv ved Ã¥ sikre korrekt registrering, offentliggjÃ¸ring og tilgang til viktig virksomhetsinformasjon. Kunnskap om disse registrene er avgjÃ¸rende for alle som driver eller jobber med regnskap og selskapsforvaltning i Norge.

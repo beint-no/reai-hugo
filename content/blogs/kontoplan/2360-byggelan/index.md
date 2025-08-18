@@ -1,7 +1,7 @@
 ﻿---
 title: "2360-byggelan"
 meta_title: "2360-byggelan"
-meta_description: "**Konto 2360 - ByggelÃ¥n** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til Ã¥ registrere **lÃ¥n til byggeprosjekter**, bÃ¥de kortsiktige og lan..."
+meta_description: '**Konto 2360 - ByggelÃ¥n** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til Ã¥ registrere **lÃ¥n til byggeprosjekter**, bÃ¥de kortsiktige og lan...'
 slug: 2360-byggelan
 type: blog
 layout: pages/single

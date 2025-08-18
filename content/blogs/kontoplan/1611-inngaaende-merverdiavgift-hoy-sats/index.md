@@ -1,7 +1,7 @@
 ﻿---
 title: "1611-inngaaende-merverdiavgift-hoy-sats"
 meta_title: "1611-inngaaende-merverdiavgift-hoy-sats"
-meta_description: "**Konto 1611 - InngÃ¥ende merverdiavgift hÃ¸y sats** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **inngÃ¥ende merverdiavgift med hÃ¸y sa..."
+meta_description: '**Konto 1611 - InngÃ¥ende merverdiavgift hÃ¸y sats** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **inngÃ¥ende merverdiavgift med hÃ¸y sa...'
 slug: 1611-inngaaende-merverdiavgift-hoy-sats
 type: blog
 layout: pages/single

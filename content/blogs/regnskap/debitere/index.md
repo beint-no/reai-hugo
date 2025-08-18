@@ -1,59 +1,57 @@
----
+﻿---
 title: "Debitere"
-summary: "En praktisk guide til debitering av kontoer i regnskap. Dekker debiteringsregler for ulike kontotyper, praktiske eksempler og beste praksis i norsk regnskapsføring."
-description: "Lær hvordan du debitere kontoer i norsk regnskap - prinsipper, eksempler og beste praksis."
+meta_title: "Debitere"
+meta_description: '**Debitere** er handlingen Ã¥ registrere et belÃ¸p pÃ¥ venstre side (debet) av en konto i [dobbelt bokfÃ¸ring](/blogs/regnskap/hva-er-dobbel-bokforing "Hva er D...'
 slug: debitere
-featured_image: debitere-image.svg
-featured_image_alt: "Debitere"
-url: "/blogs/regnskap/debitere/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
-**Debitere** er handlingen å registrere et beløp på venstre side (debet) av en konto i [dobbelt bokføring](/blogs/regnskap/hva-er-dobbel-bokforing "Hva er Dobbel Bokføring? Komplett Guide til Dobbelt Bokføringssystem") som sikrer at [regnskapsligningen](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Dybdeanalyse for Norge") alltid balanserer.
+**Debitere** er handlingen Ã¥ registrere et belÃ¸p pÃ¥ venstre side (debet) av en konto i [dobbelt bokfÃ¸ring](/blogs/regnskap/hva-er-dobbel-bokforing "Hva er Dobbel BokfÃ¸ring? Komplett Guide til Dobbelt BokfÃ¸ringssystem") som sikrer at [regnskapsligningen](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Dybdeanalyse for Norge") alltid balanserer.
 
 ![Debitere](debitere-image.svg)
 
-## Hva betyr det å debetere?
+## Hva betyr det Ã¥ debetere?
 
-Å debetere en konto innebærer å øke eller redusere en konto avhengig av kontotypen. Debitering er motsatsen til [kreditere](/blogs/regnskap/hva-er-kreditere "Hva er Kreditere? En Komplett Guide til Kreditering i Regnskap og Kontering") og bygger på de samme prinsippene som beskrevet i [Hva er debet?](/blogs/regnskap/hva-er-debet "Hva er Debet i Regnskap? Komplett Guide til Debetposter og Bokføring").
+Ã… debetere en konto innebÃ¦rer Ã¥ Ã¸ke eller redusere en konto avhengig av kontotypen. Debitering er motsatsen til [kreditere](/blogs/regnskap/hva-er-kreditere "Hva er Kreditere? En Komplett Guide til Kreditering i Regnskap og Kontering") og bygger pÃ¥ de samme prinsippene som beskrevet i [Hva er debet?](/blogs/regnskap/hva-er-debet "Hva er Debet i Regnskap? Komplett Guide til Debetposter og BokfÃ¸ring").
 
 ### Etymologi
 
-Ordet *debitere* stammer fra det latinske *debere*, som betyr "å skylde". I historisk regnskapspraksis reflekterte debetposter det som var skyldt virksomheten.
+Ordet *debitere* stammer fra det latinske *debere*, som betyr "Ã¥ skylde". I historisk regnskapspraksis reflekterte debetposter det som var skyldt virksomheten.
 
 ## Debiteringsregler for Kontotyper
 
-Tabellen nedenfor viser hvordan **debitere** påvirker ulike kontotyper:
+Tabellen nedenfor viser hvordan **debitere** pÃ¥virker ulike kontotyper:
 
-| Kontotype       | Debet Øker | Debet Reduserer | Eksempler                      |
+| Kontotype       | Debet Ã˜ker | Debet Reduserer | Eksempler                      |
 |-----------------|------------|-----------------|--------------------------------|
 | **Eiendeler**   | Ja         | Nei             | Kasse, bankinnskudd, varelager |
-| **Gjeld**       | Nei        | Ja              | Leverandørgjeld, banklån       |
+| **Gjeld**       | Nei        | Ja              | LeverandÃ¸rgjeld, banklÃ¥n       |
 | **Egenkapital** | Nei        | Ja              | Aksjekapital, opptjent egenkapital |
 | **Inntekter**   | Nei        | Ja              | Salgsinntekter, renteinntekter |
-| **Kostnader**   | Ja         | Nei             | Lønn, husleie, driftskostnader |
+| **Kostnader**   | Ja         | Nei             | LÃ¸nn, husleie, driftskostnader |
 
-## Praktiske Eksempler på Debitering
+## Praktiske Eksempler pÃ¥ Debitering
 
-1. **Kjøp av kontormateriell** for 5 000 kr:
+1. **KjÃ¸p av kontormateriell** for 5Â 000Â kr:
    ```
-   Debet: Kontormateriell 5 000 kr
-   Kredit: Bankkonto      5 000 kr
+   Debet: Kontormateriell 5Â 000 kr
+   Kredit: Bankkonto      5Â 000 kr
    ```
-2. **Utbetaling av lønn** på 50 000 kr:
+2. **Utbetaling av lÃ¸nn** pÃ¥ 50Â 000Â kr:
    ```
-   Debet: Lønnskostnad     50 000 kr
-   Kredit: Bankkonto       50 000 kr
+   Debet: LÃ¸nnskostnad     50Â 000 kr
+   Kredit: Bankkonto       50Â 000 kr
    ```
-3. **Avskrivning av maskiner** med 2 000 kr:
+3. **Avskrivning av maskiner** med 2Â 000Â kr:
    ```
-   Debet: Avskrivningskostnad 2 000 kr
-   Kredit: Akk. avskrivninger 2 000 kr
+   Debet: Avskrivningskostnad 2Â 000 kr
+   Kredit: Akk. avskrivninger 2Â 000 kr
    ```
 
 ## Beste praksis for debitering
 
 * **Bruk standardiserte maler** i regnskapssystemet for korrekte posteringer.
-* **Dokumenter alltid** alle debetposter med tilhørende [bilag](/blogs/regnskap/hva-er-bilag "Hva er Bilag i Regnskap? Komplett Guide til Regnskapsbilag og Dokumentasjon").
+* **Dokumenter alltid** alle debetposter med tilhÃ¸rende [bilag](/blogs/regnskap/hva-er-bilag "Hva er Bilag i Regnskap? Komplett Guide til Regnskapsbilag og Dokumentasjon").
 * **Avstem regelmessig** debetposter mot eksterne rapporter som bankutskrifter.
-* **Oppdater kontoplanen** og kontantstrømoversikt for å sikre oversikt og kontroll.
+* **Oppdater kontoplanen** og kontantstrÃ¸moversikt for Ã¥ sikre oversikt og kontroll.

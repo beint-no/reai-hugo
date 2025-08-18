@@ -1,7 +1,7 @@
 ﻿---
 title: "3190-refunderbare-utlegg-for-kjopers-regning-avgiftsfri"
 meta_title: "3190-refunderbare-utlegg-for-kjopers-regning-avgiftsfri"
-meta_description: "**Konto 3190 - Refunderbare utlegg for kjÃ¸pers regning avgiftsfri** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **refunderbare utlegg**..."
+meta_description: '**Konto 3190 - Refunderbare utlegg for kjÃ¸pers regning avgiftsfri** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **refunderbare utlegg**...'
 slug: 3190-refunderbare-utlegg-for-kjopers-regning-avgiftsfri
 type: blog
 layout: pages/single

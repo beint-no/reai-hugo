@@ -1,7 +1,7 @@
 ﻿---
 title: "6400-leie-maskiner"
 meta_title: "6400-leie-maskiner"
-meta_description: "**Konto 6400 - Leie maskiner** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **leie av maskiner** i virksomhetens drift."
+meta_description: '**Konto 6400 - Leie maskiner** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **leie av maskiner** i virksomhetens drift.'
 slug: 6400-leie-maskiner
 type: blog
 layout: pages/single

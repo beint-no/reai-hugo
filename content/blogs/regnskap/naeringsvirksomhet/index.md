@@ -1,54 +1,52 @@
----
-title: "Hva er næringsvirksomhet?"
-summary: "En grundig guide til definisjon av næringsvirksomhet i Norge, med kriterier, regnskaps- og bokføringsplikt, skattemessig behandling og registreringskrav."
-description: "Lær hva næringsvirksomhet er, hvordan det defineres, viktige kriterier, bokførings- og rapporteringsplikter, og skattemessig behandling for virksomheter i Norge."
+﻿---
+title: "Hva er nÃ¦ringsvirksomhet?"
+meta_title: "Hva er nÃ¦ringsvirksomhet?"
+meta_description: '**NÃ¦ringsvirksomhet** omfatter all Ã¸konomisk aktivitet som drives med **hensikt om overskudd** og vurderes som varig [virksomhet](/blogs/regnskap/hva-er-virks...'
 slug: naeringsvirksomhet
-featured_image: naeringsvirksomhet-image.svg
-featured_image_alt: "Hva er næringsvirksomhet?"
-url: "/blogs/regnskap/naeringsvirksomhet/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
-**Næringsvirksomhet** omfatter all økonomisk aktivitet som drives med **hensikt om overskudd** og vurderes som varig [virksomhet](/blogs/regnskap/hva-er-virksomhet "Hva er en virksomhet? Definisjon og Regnskapsmessige Forhold") i henhold til norsk lovgivning. Dette er en grunnleggende forutsetning for mange regnskaps- og skattemessige plikter.
+**NÃ¦ringsvirksomhet** omfatter all Ã¸konomisk aktivitet som drives med **hensikt om overskudd** og vurderes som varig [virksomhet](/blogs/regnskap/hva-er-virksomhet "Hva er en virksomhet? Definisjon og Regnskapsmessige Forhold") i henhold til norsk lovgivning. Dette er en grunnleggende forutsetning for mange regnskaps- og skattemessige plikter.
 
-![Næringsvirksomhet: Definisjon og Regnskapsmessig Behandling](naeringsvirksomhet-image.svg)
+![NÃ¦ringsvirksomhet: Definisjon og Regnskapsmessig Behandling](naeringsvirksomhet-image.svg)
 
-## Hva er næringsvirksomhet?
+## Hva er nÃ¦ringsvirksomhet?
 
-Begrepet næringsvirksomhet er sentralt i både bokføringsloven og skatteloven. Ifølge Bokføringsforskriften § 2-1 og Skatteloven § 5-1 regnes virksomhet som næringsvirksomhet når den:
+Begrepet nÃ¦ringsvirksomhet er sentralt i bÃ¥de bokfÃ¸ringsloven og skatteloven. IfÃ¸lge BokfÃ¸ringsforskriften Â§ 2-1 og Skatteloven Â§ 5-1 regnes virksomhet som nÃ¦ringsvirksomhet nÃ¥r den:
 
 * Drives varig og systematisk
-* Har formål om økonomisk gevinst eller overskudd
-* Er åpen for eksternt marked (salgs- eller tjenesteyting)
+* Har formÃ¥l om Ã¸konomisk gevinst eller overskudd
+* Er Ã¥pen for eksternt marked (salgs- eller tjenesteyting)
 
-Denne definisjonen skiller næringsvirksomhet fra hobby- eller fritidsaktivitet, som som regel ikke har et organisert overskudds- eller omsetningsmål.
+Denne definisjonen skiller nÃ¦ringsvirksomhet fra hobby- eller fritidsaktivitet, som som regel ikke har et organisert overskudds- eller omsetningsmÃ¥l.
 
-## Sammenligning: Hobby vs. Næringsvirksomhet
+## Sammenligning: Hobby vs. NÃ¦ringsvirksomhet
 
-| Kriterium             | Hobbyaktivitet                                | Næringsvirksomhet                                               |
+| Kriterium             | Hobbyaktivitet                                | NÃ¦ringsvirksomhet                                               |
 |-----------------------|-----------------------------------------------|-----------------------------------------------------------------|
 | Varighet og omfang    | Sporadisk, kortvarig                          | Planmessig, gjentakende og varig                               |
-| Økonomisk målsetting  | Ikke hovedsakelig overskudd                   | Primært overskuddsorientert                                     |
-| Dokumentasjon         | Ingen formelle krav                            | Bokføringsplikt og regnskapsplikt etter [bokføringsplikt](/blogs/regnskap/hva-er-bokforingsplikt "Hva er Bokføringsplikt? Komplett Guide til Norske Bokføringskrav") |
-| Marked og kunder      | Ofte begrenset til familie og venner          | Åpent marked, kunder eller oppdragsgivere                      |
+| Ã˜konomisk mÃ¥lsetting  | Ikke hovedsakelig overskudd                   | PrimÃ¦rt overskuddsorientert                                     |
+| Dokumentasjon         | Ingen formelle krav                            | BokfÃ¸ringsplikt og regnskapsplikt etter [bokfÃ¸ringsplikt](/blogs/regnskap/hva-er-bokforingsplikt "Hva er BokfÃ¸ringsplikt? Komplett Guide til Norske BokfÃ¸ringskrav") |
+| Marked og kunder      | Ofte begrenset til familie og venner          | Ã…pent marked, kunder eller oppdragsgivere                      |
 
-## Regnskaps- og bokføringsplikt
+## Regnskaps- og bokfÃ¸ringsplikt
 
-Virksomheter som kvalifiserer som næringsvirksomhet, må forholde seg til [bokføringsloven](/blogs/regnskap/hva-er-bokforingsloven "Hva er Bokføringsloven? Guide til bokføringsreglene i Norge") og [bokføringsplikten](/blogs/regnskap/hva-er-bokforingsplikt "Hva er Bokføringsplikt? Komplett Guide til Norske Bokføringskrav").
+Virksomheter som kvalifiserer som nÃ¦ringsvirksomhet, mÃ¥ forholde seg til [bokfÃ¸ringsloven](/blogs/regnskap/hva-er-bokforingsloven "Hva er BokfÃ¸ringsloven? Guide til bokfÃ¸ringsreglene i Norge") og [bokfÃ¸ringsplikten](/blogs/regnskap/hva-er-bokforingsplikt "Hva er BokfÃ¸ringsplikt? Komplett Guide til Norske BokfÃ¸ringskrav").
 
-* **Full bokføringsplikt** gjelder for de fleste selskapsformer (f.eks. AS, ASA, ansvarlige selskaper) og for enkeltpersonforetak over visse omsetningsgrenser.
-* **Forenklet regnskapsføring** kan gjelde mindre [enkeltpersonforetak](/blogs/regnskap/hva-er-enkeltpersonforetak "Hva er Enkeltpersonforetak? Komplett Guide til ENK i Norge") under definert omsetnings- og balanseterskel.
+* **Full bokfÃ¸ringsplikt** gjelder for de fleste selskapsformer (f.eks. AS, ASA, ansvarlige selskaper) og for enkeltpersonforetak over visse omsetningsgrenser.
+* **Forenklet regnskapsfÃ¸ring** kan gjelde mindre [enkeltpersonforetak](/blogs/regnskap/hva-er-enkeltpersonforetak "Hva er Enkeltpersonforetak? Komplett Guide til ENK i Norge") under definert omsetnings- og balanseterskel.
 
 ## Skattemessig behandling
 
-Som næringsvirksomhet må du rapportere inntekter og kostnader i [næringsoppgaven](/blogs/regnskap/hva-er-naeringsoppgave "Hva er næringsoppgave? Komplett Guide til Næringsoppgaven i Norge"), som danner grunnlaget for beregning av [næringsinntekt](/blogs/regnskap/naeringsinntekt "Hva er næringsinntekt? Definisjon og Skattemessig Behandling").
+Som nÃ¦ringsvirksomhet mÃ¥ du rapportere inntekter og kostnader i [nÃ¦ringsoppgaven](/blogs/regnskap/hva-er-naeringsoppgave "Hva er nÃ¦ringsoppgave? Komplett Guide til NÃ¦ringsoppgaven i Norge"), som danner grunnlaget for beregning av [nÃ¦ringsinntekt](/blogs/regnskap/naeringsinntekt "Hva er nÃ¦ringsinntekt? Definisjon og Skattemessig Behandling").
 
-For små næringsdrivende kan du benytte [Næringsoppgave 1](/blogs/regnskap/naeringsoppgave-1 "Hva er Næringsoppgave 1? Komplett Guide til Næringsoppgave 1"), mens større virksomheter bruker Næringsoppgave 2.
+For smÃ¥ nÃ¦ringsdrivende kan du benytte [NÃ¦ringsoppgaveÂ 1](/blogs/regnskap/naeringsoppgave-1 "Hva er NÃ¦ringsoppgaveÂ 1? Komplett Guide til NÃ¦ringsoppgaveÂ 1"), mens stÃ¸rre virksomheter bruker NÃ¦ringsoppgaveÂ 2.
 
 ## Registrering og rapportering
 
-Virksomheter i næringsvirksomhet må også vurdere registrering i [Næringsregisteret](/blogs/regnskap/hva-er-foretaksregisteret "Hva er Foretaksregisteret? Guide til Enhetsregister og Foretaksregister"), [MVA-registeret](/blogs/regnskap/hva-er-mva-registeret "Hva er MVA-registeret? Registreringsplikt for Merverdiavgift"), og eventuelt [A-ordningen](/blogs/regnskap/hva-er-a-meldingu "Hva er A-meldingen? Komplett Guide til A-rapportering").
+Virksomheter i nÃ¦ringsvirksomhet mÃ¥ ogsÃ¥ vurdere registrering i [NÃ¦ringsregisteret](/blogs/regnskap/hva-er-foretaksregisteret "Hva er Foretaksregisteret? Guide til Enhetsregister og Foretaksregister"), [MVA-registeret](/blogs/regnskap/hva-er-mva-registeret "Hva er MVA-registeret? Registreringsplikt for Merverdiavgift"), og eventuelt [A-ordningen](/blogs/regnskap/hva-er-a-meldingu "Hva er A-meldingen? Komplett Guide til A-rapportering").
 
 ## Oppsummering
 
-**Næringsvirksomhet** er kjernen i mange lover og regler for bokføring, skatt og rapportering i Norge. Ved å forstå definisjonen og de viktigste kriteriene, kan du sikre at virksomheten drives i samsvar med gjeldende krav og unngå unødvendige avvik eller sanksjoner.
+**NÃ¦ringsvirksomhet** er kjernen i mange lover og regler for bokfÃ¸ring, skatt og rapportering i Norge. Ved Ã¥ forstÃ¥ definisjonen og de viktigste kriteriene, kan du sikre at virksomheten drives i samsvar med gjeldende krav og unngÃ¥ unÃ¸dvendige avvik eller sanksjoner.

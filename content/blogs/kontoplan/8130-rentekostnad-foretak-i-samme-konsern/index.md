@@ -1,7 +1,7 @@
 ﻿---
 title: "8130-rentekostnad-foretak-i-samme-konsern"
 meta_title: "8130-rentekostnad-foretak-i-samme-konsern"
-meta_description: "**Konto 8130 - Rentekostnad foretak i samme konsern** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **rentekostnader** mellom konsernselsk..."
+meta_description: '**Konto 8130 - Rentekostnad foretak i samme konsern** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **rentekostnader** mellom konsernselsk...'
 slug: 8130-rentekostnad-foretak-i-samme-konsern
 type: blog
 layout: pages/single

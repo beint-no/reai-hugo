@@ -1,7 +1,7 @@
 ﻿---
 title: "1480-forskuddsbetaling-til-leverandorer"
 meta_title: "1480-forskuddsbetaling-til-leverandorer"
-meta_description: "**Konto 1480 - Forskuddsbetaling til leverandÃ¸rer** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **forskuddsbetalinger** til leverandÃ¸r..."
+meta_description: '**Konto 1480 - Forskuddsbetaling til leverandÃ¸rer** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **forskuddsbetalinger** til leverandÃ¸r...'
 slug: 1480-forskuddsbetaling-til-leverandorer
 type: blog
 layout: pages/single

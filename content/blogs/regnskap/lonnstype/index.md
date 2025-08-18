@@ -1,35 +1,33 @@
----
-title: "Hva er Lønnstype? Oversikt over ulike lønnstyper i Regnskap"
-summary: "Lønnstype er klassifisering av ulike lønnsformer som bedrifter bruker for å kompensere ansatte, inkludert fastlønn, timelønn, akkordlønn, provisjonslønn og mer."
-description: "Lær om ulike lønnstyper i norsk regnskap, inkludert fastlønn, timelønn, akkordlønn, provisjonslønn, naturalytelser og bonuslønn. En komplett oversikt og praktisk guide."
+﻿---
+title: "Hva er LÃ¸nnstype? Oversikt over ulike lÃ¸nnstyper i Regnskap"
+meta_title: "Hva er LÃ¸nnstype? Oversikt over ulike lÃ¸nnstyper i Regnskap"
+meta_description: '**LÃ¸nnstype** refererer til klassifisering av ulike **lÃ¸nnsformer** som bedrifter i Norge bruker for Ã¥ kompensere ansatte. Ã… forstÃ¥ de forskjellige lÃ¸nnst...'
 slug: lonnstype
-featured_image: lonnstype-image.svg
-featured_image_alt: "Illustrasjon som viser ulike lønnstyper"
-url: "/blogs/regnskap/lonnstype/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
-**Lønnstype** refererer til klassifisering av ulike **lønnsformer** som bedrifter i Norge bruker for å kompensere ansatte. Å forstå de forskjellige lønnstypene er viktig for korrekt [bokføring](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? Komplett Guide til Regnskapsføring"), lønnsplanlegging og budsjettering.
+**LÃ¸nnstype** refererer til klassifisering av ulike **lÃ¸nnsformer** som bedrifter i Norge bruker for Ã¥ kompensere ansatte. Ã… forstÃ¥ de forskjellige lÃ¸nnstypene er viktig for korrekt [bokfÃ¸ring](/blogs/regnskap/hva-er-bokforing "Hva er BokfÃ¸ring? Komplett Guide til RegnskapsfÃ¸ring"), lÃ¸nnsplanlegging og budsjettering.
 
-![Lønnstype](lonnstype-image.svg)
+![LÃ¸nnstype](lonnstype-image.svg)
 
-## Oversikt over lønnstyper
+## Oversikt over lÃ¸nnstyper
 
-| Lønnstype         | Beskrivelse                                            | Artikkel                                                          |
+| LÃ¸nnstype         | Beskrivelse                                            | Artikkel                                                          |
 |-------------------|--------------------------------------------------------|-------------------------------------------------------------------|
-| **Fastlønn**      | Fast måneds- eller årslønn uavhengig av arbeidstimer   | [Hva er Fastlønn?](/blogs/regnskap/hva-er-fastlonn "Hva er Fastlønn i Regnskap?") |
-| **Timelønn**      | Utbetaling basert på registrerte arbeidstimer          | [Hva er Timelønn?](/blogs/regnskap/hva-er-timelonn "Hva er Timelønn i Regnskap?") |
-| **Akkordlønn**    | Prestasjonsbasert lønn per enhet eller arbeidsmengde   | [Hva er Akkordlønn?](/blogs/regnskap/hva-er-akkordlonn "Hva er Akkordlønn? En Guide til Prestasjonslønn") |
-| **Provisjonslønn**| Kompensasjon basert på salg eller resultat             | [Hva er Provisjon?](/blogs/regnskap/hva-er-provisjon "Provisjon - Guide til Prestasjonsbasert Lønn") |
-| **Naturalytelser**| Ikke-kontantytelser som firmabil, bolig eller telefon  | [Fordelsbeskatning](/blogs/regnskap/fordelsbeskatning "Fordelsbeskatning - Komplett Guide til Skattemessig Fordel og Regnskapsføring") |
+| **FastlÃ¸nn**      | Fast mÃ¥neds- eller Ã¥rslÃ¸nn uavhengig av arbeidstimer   | [Hva er FastlÃ¸nn?](/blogs/regnskap/hva-er-fastlonn "Hva er FastlÃ¸nn i Regnskap?") |
+| **TimelÃ¸nn**      | Utbetaling basert pÃ¥ registrerte arbeidstimer          | [Hva er TimelÃ¸nn?](/blogs/regnskap/hva-er-timelonn "Hva er TimelÃ¸nn i Regnskap?") |
+| **AkkordlÃ¸nn**    | Prestasjonsbasert lÃ¸nn per enhet eller arbeidsmengde   | [Hva er AkkordlÃ¸nn?](/blogs/regnskap/hva-er-akkordlonn "Hva er AkkordlÃ¸nn? En Guide til PrestasjonslÃ¸nn") |
+| **ProvisjonslÃ¸nn**| Kompensasjon basert pÃ¥ salg eller resultat             | [Hva er Provisjon?](/blogs/regnskap/hva-er-provisjon "Provisjon - Guide til Prestasjonsbasert LÃ¸nn") |
+| **Naturalytelser**| Ikke-kontantytelser som firmabil, bolig eller telefon  | [Fordelsbeskatning](/blogs/regnskap/fordelsbeskatning "Fordelsbeskatning - Komplett Guide til Skattemessig Fordel og RegnskapsfÃ¸ring") |
 
-![Klassifisering av lønnstyper](lonnstype-klassifisering.svg)
+![Klassifisering av lÃ¸nnstyper](lonnstype-klassifisering.svg)
 
-## Andre lønnstyper
+## Andre lÃ¸nnstyper
 
-Noen lønnstyper som ikke dekkes av tabellen over:
+Noen lÃ¸nnstyper som ikke dekkes av tabellen over:
 
-* **Bonuslønn** – ekstra kompensasjon basert på måloppnåelse.
-* **Overtidslønn** – tillegg for arbeid utenfor normal arbeidstid.
+* **BonuslÃ¸nn**â€¯â€“ ekstra kompensasjon basert pÃ¥ mÃ¥loppnÃ¥else.
+* **OvertidslÃ¸nn**â€¯â€“ tillegg for arbeid utenfor normal arbeidstid.
 
-Se også [Hva er Lønn?](/blogs/regnskap/hva-er-lonn "Hva er Lønn i Regnskap?") for en dypere gjennomgang av **lønnsformer** og regnskapsmessig behandling.
+Se ogsÃ¥ [Hva er LÃ¸nn?](/blogs/regnskap/hva-er-lonn "Hva er LÃ¸nn i Regnskap?") for en dypere gjennomgang av **lÃ¸nnsformer** og regnskapsmessig behandling.

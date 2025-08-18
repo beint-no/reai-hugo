@@ -1,7 +1,7 @@
 ﻿---
 title: "2930-lonn"
 meta_title: "2930-lonn"
-meta_description: "**Konto 2930 - LÃ¸nn** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til Ã¥ registrere **skyldig lÃ¸nn** som en del av **kortsiktig gjeld**."
+meta_description: '**Konto 2930 - LÃ¸nn** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til Ã¥ registrere **skyldig lÃ¸nn** som en del av **kortsiktig gjeld**.'
 slug: 2930-lonn
 type: blog
 layout: pages/single

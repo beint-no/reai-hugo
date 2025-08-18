@@ -1,7 +1,7 @@
 ﻿---
 title: "3280-rabatter-og-annen-salgsinntektsreduksjon-utenfor-avg-omr"
 meta_title: "3280-rabatter-og-annen-salgsinntektsreduksjon-utenfor-avg-omr"
-meta_description: "**Konto 3280 - Rabatter og annen salgsinntektsreduksjon utenfor avg.omr** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **rabatter** og an..."
+meta_description: '**Konto 3280 - Rabatter og annen salgsinntektsreduksjon utenfor avg.omr** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **rabatter** og an...'
 slug: 3280-rabatter-og-annen-salgsinntektsreduksjon-utenfor-avg-omr
 type: blog
 layout: pages/single

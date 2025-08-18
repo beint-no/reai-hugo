@@ -1,7 +1,7 @@
 ﻿---
 title: "6700-revisjons-og-regnskapshonorarer"
 meta_title: "6700-revisjons-og-regnskapshonorarer"
-meta_description: "**Konto 6700 - Revisjons- og regnskapshonorarer** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kostnader til revisjonshonorarer og regn..."
+meta_description: '**Konto 6700 - Revisjons- og regnskapshonorarer** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kostnader til revisjonshonorarer og regn...'
 slug: 6700-revisjons-og-regnskapshonorarer
 type: blog
 layout: pages/single

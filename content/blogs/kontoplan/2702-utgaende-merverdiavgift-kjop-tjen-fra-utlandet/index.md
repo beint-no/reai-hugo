@@ -1,7 +1,7 @@
 ﻿---
 title: "2702-utgaende-merverdiavgift-kjop-tjen-fra-utlandet"
 meta_title: "2702-utgaende-merverdiavgift-kjop-tjen-fra-utlandet"
-meta_description: "**Konto 2702 - UtgÃ¥ende merverdiavgift kjÃ¸p tjenester fra utlandet** er en konto i **Norsk Standard Kontoplan** som brukes ved periodisk **oppgjÃ¸r av utgÃ¥en..."
+meta_description: '**Konto 2702 - UtgÃ¥ende merverdiavgift kjÃ¸p tjenester fra utlandet** er en konto i **Norsk Standard Kontoplan** som brukes ved periodisk **oppgjÃ¸r av utgÃ¥en...'
 slug: 2702-utgaende-merverdiavgift-kjop-tjen-fra-utlandet
 type: blog
 layout: pages/single

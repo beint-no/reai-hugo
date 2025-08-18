@@ -1,7 +1,7 @@
 ﻿---
 title: "6520-hjelpeverktoy"
 meta_title: "6520-hjelpeverktoy"
-meta_description: "**Konto 6520 - HjelpeverktÃ¸y** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kostnader knyttet til hjelpeverktÃ¸y** og tilhÃ¸rende drif..."
+meta_description: '**Konto 6520 - HjelpeverktÃ¸y** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kostnader knyttet til hjelpeverktÃ¸y** og tilhÃ¸rende drif...'
 slug: 6520-hjelpeverktoy
 type: blog
 layout: pages/single

@@ -1,7 +1,7 @@
 ﻿---
 title: "6430-leie-andre-kontormaskiner"
 meta_title: "6430-leie-andre-kontormaskiner"
-meta_description: "**Konto 6430 - Leie andre kontormaskiner** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **leie av andre kontormaskiner** i virksomhetens ..."
+meta_description: '**Konto 6430 - Leie andre kontormaskiner** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **leie av andre kontormaskiner** i virksomhetens ...'
 slug: 6430-leie-andre-kontormaskiner
 type: blog
 layout: pages/single

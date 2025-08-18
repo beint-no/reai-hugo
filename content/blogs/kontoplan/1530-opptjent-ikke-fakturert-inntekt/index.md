@@ -1,7 +1,7 @@
 ﻿---
 title: "1530-opptjent-ikke-fakturert-inntekt"
 meta_title: "1530-opptjent-ikke-fakturert-inntekt"
-meta_description: "**Konto 1530 - Opptjent ikke fakturert inntekt** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ periodisere **opptjent inntekt** som ennÃ¥ ikke er fak..."
+meta_description: '**Konto 1530 - Opptjent ikke fakturert inntekt** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ periodisere **opptjent inntekt** som ennÃ¥ ikke er fak...'
 slug: 1530-opptjent-ikke-fakturert-inntekt
 type: blog
 layout: pages/single

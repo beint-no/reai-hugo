@@ -1,22 +1,19 @@
----
-title: "Lineær Avskrivning i Regnskap"
-summary: "Lineær avskrivning fordeler anskaffelseskost jevnt over eiendelens brukstid for å gjenspeile verdiforringelse i regnskapet."
-description: |
-  Alt du trenger å vite om lineær avskrivning i regnskap: definisjon, formel, eksempler, regnskapsføring og skattemessige aspekter.
+﻿---
+title: "LineÃ¦r Avskrivning i Regnskap"
+meta_title: "LineÃ¦r Avskrivning i Regnskap"
+meta_description: '**LineÃ¦r avskrivning** er den mest brukte metoden for Ã¥ fordele anskaffelseskostnaden jevnt over en eiendels Ã¸konomiske levetid. Denne artikkelen gir en **dy...'
 slug: lineaer-avskrivning
-featured_image: lineaer-avskrivning-image.svg
-featured_image_alt: "Illustrasjon av Lineær Avskrivning"
-url: "/blogs/regnskap/lineaer-avskrivning/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
-**Lineær avskrivning** er den mest brukte metoden for å fordele anskaffelseskostnaden jevnt over en eiendels økonomiske levetid. Denne artikkelen gir en **dyptgående guide** til hvordan du beregner, fører regnskap og vurderer skattemessige konsekvenser knyttet til lineær avskrivning.
+**LineÃ¦r avskrivning** er den mest brukte metoden for Ã¥ fordele anskaffelseskostnaden jevnt over en eiendels Ã¸konomiske levetid. Denne artikkelen gir en **dyptgÃ¥ende guide** til hvordan du beregner, fÃ¸rer regnskap og vurderer skattemessige konsekvenser knyttet til lineÃ¦r avskrivning.
 
-![Illustrasjon av Lineær Avskrivning](lineaer-avskrivning-image.svg)
+![Illustrasjon av LineÃ¦r Avskrivning](lineaer-avskrivning-image.svg)
 
-## Grunnleggende om Lineær Avskrivning
+## Grunnleggende om LineÃ¦r Avskrivning
 
-Ved **lineær avskrivning** fordeles samme beløp hvert år i eiendelens forventede brukstid. Metoden er enkel å implementere og gir forutsigbar kostnadsfordeling.
+Ved **lineÃ¦r avskrivning** fordeles samme belÃ¸p hvert Ã¥r i eiendelens forventede brukstid. Metoden er enkel Ã¥ implementere og gir forutsigbar kostnadsfordeling.
 
 **Fordeler:**
 * Enkel og oversiktlig beregning
@@ -27,59 +24,59 @@ Ved **lineær avskrivning** fordeles samme beløp hvert år i eiendelens forvent
 * Tar ikke hensyn til faktisk verdiforringelse over tid
 * Mindre fleksibel ved eiendeler som taper mest verdi tidlig
 
-## Formel for Lineær Avskrivning
+## Formel for LineÃ¦r Avskrivning
 
 ```text
-Årlig avskrivning = (Anskaffelseskost - Restverdi) ÷ Brukstid i år
+Ã…rlig avskrivning = (Anskaffelseskost - Restverdi) Ã· Brukstid i Ã¥r
 ```
 
-For mer om [avskrivningsmetoder](/blogs/regnskap/hva-er-avskrivning "Hva er Avskrivning i Regnskap?") generelt, se vår hovedartikkel om avskrivning.
+For mer om [avskrivningsmetoder](/blogs/regnskap/hva-er-avskrivning "Hva er Avskrivning i Regnskap?") generelt, se vÃ¥r hovedartikkel om avskrivning.
 
 ## Praktisk Eksempel
 
-En maskin kjøpes for **500 000 kr**, med forventet brukstid på **10 år** og restverdi på **50 000 kr**.
+En maskin kjÃ¸pes for **500â€¯000 kr**, med forventet brukstid pÃ¥ **10 Ã¥r** og restverdi pÃ¥ **50â€¯000 kr**.
 
-| År | Bokført verdi (start) | Årlig avskrivning | Bokført verdi (slutt) |
+| Ã…r | BokfÃ¸rt verdi (start) | Ã…rlig avskrivning | BokfÃ¸rt verdi (slutt) |
 |----|-----------------------|-------------------|-----------------------|
-| 1  | 500 000 kr            | 45 000 kr         | 455 000 kr            |
-| 2  | 455 000 kr            | 45 000 kr         | 410 000 kr            |
-| 3  | 410 000 kr            | 45 000 kr         | 365 000 kr            |
-| …  | …                     | …                 | …                     |
-| 10 | 95 000 kr             | 45 000 kr         | 50 000 kr             |
+| 1  | 500â€¯000 kr            | 45â€¯000 kr         | 455â€¯000 kr            |
+| 2  | 455â€¯000 kr            | 45â€¯000 kr         | 410â€¯000 kr            |
+| 3  | 410â€¯000 kr            | 45â€¯000 kr         | 365â€¯000 kr            |
+| â€¦  | â€¦                     | â€¦                 | â€¦                     |
+| 10 | 95â€¯000 kr             | 45â€¯000 kr         | 50â€¯000 kr             |
 
-## Regnskapsføring
+## RegnskapsfÃ¸ring
 
-Lineær avskrivning regnskapsføres vanligvis månedlig eller årlig:
+LineÃ¦r avskrivning regnskapsfÃ¸res vanligvis mÃ¥nedlig eller Ã¥rlig:
 
 ```text
 Debet: Avskrivningskostnad (kostnadskonto)
 Kredit: Akkumulerte avskrivninger (motkonto til anleggsmiddel)
 ```
 
-Eksempel på månedlig postering for maskinen:
+Eksempel pÃ¥ mÃ¥nedlig postering for maskinen:
 
 ```text
-Debet: Avskrivningskostnad        3 750 kr
-Kredit: Akkumulerte avskrivninger 3 750 kr
+Debet: Avskrivningskostnad        3â€¯750 kr
+Kredit: Akkumulerte avskrivninger 3â€¯750 kr
 ```
 
 ## Skattemessige Aspekter
 
-I norsk skattelovgivning benyttes hovedsakelig saldoavskrivning, men lineær avskrivning kan være relevant ved intern rapportering. For mer om [saldogrupper](/blogs/regnskap/hva-er-saldoavskrivning "Hva er Saldoavskrivning i Regnskap?"), se vår artikkel om skattemessige avskrivninger.
+I norsk skattelovgivning benyttes hovedsakelig saldoavskrivning, men lineÃ¦r avskrivning kan vÃ¦re relevant ved intern rapportering. For mer om [saldogrupper](/blogs/regnskap/hva-er-saldoavskrivning "Hva er Saldoavskrivning i Regnskap?"), se vÃ¥r artikkel om skattemessige avskrivninger.
 
 ### Sammenligning av metoder
 
 | Metode             | Kostnadsfordeling | Skattemessig bruk                 |
 |--------------------|-------------------|-----------------------------------|
-| **Lineær**         | Jevn over brukstid| Intern rapport eller IFRS-krav     |
-| **Degressiv**      | Høyere tidlig      | Følger faste satser i skatteloven |
+| **LineÃ¦r**         | Jevn over brukstid| Intern rapport eller IFRS-krav     |
+| **Degressiv**      | HÃ¸yere tidlig      | FÃ¸lger faste satser i skatteloven |
 
-## Verktøy og Automatisering
+## VerktÃ¸y og Automatisering
 
-Moderne [regnskapssystemer](/blogs/regnskap/fakturaprogram "Fakturaprogram og Regnskapssystemer") kan automatisk beregne lineær avskrivning basert på forhåndsdefinerte parametere. Et godt **anleggsmiddelregister** hjelper med å holde oversikt over kostnader, avskrivningsplan og bokført verdi.
+Moderne [regnskapssystemer](/blogs/regnskap/fakturaprogram "Fakturaprogram og Regnskapssystemer") kan automatisk beregne lineÃ¦r avskrivning basert pÃ¥ forhÃ¥ndsdefinerte parametere. Et godt **anleggsmiddelregister** hjelper med Ã¥ holde oversikt over kostnader, avskrivningsplan og bokfÃ¸rt verdi.
 
 ## Konklusjon
 
-Lineær avskrivning er en **kostnadseffektiv og enkel** metode som passer for eiendeler med jevn verdiforringelse. Ved å bruke denne metoden får du klarhet i kostnadsfordelingen, noe som gir bedre grunnlag for beslutninger om investeringer og skatterapportering.
+LineÃ¦r avskrivning er en **kostnadseffektiv og enkel** metode som passer for eiendeler med jevn verdiforringelse. Ved Ã¥ bruke denne metoden fÃ¥r du klarhet i kostnadsfordelingen, noe som gir bedre grunnlag for beslutninger om investeringer og skatterapportering.
 
-For en mer detaljert presentasjon av avskrivning generelt, besøk [Hva er Avskrivning?](/blogs/regnskap/hva-er-avskrivning "Hva er Avskrivning i Regnskap?").
+For en mer detaljert presentasjon av avskrivning generelt, besÃ¸k [Hva er Avskrivning?](/blogs/regnskap/hva-er-avskrivning "Hva er Avskrivning i Regnskap?").

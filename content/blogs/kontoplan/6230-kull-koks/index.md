@@ -1,7 +1,7 @@
 ﻿---
 title: "6230-kull-koks"
 meta_title: "6230-kull-koks"
-meta_description: "**Konto 6230 - Kull og koks** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kull-** og **kokskostnader** i virksomhetens drift."
+meta_description: '**Konto 6230 - Kull og koks** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kull-** og **kokskostnader** i virksomhetens drift.'
 slug: 6230-kull-koks
 type: blog
 layout: pages/single

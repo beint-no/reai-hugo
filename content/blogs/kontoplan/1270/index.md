@@ -1,7 +1,7 @@
 ﻿---
 title: "1270"
 meta_title: "1270"
-meta_description: "**Konto 1270 - VerktÃ¸y mv.** er en konto i norsk kontoplan som benyttes for **verktÃ¸y** og **mindre driftsmidler**."
+meta_description: '**Konto 1270 - VerktÃ¸y mv.** er en konto i norsk kontoplan som benyttes for **verktÃ¸y** og **mindre driftsmidler**.'
 slug: 1270
 type: blog
 layout: pages/single

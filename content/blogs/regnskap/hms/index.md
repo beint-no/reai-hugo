@@ -1,18 +1,15 @@
----
-title: "Helse, miljø og sikkerhet (HMS)"
-summary: "Lær hvordan HMS integreres i regnskapet, fra pilarer og lovkrav til implementering og kobling til bærekraft."
-description: |
-  En omfattende gjennomgang av HMS (helse, miljø og sikkerhet) i norske virksomheter, med fokus på regnskapsmessige implikasjoner og internkontroll.
+﻿---
+title: "Helse, miljÃ¸ og sikkerhet (HMS)"
+meta_title: "Helse, miljÃ¸ og sikkerhet (HMS)"
+meta_description: '**Helse, miljÃ¸ og sikkerhet (HMS)** er et rammeverk for Ã¥ sikre et trygt, sunt og bÃ¦rekraftig arbeidsmiljÃ¸ i norske virksomheter.'
 slug: hms
-featured_image: hms-image.svg
-featured_image_alt: "Helse, miljø og sikkerhet (HMS)"
-url: "/blogs/regnskap/hms/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
-**Helse, miljø og sikkerhet (HMS)** er et rammeverk for å sikre et trygt, sunt og bærekraftig arbeidsmiljø i norske virksomheter.
+**Helse, miljÃ¸ og sikkerhet (HMS)** er et rammeverk for Ã¥ sikre et trygt, sunt og bÃ¦rekraftig arbeidsmiljÃ¸ i norske virksomheter.
 
-I regnskapssammenheng er **HMS** viktig for å dokumentere investeringer, kostnader og risikostyring knyttet til helse, miljø og sikkerhet. HMS-arbeidet understøtter både [Bedriftshelsetjeneste](/blogs/regnskap/bedriftshelsetjeneste "Bedriftshelsetjeneste: HMS-tjenester og krav") og [internkontroll](/blogs/regnskap/hva-er-internkontroll "Hva er Internkontroll i Regnskap?") i virksomheten.
+I regnskapssammenheng er **HMS** viktig for Ã¥ dokumentere investeringer, kostnader og risikostyring knyttet til helse, miljÃ¸ og sikkerhet. HMS-arbeidet understÃ¸tter bÃ¥de [Bedriftshelsetjeneste](/blogs/regnskap/bedriftshelsetjeneste "Bedriftshelsetjeneste: HMS-tjenester og krav") og [internkontroll](/blogs/regnskap/hva-er-internkontroll "Hva er Internkontroll i Regnskap?") i virksomheten.
 
 ## HMS-pilarer
 
@@ -22,27 +19,27 @@ Tabellen nedenfor viser de tre hovedpilarene i HMS og deres regnskapsmessige imp
 
 | Pilar     | Fokus                                 | Regnskapsmessige implikasjoner                      |
 |-----------|---------------------------------------|-----------------------------------------------------|
-| Helse     | Ansattes fysiske og psykiske velvære  | Kostnader til helse- og sikkerhetstiltak            |
-| Miljø     | Arbeidsmiljø og ytre miljøpåvirkning   | Investeringer i miljøtiltak og avfallshåndtering    |
+| Helse     | Ansattes fysiske og psykiske velvÃ¦re  | Kostnader til helse- og sikkerhetstiltak            |
+| MiljÃ¸     | ArbeidsmiljÃ¸ og ytre miljÃ¸pÃ¥virkning   | Investeringer i miljÃ¸tiltak og avfallshÃ¥ndtering    |
 | Sikkerhet | Fysisk sikkerhet og forebygging av ulykker | Forsikringskostnader, avsetninger for erstatningskrav |
 
 ## Implementering av HMS-system
 
-1. **Vesentlighetsvurdering** – Identifiser helse-, miljø- og sikkerhetsrisiko.
-2. **Policy og målsettinger** – Etabler klare HMS-mål i samsvar med lover og standarder.
-3. **Tiltak og ansvar** – Definer ansvar og implementer tiltak for å redusere risiko.
-4. **Dokumentasjon og rapportering** – Registrer hendelser, avvik og tiltak.
-5. **Kontinuerlig forbedring** – Evaluer resultater og juster HMS-systemet.
+1. **Vesentlighetsvurdering** â€“ Identifiser helse-, miljÃ¸- og sikkerhetsrisiko.
+2. **Policy og mÃ¥lsettinger** â€“ Etabler klare HMS-mÃ¥l i samsvar med lover og standarder.
+3. **Tiltak og ansvar** â€“ Definer ansvar og implementer tiltak for Ã¥ redusere risiko.
+4. **Dokumentasjon og rapportering** â€“ Registrer hendelser, avvik og tiltak.
+5. **Kontinuerlig forbedring** â€“ Evaluer resultater og juster HMS-systemet.
 
 ## Regulatorisk rammeverk
 
-* **Arbeidsmiljøloven** § 3‑1 til § 3‑6 – Generelle krav til arbeidsmiljø, inkludert [internkontroll](/blogs/regnskap/hva-er-internkontroll "Hva er Internkontroll i Regnskap?").
-* **Internkontrollforskriften** – Krav om systematisk helse-, miljø- og sikkerhetsarbeid.
-* **Forskrift om organisering, ledelse og medvirkning** – Krav til organisering av HMS-arbeidet.
-* **Yrkesskadeforsikring** – Lovpålagt forsikring for dekning av yrkesskade; se [Yrkesskadeforsikring](/blogs/regnskap/yrkesskadeforsikring "Yrkesskadeforsikring – Guide til Yrkesskadeforsikring for Norske Virksomheter").
+* **ArbeidsmiljÃ¸loven** Â§â€¯3â€‘1 til Â§â€¯3â€‘6 â€“ Generelle krav til arbeidsmiljÃ¸, inkludert [internkontroll](/blogs/regnskap/hva-er-internkontroll "Hva er Internkontroll i Regnskap?").
+* **Internkontrollforskriften** â€“ Krav om systematisk helse-, miljÃ¸- og sikkerhetsarbeid.
+* **Forskrift om organisering, ledelse og medvirkning** â€“ Krav til organisering av HMS-arbeidet.
+* **Yrkesskadeforsikring** â€“ LovpÃ¥lagt forsikring for dekning av yrkesskade; se [Yrkesskadeforsikring](/blogs/regnskap/yrkesskadeforsikring "Yrkesskadeforsikring â€“ Guide til Yrkesskadeforsikring for Norske Virksomheter").
 
-## HMS og bærekraft
+## HMS og bÃ¦rekraft
 
-HMS er en sentral del av den sosiale og miljømessige dimensjonen i [Bærekraft](/blogs/regnskap/baerekraft "Bærekraft i Regnskap: En Komplett Guide til Bærekraftsrapportering"), og bidrar til helhetlig risikostyring og langsiktig verdiskaping.
+HMS er en sentral del av den sosiale og miljÃ¸messige dimensjonen i [BÃ¦rekraft](/blogs/regnskap/baerekraft "BÃ¦rekraft i Regnskap: En Komplett Guide til BÃ¦rekraftsrapportering"), og bidrar til helhetlig risikostyring og langsiktig verdiskaping.
 
-*Artikkelen ble sist oppdatert for å gi en komplett oversikt over HMS i regnskapssammenheng.*
+*Artikkelen ble sist oppdatert for Ã¥ gi en komplett oversikt over HMS i regnskapssammenheng.*

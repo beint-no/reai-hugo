@@ -1,7 +1,7 @@
 ﻿---
 title: "1030"
 meta_title: "1030"
-meta_description: "**Konto 1030 - Patenter** er en sentral konto i norsk kontoplan for virksomheter som eier eller utvikler patentrettigheter. Denne kontoen brukes for Ã¥ registre..."
+meta_description: '**Konto 1030 - Patenter** er en sentral konto i norsk kontoplan for virksomheter som eier eller utvikler patentrettigheter. Denne kontoen brukes for Ã¥ registre...'
 slug: 1030
 type: blog
 layout: pages/single

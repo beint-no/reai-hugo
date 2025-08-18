@@ -1,7 +1,7 @@
 ﻿---
 title: "4200-innkjop-ferdig-egentilvirkede-varer"
 meta_title: "4200-innkjop-ferdig-egentilvirkede-varer"
-meta_description: "**Konto 4200 - InnkjÃ¸p ferdig egentilvirkede varer hÃ¸y sats** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kjÃ¸p av ferdige egentilvi..."
+meta_description: '**Konto 4200 - InnkjÃ¸p ferdig egentilvirkede varer hÃ¸y sats** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kjÃ¸p av ferdige egentilvi...'
 slug: 4200-innkjop-ferdig-egentilvirkede-varer
 type: blog
 layout: pages/single

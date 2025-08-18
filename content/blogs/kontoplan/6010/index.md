@@ -1,7 +1,7 @@
 ﻿---
 title: "6010"
 meta_title: "6010"
-meta_description: "**Konto 6010 - Avskrivning pÃ¥ transportmidler, maskiner og inventar** er en konto i norsk kontoplan som benyttes for Ã¥ fordele **anskaffelseskostnaden** til t..."
+meta_description: '**Konto 6010 - Avskrivning pÃ¥ transportmidler, maskiner og inventar** er en konto i norsk kontoplan som benyttes for Ã¥ fordele **anskaffelseskostnaden** til t...'
 slug: 6010
 type: blog
 layout: pages/single

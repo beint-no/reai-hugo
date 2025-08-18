@@ -1,7 +1,7 @@
 ﻿---
 title: "2270-andre-valutalan"
 meta_title: "2270-andre-valutalan"
-meta_description: "**Konto 2270 - Andre valutalÃ¥n** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til Ã¥ registrere **andre valutalÃ¥n**, det vil si lÃ¥n denominer..."
+meta_description: '**Konto 2270 - Andre valutalÃ¥n** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til Ã¥ registrere **andre valutalÃ¥n**, det vil si lÃ¥n denominer...'
 slug: 2270-andre-valutalan
 type: blog
 layout: pages/single

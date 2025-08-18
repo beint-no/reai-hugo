@@ -1,63 +1,61 @@
----
+﻿---
 title: "Baksmell i Regnskap og Skatt"
-summary: "Baksmell er ekstra skattekostnader som oppstår når forskuddsbetalinger eller periodiseringer ikke dekker den faktiske skatten, noe som fører til et tillegg ved likningsoppgjøret."
-description: "Lær hva baksmell er i norsk regnskap og skatt, hvorfor det oppstår, hvordan du regnskapsfører det og tiltak for å unngå baksmell ved likningsoppgjøret."
+meta_title: "Baksmell i Regnskap og Skatt"
+meta_description: '**Baksmell** er en ekstra skattekostnad eller regnskapsjustering som oppstÃ¥r nÃ¥r **forskuddsbetalinger**, **avsetninger** eller **periodiseringer** ikke dekke...'
 slug: baksmell
-featured_image: baksmell-image.svg
-featured_image_alt: "Illustrasjon som viser konseptet baksmell"
-url: "/blogs/regnskap/baksmell/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
-**Baksmell** er en ekstra skattekostnad eller regnskapsjustering som oppstår når **forskuddsbetalinger**, **avsetninger** eller **periodiseringer** ikke dekker den faktiske skatten eller kostnaden ved likningsoppgjøret. Dette fører til en uventet ekstrakostnad som kan påvirke virksomhetens [likviditet](/blogs/regnskap/hva-er-likviditet "Hva er Likviditet? Måling og Styring av Betalingsevne") og økonomiske planlegging.
+**Baksmell** er en ekstra skattekostnad eller regnskapsjustering som oppstÃ¥r nÃ¥r **forskuddsbetalinger**, **avsetninger** eller **periodiseringer** ikke dekker den faktiske skatten eller kostnaden ved likningsoppgjÃ¸ret. Dette fÃ¸rer til en uventet ekstrakostnad som kan pÃ¥virke virksomhetens [likviditet](/blogs/regnskap/hva-er-likviditet "Hva er Likviditet? MÃ¥ling og Styring av Betalingsevne") og Ã¸konomiske planlegging.
 
 ![Illustrasjon som viser konseptet baksmell](baksmell-image.svg)
 
 ## Hva er Baksmell?
 
-Baksmell er en **norsk regnskapsterminologi** som beskriver situasjoner hvor virksomheten får en uventet ekstrakostnad ved [skatteoppgjøret](/blogs/regnskap/skatteoppgjor "Skatteoppgjør Guide: Prosess, Tidslinje og Viktige Frister") eller **årsavslutningen**. Begrepet brukes når den faktiske skatten eller kostnaden overstiger det som tidligere er beregnet og avsatt.
+Baksmell er en **norsk regnskapsterminologi** som beskriver situasjoner hvor virksomheten fÃ¥r en uventet ekstrakostnad ved [skatteoppgjÃ¸ret](/blogs/regnskap/skatteoppgjor "SkatteoppgjÃ¸r Guide: Prosess, Tidslinje og Viktige Frister") eller **Ã¥rsavslutningen**. Begrepet brukes nÃ¥r den faktiske skatten eller kostnaden overstiger det som tidligere er beregnet og avsatt.
 
 ### Definisjonen av Baksmell
 
-Baksmell oppstår når:
+Baksmell oppstÃ¥r nÃ¥r:
 
-* **[Forskuddsskatt](/blogs/regnskap/hva-er-forskuddsskatt "Hva er Forskuddsskatt? Beregning og Innbetaling")** eller [forskuddstrekk](/blogs/regnskap/hva-er-forskuddstrekk "Hva er Forskuddstrekk? Beregning og Innbetaling") har vært **for lavt beregnet**
-* **[Avsetninger](/blogs/regnskap/avsetning "Avsetning i Regnskap - Komplett Guide til Avsetninger og Estimater")** for kostnader eller [periodisering](/blogs/regnskap/hva-er-periodisering "Hva er Periodisering? Prinsipper og Eksempler i Regnskap") har vært **utilstrekkelige**
-* **Skjulte feil** i regnskapsføringen har ført til **underrapportering** av skattegrunnlag
-* **Endringer i regelverk** som påvirker skatteberegningen etter at avsetninger er gjort
+* **[Forskuddsskatt](/blogs/regnskap/hva-er-forskuddsskatt "Hva er Forskuddsskatt? Beregning og Innbetaling")** eller [forskuddstrekk](/blogs/regnskap/hva-er-forskuddstrekk "Hva er Forskuddstrekk? Beregning og Innbetaling") har vÃ¦rt **for lavt beregnet**
+* **[Avsetninger](/blogs/regnskap/avsetning "Avsetning i Regnskap - Komplett Guide til Avsetninger og Estimater")** for kostnader eller [periodisering](/blogs/regnskap/hva-er-periodisering "Hva er Periodisering? Prinsipper og Eksempler i Regnskap") har vÃ¦rt **utilstrekkelige**
+* **Skjulte feil** i regnskapsfÃ¸ringen har fÃ¸rt til **underrapportering** av skattegrunnlag
+* **Endringer i regelverk** som pÃ¥virker skatteberegningen etter at avsetninger er gjort
 
-![Illustrasjon av baksmell årsaker](baksmell-aarsaker.svg)
+![Illustrasjon av baksmell Ã¥rsaker](baksmell-aarsaker.svg)
 
-## Årsaker til Baksmell
+## Ã…rsaker til Baksmell
 
 ### 1. Feil i Skatteberegninger
 
-De vanligste årsakene til baksmell relatert til **skatteberegninger** inkluderer:
+De vanligste Ã¥rsakene til baksmell relatert til **skatteberegninger** inkluderer:
 
-* **Undervurdering av [omsetning](/blogs/regnskap/hva-er-omsetning "Hva er Omsetning? Beregning og Regnskapsføring")** ved prognostisering
+* **Undervurdering av [omsetning](/blogs/regnskap/hva-er-omsetning "Hva er Omsetning? Beregning og RegnskapsfÃ¸ring")** ved prognostisering
 * **Overvurdering av fradragsberettigede kostnader**
 * **Manglende hensyn til skattemessige justeringer**
-* **Feil i beregning av [mva](/blogs/regnskap/hva-er-moms-mva "Hva er Merverdiavgift (MVA)? Beregning og Regnskapsføring")**
+* **Feil i beregning av [mva](/blogs/regnskap/hva-er-moms-mva "Hva er Merverdiavgift (MVA)? Beregning og RegnskapsfÃ¸ring")**
 
 ### 2. Utilstrekkelige Avsetninger
 
-Virksomheter kan få baksmell på grunn av **mangelfulle avsetninger** for:
+Virksomheter kan fÃ¥ baksmell pÃ¥ grunn av **mangelfulle avsetninger** for:
 
 | Avsetningstype | Typiske Feil | Konsekvenser |
 |----------------|--------------|--------------|
-| **Feriepenger** | Undervurdering av opptjening | Ekstra lønnskostnader |
+| **Feriepenger** | Undervurdering av opptjening | Ekstra lÃ¸nnskostnader |
 | **Bonuser** | Manglende prognostisering | Uventede personalkostnader |
-| **Leverandørgjeld** | Ikke-fakturerte leveranser | Økte driftskostnader |
+| **LeverandÃ¸rgjeld** | Ikke-fakturerte leveranser | Ã˜kte driftskostnader |
 | **Garantikostnader** | Undervurdert garantiforpliktelse | Ekstra servicekostnader |
 
 ### 3. Periodiseringsfeil
 
-**[Periodisering](/blogs/regnskap/hva-er-periodisering "Hva er Periodisering? Prinsipper og Eksempler i Regnskap")** kan føre til baksmell når:
+**[Periodisering](/blogs/regnskap/hva-er-periodisering "Hva er Periodisering? Prinsipper og Eksempler i Regnskap")** kan fÃ¸re til baksmell nÃ¥r:
 
 * **Inntekter** er periodisert til feil periode
 * **Kostnader** ikke er korrekt fordelt over perioder
-* **Påløpte renter** eller gebyrer er undervurdert
-* **Forsikringspremier** eller andre forhåndsbetalte kostnader er feilberegnet
+* **PÃ¥lÃ¸pte renter** eller gebyrer er undervurdert
+* **Forsikringspremier** eller andre forhÃ¥ndsbetalte kostnader er feilberegnet
 
 ![Illustrasjon av periodiseringsfeil](periodiseringsfeil-oversikt.svg)
 
@@ -65,42 +63,42 @@ Virksomheter kan få baksmell på grunn av **mangelfulle avsetninger** for:
 
 ### Skattemessig Baksmell
 
-Dette er den vanligste formen for baksmell og oppstår ved:
+Dette er den vanligste formen for baksmell og oppstÃ¥r ved:
 
-* **[Skattemelding](/blogs/regnskap/skattemelding "Skattemelding - Komplett Guide til Utfylling og Innlevering")** viser høyere skatt enn beregnet
+* **[Skattemelding](/blogs/regnskap/skattemelding "Skattemelding - Komplett Guide til Utfylling og Innlevering")** viser hÃ¸yere skatt enn beregnet
 * **Endringer i skatteregler** som ikke er reflektert i avsetninger
-* **Korreksjoner av tidligere års** skattegrunnlag
+* **Korreksjoner av tidligere Ã¥rs** skattegrunnlag
 
 ### Regnskapsmessig Baksmell
 
-Oppstår ved **[årsavslutning](/blogs/regnskap/hva-er-aarsavslutning "Hva er Årsavslutning? Steg for Steg Guide til Årsavslutning")** når:
+OppstÃ¥r ved **[Ã¥rsavslutning](/blogs/regnskap/hva-er-aarsavslutning "Hva er Ã…rsavslutning? Steg for Steg Guide til Ã…rsavslutning")** nÃ¥r:
 
 * **Revisjonen** avdekker feil i regnskapet
 * **Nye regnskapsstandarder** krever justeringer
-* **Verdsettelse av eiendeler** må korrigeres
+* **Verdsettelse av eiendeler** mÃ¥ korrigeres
 
 ### MVA-relatert Baksmell
 
-Kan oppstå ved:
+Kan oppstÃ¥ ved:
 
-* **Feil i [mva-beregninger](/blogs/regnskap/hva-er-moms-mva "Hva er Merverdiavgift (MVA)? Beregning og Regnskapsføring")**
+* **Feil i [mva-beregninger](/blogs/regnskap/hva-er-moms-mva "Hva er Merverdiavgift (MVA)? Beregning og RegnskapsfÃ¸ring")**
 * **Korreksjoner av tidligere MVA-meldinger**
 * **Endringer i MVA-regler**
 
 ![Illustrasjon av baksmell typer](baksmell-typer-oversikt.svg)
 
-## Regnskapsføring av Baksmell
+## RegnskapsfÃ¸ring av Baksmell
 
-### Grunnleggende Bokføring
+### Grunnleggende BokfÃ¸ring
 
-Ved oppdagelse av baksmell bokføres dette vanligvis som:
+Ved oppdagelse av baksmell bokfÃ¸res dette vanligvis som:
 
 ```text
 Debet: Relevant kostnadskonto (resultatkonto)
 Kredit: Avsetning/Gjeld (balansekonto)
 ```
 
-**Eksempel på skatterelatert baksmell:**
+**Eksempel pÃ¥ skatterelatert baksmell:**
 
 ```text
 Debet: Skattekostnad                 100 000 kr
@@ -112,10 +110,10 @@ Kredit: Betalbar skatt              100 000 kr
 | Baksmell-type | Debet-konto | Kredit-konto | Kommentar |
 |---------------|-------------|--------------|-----------|
 | **Skatt** | [2500 Betalbar skatt ikke utlignet](/blogs/kontoplan/2500-betalbar-skatt-ikke-utlignet "Konto 2500: Betalbar Skatt Ikke Utlignet") | Bankkonto | Ved betaling |
-| **Feriepenger** | [2940 Feriepenger](/blogs/kontoplan/2940-feriepenger "Konto 2940: Feriepenger") | Lønnskostnad | Korrigering |
-| **Leverandørgjeld** | [2400 Leverandørgjeld](/blogs/kontoplan/2400-leverandorgjeld "Konto 2400: Leverandørgjeld") | Varekostnad | Påløpte kostnader |
+| **Feriepenger** | [2940 Feriepenger](/blogs/kontoplan/2940-feriepenger "Konto 2940: Feriepenger") | LÃ¸nnskostnad | Korrigering |
+| **LeverandÃ¸rgjeld** | [2400 LeverandÃ¸rgjeld](/blogs/kontoplan/2400-leverandorgjeld "Konto 2400: LeverandÃ¸rgjeld") | Varekostnad | PÃ¥lÃ¸pte kostnader |
 
-### Oppgjørspostering
+### OppgjÃ¸rspostering
 
 Etter at baksmellen er betalt eller oppgjort:
 
@@ -124,15 +122,15 @@ Debet: Avsetning/Gjeld (balansekonto)
 Kredit: Bank/Kasse (balansekonto)
 ```
 
-![Illustrasjon av regnskapsføringsprosess](baksmell-bokforingsprosess.svg)
+![Illustrasjon av regnskapsfÃ¸ringsprosess](baksmell-bokforingsprosess.svg)
 
 ## Hvordan Beregne og Estimere Baksmell
 
 ### Prognostiseringsmodeller
 
-For å **forutse** potensielle baksmell kan virksomheter bruke:
+For Ã¥ **forutse** potensielle baksmell kan virksomheter bruke:
 
-* **Rullende prognoser** basert på løpende resultater
+* **Rullende prognoser** basert pÃ¥ lÃ¸pende resultater
 * **Scenarioanalyser** med ulike antagelser
 * **Historiske data** og trendanalyser
 * **Benchmarking** mot sammenlignbare virksomheter
@@ -148,7 +146,7 @@ Forskuddsskatt betalt: - 300 000 kr
 Baksmell:              =  80 000 kr
 ```
 
-**Regnskapsføring:**
+**RegnskapsfÃ¸ring:**
 ```
 Debet: Skattekostnad     80 000 kr
 Kredit: Betalbar skatt   80 000 kr
@@ -158,14 +156,14 @@ Kredit: Betalbar skatt   80 000 kr
 
 ## Forebyggende Tiltak
 
-### Systematisk Oppfølging
+### Systematisk OppfÃ¸lging
 
-**Best practices** for å unngå baksmell:
+**Best practices** for Ã¥ unngÃ¥ baksmell:
 
-* **Månedlige revisjoner** av avsetninger og prognoser
+* **MÃ¥nedlige revisjoner** av avsetninger og prognoser
 * **Kvartalsvis oppdatering** av skatteberegninger
-* **Løpende dialog** med revisor eller regnskapsfører
-* **Bruk av digitale verktøy** for automatisk beregning
+* **LÃ¸pende dialog** med revisor eller regnskapsfÃ¸rer
+* **Bruk av digitale verktÃ¸y** for automatisk beregning
 
 ### Intern Kontroll
 
@@ -178,28 +176,28 @@ Etabler **kontrollrutiner** for:
 
 ![Illustrasjon av forebyggende tiltak](forebyggende-tiltak-oversikt.svg)
 
-### Teknologiske Løsninger
+### Teknologiske LÃ¸sninger
 
-Moderne **regnskapssystemer** kan bidra til å redusere baksmell ved:
+Moderne **regnskapssystemer** kan bidra til Ã¥ redusere baksmell ved:
 
 * **Automatisk beregning** av avsetninger
 * **Integrasjon** med skattemyndigheter
 * **Advarsler** ved avvik fra prognoser
-* **Rapporter** som identifiserer potensielle problemområder
+* **Rapporter** som identifiserer potensielle problemomrÃ¥der
 
 ## Konsekvenser av Baksmell
 
-### Økonomiske Konsekvenser
+### Ã˜konomiske Konsekvenser
 
-Baksmell kan påvirke virksomheten på flere måter:
+Baksmell kan pÃ¥virke virksomheten pÃ¥ flere mÃ¥ter:
 
-* **[Likviditetspress](/blogs/regnskap/hva-er-likviditet "Hva er Likviditet? Måling og Styring av Betalingsevne"):** Uventet behov for kontanter
+* **[Likviditetspress](/blogs/regnskap/hva-er-likviditet "Hva er Likviditet? MÃ¥ling og Styring av Betalingsevne"):** Uventet behov for kontanter
 * **Rentekostnader:** Ved finansiering av baksmell
-* **Redusert [lønnsomhet](/blogs/regnskap/hva-er-profitt "Hva er Profitt? Beregning og Forbedring av Lønnsomhet"):** Ekstra kostnader påvirker resultatet
+* **Redusert [lÃ¸nnsomhet](/blogs/regnskap/hva-er-profitt "Hva er Profitt? Beregning og Forbedring av LÃ¸nnsomhet"):** Ekstra kostnader pÃ¥virker resultatet
 
 ### Administrative Konsekvenser
 
-* **Økt arbeidsbelastning** ved korreksjoner og oppfølging
+* **Ã˜kt arbeidsbelastning** ved korreksjoner og oppfÃ¸lging
 * **Revisjonsmerkostnader** ved komplekse korreksjoner
 * **Kommunikasjon** med interessenter om avvik
 
@@ -207,7 +205,7 @@ Baksmell kan påvirke virksomheten på flere måter:
 
 Ved betydelige baksmell kan virksomheten risikere:
 
-* **Økt oppmerksomhet** fra Skatteetaten
+* **Ã˜kt oppmerksomhet** fra Skatteetaten
 * **Kontroller** og revisjoner
 * **Gebyrer** og renter ved for sen betaling
 * **Krav om forbedrede rutiner** og kontroller
@@ -218,7 +216,7 @@ Ved betydelige baksmell kan virksomheten risikere:
 
 ### Bygge- og Anleggsbransjen
 
-Særlige utfordringer med baksmell på grunn av:
+SÃ¦rlige utfordringer med baksmell pÃ¥ grunn av:
 
 * **Prosjektbasert [virksomhet](/blogs/regnskap/hva-er-foretak "Hva er Foretak? Organisasjonsformer og Regnskapsplikt")**
 * **Lange [avskrivningsperioder](/blogs/regnskap/hva-er-avskrivning "Hva er Avskrivning? Metoder og Beregning")**
@@ -229,7 +227,7 @@ Særlige utfordringer med baksmell på grunn av:
 Utfordringer knyttet til:
 
 * **Sesongvariasjoner** i omsetning
-* **[Varelager](/blogs/regnskap/hva-er-varelager "Hva er Varelager? Verdivurdering og Regnskapsføring")**-svingninger
+* **[Varelager](/blogs/regnskap/hva-er-varelager "Hva er Varelager? Verdivurdering og RegnskapsfÃ¸ring")**-svingninger
 * **Kompleks MVA-behandling**
 
 ### Tjenesteyting
@@ -244,7 +242,7 @@ Spesielle hensyn for:
 
 ### Automatisering
 
-Moderne teknologi bidrar til å redusere baksmell ved:
+Moderne teknologi bidrar til Ã¥ redusere baksmell ved:
 
 * **AI-baserte prognoser** for bedre estimater
 * **Sanntidsrapportering** fra integrasjon med banksystemer
@@ -252,13 +250,13 @@ Moderne teknologi bidrar til å redusere baksmell ved:
 
 ### Utviklingstrender
 
-Fremtidens regnskapssystemer vil fokusere på:
+Fremtidens regnskapssystemer vil fokusere pÃ¥:
 
-* **Prediktiv analyse** for å forutse potensielle baksmell
+* **Prediktiv analyse** for Ã¥ forutse potensielle baksmell
 * **Integrasjon** med offentlige databaser
 * **Varslingssystemer** for avvik fra prognoser
 
-![Illustrasjon av digitale løsninger](digitale-losninger-baksmell.svg)
+![Illustrasjon av digitale lÃ¸sninger](digitale-losninger-baksmell.svg)
 
 ## Praktiske Eksempler
 
@@ -269,7 +267,7 @@ Fremtidens regnskapssystemer vil fokusere på:
 **Beregning:**
 - Estimert omsetning: 2 000 000 kr
 - Faktisk omsetning: 2 400 000 kr
-- Økt skattegrunnlag: 400 000 kr
+- Ã˜kt skattegrunnlag: 400 000 kr
 - Skattesats: 22%
 - **Baksmell:** 88 000 kr
 
@@ -295,29 +293,29 @@ Fremtidens regnskapssystemer vil fokusere på:
 
 ## Relaterte Artikler
 
-For å lære mer om emner som henger sammen med baksmell, se også:
+For Ã¥ lÃ¦re mer om emner som henger sammen med baksmell, se ogsÃ¥:
 
 * **[Skattemelding](/blogs/regnskap/skattemelding "Skattemelding - Komplett Guide til Utfylling og Innlevering")**
 * **[Forskuddsskatt](/blogs/regnskap/hva-er-forskuddsskatt "Hva er Forskuddsskatt? Beregning og Innbetaling")**
 * **[Periodisering](/blogs/regnskap/hva-er-periodisering "Hva er Periodisering? Prinsipper og Eksempler i Regnskap")**
 * **[Avsetning](/blogs/regnskap/avsetning "Avsetning i Regnskap - Komplett Guide til Avsetninger og Estimater")**
-* **[Årsavslutning](/blogs/regnskap/hva-er-aarsavslutning "Hva er Årsavslutning? Steg for Steg Guide til Årsavslutning")**
-* **[Betalbar skatt](/blogs/regnskap/betalbar-skatt "Betalbar Skatt: Beregning og Regnskapsføring")**
-* **[Mva](/blogs/regnskap/hva-er-moms-mva "Hva er Merverdiavgift (MVA)? Beregning og Regnskapsføring")**
-* **[Likviditet](/blogs/regnskap/hva-er-likviditet "Hva er Likviditet? Måling og Styring av Betalingsevne")**
-* **[Fremførbart underskudd](/blogs/regnskap/fremforbart-underskudd "Fremførbart underskudd: Komplett guide til håndtering av underskudd i regnskap og skatt")**
-* **[Restskatt](/blogs/regnskap/restskatt "Restskatt – Hva er restskatt og hvordan beregnes den?")**
+* **[Ã…rsavslutning](/blogs/regnskap/hva-er-aarsavslutning "Hva er Ã…rsavslutning? Steg for Steg Guide til Ã…rsavslutning")**
+* **[Betalbar skatt](/blogs/regnskap/betalbar-skatt "Betalbar Skatt: Beregning og RegnskapsfÃ¸ring")**
+* **[Mva](/blogs/regnskap/hva-er-moms-mva "Hva er Merverdiavgift (MVA)? Beregning og RegnskapsfÃ¸ring")**
+* **[Likviditet](/blogs/regnskap/hva-er-likviditet "Hva er Likviditet? MÃ¥ling og Styring av Betalingsevne")**
+* **[FremfÃ¸rbart underskudd](/blogs/regnskap/fremforbart-underskudd "FremfÃ¸rbart underskudd: Komplett guide til hÃ¥ndtering av underskudd i regnskap og skatt")**
+* **[Restskatt](/blogs/regnskap/restskatt "Restskatt â€“ Hva er restskatt og hvordan beregnes den?")**
 
 ## Oppsummering
 
-**Baksmell** er en viktig konsept innen **norsk regnskap og skatt** som kan påvirke virksomheters økonomi betydelig. Ved å forstå årsaker, implementere forebyggende tiltak og ha gode rutiner for regnskapsføring kan virksomheter **minimere risikoen** for uventede ekstrakostnader.
+**Baksmell** er en viktig konsept innen **norsk regnskap og skatt** som kan pÃ¥virke virksomheters Ã¸konomi betydelig. Ved Ã¥ forstÃ¥ Ã¥rsaker, implementere forebyggende tiltak og ha gode rutiner for regnskapsfÃ¸ring kan virksomheter **minimere risikoen** for uventede ekstrakostnader.
 
-**Nøkkelpunkter for å unngå baksmell:**
+**NÃ¸kkelpunkter for Ã¥ unngÃ¥ baksmell:**
 
-* **Regelmessig oppfølging** av prognoser og avsetninger
+* **Regelmessig oppfÃ¸lging** av prognoser og avsetninger
 * **Kvalitetssikring** av skatteberegninger
 * **Bruk av moderne teknologi** for automatisering
 * **Tett samarbeid** med fagekspertise
 * **Kontinuerlig forbedring** av interne rutiner
 
-Ved å ta hensyn til disse faktorene kan virksomheter sikre mer **nøyaktig finansiell rapportering** og unngå de negative konsekvensene som baksmell kan medføre.
+Ved Ã¥ ta hensyn til disse faktorene kan virksomheter sikre mer **nÃ¸yaktig finansiell rapportering** og unngÃ¥ de negative konsekvensene som baksmell kan medfÃ¸re.

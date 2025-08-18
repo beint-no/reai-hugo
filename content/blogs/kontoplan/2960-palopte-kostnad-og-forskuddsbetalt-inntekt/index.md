@@ -1,7 +1,7 @@
 ﻿---
 title: "2960-palopte-kostnad-og-forskuddsbetalt-inntekt"
 meta_title: "2960-palopte-kostnad-og-forskuddsbetalt-inntekt"
-meta_description: "**Konto 2960 - PÃ¥lÃ¸pt kostnad og forskuddsbetalt inntekt** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **pÃ¥lÃ¸pte kostnader** for var..."
+meta_description: '**Konto 2960 - PÃ¥lÃ¸pt kostnad og forskuddsbetalt inntekt** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **pÃ¥lÃ¸pte kostnader** for var...'
 slug: 2960-palopte-kostnad-og-forskuddsbetalt-inntekt
 type: blog
 layout: pages/single

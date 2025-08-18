@@ -1,47 +1,44 @@
----
+﻿---
 title: "Hva er Frikort?"
-summary: "Frikort er et skattekort som gjør at du slipper skattetrekk på inntekt opp til en viss grense. Les om regler, søknadsprosess og praktiske tips for å få frikort."
-description: |
-  Lær alt om frikort i Norge: hva frikort er, hvem som kan få det, hvordan du søker, beregning av frikortgrense, praktiske eksempler og vanlige spørsmål.
+meta_title: "Hva er Frikort?"
+meta_description: '**Frikort** er et [skattekort](/blogs/regnskap/skattekort "Hva er Skattekort? En komplett guide til skattekortregler i Norge") som gjÃ¸r at du ikke betaler skat...'
 slug: frikort
-featured_image: hva-er-frikort-image.svg
-featured_image_alt: "Hva er Frikort?"
-url: "/blogs/regnskap/frikort/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
-**Frikort** er et [skattekort](/blogs/regnskap/skattekort "Hva er Skattekort? En komplett guide til skattekortregler i Norge") som gjør at du ikke betaler skatt på inntekt opp til en bestemt grense. Dette er et viktig verktøy i det norske skattesystemet for **lavinntektsgrupper** som studenter, pensjonister og deltidsansatte.
+**Frikort** er et [skattekort](/blogs/regnskap/skattekort "Hva er Skattekort? En komplett guide til skattekortregler i Norge") som gjÃ¸r at du ikke betaler skatt pÃ¥ inntekt opp til en bestemt grense. Dette er et viktig verktÃ¸y i det norske skattesystemet for **lavinntektsgrupper** som studenter, pensjonister og deltidsansatte.
 
 ![Hva er Frikort?](hva-er-frikort-image.svg)
 
 ## Hva er Frikort?
 
-**Frikort** er et skattekort som fritar deg for skattetrekk på inntekt opp til en fastsatt grense i løpet av et kalenderår. Systemet er utviklet for å:
+**Frikort** er et skattekort som fritar deg for skattetrekk pÃ¥ inntekt opp til en fastsatt grense i lÃ¸pet av et kalenderÃ¥r. Systemet er utviklet for Ã¥:
 
 * **Sikre skattefrihet** for grunnleggende inntekt
-* **Redusere administrasjon** både for skattytere og [Skatteetaten](/blogs/regnskap/hva-er-altinn "Altinn - Digital Kommunikasjon med Offentlige Myndigheter")
+* **Redusere administrasjon** bÃ¥de for skattytere og [Skatteetaten](/blogs/regnskap/hva-er-altinn "Altinn - Digital Kommunikasjon med Offentlige Myndigheter")
 * **Gi forutsigbarhet** i inntektsplanlegging
 * **Styrke deltakelse** i arbeidslivet uten bekymring for skattetrekk
 
-## Hvem kan få Frikort?
+## Hvem kan fÃ¥ Frikort?
 
-Du kan søke om frikort hvis du forventer å tjene under frikortgrensen som årlig:
+Du kan sÃ¸ke om frikort hvis du forventer Ã¥ tjene under frikortgrensen som Ã¥rlig:
 
 * Studenter i deltids- eller feriejobb
 * Pensjonister med lav pensjon
 * Deltidsansatte og sesongarbeidere
-* Personer med uføretrygd eller andre trygdeytelser
+* Personer med ufÃ¸retrygd eller andre trygdeytelser
 * Arbeidsledige som tar midlertidige oppdrag
 
-## Slik søker du om Frikort
+## Slik sÃ¸ker du om Frikort
 
-Prosessen for å få frikort er enkel og digital:
+Prosessen for Ã¥ fÃ¥ frikort er enkel og digital:
 
-1. **Logg inn på Skatteetaten.no** med BankID eller annen godkjent ID
-2. **Velg “Skattekort”** og deretter “Søk om frikort”
-3. **Angi forventet inntekt** for kalenderåret
+1. **Logg inn pÃ¥ Skatteetaten.no** med BankID eller annen godkjent ID
+2. **Velg â€œSkattekortâ€** og deretter â€œSÃ¸k om frikortâ€
+3. **Angi forventet inntekt** for kalenderÃ¥ret
 4. **Last opp dokumentasjon** som kontrakt eller pensjonsbeskrivelse
-5. **Send inn søknaden** og vent på godkjenning
+5. **Send inn sÃ¸knaden** og vent pÃ¥ godkjenning
 
 > **Tips:** Du kan endre forventet inntekt underveis dersom din situasjon endrer seg.
 
@@ -51,26 +48,26 @@ Se [Hva er Frikortgrense?](/blogs/regnskap/hva-er-frikortgrense "Hva er Frikortg
 
 | Kategori                      | Frikortgrense 2024 |
 |-------------------------------|-------------------:|
-| **Ordinær frikortgrense**     | 69 300 kr          |
-| **Pensjonister (67–69 år)**   | 138 050 kr         |
-| **Pensjonister (70 år og +)** | 138 050 kr         |
+| **OrdinÃ¦r frikortgrense**     | 69â€¯300 kr          |
+| **Pensjonister (67â€“69 Ã¥r)**   | 138â€¯050 kr         |
+| **Pensjonister (70 Ã¥r og +)** | 138â€¯050 kr         |
 
 ## Fordeler med Frikort
 
-Å ha frikort gir flere fordeler:
+Ã… ha frikort gir flere fordeler:
 * **Skattefri inntekt** opp til grensen
-* **Enkel håndtering** uten trekk i lønnsutbetaling
-* **Bedre økonomistyring** for lavinntektsgrupper
-* **Komplementær bruk** sammen med ordinært skattekort
+* **Enkel hÃ¥ndtering** uten trekk i lÃ¸nnsutbetaling
+* **Bedre Ã¸konomistyring** for lavinntektsgrupper
+* **KomplementÃ¦r bruk** sammen med ordinÃ¦rt skattekort
 
-## Vanlige misforståelser
+## Vanlige misforstÃ¥elser
 
-* **“Frikort betyr ingen skatt i det hele tatt”**
+* **â€œFrikort betyr ingen skatt i det hele tattâ€**
   - Feil: Gjelder kun inntekt opp til grensen.
-* **“Frikort fornyes automatisk”**
-  - Feil: Du må søke på nytt hvert år.
-* **“Frikort kan deles mellom arbeidsgivere”**
-  - Feil: Frikort kan brukes hos én arbeidsgiver om gangen.
+* **â€œFrikort fornyes automatiskâ€**
+  - Feil: Du mÃ¥ sÃ¸ke pÃ¥ nytt hvert Ã¥r.
+* **â€œFrikort kan deles mellom arbeidsgivereâ€**
+  - Feil: Frikort kan brukes hos Ã©n arbeidsgiver om gangen.
 
 ## Relaterte artikler
 

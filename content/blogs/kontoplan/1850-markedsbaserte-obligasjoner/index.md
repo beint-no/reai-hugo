@@ -1,7 +1,7 @@
 ﻿---
 title: "1850-markedsbaserte-obligasjoner"
 meta_title: "1850-markedsbaserte-obligasjoner"
-meta_description: "**Konto 1850 - Markedsbaserte obligasjoner** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **markedsbaserte obligasjoner** som omsettes pÃ..."
+meta_description: '**Konto 1850 - Markedsbaserte obligasjoner** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **markedsbaserte obligasjoner** som omsettes pÃ...'
 slug: 1850-markedsbaserte-obligasjoner
 type: blog
 layout: pages/single

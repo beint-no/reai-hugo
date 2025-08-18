@@ -1,177 +1,175 @@
----
-title: "Skatt på Uføretrygd"
-summary: "Skatt på uføretrygd er en kompleks skattemessig behandling som påvirker både private personer og arbeidsgivere. Uføretrygd er skattepliktig inntekt som behandles ulikt enn ordinær lønn og krever spesiell regnskapsføring."
-description: "Lær alt om skatt på uføretrygd - beregning, regnskapsføring, fradrag og praktiske eksempler. Viktig informasjon for både mottakere og arbeidsgivere."
+﻿---
+title: "Skatt pÃ¥ UfÃ¸retrygd"
+meta_title: "Skatt pÃ¥ UfÃ¸retrygd"
+meta_description: '**Skatt pÃ¥ ufÃ¸retrygd** er et komplekst omrÃ¥de innen norsk skatterett som pÃ¥virker bÃ¥de private ufÃ¸retrygdmottakere og arbeidsgivere. [UfÃ¸retrygd](/blogs...'
 slug: skatt-pa-uforetrygd
-featured_image: skatt-pa-uforetrygd-image.svg
-featured_image_alt: "Illustrasjon som viser skatt på uføretrygd med beregning og regnskapsføring"
-url: "/blogs/regnskap/skatt-pa-uforetrygd/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
-**Skatt på uføretrygd** er et komplekst område innen norsk skatterett som påvirker både private uføretrygdmottakere og arbeidsgivere. [Uføretrygd](/blogs/regnskap/hva-er-uforetrygd "Hva er Uføretrygd? Komplett Guide til Trygdeordninger") regnes som **skattepliktig inntekt** og behandles anderledes enn ordinær [lønn](/blogs/regnskap/hva-er-loenn "Hva er Lønn? Beregning og Regnskapsføring av Lønnskostnader") i både regnskaps- og [skattemessig sammenheng](/blogs/regnskap/hva-er-skatt "Skatt - Komplett Guide til Bedriftsskatt, MVA og Skatteplanlegging").
+**Skatt pÃ¥ ufÃ¸retrygd** er et komplekst omrÃ¥de innen norsk skatterett som pÃ¥virker bÃ¥de private ufÃ¸retrygdmottakere og arbeidsgivere. [UfÃ¸retrygd](/blogs/regnskap/hva-er-uforetrygd "Hva er UfÃ¸retrygd? Komplett Guide til Trygdeordninger") regnes som **skattepliktig inntekt** og behandles anderledes enn ordinÃ¦r [lÃ¸nn](/blogs/regnskap/hva-er-loenn "Hva er LÃ¸nn? Beregning og RegnskapsfÃ¸ring av LÃ¸nnskostnader") i bÃ¥de regnskaps- og [skattemessig sammenheng](/blogs/regnskap/hva-er-skatt "Skatt - Komplett Guide til Bedriftsskatt, MVA og Skatteplanlegging").
 
-## Seksjon 1: Grunnleggende om Uføretrygd og Skatteplikt
+## Seksjon 1: Grunnleggende om UfÃ¸retrygd og Skatteplikt
 
-### 1.1 Hva er Uføretrygd?
+### 1.1 Hva er UfÃ¸retrygd?
 
-**Uføretrygd** er en stønad fra NAV som utbetales til personer som har varig redusert arbeidsevne på grunn av sykdom eller skade. Uføretrygden erstatter tidligere arbeidsrettede rehabiliteringspenger og garantipensjon.
+**UfÃ¸retrygd** er en stÃ¸nad fra NAV som utbetales til personer som har varig redusert arbeidsevne pÃ¥ grunn av sykdom eller skade. UfÃ¸retrygden erstatter tidligere arbeidsrettede rehabiliteringspenger og garantipensjon.
 
-![Skatt på Uføretrygd Oversikt](skatt-pa-uforetrygd-image.svg)
+![Skatt pÃ¥ UfÃ¸retrygd Oversikt](skatt-pa-uforetrygd-image.svg)
 
-#### Forutsetninger for uføretrygd:
+#### Forutsetninger for ufÃ¸retrygd:
 * **Varig nedsatt arbeidsevne** med minst 50%
 * **Medlem** i folketrygden
-* **Poengår:** Minimum 3 poengår etter fylte 16 år  
+* **PoengÃ¥r:** Minimum 3 poengÃ¥r etter fylte 16 Ã¥r  
 * **Alle muligheter** for arbeidsrettede tiltak er vurdert
 
-For å beskytte inntekt utover uføretrygd kan man tegne en privat **uføreforsikring**. Les mer i [Uføreforsikring](/blogs/regnskap/uforeforsikring "Uføreforsikring – Guide til Private Uføreforsikringer i Norge").
+For Ã¥ beskytte inntekt utover ufÃ¸retrygd kan man tegne en privat **ufÃ¸reforsikring**. Les mer i [UfÃ¸reforsikring](/blogs/regnskap/uforeforsikring "UfÃ¸reforsikring â€“ Guide til Private UfÃ¸reforsikringer i Norge").
 
-### 1.2 Skatteplikt på Uføretrygd
+### 1.2 Skatteplikt pÃ¥ UfÃ¸retrygd
 
-**Uføretrygd er skattepliktig inntekt** i henhold til skatteloven § 5-40. Dette betyr at mottakerne må betale både [ordinær inntektsskatt](/blogs/regnskap/hva-er-skatt "Skatt - Komplett Guide til Bedriftsskatt, MVA og Skatteplanlegging") og trygdeavgift av uføretrygden.
+**UfÃ¸retrygd er skattepliktig inntekt** i henhold til skatteloven Â§ 5-40. Dette betyr at mottakerne mÃ¥ betale bÃ¥de [ordinÃ¦r inntektsskatt](/blogs/regnskap/hva-er-skatt "Skatt - Komplett Guide til Bedriftsskatt, MVA og Skatteplanlegging") og trygdeavgift av ufÃ¸retrygden.
 
 #### Skattemessig behandling:
-| **Element** | **Behandling** | **Særlige regler** |
+| **Element** | **Behandling** | **SÃ¦rlige regler** |
 |-------------|----------------|--------------------|
-| **Grunnbeløp** | Skattepliktig | Som ordinær lønn |
+| **GrunnbelÃ¸p** | Skattepliktig | Som ordinÃ¦r lÃ¸nn |
 | **Barnetillegg** | Skattepliktig | Behandles separat |
 | **Kompensasjonstillegg** | Skattefritt | Ikke regnet som inntekt |
-| **Hjelpestønad** | Skattefritt | Ikke skattepliktig |
+| **HjelpestÃ¸nad** | Skattefritt | Ikke skattepliktig |
 
-![Uføretrygd Skattekomponenter](uforetrygd-skattekomponenter.svg)
+![UfÃ¸retrygd Skattekomponenter](uforetrygd-skattekomponenter.svg)
 
-### 1.3 Forskjeller fra Ordinær Lønn
+### 1.3 Forskjeller fra OrdinÃ¦r LÃ¸nn
 
-**Uføretrygd behandles annerledes** enn vanlig arbeidslønn:
+**UfÃ¸retrygd behandles annerledes** enn vanlig arbeidslÃ¸nn:
 
 #### Viktige forskjeller:
 * **Ingen arbeidsgiveravgift:** NAV betaler ikke arbeidsgiveravgift
-* **Redusert trygdeavgift:** Lavere sats enn for lønnsarbeid
-* **Feriepenger:** Uføretrygdmottakere får ikke feriepenger
+* **Redusert trygdeavgift:** Lavere sats enn for lÃ¸nnsarbeid
+* **Feriepenger:** UfÃ¸retrygdmottakere fÃ¥r ikke feriepenger
 * **Pensjon:** Opptjening av pensjonspoeng fortsetter
-* **Sykerettigheter:** Ved sykdom gjelder spesielle regler for [sykepenger](/blogs/regnskap/hva-er-sykepenger "Hva er Sykepenger? Komplett Guide til Arbeidsgiverperiode og NAV-refusjon") ved gradert uføretrygd
+* **Sykerettigheter:** Ved sykdom gjelder spesielle regler for [sykepenger](/blogs/regnskap/hva-er-sykepenger "Hva er Sykepenger? Komplett Guide til Arbeidsgiverperiode og NAV-refusjon") ved gradert ufÃ¸retrygd
 
-## Seksjon 2: Beregning av Skatt på Uføretrygd
+## Seksjon 2: Beregning av Skatt pÃ¥ UfÃ¸retrygd
 
 ### 2.1 Skattesatser og Beregningsgrunnlag
 
-**Skattesatsene** for uføretrygd følger ordinære satser, men med noen justeringer:
+**Skattesatsene** for ufÃ¸retrygd fÃ¸lger ordinÃ¦re satser, men med noen justeringer:
 
-#### Trygdeavgift på uføretrygd (2024):
-| **Inntektsnivå** | **Trygdeavgiftssats** | **Sammenligning med lønn** |
+#### Trygdeavgift pÃ¥ ufÃ¸retrygd (2024):
+| **InntektsnivÃ¥** | **Trygdeavgiftssats** | **Sammenligning med lÃ¸nn** |
 |------------------|----------------------|---------------------------|
-| Under 2G (≈ 232.000 kr) | 5,1% | Samme som lønn |
-| Over 2G | 5,1% | Lavere enn lønn (8,2%) |
+| Under 2G (â‰ˆ 232.000 kr) | 5,1% | Samme som lÃ¸nn |
+| Over 2G | 5,1% | Lavere enn lÃ¸nn (8,2%) |
 
 #### Beregningseksempel:
 ```
-Årlig uføretrygd: 300.000 kr
-Trygdeavgift: 300.000 × 5,1% = 15.300 kr
-Ordinær skatt (eksempel): 300.000 × 22% = 66.000 kr
+Ã…rlig ufÃ¸retrygd: 300.000 kr
+Trygdeavgift: 300.000 Ã— 5,1% = 15.300 kr
+OrdinÃ¦r skatt (eksempel): 300.000 Ã— 22% = 66.000 kr
 Total skatt: 15.300 + 66.000 = 81.300 kr
 ```
 
-![Skatteberegning Uføretrygd](skatteberegning-uforetrygd.svg)
+![Skatteberegning UfÃ¸retrygd](skatteberegning-uforetrygd.svg)
 
 ### 2.2 Forskuddstrekk og Skattekort
 
-**NAV trekker forskuddsskatt** av uføretrygden basert på:
+**NAV trekker forskuddsskatt** av ufÃ¸retrygden basert pÃ¥:
 
 #### Trekkgrunnlag:
 * **Prosentsats** fra skattekort eller 22% (standard)
-* **Tabelltrékk** basert på antall trekkdager per måned
+* **TabelltrÃ©kk** basert pÃ¥ antall trekkdager per mÃ¥ned
 * **Fradrag** for personfradrag og andre standardfradrag
 
-#### Særlige bestemmelser:
-* **Minstegrense:** Trekk først når uføretrygd overskrider personfradrag
-* **Maksgrense:** Ikke trekk mer enn 50% av månedlig uføretrygd
+#### SÃ¦rlige bestemmelser:
+* **Minstegrense:** Trekk fÃ¸rst nÃ¥r ufÃ¸retrygd overskrider personfradrag
+* **Maksgrense:** Ikke trekk mer enn 50% av mÃ¥nedlig ufÃ¸retrygd
 * **Justeringer:** Kan justeres ved endringer i trekksats
 
 ### 2.3 Tilleggsfradrag og Spesielle Fradrag
 
-**Uføretrygdmottakere** kan ha rett til særlige fradrag:
+**UfÃ¸retrygdmottakere** kan ha rett til sÃ¦rlige fradrag:
 
-#### Uførefradrag:
-* **Størrelse:** Inntil 19.000 kr (2024) for personer med varig nedsatt ervervsevne
-* **Vilkår:** Minimum 2/3 uførhet
-* **Beregning:** Graderes etter uføregrad
+#### UfÃ¸refradrag:
+* **StÃ¸rrelse:** Inntil 19.000 kr (2024) for personer med varig nedsatt ervervsevne
+* **VilkÃ¥r:** Minimum 2/3 ufÃ¸rhet
+* **Beregning:** Graderes etter ufÃ¸regrad
 
 #### Andre relevante fradrag:
-| **Fradragstype** | **Beløp (2024)** | **Vilkår** |
+| **Fradragstype** | **BelÃ¸p (2024)** | **VilkÃ¥r** |
 |------------------|------------------|------------|
 | **Personfradrag** | 67.000 kr | Standard for alle |
-| **Uførefradrag** | Inntil 19.000 kr | Ved uførhet |
-| **Foreldrefradrag** | 25.000 kr | Enslige forsørgere |
+| **UfÃ¸refradrag** | Inntil 19.000 kr | Ved ufÃ¸rhet |
+| **Foreldrefradrag** | 25.000 kr | Enslige forsÃ¸rgere |
 | **Minstefradrag** | Minimum 4.000 kr | Som vanlig inntekt |
 
-![Fradrag for Uføretrygdmottakere](fradrag-uforetrygdmottakere.svg)
+![Fradrag for UfÃ¸retrygdmottakere](fradrag-uforetrygdmottakere.svg)
 
-## Seksjon 3: Regnskapsføring av Uføretrygdutbetalinger
+## Seksjon 3: RegnskapsfÃ¸ring av UfÃ¸retrygdutbetalinger
 
-### 3.1 Arbeidsgivers Regnskapsføring
+### 3.1 Arbeidsgivers RegnskapsfÃ¸ring
 
-**Arbeidsgivere** som utbetaler lønn til ansatte som mottar gradert uføretrygd må føre dette korrekt:
+**Arbeidsgivere** som utbetaler lÃ¸nn til ansatte som mottar gradert ufÃ¸retrygd mÃ¥ fÃ¸re dette korrekt:
 
-#### Bokføringseksempel for gradert uføretrygd (50% stilling):
+#### BokfÃ¸ringseksempel for gradert ufÃ¸retrygd (50% stilling):
 ```
-Lønn for 50% stilling: 250.000 kr/år
-Uføretrygd fra NAV: 150.000 kr/år
+LÃ¸nn for 50% stilling: 250.000 kr/Ã¥r
+UfÃ¸retrygd fra NAV: 150.000 kr/Ã¥r
 
-Månedlig bokføring:
-Debet: Lønnskostnad              20.833 kr
-Kredit: Skyldig lønn            20.833 kr
+MÃ¥nedlig bokfÃ¸ring:
+Debet: LÃ¸nnskostnad              20.833 kr
+Kredit: Skyldig lÃ¸nn            20.833 kr
 
-Debet: Skyldig lønn             20.833 kr  
+Debet: Skyldig lÃ¸nn             20.833 kr  
 Kredit: Bank                    16.666 kr (netto utbetaling)
 Kredit: Forskuddstrekk           2.917 kr
 Kredit: Arbeidsgiveravgift       1.250 kr
 ```
 
-![Regnskapsføring Gradert Uføretrygd](regnskapsforing-gradert-uforetrygd.svg)
+![RegnskapsfÃ¸ring Gradert UfÃ¸retrygd](regnskapsforing-gradert-uforetrygd.svg)
 
 ### 3.2 Arbeidsgivers Sosiale Kostnader
 
-**Sosiale kostnader** påvirkes når ansatte mottar uføretrygd:
+**Sosiale kostnader** pÃ¥virkes nÃ¥r ansatte mottar ufÃ¸retrygd:
 
 #### Arbeidsgiveravgift beregning:
-* **Full stilling:** Arbeidsgiveravgift av full lønn
-* **Gradert uføretrygd:** Arbeidsgiveravgift kun av lønnsdelen
-* **Ingen avgift** på uføretrygddelen som utbetales av NAV
+* **Full stilling:** Arbeidsgiveravgift av full lÃ¸nn
+* **Gradert ufÃ¸retrygd:** Arbeidsgiveravgift kun av lÃ¸nnsdelen
+* **Ingen avgift** pÃ¥ ufÃ¸retrygddelen som utbetales av NAV
 
 #### Eksempel sosiale kostnader:
-| **Element** | **Fulltidsstilling** | **50% stilling + uføretrygd** |
+| **Element** | **Fulltidsstilling** | **50% stilling + ufÃ¸retrygd** |
 |-------------|---------------------|-------------------------------|
-| Grunnlønn | 500.000 kr | 250.000 kr |
+| GrunnlÃ¸nn | 500.000 kr | 250.000 kr |
 | Arbeidsgiveravgift (14,1%) | 70.500 kr | 35.250 kr |
 | Pensjon (2%) | 10.000 kr | 5.000 kr |
 | **Total kostnad** | **580.500 kr** | **290.250 kr** |
 
-### 3.3 NAVs Regnskapsføring og Rapportering
+### 3.3 NAVs RegnskapsfÃ¸ring og Rapportering
 
-**NAV** håndterer både utbetaling og skattetrekk av uføretrygd:
+**NAV** hÃ¥ndterer bÃ¥de utbetaling og skattetrekk av ufÃ¸retrygd:
 
 #### NAVs prosess:
-1. **Beregning** av månedlig uføretrygd
-2. **Skattetrekk** basert på trekkort eller standardsats
-3. **Utbetaling** av netto beløp til mottaker
+1. **Beregning** av mÃ¥nedlig ufÃ¸retrygd
+2. **Skattetrekk** basert pÃ¥ trekkort eller standardsats
+3. **Utbetaling** av netto belÃ¸p til mottaker
 4. **Innbetaling** av forskuddstrekk til Skatteetaten
-5. **Rapportering** via A-melding og årsoppgave
+5. **Rapportering** via A-melding og Ã¥rsoppgave
 
-![NAV Uføretrygd Prosess](nav-uforetrygd-prosess.svg)
+![NAV UfÃ¸retrygd Prosess](nav-uforetrygd-prosess.svg)
 
-## Seksjon 4: Selvangivelse og Årsoppgjør
+## Seksjon 4: Selvangivelse og Ã…rsoppgjÃ¸r
 
-### 4.1 Selvangivelse for Uføretrygdmottakere
+### 4.1 Selvangivelse for UfÃ¸retrygdmottakere
 
-**Uføretrygdmottakere** må innlevere selvangivelse som andre skattytere:
+**UfÃ¸retrygdmottakere** mÃ¥ innlevere selvangivelse som andre skattytere:
 
-#### Forhåndsutfylt informasjon:
-* **Uføretrygd** fra NAV (post 2.1.1)
+#### ForhÃ¥ndsutfylt informasjon:
+* **UfÃ¸retrygd** fra NAV (post 2.1.1)
 * **Forskuddstrekk** trukket av NAV
 * **Relevante fradrag** beregnet automatisk
 
-#### Informasjon mottaker må fylle ut:
+#### Informasjon mottaker mÃ¥ fylle ut:
 * **Andre inntekter** (arbeid, kapital)
 * **Fradrag** som ikke er standard
 * **Formue** og gjeld
@@ -179,28 +177,28 @@ Kredit: Arbeidsgiveravgift       1.250 kr
 
 ### 4.2 Kombinasjon med Arbeidsinntekt
 
-**Kombinert inntekt** fra arbeid og uføretrygd krever særlig oppmerksomhet:
+**Kombinert inntekt** fra arbeid og ufÃ¸retrygd krever sÃ¦rlig oppmerksomhet:
 
 #### Skattemessige konsekvenser:
 | **Inntektstype** | **Trygdeavgift** | **Skattefradrag** |
 |------------------|-------------------|-------------------|
-| **Lønn fra arbeid** | 8,2% (over 2G) | Minstefradrag på lønn |
-| **Uføretrygd** | 5,1% | Uførefradrag |
+| **LÃ¸nn fra arbeid** | 8,2% (over 2G) | Minstefradrag pÃ¥ lÃ¸nn |
+| **UfÃ¸retrygd** | 5,1% | UfÃ¸refradrag |
 | **Samlet** | Beregnes separat | Kombineres i selvangivelse |
 
 #### Beregningseksempel kombinert inntekt:
 ```
-Lønn (50% stilling): 250.000 kr
-Uføretrygd: 200.000 kr
+LÃ¸nn (50% stilling): 250.000 kr
+UfÃ¸retrygd: 200.000 kr
 Total inntekt: 450.000 kr
 
 Trygdeavgift:
-- Lønn: 250.000 × 8,2% = 20.500 kr
-- Uføretrygd: 200.000 × 5,1% = 10.200 kr
+- LÃ¸nn: 250.000 Ã— 8,2% = 20.500 kr
+- UfÃ¸retrygd: 200.000 Ã— 5,1% = 10.200 kr
 - Total: 30.700 kr
 
-Ordinær skatt: 450.000 × 22% = 99.000 kr
-Minus personfradrag og uførefradrag: -19.000 kr
+OrdinÃ¦r skatt: 450.000 Ã— 22% = 99.000 kr
+Minus personfradrag og ufÃ¸refradrag: -19.000 kr
 = 80.000 kr
 
 Total skatt: 30.700 + 80.000 = 110.700 kr
@@ -210,177 +208,177 @@ Total skatt: 30.700 + 80.000 = 110.700 kr
 
 ### 4.3 Restskatt og Tilbakebetaling
 
-**Årsoppgjøret** kan resultere i både restskatt og tilbakebetaling:
+**Ã…rsoppgjÃ¸ret** kan resultere i bÃ¥de restskatt og tilbakebetaling:
 
-#### Vanlige årsaker til restskatt:
-* **For lavt skattetrekk** i løpet av året
+#### Vanlige Ã¥rsaker til restskatt:
+* **For lavt skattetrekk** i lÃ¸pet av Ã¥ret
 * **Andre inntekter** ikke dekket av forskuddstrekk
-* **Endringer** i uføregrad eller andre forhold
+* **Endringer** i ufÃ¸regrad eller andre forhold
 
-#### Vanlige årsaker til tilbakebetaling:
-* **For høyt skattetrekk** av NAV
-* **Større fradrag** enn forhåndsberegnet
-* **Redusert inntekt** gjennom året
+#### Vanlige Ã¥rsaker til tilbakebetaling:
+* **For hÃ¸yt skattetrekk** av NAV
+* **StÃ¸rre fradrag** enn forhÃ¥ndsberegnet
+* **Redusert inntekt** gjennom Ã¥ret
 
-## Seksjon 5: Arbeidsgiver og Uføretrygd
+## Seksjon 5: Arbeidsgiver og UfÃ¸retrygd
 
 ### 5.1 Inkludering og Arbeidsplassvurdering
 
-**Arbeidsgivere** har viktige oppgaver når ansatte mottar uføretrygd:
+**Arbeidsgivere** har viktige oppgaver nÃ¥r ansatte mottar ufÃ¸retrygd:
 
 #### Arbeidsgivers ansvar:
 * **Tilrettelegging** av arbeidsoppgaver
-* **Medisinsk oppfølging** og HMS-vurderinger
+* **Medisinsk oppfÃ¸lging** og HMS-vurderinger
 * **Kompetanseutvikling** tilpasset arbeidsevne
 * **Rapportering** til NAV ved endringer
 
-#### Økonomiske incentiver for arbeidsgivere:
-| **Ordning** | **Formål** | **Maksimalt tilskudd** |
+#### Ã˜konomiske incentiver for arbeidsgivere:
+| **Ordning** | **FormÃ¥l** | **Maksimalt tilskudd** |
 |-------------|------------|------------------------|
 | **Tilretteleggingstilskudd** | Fysisk tilrettelegging | 200.000 kr |
-| **Mentortilskudd** | Oppfølging og støtte | 75.000 kr/år |
-| **Lønnssubsidiering** | Redusert produktivitet | 75% av lønn |
+| **Mentortilskudd** | OppfÃ¸lging og stÃ¸tte | 75.000 kr/Ã¥r |
+| **LÃ¸nnssubsidiering** | Redusert produktivitet | 75% av lÃ¸nn |
 
-![Arbeidsgiverordninger Uføretrygd](arbeidsgiverordninger-uforetrygd.svg)
+![Arbeidsgiverordninger UfÃ¸retrygd](arbeidsgiverordninger-uforetrygd.svg)
 
 ### 5.2 Overganger mellom Ordninger
 
-**Overganger** mellom ulike trygdeordninger påvirker regnskapsføringen:
+**Overganger** mellom ulike trygdeordninger pÃ¥virker regnskapsfÃ¸ringen:
 
 #### Typiske overganger:
-1. **Sykepenger → Arbeidsavklaringspenger → Uføretrygd**
-2. **Gradert uføretrygd → Full uføretrygd**
-3. **Uføretrygd → Alderspensjon**
+1. **Sykepenger â†’ Arbeidsavklaringspenger â†’ UfÃ¸retrygd**
+2. **Gradert ufÃ¸retrygd â†’ Full ufÃ¸retrygd**
+3. **UfÃ¸retrygd â†’ Alderspensjon**
 
 #### Regnskapsmessige konsekvenser:
-* **Endret arbeidsgiveravgift** ved overgang til uføretrygd
-* **Opphør av sykepengerefusjon** fra NAV
+* **Endret arbeidsgiveravgift** ved overgang til ufÃ¸retrygd
+* **OpphÃ¸r av sykepengerefusjon** fra NAV
 * **Nye rapporteringskrav** i A-melding
 
 ### 5.3 Rapportering og Compliance
 
-**Arbeidsgivere** må rapportere korrekt om ansatte med uføretrygd:
+**Arbeidsgivere** mÃ¥ rapportere korrekt om ansatte med ufÃ¸retrygd:
 
 #### A-melding rapportering:
-* **Lønn** fra arbeidsgiver rapporteres normalt
-* **Uføretrygd** rapporteres av NAV
-* **Arbeidsforhold** må være korrekt klassifisert
+* **LÃ¸nn** fra arbeidsgiver rapporteres normalt
+* **UfÃ¸retrygd** rapporteres av NAV
+* **Arbeidsforhold** mÃ¥ vÃ¦re korrekt klassifisert
 * **Endringer** i stillingsprosent meldes umiddelbart
 
 ## Seksjon 6: Spesielle Situasjoner og Utfordringer
 
-### 6.1 Midlertidig vs. Varig Uføretrygd
+### 6.1 Midlertidig vs. Varig UfÃ¸retrygd
 
-**Forskjellene** mellom midlertidig og varig uføretrygd påvirker skattebehandlingen:
+**Forskjellene** mellom midlertidig og varig ufÃ¸retrygd pÃ¥virker skattebehandlingen:
 
-#### Midlertidig uføretrygd:
-* **Maksimal varighet:** 3-5 år avhengig av alder
+#### Midlertidig ufÃ¸retrygd:
+* **Maksimal varighet:** 3-5 Ã¥r avhengig av alder
 * **Revurdering** regelmessig
-* **Samme skattebehandling** som varig uføretrygd
+* **Samme skattebehandling** som varig ufÃ¸retrygd
 * **Mulighet** for arbeidsrettede tiltak
 
-#### Varig uføretrygd:
+#### Varig ufÃ¸retrygd:
 * **Permanent** ytelse (med mulighet for revurdering)
-* **Alderspensjon** fra 67 år
+* **Alderspensjon** fra 67 Ã¥r
 * **Pensjonsopptjening** fortsetter
 * **Skattemessig behandling** som permanent inntekt
 
-![Midlertidig vs Varig Uføretrygd](midlertidig-varig-uforetrygd.svg)
+![Midlertidig vs Varig UfÃ¸retrygd](midlertidig-varig-uforetrygd.svg)
 
 ### 6.2 Internasjonale Forhold
 
-**Uføretrygd** for personer bosatt i utlandet eller med utenlandsk statsborgerskap:
+**UfÃ¸retrygd** for personer bosatt i utlandet eller med utenlandsk statsborgerskap:
 
 #### Skatteplikt i Norge:
 * **Norsk statsborger** bosatt i utlandet: Begrenset skatteplikt
 * **Utenlandsk statsborger** i Norge: Full skatteplikt
-* **Trygdeavtaler** kan påvirke beskatningen
-* **Kildeskatt** kan være aktuelt
+* **Trygdeavtaler** kan pÃ¥virke beskatningen
+* **Kildeskatt** kan vÃ¦re aktuelt
 
 #### Eksportabilitet:
 | **Land/region** | **Eksportabilitet** | **Skattemessige konsekvenser** |
 |----------------|---------------------|-------------------------------|
-| **EØS-land** | Full eksport | Skatt til oppholds-/bostats-land |
-| **Trygdeavtale-land** | Begrenset eksport | Følger avtalens bestemmelser |
-| **Andre land** | Meget begrenset | Kan miste rett til uføretrygd |
+| **EÃ˜S-land** | Full eksport | Skatt til oppholds-/bostats-land |
+| **Trygdeavtale-land** | Begrenset eksport | FÃ¸lger avtalens bestemmelser |
+| **Andre land** | Meget begrenset | Kan miste rett til ufÃ¸retrygd |
 
 ### 6.3 Etterbetaling og Omberegning
 
-**Etterbetaling** av uføretrygd kan skape komplekse skattemessige situasjoner:
+**Etterbetaling** av ufÃ¸retrygd kan skape komplekse skattemessige situasjoner:
 
-#### Årsaker til etterbetaling:
+#### Ã…rsaker til etterbetaling:
 * **Forsinket saksbehandling** hos NAV
-* **Endret uføregrad** med tilbakevirkende kraft
+* **Endret ufÃ¸regrad** med tilbakevirkende kraft
 * **Feil beregninger** som rettes senere
 * **Klagesaker** som gir medhold
 
 #### Skattemessig behandling av etterbetaling:
-* **Inntektsår:** Skattes i det år etterbetalingen utbetales
+* **InntektsÃ¥r:** Skattes i det Ã¥r etterbetalingen utbetales
 * **Skattetrekk:** NAV trekker skatt av hele etterbetalingen
-* **Progressionsvirkning:** Kan gi høy marginalskatt
-* **Lemping:** Mulig å søke om lemping ved høy ekstraskatt
+* **Progressionsvirkning:** Kan gi hÃ¸y marginalskatt
+* **Lemping:** Mulig Ã¥ sÃ¸ke om lemping ved hÃ¸y ekstraskatt
 
 ![Etterbetaling Skattebehandling](etterbetaling-skattebehandling.svg)
 
-## Seksjon 7: Digitale Verktøy og Systemer
+## Seksjon 7: Digitale VerktÃ¸y og Systemer
 
 ### 7.1 NAV og Digitale Tjenester
 
-**NAVs digitale løsninger** forenkler administrasjon av uføretrygd:
+**NAVs digitale lÃ¸sninger** forenkler administrasjon av ufÃ¸retrygd:
 
 #### Viktige systemer:
 * **nav.no:** Hovedportal for alle tjenester
-* **Ditt NAV:** Personlig område med oversikt
-* **Aktivitetsplaner:** Oppfølging av arbeidsrettede tiltak
+* **Ditt NAV:** Personlig omrÃ¥de med oversikt
+* **Aktivitetsplaner:** OppfÃ¸lging av arbeidsrettede tiltak
 * **Meldekort:** Rapportering av aktivitet og inntekt
 
 #### Integrasjon med skattesystemet:
-* **Automatisk overføring** av data til Skatteetaten
-* **A-melding** fra NAV for uføretrygd
-* **Forhåndsutfylling** av selvangivelse
+* **Automatisk overfÃ¸ring** av data til Skatteetaten
+* **A-melding** fra NAV for ufÃ¸retrygd
+* **ForhÃ¥ndsutfylling** av selvangivelse
 * **Sanntidsrapportering** av endringer
 
 ### 7.2 Skatteetatens Systemer
 
-**Skatteetaten** håndterer uføretrygd gjennom sine digitale kanaler:
+**Skatteetaten** hÃ¥ndterer ufÃ¸retrygd gjennom sine digitale kanaler:
 
 #### Relevante tjenester:
 * **Altinn:** Selvangivelse og korrespondanse
-* **MinID/BankID:** Sikker pålogging
+* **MinID/BankID:** Sikker pÃ¥logging
 * **Skattemelding:** Digital innlevering
 * **Forskuddsskatt:** Endring av trekksats
 
-![Digital Uføretrygd Håndtering](digital-uforetrygd-handtering.svg)
+![Digital UfÃ¸retrygd HÃ¥ndtering](digital-uforetrygd-handtering.svg)
 
 ### 7.3 Regnskapssystemer og Integration
 
-**Moderne regnskapssystemer** håndterer uføretrygd-relaterte poster:
+**Moderne regnskapssystemer** hÃ¥ndterer ufÃ¸retrygd-relaterte poster:
 
 #### Funksjonalitet:
-* **Automatisk klassifisering** av lønnsarter
+* **Automatisk klassifisering** av lÃ¸nnsarter
 * **Beregning** av sosiale kostnader
 * **A-melding** integrasjon
 * **Rapportering** til myndighetene
 
 #### Systemkrav:
-| **System** | **Uføretrygd-funksjonalitet** | **Integrationsgrad** |
+| **System** | **UfÃ¸retrygd-funksjonalitet** | **Integrationsgrad** |
 |------------|-------------------------------|---------------------|
-| **Tripletex** | Full støtte for gradert uføretrygd | Høy |
-| **Visma** | Komplett lønn og sosiale kostnader | Høy |
-| **PowerOffice** | Grunnleggende støtte | Medium |
+| **Tripletex** | Full stÃ¸tte for gradert ufÃ¸retrygd | HÃ¸y |
+| **Visma** | Komplett lÃ¸nn og sosiale kostnader | HÃ¸y |
+| **PowerOffice** | Grunnleggende stÃ¸tte | Medium |
 | **Excel/manuelt** | Begrenset funksjonalitet | Lav |
 
 ## Seksjon 8: Fremtidige Endringer og Utvikling
 
-### 8.1 Pågående Reformer
+### 8.1 PÃ¥gÃ¥ende Reformer
 
-**Trygdereformen** og andre initiativ påvirker fremtidig behandling:
+**Trygdereformen** og andre initiativ pÃ¥virker fremtidig behandling:
 
-#### Foreslåtte endringer:
-* **Økt arbeidsgrad** for uføretrygdmottakere
+#### ForeslÃ¥tte endringer:
+* **Ã˜kt arbeidsgrad** for ufÃ¸retrygdmottakere
 * **Bedre overganger** mellom ordninger
 * **Digitalisering** av saksbehandling
-* **Individuell oppfølging** og tilrettelegging
+* **Individuell oppfÃ¸lging** og tilrettelegging
 
 #### Skattemessige konsekvenser:
 * **Endret skatteberegning** ved gradert arbeid
@@ -389,21 +387,21 @@ Total skatt: 30.700 + 80.000 = 110.700 kr
 
 ### 8.2 Teknologisk Utvikling
 
-**Automatisering** og AI vil påvirke fremtidig administrasjon:
+**Automatisering** og AI vil pÃ¥virke fremtidig administrasjon:
 
 #### Forventede utviklingstrekk:
 * **Automatisk saksbehandling** hos NAV
 * **Prediktiv analyse** for arbeidsevnevurdering
 * **Sanntidsintegrasjon** mellom systemer
-* **Personalisert veiledning** og støtte
+* **Personalisert veiledning** og stÃ¸tte
 
-![Fremtidens Uføretrygd System](fremtidens-uforetrygd-system.svg)
+![Fremtidens UfÃ¸retrygd System](fremtidens-uforetrygd-system.svg)
 
-### 8.3 EU/EØS Harmonisering
+### 8.3 EU/EÃ˜S Harmonisering
 
-**Europeisk koordinering** av trygdeordninger påvirker norske regler:
+**Europeisk koordinering** av trygdeordninger pÃ¥virker norske regler:
 
-#### Pågående arbeid:
+#### PÃ¥gÃ¥ende arbeid:
 * **Portabilitet** av rettigheter mellom land
 * **Digitale sertifikater** for trygderettigheter
 * **Automatisk informasjonsutveksling** mellom myndigheter
@@ -411,55 +409,55 @@ Total skatt: 30.700 + 80.000 = 110.700 kr
 
 ## Seksjon 9: Praktiske Eksempler og Case
 
-### 9.1 Case 1: Overgang fra Sykepenger til Uføretrygd
+### 9.1 Case 1: Overgang fra Sykepenger til UfÃ¸retrygd
 
-**Situasjon:** Arbeidstaker går fra 100% sykepenger til 70% uføretrygd
+**Situasjon:** Arbeidstaker gÃ¥r fra 100% sykepenger til 70% ufÃ¸retrygd
 
-#### Før overgang (sykepenger):
+#### FÃ¸r overgang (sykepenger):
 ```
-Månedslønn: 45.000 kr
+MÃ¥nedslÃ¸nn: 45.000 kr
 Sykepengerefusjon fra NAV: 45.000 kr
-Arbeidsgiveravgift: 45.000 × 14,1% = 6.345 kr
+Arbeidsgiveravgift: 45.000 Ã— 14,1% = 6.345 kr
 ```
 
-#### Etter overgang (uføretrygd):
+#### Etter overgang (ufÃ¸retrygd):
 ```
-Uføretrygd fra NAV: 31.500 kr/mnd (70%)
+UfÃ¸retrygd fra NAV: 31.500 kr/mnd (70%)
 Restarbeidsevne: 30%
-Potensiell lønn: 13.500 kr/mnd
+Potensiell lÃ¸nn: 13.500 kr/mnd
 
 Hvis ikke i arbeid:
-- Ingen lønnskostnad for arbeidsgiver
+- Ingen lÃ¸nnskostnad for arbeidsgiver
 - Ingen arbeidsgiveravgift
 - Ansettelsesforhold kan opprettholdes
 ```
 
-![Case Overgang Sykepenger Uføretrygd](case-overgang-sykepenger-uforetrygd.svg)
+![Case Overgang Sykepenger UfÃ¸retrygd](case-overgang-sykepenger-uforetrygd.svg)
 
-### 9.2 Case 2: Gradert Uføretrygd med Deltidsarbeid
+### 9.2 Case 2: Gradert UfÃ¸retrygd med Deltidsarbeid
 
-**Situasjon:** 50% uføretrygd kombinert med 40% stilling
+**Situasjon:** 50% ufÃ¸retrygd kombinert med 40% stilling
 
 #### Inntektsfordeling:
 ```
-Full lønn tilsvarende: 500.000 kr/år
-Uføretrygd (50%): 250.000 kr/år fra NAV
-Arbeidslønn (40%): 200.000 kr/år fra arbeidsgiver
-Total inntekt: 450.000 kr/år
+Full lÃ¸nn tilsvarende: 500.000 kr/Ã¥r
+UfÃ¸retrygd (50%): 250.000 kr/Ã¥r fra NAV
+ArbeidslÃ¸nn (40%): 200.000 kr/Ã¥r fra arbeidsgiver
+Total inntekt: 450.000 kr/Ã¥r
 ```
 
 #### Skattemessig behandling:
 ```
 Trygdeavgift:
-- Uføretrygd: 250.000 × 5,1% = 12.750 kr
-- Lønn: 200.000 × 8,2% = 16.400 kr
+- UfÃ¸retrygd: 250.000 Ã— 5,1% = 12.750 kr
+- LÃ¸nn: 200.000 Ã— 8,2% = 16.400 kr
 - Total trygdeavgift: 29.150 kr
 
-Ordinær skatt:
+OrdinÃ¦r skatt:
 - Skattegrunnlag: 450.000 kr
 - Personfradrag: -67.000 kr
-- Uførefradrag: -19.000 kr
-- Skattbart beløp: 364.000 kr
+- UfÃ¸refradrag: -19.000 kr
+- Skattbart belÃ¸p: 364.000 kr
 - Skatt (22%): 80.080 kr
 
 Total skatt og avgifter: 109.230 kr
@@ -467,25 +465,25 @@ Total skatt og avgifter: 109.230 kr
 
 ### 9.3 Case 3: Etterbetaling med Skattemessige Konsekvenser
 
-**Situasjon:** Etterbetaling av uføretrygd på 120.000 kr
+**Situasjon:** Etterbetaling av ufÃ¸retrygd pÃ¥ 120.000 kr
 
 #### Opprinnelig situasjon:
 ```
-Årlig uføretrygd: 200.000 kr
-Årlig skatt og avgifter: 42.200 kr
+Ã…rlig ufÃ¸retrygd: 200.000 kr
+Ã…rlig skatt og avgifter: 42.200 kr
 Netto inntekt: 157.800 kr
 ```
 
 #### Med etterbetaling:
 ```
 Etterbetaling: 120.000 kr
-Total inntekt i etterbetalingsåret: 320.000 kr
-Økt skatt og avgifter: 26.400 kr
+Total inntekt i etterbetalingsÃ¥ret: 320.000 kr
+Ã˜kt skatt og avgifter: 26.400 kr
 Netto etterbetaling: 93.600 kr
 
 Progressionseffekt:
-- Høyere marginalskatt på etterbetalingen
-- Mulig søknad om lemping
+- HÃ¸yere marginalskatt pÃ¥ etterbetalingen
+- Mulig sÃ¸knad om lemping
 ```
 
 ![Case Etterbetaling Progressionseffekt](case-etterbetaling-progressionseffekt.svg)
@@ -494,10 +492,10 @@ Progressionseffekt:
 
 ### 10.1 Kontrollrutiner for Arbeidsgivere
 
-**Systematisk kontroll** sikrer korrekt håndtering av uføretrygd:
+**Systematisk kontroll** sikrer korrekt hÃ¥ndtering av ufÃ¸retrygd:
 
-#### Månedlige kontroller:
-- [ ] Korrekt klassifisering av lønnsarter
+#### MÃ¥nedlige kontroller:
+- [ ] Korrekt klassifisering av lÃ¸nnsarter
 - [ ] Riktig beregning av arbeidsgiveravgift  
 - [ ] Oppdaterte stillingsprosenter
 - [ ] A-melding kontroll og validering
@@ -508,35 +506,35 @@ Progressionseffekt:
 - [ ] Oppdatering av arbeidsavtaler
 - [ ] HMS og tilretteleggingsvurderinger
 
-#### Årlige kontroller:
-- [ ] Årsoppgave for lønnsforhold
+#### Ã…rlige kontroller:
+- [ ] Ã…rsoppgave for lÃ¸nnsforhold
 - [ ] Kontroll av pensjonsopptjening
 - [ ] Evaluering av tilretteleggingstiltak
-- [ ] Compliance med arbeidsmiljøloven
+- [ ] Compliance med arbeidsmiljÃ¸loven
 
 ### 10.2 Dokumentasjon og Arkivering
 
-**Strukturert dokumenthåndtering** er essensielt:
+**Strukturert dokumenthÃ¥ndtering** er essensielt:
 
 #### Viktige dokumenter:
-* **Uførevedtak** fra NAV
-* **Arbeidsevnevurderinger** og legeerklæringer
-* **Tilretteleggingsplaner** og oppfølging
+* **UfÃ¸revedtak** fra NAV
+* **Arbeidsevnevurderinger** og legeerklÃ¦ringer
+* **Tilretteleggingsplaner** og oppfÃ¸lging
 * **Korrespondanse** med NAV og Skatteetaten
 
 #### Oppbevaringstid:
 | **Dokumenttype** | **Oppbevaringstid** | **Lovgrunnlag** |
 |------------------|-------------------- |-----------------|
-| **Lønnsbilag** | 5 år | Regnskapsloven |
-| **Skattebilag** | 10 år | Skatteloven |
-| **NAV-korrespondanse** | 5 år | Folketrygdloven |
-| **Arbeidsavtaler** | Permanent | Arbeidsmiljøloven |
+| **LÃ¸nnsbilag** | 5 Ã¥r | Regnskapsloven |
+| **Skattebilag** | 10 Ã¥r | Skatteloven |
+| **NAV-korrespondanse** | 5 Ã¥r | Folketrygdloven |
+| **Arbeidsavtaler** | Permanent | ArbeidsmiljÃ¸loven |
 
 ![Dokumentasjon og Arkivering](dokumentasjon-arkivering.svg)
 
 ### 10.3 Risikofaktorer og Mitigering
 
-**Identifikasjon** og håndtering av risikoområder:
+**Identifikasjon** og hÃ¥ndtering av risikoomrÃ¥der:
 
 #### Hovedrisikofaktorer:
 * **Feil klassifisering** av ansettelsesforhold
@@ -547,34 +545,34 @@ Progressionseffekt:
 #### Mitigeringstiltak:
 | **Risiko** | **Mitigering** | **Ansvarlig** |
 |------------|----------------|---------------|
-| **Feil lønnsrapportering** | Automatiserte kontroller | Lønnsansvarlig |
-| **Manglende tilrettelegging** | HMS-system og oppfølging | HR/HMS |
-| **Skattemessige feil** | Ekstern rådgivning | Økonomisjeef |
+| **Feil lÃ¸nnsrapportering** | Automatiserte kontroller | LÃ¸nnsansvarlig |
+| **Manglende tilrettelegging** | HMS-system og oppfÃ¸lging | HR/HMS |
+| **Skattemessige feil** | Ekstern rÃ¥dgivning | Ã˜konomisjeef |
 | **NAV-kommunikasjon** | Dedicated kontaktperson | HR-leder |
 
 ## Konklusjon
 
-**Skatt på uføretrygd** er et komplekst område som krever grundig forståelse av både trygderett, skatterett og regnskapsføring. For både private uføretrygdmottakere og arbeidsgivere er det essensielt å forstå de ulike reglene og konsekvensene som følger av uføretrygd som skattepliktig inntekt.
+**Skatt pÃ¥ ufÃ¸retrygd** er et komplekst omrÃ¥de som krever grundig forstÃ¥else av bÃ¥de trygderett, skatterett og regnskapsfÃ¸ring. For bÃ¥de private ufÃ¸retrygdmottakere og arbeidsgivere er det essensielt Ã¥ forstÃ¥ de ulike reglene og konsekvensene som fÃ¸lger av ufÃ¸retrygd som skattepliktig inntekt.
 
-**Nøkkelinnsikter:**
+**NÃ¸kkelinnsikter:**
 
-* **Skatteplikt:** Uføretrygd er skattepliktig inntekt som behandles delvis annerledes enn ordinær lønn
-* **Lavere trygdeavgift:** 5,1% vs. 8,2% for høye lønninger gir skattefordel
-* **Spesielle fradrag:** Uførefradrag på inntil 19.000 kr reduserer skattegrunnlaget  
-* **Arbeidsgiverpåvirkning:** Reduserte sosiale kostnader ved overgang til uføretrygd
+* **Skatteplikt:** UfÃ¸retrygd er skattepliktig inntekt som behandles delvis annerledes enn ordinÃ¦r lÃ¸nn
+* **Lavere trygdeavgift:** 5,1% vs. 8,2% for hÃ¸ye lÃ¸nninger gir skattefordel
+* **Spesielle fradrag:** UfÃ¸refradrag pÃ¥ inntil 19.000 kr reduserer skattegrunnlaget  
+* **ArbeidsgiverpÃ¥virkning:** Reduserte sosiale kostnader ved overgang til ufÃ¸retrygd
 
 **Praktisk anvendelse:**
 
-For regnskapsførere og HR-ansvarlige er det viktig å:
-- **Korrekt klassifisere** og rapportere uføretrygd-relaterte poster
-- **Beregne riktig** arbeidsgiveravgift ved gradert uføretrygd
+For regnskapsfÃ¸rere og HR-ansvarlige er det viktig Ã¥:
+- **Korrekt klassifisere** og rapportere ufÃ¸retrygd-relaterte poster
+- **Beregne riktig** arbeidsgiveravgift ved gradert ufÃ¸retrygd
 - **Sikre compliance** med rapporteringskrav til NAV og Skatteetaten
-- **Dokumentere** tilretteleggingstiltak og oppfølging
+- **Dokumentere** tilretteleggingstiltak og oppfÃ¸lging
 
 **Fremtidsperspektiv:**
 
-Digitalisering og automatisering vil fortsette å forenkle administrasjon av uføretrygd, mens pågående reformer sikter mot økt [arbeidsdeltagelse](/blogs/regnskap/hva-er-arbeidsdeltagelse "Hva er Arbeidsdeltagelse? Måling og Betydning for Samfunnsøkonomi") og bedre overganger mellom ordninger. Arbeidsgivere som investerer i inkluderende arbeidsplasser og systematisk oppfølging vil være best posisjonert for å dra nytte av både menneskelige ressurser og økonomiske incentiver.
+Digitalisering og automatisering vil fortsette Ã¥ forenkle administrasjon av ufÃ¸retrygd, mens pÃ¥gÃ¥ende reformer sikter mot Ã¸kt [arbeidsdeltagelse](/blogs/regnskap/hva-er-arbeidsdeltagelse "Hva er Arbeidsdeltagelse? MÃ¥ling og Betydning for SamfunnsÃ¸konomi") og bedre overganger mellom ordninger. Arbeidsgivere som investerer i inkluderende arbeidsplasser og systematisk oppfÃ¸lging vil vÃ¦re best posisjonert for Ã¥ dra nytte av bÃ¥de menneskelige ressurser og Ã¸konomiske incentiver.
 
 **Strategisk betydning:**
 
-Korrekt håndtering av skatt på uføretrygd bidrar ikke bare til regelverksetterlevelse, men også til sosial inkludering og [bærekraftig](/blogs/regnskap/hva-er-barekraft "Hva er Bærekraft? ESG og Bærekraftig Regnskapsføring") virksomhetsdrift. Ved å forstå og anvende reglene proaktivt kan både privatpersoner og organisasjoner optimalisere både økonomiske og sosiale utfall.
+Korrekt hÃ¥ndtering av skatt pÃ¥ ufÃ¸retrygd bidrar ikke bare til regelverksetterlevelse, men ogsÃ¥ til sosial inkludering og [bÃ¦rekraftig](/blogs/regnskap/hva-er-barekraft "Hva er BÃ¦rekraft? ESG og BÃ¦rekraftig RegnskapsfÃ¸ring") virksomhetsdrift. Ved Ã¥ forstÃ¥ og anvende reglene proaktivt kan bÃ¥de privatpersoner og organisasjoner optimalisere bÃ¥de Ã¸konomiske og sosiale utfall.

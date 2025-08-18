@@ -1,7 +1,7 @@
 ﻿---
 title: "1310"
 meta_title: "1310"
-meta_description: "**Konto 1310 - Investeringer annet foretak i samme konsern** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **langsiktige investeringer** i..."
+meta_description: '**Konto 1310 - Investeringer annet foretak i samme konsern** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **langsiktige investeringer** i...'
 slug: 1310
 type: blog
 layout: pages/single

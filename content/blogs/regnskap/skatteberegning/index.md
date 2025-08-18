@@ -1,15 +1,13 @@
----
+﻿---
 title: "Skatteberegning"
-summary: "Skatteberegning beskriver prosessen med å justere regnskapsmessig resultat for skattemessige forskjeller, fastsette hva som er skattepliktig inntekt og anvende gjeldende skattesatser. Inkluderer eksempler på både bedrifts- og personbeskatning."
-description: "Lær hvordan du beregner skatt ved å justere regnskapsresultat, fastsette skattepliktig inntekt og anvende korrekte skattesatser for både bedrifter og privatpersoner."
+meta_title: "Skatteberegning"
+meta_description: '**Skatteberegning** er prosessen for Ã¥ fastsette **skattepliktig inntekt** og beregne skatt som skal betales av bÃ¥de bedrifter og privatpersoner. Dette innebÃ...'
 slug: skatteberegning
-featured_image: skatteberegning-image.svg
-featured_image_alt: "Illustrasjon som viser steg for steg prosessen for skatteberegning"
-url: "/blogs/regnskap/skatteberegning/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
-**Skatteberegning** er prosessen for å fastsette **skattepliktig inntekt** og beregne skatt som skal betales av både bedrifter og privatpersoner. Dette innebærer å justere regnskapsmessige resultater for skattemessige forskjeller, anvende gjeldende skattesatser og rapportere korrekt via [skattemeldingen](/blogs/regnskap/skattemelding "Skattemelding - Komplett Guide til Utfylling og Innlevering").
+**Skatteberegning** er prosessen for Ã¥ fastsette **skattepliktig inntekt** og beregne skatt som skal betales av bÃ¥de bedrifter og privatpersoner. Dette innebÃ¦rer Ã¥ justere regnskapsmessige resultater for skattemessige forskjeller, anvende gjeldende skattesatser og rapportere korrekt via [skattemeldingen](/blogs/regnskap/skattemelding "Skattemelding - Komplett Guide til Utfylling og Innlevering").
 
 For en samlet oversikt over gjeldende **skattesatser**, se [Skattesats](/blogs/regnskap/skattesats "Skattesats: Oversikt over Norske Skattesatser").
 
@@ -17,7 +15,7 @@ For en samlet oversikt over gjeldende **skattesatser**, se [Skattesats](/blogs/r
 
 ## 1. Grunnleggende steg i skatteberegning
 
-En strukturert fremgangsmåte sikrer korrekt resultat og forenkler rapportering:
+En strukturert fremgangsmÃ¥te sikrer korrekt resultat og forenkler rapportering:
 
 | Steg | Beskrivelse |
 |------|-------------|
@@ -35,17 +33,17 @@ En strukturert fremgangsmåte sikrer korrekt resultat og forenkler rapportering:
 | Permanente forskjeller  | Ufradragsberettigede kostnader og skattefrie inntekter |
 | Midlertidige forskjeller | Tidsforskjeller som reverseres, for eksempel avskrivninger |
 
-Se også [Hva er Permanente Forskjeller?](/blogs/regnskap/permanente-forskjeller "Hva er Permanente Forskjeller? Midlertidige vs Permanente Forskjeller") og [Hva er Midlertidige Forskjeller?](/blogs/regnskap/midlertidige-forskjeller "Hva er Midlertidige Forskjeller? Tidsforskjeller i Skattemessig Behandling").
+Se ogsÃ¥ [Hva er Permanente Forskjeller?](/blogs/regnskap/permanente-forskjeller "Hva er Permanente Forskjeller? Midlertidige vs Permanente Forskjeller") og [Hva er Midlertidige Forskjeller?](/blogs/regnskap/midlertidige-forskjeller "Hva er Midlertidige Forskjeller? Tidsforskjeller i Skattemessig Behandling").
 
 ## 3. Fastsett skattepliktig inntekt
 
-Beregningen av **skattepliktig inntekt** tar utgangspunkt i [årsresultatet](/blogs/regnskap/hva-er-arsresultat "Hva er Årsresultat? Beregning og Betydning i Regnskap") justert for forskjellene over. Les mer i [Hva er Skattepliktig Inntekt?](/blogs/regnskap/hva-er-skattepliktig-inntekt "Hva er Skattepliktig Inntekt? Beregning og Optimalisering").
+Beregningen av **skattepliktig inntekt** tar utgangspunkt i [Ã¥rsresultatet](/blogs/regnskap/hva-er-arsresultat "Hva er Ã…rsresultat? Beregning og Betydning i Regnskap") justert for forskjellene over. Les mer i [Hva er Skattepliktig Inntekt?](/blogs/regnskap/hva-er-skattepliktig-inntekt "Hva er Skattepliktig Inntekt? Beregning og Optimalisering").
 
 ## 4. Anvend gjeldende skattesats
 
 | Type skattesats    | Sats | Kommentar |
 |--------------------|------|-----------|
-| Bedriftsskatt      | 22%  | Ordinær sats for aksjeselskap (2024) |
+| Bedriftsskatt      | 22%  | OrdinÃ¦r sats for aksjeselskap (2024) |
 | Personlig marginalskatt | Varierende etter trinn | Se [Hva er Marginalskatt?](/blogs/regnskap/hva-er-marginalskatt "Hva er Marginalskatt? Hvordan Beregnes Marginalskatt") |
 ## 5. Personlig skatteberegning
 
@@ -57,14 +55,14 @@ Oversikt over hovedtrinn ved beregning av skatt for privatpersoner:
 
 | Trinn | Inntektsintervall (2024) | Trinnskatt |
 |-------|--------------------------|------------|
-| 1     | 190 350 – 267 900 kr     | 1,7 %      |
-| 2     | 267 900 – 643 800 kr     | 4,0 %      |
-| 3     | 643 800 – 969 200 kr     | 13,2 %     |
-| 4     | Over 969 200 kr          | 16,2 %     |
+| 1     | 190 350 â€“ 267 900 kr     | 1,7Â %      |
+| 2     | 267 900 â€“ 643 800 kr     | 4,0Â %      |
+| 3     | 643 800 â€“ 969 200 kr     | 13,2Â %     |
+| 4     | Over 969 200 kr          | 16,2Â %     |
 
 Se [Hva er Alminnelig Inntekt?](/blogs/regnskap/alminnelig-inntekt "Hva er Alminnelig Inntekt? Beregning av Skattepliktig Inntekt for Personer") og [Hva er Tabelltrekk?](/blogs/regnskap/hva-er-tabelltrekk "Hva er Tabelltrekk? Komplett Guide til Skattetrekk og Trekkberegning").
 
-## 6. Eksempel på skatteberegning
+## 6. Eksempel pÃ¥ skatteberegning
 
 ![Skatteberegning Diagram](skatteberegning-diagram.svg)
 
@@ -74,10 +72,10 @@ Diagrammet over illustrerer hovedflyten fra regnskapsmessig resultat til endelig
 
 Etter beregning av skatt fastsettes **forskuddsskatt**. Se [Hva er Forskuddsskatt?](/blogs/regnskap/hva-er-forskuddsskatt "Hva er Forskuddsskatt? Betaling av Skatt i Forkant").
 
-Konsekvensene av differanse mellom beregnet og innbetalt skatt fører til **restskatt** eller tilbakebetaling.
+Konsekvensene av differanse mellom beregnet og innbetalt skatt fÃ¸rer til **restskatt** eller tilbakebetaling.
 
-Mer om endelig skatt i skatteoppgjøret se [Utlignet skatt](/blogs/regnskap/utlignet-skatt "Utlignet skatt – Forklaring av endelig skatteoppgjør").
+Mer om endelig skatt i skatteoppgjÃ¸ret se [Utlignet skatt](/blogs/regnskap/utlignet-skatt "Utlignet skatt â€“ Forklaring av endelig skatteoppgjÃ¸r").
 
 ---
 
-Gjennom en systematisk tilnærming til skatteberegning sikres korrekt rapportering og bedre oversikt over skatteforpliktelser.
+Gjennom en systematisk tilnÃ¦rming til skatteberegning sikres korrekt rapportering og bedre oversikt over skatteforpliktelser.

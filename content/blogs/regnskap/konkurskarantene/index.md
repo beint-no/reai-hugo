@@ -1,31 +1,29 @@
----
+﻿---
 title: "Hva er Konkurskarantene?"
-summary: "Konkurskarantene er en rettslig utestengelse fra lederverv etter konkurs. Denne artikkelen beskriver regelverket, betingelser, varighet og konsekvenser."
-description: "Lær hva konkurskarantene betyr, inkludert når den inntrer, varighet og konsekvenser av inhabilitet ved konkurs i norsk selskapsrett."
+meta_title: "Hva er Konkurskarantene?"
+meta_description: '**Konkurskarantene** er en rettslig ordning som kan ilegges personer som har vÃ¦rt ansvarlig for en virksomhet som har blitt slÃ¥tt konkurs. FormÃ¥let er Ã¥ bes...'
 slug: konkurskarantene
-featured_image: konkurskarantene-image.svg
-featured_image_alt: "Illustrasjon av konkurskarantene"
-url: "/blogs/regnskap/konkurskarantene/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
-**Konkurskarantene** er en rettslig ordning som kan ilegges personer som har vært ansvarlig for en virksomhet som har blitt slått konkurs. Formålet er å beskytte kreditorer og markedet mot personer som har forvaltet selskaper uforsvarlig.
+**Konkurskarantene** er en rettslig ordning som kan ilegges personer som har vÃ¦rt ansvarlig for en virksomhet som har blitt slÃ¥tt konkurs. FormÃ¥let er Ã¥ beskytte kreditorer og markedet mot personer som har forvaltet selskaper uforsvarlig.
 
-*Se også [Hva er Oppbudsbegjæring?](/blogs/regnskap/oppbudsbegjering "Hva er Oppbudsbegjæring? Guide til konkursbegjæring i norsk regnskap").*
+*Se ogsÃ¥ [Hva er OppbudsbegjÃ¦ring?](/blogs/regnskap/oppbudsbegjering "Hva er OppbudsbegjÃ¦ring? Guide til konkursbegjÃ¦ring i norsk regnskap").*
 
 ![Konkurskarantene Oversikt](konkurskarantene-image.svg)
 
 ## Hva er Konkurskarantene?
 
-En **konkurskarantene** innebærer at en person blir midlertidig utestengt fra å inneha styreverv, ledende roller eller andre tillitsverv i aksjeselskaper eller andre foretak etter en konkurs. Ordningen er hjemlet i **konkursloven** § 68.
+En **konkurskarantene** innebÃ¦rer at en person blir midlertidig utestengt fra Ã¥ inneha styreverv, ledende roller eller andre tillitsverv i aksjeselskaper eller andre foretak etter en konkurs. Ordningen er hjemlet i **konkursloven** Â§ 68.
 
 ## Betingelser for konkurskarantene
 
-Følgende vilkår må være oppfylt for at retten kan ilegge konkurskarantene:
+FÃ¸lgende vilkÃ¥r mÃ¥ vÃ¦re oppfylt for at retten kan ilegge konkurskarantene:
 
 * **Uaktsom eller forsettlig adferd** som har bidratt til insolvens.
-* **Manglende regnskapsførsel** eller bokføring som har vært i strid med bokføringsloven.
-* **Prioritetsregler** i konkursloven § 93–95 kan anvendes ved mislighold av kreditorenes rettigheter.
+* **Manglende regnskapsfÃ¸rsel** eller bokfÃ¸ring som har vÃ¦rt i strid med bokfÃ¸ringsloven.
+* **Prioritetsregler** i konkursloven Â§ 93â€“95 kan anvendes ved mislighold av kreditorenes rettigheter.
 
 ## Varighet av konkurskarantene
 
@@ -33,28 +31,28 @@ Varigheten av konkurskarantenen avhenger av alvorligheten i overtredelsene:
 
 | Alvorlighetsgrad            | Maksimal varighet       |
 |-----------------------------|-------------------------|
-| Mindre uaktsomhet           | 1 år                    |
-| Grov uaktsomhet eller forsett | 3 år                  |
-| Særlig grovt forhold        | 5 år                    |
+| Mindre uaktsomhet           | 1 Ã¥r                    |
+| Grov uaktsomhet eller forsett | 3 Ã¥r                  |
+| SÃ¦rlig grovt forhold        | 5 Ã¥r                    |
 
 ## Konsekvenser ved ileggelse
 
-Når konkurskarantene er ilegges, fører det til:
+NÃ¥r konkurskarantene er ilegges, fÃ¸rer det til:
 
 1. **Utestengelse** fra alle styre- og daglige lederstillinger i norske foretak.
 2. Obligatorisk notification til Foretaksregisteret om karantenen.
 3. Risiko for rettslige sanksjoner ved overtredelse av karantenen.
 
-Se også [Hva er Konkursloven?](/blogs/regnskap/hva-er-konkursloven "Hva er Konkursloven? Oversikt og viktige bestemmelser") for mer om hjemmelsgrunnlaget.
+Se ogsÃ¥ [Hva er Konkursloven?](/blogs/regnskap/hva-er-konkursloven "Hva er Konkursloven? Oversikt og viktige bestemmelser") for mer om hjemmelsgrunnlaget.
 
-## Slik unngår du konkurskarantene
+## Slik unngÃ¥r du konkurskarantene
 
-For å redusere risikoen for ileggelse av konkurskarantene bør ledere og styremedlemmer:
+For Ã¥ redusere risikoen for ileggelse av konkurskarantene bÃ¸r ledere og styremedlemmer:
 
-* Sikre **fullstendig og korrekt regnskapsførsel** i henhold til bokføringsloven.
-* Utføre løpende **risikovurderinger** og likviditetsstyring.
-* Oppsøke juridisk rådgivning tidlig ved mistanke om insolvens.
+* Sikre **fullstendig og korrekt regnskapsfÃ¸rsel** i henhold til bokfÃ¸ringsloven.
+* UtfÃ¸re lÃ¸pende **risikovurderinger** og likviditetsstyring.
+* OppsÃ¸ke juridisk rÃ¥dgivning tidlig ved mistanke om insolvens.
 
 ---
 
-*Relaterte artikler:* [Konkurs](/blogs/regnskap/konkurs "Hva er Konkurs? Juridiske og regnskapsmessige konsekvenser av Konkurs"), [Insolvens](/blogs/regnskap/insolvens "Hva er Insolvens? Definisjon, Årsaker og Behandling"), [Dividende ved konkurs](/blogs/regnskap/dividende-ved-konkurs "Dividende ved konkurs: Prioriteringsrekkefølge og fordeling av utbytte i konkursbo")
+*Relaterte artikler:* [Konkurs](/blogs/regnskap/konkurs "Hva er Konkurs? Juridiske og regnskapsmessige konsekvenser av Konkurs"), [Insolvens](/blogs/regnskap/insolvens "Hva er Insolvens? Definisjon, Ã…rsaker og Behandling"), [Dividende ved konkurs](/blogs/regnskap/dividende-ved-konkurs "Dividende ved konkurs: PrioriteringsrekkefÃ¸lge og fordeling av utbytte i konkursbo")

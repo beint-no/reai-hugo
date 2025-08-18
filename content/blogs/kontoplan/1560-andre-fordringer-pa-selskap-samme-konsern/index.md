@@ -1,7 +1,7 @@
 ﻿---
 title: "1560-andre-fordringer-pa-selskap-samme-konsern"
 meta_title: "1560-andre-fordringer-pa-selskap-samme-konsern"
-meta_description: "**Konto 1560 - Andre fordringer pÃ¥ selskap samme konsern** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **andre kortsiktige fordringer**..."
+meta_description: '**Konto 1560 - Andre fordringer pÃ¥ selskap samme konsern** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **andre kortsiktige fordringer**...'
 slug: 1560-andre-fordringer-pa-selskap-samme-konsern
 type: blog
 layout: pages/single

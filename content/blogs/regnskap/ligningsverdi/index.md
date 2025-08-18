@@ -1,13 +1,10 @@
----
+﻿---
 title: "Ligningsverdi"
-summary: "Ligningsverdi er skattemyndighetenes vurdering av eiendels verdi ved beregning av formue og formueskatt. Lær definisjon, metoder, standardprosent, eksempler og betydning."
-description: |
-  Lær alt om ligningsverdi i norsk regnskap og skatt: definisjon, beregningsmetoder, eksempler for boliger, fritidseiendom og næringsbygg, samt sammenheng med formuesverdi.
+meta_title: "Ligningsverdi"
+meta_description: '**Ligningsverdi** er skattemyndighetenes vurdering av en eiendels verdi for beregning av formue og skatter i Norge. Det er et sentralt begrep innen [regnskap](/...'
 slug: ligningsverdi
-featured_image: ligningsverdi-image.svg
-featured_image_alt: "Illustrasjon som viser begrepet ligningsverdi"
-url: "/blogs/regnskap/ligningsverdi/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
 **Ligningsverdi** er skattemyndighetenes vurdering av en eiendels verdi for beregning av formue og skatter i Norge. Det er et sentralt begrep innen [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide"), [formueskatt](/blogs/regnskap/hva-er-formueskatt "Formueskatt - Komplett Guide til Beregning, Satser og Regelverk i Norge") og [skattemelding](/blogs/regnskap/skattemelding "Hva er Skattemelding? Guide til Innsending av Skattemelding i Norge").
@@ -20,40 +17,40 @@ Ligningsverdi defineres som **en fastsatt prosentsats** av markedsverdien av en 
 
 ## Skattemessig Beregning
 
-I skattemessig sammenheng beregnes ligningsverdi ved å multiplisere markedsverdien med en standardprosent:
+I skattemessig sammenheng beregnes ligningsverdi ved Ã¥ multiplisere markedsverdien med en standardprosent:
 
 ![Formel for beregning av ligningsverdi](ligningsverdi-beregningsformel.svg)
 
 Der:
-* **Markedsverdi** er den antatte salgsverdien på beregningstidspunktet.
+* **Markedsverdi** er den antatte salgsverdien pÃ¥ beregningstidspunktet.
 * **Standardprosent** er den prosentsatsen som skattemyndighetene fastsetter for ulike eiendeler.
 
 ## Standardprosenter for Ligningsverdi
 
 | **Eiendomstype/Eiendel**   | **Standardprosent** | **Kommentar**                            |
 |----------------------------|---------------------|------------------------------------------|
-| Primærbolig                | 25 %                | Eierbolig brukt som hovedbosted         |
-| Sekundærbolig/Fritidsbolig | 25 %                | Hytte eller fritidsbolig                 |
-| Næringseiendom             | 100 %               | Næringseiendom og kommersielle bygg      |
-| Aksjer (børsnoterte)       | 100 %               | Børsverdi på beregningstidspunktet       |
-| Aksjer (unoterte)          | 60 %                | Estimert markedsverdi ved sammenlignbare transaksjoner |
-| Bankinnskudd               | 100 %               | Nominell verdi                            |
+| PrimÃ¦rbolig                | 25Â %                | Eierbolig brukt som hovedbosted         |
+| SekundÃ¦rbolig/Fritidsbolig | 25Â %                | Hytte eller fritidsbolig                 |
+| NÃ¦ringseiendom             | 100Â %               | NÃ¦ringseiendom og kommersielle bygg      |
+| Aksjer (bÃ¸rsnoterte)       | 100Â %               | BÃ¸rsverdi pÃ¥ beregningstidspunktet       |
+| Aksjer (unoterte)          | 60Â %                | Estimert markedsverdi ved sammenlignbare transaksjoner |
+| Bankinnskudd               | 100Â %               | Nominell verdi                            |
 
-## Eksempler på Ligningsverdi
+## Eksempler pÃ¥ Ligningsverdi
 
 | **Eiendel**        | **Markedsverdi (NOK)** | **Prosentsats** | **Ligningsverdi (NOK)** |
 |--------------------|------------------------|-----------------|-------------------------|
-| Primærbolig        | 5 000 000              | 25 %            | 1 250 000               |
-| Hytte              | 2 000 000              | 25 %            | 500 000                 |
-| Børsnoterte aksjer | 300 000                | 100 %           | 300 000                 |
-| Unoterte aksjer    | 500 000                | 60 %            | 300 000                 |
+| PrimÃ¦rbolig        | 5Â 000Â 000              | 25Â %            | 1Â 250Â 000               |
+| Hytte              | 2Â 000Â 000              | 25Â %            | 500Â 000                 |
+| BÃ¸rsnoterte aksjer | 300Â 000                | 100Â %           | 300Â 000                 |
+| Unoterte aksjer    | 500Â 000                | 60Â %            | 300Â 000                 |
 
 ## Betydning for Skatt og Regnskap
 
-Ligningsverdi påvirker både **formueskatt** og **skattemelding**:
+Ligningsverdi pÃ¥virker bÃ¥de **formueskatt** og **skattemelding**:
 
 * Reduserer utslaget av markedsverdier ved beregning av formueskatt.
-* Brukes som grunnlag i skattemeldingen for å fastsette skattbar formue.
+* Brukes som grunnlag i skattemeldingen for Ã¥ fastsette skattbar formue.
 * Bidrar til forutsigbarhet i skattegrunnlag for private og bedrifter.
 
 ## Relaterte Artikler

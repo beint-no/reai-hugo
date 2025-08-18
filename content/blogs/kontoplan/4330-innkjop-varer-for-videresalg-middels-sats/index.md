@@ -1,7 +1,7 @@
 ﻿---
 title: "4330-innkjop-varer-for-videresalg-middels-sats"
 meta_title: "4330-innkjop-varer-for-videresalg-middels-sats"
-meta_description: "**Konto 4330 - InnkjÃ¸p varer for videresalg middels sats** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kjÃ¸p av varer for videresalg*..."
+meta_description: '**Konto 4330 - InnkjÃ¸p varer for videresalg middels sats** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kjÃ¸p av varer for videresalg*...'
 slug: 4330-innkjop-varer-for-videresalg-middels-sats
 type: blog
 layout: pages/single

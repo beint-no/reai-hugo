@@ -1,7 +1,7 @@
 ﻿---
 title: "6500-motordrevet-verktoy"
 meta_title: "6500-motordrevet-verktoy"
-meta_description: "**Konto 6500 - Motordrevet verktÃ¸y** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kostnader til motordrevet verktÃ¸y** i virksomhetens..."
+meta_description: '**Konto 6500 - Motordrevet verktÃ¸y** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kostnader til motordrevet verktÃ¸y** i virksomhetens...'
 slug: 6500-motordrevet-verktoy
 type: blog
 layout: pages/single

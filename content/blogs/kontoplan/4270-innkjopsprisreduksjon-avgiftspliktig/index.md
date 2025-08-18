@@ -1,7 +1,7 @@
 ﻿---
 title: "4270-innkjopsprisreduksjon-avgiftspliktig"
 meta_title: "4270-innkjopsprisreduksjon-avgiftspliktig"
-meta_description: "**Konto 4270 - InnkjÃ¸psprisreduksjon, avgiftspliktig** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **avgiftspliktige prisavslag** fra l..."
+meta_description: '**Konto 4270 - InnkjÃ¸psprisreduksjon, avgiftspliktig** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **avgiftspliktige prisavslag** fra l...'
 slug: 4270-innkjopsprisreduksjon-avgiftspliktig
 type: blog
 layout: pages/single

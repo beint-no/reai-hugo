@@ -1,7 +1,7 @@
 ﻿---
 title: "1260"
 meta_title: "1260"
-meta_description: "**Konto 1260 - Bygninger med annen avskrivningstid** er en konto i norsk kontoplan som benyttes for **bygninger** som krever **spesielle avskrivningsperioder** ..."
+meta_description: '**Konto 1260 - Bygninger med annen avskrivningstid** er en konto i norsk kontoplan som benyttes for **bygninger** som krever **spesielle avskrivningsperioder** ...'
 slug: 1260
 type: blog
 layout: pages/single

@@ -1,40 +1,38 @@
----
+﻿---
 title: "Sluttseddel i regnskap"
-summary: "Sluttseddel er dokumentet som sammenfatter sluttavregningen ved leveranse av varer og tjenester, viktig for korrekte bilag og regnskapsavslutning."
-description: "Sluttseddel i regnskap er dokumentet for sluttavregning av leveranser og tjenester, med oversikt over saldi og detaljer som underbygger bokføring og internkontroll."
+meta_title: "Sluttseddel i regnskap"
+meta_description: '**Sluttseddel** er et dokument som oppsummerer den endelige avregningen ved levering av varer og tjenester. Sluttseddelen fungerer som et **bilag** som dokument...'
 slug: sluttseddel
-featured_image: sluttseddel-image.svg
-featured_image_alt: "Illustrasjon av Sluttseddel i regnskap"
-url: "/blogs/regnskap/sluttseddel/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
-**Sluttseddel** er et dokument som oppsummerer den endelige avregningen ved levering av varer og tjenester. Sluttseddelen fungerer som et **bilag** som dokumenterer saldoer, eventuelle justeringer og grunnlag for sluttføring av regnskapet.
+**Sluttseddel** er et dokument som oppsummerer den endelige avregningen ved levering av varer og tjenester. Sluttseddelen fungerer som et **bilag** som dokumenterer saldoer, eventuelle justeringer og grunnlag for sluttfÃ¸ring av regnskapet.
 
 ![Illustrasjon av Sluttseddel i regnskap](sluttseddel-image.svg)
 
 ## Hva er en Sluttseddel?
 
-En **sluttseddel** (også kalt sluttavregningsseddel) utstedes etter at leveranse og eventuelle tilleggstjenester er levert og godkjent. Dokumentet inneholder en oversikt over alle kostnader, krediteringer og ekstra kostnader som er påløpt, og utgjør grunnlaget for sluttføring i regnskapet.
+En **sluttseddel** (ogsÃ¥ kalt sluttavregningsseddel) utstedes etter at leveranse og eventuelle tilleggstjenester er levert og godkjent. Dokumentet inneholder en oversikt over alle kostnader, krediteringer og ekstra kostnader som er pÃ¥lÃ¸pt, og utgjÃ¸r grunnlaget for sluttfÃ¸ring i regnskapet.
 
-## Når brukes Sluttseddel?
+## NÃ¥r brukes Sluttseddel?
 
 Sluttseddel er aktuelt ved:
 
-* **Prosjekt- eller kontraktsavslutning** – dokumentasjon av endelig leveranse og avregning.
-* **Bygge- og anleggsprosjekter** – sluttoppgjør mellom entreprenør og kunde.
-* **Transport- og logistikk** – oppgjør for frakt, toll og tilleggstjenester.
-* **Leieforhold** – sluttavregning ved tilbakelevering av utstyr eller lokaler.
+* **Prosjekt- eller kontraktsavslutning** â€“ dokumentasjon av endelig leveranse og avregning.
+* **Bygge- og anleggsprosjekter** â€“ sluttoppgjÃ¸r mellom entreprenÃ¸r og kunde.
+* **Transport- og logistikk** â€“ oppgjÃ¸r for frakt, toll og tilleggstjenester.
+* **Leieforhold** â€“ sluttavregning ved tilbakelevering av utstyr eller lokaler.
 
 ## Innhold i en Sluttseddel
 
 | **Element**                | **Beskrivelse**                                                                 |
 |----------------------------|---------------------------------------------------------------------------------|
 | **Dato**                   | Dato for utstedelse av sluttseddel                                              |
-| **Partene**                | Navn og organisasjonsnummer til leverandør og kunde                             |
+| **Partene**                | Navn og organisasjonsnummer til leverandÃ¸r og kunde                             |
 | **Referanser**             | Kontraktnummer, ordre- eller prosjektnummer                                      |
-| **Utførte tjenester/varer**| Detaljert liste over tjenester og varer inkludert endringer etter opprinnelig avtale |
-| **Beløp**                  | Kostnader, krediteringer og tilleggskostnader                                   |
+| **UtfÃ¸rte tjenester/varer**| Detaljert liste over tjenester og varer inkludert endringer etter opprinnelig avtale |
+| **BelÃ¸p**                  | Kostnader, krediteringer og tilleggskostnader                                   |
 | **MVA-behandling**         | Eventuell merverdiavgift og grunnlag for beregning                              |
 | **Signatur og godkjenning**| Underskrift eller digital godkjenning fra ansvarlig for begge parter            |
 
@@ -45,13 +43,13 @@ Sluttseddel er aktuelt ved:
 ## Viktige kontrollpunkter
 
 1. Kontroller at alle tillegg, rabatter og justeringer er med.
-2. Verifiser at kontraktens vilkår og eventuelle endringsordre er inkludert.
+2. Verifiser at kontraktens vilkÃ¥r og eventuelle endringsordre er inkludert.
 3. Sikre dokumentasjon for eventuelle ekstra kostnader.
-4. Få formell godkjenning fra prosjektleder eller ansvarlig.
-5. Bokfør sluttseddelen som en del av sluttoppgjøret.
+4. FÃ¥ formell godkjenning fra prosjektleder eller ansvarlig.
+5. BokfÃ¸r sluttseddelen som en del av sluttoppgjÃ¸ret.
 
-## Se også
+## Se ogsÃ¥
 
-* [Sluttoppgjør](/blogs/regnskap/sluttoppgjor "Sluttoppgjør i regnskap")
+* [SluttoppgjÃ¸r](/blogs/regnskap/sluttoppgjor "SluttoppgjÃ¸r i regnskap")
 * [Bilag](/blogs/regnskap/hva-er-bilag "Hva er Bilag? En Komplett Guide til Regnskapsbilag")
 * [Pakkeseddel](/blogs/regnskap/hva-er-pakkeseddel "Hva er Pakkeseddel? Komplett Guide til Leveringsdokumentasjon og Regnskap")

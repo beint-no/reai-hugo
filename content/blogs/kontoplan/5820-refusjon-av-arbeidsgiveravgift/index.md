@@ -1,7 +1,7 @@
 ﻿---
 title: "5820-refusjon-av-arbeidsgiveravgift"
 meta_title: "5820-refusjon-av-arbeidsgiveravgift"
-meta_description: "**Konto 5820 - Refusjon av arbeidsgiveravgift** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til Ã¥ registrere **refusjon av arbeidsgiveravg..."
+meta_description: '**Konto 5820 - Refusjon av arbeidsgiveravgift** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til Ã¥ registrere **refusjon av arbeidsgiveravg...'
 slug: 5820-refusjon-av-arbeidsgiveravgift
 type: blog
 layout: pages/single

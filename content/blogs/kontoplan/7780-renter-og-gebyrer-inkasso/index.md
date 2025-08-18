@@ -1,7 +1,7 @@
 ﻿---
 title: "7780-renter-og-gebyrer-inkasso"
 meta_title: "7780-renter-og-gebyrer-inkasso"
-meta_description: "**Konto 7780 - Renter og gebyrer inkasso** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **renter og gebyrer** som pÃ¥lÃ¸per i forbindelse..."
+meta_description: '**Konto 7780 - Renter og gebyrer inkasso** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **renter og gebyrer** som pÃ¥lÃ¸per i forbindelse...'
 slug: 7780-renter-og-gebyrer-inkasso
 type: blog
 layout: pages/single

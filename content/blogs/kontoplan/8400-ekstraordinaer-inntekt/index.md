@@ -1,7 +1,7 @@
 ﻿---
 title: "8400-ekstraordinaer-inntekt"
 meta_title: "8400-ekstraordinaer-inntekt"
-meta_description: "**Konto 8400 - EkstraordinÃ¦r inntekt** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **ekstraordinÃ¦r inntekt**, dvs. engangs- eller ufor..."
+meta_description: '**Konto 8400 - EkstraordinÃ¦r inntekt** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **ekstraordinÃ¦r inntekt**, dvs. engangs- eller ufor...'
 slug: 8400-ekstraordinaer-inntekt
 type: blog
 layout: pages/single

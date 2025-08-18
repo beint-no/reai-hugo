@@ -1,7 +1,7 @@
 ﻿---
 title: "2704-utgaende-merverdiavgift-lav-sats"
 meta_title: "2704-utgaende-merverdiavgift-lav-sats"
-meta_description: "**Konto 2704 - UtgÃ¥ende merverdiavgift lav sats** er en konto i **Norsk Standard Kontoplan** som brukes til Ã¥ registrere **utgÃ¥ende merverdiavgift med lav sa..."
+meta_description: '**Konto 2704 - UtgÃ¥ende merverdiavgift lav sats** er en konto i **Norsk Standard Kontoplan** som brukes til Ã¥ registrere **utgÃ¥ende merverdiavgift med lav sa...'
 slug: 2704-utgaende-merverdiavgift-lav-sats
 type: blog
 layout: pages/single

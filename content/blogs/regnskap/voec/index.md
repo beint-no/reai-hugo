@@ -1,55 +1,52 @@
----
+﻿---
 title: "Hva er VOEC?"
-summary: "En guide til VOEC-ordningen for *Value Added Tax on E-Commerce*, som forenkler MVA-innkreving for små varer sendt til norske privatpersoner."
-description: "Lær alt om VOEC-ordningen for merverdiavgift på varer kjøpt fra utlandet til privatkunder i Norge, inkludert regler, prosess og fordeler."
+meta_title: "Hva er VOEC?"
+meta_description: '**VOEC** (Value Added Tax on E-Commerce) er en ordning som forenkler innkreving av **merverdiavgift (MVA)** pÃ¥ varer kjÃ¸pt fra utlandet av norske privatperson...'
 slug: voec
-featured_image: voec-image.svg
-featured_image_alt: "Hva er VOEC?"
-url: "/blogs/regnskap/voec/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
-
-**VOEC** (Value Added Tax on E-Commerce) er en ordning som forenkler innkreving av **merverdiavgift (MVA)** på varer kjøpt fra utlandet av norske privatpersoner. Ordningen gjelder spesielt små forsendelser og gjør det mulig for utenlandske selgere å registrere seg direkte i det norske MVA-registeret for e-handel.
+**VOEC** (Value Added Tax on E-Commerce) er en ordning som forenkler innkreving av **merverdiavgift (MVA)** pÃ¥ varer kjÃ¸pt fra utlandet av norske privatpersoner. Ordningen gjelder spesielt smÃ¥ forsendelser og gjÃ¸r det mulig for utenlandske selgere Ã¥ registrere seg direkte i det norske MVA-registeret for e-handel.
 
 For mer informasjon om merverdiavgift generelt, se [Hva er Avgiftsplikt (MVA)?](/blogs/regnskap/hva-er-avgiftsplikt-mva "Hva er Avgiftsplikt (MVA)? Komplett Guide til Merverdiavgift i Norge").
-For en oversikt over unntak og spesielle regler, se [Unntatt MVA](/blogs/regnskap/unntatt-mva "Unntatt MVA - Når varer er fritatt for merverdiavgift").
+For en oversikt over unntak og spesielle regler, se [Unntatt MVA](/blogs/regnskap/unntatt-mva "Unntatt MVA - NÃ¥r varer er fritatt for merverdiavgift").
 
 ![VOEC-ordningen for e-handel til privatpersoner](voec-process.svg)
 
 ## Seksjon 1: Hva er VOEC-ordningen?
 
-VOEC står for **Value Added Tax on E-Commerce** og er en del av EUs og Norges tiltak for å fange opp MVA på varer som sendes til privatpersoner. Ordningen trådte i kraft i Norge 1. april 2023 og erstatter hovedsakelig fritaksordningen for småforsendelser under 350 NOK.
+VOEC stÃ¥r for **Value Added Tax on E-Commerce** og er en del av EUs og Norges tiltak for Ã¥ fange opp MVA pÃ¥ varer som sendes til privatpersoner. Ordningen trÃ¥dte i kraft i Norge 1. april 2023 og erstatter hovedsakelig fritaksordningen for smÃ¥forsendelser under 350Â NOK.
 
 **Hovedprinsipper for VOEC:**
 
-* **Registrering**: Utenlandske selgere må registrere seg i det norske MVA-registeret for e-handel.
+* **Registrering**: Utenlandske selgere mÃ¥ registrere seg i det norske MVA-registeret for e-handel.
 * **Rapportering**: MVA rapporteres og betales kvartalsvis gjennom VOEC-portalen.
-* **Eierskap**: MVA kreves inn før varen krysser grensen, direkte fra selger til forbruker.
+* **Eierskap**: MVA kreves inn fÃ¸r varen krysser grensen, direkte fra selger til forbruker.
 
 ## Seksjon 2: Hvem omfattes av VOEC?
 
-Tabellen under viser hvilke aktører og transaksjoner som dekkes av VOEC-ordningen:
+Tabellen under viser hvilke aktÃ¸rer og transaksjoner som dekkes av VOEC-ordningen:
 
-| Aktør                   | Type kunde     | Varer                | Verdigrenser                  | MVA-behandling                         |
+| AktÃ¸r                   | Type kunde     | Varer                | Verdigrenser                  | MVA-behandling                         |
 |--------------------------|----------------|----------------------|-------------------------------|----------------------------------------|
-| Utenlandsk nettbutikk    | Privatpersoner | Fysiske varer        | Opptil 3 000 NOK per forsendelse | MVA påslag ved salg                    |
-| Utenlandsk nettbutikk    | Privatpersoner | Fysiske varer        | Over 3 000 NOK per forsendelse | Importmoms og toll ved grensen         |
-| Utenlandsk nettbutikk    | Foretak        | Fysiske varer        | Uansett beløp                 | Omvendt avgiftsplikt                  |
+| Utenlandsk nettbutikk    | Privatpersoner | Fysiske varer        | Opptil 3Â 000Â NOK per forsendelse | MVA pÃ¥slag ved salg                    |
+| Utenlandsk nettbutikk    | Privatpersoner | Fysiske varer        | Over 3Â 000Â NOK per forsendelse | Importmoms og toll ved grensen         |
+| Utenlandsk nettbutikk    | Foretak        | Fysiske varer        | Uansett belÃ¸p                 | Omvendt avgiftsplikt                  |
 
 ## Seksjon 3: Hvordan fungerer prosessen?
 
-Prosessen under VOEC-ordningen for en typisk forsendelse under 3 000 NOK:
+Prosessen under VOEC-ordningen for en typisk forsendelse under 3Â 000Â NOK:
 
 1. Kunden legger inn bestilling i en utenlandsk nettbutikk.
-2. Nettbutikken beregner og legger til norsk MVA før utsending.
+2. Nettbutikken beregner og legger til norsk MVA fÃ¸r utsending.
 3. Nettbutikken rapporterer salgene til VOEC-systemet og betaler inn samlet MVA.
 4. Tollen frigir varene uten ytterligere avgiftsberegning ved grensen.
 
 | Trinn | Handling                 | Ansvarlig          |
 |-------|--------------------------|--------------------|
 | 1     | Bestilling og betaling   | Kunde              |
-| 2     | MVA-påslag og salg       | Selger             |
+| 2     | MVA-pÃ¥slag og salg       | Selger             |
 | 3     | MVA-rapportering         | Selger             |
 | 4     | Tollklarering            | Tollmyndigheter    |
 
@@ -58,24 +55,24 @@ Prosessen under VOEC-ordningen for en typisk forsendelse under 3 000 NOK:
 **Fordeler:**
 
 * **Raskere levering** uten forsinkelse i tollen.
-* **Enklere for selgere** som unngår krav om tollhåndtering.
-* **Forutsigbar pris** for forbrukeren med MVA inkludert ved kjøp.
+* **Enklere for selgere** som unngÃ¥r krav om tollhÃ¥ndtering.
+* **Forutsigbar pris** for forbrukeren med MVA inkludert ved kjÃ¸p.
 
 **Ulemper:**
 
-* **Administrativ byrde** for små nettbutikker som må registrere seg.
-* **Likviditetskrav** ved innbetaling av MVA før forsendelse.
+* **Administrativ byrde** for smÃ¥ nettbutikker som mÃ¥ registrere seg.
+* **Likviditetskrav** ved innbetaling av MVA fÃ¸r forsendelse.
 
-## Seksjon 5: Vanlige spørsmål
+## Seksjon 5: Vanlige spÃ¸rsmÃ¥l
 
 ### Hva er grenseverdien for VOEC?
 
-VOEC gjelder for forsendelser **under 3 000 NOK**. For forsendelser over grensen må importmoms og eventuelt toll beregnes ved grensen.
+VOEC gjelder for forsendelser **under 3Â 000Â NOK**. For forsendelser over grensen mÃ¥ importmoms og eventuelt toll beregnes ved grensen.
 
 ### Hvordan registrere seg i VOEC?
 
-Registrering skjer gjennom [VOEC-portalen](https://www.skatteetaten.no/voec) hos Skatteetaten, hvor utenlandske selgere oppretter konto og får et VOEC-ID.
+Registrering skjer gjennom [VOEC-portalen](https://www.skatteetaten.no/voec) hos Skatteetaten, hvor utenlandske selgere oppretter konto og fÃ¥r et VOEC-ID.
 
 ### Hva skjer ved overskridelse av grenseverdien?
 
-For forsendelser over 3 000 NOK er varene ikke lenger omfattet av VOEC, og kunden må betale norsk importmoms og eventuell toll ved grensen.
+For forsendelser over 3Â 000Â NOK er varene ikke lenger omfattet av VOEC, og kunden mÃ¥ betale norsk importmoms og eventuell toll ved grensen.

@@ -1,27 +1,25 @@
----
+﻿---
 title: "Kassekreditt"
-summary: "En grundig guide til kassekreditt, inkludert definisjon, renter, gebyrer, sikkerhet, regnskapsmessig behandling og hvordan kassekreditt kan forbedre likviditetsstyringen i norske bedrifter."
-description: "Lær om kassekreditt, en fleksibel kortsiktig finansieringsløsning som gir bedrifter tilgang til likvide midler ved behov. Vi dekker nøkkelfunksjoner, kostnader, sikkerhetskrav og bokføringsregler."
+meta_title: "Kassekreditt"
+meta_description: 'Kassekreditt er en fleksibel, kortsiktig finansieringslÃ¸sning som gir bedrifter tilgang til likvide midler ved Ã¥ opprette en kredittramme pÃ¥ bedriftskontoen....'
 slug: kassekreditt
-featured_image: kassekreditt-image.svg
-featured_image_alt: "Kassekreditt"
-url: "/blogs/regnskap/kassekreditt/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
-Kassekreditt er en fleksibel, kortsiktig finansieringsløsning som gir bedrifter tilgang til likvide midler ved å opprette en kredittramme på bedriftskontoen. Denne **overdraft-fasiliteten** brukes ofte for å håndtere svingninger i [likviditet](/blogs/regnskap/hva-er-likviditet "Hva er Likviditet? Komplett Guide til Likviditet og Likviditetsstyring"), dekke uforutsette utgifter eller finansiere sesongbaserte behov.
+Kassekreditt er en fleksibel, kortsiktig finansieringslÃ¸sning som gir bedrifter tilgang til likvide midler ved Ã¥ opprette en kredittramme pÃ¥ bedriftskontoen. Denne **overdraft-fasiliteten** brukes ofte for Ã¥ hÃ¥ndtere svingninger i [likviditet](/blogs/regnskap/hva-er-likviditet "Hva er Likviditet? Komplett Guide til Likviditet og Likviditetsstyring"), dekke uforutsette utgifter eller finansiere sesongbaserte behov.
 
 ![Illustrasjon av kassekreditt](kassekreditt-utilization.svg)
 
 ## Hvordan fungerer kassekreditt?
 
-En kassekreditt er definert ved følgende hovedelementer:
+En kassekreditt er definert ved fÃ¸lgende hovedelementer:
 
-* **Kredittramme:** Maksimalt beløp banken tillater at bedriften kan overtrekke.
-* **Rente:** Flytende rente, ofte basert på NIBOR pluss en margin.
-* **Termingebyr:** Årlig eller månedlig gebyr for å opprettholde kredittrammen.
+* **Kredittramme:** Maksimalt belÃ¸p banken tillater at bedriften kan overtrekke.
+* **Rente:** Flytende rente, ofte basert pÃ¥ NIBOR pluss en margin.
+* **Termingebyr:** Ã…rlig eller mÃ¥nedlig gebyr for Ã¥ opprettholde kredittrammen.
 * **Sikkerhet:** Pant i kundefordringer, varelager eller andre eiendeler.
-* **Disponeringstid:** Kredittrammen er tilgjengelig fortløpende innenfor avtalte vilkår.
+* **Disponeringstid:** Kredittrammen er tilgjengelig fortlÃ¸pende innenfor avtalte vilkÃ¥r.
 
 ## Kostnader og gebyrer
 
@@ -29,52 +27,52 @@ Under ser du en oversikt over typiske kostnadselementer for **kassekreditt**:
 
 | **Faktor**          | **Beskrivelse**                                                |
 |---------------------|----------------------------------------------------------------|
-| Kredittramme        | 100 000 – 5 000 000 NOK, avhengig av selskapets behov og sikkerhet |
-| Rente               | NIBOR + 1–3 % margin                                            |
-| Opprettelsesgebyr   | 0 – 20 000 NOK ved innvilgelse                                  |
-| Termingebyr         | 0 – 2 000 NOK per måned                                        |
+| Kredittramme        | 100Â 000 â€“ 5Â 000Â 000Â NOK, avhengig av selskapets behov og sikkerhet |
+| Rente               | NIBOR + 1â€“3 % margin                                            |
+| Opprettelsesgebyr   | 0 â€“ 20Â 000Â NOK ved innvilgelse                                  |
+| Termingebyr         | 0 â€“ 2Â 000Â NOK per mÃ¥ned                                        |
 
-## Regnskapsføring av kassekreditt
+## RegnskapsfÃ¸ring av kassekreditt
 
-Kassekreditt føres som **kortsiktig gjeld** i balansen. Når bedriften bruker kredittrammen, skjer følgende bokføring:
+Kassekreditt fÃ¸res som **kortsiktig gjeld** i balansen. NÃ¥r bedriften bruker kredittrammen, skjer fÃ¸lgende bokfÃ¸ring:
 
 | **Konto**                 | **Debet** | **Kredit** | **Beskrivelse**                           |
 |---------------------------|-----------|------------|-------------------------------------------|
 | 1920 Bankinnskudd         | X         |            | Innsatte midler fra utnyttet kassekreditt |
 | 2240 Kassekreditt         |           | X          | Opptak av kassekreditt                    |
 
-Se også [Hva er kortsiktig gjeld?](/blogs/regnskap/kortsiktig-gjeld "Hva er Kortsiktig Gjeld? Komplett Guide til Gjeldskategorier") og [Hva er bokføring?](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? Komplett Guide til Regnskapsføring og Bokføringsregler").
+Se ogsÃ¥ [Hva er kortsiktig gjeld?](/blogs/regnskap/kortsiktig-gjeld "Hva er Kortsiktig Gjeld? Komplett Guide til Gjeldskategorier") og [Hva er bokfÃ¸ring?](/blogs/regnskap/hva-er-bokforing "Hva er BokfÃ¸ring? Komplett Guide til RegnskapsfÃ¸ring og BokfÃ¸ringsregler").
 
 ## Fordeler og ulemper
 
 **Fordeler:**
 
-* **Fleksibilitet:** Betaler kun rente av det beløpet som faktisk er trukket.
-* **Umiddelbar tilgang:** Midlene er tilgjengelige uten ny søknadsrunde.
-* **Likviditetssikring:** Bidrar til å opprettholde god [likviditetsstyring](/blogs/regnskap/hva-er-likviditetsstyring "Hva er Likviditetsstyring? Komplett Guide til Likviditetsstyring").
+* **Fleksibilitet:** Betaler kun rente av det belÃ¸pet som faktisk er trukket.
+* **Umiddelbar tilgang:** Midlene er tilgjengelige uten ny sÃ¸knadsrunde.
+* **Likviditetssikring:** Bidrar til Ã¥ opprettholde god [likviditetsstyring](/blogs/regnskap/hva-er-likviditetsstyring "Hva er Likviditetsstyring? Komplett Guide til Likviditetsstyring").
 
 **Ulemper:**
 
-* **Renteutgifter:** Høyere rente enn vanlige bankinnskudd.
-* **Gebyrer:** Etablerings- og termingebyr kan øke kostnaden.
+* **Renteutgifter:** HÃ¸yere rente enn vanlige bankinnskudd.
+* **Gebyrer:** Etablerings- og termingebyr kan Ã¸ke kostnaden.
 * **Sikkerhetskrav:** Banken krever ofte pant eller garantier, for eksempel [bankgaranti](/blogs/regnskap/bankgaranti "Bankgaranti - Guide til Sikkerhetsstillelse").
 
-## Når bør du bruke kassekreditt?
+## NÃ¥r bÃ¸r du bruke kassekreditt?
 
 Kassekreditt er spesielt nyttig i situasjoner som:
 
 * Sesongvariasjoner i ordre og innbetalinger.
 * Uforutsette likviditetstopper, for eksempel ved store investeringer.
-* Midlertidige finansieringsbehov mens langsiktige lån behandles.
-* Støtte likviditetsbudsjettet i perioder med midlertidig betalingsforsinkelser.
+* Midlertidige finansieringsbehov mens langsiktige lÃ¥n behandles.
+* StÃ¸tte likviditetsbudsjettet i perioder med midlertidig betalingsforsinkelser.
 
-For mer detaljert planlegging, se [likviditetsbudsjett](/blogs/regnskap/likviditetsbudsjett "Likviditetsbudsjett - Slik lager du et nøyaktig likviditetsregnskap").
+For mer detaljert planlegging, se [likviditetsbudsjett](/blogs/regnskap/likviditetsbudsjett "Likviditetsbudsjett - Slik lager du et nÃ¸yaktig likviditetsregnskap").
 
 ## Relaterte Konsepter
 
 * [Hva er likviditet?](/blogs/regnskap/hva-er-likviditet "Hva er Likviditet? Komplett Guide til Likviditet og Likviditetsstyring")
-* [Rammelån](/blogs/regnskap/rammelan "Rammelån: Fleksibelt rammefinansiering for Norske Bedrifter")
+* [RammelÃ¥n](/blogs/regnskap/rammelan "RammelÃ¥n: Fleksibelt rammefinansiering for Norske Bedrifter")
 * [Hva er kortsiktig gjeld?](/blogs/regnskap/kortsiktig-gjeld "Hva er Kortsiktig Gjeld? Komplett Guide til Gjeldskategorier")
 * [Hva er bankgaranti?](/blogs/regnskap/bankgaranti "Bankgaranti - Guide til Sikkerhetsstillelse")
-* [Hva er bokføring?](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? Komplett Guide til Regnskapsføring og Bokføringsregler")
-* [Hva er likviditetsbudsjett?](/blogs/regnskap/likviditetsbudsjett "Likviditetsbudsjett - Slik lager du et nøyaktig likviditetsregnskap")
+* [Hva er bokfÃ¸ring?](/blogs/regnskap/hva-er-bokforing "Hva er BokfÃ¸ring? Komplett Guide til RegnskapsfÃ¸ring og BokfÃ¸ringsregler")
+* [Hva er likviditetsbudsjett?](/blogs/regnskap/likviditetsbudsjett "Likviditetsbudsjett - Slik lager du et nÃ¸yaktig likviditetsregnskap")

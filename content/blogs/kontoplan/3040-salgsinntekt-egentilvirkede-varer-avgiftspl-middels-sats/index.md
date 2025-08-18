@@ -1,7 +1,7 @@
 ﻿---
 title: "3040-salgsinntekt-egentilvirkede-varer-avgiftspl-middels-sats"
 meta_title: "3040-salgsinntekt-egentilvirkede-varer-avgiftspl-middels-sats"
-meta_description: "**Konto 3040 - Salgsinntekt egentilvirkede varer avgiftspl. middels sats** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **salgsinntekter*..."
+meta_description: '**Konto 3040 - Salgsinntekt egentilvirkede varer avgiftspl. middels sats** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **salgsinntekter*...'
 slug: 3040-salgsinntekt-egentilvirkede-varer-avgiftspl-middels-sats
 type: blog
 layout: pages/single

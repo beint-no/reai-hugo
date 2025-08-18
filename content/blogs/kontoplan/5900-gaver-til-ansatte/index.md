@@ -1,7 +1,7 @@
 ﻿---
 title: "5900-gaver-til-ansatte"
 meta_title: "5900-gaver-til-ansatte"
-meta_description: "**Konto 5900 - Gaver til ansatte** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til Ã¥ registrere **gaver til ansatte** som en del av ansatt..."
+meta_description: '**Konto 5900 - Gaver til ansatte** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til Ã¥ registrere **gaver til ansatte** som en del av ansatt...'
 slug: 5900-gaver-til-ansatte
 type: blog
 layout: pages/single

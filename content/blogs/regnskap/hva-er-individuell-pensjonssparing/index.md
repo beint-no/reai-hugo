@@ -1,18 +1,15 @@
----
+﻿---
 title: "Hva er Individuell Pensjonssparing (IPS)?"
-summary: "IPS er en skattefavorisert spareordning der individer sparer til pensjon med fradrag, fleksibilitet og langsiktig vekstmulighet."
-description: |
-  En grundig guide til Individuell Pensjonssparing (IPS) i Norge, med skattefordeler, regnskapsbehandling og praktiske eksempler.
+meta_title: "Hva er Individuell Pensjonssparing (IPS)?"
+meta_description: '![Illustrasjon av Individuell Pensjonssparing](hva-er-individuell-pensjonssparing-image.svg)'
 slug: hva-er-individuell-pensjonssparing
-featured_image: hva-er-individuell-pensjonssparing-image.svg
-featured_image_alt: "Illustrasjon av Individuell Pensjonssparing"
-url: "/blogs/regnskap/hva-er-individuell-pensjonssparing/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
 ![Illustrasjon av Individuell Pensjonssparing](hva-er-individuell-pensjonssparing-image.svg)
 
-**Individuell Pensjonssparing (IPS)** er en **skattemessig fordelaktig** spareordning som gir privatpersoner mulighet til å sette av deler av inntekten til pensjon med **fradragsrett**. IPS utgjør den tredje søylen i det norske pensjonssystemet og gir økt **fleksibilitet**, **kontroll** og **langsiktig sparing** for den enkelte.
+**Individuell Pensjonssparing (IPS)** er en **skattemessig fordelaktig** spareordning som gir privatpersoner mulighet til Ã¥ sette av deler av inntekten til pensjon med **fradragsrett**. IPS utgjÃ¸r den tredje sÃ¸ylen i det norske pensjonssystemet og gir Ã¸kt **fleksibilitet**, **kontroll** og **langsiktig sparing** for den enkelte.
 
 ## Oversikt over IPS
 
@@ -20,31 +17,31 @@ draft: false
 
 ## Fordeler med IPS
 
-* **Skattefordeler:** Fradrag for innskutt beløp i selvangivelsen.
+* **Skattefordeler:** Fradrag for innskutt belÃ¸p i selvangivelsen.
 * **Fleksibilitet:** Valg av investeringsprofil og uttakstidspunkt.
 * **Langsiktig sparing:** Bygger solid pensjonssum over tid.
 * **Komplement til arbeidsrelatert pensjon:** Supplerer obligatorisk tjenestepensjon og andre ordninger.
 
-## Nøkkelfunksjoner for IPS
+## NÃ¸kkelfunksjoner for IPS
 
 | Egenskap               | Beskrivelse                                                         |
 |:------------------------|:--------------------------------------------------------------------|
-| Maksimalt fradrag       | Inntil 15 000 kr per år                                             |
-| Uttaksregler            | Uttak fordelt over minst 10 år etter fylte 62 år                    |
+| Maksimalt fradrag       | Inntil 15Â 000Â kr per Ã¥r                                             |
+| Uttaksregler            | Uttak fordelt over minst 10 Ã¥r etter fylte 62 Ã¥r                    |
 | Investeringsvalg        | Aksje-, rente- eller kombinasjonsfond                               |
 | Skattebehandling        | Fradragsberettiget ved innskudd, beskatning ved uttak               |
 | Tilgjengelighet         | Midlene er bundet til uttakstidspunkt                               |
 
 ## Regnskaps- og skattemessig behandling
 
-For privatpersoner reduseres den skattepliktige inntekten med innbetalt beløp til IPS. For [enkeltpersonforetak](/blogs/regnskap/hva-er-enkeltpersonforetak "Hva er Enkeltpersonforetak? Guide til Enkeltpersonforetak og Regnskapsføring") vil IPS ikke påvirke selskapets regnskap direkte, siden IPS er personlig pensjonssparing.
+For privatpersoner reduseres den skattepliktige inntekten med innbetalt belÃ¸p til IPS. For [enkeltpersonforetak](/blogs/regnskap/hva-er-enkeltpersonforetak "Hva er Enkeltpersonforetak? Guide til Enkeltpersonforetak og RegnskapsfÃ¸ring") vil IPS ikke pÃ¥virke selskapets regnskap direkte, siden IPS er personlig pensjonssparing.
 
 ## Hvordan opprette IPS
 
 1. Velg bank eller finansinstitusjon som tilbyr IPS.
-2. Opprett IPS-konto hos leverandøren.
-3. Bestem årlig innskuddsbeløp opptil grense (inntil 15 000 kr i 2023).
-4. Velg investeringsprofil og leverandør.
+2. Opprett IPS-konto hos leverandÃ¸ren.
+3. Bestem Ã¥rlig innskuddsbelÃ¸p opptil grense (inntil 15Â 000Â kr i 2023).
+4. Velg investeringsprofil og leverandÃ¸r.
 5. Innbetal og dokumenter sparingen for skattemeldingen.
 
 ## Relaterte artikler

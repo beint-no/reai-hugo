@@ -1,58 +1,56 @@
----
-title: "Hva er Nettolønn?"
-summary: "Nettolønn er den lønnen en ansatt mottar etter at skatt, avgifter og andre fradrag er trukket fra bruttolønnen."
-description: "Lær alt om nettolønn - hva nettolønn er, hvordan det beregnes, vanlige fradrag og praktiske eksempler. En komplett guide til nettolønn i norsk regnskap."
+﻿---
+title: "Hva er NettolÃ¸nn?"
+meta_title: "Hva er NettolÃ¸nn?"
+meta_description: '**NettolÃ¸nn** er belÃ¸pet en ansatt mottar etter at alle lovpÃ¥lagte fradrag, skatter og avgifter er trukket fra [bruttolÃ¸nnen](/blogs/regnskap/hva-er-bruttol...'
 slug: nettolonn
-featured_image: nettolonn-image.svg
-featured_image_alt: "Hva er Nettolønn?"
-url: "/blogs/regnskap/nettolonn/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
-**Nettolønn** er beløpet en ansatt mottar etter at alle lovpålagte fradrag, skatter og avgifter er trukket fra [bruttolønnen](/blogs/regnskap/hva-er-bruttolonn "Hva er Bruttolønn? Definisjon, Beregning og Praktisk Anvendelse"). Dette er den endelige utbetalingen som overføres til bankkontoen og som arbeidstaker kan disponere fritt.
+**NettolÃ¸nn** er belÃ¸pet en ansatt mottar etter at alle lovpÃ¥lagte fradrag, skatter og avgifter er trukket fra [bruttolÃ¸nnen](/blogs/regnskap/hva-er-bruttolonn "Hva er BruttolÃ¸nn? Definisjon, Beregning og Praktisk Anvendelse"). Dette er den endelige utbetalingen som overfÃ¸res til bankkontoen og som arbeidstaker kan disponere fritt.
 
-![Hva er Nettolønn?](nettolonn-image.svg)
+![Hva er NettolÃ¸nn?](nettolonn-image.svg)
 
-## Hva er Nettolønn?
+## Hva er NettolÃ¸nn?
 
-Nettolønn er «netto utbetalt lønn» etter at alle obligatoriske trekk er gjort. Det inkluderer skattetrekk, trygdeavgift, pensjonsinnskudd og andre eventuelle trekk som fagforeningskontingent eller forskuddstrekk.
+NettolÃ¸nn er Â«netto utbetalt lÃ¸nnÂ» etter at alle obligatoriske trekk er gjort. Det inkluderer skattetrekk, trygdeavgift, pensjonsinnskudd og andre eventuelle trekk som fagforeningskontingent eller forskuddstrekk.
 
-## Hvordan beregnes Nettolønn?
+## Hvordan beregnes NettolÃ¸nn?
 
-Nettolønn beregnes vanligvis slik:
+NettolÃ¸nn beregnes vanligvis slik:
 
 ```
-Nettolønn = Bruttolønn - Skattetrekk - Trygdeavgift - Pensjonsinnskudd - Andre trekk
+NettolÃ¸nn = BruttolÃ¸nn - Skattetrekk - Trygdeavgift - Pensjonsinnskudd - Andre trekk
 ```
 
 | Fradragskomponent           | Beskrivelse                                                                                                         |
 |-----------------------------|---------------------------------------------------------------------------------------------------------------------|
-| **Skattetrekk**             | Skatteprosent fastsatt av skattemyndighetene (se [A‑melding](/blogs/regnskap/hva-er-a-melding "Hva er A‑melding? Komplett Guide til Innlevering og Frister")) |
+| **Skattetrekk**             | Skatteprosent fastsatt av skattemyndighetene (se [Aâ€‘melding](/blogs/regnskap/hva-er-a-melding "Hva er Aâ€‘melding? Komplett Guide til Innlevering og Frister")) |
 | **Trygdeavgift**            | Arbeidstakerens andel til folketrygden (per [Folketrygden](/blogs/regnskap/hva-er-folketrygden "Hva er Folketrygden? En oversikt over trygdeordninger"))        |
 | **Pensjonsinnskudd**        | Innskudd til obligatorisk tjenestepensjon eller privat pensjonsordning                                               |
 | **Fagforeningskontingent**  | Fradrag for medlemsavgift i fagforening                                                                              |
-| **Andre trekk**             | For eksempel lønnstrekk for lån, parkering eller forskuddstrekk                                                     |
+| **Andre trekk**             | For eksempel lÃ¸nnstrekk for lÃ¥n, parkering eller forskuddstrekk                                                     |
 
-### Eksempel på beregning
+### Eksempel pÃ¥ beregning
 
-| Beskrivelse                 | Beløp (kr)                                                                                                          |
+| Beskrivelse                 | BelÃ¸p (kr)                                                                                                          |
 |-----------------------------|---------------------------------------------------------------------------------------------------------------------|
-| Bruttolønn                  | 50 000                                                                                                              |
-| Skattetrekk (30 %)          | -15 000                                                                                                             |
-| Trygdeavgift (8,2 %)        | -4 100                                                                                                              |
-| Pensjonsinnskudd (2 %)      | -1 000                                                                                                              |
-| **Nettolønn**               | **29 900**                                                                                                          |
+| BruttolÃ¸nn                  | 50Â 000                                                                                                              |
+| Skattetrekk (30Â %)          | -15Â 000                                                                                                             |
+| Trygdeavgift (8,2Â %)        | -4Â 100                                                                                                              |
+| Pensjonsinnskudd (2Â %)      | -1Â 000                                                                                                              |
+| **NettolÃ¸nn**               | **29Â 900**                                                                                                          |
 
-## Vanlige spørsmål om Nettolønn
+## Vanlige spÃ¸rsmÃ¥l om NettolÃ¸nn
 
-* **Hva er forskjellen mellom bruttolønn og nettolønn?** Se [Hva er Bruttolønn?](/blogs/regnskap/hva-er-bruttolonn "Hva er Bruttolønn? Definisjon, Beregning og Praktisk Anvendelse") og [Hva er Nettolønn?](/blogs/regnskap/nettolonn "Hva er Nettolønn? Definisjon, Beregning og Praktisk Eksempler")
-* **Hvordan påvirker forskuddstrekk nettolønnen?** Les mer i [Hva er Forskuddstrekk?](/blogs/regnskap/hva-er-forskuddstrekk "Hva er Forskuddstrekk? Oversikt og Prosess for Arbeidsgivere")
-* **Hva skjer med feriepenger og nettolønn?** Se [Feriepenger i Prosent](/blogs/regnskap/feriepenger-i-prosent "Feriepenger i Prosent: Beregning og Utbetaling")
+* **Hva er forskjellen mellom bruttolÃ¸nn og nettolÃ¸nn?** Se [Hva er BruttolÃ¸nn?](/blogs/regnskap/hva-er-bruttolonn "Hva er BruttolÃ¸nn? Definisjon, Beregning og Praktisk Anvendelse") og [Hva er NettolÃ¸nn?](/blogs/regnskap/nettolonn "Hva er NettolÃ¸nn? Definisjon, Beregning og Praktisk Eksempler")
+* **Hvordan pÃ¥virker forskuddstrekk nettolÃ¸nnen?** Les mer i [Hva er Forskuddstrekk?](/blogs/regnskap/hva-er-forskuddstrekk "Hva er Forskuddstrekk? Oversikt og Prosess for Arbeidsgivere")
+* **Hva skjer med feriepenger og nettolÃ¸nn?** Se [Feriepenger i Prosent](/blogs/regnskap/feriepenger-i-prosent "Feriepenger i Prosent: Beregning og Utbetaling")
 
 ## Videre lesning
 
-For mer om lønnsrapportering og -dokumentasjon, se:
+For mer om lÃ¸nnsrapportering og -dokumentasjon, se:
 
-* [Hva er A‑melding?](/blogs/regnskap/hva-er-a-melding "Hva er A‑melding? Komplett Guide til Innlevering og Frister")
-* [Hva er Lønn](/blogs/regnskap/hva-er-lonn "Hva er Lønn i Regnskap? Komplett Guide til Lønnsformer, Beregning og Regnskapsføring")
+* [Hva er Aâ€‘melding?](/blogs/regnskap/hva-er-a-melding "Hva er Aâ€‘melding? Komplett Guide til Innlevering og Frister")
+* [Hva er LÃ¸nn](/blogs/regnskap/hva-er-lonn "Hva er LÃ¸nn i Regnskap? Komplett Guide til LÃ¸nnsformer, Beregning og RegnskapsfÃ¸ring")
 * [Hva er Feriepenger i Prosent](/blogs/regnskap/feriepenger-i-prosent "Feriepenger i Prosent: Beregning og Utbetaling")

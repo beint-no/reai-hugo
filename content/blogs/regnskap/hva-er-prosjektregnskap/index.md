@@ -1,52 +1,50 @@
----
+﻿---
 title: "Hva er Prosjektregnskap?"
-summary: "Prosjektregnskap er en regnskapsmetode som sporer kostnader og inntekter knyttet til enkeltprosjekter for å gi innsikt i prosjektets lønnsomhet og økonomiske status."
-description: "Lær alt om prosjektregnskap, hvordan spore kostnader, inntekter og lønnsomhet per prosjekt for bedre økonomistyring i norske bedrifter."
+meta_title: "Hva er Prosjektregnskap?"
+meta_description: '**Prosjektregnskap** er en regnskapsmetode for Ã¥ spore kostnader og inntekter knyttet til enkeltprosjekter. Dette gir bedrifter innsikt i prosjektets Ã¸konomis...'
 slug: hva-er-prosjektregnskap
-featured_image: hva-er-prosjektregnskap-image.svg
-featured_image_alt: "Illustrasjon som viser konseptet prosjektregnskap"
-url: "/blogs/regnskap/hva-er-prosjektregnskap/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
-**Prosjektregnskap** er en regnskapsmetode for å spore kostnader og inntekter knyttet til enkeltprosjekter. Dette gir bedrifter innsikt i prosjektets økonomiske status, forbedret kontroll og et bedre beslutningsgrunnlag.
+**Prosjektregnskap** er en regnskapsmetode for Ã¥ spore kostnader og inntekter knyttet til enkeltprosjekter. Dette gir bedrifter innsikt i prosjektets Ã¸konomiske status, forbedret kontroll og et bedre beslutningsgrunnlag.
 
 ![Illustrasjon som viser konseptet prosjektregnskap](hva-er-prosjektregnskap-image.svg)
 
 ## Hvorfor bruke prosjektregnskap?
 
-* **Innsikt i lønnsomhet:** Muliggjør analyse av økonomisk resultat per prosjekt.
-* **Kostnadskontroll:** Overvåking av faktiske kostnader mot budsjett.
+* **Innsikt i lÃ¸nnsomhet:** MuliggjÃ¸r analyse av Ã¸konomisk resultat per prosjekt.
+* **Kostnadskontroll:** OvervÃ¥king av faktiske kostnader mot budsjett.
 * **Bedre planlegging:** Underlag for fremtidige prosjektbudsjetter og ressursallokering.
-* **Compliance:** Støtte for krav til rapportering og finansieringsavtaler.
+* **Compliance:** StÃ¸tte for krav til rapportering og finansieringsavtaler.
 
-## Nøkkelkomponenter i prosjektregnskap
+## NÃ¸kkelkomponenter i prosjektregnskap
 
 | Komponent             | Beskrivelse                                                                                             |
 |-----------------------|---------------------------------------------------------------------------------------------------------|
-| **Prosjektbudsjett**  | Planlagte kostnader og inntekter før prosjektstart                                                        |
-| **Kostnadsføring**    | Løpende registrering av faktiske kostnader knyttet til prosjektet                                        |
-| **Inntektsføring**    | Bruk av [periodisering](/blogs/regnskap/hva-er-periodisering "Hva er Periodisering? Guide til Regnskapsmessig Periodisering") for å inntektsføre prosjektleveranser |
-| **Avslutningsrapport**| Sammenslåing av resultat og avvik ved prosjektslutt                                                       |
+| **Prosjektbudsjett**  | Planlagte kostnader og inntekter fÃ¸r prosjektstart                                                        |
+| **KostnadsfÃ¸ring**    | LÃ¸pende registrering av faktiske kostnader knyttet til prosjektet                                        |
+| **InntektsfÃ¸ring**    | Bruk av [periodisering](/blogs/regnskap/hva-er-periodisering "Hva er Periodisering? Guide til Regnskapsmessig Periodisering") for Ã¥ inntektsfÃ¸re prosjektleveranser |
+| **Avslutningsrapport**| SammenslÃ¥ing av resultat og avvik ved prosjektslutt                                                       |
 
 ## Prosess for prosjektregnskap
 
 1. Opprett prosjektstruktur i regnskapssystemet.
 2. Definer budsjett og finansieringskilder, gjerne med [budsjettering](/blogs/regnskap/hva-er-budsjettering "Hva er Budsjettering? Komplett Guide til Budsjettplanlegging for Bedrifter").
-3. Registrer tid og direktekostnader gjennom [timeføring](/blogs/regnskap/hva-er-timeforing "Timeføring - Komplett Guide til Timeføring og Prosjektallokering").
+3. Registrer tid og direktekostnader gjennom [timefÃ¸ring](/blogs/regnskap/hva-er-timeforing "TimefÃ¸ring - Komplett Guide til TimefÃ¸ring og Prosjektallokering").
 4. Alloker indirekte kostnader etter kostnadssted eller prosjekt.
 5. Sammenlign faktisk mot budsjett og analyser avvik.
 6. Utarbeid rapporter for prosjektledelse og revisjon.
 
 ## Beste praksis for prosjektregnskap
 
-* **Automatisert tidssporing:** Integrasjon med timeføringssystemer.
+* **Automatisert tidssporing:** Integrasjon med timefÃ¸ringssystemer.
 * **Klare ansvarsforhold:** Definer ansvar for kostnads- og inntektsregistrering.
-* **Regelmessige statusmøter:** Finansiell oppfølging gjennom prosjektets livssyklus.
+* **Regelmessige statusmÃ¸ter:** Finansiell oppfÃ¸lging gjennom prosjektets livssyklus.
 
-## Verktøy og automatisering
+## VerktÃ¸y og automatisering
 
-* [ERP-systemer](/blogs/regnskap/hva-er-erp-system "Hva er ERP-system? Komplett Guide til ERP i Regnskap og Økonomi").
+* [ERP-systemer](/blogs/regnskap/hva-er-erp-system "Hva er ERP-system? Komplett Guide til ERP i Regnskap og Ã˜konomi").
 * Spesialiserte prosjektregnskapsmoduler.
 * Integrasjon med tid- og kostnadssystemer.
 
@@ -55,5 +53,5 @@ draft: false
 * [Hva er Budsjettering?](/blogs/regnskap/hva-er-budsjettering "Hva er Budsjettering? Komplett Guide til Budsjettplanlegging for Bedrifter")
 * [Hva er Periodisering?](/blogs/regnskap/hva-er-periodisering "Hva er Periodisering? Guide til Regnskapsmessig Periodisering")
 * [Hva er Avregning?](/blogs/regnskap/hva-er-avregning "Hva er Avregning i Regnskap? Komplett Guide til Avregning")
-* [Hva er Timeføring?](/blogs/regnskap/hva-er-timeforing "Timeføring - Komplett Guide til Timeføring og Prosjektallokering")
+* [Hva er TimefÃ¸ring?](/blogs/regnskap/hva-er-timeforing "TimefÃ¸ring - Komplett Guide til TimefÃ¸ring og Prosjektallokering")
 * [Hva er Regnskap?](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide")

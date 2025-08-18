@@ -1,7 +1,7 @@
 ﻿---
 title: "8900-overforingsfond-vurderingsforskjeller"
 meta_title: "8900-overforingsfond-vurderingsforskjeller"
-meta_description: "**Konto 8900 - OverfÃ¸ringsfond vurderingsforskjeller** er en konto innen **reserver og overfÃ¸ringer** i Norsk Standard Kontoplan (NSÂ 4102) som brukes til Ã¥ ..."
+meta_description: '**Konto 8900 - OverfÃ¸ringsfond vurderingsforskjeller** er en konto innen **reserver og overfÃ¸ringer** i Norsk Standard Kontoplan (NSÂ 4102) som brukes til Ã¥ ...'
 slug: 8900-overforingsfond-vurderingsforskjeller
 type: blog
 layout: pages/single

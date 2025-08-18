@@ -1,21 +1,19 @@
----
+﻿---
 title: "Brennevin"
-summary: "En omfattende artikkel om bokføring og avgifter knyttet til brennevin i Norge. Lær om alkoholavgift, MVA, og hvordan transaksjoner skal føres i regnskapet."
-description: "En fullstendig guide til regnskapsmessig behandling av brennevin, inkludert alkoholavgift, merverdiavgift, bokføring og valg av kontoer."
+meta_title: "Brennevin"
+meta_description: 'Brennevin er en **alkoholholdig drikk** med minimum 22Â % volumprosent alkohol, og omfatter ulike typer sprit som akevitt, whisky, vodka og likÃ¸rer. **Brennevi...'
 slug: brennevin
-featured_image: brennevin-image.svg
-featured_image_alt: "Brennevin"
-url: "/blogs/regnskap/brennevin/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
-Brennevin er en **alkoholholdig drikk** med minimum 22 % volumprosent alkohol, og omfatter ulike typer sprit som akevitt, whisky, vodka og likører. **Brennevin** er underlagt særavgifter og særskilt regnskapsbehandling i Norge.
+Brennevin er en **alkoholholdig drikk** med minimum 22Â % volumprosent alkohol, og omfatter ulike typer sprit som akevitt, whisky, vodka og likÃ¸rer. **Brennevin** er underlagt sÃ¦ravgifter og sÃ¦rskilt regnskapsbehandling i Norge.
 
 ![Brennevin](brennevin-image.svg)
 
 ## Hva er Brennevin og Relevant Lovverk
 
-Brennevin reguleres av særavgiftsloven og merverdiavgiftsloven (MVA). I tillegg gjelder krav til bokføring i henhold til [bokføringsforskriften](/blogs/regnskap/hva-er-bokforingsforskriften "Hva er Bokføringsforskriften? Komplett Guide til Regnskapsførsel") og prinsipper for Norsk Standard Kontoplan (NS 4102).
+Brennevin reguleres av sÃ¦ravgiftsloven og merverdiavgiftsloven (MVA). I tillegg gjelder krav til bokfÃ¸ring i henhold til [bokfÃ¸ringsforskriften](/blogs/regnskap/hva-er-bokforingsforskriften "Hva er BokfÃ¸ringsforskriften? Komplett Guide til RegnskapsfÃ¸rsel") og prinsipper for Norsk Standard Kontoplan (NSÂ 4102).
 
 ## Alkoholavgift og Beregningsgrunnlag
 
@@ -25,32 +23,32 @@ Brennevin reguleres av særavgiftsloven og merverdiavgiftsloven (MVA). I tillegg
 
 | Parameter                    | Formel                                                  |
 |------------------------------|---------------------------------------------------------|
-| Alkoholvolum                 | Volum (L) × Alkoholprosent (%)                          |
-| Sats for spritalkoholavgift  | 437,50 NOK per liter ren alkohol                        |
-| Total alkoholavgift          | Alkoholvolum (L) × Sats                                  |
+| Alkoholvolum                 | Volum (L) Ã— Alkoholprosent (%)                          |
+| Sats for spritalkoholavgift  | 437,50Â NOK per liter ren alkohol                        |
+| Total alkoholavgift          | Alkoholvolum (L) Ã— Sats                                  |
 
-## Merverdiavgift (MVA) på Brennevin
+## Merverdiavgift (MVA) pÃ¥ Brennevin
 
-> Brennevin er **MVA-pliktig** vare og avgiftsbelegges med ordinær sats (25 %) i henhold til [mva-loven](/blogs/regnskap/mva-loven "MVA-loven: Komplett Guide til Merverdiavgiftsloven").
+> Brennevin er **MVA-pliktig** vare og avgiftsbelegges med ordinÃ¦r sats (25Â %) i henhold til [mva-loven](/blogs/regnskap/mva-loven "MVA-loven: Komplett Guide til Merverdiavgiftsloven").
 
-## Bokføring av Brennevin-transaksjoner
+## BokfÃ¸ring av Brennevin-transaksjoner
 
-For riktig føring av kjøp, avgiftene og salg av brennevin anbefales det å bruke dedikerte kontoer i kontoplanen:
+For riktig fÃ¸ring av kjÃ¸p, avgiftene og salg av brennevin anbefales det Ã¥ bruke dedikerte kontoer i kontoplanen:
 
 | Transaksjon                    | Debet (Norsk Standard Kontoplan)     | Kredit                              |
 |--------------------------------|--------------------------------------|-------------------------------------|
-| Kjøp av brennevin (varen)      | Konto 4000 - Varekjøp               | Konto 2400 - Leverandørgjeld        |
-| Beregnet alkoholavgift         | Konto 5800 - Særavgifter            | Konto 2750 - Avgiftsgjeld           |
-| Beregnet MVA                   | Konto 2720 - Utgående merverdiavgift | Konto 2750 - Avgiftsgjeld           |
-| Salg av brennevin med MVA      | Konto 1500 - Varelager               | Konto 3000 - Salgsinntekt           |
-|                                |                                      | Konto 2770 - Inngående merverdiavgift |
+| KjÃ¸p av brennevin (varen)      | KontoÂ 4000 - VarekjÃ¸p               | KontoÂ 2400 - LeverandÃ¸rgjeld        |
+| Beregnet alkoholavgift         | KontoÂ 5800 - SÃ¦ravgifter            | KontoÂ 2750 - Avgiftsgjeld           |
+| Beregnet MVA                   | KontoÂ 2720 - UtgÃ¥ende merverdiavgift | KontoÂ 2750 - Avgiftsgjeld           |
+| Salg av brennevin med MVA      | KontoÂ 1500 - Varelager               | KontoÂ 3000 - Salgsinntekt           |
+|                                |                                      | KontoÂ 2770 - InngÃ¥ende merverdiavgift |
 
 ## Praktiske Tips og Internlenking
 
-* Sørg for å kontrollere at all **særavgiftsberegning** dokumenteres og attesteres internt (se [Hva er Attestering?](/blogs/regnskap/hva-er-attestering "Hva er Attestering? En Komplett Guide til Bilagsbehandling og Godkjenning")).
+* SÃ¸rg for Ã¥ kontrollere at all **sÃ¦ravgiftsberegning** dokumenteres og attesteres internt (se [Hva er Attestering?](/blogs/regnskap/hva-er-attestering "Hva er Attestering? En Komplett Guide til Bilagsbehandling og Godkjenning")).
 * Les mer om kontoplan og anbefalte kontoer i [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap").
-* Få oversikt over bokføringskrav i [Hva er Bokføringsforskriften?](/blogs/regnskap/hva-er-bokforingsforskriften "Hva er Bokføringsforskriften? Komplett Guide til Regnskapsførsel").
+* FÃ¥ oversikt over bokfÃ¸ringskrav i [Hva er BokfÃ¸ringsforskriften?](/blogs/regnskap/hva-er-bokforingsforskriften "Hva er BokfÃ¸ringsforskriften? Komplett Guide til RegnskapsfÃ¸rsel").
 
 ## Oppsummering
 
-Brennevin krever nøye håndtering av både **alkoholavgift** og **merverdiavgift**, i tillegg til korrekt bokføring i henhold til gjeldende lover og kontoplanstandarder. Ved å følge anbefalte praksiser for særavgiftsberegning og MVA-behandling sikrer bedriften etterlevelse av regelverket og presis regnskapsrapportering.
+Brennevin krever nÃ¸ye hÃ¥ndtering av bÃ¥de **alkoholavgift** og **merverdiavgift**, i tillegg til korrekt bokfÃ¸ring i henhold til gjeldende lover og kontoplanstandarder. Ved Ã¥ fÃ¸lge anbefalte praksiser for sÃ¦ravgiftsberegning og MVA-behandling sikrer bedriften etterlevelse av regelverket og presis regnskapsrapportering.

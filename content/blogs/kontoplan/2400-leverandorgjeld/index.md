@@ -1,7 +1,7 @@
 ﻿---
 title: "2400-leverandorgjeld"
 meta_title: "2400-leverandorgjeld"
-meta_description: "**Konto 2400 - LeverandÃ¸rgjeld** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kortsiktig gjeld** til leverandÃ¸rer for varer og tjenes..."
+meta_description: '**Konto 2400 - LeverandÃ¸rgjeld** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kortsiktig gjeld** til leverandÃ¸rer for varer og tjenes...'
 slug: 2400-leverandorgjeld
 type: blog
 layout: pages/single

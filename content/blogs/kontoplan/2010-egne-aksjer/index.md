@@ -1,7 +1,7 @@
 ﻿---
 title: "2010-egne-aksjer"
 meta_title: "2010-egne-aksjer"
-meta_description: "**Konto 2010 - Egne aksjer** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere selskapets **egne aksjer** (ogsÃ¥ kalt **treasury shares**) som..."
+meta_description: '**Konto 2010 - Egne aksjer** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere selskapets **egne aksjer** (ogsÃ¥ kalt **treasury shares**) som...'
 slug: 2010-egne-aksjer
 type: blog
 layout: pages/single

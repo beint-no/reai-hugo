@@ -1,30 +1,26 @@
----
+﻿---
 title: "Hva er SWIFT?"
-summary: |
-  SWIFT (Society for Worldwide Interbank Financial Telecommunication) er et globalt kommunikasjonsnettverk for finansinstitusjoner. Denne artikkelen forklarer SWIFT-systemets historie, funksjoner, rolle i internasjonale transaksjoner og regnskapsmessige implikasjoner for norske bedrifter.
-description: |
-  Lær alt om SWIFT-nettverket (Society for Worldwide Interbank Financial Telecommunication) - struktur, funksjonalitet, bruk i internasjonale betalinger, og betydning for norsk regnskap og bokføring.
+meta_title: "Hva er SWIFT?"
+meta_description: '(**SWIFT** (Society for Worldwide Interbank Financial Telecommunication) er et globalt nettverk som muliggjÃ¸r sikker utveksling av meldinger mellom finansinsti...'
 slug: hva-er-swift
-featured_image: hva-er-swift-image.svg
-featured_image_alt: "Illustrasjon av SWIFT-nettverket og dets globale kommunikasjonsinfrastruktur"
-url: "/blogs/regnskap/hva-er-swift/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
-(**SWIFT** (Society for Worldwide Interbank Financial Telecommunication) er et globalt nettverk som muliggjør sikker utveksling av meldinger mellom finansinstitusjoner. For norske bedrifter som håndterer internasjonale transaksjoner er det avgjørende å forstå hvordan SWIFT fungerer og hvilke **regnskapsmessige implikasjoner** det har.)
+(**SWIFT** (Society for Worldwide Interbank Financial Telecommunication) er et globalt nettverk som muliggjÃ¸r sikker utveksling av meldinger mellom finansinstitusjoner. For norske bedrifter som hÃ¥ndterer internasjonale transaksjoner er det avgjÃ¸rende Ã¥ forstÃ¥ hvordan SWIFT fungerer og hvilke **regnskapsmessige implikasjoner** det har.)
 
 ## Hva er SWIFT?
 
-SWIFT står for **Society for Worldwide Interbank Financial Telecommunication** og er et **globalt meldingsnettverk** som forbinder over 11 000 finansinstitusjoner i mer enn 200 land. SWIFT gjør det mulig å sende og motta **standardiserte finansielle meldinger**, som støtter alt fra betalingsoverføringer til avstemming av bankkonti.
+SWIFT stÃ¥r for **Society for Worldwide Interbank Financial Telecommunication** og er et **globalt meldingsnettverk** som forbinder over 11 000 finansinstitusjoner i mer enn 200 land. SWIFT gjÃ¸r det mulig Ã¥ sende og motta **standardiserte finansielle meldinger**, som stÃ¸tter alt fra betalingsoverfÃ¸ringer til avstemming av bankkonti.
 
 ![SWIFT-nettverket og meldingsflyt](swift-nettverk.svg)
 
 ### Kort Historie
 
-| År   | Hendelse                                     |
+| Ã…r   | Hendelse                                     |
 |------|-----------------------------------------------|
 | 1973 | SWIFT etablert av 239 banker                  |
-| 1977 | Første meldinger sendt                        |
+| 1977 | FÃ¸rste meldinger sendt                        |
 | 1995 | Over 1 million meldinger per dag             |
 | 2022 | Over 40 millioner meldinger per dag           |
 
@@ -32,17 +28,17 @@ SWIFT står for **Society for Worldwide Interbank Financial Telecommunication** 
 
 | Meldingskode | Beskrivelse                               |
 |--------------|-------------------------------------------|
-| MT103        | Kunde betalingsoverføring                 |
+| MT103        | Kunde betalingsoverfÃ¸ring                 |
 | MT202        | Bank-til-bank betaling                    |
 | MT940        | Kontoutskrift (elektronisk kontorapport)  |
 
 ## Hvordan fungerer SWIFT?
 
-SWIFT benytter et **sentralt meldingssystem** med følgende hovedkomponenter:
+SWIFT benytter et **sentralt meldingssystem** med fÃ¸lgende hovedkomponenter:
 
 * **BIC-koder** for identifikasjon av finansinstitusjoner (se [Hva er BIC-kode?](/blogs/regnskap/hva-er-bic-kode "Hva er BIC-kode?"))
 * **Meldingstyper** (f.eks. MT103, MT202, MT940)
-* **Sikkerhet og kryptering** for å sikre konfidensialitet og integritet
+* **Sikkerhet og kryptering** for Ã¥ sikre konfidensialitet og integritet
 
 ### Meldingsflyt
 
@@ -61,34 +57,34 @@ SWIFT krever blant annet:
 
 ## Regnskapsmessige implikasjoner for norske bedrifter
 
-Bruk av SWIFT-meldinger påvirker flere regnskapsprosesser:
+Bruk av SWIFT-meldinger pÃ¥virker flere regnskapsprosesser:
 
 | Aspekt                | Beskrivelse                                                          |
 |-----------------------|----------------------------------------------------------------------|
 | Dokumentasjon         | Sporbarhet og arkivering av internasjonale transaksjoner             |
 | Avstemming            | Standardiserte meldinger for automatisert [bankavstemming](/blogs/regnskap/hva-er-avstemming "Hva er Avstemming?") |
-| Kostnadsføring        | SWIFT-gebyrer bokføres som finansielle kostnader                     |
-| MVA og valuta         | Håndtering av valutakurs, kurseffekter og MVA ved grenseoverskridende tjenester |
+| KostnadsfÃ¸ring        | SWIFT-gebyrer bokfÃ¸res som finansielle kostnader                     |
+| MVA og valuta         | HÃ¥ndtering av valutakurs, kurseffekter og MVA ved grenseoverskridende tjenester |
 
 ## Fordeler og utfordringer
 
 **Fordeler:**
 
-* Rask og sikker overføring av betalinger
+* Rask og sikker overfÃ¸ring av betalinger
 * Standardiserte formater som forenkler integrasjon med regnskapssystemer
-* Global dekning og høy tilgjengelighet
+* Global dekning og hÃ¸y tilgjengelighet
 
 **Utfordringer:**
 
 1. **Kostnader** knyttet til SWIFT-tilgang og meldingsgebyr
-2. **Kompleksitet** i implementering og vedlikehold av tekniske løsninger
+2. **Kompleksitet** i implementering og vedlikehold av tekniske lÃ¸sninger
 3. **Regulatoriske krav** for sikkerhet og rapportering
 
 ## Fremtidstrender
 
 * **ISO 20022**-overgang for mer strukturerte data  
 * **API-integrasjoner** for sanntids validering og oppslag  
-* Utvikling av **SWIFT gpi** for økt transaksjonssporbarhet  
+* Utvikling av **SWIFT gpi** for Ã¸kt transaksjonssporbarhet  
 
 **Oppsummering:**  
-SWIFT er hjørnesteinen i dagens internasjonale betalingssystem. For norske bedrifter er det avgjørende å mestre SWIFT for å sikre effektive og korrekte internasjonale transaksjoner, samtidig som man ivaretar god regnskapsrapportering og kontrollrutiner.
+SWIFT er hjÃ¸rnesteinen i dagens internasjonale betalingssystem. For norske bedrifter er det avgjÃ¸rende Ã¥ mestre SWIFT for Ã¥ sikre effektive og korrekte internasjonale transaksjoner, samtidig som man ivaretar god regnskapsrapportering og kontrollrutiner.

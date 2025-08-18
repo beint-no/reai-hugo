@@ -1,7 +1,7 @@
 ﻿---
 title: "2100-pensjonsforpliktelser"
 meta_title: "2100-pensjonsforpliktelser"
-meta_description: "**Konto 2100 - Pensjonsforpliktelser** er en konto innen **langsiktige forpliktelser** i Norsk Standard Kontoplan (NSÂ 4102) som brukes til Ã¥ registrere **pens..."
+meta_description: '**Konto 2100 - Pensjonsforpliktelser** er en konto innen **langsiktige forpliktelser** i Norsk Standard Kontoplan (NSÂ 4102) som brukes til Ã¥ registrere **pens...'
 slug: 2100-pensjonsforpliktelser
 type: blog
 layout: pages/single

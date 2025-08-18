@@ -1,7 +1,7 @@
 ﻿---
 title: "2714-inngaaende-merverdiavgift-lav-sats"
 meta_title: "2714-inngaaende-merverdiavgift-lav-sats"
-meta_description: "**Konto 2714 - InngÃ¥ende merverdiavgift lav sats** er en konto i **Norsk Standard Kontoplan** som brukes ved periodisk **oppgjÃ¸r av inngÃ¥ende merverdiavgift ..."
+meta_description: '**Konto 2714 - InngÃ¥ende merverdiavgift lav sats** er en konto i **Norsk Standard Kontoplan** som brukes ved periodisk **oppgjÃ¸r av inngÃ¥ende merverdiavgift ...'
 slug: 2714-inngaaende-merverdiavgift-lav-sats
 type: blog
 layout: pages/single

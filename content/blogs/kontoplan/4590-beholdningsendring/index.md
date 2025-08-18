@@ -1,7 +1,7 @@
 ﻿---
 title: "4590-beholdningsendring"
 meta_title: "4590-beholdningsendring"
-meta_description: "**Konto 4590 - Beholdningsendring** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **endringer i varelagerets beholdning** i resultatregnsk..."
+meta_description: '**Konto 4590 - Beholdningsendring** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **endringer i varelagerets beholdning** i resultatregnsk...'
 slug: 4590-beholdningsendring
 type: blog
 layout: pages/single

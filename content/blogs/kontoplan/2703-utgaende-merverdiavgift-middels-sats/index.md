@@ -1,7 +1,7 @@
 ﻿---
 title: "2703-utgaende-merverdiavgift-middels-sats"
 meta_title: "2703-utgaende-merverdiavgift-middels-sats"
-meta_description: "**Konto 2703 - UtgÃ¥ende merverdiavgift middels sats** er en konto i **Norsk Standard Kontoplan** som brukes ved periodisk **oppgjÃ¸r av utgÃ¥ende merverdiavgif..."
+meta_description: '**Konto 2703 - UtgÃ¥ende merverdiavgift middels sats** er en konto i **Norsk Standard Kontoplan** som brukes ved periodisk **oppgjÃ¸r av utgÃ¥ende merverdiavgif...'
 slug: 2703-utgaende-merverdiavgift-middels-sats
 type: blog
 layout: pages/single

@@ -1,62 +1,60 @@
----
-title: "Hva er primærnæring?"
-summary: "En omfattende guide til primærnæring, inkludert definisjon, eksempler på jordbruk, skogbruk og fiske, særregler, skattemessige fradrag og rapportering."
-description: "Lær hva primærnæring er, definisjon, eksempler, særregler og rapporteringskrav for primærnæringer i norsk regnskap og skatt."
+﻿---
+title: "Hva er primÃ¦rnÃ¦ring?"
+meta_title: "Hva er primÃ¦rnÃ¦ring?"
+meta_description: 'PrimÃ¦rnÃ¦ring er en samlebetegnelse for virksomheter som utvinner ressurser direkte fra naturen. Dette inkluderer **jordbruk**, **skogbruk** og **fiske**. I no...'
 slug: primarnaring
-featured_image: primarnaring-image.svg
-featured_image_alt: "Hva er primærnæring?"
-url: "/blogs/regnskap/primarnaring/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
-Primærnæring er en samlebetegnelse for virksomheter som utvinner ressurser direkte fra naturen. Dette inkluderer **jordbruk**, **skogbruk** og **fiske**. I norsk regnskap og skatt har primærnæringer egne regler og særordninger på grunn av naturressurser, sesongvariasjoner og biologiske eiendeler.
+PrimÃ¦rnÃ¦ring er en samlebetegnelse for virksomheter som utvinner ressurser direkte fra naturen. Dette inkluderer **jordbruk**, **skogbruk** og **fiske**. I norsk regnskap og skatt har primÃ¦rnÃ¦ringer egne regler og sÃ¦rordninger pÃ¥ grunn av naturressurser, sesongvariasjoner og biologiske eiendeler.
 
-Se vår detaljerte artikkel om [næringsvirksomhet](/blogs/regnskap/naeringsvirksomhet "Hva er næringsvirksomhet? Definisjon og Regnskapsmessig Behandling") for grunnleggende kriterier for næringsvirksomhet, og en oversikt over ulike næringstyper i Norge.
+Se vÃ¥r detaljerte artikkel om [nÃ¦ringsvirksomhet](/blogs/regnskap/naeringsvirksomhet "Hva er nÃ¦ringsvirksomhet? Definisjon og Regnskapsmessig Behandling") for grunnleggende kriterier for nÃ¦ringsvirksomhet, og en oversikt over ulike nÃ¦ringstyper i Norge.
 
-![Primærnæring](primarnaring-image.svg)
+![PrimÃ¦rnÃ¦ring](primarnaring-image.svg)
 
 ## Definisjon og omfang
 
-Primærnæringer omfatter aktiviteter som tar utgangspunkt i råvarer fra naturen før de bearbeides videre. De viktigste sektorene er:
+PrimÃ¦rnÃ¦ringer omfatter aktiviteter som tar utgangspunkt i rÃ¥varer fra naturen fÃ¸r de bearbeides videre. De viktigste sektorene er:
 
 * **Jordbruk:** Produksjon av mat og fiber fra planter og husdyr.
 * **Skogbruk:** Trelast, papir og biobrensel fra skogressurser.
 * **Fiske og oppdrett:** Villfangst og oppdrett av fisk og skalldyr.
 
-## Sammenheng med andre næringssektorer
+## Sammenheng med andre nÃ¦ringssektorer
 
-Primærnæringer utgjør den første fasen i den økonomiske verdikjeden. De øvrige sektorene er **sekundærnæringer** (industri og utvinning) og **tertiærnæringer** (tjenestesektoren).
+PrimÃ¦rnÃ¦ringer utgjÃ¸r den fÃ¸rste fasen i den Ã¸konomiske verdikjeden. De Ã¸vrige sektorene er **sekundÃ¦rnÃ¦ringer** (industri og utvinning) og **tertiÃ¦rnÃ¦ringer** (tjenestesektoren).
 
-| Næringssektor      | Eksempler                                  | NACE-koder     |
+| NÃ¦ringssektor      | Eksempler                                  | NACE-koder     |
 |--------------------|---------------------------------------------|----------------|
-| Primærnæringer     | Jordbruk, Skogbruk, Fiske                  | A01 - A03      |
-| Sekundærnæringer   | Industri, Gruvevirksomhet                   | B - E          |
-| Tertiærnæringer    | Tjenester, Handel, Transport                | F - U          |
+| PrimÃ¦rnÃ¦ringer     | Jordbruk, Skogbruk, Fiske                  | A01 - A03      |
+| SekundÃ¦rnÃ¦ringer   | Industri, Gruvevirksomhet                   | B - E          |
+| TertiÃ¦rnÃ¦ringer    | Tjenester, Handel, Transport                | F - U          |
 
-![Oversikt over næringssektorer](primarnaring-illustrasjon.svg)
+![Oversikt over nÃ¦ringssektorer](primarnaring-illustrasjon.svg)
 
-## Særordninger og rapporteringskrav
+## SÃ¦rordninger og rapporteringskrav
 
-Primærnæringer har flere særordninger og krav i regnskap og skatt:
+PrimÃ¦rnÃ¦ringer har flere sÃ¦rordninger og krav i regnskap og skatt:
 
-1.  **Spesielle skjemaer:** Næringsoppgave for primærnæringer (N2/N3) med egne vedlegg.
-2.  **Biologiske eiendeler:** Levende dyr, planter og avlinger må verdivurderes særskilt.
-3.  **Sesongvariabilitet:** Periodisering av inntekter og kostnader krever tilpassede metoder, som [tømmerkonto](/blogs/regnskap/hva-er-tommerkonto "Hva er Tømmerkonto? Inntektsutjevning i Skogbruk").
-4.  **Subsidier og tilskudd:** Offentlige tilskudd påvirker grunnlag for skattemessige fradrag, inkludert [jordbruksfradrag](/blogs/regnskap/hva-er-jordbruksfradrag "Hva er Jordbruksfradrag? Komplett Guide til Skattefradrag i Landbruket").
+1.  **Spesielle skjemaer:** NÃ¦ringsoppgave for primÃ¦rnÃ¦ringer (N2/N3) med egne vedlegg.
+2.  **Biologiske eiendeler:** Levende dyr, planter og avlinger mÃ¥ verdivurderes sÃ¦rskilt.
+3.  **Sesongvariabilitet:** Periodisering av inntekter og kostnader krever tilpassede metoder, som [tÃ¸mmerkonto](/blogs/regnskap/hva-er-tommerkonto "Hva er TÃ¸mmerkonto? Inntektsutjevning i Skogbruk").
+4.  **Subsidier og tilskudd:** Offentlige tilskudd pÃ¥virker grunnlag for skattemessige fradrag, inkludert [jordbruksfradrag](/blogs/regnskap/hva-er-jordbruksfradrag "Hva er Jordbruksfradrag? Komplett Guide til Skattefradrag i Landbruket").
 
 ## Merverdiavgift (MVA)
 
-Primærnæringer har høyere omsetningsgrense for MVA-plikt:
+PrimÃ¦rnÃ¦ringer har hÃ¸yere omsetningsgrense for MVA-plikt:
 
 | Virksomhetstype  | Omsetningsgrense | Registreringsplikt |
 |------------------|------------------|--------------------|
-| Primærnæringer   | 70 000 kr        | Obligatorisk       |
+| PrimÃ¦rnÃ¦ringer   | 70Â 000 kr        | Obligatorisk       |
 
-For mer om MVA-plikt i primærnæringer, se [Hva er Avgiftsplikt (MVA)?](/blogs/regnskap/hva-er-avgiftsplikt-mva "Hva er Avgiftsplikt (MVA)? Komplett Guide til Merverdiavgift i Norge").
+For mer om MVA-plikt i primÃ¦rnÃ¦ringer, se [Hva er Avgiftsplikt (MVA)?](/blogs/regnskap/hva-er-avgiftsplikt-mva "Hva er Avgiftsplikt (MVA)? Komplett Guide til Merverdiavgift i Norge").
 
-## Bokføringsplikt og forenklede regler
+## BokfÃ¸ringsplikt og forenklede regler
 
-Primærnæringer kan ha forenklede bokføringsregler ved lav omsetning og få transaksjoner, men må likevel oppfylle grunnleggende bokføringskrav:
+PrimÃ¦rnÃ¦ringer kan ha forenklede bokfÃ¸ringsregler ved lav omsetning og fÃ¥ transaksjoner, men mÃ¥ likevel oppfylle grunnleggende bokfÃ¸ringskrav:
 
 | Kriterium         | Krav                         |
 |-------------------|------------------------------|
@@ -64,8 +62,8 @@ Primærnæringer kan ha forenklede bokføringsregler ved lav omsetning og få tr
 | Dokumentasjon     | Bilag for alle transaksjoner |
 | Rapportering      | Landbruksdirektoratet ved behov |
 
-Se [Hva er bokføringsplikt?](/blogs/regnskap/hva-er-bokforingsplikt "Hva er Bokføringsplikt? Komplett Guide til Bokføringsplikt i Norge") for detaljer om bokføringsplikt i primærnæringer.
+Se [Hva er bokfÃ¸ringsplikt?](/blogs/regnskap/hva-er-bokforingsplikt "Hva er BokfÃ¸ringsplikt? Komplett Guide til BokfÃ¸ringsplikt i Norge") for detaljer om bokfÃ¸ringsplikt i primÃ¦rnÃ¦ringer.
 
 ## Oppsummering
 
-Primærnæringer er grunnsteinen i økonomien, men krever særskilt oppmerksomhet i regnskap og skatt på grunn av naturressurser, sesongvariasjoner og egne støtteordninger. Ved å følge de spesielle reglene for rapportering og verdivurdering, kan primærnæringer sikre korrekt regnskapsførsel og skattemessig behandling.
+PrimÃ¦rnÃ¦ringer er grunnsteinen i Ã¸konomien, men krever sÃ¦rskilt oppmerksomhet i regnskap og skatt pÃ¥ grunn av naturressurser, sesongvariasjoner og egne stÃ¸tteordninger. Ved Ã¥ fÃ¸lge de spesielle reglene for rapportering og verdivurdering, kan primÃ¦rnÃ¦ringer sikre korrekt regnskapsfÃ¸rsel og skattemessig behandling.

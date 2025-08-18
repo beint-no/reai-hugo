@@ -1,7 +1,7 @@
 ﻿---
 title: "4230-innkjop-ferdig-egentilvirkede-varer-middels-sats"
 meta_title: "4230-innkjop-ferdig-egentilvirkede-varer-middels-sats"
-meta_description: "**Konto 4230 - InnkjÃ¸p ferdig egentilvirkede varer middels sats** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kjÃ¸p av ferdige egenti..."
+meta_description: '**Konto 4230 - InnkjÃ¸p ferdig egentilvirkede varer middels sats** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kjÃ¸p av ferdige egenti...'
 slug: 4230-innkjop-ferdig-egentilvirkede-varer-middels-sats
 type: blog
 layout: pages/single

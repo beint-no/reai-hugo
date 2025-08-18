@@ -1,7 +1,7 @@
 ﻿---
 title: "8940-aksjonaerbidrag"
 meta_title: "8940-aksjonaerbidrag"
-meta_description: "**Konto 8940 - AksjonÃ¦rbidrag** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **aksjonÃ¦rbidrag** mellom selskap og aksjonÃ¦r."
+meta_description: '**Konto 8940 - AksjonÃ¦rbidrag** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **aksjonÃ¦rbidrag** mellom selskap og aksjonÃ¦r.'
 slug: 8940-aksjonaerbidrag
 type: blog
 layout: pages/single

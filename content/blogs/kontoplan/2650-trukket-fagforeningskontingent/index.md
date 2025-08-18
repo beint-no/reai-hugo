@@ -1,7 +1,7 @@
 ﻿---
 title: "2650-trukket-fagforeningskontingent"
 meta_title: "2650-trukket-fagforeningskontingent"
-meta_description: "**Konto 2650 - Trukket fagforeningskontingent** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ vise **fagforeningskontingent** som er trukket fra ansa..."
+meta_description: '**Konto 2650 - Trukket fagforeningskontingent** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ vise **fagforeningskontingent** som er trukket fra ansa...'
 slug: 2650-trukket-fagforeningskontingent
 type: blog
 layout: pages/single

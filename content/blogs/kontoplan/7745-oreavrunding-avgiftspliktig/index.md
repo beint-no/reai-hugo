@@ -1,7 +1,7 @@
 ﻿---
 title: "7745-oreavrunding-avgiftspliktig"
 meta_title: "7745-oreavrunding-avgiftspliktig"
-meta_description: "**Konto 7745 - Ã˜reavrunding, avgiftspliktig** er en konto i **Norsk Standard Kontoplan** som brukes til Ã¥ bokfÃ¸re **Ã¸reavrunding** ved **avgiftspliktige tra..."
+meta_description: '**Konto 7745 - Ã˜reavrunding, avgiftspliktig** er en konto i **Norsk Standard Kontoplan** som brukes til Ã¥ bokfÃ¸re **Ã¸reavrunding** ved **avgiftspliktige tra...'
 slug: 7745-oreavrunding-avgiftspliktig
 type: blog
 layout: pages/single

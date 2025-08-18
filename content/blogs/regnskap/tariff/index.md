@@ -1,25 +1,23 @@
----
+﻿---
 title: "Tariff"
-summary: "En omfattende guide til tariff i norsk regnskap, inkludert definisjon av tariffavtaler, betydning for lønn, allmenngjøring og dokumentasjonskrav."
-description: "Lær alt om tariff i norsk regnskap, inklusive tariffavtaler, allmenngjøring, og betydning for lønnsnivå og arbeidsvilkår."
+meta_title: "Tariff"
+meta_description: '**Tariff** er et begrep som beskriver **kollektive avtaler** om lÃ¸nns- og arbeidsvilkÃ¥r for bestemte bransjer eller grupper av ansatte. Slike avtaler forhandl...'
 slug: tariff
-featured_image: tariff-image.svg
-featured_image_alt: "Tariff"
-url: "/blogs/regnskap/tariff/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
-**Tariff** er et begrep som beskriver **kollektive avtaler** om lønns- og arbeidsvilkår for bestemte bransjer eller grupper av ansatte. Slike avtaler forhandles vanligvis fram mellom arbeidsgiverforeninger og fagforeninger, og kan også allmenngjøres av staten.
+**Tariff** er et begrep som beskriver **kollektive avtaler** om lÃ¸nns- og arbeidsvilkÃ¥r for bestemte bransjer eller grupper av ansatte. Slike avtaler forhandles vanligvis fram mellom arbeidsgiverforeninger og fagforeninger, og kan ogsÃ¥ allmenngjÃ¸res av staten.
 
 ![Tariff](tariff-image.svg)
 
 ## Hva er en tariffavtale?
 
-Les mer om detaljert innhold, forhandlingsprosesser og **regnskapsmessige aspekter** i vår dedikerte artikkel om [tariffavtaler](/blogs/regnskap/tariffavtale "Hva er en Tariffavtale? En Komplett Guide til Tariffavtaler") i norsk regnskap.
+Les mer om detaljert innhold, forhandlingsprosesser og **regnskapsmessige aspekter** i vÃ¥r dedikerte artikkel om [tariffavtaler](/blogs/regnskap/tariffavtale "Hva er en Tariffavtale? En Komplett Guide til Tariffavtaler") i norsk regnskap.
 
 ## Typer tariffavtaler
 
-| Nivå                   | Omfang                        | Eksempel                          |
+| NivÃ¥                   | Omfang                        | Eksempel                          |
 |------------------------|-------------------------------|-----------------------------------|
 | Landsomfattende        | Hele bransjer eller sektorer  | [Fagforeninger](/blogs/regnskap/hva-er-fagforening "Hva er Fagforening? En Guide til Fagforening") |
 | Lokale avtaler         | Enkeltbedrifter eller regioner| Virksomhetstilpassede avtaler     |
@@ -29,28 +27,28 @@ Les mer om detaljert innhold, forhandlingsprosesser og **regnskapsmessige aspekt
 
 ![Tariffforhandlingsprosess](tariff-timeline.svg)
 
-Prosessen for tariffavtaler følger vanligvis flere steg:
+Prosessen for tariffavtaler fÃ¸lger vanligvis flere steg:
 
 1. **Forhandling** mellom partene
-2. **Godkjenning** i medlemsmøter
-3. **Allmenngjøring** ved vedtak i staten (dersom aktuelt)
+2. **Godkjenning** i medlemsmÃ¸ter
+3. **AllmenngjÃ¸ring** ved vedtak i staten (dersom aktuelt)
 4. **Implementering** i bedriftene
 
-## Relevans for regnskap og lønn
+## Relevans for regnskap og lÃ¸nn
 
-Tariffavtaler påvirker regnskapsføringen ved å fastsette hvilke satser som gjelder for lønn og ytelser. Du finner mer om hvordan **tariffavtaler** integreres i lønnsprosesser i [Hva er lønn?](/blogs/regnskap/hva-er-lonn "Hva er lønn? Komplett Guide til Lønn i Regnskap").
+Tariffavtaler pÃ¥virker regnskapsfÃ¸ringen ved Ã¥ fastsette hvilke satser som gjelder for lÃ¸nn og ytelser. Du finner mer om hvordan **tariffavtaler** integreres i lÃ¸nnsprosesser i [Hva er lÃ¸nn?](/blogs/regnskap/hva-er-lonn "Hva er lÃ¸nn? Komplett Guide til LÃ¸nn i Regnskap").
 
 ## Dokumentasjon og rapportering
 
-Ved bokføring av lønn og ytelser må bedriften dokumentere at gjeldende tariffavtaler er fulgt. Relevant dokumentasjon inkluderer:
+Ved bokfÃ¸ring av lÃ¸nn og ytelser mÃ¥ bedriften dokumentere at gjeldende tariffavtaler er fulgt. Relevant dokumentasjon inkluderer:
 
 * Kopi av gjeldende tariffavtaler
 * Protokoller fra forhandlinger og godkjenning
-* Referanse til allmenngjorte satser i [LOV-2019-06-28-58 om allmenngjøring av tariffavtaler](/blogs/regnskap/hva-er-allmenngjoringsloven "Hva er Allmenngjøringsloven?")
+* Referanse til allmenngjorte satser i [LOV-2019-06-28-58 om allmenngjÃ¸ring av tariffavtaler](/blogs/regnskap/hva-er-allmenngjoringsloven "Hva er AllmenngjÃ¸ringsloven?")
 
-## Se også
+## Se ogsÃ¥
 
 * [Ansiennitet](/blogs/regnskap/ansiennitet "Ansiennitet i Norsk Regnskap")
-* [Minstelønn](/blogs/regnskap/minstelonn "Minstelønn i Regnskap")
-* [Timelønn](/blogs/regnskap/hva-er-timelonn "Hva er Timelønn? Guide til Timelønn og Overtid")
-* [Feriepenger i prosent](/blogs/regnskap/feriepenger-i-prosent "Feriepenger i Prosent: Satser, Beregning og Regnskapsføring")
+* [MinstelÃ¸nn](/blogs/regnskap/minstelonn "MinstelÃ¸nn i Regnskap")
+* [TimelÃ¸nn](/blogs/regnskap/hva-er-timelonn "Hva er TimelÃ¸nn? Guide til TimelÃ¸nn og Overtid")
+* [Feriepenger i prosent](/blogs/regnskap/feriepenger-i-prosent "Feriepenger i Prosent: Satser, Beregning og RegnskapsfÃ¸ring")

@@ -1,7 +1,7 @@
 ﻿---
 title: "5800-refusjon-av-sykepenger"
 meta_title: "5800-refusjon-av-sykepenger"
-meta_description: "**Konto 5800 - Refusjon av sykepenger** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til Ã¥ registrere **refusjon av sykepenger** fra NAV so..."
+meta_description: '**Konto 5800 - Refusjon av sykepenger** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til Ã¥ registrere **refusjon av sykepenger** fra NAV so...'
 slug: 5800-refusjon-av-sykepenger
 type: blog
 layout: pages/single

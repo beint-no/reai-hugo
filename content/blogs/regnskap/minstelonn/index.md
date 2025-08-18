@@ -1,39 +1,37 @@
----
-title: "Minstelønn i Norge: Komplett Guide til Regnskap og Arbeidsgiverforpliktelser"
-summary: "Minstelønn er den laveste lønnen en arbeidsgiver kan betale en ansatt i Norge. Guide til regler, tariffavtaler og regnskapsføring."
-description: "Alt du trenger å vite om minstelønn i Norge - juridisk grunnlag, tariffavtaler, regnskapsføring og praktiske eksempler for bedrifter."
+﻿---
+title: "MinstelÃ¸nn i Norge: Komplett Guide til Regnskap og Arbeidsgiverforpliktelser"
+meta_title: "MinstelÃ¸nn i Norge: Komplett Guide til Regnskap og Arbeidsgiverforpliktelser"
+meta_description: '**MinstelÃ¸nn** er den laveste lÃ¸nnen en arbeidsgiver lovlig kan betale en ansatt per time, fastsatt av tariffavtaler eller lov. I Norge ivaretas kravet om min...'
 slug: minstelonn
-featured_image: minstelonn-image.svg
-featured_image_alt: "Illustrasjon av Minstelønn i Regnskap"
-url: "/blogs/regnskap/minstelonn/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
-**Minstelønn** er den laveste lønnen en arbeidsgiver lovlig kan betale en ansatt per time, fastsatt av tariffavtaler eller lov. I Norge ivaretas kravet om minstelønn gjennom regler i Arbeidsmiljøloven, tariffavtaler innen spesifikke bransjer og forskrifter. Kunnskap om **minstelønn** er viktig for både lønns- og personaladministrasjon samt [regnskapsføring](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? Komplett Guide til Regnskapsføring").
+**MinstelÃ¸nn** er den laveste lÃ¸nnen en arbeidsgiver lovlig kan betale en ansatt per time, fastsatt av tariffavtaler eller lov. I Norge ivaretas kravet om minstelÃ¸nn gjennom regler i ArbeidsmiljÃ¸loven, tariffavtaler innen spesifikke bransjer og forskrifter. Kunnskap om **minstelÃ¸nn** er viktig for bÃ¥de lÃ¸nns- og personaladministrasjon samt [regnskapsfÃ¸ring](/blogs/regnskap/hva-er-bokforing "Hva er BokfÃ¸ring? Komplett Guide til RegnskapsfÃ¸ring").
 
-![Minstelønn i Regnskap](minstelonn-image.svg)
+![MinstelÃ¸nn i Regnskap](minstelonn-image.svg)
 
-## Hva er minstelønn?
+## Hva er minstelÃ¸nn?
 
-Minstelønn defineres som den laveste satsen en arbeidstaker må motta per arbeidstime. Dersom en tariffavtale eller forskrift fastsetter minstelønn, kan ikke arbeidsgiver avtale en lavere lønn.
+MinstelÃ¸nn defineres som den laveste satsen en arbeidstaker mÃ¥ motta per arbeidstime. Dersom en tariffavtale eller forskrift fastsetter minstelÃ¸nn, kan ikke arbeidsgiver avtale en lavere lÃ¸nn.
 
-Økonomiske insentiver og lovkrav sikrer at ansatte får en **rettferdig** lønn, og at bedrifter tilfredsstiller sine **arbeidsrettslige forpliktelser**.
+Ã˜konomiske insentiver og lovkrav sikrer at ansatte fÃ¥r en **rettferdig** lÃ¸nn, og at bedrifter tilfredsstiller sine **arbeidsrettslige forpliktelser**.
 
 ## Juridisk grunnlag
 
-I Norge reguleres minstelønn primært gjennom:
+I Norge reguleres minstelÃ¸nn primÃ¦rt gjennom:
 
-* **Arbeidsmiljøloven** – Generelle krav til lønn og arbeidsvilkår
-* **Tariffavtaler** – Bransje- og virksomhetsspesifikke minstelønnssatser
-* **Forskrifter** – For enkelte sektorer (for eksempel renhold og bygg)
+* **ArbeidsmiljÃ¸loven** â€“ Generelle krav til lÃ¸nn og arbeidsvilkÃ¥r
+* **Tariffavtaler** â€“ Bransje- og virksomhetsspesifikke minstelÃ¸nnssatser
+* **Forskrifter** â€“ For enkelte sektorer (for eksempel renhold og bygg)
 
-Det er arbeidsgivers ansvar å holde seg oppdatert på gjeldende minstelønnssatser og sørge for korrekt lønnsutbetaling.
+Det er arbeidsgivers ansvar Ã¥ holde seg oppdatert pÃ¥ gjeldende minstelÃ¸nnssatser og sÃ¸rge for korrekt lÃ¸nnsutbetaling.
 
-## Minstelønn per bransje og tariffavtale
+## MinstelÃ¸nn per bransje og tariffavtale
 
-Under følger eksempler på minstelønnssatser i utvalgte bransjer (NOK per time):
+Under fÃ¸lger eksempler pÃ¥ minstelÃ¸nnssatser i utvalgte bransjer (NOK per time):
 
-| Bransje / avtale         | Minstelønn (NOK/time) |
+| Bransje / avtale         | MinstelÃ¸nn (NOK/time) |
 |--------------------------|-----------------------|
 | Hotell og Restaurant     | 172                   |
 | Bygg- og anlegg          | 190                   |
@@ -43,23 +41,23 @@ Under følger eksempler på minstelønnssatser i utvalgte bransjer (NOK per time
 
 Tabellen over er kun eksempler. Se alltid gjeldende tariffavtale for eksakte satser.
 
-## Praktisk regnskapsføring
+## Praktisk regnskapsfÃ¸ring
 
-For bedriftens regnskap behandles utbetalinger av minstelønn som en del av lønnskostnadene. Ved periodisering og bokføring må du inkludere:
+For bedriftens regnskap behandles utbetalinger av minstelÃ¸nn som en del av lÃ¸nnskostnadene. Ved periodisering og bokfÃ¸ring mÃ¥ du inkludere:
 
-* **Bruttolønn** (inkludert alle tillegg til minstelønn)
+* **BruttolÃ¸nn** (inkludert alle tillegg til minstelÃ¸nn)
 * **Arbeidsgiveravgift** (standard satser per sone)
-* **Feriepenger** (beregnet av opptjent lønn)
+* **Feriepenger** (beregnet av opptjent lÃ¸nn)
 
-Korrekt dokumentasjon og internkontroll er vesentlig for å sikre etterlevelse av både bokføringsloven og arbeidsmiljøloven.
+Korrekt dokumentasjon og internkontroll er vesentlig for Ã¥ sikre etterlevelse av bÃ¥de bokfÃ¸ringsloven og arbeidsmiljÃ¸loven.
 
-## Vanlige spørsmål om minstelønn
+## Vanlige spÃ¸rsmÃ¥l om minstelÃ¸nn
 
-**Er minstelønn lovfestet i Norge?**
-Nei, Norge har ikke generell lovfestet minstelønn, men mange tariffavtaler og forskrifter fastsetter minstelønnssatser.
+**Er minstelÃ¸nn lovfestet i Norge?**
+Nei, Norge har ikke generell lovfestet minstelÃ¸nn, men mange tariffavtaler og forskrifter fastsetter minstelÃ¸nnssatser.
 
-**Hva skjer ved brudd på minstelønnskrav?**
-Arbeidstilsynet kan ilegge pålegg eller gebyrer hvis arbeidsgiver ikke overholder minstelønnssatser.
+**Hva skjer ved brudd pÃ¥ minstelÃ¸nnskrav?**
+Arbeidstilsynet kan ilegge pÃ¥legg eller gebyrer hvis arbeidsgiver ikke overholder minstelÃ¸nnssatser.
 
-**Hvordan finner jeg gjeldende minstelønnssatser?**
+**Hvordan finner jeg gjeldende minstelÃ¸nnssatser?**
 Kontakt relevant fagforening eller arbeidsgiverorganisasjon, eller se gjeldende tariffavtale for din bransje.

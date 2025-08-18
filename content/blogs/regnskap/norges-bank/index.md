@@ -1,58 +1,56 @@
----
+﻿---
 title: "Norges Bank"
-summary: "Denne artikkelen gir en grundig oversikt over Norges Bank, Norges sentralbank. Vi dekker historisk utvikling, hovedoppgaver som inflasjonsmål, styringsrente, valutareserver og banknoteutstedelse, samt betydningen for regnskapsføring i norske virksomheter."
-description: "Lær om Norges Bank, Norges sentralbank. Forstå historikk, hovedoppgaver som inflasjonsmål, styringsrente, valutareserver og banknoteutstedelse, samt betydningen for regnskapsføring i norske virksomheter."
+meta_title: "Norges Bank"
+meta_description: '**Norges Bank** er **Norges sentralbank** og ansvarlig for Ã¥ gjennomfÃ¸re pengepolitikken, utstede norske kroner, forvalte valutareserver og sikre finansiell s...'
 slug: norges-bank
-featured_image: norges-bank-image.svg
-featured_image_alt: "Norges Bank"
-url: "/blogs/regnskap/norges-bank/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
-**Norges Bank** er **Norges sentralbank** og ansvarlig for å gjennomføre pengepolitikken, utstede norske kroner, forvalte valutareserver og sikre finansiell stabilitet. Banken spiller en sentral rolle i norsk økonomi og påvirker både renter, inflasjon og rammebetingelsene for norske virksomheters regnskapsføring.
+**Norges Bank** er **Norges sentralbank** og ansvarlig for Ã¥ gjennomfÃ¸re pengepolitikken, utstede norske kroner, forvalte valutareserver og sikre finansiell stabilitet. Banken spiller en sentral rolle i norsk Ã¸konomi og pÃ¥virker bÃ¥de renter, inflasjon og rammebetingelsene for norske virksomheters regnskapsfÃ¸ring.
 
 ![Illustrasjon av Norges Bank](norges-bank-image.svg)
 
 ## Historisk utvikling
 
-Norges Bank ble etablert i **1816** for å stabilisere valutaen og fremme økonomisk vekst i Norge. Under følger noen viktige milepæler:
+Norges Bank ble etablert i **1816** for Ã¥ stabilisere valutaen og fremme Ã¸konomisk vekst i Norge. Under fÃ¸lger noen viktige milepÃ¦ler:
 
-| År    | Milepæl                                                                 |
+| Ã…r    | MilepÃ¦l                                                                 |
 |-------|-------------------------------------------------------------------------|
 | 1816  | Norges Bank grunnlagt                                                    |
-| 1905  | Overgang til norsk valuta etter unionens oppløsning                      |
-| 1985  | Fullt inflasjonsmål innført                                              |
-| 2001  | Målet om **2 % inflasjon** formelt vedtatt for fleksibel inflasjonsstyring |
+| 1905  | Overgang til norsk valuta etter unionens opplÃ¸sning                      |
+| 1985  | Fullt inflasjonsmÃ¥l innfÃ¸rt                                              |
+| 2001  | MÃ¥let om **2â€¯% inflasjon** formelt vedtatt for fleksibel inflasjonsstyring |
 | 2016  | Digitalisering av betalingsinfrastruktur                                 |
 
 ## Hovedoppgaver
 
-Norges Banks primære oppgaver omfatter:
+Norges Banks primÃ¦re oppgaver omfatter:
 
-* **Pengepolitikk:** Fastsette [styringsrenten](/blogs/regnskap/styringsrente "Hva er Styringsrente? Komplett Guide til Norges Bank sin Styringsrente") for å nå inflasjonsmålet på 2 % (se [Hva er inflasjon?](/blogs/regnskap/hva-er-inflasjon "Hva er inflasjon? En guide til pengepolitikk og styringsrente"))  
+* **Pengepolitikk:** Fastsette [styringsrenten](/blogs/regnskap/styringsrente "Hva er Styringsrente? Komplett Guide til Norges Bank sin Styringsrente") for Ã¥ nÃ¥ inflasjonsmÃ¥let pÃ¥ 2â€¯% (se [Hva er inflasjon?](/blogs/regnskap/hva-er-inflasjon "Hva er inflasjon? En guide til pengepolitikk og styringsrente"))  
 * **Valutareserver:** Forvalte Norges valutareserver og stabilisere valutakursen  
-* **Banknoteutstedelse:** Utstede og sikre pålitelighet i norske kroner  
-* **Finansiell stabilitet:** Overvåke banksystemet og håndtere systemrisiko  
+* **Banknoteutstedelse:** Utstede og sikre pÃ¥litelighet i norske kroner  
+* **Finansiell stabilitet:** OvervÃ¥ke banksystemet og hÃ¥ndtere systemrisiko  
 
 | Oppgave               | Beskrivelse                                                                             |
 |-----------------------|-----------------------------------------------------------------------------------------|
-| Inflasjonsstyring     | Mål: 2 % årlig inflasjon, bruk av styringsrente                                         |
-| Valutareserver        | Overvåkning av valutafond, valutaintervensjoner                                         |
-| Betalingssystem       | Drift av **NBO** (Norges Banks Oppgjørssystem)                                          |
-| Utlån til banker      | Låne fasiliteter for likviditetsstyring                                                  |
+| Inflasjonsstyring     | MÃ¥l: 2â€¯% Ã¥rlig inflasjon, bruk av styringsrente                                         |
+| Valutareserver        | OvervÃ¥kning av valutafond, valutaintervensjoner                                         |
+| Betalingssystem       | Drift av **NBO** (Norges Banks OppgjÃ¸rssystem)                                          |
+| UtlÃ¥n til banker      | LÃ¥ne fasiliteter for likviditetsstyring                                                  |
 
-## Rolle i norsk økonomi og regnskap
+## Rolle i norsk Ã¸konomi og regnskap
 
-Norges Banks beslutninger påvirker nøkkelparametere i regnskapsrapporteringen:
+Norges Banks beslutninger pÃ¥virker nÃ¸kkelparametere i regnskapsrapporteringen:
 
-1. **Renteinntekter og -kostnader:** Endringer i styringsrenten påvirker [finansinntekt](/blogs/regnskap/finansinntekt "Finansinntekt – Renter, utbytte og kapitalgevinster i norsk regnskap") og rentekostnader i resultatregnskapet.  
-2. **Balanseføring av valuta:** Virksomheter med utenlandsk virksomhet må vurdere valutakurser mot NOK, som påvirkes av sentralbankens valutapolitikk.  
-3. **NIBOR og andre referanserenter:** Styringsrenten gir føringer for [NIBOR](/blogs/regnskap/nibor "NIBOR – Norsk Interbank Offered Rate") og andre markedsrenter.  
-4. **Betalingsinfrastruktur:** Bedrifter bruker Norges Banks systemer for oppgjør, inkl. i [bankavstemming](/blogs/regnskap/hva-er-bankavstemming "Hva er bankavstemming? Guide til avstemming av kontoer").
+1. **Renteinntekter og -kostnader:** Endringer i styringsrenten pÃ¥virker [finansinntekt](/blogs/regnskap/finansinntekt "Finansinntekt â€“ Renter, utbytte og kapitalgevinster i norsk regnskap") og rentekostnader i resultatregnskapet.  
+2. **BalansefÃ¸ring av valuta:** Virksomheter med utenlandsk virksomhet mÃ¥ vurdere valutakurser mot NOK, som pÃ¥virkes av sentralbankens valutapolitikk.  
+3. **NIBOR og andre referanserenter:** Styringsrenten gir fÃ¸ringer for [NIBOR](/blogs/regnskap/nibor "NIBOR â€“ Norsk Interbank Offered Rate") og andre markedsrenter.  
+4. **Betalingsinfrastruktur:** Bedrifter bruker Norges Banks systemer for oppgjÃ¸r, inkl. i [bankavstemming](/blogs/regnskap/hva-er-bankavstemming "Hva er bankavstemming? Guide til avstemming av kontoer").
 
 ## Videre lesning
 
 * [Hva er inflasjon?](/blogs/regnskap/hva-er-inflasjon "Hva er inflasjon? En guide til pengepolitikk og styringsrente")  
-* [NIBOR](/blogs/regnskap/nibor "NIBOR – Norsk Interbank Offered Rate")  
-* [Finansinntekt](/blogs/regnskap/finansinntekt "Finansinntekt – Renter, utbytte og kapitalgevinster i norsk regnskap")  
+* [NIBOR](/blogs/regnskap/nibor "NIBOR â€“ Norsk Interbank Offered Rate")  
+* [Finansinntekt](/blogs/regnskap/finansinntekt "Finansinntekt â€“ Renter, utbytte og kapitalgevinster i norsk regnskap")  
 * [Regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Dybdeanalyse for Norge")

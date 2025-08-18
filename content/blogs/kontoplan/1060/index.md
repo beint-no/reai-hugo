@@ -1,7 +1,7 @@
 ﻿---
 title: "1060"
 meta_title: "1060"
-meta_description: "**Konto 1060 - Andre rettigheter** er en viktig konto i norsk kontoplan som anvendes for Ã¥ registrere [immaterielle eiendeler](/blogs/regnskap/hva-er-imateriel..."
+meta_description: '**Konto 1060 - Andre rettigheter** er en viktig konto i norsk kontoplan som anvendes for Ã¥ registrere [immaterielle eiendeler](/blogs/regnskap/hva-er-imateriel...'
 slug: 1060
 type: blog
 layout: pages/single

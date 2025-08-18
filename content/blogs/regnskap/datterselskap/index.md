@@ -1,25 +1,23 @@
----
+﻿---
 title: "Hva er Datterselskap?"
-summary: "En omfattende guide til datterselskap, selskap under kontroll av et morselskap, inkludert typer, juridiske definisjoner, regnskapsmessige konsekvenser og internkonsernbehandling."
-description: "Lær alt om datterselskap, definisjon, juridisk rammeverk og regnskapsmessig behandling i norske konsern. Praktiske eksempler og beste praksis."
+meta_title: "Hva er Datterselskap?"
+meta_description: '**Datterselskap** er et selskap som er kontrollert av et [morselskap](/blogs/regnskap/hva-er-morselskap "Hva er et Morselskap? Komplett Guide til Morselskap og ...'
 slug: datterselskap
-featured_image: datterselskap-image.svg
-featured_image_alt: "Illustrasjon av datterselskap og konsernstruktur"
-url: "/blogs/regnskap/datterselskap/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
-**Datterselskap** er et selskap som er kontrollert av et [morselskap](/blogs/regnskap/hva-er-morselskap "Hva er et Morselskap? Komplett Guide til Morselskap og Konsernledelse"). I en [konsernstruktur](/blogs/regnskap/hva-er-konsern "Hva er et Konsern? Komplett Guide til Konsernstrukturer og Konsolidering") er datterselskapene de selskapene som står under morselskapets bestemmende innflytelse. Dette har viktige juridiske og regnskapsmessige konsekvenser for både morselskapet og konsernet som helhet.
+**Datterselskap** er et selskap som er kontrollert av et [morselskap](/blogs/regnskap/hva-er-morselskap "Hva er et Morselskap? Komplett Guide til Morselskap og Konsernledelse"). I en [konsernstruktur](/blogs/regnskap/hva-er-konsern "Hva er et Konsern? Komplett Guide til Konsernstrukturer og Konsolidering") er datterselskapene de selskapene som stÃ¥r under morselskapets bestemmende innflytelse. Dette har viktige juridiske og regnskapsmessige konsekvenser for bÃ¥de morselskapet og konsernet som helhet.
 
 ![Illustrasjon av datterselskap i en konsernstruktur](datterselskap-image.svg)
 
 ## Definisjon av Datterselskap
 
-Et datterselskap defineres i **aksjeloven** § 1-3 som et selskap der et annet selskap (morselskapet) har **bestemmende innflytelse**, vanligvis ved å eie mer enn **50% av stemmene**. I norsk regnskapslovgivning innebærer dette at datterselskapet inngår i morselskapets konsernregnskap.
+Et datterselskap defineres i **aksjeloven** Â§ 1-3 som et selskap der et annet selskap (morselskapet) har **bestemmende innflytelse**, vanligvis ved Ã¥ eie mer enn **50% av stemmene**. I norsk regnskapslovgivning innebÃ¦rer dette at datterselskapet inngÃ¥r i morselskapets konsernregnskap.
 
 ### Juridisk rammeverk
 
-Datterselskaper må følge **aksjeloven** og **regnskapsloven**, og morselskapet har en rekke plikter og rettigheter knyttet til konsernstyring og internkontroll. Se også vår guide til [aksjeloven](/blogs/regnskap/hva-er-aksjeloven "Hva er Aksjeloven? Komplett Guide til Aksjeloven og Regnskapsregler") for detaljer.
+Datterselskaper mÃ¥ fÃ¸lge **aksjeloven** og **regnskapsloven**, og morselskapet har en rekke plikter og rettigheter knyttet til konsernstyring og internkontroll. Se ogsÃ¥ vÃ¥r guide til [aksjeloven](/blogs/regnskap/hva-er-aksjeloven "Hva er Aksjeloven? Komplett Guide til Aksjeloven og Regnskapsregler") for detaljer.
 
 ## Typer av Datterselskap
 
@@ -27,7 +25,7 @@ Datterselskaper må følge **aksjeloven** og **regnskapsloven**, og morselskapet
 |----------------------------|---------------------------------------------------------------------------------|
 | Operasjonelt datterselskap | Datterselskap med egen drift, ansatte og egne inntekter, men styrt av morselskapet. |
 | Holdingselskap             | Rent investeringsselskap uten operasjonell virksomhet; eier aksjer i andre selskaper. |
-| Felleskontrollert selskap  | Joint venture med delt kontroll, ofte regulert gjennom aksjonæravtale.           |
+| Felleskontrollert selskap  | Joint venture med delt kontroll, ofte regulert gjennom aksjonÃ¦ravtale.           |
 
 ## Kontrollkriterier
 
@@ -37,11 +35,11 @@ Datterselskaper må følge **aksjeloven** og **regnskapsloven**, og morselskapet
 
 ## Regnskapsmessig behandling
 
-Morselskapet må konsolidere datterselskapets regnskap i konsernregnskapet. Konsolidering kan innebære:
+Morselskapet mÃ¥ konsolidere datterselskapets regnskap i konsernregnskapet. Konsolidering kan innebÃ¦re:
 
 1. **Full konsolidering**: 100% av datterselskapets balanse og resultat inkluderes, med justeringer for minoritetsinteresser.
 2. **Egenkapitalmetoden**: Brukes for tilknyttede selskaper der kontroll ikke er absolutt.
-3. **Kostmetoden**: Enkel bokføring av investering som en eiendel til anskaffelseskost.
+3. **Kostmetoden**: Enkel bokfÃ¸ring av investering som en eiendel til anskaffelseskost.
 
 ## Fordeler og utfordringer
 
@@ -49,21 +47,21 @@ Morselskapet må konsolidere datterselskapets regnskap i konsernregnskapet. Kons
 
 * **Styrket kontroll** over virksomhetens filialer.
 * **Skalerbarhet** og mulighet for diversifisering.
-* **Skjerming av risiko** mellom ulike forretningsområder.
+* **Skjerming av risiko** mellom ulike forretningsomrÃ¥der.
 
 ### Utfordringer
 
 * **Kompleksitet** i konsernregnskap og skatt.
-* **Rapporteringskrav** og økte krav til internkontroll.
+* **Rapporteringskrav** og Ã¸kte krav til internkontroll.
 * **Minoritetseierskap** som kan begrense beslutningsfriheten.
 
 ## Intern konsernbehandling
 
-For planlagte oppkjøp av et nytt datterselskap er **due diligence** en kritisk prosess for å identifisere og evaluere risiko knyttet til regnskap, skatt, juridiske forhold og drift. Se vår [guide til Due diligence](/blogs/regnskap/due-diligence "Due diligence i Norske Oppkjøp: Prosess, Metodikk og Beste Praksis") for en detaljert gjennomgang.
+For planlagte oppkjÃ¸p av et nytt datterselskap er **due diligence** en kritisk prosess for Ã¥ identifisere og evaluere risiko knyttet til regnskap, skatt, juridiske forhold og drift. Se vÃ¥r [guide til Due diligence](/blogs/regnskap/due-diligence "Due diligence i Norske OppkjÃ¸p: Prosess, Metodikk og Beste Praksis") for en detaljert gjennomgang.
 
-For intern handel mellom morselskap og datterselskap må man håndtere **internprising**, **konsernbidrag** og **mellomværende**. Feil i internkonteringen kan påvirke både skatteposisjon og konsernresultat.
+For intern handel mellom morselskap og datterselskap mÃ¥ man hÃ¥ndtere **internprising**, **konsernbidrag** og **mellomvÃ¦rende**. Feil i internkonteringen kan pÃ¥virke bÃ¥de skatteposisjon og konsernresultat.
 
-Se også vår guide til [konsernbidrag](/blogs/regnskap/hva-er-konsernbidrag "Hva er Konsernbidrag? Komplett Guide til Skatte- og Regnskapsbehandling").
+Se ogsÃ¥ vÃ¥r guide til [konsernbidrag](/blogs/regnskap/hva-er-konsernbidrag "Hva er Konsernbidrag? Komplett Guide til Skatte- og Regnskapsbehandling").
 
 ---
 

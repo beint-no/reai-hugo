@@ -1,69 +1,67 @@
----
+﻿---
 title: "Egenkapitalmetoden"
-summary: "En grundig guide til egenkapitalmetoden, metoden for regnskapsføring av investeringer i tilknyttede selskaper og felleskontrollert virksomhet, med praktiske eksempler og bokføring."
-description: "Lær alt om egenkapitalmetoden for regnskapsføring av investeringer i tilknyttede selskaper og felleskontrollert virksomhet. Praktiske eksempler, bokføring og regnskapsstandarder."
+meta_title: "Egenkapitalmetoden"
+meta_description: '**Egenkapitalmetoden** er en regnskapsmetode som benyttes for investeringer i tilknyttede selskaper og felleskontrollert virksomhet (joint ventures). Metoden gi...'
 slug: egenkapitalmetoden
-featured_image: egenkapitalmetoden-image.svg
-featured_image_alt: "Illustrasjon av Egenkapitalmetoden som regnskapskonsept"
-url: "/blogs/regnskap/egenkapitalmetoden/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
-**Egenkapitalmetoden** er en regnskapsmetode som benyttes for investeringer i tilknyttede selskaper og felleskontrollert virksomhet (joint ventures). Metoden gir et mer rettvisende bilde av investeringens verdi ved å reflektere investorens andel av resultat og egenkapital i målforetaket.
+**Egenkapitalmetoden** er en regnskapsmetode som benyttes for investeringer i tilknyttede selskaper og felleskontrollert virksomhet (joint ventures). Metoden gir et mer rettvisende bilde av investeringens verdi ved Ã¥ reflektere investorens andel av resultat og egenkapital i mÃ¥lforetaket.
 
 ![Illustrasjon som viser Egenkapitalmetoden](egenkapitalmetoden-image.svg)
 
 ## Hva er egenkapitalmetoden?
 
-Egenkapitalmetoden blir brukt når en investor har **betydelig innflytelse**, men ikke kontroll, over et annet foretak. Dette innebærer vanligvis en eierandel på mellom 20 % og 50 % av stemmerettighetene.
+Egenkapitalmetoden blir brukt nÃ¥r en investor har **betydelig innflytelse**, men ikke kontroll, over et annet foretak. Dette innebÃ¦rer vanligvis en eierandel pÃ¥ mellom 20â€¯% og 50â€¯% av stemmerettighetene.
 
 - **Betydelig innflytelse**: Investor deltar i beslutninger om finansiell og driftsmessig politikk.
 - **Ingen kontroll**: Investor styrer ikke foretakets overordnede retning.
 
-Metoden skiller seg fra [kostmetoden](/blogs/regnskap/hva-er-kostmetoden "Hva er Kostmetoden? Regnskapsføring av Investeringer med Kostpris") ved at investeringen måles i takt med målforetakets egenkapitalendringer.
+Metoden skiller seg fra [kostmetoden](/blogs/regnskap/hva-er-kostmetoden "Hva er Kostmetoden? RegnskapsfÃ¸ring av Investeringer med Kostpris") ved at investeringen mÃ¥les i takt med mÃ¥lforetakets egenkapitalendringer.
 
-## Når brukes egenkapitalmetoden?
+## NÃ¥r brukes egenkapitalmetoden?
 
 | Eierandel     | Betegnelse                      | Regnskapsmetode                |
 | ------------- | ------------------------------- | ------------------------------ |
-| < 20 %        | Minimal innflytelse             | Kostmetoden                    |
-| 20 %–50 %     | Betydelig innflytelse           | Egenkapitalmetoden             |
-| > 50 %        | Kontroll (konsern)              | Konsolidering                  |
+| < 20â€¯%        | Minimal innflytelse             | Kostmetoden                    |
+| 20â€¯%â€“50â€¯%     | Betydelig innflytelse           | Egenkapitalmetoden             |
+| > 50â€¯%        | Kontroll (konsern)              | Konsolidering                  |
 
-## Regnskapsføring med egenkapitalmetoden
+## RegnskapsfÃ¸ring med egenkapitalmetoden
 
-Regnskapsføringen deles i to hovedtrinn:
+RegnskapsfÃ¸ringen deles i to hovedtrinn:
 
-1. **Innledende innregning** – Investeringen innregnes til anskaffelseskost.
-2. **Etterfølgende måling** – Verdien justeres ved andel av målforetakets resultat og utbytte.
+1. **Innledende innregning** â€“ Investeringen innregnes til anskaffelseskost.
+2. **EtterfÃ¸lgende mÃ¥ling** â€“ Verdien justeres ved andel av mÃ¥lforetakets resultat og utbytte.
 
-### Etterfølgende måling
+### EtterfÃ¸lgende mÃ¥ling
 
-| Hendelse                                         | Bokføring i investorens regnskap           |
+| Hendelse                                         | BokfÃ¸ring i investorens regnskap           |
 | ------------------------------------------------- | ------------------------------------------ |
-| Andel av resultat i målforetaket                  | Øker investering (± Resultatandel)         |
-| Utbytte mottatt fra målforetaket                  | Reduserer investering (– Mottatt utbytte)  |
+| Andel av resultat i mÃ¥lforetaket                  | Ã˜ker investering (Â± Resultatandel)         |
+| Utbytte mottatt fra mÃ¥lforetaket                  | Reduserer investering (â€“ Mottatt utbytte)  |
 
-## Eksempel på bokføring
+## Eksempel pÃ¥ bokfÃ¸ring
 
-La oss anta at investor A eier 30 % av aksjene i selskap B. B oppnår et årsresultat på 1 000 000 NOK og utbetaler 200 000 NOK i utbytte.
+La oss anta at investor A eier 30â€¯% av aksjene i selskap B. B oppnÃ¥r et Ã¥rsresultat pÃ¥ 1â€¯000â€¯000â€¯NOK og utbetaler 200â€¯000â€¯NOK i utbytte.
 
 | Dato       | Konto                             | Debet (NOK)  | Kredit (NOK) |
 | ---------- | --------------------------------- | ------------ | ------------ |
-| 31.12 År 1 | Investering i tilknyttet selskap  | 300 000      |              |
-|            | Resultatandel tilknyttet selskap  |              | 300 000      |
+| 31.12 Ã…r 1 | Investering i tilknyttet selskap  | 300â€¯000      |              |
+|            | Resultatandel tilknyttet selskap  |              | 300â€¯000      |
 |            |                                   |              |              |
-| 20.01 År 2 | Bankkonto                         | 60 000       |              |
-|            | Investering i tilknyttet selskap  |              | 60 000       |
+| 20.01 Ã…r 2 | Bankkonto                         | 60â€¯000       |              |
+|            | Investering i tilknyttet selskap  |              | 60â€¯000       |
 
 **Forklaring:**
 
-- Årsresultat × 30 % = 1 000 000 × 0,30 = 300 000 NOK.
-- Utbytte × 30 % = 200 000 × 0,30 = 60 000 NOK.
+- Ã…rsresultat Ã— 30â€¯% = 1â€¯000â€¯000 Ã— 0,30 = 300â€¯000â€¯NOK.
+- Utbytte Ã— 30â€¯% = 200â€¯000 Ã— 0,30 = 60â€¯000â€¯NOK.
 
 ## Sammenligning med andre metoder
 
-| Metode             | Måling ved anskaffelse | Etterfølgende måling                      |
+| Metode             | MÃ¥ling ved anskaffelse | EtterfÃ¸lgende mÃ¥ling                      |
 | ------------------- | ---------------------- | ----------------------------------------- |
 | Kostmetode         | Kostpris               | Uendret (kun nedskrivning ved verdifall)  |
 | Egenkapitalmetoden  | Kostpris               | Justeres for andel av resultat og utbytte |
@@ -73,8 +71,8 @@ La oss anta at investor A eier 30 % av aksjene i selskap B. B oppnår et årsr
 
 Egenkapitalmetoden er beskrevet i:
 
-- **NRS 8** – Arbeidsgruppekontrollert virksomhet og tilknyttede foretak
-- **IFRS IAS 28** – Investments in Associates and Joint Ventures
+- **NRS 8** â€“ Arbeidsgruppekontrollert virksomhet og tilknyttede foretak
+- **IFRS IAS 28** â€“ Investments in Associates and Joint Ventures
 
 ## Fordeler og ulemper
 
@@ -85,13 +83,13 @@ Egenkapitalmetoden er beskrevet i:
 
 **Ulemper:**
 
-- Krever detaljert informasjon fra målforetaket
+- Krever detaljert informasjon fra mÃ¥lforetaket
 - Kan gi kompleks rapportering ved flere tilknytninger
 
 ## Relaterte artikler
 
 - [Hva er datterselskap?](/blogs/regnskap/hva-er-datterselskap "Hva er datterselskap? Forklaring av Kontroll og Konsernregnskap")
-- [Hva er investering?](/blogs/regnskap/hva-er-investere "Hva er å Investere? Komplett Guide til Investeringer i Regnskap")
+- [Hva er investering?](/blogs/regnskap/hva-er-investere "Hva er Ã¥ Investere? Komplett Guide til Investeringer i Regnskap")
 - [Hva er konsolidering?](/blogs/regnskap/hva-er-konsolidering "Hva er Konsolidering? Komplett Guide til Konsernregnskap")
 
 ***

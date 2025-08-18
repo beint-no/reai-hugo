@@ -1,7 +1,7 @@
 ﻿---
 title: "4390-beholdningsendring"
 meta_title: "4390-beholdningsendring"
-meta_description: "**Konto 4390 - Beholdningsendring** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **endringer i beholdningen av ferdige varer** i resultat..."
+meta_description: '**Konto 4390 - Beholdningsendring** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **endringer i beholdningen av ferdige varer** i resultat...'
 slug: 4390-beholdningsendring
 type: blog
 layout: pages/single

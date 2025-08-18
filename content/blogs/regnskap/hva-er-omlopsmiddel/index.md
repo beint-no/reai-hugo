@@ -1,120 +1,115 @@
----
-title: "Hva er omløpsmidler?"
-summary: |
-  En omfattende guide til omløpsmidler (kortsiktige eiendeler) i norsk regnskap. Artikkelen dekker alle typer omløpsmidler, likviditetsgrad, arbeidskapital, kontantstrømstyring og praktiske eksempler. Perfekt for å forstå hvordan omløpsmidler påvirker bedriftens likviditet og kortsiktige finansielle stilling.
-description: |
-  Lær alt om omløpsmidler (kortsiktige eiendeler) - kontanter, kundefordringer, varelager og kortsiktige investeringer. Inkluderer likviditetsanalyse, arbeidskapital og praktiske eksempler fra norsk regnskap.
+﻿---
+title: "Hva er omlÃ¸psmidler?"
+meta_title: "Hva er omlÃ¸psmidler?"
+meta_description: '**OmlÃ¸psmidler** er **kortsiktige [eiendeler](/blogs/regnskap/hva-er-eiendel "Hva er Eiendel i Regnskap? Komplett Guide til Eiendom og Verdier")** som en bedri...'
 slug: hva-er-omlopsmiddel
-featured_image: hva-er-omlopsmiddel-image.svg
-featured_image_alt: "Hva er omløpsmidler?"
-url: "/blogs/regnskap/hva-er-omlopsmiddel/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
+**OmlÃ¸psmidler** er **kortsiktige [eiendeler](/blogs/regnskap/hva-er-eiendel "Hva er Eiendel i Regnskap? Komplett Guide til Eiendom og Verdier")** som en bedrift forventer Ã¥ konvertere til kontanter, selge eller forbruke innen ett Ã¥r eller den normale driftssyklusen. Disse [eiendelene](/blogs/regnskap/hva-er-eiendel "Hva er Eiendel i Regnskap? Komplett Guide til Eiendom og Verdier") er avgjÃ¸rende for bedriftens **likviditet** og daglige drift. OmlÃ¸psmidler skiller seg fra [anleggsmidler](/blogs/regnskap/hva-er-anleggsmidler "Hva er Anleggsmidler? Komplett Guide til Faste Eiendeler i Regnskap") ved at de er ment for kortsiktig bruk og rask konvertering til kontanter.
 
-**Omløpsmidler** er **kortsiktige [eiendeler](/blogs/regnskap/hva-er-eiendel "Hva er Eiendel i Regnskap? Komplett Guide til Eiendom og Verdier")** som en bedrift forventer å konvertere til kontanter, selge eller forbruke innen ett år eller den normale driftssyklusen. Disse [eiendelene](/blogs/regnskap/hva-er-eiendel "Hva er Eiendel i Regnskap? Komplett Guide til Eiendom og Verdier") er avgjørende for bedriftens **likviditet** og daglige drift. Omløpsmidler skiller seg fra [anleggsmidler](/blogs/regnskap/hva-er-anleggsmidler "Hva er Anleggsmidler? Komplett Guide til Faste Eiendeler i Regnskap") ved at de er ment for kortsiktig bruk og rask konvertering til kontanter.
+OmlÃ¸psmidler er en kategori av [driftsmidler](/blogs/regnskap/driftsmidler "Driftsmidler â€“ Komplett guide til betydning, klassifisering og regnskapsbehandling").
 
-Omløpsmidler er en kategori av [driftsmidler](/blogs/regnskap/driftsmidler "Driftsmidler – Komplett guide til betydning, klassifisering og regnskapsbehandling").
-
-![Hva er omløpsmidler - oversikt](hva-er-omlopsmiddel-image.svg)
+![Hva er omlÃ¸psmidler - oversikt](hva-er-omlopsmiddel-image.svg)
 
 ## Seksjon 1: Definisjon og Karakteristika
 
 ### 1.1 Grunnleggende Definisjon
 
-Omløpsmidler defineres som **eiendeler som**:
+OmlÃ¸psmidler defineres som **eiendeler som**:
 
-* **Holdes for salg** i den ordinære forretningsdriften
+* **Holdes for salg** i den ordinÃ¦re forretningsdriften
 * **Holdes for produksjon** eller levering av varer og tjenester
 * **Holdes for handel** eller kortsiktige investeringer
-* **Forventes realisert innen ett år** eller den normale driftssyklusen
-* **Inkluderer kontanter og kontantekvivalenter** – se [likvide midler](/blogs/regnskap/hva-er-likvide-midler "Hva er likvide midler? Definisjon, Eksempler og Regnskapsføring").
+* **Forventes realisert innen ett Ã¥r** eller den normale driftssyklusen
+* **Inkluderer kontanter og kontantekvivalenter** â€“ se [likvide midler](/blogs/regnskap/hva-er-likvide-midler "Hva er likvide midler? Definisjon, Eksempler og RegnskapsfÃ¸ring").
 
-### 1.2 Kjennetegn ved Omløpsmidler
+### 1.2 Kjennetegn ved OmlÃ¸psmidler
 
-![Karakteristika ved omløpsmidler](omlopsmiddel-karakteristika.svg)
+![Karakteristika ved omlÃ¸psmidler](omlopsmiddel-karakteristika.svg)
 
-Omløpsmidler har flere distinkte egenskaper:
+OmlÃ¸psmidler har flere distinkte egenskaper:
 
-* **Kortsiktig karakter:** Realiseres innen 12 måneder
-* **Høy likviditet:** Lett konverterbare til kontanter
+* **Kortsiktig karakter:** Realiseres innen 12 mÃ¥neder
+* **HÃ¸y likviditet:** Lett konverterbare til kontanter
 * **Variabel verdi:** Kan svinge med markedsforhold
-* **Driftsnødvendige:** Essensielle for daglig drift
-* **Rask omsetning:** Hyppig kjøp og salg
+* **DriftsnÃ¸dvendige:** Essensielle for daglig drift
+* **Rask omsetning:** Hyppig kjÃ¸p og salg
 
-## Seksjon 2: Klassifisering av Omløpsmidler
+## Seksjon 2: Klassifisering av OmlÃ¸psmidler
 
-Omløpsmidler klassifiseres i fire hovedkategorier basert på deres likviditet og funksjon:
+OmlÃ¸psmidler klassifiseres i fire hovedkategorier basert pÃ¥ deres likviditet og funksjon:
 
-![Klassifisering av omløpsmidler](omlopsmiddel-klassifisering.svg)
+![Klassifisering av omlÃ¸psmidler](omlopsmiddel-klassifisering.svg)
 
 ### 2.1 Kontanter og Kontantekvivalenter
 
-**[Likvide midler](/blogs/regnskap/hva-er-likvide-midler "Hva er likvide midler? Definisjon, Eksempler og Regnskapsføring")** består av kontanter og kontantekvivalenter og er de mest likvide omløpsmidlene. De inkluderer [kassebeholdning](/blogs/regnskap/hva-er-kassebeholdning "Hva er Kassebeholdning? Guide til Kontanthåndtering i Regnskap") og [bankinnskudd](/blogs/regnskap/hva-er-bankinnskudd "Hva er Bankinnskudd? Typer, Renter og Regnskapsføring").
+**[Likvide midler](/blogs/regnskap/hva-er-likvide-midler "Hva er likvide midler? Definisjon, Eksempler og RegnskapsfÃ¸ring")** bestÃ¥r av kontanter og kontantekvivalenter og er de mest likvide omlÃ¸psmidlene. De inkluderer [kassebeholdning](/blogs/regnskap/hva-er-kassebeholdning "Hva er Kassebeholdning? Guide til KontanthÃ¥ndtering i Regnskap") og [bankinnskudd](/blogs/regnskap/hva-er-bankinnskudd "Hva er Bankinnskudd? Typer, Renter og RegnskapsfÃ¸ring").
 
 #### Kontanter
 
-* **[Kassebeholdning](/blogs/regnskap/hva-er-kassebeholdning "Hva er Kassebeholdning? Guide til Kontanthåndtering i Regnskap"):** Fysiske kontanter i kassen
-* **Småkasse:** Kontanter for mindre utgifter
+* **[Kassebeholdning](/blogs/regnskap/hva-er-kassebeholdning "Hva er Kassebeholdning? Guide til KontanthÃ¥ndtering i Regnskap"):** Fysiske kontanter i kassen
+* **SmÃ¥kasse:** Kontanter for mindre utgifter
 * **Vekslepenger:** Kontanter for daglig drift
 
 #### Bankinnskudd
 
 * **Brukskonti:** Daglige driftskonti
 * **Sparekonti:** Kortsiktige spareinnskudd
-* **Termininnskudd:** Innskudd med kort bindingstid (under 1 år)
+* **Termininnskudd:** Innskudd med kort bindingstid (under 1 Ã¥r)
 
 #### Kontantekvivalenter
 
-* **Pengemarkedsfond:** Høylikvide investeringer
+* **Pengemarkedsfond:** HÃ¸ylikvide investeringer
 * **Statskasseveksler:** Kortsiktige statspapirer
 * **Banksertifikater:** Kortsiktige bankinstrumenter
 
 ### 2.2 Kortsiktige Fordringer
 
-**Kortsiktige fordringer** representerer penger som andre skylder bedriften og som forventes innbetalt innen ett år.
+**Kortsiktige fordringer** representerer penger som andre skylder bedriften og som forventes innbetalt innen ett Ã¥r.
 
 ![Kortsiktige fordringer oversikt](kortsiktige-fordringer.svg)
 
 #### Kundefordringer
 
-**[Kundefordringer](/blogs/regnskap/hva-er-kundefordring "Hva er Kundefordring? Guide til Håndtering av Utestående Fakturaer")** er den største komponenten av kortsiktige fordringer:
+**[Kundefordringer](/blogs/regnskap/hva-er-kundefordring "Hva er Kundefordring? Guide til HÃ¥ndtering av UtestÃ¥ende Fakturaer")** er den stÃ¸rste komponenten av kortsiktige fordringer:
 
-* **Utestående fakturaer:** Solgte varer/tjenester ikke betalt
-* **Kredittsalg:** Salg på kreditt til kunder
-* **Avdrag:** Kortsiktige avdrag på langsiktige salg
+* **UtestÃ¥ende fakturaer:** Solgte varer/tjenester ikke betalt
+* **Kredittsalg:** Salg pÃ¥ kreditt til kunder
+* **Avdrag:** Kortsiktige avdrag pÃ¥ langsiktige salg
 
 #### Andre Fordringer
 
-* **Forskuddsbetalinger:** Betalinger til leverandører på forhånd
-* **Mva-refusjon:** Utestående merverdiavgift fra staten
-* **Ansattlån:** Kortsiktige lån til ansatte
-* **Forsikringserstatninger:** Utestående erstatninger
+* **Forskuddsbetalinger:** Betalinger til leverandÃ¸rer pÃ¥ forhÃ¥nd
+* **Mva-refusjon:** UtestÃ¥ende merverdiavgift fra staten
+* **AnsattlÃ¥n:** Kortsiktige lÃ¥n til ansatte
+* **Forsikringserstatninger:** UtestÃ¥ende erstatninger
 
-#### Påløpte Inntekter
+#### PÃ¥lÃ¸pte Inntekter
 
-* **Opptjente renter:** Renter ikke mottatt ennå
-* **Utført arbeid:** Arbeid utført men ikke fakturert
-* **Periodiserte inntekter:** Inntekter som tilhører perioden
+* **Opptjente renter:** Renter ikke mottatt ennÃ¥
+* **UtfÃ¸rt arbeid:** Arbeid utfÃ¸rt men ikke fakturert
+* **Periodiserte inntekter:** Inntekter som tilhÃ¸rer perioden
 
 ### 2.3 Varelager
 
-**[Varelager](/blogs/regnskap/hva-er-lagerbeholdning "Hva er Lagerbeholdning? Guide til Lagerføring og Verdivurdering")** representerer varer som holdes for salg eller produksjon.
+**[Varelager](/blogs/regnskap/hva-er-lagerbeholdning "Hva er Lagerbeholdning? Guide til LagerfÃ¸ring og Verdivurdering")** representerer varer som holdes for salg eller produksjon.
 
 ![Varelager komponenter](varelager-komponenter.svg)
 
 #### Handelsbedrifter
 
 * **Ferdigvarer:** Varer klare for salg
-* **Innkjøpte varer:** Varer kjøpt for videresalg gjennom [varekjøp](/blogs/regnskap/hva-er-varekjop "Hva er Varekjøp? Komplett Guide til Regnskapsføring og Innkjøpsstyring")
+* **InnkjÃ¸pte varer:** Varer kjÃ¸pt for videresalg gjennom [varekjÃ¸p](/blogs/regnskap/hva-er-varekjop "Hva er VarekjÃ¸p? Komplett Guide til RegnskapsfÃ¸ring og InnkjÃ¸psstyring")
 * **Sesongvarer:** Varer med sesongmessig salg
 
 #### Produksjonsbedrifter
 
-* **Råvarer:** Materialer for produksjon
+* **RÃ¥varer:** Materialer for produksjon
 * **Varer under arbeid:** Halvferdige produkter
-* **Ferdigvarer:** Fullførte produkter klare for salg
-* **Hjelpestoffer:** Materialer som støtter produksjonen
+* **Ferdigvarer:** FullfÃ¸rte produkter klare for salg
+* **Hjelpestoffer:** Materialer som stÃ¸tter produksjonen
 
 #### Tjenestebedrifter
 
@@ -128,44 +123,44 @@ Omløpsmidler klassifiseres i fire hovedkategorier basert på deres likviditet o
 
 #### Verdipapirer
 
-* **Aksjer:** Børsnoterte aksjer for kortsiktig handel
+* **Aksjer:** BÃ¸rsnoterte aksjer for kortsiktig handel
 * **[Obligasjoner](/blogs/regnskap/hva-er-obligasjon "Hva er Obligasjon? Guide til Obligasjoner og Rentepapirer"):** Kortsiktige rentepapirer
 * **Fond:** Aksjefond og rentefond
 
 #### Derivater
 
-* **Opsjoner:** Rettigheter til kjøp/salg
+* **Opsjoner:** Rettigheter til kjÃ¸p/salg
 * **Terminer:** Avtaler om fremtidig levering
 * **Valutakontrakter:** Sikring mot valutarisiko
 
-## Seksjon 3: Verdsettelse og Regnskapsføring
+## Seksjon 3: Verdsettelse og RegnskapsfÃ¸ring
 
 ### 3.1 Verdsettelsesprinsipper
 
-Omløpsmidler verdsettes etter **laveste verdis prinsipp**:
+OmlÃ¸psmidler verdsettes etter **laveste verdis prinsipp**:
 
-![Verdsettelse av omløpsmidler](omlopsmiddel-verdsettelse.svg)
+![Verdsettelse av omlÃ¸psmidler](omlopsmiddel-verdsettelse.svg)
 
-| Omløpsmiddeltype | Verdsettelsesgrunnlag | Eksempel |
+| OmlÃ¸psmiddeltype | Verdsettelsesgrunnlag | Eksempel |
 |:-----------------|:---------------------|:---------|
-| Kontanter | Pålydende verdi | 100.000 kr = 100.000 kr |
-| Kundefordringer | Pålydende minus tapsavsetning | 50.000 kr - 2.500 kr = 47.500 kr |
+| Kontanter | PÃ¥lydende verdi | 100.000 kr = 100.000 kr |
+| Kundefordringer | PÃ¥lydende minus tapsavsetning | 50.000 kr - 2.500 kr = 47.500 kr |
 | Varelager | Laveste av kost og netto salgspris | Kost 80.000 kr, salg 75.000 kr = 75.000 kr |
 | Kortsiktige investeringer | Laveste av kost og markedsverdi | Kost 60.000 kr, marked 55.000 kr = 55.000 kr |
 
 ### 3.2 Tapsavsetninger
 
-**Tapsavsetninger** må gjøres for forventede tap:
+**Tapsavsetninger** mÃ¥ gjÃ¸res for forventede tap:
 
 #### Kundefordringer
 
 * **Individuelle vurderinger:** Spesifikke kunder med betalingsproblemer
-* **Porteføljevurderinger:** Statistiske tap basert på historikk
-* **Aldersanalyse:** Økt tapsrisiko med økende alder
+* **PortefÃ¸ljevurderinger:** Statistiske tap basert pÃ¥ historikk
+* **Aldersanalyse:** Ã˜kt tapsrisiko med Ã¸kende alder
 
 **Eksempel tapsavsetning:**
 
-| Aldersgruppe | Beløp | Tapsprosent | Tapsavsetning |
+| Aldersgruppe | BelÃ¸p | Tapsprosent | Tapsavsetning |
 |:-------------|:------|:------------|:--------------|
 | 0-30 dager | 500.000 kr | 0,5% | 2.500 kr |
 | 31-60 dager | 200.000 kr | 2% | 4.000 kr |
@@ -181,23 +176,23 @@ Omløpsmidler verdsettes etter **laveste verdis prinsipp**:
 
 ### 3.3 Periodisering
 
-**Periodisering** sikrer at omløpsmidler føres i riktig periode:
+**Periodisering** sikrer at omlÃ¸psmidler fÃ¸res i riktig periode:
 
-* **Påløpte inntekter:** Inntekter opptjent men ikke mottatt
-* **Forskuddsbetalte kostnader:** Kostnader betalt på forhånd
+* **PÃ¥lÃ¸pte inntekter:** Inntekter opptjent men ikke mottatt
+* **Forskuddsbetalte kostnader:** Kostnader betalt pÃ¥ forhÃ¥nd
 * **Periodeavgrensninger:** Korrekt fordeling mellom perioder
 
 ## Seksjon 4: Likviditetsanalyse
 
 ### 4.1 Likviditetsgrader
 
-**Likviditetsgrader** måler bedriftens evne til å dekke kortsiktige forpliktelser:
+**Likviditetsgrader** mÃ¥ler bedriftens evne til Ã¥ dekke kortsiktige forpliktelser:
 
 ![Likviditetsgrader beregning](likviditetsgrader-beregning.svg)
 
-#### Likviditetsgrad 1 (Løpende likviditet)
+#### Likviditetsgrad 1 (LÃ¸pende likviditet)
 
-**Likviditetsgrad 1 = Omløpsmidler ÷ [Kortsiktig gjeld](/blogs/regnskap/kortsiktig-gjeld "Kortsiktig Gjeld: Definisjon, Typer og Regnskapsføring")**
+**Likviditetsgrad 1 = OmlÃ¸psmidler Ã· [Kortsiktig gjeld](/blogs/regnskap/kortsiktig-gjeld "Kortsiktig Gjeld: Definisjon, Typer og RegnskapsfÃ¸ring")**
 
 * **Over 2,0:** Meget god likviditet
 * **1,5-2,0:** God likviditet  
@@ -206,7 +201,7 @@ Omløpsmidler verdsettes etter **laveste verdis prinsipp**:
 
 #### Likviditetsgrad 2 (Rask likviditet)
 
-**Likviditetsgrad 2 = (Omløpsmidler - Varelager) ÷ [Kortsiktig gjeld](/blogs/regnskap/kortsiktig-gjeld "Kortsiktig Gjeld: Definisjon, Typer og Regnskapsføring")**
+**Likviditetsgrad 2 = (OmlÃ¸psmidler - Varelager) Ã· [Kortsiktig gjeld](/blogs/regnskap/kortsiktig-gjeld "Kortsiktig Gjeld: Definisjon, Typer og RegnskapsfÃ¸ring")**
 
 * **Over 1,0:** God rask likviditet
 * **0,7-1,0:** Akseptabel rask likviditet
@@ -214,13 +209,13 @@ Omløpsmidler verdsettes etter **laveste verdis prinsipp**:
 
 #### Kontantgrad
 
-**Kontantgrad = (Kontanter + Kortsiktige investeringer) ÷ [Kortsiktig gjeld](/blogs/regnskap/kortsiktig-gjeld "Kortsiktig Gjeld: Definisjon, Typer og Regnskapsføring")**
+**Kontantgrad = (Kontanter + Kortsiktige investeringer) Ã· [Kortsiktig gjeld](/blogs/regnskap/kortsiktig-gjeld "Kortsiktig Gjeld: Definisjon, Typer og RegnskapsfÃ¸ring")**
 
 ### 4.2 Arbeidskapital
 
-**[Arbeidskapital](/blogs/regnskap/hva-er-arbeidskapital "Hva er Arbeidskapital? Beregning og Betydning for Bedriftens Likviditet")** er forskjellen mellom omløpsmidler og kortsiktig gjeld:
+**[Arbeidskapital](/blogs/regnskap/hva-er-arbeidskapital "Hva er Arbeidskapital? Beregning og Betydning for Bedriftens Likviditet")** er forskjellen mellom omlÃ¸psmidler og kortsiktig gjeld:
 
-**Arbeidskapital = Omløpsmidler - [Kortsiktig gjeld](/blogs/regnskap/kortsiktig-gjeld "Kortsiktig Gjeld: Definisjon, Typer og Regnskapsføring")**
+**Arbeidskapital = OmlÃ¸psmidler - [Kortsiktig gjeld](/blogs/regnskap/kortsiktig-gjeld "Kortsiktig Gjeld: Definisjon, Typer og RegnskapsfÃ¸ring")**
 
 ![Arbeidskapital analyse](arbeidskapital-analyse.svg)
 
@@ -234,23 +229,23 @@ Omløpsmidler verdsettes etter **laveste verdis prinsipp**:
 * **Fordeler:** Effektiv kapitalbruk
 * **Ulemper:** Likviditetsrisiko, begrenset fleksibilitet
 
-### 4.3 Omløpshastighet
+### 4.3 OmlÃ¸pshastighet
 
-**Omløpshastighet** måler hvor raskt omløpsmidler konverteres til kontanter:
+**OmlÃ¸pshastighet** mÃ¥ler hvor raskt omlÃ¸psmidler konverteres til kontanter:
 
 #### Kundefordringer
 
-**Omløpshastighet kundefordringer = Kreditsalg ÷ Gjennomsnittlige kundefordringer**
+**OmlÃ¸pshastighet kundefordringer = Kreditsalg Ã· Gjennomsnittlige kundefordringer**
 
-**Innkrevingsperiode = 365 dager ÷ Omløpshastighet**
+**Innkrevingsperiode = 365 dager Ã· OmlÃ¸pshastighet**
 
 #### Varelager
 
-**Lageromløpshastighet = [Kostpris](/blogs/regnskap/hva-er-kostpris "Hva er Kostpris? Beregning og Betydning i Regnskap") solgte varer ÷ Gjennomsnittlig varelager**
+**LageromlÃ¸pshastighet = [Kostpris](/blogs/regnskap/hva-er-kostpris "Hva er Kostpris? Beregning og Betydning i Regnskap") solgte varer Ã· Gjennomsnittlig varelager**
 
-**Lagringsperiode = 365 dager ÷ Lageromløpshastighet**
+**Lagringsperiode = 365 dager Ã· LageromlÃ¸pshastighet**
 
-## Seksjon 5: Kontantstrømstyring
+## Seksjon 5: KontantstrÃ¸mstyring
 
 ### 5.1 Kontantsyklus
 
@@ -260,19 +255,19 @@ Omløpsmidler verdsettes etter **laveste verdis prinsipp**:
 
 **Kontantsyklus = Lagringsperiode + Innkrevingsperiode - Betalingsperiode**
 
-### 5.2 Optimalisering av Omløpsmidler
+### 5.2 Optimalisering av OmlÃ¸psmidler
 
 #### Kontantbeholdning
 
 * **Minimumsbeholdning:** Dekke daglige behov
-* **Maksimumsbeholdning:** Unngå overflødig likviditet
+* **Maksimumsbeholdning:** UnngÃ¥ overflÃ¸dig likviditet
 * **Kontantbudsjett:** Planlegge kontantbehov
 
 #### Kundefordringer
 
-* **Kredittvilkår:** Balansere salg og risiko
+* **KredittvilkÃ¥r:** Balansere salg og risiko
 * **Kredittvurdering:** Vurdere kunders betalingsevne
-* **Inkasso:** Effektiv oppfølging av forfalte fordringer
+* **Inkasso:** Effektiv oppfÃ¸lging av forfalte fordringer
 
 #### Varelager
 
@@ -284,9 +279,9 @@ Omløpsmidler verdsettes etter **laveste verdis prinsipp**:
 
 ### 6.1 Handelsbedrift Eksempel
 
-**Norskebutikker AS** har følgende omløpsmidler:
+**Norskebutikker AS** har fÃ¸lgende omlÃ¸psmidler:
 
-| Omløpsmiddeltype | Beløp (NOK) | Andel |
+| OmlÃ¸psmiddeltype | BelÃ¸p (NOK) | Andel |
 |:-----------------|:------------|:------|
 | Kontanter og bank | 150.000 | 10% |
 | Kundefordringer | 300.000 | 20% |
@@ -295,38 +290,38 @@ Omløpsmidler verdsettes etter **laveste verdis prinsipp**:
 | **Totalt** | **1.500.000** | **100%** |
 
 **Analyse:**
-* **Høy lagerandel:** Typisk for handelsbedrift
+* **HÃ¸y lagerandel:** Typisk for handelsbedrift
 * **Moderate kundefordringer:** Mye kontantsalg
 * **Lav kontantbeholdning:** Effektiv kontantstyring
 
 ### 6.2 Tjenestebedrift Eksempel
 
-**Konsulentpartner AS** har følgende omløpsmidler:
+**Konsulentpartner AS** har fÃ¸lgende omlÃ¸psmidler:
 
-| Omløpsmiddeltype | Beløp (NOK) | Andel |
+| OmlÃ¸psmiddeltype | BelÃ¸p (NOK) | Andel |
 |:-----------------|:------------|:------|
 | Kontanter og bank | 200.000 | 25% |
 | Kundefordringer | 500.000 | 62,5% |
-| Påløpte inntekter | 80.000 | 10% |
+| PÃ¥lÃ¸pte inntekter | 80.000 | 10% |
 | Forskuddsbetalinger | 20.000 | 2,5% |
 | **Totalt** | **800.000** | **100%** |
 
 **Analyse:**
-* **Høye kundefordringer:** Typisk for tjenestebedrift
+* **HÃ¸ye kundefordringer:** Typisk for tjenestebedrift
 * **Ingen varelager:** Tjenester har ikke fysiske varer
-* **Påløpte inntekter:** Arbeid utført men ikke fakturert
+* **PÃ¥lÃ¸pte inntekter:** Arbeid utfÃ¸rt men ikke fakturert
 
 ### 6.3 Produksjonsbedrift Eksempel
 
-**Møbelproduksjon AS** har følgende omløpsmidler:
+**MÃ¸belproduksjon AS** har fÃ¸lgende omlÃ¸psmidler:
 
-![Produksjonsbedrift omløpsmidler](produksjonsbedrift-omlopsmiddel.svg)
+![Produksjonsbedrift omlÃ¸psmidler](produksjonsbedrift-omlopsmiddel.svg)
 
-| Omløpsmiddeltype | Beløp (NOK) | Andel |
+| OmlÃ¸psmiddeltype | BelÃ¸p (NOK) | Andel |
 |:-----------------|:------------|:------|
 | Kontanter og bank | 100.000 | 5% |
 | Kundefordringer | 400.000 | 20% |
-| Råvarer | 600.000 | 30% |
+| RÃ¥varer | 600.000 | 30% |
 | Varer under arbeid | 300.000 | 15% |
 | Ferdigvarer | 500.000 | 25% |
 | Andre fordringer | 100.000 | 5% |
@@ -334,19 +329,19 @@ Omløpsmidler verdsettes etter **laveste verdis prinsipp**:
 
 **Analyse:**
 * **Komplekst varelager:** Tre kategorier varer
-* **Høy lagerbinding:** 70% av omløpsmidler
-* **Produksjonssyklus:** Lang tid fra råvare til salg
+* **HÃ¸y lagerbinding:** 70% av omlÃ¸psmidler
+* **Produksjonssyklus:** Lang tid fra rÃ¥vare til salg
 
-## Seksjon 7: Regnskapsføring og Dokumentasjon
+## Seksjon 7: RegnskapsfÃ¸ring og Dokumentasjon
 
-### 7.1 Bilagsføring
+### 7.1 BilagsfÃ¸ring
 
-**Dokumentasjon** av omløpsmidler krever systematisk [bilagsføring](/blogs/regnskap/hva-er-bilagsforing "Hva er Bilagsføring? Guide til Systematisk Regnskapsføring"):
+**Dokumentasjon** av omlÃ¸psmidler krever systematisk [bilagsfÃ¸ring](/blogs/regnskap/hva-er-bilagsforing "Hva er BilagsfÃ¸ring? Guide til Systematisk RegnskapsfÃ¸ring"):
 
 #### Kontanter
 
-* **Kasseoppgjør:** Daglig telling og avstemming
-* **Bankutskrifter:** Månedlig [bankavstemming](/blogs/regnskap/hva-er-bankavstemming "Hva er Bankavstemming? Guide til Kontroll av Banktransaksjoner")
+* **KasseoppgjÃ¸r:** Daglig telling og avstemming
+* **Bankutskrifter:** MÃ¥nedlig [bankavstemming](/blogs/regnskap/hva-er-bankavstemming "Hva er Bankavstemming? Guide til Kontroll av Banktransaksjoner")
 * **Kvitteringer:** Alle kontanttransaksjoner
 
 #### Kundefordringer
@@ -357,32 +352,32 @@ Omløpsmidler verdsettes etter **laveste verdis prinsipp**:
 
 #### Varelager
 
-* **Innkjøpsfakturaer:** Dokumentasjon av anskaffelser
+* **InnkjÃ¸psfakturaer:** Dokumentasjon av anskaffelser
 * **Lagerrapporter:** Fysisk telling og verdsettelse
 * **Produksjonsrapporter:** Kostnader i produksjon
 
 ### 7.2 Periodeavgrensninger
 
-**Korrekt periodisering** sikrer at omløpsmidler føres i riktig periode:
+**Korrekt periodisering** sikrer at omlÃ¸psmidler fÃ¸res i riktig periode:
 
 * **Forskuddsbetalte kostnader:** Kostnader som gjelder fremtidige perioder
-* **Påløpte inntekter:** Inntekter opptjent men ikke mottatt
+* **PÃ¥lÃ¸pte inntekter:** Inntekter opptjent men ikke mottatt
 * **Periodeavgrensninger:** Fordeling mellom regnskapsperioder
 
 ### 7.3 Internkontroll
 
-**[Internkontroll](/blogs/regnskap/hva-er-internkontroll "Hva er Internkontroll? Guide til Risikostyring og Kontrollsystemer")** av omløpsmidler omfatter:
+**[Internkontroll](/blogs/regnskap/hva-er-internkontroll "Hva er Internkontroll? Guide til Risikostyring og Kontrollsystemer")** av omlÃ¸psmidler omfatter:
 
 #### Kontanter
 
-* **Funksjonsadskillelse:** Separate personer for håndtering og registrering
-* **Daglige oppgjør:** Kontroll av kassebeholdning
-* **Bankavstemming:** Månedlig avstemming av bankkonti
+* **Funksjonsadskillelse:** Separate personer for hÃ¥ndtering og registrering
+* **Daglige oppgjÃ¸r:** Kontroll av kassebeholdning
+* **Bankavstemming:** MÃ¥nedlig avstemming av bankkonti
 
 #### Kundefordringer
 
-* **Kredittkontroll:** Vurdering før kredittgivning
-* **Aldersanalyse:** Oppfølging av forfalte fordringer
+* **Kredittkontroll:** Vurdering fÃ¸r kredittgivning
+* **Aldersanalyse:** OppfÃ¸lging av forfalte fordringer
 * **Tapsavsetninger:** Regelmessig vurdering av tap
 
 #### Varelager
@@ -395,37 +390,37 @@ Omløpsmidler verdsettes etter **laveste verdis prinsipp**:
 
 ### 8.1 Skattemessig Behandling
 
-**Skattemessig verdsettelse** av omløpsmidler følger spesielle regler:
+**Skattemessig verdsettelse** av omlÃ¸psmidler fÃ¸lger spesielle regler:
 
 #### Varelager
 
-* **FIFO-prinsippet:** Først inn, først ut
+* **FIFO-prinsippet:** FÃ¸rst inn, fÃ¸rst ut
 * **Gjennomsnittspris:** Vektet gjennomsnitt
 * **Laveste verdis prinsipp:** Kost eller markedsverdi
 
 #### Kundefordringer
 
-* **Realisasjonsprinsippet:** Tap fradragsføres når det er konstatert
-* **Tapsavsetninger:** Ikke fradragsberettiget før tap er realisert
+* **Realisasjonsprinsippet:** Tap fradragsfÃ¸res nÃ¥r det er konstatert
+* **Tapsavsetninger:** Ikke fradragsberettiget fÃ¸r tap er realisert
 
 ### 8.2 Merverdiavgift
 
-**[Moms/MVA](/blogs/regnskap/hva-er-moms-mva "Hva er Moms/MVA? Komplett Guide til Merverdiavgift i Norge")** påvirker omløpsmidler:
+**[Moms/MVA](/blogs/regnskap/hva-er-moms-mva "Hva er Moms/MVA? Komplett Guide til Merverdiavgift i Norge")** pÃ¥virker omlÃ¸psmidler:
 
-* **Inngående MVA:** Kan trekkes fra på kjøp
-* **Utgående MVA:** Påløper ved salg
-* **MVA-oppgjør:** Påvirker kontantstrøm
+* **InngÃ¥ende MVA:** Kan trekkes fra pÃ¥ kjÃ¸p
+* **UtgÃ¥ende MVA:** PÃ¥lÃ¸per ved salg
+* **MVA-oppgjÃ¸r:** PÃ¥virker kontantstrÃ¸m
 
 ## Konklusjon
 
-**Omløpsmidler** er fundamentale for enhver bedrifts **likviditet** og **daglige drift**. Effektiv styring av omløpsmidler krever:
+**OmlÃ¸psmidler** er fundamentale for enhver bedrifts **likviditet** og **daglige drift**. Effektiv styring av omlÃ¸psmidler krever:
 
 * **Systematisk klassifisering** av alle kortsiktige eiendeler
 * **Korrekt verdsettelse** etter regnskapsprinsipper
-* **Løpende likviditetsanalyse** for å sikre betalingsevne
+* **LÃ¸pende likviditetsanalyse** for Ã¥ sikre betalingsevne
 * **Optimalisering** av kontantsyklus og arbeidskapital
-* **God internkontroll** for å minimere risiko
+* **God internkontroll** for Ã¥ minimere risiko
 
-Ved å forstå og aktivt styre omløpsmidlene kan bedrifter sikre **stabil likviditet**, redusere **finansieringskostnader** og forbedre den **totale lønnsomheten**. Dette krever kontinuerlig oppmerksomhet og systematisk tilnærming til alle komponenter av omløpsmidlene.
+Ved Ã¥ forstÃ¥ og aktivt styre omlÃ¸psmidlene kan bedrifter sikre **stabil likviditet**, redusere **finansieringskostnader** og forbedre den **totale lÃ¸nnsomheten**. Dette krever kontinuerlig oppmerksomhet og systematisk tilnÃ¦rming til alle komponenter av omlÃ¸psmidlene.
 
-For mer informasjon om relaterte emner, se våre artikler om [anleggsmidler](/blogs/regnskap/hva-er-anleggsmidler "Hva er Anleggsmidler? Komplett Guide til Faste Eiendeler i Regnskap"), [arbeidskapital](/blogs/regnskap/hva-er-arbeidskapital "Hva er Arbeidskapital? Beregning og Betydning for Bedriftens Likviditet") og [likviditetsstyring](/blogs/regnskap/hva-er-likviditetsstyring "Hva er Likviditetsstyring? Guide til Kontantstrømstyring").
+For mer informasjon om relaterte emner, se vÃ¥re artikler om [anleggsmidler](/blogs/regnskap/hva-er-anleggsmidler "Hva er Anleggsmidler? Komplett Guide til Faste Eiendeler i Regnskap"), [arbeidskapital](/blogs/regnskap/hva-er-arbeidskapital "Hva er Arbeidskapital? Beregning og Betydning for Bedriftens Likviditet") og [likviditetsstyring](/blogs/regnskap/hva-er-likviditetsstyring "Hva er Likviditetsstyring? Guide til KontantstrÃ¸mstyring").

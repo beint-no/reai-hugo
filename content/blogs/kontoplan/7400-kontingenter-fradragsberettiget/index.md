@@ -1,7 +1,7 @@
 ﻿---
 title: "7400-kontingenter-fradragsberettiget"
 meta_title: "7400-kontingenter-fradragsberettiget"
-meta_description: "**Konto 7400 - Kontingenter, fradragsberettiget** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til Ã¥ registrere **kontingenter som er fradr..."
+meta_description: '**Konto 7400 - Kontingenter, fradragsberettiget** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til Ã¥ registrere **kontingenter som er fradr...'
 slug: 7400-kontingenter-fradragsberettiget
 type: blog
 layout: pages/single

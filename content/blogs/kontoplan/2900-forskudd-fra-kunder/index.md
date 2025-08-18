@@ -1,7 +1,7 @@
 ﻿---
 title: "2900-forskudd-fra-kunder"
 meta_title: "2900-forskudd-fra-kunder"
-meta_description: "**Konto 2900 - Forskudd fra kunder** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **forskudd fra kunder** som kortsiktige forpliktelser i..."
+meta_description: '**Konto 2900 - Forskudd fra kunder** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **forskudd fra kunder** som kortsiktige forpliktelser i...'
 slug: 2900-forskudd-fra-kunder
 type: blog
 layout: pages/single

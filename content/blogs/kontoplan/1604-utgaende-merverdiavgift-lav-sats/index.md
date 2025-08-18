@@ -1,7 +1,7 @@
 ﻿---
 title: "1604-utgaende-merverdiavgift-lav-sats"
 meta_title: "1604-utgaende-merverdiavgift-lav-sats"
-meta_description: "**Konto 1604 - UtgÃ¥ende merverdiavgift lav sats** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **utgÃ¥ende merverdiavgift med lav sats**..."
+meta_description: '**Konto 1604 - UtgÃ¥ende merverdiavgift lav sats** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **utgÃ¥ende merverdiavgift med lav sats**...'
 slug: 1604-utgaende-merverdiavgift-lav-sats
 type: blog
 layout: pages/single

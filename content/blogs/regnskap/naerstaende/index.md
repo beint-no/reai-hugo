@@ -1,54 +1,52 @@
----
-title: "Nærstående Parter i Regnskap"
-summary: "En grundig gjennomgang av definisjon, lover, eksempler, internprising og rapporteringskrav for nærstående parter i norsk regnskap."
-description: "Lær hva nærstående parter er i norsk regnskap, hvilke regler som gjelder for transaksjoner mellom nærstående og krav til noteopplysninger."
+﻿---
+title: "NÃ¦rstÃ¥ende Parter i Regnskap"
+meta_title: "NÃ¦rstÃ¥ende Parter i Regnskap"
+meta_description: '**NÃ¦rstÃ¥ende parter** i norsk regnskap omfatter personer eller enheter som har et nÃ¦rt Ã¸konomisk eller organisatorisk forhold til virksomheten.'
 slug: naerstaende
-featured_image: naerstaende-image.svg
-featured_image_alt: "Nærstående Parter i Regnskap"
-url: "/blogs/regnskap/naerstaende/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
-**Nærstående parter** i norsk regnskap omfatter personer eller enheter som har et nært økonomisk eller organisatorisk forhold til virksomheten.
+**NÃ¦rstÃ¥ende parter** i norsk regnskap omfatter personer eller enheter som har et nÃ¦rt Ã¸konomisk eller organisatorisk forhold til virksomheten.
 
-![Illustrasjon av nærstående parter](naerstaende-image.svg)
+![Illustrasjon av nÃ¦rstÃ¥ende parter](naerstaende-image.svg)
 
-## Hva er nærstående parter?
+## Hva er nÃ¦rstÃ¥ende parter?
 
-Begrepet «nærstående parter» dekker styremedlemmer, ledende ansatte, morselskap, datterselskap, søsterselskap og andre hvor det foreligger kontroll eller vesentlig innflytelse.
+Begrepet Â«nÃ¦rstÃ¥ende parterÂ» dekker styremedlemmer, ledende ansatte, morselskap, datterselskap, sÃ¸sterselskap og andre hvor det foreligger kontroll eller vesentlig innflytelse.
 
 ## Regelverk og krav
 
-I regnskap og årsoppgjør må transaksjoner med nærstående parter behandles i henhold til:
+I regnskap og Ã¥rsoppgjÃ¸r mÃ¥ transaksjoner med nÃ¦rstÃ¥ende parter behandles i henhold til:
 
 | **Kilde**                     | **Krav**                                                           |
 |-------------------------------|---------------------------------------------------------------------|
-| Regnskapsloven § 3-8          | Opplysninger om transaksjoner og mellommenneskelig tilknytning      |
-| Aksjeloven § 5-18             | Krav til styrets behandling av transaksjoner med nærstående        |
-| Forvaltningsloven § 6         | Håndtering av habilitet ved offentlige organers regnskapsvurdering |
+| Regnskapsloven Â§ 3-8          | Opplysninger om transaksjoner og mellommenneskelig tilknytning      |
+| Aksjeloven Â§ 5-18             | Krav til styrets behandling av transaksjoner med nÃ¦rstÃ¥ende        |
+| Forvaltningsloven Â§ 6         | HÃ¥ndtering av habilitet ved offentlige organers regnskapsvurdering |
 
-## Eksempler på transaksjoner
+## Eksempler pÃ¥ transaksjoner
 
-* Lån eller kreditt til styremedlemmer eller deres familiemedlemmer
-* Kjøp/salg av varer eller tjenester mellom konsernselskaper
+* LÃ¥n eller kreditt til styremedlemmer eller deres familiemedlemmer
+* KjÃ¸p/salg av varer eller tjenester mellom konsernselskaper
 * Leasingavtaler med selskaper eid av ledende ansatte
 
 ## Internprising og armlengdeprinsippet
 
-For transaksjoner mellom nærstående parter må **armlengdeprinsippet** følges, slik at priser og vilkår ikke avviker fra markedspris.
+For transaksjoner mellom nÃ¦rstÃ¥ende parter mÃ¥ **armlengdeprinsippet** fÃ¸lges, slik at priser og vilkÃ¥r ikke avviker fra markedspris.
 
-## Noteopplysninger om nærstående parter
+## Noteopplysninger om nÃ¦rstÃ¥ende parter
 
-Transaksjoner med [nærstående parter](/blogs/regnskap/naerstaende "Nærstående Parter i Regnskap") må opplyses i noter til årsregnskapet med detaljer om partene, beløp og vilkår.
+Transaksjoner med [nÃ¦rstÃ¥ende parter](/blogs/regnskap/naerstaende "NÃ¦rstÃ¥ende Parter i Regnskap") mÃ¥ opplyses i noter til Ã¥rsregnskapet med detaljer om partene, belÃ¸p og vilkÃ¥r.
 
 ## Vanlige utfordringer
 
 * Mangelfull dokumentasjon av interne priser
-* Feiltolkning av hvilke parter som anses som nærstående
-* Brudd på habilitetsregler i beslutningsprosesser
+* Feiltolkning av hvilke parter som anses som nÃ¦rstÃ¥ende
+* Brudd pÃ¥ habilitetsregler i beslutningsprosesser
 
 ## Relaterte Artikler
 
-* [Noter til årsoppgjøret](/blogs/regnskap/noter-aarsoppgjoer "Noter til Årsoppgjøret – Lovpålagte Noteopplysninger i Regnskap")
+* [Noter til Ã¥rsoppgjÃ¸ret](/blogs/regnskap/noter-aarsoppgjoer "Noter til Ã…rsoppgjÃ¸ret â€“ LovpÃ¥lagte Noteopplysninger i Regnskap")
 * [Hva er Skatt?](/blogs/regnskap/hva-er-skatt "Hva er Skatt? Guide til norske skatteregler")
-* [Næringsoppgave](/blogs/regnskap/hva-er-naeringsoppgave "Hva er Næringsoppgave? Komplett guide til levering og krav")
+* [NÃ¦ringsoppgave](/blogs/regnskap/hva-er-naeringsoppgave "Hva er NÃ¦ringsoppgave? Komplett guide til levering og krav")

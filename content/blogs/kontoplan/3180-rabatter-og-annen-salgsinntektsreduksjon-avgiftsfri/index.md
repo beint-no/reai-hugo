@@ -1,7 +1,7 @@
 ﻿---
 title: "3180-rabatter-og-annen-salgsinntektsreduksjon-avgiftsfri"
 meta_title: "3180-rabatter-og-annen-salgsinntektsreduksjon-avgiftsfri"
-meta_description: "**Konto 3180 - Rabatter og annen salgsinntektsreduksjon avgiftsfri** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **rabatter** og annen *..."
+meta_description: '**Konto 3180 - Rabatter og annen salgsinntektsreduksjon avgiftsfri** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **rabatter** og annen *...'
 slug: 3180-rabatter-og-annen-salgsinntektsreduksjon-avgiftsfri
 type: blog
 layout: pages/single

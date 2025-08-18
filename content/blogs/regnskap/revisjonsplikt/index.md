@@ -1,63 +1,61 @@
----
+﻿---
 title: "Revisjonsplikt"
-summary: "Revisjonsplikt er den lovpålagte plikten for visse norske virksomheter til å få årsregnskapet revidert av kvalifiserte revisorer. Lær om kriterier, terskelverdier og unntak."
-description: "En grundig gjennomgang av revisjonsplikt i norsk regnskap, inkludert hvem som er revisjonspliktige, terskelverdier og unntak."
+meta_title: "Revisjonsplikt"
+meta_description: '**Revisjonsplikt** er den lovpÃ¥lagte forpliktelsen for visse virksomheter i Norge til Ã¥ fÃ¥ Ã¥rsregnskapet **revidert** av kvalifiserte revisorer i henhold ti...'
 slug: revisjonsplikt
-featured_image: revisjonsplikt-image.svg
-featured_image_alt: "Revisjonsplikt"
-url: "/blogs/regnskap/revisjonsplikt/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
-**Revisjonsplikt** er den lovpålagte forpliktelsen for visse virksomheter i Norge til å få årsregnskapet **revidert** av kvalifiserte revisorer i henhold til [Regnskapsloven](/blogs/regnskap/hva-er-regnskapsloven "Hva er Regnskapsloven? En Komplett Guide til Norske Regnskapslover og Forskrifter") og tilhørende forskrifter.
+**Revisjonsplikt** er den lovpÃ¥lagte forpliktelsen for visse virksomheter i Norge til Ã¥ fÃ¥ Ã¥rsregnskapet **revidert** av kvalifiserte revisorer i henhold til [Regnskapsloven](/blogs/regnskap/hva-er-regnskapsloven "Hva er Regnskapsloven? En Komplett Guide til Norske Regnskapslover og Forskrifter") og tilhÃ¸rende forskrifter.
 
 ![Illustrasjon som viser konseptet revisjonsplikt](revisjonsplikt-image.svg)
 
 ## Hva er Revisjonsplikt?
 
-Revisjonsplikt innebærer at virksomheter må gjennomføre en **uavhengig revisjon** av årsregnskapet utført av kvalifiserte [revisorer](/blogs/regnskap/revisor "Revisor") for å sikre **pålitelighet**, **nøyaktighet** og **lovmessig overholdelse**. Plikten er forankret i [Regnskapsloven](/blogs/regnskap/hva-er-regnskapsloven "Hva er Regnskapsloven?") og utfyllende forskrifter.
+Revisjonsplikt innebÃ¦rer at virksomheter mÃ¥ gjennomfÃ¸re en **uavhengig revisjon** av Ã¥rsregnskapet utfÃ¸rt av kvalifiserte [revisorer](/blogs/regnskap/revisor "Revisor") for Ã¥ sikre **pÃ¥litelighet**, **nÃ¸yaktighet** og **lovmessig overholdelse**. Plikten er forankret i [Regnskapsloven](/blogs/regnskap/hva-er-regnskapsloven "Hva er Regnskapsloven?") og utfyllende forskrifter.
 
 ## Hvem er revisjonspliktige?
 
-Revisjonsplikten gjelder som hovedregel for følgende selskapsformer og størrelser:
+Revisjonsplikten gjelder som hovedregel for fÃ¸lgende selskapsformer og stÃ¸rrelser:
 
 | **Selskapsform/Gruppe**            | **Kriterier**                                                       |
 |------------------------------------|----------------------------------------------------------------------|
 | **Aksjeselskap (AS)**             | Omsetning over NOK 5 millioner eller balansesum over NOK 20 millioner |
-| **Allmennaksjeselskap (ASA)**      | Alltid revisjonsplikt uavhengig av størrelse                         |
+| **Allmennaksjeselskap (ASA)**      | Alltid revisjonsplikt uavhengig av stÃ¸rrelse                         |
 | **Regnskapspliktige konsern**      | Datterselskaper i konsern som oppfyller terskelverdier                |
 | **Andre virksomheter**             | Frivillig revisjon kan avtales for alle virksomheter                  |
 
 ## Terskelverdier for revisjonsplikt
 
-Følgende terskelverdier i Regnskapsloven § 7-6 avgjør revisjonsplikten:
+FÃ¸lgende terskelverdier i Regnskapsloven Â§ 7-6 avgjÃ¸r revisjonsplikten:
 
 | **Krav**                | **Grenseverdi**                           |
 |-------------------------|--------------------------------------------|
 | Omsetning               | NOK 5 millioner                            |
 | Balansesum              | NOK 20 millioner                           |
-| **[Årsverk](/blogs/regnskap/arsverk "Årsverk")** | Mer enn 20 [årsverk](/blogs/regnskap/arsverk "Årsverk") |
+| **[Ã…rsverk](/blogs/regnskap/arsverk "Ã…rsverk")** | Mer enn 20 [Ã¥rsverk](/blogs/regnskap/arsverk "Ã…rsverk") |
 
-Legg merke til at dersom to av tre kriterier overskrides i to påfølgende år, må selskapet gjennomgå revisjon.
+Legg merke til at dersom to av tre kriterier overskrides i to pÃ¥fÃ¸lgende Ã¥r, mÃ¥ selskapet gjennomgÃ¥ revisjon.
 
 ## Relevante unntak og forenklinger
 
 Visse virksomheter kan unntas eller velge forenklet revisjonsordning:
 
-* **Små foretak**: Kan fravelge revisjon dersom de følger forenklet årsregnskap i henhold til [Regnskapsloven § 1-5](/blogs/regnskap/hva-er-regnskapsloven "Hva er Regnskapsloven?") og ikke overskrider terskelverdier.
+* **SmÃ¥ foretak**: Kan fravelge revisjon dersom de fÃ¸lger forenklet Ã¥rsregnskap i henhold til [Regnskapsloven Â§Â 1-5](/blogs/regnskap/hva-er-regnskapsloven "Hva er Regnskapsloven?") og ikke overskrider terskelverdier.
 * **Frivillig revisjon**: Selskaper kan avtale revisjon selv om de ikke oppfyller kravene.
-* **Interne revisjonsordninger**: Større konsern kan benytte konsernrevisor for datterselskaper.
+* **Interne revisjonsordninger**: StÃ¸rre konsern kan benytte konsernrevisor for datterselskaper.
 
 ## Hvorfor er revisjonsplikt viktig?
 
-* **Økt tillit:** Gir kreditorer, investorer og myndigheter tillit til regnskapet.
-* **Risikoavdekning:** Bidrar til å avdekke feil og svindel tidlig.
-* **Kvalitetssikring:** Sikrer at regnskapsførsel og internkontroll fungerer etter **god regnskapsskikk**.
+* **Ã˜kt tillit:** Gir kreditorer, investorer og myndigheter tillit til regnskapet.
+* **Risikoavdekning:** Bidrar til Ã¥ avdekke feil og svindel tidlig.
+* **Kvalitetssikring:** Sikrer at regnskapsfÃ¸rsel og internkontroll fungerer etter **god regnskapsskikk**.
 
-## Se også
+## Se ogsÃ¥
 
-* [Revisjon](/blogs/regnskap/revisjon "Revisjon") – Oversikt over revisjonsprosessen.
-* [Revisor](/blogs/regnskap/revisor "Revisor") – Oversikt over revisorens rolle og ansvar.
-* [Revisorloven](/blogs/regnskap/hva-er-revisorloven "Hva er Revisorloven?") – Regelverk for revisorers rolle og ansvar.
-* [Revisjonsberetning](/blogs/regnskap/hva-er-revisjonsberetning "Hva er Revisjonsberetning?") – Rapporten fra revisor.
-* [Bokettersyn](/blogs/regnskap/bokettersyn "Hva er Bokettersyn?") – Kontroll av bokføringsplikt og regnskapsmateriale.
+* [Revisjon](/blogs/regnskap/revisjon "Revisjon") â€“ Oversikt over revisjonsprosessen.
+* [Revisor](/blogs/regnskap/revisor "Revisor") â€“ Oversikt over revisorens rolle og ansvar.
+* [Revisorloven](/blogs/regnskap/hva-er-revisorloven "Hva er Revisorloven?") â€“ Regelverk for revisorers rolle og ansvar.
+* [Revisjonsberetning](/blogs/regnskap/hva-er-revisjonsberetning "Hva er Revisjonsberetning?") â€“ Rapporten fra revisor.
+* [Bokettersyn](/blogs/regnskap/bokettersyn "Hva er Bokettersyn?") â€“ Kontroll av bokfÃ¸ringsplikt og regnskapsmateriale.

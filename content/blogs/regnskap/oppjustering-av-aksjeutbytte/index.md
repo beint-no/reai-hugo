@@ -1,92 +1,90 @@
----
+﻿---
 title: "Oppjustering av aksjeutbytte"
-summary: "En omfattende gjennomgang av oppjustering av aksjeutbytte, inkludert juridisk grunnlag, beregningsmetoder og eksempler."
-description: "Lær hva oppjustering av aksjeutbytte er, når det er aktuelt, relevante juridiske krav og praktiske eksempler i norsk regnskap."
+meta_title: "Oppjustering av aksjeutbytte"
+meta_description: '**Oppjustering av aksjeutbytte** er en prosess hvor et aksjeselskap justerer tidligere vedtatt utbytte som fÃ¸lge av revidert resultat, feil eller endret juridi...'
 slug: oppjustering-av-aksjeutbytte
-featured_image: oppjustering-av-aksjeutbytte-image.svg
-featured_image_alt: "Oppjustering av aksjeutbytte"
-url: "/blogs/regnskap/oppjustering-av-aksjeutbytte/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
-**Oppjustering av aksjeutbytte** er en prosess hvor et aksjeselskap justerer tidligere vedtatt utbytte som følge av revidert resultat, feil eller endret juridisk vurdering. Oppjustering kan være nødvendig for å sikre at selskapet oppfyller kravene til korrekt egenkapital etter [Aksjeloven](/blogs/regnskap/hva-er-aksjeloven "Hva er Aksjeloven? Introduksjon til norsk aksjelovgivning") og for å unngå underdekning i egenkapitalkrav.
+**Oppjustering av aksjeutbytte** er en prosess hvor et aksjeselskap justerer tidligere vedtatt utbytte som fÃ¸lge av revidert resultat, feil eller endret juridisk vurdering. Oppjustering kan vÃ¦re nÃ¸dvendig for Ã¥ sikre at selskapet oppfyller kravene til korrekt egenkapital etter [Aksjeloven](/blogs/regnskap/hva-er-aksjeloven "Hva er Aksjeloven? Introduksjon til norsk aksjelovgivning") og for Ã¥ unngÃ¥ underdekning i egenkapitalkrav.
 
 ![Oppjustering av aksjeutbytte Oversikt](oppjustering-av-aksjeutbytte-oversikt.svg)
 
-## Når er oppjustering aktuelt?
+## NÃ¥r er oppjustering aktuelt?
 
-Oppjustering av aksjeutbytte blir ofte aktuelt når:
+Oppjustering av aksjeutbytte blir ofte aktuelt nÃ¥r:
 
-* Det skjer betydelige endringer i årsregnskapet etter generalforsamlingen.
-* Tidligere utbytteberegninger viser seg å være for lave etter revisjon.
-* Selskapet ønsker å justere utbyttet for å opprettholde skatte- eller kapitalstruktur.
+* Det skjer betydelige endringer i Ã¥rsregnskapet etter generalforsamlingen.
+* Tidligere utbytteberegninger viser seg Ã¥ vÃ¦re for lave etter revisjon.
+* Selskapet Ã¸nsker Ã¥ justere utbyttet for Ã¥ opprettholde skatte- eller kapitalstruktur.
 * Feil i beregninger av fri egenkapital avdekkes i ettertid.
 
 ## Juridisk grunnlag
 
-Oppjustering må behandles i tråd med relevante paragrafer i **aksjeloven**:
+Oppjustering mÃ¥ behandles i trÃ¥d med relevante paragrafer i **aksjeloven**:
 
 | Paragraf | Innhold |
 |---------|---------|
-| § 8-1   | Fastsetter krav til maks. utbytte basert på fri egenkapital |
-| § 8-2   | Beskriver ekstraordinært utbytte og krav til vedtak |
-| § 8-6   | Årsregnskapets betydning for disponering av overskudd |
+| Â§Â 8-1   | Fastsetter krav til maks. utbytte basert pÃ¥ fri egenkapital |
+| Â§Â 8-2   | Beskriver ekstraordinÃ¦rt utbytte og krav til vedtak |
+| Â§Â 8-6   | Ã…rsregnskapets betydning for disponering av overskudd |
 
-Se også [Maskimalt Utbytte](/blogs/regnskap/maskimalt-utbytte "Maskimalt Utbytte – Komplett Guide til Utbytteregler og Beregning") og [Ekstraordinært Utbytte](/blogs/regnskap/ekstraordinart-utbytte "Ekstraordinært Utbytte – Alt du trenger å vite om ekstraordinært utbytte").
+Se ogsÃ¥ [Maskimalt Utbytte](/blogs/regnskap/maskimalt-utbytte "Maskimalt Utbytte â€“ Komplett Guide til Utbytteregler og Beregning") og [EkstraordinÃ¦rt Utbytte](/blogs/regnskap/ekstraordinart-utbytte "EkstraordinÃ¦rt Utbytte â€“ Alt du trenger Ã¥ vite om ekstraordinÃ¦rt utbytte").
 
 ## Beregningsmetode
 
-For å beregne oppjustert utbytte bør du følge disse trinnene:
+For Ã¥ beregne oppjustert utbytte bÃ¸r du fÃ¸lge disse trinnene:
 
 | Trinn | Beskrivelse                                               | Formelt uttrykk                              |
 |-------|-----------------------------------------------------------|----------------------------------------------|
-| 1     | Kartlegg fri egenkapital etter revidert årsregnskap       | Fri EK = Total egenkapital − Bundet EK       |
-| 2     | Beregn maksimalt tillatt utbytte i henhold til aksjeloven | Maks utbytte = Fri EK − Påkrevd buffer       |
-| 3     | Sammenlign med tidligere vedtatt utbytte                  | Oppjustering = Maks utbytte − Vedtatt utbytte |
-| 4     | Fastsett endelig oppjustert beløp                         | Nytt utbytte = Vedtatt utbytte + Oppjustering |
+| 1     | Kartlegg fri egenkapital etter revidert Ã¥rsregnskap       | Fri EK = Total egenkapital âˆ’ Bundet EK       |
+| 2     | Beregn maksimalt tillatt utbytte i henhold til aksjeloven | Maks utbytte = Fri EK âˆ’ PÃ¥krevd buffer       |
+| 3     | Sammenlign med tidligere vedtatt utbytte                  | Oppjustering = Maks utbytte âˆ’ Vedtatt utbytte |
+| 4     | Fastsett endelig oppjustert belÃ¸p                         | Nytt utbytte = Vedtatt utbytte + Oppjustering |
 
 ## Eksempel
 
 Anta at selskapet etter revisjon har:
 
-| Post                      | Beløp (NOK) |
+| Post                      | BelÃ¸p (NOK) |
 |---------------------------|-------------|
-| Fri egenkapital           | 5 000 000   |
-| Tidligere vedtatt utbytte | 2 000 000   |
-| Påkrevd buffer            | 500 000     |
+| Fri egenkapital           | 5Â 000Â 000   |
+| Tidligere vedtatt utbytte | 2Â 000Â 000   |
+| PÃ¥krevd buffer            | 500Â 000     |
 
 Da blir oppjusteringen:
 
 | Beregning                              | Verdi (NOK) |
 |----------------------------------------|-------------|
-| Maksimalt utbytte (Fri EK − Buffer)    | 4 500 000   |
-| Oppjustering (4 500 000 − 2 000 000)    | 2 500 000   |
-| **Nytt utbytte**                       | **4 500 000** |
+| Maksimalt utbytte (Fri EK âˆ’ Buffer)    | 4Â 500Â 000   |
+| Oppjustering (4Â 500Â 000 âˆ’ 2Â 000Â 000)    | 2Â 500Â 000   |
+| **Nytt utbytte**                       | **4Â 500Â 000** |
 
 ## Prosess og dokumentasjon
 
-For å håndtere oppjusteringen korrekt bør du:
+For Ã¥ hÃ¥ndtere oppjusteringen korrekt bÃ¸r du:
 
 1. Oppdatere styrets protokoll med ny beregning.
-2. Innkalle til ekstraordinær generalforsamling om nødvendig.
+2. Innkalle til ekstraordinÃ¦r generalforsamling om nÃ¸dvendig.
 3. Dokumentere vedtak og nye utbetalingsdatoer.
-4. Oppdatere regnskapsrapporter og sende nødvendige meldinger til [Aksjonærregisteroppgave](/blogs/regnskap/aksjonaerregisteroppgave "Hva er Aksjonærregisteroppgave? Komplett Guide til Årlig Rapportering").
+4. Oppdatere regnskapsrapporter og sende nÃ¸dvendige meldinger til [AksjonÃ¦rregisteroppgave](/blogs/regnskap/aksjonaerregisteroppgave "Hva er AksjonÃ¦rregisteroppgave? Komplett Guide til Ã…rlig Rapportering").
 
 ## Skattemessige konsekvenser
 
-Oppjustert utbytte skattlegges etter samme regler som ordinært og ekstraordinært utbytte:
+Oppjustert utbytte skattlegges etter samme regler som ordinÃ¦rt og ekstraordinÃ¦rt utbytte:
 
-* Personlige aksjonærer beskattes etter [Aksjonærmodellen](/blogs/regnskap/aksjonaermodellen-guide "Aksjonærmodellen – Komplett Guide til Norsk Aksjebeskatning").
-* Selskapsaksjonærer kan benytte **fritaksmetoden**.
-* Utenlandske aksjonærer kan bli trukket **kildeskatt**.
-* For en komplett oversikt over beskatning av utbytte, se [Skatt på utbytte](/blogs/regnskap/skatt-pa-utbytte "Skatt på utbytte – Guide til beskatning av utbytte i Norge").
+* Personlige aksjonÃ¦rer beskattes etter [AksjonÃ¦rmodellen](/blogs/regnskap/aksjonaermodellen-guide "AksjonÃ¦rmodellen â€“ Komplett Guide til Norsk Aksjebeskatning").
+* SelskapsaksjonÃ¦rer kan benytte **fritaksmetoden**.
+* Utenlandske aksjonÃ¦rer kan bli trukket **kildeskatt**.
+* For en komplett oversikt over beskatning av utbytte, se [Skatt pÃ¥ utbytte](/blogs/regnskap/skatt-pa-utbytte "Skatt pÃ¥ utbytte â€“ Guide til beskatning av utbytte i Norge").
 
-## Praktiske råd
+## Praktiske rÃ¥d
 
-* Sørg for å ha oppdatert **revidert årsregnskap** før du starter oppjusteringen.
-* Konsulter revisor for å sikre at alle lovkrav er oppfylt.
-* Vurder likviditetseffekten av oppjustert utbytte før beslutning.
+* SÃ¸rg for Ã¥ ha oppdatert **revidert Ã¥rsregnskap** fÃ¸r du starter oppjusteringen.
+* Konsulter revisor for Ã¥ sikre at alle lovkrav er oppfylt.
+* Vurder likviditetseffekten av oppjustert utbytte fÃ¸r beslutning.
 
 ## Konklusjon
 
-Oppjustering av aksjeutbytte sikrer at selskapet har korrekt **egenkapital** i henhold til aksjelovens krav og at aksjonærene mottar riktig beløp. Ved å følge juridiske krav, beregningsmetoder og dokumentasjonsrutiner kan selskapet gjennomføre en **lovlig** og **transparent** oppjustering.
+Oppjustering av aksjeutbytte sikrer at selskapet har korrekt **egenkapital** i henhold til aksjelovens krav og at aksjonÃ¦rene mottar riktig belÃ¸p. Ved Ã¥ fÃ¸lge juridiske krav, beregningsmetoder og dokumentasjonsrutiner kan selskapet gjennomfÃ¸re en **lovlig** og **transparent** oppjustering.

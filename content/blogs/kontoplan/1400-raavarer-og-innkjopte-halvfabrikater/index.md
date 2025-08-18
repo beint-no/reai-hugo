@@ -1,7 +1,7 @@
 ﻿---
 title: "1400-raavarer-og-innkjopte-halvfabrikater"
 meta_title: "1400-raavarer-og-innkjopte-halvfabrikater"
-meta_description: "**Konto 1400 - RÃ¥varer og innkjÃ¸pte halvfabrikater** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **rÃ¥varer** og **innkjÃ¸pte halvfabr..."
+meta_description: '**Konto 1400 - RÃ¥varer og innkjÃ¸pte halvfabrikater** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **rÃ¥varer** og **innkjÃ¸pte halvfabr...'
 slug: 1400-raavarer-og-innkjopte-halvfabrikater
 type: blog
 layout: pages/single

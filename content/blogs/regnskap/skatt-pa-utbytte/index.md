@@ -1,79 +1,75 @@
----
-title: "Skatt på utbytte"
-summary: "En grundig guide til skatt på utbytte for privatpersoner og selskaper, inkludert skatt på ordinært og ekstraordinært utbytte, skjermingsfradrag, fritaksmetoden, kildeskatt og rapportering."
-description: "Få en komplett oversikt over skattereglene for utbytte i Norge for både privatpersoner og selskaper, med forklaringer av skjermingsfradrag, aksjonærmodellen, fritaksmetoden og kildeskatt."
+﻿---
+title: "Skatt pÃ¥ utbytte"
+meta_title: "Skatt pÃ¥ utbytte"
+meta_description: '**Skatt pÃ¥ utbytte** omfatter skattereglene for utbytte som utdeles til aksjonÃ¦rer i Norge for bÃ¥de privatpersoner og selskaper. Denne artikkelen gir en deta...'
 slug: skatt-pa-utbytte
-featured_image: skatt-pa-utbytte-image.svg
-featured_image_alt: "Skatt på utbytte"
-url: "/blogs/regnskap/skatt-pa-utbytte/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
+**Skatt pÃ¥ utbytte** omfatter skattereglene for utbytte som utdeles til aksjonÃ¦rer i Norge for bÃ¥de privatpersoner og selskaper. Denne artikkelen gir en detaljert gjennomgang av skatt pÃ¥ ordinÃ¦rt og ekstraordinÃ¦rt utbytte, inkludert skjermingsfradrag, fritaksmetoden, kildeskatt og rapportering.
 
-**Skatt på utbytte** omfatter skattereglene for utbytte som utdeles til aksjonærer i Norge for både privatpersoner og selskaper. Denne artikkelen gir en detaljert gjennomgang av skatt på ordinært og ekstraordinært utbytte, inkludert skjermingsfradrag, fritaksmetoden, kildeskatt og rapportering.
-
-![Skatt på utbytte](skatt-pa-utbytte-image.svg)
+![Skatt pÃ¥ utbytte](skatt-pa-utbytte-image.svg)
 
 ## Oversikt over skatteregler for utbytte
 
 | Mottaker                           | Skatteregel                            | Skattepliktig andel               | Effektiv skattesats          |
 |------------------------------------|-----------------------------------------|-----------------------------------|------------------------------|
-| Privatperson (ordinært utbytte)    | Aksjonærmodellen med skjermingsfradrag   | 100% av utbytte etter skjerming   | 22% av netto utbytte         |
+| Privatperson (ordinÃ¦rt utbytte)    | AksjonÃ¦rmodellen med skjermingsfradrag   | 100% av utbytte etter skjerming   | 22% av netto utbytte         |
 | Privatperson (ASK)                 | Aksjesparekonto (ASK)                   | 22% ved uttak av overskudd        | 22% ved uttak                |
-| Selskap                            | Fritaksmetoden                           | 3% av utbytte                     | 0,66% (3% × 22%)             |
-| Utenlandsk aksjonær                | Kildeskatt                               | Vanligvis 15% (avhengig av land)  | Ca. 15%                      |
+| Selskap                            | Fritaksmetoden                           | 3% av utbytte                     | 0,66% (3%Â Ã—Â 22%)             |
+| Utenlandsk aksjonÃ¦r                | Kildeskatt                               | Vanligvis 15% (avhengig av land)  | Ca. 15%                      |
 
-## Privatpersoner: Ordinært utbytte og skjermingsfradrag
+## Privatpersoner: OrdinÃ¦rt utbytte og skjermingsfradrag
 
-Ordinært utbytte beskattes etter **aksjonærmodellen**, som sikrer at en normalavkastning blir skattefri gjennom **skjermingsfradrag**.
+OrdinÃ¦rt utbytte beskattes etter **aksjonÃ¦rmodellen**, som sikrer at en normalavkastning blir skattefri gjennom **skjermingsfradrag**.
 
 * Skjermingsfradrag beregnes som:  
-  _Skjermingsgrunnlag × Skjermingsrente_  
+  _SkjermingsgrunnlagÂ Ã—Â Skjermingsrente_  
 * Resterende utbytte etter skjerming beskattes som alminnelig inntekt (22%).  
-* Les mer i vår [Aksjonærmodellen - Komplett Guide til Norsk Aksjebeskatning](/blogs/regnskap/aksjonaermodellen-guide "Aksjonærmodellen - Komplett Guide til Norsk Aksjebeskatning").
+* Les mer i vÃ¥r [AksjonÃ¦rmodellen - Komplett Guide til Norsk Aksjebeskatning](/blogs/regnskap/aksjonaermodellen-guide "AksjonÃ¦rmodellen - Komplett Guide til Norsk Aksjebeskatning").
 
 ## Aksjesparekonto (ASK)
 
-En [aksjesparekonto](/blogs/regnskap/hva-er-aksjesparekonto "Hva er Aksjesparekonto? Fordeler, begrensninger og regler") lar privatpersoner utsette skatt på utbytte og gevinst. Innenfor kontoen er både utbytte og kursgevinster skattefrie inntil uttak.
+En [aksjesparekonto](/blogs/regnskap/hva-er-aksjesparekonto "Hva er Aksjesparekonto? Fordeler, begrensninger og regler") lar privatpersoner utsette skatt pÃ¥ utbytte og gevinst. Innenfor kontoen er bÃ¥de utbytte og kursgevinster skattefrie inntil uttak.
 
-* **Innskuddsramme:** 300 000 kr (2024)  
+* **Innskuddsramme:** 300Â 000Â kr (2024)  
 * **Skatteutsettelse:** Utbytte og gevinst skattefritt inntil uttak  
 * **Uttaksskatt:** 22% beregnes ved uttak av overskudd
 
 ## Selskaper: Fritaksmetoden
 
-For selskapsaksjonærer gjelder **fritaksmetoden**, som gir **skattefritak** for 97% av mottatt utbytte.
+For selskapsaksjonÃ¦rer gjelder **fritaksmetoden**, som gir **skattefritak** for 97% av mottatt utbytte.
 
 * 97% av utbyttet er skattefritt  
 * 3% av utbyttet er skattepliktig  
-* Effektiv skattesats: 0,66% (3% × 22%)  
-* Se vår [Fritaksmetoden - Skattefritak for aksjegevinst og utbytte](/blogs/regnskap/hva-er-fritaksmetoden "Fritaksmetoden - Komplett guide til skattefritak av aksjegevinst og utbytte") for detaljer.
+* Effektiv skattesats: 0,66% (3%Â Ã—Â 22%)  
+* Se vÃ¥r [Fritaksmetoden - Skattefritak for aksjegevinst og utbytte](/blogs/regnskap/hva-er-fritaksmetoden "Fritaksmetoden - Komplett guide til skattefritak av aksjegevinst og utbytte") for detaljer.
 
-## Kildeskatt for utenlandske aksjonærer
+## Kildeskatt for utenlandske aksjonÃ¦rer
 
-Utenlandske aksjonærer blir ofte utsatt for **kildeskatt** på utbytte.
+Utenlandske aksjonÃ¦rer blir ofte utsatt for **kildeskatt** pÃ¥ utbytte.
 
 | Land/gruppe        | Standard sats | Redusert sats etter skatteavtale |
 |--------------------|---------------|----------------------------------|
-| EØS-land           | 15%           | 0%–15% (avhengig av avtale)      |
-| Andre land         | 15%           | 0%–15% (avhengig av avtale)      |
+| EÃ˜S-land           | 15%           | 0%â€“15% (avhengig av avtale)      |
+| Andre land         | 15%           | 0%â€“15% (avhengig av avtale)      |
 
-## Ekstraordinært utbytte
+## EkstraordinÃ¦rt utbytte
 
-Ekstraordinært utbytte skattlegges på samme måte som ordinært utbytte, men krever særskilt vedtak.
+EkstraordinÃ¦rt utbytte skattlegges pÃ¥ samme mÃ¥te som ordinÃ¦rt utbytte, men krever sÃ¦rskilt vedtak.
 
-* Personlige aksjonærer beskattes etter aksjonærmodellen  
-* Selskapsaksjonærer kan benytte fritaksmetoden  
-* Utenlandske aksjonærer kan bli trukket kildeskatt  
-* For mer om ekstraordinært utbytte, se [Ekstraordinært Utbytte](/blogs/regnskap/ekstraordinart-utbytte "Ekstraordinært Utbytte - Alt du trenger å vite om ekstraordinært utbytte").
+* Personlige aksjonÃ¦rer beskattes etter aksjonÃ¦rmodellen  
+* SelskapsaksjonÃ¦rer kan benytte fritaksmetoden  
+* Utenlandske aksjonÃ¦rer kan bli trukket kildeskatt  
+* For mer om ekstraordinÃ¦rt utbytte, se [EkstraordinÃ¦rt Utbytte](/blogs/regnskap/ekstraordinart-utbytte "EkstraordinÃ¦rt Utbytte - Alt du trenger Ã¥ vite om ekstraordinÃ¦rt utbytte").
 
 ## Rapportering av utbytte
 
 * Privatpersoner rapporterer utbytte i RF-1030  
-* Selskaper rapporterer utbytte i RF-1167 og i årsregnskapet  
-* Husk å dokumentere skjermingsgrunnlag, kildeskatt og vedtak
+* Selskaper rapporterer utbytte i RF-1167 og i Ã¥rsregnskapet  
+* Husk Ã¥ dokumentere skjermingsgrunnlag, kildeskatt og vedtak
 
 ## Konklusjon
 
-**Skatt på utbytte** er en sentral del av aksjonærbeskatningen i Norge. Ved å forstå prinsippene bak aksjonærmodellen, skjermingsfradrag, fritaksmetoden og kildeskatt kan både privatpersoner og selskaper planlegge og rapportere riktig.
-
+**Skatt pÃ¥ utbytte** er en sentral del av aksjonÃ¦rbeskatningen i Norge. Ved Ã¥ forstÃ¥ prinsippene bak aksjonÃ¦rmodellen, skjermingsfradrag, fritaksmetoden og kildeskatt kan bÃ¥de privatpersoner og selskaper planlegge og rapportere riktig.

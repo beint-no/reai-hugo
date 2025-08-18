@@ -1,7 +1,7 @@
 ﻿---
 title: "4100-innkjop-varer-under-tilvirkning-hoy-sats"
 meta_title: "4100-innkjop-varer-under-tilvirkning-hoy-sats"
-meta_description: "**Konto 4100 - InnkjÃ¸p varer under tilvirkning hÃ¸y sats** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kjÃ¸p av varer under tilvirkni..."
+meta_description: '**Konto 4100 - InnkjÃ¸p varer under tilvirkning hÃ¸y sats** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kjÃ¸p av varer under tilvirkni...'
 slug: 4100-innkjop-varer-under-tilvirkning-hoy-sats
 type: blog
 layout: pages/single

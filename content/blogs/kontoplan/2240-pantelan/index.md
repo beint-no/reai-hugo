@@ -1,7 +1,7 @@
 ﻿---
 title: "2240-pantelan"
 meta_title: "2240-pantelan"
-meta_description: "**Konto 2240 - PantelÃ¥n** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til Ã¥ registrere **pantelÃ¥n**, det vil si lÃ¥n sikret med pant i eiend..."
+meta_description: '**Konto 2240 - PantelÃ¥n** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til Ã¥ registrere **pantelÃ¥n**, det vil si lÃ¥n sikret med pant i eiend...'
 slug: 2240-pantelan
 type: blog
 layout: pages/single

@@ -1,35 +1,33 @@
----
+﻿---
 title: "Rente"
-summary: "Rente beskriver kostnaden ved lån eller avkastningen ved sparing, og dekker både enkle og sammensatte renter samt ulike rentesatser som nominell og effektiv rente."
-description: "Lær alt om rente i norsk regnskap – definisjon, typer, beregning og regnskapsføring av renter, inkludert enkle og sammensatte renter."
+meta_title: "Rente"
+meta_description: '**Rente** er kostnaden ved Ã¥ lÃ¥ne penger eller avkastningen ved sparing, og utgjÃ¸r et grunnleggende konsept i norsk regnskapsfÃ¸rsel.'
 slug: rente
-featured_image: rente-image.svg
-featured_image_alt: "Rente"
-url: "/blogs/regnskap/rente/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
-**Rente** er kostnaden ved å låne penger eller avkastningen ved sparing, og utgjør et grunnleggende konsept i norsk regnskapsførsel.
+**Rente** er kostnaden ved Ã¥ lÃ¥ne penger eller avkastningen ved sparing, og utgjÃ¸r et grunnleggende konsept i norsk regnskapsfÃ¸rsel.
 
 ![Rente](rente-image.svg)
 
 ## Hva er rente?
 
-*Rente* er den prosentsatsen som legges til et lånebeløp eller innskudd over tid, uttrykt som en andel av hovedstolen per år. I regnskap brukes rente for å periodisere finansielle kostnader og inntekter knyttet til lån og investeringer.
+*Rente* er den prosentsatsen som legges til et lÃ¥nebelÃ¸p eller innskudd over tid, uttrykt som en andel av hovedstolen per Ã¥r. I regnskap brukes rente for Ã¥ periodisere finansielle kostnader og inntekter knyttet til lÃ¥n og investeringer.
 
 ## Typer renter
 
 Det finnes flere **typer renter** som brukes i ulike sammenhenger i regnskap:
 
-* **Enkel rente:** Rente beregnet kun på opprinnelig beløp.
-* [**Sammensatt rente**](/blogs/regnskap/renters-rente "Renters rente – Rente på rente i regnskap"): Rente beregnet på opprinnelig beløp pluss tidligere påløpt rente (rente på rente).
-* **Nominell rente:** Den oppgitte årsrenten uten hensyn til rentetilskrivninger. Se [Hva er nominell rente?](/blogs/regnskap/hva-er-nominell-rente "Hva er nominell rente? Definisjon og Beregning").
-* **Effektiv rente:** Den faktiske årlige rentekostnaden inkludert gebyrer og sammensatte renter. Se [Hva er effektiv rente?](/blogs/regnskap/hva-er-effektiv-rente "Hva er effektiv rente? Beregning og Eksempler").
-* **Morarente:** Lovbestemt forsinkelsesrente ved manglende betaling. Se [Morarente](/blogs/regnskap/hva-er-morarente "Morarente – Juridisk Grunnlag og Beregning").
-* **Forsinkelsesrente:** Rente ved forsinket betaling som påløper etter en påminnelse. Se [Hva er forsinkelsesrente?](/blogs/regnskap/hva-er-forsinkelsesrente "Forsinkelsesrente – Definisjon og Satser").
-* **Internrente:** Beregnet avkastningsrate for et investeringsprosjekt. Se [Hva er internrente?](/blogs/regnskap/internrente "Internrente – Beregning av Avkastning").
-* **Normrente:** Offisiell referanserente fastsatt årlig. Se [Normrente](/blogs/regnskap/normrente "Normrente – Definisjon og Bruk").
-* **Styringsrente:** Rente fastsatt av [Norges Bank](/blogs/regnskap/norges-bank "Hva er Norges Bank? Rolle og Funksjoner i Norsk Økonomi") som referanse for pengepolitikken. Se [Hva er Styringsrente?](/blogs/regnskap/styringsrente "Hva er Styringsrente? Komplett Guide til Norges Bank sin Styringsrente").
+* **Enkel rente:** Rente beregnet kun pÃ¥ opprinnelig belÃ¸p.
+* [**Sammensatt rente**](/blogs/regnskap/renters-rente "Renters rente â€“ Rente pÃ¥ rente i regnskap"): Rente beregnet pÃ¥ opprinnelig belÃ¸p pluss tidligere pÃ¥lÃ¸pt rente (rente pÃ¥ rente).
+* **Nominell rente:** Den oppgitte Ã¥rsrenten uten hensyn til rentetilskrivninger. Se [Hva er nominell rente?](/blogs/regnskap/hva-er-nominell-rente "Hva er nominell rente? Definisjon og Beregning").
+* **Effektiv rente:** Den faktiske Ã¥rlige rentekostnaden inkludert gebyrer og sammensatte renter. Se [Hva er effektiv rente?](/blogs/regnskap/hva-er-effektiv-rente "Hva er effektiv rente? Beregning og Eksempler").
+* **Morarente:** Lovbestemt forsinkelsesrente ved manglende betaling. Se [Morarente](/blogs/regnskap/hva-er-morarente "Morarente â€“ Juridisk Grunnlag og Beregning").
+* **Forsinkelsesrente:** Rente ved forsinket betaling som pÃ¥lÃ¸per etter en pÃ¥minnelse. Se [Hva er forsinkelsesrente?](/blogs/regnskap/hva-er-forsinkelsesrente "Forsinkelsesrente â€“ Definisjon og Satser").
+* **Internrente:** Beregnet avkastningsrate for et investeringsprosjekt. Se [Hva er internrente?](/blogs/regnskap/internrente "Internrente â€“ Beregning av Avkastning").
+* **Normrente:** Offisiell referanserente fastsatt Ã¥rlig. Se [Normrente](/blogs/regnskap/normrente "Normrente â€“ Definisjon og Bruk").
+* **Styringsrente:** Rente fastsatt av [Norges Bank](/blogs/regnskap/norges-bank "Hva er Norges Bank? Rolle og Funksjoner i Norsk Ã˜konomi") som referanse for pengepolitikken. Se [Hva er Styringsrente?](/blogs/regnskap/styringsrente "Hva er Styringsrente? Komplett Guide til Norges Bank sin Styringsrente").
 
 ## Formel for enkel og sammensatt rente
 
@@ -39,7 +37,7 @@ $$
 I = P \times r \times t
 $$
 
-Formelen for [**sammensatt rente**](/blogs/regnskap/renters-rente "Renters rente – Rente på rente i regnskap") (årlig kapitalisering) er:
+Formelen for [**sammensatt rente**](/blogs/regnskap/renters-rente "Renters rente â€“ Rente pÃ¥ rente i regnskap") (Ã¥rlig kapitalisering) er:
 
 $$
 A = P \times (1 + r)^t
@@ -48,39 +46,39 @@ $$
 Der:
 | Symbol | Betydning |
 | ------ | --------- |
-| *I*    | Rentebeløpet |
-| *P*    | Hovedstol (lånebeløp eller innskudd) |
+| *I*    | RentebelÃ¸pet |
+| *P*    | Hovedstol (lÃ¥nebelÃ¸p eller innskudd) |
 | *r*    | Rentesats per periode |
-| *t*    | Antall perioder (år) |
-| *A*    | Akkumulert beløp (inkludert rente) |
+| *t*    | Antall perioder (Ã¥r) |
+| *A*    | Akkumulert belÃ¸p (inkludert rente) |
 
-## Eksempel på beregning
+## Eksempel pÃ¥ beregning
 
-La oss anta et lån på 10 000 kr med **5 %** årlig rente over **3 år**.
+La oss anta et lÃ¥n pÃ¥ 10Â 000Â kr med **5â€¯%** Ã¥rlig rente over **3Â Ã¥r**.
 
-| Type rente      | Formel                  | Beløp         |
+| Type rente      | Formel                  | BelÃ¸p         |
 | -----------------| ------------------------ | ------------- |
-| Enkel rente      | 10 000 × 0,05 × 3        | 1 500 kr      |
-| Sammensatt rente | 10 000 × (1 + 0,05)^3    | 11 576 kr (A) |
-| Akkumulert rente | A − P                    | 1 576 kr      |
+| Enkel rente      | 10Â 000 Ã— 0,05 Ã— 3        | 1Â 500 kr      |
+| Sammensatt rente | 10Â 000 Ã— (1 + 0,05)^3    | 11Â 576 kr (A) |
+| Akkumulert rente | A âˆ’ P                    | 1Â 576 kr      |
 
 ## Rente i regnskap
 
 I regnskap periodiseres renter som finansposter i resultatregnskapet:
 
-* **Rentekostnader:** Kostnadsføres løpende for lån (konto 815x).
-* **Renteinntekter:** Inntektsføres for innskudd og fordringer (konto 805x).
-* **Periodisering:** Påløpte renter bokføres som periodisering (eksempelvis konto 1590/2490).
+* **Rentekostnader:** KostnadsfÃ¸res lÃ¸pende for lÃ¥n (konto 815x).
+* **Renteinntekter:** InntektsfÃ¸res for innskudd og fordringer (konto 805x).
+* **Periodisering:** PÃ¥lÃ¸pte renter bokfÃ¸res som periodisering (eksempelvis konto 1590/2490).
 
-For mer detaljert informasjon om regnskapsføring av renter, se:
-* [Hva er diskontering?](/blogs/regnskap/hva-er-diskontering "Diskontering – Nåverdi og Kontantstrøm").
-* [Hva er amortisering?](/blogs/regnskap/hva-er-amortisering "Amortisering – Avskrivninger og Avdrag").
+For mer detaljert informasjon om regnskapsfÃ¸ring av renter, se:
+* [Hva er diskontering?](/blogs/regnskap/hva-er-diskontering "Diskontering â€“ NÃ¥verdi og KontantstrÃ¸m").
+* [Hva er amortisering?](/blogs/regnskap/hva-er-amortisering "Amortisering â€“ Avskrivninger og Avdrag").
 
 ## Relaterte konsepter
 
 * [Hva er nominell rente?](/blogs/regnskap/hva-er-nominell-rente "Hva er nominell rente? Definisjon og Beregning")
 * [Hva er effektiv rente?](/blogs/regnskap/hva-er-effektiv-rente "Hva er effektiv rente? Beregning og Eksempler")
-* [Hva er morarente?](/blogs/regnskap/hva-er-morarente "Morarente – Juridisk Grunnlag og Beregning")
-* [Hva er forsinkelsesrente?](/blogs/regnskap/hva-er-forsinkelsesrente "Forsinkelsesrente – Definisjon og Satser")
-* [Internrente](/blogs/regnskap/internrente "Internrente – Beregning av Avkastning")
-* [Normrente](/blogs/regnskap/normrente "Normrente – Definisjon og Bruk")
+* [Hva er morarente?](/blogs/regnskap/hva-er-morarente "Morarente â€“ Juridisk Grunnlag og Beregning")
+* [Hva er forsinkelsesrente?](/blogs/regnskap/hva-er-forsinkelsesrente "Forsinkelsesrente â€“ Definisjon og Satser")
+* [Internrente](/blogs/regnskap/internrente "Internrente â€“ Beregning av Avkastning")
+* [Normrente](/blogs/regnskap/normrente "Normrente â€“ Definisjon og Bruk")

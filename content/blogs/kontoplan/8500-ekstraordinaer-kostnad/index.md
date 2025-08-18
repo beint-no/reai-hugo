@@ -1,7 +1,7 @@
 ﻿---
 title: "8500-ekstraordinaer-kostnad"
 meta_title: "8500-ekstraordinaer-kostnad"
-meta_description: "**Konto 8500 - EkstraordinÃ¦r kostnad** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **ekstraordinÃ¦r kostnad**, dvs. engangs- eller ufor..."
+meta_description: '**Konto 8500 - EkstraordinÃ¦r kostnad** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **ekstraordinÃ¦r kostnad**, dvs. engangs- eller ufor...'
 slug: 8500-ekstraordinaer-kostnad
 type: blog
 layout: pages/single

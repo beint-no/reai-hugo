@@ -1,7 +1,7 @@
 ﻿---
 title: "7750-eiendoms-og-festeavgifter"
 meta_title: "7750-eiendoms-og-festeavgifter"
-meta_description: "**Konto 7750 - Eiendoms- og festeavgifter** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **eiendoms- og festeavgifter**, inkludert kommun..."
+meta_description: '**Konto 7750 - Eiendoms- og festeavgifter** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **eiendoms- og festeavgifter**, inkludert kommun...'
 slug: 7750-eiendoms-og-festeavgifter
 type: blog
 layout: pages/single

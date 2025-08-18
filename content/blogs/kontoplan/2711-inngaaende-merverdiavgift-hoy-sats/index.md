@@ -1,7 +1,7 @@
 ﻿---
 title: "2711-inngaaende-merverdiavgift-hoy-sats"
 meta_title: "2711-inngaaende-merverdiavgift-hoy-sats"
-meta_description: "**Konto 2711 - InngÃ¥ende merverdiavgift hÃ¸y sats** er en konto i **Norsk Standard Kontoplan** som brukes ved periodisk **oppgjÃ¸r av inngÃ¥ende merverdiavgift..."
+meta_description: '**Konto 2711 - InngÃ¥ende merverdiavgift hÃ¸y sats** er en konto i **Norsk Standard Kontoplan** som brukes ved periodisk **oppgjÃ¸r av inngÃ¥ende merverdiavgift...'
 slug: 2711-inngaaende-merverdiavgift-hoy-sats
 type: blog
 layout: pages/single

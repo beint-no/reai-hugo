@@ -1,7 +1,7 @@
 ﻿---
 title: "6240-ved"
 meta_title: "6240-ved"
-meta_description: "**Konto 6240 - Ved** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **vedkostnader** i virksomhetens drift."
+meta_description: '**Konto 6240 - Ved** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **vedkostnader** i virksomhetens drift.'
 slug: 6240-ved
 type: blog
 layout: pages/single

@@ -1,62 +1,59 @@
----
-title: "Hva er Børs? En Guide til Norsk Børs og Aksjehandel"
-summary: "Børs er det organiserte markedet for kjøp og salg av aksjer og andre finansielle instrumenter. Denne guiden dekker hvordan Oslo Børs fungerer, de viktigste begrepene, regulatoriske krav og praktiske tips for aksjehandel."
-description: "Lær hva børs er, hvordan Oslo Børs fungerer, regulatoriske krav, nøkkelbegreper og hvordan du kan handle aksjer i Norge."
+﻿---
+title: "Hva er BÃ¸rs? En Guide til Norsk BÃ¸rs og Aksjehandel"
+meta_title: "Hva er BÃ¸rs? En Guide til Norsk BÃ¸rs og Aksjehandel"
+meta_description: '**BÃ¸rs** er det organiserte markedet for kjÃ¸p og salg av aksjer og andre finansielle instrumenter i Norge. **BÃ¸rsen** gir en strukturert og gjennomsiktig han...'
 slug: bors
-featured_image: bors-image.svg
-featured_image_alt: "Hva er Børs? En Guide til Norsk Børs og Aksjehandel"
-url: "/blogs/regnskap/bors/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
+**BÃ¸rs** er det organiserte markedet for kjÃ¸p og salg av aksjer og andre finansielle instrumenter i Norge. **BÃ¸rsen** gir en strukturert og gjennomsiktig handelsplattform som legger til rette for prisdannelse, likviditet og kapitaltilgang for selskaper.
 
-**Børs** er det organiserte markedet for kjøp og salg av aksjer og andre finansielle instrumenter i Norge. **Børsen** gir en strukturert og gjennomsiktig handelsplattform som legger til rette for prisdannelse, likviditet og kapitaltilgang for selskaper.
+![Hva er BÃ¸rs? En Guide til Norsk BÃ¸rs og Aksjehandel](bors-image.svg)
 
-![Hva er Børs? En Guide til Norsk Børs og Aksjehandel](bors-image.svg)
+## Hva er en bÃ¸rs?
 
-## Hva er en børs?
+*bÃ¸rs* (fra gammel engelsk *beorh* og tysk *BÃ¶rse*) refererer til en institusjon eller markedsplass der kjÃ¸p og salg av [verdipapirer](/blogs/regnskap/hva-er-verdipapir "Hva er Verdipapir? En Komplett Guide til Verdipapirer") som aksjer, obligasjoner og derivater skjer.
 
-*børs* (fra gammel engelsk *beorh* og tysk *Börse*) refererer til en institusjon eller markedsplass der kjøp og salg av [verdipapirer](/blogs/regnskap/hva-er-verdipapir "Hva er Verdipapir? En Komplett Guide til Verdipapirer") som aksjer, obligasjoner og derivater skjer.
+## Hvordan fungerer Oslo BÃ¸rs?
 
-## Hvordan fungerer Oslo Børs?
-
-Oslo Børs er Norges hovedbørs og driver en elektronisk handelsplattform hvor aksjer og andre verdipapirer handles kontinuerlig. Tabellen under viser noen nøkkelfakta om Oslo Børs:
+Oslo BÃ¸rs er Norges hovedbÃ¸rs og driver en elektronisk handelsplattform hvor aksjer og andre verdipapirer handles kontinuerlig. Tabellen under viser noen nÃ¸kkelfakta om Oslo BÃ¸rs:
 
 | Egenskap           | Detaljer                                |
 | ------------------ | --------------------------------------- |
-| Åpningstid         | 09:00 – 16:30 (CET)                     |
+| Ã…pningstid         | 09:00 â€“ 16:30 (CET)                     |
 | Antall selskaper   | Over 200                                |
 | Markedsverdi       | Omtrent 3 000 milliarder kroner         |
 | Valuta             | Norske kroner (NOK)                     |
 | Hovedindekser      | OSEBX, OBX, OSEFX                       |
 
-## Nøkkelbegreper i børs
+## NÃ¸kkelbegreper i bÃ¸rs
 
-* **Aksje** – En eierandel i et selskap. Se [Hva er en aksje?](/blogs/regnskap/hva-er-en-aksje "Hva er en Aksje?")
-* **Aksjekurs** – Prisen en aksje handles for, formet av tilbud og etterspørsel på børsen.
-* **Likviditet** – Evnen til å kjøpe og selge uten store prisendringer. Se [Hva er Likviditet?](/blogs/regnskap/hva-er-likviditet "Hva er Likviditet? En komplett guide til likviditetsstyring").
-* **Unoterte aksjer** – Aksjer som ikke er notert på børs. Se [Unoterte aksjer](/blogs/regnskap/unoterte-aksjer "Unoterte aksjer – Veileder til investering og regnskapsføring").
-* **Kurtasje** – avgift betalt til megler eller handelsplattform ved kjøp eller salg av aksjer og andre verdipapirer. Se [Hva er Kurtasje?](/blogs/regnskap/kurtasje "Hva er Kurtasje? Guide til Kurtasje og Megleravgifter")
+* **Aksje** â€“ En eierandel i et selskap. Se [Hva er en aksje?](/blogs/regnskap/hva-er-en-aksje "Hva er en Aksje?")
+* **Aksjekurs** â€“ Prisen en aksje handles for, formet av tilbud og etterspÃ¸rsel pÃ¥ bÃ¸rsen.
+* **Likviditet** â€“ Evnen til Ã¥ kjÃ¸pe og selge uten store prisendringer. Se [Hva er Likviditet?](/blogs/regnskap/hva-er-likviditet "Hva er Likviditet? En komplett guide til likviditetsstyring").
+* **Unoterte aksjer** â€“ Aksjer som ikke er notert pÃ¥ bÃ¸rs. Se [Unoterte aksjer](/blogs/regnskap/unoterte-aksjer "Unoterte aksjer â€“ Veileder til investering og regnskapsfÃ¸ring").
+* **Kurtasje** â€“ avgift betalt til megler eller handelsplattform ved kjÃ¸p eller salg av aksjer og andre verdipapirer. Se [Hva er Kurtasje?](/blogs/regnskap/kurtasje "Hva er Kurtasje? Guide til Kurtasje og Megleravgifter")
 * **Ordretyper**:
   | Ordretype      | Beskrivelse                             |
   | -------------- | --------------------------------------- |
-  | Markedsordre   | Kjøp/salg til beste tilgjengelige kurs   |
-  | Limitordre     | Kjøp/salg til angitt maksimum/minimum    |
+  | Markedsordre   | KjÃ¸p/salg til beste tilgjengelige kurs   |
+  | Limitordre     | KjÃ¸p/salg til angitt maksimum/minimum    |
   | Stop-loss ordre| Automatisk ordre ved en gitt kursgrense |
 
 ## Regulering og tilsyn
 
-Finanstilsynet fører tilsyn med børsen og påser at handel skjer i samsvar med gjeldende lover og regelverk.
+Finanstilsynet fÃ¸rer tilsyn med bÃ¸rsen og pÃ¥ser at handel skjer i samsvar med gjeldende lover og regelverk.
 
-## Hvordan handle aksjer på børsen?
+## Hvordan handle aksjer pÃ¥ bÃ¸rsen?
 
-For å handle aksjer på Oslo Børs trenger du en meglerkonto hos et registrert aksjemeglerforetak. Følg disse trinnene:
+For Ã¥ handle aksjer pÃ¥ Oslo BÃ¸rs trenger du en meglerkonto hos et registrert aksjemeglerforetak. FÃ¸lg disse trinnene:
 
-*   Åpne en meglerkonto hos en registrert tilbyder.
-*   Gjør en ordre (markedsordre eller limitordre) via nettbank eller handelsplattform.
-*   Bekreft ordren og følg med på ordrestatus.
-*   Ordren utføres, og aksjene registreres på kontoen din.
+*   Ã…pne en meglerkonto hos en registrert tilbyder.
+*   GjÃ¸r en ordre (markedsordre eller limitordre) via nettbank eller handelsplattform.
+*   Bekreft ordren og fÃ¸lg med pÃ¥ ordrestatus.
+*   Ordren utfÃ¸res, og aksjene registreres pÃ¥ kontoen din.
 
 ## Oppsummering
 
-Børsen er en kritisk del av det finansielle systemet i Norge, som muliggjør effektiv kapitalallokering og prising av selskaper. Ved å forstå de grunnleggende prinsippene, *ordretyper* og regulatoriske krav, kan investorer bedre navigere i aksjemarkedet og ta informerte beslutninger.
+BÃ¸rsen er en kritisk del av det finansielle systemet i Norge, som muliggjÃ¸r effektiv kapitalallokering og prising av selskaper. Ved Ã¥ forstÃ¥ de grunnleggende prinsippene, *ordretyper* og regulatoriske krav, kan investorer bedre navigere i aksjemarkedet og ta informerte beslutninger.

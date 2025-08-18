@@ -1,7 +1,7 @@
 ﻿---
 title: "7740-oreavrunding-mva-oppgjor"
 meta_title: "7740-oreavrunding-mva-oppgjor"
-meta_description: "**Konto 7740 - Ã˜reavrunding, MVA - oppgjÃ¸r** er en konto i **Norsk Standard Kontoplan** som brukes til Ã¥ bokfÃ¸re **Ã¸reavrunding** ved oppgjÃ¸r av **merverd..."
+meta_description: '**Konto 7740 - Ã˜reavrunding, MVA - oppgjÃ¸r** er en konto i **Norsk Standard Kontoplan** som brukes til Ã¥ bokfÃ¸re **Ã¸reavrunding** ved oppgjÃ¸r av **merverd...'
 slug: 7740-oreavrunding-mva-oppgjor
 type: blog
 layout: pages/single

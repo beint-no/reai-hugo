@@ -1,7 +1,7 @@
 ﻿---
 title: "6000"
 meta_title: "6000"
-meta_description: "**Konto 6000 - Avskrivning pÃ¥ bygninger og annen fast eiendom** er en konto i norsk kontoplan som benyttes for Ã¥ fordele **anskaffelseskostnaden** til bygning..."
+meta_description: '**Konto 6000 - Avskrivning pÃ¥ bygninger og annen fast eiendom** er en konto i norsk kontoplan som benyttes for Ã¥ fordele **anskaffelseskostnaden** til bygning...'
 slug: 6000
 type: blog
 layout: pages/single

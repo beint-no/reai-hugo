@@ -1,16 +1,13 @@
----
+﻿---
 title: "Hva er Gjeldsregisteret?"
-summary: "En omfattende guide til Gjeldsregisteret – formål, hvilke typer gjeld som registreres, innsynsrettigheter, bruk i kredittvurdering og praktisk regnskapsbruk."
-description: "Lær alt om Gjeldsregisteret, det norske registeret for usikrede forbrukslån og kredittinformasjon, inkludert innsynsregler, bruk i kredittvurdering og betydning for regnskap."
+meta_title: "Hva er Gjeldsregisteret?"
+meta_description: '**Gjeldsregisteret** er et offentlig register for **usikrede forbrukslÃ¥n** og annen kreditt som gir lÃ¥ngivere og kredittopplysningsbyrÃ¥er en samlet oversikt ...'
 slug: gjeldsregisteret
-featured_image: gjeldsregisteret-image.svg
-featured_image_alt: "Illustrasjon av Gjeldsregisteret"
-url: "/blogs/regnskap/gjeldsregisteret/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
-
-**Gjeldsregisteret** er et offentlig register for **usikrede forbrukslån** og annen kreditt som gir långivere og kredittopplysningsbyråer en samlet oversikt over en låntakers eksisterende gjeld. Registeret ble etablert for å styrke **kredittvurdering** og forebygge **økonomiske risikoer** ved å sikre at beslutninger om lån og kreditt baseres på fullstendige og pålitelige data.
+**Gjeldsregisteret** er et offentlig register for **usikrede forbrukslÃ¥n** og annen kreditt som gir lÃ¥ngivere og kredittopplysningsbyrÃ¥er en samlet oversikt over en lÃ¥ntakers eksisterende gjeld. Registeret ble etablert for Ã¥ styrke **kredittvurdering** og forebygge **Ã¸konomiske risikoer** ved Ã¥ sikre at beslutninger om lÃ¥n og kreditt baseres pÃ¥ fullstendige og pÃ¥litelige data.
 
 ![Illustrasjon av Gjeldsregisteret](gjeldsregisteret-image.svg)
 
@@ -18,27 +15,27 @@ draft: false
 
 | Type gjeld                   | Inkluderes | Unntak                             |
 |------------------------------|------------|------------------------------------|
-| **Forbrukslån**              | Ja         | Sikrede lån (boliglån, billån osv.)|
+| **ForbrukslÃ¥n**              | Ja         | Sikrede lÃ¥n (boliglÃ¥n, billÃ¥n osv.)|
 | **Kredittkortgjeld**         | Ja         | Bedriftskort                       |
-| **Billån uten pant**         | Ja         | Leasingavtaler                     |
-| **Kassekreditt**             | Ja         | Kortfristige kreditter i næringsdrift|
-| **Avtalegiro tilknyttet lån**| Ja         | Autogiroavtaler uten låneformål    |
+| **BillÃ¥n uten pant**         | Ja         | Leasingavtaler                     |
+| **Kassekreditt**             | Ja         | Kortfristige kreditter i nÃ¦ringsdrift|
+| **Avtalegiro tilknyttet lÃ¥n**| Ja         | Autogiroavtaler uten lÃ¥neformÃ¥l    |
 
-## Hvem kan få innsyn?
+## Hvem kan fÃ¥ innsyn?
 
-* **Långivere og kredittopplysningsbyråer:** For å utføre grundig kredittvurdering.
-* **Regnskapsførere og revisorer:** For å sikre korrekt presentasjon av kortsiktige forpliktelser i balanseregnskapet.
+* **LÃ¥ngivere og kredittopplysningsbyrÃ¥er:** For Ã¥ utfÃ¸re grundig kredittvurdering.
+* **RegnskapsfÃ¸rere og revisorer:** For Ã¥ sikre korrekt presentasjon av kortsiktige forpliktelser i balanseregnskapet.
 * **Forbrukere:** For egen oversikt over personlig gjeld via offentlige innsynstjenester.
 * **Myndigheter:** For statistikk, tilsyn og risikostyring i finanssektoren.
 
 ## Hvordan bruke Gjeldsregisteret i regnskaps- og kredittvurdering
 
-1. Hent detaljer om usikrede lån og kredittkortgjeld for å kartlegge **kortfristede forpliktelser**.
-2. Verifiser kunders rapporterte gjeld mot regnskapsdata for å avdekke **avvik**.
+1. Hent detaljer om usikrede lÃ¥n og kredittkortgjeld for Ã¥ kartlegge **kortfristede forpliktelser**.
+2. Verifiser kunders rapporterte gjeld mot regnskapsdata for Ã¥ avdekke **avvik**.
 3. Inkluder registerdata i **likviditetsanalyse** og **arbeidskapitalstyring** (se [Hva er arbeidskapital?](/blogs/regnskap/hva-er-arbeidskapital "Hva er Arbeidskapital? Beregning og Betydning for Bedriftens Drift")).
-4. Forbedre **kredittrisikoanalyse** ved å kombinere innsyn fra [Gjeldsregisteret](/blogs/regnskap/gjeldsregisteret "Hva er Gjeldsregisteret? En Guide til Gjeldsregisteret") med score fra [Betalingsanmerkning](/blogs/regnskap/betalingsanmerkning "Hva er Betalingsanmerkning? En Guide til Betalingsanmerkning") og [Betalingsevne](/blogs/regnskap/hva-er-betalingsevne "Hva er Betalingsevne? Analyse av Likviditet og Finansiell Stabilitet").
+4. Forbedre **kredittrisikoanalyse** ved Ã¥ kombinere innsyn fra [Gjeldsregisteret](/blogs/regnskap/gjeldsregisteret "Hva er Gjeldsregisteret? En Guide til Gjeldsregisteret") med score fra [Betalingsanmerkning](/blogs/regnskap/betalingsanmerkning "Hva er Betalingsanmerkning? En Guide til Betalingsanmerkning") og [Betalingsevne](/blogs/regnskap/hva-er-betalingsevne "Hva er Betalingsevne? Analyse av Likviditet og Finansiell Stabilitet").
 5. Dokumenter beslutningsgrunnlag for intern og ekstern revisjon.
 
 ## Fremtidige utviklinger og regulering
 
-Gjeldsregisteret er gjenstand for løpende diskusjoner om **personvern**, **datadeling** og utvidet omfang. Ny teknologi som API-integrasjon og sanntidsoppdateringer vil kunne gi raskere og mer nøyaktig informasjon om låntakeres gjeldssituasjon.
+Gjeldsregisteret er gjenstand for lÃ¸pende diskusjoner om **personvern**, **datadeling** og utvidet omfang. Ny teknologi som API-integrasjon og sanntidsoppdateringer vil kunne gi raskere og mer nÃ¸yaktig informasjon om lÃ¥ntakeres gjeldssituasjon.

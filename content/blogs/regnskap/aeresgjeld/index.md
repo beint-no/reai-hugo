@@ -1,61 +1,59 @@
----
-title: "Æresgjeld – Forståelse av æresbasert forpliktelse i norsk regnskap"
-summary: "Æresgjeld er en muntlig avtalt gjeld basert på tillit uten skriftlig kontrakt. Denne artikkelen beskriver definisjon, kjennetegn, regnskapsføring, risiko og forskjeller fra formell gjeld."
-description: "Lær hva æresgjeld er, kjennetegn, regnskapsføring og risiko ved æresbaserte forpliktelser i norsk regnskap."
+﻿---
+title: "Ã†resgjeld â€“ ForstÃ¥else av Ã¦resbasert forpliktelse i norsk regnskap"
+meta_title: "Ã†resgjeld â€“ ForstÃ¥else av Ã¦resbasert forpliktelse i norsk regnskap"
+meta_description: '**Ã†resgjeld** er en forpliktelse basert pÃ¥ tillit og Ã¦re uten skriftlig kontrakt. Dette konseptet har betydning i norsk regnskap nÃ¥r muntlige avtaler gir gj...'
 slug: aeresgjeld
-featured_image: aeresgjeld-image.svg
-featured_image_alt: "Illustrasjon av æresgjeld som ære- og tillitsbasert gjeld"
-url: "/blogs/regnskap/aeresgjeld/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
-**Æresgjeld** er en forpliktelse basert på tillit og ære uten skriftlig kontrakt. Dette konseptet har betydning i norsk regnskap når muntlige avtaler gir gjeldsforpliktelser som må håndteres korrekt.
+**Ã†resgjeld** er en forpliktelse basert pÃ¥ tillit og Ã¦re uten skriftlig kontrakt. Dette konseptet har betydning i norsk regnskap nÃ¥r muntlige avtaler gir gjeldsforpliktelser som mÃ¥ hÃ¥ndteres korrekt.
 
-![Æresgjeld illustrasjon](aeresgjeld-image.svg)
+![Ã†resgjeld illustrasjon](aeresgjeld-image.svg)
 
-## Definisjon av Æresgjeld
+## Definisjon av Ã†resgjeld
 
-Æresgjeld oppstår når to parter inngår en muntlig avtale om lån eller annen forpliktelse uten formell dokumentasjon. Avtalen hviler på tillit og partnerens ære om tilbakebetaling.
+Ã†resgjeld oppstÃ¥r nÃ¥r to parter inngÃ¥r en muntlig avtale om lÃ¥n eller annen forpliktelse uten formell dokumentasjon. Avtalen hviler pÃ¥ tillit og partnerens Ã¦re om tilbakebetaling.
 
-## Kjennetegn ved Æresgjeld
+## Kjennetegn ved Ã†resgjeld
 
-* **Muntlig avtale:** Basert på enighet uten skriftlig kontrakt
-* **Tillit:** Krever høy grad av tillit mellom partene
-* **Usikker forfallstid:** Tilbakebetalingstidspunktet kan være fleksibelt eller udefinert
+* **Muntlig avtale:** Basert pÃ¥ enighet uten skriftlig kontrakt
+* **Tillit:** Krever hÃ¸y grad av tillit mellom partene
+* **Usikker forfallstid:** Tilbakebetalingstidspunktet kan vÃ¦re fleksibelt eller udefinert
 * **Ingen sikkerhet:** Vanligvis ingen pant eller garantier
 
-## Regnskapsføring av Æresgjeld
+## RegnskapsfÃ¸ring av Ã†resgjeld
 
-Regnskapsføring av æresgjeld krever at virksomheten vurderer prinsippene for pålitelig måling og dokumentasjon:
+RegnskapsfÃ¸ring av Ã¦resgjeld krever at virksomheten vurderer prinsippene for pÃ¥litelig mÃ¥ling og dokumentasjon:
 
-* **Vurder erstattes:** Før formell gjeldsbekreftelse må beløpet vurderes og dokumenteres internt
-* **Klassifisering:** Legges til «Annen kortsiktig gjeld» når forpliktelsen er bekreftet
-* **Noteopplysninger:** Forklar formål, beløp og tilbakebetalingsvilkår i noter til [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse i Regnskap? Komplett Guide til Balansens Oppbygging og Funksjon")
+* **Vurder erstattes:** FÃ¸r formell gjeldsbekreftelse mÃ¥ belÃ¸pet vurderes og dokumenteres internt
+* **Klassifisering:** Legges til Â«Annen kortsiktig gjeldÂ» nÃ¥r forpliktelsen er bekreftet
+* **Noteopplysninger:** Forklar formÃ¥l, belÃ¸p og tilbakebetalingsvilkÃ¥r i noter til [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse i Regnskap? Komplett Guide til Balansens Oppbygging og Funksjon")
 
 ## Risiko og vurderinger
 
-Ved bruk av æresgjeld må virksomheten være oppmerksom på:
+Ved bruk av Ã¦resgjeld mÃ¥ virksomheten vÃ¦re oppmerksom pÃ¥:
 
-* **Kreditt- og reputasjonsrisiko:** Mangel på skriftlig dokumentasjon kan komplisere krav ved mislighold
-* **Likviditetsplanlegging:** Usikre forfall kan påvirke kontantstrøm og planlegging
-* **Intern kontroll:** Behov for godt internkontrollregime for å sikre sporbarhet og etterlevelse
+* **Kreditt- og reputasjonsrisiko:** Mangel pÃ¥ skriftlig dokumentasjon kan komplisere krav ved mislighold
+* **Likviditetsplanlegging:** Usikre forfall kan pÃ¥virke kontantstrÃ¸m og planlegging
+* **Intern kontroll:** Behov for godt internkontrollregime for Ã¥ sikre sporbarhet og etterlevelse
 
 ## Forskjeller fra Formell Gjeld
 
-| Egenskap           | Æresgjeld                    | Formell Gjeld                       |
+| Egenskap           | Ã†resgjeld                    | Formell Gjeld                       |
 |--------------------|------------------------------|-------------------------------------|
 | Grunnlag           | Muntlig avtale og tillit     | Skriftlig kontrakt og dokumentasjon |
-| Sikkerhet          | Ingen                        | Pant, garanti eller avtalevilkår    |
+| Sikkerhet          | Ingen                        | Pant, garanti eller avtalevilkÃ¥r    |
 | Forfallsdato       | Udefinert eller fleksibel    | Fastsatt i avtale                   |
-| Registrering       | Ikke regnskapsført før forfall | Registreres ved opptak             |
+| Registrering       | Ikke regnskapsfÃ¸rt fÃ¸r forfall | Registreres ved opptak             |
 
 ## Relaterte artikler
 
 | Relatert artikkel | Beskrivelse |
 |-------------------|-------------|
 | [Hva er Gjeld?](/blogs/regnskap/hva-er-gjeld "Hva er Gjeld i Regnskap? Komplett Guide til Forpliktelser og Gjeldstyper") | Om generelle prinsipper for gjeld |
-| [Hva er Kortsiktig Gjeld?](/blogs/regnskap/kortsiktig-gjeld "Hva er Kortsiktig Gjeld? Komplett Guide til Kortsiktige Forpliktelser") | Når gjelden forfaller innen ett år |
+| [Hva er Kortsiktig Gjeld?](/blogs/regnskap/kortsiktig-gjeld "Hva er Kortsiktig Gjeld? Komplett Guide til Kortsiktige Forpliktelser") | NÃ¥r gjelden forfaller innen ett Ã¥r |
 
 ## Oppsummering
 
-Æresgjeld er en spesiell form for gjeld som stammer fra muntlige avtaler og æresbaserte forpliktelser. Selv om det mangler formell dokumentasjon, krever god regnskapsskikk at slike forpliktelser vurderes, dokumenteres internt og presenteres i balansen og noter med tydelig forklaring.
+Ã†resgjeld er en spesiell form for gjeld som stammer fra muntlige avtaler og Ã¦resbaserte forpliktelser. Selv om det mangler formell dokumentasjon, krever god regnskapsskikk at slike forpliktelser vurderes, dokumenteres internt og presenteres i balansen og noter med tydelig forklaring.

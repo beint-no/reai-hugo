@@ -1,7 +1,7 @@
 ﻿---
 title: "5200-fri-bil"
 meta_title: "5200-fri-bil"
-meta_description: "**Konto 5200 - Fri bil** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til Ã¥ registrere **verdi av fri bil** som **ansattgode**."
+meta_description: '**Konto 5200 - Fri bil** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til Ã¥ registrere **verdi av fri bil** som **ansattgode**.'
 slug: 5200-fri-bil
 type: blog
 layout: pages/single

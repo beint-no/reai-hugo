@@ -1,7 +1,7 @@
 ﻿---
 title: "7500-forsikringspremie"
 meta_title: "7500-forsikringspremie"
-meta_description: "**Konto 7500 - Forsikringspremie** er en **konto** i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til Ã¥ registrere virksomhetens kostnader til **forsikri..."
+meta_description: '**Konto 7500 - Forsikringspremie** er en **konto** i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til Ã¥ registrere virksomhetens kostnader til **forsikri...'
 slug: 7500-forsikringspremie
 type: blog
 layout: pages/single

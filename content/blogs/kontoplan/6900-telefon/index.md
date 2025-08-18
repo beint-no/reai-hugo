@@ -1,7 +1,7 @@
 ﻿---
 title: "6900-telefon"
 meta_title: "6900-telefon"
-meta_description: "**Konto 6900 - Telefon** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til Ã¥ registrere **telefonkostnader** og telekommunikasjonsutgifter i..."
+meta_description: '**Konto 6900 - Telefon** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til Ã¥ registrere **telefonkostnader** og telekommunikasjonsutgifter i...'
 slug: 6900-telefon
 type: blog
 layout: pages/single

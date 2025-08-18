@@ -1,7 +1,7 @@
 ﻿---
 title: "1600-utgaende-merverdiavgift"
 meta_title: "1600-utgaende-merverdiavgift"
-meta_description: "**Konto 1600 - UtgÃ¥ende merverdiavgift** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **utgÃ¥ende merverdiavgift (MVA)** som en gjeld ti..."
+meta_description: '**Konto 1600 - UtgÃ¥ende merverdiavgift** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **utgÃ¥ende merverdiavgift (MVA)** som en gjeld ti...'
 slug: 1600-utgaende-merverdiavgift
 type: blog
 layout: pages/single

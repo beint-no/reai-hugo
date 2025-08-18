@@ -1,7 +1,7 @@
 ﻿---
 title: "8050-annen-renteinntekt"
 meta_title: "8050-annen-renteinntekt"
-meta_description: "**Konto 8050 - Annen renteinntekt** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **renteinntekter** fra eksterne finansielle instrumenter..."
+meta_description: '**Konto 8050 - Annen renteinntekt** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **renteinntekter** fra eksterne finansielle instrumenter...'
 slug: 8050-annen-renteinntekt
 type: blog
 layout: pages/single

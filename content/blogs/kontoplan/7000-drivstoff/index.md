@@ -1,7 +1,7 @@
 ﻿---
 title: "7000-drivstoff"
 meta_title: "7000-drivstoff"
-meta_description: "**Konto 7000 - Drivstoff** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til Ã¥ registrere **kostnader til drivstoff** for kjÃ¸retÃ¸y og maskiner..."
+meta_description: '**Konto 7000 - Drivstoff** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til Ã¥ registrere **kostnader til drivstoff** for kjÃ¸retÃ¸y og maskiner...'
 slug: 7000-drivstoff
 type: blog
 layout: pages/single

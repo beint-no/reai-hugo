@@ -1,7 +1,7 @@
 ﻿---
 title: "2920-gjeld-til-selskap-i-samme-konsern"
 meta_title: "2920-gjeld-til-selskap-i-samme-konsern"
-meta_description: "**Konto 2920 - Gjeld til selskap i samme konsern** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til Ã¥ registrere **langsiktig gjeld** til a..."
+meta_description: '**Konto 2920 - Gjeld til selskap i samme konsern** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til Ã¥ registrere **langsiktig gjeld** til a...'
 slug: 2920-gjeld-til-selskap-i-samme-konsern
 type: blog
 layout: pages/single

@@ -1,7 +1,7 @@
 ﻿---
 title: "2740-oppgjorskonto-merverdiavgift"
 meta_title: "2740-oppgjorskonto-merverdiavgift"
-meta_description: "**Konto 2740 - OppgjÃ¸rskonto merverdiavgift** er en konto i **Norsk Standard Kontoplan** som brukes til Ã¥ avstemme og oppgjÃ¸re **merverdiavgift (MVA)** mello..."
+meta_description: '**Konto 2740 - OppgjÃ¸rskonto merverdiavgift** er en konto i **Norsk Standard Kontoplan** som brukes til Ã¥ avstemme og oppgjÃ¸re **merverdiavgift (MVA)** mello...'
 slug: 2740-oppgjorskonto-merverdiavgift
 type: blog
 layout: pages/single

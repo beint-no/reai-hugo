@@ -1,7 +1,7 @@
 ﻿---
 title: "1300"
 meta_title: "1300"
-meta_description: "**Konto 1300 - Investeringer i datterselskaper** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **langsiktige investeringer** i datterselsk..."
+meta_description: '**Konto 1300 - Investeringer i datterselskaper** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **langsiktige investeringer** i datterselsk...'
 slug: 1300
 type: blog
 layout: pages/single

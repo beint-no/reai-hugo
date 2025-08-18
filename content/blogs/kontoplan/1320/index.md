@@ -1,7 +1,7 @@
 ﻿---
 title: "1320"
 meta_title: "1320"
-meta_description: "**Konto 1320 - LÃ¥n til foretak samme konsern** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **konserninterne lÃ¥n** til andre selskaper ..."
+meta_description: '**Konto 1320 - LÃ¥n til foretak samme konsern** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **konserninterne lÃ¥n** til andre selskaper ...'
 slug: 1320
 type: blog
 layout: pages/single

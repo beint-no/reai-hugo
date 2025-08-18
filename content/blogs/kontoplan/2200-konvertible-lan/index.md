@@ -1,7 +1,7 @@
 ﻿---
 title: "2200-konvertible-lan"
 meta_title: "2200-konvertible-lan"
-meta_description: "**Konto 2200 - Konvertible lÃ¥n** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til Ã¥ registrere **konvertible lÃ¥n**, dvs. lÃ¥n som gir lÃ¥ngiv..."
+meta_description: '**Konto 2200 - Konvertible lÃ¥n** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til Ã¥ registrere **konvertible lÃ¥n**, dvs. lÃ¥n som gir lÃ¥ngiv...'
 slug: 2200-konvertible-lan
 type: blog
 layout: pages/single

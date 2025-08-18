@@ -1,38 +1,36 @@
----
+﻿---
 title: "Hva er Styringsrente?"
-summary: "En grundig oversikt over hva styringsrente er, hvordan Norges Bank fastsetter den, og dens rolle i økonomi og regnskap."
-description: "Lær alt om styringsrente – Norges Bank sin referanserente for pengepolitikken, inkludert definisjon, historikk og økonomisk betydning."
+meta_title: "Hva er Styringsrente?"
+meta_description: '**Styringsrente** er den **renten** Norges Bank fastsetter for Ã¥ styre pengepolitikken og sikre prisstabilitet i norsk Ã¸konomi.'
 slug: styringsrente
-featured_image: styringsrente-image.svg
-featured_image_alt: "Hva er styringsrente?"
-url: "/blogs/regnskap/styringsrente/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
-**Styringsrente** er den **renten** Norges Bank fastsetter for å styre pengepolitikken og sikre prisstabilitet i norsk økonomi.
+**Styringsrente** er den **renten** Norges Bank fastsetter for Ã¥ styre pengepolitikken og sikre prisstabilitet i norsk Ã¸konomi.
 
 ![Styringsrente](styringsrente-image.svg)
 
 ## Hva er styringsrente?
 
-*Styringsrente*, også kalt foliorente eller referanserente, er den renten sentralbanken setter for bankenes plasseringer og innlån, og påvirker alle andre renter i økonomien.
+*Styringsrente*, ogsÃ¥ kalt foliorente eller referanserente, er den renten sentralbanken setter for bankenes plasseringer og innlÃ¥n, og pÃ¥virker alle andre renter i Ã¸konomien.
 
 ## Hvorfor er styringsrenten viktig?
 
-Styringsrenten er et sentralt verktøy i pengepolitikken og bidrar til:
+Styringsrenten er et sentralt verktÃ¸y i pengepolitikken og bidrar til:
 
-* **Inflasjonskontroll:** Justere pengemengden for å holde inflasjonen rundt målet (vanligvis 2 %).
-* **Stabil økonomisk vekst:** Dempe eller stimulere økonomien ved å endre lånekostnader.
+* **Inflasjonskontroll:** Justere pengemengden for Ã¥ holde inflasjonen rundt mÃ¥let (vanligvis 2â€¯%).
+* **Stabil Ã¸konomisk vekst:** Dempe eller stimulere Ã¸konomien ved Ã¥ endre lÃ¥nekostnader.
 * **Forutsigbarhet:** Skape klare forventninger for finansielle markeder, bedrifter og husholdninger.
 
 ## Hvordan fastsettes styringsrenten?
 
-Styringsrenten fastsettes på rentemøter i Norges Banks hovedstyre som holdes åtte ganger i året. Beslutningen baseres på:
+Styringsrenten fastsettes pÃ¥ rentemÃ¸ter i Norges Banks hovedstyre som holdes Ã¥tte ganger i Ã¥ret. Beslutningen baseres pÃ¥:
 
-1. Makroøkonomiske indikatorer, som inflasjon og BNP-vekst.
-2. Arbeidsmarkedets tilstand og lønnsvekst.
+1. MakroÃ¸konomiske indikatorer, som inflasjon og BNP-vekst.
+2. Arbeidsmarkedets tilstand og lÃ¸nnsvekst.
 3. Finansiell stabilitet og bankenes likviditet.
-4. Globale økonomiske forhold.
+4. Globale Ã¸konomiske forhold.
 
 ## Historisk utvikling av styringsrenten
 
@@ -44,18 +42,18 @@ Styringsrenten fastsettes på rentemøter i Norges Banks hovedstyre som holdes �
 | Jan 2023    | 2,25              |
 | Jan 2024    | 3,75              |
 
-## Styringsrente i regnskaps- og økonomisk sammenheng
+## Styringsrente i regnskaps- og Ã¸konomisk sammenheng
 
-Styringsrenten påvirker nøkkelområder i regnskap og finans:
+Styringsrenten pÃ¥virker nÃ¸kkelomrÃ¥der i regnskap og finans:
 
-* **Renteinntekter og -kostnader:** Endringer i styringsrenten påvirker [finansinntekt](/blogs/regnskap/finansinntekt "Finansinntekt – Renter, utbytte og kapitalgevinster") og rentekostnader.
-* **Referanserenter:** Grunnlaget for [NIBOR](/blogs/regnskap/nibor "NIBOR – Norsk Interbank Offered Rate") og andre pengemarkedsrenter.
-* **Normrente:** Påvirker [Normrente](/blogs/regnskap/normrente "Hva er Normrente? Komplett Guide til Normrente i Norsk Regnskapspraksis").
+* **Renteinntekter og -kostnader:** Endringer i styringsrenten pÃ¥virker [finansinntekt](/blogs/regnskap/finansinntekt "Finansinntekt â€“ Renter, utbytte og kapitalgevinster") og rentekostnader.
+* **Referanserenter:** Grunnlaget for [NIBOR](/blogs/regnskap/nibor "NIBOR â€“ Norsk Interbank Offered Rate") og andre pengemarkedsrenter.
+* **Normrente:** PÃ¥virker [Normrente](/blogs/regnskap/normrente "Hva er Normrente? Komplett Guide til Normrente i Norsk Regnskapspraksis").
 
 ## Relaterte konsepter
 
-* [Norges Bank](/blogs/regnskap/norges-bank "Hva er Norges Bank? Rolle og Funksjoner i Norsk Økonomi")
+* [Norges Bank](/blogs/regnskap/norges-bank "Hva er Norges Bank? Rolle og Funksjoner i Norsk Ã˜konomi")
 * [Inflasjon](/blogs/regnskap/hva-er-inflasjon "Hva er inflasjon? En guide til pengepolitikk og styringsrente")
-* [Rente](/blogs/regnskap/rente "Rente – En komplett guide til rente i regnskap")
+* [Rente](/blogs/regnskap/rente "Rente â€“ En komplett guide til rente i regnskap")
 * [Hva er nominell rente?](/blogs/regnskap/hva-er-nominell-rente "Hva er nominell rente? Definisjon og Beregning")
 * [Hva er effektiv rente?](/blogs/regnskap/hva-er-effektiv-rente "Hva er effektiv rente? Beregning og Eksempler")

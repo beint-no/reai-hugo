@@ -1,7 +1,7 @@
 ﻿---
 title: "1700-forskuddsbetalte-leier"
 meta_title: "1700-forskuddsbetalte-leier"
-meta_description: "**Konto 1700 - Forskuddsbetalte leier** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **forskuddsbetalte leiekostnader** for leie av lokal..."
+meta_description: '**Konto 1700 - Forskuddsbetalte leier** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **forskuddsbetalte leiekostnader** for leie av lokal...'
 slug: 1700-forskuddsbetalte-leier
 type: blog
 layout: pages/single

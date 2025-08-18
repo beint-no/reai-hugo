@@ -1,56 +1,54 @@
----
-title: "Mellomregningskonto i Regnskap – Guide til intercompany clearing og avstemming"
-summary: "Mellomregningskonto er en konto for å registrere og avstemme interne konserntransaksjoner. Denne guiden dekker bruk, bokføringseksempler og beste praksis i norsk regnskap."
-description: "Lær hvordan Mellomregningskonto fungerer i norsk regnskap for å avstemme interne konserntransaksjoner og sikre korrekt bokføring."
+﻿---
+title: "Mellomregningskonto i Regnskap â€“ Guide til intercompany clearing og avstemming"
+meta_title: "Mellomregningskonto i Regnskap â€“ Guide til intercompany clearing og avstemming"
+meta_description: '**Mellomregningskonto** er en **klareringskonto** som brukes for Ã¥ registrere og avstemme **interne konserntransaksjoner** mellom selskaper i samme konsern. Ve...'
 slug: mellomregningskonto
-featured_image: mellomregningskonto-image.svg
-featured_image_alt: "Mellomregningskonto i Regnskap"
-url: "/blogs/regnskap/mellomregningskonto/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
-**Mellomregningskonto** er en **klareringskonto** som brukes for å registrere og avstemme **interne konserntransaksjoner** mellom selskaper i samme konsern. Ved å samle alle gjensidige fordringer og gjeld i én felles konto, gir mellomregningskontoen oversikt over mellomværender som skal gjøres opp eller fordeles på tvers av regnskapsperioder.
+**Mellomregningskonto** er en **klareringskonto** som brukes for Ã¥ registrere og avstemme **interne konserntransaksjoner** mellom selskaper i samme konsern. Ved Ã¥ samle alle gjensidige fordringer og gjeld i Ã©n felles konto, gir mellomregningskontoen oversikt over mellomvÃ¦render som skal gjÃ¸res opp eller fordeles pÃ¥ tvers av regnskapsperioder.
 
 ![Mellomregningskonto i Regnskap](mellomregningskonto-image.svg)
 
 ## Hva er Mellomregningskonto?
 
-En mellomregningskonto fungerer som et sentralt oppgjørspunkt for alle interne balanseposter mellom konsernselskaper. Kontoen brukes til å holde oversikt over både **kortsiktige fordringer** og **kortsiktig gjeld** som oppstår ved interne transaksjoner før endelig avstemning og fordeling.
+En mellomregningskonto fungerer som et sentralt oppgjÃ¸rspunkt for alle interne balanseposter mellom konsernselskaper. Kontoen brukes til Ã¥ holde oversikt over bÃ¥de **kortsiktige fordringer** og **kortsiktig gjeld** som oppstÃ¥r ved interne transaksjoner fÃ¸r endelig avstemning og fordeling.
 
-## Når benyttes Mellomregningskonto?
+## NÃ¥r benyttes Mellomregningskonto?
 
 Mellomregningskonto er nyttig i flere scenarioer:
 
-* Ved interne overføringer av varer eller tjenester mellom konsernselskaper
-* Ved periodisering av konserninterne lånebevegelser
-* Ved oppgjør av konsernbidrag over regnskapsperioder
-* Ved konsolidering av interne saldoer ved årsavslutning
+* Ved interne overfÃ¸ringer av varer eller tjenester mellom konsernselskaper
+* Ved periodisering av konserninterne lÃ¥nebevegelser
+* Ved oppgjÃ¸r av konsernbidrag over regnskapsperioder
+* Ved konsolidering av interne saldoer ved Ã¥rsavslutning
 
-Se også [Konto 1560 - Andre fordringer på selskap samme konsern](/blogs/kontoplan/1560-andre-fordringer-pa-selskap-samme-konsern "Konto 1560 - Andre fordringer på selskap samme konsern") og [Konto 2260 - Gjeld til selskap i samme konsern](/blogs/kontoplan/2260-gjeld-til-selskap-i-samme-konsern "Konto 2260 - Gjeld til selskap i samme konsern") som konkrete eksempler i Norsk Standard Kontoplan (NS 4102).
+Se ogsÃ¥ [Konto 1560 - Andre fordringer pÃ¥ selskap samme konsern](/blogs/kontoplan/1560-andre-fordringer-pa-selskap-samme-konsern "Konto 1560 - Andre fordringer pÃ¥ selskap samme konsern") og [Konto 2260 - Gjeld til selskap i samme konsern](/blogs/kontoplan/2260-gjeld-til-selskap-i-samme-konsern "Konto 2260 - Gjeld til selskap i samme konsern") som konkrete eksempler i Norsk Standard Kontoplan (NSÂ 4102).
 
-## Regnskapsføring av Mellomregningskonto
+## RegnskapsfÃ¸ring av Mellomregningskonto
 
 | Transaksjon                                     | Debet                                                        | Kredit                           |
 |-------------------------------------------------|--------------------------------------------------------------|----------------------------------|
-| Intern fakturering fra konsernselskap           | Konto 1560 - Andre fordringer på selskap samme konsern       | Konto 2260 - Gjeld til selskap i samme konsern |
-| Oppgjør av mellomværende ved betaling            | Konto 2260 - Gjeld til selskap i samme konsern               | Konto 1920 - Bankinnskudd        |
-| Overføring til interimskonto ved periodisering  | Konto 1790 - Interimskonto                                   | Konto 1560/2260 (fordringer/gjeld) |
+| Intern fakturering fra konsernselskap           | Konto 1560 - Andre fordringer pÃ¥ selskap samme konsern       | Konto 2260 - Gjeld til selskap i samme konsern |
+| OppgjÃ¸r av mellomvÃ¦rende ved betaling            | Konto 2260 - Gjeld til selskap i samme konsern               | Konto 1920 - Bankinnskudd        |
+| OverfÃ¸ring til interimskonto ved periodisering  | Konto 1790 - Interimskonto                                   | Konto 1560/2260 (fordringer/gjeld) |
 
 ## Beste praksis og hensyn
 
-* Sørg for dokumentasjon av interne transaksjoner i henhold til [internkontrollforskriften](/blogs/regnskap/internkontrollforskriften "Internkontrollforskriften – krav og veiledning").
-* Dokumenter internprisingen i tråd med [armslengdeprinsippet](/blogs/regnskap/hva-er-internprising "Hva er Internprising? Retningslinjer for konserninternt salg").
-* Avstem saldo i mellomregningskonto regelmessig for å unngå store mellomværender.
-* Konsolider interne fordringer og gjeld ved årsavslutning for å sikre korrekte konsernregnskaper.
+* SÃ¸rg for dokumentasjon av interne transaksjoner i henhold til [internkontrollforskriften](/blogs/regnskap/internkontrollforskriften "Internkontrollforskriften â€“ krav og veiledning").
+* Dokumenter internprisingen i trÃ¥d med [armslengdeprinsippet](/blogs/regnskap/hva-er-internprising "Hva er Internprising? Retningslinjer for konserninternt salg").
+* Avstem saldo i mellomregningskonto regelmessig for Ã¥ unngÃ¥ store mellomvÃ¦render.
+* Konsolider interne fordringer og gjeld ved Ã¥rsavslutning for Ã¥ sikre korrekte konsernregnskaper.
 
-> Mellomregningskonto er et viktig verktøy for **å sikre oversikt** og **riktig avstemming** av konserninterne transaksjoner, som bidrar til korrekte regnskapsrapporter og enklere konsolidering.
+> Mellomregningskonto er et viktig verktÃ¸y for **Ã¥ sikre oversikt** og **riktig avstemming** av konserninterne transaksjoner, som bidrar til korrekte regnskapsrapporter og enklere konsolidering.
 
 ## Relaterte artikler
 
-* [Konto 1560 - Andre fordringer på selskap samme konsern](/blogs/kontoplan/1560-andre-fordringer-pa-selskap-samme-konsern "Konto 1560 - Andre fordringer på selskap samme konsern")
+* [Konto 1560 - Andre fordringer pÃ¥ selskap samme konsern](/blogs/kontoplan/1560-andre-fordringer-pa-selskap-samme-konsern "Konto 1560 - Andre fordringer pÃ¥ selskap samme konsern")
 * [Konto 2260 - Gjeld til selskap i samme konsern](/blogs/kontoplan/2260-gjeld-til-selskap-i-samme-konsern "Konto 2260 - Gjeld til selskap i samme konsern")
 * [Hva er Interimskonto?](/blogs/kontoplan/1790-interimskonto "Konto 1790 - Interimskonto: Midlertidige balanseposter ved periodisering")
 * [Hva er Internprising?](/blogs/regnskap/hva-er-internprising "Hva er Internprising? Retningslinjer for konserninternt salg")
 * [Hva er Konsern?](/blogs/regnskap/hva-er-konsern "Hva er Konsern? Komplett Guide til Konsernstrukturer og Konsernregnskap")
-* [Internkontrollforskriften](/blogs/regnskap/internkontrollforskriften "Internkontrollforskriften – krav og veiledning")
+* [Internkontrollforskriften](/blogs/regnskap/internkontrollforskriften "Internkontrollforskriften â€“ krav og veiledning")
 * [Hva er Periodisering i Regnskap?](/blogs/regnskap/hva-er-periodisering "Hva er Periodisering i Regnskap? Komplett Guide til Periodiseringsprinsippet")

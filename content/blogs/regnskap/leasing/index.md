@@ -1,61 +1,58 @@
----
+﻿---
 title: "Leasing"
-summary: "Leasing gir tilgang til eiendeler uten å kreve kjøpsinvestering. Lær om finansiell vs operasjonell leasing, balanseføring etter IFRS 16, regnskapsføring av leasingforpliktelser og praktiske eksempler."
-description: "En grundig gjennomgang av leasing, typer, regnskapsmessig behandling under norsk regnskapslovgivning og IFRS 16, med praktiske eksempler og beste praksis for norske bedrifter."
+meta_title: "Leasing"
+meta_description: '**Leasing** er en finansieringsteknikk som gir tilgang til eiendeler uten Ã¥ mÃ¥tte kjÃ¸pe dem kontant. I norsk regnskap har leasing gjennomgÃ¥tt en betydelig e...'
 slug: leasing
-featured_image: leasing-image.svg
-featured_image_alt: "Leasing"
-url: "/blogs/regnskap/leasing/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
+**Leasing** er en finansieringsteknikk som gir tilgang til eiendeler uten Ã¥ mÃ¥tte kjÃ¸pe dem kontant. I norsk regnskap har leasing gjennomgÃ¥tt en betydelig endring etter innfÃ¸ringen av **IFRSÂ 16**, hvor de fleste leasingavtaler nÃ¥ mÃ¥ balansefÃ¸res som **leasingforpliktelser** og **bruksretteiendeler**.
 
-**Leasing** er en finansieringsteknikk som gir tilgang til eiendeler uten å måtte kjøpe dem kontant. I norsk regnskap har leasing gjennomgått en betydelig endring etter innføringen av **IFRS 16**, hvor de fleste leasingavtaler nå må balanseføres som **leasingforpliktelser** og **bruksretteiendeler**.
-
-*Se også: [Hva er varige driftsmidler?](/blogs/regnskap/hva-er-varige-driftsmidler "Hva er varige driftsmidler? Komplett Guide til Avskrivbare Anleggsmidler")*  
-*Se også: [Hva er fremmedkapital?](/blogs/regnskap/hva-er-fremmedkapital "Hva er Fremmedkapital? Komplett Guide til Gjeld og Lånefinansiering")*  
-*Se også: [Hva er anleggsmidler?](/blogs/regnskap/hva-er-anleggsmidler "Hva er Anleggsmidler? Komplett Guide til Varige Driftsmidler")*
+*Se ogsÃ¥: [Hva er varige driftsmidler?](/blogs/regnskap/hva-er-varige-driftsmidler "Hva er varige driftsmidler? Komplett Guide til Avskrivbare Anleggsmidler")*  
+*Se ogsÃ¥: [Hva er fremmedkapital?](/blogs/regnskap/hva-er-fremmedkapital "Hva er Fremmedkapital? Komplett Guide til Gjeld og LÃ¥nefinansiering")*  
+*Se ogsÃ¥: [Hva er anleggsmidler?](/blogs/regnskap/hva-er-anleggsmidler "Hva er Anleggsmidler? Komplett Guide til Varige Driftsmidler")*
 
 ## 1. Typer Leasing
 
-Leasing deles ofte inn i to hovedkategorier i regnskapsføringen:
+Leasing deles ofte inn i to hovedkategorier i regnskapsfÃ¸ringen:
 
-| Type leasing         | Balanseføring | Kontroll og risiko                         |
+| Type leasing         | BalansefÃ¸ring | Kontroll og risiko                         |
 |----------------------|--------------|--------------------------------------------|
-| Finansiell leasing   | Ja           | Overføres til leietaker                    |
+| Finansiell leasing   | Ja           | OverfÃ¸res til leietaker                    |
 | Operasjonell leasing | Nei          | Forblir hos utleier                        |
 
 ![Leasing Oversikt](leasing-overview.svg)
 
-## 2. Regnskapsføring etter IFRS 16
+## 2. RegnskapsfÃ¸ring etter IFRSÂ 16
 
-Under **IFRS 16 Leieavtaler** må leietaker balanseføre de fleste leasingavtaler som:
+Under **IFRSÂ 16 Leieavtaler** mÃ¥ leietaker balansefÃ¸re de fleste leasingavtaler som:
 
-* En **bruksretteiendel** (Right-of-Use Asset) målt til nåverdien av fremtidige leasingbetalinger.
-* En **leasingforpliktelse** (Lease Liability) tilsvarende nåverdien av de samme betalingene.
+* En **bruksretteiendel** (Right-of-Use Asset) mÃ¥lt til nÃ¥verdien av fremtidige leasingbetalinger.
+* En **leasingforpliktelse** (Lease Liability) tilsvarende nÃ¥verdien av de samme betalingene.
 
 ## 3. Fordeler og ulemper med leasing
 
 ### Fordeler
 
-* **Lavere kapitalbinding**: Bevarer likviditet ved å unngå store forhåndsbetalinger.
-* **Fleksibilitet**: Mulighet til å oppgradere eller endre eiendeler ved slutten av kontraktsperioden.
-* **Skattefordeler**: Leiebetalinger kan være fradragsberettiget som driftkostnad.
+* **Lavere kapitalbinding**: Bevarer likviditet ved Ã¥ unngÃ¥ store forhÃ¥ndsbetalinger.
+* **Fleksibilitet**: Mulighet til Ã¥ oppgradere eller endre eiendeler ved slutten av kontraktsperioden.
+* **Skattefordeler**: Leiebetalinger kan vÃ¦re fradragsberettiget som driftkostnad.
 
 ### Ulemper
 
-* **Total kostnad** kan bli høyere enn ved kjøp.
-* **Balanseføring** kan øke gjeldsgrad og påvirke nøkkeltall.
+* **Total kostnad** kan bli hÃ¸yere enn ved kjÃ¸p.
+* **BalansefÃ¸ring** kan Ã¸ke gjeldsgrad og pÃ¥virke nÃ¸kkeltall.
 * **Langsiktige forpliktelser** binder opp fremtidig likviditet.
 
 ## 4. Praktisk eksempel
 
-Anta at en bedrift inngår en leasingavtale med månedlige betalinger på 20 000 kr i 3 år, med en diskonteringsrente på 5 %:
+Anta at en bedrift inngÃ¥r en leasingavtale med mÃ¥nedlige betalinger pÃ¥ 20Â 000Â kr i 3 Ã¥r, med en diskonteringsrente pÃ¥ 5Â %:
 
-| Periode | Månedlig betaling | Nåverdi av betalinger |
+| Periode | MÃ¥nedlig betaling | NÃ¥verdi av betalinger |
 |---------|-------------------|-----------------------|
-| 1–36    | 20 000 kr         | 640 000 kr            |
+| 1â€“36    | 20Â 000Â kr         | 640Â 000Â kr            |
 
 ## 5. Konklusjon
 
-Leasing er et fleksibelt alternativ til kjøp som kan forbedre likviditet og skatteposisjon, men krever nøye vurdering av totale kostnader og balanseføring etter IFRS 16.
+Leasing er et fleksibelt alternativ til kjÃ¸p som kan forbedre likviditet og skatteposisjon, men krever nÃ¸ye vurdering av totale kostnader og balansefÃ¸ring etter IFRSÂ 16.

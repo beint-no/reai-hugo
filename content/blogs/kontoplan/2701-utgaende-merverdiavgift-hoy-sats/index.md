@@ -1,7 +1,7 @@
 ﻿---
 title: "2701-utgaende-merverdiavgift-hoy-sats"
 meta_title: "2701-utgaende-merverdiavgift-hoy-sats"
-meta_description: "**Konto 2701 - UtgÃ¥ende merverdiavgift hÃ¸y sats** er en konto i **Norsk Standard Kontoplan** som brukes ved periodisk **oppgjÃ¸r av utgÃ¥ende merverdiavgift m..."
+meta_description: '**Konto 2701 - UtgÃ¥ende merverdiavgift hÃ¸y sats** er en konto i **Norsk Standard Kontoplan** som brukes ved periodisk **oppgjÃ¸r av utgÃ¥ende merverdiavgift m...'
 slug: 2701-utgaende-merverdiavgift-hoy-sats
 type: blog
 layout: pages/single

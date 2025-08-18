@@ -1,7 +1,7 @@
 ﻿---
 title: "1760-palopte-renter"
 meta_title: "1760-palopte-renter"
-meta_description: "**Konto 1760 - PÃ¥lÃ¸pte renter** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **pÃ¥lÃ¸pte renteutgifter**."
+meta_description: '**Konto 1760 - PÃ¥lÃ¸pte renter** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **pÃ¥lÃ¸pte renteutgifter**.'
 slug: 1760-palopte-renter
 type: blog
 layout: pages/single

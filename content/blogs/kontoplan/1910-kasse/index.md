@@ -1,7 +1,7 @@
 ﻿---
 title: "1910-kasse"
 meta_title: "1910-kasse"
-meta_description: "**Konto 1910 - Kasse** er en konto i norsk standard kontoplan som brukes til Ã¥ registrere virksomhetens **kassebeholdning**, det vil si de kontante midlene som..."
+meta_description: '**Konto 1910 - Kasse** er en konto i norsk standard kontoplan som brukes til Ã¥ registrere virksomhetens **kassebeholdning**, det vil si de kontante midlene som...'
 slug: 1910-kasse
 type: blog
 layout: pages/single

@@ -1,7 +1,7 @@
 ﻿---
 title: "2180-andre-avsetninger-for-forpliktelser"
 meta_title: "2180-andre-avsetninger-for-forpliktelser"
-meta_description: "**Konto 2180 - Andre avsetninger for forpliktelser** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **andre avsetninger for forpliktelser**..."
+meta_description: '**Konto 2180 - Andre avsetninger for forpliktelser** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **andre avsetninger for forpliktelser**...'
 slug: 2180-andre-avsetninger-for-forpliktelser
 type: blog
 layout: pages/single

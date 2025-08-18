@@ -1,7 +1,7 @@
 ﻿---
 title: "1614-inngaaende-merverdiavgift-lav-sats"
 meta_title: "1614-inngaaende-merverdiavgift-lav-sats"
-meta_description: "**Konto 1614 - InngÃ¥ende merverdiavgift lav sats** brukes for Ã¥ bokfÃ¸re *inngÃ¥ende merverdiavgift* pÃ¥ varer og tjenester som har den **reduserte MVA-satsen..."
+meta_description: '**Konto 1614 - InngÃ¥ende merverdiavgift lav sats** brukes for Ã¥ bokfÃ¸re *inngÃ¥ende merverdiavgift* pÃ¥ varer og tjenester som har den **reduserte MVA-satsen...'
 slug: 1614-inngaaende-merverdiavgift-lav-sats
 type: blog
 layout: pages/single

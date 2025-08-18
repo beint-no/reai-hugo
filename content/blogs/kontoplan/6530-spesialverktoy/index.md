@@ -1,7 +1,7 @@
 ﻿---
 title: "6530-spesialverktoy"
 meta_title: "6530-spesialverktoy"
-meta_description: "**Konto 6530 - SpesialverktÃ¸y** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kostnader til spesialverktÃ¸y** i virksomhetens drift."
+meta_description: '**Konto 6530 - SpesialverktÃ¸y** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kostnader til spesialverktÃ¸y** i virksomhetens drift.'
 slug: 6530-spesialverktoy
 type: blog
 layout: pages/single

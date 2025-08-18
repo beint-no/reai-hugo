@@ -1,95 +1,92 @@
----
-title: "Ekstraordinært Utbytte"
-summary: "Ekstraordinært utbytte er utdeling av overskudd utover ordinært utbytte, som krever særskilt styrevedtak og følger egne regler i aksjeloven."
-description: |
-  Lær om ekstraordinært utbytte i norske aksjeselskaper: juridiske krav, beregning, skattemessige konsekvenser og praktiske eksempler.
+﻿---
+title: "EkstraordinÃ¦rt Utbytte"
+meta_title: "EkstraordinÃ¦rt Utbytte"
+meta_description: '**EkstraordinÃ¦rt utbytte** er utdeling av overskudd fra et aksjeselskap som gÃ¥r utover det **ordinÃ¦re utbyttet**, og krever sÃ¦rskilt vedtak i generalforsaml...'
 slug: ekstraordinart-utbytte
-featured_image: ekstraordinart-utbytte-image.svg
-featured_image_alt: "Ekstraordinært Utbytte"
-url: "/blogs/regnskap/ekstraordinart-utbytte/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
-**Ekstraordinært utbytte** er utdeling av overskudd fra et aksjeselskap som går utover det **ordinære utbyttet**, og krever særskilt vedtak i generalforsamling og styre. Dette er en viktig mekanisme for å returnere overskudd i ekstraordinære situasjoner, for eksempel ved salg av eiendeler eller uventet høy overskudd.
+**EkstraordinÃ¦rt utbytte** er utdeling av overskudd fra et aksjeselskap som gÃ¥r utover det **ordinÃ¦re utbyttet**, og krever sÃ¦rskilt vedtak i generalforsamling og styre. Dette er en viktig mekanisme for Ã¥ returnere overskudd i ekstraordinÃ¦re situasjoner, for eksempel ved salg av eiendeler eller uventet hÃ¸y overskudd.
 
-![Illustrasjon som viser begrepet ekstraordinært utbytte](ekstraordinart-utbytte-image.svg)
+![Illustrasjon som viser begrepet ekstraordinÃ¦rt utbytte](ekstraordinart-utbytte-image.svg)
 
 ## Definisjon og Betydning
 
-Ekstraordinært utbytte skiller seg fra ordinært utbytte ved at det:
+EkstraordinÃ¦rt utbytte skiller seg fra ordinÃ¦rt utbytte ved at det:
 
-* **Utdeles utover** det som regnskapsmessig og lovmessig fastsettes som ordinært utbytte
-* **Krever særskilt beslutning** i generalforsamlingen basert på styrets forslag
-* Ofte knyttes til **engangshendelser** eller **ikke-løpende inntekter**
+* **Utdeles utover** det som regnskapsmessig og lovmessig fastsettes som ordinÃ¦rt utbytte
+* **Krever sÃ¦rskilt beslutning** i generalforsamlingen basert pÃ¥ styrets forslag
+* Ofte knyttes til **engangshendelser** eller **ikke-lÃ¸pende inntekter**
 
-Denne typen utbytte gir selskapsledelsen fleksibilitet til å belønne aksjonærene med en ekstraordinær utdeling når selskapet har disponible midler utover det som normalt kan deles ut.
+Denne typen utbytte gir selskapsledelsen fleksibilitet til Ã¥ belÃ¸nne aksjonÃ¦rene med en ekstraordinÃ¦r utdeling nÃ¥r selskapet har disponible midler utover det som normalt kan deles ut.
 
 ## Juridisk Grunnlag
 
-Reglene for ekstraordinært utbytte finnes i **aksjeloven § 8-2**, som stiller krav til at utbytte ikke må gå på bekostning av selskapets kapitalvern. Blant hovedkravene er:
+Reglene for ekstraordinÃ¦rt utbytte finnes i **aksjeloven Â§Â 8-2**, som stiller krav til at utbytte ikke mÃ¥ gÃ¥ pÃ¥ bekostning av selskapets kapitalvern. Blant hovedkravene er:
 
-* Selskapet må ha **tilstrekkelig fri egenkapital** etter ordinært utbytteutlegg
-* Utbyttet må godkjennes av **general­forsamlingen** etter innstilling fra styret
+* Selskapet mÃ¥ ha **tilstrekkelig fri egenkapital** etter ordinÃ¦rt utbytteutlegg
+* Utbyttet mÃ¥ godkjennes av **generalÂ­forsamlingen** etter innstilling fra styret
 * Det kreves en **styreprotokoll** som dokumenterer beslutningen
 
-For beregninger av det **maksimale ordinære utbyttet**, se [Maskimalt Utbytte](/blogs/regnskap/maskimalt-utbytte "Maskimalt Utbytte - Komplett Guide til Utbytteregler og Beregning").
+For beregninger av det **maksimale ordinÃ¦re utbyttet**, se [Maskimalt Utbytte](/blogs/regnskap/maskimalt-utbytte "Maskimalt Utbytte - Komplett Guide til Utbytteregler og Beregning").
 
-## Ekstraordinært vs. Ordinært Utbytte
+## EkstraordinÃ¦rt vs. OrdinÃ¦rt Utbytte
 
-Det er vesentlige forskjeller mellom ordinært og ekstraordinært utbytte:
+Det er vesentlige forskjeller mellom ordinÃ¦rt og ekstraordinÃ¦rt utbytte:
 
-| Type utbytte         | Formål                                     | Beslutningsnivå      |
+| Type utbytte         | FormÃ¥l                                     | BeslutningsnivÃ¥      |
 |-----------------------|--------------------------------------------|----------------------|
-| **Ordinært utbytte**  | Fastsettes ut fra årlig overskudd          | Generalforsamling    |
-| **Ekstraordinært**    | Engangsutdeling ved særlige hendelser      | Styre + Generalforsamling |
+| **OrdinÃ¦rt utbytte**  | Fastsettes ut fra Ã¥rlig overskudd          | Generalforsamling    |
+| **EkstraordinÃ¦rt**    | Engangsutdeling ved sÃ¦rlige hendelser      | Styre + Generalforsamling |
 
-## Eksempel på Beregning
+## Eksempel pÃ¥ Beregning
 
-Anta at et selskap etter ordinær utdeling har følgende fri egenkapital:
+Anta at et selskap etter ordinÃ¦r utdeling har fÃ¸lgende fri egenkapital:
 
-| Post                    | Beløp (NOK) |
+| Post                    | BelÃ¸p (NOK) |
 |-------------------------|-------------|
-| Fri egenkapital etter ordinært utbytte | 3 000 000   |
-| Ønsket ekstraordinært utbytte          | ?           |
+| Fri egenkapital etter ordinÃ¦rt utbytte | 3â€¯000â€¯000   |
+| Ã˜nsket ekstraordinÃ¦rt utbytte          | ?           |
 
-General­forslaget vedtar et ekstraordinært utbytte på **1 000 000 kr**, forutsatt at fri egenkapital er tilstrekkelig.
+GeneralÂ­forslaget vedtar et ekstraordinÃ¦rt utbytte pÃ¥ **1â€¯000â€¯000 kr**, forutsatt at fri egenkapital er tilstrekkelig.
 
 ## Prosess og Dokumentasjon
 
-For å sikre korrekt behandling må følgende trinn følges:
+For Ã¥ sikre korrekt behandling mÃ¥ fÃ¸lgende trinn fÃ¸lges:
 
-1. **Styrets forslag** til ekstraordinært utbytte utarbeides med beregninger
-2. Protokoll føres i **styremøte** med beslutningsgrunnlag
-3. Innkalling til **general­forsamling** sendes ut med forslag om utbytte
-4. Generalforsamlingen vedtar **beløp og utbetalingsdato**
-5. **Regnskapsføring** og rapportering i årsregnskapet
+1. **Styrets forslag** til ekstraordinÃ¦rt utbytte utarbeides med beregninger
+2. Protokoll fÃ¸res i **styremÃ¸te** med beslutningsgrunnlag
+3. Innkalling til **generalÂ­forsamling** sendes ut med forslag om utbytte
+4. Generalforsamlingen vedtar **belÃ¸p og utbetalingsdato**
+5. **RegnskapsfÃ¸ring** og rapportering i Ã¥rsregnskapet
 
 ## Skattemessige Konsekvenser
 
-Ekstraordinært utbytte skattlegges på tilsvarende måte som ordinært utbytte:
+EkstraordinÃ¦rt utbytte skattlegges pÃ¥ tilsvarende mÃ¥te som ordinÃ¦rt utbytte:
 
-* Personlige aksjonærer beskattes etter [Aksjonærmodellen](/blogs/regnskap/aksjonaermodellen-guide "Aksjonærmodellen - Komplett Guide til Norsk Aksjebeskatning")
-* Selskapsaksjonærer kan benytte **fritaksmetoden**
-* Utenlandske aksjonærer kan bli trukket **kildeskatt**
-* For en komplett oversikt over beskatning av utbytte, se [Skatt på utbytte](/blogs/regnskap/skatt-pa-utbytte "Skatt på utbytte – Guide til beskatning av utbytte i Norge").
+* Personlige aksjonÃ¦rer beskattes etter [AksjonÃ¦rmodellen](/blogs/regnskap/aksjonaermodellen-guide "AksjonÃ¦rmodellen - Komplett Guide til Norsk Aksjebeskatning")
+* SelskapsaksjonÃ¦rer kan benytte **fritaksmetoden**
+* Utenlandske aksjonÃ¦rer kan bli trukket **kildeskatt**
+* For en komplett oversikt over beskatning av utbytte, se [Skatt pÃ¥ utbytte](/blogs/regnskap/skatt-pa-utbytte "Skatt pÃ¥ utbytte â€“ Guide til beskatning av utbytte i Norge").
 
-## Praktiske Råd
+## Praktiske RÃ¥d
 
-* Sørg for å ha **god dokumentasjon** av selskapets frie egenkapital
-* Konsulter **revisor eller regnskapsfører** for å bekrefte at vilkårene er oppfylt
-* Vurder **virkningen på likviditet** og fremtidige investeringer
+* SÃ¸rg for Ã¥ ha **god dokumentasjon** av selskapets frie egenkapital
+* Konsulter **revisor eller regnskapsfÃ¸rer** for Ã¥ bekrefte at vilkÃ¥rene er oppfylt
+* Vurder **virkningen pÃ¥ likviditet** og fremtidige investeringer
 
 ## Konklusjon
 
-Ekstraordinært utbytte er en kraftig måte å dele ut merverdi til aksjonærene, men krever grundig vurdering av:
+EkstraordinÃ¦rt utbytte er en kraftig mÃ¥te Ã¥ dele ut merverdi til aksjonÃ¦rene, men krever grundig vurdering av:
 
-* **Juridiske krav** i aksjeloven § 8-2
-* **Tilgjengelig fri egenkapital** etter ordinært utbytte
+* **Juridiske krav** i aksjeloven Â§Â 8-2
+* **Tilgjengelig fri egenkapital** etter ordinÃ¦rt utbytte
 * **Dokumentasjonsplikt** i styre- og generalforsamlingsprotokoller
-* **Skattemessige konsekvenser** for ulike aksjonærtyper
+* **Skattemessige konsekvenser** for ulike aksjonÃ¦rtyper
 
-Ved å følge disse prinsippene kan selskaper sikre en **lovlig**, **transparent** og **forsvarlig** ekstraordinær utdeling.
+Ved Ã¥ fÃ¸lge disse prinsippene kan selskaper sikre en **lovlig**, **transparent** og **forsvarlig** ekstraordinÃ¦r utdeling.
 
-For mer om beregning og håndtering av endringer i utbytte etter vedtak, se [Oppjustering av aksjeutbytte](/blogs/regnskap/oppjustering-av-aksjeutbytte "Oppjustering av aksjeutbytte – Guide til justering av utbytte for norsk AS").
+For mer om beregning og hÃ¥ndtering av endringer i utbytte etter vedtak, se [Oppjustering av aksjeutbytte](/blogs/regnskap/oppjustering-av-aksjeutbytte "Oppjustering av aksjeutbytte â€“ Guide til justering av utbytte for norsk AS").
 
-For mer om tantieme, se [Tantieme](/blogs/regnskap/tantieme "Tantieme i aksjeselskap: Bonusmodell, Skattemessig Behandling og Bokføring").
+For mer om tantieme, se [Tantieme](/blogs/regnskap/tantieme "Tantieme i aksjeselskap: Bonusmodell, Skattemessig Behandling og BokfÃ¸ring").

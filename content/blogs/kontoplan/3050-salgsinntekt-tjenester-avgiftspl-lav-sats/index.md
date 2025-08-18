@@ -1,7 +1,7 @@
 ﻿---
 title: "3050-salgsinntekt-tjenester-avgiftspl-lav-sats"
 meta_title: "3050-salgsinntekt-tjenester-avgiftspl-lav-sats"
-meta_description: "**Konto 3050 - Salgsinntekt tjenester avgiftspl. lav sats** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **salgsinntekter** fra **tjenest..."
+meta_description: '**Konto 3050 - Salgsinntekt tjenester avgiftspl. lav sats** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **salgsinntekter** fra **tjenest...'
 slug: 3050-salgsinntekt-tjenester-avgiftspl-lav-sats
 type: blog
 layout: pages/single

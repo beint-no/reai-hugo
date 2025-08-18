@@ -1,41 +1,39 @@
----
+﻿---
 title: "Selvangivelse"
-summary: "Selvangivelse er den offisielle skattemeldingen som bedrifter og privatpersoner sender til Skatteetaten for å rapportere inntekter, fradrag og beregne skyldig skatt. Denne artikkelen dekker definisjon, frister, innsending, viktige skjemaer og gir praktiske tips for korrekt utfylling."
-description: "En omfattende guide til selvangivelse for bedrifter og privatpersoner i Norge. Lær om definisjon, frister, innsending og praktiske tips for korrekt utfylling."
+meta_title: "Selvangivelse"
+meta_description: '**Selvangivelse** er den offisielle skattemeldingen som bedrifter og privatpersoner sender til Skatteetaten for Ã¥ rapportere inntekter, fradrag og beregne skyl...'
 slug: selvangivelse
-featured_image: selvangivelse-image.svg
-featured_image_alt: "Selvangivelse"
-url: "/blogs/regnskap/selvangivelse/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
-**Selvangivelse** er den offisielle skattemeldingen som bedrifter og privatpersoner sender til Skatteetaten for å rapportere inntekter, fradrag og beregne skyldig **skatt**. I Norge benyttes begrepet [skattemelding](/blogs/regnskap/skattemelding "Skattemelding - Komplett Guide til Utfylling og Innlevering") som synonym, men termen **selvangivelse** er fortsatt mye brukt.
+**Selvangivelse** er den offisielle skattemeldingen som bedrifter og privatpersoner sender til Skatteetaten for Ã¥ rapportere inntekter, fradrag og beregne skyldig **skatt**. I Norge benyttes begrepet [skattemelding](/blogs/regnskap/skattemelding "Skattemelding - Komplett Guide til Utfylling og Innlevering") som synonym, men termen **selvangivelse** er fortsatt mye brukt.
 
 ![Selvangivelse](selvangivelse-image.svg)
 
 ## Hva er Selvangivelse?
 
-Selvangivelse, også kjent som skattemelding, er det offisielle dokumentet som brukes til å fastsette skattepliktig inntekt og utbetale eventuelt [skatteoppgjør](/blogs/regnskap/skatteoppgjor "Skatteoppgjør Guide: Prosess, Tidslinje og Viktige Frister"). Selvangivelsen omfatter både **personlige** og **næringsdrivendes** skatteforhold.
+Selvangivelse, ogsÃ¥ kjent som skattemelding, er det offisielle dokumentet som brukes til Ã¥ fastsette skattepliktig inntekt og utbetale eventuelt [skatteoppgjÃ¸r](/blogs/regnskap/skatteoppgjor "SkatteoppgjÃ¸r Guide: Prosess, Tidslinje og Viktige Frister"). Selvangivelsen omfatter bÃ¥de **personlige** og **nÃ¦ringsdrivendes** skatteforhold.
 
 ## Viktige begreper
 
 * **Frist**: Siste dato for innlevering til Skatteetaten.
 * **RF-skjemaer**: Spesifikke skjemaer som benyttes for ulike typer inntekter og fradrag.
-* *Selvangivelse på papir* vs. **elektronisk** innlevering.
+* *Selvangivelse pÃ¥ papir* vs. **elektronisk** innlevering.
 
 ## Oversikt over frister
 
-| Skatteår                | Frist      | Gjelder                                 |
+| SkatteÃ¥r                | Frist      | Gjelder                                 |
 |-------------------------|------------|-----------------------------------------|
-| **Personlig**           | 30. april  | Privatpersoner med forhåndsutfylt skjema |
-| **Enkeltpersonforetak** | 31. mai    | Næringsdrivende med personlig næring    |
+| **Personlig**           | 30. april  | Privatpersoner med forhÃ¥ndsutfylt skjema |
+| **Enkeltpersonforetak** | 31. mai    | NÃ¦ringsdrivende med personlig nÃ¦ring    |
 | **Foretak (AS mv.)**    | 31. mai    | Aksjeselskaper og andre selskapsformer  |
 
 ## Hvordan sende inn
 
-1. Gå til [Altinn](/blogs/regnskap/hva-er-altinn "Hva er Altinn? Digital Skatteportalen") og logg inn med [BankID](/blogs/regnskap/bankid "BankID - Sikker autentisering").
-2. Åpne selvangivelsen / skattemeldingen for ønsket skatteår.
-3. Fyll inn eller kontroller forhåndsutfylte beløp for inntekter og fradrag.
+1. GÃ¥ til [Altinn](/blogs/regnskap/hva-er-altinn "Hva er Altinn? Digital Skatteportalen") og logg inn med [BankID](/blogs/regnskap/bankid "BankID - Sikker autentisering").
+2. Ã…pne selvangivelsen / skattemeldingen for Ã¸nsket skatteÃ¥r.
+3. Fyll inn eller kontroller forhÃ¥ndsutfylte belÃ¸p for inntekter og fradrag.
 4. Last opp vedlegg og dokumentasjon i digitale vedlegg.
 5. Send inn og bekreft innsendingen via Altinn.
 

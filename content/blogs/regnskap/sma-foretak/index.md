@@ -1,67 +1,65 @@
----
-title: "Små Foretak"
-summary: "Små foretak er virksomheter som møter terskelkrav for omsetning, balansesum og ansatte, og som kan benytte forenklede regnskapsregler."
-description: "Lær om definisjon, kriterier og forenklede regnskapsregler for små foretak i Norge, inkludert krav, fordeler og praktiske tips."
+﻿---
+title: "SmÃ¥ Foretak"
+meta_title: "SmÃ¥ Foretak"
+meta_description: 'For en oversikt over generelle foretaksdefinisjoner, se [Hva er et Foretak?](/blogs/regnskap/hva-er-foretak "Hva er et Foretak? Komplett Guide til Foretaksforme...'
 slug: sma-foretak
-featured_image: sma-foretak-image.svg
-featured_image_alt: "Illustrasjon for konseptet Små Foretak"
-url: "/blogs/regnskap/sma-foretak/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
 For en oversikt over generelle foretaksdefinisjoner, se [Hva er et Foretak?](/blogs/regnskap/hva-er-foretak "Hva er et Foretak? Komplett Guide til Foretaksformer i Norge").
 
-Begrepet **små foretak** refererer til virksomheter som oppfyller bestemte terskelverdier for omsetning, balansesum og antall ansatte. Disse foretakene kan benytte **forenklede regnskapsregler** i henhold til regnskapsstandard for små foretak (RSFF).
+Begrepet **smÃ¥ foretak** refererer til virksomheter som oppfyller bestemte terskelverdier for omsetning, balansesum og antall ansatte. Disse foretakene kan benytte **forenklede regnskapsregler** i henhold til regnskapsstandard for smÃ¥ foretak (RSFF).
 
-![Små Foretak](sma-foretak-image.svg)
+![SmÃ¥ Foretak](sma-foretak-image.svg)
 
-## Hva er små foretak?
+## Hva er smÃ¥ foretak?
 
-Ifølge bokføringsforskriften defineres små foretak av følgende kriterier per regnskapsår:
+IfÃ¸lge bokfÃ¸ringsforskriften defineres smÃ¥ foretak av fÃ¸lgende kriterier per regnskapsÃ¥r:
 
 | Kriterium               | Terskel                 |
 |-------------------------|-------------------------|
-| Omsetning               | Under NOK 70 000 000    |
-| Balansesum              | Under NOK 35 000 000    |
-| Gjennomsnittlig ansatte | Under 50 [årsverk](/blogs/regnskap/arsverk "Årsverk") |
+| Omsetning               | Under NOK 70Â 000Â 000    |
+| Balansesum              | Under NOK 35Â 000Â 000    |
+| Gjennomsnittlig ansatte | Under 50 [Ã¥rsverk](/blogs/regnskap/arsverk "Ã…rsverk") |
 
-Foretak som oppfyller minst to av disse tre kriteriene kan rapportere som små foretak med **forenklet rapportering**.
+Foretak som oppfyller minst to av disse tre kriteriene kan rapportere som smÃ¥ foretak med **forenklet rapportering**.
 
-## Regler og krav for små foretak
+## Regler og krav for smÃ¥ foretak
 
-Små foretak reguleres av [bokføringsforskriften](/blogs/regnskap/hva-er-bokforingsforskriften "Hva er Bokføringsforskriften? Guide til regnskapsstandarder og krav"). De viktigste regnskapsstandardene og prinsippene er:
+SmÃ¥ foretak reguleres av [bokfÃ¸ringsforskriften](/blogs/regnskap/hva-er-bokforingsforskriften "Hva er BokfÃ¸ringsforskriften? Guide til regnskapsstandarder og krav"). De viktigste regnskapsstandardene og prinsippene er:
 
-* **Forenklet IFRS** for små foretak
+* **Forenklet IFRS** for smÃ¥ foretak
 * **God regnskapsskikk** som grunnlag
 * **Forenklede** notekrav sammenlignet med full NRS
-* **Lavere krav** til detaljert årsberetning
+* **Lavere krav** til detaljert Ã¥rsberetning
 
-Se også [God regnskapsskikk](/blogs/regnskap/god-regnskapsskikk "God regnskapsskikk: Introduksjon til regnskapsprinsipper") og [Norsk standard regnskap](/blogs/regnskap/norsk-standard-regnskap "Norsk Regnskapsstandard: Oversikt og vei videre").
+Se ogsÃ¥ [God regnskapsskikk](/blogs/regnskap/god-regnskapsskikk "God regnskapsskikk: Introduksjon til regnskapsprinsipper") og [Norsk standard regnskap](/blogs/regnskap/norsk-standard-regnskap "Norsk Regnskapsstandard: Oversikt og vei videre").
 
 ## Fordeler ved forenklinger
 
-Å føre regnskap som små foretak gir flere fordeler:
+Ã… fÃ¸re regnskap som smÃ¥ foretak gir flere fordeler:
 
 * Redusert administrativ byrde og lavere kostnader
 * Mindre omfangsrike notekrav og rapporteringsdetaljer
-* Enklere årsoppgjør og kortere tidsbruk ved regnskapsavslutning
+* Enklere Ã¥rsoppgjÃ¸r og kortere tidsbruk ved regnskapsavslutning
 * Bedre likviditetsstyring ved enklere rapportering
 
 ## Begrensninger og anbefalinger
 
-Selv om reglene for små foretak er forenklet, må du fortsatt:
+Selv om reglene for smÃ¥ foretak er forenklet, mÃ¥ du fortsatt:
 
-* Oppfylle **bokføringsplikt** i henhold til [bokføringsplikt](/blogs/regnskap/hva-er-bokforingsplikt "Hva er Bokføringsplikt? Komplett Guide til Regler og Krav")
-* Sørge for korrekt **dokumentasjon** og oppbevaring i minimum 5 år
-* Vurdere om du overskrider kriteriene årlig; ved overskridelse må full NRS eller IFRS benyttes
+* Oppfylle **bokfÃ¸ringsplikt** i henhold til [bokfÃ¸ringsplikt](/blogs/regnskap/hva-er-bokforingsplikt "Hva er BokfÃ¸ringsplikt? Komplett Guide til Regler og Krav")
+* SÃ¸rge for korrekt **dokumentasjon** og oppbevaring i minimum 5 Ã¥r
+* Vurdere om du overskrider kriteriene Ã¥rlig; ved overskridelse mÃ¥ full NRS eller IFRS benyttes
 
-## Hvordan avgjøre om du er et små foretak
+## Hvordan avgjÃ¸re om du er et smÃ¥ foretak
 
-Følg disse trinnene for å avgjøre om virksomheten din kvalifiserer:
+FÃ¸lg disse trinnene for Ã¥ avgjÃ¸re om virksomheten din kvalifiserer:
 
-1. Samle siste års **omsetning**, **balansesum** og **antall ansatte**.
+1. Samle siste Ã¥rs **omsetning**, **balansesum** og **antall ansatte**.
 2. Sammenlign tallene med terskelverdiene i tabellen over.
-3. Hvis du oppfyller to av tre kriterier, kan du rapportere som små foretak.
-4. Evaluer status årlig før årsavslutning for å sikre korrekt anvendelse av regnskapsstandard.
+3. Hvis du oppfyller to av tre kriterier, kan du rapportere som smÃ¥ foretak.
+4. Evaluer status Ã¥rlig fÃ¸r Ã¥rsavslutning for Ã¥ sikre korrekt anvendelse av regnskapsstandard.
 
-For mer om årsavslutning, se [Hva er årsavslutning?](/blogs/regnskap/hva-er-aarsavslutning "Hva er Aarsavslutning? Komplett Guide til Årsavslutning").
+For mer om Ã¥rsavslutning, se [Hva er Ã¥rsavslutning?](/blogs/regnskap/hva-er-aarsavslutning "Hva er Aarsavslutning? Komplett Guide til Ã…rsavslutning").

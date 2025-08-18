@@ -1,7 +1,7 @@
 ﻿---
 title: "2610-paalleggstrekk"
 meta_title: "2610-paalleggstrekk"
-meta_description: "**Konto 2610 - PÃ¥leggstrekk** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **pÃ¥leggstrekk** som arbeidsgiver foretar i ansattes [lÃ¸nn]..."
+meta_description: '**Konto 2610 - PÃ¥leggstrekk** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **pÃ¥leggstrekk** som arbeidsgiver foretar i ansattes [lÃ¸nn]...'
 slug: 2610-paalleggstrekk
 type: blog
 layout: pages/single

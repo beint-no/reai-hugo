@@ -1,7 +1,7 @@
 ﻿---
 title: "6320-renovasjon-vann-avlop-mv"
 meta_title: "6320-renovasjon-vann-avlop-mv"
-meta_description: "**Konto 6320 - Renovasjon, vann, avlÃ¸p mv.** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kostnader til renovasjon, vann, avlÃ¸p og ti..."
+meta_description: '**Konto 6320 - Renovasjon, vann, avlÃ¸p mv.** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kostnader til renovasjon, vann, avlÃ¸p og ti...'
 slug: 6320-renovasjon-vann-avlop-mv
 type: blog
 layout: pages/single

@@ -1,61 +1,59 @@
----
-title: "Unoterte aksjer – Veileder til investering og regnskapsføring"
-summary: "En guide til å forstå unoterte aksjer, fra verdsettelse og regnskapsføring til skatt og overføring av eierandeler."
-description: "Lær hva unoterte aksjer er, hvordan de verdsettes, regnskapsføres og skattlegges i Norge."
+﻿---
+title: "Unoterte aksjer â€“ Veileder til investering og regnskapsfÃ¸ring"
+meta_title: "Unoterte aksjer â€“ Veileder til investering og regnskapsfÃ¸ring"
+meta_description: '**Unoterte aksjer** er aksjer i selskaper som ikke er notert pÃ¥ bÃ¸rs eller annen regulert markedsplass. Dette innebÃ¦rer begrenset likviditet, lavere grad av ...'
 slug: unoterte-aksjer
-featured_image: unoterte-aksjer-image.svg
-featured_image_alt: "Unoterte aksjer – Veileder til investering og regnskapsføring"
-url: "/blogs/regnskap/unoterte-aksjer/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
-**Unoterte aksjer** er aksjer i selskaper som ikke er notert på børs eller annen regulert markedsplass. Dette innebærer begrenset likviditet, lavere grad av offentlig informasjon og egne regler for verdsettelse og regnskapsføring.
+**Unoterte aksjer** er aksjer i selskaper som ikke er notert pÃ¥ bÃ¸rs eller annen regulert markedsplass. Dette innebÃ¦rer begrenset likviditet, lavere grad av offentlig informasjon og egne regler for verdsettelse og regnskapsfÃ¸ring.
 
-![Unoterte aksjer – Veileder til investering og regnskapsføring](unoterte-aksjer-image.svg)
+![Unoterte aksjer â€“ Veileder til investering og regnskapsfÃ¸ring](unoterte-aksjer-image.svg)
 
 ## Hva kjennetegner unoterte aksjer?
 
-Unoterte aksjer har flere karakteristiske egenskaper som skiller dem fra børsnoterte aksjer:
+Unoterte aksjer har flere karakteristiske egenskaper som skiller dem fra bÃ¸rsnoterte aksjer:
 
-*   **Lav likviditet:** Aksjene handles sjeldnere, og det kan ta tid å finne kjøpere eller selgere.
-*   **Begrenset informasjon:** Selskaper som ikke er børsnoterte, publiserer ikke samme grad av regnskaps- og markedsdata.
-*   **Eierbegrensninger:** Overføring kan kreve godkjenning i selskapets vedtekter eller forkjøpsrett for eksisterende aksjonærer.
-*   **Privat verdsettelse:** Prissetting skjer ofte gjennom forhandlinger eller basert på interne verdsettelsesmodeller.
+*   **Lav likviditet:** Aksjene handles sjeldnere, og det kan ta tid Ã¥ finne kjÃ¸pere eller selgere.
+*   **Begrenset informasjon:** Selskaper som ikke er bÃ¸rsnoterte, publiserer ikke samme grad av regnskaps- og markedsdata.
+*   **Eierbegrensninger:** OverfÃ¸ring kan kreve godkjenning i selskapets vedtekter eller forkjÃ¸psrett for eksisterende aksjonÃ¦rer.
+*   **Privat verdsettelse:** Prissetting skjer ofte gjennom forhandlinger eller basert pÃ¥ interne verdsettelsesmodeller.
 
 ## Hvordan verdsette unoterte aksjer?
 
-Verdsettelse av unoterte aksjer kan gjøres ved bruk av ulike metoder avhengig av tilgjengelig informasjon og formål:
+Verdsettelse av unoterte aksjer kan gjÃ¸res ved bruk av ulike metoder avhengig av tilgjengelig informasjon og formÃ¥l:
 
 | Metode                       | Beskrivelse                                                            |
 |------------------------------|------------------------------------------------------------------------|
 | **Substansbasert verdsettelse** | Beregner aksjeverdien ut fra selskapets netto eiendeler (balanse).      |
-| **Inntektsbasert verdsettelse** | Diskonterer fremtidige kontantstrømmer eller inntjening (DCF/PE).         |
-| **Markedsbasert sammenligning** | Sammenligner med transaksjoner i lignende private eller børsnoterte selskaper. |
+| **Inntektsbasert verdsettelse** | Diskonterer fremtidige kontantstrÃ¸mmer eller inntjening (DCF/PE).         |
+| **Markedsbasert sammenligning** | Sammenligner med transaksjoner i lignende private eller bÃ¸rsnoterte selskaper. |
 
 For mer om metoder for inntektsbasert vurdering, se [Hva er inntjeningsbasert verdsettelse?](/blogs/regnskap/hva-er-inntjeningsbasert-verdivurdering "Hva er inntjeningsbasert verdsettelse").
 
-## Regnskapsføring av unoterte aksjer
+## RegnskapsfÃ¸ring av unoterte aksjer
 
-I regnskapet klassifiseres unoterte aksjer vanligvis som **anleggsmiddel** dersom de holdes langsiktig. Etter Norsk Regnskapsstandard (NRS) må de måles til anskaffelseskost, med ned- eller oppskrivning ved verdifall eller verdistigning:
+I regnskapet klassifiseres unoterte aksjer vanligvis som **anleggsmiddel** dersom de holdes langsiktig. Etter Norsk Regnskapsstandard (NRS) mÃ¥ de mÃ¥les til anskaffelseskost, med ned- eller oppskrivning ved verdifall eller verdistigning:
 
 | Konto                 | Debet                   | Kredit                    |
 |-----------------------|-------------------------|---------------------------|
 | Anleggsmidler          | Anskaffelseskost        |                           |
-| Nedskrivning           | Nedskrivningsbeløp      | Anleggsmidler             |
+| Nedskrivning           | NedskrivningsbelÃ¸p      | Anleggsmidler             |
 | Oppskrivning           | Anleggsmidler           | Oppskrivningsfond         |
 
-Se også [Hva er IFRS?](/blogs/regnskap/hva-er-ifrs "Hva er IFRS?") og [Norsk Regnskapsstandard NRS](/blogs/regnskap/norsk-regnskapsstandard-nrs "Norsk Regnskapsstandard (NRS)").
+Se ogsÃ¥ [Hva er IFRS?](/blogs/regnskap/hva-er-ifrs "Hva er IFRS?") og [Norsk Regnskapsstandard NRS](/blogs/regnskap/norsk-regnskapsstandard-nrs "Norsk Regnskapsstandard (NRS)").
 
-## Skatt på unoterte aksjer
+## Skatt pÃ¥ unoterte aksjer
 
-Utbytte og gevinst ved salg av unoterte aksjer skattlegges etter samme prinsipper som børsnoterte aksjer under [aksjonærmodellen](/blogs/regnskap/aksjonaermodellen-guide "Aksjonærmodellen - Komplett Guide til Norsk Aksjebeskatning").
+Utbytte og gevinst ved salg av unoterte aksjer skattlegges etter samme prinsipper som bÃ¸rsnoterte aksjer under [aksjonÃ¦rmodellen](/blogs/regnskap/aksjonaermodellen-guide "AksjonÃ¦rmodellen - Komplett Guide til Norsk Aksjebeskatning").
 
-## Overføring og eierbegrensninger
+## OverfÃ¸ring og eierbegrensninger
 
-Overføring av unoterte aksjer følger ofte selskapets vedtekter og kan være underlagt forkjøpsrett. For detaljer om forkjøpsrett, se [Forkjøpsrett](/blogs/regnskap/forkjopsrett "Forkjøpsrett og aksjeoverføring").
+OverfÃ¸ring av unoterte aksjer fÃ¸lger ofte selskapets vedtekter og kan vÃ¦re underlagt forkjÃ¸psrett. For detaljer om forkjÃ¸psrett, se [ForkjÃ¸psrett](/blogs/regnskap/forkjopsrett "ForkjÃ¸psrett og aksjeoverfÃ¸ring").
 
 ## Videre lesning
 
 *   [Hva er en aksje?](/blogs/regnskap/hva-er-en-aksje "Hva er en Aksje? En Komplett Guide")
-*   [Hva er Børs?](/blogs/regnskap/bors "Hva er Børs? En Guide til Norsk Børs og Aksjehandel")
-*   [Hva er Emisjon?](/blogs/regnskap/emisjon "Hva er Emisjon? En komplett guide til kapitalforhøyelse")
+*   [Hva er BÃ¸rs?](/blogs/regnskap/bors "Hva er BÃ¸rs? En Guide til Norsk BÃ¸rs og Aksjehandel")
+*   [Hva er Emisjon?](/blogs/regnskap/emisjon "Hva er Emisjon? En komplett guide til kapitalforhÃ¸yelse")

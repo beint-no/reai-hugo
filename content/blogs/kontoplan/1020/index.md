@@ -1,7 +1,7 @@
 ﻿---
 title: "1020"
 meta_title: "1020"
-meta_description: "**Konto 1020 - Konsesjoner** er en viktig konto for virksomheter som har ervervede rettigheter, lisenser og konsesjoner som gir dem spesielle forrettigheter ell..."
+meta_description: '**Konto 1020 - Konsesjoner** er en viktig konto for virksomheter som har ervervede rettigheter, lisenser og konsesjoner som gir dem spesielle forrettigheter ell...'
 slug: 1020
 type: blog
 layout: pages/single

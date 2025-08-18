@@ -1,7 +1,7 @@
 ﻿---
 title: "1601-utgaende-merverdiavgift-hoy-sats"
 meta_title: "1601-utgaende-merverdiavgift-hoy-sats"
-meta_description: "**Konto 1601 - UtgÃ¥ende merverdiavgift hÃ¸y sats** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **utgÃ¥ende merverdiavgift med hÃ¸y sats..."
+meta_description: '**Konto 1601 - UtgÃ¥ende merverdiavgift hÃ¸y sats** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **utgÃ¥ende merverdiavgift med hÃ¸y sats...'
 slug: 1601-utgaende-merverdiavgift-hoy-sats
 type: blog
 layout: pages/single

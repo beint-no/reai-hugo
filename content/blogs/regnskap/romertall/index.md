@@ -1,21 +1,19 @@
----
+﻿---
 title: "Romertall i Regnskap: Bruk av Romertall i Tittel, Noter og Nummerering"
-summary: "Romertall spiller en viktig rolle i nummerering av noter, kapitler og finansiell rapportering i norsk regnskap. Denne artikkelen gir en komplett innføring med eksempler og tabeller."
-description: "Lær hvordan romertall brukes i norsk regnskap for nummerering av noter, kapitler og finansiell rapportering. Inkluderer tabeller, eksempler og SVG-illustrasjoner."
+meta_title: "Romertall i Regnskap: Bruk av Romertall i Tittel, Noter og Nummerering"
+meta_description: '**Romertall** er et system for tallrepresentasjon som bruker kombinasjoner av bokstavsymboler fra det latinske alfabetet (I, V, X, L, C, D, M) for Ã¥ angi numer...'
 slug: romertall
-featured_image: romertall-image.svg
-featured_image_alt: "Illustrasjon av romertall konvertering og bruk i regnskap"
-url: "/blogs/regnskap/romertall/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
-**Romertall** er et system for tallrepresentasjon som bruker kombinasjoner av bokstavsymboler fra det latinske alfabetet (I, V, X, L, C, D, M) for å angi numeriske verdier. Selv om arabiske tall er standard i moderne regnskap, har romertall fortsatt en viktig rolle, spesielt for nummerering av noter, kapitler og seksjoner i finansiell rapportering.
+**Romertall** er et system for tallrepresentasjon som bruker kombinasjoner av bokstavsymboler fra det latinske alfabetet (I, V, X, L, C, D, M) for Ã¥ angi numeriske verdier. Selv om arabiske tall er standard i moderne regnskap, har romertall fortsatt en viktig rolle, spesielt for nummerering av noter, kapitler og seksjoner i finansiell rapportering.
 
 ![Romertall i Regnskap](romertall-image.svg)
 
 ## Historisk bakgrunn og grunnprinsipper
 
-Romertall stammer fra antikkens Roma og bygger på følgende grunnleggende symboler:
+Romertall stammer fra antikkens Roma og bygger pÃ¥ fÃ¸lgende grunnleggende symboler:
 
 | Symbol | Verdi |
 |---|---|
@@ -50,23 +48,23 @@ Tabellen nedenfor viser de vanligste romertallene fra I til XII:
 
 ## Bruk av romertall i norsk regnskap
 
-Romertall benyttes ofte for å sikre klar og konsistent nummerering av ulike seksjoner i regnskap og årsrapporter:
+Romertall benyttes ofte for Ã¥ sikre klar og konsistent nummerering av ulike seksjoner i regnskap og Ã¥rsrapporter:
 
 * Nummerering av noter i [Noter](/blogs/regnskap/noter "Noter - Komplett Guide til Noter i Regnskap")
-* Kapittel- og seksjonsinndeling i årsrapporter og presentasjoner
-* Referanser i regelverk eller avtaler, for eksempel i [bokføringsloven](/blogs/regnskap/hva-er-bokforingsloven "Hva er Bokføringsloven? Krav, Regler og Praktisk Veiledning")
+* Kapittel- og seksjonsinndeling i Ã¥rsrapporter og presentasjoner
+* Referanser i regelverk eller avtaler, for eksempel i [bokfÃ¸ringsloven](/blogs/regnskap/hva-er-bokforingsloven "Hva er BokfÃ¸ringsloven? Krav, Regler og Praktisk Veiledning")
 
 ## Beste praksis for nummerering
 
-For å sikre lesbarhet og gjenkjennelighet anbefales det å følge disse retningslinjene:
+For Ã¥ sikre lesbarhet og gjenkjennelighet anbefales det Ã¥ fÃ¸lge disse retningslinjene:
 
 * Bruk romertall for overordnede inndelinger (f.eks. I, II, III) og arabiske tall for underpunkter (1, 2, 3)
-* Unngå kombinasjoner som kan skape forvirring (f.eks. bruk IV i stedet for IIII)
-* Sørg for konsistens gjennom hele dokumentet
+* UnngÃ¥ kombinasjoner som kan skape forvirring (f.eks. bruk IV i stedet for IIII)
+* SÃ¸rg for konsistens gjennom hele dokumentet
 * Dokumenter konvensjoner og referer til [romertall](/blogs/regnskap/romertall "Romertall i Regnskap: Bruk av Romertall i Noter og Kapittelnummerering") i interne retningslinjer
 
 ## Andre relevante ressurser
 
 * [Nummereringsprinsipper i noter](/blogs/regnskap/noter "Noter - Komplett Guide til Noter i Regnskap")
-* [Avslutningsbalanse](/blogs/regnskap/hva-er-avslutningsbalanse "Hva er Avslutningsbalanse? Komplett Guide til Årsavslutning")
-* [Dobbel bokføring](/blogs/regnskap/hva-er-dobbel-bokforing "Hva er Dobbel Bokføring? Komplett Guide til Dobbelt Bokføringssystem")
+* [Avslutningsbalanse](/blogs/regnskap/hva-er-avslutningsbalanse "Hva er Avslutningsbalanse? Komplett Guide til Ã…rsavslutning")
+* [Dobbel bokfÃ¸ring](/blogs/regnskap/hva-er-dobbel-bokforing "Hva er Dobbel BokfÃ¸ring? Komplett Guide til Dobbelt BokfÃ¸ringssystem")

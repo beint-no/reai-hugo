@@ -1,7 +1,7 @@
 ﻿---
 title: "3030-salgsinntekt-handelsvarer-avgiftspl-middels-sats"
 meta_title: "3030-salgsinntekt-handelsvarer-avgiftspl-middels-sats"
-meta_description: "**Konto 3030 - Salgsinntekt handelsvarer avgiftspl. middels sats** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **salgsinntekter** fra **..."
+meta_description: '**Konto 3030 - Salgsinntekt handelsvarer avgiftspl. middels sats** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **salgsinntekter** fra **...'
 slug: 3030-salgsinntekt-handelsvarer-avgiftspl-middels-sats
 type: blog
 layout: pages/single

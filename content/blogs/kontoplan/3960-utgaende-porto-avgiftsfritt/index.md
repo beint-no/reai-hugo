@@ -1,7 +1,7 @@
 ﻿---
 title: "3960-utgaende-porto-avgiftsfritt"
 meta_title: "3960-utgaende-porto-avgiftsfritt"
-meta_description: "**Konto 3960 - UtgÃ¥ende porto, avgiftsfritt** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **portogebyrer** som faktureres kunder uten m..."
+meta_description: '**Konto 3960 - UtgÃ¥ende porto, avgiftsfritt** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **portogebyrer** som faktureres kunder uten m...'
 slug: 3960-utgaende-porto-avgiftsfritt
 type: blog
 layout: pages/single

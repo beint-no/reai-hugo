@@ -1,53 +1,50 @@
----
-title: "Bærekraft"
-summary: "Denne artikkelen gir en oversikt over begrepet bærekraft i regnskapssammenheng, inkludert triple bunnlinje, relevante lover og praktiske eksempler på bærekraftsrapportering i norske virksomheter."
-description: "Lær hvordan bærekraft integreres i norsk regnskap, fra triple bunnlinje og lovkrav til praktisk rapportering og målbare indikatorer."
+﻿---
+title: "BÃ¦rekraft"
+meta_title: "BÃ¦rekraft"
+meta_description: '**BÃ¦rekraft** er et overordnet prinsipp som omfatter Ã¸konomisk, miljÃ¸messig og sosial ansvarlighet i virksomheters drift og rapportering. I regnskapssammenhe...'
 slug: baerekraft
-featured_image: baerekraft-image.svg
-featured_image_alt: "Bærekraft"
-url: "/blogs/regnskap/baerekraft/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
-
-**Bærekraft** er et overordnet prinsipp som omfatter økonomisk, miljømessig og sosial ansvarlighet i virksomheters drift og rapportering. I regnskapssammenheng innebærer bærekraft å integrere målbare miljø- og samfunnspåvirkninger i finansielle beslutninger, rapportering og strategisk planlegging.
+**BÃ¦rekraft** er et overordnet prinsipp som omfatter Ã¸konomisk, miljÃ¸messig og sosial ansvarlighet i virksomheters drift og rapportering. I regnskapssammenheng innebÃ¦rer bÃ¦rekraft Ã¥ integrere mÃ¥lbare miljÃ¸- og samfunnspÃ¥virkninger i finansielle beslutninger, rapportering og strategisk planlegging.
 
 ## Triple Bunnlinje
 
 ![Triple Bunnlinje](triple-bottom-line.svg)
 
-Tabellen nedenfor viser de tre pilarene i bærekraft, ofte omtalt som *triple bunnlinje*:
+Tabellen nedenfor viser de tre pilarene i bÃ¦rekraft, ofte omtalt som *triple bunnlinje*:
 
 | Pilar   | Fokus                    | Eksempel                                    |
 |---------|--------------------------|---------------------------------------------|
-| People  | Sosial bærekraft         | Arbeidsforhold, mangfold og inkludering     |
-| Planet  | Miljømessig bærekraft    | Klimagassutslipp, ressursbruk og avfallshåndtering |
-| Profit  | Økonomisk bærekraft      | Langsiktig lønnsomhet og stabil kontantstrøm |
+| People  | Sosial bÃ¦rekraft         | Arbeidsforhold, mangfold og inkludering     |
+| Planet  | MiljÃ¸messig bÃ¦rekraft    | Klimagassutslipp, ressursbruk og avfallshÃ¥ndtering |
+| Profit  | Ã˜konomisk bÃ¦rekraft      | Langsiktig lÃ¸nnsomhet og stabil kontantstrÃ¸m |
 
-* For mer informasjon om [Helse, miljø og sikkerhet (HMS)](/blogs/regnskap/hms "Helse, miljø og sikkerhet (HMS)"), se vår artikkel om HMS.
-* For mer om [Sirkulær økonomi](/blogs/regnskap/sirkulaer-okonomi "Sirkulær økonomi i Regnskap: En Guide til Sirkulær økonomi og Regnskapspraksis"), se vår artikkel om sirkulær økonomi.
+* For mer informasjon om [Helse, miljÃ¸ og sikkerhet (HMS)](/blogs/regnskap/hms "Helse, miljÃ¸ og sikkerhet (HMS)"), se vÃ¥r artikkel om HMS.
+* For mer om [SirkulÃ¦r Ã¸konomi](/blogs/regnskap/sirkulaer-okonomi "SirkulÃ¦r Ã¸konomi i Regnskap: En Guide til SirkulÃ¦r Ã¸konomi og Regnskapspraksis"), se vÃ¥r artikkel om sirkulÃ¦r Ã¸konomi.
 
-## Bærekraft i Norsk Regnskap
+## BÃ¦rekraft i Norsk Regnskap
 
-Norske virksomheter må forholde seg til en rekke lover og direktiver som stiller krav til bærekraftsrapportering og samfunnsansvar:
+Norske virksomheter mÃ¥ forholde seg til en rekke lover og direktiver som stiller krav til bÃ¦rekraftsrapportering og samfunnsansvar:
 
-* [CSRD-direktivet](/blogs/regnskap/hva-er-csrd "Hva er CSRD? Corporate Sustainability Reporting Directive - Komplett Guide") – EU-krav om standardisert bærekraftsrapportering.
-* [EU-taksonomien](/blogs/regnskap/hva-er-eu-taksonomien "Hva er EU-taksonomien? Komplett Guide til EUs Klassifiseringssystem for Bærekraftige Aktiviteter") – EUs **klassifiseringssystem** for miljømessig bærekraftige økonomiske aktiviteter.
-* Åpenhetsloven – krav om due diligence for menneskerettigheter og anstendige arbeidsforhold.
-* Regnskapsloven § 3‑3c – krav om redegjørelse for samfunnsansvar i årsrapporten.
+* [CSRD-direktivet](/blogs/regnskap/hva-er-csrd "Hva er CSRD? Corporate Sustainability Reporting Directive - Komplett Guide") â€“ EU-krav om standardisert bÃ¦rekraftsrapportering.
+* [EU-taksonomien](/blogs/regnskap/hva-er-eu-taksonomien "Hva er EU-taksonomien? Komplett Guide til EUs Klassifiseringssystem for BÃ¦rekraftige Aktiviteter") â€“ EUs **klassifiseringssystem** for miljÃ¸messig bÃ¦rekraftige Ã¸konomiske aktiviteter.
+* Ã…penhetsloven â€“ krav om due diligence for menneskerettigheter og anstendige arbeidsforhold.
+* Regnskapsloven Â§â€¯3â€‘3c â€“ krav om redegjÃ¸relse for samfunnsansvar i Ã¥rsrapporten.
 
 ## Praktisk Rapportering
 
-Å rapportere bærekraft krever gode systemer for datainnsamling, kvalitetssikring og intern kontroll:
+Ã… rapportere bÃ¦rekraft krever gode systemer for datainnsamling, kvalitetssikring og intern kontroll:
 
-1. **Vesentlighetsanalyse** – Identifiser hvilke bærekraftstemaer som er viktigst for virksomheten og interessentene.
-2. **Datainnsamling** – Samle miljø-, sosiale og styringsdata fra interne og eksterne kilder.
-3. **KPI-er og mål** – Etabler konkrete indikatorer for å måle fremgang (f.eks. CO₂-utslipp per omsetningsenhet).
-4. **Rapportering** – Utarbeid integrert rapport eller separat bærekraftsrapport etter [ESRS-standardene](/blogs/regnskap/hva-er-csrd "Hva er CSRD? Corporate Sustainability Reporting Directive - Komplett Guide").
-5. **Revisjon og verifikasjon** – Sikre ekstern gjennomgang av bærekraftsdata.
+1. **Vesentlighetsanalyse** â€“ Identifiser hvilke bÃ¦rekraftstemaer som er viktigst for virksomheten og interessentene.
+2. **Datainnsamling** â€“ Samle miljÃ¸-, sosiale og styringsdata fra interne og eksterne kilder.
+3. **KPI-er og mÃ¥l** â€“ Etabler konkrete indikatorer for Ã¥ mÃ¥le fremgang (f.eks. COâ‚‚-utslipp per omsetningsenhet).
+4. **Rapportering** â€“ Utarbeid integrert rapport eller separat bÃ¦rekraftsrapport etter [ESRS-standardene](/blogs/regnskap/hva-er-csrd "Hva er CSRD? Corporate Sustainability Reporting Directive - Komplett Guide").
+5. **Revisjon og verifikasjon** â€“ Sikre ekstern gjennomgang av bÃ¦rekraftsdata.
 
-Bedrifter som ivaretar bærekraft i forretningsmodellen, styrker omdømme, reduserer risiko og legger til rette for langsiktig verdiskaping.
+Bedrifter som ivaretar bÃ¦rekraft i forretningsmodellen, styrker omdÃ¸mme, reduserer risiko og legger til rette for langsiktig verdiskaping.
 
-For en grundig gjennomgang av **bærekraftsrapportering**, se [Bærekraftsrapportering](/blogs/regnskap/baerekraftsrapportering "Bærekraftsrapportering: En komplett guide til bærekraftsrapportering").
+For en grundig gjennomgang av **bÃ¦rekraftsrapportering**, se [BÃ¦rekraftsrapportering](/blogs/regnskap/baerekraftsrapportering "BÃ¦rekraftsrapportering: En komplett guide til bÃ¦rekraftsrapportering").
 
-*Artikkelen ble sist oppdatert for å gi en komplett oversikt over bærekraft og dens rolle i moderne regnskap.*
+*Artikkelen ble sist oppdatert for Ã¥ gi en komplett oversikt over bÃ¦rekraft og dens rolle i moderne regnskap.*

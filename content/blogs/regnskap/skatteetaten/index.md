@@ -1,24 +1,22 @@
----
+﻿---
 title: "Skatteetaten"
-summary: "Lær om Skatteetaten, den norske skattemyndigheten, dens hovedoppgaver, digitale tjenester og viktige frister for rapportering og betaling."
-description: "En omfattende guide til Skatteetaten, dens roller, tjenester og rapporteringsfrister for bedrifter og privatpersoner i Norge."
+meta_title: "Skatteetaten"
+meta_description: '## Innledning'
 slug: skatteetaten
-featured_image: skatteetaten-image.svg
-featured_image_alt: "Skatteetaten"
-url: "/blogs/regnskap/skatteetaten/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
 ## Innledning
-Skatteetaten er **Norges sentrale skattemyndighet** og har ansvar for innkreving, kontroll og forvaltning av skatter og avgifter. Et effektivt skattesystem forutsetter klare retningslinjer, pålitelige digitale tjenester og gode kontrollrutiner.
+Skatteetaten er **Norges sentrale skattemyndighet** og har ansvar for innkreving, kontroll og forvaltning av skatter og avgifter. Et effektivt skattesystem forutsetter klare retningslinjer, pÃ¥litelige digitale tjenester og gode kontrollrutiner.
 
 ![Skatteetaten Oversikt](skatteetaten-structure.svg)
 
-Skatteetaten spiller en avgjørende rolle både for privatpersoner og bedrifter:
+Skatteetaten spiller en avgjÃ¸rende rolle bÃ¥de for privatpersoner og bedrifter:
 
 * **Skattemelding og skatteberegning** via [Skattemelding](/blogs/regnskap/skattemelding "Skattemelding - Komplett Guide til Utfylling og Innlevering")
 * **Digital selvbetjening** gjennom [Altinn](/blogs/regnskap/hva-er-altinn "Hva er Altinn? Digital Portal for Offentlig Rapportering")
-* **Kontroll og revisjon** ved bokettersyn og forhåndsfastsetting
+* **Kontroll og revisjon** ved bokettersyn og forhÃ¥ndsfastsetting
 
 ## 1. Skatteetatens hovedoppgaver
 
@@ -32,28 +30,28 @@ Skatteetaten spiller en avgjørende rolle både for privatpersoner og bedrifter:
 
 ## 2. Digitale tjenester og selvbetjening
 
-Skatteetaten satser på **brukervennlige digitale løsninger** for å forenkle rapportering og betaling:
+Skatteetaten satser pÃ¥ **brukervennlige digitale lÃ¸sninger** for Ã¥ forenkle rapportering og betaling:
 
 * [Altinn](/blogs/regnskap/hva-er-altinn "Hva er Altinn? Digital Portal for Offentlig Rapportering") for levering av skattemeldinger, a-meldinger og andre skjemaer
-* [Skattekort](/blogs/regnskap/hva-er-skattetrekkskonto "Hva er Skattetrekkskonto?") i nettbank og påmelding i Altinn
-* **eSkatt**-løsningen for digital innsending av krav og klager
+* [Skattekort](/blogs/regnskap/hva-er-skattetrekkskonto "Hva er Skattetrekkskonto?") i nettbank og pÃ¥melding i Altinn
+* **eSkatt**-lÃ¸sningen for digital innsending av krav og klager
 
 ## 3. Viktige frister for rapportering
 
 | **Tjeneste**         | **Frist**                                                                              |
 |----------------------|----------------------------------------------------------------------------------------|
 | Skattemelding (AS)   | 31. mai                                                                                |
-| A-melding            | 5. hver måned                                                                          |
-| MVA-melding          | 10. i hver andre måned                                                                 |
+| A-melding            | 5. hver mÃ¥ned                                                                          |
+| MVA-melding          | 10. i hver andre mÃ¥ned                                                                 |
 | Forskuddsskatt       | 15. februar, april, juni, august, oktober og desember                                  |
 
 ## 4. Skatteetatens kontroll og tilsyn
 
-Skatteetaten utfører **bokettersyn** og kan foreta **forhåndsfastsetting** dersom skattemelding mangler eller inneholder vesentlige feil. Se mer i [Bokettersyn](/blogs/regnskap/bokettersyn "Hva er bokettersyn? Guide til Skatteetatens kontroll av regnskap") og [Forhåndsfastsetting](/blogs/regnskap/forhandsfastsetting "Hva er Forhåndsfastsetting?").
+Skatteetaten utfÃ¸rer **bokettersyn** og kan foreta **forhÃ¥ndsfastsetting** dersom skattemelding mangler eller inneholder vesentlige feil. Se mer i [Bokettersyn](/blogs/regnskap/bokettersyn "Hva er bokettersyn? Guide til Skatteetatens kontroll av regnskap") og [ForhÃ¥ndsfastsetting](/blogs/regnskap/forhandsfastsetting "Hva er ForhÃ¥ndsfastsetting?").
 
 ## 5. Skatteetaten i bedriftslivet
 
-For bedrifter er det avgjørende å følge Skatteetatens retningslinjer for:
+For bedrifter er det avgjÃ¸rende Ã¥ fÃ¸lge Skatteetatens retningslinjer for:
 
 * Rapportering av [skatt](/blogs/regnskap/hva-er-skatt "Hva er Skatt? Komplett Guide til Bedriftsskatt, MVA og Skatteplanlegging")
 * Innlevering av [skattemelding](/blogs/regnskap/skattemelding "Skattemelding - Komplett Guide til Utfylling og Innlevering")
@@ -61,4 +59,4 @@ For bedrifter er det avgjørende å følge Skatteetatens retningslinjer for:
 
 ## Konklusjon
 
-Skatteetaten er navet i det norske skattesystemet, og gode digitale tjenester, klare frister og grundig kontroll sikrer at både privatpersoner og bedrifter oppfyller sine forpliktelser. Besøk [Skatteetaten](/blogs/regnskap/skatteetaten "Skatteetaten – Norges Skatteadministrasjon og Skatteforvaltning") for mer informasjon.
+Skatteetaten er navet i det norske skattesystemet, og gode digitale tjenester, klare frister og grundig kontroll sikrer at bÃ¥de privatpersoner og bedrifter oppfyller sine forpliktelser. BesÃ¸k [Skatteetaten](/blogs/regnskap/skatteetaten "Skatteetaten â€“ Norges Skatteadministrasjon og Skatteforvaltning") for mer informasjon.

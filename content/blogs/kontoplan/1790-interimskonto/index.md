@@ -1,7 +1,7 @@
 ﻿---
 title: "1790-interimskonto"
 meta_title: "1790-interimskonto"
-meta_description: "**Konto 1790 - Interimskonto** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **midlertidige fordringer og gjeld** som gjelder periodiserin..."
+meta_description: '**Konto 1790 - Interimskonto** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **midlertidige fordringer og gjeld** som gjelder periodiserin...'
 slug: 1790-interimskonto
 type: blog
 layout: pages/single

@@ -1,7 +1,7 @@
 ﻿---
 title: "6510-handverktoy"
 meta_title: "6510-handverktoy"
-meta_description: "**Konto 6510 - HÃ¥ndverktÃ¸y** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kostnader til hÃ¥ndverktÃ¸y** og relaterte driftsmidler i v..."
+meta_description: '**Konto 6510 - HÃ¥ndverktÃ¸y** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kostnader til hÃ¥ndverktÃ¸y** og relaterte driftsmidler i v...'
 slug: 6510-handverktoy
 type: blog
 layout: pages/single

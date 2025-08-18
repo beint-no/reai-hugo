@@ -1,35 +1,32 @@
----
+﻿---
 title: "Hva er anskaffelser?"
-summary: "En omfattende guide til anskaffelser i Norge. Artikkelen dekker både offentlige og private anskaffelser, relevant lovverk, anbudsprosesser, kontraktstyper og regnskapsmessig behandling av innkjøp og leverandørforhold."
-description: "Lær alt om anskaffelser i Norge - fra offentlige anbudsregler til private innkjøpsprosesser. Inkluderer lovverk, prosedyrer og beste praksis."
+meta_title: "Hva er anskaffelser?"
+meta_description: '**Anskaffelser** er prosessen med Ã¥ kjÃ¸pe varer, tjenester eller bygge- og anleggsarbeider for Ã¥ dekke en organisasjons behov. I Norge skilles det mellom **o...'
 slug: hva-er-anskaffelser
-featured_image: hva-er-anskaffelser-image.svg
-featured_image_alt: "Hva er anskaffelser?"
-url: "/blogs/regnskap/hva-er-anskaffelser/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
-
-**Anskaffelser** er prosessen med å kjøpe varer, tjenester eller bygge- og anleggsarbeider for å dekke en organisasjons behov. I Norge skilles det mellom **offentlige anskaffelser**, som er underlagt strenge regelverk, og **private anskaffelser**, som har større frihet i valg av leverandører og prosedyrer. For handelsbedrifter utgjør [varekjøp](/blogs/regnskap/hva-er-varekjop "Hva er Varekjøp? Komplett Guide til Regnskapsføring og Innkjøpsstyring") en spesiell kategori anskaffelser som er ment for videresalg til kunder.
+**Anskaffelser** er prosessen med Ã¥ kjÃ¸pe varer, tjenester eller bygge- og anleggsarbeider for Ã¥ dekke en organisasjons behov. I Norge skilles det mellom **offentlige anskaffelser**, som er underlagt strenge regelverk, og **private anskaffelser**, som har stÃ¸rre frihet i valg av leverandÃ¸rer og prosedyrer. For handelsbedrifter utgjÃ¸r [varekjÃ¸p](/blogs/regnskap/hva-er-varekjop "Hva er VarekjÃ¸p? Komplett Guide til RegnskapsfÃ¸ring og InnkjÃ¸psstyring") en spesiell kategori anskaffelser som er ment for videresalg til kunder.
 
 ## Offentlige Anskaffelser
 
-Offentlige anskaffelser reguleres av **anskaffelsesloven** og tilhørende forskrifter. Formålet er å sikre at offentlige midler brukes effektivt, og at alle leverandører får like muligheter til å konkurrere om offentlige kontrakter.
+Offentlige anskaffelser reguleres av **anskaffelsesloven** og tilhÃ¸rende forskrifter. FormÃ¥let er Ã¥ sikre at offentlige midler brukes effektivt, og at alle leverandÃ¸rer fÃ¥r like muligheter til Ã¥ konkurrere om offentlige kontrakter.
 
 ![Oversikt over anskaffelsesprosessen](anskaffelsesprosess-oversikt.svg)
 
 ### Terskelverdier og Prosedyrer
 
-Anskaffelsesregelverket opererer med ulike terskelverdier som bestemmer hvilke prosedyrer som skal følges:
+Anskaffelsesregelverket opererer med ulike terskelverdier som bestemmer hvilke prosedyrer som skal fÃ¸lges:
 
-| Kontraktsverdi | Prosedyre | Kunngjøring |
+| Kontraktsverdi | Prosedyre | KunngjÃ¸ring |
 |---|---|---|
-| Under 100 000 kr | Forenklet prosess | Ikke påkrevd |
+| Under 100 000 kr | Forenklet prosess | Ikke pÃ¥krevd |
 | 100 000 - 1 300 000 kr | Nasjonal konkurranse | Doffin |
 | Over 1 300 000 kr | EU-konkurranse | Doffin + TED |
 | Bygge- og anleggskontrakter over 33 500 000 kr | EU-konkurranse | Doffin + TED |
 
-*Beløpene er eksklusive merverdiavgift og gjelder for 2024*
+*BelÃ¸pene er eksklusive merverdiavgift og gjelder for 2024*
 
 ### Anbudsprosedyrer
 
@@ -37,60 +34,60 @@ Det finnes flere typer anbudsprosedyrer i offentlige anskaffelser:
 
 ![Anbudsprosedyrer i offentlige anskaffelser](anbudsprosedyrer-typer.svg)
 
-#### 1. Åpen anbudskonkurranse
-- **Alle** interesserte leverandører kan levere [tilbud](/blogs/regnskap/hva-er-tilbud "Hva er Tilbud? Komplett Guide til Tilbudsprosess og Regnskapsmessig Behandling")
+#### 1. Ã…pen anbudskonkurranse
+- **Alle** interesserte leverandÃ¸rer kan levere [tilbud](/blogs/regnskap/hva-er-tilbud "Hva er Tilbud? Komplett Guide til Tilbudsprosess og Regnskapsmessig Behandling")
 - Mest brukte prosedyre for standardiserte anskaffelser
-- Ingen forhåndskvalifisering av leverandører
+- Ingen forhÃ¥ndskvalifisering av leverandÃ¸rer
 
 #### 2. Begrenset anbudskonkurranse
-- **Prekvalifisering** av leverandører
-- Kun inviterte leverandører kan levere [tilbud](/blogs/regnskap/hva-er-tilbud "Hva er Tilbud? Komplett Guide til Tilbudsprosess og Regnskapsmessig Behandling")
-- Brukes når spesialkompetanse kreves
+- **Prekvalifisering** av leverandÃ¸rer
+- Kun inviterte leverandÃ¸rer kan levere [tilbud](/blogs/regnskap/hva-er-tilbud "Hva er Tilbud? Komplett Guide til Tilbudsprosess og Regnskapsmessig Behandling")
+- Brukes nÃ¥r spesialkompetanse kreves
 
 #### 3. Konkurranse med forhandling
-- Mulighet for **forhandlinger** med leverandører
+- Mulighet for **forhandlinger** med leverandÃ¸rer
 - Brukes ved komplekse anskaffelser
-- Krever særskilt begrunnelse
+- Krever sÃ¦rskilt begrunnelse
 
 #### 4. Konkurransepreget dialog
-- **Dialog** mellom oppdragsgiver og leverandører
-- Brukes når løsningen ikke er kjent på forhånd
+- **Dialog** mellom oppdragsgiver og leverandÃ¸rer
+- Brukes nÃ¥r lÃ¸sningen ikke er kjent pÃ¥ forhÃ¥nd
 - Mest fleksible prosedyre
 
 ### Evalueringskriterier
 
-Offentlige anskaffelser skal tildeles basert på **økonomisk mest fordelaktige tilbud** (EMFT). Dette kan vurderes ut fra:
+Offentlige anskaffelser skal tildeles basert pÃ¥ **Ã¸konomisk mest fordelaktige tilbud** (EMFT). Dette kan vurderes ut fra:
 
 * **Pris** eller kostnad
 * **Kvalitet** av varer/tjenester
-* **Miljøhensyn** og [bærekraft](/blogs/regnskap/baerekraft "Bærekraft i Regnskap: En Komplett Guide til Bærekraft og Bærekraftsrapportering")
+* **MiljÃ¸hensyn** og [bÃ¦rekraft](/blogs/regnskap/baerekraft "BÃ¦rekraft i Regnskap: En Komplett Guide til BÃ¦rekraft og BÃ¦rekraftsrapportering")
 * **Sosiale hensyn**
 * **Innovasjon** og tekniske egenskaper
 
 ## Private Anskaffelser
 
-Private virksomheter har større frihet i sine anskaffelser, men må likevel følge god forretningsskikk og eventuelle bransjestandarder.
+Private virksomheter har stÃ¸rre frihet i sine anskaffelser, men mÃ¥ likevel fÃ¸lge god forretningsskikk og eventuelle bransjestandarder.
 
 ![Private anskaffelsesprosesser](private-anskaffelser-prosess.svg)
 
-### Innkjøpsstrategier
+### InnkjÃ¸psstrategier
 
-Private bedrifter kan velge mellom ulike innkjøpsstrategier:
+Private bedrifter kan velge mellom ulike innkjÃ¸psstrategier:
 
-#### Strategisk Innkjøp
-- **Langsiktige** leverandørforhold
-- Fokus på **verdiskaping**
+#### Strategisk InnkjÃ¸p
+- **Langsiktige** leverandÃ¸rforhold
+- Fokus pÃ¥ **verdiskaping**
 - Integrert med forretningsstrategien
 
-#### Operasjonelt Innkjøp
-- **Daglige** innkjøpsbehov
-- Fokus på **effektivitet**
+#### Operasjonelt InnkjÃ¸p
+- **Daglige** innkjÃ¸psbehov
+- Fokus pÃ¥ **effektivitet**
 - Standardiserte prosesser
 
 #### Prosjektbaserte Anskaffelser
 - **Spesifikke** prosjektbehov
-- **Midlertidige** leverandørforhold
-- Skreddersydde løsninger
+- **Midlertidige** leverandÃ¸rforhold
+- Skreddersydde lÃ¸sninger
 
 ## Kontraktstyper og Avtaleformer
 
@@ -100,25 +97,25 @@ Uavhengig av om det er offentlige eller private anskaffelser, finnes det flere t
 
 ### Prismodeller
 
-| Kontraktstype | Beskrivelse | Risiko for kjøper | Risiko for leverandør |
+| Kontraktstype | Beskrivelse | Risiko for kjÃ¸per | Risiko for leverandÃ¸r |
 |---|---|---|---|
-| **Fast pris** | Avtalt pris uavhengig av kostnader | Lav | Høy |
-| **Kostnad pluss** | Faktiske kostnader + påslag | Høy | Lav |
+| **Fast pris** | Avtalt pris uavhengig av kostnader | Lav | HÃ¸y |
+| **Kostnad pluss** | Faktiske kostnader + pÃ¥slag | HÃ¸y | Lav |
 | **Enhetspris** | Pris per enhet/time | Middels | Middels |
-| **Insentivkontrakt** | Bonus/malus basert på resultat | Lav-Middels | Middels-Høy |
+| **Insentivkontrakt** | Bonus/malus basert pÃ¥ resultat | Lav-Middels | Middels-HÃ¸y |
 
 ### Rammeavtaler
 
-**Rammeavtaler** er særlig viktige i offentlige anskaffelser:
+**Rammeavtaler** er sÃ¦rlig viktige i offentlige anskaffelser:
 
-* Etablerer **vilkår** for fremtidige kjøp
-* Gyldig i opptil **4 år**
-* Kan ha **flere leverandører**
+* Etablerer **vilkÃ¥r** for fremtidige kjÃ¸p
+* Gyldig i opptil **4 Ã¥r**
+* Kan ha **flere leverandÃ¸rer**
 * Krever **minikonkurranse** ved bestilling
 
 ## Regnskapsmessig Behandling
 
-Anskaffelser har betydelige regnskapsmessige konsekvenser som må håndteres korrekt.
+Anskaffelser har betydelige regnskapsmessige konsekvenser som mÃ¥ hÃ¥ndteres korrekt.
 
 ![Regnskapsmessig behandling av anskaffelser](anskaffelser-regnskap-behandling.svg)
 
@@ -128,7 +125,7 @@ Anskaffelser klassifiseres forskjellig i regnskapet:
 
 #### Driftskostnader
 - **Forbruksvarer** og tjenester
-- Kostnadsføres **umiddelbart**
+- KostnadsfÃ¸res **umiddelbart**
 - Eksempler: kontormateriell, renholdstjenester
 
 #### Anleggsmidler
@@ -139,36 +136,36 @@ Anskaffelser klassifiseres forskjellig i regnskapet:
 #### Varelager
 - Varer for **videresalg**
 - Verdsettes til **laveste** av kost og netto realisasjonsverdi
-- Krever **lagerføring** og periodisk telling
+- Krever **lagerfÃ¸ring** og periodisk telling
 
-### Leverandørgjeld og Fakturabehandling
+### LeverandÃ¸rgjeld og Fakturabehandling
 
-Korrekt behandling av leverandørfakturaer og [kreditorhåndtering](/blogs/regnskap/hva-er-kreditor "Hva er Kreditor? Komplett Guide til Leverandørgjeld og Kreditorhåndtering") er kritisk:
+Korrekt behandling av leverandÃ¸rfakturaer og [kreditorhÃ¥ndtering](/blogs/regnskap/hva-er-kreditor "Hva er Kreditor? Komplett Guide til LeverandÃ¸rgjeld og KreditorhÃ¥ndtering") er kritisk:
 
 1. **Mottak** og registrering av [faktura](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav") gjennom [bilagsmottak](/blogs/regnskap/hva-er-bilagsmottak "Bilagsmottak - Komplett Guide til Dokumentmottak og Fakturabehandling")
 2. **Kontroll** mot bestilling og leveranse
 3. **Godkjenning** av autorisert person gjennom [attestering](/blogs/regnskap/hva-er-attestering "Hva er Attestering? En Komplett Guide til Bilagsbehandling og Godkjenning")
-4. **Bokføring** i riktig periode
+4. **BokfÃ¸ring** i riktig periode
 5. **Betaling** innen forfallsdato
 
 ### Periodisering
 
-**Periodiseringsprinsippet** krever at kostnader bokføres i riktig periode:
+**Periodiseringsprinsippet** krever at kostnader bokfÃ¸res i riktig periode:
 
-* **Påløpte kostnader**: Tjenester mottatt men ikke fakturert
+* **PÃ¥lÃ¸pte kostnader**: Tjenester mottatt men ikke fakturert
 * **Forskuddsbetalte kostnader**: Betalt for fremtidige tjenester
-* **[Leverandørgjeld](/blogs/regnskap/hva-er-leverandorgjeld "Hva er Leverandørgjeld i Regnskap? Komplett Guide til Kreditorhåndtering og Regnskapsføring")**: Fakturerte men ikke betalte kjøp
+* **[LeverandÃ¸rgjeld](/blogs/regnskap/hva-er-leverandorgjeld "Hva er LeverandÃ¸rgjeld i Regnskap? Komplett Guide til KreditorhÃ¥ndtering og RegnskapsfÃ¸ring")**: Fakturerte men ikke betalte kjÃ¸p
 
 ## Digitalisering av Anskaffelser
 
-Moderne anskaffelser blir stadig mer digitaliserte, noe som påvirker både prosesser og [regnskapsføring](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Komplett Guide til Norsk Regnskapsføring").
+Moderne anskaffelser blir stadig mer digitaliserte, noe som pÃ¥virker bÃ¥de prosesser og [regnskapsfÃ¸ring](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Komplett Guide til Norsk RegnskapsfÃ¸ring").
 
-![Digitale anskaffelsesverktøy](digitale-anskaffelser-verktoy.svg)
+![Digitale anskaffelsesverktÃ¸y](digitale-anskaffelser-verktoy.svg)
 
-### E-handel og Innkjøpsplattformer
+### E-handel og InnkjÃ¸psplattformer
 
 * **Elektroniske kataloger** for standardvarer
-* **Automatiserte bestillinger** basert på lagernivå
+* **Automatiserte bestillinger** basert pÃ¥ lagernivÃ¥
 * **Integrerte** ERP-systemer
 * **Elektronisk fakturering** ([EHF](/blogs/regnskap/hva-er-ehf "Hva er EHF? Komplett Guide til Elektronisk Handelsformat i Norge")-format)
 
@@ -177,76 +174,76 @@ Moderne anskaffelser blir stadig mer digitaliserte, noe som påvirker både pros
 AI-teknologi revolusjonerer anskaffelsesprosesser:
 
 * **Prediktiv analyse** for behovsprognose
-* **Automatisk** leverandørvurdering
-* **Prisoptimalisering** basert på markedsdata
-* **Risikostyring** og compliance-overvåking
+* **Automatisk** leverandÃ¸rvurdering
+* **Prisoptimalisering** basert pÃ¥ markedsdata
+* **Risikostyring** og compliance-overvÃ¥king
 
-## Bærekraftige Anskaffelser
+## BÃ¦rekraftige Anskaffelser
 
-**Bærekraft** blir stadig viktigere i anskaffelsesprosesser, både i offentlig og privat sektor.
+**BÃ¦rekraft** blir stadig viktigere i anskaffelsesprosesser, bÃ¥de i offentlig og privat sektor.
 
-### Miljøkrav
+### MiljÃ¸krav
 
-* **Miljøsertifiseringer** (ISO 14001, EMAS)
+* **MiljÃ¸sertifiseringer** (ISO 14001, EMAS)
 * **Livssyklusanalyse** av produkter
 * **Karbonfotavtrykk** og klimaregnskap
-* **Sirkulærøkonomi** og gjenbruk
+* **SirkulÃ¦rÃ¸konomi** og gjenbruk
 
 ### Sosiale Krav
 
-* **Arbeidsforhold** hos leverandører
-* **Menneskerettigheter** i leverandørkjeden
+* **Arbeidsforhold** hos leverandÃ¸rer
+* **Menneskerettigheter** i leverandÃ¸rkjeden
 * **Lokal** verdiskaping
 * **Mangfold** og inkludering
 
-### CSRD og Leverandørkjeden
+### CSRD og LeverandÃ¸rkjeden
 
-For større norske bedrifter som omfattes av [**CSRD (Corporate Sustainability Reporting Directive)**](/blogs/regnskap/hva-er-csrd "CSRD - Corporate Sustainability Reporting Directive: Komplett Guide for Norske Bedrifter"), blir bærekraftige anskaffelser enda viktigere. CSRD krever rapportering om **verdikjeden**, inkludert leverandørers arbeidsforhold og miljøpåvirkning.
+For stÃ¸rre norske bedrifter som omfattes av [**CSRD (Corporate Sustainability Reporting Directive)**](/blogs/regnskap/hva-er-csrd "CSRD - Corporate Sustainability Reporting Directive: Komplett Guide for Norske Bedrifter"), blir bÃ¦rekraftige anskaffelser enda viktigere. CSRD krever rapportering om **verdikjeden**, inkludert leverandÃ¸rers arbeidsforhold og miljÃ¸pÃ¥virkning.
 
-Dette betyr at bedrifter må:
-* **Kartlegge** bærekraftspraksis hos leverandører
-* **Dokumentere** ESG-data fra leverandørkjeden
-* **Rapportere** om verdikjedens påvirkning på mennesker og miljø
+Dette betyr at bedrifter mÃ¥:
+* **Kartlegge** bÃ¦rekraftspraksis hos leverandÃ¸rer
+* **Dokumentere** ESG-data fra leverandÃ¸rkjeden
+* **Rapportere** om verdikjedens pÃ¥virkning pÃ¥ mennesker og miljÃ¸
 
-## Leverandørstyring
+## LeverandÃ¸rstyring
 
-Effektiv **leverandørstyring** er kritisk for suksessfulle anskaffelser. For en omfattende guide til alle aspekter av leverandørstyring, inkludert strategisk kategorisering, risikostyring, digitalisering og beste praksis, se vår detaljerte artikkel om **[leverandører](/blogs/regnskap/hva-er-leverandor "Hva er Leverandør? Komplett Guide til Leverandørstyring og Leverandørforhold")**.
+Effektiv **leverandÃ¸rstyring** er kritisk for suksessfulle anskaffelser. For en omfattende guide til alle aspekter av leverandÃ¸rstyring, inkludert strategisk kategorisering, risikostyring, digitalisering og beste praksis, se vÃ¥r detaljerte artikkel om **[leverandÃ¸rer](/blogs/regnskap/hva-er-leverandor "Hva er LeverandÃ¸r? Komplett Guide til LeverandÃ¸rstyring og LeverandÃ¸rforhold")**.
 
-![Leverandørstyringsprosess](leverandorstyring-prosess.svg)
+![LeverandÃ¸rstyringsprosess](leverandorstyring-prosess.svg)
 
-### Leverandørvurdering
+### LeverandÃ¸rvurdering
 
-Systematisk vurdering av leverandører basert på:
+Systematisk vurdering av leverandÃ¸rer basert pÃ¥:
 
-| Kriterium | Vekting | Måling |
+| Kriterium | Vekting | MÃ¥ling |
 |---|---|---|
 | **Kvalitet** | 30% | Reklamasjoner, avvik |
 | **Leveringspresisjon** | 25% | On-time delivery |
 | **Pris** | 20% | Konkurransedyktighet |
 | **Service** | 15% | Responstid, support |
-| **Bærekraft** | 10% | Sertifiseringer, rapporter |
+| **BÃ¦rekraft** | 10% | Sertifiseringer, rapporter |
 
-### Kontraktsoppfølging
+### KontraktsoppfÃ¸lging
 
-* **Regelmessige** leverandørmøter
-* **KPI-oppfølging** og rapportering
+* **Regelmessige** leverandÃ¸rmÃ¸ter
+* **KPI-oppfÃ¸lging** og rapportering
 * **Kontinuerlig forbedring**
 * **Risikostyring** og beredskapsplaner
 
 ## Juridiske Aspekter
 
-Anskaffelser involverer komplekse juridiske forhold som må håndteres profesjonelt.
+Anskaffelser involverer komplekse juridiske forhold som mÃ¥ hÃ¥ndteres profesjonelt.
 
 ### Kontraktsrett
 
-* **Avtaleloven** og kjøpsloven
+* **Avtaleloven** og kjÃ¸psloven
 * **Standardkontrakter** (NS-serien)
 * **Internasjonale** handelsklausuler (Incoterms)
-* **Tvisteløsning** og voldgift
+* **TvistelÃ¸sning** og voldgift
 
 ### Immaterielle Rettigheter
 
-Ved anskaffelse av IT-løsninger og tjenester:
+Ved anskaffelse av IT-lÃ¸sninger og tjenester:
 
 * **Opphavsrett** til programvare
 * **Lisensavtaler** og bruksrettigheter
@@ -255,7 +252,7 @@ Ved anskaffelse av IT-løsninger og tjenester:
 
 ## Internasjonale Anskaffelser
 
-Grenseoverskridende anskaffelser krever særskilt oppmerksomhet.
+Grenseoverskridende anskaffelser krever sÃ¦rskilt oppmerksomhet.
 
 ![Internasjonale anskaffelser](internasjonale-anskaffelser-prosess.svg)
 
@@ -263,7 +260,7 @@ Grenseoverskridende anskaffelser krever særskilt oppmerksomhet.
 
 * **Tollsatser** og preferanseavtaler
 * **Merverdiavgift** ved import
-* **Særavgifter** på spesifikke varer
+* **SÃ¦ravgifter** pÃ¥ spesifikke varer
 * **Dokumentasjon** og deklarering
 
 ### Valutarisiko
@@ -275,22 +272,22 @@ Grenseoverskridende anskaffelser krever særskilt oppmerksomhet.
 
 ## Fremtiden for Anskaffelser
 
-Anskaffelsesområdet er i kontinuerlig utvikling, drevet av teknologi og endrede forventninger.
+AnskaffelsesomrÃ¥det er i kontinuerlig utvikling, drevet av teknologi og endrede forventninger.
 
 ### Trender og Utviklingstrekk
 
 * **Automatisering** av rutineprosesser
 * **Blockchain** for sporbarhet
 * **IoT** og sanntidsdata
-* **Bærekraft** som konkurransefortrinn
+* **BÃ¦rekraft** som konkurransefortrinn
 
 ### Kompetanseutvikling
 
 Moderne anskaffelser krever nye kompetanser:
 
 * **Strategisk** tenkning
-* **Teknologiforståelse**
-* **Bærekraftskunnskap**
+* **TeknologiforstÃ¥else**
+* **BÃ¦rekraftskunnskap**
 * **Dataanalyse** og -tolkning
 
-Anskaffelser er et komplekst fagområde som krever både juridisk, økonomisk og teknisk kompetanse. For bedrifter som ønsker å optimalisere sine anskaffelsesprosesser, er det viktig å ha gode systemer for både innkjøp og [regnskapsføring](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Komplett Guide til Norsk Regnskapsføring") av anskaffelsene.
+Anskaffelser er et komplekst fagomrÃ¥de som krever bÃ¥de juridisk, Ã¸konomisk og teknisk kompetanse. For bedrifter som Ã¸nsker Ã¥ optimalisere sine anskaffelsesprosesser, er det viktig Ã¥ ha gode systemer for bÃ¥de innkjÃ¸p og [regnskapsfÃ¸ring](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Komplett Guide til Norsk RegnskapsfÃ¸ring") av anskaffelsene.

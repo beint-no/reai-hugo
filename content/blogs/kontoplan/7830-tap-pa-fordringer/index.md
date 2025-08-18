@@ -1,7 +1,7 @@
 ﻿---
 title: "7830-tap-pa-fordringer"
 meta_title: "7830-tap-pa-fordringer"
-meta_description: "**Konto 7830 - Tap pÃ¥ fordringer** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **tap pÃ¥ fordringer** som en **driftskostnad** nÃ¥r kun..."
+meta_description: '**Konto 7830 - Tap pÃ¥ fordringer** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **tap pÃ¥ fordringer** som en **driftskostnad** nÃ¥r kun...'
 slug: 7830-tap-pa-fordringer
 type: blog
 layout: pages/single

@@ -1,189 +1,187 @@
----
-title: "Hva er Aksjonærlån til AS?"
-summary: "Et aksjonærlån til AS er et lån som en aksjonær gir til sitt eget aksjeselskap. Dette er en vanlig finansieringsform som krever korrekt dokumentasjon og markedsmessige vilkår."
-description: "Lær alt om aksjonærlån til AS - når aksjonærer låner penger til sitt selskap. Skattemessige konsekvenser, dokumentasjonskrav og praktiske råd."
+﻿---
+title: "Hva er AksjonÃ¦rlÃ¥n til AS?"
+meta_title: "Hva er AksjonÃ¦rlÃ¥n til AS?"
+meta_description: 'Et **aksjonÃ¦rlÃ¥n til AS** er et lÃ¥n som en [aksjonÃ¦r](/blogs/regnskap/hva-er-en-aksjonaer "Hva er en AksjonÃ¦r? En Komplett Guide") gir til sitt eget [aksje...'
 slug: hva-er-aksjonaerlan-til-as
-featured_image: hva-er-aksjonaerlan-til-as-image.svg
-featured_image_alt: "Illustrasjon som viser konseptet om aksjonærlån til aksjeselskap"
-url: "/blogs/regnskap/hva-er-aksjonaerlan-til-as/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
-Et **aksjonærlån til AS** er et lån som en [aksjonær](/blogs/regnskap/hva-er-en-aksjonaer "Hva er en Aksjonær? En Komplett Guide") gir til sitt eget [aksjeselskap](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap? Komplett Guide til Selskapsformen"). Dette er en vanlig måte å tilføre kapital til selskapet på, spesielt i oppstartsfasen eller når selskapet trenger ekstra likviditet.
+Et **aksjonÃ¦rlÃ¥n til AS** er et lÃ¥n som en [aksjonÃ¦r](/blogs/regnskap/hva-er-en-aksjonaer "Hva er en AksjonÃ¦r? En Komplett Guide") gir til sitt eget [aksjeselskap](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap? Komplett Guide til Selskapsformen"). Dette er en vanlig mÃ¥te Ã¥ tilfÃ¸re kapital til selskapet pÃ¥, spesielt i oppstartsfasen eller nÃ¥r selskapet trenger ekstra likviditet.
 
-![Illustrasjon som viser konseptet om aksjonærlån til AS](hva-er-aksjonaerlan-til-as-image.svg)
+![Illustrasjon som viser konseptet om aksjonÃ¦rlÃ¥n til AS](hva-er-aksjonaerlan-til-as-image.svg)
 
-### Hva er et Aksjonærlån til AS?
+### Hva er et AksjonÃ¦rlÃ¥n til AS?
 
-Et aksjonærlån til AS oppstår når en aksjonær låner penger til selskapet sitt i stedet for å øke [aksjekapitalen](/blogs/regnskap/hva-er-aksjekapital "Hva er Aksjekapital? Krav og Forklaring"). Dette kan være:
+Et aksjonÃ¦rlÃ¥n til AS oppstÃ¥r nÃ¥r en aksjonÃ¦r lÃ¥ner penger til selskapet sitt i stedet for Ã¥ Ã¸ke [aksjekapitalen](/blogs/regnskap/hva-er-aksjekapital "Hva er Aksjekapital? Krav og Forklaring"). Dette kan vÃ¦re:
 
-- **Kortsiktig finansiering:** For å dekke midlertidige likviditetsbehov
-- **Oppstartskapital:** Når selskapet trenger penger før det kan generere inntekter
+- **Kortsiktig finansiering:** For Ã¥ dekke midlertidige likviditetsbehov
+- **Oppstartskapital:** NÃ¥r selskapet trenger penger fÃ¸r det kan generere inntekter
 - **Ekspansjonsfinansiering:** For investeringer og vekst
-- **Alternativ til [kapitalforhøyelse](/blogs/regnskap/kapitalforhoyelse "Kapitalforhøyelse: Metoder og Regnskapsføring"):** Når man ikke ønsker å utvanne eierandelene
+- **Alternativ til [kapitalforhÃ¸yelse](/blogs/regnskap/kapitalforhoyelse "KapitalforhÃ¸yelse: Metoder og RegnskapsfÃ¸ring"):** NÃ¥r man ikke Ã¸nsker Ã¥ utvanne eierandelene
 
-Lånet må dokumenteres skriftlig og følge markedsmessige vilkår for å unngå skattemessige problemer.
+LÃ¥net mÃ¥ dokumenteres skriftlig og fÃ¸lge markedsmessige vilkÃ¥r for Ã¥ unngÃ¥ skattemessige problemer.
 
-![Diagram som viser ulike situasjoner for aksjonærlån til AS](aksjonaerlan-til-as-situasjoner.svg)
+![Diagram som viser ulike situasjoner for aksjonÃ¦rlÃ¥n til AS](aksjonaerlan-til-as-situasjoner.svg)
 
-### Fordeler med Aksjonærlån til AS
+### Fordeler med AksjonÃ¦rlÃ¥n til AS
 
-#### For Aksjonæren (Långiveren)
-- **Fleksibilitet:** Enklere å få pengene tilbake enn ved kapitalforhøyelse
-- **Renteinntekt:** Kan motta markedsmessig rente på lånet
-- **Sikkerhet:** Kan kreve sikkerhet for lånet
+#### For AksjonÃ¦ren (LÃ¥ngiveren)
+- **Fleksibilitet:** Enklere Ã¥ fÃ¥ pengene tilbake enn ved kapitalforhÃ¸yelse
+- **Renteinntekt:** Kan motta markedsmessig rente pÃ¥ lÃ¥net
+- **Sikkerhet:** Kan kreve sikkerhet for lÃ¥net
 - **Kontroll:** Beholder samme eierandel i selskapet
 
-#### For Selskapet (Låntakeren)
-- **Rask tilgang til kapital:** Ingen kompliserte kapitalforhøyelsesprosesser
-- **Lavere kostnader:** Unngår kostnader ved emisjon av nye aksjer
-- **Bevarer eierstruktur:** Ingen utvanning av eksisterende aksjonærer
+#### For Selskapet (LÃ¥ntakeren)
+- **Rask tilgang til kapital:** Ingen kompliserte kapitalforhÃ¸yelsesprosesser
+- **Lavere kostnader:** UnngÃ¥r kostnader ved emisjon av nye aksjer
+- **Bevarer eierstruktur:** Ingen utvanning av eksisterende aksjonÃ¦rer
 - **Skattefordel:** Renteutgifter er fradragsberettigede
 
-![Sammenligning av fordeler for aksjonær og selskap](aksjonaerlan-fordeler.svg)
+![Sammenligning av fordeler for aksjonÃ¦r og selskap](aksjonaerlan-fordeler.svg)
 
 ### Skattemessige Konsekvenser
 
-#### For Aksjonæren (Långiveren)
+#### For AksjonÃ¦ren (LÃ¥ngiveren)
 - **Renteinntekt:** Mottatt rente regnes som skattepliktig kapitalinntekt
-- **Tap på fordring:** Eventuelle tap kan være fradragsberettiget
-- **Dokumentasjon:** Må kunne dokumentere lånet og renteinntektene
+- **Tap pÃ¥ fordring:** Eventuelle tap kan vÃ¦re fradragsberettiget
+- **Dokumentasjon:** MÃ¥ kunne dokumentere lÃ¥net og renteinntektene
 
-#### For Selskapet (Låntakeren)
+#### For Selskapet (LÃ¥ntakeren)
 - **Renteutgift:** Betalt rente er fradragsberettiget i selskapet
-- **Markedsmessig rente:** Må betale markedsmessig rente for å unngå problemer
-- **Regnskapsføring:** Lånet må føres korrekt i [regnskapet](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide")
+- **Markedsmessig rente:** MÃ¥ betale markedsmessig rente for Ã¥ unngÃ¥ problemer
+- **RegnskapsfÃ¸ring:** LÃ¥net mÃ¥ fÃ¸res korrekt i [regnskapet](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide")
 
-### Markedsmessig Rente og Vilkår
+### Markedsmessig Rente og VilkÃ¥r
 
-For at lånet skal være skattemessig akseptabelt, må det ha **markedsmessige vilkår**:
+For at lÃ¥net skal vÃ¦re skattemessig akseptabelt, mÃ¥ det ha **markedsmessige vilkÃ¥r**:
 
 #### Rentesats
 - **Normrente:** Skatteetaten fastsetter en normrente som veiledning
-- **Markedsrente:** Renten må tilsvare det selskapet ville betalt til en ekstern långiver
-- **Risikojustering:** Høyere risiko kan rettferdiggjøre høyere rente
+- **Markedsrente:** Renten mÃ¥ tilsvare det selskapet ville betalt til en ekstern lÃ¥ngiver
+- **Risikojustering:** HÃ¸yere risiko kan rettferdiggjÃ¸re hÃ¸yere rente
 
-#### Lånebetingelser
+#### LÃ¥nebetingelser
 - **Nedbetalingsplan:** Klare avtaler om tilbakebetaling
-- **Sikkerhet:** Eventuelle sikkerheter må dokumenteres
-- **Oppsigelse:** Vilkår for oppsigelse av lånet
+- **Sikkerhet:** Eventuelle sikkerheter mÃ¥ dokumenteres
+- **Oppsigelse:** VilkÃ¥r for oppsigelse av lÃ¥net
 
-![Illustrasjon av markedsmessige vilkår for aksjonærlån](markedsmessige-vilkar.svg)
+![Illustrasjon av markedsmessige vilkÃ¥r for aksjonÃ¦rlÃ¥n](markedsmessige-vilkar.svg)
 
 ### Dokumentasjonskrav
 
-Alle aksjonærlån til AS må være **skriftlig dokumentert**:
+Alle aksjonÃ¦rlÃ¥n til AS mÃ¥ vÃ¦re **skriftlig dokumentert**:
 
-#### Låneavtale
-- **Lånebeløp:** Hvor mye som lånes til selskapet
+#### LÃ¥neavtale
+- **LÃ¥nebelÃ¸p:** Hvor mye som lÃ¥nes til selskapet
 - **Rentesats:** Markedsmessig rente som skal betales
-- **Nedbetalingsplan:** Hvordan og når lånet skal tilbakebetales
+- **Nedbetalingsplan:** Hvordan og nÃ¥r lÃ¥net skal tilbakebetales
 - **Sikkerhet:** Eventuelle sikkerheter selskapet stiller
 - **Misligholdsbestemmelser:** Konsekvenser ved manglende betaling
 
-#### Regnskapsføring
-Lånet må føres korrekt i både aksjonærens og selskapets regnskap:
+#### RegnskapsfÃ¸ring
+LÃ¥net mÃ¥ fÃ¸res korrekt i bÃ¥de aksjonÃ¦rens og selskapets regnskap:
 
 **I Selskapets Regnskap:**
-- **Balansen:** Lånet føres som gjeld til aksjonær
-- **Resultatregnskapet:** Renteutgifter føres som finanskostnad
-- **Noter:** Aksjonærlån må spesifiseres i notene
+- **Balansen:** LÃ¥net fÃ¸res som gjeld til aksjonÃ¦r
+- **Resultatregnskapet:** Renteutgifter fÃ¸res som finanskostnad
+- **Noter:** AksjonÃ¦rlÃ¥n mÃ¥ spesifiseres i notene
 
-**I Aksjonærens Regnskap:**
-- **Balansen:** Lånet føres som fordring på selskap
-- **Resultatregnskapet:** Renteinntekter føres som finansinntekt
+**I AksjonÃ¦rens Regnskap:**
+- **Balansen:** LÃ¥net fÃ¸res som fordring pÃ¥ selskap
+- **Resultatregnskapet:** Renteinntekter fÃ¸res som finansinntekt
 
 ### Praktiske Eksempler
 
 #### Eksempel 1: Oppstartsfinansiering
 Et nystartet selskap trenger 200 000 kr til utstyr:
-- **Lånebeløp:** 200 000 kr fra aksjonær
+- **LÃ¥nebelÃ¸p:** 200 000 kr fra aksjonÃ¦r
 - **Rente:** 4,0% (markedsmessig for oppstartsselskap)
-- **Nedbetalingstid:** 5 år
-- **Årlig rentekostnad for selskap:** 8 000 kr
-- **Skattefordel for selskap:** 8 000 kr × 22% = 1 760 kr
+- **Nedbetalingstid:** 5 Ã¥r
+- **Ã…rlig rentekostnad for selskap:** 8 000 kr
+- **Skattefordel for selskap:** 8 000 kr Ã— 22% = 1 760 kr
 
 #### Eksempel 2: Likviditetsutfordring
 Etablert selskap trenger midlertidig finansiering:
-- **Lånebeløp:** 500 000 kr
+- **LÃ¥nebelÃ¸p:** 500 000 kr
 - **Rente:** 3,5% (lavere risiko)
-- **Nedbetalingstid:** 2 år
-- **Månedlige avdrag:** ca. 21 500 kr
+- **Nedbetalingstid:** 2 Ã¥r
+- **MÃ¥nedlige avdrag:** ca. 21 500 kr
 - **Fleksibilitet:** Kan nedbetales raskere ved bedret likviditet
 
-![Praktiske eksempler på aksjonærlån til AS](aksjonaerlan-eksempler.svg)
+![Praktiske eksempler pÃ¥ aksjonÃ¦rlÃ¥n til AS](aksjonaerlan-eksempler.svg)
 
-### Alternativer til Aksjonærlån
+### Alternativer til AksjonÃ¦rlÃ¥n
 
-#### Kapitalforhøyelse
+#### KapitalforhÃ¸yelse
 - **Permanent kapital:** Pengene blir permanent egenkapital
-- **Utvanning:** Kan påvirke eierforhold hvis andre ikke deltar
+- **Utvanning:** Kan pÃ¥virke eierforhold hvis andre ikke deltar
 - **Kompleksitet:** Krever generalforsamlingsvedtak og registrering
 
 #### Innskuddskapital
-- **Mellomløsning:** Kan senere konverteres til aksjekapital
-- **Fleksibilitet:** Enklere å få tilbake enn aksjekapital
+- **MellomlÃ¸sning:** Kan senere konverteres til aksjekapital
+- **Fleksibilitet:** Enklere Ã¥ fÃ¥ tilbake enn aksjekapital
 - **Skattemessig:** Spesielle regler for innskuddskapital
 
 #### Ekstern finansiering
-- **Banklån:** Tradisjonell finansiering fra bank
-- **Høyere krav:** Strengere krav til sikkerhet og dokumentasjon
-- **Uavhengighet:** Ikke avhengig av aksjonærenes private økonomi
+- **BanklÃ¥n:** Tradisjonell finansiering fra bank
+- **HÃ¸yere krav:** Strengere krav til sikkerhet og dokumentasjon
+- **Uavhengighet:** Ikke avhengig av aksjonÃ¦renes private Ã¸konomi
 
 ### Risiko og Fallgruver
 
 #### Vanlige Feil
-- **Manglende dokumentasjon:** Lån uten skriftlig avtale
-- **Ikke-markedsmessige vilkår:** For lav eller høy rente
-- **Feil regnskapsføring:** Ikke føre lånet korrekt
-- **Blanding med privat økonomi:** Ikke skille mellom privat og selskap
+- **Manglende dokumentasjon:** LÃ¥n uten skriftlig avtale
+- **Ikke-markedsmessige vilkÃ¥r:** For lav eller hÃ¸y rente
+- **Feil regnskapsfÃ¸ring:** Ikke fÃ¸re lÃ¥net korrekt
+- **Blanding med privat Ã¸konomi:** Ikke skille mellom privat og selskap
 
 #### Konsekvenser ved Feil
-- **Skatteetaten kan omklassifisere** lånet som kapitalinnskudd
+- **Skatteetaten kan omklassifisere** lÃ¥net som kapitalinnskudd
 - **Tap av rentefradrag** for selskapet
-- **Skattemessige problemer** for aksjonæren
+- **Skattemessige problemer** for aksjonÃ¦ren
 - **Juridiske utfordringer** ved manglende dokumentasjon
 
 ### Juridiske Aspekter
 
 #### Aksjelovens Bestemmelser
-[Aksjeloven](/blogs/regnskap/hva-er-aksjeloven "Hva er Aksjeloven? Regler for Aksjeselskaper i Norge") regulerer forholdet mellom aksjonærer og selskap:
-- **Kreditorvern:** Aksjonærlån må ikke svekke kreditorenes stilling
-- **Likestilling:** Alle aksjonærer må behandles likt
-- **Styrets ansvar:** Styret må vurdere selskapets evne til å betjene lånet
+[Aksjeloven](/blogs/regnskap/hva-er-aksjeloven "Hva er Aksjeloven? Regler for Aksjeselskaper i Norge") regulerer forholdet mellom aksjonÃ¦rer og selskap:
+- **Kreditorvern:** AksjonÃ¦rlÃ¥n mÃ¥ ikke svekke kreditorenes stilling
+- **Likestilling:** Alle aksjonÃ¦rer mÃ¥ behandles likt
+- **Styrets ansvar:** Styret mÃ¥ vurdere selskapets evne til Ã¥ betjene lÃ¥net
 
 #### Konkursloven
-Ved konkurs har aksjonærlån spesiell status:
-- **Ansvarlig lånekapital:** Kan bli underordnet andre kreditorer
+Ved konkurs har aksjonÃ¦rlÃ¥n spesiell status:
+- **Ansvarlig lÃ¥nekapital:** Kan bli underordnet andre kreditorer
 - **Tilbakebetalingsrett:** Begrenset rett til tilbakebetaling ved konkurs
-- **Dokumentasjon:** Viktig med korrekt dokumentasjon for å bevare rettigheter
+- **Dokumentasjon:** Viktig med korrekt dokumentasjon for Ã¥ bevare rettigheter
 
-### Praktiske Råd
+### Praktiske RÃ¥d
 
-#### For Aksjonæren
-1. **Vurder risiko:** Forstå at lånet kan gå tapt ved konkurs
-2. **Krev markedsmessige vilkår:** Både rente og sikkerhet
-3. **Dokumenter alt:** Skriftlig avtale og oppfølging
-4. **Følg opp betalinger:** Sørg for at renter og avdrag betales
-5. **Konsulter eksperter:** Få juridisk og regnskapsmessig rådgivning
+#### For AksjonÃ¦ren
+1. **Vurder risiko:** ForstÃ¥ at lÃ¥net kan gÃ¥ tapt ved konkurs
+2. **Krev markedsmessige vilkÃ¥r:** BÃ¥de rente og sikkerhet
+3. **Dokumenter alt:** Skriftlig avtale og oppfÃ¸lging
+4. **FÃ¸lg opp betalinger:** SÃ¸rg for at renter og avdrag betales
+5. **Konsulter eksperter:** FÃ¥ juridisk og regnskapsmessig rÃ¥dgivning
 
 #### For Selskapet
 1. **Vurder alternativer:** Sammenlign med andre finansieringsformer
-2. **Sørg for bærekraft:** Ikke ta opp mer enn selskapet kan betjene
-3. **Korrekt regnskapsføring:** Før lånet riktig fra dag én
+2. **SÃ¸rg for bÃ¦rekraft:** Ikke ta opp mer enn selskapet kan betjene
+3. **Korrekt regnskapsfÃ¸ring:** FÃ¸r lÃ¥net riktig fra dag Ã©n
 4. **Overholdelse av avtaler:** Betal renter og avdrag i tide
-5. **Kommunikasjon:** Hold aksjonæren informert om selskapets situasjon
+5. **Kommunikasjon:** Hold aksjonÃ¦ren informert om selskapets situasjon
 
-### Regnskapsføring i Detalj
+### RegnskapsfÃ¸ring i Detalj
 
-#### Etablering av Lånet
+#### Etablering av LÃ¥net
 ```
 Selskapets Regnskap:
-Debet: Bank/Kasse (økning i eiendeler)
-Kredit: Gjeld til aksjonær (økning i gjeld)
+Debet: Bank/Kasse (Ã¸kning i eiendeler)
+Kredit: Gjeld til aksjonÃ¦r (Ã¸kning i gjeld)
 
-Aksjonærens Regnskap:
-Debet: Fordring på selskap (økning i eiendeler)  
+AksjonÃ¦rens Regnskap:
+Debet: Fordring pÃ¥ selskap (Ã¸kning i eiendeler)  
 Kredit: Bank/Kasse (reduksjon i eiendeler)
 ```
 
@@ -191,36 +189,36 @@ Kredit: Bank/Kasse (reduksjon i eiendeler)
 ```
 Selskapets Regnskap:
 Debet: Rentekostnad (kostnad)
-Kredit: Gjeld til aksjonær (økt gjeld) eller Bank (betaling)
+Kredit: Gjeld til aksjonÃ¦r (Ã¸kt gjeld) eller Bank (betaling)
 
-Aksjonærens Regnskap:
-Debet: Bank/Kasse eller Fordring (økning)
+AksjonÃ¦rens Regnskap:
+Debet: Bank/Kasse eller Fordring (Ã¸kning)
 Kredit: Renteinntekt (inntekt)
 ```
 
-### Oppfølging og Kontroll
+### OppfÃ¸lging og Kontroll
 
-#### Løpende Oppfølging
-- **Renteberegning:** Månedlig eller kvartalsvis beregning
-- **Betalingsoppfølging:** Kontroll av at avtaler overholdes
+#### LÃ¸pende OppfÃ¸lging
+- **Renteberegning:** MÃ¥nedlig eller kvartalsvis beregning
+- **BetalingsoppfÃ¸lging:** Kontroll av at avtaler overholdes
 - **Likviditetsvurdering:** Vurdering av selskapets betalingsevne
-- **Markedsrentejustering:** Årlig vurdering av rentesats
+- **Markedsrentejustering:** Ã…rlig vurdering av rentesats
 
-#### Årlig Gjennomgang
+#### Ã…rlig Gjennomgang
 - **Avtalegjennomgang:** Vurdering av om avtalen fortsatt er hensiktsmessig
 - **Risikoevaluering:** Vurdering av selskapets kredittverdighet
 - **Skattemessig gjennomgang:** Kontroll av skattemessig behandling
-- **Regnskapsrevisjon:** Kontroll av korrekt regnskapsføring
+- **Regnskapsrevisjon:** Kontroll av korrekt regnskapsfÃ¸ring
 
 ### Relaterte Begreper
 
-For å forstå aksjonærlån til AS fullt ut, bør du også sette deg inn i:
+For Ã¥ forstÃ¥ aksjonÃ¦rlÃ¥n til AS fullt ut, bÃ¸r du ogsÃ¥ sette deg inn i:
 
-- **[Aksjeselskap (AS)](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap? Komplett Guide til Selskapsformen")** - Selskapsformen som mottar lånet
-- **[Aksjer](/blogs/regnskap/hva-er-en-aksje "Hva er en Aksje? En Enkel Forklaring")** - Eierandelene som gir rett til å låne til selskapet
-- **[Aksjekapital](/blogs/regnskap/hva-er-aksjekapital "Hva er Aksjekapital? Krav og Forklaring")** - Alternativ til lån for kapitalinnsprøytning
-- **[Aksjonærlån fra AS](/blogs/regnskap/hva-er-aksjonaerlan-fra-as "Hva er Aksjonærlån fra AS? Regler, Skatt og Praktiske Råd")** - Det motsatte: lån fra selskap til aksjonær
-- **[Aksjeloven](/blogs/regnskap/hva-er-aksjeloven "Hva er Aksjeloven? Regler for Aksjeselskaper i Norge")** - Loven som regulerer forholdet mellom aksjonærer og selskap
-- **[Regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide")** - Regnskapsføring av lån og renter
+- **[Aksjeselskap (AS)](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap? Komplett Guide til Selskapsformen")** - Selskapsformen som mottar lÃ¥net
+- **[Aksjer](/blogs/regnskap/hva-er-en-aksje "Hva er en Aksje? En Enkel Forklaring")** - Eierandelene som gir rett til Ã¥ lÃ¥ne til selskapet
+- **[Aksjekapital](/blogs/regnskap/hva-er-aksjekapital "Hva er Aksjekapital? Krav og Forklaring")** - Alternativ til lÃ¥n for kapitalinnsprÃ¸ytning
+- **[AksjonÃ¦rlÃ¥n fra AS](/blogs/regnskap/hva-er-aksjonaerlan-fra-as "Hva er AksjonÃ¦rlÃ¥n fra AS? Regler, Skatt og Praktiske RÃ¥d")** - Det motsatte: lÃ¥n fra selskap til aksjonÃ¦r
+- **[Aksjeloven](/blogs/regnskap/hva-er-aksjeloven "Hva er Aksjeloven? Regler for Aksjeselskaper i Norge")** - Loven som regulerer forholdet mellom aksjonÃ¦rer og selskap
+- **[Regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide")** - RegnskapsfÃ¸ring av lÃ¥n og renter
 
-Aksjonærlån til AS kan være en effektiv finansieringsform, men krever nøye planlegging, korrekt dokumentasjon og oppfølging for å sikre både skattemessig og juridisk korrekt behandling.
+AksjonÃ¦rlÃ¥n til AS kan vÃ¦re en effektiv finansieringsform, men krever nÃ¸ye planlegging, korrekt dokumentasjon og oppfÃ¸lging for Ã¥ sikre bÃ¥de skattemessig og juridisk korrekt behandling.

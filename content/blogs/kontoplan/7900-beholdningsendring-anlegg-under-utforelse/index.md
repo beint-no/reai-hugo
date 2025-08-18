@@ -1,7 +1,7 @@
 ﻿---
 title: "7900-beholdningsendring-anlegg-under-utforelse"
 meta_title: "7900-beholdningsendring-anlegg-under-utforelse"
-meta_description: "**Konto 7900 - Beholdningsendring anlegg under utfÃ¸relse** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **endringer i beholdning av anle..."
+meta_description: '**Konto 7900 - Beholdningsendring anlegg under utfÃ¸relse** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **endringer i beholdning av anle...'
 slug: 7900-beholdningsendring-anlegg-under-utforelse
 type: blog
 layout: pages/single

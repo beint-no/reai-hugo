@@ -1,7 +1,7 @@
 ﻿---
 title: "7630"
 meta_title: "7630"
-meta_description: "**Konto 7630 - Kontroll-, prÃ¸ve- og stempelavgifter** er en kostnadskonto i norsk kontoplan som benyttes for Ã¥ registrere **kontrollavgifter**, **prÃ¸veavgift..."
+meta_description: '**Konto 7630 - Kontroll-, prÃ¸ve- og stempelavgifter** er en kostnadskonto i norsk kontoplan som benyttes for Ã¥ registrere **kontrollavgifter**, **prÃ¸veavgift...'
 slug: 7630
 type: blog
 layout: pages/single

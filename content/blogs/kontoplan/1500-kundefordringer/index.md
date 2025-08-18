@@ -1,7 +1,7 @@
 ﻿---
 title: "1500-kundefordringer"
 meta_title: "1500-kundefordringer"
-meta_description: "**Konto 1500 - Kundefordringer** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **salg pÃ¥ kreditt** til kunder som kortsiktige fordringer ..."
+meta_description: '**Konto 1500 - Kundefordringer** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **salg pÃ¥ kreditt** til kunder som kortsiktige fordringer ...'
 slug: 1500-kundefordringer
 type: blog
 layout: pages/single

@@ -1,7 +1,7 @@
 ﻿---
 title: "2280-stille-interessentinnskudd-og-ansvarlig-lanekapital"
 meta_title: "2280-stille-interessentinnskudd-og-ansvarlig-lanekapital"
-meta_description: "**Konto 2280 - Stille interessentinnskudd og ansvarlig lÃ¥nekapital** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til Ã¥ registrere **stille in..."
+meta_description: '**Konto 2280 - Stille interessentinnskudd og ansvarlig lÃ¥nekapital** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til Ã¥ registrere **stille in...'
 slug: 2280-stille-interessentinnskudd-og-ansvarlig-lanekapital
 type: blog
 layout: pages/single

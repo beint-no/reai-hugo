@@ -1,7 +1,7 @@
 ﻿---
 title: "5000-lonn-til-ansatte"
 meta_title: "5000-lonn-til-ansatte"
-meta_description: "**Konto 5000 - LÃ¸nn til ansatte** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til Ã¥ registrere **lÃ¸nnskostnader** og **relaterte ytelser..."
+meta_description: '**Konto 5000 - LÃ¸nn til ansatte** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til Ã¥ registrere **lÃ¸nnskostnader** og **relaterte ytelser...'
 slug: 5000-lonn-til-ansatte
 type: blog
 layout: pages/single

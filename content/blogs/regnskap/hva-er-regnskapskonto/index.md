@@ -1,44 +1,42 @@
----
+﻿---
 title: "Hva er en Regnskapskonto?"
-summary: "En regnskapskonto er en unik konto i en kontoplan som brukes til å registrere spesifikke økonomiske transaksjoner. Les om struktur, nummerering, eksempler og beste praksis."
-description: "Lær alt om regnskapskonto - definisjon, struktur, nummerering, eksempler og beste praksis for kontoer i kontoplanen og norsk regnskapsføring."
+meta_title: "Hva er en Regnskapskonto?"
+meta_description: 'En **regnskapskonto** er en unik konto i en [kontoplan](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")...'
 slug: hva-er-regnskapskonto
-featured_image: hva-er-regnskapskonto-image.svg
-featured_image_alt: "Hva er en Regnskapskonto?"
-url: "/blogs/regnskap/hva-er-regnskapskonto/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
-En **regnskapskonto** er en unik konto i en [kontoplan](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap") som brukes til å registrere og rapportere spesifikke økonomiske transaksjoner i et selskaps [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? Komplett Guide til Regnskapsføring i Norge"). Regnskapskontoen består av et **kontonummer** og en **kontobeskrivelse**, og er selve byggesteinen i bokføringen.
+En **regnskapskonto** er en unik konto i en [kontoplan](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap") som brukes til Ã¥ registrere og rapportere spesifikke Ã¸konomiske transaksjoner i et selskaps [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? Komplett Guide til RegnskapsfÃ¸ring i Norge"). Regnskapskontoen bestÃ¥r av et **kontonummer** og en **kontobeskrivelse**, og er selve byggesteinen i bokfÃ¸ringen.
 
 ![Hva er en Regnskapskonto?](hva-er-regnskapskonto-image.svg)
 
 ## Struktur og Nummerering av Regnskapskontoer
 
-Regnskapskontoer følger en logisk og hierarkisk nummerering som reflekterer deres plass i kontoplanens hovedklasser og grupper. Hver kontoidentifikator består vanligvis av 3–5 siffer, der:
+Regnskapskontoer fÃ¸lger en logisk og hierarkisk nummerering som reflekterer deres plass i kontoplanens hovedklasser og grupper. Hver kontoidentifikator bestÃ¥r vanligvis av 3â€“5 siffer, der:
 
-* De første sifrene angir **hovedklasse** (f.eks. 1 for eiendeler, 4 for inntekter).
+* De fÃ¸rste sifrene angir **hovedklasse** (f.eks. 1 for eiendeler, 4 for inntekter).
 * Mellomliggende sifre kan vise **undergruppe** eller **kontogruppe**.
 * De siste sifrene angir den **individuelle kontoen**.
 
-Eksempel på nummerering:
+Eksempel pÃ¥ nummerering:
 
 | Kontonummer | Hovedklasse | Undergruppe | Beskrivelse           |
 |------------|-------------|-------------|-----------------------|
 | **1500**   | 1 (Eiendeler) | 15 (Fordringer) | Kundefordringer       |
 | **3000**   | 3 (Egenkapital og gjeld) | 30 (Egenkapital) | Aksjekapital         |
 | **4000**   | 4 (Driftsinntekter) | 40 (Salg) | Salgsinntekt varer       |
-| **6000**   | 6 (Lønnskostnader) | 60 (Lønn) | Lønn til ansatte         |
+| **6000**   | 6 (LÃ¸nnskostnader) | 60 (LÃ¸nn) | LÃ¸nn til ansatte         |
 
-![Eksempel på Regnskapskonto](regnskapskonto-eksempel.svg)
+![Eksempel pÃ¥ Regnskapskonto](regnskapskonto-eksempel.svg)
 
 ## Forholdet til Kontoplan og Kontoklasser
 
 En regnskapskonto er en del av en overordnet [kontoplan](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap"), der kontoene grupperes i **kontoklasser**. For mer om klassifisering og hierarki, se [Hva er kontoklasser?](/blogs/regnskap/hva-er-kontoklasser "Hva er Kontoklasser? En Komplett Guide til Norsk Kontoklassesystem").
 
-## Vanlige Eksempler på Norske Regnskapskontoer
+## Vanlige Eksempler pÃ¥ Norske Regnskapskontoer
 
-Under finner du noen typiske kontoer som benyttes i norsk regnskapsføring:
+Under finner du noen typiske kontoer som benyttes i norsk regnskapsfÃ¸ring:
 
 | Konto  | Beskrivelse                              | Hovedklasse |
 |--------|------------------------------------------|-------------|
@@ -46,21 +44,21 @@ Under finner du noen typiske kontoer som benyttes i norsk regnskapsføring:
 | **1500** | Kundefordringer                         | 1 (Eiendeler) |
 | **3000** | Aksjekapital                            | 3 (Egenkapital og gjeld) |
 | **4000** | Salgsinntekt varer                      | 4 (Driftsinntekter) |
-| **5000** | Lønn til ansatte                        | 6 (Lønnskostnader) |
+| **5000** | LÃ¸nn til ansatte                        | 6 (LÃ¸nnskostnader) |
 | **7000** | Leie- og driftskostnader                | 7 (Andre driftskostnader) |
 | **8000** | Renteinntekter                          | 8 (Finansinntekter) |
-| **9000** | Skattekostnad                           | 9 (Ekstraordinære poster og skattekostnader) |
+| **9000** | Skattekostnad                           | 9 (EkstraordinÃ¦re poster og skattekostnader) |
 
 ## Beste Praksis for Oppbygging og Vedlikehold
 
-God struktur på regnskapskontoer bidrar til effektiv bokføring og rapportering:
+God struktur pÃ¥ regnskapskontoer bidrar til effektiv bokfÃ¸ring og rapportering:
 
-* **Konsistent nummerering** – følg en fast logikk gjennom kontoplanen.
-* **Tydelige beskrivelser** – kontobeskrivelsen bør være kort, men informativ.
-* **Rom for utvidelser** – la ledige nummerserier for fremtidige kontoer.
-* **Dokumentasjon** – beskriv endringer og formål for nye kontoer.
-* **Regelmessig revisjon** – gjennomgå kontoplanen årlig for å fjerne ubrukte kontoer og legge til nye.
+* **Konsistent nummerering** â€“ fÃ¸lg en fast logikk gjennom kontoplanen.
+* **Tydelige beskrivelser** â€“ kontobeskrivelsen bÃ¸r vÃ¦re kort, men informativ.
+* **Rom for utvidelser** â€“ la ledige nummerserier for fremtidige kontoer.
+* **Dokumentasjon** â€“ beskriv endringer og formÃ¥l for nye kontoer.
+* **Regelmessig revisjon** â€“ gjennomgÃ¥ kontoplanen Ã¥rlig for Ã¥ fjerne ubrukte kontoer og legge til nye.
 
 ## Oppsummering
 
-En velstrukturert **regnskapskonto** er fundamentet for korrekt bokføring og pålitelig regnskapsrapportering. Ved å forstå nummerering, hierarki og sammenhengen med kontoplan og kontoklasser, kan virksomheter sikre god oversikt, effektiv prosess og overholdelse av norske regnskapsregler.
+En velstrukturert **regnskapskonto** er fundamentet for korrekt bokfÃ¸ring og pÃ¥litelig regnskapsrapportering. Ved Ã¥ forstÃ¥ nummerering, hierarki og sammenhengen med kontoplan og kontoklasser, kan virksomheter sikre god oversikt, effektiv prosess og overholdelse av norske regnskapsregler.

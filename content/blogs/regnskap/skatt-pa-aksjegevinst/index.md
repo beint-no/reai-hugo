@@ -1,65 +1,61 @@
----
-title: "Skatt på aksjegevinst"
-summary: "En grundig guide til skatt på gevinst ved salg av aksjer for privatpersoner og selskaper, med forklaringer, praktiske eksempler og intern lenking."
-description: |
-  Få en komplett oversikt over skatteregler for aksjegevinster i Norge, inkludert aksjonærmodellen, skjermingsfradrag, fritaksmetoden og aksjesparekonto (ASK).
+﻿---
+title: "Skatt pÃ¥ aksjegevinst"
+meta_title: "Skatt pÃ¥ aksjegevinst"
+meta_description: '**Skatt pÃ¥ aksjegevinst** omfatter skattereglene for gevinst ved salg av aksjer for bÃ¥de privatpersoner og bedrifter i Norge. Denne artikkelen gÃ¥r i dybden p...'
 slug: skatt-pa-aksjegevinst
-featured_image: skatt-pa-aksjegevinst-image.svg
-featured_image_alt: "Skatt på aksjegevinst"
-url: "/blogs/regnskap/skatt-pa-aksjegevinst/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
+**Skatt pÃ¥ aksjegevinst** omfatter skattereglene for gevinst ved salg av aksjer for bÃ¥de privatpersoner og bedrifter i Norge. Denne artikkelen gÃ¥r i dybden pÃ¥ de ulike skatteregimene, inkludert aksjonÃ¦rmodellen, skjermingsfradrag, fritaksmetoden og aksjesparekonto (ASK), samt praktiske eksempler pÃ¥ beregning og rapportering.
 
-**Skatt på aksjegevinst** omfatter skattereglene for gevinst ved salg av aksjer for både privatpersoner og bedrifter i Norge. Denne artikkelen går i dybden på de ulike skatteregimene, inkludert aksjonærmodellen, skjermingsfradrag, fritaksmetoden og aksjesparekonto (ASK), samt praktiske eksempler på beregning og rapportering.
-
-![Skatt på aksjegevinst](skatt-pa-aksjegevinst-image.svg)
+![Skatt pÃ¥ aksjegevinst](skatt-pa-aksjegevinst-image.svg)
 
 ## Oversikt over skatteregimer
 
-| Målgruppe                        | Skatteregime                               | Skattepliktig andel           | Effektiv skattesats     |
+| MÃ¥lgruppe                        | Skatteregime                               | Skattepliktig andel           | Effektiv skattesats     |
 |----------------------------------|---------------------------------------------|-------------------------------|-------------------------|
-| Privatperson (direkte aksjegevinst) | Aksjonærmodellen med skjermingsfradrag     | 100% av netto gevinst         | 22% av netto gevinst    |
+| Privatperson (direkte aksjegevinst) | AksjonÃ¦rmodellen med skjermingsfradrag     | 100% av netto gevinst         | 22% av netto gevinst    |
 | Privatperson (ASK)               | Aksjesparekonto (ASK)                     | 22% ved uttak av overskudd    | 22% ved uttak          |
-| Selskap                          | Fritaksmetoden                             | 3% av gevinst                 | 0,66% (3% × 22%)       |
-| Selskap (unntak/fritak)          | Fritaksmetoden, særregler                 | Varierer                      | Varierer               |
+| Selskap                          | Fritaksmetoden                             | 3% av gevinst                 | 0,66% (3%Â Ã—Â 22%)       |
+| Selskap (unntak/fritak)          | Fritaksmetoden, sÃ¦rregler                 | Varierer                      | Varierer               |
 
-## Privatpersoner: Aksjonærmodellen og skjermingsfradrag
+## Privatpersoner: AksjonÃ¦rmodellen og skjermingsfradrag
 
-Les mer i vår [Aksjonærmodellen - Komplett Guide til Norsk Aksjebeskatning](/blogs/regnskap/aksjonaermodellen-guide "Aksjonærmodellen - Komplett Guide til Norsk Aksjebeskatning") for detaljer om prinsippene bak aksjonærmodellen og beregning av skjermingsfradrag.
+Les mer i vÃ¥r [AksjonÃ¦rmodellen - Komplett Guide til Norsk Aksjebeskatning](/blogs/regnskap/aksjonaermodellen-guide "AksjonÃ¦rmodellen - Komplett Guide til Norsk Aksjebeskatning") for detaljer om prinsippene bak aksjonÃ¦rmodellen og beregning av skjermingsfradrag.
 
 * **Skjermingsfradrag** beskytter en normalavkastning mot beskatning.
 * Skjermingsfradraget beregnes som:  
-  _Skjermingsgrunnlag × Skjermingsrente_
+  _SkjermingsgrunnlagÂ Ã—Â Skjermingsrente_
 * Restgevinst etter skjerming beskattes som alminnelig inntekt (22%).
 
 ## Aksjesparekonto (ASK)
 
-En [aksjesparekonto](/blogs/regnskap/hva-er-aksjesparekonto "Hva er Aksjesparekonto? Fordeler, begrensninger og regler") lar privatpersoner utsette skatt på aksjegevinster og utbytte innenfor kontoen.  
+En [aksjesparekonto](/blogs/regnskap/hva-er-aksjesparekonto "Hva er Aksjesparekonto? Fordeler, begrensninger og regler") lar privatpersoner utsette skatt pÃ¥ aksjegevinster og utbytte innenfor kontoen.  
 
-* **Innskuddsramme:** 300 000 kr (2024)  
+* **Innskuddsramme:** 300Â 000Â kr (2024)  
 * **Skatteutsettelse:** Gevinst og utbytte er skattefritt inntil uttak av overskudd  
 * **Uttaksskatt:** 22% beregnes ved uttak av gevinst  
 
 ## Bedrifter: Fritaksmetoden
 
-Se vår [Fritaksmetoden - Skattefritak for aksjegevinst og utbytte](/blogs/regnskap/hva-er-fritaksmetoden "Fritaksmetoden - Komplett guide til skattefritak av aksjegevinst og utbytte") for en detaljert gjennomgang av vilkårene og beregningen.
+Se vÃ¥r [Fritaksmetoden - Skattefritak for aksjegevinst og utbytte](/blogs/regnskap/hva-er-fritaksmetoden "Fritaksmetoden - Komplett guide til skattefritak av aksjegevinst og utbytte") for en detaljert gjennomgang av vilkÃ¥rene og beregningen.
 
 * **Skattefri del:** 97% av gevinsten  
 * **Skattepliktig del:** 3% av gevinsten  
-* Effektiv skattesats: 0,66% (3% × 22%)
+* Effektiv skattesats: 0,66% (3%Â Ã—Â 22%)
 
 ## Praktiske eksempler
 
-| Scenario                           | Kjøp         | Salg         | Skattepliktig gevinst       | Skatt                  |
+| Scenario                           | KjÃ¸p         | Salg         | Skattepliktig gevinst       | Skatt                  |
 |------------------------------------|--------------|--------------|-----------------------------|------------------------|
-| Privat (direkte aksjegevinst)      | 100 000 kr   | 150 000 kr   | 50 000 kr                   | 11 000 kr (22%)        |
-| Privat (ASK)                       | 100 000 kr   | 150 000 kr   | 50 000 kr ved uttak         | 11 000 kr (22%)        |
-| Selskap                            | 500 000 kr   | 650 000 kr   | 4 500 kr (3% av 150 000 kr) | 990 kr (0,66%)         |
+| Privat (direkte aksjegevinst)      | 100Â 000Â kr   | 150Â 000Â kr   | 50Â 000Â kr                   | 11Â 000Â kr (22%)        |
+| Privat (ASK)                       | 100Â 000Â kr   | 150Â 000Â kr   | 50Â 000Â kr ved uttak         | 11Â 000Â kr (22%)        |
+| Selskap                            | 500Â 000Â kr   | 650Â 000Â kr   | 4Â 500Â kr (3% av 150Â 000Â kr) | 990Â kr (0,66%)         |
 
 ## Rapportering
 
 * Privatpersoner rapporterer aksjegevinster og -tap i RF-1030.  
-* Selskaper rapporterer via RF-1167 og årsregnskapet.
+* Selskaper rapporterer via RF-1167 og Ã¥rsregnskapet.
 
-For mer omfattende info om beregning av kapitalgevinst, se [Hva er kapitalgevinst?](/blogs/regnskap/hva-er-kapitalgevinst "Hva er kapitalgevinst? Komplett Guide til Skatt og Regnskapsføring").
+For mer omfattende info om beregning av kapitalgevinst, se [Hva er kapitalgevinst?](/blogs/regnskap/hva-er-kapitalgevinst "Hva er kapitalgevinst? Komplett Guide til Skatt og RegnskapsfÃ¸ring").

@@ -1,7 +1,7 @@
 ﻿---
 title: "8000-inntekt-pa-investering-i-datterselskap"
 meta_title: "8000-inntekt-pa-investering-i-datterselskap"
-meta_description: "**Konto 8000 - Inntekt pÃ¥ investering i datterselskap** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ resultatfÃ¸re **lÃ¸pende inntekt** fra investe..."
+meta_description: '**Konto 8000 - Inntekt pÃ¥ investering i datterselskap** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ resultatfÃ¸re **lÃ¸pende inntekt** fra investe...'
 slug: 8000-inntekt-pa-investering-i-datterselskap
 type: blog
 layout: pages/single

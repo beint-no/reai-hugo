@@ -1,15 +1,13 @@
----
+﻿---
 title: "Firmaattest"
-summary: "En firmaattest er et offisielt dokument fra Brønnøysundregistrene som bekrefter registrerte opplysninger om et selskap i Foretaksregisteret og brukes ved kredittvurderinger, kontraktsinngåelser og offentlig rapportering."
-description: "Lær hva en firmaattest er, hva den inneholder, hvorfor den er viktig og hvordan du bestiller dokumentet fra Brønnøysundregistrene."
+meta_title: "Firmaattest"
+meta_description: 'En **firmaattest** er et offisielt dokument utstedt av [BrÃ¸nnÃ¸ysundregistrene](/blogs/regnskap/bronnoysundregistrene "BrÃ¸nnÃ¸ysundregistrene - Oversikt over ...'
 slug: firmaattest
-featured_image: firmaattest-image.svg
-featured_image_alt: "Firmaattest"
-url: "/blogs/regnskap/firmaattest/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
-En **firmaattest** er et offisielt dokument utstedt av [Brønnøysundregistrene](/blogs/regnskap/bronnoysundregistrene "Brønnøysundregistrene - Oversikt over Norske Registere") som bekrefter de registrerte opplysningene om et selskap i [Foretaksregisteret](/blogs/regnskap/ansvarlig-selskap "Hva er Ansvarlig Selskap?"). Firmaattesten er et av de viktigste dokumentene for å vise at et selskap er lovlig registrert og kan brukes i en rekke sammenhenger, for eksempel ved søknad om kreditt, inngåelse av kontrakter og offentlig rapportering.
+En **firmaattest** er et offisielt dokument utstedt av [BrÃ¸nnÃ¸ysundregistrene](/blogs/regnskap/bronnoysundregistrene "BrÃ¸nnÃ¸ysundregistrene - Oversikt over Norske Registere") som bekrefter de registrerte opplysningene om et selskap i [Foretaksregisteret](/blogs/regnskap/ansvarlig-selskap "Hva er Ansvarlig Selskap?"). Firmaattesten er et av de viktigste dokumentene for Ã¥ vise at et selskap er lovlig registrert og kan brukes i en rekke sammenhenger, for eksempel ved sÃ¸knad om kreditt, inngÃ¥else av kontrakter og offentlig rapportering.
 
 ![Firmaattest](firmaattest-image.svg)
 
@@ -17,34 +15,34 @@ En **firmaattest** er et offisielt dokument utstedt av [Brønnøysundregistrene]
 
 | **Felt**                  | **Beskrivelse**                                                 |
 |---------------------------|-----------------------------------------------------------------|
-| Utstedelsesdato           | Dato for når attestasjonen ble generert                         |
-| Foretaksnavn              | Det offisielle navnet på selskapet                              |
+| Utstedelsesdato           | Dato for nÃ¥r attestasjonen ble generert                         |
+| Foretaksnavn              | Det offisielle navnet pÃ¥ selskapet                              |
 | Organisasjonsnummer       | Selskapets [organisasjonsnummer](/blogs/regnskap/hva-er-virksomhetsnummer "Hva er et Virksomhetsnummer?") |
 | Organisasjonsform         | Selskapsform, for eksempel aksjeselskap (AS) eller enkeltpersonforetak (ENK) |
 | Registrert virksomhetsadresse | Adresse registrert i Foretaksregisteret                     |
-| Styrerepresentanter       | Navn på registrerte styremedlemmer                              |
+| Styrerepresentanter       | Navn pÃ¥ registrerte styremedlemmer                              |
 | Selskapets status         | Status i Foretaksregisteret (aktiv, under avvikling, slettet)   |
 
 ## Hvorfor er en Firmaattest viktig?
 
 * **Bevis for registrering:** Dokumenterer at selskapet er lovlig registrert i [Foretaksregisteret](/blogs/regnskap/ansvarlig-selskap "Hva er Ansvarlig Selskap?").
-* **Kredittvurdering:** Ofte brukt av banker og leverandører ved vurdering av kreditt.
-* **Kontraktsinngåelse:** Viser motparter at selskapet eksisterer og har nødvendig **myndighet** til å inngå avtaler.
+* **Kredittvurdering:** Ofte brukt av banker og leverandÃ¸rer ved vurdering av kreditt.
+* **KontraktsinngÃ¥else:** Viser motparter at selskapet eksisterer og har nÃ¸dvendig **myndighet** til Ã¥ inngÃ¥ avtaler.
 * **Offentlig rapportering:** Kreves i enkelte offentlige etater som en del av registrerings- og rapporteringsprosesser, for eksempel [Enhetsregisteret](/blogs/regnskap/enhetsregisteret "Hva er Enhetsregisteret?").
 
 ## Hvordan bestille en Firmaattest?
 
 ![Firmaattest prosess](firmaattest-prosess.svg)
 
-1. Gå til [Brønnøysundregistrenes nettjeneste](/blogs/regnskap/bronnoysundregistrene "Brønnøysundregistrene - Oversikt over Norske Registere") eller bruk [Altinn](/blogs/regnskap/hva-er-altinn "Hva er Altinn? En Guide til Offentlige Tjenester").
-2. Søk opp selskapet med **organisasjonsnummer** eller navn.
+1. GÃ¥ til [BrÃ¸nnÃ¸ysundregistrenes nettjeneste](/blogs/regnskap/bronnoysundregistrene "BrÃ¸nnÃ¸ysundregistrene - Oversikt over Norske Registere") eller bruk [Altinn](/blogs/regnskap/hva-er-altinn "Hva er Altinn? En Guide til Offentlige Tjenester").
+2. SÃ¸k opp selskapet med **organisasjonsnummer** eller navn.
 3. Velg **Firmaattest** som dokumenttype.
-4. Betal påkrevd gebyr og last ned attestasjonen som PDF eller *XML*-fil.
+4. Betal pÃ¥krevd gebyr og last ned attestasjonen som PDF eller *XML*-fil.
 5. Motta dokumentet umiddelbart eller innen kort tid for bruk.
 
 ## Typer Firmaattester
 
-| **Type attest**          | **Bruksområde**                                                 |
+| **Type attest**          | **BruksomrÃ¥de**                                                 |
 |--------------------------|-----------------------------------------------------------------|
 | Standard firmaattest     | Fullstendig oversikt over registrerte opplysninger               |
 | Forenklet firmaattest    | Kun oversikt over utvalgte grunnleggende felt (navn og org.nr.) |
@@ -52,7 +50,7 @@ En **firmaattest** er et offisielt dokument utstedt av [Brønnøysundregistrene]
 
 ## Relaterte artikler
 
-* Se også [Hva er en Faktura?](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav").
+* Se ogsÃ¥ [Hva er en Faktura?](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav").
 * Les mer om [Organisasjonsnummer](/blogs/regnskap/hva-er-virksomhetsnummer "Hva er et Virksomhetsnummer?").
-* Lær om [Foretaksregisteret](/blogs/regnskap/ansvarlig-selskap "Hva er Ansvarlig Selskap?").
-* Les mer om [Skatteattest](/blogs/regnskap/skatteattest "Skatteattest – Hva er en skatteattest? En Komplett Guide").
+* LÃ¦r om [Foretaksregisteret](/blogs/regnskap/ansvarlig-selskap "Hva er Ansvarlig Selskap?").
+* Les mer om [Skatteattest](/blogs/regnskap/skatteattest "Skatteattest â€“ Hva er en skatteattest? En Komplett Guide").

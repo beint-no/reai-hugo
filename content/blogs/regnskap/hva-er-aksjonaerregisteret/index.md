@@ -1,49 +1,47 @@
----
-title: "Hva er Aksjonærregisteret?"
-summary: "Aksjonærregisteret er et offentlig register som inneholder informasjon om alle aksjonærer i norske aksjeselskaper. Registeret administreres av Brønnøysundregistrene og gir innsyn i eierskap og eierstruktur."
-description: "Lær alt om aksjonærregisteret i Norge - hvem som har tilgang, hvordan det fungerer, og hvilke opplysninger som registreres. Komplett guide for aksjonærer og selskaper."
+﻿---
+title: "Hva er AksjonÃ¦rregisteret?"
+meta_title: "Hva er AksjonÃ¦rregisteret?"
+meta_description: '**AksjonÃ¦rregisteret** er et offentlig register som inneholder informasjon om alle aksjonÃ¦rer i norske [aksjeselskaper (AS)](/blogs/regnskap/hva-er-et-aksjese...'
 slug: hva-er-aksjonaerregisteret
-featured_image: hva-er-aksjonaerregisteret-image.svg
-featured_image_alt: "Illustrasjon som viser konseptet om aksjonærregisteret"
-url: "/blogs/regnskap/hva-er-aksjonaerregisteret/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
-**Aksjonærregisteret** er et offentlig register som inneholder informasjon om alle aksjonærer i norske [aksjeselskaper (AS)](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap? Komplett Guide til Selskapsformen"). Registeret administreres av [**Brønnøysundregistrene**](/blogs/regnskap/bronnoysundregistrene "Hva er Brønnøysundregistrene? En Guide til Norges Registerforvalter") og gir innsyn i eierskap og eierstruktur i norske selskaper.
+**AksjonÃ¦rregisteret** er et offentlig register som inneholder informasjon om alle aksjonÃ¦rer i norske [aksjeselskaper (AS)](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap? Komplett Guide til Selskapsformen"). Registeret administreres av [**BrÃ¸nnÃ¸ysundregistrene**](/blogs/regnskap/bronnoysundregistrene "Hva er BrÃ¸nnÃ¸ysundregistrene? En Guide til Norges Registerforvalter") og gir innsyn i eierskap og eierstruktur i norske selskaper.
 
-![Oversikt over aksjonærregisteret og dets funksjon](hva-er-aksjonaerregisteret-image.svg)
+![Oversikt over aksjonÃ¦rregisteret og dets funksjon](hva-er-aksjonaerregisteret-image.svg)
 
-### Hva er Formålet med Aksjonærregisteret?
+### Hva er FormÃ¥let med AksjonÃ¦rregisteret?
 
-Det er viktig å skille mellom Aksjonærregisteret og selskapets egen [aksjeeierbok](/blogs/regnskap/hva-er-en-aksjeeierbok "Hva er en Aksjeeierbok? En Komplett Guide").
+Det er viktig Ã¥ skille mellom AksjonÃ¦rregisteret og selskapets egen [aksjeeierbok](/blogs/regnskap/hva-er-en-aksjeeierbok "Hva er en Aksjeeierbok? En Komplett Guide").
 
-*   **Aksjeeierboken** er selskapets interne, løpende register over eiere. Denne må være oppdatert til enhver tid og danner grunnlaget for eiernes rettigheter.
-*   **Aksjonærregisteret** er den årlige, offentlige rapporteringen til myndighetene, basert på informasjonen i aksjeeierboken per 31. desember. Denne rapporteringen skjer via [aksjonærregisteroppgaven (RF-1086)](/blogs/regnskap/aksjonaerregisteroppgave "Hva er Aksjonærregisteroppgave? Komplett Guide til Årlig Rapportering").
+*   **Aksjeeierboken** er selskapets interne, lÃ¸pende register over eiere. Denne mÃ¥ vÃ¦re oppdatert til enhver tid og danner grunnlaget for eiernes rettigheter.
+*   **AksjonÃ¦rregisteret** er den Ã¥rlige, offentlige rapporteringen til myndighetene, basert pÃ¥ informasjonen i aksjeeierboken per 31. desember. Denne rapporteringen skjer via [aksjonÃ¦rregisteroppgaven (RF-1086)](/blogs/regnskap/aksjonaerregisteroppgave "Hva er AksjonÃ¦rregisteroppgave? Komplett Guide til Ã…rlig Rapportering").
 
-Aksjonærregisteret har flere viktige formål i det norske samfunnet:
+AksjonÃ¦rregisteret har flere viktige formÃ¥l i det norske samfunnet:
 
-*   **Transparens og åpenhet:** Sikrer offentlig innsyn i hvem som eier norske selskaper
-*   **Bekjempelse av hvitvasking:** Hjelper myndigheter med å spore pengestrømmer og eierskap
-*   **Skatteformål:** Gir skattemyndighetene oversikt over eierskap og kapitalstruktur
-*   **Juridisk sikkerhet:** Beskytter [aksjonærer](/blogs/regnskap/hva-er-en-aksjonaer "Hva er en Aksjonær? En Komplett Guide") og kreditorer ved å dokumentere eierforhold
+*   **Transparens og Ã¥penhet:** Sikrer offentlig innsyn i hvem som eier norske selskaper
+*   **Bekjempelse av hvitvasking:** Hjelper myndigheter med Ã¥ spore pengestrÃ¸mmer og eierskap
+*   **SkatteformÃ¥l:** Gir skattemyndighetene oversikt over eierskap og kapitalstruktur
+*   **Juridisk sikkerhet:** Beskytter [aksjonÃ¦rer](/blogs/regnskap/hva-er-en-aksjonaer "Hva er en AksjonÃ¦r? En Komplett Guide") og kreditorer ved Ã¥ dokumentere eierforhold
 
 ### Hvilke Opplysninger Registreres?
 
-Aksjonærregisteret inneholder detaljert informasjon om både selskaper og deres eiere. Her er en oversikt over de viktigste opplysningene:
+AksjonÃ¦rregisteret inneholder detaljert informasjon om bÃ¥de selskaper og deres eiere. Her er en oversikt over de viktigste opplysningene:
 
-#### Opplysninger om Aksjonærer
+#### Opplysninger om AksjonÃ¦rer
 
 | **Opplysningstype** | **Beskrivelse** | **Offentlig tilgjengelig** |
 |---------------------|-----------------|----------------------------|
-| Navn | Fullt navn på aksjonær | Ja |
-| Fødselsnummer/Org.nr | Identifikasjon av aksjonær | Delvis* |
+| Navn | Fullt navn pÃ¥ aksjonÃ¦r | Ja |
+| FÃ¸dselsnummer/Org.nr | Identifikasjon av aksjonÃ¦r | Delvis* |
 | Adresse | Bostedsadresse | Ja |
 | Antall aksjer | Hvor mange [aksjer](/blogs/regnskap/hva-er-en-aksje "Hva er en Aksje? En Enkel Forklaring") som eies | Ja |
 | Aksjeklasse | Type aksjer ([A-aksjer, B-aksjer](/blogs/regnskap/hva-er-aksjeklasser "Hva er Aksjeklasser? A-aksjer og B-aksjer Forklart")) | Ja |
 | Eierandel | Prosentvis eierandel i selskapet | Ja |
-| Ervervsdato | Når aksjene ble ervervet | Ja |
+| Ervervsdato | NÃ¥r aksjene ble ervervet | Ja |
 
-*Fødselsnummer vises kun delvis av personvernhensyn
+*FÃ¸dselsnummer vises kun delvis av personvernhensyn
 
 #### Opplysninger om Selskapet
 
@@ -53,17 +51,17 @@ Aksjonærregisteret inneholder detaljert informasjon om både selskaper og deres
 *   **Styre** og [**daglig leder**](/blogs/regnskap/hva-er-daglig-leder "Hva er Daglig Leder? Rolle, Ansvar og Regnskapsmessige Forpliktelser")
 *   **Revisor** og revisjonsplikt
 
-![Struktur og innhold i aksjonærregisteret](aksjonaerregister-struktur.svg)
+![Struktur og innhold i aksjonÃ¦rregisteret](aksjonaerregister-struktur.svg)
 
-### Hvem Har Tilgang til Aksjonærregisteret?
+### Hvem Har Tilgang til AksjonÃ¦rregisteret?
 
-Tilgangen til aksjonærregisteret er **gradert** basert på hvem som spør og hvilket formål de har:
+Tilgangen til aksjonÃ¦rregisteret er **gradert** basert pÃ¥ hvem som spÃ¸r og hvilket formÃ¥l de har:
 
 #### Offentlig Tilgjengelig Informasjon
 
-Alle kan få tilgang til:
+Alle kan fÃ¥ tilgang til:
 
-*   Aksjonærens navn og adresse
+*   AksjonÃ¦rens navn og adresse
 *   Antall aksjer og eierandel
 *   Aksjeklasse
 *   Ervervsdato
@@ -74,22 +72,22 @@ Visse opplysninger er kun tilgjengelige for:
 
 *   **Offentlige myndigheter** (skatt, politi, finanstilsyn)
 *   **Selskapet selv** og dets representanter
-*   **Andre aksjonærer** i samme selskap
+*   **Andre aksjonÃ¦rer** i samme selskap
 *   **Kreditorer** med berettiget interesse
 
 ### Hvordan Fungerer Registreringen?
 
-Registreringen i aksjonærregisteret skjer **automatisk** når det skjer endringer i eierskap. Her er prosessen:
+Registreringen i aksjonÃ¦rregisteret skjer **automatisk** nÃ¥r det skjer endringer i eierskap. Her er prosessen:
 
-![Prosess for registrering i aksjonærregisteret](registreringsprosess.svg)
+![Prosess for registrering i aksjonÃ¦rregisteret](registreringsprosess.svg)
 
 #### Meldeplikt for Selskaper
 
-[Aksjeselskaper](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap? Komplett Guide til Selskapsformen") har **meldeplikt** til aksjonærregisteret når:
+[Aksjeselskaper](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap? Komplett Guide til Selskapsformen") har **meldeplikt** til aksjonÃ¦rregisteret nÃ¥r:
 
-1.  **Nye aksjonærer** kommer til
-2.  **Eksisterende aksjonærer** endrer sin eierandel
-3.  **Aksjer overføres** mellom parter
+1.  **Nye aksjonÃ¦rer** kommer til
+2.  **Eksisterende aksjonÃ¦rer** endrer sin eierandel
+3.  **Aksjer overfÃ¸res** mellom parter
 4.  **[Aksjekapitalen](/blogs/regnskap/hva-er-aksjekapital "Hva er Aksjekapital? Krav og Forklaring") endres**
 5.  **Nye [aksjeklasser](/blogs/regnskap/hva-er-aksjeklasser "Hva er Aksjeklasser? A-aksjer og B-aksjer Forklart") opprettes**
 
@@ -97,69 +95,69 @@ Registreringen i aksjonærregisteret skjer **automatisk** når det skjer endring
 
 | **Hendelse** | **Meldefrist** | **Sanksjon ved forsinkelse** |
 |--------------|----------------|------------------------------|
-| Aksjeoverdragelse | 1 måned | Gebyr kr 1.140 |
-| Kapitalforhøyelse | 1 måned | Gebyr kr 1.140 |
-| Endring av aksjeklasser | 1 måned | Gebyr kr 1.140 |
-| Adresseendring | 1 måned | Gebyr kr 540 |
+| Aksjeoverdragelse | 1 mÃ¥ned | Gebyr kr 1.140 |
+| KapitalforhÃ¸yelse | 1 mÃ¥ned | Gebyr kr 1.140 |
+| Endring av aksjeklasser | 1 mÃ¥ned | Gebyr kr 1.140 |
+| Adresseendring | 1 mÃ¥ned | Gebyr kr 540 |
 
 ### Reelle Rettighetshavere
 
-I tillegg til aksjonærregisteret finnes det et eget **register over reelle rettighetshavere**. Dette registeret fanger opp:
+I tillegg til aksjonÃ¦rregisteret finnes det et eget **register over reelle rettighetshavere**. Dette registeret fanger opp:
 
 *   **Indirekte eierskap** gjennom holdingselskaper
 *   **Kontroll** gjennom stemmerettigheter
-*   **Økonomisk interesse** gjennom andre konstruksjoner
+*   **Ã˜konomisk interesse** gjennom andre konstruksjoner
 
-![Sammenheng mellom aksjonærregister og register over reelle rettighetshavere](reelle-rettighetshavere.svg)
+![Sammenheng mellom aksjonÃ¦rregister og register over reelle rettighetshavere](reelle-rettighetshavere.svg)
 
 #### Terskelverdi for Registrering
 
-Reelle rettighetshavere må registreres når de:
+Reelle rettighetshavere mÃ¥ registreres nÃ¥r de:
 
 *   Eier **25% eller mer** av aksjene
 *   Har **25% eller mer** av stemmene
-*   Har **kontroll** på annen måte
+*   Har **kontroll** pÃ¥ annen mÃ¥te
 
-### Praktiske Konsekvenser for Aksjonærer
+### Praktiske Konsekvenser for AksjonÃ¦rer
 
-Som aksjonær i et norsk [aksjeselskap](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap? Komplett Guide til Selskapsformen") påvirker aksjonærregisteret deg på flere måter:
+Som aksjonÃ¦r i et norsk [aksjeselskap](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap? Komplett Guide til Selskapsformen") pÃ¥virker aksjonÃ¦rregisteret deg pÃ¥ flere mÃ¥ter:
 
 #### Personvern og Offentlighet
 
 *   **Ditt navn** og eierskap er offentlig tilgjengelig
-*   **Fødselsnummer** vises kun delvis
-*   **Adresse** er offentlig, men kan være c/o-adresse
+*   **FÃ¸dselsnummer** vises kun delvis
+*   **Adresse** er offentlig, men kan vÃ¦re c/o-adresse
 
 #### Skattemessige Konsekvenser
 
-Aksjonærregisteret brukes av skattemyndighetene til:
+AksjonÃ¦rregisteret brukes av skattemyndighetene til:
 
 *   **Kontroll av [utbytte](/blogs/regnskap/hva-er-en-aksje "Hva er en Aksje? En Enkel Forklaring")** og kapitalgevinster
-*   **Verifikasjon av [aksjonærlån](/blogs/regnskap/hva-er-aksjonaerlan-fra-as "Hva er Aksjonærlån fra AS? Regler, Skatt og Praktiske Råd")**
-*   **Overvåking av [lån til selskapet](/blogs/regnskap/hva-er-aksjonaerlan-til-as "Hva er Aksjonærlån til AS? Finansiering, Skatt og Praktiske Råd")**
+*   **Verifikasjon av [aksjonÃ¦rlÃ¥n](/blogs/regnskap/hva-er-aksjonaerlan-fra-as "Hva er AksjonÃ¦rlÃ¥n fra AS? Regler, Skatt og Praktiske RÃ¥d")**
+*   **OvervÃ¥king av [lÃ¥n til selskapet](/blogs/regnskap/hva-er-aksjonaerlan-til-as "Hva er AksjonÃ¦rlÃ¥n til AS? Finansiering, Skatt og Praktiske RÃ¥d")**
 
 ### Digitalisering og Fremtiden
 
-Aksjonærregisteret er i stadig utvikling med fokus på:
+AksjonÃ¦rregisteret er i stadig utvikling med fokus pÃ¥:
 
 #### Teknologiske Forbedringer
 
 *   **Sanntidsoppdateringer** av eierskap
-*   **Bedre søkefunksjonalitet** for offentligheten
+*   **Bedre sÃ¸kefunksjonalitet** for offentligheten
 *   **API-tilgang** for profesjonelle brukere
 *   **Integrering** med andre offentlige registre
 
-#### Økt Transparens
+#### Ã˜kt Transparens
 
 *   **Utvidet rapportering** av komplekse eierstrukturer
 *   **Bedre sporing** av internasjonale eiere
 *   **Styrket kontroll** med hvitvasking
 
-![Fremtidens aksjonærregister med digitale løsninger](fremtidens-aksjonaerregister.svg)
+![Fremtidens aksjonÃ¦rregister med digitale lÃ¸sninger](fremtidens-aksjonaerregister.svg)
 
 ### Internasjonalt Perspektiv
 
-Norge er ikke alene om å ha et offentlig aksjonærregister. Mange land har lignende systemer:
+Norge er ikke alene om Ã¥ ha et offentlig aksjonÃ¦rregister. Mange land har lignende systemer:
 
 #### Sammenligning med Andre Land
 
@@ -171,15 +169,15 @@ Norge er ikke alene om å ha et offentlig aksjonærregister. Mange land har lign
 | Tyskland | Begrenset | Ja | Gebyr |
 | Storbritannia | Ja | Ja | Gratis online |
 
-### Hvordan Få Tilgang til Informasjon
+### Hvordan FÃ¥ Tilgang til Informasjon
 
-For å få tilgang til informasjon fra aksjonærregisteret kan du:
+For Ã¥ fÃ¥ tilgang til informasjon fra aksjonÃ¦rregisteret kan du:
 
-#### Online Søk
+#### Online SÃ¸k
 
-*   Besøk **Brønnøysundregistrenes** nettsider
-*   Søk på **selskapsnavn** eller **organisasjonsnummer**
-*   Få **gratis** tilgang til grunnleggende informasjon
+*   BesÃ¸k **BrÃ¸nnÃ¸ysundregistrenes** nettsider
+*   SÃ¸k pÃ¥ **selskapsnavn** eller **organisasjonsnummer**
+*   FÃ¥ **gratis** tilgang til grunnleggende informasjon
 
 #### Utvidet Informasjon
 
@@ -191,7 +189,7 @@ For mer detaljert informasjon:
 
 ### Juridiske Aspekter og Regelverk
 
-Aksjonærregisteret er regulert av flere lover og forskrifter:
+AksjonÃ¦rregisteret er regulert av flere lover og forskrifter:
 
 #### Relevant Lovgivning
 
@@ -202,7 +200,7 @@ Aksjonærregisteret er regulert av flere lover og forskrifter:
 
 #### Rettigheter og Plikter
 
-Som aksjonær har du:
+Som aksjonÃ¦r har du:
 
 **Rettigheter:**
 *   Innsyn i egne opplysninger
@@ -216,8 +214,8 @@ Som aksjonær har du:
 
 ### Konklusjon
 
-Aksjonærregisteret er en **hjørnestein** i det norske selskapsrettslige systemet. Det sikrer transparens, bekjemper økonomisk kriminalitet og gir nødvendig innsyn i eierskap av norske selskaper.
+AksjonÃ¦rregisteret er en **hjÃ¸rnestein** i det norske selskapsrettslige systemet. Det sikrer transparens, bekjemper Ã¸konomisk kriminalitet og gir nÃ¸dvendig innsyn i eierskap av norske selskaper.
 
-For deg som aksjonær eller som vurderer å investere i [aksjer](/blogs/regnskap/hva-er-en-aksje "Hva er en Aksje? En Enkel Forklaring"), er det viktig å forstå at ditt eierskap vil være **offentlig tilgjengelig**. Dette er prisen for å delta i det norske næringslivet, men det gir også trygghet og forutsigbarhet for alle parter.
+For deg som aksjonÃ¦r eller som vurderer Ã¥ investere i [aksjer](/blogs/regnskap/hva-er-en-aksje "Hva er en Aksje? En Enkel Forklaring"), er det viktig Ã¥ forstÃ¥ at ditt eierskap vil vÃ¦re **offentlig tilgjengelig**. Dette er prisen for Ã¥ delta i det norske nÃ¦ringslivet, men det gir ogsÃ¥ trygghet og forutsigbarhet for alle parter.
 
-Registeret vil fortsette å utvikle seg med teknologien, og vi kan forvente enda bedre tilgang til informasjon og økt transparens i årene som kommer.
+Registeret vil fortsette Ã¥ utvikle seg med teknologien, og vi kan forvente enda bedre tilgang til informasjon og Ã¸kt transparens i Ã¥rene som kommer.

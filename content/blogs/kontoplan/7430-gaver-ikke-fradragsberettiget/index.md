@@ -1,7 +1,7 @@
 ﻿---
 title: "7430-gaver-ikke-fradragsberettiget"
 meta_title: "7430-gaver-ikke-fradragsberettiget"
-meta_description: "**Konto 7430 - Gaver, ikke fradragsberettiget** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til Ã¥ registrere **ikke-fradragsberettigede ga..."
+meta_description: '**Konto 7430 - Gaver, ikke fradragsberettiget** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til Ã¥ registrere **ikke-fradragsberettigede ga...'
 slug: 7430-gaver-ikke-fradragsberettiget
 type: blog
 layout: pages/single

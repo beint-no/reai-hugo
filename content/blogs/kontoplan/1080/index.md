@@ -1,7 +1,7 @@
 ﻿---
 title: "1080"
 meta_title: "1080"
-meta_description: "**Konto 1080 - Goodwill** er en av de mest komplekse kontiene i norsk kontoplan og representerer den delen av [anskaffelseskostnaden](/blogs/regnskap/hva-er-ans..."
+meta_description: '**Konto 1080 - Goodwill** er en av de mest komplekse kontiene i norsk kontoplan og representerer den delen av [anskaffelseskostnaden](/blogs/regnskap/hva-er-ans...'
 slug: 1080
 type: blog
 layout: pages/single

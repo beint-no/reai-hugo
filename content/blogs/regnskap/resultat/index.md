@@ -1,12 +1,10 @@
----
+﻿---
 title: "Resultat i Norsk Regnskap"
-summary: "Resultat viser overskuddet eller underskuddet i en regnskapsperiode og er en sentral nøkkelindikator for bedriftens lønnsomhet."
-description: "Lær hva resultat er i norsk regnskap, hvordan det beregnes, hvorfor det er viktig, og hvilke typer resultat du bør kjenne til."
+meta_title: "Resultat i Norsk Regnskap"
+meta_description: '**Resultat** er det sentrale begrepet i resultatregnskapet som viser om en bedrift har *overskudd* eller *underskudd* i en gitt periode.'
 slug: resultat
-featured_image: resultat-image.svg
-featured_image_alt: "Illustrasjon av Resultat"
-url: "/blogs/regnskap/resultat/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
 **Resultat** er det sentrale begrepet i resultatregnskapet som viser om en bedrift har *overskudd* eller *underskudd* i en gitt periode.
@@ -15,48 +13,48 @@ draft: false
 
 ## Hva er Resultat?
 
-Resultat er differansen mellom **totale inntekter** og **totale kostnader**, og kan være enten **positivt** eller **negativt**.
+Resultat er differansen mellom **totale inntekter** og **totale kostnader**, og kan vÃ¦re enten **positivt** eller **negativt**.
 
 ## Typer Resultat
 
-| Resultatnivå      | Beskrivelse                                        |
+| ResultatnivÃ¥      | Beskrivelse                                        |
 |-------------------|----------------------------------------------------|
-| Topplinje         | Totale driftsinntekter (øverste linje i resultatregnskapet) |
+| Topplinje         | Totale driftsinntekter (Ã¸verste linje i resultatregnskapet) |
 | Bruttoresultat    | Salgsinntekter minus varekostnad                   |
 | Driftsresultat    | Bruttoresultat minus driftskostnader               |
-| Ordinært resultat | Driftsresultat + finansinntekter - finanskostnader |
-| [Årsresultat](/blogs/regnskap/aarsresultat "Årsresultat")       | Ordinært resultat minus skattekostnad              |
+| OrdinÃ¦rt resultat | Driftsresultat + finansinntekter - finanskostnader |
+| [Ã…rsresultat](/blogs/regnskap/aarsresultat "Ã…rsresultat")       | OrdinÃ¦rt resultat minus skattekostnad              |
 
 ## Hvorfor er Resultat viktig?
 
-- Gir oversikt over **lønnsomhet**
-- Gir en tydelig visning av **topplinjen** (totale driftsinntekter) som grunnlag for lønnsomhetsanalyse
-- Påvirker beslutninger om **investeringer**, **utbytte** og **finansiering**
-- Er grunnlaget for nøkkeltall som [Bunnlinje](/blogs/regnskap/bunnlinje "Bunnlinje i Norsk Regnskap: Definisjon, Beregning og Eksempler") og [Egenkapitalrentabilitet](/blogs/regnskap/hva-er-egenkapitalrentabilitet "Hva er Egenkapitalrentabilitet? Beregning og Tolkning")
+- Gir oversikt over **lÃ¸nnsomhet**
+- Gir en tydelig visning av **topplinjen** (totale driftsinntekter) som grunnlag for lÃ¸nnsomhetsanalyse
+- PÃ¥virker beslutninger om **investeringer**, **utbytte** og **finansiering**
+- Er grunnlaget for nÃ¸kkeltall som [Bunnlinje](/blogs/regnskap/bunnlinje "Bunnlinje i Norsk Regnskap: Definisjon, Beregning og Eksempler") og [Egenkapitalrentabilitet](/blogs/regnskap/hva-er-egenkapitalrentabilitet "Hva er Egenkapitalrentabilitet? Beregning og Tolkning")
 
 ## Hvordan beregne Resultat?
 
 | Post             | Formel                            |
 |------------------|-----------------------------------|
-| Totale Inntekter | Σ inntekter                       |
-| Totale Kostnader | Σ kostnader                       |
-| **Resultat**     | Totale Inntekter − Totale Kostnader |
+| Totale Inntekter | Î£ inntekter                       |
+| Totale Kostnader | Î£ kostnader                       |
+| **Resultat**     | Totale Inntekter âˆ’ Totale Kostnader |
 
 Eksempel:
 
-| Post      | Beløp (kr) |
+| Post      | BelÃ¸p (kr) |
 |-----------|------------|
-| Inntekter | 2 000 000  |
-| Kostnader | 1 500 000  |
-| **Resultat** | 500 000 |
+| Inntekter | 2Â 000Â 000  |
+| Kostnader | 1Â 500Â 000  |
+| **Resultat** | 500Â 000 |
 
 ## Relaterte Artikler
 
 * [Bunnlinje](/blogs/regnskap/bunnlinje "Bunnlinje i Norsk Regnskap: Definisjon, Beregning og Eksempler")
-* [Driftsresultat](/blogs/regnskap/hva-er-driftsresultat "Hva er Driftsresultat? Beregning og Nøkkeltall")
-* [Overskudd](/blogs/regnskap/hva-er-overskudd "Hva er Overskudd? Komplett Guide til Overskudd i Regnskap og Økonomi")
-* [Fortjeneste](/blogs/regnskap/hva-er-fortjeneste "Hva er Fortjeneste? Komplett Guide til Fortjeneste i Regnskap og Økonomi")
+* [Driftsresultat](/blogs/regnskap/hva-er-driftsresultat "Hva er Driftsresultat? Beregning og NÃ¸kkeltall")
+* [Overskudd](/blogs/regnskap/hva-er-overskudd "Hva er Overskudd? Komplett Guide til Overskudd i Regnskap og Ã˜konomi")
+* [Fortjeneste](/blogs/regnskap/hva-er-fortjeneste "Hva er Fortjeneste? Komplett Guide til Fortjeneste i Regnskap og Ã˜konomi")
 
 ## Oppsummering
 
-Resultat er en **nøkkelindikator** som viser bedriftens økonomiske ytelse i en regnskapsperiode. Ved å forstå de ulike resultatnivåene kan du ta mer informerte **økonomiske beslutninger** og analysere lønnsomhet på flere nivåer.
+Resultat er en **nÃ¸kkelindikator** som viser bedriftens Ã¸konomiske ytelse i en regnskapsperiode. Ved Ã¥ forstÃ¥ de ulike resultatnivÃ¥ene kan du ta mer informerte **Ã¸konomiske beslutninger** og analysere lÃ¸nnsomhet pÃ¥ flere nivÃ¥er.

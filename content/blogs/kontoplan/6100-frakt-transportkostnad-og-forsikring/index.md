@@ -1,7 +1,7 @@
 ﻿---
 title: "6100-frakt-transportkostnad-og-forsikring"
 meta_title: "6100-frakt-transportkostnad-og-forsikring"
-meta_description: "**Konto 6100 - Frakt, transportkostnad og forsikring** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **frakt**, **transportkostnader** og ..."
+meta_description: '**Konto 6100 - Frakt, transportkostnad og forsikring** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **frakt**, **transportkostnader** og ...'
 slug: 6100-frakt-transportkostnad-og-forsikring
 type: blog
 layout: pages/single

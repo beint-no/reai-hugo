@@ -1,7 +1,7 @@
 ﻿---
 title: "3260-uttak-av-varer-utenfor-avg-omr"
 meta_title: "3260-uttak-av-varer-utenfor-avg-omr"
-meta_description: "**Konto 3260 - Uttak av varer utenfor avg.omr** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **uttak av varer** fra varelageret til inter..."
+meta_description: '**Konto 3260 - Uttak av varer utenfor avg.omr** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **uttak av varer** fra varelageret til inter...'
 slug: 3260-uttak-av-varer-utenfor-avg-omr
 type: blog
 layout: pages/single

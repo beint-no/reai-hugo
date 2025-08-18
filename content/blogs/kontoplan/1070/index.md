@@ -1,7 +1,7 @@
 ﻿---
 title: "1070"
 meta_title: "1070"
-meta_description: "**Konto 1070 - Utsatt skattfordel** er en spesialisert konto som brukes for Ã¥ registrere **utsatt skattfordel** - en [immateriell eiendel](/blogs/regnskap/hva-..."
+meta_description: '**Konto 1070 - Utsatt skattfordel** er en spesialisert konto som brukes for Ã¥ registrere **utsatt skattfordel** - en [immateriell eiendel](/blogs/regnskap/hva-...'
 slug: 1070
 type: blog
 layout: pages/single

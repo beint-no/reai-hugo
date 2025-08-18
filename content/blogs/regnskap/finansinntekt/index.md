@@ -1,19 +1,17 @@
----
+﻿---
 title: "Finansinntekt"
-summary: "En grundig gjennomgang av finansinntekt, inkludert definisjon, regnskapsføring, skatteregler og praktiske eksempler."
-description: "Lær om finansinntekt i norsk regnskap og skatt. Forstå definisjon, regnskapsføring, eksempler og skatteregler."
+meta_title: "Finansinntekt"
+meta_description: '**Finansinntekt** er inntekter som oppstÃ¥r fra virksomhetens finansielle aktiviteter, som **renter**, **utbytte** og **kapitalgevinster**. ForstÃ¥else av finan...'
 slug: finansinntekt
-featured_image: finansinntekt-image.svg
-featured_image_alt: "Finansinntekt"
-url: "/blogs/regnskap/finansinntekt/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
-**Finansinntekt** er inntekter som oppstår fra virksomhetens finansielle aktiviteter, som **renter**, **utbytte** og **kapitalgevinster**. Forståelse av finansinntekt er viktig for korrekt regnskapsføring og skatteberegning i norsk regnskap.
+**Finansinntekt** er inntekter som oppstÃ¥r fra virksomhetens finansielle aktiviteter, som **renter**, **utbytte** og **kapitalgevinster**. ForstÃ¥else av finansinntekt er viktig for korrekt regnskapsfÃ¸ring og skatteberegning i norsk regnskap.
 
-For mer innsikt i [Utbytteaksjer](/blogs/regnskap/utbytteaksjer "Utbytteaksjer – Guide til utbytteaksjer og utbytteavkastning"), se vår guide til utbytteaksjer.
+For mer innsikt i [Utbytteaksjer](/blogs/regnskap/utbytteaksjer "Utbytteaksjer â€“ Guide til utbytteaksjer og utbytteavkastning"), se vÃ¥r guide til utbytteaksjer.
  
-For en mer helhetlig forståelse av **kapitalinntekter**, se [Kapitalinntekt](/blogs/regnskap/kapitalinntekt "Kapitalinntekt – Innføring i renter, utbytte, leieinntekter og kapitalgevinster i norsk regnskap").
+For en mer helhetlig forstÃ¥else av **kapitalinntekter**, se [Kapitalinntekt](/blogs/regnskap/kapitalinntekt "Kapitalinntekt â€“ InnfÃ¸ring i renter, utbytte, leieinntekter og kapitalgevinster i norsk regnskap").
 
 ![Finansinntekt](finansinntekt-image.svg)
 
@@ -21,47 +19,47 @@ For en mer helhetlig forståelse av **kapitalinntekter**, se [Kapitalinntekt](/b
 
 Finansinntekt omfatter:
 
-* **Renteinntekter:** Inntekter fra bankinnskudd, utlån og obligasjoner
+* **Renteinntekter:** Inntekter fra bankinnskudd, utlÃ¥n og obligasjoner
 * **Utbytteinntekter:** Inntekter fra eierandeler i aksjer og fond
-* **Gevinst ved salg:** Kapitalgevinster på salg av finansielle instrumenter
+* **Gevinst ved salg:** Kapitalgevinster pÃ¥ salg av finansielle instrumenter
 * **Valutagevinster:** Gevinster fra valutaomregning og valutahandel
-* **Annen finansinntekt:** For eksempel realiserte gevinster på derivater
+* **Annen finansinntekt:** For eksempel realiserte gevinster pÃ¥ derivater
 
-## Regnskapsføring av finansinntekt
+## RegnskapsfÃ¸ring av finansinntekt
 
-Regnskapsføring følger alle prinsipper for inntektsføring, men spesifikke vurderinger gjelder:
+RegnskapsfÃ¸ring fÃ¸lger alle prinsipper for inntektsfÃ¸ring, men spesifikke vurderinger gjelder:
 
-| Element                   | Regnskapsføring                                                          |
+| Element                   | RegnskapsfÃ¸ring                                                          |
 |---------------------------|--------------------------------------------------------------------------|
 | Inntektstidspunkt         | Tidspunkt for opptjening i henhold til kontrakt eller transaksjon         |
-| Bokføringskonto           | Vanligvis konto **80X0** i kontoklasse 8 (Finansinntekter)                |
-| Skattemessig behandling   | Ofte beskattet som alminnelig inntekt; se [Alminnelig inntekt](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt – Komplett guide til skattemessig resultat og beregning") |
+| BokfÃ¸ringskonto           | Vanligvis konto **80X0** i kontoklasse 8 (Finansinntekter)                |
+| Skattemessig behandling   | Ofte beskattet som alminnelig inntekt; se [Alminnelig inntekt](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt â€“ Komplett guide til skattemessig resultat og beregning") |
 
 ## Skatteregler for finansinntekt
 
-Finansinntekt inngår i alminnelig inntekt og beskattes med **22 %**. Viktige unntak og regler:
+Finansinntekt inngÃ¥r i alminnelig inntekt og beskattes med **22â€¯%**. Viktige unntak og regler:
 
 | Regel                   | Beskrivelse                                                              |
 |-------------------------|--------------------------------------------------------------------------|
-| **Fritaksmetoden**      | Utbytte og gevinst fra datterselskaper kan delvis være fritatt           |
-| **Valutagevinster**     | Skattepliktige når de er realisert                                        |
-| **Negativ finansinntekt** | Kan fremføres mot fremtidige finansinntekter og fradragsføres som alminnelig inntekt |
+| **Fritaksmetoden**      | Utbytte og gevinst fra datterselskaper kan delvis vÃ¦re fritatt           |
+| **Valutagevinster**     | Skattepliktige nÃ¥r de er realisert                                        |
+| **Negativ finansinntekt** | Kan fremfÃ¸res mot fremtidige finansinntekter og fradragsfÃ¸res som alminnelig inntekt |
 
 ## Praktisk eksempel
 
-| Post                             | Beløp (NOK) |
+| Post                             | BelÃ¸p (NOK) |
 |----------------------------------|-------------|
-| Renteinntekter fra bank          | 10 000      |
-| Utbytte fra aksjer               | 5 000       |
-| Gevinst ved salg av obligasjoner | 2 000       |
-| Valutagevinst                    | 1 000       |
-| **Totale finansinntekter**      | **18 000**  |
+| Renteinntekter fra bank          | 10â€¯000      |
+| Utbytte fra aksjer               | 5â€¯000       |
+| Gevinst ved salg av obligasjoner | 2â€¯000       |
+| Valutagevinst                    | 1â€¯000       |
+| **Totale finansinntekter**      | **18â€¯000**  |
 
-## Ofte stilte spørsmål
+## Ofte stilte spÃ¸rsmÃ¥l
 
 ### Hvor i resultatregnskapet vises finansinntekt?
 
-Finansinntekter presenteres vanligvis under resultat før skatt som egen post. Se [Hva er Overskudd?](/blogs/regnskap/hva-er-profitt "Hva er Overskudd? Resultat før skatt og Profitt i Norsk Regnskap").
+Finansinntekter presenteres vanligvis under resultat fÃ¸r skatt som egen post. Se [Hva er Overskudd?](/blogs/regnskap/hva-er-profitt "Hva er Overskudd? Resultat fÃ¸r skatt og Profitt i Norsk Regnskap").
 
 ### Hvordan skiller finansinntekt seg fra driftsinntekt?
 
@@ -73,6 +71,6 @@ Typiske konti finnes i kontoklasse 8, se [Hva er kontoklasser?](/blogs/regnskap/
 
 ## Videre lesning
 
-* [Alminnelig inntekt](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt – Komplett guide til skattemessig resultat og beregning")
+* [Alminnelig inntekt](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt â€“ Komplett guide til skattemessig resultat og beregning")
 * [Hva er Finansregnskap?](/blogs/regnskap/hva-er-finansregnskap "Hva er Finansregnskap? Oversikt og regnskapsregler")
-* [Hva er Avsetning?](/blogs/regnskap/avsetning "Hva er Avsetning? Guide til periodisering og balanseføring")
+* [Hva er Avsetning?](/blogs/regnskap/avsetning "Hva er Avsetning? Guide til periodisering og balansefÃ¸ring")

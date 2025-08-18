@@ -1,7 +1,7 @@
 ﻿---
 title: "2500-betalbar-skatt-ikke-utlignet"
 meta_title: "2500-betalbar-skatt-ikke-utlignet"
-meta_description: "**Konto 2500 - Betalbar skatt, ikke utlignet** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ vise **betalbar skatt** som er beregnet, men som ikke er..."
+meta_description: '**Konto 2500 - Betalbar skatt, ikke utlignet** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ vise **betalbar skatt** som er beregnet, men som ikke er...'
 slug: 2500-betalbar-skatt-ikke-utlignet
 type: blog
 layout: pages/single

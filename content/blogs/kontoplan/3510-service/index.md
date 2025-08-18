@@ -1,7 +1,7 @@
 ﻿---
 title: "3510-service"
 meta_title: "3510-service"
-meta_description: "**Konto 3510 - Service** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **inntekter fra serviceytelser**, som support, vedlikehold, konsult..."
+meta_description: '**Konto 3510 - Service** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **inntekter fra serviceytelser**, som support, vedlikehold, konsult...'
 slug: 3510-service
 type: blog
 layout: pages/single

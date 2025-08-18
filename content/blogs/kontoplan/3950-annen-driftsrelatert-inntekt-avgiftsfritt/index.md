@@ -1,7 +1,7 @@
 ﻿---
 title: "3950-annen-driftsrelatert-inntekt-avgiftsfritt"
 meta_title: "3950-annen-driftsrelatert-inntekt-avgiftsfritt"
-meta_description: "**Konto 3950 - Annen driftsrelatert inntekt, avgiftsfritt** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **andre driftsrelaterte inntekte..."
+meta_description: '**Konto 3950 - Annen driftsrelatert inntekt, avgiftsfritt** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **andre driftsrelaterte inntekte...'
 slug: 3950-annen-driftsrelatert-inntekt-avgiftsfritt
 type: blog
 layout: pages/single

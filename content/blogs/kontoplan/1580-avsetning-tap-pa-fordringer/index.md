@@ -1,7 +1,7 @@
 ﻿---
 title: "1580-avsetning-tap-pa-fordringer"
 meta_title: "1580-avsetning-tap-pa-fordringer"
-meta_description: "**Konto 1580 - Avsetning tap pÃ¥ fordringer** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **avsetning for tap pÃ¥ fordringer** som en **..."
+meta_description: '**Konto 1580 - Avsetning tap pÃ¥ fordringer** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **avsetning for tap pÃ¥ fordringer** som en **...'
 slug: 1580-avsetning-tap-pa-fordringer
 type: blog
 layout: pages/single

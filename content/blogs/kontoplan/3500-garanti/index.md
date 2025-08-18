@@ -1,7 +1,7 @@
 ﻿---
 title: "3500-garanti"
 meta_title: "3500-garanti"
-meta_description: "**Konto 3500 - Garanti** er en konto i Norsk Standard Kontoplan som brukes for Ã¥ registrere **garantiforpliktelser**, inkludert depositum og garantistillelser ..."
+meta_description: '**Konto 3500 - Garanti** er en konto i Norsk Standard Kontoplan som brukes for Ã¥ registrere **garantiforpliktelser**, inkludert depositum og garantistillelser ...'
 slug: 3500-garanti
 type: blog
 layout: pages/single

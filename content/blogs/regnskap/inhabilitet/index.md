@@ -1,12 +1,10 @@
----
+﻿---
 title: "Hva er Inhabilitet i Regnskap?"
-summary: "Inhabilitet sikrer at beslutninger fattes uten interessekonflikter og opprettholder tillit til regnskap og virksomhetsstyring."
-description: "Lær hva inhabilitet er i norsk regnskap, hvilke regler som gjelder, hvordan du håndterer habilitetskonflikter og konsekvenser av inhabilitet."
+meta_title: "Hva er Inhabilitet i Regnskap?"
+meta_description: '**Inhabilitet** i norsk regnskap handler om regler og prinsipper som sikrer at beslutninger fattes uten interessekonflikter.'
 slug: inhabilitet
-featured_image: inhabilitet-image.svg
-featured_image_alt: "Hva er Inhabilitet i Regnskap?"
-url: "/blogs/regnskap/inhabilitet/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
 **Inhabilitet** i norsk regnskap handler om regler og prinsipper som sikrer at beslutninger fattes uten interessekonflikter.
@@ -15,38 +13,38 @@ draft: false
 
 ## Hva er Inhabilitet?
 
-Inhabilitet betyr at en person er uegnet til å delta i beslutningsprosesser fordi vedkommende har personlige interesser som kan påvirke objektiviteten.
+Inhabilitet betyr at en person er uegnet til Ã¥ delta i beslutningsprosesser fordi vedkommende har personlige interesser som kan pÃ¥virke objektiviteten.
 
 ## Regelverk og Lover
 
-Inhabilitetsreglene finnes blant annet i [Aksjeloven](/blogs/regnskap/hva-er-aksjeloven "Hva er Aksjeloven?") §§ 6-27 og § 6-28, samt i Forvaltningsloven § 6 når offentlige instanser vurderer regnskap.
+Inhabilitetsreglene finnes blant annet i [Aksjeloven](/blogs/regnskap/hva-er-aksjeloven "Hva er Aksjeloven?") Â§Â§ 6-27 og Â§ 6-28, samt i Forvaltningsloven Â§ 6 nÃ¥r offentlige instanser vurderer regnskap.
 
 ## Typer Inhabilitet
 
 | **Type inhabilitet**     | **Beskrivelse**                                                                          |
 |--------------------------|------------------------------------------------------------------------------------------|
-| **Absolutt inhabilitet** | Personen er alltid hindret fra å delta, f.eks. når direkte økonomisk interesse påvirkes  |
+| **Absolutt inhabilitet** | Personen er alltid hindret fra Ã¥ delta, f.eks. nÃ¥r direkte Ã¸konomisk interesse pÃ¥virkes  |
 | **Relativ inhabilitet**  | Personen kan delta dersom interessekonflikten er av ubetydelig karakter                  |
-| **Saklig inhabilitet**   | Konkret vurdering av om det foreligger tilstrekkelig grunn til å nekte deltakelse        |
+| **Saklig inhabilitet**   | Konkret vurdering av om det foreligger tilstrekkelig grunn til Ã¥ nekte deltakelse        |
 
-## Hvem kan være inhabile?
+## Hvem kan vÃ¦re inhabile?
 
 * **Styremedlemmer** og varamedlemmer i [aksjeselskap](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap?")
 * **Daglig leder** og andre ledende personer i selskapet
-* **Revisorer** og interne kontrollører som jobber med regnskapet
-* Ansatte med **personlig økonomisk eller familiær interesse** i saken
+* **Revisorer** og interne kontrollÃ¸rer som jobber med regnskapet
+* Ansatte med **personlig Ã¸konomisk eller familiÃ¦r interesse** i saken
 
-## Hvordan håndtere inhabilitet i praksis
+## Hvordan hÃ¥ndtere inhabilitet i praksis
 
-* Kartlegg roller og tilhørende habilitetsregler i [Internkontroll](/blogs/regnskap/hva-er-internkontroll "Hva er Internkontroll?")
-* Sørg for at inhabile personer **ikke deltar** i behandling eller beslutning
-* Bruk skriftlig **fullmakt** eller annen delegasjon for å sikre beslutninger ved fravær av habil person
-* Dokumenter alle beslutninger om habilitet i protokoller og møtereferater
+* Kartlegg roller og tilhÃ¸rende habilitetsregler i [Internkontroll](/blogs/regnskap/hva-er-internkontroll "Hva er Internkontroll?")
+* SÃ¸rg for at inhabile personer **ikke deltar** i behandling eller beslutning
+* Bruk skriftlig **fullmakt** eller annen delegasjon for Ã¥ sikre beslutninger ved fravÃ¦r av habil person
+* Dokumenter alle beslutninger om habilitet i protokoller og mÃ¸tereferater
 
 ## Konsekvenser av inhabilitet
 
-* Vedtak og beslutninger kan bli **ugyldige** dersom inhabilitet ikke håndteres korrekt
-* Økt risiko for **rettslige etterspill** og tap av omdømme
+* Vedtak og beslutninger kan bli **ugyldige** dersom inhabilitet ikke hÃ¥ndteres korrekt
+* Ã˜kt risiko for **rettslige etterspill** og tap av omdÃ¸mme
 * Sviktende tillit til regnskap og virksomhetsstyring
 
 ## Relaterte Artikler

@@ -1,7 +1,7 @@
 ﻿---
 title: "7210-provisjonskostnader-ikke-oppgavepliktig"
 meta_title: "7210-provisjonskostnader-ikke-oppgavepliktig"
-meta_description: "**Konto 7210 - Provisjonskostnader, ikke oppgavepliktig** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere provisjonskostnader som ikke er op..."
+meta_description: '**Konto 7210 - Provisjonskostnader, ikke oppgavepliktig** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere provisjonskostnader som ikke er op...'
 slug: 7210-provisjonskostnader-ikke-oppgavepliktig
 type: blog
 layout: pages/single

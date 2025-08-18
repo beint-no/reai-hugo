@@ -1,22 +1,18 @@
----
+﻿---
 title: "Hva er ISIN-nummer?"
-summary: "ISIN-nummer er en internasjonal standard for entydig identifikasjon av verdipapirer. I denne artikkelen lærer du om struktur, tildeling og bruksområder i Norge."
-description: |
-  Lær alt om ISIN-nummer (International Securities Identification Number) – hva det er, hvordan det er bygget opp, tildeles og brukes i norsk regnskap og finansmarked.
+meta_title: "Hva er ISIN-nummer?"
+meta_description: '**ISIN-nummer** (International Securities Identification Number) er en **internasjonal standard** som brukes for **entydig identifikasjon av verdipapirer** pÃ¥ ...'
 slug: hva-er-isin-nummer
-featured_image: hva-er-isin-nummer-image.svg
-featured_image_alt: "Hva er ISIN-nummer?"
-url: "/blogs/regnskap/hva-er-isin-nummer/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
-
-**ISIN-nummer** (International Securities Identification Number) er en **internasjonal standard** som brukes for **entydig identifikasjon av verdipapirer** på tvers av landegrenser. I norsk regnskaps- og finanspraksis er **ISIN-nummer** viktig for å spore, bokføre og rapportere investeringer i aksjer, obligasjoner og andre verdipapirinstrumenter.
+**ISIN-nummer** (International Securities Identification Number) er en **internasjonal standard** som brukes for **entydig identifikasjon av verdipapirer** pÃ¥ tvers av landegrenser. I norsk regnskaps- og finanspraksis er **ISIN-nummer** viktig for Ã¥ spore, bokfÃ¸re og rapportere investeringer i aksjer, obligasjoner og andre verdipapirinstrumenter.
 
 
 ## Hva er ISIN-nummer?
 
-**ISIN-nummer** står for **International Securities Identification Number** og består av **12 tegn** som entydig identifiserer et verdipapir globalt. Koden brukes av banker, børser, meglere og regnskapssystemer for å sikre korrekt håndtering og rapportering av finansielle instrumenter.
+**ISIN-nummer** stÃ¥r for **International Securities Identification Number** og bestÃ¥r av **12 tegn** som entydig identifiserer et verdipapir globalt. Koden brukes av banker, bÃ¸rser, meglere og regnskapssystemer for Ã¥ sikre korrekt hÃ¥ndtering og rapportering av finansielle instrumenter.
 
 For mer om aksjer som investering, se [Hva er en Aksje?](/blogs/regnskap/hva-er-en-aksje "Hva er en Aksje? Guide til Aksjer og Verdipapirer"). For obligasjoner, se [Hva er Obligasjon?](/blogs/regnskap/hva-er-obligasjon "Hva er Obligasjon? Guide til Obligasjoner som Verdipapir").
 
@@ -34,33 +30,33 @@ For mer om aksjer som investering, se [Hva er en Aksje?](/blogs/regnskap/hva-er-
 
 ## Hvordan tildeles ISIN-nummer?
 
-Tildeling av **ISIN-nummer** håndteres nasjonalt av godkjente nasjonale nummerlagsorganisasjoner (NNA). I Norge er dette **Oslo Børs** / **Euronext VPS**. Prosessen inkluderer:
+Tildeling av **ISIN-nummer** hÃ¥ndteres nasjonalt av godkjente nasjonale nummerlagsorganisasjoner (NNA). I Norge er dette **Oslo BÃ¸rs** / **Euronext VPS**. Prosessen inkluderer:
 
 * Tildeling av en **to-bokstavs landekode** etter ISO 3166
 * Tildeling av en **nasjonal kode** for det enkelte verdipapiret
 * Beregning av **kontrollsiffer** ved hjelp av Modulus 10 Double-Add-Double-algoritmen
 
 
-## Bruksområder i regnskap og finansmarked
+## BruksomrÃ¥der i regnskap og finansmarked
 
 ISIN-nummer anvendes bredt i:
 
-* **Regnskapssystemer** for entydig bokføring av finansielle eiendeler
-* **Børshandel** og verdipapirregistrering
-* **Porteføljeforvaltning** og risikorapportering
+* **Regnskapssystemer** for entydig bokfÃ¸ring av finansielle eiendeler
+* **BÃ¸rshandel** og verdipapirregistrering
+* **PortefÃ¸ljeforvaltning** og risikorapportering
 * **Internasjonal handel** med aksjer, obligasjoner og derivater
 
 
 ## Fordeler ved bruk av ISIN-nummer
 
-Ved bruk av **ISIN-nummer** får norske virksomheter og investorer:
+Ved bruk av **ISIN-nummer** fÃ¥r norske virksomheter og investorer:
 
-* **Økt nøyaktighet** og reduserte feilkilder ved identifikasjon
+* **Ã˜kt nÃ¸yaktighet** og reduserte feilkilder ved identifikasjon
 * **Effektivisering** av transaksjons- og rapporteringsprosesser
-* **Standardisert kommunikasjon** med internasjonale aktører
+* **Standardisert kommunikasjon** med internasjonale aktÃ¸rer
 
 
-## Eksempler på ISIN-koder
+## Eksempler pÃ¥ ISIN-koder
 
 | Verdipapir               | ISIN-nummer     |
 |--------------------------|-----------------|
@@ -69,7 +65,7 @@ Ved bruk av **ISIN-nummer** får norske virksomheter og investorer:
 | Norske Statsobligasjoner | NO0010549309    |
 
 
-## Vanlige spørsmål om ISIN-nummer
+## Vanlige spÃ¸rsmÃ¥l om ISIN-nummer
 
 **Hvorfor er kontrollsiffer viktig?**
 

@@ -1,7 +1,7 @@
 ﻿---
 title: "2340-andre-valutalan"
 meta_title: "2340-andre-valutalan"
-meta_description: "**Konto 2340 - Andre valutalÃ¥n** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til Ã¥ registrere **andre valutalÃ¥n**, det vil si *kortsiktige* ..."
+meta_description: '**Konto 2340 - Andre valutalÃ¥n** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til Ã¥ registrere **andre valutalÃ¥n**, det vil si *kortsiktige* ...'
 slug: 2340-andre-valutalan
 type: blog
 layout: pages/single

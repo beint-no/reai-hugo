@@ -1,7 +1,7 @@
 ﻿---
 title: "8080-verdiokning-finansielle-omlopsmidler"
 meta_title: "8080-verdiokning-finansielle-omlopsmidler"
-meta_description: "**Konto 8080 - VerdiÃ¸kning finansielle omlÃ¸psmidler** er en konto i Norsk Standard Kontoplan som brukes for Ã¥ resultatfÃ¸re **urealiserte gevinster** pÃ¥ **f..."
+meta_description: '**Konto 8080 - VerdiÃ¸kning finansielle omlÃ¸psmidler** er en konto i Norsk Standard Kontoplan som brukes for Ã¥ resultatfÃ¸re **urealiserte gevinster** pÃ¥ **f...'
 slug: 8080-verdiokning-finansielle-omlopsmidler
 type: blog
 layout: pages/single

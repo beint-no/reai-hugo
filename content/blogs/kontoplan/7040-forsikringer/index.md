@@ -1,7 +1,7 @@
 ﻿---
 title: "7040-forsikringer"
 meta_title: "7040-forsikringer"
-meta_description: "**Konto 7040 - Forsikringer** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til Ã¥ registrere **forsikringskostnader** knyttet til virksomhet..."
+meta_description: '**Konto 7040 - Forsikringer** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til Ã¥ registrere **forsikringskostnader** knyttet til virksomhet...'
 slug: 7040-forsikringer
 type: blog
 layout: pages/single

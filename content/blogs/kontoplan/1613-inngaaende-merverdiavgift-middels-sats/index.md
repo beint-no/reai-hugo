@@ -1,7 +1,7 @@
 ﻿---
 title: "1613-inngaaende-merverdiavgift-middels-sats"
 meta_title: "1613-inngaaende-merverdiavgift-middels-sats"
-meta_description: "**Konto 1613 - InngÃ¥ende merverdiavgift middels sats** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **inngÃ¥ende merverdiavgift med midd..."
+meta_description: '**Konto 1613 - InngÃ¥ende merverdiavgift middels sats** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **inngÃ¥ende merverdiavgift med midd...'
 slug: 1613-inngaaende-merverdiavgift-middels-sats
 type: blog
 layout: pages/single

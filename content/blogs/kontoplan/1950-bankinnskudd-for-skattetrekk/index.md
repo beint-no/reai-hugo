@@ -1,7 +1,7 @@
 ﻿---
 title: "1950-bankinnskudd-for-skattetrekk"
 meta_title: "1950-bankinnskudd-for-skattetrekk"
-meta_description: "**Konto 1950 - Bankinnskudd for skattetrekk** er en konto i norsk standard kontoplan som brukes til Ã¥ registrere virksomhetens **bankinnskudd for forskuddstrek..."
+meta_description: '**Konto 1950 - Bankinnskudd for skattetrekk** er en konto i norsk standard kontoplan som brukes til Ã¥ registrere virksomhetens **bankinnskudd for forskuddstrek...'
 slug: 1950-bankinnskudd-for-skattetrekk
 type: blog
 layout: pages/single

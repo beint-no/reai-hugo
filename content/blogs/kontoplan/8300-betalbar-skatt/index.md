@@ -1,7 +1,7 @@
 ﻿---
 title: "8300-betalbar-skatt"
 meta_title: "8300-betalbar-skatt"
-meta_description: "**Konto 8300 - Betalbar skatt** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ vise **betalbar skatt** som kortsiktig gjeld i [balansen](/blogs/regnsk..."
+meta_description: '**Konto 8300 - Betalbar skatt** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ vise **betalbar skatt** som kortsiktig gjeld i [balansen](/blogs/regnsk...'
 slug: 8300-betalbar-skatt
 type: blog
 layout: pages/single

@@ -1,7 +1,7 @@
 ﻿---
 title: "1612-inngaaende-merverdiavgift-kjop-tjen-fra-utlandet"
 meta_title: "1612-inngaaende-merverdiavgift-kjop-tjen-fra-utlandet"
-meta_description: "**Konto 1612 - InngÃ¥ende merverdiavgift kjÃ¸p tjenester fra utlandet** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **inngÃ¥ende merverd..."
+meta_description: '**Konto 1612 - InngÃ¥ende merverdiavgift kjÃ¸p tjenester fra utlandet** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **inngÃ¥ende merverd...'
 slug: 1612-inngaaende-merverdiavgift-kjop-tjen-fra-utlandet
 type: blog
 layout: pages/single

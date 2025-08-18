@@ -1,7 +1,7 @@
 ﻿---
 title: "1440-ferdige-egentilvirkede-varer"
 meta_title: "1440-ferdige-egentilvirkede-varer"
-meta_description: "**Konto 1440 - Ferdige egentilvirkede varer** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **ferdige egentilvirkede varer** som er fullst..."
+meta_description: '**Konto 1440 - Ferdige egentilvirkede varer** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **ferdige egentilvirkede varer** som er fullst...'
 slug: 1440-ferdige-egentilvirkede-varer
 type: blog
 layout: pages/single

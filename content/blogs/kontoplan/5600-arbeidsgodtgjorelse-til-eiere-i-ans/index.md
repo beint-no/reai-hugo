@@ -1,7 +1,7 @@
 ﻿---
 title: "5600-arbeidsgodtgjorelse-til-eiere-i-ans"
 meta_title: "5600-arbeidsgodtgjorelse-til-eiere-i-ans"
-meta_description: "**Konto 5600 - ArbeidsgodtgjÃ¸relse til eiere i ANS o.l.** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som benyttes for Ã¥ registrere **arbeidsgodtgjÃ..."
+meta_description: '**Konto 5600 - ArbeidsgodtgjÃ¸relse til eiere i ANS o.l.** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som benyttes for Ã¥ registrere **arbeidsgodtgjÃ...'
 slug: 5600-arbeidsgodtgjorelse-til-eiere-i-ans
 type: blog
 layout: pages/single

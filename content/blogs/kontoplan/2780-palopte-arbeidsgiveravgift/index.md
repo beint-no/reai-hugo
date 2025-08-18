@@ -1,7 +1,7 @@
 ﻿---
 title: "2780-palopte-arbeidsgiveravgift"
 meta_title: "2780-palopte-arbeidsgiveravgift"
-meta_description: "**Konto 2780 - PÃ¥lÃ¸pt arbeidsgiveravgift** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **pÃ¥lÃ¸pt arbeidsgiveravgift** som kortsiktig ..."
+meta_description: '**Konto 2780 - PÃ¥lÃ¸pt arbeidsgiveravgift** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **pÃ¥lÃ¸pt arbeidsgiveravgift** som kortsiktig ...'
 slug: 2780-palopte-arbeidsgiveravgift
 type: blog
 layout: pages/single

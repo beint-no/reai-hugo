@@ -1,7 +1,7 @@
 ﻿---
 title: "2540-forhaandskatt"
 meta_title: "2540-forhaandskatt"
-meta_description: "**Konto 2540 - ForhÃ¥ndsskatt** er en konto i Norsk Standard Kontoplan som brukes for Ã¥ vise innbetalte **forskuddsbetalinger av skatt** som en kortsiktig gjel..."
+meta_description: '**Konto 2540 - ForhÃ¥ndsskatt** er en konto i Norsk Standard Kontoplan som brukes for Ã¥ vise innbetalte **forskuddsbetalinger av skatt** som en kortsiktig gjel...'
 slug: 2540-forhaandskatt
 type: blog
 layout: pages/single

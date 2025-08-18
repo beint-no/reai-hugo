@@ -1,7 +1,7 @@
 ﻿---
 title: "1780-krav-pa-innbetaling-av-selskapskapital"
 meta_title: "1780-krav-pa-innbetaling-av-selskapskapital"
-meta_description: "**Konto 1780 - Krav pÃ¥ innbetaling av selskapskapital** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **krav pÃ¥ innbetaling av selskapsk..."
+meta_description: '**Konto 1780 - Krav pÃ¥ innbetaling av selskapskapital** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **krav pÃ¥ innbetaling av selskapsk...'
 slug: 1780-krav-pa-innbetaling-av-selskapskapital
 type: blog
 layout: pages/single

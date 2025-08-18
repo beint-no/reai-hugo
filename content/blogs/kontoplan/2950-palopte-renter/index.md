@@ -1,7 +1,7 @@
 ﻿---
 title: "2950-palopte-renter"
 meta_title: "2950-palopte-renter"
-meta_description: "**Konto 2950 - PÃ¥lÃ¸pte renter** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **pÃ¥lÃ¸pte renteutgifter**."
+meta_description: '**Konto 2950 - PÃ¥lÃ¸pte renter** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **pÃ¥lÃ¸pte renteutgifter**.'
 slug: 2950-palopte-renter
 type: blog
 layout: pages/single

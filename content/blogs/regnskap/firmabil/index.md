@@ -1,26 +1,23 @@
----
+﻿---
 title: "Firmabil"
-summary: "En omfattende guide til firmabil i norsk regnskap og skatterett. Lær om beskatning, regnskapsføring, dokumentasjonskrav, kjørebok, fradragsmuligheter og praktiske tips."
-description: "Alt du trenger å vite om firmabil, inkludert regler, beskatning, regnskapsføring, dokumentasjon og beste praksis i Norge."
+meta_title: "Firmabil"
+meta_description: '**Firmabil** er et kjÃ¸retÃ¸y som eies, leases eller disponeres av virksomheten og stilles til rÃ¥dighet for ansatte. Bruken av firmabil har bÃ¥de **regnskapsme...'
 slug: firmabil
-featured_image: firmabil-image.svg
-featured_image_alt: "Firmabil"
-url: "/blogs/regnskap/firmabil/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
-
-**Firmabil** er et kjøretøy som eies, leases eller disponeres av virksomheten og stilles til rådighet for ansatte. Bruken av firmabil har både **regnskapsmessige** og **skattemessige** konsekvenser i Norge.
+**Firmabil** er et kjÃ¸retÃ¸y som eies, leases eller disponeres av virksomheten og stilles til rÃ¥dighet for ansatte. Bruken av firmabil har bÃ¥de **regnskapsmessige** og **skattemessige** konsekvenser i Norge.
 
 ![Firmabil Oversikt](firmabil-image.svg)
 
 ## Hva er Firmabil?
 
-> En **firmabil** gir ansatte tilgang til kjøretøy i jobbsammenheng. Samtidig medfører både privat og profesjonell bruk krav til **beskatning**, **regnskapsføring** og **dokumentasjon**.
+> En **firmabil** gir ansatte tilgang til kjÃ¸retÃ¸y i jobbsammenheng. Samtidig medfÃ¸rer bÃ¥de privat og profesjonell bruk krav til **beskatning**, **regnskapsfÃ¸ring** og **dokumentasjon**.
 
-En firmabil kan være et attraktivt personalgode, men det er viktig å forstå hvilke regler som gjelder for:
+En firmabil kan vÃ¦re et attraktivt personalgode, men det er viktig Ã¥ forstÃ¥ hvilke regler som gjelder for:
 
-* **Privat vs. tjenestekjøring** og krav til [kjørebok](/blogs/regnskap/hva-er-kjorebok "Hva er kjørebok? Komplett Guide til Kjørebok for Bedrifter i Norge")
+* **Privat vs. tjenestekjÃ¸ring** og krav til [kjÃ¸rebok](/blogs/regnskap/hva-er-kjorebok "Hva er kjÃ¸rebok? Komplett Guide til KjÃ¸rebok for Bedrifter i Norge")
 * **Fordelsbeskatning** ved privat bruk; se [Fordelsbeskatning](/blogs/regnskap/fordelsbeskatning "Fordelsbeskatning - Skattemessige regler for Naturalytelser og Personalfordeler") for mer informasjon
 * **Regnskapsmessig behandling** av kostnader og avgifter
 * **Dokumentasjonskrav** og arkivering
@@ -31,37 +28,37 @@ Privat bruk av firmabil regnes som en skattepliktig fordel. Skatteloven regulere
 
 | Biltype             | Beskatningsgrunnlag                                                | Sats                   |
 |---------------------|--------------------------------------------------------------------|------------------------|
-| Personbil           | 30 % av listepris inntil kr 314 400, 20 % av overskytende pris      | Skattepliktig fordel   |
-| El- eller hybridbil | 40 % av listepris inntil kr 314 400, 20 % av overskytende pris      | Skattepliktig fordel   |
+| Personbil           | 30 % av listepris inntil kr 314Â 400, 20 % av overskytende pris      | Skattepliktig fordel   |
+| El- eller hybridbil | 40 % av listepris inntil kr 314Â 400, 20 % av overskytende pris      | Skattepliktig fordel   |
 
-*Eksempel:* En firmabil med listepris kr 350 000 gir en skattemessig fordel på (30 % × 314 400) + (20 % × 35 600) = kr 109 920.
+*Eksempel:* En firmabil med listepris krÂ 350Â 000 gir en skattemessig fordel pÃ¥ (30Â % Ã— 314Â 400) + (20Â % Ã— 35Â 600) = krÂ 109Â 920.
 
-## Regnskapsføring av Firmabil
+## RegnskapsfÃ¸ring av Firmabil
 
-Regnskapstransaksjoner knyttet til firmabil omfatter både anskaffelseskost, leasingkostnader, drivstoff, vedlikehold og eventuelle avgifter:
+Regnskapstransaksjoner knyttet til firmabil omfatter bÃ¥de anskaffelseskost, leasingkostnader, drivstoff, vedlikehold og eventuelle avgifter:
 
 | Kostnadstype   | Debetkonto          | Kreditkonto               |
 |----------------|---------------------|---------------------------|
-| Leasing        | 7400 Leiekostnader  | 2400 Leverandørgjeld      |
-| Drivstoff      | 7180 Drivstoff      | 1920 Bank/Leverandørgjeld |
-| Vedlikehold    | 7160 Vedlikehold    | 2400 Leverandørgjeld      |
-| Bompenger      | 7405 Bompenger      | 1920 Bank/Leverandørgjeld |
+| Leasing        | 7400 Leiekostnader  | 2400 LeverandÃ¸rgjeld      |
+| Drivstoff      | 7180 Drivstoff      | 1920 Bank/LeverandÃ¸rgjeld |
+| Vedlikehold    | 7160 Vedlikehold    | 2400 LeverandÃ¸rgjeld      |
+| Bompenger      | 7405 Bompenger      | 1920 Bank/LeverandÃ¸rgjeld |
 
-Alle bilrelaterte kostnader bør dokumenteres som [bilag](/blogs/regnskap/hva-er-bilag "Hva er Bilag i Regnskap? Komplett Guide til Regnskapsbilag og Dokumentasjon") og kan avregnes eller refunderes ved riktig behandling i [avregning](/blogs/regnskap/avregning "Avregning - Komplett Guide til Avregning i Regnskap").
+Alle bilrelaterte kostnader bÃ¸r dokumenteres som [bilag](/blogs/regnskap/hva-er-bilag "Hva er Bilag i Regnskap? Komplett Guide til Regnskapsbilag og Dokumentasjon") og kan avregnes eller refunderes ved riktig behandling i [avregning](/blogs/regnskap/avregning "Avregning - Komplett Guide til Avregning i Regnskap").
 
-## Dokumentasjon og Kjørebok
+## Dokumentasjon og KjÃ¸rebok
 
-For å dokumentere privat bruk av firmabil kreves en nøyaktig [kjørebok](/blogs/regnskap/hva-er-kjorebok "Hva er kjørebok? Komplett Guide til Kjørebok for Bedrifter i Norge"). Korrekt dokumentasjon sikrer:
+For Ã¥ dokumentere privat bruk av firmabil kreves en nÃ¸yaktig [kjÃ¸rebok](/blogs/regnskap/hva-er-kjorebok "Hva er kjÃ¸rebok? Komplett Guide til KjÃ¸rebok for Bedrifter i Norge"). Korrekt dokumentasjon sikrer:
 
-* **Klar separasjon** mellom tjeneste- og privatkjøring
+* **Klar separasjon** mellom tjeneste- og privatkjÃ¸ring
 * **Grunnlag** for korrekt beskatning
-* **Overholdelse** av bokføringsloven og skattemyndighetenes krav
+* **Overholdelse** av bokfÃ¸ringsloven og skattemyndighetenes krav
 
 ## Beste praksis og tips
 
-Følg disse rådene for effektiv håndtering av firmabil:
+FÃ¸lg disse rÃ¥dene for effektiv hÃ¥ndtering av firmabil:
 
-* Etabler faste rutiner for føring av kjørebok.
+* Etabler faste rutiner for fÃ¸ring av kjÃ¸rebok.
 * Samle alle bilag digitalt for enkel [bilagsbehandling](/blogs/regnskap/hva-er-bilag "Hva er Bilag i Regnskap? Komplett Guide til Regnskapsbilag og Dokumentasjon").
-* Gjennomfør jevnlige kontroller av kjørte kilometer mot kjørebok.
-* Vurder bruk av digitale løsninger for automatisk registrering av kjøredata.
+* GjennomfÃ¸r jevnlige kontroller av kjÃ¸rte kilometer mot kjÃ¸rebok.
+* Vurder bruk av digitale lÃ¸sninger for automatisk registrering av kjÃ¸redata.

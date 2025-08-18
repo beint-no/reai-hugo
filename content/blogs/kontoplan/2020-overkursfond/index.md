@@ -1,7 +1,7 @@
 ﻿---
 title: "2020-overkursfond"
 meta_title: "2020-overkursfond"
-meta_description: "**Konto 2020 - Overkursfond** er en konto innen **egenkapital** i Norsk Standard Kontoplan (NSÂ 4102) som brukes til Ã¥ registrere **innskutt overkurs** ved emi..."
+meta_description: '**Konto 2020 - Overkursfond** er en konto innen **egenkapital** i Norsk Standard Kontoplan (NSÂ 4102) som brukes til Ã¥ registrere **innskutt overkurs** ved emi...'
 slug: 2020-overkursfond
 type: blog
 layout: pages/single

@@ -1,7 +1,7 @@
 ﻿---
 title: "8600-betalbar-skatt-ekstraordinart-resultat"
 meta_title: "8600-betalbar-skatt-ekstraordinart-resultat"
-meta_description: "**Konto 8600 - Betalbar skatt, ekstraordinÃ¦rt resultat** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **betalbar skatt** knyttet til **e..."
+meta_description: '**Konto 8600 - Betalbar skatt, ekstraordinÃ¦rt resultat** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **betalbar skatt** knyttet til **e...'
 slug: 8600-betalbar-skatt-ekstraordinart-resultat
 type: blog
 layout: pages/single

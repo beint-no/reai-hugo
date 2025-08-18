@@ -1,7 +1,7 @@
 ﻿---
 title: "8150-annen-rentekostnad"
 meta_title: "8150-annen-rentekostnad"
-meta_description: "**Konto 8150 - Annen rentekostnad** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **andre rentekostnader** som ikke dekkes av mer spesifik..."
+meta_description: '**Konto 8150 - Annen rentekostnad** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **andre rentekostnader** som ikke dekkes av mer spesifik...'
 slug: 8150-annen-rentekostnad
 type: blog
 layout: pages/single

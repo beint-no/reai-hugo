@@ -1,7 +1,7 @@
 ﻿---
 title: "1670-krav-pa-offentlige-tilskudd"
 meta_title: "1670-krav-pa-offentlige-tilskudd"
-meta_description: "**Konto 1670 - Krav pÃ¥ offentlige tilskudd** er en konto i **Norsk Standard Kontoplan** som brukes til Ã¥ registrere **krav virksomheten har pÃ¥ offentlige til..."
+meta_description: '**Konto 1670 - Krav pÃ¥ offentlige tilskudd** er en konto i **Norsk Standard Kontoplan** som brukes til Ã¥ registrere **krav virksomheten har pÃ¥ offentlige til...'
 slug: 1670-krav-pa-offentlige-tilskudd
 type: blog
 layout: pages/single

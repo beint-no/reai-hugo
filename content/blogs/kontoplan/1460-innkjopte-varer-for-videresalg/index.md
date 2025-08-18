@@ -1,7 +1,7 @@
 ﻿---
 title: "1460-innkjopte-varer-for-videresalg"
 meta_title: "1460-innkjopte-varer-for-videresalg"
-meta_description: "**Konto 1460 - InnkjÃ¸pte varer for videresalg** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **handelsvarer** og **varekjÃ¸p** som skal ..."
+meta_description: '**Konto 1460 - InnkjÃ¸pte varer for videresalg** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **handelsvarer** og **varekjÃ¸p** som skal ...'
 slug: 1460-innkjopte-varer-for-videresalg
 type: blog
 layout: pages/single

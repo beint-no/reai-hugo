@@ -1,7 +1,7 @@
 ﻿---
 title: "6220-fyringsolje"
 meta_title: "6220-fyringsolje"
-meta_description: "**Konto 6220 - Fyringsolje** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **fyringsoljekostnader** i virksomhetens drift."
+meta_description: '**Konto 6220 - Fyringsolje** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **fyringsoljekostnader** i virksomhetens drift.'
 slug: 6220-fyringsolje
 type: blog
 layout: pages/single

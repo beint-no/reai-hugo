@@ -1,7 +1,7 @@
 ﻿---
 title: "2460-leverandorgjeld-til-selskap-i-samme-konsern"
 meta_title: "2460-leverandorgjeld-til-selskap-i-samme-konsern"
-meta_description: "**Konto 2460 - LeverandÃ¸rgjeld til selskap i samme konsern** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kortsiktig leverandÃ¸rgjeld*..."
+meta_description: '**Konto 2460 - LeverandÃ¸rgjeld til selskap i samme konsern** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kortsiktig leverandÃ¸rgjeld*...'
 slug: 2460-leverandorgjeld-til-selskap-i-samme-konsern
 type: blog
 layout: pages/single

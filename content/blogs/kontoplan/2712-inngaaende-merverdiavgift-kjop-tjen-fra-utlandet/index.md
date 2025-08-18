@@ -1,7 +1,7 @@
 ﻿---
 title: "2712-inngaaende-merverdiavgift-kjop-tjen-fra-utlandet"
 meta_title: "2712-inngaaende-merverdiavgift-kjop-tjen-fra-utlandet"
-meta_description: "**Konto 2712 - InngÃ¥ende merverdiavgift kjÃ¸p tjenester fra utlandet** er en konto i **Norsk Standard Kontoplan** som brukes til Ã¥ presentere **inngÃ¥ende mer..."
+meta_description: '**Konto 2712 - InngÃ¥ende merverdiavgift kjÃ¸p tjenester fra utlandet** er en konto i **Norsk Standard Kontoplan** som brukes til Ã¥ presentere **inngÃ¥ende mer...'
 slug: 2712-inngaaende-merverdiavgift-kjop-tjen-fra-utlandet
 type: blog
 layout: pages/single

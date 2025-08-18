@@ -1,73 +1,71 @@
----
+﻿---
 title: "NIBOR"
-summary: "En grundig guide til NIBOR, den norske interbank offered rate, inkludert hvordan den beregnes, anvendes og påvirker finansielle instrumenter."
-description: "Lær om NIBOR, markedsreferanserente i norsk finans, beregning, bruk i lån og derivater, og sammenheng med andre referanserenter."
+meta_title: "NIBOR"
+meta_description: '**NIBOR** (Norwegian Interbank Offered Rate) er den viktigste **referanserenten** i det norske pengemarkedet. Den angir hva banker er villige til Ã¥ lÃ¥ne ut ti...'
 slug: nibor
-featured_image: nibor-image.svg
-featured_image_alt: "NIBOR"
-url: "/blogs/regnskap/nibor/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
-**NIBOR** (Norwegian Interbank Offered Rate) er den viktigste **referanserenten** i det norske pengemarkedet. Den angir hva banker er villige til å låne ut til hverandre for usikrede kortsiktige innskudd, og er en sentral faktor for fastsettelse av renter på lån, derivater og andre finansielle instrumenter.
+**NIBOR** (Norwegian Interbank Offered Rate) er den viktigste **referanserenten** i det norske pengemarkedet. Den angir hva banker er villige til Ã¥ lÃ¥ne ut til hverandre for usikrede kortsiktige innskudd, og er en sentral faktor for fastsettelse av renter pÃ¥ lÃ¥n, derivater og andre finansielle instrumenter.
 
 ![NIBOR Oversikt](nibor-image.svg)
 
 ## Hva er NIBOR?
 
-NIBOR publiseres daglig av **Oslo Børs** basert på innrapporterte priser fra et utvalg banker for ulike løpetider. Den dekker normalt følgende terminer:
+NIBOR publiseres daglig av **Oslo BÃ¸rs** basert pÃ¥ innrapporterte priser fra et utvalg banker for ulike lÃ¸petider. Den dekker normalt fÃ¸lgende terminer:
 
-| Løpetid   | Beskrivelse                                |
+| LÃ¸petid   | Beskrivelse                                |
 |-----------|---------------------------------------------|
-| 1 måned   | Usikrede innskudd i 1 måned                |
-| 3 måneder | Usikrede innskudd i 3 måneder               |
-| 6 måneder | Usikrede innskudd i 6 måneder               |
-| 12 måneder| Usikrede innskudd i 12 måneder              |
+| 1 mÃ¥ned   | Usikrede innskudd i 1 mÃ¥ned                |
+| 3 mÃ¥neder | Usikrede innskudd i 3 mÃ¥neder               |
+| 6 mÃ¥neder | Usikrede innskudd i 6 mÃ¥neder               |
+| 12 mÃ¥neder| Usikrede innskudd i 12 mÃ¥neder              |
 
 ## Hvordan beregnes NIBOR?
 
-NIBOR beregnes som et **trimmet gjennomsnitt** av de innrapporterte rentene, der de høyeste og laveste verdiene forkastes før gjennomsnittet tas. Dette sikrer at ekstreme avvik ikke påvirker referanserenten.
+NIBOR beregnes som et **trimmet gjennomsnitt** av de innrapporterte rentene, der de hÃ¸yeste og laveste verdiene forkastes fÃ¸r gjennomsnittet tas. Dette sikrer at ekstreme avvik ikke pÃ¥virker referanserenten.
 
-## Bruksområder
+## BruksomrÃ¥der
 
-NIBOR har bred anvendelse i både bank- og finansnæringen:
+NIBOR har bred anvendelse i bÃ¥de bank- og finansnÃ¦ringen:
 
-* **Lån og finansiering:** Grunnlag for variabel rente på boliglån, bedriftslån og kredittlån
+* **LÃ¥n og finansiering:** Grunnlag for variabel rente pÃ¥ boliglÃ¥n, bedriftslÃ¥n og kredittlÃ¥n
 * **Derivater:** Brukt som referanserente for renteswapper, renter terminer og andre finansielle derivater (se [Hva er derivater?](/blogs/regnskap/derivater "Hva er Derivater? Introduksjon til finansielle derivater i norsk regnskap"))
-* **Kapitalkostnad:** Bidrar til å fastsette kostnad ved finansiering i investeringsanalyser og beregning av [internrente](/blogs/regnskap/internrente "Hva er Internrente? Nåverdi og internrente i investeringsanalyse")
-* **Markedsindikator:** Måler likviditet og kredittrisiko i det norske pengemarkedet
+* **Kapitalkostnad:** Bidrar til Ã¥ fastsette kostnad ved finansiering i investeringsanalyser og beregning av [internrente](/blogs/regnskap/internrente "Hva er Internrente? NÃ¥verdi og internrente i investeringsanalyse")
+* **Markedsindikator:** MÃ¥ler likviditet og kredittrisiko i det norske pengemarkedet
 
 ## Sammenligning med andre referanserenter
 
-| Referanserente | Område                    | Typisk bruk                         |
+| Referanserente | OmrÃ¥de                    | Typisk bruk                         |
 |---------------|----------------------------|-------------------------------------|
-| **NIBOR**     | Norsk interbankmarked     | Lån, swapper, derivater             |
-| **STIBOR**    | Svensk interbankmarked    | Svenske banklån, finansielle instrumenter |
-| **EURIBOR**   | Eurosonen interbankmarked | Euro-lån, internasjonale swapper    |
+| **NIBOR**     | Norsk interbankmarked     | LÃ¥n, swapper, derivater             |
+| **STIBOR**    | Svensk interbankmarked    | Svenske banklÃ¥n, finansielle instrumenter |
+| **EURIBOR**   | Eurosonen interbankmarked | Euro-lÃ¥n, internasjonale swapper    |
 
-## Eksempel på bruk i lån
+## Eksempel pÃ¥ bruk i lÃ¥n
 
-En bedrift tar opp et lån med variabel rente knyttet til NIBOR 3 måneder + 1 %. Hvis NIBOR er 4,50 %, blir nominell rente 5,50 %.
+En bedrift tar opp et lÃ¥n med variabel rente knyttet til NIBOR 3 mÃ¥neder + 1â€¯%. Hvis NIBOR er 4,50â€¯%, blir nominell rente 5,50â€¯%.
 
 | Parameter            | Verdi    |
 |----------------------|----------|
-| NIBOR (3 måneder)    | 4,50 %   |
-| Margin               | 1,00 %   |
-| **Total nominell rente** | **5,50 %** |
+| NIBOR (3 mÃ¥neder)    | 4,50â€¯%   |
+| Margin               | 1,00â€¯%   |
+| **Total nominell rente** | **5,50â€¯%** |
 
-## Ofte stilte spørsmål
+## Ofte stilte spÃ¸rsmÃ¥l
 
 ### Hva skiller NIBOR fra styringsrenten?
 
-NIBOR reflekterer prisen banker setter for gjensidig lån i markedet, mens [styringsrenten](/blogs/regnskap/hva-er-inflasjon "Hva er inflasjon? En guide til pengepolitikk og styringsrente") fastsettes av Norges Bank som et pengepolitisk verktøy.
+NIBOR reflekterer prisen banker setter for gjensidig lÃ¥n i markedet, mens [styringsrenten](/blogs/regnskap/hva-er-inflasjon "Hva er inflasjon? En guide til pengepolitikk og styringsrente") fastsettes av Norges Bank som et pengepolitisk verktÃ¸y.
 
-### Hvordan påvirker NIBOR boliglånsrenten?
+### Hvordan pÃ¥virker NIBOR boliglÃ¥nsrenten?
 
-Boliglån med flytende rente er ofte priset som **NIBOR + margin**, slik at endringer i NIBOR slår direkte ut på kundens rente.
+BoliglÃ¥n med flytende rente er ofte priset som **NIBOR + margin**, slik at endringer i NIBOR slÃ¥r direkte ut pÃ¥ kundens rente.
 
 ## Videre lesning
 
 * [Hva er effektiv rente?](/blogs/regnskap/hva-er-effektiv-rente "Hva er Effektiv Rente? Beregning og betydning")
 * [Hva er derivater?](/blogs/regnskap/derivater "Hva er Derivater? Introduksjon til finansielle derivater i norsk regnskap")
-* [Hva er internrente?](/blogs/regnskap/internrente "Hva er Internrente? Nåverdi og internrente i investeringsanalyse")
-* [Finansinntekt](/blogs/regnskap/finansinntekt "Finansinntekt – Renter, utbytte og kapitalgevinster i norsk regnskap")
+* [Hva er internrente?](/blogs/regnskap/internrente "Hva er Internrente? NÃ¥verdi og internrente i investeringsanalyse")
+* [Finansinntekt](/blogs/regnskap/finansinntekt "Finansinntekt â€“ Renter, utbytte og kapitalgevinster i norsk regnskap")

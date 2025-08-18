@@ -1,29 +1,27 @@
----
+﻿---
 title: "Udekket tap"
-summary: "Udekket tap oppstår når akkumulerte tap overstiger innskutt egenkapital og resulterer i negativ egenkapital. Artikkelen forklarer definisjon, balanseføring, årsaker, konsekvenser og metoder for å håndtere udekket tap."
-description: "Lær om udekket tap i norske regnskap - definisjon, balanseføring, årsaker, konsekvenser og håndtering av akkumulerte tap som ikke er dekket av egenkapital."
+meta_title: "Udekket tap"
+meta_description: '**Udekket tap** er et viktig begrep i [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse? Komplett Guide til Balanseregnskap") som viser akkumulerte tap ...'
 slug: udekket-tap
-featured_image: udekket-tap-image.svg
-featured_image_alt: "Illustrasjon med teksten Udekket tap"
-url: "/blogs/regnskap/udekket-tap/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
-**Udekket tap** er et viktig begrep i [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse? Komplett Guide til Balanseregnskap") som viser akkumulerte tap som ikke er dekket av innskutt egenkapital. Begrepet er sentralt for å forstå når et selskap har negativ egenkapital og hvilke tiltak som må vurderes.
+**Udekket tap** er et viktig begrep i [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse? Komplett Guide til Balanseregnskap") som viser akkumulerte tap som ikke er dekket av innskutt egenkapital. Begrepet er sentralt for Ã¥ forstÃ¥ nÃ¥r et selskap har negativ egenkapital og hvilke tiltak som mÃ¥ vurderes.
 
 ![Illustrasjon med teksten Udekket tap](udekket-tap-image.svg)
 
 ## Hva er Udekket tap?
 
-Udekket tap oppstår når summen av akkumulerte underskudd overstiger selskapets innskutte egenkapital. Dette resulterer i negativ egenkapital og vises i egenkapitalseksjonen i [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse? Komplett Guide til Balanseregnskap").
+Udekket tap oppstÃ¥r nÃ¥r summen av akkumulerte underskudd overstiger selskapets innskutte egenkapital. Dette resulterer i negativ egenkapital og vises i egenkapitalseksjonen i [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse? Komplett Guide til Balanseregnskap").
 
 **Kjennetegn ved udekket tap:**
 
-* Summen av tidligere års underskudd > innskutt egenkapital
+* Summen av tidligere Ã¥rs underskudd > innskutt egenkapital
 * Reflekteres som en egen post i egenkapitalen
 * Indikerer at selskapet har underskudd som ikke er dekket
 
-## Balanseføring av Udekket tap
+## BalansefÃ¸ring av Udekket tap
 
 Udekket tap presenteres som en egen linje i egenkapitalseksjonen i balansen:
 
@@ -31,34 +29,34 @@ Udekket tap presenteres som en egen linje i egenkapitalseksjonen i balansen:
 |-------------------------|-----------------------|
 | Akkumulert udekket tap  | (x xxx xxx)           |
 
-## Årsaker til Udekket tap
+## Ã…rsaker til Udekket tap
 
-Det er flere årsaker til at et selskap kan få udekket tap:
+Det er flere Ã¥rsaker til at et selskap kan fÃ¥ udekket tap:
 
-* **Driftsunderskudd:** Når driftskostnader overstiger driftsinntekter over tid
-* **Engangstap:** Store, uforutsette kostnader som tap på investeringer eller rettssaker
+* **Driftsunderskudd:** NÃ¥r driftskostnader overstiger driftsinntekter over tid
+* **Engangstap:** Store, uforutsette kostnader som tap pÃ¥ investeringer eller rettssaker
 * **Verdifall:** Nedskrivning av eiendeler som realiserer tap
 
 ## Konsekvenser av Udekket tap
 
-Udekket tap fører til **negativ egenkapital**, noe som kan medføre:
+Udekket tap fÃ¸rer til **negativ egenkapital**, noe som kan medfÃ¸re:
 
 * Styrets varslingsplikt etter aksjeloven
-* Vansker med å få tilgang til ekstern finansiering
-* Økt konkursrisiko ved vedvarende tap
+* Vansker med Ã¥ fÃ¥ tilgang til ekstern finansiering
+* Ã˜kt konkursrisiko ved vedvarende tap
 
-## Håndtering av Udekket tap
+## HÃ¥ndtering av Udekket tap
 
-For å håndtere udekket tap kan selskapet vurdere:
+For Ã¥ hÃ¥ndtere udekket tap kan selskapet vurdere:
 
-* **Kapitalforhøyelse** gjennom emisjon for å dekke tapet
+* **KapitalforhÃ¸yelse** gjennom emisjon for Ã¥ dekke tapet
 * **Reduksjon av aksjekapital** etterfulgt av ny kapitalinnskudd
 * **Restrukturering** av gjeld og kostnader
-* **Generalforsamlingsvedtak** for å godkjenne nødvendige tiltak
+* **Generalforsamlingsvedtak** for Ã¥ godkjenne nÃ¸dvendige tiltak
 
 Relaterte artikler:
 
 - [Hva er egenkapital?](/blogs/regnskap/hva-er-egenkapital "Hva er Egenkapital? Definisjon og Beregning")
 - [Hva er balanse?](/blogs/regnskap/hva-er-balanse "Hva er Balanse? Komplett Guide til Balanseregnskap")
-- [Fremførbart underskudd](/blogs/regnskap/fremforbart-underskudd "Fremførbart underskudd – Guide til underskudd i regnskap og skatt")
-- [Hva er kapitalforhøyelse?](/blogs/regnskap/kapitalforhoyelse "Hva er Kapitalforhøyelse? Emisjon, Krav og Prosess")
+- [FremfÃ¸rbart underskudd](/blogs/regnskap/fremforbart-underskudd "FremfÃ¸rbart underskudd â€“ Guide til underskudd i regnskap og skatt")
+- [Hva er kapitalforhÃ¸yelse?](/blogs/regnskap/kapitalforhoyelse "Hva er KapitalforhÃ¸yelse? Emisjon, Krav og Prosess")

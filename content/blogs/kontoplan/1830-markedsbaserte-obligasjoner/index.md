@@ -1,7 +1,7 @@
 ﻿---
 title: "1830-markedsbaserte-obligasjoner"
 meta_title: "1830-markedsbaserte-obligasjoner"
-meta_description: "**Konto 1830 - Markedsbaserte obligasjoner** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **markedsbaserte obligasjoner** som omsettes pÃ..."
+meta_description: '**Konto 1830 - Markedsbaserte obligasjoner** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **markedsbaserte obligasjoner** som omsettes pÃ...'
 slug: 1830-markedsbaserte-obligasjoner
 type: blog
 layout: pages/single

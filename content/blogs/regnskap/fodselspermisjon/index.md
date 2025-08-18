@@ -1,77 +1,74 @@
----
-title: "Fødselspermisjon: Guide til foreldrepenger og regnskapsføring i Norge"
-summary: |
-  En komplett guide til fødselspermisjon og foreldrepenger: perioder, kompensasjon, regnskapsføringsprinsipper og praktiske tips for norske virksomheter.
-description: "Alt du trenger å vite om fødselspermisjon og foreldrepenger i Norge. Beregning, regnskapsføring, rettigheter og praktiske råd for arbeidsgivere og foreldre."
+﻿---
+title: "FÃ¸dselspermisjon: Guide til foreldrepenger og regnskapsfÃ¸ring i Norge"
+meta_title: "FÃ¸dselspermisjon: Guide til foreldrepenger og regnskapsfÃ¸ring i Norge"
+meta_description: '**FÃ¸dselspermisjon** er en periode i forbindelse med fÃ¸dsel eller adopsjon der foreldre har rett til permisjon med **foreldrepenger** fra NAV for Ã¥ ivareta o...'
 slug: fodselspermisjon
-featured_image: fodselspermisjon-image.svg
-featured_image_alt: "Fødselspermisjon"
-url: "/blogs/regnskap/fodselspermisjon/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
-**Fødselspermisjon** er en periode i forbindelse med fødsel eller adopsjon der foreldre har rett til permisjon med **foreldrepenger** fra NAV for å ivareta omsorgen for sitt barn. Ordningen er en del av [Folketrygden](/blogs/regnskap/hva-er-folketrygden "Hva er Folketrygden? Struktur og Ytelser") og gir økonomisk trygghet i permisjonsperioden.
+**FÃ¸dselspermisjon** er en periode i forbindelse med fÃ¸dsel eller adopsjon der foreldre har rett til permisjon med **foreldrepenger** fra NAV for Ã¥ ivareta omsorgen for sitt barn. Ordningen er en del av [Folketrygden](/blogs/regnskap/hva-er-folketrygden "Hva er Folketrygden? Struktur og Ytelser") og gir Ã¸konomisk trygghet i permisjonsperioden.
 
-![Fødselspermisjon](fodselspermisjon-image.svg)
+![FÃ¸dselspermisjon](fodselspermisjon-image.svg)
 
-## Seksjon 1: Hva er fødselspermisjon og foreldrepenger?
+## Seksjon 1: Hva er fÃ¸dselspermisjon og foreldrepenger?
 
-Fødselspermisjon omfatter både **mammalignende** og **pappalignende** perioder, samt **deling** mellom foreldrene. Ordningen reguleres av Folketrygdloven kapittel 14 og dekker inntil 49 uker med 100 % lønnskompensering, eller 59 uker med 80 % kompensasjon, innenfor gjeldende **G-grenser**.
+FÃ¸dselspermisjon omfatter bÃ¥de **mammalignende** og **pappalignende** perioder, samt **deling** mellom foreldrene. Ordningen reguleres av Folketrygdloven kapittel 14 og dekker inntil 49 uker med 100â€¯% lÃ¸nnskompensering, eller 59 uker med 80â€¯% kompensasjon, innenfor gjeldende **G-grenser**.
 
 | Permisjonstype         | Varighet            | Kompensasjon       |
 |------------------------|---------------------|--------------------|
-| **Mødrekvote**         | 15 uker             | 100 % / 80 %       |
-| **Fedrekvote**         | 15 uker             | 100 % / 80 %       |
-| **Fellesperiode**      | 16 uker             | 100 % / 80 %       |
+| **MÃ¸drekvote**         | 15 uker             | 100â€¯% / 80â€¯%       |
+| **Fedrekvote**         | 15 uker             | 100â€¯% / 80â€¯%       |
+| **Fellesperiode**      | 16 uker             | 100â€¯% / 80â€¯%       |
 
-*Tabell: Oversikt over kvoter og kompensasjonsnivå.*
+*Tabell: Oversikt over kvoter og kompensasjonsnivÃ¥.*
 
-## Seksjon 2: Økonomisk kompensasjon og beregning
+## Seksjon 2: Ã˜konomisk kompensasjon og beregning
 
-Foreldrepengene beregnes av pensjonsgivende inntekt opp til 6 G (grunnbeløpet). Standard beregningsgrunnlag er gjennomsnittlig pensjonsgivende inntekt de siste 3 årene før permisjon.
+Foreldrepengene beregnes av pensjonsgivende inntekt opp til 6 G (grunnbelÃ¸pet). Standard beregningsgrunnlag er gjennomsnittlig pensjonsgivende inntekt de siste 3 Ã¥rene fÃ¸r permisjon.
 
 ```text
-Beregnet månedslønn: 600 000 kr / 12 = 50 000 kr
-Foreldrepenger (100 %): 50 000 kr per måned
-Foreldrepenger (80 %): 40 000 kr per måned
+Beregnet mÃ¥nedslÃ¸nn: 600â€¯000 kr / 12 = 50â€¯000 kr
+Foreldrepenger (100â€¯%): 50â€¯000 kr per mÃ¥ned
+Foreldrepenger (80â€¯%): 40â€¯000 kr per mÃ¥ned
 ```
 
-Se også [Hva er Grundbeløp?](/blogs/regnskap/hva-er-grunnbelop "Hva er Grunnbeløp? Struktur og Roller i Trygdesystemet") for mer om G-grenser.
+Se ogsÃ¥ [Hva er GrundbelÃ¸p?](/blogs/regnskap/hva-er-grunnbelop "Hva er GrunnbelÃ¸p? Struktur og Roller i Trygdesystemet") for mer om G-grenser.
 
-## Seksjon 3: Regnskapsføring av foreldrepenger
+## Seksjon 3: RegnskapsfÃ¸ring av foreldrepenger
 
-Arbeidsgiver kan **forhåndsfinansiere** foreldrepenger og kreve refusjon fra NAV. Følgende prinsipper gjelder for regnskapsføring:
+Arbeidsgiver kan **forhÃ¥ndsfinansiere** foreldrepenger og kreve refusjon fra NAV. FÃ¸lgende prinsipper gjelder for regnskapsfÃ¸ring:
 
 | Handling                      | Debet                           | Kredit                         |
 |-------------------------------|---------------------------------|--------------------------------|
-| Utbetaling til ansatt         | Fødselspermisjon (sykepenger)   | Likviditetskonto               |
-| Refusjonskrav mot NAV         | Fordring NAV                    | Fødselspermisjon (sykepenger)  |
+| Utbetaling til ansatt         | FÃ¸dselspermisjon (sykepenger)   | Likviditetskonto               |
+| Refusjonskrav mot NAV         | Fordring NAV                    | FÃ¸dselspermisjon (sykepenger)  |
 | Mottatt refusjon fra NAV      | Bank                            | Fordring NAV                   |
 
 
 ## Seksjon 4: Praktiske hensyn for arbeidsgivere
 
-For effektiv håndtering av fødselspermisjon bør virksomheter:
+For effektiv hÃ¥ndtering av fÃ¸dselspermisjon bÃ¸r virksomheter:
 
 * Ha klare rutiner for _innsending av inntektsmelding_ til NAV
-* Sikre korrekt _periodisering_ av kostnader i lønnssystemet
-* Tilpasse arbeidskontrakter med permisjonsbestemmelser (se [Arbeidskontrakten](/blogs/regnskap/arbeidskontrakten "Arbeidskontrakten – Roller og Ansvar i Norsk Arbeidsliv og Regnskap"))
+* Sikre korrekt _periodisering_ av kostnader i lÃ¸nnssystemet
+* Tilpasse arbeidskontrakter med permisjonsbestemmelser (se [Arbeidskontrakten](/blogs/regnskap/arbeidskontrakten "Arbeidskontrakten â€“ Roller og Ansvar i Norsk Arbeidsliv og Regnskap"))
 
 ## Seksjon 5: Relaterte emner og kilder
 
-Her finner du flere artikler som kan være nyttige:
+Her finner du flere artikler som kan vÃ¦re nyttige:
 
-* [Feriepenger](/blogs/regnskap/hva-er-feriepenger "Hva er Feriepenger? Komplett Guide til Beregning og Regnskapsføring")
+* [Feriepenger](/blogs/regnskap/hva-er-feriepenger "Hva er Feriepenger? Komplett Guide til Beregning og RegnskapsfÃ¸ring")
 * [Feriepengegrunnlag](/blogs/regnskap/feriepengegrunnlag "Feriepengegrunnlag: Grunnlag for beregning av feriepenger i Norge")
-* [Sykepenger](/blogs/regnskap/hva-er-sykepenger "Hva er Sykepenger? Arbeidsgiverperiode, NAV-refusjon og Regnskapsføring")
+* [Sykepenger](/blogs/regnskap/hva-er-sykepenger "Hva er Sykepenger? Arbeidsgiverperiode, NAV-refusjon og RegnskapsfÃ¸ring")
 * [Folketrygden](/blogs/regnskap/hva-er-folketrygden "Hva er Folketrygden? Struktur og Ytelser")
-* [Velferdspermisjon](/blogs/regnskap/velferdspermisjon "Velferdspermisjon – Rettigheter, Regnskapsføring og Skattemessig Behandling")
+* [Velferdspermisjon](/blogs/regnskap/velferdspermisjon "Velferdspermisjon â€“ Rettigheter, RegnskapsfÃ¸ring og Skattemessig Behandling")
 
 ## Oppsummering
 
-Fødselspermisjon og foreldrepenger er sentralt for både ansatte og arbeidsgivere. Hovedpunkter:
+FÃ¸dselspermisjon og foreldrepenger er sentralt for bÃ¥de ansatte og arbeidsgivere. Hovedpunkter:
 
-* **Kvoteinndeling:** Mødrekvote, fedrekvote og fellesperiode
-* **Kompensasjon:** 100 % eller 80 % av gjennomsnittlig inntekt
-* **Regnskapsføring:** Forhåndsfinansiering og refusjon fra NAV
+* **Kvoteinndeling:** MÃ¸drekvote, fedrekvote og fellesperiode
+* **Kompensasjon:** 100â€¯% eller 80â€¯% av gjennomsnittlig inntekt
+* **RegnskapsfÃ¸ring:** ForhÃ¥ndsfinansiering og refusjon fra NAV
 * **Praktiske tips:** Rutiner for inntektsmelding og kontraktsfesting

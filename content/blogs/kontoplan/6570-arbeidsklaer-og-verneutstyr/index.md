@@ -1,7 +1,7 @@
 ﻿---
 title: "6570-arbeidsklaer-og-verneutstyr"
 meta_title: "6570-arbeidsklaer-og-verneutstyr"
-meta_description: "**Konto 6570 - ArbeidsklÃ¦r og verneutstyr** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kostnader til arbeidsklÃ¦r og verneutstyr** i..."
+meta_description: '**Konto 6570 - ArbeidsklÃ¦r og verneutstyr** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kostnader til arbeidsklÃ¦r og verneutstyr** i...'
 slug: 6570-arbeidsklaer-og-verneutstyr
 type: blog
 layout: pages/single

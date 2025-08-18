@@ -1,7 +1,7 @@
 ﻿---
 title: "3020-salgsinntekt-tjenester-avgiftspl-hoy-sats"
 meta_title: "3020-salgsinntekt-tjenester-avgiftspl-hoy-sats"
-meta_description: "**Konto 3020 - Salgsinntekt tjenester avgiftspl. hÃ¸y sats** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **salgsinntekter** fra **tjenes..."
+meta_description: '**Konto 3020 - Salgsinntekt tjenester avgiftspl. hÃ¸y sats** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **salgsinntekter** fra **tjenes...'
 slug: 3020-salgsinntekt-tjenester-avgiftspl-hoy-sats
 type: blog
 layout: pages/single

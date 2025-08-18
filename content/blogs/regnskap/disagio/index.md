@@ -1,16 +1,13 @@
----
-title: "Hva er Disagio? Emisjonsrabatt på lån og obligasjoner"
-summary: "Disagio, også kalt emisjonsrabatt eller utstedelsesrabatt, er forskjellen mellom lånets pålydende verdi og faktisk mottatt beløp ved utstedelse. I denne guiden lærer du beregning, regnskapsføring og skattemessige konsekvenser av disagio."
-description: |
-  Lær hva disagio er i regnskap: definisjon, beregning, regnskapsmessig behandling av emisjonsrabatt på lån og obligasjoner, eksempler og relevante regnskapsstandarder.
+﻿---
+title: "Hva er Disagio? Emisjonsrabatt pÃ¥ lÃ¥n og obligasjoner"
+meta_title: "Hva er Disagio? Emisjonsrabatt pÃ¥ lÃ¥n og obligasjoner"
+meta_description: '**Disagio**, ogsÃ¥ kjent som *emisjonsrabatt* eller *utstedelsesrabatt*, er forskjellen mellom den nominelle verdien av et lÃ¥n eller obligasjon og det faktiske...'
 slug: disagio
-featured_image: disagio-image.svg
-featured_image_alt: "Illustrasjon med teksten Disagio"
-url: "/blogs/regnskap/disagio/"
-draft: false
+type: blog
+layout: pages/single
 ---
 
-**Disagio**, også kjent som *emisjonsrabatt* eller *utstedelsesrabatt*, er forskjellen mellom den nominelle verdien av et lån eller obligasjon og det faktiske beløpet som mottas ved utstedelse. Disagio oppstår når utstederen godtar en rabatt for å kompensere långiver eller investor for risiko, markedsforhold eller rentenivå.
+**Disagio**, ogsÃ¥ kjent som *emisjonsrabatt* eller *utstedelsesrabatt*, er forskjellen mellom den nominelle verdien av et lÃ¥n eller obligasjon og det faktiske belÃ¸pet som mottas ved utstedelse. Disagio oppstÃ¥r nÃ¥r utstederen godtar en rabatt for Ã¥ kompensere lÃ¥ngiver eller investor for risiko, markedsforhold eller rentenivÃ¥.
 
 ![Illustrasjon med teksten Disagio](disagio-image.svg)
 
@@ -18,7 +15,7 @@ draft: false
 
 ### 1.1 Hva er Disagio?
 
-Disagio representerer en finansiell kostnad som fordeles over lånets eller obligasjonens løpetid. Beløpet måles som forskjellen mellom pålydende verdi (nominell verdi) og netto innbetalt beløp ved utstedelse.
+Disagio representerer en finansiell kostnad som fordeles over lÃ¥nets eller obligasjonens lÃ¸petid. BelÃ¸pet mÃ¥les som forskjellen mellom pÃ¥lydende verdi (nominell verdi) og netto innbetalt belÃ¸p ved utstedelse.
 
 ### 1.2 Synonymer og Terminologi
 
@@ -33,19 +30,19 @@ I praksis brukes flere termer for samme konsept:
 ### 2.1 Grunnleggende Formel
 
 ```text
-Disagio = Pålydende verdi - Netto mottatt beløp
+Disagio = PÃ¥lydende verdi - Netto mottatt belÃ¸p
 ```
 
-### 2.2 Tabellen med Eksempel på Amortiseringsplan
+### 2.2 Tabellen med Eksempel pÃ¥ Amortiseringsplan
 
-| År | Netto mottatt beløp | Amortisert Disagio | Akkumulert Disagio | Bokført Verdi |
+| Ã…r | Netto mottatt belÃ¸p | Amortisert Disagio | Akkumulert Disagio | BokfÃ¸rt Verdi |
 |----|---------------------|--------------------|--------------------|---------------|
-| 0  | 95 000              | –                  | 0                  | 95 000        |
-| 1  | –                   | 1 000              | 1 000              | 96 000        |
-| 2  | –                   | 1 000              | 2 000              | 97 000        |
-| 3  | –                   | 1 000              | 3 000              | 98 000        |
-| 4  | –                   | 1 000              | 4 000              | 99 000        |
-| 5  | –                   | 1 000              | 5 000              | 100 000       |
+| 0  | 95Â 000              | â€“                  | 0                  | 95Â 000        |
+| 1  | â€“                   | 1Â 000              | 1Â 000              | 96Â 000        |
+| 2  | â€“                   | 1Â 000              | 2Â 000              | 97Â 000        |
+| 3  | â€“                   | 1Â 000              | 3Â 000              | 98Â 000        |
+| 4  | â€“                   | 1Â 000              | 4Â 000              | 99Â 000        |
+| 5  | â€“                   | 1Â 000              | 5Â 000              | 100Â 000       |
 
 ## Seksjon 3: Regnskapsmessig Behandling
 
@@ -54,14 +51,14 @@ Disagio = Pålydende verdi - Netto mottatt beløp
 Ved utstedelse:
 
 ```text
-DEBET: Bank/finansieringskonto          95 000
-   KREDIT: Langsiktig gjeld (nominell)         100 000
-   DEBET: Disagio (periodisering)        5 000
+DEBET: Bank/finansieringskonto          95Â 000
+   KREDIT: Langsiktig gjeld (nominell)         100Â 000
+   DEBET: Disagio (periodisering)        5Â 000
 ```
 
 ### 3.2 Amortisering av Disagio
 
-Amortisering utføres lineært eller ved internrente-metoden. For lineær fordeling deles disagio på antall perioder, som vist i tabellen over.
+Amortisering utfÃ¸res lineÃ¦rt eller ved internrente-metoden. For lineÃ¦r fordeling deles disagio pÃ¥ antall perioder, som vist i tabellen over.
 
 For mer om amortisering, se [Hva er Amortisering?](/blogs/regnskap/hva-er-amortisering "Hva er Amortisering? Prinsipper for Avskrivning, Amortisering og Diskontering").
 
@@ -71,25 +68,25 @@ For prinsipper for diskontering, se [Hva er Diskontering?](/blogs/regnskap/hva-e
 
 ### 4.1 Norsk Regnskapsstandard (NRS)
 
-Emisjonsrabatt skal behandles i henhold til NRS for finansielle instrumenter og periodiseringsprinsippet. Disagio klassifiseres som kostnad som føres over lånets løpetid.
+Emisjonsrabatt skal behandles i henhold til NRS for finansielle instrumenter og periodiseringsprinsippet. Disagio klassifiseres som kostnad som fÃ¸res over lÃ¥nets lÃ¸petid.
 
-### 4.2 IFRS 9 – Finansielle instrumenter
+### 4.2 IFRS 9 â€“ Finansielle instrumenter
 
-Under IFRS 9 må finansielle forpliktelser måles til amortisert kost ved bruk av **[Effektiv rente](/blogs/regnskap/hva-er-effektiv-rente "Hva er Effektiv rente? Komplett Guide til Beregning av Effektiv rente i Regnskap")**-metoden, hvor disagio inngår i beregningen av **[Effektiv rente](/blogs/regnskap/hva-er-effektiv-rente "Hva er Effektiv rente? Komplett Guide til Beregning av Effektiv rente i Regnskap")**.
+Under IFRS 9 mÃ¥ finansielle forpliktelser mÃ¥les til amortisert kost ved bruk av **[Effektiv rente](/blogs/regnskap/hva-er-effektiv-rente "Hva er Effektiv rente? Komplett Guide til Beregning av Effektiv rente i Regnskap")**-metoden, hvor disagio inngÃ¥r i beregningen av **[Effektiv rente](/blogs/regnskap/hva-er-effektiv-rente "Hva er Effektiv rente? Komplett Guide til Beregning av Effektiv rente i Regnskap")**.
 
 ### 4.3 Skattemessige Konsekvenser
 
-Skattemessig fordeles disagio vanligvis lineært over lånets løpetid og gir fradrag etter realisasjonsprinsippet.
+Skattemessig fordeles disagio vanligvis lineÃ¦rt over lÃ¥nets lÃ¸petid og gir fradrag etter realisasjonsprinsippet.
 
-## Seksjon 5: Praktisk Eksempel – Emisjonsrabatt på Obligasjon
+## Seksjon 5: Praktisk Eksempel â€“ Emisjonsrabatt pÃ¥ Obligasjon
 
-En bedrift utsteder en obligasjon med pålydende 1 000 000 kr til kurs 98 (netto 980 000 kr). Disagio er da 20 000 kr.
+En bedrift utsteder en obligasjon med pÃ¥lydende 1Â 000Â 000 kr til kurs 98 (netto 980Â 000 kr). Disagio er da 20Â 000 kr.
 
 For mer informasjon om obligasjoner, se [Hva er Obligasjon?](/blogs/regnskap/hva-er-obligasjon "Hva er Obligasjon? Guide til Obligasjoner, Renter og Avkastning").
 
-## Se også
+## Se ogsÃ¥
 
-* [Hva er Disagio?](/blogs/regnskap/disagio "Hva er Disagio? Emisjonsrabatt på lån og obligasjoner")
+* [Hva er Disagio?](/blogs/regnskap/disagio "Hva er Disagio? Emisjonsrabatt pÃ¥ lÃ¥n og obligasjoner")
 * [Hva er Amortisering?](/blogs/regnskap/hva-er-amortisering "Hva er Amortisering? Prinsipper for Avskrivning, Amortisering og Diskontering")
 * [Hva er Diskontering?](/blogs/regnskap/hva-er-diskontering "Hva er Diskontering? Prinsipper og Praktiske Eksempler")
 * [Hva er Obligasjon?](/blogs/regnskap/hva-er-obligasjon "Hva er Obligasjon? Guide til Obligasjoner, Renter og Avkastning")

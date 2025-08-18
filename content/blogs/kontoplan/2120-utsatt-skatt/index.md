@@ -1,7 +1,7 @@
 ﻿---
 title: "2120-utsatt-skatt"
 meta_title: "2120-utsatt-skatt"
-meta_description: "**Konto 2120 - Utsatt skatt** er en viktig konto for Ã¥ registrere **utsatt skatt** â€“ en forpliktelse som oppstÃ¥r nÃ¥r midlertidige forskjeller mellom regnsk..."
+meta_description: '**Konto 2120 - Utsatt skatt** er en viktig konto for Ã¥ registrere **utsatt skatt** â€“ en forpliktelse som oppstÃ¥r nÃ¥r midlertidige forskjeller mellom regnsk...'
 slug: 2120-utsatt-skatt
 type: blog
 layout: pages/single

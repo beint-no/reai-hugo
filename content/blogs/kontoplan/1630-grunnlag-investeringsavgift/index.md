@@ -1,7 +1,7 @@
 ﻿---
 title: "1630-grunnlag-investeringsavgift"
 meta_title: "1630-grunnlag-investeringsavgift"
-meta_description: "**Konto 1630 - Grunnlag investeringsavgift** er en konto i **Norsk Standard Kontoplan** som brukes til Ã¥ registrere **grunnlaget for investeringsavgift** ved a..."
+meta_description: '**Konto 1630 - Grunnlag investeringsavgift** er en konto i **Norsk Standard Kontoplan** som brukes til Ã¥ registrere **grunnlaget for investeringsavgift** ved a...'
 slug: 1630-grunnlag-investeringsavgift
 type: blog
 layout: pages/single
