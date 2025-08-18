@@ -8,213 +8,152 @@
   tailwind.config = {
     theme: {
       extend: {
-        fontFamily: { sans: ['Inter','ui-sans-serif','system-ui','Arial','sans-serif'] },
+        fontFamily: { 
+          sans: ['Inter', 'ui-sans-serif', 'system-ui', 'Arial', 'sans-serif'] 
+        },
         colors: {
           brand: { DEFAULT: '#111827' },
           accent: { DEFAULT: '#2563eb' }
         },
-        typography: {
+        typography: (theme) => ({
           DEFAULT: {
             css: {
               maxWidth: '65ch',
-              color: '#374151',
+              color: theme('colors.gray.700'),
               lineHeight: '1.6',
               a: {
-                color: '#2563eb',
+                color: theme('colors.accent.DEFAULT'),
                 textDecoration: 'none',
                 fontWeight: '500',
                 '&:hover': {
                   textDecoration: 'underline',
                 },
               },
-              'h1, h2, h3, h4, h5, h6': {
-                color: '#111827',
+              h1: { 
+                color: theme('colors.gray.900'),
                 fontWeight: '700',
+                fontSize: '2.25em',
                 lineHeight: '1.2',
                 marginTop: '1.5em',
                 marginBottom: '0.75em',
               },
-              'h1': { fontSize: '2.25em' },
-              'h2': { fontSize: '1.875em' },
-              'h3': { fontSize: '1.5em' },
-              'h4': { fontSize: '1.25em' },
-              'ul, ol': {
-                paddingLeft: '1.5em',
+              h2: { 
+                color: theme('colors.gray.800'),
+                fontWeight: '700',
+                fontSize: '1.875em',
+                lineHeight: '1.2',
+                marginTop: '1.5em',
+                marginBottom: '0.75em',
               },
-              'li': {
-                marginTop: '0.5em',
+              h3: { 
+                color: theme('colors.gray.700'),
+                fontWeight: '600',
+                fontSize: '1.5em',
+                lineHeight: '1.2',
+                marginTop: '1.5em',
                 marginBottom: '0.5em',
               },
-              'code': {
-                backgroundColor: '#f3f4f6',
+              'ul, ol': {
+                paddingLeft: '1.5em',
+                margin: '1rem 0',
+                'li': {
+                  margin: '0.5rem 0',
+                },
+              },
+              code: {
+                backgroundColor: theme('colors.gray.100'),
                 padding: '0.2em 0.4em',
                 borderRadius: '0.25em',
                 fontSize: '0.9em',
               },
-              'pre': {
-                backgroundColor: '#1f2937',
-                color: '#f9fafb',
+              pre: {
+                backgroundColor: theme('colors.gray.800'),
+                color: theme('colors.gray.100'),
                 padding: '1em',
                 borderRadius: '0.5em',
                 overflowX: 'auto',
               },
-              'blockquote': {
-                borderLeft: '4px solid #e5e7eb',
+              blockquote: {
+                borderLeft: `4px solid ${theme('colors.gray.200')}`,
                 paddingLeft: '1em',
                 fontStyle: 'italic',
-                color: '#4b5563',
+                color: theme('colors.gray.600'),
               },
-              'img': {
+              img: {
                 borderRadius: '0.5em',
                 marginTop: '1.5em',
                 marginBottom: '1.5em',
+                maxWidth: '100%',
+                height: 'auto',
+              },
+              table: {
+                display: 'block',
+                width: '100%',
+                overflowX: 'auto',
               },
             },
           },
-        },
+        }),
       }
     },
     plugins: [
+      require('@tailwindcss/typography'),
       function({ addComponents }) {
         addComponents({
           '.prose': {
             '@apply max-w-4xl mx-auto px-4': {},
+            overflowWrap: 'anywhere',
+            wordBreak: 'break-word',
+          },
+          '.header-link': {
+            backgroundImage: 'linear-gradient(to right, #54b3d6, #54b3d6 50%, #000 50%)',
+            backgroundSize: '200% 100%',
+            backgroundPosition: '-100%',
+            display: 'inline-block',
+            padding: '5px 0',
+            position: 'relative',
+            WebkitBackgroundClip: 'text',
+            backgroundClip: 'text',
+            WebkitTextFillColor: 'transparent',
+            transition: 'all 0.3s ease-in-out',
+            '&:hover': {
+              backgroundPosition: '0',
+            },
+            '&:before': {
+              content: "''",
+              position: 'absolute',
+              width: '0',
+              height: '2px',
+              bottom: '0',
+              left: '0',
+              backgroundColor: '#54b3d6',
+              visibility: 'hidden',
+              transition: 'all 0.3s ease-in-out',
+            },
+            '&:hover:before': {
+              visibility: 'visible',
+              width: '100%',
+            },
+          },
+          // Button styles using Tailwind classes
+          '.btn, button, .button, .cta, .link-button': {
+            '@apply transition-all duration-200 ease-in-out': {},
+            '&:hover': {
+              '@apply -translate-y-0.5 shadow-md': {},
+            },
+            '&:active': {
+              '@apply translate-y-0 scale-95 shadow-sm': {},
+            },
+            '&:focus-visible': {
+              '@apply outline-none ring-4 ring-indigo-500/30': {},
+            },
           },
         })
       },
     ],
   }
 </script>
-<style>
-  /* Fancy hover effect for header and footer links only */
-  header .header-link {
-    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #000 50%);
-    background-size: 200% 100%;
-    background-position: -100%;
-    display: inline-block;
-    padding: 5px 0;
-    position: relative;
-    -webkit-background-clip: text;
-    background-clip: text;
-    -webkit-text-fill-color: transparent;
-    transition: all 0.3s ease-in-out;
-  }
-  header .header-link::before {
-    content: '';
-    background: #54b3d6;
-    display: block;
-    position: absolute;
-    bottom: -3px;
-    left: 0;
-    width: 0;
-    height: 3px;
-    transition: all 0.3s ease-in-out;
-  }
-  header .header-link:hover { background-position: 0; }
-  header .header-link:hover::before { width: 100%; }
 
-  footer .footer-link {
-    background-image: linear-gradient(to right, #54b3d6, #54b3d6 50%, #ffffff 50%);
-    background-size: 200% 100%;
-    background-position: -100%;
-    display: inline-block;
-    padding: 5px 0;
-    position: relative;
-    -webkit-background-clip: text;
-    background-clip: text;
-    -webkit-text-fill-color: transparent;
-    transition: all 0.3s ease-in-out;
-  }
-  footer .footer-link::before {
-    content: '';
-    background: #54b3d6;
-    display: block;
-    position: absolute;
-    bottom: -3px;
-    left: 0;
-    width: 0;
-    height: 3px;
-    transition: all 0.3s ease-in-out;
-  }
-  footer .footer-link:hover { background-position: 0; }
-  footer .footer-link:hover::before { width: 100%; }
-</style>
-<style>
-  /* Global font properties to align with reai.no */
-  html { font-family: 'Inter', ui-sans-serif, system-ui, Arial, sans-serif; font-size: 16px; }
-  @media (min-width: 768px) { html { font-size: 17px; } }
-  body {
-    line-height: 1.6;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-    text-rendering: optimizeLegibility;
-    font-kerning: normal;
-    font-feature-settings: "kern", "liga", "ss01";
-  }
-  h1, h2, h3, h4, h5, h6 { letter-spacing: -0.01em; }
-  h1 { font-weight: 700; }
-  h2, h3, h4, h5, h6 { font-weight: 600; }
-</style>
-<style>
-  /* Responsive safeguards for rich content */
-  .prose { overflow-wrap: anywhere; word-break: break-word; }
-  .prose img { max-width: 100%; height: auto; }
-  .prose table { display: block; width: 100%; overflow-x: auto; }
-  .prose pre { white-space: pre-wrap; word-break: break-word; overflow-x: auto; }
-  .prose code { word-break: break-word; }
-  .prose iframe, .prose video { max-width: 100%; width: 100%; height: auto; }
-</style>
-<style>
-  /* Global button hover/active/focus animations */
-  button,
-  .btn,
-  a.btn,
-  .button,
-  .cta,
-  .link-button,
-  /* Heuristic: anchors styled like buttons */
-  a.inline-flex.rounded-md,
-  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"] {
-    transition: transform 220ms ease, box-shadow 220ms ease, background-color 220ms ease, color 220ms ease, opacity 220ms ease;
-    will-change: transform, box-shadow;
-  }
-
-  button:hover,
-  .btn:hover,
-  a.btn:hover,
-  .button:hover,
-  .cta:hover,
-  .link-button:hover,
-  a.inline-flex.rounded-md:hover,
-  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 10px 20px rgba(2, 6, 23, 0.12);
-  }
-
-  button:active,
-  .btn:active,
-  a.btn:active,
-  .button:active,
-  .cta:active,
-  .link-button:active,
-  a.inline-flex.rounded-md:active,
-  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:active {
-    transform: translateY(-1px) scale(0.99);
-    box-shadow: 0 6px 12px rgba(2, 6, 23, 0.1);
-  }
-
-  button:focus-visible,
-  .btn:focus-visible,
-  a.btn:focus-visible,
-  .button:focus-visible,
-  .cta:focus-visible,
-  .link-button:focus-visible,
-  a.inline-flex.rounded-md:focus-visible,
-  a[class*="inline-flex"][class*="rounded-md"][class*="px-"][class*="py-"]:focus-visible {
-    outline: none;
-    box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.35), 0 10px 20px rgba(2, 6, 23, 0.12);
-  }
-</style>
 <!-- Favicon -->
 <link rel="icon" type="image/svg+xml" href="/images/ReAI-logo-square.svg">
 <link rel="shortcut icon" href="/images/ReAI-logo-square.svg">
