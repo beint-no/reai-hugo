@@ -86,3 +86,6 @@ For mer om private ordninger, se [Hva er obligatorisk tjenestepensjon?](/blogs/r
 * [Hva er folketrygden?](/blogs/regnskap/hva-er-folketrygden "Hva er Folketrygden? Komplett Guide til Norges Offentlige Pensjonssystem")
 
 
+
+
+

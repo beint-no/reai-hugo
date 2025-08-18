@@ -1,5 +1,5 @@
 ﻿---
-title: "8140-rentekostnad-ikke-fradragsberettiget"
+title: "Hva er Konto 8140 - Rentekostnad, ikke fradragsberettiget?"
 meta_title: "8140-rentekostnad-ikke-fradragsberettiget"
 meta_description: '**Konto 8140 - Rentekostnad, ikke fradragsberettiget** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **rentekostnader** som ikke er fradra...'
 slug: 8140-rentekostnad-ikke-fradragsberettiget
@@ -52,3 +52,4 @@ Ved skattlegging skal ikke-fradragsberettigede rentekostnader ikke fÃ¸res til 
 * [Hva er Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i norsk regnskap")
 * [Konto 8160 - Valutatap (Disagio)](/blogs/kontoplan/8160-valutatap-disagio "Konto 8160 - Valutatap (Disagio)")
 * [Konto 8170 - Annen finanskostnad](/blogs/kontoplan/8170-annen-finanskostnad "Konto 8170 - Annen finanskostnad: Guide til andre finanskostnader")
+

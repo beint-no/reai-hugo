@@ -271,3 +271,7 @@ Omsetning er et fundamentalt begrep i norsk regnskap og skatt som pÃ¥virker al
 For virksomheter er det viktig Ã¥ ha gode systemer for omsetningsregistrering og Ã¥ forstÃ¥ de skattemessige konsekvensene av ulike omsetningsnivÃ¥er. Med riktig kunnskap og verktÃ¸y blir omsetningsadministrasjon en verdifull del av virksomhetsstyringen.
 
 
+
+
+
+

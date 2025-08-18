@@ -217,3 +217,7 @@ For bedrifter er det avgjÃ¸rende Ã¥ forstÃ¥ hvordan grunnbelÃ¸pet pÃ¥v
 Med den kontinuerlige utviklingen av det norske samfunnet vil grunnbelÃ¸pet fortsette Ã¥ vÃ¦re et sentralt verktÃ¸y for Ã¥ sikre rettferdig fordeling og opprettholdelse av kjÃ¸pekraft for alle borgere.
 
 
+
+
+
+

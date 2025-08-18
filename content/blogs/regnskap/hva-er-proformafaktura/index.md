@@ -309,3 +309,7 @@ Nye teknologier vil pÃ¥virke proformafakturaer:
 En godt utformet proformafaktura er et kraftfullt verktÃ¸y for Ã¥ bygge tillit, legge til rette for internasjonal handel og sikre smidig behandling av komplekse transaksjoner. Ved Ã¥ fÃ¸lge beste praksis og holde seg oppdatert pÃ¥ teknologiske utviklinger kan bedrifter maksimere verdien av dette viktige handelsdokumentet.
 
 
+
+
+
+

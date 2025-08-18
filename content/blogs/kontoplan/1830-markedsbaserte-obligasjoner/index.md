@@ -1,5 +1,5 @@
 ﻿---
-title: "1830-markedsbaserte-obligasjoner"
+title: "Konto 1830 - Markedsbaserte obligasjoner"
 meta_title: "1830-markedsbaserte-obligasjoner"
 meta_description: '**Konto 1830 - Markedsbaserte obligasjoner** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **markedsbaserte obligasjoner** som omsettes pÃ...'
 slug: 1830-markedsbaserte-obligasjoner
@@ -57,3 +57,4 @@ Kredit: Konto 8300 - Urealiserte gevinster/fall i virkelig verdi
 * [Konto 1850 - Markedsbaserte obligasjoner](/blogs/kontoplan/1850-markedsbaserte-obligasjoner "Konto 1850 - Markedsbaserte obligasjoner: Guide til markedsbaserte obligasjoner i norsk kontoplan")
 * [Konto 1360 - Obligasjoner](/blogs/kontoplan/1360-obligasjoner "Konto 1360 - Obligasjoner")
 * [Hva er Virkelig Verdi?](/blogs/regnskap/hva-er-virkelig-verdi "Hva er Virkelig Verdi? Verdsettelse og RegnskapsfÃ¸ring")
+

@@ -1,5 +1,5 @@
 ﻿---
-title: "2200-konvertible-lan"
+title: "Konto 2200 - Konvertible lÃ¥n"
 meta_title: "2200-konvertible-lan"
 meta_description: '**Konto 2200 - Konvertible lÃ¥n** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til Ã¥ registrere **konvertible lÃ¥n**, dvs. lÃ¥n som gir lÃ¥ngiv...'
 slug: 2200-konvertible-lan
@@ -64,3 +64,4 @@ Andre relevante artikler:
 
 * [Hva er gjeld?](/blogs/regnskap/hva-er-gjeld "Hva er Gjeld i Regnskap? Komplett Guide til Forpliktelser og Gjeldstyper")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

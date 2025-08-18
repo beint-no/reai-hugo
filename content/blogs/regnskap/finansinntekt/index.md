@@ -77,3 +77,7 @@ Typiske konti finnes i kontoklasse 8, se [Hva er kontoklasser?](/blogs/regnskap/
 
 
 
+
+
+
+

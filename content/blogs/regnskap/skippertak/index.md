@@ -71,3 +71,6 @@ Nedenfor er en forenklet tidslinje som viser viktige milepÃ¦ler i planlegginge
 Et godt planlagt regnskapsÃ¥r gir mer tid til kvalitetskontroll, reduserer stress og minimerer risikoen for kostbare feil. Ved Ã¥ forstÃ¥ fenomenet **skippertak** og implementere effektive planleggingsrutiner, kan virksomheter sikre en jevn og kontrollert Ã¥rsavslutning.
 
 
+
+
+

@@ -1,5 +1,5 @@
 ﻿---
-title: "1370-fordringer-pa-eiere-og-styremedlemmer"
+title: "Konto 1370 - Fordringer pÃ¥ eiere og styremedlemmer"
 meta_title: "1370-fordringer-pa-eiere-og-styremedlemmer"
 meta_description: '**Konto 1370 - Fordringer pÃ¥ eiere og styremedlemmer** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **lÃ¥n og forskudd til eiere og styr...'
 slug: 1370-fordringer-pa-eiere-og-styremedlemmer
@@ -84,3 +84,4 @@ Kredit: Konto 1920 - Bankinnskudd                            500â€¯000
 * [Hva er Kundefordring?](/blogs/regnskap/hva-er-kundefordring "Hva er Kundefordring? Komplett Guide til Kundefordring")
 * [Hva er Tapsavsetning?](/blogs/regnskap/tap-pa-fordring "Hva er Tapsavsetning? Behandling av fordringer")
 * [Hva er Langsiktig gjeld?](/blogs/regnskap/langsiktig-gjeld "Langsiktig gjeld")
+

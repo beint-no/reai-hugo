@@ -578,3 +578,6 @@ Digitalisering og automatisering vil fortsette Ã¥ forenkle administrasjon av u
 Korrekt hÃ¥ndtering av skatt pÃ¥ ufÃ¸retrygd bidrar ikke bare til regelverksetterlevelse, men ogsÃ¥ til sosial inkludering og [bÃ¦rekraftig](/blogs/regnskap/hva-er-barekraft "Hva er BÃ¦rekraft? ESG og BÃ¦rekraftig RegnskapsfÃ¸ring") virksomhetsdrift. Ved Ã¥ forstÃ¥ og anvende reglene proaktivt kan bÃ¥de privatpersoner og organisasjoner optimalisere bÃ¥de Ã¸konomiske og sosiale utfall.
 
 
+
+
+

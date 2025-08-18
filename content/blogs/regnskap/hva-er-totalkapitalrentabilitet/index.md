@@ -77,3 +77,4 @@ Les mer om [Hva er Egenkapitalrentabilitet?](/blogs/regnskap/hva-er-egenkapitalr
 **Totalkapitalrentabilitet** er et kraftfullt nÃ¸kkeltall for Ã¥ vurdere lÃ¸nnsomheten i bedriftens totale kapitalbruk. Ved Ã¥ forstÃ¥ formel, beregning og begrensninger kan du treffe mer informerte beslutninger innen Ã¸konomistyring og investering.
 
 
+

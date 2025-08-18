@@ -67,3 +67,7 @@ Bonitet er en kjerneindikator for finansiell helse og kredittrisiko. Ved Ã¥ fo
 
 
 
+
+
+
+

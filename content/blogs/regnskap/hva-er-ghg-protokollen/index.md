@@ -270,3 +270,7 @@ GHG-protokollen representerer et paradigmeskifte i hvordan bedrifter mÃ¥ler og
 Implementering av GHG-protokollen krever samme grad av systematikk og nÃ¸yaktighet som tradisjonell [regnskapsfÃ¸ring](/blogs/regnskap/hva-er-bokforing "Hva er BokfÃ¸ring? Komplett Guide til RegnskapsfÃ¸ring og BokfÃ¸ringsregler"), men Ã¥pner samtidig for nye muligheter til Ã¥ skape verdi gjennom bÃ¦rekraftig forretningsutvikling.
 
 
+
+
+
+

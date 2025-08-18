@@ -1,5 +1,5 @@
 ﻿---
-title: "8940-aksjonaerbidrag"
+title: "Konto 8940 - AksjonÃ¦rbidrag"
 meta_title: "8940-aksjonaerbidrag"
 meta_description: '**Konto 8940 - AksjonÃ¦rbidrag** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **aksjonÃ¦rbidrag** mellom selskap og aksjonÃ¦r.'
 slug: 8940-aksjonaerbidrag
@@ -55,3 +55,4 @@ Kredit: Konto 8940 - AksjonÃ¦rbidrag 250Â 000Â kr
 * [Hva er Konsernbidrag?](/blogs/regnskap/hva-er-konsernbidrag "Hva er Konsernbidrag? Komplett Guide til Konsernbidrag i Norge")
 * [Hva er en AksjonÃ¦r?](/blogs/regnskap/hva-er-en-aksjonaer "Hva er en AksjonÃ¦r? En Komplett Guide til rollen som aksjonÃ¦r i et norsk aksjeselskap")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

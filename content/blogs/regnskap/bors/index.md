@@ -60,3 +60,7 @@ BÃ¸rsen er en kritisk del av det finansielle systemet i Norge, som muliggjÃ¸
 
 
 
+
+
+
+

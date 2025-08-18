@@ -52,3 +52,7 @@ Inngangsverdi er kritisk ved beregning av **kapitalgevinst** og **kapitaltap**. 
 Denne gjennomgangen av inngangsverdi gir et entydig bilde av hvordan kostprisen fastsettes og brukes i bÃ¥de regnskaps- og skattesammenheng.
 
 
+
+
+
+

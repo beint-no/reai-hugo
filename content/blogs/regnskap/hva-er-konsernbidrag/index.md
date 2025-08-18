@@ -267,3 +267,7 @@ For [aksjeselskaper](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjesels
 Ved riktig anvendelse kan konsernbidragsordningen gi betydelige **skattebesparelser** og forbedret **likviditetsstyring** for hele konsernet. Det er derfor viktig Ã¥ ha god forstÃ¥else av reglene og sÃ¸ke profesjonell bistand ved implementering.
 
 
+
+
+
+

@@ -1,5 +1,5 @@
 ﻿---
-title: "8050-annen-renteinntekt"
+title: "Hva er Konto 8050 - Annen renteinntekt?"
 meta_title: "8050-annen-renteinntekt"
 meta_description: '**Konto 8050 - Annen renteinntekt** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **renteinntekter** fra eksterne finansielle instrumenter...'
 slug: 8050-annen-renteinntekt
@@ -53,3 +53,4 @@ Se ogsÃ¥ [Hva er Periodisering i Regnskap?](/blogs/regnskap/hva-er-periodiseri
 * [Hva er Periodisering i Regnskap?](/blogs/regnskap/hva-er-periodisering "Hva er Periodisering i Regnskap? Guide til periodisering av kostnader og inntekter")
 * [Konto 8060 - Valutagevinst (Agio)](/blogs/kontoplan/8060-valutagevinst-agio "Konto 8060 - Valutagevinst (Agio): Guide til valutagevinst i norsk regnskap")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

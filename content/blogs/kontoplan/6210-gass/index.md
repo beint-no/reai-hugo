@@ -1,5 +1,5 @@
 ﻿---
-title: "6210-gass"
+title: "Konto 6210 - Gass"
 meta_title: "6210-gass"
 meta_description: '**Konto 6210 - Gass** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **gasskostnader** i virksomhetens drift.'
 slug: 6210-gass
@@ -55,3 +55,4 @@ Andre kontoer i NSÂ 4102 som ofte brukes sammen med konto 6210:
 * [Konto 6300 - Leie lokaler](/blogs/kontoplan/6300-leie-lokaler "Konto 6300 - Leie lokaler")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 * [Hva er en Faktura?](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav")
+

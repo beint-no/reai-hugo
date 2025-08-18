@@ -451,3 +451,7 @@ For selskaper som vurderer **permanent etablering** eller har **omfattende norsk
 Uansett valg av etableringsform er det essensielt Ã¥ fÃ¸lge norske krav til [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide"), [bokfÃ¸ring](/blogs/regnskap/hva-er-bokforing "Hva er BokfÃ¸ring? Komplett Guide til BokfÃ¸ringsprinsipper") og rapportering for Ã¥ sikre lovlig og vellykket drift i Norge.
 
 
+
+
+
+

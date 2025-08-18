@@ -1,5 +1,5 @@
 ﻿---
-title: "7710-generalforsamling"
+title: "Konto 7710 - Generalforsamling"
 meta_title: "7710-generalforsamling"
 meta_description: '**Konto 7710 - Generalforsamling** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til Ã¥ registrere **kostnader ved generalforsamling**, inklu...'
 slug: 7710-generalforsamling
@@ -54,3 +54,4 @@ layout: pages/single
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 
 **Konto 7710 - Generalforsamling** sÃ¸rger for oversikt over kostnader for Ã¥rsmÃ¸tet, sikre korrekt bokfÃ¸ring og beslutningsgrunnlag for selskapet.
+

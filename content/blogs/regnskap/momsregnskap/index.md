@@ -314,3 +314,7 @@ Kontakt [regnskapsfÃ¸rer](/blogs/regnskap/hva-er-en-regnskapsforer "Hva er en 
 Momsregnskap er en kritisk del av enhver bedrifts Ã¸konomistyring. Med riktige rutiner, systemer og kompetanse kan bedrifter sikre korrekt hÃ¥ndtering av MVA og unngÃ¥ kostbare feil og sanksjoner.
 
 
+
+
+
+

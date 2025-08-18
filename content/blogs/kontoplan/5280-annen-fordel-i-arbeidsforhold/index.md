@@ -1,5 +1,5 @@
 ﻿---
-title: "5280-annen-fordel-i-arbeidsforhold"
+title: "Konto 5280 - Annen fordel i arbeidsforhold"
 meta_title: "5280-annen-fordel-i-arbeidsforhold"
 meta_description: '**Konto 5280 - Annen fordel i arbeidsforhold** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til Ã¥ registrere **Ã¸vrige fordeler** som **ans...'
 slug: 5280-annen-fordel-i-arbeidsforhold
@@ -72,3 +72,4 @@ En ansatt fÃ¥r en personalrabatt pÃ¥ 2â€¯000Â NOK:
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 
 **Konto 5280 - Annen fordel i arbeidsforhold** gjÃ¸r det enkelt Ã¥ synliggjÃ¸re andre **ansattfordeler** i regnskapet.
+

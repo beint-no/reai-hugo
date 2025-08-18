@@ -89,3 +89,6 @@ Forskjellen avhenger av om midlertidige forskjeller er *skattefrie* eller *skatt
 * [Hva er en faktura?](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav")
 
 
+
+
+

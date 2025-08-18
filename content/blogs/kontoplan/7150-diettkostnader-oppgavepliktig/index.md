@@ -1,5 +1,5 @@
 ﻿---
-title: "7150-diettkostnader-oppgavepliktig"
+title: "Konto 7150 - Diettkostnader, oppgavepliktig"
 meta_title: "7150-diettkostnader-oppgavepliktig"
 meta_description: '**Konto 7150 - Diettkostnader, oppgavepliktig** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til Ã¥ registrere **oppgavepliktige diettkostna...'
 slug: 7150-diettkostnader-oppgavepliktig
@@ -68,3 +68,4 @@ Kredit: Konto 2400 - LeverandÃ¸rgjeld     5Â 000Â NOK
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 
 **Konto 7150 - Diettkostnader, oppgavepliktig** hjelper deg Ã¥ synliggjÃ¸re **kostnader til diett og smÃ¥forpleining** som et oppgavepliktig ansattgode i regnskapet.
+

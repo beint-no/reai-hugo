@@ -298,3 +298,7 @@ Den digitale utviklingen skaper nye muligheter for mer effektiv og kundevennlig 
 For bedrifter er det viktig Ã¥ ha en helhetlig tilnÃ¦rming til [fordringshÃ¥ndtering](/blogs/regnskap/hva-er-ansattreskontro "Hva er Ansattreskontro? Komplett Guide til KundeoppfÃ¸lging og Fordringsstyring") som balanserer behovet for innkreving med opprettholdelse av gode kundeforhold. Korrekt regnskapsfÃ¸ring og systematisk oppfÃ¸lging av inkassoaktiviteter er avgjÃ¸rende for Ã¥ opprettholde [likviditet](/blogs/regnskap/hva-er-betalingsevne "Hva er Betalingsevne? Analyse av Likviditet og Finansiell Stabilitet") og finansiell stabilitet.
 
 
+
+
+
+

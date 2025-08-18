@@ -1,5 +1,5 @@
 ﻿---
-title: "4370-innkjopsprisreduksjon"
+title: "Konto 4370 - InnkjÃ¸psprisreduksjon"
 meta_title: "4370-innkjopsprisreduksjon"
 meta_description: '**Konto 4370 - InnkjÃ¸psprisreduksjon** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **prisavslag** fra leverandÃ¸rer pÃ¥ kjÃ¸p av varer ...'
 slug: 4370-innkjopsprisreduksjon
@@ -49,3 +49,4 @@ layout: pages/single
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 
 **Korrekt bokfÃ¸ring** av prisavslag ved kjÃ¸p av varer for videresalg sikrer riktig kostnads- og lagerhÃ¥ndtering i regnskapet.
+

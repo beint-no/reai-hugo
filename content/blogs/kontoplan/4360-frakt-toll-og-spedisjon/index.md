@@ -1,5 +1,5 @@
 ﻿---
-title: "4360-frakt-toll-og-spedisjon"
+title: "Konto 4360 - Frakt, toll og spedisjon"
 meta_title: "4360-frakt-toll-og-spedisjon"
 meta_description: '**Konto 4360 - Frakt, toll og spedisjon** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **frakt, toll og spedisjon** knyttet til kjÃ¸p av ...'
 slug: 4360-frakt-toll-og-spedisjon
@@ -57,3 +57,4 @@ layout: pages/single
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 
 **Korrekt bokfÃ¸ring** av frakt-, toll- og spedisjonskostnader ved kjÃ¸p av varer for videresalg sikrer nÃ¸yaktig regnskap og riktig lagerverdi.
+

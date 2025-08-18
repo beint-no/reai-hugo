@@ -274,3 +274,7 @@ Egenfinansiering er en fundamental del av bedriftens kapitalstruktur som krever 
 
 
 
+
+
+
+

@@ -1,5 +1,5 @@
 ﻿---
-title: "KontantkjÃ¸p “ Komplett Guide til RegnskapsfÃ¸ring av KontantkjÃ¸p"
+title: "KontantkjÃ¸p â€“ Komplett Guide til RegnskapsfÃ¸ring av KontantkjÃ¸p"
 meta_title: "KontantkjÃ¸p “ Komplett Guide til RegnskapsfÃ¸ring av KontantkjÃ¸p"
 meta_description: '**KontantkjÃ¸p** er direkte betaling med **kontanter** for varer eller tjenester som skjer umiddelbart ved transaksjonen. Dette skiller seg fra kredittkjÃ¸p, hv...'
 slug: kontantkjop
@@ -97,5 +97,9 @@ KontantkjÃ¸p pÃ¥virker en rekke andre nÃ¸kkelomrÃ¥der i regnskapet:
 ## Avslutning
 
 KontantkjÃ¸p er en enkel, men viktig transaksjonstype som krever bevissthet om dokumentasjonskrav og internkontroll. Ved Ã¥ fÃ¸lge de rette rutinene sikrer virksomheten nÃ¸yaktig regnskapsfÃ¸ring og god likviditetsstyring.
+
+
+
+
 
 

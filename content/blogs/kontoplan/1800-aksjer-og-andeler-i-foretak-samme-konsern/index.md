@@ -1,5 +1,5 @@
 ﻿---
-title: "1800-aksjer-og-andeler-i-foretak-samme-konsern"
+title: "Konto 1800 - Aksjer og andeler i foretak samme konsern"
 meta_title: "1800-aksjer-og-andeler-i-foretak-samme-konsern"
 meta_description: '**Konto 1800 - Aksjer og andeler i foretak samme konsern** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **aksjer og andeler** i andre for...'
 slug: 1800-aksjer-og-andeler-i-foretak-samme-konsern
@@ -49,3 +49,4 @@ Kredit: Konto 1920 - Bankinnskudd                                XXX kroner
 * [Konto 1330 - Investeringer i tilknyttede selskap](/blogs/kontoplan/1330-investeringer-i-tilknyttede-selskap "Konto 1330 - Investeringer i tilknyttede selskap")
 * [Hva er Konsern?](/blogs/regnskap/hva-er-konsern "Hva er Konsern?")
 * [Hva er Anleggsmidler?](/blogs/regnskap/hva-er-anleggsmidler "Hva er Anleggsmidler?")
+

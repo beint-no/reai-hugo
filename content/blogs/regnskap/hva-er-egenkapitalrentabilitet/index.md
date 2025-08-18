@@ -385,3 +385,7 @@ ROE er ogsÃ¥ en sentral komponent i [inntjeningsbasert verdivurdering](/blogs/
 
 
 
+
+
+
+

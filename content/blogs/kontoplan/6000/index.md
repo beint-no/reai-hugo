@@ -1,5 +1,5 @@
 ﻿---
-title: "6000"
+title: "Hva er Konto 6000 - Avskrivning pÃ¥ bygninger og annen fast eiendom?"
 meta_title: "6000"
 meta_description: '**Konto 6000 - Avskrivning pÃ¥ bygninger og annen fast eiendom** er en konto i norsk kontoplan som benyttes for Ã¥ fordele **anskaffelseskostnaden** til bygning...'
 slug: 6000
@@ -63,3 +63,4 @@ Ved salg eller utrangering av eiendommen fÃ¸lges samme prinsipper som for [Kon
 * [Hva er Anskaffelseskost?](/blogs/regnskap/hva-er-anskaffelseskost "Hva er Anskaffelseskost?")
 * [Konto 6010 - Avskrivning pÃ¥ transportmidler, maskiner og inventar](/blogs/kontoplan/6010-avskrivning-pa-transportmidler-mask-og-invent "Konto 6010 - Avskrivning pÃ¥ transportmidler, maskiner og inventar")
 * [Konto 6050 - Nedskrivning av varige driftsmidler](/blogs/kontoplan/6050-nedskrivning-av-varige-driftsmidler "Konto 6050 - Nedskrivning av varige driftsmidler")
+

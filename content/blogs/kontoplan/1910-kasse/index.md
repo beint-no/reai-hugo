@@ -1,5 +1,5 @@
 ﻿---
-title: "1910-kasse"
+title: "Konto 1910 - Kasse"
 meta_title: "1910-kasse"
 meta_description: '**Konto 1910 - Kasse** er en konto i norsk standard kontoplan som brukes til Ã¥ registrere virksomhetens **kassebeholdning**, det vil si de kontante midlene som...'
 slug: 1910-kasse
@@ -73,3 +73,4 @@ For Ã¥ sikre korrekt registrering og hindre misbruk av kassebeholdningen bÃ¸
 * [Hva er Anleggsmidler?](/blogs/regnskap/hva-er-anleggsmidler "Hva er Anleggsmidler?")
 * [Hva er Balanse?](/blogs/regnskap/hva-er-balanse "Hva er Balanse?")
 * [Hva er Bankinnskudd?](/blogs/regnskap/hva-er-bankinnskudd "Bankinnskudd i Regnskap - Typer, RegnskapsfÃ¸ring og RentehÃ¥ndtering")
+

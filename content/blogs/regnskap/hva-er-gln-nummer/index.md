@@ -59,3 +59,7 @@ Ved Ã¥ implementere **GLN-nummer** oppnÃ¥r norske bedrifter:
 * **Standardisering** pÃ¥ tvers av landegrenser
 
 
+
+
+
+

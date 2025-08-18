@@ -59,3 +59,7 @@ I regnskap fÃ¸res pÃ¥lydende verdi av aksjer under egenkapital, og eventuell
 - Viktig for regnskapsfÃ¸ring, kapitalstruktur og investoranalyse.
 
 
+
+
+
+

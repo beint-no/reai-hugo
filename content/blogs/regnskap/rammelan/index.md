@@ -69,3 +69,7 @@ Diagrammet under viser et eksempel pÃ¥ utnyttet andel av kredittrammen:
 For mer informasjon om finansiering, se ogsÃ¥ [kapitalkostnad](/blogs/regnskap/kapitalkostnad "Kapitalkostnad - Beregning og implikasjoner for bedrifter").
 
 
+
+
+
+

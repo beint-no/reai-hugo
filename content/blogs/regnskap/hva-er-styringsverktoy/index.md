@@ -282,3 +282,7 @@ Suksess med styringsverktÃ¸y krever en helhetlig tilnÃ¦rming som kombinerer 
 I fremtiden vil styringsverktÃ¸y bli enda mer sofistikerte og tilgjengelige, med kunstig intelligens og automatisering som driver innovasjon. Virksomheter som investerer i moderne styringsverktÃ¸y og bygger kompetanse rundt deres bruk, vil vÃ¦re best posisjonert for fremtidig suksess.
 
 
+
+
+
+

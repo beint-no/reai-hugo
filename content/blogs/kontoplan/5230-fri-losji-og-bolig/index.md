@@ -1,5 +1,5 @@
 ﻿---
-title: "5230-fri-losji-og-bolig"
+title: "Konto 5230 - Fri losji og bolig"
 meta_title: "5230-fri-losji-og-bolig"
 meta_description: '**Konto 5230 - Fri losji og bolig** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til Ã¥ registrere **verdi av fri losji og bolig** som **ans...'
 slug: 5230-fri-losji-og-bolig
@@ -73,3 +73,4 @@ En ansatt mottar fri losji med estimert markedsleie pÃ¥ 8â€¯000Â NOK per
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 
 **Konto 5230 - Fri losji og bolig** bidrar til Ã¥ synliggjÃ¸re verdien av fri losji og bolig som et **ansattgode** i regnskapet.
+

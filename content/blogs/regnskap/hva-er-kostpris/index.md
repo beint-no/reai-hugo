@@ -401,3 +401,7 @@ Moderne virksomheter mÃ¥ mestre bÃ¥de tradisjonelle kostprisprinsipper og ny
 Effektiv kostprisstyring krever kontinuerlig oppmerksomhet pÃ¥ kostnadsdrivere, regelmessig analyse av lÃ¸nnsomhet og proaktiv tilpasning til endringer i marked og teknologi.
 
 
+
+
+
+

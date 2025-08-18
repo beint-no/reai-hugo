@@ -325,3 +325,4 @@ Ved Ã¥ ha god kontroll pÃ¥ overskuddet kan virksomheter ta **informerte besl
 Overskudd er ikke bare et tall i regnskapet - det er et **strategisk verktÃ¸y** som kan drive virksomheten fremover og skape verdi for alle interessenter.
 
 
+

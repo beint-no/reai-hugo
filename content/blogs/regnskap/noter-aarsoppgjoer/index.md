@@ -283,3 +283,7 @@ I en tid med Ã¸kende krav til transparens og bÃ¦rekraftsrapportering vil not
 Gjennom systematisk tilnÃ¦rming, fokus pÃ¥ vesentlighet og kontinuerlig forbedring kan noter til Ã¥rsoppgjÃ¸ret transformeres fra en byrdefull compliance-oppgave til et strategisk verktÃ¸y for Ã¥ bygge tillit og stÃ¸tte selskapets langsiktige verdiskaping.
 
 
+
+
+
+

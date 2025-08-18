@@ -316,3 +316,7 @@ Egenkapital er et fundamentalt begrep som pÃ¥virker alle aspekter av bedriftsd
 
 
 
+
+
+
+

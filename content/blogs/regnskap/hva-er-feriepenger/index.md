@@ -318,3 +318,7 @@ Ved Ã¥ fÃ¸lge etablerte prosedyrer og bruke moderne digitale verktÃ¸y kan 
 For mer informasjon om relaterte emner, se vÃ¥re artikler om [lÃ¸nnskostnader](/blogs/regnskap/hva-er-driftskostnader "Hva er Driftskostnader? Typer, Beregning og Optimalisering"), [arbeidsgiveravgift](/blogs/regnskap/hva-er-arbeidsgiveravgift "Hva er Arbeidsgiveravgift? Satser, Beregning og RegnskapsfÃ¸ring"), [A-ordningen](/blogs/regnskap/hva-er-a-ordningen "Hva er A-ordningen? Rapportering, Frister og Praktisk HÃ¥ndtering") og [halv skatt](/blogs/regnskap/halv-skatt "Halv skatt “ Alt du trenger Ã¥ vite om halv skatt i lÃ¸nn").
 
 
+
+
+
+

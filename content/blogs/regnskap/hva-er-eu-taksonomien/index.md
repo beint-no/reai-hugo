@@ -323,3 +323,7 @@ EU-taksonomien er ikke bare et **rapporteringskrav**, men et **strategisk verkt�
 Sammen med [CSRD-rapportering](/blogs/regnskap/hva-er-csrd "CSRD - Corporate Sustainability Reporting Directive") og andre bÃ¦rekraftskrav, former EU-taksonomien fremtidens **regnskaps- og rapporteringslandskap** for norske bedrifter.
 
 
+
+
+
+

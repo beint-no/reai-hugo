@@ -64,3 +64,7 @@ God struktur pÃ¥ regnskapskontoer bidrar til effektiv bokfÃ¸ring og rapporte
 En velstrukturert **regnskapskonto** er fundamentet for korrekt bokfÃ¸ring og pÃ¥litelig regnskapsrapportering. Ved Ã¥ forstÃ¥ nummerering, hierarki og sammenhengen med kontoplan og kontoklasser, kan virksomheter sikre god oversikt, effektiv prosess og overholdelse av norske regnskapsregler.
 
 
+
+
+
+

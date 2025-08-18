@@ -1,5 +1,5 @@
 ﻿---
-title: "6700-revisjons-og-regnskapshonorarer"
+title: "Konto 6700 - Revisjons- og regnskapshonorarer"
 meta_title: "6700-revisjons-og-regnskapshonorarer"
 meta_description: '**Konto 6700 - Revisjons- og regnskapshonorarer** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kostnader til revisjonshonorarer og regn...'
 slug: 6700-revisjons-og-regnskapshonorarer
@@ -46,3 +46,4 @@ Konto 6700 benyttes i situasjoner som:
 * [Konto 6720 - Honorarer for Ã¸konomisk og juridisk bistand](/blogs/kontoplan/6720-honorarer-for-okonomisk-og-juridisk-bistand "Konto 6720 - Honorarer for Ã¸konomisk og juridisk bistand")
 * [Konto 6790 - Annen fremmed tjeneste](/blogs/kontoplan/6790-annen-fremmed-tjeneste "Konto 6790 - Annen fremmed tjeneste")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

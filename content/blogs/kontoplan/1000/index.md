@@ -1,5 +1,5 @@
 ﻿---
-title: "1000"
+title: "Hva er Konto 1000 - Forskning og utvikling?"
 meta_title: "1000"
 meta_description: '**Konto 1000 - Forskning og utvikling** er en av de viktigste kontiene for virksomheter som investerer i innovasjon og utvikling av nye produkter, tjenester ell...'
 slug: 1000
@@ -177,3 +177,4 @@ Under **IFRS** reguleres FoU-kostnader av IAS 38 "Immaterielle eiendeler". Hoved
 * [Hva er Goodwill?](/blogs/regnskap/hva-er-goodwill "Hva er Goodwill?")
 * [Hva er Balanse?](/blogs/regnskap/hva-er-balanse "Hva er Balanse?")
 * [Hva er Anskaffelseskost?](/blogs/regnskap/hva-er-anskaffelseskost "Hva er Anskaffelseskost?")
+

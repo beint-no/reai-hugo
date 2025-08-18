@@ -496,3 +496,7 @@ Ved Ã¥ implementere disse prinsippene kan bedrifter oppnÃ¥ bedre likviditet,
 Husk at kontantstrÃ¸m er **livsnerven** i enhver bedrift - uten tilstrekkelig kontantstrÃ¸m kan selv lÃ¸nnsomme bedrifter gÃ¥ konkurs. Derfor bÃ¸r kontantstrÃ¸mstyring vÃ¦re en prioritet for alle bedriftsledere og regnskapsansvarlige.
 
 
+
+
+
+

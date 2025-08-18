@@ -474,3 +474,7 @@ Den digitale transformasjonen av tollsektoren skaper nye muligheter for effektiv
 For Ã¥ sikre korrekt hÃ¥ndtering av tollverdi bÃ¸r bedrifter implementere systematiske rutiner for [dokumenthÃ¥ndtering](/blogs/regnskap/hva-er-attestering "Hva er Attestering? En Komplett Guide til Bilagsbehandling og Godkjenning"), etablere klare ansvarslinjer og investere i bÃ¥de teknologiske lÃ¸sninger og kompetanse. Dette vil bidra til Ã¥ minimere risiko for feil, redusere administrative kostnader og sikre overholdelse av alle relevante regelverk.
 
 
+
+
+
+

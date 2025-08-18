@@ -317,3 +317,7 @@ FastlÃ¸nn er den mest utbredte lÃ¸nnsformen i Norge og gir **forutsigbarhet*
 For nasjonale bransjetall og lÃ¸nnsstatistikk, se ogsÃ¥ [GjennomsnittslÃ¸nn i Norge](/blogs/regnskap/gjennomsnittslonn-i-norge "GjennomsnittslÃ¸nn i Norge").
 
 
+
+
+
+

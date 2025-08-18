@@ -73,3 +73,7 @@ En aksjespleis er et verktÃ¸y selskaper kan bruke for Ã¥ justere aksjestrukt
 
 
 
+
+
+
+

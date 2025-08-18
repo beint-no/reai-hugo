@@ -1,5 +1,5 @@
 ﻿---
-title: "2280-stille-interessentinnskudd-og-ansvarlig-lanekapital"
+title: "Konto 2280 - Stille interessentinnskudd og ansvarlig lÃ¥nekapital"
 meta_title: "2280-stille-interessentinnskudd-og-ansvarlig-lanekapital"
 meta_description: '**Konto 2280 - Stille interessentinnskudd og ansvarlig lÃ¥nekapital** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til Ã¥ registrere **stille in...'
 slug: 2280-stille-interessentinnskudd-og-ansvarlig-lanekapital
@@ -54,3 +54,4 @@ Andre kontoer i NSÂ 4102 som ofte benyttes sammen med konto 2280:
 * [Konto 2020 - Overkursfond](/blogs/kontoplan/2020-overkursfond "Konto 2020 - Overkursfond i Norsk Standard Kontoplan")
 * [Hva er egenkapital?](/blogs/regnskap/hva-er-egenkapital "Hva er Egenkapital? Komplett Guide til Egenkapital i Regnskap")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

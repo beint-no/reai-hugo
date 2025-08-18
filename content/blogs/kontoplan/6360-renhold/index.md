@@ -1,5 +1,5 @@
 ﻿---
-title: "6360-renhold"
+title: "Konto 6360 - Renhold"
 meta_title: "6360-renhold"
 meta_description: '**Konto 6360 - Renhold** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes for Ã¥ registrere **kostnader til renhold og rengjÃ¸ring** i virksomhetens...'
 slug: 6360-renhold
@@ -65,3 +65,4 @@ Andre kontoer i NSÂ 4102 som ofte brukes sammen med kontoÂ 6360:
 * [KontoÂ 6320 â€“ Renovasjon, vann, avlÃ¸p mv.](/blogs/kontoplan/6320-renovasjon-vann-avlop-mv "KontoÂ 6320 â€“ Renovasjon, vann, avlÃ¸p mv.")
 * [KontoÂ 6340 â€“ Lys, varme](/blogs/kontoplan/6340-lys-varme "KontoÂ 6340 â€“ Lys, varme")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

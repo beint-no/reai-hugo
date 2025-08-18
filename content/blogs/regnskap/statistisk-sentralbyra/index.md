@@ -58,3 +58,6 @@ SSBs data er viktige i flere faser av regnskapsfÃ¸rsel og Ã¸konomisk rapport
 * [Hva er regnskap?](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Dybdeanalyse for Norge")
 
 
+
+
+

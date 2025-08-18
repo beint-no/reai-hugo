@@ -90,3 +90,7 @@ Oppjustert utbytte skattlegges etter samme regler som ordinÃ¦rt og ekstraordin
 Oppjustering av aksjeutbytte sikrer at selskapet har korrekt **egenkapital** i henhold til aksjelovens krav og at aksjonÃ¦rene mottar riktig belÃ¸p. Ved Ã¥ fÃ¸lge juridiske krav, beregningsmetoder og dokumentasjonsrutiner kan selskapet gjennomfÃ¸re en **lovlig** og **transparent** oppjustering.
 
 
+
+
+
+

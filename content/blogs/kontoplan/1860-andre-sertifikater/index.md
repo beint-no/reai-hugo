@@ -1,5 +1,5 @@
 ﻿---
-title: "1860-andre-sertifikater"
+title: "Konto 1860 - Andre sertifikater"
 meta_title: "1860-andre-sertifikater"
 meta_description: '**Konto 1860 - Andre sertifikater** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **sertifikater og kortsiktige rentebÃ¦rende verdipapirer...'
 slug: 1860-andre-sertifikater
@@ -75,3 +75,4 @@ Kredit: Konto 1920 - Bankinnskudd                 200â€¯000 kr
 * [Hva er virkelig verdi?](/blogs/regnskap/hva-er-virkelig-verdi "Hva er Virkelig Verdi? Verdsettelse og RegnskapsfÃ¸ring")
 * [Hva er Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 * [Konto 2320 - SertifikatlÃ¥n](/blogs/kontoplan/2320-sertifikatlan "Konto 2320 - SertifikatlÃ¥n i Norsk Standard Kontoplan")
+

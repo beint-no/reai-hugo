@@ -291,3 +291,7 @@ A: Nei, frikort gjelder kun for [arbeidsinntekt](/blogs/regnskap/hva-er-fastlonn
 Frikortordningen gjÃ¸r det enklere for personer med lav inntekt Ã¥ delta i arbeidslivet uten Ã¥ bekymre seg for skattetrekk pÃ¥ grunnleggende inntekt. Ved Ã¥ forstÃ¥ reglene og bruke ordningen riktig, kan du optimalisere din [Ã¸konomiske situasjon](/blogs/regnskap/hva-er-finansregnskap "Finansregnskap - Grunnleggende Prinsipper og Rapportering") og sikre korrekt skattebehandling.
 
 
+
+
+
+

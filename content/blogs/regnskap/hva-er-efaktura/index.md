@@ -329,3 +329,7 @@ Fremtidige utviklinger innen AI, blockchain og automatisering vil ytterligere st
 
 
 
+
+
+
+

@@ -1,5 +1,5 @@
 ﻿---
-title: "2800-avsatt-utbytte"
+title: "Konto 2800 - Avsatt utbytte"
 meta_title: "2800-avsatt-utbytte"
 meta_description: '**Konto 2800 - Avsatt utbytte** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til Ã¥ registrere **avsetning av utbytte** vedtatt av generalforsam...'
 slug: 2800-avsatt-utbytte
@@ -49,3 +49,4 @@ Kredit: Konto 1920 - Bankinnskudd
 * [Hva er utbytte?](/blogs/regnskap/hva-er-utbytte "Hva er Utbytte? RegnskapsfÃ¸ring og Skattemessige Konsekvenser")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 * [Konto 8920 - Avsatt utbytte/renter grunnfondsbevis](/blogs/kontoplan/8920-avsatt-utbytte-renter-grunnfondsbevis "Konto 8920 - Avsatt utbytte/renter grunnfondsbevis: Avsetning av utbytte og renter pÃ¥ grunnfondsbevis som kortsiktig gjeld")
+

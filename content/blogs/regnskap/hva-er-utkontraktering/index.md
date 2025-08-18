@@ -504,3 +504,7 @@ Utkontraktering vil fortsette Ã¥ utvikle seg med **teknologiske fremskritt** o
 Den viktigste faktoren for suksess er Ã¥ **matche utkontraktingsstrategien** med virksomhetens overordnede mÃ¥l og sikre at leverandÃ¸rforholdet bygger pÃ¥ gjensidig tillit og forstÃ¥else.
 
 
+
+
+
+

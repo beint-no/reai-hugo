@@ -1,5 +1,5 @@
 ﻿---
-title: "7140-reisekostnad-ikke-oppgavepliktig"
+title: "Hva er Konto 7140 - Reisekostnad, ikke oppgavepliktig?"
 meta_title: "7140-reisekostnad-ikke-oppgavepliktig"
 meta_description: '**Konto 7140 - Reisekostnad, ikke oppgavepliktig** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til Ã¥ registrere **reisekostnader som ikke ...'
 slug: 7140-reisekostnad-ikke-oppgavepliktig
@@ -42,3 +42,4 @@ Ved bokfÃ¸ring av ikke oppgavepliktige reisekostnader pÃ¥ **Konto 7140** bÃ
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 
 **Konto 7140 - Reisekostnad, ikke oppgavepliktig** hjelper deg Ã¥ skille ut skattefrie reisekostnader i regnskapet.
+

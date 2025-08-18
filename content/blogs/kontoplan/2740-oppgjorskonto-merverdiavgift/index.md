@@ -1,5 +1,5 @@
 ﻿---
-title: "2740-oppgjorskonto-merverdiavgift"
+title: "Konto 2740 - OppgjÃ¸rskonto merverdiavgift"
 meta_title: "2740-oppgjorskonto-merverdiavgift"
 meta_description: '**Konto 2740 - OppgjÃ¸rskonto merverdiavgift** er en konto i **Norsk Standard Kontoplan** som brukes til Ã¥ avstemme og oppgjÃ¸re **merverdiavgift (MVA)** mello...'
 slug: 2740-oppgjorskonto-merverdiavgift
@@ -60,3 +60,4 @@ Netto merverdiavgift overfÃ¸res til oppgjÃ¸rskonto:
 * [Konto 2730 - Grunnlag investeringsavgift](/blogs/kontoplan/2730-grunnlag-investeringsavgift "Konto 2730 - Grunnlag investeringsavgift")
 * [Hva er MVA?](/blogs/regnskap/hva-er-moms-mva "Hva er MVA? MVA-regnskapsfÃ¸ring og merverdiavgift")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

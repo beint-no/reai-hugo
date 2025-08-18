@@ -86,3 +86,7 @@ BNP er en av de viktigste **konjunkturindikatorene** som viser om Ã¸konomien e
 
 
 
+
+
+
+

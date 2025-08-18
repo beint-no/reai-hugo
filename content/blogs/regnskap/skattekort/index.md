@@ -76,3 +76,6 @@ Arbeidsgiver rapporterer skattekortopplysninger i **A-meldingen** hver mÃ¥ned:
 NÃ¥ kan du enkelt forstÃ¥ hvordan **skattekort** fungerer, og sikre korrekt skattetrekk i dine lÃ¸nnsutbetalinger.
 
 
+
+
+

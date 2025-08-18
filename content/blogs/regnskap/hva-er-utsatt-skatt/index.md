@@ -73,3 +73,7 @@ Kredit 8800 Skattekostnad            22Â 000
 * [Hva er en faktura?](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav")
 
 
+
+
+
+

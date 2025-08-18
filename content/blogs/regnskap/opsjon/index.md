@@ -59,3 +59,7 @@ Den mest brukte modellen er Black“Scholes, som pÃ¥virkes av flere nÃ¸kkelf
 * [Hva er en Put-opsjon?](/blogs/regnskap/put-opsjon "Hva er en Put-opsjon? En Guide til salgsopsjoner i Regnskap")
 
 
+
+
+
+

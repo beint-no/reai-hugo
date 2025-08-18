@@ -1,5 +1,5 @@
 ﻿---
-title: "2960-palopte-kostnad-og-forskuddsbetalt-inntekt"
+title: "Konto 2960 - PÃ¥lÃ¸pt kostnad og forskuddsbetalt inntekt"
 meta_title: "2960-palopte-kostnad-og-forskuddsbetalt-inntekt"
 meta_description: '**Konto 2960 - PÃ¥lÃ¸pt kostnad og forskuddsbetalt inntekt** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **pÃ¥lÃ¸pte kostnader** for var...'
 slug: 2960-palopte-kostnad-og-forskuddsbetalt-inntekt
@@ -46,3 +46,4 @@ Andre kontoer i NSÂ 4102 som ofte benyttes sammen med konto 2960:
 * [Konto 2970 - Uopptjent inntekt](/blogs/kontoplan/2970-uopptjent-inntekt "Konto 2970 - Uopptjent inntekt: RegnskapsfÃ¸ring av uopptjent inntekt")
 * [Hva er Periodisering i Regnskap?](/blogs/regnskap/hva-er-periodisering "Hva er Periodisering i Regnskap? Komplett Guide til periodiseringsprinsippet")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

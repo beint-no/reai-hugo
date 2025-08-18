@@ -65,3 +65,7 @@ All internkontrollaktivitet skal dokumenteres skriftlig. Dette omfatter:
 Internkontrollforskriften er en sentral del av et virksomhets **kontrollsystem**. Ved Ã¥ fÃ¸lge kravene i forskriften, kan norske bedrifter sikre et trygt arbeidsmiljÃ¸, etterleve lovkrav og styrke tilliten til organisasjonens styringsprosesser.
 
 
+
+
+
+

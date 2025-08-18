@@ -1,5 +1,5 @@
 ﻿---
-title: "6010"
+title: "Konto 6010 - Avskrivning pÃ¥ transportmidler, maskiner og inventar"
 meta_title: "6010"
 meta_description: '**Konto 6010 - Avskrivning pÃ¥ transportmidler, maskiner og inventar** er en konto i norsk kontoplan som benyttes for Ã¥ fordele **anskaffelseskostnaden** til t...'
 slug: 6010
@@ -58,3 +58,4 @@ Kredit Konto 2800 - Kumulert avskrivning pÃ¥ transportmidler, maskiner og inve
 * [Hva er Anskaffelseskost?](/blogs/regnskap/hva-er-anskaffelseskost "Hva er Anskaffelseskost? Komplett Guide til Beregning og RegnskapsfÃ¸ring")
 * [Konto 1200 - Inventar og utstyr](/blogs/kontoplan/1200-inventar-og-utstyr "Konto 1200 - Inventar og utstyr")
 * [Konto 6050 - Nedskrivning av varige driftsmidler](/blogs/kontoplan/6050-nedskrivning-av-varige-driftsmidler "Konto 6050 - Nedskrivning av varige driftsmidler")
+

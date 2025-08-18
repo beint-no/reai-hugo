@@ -1,5 +1,5 @@
 ﻿---
-title: "1613-inngaaende-merverdiavgift-middels-sats"
+title: "Konto 1613 - InngÃ¥ende merverdiavgift middels sats"
 meta_title: "1613-inngaaende-merverdiavgift-middels-sats"
 meta_description: '**Konto 1613 - InngÃ¥ende merverdiavgift middels sats** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **inngÃ¥ende merverdiavgift med midd...'
 slug: 1613-inngaaende-merverdiavgift-middels-sats
@@ -63,3 +63,4 @@ For en oversikt over andre satser, se [Hva er MVA?](/blogs/regnskap/hva-er-moms-
 * [Konto 2713 - InngÃ¥ende merverdiavgift middels sats](/blogs/kontoplan/2713-inngaaende-merverdiavgift-middels-sats "Konto 2713 - InngÃ¥ende merverdiavgift middels sats")
 * [Hva er MVA?](/blogs/regnskap/hva-er-moms-mva "Hva er MVA? MVA-regnskapsfÃ¸ring og merverdiavgift")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

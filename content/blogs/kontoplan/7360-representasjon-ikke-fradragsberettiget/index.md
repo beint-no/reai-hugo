@@ -1,5 +1,5 @@
 ﻿---
-title: "7360-representasjon-ikke-fradragsberettiget"
+title: "Konto 7360 - Representasjon, ikke fradragsberettiget"
 meta_title: "7360-representasjon-ikke-fradragsberettiget"
 meta_description: '**Konto 7360 - Representasjon, ikke fradragsberettiget** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til Ã¥ registrere **representasjonskos...'
 slug: 7360-representasjon-ikke-fradragsberettiget
@@ -50,3 +50,4 @@ layout: pages/single
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 * [Konto 7400 - Kontingenter, fradragsberettiget](/blogs/kontoplan/7400-kontingenter-fradragsberettiget "Konto 7400 - Kontingenter, fradragsberettiget")
 * [Konto 7700 - Styre- og bedriftsforsamlingsmÃ¸ter](/blogs/kontoplan/7700-styre-og-bedriftsforsamlingsmoter "Konto 7700 - Styre- og bedriftsforsamlingsmÃ¸ter")
+

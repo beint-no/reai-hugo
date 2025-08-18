@@ -1,5 +1,5 @@
 ﻿---
-title: "2160-uopptjent-inntekt"
+title: "Konto 2160 - Uopptjent inntekt"
 meta_title: "2160-uopptjent-inntekt"
 meta_description: '**Konto 2160 - Uopptjent inntekt** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **forskuddsinntekter**, altsÃ¥ inntekter som er mottatt p...'
 slug: 2160-uopptjent-inntekt
@@ -50,3 +50,4 @@ Andre kontoer i NSÂ 4102 som ofte benyttes sammen med konto 2160:
 * [Konto 2970 - Uopptjent inntekt](/blogs/kontoplan/2970-uopptjent-inntekt "Konto 2970 - Uopptjent inntekt: RegnskapsfÃ¸ring av uopptjent inntekt")
 
 **Korrekt bruk** av konto 2160 sikrer at inntekter matches mot leveringstidspunktet og reflekterer selskapets forpliktelser til kunder.
+

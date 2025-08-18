@@ -63,3 +63,7 @@ Bunnlinje, eller nettoresultat, er en **nÃ¸kkelindikator** i norsk regnskap so
 
 
 
+
+
+
+

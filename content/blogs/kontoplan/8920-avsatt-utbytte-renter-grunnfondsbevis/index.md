@@ -1,5 +1,5 @@
 ﻿---
-title: "8920-avsatt-utbytte-renter-grunnfondsbevis"
+title: "Hva er Konto 8920 - Avsatt utbytte/renter grunnfondsbevis?"
 meta_title: "8920-avsatt-utbytte-renter-grunnfondsbevis"
 meta_description: '**Konto 8920 - Avsatt utbytte/renter grunnfondsbevis** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til Ã¥ registrere **avsetning av utbytte og ...'
 slug: 8920-avsatt-utbytte-renter-grunnfondsbevis
@@ -56,3 +56,4 @@ Kredit: Konto 1920 - Bankinnskudd
 * [Konto 8940 - AksjonÃ¦rbidrag](/blogs/kontoplan/8940-aksjonaerbidrag "Konto 8940 - AksjonÃ¦rbidrag: AksjonÃ¦rbidrag mellom selskap og aksjonÃ¦r")
 * [Konto 8950 - Fondsemisjon](/blogs/kontoplan/8950-fondsemisjon "Konto 8950 - Fondsemisjon: Fondsemisjon i Norsk Standard Kontoplan")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

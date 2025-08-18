@@ -1,5 +1,5 @@
 ﻿---
-title: "8910-overforingsfond-felleseid-kapital-samme-foretak"
+title: "Konto 8910 - OverfÃ¸ringsfond felleseid kapital samme foretak"
 meta_title: "8910-overforingsfond-felleseid-kapital-samme-foretak"
 meta_description: '**Konto 8910 - OverfÃ¸ringsfond felleseid kapital samme foretak** er en konto innen **reserver og overfÃ¸ringer** i Norsk Standard Kontoplan (NSÂ 4102) som bruk...'
 slug: 8910-overforingsfond-felleseid-kapital-samme-foretak
@@ -39,3 +39,4 @@ layout: pages/single
 * [Konto 8900 - OverfÃ¸ringsfond vurderingsforskjeller](/blogs/kontoplan/8900-overforingsfond-vurderingsforskjeller "Konto 8900 - OverfÃ¸ringsfond vurderingsforskjeller: OverfÃ¸ring av vurderingsreserver til resultatregnskapet")
 * [Konto 8930 - Konsernbidrag](/blogs/kontoplan/8930-konsernbidrag "Konto 8930 - Konsernbidrag: Konsernbidrag mellom selskaper i konsern")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

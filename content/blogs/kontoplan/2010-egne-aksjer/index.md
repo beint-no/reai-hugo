@@ -1,5 +1,5 @@
 ﻿---
-title: "2010-egne-aksjer"
+title: "Konto 2010 - Egne aksjer"
 meta_title: "2010-egne-aksjer"
 meta_description: '**Konto 2010 - Egne aksjer** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere selskapets **egne aksjer** (ogsÃ¥ kalt **treasury shares**) som...'
 slug: 2010-egne-aksjer
@@ -69,3 +69,4 @@ Det finnes klare regler i **aksjeloven** om kjÃ¸p og innehav av egne aksjer:
 * [Hva er egenkapital?](/blogs/regnskap/hva-er-egenkapital "Hva er Egenkapital? Komplett Guide til Egenkapital i Regnskap")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 * [Konto 7730 - Kostnader ved egne aksjer](/blogs/kontoplan/7730-kostnader-ved-egne-aksjer "Konto 7730 - Kostnader ved egne aksjer: Kostnader ved egne aksjer i Norsk Standard Kontoplan")
+

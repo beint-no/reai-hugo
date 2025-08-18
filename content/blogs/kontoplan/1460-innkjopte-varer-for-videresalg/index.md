@@ -1,5 +1,5 @@
 ﻿---
-title: "1460-innkjopte-varer-for-videresalg"
+title: "Konto 1460 - InnkjÃ¸pte varer for videresalg"
 meta_title: "1460-innkjopte-varer-for-videresalg"
 meta_description: '**Konto 1460 - InnkjÃ¸pte varer for videresalg** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **handelsvarer** og **varekjÃ¸p** som skal ...'
 slug: 1460-innkjopte-varer-for-videresalg
@@ -64,3 +64,4 @@ Andre kontoer i NS 4102 som ofte benyttes sammen med konto 1460:
 * [Konto 7910 - Ukurante varer](/blogs/kontoplan/7910-ukurante-varer "Konto 7910 - Ukurante varer")
 
 **Korrekt bokfÃ¸ring** av handelsvarer sikrer god kontroll over varelager og kostnader.
+

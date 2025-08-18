@@ -1,5 +1,5 @@
 ﻿---
-title: "8600-betalbar-skatt-ekstraordinart-resultat"
+title: "Konto 8600 - Betalbar skatt, ekstraordinÃ¦rt resultat"
 meta_title: "8600-betalbar-skatt-ekstraordinart-resultat"
 meta_description: '**Konto 8600 - Betalbar skatt, ekstraordinÃ¦rt resultat** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **betalbar skatt** knyttet til **e...'
 slug: 8600-betalbar-skatt-ekstraordinart-resultat
@@ -78,3 +78,4 @@ Avstem konto 8600 mot protokoll fra generalforsamling/styre og skattemeldingen f
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 
 **Konto 8600 - Betalbar skatt, ekstraordinÃ¦rt resultat** sikrer korrekt periodisering og presentasjon av skatt knyttet til ekstraordinÃ¦rt resultat i balansen.
+

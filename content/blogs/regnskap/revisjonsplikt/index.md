@@ -61,3 +61,6 @@ Visse virksomheter kan unntas eller velge forenklet revisjonsordning:
 * [Bokettersyn](/blogs/regnskap/bokettersyn "Hva er Bokettersyn?") “ Kontroll av bokfÃ¸ringsplikt og regnskapsmateriale.
 
 
+
+
+

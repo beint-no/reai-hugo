@@ -1,5 +1,5 @@
 ﻿---
-title: "3960-utgaende-porto-avgiftsfritt"
+title: "Konto 3960 - UtgÃ¥ende porto, avgiftsfritt"
 meta_title: "3960-utgaende-porto-avgiftsfritt"
 meta_description: '**Konto 3960 - UtgÃ¥ende porto, avgiftsfritt** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **portogebyrer** som faktureres kunder uten m...'
 slug: 3960-utgaende-porto-avgiftsfritt
@@ -49,3 +49,4 @@ layout: pages/single
 * [Konto 4160 - Frakt, toll og spedisjon](/blogs/kontoplan/4160-frakt-toll-og-spedisjon "Konto 4160 - Frakt, toll og spedisjon")
 * [Hva er Driftsinntekter?](/blogs/regnskap/hva-er-driftsinntekter "Hva er Driftsinntekter? Komplett Guide til Driftsinntekter i Regnskap")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

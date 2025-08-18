@@ -417,3 +417,7 @@ Ved Ã¥ etablere **robuste prosesser** for estimering, overvÃ¥king og justeri
 Utrangeringsverdi representerer sÃ¥ledes et **viktig bindingsledd** mellom strategisk planlegging, operasjonell drift og finansiell rapportering i moderne bedriftsstyring.
 
 
+
+
+
+

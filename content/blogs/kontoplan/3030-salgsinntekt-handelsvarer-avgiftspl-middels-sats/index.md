@@ -1,5 +1,5 @@
 ﻿---
-title: "3030-salgsinntekt-handelsvarer-avgiftspl-middels-sats"
+title: "Konto 3030 - Salgsinntekt handelsvarer avgiftspl. middels sats"
 meta_title: "3030-salgsinntekt-handelsvarer-avgiftspl-middels-sats"
 meta_description: '**Konto 3030 - Salgsinntekt handelsvarer avgiftspl. middels sats** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **salgsinntekter** fra **...'
 slug: 3030-salgsinntekt-handelsvarer-avgiftspl-middels-sats
@@ -49,3 +49,4 @@ Salgsinntekter rapporteres netto, det vil si eksklusive MVA, og skal fÃ¸res i 
 * [Hva er Driftsinntekter?](/blogs/regnskap/hva-er-driftsinntekter "Hva er Driftsinntekter? Komplett Guide til Driftsinntekter i Regnskap")
 * [Hva er Omsetning?](/blogs/regnskap/hva-er-omsetning "Hva er Omsetning? Komplett Guide til Omsetning i Regnskap og Skatt")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

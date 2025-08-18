@@ -90,3 +90,7 @@ Bruk av SWIFT-meldinger pÃ¥virker flere regnskapsprosesser:
 SWIFT er hjÃ¸rnesteinen i dagens internasjonale betalingssystem. For norske bedrifter er det avgjÃ¸rende Ã¥ mestre SWIFT for Ã¥ sikre effektive og korrekte internasjonale transaksjoner, samtidig som man ivaretar god regnskapsrapportering og kontrollrutiner.
 
 
+
+
+
+

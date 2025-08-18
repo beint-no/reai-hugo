@@ -1,5 +1,5 @@
 ﻿---
-title: "2210-obligasjonslan"
+title: "Konto 2210 - ObligasjonslÃ¥n"
 meta_title: "2210-obligasjonslan"
 meta_description: '**Konto 2210 - ObligasjonslÃ¥n** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til Ã¥ registrere **obligasjonslÃ¥n**, dvs. langsiktige gjeldsinst...'
 slug: 2210-obligasjonslan
@@ -67,3 +67,4 @@ Kredit: Konto 2210 - ObligasjonslÃ¥n             XXXâ€¯XXX kr
 * [Konto 2270 - Andre valutalÃ¥n](/blogs/kontoplan/2270-andre-valutalan "Konto 2270 - Andre valutalÃ¥n i Norsk Standard Kontoplan")
 * [Konto 8140 - Rentekostnad, ikke fradragsberettiget](/blogs/kontoplan/8140-rentekostnad-ikke-fradragsberettiget "Konto 8140 - Rentekostnad, ikke fradragsberettiget i Norsk Standard Kontoplan")
 * [Hva er langsiktig gjeld?](/blogs/regnskap/langsiktig-gjeld "Hva er Langsiktig gjeld? Komplett guide til langsiktig gjeld i norsk regnskap")
+

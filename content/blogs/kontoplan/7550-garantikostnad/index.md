@@ -1,5 +1,5 @@
 ﻿---
-title: "7550-garantikostnad"
+title: "Hva er Konto 7550 - Garantikostnad?"
 meta_title: "7550-garantikostnad"
 meta_description: '**Konto 7550 - Garantikostnad** er en **kostnadskonto** i Norsk Standard Kontoplan som brukes til Ã¥ registrere estimert kostnad knyttet til garantiforpliktelse...'
 slug: 7550-garantikostnad
@@ -68,3 +68,4 @@ _*Bruk relevante konti basert pÃ¥ selskapets kontoplan og praktiske behov.*_
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 * [Hva er Bankgaranti?](/blogs/regnskap/bankgaranti "Hva er Bankgaranti? En komplett guide til bankgarantier i Norge")
 * [Konto 7560 - Servicekostnad](/blogs/kontoplan/7560-servicekostnad "Konto 7560 - Servicekostnad: Definisjon, regnskapsfÃ¸ring og eksempler")
+

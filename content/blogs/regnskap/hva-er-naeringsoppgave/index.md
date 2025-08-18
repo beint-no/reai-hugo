@@ -221,3 +221,7 @@ For bedrifter som Ã¸nsker Ã¥ optimalisere sin regnskapsprosess og sikre korr
 NÃ¦ringskode er ogsÃ¥ pÃ¥krevd i nÃ¦ringsoppgaven for Ã¥ spesifisere bransjetilhÃ¸righet, og pÃ¥virker hvordan Skatteetaten klassifiserer virksomheten. Se [NÃ¦ringskode](/blogs/regnskap/naeringskode "NÃ¦ringskode “ Guide til bransjeklassifisering og nÃ¦ringskoder").
 
 
+
+
+
+

@@ -52,3 +52,6 @@ I mange nÃ¸kkeltall brukes gjennomsnittlig totalkapital for Ã¥ jevne ut seso
 Totalkapital er et sentralt grunnlag for analyser av [soliditet](/blogs/regnskap/soliditet "Soliditet “ ForstÃ¥else av egenkapitalandel og finansiell robusthet"), [balanse](/blogs/regnskap/hva-er-balanse "Hva er Balanse i Regnskap?"), og [Hva er Totalkapitalrentabilitet?](/blogs/regnskap/hva-er-totalkapitalrentabilitet "Hva er Totalkapitalrentabilitet?"). Ã… forstÃ¥ totalkapital hjelper regnskapsfÃ¸rere og ledelse med Ã¥ vurdere bedriftens finansielle stabilitet og lÃ¥nekapasitet.
 
 
+
+
+

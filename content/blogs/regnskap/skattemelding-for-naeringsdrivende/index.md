@@ -87,3 +87,6 @@ Se ogsÃ¥:
 - [Altinn](/blogs/regnskap/hva-er-altinn "Hva er Altinn? Digital kommunikasjonsplattform for offentlige etater")
 
 
+
+
+

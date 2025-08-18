@@ -309,3 +309,7 @@ Bedrifter som Ã¸nsker Ã¥ implementere eller justere fakturagebyr bÃ¸r sÃ�
 Ved Ã¥ fÃ¸lge beste praksis og fokusere pÃ¥ verdi for kunden, kan fakturagebyr vÃ¦re en rettferdig mÃ¥te Ã¥ hÃ¥ndtere kostnadsfordelingen i moderne forretningsdrift.
 
 
+
+
+
+

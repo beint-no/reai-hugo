@@ -77,3 +77,7 @@ Registreringsprosessen i Foretaksregisteret kan illustreres slik:
 * LÃ¦r om [Hva er BrÃ¸nnÃ¸ysundregistrene?](/blogs/regnskap/bronnoysundregistrene "Hva er BrÃ¸nnÃ¸ysundregistrene? En Guide til Norges Registerforvalter").
 
 
+
+
+
+

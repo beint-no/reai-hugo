@@ -1,5 +1,5 @@
 ﻿---
-title: "6860-mote-kurs-oppdatering-o-l"
+title: "Konto 6860 - MÃ¸te, kurs, oppdatering o.l."
 meta_title: "6860-mote-kurs-oppdatering-o-l"
 meta_description: '**Konto 6860 - MÃ¸te, kurs, oppdatering o.l.** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til Ã¥ registrere **kostnader til mÃ¸ter, kurs, inte...'
 slug: 6860-mote-kurs-oppdatering-o-l
@@ -47,3 +47,4 @@ Andre kontoer i NSÂ 4102 som ofte brukes sammen med kontoÂ 6860:
 * [Konto 1611 - InngÃ¥ende merverdiavgift hÃ¸y sats](/blogs/kontoplan/1611-inngaaende-merverdiavgift-hoy-sats "Konto 1611 - InngÃ¥ende merverdiavgift hÃ¸y sats")
 * [Konto 1601 - UtgÃ¥ende merverdiavgift hÃ¸y sats](/blogs/kontoplan/1601-utgaende-merverdiavgift-hoy-sats "Konto 1601 - UtgÃ¥ende merverdiavgift hÃ¸y sats")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

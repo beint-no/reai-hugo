@@ -1,5 +1,5 @@
 ﻿---
-title: "3120-salgsinntekt-tjenester-avgiftsfri"
+title: "Konto 3120 - Salgsinntekt tjenester avgiftsfri"
 meta_title: "3120-salgsinntekt-tjenester-avgiftsfri"
 meta_description: '**Konto 3120 - Salgsinntekt tjenester avgiftsfri** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **salgsinntekter** fra **tjenester** som ...'
 slug: 3120-salgsinntekt-tjenester-avgiftsfri
@@ -53,3 +53,4 @@ Avgiftsfrie salgsinntekter rapporteres netto og fÃ¸res i resultatregnskapet un
 * [Hva er Driftsinntekter?](/blogs/regnskap/hva-er-driftsinntekter "Hva er Driftsinntekter? Komplett Guide til Driftsinntekter i Regnskap")
 * [Hva er Omsetning?](/blogs/regnskap/hva-er-omsetning "Hva er Omsetning? Komplett Guide til Omsetning i Regnskap og Skatt")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

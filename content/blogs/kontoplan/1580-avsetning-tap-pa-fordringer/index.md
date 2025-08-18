@@ -1,5 +1,5 @@
 ﻿---
-title: "1580-avsetning-tap-pa-fordringer"
+title: "Konto 1580 - Avsetning tap pÃ¥ fordringer"
 meta_title: "1580-avsetning-tap-pa-fordringer"
 meta_description: '**Konto 1580 - Avsetning tap pÃ¥ fordringer** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **avsetning for tap pÃ¥ fordringer** som en **...'
 slug: 1580-avsetning-tap-pa-fordringer
@@ -75,3 +75,4 @@ En portefÃ¸lje med fordringer fordelt pÃ¥ aldringsklasser:
 * [Konto 2180 - Andre avsetninger for forpliktelser](/blogs/kontoplan/2180-andre-avsetninger-for-forpliktelser "Konto 2180 - Andre avsetninger for forpliktelser i Norsk Standard Kontoplan")
 * [Konto 2980 - Avsetninger og forpliktelser](/blogs/kontoplan/2980-avsetninger-og-forpliktelser "Konto 2980 - Avsetninger og forpliktelser i Norsk Standard Kontoplan")
 * [Konto 8100 - Verdireduksjon finansielle omlÃ¸psmidler](/blogs/kontoplan/8100-verdireduksjon-finansielle-omlopsmidler "Konto 8100 - Verdireduksjon finansielle omlÃ¸psmidler")
+

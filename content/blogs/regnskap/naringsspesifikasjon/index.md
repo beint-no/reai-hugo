@@ -293,3 +293,7 @@ For virksomheter som Ã¸nsker Ã¥ sikre korrekt regnskapsfÃ¸ring og rapporte
 Ved Ã¥ fÃ¸lge prinsippene og anbefalingene i denne artikkelen, kan virksomheter etablere et solid fundament for nÃ¦ringsspesifikk regnskapsfÃ¸ring som stÃ¸tter bÃ¥de daglig drift og langsiktig strategisk planlegging.
 
 
+
+
+
+

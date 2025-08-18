@@ -63,3 +63,7 @@ For Ã¥ sikre korrekte fradrag mÃ¥ dokumentasjonen oppfylle fÃ¸lgende krav:
 Ã… **fradragsfÃ¸re** kostnader pÃ¥ riktig mÃ¥te er avgjÃ¸rende for Ã¥ sikre nÃ¸yaktig regnskapsrapportering og optimal skatteposisjon. Ved Ã¥ fÃ¸lge en strukturert prosess, dokumentere alle bilag og holde seg oppdatert pÃ¥ regelverket, kan virksomheter trygt hÃ¥ndtere fradrag og redusere risikoen for feil og tilleggsavgifter.
 
 
+
+
+
+

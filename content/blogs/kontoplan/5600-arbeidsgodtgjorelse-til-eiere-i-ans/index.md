@@ -1,5 +1,5 @@
 ﻿---
-title: "5600-arbeidsgodtgjorelse-til-eiere-i-ans"
+title: "Konto 5600 - ArbeidsgodtgjÃ¸relse til eiere i ANS o.l."
 meta_title: "5600-arbeidsgodtgjorelse-til-eiere-i-ans"
 meta_description: '**Konto 5600 - ArbeidsgodtgjÃ¸relse til eiere i ANS o.l.** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som benyttes for Ã¥ registrere **arbeidsgodtgjÃ...'
 slug: 5600-arbeidsgodtgjorelse-til-eiere-i-ans
@@ -58,3 +58,4 @@ En ANS fordeler 100â€¯000Â NOK i arbeidsgodtgjÃ¸relse til eierne ved Ã�
 ## Oppsummering
 
 **Konto 5600 - ArbeidsgodtgjÃ¸relse til eiere i ANS o.l.** gir et klart skille mellom eierkompensasjon og ordinÃ¦r lÃ¸nn. Ved Ã¥ forstÃ¥ regnskapsfÃ¸ring, vurderinger og dokumentasjonskrav kan ansvarlige selskaper sikre korrekt rapportering og kontroll.
+

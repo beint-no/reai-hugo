@@ -58,3 +58,7 @@ Arbeidsgiver plikter Ã¥ rapportere naturalytelser i a-meldingen og skattemeldi
 Naturalytelser utgjÃ¸r en viktig del av kompensasjonsbildet i mange virksomheter, men stiller krav til **nÃ¸yaktig verdisetting**, korrekt **skattemessig** behandling og **regnskapsfÃ¸ring**. For en komplett veiledning om naturalytelser, se denne artikkelen om [Naturalytelser](/blogs/regnskap/naturalytelser "Naturalytelser i Norsk Regnskap: Guide til Naturlige Ytelser og Beskatning").
 
 
+
+
+
+

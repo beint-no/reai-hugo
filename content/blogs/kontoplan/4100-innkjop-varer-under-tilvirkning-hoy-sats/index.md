@@ -1,5 +1,5 @@
 ﻿---
-title: "4100-innkjop-varer-under-tilvirkning-hoy-sats"
+title: "Konto 4100 - InnkjÃ¸p varer under tilvirkning hÃ¸y sats"
 meta_title: "4100-innkjop-varer-under-tilvirkning-hoy-sats"
 meta_description: '**Konto 4100 - InnkjÃ¸p varer under tilvirkning hÃ¸y sats** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kjÃ¸p av varer under tilvirkni...'
 slug: 4100-innkjop-varer-under-tilvirkning-hoy-sats
@@ -52,3 +52,4 @@ Andre kontoer i NS 4102 som ofte benyttes sammen med konto 4100:
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 
 **Korrekt bokfÃ¸ring** av kjÃ¸p og MVA sikrer nÃ¸yaktig regnskapsfÃ¸ring og legger grunnlaget for riktig varelager og skattemeldinger.
+

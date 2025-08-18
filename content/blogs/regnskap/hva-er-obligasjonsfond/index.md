@@ -86,3 +86,4 @@ Obligasjonsfond er et **effektivt verktÃ¸y** for Ã¥ oppnÃ¥ diversifisert r
 Med Ã¸kende fokus pÃ¥ rente- og kredittforhold vil kunnskap om obligasjonsfond vÃ¦re essensiell for Ã¥ ta informerte beslutninger i bÃ¥de Ã¸konomistyring og portefÃ¸ljeforvaltning.
 
 
+

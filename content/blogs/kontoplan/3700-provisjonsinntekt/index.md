@@ -1,5 +1,5 @@
 ﻿---
-title: "3700-provisjonsinntekt"
+title: "Konto 3700 - Provisjonsinntekt"
 meta_title: "3700-provisjonsinntekt"
 meta_description: '**Konto 3700 - Provisjonsinntekt** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **provisjonsinntekter**.'
 slug: 3700-provisjonsinntekt
@@ -42,3 +42,4 @@ Provisjonsinntekter rapporteres netto i resultatregnskapet under driftsinntekter
 * [Hva er Driftsinntekter?](/blogs/regnskap/hva-er-driftsinntekter "Hva er Driftsinntekter? Komplett Guide til Driftsinntekter i Regnskap")
 * [Hva er Omsetning?](/blogs/regnskap/hva-er-omsetning "Hva er Omsetning? Komplett Guide til Omsetning i Regnskap og Skatt")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

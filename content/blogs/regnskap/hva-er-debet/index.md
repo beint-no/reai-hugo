@@ -327,3 +327,7 @@ Debet er ikke bare et teknisk regnskapsbegrep, men et verktÃ¸y som gir innsikt
 
 
 
+
+
+
+

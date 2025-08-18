@@ -307,3 +307,7 @@ For mer informasjon om relaterte regnskapstemaer, se vÃ¥re artikler om [brutto
 
 
 
+
+
+
+

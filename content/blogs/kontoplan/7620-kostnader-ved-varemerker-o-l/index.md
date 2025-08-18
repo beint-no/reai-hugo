@@ -1,5 +1,5 @@
 ﻿---
-title: "7620-kostnader-ved-varemerker-o-l"
+title: "Hva er Konto 7620 - Kostnader ved varemerker o.l.?"
 meta_title: "7620-kostnader-ved-varemerker-o-l"
 meta_description: '**Konto 7620 - Kostnader ved varemerker o.l.** er en kostnadskonto i norsk kontoplan som benyttes for Ã¥ registrere **kostnader** knyttet til varemerker og andr...'
 slug: 7620-kostnader-ved-varemerker-o-l
@@ -53,3 +53,4 @@ Kredit: Konto 2400 - LeverandÃ¸rgjeld
 * [Konto 7630 - Kontroll-, prÃ¸ve- og stempelavgifter](/blogs/kontoplan/7630-kontroll-prove-og-stempelavgifter "Konto 7630 - Kontroll-, prÃ¸ve- og stempelavgifter")
 * [Hva er Aktivering i Regnskap?](/blogs/regnskap/hva-er-aktivering "Hva er Aktivering i Regnskap?")
 * [Hva er Amortisering?](/blogs/regnskap/hva-er-amortisering "Hva er Amortisering?")
+

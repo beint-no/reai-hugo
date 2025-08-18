@@ -58,3 +58,7 @@ For mer om internkontroll, se [Hva er internkontroll?](/blogs/regnskap/hva-er-in
 Lederrollen er en hjÃ¸rnestein i norsk selskapsstyring og regnskap. Ved Ã¥ forstÃ¥ de ulike lederrollene og deres ansvar kan selskapet sikre god kontroll, pÃ¥litelig rapportering og etterlevelse av relevant regelverk.
 
 
+
+
+
+

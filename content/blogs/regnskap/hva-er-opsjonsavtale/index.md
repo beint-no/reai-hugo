@@ -310,3 +310,7 @@ Ved Ã¥ fÃ¸lge disse prinsippene kan organisasjoner dra nytte av opsjoners fl
 ![Oppsummering av nÃ¸kkelpunkter for opsjonsavtaler](opsjonsavtale-oppsummering.svg)
 
 
+
+
+
+

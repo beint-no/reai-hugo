@@ -59,3 +59,7 @@ OmlÃ¸pshastighet pÃ¥virker [arbeidskapital](/blogs/regnskap/hva-er-arbeidska
 * [Hva er likviditet?](/blogs/regnskap/hva-er-likviditet "Hva er Likviditet? Komplett Guide til Likviditetsstyring og Analyse")
 
 
+
+
+
+

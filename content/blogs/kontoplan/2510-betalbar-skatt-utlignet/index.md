@@ -1,5 +1,5 @@
 ﻿---
-title: "2510-betalbar-skatt-utlignet"
+title: "Hva er Konto 2510 - Betalbar skatt, utlignet?"
 meta_title: "2510-betalbar-skatt-utlignet"
 meta_description: '**Konto 2510 - Betalbar skatt, utlignet** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ vise **betalbar skatt** som er utlignet mot forskuddsskatt el...'
 slug: 2510-betalbar-skatt-utlignet
@@ -64,3 +64,4 @@ Se ogsÃ¥:
 ## Oppsummering
 
 **Konto 2510 - Betalbar skatt, utlignet** sikrer at utlignet betalbar skatt presenteres korrekt som kortsiktig gjeld i balansen. Ved Ã¥ forstÃ¥ forskjellen mellom konto 2500 og 2510 kan virksomheten vise en mer nÃ¸yaktig skattemessig stilling.
+

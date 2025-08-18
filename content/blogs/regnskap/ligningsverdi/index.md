@@ -60,3 +60,7 @@ Ligningsverdi pÃ¥virker bÃ¥de **formueskatt** og **skattemelding**:
 * [Skattemelding](/blogs/regnskap/skattemelding "Hva er Skattemelding? Guide til Innsending av Skattemelding i Norge")
 
 
+
+
+
+

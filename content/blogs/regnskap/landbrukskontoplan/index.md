@@ -432,3 +432,7 @@ Ved Ã¥ investere i en god landbrukskontoplan og holde seg oppdatert pÃ¥ rege
 ![Sammendrag av landbrukskontoplan](landbrukskontoplan-sammendrag.svg)
 
 
+
+
+
+

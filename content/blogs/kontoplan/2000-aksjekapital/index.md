@@ -1,5 +1,5 @@
 ﻿---
-title: "2000-aksjekapital"
+title: "Konto 2000 - Aksjekapital"
 meta_title: "2000-aksjekapital"
 meta_description: '**Konto 2000 - Aksjekapital** er den fÃ¸rste kontoen innen **egenkapital** i Norsk Standard Kontoplan (NSÂ 4102). Denne kontoen brukes for Ã¥ registrere aksjonÃ...'
 slug: 2000-aksjekapital
@@ -71,3 +71,4 @@ Aksjekapital registreres vanligvis i to trinn:
 * [Konto 2280 - Stille interessentinnskudd og ansvarlig lÃ¥nekapital](/blogs/kontoplan/2280-stille-interessentinnskudd-og-ansvarlig-lanekapital "Konto 2280 - Stille interessentinnskudd og ansvarlig lÃ¥nekapital i Norsk Standard Kontoplan")
 * [Hva er egenkapital?](/blogs/regnskap/hva-er-egenkapital "Hva er Egenkapital? Komplett Guide til Egenkapital i Regnskap")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

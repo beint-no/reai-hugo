@@ -220,3 +220,7 @@ For Ã¥ sikre korrekt hÃ¥ndtering av MVA-forpliktelser, bÃ¸r virksomheter f
 MVA-registeret er en hjÃ¸rnestein i det norske skattesystemet og krever nÃ¸ye oppmerksomhet fra alle registrerte virksomheter. Ved Ã¥ forstÃ¥ kravene og fÃ¸lge etablerte rutiner, kan virksomheter sikre korrekt hÃ¥ndtering av sine MVA-forpliktelser og unngÃ¥ kostbare feil og sanksjoner.
 
 
+
+
+
+

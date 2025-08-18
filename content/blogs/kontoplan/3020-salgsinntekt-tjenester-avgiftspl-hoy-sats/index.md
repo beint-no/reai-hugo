@@ -1,5 +1,5 @@
 ﻿---
-title: "3020-salgsinntekt-tjenester-avgiftspl-hoy-sats"
+title: "Konto 3020 - Salgsinntekt tjenester avgiftspl. hÃ¸y sats"
 meta_title: "3020-salgsinntekt-tjenester-avgiftspl-hoy-sats"
 meta_description: '**Konto 3020 - Salgsinntekt tjenester avgiftspl. hÃ¸y sats** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **salgsinntekter** fra **tjenes...'
 slug: 3020-salgsinntekt-tjenester-avgiftspl-hoy-sats
@@ -51,3 +51,4 @@ Salgsinntekter rapporteres netto, det vil si eksklusive MVA, og skal fÃ¸res i 
 * [Hva er Driftsinntekter?](/blogs/regnskap/hva-er-driftsinntekter "Hva er Driftsinntekter? Komplett Guide til Driftsinntekter i Regnskap")
 * [Hva er Omsetning?](/blogs/regnskap/hva-er-omsetning "Hva er Omsetning? Komplett Guide til Omsetning i Regnskap og Skatt")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

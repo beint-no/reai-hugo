@@ -557,3 +557,7 @@ For moderne bedrifter blir digitaliseringen av driftsmiddelforvaltningen stadig 
 Ved Ã¥ fÃ¸lge etablerte prinsipper for **regnskapsfÃ¸ring**, **verdsettelse** og **forvaltning** kan bedrifter sikre at deres varige driftsmidler bidrar optimalt til verdiskaping og langsiktig suksess. For mer informasjon om relaterte emner, se vÃ¥re artikler om [avskrivningsmetoder](/blogs/regnskap/hva-er-saldoavskrivning "Hva er Saldoavskrivning i Regnskap? Komplett Guide til Degressiv Avskrivning"), [anskaffelseskostnader](/blogs/regnskap/hva-er-anskaffelse "Hva er Anskaffelse? RegnskapsfÃ¸ring og Skattemessig Behandling") og [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse i Regnskap? Komplett Guide til Balansen og Dens Komponenter").
 
 
+
+
+
+

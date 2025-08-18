@@ -1,5 +1,5 @@
 ﻿---
-title: "2702-utgaende-merverdiavgift-kjop-tjen-fra-utlandet"
+title: "Konto 2702 - UtgÃ¥ende merverdiavgift kjÃ¸p tjenester fra utlandet"
 meta_title: "2702-utgaende-merverdiavgift-kjop-tjen-fra-utlandet"
 meta_description: '**Konto 2702 - UtgÃ¥ende merverdiavgift kjÃ¸p tjenester fra utlandet** er en konto i **Norsk Standard Kontoplan** som brukes ved periodisk **oppgjÃ¸r av utgÃ¥en...'
 slug: 2702-utgaende-merverdiavgift-kjop-tjen-fra-utlandet
@@ -54,3 +54,4 @@ For transaksjonsfÃ¸ringen av omvendt avgiftsplikt ved kjÃ¸p av tjenester fra
 * [Konto 2712 - InngÃ¥ende merverdiavgift kjÃ¸p tjenester fra utlandet](/blogs/kontoplan/2712-inngaaende-merverdiavgift-kjop-tjen-fra-utlandet "Konto 2712 - InngÃ¥ende merverdiavgift kjÃ¸p tjenester fra utlandet")
 * [Hva er MVA?](/blogs/regnskap/hva-er-moms-mva "Hva er MVA? MVA-regnskapsfÃ¸ring og merverdiavgift")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

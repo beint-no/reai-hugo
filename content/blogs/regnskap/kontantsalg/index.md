@@ -1,5 +1,5 @@
 ﻿---
-title: "Kontantsalg “ Komplett Guide til RegnskapsfÃ¸ring av Kontantsalg"
+title: "Kontantsalg â€“ Komplett Guide til RegnskapsfÃ¸ring av Kontantsalg"
 meta_title: "Kontantsalg “ Komplett Guide til RegnskapsfÃ¸ring av Kontantsalg"
 meta_description: '**Kontantsalg** er salg av varer eller tjenester hvor **kontanter** mottas umiddelbart ved transaksjonen. Dette skiller seg fra kredittsalg, der kunden betaler ...'
 slug: kontantsalg
@@ -75,5 +75,9 @@ Kontantsalg pÃ¥virker flere nÃ¸kkelomrÃ¥der i regnskapet:
 ## Avslutning
 
 Kontantsalg representerer en enkel og umiddelbar betalingsform som krever nÃ¸ye oppmerksomhet pÃ¥ dokumentasjonskrav, internkontroll og korrekt bokfÃ¸ring. Ved Ã¥ fÃ¸lge etablerte rutiner og bruke anbefalte verktÃ¸y sikrer virksomheten nÃ¸yaktig regnskapsfÃ¸ring og god likviditetsstyring.
+
+
+
+
 
 

@@ -290,3 +290,7 @@ For bedrifter som vurderer BankGiro, er det viktig Ã¥ **planlegge implementeri
 
 
 
+
+
+
+

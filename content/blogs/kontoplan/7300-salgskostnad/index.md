@@ -1,5 +1,5 @@
 ﻿---
-title: "7300-salgskostnad"
+title: "Konto 7300 - Salgskostnad"
 meta_title: "7300-salgskostnad"
 meta_description: '**Konto 7300 - Salgskostnad** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til Ã¥ registrere **kostnader direkte knyttet til salgsinntekter**. S...'
 slug: 7300-salgskostnad
@@ -59,3 +59,4 @@ I resultatregnskapet presenteres **salgskostnad** som en del av driftskostnader,
 * [Hva er Driftskostnader?](/blogs/regnskap/hva-er-driftskostnader "Hva er Driftskostnader? En guide til norske driftskostnader")
 * [Konto 4090 - Beholdningsendring](/blogs/kontoplan/4090-beholdningsendring "Konto 4090 - Beholdningsendring av varer og ferdigvarer")
 * [Hva er Varekostnad?](/blogs/regnskap/hva-er-varekostnad "Hva er Varekostnad? Guide til kostnad for varer i regnskap")
+

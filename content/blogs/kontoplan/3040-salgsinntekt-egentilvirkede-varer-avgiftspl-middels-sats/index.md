@@ -1,5 +1,5 @@
 ﻿---
-title: "3040-salgsinntekt-egentilvirkede-varer-avgiftspl-middels-sats"
+title: "Konto 3040 - Salgsinntekt egentilvirkede varer avgiftspl. middels sats"
 meta_title: "3040-salgsinntekt-egentilvirkede-varer-avgiftspl-middels-sats"
 meta_description: '**Konto 3040 - Salgsinntekt egentilvirkede varer avgiftspl. middels sats** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **salgsinntekter*...'
 slug: 3040-salgsinntekt-egentilvirkede-varer-avgiftspl-middels-sats
@@ -49,3 +49,4 @@ Salgsinntekter rapporteres netto, det vil si eksklusive MVA, og skal fÃ¸res i 
 * [Hva er Omsetning?](/blogs/regnskap/hva-er-omsetning "Hva er Omsetning? Komplett Guide til Omsetning i Regnskap og Skatt")
 * [Konto 3080 - Rabatter og annen salgsinntektsred., avgiftspl.](/blogs/kontoplan/3080-rabatter-og-annen-salgsinntektsred-avgiftspl "Konto 3080 - Rabatter og annen salgsinntektsred., avgiftspl.")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

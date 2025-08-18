@@ -63,3 +63,7 @@ Arbeidstilsynet kan ilegge pÃ¥legg eller gebyrer hvis arbeidsgiver ikke overho
 Kontakt relevant fagforening eller arbeidsgiverorganisasjon, eller se gjeldende tariffavtale for din bransje.
 
 
+
+
+
+

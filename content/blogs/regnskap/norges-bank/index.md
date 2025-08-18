@@ -56,3 +56,7 @@ Norges Banks beslutninger pÃ¥virker nÃ¸kkelparametere i regnskapsrapporterin
 * [Regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Dybdeanalyse for Norge")
 
 
+
+
+
+

@@ -220,3 +220,7 @@ Fremtiden for IFRS vil preges av fortsatt harmonisering, digitalisering og integ
 For Ã¥ sikre korrekt implementering og overholdelse av IFRS-kravene, anbefales det Ã¥ arbeide tett med kvalifiserte regnskapsfÃ¸rere og revisorer som har spesialisert kunnskap om internasjonale regnskapsstandarder. Dette sikrer at [bokfÃ¸ringen](/blogs/regnskap/hva-er-bokforing "Hva er BokfÃ¸ring? En Komplett Guide til Norsk BokfÃ¸ringspraksis") og den finansielle rapporteringen oppfyller bÃ¥de nasjonale og internasjonale standarder.
 
 
+
+
+
+

@@ -1,5 +1,5 @@
 ﻿---
-title: "3920-utgaende-gebyrer-avgiftspliktig"
+title: "Konto 3920 - UtgÃ¥ende gebyrer, avgiftspliktig"
 meta_title: "3920-utgaende-gebyrer-avgiftspliktig"
 meta_description: '**Konto 3920 - UtgÃ¥ende gebyrer, avgiftspliktig** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **avgiftspliktige gebyrer** (for eksempel...'
 slug: 3920-utgaende-gebyrer-avgiftspliktig
@@ -52,3 +52,4 @@ layout: pages/single
 * [Hva er Driftsinntekter?](/blogs/regnskap/hva-er-driftsinntekter "Hva er Driftsinntekter? Komplett Guide til Driftsinntekter i Regnskap")
 * [Konto 7780 - Renter og gebyrer inkasso](/blogs/kontoplan/7780-renter-og-gebyrer-inkasso "Konto 7780 - Renter og gebyrer inkasso: RegnskapsfÃ¸ring av renter og gebyrer ved inkasso")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

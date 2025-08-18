@@ -1,5 +1,5 @@
 ﻿---
-title: "7430-gaver-ikke-fradragsberettiget"
+title: "Konto 7430 - Gaver, ikke fradragsberettiget"
 meta_title: "7430-gaver-ikke-fradragsberettiget"
 meta_description: '**Konto 7430 - Gaver, ikke fradragsberettiget** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til Ã¥ registrere **ikke-fradragsberettigede ga...'
 slug: 7430-gaver-ikke-fradragsberettiget
@@ -37,3 +37,4 @@ For mer informasjon om skattefrie gaver til ansatte, se [Konto 5900 - Gaver til 
 1. Virksomheten gir en gavekurv til en kunde til en verdi av NOKÂ 500. Kostnaden fÃ¸res pÃ¥ konto 7430.
 2. Ansatte mottar firmagaver ved julebord med verdi over grensene. Kostnad mÃ¥ fÃ¸res som ikke-fradragsberettiget.
 3. LeverandÃ¸r mottar gavekort verdt NOKÂ 300. Hele belÃ¸pet fÃ¸res pÃ¥ konto 7430.
+

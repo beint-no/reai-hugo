@@ -1,5 +1,5 @@
 ﻿---
-title: "5200-fri-bil"
+title: "Konto 5200 - Fri bil"
 meta_title: "5200-fri-bil"
 meta_description: '**Konto 5200 - Fri bil** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til Ã¥ registrere **verdi av fri bil** som **ansattgode**.'
 slug: 5200-fri-bil
@@ -73,3 +73,4 @@ En ansatt har fri bil med listepris pÃ¥ 500â€¯000Â NOK:
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 
 **Konto 5200 - Fri bil** hjelper med Ã¥ synliggjÃ¸re verdien av firmabil som et **ansattgode** i regnskapet.
+

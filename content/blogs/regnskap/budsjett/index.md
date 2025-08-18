@@ -61,3 +61,7 @@ Et **budsjett** er et kraftig verktÃ¸y i Ã¸konomistyringen som gir bedrifter
 
 
 
+
+
+
+

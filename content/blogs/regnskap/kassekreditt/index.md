@@ -78,3 +78,7 @@ For mer detaljert planlegging, se [likviditetsbudsjett](/blogs/regnskap/likvidit
 * [Hva er likviditetsbudsjett?](/blogs/regnskap/likviditetsbudsjett "Likviditetsbudsjett - Slik lager du et nÃ¸yaktig likviditetsregnskap")
 
 
+
+
+
+

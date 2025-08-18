@@ -1,5 +1,5 @@
 ﻿---
-title: "2100-pensjonsforpliktelser"
+title: "Konto 2100 - Pensjonsforpliktelser"
 meta_title: "2100-pensjonsforpliktelser"
 meta_description: '**Konto 2100 - Pensjonsforpliktelser** er en konto innen **langsiktige forpliktelser** i Norsk Standard Kontoplan (NSÂ 4102) som brukes til Ã¥ registrere **pens...'
 slug: 2100-pensjonsforpliktelser
@@ -41,3 +41,4 @@ _*Bruk relevant resultatkonto for pensjonskostnader, f.eks. [Konto 6800 - Pensjo
 * [Hva er gjeld?](/blogs/regnskap/hva-er-gjeld "Hva er Gjeld i Regnskap? Komplett Guide til Forpliktelser og Gjeldstyper")
 * [Hva er tjenestepensjon?](/blogs/regnskap/hva-er-tjenestepensjon "Hva er Tjenestepensjon? Komplett Guide til Bedriftspensjon og RegnskapsfÃ¸ring")
 * [Konto 5420 - Innberetningspliktig pensjonskostnad](/blogs/kontoplan/5420-innberetningspliktig-pensjonskostnad "Konto 5420 - Innberetningspliktig pensjonskostnad: Innberetningspliktig pensjonskostnad i Norsk Kontoplan")
+

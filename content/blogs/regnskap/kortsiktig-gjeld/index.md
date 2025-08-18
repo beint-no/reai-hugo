@@ -361,3 +361,7 @@ Ved Ã¥ forstÃ¥ kortsiktig gjeld grundig og implementere beste praksis for st
 For videre lesning om relaterte emner, se vÃ¥re artikler om [gjeld generelt](/blogs/regnskap/hva-er-gjeld "Hva er Gjeld i Regnskap? Komplett Guide til Forpliktelser og Gjeldstyper"), [arbeidskapital](/blogs/regnskap/hva-er-arbeidskapital "Hva er Arbeidskapital? Beregning og Analyse av Driftskapital"), [likviditetsanalyse](/blogs/regnskap/hva-er-betalingsevne "Hva er Betalingsevne? Analyse av Likviditet og Finansiell Stabilitet"), og [kontantstrÃ¸mstyring](/blogs/regnskap/hva-er-kontantstrom "Hva er KontantstrÃ¸m? Analyse og Styring av KontantstrÃ¸mmer").
 
 
+
+
+
+

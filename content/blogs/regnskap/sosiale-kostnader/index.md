@@ -1,5 +1,5 @@
 ﻿---
-title: "Sosiale kostnader “ Definisjon, Eksempler og RegnskapsfÃ¸ring i Norge"
+title: "Sosiale kostnader â€“ Definisjon, Eksempler og RegnskapsfÃ¸ring i Norge"
 meta_title: "Sosiale kostnader “ Definisjon, Eksempler og RegnskapsfÃ¸ring i Norge"
 meta_description: '![Illustrasjon som viser sosiale kostnader](sosiale-kostnader-image.svg)'
 slug: sosiale-kostnader
@@ -58,5 +58,8 @@ For detaljerte eksempler pÃ¥ bokfÃ¸ring, se [RegnskapsfÃ¸ring av personalk
 ## Sammendrag
 
 **Sosiale kostnader** representerer en betydelig del av totalpersonalkostnaden og mÃ¥ hÃ¥ndteres nÃ¸ye i regnskaps- og budsjettrutiner. Korrekt beregning, periodisering og rapportering sikrer at virksomheten fÃ¸lger lover og gir et realistisk bilde av lÃ¸nnskostnadene.
+
+
+
 
 

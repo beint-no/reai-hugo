@@ -1,5 +1,5 @@
 ﻿---
-title: "6200-elektrisitet"
+title: "Konto 6200 - Elektrisitet"
 meta_title: "6200-elektrisitet"
 meta_description: '**Konto 6200 - Elektrisitet** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **strÃ¸m- og energikostnader** i virksomhetens drift.'
 slug: 6200-elektrisitet
@@ -54,3 +54,4 @@ Andre kontoer i NSÂ 4102 som ofte brukes sammen med konto 6200:
 * [Konto 6300 - Leie lokaler](/blogs/kontoplan/6300-leie-lokaler "Konto 6300 - Leie lokaler")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 * [Hva er en Faktura?](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav")
+

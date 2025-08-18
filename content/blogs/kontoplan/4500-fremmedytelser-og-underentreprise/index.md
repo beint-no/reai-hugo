@@ -1,5 +1,5 @@
 ﻿---
-title: "4500-fremmedytelser-og-underentreprise"
+title: "Konto 4500 - Fremmedytelser og underentreprise"
 meta_title: "4500-fremmedytelser-og-underentreprise"
 meta_description: '**Konto 4500 - Fremmedytelser og underentreprise** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kostnader for eksterne tjenester og und...'
 slug: 4500-fremmedytelser-og-underentreprise
@@ -48,3 +48,4 @@ layout: pages/single
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 
 **Korrekt bokfÃ¸ring** av eksterne tjenester og underentreprisekontrakter sikrer nÃ¸yaktig kostnadsfordeling og riktig regnskapsrapportering.
+

@@ -97,3 +97,6 @@ For god internkontroll og revisjon bÃ¸r selskapet ha:
 * [Tantieme](/blogs/regnskap/tantieme "Tantieme i aksjeselskap: Bonusmodell, Skattemessig Behandling og BokfÃ¸ring")
 
 
+
+
+

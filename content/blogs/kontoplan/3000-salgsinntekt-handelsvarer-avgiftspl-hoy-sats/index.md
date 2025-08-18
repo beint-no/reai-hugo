@@ -1,5 +1,5 @@
 ﻿---
-title: "3000-salgsinntekt-handelsvarer-avgiftspl-hoy-sats"
+title: "Konto 3000 - Salgsinntekt handelsvarer avgiftspl. hÃ¸y sats"
 meta_title: "3000-salgsinntekt-handelsvarer-avgiftspl-hoy-sats"
 meta_description: '**Konto 3000 - Salgsinntekt handelsvarer avgiftspl. hÃ¸y sats** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **salgsinntekter** fra **han...'
 slug: 3000-salgsinntekt-handelsvarer-avgiftspl-hoy-sats
@@ -49,3 +49,4 @@ Salgsinntekter rapporteres netto, det vil si eksklusive MVA, og skal fÃ¸res i 
 * [Hva er Omsetning?](/blogs/regnskap/hva-er-omsetning "Hva er Omsetning? Komplett Guide til Omsetning i Regnskap og Skatt")
 * [Konto 3040 - Salgsinntekt egentilvirkede varer avgiftspl. middels sats](/blogs/kontoplan/3040-salgsinntekt-egentilvirkede-varer-avgiftspl-middels-sats "Konto 3040 - Salgsinntekt egentilvirkede varer avgiftspl. middels sats")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

@@ -1,5 +1,5 @@
 ﻿---
-title: "3070-uttak-av-tjenester-avgiftspliktig-hoy-sats"
+title: "Konto 3070 - Uttak av tjenester avgiftspliktig hÃ¸y sats"
 meta_title: "3070-uttak-av-tjenester-avgiftspliktig-hoy-sats"
 meta_description: '**Konto 3070 - Uttak av tjenester avgiftspliktig hÃ¸y sats** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **uttak av tjenester** til bruk...'
 slug: 3070-uttak-av-tjenester-avgiftspliktig-hoy-sats
@@ -44,3 +44,4 @@ Tjenesteuttak rapporteres netto, det vil si ekskludert MVA, og kostnad fÃ¸res 
 * [Konto 3074 - Uttak av tjenester avgiftspliktig lav sats](/blogs/kontoplan/3074-uttak-av-tjenester-avgiftspliktig-lav-sats "Konto 3074 - Uttak av tjenester avgiftspliktig lav sats")
 * [Hva er Driftskostnader? Typer, Beregning og RegnskapsfÃ¸ring - Komplett Guide](/blogs/regnskap/hva-er-driftskostnader "Hva er Driftskostnader? Typer, Beregning og RegnskapsfÃ¸ring - Komplett Guide")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

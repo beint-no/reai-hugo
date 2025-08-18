@@ -296,3 +296,7 @@ Mens balansen gir innsikt i bedriftens finansielle posisjon pÃ¥ et bestemt tid
 
 
 
+
+
+
+

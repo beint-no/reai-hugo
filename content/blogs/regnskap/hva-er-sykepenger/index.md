@@ -501,3 +501,7 @@ Sykepengeordningen utvikler seg kontinuerlig med teknologiske fremskritt, demogr
 Den praktiske hÃ¥ndteringen av sykepenger er ikke bare en administrativ oppgave - det er en strategisk mulighet for Ã¥ demonstrere ansvarlighet som arbeidsgiver, optimalisere [driftskostnader](/blogs/regnskap/hva-er-driftskostnader "Hva er Driftskostnader? Klassifisering og RegnskapsfÃ¸ring") og bygge et bÃ¦rekraftig arbeidsfellesskap som prioriterer bÃ¥de produktivitet og ansattes velferd.
 
 
+
+
+
+

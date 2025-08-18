@@ -52,3 +52,7 @@ Permanent forskjeller skiller seg fra midlertidige forskjeller, som [Midlertidig
 * [Hva er Periodisering i Regnskap?](/blogs/regnskap/hva-er-periodisering "Periodisering i Regnskap - Komplett Guide til Periodiseringsprinsippet")
 
 
+
+
+
+

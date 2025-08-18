@@ -1,5 +1,5 @@
 ﻿---
-title: "2711-inngaaende-merverdiavgift-hoy-sats"
+title: "Konto 2711 - InngÃ¥ende merverdiavgift hÃ¸y sats"
 meta_title: "2711-inngaaende-merverdiavgift-hoy-sats"
 meta_description: '**Konto 2711 - InngÃ¥ende merverdiavgift hÃ¸y sats** er en konto i **Norsk Standard Kontoplan** som brukes ved periodisk **oppgjÃ¸r av inngÃ¥ende merverdiavgift...'
 slug: 2711-inngaaende-merverdiavgift-hoy-sats
@@ -50,3 +50,4 @@ layout: pages/single
 * [Konto 2714 - InngÃ¥ende merverdiavgift lav sats](/blogs/kontoplan/2714-inngaaende-merverdiavgift-lav-sats "Konto 2714 - InngÃ¥ende merverdiavgift lav sats")
 * [Konto 2740 - Merverdiavgift til betaling/til gode](/blogs/kontoplan/2740-merverdiavgift-til-betaling-til-gode "Konto 2740 - Merverdiavgift til betaling/til gode")
 * [Hva er MVA?](/blogs/regnskap/hva-er-moms-mva "Hva er MVA? MVA-regnskapsfÃ¸ring og merverdiavgift")
+

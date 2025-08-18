@@ -53,3 +53,7 @@ For mer om betingede forpliktelser og avsetning, se [Hva er Avsetning?](/blogs/r
 * [Hva er Avsetning?](/blogs/regnskap/avsetning "Hva er Avsetning? Ulike typer og regnskapsfÃ¸ring")
 
 
+
+
+
+

@@ -57,3 +57,7 @@ NÃ¦ringsoppgaveÂ 1 er et sentralt verktÃ¸y for smÃ¥ nÃ¦ringsdrivende o
 Vil du lÃ¦re mer om hvordan NÃ¦ringsoppgaveÂ 1 henger sammen med regnskapet ditt? Les videre i [Hva er nÃ¦ringsoppgave?](/blogs/regnskap/hva-er-naeringsoppgave "Hva er nÃ¦ringsoppgave? Komplett Guide til NÃ¦ringsoppgaven").
 
 
+
+
+
+

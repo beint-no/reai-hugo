@@ -1,5 +1,5 @@
 ﻿---
-title: "3210-salgsinntekt-egentilvirkede-varer-utenfor-avg-omr"
+title: "Konto 3210 - Salgsinntekt egentilvirkede varer utenfor avg.omr"
 meta_title: "3210-salgsinntekt-egentilvirkede-varer-utenfor-avg-omr"
 meta_description: '**Konto 3210 - Salgsinntekt egentilvirkede varer utenfor avg.omr** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **salgsinntekter** fra **...'
 slug: 3210-salgsinntekt-egentilvirkede-varer-utenfor-avg-omr
@@ -53,3 +53,4 @@ RegnskapsfÃ¸ring av **salgsinntekter utenfor avgiftsomrÃ¥det** fÃ¸lger inn
 * [Konto 3260 - Uttak av varer utenfor avg.omr](/blogs/kontoplan/3260-uttak-av-varer-utenfor-avg-omr "Konto 3260 - Uttak av varer utenfor avg.omr")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 * [Hva er Omsetning?](/blogs/regnskap/hva-er-omsetning "Hva er Omsetning? Komplett Guide til Omsetning i Regnskap og Skatt")
+

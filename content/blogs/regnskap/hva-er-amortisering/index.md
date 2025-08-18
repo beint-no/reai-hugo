@@ -238,3 +238,7 @@ Korrekt amortisering er ikke bare et regnskapskrav, men ogsÃ¥ et verktÃ¸y fo
 
 
 
+
+
+
+

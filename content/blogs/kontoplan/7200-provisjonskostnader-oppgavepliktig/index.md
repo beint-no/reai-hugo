@@ -1,5 +1,5 @@
 ﻿---
-title: "7200-provisjonskostnader-oppgavepliktig"
+title: "Konto 7200 - Provisjonskostnader, oppgavepliktig"
 meta_title: "7200-provisjonskostnader-oppgavepliktig"
 meta_description: '**Konto 7200 - Provisjonskostnader, oppgavepliktig** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **oppgavepliktige provisjonskostnader**...'
 slug: 7200-provisjonskostnader-oppgavepliktig
@@ -43,3 +43,4 @@ Oppgavepliktige provisjonskostnader rapporteres netto i resultatregnskapet under
 * [Konto 2701 - UtgÃ¥ende merverdiavgift hÃ¸y sats](/blogs/kontoplan/2701-utgaende-merverdiavgift-hoy-sats "Konto 2701 - UtgÃ¥ende merverdiavgift hÃ¸y sats")
 * [Hva er Driftskostnader?](/blogs/regnskap/hva-er-driftskostnader "Hva er Driftskostnader? Komplett Guide til Driftskostnader i Regnskap")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

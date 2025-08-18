@@ -1,5 +1,5 @@
 ﻿---
-title: "5400-arbeidsgiveravgift"
+title: "Konto 5400 - Arbeidsgiveravgift"
 meta_title: "5400-arbeidsgiveravgift"
 meta_description: '**Konto 5400 - Arbeidsgiveravgift** er en lovpÃ¥lagt avgift som arbeidsgivere betaler til folketrygden basert pÃ¥ [lÃ¸nn](/blogs/kontoplan/2930-lonn Konto 2930...'
 slug: 5400-arbeidsgiveravgift
@@ -59,3 +59,4 @@ Kredit: Konto 2770 - Skyldig arbeidsgiveravgift 28â€¯200â€¯NOK
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 * [Konto 5820 - Refusjon av arbeidsgiveravgift](/blogs/kontoplan/5820-refusjon-av-arbeidsgiveravgift "Konto 5820 - Refusjon av arbeidsgiveravgift")
 * [Hva er en Faktura?](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav")
+

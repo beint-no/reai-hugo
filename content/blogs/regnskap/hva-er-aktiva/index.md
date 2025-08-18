@@ -339,3 +339,7 @@ For mer informasjon om relaterte emner, se vÃ¥re artikler om [saldobalanse](/b
 
 
 
+
+
+
+

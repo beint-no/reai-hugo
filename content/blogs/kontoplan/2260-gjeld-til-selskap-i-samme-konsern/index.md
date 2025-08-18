@@ -1,5 +1,5 @@
 ﻿---
-title: "2260-gjeld-til-selskap-i-samme-konsern"
+title: "Hva er Konto 2260 - Gjeld til selskap i samme konsern?"
 meta_title: "2260-gjeld-til-selskap-i-samme-konsern"
 meta_description: '**Konto 2260 - Gjeld til selskap i samme konsern** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til Ã¥ registrere **kortsiktig gjeld** til andre...'
 slug: 2260-gjeld-til-selskap-i-samme-konsern
@@ -59,3 +59,4 @@ Andre kontoer i NSÂ 4102 som ofte benyttes sammen med konto 2260:
 * [Hva er Konsern?](/blogs/regnskap/hva-er-konsern "Hva er Konsern? Komplett Guide til Konsernstrukturer og Konsernregnskap")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 * [Hva er Mellomregningskonto?](/blogs/regnskap/mellomregningskonto "Hva er Mellomregningskonto? Guide til intercompany clearing og avstemming")
+

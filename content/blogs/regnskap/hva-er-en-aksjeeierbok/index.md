@@ -104,3 +104,7 @@ Det er viktig Ã¥ merke seg at selskapets [vedtekter](/blogs/regnskap/hva-er-ve
 En korrekt og ajourfÃ¸rt aksjeeierbok er derfor helt essensielt for en sunn og lovlydig drift av et [aksjeselskap](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et aksjeselskap?").
 
 
+
+
+
+

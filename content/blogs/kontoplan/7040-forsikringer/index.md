@@ -1,5 +1,5 @@
 ﻿---
-title: "7040-forsikringer"
+title: "Konto 7040 - Forsikringer"
 meta_title: "7040-forsikringer"
 meta_description: '**Konto 7040 - Forsikringer** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til Ã¥ registrere **forsikringskostnader** knyttet til virksomhet...'
 slug: 7040-forsikringer
@@ -57,3 +57,4 @@ Andre kontoer i NSÂ 4102 som ofte brukes i forbindelse med forsikringer:
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 
 **Konto 7040 - Forsikringer** sikrer at virksomhetens risikoavlastning gjennom forsikring blir korrekt bokfÃ¸rt og rapportert.
+

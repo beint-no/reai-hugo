@@ -1,5 +1,5 @@
 ﻿---
-title: "3180-rabatter-og-annen-salgsinntektsreduksjon-avgiftsfri"
+title: "Konto 3180 - Rabatter og annen salgsinntektsreduksjon avgiftsfri"
 meta_title: "3180-rabatter-og-annen-salgsinntektsreduksjon-avgiftsfri"
 meta_description: '**Konto 3180 - Rabatter og annen salgsinntektsreduksjon avgiftsfri** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **rabatter** og annen *...'
 slug: 3180-rabatter-og-annen-salgsinntektsreduksjon-avgiftsfri
@@ -55,3 +55,4 @@ Rabatter og prisavslag reduserer netto omsetning og skal vises tydelig i resulta
 * [Konto 4070 - InnkjÃ¸psprisreduksjon](/blogs/kontoplan/4070-innkjopsprisreduksjon "Konto 4070 - InnkjÃ¸psprisreduksjon")
 * [Konto 4270 - InnkjÃ¸psprisreduksjon, avgiftspliktig](/blogs/kontoplan/4270-innkjopsprisreduksjon-avgiftspliktig "Konto 4270 - InnkjÃ¸psprisreduksjon, avgiftspliktig")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

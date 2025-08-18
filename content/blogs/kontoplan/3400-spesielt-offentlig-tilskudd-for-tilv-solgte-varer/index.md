@@ -1,5 +1,5 @@
 ﻿---
-title: "3400-spesielt-offentlig-tilskudd-for-tilv-solgte-varer"
+title: "Konto 3400 - Spesielt offentlig tilskudd for tilvirkede/solgte varer"
 meta_title: "3400-spesielt-offentlig-tilskudd-for-tilv-solgte-varer"
 meta_description: '**Konto 3400 - Spesielt offentlig tilskudd for tilvirkede/solgte varer** er en konto i **Norsk Standard Kontoplan** som brukes til Ã¥ registrere **offentlige ti...'
 slug: 3400-spesielt-offentlig-tilskudd-for-tilv-solgte-varer
@@ -44,3 +44,4 @@ Kredit: Konto 3400 - Spesielt offentlig tilskudd for tilvirkede/solgte varer   1
 ## Relaterte artikler
 
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

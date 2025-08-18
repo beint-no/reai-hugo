@@ -272,3 +272,7 @@ Ved Ã¥ fÃ¸lge etablerte prinsipper for [bokfÃ¸ring](/blogs/regnskap/hva-er
 For virksomheter som Ã¸nsker Ã¥ optimalisere sin regnskapsfÃ¸ring av imaterielle rettigheter, anbefales det Ã¥ konsultere med kvalifiserte regnskapsfÃ¸rere og revisorer som har spesialkompetanse pÃ¥ omrÃ¥det.
 
 
+
+
+
+

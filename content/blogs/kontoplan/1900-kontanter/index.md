@@ -1,5 +1,5 @@
 ﻿---
-title: "1900-kontanter"
+title: "Konto 1900 - Kontanter"
 meta_title: "1900-kontanter"
 meta_description: '**Konto 1900 - Kontanter** er den primÃ¦re kontoen for Ã¥ registrere virksomhetens **kontantbeholdning** som omfatter sedler, mynter og andre tilgjengelige kont...'
 slug: 1900-kontanter
@@ -67,3 +67,4 @@ For Ã¥ sikre korrekt registrering og hindre misbruk bÃ¸r virksomheter:
 * [Hva er Bankinnskudd?](/blogs/regnskap/hva-er-bankinnskudd "Bankinnskudd i Regnskap - Typer, RegnskapsfÃ¸ring og RentehÃ¥ndtering")
 * [Hva er Bankavstemming?](/blogs/regnskap/hva-er-bankavstemming "Hva er Bankavstemming? Komplett Guide til Avstemming av Bankkontoer")
 * [Konto 1910 - Kasse](/blogs/kontoplan/1910-kasse "Konto 1910 - Kasse")
+

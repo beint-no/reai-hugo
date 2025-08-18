@@ -1,5 +1,5 @@
 ﻿---
-title: "1760-palopte-renter"
+title: "Konto 1760 - PÃ¥lÃ¸pte renter"
 meta_title: "1760-palopte-renter"
 meta_description: '**Konto 1760 - PÃ¥lÃ¸pte renter** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **pÃ¥lÃ¸pte renteutgifter**.'
 slug: 1760-palopte-renter
@@ -53,3 +53,4 @@ Andre kontoer i NSÂ 4102 som ofte benyttes sammen med konto 1760:
 * [Konto 8920 - Avsatt utbytte/renter grunnfondsbevis](/blogs/kontoplan/8920-avsatt-utbytte-renter-grunnfondsbevis "Konto 8920 - Avsatt utbytte/renter grunnfondsbevis: Avsetning av utbytte og renter pÃ¥ grunnfondsbevis som kortsiktig gjeld")
 
 **Korrekt bruk** av konto 1760 sikrer god periodisering og oversikt over pÃ¥lÃ¸pte renteutgifter.
+

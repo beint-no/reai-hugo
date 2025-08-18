@@ -72,3 +72,7 @@ Realisering henger tett sammen med andre prinsipper som [aktivering](/blogs/regn
 For en dypere gjennomgang av gevinst- og tapskontoer, se [Gevinst og tapskonto](/blogs/regnskap/gevinst-og-tapskonto "Gevinst- og tapskonto: HÃ¥ndtering av Gevinst og Tap i Regnskap").
 
 
+
+
+
+

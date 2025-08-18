@@ -73,3 +73,7 @@ GjennomsnittslÃ¸nn i Norge gir et overblikk over hvordan norsk arbeidsliv bel�
 
 
 
+
+
+
+

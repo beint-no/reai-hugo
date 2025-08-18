@@ -1,5 +1,5 @@
 ﻿---
-title: "1330-investeringer-i-tilknyttede-selskap"
+title: "Hva er Konto 1330 - Investeringer i tilknyttede selskap?"
 meta_title: "1330-investeringer-i-tilknyttede-selskap"
 meta_description: '**Konto 1330 - Investeringer i tilknyttede selskap** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **langsiktige investeringer** i selskap...'
 slug: 1330-investeringer-i-tilknyttede-selskap
@@ -56,3 +56,4 @@ Kredit: Konto 1920 - Bankinnskudd                           1â€¯000â€¯00
 * [Konto 1390 - Andre fordringer](/blogs/kontoplan/1390-andre-fordringer "Konto 1390 - Andre fordringer")
 * [Konto 8000 - Inntekt pÃ¥ investering i datterselskap](/blogs/kontoplan/8000-inntekt-pa-investering-i-datterselskap "Konto 8000 - Inntekt pÃ¥ investering i datterselskap")
 * [Hva er Ã¥ investere?](/blogs/regnskap/hva-er-investere "Hva er Ã¥ investere? Komplett Guide til Investeringer i Regnskap")
+

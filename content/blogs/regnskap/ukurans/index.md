@@ -76,3 +76,6 @@ Selv om skattemyndighetene godtar nedskriving for ukurans, kreves det dokumentas
 * [Hva er Periodisering?](/blogs/regnskap/hva-er-periodisering "Hva er Periodisering? Prinsipper og Praktiske Eksempler")
 
 
+
+
+

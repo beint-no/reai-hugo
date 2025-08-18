@@ -1,5 +1,5 @@
 ﻿---
-title: "1040"
+title: "Hva er Konto 1040 - Lisenser?"
 meta_title: "1040"
 meta_description: '**Konto 1040 - Lisenser** er en viktig konto i norsk kontoplan som benyttes for Ã¥ registrere [immaterielle eiendeler](/blogs/regnskap/hva-er-imaterielle-eiende...'
 slug: 1040
@@ -377,3 +377,4 @@ Lisenser pÃ¥ konto 1040 rapporteres som [anleggsmidler](/blogs/regnskap/hva-er
 * [Hva er Anleggsmidler?](/blogs/regnskap/hva-er-anleggsmidler "Hva er Anleggsmidler?")
 * [Hva er Balanse?](/blogs/regnskap/hva-er-balanse "Hva er Balanse?")
 * [Hva er Anskaffelseskost?](/blogs/regnskap/hva-er-anskaffelseskost "Hva er Anskaffelseskost?")
+

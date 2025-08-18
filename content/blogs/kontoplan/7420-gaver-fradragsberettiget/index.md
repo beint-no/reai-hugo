@@ -1,5 +1,5 @@
 ﻿---
-title: "7420-gaver-fradragsberettiget"
+title: "Konto 7420 - Gaver, fradragsberettiget"
 meta_title: "7420-gaver-fradragsberettiget"
 meta_description: '**Konto 7420 - Gaver, fradragsberettiget** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til Ã¥ registrere **fradragsberettigede gaver**.'
 slug: 7420-gaver-fradragsberettiget
@@ -38,3 +38,4 @@ For mer informasjon om skattefrie gaver til ansatte, se [Konto 5900 - Gaver til 
 1. Virksomheten gir kunder gavekort pÃ¥ NOKÂ 150 ved stÃ¸rre bestillinger.
 2. LeverandÃ¸rer fÃ¥r firmagave pÃ¥ NOKÂ 350 ved samarbeidets 10-Ã¥rsjubileum.
 3. Ansatte mottar profilartikler til en verdi av NOKÂ 200 i forbindelse med bedriftsarrangement.
+

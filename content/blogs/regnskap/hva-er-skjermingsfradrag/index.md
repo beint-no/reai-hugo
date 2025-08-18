@@ -689,3 +689,7 @@ Ved Ã¥ integrere skjermingsfradrag effektivt i den totale [skatteplanleggingen
 For Ã¥ fÃ¥ full oversikt over alle aspekter ved skjermingsfradrag og hvordan dette fungerer sammen med andre skatteordninger for aksjonÃ¦rer, anbefaler vi vÃ¥r [AksjonÃ¦rmodellen - Komplett Guide til Norsk Aksjebeskatning](/blogs/regnskap/aksjonaermodellen-guide "AksjonÃ¦rmodellen - Komplett Guide til Norsk Aksjebeskatning").
 
 
+
+
+
+

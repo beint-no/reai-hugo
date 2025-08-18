@@ -47,3 +47,7 @@ Minstepensjon pÃ¥virker ikke direkte bedriftens regnskap, men rettigheter og u
 * [Individuell pensjonssparing](/blogs/regnskap/hva-er-individuell-pensjonssparing "Hva er individuell pensjonssparing? IPS og andre spareformer") for privat sparing i tredje sÃ¸yle.
 
 
+
+
+
+

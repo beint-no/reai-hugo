@@ -280,3 +280,7 @@ For selskaper som vurderer investeringer i andre selskaper, er det viktig Ã¥ p
 Fritaksmetoden vil fortsette Ã¥ vÃ¦re en sentral del av norsk skattelovgivning og spille en viktig rolle i Ã¥ stimulere investeringer og kapitalflyt mellom norske bedrifter.
 
 
+
+
+
+

@@ -164,3 +164,7 @@ Fakturaer er selve ryggraden i norsk regnskapsfÃ¸ring og dokumenterer bÃ¥de 
 God praksis rundt fakturering bidrar til bedre likviditet, overholdelse av lovkrav og et profesjonelt kundeforhold.
 
 
+
+
+
+

@@ -1,5 +1,5 @@
 ﻿---
-title: "2714-inngaaende-merverdiavgift-lav-sats"
+title: "Konto 2714 - InngÃ¥ende merverdiavgift lav sats"
 meta_title: "2714-inngaaende-merverdiavgift-lav-sats"
 meta_description: '**Konto 2714 - InngÃ¥ende merverdiavgift lav sats** er en konto i **Norsk Standard Kontoplan** som brukes ved periodisk **oppgjÃ¸r av inngÃ¥ende merverdiavgift ...'
 slug: 2714-inngaaende-merverdiavgift-lav-sats
@@ -52,3 +52,4 @@ layout: pages/single
 * [Konto 2740 - Merverdiavgift til betaling/til gode](/blogs/kontoplan/2740-merverdiavgift-til-betaling-til-gode "Konto 2740 - Merverdiavgift til betaling/til gode")
 * [Hva er MVA?](/blogs/regnskap/hva-er-moms-mva "Hva er MVA? MVA-regnskapsfÃ¸ring og merverdiavgift")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

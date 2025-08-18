@@ -126,3 +126,7 @@ For mer detaljert informasjon, se ogsÃ¥:
 * [Forholdsmessig MVA](/blogs/regnskap/forholdsmessig-mva "Forholdsmessig MVA: Fordeling av inngÃ¥ende MVA")
 
 
+
+
+
+

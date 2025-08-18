@@ -1,5 +1,5 @@
 ﻿---
-title: "2540-forhaandskatt"
+title: "Hva er Konto 2540 - ForhÃ¥ndsskatt?"
 meta_title: "2540-forhaandskatt"
 meta_description: '**Konto 2540 - ForhÃ¥ndsskatt** er en konto i Norsk Standard Kontoplan som brukes for Ã¥ vise innbetalte **forskuddsbetalinger av skatt** som en kortsiktig gjel...'
 slug: 2540-forhaandskatt
@@ -57,3 +57,4 @@ Se ogsÃ¥:
 ## Oppsummering
 
 Konto 2540 viser innbetalte **forskuddsbetalinger av skatt** som kortsiktig gjeld og gir oversikt over virksomhetens forskuddsforpliktelser fÃ¸r endelig skatteoppgjÃ¸r.
+

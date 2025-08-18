@@ -239,3 +239,7 @@ MVA-meldingen er en kritisk komponent i norsk skatteadministrasjon og krever nÃ
 For virksomheter som sliter med MVA-rapportering, kan det vÃ¦re lurt Ã¥ vurdere profesjonell hjelp fra [autoriserte regnskapsfÃ¸rere](/blogs/regnskap/hva-er-ars "Hva er ARS? Komplett Guide til Autoriserte RegnskapsfÃ¸rere i Norge") som har spesialkompetanse pÃ¥ omrÃ¥det.
 
 
+
+
+
+

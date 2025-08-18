@@ -60,3 +60,6 @@ Kredit: Konto 1920 - Bankinnskudd                    XXX kr
 * [Midlertidige forskjeller](/blogs/regnskap/midlertidige-forskjeller "Midlertidige forskjeller i regnskap “ Forklaring og Eksempler")
 
 
+
+
+

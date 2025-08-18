@@ -1,5 +1,5 @@
 ﻿---
-title: "7020-vedlikehold"
+title: "Konto 7020 - Vedlikehold"
 meta_title: "7020-vedlikehold"
 meta_description: '**Konto 7020 - Vedlikehold** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til Ã¥ registrere **vedlikeholdskostnader** i virksomhetens drift.'
 slug: 7020-vedlikehold
@@ -58,3 +58,4 @@ Andre kontoer i NSÂ 4102 som ofte brukes sammen med konto 7020:
 * [Konto 4500 - Fremmedytelser og underentreprise](/blogs/kontoplan/4500-fremmedytelser-og-underentreprise "Konto 4500 - Fremmedytelser og underentreprise")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 * [Hva er en Faktura?](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav")
+

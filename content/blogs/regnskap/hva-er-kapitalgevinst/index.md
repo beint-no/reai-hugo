@@ -296,3 +296,7 @@ Ved Ã¥ forstÃ¥ reglene for kapitalgevinst kan du ta informerte beslutninger 
 For aksjeinvesteringer anbefaler vi at du ogsÃ¥ setter deg inn i [AksjonÃ¦rmodellen - Komplett Guide til Norsk Aksjebeskatning](/blogs/regnskap/aksjonaermodellen-guide "AksjonÃ¦rmodellen - Komplett Guide til Norsk Aksjebeskatning") for Ã¥ fÃ¥ full oversikt over alle skatteordninger som kan pÃ¥virke din skattebyrde ved aksjegevinster.
 
 
+
+
+
+

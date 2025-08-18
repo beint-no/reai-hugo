@@ -237,3 +237,7 @@ Ved Ã¥ fÃ¸lge anerkjente best practices og opprettholde hÃ¸y dokumentasjon
 For ytterligere veiledning om relaterte emner, se vÃ¥re artikler om [personalkostnad](/blogs/regnskap/hva-er-personalkostnad "Hva er Personalkostnad? Guide til LÃ¸nnskostnader"), [attestering](/blogs/regnskap/hva-er-attestering "Hva er Attestering? Guide til Attestasjonsprosesser") og [internkontroll](/blogs/regnskap/hva-er-internkontroll "Hva er Internkontroll? Guide til Kontrollsystemer").
 
 
+
+
+
+

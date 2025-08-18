@@ -1,5 +1,5 @@
 ﻿---
-title: "2020-overkursfond"
+title: "Konto 2020 - Overkursfond"
 meta_title: "2020-overkursfond"
 meta_description: '**Konto 2020 - Overkursfond** er en konto innen **egenkapital** i Norsk Standard Kontoplan (NSÂ 4102) som brukes til Ã¥ registrere **innskutt overkurs** ved emi...'
 slug: 2020-overkursfond
@@ -51,3 +51,4 @@ layout: pages/single
 * [Konto 2080 - Udekket tap](/blogs/kontoplan/2080-udekket-tap "Konto 2080 - Udekket tap: Komplett Guide til Udekket tap i Norsk Kontoplan")
 * [Hva er egenkapital?](/blogs/regnskap/hva-er-egenkapital "Hva er Egenkapital? Komplett Guide til Egenkapital i Regnskap")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

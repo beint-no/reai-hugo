@@ -286,3 +286,7 @@ Ved Ã¥ etablere gode rutiner for hÃ¥ndtering av obligatorisk tjenestepensjon
 For bedrifter som trenger hjelp med implementering av obligatorisk tjenestepensjon, anbefales det Ã¥ konsultere med [regnskapsfÃ¸rere](/blogs/regnskap/hva-er-en-regnskapsforer "Hva er en RegnskapsfÃ¸rer? Komplett Guide til RegnskapsfÃ¸ring") eller pensjonskonsulenter som kan gi skreddersydde rÃ¥d basert pÃ¥ bedriftens spesifikke situasjon.
 
 
+
+
+
+

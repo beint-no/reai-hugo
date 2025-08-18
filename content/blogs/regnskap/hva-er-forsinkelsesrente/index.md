@@ -251,3 +251,7 @@ Forsinkelsesrente er en integrert del av [debitorhÃ¥ndtering](/blogs/regnskap/
 Effektiv hÃ¥ndtering av forsinkelsesrente krever derfor en helhetlig tilnÃ¦rming som integrerer juridiske, regnskapsmessige og praktiske aspekter. Ved Ã¥ implementere gode rutiner og bruke moderne teknologi kan bedrifter minimere bÃ¥de kostnader og administrative byrder knyttet til forsinket betaling.
 
 
+
+
+
+

@@ -52,3 +52,7 @@ I regnskapet fÃ¸res aksjekapitalen pÃ¥ passivasiden i balansen, under "[Egen
 
 
 
+
+
+
+

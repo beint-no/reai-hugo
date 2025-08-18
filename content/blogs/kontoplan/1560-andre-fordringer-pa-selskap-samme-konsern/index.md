@@ -1,5 +1,5 @@
 ﻿---
-title: "1560-andre-fordringer-pa-selskap-samme-konsern"
+title: "Hva er Konto 1560 - Andre fordringer pÃ¥ selskap samme konsern?"
 meta_title: "1560-andre-fordringer-pa-selskap-samme-konsern"
 meta_description: '**Konto 1560 - Andre fordringer pÃ¥ selskap samme konsern** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **andre kortsiktige fordringer**...'
 slug: 1560-andre-fordringer-pa-selskap-samme-konsern
@@ -54,3 +54,4 @@ Kredit: Konto 1560 - Andre fordringer pÃ¥ selskap samme konsern
 * [Hva er Konsern?](/blogs/regnskap/hva-er-konsern "Hva er Konsern? Komplett Guide til Konsernstrukturer og Konsernregnskap")
 * [Hva er en faktura?](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav")
 * [Hva er Mellomregningskonto?](/blogs/regnskap/mellomregningskonto "Hva er Mellomregningskonto? Guide til intercompany clearing og avstemming")
+

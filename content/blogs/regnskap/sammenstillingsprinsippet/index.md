@@ -63,3 +63,6 @@ Sammenstillingsprinsippet henger nÃ¦rt sammen med:
 **Sammenstillingsprinsippet** er fundamentalt for Ã¥ sikre at regnskapet gir et korrekt og sammenlignbart bilde av virksomhetens Ã¸konomiske situasjon. Ved Ã¥ matche kostnader med tilhÃ¸rende inntekter i samme periode, overholder man bÃ¥de lovkrav og prinsipper for god regnskapsskikk.
 
 
+
+
+

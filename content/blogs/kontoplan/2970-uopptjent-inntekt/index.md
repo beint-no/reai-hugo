@@ -1,5 +1,5 @@
 ﻿---
-title: "2970-uopptjent-inntekt"
+title: "Konto 2970 - Uopptjent inntekt"
 meta_title: "2970-uopptjent-inntekt"
 meta_description: '**Konto 2970 - Uopptjent inntekt** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **uopptjent inntekt**, altsÃ¥ inntekter som er mottatt pÃ...'
 slug: 2970-uopptjent-inntekt
@@ -61,3 +61,4 @@ Andre kontoer i NSÂ 4102 som ofte benyttes sammen med konto 2970:
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 
 **Riktig bruk** av konto 2970 sikrer at inntekter matches mot leveringstidspunktet og gir et korrekt bilde av selskapets kortsiktige forpliktelser.
+

@@ -381,3 +381,7 @@ For Ã¥ sikre korrekt hÃ¥ndtering anbefales det Ã¥:
 Ved Ã¥ fÃ¸lge disse prinsippene kan selskaper sikre at utbytteutdelingen skjer pÃ¥ en **lovlig**, **forsvarlig** og **optimal** mÃ¥te som ivaretar alle interessenters behov.
 
 
+
+
+
+

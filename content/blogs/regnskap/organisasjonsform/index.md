@@ -385,3 +385,7 @@ Valg av **organisasjonsform** er en fundamental beslutning som pÃ¥virker alle 
 ![Sammendrag av organisasjonsformvalg](organisasjonsform-sammendrag.svg)
 
 
+
+
+
+

@@ -1,5 +1,5 @@
 ﻿---
-title: "5000-lonn-til-ansatte"
+title: "Konto 5000 - LÃ¸nn til ansatte"
 meta_title: "5000-lonn-til-ansatte"
 meta_description: '**Konto 5000 - LÃ¸nn til ansatte** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til Ã¥ registrere **lÃ¸nnskostnader** og **relaterte ytelser...'
 slug: 5000-lonn-til-ansatte
@@ -72,3 +72,4 @@ En ansatt har pÃ¥lÃ¸pt lÃ¸nnskostnader pÃ¥ 50â€¯000Â NOK i mÃ¥ne
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 
 **Konto 5000 - LÃ¸nn til ansatte** gir en komplett oversikt over alle lÃ¸nnskostnader og tilhÃ¸rende forpliktelser som virksomheten har overfor sine ansatte.
+

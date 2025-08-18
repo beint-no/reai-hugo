@@ -1,5 +1,5 @@
 ﻿---
-title: "1600-utgaende-merverdiavgift"
+title: "Konto 1600 - UtgÃ¥ende merverdiavgift"
 meta_title: "1600-utgaende-merverdiavgift"
 meta_description: '**Konto 1600 - UtgÃ¥ende merverdiavgift** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **utgÃ¥ende merverdiavgift (MVA)** som en gjeld ti...'
 slug: 1600-utgaende-merverdiavgift
@@ -57,3 +57,4 @@ En virksomhet har fÃ¸lgende salgsdokument:
 * [Konto 2700 - UtgÃ¥ende merverdiavgift](/blogs/kontoplan/2700-utgaende-merverdiavgift "Konto 2700 - UtgÃ¥ende merverdiavgift")
 * [Hva er MVA?](/blogs/regnskap/hva-er-moms-mva "Hva er MVA? MVA-regnskapsfÃ¸ring og merverdiavgift")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

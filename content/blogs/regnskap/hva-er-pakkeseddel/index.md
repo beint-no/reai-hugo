@@ -373,3 +373,7 @@ Enten du driver [e-handel](/blogs/regnskap/hva-er-e-handel "Hva er E-handel? Kom
 Husk at **kvaliteten pÃ¥ pakkeseddelen** ofte reflekterer profesjonaliteten til hele virksomheten, og kan vÃ¦re avgjÃ¸rende for kundeforholdet og fremtidig [omsetning](/blogs/regnskap/hva-er-omsetning "Hva er Omsetning? Komplett Guide til InntektsfÃ¸ring og RegnskapsfÃ¸ring").
 
 
+
+
+
+

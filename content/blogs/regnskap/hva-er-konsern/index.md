@@ -266,3 +266,4 @@ Et **konsern** er en kompleks forretningsstruktur som kan gi betydelige fordeler
 Konsernstrukturer vil fortsette Ã¥ vÃ¦re et viktig verktÃ¸y for organisering av nÃ¦ringsvirksomhet, men krever kontinuerlig oppmerksomhet pÃ¥ regulatoriske endringer og beste praksis for konsernledelse.
 
 
+

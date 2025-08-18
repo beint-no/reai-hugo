@@ -1,5 +1,5 @@
 ﻿---
-title: "1280"
+title: "Konto 1280 - Kontormaskiner"
 meta_title: "1280"
 meta_description: '**Konto 1280 - Kontormaskiner** er en konto i norsk kontoplan som brukes for **kontormaskiner** og **mindre Iâ€¯T-utstyr**.'
 slug: 1280
@@ -53,3 +53,4 @@ Ved salg, utrangering eller bytte av utstyr fÃ¸lges de samme prinsippene som f
 * [Konto 1270 - VerktÃ¸y mv.](/blogs/kontoplan/1270-verktoy-mv "Konto 1270 - VerktÃ¸y mv.")
 * [Hva er Anskaffelseskost?](/blogs/regnskap/hva-er-anskaffelseskost "Hva er Anskaffelseskost?")
 * [Hva er Avskrivning?](/blogs/regnskap/hva-er-avskrivning "Hva er Avskrivning i Regnskap?")
+

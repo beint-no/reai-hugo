@@ -305,3 +305,7 @@ Med riktig tilnÃ¦rming kan fjernleverbare tjenester vÃ¦re en **lÃ¸nnsom** 
 For bedrifter som vurderer Ã¥ tilby fjernleverbare tjenester, anbefales det Ã¥ sÃ¸ke profesjonell rÃ¥dgivning for Ã¥ sikre korrekt hÃ¥ndtering av alle regnskapsmessige og skattemessige aspekter. Dette vil minimere risiko og maksimere mulighetene i det digitale markedet.
 
 
+
+
+
+

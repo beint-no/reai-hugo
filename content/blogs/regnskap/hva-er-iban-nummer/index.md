@@ -263,3 +263,7 @@ For bedrifter som Ã¸nsker Ã¥ optimalisere sin hÃ¥ndtering av internasjonal
 Ved Ã¥ fÃ¸lge beste praksis og holde seg oppdatert pÃ¥ utviklingen innen IBAN-systemet, kan norske bedrifter sikre smidig og sikker hÃ¥ndtering av sine internasjonale finansielle transaksjoner. Kombinert med korrekt bruk av [BIC-koder](/blogs/regnskap/hva-er-bic-kode "Hva er BIC-kode? Komplett Guide til Bank Identifier Code i Norge"), gir IBAN-numre et solid fundament for moderne internasjonal betalingshÃ¥ndtering.
 
 
+
+
+
+

@@ -1,5 +1,5 @@
 ﻿---
-title: "7630"
+title: "Hva er Konto 7630 - Kontroll-, prÃ¸ve- og stempelavgifter?"
 meta_title: "7630"
 meta_description: '**Konto 7630 - Kontroll-, prÃ¸ve- og stempelavgifter** er en kostnadskonto i norsk kontoplan som benyttes for Ã¥ registrere **kontrollavgifter**, **prÃ¸veavgift...'
 slug: 7630
@@ -51,3 +51,4 @@ Kredit: Konto 2400 - LeverandÃ¸rgjeld
 - [Konto 7600 - Lisensavgifter og royalties](/blogs/kontoplan/7600-lisensavgifter-og-royalties "Konto 7600 - Lisensavgifter og royalties")
 - [Konto 7610 - Patentkostnad ved egen patent](/blogs/kontoplan/7610-patentkostnad-ved-egen-patent "Konto 7610 - Patentkostnad ved egen patent")
 - [Konto 7620 - Kostnader ved varemerker o.l.](/blogs/kontoplan/7620-kostnader-ved-varemerker-o-l "Konto 7620 - Kostnader ved varemerker o.l.")
+

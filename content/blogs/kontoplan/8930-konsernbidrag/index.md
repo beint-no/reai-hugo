@@ -1,5 +1,5 @@
 ﻿---
-title: "8930-konsernbidrag"
+title: "Konto 8930 - Konsernbidrag"
 meta_title: "8930-konsernbidrag"
 meta_description: '**Konto 8930 - Konsernbidrag** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **konsernbidrag** mellom selskaper i et konsern.'
 slug: 8930-konsernbidrag
@@ -49,3 +49,4 @@ Kredit: Konto 1920 - Bankinnskudd    500Â 000Â kr
 * [Konto 8940 - AksjonÃ¦rbidrag](/blogs/kontoplan/8940-aksjonaerbidrag "Konto 8940 - AksjonÃ¦rbidrag: AksjonÃ¦rbidrag mellom selskap og aksjonÃ¦r")
 * [Konto 8950 - Fondsemisjon](/blogs/kontoplan/8950-fondsemisjon "Konto 8950 - Fondsemisjon: Fondsemisjon i Norsk Standard Kontoplan")
 * [Hva er Konsernbidrag?](/blogs/regnskap/hva-er-konsernbidrag "Hva er Konsernbidrag? Komplett Guide til Konsernbidrag i Norge")
+

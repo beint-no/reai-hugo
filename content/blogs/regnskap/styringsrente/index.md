@@ -59,3 +59,6 @@ Styringsrenten pÃ¥virker nÃ¸kkelomrÃ¥der i regnskap og finans:
 * [Hva er effektiv rente?](/blogs/regnskap/hva-er-effektiv-rente "Hva er effektiv rente? Beregning og Eksempler")
 
 
+
+
+

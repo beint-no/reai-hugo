@@ -74,3 +74,7 @@ Internrente brukes ofte i kombinert vurdering med NPV under internregnskapsanaly
 For en grundig gjennomgang av avkastningsbegrepet, se ogsÃ¥ [Hva er Avkastning?](/blogs/regnskap/hva-er-avkastning "Hva er Avkastning? Komplett Guide til Investeringsavkastning og Beregning").
 
 
+
+
+
+

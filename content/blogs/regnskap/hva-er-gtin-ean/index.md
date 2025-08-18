@@ -210,3 +210,7 @@ For bedrifter som hÃ¥ndterer fysiske varer er investering i GTIN/EAN-implement
 Med den kontinuerlige digitaliseringen av handel og Ã¸kte krav til sporbarhet og bÃ¦rekraft, vil betydningen av GTIN/EAN-koder bare Ã¸ke i Ã¥rene som kommer. Bedrifter som implementerer disse standardene tidlig vil ha et betydelig konkurransefortrinn gjennom forbedret effektivitet, reduserte kostnader og bedre beslutningsgrunnlag.
 
 
+
+
+
+

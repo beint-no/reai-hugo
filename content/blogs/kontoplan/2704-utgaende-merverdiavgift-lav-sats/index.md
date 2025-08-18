@@ -1,5 +1,5 @@
 ﻿---
-title: "2704-utgaende-merverdiavgift-lav-sats"
+title: "Konto 2704 - UtgÃ¥ende merverdiavgift lav sats"
 meta_title: "2704-utgaende-merverdiavgift-lav-sats"
 meta_description: '**Konto 2704 - UtgÃ¥ende merverdiavgift lav sats** er en konto i **Norsk Standard Kontoplan** som brukes til Ã¥ registrere **utgÃ¥ende merverdiavgift med lav sa...'
 slug: 2704-utgaende-merverdiavgift-lav-sats
@@ -59,3 +59,4 @@ Konto 2704 skal brukes nÃ¥r virksomheten fakturerer kunder med lav sats MVA. T
 * [Konto 2703 - UtgÃ¥ende merverdiavgift middels sats](/blogs/kontoplan/2703-utgaende-merverdiavgift-middels-sats "Konto 2703 - UtgÃ¥ende merverdiavgift middels sats")
 * [Hva er MVA?](/blogs/regnskap/hva-er-moms-mva "Hva er MVA? MVA-regnskapsfÃ¸ring og merverdiavgift")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

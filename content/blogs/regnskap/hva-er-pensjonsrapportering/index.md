@@ -328,3 +328,7 @@ Effektiv pensjonsrapportering stÃ¸tter ikke bare **lovpÃ¥lagt compliance**, 
 For bedrifter som Ã¸nsker Ã¥ mestre pensjonsrapportering, er det essensielt Ã¥ investere i **kompetanse, systemer og prosesser** som sikrer bÃ¥de dagens krav og fremtidens utfordringer.
 
 
+
+
+
+

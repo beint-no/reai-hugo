@@ -284,3 +284,7 @@ Ved Ã¥ fÃ¸lge inkassolovens bestemmelser kan bedrifter drive effektiv innkre
 For bedrifter som vurderer inkassostrategi, er det viktig Ã¥ vurdere bÃ¥de juridiske, Ã¸konomiske og relasjonelle aspekter. Uavhengig av valg av strategi, mÃ¥ alle aktiviteter skje innenfor inkassolovens rammer for Ã¥ sikre lovlig og etisk virksomhet.
 
 
+
+
+
+

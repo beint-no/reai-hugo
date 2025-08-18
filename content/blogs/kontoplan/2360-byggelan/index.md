@@ -1,5 +1,5 @@
 ﻿---
-title: "2360-byggelan"
+title: "Hva er Konto 2360 - ByggelÃ¥n?"
 meta_title: "2360-byggelan"
 meta_description: '**Konto 2360 - ByggelÃ¥n** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til Ã¥ registrere **lÃ¥n til byggeprosjekter**, bÃ¥de kortsiktige og lan...'
 slug: 2360-byggelan
@@ -66,3 +66,4 @@ Andre kontoer i NSÂ 4102 som ofte benyttes sammen med konto 2360:
 * [Hva er gjeld?](/blogs/regnskap/hva-er-gjeld "Hva er Gjeld i Regnskap? Komplett Guide til Forpliktelser og Gjeldstyper")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 * [Konto 2380 - Kassekreditt](/blogs/kontoplan/2380-kassekreditt "Konto 2380 - Kassekreditt i Norsk Standard Kontoplan")
+

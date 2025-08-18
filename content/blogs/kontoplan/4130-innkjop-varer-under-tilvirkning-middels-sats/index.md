@@ -1,5 +1,5 @@
 ﻿---
-title: "4130-innkjop-varer-under-tilvirkning-middels-sats"
+title: "Konto 4130 - InnkjÃ¸p varer under tilvirkning middels sats"
 meta_title: "4130-innkjop-varer-under-tilvirkning-middels-sats"
 meta_description: '**Konto 4130 - InnkjÃ¸p varer under tilvirkning middels sats** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kjÃ¸p av varer under tilvir...'
 slug: 4130-innkjop-varer-under-tilvirkning-middels-sats
@@ -67,3 +67,4 @@ Andre kontoer i NS 4102 som ofte benyttes sammen med konto 4130:
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 
 **Korrekt bokfÃ¸ring** av kjÃ¸p og MVA sikrer nÃ¸yaktig regnskapsfÃ¸ring og legger grunnlaget for riktig varelager og skattemeldinger.
+

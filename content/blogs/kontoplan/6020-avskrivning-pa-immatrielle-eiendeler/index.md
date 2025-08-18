@@ -1,5 +1,5 @@
 ﻿---
-title: "6020-avskrivning-pa-immatrielle-eiendeler"
+title: "Konto 6020 - Avskrivning pÃ¥ immaterielle eiendeler"
 meta_title: "6020-avskrivning-pa-immatrielle-eiendeler"
 meta_description: '**Konto 6020 - Avskrivning pÃ¥ immaterielle eiendeler** er en konto i norsk kontoplan som benyttes for Ã¥ fordele **anskaffelseskostnaden** til immaterielle eie...'
 slug: 6020-avskrivning-pa-immatrielle-eiendeler
@@ -62,3 +62,4 @@ BokfÃ¸ring av amortisering mÃ¥ fÃ¸lge gjeldende standarder som [IASÂ 38/
 * [Konto 1030 - Patenter](/blogs/kontoplan/1030-patenter "Konto 1030 - Patenter")
 * [Konto 1050 - Varemerker](/blogs/kontoplan/1050-varemerker "Konto 1050 - Varemerker")
 * [Konto 1060 - Andre rettigheter](/blogs/kontoplan/1060-andre-rettigheter "Konto 1060 - Andre rettigheter")
+

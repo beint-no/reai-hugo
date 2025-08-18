@@ -71,3 +71,7 @@ BoliglÃ¥n med flytende rente er ofte priset som **NIBOR + margin**, slik at en
 * [Finansinntekt](/blogs/regnskap/finansinntekt "Finansinntekt “ Renter, utbytte og kapitalgevinster i norsk regnskap")
 
 
+
+
+
+

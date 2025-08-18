@@ -52,3 +52,7 @@ Metoden for forholdsmessig fradragsrett er beskrevet i [merverdiavgiftsloven](/b
 
 
 
+
+
+
+

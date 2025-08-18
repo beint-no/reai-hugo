@@ -1,5 +1,5 @@
 ﻿---
-title: "1080"
+title: "Hva er Konto 1080 - Goodwill?"
 meta_title: "1080"
 meta_description: '**Konto 1080 - Goodwill** er en av de mest komplekse kontiene i norsk kontoplan og representerer den delen av [anskaffelseskostnaden](/blogs/regnskap/hva-er-ans...'
 slug: 1080
@@ -161,3 +161,4 @@ Konto 1080 - Goodwill er en kompleks, men viktig del av norsk regnskapsfÃ¸ring
 * **Kontinuerlig oppfÃ¸lging** av verdifendringer
 
 Ved Ã¥ fÃ¸lge gjeldende regnskapsstandarder og beste praksis kan virksomheter sikre at goodwill reflekterer den faktiske verdien av immaterielle eiendeler og gir interessenter et korrekt bilde av virksomhetens finansielle stilling.
+

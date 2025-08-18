@@ -77,3 +77,7 @@ Emisjon kan fÃ¸re til utvanning og midlertidig kursnedgang, men samtidig gi se
 
 
 
+
+
+
+

@@ -62,3 +62,6 @@ Ved utbetaling til utenlandske rettighetshavere kan det vÃ¦re krav om **kildes
 Royalty er en viktig modell for Ã¥ fordele verdien av immaterielle rettigheter mellom rettighetshaver og bruker. **Korrekt regnskapsfÃ¸ring** og tydelige avtalevilkÃ¥r er avgjÃ¸rende for Ã¥ sikre riktig inntektsfÃ¸ring, kostnadsfÃ¸ring og skatterapportering i norsk regnskap.
 
 
+
+
+

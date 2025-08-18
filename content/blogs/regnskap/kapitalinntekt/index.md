@@ -63,3 +63,7 @@ Kapitalinntekter inngÃ¥r i [alminnelig inntekt](/blogs/regnskap/alminnelig-inn
 * [Hva er skatt?](/blogs/regnskap/hva-er-skatt "Hva er Skatt? Oversikt over skatteregler for privatpersoner og foretak")
 
 
+
+
+
+

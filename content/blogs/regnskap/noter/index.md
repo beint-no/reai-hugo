@@ -77,3 +77,7 @@ For mer informasjon, se ogsÃ¥:
 **Noter** er mer enn en lovpÃ¥lagt formalitet; de er nÃ¸kkelen til **gjennomsiktighet** og **innsikt** i Ã¥rsregnskapet. Gjennom systematisk planlegging, konsistent struktur og god internkontroll kan noter bli et strategisk verktÃ¸y som styrker tilliten mellom selskapet og dets interessenter.
 
 
+
+
+
+

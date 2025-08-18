@@ -51,3 +51,6 @@ Verdiskapning kan mÃ¥les ved ulike nÃ¸kkeltall:
 **Verdiskapning** er kjernen i en bedrifts langsiktige suksess. Ved Ã¥ fokusere pÃ¥ **Ã¸konomisk vekst**, **bÃ¦rekraft** og **ressurseffektivitet** kan selskaper skape varig verdi for bÃ¥de eiere og samfunnet.
 
 
+
+
+

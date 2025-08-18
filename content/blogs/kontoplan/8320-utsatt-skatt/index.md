@@ -1,5 +1,5 @@
 ﻿---
-title: "8320-utsatt-skatt"
+title: "Hva er Konto 8320 - Utsatt skatt?"
 meta_title: "8320-utsatt-skatt"
 meta_description: '**Konto 8320 - Utsatt skatt** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ vise **utsatt skatt** som skattekostnad i [resultatregnskapet](/blogs/reg...'
 slug: 8320-utsatt-skatt
@@ -70,3 +70,4 @@ Skattekostnaden som er periodisert i **Konto 8320 - Utsatt skatt** inngÃ¥r i [
 * [Konto 2510 - Betalbar skatt, utlignet](/blogs/kontoplan/2510-betalbar-skatt-utlignet "Konto 2510 - Betalbar skatt, utlignet")
 * [Konto 2530 - Refusjon skatt etter Skatteloven Â§31 5. ledd](/blogs/kontoplan/2530-refusjon-skatt-etter-skatteloven-31-5-ledd "Konto 2530 - Refusjon skatt etter Skatteloven Â§31 5. ledd")
 * [Resultatregnskap](/blogs/regnskap/hva-er-resultatregnskap "Hva er Resultatregnskap? Oppbygning og Analyse")
+

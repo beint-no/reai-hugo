@@ -299,3 +299,7 @@ Forskuddsbetalinger vil fortsette Ã¥ vÃ¦re en viktig del av moderne forretni
 Se ogsÃ¥ [Konto 1710 - Forskuddsbetalte renter](/blogs/kontoplan/1710-forskuddsbetalte-renter "Konto 1710 - Forskuddsbetalte renter: RegnskapsfÃ¸ring av forhÃ¥ndsbetalte renter") for mer om regnskapsmessig behandling av forskuddsbetalte rentekostnader.
 
 
+
+
+
+

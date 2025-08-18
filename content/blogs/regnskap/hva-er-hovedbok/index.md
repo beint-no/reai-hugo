@@ -287,3 +287,7 @@ For norske virksomheter er det essensielt Ã¥ etablere robuste rutiner for hove
 Investering i gode hovedboksystemer og -rutiner gir langsiktige fordeler gjennom bedre kontroll, raskere rapportering og mer pÃ¥litelig grunnlag for strategiske beslutninger. Dette gjÃ¸r hovedboken til en kritisk suksessfaktor for enhver virksomhets Ã¸konomiske styring og utvikling.
 
 
+
+
+
+

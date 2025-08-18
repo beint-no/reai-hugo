@@ -1,5 +1,5 @@
 ﻿---
-title: "6570-arbeidsklaer-og-verneutstyr"
+title: "Hva er Konto 6570 - ArbeidsklÃ¦r og verneutstyr?"
 meta_title: "6570-arbeidsklaer-og-verneutstyr"
 meta_description: '**Konto 6570 - ArbeidsklÃ¦r og verneutstyr** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kostnader til arbeidsklÃ¦r og verneutstyr** i...'
 slug: 6570-arbeidsklaer-og-verneutstyr
@@ -62,3 +62,4 @@ Andre kontoer i NSÂ 4102 som ofte brukes sammen med konto 6570:
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 * [Hva er Avskrivning?](/blogs/regnskap/hva-er-avskrivning "Hva er Avskrivning? Metoder, Beregning og Praktiske Eksempler")
 * [Hva er Saldoavskrivning?](/blogs/regnskap/hva-er-saldoavskrivning "Hva er Saldoavskrivning i Regnskap? Fordeler og Ulemper")
+

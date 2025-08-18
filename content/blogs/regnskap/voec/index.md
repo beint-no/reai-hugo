@@ -78,3 +78,6 @@ Registrering skjer gjennom [VOEC-portalen](https://www.skatteetaten.no/voec) hos
 For forsendelser over 3Â 000Â NOK er varene ikke lenger omfattet av VOEC, og kunden mÃ¥ betale norsk importmoms og eventuell toll ved grensen.
 
 
+
+
+

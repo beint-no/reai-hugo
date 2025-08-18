@@ -53,3 +53,7 @@ For mer informasjon om praktisk bruk av OCR i fakturahÃ¥ndtering, se [Fakturab
 Utforsk ogsÃ¥ [BankGiro](/blogs/regnskap/hva-er-bankgiro "Hva er BankGiro? Komplett Guide til Norsk Betalingssystem") for bruk av OCR-nummer i betalingsprosesser.
 
 
+
+
+
+

@@ -84,3 +84,7 @@ I endelig avregning mot faktisk skatt i skattemeldingen:
 *Relaterte artikler:* [Betalbar skatt](/blogs/regnskap/betalbar-skatt "Betalbar skatt - Faktisk skatteforpliktelse i regnskapet"), [Skattemelding](/blogs/regnskap/skattemelding "Skattemelding - Komplett Guide til Utfylling og Innlevering"), [ForhÃ¥ndsfastsetting](/blogs/regnskap/forhandsfastsetting "Hva er ForhÃ¥ndsfastsetting?"), [Restskatt](/blogs/regnskap/restskatt "Restskatt “ Hva er restskatt og hvordan beregnes den?")
 
 
+
+
+
+

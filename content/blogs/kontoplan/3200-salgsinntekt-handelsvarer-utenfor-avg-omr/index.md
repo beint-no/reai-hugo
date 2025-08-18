@@ -1,5 +1,5 @@
 ﻿---
-title: "3200-salgsinntekt-handelsvarer-utenfor-avg-omr"
+title: "Konto 3200 - Salgsinntekt handelsvarer utenfor avg.omr"
 meta_title: "3200-salgsinntekt-handelsvarer-utenfor-avg-omr"
 meta_description: '**Konto 3200 - Salgsinntekt handelsvarer utenfor avg.omr** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **salgsinntekter** fra **handelsv...'
 slug: 3200-salgsinntekt-handelsvarer-utenfor-avg-omr
@@ -52,3 +52,4 @@ RegnskapsfÃ¸ring av **salgsinntekter utenfor avgiftsomrÃ¥det** fÃ¸lger inn
 * [Konto 3280 - Rabatter og annen salgsinntektsreduksjon utenfor avg.omr](/blogs/kontoplan/3280-rabatter-og-annen-salgsinntektsreduksjon-utenfor-avg-omr "Konto 3280 - Rabatter og annen salgsinntektsreduksjon utenfor avg.omr")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 * [Hva er Omsetning?](/blogs/regnskap/hva-er-omsetning "Hva er Omsetning? Komplett Guide til Omsetning i Regnskap og Skatt")
+

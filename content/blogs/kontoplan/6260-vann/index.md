@@ -1,5 +1,5 @@
 ﻿---
-title: "6260-vann"
+title: "Konto 6260 - Vann"
 meta_title: "6260-vann"
 meta_description: '**Konto 6260 - Vann** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **vannforbruk** og **vannavgifter** i virksomhetens drift.'
 slug: 6260-vann
@@ -57,3 +57,4 @@ Andre kontoer i NSÂ 4102 som ofte brukes sammen med konto 6260:
 * [Konto 6300 - Leie lokaler](/blogs/kontoplan/6300-leie-lokaler "Konto 6300 - Leie lokaler")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 * [Hva er en Faktura?](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav")
+

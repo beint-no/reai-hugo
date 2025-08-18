@@ -1,5 +1,5 @@
 ﻿---
-title: "7750-eiendoms-og-festeavgifter"
+title: "Konto 7750 - Eiendoms- og festeavgifter"
 meta_title: "7750-eiendoms-og-festeavgifter"
 meta_description: '**Konto 7750 - Eiendoms- og festeavgifter** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **eiendoms- og festeavgifter**, inkludert kommun...'
 slug: 7750-eiendoms-og-festeavgifter
@@ -58,3 +58,4 @@ Andre kontoer i samme avgifts- og kostnadsgruppe:
 * [Konto 7745 - Ã˜reavrunding, avgiftspliktig](/blogs/kontoplan/7745-oreavrunding-avgiftspliktig "Konto 7745 - Ã˜reavrunding, avgiftspliktig")
 * [Konto 7746 - Ã˜reavrunding, avgiftsfritt](/blogs/kontoplan/7746-oreavrunding-avgiftsfritt "Konto 7746 - Ã˜reavrunding, avgiftsfritt")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

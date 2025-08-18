@@ -68,3 +68,7 @@ For en mer detaljert beskrivelse av hvert enkelt register, se ogsÃ¥:
 
 
 
+
+
+
+

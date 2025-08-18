@@ -1,5 +1,5 @@
 ﻿---
-title: "8950-fondsemisjon"
+title: "Konto 8950 - Fondsemisjon"
 meta_title: "8950-fondsemisjon"
 meta_description: '**Konto 8950 - Fondsemisjon** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til Ã¥ registrere **fondsemisjon** ved overfÃ¸ring av fri egenkapital...'
 slug: 8950-fondsemisjon
@@ -39,3 +39,4 @@ _*Bruk **annen egenkapital** som kilde for kapitalforhÃ¸yelsen ved fondsemisjo
 * [Konto 8940 - AksjonÃ¦rbidrag](/blogs/kontoplan/8940-aksjonaerbidrag "Konto 8940 - AksjonÃ¦rbidrag: AksjonÃ¦rbidrag mellom selskap og aksjonÃ¦r")
 * [Hva er egenkapital?](/blogs/regnskap/hva-er-egenkapital "Hva er Egenkapital? Komplett Guide til Egenkapital i Regnskap")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

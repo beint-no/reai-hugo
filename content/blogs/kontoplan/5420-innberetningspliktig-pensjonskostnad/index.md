@@ -1,5 +1,5 @@
 ﻿---
-title: "5420-innberetningspliktig-pensjonskostnad"
+title: "Konto 5420 - Innberetningspliktig pensjonskostnad"
 meta_title: "5420-innberetningspliktig-pensjonskostnad"
 meta_description: '**Konto 5420 - Innberetningspliktig pensjonskostnad** er en konto innen **lÃ¸nns- og personalkostnader** i Norsk Standard Kontoplan (NSÂ 4102) som brukes til Ã¥...'
 slug: 5420-innberetningspliktig-pensjonskostnad
@@ -41,3 +41,4 @@ Andre kontoer i NSÂ 4102 som er relevante i forbindelse med pensjonskostnader:
 * [Konto 5400 - Arbeidsgiveravgift](/blogs/kontoplan/5400-arbeidsgiveravgift "Konto 5400 - Arbeidsgiveravgift")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 * [Hva er Pensjon?](/blogs/regnskap/hva-er-pensjon "Hva er Pensjon? Komplett Guide til Norsk Pensjonssystem")
+

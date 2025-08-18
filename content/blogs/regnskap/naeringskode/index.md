@@ -63,3 +63,7 @@ Ja, du kan endre kode ved Ã¥ oppdatere opplysningene i [Enhetsregisteret](/blo
 For mer om rapportering, se [Hva er nÃ¦ringsoppgave?](/blogs/regnskap/hva-er-naeringsoppgave "Hva er en nÃ¦ringsoppgave?").
 
 
+
+
+
+

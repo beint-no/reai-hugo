@@ -1,5 +1,5 @@
 ﻿---
-title: "1550-kundefordringer-pa-selskap-samme-konsern"
+title: "Hva er Konto 1550 - Kundefordringer pÃ¥ selskap samme konsern?"
 meta_title: "1550-kundefordringer-pa-selskap-samme-konsern"
 meta_description: '**Konto 1550 - Kundefordringer pÃ¥ selskap samme konsern** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kundefordringer** mellom selska...'
 slug: 1550-kundefordringer-pa-selskap-samme-konsern
@@ -53,3 +53,4 @@ Kredit: Konto 1550 - Kundefordringer pÃ¥ selskap samme konsern
 * [Konto 2260 - Gjeld til selskap i samme konsern](/blogs/kontoplan/2260-gjeld-til-selskap-i-samme-konsern "Konto 2260 - Gjeld til selskap i samme konsern")
 * [Hva er Konsern?](/blogs/regnskap/hva-er-konsern "Hva er Konsern? Komplett Guide til Konsernstrukturer og Konsernregnskap")
 * [Hva er en faktura?](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav")
+

@@ -304,3 +304,7 @@ Suksessfull implementering av dataflyt krever en **helhetlig tilnÃ¦rming** som
 Investering i robust dataflyt-infrastruktur vil vÃ¦re avgjÃ¸rende for konkurranseevne og bÃ¦rekraft i fremtidens landbruk. Ved Ã¥ starte med enkle lÃ¸sninger og gradvis bygge ut kompleksiteten, kan landbruksvirksomheter dra nytte av digitaliseringens muligheter samtidig som de hÃ¥ndterer utfordringene pÃ¥ en kontrollert mÃ¥te.
 
 
+
+
+
+

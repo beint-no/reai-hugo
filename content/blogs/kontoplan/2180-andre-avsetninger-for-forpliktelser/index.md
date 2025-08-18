@@ -1,5 +1,5 @@
 ﻿---
-title: "2180-andre-avsetninger-for-forpliktelser"
+title: "Konto 2180 - Andre avsetninger for forpliktelser"
 meta_title: "2180-andre-avsetninger-for-forpliktelser"
 meta_description: '**Konto 2180 - Andre avsetninger for forpliktelser** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **andre avsetninger for forpliktelser**...'
 slug: 2180-andre-avsetninger-for-forpliktelser
@@ -60,3 +60,4 @@ Andre kontoer i NSÂ 4102 som ofte benyttes sammen med konto 2180:
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 
 **Riktig bruk** av konto 2180 sikrer at selskapets forpliktelser vurderes og bokfÃ¸res korrekt i balansen.
+

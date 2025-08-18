@@ -302,3 +302,7 @@ Grunnrenteskatt vil fortsette Ã¥ vÃ¦re et sentralt element i norsk nÃ¦ring
 For virksomheter som vurderer investeringer i sektorer som omfattes av grunnrenteskatt, er det viktig Ã¥ inkludere skatteeffektene i [budsjettering](/blogs/regnskap/hva-er-budsjettering "Hva er Budsjettering? Komplett Guide til Budsjettplanlegging") og lÃ¸nnsomhetsanalyser fra tidlig fase.
 
 
+
+
+
+

@@ -88,3 +88,7 @@ Kapitalkostnaden er et uttrykk for avkastningskravet pÃ¥ selskapets samlede ka
 * [Hva er indirekte kostnader?](/blogs/regnskap/hva-er-indirekte-kostnader "Hva er Indirekte kostnader? Definisjon, Eksempler og RegnskapsfÃ¸ring")
 
 
+
+
+
+

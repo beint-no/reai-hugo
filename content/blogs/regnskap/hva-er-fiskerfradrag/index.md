@@ -80,3 +80,7 @@ Fiskerfradrag fÃ¸res som et eget fradrag i resultatregnskapet, atskilt fra ord
 **Fiskerfradrag** er et viktig verktÃ¸y for fiskeri- og havbruksnÃ¦ringen for Ã¥ sikre Ã¸konomisk stabilitet og langsiktig bÃ¦rekraft. Ved Ã¥ forstÃ¥ grunnlaget, beregningsmetoder og dokumentasjonskrav kan fiskere optimalisere sine skatteposisjoner og investere i framtiden.
 
 
+
+
+
+

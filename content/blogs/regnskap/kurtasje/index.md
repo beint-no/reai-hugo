@@ -78,3 +78,7 @@ DEBET: Kurtasjekostnad                  100
 * [Hva er Kurtasje?](/blogs/regnskap/kurtasje "Hva er Kurtasje? Megleravgift ved kjÃ¸p og salg av verdipapirer")
 
 
+
+
+
+

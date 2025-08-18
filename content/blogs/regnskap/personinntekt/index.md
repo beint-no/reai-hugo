@@ -69,3 +69,7 @@ En korrekt beregnet personinntekt sikrer:
 God forstÃ¥else av **personinntekt** er sentralt for personlig Ã¸konomi og skatteplanlegging.
 
 
+
+
+
+

@@ -1,5 +1,5 @@
 ﻿---
-title: "1614-inngaaende-merverdiavgift-lav-sats"
+title: "Hva er Konto 1614 - InngÃ¥ende merverdiavgift lav sats?"
 meta_title: "1614-inngaaende-merverdiavgift-lav-sats"
 meta_description: '**Konto 1614 - InngÃ¥ende merverdiavgift lav sats** brukes for Ã¥ bokfÃ¸re *inngÃ¥ende merverdiavgift* pÃ¥ varer og tjenester som har den **reduserte MVA-satsen...'
 slug: 1614-inngaaende-merverdiavgift-lav-sats
@@ -43,3 +43,4 @@ For mer informasjon om MVA og avgiftsplikt se:
 * [Hva er avgiftsplikt (MVA)?](/blogs/regnskap/hva-er-avgiftsplikt-mva "Hva er Avgiftsplikt (MVA)?")
 * [Hva er kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er Kontoplan?")
 * [Konto 2714 - InngÃ¥ende merverdiavgift lav sats](/blogs/kontoplan/2714-inngaaende-merverdiavgift-lav-sats "Konto 2714 - InngÃ¥ende merverdiavgift lav sats")
+

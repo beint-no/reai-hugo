@@ -349,3 +349,7 @@ Dekningspunkt-analyse bÃ¸r vÃ¦re en integrert del av enhver bedrifts finansi
 
 
 
+
+
+
+

@@ -51,3 +51,6 @@ Soliditet bÃ¸r vurderes sammen med andre finansielle nÃ¸kkeltall som [likvid
 Soliditet gir et viktig bilde av virksomhetens evne til Ã¥ stÃ¥ imot Ã¸konomiske pÃ¥kjenninger. Ved Ã¥ overvÃ¥ke egenkapitalandelen kan ledelsen fatteÂ informerte beslutninger om finansiering, utbytte og bÃ¦rekraftig vekst.
 
 
+
+
+

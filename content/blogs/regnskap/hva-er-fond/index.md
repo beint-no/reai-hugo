@@ -51,3 +51,7 @@ Ved regnskapsfÃ¸ring skal bundne fond skilles fra fri egenkapital i balansen, 
 Gjennom systematisk merking av fondstyper i kontoplanen sikres korrekt regnskapsrapportering og overholdelse av lovkrav.
 
 
+
+
+
+

@@ -1,5 +1,5 @@
 ﻿---
-title: "6110-toll-og-spedisjonskostnad"
+title: "Konto 6110 - Toll og spedisjonskostnad"
 meta_title: "6110-toll-og-spedisjonskostnad"
 meta_description: '**Konto 6110 - Toll og spedisjonskostnad** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **toll** og **spedisjonskostnader** ved import av...'
 slug: 6110-toll-og-spedisjonskostnad
@@ -60,3 +60,4 @@ Andre kontoer i NSÂ 4102 som ofte brukes sammen med konto 6110:
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 
 **Riktig bokfÃ¸ring** av **toll** og **spedisjonskostnader** sikrer korrekt kostnadsallokering og rapportering.
+

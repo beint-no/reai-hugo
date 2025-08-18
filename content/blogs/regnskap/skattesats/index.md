@@ -50,3 +50,6 @@ For mer detaljer om marginalskatt og trinnskatt, se [Hva er Marginalskatt?](/blo
 Denne artikkelen gir en oversikt over de vanligste **skattesatsene** i Norge. For spesifikke detaljer innen personskatt og justeringer i skatteberegningen, se vÃ¥re artikler om [Skatteberegning](/blogs/regnskap/skatteberegning "Skatteberegning - Komplett Guide til Skatteberegning") og [Hva er Marginalskatt?](/blogs/regnskap/hva-er-marginalskatt "Hva er Marginalskatt? Komplett guide til marginalskatt").
 
 
+
+
+

@@ -1,5 +1,5 @@
 ﻿---
-title: "8060-valutagevinst-agio"
+title: "Hva er Konto 8060 - Valutagevinst (Agio)?"
 meta_title: "8060-valutagevinst-agio"
 meta_description: '**Konto 8060 - Valutagevinst (Agio)** er en konto i Norsk Standard Kontoplan som brukes for Ã¥ registrere **gevinst ved valutakursendringer** (ofte kalt *agio*)...'
 slug: 8060-valutagevinst-agio
@@ -47,3 +47,4 @@ En virksomhet har 10Â 000Â USD pÃ¥ bankkonto. Opprinnelig omregningskurs v
 * [Konto 8050 - Annen renteinntekt](/blogs/kontoplan/8050-annen-renteinntekt "Konto 8050 - Annen renteinntekt: RegnskapsfÃ¸ring av annen renteinntekt")
 * [Konto 8160 - Valutatap (Disagio)](/blogs/kontoplan/8160-valutatap-disagio "Konto 8160 - Valutatap (Disagio)")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

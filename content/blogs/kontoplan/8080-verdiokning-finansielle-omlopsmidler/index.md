@@ -1,5 +1,5 @@
 ﻿---
-title: "8080-verdiokning-finansielle-omlopsmidler"
+title: "Hva er Konto 8080 - VerdiÃ¸kning finansielle omlÃ¸psmidler?"
 meta_title: "8080-verdiokning-finansielle-omlopsmidler"
 meta_description: '**Konto 8080 - VerdiÃ¸kning finansielle omlÃ¸psmidler** er en konto i Norsk Standard Kontoplan som brukes for Ã¥ resultatfÃ¸re **urealiserte gevinster** pÃ¥ **f...'
 slug: 8080-verdiokning-finansielle-omlopsmidler
@@ -49,3 +49,4 @@ Typiske eksempler:
 * [Hva er Periodisering i Regnskap?](/blogs/regnskap/hva-er-periodisering "Hva er Periodisering i Regnskap? Guide til periodisering av kostnader og inntekter")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 * [Konto 8110 - Nedskrivning finansielle omlÃ¸psmidler](/blogs/kontoplan/8110-nedskrivning-finansielle-omlopsmidler "Konto 8110 - Nedskrivning finansielle omlÃ¸psmidler")
+

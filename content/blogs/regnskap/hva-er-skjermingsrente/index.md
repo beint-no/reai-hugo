@@ -956,3 +956,7 @@ Ved Ã¥ forstÃ¥ og effektivt utnytte skjermingsrenten som et strategisk verkt
 For en helhetlig gjennomgang av aksjonÃ¦rbeskatning, se [AksjonÃ¦rmodellen](/blogs/regnskap/aksjonaermodellen-guide "AksjonÃ¦rmodellen - Komplett Guide til Norsk Aksjebeskatning").
 
 
+
+
+
+

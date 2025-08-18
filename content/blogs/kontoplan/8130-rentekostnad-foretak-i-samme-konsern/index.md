@@ -1,5 +1,5 @@
 ﻿---
-title: "8130-rentekostnad-foretak-i-samme-konsern"
+title: "Hva er Konto 8130 - Rentekostnad foretak i samme konsern?"
 meta_title: "8130-rentekostnad-foretak-i-samme-konsern"
 meta_description: '**Konto 8130 - Rentekostnad foretak i samme konsern** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **rentekostnader** mellom konsernselsk...'
 slug: 8130-rentekostnad-foretak-i-samme-konsern
@@ -40,3 +40,4 @@ layout: pages/single
 * [Konto 8150 - Annen rentekostnad](/blogs/kontoplan/8150-annen-rentekostnad "Konto 8150 - Annen rentekostnad: Guide til andre rentekostnader")
 * [Konto 8030 - Renteinntekt pÃ¥ foretak i samme konsern](/blogs/kontoplan/8030-renteinntekt-pa-foretak-i-samme-konsern "Konto 8030 - Renteinntekt pÃ¥ foretak i samme konsern")
 * [Hva er Konsern?](/blogs/regnskap/hva-er-konsern "Hva er Konsern? Komplett Guide til Konsernstrukturer og Konsernregnskap")
+

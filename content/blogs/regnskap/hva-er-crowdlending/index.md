@@ -233,3 +233,7 @@ For bedrifter som vurderer crowdlending som finansieringsalternativ, anbefales d
 
 
 
+
+
+
+

@@ -1,5 +1,5 @@
 ﻿---
-title: "1320"
+title: "Konto 1320 - LÃ¥n til foretak samme konsern"
 meta_title: "1320"
 meta_description: '**Konto 1320 - LÃ¥n til foretak samme konsern** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **konserninterne lÃ¥n** til andre selskaper ...'
 slug: 1320
@@ -87,3 +87,4 @@ Kredit: Konto 1920 - Bankinnskudd                     100â€¯000
 * [Konto 1550 - Kundefordringer pÃ¥ selskap samme konsern](/blogs/kontoplan/1550-kundefordringer-pa-selskap-samme-konsern "Konto 1550 - Kundefordringer pÃ¥ selskap samme konsern")
 * [Konto 2260 - Gjeld til selskap i samme konsern](/blogs/kontoplan/2260-gjeld-til-selskap-i-samme-konsern "Konto 2260 - Gjeld til selskap i samme konsern")
 * [Konto 8030 - Renteinntekt pÃ¥ foretak i samme konsern](/blogs/kontoplan/8030-renteinntekt-pa-foretak-i-samme-konsern "Konto 8030 - Renteinntekt pÃ¥ foretak i samme konsern: RegnskapsfÃ¸ring av konserninterne renteinntekter")
+

@@ -70,3 +70,7 @@ NÃ¥verdi brukes i flere sammenhenger i regnskap og finans:
 - [Internrente](/blogs/regnskap/internrente "Internrente (IRR) Forklaring og Beregning i Regnskap")
 
 
+
+
+
+

@@ -81,3 +81,6 @@ Mer om endelig skatt i skatteoppgjÃ¸ret se [Utlignet skatt](/blogs/regnskap/ut
 Gjennom en systematisk tilnÃ¦rming til skatteberegning sikres korrekt rapportering og bedre oversikt over skatteforpliktelser.
 
 
+
+
+

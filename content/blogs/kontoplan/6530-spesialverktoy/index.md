@@ -1,5 +1,5 @@
 ﻿---
-title: "6530-spesialverktoy"
+title: "Konto 6530 - SpesialverktÃ¸y"
 meta_title: "6530-spesialverktoy"
 meta_description: '**Konto 6530 - SpesialverktÃ¸y** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kostnader til spesialverktÃ¸y** i virksomhetens drift.'
 slug: 6530-spesialverktoy
@@ -63,3 +63,4 @@ Kredit Konto 2400 - LeverandÃ¸rgjeld       62Â 500Â NOK
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 * [Hva er Avskrivning?](/blogs/regnskap/hva-er-avskrivning "Hva er Avskrivning i Regnskap? Metoder, Beregning og Praktiske Eksempler")
 * [Hva er en Faktura?](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav")
+

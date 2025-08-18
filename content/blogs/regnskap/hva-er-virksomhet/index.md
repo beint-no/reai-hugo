@@ -48,3 +48,7 @@ Som regnskapsenhet mÃ¥ virksomheten forholde seg til [bokfÃ¸ringsloven](/blo
 **Virksomhet** som regnskapsenhet avgrenser hva som skal inkluderes i regnskapet, og er grunnlaget for bokfÃ¸rings- og regnskapsplikten. Ã… forstÃ¥ skillet mellom juridisk virksomhet (foretak) og regnskapsmessig virksomhet, samt sammenhengen til nÃ¦ringsvirksomhet, er sentralt for korrekt regnskapsrapportering.
 
 
+
+
+
+

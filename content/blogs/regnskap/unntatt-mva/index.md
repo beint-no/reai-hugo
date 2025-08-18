@@ -37,3 +37,6 @@ Les mer om [MVA-satser og unntak i Norge](/blogs/regnskap/hva-er-moms-mva "Hva e
 For e-handel til privatpersoner hÃ¥ndtert via VOEC-ordningen, se [Hva er VOEC?](/blogs/regnskap/voec "Hva er VOEC? Komplett guide til VOEC-ordningen").
 
 
+
+
+

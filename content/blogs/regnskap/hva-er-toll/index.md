@@ -310,3 +310,7 @@ Den digitale transformasjonen av tollsektoren, kombinert med endrete geopolitisk
 For Ã¥ sikre korrekt regnskapsfÃ¸ring av toll og importkostnader, bÃ¸r bedrifter implementere robuste systemer for [bilagsmottak](/blogs/regnskap/hva-er-bilagsmottak "Bilagsmottak - Komplett Guide til Dokumentmottak og Fakturabehandling") og [attestering](/blogs/regnskap/hva-er-attestering "Hva er Attestering? En Komplett Guide til Bilagsbehandling og Godkjenning") som sikrer at alle tollkostnader fanges opp og bokfÃ¸res korrekt i samsvar med god regnskapsskikk.
 
 
+
+
+
+

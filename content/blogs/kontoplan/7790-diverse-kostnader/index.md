@@ -1,5 +1,5 @@
 ﻿---
-title: "7790-diverse-kostnader"
+title: "Konto 7790 - Diverse kostnader"
 meta_title: "7790-diverse-kostnader"
 meta_description: '**Konto 7790 - Diverse kostnader** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til Ã¥ registrere **diverse kostnader** som ikke naturlig fa...'
 slug: 7790-diverse-kostnader
@@ -50,3 +50,4 @@ Kredit: Konto 1920 - Bankinnskudd
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")  
 
 **Konto 7790 - Diverse kostnader** gir en fleksibel lÃ¸sning for Ã¥ bokfÃ¸re mindre og uforutsette utgifter som ikke dekkes av spesialiserte kostnadskonti.
+

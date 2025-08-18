@@ -58,3 +58,7 @@ For en helhetlig forstÃ¥else av ekstreme Ã¸konomiske hendelser, se [Hva er I
 **Stagflasjon** er en kompleks utfordring som krever at bedrifter og beslutningstakere kombinerer verktÃ¸y fra bÃ¥de inflasjonsbekjempelse og konjunkturstyring. Ved Ã¥ forstÃ¥ fenomenets Ã¥rsaker og konsekvenser, kan man bedre navigere i perioder med hÃ¸y prisvekst og svak vekst.
 
 
+
+
+
+

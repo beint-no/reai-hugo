@@ -1,5 +1,5 @@
 ﻿---
-title: "1020"
+title: "Hva er Konto 1020 - Konsesjoner?"
 meta_title: "1020"
 meta_description: '**Konto 1020 - Konsesjoner** er en viktig konto for virksomheter som har ervervede rettigheter, lisenser og konsesjoner som gir dem spesielle forrettigheter ell...'
 slug: 1020
@@ -282,3 +282,4 @@ I notene mÃ¥ det opplyses om:
 * [Hva er Balanse?](/blogs/regnskap/hva-er-balanse "Hva er Balanse?")
 * [Hva er Anskaffelseskost?](/blogs/regnskap/hva-er-anskaffelseskost "Hva er Anskaffelseskost?")
 * [Hva er Nedskrivning?](/blogs/regnskap/hva-er-nedskrivning "Hva er Nedskrivning?")
+

@@ -1,5 +1,5 @@
 ﻿---
-title: "8100-verdireduksjon-finansielle-omlopsmidler"
+title: "Konto 8100 - Verdireduksjon finansielle omlÃ¸psmidler"
 meta_title: "8100-verdireduksjon-finansielle-omlopsmidler"
 meta_description: '**Konto 8100 - Verdireduksjon finansielle omlÃ¸psmidler** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **nedskrivning** eller verdiforrin...'
 slug: 8100-verdireduksjon-finansielle-omlopsmidler
@@ -68,3 +68,4 @@ Kredit: Konto 1360 - Obligasjoner                             2Â 000 kr
 * [Hva er Nedskrivning?](/blogs/regnskap/hva-er-nedskrivning "Hva er Nedskrivning? Komplett Guide til Nedskrivning av Eiendeler")
 * [Konto 8110 - Nedskrivning finansielle omlÃ¸psmidler](/blogs/kontoplan/8110-nedskrivning-finansielle-omlopsmidler "Konto 8110 - Nedskrivning finansielle omlÃ¸psmidler")
 * [Konto 8120 - Nedskrivning finansielle anleggsmidler](/blogs/kontoplan/8120-nedskrivning-finansielle-anleggsmidler "Konto 8120 - Nedskrivning finansielle anleggsmidler")
+

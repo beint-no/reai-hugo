@@ -54,3 +54,6 @@ Ved bokfÃ¸ring av lÃ¸nn og ytelser mÃ¥ bedriften dokumentere at gjeldende 
 * [Feriepenger i prosent](/blogs/regnskap/feriepenger-i-prosent "Feriepenger i Prosent: Satser, Beregning og RegnskapsfÃ¸ring")
 
 
+
+
+

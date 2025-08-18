@@ -68,3 +68,6 @@ Selvstendig nÃ¦ringsdrivende passer godt for:
 Ã… vÃ¦re selvstendig nÃ¦ringsdrivende gir **frihet og fleksibilitet**, men krever ogsÃ¥ **ansvar for alt fra regnskap til kundehÃ¥ndtering**. Grundig planlegging av skatt, regnskap og forsikring er nÃ¸kkelen til suksess.
 
 
+
+
+

@@ -61,3 +61,7 @@ Reindriftsfradrag fÃ¸res som et eget fradrag i resultatregnskapet, separat fra
 **Reindriftsfradrag** er et viktig virkemiddel for reindriftsnÃ¦ringen for Ã¥ sikre stabilitet og bÃ¦rekraft. Ved Ã¥ forstÃ¥ regelverket, beregningsmetoder og dokumentasjonskrav kan reineiere optimalisere skatteposisjonen og investere i framtiden.
 
 
+
+
+
+

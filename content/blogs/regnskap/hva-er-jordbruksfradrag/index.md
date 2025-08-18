@@ -443,3 +443,7 @@ Landbruksforetak bÃ¸r etablere gode rutiner for hÃ¥ndtering av jordbruksfrad
 Den fortsatte digitaliseringen av landbrukssektoren vil gjÃ¸re administrasjonen av jordbruksfradeget mer effektiv, samtidig som det stiller nye krav til kompetanse og systemlÃ¸sninger. Fremtidens landbruksforetak mÃ¥ vÃ¦re forberedt pÃ¥ Ã¥ tilpasse seg disse endringene for Ã¥ kunne utnytte alle tilgjengelige fordeler.
 
 
+
+
+
+

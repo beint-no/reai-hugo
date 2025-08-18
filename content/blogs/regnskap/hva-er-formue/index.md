@@ -402,3 +402,7 @@ Ved Ã¥ fÃ¸lge prinsippene for **formueoppbygging**, **diversifisering** og *
 Regelmessig **formueanalyse** og **oppfÃ¸lging** av nÃ¸kkeltall sikrer at man holder oversikt over den Ã¸konomiske utviklingen og kan ta informerte beslutninger om fremtidig strategi og investeringer.
 
 
+
+
+
+

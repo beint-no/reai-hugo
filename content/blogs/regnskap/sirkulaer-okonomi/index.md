@@ -48,3 +48,6 @@ Ved Ã¥ integrere **sirkulÃ¦r Ã¸konomi** i regnskap og rapportering kan vir
 *Artikkelen ble sist oppdatert for Ã¥ gi en grundig oversikt over prinsipper og regnskapsmessige implikasjoner av sirkulÃ¦r Ã¸konomi.*
 
 
+
+
+

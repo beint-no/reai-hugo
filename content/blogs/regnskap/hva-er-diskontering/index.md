@@ -391,3 +391,7 @@ Husk at diskontering er bÃ¥de en kunst og en vitenskap - tekniske ferdigheter 
 
 
 
+
+
+
+

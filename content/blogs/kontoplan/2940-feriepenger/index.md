@@ -1,5 +1,5 @@
 ﻿---
-title: "2940-feriepenger"
+title: "Konto 2940 - Feriepenger"
 meta_title: "2940-feriepenger"
 meta_description: '**Konto 2940 - Feriepenger** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til Ã¥ registrere **opptjente feriepenger** som en del av **kortsi...'
 slug: 2940-feriepenger
@@ -66,3 +66,4 @@ Andre kontoer i NSÂ 4102 som ofte brukes sammen med konto 2940:
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 
 **Konto 2940 - Feriepenger** gjÃ¸r det mulig Ã¥ periodisere og synliggjÃ¸re ansattes opptjente feriepenger som en del av kortsiktig gjeld.
+

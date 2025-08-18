@@ -1,5 +1,5 @@
 ﻿---
-title: "Salg “ Komplett Guide til Salg i Norsk Regnskap"
+title: "Salg â€“ Komplett Guide til Salg i Norsk Regnskap"
 meta_title: "Salg “ Komplett Guide til Salg i Norsk Regnskap"
 meta_description: '**Salg** er en transaksjon hvor varer eller tjenester overfÃ¸res fra selger til kjÃ¸per, ofte mot betaling eller forpliktelse til betaling. I norsk regnskap er ...'
 slug: salg
@@ -76,5 +76,8 @@ Ved betaling av faktura reverseres debetposten pÃ¥ kundefordringer:
 ## Avslutning
 
 Salg er kjernen i de fleste forretningsmodeller og pÃ¥virker bÃ¥de likviditet, arbeidskapital og resultat. Ved Ã¥ fÃ¸lge klare rutiner for dokumentasjon, bokfÃ¸ring og internkontroll, kan virksomheter sikre nÃ¸yaktig regnskapsfÃ¸ring og bedre beslutningsgrunnlag.
+
+
+
 
 

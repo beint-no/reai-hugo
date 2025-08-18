@@ -1,5 +1,5 @@
 ﻿---
-title: "3800-gevinst-ved-avgang-av-anleggsmidler"
+title: "Konto 3800 - Gevinst ved avgang av anleggsmidler"
 meta_title: "3800-gevinst-ved-avgang-av-anleggsmidler"
 meta_description: '**Konto 3800 - Gevinst ved avgang av anleggsmidler** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **gevinst ved avgang av anleggsmidler**...'
 slug: 3800-gevinst-ved-avgang-av-anleggsmidler
@@ -55,3 +55,4 @@ Gevinst ved avgang av anleggsmidler rapporteres netto i resultatregnskapet under
 * [Hva er anleggsmidler?](/blogs/regnskap/hva-er-anleggsmidler "Hva er Anleggsmidler? Komplett Guide til Anleggsmidler i Regnskap")
 * [Hva er avskrivning?](/blogs/regnskap/hva-er-avskrivning "Hva er avskrivning? Guide til avskrivninger")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

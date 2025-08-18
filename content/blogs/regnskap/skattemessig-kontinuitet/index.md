@@ -49,3 +49,6 @@ Kontinuitetsprinsippet kan anvendes i flere scenarioer:
 _Denne artikkelen er en del av vÃ¥r serie om skattemessige prinsipper i norsk regnskap og skatt._
 
 
+
+
+

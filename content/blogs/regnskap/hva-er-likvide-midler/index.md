@@ -50,3 +50,7 @@ For Ã¥ optimalisere likvide midler anbefales det Ã¥:
 * Bruke [likviditetsbudsjett](/blogs/regnskap/likviditetsbudsjett "Hva er Likviditetsbudsjett? Komplett Guide til KontantstrÃ¸mplanlegging") og kontantstrÃ¸manalyse for Ã¥ forutse fremtidige behov.
 
 
+
+
+
+

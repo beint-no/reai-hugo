@@ -1,5 +1,5 @@
 ﻿---
-title: "2910-gjeld-til-ansatte-og-eiere"
+title: "Konto 2910 - Gjeld til ansatte og eiere"
 meta_title: "2910-gjeld-til-ansatte-og-eiere"
 meta_description: '**Konto 2910 - Gjeld til ansatte og eiere** er en konto i **Norsk Standard Kontoplan** som brukes til Ã¥ registrere **gjeld til ansatte** og **gjeld til eiere**...'
 slug: 2910-gjeld-til-ansatte-og-eiere
@@ -75,3 +75,4 @@ Total gjeld til ansatte og eiere bokfÃ¸res som fÃ¸lger:
 * [Konto 5800 - Refusjon av sykepenger](/blogs/kontoplan/5800-refusjon-av-sykepenger "Konto 5800 - Refusjon av sykepenger")
 * [Hva er gjeld?](/blogs/regnskap/hva-er-gjeld "Hva er Gjeld? Komplett Guide til Gjeld i Regnskap og Balanse")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

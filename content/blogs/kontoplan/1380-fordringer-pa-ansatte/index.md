@@ -1,5 +1,5 @@
 ﻿---
-title: "1380-fordringer-pa-ansatte"
+title: "Konto 1380 - Fordringer pÃ¥ ansatte"
 meta_title: "1380-fordringer-pa-ansatte"
 meta_description: '**Konto 1380 - Fordringer pÃ¥ ansatte** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **lÃ¥n**, **[forskudd pÃ¥ lÃ¸nn](/blogs/kontoplan/29...'
 slug: 1380-fordringer-pa-ansatte
@@ -85,3 +85,4 @@ Kredit: Konto 1920 - Bankinnskudd               50â€¯000
 * [Hva er Tapsavsetning?](/blogs/regnskap/tap-pa-fordring "Hva er Tapsavsetning? Behandling av fordringer")
 * [Hva er Langsiktig gjeld?](/blogs/regnskap/langsiktig-gjeld "Langsiktig gjeld")
 * [Konto 2930 - LÃ¸nn](/blogs/kontoplan/2930-lonn "Konto 2930 - LÃ¸nn")
+

@@ -1,5 +1,5 @@
 ﻿---
-title: "5290-motkonto-for-gruppe-52"
+title: "Konto 5290 - Motkonto for gruppe 52"
 meta_title: "5290-motkonto-for-gruppe-52"
 meta_description: '**Konto 5290 - Motkonto for gruppe 52** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som fungerer som **motkonto** for alle transaksjoner i gruppeÂ 52 ...'
 slug: 5290-motkonto-for-gruppe-52
@@ -67,3 +67,4 @@ En ansatt fÃ¥r fri telefon til en total verdi pÃ¥ 1â€¯000Â NOK:
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 
 **Konto 5290 - Motkonto for gruppeÂ 52** gir en enkel metode for Ã¥ avstemme og kontrollere alle ansattgoder under gruppeÂ 52 i regnskapet.
+

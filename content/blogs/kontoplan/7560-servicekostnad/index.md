@@ -1,5 +1,5 @@
 ﻿---
-title: "7560-servicekostnad"
+title: "Hva er Konto 7560 - Servicekostnad?"
 meta_title: "7560-servicekostnad"
 meta_description: '**Konto 7560 - Servicekostnad** er en **kostnadskonto** i Norsk Standard Kontoplan som brukes til Ã¥ registrere kostnader knyttet til **kjÃ¸p av tjenester** fra...'
 slug: 7560-servicekostnad
@@ -68,3 +68,4 @@ _*JustÃ©r kontonummer etter selskapets kontoplan og behov.*_
 * [Konto 7550 - Garantikostnad](/blogs/kontoplan/7550-garantikostnad "Konto 7550 - Garantikostnad: Definisjon, regnskapsfÃ¸ring og eksempler")
 * [Konto 3510 - Service](/blogs/kontoplan/3510-service "Konto 3510 - Service: Inntekter fra serviceytelser og eksempler")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

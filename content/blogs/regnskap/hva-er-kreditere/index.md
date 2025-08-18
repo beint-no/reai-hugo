@@ -277,3 +277,7 @@ Mens kreditering pÃ¥virker [resultatregnskapet](/blogs/regnskap/hva-er-driftsr
 Ved Ã¥ fÃ¸lge systematiske prosedyrer, implementere kvalitetskontroller og utnytte moderne teknologi, kan bedrifter sikre at deres krediteringspraksis stÃ¸tter bÃ¥de daglig drift og langsiktig finansiell planlegging.
 
 
+
+
+
+

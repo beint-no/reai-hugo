@@ -1,5 +1,5 @@
 ﻿---
-title: "7210-provisjonskostnader-ikke-oppgavepliktig"
+title: "Konto 7210 - Provisjonskostnader, ikke oppgavepliktig"
 meta_title: "7210-provisjonskostnader-ikke-oppgavepliktig"
 meta_description: '**Konto 7210 - Provisjonskostnader, ikke oppgavepliktig** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere provisjonskostnader som ikke er op...'
 slug: 7210-provisjonskostnader-ikke-oppgavepliktig
@@ -43,3 +43,4 @@ Ikke-oppgavepliktige provisjonskostnader presenteres netto under **andre driftsk
 * [Konto 2701 - UtgÃ¥ende merverdiavgift hÃ¸y sats](/blogs/kontoplan/2701-utgaende-merverdiavgift-hoy-sats "Konto 2701 - UtgÃ¥ende merverdiavgift hÃ¸y sats")
 * [Hva er Driftskostnader?](/blogs/regnskap/hva-er-driftskostnader "Hva er Driftskostnader? Komplett Guide til Driftskostnader i Regnskap")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

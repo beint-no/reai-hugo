@@ -1,5 +1,5 @@
 ﻿---
-title: "7100-bilgodtgjorelse-oppgavepliktig"
+title: "Konto 7100 - BilgodtgjÃ¸relse, oppgavepliktig"
 meta_title: "7100-bilgodtgjorelse-oppgavepliktig"
 meta_description: '**Konto 7100 - BilgodtgjÃ¸relse, oppgavepliktig** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til Ã¥ registrere **bilgodtgjÃ¸relse som er o...'
 slug: 7100-bilgodtgjorelse-oppgavepliktig
@@ -65,3 +65,4 @@ En ansatt kjÃ¸rer 2Â 500 km i lÃ¸pet av mÃ¥neden med sats 4,03Â NOK/km
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 
 **Konto 7100 - BilgodtgjÃ¸relse, oppgavepliktig** gjÃ¸r det enkelt Ã¥ synliggjÃ¸re **kostnader ved bruk av egen bil** i regnskapet.
+

@@ -1,5 +1,5 @@
 ﻿---
-title: "2320-sertifikatlan"
+title: "Konto 2320 - SertifikatlÃ¥n"
 meta_title: "2320-sertifikatlan"
 meta_description: '**Konto 2320 - SertifikatlÃ¥n** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til Ã¥ registrere **sertifikatlÃ¥n**, dvs. kortsiktige rentebÃ¦rend...'
 slug: 2320-sertifikatlan
@@ -45,3 +45,4 @@ Andre kontoer i NSÂ 4102 som ofte benyttes sammen med konto 2320:
 * [Konto 2200 - Konvertible lÃ¥n](/blogs/kontoplan/2200-konvertible-lan "Konto 2200 - Konvertible lÃ¥n i Norsk Standard Kontoplan")
 * [Konto 2210 - ObligasjonslÃ¥n](/blogs/kontoplan/2210-obligasjonslan "Konto 2210 - ObligasjonslÃ¥n i Norsk Standard Kontoplan")
 * [Konto 8140 - Rentekostnad, ikke fradragsberettiget](/blogs/kontoplan/8140-rentekostnad-ikke-fradragsberettiget "Konto 8140 - Rentekostnad, ikke fradragsberettiget i Norsk Standard Kontoplan")
+

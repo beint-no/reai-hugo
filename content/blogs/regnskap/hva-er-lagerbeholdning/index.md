@@ -382,3 +382,7 @@ For bedrifter som Ã¸nsker Ã¥ forbedre sin lagerstyring, anbefales det Ã¥ s
 Husk at lagerstyring ikke er en isolert aktivitet, men mÃ¥ integreres med andre forretningsprosesser som [innkjÃ¸p](/blogs/regnskap/hva-er-anskaffelser "Hva er Anskaffelser? En Komplett Guide til Offentlige og Private InnkjÃ¸p"), salg, produksjon og [finansiell planlegging](/blogs/regnskap/hva-er-budsjettering "Hva er Budsjettering? Komplett Guide til Budsjettplanlegging") for Ã¥ oppnÃ¥ optimal effekt.
 
 
+
+
+
+

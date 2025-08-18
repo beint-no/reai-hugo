@@ -225,3 +225,7 @@ Med riktig planlegging og implementering kan crowdfunding vÃ¦re en verdifull f
 
 
 
+
+
+
+

@@ -371,3 +371,7 @@ UtgÃ¥ende balanse vil fortsette Ã¥ utvikle seg med teknologiske fremskritt o
 Gjennom systematisk arbeid med utgÃ¥ende balanse legger organisasjoner grunnlaget for pÃ¥litelig regnskapsfÃ¸ring, effektiv Ã¸konomistyring og tillit hos alle interessenter. Dette gjÃ¸r UB til mer enn bare en teknisk sluttsaldo - det er en byggestein for finansiell integritet og organisatorisk suksess.
 
 
+
+
+
+

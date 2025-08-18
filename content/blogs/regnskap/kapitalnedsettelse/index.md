@@ -77,3 +77,7 @@ Prospekt er sjeldent ved kapitalnedsettelse, men ved rettede kapitalnedsettelser
 - [AksjonÃ¦rmodellen](/blogs/regnskap/aksjonaermodellen "AksjonÃ¦rmodellen: Skattemodell for Utbytte og Gevinst")
 
 
+
+
+
+

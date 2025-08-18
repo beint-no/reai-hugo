@@ -1,5 +1,5 @@
 ﻿---
-title: "1640-oppgjorskonto-merverdiavgift"
+title: "Konto 1640 - OppgjÃ¸rskonto merverdiavgift"
 meta_title: "1640-oppgjorskonto-merverdiavgift"
 meta_description: '**Konto 1640 - OppgjÃ¸rskonto merverdiavgift** er en konto i **Norsk Standard Kontoplan** som brukes til Ã¥ avstemme og oppgjÃ¸re **merverdiavgift (MVA)** mello...'
 slug: 1640-oppgjorskonto-merverdiavgift
@@ -59,3 +59,4 @@ Netto merverdiavgift overfÃ¸res til oppgjÃ¸rskonto:
 * [Konto 2700 - UtgÃ¥ende merverdiavgift](/blogs/kontoplan/2700-utgaende-merverdiavgift "Konto 2700 - UtgÃ¥ende merverdiavgift")
 * [Hva er MVA?](/blogs/regnskap/hva-er-moms-mva "Hva er MVA? MVA-regnskapsfÃ¸ring og merverdiavgift")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

@@ -359,3 +359,7 @@ Forskjellen fra ordinÃ¦re [avskrivninger](/blogs/regnskap/hva-er-avskrivning "
 **Profesjonell rÃ¥dgivning** anbefales for komplekse nedskrivningsvurderinger, sÃ¦rlig nÃ¥r det gjelder verdsettelse av [goodwill](/blogs/regnskap/hva-er-goodwill "Hva er Goodwill? Komplett Guide til Goodwill i Regnskap") og andre [immaterielle eiendeler](/blogs/regnskap/hva-er-imaterielle-eiendeler "Hva er Immaterielle Eiendeler? Komplett Guide til Immaterielle Rettigheter"). God [internkontroll](/blogs/regnskap/hva-er-internkontroll "Hva er Internkontroll? Komplett Guide til Internkontrollsystemer") og regelmessige vurderinger sikrer at nedskrivninger identifiseres og behandles korrekt i henhold til [god regnskapsskikk](/blogs/regnskap/god-regnskapsskikk "God Regnskapsskikk - Prinsipper og Regler i Norsk Regnskap").
 
 
+
+
+
+

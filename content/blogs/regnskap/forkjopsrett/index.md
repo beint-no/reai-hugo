@@ -70,3 +70,7 @@ Regnskapsmessig har forkjÃ¸psrett vanligvis **ingen direkte regnskapsmessig ef
 
 
 
+
+
+
+

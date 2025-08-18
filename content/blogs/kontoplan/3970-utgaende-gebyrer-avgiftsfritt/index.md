@@ -1,5 +1,5 @@
 ﻿---
-title: "3970-utgaende-gebyrer-avgiftsfritt"
+title: "Konto 3970 - UtgÃ¥ende gebyrer, avgiftsfritt"
 meta_title: "3970-utgaende-gebyrer-avgiftsfritt"
 meta_description: '**Konto 3970 - UtgÃ¥ende gebyrer, avgiftsfritt** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **avgiftsfrie gebyrer** (for eksempel *serv...'
 slug: 3970-utgaende-gebyrer-avgiftsfritt
@@ -50,3 +50,4 @@ layout: pages/single
 * [Konto 7780 - Renter og gebyrer inkasso](/blogs/kontoplan/7780-renter-og-gebyrer-inkasso "Konto 7780 - Renter og gebyrer inkasso: RegnskapsfÃ¸ring av renter og gebyrer ved inkasso")
 * [Hva er Driftsinntekter?](/blogs/regnskap/hva-er-driftsinntekter "Hva er Driftsinntekter? Komplett Guide til Driftsinntekter i Regnskap")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

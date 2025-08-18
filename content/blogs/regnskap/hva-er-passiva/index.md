@@ -262,3 +262,7 @@ Ved Ã¥ forstÃ¥ og aktivt forvalte passiva-strukturen kan bedrifter styrke si
 For bedrifter som Ã¸nsker Ã¥ forbedre sin passiva-forvaltning, anbefales det Ã¥ implementere systemer for lÃ¸pende overvÃ¥king, utvikle klare retningslinjer for kapitalstruktur og sikre kompetanse pÃ¥ relevante regelverk og beste praksis.
 
 
+
+
+
+

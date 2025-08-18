@@ -326,3 +326,7 @@ Ved beregning av formuesverdi er det viktig Ã¥:
 Formuesverdi er ikke bare et Ã¸yeblikksbilde, men et **dynamisk mÃ¥l** som endres med markedsforhold, Ã¸konomisk utvikling og personlige eller bedriftsmessige beslutninger. Regelmessig overvÃ¥king og analyse av formuesverdi er derfor avgjÃ¸rende for god Ã¸konomisk styring og planlegging.
 
 
+
+
+
+

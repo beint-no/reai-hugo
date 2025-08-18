@@ -1,5 +1,5 @@
 ﻿---
-title: "6500-motordrevet-verktoy"
+title: "Konto 6500 - Motordrevet verktÃ¸y"
 meta_title: "6500-motordrevet-verktoy"
 meta_description: '**Konto 6500 - Motordrevet verktÃ¸y** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kostnader til motordrevet verktÃ¸y** i virksomhetens...'
 slug: 6500-motordrevet-verktoy
@@ -56,3 +56,4 @@ Andre kontoer i NSÂ 4102 som ofte brukes sammen med konto 6500:
 * [Konto 1920 - Bankinnskudd](/blogs/kontoplan/1920-bankinnskudd "Konto 1920 - Bankinnskudd")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 * [Hva er en Faktura?](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav")
+

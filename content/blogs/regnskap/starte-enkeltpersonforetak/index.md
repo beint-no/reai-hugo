@@ -73,3 +73,6 @@ Se vÃ¥r [Hva er et Enkeltpersonforetak?](/blogs/regnskap/hva-er-enkeltpersonfo
 * [MVA-plikt](/blogs/regnskap/hva-er-avgiftsplikt-mva "Hva er Avgiftsplikt (MVA)? Komplett Guide til Merverdiavgift i Norge")
 
 
+
+
+

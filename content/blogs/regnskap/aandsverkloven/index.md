@@ -65,3 +65,7 @@ IÂ regnskapssammenheng klassifiseres opphavsrett som en **immateriell rettighe
 
 
 
+
+
+
+

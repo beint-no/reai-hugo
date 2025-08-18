@@ -301,3 +301,7 @@ Kundefordringer er en kritisk komponent i de fleste bedrifters finansielle struk
 Korrekt regnskapsfÃ¸ring og presentasjon av kundefordringer er ikke bare et lovkrav, men ogsÃ¥ et viktig verktÃ¸y for ledelsen til Ã¥ ta informerte beslutninger om kredittgivning, risikostyring og finansiell planlegging.
 
 
+
+
+
+

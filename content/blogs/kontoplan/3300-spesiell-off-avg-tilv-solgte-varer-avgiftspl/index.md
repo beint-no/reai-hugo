@@ -1,5 +1,5 @@
 ﻿---
-title: "3300-spesiell-off-avg-tilv-solgte-varer-avgiftspl"
+title: "Konto 3300 - Spesiell off. avg. tilv./solgte varer avgiftspl."
 meta_title: "3300-spesiell-off-avg-tilv-solgte-varer-avgiftspl"
 meta_description: '**Konto 3300 - Spesiell off. avg. tilv./solgte varer avgiftspl.** er en konto i **Norsk Standard Kontoplan** som brukes til Ã¥ registrere **spesiell offentlig a...'
 slug: 3300-spesiell-off-avg-tilv-solgte-varer-avgiftspl
@@ -36,3 +36,4 @@ Spesiell offentlig avgift bÃ¸r presenteres **separat** i regnskap og rapporter
 * [Konto 3000 - Salgsinntekt handelsvarer avgiftspl. hÃ¸y sats](/blogs/kontoplan/3000-salgsinntekt-handelsvarer-avgiftspl-hoy-sats "Konto 3000 - Salgsinntekt handelsvarer avgiftspl. hÃ¸y sats")
 * [Hva er MVA?](/blogs/regnskap/hva-er-moms-mva "Hva er MVA? MVA-regnskapsfÃ¸ring og merverdiavgift")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

@@ -1,5 +1,5 @@
 ﻿---
-title: "5300-tantieme"
+title: "Konto 5300 - Tantieme"
 meta_title: "5300-tantieme"
 meta_description: '**Konto 5300 - Tantieme** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til Ã¥ registrere **tantieme** eller resultatbasert godtgjÃ¸relse til...'
 slug: 5300-tantieme
@@ -66,3 +66,4 @@ Formelen for tantieme beregnes slik:
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 
 **Konto 5300 - Tantieme** gir en standardisert mÃ¥te Ã¥ bokfÃ¸re resultatbaserte godtgjÃ¸relser i regnskapet.
+

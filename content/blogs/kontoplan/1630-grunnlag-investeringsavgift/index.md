@@ -1,5 +1,5 @@
 ﻿---
-title: "1630-grunnlag-investeringsavgift"
+title: "Konto 1630 - Grunnlag investeringsavgift"
 meta_title: "1630-grunnlag-investeringsavgift"
 meta_description: '**Konto 1630 - Grunnlag investeringsavgift** er en konto i **Norsk Standard Kontoplan** som brukes til Ã¥ registrere **grunnlaget for investeringsavgift** ved a...'
 slug: 1630-grunnlag-investeringsavgift
@@ -64,3 +64,4 @@ Kredit: Konto 1630 - Grunnlag investeringsavgift    37â€¯500 kr
 * [Konto 2730 - Grunnlag investeringsavgift](/blogs/kontoplan/2730-grunnlag-investeringsavgift "Konto 2730 - Grunnlag investeringsavgift")
 * [Hva er MVA?](/blogs/regnskap/hva-er-moms-mva "Hva er MVA? MVA-regnskapsfÃ¸ring og merverdiavgift")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

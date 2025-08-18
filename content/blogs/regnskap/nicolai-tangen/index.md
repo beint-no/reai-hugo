@@ -1,5 +1,5 @@
 ﻿---
-title: "Nicolai Tangen “ Norges Bank Investment Management og Norsk Regnskap"
+title: "Nicolai Tangen â€“ Norges Bank Investment Management og Norsk Regnskap"
 meta_title: "Nicolai Tangen “ Norges Bank Investment Management og Norsk Regnskap"
 meta_description: '**Nicolai Tangen** er administrerende direktÃ¸r i **Norges Bank Investment Management (NBIM)** og ansvarlig for forvaltningen av Statens pensjonsfond utland (of...'
 slug: nicolai-tangen
@@ -38,5 +38,9 @@ Tangens arbeid har direkte betydning for norsk regnskapsfÃ¸ring ved Ã¥ fremm
 
 *Se ogsÃ¥: [Hva er en aksjonÃ¦r?](/blogs/regnskap/hva-er-en-aksjonaer "Hva er en AksjonÃ¦r?").*
 *Se ogsÃ¥: [Hva er Ã¥ investere?](/blogs/regnskap/hva-er-investere "Hva betyr det Ã¥ investere?").*
+
+
+
+
 
 

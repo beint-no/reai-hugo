@@ -1,5 +1,5 @@
 ﻿---
-title: "6620-reparasjon-og-vedlikehold-utstyr"
+title: "Konto 6620 - Reparasjon og vedlikehold utstyr"
 meta_title: "6620-reparasjon-og-vedlikehold-utstyr"
 meta_description: '**Konto 6620 - Reparasjon og vedlikehold utstyr** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kostnader til reparasjon og vedlikehold ...'
 slug: 6620-reparasjon-og-vedlikehold-utstyr
@@ -55,3 +55,4 @@ Andre kontoer i NSÂ 4102 som ofte brukes sammen med konto 6620:
 * [Konto 1920 - Bankinnskudd](/blogs/kontoplan/1920-bankinnskudd "Konto 1920 - Bankinnskudd")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 * [Hva er en Faktura?](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav")
+

@@ -1,5 +1,5 @@
 ﻿---
-title: "7745-oreavrunding-avgiftspliktig"
+title: "Konto 7745 - Ã˜reavrunding, avgiftspliktig"
 meta_title: "7745-oreavrunding-avgiftspliktig"
 meta_description: '**Konto 7745 - Ã˜reavrunding, avgiftspliktig** er en konto i **Norsk Standard Kontoplan** som brukes til Ã¥ bokfÃ¸re **Ã¸reavrunding** ved **avgiftspliktige tra...'
 slug: 7745-oreavrunding-avgiftspliktig
@@ -59,3 +59,4 @@ En selger fakturerer varene inklusiv avgift og fÃ¥r fÃ¸lgende tall:
 * [Hva er MVA?](/blogs/regnskap/hva-er-moms-mva "Hva er MVA? MVA-regnskapsfÃ¸ring og merverdiavgift")
  * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 * [Konto 7746 - Ã˜reavrunding, avgiftsfritt](/blogs/kontoplan/7746-oreavrunding-avgiftsfritt "Konto 7746 - Ã˜reavrunding, avgiftsfritt")
+

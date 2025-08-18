@@ -1,5 +1,5 @@
 ﻿---
-title: "2040-fond-for-vurderingsforskjeller"
+title: "Konto 2040 - Fond for vurderingsforskjeller"
 meta_title: "2040-fond-for-vurderingsforskjeller"
 meta_description: '**Konto 2040 - Fond for vurderingsforskjeller** er en konto innen **egenkapital** i Norsk Standard Kontoplan (NSÂ 4102) som brukes til Ã¥ registrere **fond for ...'
 slug: 2040-fond-for-vurderingsforskjeller
@@ -57,3 +57,4 @@ _*Bruk riktig konto for det aktuelle anleggsmiddelet, for eksempel [Konto 1250 -
 * [Konto 8900 - OverfÃ¸ringsfond vurderingsforskjeller](/blogs/kontoplan/8900-overforingsfond-vurderingsforskjeller "Konto 8900 - OverfÃ¸ringsfond vurderingsforskjeller: OverfÃ¸ring av vurderingsreserver til resultatregnskapet")
 * [Konto 8910 - OverfÃ¸ringsfond felleseid kapital samme foretak](/blogs/kontoplan/8910-overforingsfond-felleseid-kapital-samme-foretak "Konto 8910 - OverfÃ¸ringsfond felleseid kapital samme foretak")
 * [Hva er Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

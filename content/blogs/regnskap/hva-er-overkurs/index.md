@@ -51,3 +51,7 @@ Overkurs fÃ¸res som egen post under egenkapitalen i balansen og har betydning 
 * [Hva er Overkursfond?](/blogs/regnskap/hva-er-overkursfond "Hva er Overkursfond? Guide til overkurs ved kapitalforhÃ¸yelse")
 
 
+
+
+
+

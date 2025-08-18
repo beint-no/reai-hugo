@@ -58,3 +58,6 @@ Se [Hva er A-meldingen?](/blogs/regnskap/hva-er-a-melding "Hva er A-melding?") f
 For mer informasjon om lÃ¸nn og skattetrekk, se ogsÃ¥ [Hva er lÃ¸nn?](/blogs/regnskap/hva-er-lonn "Hva er LÃ¸nn?") og [Hva er skattetrekkskonto?](/blogs/regnskap/hva-er-skattetrekkskonto "Hva er Skattetrekkskonto?").
 
 
+
+
+

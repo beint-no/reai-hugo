@@ -1,5 +1,5 @@
 ﻿---
-title: "6900-telefon"
+title: "Hva er Konto 6900 - Telefon?"
 meta_title: "6900-telefon"
 meta_description: '**Konto 6900 - Telefon** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til Ã¥ registrere **telefonkostnader** og telekommunikasjonsutgifter i...'
 slug: 6900-telefon
@@ -64,3 +64,4 @@ Kredit: Konto 2400 - LeverandÃ¸rgjeld 3Â 125 NOK
 * **Oppdaterte avtaler**: Forhandle regelmessig med leverandÃ¸r
 
 Se ogsÃ¥ artikkelen om [Konto 5210 - Fri telefon](/blogs/kontoplan/5210-fri-telefon "Konto 5210 - Fri telefon: RegnskapsfÃ¸ring av fri telefon som ansattgode i Norsk Kontoplan") for behandling av telefon som ansattgode.
+

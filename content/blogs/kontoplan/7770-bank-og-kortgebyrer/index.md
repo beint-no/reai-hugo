@@ -1,5 +1,5 @@
 ﻿---
-title: "7770-bank-og-kortgebyrer"
+title: "Konto 7770 - Bank og kortgebyrer"
 meta_title: "7770-bank-og-kortgebyrer"
 meta_description: '**Konto 7770 - Bank og kortgebyrer** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **bank- og kortgebyrer**, det vil si kostnader knyttet ...'
 slug: 7770-bank-og-kortgebyrer
@@ -66,3 +66,4 @@ For Ã¥ holde oversikt over bank- og kortgebyrer bÃ¸r virksomheten:
 * [Konto 7780 - Renter og gebyrer inkasso](/blogs/kontoplan/7780-renter-og-gebyrer-inkasso "Konto 7780 - Renter og gebyrer inkasso: RegnskapsfÃ¸ring av renter og gebyrer ved inkasso")
 * [Konto 7790 - Diverse kostnader](/blogs/kontoplan/7790-diverse-kostnader "Konto 7790 - Diverse kostnader: Registrering av diverse kostnader i Norsk Standard Kontoplan")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

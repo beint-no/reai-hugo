@@ -1,5 +1,5 @@
 ﻿---
-title: "6050-nedskrivning-av-varige-driftsmidler"
+title: "Konto 6050 - Nedskrivning av varige driftsmidler"
 meta_title: "6050-nedskrivning-av-varige-driftsmidler"
 meta_description: '**Konto 6050 - Nedskrivning av varige driftsmidler** er en konto i norsk kontoplan som benyttes for Ã¥ bokfÃ¸re **regnskapsmessige nedskrivninger** av varige dr...'
 slug: 6050-nedskrivning-av-varige-driftsmidler
@@ -45,3 +45,4 @@ BokfÃ¸ring av nedskrivning mÃ¥ fÃ¸lge gjeldende standarder som [IASÂ 36/
 * [Konto 6010 - Avskrivning pÃ¥ transportmidler, maskiner og inventar](/blogs/kontoplan/6010-avskrivning-pa-transportmidler-mask-og-invent "Konto 6010 - Avskrivning pÃ¥ transportmidler, maskiner og inventar")
 * [Hva er Varige Driftsmidler?](/blogs/regnskap/hva-er-varige-driftsmidler "Hva er Varige Driftsmidler? Komplett Guide til Vurdering og BokfÃ¸ring")
 * [Hva er Nedskrivning?](/blogs/regnskap/hva-er-nedskrivning "Hva er Nedskrivning? Komplett Guide til Verdifall pÃ¥ Eiendeler")
+

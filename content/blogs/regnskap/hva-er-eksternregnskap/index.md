@@ -302,3 +302,7 @@ I en stadig mer digitalisert verden vil eksternregnskapet fortsette Ã¥ utvikle
 For virksomheter som Ã¸nsker Ã¥ etablere eller forbedre sitt eksternregnskapssystem, er det avgjÃ¸rende Ã¥ forstÃ¥ bÃ¥de de regulatoriske kravene og de praktiske aspektene ved implementering. Ved Ã¥ fÃ¸lge beste praksis og investere i riktig teknologi og kompetanse, kan eksternregnskapet bli en strategisk ressurs som skaper verdi for alle interessenter.
 
 
+
+
+
+

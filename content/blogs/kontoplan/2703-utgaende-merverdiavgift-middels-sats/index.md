@@ -1,5 +1,5 @@
 ﻿---
-title: "2703-utgaende-merverdiavgift-middels-sats"
+title: "Konto 2703 - UtgÃ¥ende merverdiavgift middels sats"
 meta_title: "2703-utgaende-merverdiavgift-middels-sats"
 meta_description: '**Konto 2703 - UtgÃ¥ende merverdiavgift middels sats** er en konto i **Norsk Standard Kontoplan** som brukes ved periodisk **oppgjÃ¸r av utgÃ¥ende merverdiavgif...'
 slug: 2703-utgaende-merverdiavgift-middels-sats
@@ -50,3 +50,4 @@ layout: pages/single
 * [Konto 2704 - UtgÃ¥ende merverdiavgift lav sats](/blogs/kontoplan/2704-utgaende-merverdiavgift-lav-sats "Konto 2704 - UtgÃ¥ende merverdiavgift lav sats")
 * [Hva er MVA?](/blogs/regnskap/hva-er-moms-mva "Hva er MVA? MVA-regnskapsfÃ¸ring og merverdiavgift")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

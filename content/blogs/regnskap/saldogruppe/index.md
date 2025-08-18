@@ -59,3 +59,6 @@ Se ogsÃ¥ [Hva er Varige Driftsmidler? Guide til Anleggsmidler og Avskrivninger
 * [Hva er Varige Driftsmidler? Guide til Anleggsmidler og Avskrivninger](/blogs/regnskap/hva-er-varige-driftsmidler "Hva er Varige Driftsmidler? Guide til Anleggsmidler og Avskrivninger")
 
 
+
+
+

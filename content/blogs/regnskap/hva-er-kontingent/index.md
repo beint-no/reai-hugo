@@ -288,3 +288,7 @@ NÃ¸kkelpunktene Ã¥ huske:
 For bedrifter som Ã¸nsker Ã¥ optimalisere sin kontingentadministrasjon, anbefales det Ã¥ implementere digitale lÃ¸sninger som integrerer med eksisterende [ERP-systemer](/blogs/regnskap/hva-er-erp-system "Hva er ERP-system? Komplett Guide til Enterprise Resource Planning") og sikrer korrekt [bokfÃ¸ring](/blogs/regnskap/hva-er-bokforing "Hva er BokfÃ¸ring? Komplett Guide til RegnskapsfÃ¸ring og Bilagsbehandling") av alle kontingentrelaterte transaksjoner.
 
 
+
+
+
+

@@ -1,5 +1,5 @@
 ﻿---
-title: "1790-interimskonto"
+title: "Konto 1790 - Interimskonto"
 meta_title: "1790-interimskonto"
 meta_description: '**Konto 1790 - Interimskonto** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **midlertidige fordringer og gjeld** som gjelder periodiserin...'
 slug: 1790-interimskonto
@@ -55,3 +55,4 @@ Andre kontoer i NSÂ 4102 som ofte benyttes sammen med konto 1790:
 * [Hva er Periodisering i Regnskap?](/blogs/regnskap/hva-er-periodisering "Hva er Periodisering i Regnskap? Komplett Guide til Periodiseringsprinsippet")
 
 **Korrektsamling** av interimskonto sikrer at kostnader og inntekter rapporteres i riktig periode.
+

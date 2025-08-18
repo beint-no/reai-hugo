@@ -1,5 +1,5 @@
 ﻿---
-title: "8300-betalbar-skatt"
+title: "Hva er Konto 8300 - Betalbar skatt?"
 meta_title: "8300-betalbar-skatt"
 meta_description: '**Konto 8300 - Betalbar skatt** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ vise **betalbar skatt** som kortsiktig gjeld i [balansen](/blogs/regnsk...'
 slug: 8300-betalbar-skatt
@@ -77,3 +77,4 @@ Se ogsÃ¥:
 ## Oppsummering
 
 **Konto 8300 - Betalbar skatt** gir en oversikt over samlet betalbar skatt som kortsiktig gjeld fÃ¸r fordeling pÃ¥ utlignet og ikke utlignet skatt. Riktig forstÃ¥else og bruk av denne kontoen sikrer et mer nÃ¸yaktig og ryddig regnskap.
+

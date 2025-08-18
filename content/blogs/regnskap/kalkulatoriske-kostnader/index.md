@@ -57,3 +57,7 @@ For en helhetlig forstÃ¥else av kostnadsbegrepet, se ogsÃ¥ [Alternativkostna
 **Kalkulatoriske kostnader** sÃ¸rger for at alle ressurser, selv uten kontantstrÃ¸m, inkluderes i regnskapet. Ved Ã¥ anvende kalkulatoriske kostnader oppnÃ¥r virksomheter et mer komplett og realistisk regnskapsbilde, som er essensielt for god intern styring og beslutningsanalyse.
 
 
+
+
+
+

@@ -80,3 +80,7 @@ Ved konsolidering mÃ¥ man vÃ¦re oppmerksom pÃ¥ skattemessige aspekter som:
 Konsolidering er en sentral del av utarbeidelse av konsernregnskap som sikrer **transparent** og **sammenlignbar** finansiell rapportering for konsern. En korrekt gjennomfÃ¸rt konsolidering bidrar til at bÃ¥de interne og eksterne interessenter fÃ¥r et helhetlig bilde av konsernets Ã¸konomi.
 
 
+
+
+
+

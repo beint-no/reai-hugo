@@ -226,3 +226,7 @@ Riktig forstÃ¥else og anvendelse av bruttobegrepet er derfor ikke bare en tekn
 
 
 
+
+
+
+

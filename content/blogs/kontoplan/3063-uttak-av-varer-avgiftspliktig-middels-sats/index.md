@@ -1,5 +1,5 @@
 ﻿---
-title: "3063-uttak-av-varer-avgiftspliktig-middels-sats"
+title: "Konto 3063 - Uttak av varer avgiftspliktig middels sats"
 meta_title: "3063-uttak-av-varer-avgiftspliktig-middels-sats"
 meta_description: '**Konto 3063 - Uttak av varer avgiftspliktig middels sats** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **uttak av varer** fra varelager...'
 slug: 3063-uttak-av-varer-avgiftspliktig-middels-sats
@@ -49,3 +49,4 @@ Vareuttak rapporteres netto, det vil si ekskludert MVA, og kostnad fÃ¸res i re
 * [Konto 3074 - Uttak av tjenester avgiftspliktig lav sats](/blogs/kontoplan/3074-uttak-av-tjenester-avgiftspliktig-lav-sats "Konto 3074 - Uttak av tjenester avgiftspliktig lav sats")
 * [Hva er Varelager?](/blogs/regnskap/hva-er-varelager "Hva er Varelager? Komplett Guide til LagerfÃ¸ring og Verdivurdering")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

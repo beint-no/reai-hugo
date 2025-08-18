@@ -1,5 +1,5 @@
 ﻿---
-title: "1610-inngaaende-merverdiavgift"
+title: "Konto 1610 - InngÃ¥ende merverdiavgift"
 meta_title: "1610-inngaaende-merverdiavgift"
 meta_description: '**Konto 1610 - InngÃ¥ende merverdiavgift** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **inngÃ¥ende merverdiavgift (MVA)** som et fradra...'
 slug: 1610-inngaaende-merverdiavgift
@@ -69,3 +69,4 @@ BokfÃ¸ring:
 * [Konto 7360 - Representasjon, ikke fradragsberettiget](/blogs/kontoplan/7360-representasjon-ikke-fradragsberettiget "Konto 7360 - Representasjon, ikke fradragsberettiget")
 * [Hva er MVA?](/blogs/regnskap/hva-er-moms-mva "Hva er MVA? MVA-regnskapsfÃ¸ring og merverdiavgift")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

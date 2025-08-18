@@ -44,3 +44,7 @@ Moderne digitale lÃ¸sninger for reiseregning mÃ¥ sikre **autentisitet**, **i
 En grundig forstÃ¥else av kravene til reiseregning er avgjÃ¸rende for korrekt regnskapsfÃ¸ring, skattebehandling og internkontroll. Ved Ã¥ fÃ¸lge lovpÃ¥lagte dokumentasjonskrav og bruke moderne digitale lÃ¸sninger kan virksomheter effektivisere prosessen og redusere risikoen for feil.
 
 
+
+
+
+

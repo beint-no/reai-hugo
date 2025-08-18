@@ -331,3 +331,7 @@ Nullpunkt-analyse er et **kraftfullt verktÃ¸y** for Ã¸konomisk planlegging o
 NÃ¥r nullpunkt-analyse brukes riktig, gir det ledelsen verdifull innsikt for Ã¥ ta informerte beslutninger om bedriftens fremtid og lÃ¸nnsomhet.
 
 
+
+
+
+

@@ -53,3 +53,7 @@ Se ogsÃ¥ [KontantkjÃ¸p](/blogs/regnskap/kontantkjop "KontantkjÃ¸p “ Komp
 I henhold til **bokfÃ¸ringsloven** og **bokfÃ¸ringsforskriften** stilles det krav om dokumentasjon av alle transaksjoner. Selv om kontantprinsippet tillater enkel bokfÃ¸ring, mÃ¥ alle kontanttransaksjoner stÃ¸ttes av gyldig bilag eller [kvittering](/blogs/regnskap/kvittering "Hva er Kvittering? En Guide til Kvitteringskrav i Norsk Regnskap").
 
 
+
+
+
+

@@ -99,3 +99,7 @@ Skjermingsfradraget reduserer den skattepliktige gevinsten ved utbytte i aksjese
 
 
 
+
+
+
+

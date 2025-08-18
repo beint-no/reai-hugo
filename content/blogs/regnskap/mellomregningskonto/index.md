@@ -1,5 +1,5 @@
 ﻿---
-title: "Mellomregningskonto i Regnskap “ Guide til intercompany clearing og avstemming"
+title: "Mellomregningskonto i Regnskap â€“ Guide til intercompany clearing og avstemming"
 meta_title: "Mellomregningskonto i Regnskap “ Guide til intercompany clearing og avstemming"
 meta_description: '**Mellomregningskonto** er en **klareringskonto** som brukes for Ã¥ registrere og avstemme **interne konserntransaksjoner** mellom selskaper i samme konsern. Ve...'
 slug: mellomregningskonto
@@ -52,5 +52,9 @@ Se ogsÃ¥ [Konto 1560 - Andre fordringer pÃ¥ selskap samme konsern](/blogs/ko
 * [Hva er Konsern?](/blogs/regnskap/hva-er-konsern "Hva er Konsern? Komplett Guide til Konsernstrukturer og Konsernregnskap")
 * [Internkontrollforskriften](/blogs/regnskap/internkontrollforskriften "Internkontrollforskriften “ krav og veiledning")
 * [Hva er Periodisering i Regnskap?](/blogs/regnskap/hva-er-periodisering "Hva er Periodisering i Regnskap? Komplett Guide til Periodiseringsprinsippet")
+
+
+
+
 
 

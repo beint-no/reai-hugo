@@ -51,3 +51,7 @@ NÃ¥r eiendeler er omfattet av fantegang, pÃ¥virkes bÃ¥de [varelageret](/bl
   * Kan vÃ¦re omstridt ved konkurs eller mot bedre prioritet
 
 
+
+
+
+

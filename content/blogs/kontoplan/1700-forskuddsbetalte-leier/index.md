@@ -1,5 +1,5 @@
 ﻿---
-title: "1700-forskuddsbetalte-leier"
+title: "Konto 1700 - Forskuddsbetalte leier"
 meta_title: "1700-forskuddsbetalte-leier"
 meta_description: '**Konto 1700 - Forskuddsbetalte leier** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **forskuddsbetalte leiekostnader** for leie av lokal...'
 slug: 1700-forskuddsbetalte-leier
@@ -48,3 +48,4 @@ Andre kontoer i NS 4102 som ofte benyttes sammen med konto 1700:
 * [Konto 6400 - Leie maskiner](/blogs/kontoplan/6400-leie-maskiner "Konto 6400 - Leie maskiner")
 
 **Korrekt bruk** av konto 1700 sikrer god periodisering av kostnader og oversikt over forskuddsbetalte leiekostnader.
+

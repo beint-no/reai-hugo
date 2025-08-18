@@ -1,5 +1,5 @@
 ﻿---
-title: "4330-innkjop-varer-for-videresalg-middels-sats"
+title: "Konto 4330 - InnkjÃ¸p varer for videresalg middels sats"
 meta_title: "4330-innkjop-varer-for-videresalg-middels-sats"
 meta_description: '**Konto 4330 - InnkjÃ¸p varer for videresalg middels sats** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kjÃ¸p av varer for videresalg*...'
 slug: 4330-innkjop-varer-for-videresalg-middels-sats
@@ -56,3 +56,4 @@ Andre kontoer i NS 4102 som ofte benyttes sammen med konto 4330:
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 
 **Korrekt bokfÃ¸ring** av kjÃ¸p og MVA sikrer nÃ¸yaktig regnskapsfÃ¸ring og rett skattemelding.
+

@@ -208,3 +208,7 @@ Kontonummer er en fundamental komponent i det norske finanssystemet som muliggj�
 Ved Ã¥ implementere beste praksis for hÃ¥ndtering av kontonummer kan bedrifter oppnÃ¥ bedre finansiell kontroll, redusere risiko for feil, og forberede seg for fremtidens digitale betalingslÃ¸sninger.
 
 
+
+
+
+

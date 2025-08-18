@@ -1,5 +1,5 @@
 ﻿---
-title: "6800-kontorrekvisita"
+title: "Konto 6800 - Kontorrekvisita"
 meta_title: "6800-kontorrekvisita"
 meta_description: '**Konto 6800 - Kontorrekvisita** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til Ã¥ registrere **kostnader til kontorrekvisita** som penner, pa...'
 slug: 6800-kontorrekvisita
@@ -59,3 +59,4 @@ Andre kontoer i NSÂ 4102 som ofte brukes sammen med kontoÂ 6800:
 * [KontoÂ 2400 - LeverandÃ¸rgjeld](/blogs/kontoplan/2400-leverandorgjeld "KontoÂ 2400 - LeverandÃ¸rgjeld")
 * [KontoÂ 1920 - Bankinnskudd](/blogs/kontoplan/1920-bankinnskudd "KontoÂ 1920 - Bankinnskudd")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

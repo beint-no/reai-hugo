@@ -63,3 +63,6 @@ Shorting medfÃ¸rer flere **risikoer** og kostnader:
 * [Hva er en Put-opsjon?](/blogs/regnskap/put-opsjon "Hva er en Put-opsjon? En Guide til Salgsopsjoner i Regnskap")
 
 
+
+
+

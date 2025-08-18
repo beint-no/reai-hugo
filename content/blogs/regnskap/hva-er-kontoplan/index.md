@@ -256,3 +256,7 @@ Ved Ã¥ investere tid i Ã¥ utvikle en god kontoplan, legger bedrifter grunnla
 ![Sammendrag av viktigheten av en god kontoplan](kontoplan-konklusjon.svg)
 
 
+
+
+
+

@@ -126,3 +126,7 @@ Allmennaksjeselskap (ASA) er en **avansert selskapsform** for store virksomheter
 
 
 
+
+
+
+

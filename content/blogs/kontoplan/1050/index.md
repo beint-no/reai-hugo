@@ -1,5 +1,5 @@
 ﻿---
-title: "1050"
+title: "Hva er Konto 1050 - Varemerker?"
 meta_title: "1050"
 meta_description: '**Konto 1050 - Varemerker** er en sentral konto i norsk kontoplan som anvendes for Ã¥ registrere [immaterielle eiendeler](/blogs/regnskap/hva-er-imaterielle-eie...'
 slug: 1050
@@ -293,3 +293,4 @@ Konto 1050 Varemerker er en kritisk konto for virksomheter som investerer i merk
 * **FÃ¸lg opp** fornyelsesfrister og vedlikehold
 
 Varemerker representerer ofte betydelige verdier for virksomheter og krever profesjonell forvaltning for Ã¥ opprettholde bÃ¥de regnskapsmessig korrekthet og forretningsnytte.
+

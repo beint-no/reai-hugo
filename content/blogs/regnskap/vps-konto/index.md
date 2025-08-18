@@ -62,3 +62,6 @@ Ja, du kan ha separate VPS-kontoer for privat og bedriftsformÃ¥l, eller for ul
 Ja, alle omsettelige verdipapirer i Norge mÃ¥ registreres pÃ¥ en VPS-konto.
 
 
+
+
+

@@ -1,5 +1,5 @@
 ﻿---
-title: "3060-uttak-av-varer-avgiftspliktig-hoy-sats"
+title: "Konto 3060 - Uttak av varer avgiftspliktig hÃ¸y sats"
 meta_title: "3060-uttak-av-varer-avgiftspliktig-hoy-sats"
 meta_description: '**Konto 3060 - Uttak av varer avgiftspliktig hÃ¸y sats** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **uttak av varer** fra varelageret ...'
 slug: 3060-uttak-av-varer-avgiftspliktig-hoy-sats
@@ -50,3 +50,4 @@ Vareuttak rapporteres netto, det vil si ekskludert MVA, og kostnad fÃ¸res i re
 * [Konto 3074 - Uttak av tjenester avgiftspliktig lav sats](/blogs/kontoplan/3074-uttak-av-tjenester-avgiftspliktig-lav-sats "Konto 3074 - Uttak av tjenester avgiftspliktig lav sats")
 * [Hva er Varelager?](/blogs/regnskap/hva-er-varelager "Hva er Varelager? Komplett Guide til LagerfÃ¸ring og Verdivurdering")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

@@ -1,5 +1,5 @@
 ﻿---
-title: "8160-valutatap-disagio"
+title: "Hva er Konto 8160 - Valutatap (Disagio)?"
 meta_title: "8160-valutatap-disagio"
 meta_description: '**Konto 8160 - Valutatap (Disagio)** er en konto i Norsk Standard Kontoplan som brukes for Ã¥ registrere **tap ved valutakursendringer** (ofte kalt *disagio*) s...'
 slug: 8160-valutatap-disagio
@@ -46,3 +46,4 @@ En virksomhet har 10Â 000Â USD pÃ¥ bankkonto. Opprinnelig omregningskurs v
 * [Konto 8170 - Annen finanskostnad](/blogs/kontoplan/8170-annen-finanskostnad "Konto 8170 - Annen finanskostnad: Guide til andre finanskostnader")
 * [Hva er Periodisering i Regnskap?](/blogs/regnskap/hva-er-periodisering "Hva er Periodisering i Regnskap? Guide til periodisering av kostnader og inntekter")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

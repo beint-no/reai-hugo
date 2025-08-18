@@ -308,3 +308,7 @@ For oppstartsselskaper som vurderer inkubatorprogrammer, er det viktig Ã¥ fors
 ![Inkubatorens rolle i innovasjonsÃ¸kosystemet](inkubator-okosystem-rolle.svg)
 
 
+
+
+
+

@@ -264,3 +264,7 @@ Ved Ã¥ fÃ¸lge beste praksis for inngÃ¥ende balanse sikrer virksomheter ikk
 For virksomheter som Ã¸nsker Ã¥ optimalisere sin regnskapspraksis, er forstÃ¥else og korrekt hÃ¥ndtering av inngÃ¥ende balanse en kritisk suksessfaktor som pÃ¥virker hele regnskapsÃ¥ret.
 
 
+
+
+
+

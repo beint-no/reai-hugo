@@ -1,5 +1,5 @@
 ﻿---
-title: "8400-ekstraordinaer-inntekt"
+title: "Konto 8400 - EkstraordinÃ¦r inntekt"
 meta_title: "8400-ekstraordinaer-inntekt"
 meta_description: '**Konto 8400 - EkstraordinÃ¦r inntekt** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **ekstraordinÃ¦r inntekt**, dvs. engangs- eller ufor...'
 slug: 8400-ekstraordinaer-inntekt
@@ -47,3 +47,4 @@ EkstraordinÃ¦r inntekt vises i resultatregnskapet under **ekstraordinÃ¦re po
 * [Konto 1530 - Opptjent ikke fakturert inntekt](/blogs/kontoplan/1530-opptjent-ikke-fakturert-inntekt "Konto 1530 - Opptjent ikke fakturert inntekt")
 * [Hva er balanse?](/blogs/regnskap/hva-er-balanse "Hva er Balanse? En Guide til Balanseregnskap")
 * [Konto 8500 - EkstraordinÃ¦r kostnad](/blogs/kontoplan/8500-ekstraordinaer-kostnad "Konto 8500 - EkstraordinÃ¦r kostnad")
+

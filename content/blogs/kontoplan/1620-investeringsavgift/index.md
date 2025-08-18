@@ -1,5 +1,5 @@
 ﻿---
-title: "1620-investeringsavgift"
+title: "Konto 1620 - Investeringsavgift"
 meta_title: "1620-investeringsavgift"
 meta_description: '**Konto 1620 - Investeringsavgift** er en konto i **Norsk Standard Kontoplan** som brukes til Ã¥ registrere **investeringsavgift** knyttet til investeringer i a...'
 slug: 1620-investeringsavgift
@@ -55,3 +55,4 @@ Et selskap mottar en faktura pÃ¥ 50â€¯000 NOK i investeringsavgift ved kj�
 * [Konto 2730 - Grunnlag investeringsavgift](/blogs/kontoplan/2730-grunnlag-investeringsavgift "Konto 2730 - Grunnlag investeringsavgift")
 * [Hva er MVA?](/blogs/regnskap/hva-er-moms-mva "Hva er MVA? MVA-regnskapsfÃ¸ring og merverdiavgift")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

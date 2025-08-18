@@ -1,5 +1,5 @@
 ﻿---
-title: "1350-investeringer-i-aksjer-og-eiendeler"
+title: "Konto 1350 - Investeringer i aksjer og eiendeler"
 meta_title: "1350-investeringer-i-aksjer-og-eiendeler"
 meta_description: '**Konto 1350 - Investeringer i aksjer og eiendeler** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **langsiktige investeringer** i aksjer,...'
 slug: 1350-investeringer-i-aksjer-og-eiendeler
@@ -53,3 +53,4 @@ Kredit: Konto 1920 - Bankinnskudd                         1â€¯500â€¯000 
 * [Konto 1380 - Fordringer pÃ¥ ansatte](/blogs/kontoplan/1380-fordringer-pa-ansatte "Konto 1380 - Fordringer pÃ¥ ansatte")
 * [Konto 1390 - Andre fordringer](/blogs/kontoplan/1390-andre-fordringer "Konto 1390 - Andre fordringer")
 * [Hva er langsiktig gjeld?](/blogs/regnskap/langsiktig-gjeld "Langsiktig gjeld")
+

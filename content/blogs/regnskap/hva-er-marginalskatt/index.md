@@ -234,3 +234,7 @@ Som regnskapsfÃ¸rer er det viktig Ã¥ holde seg oppdatert pÃ¥ endringer i s
 Ved Ã¥ mestre marginalskattberegninger kan du gi verdifull rÃ¥dgivning som optimaliserer klientenes skatteposisjon innenfor gjeldende regelverk.
 
 
+
+
+
+

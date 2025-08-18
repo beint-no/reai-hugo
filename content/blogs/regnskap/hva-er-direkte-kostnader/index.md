@@ -56,3 +56,7 @@ Direkte kostnader er sentrale i flere Ã¸konomistyringsmodeller:
 
 
 
+
+
+
+

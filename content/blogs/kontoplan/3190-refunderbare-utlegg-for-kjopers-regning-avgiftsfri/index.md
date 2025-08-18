@@ -1,5 +1,5 @@
 ﻿---
-title: "3190-refunderbare-utlegg-for-kjopers-regning-avgiftsfri"
+title: "Konto 3190 - Refunderbare utlegg for kjÃ¸pers regning avgiftsfri"
 meta_title: "3190-refunderbare-utlegg-for-kjopers-regning-avgiftsfri"
 meta_description: '**Konto 3190 - Refunderbare utlegg for kjÃ¸pers regning avgiftsfri** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **refunderbare utlegg**...'
 slug: 3190-refunderbare-utlegg-for-kjopers-regning-avgiftsfri
@@ -42,3 +42,4 @@ For Ã¥ sikre **korrekt regnskapsanalyse** mÃ¥ refunderbare utlegg presentere
 * [Konto 3200 - Salgsinntekt handelsvarer utenfor avg.omr](/blogs/kontoplan/3200-salgsinntekt-handelsvarer-utenfor-avg-omr "Konto 3200 - Salgsinntekt handelsvarer utenfor avg.omr")
 * [Ansattutlegg](/blogs/regnskap/ansattutlegg "Ansattutlegg - En komplett guide til utlegg fra ansatte")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

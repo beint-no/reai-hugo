@@ -47,3 +47,7 @@ Se ogsÃ¥ [Tap pÃ¥ fordring](/blogs/regnskap/tap-pa-fordring "Hva er tap pÃ�
 Fordringer er et sentralt element i enhver virksomhets likviditetsstyring og krever systematisk oppfÃ¸lging for Ã¥ sikre korrekt regnskapsrapportering og Ã¸konomisk kontroll.
 
 
+
+
+
+

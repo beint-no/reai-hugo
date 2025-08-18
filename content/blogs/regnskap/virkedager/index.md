@@ -56,3 +56,6 @@ Virkedager er sentralt ved fastsettelse av rapporterings- og betalingsfrister. M
 Ved Ã¥ mestre beregningen av **virkedager** kan regnskapsfÃ¸rere og bedriftseiere unngÃ¥ forsinkelsesgebyrer og sikre riktig rapportering.
 
 
+
+
+

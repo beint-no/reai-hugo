@@ -1,5 +1,5 @@
 ﻿---
-title: "6240-ved"
+title: "Konto 6240 - Ved"
 meta_title: "6240-ved"
 meta_description: '**Konto 6240 - Ved** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **vedkostnader** i virksomhetens drift.'
 slug: 6240-ved
@@ -55,3 +55,4 @@ Andre kontoer i NSÂ 4102 som ofte brukes sammen med konto 6240:
 * [Konto 6300 - Leie lokaler](/blogs/kontoplan/6300-leie-lokaler "Konto 6300 - Leie lokaler")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 * [Hva er en Faktura?](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav")
+

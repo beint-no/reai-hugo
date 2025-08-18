@@ -343,3 +343,7 @@ For bedrifter som Ã¸nsker Ã¥ maksimere verdien av sine immaterielle eiendele
 Ved Ã¥ forstÃ¥ og aktivt forvalte imaterielle eiendeler kan bedrifter ikke bare sikre korrekt finansiell rapportering, men ogsÃ¥ bygge bÃ¦rekraftige konkurransefortrinn som driver langsiktig verdiskapning og vekst.
 
 
+
+
+
+

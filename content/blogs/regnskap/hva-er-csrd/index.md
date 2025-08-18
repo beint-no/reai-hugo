@@ -278,3 +278,7 @@ For bedrifter som ikke direkte omfattes av CSRD, kan det likevel vÃ¦re lurt Ã
 
 
 
+
+
+
+

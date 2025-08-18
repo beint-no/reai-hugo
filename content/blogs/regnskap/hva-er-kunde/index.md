@@ -276,3 +276,7 @@ Kunder er bedriftens viktigste ressurs og krever systematisk hÃ¥ndtering for �
 Ved Ã¥ implementere beste praksis for kundehÃ¥ndtering kan bedrifter redusere kredittrisiko, forbedre kontantstrÃ¸m og bygge sterkere kundeforhold som bidrar til langsiktig vekst og lÃ¸nnsomhet.
 
 
+
+
+
+

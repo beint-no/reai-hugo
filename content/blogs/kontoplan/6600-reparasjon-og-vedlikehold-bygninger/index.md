@@ -1,5 +1,5 @@
 ﻿---
-title: "6600-reparasjon-og-vedlikehold-bygninger"
+title: "Konto 6600 - Reparasjon og vedlikehold bygninger"
 meta_title: "6600-reparasjon-og-vedlikehold-bygninger"
 meta_description: '**Konto 6600 - Reparasjon og vedlikehold bygninger** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kostnader til reparasjon og vedlikeho...'
 slug: 6600-reparasjon-og-vedlikehold-bygninger
@@ -59,3 +59,4 @@ Andre kontoer i NSÂ 4102 som ofte brukes sammen med konto 6600:
 * [Konto 6700 - Revisjons- og regnskapshonorarer](/blogs/kontoplan/6700-revisjons-og-regnskapshonorarer "Konto 6700 - Revisjons- og regnskapshonorarer")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 * [Hva er en Faktura?](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav")
+

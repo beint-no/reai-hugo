@@ -298,3 +298,7 @@ Ved Ã¥ ta hÃ¸yde for inflasjon i alle finansielle beslutninger kan bedrifter
 For scenarier med bÃ¥de hÃ¸y inflasjon og lav vekst, se [Hva er Stagflasjon?](/blogs/regnskap/hva-er-stagflasjon "Hva er Stagflasjon? ForstÃ¥ kombinasjonen av inflasjon og Ã¸konomisk stagnasjon").
 
 
+
+
+
+

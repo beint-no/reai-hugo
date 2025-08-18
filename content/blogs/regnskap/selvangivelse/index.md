@@ -44,3 +44,6 @@ Selvangivelse, ogsÃ¥ kjent som skattemelding, er det offisielle dokumentet som
 * [Hva er Altinn?](/blogs/regnskap/hva-er-altinn "Hva er Altinn? Digital Skatteportalen")
 
 
+
+
+

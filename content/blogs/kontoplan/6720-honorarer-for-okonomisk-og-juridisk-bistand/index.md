@@ -1,5 +1,5 @@
 ﻿---
-title: "6720-honorarer-for-okonomisk-og-juridisk-bistand"
+title: "Konto 6720 - Honorarer for Ã¸konomisk og juridisk bistand"
 meta_title: "6720-honorarer-for-okonomisk-og-juridisk-bistand"
 meta_description: '**Konto 6720 - Honorarer for Ã¸konomisk og juridisk bistand** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **honorarer knyttet til Ã¸kono...'
 slug: 6720-honorarer-for-okonomisk-og-juridisk-bistand
@@ -45,3 +45,4 @@ Konto 6720 benyttes i situasjoner som:
 * [Konto 2740 - InngÃ¥ende merverdiavgift hÃ¸y sats](/blogs/kontoplan/2740-inngaaende-merverdiavgift-hoy-sats "Konto 2740 - InngÃ¥ende merverdiavgift hÃ¸y sats")
 * [Konto 2400 - LeverandÃ¸rgjeld](/blogs/kontoplan/2400-leverandorgjeld "Konto 2400 - LeverandÃ¸rgjeld")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

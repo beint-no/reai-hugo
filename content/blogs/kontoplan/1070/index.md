@@ -1,5 +1,5 @@
 ﻿---
-title: "1070"
+title: "Hva er Konto 1070 - Utsatt skattfordel?"
 meta_title: "1070"
 meta_description: '**Konto 1070 - Utsatt skattfordel** er en spesialisert konto som brukes for Ã¥ registrere **utsatt skattfordel** - en [immateriell eiendel](/blogs/regnskap/hva-...'
 slug: 1070
@@ -209,3 +209,4 @@ Konto 1070 - Utsatt skattfordel er en kompleks, men viktig del av regnskapsfÃ¸
 * **Kontinuerlig oppfÃ¸lging** og revidering
 
 Korrekt hÃ¥ndtering av utsatt skattfordel sikrer at regnskapet gir et rettvisende bilde av virksomhetens finansielle stilling og fremtidige skattesituasjon.
+

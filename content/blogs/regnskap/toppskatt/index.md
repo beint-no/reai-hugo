@@ -63,3 +63,6 @@ Nei, toppskatt gjelder primÃ¦rt for personlige inntekter. Selskaper betaler [s
 - [Firmaskatt](/blogs/regnskap/firmaskatt "Firmaskatt “ Komplett guide til skatteregler for selskaper")
 
 
+
+
+

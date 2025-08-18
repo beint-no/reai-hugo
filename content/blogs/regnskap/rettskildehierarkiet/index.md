@@ -47,3 +47,7 @@ Ved tvil om hvordan et regnskapsproblem skal lÃ¸ses, bÃ¸r man alltid starte 
 * [Hva er bokfÃ¸ringsforskriften?](/blogs/regnskap/hva-er-bokforingsforskriften "Hva er BokfÃ¸ringsforskriften? Detaljert Guide til Norske BokfÃ¸ringsregler")
 
 
+
+
+
+

@@ -59,3 +59,7 @@ Innskuddet fÃ¸res som en **lÃ¸pende kostnad** i resultatregnskapet, og skyld
 
 
 
+
+
+
+

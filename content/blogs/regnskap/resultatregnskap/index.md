@@ -73,3 +73,7 @@ Resultatregnskapet utgjÃ¸r sammen med balanse og kontantstrÃ¸moppstilling kj
 Et **resultatregnskap** gir et helhetlig bilde av en virksomhets inntjening og kostnader i en periode, og er avgjÃ¸rende for Ã¥ vurdere bÃ¥de drift og total lÃ¸nnsomhet. Ved Ã¥ forstÃ¥ strukturen og de enkelte komponentene, kan bedrifter ta bedre beslutninger og kommunisere tydelig med interessenter.
 
 
+
+
+
+

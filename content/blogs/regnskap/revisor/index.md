@@ -81,3 +81,6 @@ En effektiv revisjon forutsetter tett samarbeid mellom revisor, ledelse og styre
 * [Internkontrollforskriften](/blogs/regnskap/internkontrollforskriften "Internkontrollforskriften")
 
 
+
+
+

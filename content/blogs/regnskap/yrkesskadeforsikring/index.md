@@ -83,3 +83,6 @@ Premien for yrkesskadeforsikring er **fradragsberettiget** som en driftskostnad.
 *Denne artikkelen gir en omfattende oversikt over yrkesskadeforsikring i norsk regnskap. For spesifikke spÃ¸rsmÃ¥l eller komplekse saker, kontakt en regnskapsfÃ¸rer eller forsikringsrÃ¥dgiver.*
 
 
+
+
+

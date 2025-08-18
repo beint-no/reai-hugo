@@ -1,5 +1,5 @@
 ﻿---
-title: "4000-innkjop-av-raavarer-og-halvfabrikata-hoy-sats"
+title: "Konto 4000 - InnkjÃ¸p av rÃ¥varer og halvfabrikata hÃ¸y sats"
 meta_title: "4000-innkjop-av-raavarer-og-halvfabrikata-hoy-sats"
 meta_description: '**Konto 4000 - InnkjÃ¸p av rÃ¥varer og halvfabrikata hÃ¸y sats** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kjÃ¸p av rÃ¥varer og innk...'
 slug: 4000-innkjop-av-raavarer-og-halvfabrikata-hoy-sats
@@ -51,3 +51,4 @@ Andre kontoer i NS 4102 som ofte benyttes sammen med konto 4000:
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 
 **Korrekt bokfÃ¸ring** av kjÃ¸p og MVA sikrer nÃ¸yaktig regnskapsfÃ¸ring og legger grunnlaget for riktig varelager og skattemeldinger.
+

@@ -1,5 +1,5 @@
 ﻿---
-title: "Unoterte aksjer “ Veileder til investering og regnskapsfÃ¸ring"
+title: "Unoterte aksjer â€“ Veileder til investering og regnskapsfÃ¸ring"
 meta_title: "Unoterte aksjer “ Veileder til investering og regnskapsfÃ¸ring"
 meta_description: '**Unoterte aksjer** er aksjer i selskaper som ikke er notert pÃ¥ bÃ¸rs eller annen regulert markedsplass. Dette innebÃ¦rer begrenset likviditet, lavere grad av ...'
 slug: unoterte-aksjer
@@ -57,5 +57,8 @@ OverfÃ¸ring av unoterte aksjer fÃ¸lger ofte selskapets vedtekter og kan vÃ�
 *   [Hva er en aksje?](/blogs/regnskap/hva-er-en-aksje "Hva er en Aksje? En Komplett Guide")
 *   [Hva er BÃ¸rs?](/blogs/regnskap/bors "Hva er BÃ¸rs? En Guide til Norsk BÃ¸rs og Aksjehandel")
 *   [Hva er Emisjon?](/blogs/regnskap/emisjon "Hva er Emisjon? En komplett guide til kapitalforhÃ¸yelse")
+
+
+
 
 

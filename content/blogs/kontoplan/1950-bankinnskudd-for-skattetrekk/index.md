@@ -1,5 +1,5 @@
 ﻿---
-title: "1950-bankinnskudd-for-skattetrekk"
+title: "Konto 1950 - Bankinnskudd for skattetrekk"
 meta_title: "1950-bankinnskudd-for-skattetrekk"
 meta_description: '**Konto 1950 - Bankinnskudd for skattetrekk** er en konto i norsk standard kontoplan som brukes til Ã¥ registrere virksomhetens **bankinnskudd for forskuddstrek...'
 slug: 1950-bankinnskudd-for-skattetrekk
@@ -71,3 +71,4 @@ For en dypere forstÃ¥else av skattetrekkskontoen, se [Hva er Skattetrekkskonto
 
 For en dypere forstÃ¥else av periodisering av betalbar skatt i kontoplanen, se [Konto 2500 - Betalbar skatt, ikke utlignet](/blogs/kontoplan/2500-betalbar-skatt-ikke-utlignet "Konto 2500 - Betalbar skatt, ikke utlignet").  
 For en full oversikt over konto for forskuddstrekk, se [Konto 2600 - Skyldig forskuddstrekk](/blogs/kontoplan/2600-forskuddstrekk "Konto 2600 - Skyldig forskuddstrekk").
+

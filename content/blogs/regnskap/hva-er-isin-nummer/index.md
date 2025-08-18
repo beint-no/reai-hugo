@@ -76,3 +76,7 @@ Kontrollsifferet sikrer at en feiltastet eller korrupt kode oppdages tidlig ved 
 ISIN inkluderer nasjonale koder som CUSIP (USA) og SEDOL (Storbritannia) som del av strukturen, men fungerer som **global standard**.
 
 
+
+
+
+

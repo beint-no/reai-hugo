@@ -1,5 +1,5 @@
 ﻿---
-title: "1310"
+title: "Hva er Konto 1310 - Investeringer annet foretak i samme konsern?"
 meta_title: "1310"
 meta_description: '**Konto 1310 - Investeringer annet foretak i samme konsern** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **langsiktige investeringer** i...'
 slug: 1310
@@ -66,3 +66,4 @@ Kredit: Konto 1920 - Bankinnskudd                                  1â€¯200â
 * [Konto 1360 - Obligasjoner](/blogs/kontoplan/1360-obligasjoner "Konto 1360 - Obligasjoner")
 * [Konto 1370 - Fordringer pÃ¥ eiere og styremedlemmer](/blogs/kontoplan/1370-fordringer-pa-eiere-og-styremedlemmer "Konto 1370 - Fordringer pÃ¥ eiere og styremedlemmer")
 * [Konto 1380 - Fordringer pÃ¥ ansatte](/blogs/kontoplan/1380-fordringer-pa-ansatte "Konto 1380 - Fordringer pÃ¥ ansatte")
+

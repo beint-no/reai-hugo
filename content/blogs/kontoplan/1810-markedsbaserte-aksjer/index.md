@@ -1,5 +1,5 @@
 ﻿---
-title: "1810-markedsbaserte-aksjer"
+title: "Konto 1810 - Markedsbaserte aksjer"
 meta_title: "1810-markedsbaserte-aksjer"
 meta_description: '**Konto 1810 - Markedsbaserte aksjer** er en konto i Norsk Standard Kontoplan som brukes for Ã¥ registrere **markedsbaserte aksjer** som omsettes pÃ¥ regulerte ...'
 slug: 1810-markedsbaserte-aksjer
@@ -57,3 +57,4 @@ Kredit: Konto 8300 - Urealiserte gevinster/fall i virkelig verdi
 * [Konto 1820 - Andre aksjer](/blogs/kontoplan/1820-andre-aksjer "Konto 1820 - Andre aksjer")
 * [Konto 1830 - Markedsbaserte obligasjoner](/blogs/kontoplan/1830-markedsbaserte-obligasjoner "Konto 1830 - Markedsbaserte obligasjoner")
 * [Hva er Virkelig Verdi?](/blogs/regnskap/hva-er-virkelig-verdi "Hva er Virkelig Verdi? Verdsettelse og RegnskapsfÃ¸ring")
+

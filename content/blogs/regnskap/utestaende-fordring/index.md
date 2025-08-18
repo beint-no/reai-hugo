@@ -60,3 +60,6 @@ Inkasso mÃ¥ skje i henhold til [Inkassoloven](/blogs/regnskap/hva-er-inkassolo
 Systematisk bruk av **aldersanalyse**, **oppfÃ¸lging** og **tapsvurdering** er avgjÃ¸rende for effektiv styring av utestÃ¥ende fordringer og for Ã¥ sikre bedriftens likviditet.
 
 
+
+
+

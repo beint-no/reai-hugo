@@ -81,3 +81,7 @@ Fondsemisjon fÃ¸rer til Ã¸kning av aksjekapital og tilsvarende reduksjon i a
 - [Konto 8950 - Fondsemisjon](/blogs/kontoplan/8950-fondsemisjon "Konto 8950 - Fondsemisjon: Guide til Fondsemisjon i Norsk Standard Kontoplan")
 
 
+
+
+
+

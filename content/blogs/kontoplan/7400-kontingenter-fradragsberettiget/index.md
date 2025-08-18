@@ -1,5 +1,5 @@
 ﻿---
-title: "7400-kontingenter-fradragsberettiget"
+title: "Konto 7400 - Kontingenter, fradragsberettiget"
 meta_title: "7400-kontingenter-fradragsberettiget"
 meta_description: '**Konto 7400 - Kontingenter, fradragsberettiget** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til Ã¥ registrere **kontingenter som er fradr...'
 slug: 7400-kontingenter-fradragsberettiget
@@ -42,3 +42,4 @@ layout: pages/single
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 
 **Konto 7400 - Kontingenter, fradragsberettiget** gir oversikt over fradragsberettigede medlemsavgifter som er tillatt kostnadsfÃ¸rt i regnskapet.
+

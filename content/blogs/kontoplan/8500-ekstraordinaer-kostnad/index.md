@@ -1,5 +1,5 @@
 ﻿---
-title: "8500-ekstraordinaer-kostnad"
+title: "Konto 8500 - EkstraordinÃ¦r kostnad"
 meta_title: "8500-ekstraordinaer-kostnad"
 meta_description: '**Konto 8500 - EkstraordinÃ¦r kostnad** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **ekstraordinÃ¦r kostnad**, dvs. engangs- eller ufor...'
 slug: 8500-ekstraordinaer-kostnad
@@ -47,3 +47,4 @@ EkstraordinÃ¦re kostnader vises i resultatregnskapet under **ekstraordinÃ¦re
 * [Konto 8400 - EkstraordinÃ¦r inntekt](/blogs/kontoplan/8400-ekstraordinaer-inntekt "Konto 8400 - EkstraordinÃ¦r inntekt")
 * [Konto 7790 - Diverse kostnader](/blogs/kontoplan/7790-diverse-kostnader "Konto 7790 - Diverse kostnader")
 * [Hva er anleggsmidler?](/blogs/regnskap/hva-er-anleggsmidler "Hva er anleggsmidler - Guide til anleggsmidler i balanse")
+

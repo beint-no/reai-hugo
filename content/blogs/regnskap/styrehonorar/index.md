@@ -92,3 +92,6 @@ For mer informasjon om styrehonorar, se ogsÃ¥:
 Styrehonorar er en viktig del av selskapsstyringen og krever bÃ¥de juridisk etterlevelse, korrekt skattemessig behandling og god regnskapsfÃ¸ring for Ã¥ sikre tillit og transparens i selskapet.
 
 
+
+
+

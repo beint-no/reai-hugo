@@ -1,5 +1,5 @@
 ﻿---
-title: "3010-salgsinntekt-egentilvirkede-varer"
+title: "Konto 3010 - Salgsinntekt egentilvirkede varer avgiftspl. hÃ¸y sats"
 meta_title: "3010-salgsinntekt-egentilvirkede-varer"
 meta_description: '**Konto 3010 - Salgsinntekt egentilvirkede varer avgiftspl. hÃ¸y sats** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **salgsinntekter** f...'
 slug: 3010-salgsinntekt-egentilvirkede-varer
@@ -48,3 +48,4 @@ Salgsinntekter rapporteres netto, det vil si eksklusive MVA, og skal fÃ¸res i 
 * [Hva er Driftsinntekter?](/blogs/regnskap/hva-er-driftsinntekter "Hva er Driftsinntekter? Komplett Guide til Driftsinntekter i Regnskap")
 * [Hva er Omsetning?](/blogs/regnskap/hva-er-omsetning "Hva er Omsetning? Komplett Guide til Omsetning i Regnskap og Skatt")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

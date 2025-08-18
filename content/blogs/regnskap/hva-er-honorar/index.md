@@ -317,3 +317,7 @@ Honorar er en viktig del av moderne forretningsdrift som krever nÃ¸ye hÃ¥ndt
 Korrekt hÃ¥ndtering av honorar bidrar ikke bare til Ã¥ oppfylle juridiske krav, men ogsÃ¥ til Ã¥ opprettholde god [internkontroll](/blogs/regnskap/hva-er-attestering "Hva er Attestering? En Komplett Guide til Bilagsbehandling og Godkjenning") og Ã¸konomisk oversikt i bedriften. Med de rette systemene og prosedyrene pÃ¥ plass, kan honorar vÃ¦re et verdifullt verktÃ¸y for Ã¥ fÃ¥ tilgang til spesialisert kompetanse og ekspertise.
 
 
+
+
+
+

@@ -1,5 +1,5 @@
 ﻿---
-title: "5240-rentefordel"
+title: "Konto 5240 - Rentefordel"
 meta_title: "5240-rentefordel"
 meta_description: '**Konto 5240 - Rentefordel** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til Ã¥ registrere **rentefordel** som **ansattgode**.'
 slug: 5240-rentefordel
@@ -72,3 +72,4 @@ En arbeidstaker fÃ¥r lÃ¥n pÃ¥ 100â€¯000Â NOK til avtalt rente 1â€
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 
 **Konto 5240 - Rentefordel** gir en standardisert mÃ¥te Ã¥ synliggjÃ¸re rentefordel som et **ansattgode** i regnskapet.
+

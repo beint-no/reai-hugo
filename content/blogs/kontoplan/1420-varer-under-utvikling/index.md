@@ -1,5 +1,5 @@
 ﻿---
-title: "1420-varer-under-utvikling"
+title: "Konto 1420 - Varer under utvikling"
 meta_title: "1420-varer-under-utvikling"
 meta_description: '**Konto 1420 - Varer under utvikling** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **varer under utvikling** som pÃ¥gÃ¥r i produksjonspr...'
 slug: 1420-varer-under-utvikling
@@ -60,3 +60,4 @@ Se ogsÃ¥ [Hva er Varelager?](/blogs/regnskap/hva-er-varelager "Hva er Varelage
 * [Konto 4190 - Beholdningsendring](/blogs/kontoplan/4190-beholdningsendring "Konto 4190 - Beholdningsendring")
 
 **Korrekt regnskapsfÃ¸ring** av varer under utvikling sikrer riktig kostnadskontroll og gir nÃ¸yaktig balanse.
+

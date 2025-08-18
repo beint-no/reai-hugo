@@ -236,3 +236,7 @@ Et **styre** er det sentrale ledelses- og styringsorganet i et [aksjeselskap (AS
 For en oversikt over ulike lederroller og deres ansvar, se ogsÃ¥ artikkelen [Leder](/blogs/regnskap/leder "Leder: Roller og Ansvar i Norske Selskaper").
 
 
+
+
+
+

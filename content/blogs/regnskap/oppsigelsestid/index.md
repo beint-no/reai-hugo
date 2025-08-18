@@ -57,3 +57,7 @@ Ved oppsigelse kan det oppstÃ¥ forpliktelser som pÃ¥virker regnskapet:
 - [Arbeidsforholdstype](/blogs/regnskap/hva-er-arbeidsforholdstype "Arbeidsforholdstype") “ Hvordan ulike ansettelsesformer pÃ¥virker oppsigelsesrett.
 
 
+
+
+
+

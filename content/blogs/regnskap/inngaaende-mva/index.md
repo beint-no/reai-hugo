@@ -70,3 +70,4 @@ Det finnes situasjoner hvor inngÃ¥ende mva ikke kan fradragsfÃ¸res fullt ut:
 * For krav til regnskapsfÃ¸ring, se [Hva er BokfÃ¸ringsforskriften?](/blogs/regnskap/hva-er-bokforingsforskriften "Hva er BokfÃ¸ringsforskriften? Regler for bokfÃ¸ringsplikt i Norge")
 
 
+

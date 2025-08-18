@@ -78,3 +78,4 @@ Moderne [ERP-systemer](/blogs/regnskap/hva-er-erp-system "Hva er ERP-system? Kom
 OppgjÃ¸r er en sentral del av **god regnskapsskikk** og bidrar til nÃ¸yaktig, pÃ¥litelig og transparent Ã¸konomistyring.
 
 
+

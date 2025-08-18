@@ -55,3 +55,7 @@ Indirekte kostnader spiller en sentral rolle i kostnads- og lÃ¸nnsomhetsanalys
 **Indirekte kostnader** dekker de felles kostnadene som stÃ¸tter virksomhetens drift, men som ikke kan spores direkte til spesifikke produkter eller tjenester. Gjennom **korrekt allokering** kan virksomheter oppnÃ¥ mer nÃ¸yaktig kostnadsberegning, bedre prissetting og forbedret lÃ¸nnsomhetsanalyse.
 
 
+
+
+
+

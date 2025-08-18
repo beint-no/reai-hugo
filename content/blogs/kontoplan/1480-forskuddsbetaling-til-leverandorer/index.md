@@ -1,5 +1,5 @@
 ﻿---
-title: "1480-forskuddsbetaling-til-leverandorer"
+title: "Konto 1480 - Forskuddsbetaling til leverandÃ¸rer"
 meta_title: "1480-forskuddsbetaling-til-leverandorer"
 meta_description: '**Konto 1480 - Forskuddsbetaling til leverandÃ¸rer** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **forskuddsbetalinger** til leverandÃ¸r...'
 slug: 1480-forskuddsbetaling-til-leverandorer
@@ -48,3 +48,4 @@ Andre kontoer i NS 4102 som ofte benyttes sammen med konto 1480:
 * [Konto 2900 - Forskudd fra kunder](/blogs/kontoplan/2900-forskudd-fra-kunder "Konto 2900 - Forskudd fra kunder: RegnskapsfÃ¸ring av forskudd fra kunder")
 
 **Korrekt bruk** av konto 1480 sikrer god periodisering av kostnader og kontroll over forskuddsbetalinger til leverandÃ¸rer.
+

@@ -1,5 +1,5 @@
 ﻿---
-title: "8110-nedskrivning-finansielle-omlopsmidler"
+title: "Konto 8110 - Nedskrivning finansielle omlÃ¸psmidler"
 meta_title: "8110-nedskrivning-finansielle-omlopsmidler"
 meta_description: '**Konto 8110 - Nedskrivning finansielle omlÃ¸psmidler** er en konto i Norsk Standard Kontoplan som brukes for Ã¥ registrere **realiserte tap** og **varige verdi...'
 slug: 8110-nedskrivning-finansielle-omlopsmidler
@@ -52,3 +52,4 @@ Kredit: Konto 1810 - Markedsbaserte aksjer                    15Â 000 kr
 * [Konto 8080 - VerdiÃ¸kning finansielle omlÃ¸psmidler](/blogs/kontoplan/8080-verdiokning-finansielle-omlopsmidler "Konto 8080 - VerdiÃ¸kning finansielle omlÃ¸psmidler")
 * [Hva er Nedskrivning?](/blogs/regnskap/hva-er-nedskrivning "Hva er Nedskrivning? Komplett Guide til Nedskrivning av Eiendeler")
 * [Konto 8120 - Nedskrivning finansielle anleggsmidler](/blogs/kontoplan/8120-nedskrivning-finansielle-anleggsmidler "Konto 8120 - Nedskrivning finansielle anleggsmidler")
+

@@ -62,3 +62,6 @@ For bedrifter er det avgjÃ¸rende Ã¥ fÃ¸lge Skatteetatens retningslinjer fo
 Skatteetaten er navet i det norske skattesystemet, og gode digitale tjenester, klare frister og grundig kontroll sikrer at bÃ¥de privatpersoner og bedrifter oppfyller sine forpliktelser. BesÃ¸k [Skatteetaten](/blogs/regnskap/skatteetaten "Skatteetaten “ Norges Skatteadministrasjon og Skatteforvaltning") for mer informasjon.
 
 
+
+
+

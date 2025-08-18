@@ -325,3 +325,7 @@ God kreditorhÃ¥ndtering er avgjÃ¸rende for Ã¥ opprettholde gode leverandÃ
 KreditorhÃ¥ndtering er ikke bare et regnskapsteknisk spÃ¸rsmÃ¥l, men en strategisk aktivitet som pÃ¥virker bÃ¥de leverandÃ¸rforhold og lÃ¸nnsomhet. Balansen mellom Ã¥ utnytte kredittbetingelser og opprettholde gode leverandÃ¸rforhold er nÃ¸kkelen til suksess.
 
 
+
+
+
+

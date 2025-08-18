@@ -1,5 +1,5 @@
 ﻿---
-title: "2050-annen-egenkapital"
+title: "Konto 2050 - Annen egenkapital"
 meta_title: "2050-annen-egenkapital"
 meta_description: '**Konto 2050 - Annen egenkapital** er en konto innen **egenkapital** i Norsk Standard Kontoplan (NSÂ 4102) som brukes til Ã¥ registrere **annen egenkapital** fo...'
 slug: 2050-annen-egenkapital
@@ -57,3 +57,4 @@ _*Eksempeltransaksjoner; bruk relevante kontoer for resultatkonto.*_
 * [Konto 8960 - OverfÃ¸ring annen egenkapital](/blogs/kontoplan/8960-overforing-annen-egenkapital "Konto 8960 - OverfÃ¸ring annen egenkapital: OverfÃ¸ring annen egenkapital i Norsk Standard Kontoplan")
 * [Hva er egenkapital?](/blogs/regnskap/hva-er-egenkapital "Hva er Egenkapital? Komplett Guide til Egenkapital i Regnskap")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

@@ -1,5 +1,5 @@
 ﻿---
-title: "2460-leverandorgjeld-til-selskap-i-samme-konsern"
+title: "Hva er Konto 2460 - LeverandÃ¸rgjeld til selskap i samme konsern?"
 meta_title: "2460-leverandorgjeld-til-selskap-i-samme-konsern"
 meta_description: '**Konto 2460 - LeverandÃ¸rgjeld til selskap i samme konsern** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kortsiktig leverandÃ¸rgjeld*...'
 slug: 2460-leverandorgjeld-til-selskap-i-samme-konsern
@@ -51,3 +51,4 @@ _* Avhengig av art av kjÃ¸pet kan andre kostnadskontoer benyttes._
 * [Hva er Konsern?](/blogs/regnskap/hva-er-konsern "Hva er Konsern? Komplett Guide til Konsernstrukturer og Konsernregnskap")
 
 _**Artikkel omtaler interne transaksjoner mellom konsernselskaper og er ment for regnskapsfÃ¸rere og Ã¸konomiansvarlige._
+

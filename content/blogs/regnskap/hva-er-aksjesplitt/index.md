@@ -83,3 +83,7 @@ En aksjesplitt er et verktÃ¸y selskaper kan bruke for Ã¥ justere aksjekursen
 
 
 
+
+
+
+

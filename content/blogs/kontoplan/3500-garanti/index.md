@@ -1,5 +1,5 @@
 ﻿---
-title: "3500-garanti"
+title: "Hva er Konto 3500 - Garanti?"
 meta_title: "3500-garanti"
 meta_description: '**Konto 3500 - Garanti** er en konto i Norsk Standard Kontoplan som brukes for Ã¥ registrere **garantiforpliktelser**, inkludert depositum og garantistillelser ...'
 slug: 3500-garanti
@@ -77,3 +77,4 @@ _*Tilpass kontoer etter selskapets kontoplan og sikr korrekt resultatfÃ¸ring.*
 * [Hva er Avsetning i Regnskap?](/blogs/regnskap/avsetning "Hva er Avsetning i Regnskap? Komplett Guide til Avsetninger og Estimater")
 * [Hva er Periodisering i Regnskap?](/blogs/regnskap/hva-er-periodisering "Hva er Periodisering i Regnskap? Komplett Guide til Periodiseringsprinsippet")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

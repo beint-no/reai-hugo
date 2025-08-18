@@ -369,3 +369,7 @@ For organisasjoner som Ã¸nsker Ã¥ styrke sin internkontroll, er det essensie
 Ved Ã¥ investere i solid internkontroll legger organisasjoner grunnlaget for langsiktig suksess, redusert risiko og Ã¸kt tillit fra interessenter.
 
 
+
+
+
+

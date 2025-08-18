@@ -62,3 +62,6 @@ Relaterte artikler:
 - [Hva er kapitalforhÃ¸yelse?](/blogs/regnskap/kapitalforhoyelse "Hva er KapitalforhÃ¸yelse? Emisjon, Krav og Prosess")
 
 
+
+
+

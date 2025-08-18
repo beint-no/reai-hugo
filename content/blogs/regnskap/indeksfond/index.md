@@ -59,3 +59,7 @@ For norske investorer er en **Aksjesparekonto (ASK)** en populÃ¦r lÃ¸sning f
 Indeksfond gir en enkel, **kostnadseffektiv** og **transparent** mÃ¥te Ã¥ investere bredt i markedet. Med lave gebyrer og automatisk rebalansering passer indeksfond godt for langsiktige investorer som Ã¸nsker markedsavkastning uten aktiv forvaltning.
 
 
+
+
+
+

@@ -369,3 +369,7 @@ For Ã¥ forstÃ¥ sysselsatt kapital fullt ut, bÃ¸r du ogsÃ¥ sette deg inn 
 Sysselsatt kapital er et sentralt begrep for alle som Ã¸nsker Ã¥ forstÃ¥ og optimalisere kapitalbruken i en bedrift. Ved Ã¥ mÃ¥le og fÃ¸lge opp sysselsatt kapital systematisk, kan bedrifter forbedre sin lÃ¸nnsomhet og skape mer verdi for eierne.
 
 
+
+
+
+

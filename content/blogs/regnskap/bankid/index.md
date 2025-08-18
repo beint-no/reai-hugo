@@ -71,3 +71,7 @@ BankID forventes Ã¥ utvikle seg med nye funksjoner som **biometrisk autentiser
 
 
 
+
+
+
+

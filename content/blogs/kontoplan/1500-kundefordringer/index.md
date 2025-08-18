@@ -1,5 +1,5 @@
 ﻿---
-title: "1500-kundefordringer"
+title: "Hva er Konto 1500 - Kundefordringer?"
 meta_title: "1500-kundefordringer"
 meta_description: '**Konto 1500 - Kundefordringer** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **salg pÃ¥ kreditt** til kunder som kortsiktige fordringer ...'
 slug: 1500-kundefordringer
@@ -69,3 +69,4 @@ Kredit: Konto 1501 - Avsetning kundefordringer     50â€¯000 NOK
 * [Konto 1550 - Kundefordringer pÃ¥ selskap samme konsern](/blogs/kontoplan/1550-kundefordringer-pa-selskap-samme-konsern "Konto 1550 - Kundefordringer pÃ¥ selskap samme konsern")
 * [Konto 1580 - Avsetning tap pÃ¥ fordringer](/blogs/kontoplan/1580-avsetning-tap-pa-fordringer "Konto 1580 - Avsetning tap pÃ¥ fordringer")
 * [Hva er Tapsavsetning?](/blogs/regnskap/tap-pa-fordring "Hva er Tapsavsetning? Behandling av fordringer")
+

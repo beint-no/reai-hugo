@@ -1,5 +1,5 @@
 ﻿---
-title: "8900-overforingsfond-vurderingsforskjeller"
+title: "Konto 8900 - OverfÃ¸ringsfond vurderingsforskjeller"
 meta_title: "8900-overforingsfond-vurderingsforskjeller"
 meta_description: '**Konto 8900 - OverfÃ¸ringsfond vurderingsforskjeller** er en konto innen **reserver og overfÃ¸ringer** i Norsk Standard Kontoplan (NSÂ 4102) som brukes til Ã¥ ...'
 slug: 8900-overforingsfond-vurderingsforskjeller
@@ -37,3 +37,4 @@ layout: pages/single
 * [Konto 8910 - OverfÃ¸ringsfond felleseid kapital samme foretak](/blogs/kontoplan/8910-overforingsfond-felleseid-kapital-samme-foretak "Konto 8910 - OverfÃ¸ringsfond felleseid kapital samme foretak")
 * [Konto 8930 - Konsernbidrag](/blogs/kontoplan/8930-konsernbidrag "Konto 8930 - Konsernbidrag: Konsernbidrag mellom selskaper i konsern")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

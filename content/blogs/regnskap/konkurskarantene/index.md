@@ -58,3 +58,7 @@ For Ã¥ redusere risikoen for ileggelse av konkurskarantene bÃ¸r ledere og st
 *Relaterte artikler:* [Konkurs](/blogs/regnskap/konkurs "Hva er Konkurs? Juridiske og regnskapsmessige konsekvenser av Konkurs"), [Insolvens](/blogs/regnskap/insolvens "Hva er Insolvens? Definisjon, Ã…rsaker og Behandling"), [Dividende ved konkurs](/blogs/regnskap/dividende-ved-konkurs "Dividende ved konkurs: PrioriteringsrekkefÃ¸lge og fordeling av utbytte i konkursbo")
 
 
+
+
+
+

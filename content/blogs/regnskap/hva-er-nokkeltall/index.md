@@ -407,3 +407,7 @@ God [internkontroll](/blogs/regnskap/hva-er-internkontroll "Hva er Internkontrol
 Etter hvert som forretningsverden blir mer kompleks og digital, vil evnen til Ã¥ analysere og tolke nÃ¸kkeltall bli enda viktigere for Ã¥ lykkes i konkurranseutsatte markeder.
 
 
+
+
+
+

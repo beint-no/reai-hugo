@@ -65,3 +65,7 @@ Hvor:
 * [Hva er internrente?](/blogs/regnskap/internrente "Internrente “ Beregning av Avkastning")
 
 
+
+
+
+

@@ -297,3 +297,4 @@ Et **morselskap** er en sentral aktÃ¸r i moderne nÃ¦ringslivet som gir mulig
 For virksomheter som vurderer Ã¥ etablere morselskapsstruktur, er det viktig Ã¥ **sÃ¸ke profesjonell rÃ¥dgivning** for Ã¥ sikre optimal **juridisk**, **skattemessig** og **regnskapsmessig** lÃ¸sning tilpasset virksomhetens behov og mÃ¥l.
 
 
+

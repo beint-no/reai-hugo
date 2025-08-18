@@ -251,3 +251,7 @@ For norske bedrifter er det viktig Ã¥ forstÃ¥ bÃ¥de internasjonale standar
 En solid forstÃ¥else av finansregnskapets prinsipper, komponenter og anvendelse er essensielt for alle som arbeider med eller bruker finansiell informasjon i nÃ¦ringslivet.
 
 
+
+
+
+

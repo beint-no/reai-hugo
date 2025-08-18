@@ -1,5 +1,5 @@
 ﻿---
-title: "Kontantkasse i Regnskap “ Guide til Bruk og HÃ¥ndtering"
+title: "Kontantkasse i Regnskap â€“ Guide til Bruk og HÃ¥ndtering"
 meta_title: "Kontantkasse i Regnskap “ Guide til Bruk og HÃ¥ndtering"
 meta_description: '**Kontantkasse** er den fysiske boksen eller kassen som bedrifter bruker til oppbevaring og registrering av **kontanter** fra salg og andre innbetalinger. En ko...'
 slug: kontantkasse
@@ -55,5 +55,9 @@ Internkontroll i kontantkassearbeidet reduserer risikoen for svinn og feil:
 | 03.01.2024 | Papir og kontor |                  | 200             | 6Â 400      |
 
 For mer detaljert avstemming, se [Hva er KasseoppgjÃ¸r?](/blogs/regnskap/hva-er-kasseoppgjor "Hva er KasseoppgjÃ¸r? Daglig Kontantavstemming i Kassasystemet").
+
+
+
+
 
 

@@ -1,5 +1,5 @@
 ﻿---
-title: "5090-periodiseringskonto-lonn"
+title: "Konto 5090 - Periodiseringskonto lÃ¸nn"
 meta_title: "5090-periodiseringskonto-lonn"
 meta_description: '**Konto 5090 - Periodiseringskonto lÃ¸nn** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til Ã¥ periodisere **lÃ¸nnskostnader** som er pÃ¥lÃ¸pt, ...'
 slug: 5090-periodiseringskonto-lonn
@@ -68,3 +68,4 @@ NÃ¥r lÃ¸nnen utbetales i januar:
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 
 Ved Ã¥ benytte **Konto 5090 - Periodiseringskonto lÃ¸nn** sikrer du at lÃ¸nnskostnadene vises i riktig regnskapsperiode, noe som bidrar til mer nÃ¸yaktige og sammenlignbare finansielle rapporter.
+

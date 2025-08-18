@@ -1,5 +1,5 @@
 ﻿---
-title: "1260"
+title: "Hva er Konto 1260 - Bygninger med annen avskrivningstid?"
 meta_title: "1260"
 meta_description: '**Konto 1260 - Bygninger med annen avskrivningstid** er en konto i norsk kontoplan som benyttes for **bygninger** som krever **spesielle avskrivningsperioder** ...'
 slug: 1260
@@ -52,3 +52,4 @@ Ved salg eller utrangering fÃ¸lger bokfÃ¸ringen samme prinsipper som for [Ko
 * [Konto 6000 - Avskrivning pÃ¥ bygninger og annen fast eiendom](/blogs/kontoplan/6000-avskrivning-pa-bygninger-og-annen-fast-eiendom "Konto 6000 - Avskrivning pÃ¥ bygninger og annen fast eiendom")
 * [Hva er Avskrivning?](/blogs/regnskap/hva-er-avskrivning "Hva er Avskrivning i Regnskap?")
 * [Hva er Anskaffelseskost?](/blogs/regnskap/hva-er-anskaffelseskost "Hva er Anskaffelseskost?")
+

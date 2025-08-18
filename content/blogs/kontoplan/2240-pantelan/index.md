@@ -1,5 +1,5 @@
 ﻿---
-title: "2240-pantelan"
+title: "Konto 2240 - PantelÃ¥n"
 meta_title: "2240-pantelan"
 meta_description: '**Konto 2240 - PantelÃ¥n** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til Ã¥ registrere **pantelÃ¥n**, det vil si lÃ¥n sikret med pant i eiend...'
 slug: 2240-pantelan
@@ -57,3 +57,4 @@ Andre kontoer i NSÂ 4102 som ofte benyttes sammen med konto 2240:
 * [Hva er en kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 
 **Riktig bokfÃ¸ring** av pantelÃ¥n sikrer korrekte resultat- og balanseposter, og hjelper virksomheten med Ã¥ holde oversikt over sine sikre forpliktelser.
+

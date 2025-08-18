@@ -1,5 +1,5 @@
 ﻿---
-title: "1030"
+title: "Hva er Konto 1030 - Patenter?"
 meta_title: "1030"
 meta_description: '**Konto 1030 - Patenter** er en sentral konto i norsk kontoplan for virksomheter som eier eller utvikler patentrettigheter. Denne kontoen brukes for Ã¥ registre...'
 slug: 1030
@@ -280,3 +280,4 @@ Patenter pÃ¥ konto 1030 rapporteres som [anleggsmidler](/blogs/regnskap/hva-er
 * [Hva er Anleggsmidler?](/blogs/regnskap/hva-er-anleggsmidler "Hva er Anleggsmidler?")
 * [Hva er Balanse?](/blogs/regnskap/hva-er-balanse "Hva er Balanse?")
 * [Hva er Anskaffelseskost?](/blogs/regnskap/hva-er-anskaffelseskost "Hva er Anskaffelseskost?")
+

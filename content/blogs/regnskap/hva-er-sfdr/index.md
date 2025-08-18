@@ -420,3 +420,7 @@ Regelverket vil fortsette Ã¥ utvikle seg med Ã¸kt **granularitet**, **digita
 **SFDR er mer enn et regelverk - det er en katalysator for en mer bÃ¦rekraftig og transparent finanssektor** som vil definere fremtidens kapitalmarkeder.
 
 
+
+
+
+

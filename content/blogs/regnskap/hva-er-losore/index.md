@@ -62,3 +62,7 @@ Ved varig verdifall skal det foretas **nedskrivning** til laveste verdi (anskaff
 LÃ¸sÃ¸re spiller en sentral rolle bÃ¥de i [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse i Regnskap? Oppbygging og Analyse") og ved sikkerhetsstillelse i form av pant. For mer om eiendeler generelt, se [Hva er Eiendel?](/blogs/regnskap/hva-er-eiendel "Hva er Eiendel i Regnskap? Komplett Guide til Eiendom og Verdier").
 
 
+
+
+
+

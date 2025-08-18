@@ -77,3 +77,7 @@ For Ã¥ redusere risikoen for restskatt bÃ¸r virksomheter:
 **Restskatt** er en viktig post i norsk regnskap som kan gi uventede kostnader nÃ¥r forskuddsbetalinger eller avsetninger ikke samsvarer med endelig skattegrunnlag. Ved Ã¥ forstÃ¥ Ã¥rsaker, beregning og god bokfÃ¸ringspraksis, samt implementere preventive rutiner, kan virksomheter minimere restskatt og bedre planlegge likviditet.
 
 
+
+
+
+

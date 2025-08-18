@@ -1,5 +1,5 @@
 ﻿---
-title: "4990-beholdningsendring"
+title: "Konto 4990 - Beholdningsendring"
 meta_title: "4990-beholdningsendring"
 meta_description: '**Konto 4990 - Beholdningsendring** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **endringer i varelagerets beholdning** i resultatregnsk...'
 slug: 4990-beholdningsendring
@@ -62,3 +62,4 @@ For mer om lagervurdering, se [Hva er Varelager?](/blogs/regnskap/hva-er-varelag
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 
 **Korrekt hÃ¥ndtering** av beholdningsendringer sikrer et nÃ¸yaktig resultatregnskap og gir bedre innsikt i produksjons- og lagerstyring.
+

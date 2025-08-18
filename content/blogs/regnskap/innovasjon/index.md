@@ -65,3 +65,7 @@ Innovasjon er mer enn et strategisk buzzword “ det er en regnskapsmessig reali
 *Artikkelen ble sist oppdatert for Ã¥ gi en omfattende oversikt over innovasjon i regnskapssammenheng.*
 
 
+
+
+
+

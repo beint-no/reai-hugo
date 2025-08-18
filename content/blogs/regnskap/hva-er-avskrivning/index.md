@@ -339,3 +339,7 @@ NÃ¥r eiendeler selges eller avhendes, mÃ¥ den bokfÃ¸rte verdien realiseres
 
 
 
+
+
+
+

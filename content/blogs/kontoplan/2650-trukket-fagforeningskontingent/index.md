@@ -1,5 +1,5 @@
 ﻿---
-title: "2650-trukket-fagforeningskontingent"
+title: "Hva er Konto 2650 - Trukket fagforeningskontingent?"
 meta_title: "2650-trukket-fagforeningskontingent"
 meta_description: '**Konto 2650 - Trukket fagforeningskontingent** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ vise **fagforeningskontingent** som er trukket fra ansa...'
 slug: 2650-trukket-fagforeningskontingent
@@ -71,3 +71,4 @@ Kredit: Konto 1920 - Bankinnskudd                     YYY NOK
 * [Konto 7400 - Kontingenter, fradragsberettiget](/blogs/kontoplan/7400-kontingenter-fradragsberettiget "Konto 7400 - Kontingenter, fradragsberettiget")
 
 **Konto 2650 - Trukket fagforeningskontingent** viser fagforeningskontingent trukket fra lÃ¸nn og sikrer korrekt periodisering og presentasjon som kortsiktig gjeld i balansen.
+

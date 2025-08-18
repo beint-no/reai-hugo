@@ -1,5 +1,5 @@
 ﻿---
-title: "6840-aviser-og-tidsskrifter-boker-o-l"
+title: "Konto 6840 - Aviser og tidsskrifter, bÃ¸ker o.l."
 meta_title: "6840-aviser-og-tidsskrifter-boker-o-l"
 meta_description: '**Konto 6840 - Aviser og tidsskrifter, bÃ¸ker o.l.** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kostnader til publiseringsmateriale**...'
 slug: 6840-aviser-og-tidsskrifter-boker-o-l
@@ -41,3 +41,4 @@ Andre kontoer i NSÂ 4102 som ofte brukes sammen med kontoÂ 6840:
 * [Konto 1613 - InngÃ¥ende merverdiavgift middels sats](/blogs/kontoplan/1613-inngaaende-merverdiavgift-middels-sats "Konto 1613 - InngÃ¥ende merverdiavgift middels sats")
 * [Konto 7320 - Reklamekostnad](/blogs/kontoplan/7320-reklamekostnad "Konto 7320 - Reklamekostnad")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

@@ -65,3 +65,7 @@ Organisasjonskultur er et sentralt element i **kontrollmiljÃ¸et**, som danner 
 En bevisst tilnÃ¦rming til organisasjonskultur bidrar til Ã¥ bygge et robust kontrollmiljÃ¸, styrke regnskapsprosesser og redusere risiko. Ved Ã¥ forstÃ¥ og utvikle kulturen kan norske virksomheter oppnÃ¥ bedre internkontroll, Ã¸kt medarbeiderengasjement og mer pÃ¥litelig Ã¸konomirapportering.
 
 
+
+
+
+

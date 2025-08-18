@@ -1,5 +1,5 @@
 ﻿---
-title: "3440-spesielt-offentlig-tilskudd-for-tjeneste"
+title: "Konto 3440 - Spesielt offentlig tilskudd for tjeneste"
 meta_title: "3440-spesielt-offentlig-tilskudd-for-tjeneste"
 meta_description: '**Konto 3440 - Spesielt offentlig tilskudd for tjeneste** er en konto i **Norsk Standard Kontoplan** som brukes til Ã¥ registrere **offentlige tilskudd** knytte...'
 slug: 3440-spesielt-offentlig-tilskudd-for-tjeneste
@@ -45,3 +45,4 @@ Kredit: Konto 3440 - Spesielt offentlig tilskudd for tjeneste 80 000
 ## Relaterte artikler
 
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

@@ -1,5 +1,5 @@
 ﻿---
-title: "1750-palopte-leier"
+title: "Konto 1750 - PÃ¥lÃ¸pte leier"
 meta_title: "1750-palopte-leier"
 meta_description: '**Konto 1750 - PÃ¥lÃ¸pte leier** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **pÃ¥lÃ¸pte leiekostnader** for leie av lokaler, utstyr og ...'
 slug: 1750-palopte-leier
@@ -47,3 +47,4 @@ Andre kontoer i NSÂ 4102 som ofte benyttes sammen med konto 1750:
 * [Konto 2960 - PÃ¥lÃ¸pt kostnad og forskuddsbetalt inntekt](/blogs/kontoplan/2960-palopte-kostnad-og-forskuddsbetalt-inntekt "Konto 2960 - PÃ¥lÃ¸pt kostnad og forskuddsbetalt inntekt: RegnskapsfÃ¸ring av pÃ¥lÃ¸pt kostnad og forskuddsbetalt inntekt")
 
 **Korrekt bruk** av konto 1750 sikrer god periodisering og oversikt over pÃ¥lÃ¸pte leiekostnader.
+

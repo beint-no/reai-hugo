@@ -1,5 +1,5 @@
 ﻿---
-title: "7350-representasjon-fradragsberettiget"
+title: "Konto 7350 - Representasjon, fradragsberettiget"
 meta_title: "7350-representasjon-fradragsberettiget"
 meta_description: '**Konto 7350 - Representasjon, fradragsberettiget** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til Ã¥ registrere **fradragsberettigede rep...'
 slug: 7350-representasjon-fradragsberettiget
@@ -44,3 +44,4 @@ layout: pages/single
 * [Konto 7700 - Styre- og bedriftsforsamlingsmÃ¸ter](/blogs/kontoplan/7700-styre-og-bedriftsforsamlingsmoter "Konto 7700 - Styre- og bedriftsforsamlingsmÃ¸ter")
 
 **Konto 7350 - Representasjon, fradragsberettiget** sikrer korrekt registrering av representasjonskostnader som er tillatt fradrag i henhold til gjeldende regelverk.
+

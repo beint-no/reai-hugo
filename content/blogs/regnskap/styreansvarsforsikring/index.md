@@ -75,3 +75,6 @@ Premien for styreansvarsforsikring er normalt fradragsberettiget som en del av s
 * **[Hva er Forsikringspremie?](/blogs/regnskap/forsikringspremie "Hva er Forsikringspremie? En komplett guide")**
 
 
+
+
+

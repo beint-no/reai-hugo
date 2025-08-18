@@ -1,5 +1,5 @@
 ﻿---
-title: "3510-service"
+title: "Hva er Konto 3510 - Service?"
 meta_title: "3510-service"
 meta_description: '**Konto 3510 - Service** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **inntekter fra serviceytelser**, som support, vedlikehold, konsult...'
 slug: 3510-service
@@ -57,3 +57,4 @@ Ved regnskapsfÃ¸ring skal **inntekter fra serviceytelser** skilles fra varesal
 * [Hva er Driftsinntekter?](/blogs/regnskap/hva-er-driftsinntekter "Hva er Driftsinntekter? Komplett Guide til Driftsinntekter i Regnskap")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 * [Konto 7560 - Servicekostnad](/blogs/kontoplan/7560-servicekostnad "Konto 7560 - Servicekostnad: Definisjon, regnskapsfÃ¸ring og eksempler")
+

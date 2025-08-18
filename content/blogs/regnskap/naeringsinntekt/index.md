@@ -73,3 +73,7 @@ NÃ¦ringsoppgave (RF-1030) er skjemaet der nÃ¦ringsinntekten spesifiseres og 
 * [Betalbar skatt](/blogs/regnskap/betalbar-skatt "Betalbar skatt “ Komplett guide til beregning og hÃ¥ndtering")
 
 
+
+
+
+

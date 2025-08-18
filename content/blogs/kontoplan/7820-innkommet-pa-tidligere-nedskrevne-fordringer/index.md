@@ -1,5 +1,5 @@
 ﻿---
-title: "7820-innkommet-pa-tidligere-nedskrevne-fordringer"
+title: "Konto 7820 - Innkommet pÃ¥ tidligere nedskrevne fordringer"
 meta_title: "7820-innkommet-pa-tidligere-nedskrevne-fordringer"
 meta_description: '**Konto 7820 - Innkommet pÃ¥ tidligere nedskrevne fordringer** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **innbetalinger pÃ¥ tidligere...'
 slug: 7820-innkommet-pa-tidligere-nedskrevne-fordringer
@@ -41,3 +41,4 @@ Innkommet pÃ¥ tidligere nedskrevne fordringer refererer til situasjoner hvor d
 * [Konto 7830 - Tap pÃ¥ fordringer](/blogs/kontoplan/7830-tap-pa-fordringer "Konto 7830 - Tap pÃ¥ fordringer")
 * [Konto 1500 - Kundefordringer](/blogs/kontoplan/1500-kundefordringer "Konto 1500 - Kundefordringer") som original fordringskonto
 * [Hva er nedskrivning?](/blogs/regnskap/hva-er-nedskrivning "Hva er nedskrivning?") for teoretisk bakgrunn om nedskrivningsprosesser
+

@@ -1,5 +1,5 @@
 ﻿---
-title: "4090-beholdningsendring"
+title: "Konto 4090 - Beholdningsendring"
 meta_title: "4090-beholdningsendring"
 meta_description: '**Konto 4090 - Beholdningsendring** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **endringer i varelagerets beholdning** i resultatregnsk...'
 slug: 4090-beholdningsendring
@@ -48,3 +48,4 @@ For mer om varelager og vurderingsmetoder, se [Hva er Varelager?](/blogs/regnska
 * [Konto 7910 - Ukurante varer](/blogs/kontoplan/7910-ukurante-varer "Konto 7910 - Ukurante varer")
 
 **Korrekt hÃ¥ndtering** av beholdningsendringer sikrer et nÃ¸yaktig resultatregnskap og bedre innsikt i produksjon og salg.
+

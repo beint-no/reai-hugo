@@ -1,5 +1,5 @@
 ﻿---
-title: "4300-innkjop-varer-for-videresalg-hoy-sats"
+title: "Konto 4300 - InnkjÃ¸p varer for videresalg hÃ¸y sats"
 meta_title: "4300-innkjop-varer-for-videresalg-hoy-sats"
 meta_description: '**Konto 4300 - InnkjÃ¸p varer for videresalg hÃ¸y sats** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kjÃ¸p av varer for videresalg** s...'
 slug: 4300-innkjop-varer-for-videresalg-hoy-sats
@@ -52,3 +52,4 @@ Andre kontoer i NS 4102 som ofte benyttes sammen med konto 4300:
 * [Konto 4330 - InnkjÃ¸p varer for videresalg middels sats](/blogs/kontoplan/4330-innkjop-varer-for-videresalg-middels-sats "Konto 4330 - InnkjÃ¸p varer for videresalg middels sats")
 * [Konto 4360 - Frakt, toll og spedisjon](/blogs/kontoplan/4360-frakt-toll-og-spedisjon "Konto 4360 - Frakt, toll og spedisjon")
 * [Konto 4370 - InnkjÃ¸psprisreduksjon](/blogs/kontoplan/4370-innkjopsprisreduksjon "Konto 4370 - InnkjÃ¸psprisreduksjon")
+

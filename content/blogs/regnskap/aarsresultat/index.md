@@ -45,3 +45,4 @@ En enkel oversikt over beregningen kan vises slik:
 
 
 
+

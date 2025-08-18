@@ -197,3 +197,7 @@ ForretningsfÃ¸rerens rolle er kompleks og omfattende, med betydelig juridisk o
 For Ã¥ lykkes som forretningsfÃ¸rer er det essensielt Ã¥ ha solid kunnskap om [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Dybdeanalyse for Norge"), [bokfÃ¸ring](/blogs/regnskap/hva-er-bokforing "Hva er BokfÃ¸ring? En Komplett Guide til Norsk BokfÃ¸ringspraksis") og relevant lovgivning, samt Ã¥ etablere robuste systemer for internkontroll og risikohÃ¥ndtering.
 
 
+
+
+
+

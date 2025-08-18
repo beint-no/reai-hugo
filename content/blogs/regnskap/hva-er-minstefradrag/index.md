@@ -245,3 +245,7 @@ For Ã¥ maksimere skattefordelen er det viktig Ã¥:
 Ved Ã¥ ha god kunnskap om minstefradrag og dets sammenheng med andre deler av skattesystemet, kan skattytere sikre at de fÃ¥r maksimal nytte av de fradragene de har rett til.
 
 
+
+
+
+

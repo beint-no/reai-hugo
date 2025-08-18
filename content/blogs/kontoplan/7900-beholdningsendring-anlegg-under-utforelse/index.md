@@ -1,5 +1,5 @@
 ﻿---
-title: "7900-beholdningsendring-anlegg-under-utforelse"
+title: "Konto 7900 - Beholdningsendring anlegg under utfÃ¸relse"
 meta_title: "7900-beholdningsendring-anlegg-under-utforelse"
 meta_description: '**Konto 7900 - Beholdningsendring anlegg under utfÃ¸relse** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **endringer i beholdning av anle...'
 slug: 7900-beholdningsendring-anlegg-under-utforelse
@@ -56,3 +56,4 @@ Kredit: Konto 7900 - Beholdningsendring anlegg under utfÃ¸relse  200Â 000 NO
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 
 **Korrekt hÃ¥ndtering** av beholdningsendringer for anlegg under utfÃ¸relse sikrer at kun fullfÃ¸rte prosjekter kostnadsfÃ¸res, og gir et presist bilde av produksjonsfordringer.
+

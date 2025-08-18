@@ -1,5 +1,5 @@
 ﻿---
-title: "6790-annen-fremmed-tjeneste"
+title: "Konto 6790 - Annen fremmed tjeneste"
 meta_title: "6790-annen-fremmed-tjeneste"
 meta_description: '**Konto 6790 - Annen fremmed tjeneste** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kostnader for eksterne tjenester** som ikke dekkes...'
 slug: 6790-annen-fremmed-tjeneste
@@ -51,3 +51,4 @@ Andre kontoer i NSÂ 4102 som ofte brukes sammen med konto 6790:
 * [Konto 7320 - Reklamekostnad](/blogs/kontoplan/7320-reklamekostnad "Konto 7320 - Reklamekostnad")
 * [Konto 2400 - LeverandÃ¸rgjeld](/blogs/kontoplan/2400-leverandorgjeld "Konto 2400 - LeverandÃ¸rgjeld")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

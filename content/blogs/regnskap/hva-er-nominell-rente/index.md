@@ -63,3 +63,7 @@ i_nom = 4 * ((1 + 0,05)^(1/4) - 1) â‰ˆ 0,0490 eller 4,90â€¯%.
 * [Hva er Diskontering?](/blogs/regnskap/hva-er-diskontering "Hva er Diskontering? Komplett Guide til NÃ¥verdi og Diskonterte KontantstrÃ¸mmer")
 
 
+
+
+
+

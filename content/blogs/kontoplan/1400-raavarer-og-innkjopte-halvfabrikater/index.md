@@ -1,5 +1,5 @@
 ﻿---
-title: "1400-raavarer-og-innkjopte-halvfabrikater"
+title: "Konto 1400 - RÃ¥varer og innkjÃ¸pte halvfabrikater"
 meta_title: "1400-raavarer-og-innkjopte-halvfabrikater"
 meta_description: '**Konto 1400 - RÃ¥varer og innkjÃ¸pte halvfabrikater** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **rÃ¥varer** og **innkjÃ¸pte halvfabr...'
 slug: 1400-raavarer-og-innkjopte-halvfabrikater
@@ -63,3 +63,4 @@ Andre kontoer i NS 4102 som ofte benyttes sammen med konto 1400:
 * [Konto 4190 - Beholdningsendring](/blogs/kontoplan/4190-beholdningsendring "Konto 4190 - Beholdningsendring")
 
 **God lagerstyring** av rÃ¥varer og halvfabrikater bidrar til bedre kostnadskontroll og Ã¸kt effektivitet i produksjonen.
+

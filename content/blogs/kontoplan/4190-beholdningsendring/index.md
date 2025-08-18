@@ -1,5 +1,5 @@
 ﻿---
-title: "4190-beholdningsendring"
+title: "Konto 4190 - Beholdningsendring"
 meta_title: "4190-beholdningsendring"
 meta_description: '**Konto 4190 - Beholdningsendring** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **endringer i varelagerets beholdning** i resultatregnsk...'
 slug: 4190-beholdningsendring
@@ -68,3 +68,4 @@ For mer om lagervurdering, se [Hva er Varelager?](/blogs/regnskap/hva-er-varelag
 * [Konto 4990 - Beholdningsendring](/blogs/kontoplan/4990-beholdningsendring "Konto 4990 - Beholdningsendring")
 * [Konto 7900 - Beholdningsendring anlegg under utfÃ¸relse](/blogs/kontoplan/7900-beholdningsendring-anlegg-under-utforelse "Konto 7900 - Beholdningsendring anlegg under utfÃ¸relse")
 * [Konto 7910 - Ukurante varer](/blogs/kontoplan/7910-ukurante-varer "Konto 7910 - Ukurante varer")
+

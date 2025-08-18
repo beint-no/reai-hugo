@@ -1,5 +1,5 @@
 ﻿---
-title: "7800-tap-ved-avgang-driftsmidler"
+title: "Konto 7800 - Tap ved avgang driftsmidler"
 meta_title: "7800-tap-ved-avgang-driftsmidler"
 meta_description: '**Konto 7800 - Tap ved avgang driftsmidler** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **tap ved avgang driftsmidler**.'
 slug: 7800-tap-ved-avgang-driftsmidler
@@ -53,3 +53,4 @@ Tap ved avgang driftsmidler rapporteres netto i resultatregnskapet under andre d
 * [Hva er anleggsmidler?](/blogs/regnskap/hva-er-anleggsmidler "Hva er Anleggsmidler? Komplett Guide til Anleggsmidler i Regnskap")
 * [Hva er avskrivning?](/blogs/regnskap/hva-er-avskrivning "Hva er avskrivning? Guide til avskrivninger")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

@@ -358,3 +358,4 @@ I **MVA-meldingen** brukes spesifikke koder:
 Ved Ã¥ forstÃ¥ og fÃ¸lge reglene for omvendt avgiftsplikt sikrer du at ditt [foretak](/blogs/regnskap/hva-er-foretak "Hva er et Foretak? Komplett Guide til Foretaksformer i Norge") overholder MVA-lovgivningen og unngÃ¥r kostbare feil og sanksjoner.
 
 
+

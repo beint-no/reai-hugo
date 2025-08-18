@@ -284,3 +284,7 @@ Ved Ã¥ etablere klare rutiner, bruke moderne digitale lÃ¸sninger og holde se
 For bedrifter som Ã¸nsker Ã¥ optimalisere sin hÃ¥ndtering av godtgjÃ¸relser, anbefales det Ã¥ gjennomgÃ¥ eksisterende rutiner regelmessig og vurdere implementering av moderne digitale lÃ¸sninger som kan automatisere og forenkle prosessene.
 
 
+
+
+
+

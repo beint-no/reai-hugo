@@ -1,5 +1,5 @@
 ﻿---
-title: "6440-leie-transportmidler"
+title: "Konto 6440 - Leie transportmidler"
 meta_title: "6440-leie-transportmidler"
 meta_description: '**Konto 6440 - Leie transportmidler** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **leie av transportmidler** i virksomhetens drift.'
 slug: 6440-leie-transportmidler
@@ -56,3 +56,4 @@ Andre kontoer i NSÂ 4102 som ofte brukes sammen med konto 6440:
 * [Konto 1920 - Bankinnskudd](/blogs/kontoplan/1920-bankinnskudd "Konto 1920 - Bankinnskudd")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 * [Hva er en Faktura?](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav")
+

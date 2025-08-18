@@ -1,5 +1,5 @@
 ﻿---
-title: "1604-utgaende-merverdiavgift-lav-sats"
+title: "Konto 1604 - UtgÃ¥ende merverdiavgift lav sats"
 meta_title: "1604-utgaende-merverdiavgift-lav-sats"
 meta_description: '**Konto 1604 - UtgÃ¥ende merverdiavgift lav sats** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **utgÃ¥ende merverdiavgift med lav sats**...'
 slug: 1604-utgaende-merverdiavgift-lav-sats
@@ -62,3 +62,4 @@ Konto 1604 skal brukes nÃ¥r virksomheten fakturerer kunder med lav sats MVA. T
 * [Konto 2700 - UtgÃ¥ende merverdiavgift](/blogs/kontoplan/2700-utgaende-merverdiavgift "Konto 2700 - UtgÃ¥ende merverdiavgift")
 * [Hva er MVA?](/blogs/regnskap/hva-er-moms-mva "Hva er MVA? MVA-regnskapsfÃ¸ring og merverdiavgift")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

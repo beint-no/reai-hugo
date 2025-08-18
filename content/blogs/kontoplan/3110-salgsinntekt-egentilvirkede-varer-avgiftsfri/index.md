@@ -1,5 +1,5 @@
 ﻿---
-title: "3110-salgsinntekt-egentilvirkede-varer-avgiftsfri"
+title: "Konto 3110 - Salgsinntekt egentilvirkede varer avgiftsfri"
 meta_title: "3110-salgsinntekt-egentilvirkede-varer-avgiftsfri"
 meta_description: '**Konto 3110 - Salgsinntekt egentilvirkede varer avgiftsfri** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **salgsinntekter** fra **egent...'
 slug: 3110-salgsinntekt-egentilvirkede-varer-avgiftsfri
@@ -52,3 +52,4 @@ Avgiftsfrie salgsinntekter rapporteres netto og fÃ¸res i resultatregnskapet un
 * [Hva er Driftsinntekter?](/blogs/regnskap/hva-er-driftsinntekter "Hva er Driftsinntekter? Komplett Guide til Driftsinntekter i Regnskap")
 * [Hva er Omsetning?](/blogs/regnskap/hva-er-omsetning "Hva er Omsetning? Komplett Guide til Omsetning i Regnskap og Skatt")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

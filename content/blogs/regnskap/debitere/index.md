@@ -58,3 +58,7 @@ Tabellen nedenfor viser hvordan **debitere** pÃ¥virker ulike kontotyper:
 
 
 
+
+
+
+

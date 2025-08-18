@@ -435,3 +435,7 @@ Profitt er det grunnleggende mÃ¥let for kommersiell virksomhet og representere
 I en stadig mer kompleks og konkurranseutsatt verden blir evnen til Ã¥ skape, mÃ¥le og styre profitt en kritisk kjernekompetanse for enhver vellykket forretningsleder. Profitt er ikke bare mÃ¥let, men ogsÃ¥ kompasset som veileder bedrifter mot langsiktig suksess og verdiskaping.
 
 
+
+
+
+

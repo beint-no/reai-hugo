@@ -81,3 +81,7 @@ Formuesopplysninger rapporteres i [skattemeldingen](/blogs/regnskap/hva-er-skatt
 - [Hva er Skattemelding?](/blogs/regnskap/hva-er-skattemelding "Hva er Skattemelding? Guide til selvangivelse og formuesoppgave")
 
 
+
+
+
+

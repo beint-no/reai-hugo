@@ -57,3 +57,6 @@ NÃ¥r selskapet er registrert, kan du:
 For komplett informasjon om aksjeselskapets egenskaper, se [Hva er et Aksjeselskap?](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap? Komplett Guide til Selskapsformen") og avsnittet â€œKrav for Ã¥ Starte et Aksjeselskapâ€.
 
 
+
+
+

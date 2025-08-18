@@ -243,3 +243,7 @@ ForstÃ¥else av kapitalets ulike former, fra [egenkapital](/blogs/regnskap/hva-
 For dypere innsikt i spesifikke aspekter av kapital, anbefaler vi Ã¥ lese vÃ¥re detaljerte artikler om [egenkapital](/blogs/regnskap/hva-er-egenkapital "Hva er Egenkapital? Komplett Guide til Egenkapital i Regnskap"), [fremmedkapital](/blogs/regnskap/hva-er-fremmedkapital "Hva er Fremmedkapital? Komplett Guide til Gjeld og LÃ¥nefinansiering"), [arbeidskapital](/blogs/regnskap/hva-er-arbeidskapital "Hva er Arbeidskapital? Beregning og Betydning for Likviditet"), og [sysselsatt kapital](/blogs/regnskap/hva-er-sysselsatt-kapital "Hva er Sysselsatt Kapital? Komplett Guide til ROCE og Kapitaleffektivitet").
 
 
+
+
+
+

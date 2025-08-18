@@ -72,3 +72,7 @@ Videre mÃ¥ etterfÃ¸lgende mÃ¥ling skje enten til virkelig verdi gjennom re
 
 
 
+
+
+
+

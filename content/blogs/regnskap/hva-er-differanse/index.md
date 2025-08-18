@@ -292,3 +292,7 @@ Differanser i regnskap er et omfattende og viktig omrÃ¥de som krever systemati
 
 
 
+
+
+
+

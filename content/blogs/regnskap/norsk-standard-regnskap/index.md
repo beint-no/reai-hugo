@@ -247,3 +247,7 @@ For regnskapsfÃ¸rere, revisorer og bedriftsledere er forstÃ¥else av dette sy
 Fremtiden vil bringe nye utfordringer knyttet til digitalisering, bÃ¦rekraftsrapportering og globalisering, men det solide fundamentet i det norske regnskapsstandardsystemet gir en god plattform for Ã¥ mÃ¸te disse utfordringene pÃ¥ en konstruktiv mÃ¥te.
 
 
+
+
+
+

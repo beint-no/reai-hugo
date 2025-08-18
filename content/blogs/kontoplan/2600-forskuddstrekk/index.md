@@ -1,5 +1,5 @@
 ﻿---
-title: "2600-forskuddstrekk"
+title: "Hva er Konto 2600 - Skyldig forskuddstrekk?"
 meta_title: "2600-forskuddstrekk"
 meta_description: '**Konto 2600 - Skyldig forskuddstrekk** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **skyldig forskuddstrekk** pÃ¥ [lÃ¸nn](/blogs/kontop...'
 slug: 2600-forskuddstrekk
@@ -84,3 +84,4 @@ For Ã¥ sikre korrekt regnskapsrapportering bÃ¸r man regelmessig avstemme sal
  * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 
 **Konto 2600 - Skyldig forskuddstrekk** gir oversikt over forskuddstrekk trukket fra lÃ¸nn og sikrer korrekt periodisering og presentasjon som kortsiktig gjeld i balansen.
+

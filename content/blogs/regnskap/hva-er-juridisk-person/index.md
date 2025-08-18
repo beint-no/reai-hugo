@@ -303,3 +303,7 @@ Som regnskapsfÃ¸rer eller bedriftseier er det viktig Ã¥ forstÃ¥ forskjelle
 For mer informasjon om spesifikke selskapsformer, se vÃ¥re artikler om [aksjeselskap](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap (AS)? Komplett Guide til Selskapsformen"), [foretak](/blogs/regnskap/hva-er-foretak "Hva er et Foretak? Komplett Oversikt over Foretaksformer i Norge") og [enkeltpersonforetak](/blogs/regnskap/hva-er-enkeltpersonforetak "Hva er et Enkeltpersonforetak? Komplett Guide til Selskapsformen").
 
 
+
+
+
+

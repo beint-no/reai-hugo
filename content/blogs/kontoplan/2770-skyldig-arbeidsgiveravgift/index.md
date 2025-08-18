@@ -1,5 +1,5 @@
 ﻿---
-title: "2770-skyldig-arbeidsgiveravgift"
+title: "Konto 2770 - Skyldig arbeidsgiveravgift"
 meta_title: "2770-skyldig-arbeidsgiveravgift"
 meta_description: '**Konto 2770 - Skyldig arbeidsgiveravgift** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **arbeidsgiveravgift** som pÃ¥lÃ¸per pÃ¥ [lÃ¸nn]...'
 slug: 2770-skyldig-arbeidsgiveravgift
@@ -72,3 +72,4 @@ En virksomhet har lÃ¸nnskostnad pÃ¥ 100â€¯000 NOK ekskl. arbeidsgiveravg
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 
 **Konto 2770 - Skyldig arbeidsgiveravgift** gir oversikt over arbeidsgiveravgift som er pÃ¥lÃ¸pt og sikrer korrekt periodisering og presentasjon som kortsiktig gjeld i balansen.
+

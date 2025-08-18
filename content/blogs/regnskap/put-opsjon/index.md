@@ -70,3 +70,7 @@ Videre mÃ¥ etterfÃ¸lgende mÃ¥ling skje enten til virkelig verdi gjennom re
 * [Hva er Derivater?](/blogs/regnskap/derivater "Hva er Derivater? En Guide til Derivater i Regnskap")
 
 
+
+
+
+

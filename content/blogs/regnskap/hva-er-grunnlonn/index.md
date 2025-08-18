@@ -293,3 +293,7 @@ For en bredere oversikt over lÃ¸nnsnivÃ¥ i Norge, se ogsÃ¥ [Gjennomsnittsl
 Se [Hva er LÃ¸nn](/blogs/regnskap/hva-er-lonn "Hva er LÃ¸nn i Regnskap? Komplett Guide til LÃ¸nnsformer, Beregning og RegnskapsfÃ¸ring").
 
 
+
+
+
+

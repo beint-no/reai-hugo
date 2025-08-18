@@ -510,3 +510,6 @@ Gaveordningen vil trolig utvikle seg i takt med digitalisering, Ã¸kt fokus pÃ
 Kombinert med andre [skattefraderag](/blogs/regnskap/hva-er-skatt "Skatt - Komplett Guide til Bedriftsskatt, MVA og Skatteplanlegging") og [skatteplanleggingsstrategier](/blogs/regnskap/hva-er-skatteplanlegging "Hva er Skatteplanlegging? Strategier for Optimal Skatteposisjon"), kan veldedige gaver vÃ¦re en viktig komponent i en helhetlig tilnÃ¦rming til skatteoptimalisering som ogsÃ¥ skaper positiv samfunnsverdi.
 
 
+
+
+

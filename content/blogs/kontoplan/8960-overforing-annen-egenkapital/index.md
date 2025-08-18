@@ -1,5 +1,5 @@
 ﻿---
-title: "8960-overforing-annen-egenkapital"
+title: "Konto 8960 - OverfÃ¸ring annen egenkapital"
 meta_title: "8960-overforing-annen-egenkapital"
 meta_description: '**Konto 8960 - OverfÃ¸ring annen egenkapital** er en konto innen **reserver og overfÃ¸ringer** i Norsk Standard Kontoplan (NSÂ 4102) som brukes til Ã¥ registrer...'
 slug: 8960-overforing-annen-egenkapital
@@ -46,3 +46,4 @@ _*Eksempeltransaksjoner; bytt ut med relevante resultat- og egenkapitalkontoer.*
 * [Konto 8800 - Ã…rsresultat](/blogs/kontoplan/8800-arsresultat "Konto 8800 - Ã…rsresultat: Ã…rets nettoresultat og resultatdisponering")
 * [Konto 2080 - Udekket tap](/blogs/kontoplan/2080-udekket-tap "Konto 2080 - Udekket tap: Udekket tap i Norsk Standard Kontoplan")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

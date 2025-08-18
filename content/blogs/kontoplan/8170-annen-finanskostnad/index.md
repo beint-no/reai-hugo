@@ -1,5 +1,5 @@
 ﻿---
-title: "8170-annen-finanskostnad"
+title: "Konto 8170 - Annen finanskostnad"
 meta_title: "8170-annen-finanskostnad"
 meta_description: '**Konto 8170 - Annen finanskostnad** brukes for Ã¥ registrere diverse **finansielle kostnader** som ikke dekkes av andre spesifikke finanskostnadskonti i Norsk ...'
 slug: 8170-annen-finanskostnad
@@ -69,3 +69,4 @@ Andre relevante artikler:
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett guide til kontoplaner i norsk regnskap")
 * [Hva er Periodisering i Regnskap?](/blogs/regnskap/hva-er-periodisering "Hva er Periodisering i Regnskap? Guide til periodisering av kostnader og inntekter")
 * [Hva er skatt?](/blogs/regnskap/hva-er-skatt "Hva er skatt? Oversikt over skatteregler i Norge")
+

@@ -1,5 +1,5 @@
 ﻿---
-title: "6510-handverktoy"
+title: "Konto 6510 - HÃ¥ndverktÃ¸y"
 meta_title: "6510-handverktoy"
 meta_description: '**Konto 6510 - HÃ¥ndverktÃ¸y** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kostnader til hÃ¥ndverktÃ¸y** og relaterte driftsmidler i v...'
 slug: 6510-handverktoy
@@ -77,3 +77,4 @@ Kredit Konto 2400 - LeverandÃ¸rgjeld           6Â 250Â NOK
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 * [Hva er Avskrivning?](/blogs/regnskap/hva-er-avskrivning "Hva er Avskrivning i Regnskap? Metoder, Beregning og Praktiske Eksempler")
 * [Hva er en Faktura?](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav")
+

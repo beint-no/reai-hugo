@@ -1,5 +1,5 @@
 ﻿---
-title: "2710-inngaaende-merverdiavgift"
+title: "Konto 2710 - InngÃ¥ende merverdiavgift"
 meta_title: "2710-inngaaende-merverdiavgift"
 meta_description: '**Konto 2710 - InngÃ¥ende merverdiavgift** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **inngÃ¥ende merverdiavgift (MVA)** som et fradra...'
 slug: 2710-inngaaende-merverdiavgift
@@ -74,3 +74,4 @@ BokfÃ¸ring:
 * [Konto 7350 - Representasjon, fradragsberettiget](/blogs/kontoplan/7350-representasjon-fradragsberettiget "Konto 7350 - Representasjon, fradragsberettiget")
 * [Konto 7360 - Representasjon, ikke fradragsberettiget](/blogs/kontoplan/7360-representasjon-ikke-fradragsberettiget "Konto 7360 - Representasjon, ikke fradragsberettiget")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

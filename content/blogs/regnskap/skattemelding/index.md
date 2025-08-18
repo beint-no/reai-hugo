@@ -710,3 +710,6 @@ Skattemeldingen er ikke bare en compliance-oppgave - den er en strategisk muligh
 Se ogsÃ¥ [Skatteberegning](/blogs/regnskap/skatteberegning "Skatteberegning - Guide til Beregning av Bedriftsskatt og Personlig Skatt") for en detaljert gjennomgang av beregningsprosessen.
 
 
+
+
+

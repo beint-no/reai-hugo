@@ -48,3 +48,4 @@ Vederlag = Enhetspris Ã— Antall âˆ’ Rabatter âˆ’ Returer
 Riktig mÃ¥ling og periodisering av vederlag er kritisk for Ã¥ oppnÃ¥ et *pÃ¥litelig* og *rettvisende* regnskap. Ved feil mÃ¥ling kan bÃ¥de inntekter og kostnader bli feilaktig presentert, noe som kan pÃ¥virke nÃ¸kkeltall og beslutninger i virksomheten.
 
 
+

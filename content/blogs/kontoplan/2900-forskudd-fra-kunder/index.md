@@ -1,5 +1,5 @@
 ﻿---
-title: "2900-forskudd-fra-kunder"
+title: "Konto 2900 - Forskudd fra kunder"
 meta_title: "2900-forskudd-fra-kunder"
 meta_description: '**Konto 2900 - Forskudd fra kunder** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **forskudd fra kunder** som kortsiktige forpliktelser i...'
 slug: 2900-forskudd-fra-kunder
@@ -47,3 +47,4 @@ Andre kontoer i NSÂ 4102 som ofte benyttes sammen med konto 2900:
 * [Hva er forskuddsbetaling?](/blogs/regnskap/hva-er-forskuddsbetaling "Hva er forskuddsbetaling? Komplett Guide til Forskuddsbetalinger i Regnskap")
 
 **Korrekt bruk** av konto 2900 sikrer at inntekter matches mot leveringstidspunkt og gir et riktigere bilde av selskapets kortsiktige forpliktelser.
+

@@ -1,5 +1,5 @@
 ﻿---
-title: "Styreleder “ Styrets Lederrolle i Norske Aksjeselskaper"
+title: "Styreleder â€“ Styrets Lederrolle i Norske Aksjeselskaper"
 meta_title: "Styreleder “ Styrets Lederrolle i Norske Aksjeselskaper"
 meta_description: '![Styreleder](styreleder-image.svg)'
 slug: styreleder
@@ -69,5 +69,8 @@ For mer om styrearbeid og selskapsstyring, se ogsÃ¥:
 * [Hva er Aksjeloven?](/blogs/regnskap/hva-er-aksjeloven "Hva er Aksjeloven? Regler for Aksjeselskaper i Norge")
 
 Styrelederrollen er avgjÃ¸rende for god styring, kontroll og etterlevelse i norske aksjeselskaper. En kompetent og engasjert styreleder bidrar til tillit og verdiskaping.
+
+
+
 
 

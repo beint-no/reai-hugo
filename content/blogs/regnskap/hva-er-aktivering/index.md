@@ -84,3 +84,7 @@ For informasjon om hvordan eiendeler realiseres ved salg eller avhending, se [Re
 
 
 
+
+
+
+

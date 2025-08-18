@@ -565,3 +565,7 @@ Skatteetaten er ansvarlig for alle disse prosessene og tilbyr veiledning, digita
 Se ogsÃ¥ [Skatteetaten](/blogs/regnskap/skatteetaten "Skatteetaten “ Norges Skatteadministrasjon og Skatteforvaltning") for en oversikt over skattemyndighetens roller og tjenester.
 
 
+
+
+
+

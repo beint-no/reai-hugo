@@ -1,5 +1,5 @@
 ﻿---
-title: "1611-inngaaende-merverdiavgift-hoy-sats"
+title: "Konto 1611 - InngÃ¥ende merverdiavgift hÃ¸y sats"
 meta_title: "1611-inngaaende-merverdiavgift-hoy-sats"
 meta_description: '**Konto 1611 - InngÃ¥ende merverdiavgift hÃ¸y sats** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **inngÃ¥ende merverdiavgift med hÃ¸y sa...'
 slug: 1611-inngaaende-merverdiavgift-hoy-sats
@@ -51,3 +51,4 @@ For en komplett gjennomgang av merverdiavgift, se [Hva er MVA?](/blogs/regnskap/
 * [Konto 1613 - InngÃ¥ende merverdiavgift middels sats](/blogs/kontoplan/1613-inngaaende-merverdiavgift-middels-sats "Konto 1613 - InngÃ¥ende merverdiavgift middels sats")
 * [Hva er MVA?](/blogs/regnskap/hva-er-moms-mva "Hva er MVA? MVA-regnskapsfÃ¸ring og merverdiavgift")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

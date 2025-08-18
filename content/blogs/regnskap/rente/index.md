@@ -84,3 +84,7 @@ For mer detaljert informasjon om regnskapsfÃ¸ring av renter, se:
 * [Normrente](/blogs/regnskap/normrente "Normrente “ Definisjon og Bruk")
 
 
+
+
+
+

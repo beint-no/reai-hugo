@@ -1,5 +1,5 @@
 ﻿---
-title: "5220-fri-avis"
+title: "Konto 5220 - Fri avis"
 meta_title: "5220-fri-avis"
 meta_description: '**Konto 5220 - Fri avis** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til Ã¥ registrere **verdi av fri avis** som **ansattgode**.'
 slug: 5220-fri-avis
@@ -71,3 +71,4 @@ En ansatt fÃ¥r fri avis med abonnementskostnad pÃ¥ 300Â NOK per mÃ¥ned:
 * [Konto 6840 - Aviser og tidsskrifter, bÃ¸ker o.l.](/blogs/kontoplan/6840-aviser-og-tidsskrifter-boker-o-l "Konto 6840 - Aviser og tidsskrifter, bÃ¸ker o.l.: Kostnader til aviser, tidsskrifter og bÃ¸ker")
 
 **Konto 5220 - Fri avis** bidrar til Ã¥ synliggjÃ¸re verdien av avis som et **ansattgode** i regnskapet.
+

@@ -1,5 +1,5 @@
 ﻿---
-title: "1820-andre-aksjer"
+title: "Konto 1820 - Andre aksjer"
 meta_title: "1820-andre-aksjer"
 meta_description: '**Konto 1820 - Andre aksjer** er en konto i Norsk Standard Kontoplan som brukes for Ã¥ registrere **andre aksjer** og eierandeler som ikke er notert pÃ¥ reguler...'
 slug: 1820-andre-aksjer
@@ -53,3 +53,4 @@ Kredit: Konto 1820 - Andre aksjer                            XXX kroner
 * [Konto 1830 - Markedsbaserte obligasjoner](/blogs/kontoplan/1830-markedsbaserte-obligasjoner "Konto 1830 - Markedsbaserte obligasjoner")
 * [Konto 1840 - Andre obligasjoner](/blogs/kontoplan/1840-andre-obligasjoner "Konto 1840 - Andre obligasjoner: Guide til andre obligasjoner i norsk kontoplan")
 * [Konto 1350 - Investeringer i aksjer og eiendeler](/blogs/kontoplan/1350-investeringer-i-aksjer-og-eiendeler "Konto 1350 - Investeringer i aksjer og eiendeler")
+

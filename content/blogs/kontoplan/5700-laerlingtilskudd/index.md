@@ -1,5 +1,5 @@
 ﻿---
-title: "5700-laerlingtilskudd"
+title: "Konto 5700 - LÃ¦rlingtilskudd"
 meta_title: "5700-laerlingtilskudd"
 meta_description: '**Konto 5700 - LÃ¦rlingtilskudd** er en konto i **Norsk Standard Kontoplan** som brukes til Ã¥ registrere **tilskudd virksomheter mottar for opplÃ¦ring av lÃ¦rl...'
 slug: 5700-laerlingtilskudd
@@ -57,3 +57,4 @@ Kredit: Konto 5700 - LÃ¦rlingtilskudd               30â€¯000
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 
 **LÃ¦rlingtilskudd** bidrar til Ã¥ redusere kostnader ved opplÃ¦ring av lÃ¦rlinger og gir virksomheter insentiv til Ã¥ styrke fagkompetanse.
+

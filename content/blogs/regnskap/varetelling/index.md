@@ -54,3 +54,6 @@ Etter varetelling er det avgjÃ¸rende Ã¥ gjennomfÃ¸re [avstemming](/blogs/r
 Gjennom regelmessig **varetelling** oppnÃ¥r bedriften bedre kontroll over lageret, reduserer Ã¸konomisk risiko og sikrer pÃ¥litelige regnskapstall.
 
 
+
+
+

@@ -64,3 +64,7 @@ For en dypere gjennomgang av denne fasen i konjunktursyklusen, se [Resesjon](/bl
 For kombinasjonen av *lav vekst* og *hÃ¸y inflasjon*, se [Hva er Stagflasjon?](/blogs/regnskap/hva-er-stagflasjon "Hva er Stagflasjon? ForstÃ¥ kombinasjonen av inflasjon og Ã¸konomisk stagnasjon").
 
 
+
+
+
+

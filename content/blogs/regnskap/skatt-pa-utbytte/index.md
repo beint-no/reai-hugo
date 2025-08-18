@@ -75,3 +75,6 @@ EkstraordinÃ¦rt utbytte skattlegges pÃ¥ samme mÃ¥te som ordinÃ¦rt utbytt
 **Skatt pÃ¥ utbytte** er en sentral del av aksjonÃ¦rbeskatningen i Norge. Ved Ã¥ forstÃ¥ prinsippene bak aksjonÃ¦rmodellen, skjermingsfradrag, fritaksmetoden og kildeskatt kan bÃ¥de privatpersoner og selskaper planlegge og rapportere riktig.
 
 
+
+
+

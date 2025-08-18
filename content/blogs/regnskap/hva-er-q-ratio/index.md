@@ -377,3 +377,7 @@ Som Ã¸konomen James Tobin selv pÃ¥pekte, representerer Q-ratio et fundamenta
 Q-ratio er ikke bare et [nÃ¸kkeltall](/blogs/regnskap/hva-er-nokkeltall "Hva er NÃ¸kkeltall? Komplett Guide til Finansielle NÃ¸kkeltall i Regnskap") - det er en filosofi om verdivurdering som setter fokus pÃ¥ den grunnleggende sammenhengen mellom reelle [eiendeler](/blogs/regnskap/hva-er-eiendel "Hva er Eiendel i Regnskap? Komplett Guide til Eiendom og Verdier") og markedsprising. I en tid preget av volatile markeder og raske strukturelle endringer, forblir dette perspektivet mer relevant enn noensinne.
 
 
+
+
+
+

@@ -1,5 +1,5 @@
 ﻿---
-title: "3620-annen-leieinntekt"
+title: "Konto 3620 - Annen leieinntekt"
 meta_title: "3620-annen-leieinntekt"
 meta_description: '**Konto 3620 - Annen leieinntekt** er en konto i Norsk Standard Kontoplan som benyttes for Ã¥ registrere **annen leieinntekt** fra ulike kilder, for eksempel ko...'
 slug: 3620-annen-leieinntekt
@@ -49,3 +49,4 @@ Annen leieinntekt rapporteres netto under driftsinntekter i resultatregnskapet. 
 * [Hva er Driftsinntekter?](/blogs/regnskap/hva-er-driftsinntekter "Hva er Driftsinntekter? Komplett Guide til Driftsinntekter i Regnskap")
 * [Hva er Omsetning?](/blogs/regnskap/hva-er-omsetning "Hva er Omsetning? Komplett Guide til Omsetning i Regnskap og Skatt")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

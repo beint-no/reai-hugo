@@ -93,3 +93,7 @@ For mer om tantieme, se [Tantieme](/blogs/regnskap/tantieme "Tantieme i aksjesel
 
 
 
+
+
+
+

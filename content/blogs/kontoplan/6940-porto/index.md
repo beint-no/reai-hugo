@@ -1,5 +1,5 @@
 ﻿---
-title: "6940-porto"
+title: "Konto 6940 - Porto"
 meta_title: "6940-porto"
 meta_description: '**Konto 6940 - Porto** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til Ã¥ registrere **portokostnader** for virksomhetens post og forsendel...'
 slug: 6940-porto
@@ -60,3 +60,4 @@ Kredit: Konto 2400 - LeverandÃ¸rgjeld              1Â 250 NOK
 * [Konto 3960 - UtgÃ¥ende porto, avgiftsfritt](/blogs/kontoplan/3960-utgaende-porto-avgiftsfritt "Konto 3960 - UtgÃ¥ende porto, avgiftsfritt")
 * [Konto 4160 - Frakt, toll og spedisjon](/blogs/kontoplan/4160-frakt-toll-og-spedisjon "Konto 4160 - Frakt, toll og spedisjon")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

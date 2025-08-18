@@ -77,3 +77,7 @@ I land med vedvarende deflasjon kan man bruke justerte regnskapsprinsipper:
 
 
 
+
+
+
+

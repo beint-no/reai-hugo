@@ -43,3 +43,7 @@ I [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse i Regnskap? Oppbyggi
 * **RisikohÃ¥ndtering:** Korrekt registrering og verdsettelse av eiendeler reduserer risiko for feilrapportering og skattemessige konsekvenser.
 
 
+
+
+
+

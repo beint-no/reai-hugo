@@ -1,5 +1,5 @@
 ﻿---
-title: "2610-paalleggstrekk"
+title: "Hva er Konto 2610 - PÃ¥leggstrekk?"
 meta_title: "2610-paalleggstrekk"
 meta_description: '**Konto 2610 - PÃ¥leggstrekk** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **pÃ¥leggstrekk** som arbeidsgiver foretar i ansattes [lÃ¸nn]...'
 slug: 2610-paalleggstrekk
@@ -81,3 +81,4 @@ Avstem konto 2610 jevnlig mot lÃ¸nnssystemets beregninger og utbetalingsbekref
  * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 
 **Konto 2610 - PÃ¥leggstrekk** gir oversikt over tvangsrettede lÃ¸nnstrekk og sikrer korrekt periodisering og presentasjon som kortsiktig gjeld i balansen.
+

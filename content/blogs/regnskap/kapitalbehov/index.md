@@ -42,3 +42,7 @@ NÃ¥r kapitalbehovet er kartlagt, kan bedriften vurdere ulike finansieringsstra
 Et riktig beregnet **kapitalbehov** sikrer at bedriften har tilstrekkelig finansiering for bÃ¥de etablering og drift, reduserer likviditetsrisiko og legger grunnlaget for bÃ¦rekraftig vekst. En nÃ¸ye utarbeidet kapitalbehovsanalyse er ogsÃ¥ viktig for Ã¥ overbevise investorer og lÃ¥ngivere om bedriftens Ã¸konomiske plan og forretningsmodell.
 
 
+
+
+
+

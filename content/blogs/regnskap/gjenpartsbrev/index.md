@@ -70,3 +70,7 @@ Gjenpartsbrev er et enkelt, men viktig verktÃ¸y i norsk regnskap for Ã¥ sikr
 
 
 
+
+
+
+

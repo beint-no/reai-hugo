@@ -301,3 +301,7 @@ Bedrifter som omfavner ESG-rapportering tidlig vil vÃ¦re bedre posisjonert for
 ESG er ikke bare en rapporteringsÃ¸velse, men en fundamental endring i hvordan vi tenker om verdiskaping og forretningssuksess i det 21. Ã¥rhundre. For regnskapsfÃ¸rere og finansielle ledere representerer dette en spennende mulighet til Ã¥ utvide sin rolle og bidra til mer bÃ¦rekraftig og ansvarlig forretningsdrift.
 
 
+
+
+
+

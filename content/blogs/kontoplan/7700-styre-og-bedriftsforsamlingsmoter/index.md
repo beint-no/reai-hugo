@@ -1,5 +1,5 @@
 ﻿---
-title: "7700-styre-og-bedriftsforsamlingsmoter"
+title: "Konto 7700 - Styre- og bedriftsforsamlingsmÃ¸ter"
 meta_title: "7700-styre-og-bedriftsforsamlingsmoter"
 meta_description: '**Konto 7700 - Styre- og bedriftsforsamlingsmÃ¸ter** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til Ã¥ registrere **kostnader ved styre- o...'
 slug: 7700-styre-og-bedriftsforsamlingsmoter
@@ -58,3 +58,4 @@ layout: pages/single
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 
 **Konto 7700 - Styre- og bedriftsforsamlingsmÃ¸ter** gir en strukturert oversikt over kostnader som er direkte knyttet til avvikling av mÃ¸ter i selskapets styrende organer.
+

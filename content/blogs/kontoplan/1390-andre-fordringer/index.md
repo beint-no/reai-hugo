@@ -1,5 +1,5 @@
 ﻿---
-title: "1390-andre-fordringer"
+title: "Konto 1390 - Andre fordringer"
 meta_title: "1390-andre-fordringer"
 meta_description: '**Konto 1390 - Andre fordringer** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **andre kortsiktige fordringer uten sikkerhet** som ikke d...'
 slug: 1390-andre-fordringer
@@ -65,3 +65,4 @@ Kredit: Konto 1920 - Bankinnskudd          25â€¯000
 * [Hva er Tapsavsetning?](/blogs/regnskap/tap-pa-fordring "Hva er Tapsavsetning? Behandling av fordringer")
 * [Hva er Langsiktig gjeld?](/blogs/regnskap/langsiktig-gjeld "Langsiktig gjeld")
 * [Konto 1560 - Andre fordringer pÃ¥ selskap samme konsern](/blogs/kontoplan/1560-andre-fordringer-pa-selskap-samme-konsern "Konto 1560 - Andre fordringer pÃ¥ selskap samme konsern")
+

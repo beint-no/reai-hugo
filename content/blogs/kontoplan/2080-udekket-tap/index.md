@@ -1,5 +1,5 @@
 ﻿---
-title: "2080-udekket-tap"
+title: "Konto 2080 - Udekket tap"
 meta_title: "2080-udekket-tap"
 meta_description: '**Konto 2080 - Udekket tap** er en del av **egenkapital** i Norsk Standard Kontoplan (NSÂ 4102) som brukes til Ã¥ registrere **udekket tap** som ikke dekkes av ...'
 slug: 2080-udekket-tap
@@ -54,3 +54,4 @@ _*Eksempeltransaksjoner; bruk aktuelle resultatkontoer eller andre egenkapitalko
 * [Hva er egenkapital?](/blogs/regnskap/hva-er-egenkapital "Hva er Egenkapital? Komplett Guide til Egenkapital i Regnskap")
 * [Konto 2800 - Avsatt utbytte](/blogs/kontoplan/2800-avsatt-utbytte "Konto 2800 - Avsatt utbytte: Avsetning av utbytte som kortsiktig gjeld i Norsk Standard Kontoplan")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

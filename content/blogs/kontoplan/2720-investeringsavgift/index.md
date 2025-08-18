@@ -1,5 +1,5 @@
 ﻿---
-title: "2720-investeringsavgift"
+title: "Konto 2720 - Investeringsavgift"
 meta_title: "2720-investeringsavgift"
 meta_description: '**Konto 2720 - Investeringsavgift** er en konto i **Norsk Standard Kontoplan** som brukes til Ã¥ registrere utgÃ¥ende **investeringsavgift** fra leverandÃ¸ren v...'
 slug: 2720-investeringsavgift
@@ -51,3 +51,4 @@ En leverandÃ¸r fakturerer investeringsavgift med et avgiftsgrunnlag pÃ¥ 100�
 * [Konto 1630 - Grunnlag investeringsavgift](/blogs/kontoplan/1630-grunnlag-investeringsavgift "Konto 1630 - Grunnlag investeringsavgift")
 * [Konto 2730 - Grunnlag investeringsavgift](/blogs/kontoplan/2730-grunnlag-investeringsavgift "Konto 2730 - Grunnlag investeringsavgift")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

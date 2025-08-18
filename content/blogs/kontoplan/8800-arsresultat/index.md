@@ -1,5 +1,5 @@
 ﻿---
-title: "8800-arsresultat"
+title: "Konto 8800 - Ã…rsresultat"
 meta_title: "8800-arsresultat"
 meta_description: '**Konto 8800 - Ã…rsresultat** representerer **Ã¥rets nettoresultat**, enten **overskudd** eller **underskudd**, fÃ¸r disponering til egenkapitalkontoer.'
 slug: 8800-arsresultat
@@ -43,3 +43,4 @@ layout: pages/single
 * [Konto 2800 - Avsatt utbytte](/blogs/kontoplan/2800-avsatt-utbytte "Konto 2800 - Avsatt utbytte: Avsetning av utbytte som kortsiktig gjeld i Norsk Standard Kontoplan")
 * [Hva er Ã…rsavslutning?](/blogs/regnskap/hva-er-aarsavslutning "Hva er Ã…rsavslutning? En Guide til Ã…rsavslutning i Regnskap")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

@@ -1,5 +1,5 @@
 ﻿---
-title: "1340-lan-til-tilknyttede-selskap"
+title: "Konto 1340 - LÃ¥n til tilknyttede selskap"
 meta_title: "1340-lan-til-tilknyttede-selskap"
 meta_description: '**Konto 1340 - LÃ¥n til tilknyttede selskap** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **konserninterne lÃ¥n til tilknyttede selskape...'
 slug: 1340-lan-til-tilknyttede-selskap
@@ -79,3 +79,4 @@ Kredit: Konto 8140 - Renteinntekter konserninterne 20â€¯000
 * [Konto 1380 - Fordringer pÃ¥ ansatte](/blogs/kontoplan/1380-fordringer-pa-ansatte "Konto 1380 - Fordringer pÃ¥ ansatte")
 * [Konto 1390 - Andre fordringer](/blogs/kontoplan/1390-andre-fordringer "Konto 1390 - Andre fordringer")
 * [Konto 8030 - Renteinntekt pÃ¥ foretak i samme konsern](/blogs/kontoplan/8030-renteinntekt-pa-foretak-i-samme-konsern "Konto 8030 - Renteinntekt pÃ¥ foretak i samme konsern: RegnskapsfÃ¸ring av konserninterne renteinntekter")
+

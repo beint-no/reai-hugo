@@ -65,3 +65,7 @@ Ved Ã¥ fÃ¸lge disse stegene sikrer du en helhetlig tilnÃ¦rming der forretn
 En **forretningsmodell** er et kraftig verktÃ¸y for Ã¥ forstÃ¥ og styre hvordan virksomheten skaper verdi og hvordan dette reflekteres i regnskapet. Ved Ã¥ definere kjernekomponentene og kontinuerlig evaluere modellen, legger du grunnlaget for bÃ¦rekraftig vekst og solid Ã¸konomistyring.
 
 
+
+
+
+

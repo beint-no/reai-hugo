@@ -1,5 +1,5 @@
 ﻿---
-title: "1360-obligasjoner"
+title: "Konto 1360 - Obligasjoner"
 meta_title: "1360-obligasjoner"
 meta_description: '**Konto 1360 - Obligasjoner** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **langsiktige obligasjoner** og **rentebÃ¦rende verdipapirer**...'
 slug: 1360-obligasjoner
@@ -66,3 +66,4 @@ Kredit: Konto 1920 - Bankinnskudd                       2â€¯000â€¯000 kr
 * [Konto 1850 - Markedsbaserte obligasjoner](/blogs/kontoplan/1850-markedsbaserte-obligasjoner "Konto 1850 - Markedsbaserte obligasjoner: Guide til markedsbaserte obligasjoner i norsk kontoplan")
 * [Konto 2210 - ObligasjonslÃ¥n](/blogs/kontoplan/2210-obligasjonslan "Konto 2210 - ObligasjonslÃ¥n i Norsk Standard Kontoplan")
 * [Hva er langsiktig gjeld?](/blogs/regnskap/langsiktig-gjeld "Langsiktig gjeld")
+

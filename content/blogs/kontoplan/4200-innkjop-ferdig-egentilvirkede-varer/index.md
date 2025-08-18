@@ -1,5 +1,5 @@
 ﻿---
-title: "4200-innkjop-ferdig-egentilvirkede-varer"
+title: "Konto 4200 - InnkjÃ¸p ferdig egentilvirkede varer hÃ¸y sats"
 meta_title: "4200-innkjop-ferdig-egentilvirkede-varer"
 meta_description: '**Konto 4200 - InnkjÃ¸p ferdig egentilvirkede varer hÃ¸y sats** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kjÃ¸p av ferdige egentilvi...'
 slug: 4200-innkjop-ferdig-egentilvirkede-varer
@@ -59,3 +59,4 @@ KjÃ¸pene bokfÃ¸res som varekostnad nÃ¥r varene forbrukes eller distribuere
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 
 **Korrekt bokfÃ¸ring** av kjÃ¸p og MVA sikrer nÃ¸yaktig regnskapsfÃ¸ring og rett skattemelding.
+

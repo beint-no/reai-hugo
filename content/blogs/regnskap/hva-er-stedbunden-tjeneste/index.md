@@ -66,3 +66,7 @@ For mer informasjon om MVA-regler og stedsbestemmelse, se ogsÃ¥:
 **Stedbunden tjeneste** krever korrekt stedsbestemmelse for Ã¥ sikre riktig MVA-behandling og bokfÃ¸ring. Ved Ã¥ fÃ¸lge lovens Â§Â§â€¯3-5 til 3-10 og praksis fra Skattedirektoratet kan bedrifter unngÃ¥ feil og sanksjoner.
 
 
+
+
+
+

@@ -63,3 +63,7 @@ Normrente brukes ofte i forbindelse med:
 For en oversikt over flere rente- og kostnadskonsepter, se [Hva er Rente?](/blogs/regnskap/hva-er-avkastning "Hva er Rente? Guide til Rente, NPV og Avkastning").
 
 
+
+
+
+

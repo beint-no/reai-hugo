@@ -473,3 +473,7 @@ For [enkeltpersonforetak](/blogs/regnskap/hva-er-enkeltpersonforetak "Hva er et 
 Uansett virksomhetens stÃ¸rrelse og kompleksitet er det viktig Ã¥ prioritere MVA-compliance som en integrert del av den daglige driften og den overordnede [regnskapsfÃ¸ringen](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide").
 
 
+
+
+
+

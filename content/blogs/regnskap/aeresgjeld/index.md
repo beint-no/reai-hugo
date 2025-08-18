@@ -1,5 +1,5 @@
 ﻿---
-title: "Ã†resgjeld “ ForstÃ¥else av Ã¦resbasert forpliktelse i norsk regnskap"
+title: "Ã†resgjeld â€“ ForstÃ¥else av Ã¦resbasert forpliktelse i norsk regnskap"
 meta_title: "Ã†resgjeld “ ForstÃ¥else av Ã¦resbasert forpliktelse i norsk regnskap"
 meta_description: '**Ã†resgjeld** er en forpliktelse basert pÃ¥ tillit og Ã¦re uten skriftlig kontrakt. Dette konseptet har betydning i norsk regnskap nÃ¥r muntlige avtaler gir gj...'
 slug: aeresgjeld
@@ -57,6 +57,10 @@ Ved bruk av Ã¦resgjeld mÃ¥ virksomheten vÃ¦re oppmerksom pÃ¥:
 ## Oppsummering
 
 Ã†resgjeld er en spesiell form for gjeld som stammer fra muntlige avtaler og Ã¦resbaserte forpliktelser. Selv om det mangler formell dokumentasjon, krever god regnskapsskikk at slike forpliktelser vurderes, dokumenteres internt og presenteres i balansen og noter med tydelig forklaring.
+
+
+
+
 
 
 

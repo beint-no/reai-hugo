@@ -69,3 +69,7 @@ Se [Hva er bokfÃ¸ringsplikt?](/blogs/regnskap/hva-er-bokforingsplikt "Hva er B
 PrimÃ¦rnÃ¦ringer er grunnsteinen i Ã¸konomien, men krever sÃ¦rskilt oppmerksomhet i regnskap og skatt pÃ¥ grunn av naturressurser, sesongvariasjoner og egne stÃ¸tteordninger. Ved Ã¥ fÃ¸lge de spesielle reglene for rapportering og verdivurdering, kan primÃ¦rnÃ¦ringer sikre korrekt regnskapsfÃ¸rsel og skattemessig behandling.
 
 
+
+
+
+

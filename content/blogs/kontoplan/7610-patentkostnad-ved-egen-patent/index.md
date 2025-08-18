@@ -1,5 +1,5 @@
 ﻿---
-title: "7610-patentkostnad-ved-egen-patent"
+title: "Hva er Konto 7610 - Patentkostnad ved egen patent?"
 meta_title: "7610-patentkostnad-ved-egen-patent"
 meta_description: '**Konto 7610 - Patentkostnad ved egen patent** er en kostnadskonto i norsk kontoplan for virksomheter som utvikler og registrerer egne patenter. Kontoen brukes ...'
 slug: 7610-patentkostnad-ved-egen-patent
@@ -73,3 +73,4 @@ Aktiverte egenpatenter skal [amortiseres](/blogs/regnskap/hva-er-amortisering "H
 * [Hva er Imaterielle Eiendeler?](/blogs/regnskap/hva-er-imaterielle-eiendeler "Hva er Imaterielle Eiendeler?")
 * [Konto 7630 - Kontroll-, prÃ¸ve- og stempelavgifter](/blogs/kontoplan/7630-kontroll-prove-og-stempelavgifter "Konto 7630 - Kontroll-, prÃ¸ve- og stempelavgifter")
 * [Hva er Anleggsmidler?](/blogs/regnskap/hva-er-anleggsmidler "Hva er Anleggsmidler?")
+

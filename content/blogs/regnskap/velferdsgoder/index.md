@@ -56,3 +56,6 @@ Enkel oversikt over behandling av vanlige velferdsgoder:
 **Velferdsgoder** er en viktig del av total kompensasjonsstrategi, med bÃ¥de praktiske og skattemessige implikasjoner. Ved Ã¥ kombinere lovpÃ¥lagte ordninger, skattefrie personalegoder og mÃ¥lrettede frivillige tiltak kan virksomheter skape merverdi for sine ansatte. For detaljert gjennomgang av strategisk implementering, se [Velferdstiltak](/blogs/regnskap/hva-er-velferdstiltak "Velferdstiltak - Komplett Guide til Ansattfordeler, RegnskapsfÃ¸ring og Skattebehandling").
 
 
+
+
+

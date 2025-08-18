@@ -394,3 +394,7 @@ QA er en investering i organisasjonens troverdighet, effektivitet og fremtidige 
 I en verden hvor digitalisering og automatisering endrer regnskapsbransjen, vil QA fortsette Ã¥ vÃ¦re en kritisk suksessfaktor for organisasjoner som Ã¸nsker Ã¥ opprettholde hÃ¸y kvalitet og compliance i sin finansielle rapportering. Dette krever bÃ¥de teknologisk innovasjon og menneskelig ekspertise - en kombinasjon som vil definere fremtidens regnskapsfÃ¸ring.
 
 
+
+
+
+

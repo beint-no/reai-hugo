@@ -53,3 +53,7 @@ For privatpersoner reduseres den skattepliktige inntekten med innbetalt belÃ¸p
 * [Pensjonskapitalbevis](/blogs/regnskap/pensjonskapitalbevis "Pensjonskapitalbevis: Hva er pensjonskapitalbevis?")
 
 
+
+
+
+

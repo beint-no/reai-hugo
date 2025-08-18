@@ -82,3 +82,7 @@ LineÃ¦r avskrivning er en **kostnadseffektiv og enkel** metode som passer for 
 For en mer detaljert presentasjon av avskrivning generelt, besÃ¸k [Hva er Avskrivning?](/blogs/regnskap/hva-er-avskrivning "Hva er Avskrivning i Regnskap?").
 
 
+
+
+
+

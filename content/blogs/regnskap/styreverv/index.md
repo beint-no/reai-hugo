@@ -65,3 +65,6 @@ Styreverv krever at man oppfyller visse formelle krav i henhold til [aksjeloven]
 Styreverv gir en unik mulighet til Ã¥ pÃ¥virke selskapets retning og utvikle din kompetanse, men krever ogsÃ¥ grundig forstÃ¥else av ansvar og forpliktelser. Med riktig forberedelse og god innsikt kan styreverv vÃ¦re bÃ¥de givende og verdiskapende.
 
 
+
+
+

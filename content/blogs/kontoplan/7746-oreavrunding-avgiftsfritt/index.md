@@ -1,5 +1,5 @@
 ﻿---
-title: "7746-oreavrunding-avgiftsfritt"
+title: "Konto 7746 - Ã˜reavrunding, avgiftsfritt"
 meta_title: "7746-oreavrunding-avgiftsfritt"
 meta_description: '**Konto 7746 - Ã˜reavrunding, avgiftsfritt** er en konto i **Norsk Standard Kontoplan** som brukes til Ã¥ bokfÃ¸re **Ã¸reavrunding** ved **avgiftsfrie transaksj...'
 slug: 7746-oreavrunding-avgiftsfritt
@@ -56,3 +56,4 @@ En selger fakturerer varer uten merverdiavgift og fÃ¥r fÃ¸lgende tall:
 * [Konto 7740 - Ã˜reavrunding, MVA - oppgjÃ¸r](/blogs/kontoplan/7740-oreavrunding-mva-oppgjor "Konto 7740 - Ã˜reavrunding, MVA - oppgjÃ¸r")
 * [Konto 3100 - Salgsinntekt handelsvarer avgiftsfri](/blogs/kontoplan/3100-salgsinntekt-handelsvarer-avgiftsfri "Konto 3100 - Salgsinntekt handelsvarer avgiftsfri")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

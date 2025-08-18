@@ -74,3 +74,7 @@ Vanlig verdivurdering fÃ¸lger enten historisk kost eller virkelig verdi ved op
 Varemerker er en sentral **immateriell eiendel** som kan skape betydelig konkurransefortrinn. Korrekt regnskapsfÃ¸ring krever hÃ¥ndtering av aktivering, amortisering og eventuelle nedskrivninger i henhold til norske regnskapsstandarder.
 
 
+
+
+
+

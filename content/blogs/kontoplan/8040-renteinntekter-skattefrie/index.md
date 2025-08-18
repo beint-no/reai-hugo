@@ -1,5 +1,5 @@
 ﻿---
-title: "8040-renteinntekter-skattefrie"
+title: "Hva er Konto 8040 - Renteinntekter, skattefrie?"
 meta_title: "8040-renteinntekter-skattefrie"
 meta_description: '**Konto 8040 - Renteinntekter, skattefrie** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **skattefrie renteinntekter**.'
 slug: 8040-renteinntekter-skattefrie
@@ -43,3 +43,4 @@ Typiske eksempler:
 * [Konto 2950 - PÃ¥lÃ¸pte renter](/blogs/kontoplan/2950-palopte-renter "Konto 2950 - PÃ¥lÃ¸pte renter: RegnskapsfÃ¸ring av pÃ¥lÃ¸pte renteutgifter")
 * [Hva er Periodisering i Regnskap?](/blogs/regnskap/hva-er-periodisering "Hva er Periodisering i Regnskap? Guide til periodisering av kostnader og inntekter")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

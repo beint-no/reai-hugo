@@ -1,5 +1,5 @@
 ﻿---
-title: "1870-andre-markedsbaserte-finansielle-instrumenter"
+title: "Konto 1870 - Andre markedsbaserte finansielle instrumenter"
 meta_title: "1870-andre-markedsbaserte-finansielle-instrumenter"
 meta_description: '**Konto 1870 - Andre markedsbaserte finansielle instrumenter** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **markedsbaserte finansielle ...'
 slug: 1870-andre-markedsbaserte-finansielle-instrumenter
@@ -75,3 +75,4 @@ Kredit: Konto 1920 - Bankinnskudd                                     300â€¯
 * [Konto 1880 - Andre finansielle instrumenter](/blogs/kontoplan/1880-andre-finansielle-instrumenter "Konto 1880 - Andre finansielle instrumenter: Guide til finansielle instrumenter i norsk kontoplan")
 * [Hva er virkelig verdi?](/blogs/regnskap/hva-er-virkelig-verdi "Hva er Virkelig Verdi? Verdsettelse og RegnskapsfÃ¸ring")
 * [Hva er Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

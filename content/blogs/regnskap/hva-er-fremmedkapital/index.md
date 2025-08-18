@@ -389,3 +389,7 @@ Riktig bruk av fremmedkapital kan **akselerere vekst** og **Ã¸ke avkastning** 
  For en fullstendig oversikt over finansieringsformer, se [Hva er Finansiering?](/blogs/regnskap/hva-er-finansiering "Hva er Finansiering? Komplett Guide til Bedriftsfinansiering og Finansieringsformer").
 
 
+
+
+
+

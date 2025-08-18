@@ -63,3 +63,4 @@ Det finnes ulike formater og kanaler for kontoutskrift:
 Kontoutskrift er en **essensiell kilde** til informasjon om bankbevegelser og utgjÃ¸r fundamentet for bokfÃ¸ring, avstemming og internkontroll i regnskap. Ved Ã¥ forstÃ¥ innholdet og strukturen i kontoutskriften kan bedrifter sikre nÃ¸yaktighet, oppdage feil og fÃ¸lge kravene til dokumentasjon.
 
 
+

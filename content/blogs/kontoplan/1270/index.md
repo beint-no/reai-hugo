@@ -1,5 +1,5 @@
 ﻿---
-title: "1270"
+title: "Hva er Konto 1270 - VerktÃ¸y mv.?"
 meta_title: "1270"
 meta_description: '**Konto 1270 - VerktÃ¸y mv.** er en konto i norsk kontoplan som benyttes for **verktÃ¸y** og **mindre driftsmidler**.'
 slug: 1270
@@ -50,3 +50,4 @@ Ved salg eller utrangering fÃ¸lges samme prinsipper som for andre anleggsmidle
 * [Konto 1260 - Bygninger med annen avskrivningstid](/blogs/kontoplan/1260-bygninger-med-annen-avskrivningstid "Konto 1260 - Bygninger med annen avskrivningstid")
 * [Hva er Anskaffelseskost?](/blogs/regnskap/hva-er-anskaffelseskost "Hva er Anskaffelseskost?")
 * [Hva er Avskrivning?](/blogs/regnskap/hva-er-avskrivning "Hva er Avskrivning i Regnskap?")
+

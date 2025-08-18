@@ -33,3 +33,7 @@ Noen lÃ¸nnstyper som ikke dekkes av tabellen over:
 Se ogsÃ¥ [Hva er LÃ¸nn?](/blogs/regnskap/hva-er-lonn "Hva er LÃ¸nn i Regnskap?") for en dypere gjennomgang av **lÃ¸nnsformer** og regnskapsmessig behandling.
 
 
+
+
+
+

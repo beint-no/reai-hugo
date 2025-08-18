@@ -47,3 +47,4 @@ Daglig leder er en nÃ¸kkelrolle i norske aksjeselskaper, med ansvar for daglig
 
 
 
+

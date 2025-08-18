@@ -1,5 +1,5 @@
 ﻿---
-title: "Databriller i Regnskap “ Visualisering og Analyse av Regnskapsdata"
+title: "Databriller i Regnskap â€“ Visualisering og Analyse av Regnskapsdata"
 meta_title: "Databriller i Regnskap “ Visualisering og Analyse av Regnskapsdata"
 meta_description: '**Databriller** er moderne **dashboards** og **datavisualiseringsverktÃ¸y** som gir regnskapsfÃ¸rere og ledere sanntidsinnsikt i Ã¸konomiske [nÃ¸kkeltall](/blog...'
 slug: databriller
@@ -50,6 +50,10 @@ Databriller refererer til interaktive visuelle grensesnitt som presenterer regns
 ## Oppsummering
 
 Databriller gir norske bedrifter en **moderne tilnÃ¦rming** til regnskapsanalyse ved Ã¥ kombinere API-integrasjon, datavisualisering og **internkontroll**. Med riktig implementering styrkes beslutningsgrunnlaget, effektiviteten Ã¸ker og risiko reduseres.
+
+
+
+
 
 
 

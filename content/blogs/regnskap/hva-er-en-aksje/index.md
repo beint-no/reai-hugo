@@ -51,3 +51,7 @@ Et selskap kan velge Ã¥ dele aksjene sine inn i ulike **[aksjeklasser](/blogs/
 Les mer om [aksjeklasser og hvordan de fungerer i praksis](/blogs/regnskap/hva-er-aksjeklasser "Hva er Aksjeklasser? A-aksjer og B-aksjer Forklart").
 
 
+
+
+
+

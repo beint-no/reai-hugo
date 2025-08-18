@@ -49,3 +49,7 @@ Regnskapsregisteret kan sÃ¸kes via offentlige tjenester som Proff, Brreg.no og
 * [Hva er MVA-registeret?](/blogs/regnskap/hva-er-mva-registeret "Hva er MVA-registeret? Registreringsplikt for Merverdiavgift")
 
 
+
+
+
+

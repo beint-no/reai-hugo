@@ -1,5 +1,5 @@
 ﻿---
-title: "1440-ferdige-egentilvirkede-varer"
+title: "Konto 1440 - Ferdige egentilvirkede varer"
 meta_title: "1440-ferdige-egentilvirkede-varer"
 meta_description: '**Konto 1440 - Ferdige egentilvirkede varer** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **ferdige egentilvirkede varer** som er fullst...'
 slug: 1440-ferdige-egentilvirkede-varer
@@ -56,3 +56,4 @@ Ved periodisering og Ã¥rsavslutning vurderes **ferdige egentilvirkede varer** 
 * [Konto 4200 - InnkjÃ¸p ferdig egentilvirkede varer hÃ¸y sats](/blogs/kontoplan/4200-innkjop-ferdig-egentilvirkede-varer-hoy-sats "Konto 4200 - InnkjÃ¸p ferdig egentilvirkede varer hÃ¸y sats")
 
 **NÃ¸yaktig regnskapsfÃ¸ring** av ferdige egentilvirkede varer bidrar til korrekt balanse og kostnadskontroll.
+

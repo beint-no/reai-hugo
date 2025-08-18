@@ -302,3 +302,7 @@ Kontering er tett knyttet til mange andre viktige regnskapsbegreper og prosesser
 Kontering er fundamentet som hele regnskapet bygger pÃ¥. Ved Ã¥ mestre denne prosessen sikrer du at bedriftens finansielle informasjon er nÃ¸yaktig, pÃ¥litelig og i samsvar med gjeldende regnskapsregler og -standarder.
 
 
+
+
+
+

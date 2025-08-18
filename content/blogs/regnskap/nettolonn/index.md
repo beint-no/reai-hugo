@@ -56,3 +56,7 @@ For mer om lÃ¸nnsrapportering og -dokumentasjon, se:
 * [Hva er Feriepenger i Prosent](/blogs/regnskap/feriepenger-i-prosent "Feriepenger i Prosent: Beregning og Utbetaling")
 
 
+
+
+
+

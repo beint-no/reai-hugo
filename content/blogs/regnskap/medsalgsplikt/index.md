@@ -58,3 +58,7 @@ Noen transaksjoner og virksomhetsmodeller kan vÃ¦re unntatt fra medsalgsplikt:
 - [MVA-loven](/blogs/regnskap/mva-loven "Mva-loven")
 
 
+
+
+
+

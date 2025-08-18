@@ -1,5 +1,5 @@
 ﻿---
-title: "2120-utsatt-skatt"
+title: "Hva er Konto 2120 - Utsatt skatt?"
 meta_title: "2120-utsatt-skatt"
 meta_description: '**Konto 2120 - Utsatt skatt** er en viktig konto for Ã¥ registrere **utsatt skatt** â€“ en forpliktelse som oppstÃ¥r nÃ¥r midlertidige forskjeller mellom regnsk...'
 slug: 2120-utsatt-skatt
@@ -114,3 +114,4 @@ Utsatt skatt presenteres som:
 ## Sammendrag
 
 Konto 2120 - Utsatt skatt er avgjÃ¸rende for Ã¥ vise fremtidige skattekostnader riktig og sikrer et rettvisende bilde av virksomhetens Ã¸konomi.
+

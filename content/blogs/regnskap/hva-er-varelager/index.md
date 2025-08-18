@@ -793,3 +793,7 @@ Varelager er ikke lenger bare en kostnadspost som skal minimaliseres, men en str
 For Ã¥ sikre at regnskapet gjenspeiler korrekt lagerbeholdning, utfÃ¸res regelmessig [varetelling](/blogs/regnskap/varetelling "Varetelling: Systematisk Lageropptelling og Korreksjon"), som beskrives i detalj i denne artikkelen.
 
 
+
+
+
+

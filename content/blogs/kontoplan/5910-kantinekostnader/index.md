@@ -1,5 +1,5 @@
 ﻿---
-title: "5910-kantinekostnader"
+title: "Hva er Konto 5910 - Kantinekostnader?"
 meta_title: "5910-kantinekostnader"
 meta_description: '**Konto 5910 - Kantinekostnader** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til Ã¥ registrere **kantinekostnader** som en **ansattfordel*...'
 slug: 5910-kantinekostnader
@@ -73,3 +73,4 @@ Kredit: Konto 2400 - LeverandÃ¸rgjeld      10â€¯000 kr
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 
 **Konto 5910 - Kantinekostnader** hjelper med Ã¥ synliggjÃ¸re ansattfordel knyttet til kantineordninger i regnskapet.
+

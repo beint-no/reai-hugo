@@ -1,5 +1,5 @@
 ﻿---
-title: "4260-frakt-toll-og-spedisjon"
+title: "Konto 4260 - Frakt, toll og spedisjon"
 meta_title: "4260-frakt-toll-og-spedisjon"
 meta_description: '**Konto 4260 - Frakt, toll og spedisjon** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **transportkostnader**, **importavgifter** og **hÃ...'
 slug: 4260-frakt-toll-og-spedisjon
@@ -53,3 +53,4 @@ layout: pages/single
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 
 **Korrekt bokfÃ¸ring** av frakt-, toll- og spedisjonskostnader ved kjÃ¸p av ferdige varer sikrer nÃ¸yaktig regnskap og riktig rapportering.
+

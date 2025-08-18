@@ -59,3 +59,6 @@ For effektiv hÃ¥ndtering av **velferdspermisjon**:
 **Velferdspermisjon** gir ansatte viktig stÃ¸tte ved livshendelser og kompetanseutvikling. Korrekt hÃ¥ndtering av lÃ¸nn, refusjon og regnskap er avgjÃ¸rende for bÃ¥de ansatttilfredshet og overholdelse av regelverk.
 
 
+
+
+

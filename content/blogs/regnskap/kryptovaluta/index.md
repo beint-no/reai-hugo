@@ -83,3 +83,4 @@ For god regnskapsfÃ¸rsel av kryptovaluta anbefales det:
 Kryptovaluta representerer en ny klasse av digitale eiendeler som krever tilpassede regnskaps- og skattemetoder. Ved Ã¥ fÃ¸lge standarder for innregning, vurdering og dokumentasjon, kan virksomheter trygt integrere kryptovaluta i sine regnskapsprosesser.
 
 
+

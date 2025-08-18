@@ -92,3 +92,7 @@ For en komplett oversikt over alle skatteordninger som pÃ¥virker aksjonÃ¦rer
 *   Se ogsÃ¥: [Reelle Rettighetshavere](/blogs/regnskap/reelle-rettighetshavere "Reelle Rettighetshavere: Ultimate Beneficial Ownership i Norge") for krav til rapportering av ultimate beneficial owners i Norge.
 
 
+
+
+
+

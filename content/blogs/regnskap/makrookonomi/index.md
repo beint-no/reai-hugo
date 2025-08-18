@@ -52,3 +52,7 @@ For en grundig innfÃ¸ring i overordnede Ã¸konomiske prinsipper, se
 **[MakroÃ¸konomi](/blogs/regnskap/makrookonomi "MakroÃ¸konomi: Prinsipper og Betydning for Norsk Regnskap")**.
 
 
+
+
+
+

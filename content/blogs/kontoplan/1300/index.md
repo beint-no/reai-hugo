@@ -1,5 +1,5 @@
 ﻿---
-title: "1300"
+title: "Hva er Konto 1300 - Investeringer i datterselskaper?"
 meta_title: "1300"
 meta_description: '**Konto 1300 - Investeringer i datterselskaper** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **langsiktige investeringer** i datterselsk...'
 slug: 1300
@@ -73,3 +73,4 @@ Kredit: Konto 1920 - Bankinnskudd                    5Â 000Â 000
 * [Konto 1370 - Fordringer pÃ¥ eiere og styremedlemmer](/blogs/kontoplan/1370-fordringer-pa-eiere-og-styremedlemmer "Konto 1370 - Fordringer pÃ¥ eiere og styremedlemmer")
 * [Konto 1380 - Fordringer pÃ¥ ansatte](/blogs/kontoplan/1380-fordringer-pa-ansatte "Konto 1380 - Fordringer pÃ¥ ansatte")
 * [Konto 8000 - Inntekt pÃ¥ investering i datterselskap](/blogs/kontoplan/8000-inntekt-pa-investering-i-datterselskap "Konto 8000 - Inntekt pÃ¥ investering i datterselskap")
+

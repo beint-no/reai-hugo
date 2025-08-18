@@ -62,3 +62,7 @@ En god forstÃ¥else av **midlertidige forskjeller** er avgjÃ¸rende for Ã¥ s
 * [Permanente forskjeller](/blogs/regnskap/permanente-forskjeller "Permanente forskjeller i regnskap og skatt")
 
 
+
+
+
+

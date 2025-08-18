@@ -330,3 +330,7 @@ Norske regnskapsstandarder (NGRS) og internasjonale standarder (IFRS) gir retnin
 Ved Ã¥ mestre nettobegrepet og dets anvendelser kan virksomheter ta bedre Ã¸konomiske beslutninger og sikre korrekt regnskapsfÃ¸ring i henhold til gjeldende regelverk og standarder.
 
 
+
+
+
+

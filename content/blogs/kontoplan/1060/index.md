@@ -1,5 +1,5 @@
 ﻿---
-title: "1060"
+title: "Hva er Konto 1060 - Andre rettigheter?"
 meta_title: "1060"
 meta_description: '**Konto 1060 - Andre rettigheter** er en viktig konto i norsk kontoplan som anvendes for Ã¥ registrere [immaterielle eiendeler](/blogs/regnskap/hva-er-imateriel...'
 slug: 1060
@@ -362,3 +362,4 @@ Konto 1060 Andre rettigheter er en fleksibel konto som dekker et bredt spekter a
 * **Oppretthold** god kontroll og dokumentasjon
 
 Andre rettigheter representerer ofte betydelige verdier for virksomheter og krever profesjonell forvaltning for Ã¥ sikre bÃ¥de regnskapsmessig korrekthet og optimal forretningsnytte. Med Ã¸kende fokus pÃ¥ digitalisering og immaterielle verdier blir denne kontoen stadig mer relevant for moderne virksomheter.
+

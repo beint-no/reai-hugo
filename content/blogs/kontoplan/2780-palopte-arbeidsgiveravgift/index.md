@@ -1,5 +1,5 @@
 ﻿---
-title: "2780-palopte-arbeidsgiveravgift"
+title: "Konto 2780 - PÃ¥lÃ¸pt arbeidsgiveravgift"
 meta_title: "2780-palopte-arbeidsgiveravgift"
 meta_description: '**Konto 2780 - PÃ¥lÃ¸pt arbeidsgiveravgift** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **pÃ¥lÃ¸pt arbeidsgiveravgift** som kortsiktig ...'
 slug: 2780-palopte-arbeidsgiveravgift
@@ -63,3 +63,4 @@ Andre kontoer i NSÂ 4102 som ofte benyttes sammen med konto 2780:
 * [Hva er Periodisering i Regnskap?](/blogs/regnskap/hva-er-periodisering "Hva er Periodisering i Regnskap? Guide til periodisering av kostnader og inntekter")
 
 **Korrekt bruk** av konto 2780 sikrer nÃ¸yaktig periodisering og oversikt over pÃ¥lÃ¸pt arbeidsgiveravgift.
+

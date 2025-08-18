@@ -1,5 +1,5 @@
 ﻿---
-title: "1840-andre-obligasjoner"
+title: "Konto 1840 - Andre obligasjoner"
 meta_title: "1840-andre-obligasjoner"
 meta_description: '**Konto 1840 - Andre obligasjoner** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **andre obligasjoner** som ikke dekkes av markedsbaserte...'
 slug: 1840-andre-obligasjoner
@@ -70,3 +70,4 @@ Kredit: Konto 1920 - Bankinnskudd                  500â€¯000 kr
 * [Konto 1860 - Andre sertifikater](/blogs/kontoplan/1860-andre-sertifikater "Konto 1860 - Andre sertifikater: Guide til sertifikater i norsk kontoplan")
 * [Hva er virkelig verdi?](/blogs/regnskap/hva-er-virkelig-verdi "Hva er Virkelig Verdi? Verdsettelse og RegnskapsfÃ¸ring")
 * [Hva er Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

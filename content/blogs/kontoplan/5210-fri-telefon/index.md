@@ -1,5 +1,5 @@
 ﻿---
-title: "5210-fri-telefon"
+title: "Konto 5210 - Fri telefon"
 meta_title: "5210-fri-telefon"
 meta_description: '**Konto 5210 - Fri telefon** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til Ã¥ registrere **verdi av fri telefon** som **ansattgode**.'
 slug: 5210-fri-telefon
@@ -72,3 +72,4 @@ En ansatt har fri telefon med mÃ¥nedlig abonnement pÃ¥ 500Â NOK og privat 
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 
 **Konto 5210 - Fri telefon** gjÃ¸r det enkelt Ã¥ synliggjÃ¸re telefon som et **ansattgode** i regnskapet.
+

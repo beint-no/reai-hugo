@@ -52,3 +52,7 @@ Transaksjoner med [nÃ¦rstÃ¥ende parter](/blogs/regnskap/naerstaende "NÃ¦rs
 * [NÃ¦ringsoppgave](/blogs/regnskap/hva-er-naeringsoppgave "Hva er NÃ¦ringsoppgave? Komplett guide til levering og krav")
 
 
+
+
+
+

@@ -63,3 +63,6 @@ For grundigere informasjon om hver selskapsform, se:
 - [NUF](/blogs/regnskap/hva-er-nuf-selskapsform "Hva er NUF? Norskregistrert Utenlandsk Foretak")
 
 
+
+
+

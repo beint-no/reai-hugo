@@ -495,3 +495,7 @@ For norske bedrifter som vurderer ERP-implementering, er det viktig Ã¥ huske a
 Integrasjonen med norske regnskapskrav, fra [bokfÃ¸ring](/blogs/regnskap/hva-er-bokforing "Hva er BokfÃ¸ring? En Komplett Guide til Norsk BokfÃ¸ringspraksis") til [MVA-rapportering](/blogs/regnskap/hva-er-avgiftsplikt-mva "Hva er Avgiftsplikt (MVA)? Komplett Guide til Merverdiavgift i Norge"), gjÃ¸r ERP-systemer til en naturlig utvidelse av bedriftens regnskapsfunksjon og en investering i fremtidens digitale forretningsdrift.
 
 
+
+
+
+

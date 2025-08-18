@@ -85,3 +85,7 @@ Skatteloven har rÃ¸tter tilbake til:
 * [Hva er Skattegrunnlag?](/blogs/regnskap/hva-er-skattegrunnlag "Skattegrunnlag - Guide til Beregning av Skattepliktig Inntekt")
 
 
+
+
+
+

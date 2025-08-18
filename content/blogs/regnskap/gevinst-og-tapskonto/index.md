@@ -56,3 +56,7 @@ Bruk av en **gevinst- og tapskonto** sikrer at gevinster og tap ved avhending av
 
 
 
+
+
+
+

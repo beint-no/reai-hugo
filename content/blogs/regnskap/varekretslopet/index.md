@@ -53,3 +53,6 @@ I Norge fÃ¸lger verdivurdering av lager regnskapslovens prinsipper og skatteme
 For mer om varelager og regnskapsprinsipper, se ogsÃ¥ [Hva er varelager?](/blogs/regnskap/hva-er-varelager "Hva er Varelager? Komplett Guide til Lagerstyring og RegnskapsfÃ¸ring").
 
 
+
+
+

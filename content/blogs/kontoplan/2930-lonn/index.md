@@ -1,5 +1,5 @@
 ﻿---
-title: "2930-lonn"
+title: "Konto 2930 - LÃ¸nn"
 meta_title: "2930-lonn"
 meta_description: '**Konto 2930 - LÃ¸nn** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til Ã¥ registrere **skyldig lÃ¸nn** som en del av **kortsiktig gjeld**.'
 slug: 2930-lonn
@@ -72,3 +72,4 @@ Andre kontoer i NSÂ 4102 som ofte brukes sammen med konto 2930:
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 
 **Konto 2930 - LÃ¸nn** gjenspeiler virksomhetens skyldige lÃ¸nn til ansatte som en del av kortsiktig gjeld.
+

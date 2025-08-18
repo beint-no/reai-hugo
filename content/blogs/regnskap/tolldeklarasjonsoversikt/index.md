@@ -1,5 +1,5 @@
 ﻿---
-title: "Tolldeklarasjonsoversikt “ Guide til Tolldeklarasjon i Norsk Regnskap"
+title: "Tolldeklarasjonsoversikt â€“ Guide til Tolldeklarasjon i Norsk Regnskap"
 meta_title: "Tolldeklarasjonsoversikt “ Guide til Tolldeklarasjon i Norsk Regnskap"
 meta_description: '**Tolldeklarasjonsoversikt** gir en grundig gjennomgang av **tolldeklarasjon** (ofte kalt *SAD-dokument*) og hvordan dette komplekse skjemaet brukes i norsk reg...'
 slug: tolldeklarasjonsoversikt
@@ -71,5 +71,8 @@ Tolldeklarasjoner er regnskapsbilag og omfattes av krav til oppbevaring i henhol
 | **Transportdokumenter**  | Minst 5 Ã¥r          | BokfÃ¸ringsforskriften Â§ 13-2                  |
 
 For mer informasjon om oppbevaringskrav, se [Oppbevaring av regnskapsmateriale](/blogs/regnskap/oppbevaring-av-regnskapsmateriale "Oppbevaring av Regnskapsmateriale - Krav og frister").
+
+
+
 
 

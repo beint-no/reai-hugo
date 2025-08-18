@@ -56,3 +56,6 @@ Videre kan det oppstÃ¥ spÃ¸rsmÃ¥l om dobbeltbeskatning, som reguleres av i
 Gjennom god **skatteplanlegging** kan man unngÃ¥ behovet for Ã¥ bli skatteflyktning og samtidig optimalisere skatteposisjonen.
 
 
+
+
+

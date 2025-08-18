@@ -327,3 +327,7 @@ Ved Ã¥ implementere effektive systemer for [fakturabehandling](/blogs/regnskap
 For debitorer er det viktig Ã¥ prioritere rettidig betaling og kommunisere proaktivt ved eventuelle betalingsproblemer. Dette kan ofte fÃ¸re til mer fleksible lÃ¸sninger og reduserte kostnader sammenlignet med Ã¥ la forsinkelsesgebyrer pÃ¥lÃ¸pe ukontrollert.
 
 
+
+
+
+

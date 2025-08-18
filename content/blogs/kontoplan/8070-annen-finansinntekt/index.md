@@ -1,5 +1,5 @@
 ﻿---
-title: "8070-annen-finansinntekt"
+title: "Hva er Konto 8070 - Annen finansinntekt?"
 meta_title: "8070-annen-finansinntekt"
 meta_description: '**Konto 8070 - Annen finansinntekt** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **Ã¸vrige finansinntekter** som ikke inngÃ¥r under rent...'
 slug: 8070-annen-finansinntekt
@@ -53,3 +53,4 @@ Typiske eksempler:
 * [Konto 8080 - VerdiÃ¸kning finansielle omlÃ¸psmidler](/blogs/kontoplan/8080-verdiokning-finansielle-omlopsmidler "Konto 8080 - VerdiÃ¸kning finansielle omlÃ¸psmidler: RegnskapsfÃ¸ring av verdiÃ¸kning i finansielle omlÃ¸psmidler")
 * [Hva er Periodisering i Regnskap?](/blogs/regnskap/hva-er-periodisering "Hva er Periodisering i Regnskap? Guide til periodisering av kostnader og inntekter")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

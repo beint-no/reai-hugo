@@ -98,3 +98,6 @@ Moderne bedrifter bruker Altinn for digital tinglysing:
 * [Gjenpartsbrev](/blogs/regnskap/gjenpartsbrev "Gjenpartsbrev: Definisjon, krav og bruk i norsk regnskap")
 
 
+
+
+

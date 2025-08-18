@@ -1,5 +1,5 @@
 ﻿---
-title: "2950-palopte-renter"
+title: "Konto 2950 - PÃ¥lÃ¸pte renter"
 meta_title: "2950-palopte-renter"
 meta_description: '**Konto 2950 - PÃ¥lÃ¸pte renter** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **pÃ¥lÃ¸pte renteutgifter**.'
 slug: 2950-palopte-renter
@@ -59,3 +59,4 @@ Andre kontoer i NSÂ 4102 som ofte benyttes sammen med konto 2950:
 * [Konto 8140 - Rentekostnad, ikke fradragsberettiget](/blogs/kontoplan/8140-rentekostnad-ikke-fradragsberettiget "Konto 8140 - Rentekostnad, ikke fradragsberettiget i Norsk Standard Kontoplan")
 
 **Riktig bruk** av konto 2950 sikrer nÃ¸yaktig periodisering og oversikt over pÃ¥lÃ¸pte rentekostnader.
+

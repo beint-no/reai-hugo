@@ -1,5 +1,5 @@
 ﻿---
-title: "2630-trygdetrekk"
+title: "Hva er Konto 2630 - Trygdetrekk?"
 meta_title: "2630-trygdetrekk"
 meta_description: '**Konto 2630 - Trygdetrekk** er en **konto** i Norsk Standard Kontoplan som brukes til Ã¥ registrere **trygdetrekk**, den delen av ansattes [lÃ¸nn](/blogs/konto...'
 slug: 2630-trygdetrekk
@@ -74,3 +74,4 @@ Kredit: Konto 1950 - Bankinnskudd for skattetrekk   YYY NOK
  * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 
 **Konto 2630 - Trygdetrekk** gir oversikt over trygdeavgifter trukket fra lÃ¸nn og sikrer korrekt periodisering og presentasjon som kortsiktig gjeld i balansen.
+

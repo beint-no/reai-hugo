@@ -1,5 +1,5 @@
 ﻿---
-title: "Ligningspapirer “ Hva er, krav og oppbevaring"
+title: "Ligningspapirer â€“ Hva er, krav og oppbevaring"
 meta_title: "Ligningspapirer “ Hva er, krav og oppbevaring"
 meta_description: '**Ligningspapirer** er dokumenter som brukes i forbindelse med skattemyndighetenes vurdering av en virksomhets eller en persons skattepliktige inntekt og skatte...'
 slug: ligningspapirer
@@ -58,5 +58,9 @@ Moderne regnskapssystemer og arkivlÃ¸sninger forenkler hÃ¥ndtering og oppbev
 * SÃ¸rg for lesbarhet, integritet og autentisitet gjennom hele oppbevaringsperioden
 
 Ligningspapirer er essensielle for korrekt skatteberegning, revisjon og eventuell etterkontroll fra skattemyndighetene. Ã… ha gode rutiner for dokumentasjon og oppbevaring reduserer risikoen for avvik og kontrolltiltak.
+
+
+
+
 
 

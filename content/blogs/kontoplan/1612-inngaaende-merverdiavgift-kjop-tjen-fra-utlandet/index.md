@@ -1,5 +1,5 @@
 ﻿---
-title: "1612-inngaaende-merverdiavgift-kjop-tjen-fra-utlandet"
+title: "Konto 1612 - InngÃ¥ende merverdiavgift kjÃ¸p tjenester fra utlandet"
 meta_title: "1612-inngaaende-merverdiavgift-kjop-tjen-fra-utlandet"
 meta_description: '**Konto 1612 - InngÃ¥ende merverdiavgift kjÃ¸p tjenester fra utlandet** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **inngÃ¥ende merverd...'
 slug: 1612-inngaaende-merverdiavgift-kjop-tjen-fra-utlandet
@@ -61,3 +61,4 @@ For en grundig innfÃ¸ring i merverdiavgift, se [Hva er MVA?](/blogs/regnskap/h
 * [Konto 7360 - Representasjon, ikke fradragsberettiget](/blogs/kontoplan/7360-representasjon-ikke-fradragsberettiget "Konto 7360 - Representasjon, ikke fradragsberettiget")
 * [Hva er MVA?](/blogs/regnskap/hva-er-moms-mva "Hva er MVA? MVA-regnskapsfÃ¸ring og merverdiavgift")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

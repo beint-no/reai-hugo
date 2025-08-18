@@ -1,5 +1,5 @@
 ﻿---
-title: "7730-kostnader-ved-egne-aksjer"
+title: "Konto 7730 - Kostnader ved egne aksjer"
 meta_title: "7730-kostnader-ved-egne-aksjer"
 meta_description: '**Konto 7730 - Kostnader ved egne aksjer** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til Ã¥ registrere **kostnader ved egne aksjer** som ...'
 slug: 7730-kostnader-ved-egne-aksjer
@@ -52,3 +52,4 @@ layout: pages/single
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 
 **Konto 7730 - Kostnader ved egne aksjer** gir en detaljert oversikt over kostnadene selskapet pÃ¥drar seg ved kjÃ¸p og hÃ¥ndtering av egne aksjer.
+

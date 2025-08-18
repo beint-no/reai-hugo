@@ -1,5 +1,5 @@
 ﻿---
-title: "1880-andre-finansielle-instrumenter"
+title: "Konto 1880 - Andre finansielle instrumenter"
 meta_title: "1880-andre-finansielle-instrumenter"
 meta_description: '**Konto 1880 - Andre finansielle instrumenter** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **andre kortsiktige finansielle instrumenter...'
 slug: 1880-andre-finansielle-instrumenter
@@ -70,3 +70,4 @@ Kredit: Konto 1920 - Bankinnskudd                         900Â 000Â kr
 * [Konto 1840 - Andre obligasjoner](/blogs/kontoplan/1840-andre-obligasjoner "Konto 1840 - Andre obligasjoner: Guide til andre obligasjoner i norsk kontoplan")
 * [Hva er virkelig verdi?](/blogs/regnskap/hva-er-virkelig-verdi "Hva er Virkelig Verdi? Verdsettelse og RegnskapsfÃ¸ring")
 * [Hva er Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

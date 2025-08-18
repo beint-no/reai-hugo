@@ -1,5 +1,5 @@
 ﻿---
-title: "2980-avsetninger-og-forpliktelser"
+title: "Konto 2980 - Avsetninger og forpliktelser"
 meta_title: "2980-avsetninger-og-forpliktelser"
 meta_description: '**Konto 2980 - Avsetninger og forpliktelser** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ oppsummere **avsetninger og forpliktelser**, inkludert ul...'
 slug: 2980-avsetninger-og-forpliktelser
@@ -47,3 +47,4 @@ _*Bruk relevante resultatkontoer for kostnadsfÃ¸ring av de ulike avsetningene.
 * [Hva er Avsetning?](/blogs/regnskap/avsetning "Hva er Avsetning i Regnskap? Komplett Guide til Avsetninger og Estimater")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 * [Hva er gjeld?](/blogs/regnskap/hva-er-gjeld "Hva er Gjeld i Regnskap? Komplett Guide til Forpliktelser og Gjeldstyper")
+

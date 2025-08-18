@@ -1,5 +1,5 @@
 ﻿---
-title: "2640-forsikringstrekk"
+title: "Hva er Konto 2640 - Forsikringstrekk?"
 meta_title: "2640-forsikringstrekk"
 meta_description: '**Konto 2640 - Forsikringstrekk** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **forsikringstrekk** som arbeidsgiver foretar i ansattes l...'
 slug: 2640-forsikringstrekk
@@ -78,3 +78,4 @@ Avstem saldoen pÃ¥ konto 2640 mot lÃ¸nnssystemets beregninger og forsikrings
  * [Konto 2650 - Trukket fagforeningskontingent](/blogs/kontoplan/2650-trukket-fagforeningskontingent "Konto 2650 - Trukket fagforeningskontingent")
 
 **Konto 2640 - Forsikringstrekk** gir oversikt over tilbakeholdt forsikringspremie og sikrer korrekt periodisering og presentasjon som kortsiktig gjeld i balansen.
+

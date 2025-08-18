@@ -1,5 +1,5 @@
 ﻿---
-title: "3260-uttak-av-varer-utenfor-avg-omr"
+title: "Konto 3260 - Uttak av varer utenfor avg.omr"
 meta_title: "3260-uttak-av-varer-utenfor-avg-omr"
 meta_description: '**Konto 3260 - Uttak av varer utenfor avg.omr** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **uttak av varer** fra varelageret til inter...'
 slug: 3260-uttak-av-varer-utenfor-avg-omr
@@ -53,3 +53,4 @@ RegnskapsfÃ¸ring av **uttak av varer utenfor avgiftsomrÃ¥det** fÃ¸lger **t
 * [Konto 3260 - Uttak av varer utenfor avgiftsomrÃ¥det](/blogs/kontoplan/3260-uttak-av-varer-utenfor-avg-omr "Konto 3260 - Uttak av varer utenfor avgiftsomrÃ¥det")
 * [Hva er Varelager?](/blogs/regnskap/hva-er-varelager "Hva er Varelager? Komplett Guide til LagerfÃ¸ring og Verdivurdering")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

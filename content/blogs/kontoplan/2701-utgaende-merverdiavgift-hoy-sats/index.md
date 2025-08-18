@@ -1,5 +1,5 @@
 ﻿---
-title: "2701-utgaende-merverdiavgift-hoy-sats"
+title: "Konto 2701 - UtgÃ¥ende merverdiavgift hÃ¸y sats"
 meta_title: "2701-utgaende-merverdiavgift-hoy-sats"
 meta_description: '**Konto 2701 - UtgÃ¥ende merverdiavgift hÃ¸y sats** er en konto i **Norsk Standard Kontoplan** som brukes ved periodisk **oppgjÃ¸r av utgÃ¥ende merverdiavgift m...'
 slug: 2701-utgaende-merverdiavgift-hoy-sats
@@ -51,3 +51,4 @@ For selve transaksjonsfÃ¸ringen av salg med hÃ¸y sats, se [Konto 1601 - Utg�
 * [Konto 2703 - UtgÃ¥ende merverdiavgift middels sats](/blogs/kontoplan/2703-utgaende-merverdiavgift-middels-sats "Konto 2703 - UtgÃ¥ende merverdiavgift middels sats")
 * [Konto 2704 - UtgÃ¥ende merverdiavgift lav sats](/blogs/kontoplan/2704-utgaende-merverdiavgift-lav-sats "Konto 2704 - UtgÃ¥ende merverdiavgift lav sats")
 * [Hva er MVA?](/blogs/regnskap/hva-er-moms-mva "Hva er MVA? MVA-regnskapsfÃ¸ring og merverdiavgift")
+

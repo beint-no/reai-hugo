@@ -1,5 +1,5 @@
 ﻿---
-title: "7910-ukurante-varer"
+title: "Konto 7910 - Ukurante varer"
 meta_title: "7910-ukurante-varer"
 meta_description: '**Konto 7910 - Ukurante varer** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **verdifall pÃ¥ ukurante varer** som en driftskostnad i resu...'
 slug: 7910-ukurante-varer
@@ -54,3 +54,4 @@ Kredit: Konto 1460 - InnkjÃ¸pte varer for videresalg         50Â 000 NOK
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 
 **Riktig hÃ¥ndtering** av ukuranskostnader sikrer at regnskapet gjenspeiler den reelle verdien av lagerbeholdningen.
+

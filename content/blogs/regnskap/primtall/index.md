@@ -61,3 +61,7 @@ Denne teknikken reduserer risiko for manuelle feil og automatiserer validering i
 * [Hva er Organisasjonsnummer?](/blogs/regnskap/hva-er-organisasjonsnummer "Hva er Organisasjonsnummer? Unike IDer for Norske Selskaper")
 
 
+
+
+
+

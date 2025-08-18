@@ -1,5 +1,5 @@
 ﻿---
-title: "8000-inntekt-pa-investering-i-datterselskap"
+title: "Hva er Konto 8000 - Inntekt pÃ¥ investering i datterselskap?"
 meta_title: "8000-inntekt-pa-investering-i-datterselskap"
 meta_description: '**Konto 8000 - Inntekt pÃ¥ investering i datterselskap** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ resultatfÃ¸re **lÃ¸pende inntekt** fra investe...'
 slug: 8000-inntekt-pa-investering-i-datterselskap
@@ -46,3 +46,4 @@ Kredit: Konto 8000 - Inntekt pÃ¥ investering i datterselskap       100Â 000 
 * [Konto 1300 - Investeringer i datterselskaper](/blogs/kontoplan/1300-investeringer-i-datterselskaper "Konto 1300 - Investeringer i datterselskaper")
 * [Konto 1330 - Investeringer i tilknyttede selskap](/blogs/kontoplan/1330-investeringer-i-tilknyttede-selskap "Konto 1330 - Investeringer i tilknyttede selskap")
 * [Hva er Ã¥ investere?](/blogs/regnskap/hva-er-investere "Hva er Ã¥ investere? Komplett Guide til Investeringer i Regnskap")
+

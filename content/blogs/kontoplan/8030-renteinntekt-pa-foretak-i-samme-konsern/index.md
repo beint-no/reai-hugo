@@ -1,5 +1,5 @@
 ﻿---
-title: "8030-renteinntekt-pa-foretak-i-samme-konsern"
+title: "Hva er Konto 8030 - Renteinntekt pÃ¥ foretak i samme konsern?"
 meta_title: "8030-renteinntekt-pa-foretak-i-samme-konsern"
 meta_description: '**Konto 8030 - Renteinntekt pÃ¥ foretak i samme konsern** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **renteinntekter** fra foretak i s...'
 slug: 8030-renteinntekt-pa-foretak-i-samme-konsern
@@ -39,3 +39,4 @@ layout: pages/single
 * [Konto 2950 - PÃ¥lÃ¸pte renter](/blogs/kontoplan/2950-palopte-renter "Konto 2950 - PÃ¥lÃ¸pte renter: RegnskapsfÃ¸ring av pÃ¥lÃ¸pte renteutgifter")
 * [Konto 8130 - Rentekostnad foretak i samme konsern](/blogs/kontoplan/8130-rentekostnad-foretak-i-samme-konsern "Konto 8130 - Rentekostnad foretak i samme konsern")
 * [Hva er Konsern?](/blogs/regnskap/hva-er-konsern "Hva er Konsern? Komplett Guide til Konsernstrukturer og Konsernregnskap")
+

@@ -41,3 +41,7 @@ For regnskapsfÃ¸rende virksomheter pÃ¥virker ikke pensjonskapitalbevis direk
 * [Pensjonskapitalbevis](/blogs/regnskap/pensjonskapitalbevis "Pensjonskapitalbevis: Hva er pensjonskapitalbevis?")
 
 
+
+
+
+

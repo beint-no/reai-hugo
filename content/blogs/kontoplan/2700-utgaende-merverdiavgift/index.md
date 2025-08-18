@@ -1,5 +1,5 @@
 ﻿---
-title: "2700-utgaende-merverdiavgift"
+title: "Konto 2700 - UtgÃ¥ende merverdiavgift"
 meta_title: "2700-utgaende-merverdiavgift"
 meta_description: '**Konto 2700 - UtgÃ¥ende merverdiavgift** er en konto i **Norsk Standard Kontoplan** som brukes til Ã¥ registrere **utgÃ¥ende merverdiavgift (MVA)** som en kort...'
 slug: 2700-utgaende-merverdiavgift
@@ -66,3 +66,4 @@ Netto MVA overfÃ¸res og betales til staten:
 * [Konto 2704 - UtgÃ¥ende merverdiavgift lav sats](/blogs/kontoplan/2704-utgaende-merverdiavgift-lav-sats "Konto 2704 - UtgÃ¥ende merverdiavgift lav sats")
 * [Konto 3300 - Spesiell off. avg. tilv./solgte varer avgiftspl.](/blogs/kontoplan/3300-spesiell-off-avg-tilv-solgte-varer-avgiftspl "Konto 3300 - Spesiell off. avg. tilv./solgte varer avgiftspl.")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

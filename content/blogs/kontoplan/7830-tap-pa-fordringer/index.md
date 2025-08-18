@@ -1,5 +1,5 @@
 ﻿---
-title: "7830-tap-pa-fordringer"
+title: "Konto 7830 - Tap pÃ¥ fordringer"
 meta_title: "7830-tap-pa-fordringer"
 meta_description: '**Konto 7830 - Tap pÃ¥ fordringer** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **tap pÃ¥ fordringer** som en **driftskostnad** nÃ¥r kun...'
 slug: 7830-tap-pa-fordringer
@@ -59,3 +59,4 @@ Kredit: Konto 1580 - Avsetning tap pÃ¥ fordringer
 * [Konto 1500 - Kundefordringer](/blogs/kontoplan/1500-kundefordringer "Konto 1500 - Kundefordringer")
 * [Konto 7860 - Tap pÃ¥ kontrakter](/blogs/kontoplan/7860-tap-pa-kontrakter "Konto 7860 - Tap pÃ¥ kontrakter")
 * [Konto 1390 - Andre fordringer](/blogs/kontoplan/1390-andre-fordringer "Konto 1390 - Andre fordringer")
+

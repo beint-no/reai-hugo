@@ -65,3 +65,6 @@ FÃ¸lg disse trinnene for Ã¥ avgjÃ¸re om virksomheten din kvalifiserer:
 For mer om Ã¥rsavslutning, se [Hva er Ã¥rsavslutning?](/blogs/regnskap/hva-er-aarsavslutning "Hva er Aarsavslutning? Komplett Guide til Ã…rsavslutning").
 
 
+
+
+

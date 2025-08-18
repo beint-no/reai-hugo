@@ -306,3 +306,7 @@ Budsjettering forblir et kritisk verktÃ¸y for Ã¸konomistyring, men metodene 
 
 
 
+
+
+
+

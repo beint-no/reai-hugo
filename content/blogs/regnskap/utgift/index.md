@@ -56,3 +56,6 @@ Utgifter kan vÃ¦re **fradragsberettigede** hvis de tilfredsstiller krav i [ska
 En **utgift** er selve betalingen for varer og tjenester, og er et viktig punkt i regnskapsprosessen. Ved Ã¥ klassifisere, dokumentere og bokfÃ¸re utgifter korrekt sikres bedre regnskapskontroll og skattemessig etterlevelse.
 
 
+
+
+

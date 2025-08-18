@@ -1,5 +1,5 @@
 ﻿---
-title: "7740-oreavrunding-mva-oppgjor"
+title: "Konto 7740 - Ã˜reavrunding, MVA - oppgjÃ¸r"
 meta_title: "7740-oreavrunding-mva-oppgjor"
 meta_description: '**Konto 7740 - Ã˜reavrunding, MVA - oppgjÃ¸r** er en konto i **Norsk Standard Kontoplan** som brukes til Ã¥ bokfÃ¸re **Ã¸reavrunding** ved oppgjÃ¸r av **merverd...'
 slug: 7740-oreavrunding-mva-oppgjor
@@ -60,3 +60,4 @@ En virksomhet beregner netto merverdiavgift ved periodeavslutning og fÃ¥r fÃ�
 * [Konto 7746 - Ã˜reavrunding, avgiftsfritt](/blogs/kontoplan/7746-oreavrunding-avgiftsfritt "Konto 7746 - Ã˜reavrunding, avgiftsfritt")
 * [Hva er MVA?](/blogs/regnskap/hva-er-moms-mva "Hva er MVA? MVA-regnskapsfÃ¸ring og merverdiavgift")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

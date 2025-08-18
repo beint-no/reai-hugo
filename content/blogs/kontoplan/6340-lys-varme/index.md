@@ -1,5 +1,5 @@
 ﻿---
-title: "6340-lys-varme"
+title: "Konto 6340 - Lys, varme"
 meta_title: "6340-lys-varme"
 meta_description: '**Konto 6340 - Lys, varme** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **lys- og varmekostnader** i virksomhetens drift.'
 slug: 6340-lys-varme
@@ -82,3 +82,4 @@ Andre kontoer i NSÂ 4102 som ofte brukes sammen med konto 6340:
 * [Konto 6360 - Renhold](/blogs/kontoplan/6360-renhold "Konto 6360 - Renhold")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 * [Hva er en Faktura?](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav")
+

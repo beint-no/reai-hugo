@@ -1,5 +1,5 @@
 ﻿---
-title: "6820-trykksaker"
+title: "Konto 6820 - Trykksaker"
 meta_title: "6820-trykksaker"
 meta_description: '**Konto 6820 - Trykksaker** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til Ã¥ registrere **kostnader til trykksaker**, som visittkort, brosjyr...'
 slug: 6820-trykksaker
@@ -54,3 +54,4 @@ layout: pages/single
 * [Konto 1920 - Bankinnskudd](/blogs/kontoplan/1920-bankinnskudd "Konto 1920 - Bankinnskudd")
 * [Hva er Driftskostnader?](/blogs/regnskap/hva-er-driftskostnader "Hva er Driftskostnader? Komplett Guide til KostnadsfÃ¸ring i Regnskap")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

@@ -1,5 +1,5 @@
 ﻿---
-title: "1780-krav-pa-innbetaling-av-selskapskapital"
+title: "Konto 1780 - Krav pÃ¥ innbetaling av selskapskapital"
 meta_title: "1780-krav-pa-innbetaling-av-selskapskapital"
 meta_description: '**Konto 1780 - Krav pÃ¥ innbetaling av selskapskapital** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **krav pÃ¥ innbetaling av selskapsk...'
 slug: 1780-krav-pa-innbetaling-av-selskapskapital
@@ -68,3 +68,4 @@ Andre kontoer i NSÂ 4102 som ofte benyttes sammen med konto 1780:
 * [Hva er Egenkapital?](/blogs/regnskap/hva-er-egenkapital "Hva er Egenkapital? Komplett Guide til Egenkapital i Regnskap")
 
 **Korrekt bruk** av konto 1780 gir oversikt over ikke-innbetalt kapital og sikrer at selskapets balanseregnskap reflekterer faktiske innbetalinger.
+

@@ -1,5 +1,5 @@
 ﻿---
-title: "4390-beholdningsendring"
+title: "Konto 4390 - Beholdningsendring"
 meta_title: "4390-beholdningsendring"
 meta_description: '**Konto 4390 - Beholdningsendring** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **endringer i beholdningen av ferdige varer** i resultat...'
 slug: 4390-beholdningsendring
@@ -55,3 +55,4 @@ Valg av **vurderingsmetode** for ferdige varer pÃ¥virker beregningen av behold
 * [Konto 7910 - Ukurante varer](/blogs/kontoplan/7910-ukurante-varer "Konto 7910 - Ukurante varer")
 * [Hva er Varelager?](/blogs/regnskap/hva-er-varelager "Hva er Varelager? Komplett Guide til LagerfÃ¸ring og Verdivurdering")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

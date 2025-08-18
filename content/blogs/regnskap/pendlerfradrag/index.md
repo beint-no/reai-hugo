@@ -70,3 +70,7 @@ For Ã¥ kreve pendlerfradrag mÃ¥ fÃ¸lgende dokumentasjon foreligge:
 **Oppsummering:** Pendlerfradrag sikrer at pendlere fÃ¥r kompensert reise-, kost- og boutgifter ved pendling over visse avstander. Korrekt dokumentasjon, attestasjon og bokfÃ¸ring er avgjÃ¸rende for Ã¥ oppnÃ¥ fradraget.
 
 
+
+
+
+

@@ -66,3 +66,7 @@ I regnskap brukes effektiv rente-metoden ved mÃ¥ling av finansielle instrument
 
 
 
+
+
+
+

@@ -79,3 +79,7 @@ Tilgjengelige ressurser for NSÂ 4102:
 NSÂ 4102 er et **grunnleggende rammeverk** for kommunal regnskapsfÃ¸ring og sikrer felles struktur og etterlevelse. Ved riktig implementering og lÃ¸pende internkontroll bidrar NSÂ 4102 til mer effektiv, sammenlignbar og transparent regnskapsrapportering i kommunal sektor.
 
 
+
+
+
+

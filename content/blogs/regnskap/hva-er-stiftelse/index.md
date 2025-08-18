@@ -502,3 +502,7 @@ For de som etablerer eller driver stiftelser, er det avgjÃ¸rende Ã¥ invester
 Stiftelser er fundamentale byggeklosser i det sivile samfunn, og deres finansielle integritet og operasjonelle excellence er avgjÃ¸rende for Ã¥ opprettholde tilliten som er basis for deres eksistens og virkefelt.
 
 
+
+
+
+

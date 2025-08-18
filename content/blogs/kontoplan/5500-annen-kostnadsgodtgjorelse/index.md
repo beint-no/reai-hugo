@@ -1,5 +1,5 @@
 ﻿---
-title: "5500-annen-kostnadsgodtgjorelse"
+title: "Konto 5500 - Annen kostnadsgodtgjÃ¸relse"
 meta_title: "5500-annen-kostnadsgodtgjorelse"
 meta_description: '**Konto 5500 - Annen kostnadsgodtgjÃ¸relse** er en konto i Norsk Standard Kontoplan som benyttes for Ã¥ registrere **annen kostnadsgodtgjÃ¸relse** i arbeidsforh...'
 slug: 5500-annen-kostnadsgodtgjorelse
@@ -61,3 +61,4 @@ Andre kontoer for godtgjÃ¸relser og tilknyttede ytelser i NSÂ 4102:
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 
 **Annen kostnadsgodtgjÃ¸relse** bidrar til korrekt fÃ¸ring av diverse ytelser i arbeidsforhold som ikke passer inn under andre kontoer, og sikrer ryddig dokumentasjon og rapportering.
+

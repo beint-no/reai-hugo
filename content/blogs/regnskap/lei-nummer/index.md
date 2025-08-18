@@ -49,3 +49,7 @@ I norsk regnskap brukes LEI-nummer i rapportering til EU/EÃ˜S-registre og ved 
 LEI-nummer er en essensiell global identifikator for juridiske enheter og spiller en avgjÃ¸rende rolle i internasjonal finans og rapportering. Ã… forstÃ¥ struktur, registrering og bruk av LEI-nummer hjelper norske selskaper Ã¥ sikre samsvar og effektivisert informasjonsutveksling pÃ¥ tvers av landegrenser.
 
 
+
+
+
+

@@ -1,5 +1,5 @@
 ﻿---
-title: "6320-renovasjon-vann-avlop-mv"
+title: "Konto 6320 - Renovasjon, vann, avlÃ¸p mv."
 meta_title: "6320-renovasjon-vann-avlop-mv"
 meta_description: '**Konto 6320 - Renovasjon, vann, avlÃ¸p mv.** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kostnader til renovasjon, vann, avlÃ¸p og ti...'
 slug: 6320-renovasjon-vann-avlop-mv
@@ -61,3 +61,4 @@ En bedrift mottar faktura pÃ¥ **4Â 500Â NOK ekskl. avgift**, hvor avgiften
 * [Hva er driftskostnader?](/blogs/regnskap/hva-er-driftskostnader "Hva er driftskostnader?")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 * [Hva er en Faktura?](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav")
+

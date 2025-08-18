@@ -1,5 +1,5 @@
 ﻿---
-title: "1670-krav-pa-offentlige-tilskudd"
+title: "Konto 1670 - Krav pÃ¥ offentlige tilskudd"
 meta_title: "1670-krav-pa-offentlige-tilskudd"
 meta_description: '**Konto 1670 - Krav pÃ¥ offentlige tilskudd** er en konto i **Norsk Standard Kontoplan** som brukes til Ã¥ registrere **krav virksomheten har pÃ¥ offentlige til...'
 slug: 1670-krav-pa-offentlige-tilskudd
@@ -66,3 +66,4 @@ Kredit: Konto 1670 - Krav pÃ¥ offentlige tilskudd   50â€¯000
 * [Konto 5700 - LÃ¦rlingtilskudd](/blogs/kontoplan/5700-laerlingtilskudd "Konto 5700 - LÃ¦rlingtilskudd: RegnskapsfÃ¸ring av lÃ¦rlingtilskudd")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 * [Hva er MVA?](/blogs/regnskap/hva-er-moms-mva "Hva er MVA? MVA-regnskapsfÃ¸ring og merverdiavgift")
+

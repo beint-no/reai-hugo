@@ -1,5 +1,5 @@
 ﻿---
-title: "7860-tap-pa-kontrakter"
+title: "Hva er Konto 7860 - Tap pÃ¥ kontrakter?"
 meta_title: "7860-tap-pa-kontrakter"
 meta_description: '**Konto 7860 - Tap pÃ¥ kontrakter** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **tap pÃ¥ kontrakter** som en **driftskostnad** nÃ¥r kon...'
 slug: 7860-tap-pa-kontrakter
@@ -61,3 +61,4 @@ Typiske **kategorier av kontraktstap** inkluderer avbestillingsgebyrer, erstatni
 * [Konto 7830 - Tap pÃ¥ fordringer](/blogs/kontoplan/7830-tap-pa-fordringer "Konto 7830 - Tap pÃ¥ fordringer")
 * [Hva er Tap pÃ¥ fordring?](/blogs/regnskap/tap-pa-fordring "Tap pÃ¥ fordring - regnskapsmessig behandling av fordringer som ikke kan innkreves")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+

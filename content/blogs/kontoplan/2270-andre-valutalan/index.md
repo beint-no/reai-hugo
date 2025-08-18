@@ -1,5 +1,5 @@
 ﻿---
-title: "2270-andre-valutalan"
+title: "Konto 2270 - Andre valutalÃ¥n"
 meta_title: "2270-andre-valutalan"
 meta_description: '**Konto 2270 - Andre valutalÃ¥n** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til Ã¥ registrere **andre valutalÃ¥n**, det vil si lÃ¥n denominer...'
 slug: 2270-andre-valutalan
@@ -63,3 +63,4 @@ Andre kontoer i NSÂ 4102 som ofte benyttes sammen med konto 2270:
 * [Konto 8160 - Valutatap (Disagio)](/blogs/kontoplan/8160-valutatap-disagio "Konto 8160 - Valutatap (Disagio)")
 
 **Korrekt bokfÃ¸ring** av andre valutalÃ¥n sikrer nÃ¸yaktig regnskapsfÃ¸ring av valutarelaterte lÃ¥n og hjelper virksomheten med Ã¥ styre **valutarisiko** i balansen.
+

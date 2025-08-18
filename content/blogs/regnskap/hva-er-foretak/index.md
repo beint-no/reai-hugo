@@ -376,3 +376,7 @@ Det er viktig Ã¥ vurdere bÃ¥de **nÃ¥vÃ¦rende situasjon** og **fremtidige
 Uansett hvilken foretaksform som velges, er det viktig Ã¥ fÃ¸lge gjeldende lover og regler for [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide"), [bokfÃ¸ring](/blogs/regnskap/hva-er-bokforing "Hva er BokfÃ¸ring? Komplett Guide til BokfÃ¸ringsprinsipper") og rapportering for Ã¥ sikre en vellykket og lovlig drift av virksomheten.
 
 
+
+
+
+
