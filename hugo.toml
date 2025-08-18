@@ -1,11 +1,8 @@
-baseURL = 'http://localhost:1313/'
-languageCode = 'no'
+baseURL = 'https://reai.no/'
+languageCode = 'nb-NO'
 title = 'ReAI'
 
 disableKinds = ["taxonomy", "term"]
-
-[outputs]
-  home = ['HTML', 'RSS']
 
 [markup]
   [markup.goldmark]
@@ -14,4 +11,3 @@ disableKinds = ["taxonomy", "term"]
 
 [params]
   description = 'Komplett regnskapssystem med AI-drevet automatisering'
-  theme_color = '#1e40af'

@@ -1,11 +1,12 @@
-# Hugo default ignore patterns
-/public/**
+# Hugo build artifacts
+/public/
 /resources/_gen/
 /assets/node_modules/
-.hugo_build.lock
+/.hugo_modules/
+/.hugo_build.lock
 
-# Ensure public directory is ignored even if previously tracked
-public/
+# Hugo cache
+/.hugo_build.lock
 
 # OS generated files
 .DS_Store
@@ -23,10 +24,8 @@ Thumbs.db
 *.ntvs*
 *.njsproj
 *.sln
-*.sw?
-
-# Hugo related
-.hugo_build.lock
+*.swp
+*.swo
 
 # Local environment files
 .env
@@ -41,15 +40,3 @@ yarn-error.log*
 
 # Dependency directories
 node_modules/
-
-# Output of the go command when downloading modules
-/.hugo_modules/
-
-# IDE specific files
-.idea/
-.vscode/
-*.swp
-*.swo
-
-# Hugo cache
-/.hugo_build.lock
