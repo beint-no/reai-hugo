@@ -1,42 +1,42 @@
 ﻿---
-title: "NÃ¦ringskode"
-meta_title: "NÃ¦ringskode"
-meta_description: '**NÃ¦ringskode** er et firesifret tall som klassifiserer virksomhetens **bransjetilhÃ¸righet** i norsk regnskap og offentlig registrering. Koden benyttes av [En...'
+title: "Næringskode"
+meta_title: "Næringskode"
+meta_description: '**Næringskode** er et firesifret tall som klassifiserer virksomhetens **bransjetilhørighet** i norsk regnskap og offentlig registrering. Koden benyttes av [En...'
 slug: naeringskode
 type: blog
 layout: pages/single
 ---
 
-**NÃ¦ringskode** er et firesifret tall som klassifiserer virksomhetens **bransjetilhÃ¸righet** i norsk regnskap og offentlig registrering. Koden benyttes av [Enhetsregisteret](/blogs/regnskap/enhetsregisteret "Enhetsregisteret “ Oversikt over virksomheters grunninformasjon i Norge") og [BrÃ¸nnÃ¸ysundregistrene](/blogs/regnskap/bronnoysundregistrene "BrÃ¸nnÃ¸ysundregistrene - Oversikt over Norske Registere") for Ã¥ systematisere Ã¸konomisk statistikk, skatter og avgifter.
+**Næringskode** er et firesifret tall som klassifiserer virksomhetens **bransjetilhørighet** i norsk regnskap og offentlig registrering. Koden benyttes av [Enhetsregisteret](/blogs/regnskap/enhetsregisteret "Enhetsregisteret “ Oversikt over virksomheters grunninformasjon i Norge") og [Brønnøysundregistrene](/blogs/regnskap/bronnoysundregistrene "Brønnøysundregistrene - Oversikt over Norske Registere") for å systematisere økonomisk statistikk, skatter og avgifter.
 
-![NÃ¦ringskode Oversikt](naeringskode-oversikt.svg)
+![Næringskode Oversikt](naeringskode-oversikt.svg)
 
-## Hvorfor er nÃ¦ringskode viktig?
+## Hvorfor er næringskode viktig?
 
-NÃ¦ringskode sikrer at virksomheten kategoriseres korrekt i:
+Næringskode sikrer at virksomheten kategoriseres korrekt i:
 
-* **Skatteetaten** for beregning av nÃ¦ringsinntekt og skatter.
-* **Statistisk sentralbyrÃ¥ (SSB)** for nÃ¦ringsstatistikk og analyser.
+* **Skatteetaten** for beregning av næringsinntekt og skatter.
+* **Statistisk sentralbyrå (SSB)** for næringsstatistikk og analyser.
 * **Kommunal planlegging** og bransjerapporter.
-* **Bank og finans** for bransjespesifikke lÃ¥nebetingelser.
+* **Bank og finans** for bransjespesifikke lånebetingelser.
 
-## Hvordan er nÃ¦ringskode bygget opp?
+## Hvordan er næringskode bygget opp?
 
-Koden bestÃ¥r av fire sifre, der:
+Koden består av fire sifre, der:
 
-* De to fÃ¸rste sifrene representerer **hovedgruppe**.
+* De to første sifrene representerer **hovedgruppe**.
 * Det tredje sifret angir **undergruppe**.
 * Det fjerde sifret spesifiserer den eksakte **bransjen**.
 
-## Hvordan finne riktig nÃ¦ringskode?
+## Hvordan finne riktig næringskode?
 
-For Ã¥ finne korrekt koder, bruk:
+For å finne korrekt koder, bruk:
 
 * [Enhetsregisteret](/blogs/regnskap/enhetsregisteret "Enhetsregisteret “ Oversikt over virksomheters grunninformasjon i Norge").
-* BrÃ¸nnÃ¸ysundregistrenes kodekatalog for Standard for nÃ¦ringsgruppering (SN2007).
-* Kontakt regnskapsfÃ¸rer eller revisor for veiledning.
+* Brønnøysundregistrenes kodekatalog for Standard for næringsgruppering (SN2007).
+* Kontakt regnskapsfører eller revisor for veiledning.
 
-## Eksempler pÃ¥ nÃ¦ringskoder
+## Eksempler på næringskoder
 
 | **Kode** | **Beskrivelse**                                    |
 |----------|----------------------------------------------------|
@@ -46,21 +46,25 @@ For Ã¥ finne korrekt koder, bruk:
 | 86.10    | **Arbeidskrafttjenester**                          |
 | 49.50    | **Landtransport av gods**                          |
 
-## Ofte stilte spÃ¸rsmÃ¥l
+## Ofte stilte spørsmål
 
 ### Hva er forskjellen mellom hovedgruppe og bransje?
 
-Hovedgruppe (to sifre) gir en grovkategorisering, mens full nÃ¦ringskode (fire sifre) definerer eksakt bransjetilhÃ¸righet.
+Hovedgruppe (to sifre) gir en grovkategorisering, mens full næringskode (fire sifre) definerer eksakt bransjetilhørighet.
 
-### Kan jeg ha flere nÃ¦ringskoder?
+### Kan jeg ha flere næringskoder?
 
-En virksomhet kan ha Ã©n primÃ¦r nÃ¦ringskode og flere sekundÃ¦re koder for tilleggskategorier.
+En virksomhet kan ha én primær næringskode og flere sekundære koder for tilleggskategorier.
 
-### Endres nÃ¦ringskode over tid?
+### Endres næringskode over tid?
 
-Ja, du kan endre kode ved Ã¥ oppdatere opplysningene i [Enhetsregisteret](/blogs/regnskap/enhetsregisteret "Enhetsregisteret “ Oversikt over virksomheters grunninformasjon i Norge") hvis virksomhetens hovedaktivitet endrer seg.
+Ja, du kan endre kode ved å oppdatere opplysningene i [Enhetsregisteret](/blogs/regnskap/enhetsregisteret "Enhetsregisteret “ Oversikt over virksomheters grunninformasjon i Norge") hvis virksomhetens hovedaktivitet endrer seg.
 
-For mer om rapportering, se [Hva er nÃ¦ringsoppgave?](/blogs/regnskap/hva-er-naeringsoppgave "Hva er en nÃ¦ringsoppgave?").
+For mer om rapportering, se [Hva er næringsoppgave?](/blogs/regnskap/hva-er-naeringsoppgave "Hva er en næringsoppgave?").
+
+
+
+
 
 
 

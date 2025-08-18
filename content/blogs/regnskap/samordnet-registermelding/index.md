@@ -1,72 +1,72 @@
 ﻿---
 title: "Samordnet registermelding"
 meta_title: "Samordnet registermelding"
-meta_description: 'Samordnet registermelding er en **enhetlig digital rapport** som samler alle krav til lÃ¸nns- og arbeidsforholdrapportering for [arbeidsgivere](/blogs/regnskap/...'
+meta_description: 'Samordnet registermelding er en **enhetlig digital rapport** som samler alle krav til lønns- og arbeidsforholdrapportering for [arbeidsgivere](/blogs/regnskap/...'
 slug: samordnet-registermelding
 type: blog
 layout: pages/single
 ---
 
-Samordnet registermelding er en **enhetlig digital rapport** som samler alle krav til lÃ¸nns- og arbeidsforholdrapportering for [arbeidsgivere](/blogs/regnskap/arbeidsgiver "Arbeidsgiver “ Roller og Ansvar i Norsk Arbeidsliv og Regnskap") til Ã©n melding. Dette konseptet, ogsÃ¥ kjent som **A-melding** eller del av **[A-ordningen](/blogs/regnskap/hva-er-a-ordningen "Hva er A-ordningen?")**, forenkler rapporteringsprosessen og sikrer bedre datakvalitet mellom sentrale etater som Skatteetaten, NAV og SSB.
+Samordnet registermelding er en **enhetlig digital rapport** som samler alle krav til lønns- og arbeidsforholdrapportering for [arbeidsgivere](/blogs/regnskap/arbeidsgiver "Arbeidsgiver “ Roller og Ansvar i Norsk Arbeidsliv og Regnskap") til én melding. Dette konseptet, også kjent som **A-melding** eller del av **[A-ordningen](/blogs/regnskap/hva-er-a-ordningen "Hva er A-ordningen?")**, forenkler rapporteringsprosessen og sikrer bedre datakvalitet mellom sentrale etater som Skatteetaten, NAV og SSB.
 
 
 ![Samordnet registermelding](samordnet-registermelding-image.svg)
 
-*Se ogsÃ¥: [Skjemafobi](/blogs/regnskap/skjemafobi "Skjemafobi “ Hvordan overvinne frykt for skjemaer i regnskap").*
+*Se også: [Skjemafobi](/blogs/regnskap/skjemafobi "Skjemafobi “ Hvordan overvinne frykt for skjemaer i regnskap").*
 
 
 ## Hva er samordnet registermelding?
 
-En *samordnet registermelding* erstatter flere tidligere, separate rapporteringsskjemaer med Ã©n mÃ¥nedlig digital innsending. MÃ¥let er Ã¥ effektivisere rapportering, redusere administrative byrder og sikre konsistens i data som brukes av offentlige instanser.
+En *samordnet registermelding* erstatter flere tidligere, separate rapporteringsskjemaer med én månedlig digital innsending. Målet er å effektivisere rapportering, redusere administrative byrder og sikre konsistens i data som brukes av offentlige instanser.
 
 ## Historikk og bakgrunn
 
-FÃ¸r innfÃ¸ringen av samordnet registermelding mÃ¥tte bedrifter sende flere ulike rapporter med forskjellige frister:
+Før innføringen av samordnet registermelding måtte bedrifter sende flere ulike rapporter med forskjellige frister:
 
 | Tidligere rapport                  | Mottaker       | Frekvens                      |
 |-----------------------------------|----------------|-------------------------------|
-| LÃ¸nns- og trekkoppgave (LTO)      | Skatteetaten   | Ã…rlig                         |
-| Terminoppgave arbeidsgiveravgift  | Skatteetaten   | Annenhver mÃ¥ned               |
-| Terminoppgave forskuddstrekk      | Skatteetaten   | Annenhver mÃ¥ned               |
+| Lønns- og trekkoppgave (LTO)      | Skatteetaten   | Årlig                         |
+| Terminoppgave arbeidsgiveravgift  | Skatteetaten   | Annenhver måned               |
+| Terminoppgave forskuddstrekk      | Skatteetaten   | Annenhver måned               |
 | Melding til Aa-registeret         | NAV            | Ved endring i arbeidsforhold  |
-| LÃ¸nnsstatistikk                   | SSB            | Til utvalgte bedrifter        |
+| Lønnsstatistikk                   | SSB            | Til utvalgte bedrifter        |
 
-Ved Ã¥ samle disse i Ã©n samordnet registermelding reduseres antall skjemaer og rapporteringsrutiner betydelig.
+Ved å samle disse i én samordnet registermelding reduseres antall skjemaer og rapporteringsrutiner betydelig.
 
-## Hvem mÃ¥ levere?
+## Hvem må levere?
 
-Plikten til Ã¥ levere samordnet registermelding gjelder i utgangspunktet **alle som utbetaler lÃ¸nn eller ytelser** til ansatte eller andre mottakere. Dette inkluderer:
+Plikten til å levere samordnet registermelding gjelder i utgangspunktet **alle som utbetaler lønn eller ytelser** til ansatte eller andre mottakere. Dette inkluderer:
 
-* **Foretak og organisasjoner** uavhengig av stÃ¸rrelse.
+* **Foretak og organisasjoner** uavhengig av størrelse.
 * **Private arbeidsgivere**, for eksempel ved ansettelse av familietjenester.
-* **Frivillige og ideelle organisasjoner** med lÃ¸nnsutbetalinger.
+* **Frivillige og ideelle organisasjoner** med lønnsutbetalinger.
 
 ## Innhold og struktur
 
-En samordnet registermelding bestÃ¥r av:
+En samordnet registermelding består av:
 
 * **Virksomhetsinformasjon:** Organisasjonsnummer, virksomhetsnavn og betalingsinformasjon.
 * **Arbeidsforhold:** Start- og sluttdato, stillingsprosent og type *arbeidsforhold* (fast, midlertidig, mv.).
-* **Inntektsdetaljer:** Skattepliktig lÃ¸nn, variabel tillegg, naturalytelser og feriepenger.
+* **Inntektsdetaljer:** Skattepliktig lønn, variabel tillegg, naturalytelser og feriepenger.
 * **Skattetrekk og arbeidsgiveravgift:** Beregnet forskuddstrekk og grunnlag for arbeidsgiveravgift.
 
-For en dypere teknisk beskrivelse, se vÃ¥r komplette guide: [Hva er a-melding?](/blogs/regnskap/hva-er-a-melding "Hva er a-melding?").
+For en dypere teknisk beskrivelse, se vår komplette guide: [Hva er a-melding?](/blogs/regnskap/hva-er-a-melding "Hva er a-melding?").
 
 ## Fordeler med samordnet registermelding
 
-1. **Redusert administrasjon:** Ã‰n melding, Ã©n frist og Ã©n innsendingskanal (Altinn).
+1. **Redusert administrasjon:** Ã‰n melding, én frist og én innsendingskanal (Altinn).
 2. **Bedre datakvalitet:** Konsistente og oppdaterte opplysninger for alle etater.
-3. **Raskere saksbehandling:** NAV, Skatteetaten og SSB fÃ¥r data umiddelbart.
-4. **Ã˜kt etterlevelse:** Mindre risiko for avvik og sanksjoner ved forsinkelser eller feil.
+3. **Raskere saksbehandling:** NAV, Skatteetaten og SSB får data umiddelbart.
+4. **Økt etterlevelse:** Mindre risiko for avvik og sanksjoner ved forsinkelser eller feil.
 
 ## Hvordan levere?
 
-Leveranse av samordnet registermelding kan gjÃ¸res gjennom:
+Leveranse av samordnet registermelding kan gjøres gjennom:
 
-1. **Integrert lÃ¸nnssystem:** De fleste moderne [Ã¸konomisystemer](/blogs/regnskap/hva-er-regnskap "Hva er regnskap? En Enkel Forklaring") genererer automatisk rapporten og sender den til Altinn.
+1. **Integrert lønnssystem:** De fleste moderne [økonomisystemer](/blogs/regnskap/hva-er-regnskap "Hva er regnskap? En Enkel Forklaring") genererer automatisk rapporten og sender den til Altinn.
 2. **Altinn-portalen:** Manuell innsending for virksomheter med enklere behov.
 
-## Les ogsÃ¥
+## Les også
 
 * [Hva er a-melding?](/blogs/regnskap/hva-er-a-melding "Hva er a-melding?")  
 * [Hva er A-ordningen?](/blogs/regnskap/hva-er-a-ordningen "Hva er A-ordningen?")  
@@ -79,6 +79,10 @@ Leveranse av samordnet registermelding kan gjÃ¸res gjennom:
 * Opplysningsplikt  
 * Arbeidsgiveravgift  
 * Forskuddstrekk
+
+
+
+
 
 
 

@@ -1,43 +1,47 @@
 ﻿---
-title: "Nicolai Tangen â€“ Norges Bank Investment Management og Norsk Regnskap"
+title: "Nicolai Tangen – Norges Bank Investment Management og Norsk Regnskap"
 meta_title: "Nicolai Tangen “ Norges Bank Investment Management og Norsk Regnskap"
-meta_description: '**Nicolai Tangen** er administrerende direktÃ¸r i **Norges Bank Investment Management (NBIM)** og ansvarlig for forvaltningen av Statens pensjonsfond utland (of...'
+meta_description: '**Nicolai Tangen** er administrerende direktør i **Norges Bank Investment Management (NBIM)** og ansvarlig for forvaltningen av Statens pensjonsfond utland (of...'
 slug: nicolai-tangen
 type: blog
 layout: pages/single
 ---
 
-**Nicolai Tangen** er administrerende direktÃ¸r i **Norges Bank Investment Management (NBIM)** og ansvarlig for forvaltningen av Statens pensjonsfond utland (ofte kalt Oljefondet). Hans lederskap har betydelig pÃ¥virkning pÃ¥ bÃ¥de **investeringer**, **bÃ¦rekraftsrapportering** og norsk **regnskapspraksis**.
+**Nicolai Tangen** er administrerende direktør i **Norges Bank Investment Management (NBIM)** og ansvarlig for forvaltningen av Statens pensjonsfond utland (ofte kalt Oljefondet). Hans lederskap har betydelig påvirkning på både **investeringer**, **bærekraftsrapportering** og norsk **regnskapspraksis**.
 
 ![Biografi og Tidslinje for Nicolai Tangen](biography-timeline.svg)
 
 ## Biografisk Oversikt
 
-| Ã…r   | Hendelse                                                                 |
+| År   | Hendelse                                                                 |
 | ---- | ------------------------------------------------------------------------ |
-| 1966 | FÃ¸dt i Kristiansund                                                     |
+| 1966 | Født i Kristiansund                                                     |
 | 1990 | Uteksaminert med *Cand.polit.* fra University of Oxford                  |
-| 2005 | Grunnla **AKO Capital**, et investeringsselskap med fokus pÃ¥ verdisÃ¸kning |
-| 2020 | Utnevnt til administrerende direktÃ¸r for **NBIM**                        |
+| 2005 | Grunnla **AKO Capital**, et investeringsselskap med fokus på verdisøkning |
+| 2020 | Utnevnt til administrerende direktør for **NBIM**                        |
 
 ## Karriere og Bidrag
 
 Nicolai Tangens karriere er preget av:
 
-* Utvikling av langsiktige investeringsstrategier med fokus pÃ¥ **bÃ¦rekraftige** og **ansvarlige** plasseringer.
+* Utvikling av langsiktige investeringsstrategier med fokus på **bærekraftige** og **ansvarlige** plasseringer.
 * Implementering av robuste rammeverk for **internkontroll** og transparent rapportering hos NBIM.
 * Deltakelse i globale dialoger om **ESG** (Environmental, Social, Governance) og ansvarlig kapitalforvaltning.
 
-## Innflytelse pÃ¥ Norsk Regnskapspraksis
+## Innflytelse på Norsk Regnskapspraksis
 
-Tangens arbeid har direkte betydning for norsk regnskapsfÃ¸ring ved Ã¥ fremme:
+Tangens arbeid har direkte betydning for norsk regnskapsføring ved å fremme:
 
-* Ã˜kt fokus pÃ¥ **bÃ¦rekraftsrapportering** og krav fra [CSRD](/blogs/regnskap/hva-er-csrd "Hva er CSRD?") for bÃ¸rsnoterte selskaper.
+* Økt fokus på **bærekraftsrapportering** og krav fra [CSRD](/blogs/regnskap/hva-er-csrd "Hva er CSRD?") for børsnoterte selskaper.
 * Styrking av **internkontroll** og revisjonsstandarder innen investeringsforvaltning.
-* Ã˜kt interesse for [investering](/blogs/regnskap/hva-er-investere "Hva betyr det Ã¥ investere?") i langsiktige, verdibasert kapitalplassering.
+* Økt interesse for [investering](/blogs/regnskap/hva-er-investere "Hva betyr det å investere?") i langsiktige, verdibasert kapitalplassering.
 
-*Se ogsÃ¥: [Hva er en aksjonÃ¦r?](/blogs/regnskap/hva-er-en-aksjonaer "Hva er en AksjonÃ¦r?").*
-*Se ogsÃ¥: [Hva er Ã¥ investere?](/blogs/regnskap/hva-er-investere "Hva betyr det Ã¥ investere?").*
+*Se også: [Hva er en aksjonær?](/blogs/regnskap/hva-er-en-aksjonaer "Hva er en Aksjonær?").*
+*Se også: [Hva er å investere?](/blogs/regnskap/hva-er-investere "Hva betyr det å investere?").*
+
+
+
+
 
 
 

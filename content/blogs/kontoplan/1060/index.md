@@ -1,82 +1,82 @@
 ﻿---
 title: "Hva er Konto 1060 - Andre rettigheter?"
 meta_title: "1060"
-meta_description: '**Konto 1060 - Andre rettigheter** er en viktig konto i norsk kontoplan som anvendes for Ã¥ registrere [immaterielle eiendeler](/blogs/regnskap/hva-er-imateriel...'
+meta_description: '**Konto 1060 - Andre rettigheter** er en viktig konto i norsk kontoplan som anvendes for å registrere [immaterielle eiendeler](/blogs/regnskap/hva-er-imateriel...'
 slug: 1060
 type: blog
 layout: pages/single
 ---
 
-**Konto 1060 - Andre rettigheter** er en viktig konto i norsk kontoplan som anvendes for Ã¥ registrere [immaterielle eiendeler](/blogs/regnskap/hva-er-imaterielle-eiendeler "Hva er Imaterielle Eiendeler?") knyttet til ulike typer rettigheter som ikke dekkes av andre spesifikke kontoer. Denne kontoen brukes nÃ¥r virksomheter erverver eller utvikler rettigheter som kan [aktiveres](/blogs/regnskap/hva-er-aktivering "Hva er Aktivering i Regnskap?") i [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse?") og [amortiseres](/blogs/regnskap/hva-er-amortisering "Hva er Amortisering?") over rettighetenes levetid.
+**Konto 1060 - Andre rettigheter** er en viktig konto i norsk kontoplan som anvendes for å registrere [immaterielle eiendeler](/blogs/regnskap/hva-er-imaterielle-eiendeler "Hva er Imaterielle Eiendeler?") knyttet til ulike typer rettigheter som ikke dekkes av andre spesifikke kontoer. Denne kontoen brukes når virksomheter erverver eller utvikler rettigheter som kan [aktiveres](/blogs/regnskap/hva-er-aktivering "Hva er Aktivering i Regnskap?") i [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse?") og [amortiseres](/blogs/regnskap/hva-er-amortisering "Hva er Amortisering?") over rettighetenes levetid.
 
 ![Illustrasjon av konto 1060 andre rettigheter](1060-andre-rettigheter-image.svg)
 
 ## Hva er andre rettigheter?
 
-**Andre rettigheter** omfatter et bredt spekter av immaterielle eiendeler som gir virksomheten juridiske eller Ã¸konomiske fordeler. Disse rettighetene kan vÃ¦re av ulik karakter og varighet:
+**Andre rettigheter** omfatter et bredt spekter av immaterielle eiendeler som gir virksomheten juridiske eller økonomiske fordeler. Disse rettighetene kan være av ulik karakter og varighet:
 
 ### Hovedtyper av andre rettigheter
 
-* **Opphavsrettigheter** - litterÃ¦re, kunstneriske og vitenskapelige verk
-* **Designrettigheter** - beskyttelse av industrielt design og mÃ¸nstre
+* **Opphavsrettigheter** - litterære, kunstneriske og vitenskapelige verk
+* **Designrettigheter** - beskyttelse av industrielt design og mønstre
 * **Kundekontrakter** - langsiktige avtaler med kunder
-* **LeverandÃ¸ravtaler** - fordelaktige leverandÃ¸rforhold
+* **Leverandøravtaler** - fordelaktige leverandørforhold
 * **Teknologirettigheter** - know-how og teknisk kunnskap
 * **Bruksrettigheter** - rettigheter til bruk av andres eiendeler
 * **Distribusjonsrettigheter** - eksklusive salgs- og distribusjonsrettigheter
-* **Franchiserettigheter** - rettigheter til Ã¥ drive under etablerte konsepter
+* **Franchiserettigheter** - rettigheter til å drive under etablerte konsepter
 
 ![Oversikt over andre rettigheter](andre-rettigheter-kategorier.svg)
 
 ## Kriterier for aktivering av andre rettigheter
 
-For at andre rettigheter kan aktiveres pÃ¥ konto 1060, mÃ¥ de oppfylle standardkriteriene for [immaterielle eiendeler](/blogs/regnskap/hva-er-imaterielle-eiendeler "Hva er Imaterielle Eiendeler?"):
+For at andre rettigheter kan aktiveres på konto 1060, må de oppfylle standardkriteriene for [immaterielle eiendeler](/blogs/regnskap/hva-er-imaterielle-eiendeler "Hva er Imaterielle Eiendeler?"):
 
 ### 1. Identifiserbar ressurs
-Rettigheten mÃ¥ vÃ¦re **identifiserbar** gjennom:
+Rettigheten må være **identifiserbar** gjennom:
 
 * Separerbarhet fra virksomheten
-* Juridisk hÃ¥ndheving av rettigheten
+* Juridisk håndheving av rettigheten
 * Overdragbarhet til tredjeparter
 * Spesifikk kontraktsmessig beskyttelse
 
 ### 2. Kontrollerbar ressurs
-Virksomheten mÃ¥ ha **kontroll** over rettigheten gjennom:
+Virksomheten må ha **kontroll** over rettigheten gjennom:
 
 * Juridisk eiendomsrett eller bruksrett
 * Kontraktsmessige rettigheter
 * Faktisk kontroll over ressursen
-* Mulighet til Ã¥ begrense andres tilgang
+* Mulighet til å begrense andres tilgang
 
-### 3. Fremtidige Ã¸konomiske fordeler
-Rettigheten mÃ¥ kunne generere **Ã¸konomiske fordeler** gjennom:
+### 3. Fremtidige økonomiske fordeler
+Rettigheten må kunne generere **økonomiske fordeler** gjennom:
 
 * Direkte inntektsgenerering
 * Kostnadsbesparelser
 * Konkurransefordeler
 * Markedsposisjonering
 
-### 4. PÃ¥litelig kostnadsmÃ¥ling
-**Anskaffelseskostnaden** mÃ¥ kunne mÃ¥les pÃ¥litelig og inkludere:
+### 4. Pålitelig kostnadsmåling
+**Anskaffelseskostnaden** må kunne måles pålitelig og inkludere:
 
-* KjÃ¸pspris eller utviklingskostnader
+* Kjøpspris eller utviklingskostnader
 * Juridiske kostnader og gebyrer
 * Konsulenthonorar
 * Registrerings- og dokumentasjonskostnader
 
-## RegnskapsfÃ¸ring av andre rettigheter
+## Regnskapsføring av andre rettigheter
 
-### FÃ¸rstegangsinnregning
+### Førstegangsinnregning
 Ved **anskaffelse** av andre rettigheter registreres [anskaffelseskostnaden](/blogs/regnskap/hva-er-anskaffelseskost "Hva er Anskaffelseskost?"):
 
 | Kostnadskategori | Inkluderes | Eksempel |
 |------------------|------------|----------|
-| **KjÃ¸pspris** | âœ“ | Faktisk betalt belÃ¸p |
+| **Kjøpspris** | âœ“ | Faktisk betalt beløp |
 | **Juridiske kostnader** | âœ“ | Advokat- og notariuskostnader |
 | **Konsulenthonorar** | âœ“ | Profesjonelle tjenester |
 | **Registreringsgebyrer** | âœ“ | Offentlige avgifter |
 | **Transaksjonskostnader** | âœ“ | Meglerkostnader |
-| **Vedlikeholdskostnader** | âœ— | KostnadsfÃ¸res lÃ¸pende |
+| **Vedlikeholdskostnader** | âœ— | Kostnadsføres løpende |
 
 ### Internt utviklede rettigheter
 For **internt utviklede rettigheter** kan disse kostnadene aktiveres:
@@ -91,33 +91,33 @@ For **internt utviklede rettigheter** kan disse kostnadene aktiveres:
 ## Amortisering av andre rettigheter
 
 ### Amortiseringsperiode
-Andre rettigheter amortiseres over deres **Ã¸konomiske levetid**:
+Andre rettigheter amortiseres over deres **økonomiske levetid**:
 
 | Rettighetstype | Typisk amortiseringsperiode |
 |----------------|---------------------------|
-| **Opphavsrettigheter** | 5-20 Ã¥r |
-| **Designrettigheter** | 5-15 Ã¥r |
+| **Opphavsrettigheter** | 5-20 år |
+| **Designrettigheter** | 5-15 år |
 | **Kundekontrakter** | Kontraktslengde |
-| **LeverandÃ¸ravtaler** | Avtalens varighet |
-| **Teknologirettigheter** | 3-10 Ã¥r |
+| **Leverandøravtaler** | Avtalens varighet |
+| **Teknologirettigheter** | 3-10 år |
 | **Bruksrettigheter** | Bruksperiode |
-| **Distribusjonsrettigheter** | 5-15 Ã¥r |
+| **Distribusjonsrettigheter** | 5-15 år |
 | **Franchiserettigheter** | Franchiseperiode |
 
 ### Amortiseringsmetoder
-**LineÃ¦r amortisering** er den vanligste metoden:
+**Lineær amortisering** er den vanligste metoden:
 
 ```
-Ã…rlig amortisering = Aktivert kostnad / Amortiseringsperiode
+Årlig amortisering = Aktivert kostnad / Amortiseringsperiode
 ```
 
-**Eksempel pÃ¥ amortisering:**
+**Eksempel på amortisering:**
 - Aktivert kostnad for kundekontrakt: NOK 200,000
-- Kontraktslengde: 5 Ã¥r
-- Ã…rlig amortisering: NOK 40,000
+- Kontraktslengde: 5 år
+- Årlig amortisering: NOK 40,000
 
 ### Verdifall og nedskrivning
-Andre rettigheter mÃ¥ vurderes for **verdifall** regelmessig:
+Andre rettigheter må vurderes for **verdifall** regelmessig:
 
 * Endringer i markedsforhold
 * Teknologisk utvikling
@@ -127,35 +127,35 @@ Andre rettigheter mÃ¥ vurderes for **verdifall** regelmessig:
 ## Praktiske eksempler
 
 ### Eksempel 1: Opphavsrettigheter
-Et forlag kjÃ¸per opphavsrettigheter til en bokutgivelse for NOK 150,000:
+Et forlag kjøper opphavsrettigheter til en bokutgivelse for NOK 150,000:
 
-**RegnskapsfÃ¸ring ved kjÃ¸p:**
+**Regnskapsføring ved kjøp:**
 - Debit: Konto 1060 Andre rettigheter NOK 150,000
-- Kredit: Konto 1900 LeverandÃ¸rgjeld NOK 150,000
+- Kredit: Konto 1900 Leverandørgjeld NOK 150,000
 
-**Ã…rlig amortisering (10 Ã¥r):**
+**Årlig amortisering (10 år):**
 - Debit: Konto 6031 Amortisering NOK 15,000
 - Kredit: Konto 1060 Andre rettigheter NOK 15,000
 
 ### Eksempel 2: Kundekontrakt
-En IT-bedrift erverver en kunde med 3-Ã¥rig kontrakt verdt NOK 300,000:
+En IT-bedrift erverver en kunde med 3-årig kontrakt verdt NOK 300,000:
 
-**RegnskapsfÃ¸ring:**
+**Regnskapsføring:**
 - Debit: Konto 1060 Andre rettigheter NOK 300,000
-- Kredit: Konto 1900 LeverandÃ¸rgjeld NOK 300,000
+- Kredit: Konto 1900 Leverandørgjeld NOK 300,000
 
-**Ã…rlig amortisering (3 Ã¥r):**
+**Årlig amortisering (3 år):**
 - Debit: Konto 6031 Amortisering NOK 100,000
 - Kredit: Konto 1060 Andre rettigheter NOK 100,000
 
 ### Eksempel 3: Franchiserettigheter
-En restaurantkjede kjÃ¸per franchiserettigheter for NOK 400,000 med 8 Ã¥rs varighet:
+En restaurantkjede kjøper franchiserettigheter for NOK 400,000 med 8 års varighet:
 
-**RegnskapsfÃ¸ring:**
+**Regnskapsføring:**
 - Debit: Konto 1060 Andre rettigheter NOK 400,000
-- Kredit: Konto 1900 LeverandÃ¸rgjeld NOK 400,000
+- Kredit: Konto 1900 Leverandørgjeld NOK 400,000
 
-**Ã…rlig amortisering (8 Ã¥r):**
+**Årlig amortisering (8 år):**
 - Debit: Konto 6031 Amortisering NOK 50,000
 - Kredit: Konto 1060 Andre rettigheter NOK 50,000
 
@@ -170,7 +170,7 @@ En restaurantkjede kjÃ¸per franchiserettigheter for NOK 400,000 med 8 Ã¥rs v
 * **[Konto 1080](/blogs/kontoplan/1080-goodwill "Konto 1080 - Goodwill")** - Goodwill
 
 ### Kostnadskontoer:
-* **[Konto 6020](/blogs/kontoplan/6020-avskrivning-pa-immatrielle-eiendeler "Konto 6020 - Avskrivning pÃ¥ immaterielle eiendeler")** - Avskrivning pÃ¥ immaterielle eiendeler
+* **[Konto 6020](/blogs/kontoplan/6020-avskrivning-pa-immatrielle-eiendeler "Konto 6020 - Avskrivning på immaterielle eiendeler")** - Avskrivning på immaterielle eiendeler
 * **Konto 6032** - Nedskrivning av immaterielle eiendeler
 
 ![Sammenheng mellom andre rettigheter og tilknyttede kontoer](andre-rettigheter-sammenheng.svg)
@@ -181,25 +181,25 @@ En restaurantkjede kjÃ¸per franchiserettigheter for NOK 400,000 med 8 Ã¥rs v
 **Opphavsrett** beskytter originale verk og gir rettigheter til:
 
 * **Eksemplarfremstilling** - reproduksjon av verket
-* **TilgjengeliggjÃ¸ring** - offentlig fremfÃ¸ring
+* **Tilgjengeliggjøring** - offentlig fremføring
 * **Bearbeiding** - endring og tilpasning
 * **Distribusjon** - salg og utleie
 
 ### Designrettigheter
 **Designrettigheter** beskytter industrielt design:
 
-* **Registrert design** - 5 Ã¥rs beskyttelse (fornybar)
-* **Uregistrert design** - 3 Ã¥rs beskyttelse
+* **Registrert design** - 5 års beskyttelse (fornybar)
+* **Uregistrert design** - 3 års beskyttelse
 * **Fellesskapsdesign** - EU-omfattende beskyttelse
 * **Internasjonalt design** - global beskyttelse
 
 ### Kontraktsrettigheter
 **Kontraktsrettigheter** sikres gjennom:
 
-* **Skriftlige avtaler** med klare vilkÃ¥r
+* **Skriftlige avtaler** med klare vilkår
 * **Eksklusivitetsklausuler** for konkurransefordel
 * **Varighet og fornyelse** av avtaler
-* **OverfÃ¸ringsrettigheter** til tredjeparter
+* **Overføringsrettigheter** til tredjeparter
 
 ## Skattemessige forhold
 
@@ -223,7 +223,7 @@ Andre rettigheter behandles **skattemessig** som:
 ### Gevinst og tap
 Ved **salg eller avhending** av andre rettigheter:
 
-* **Gevinst** inntektsfÃ¸res som alminnelig inntekt
+* **Gevinst** inntektsføres som alminnelig inntekt
 * **Tap** er **fradragsberettiget** i alminnelig inntekt
 * **Gjenvinning** ved salg over skattemessig verdi
 
@@ -238,9 +238,9 @@ I **mediebransjen** er andre rettigheter kritiske for:
 * **Publiseringsrettigheter** og distribusjon
 
 ### IT-bransjen
-**IT-selskaper** fokuserer pÃ¥:
+**IT-selskaper** fokuserer på:
 
-* **Kildekoderettigheter** og proprietÃ¦r programvare
+* **Kildekoderettigheter** og proprietær programvare
 * **Algoritmer** og datastrukturer
 * **Brukergrensesnitt** og designrettigheter
 * **Teknisk dokumentasjon** og manualer
@@ -264,11 +264,11 @@ For **internasjonale rettigheter** gjelder:
 * **Nasjonale varianter** i lovgivning
 
 ### Valutahensyn
-Ved **utenlandske rettigheter** mÃ¥ man vurdere:
+Ved **utenlandske rettigheter** må man vurdere:
 
 * **Valutaomregning** ved anskaffelse
 * **Kurssikring** for langsiktige kontrakter
-* **Valutaeffekter** pÃ¥ amortisering
+* **Valutaeffekter** på amortisering
 * **Regnskapsmessig behandling** av kursgevinster/-tap
 
 ## Kontroll og revisjon
@@ -277,20 +277,20 @@ Ved **utenlandske rettigheter** mÃ¥ man vurdere:
 **Rettighetsforvaltning** krever:
 
 * **Registrering** av alle rettigheter
-* **Oppfolging** av utlÃ¸psdatoer
+* **Oppfolging** av utløpsdatoer
 * **Verdivurdering** ved regnskapsavslutning
 * **Dokumentasjon** av aktiverte kostnader
 
 ### Revisorens kontroll
-**Revisor** mÃ¥ kontrollere:
+**Revisor** må kontrollere:
 
-* **AktiveringsvilkÃ¥r** for andre rettigheter
+* **Aktiveringsvilkår** for andre rettigheter
 * **Amortiseringsperioder** og -metoder
 * **Nedskrivningsbehov** og verdivurderinger
 * **Juridisk validitet** av rettigheter
 
 ### Dokumentasjonskrav
-**Dokumentasjon** mÃ¥ omfatte:
+**Dokumentasjon** må omfatte:
 
 * **Kontraktsdokumenter** og avtaler
 * **Registreringsbevis** og sertifikater
@@ -300,12 +300,12 @@ Ved **utenlandske rettigheter** mÃ¥ man vurdere:
 ## Utfordringer og fallgruver
 
 ### Verdsettelsesutfordringer
-**Verdsettelse** av andre rettigheter kan vÃ¦re vanskelig:
+**Verdsettelse** av andre rettigheter kan være vanskelig:
 
 * **Manglende sammenlignbare transaksjoner**
-* **Usikkerhet** rundt fremtidige kontantstrÃ¸mmer
+* **Usikkerhet** rundt fremtidige kontantstrømmer
 * **Teknologisk utvikling** som reduserer verdi
-* **Markedsendringer** som pÃ¥virker verdien
+* **Markedsendringer** som påvirker verdien
 
 ### Juridiske risiker
 **Juridiske risikofaktorer** inkluderer:
@@ -318,48 +318,53 @@ Ved **utenlandske rettigheter** mÃ¥ man vurdere:
 ### Regnskapsutfordringer
 **Regnskapsmessige utfordringer**:
 
-* **AktiveringsvilkÃ¥r** kan vÃ¦re vanskelige Ã¥ vurdere
-* **Amortiseringsperioder** er ofte skjÃ¸nnsmessige
+* **Aktiveringsvilkår** kan være vanskelige å vurdere
+* **Amortiseringsperioder** er ofte skjønnsmessige
 * **Nedskrivningsvurderinger** krever ekspertise
 * **Klassifisering** mellom ulike rettighetstyper
 
 ## Fremtidige utviklingstrender
 
 ### Digitalisering
-**Digitaliseringen** pÃ¥virker andre rettigheter:
+**Digitaliseringen** påvirker andre rettigheter:
 
 * **Digitale rettigheter** og online-innhold
 * **Blockchain-baserte** rettigheter
 * **NFT-er** og digitale samleobjekter
 * **Metaverse-rettigheter** og virtuelle verdener
 
-### BÃ¦rekraft
-**BÃ¦rekraftsfokus** skaper nye rettighetstyper:
+### Bærekraft
+**Bærekraftsfokus** skaper nye rettighetstyper:
 
 * **Karbonkreditter** og utslippsrettigheter
-* **MiljÃ¸sertifiseringer** og kvalitetsmerkinger
+* **Miljøsertifiseringer** og kvalitetsmerkinger
 * **Sosialt ansvar** og etiske sertifiseringer
-* **SirkulÃ¦r Ã¸konomi** og resirkuleringsrettigheter
+* **Sirkulær økonomi** og resirkuleringsrettigheter
 
 ### Regulatoriske endringer
-**Regulatoriske utviklinger** pÃ¥virker:
+**Regulatoriske utviklinger** påvirker:
 
 * **Databeskyttelse** og personvernrettigheter
 * **Kunstig intelligens** og algoritmerettigheter
-* **Ã…pen kildekode** og delingsrettigheter
+* **Åpen kildekode** og delingsrettigheter
 * **Internasjonal harmonisering** av regler
 
 ## Konklusjon
 
-Konto 1060 Andre rettigheter er en fleksibel konto som dekker et bredt spekter av [immaterielle eiendeler](/blogs/regnskap/hva-er-imaterielle-eiendeler "Hva er Imaterielle Eiendeler?") som ikke passer inn i andre spesifikke kontoer. **Korrekt regnskapsfÃ¸ring** av andre rettigheter krever grundig forstÃ¥else av bÃ¥de regnskapsmessige prinsipper og juridiske aspekter.
+Konto 1060 Andre rettigheter er en fleksibel konto som dekker et bredt spekter av [immaterielle eiendeler](/blogs/regnskap/hva-er-imaterielle-eiendeler "Hva er Imaterielle Eiendeler?") som ikke passer inn i andre spesifikke kontoer. **Korrekt regnskapsføring** av andre rettigheter krever grundig forståelse av både regnskapsmessige prinsipper og juridiske aspekter.
 
-**NÃ¸kkelpunkter** for regnskapsfÃ¸ring av andre rettigheter:
+**Nøkkelpunkter** for regnskapsføring av andre rettigheter:
 
-* **Vurder aktiveringsvilkÃ¥r** nÃ¸ye for hver rettighet
+* **Vurder aktiveringsvilkår** nøye for hver rettighet
 * **Dokumenter** alle kostnader og juridiske forhold
-* **Amortiser** over rimelig Ã¸konomisk levetid
-* **FÃ¸lg opp** nedskrivningsbehov regelmessig
+* **Amortiser** over rimelig økonomisk levetid
+* **Følg opp** nedskrivningsbehov regelmessig
 * **Oppretthold** god kontroll og dokumentasjon
 
-Andre rettigheter representerer ofte betydelige verdier for virksomheter og krever profesjonell forvaltning for Ã¥ sikre bÃ¥de regnskapsmessig korrekthet og optimal forretningsnytte. Med Ã¸kende fokus pÃ¥ digitalisering og immaterielle verdier blir denne kontoen stadig mer relevant for moderne virksomheter.
+Andre rettigheter representerer ofte betydelige verdier for virksomheter og krever profesjonell forvaltning for å sikre både regnskapsmessig korrekthet og optimal forretningsnytte. Med økende fokus på digitalisering og immaterielle verdier blir denne kontoen stadig mer relevant for moderne virksomheter.
+
+
+
+
+
 

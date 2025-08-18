@@ -1,53 +1,58 @@
 ﻿---
-title: "Konto 2711 - InngÃ¥ende merverdiavgift hÃ¸y sats"
+title: "Konto 2711 - Inngående merverdiavgift høy sats"
 meta_title: "2711-inngaaende-merverdiavgift-hoy-sats"
-meta_description: '**Konto 2711 - InngÃ¥ende merverdiavgift hÃ¸y sats** er en konto i **Norsk Standard Kontoplan** som brukes ved periodisk **oppgjÃ¸r av inngÃ¥ende merverdiavgift...'
+meta_description: '**Konto 2711 - Inngående merverdiavgift høy sats** er en konto i **Norsk Standard Kontoplan** som brukes ved periodisk **oppgjør av inngående merverdiavgift...'
 slug: 2711-inngaaende-merverdiavgift-hoy-sats
 type: blog
 layout: pages/single
 ---
 
-**Konto 2711 - InngÃ¥ende merverdiavgift hÃ¸y sats** er en konto i **Norsk Standard Kontoplan** som brukes ved periodisk **oppgjÃ¸r av inngÃ¥ende merverdiavgift med hÃ¸y sats** (25 %) for Ã¥ avstemme og registrere fradrag fÃ¸r betaling eller til gode i MVA-regnskapet.
+**Konto 2711 - Inngående merverdiavgift høy sats** er en konto i **Norsk Standard Kontoplan** som brukes ved periodisk **oppgjør av inngående merverdiavgift med høy sats** (25 %) for å avstemme og registrere fradrag før betaling eller til gode i MVA-regnskapet.
 
-![Illustrasjon av konto 2711 InngÃ¥ende merverdiavgift hÃ¸y sats](2711-inngaaende-merverdiavgift-hoy-sats-image.svg)
+![Illustrasjon av konto 2711 Inngående merverdiavgift høy sats](2711-inngaaende-merverdiavgift-hoy-sats-image.svg)
 
 ## Hva er konto 2711?
 
-*Konto 2711 - InngÃ¥ende merverdiavgift hÃ¸y sats* benyttes for Ã¥ overfÃ¸re belÃ¸p fra [Konto 1611 - InngÃ¥ende merverdiavgift hÃ¸y sats](/blogs/kontoplan/1611-inngaaende-merverdiavgift-hoy-sats "Konto 1611 - InngÃ¥ende merverdiavgift hÃ¸y sats") til oppgjÃ¸rskontoen for inngÃ¥ende merverdiavgift fÃ¸r betaling eller til gode som en del av MVA-avstemming.
+*Konto 2711 - Inngående merverdiavgift høy sats* benyttes for å overføre beløp fra [Konto 1611 - Inngående merverdiavgift høy sats](/blogs/kontoplan/1611-inngaaende-merverdiavgift-hoy-sats "Konto 1611 - Inngående merverdiavgift høy sats") til oppgjørskontoen for inngående merverdiavgift før betaling eller til gode som en del av MVA-avstemming.
 
-## NÃ¥r skal konto 2711 benyttes?
+## Når skal konto 2711 benyttes?
 
-* Ved periodisk oppgjÃ¸r av **25 % MVA** inngÃ¥ende for varer og tjenester med hÃ¸y sats.
+* Ved periodisk oppgjør av **25 % MVA** inngående for varer og tjenester med høy sats.
 * I forbindelse med avstemming mot [Konto 2740 - Merverdiavgift til betaling/til gode](/blogs/kontoplan/2740-merverdiavgift-til-betaling-til-gode "Konto 2740 - Merverdiavgift til betaling/til gode").
-* NÃ¥r netto hÃ¸y sats MVA skal betales eller fÃ¸res til gode i regnskapet.
+* Når netto høy sats MVA skal betales eller føres til gode i regnskapet.
 
-## RegnskapsfÃ¸ring av oppgjÃ¸r hÃ¸y sats inngÃ¥ende MVA
+## Regnskapsføring av oppgjør høy sats inngående MVA
 
 | Transaksjon                                         | Debet                                           | Kredit                                          |
 |-----------------------------------------------------|-------------------------------------------------|-------------------------------------------------|
-| OverfÃ¸ring av inngÃ¥ende hÃ¸y sats MVA fra konto 1611  | Konto 1611 - InngÃ¥ende merverdiavgift hÃ¸y sats   | Konto 2711 - InngÃ¥ende merverdiavgift hÃ¸y sats   |
-| Betaling eller til gode av hÃ¸y sats MVA til staten  | Konto 2711 - InngÃ¥ende merverdiavgift hÃ¸y sats   | Konto 1920 - Bankinnskudd                        |
+| Overføring av inngående høy sats MVA fra konto 1611  | Konto 1611 - Inngående merverdiavgift høy sats   | Konto 2711 - Inngående merverdiavgift høy sats   |
+| Betaling eller til gode av høy sats MVA til staten  | Konto 2711 - Inngående merverdiavgift høy sats   | Konto 1920 - Bankinnskudd                        |
 
-## Eksempel pÃ¥ beregning
+## Eksempel på beregning
 
-| KjÃ¸psbelÃ¸p uten MVA | MVA (25 %) | Totalt inkl. MVA |
+| Kjøpsbeløp uten MVA | MVA (25 %) | Totalt inkl. MVA |
 |---------------------|------------|------------------|
-| 8â€¯000 NOK           | 2â€¯000 NOK  | 10â€¯000 NOK       |
-| 20â€¯000 NOK          | 5â€¯000 NOK  | 25â€¯000 NOK       |
+| 8–¯000 NOK           | 2–¯000 NOK  | 10–¯000 NOK       |
+| 20–¯000 NOK          | 5–¯000 NOK  | 25–¯000 NOK       |
 
-## Fordeler med egen oppgjÃ¸rskonto for hÃ¸y sats inngÃ¥ende MVA
+## Fordeler med egen oppgjørskonto for høy sats inngående MVA
 
-* **Presis avstemming** av hÃ¸y sats MVA mot betalings- eller til gode-konto.
-* **Klarere regnskapsbilde** ved Ã¥ separere oppgjÃ¸rsstrÃ¸mmer.
+* **Presis avstemming** av høy sats MVA mot betalings- eller til gode-konto.
+* **Klarere regnskapsbilde** ved å separere oppgjørsstrømmer.
 * Bidrar til forenklet **rapportering** og bedre likviditetsstyring.
 
 ## Relaterte artikler
 
-* [Konto 1611 - InngÃ¥ende merverdiavgift hÃ¸y sats](/blogs/kontoplan/1611-inngaaende-merverdiavgift-hoy-sats "Konto 1611 - InngÃ¥ende merverdiavgift hÃ¸y sats")
-* [Konto 2710 - InngÃ¥ende merverdiavgift](/blogs/kontoplan/2710-inngaaende-merverdiavgift "Konto 2710 - InngÃ¥ende merverdiavgift")
-* [Konto 2712 - InngÃ¥ende merverdiavgift kjÃ¸p tjenester fra utlandet](/blogs/kontoplan/2712-inngaaende-merverdiavgift-kjop-tjen-fra-utlandet "Konto 2712 - InngÃ¥ende merverdiavgift kjÃ¸p tjenester fra utlandet")
-* [Konto 2713 - InngÃ¥ende merverdiavgift middels sats](/blogs/kontoplan/2713-inngaaende-merverdiavgift-middels-sats "Konto 2713 - InngÃ¥ende merverdiavgift middels sats")
-* [Konto 2714 - InngÃ¥ende merverdiavgift lav sats](/blogs/kontoplan/2714-inngaaende-merverdiavgift-lav-sats "Konto 2714 - InngÃ¥ende merverdiavgift lav sats")
+* [Konto 1611 - Inngående merverdiavgift høy sats](/blogs/kontoplan/1611-inngaaende-merverdiavgift-hoy-sats "Konto 1611 - Inngående merverdiavgift høy sats")
+* [Konto 2710 - Inngående merverdiavgift](/blogs/kontoplan/2710-inngaaende-merverdiavgift "Konto 2710 - Inngående merverdiavgift")
+* [Konto 2712 - Inngående merverdiavgift kjøp tjenester fra utlandet](/blogs/kontoplan/2712-inngaaende-merverdiavgift-kjop-tjen-fra-utlandet "Konto 2712 - Inngående merverdiavgift kjøp tjenester fra utlandet")
+* [Konto 2713 - Inngående merverdiavgift middels sats](/blogs/kontoplan/2713-inngaaende-merverdiavgift-middels-sats "Konto 2713 - Inngående merverdiavgift middels sats")
+* [Konto 2714 - Inngående merverdiavgift lav sats](/blogs/kontoplan/2714-inngaaende-merverdiavgift-lav-sats "Konto 2714 - Inngående merverdiavgift lav sats")
 * [Konto 2740 - Merverdiavgift til betaling/til gode](/blogs/kontoplan/2740-merverdiavgift-til-betaling-til-gode "Konto 2740 - Merverdiavgift til betaling/til gode")
-* [Hva er MVA?](/blogs/regnskap/hva-er-moms-mva "Hva er MVA? MVA-regnskapsfÃ¸ring og merverdiavgift")
+* [Hva er MVA?](/blogs/regnskap/hva-er-moms-mva "Hva er MVA? MVA-regnskapsføring og merverdiavgift")
+
+
+
+
+
 

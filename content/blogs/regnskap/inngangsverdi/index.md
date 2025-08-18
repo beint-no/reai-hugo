@@ -11,29 +11,29 @@ En **inngangsverdi** er den samlede **kostprisen** for en eiendel ved anskaffels
 
 ![Inngangsverdi](inngangsverdi-image.svg)
 
-## Hva inngangsverdi bestÃ¥r av
+## Hva inngangsverdi består av
 
 | Komponent               | Beskrivelse                                          |
 | ----------------------- | ---------------------------------------------------- |
-| KjÃ¸pesum                | Faktisk pris betalt for eiendelen                    |
+| Kjøpesum                | Faktisk pris betalt for eiendelen                    |
 | Anskaffelseskostnader   | Transaksjonskostnader som transport, meglerhonorar   |
-| Avgifter og gebyrer     | Dokumentavgift, toll og andre pÃ¥lagte avgifter       |
+| Avgifter og gebyrer     | Dokumentavgift, toll og andre pålagte avgifter       |
 
-For en detaljert gjennomgang av anskaffelseskost, se [Hva er anskaffelseskost?](/blogs/regnskap/hva-er-anskaffelseskost "Hva er Anskaffelseskost? Beregning, Komponenter og RegnskapsfÃ¸ring").
+For en detaljert gjennomgang av anskaffelseskost, se [Hva er anskaffelseskost?](/blogs/regnskap/hva-er-anskaffelseskost "Hva er Anskaffelseskost? Beregning, Komponenter og Regnskapsføring").
 
 ## Beregning av inngangsverdi
 
 Formelen for *inngangsverdi* kan uttrykkes som:
 
 ```text
-Inngangsverdi = KjÃ¸pesum + Anskaffelseskostnader + Avgifter og gebyrer
+Inngangsverdi = Kjøpesum + Anskaffelseskostnader + Avgifter og gebyrer
 ```
 
 ## Eksempel: beregning av inngangsverdi
 
-| Post                          | BelÃ¸p (NOK) |
+| Post                          | Beløp (NOK) |
 | ----------------------------  | ----------- |
-| KjÃ¸pesum                      | 100Â 000     |
+| Kjøpesum                      | 100Â 000     |
 | Transport- og forsikringskost |   2Â 000     |
 | Dokumentavgift                |   1Â 500     |
 | **Sum inngangsverdi**         | **103Â 500** |
@@ -42,14 +42,18 @@ Inngangsverdi = KjÃ¸pesum + Anskaffelseskostnader + Avgifter og gebyrer
 
 Inngangsverdi er kritisk ved beregning av **kapitalgevinst** og **kapitaltap**. For mer informasjon, se [Hva er kapitalgevinst?](/blogs/regnskap/hva-er-kapitalgevinst "Hva er kapitalgevinst? Definisjon, Beregning og Skattebehandling").
 
-## Vanlige spÃ¸rsmÃ¥l om inngangsverdi
+## Vanlige spørsmål om inngangsverdi
 
 * **Hva er forskjellen mellom inngangsverdi og virkelig verdi?**  
-  Inngangsverdi er historisk kost, mens virkelig verdi er markedsverdi pÃ¥ et gitt tidspunkt.
+  Inngangsverdi er historisk kost, mens virkelig verdi er markedsverdi på et gitt tidspunkt.
 * **Kan inngangsverdi justeres etter anskaffelse?**  
   Som hovedregel justeres ikke inngangsverdi, unntatt ved oppgradering eller forbedring som kvalifiserer for komponentavskrivning.
 
-Denne gjennomgangen av inngangsverdi gir et entydig bilde av hvordan kostprisen fastsettes og brukes i bÃ¥de regnskaps- og skattesammenheng.
+Denne gjennomgangen av inngangsverdi gir et entydig bilde av hvordan kostprisen fastsettes og brukes i både regnskaps- og skattesammenheng.
+
+
+
+
 
 
 

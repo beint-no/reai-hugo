@@ -1,68 +1,68 @@
 ﻿---
-title: "Konto 8600 - Betalbar skatt, ekstraordinÃ¦rt resultat"
+title: "Konto 8600 - Betalbar skatt, ekstraordinært resultat"
 meta_title: "8600-betalbar-skatt-ekstraordinart-resultat"
-meta_description: '**Konto 8600 - Betalbar skatt, ekstraordinÃ¦rt resultat** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **betalbar skatt** knyttet til **e...'
+meta_description: '**Konto 8600 - Betalbar skatt, ekstraordinært resultat** er en konto i Norsk Standard Kontoplan som brukes til å registrere **betalbar skatt** knyttet til **e...'
 slug: 8600-betalbar-skatt-ekstraordinart-resultat
 type: blog
 layout: pages/single
 ---
 
-**Konto 8600 - Betalbar skatt, ekstraordinÃ¦rt resultat** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **betalbar skatt** knyttet til **ekstraordinÃ¦rt resultat** etter vedtak i generalforsamling eller styre.
+**Konto 8600 - Betalbar skatt, ekstraordinært resultat** er en konto i Norsk Standard Kontoplan som brukes til å registrere **betalbar skatt** knyttet til **ekstraordinært resultat** etter vedtak i generalforsamling eller styre.
 
-![Illustrasjon av konto 8600 Betalbar skatt, ekstraordinÃ¦rt resultat](8600-betalbar-skatt-ekstraordinart-resultat-image.svg)
+![Illustrasjon av konto 8600 Betalbar skatt, ekstraordinært resultat](8600-betalbar-skatt-ekstraordinart-resultat-image.svg)
 
-## Hva er betalbar skatt pÃ¥ ekstraordinÃ¦rt resultat?
+## Hva er betalbar skatt på ekstraordinært resultat?
 
-> *Betalbar skatt pÃ¥ ekstraordinÃ¦rt resultat* refererer til skatteforpliktelsen som oppstÃ¥r nÃ¥r et selskap har et ekstraordinÃ¦rt resultat, og det skal beregnes og betales skatt av denne posten.
+> *Betalbar skatt på ekstraordinært resultat* refererer til skatteforpliktelsen som oppstår når et selskap har et ekstraordinært resultat, og det skal beregnes og betales skatt av denne posten.
 
-## NÃ¸kkelfunksjoner
+## Nøkkelfunksjoner
 
 | Egenskap      | Beskrivelse                                                   |
 |---------------|---------------------------------------------------------------|
 | Kontonummer   | 8600                                                          |
-| Konto         | Betalbar skatt, ekstraordinÃ¦rt resultat                       |
+| Konto         | Betalbar skatt, ekstraordinært resultat                       |
 | Kontotype     | Kortsiktig gjeld                                              |
-| FormÃ¥l        | Registrere betalbar skatt knyttet til ekstraordinÃ¦rt resultat |
+| Formål        | Registrere betalbar skatt knyttet til ekstraordinært resultat |
 
-## NÃ¥r bruker man konto 8600?
+## Når bruker man konto 8600?
 
-* Ved fastsettelse av ekstraordinÃ¦rt resultat som utlÃ¸ser skatt
-* NÃ¥r generalforsamlingen eller styret har vedtatt utdeling eller overfÃ¸ring som gir ekstraordinÃ¦rt resultat
-* For Ã¥ sikre korrekt avstemming og presentasjon av skatt i balansen
+* Ved fastsettelse av ekstraordinært resultat som utløser skatt
+* Når generalforsamlingen eller styret har vedtatt utdeling eller overføring som gir ekstraordinært resultat
+* For å sikre korrekt avstemming og presentasjon av skatt i balansen
 
 ## Forskjell mellom 8600 og relaterte kontoer
 
-| Konto | FormÃ¥l                                                            | Type gjeld       |
+| Konto | Formål                                                            | Type gjeld       |
 |-------|-------------------------------------------------------------------|------------------|
 | 8300  | Betalbar skatt (samlet)                                           | Kortsiktig gjeld |
 | 2500  | Betalbar skatt, ikke utlignet                                     | Kortsiktig gjeld |
 | 2510  | Betalbar skatt, utlignet                                          | Kortsiktig gjeld |
-| 8600  | Betalbar skatt, ekstraordinÃ¦rt resultat                           | Kortsiktig gjeld |
+| 8600  | Betalbar skatt, ekstraordinært resultat                           | Kortsiktig gjeld |
 | 2120  | Utsatt skatt                                                      | Langsiktig/kortsiktig gjeld |
 
-## RegnskapsfÃ¸ring av betalbar skatt pÃ¥ ekstraordinÃ¦rt resultat
+## Regnskapsføring av betalbar skatt på ekstraordinært resultat
 
-### Periodisering ved fastsettelse av ekstraordinÃ¦rt resultat
+### Periodisering ved fastsettelse av ekstraordinært resultat
 
 ```plaintext
-Debet: EkstraordinÃ¦rt resultat                     XXX NOK
-Kredit: Konto 8600 - Betalbar skatt, ekstraordinÃ¦rt resultat    XXX NOK
+Debet: Ekstraordinært resultat                     XXX NOK
+Kredit: Konto 8600 - Betalbar skatt, ekstraordinært resultat    XXX NOK
 ```
 
 ### Utbetaling til skattemyndighetene
 
 ```plaintext
-Debet: Konto 8600 - Betalbar skatt, ekstraordinÃ¦rt resultat    YYY NOK
+Debet: Konto 8600 - Betalbar skatt, ekstraordinært resultat    YYY NOK
 Kredit: Konto 1950 - Bankinnskudd for skattetrekk                 YYY NOK
 ```
 
 ## Avstemming
 
-Avstem konto 8600 mot protokoll fra generalforsamling/styre og skattemeldingen for Ã¥ sikre korrekt saldo.
+Avstem konto 8600 mot protokoll fra generalforsamling/styre og skattemeldingen for å sikre korrekt saldo.
 
 ## Praktiske tips
 
-* Samle dokumentasjon for vedtak om ekstraordinÃ¦rt resultat
+* Samle dokumentasjon for vedtak om ekstraordinært resultat
 * Koordiner med skattemyndigheter og revisjon for god rapportering
 * Avstem konto ved hver periodisk rapportering
 
@@ -73,9 +73,14 @@ Avstem konto 8600 mot protokoll fra generalforsamling/styre og skattemeldingen f
 * [Konto 2510 - Betalbar skatt, utlignet](/blogs/kontoplan/2510-betalbar-skatt-utlignet "Konto 2510 - Betalbar skatt, utlignet")
 * [Konto 2530 - Refusjon skatt etter Skatteloven Â§31 5. ledd](/blogs/kontoplan/2530-refusjon-skatt-etter-skatteloven-31-5-ledd "Konto 2530 - Refusjon skatt etter Skatteloven Â§31 5. ledd")
 * [Konto 2120 - Utsatt skatt](/blogs/kontoplan/2120-utsatt-skatt "Konto 2120 - Utsatt skatt")
-* [Konto 8620 - Utsatt skatt, ekstraordinÃ¦rt resultat](/blogs/kontoplan/8620-utsatt-skatt-ekstraordinart-resultat "Konto 8620 - Utsatt skatt, ekstraordinÃ¦rt resultat")
-* [Betalbar skatt](/blogs/regnskap/betalbar-skatt "Betalbar skatt â€“ Komplett guide til beregning og hÃ¥ndtering")
+* [Konto 8620 - Utsatt skatt, ekstraordinært resultat](/blogs/kontoplan/8620-utsatt-skatt-ekstraordinart-resultat "Konto 8620 - Utsatt skatt, ekstraordinært resultat")
+* [Betalbar skatt](/blogs/regnskap/betalbar-skatt "Betalbar skatt – Komplett guide til beregning og håndtering")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 
-**Konto 8600 - Betalbar skatt, ekstraordinÃ¦rt resultat** sikrer korrekt periodisering og presentasjon av skatt knyttet til ekstraordinÃ¦rt resultat i balansen.
+**Konto 8600 - Betalbar skatt, ekstraordinært resultat** sikrer korrekt periodisering og presentasjon av skatt knyttet til ekstraordinært resultat i balansen.
+
+
+
+
+
 

@@ -1,23 +1,23 @@
 ﻿---
 title: "Revisjonsberetning"
 meta_title: "Revisjonsberetning"
-meta_description: '**Revisjonsberetning** er den offisielle rapporten som en revisor utarbeider etter fullfÃ¸rt revisjon for Ã¥ uttrykke sin mening om om Ã¥rsregnskapet er utarbei...'
+meta_description: '**Revisjonsberetning** er den offisielle rapporten som en revisor utarbeider etter fullført revisjon for å uttrykke sin mening om om årsregnskapet er utarbei...'
 slug: hva-er-revisjonsberetning
 type: blog
 layout: pages/single
 ---
 
-**Revisjonsberetning** er den offisielle rapporten som en revisor utarbeider etter fullfÃ¸rt revisjon for Ã¥ uttrykke sin mening om om Ã¥rsregnskapet er utarbeidet i samsvar med gjeldende lover, forskrifter og god regnskapsskikk. Revisjonsberetningen er et viktig verktÃ¸y for brukerne av regnskapet, som eiere, lÃ¥ngivere og andre interessenter, for Ã¥ vurdere selskapets finansielle troverdighet.
+**Revisjonsberetning** er den offisielle rapporten som en revisor utarbeider etter fullført revisjon for å uttrykke sin mening om om årsregnskapet er utarbeidet i samsvar med gjeldende lover, forskrifter og god regnskapsskikk. Revisjonsberetningen er et viktig verktøy for brukerne av regnskapet, som eiere, långivere og andre interessenter, for å vurdere selskapets finansielle troverdighet.
 
-En revisjonsberetning inngÃ¥r som en del av [Ã¥rsberetningen](/blogs/regnskap/arsberetning "Ã…rsberetning: Innhold, Krav og Guide til Norsk Ã…rsberetning"), sammen med ledelsesberetningen, regnskapsoppstillinger og noter.
+En revisjonsberetning inngår som en del av [årsberetningen](/blogs/regnskap/arsberetning "Årsberetning: Innhold, Krav og Guide til Norsk Årsberetning"), sammen med ledelsesberetningen, regnskapsoppstillinger og noter.
 
 ![Illustrasjon som viser Revisjonsberetning](revisjonsberetning-image.svg)
 
 ## Hva er Revisjonsberetning?
 
-En **revisjonsberetning** er dokumentet der revisoren redegjÃ¸r for:
+En **revisjonsberetning** er dokumentet der revisoren redegjør for:
 
-* FormÃ¥let med revisjonen og revisors ansvar
+* Formålet med revisjonen og revisors ansvar
 * Grunnlaget for revisjonsarbeidet, herunder standarder og lover
 * Revisors konklusjon om regnskapet, med eventuelle forbehold eller avvik
 * Andre opplysninger som er relevante for regnskapets brukere
@@ -31,17 +31,17 @@ I Norge reguleres revisjonsberetningens krav av:
 | Regelverk       | Hovedkrav                                                         |
 |-----------------|-------------------------------------------------------------------|
 | Revisorloven    | Krav til uavhengighet, ansvar og rapportering                     |
-| BokfÃ¸ringsloven | Krav til fullstendighet og krav til Ã¥rsregnskapets form og innhold |
+| Bokføringsloven | Krav til fullstendighet og krav til årsregnskapets form og innhold |
 | ISA 700“705     | Standarder for revisjonsberetningens innhold og utforming         |
 
-Se ogsÃ¥ artikkelen om [Revisjonsplikt](/blogs/regnskap/revisjonsplikt "Revisjonsplikt") for en oversikt over hvem som er revisjonspliktige og terskelverdier.
+Se også artikkelen om [Revisjonsplikt](/blogs/regnskap/revisjonsplikt "Revisjonsplikt") for en oversikt over hvem som er revisjonspliktige og terskelverdier.
 
 ## Struktur og Innhold
 
-En revisjonsberetning fÃ¸lger typisk denne strukturen:
+En revisjonsberetning følger typisk denne strukturen:
 
 1. **Tittel og adresse**
-2. **Innledning**: Referanse til Ã¥rsregnskapet og ansvarsforhold
+2. **Innledning**: Referanse til årsregnskapet og ansvarsforhold
 3. **Revisors ansvar**: Beskrivelse av revisjonens omfang og standarder
 4. **Konklusjon**: Revisorens mening om regnskapet
 5. **Forbehold og presiseringer** (hvis aktuelt)
@@ -55,24 +55,28 @@ En revisjonsberetning fÃ¸lger typisk denne strukturen:
 |---------------------------|------------------------------------------------------------------------------|
 | Ren konklusjon            | Ingen vesentlige feil eller avvik                                            |
 | Konklusjon med forbehold  | Mindre avvik som ikke er vesentlige                                          |
-| AvstÃ¥tt konklusjon        | Utilstrekkelig revisjonsbevis for Ã¥ konkludere                               |
-| Negativ konklusjon        | Vesentlige feil som pÃ¥virker regnskapet                                      |
+| Avstått konklusjon        | Utilstrekkelig revisjonsbevis for å konkludere                               |
+| Negativ konklusjon        | Vesentlige feil som påvirker regnskapet                                      |
 
-## FormÃ¥l og betydning
+## Formål og betydning
 
-* **Ã˜kt tillit**: Gir brukerne tillit til at regnskapet er pÃ¥litelig
+* **Økt tillit**: Gir brukerne tillit til at regnskapet er pålitelig
 * **Transparens**: Avdekker vesentlige forhold og usikkerheter
-* **AnsvarliggjÃ¸ring**: KlargjÃ¸r revisors rolle og ansvar
+* **Ansvarliggjøring**: Klargjør revisors rolle og ansvar
 
-## Eksempel pÃ¥ revisjonsberetning
+## Eksempel på revisjonsberetning
 
-> *"Vi har revidert Ã¥rsregnskapet for XYZ AS per 31. desember 2023, som omfatter balanse, resultatregnskap og noter. Etter vÃ¥r mening er Ã¥rsregnskapet avlagt i samsvar med gjeldende regelverk og gir et rettvisende bilde av selskapets finansielle stilling."*
+> *"Vi har revidert årsregnskapet for XYZ AS per 31. desember 2023, som omfatter balanse, resultatregnskap og noter. Etter vår mening er årsregnskapet avlagt i samsvar med gjeldende regelverk og gir et rettvisende bilde av selskapets finansielle stilling."*
 
-## Se ogsÃ¥
+## Se også
 
 * [Revisjon](/blogs/regnskap/revisjon "Revisjon")
 * [Arbeidspapirer i revisjon](/blogs/regnskap/hva-er-arbeidspapirer-revisjon "Hva er Arbeidspapirer i revisjon?")
 * [Revisorloven](/blogs/regnskap/hva-er-revisorloven "Hva er Revisorloven?")
+
+
+
+
 
 
 

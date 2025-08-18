@@ -1,6 +1,6 @@
 ﻿---
-title: "SmÃ¥ Foretak"
-meta_title: "SmÃ¥ Foretak"
+title: "Små Foretak"
+meta_title: "Små Foretak"
 meta_description: 'For en oversikt over generelle foretaksdefinisjoner, se [Hva er et Foretak?](/blogs/regnskap/hva-er-foretak "Hva er et Foretak? Komplett Guide til Foretaksforme...'
 slug: sma-foretak
 type: blog
@@ -9,60 +9,64 @@ layout: pages/single
 
 For en oversikt over generelle foretaksdefinisjoner, se [Hva er et Foretak?](/blogs/regnskap/hva-er-foretak "Hva er et Foretak? Komplett Guide til Foretaksformer i Norge").
 
-Begrepet **smÃ¥ foretak** refererer til virksomheter som oppfyller bestemte terskelverdier for omsetning, balansesum og antall ansatte. Disse foretakene kan benytte **forenklede regnskapsregler** i henhold til regnskapsstandard for smÃ¥ foretak (RSFF).
+Begrepet **små foretak** refererer til virksomheter som oppfyller bestemte terskelverdier for omsetning, balansesum og antall ansatte. Disse foretakene kan benytte **forenklede regnskapsregler** i henhold til regnskapsstandard for små foretak (RSFF).
 
-![SmÃ¥ Foretak](sma-foretak-image.svg)
+![Små Foretak](sma-foretak-image.svg)
 
-## Hva er smÃ¥ foretak?
+## Hva er små foretak?
 
-IfÃ¸lge bokfÃ¸ringsforskriften defineres smÃ¥ foretak av fÃ¸lgende kriterier per regnskapsÃ¥r:
+Ifølge bokføringsforskriften defineres små foretak av følgende kriterier per regnskapsår:
 
 | Kriterium               | Terskel                 |
 |-------------------------|-------------------------|
 | Omsetning               | Under NOK 70Â 000Â 000    |
 | Balansesum              | Under NOK 35Â 000Â 000    |
-| Gjennomsnittlig ansatte | Under 50 [Ã¥rsverk](/blogs/regnskap/arsverk "Ã…rsverk") |
+| Gjennomsnittlig ansatte | Under 50 [årsverk](/blogs/regnskap/arsverk "Årsverk") |
 
-Foretak som oppfyller minst to av disse tre kriteriene kan rapportere som smÃ¥ foretak med **forenklet rapportering**.
+Foretak som oppfyller minst to av disse tre kriteriene kan rapportere som små foretak med **forenklet rapportering**.
 
-## Regler og krav for smÃ¥ foretak
+## Regler og krav for små foretak
 
-SmÃ¥ foretak reguleres av [bokfÃ¸ringsforskriften](/blogs/regnskap/hva-er-bokforingsforskriften "Hva er BokfÃ¸ringsforskriften? Guide til regnskapsstandarder og krav"). De viktigste regnskapsstandardene og prinsippene er:
+Små foretak reguleres av [bokføringsforskriften](/blogs/regnskap/hva-er-bokforingsforskriften "Hva er Bokføringsforskriften? Guide til regnskapsstandarder og krav"). De viktigste regnskapsstandardene og prinsippene er:
 
-* **Forenklet IFRS** for smÃ¥ foretak
+* **Forenklet IFRS** for små foretak
 * **God regnskapsskikk** som grunnlag
 * **Forenklede** notekrav sammenlignet med full NRS
-* **Lavere krav** til detaljert Ã¥rsberetning
+* **Lavere krav** til detaljert årsberetning
 
-Se ogsÃ¥ [God regnskapsskikk](/blogs/regnskap/god-regnskapsskikk "God regnskapsskikk: Introduksjon til regnskapsprinsipper") og [Norsk standard regnskap](/blogs/regnskap/norsk-standard-regnskap "Norsk Regnskapsstandard: Oversikt og vei videre").
+Se også [God regnskapsskikk](/blogs/regnskap/god-regnskapsskikk "God regnskapsskikk: Introduksjon til regnskapsprinsipper") og [Norsk standard regnskap](/blogs/regnskap/norsk-standard-regnskap "Norsk Regnskapsstandard: Oversikt og vei videre").
 
 ## Fordeler ved forenklinger
 
-Ã… fÃ¸re regnskap som smÃ¥ foretak gir flere fordeler:
+Å føre regnskap som små foretak gir flere fordeler:
 
 * Redusert administrativ byrde og lavere kostnader
 * Mindre omfangsrike notekrav og rapporteringsdetaljer
-* Enklere Ã¥rsoppgjÃ¸r og kortere tidsbruk ved regnskapsavslutning
+* Enklere årsoppgjør og kortere tidsbruk ved regnskapsavslutning
 * Bedre likviditetsstyring ved enklere rapportering
 
 ## Begrensninger og anbefalinger
 
-Selv om reglene for smÃ¥ foretak er forenklet, mÃ¥ du fortsatt:
+Selv om reglene for små foretak er forenklet, må du fortsatt:
 
-* Oppfylle **bokfÃ¸ringsplikt** i henhold til [bokfÃ¸ringsplikt](/blogs/regnskap/hva-er-bokforingsplikt "Hva er BokfÃ¸ringsplikt? Komplett Guide til Regler og Krav")
-* SÃ¸rge for korrekt **dokumentasjon** og oppbevaring i minimum 5 Ã¥r
-* Vurdere om du overskrider kriteriene Ã¥rlig; ved overskridelse mÃ¥ full NRS eller IFRS benyttes
+* Oppfylle **bokføringsplikt** i henhold til [bokføringsplikt](/blogs/regnskap/hva-er-bokforingsplikt "Hva er Bokføringsplikt? Komplett Guide til Regler og Krav")
+* Sørge for korrekt **dokumentasjon** og oppbevaring i minimum 5 år
+* Vurdere om du overskrider kriteriene årlig; ved overskridelse må full NRS eller IFRS benyttes
 
-## Hvordan avgjÃ¸re om du er et smÃ¥ foretak
+## Hvordan avgjøre om du er et små foretak
 
-FÃ¸lg disse trinnene for Ã¥ avgjÃ¸re om virksomheten din kvalifiserer:
+Følg disse trinnene for å avgjøre om virksomheten din kvalifiserer:
 
-1. Samle siste Ã¥rs **omsetning**, **balansesum** og **antall ansatte**.
+1. Samle siste års **omsetning**, **balansesum** og **antall ansatte**.
 2. Sammenlign tallene med terskelverdiene i tabellen over.
-3. Hvis du oppfyller to av tre kriterier, kan du rapportere som smÃ¥ foretak.
-4. Evaluer status Ã¥rlig fÃ¸r Ã¥rsavslutning for Ã¥ sikre korrekt anvendelse av regnskapsstandard.
+3. Hvis du oppfyller to av tre kriterier, kan du rapportere som små foretak.
+4. Evaluer status årlig før årsavslutning for å sikre korrekt anvendelse av regnskapsstandard.
 
-For mer om Ã¥rsavslutning, se [Hva er Ã¥rsavslutning?](/blogs/regnskap/hva-er-aarsavslutning "Hva er Aarsavslutning? Komplett Guide til Ã…rsavslutning").
+For mer om årsavslutning, se [Hva er årsavslutning?](/blogs/regnskap/hva-er-aarsavslutning "Hva er Aarsavslutning? Komplett Guide til Årsavslutning").
+
+
+
+
 
 
 

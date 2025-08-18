@@ -1,53 +1,53 @@
 ﻿---
-title: "AksjonÃ¦rmodellen - Komplett Guide til Norsk Aksjebeskatning"
-meta_title: "AksjonÃ¦rmodellen - Komplett Guide til Norsk Aksjebeskatning"
-meta_description: '**AksjonÃ¦rmodellen** er det sentrale skattesystemet for [aksjebeskatning](/blogs/regnskap/hva-er-en-aksje Hva er en aksje? Komplett guide til aksjer i Norge)...'
+title: "Aksjonærmodellen - Komplett Guide til Norsk Aksjebeskatning"
+meta_title: "Aksjonærmodellen - Komplett Guide til Norsk Aksjebeskatning"
+meta_description: '**Aksjonærmodellen** er det sentrale skattesystemet for [aksjebeskatning](/blogs/regnskap/hva-er-en-aksje Hva er en aksje? Komplett guide til aksjer i Norge)...'
 slug: aksjonaermodellen-guide
 type: blog
 layout: pages/single
 ---
 
-**AksjonÃ¦rmodellen** er det sentrale skattesystemet for [aksjebeskatning](/blogs/regnskap/hva-er-en-aksje "Hva er en aksje? Komplett guide til aksjer i Norge") i Norge, innfÃ¸rt i 2006 for Ã¥ skape et enhetlig og nÃ¸ytralt system for beskatning av [aksjer](/blogs/regnskap/hva-er-en-aksje "Hva er en aksje? Komplett guide til aksjer i Norge") og [utbytte](/blogs/regnskap/maskimalt-utbytte "Maksimalt utbytte fra AS - Beregning og regler"). Modellen bygger pÃ¥ to hovedprinsipper: **fritaksmetoden** og **skjermingsfradrag**, som sammen skal sikre at [aksjonÃ¦rer](/blogs/regnskap/hva-er-en-aksjonaer "Hva er en aksjonÃ¦r? Rettigheter og plikter") ikke blir dobbeltbeskattet.
+**Aksjonærmodellen** er det sentrale skattesystemet for [aksjebeskatning](/blogs/regnskap/hva-er-en-aksje "Hva er en aksje? Komplett guide til aksjer i Norge") i Norge, innført i 2006 for å skape et enhetlig og nøytralt system for beskatning av [aksjer](/blogs/regnskap/hva-er-en-aksje "Hva er en aksje? Komplett guide til aksjer i Norge") og [utbytte](/blogs/regnskap/maskimalt-utbytte "Maksimalt utbytte fra AS - Beregning og regler"). Modellen bygger på to hovedprinsipper: **fritaksmetoden** og **skjermingsfradrag**, som sammen skal sikre at [aksjonærer](/blogs/regnskap/hva-er-en-aksjonaer "Hva er en aksjonær? Rettigheter og plikter") ikke blir dobbeltbeskattet.
 
-For en grundig innfÃ¸ring i beskatning av aksjegevinster for bÃ¥de privatpersoner og selskaper, se [Skatt pÃ¥ aksjegevinst](/blogs/regnskap/skatt-pa-aksjegevinst "Skatt pÃ¥ aksjegevinst “ Guide til beskatning av aksjegevinster i Norge").
+For en grundig innføring i beskatning av aksjegevinster for både privatpersoner og selskaper, se [Skatt på aksjegevinst](/blogs/regnskap/skatt-pa-aksjegevinst "Skatt på aksjegevinst “ Guide til beskatning av aksjegevinster i Norge").
 
-![AksjonÃ¦rmodellen oversikt](aksjonaermodellen-guide-image.svg)
+![Aksjonærmodellen oversikt](aksjonaermodellen-guide-image.svg)
 
-## Historisk bakgrunn og formÃ¥l
+## Historisk bakgrunn og formål
 
-AksjonÃ¦rmodellen ble innfÃ¸rt som del av [skattereformen 2006](/blogs/regnskap/skatt "Skatt i Norge - Komplett guide til skatteregler") for Ã¥ lÃ¸se problemet med **dobbeltbeskatning** av aksjegevinster og utbytte. FÃ¸r 2006 eksisterte det parallelle systemer som skapte ulik behandling mellom forskjellige investortyper.
+Aksjonærmodellen ble innført som del av [skattereformen 2006](/blogs/regnskap/skatt "Skatt i Norge - Komplett guide til skatteregler") for å løse problemet med **dobbeltbeskatning** av aksjegevinster og utbytte. Før 2006 eksisterte det parallelle systemer som skapte ulik behandling mellom forskjellige investortyper.
 
-### HovedmÃ¥lsettinger
+### Hovedmålsettinger
 
-* **NÃ¸ytralitet**: Lik skattemessig behandling uavhengig av finansieringsform
-* **Enkelhet**: Enhetlige regler for alle aksjonÃ¦rtyper
-* **Likviditet**: Sikre at [norske bedrifter](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et aksjeselskap (AS)? Komplett guide") fÃ¥r tilgang til kapital
-* **Internasjonal konkurranseevne**: Sammenlignbare vilkÃ¥r med andre land
+* **Nøytralitet**: Lik skattemessig behandling uavhengig av finansieringsform
+* **Enkelhet**: Enhetlige regler for alle aksjonærtyper
+* **Likviditet**: Sikre at [norske bedrifter](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et aksjeselskap (AS)? Komplett guide") får tilgang til kapital
+* **Internasjonal konkurranseevne**: Sammenlignbare vilkår med andre land
 
-![AksjonÃ¦rmodellen prinsipper](aksjonaermodellen-prinsipper.svg)
+![Aksjonærmodellen prinsipper](aksjonaermodellen-prinsipper.svg)
 
 ## Fritaksmetoden - Grunnpilaren i systemet
 
-**Fritaksmetoden** er den fÃ¸rste sÃ¸ylen i aksjonÃ¦rmodellen og gjelder for [selskaper](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et aksjeselskap (AS)? Komplett guide") som eier aksjer. Metoden innebÃ¦rer at gevinster og utbytte fra kvalifiserte aksjer i hovedsak er skattefrie.
+**Fritaksmetoden** er den første søylen i aksjonærmodellen og gjelder for [selskaper](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et aksjeselskap (AS)? Komplett guide") som eier aksjer. Metoden innebærer at gevinster og utbytte fra kvalifiserte aksjer i hovedsak er skattefrie.
 
-### VilkÃ¥r for fritaksmetoden
+### Vilkår for fritaksmetoden
 
-| VilkÃ¥r | Beskrivelse | Detaljer |
+| Vilkår | Beskrivelse | Detaljer |
 |--------|-------------|----------|
-| **Eierandel** | Minimum 10% av [aksjekapitalen](/blogs/regnskap/hva-er-aksjekapital "Hva er aksjekapital? Definisjon og beregning") eller stemmerettene | MÃ¥ opprettholdes i minst 2 Ã¥r |
-| **Eiertid** | Kontinuerlig eierskap i minimum 2 Ã¥r | Gjelder bÃ¥de fÃ¸r og etter salg |
-| **Genuint selskap** | Selskapet mÃ¥ drive reell virksomhet | Ikke bare passiv kapitalforvaltning |
-| **EÃ˜S-tilknytning** | Selskapet mÃ¥ vÃ¦re hjemmehÃ¸rende i EÃ˜S | Eller i land med skatteavtale |
+| **Eierandel** | Minimum 10% av [aksjekapitalen](/blogs/regnskap/hva-er-aksjekapital "Hva er aksjekapital? Definisjon og beregning") eller stemmerettene | Må opprettholdes i minst 2 år |
+| **Eiertid** | Kontinuerlig eierskap i minimum 2 år | Gjelder både før og etter salg |
+| **Genuint selskap** | Selskapet må drive reell virksomhet | Ikke bare passiv kapitalforvaltning |
+| **EØS-tilknytning** | Selskapet må være hjemmehørende i EØS | Eller i land med skatteavtale |
 
 ### Beregning av fritaksmetoden
 
 **Fritaksmetoden** gir 97% fritak for gevinster og utbytte, mens 3% beskattes som [alminnelig inntekt](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt - Beregning og skatteregler") med 22% skattesats.
 
-**Eksempel pÃ¥ beregning:**
+**Eksempel på beregning:**
 ```
 Utbytte mottatt: 1 000 000 kr
-FritaksbelÃ¸p (97%): 970 000 kr
-Skattepliktig belÃ¸p (3%): 30 000 kr
+Fritaksbeløp (97%): 970 000 kr
+Skattepliktig beløp (3%): 30 000 kr
 Skatt (22% av 30 000): 6 600 kr
 Effektiv skattesats: 0,66%
 ```
@@ -56,7 +56,7 @@ Effektiv skattesats: 0,66%
 
 ## Skjermingsfradrag - Beskyttelse for privatpersoner
 
-**Skjermingsfradrag** er den andre sÃ¸ylen i aksjonÃ¦rmodellen og gjelder for privatpersoner som eier aksjer. Fradraget skal sikre at kun den delen av gevinsten som overstiger en "normalavkastning" beskattes.
+**Skjermingsfradrag** er den andre søylen i aksjonærmodellen og gjelder for privatpersoner som eier aksjer. Fradraget skal sikre at kun den delen av gevinsten som overstiger en "normalavkastning" beskattes.
 
 ### Beregning av skjermingsfradrag
 
@@ -65,13 +65,13 @@ Skjermingsfradraget beregnes som:
 
 | Komponent | Formel | Beskrivelse |
 |-----------|---------|-------------|
-| **Skjermingsgrunnlag** | [Inngangsverdi](/blogs/regnskap/inngaaende-balanse "InngÃ¥ende balanse - Hva er det og hvordan beregnes det?") + tilleggsinvesteringer | Justert for uttak og utbytte |
-| **Skjermingsrente** | Statsobligasjonsrente + 0,5% | Oppdateres Ã¥rlig av [Skatteetaten](/blogs/regnskap/skattemelding "Skattemelding - Komplett guide til innlevering") |
-| **Akkumulering** | Ubrukt skjerming overfÃ¸res | Kan brukes i senere Ã¥r |
+| **Skjermingsgrunnlag** | [Inngangsverdi](/blogs/regnskap/inngaaende-balanse "Inngående balanse - Hva er det og hvordan beregnes det?") + tilleggsinvesteringer | Justert for uttak og utbytte |
+| **Skjermingsrente** | Statsobligasjonsrente + 0,5% | Oppdateres årlig av [Skatteetaten](/blogs/regnskap/skattemelding "Skattemelding - Komplett guide til innlevering") |
+| **Akkumulering** | Ubrukt skjerming overføres | Kan brukes i senere år |
 
 ### Skjermingsrenter historisk
 
-| Ã…r | Skjermingsrente | Statsobligasjonsrente | Tillegg |
+| År | Skjermingsrente | Statsobligasjonsrente | Tillegg |
 |----|-----------------|----------------------|---------|
 | 2024 | 2,8% | 2,3% | 0,5% |
 | 2023 | 2,7% | 2,2% | 0,5% |
@@ -85,7 +85,7 @@ Skjermingsfradraget beregnes som:
 
 ### Eksempel 1: Privatperson med aksjegevinst
 
-En privatperson kjÃ¸pte aksjer for 500 000 kr i 2020 og selger dem for 800 000 kr i 2024.
+En privatperson kjøpte aksjer for 500 000 kr i 2020 og selger dem for 800 000 kr i 2024.
 
 **Beregning:**
 ```
@@ -110,8 +110,8 @@ Et [aksjeselskap](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et aksjeselskap
 **Beregning med fritaksmetoden:**
 ```
 Utbytte mottatt: 2 000 000 kr
-FritaksbelÃ¸p (97%): 1 940 000 kr
-Skattepliktig belÃ¸p (3%): 60 000 kr
+Fritaksbeløp (97%): 1 940 000 kr
+Skattepliktig beløp (3%): 60 000 kr
 Skatt (22% av 60 000): 13 200 kr
 Effektiv skattesats: 0,66%
 ```
@@ -135,30 +135,30 @@ Effektiv skattesats: 0,66%
 |--------|-------|------------|
 | **Gevinst** | Fritaksmetoden | 97% fritak ved kvalifiserte aksjer |
 | **Utbytte** | Fritaksmetoden | Samme behandling som gevinst |
-| **Tap** | Begrenset fradrag | Kun mot gevinst pÃ¥ aksjer |
-| **Skattesats** | 22% pÃ¥ 3% | Effektiv sats 0,66% |
+| **Tap** | Begrenset fradrag | Kun mot gevinst på aksjer |
+| **Skattesats** | 22% på 3% | Effektiv sats 0,66% |
 
 ![Investortyper sammenligning](investortyper-sammenligning.svg)
 
 ## Spesielle situasjoner og unntak
 
-### NÃ¦ringsdrivende med aksjer
+### Næringsdrivende med aksjer
 
-For [nÃ¦ringsdrivende](/blogs/regnskap/naeringsoppgave "NÃ¦ringsoppgave - Hva er det og hvordan fylles den ut?") som handler aksjer som del av virksomheten, gjelder ikke aksjonÃ¦rmodellen. Gevinster og tap behandles som [driftsinntekter](/blogs/regnskap/driftsinntekter "Driftsinntekter - Hva er det og hvordan beregnes det?") og [driftskostnader](/blogs/regnskap/driftskostnader "Driftskostnader - Oversikt og kategorisering").
+For [næringsdrivende](/blogs/regnskap/naeringsoppgave "Næringsoppgave - Hva er det og hvordan fylles den ut?") som handler aksjer som del av virksomheten, gjelder ikke aksjonærmodellen. Gevinster og tap behandles som [driftsinntekter](/blogs/regnskap/driftsinntekter "Driftsinntekter - Hva er det og hvordan beregnes det?") og [driftskostnader](/blogs/regnskap/driftskostnader "Driftskostnader - Oversikt og kategorisering").
 
 ### Utenlandske investorer
 
-Utenlandske investorer som ikke er skattepliktige til Norge, har generelt begrenset skatteplikt pÃ¥ norske aksjer. [Skatteavtaler](/blogs/regnskap/skattemelding "Skattemelding - Komplett guide til innlevering") kan redusere eller eliminere skatten.
+Utenlandske investorer som ikke er skattepliktige til Norge, har generelt begrenset skatteplikt på norske aksjer. [Skatteavtaler](/blogs/regnskap/skattemelding "Skattemelding - Komplett guide til innlevering") kan redusere eller eliminere skatten.
 
 ### Ansatte aksjer og opsjoner
 
-[Ansatte](/blogs/regnskap/ansattutlegg "Ansattutlegg - Hva er det og hvordan hÃ¥ndteres det?") som fÃ¥r aksjer eller [opsjoner](/blogs/regnskap/hva-er-opsjonsavtale "Hva er en opsjonsavtale? Typer og vilkÃ¥r") som del av lÃ¸nn, mÃ¥ regne fordelen som lÃ¸nnsinntekt ved tildelingen.
+[Ansatte](/blogs/regnskap/ansattutlegg "Ansattutlegg - Hva er det og hvordan håndteres det?") som får aksjer eller [opsjoner](/blogs/regnskap/hva-er-opsjonsavtale "Hva er en opsjonsavtale? Typer og vilkår") som del av lønn, må regne fordelen som lønnsinntekt ved tildelingen.
 
 ## Dokumentasjon og rapportering
 
 ### Krav til dokumentasjon
 
-For Ã¥ benytte aksjonÃ¦rmodellen korrekt, mÃ¥ [bedrifter](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et aksjeselskap (AS)? Komplett guide") og privatpersoner dokumentere:
+For å benytte aksjonærmodellen korrekt, må [bedrifter](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et aksjeselskap (AS)? Komplett guide") og privatpersoner dokumentere:
 
 * **Anskaffelsestidspunkt** og **kostpris**
 * **Eierandel** og **eiertid**
@@ -169,7 +169,7 @@ For Ã¥ benytte aksjonÃ¦rmodellen korrekt, mÃ¥ [bedrifter](/blogs/regnskap/
 
 | Skjema | Hvem | Innhold |
 |--------|------|---------|
-| **RF-1030** | Selskaper | Gevinst/tap pÃ¥ aksjer |
+| **RF-1030** | Selskaper | Gevinst/tap på aksjer |
 | **RF-1174** | Selskaper | Mottatt utbytte |
 | **Vedlegg** | Privatpersoner | Aksjegevinst og skjerming |
 
@@ -179,72 +179,72 @@ For Ã¥ benytte aksjonÃ¦rmodellen korrekt, mÃ¥ [bedrifter](/blogs/regnskap/
 
 ### Skatteavtaler og dobbeltbeskatning
 
-Norge har [skatteavtaler](/blogs/regnskap/skattemelding "Skattemelding - Komplett guide til innlevering") med over 80 land som regulerer beskatning av aksjegevinster og utbytte. Disse kan pÃ¥virke anvendelsen av aksjonÃ¦rmodellen.
+Norge har [skatteavtaler](/blogs/regnskap/skattemelding "Skattemelding - Komplett guide til innlevering") med over 80 land som regulerer beskatning av aksjegevinster og utbytte. Disse kan påvirke anvendelsen av aksjonærmodellen.
 
 ### FATCA og CRS
 
-Norske [finansinstitusjoner](/blogs/regnskap/bedriftsbank "Bedriftsbank - Valg og tjenester for bedrifter") mÃ¥ rapportere om utenlandske kontoinnehavere under FATCA og CRS-regelverket, som kan pÃ¥virke aksjonÃ¦rer.
+Norske [finansinstitusjoner](/blogs/regnskap/bedriftsbank "Bedriftsbank - Valg og tjenester for bedrifter") må rapportere om utenlandske kontoinnehavere under FATCA og CRS-regelverket, som kan påvirke aksjonærer.
 
 ## Framtidige endringer og utvikling
 
-### ForeslÃ¥tte endringer
+### Foreslåtte endringer
 
-Regjeringen har signalisert flere mulige endringer i aksjonÃ¦rmodellen:
+Regjeringen har signalisert flere mulige endringer i aksjonærmodellen:
 
-* **Ã˜kt skattesats** pÃ¥ den skattepliktige delen
+* **Økt skattesats** på den skattepliktige delen
 * **Redusert fritaksandel** i fritaksmetoden
-* **Strengere vilkÃ¥r** for kvalifiserte aksjer
+* **Strengere vilkår** for kvalifiserte aksjer
 * **Nye regler** for [holdingselskaper](/blogs/regnskap/holdingselskap "Holdingselskap - Struktur og skattefordeler")
 
 ### Europeiske harmoniseringskrav
 
-EU arbeider med Ã¥ harmonisere selskapsbeskatning, som kan pÃ¥virke norske regler om aksjebeskatning i Ã¥rene framover.
+EU arbeider med å harmonisere selskapsbeskatning, som kan påvirke norske regler om aksjebeskatning i årene framover.
 
-## Praktiske rÃ¥d og beste praksis
+## Praktiske råd og beste praksis
 
 ### For privatpersoner
 
-* **Planlegg salg** for Ã¥ utnytte skjermingsfradrag optimalt
-* **Dokumenter** alle aksjekjÃ¸p og -salg nÃ¸ye
+* **Planlegg salg** for å utnytte skjermingsfradrag optimalt
+* **Dokumenter** alle aksjekjøp og -salg nøye
 * **Vurder tidspunkt** for realisering av gevinster
-* **Bruk** ubrukt skjerming fra tidligere Ã¥r
+* **Bruk** ubrukt skjerming fra tidligere år
 
 ### For selskaper
 
-* **Sikre** at vilkÃ¥rene for fritaksmetoden oppfylles
+* **Sikre** at vilkårene for fritaksmetoden oppfylles
 * **Dokumenter** eierandel og eiertid
 * **Vurder** struktur av [aksjeoppgave](/blogs/regnskap/hva-er-aksjeoppgave "Hva er en aksjeoppgave? Innlevering og krav") og investeringer
 * **Planlegg** utbyttepolitikk strategisk
 
-![Praktiske rÃ¥d](praktiske-raad.svg)
+![Praktiske råd](praktiske-raad.svg)
 
 ## Sammenheng med andre skatteregler
 
 ### Forholdet til andre kapitalskatter
 
-AksjonÃ¦rmodellen mÃ¥ sees i sammenheng med:
+Aksjonærmodellen må sees i sammenheng med:
 
-* **[Eiendomsskatt](/blogs/regnskap/skatt "Skatt i Norge - Komplett guide til skatteregler")** pÃ¥ fast eiendom
-* **[Formuesskatt](/blogs/regnskap/formue "Formue - Beregning og skatteregler")** (hvis gjeninnfÃ¸rt)
+* **[Eiendomsskatt](/blogs/regnskap/skatt "Skatt i Norge - Komplett guide til skatteregler")** på fast eiendom
+* **[Formuesskatt](/blogs/regnskap/formue "Formue - Beregning og skatteregler")** (hvis gjeninnført)
 * **[Arveavgift](/blogs/regnskap/skattemelding "Skattemelding - Komplett guide til innlevering")** ved generasjonsskifte
 
-### PÃ¥virkning pÃ¥ bedrifters finansieringsbeslutninger
+### Påvirkning på bedrifters finansieringsbeslutninger
 
-AksjonÃ¦rmodellen pÃ¥virker hvordan bedrifter velger mellom:
+Aksjonærmodellen påvirker hvordan bedrifter velger mellom:
 
 * **[Egenkapital](/blogs/regnskap/egenkapital "Egenkapital - Beregning og betydning")** vs. [gjeld](/blogs/regnskap/gjeld "Gjeld - Typer og regnskapsbehandling")
-* **Utbytte** vs. **tilbakekjÃ¸p** av aksjer
-* **Opparbeidet** vs. **tilfÃ¸rt** [egenkapital](/blogs/regnskap/egenkapital "Egenkapital - Beregning og betydning")
+* **Utbytte** vs. **tilbakekjøp** av aksjer
+* **Opparbeidet** vs. **tilført** [egenkapital](/blogs/regnskap/egenkapital "Egenkapital - Beregning og betydning")
 
 ## Utfordringer og kritikk
 
 ### Kompleksitet
 
-Til tross for mÃ¥lsettingen om enkelhet, oppleves aksjonÃ¦rmodellen som kompleks, spesielt:
+Til tross for målsettingen om enkelhet, oppleves aksjonærmodellen som kompleks, spesielt:
 
 * **Skjermingsberegninger** for privatpersoner
-* **VilkÃ¥r** for fritaksmetoden
-* **Grensetilfeller** og tolkningsspÃ¸rsmÃ¥l
+* **Vilkår** for fritaksmetoden
+* **Grensetilfeller** og tolkningsspørsmål
 
 ### Ulik behandling
 
@@ -256,21 +256,21 @@ Modellen skaper fortsatt forskjeller mellom:
 
 ## Konklusjon
 
-AksjonÃ¦rmodellen er et sentralt element i norsk skattepolitikk som balanserer hensynet til kapitalflukt, skatteproveny og nÃ¸ytralitet. ForstÃ¥else av modellens mekanismer er essensielt for bÃ¥de privatpersoner og bedrifter som investerer i aksjer.
+Aksjonærmodellen er et sentralt element i norsk skattepolitikk som balanserer hensynet til kapitalflukt, skatteproveny og nøytralitet. Forståelse av modellens mekanismer er essensielt for både privatpersoner og bedrifter som investerer i aksjer.
 
-**NÃ¸kkelpunkter Ã¥ huske:**
+**Nøkkelpunkter å huske:**
 
 * **Fritaksmetoden** gir 97% fritak for selskaper med kvalifiserte aksjer
 * **Skjermingsfradrag** beskytter privatpersoner mot beskatning av normalavkastning
-* **Dokumentasjon** og korrekt rapportering er avgjÃ¸rende
+* **Dokumentasjon** og korrekt rapportering er avgjørende
 * **Planlegging** kan optimalisere skatteposisjonen betydelig
 
-For Ã¥ sikre korrekt anvendelse av aksjonÃ¦rmodellen, anbefales det Ã¥ konsultere [regnskapsfÃ¸rer](/blogs/regnskap/forretningsforer "ForretningsfÃ¸rer - Rolle og ansvar") eller skatterÃ¥dgiver ved komplekse situasjoner.
+For å sikre korrekt anvendelse av aksjonærmodellen, anbefales det å konsultere [regnskapsfører](/blogs/regnskap/forretningsforer "Forretningsfører - Rolle og ansvar") eller skatterådgiver ved komplekse situasjoner.
 
 ## Relaterte artikler
 
 * [Hva er en aksje?](/blogs/regnskap/hva-er-en-aksje "Hva er en aksje? Komplett guide til aksjer i Norge")
-* [Hva er en aksjonÃ¦r?](/blogs/regnskap/hva-er-en-aksjonaer "Hva er en aksjonÃ¦r? Rettigheter og plikter")
+* [Hva er en aksjonær?](/blogs/regnskap/hva-er-en-aksjonaer "Hva er en aksjonær? Rettigheter og plikter")
 * [Maksimalt utbytte fra AS](/blogs/regnskap/maskimalt-utbytte "Maksimalt utbytte fra AS - Beregning og regler")
 * [Hva er et aksjeselskap?](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et aksjeselskap (AS)? Komplett guide")
 * [Aksjekapital - definisjon og beregning](/blogs/regnskap/hva-er-aksjekapital "Hva er aksjekapital? Definisjon og beregning")
@@ -279,6 +279,10 @@ For Ã¥ sikre korrekt anvendelse av aksjonÃ¦rmodellen, anbefales det Ã¥ kon
 * [Holdingselskap](/blogs/regnskap/holdingselskap "Holdingselskap - Struktur og skattefordeler")
 * [Skattemelding](/blogs/regnskap/skattemelding "Skattemelding - Komplett guide til innlevering")
 * [Alminnelig inntekt](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt - Beregning og skatteregler")
+
+
+
+
 
 
 

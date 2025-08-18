@@ -7,57 +7,61 @@ type: blog
 layout: pages/single
 ---
 
-**Budsjett** er en detaljert plan over forventede inntekter og [utgifter](/blogs/regnskap/utgift "Utgift “ Komplett Guide til Utgifter i Norsk Regnskap") for en fremtidig periode. Et godt budsjett hjelper bedrifter med Ã¥ styre ressurser, sette mÃ¥l og kontrollere Ã¸konomien.
+**Budsjett** er en detaljert plan over forventede inntekter og [utgifter](/blogs/regnskap/utgift "Utgift “ Komplett Guide til Utgifter i Norsk Regnskap") for en fremtidig periode. Et godt budsjett hjelper bedrifter med å styre ressurser, sette mål og kontrollere økonomien.
 
 ![Budsjettformel](budsjett-formel.svg)
 
 ## Hvorfor bruke budsjett?
 
-Ã… sette opp et budsjett gir flere fordeler:
+Å sette opp et budsjett gir flere fordeler:
 
 * **Planlegging:** Gir oversikt over forventede inntekter og kostnader.
 * **Ressursstyring:** Sikrer optimal fordeling av kapital og arbeidskraft.
-* **Kontroll:** MuliggjÃ¸r lÃ¸pende oppfÃ¸lging og avviksanalyse.
-* **Kommunikasjon:** KlargjÃ¸r Ã¸konomiske mÃ¥l og forventninger i organisasjonen.
+* **Kontroll:** Muliggjør løpende oppfølging og avviksanalyse.
+* **Kommunikasjon:** Klargjør økonomiske mål og forventninger i organisasjonen.
 
-Budsjett er ogsÃ¥ grunnlaget for [budsjettering](/blogs/regnskap/hva-er-budsjettering "Hva er Budsjettering? Komplett Guide til Budsjettplanlegging for Bedrifter"), prosessen for Ã¥ lage og fÃ¸lge opp budsjetter.
+Budsjett er også grunnlaget for [budsjettering](/blogs/regnskap/hva-er-budsjettering "Hva er Budsjettering? Komplett Guide til Budsjettplanlegging for Bedrifter"), prosessen for å lage og følge opp budsjetter.
 
 ## Typer av budsjetter
 
 | Budsjett               | Beskrivelse                                                   |
 |------------------------|---------------------------------------------------------------|
-| **Driftsbudsjett**     | Plan for lÃ¸pende driftsinntekter og -kostnader.               |
+| **Driftsbudsjett**     | Plan for løpende driftsinntekter og -kostnader.               |
 | **Investeringsbudsjett** | Oversikt over planlagte investeringer i anleggsmidler.       |
-| **Likviditetsbudsjett** | Plan for forventede kontantstrÃ¸mmer og likviditetsbehov.      |
+| **Likviditetsbudsjett** | Plan for forventede kontantstrømmer og likviditetsbehov.      |
 
 ![Oversikt over budsjetttyper](budsjett-typer-oversikt.svg)
 
 ## Slik utarbeides et budsjett
 
-Prosessen for Ã¥ sette opp et budsjett kan beskrives i flere steg:
+Prosessen for å sette opp et budsjett kan beskrives i flere steg:
 
 1. Samle historiske data og analyser trender.
 2. Sett realistiske forutsetninger (priser, volumer osv.).
 3. Fordel ansvar til avdelinger.
 4. Konsolider delbudsjetter til et hovedbudsjett.
 5. Godkjenn og kommuniser budsjettet.
-6. FÃ¸lg opp avvik og juster ved behov.
+6. Følg opp avvik og juster ved behov.
 
-Les mer om avvikshÃ¥ndtering i [AvvikshÃ¥ndtering](/blogs/regnskap/hva-er-avvikshÃ¥ndtering "Hva er AvvikshÃ¥ndtering i Regnskap? Prosess, Metoder og Beste Praksis").
+Les mer om avvikshåndtering i [Avvikshåndtering](/blogs/regnskap/hva-er-avvikshåndtering "Hva er Avvikshåndtering i Regnskap? Prosess, Metoder og Beste Praksis").
 
 ## Forskjellen mellom budsjett og prognose
 
 |                      | **Budsjett**                                                  | **Prognose**                                                    |
 |----------------------|---------------------------------------------------------------|-----------------------------------------------------------------|
-| FormÃ¥l               | Fastlegger fremtidige mÃ¥l                                      | Forutsier sannsynlig fremtid                                     |
-| Frekvens             | Fast periodevis (ofte Ã¥rlig)                                   | Oppdateres kontinuerlig                                         |
-| Grunnlag             | Formelle antakelser og strategiske mÃ¥l                         | Analyse av faktiske tall og trender                              |
+| Formål               | Fastlegger fremtidige mål                                      | Forutsier sannsynlig fremtid                                     |
+| Frekvens             | Fast periodevis (ofte årlig)                                   | Oppdateres kontinuerlig                                         |
+| Grunnlag             | Formelle antakelser og strategiske mål                         | Analyse av faktiske tall og trender                              |
 
-Se vÃ¥r guide til [Prognose](/blogs/regnskap/hva-er-prognose "Hva er Prognose? Komplett Guide til Prognoseplanlegging").
+Se vår guide til [Prognose](/blogs/regnskap/hva-er-prognose "Hva er Prognose? Komplett Guide til Prognoseplanlegging").
 
 ## Oppsummering
 
-Et **budsjett** er et kraftig verktÃ¸y i Ã¸konomistyringen som gir bedrifter kontroll og innsikt. Ved Ã¥ forstÃ¥ de ulike budsjetttypene og fÃ¸lge en strukturert prosess, kan organisasjoner sette realistiske mÃ¥l, styre risiko og optimalisere ressursbruk.
+Et **budsjett** er et kraftig verktøy i økonomistyringen som gir bedrifter kontroll og innsikt. Ved å forstå de ulike budsjetttypene og følge en strukturert prosess, kan organisasjoner sette realistiske mål, styre risiko og optimalisere ressursbruk.
+
+
+
+
 
 
 

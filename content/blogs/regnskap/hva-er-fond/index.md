@@ -1,13 +1,13 @@
 ﻿---
 title: "Hva er Fond?"
 meta_title: "Hva er Fond?"
-meta_description: '**Fond** er en Ã¸remerket del av egenkapitalen som er bundet til et bestemt formÃ¥l eller reserve. I norsk regnskap skilles det mellom **bundne fond** og **frie...'
+meta_description: '**Fond** er en øremerket del av egenkapitalen som er bundet til et bestemt formål eller reserve. I norsk regnskap skilles det mellom **bundne fond** og **frie...'
 slug: hva-er-fond
 type: blog
 layout: pages/single
 ---
 
-**Fond** er en Ã¸remerket del av egenkapitalen som er bundet til et bestemt formÃ¥l eller reserve. I norsk regnskap skilles det mellom **bundne fond** og **frie fond**, som hver har ulike regler for disponering og bruk.
+**Fond** er en øremerket del av egenkapitalen som er bundet til et bestemt formål eller reserve. I norsk regnskap skilles det mellom **bundne fond** og **frie fond**, som hver har ulike regler for disponering og bruk.
 
 For en grundig oversikt over ulike typer fond og deres regnskapsmessige behandling, se [Hva er Fond? Ulike Typer Fond og Regnskapsbehandling](/blogs/regnskap/hva-er-fond "Hva er Fond? Ulike Typer Fond og Regnskapsbehandling").
 
@@ -15,9 +15,9 @@ For en grundig oversikt over ulike typer fond og deres regnskapsmessige behandli
 
 ## Hva er et Fond?
 
-> Et fond er en kapitalreserve som er Ã¸remerket et bestemt formÃ¥l eller sikkerhet, og inngÃ¥r som en del av egenkapitalen i balansen.
+> Et fond er en kapitalreserve som er øremerket et bestemt formål eller sikkerhet, og inngår som en del av egenkapitalen i balansen.
 
-Fond kan opprettes ved lovpÃ¥lagte krav, vedtektsfesting eller styrebeslutning, og gir oversikt over selskapets bundne eller frie midler.
+Fond kan opprettes ved lovpålagte krav, vedtektsfesting eller styrebeslutning, og gir oversikt over selskapets bundne eller frie midler.
 
 ## Klassifisering av Fond
 
@@ -28,7 +28,7 @@ Fond deles hovedsakelig i to kategorier:
 
 | Fondstype                       | Egenkapitaltype      | Beskrivelse                                                       |
 |---------------------------------|----------------------|-------------------------------------------------------------------|
-| LovpÃ¥lagt reservefond           | Bundet egenkapital   | Minimumsreserve pÃ¥ 10 % av aksjekapitalen                        |
+| Lovpålagt reservefond           | Bundet egenkapital   | Minimumsreserve på 10 % av aksjekapitalen                        |
 | [Vedtektsfestet reservefond](/blogs/regnskap/vedtekter "Vedtekter: Definisjon, Krav og Betydning i Norsk Regnskap")      | Bundet egenkapital   | Fond opprettet i selskapets vedtekter                             |
 | Oppskrivningsfond               | Bundet egenkapital   | Reserve fra omvurdering av anleggsmidler                          |
 | Fond for vurderingsforskjeller  | Bundet egenkapital   | Reserve ved omvurdering av anleggsmidler                          |
@@ -39,16 +39,20 @@ Fond deles hovedsakelig i to kategorier:
 
 ## Regnskapsmessig Behandling
 
-Ved regnskapsfÃ¸ring skal bundne fond skilles fra fri egenkapital i balansen, og disponering av disse fondene krever ofte generalforsamlings- eller styrevedtak.
+Ved regnskapsføring skal bundne fond skilles fra fri egenkapital i balansen, og disponering av disse fondene krever ofte generalforsamlings- eller styrevedtak.
 
-### Eksempel pÃ¥ balansepresentasjon
+### Eksempel på balansepresentasjon
 
-| Konto                          | BelÃ¸p      | Egenkapitalseksjon       |
+| Konto                          | Beløp      | Egenkapitalseksjon       |
 |--------------------------------|------------|---------------------------|
-| 2080 LovpÃ¥lagt reservefond     | 50 000     | Bundet egenkapital        |
+| 2080 Lovpålagt reservefond     | 50 000     | Bundet egenkapital        |
 | 2090 Disposisjonsfond          | 120 000    | Fri egenkapital           |
 
 Gjennom systematisk merking av fondstyper i kontoplanen sikres korrekt regnskapsrapportering og overholdelse av lovkrav.
+
+
+
+
 
 
 

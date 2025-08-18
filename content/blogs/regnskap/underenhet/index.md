@@ -9,18 +9,18 @@ layout: pages/single
 
 ![Illustrasjon av Underenhet](underenhet-image.svg)
 
-En **underenhet** er en del av en juridisk enhet som opererer under hovedenheten, ofte brukt for Ã¥ organisere og rapportere regnskapsinformasjon for spesifikke deler av virksomheten. Underenheter kan vÃ¦re filialer, avdelinger eller andre organisatoriske enheter som har egne oppgaver, budsjetter og rapporteringskrav.
+En **underenhet** er en del av en juridisk enhet som opererer under hovedenheten, ofte brukt for å organisere og rapportere regnskapsinformasjon for spesifikke deler av virksomheten. Underenheter kan være filialer, avdelinger eller andre organisatoriske enheter som har egne oppgaver, budsjetter og rapporteringskrav.
 
-Underenheter registreres ofte i [Enhetsregisteret](/blogs/regnskap/enhetsregisteret "Enhetsregisteret: Oversikt over enhetsregisteret i Norge") nÃ¥r de oppfyller visse kriterier. De er ogsÃ¥ sentrale i bÃ¥de [internregnskap](/blogs/regnskap/hva-er-internregnskap "Hva er Internregnskap? Guide til Intern Rapportering") og ekstern rapportering.
+Underenheter registreres ofte i [Enhetsregisteret](/blogs/regnskap/enhetsregisteret "Enhetsregisteret: Oversikt over enhetsregisteret i Norge") når de oppfyller visse kriterier. De er også sentrale i både [internregnskap](/blogs/regnskap/hva-er-internregnskap "Hva er Internregnskap? Guide til Intern Rapportering") og ekstern rapportering.
 
 ## Hva er en Underenhet?
 
-> *Underenhet* er en organisatorisk eller juridisk avdeling av en hovedenhet (morforetak) som driver virksomhet med en viss grad av selvstendighet, men uten Ã¥ vÃ¦re en selvstendig juridisk person.
+> *Underenhet* er en organisatorisk eller juridisk avdeling av en hovedenhet (morforetak) som driver virksomhet med en viss grad av selvstendighet, men uten å være en selvstendig juridisk person.
 
-**NÃ¸kkelaspekter ved underenhet:**
+**Nøkkelaspekter ved underenhet:**
 
 * Organisatorisk del av hovedenhet
-* Ikke egen juridisk person, men kan ha eget ansvarsomrÃ¥de
+* Ikke egen juridisk person, men kan ha eget ansvarsområde
 * Eget budsjett og regnskapsrapportering
 * Registreringskrav ved visse omsetningsgrenser
 
@@ -34,43 +34,47 @@ Underenheter registreres ofte i [Enhetsregisteret](/blogs/regnskap/enhetsregiste
 
 ## Registrering i Enhetsregisteret
 
-Underenheter mÃ¥ registreres i [Enhetsregisteret](/blogs/regnskap/enhetsregisteret "Enhetsregisteret: Oversikt over enhetsregisteret i Norge") hvis de har:
+Underenheter må registreres i [Enhetsregisteret](/blogs/regnskap/enhetsregisteret "Enhetsregisteret: Oversikt over enhetsregisteret i Norge") hvis de har:
 
 * Egen forretningsadresse
-* Selvstendig regnskapsfÃ¸ring
+* Selvstendig regnskapsføring
 * Fast virksomhet lokalisert utenfor hovedenhetens adresse
 
 | Kriterium            | Registreringskrav                        |
 |----------------------|------------------------------------------|
 | Forretningsadresse   | Ja                                       |
-| Egen regnskapsfÃ¸ring | Ja                                       |
+| Egen regnskapsføring | Ja                                       |
 | Fast virksomhet      | Ja                                       |
 
 ## Betydning for Regnskap og Rapportering
 
-Underenheter gir **detaljert innsikt** i virksomhetens ulike deler og stÃ¸tter:
+Underenheter gir **detaljert innsikt** i virksomhetens ulike deler og støtter:
 
-* Kostnads- og lÃ¸nnsomhetsanalyser per underenhet
-* Budsjettkontroll og ansvarliggjÃ¸ring
+* Kostnads- og lønnsomhetsanalyser per underenhet
+* Budsjettkontroll og ansvarliggjøring
 * Intern og ekstern rapportering med avviksanalyse
-* Oppfyllelse av lovpÃ¥lagte rapporteringskrav
+* Oppfyllelse av lovpålagte rapporteringskrav
 
 ## Illustrasjon av Underenhetstruktur
 
 ![Hierarki for Underenhet](underenhet-hierarki.svg)
 
-Figuren viser hvordan en underenhet er plassert under hovedenheten med egne ansvarsomrÃ¥der.
+Figuren viser hvordan en underenhet er plassert under hovedenheten med egne ansvarsområder.
 
-## Praktiske RÃ¥d for HÃ¥ndtering av Underenheter
+## Praktiske Råd for Håndtering av Underenheter
 
-1. **Definer klare ansvarsomrÃ¥der:** Spesifiser formÃ¥l og rapporteringskrav for hver underenhet.
+1. **Definer klare ansvarsområder:** Spesifiser formål og rapporteringskrav for hver underenhet.
 2. **Etabler budsjett og rapporteringsrutiner:** Utarbeid egne budsjetter og maler for regnskapsrapportering.
-3. **SÃ¸rg for korrekt registrering:** Kontroller om underenheten skal registreres i Enhetsregisteret.
-4. **Integrer i internregnskapet:** Bruk underenheter for Ã¥ segmentere analyser i internregnskapet.
+3. **Sørg for korrekt registrering:** Kontroller om underenheten skal registreres i Enhetsregisteret.
+4. **Integrer i internregnskapet:** Bruk underenheter for å segmentere analyser i internregnskapet.
 
 ## Oppsummering
 
-En **underenhet** er en viktig komponent i moderne regnskapsorganisering, som gir mulighet for detaljert analyse og styring av virksomhetens ulike deler. Riktig etablering, registrering og rapportering av underenheter sikrer bÃ¥de intern kontroll og ekstern etterlevelse.
+En **underenhet** er en viktig komponent i moderne regnskapsorganisering, som gir mulighet for detaljert analyse og styring av virksomhetens ulike deler. Riktig etablering, registrering og rapportering av underenheter sikrer både intern kontroll og ekstern etterlevelse.
+
+
+
+
 
 
 

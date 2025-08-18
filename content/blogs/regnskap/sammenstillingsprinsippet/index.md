@@ -7,7 +7,7 @@ type: blog
 layout: pages/single
 ---
 
-**Sammenstillingsprinsippet** er et grunnleggende regnskapsprinsipp som krever at **kostnader** som er direkte knyttet til **inntektene** de genererer, regnskapsfÃ¸res i samme periode. Dette gir et mest mulig korrekt bilde av virksomhetens lÃ¸nnsomhet og finansielle stilling.
+**Sammenstillingsprinsippet** er et grunnleggende regnskapsprinsipp som krever at **kostnader** som er direkte knyttet til **inntektene** de genererer, regnskapsføres i samme periode. Dette gir et mest mulig korrekt bilde av virksomhetens lønnsomhet og finansielle stilling.
 
 For mer om hvordan inntekter og kostnader fordeles over perioder, se [Hva er Periodisering? Prinsipper og Praktiske Eksempler](/blogs/regnskap/hva-er-periodisering "Hva er Periodisering? Prinsipper og Praktiske Eksempler").
 For en oversikt over grunnleggende regnskapsprinsipper, se [God Regnskapsskikk “ Prinsipper og Metoder](/blogs/regnskap/god-regnskapsskikk "God Regnskapsskikk “ Prinsipper og Metoder").
@@ -16,43 +16,43 @@ For en oversikt over grunnleggende regnskapsprinsipper, se [God Regnskapsskikk �
 
 ## Hva er Sammenstillingsprinsippet?
 
-Sammenstillingsprinsippet, ogsÃ¥ kjent som *matching-prinsippet*, handler om Ã¥ **match**e **kostnader** med de **inntektene** de er med pÃ¥ Ã¥ skape, i samme regnskapsperiode. Prinsippet er essensielt for Ã¥ oppnÃ¥ et rettvisende resultat og for Ã¥ unngÃ¥ misvisende resultater ved at kostnader og inntekter bokfÃ¸res i ulike perioder.
+Sammenstillingsprinsippet, også kjent som *matching-prinsippet*, handler om å **match**e **kostnader** med de **inntektene** de er med på å skape, i samme regnskapsperiode. Prinsippet er essensielt for å oppnå et rettvisende resultat og for å unngå misvisende resultater ved at kostnader og inntekter bokføres i ulike perioder.
 
 | **Aspekt**                       | **Sammenstillingsprinsipp**                         | **Kontantprinsipp**                                    |
 |----------------------------------|------------------------------------------------------|--------------------------------------------------------|
-| **Registreringstidspunkt**      | NÃ¥r kostnad og tilhÃ¸rende inntekt oppstÃ¥r            | NÃ¥r betaling skjer                                      |
-| **ResultatnÃ¸yaktighet**         | Gir rettvisende oversikt over lÃ¸nnsomhet             | Kan fÃ¸re til svingninger basert pÃ¥ betalingstidspunkt    |
-| **Kompleksitet**                | HÃ¸yere (krever vurdering av sammenheng)              | Lavere (enkelt Ã¥ registrere ved betaling)               |
-| **PÃ¥krevd for**                 | Store og mellomstore foretak, etter bokfÃ¸ringsloven | Mindre foretak, etter bokfÃ¸ringsloven                   |
+| **Registreringstidspunkt**      | Når kostnad og tilhørende inntekt oppstår            | Når betaling skjer                                      |
+| **Resultatnøyaktighet**         | Gir rettvisende oversikt over lønnsomhet             | Kan føre til svingninger basert på betalingstidspunkt    |
+| **Kompleksitet**                | Høyere (krever vurdering av sammenheng)              | Lavere (enkelt å registrere ved betaling)               |
+| **Påkrevd for**                 | Store og mellomstore foretak, etter bokføringsloven | Mindre foretak, etter bokføringsloven                   |
 
 ## Juridisk og Normativt Grunnlag
 
-Sammenstillingsprinsippet er nedfelt i norsk [bokfÃ¸ringslov](/blogs/regnskap/hva-er-bokforingsloven "Hva er BokfÃ¸ringsloven? En Komplett Guide til Norsk BokfÃ¸ringslovgivning") og gjenspeiles i god regnskapsskikk som beskrevet i [God Regnskapsskikk “ Prinsipper og Metoder](/blogs/regnskap/god-regnskapsskikk "God Regnskapsskikk “ Prinsipper og Metoder"). Principippet er ogsÃ¥ en viktig del av [periodiseringsprinsippet](/blogs/regnskap/hva-er-periodisering "Hva er Periodisering? Prinsipper og Praktiske Eksempler").
+Sammenstillingsprinsippet er nedfelt i norsk [bokføringslov](/blogs/regnskap/hva-er-bokforingsloven "Hva er Bokføringsloven? En Komplett Guide til Norsk Bokføringslovgivning") og gjenspeiles i god regnskapsskikk som beskrevet i [God Regnskapsskikk “ Prinsipper og Metoder](/blogs/regnskap/god-regnskapsskikk "God Regnskapsskikk “ Prinsipper og Metoder"). Principippet er også en viktig del av [periodiseringsprinsippet](/blogs/regnskap/hva-er-periodisering "Hva er Periodisering? Prinsipper og Praktiske Eksempler").
 
-## FormÃ¥l og Fordeler
+## Formål og Fordeler
 
 Sammenstilling av kostnader og inntekter gir flere viktige fordeler:
 
-* **Riktig resultatmÃ¥ling** “ Bedriften fÃ¥r et mer nÃ¸yaktig bilde av lÃ¸nnsomheten.
+* **Riktig resultatmåling** “ Bedriften får et mer nøyaktig bilde av lønnsomheten.
 * **Sammenlignbarhet** “ Rapporter fra ulike perioder kan sammenlignes uten forvrengning.
 * **Bedre beslutningsgrunnlag** “ Ledelsen kan fatte mer informerte beslutninger.
-* **Overholdelse av regelverk** “ Oppfyller krav i bokfÃ¸ringsloven og god regnskapsskikk.
+* **Overholdelse av regelverk** “ Oppfyller krav i bokføringsloven og god regnskapsskikk.
 
 ## Praktisk Anvendelse
 
-I praksis innebÃ¦rer sammenstillingsprinsippet at man vurderer hvilke kostnader som direkte hÃ¸rer sammen med en inntekt, og bokfÃ¸rer dem i samme periode. Eksempler inkluderer:
+I praksis innebærer sammenstillingsprinsippet at man vurderer hvilke kostnader som direkte hører sammen med en inntekt, og bokfører dem i samme periode. Eksempler inkluderer:
 
 | **Eksempel**                          | **Inntekt**                  | **Kostnad**                  |
 |---------------------------------------|------------------------------|------------------------------|
-| Produksjonssalg                       | Salgsinntekt                  | MaterialinnkjÃ¸p              |
+| Produksjonssalg                       | Salgsinntekt                  | Materialinnkjøp              |
 | Prosjektleveranse                     | Fakturert prosjektinntekt     | Timekostnad for konsulenter  |
-| Abonnementstjenester                  | Abonnementsavgift             | Andel av markedsfÃ¸ringskostnader |
+| Abonnementstjenester                  | Abonnementsavgift             | Andel av markedsføringskostnader |
 
 ![Matching av kostnader og inntekter](matching-oversikt.svg)
 
 ## Forhold til Andre Prinsipper
 
-Sammenstillingsprinsippet henger nÃ¦rt sammen med:
+Sammenstillingsprinsippet henger nært sammen med:
 
 * [Opptjeningsprinsippet](/blogs/regnskap/hva-er-opptjeningsprinsipp "Hva er Opptjeningsprinsippet? Komplett Guide")
 * [Periodiseringsprinsippet](/blogs/regnskap/hva-er-periodisering "Hva er Periodisering? Prinsipper og Praktiske Eksempler")
@@ -60,7 +60,11 @@ Sammenstillingsprinsippet henger nÃ¦rt sammen med:
 
 ## Oppsummering
 
-**Sammenstillingsprinsippet** er fundamentalt for Ã¥ sikre at regnskapet gir et korrekt og sammenlignbart bilde av virksomhetens Ã¸konomiske situasjon. Ved Ã¥ matche kostnader med tilhÃ¸rende inntekter i samme periode, overholder man bÃ¥de lovkrav og prinsipper for god regnskapsskikk.
+**Sammenstillingsprinsippet** er fundamentalt for å sikre at regnskapet gir et korrekt og sammenlignbart bilde av virksomhetens økonomiske situasjon. Ved å matche kostnader med tilhørende inntekter i samme periode, overholder man både lovkrav og prinsipper for god regnskapsskikk.
+
+
+
+
 
 
 

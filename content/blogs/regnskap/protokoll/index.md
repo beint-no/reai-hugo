@@ -1,40 +1,40 @@
 ﻿---
 title: "Protokoll"
 meta_title: "Protokoll"
-meta_description: '**Protokoll** er det formelle dokumentet som **dokumenterer** vedtak, diskusjoner og beslutningsprosesser i **generalforsamlinger**, **styremÃ¸ter** og andre fo...'
+meta_description: '**Protokoll** er det formelle dokumentet som **dokumenterer** vedtak, diskusjoner og beslutningsprosesser i **generalforsamlinger**, **styremøter** og andre fo...'
 slug: protokoll
 type: blog
 layout: pages/single
 ---
 
-**Protokoll** er det formelle dokumentet som **dokumenterer** vedtak, diskusjoner og beslutningsprosesser i **generalforsamlinger**, **styremÃ¸ter** og andre formelle selskapsorganer. En korrekt fÃ¸rt protokoll er avgjÃ¸rende for Ã¥ sikre **sporbarhet** og **gjennomsiktighet** i regnskapet.
+**Protokoll** er det formelle dokumentet som **dokumenterer** vedtak, diskusjoner og beslutningsprosesser i **generalforsamlinger**, **styremøter** og andre formelle selskapsorganer. En korrekt ført protokoll er avgjørende for å sikre **sporbarhet** og **gjennomsiktighet** i regnskapet.
 
 ![Protokoll](protokoll-image.svg)
 
 ## Hva er protokoll?
 
-En **protokoll** er et offisielt mÃ¸tereferat som dokumenterer hvem som var til stede, hvilke saker som ble behandlet, diskusjoner, vedtak og stemmeresultater. Protokoller er et lovpÃ¥lagt krav for flere typer formelle mÃ¸ter i norske selskaper, blant annet ordinÃ¦re og ekstraordinÃ¦re generalforsamlinger og styremÃ¸ter.
+En **protokoll** er et offisielt møtereferat som dokumenterer hvem som var til stede, hvilke saker som ble behandlet, diskusjoner, vedtak og stemmeresultater. Protokoller er et lovpålagt krav for flere typer formelle møter i norske selskaper, blant annet ordinære og ekstraordinære generalforsamlinger og styremøter.
 
 ## Formelle krav til protokoll
 
-For Ã¥ oppfylle lovkrav mÃ¥ protokollene inneholde fÃ¸lgende:
+For å oppfylle lovkrav må protokollene inneholde følgende:
 
-*   Skal fÃ¸res for bÃ¥de **ordinÃ¦re og ekstraordinÃ¦re generalforsamlinger** (se [Hva er generalforsamling?](/blogs/regnskap/hva-er-generalforsamling "Hva er generalforsamling? Guide til generalforsamling")).
-*   Skal fÃ¸res for **styremÃ¸ter** i henhold til [Aksjeloven](/blogs/regnskap/hva-er-aksjeloven "Hva er Aksjeloven? Regler for Aksjeselskaper i Norge").
-*   MÃ¥ angi dato, sted, deltakerliste, behandlede saker, vedtak og stemmeresultater.
-*   Protokollen skal underskrives av mÃ¸teleder og minst ett annet mÃ¸tevalgt medlem.
-*   Oppbevares i minst **10 Ã¥r** etter regnskapsÃ¥rets slutt i henhold til [BokfÃ¸ringsloven](/blogs/regnskap/hva-er-bokforingsloven "Hva er BokfÃ¸ringsloven? Krav til bokfÃ¸ring og oppbevaring").
+*   Skal føres for både **ordinære og ekstraordinære generalforsamlinger** (se [Hva er generalforsamling?](/blogs/regnskap/hva-er-generalforsamling "Hva er generalforsamling? Guide til generalforsamling")).
+*   Skal føres for **styremøter** i henhold til [Aksjeloven](/blogs/regnskap/hva-er-aksjeloven "Hva er Aksjeloven? Regler for Aksjeselskaper i Norge").
+*   Må angi dato, sted, deltakerliste, behandlede saker, vedtak og stemmeresultater.
+*   Protokollen skal underskrives av møteleder og minst ett annet møtevalgt medlem.
+*   Oppbevares i minst **10 år** etter regnskapsårets slutt i henhold til [Bokføringsloven](/blogs/regnskap/hva-er-bokforingsloven "Hva er Bokføringsloven? Krav til bokføring og oppbevaring").
 
 
 ## Hovedkomponenter i en protokoll
 
 | Komponent           | Beskrivelse                                   |
 |---------------------|-----------------------------------------------|
-| **MÃ¸teinformasjon**   | Dato, tid og sted                             |
-| **Deltakere**         | Navn pÃ¥ mÃ¸tedeltakere og deres roller         |
+| **Møteinformasjon**   | Dato, tid og sted                             |
+| **Deltakere**         | Navn på møtedeltakere og deres roller         |
 | **Behandlede saker**  | Overskrift og innhold for hver sak            |
 | **Vedtak og stemmer** | Resultat av avstemming                         |
-| **Underskrifter**     | Signaturer fra mÃ¸teleder og mÃ¸tevalgte medlemmer |
+| **Underskrifter**     | Signaturer fra møteleder og møtevalgte medlemmer |
 
 ![Hovedkomponenter i protokoll](protokoll-komponenter.svg)
 
@@ -42,34 +42,34 @@ For Ã¥ oppfylle lovkrav mÃ¥ protokollene inneholde fÃ¸lgende:
 
 | Rolle            | Ansvar                                       |
 |------------------|-----------------------------------------------|
-| MÃ¸teleder        | Lede mÃ¸tet og sikre korrekt prosess          |
-| ProtokollfÃ¸rer   | Skrive protokoll og dokumentere vedtak       |
+| Møteleder        | Lede møtet og sikre korrekt prosess          |
+| Protokollfører   | Skrive protokoll og dokumentere vedtak       |
 | Styremedlemmer   | Diskutere saker og avgi stemmer               |
-| AksjonÃ¦rer       | Delta, diskutere og stemme                   |
+| Aksjonærer       | Delta, diskutere og stemme                   |
 
-![Roller i protokollfÃ¸ring](protokoll-roller.svg)
+![Roller i protokollføring](protokoll-roller.svg)
 
 ## Protokollprosessen
 
 1. **Innkalling og dagsorden:** Distribuer innkalling i samsvar med [Vedtekter](/blogs/regnskap/hva-er-vedtekter-for-aksjeselskap "Hva er Vedtekter for Aksjeselskap?").
-2. **GjennomfÃ¸ring av mÃ¸tet:** Lede mÃ¸tet, behandle saker og registrere diskusjoner.
-3. **Utarbeidelse av protokoll:** ProtokollfÃ¸rer skriver referat med alle nÃ¸dvendige detaljer.
-4. **Underskrift:** MÃ¸teleder og utpekte medlemmer underskriver protokollen.
-5. **Distribusjon og oppbevaring:** Arkiver protokollen i samsvar med [BokfÃ¸ringsloven](/blogs/regnskap/hva-er-bokforingsloven "Hva er BokfÃ¸ringsloven? Krav til bokfÃ¸ring og oppbevaring") og [Oppbevaring av regnskapsmateriale](/blogs/regnskap/oppbevaring-av-regnskapsmateriale "Oppbevaring av regnskapsmateriale").
+2. **Gjennomføring av møtet:** Lede møtet, behandle saker og registrere diskusjoner.
+3. **Utarbeidelse av protokoll:** Protokollfører skriver referat med alle nødvendige detaljer.
+4. **Underskrift:** Møteleder og utpekte medlemmer underskriver protokollen.
+5. **Distribusjon og oppbevaring:** Arkiver protokollen i samsvar med [Bokføringsloven](/blogs/regnskap/hva-er-bokforingsloven "Hva er Bokføringsloven? Krav til bokføring og oppbevaring") og [Oppbevaring av regnskapsmateriale](/blogs/regnskap/oppbevaring-av-regnskapsmateriale "Oppbevaring av regnskapsmateriale").
 
 ![Flyt for protokollprosess](protokoll-prosess.svg)
 
 ## Oppbevaring av protokoll
 
-I henhold til [BokfÃ¸ringsloven](/blogs/regnskap/hva-er-bokforingsloven "Hva er BokfÃ¸ringsloven? Krav til bokfÃ¸ring og oppbevaring") skal protokoller oppbevares i minst ti Ã¥r etter regnskapsÃ¥rets slutt. Protokoller regnes som regnskapsmateriale og mÃ¥ vÃ¦re tilgjengelige ved bokettersyn.
+I henhold til [Bokføringsloven](/blogs/regnskap/hva-er-bokforingsloven "Hva er Bokføringsloven? Krav til bokføring og oppbevaring") skal protokoller oppbevares i minst ti år etter regnskapsårets slutt. Protokoller regnes som regnskapsmateriale og må være tilgjengelige ved bokettersyn.
 
 ## Beste praksis
 
-*   **Standardiser maler:** Bruk en fast mal for Ã¥ sikre konsistens.
+*   **Standardiser maler:** Bruk en fast mal for å sikre konsistens.
 *   **Digital arkivering:** Vurder elektroniske protokoller og verifiser at digitale signaturer er gyldige.
-*   **Versjonskontroll:** SÃ¸rg for at endringer er dokumentert og tidligere versjoner arkiveres.
+*   **Versjonskontroll:** Sørg for at endringer er dokumentert og tidligere versjoner arkiveres.
 *   **Sikker oppbevaring:** Beskytt protokoller mot uautorisert tilgang og datatap.
-*   **Regelmessig opplÃ¦ring:** Gi opplÃ¦ring i korrekt protokollfÃ¸ring for nÃ¸kkelpersonell.
+*   **Regelmessig opplæring:** Gi opplæring i korrekt protokollføring for nøkkelpersonell.
 
 ## Relaterte artikler
 
@@ -78,6 +78,10 @@ I henhold til [BokfÃ¸ringsloven](/blogs/regnskap/hva-er-bokforingsloven "Hva e
 * [Hva er aksjeloven?](/blogs/regnskap/hva-er-aksjeloven "Hva er Aksjeloven? Regler for Aksjeselskaper i Norge")
 * [Oppbevaring av regnskapsmateriale](/blogs/regnskap/oppbevaring-av-regnskapsmateriale "Oppbevaring av regnskapsmateriale")
 * [Noter](/blogs/regnskap/noter "Noter “ Guide til regnskapsnoter")
+
+
+
+
 
 
 

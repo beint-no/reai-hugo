@@ -1,70 +1,74 @@
 ﻿---
-title: "Hva er BruttolÃ¸nn?"
-meta_title: "Hva er BruttolÃ¸nn?"
-meta_description: '**BruttolÃ¸nn** er den totale lÃ¸nnen en ansatt tjener fÃ¸r fradrag av skatt, avgifter og andre kostnader. BruttolÃ¸nn danner grunnlaget for [A‘meldingen](/bl...'
+title: "Hva er Bruttolønn?"
+meta_title: "Hva er Bruttolønn?"
+meta_description: '**Bruttolønn** er den totale lønnen en ansatt tjener før fradrag av skatt, avgifter og andre kostnader. Bruttolønn danner grunnlaget for [A‘meldingen](/bl...'
 slug: hva-er-bruttolonn
 type: blog
 layout: pages/single
 ---
 
-**BruttolÃ¸nn** er den totale lÃ¸nnen en ansatt tjener fÃ¸r fradrag av skatt, avgifter og andre kostnader. BruttolÃ¸nn danner grunnlaget for [A‘meldingen](/blogs/regnskap/hva-er-a-melding "Hva er A‘melding? Komplett Guide til Innlevering og Frister"), beregning av [arbeidsgiveravgift](/blogs/regnskap/hva-er-arbeidsgiveravgift "Hva er Arbeidsgiveravgift? Definisjon og Beregning i Norge"), feriepenger og flere lÃ¸nnsrelaterte nÃ¸kkeltall.
+**Bruttolønn** er den totale lønnen en ansatt tjener før fradrag av skatt, avgifter og andre kostnader. Bruttolønn danner grunnlaget for [A‘meldingen](/blogs/regnskap/hva-er-a-melding "Hva er A‘melding? Komplett Guide til Innlevering og Frister"), beregning av [arbeidsgiveravgift](/blogs/regnskap/hva-er-arbeidsgiveravgift "Hva er Arbeidsgiveravgift? Definisjon og Beregning i Norge"), feriepenger og flere lønnsrelaterte nøkkeltall.
 
-![Hva er BruttolÃ¸nn?](hva-er-bruttolonn-image.svg)
+![Hva er Bruttolønn?](hva-er-bruttolonn-image.svg)
 
-## Hva er BruttolÃ¸nn?
+## Hva er Bruttolønn?
 
-BruttolÃ¸nn er det totale vederlaget fÃ¸r alle fradrag er trukket, inkludert skattetrekk, trygdeavgift, pensjonsinnskudd og andre personalegoder. Dette skiller seg fra [nettolÃ¸nn](/blogs/regnskap/nettolonn "Hva er NettolÃ¸nn? Definisjon, Beregning og Praktisk Eksempler"), som er belÃ¸pet som utbetales til den ansatte etter fradrag.
+Bruttolønn er det totale vederlaget før alle fradrag er trukket, inkludert skattetrekk, trygdeavgift, pensjonsinnskudd og andre personalegoder. Dette skiller seg fra [nettolønn](/blogs/regnskap/nettolonn "Hva er Nettolønn? Definisjon, Beregning og Praktisk Eksempler"), som er beløpet som utbetales til den ansatte etter fradrag.
 
-## Beregning av BruttolÃ¸nn
+## Beregning av Bruttolønn
 
-BruttolÃ¸nn beregnes vanligvis som avtalt Ã¥rs- eller mÃ¥nedslÃ¸nn fordelt pÃ¥ perioden, eller som summen av timelÃ¸nn og eventuelle tillegg:
+Bruttolønn beregnes vanligvis som avtalt års- eller månedslønn fordelt på perioden, eller som summen av timelønn og eventuelle tillegg:
 
 | Komponent               | Beskrivelse                                        |
 |-------------------------|----------------------------------------------------|
-| **FastlÃ¸nn**            | Avtalt mÃ¥nedslÃ¸nn eller Ã¥rslÃ¸nn delt pÃ¥ antall perioder |
-| **TimelÃ¸nn**            | LÃ¸nn per time Ã— antall arbeidede timer              |
-| **Overtidstillegg**     | Prosentvis tillegg av timelÃ¸nn for overtidstimer    |
+| **Fastlønn**            | Avtalt månedslønn eller årslønn delt på antall perioder |
+| **Timelønn**            | Lønn per time Ã— antall arbeidede timer              |
+| **Overtidstillegg**     | Prosentvis tillegg av timelønn for overtidstimer    |
 | **Bonus og provisjon**  | Ytelser ut fra prestasjon eller salgsvolum          |
 | **Naturalytelser**      | Firmabil, telefon, forsikringer mv.                 |
 
-## Vanlige fradrag fra BruttolÃ¸nn
+## Vanlige fradrag fra Bruttolønn
 
-FÃ¸r utbetaling til den ansatte foretas flere obligatoriske fradrag fra bruttolÃ¸nn:
+Før utbetaling til den ansatte foretas flere obligatoriske fradrag fra bruttolønn:
 
 * **Skattetrekk:** Beregnes etter skattekort og skattetabeller.
-* **Trygdeavgift:** LovpÃ¥lagt avgift til folketrygden.
+* **Trygdeavgift:** Lovpålagt avgift til folketrygden.
 * **Pensjonsinnskudd:** Obligatorisk tjenestepensjon.
 * **Fagforeningskontingent:** Fradrag ved medlemskap.
 
-| Fradragstype           | Prosent / BelÃ¸p               | FormÃ¥l                                 |
+| Fradragstype           | Prosent / Beløp               | Formål                                 |
 |------------------------|-------------------------------|----------------------------------------|
 | Skattetrekk            | Varierer etter skattekort     | Skatteinnbetaling                      |
-| Trygdeavgift           | 8,2â€¯% (2024)                  | Finansiering av folketrygden           |
-| Tjenestepensjon        | Minimum 2â€¯% av bruttolÃ¸nn     | Pensjonssparing                        |
-| Fagforeningskontingent | Avtalt belÃ¸p eller %          | Medlemsfordeler                        |
+| Trygdeavgift           | 8,2–¯% (2024)                  | Finansiering av folketrygden           |
+| Tjenestepensjon        | Minimum 2–¯% av bruttolønn     | Pensjonssparing                        |
+| Fagforeningskontingent | Avtalt beløp eller %          | Medlemsfordeler                        |
 
 ## Praktiske eksempler
 
-Her er et eksempel pÃ¥ beregning av bruttolÃ¸nn for en mÃ¥ned:
+Her er et eksempel på beregning av bruttolønn for en måned:
 
-| Beskrivelse                  | BelÃ¸p       |
+| Beskrivelse                  | Beløp       |
 |------------------------------|-------------|
-| Ã…rslÃ¸nn                      | 600â€¯000 kr  |
-| MÃ¥nedsgrunnlag (600â€¯000 / 12)| 50â€¯000 kr   |
-| Overtidstillegg (10â€¯ %)      | 5â€¯000 kr    |
-| **Total BruttolÃ¸nn**         | **55â€¯000 kr** |
+| Årslønn                      | 600–¯000 kr  |
+| Månedsgrunnlag (600–¯000 / 12)| 50–¯000 kr   |
+| Overtidstillegg (10–¯ %)      | 5–¯000 kr    |
+| **Total Bruttolønn**         | **55–¯000 kr** |
 
 ## Praktiske anvendelser
 
-BruttolÃ¸nn er sentralt i flere Ã¸konomiske og administrative prosesser:
+Bruttolønn er sentralt i flere økonomiske og administrative prosesser:
 
-* **Budsjettering og prognoser:** Planlegge lÃ¸nnskostnader.
-* **A‘melding:** MÃ¥nedlig rapportering til Skatteetaten.
-* **Arbeidsgiveravgift:** Beregning av satser basert pÃ¥ bruttolÃ¸nn.
-* **Feriepenger:** 12â€¯% av feriepengegivende bruttolÃ¸nn.
+* **Budsjettering og prognoser:** Planlegge lønnskostnader.
+* **A‘melding:** Månedlig rapportering til Skatteetaten.
+* **Arbeidsgiveravgift:** Beregning av satser basert på bruttolønn.
+* **Feriepenger:** 12–¯% av feriepengegivende bruttolønn.
 
-For en mer samlet oversikt over lÃ¸nnsbegreper, se [LÃ¸nn i regnskap](/blogs/regnskap/hva-er-lonn "Hva er LÃ¸nn i Regnskap? Komplett Guide til Beregning og RegnskapsfÃ¸ring").
-Se [Hva er LÃ¸nn](/blogs/regnskap/hva-er-lonn "Hva er LÃ¸nn i Regnskap? Komplett Guide til LÃ¸nnsformer, Beregning og RegnskapsfÃ¸ring").
+For en mer samlet oversikt over lønnsbegreper, se [Lønn i regnskap](/blogs/regnskap/hva-er-lonn "Hva er Lønn i Regnskap? Komplett Guide til Beregning og Regnskapsføring").
+Se [Hva er Lønn](/blogs/regnskap/hva-er-lonn "Hva er Lønn i Regnskap? Komplett Guide til Lønnsformer, Beregning og Regnskapsføring").
+
+
+
+
 
 
 

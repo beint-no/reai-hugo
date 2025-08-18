@@ -1,27 +1,27 @@
 ﻿---
 title: "Konto 3900 - Annen driftsrelatert inntekt, avgiftspliktig"
 meta_title: "3900-annen-driftsrelatert-inntekt-avgiftspliktig"
-meta_description: '**Konto 3900 - Annen driftsrelatert inntekt, avgiftspliktig** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **andre driftsrelaterte inntek...'
+meta_description: '**Konto 3900 - Annen driftsrelatert inntekt, avgiftspliktig** er en konto i Norsk Standard Kontoplan som brukes til å registrere **andre driftsrelaterte inntek...'
 slug: 3900-annen-driftsrelatert-inntekt-avgiftspliktig
 type: blog
 layout: pages/single
 ---
 
-**Konto 3900 - Annen driftsrelatert inntekt, avgiftspliktig** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **andre driftsrelaterte inntekter** som er underlagt merverdiavgift.
+**Konto 3900 - Annen driftsrelatert inntekt, avgiftspliktig** er en konto i Norsk Standard Kontoplan som brukes til å registrere **andre driftsrelaterte inntekter** som er underlagt merverdiavgift.
 
 ![Illustrasjon av konto 3900 Annen driftsrelatert inntekt, avgiftspliktig](3900-annen-driftsrelatert-inntekt-avgiftspliktig-image.svg)
 
 ## Hva er Annen driftsrelatert inntekt, avgiftspliktig?
 
-*Annen driftsrelatert inntekt, avgiftspliktig* omfatter avgiftspliktige gebyrer, tilleggsavgifter og andre driftsinntekter som ikke dekkes av Ã¸vrige konti i standardkontoplanen.
+*Annen driftsrelatert inntekt, avgiftspliktig* omfatter avgiftspliktige gebyrer, tilleggsavgifter og andre driftsinntekter som ikke dekkes av øvrige konti i standardkontoplanen.
 
-## NÃ¥r skal konto 3900 benyttes?
+## Når skal konto 3900 benyttes?
 
-* NÃ¥r virksomheten mottar **avgiftspliktige tilleggsinntekter** utenom ordinÃ¦rt varesalg eller tjenesteleveranse.
+* Når virksomheten mottar **avgiftspliktige tilleggsinntekter** utenom ordinært varesalg eller tjenesteleveranse.
 * Ved registrering av **gebyrer**, *tilleggsavgifter* eller serviceavgifter som er rapporteringspliktige for MVA.
 * I periodisk MVA-rapportering for driftsinntekter.
 
-## RegnskapsfÃ¸ring
+## Regnskapsføring
 
 | Transaksjon                                      | Debet                         | Kredit                                          |
 |--------------------------------------------------|-------------------------------|-------------------------------------------------|
@@ -32,25 +32,30 @@ layout: pages/single
 
 | Gebyr uten MVA      | MVA (25 %) | Total inkl. MVA |
 |---------------------|------------|-----------------|
-| 1â€¯000 NOK           | 250 NOK    | 1â€¯250 NOK       |
+| 1–¯000 NOK           | 250 NOK    | 1–¯250 NOK       |
 
 ## Fordeler ved korrekt bruk
 
 * **Presis rapportering** av avgiftspliktige driftsinntekter
 * **Bedre sporbarhet** for administrative serviceavgifter
-* Overholdelse av **lovpÃ¥lagte krav** for merverdiavgift
+* Overholdelse av **lovpålagte krav** for merverdiavgift
 
 ## Intern lenking og relaterte kontoer
 
 * [Konto 3900 - Annen driftsrelatert inntekt, avgiftspliktig](/blogs/kontoplan/3900-annen-driftsrelatert-inntekt-avgiftspliktig "Konto 3900 - Annen driftsrelatert inntekt, avgiftspliktig")
-* [Konto 3060 - Uttak av varer avgiftspliktig hÃ¸y sats](/blogs/kontoplan/3060-uttak-av-varer-avgiftspliktig-hoy-sats "Konto 3060 - Uttak av varer avgiftspliktig hÃ¸y sats")
-* [Konto 3070 - Uttak av tjenester avgiftspliktig hÃ¸y sats](/blogs/kontoplan/3070-uttak-av-tjenester-avgiftspliktig-hoy-sats "Konto 3070 - Uttak av tjenester avgiftspliktig hÃ¸y sats")
+* [Konto 3060 - Uttak av varer avgiftspliktig høy sats](/blogs/kontoplan/3060-uttak-av-varer-avgiftspliktig-hoy-sats "Konto 3060 - Uttak av varer avgiftspliktig høy sats")
+* [Konto 3070 - Uttak av tjenester avgiftspliktig høy sats](/blogs/kontoplan/3070-uttak-av-tjenester-avgiftspliktig-hoy-sats "Konto 3070 - Uttak av tjenester avgiftspliktig høy sats")
 * [Konto 3080 - Rabatter og annen salgsinntektsreduksjon avgiftspliktig](/blogs/kontoplan/3080-rabatter-og-annen-salgsinntektsred-avgiftspl "Konto 3080 - Rabatter og annen salgsinntektsreduksjon avgiftspliktig")
 * [Konto 3090 - Refunderbare utlegg for kjopers regning, avgiftspliktig](/blogs/kontoplan/3090-refunderbare-utlegg-for-kjopers-regning-avgiftspl "Konto 3090 - Refunderbare utlegg for kjopers regning, avgiftspliktig")
-* [Konto 3910 - UtgÃ¥ende porto, avgiftspliktig](/blogs/kontoplan/3910-utgaende-porto-avgiftspliktig "Konto 3910 - UtgÃ¥ende porto, avgiftspliktig")
-* [Konto 3920 - UtgÃ¥ende gebyrer, avgiftspliktig](/blogs/kontoplan/3920-utgaende-gebyrer-avgiftspliktig "Konto 3920 - UtgÃ¥ende gebyrer, avgiftspliktig")
+* [Konto 3910 - Utgående porto, avgiftspliktig](/blogs/kontoplan/3910-utgaende-porto-avgiftspliktig "Konto 3910 - Utgående porto, avgiftspliktig")
+* [Konto 3920 - Utgående gebyrer, avgiftspliktig](/blogs/kontoplan/3920-utgaende-gebyrer-avgiftspliktig "Konto 3920 - Utgående gebyrer, avgiftspliktig")
 * [Konto 4160 - Frakt, toll og spedisjon](/blogs/kontoplan/4160-frakt-toll-og-spedisjon "Konto 4160 - Frakt, toll og spedisjon")
 * [Konto 3950 - Annen driftsrelatert inntekt, avgiftsfritt](/blogs/kontoplan/3950-annen-driftsrelatert-inntekt-avgiftsfritt "Konto 3950 - Annen driftsrelatert inntekt, avgiftsfritt")
 * [Hva er Driftsinntekter?](/blogs/regnskap/hva-er-driftsinntekter "Hva er Driftsinntekter? Komplett Guide til Driftsinntekter i Regnskap")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+
+
+
+
+
 

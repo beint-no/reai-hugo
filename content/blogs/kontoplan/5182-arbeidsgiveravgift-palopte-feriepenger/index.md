@@ -1,66 +1,71 @@
 ﻿---
-title: "Konto 5182 - Arbeidsgiveravgift pÃ¥lÃ¸pte feriepenger"
+title: "Konto 5182 - Arbeidsgiveravgift påløpte feriepenger"
 meta_title: "5182-arbeidsgiveravgift-palopte-feriepenger"
-meta_description: '**Konto 5182 - Arbeidsgiveravgift pÃ¥lÃ¸pte feriepenger** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til Ã¥ registrere **pÃ¥lÃ¸pt arbeidsg...'
+meta_description: '**Konto 5182 - Arbeidsgiveravgift påløpte feriepenger** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **påløpt arbeidsg...'
 slug: 5182-arbeidsgiveravgift-palopte-feriepenger
 type: blog
 layout: pages/single
 ---
 
-**Konto 5182 - Arbeidsgiveravgift pÃ¥lÃ¸pte feriepenger** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til Ã¥ registrere **pÃ¥lÃ¸pt arbeidsgiveravgift** knyttet til **feriepenger**.
+**Konto 5182 - Arbeidsgiveravgift påløpte feriepenger** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **påløpt arbeidsgiveravgift** knyttet til **feriepenger**.
 
-![Illustrasjon av konto 5182 Arbeidsgiveravgift pÃ¥lÃ¸pte feriepenger](5182-arbeidsgiveravgift-palopte-feriepenger-image.svg)
+![Illustrasjon av konto 5182 Arbeidsgiveravgift påløpte feriepenger](5182-arbeidsgiveravgift-palopte-feriepenger-image.svg)
 
-## Hva er arbeidsgiveravgift pÃ¥ pÃ¥lÃ¸pte feriepenger?
+## Hva er arbeidsgiveravgift på påløpte feriepenger?
 
-*Arbeidsgiveravgift pÃ¥ pÃ¥lÃ¸pte feriepenger* er arbeidsgiveravgift som pÃ¥lÃ¸per for opptjente feriepenger i en regnskapsperiode, men som ikke er betalt ved periodens slutt. Konto 5182 benyttes for Ã¥ periodisere avgiften som kortsiktig gjeld.
+*Arbeidsgiveravgift på påløpte feriepenger* er arbeidsgiveravgift som påløper for opptjente feriepenger i en regnskapsperiode, men som ikke er betalt ved periodens slutt. Konto 5182 benyttes for å periodisere avgiften som kortsiktig gjeld.
 
-## NÃ¸kkelfunksjoner
+## Nøkkelfunksjoner
 
 | Egenskap      | Beskrivelse                                      |
 |---------------|--------------------------------------------------|
 | Kontonummer   | 5182                                             |
-| Konto         | Arbeidsgiveravgift pÃ¥lÃ¸pte feriepenger           |
+| Konto         | Arbeidsgiveravgift påløpte feriepenger           |
 | Kontotype     | Kortsiktig gjeld                                 |
-| FormÃ¥l        | Periodisere arbeidsgiveravgift pÃ¥ feriepenger    |
+| Formål        | Periodisere arbeidsgiveravgift på feriepenger    |
 
-## NÃ¥r bruker man konto 5182?
+## Når bruker man konto 5182?
 
-* Ved periodisering av arbeidsgiveravgift knyttet til feriepenger ved mÃ¥neds- eller Ã¥rsavslutning
-* NÃ¥r feriepenger er beregnet men avgift ennÃ¥ ikke betalt
-* For Ã¥ matche arbeidsgiveravgift med tilhÃ¸rende feriepengekostnad
+* Ved periodisering av arbeidsgiveravgift knyttet til feriepenger ved måneds- eller årsavslutning
+* Når feriepenger er beregnet men avgift ennå ikke betalt
+* For å matche arbeidsgiveravgift med tilhørende feriepengekostnad
 
-## RegnskapsfÃ¸ring av arbeidsgiveravgift pÃ¥ pÃ¥lÃ¸pte feriepenger
+## Regnskapsføring av arbeidsgiveravgift på påløpte feriepenger
 
 | Transaksjon                                    | Debet                                                   | Kredit                           |
 |------------------------------------------------|---------------------------------------------------------|----------------------------------|
-| Periodisering av arbeidsgiveravgift feriepenger | [Konto 5180 - Feriepenger beregnet](/blogs/kontoplan/5180-feriepenger-beregnet "Konto 5180 - Feriepenger beregnet") | Konto 5182 - Arbeidsgiveravgift pÃ¥lÃ¸pte feriepenger |
-| Mottatt faktura for avgift feriepenger         | Konto 5182 - Arbeidsgiveravgift pÃ¥lÃ¸pte feriepenger     | Konto 2400 - LeverandÃ¸rgjeld      |
-| Betaling til myndighetene                       | Konto 2400 - LeverandÃ¸rgjeld                            | Konto 1920 - Bankinnskudd         |
+| Periodisering av arbeidsgiveravgift feriepenger | [Konto 5180 - Feriepenger beregnet](/blogs/kontoplan/5180-feriepenger-beregnet "Konto 5180 - Feriepenger beregnet") | Konto 5182 - Arbeidsgiveravgift påløpte feriepenger |
+| Mottatt faktura for avgift feriepenger         | Konto 5182 - Arbeidsgiveravgift påløpte feriepenger     | Konto 2400 - Leverandørgjeld      |
+| Betaling til myndighetene                       | Konto 2400 - Leverandørgjeld                            | Konto 1920 - Bankinnskudd         |
 
-## Eksempel pÃ¥ beregning
+## Eksempel på beregning
 
-En virksomhet har beregnede feriepenger pÃ¥ 51â€¯000Â NOK og arbeidsgiveravgiftssats 14,1â€¯%:
+En virksomhet har beregnede feriepenger på 51–¯000Â NOK og arbeidsgiveravgiftssats 14,1–¯%:
 
-| Beskrivelse                      | Avgiftssats | PÃ¥lÃ¸pt arbeidsgiveravgift | Totalt avgiftskostnad |
+| Beskrivelse                      | Avgiftssats | Påløpt arbeidsgiveravgift | Totalt avgiftskostnad |
 |----------------------------------|-------------|---------------------------|-----------------------|
-| Feriepenger beregnet             | 14,1â€¯%      | 7â€¯191Â NOK                 | 7â€¯191Â NOK             |
+| Feriepenger beregnet             | 14,1–¯%      | 7–¯191Â NOK                 | 7–¯191Â NOK             |
 
 ## Praktiske hensyn
 
 * Arbeidsgiveravgift beregnes etter gjeldende satser per geografisk sone.
-* Avstem avgiftsgrunnlaget mot lÃ¸nnssystemet for Ã¥ sikre korrekt saldo.
+* Avstem avgiftsgrunnlaget mot lønnssystemet for å sikre korrekt saldo.
 * Endringer i feriepengeberegning krever oppdatering av avgiftsgrunnlaget.
-* Dokumentasjon av bÃ¥de feriepenger og avgiftsberegning bÃ¸r oppbevares for revisjon.
+* Dokumentasjon av både feriepenger og avgiftsberegning bør oppbevares for revisjon.
 
 ## Intern lenking og relaterte kontoer
 
 Andre kontoer i NSÂ 4102 som ofte benyttes sammen med konto 5182:
 
 * [Konto 5180 - Feriepenger beregnet](/blogs/kontoplan/5180-feriepenger-beregnet "Konto 5180 - Feriepenger beregnet")
-* [Konto 2780 - PÃ¥lÃ¸pt arbeidsgiveravgift](/blogs/kontoplan/2780-palopte-arbeidsgiveravgift "Konto 2780 - PÃ¥lÃ¸pt arbeidsgiveravgift")
+* [Konto 2780 - Påløpt arbeidsgiveravgift](/blogs/kontoplan/2780-palopte-arbeidsgiveravgift "Konto 2780 - Påløpt arbeidsgiveravgift")
 * [Konto 2940 - Feriepenger](/blogs/kontoplan/2940-feriepenger "Konto 2940 - Feriepenger")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 
-**Konto 5182 - Arbeidsgiveravgift pÃ¥lÃ¸pte feriepenger** sikrer korrekt periodisering av avgift pÃ¥ feriepenger og gir oversikt over kortsiktige forpliktelser knyttet til feriepengeavgift.
+**Konto 5182 - Arbeidsgiveravgift påløpte feriepenger** sikrer korrekt periodisering av avgift på feriepenger og gir oversikt over kortsiktige forpliktelser knyttet til feriepengeavgift.
+
+
+
+
+
 

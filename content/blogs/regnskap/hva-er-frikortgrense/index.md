@@ -1,34 +1,34 @@
 ﻿---
 title: "Hva er Frikortgrense i Norge?"
 meta_title: "Hva er Frikortgrense i Norge?"
-meta_description: '**Frikortgrense** er det maksimale belÃ¸pet du kan tjene skattefritt i Norge fÃ¸r du mÃ¥ betale skatt. **[Frikort](/blogs/regnskap/frikort "Frikort - Skattefri ...'
+meta_description: '**Frikortgrense** er det maksimale beløpet du kan tjene skattefritt i Norge før du må betale skatt. **[Frikort](/blogs/regnskap/frikort "Frikort - Skattefri ...'
 slug: hva-er-frikortgrense
 type: blog
 layout: pages/single
 ---
 
-**Frikortgrense** er det maksimale belÃ¸pet du kan tjene skattefritt i Norge fÃ¸r du mÃ¥ betale skatt. **[Frikort](/blogs/regnskap/frikort "Frikort - Skattefri Inntekt for Lavinntektsgrupper")** er et viktig verktÃ¸y i det norske skattesystemet som sikrer at personer med lav inntekt ikke betaler skatt pÃ¥ sine fÃ¸rste kroner. Dette er sÃ¦rlig relevant for [arbeidstakere](/blogs/regnskap/hva-er-arbeidsforholdstype "Arbeidsforholdstype - Guide til Ulike Ansettelsesformer") med deltidsjobber, studenter, pensjonister og andre med begrenset inntekt.
+**Frikortgrense** er det maksimale beløpet du kan tjene skattefritt i Norge før du må betale skatt. **[Frikort](/blogs/regnskap/frikort "Frikort - Skattefri Inntekt for Lavinntektsgrupper")** er et viktig verktøy i det norske skattesystemet som sikrer at personer med lav inntekt ikke betaler skatt på sine første kroner. Dette er særlig relevant for [arbeidstakere](/blogs/regnskap/hva-er-arbeidsforholdstype "Arbeidsforholdstype - Guide til Ulike Ansettelsesformer") med deltidsjobber, studenter, pensjonister og andre med begrenset inntekt.
 
 ![Illustrasjon som viser frikortgrense og skattefri inntekt i Norge](hva-er-frikortgrense-image.svg)
 
 ## Hva er Frikort?
 
-**Frikort** er et [skattekort](/blogs/regnskap/skattekort "Hva er Skattekort? En komplett guide til skattekortregler i Norge") som gjÃ¸r at du ikke betaler skatt pÃ¥ inntekt opp til en bestemt grense - **frikortgrensen**. Dette systemet er designet for Ã¥:
+**Frikort** er et [skattekort](/blogs/regnskap/skattekort "Hva er Skattekort? En komplett guide til skattekortregler i Norge") som gjør at du ikke betaler skatt på inntekt opp til en bestemt grense - **frikortgrensen**. Dette systemet er designet for å:
 
-* **Beskytte lavinntektsgrupper** mot skatt pÃ¥ grunnleggende inntekt
+* **Beskytte lavinntektsgrupper** mot skatt på grunnleggende inntekt
 * **Forenkle skatteinnbetaling** for personer med lav inntekt
-* **Sikre rettferdig beskatning** basert pÃ¥ betalingsevne
-* **Redusere administrativt arbeid** for bÃ¥de skattebetalere og [Skatteetaten](/blogs/regnskap/hva-er-altinn "Altinn - Digital Kommunikasjon med Offentlige Myndigheter")
+* **Sikre rettferdig beskatning** basert på betalingsevne
+* **Redusere administrativt arbeid** for både skattebetalere og [Skatteetaten](/blogs/regnskap/hva-er-altinn "Altinn - Digital Kommunikasjon med Offentlige Myndigheter")
 
-### Hvem Kan FÃ¥ Frikort?
+### Hvem Kan Få Frikort?
 
-Frikort kan sÃ¸kes av:
+Frikort kan søkes av:
 
 * **Studenter** med deltidsjobb eller feriejobb
 * **Pensjonister** med lav pensjon
-* **Deltidsansatte** med lav Ã¥rsinntekt
+* **Deltidsansatte** med lav årsinntekt
 * **Sesongarbeidere** med begrenset arbeidsperiode
-* **Personer med ufÃ¸retrygd** eller andre trygdeytelser
+* **Personer med uføretrygd** eller andre trygdeytelser
 * **Arbeidsledige** som tar kortvarige jobber
 
 ## Frikortgrenser for 2024
@@ -41,80 +41,80 @@ Frikortgrensene varierer avhengig av din situasjon og alder:
 
 | Kategori | Frikortgrense 2024 | Beskrivelse |
 |----------|-------------------|-------------|
-| **OrdinÃ¦r frikortgrense** | 69.300 kr | Standard grense for de fleste |
-| **Pensjonister under 67 Ã¥r** | 69.300 kr | Samme som ordinÃ¦r grense |
-| **Pensjonister 67-69 Ã¥r** | 138.050 kr | HÃ¸yere grense pga. pensjonsalder |
-| **Pensjonister over 70 Ã¥r** | 138.050 kr | HÃ¸yeste frikortgrense |
+| **Ordinær frikortgrense** | 69.300 kr | Standard grense for de fleste |
+| **Pensjonister under 67 år** | 69.300 kr | Samme som ordinær grense |
+| **Pensjonister 67-69 år** | 138.050 kr | Høyere grense pga. pensjonsalder |
+| **Pensjonister over 70 år** | 138.050 kr | Høyeste frikortgrense |
 | **Studenter** | 69.300 kr | Gjelder ved siden av studier |
 
 ### Beregning av Frikortgrense
 
-Frikortgrensen beregnes basert pÃ¥:
+Frikortgrensen beregnes basert på:
 
 * **[Personfradrag](/blogs/regnskap/hva-er-forskuddstrekk "Forskuddstrekk - Beregning og Praktiske Eksempler")** i inntektsskatten
-* **Minstefradrag** i [arbeidsinntekt](/blogs/regnskap/hva-er-fastlonn "FastlÃ¸nn - Beregning, Feriepenger og Arbeidsgiveravgift")
-* **SÃ¦rfradrag** for pensjonister
+* **Minstefradrag** i [arbeidsinntekt](/blogs/regnskap/hva-er-fastlonn "Fastlønn - Beregning, Feriepenger og Arbeidsgiveravgift")
+* **Særfradrag** for pensjonister
 * **Trygdeavgift** og andre avgifter
 
-## Hvordan SÃ¸ke om Frikort
+## Hvordan Søke om Frikort
 
-Prosessen for Ã¥ sÃ¸ke frikort er enkel og kan gjÃ¸res digitalt:
+Prosessen for å søke frikort er enkel og kan gjøres digitalt:
 
-![Prosess for sÃ¸knad om frikort](frikort-soknadsprosess.svg)
+![Prosess for søknad om frikort](frikort-soknadsprosess.svg)
 
-### SÃ¸knadsprosess
+### Søknadsprosess
 
-1. **Logg inn pÃ¥ Skatteetaten.no**
+1. **Logg inn på Skatteetaten.no**
    * Bruk BankID eller annen godkjent innlogging
-   * GÃ¥ til "Mine saker" og velg "Skattekort"
+   * Gå til "Mine saker" og velg "Skattekort"
 
-2. **Velg "SÃ¸k om frikort"**
-   * Fyll ut nÃ¸dvendig informasjon om forventet inntekt
+2. **Velg "Søk om frikort"**
+   * Fyll ut nødvendig informasjon om forventet inntekt
    * Oppgi arbeidsgivers organisasjonsnummer hvis aktuelt
 
 3. **Dokumenter forventet inntekt**
    * Arbeidskontrakt eller tilbud om jobb
    * Pensjonsbrev eller trygdevedtak
-   * Annen dokumentasjon pÃ¥ inntektsgrunnlag
+   * Annen dokumentasjon på inntektsgrunnlag
 
-4. **Send inn sÃ¸knaden**
-   * SÃ¸knaden behandles normalt innen 1-2 uker
-   * Du fÃ¥r beskjed nÃ¥r frikort er klart
+4. **Send inn søknaden**
+   * Søknaden behandles normalt innen 1-2 uker
+   * Du får beskjed når frikort er klart
 
 ### Frister for Frikort
 
-* **SÃ¸knadsfrist**: Ingen fast frist, men sÃ¸k i god tid
-* **Gyldighetstid**: Frikort gjelder for ett kalenderÃ¥r
-* **Fornyelse**: MÃ¥ sÃ¸kes pÃ¥ nytt hvert Ã¥r
+* **Søknadsfrist**: Ingen fast frist, men søk i god tid
+* **Gyldighetstid**: Frikort gjelder for ett kalenderår
+* **Fornyelse**: Må søkes på nytt hvert år
 * **Endringer**: Kan endres underveis hvis inntekt endrer seg
 
 ## Praktiske Eksempler
 
-La oss se pÃ¥ hvordan frikortgrensen fungerer i praksis:
+La oss se på hvordan frikortgrensen fungerer i praksis:
 
 ### Eksempel 1: Student med Deltidsjobb
 
 **Situasjon:**
 - Student som jobber deltid ved siden av studier
-- Forventet Ã¥rsinntekt: 50.000 kr
+- Forventet årsinntekt: 50.000 kr
 - Frikortgrense: 69.300 kr
 
 **Resultat:**
-- Hele inntekten pÃ¥ 50.000 kr er skattefri
-- Ingen [forskuddstrekk](/blogs/regnskap/hva-er-forskuddstrekk "Forskuddstrekk - Alt du Trenger Ã¥ Vite") trekkes fra lÃ¸nnen
-- Ingen skatt Ã¥ betale ved [skatteoppgjÃ¸ret](/blogs/regnskap/skatteoppgjor "SkatteoppgjÃ¸r Guide: Prosess, Tidslinje og Viktige Frister")
+- Hele inntekten på 50.000 kr er skattefri
+- Ingen [forskuddstrekk](/blogs/regnskap/hva-er-forskuddstrekk "Forskuddstrekk - Alt du Trenger å Vite") trekkes fra lønnen
+- Ingen skatt å betale ved [skatteoppgjøret](/blogs/regnskap/skatteoppgjor "Skatteoppgjør Guide: Prosess, Tidslinje og Viktige Frister")
 
-### Eksempel 2: Pensjonist over 70 Ã¥r
+### Eksempel 2: Pensjonist over 70 år
 
 **Situasjon:**
-- Pensjonist, 72 Ã¥r
-- Ã…rlig pensjon: 120.000 kr
+- Pensjonist, 72 år
+- Årlig pensjon: 120.000 kr
 - Frikortgrense: 138.050 kr
 
 **Resultat:**
-- Hele pensjonen pÃ¥ 120.000 kr er skattefri
+- Hele pensjonen på 120.000 kr er skattefri
 - Ingen trekk i pensjonsutbetalingen
-- Betydelig skattebesparelse sammenlignet med ordinÃ¦r beskatning
+- Betydelig skattebesparelse sammenlignet med ordinær beskatning
 
 ### Eksempel 3: Overskridelse av Frikortgrense
 
@@ -126,110 +126,110 @@ La oss se pÃ¥ hvordan frikortgrensen fungerer i praksis:
 **Resultat:**
 - Skattefri inntekt: 69.300 kr
 - Skattepliktig inntekt: 85.000 - 69.300 = 15.700 kr
-- Skatt mÃ¥ betales pÃ¥ 15.700 kr ved skatteoppgjÃ¸ret
+- Skatt må betales på 15.700 kr ved skatteoppgjøret
 
-## Frikort vs. OrdinÃ¦rt Skattekort
+## Frikort vs. Ordinært Skattekort
 
-Forskjellene mellom frikort og ordinÃ¦rt skattekort:
+Forskjellene mellom frikort og ordinært skattekort:
 
-![Sammenligning av frikort og ordinÃ¦rt skattekort](frikort-vs-ordinaert.svg)
+![Sammenligning av frikort og ordinært skattekort](frikort-vs-ordinaert.svg)
 
 ### Sammenligningstabell
 
-| Aspekt | Frikort | OrdinÃ¦rt Skattekort |
+| Aspekt | Frikort | Ordinært Skattekort |
 |--------|---------|-------------------|
-| **Skattetrekk** | Ingen trekk opp til grensen | Trekk fra fÃ¸rste krone |
-| **Inntektsgrense** | Begrenset til frikortgrense | Ingen Ã¸vre grense |
-| **MÃ¥lgruppe** | Lavinntektsgrupper | Alle arbeidstakere |
-| **SÃ¸knadskrav** | MÃ¥ sÃ¸kes aktivt | Tildeles automatisk |
-| **Fleksibilitet** | Kan kombineres med ordinÃ¦rt kort | Standard lÃ¸sning |
+| **Skattetrekk** | Ingen trekk opp til grensen | Trekk fra første krone |
+| **Inntektsgrense** | Begrenset til frikortgrense | Ingen øvre grense |
+| **Målgruppe** | Lavinntektsgrupper | Alle arbeidstakere |
+| **Søknadskrav** | Må søkes aktivt | Tildeles automatisk |
+| **Fleksibilitet** | Kan kombineres med ordinært kort | Standard løsning |
 
-## Kombinasjon med OrdinÃ¦rt Skattekort
+## Kombinasjon med Ordinært Skattekort
 
-Det er mulig Ã¥ ha bÃ¥de frikort og ordinÃ¦rt skattekort samtidig:
+Det er mulig å ha både frikort og ordinært skattekort samtidig:
 
 * **Frikort hos en arbeidsgiver** for inntekt opp til frikortgrensen
-* **OrdinÃ¦rt skattekort hos annen arbeidsgiver** for tilleggsinntekt
-* **Automatisk overgang** nÃ¥r frikortgrensen overskrides
+* **Ordinært skattekort hos annen arbeidsgiver** for tilleggsinntekt
+* **Automatisk overgang** når frikortgrensen overskrides
 
-### Praktisk HÃ¥ndtering
+### Praktisk Håndtering
 
 1. **Prioriter arbeidsgivere**
-   * Gi frikort til arbeidsgiver med lavest lÃ¸nn
-   * Bruk ordinÃ¦rt kort for hÃ¸yere lÃ¸nninger
+   * Gi frikort til arbeidsgiver med lavest lønn
+   * Bruk ordinært kort for høyere lønninger
 
-2. **OvervÃ¥k inntektsutviklingen**
-   * Hold oversikt over total Ã¥rsinntekt
-   * Vurder Ã¥ endre skattekort hvis nÃ¸dvendig
+2. **Overvåk inntektsutviklingen**
+   * Hold oversikt over total årsinntekt
+   * Vurder å endre skattekort hvis nødvendig
 
 3. **Kommuniser med arbeidsgivere**
    * Informer om endringer i skattekort
-   * SÃ¸rg for korrekt [lÃ¸nnsbehandling](/blogs/regnskap/hva-er-bilagsforing "BilagsfÃ¸ring - Systematisk Registrering av Regnskapsbilag")
+   * Sørg for korrekt [lønnsbehandling](/blogs/regnskap/hva-er-bilagsforing "Bilagsføring - Systematisk Registrering av Regnskapsbilag")
 
 ## Konsekvenser ved Overskridelse
 
-Hvis du tjener mer enn frikortgrensen, fÃ¥r det fÃ¸lgende konsekvenser:
+Hvis du tjener mer enn frikortgrensen, får det følgende konsekvenser:
 
 ### Skattemessige Konsekvenser
 
-* **Etterskuddsskatt**: Skatt pÃ¥ inntekt over grensen
-* **Rentekostnader**: Renter pÃ¥ for lite betalt skatt
-* **Ã˜kt skattekort**: HÃ¸yere trekk neste Ã¥r for Ã¥ unngÃ¥ gjentakelse
+* **Etterskuddsskatt**: Skatt på inntekt over grensen
+* **Rentekostnader**: Renter på for lite betalt skatt
+* **Økt skattekort**: Høyere trekk neste år for å unngå gjentakelse
 
-### Hvordan HÃ¥ndtere Overskridelse
+### Hvordan Håndtere Overskridelse
 
 1. **Varsle Skatteetaten**
-   * Meld fra om endret inntekt sÃ¥ snart som mulig
+   * Meld fra om endret inntekt så snart som mulig
    * Be om nytt skattekort med riktig trekkprosent
 
 2. **Sett av penger til skatt**
-   * Beregn omtrentlig skatt pÃ¥ merinntekt
-   * Sett av midler til skatteoppgjÃ¸ret
+   * Beregn omtrentlig skatt på merinntekt
+   * Sett av midler til skatteoppgjøret
 
 3. **Vurder forskuddsbetaling**
    * Betal inn ekstra skatt underveis
-   * UnngÃ¥ store belÃ¸p ved skatteoppgjÃ¸ret
+   * Unngå store beløp ved skatteoppgjøret
 
 ## Frikort og Arbeidsgiveravgift
 
-For arbeidsgivere er det viktig Ã¥ forstÃ¥ sammenhengen mellom frikort og [arbeidsgiveravgift](/blogs/regnskap/hva-er-arbeidsgiveravgift "Arbeidsgiveravgift - Satser, Beregning og Praktiske Eksempler"):
+For arbeidsgivere er det viktig å forstå sammenhengen mellom frikort og [arbeidsgiveravgift](/blogs/regnskap/hva-er-arbeidsgiveravgift "Arbeidsgiveravgift - Satser, Beregning og Praktiske Eksempler"):
 
 ### Arbeidsgivers Ansvar
 
 * **Respektere frikort**: Ikke trekke skatt opp til frikortgrensen
-* **Betale arbeidsgiveravgift**: Avgift beregnes av hele lÃ¸nnen
-* **Korrekt rapportering**: Rapportere lÃ¸nn og frikort til myndighetene
-* **OvervÃ¥ke grenser**: Varsle ansatt ved overskridelse
+* **Betale arbeidsgiveravgift**: Avgift beregnes av hele lønnen
+* **Korrekt rapportering**: Rapportere lønn og frikort til myndighetene
+* **Overvåke grenser**: Varsle ansatt ved overskridelse
 
 ### Regnskapsmessig Behandling
 
-Frikort pÃ¥virker [lÃ¸nnsregnskapet](/blogs/regnskap/hva-er-bokforing "BokfÃ¸ring - Grunnleggende Prinsipper og Praktisk GjennomfÃ¸ring") pÃ¥ fÃ¸lgende mÃ¥te:
+Frikort påvirker [lønnsregnskapet](/blogs/regnskap/hva-er-bokforing "Bokføring - Grunnleggende Prinsipper og Praktisk Gjennomføring") på følgende måte:
 
 ```
-BruttolÃ¸nn:           25.000 kr
+Bruttolønn:           25.000 kr
 Skattetrekk (frikort):     0 kr
-Arbeidsgiveravgift:    3.570 kr (14,1% av bruttolÃ¸nn)
+Arbeidsgiveravgift:    3.570 kr (14,1% av bruttolønn)
 Netto utbetaling:     25.000 kr
 ```
 
-## Digitale VerktÃ¸y og Ressurser
+## Digitale Verktøy og Ressurser
 
-Moderne teknologi gjÃ¸r det enklere Ã¥ hÃ¥ndtere frikort:
+Moderne teknologi gjør det enklere å håndtere frikort:
 
-![Digitale verktÃ¸y for frikorthÃ¥ndtering](frikort-digitale-verktoy.svg)
+![Digitale verktøy for frikorthåndtering](frikort-digitale-verktoy.svg)
 
 ### Nyttige Digitale Tjenester
 
-* **Skatteetaten.no**: SÃ¸knad og administrasjon av frikort
+* **Skatteetaten.no**: Søknad og administrasjon av frikort
 * **[Altinn](/blogs/regnskap/hva-er-altinn "Altinn - Komplett Guide til Digital Offentlig Kommunikasjon")**: Kommunikasjon med offentlige myndigheter
 * **Min Side**: Oversikt over skattekort og frikort
 * **Skatteberegner**: Beregn forventet skatt og frikortgrense
 
 ### Mobile Apper
 
-* **Skatteetaten-appen**: Tilgang til skattekort pÃ¥ mobil
+* **Skatteetaten-appen**: Tilgang til skattekort på mobil
 * **Skattekalkulatorer**: Beregn skatteeffekt av frikort
-* **LÃ¸nnsapper**: Integrasjon med [lÃ¸nnssystemer](/blogs/regnskap/hva-er-erp-system "ERP-system - Integrerte Forretningssystemer")
+* **Lønnsapper**: Integrasjon med [lønnssystemer](/blogs/regnskap/hva-er-erp-system "ERP-system - Integrerte Forretningssystemer")
 
 ## Fremtidige Endringer og Utvikling
 
@@ -238,57 +238,61 @@ Frikortordningen utvikler seg kontinuerlig:
 ### Planlagte Endringer
 
 * **Digitalisering**: Mer automatiserte prosesser
-* **Ã˜kte grenser**: Ã…rlige justeringer basert pÃ¥ [lÃ¸nnsutvikling](/blogs/regnskap/hva-er-akkordlonn "AkkordlÃ¸nn - Beregning og Praktiske Eksempler")
-* **Forenklet administrasjon**: Mindre byrÃ¥krati for brukerne
+* **Økte grenser**: Årlige justeringer basert på [lønnsutvikling](/blogs/regnskap/hva-er-akkordlonn "Akkordlønn - Beregning og Praktiske Eksempler")
+* **Forenklet administrasjon**: Mindre byråkrati for brukerne
 * **Bedre integrasjon**: Kobling mellom ulike offentlige systemer
 
-### Langsiktige MÃ¥l
+### Langsiktige Mål
 
-* **Automatisk tildeling**: Frikort basert pÃ¥ forventet inntekt
-* **Sanntidsoppdatering**: LÃ¸pende justering av skattekort
-* **Personaliserte lÃ¸sninger**: Tilpasset individuelle behov
-* **Ã˜kt tilgjengelighet**: Enklere for alle Ã¥ benytte ordningen
+* **Automatisk tildeling**: Frikort basert på forventet inntekt
+* **Sanntidsoppdatering**: Løpende justering av skattekort
+* **Personaliserte løsninger**: Tilpasset individuelle behov
+* **Økt tilgjengelighet**: Enklere for alle å benytte ordningen
 
-## Vanlige SpÃ¸rsmÃ¥l og MisforstÃ¥elser
+## Vanlige Spørsmål og Misforståelser
 
-### Ofte Stilte SpÃ¸rsmÃ¥l
+### Ofte Stilte Spørsmål
 
 **Q: Kan jeg ha frikort hos flere arbeidsgivere samtidig?**
-A: Nei, frikort kan bare brukes hos Ã©n arbeidsgiver om gangen. Total frikortgrense gjelder for all inntekt.
+A: Nei, frikort kan bare brukes hos én arbeidsgiver om gangen. Total frikortgrense gjelder for all inntekt.
 
-**Q: Hva skjer hvis jeg glemmer Ã¥ sÃ¸ke om frikort?**
-A: Du kan sÃ¸ke nÃ¥r som helst i lÃ¸pet av Ã¥ret, men fÃ¥r ikke tilbakebetalt skatt som allerede er trukket.
+**Q: Hva skjer hvis jeg glemmer å søke om frikort?**
+A: Du kan søke når som helst i løpet av året, men får ikke tilbakebetalt skatt som allerede er trukket.
 
-**Q: PÃ¥virker frikort andre ytelser som barnetrygd?**
-A: Nei, frikort pÃ¥virker ikke andre offentlige ytelser eller stÃ¸tteordninger.
+**Q: Påvirker frikort andre ytelser som barnetrygd?**
+A: Nei, frikort påvirker ikke andre offentlige ytelser eller støtteordninger.
 
-**Q: Kan jeg fÃ¥ frikort som selvstendig nÃ¦ringsdrivende?**
-A: Nei, frikort gjelder kun for [arbeidsinntekt](/blogs/regnskap/hva-er-fastlonn "FastlÃ¸nn og Arbeidsforhold") og pensjoner, ikke nÃ¦ringsinntekt.
+**Q: Kan jeg få frikort som selvstendig næringsdrivende?**
+A: Nei, frikort gjelder kun for [arbeidsinntekt](/blogs/regnskap/hva-er-fastlonn "Fastlønn og Arbeidsforhold") og pensjoner, ikke næringsinntekt.
 
-### Vanlige MisforstÃ¥elser
+### Vanlige Misforståelser
 
 * **"Frikort betyr ingen skatt i det hele tatt"**
   - Feil: Gjelder kun opp til frikortgrensen
 
 * **"Frikort fornyes automatisk"**
-  - Feil: MÃ¥ sÃ¸kes pÃ¥ nytt hvert Ã¥r
+  - Feil: Må søkes på nytt hvert år
 
 * **"Frikort kan deles mellom arbeidsgivere"**
-  - Feil: Kan kun brukes hos Ã©n arbeidsgiver
+  - Feil: Kan kun brukes hos én arbeidsgiver
 
 ## Konklusjon
 
-**Frikortgrense** er et viktig verktÃ¸y i det norske skattesystemet som sikrer at personer med lav inntekt ikke betaler skatt pÃ¥ sine fÃ¸rste kroner. Ordningen er sÃ¦rlig verdifull for studenter, pensjonister, deltidsansatte og andre med begrenset inntekt.
+**Frikortgrense** er et viktig verktøy i det norske skattesystemet som sikrer at personer med lav inntekt ikke betaler skatt på sine første kroner. Ordningen er særlig verdifull for studenter, pensjonister, deltidsansatte og andre med begrenset inntekt.
 
-### Viktige Punkter Ã¥ Huske
+### Viktige Punkter å Huske
 
-* **SÃ¸k i tide**: Frikort mÃ¥ sÃ¸kes aktivt hvert Ã¥r
-* **OvervÃ¥k inntekt**: Hold oversikt over total Ã¥rsinntekt
+* **Søk i tide**: Frikort må søkes aktivt hvert år
+* **Overvåk inntekt**: Hold oversikt over total årsinntekt
 * **Kommuniser endringer**: Varsle Skatteetaten ved endret inntekt
-* **Kombiner smart**: Bruk frikort strategisk sammen med ordinÃ¦rt skattekort
-* **Utnytt digitale verktÃ¸y**: Bruk Skatteetaten.no og andre digitale tjenester
+* **Kombiner smart**: Bruk frikort strategisk sammen med ordinært skattekort
+* **Utnytt digitale verktøy**: Bruk Skatteetaten.no og andre digitale tjenester
 
-Frikortordningen gjÃ¸r det enklere for personer med lav inntekt Ã¥ delta i arbeidslivet uten Ã¥ bekymre seg for skattetrekk pÃ¥ grunnleggende inntekt. Ved Ã¥ forstÃ¥ reglene og bruke ordningen riktig, kan du optimalisere din [Ã¸konomiske situasjon](/blogs/regnskap/hva-er-finansregnskap "Finansregnskap - Grunnleggende Prinsipper og Rapportering") og sikre korrekt skattebehandling.
+Frikortordningen gjør det enklere for personer med lav inntekt å delta i arbeidslivet uten å bekymre seg for skattetrekk på grunnleggende inntekt. Ved å forstå reglene og bruke ordningen riktig, kan du optimalisere din [økonomiske situasjon](/blogs/regnskap/hva-er-finansregnskap "Finansregnskap - Grunnleggende Prinsipper og Rapportering") og sikre korrekt skattebehandling.
+
+
+
+
 
 
 

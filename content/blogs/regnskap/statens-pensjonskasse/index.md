@@ -9,41 +9,41 @@ layout: pages/single
 
 ![Statens pensjonskasse](statens-pensjonskasse-image.svg)
 
-**Statens pensjonskasse** er Norges statlige **pensjonskasse** som forvalter pensjonsordninger for ansatte i staten, lÃ¦rere, helsepersonell og andre offentlige ansatte. I denne artikkelen fÃ¥r du en omfattende oversikt over organisasjonens rolle, medlemskap, ytelsesberegning, finansiering, samt regnskapsmessige krav.
+**Statens pensjonskasse** er Norges statlige **pensjonskasse** som forvalter pensjonsordninger for ansatte i staten, lærere, helsepersonell og andre offentlige ansatte. I denne artikkelen får du en omfattende oversikt over organisasjonens rolle, medlemskap, ytelsesberegning, finansiering, samt regnskapsmessige krav.
 
 ## Hva er Statens pensjonskasse?
 
-**Statens pensjonskasse (SPK)** ble etablert i 1917 og har som formÃ¥l Ã¥ sikre **forutsigbare pensjonsytelser** til statlige ansatte. SPK administrerer ytelsesbaserte pensjonsordninger med beregning basert pÃ¥ ansiennitet og lÃ¸nn.
+**Statens pensjonskasse (SPK)** ble etablert i 1917 og har som formål å sikre **forutsigbare pensjonsytelser** til statlige ansatte. SPK administrerer ytelsesbaserte pensjonsordninger med beregning basert på ansiennitet og lønn.
 
 ## Historisk bakgrunn
 
 * 1917: Opprettelse av Statens pensjonskasse.
-* 1967: Utvidelse til ogsÃ¥ Ã¥ omfatte kommunale ansatte i felles ordninger.
+* 1967: Utvidelse til også å omfatte kommunale ansatte i felles ordninger.
 * 2001: Reform av folketrygden og endringer i SPKs rolle.
-* 2011: InnfÃ¸ring av ny offentlig tjenestepensjonslov.
+* 2011: Innføring av ny offentlig tjenestepensjonslov.
 
 ## Medlemskap og rettigheter
 
-| Medlemskategori                     | RettighetsnivÃ¥           | Ansiennitetskrav   |
+| Medlemskategori                     | Rettighetsnivå           | Ansiennitetskrav   |
 |:------------------------------------|:-------------------------|:-------------------|
-| Statlig ansatte                     | Full tjenestepensjon     | 30 Ã¥r              |
-| LÃ¦rere (universitet og hÃ¸yskole)    | Full tjenestepensjon     | 30 Ã¥r              |
-| Helsepersonell                      | Full tjenestepensjon     | 30 Ã¥r              |
-| Midlertidig ansatte                 | Pro rata pensjon         | Minst 12 mÃ¥neder   |
+| Statlig ansatte                     | Full tjenestepensjon     | 30 år              |
+| Lærere (universitet og høyskole)    | Full tjenestepensjon     | 30 år              |
+| Helsepersonell                      | Full tjenestepensjon     | 30 år              |
+| Midlertidig ansatte                 | Pro rata pensjon         | Minst 12 måneder   |
 
 ## Ytelsesberegning og opptjening
 
 Ytelsen fra SPK beregnes ut fra:
 
-* **Grunnpensjon** basert pÃ¥ lÃ¸nn og ansiennitet.
-* **SÃ¦rtillegg** for visse yrkesgrupper (politi, dommere, prester).
-* **Tidligpensjon** og fleksibel pensjonsalder fra 62 Ã¥r.
+* **Grunnpensjon** basert på lønn og ansiennitet.
+* **Særtillegg** for visse yrkesgrupper (politi, dommere, prester).
+* **Tidligpensjon** og fleksibel pensjonsalder fra 62 år.
 
-| Beregningskomponent       | FormÃ¥l                    |
+| Beregningskomponent       | Formål                    |
 |:--------------------------|:--------------------------|
-| Grunnpensjon              | 2,0â€¯% av sluttlÃ¸nn per Ã¥r  |
-| SÃ¦rtillegg                | Varierer etter yrkesgruppe |
-| Regulering                | LÃ¸nnsvekstjustering       |
+| Grunnpensjon              | 2,0–¯% av sluttlønn per år  |
+| Særtillegg                | Varierer etter yrkesgruppe |
+| Regulering                | Lønnsvekstjustering       |
 
 ## Finansiering og kostnadsfordeling
 
@@ -51,23 +51,23 @@ Finansieringen av SPK skjer gjennom:
 
 1. Arbeidsgiveravgift fra staten.
 2. Egenandeler fra medlemmene.
-3. Avkastning pÃ¥ investeringsportefÃ¸ljen.
+3. Avkastning på investeringsporteføljen.
 
 | Kilde           | Andel (%)              |
 |:----------------|:-----------------------|
-| Arbeidsgiver    | 2,0â€¯% av lÃ¸nn          |
-| Medlem          | 0,5â€¯% av lÃ¸nn          |
+| Arbeidsgiver    | 2,0–¯% av lønn          |
+| Medlem          | 0,5–¯% av lønn          |
 | Investeringer   | Variabel avkastning    |
 
 ## Regnskapsmessige krav
 
-For regnskapsfÃ¸ring av SPK i offentlige virksomheter mÃ¥ du fÃ¸lge prinsipper for [Offentlig tjenestepensjon](/blogs/regnskap/offentlig-tjenestepensjon "Offentlig tjenestepensjon: Guide til Offentlige Pensjonsordninger og RegnskapsfÃ¸ring") og [God regnskapsskikk](/blogs/regnskap/god-regnskapsskikk "God regnskapsskikk: Prinsipper og Retningslinjer").
+For regnskapsføring av SPK i offentlige virksomheter må du følge prinsipper for [Offentlig tjenestepensjon](/blogs/regnskap/offentlig-tjenestepensjon "Offentlig tjenestepensjon: Guide til Offentlige Pensjonsordninger og Regnskapsføring") og [God regnskapsskikk](/blogs/regnskap/god-regnskapsskikk "God regnskapsskikk: Prinsipper og Retningslinjer").
 
 **Viktige punkter:**
 
-* Pensjonsforpliktelser skal mÃ¥les aktuarmessig og fÃ¸res som langsiktig gjeld.
-* Periodiserte pensjonskostnader pÃ¥virker bÃ¥de resultatregnskap og balanse.
-* Noteopplysninger skal inkludere forutsetninger om dÃ¸delighet, diskonteringsrente og avkastning.
+* Pensjonsforpliktelser skal måles aktuarmessig og føres som langsiktig gjeld.
+* Periodiserte pensjonskostnader påvirker både resultatregnskap og balanse.
+* Noteopplysninger skal inkludere forutsetninger om dødelighet, diskonteringsrente og avkastning.
 
 ## Sammenligning med private pensjonskasser
 
@@ -75,15 +75,19 @@ For regnskapsfÃ¸ring av SPK i offentlige virksomheter mÃ¥ du fÃ¸lge prinsi
 |:--------------------------|:---------------------------|:---------------------------|
 | Ytelsesgaranti            | Ja                          | Nei                        |
 | Investeringsrisiko        | Arbeidsgiver                | Ansatt                     |
-| KostnadsnivÃ¥              | Lavt (statlig)              | Varierende (markedsbasert) |
+| Kostnadsnivå              | Lavt (statlig)              | Varierende (markedsbasert) |
 
 For mer om private ordninger, se [Hva er obligatorisk tjenestepensjon?](/blogs/regnskap/obligatorisk-tjenestepensjon "Obligatorisk tjenestepensjon") og [Hva er frivillig innskuddspensjon?](/blogs/regnskap/frivillig-innskuddspensjon "Frivillig innskuddspensjon").
 
 ## Videre lesning
 
-* [Offentlig tjenestepensjon](/blogs/regnskap/offentlig-tjenestepensjon "Offentlig tjenestepensjon: Guide til Offentlige Pensjonsordninger og RegnskapsfÃ¸ring")
+* [Offentlig tjenestepensjon](/blogs/regnskap/offentlig-tjenestepensjon "Offentlig tjenestepensjon: Guide til Offentlige Pensjonsordninger og Regnskapsføring")
 * [Hva er pensjonsrapportering?](/blogs/regnskap/hva-er-pensjonsrapportering "Hva er pensjonsrapportering? Komplett guide")
 * [Hva er folketrygden?](/blogs/regnskap/hva-er-folketrygden "Hva er Folketrygden? Komplett Guide til Norges Offentlige Pensjonssystem")
+
+
+
+
 
 
 

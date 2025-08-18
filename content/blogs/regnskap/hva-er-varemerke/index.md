@@ -17,11 +17,11 @@ For en bredere oversikt over immaterielle eiendeler, se [Hva er imaterielle eien
 
 ### 1.1 Hva er et varemerke?
 
-Et **varemerke** kan vÃ¦re et ord, figur, bokstav, tall, fargekombinasjon eller en kombinasjon av disse som skiller en virksomhets varer eller tjenester fra andres. For Ã¥ registreres mÃ¥ varemerket oppfylle krav om:
+Et **varemerke** kan være et ord, figur, bokstav, tall, fargekombinasjon eller en kombinasjon av disse som skiller en virksomhets varer eller tjenester fra andres. For å registreres må varemerket oppfylle krav om:
 
-* **SÃ¦rpreg:** Varemerket mÃ¥ kunne skilles klart fra andre kjennetegn.
-* **Ikke-villedende karakter:** Det mÃ¥ ikke villede om produktenes art eller egenskaper.
-* **Registrerbart:** Oppfylle vilkÃ¥rene i [varemerkeloven](https://lovdata.no/dokument/NL/lov/2010-06-26-19) og godkjennes av Patentstyret.
+* **Særpreg:** Varemerket må kunne skilles klart fra andre kjennetegn.
+* **Ikke-villedende karakter:** Det må ikke villede om produktenes art eller egenskaper.
+* **Registrerbart:** Oppfylle vilkårene i [varemerkeloven](https://lovdata.no/dokument/NL/lov/2010-06-26-19) og godkjennes av Patentstyret.
 
 ### 1.2 Varemerke vs. andre immaterielle rettigheter
 
@@ -31,11 +31,11 @@ Et **varemerke** kan vÃ¦re et ord, figur, bokstav, tall, fargekombinasjon elle
 | Varemerke      | [Hva er varemerke?](/blogs/regnskap/hva-er-varemerke "Hva er Varemerke? Guide til Immaterielle Eiendeler i Regnskap") |
 | Opphavsrett    | [Hva er opphavsrett?](/blogs/regnskap/hva-er-opphavsrett "Hva er Opphavsrett? Guide til Opphavsrett i Regnskap") |
 
-## 2. RegnskapsfÃ¸ring av varemerke
+## 2. Regnskapsføring av varemerke
 
 ### 2.1 Aktivering i balansen
 
-Varemerker kan aktiveres i balansen hvis de er anskaffet eller utviklet i virksomheten og det er sannsynlig at de vil gi fremtidige Ã¸konomiske fordeler. Aktivering fÃ¸lger generelt NRS og regnskapsloven.
+Varemerker kan aktiveres i balansen hvis de er anskaffet eller utviklet i virksomheten og det er sannsynlig at de vil gi fremtidige økonomiske fordeler. Aktivering følger generelt NRS og regnskapsloven.
 
 | Konto | Beskrivelse | Type |
 |-------|-------------|------|
@@ -43,27 +43,27 @@ Varemerker kan aktiveres i balansen hvis de er anskaffet eller utviklet i virkso
 
 ### 2.2 Amortisering og avskrivningsperiode
 
-Varemerker amortiseres vanligvis lineÃ¦rt over levetiden. Typiske perioder:
+Varemerker amortiseres vanligvis lineært over levetiden. Typiske perioder:
 
 | Periode | Kommentar |
 |---------|-----------|
-| 5 Ã¥r    | Minimum, krever dokumentasjon |
-| 10 Ã¥r   | Vanlig praksis |
-| 15 Ã¥r   | Maksimum, og sjeldent valgt |
+| 5 år    | Minimum, krever dokumentasjon |
+| 10 år   | Vanlig praksis |
+| 15 år   | Maksimum, og sjeldent valgt |
 
-Se ogsÃ¥ [Hva er amortisering?](/blogs/regnskap/hva-er-amortisering "Hva er Amortisering? En Komplett Guide til Avskrivninger").
+Se også [Hva er amortisering?](/blogs/regnskap/hva-er-amortisering "Hva er Amortisering? En Komplett Guide til Avskrivninger").
 
 ### 2.3 Nedskrivning
 
-Ved indikasjoner pÃ¥ at et varemerke ikke lenger har forventet verdi, mÃ¥ virksomheten gjÃ¸re vurdering av nedskrivning. Les mer i [Hva er nedskrivning?](/blogs/regnskap/hva-er-nedskrivning "Hva er Nedskrivning? Guide til Nedskrivning i Regnskap").
+Ved indikasjoner på at et varemerke ikke lenger har forventet verdi, må virksomheten gjøre vurdering av nedskrivning. Les mer i [Hva er nedskrivning?](/blogs/regnskap/hva-er-nedskrivning "Hva er Nedskrivning? Guide til Nedskrivning i Regnskap").
 
 ## 3. Verdivurdering og vurderingsmodeller
 
-Vanlig verdivurdering fÃ¸lger enten historisk kost eller virkelig verdi ved oppkjÃ¸p av varemerke. Kostprisprinsippet innebÃ¦rer at anskaffelseskost med eventuelle direkte kostnader legges til grunn. Se [Hva er kostpris?](/blogs/regnskap/hva-er-kostpris "Hva er Kostpris? Komplett Guide til Anskaffelseskost").
+Vanlig verdivurdering følger enten historisk kost eller virkelig verdi ved oppkjøp av varemerke. Kostprisprinsippet innebærer at anskaffelseskost med eventuelle direkte kostnader legges til grunn. Se [Hva er kostpris?](/blogs/regnskap/hva-er-kostpris "Hva er Kostpris? Komplett Guide til Anskaffelseskost").
 
-## 4. Eksempel pÃ¥ amortisering
+## 4. Eksempel på amortisering
 
-| Ã…r | BokfÃ¸rt verdi ved start | Ã…rlig amortisering | BokfÃ¸rt verdi ved slutt |
+| År | Bokført verdi ved start | Årlig amortisering | Bokført verdi ved slutt |
 |----|-------------------------|--------------------|-------------------------|
 | 0  | 1Â 000Â 000Â kr            | -                  | 1Â 000Â 000Â kr            |
 | 1  | 1Â 000Â 000Â kr            | 100Â 000Â kr         | 900Â 000Â kr              |
@@ -71,7 +71,11 @@ Vanlig verdivurdering fÃ¸lger enten historisk kost eller virkelig verdi ved op
 
 ## 5. Oppsummering
 
-Varemerker er en sentral **immateriell eiendel** som kan skape betydelig konkurransefortrinn. Korrekt regnskapsfÃ¸ring krever hÃ¥ndtering av aktivering, amortisering og eventuelle nedskrivninger i henhold til norske regnskapsstandarder.
+Varemerker er en sentral **immateriell eiendel** som kan skape betydelig konkurransefortrinn. Korrekt regnskapsføring krever håndtering av aktivering, amortisering og eventuelle nedskrivninger i henhold til norske regnskapsstandarder.
+
+
+
+
 
 
 

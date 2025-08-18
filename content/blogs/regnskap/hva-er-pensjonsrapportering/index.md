@@ -1,47 +1,47 @@
 ﻿---
 title: "Hva er Pensjonsrapportering?"
 meta_title: "Hva er Pensjonsrapportering?"
-meta_description: '**Pensjonsrapportering** er en kritisk del av norsk regnskapsfÃ¸ring som sikrer korrekt og transparent presentasjon av bedriftens [pensjonsforpliktelser](/blogs...'
+meta_description: '**Pensjonsrapportering** er en kritisk del av norsk regnskapsføring som sikrer korrekt og transparent presentasjon av bedriftens [pensjonsforpliktelser](/blogs...'
 slug: hva-er-pensjonsrapportering
 type: blog
 layout: pages/single
 ---
 
-**Pensjonsrapportering** er en kritisk del av norsk regnskapsfÃ¸ring som sikrer korrekt og transparent presentasjon av bedriftens [pensjonsforpliktelser](/blogs/regnskap/hva-er-pensjon "Hva er Pensjon? Komplett Guide til Norsk Pensjonssystem") og pensjonskostnader. Dette omfatter bÃ¥de [lovpÃ¥lagte krav](/blogs/regnskap/hva-er-bokforingsloven "Hva er BokfÃ¸ringsloven? Regler og Krav til Norsk Regnskap") til regnskapsfÃ¸ring og utvidet rapportering for interessenter.
+**Pensjonsrapportering** er en kritisk del av norsk regnskapsføring som sikrer korrekt og transparent presentasjon av bedriftens [pensjonsforpliktelser](/blogs/regnskap/hva-er-pensjon "Hva er Pensjon? Komplett Guide til Norsk Pensjonssystem") og pensjonskostnader. Dette omfatter både [lovpålagte krav](/blogs/regnskap/hva-er-bokforingsloven "Hva er Bokføringsloven? Regler og Krav til Norsk Regnskap") til regnskapsføring og utvidet rapportering for interessenter.
 
 ![Oversikt over pensjonsrapportering](pensjonsrapportering-oversikt.svg)
 
 ## Hva er Pensjonsrapportering?
 
-**Pensjonsrapportering** refererer til den systematiske prosessen med Ã¥ mÃ¥le, registrere og rapportere alle aspekter av bedriftens pensjonsordninger i regnskapet og tilhÃ¸rende dokumentasjon. Dette inkluderer bÃ¥de **innskuddsbaserte** og **ytelsesbaserte** pensjonsordninger som pÃ¥virker selskapets finansielle stilling.
+**Pensjonsrapportering** refererer til den systematiske prosessen med å måle, registrere og rapportere alle aspekter av bedriftens pensjonsordninger i regnskapet og tilhørende dokumentasjon. Dette inkluderer både **innskuddsbaserte** og **ytelsesbaserte** pensjonsordninger som påvirker selskapets finansielle stilling.
 
-### FormÃ¥l med Pensjonsrapportering
+### Formål med Pensjonsrapportering
 
-Pensjonsrapportering har flere kritiske formÃ¥l:
+Pensjonsrapportering har flere kritiske formål:
 
 * **Transparens:** Gi interessenter fullstendig innsikt i pensjonskostnader og -forpliktelser
 * **Compliance:** Sikre etterlevelse av [regnskapsstandarder](/blogs/regnskap/hva-er-regnskapsstandarder "Hva er Regnskapsstandarder? NRS, IFRS og Regnskapsregler") og lovkrav
-* **Beslutningsgrunnlag:** UnderstÃ¸tte strategiske beslutninger om pensjonsordninger
+* **Beslutningsgrunnlag:** Understøtte strategiske beslutninger om pensjonsordninger
 * **Risikostyring:** Identifisere og kvantifisere pensjonsmessige risikoer
 
 ## Lovkrav til Pensjonsrapportering
 
-Norske bedrifter mÃ¥ fÃ¸lge strenge krav til pensjonsrapportering etablert gjennom flere regelverk:
+Norske bedrifter må følge strenge krav til pensjonsrapportering etablert gjennom flere regelverk:
 
 ### Regnskapsloven og NRS Standarder
 
-**Regnskapsloven** og tilhÃ¸rende [Norske Regnskapsstandarder (NRS)](/blogs/regnskap/hva-er-regnskapsstandarder "Hva er Regnskapsstandarder? NRS, IFRS og Regnskapsregler") krever:
+**Regnskapsloven** og tilhørende [Norske Regnskapsstandarder (NRS)](/blogs/regnskap/hva-er-regnskapsstandarder "Hva er Regnskapsstandarder? NRS, IFRS og Regnskapsregler") krever:
 
-* Korrekt regnskapsfÃ¸ring av pensjonskostnader
+* Korrekt regnskapsføring av pensjonskostnader
 * Fullstendig opplysning om pensjonsordninger i noter
 * Aktuarmessige beregninger for ytelsesordninger
-* Ã…rlig vurdering av pensjonsmidler og -forpliktelser
+* Årlig vurdering av pensjonsmidler og -forpliktelser
 
 ![Regnskapskrav pensjonsrapportering](regnskapskrav-pensjonsrapportering.svg)
 
-### RegnskapsfÃ¸ringsmetoder
+### Regnskapsføringsmetoder
 
-Pensjonsrapportering varierer betydelig basert pÃ¥ type pensjonsordning:
+Pensjonsrapportering varierer betydelig basert på type pensjonsordning:
 
 #### Innskuddspensjon
 
@@ -49,15 +49,15 @@ Pensjonsrapportering varierer betydelig basert pÃ¥ type pensjonsordning:
 
 | Element | Regnskapsbehandling | Rapporteringskrav |
 |---------|---------------------|-------------------|
-| LÃ¸pende innskudd | [LÃ¸nnskostnad](/blogs/regnskap/hva-er-lonnskostnader "Hva er LÃ¸nnskostnader? Komplett Guide til LÃ¸nnskostnader i Regnskap") nÃ¥r pÃ¥lÃ¸pt | Spesifikasjon i noter |
-| Skyldige innskudd | [Kortsiktig gjeld](/blogs/regnskap/hva-er-kortsiktig-gjeld "Hva er Kortsiktig Gjeld? Definisjon og RegnskapsfÃ¸ring") | Presentasjon i [balanse](/blogs/regnskap/hva-er-balanse "Hva er Balanse? Struktur og Innhold i Balanseregnskap") |
+| Løpende innskudd | [Lønnskostnad](/blogs/regnskap/hva-er-lonnskostnader "Hva er Lønnskostnader? Komplett Guide til Lønnskostnader i Regnskap") når påløpt | Spesifikasjon i noter |
+| Skyldige innskudd | [Kortsiktig gjeld](/blogs/regnskap/hva-er-kortsiktig-gjeld "Hva er Kortsiktig Gjeld? Definisjon og Regnskapsføring") | Presentasjon i [balanse](/blogs/regnskap/hva-er-balanse "Hva er Balanse? Struktur og Innhold i Balanseregnskap") |
 | Administrasjonskostnader | Driftskostnad | Separat rapportering |
 
 #### Ytelsespensjon
 
 **Ytelsespensjoner** krever omfattende rapportering:
 
-* **Pensjonsforpliktelse:** NÃ¥verdi av fremtidige pensjonsytelser
+* **Pensjonsforpliktelse:** Nåverdi av fremtidige pensjonsytelser
 * **Pensjonsmidler:** Markedsverdi av investerte midler
 * **Netto pensjonsforpliktelse:** Differanse mellom forpliktelse og midler
 * **Pensjonskostnad:** Periodisert kostnad i [resultatregnskapet](/blogs/regnskap/hva-er-resultatregnskap "Hva er Resultatregnskap? Oppbygning og Analyse")
@@ -70,18 +70,18 @@ Pensjonsrapportering varierer betydelig basert pÃ¥ type pensjonsordning:
 
 ### Sentrale Forutsetninger
 
-Aktuarmessige beregninger baseres pÃ¥ flere kritiske forutsetninger:
+Aktuarmessige beregninger baseres på flere kritiske forutsetninger:
 
 * **Demografiske antagelser:**
-  - DÃ¸delighet og forventet levealder
-  - Utgangsalder og pensjoneringsmÃ¸nster
-  - Personalomsetning og avgangsmÃ¸nster
+  - Dødelighet og forventet levealder
+  - Utgangsalder og pensjoneringsmønster
+  - Personalomsetning og avgangsmønster
 
-* **Ã˜konomiske antagelser:**
+* **Økonomiske antagelser:**
   - Diskonteringsrente
-  - LÃ¸nnsvekst og inflasjon
+  - Lønnsvekst og inflasjon
   - Pensjonsregulering (G-verdi utvikling)
-  - Forventet avkastning pÃ¥ pensjonsmidler
+  - Forventet avkastning på pensjonsmidler
 
 ![Aktuarmessige forutsetninger oversikt](aktuarmessige-forutsetninger-oversikt.svg)
 
@@ -90,9 +90,9 @@ Aktuarmessige beregninger baseres pÃ¥ flere kritiske forutsetninger:
 Den aktuarmessige prosessen involverer:
 
 1. **Datainnsamling:** Ansattinformasjon og ordningsbestemmelser
-2. **Forutsetningssetting:** Fastsettelse av demografiske og Ã¸konomiske antagelser
-3. **Beregning:** NÃ¥verdiberegning av fremtidige pensjonsytelser
-4. **Rapportering:** Presentasjon av resultater for regnskapsformÃ¥l
+2. **Forutsetningssetting:** Fastsettelse av demografiske og økonomiske antagelser
+3. **Beregning:** Nåverdiberegning av fremtidige pensjonsytelser
+4. **Rapportering:** Presentasjon av resultater for regnskapsformål
 
 ## Komponenter i Pensjonsrapportering
 
@@ -100,9 +100,9 @@ Omfattende pensjonsrapportering inkluderer flere sentrale komponenter:
 
 ### Balanseopplysninger
 
-**Balansen** mÃ¥ vise:
+**Balansen** må vise:
 
-* Netto pensjonsforpliktelse som [langsiktig gjeld](/blogs/regnskap/hva-er-langsiktig-gjeld "Hva er Langsiktig Gjeld? Definisjon og RegnskapsfÃ¸ring")
+* Netto pensjonsforpliktelse som [langsiktig gjeld](/blogs/regnskap/hva-er-langsiktig-gjeld "Hva er Langsiktig Gjeld? Definisjon og Regnskapsføring")
 * Pensjonsmidler (hvis relevant)
 * Skyldige pensjonspremier som kortsiktig gjeld
 
@@ -110,31 +110,31 @@ Omfattende pensjonsrapportering inkluderer flere sentrale komponenter:
 
 **Resultatregnskapet** skal inkludere:
 
-* Periodiserte pensjonskostnader som lÃ¸nnskostnad
+* Periodiserte pensjonskostnader som lønnskostnad
 * Finansposter relatert til pensjon
-* Aktuarmessige gevinster/tap (nÃ¥r det gjelder)
+* Aktuarmessige gevinster/tap (når det gjelder)
 
 ![Pensjonskomponenter finansrapporter](pensjonskomponenter-finansrapporter.svg)
 
 ### Noteopplysninger
 
-**Noter til regnskapet** mÃ¥ inneholde omfattende pensjonsopplysninger:
+**Noter til regnskapet** må inneholde omfattende pensjonsopplysninger:
 
 #### Obligatoriske Noteopplysninger
 
 * **Beskrivelse av ordninger:** Detaljert beskrivelse av alle pensjonsordninger
-* **Regnskapsprinsipper:** Valgte prinsipper for pensjonsregnskapsfÃ¸ring
+* **Regnskapsprinsipper:** Valgte prinsipper for pensjonsregnskapsføring
 * **Aktuarmessige forutsetninger:** Oversikt over alle sentrale antagelser
 * **Bevegelser:** Endringer i pensjonsforpliktelser og pensjonsmidler
-* **FÃ¸lsomhetsanalyse:** Effekter av endringer i nÃ¸kkelforutsetninger
+* **Følsomhetsanalyse:** Effekter av endringer i nøkkelforutsetninger
 
-## Ã…rsrapportens Pensjonsdel
+## Årsrapportens Pensjonsdel
 
-Pensjonsrapportering i [Ã¥rsrapporten](/blogs/regnskap/hva-er-arsrapport "Hva er Ã…rsrapport? Innhold, Krav og Praktisk Veiledning") krever strukturert presentasjon:
+Pensjonsrapportering i [årsrapporten](/blogs/regnskap/hva-er-arsrapport "Hva er Årsrapport? Innhold, Krav og Praktisk Veiledning") krever strukturert presentasjon:
 
 ### Ledelsens Beretning
 
-Ledelsens beretning bÃ¸r adressere:
+Ledelsens beretning bør adressere:
 
 * **Pensjonsstrategi:** Overordnet strategi for pensjonsordninger
 * **Endringer:** Vesentlige endringer i pensjonsordninger
@@ -143,7 +143,7 @@ Ledelsens beretning bÃ¸r adressere:
 
 ### Detaljerte Notekrav
 
-Pensjonsnoten mÃ¥ vÃ¦re **komplett og forstÃ¥elig**:
+Pensjonsnoten må være **komplett og forståelig**:
 
 ```
 Note X - Pensjoner
@@ -152,9 +152,9 @@ Note X - Pensjoner
 2. Regnskapsprinsipper
 3. Aktuarmessige forutsetninger
 4. Pensjonsforpliktelser og pensjonsmidler
-5. Bevegelser i regnskapsÃ¥ret
+5. Bevegelser i regnskapsåret
 6. Pensjonskostnader
-7. FÃ¸lsomhetsanalyser
+7. Følsomhetsanalyser
 8. Fremtidige premiebetalinger
 ```
 
@@ -164,9 +164,9 @@ Note X - Pensjoner
 
 Effektiv pensjonsrapportering krever robust [internkontroll](/blogs/regnskap/hva-er-internkontroll "Hva er Internkontroll? Systemer og Prosedyrer for Bedre Risikostyring"):
 
-### KontrollmiljÃ¸
+### Kontrollmiljø
 
-**KontrollmiljÃ¸et** for pensjon bÃ¸r omfatte:
+**Kontrollmiljøet** for pensjon bør omfatte:
 
 * **Ansvarsfordeling:** Klar fordeling av ansvar for pensjonsrapportering
 * **Kompetanse:** Sikre tilstrekkelig fagkompetanse
@@ -177,16 +177,16 @@ Effektiv pensjonsrapportering krever robust [internkontroll](/blogs/regnskap/hva
 
 **Sentrale kontrollaktiviteter** inkluderer:
 
-* **MÃ¥nedlig avstemming:** Kontroll av premiebetalinger og regnskapsfÃ¸ring
+* **Månedlig avstemming:** Kontroll av premiebetalinger og regnskapsføring
 * **Kvartalsvis gjennomgang:** Vurdering av pensjonsforpliktelser
-* **Ã…rlig aktuarvurdering:** Gjennomgang av aktuarmessige forutsetninger
+* **Årlig aktuarvurdering:** Gjennomgang av aktuarmessige forutsetninger
 * **Regelverkskontroll:** Sikre etterlevelse av endrede regelverk
 
 ![Internkontroll pensjonsrapportering](internkontroll-pensjonsrapportering.svg)
 
 ### Risikostyring
 
-**Pensjonsmessige risikoer** som mÃ¥ styres:
+**Pensjonsmessige risikoer** som må styres:
 
 * **Aktuarmessig risiko:** Feil i forutsetninger og beregninger
 * **Markedsrisiko:** Svingninger i pensjonsmidlers verdi
@@ -199,11 +199,11 @@ Moderne pensjonsrapportering drar nytte av digital teknologi:
 
 ### Automatiserte Systemer
 
-**Digitale pensjonssystemer** muliggjÃ¸r:
+**Digitale pensjonssystemer** muliggjør:
 
-* **Sanntidsrapportering:** LÃ¸pende oppdatering av pensjonsdata
+* **Sanntidsrapportering:** Løpende oppdatering av pensjonsdata
 * **Integrerte beregninger:** Automatiserte aktuarmessige beregninger
-* **Compliance-overvÃ¥king:** Automatisk kontroll av regelverksetterlevelse
+* **Compliance-overvåking:** Automatisk kontroll av regelverksetterlevelse
 * **Scenariomodellering:** Avanserte analyser av fremtidige utviklinger
 
 ### API-integrasjoner
@@ -212,7 +212,7 @@ Moderne pensjonsrapportering drar nytte av digital teknologi:
 
 * Pensjonsselskaper for pensjonsmiddeldata
 * Aktuarkonsulenter for beregningsresultater
-* [Regnskapssystemer](/blogs/regnskap/hva-er-regnskapssystem "Hva er Regnskapssystem? Digital BokfÃ¸ring og Rapportering") for automatisk fÃ¸ring
+* [Regnskapssystemer](/blogs/regnskap/hva-er-regnskapssystem "Hva er Regnskapssystem? Digital Bokføring og Rapportering") for automatisk føring
 
 ![Digitale pensjonsrapporteringssystemer](digitale-pensjonsrapporteringssystemer.svg)
 
@@ -225,9 +225,9 @@ For selskaper som rapporterer etter **IFRS** gjelder spesielle krav:
 **IAS 19** krever:
 
 * **Detaljert aktuarmessig verdsetting** av ytelsesbaserte ordninger
-* **Korridor-tilnÃ¦rming** eller direkte resultatfÃ¸ring av aktuarmessige gevinster/tap
+* **Korridor-tilnærming** eller direkte resultatføring av aktuarmessige gevinster/tap
 * **Omfattende noteopplysninger** om pensjonsordninger
-* **Ã…rlig aktuarvurdering** av alle vesentlige ordninger
+* **Årlig aktuarvurdering** av alle vesentlige ordninger
 
 ### Forskjeller fra Norske Standarder
 
@@ -236,9 +236,9 @@ Hovedforskjeller mellom IFRS og norske regler:
 | Aspekt | IFRS (IAS 19) | Norske standarder |
 |--------|---------------|-------------------|
 | Aktuarmessige gevinster/tap | Direkte i totalresultat | Korridor eller direkte |
-| Ikke-opptjente rettigheter | Ã˜yeblikkelig kostnadsfÃ¸ring | Amortisering |
-| Diskonteringsrente | HÃ¸ykvalitets selskapsobligasjoner | Statsobligasjoner |
-| Notekrav | SvÃ¦rt detaljerte | Moderat detaljerte |
+| Ikke-opptjente rettigheter | Øyeblikkelig kostnadsføring | Amortisering |
+| Diskonteringsrente | Høykvalitets selskapsobligasjoner | Statsobligasjoner |
+| Notekrav | Svært detaljerte | Moderat detaljerte |
 
 ## Sektorspesifikke Pensjonsutfordringer
 
@@ -246,15 +246,15 @@ Ulike sektorer har spesielle pensjonsrapporteringsutfordringer:
 
 ### Offentlig Sektor
 
-**Offentlige virksomheter** mÃ¸ter unike utfordringer:
+**Offentlige virksomheter** møter unike utfordringer:
 
 * **Statens Pensjonskasse (SPK):** Spesielle regler for offentlig ansatte
-* **Kommunal sektor:** Varierte pensjonsordninger pÃ¥ kommunalt nivÃ¥
+* **Kommunal sektor:** Varierte pensjonsordninger på kommunalt nivå
 * **Helseforetak:** Komplekse ordninger for helsepersonell
 
 ### Privat Sektor
 
-**Private bedrifter** har andre fokusomrÃ¥der:
+**Private bedrifter** har andre fokusområder:
 
 * **Konkurransedyktige ordninger:** Balanse mellom kostnader og ansattfordeler
 * **Fleksibilitet:** Tilpasning til virksomhetens utviklingsfaser
@@ -264,23 +264,23 @@ Ulike sektorer har spesielle pensjonsrapporteringsutfordringer:
 
 ## Fremtidens Pensjonsrapportering
 
-Pensjonsrapportering vil fortsette Ã¥ utvikle seg:
+Pensjonsrapportering vil fortsette å utvikle seg:
 
 ### Teknologiske Innovasjoner
 
-**Nye teknologier** vil pÃ¥virke rapportering:
+**Nye teknologier** vil påvirke rapportering:
 
 * **Kunstig intelligens:** Automatiserte aktuarmessige beregninger og prognoser
 * **Blockchain:** Sikker og transparent registrering av pensjonsrettigheter
-* **Cloud-computing:** Skalerbare lÃ¸sninger for smÃ¥ og mellomstore bedrifter
-* **Data analytics:** Dypere innsikt i pensjonsmessige risikomÃ¸nstre
+* **Cloud-computing:** Skalerbare løsninger for små og mellomstore bedrifter
+* **Data analytics:** Dypere innsikt i pensjonsmessige risikomønstre
 
 ### Regulatoriske Endringer
 
 **Forventede regelverksendringer:**
 
 * **Nye IFRS-standarder:** Fortsatt utvikling av internasjonale standarder
-* **ESG-rapportering:** BÃ¦rekraftshensyn i pensjonsforvaltning
+* **ESG-rapportering:** Bærekraftshensyn i pensjonsforvaltning
 * **Digital rapportering:** Standardiserte digitale rapporteringsformater
 * **Realtidsrapportering:** Krav til raskere og mer oppdatert rapportering
 
@@ -288,44 +288,48 @@ Pensjonsrapportering vil fortsette Ã¥ utvikle seg:
 
 ## Praktiske Anbefalinger
 
-For bedrifter som Ã¸nsker Ã¥ forbedre sin pensjonsrapportering:
+For bedrifter som ønsker å forbedre sin pensjonsrapportering:
 
 ### Organisering
 
 **Effektiv organisering** krever:
 
-* **Tydelig ansvarsfordeling:** KlargjÃ¸ring av roller og ansvar
+* **Tydelig ansvarsfordeling:** Klargjøring av roller og ansvar
 * **Kompetanseutvikling:** Sikre tilstrekkelig fagkompetanse
 * **Dokumenterte prosedyrer:** Skriftlige rutiner for alle prosesser
 * **Kvalitetssikring:** Systematisk kontroll og verifisering
 
 ### Systemvalg
 
-**Ved valg av systemer** bÃ¸r man vurdere:
+**Ved valg av systemer** bør man vurdere:
 
 * **Funksjonalitet:** Dekker systemet alle rapporteringsbehov?
-* **Integrasjon:** Kan systemet integreres med eksisterende lÃ¸sninger?
+* **Integrasjon:** Kan systemet integreres med eksisterende løsninger?
 * **Skalerbarhet:** Kan systemet vokse med virksomheten?
-* **Support:** Er leverandÃ¸ren dyktig pÃ¥ pensjonsrapportering?
+* **Support:** Er leverandøren dyktig på pensjonsrapportering?
 
 ### Samarbeidspartnere
 
 **Viktige samarbeidspartnere:**
 
-* **Autorisert regnskapsfÃ¸rer:** Sikre korrekt regnskapsbehandling
+* **Autorisert regnskapsfører:** Sikre korrekt regnskapsbehandling
 * **Aktuarkonsulent:** Profesjonelle aktuarmessige beregninger
-* **Pensjonsselskap:** Kompetent leverandÃ¸r av pensjonstjenester
+* **Pensjonsselskap:** Kompetent leverandør av pensjonstjenester
 * **Revisor:** Ekstern kvalitetssikring av rapportering
 
 ![Beste praksis pensjonsrapportering](beste-praksis-pensjonsrapportering.svg)
 
 ## Konklusjon
 
-**Pensjonsrapportering** er en kompleks og kritisk del av moderne regnskapsfÃ¸ring som krever grundig forstÃ¥else av bÃ¥de regnskapstekniske og aktuarmessige aspekter. Bedrifter mÃ¥ etablere robuste systemer og prosesser for Ã¥ sikre korrekt og transparent rapportering av pensjonsforpliktelser.
+**Pensjonsrapportering** er en kompleks og kritisk del av moderne regnskapsføring som krever grundig forståelse av både regnskapstekniske og aktuarmessige aspekter. Bedrifter må etablere robuste systemer og prosesser for å sikre korrekt og transparent rapportering av pensjonsforpliktelser.
 
-Effektiv pensjonsrapportering stÃ¸tter ikke bare **lovpÃ¥lagt compliance**, men gir ogsÃ¥ verdifull innsikt for strategisk beslutningstakning og [risikostyring](/blogs/regnskap/hva-er-risikostyring "Hva er Risikostyring? Prinsipper og Metoder i Regnskapssammenheng"). Med den pÃ¥gÃ¥ende digitaliseringen og regulatoriske utviklingen, vil pensjonsrapportering fortsette Ã¥ utvikle seg som et sentralt element i finansiell rapportering.
+Effektiv pensjonsrapportering støtter ikke bare **lovpålagt compliance**, men gir også verdifull innsikt for strategisk beslutningstakning og [risikostyring](/blogs/regnskap/hva-er-risikostyring "Hva er Risikostyring? Prinsipper og Metoder i Regnskapssammenheng"). Med den pågående digitaliseringen og regulatoriske utviklingen, vil pensjonsrapportering fortsette å utvikle seg som et sentralt element i finansiell rapportering.
 
-For bedrifter som Ã¸nsker Ã¥ mestre pensjonsrapportering, er det essensielt Ã¥ investere i **kompetanse, systemer og prosesser** som sikrer bÃ¥de dagens krav og fremtidens utfordringer.
+For bedrifter som ønsker å mestre pensjonsrapportering, er det essensielt å investere i **kompetanse, systemer og prosesser** som sikrer både dagens krav og fremtidens utfordringer.
+
+
+
+
 
 
 

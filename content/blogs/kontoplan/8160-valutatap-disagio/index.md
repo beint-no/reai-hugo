@@ -1,40 +1,40 @@
 ﻿---
 title: "Hva er Konto 8160 - Valutatap (Disagio)?"
 meta_title: "8160-valutatap-disagio"
-meta_description: '**Konto 8160 - Valutatap (Disagio)** er en konto i Norsk Standard Kontoplan som brukes for Ã¥ registrere **tap ved valutakursendringer** (ofte kalt *disagio*) s...'
+meta_description: '**Konto 8160 - Valutatap (Disagio)** er en konto i Norsk Standard Kontoplan som brukes for å registrere **tap ved valutakursendringer** (ofte kalt *disagio*) s...'
 slug: 8160-valutatap-disagio
 type: blog
 layout: pages/single
 ---
 
-**Konto 8160 - Valutatap (Disagio)** er en konto i Norsk Standard Kontoplan som brukes for Ã¥ registrere **tap ved valutakursendringer** (ofte kalt *disagio*) som oppstÃ¥r ved omregning av utenlandsk valuta.
+**Konto 8160 - Valutatap (Disagio)** er en konto i Norsk Standard Kontoplan som brukes for å registrere **tap ved valutakursendringer** (ofte kalt *disagio*) som oppstår ved omregning av utenlandsk valuta.
 
 ![Illustrasjon av konto 8160 valutatap (disagio)](8160-valutatap-disagio-image.svg)
 
 ## Hva er Valutatap (Disagio)?
 
-**Valutatap** oppstÃ¥r nÃ¥r **valutakursen** endres slik at en utenlandsk valuta har lavere verdi i NOK.
+**Valutatap** oppstår når **valutakursen** endres slik at en utenlandsk valuta har lavere verdi i NOK.
 
-**Disagio** er forskjellen mellom kjÃ¸ps- og salgskurs for valuta som realiserer tap.
+**Disagio** er forskjellen mellom kjøps- og salgskurs for valuta som realiserer tap.
 
-## NÃ¥r bokfÃ¸res Valutatap?
+## Når bokføres Valutatap?
 
 * Ved omregning av kontante bank- eller kassebeholdninger i utenlandsk valuta som har falt i verdi.
-* Ved oppgjÃ¸r av leverandÃ¸r- eller kundefordringer denominert i fremmed valuta som gir negativ kursdifferanse.
+* Ved oppgjør av leverandør- eller kundefordringer denominert i fremmed valuta som gir negativ kursdifferanse.
 * Ved lukking av valutaposisjoner som resulterer i negativ kursdifferanse.
 
-## RegnskapsfÃ¸ringseksempler
+## Regnskapsføringseksempler
 
 | Hendelse                                         | Debet                            | Kredit                         |
 |--------------------------------------------------|----------------------------------|--------------------------------|
-| Tap ved valutakursendring pÃ¥ bankinnskudd        | Konto 8160 - Valutatap (Disagio) | Konto 1920 - Bankinnskudd      |
-| Tap ved valutatransaksjon pÃ¥ leverandÃ¸rgjeld     | Konto 8160 - Valutatap (Disagio) | Konto 2400 - LeverandÃ¸rgjeld   |
+| Tap ved valutakursendring på bankinnskudd        | Konto 8160 - Valutatap (Disagio) | Konto 1920 - Bankinnskudd      |
+| Tap ved valutatransaksjon på leverandørgjeld     | Konto 8160 - Valutatap (Disagio) | Konto 2400 - Leverandørgjeld   |
 
 ## Eksempelberegning
 
-En virksomhet har 10Â 000Â USD pÃ¥ bankkonto. Opprinnelig omregningskurs var 9,60Â NOK/USD, og pÃ¥ balansedagen er kursen 9,50Â NOK/USD:
+En virksomhet har 10Â 000Â USD på bankkonto. Opprinnelig omregningskurs var 9,60Â NOK/USD, og på balansedagen er kursen 9,50Â NOK/USD:
 
-| Beskrivelse                              | BelÃ¸p (USD) | Kurs (NOK) | NOK-verdi     |
+| Beskrivelse                              | Beløp (USD) | Kurs (NOK) | NOK-verdi     |
 |------------------------------------------|-------------|------------|---------------|
 | Opprinnelig valutabeholdning             | 10Â 000      | 9,60       | 96Â 000        |
 | Ny kurs for omregning                    | 10Â 000      | 9,50       | 95Â 000        |
@@ -46,4 +46,9 @@ En virksomhet har 10Â 000Â USD pÃ¥ bankkonto. Opprinnelig omregningskurs v
 * [Konto 8170 - Annen finanskostnad](/blogs/kontoplan/8170-annen-finanskostnad "Konto 8170 - Annen finanskostnad: Guide til andre finanskostnader")
 * [Hva er Periodisering i Regnskap?](/blogs/regnskap/hva-er-periodisering "Hva er Periodisering i Regnskap? Guide til periodisering av kostnader og inntekter")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+
+
+
+
+
 

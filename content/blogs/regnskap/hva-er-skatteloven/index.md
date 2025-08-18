@@ -1,19 +1,19 @@
 ﻿---
 title: "Hva er Skatteloven?"
 meta_title: "Hva er Skatteloven?"
-meta_description: '***Skatteloven*** er hovedloven som regulerer skattelegging i Norge. Den inneholder regler om fastsetting, beregning og innkreving av skatt for bÃ¥de **personer...'
+meta_description: '***Skatteloven*** er hovedloven som regulerer skattelegging i Norge. Den inneholder regler om fastsetting, beregning og innkreving av skatt for både **personer...'
 slug: hva-er-skatteloven
 type: blog
 layout: pages/single
 ---
 
-***Skatteloven*** er hovedloven som regulerer skattelegging i Norge. Den inneholder regler om fastsetting, beregning og innkreving av skatt for bÃ¥de **personer** og **foretak**, og er avgjÃ¸rende for korrekt regnskapsfÃ¸ring og skatteplanlegging.
+***Skatteloven*** er hovedloven som regulerer skattelegging i Norge. Den inneholder regler om fastsetting, beregning og innkreving av skatt for både **personer** og **foretak**, og er avgjørende for korrekt regnskapsføring og skatteplanlegging.
 
 ![Skatteloven](hva-er-skatteloven-image.svg)
 
-## 1. FormÃ¥l og omfang
+## 1. Formål og omfang
 
-Skatteloven har som hovedformÃ¥l Ã¥:
+Skatteloven har som hovedformål å:
 
 * Sikre en rettferdig fordeling av **skattebyrden**.
 * Legge rammer for beregning av **skattegrunnlag** og **skattesatser**.
@@ -23,8 +23,8 @@ Loven gjelder for blant annet:
 
 | Gruppe                | Beskrivelse                                                |
 |-----------------------|------------------------------------------------------------|
-| Personer              | Skatt pÃ¥ lÃ¸nn, pensjon og kapitalinntekter                 |
-| Selskaper             | Skatt pÃ¥ overskudd (se ogsÃ¥ [Hva er Skatt?](/blogs/regnskap/hva-er-skatt "Skatt - Komplett Guide til Norsk Skattesystem og Skatteberegning")) |
+| Personer              | Skatt på lønn, pensjon og kapitalinntekter                 |
+| Selskaper             | Skatt på overskudd (se også [Hva er Skatt?](/blogs/regnskap/hva-er-skatt "Skatt - Komplett Guide til Norsk Skattesystem og Skatteberegning")) |
 | Foretak med fradragsrett | Spesielle regler for fradragsberettigede inntekter og kostnader |
 
 ## 2. Lovenes struktur
@@ -46,17 +46,17 @@ Loven inneholder flere sentrale prinsipper:
 
 1. **Legalitetsprinsippet:** Ingen skatt uten lov.
 2. **Likhetsprinsippet:** Like tilfeller behandles likt.
-3. **Kapitalrenteprinsippet:** Avkastning pÃ¥ kapital beskattes etter egne regler.
+3. **Kapitalrenteprinsippet:** Avkastning på kapital beskattes etter egne regler.
 
-## 4. Skattemessige nÃ¸kkelbegreper
+## 4. Skattemessige nøkkelbegreper
 
 * **Skattegrunnlag:** Grunnlaget for beregning av skatt (se [Hva er Skattegrunnlag?](/blogs/regnskap/hva-er-skattegrunnlag "Skattegrunnlag - Guide til Beregning av Skattepliktig Inntekt")).
-* **Skattesatser:** Prosentandeler som anvendes pÃ¥ skattegrunnlaget.
-* **Forskuddsskatt:** Periodisk betaling av forventet skatt (se [Hva er Skatteberegning?](/blogs/regnskap/skatteberegning "Skatteberegning - Guide til Beregning av Skatt og RegnskapsfÃ¸ring")).
+* **Skattesatser:** Prosentandeler som anvendes på skattegrunnlaget.
+* **Forskuddsskatt:** Periodisk betaling av forventet skatt (se [Hva er Skatteberegning?](/blogs/regnskap/skatteberegning "Skatteberegning - Guide til Beregning av Skatt og Regnskapsføring")).
 
-## 5. Skatteloven og regnskapsfÃ¸ring
+## 5. Skatteloven og regnskapsføring
 
-For regnskapsfÃ¸rere har Skatteloven direkte pÃ¥virkning pÃ¥:
+For regnskapsførere har Skatteloven direkte påvirkning på:
 
 * Periodisering av kostnader og inntekter.
 * Beregning av **utsatt skatt**.
@@ -64,7 +64,7 @@ For regnskapsfÃ¸rere har Skatteloven direkte pÃ¥virkning pÃ¥:
 
 ## 6. Overgangsregler og endringer
 
-Skatteloven oppdateres jevnlig. Ved endringer er det viktig Ã¥:
+Skatteloven oppdateres jevnlig. Ved endringer er det viktig å:
 
 * Sjekke offisiell dokumentasjon fra [Skatteetaten](/blogs/regnskap/skatteetaten "Skatteetaten - Offisiell Informasjon om Skatteregler").
 * Vurdere overgangsregler for nye satser og fradrag.
@@ -72,17 +72,21 @@ Skatteloven oppdateres jevnlig. Ved endringer er det viktig Ã¥:
 
 ## 7. Historisk utvikling
 
-Skatteloven har rÃ¸tter tilbake til:
+Skatteloven har røtter tilbake til:
 
 * 1911-loven som etablerte selskapsskatt.
-* Revisjoner pÃ¥ 1950- og 1980-tallet for Ã¥ tilpasse EU-direktiver.
-* Digitalisering i 2000-Ã¥rene med [skattemelding](/blogs/regnskap/skattemelding "Skattemelding - Komplett Guide til Utfylling og Innlevering") og eInnsending.
+* Revisjoner på 1950- og 1980-tallet for å tilpasse EU-direktiver.
+* Digitalisering i 2000-årene med [skattemelding](/blogs/regnskap/skattemelding "Skattemelding - Komplett Guide til Utfylling og Innlevering") og eInnsending.
 
-## Se ogsÃ¥
+## Se også
 
 * [Hva er Skatt?](/blogs/regnskap/hva-er-skatt "Skatt - Komplett Guide til Norsk Skattesystem og Skatteberegning")
-* [Hva er Skatteberegning?](/blogs/regnskap/skatteberegning "Skatteberegning - Guide til Beregning av Skatt og RegnskapsfÃ¸ring")
+* [Hva er Skatteberegning?](/blogs/regnskap/skatteberegning "Skatteberegning - Guide til Beregning av Skatt og Regnskapsføring")
 * [Hva er Skattegrunnlag?](/blogs/regnskap/hva-er-skattegrunnlag "Skattegrunnlag - Guide til Beregning av Skattepliktig Inntekt")
+
+
+
+
 
 
 

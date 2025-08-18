@@ -1,85 +1,90 @@
 ﻿---
 title: "Konto 2730 - Grunnlag investeringsavgift"
 meta_title: "2730-grunnlag-investeringsavgift"
-meta_description: '**Konto 2730 - Grunnlag investeringsavgift** er en konto i **Norsk Standard Kontoplan** som brukes til Ã¥ registrere **grunnlaget for utgÃ¥ende investeringsavgi...'
+meta_description: '**Konto 2730 - Grunnlag investeringsavgift** er en konto i **Norsk Standard Kontoplan** som brukes til å registrere **grunnlaget for utgående investeringsavgi...'
 slug: 2730-grunnlag-investeringsavgift
 type: blog
 layout: pages/single
 ---
 
-**Konto 2730 - Grunnlag investeringsavgift** er en konto i **Norsk Standard Kontoplan** som brukes til Ã¥ registrere **grunnlaget for utgÃ¥ende investeringsavgift** ved fakturering av kunder ved etablering eller utvidelse av anleggsmidler.
+**Konto 2730 - Grunnlag investeringsavgift** er en konto i **Norsk Standard Kontoplan** som brukes til å registrere **grunnlaget for utgående investeringsavgift** ved fakturering av kunder ved etablering eller utvidelse av anleggsmidler.
 
 ![Illustrasjon av konto 2730 Grunnlag investeringsavgift](2730-grunnlag-investeringsavgift-image.svg)
 
-## Hva er grunnlaget for utgÃ¥ende investeringsavgift?
+## Hva er grunnlaget for utgående investeringsavgift?
 
-*Grunnlag for investeringsavgift* er den underliggende **avgiftspliktige verdien** som legges til grunn nÃ¥r kommunen beregner investeringsavgiften som skal faktureres kunden. Dette grunnlaget bestÃ¥r av alle direkte og indirekte kostnader knyttet til oppfÃ¸ring eller utvidelse av anleggsmidler.
+*Grunnlag for investeringsavgift* er den underliggende **avgiftspliktige verdien** som legges til grunn når kommunen beregner investeringsavgiften som skal faktureres kunden. Dette grunnlaget består av alle direkte og indirekte kostnader knyttet til oppføring eller utvidelse av anleggsmidler.
 
 For mer informasjon om selve avgiften, se [Konto 2720 - Investeringsavgift](/blogs/kontoplan/2720-investeringsavgift "Konto 2720 - Investeringsavgift").
 
-## Hva inngÃ¥r i avgiftsgrunnlaget?
+## Hva inngår i avgiftsgrunnlaget?
 
 Avgiftsgrunnlaget omfatter typisk:
 
 * **Total prosjektkostnad** for bygging eller utvidelse av anleggsmidler.
-* **Material- og leverandÃ¸rkostnader**, inkl. transport og montering.
-* **EntreprenÃ¸r- og konsulenttjenester** direkte knyttet til prosjektet.
-* **Planleggings- og prosjekteringskostnader**, for eksempel arkitekt og ingeniÃ¸rtjenester.
+* **Material- og leverandørkostnader**, inkl. transport og montering.
+* **Entreprenør- og konsulenttjenester** direkte knyttet til prosjektet.
+* **Planleggings- og prosjekteringskostnader**, for eksempel arkitekt og ingeniørtjenester.
 * **Andre direkte kostnader** godkjent av kommunen.
 
 ## Beregning av avgiftsgrunnlag
 
-Beregn grunnlaget ved Ã¥ summere alle relevante kostnadskomponenter:
+Beregn grunnlaget ved å summere alle relevante kostnadskomponenter:
 
-| Beskrivelse                           | BelÃ¸p (NOK)   |
+| Beskrivelse                           | Beløp (NOK)   |
 |---------------------------------------|--------------:|
-| Material- og leverandÃ¸rkostnader      |   1â€¯200â€¯000   |
-| EntreprenÃ¸r- og konsulenttjenester    |     300â€¯000   |
-| Planlegging og prosjektering          |     150â€¯000   |
-| Andre direkte kostnader               |      50â€¯000   |
-| **Sum avgiftsgrunnlag**               | **1â€¯700â€¯000** |
+| Material- og leverandørkostnader      |   1–¯200–¯000   |
+| Entreprenør- og konsulenttjenester    |     300–¯000   |
+| Planlegging og prosjektering          |     150–¯000   |
+| Andre direkte kostnader               |      50–¯000   |
+| **Sum avgiftsgrunnlag**               | **1–¯700–¯000** |
 
-## Sats for utgÃ¥ende investeringsavgift
+## Sats for utgående investeringsavgift
 
 Kommunen fastsetter satsen for investeringsavgift, som varierer etter type anlegg:
 
 | Type anleggsmiddel   | Sats (%)   |
 |----------------------|-----------:|
 | Vei og infrastruktur |      4     |
-| Vann- og avlÃ¸p       |      6     |
+| Vann- og avløp       |      6     |
 | Kollektivtransport   |      3     |
 
-## Eksempel pÃ¥ fakturagrunnlag og avgiftsberegning
+## Eksempel på fakturagrunnlag og avgiftsberegning
 
-En kommune fakturerer en kunde med avgiftsgrunnlag 1â€¯700â€¯000 NOK og sats 4â€¯%:
+En kommune fakturerer en kunde med avgiftsgrunnlag 1–¯700–¯000 NOK og sats 4–¯%:
 
-| Beskrivelse                 | BelÃ¸p (NOK)    |
+| Beskrivelse                 | Beløp (NOK)    |
 |-----------------------------|---------------:|
-| Avgiftsgrunnlag             |     1â€¯700â€¯000  |
+| Avgiftsgrunnlag             |     1–¯700–¯000  |
 | Sats                        | 4 %            |
-| **Investeringsavgift**      | **68â€¯000**     |
+| **Investeringsavgift**      | **68–¯000**     |
 
-## BokfÃ¸ring av utgÃ¥ende investeringsavgift
+## Bokføring av utgående investeringsavgift
 
-I regnskapet settes opp to transaksjoner: Ã©n for grunnlaget og Ã©n for selve avgiften:
+I regnskapet settes opp to transaksjoner: én for grunnlaget og én for selve avgiften:
 
 ```plaintext
-Debet: Konto 1500 - Kundefordringer                   1â€¯768â€¯000 kr
-Kredit: Konto 2730 - Grunnlag investeringsavgift      1â€¯700â€¯000 kr
-Kredit: Konto 2720 - Investeringsavgift                 68â€¯000 kr
+Debet: Konto 1500 - Kundefordringer                   1–¯768–¯000 kr
+Kredit: Konto 2730 - Grunnlag investeringsavgift      1–¯700–¯000 kr
+Kredit: Konto 2720 - Investeringsavgift                 68–¯000 kr
 ```
 
 ## Viktige punkter
 
-* **GjennomgÃ¥ alle kostnadselementer** fÃ¸r fakturering for Ã¥ sikre korrekt avgiftsgrunnlag.
-* **Kontroller kommunens takster** og regelverk for Ã¥ unngÃ¥ feiltaksering.
+* **Gjennomgå alle kostnadselementer** før fakturering for å sikre korrekt avgiftsgrunnlag.
+* **Kontroller kommunens takster** og regelverk for å unngå feiltaksering.
 * **Dokumenter underlag** for revisjon og rapportering.
-* **Sammenlign med inngÃ¥ende avgiftsgrunnlag** i [Konto 1630 - Grunnlag investeringsavgift](/blogs/kontoplan/1630-grunnlag-investeringsavgift "Konto 1630 - Grunnlag investeringsavgift") for helhetlig oversikt.
+* **Sammenlign med inngående avgiftsgrunnlag** i [Konto 1630 - Grunnlag investeringsavgift](/blogs/kontoplan/1630-grunnlag-investeringsavgift "Konto 1630 - Grunnlag investeringsavgift") for helhetlig oversikt.
 
 ## Relaterte artikler
 
 * [Konto 2720 - Investeringsavgift](/blogs/kontoplan/2720-investeringsavgift "Konto 2720 - Investeringsavgift")
 * [Konto 1630 - Grunnlag investeringsavgift](/blogs/kontoplan/1630-grunnlag-investeringsavgift "Konto 1630 - Grunnlag investeringsavgift")
-* [Hva er MVA?](/blogs/regnskap/hva-er-moms-mva "Hva er MVA? MVA-regnskapsfÃ¸ring og merverdiavgift")
+* [Hva er MVA?](/blogs/regnskap/hva-er-moms-mva "Hva er MVA? MVA-regnskapsføring og merverdiavgift")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+
+
+
+
+
 

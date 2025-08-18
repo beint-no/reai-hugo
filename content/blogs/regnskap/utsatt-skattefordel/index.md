@@ -1,33 +1,33 @@
 ﻿---
 title: "Utsatt skattefordel"
 meta_title: "Utsatt skattefordel"
-meta_description: '**Utsatt skattefordel** er en regnskapsmessig eiendel som oppstÃ¥r nÃ¥r midlertidige skattemessige forskjeller vil fÃ¸re til skattemessige fradrag i fremtiden.'
+meta_description: '**Utsatt skattefordel** er en regnskapsmessig eiendel som oppstår når midlertidige skattemessige forskjeller vil føre til skattemessige fradrag i fremtiden.'
 slug: utsatt-skattefordel
 type: blog
 layout: pages/single
 ---
 
-**Utsatt skattefordel** er en regnskapsmessig eiendel som oppstÃ¥r nÃ¥r midlertidige skattemessige forskjeller vil fÃ¸re til skattemessige fradrag i fremtiden.
+**Utsatt skattefordel** er en regnskapsmessig eiendel som oppstår når midlertidige skattemessige forskjeller vil føre til skattemessige fradrag i fremtiden.
 
 ![Utsatt skattefordel](utsatt-skattefordel-image.svg)
 
 ## Hva er utsatt skattefordel?
 
-En **utsatt skattefordel** oppstÃ¥r nÃ¥r den skattemessige verdien av en eiendel eller forpliktelse i dag er lavere enn den regnskapsmessige, slik at selskapet fÃ¥r et fremtidig skattemessig fradrag.
+En **utsatt skattefordel** oppstår når den skattemessige verdien av en eiendel eller forpliktelse i dag er lavere enn den regnskapsmessige, slik at selskapet får et fremtidig skattemessig fradrag.
 
-* Eksempel: Periodiserte kostnader som ikke er fradragsberettiget skattemessig i innevÃ¦rende Ã¥r, men vil bli det senere.
+* Eksempel: Periodiserte kostnader som ikke er fradragsberettiget skattemessig i inneværende år, men vil bli det senere.
 
-Se ogsÃ¥ [Hva er Utsatt Skatt?](/blogs/regnskap/hva-er-utsatt-skatt "Hva er Utsatt Skatt? Beregning og RegnskapsfÃ¸ring").
+Se også [Hva er Utsatt Skatt?](/blogs/regnskap/hva-er-utsatt-skatt "Hva er Utsatt Skatt? Beregning og Regnskapsføring").
 
 ## Hva skaper utsatt skattefordel?
 
 Midlertidige forskjeller som gir grunnlag for utsatt skattefordel inkluderer:
 
 * **Avskrivninger** som konflikterer mellom regnskapsmessig og skattemessig behandling. Se [Hva er Avskrivning?](/blogs/regnskap/hva-er-avskrivning "Hva er Avskrivning? Prinsipper og Eksempler").
-* **Periodiserte kostnader** som pÃ¥lÃ¸per i regnskapet men ikke er fradragsberettiget fÃ¸r senere, for eksempel pensjonskostnader ([Hva er Tjenestepensjon?](/blogs/regnskap/hva-er-tjenestepensjon "Hva er Tjenestepensjon? RegnskapsfÃ¸ring og Skatt")).
+* **Periodiserte kostnader** som påløper i regnskapet men ikke er fradragsberettiget før senere, for eksempel pensjonskostnader ([Hva er Tjenestepensjon?](/blogs/regnskap/hva-er-tjenestepensjon "Hva er Tjenestepensjon? Regnskapsføring og Skatt")).
 * **Utdanningskostnader**, garantiforpliktelser og andre avsetninger.
 
-Se ogsÃ¥ [Midlertidige forskjeller](/blogs/regnskap/midlertidige-forskjeller "Midlertidige forskjeller i regnskap og skatt").
+Se også [Midlertidige forskjeller](/blogs/regnskap/midlertidige-forskjeller "Midlertidige forskjeller i regnskap og skatt").
 
 ## Beregning av utsatt skattefordel
 
@@ -35,32 +35,32 @@ Utsatt skattefordel beregnes normalt som produktet av midlertidig forskjell og g
 
 | **Post**                  | **Beregning**                                  |
 |---------------------------|------------------------------------------------|
-| Midlertidig forskjell     | RegnskapsfÃ¸rt verdiÂ âˆ’Â Skattemessig grunnlag    |
+| Midlertidig forskjell     | Regnskapsført verdiÂ âˆ’Â Skattemessig grunnlag    |
 | Ã— Skattesats (22Â %)       | Gjeldende sats for selskapsskatt               |
-| **= Utsatt skattefordel** | Skattefordel som bokfÃ¸res som eiendel          |
+| **= Utsatt skattefordel** | Skattefordel som bokføres som eiendel          |
 
-## BokfÃ¸ring av utsatt skattefordel
+## Bokføring av utsatt skattefordel
 
-I balansen fÃ¸res utsatt skattefordel pÃ¥ konto **1070 Utsatt skattefordel**. Ved endring i beregningen pÃ¥virkes skattekostnaden.
+I balansen føres utsatt skattefordel på konto **1070 Utsatt skattefordel**. Ved endring i beregningen påvirkes skattekostnaden.
 
 ```text
 Debet 1070 Utsatt skattefordel      22Â 000
 Kredit 8800 Skattekostnad           22Â 000
 ```
 
-Se detaljert [BokfÃ¸ring av utsatt skatt](/blogs/regnskap/hva-er-utsatt-skatt "Hva er Utsatt Skatt? Beregning og RegnskapsfÃ¸ring").
+Se detaljert [Bokføring av utsatt skatt](/blogs/regnskap/hva-er-utsatt-skatt "Hva er Utsatt Skatt? Beregning og Regnskapsføring").
 
-## Eksempel pÃ¥ beregning og bokfÃ¸ring
+## Eksempel på beregning og bokføring
 
-Anta en midlertidig forskjell pÃ¥ 100Â 000Â kr:
+Anta en midlertidig forskjell på 100Â 000Â kr:
 
-| Post                        | BelÃ¸p      |
+| Post                        | Beløp      |
 |-----------------------------|------------|
 | Midlertidig forskjell       | 100Â 000Â kr |
 | Ã— Skattesats (22Â %)         | 22Â 000Â kr  |
 | **Utsatt skattefordel**     | **22Â 000Â kr** |
 
-Den tilsvarende bokfÃ¸ringen blir:
+Den tilsvarende bokføringen blir:
 
 ```text
 Debet 1070 Utsatt skattefordel      22Â 000
@@ -70,23 +70,27 @@ Kredit 8800 Skattekostnad           22Â 000
 ## Utsatt skattefordel vs. utsatt skattegjeld
 
 * **Utsatt skattefordel** gir framtidige skattemessige fradrag.
-* **Utsatt skattegjeld** medfÃ¸rer framtidige skattebetalinger.
+* **Utsatt skattegjeld** medfører framtidige skattebetalinger.
 
-Forskjellen avhenger av om midlertidige forskjeller er *skattefrie* eller *skattepliktige*. LÃ¦r mer i [Hva er Utsatt Skatt?](/blogs/regnskap/hva-er-utsatt-skatt "Hva er Utsatt Skatt? Beregning og RegnskapsfÃ¸ring").
+Forskjellen avhenger av om midlertidige forskjeller er *skattefrie* eller *skattepliktige*. Lær mer i [Hva er Utsatt Skatt?](/blogs/regnskap/hva-er-utsatt-skatt "Hva er Utsatt Skatt? Beregning og Regnskapsføring").
 
 ## Praktiske tips
 
 * Dokumenter alltid de underliggende midlertidige forskjellene i noter eller interne skjemaer.
-* Vurder konsernspesifikke regler og konsernbidrag som kan pÃ¥virke utsatt skattefordel.
-* VÃ¦r oppmerksom pÃ¥ nedskrivningskrav dersom utsatt skattefordel ikke forventes Ã¥ bli utnyttet.
+* Vurder konsernspesifikke regler og konsernbidrag som kan påvirke utsatt skattefordel.
+* Vær oppmerksom på nedskrivningskrav dersom utsatt skattefordel ikke forventes å bli utnyttet.
 
 ## Videre lesning
 
-* [Utsatt skatt](/blogs/regnskap/hva-er-utsatt-skatt "Hva er Utsatt Skatt? Beregning og RegnskapsfÃ¸ring")
+* [Utsatt skatt](/blogs/regnskap/hva-er-utsatt-skatt "Hva er Utsatt Skatt? Beregning og Regnskapsføring")
 * [Midlertidige forskjeller](/blogs/regnskap/midlertidige-forskjeller "Midlertidige forskjeller i regnskap og skatt")
 * [Permanente forskjeller](/blogs/regnskap/permanente-forskjeller "Permanente forskjeller i regnskap og skatt")
-* [Betalbar skatt](/blogs/regnskap/betalbar-skatt "Betalbar skatt “ Komplett guide til beregning og hÃ¥ndtering")
+* [Betalbar skatt](/blogs/regnskap/betalbar-skatt "Betalbar skatt “ Komplett guide til beregning og håndtering")
 * [Hva er en faktura?](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav")
+
+
+
+
 
 
 

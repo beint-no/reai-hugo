@@ -1,69 +1,73 @@
 ﻿---
 title: "Hva er Stedbunden tjeneste i Regnskap?"
 meta_title: "Hva er Stedbunden tjeneste i Regnskap?"
-meta_description: '**Stedbunden tjeneste** er tjenester som utfÃ¸res pÃ¥ et *geografisk bestemt sted* og har **egne MVA-regler** og bokfÃ¸ringskrav. Disse reglene avgjÃ¸r hvor tje...'
+meta_description: '**Stedbunden tjeneste** er tjenester som utføres på et *geografisk bestemt sted* og har **egne MVA-regler** og bokføringskrav. Disse reglene avgjør hvor tje...'
 slug: hva-er-stedbunden-tjeneste
 type: blog
 layout: pages/single
 ---
 
-**Stedbunden tjeneste** er tjenester som utfÃ¸res pÃ¥ et *geografisk bestemt sted* og har **egne MVA-regler** og bokfÃ¸ringskrav. Disse reglene avgjÃ¸r hvor tjenesten anses levert for merverdiavgift og bokfÃ¸ring.
+**Stedbunden tjeneste** er tjenester som utføres på et *geografisk bestemt sted* og har **egne MVA-regler** og bokføringskrav. Disse reglene avgjør hvor tjenesten anses levert for merverdiavgift og bokføring.
 
 ![Illustrasjon av stedbunden tjeneste og stedsbestemmelsesregler](hva-er-stedbunden-tjeneste-image.svg)
 
 ## Definisjon av stedbunden tjeneste
 
-En stedbunden tjeneste leveres fysisk pÃ¥ et spesifikt sted hvor tjenesten faktisk utfÃ¸res. Typiske eksempler inkluderer:
+En stedbunden tjeneste leveres fysisk på et spesifikt sted hvor tjenesten faktisk utføres. Typiske eksempler inkluderer:
 
 * **Persontransport** (taxi, buss, tog) levert der transporten finner sted.
-* **Hotell- og serveringstjenester** levert pÃ¥ overnattingsstedet eller restauranten.
-* **Bygge- og anleggstjenester** utfÃ¸rt pÃ¥ kundens adresse.
-* **Kultur- og idrettsarrangementer** pÃ¥ stedet for arrangementet.
+* **Hotell- og serveringstjenester** levert på overnattingsstedet eller restauranten.
+* **Bygge- og anleggstjenester** utført på kundens adresse.
+* **Kultur- og idrettsarrangementer** på stedet for arrangementet.
 
 ## Juridisk grunnlag
 
-Stedsbestemmelse av stedbunden tjeneste reguleres av **Merverdiavgiftsloven** Â§â€¯3-10 og Skattedirektoratets tolkninger som setter regler for hvor tjenesten anses levert for MVA og bokfÃ¸ring.
+Stedsbestemmelse av stedbunden tjeneste reguleres av **Merverdiavgiftsloven** Â§–¯3-10 og Skattedirektoratets tolkninger som setter regler for hvor tjenesten anses levert for MVA og bokføring.
 
 ## Stedsbestemmelsesregler
 
 | Tjenestetype               | Stedsbestemmelse                        | Referanse                           |
 |----------------------------|-----------------------------------------|-------------------------------------|
-| Persontransport            | Der transporten faktisk skjer           | Merverdiavgiftsloven Â§â€¯3-5          |
-| Hotell- og serveringstjenester | Der overnatting eller servering skjer | Merverdiavgiftsloven Â§â€¯3-7          |
-| Bygge- og anleggstjenester | Arbeidsstedets geografiske beliggenhet  | Merverdiavgiftsloven Â§â€¯3-8          |
-| Kultur- og idrettsarrangement | Stedet for arrangementet               | Merverdiavgiftsloven Â§â€¯3-9          |
+| Persontransport            | Der transporten faktisk skjer           | Merverdiavgiftsloven Â§–¯3-5          |
+| Hotell- og serveringstjenester | Der overnatting eller servering skjer | Merverdiavgiftsloven Â§–¯3-7          |
+| Bygge- og anleggstjenester | Arbeidsstedets geografiske beliggenhet  | Merverdiavgiftsloven Â§–¯3-8          |
+| Kultur- og idrettsarrangement | Stedet for arrangementet               | Merverdiavgiftsloven Â§–¯3-9          |
 
-## Unntak og sÃ¦rregler
+## Unntak og særregler
 
-* **Fjernleverbare tjenester** fÃ¸lger egne regler for stedsbestemmelse. Se [Fjernleverbare tjenester](/blogs/regnskap/hva-er-fjernleverbare-tjenester "Hva er Fjernleverbare Tjenester i Regnskap? MVA-regler og BokfÃ¸ring").
+* **Fjernleverbare tjenester** følger egne regler for stedsbestemmelse. Se [Fjernleverbare tjenester](/blogs/regnskap/hva-er-fjernleverbare-tjenester "Hva er Fjernleverbare Tjenester i Regnskap? MVA-regler og Bokføring").
 * **Digitale tjenester** som ikke er stedbundne, men som leveres elektronisk.
 
 ## Praktiske eksempler
 
-1. En konsulent som **utfÃ¸rer rÃ¥dgivning** pÃ¥ kundens kontor i Oslo, anses levert i Oslo kommune.
-2. Et rockekonsert pÃ¥ en arena i Bergen beskattes som stedbunden tjeneste levert i Bergen.
-3. En guide som fÃ¸lger turister ved Geirangerfjorden, anses levert pÃ¥ Geiranger.
+1. En konsulent som **utfører rådgivning** på kundens kontor i Oslo, anses levert i Oslo kommune.
+2. Et rockekonsert på en arena i Bergen beskattes som stedbunden tjeneste levert i Bergen.
+3. En guide som følger turister ved Geirangerfjorden, anses levert på Geiranger.
 
-## BokfÃ¸ring av stedbunden tjeneste
+## Bokføring av stedbunden tjeneste
 
-NÃ¥r stedbunden tjeneste leveres, bokfÃ¸res inngang og utgang med riktig stedskode og MVA-sats:
+Når stedbunden tjeneste leveres, bokføres inngang og utgang med riktig stedskode og MVA-sats:
 
 ```plaintext
 Debet: Kundefordringer (inkl. MVA)      XXX kr
 Kredit: Tjenesteinntekt (ekskl. MVA)     YYY kr
-Kredit: UtgÃ¥ende MVA                    ZZZ kr
+Kredit: Utgående MVA                    ZZZ kr
 ```
 
 ## Relaterte artikler
 
-For mer informasjon om MVA-regler og stedsbestemmelse, se ogsÃ¥:
+For mer informasjon om MVA-regler og stedsbestemmelse, se også:
 
 * **[Avgiftsplikt (MVA)](/blogs/regnskap/hva-er-avgiftsplikt-mva "Hva er Avgiftsplikt (MVA)? En Komplett Guide til Merverdiavgift")**
-* **[Fjernleverbare tjenester](/blogs/regnskap/hva-er-fjernleverbare-tjenester "Hva er Fjernleverbare Tjenester i Regnskap? MVA-regler og BokfÃ¸ring")**
+* **[Fjernleverbare tjenester](/blogs/regnskap/hva-er-fjernleverbare-tjenester "Hva er Fjernleverbare Tjenester i Regnskap? MVA-regler og Bokføring")**
 
 ## Oppsummering
 
-**Stedbunden tjeneste** krever korrekt stedsbestemmelse for Ã¥ sikre riktig MVA-behandling og bokfÃ¸ring. Ved Ã¥ fÃ¸lge lovens Â§Â§â€¯3-5 til 3-10 og praksis fra Skattedirektoratet kan bedrifter unngÃ¥ feil og sanksjoner.
+**Stedbunden tjeneste** krever korrekt stedsbestemmelse for å sikre riktig MVA-behandling og bokføring. Ved å følge lovens Â§Â§–¯3-5 til 3-10 og praksis fra Skattedirektoratet kan bedrifter unngå feil og sanksjoner.
+
+
+
+
 
 
 

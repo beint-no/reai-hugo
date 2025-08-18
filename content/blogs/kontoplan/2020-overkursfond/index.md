@@ -1,34 +1,34 @@
 ﻿---
 title: "Konto 2020 - Overkursfond"
 meta_title: "2020-overkursfond"
-meta_description: '**Konto 2020 - Overkursfond** er en konto innen **egenkapital** i Norsk Standard Kontoplan (NSÂ 4102) som brukes til Ã¥ registrere **innskutt overkurs** ved emi...'
+meta_description: '**Konto 2020 - Overkursfond** er en konto innen **egenkapital** i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **innskutt overkurs** ved emi...'
 slug: 2020-overkursfond
 type: blog
 layout: pages/single
 ---
 
-**Konto 2020 - Overkursfond** er en konto innen **egenkapital** i Norsk Standard Kontoplan (NSÂ 4102) som brukes til Ã¥ registrere **innskutt overkurs** ved emisjoner.
+**Konto 2020 - Overkursfond** er en konto innen **egenkapital** i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **innskutt overkurs** ved emisjoner.
 
 ![Illustrasjon av konto 2020 overkursfond](2020-overkursfond-image.svg)
 
 ## Hva er Overkursfond?
 
-> *Overkursfond* oppstÃ¥r nÃ¥r aksjekapital blir innbetalt til en kurs over pÃ¥lydende i en emisjon. **Overkurs** (emisjonskurs minus pÃ¥lydende verdi) utgjÃ¸r egenkapital som skilles fra aksjekapitalen.
+> *Overkursfond* oppstår når aksjekapital blir innbetalt til en kurs over pålydende i en emisjon. **Overkurs** (emisjonskurs minus pålydende verdi) utgjør egenkapital som skilles fra aksjekapitalen.
 
-## NÃ¥r benyttes konto 2020?
+## Når benyttes konto 2020?
 
 * **Innskudd av overkurs** ved kontantemisjoner.
-* **Gratisaksjer** (emisjon uten kontanttilfÃ¸rsel, men med registrert overkurs).
-* Overkurs ved omdanning eller fusjon nÃ¥r emisjonskursen overstiger pÃ¥lydende.
+* **Gratisaksjer** (emisjon uten kontanttilførsel, men med registrert overkurs).
+* Overkurs ved omdanning eller fusjon når emisjonskursen overstiger pålydende.
 
-## RegnskapsfÃ¸ring
+## Regnskapsføring
 
 | Transaksjon                                    | Debet                             | Kredit                          |
 |------------------------------------------------|-----------------------------------|---------------------------------|
 | Innskudd av overkurs ved emisjon               | Konto 1920 - Bankinnskudd         | Konto 2020 - Overkursfond       |
-| OverfÃ¸ring til fri egenkapital ved utdeling    | Konto 2020 - Overkursfond         | Konto 2050 - Annen egenkapital  |
+| Overføring til fri egenkapital ved utdeling    | Konto 2020 - Overkursfond         | Konto 2050 - Annen egenkapital  |
 
-> **Merk:** [Konto 2050 - Annen egenkapital](/blogs/kontoplan/2050-annen-egenkapital "Konto 2050 - Annen egenkapital: Annen egenkapital i Norsk Standard Kontoplan") mÃ¥ opprettes eller tilpasses dersom din virksomhet bruker annen egenkapitalkonto for overkurs.
+> **Merk:** [Konto 2050 - Annen egenkapital](/blogs/kontoplan/2050-annen-egenkapital "Konto 2050 - Annen egenkapital: Annen egenkapital i Norsk Standard Kontoplan") må opprettes eller tilpasses dersom din virksomhet bruker annen egenkapitalkonto for overkurs.
 
 ## Balansepresentasjon
 
@@ -51,4 +51,9 @@ layout: pages/single
 * [Konto 2080 - Udekket tap](/blogs/kontoplan/2080-udekket-tap "Konto 2080 - Udekket tap: Komplett Guide til Udekket tap i Norsk Kontoplan")
 * [Hva er egenkapital?](/blogs/regnskap/hva-er-egenkapital "Hva er Egenkapital? Komplett Guide til Egenkapital i Regnskap")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+
+
+
+
+
 

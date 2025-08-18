@@ -1,28 +1,28 @@
 ﻿---
 title: "Restskatt"
 meta_title: "Restskatt"
-meta_description: '**Restskatt** er den skatten som oppstÃ¥r nÃ¥r **forskuddsskatt** eller **betalbar skatt** ikke dekker den endelige skatteforpliktelsen ved [skattemeldingen](/b...'
+meta_description: '**Restskatt** er den skatten som oppstår når **forskuddsskatt** eller **betalbar skatt** ikke dekker den endelige skatteforpliktelsen ved [skattemeldingen](/b...'
 slug: restskatt
 type: blog
 layout: pages/single
 ---
 
-**Restskatt** er den skatten som oppstÃ¥r nÃ¥r **forskuddsskatt** eller **betalbar skatt** ikke dekker den endelige skatteforpliktelsen ved [skattemeldingen](/blogs/regnskap/skattemelding "Skattemelding - Komplett Guide til Utfylling og Innlevering"). Dette kan fÃ¸re til uventede kostnader og likviditetspress for virksomheter.
+**Restskatt** er den skatten som oppstår når **forskuddsskatt** eller **betalbar skatt** ikke dekker den endelige skatteforpliktelsen ved [skattemeldingen](/blogs/regnskap/skattemelding "Skattemelding - Komplett Guide til Utfylling og Innlevering"). Dette kan føre til uventede kostnader og likviditetspress for virksomheter.
 
 ![Illustrasjon av Restskatt](restskatt-image.svg)
 
 ## Hva er Restskatt?
 
-Restskatt er differansen mellom den endelige skatten som fremkommer i skattemeldingen, og det belÃ¸pet som allerede er innbetalt som forskuddsskatt eller terminvis betalbar skatt. NÃ¥r tidligere avsetninger eller innbetalinger viser seg Ã¥ vÃ¦re for lave, mÃ¥ det resterende belÃ¸pet betales som restskatt.
+Restskatt er differansen mellom den endelige skatten som fremkommer i skattemeldingen, og det beløpet som allerede er innbetalt som forskuddsskatt eller terminvis betalbar skatt. Når tidligere avsetninger eller innbetalinger viser seg å være for lave, må det resterende beløpet betales som restskatt.
 
-## Ã…rsaker til Restskatt
+## Årsaker til Restskatt
 
-De vanligste Ã¥rsakene til restskatt er:
+De vanligste årsakene til restskatt er:
 
 * **Undervurdert omsetning** eller inntekt i prognoser
-* **Endringer i skatteregler** som ikke er tatt hÃ¸yde for
+* **Endringer i skatteregler** som ikke er tatt høyde for
 * **Mangelfulle avsetninger** til skatt eller andre kostnader
-* **Feil i beregning av [mva](/blogs/regnskap/hva-er-moms-mva "Hva er Merverdiavgift (MVA)? Beregning og RegnskapsfÃ¸ring")**
+* **Feil i beregning av [mva](/blogs/regnskap/hva-er-moms-mva "Hva er Merverdiavgift (MVA)? Beregning og Regnskapsføring")**
 * **Skjulte inntekter eller fradragsfeil** ved skattemeldingen
 
 ## Hvordan beregne Restskatt?
@@ -36,15 +36,15 @@ Endelig skatt (skattemelding):      150Â 000 kr
 = Restskatt:                         50Â 000 kr
 ```
 
-| Beskrivelse                   | BelÃ¸p      |
+| Beskrivelse                   | Beløp      |
 |-------------------------------|------------|
 | Endelig skatt (skattemelding) | 150Â 000 kr |
 | Innbetalt forskuddsskatt      | 100Â 000 kr |
 | **Restskatt**                 | **50Â 000 kr** |
 
-## BokfÃ¸ring av Restskatt
+## Bokføring av Restskatt
 
-NÃ¥r restskatt er fastsatt, bokfÃ¸res posten normalt slik:
+Når restskatt er fastsatt, bokføres posten normalt slik:
 
 ```text
 Debet: Skattekostnad             50Â 000 kr
@@ -57,24 +57,28 @@ Kredit: Betalbar skatt           50Â 000 kr
 
 ## Forebyggende tiltak
 
-For Ã¥ redusere risikoen for restskatt bÃ¸r virksomheter:
+For å redusere risikoen for restskatt bør virksomheter:
 
-* GjÃ¸re **lÃ¸pende oppfÃ¸lging** av prognoser og avsetninger
-* Samarbeide tett med **regnskapsfÃ¸rer** eller revisor
-* Bruke **digitale verktÃ¸y** for automatisk skatteberegning
-* UtfÃ¸re **kontinuerlig avstemming** av mellomregningskontoer
+* Gjøre **løpende oppfølging** av prognoser og avsetninger
+* Samarbeide tett med **regnskapsfører** eller revisor
+* Bruke **digitale verktøy** for automatisk skatteberegning
+* Utføre **kontinuerlig avstemming** av mellomregningskontoer
 
 ## Relaterte Artikler
 
 * [Forskuddsskatt](/blogs/regnskap/hva-er-forskuddsskatt "Hva er Forskuddsskatt? Beregning og Innbetaling")
-* [Betalbar skatt](/blogs/regnskap/betalbar-skatt "Betalbar skatt “ Komplett guide til beregning og hÃ¥ndtering")
+* [Betalbar skatt](/blogs/regnskap/betalbar-skatt "Betalbar skatt “ Komplett guide til beregning og håndtering")
 * [Skattemelding](/blogs/regnskap/skattemelding "Skattemelding - Komplett Guide til Utfylling og Innlevering")
-* [Baksmell](/blogs/regnskap/baksmell "Baksmell “ Uventet ekstrakostnad ved skatteoppgjÃ¸r")
+* [Baksmell](/blogs/regnskap/baksmell "Baksmell “ Uventet ekstrakostnad ved skatteoppgjør")
 * [Avsetning](/blogs/regnskap/avsetning "Avsetning i Regnskap - Komplett Guide til Avsetninger og Estimater")
 
 ## Oppsummering
 
-**Restskatt** er en viktig post i norsk regnskap som kan gi uventede kostnader nÃ¥r forskuddsbetalinger eller avsetninger ikke samsvarer med endelig skattegrunnlag. Ved Ã¥ forstÃ¥ Ã¥rsaker, beregning og god bokfÃ¸ringspraksis, samt implementere preventive rutiner, kan virksomheter minimere restskatt og bedre planlegge likviditet.
+**Restskatt** er en viktig post i norsk regnskap som kan gi uventede kostnader når forskuddsbetalinger eller avsetninger ikke samsvarer med endelig skattegrunnlag. Ved å forstå årsaker, beregning og god bokføringspraksis, samt implementere preventive rutiner, kan virksomheter minimere restskatt og bedre planlegge likviditet.
+
+
+
+
 
 
 

@@ -1,24 +1,24 @@
 ﻿---
 title: "Hva er Folketrygden? Komplett Guide til Norges Nasjonale Trygdesystem"
 meta_title: "Hva er Folketrygden? Komplett Guide til Norges Nasjonale Trygdesystem"
-meta_description: '**Folketrygden** er Norges nasjonale trygdesystem som sikrer Ã¸konomisk trygghet for alle som bor eller arbeider i Norge. Dette omfattende systemet er en hjÃ¸rn...'
+meta_description: '**Folketrygden** er Norges nasjonale trygdesystem som sikrer økonomisk trygghet for alle som bor eller arbeider i Norge. Dette omfattende systemet er en hjørn...'
 slug: hva-er-folketrygden
 type: blog
 layout: pages/single
 ---
 
-**Folketrygden** er Norges nasjonale trygdesystem som sikrer Ã¸konomisk trygghet for alle som bor eller arbeider i Norge. Dette omfattende systemet er en hjÃ¸rnestein i den norske velferdsstaten og har betydelige implikasjoner for bÃ¥de privatpersoner og bedrifter nÃ¥r det gjelder [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Dybdeanalyse for Norge") og Ã¸konomisk planlegging.
+**Folketrygden** er Norges nasjonale trygdesystem som sikrer økonomisk trygghet for alle som bor eller arbeider i Norge. Dette omfattende systemet er en hjørnestein i den norske velferdsstaten og har betydelige implikasjoner for både privatpersoner og bedrifter når det gjelder [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Dybdeanalyse for Norge") og økonomisk planlegging.
 
 ## Hva er Folketrygden?
 
-Folketrygden er et obligatorisk, offentlig trygdesystem som ble etablert i 1967 og erstatte flere tidligere ordninger. Systemet bygger pÃ¥ prinsippet om **universell dekning**, hvilket betyr at alle som bor eller arbeider i Norge har rett til ytelser fra folketrygden.
+Folketrygden er et obligatorisk, offentlig trygdesystem som ble etablert i 1967 og erstatte flere tidligere ordninger. Systemet bygger på prinsippet om **universell dekning**, hvilket betyr at alle som bor eller arbeider i Norge har rett til ytelser fra folketrygden.
 
 ![Folketrygdens Struktur og Komponenter](folketrygden-struktur.svg)
 
-### HovedformÃ¥l med Folketrygden
+### Hovedformål med Folketrygden
 
-* **Inntektssikring** ved sykdom, ufÃ¸rhet, arbeidsledighet og alderdom
-* **FamiliestÃ¸tte** gjennom barnetrygd og foreldrepenger
+* **Inntektssikring** ved sykdom, uførhet, arbeidsledighet og alderdom
+* **Familiestøtte** gjennom barnetrygd og foreldrepenger
 * **Helsehjelp** gjennom refusjon av medisinske utgifter
 * **Rehabilitering** og arbeidsrettede tiltak
 
@@ -26,43 +26,43 @@ Folketrygden er et obligatorisk, offentlig trygdesystem som ble etablert i 1967 
 
 ### 1. Alderspensjon
 
-Alderspensjon er den stÃ¸rste utgiftsposten i folketrygden og bestÃ¥r av flere komponenter:
+Alderspensjon er den største utgiftsposten i folketrygden og består av flere komponenter:
 
 | Pensjonskomponent | Beskrivelse | Opptjeningsperiode |
 |-------------------|-------------|-------------------|
-| **Garantipensjon** | Minstepensjon for alle med minst 40 Ã¥rs botid | 16-66 Ã¥r |
-| **Inntektspensjon** | Basert pÃ¥ pensjonsgivende inntekt | 13-75 Ã¥r |
-| **Tilleggspensjon** | For inntekt over 1G ([grunnbelÃ¸pet](/blogs/regnskap/hva-er-grunnbelop "Hva er GrunnbelÃ¸p? Komplett Guide til GrunnbelÃ¸pet i Norge")) | Varierer |
+| **Garantipensjon** | Minstepensjon for alle med minst 40 års botid | 16-66 år |
+| **Inntektspensjon** | Basert på pensjonsgivende inntekt | 13-75 år |
+| **Tilleggspensjon** | For inntekt over 1G ([grunnbeløpet](/blogs/regnskap/hva-er-grunnbelop "Hva er Grunnbeløp? Komplett Guide til Grunnbeløpet i Norge")) | Varierer |
 
 ### 2. Sykepenger og Helserelaterte Ytelser
 
-**Sykepenger** utgjÃ¸r en betydelig del av folketrygdens utgifter og har direkte regnskapsmessige konsekvenser for arbeidsgivere:
+**Sykepenger** utgjør en betydelig del av folketrygdens utgifter og har direkte regnskapsmessige konsekvenser for arbeidsgivere:
 
-* **Arbeidsgiverperioden:** De fÃ¸rste 16 kalenderdagene betales av arbeidsgiver
+* **Arbeidsgiverperioden:** De første 16 kalenderdagene betales av arbeidsgiver
 * **NAV-perioden:** Fra dag 17 betales av NAV (opptil 52 uker)
-* **Sykepengegrunnlag:** Maksimalt 6G ([grunnbelÃ¸p](/blogs/regnskap/hva-er-grunnbelop "Hva er GrunnbelÃ¸p? Komplett Guide til GrunnbelÃ¸pet i Norge"))
+* **Sykepengegrunnlag:** Maksimalt 6G ([grunnbeløp](/blogs/regnskap/hva-er-grunnbelop "Hva er Grunnbeløp? Komplett Guide til Grunnbeløpet i Norge"))
 
-For bedrifter er det viktig Ã¥ forstÃ¥ hvordan sykepenger pÃ¥virker [arbeidsgiveravgift](/blogs/regnskap/hva-er-arbeidsgiveravgift "Hva er Arbeidsgiveravgift? Satser, Beregning og RegnskapsfÃ¸ring") og [lÃ¸nnskostnader](/blogs/regnskap/hva-er-fastlonn "Hva er FastlÃ¸nn? Komplett Guide til FastlÃ¸nn vs TimelÃ¸nn").
+For bedrifter er det viktig å forstå hvordan sykepenger påvirker [arbeidsgiveravgift](/blogs/regnskap/hva-er-arbeidsgiveravgift "Hva er Arbeidsgiveravgift? Satser, Beregning og Regnskapsføring") og [lønnskostnader](/blogs/regnskap/hva-er-fastlonn "Hva er Fastlønn? Komplett Guide til Fastlønn vs Timelønn").
 
 ### 3. Dagpenger ved Arbeidsledighet
 
 Dagpenger sikrer inntekt for arbeidsledige som oppfyller visse krav:
 
-* **Minsteinntekt:** Minimum 1,5G siste kalenderÃ¥r eller 3G siste 3 Ã¥r (basert pÃ¥ [grunnbelÃ¸pet](/blogs/regnskap/hva-er-grunnbelop "Hva er GrunnbelÃ¸p? Komplett Guide til GrunnbelÃ¸pet i Norge"))
+* **Minsteinntekt:** Minimum 1,5G siste kalenderår eller 3G siste 3 år (basert på [grunnbeløpet](/blogs/regnskap/hva-er-grunnbelop "Hva er Grunnbeløp? Komplett Guide til Grunnbeløpet i Norge"))
 * **Dagpengeperiode:** Opptil 104 uker (lengre for eldre arbeidstakere)
 * **Dagpengesats:** 62,4% av dagpengegrunnlaget
 
-### 4. UfÃ¸retrygd
+### 4. Uføretrygd
 
-UfÃ¸retrygd gis til personer med varig nedsatt arbeidsevne:
+Uføretrygd gis til personer med varig nedsatt arbeidsevne:
 
-* **UfÃ¸regrad:** Minimum 50% nedsatt arbeidsevne
-* **Beregning:** Basert pÃ¥ tidligere inntekt og ufÃ¸regrad
-* **Maksimal ytelse:** 6,33G per Ã¥r (basert pÃ¥ [grunnbelÃ¸pet](/blogs/regnskap/hva-er-grunnbelop "Hva er GrunnbelÃ¸p? Komplett Guide til GrunnbelÃ¸pet i Norge"))
+* **Uføregrad:** Minimum 50% nedsatt arbeidsevne
+* **Beregning:** Basert på tidligere inntekt og uføregrad
+* **Maksimal ytelse:** 6,33G per år (basert på [grunnbeløpet](/blogs/regnskap/hva-er-grunnbelop "Hva er Grunnbeløp? Komplett Guide til Grunnbeløpet i Norge"))
 
 ## Finansiering av Folketrygden
 
-**TrygdeopgjÃ¸ret** er det Ã¥rlige oppgjÃ¸ret av innbetalt trygdeavgift og beregnede ytelser i folketrygden. Les mer om [TrygdeopgjÃ¸ret](/blogs/regnskap/trygdeopgjoret "TrygdeopgjÃ¸ret: Guide til Ã…rlig OppgjÃ¸r av Trygdeavgift og Ytelser").
+**Trygdeopgjøret** er det årlige oppgjøret av innbetalt trygdeavgift og beregnede ytelser i folketrygden. Les mer om [Trygdeopgjøret](/blogs/regnskap/trygdeopgjoret "Trygdeopgjøret: Guide til Årlig Oppgjør av Trygdeavgift og Ytelser").
 
 Folketrygden finansieres gjennom tre hovedkilder som har direkte regnskapsmessige konsekvenser:
 
@@ -72,7 +72,7 @@ Folketrygden finansieres gjennom tre hovedkilder som har direkte regnskapsmessig
 
 **Trygdeavgift** betales av alle som har pensjonsgivende inntekt i Norge:
 
-| InntektsnivÃ¥ | Trygdeavgiftssats |
+| Inntektsnivå | Trygdeavgiftssats |
 |--------------|-------------------|
 | 0 - 69 050 kr | 0% |
 | 69 051 - 109 650 kr | 5,1% |
@@ -83,67 +83,67 @@ Folketrygden finansieres gjennom tre hovedkilder som har direkte regnskapsmessig
 
 ### 2. Arbeidsgiveravgift
 
-[Arbeidsgiveravgift](/blogs/regnskap/hva-er-arbeidsgiveravgift "Hva er Arbeidsgiveravgift? Satser, Beregning og RegnskapsfÃ¸ring") er en avgift arbeidsgivere betaler pÃ¥ lÃ¸nn og andre ytelser til ansatte. Avgiften varierer geografisk:
+[Arbeidsgiveravgift](/blogs/regnskap/hva-er-arbeidsgiveravgift "Hva er Arbeidsgiveravgift? Satser, Beregning og Regnskapsføring") er en avgift arbeidsgivere betaler på lønn og andre ytelser til ansatte. Avgiften varierer geografisk:
 
-| Sone | Avgiftssats | Geografisk omrÃ¥de |
+| Sone | Avgiftssats | Geografisk område |
 |------|-------------|-------------------|
-| **Sone 1** | 14,1% | Oslo, BÃ¦rum, Asker |
-| **Sone 2** | 10,6% | Resten av Ã˜stlandet, Rogaland, Hordaland |
-| **Sone 3** | 6,4% | TrÃ¸ndelag, Agder |
-| **Sone 4** | 5,1% | Nord-Norge, deler av MÃ¸re og Romsdal |
+| **Sone 1** | 14,1% | Oslo, Bærum, Asker |
+| **Sone 2** | 10,6% | Resten av Østlandet, Rogaland, Hordaland |
+| **Sone 3** | 6,4% | Trøndelag, Agder |
+| **Sone 4** | 5,1% | Nord-Norge, deler av Møre og Romsdal |
 | **Sone 5** | 0% | Finnmark, Nord-Troms |
 
 ### 3. Statlige Tilskudd
 
-Staten dekker underskuddet i folketrygden gjennom Ã¥rlige tilskudd fra statsbudsjettet.
+Staten dekker underskuddet i folketrygden gjennom årlige tilskudd fra statsbudsjettet.
 
 ## Regnskapsmessige Implikasjoner
 
 ### For Arbeidsgivere
 
-Folketrygden har flere regnskapsmessige konsekvenser som mÃ¥ hÃ¥ndteres korrekt i [bokfÃ¸ringen](/blogs/regnskap/hva-er-bokforing "Hva er BokfÃ¸ring? En Komplett Guide til Norsk BokfÃ¸ringspraksis"):
+Folketrygden har flere regnskapsmessige konsekvenser som må håndteres korrekt i [bokføringen](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? En Komplett Guide til Norsk Bokføringspraksis"):
 
 #### 1. Arbeidsgiveravgift
 
-Arbeidsgiveravgift mÃ¥ beregnes og bokfÃ¸res for alle lÃ¸nnsutbetalinger:
+Arbeidsgiveravgift må beregnes og bokføres for alle lønnsutbetalinger:
 
 ```
-Debet: LÃ¸nnskostnad (arbeidsgiveravgift)
+Debet: Lønnskostnad (arbeidsgiveravgift)
 Kredit: Skyldig arbeidsgiveravgift
 ```
 
 #### 2. Sykepenger i Arbeidsgiverperioden
 
-Sykepenger i arbeidsgiverperioden bokfÃ¸res som ordinÃ¦r lÃ¸nnskostnad:
+Sykepenger i arbeidsgiverperioden bokføres som ordinær lønnskostnad:
 
 ```
-Debet: LÃ¸nnskostnad (sykepenger)
+Debet: Lønnskostnad (sykepenger)
 Kredit: Bank/Kontanter
 ```
 
 #### 3. Refusjon fra NAV
 
-NÃ¥r NAV refunderer sykepenger, bokfÃ¸res dette som en reduksjon i lÃ¸nnskostnader:
+Når NAV refunderer sykepenger, bokføres dette som en reduksjon i lønnskostnader:
 
 ```
 Debet: Fordring NAV
-Kredit: LÃ¸nnskostnad (refusjon sykepenger)
+Kredit: Lønnskostnad (refusjon sykepenger)
 ```
 
 ### Rapportering gjennom A-meldingen
 
-[A-meldingen](/blogs/regnskap/hva-er-a-melding "Hva er A-melding? Komplett Guide til A-meldingen og Innlevering") er den mÃ¥nedlige rapporteringen til myndighetene som inkluderer:
+[A-meldingen](/blogs/regnskap/hva-er-a-melding "Hva er A-melding? Komplett Guide til A-meldingen og Innlevering") er den månedlige rapporteringen til myndighetene som inkluderer:
 
-* **LÃ¸nnsinformasjon** for alle ansatte
+* **Lønnsinformasjon** for alle ansatte
 * **Beregnet arbeidsgiveravgift**
 * **Trygdeavgift** trukket fra ansatte
 * **Forskuddstrekk** i skatt
 
-## GrunnbelÃ¸pet (G) - Folketrygdens MÃ¥lestokk
+## Grunnbeløpet (G) - Folketrygdens Målestokk
 
-**[GrunnbelÃ¸pet](/blogs/regnskap/hva-er-grunnbelop "Hva er GrunnbelÃ¸p? Komplett Guide til GrunnbelÃ¸pet i Norge")** (G) er en sentral stÃ¸rrelse i folketrygden som justeres Ã¥rlig og brukes til Ã¥ beregne ytelser og avgifter. For en dyptgÃ¥ende forklaring av grunnbelÃ¸pets rolle og anvendelse, se vÃ¥r omfattende guide til [grunnbelÃ¸pet](/blogs/regnskap/hva-er-grunnbelop "Hva er GrunnbelÃ¸p? Komplett Guide til GrunnbelÃ¸pet i Norge").
+**[Grunnbeløpet](/blogs/regnskap/hva-er-grunnbelop "Hva er Grunnbeløp? Komplett Guide til Grunnbeløpet i Norge")** (G) er en sentral størrelse i folketrygden som justeres årlig og brukes til å beregne ytelser og avgifter. For en dyptgående forklaring av grunnbeløpets rolle og anvendelse, se vår omfattende guide til [grunnbeløpet](/blogs/regnskap/hva-er-grunnbelop "Hva er Grunnbeløp? Komplett Guide til Grunnbeløpet i Norge").
 
-| Ã…r | GrunnbelÃ¸p (G) | Endring |
+| År | Grunnbeløp (G) | Endring |
 |----|----------------|---------|
 | 2024 | 124 028 kr | +7,8% |
 | 2023 | 118 620 kr | +6,9% |
@@ -152,48 +152,48 @@ Kredit: LÃ¸nnskostnad (refusjon sykepenger)
 
 ### Betydning av G-regulering
 
-G-reguleringen pÃ¥virker:
+G-reguleringen påvirker:
 
-* **PensjonsnivÃ¥er** og andre trygdeytelser
-* **Frikort** og skattefrie belÃ¸p
+* **Pensjonsnivåer** og andre trygdeytelser
+* **Frikort** og skattefrie beløp
 * **Maksimale dagpengesatser**
-* **UfÃ¸retrygd** og andre erstatninger
+* **Uføretrygd** og andre erstatninger
 
-## Folketrygdens Rolle i Norsk Ã˜konomi
+## Folketrygdens Rolle i Norsk Økonomi
 
-### MakroÃ¸konomisk Betydning
+### Makroøkonomisk Betydning
 
-Folketrygden utgjÃ¸r en betydelig del av norsk Ã¸konomi:
+Folketrygden utgjør en betydelig del av norsk økonomi:
 
-* **Utgifter:** Cirka 400 milliarder kroner Ã¥rlig (2024)
+* **Utgifter:** Cirka 400 milliarder kroner årlig (2024)
 * **BNP-andel:** Omtrent 15% av Norges BNP
 * **Sysselsetting:** Direkte og indirekte sysselsetting i offentlig sektor
 
 ### Demografiske Utfordringer
 
-Norge stÃ¥r overfor demografiske endringer som pÃ¥virker folketrygden:
+Norge står overfor demografiske endringer som påvirker folketrygden:
 
 * **Aldring av befolkningen:** Flere pensjonister per yrkesaktiv
-* **Levealder:** Ã˜kt levealder krever lengre pensjonsutbetalinger
-* **FÃ¸dselsrater:** Lavere fÃ¸dselsrater reduserer fremtidig arbeidsstyrke
+* **Levealder:** Økt levealder krever lengre pensjonsutbetalinger
+* **Fødselsrater:** Lavere fødselsrater reduserer fremtidig arbeidsstyrke
 
 ![Demografisk Utvikling og Folketrygden](demografisk-utvikling.svg)
 
 ## Internasjonale Aspekter
 
-### EÃ˜S-avtalen og Trygdekoordinering
+### EØS-avtalen og Trygdekoordinering
 
-Norge er bundet av **EÃ˜S-avtalen** som sikrer:
+Norge er bundet av **EØS-avtalen** som sikrer:
 
 * **Portabilitet** av pensjonsrettigheter
-* **Likebehandling** av EÃ˜S-borgere
+* **Likebehandling** av EØS-borgere
 * **Koordinering** med andre lands trygdesystemer
 
 ### Bilaterale Trygdeavtaler
 
-Norge har trygdeavtaler med flere land utenfor EÃ˜S:
+Norge har trygdeavtaler med flere land utenfor EØS:
 
-* **USA:** Koordinering av pensjon og ufÃ¸retrygd
+* **USA:** Koordinering av pensjon og uføretrygd
 * **Canada:** Gjensidig anerkjennelse av opptjeningstid
 * **Australia:** Portabilitet av alderspensjon
 
@@ -203,7 +203,7 @@ Norge har trygdeavtaler med flere land utenfor EÃ˜S:
 
 Flere reformer er under vurdering:
 
-* **Levealdersjustering:** Automatisk justering basert pÃ¥ levealder
+* **Levealdersjustering:** Automatisk justering basert på levealder
 * **Fleksibel pensjon:** Mulighet for gradvis pensjonering
 * **Opptjeningsmodell:** Endringer i hvordan pensjon tjenes opp
 
@@ -215,31 +215,35 @@ NAV arbeider kontinuerlig med digitalisering:
 * **Automatisering:** Redusert saksbehandlingstid
 * **Datadeling:** Bedre koordinering mellom offentlige etater
 
-## Praktiske RÃ¥d for Bedrifter
+## Praktiske Råd for Bedrifter
 
 ### Compliance og Etterlevelse
 
-For Ã¥ sikre korrekt hÃ¥ndtering av folketrygd-relaterte forpliktelser:
+For å sikre korrekt håndtering av folketrygd-relaterte forpliktelser:
 
 1. **Implementer robuste systemer** for beregning av arbeidsgiveravgift
-2. **Hold deg oppdatert** pÃ¥ endringer i satser og regler
-3. **Dokumenter alle beregninger** for revisjonsformÃ¥l
-4. **Bruk profesjonelle regnskapssystemer** som hÃ¥ndterer kompleksiteten
+2. **Hold deg oppdatert** på endringer i satser og regler
+3. **Dokumenter alle beregninger** for revisjonsformål
+4. **Bruk profesjonelle regnskapssystemer** som håndterer kompleksiteten
 
-### Regnskapsmessig OppfÃ¸lging
+### Regnskapsmessig Oppfølging
 
-* **MÃ¥nedlig avstemming** av arbeidsgiveravgift og trygdeavgift
-* **Korrekt klassifisering** av lÃ¸nnskostnader og avgifter
-* **OppfÃ¸lging av refusjoner** fra NAV
+* **Månedlig avstemming** av arbeidsgiveravgift og trygdeavgift
+* **Korrekt klassifisering** av lønnskostnader og avgifter
+* **Oppfølging av refusjoner** fra NAV
 * **Dokumentasjon** av alle folketrygd-relaterte transaksjoner
 
 ## Konklusjon
 
-Folketrygden er et komplekst og omfattende system som berÃ¸rer alle aspekter av norsk samfunns- og nÃ¦ringsliv. For bedrifter er det avgjÃ¸rende Ã¥ forstÃ¥ systemets regnskapsmessige implikasjoner og sikre korrekt hÃ¥ndtering av relaterte forpliktelser.
+Folketrygden er et komplekst og omfattende system som berører alle aspekter av norsk samfunns- og næringsliv. For bedrifter er det avgjørende å forstå systemets regnskapsmessige implikasjoner og sikre korrekt håndtering av relaterte forpliktelser.
 
-Systemets universelle karakter og omfattende dekning gjÃ¸r det til en av verdens mest generÃ¸se trygdeordninger, men ogsÃ¥ til en av de mest kostbare. Fremtidige demografiske utfordringer krever kontinuerlige tilpasninger og reformer for Ã¥ sikre systemets bÃ¦rekraft.
+Systemets universelle karakter og omfattende dekning gjør det til en av verdens mest generøse trygdeordninger, men også til en av de mest kostbare. Fremtidige demografiske utfordringer krever kontinuerlige tilpasninger og reformer for å sikre systemets bærekraft.
 
-For regnskapsfÃ¸rere og bedriftsledere er det essensielt Ã¥ holde seg oppdatert pÃ¥ endringer i folketrygden, da disse direkte pÃ¥virker [lÃ¸nnskostnader](/blogs/regnskap/hva-er-fastlonn "Hva er FastlÃ¸nn? Komplett Guide til FastlÃ¸nn vs TimelÃ¸nn"), [arbeidsgiveravgift](/blogs/regnskap/hva-er-arbeidsgiveravgift "Hva er Arbeidsgiveravgift? Satser, Beregning og RegnskapsfÃ¸ring") og andre regnskapsmessige forhold som mÃ¥ rapporteres gjennom [A-meldingen](/blogs/regnskap/hva-er-a-melding "Hva er A-melding? Komplett Guide til A-meldingen og Innlevering") og andre offentlige rapporter.
+For regnskapsførere og bedriftsledere er det essensielt å holde seg oppdatert på endringer i folketrygden, da disse direkte påvirker [lønnskostnader](/blogs/regnskap/hva-er-fastlonn "Hva er Fastlønn? Komplett Guide til Fastlønn vs Timelønn"), [arbeidsgiveravgift](/blogs/regnskap/hva-er-arbeidsgiveravgift "Hva er Arbeidsgiveravgift? Satser, Beregning og Regnskapsføring") og andre regnskapsmessige forhold som må rapporteres gjennom [A-meldingen](/blogs/regnskap/hva-er-a-melding "Hva er A-melding? Komplett Guide til A-meldingen og Innlevering") og andre offentlige rapporter.
+
+
+
+
 
 
 

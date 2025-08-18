@@ -1,13 +1,13 @@
 ﻿---
 title: "Konto 6300 - Leie lokaler"
 meta_title: "6300-leie-lokaler"
-meta_description: '**Konto 6300 - Leie lokaler** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **leie av lokaler** i virksomhetens drift.'
+meta_description: '**Konto 6300 - Leie lokaler** er en konto i Norsk Standard Kontoplan som brukes til å registrere **leie av lokaler** i virksomhetens drift.'
 slug: 6300-leie-lokaler
 type: blog
 layout: pages/single
 ---
 
-**Konto 6300 - Leie lokaler** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **leie av lokaler** i virksomhetens drift.
+**Konto 6300 - Leie lokaler** er en konto i Norsk Standard Kontoplan som brukes til å registrere **leie av lokaler** i virksomhetens drift.
 
 ![Illustrasjon av konto 6300 Leie lokaler](6300-leie-lokaler-image.svg)
 
@@ -15,20 +15,20 @@ layout: pages/single
 
 *Leie lokaler* omfatter kostnader knyttet til leie av **kontor-, produksjons- eller forretningslokaler**, inkludert:
 
-* **MÃ¥nedlig husleie** betalt til utleier.
-* **Felleskostnader** som oppvarming, [rengjÃ¸ring](/blogs/kontoplan/6360-renhold "Konto 6360 - Renhold") og [vedlikehold](/blogs/kontoplan/7020-vedlikehold "Konto 7020 - Vedlikehold").
+* **Månedlig husleie** betalt til utleier.
+* **Felleskostnader** som oppvarming, [rengjøring](/blogs/kontoplan/6360-renhold "Konto 6360 - Renhold") og [vedlikehold](/blogs/kontoplan/7020-vedlikehold "Konto 7020 - Vedlikehold").
 * **Depositum** og garantikostnader i forbindelse med leieavtaler.
 
-## RegnskapsfÃ¸ring av leiekostnader
+## Regnskapsføring av leiekostnader
 
 | Transaksjon                | Debet                          | Kredit                       |
 |----------------------------|--------------------------------|------------------------------|
-| Leiekostnader for lokaler  | Konto 6300 - Leie lokaler      | Konto 2400 - LeverandÃ¸rgjeld |
-| Betaling av husleiefaktura | Konto 2400 - LeverandÃ¸rgjeld   | Konto 1920 - Bankinnskudd    |
+| Leiekostnader for lokaler  | Konto 6300 - Leie lokaler      | Konto 2400 - Leverandørgjeld |
+| Betaling av husleiefaktura | Konto 2400 - Leverandørgjeld   | Konto 1920 - Bankinnskudd    |
 
-## Eksempel pÃ¥ bokfÃ¸ring
+## Eksempel på bokføring
 
-| BelÃ¸p ekskl. avgifter | Avgift (%) | Total inkl. avgift |
+| Beløp ekskl. avgifter | Avgift (%) | Total inkl. avgift |
 |-----------------------|------------|--------------------|
 | 50Â 000Â NOK            | 25Â %       | 62Â 500Â NOK         |
 
@@ -36,7 +36,7 @@ layout: pages/single
 
 * **Klar oversikt** over faste driftskostnader
 * **Forbedret budsjettstyring** for lokalekostnader
-* **Optimalisert kostnadsfordeling** mellom ulike forretningsomrÃ¥der
+* **Optimalisert kostnadsfordeling** mellom ulike forretningsområder
 
 ## Intern lenking og relaterte kontoer
 
@@ -56,8 +56,13 @@ Andre kontoer i NSÂ 4102 som ofte brukes sammen med konto 6300:
 * [Konto 6430 - Leie andre kontormaskiner](/blogs/kontoplan/6430-leie-andre-kontormaskiner "Konto 6430 - Leie andre kontormaskiner")
 * [Konto 6600 - Andre forsikringer](/blogs/kontoplan/6600-andre-forsikringer "Konto 6600 - Andre forsikringer")
 * [Konto 6600 - Reparasjon og vedlikehold bygninger](/blogs/kontoplan/6600-reparasjon-og-vedlikehold-bygninger "Konto 6600 - Reparasjon og vedlikehold bygninger")
-* [Konto 2400 - LeverandÃ¸rgjeld](/blogs/kontoplan/2400-leverandorgjeld "Konto 2400 - LeverandÃ¸rgjeld")
+* [Konto 2400 - Leverandørgjeld](/blogs/kontoplan/2400-leverandorgjeld "Konto 2400 - Leverandørgjeld")
 * [Konto 1920 - Bankinnskudd](/blogs/kontoplan/1920-bankinnskudd "Konto 1920 - Bankinnskudd")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 * [Hva er en Faktura?](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav")
+
+
+
+
+
 

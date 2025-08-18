@@ -1,32 +1,32 @@
 ﻿---
 title: "Konto 2050 - Annen egenkapital"
 meta_title: "2050-annen-egenkapital"
-meta_description: '**Konto 2050 - Annen egenkapital** er en konto innen **egenkapital** i Norsk Standard Kontoplan (NSÂ 4102) som brukes til Ã¥ registrere **annen egenkapital** fo...'
+meta_description: '**Konto 2050 - Annen egenkapital** er en konto innen **egenkapital** i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **annen egenkapital** fo...'
 slug: 2050-annen-egenkapital
 type: blog
 layout: pages/single
 ---
 
-**Konto 2050 - Annen egenkapital** er en konto innen **egenkapital** i Norsk Standard Kontoplan (NSÂ 4102) som brukes til Ã¥ registrere **annen egenkapital** for poster som ikke har egne standardkontoer.
+**Konto 2050 - Annen egenkapital** er en konto innen **egenkapital** i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **annen egenkapital** for poster som ikke har egne standardkontoer.
 
 ![Illustrasjon av konto 2050 annen egenkapital](2050-annen-egenkapital-image.svg)
 
 ## Hva er Annen egenkapital?
 
-> *Annen egenkapital* bestÃ¥r av egenkapitalposter som ikke dekkes av aksjekapital, overkurs, eller andre definerte egenkapitalkontoer. Dette kan inkludere tilbakeholdt overskudd, utjevningsfond og andre reserver.
+> *Annen egenkapital* består av egenkapitalposter som ikke dekkes av aksjekapital, overkurs, eller andre definerte egenkapitalkontoer. Dette kan inkludere tilbakeholdt overskudd, utjevningsfond og andre reserver.
 
-## NÃ¥r benyttes konto 2050?
+## Når benyttes konto 2050?
 
 * **Tilbakeholdt overskudd** som ikke er disponert til utbytte.
-* **OverfÃ¸ringer fra overkursfond** for hÃ¥ndtering av underskudd eller [**ekstraordinÃ¦r inntekt**](/blogs/kontoplan/8400-ekstraordinaer-inntekt "Konto 8400 - EkstraordinÃ¦r inntekt").
-* **Ã˜vrige egenkapitalposter** uten egen standardkonto.
+* **Overføringer fra overkursfond** for håndtering av underskudd eller [**ekstraordinær inntekt**](/blogs/kontoplan/8400-ekstraordinaer-inntekt "Konto 8400 - Ekstraordinær inntekt").
+* **Øvrige egenkapitalposter** uten egen standardkonto.
 
-## RegnskapsfÃ¸ring
+## Regnskapsføring
 
 | Transaksjon                                  | Debet                          | Kredit                         |
 |----------------------------------------------|--------------------------------|--------------------------------|
-| OverfÃ¸ring av overskudd til annen egenkapital | Konto 2050 - Annen egenkapital | Konto 8xxx - Resultatkonto     |
-| OverfÃ¸ring fra overkursfond                  | Konto 2020 - Overkursfond      | Konto 2050 - Annen egenkapital |
+| Overføring av overskudd til annen egenkapital | Konto 2050 - Annen egenkapital | Konto 8xxx - Resultatkonto     |
+| Overføring fra overkursfond                  | Konto 2020 - Overkursfond      | Konto 2050 - Annen egenkapital |
 | Dekning av underskudd                        | Konto 2050 - Annen egenkapital | Konto 8xxx - Resultatkonto     |
 
 _*Eksempeltransaksjoner; bruk relevante kontoer for resultatkonto.*_
@@ -53,8 +53,13 @@ _*Eksempeltransaksjoner; bruk relevante kontoer for resultatkonto.*_
 * [Konto 2020 - Overkursfond](/blogs/kontoplan/2020-overkursfond "Konto 2020 - Overkursfond: Overkursfond i Norsk Standard Kontoplan")
 * [Konto 2040 - Fond for vurderingsforskjeller](/blogs/kontoplan/2040-fond-for-vurderingsforskjeller "Konto 2040 - Fond for vurderingsforskjeller: Fond for vurderingsforskjeller i Norsk Standard Kontoplan")
 * [Konto 2080 - Udekket tap](/blogs/kontoplan/2080-udekket-tap "Konto 2080 - Udekket tap: Komplett Guide til Udekket tap i Norsk Kontoplan")
-* [Konto 8800 - Ã…rsresultat](/blogs/kontoplan/8800-arsresultat "Konto 8800 - Ã…rsresultat")
-* [Konto 8960 - OverfÃ¸ring annen egenkapital](/blogs/kontoplan/8960-overforing-annen-egenkapital "Konto 8960 - OverfÃ¸ring annen egenkapital: OverfÃ¸ring annen egenkapital i Norsk Standard Kontoplan")
+* [Konto 8800 - Årsresultat](/blogs/kontoplan/8800-arsresultat "Konto 8800 - Årsresultat")
+* [Konto 8960 - Overføring annen egenkapital](/blogs/kontoplan/8960-overforing-annen-egenkapital "Konto 8960 - Overføring annen egenkapital: Overføring annen egenkapital i Norsk Standard Kontoplan")
 * [Hva er egenkapital?](/blogs/regnskap/hva-er-egenkapital "Hva er Egenkapital? Komplett Guide til Egenkapital i Regnskap")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+
+
+
+
+
 

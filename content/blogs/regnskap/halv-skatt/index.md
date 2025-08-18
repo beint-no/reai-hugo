@@ -1,41 +1,41 @@
 ﻿---
 title: "Halv skatt"
 meta_title: "Halv skatt"
-meta_description: '**Halv skatt** er en ordning der ansatte fÃ¥r redusert skattetrekk i visse mÃ¥neder, vanligvis **juni** og **desember**, for Ã¥ lette likviditeten i ferie- og h...'
+meta_description: '**Halv skatt** er en ordning der ansatte får redusert skattetrekk i visse måneder, vanligvis **juni** og **desember**, for å lette likviditeten i ferie- og h...'
 slug: halv-skatt
 type: blog
 layout: pages/single
 ---
 
-**Halv skatt** er en ordning der ansatte fÃ¥r redusert skattetrekk i visse mÃ¥neder, vanligvis **juni** og **desember**, for Ã¥ lette likviditeten i ferie- og hÃ¸ytidssesonger.
+**Halv skatt** er en ordning der ansatte får redusert skattetrekk i visse måneder, vanligvis **juni** og **desember**, for å lette likviditeten i ferie- og høytidssesonger.
 
 ![Halv skatt](halv-skatt-image.svg)
 
 ## Hva er halv skatt?
 
-Ordningen **halv skatt** innebÃ¦rer at arbeidsgivere trekker kun 50â€¯% av vanlig skattetrekk i bestemte mÃ¥neder, mens det trekkes 100â€¯% i Ã¸vrige mÃ¥neder. Dette hjelper ansatte med Ã¥ fÃ¥ hÃ¸yere netto utbetaling i perioder med hÃ¸yere utgifter.
+Ordningen **halv skatt** innebærer at arbeidsgivere trekker kun 50–¯% av vanlig skattetrekk i bestemte måneder, mens det trekkes 100–¯% i øvrige måneder. Dette hjelper ansatte med å få høyere netto utbetaling i perioder med høyere utgifter.
 
 ## Hvorfor har man halv skatt?
 
-FormÃ¥let med **halv skatt** er Ã¥ forbedre likviditeten for ansatte i ferie- og hÃ¸ytidssesonger, samtidig som det jevner ut lÃ¸nnsutbetalingene over Ã¥ret. Arbeidsgivere mÃ¥ sÃ¸rge for korrekt implementering for Ã¥ unngÃ¥ feilkalkulasjon.
+Formålet med **halv skatt** er å forbedre likviditeten for ansatte i ferie- og høytidssesonger, samtidig som det jevner ut lønnsutbetalingene over året. Arbeidsgivere må sørge for korrekt implementering for å unngå feilkalkulasjon.
 
-## Hvordan pÃ¥virker halv skatt tabelltrekk?
+## Hvordan påvirker halv skatt tabelltrekk?
 
-Skattetrekk skjer ofte basert pÃ¥ [tabelltrekk](/blogs/regnskap/hva-er-tabelltrekk "Hva er tabelltrekk?") eller [forskuddstrekk](/blogs/regnskap/hva-er-forskuddstrekk "Hva er forskuddstrekk?"). Ved **halv skatt** halveres trekkprosenten i de angitte mÃ¥nedene, noe som pÃ¥virker samlet Ã¥rsgrunnlag.
+Skattetrekk skjer ofte basert på [tabelltrekk](/blogs/regnskap/hva-er-tabelltrekk "Hva er tabelltrekk?") eller [forskuddstrekk](/blogs/regnskap/hva-er-forskuddstrekk "Hva er forskuddstrekk?"). Ved **halv skatt** halveres trekkprosenten i de angitte månedene, noe som påvirker samlet årsgrunnlag.
 
-## Eksempel pÃ¥ halv skatt
+## Eksempel på halv skatt
 
-| MÃ¥ned         | Skattetrekk |
+| Måned         | Skattetrekk |
 | ------------- | ----------- |
-| Januar“mai    | 100â€¯%       |
-| Juni          | 50â€¯%        |
-| Juli“november | 100â€¯%       |
-| Desember      | 50â€¯%        |
+| Januar“mai    | 100–¯%       |
+| Juni          | 50–¯%        |
+| Juli“november | 100–¯%       |
+| Desember      | 50–¯%        |
 
 ## Praktiske hensyn
 
-* UndersÃ¸k ditt [skattekort](/blogs/regnskap/hva-er-forskuddstrekk "Hva er forskuddstrekk?") for Ã¥ sikre at riktig trekkgrunnlag brukes.
-* Kontakt lÃ¸nnssystemleverandÃ¸ren for Ã¥ bekrefte at **halv skatt** er aktivert i juni og desember.
+* Undersøk ditt [skattekort](/blogs/regnskap/hva-er-forskuddstrekk "Hva er forskuddstrekk?") for å sikre at riktig trekkgrunnlag brukes.
+* Kontakt lønnssystemleverandøren for å bekrefte at **halv skatt** er aktivert i juni og desember.
 * Merk at **feriepenger** utbetalt i juli ikke er omfattet av **halv skatt** “ se [Hva er feriepenger?](/blogs/regnskap/hva-er-feriepenger "Hva er feriepenger?") for mer informasjon.
 
 ## Fordeler og ulemper
@@ -43,15 +43,19 @@ Skattetrekk skjer ofte basert pÃ¥ [tabelltrekk](/blogs/regnskap/hva-er-tabellt
 ### Fordeler
 
 * Bedre likviditet for ansatte i ferieperioden.
-* Jevnere netto lÃ¸nnsutbetaling gjennom Ã¥ret.
-* Redusert administrativt arbeid ved at ordningen er standardisert i lÃ¸nnssystemer.
+* Jevnere netto lønnsutbetaling gjennom året.
+* Redusert administrativt arbeid ved at ordningen er standardisert i lønnssystemer.
 
 ### Ulemper
 
-* Kan medfÃ¸re hÃ¸yere trekk senere hvis skattekortet ikke oppdateres.
-* Krever at arbeidsgiver har kontroll pÃ¥ korrekt registrering av mÃ¥neder med redusert trekk.
+* Kan medføre høyere trekk senere hvis skattekortet ikke oppdateres.
+* Krever at arbeidsgiver har kontroll på korrekt registrering av måneder med redusert trekk.
 
-For mer om skattetrekk, se ogsÃ¥ [Hva er tabelltrekk?](/blogs/regnskap/hva-er-tabelltrekk "Hva er tabelltrekk?") og [Hva er forskuddstrekk?](/blogs/regnskap/hva-er-forskuddstrekk "Hva er forskuddstrekk?").
+For mer om skattetrekk, se også [Hva er tabelltrekk?](/blogs/regnskap/hva-er-tabelltrekk "Hva er tabelltrekk?") og [Hva er forskuddstrekk?](/blogs/regnskap/hva-er-forskuddstrekk "Hva er forskuddstrekk?").
+
+
+
+
 
 
 

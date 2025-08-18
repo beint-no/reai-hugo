@@ -1,19 +1,19 @@
 ﻿---
 title: "Konsolidering"
 meta_title: "Konsolidering"
-meta_description: '**Konsolidering** er prosessen med Ã¥ utarbeide ett samlet [konsernregnskap](/blogs/regnskap/hva-er-konsern "Hva er et Konsern? Komplett Guide til Konsernstrukt...'
+meta_description: '**Konsolidering** er prosessen med å utarbeide ett samlet [konsernregnskap](/blogs/regnskap/hva-er-konsern "Hva er et Konsern? Komplett Guide til Konsernstrukt...'
 slug: konsolidering
 type: blog
 layout: pages/single
 ---
 
-**Konsolidering** er prosessen med Ã¥ utarbeide ett samlet [konsernregnskap](/blogs/regnskap/hva-er-konsern "Hva er et Konsern? Komplett Guide til Konsernstrukturer og Konsolidering") for flere selskaper som stÃ¥r under felles kontroll. Det innebÃ¦rer **sammenstilling** av regnskaper, **eliminering** av interne transaksjoner og **justering** for minoritetsinteresser.
+**Konsolidering** er prosessen med å utarbeide ett samlet [konsernregnskap](/blogs/regnskap/hva-er-konsern "Hva er et Konsern? Komplett Guide til Konsernstrukturer og Konsolidering") for flere selskaper som står under felles kontroll. Det innebærer **sammenstilling** av regnskaper, **eliminering** av interne transaksjoner og **justering** for minoritetsinteresser.
 
 ![Konsolidering](konsolidering-image.svg)
 
 ## Definisjon av konsolidering
 
-Konsolidering innebÃ¦rer Ã¥ **sammenstille** regnskapsdata fra morselskap og datterselskaper til ett felles sett med finansiell informasjon. MÃ¥let er Ã¥ presentere konsernet som Ã©n Ã¸konomisk enhet.
+Konsolidering innebærer å **sammenstille** regnskapsdata fra morselskap og datterselskaper til ett felles sett med finansiell informasjon. Målet er å presentere konsernet som én økonomisk enhet.
 
 ## Konsolideringsprinsipper
 
@@ -21,29 +21,29 @@ Grunnleggende prinsipper for konsolidering omfatter:
 
 | Prinsipp                 | Beskrivelse                                                                 |
 |--------------------------|------------------------------------------------------------------------------|
-| **Sammenstilling**       | SammenslÃ¥ing av mor- og datterselskapers regnskaper                          |
-| **Eliminering**          | Fjerning av interne transaksjoner og mellomvÃ¦rende                          |
+| **Sammenstilling**       | Sammenslåing av mor- og datterselskapers regnskaper                          |
+| **Eliminering**          | Fjerning av interne transaksjoner og mellomværende                          |
 | **Minoritetseierinteresser** | Justering av andel som ikke eies av morselskapet                         |
 | **Presentasjon**         | Rapportering av ett samlet konsernregnskap                                  |
 
 ## Elimineringer i konsernregnskap
 
-Felles elimineringer som mÃ¥ gjÃ¸res ved konsolidering:
+Felles elimineringer som må gjøres ved konsolidering:
 
 | Type eliminering         | Beskrivelse                                           |
 |--------------------------|-------------------------------------------------------|
 | **Interne salg**         | Salg av varer og tjenester mellom konsernselskaper    |
-| **Interne lÃ¥n**          | LÃ¥n og renteavregninger internt i konsernet           |
+| **Interne lån**          | Lån og renteavregninger internt i konsernet           |
 | **Utbytte**              | Utbyttebetalinger fra datterselskap til morselskap    |
-| **Interne gevinster**    | Gevinster og tap pÃ¥ interne overfÃ¸ringer              |
+| **Interne gevinster**    | Gevinster og tap på interne overføringer              |
 
 ## Minoritetseierinteresser
 
-NÃ¥r morselskapet eier mindre enn **100%**, mÃ¥ konsernregnskapet inkludere minoritetseierinteresser:
+Når morselskapet eier mindre enn **100%**, må konsernregnskapet inkludere minoritetseierinteresser:
 
 | Eierskapsgrad | Minoritetseierinteresse i resultat og egenkapital |
 |---------------|----------------------------------------------------|
-| 0“100%        | Beregnes proporsjonalt basert pÃ¥ eierandel         |
+| 0“100%        | Beregnes proporsjonalt basert på eierandel         |
 
 ## IFRS-regler for konsolidering
 
@@ -56,7 +56,7 @@ Iht. [IFRS](/blogs/regnskap/hva-er-ifrs "Hva er IFRS? Guide til internasjonale r
 
 ## Skattemessige hensyn ved konsolidering
 
-Ved konsolidering mÃ¥ man vÃ¦re oppmerksom pÃ¥ skattemessige aspekter som:
+Ved konsolidering må man være oppmerksom på skattemessige aspekter som:
 
 * [Konsernbidrag](/blogs/regnskap/hva-er-konsernbidrag "Hva er Konsernbidrag? Komplett Guide til Konsernbidrag i Norge")
 * Fradrag for interne gevinster
@@ -77,7 +77,11 @@ Ved konsolidering mÃ¥ man vÃ¦re oppmerksom pÃ¥ skattemessige aspekter som:
 
 ## Konklusjon
 
-Konsolidering er en sentral del av utarbeidelse av konsernregnskap som sikrer **transparent** og **sammenlignbar** finansiell rapportering for konsern. En korrekt gjennomfÃ¸rt konsolidering bidrar til at bÃ¥de interne og eksterne interessenter fÃ¥r et helhetlig bilde av konsernets Ã¸konomi.
+Konsolidering er en sentral del av utarbeidelse av konsernregnskap som sikrer **transparent** og **sammenlignbar** finansiell rapportering for konsern. En korrekt gjennomført konsolidering bidrar til at både interne og eksterne interessenter får et helhetlig bilde av konsernets økonomi.
+
+
+
+
 
 
 

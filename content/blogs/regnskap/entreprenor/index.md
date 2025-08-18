@@ -1,63 +1,67 @@
 ﻿---
-title: "EntreprenÃ¸r"
-meta_title: "EntreprenÃ¸r"
-meta_description: '**EntreprenÃ¸r** er en person eller virksomhet som pÃ¥tar seg ansvaret for Ã¥ planlegge, utfÃ¸re og levere bygge- og anleggsarbeider, prosjekter eller tjenester...'
+title: "Entreprenør"
+meta_title: "Entreprenør"
+meta_description: '**Entreprenør** er en person eller virksomhet som påtar seg ansvaret for å planlegge, utføre og levere bygge- og anleggsarbeider, prosjekter eller tjenester...'
 slug: entreprenor
 type: blog
 layout: pages/single
 ---
 
-**EntreprenÃ¸r** er en person eller virksomhet som pÃ¥tar seg ansvaret for Ã¥ planlegge, utfÃ¸re og levere bygge- og anleggsarbeider, prosjekter eller tjenester for en oppdragsgiver. I norsk regnskaps- og avgiftssammenheng har entreprenÃ¸ren en sentral rolle bÃ¥de juridisk, skattemessig og Ã¸konomisk.
+**Entreprenør** er en person eller virksomhet som påtar seg ansvaret for å planlegge, utføre og levere bygge- og anleggsarbeider, prosjekter eller tjenester for en oppdragsgiver. I norsk regnskaps- og avgiftssammenheng har entreprenøren en sentral rolle både juridisk, skattemessig og økonomisk.
 
-![Illustrasjon av EntreprenÃ¸r-konsept](entreprenor-image.svg)
+![Illustrasjon av Entreprenør-konsept](entreprenor-image.svg)
 
-## Hva er en entreprenÃ¸r?
+## Hva er en entreprenør?
 
-En **entreprenÃ¸r** inngÃ¥r ofte en kontrakt der de forplikter seg til Ã¥ levere et ferdig resultat for en avtalt pris. EntreprenÃ¸rens kjerneoppgaver inkluderer:
+En **entreprenør** inngår ofte en kontrakt der de forplikter seg til å levere et ferdig resultat for en avtalt pris. Entreprenørens kjerneoppgaver inkluderer:
 
 * Planlegging og prosjektstyring
 * Anskaffelse av materialer og utstyr
-* Koordinering av underentreprenÃ¸rer og leverandÃ¸rer
+* Koordinering av underentreprenører og leverandører
 * Kvalitetssikring og dokumentasjon
 
-## EntreprenÃ¸rens rolle i regnskapet
+## Entreprenørens rolle i regnskapet
 
-### RegnskapsfÃ¸ring av entreprisekontrakter
+### Regnskapsføring av entreprisekontrakter
 
 | Type kontrakt           | Regnskapsmetode      | Beskrivelse                                          |
 |-------------------------|----------------------|------------------------------------------------------|
 | Fastprisentreprise      | Periodisering        | Inntekter og kostnader innregnes etter fremdrift     |
-| LÃ¸pende/akkordarbeid    | Kostpris med pÃ¥slag  | Basert pÃ¥ dokumentert arbeidstid og materialpris     |
-| Delentreprise           | Delvis fakturering   | Fakturering lÃ¸pende etter fullfÃ¸rte del-leveranser  |
+| Løpende/akkordarbeid    | Kostpris med påslag  | Basert på dokumentert arbeidstid og materialpris     |
+| Delentreprise           | Delvis fakturering   | Fakturering løpende etter fullførte del-leveranser  |
 
-Les mer om [Fremmedytelser og Underentreprise](/blogs/kontoplan/4500-fremmedytelser-og-underentreprise "Fremmedytelser og Underentreprise") for detaljer om underentreprenÃ¸rer.
+Les mer om [Fremmedytelser og Underentreprise](/blogs/kontoplan/4500-fremmedytelser-og-underentreprise "Fremmedytelser og Underentreprise") for detaljer om underentreprenører.
 
-## Moms og entreprenÃ¸rtjenester
+## Moms og entreprenørtjenester
 
-EntreprenÃ¸rer mÃ¥ forholde seg til norsk MVA-regelverk:
+Entreprenører må forholde seg til norsk MVA-regelverk:
 
-* **Omvendt avgiftsplikt** ved kjÃ¸p av tjenester fra utlandet “ se [Hva er Omvendt avgiftsplikt?](/blogs/regnskap/omvendt-avgiftsplikt "Hva er Omvendt avgiftsplikt?")
-* **InngÃ¥ende mva** pÃ¥ materialer “ kostnadsfÃ¸res som innkjÃ¸p i regnskapet
-* **UtgÃ¥ende mva** pÃ¥ fakturerte entreprisetjenester, vanligvis 25â€¯%
+* **Omvendt avgiftsplikt** ved kjøp av tjenester fra utlandet “ se [Hva er Omvendt avgiftsplikt?](/blogs/regnskap/omvendt-avgiftsplikt "Hva er Omvendt avgiftsplikt?")
+* **Inngående mva** på materialer “ kostnadsføres som innkjøp i regnskapet
+* **Utgående mva** på fakturerte entreprisetjenester, vanligvis 25–¯%
 
 ## Viktige eksempler
 
-| Scenario       | RegnskapsfÃ¸ring     | Kommentar                                                       |
+| Scenario       | Regnskapsføring     | Kommentar                                                       |
 |----------------|---------------------|-----------------------------------------------------------------|
 | A-konto-faktura| Periodisering av inntekt | Se [Hva er a-konto-betaling](/blogs/regnskap/hva-er-a-konto-betaling "Hva er a-konto betaling?") |
-| Sluttfaktura   | Anerkjennelse av fullfÃ¸rt leveranse | Dokumentasjon av overtakelsesprotokoll         |
+| Sluttfaktura   | Anerkjennelse av fullført leveranse | Dokumentasjon av overtakelsesprotokoll         |
 
-## EntreprenÃ¸rkontraktens nÃ¸kkelvilkÃ¥r
+## Entreprenørkontraktens nøkkelvilkår
 
-1. **Kontraktstype:** Fastpris, lÃ¸pende timearbeid eller kombinasjon.
+1. **Kontraktstype:** Fastpris, løpende timearbeid eller kombinasjon.
 2. **Leveringsomfang:** Tydelig beskrivelse av arbeidets omfang.
-3. **Fremdriftsplan:** MilepÃ¦ler for fakturering og levering.
+3. **Fremdriftsplan:** Milepæler for fakturering og levering.
 4. **Sikkerhetsstillelse:** Garantier, bankgaranti “ se [bankgaranti](/blogs/regnskap/bankgaranti "Bankgaranti").
 5. **Kvalitetskrav:** Krav til materialer, toleranser og testprosedyrer.
 
 ## Oppsummering
 
-Som entreprenÃ¸r mÃ¥ man sikre korrekt **regnskapsfÃ¸ring**, fÃ¸lge **MVA-regler** og styre bÃ¥de Ã¸konomi og underleverandÃ¸rer effektivt. En godt utarbeidet **entrepriseavtale** og god dokumentasjon er nÃ¸kkelen til suksess.
+Som entreprenør må man sikre korrekt **regnskapsføring**, følge **MVA-regler** og styre både økonomi og underleverandører effektivt. En godt utarbeidet **entrepriseavtale** og god dokumentasjon er nøkkelen til suksess.
+
+
+
+
 
 
 

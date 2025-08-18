@@ -1,19 +1,19 @@
 ﻿---
 title: "Konto 1820 - Andre aksjer"
 meta_title: "1820-andre-aksjer"
-meta_description: '**Konto 1820 - Andre aksjer** er en konto i Norsk Standard Kontoplan som brukes for Ã¥ registrere **andre aksjer** og eierandeler som ikke er notert pÃ¥ reguler...'
+meta_description: '**Konto 1820 - Andre aksjer** er en konto i Norsk Standard Kontoplan som brukes for å registrere **andre aksjer** og eierandeler som ikke er notert på reguler...'
 slug: 1820-andre-aksjer
 type: blog
 layout: pages/single
 ---
 
-**Konto 1820 - Andre aksjer** er en konto i Norsk Standard Kontoplan som brukes for Ã¥ registrere **andre aksjer** og eierandeler som ikke er notert pÃ¥ regulerte markeder, og som normalt mÃ¥les til anskaffelseskost i balansen.
+**Konto 1820 - Andre aksjer** er en konto i Norsk Standard Kontoplan som brukes for å registrere **andre aksjer** og eierandeler som ikke er notert på regulerte markeder, og som normalt måles til anskaffelseskost i balansen.
 
 ![Illustrasjon av konto 1820 andre aksjer](1820-andre-aksjer-image.svg)
 
 ## Hva er andre aksjer?
 
-**Andre aksjer** omfatter egenkapitalinstrumenter i selskaper uten aktiv omsetning pÃ¥ bÃ¸rs eller andre regulerte markeder. Typiske eksempler inkluderer:
+**Andre aksjer** omfatter egenkapitalinstrumenter i selskaper uten aktiv omsetning på børs eller andre regulerte markeder. Typiske eksempler inkluderer:
 
 * Unoterte aksjer i startups og private selskaper
 * Ansatteaksjer og insentivprogrammer
@@ -21,16 +21,16 @@ layout: pages/single
 
 ## Klassifisering og vurdering
 
-Andre aksjer vurderes vanligvis til **anskaffelseskost** med mindre det er indikasjoner pÃ¥ varig verdifall. Eventuelle nedskrivninger fÃ¸res ved bruk av **laveste verdis prinsipp** dersom virkelig verdi er lavere enn kost.
+Andre aksjer vurderes vanligvis til **anskaffelseskost** med mindre det er indikasjoner på varig verdifall. Eventuelle nedskrivninger føres ved bruk av **laveste verdis prinsipp** dersom virkelig verdi er lavere enn kost.
 
 | Vurderingstype                | Beskrivelse                                                                      |
 |-------------------------------|----------------------------------------------------------------------------------|
-| Anskaffelseskost              | Opprinnelig kjÃ¸pspris inkludert direkte transaksjonskostnader                    |
-| Laveste verdis prinsipp (LVP) | Nedskrivning til virkelig verdi nÃ¥r verdifall er forventet Ã¥ vÃ¦re varig          |
+| Anskaffelseskost              | Opprinnelig kjøpspris inkludert direkte transaksjonskostnader                    |
+| Laveste verdis prinsipp (LVP) | Nedskrivning til virkelig verdi når verdifall er forventet å være varig          |
 
-## RegnskapsfÃ¸ring av andre aksjer
+## Regnskapsføring av andre aksjer
 
-BokfÃ¸ring ved anskaffelse:
+Bokføring ved anskaffelse:
 
 ```plaintext
 Debet: Konto 1820 - Andre aksjer                            XXX kroner
@@ -53,4 +53,9 @@ Kredit: Konto 1820 - Andre aksjer                            XXX kroner
 * [Konto 1830 - Markedsbaserte obligasjoner](/blogs/kontoplan/1830-markedsbaserte-obligasjoner "Konto 1830 - Markedsbaserte obligasjoner")
 * [Konto 1840 - Andre obligasjoner](/blogs/kontoplan/1840-andre-obligasjoner "Konto 1840 - Andre obligasjoner: Guide til andre obligasjoner i norsk kontoplan")
 * [Konto 1350 - Investeringer i aksjer og eiendeler](/blogs/kontoplan/1350-investeringer-i-aksjer-og-eiendeler "Konto 1350 - Investeringer i aksjer og eiendeler")
+
+
+
+
+
 

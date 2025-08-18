@@ -1,58 +1,62 @@
 ﻿---
 title: "Hva er Integritet i Regnskap?"
 meta_title: "Hva er Integritet i Regnskap?"
-meta_description: '**Integritet** i norsk regnskap handler om evnen til Ã¥ opprettholde **pÃ¥litelighet**, **troverdighet** og **etisk seriÃ¸sitet** i all finansiell rapportering ...'
+meta_description: '**Integritet** i norsk regnskap handler om evnen til å opprettholde **pålitelighet**, **troverdighet** og **etisk seriøsitet** i all finansiell rapportering ...'
 slug: integritet
 type: blog
 layout: pages/single
 ---
 
-**Integritet** i norsk regnskap handler om evnen til Ã¥ opprettholde **pÃ¥litelighet**, **troverdighet** og **etisk seriÃ¸sitet** i all finansiell rapportering og dokumentasjon.
+**Integritet** i norsk regnskap handler om evnen til å opprettholde **pålitelighet**, **troverdighet** og **etisk seriøsitet** i all finansiell rapportering og dokumentasjon.
 
 ![Illustrasjon som viser konseptet integritet](integritet-image.svg)
 
 ## 1. Hva er Integritet?
 
-I regnskapsmessig sammenheng innebÃ¦rer integritet at alle transaksjoner, bilag og rapporter er **korrekte**, **fullstendige** og **uverandret** gjennom hele prosessen. Integritet sikrer at regnskapet gir et **sant og rettvisende bilde** av virksomhetens Ã¸konomiske stilling.
+I regnskapsmessig sammenheng innebærer integritet at alle transaksjoner, bilag og rapporter er **korrekte**, **fullstendige** og **uverandret** gjennom hele prosessen. Integritet sikrer at regnskapet gir et **sant og rettvisende bilde** av virksomhetens økonomiske stilling.
 
 ## 2. Hvorfor er Integritet Viktig?
 
 | **Fordel**                       | **Beskrivelse**                                                                                 |
 |----------------------------------|-------------------------------------------------------------------------------------------------|
-| Tillit hos interessenter         | Investorer, lÃ¥ngivere og myndigheter har tillit til regnskapet nÃ¥r integritet er ivaretatt     |
-| BeslutningsstÃ¸tte                | Korrekte data gir grunnlag for gode forretningsbeslutninger                                     |
-| Overholdelse av regelverk        | Sikrer samsvar med [bokfÃ¸ringsloven](/blogs/regnskap/hva-er-bokforingsloven "Hva er BokfÃ¸ringsloven? Komplett Guide til Norsk BokfÃ¸ringslovgivning") og internasjonale standarder |
-| Risiko for bedrageri og feil     | Svak integritet Ã¸ker risiko for misligheter, feilrapportering og reputasjonsskader               |
+| Tillit hos interessenter         | Investorer, långivere og myndigheter har tillit til regnskapet når integritet er ivaretatt     |
+| Beslutningsstøtte                | Korrekte data gir grunnlag for gode forretningsbeslutninger                                     |
+| Overholdelse av regelverk        | Sikrer samsvar med [bokføringsloven](/blogs/regnskap/hva-er-bokforingsloven "Hva er Bokføringsloven? Komplett Guide til Norsk Bokføringslovgivning") og internasjonale standarder |
+| Risiko for bedrageri og feil     | Svak integritet øker risiko for misligheter, feilrapportering og reputasjonsskader               |
 
 ## 3. Relevante Lover og Standarder
 
-* **BokfÃ¸ringsloven** “ Krav til dokumentasjon, sporbarhet og oppbevaring av regnskapsmateriale
-* **Revisjonsloven** “ Revisors uavhengighet og plikt til Ã¥ avdekke feil, jfr. [uavhengighet](/blogs/regnskap/inhabilitet "Hva er Inhabilitet i Regnskap? Guide til habilitetsregler og praksis")
-* **EU-taksonomien** “ Rapportering av bÃ¦rekraft med krav til pÃ¥litelig datagrunnlag
+* **Bokføringsloven** “ Krav til dokumentasjon, sporbarhet og oppbevaring av regnskapsmateriale
+* **Revisjonsloven** “ Revisors uavhengighet og plikt til å avdekke feil, jfr. [uavhengighet](/blogs/regnskap/inhabilitet "Hva er Inhabilitet i Regnskap? Guide til habilitetsregler og praksis")
+* **EU-taksonomien** “ Rapportering av bærekraft med krav til pålitelig datagrunnlag
 * **God regnskapsskikk** “ Etiske prinsipper, transparens og [integritet](/blogs/regnskap/integritet "Hva er Integritet i Regnskap? Betydning og Viktighet for Norske Virksomheter")
 
 ## 4. Implementering av Integritet i Regnskap
 
-For Ã¥ sikre integritet i regnskapet bÃ¸r virksomheter etablere fÃ¸lgende praksiser:
+For å sikre integritet i regnskapet bør virksomheter etablere følgende praksiser:
 
-1. **Tydelig Dokumentasjon:** Standardiserte bilagsrutiner, fortlÃ¸pende nummerserier og avstemming ved hver periodeavslutning.
-2. **Internkontroll:** Regelmessige kontroller, fordeling av ansvar og revisjonsrutiner i trÃ¥d med [internkontroll](/blogs/regnskap/hva-er-internkontroll "Hva er Internkontroll? En Guide til Kontroll og Risiko i Regnskapet").
-3. **OpplÃ¦ring og Etisk Kodeks:** Ansatte mÃ¥ forstÃ¥ viktigheten av integritet gjennom mÃ¥lrettet opplÃ¦ring og retningslinjer.
-4. **Teknologiske LÃ¸sninger:** Bruk av systemer som sikrer sporbarhet, revisjonsspor og uforanderlighet (f.eks. blockchain-lÃ¸sninger).
+1. **Tydelig Dokumentasjon:** Standardiserte bilagsrutiner, fortløpende nummerserier og avstemming ved hver periodeavslutning.
+2. **Internkontroll:** Regelmessige kontroller, fordeling av ansvar og revisjonsrutiner i tråd med [internkontroll](/blogs/regnskap/hva-er-internkontroll "Hva er Internkontroll? En Guide til Kontroll og Risiko i Regnskapet").
+3. **Opplæring og Etisk Kodeks:** Ansatte må forstå viktigheten av integritet gjennom målrettet opplæring og retningslinjer.
+4. **Teknologiske Løsninger:** Bruk av systemer som sikrer sporbarhet, revisjonsspor og uforanderlighet (f.eks. blockchain-løsninger).
 
 ## 5. Konsekvenser av Manglende Integritet
 
-* **Risiko for regulatoriske sanksjoner** “ Manglende integritet kan fÃ¸re til overtredelsesgebyrer og straff
-* **Tap av omdÃ¸mme** “ Utsalg av tillit hos kunder, leverandÃ¸rer og tilsynsmyndigheter
-* **Ã˜konomiske tap** “ Feilaktige rapporter kan medfÃ¸re dÃ¥rlig beslutningsgrunnlag og Ã¸konomiske tap
+* **Risiko for regulatoriske sanksjoner** “ Manglende integritet kan føre til overtredelsesgebyrer og straff
+* **Tap av omdømme** “ Utsalg av tillit hos kunder, leverandører og tilsynsmyndigheter
+* **Økonomiske tap** “ Feilaktige rapporter kan medføre dårlig beslutningsgrunnlag og økonomiske tap
 * **Revisjonsmerknader** “ Avvik og presiseringer i revisjonsberetningen
 
 ## Relaterte Artikler
 
 * [Internkontroll](/blogs/regnskap/hva-er-internkontroll "Hva er Internkontroll? En Guide til Kontroll og Risiko i Regnskapet")
 * [God regnskapsskikk](/blogs/regnskap/god-regnskapsskikk "God Regnskapsskikk - Prinsipper, Standarder og Beste Praksis i Norge")
-* [BokfÃ¸ringsloven](/blogs/regnskap/hva-er-bokforingsloven "Hva er BokfÃ¸ringsloven? Komplett Guide til Norsk BokfÃ¸ringslovgivning")
+* [Bokføringsloven](/blogs/regnskap/hva-er-bokforingsloven "Hva er Bokføringsloven? Komplett Guide til Norsk Bokføringslovgivning")
 * [Hva er Inhabilitet i Regnskap?](/blogs/regnskap/inhabilitet "Hva er Inhabilitet i Regnskap? Guide til habilitetsregler og praksis")
+
+
+
+
 
 
 

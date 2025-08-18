@@ -1,34 +1,34 @@
 ﻿---
 title: "Konto 3200 - Salgsinntekt handelsvarer utenfor avg.omr"
 meta_title: "3200-salgsinntekt-handelsvarer-utenfor-avg-omr"
-meta_description: '**Konto 3200 - Salgsinntekt handelsvarer utenfor avg.omr** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **salgsinntekter** fra **handelsv...'
+meta_description: '**Konto 3200 - Salgsinntekt handelsvarer utenfor avg.omr** er en konto i Norsk Standard Kontoplan som brukes til å registrere **salgsinntekter** fra **handelsv...'
 slug: 3200-salgsinntekt-handelsvarer-utenfor-avg-omr
 type: blog
 layout: pages/single
 ---
 
-**Konto 3200 - Salgsinntekt handelsvarer utenfor avg.omr** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **salgsinntekter** fra **handelsvarer** som ligger **utenfor merverdiavgiftsomrÃ¥det**.
+**Konto 3200 - Salgsinntekt handelsvarer utenfor avg.omr** er en konto i Norsk Standard Kontoplan som brukes til å registrere **salgsinntekter** fra **handelsvarer** som ligger **utenfor merverdiavgiftsområdet**.
 
 ![Illustrasjon av Konto 3200 - Salgsinntekt handelsvarer utenfor avg.omr](3200-salgsinntekt-handelsvarer-utenfor-avg-omr-image.svg)
 
 ## Hva er Salgsinntekt handelsvarer utenfor avg.omr?
 
-*Salgsinntekt handelsvarer utenfor avg.omr* omfatter omsetning av varer som ikke er omfattet av merverdiavgiftsloven, for eksempel internasjonal transport, diplomatiske leveranser eller salg til tollfrie omrÃ¥der.
+*Salgsinntekt handelsvarer utenfor avg.omr* omfatter omsetning av varer som ikke er omfattet av merverdiavgiftsloven, for eksempel internasjonal transport, diplomatiske leveranser eller salg til tollfrie områder.
 
-Eksempler pÃ¥ unntatt omsetning:
-* Eksport av varer til land utenfor EÃ˜S.
+Eksempler på unntatt omsetning:
+* Eksport av varer til land utenfor EØS.
 * Leveranser til diplomatiske misjoner og internasjonale organisasjoner.
-* Salg av varer under omsetningstillatelse til tollfrie omrÃ¥der.
+* Salg av varer under omsetningstillatelse til tollfrie områder.
 
 | Konto | Beskrivelse                               | MVA-sats               |
 |-------|-------------------------------------------|------------------------|
-| 3200  | Salgsinntekt handelsvarer utenfor avg.omr | Utenfor avgiftsomrÃ¥det |
+| 3200  | Salgsinntekt handelsvarer utenfor avg.omr | Utenfor avgiftsområdet |
 
-![AvgiftsomrÃ¥de uten MVA](3200-mva-utenfor-avg-omr.svg)
+![Avgiftsområde uten MVA](3200-mva-utenfor-avg-omr.svg)
 
-## RegnskapsfÃ¸ring
+## Regnskapsføring
 
-RegnskapsfÃ¸ring av **salgsinntekter utenfor avgiftsomrÃ¥det** fÃ¸lger inntektsfÃ¸ringsprinsippet med fokus pÃ¥ netto salg. Kontostrukturen bidrar til Ã¥ skille mellom MVA-pliktig og ikke MVA-pliktig omsetning.
+Regnskapsføring av **salgsinntekter utenfor avgiftsområdet** følger inntektsføringsprinsippet med fokus på netto salg. Kontostrukturen bidrar til å skille mellom MVA-pliktig og ikke MVA-pliktig omsetning.
 
 | Transaksjon                   | Debet                        | Kredit                                                |
 |-------------------------------|------------------------------|-------------------------------------------------------|
@@ -37,9 +37,9 @@ RegnskapsfÃ¸ring av **salgsinntekter utenfor avgiftsomrÃ¥det** fÃ¸lger inn
 
 ## Vurdering og rapportering
 
-* Inntekter utenfor merverdiavgiftsomrÃ¥det skal rapporteres separat for Ã¥ sikre korrekt MVA-rapportering.
-* Det er viktig med **nÃ¸yaktig periodisering** for Ã¥ unngÃ¥ feil i skattemessige og finansielle rapporter.
-* Bruk av konto 3200 hjelper med Ã¥ opprettholde klarhet mellom avgiftspliktig og avgiftsfri omsetning.
+* Inntekter utenfor merverdiavgiftsområdet skal rapporteres separat for å sikre korrekt MVA-rapportering.
+* Det er viktig med **nøyaktig periodisering** for å unngå feil i skattemessige og finansielle rapporter.
+* Bruk av konto 3200 hjelper med å opprettholde klarhet mellom avgiftspliktig og avgiftsfri omsetning.
 
 ## Intern lenking og relaterte kontoer
 
@@ -52,4 +52,9 @@ RegnskapsfÃ¸ring av **salgsinntekter utenfor avgiftsomrÃ¥det** fÃ¸lger inn
 * [Konto 3280 - Rabatter og annen salgsinntektsreduksjon utenfor avg.omr](/blogs/kontoplan/3280-rabatter-og-annen-salgsinntektsreduksjon-utenfor-avg-omr "Konto 3280 - Rabatter og annen salgsinntektsreduksjon utenfor avg.omr")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 * [Hva er Omsetning?](/blogs/regnskap/hva-er-omsetning "Hva er Omsetning? Komplett Guide til Omsetning i Regnskap og Skatt")
+
+
+
+
+
 

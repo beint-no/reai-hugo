@@ -1,59 +1,64 @@
 ﻿---
-title: "Konto 7746 - Ã˜reavrunding, avgiftsfritt"
+title: "Konto 7746 - Øreavrunding, avgiftsfritt"
 meta_title: "7746-oreavrunding-avgiftsfritt"
-meta_description: '**Konto 7746 - Ã˜reavrunding, avgiftsfritt** er en konto i **Norsk Standard Kontoplan** som brukes til Ã¥ bokfÃ¸re **Ã¸reavrunding** ved **avgiftsfrie transaksj...'
+meta_description: '**Konto 7746 - Øreavrunding, avgiftsfritt** er en konto i **Norsk Standard Kontoplan** som brukes til å bokføre **øreavrunding** ved **avgiftsfrie transaksj...'
 slug: 7746-oreavrunding-avgiftsfritt
 type: blog
 layout: pages/single
 ---
 
-**Konto 7746 - Ã˜reavrunding, avgiftsfritt** er en konto i **Norsk Standard Kontoplan** som brukes til Ã¥ bokfÃ¸re **Ã¸reavrunding** ved **avgiftsfrie transaksjoner**, som oppstÃ¥r nÃ¥r belÃ¸p uten merverdiavgift mÃ¥ rundes til nÃ¦rmeste krone.
+**Konto 7746 - Øreavrunding, avgiftsfritt** er en konto i **Norsk Standard Kontoplan** som brukes til å bokføre **øreavrunding** ved **avgiftsfrie transaksjoner**, som oppstår når beløp uten merverdiavgift må rundes til nærmeste krone.
 
-![Illustrasjon av konto 7746 Ã˜reavrunding, avgiftsfritt](7746-oreavrunding-avgiftsfritt-image.svg)
+![Illustrasjon av konto 7746 Øreavrunding, avgiftsfritt](7746-oreavrunding-avgiftsfritt-image.svg)
 
-## Hva er Ã¸reavrunding ved avgiftsfrie transaksjoner?
+## Hva er øreavrunding ved avgiftsfrie transaksjoner?
 
-*Ã˜reavrunding ved avgiftsfrie transaksjoner* oppstÃ¥r nÃ¥r belÃ¸p eksklusiv merverdiavgift gir desimaler som mÃ¥ avrundes til hele kroner pÃ¥ faktura eller regnskapsposter. Kontoen fanger opp disse smÃ¥ differansene.
+*Øreavrunding ved avgiftsfrie transaksjoner* oppstår når beløp eksklusiv merverdiavgift gir desimaler som må avrundes til hele kroner på faktura eller regnskapsposter. Kontoen fanger opp disse små differansene.
 
-## NÃ¥r skal konto 7746 benyttes?
+## Når skal konto 7746 benyttes?
 
-* NÃ¥r totale belÃ¸p uten merverdiavgift mÃ¥ rundes til nÃ¦rmeste krone pÃ¥ fakturaer.
-* Ved avrunding av avgiftsfrie salgs- eller kjÃ¸pstransaksjoner fÃ¸r bokfÃ¸ring.
-* For Ã¥ sikre at fakturabelÃ¸pet stemmer med det som kreves betalt, samtidig som regnskapet er i balanse.
+* Når totale beløp uten merverdiavgift må rundes til nærmeste krone på fakturaer.
+* Ved avrunding av avgiftsfrie salgs- eller kjøpstransaksjoner før bokføring.
+* For å sikre at fakturabeløpet stemmer med det som kreves betalt, samtidig som regnskapet er i balanse.
 
-## RegnskapsfÃ¸ring
+## Regnskapsføring
 
 | Scenario                                    | Debet                                   | Kredit                                   |
 |---------------------------------------------|-----------------------------------------|------------------------------------------|
-| Positiv avrundingsdifferanse pÃ¥ faktura    | Konto 7746 - Ã˜reavrunding, avgiftsfritt | Konto 3100 - Salgsinntekt handelsvarer avgiftsfri |
-| Negativ avrundingsdifferanse pÃ¥ faktura    | Konto 3100 - Salgsinntekt handelsvarer avgiftsfri | Konto 7746 - Ã˜reavrunding, avgiftsfritt |
+| Positiv avrundingsdifferanse på faktura    | Konto 7746 - Øreavrunding, avgiftsfritt | Konto 3100 - Salgsinntekt handelsvarer avgiftsfri |
+| Negativ avrundingsdifferanse på faktura    | Konto 3100 - Salgsinntekt handelsvarer avgiftsfri | Konto 7746 - Øreavrunding, avgiftsfritt |
 
 ## Eksempel
 
-En selger fakturerer varer uten merverdiavgift og fÃ¥r fÃ¸lgende tall:
+En selger fakturerer varer uten merverdiavgift og får følgende tall:
 
-| Beskrivelse                  | BelÃ¸p (NOK) |
+| Beskrivelse                  | Beløp (NOK) |
 |------------------------------|-------------|
-| FakturabelÃ¸p ekskl. avgift   | 1â€¯099,50    |
-| Avrundet fakturabelÃ¸p        | 1â€¯100,00    |
-| Ã˜reavrunding                 | 0,50        |
+| Fakturabeløp ekskl. avgift   | 1–¯099,50    |
+| Avrundet fakturabeløp        | 1–¯100,00    |
+| Øreavrunding                 | 0,50        |
 
-Ã˜reavrundingen bokfÃ¸res slik:
+Øreavrundingen bokføres slik:
 
 | Transaksjon                                 | Debet                                   | Kredit                                   |
 |---------------------------------------------|-----------------------------------------|------------------------------------------|
-| Ã˜reavrunding ved avrunding av faktura       | Konto 7746 - Ã˜reavrunding, avgiftsfritt | Konto 3100 - Salgsinntekt handelsvarer avgiftsfri |
+| Øreavrunding ved avrunding av faktura       | Konto 7746 - Øreavrunding, avgiftsfritt | Konto 3100 - Salgsinntekt handelsvarer avgiftsfri |
 
 ## Fordeler ved korrekt bruk
 
-* Sikrer **nÃ¸yaktig fakturering** uten smÃ¥ avvik for kunden.
-* Bidrar til at **regnskapet balansefÃ¸res** korrekt.
-* Gir oversikt over **Ã¸reavvik** ved avgiftsfrie transaksjoner.
+* Sikrer **nøyaktig fakturering** uten små avvik for kunden.
+* Bidrar til at **regnskapet balanseføres** korrekt.
+* Gir oversikt over **øreavvik** ved avgiftsfrie transaksjoner.
 
 ## Relaterte artikler
 
-* [Konto 7745 - Ã˜reavrunding, avgiftspliktig](/blogs/kontoplan/7745-oreavrunding-avgiftspliktig "Konto 7745 - Ã˜reavrunding, avgiftspliktig")
-* [Konto 7740 - Ã˜reavrunding, MVA - oppgjÃ¸r](/blogs/kontoplan/7740-oreavrunding-mva-oppgjor "Konto 7740 - Ã˜reavrunding, MVA - oppgjÃ¸r")
+* [Konto 7745 - Øreavrunding, avgiftspliktig](/blogs/kontoplan/7745-oreavrunding-avgiftspliktig "Konto 7745 - Øreavrunding, avgiftspliktig")
+* [Konto 7740 - Øreavrunding, MVA - oppgjør](/blogs/kontoplan/7740-oreavrunding-mva-oppgjor "Konto 7740 - Øreavrunding, MVA - oppgjør")
 * [Konto 3100 - Salgsinntekt handelsvarer avgiftsfri](/blogs/kontoplan/3100-salgsinntekt-handelsvarer-avgiftsfri "Konto 3100 - Salgsinntekt handelsvarer avgiftsfri")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+
+
+
+
+
 

@@ -7,15 +7,15 @@ type: blog
 layout: pages/single
 ---
 
-Et **konsern** er en gruppe av selskaper hvor ett selskap ([morselskapet](/blogs/regnskap/hva-er-morselskap "Hva er et Morselskap? Komplett Guide til Morselskap og Konsernledelse")) har bestemmende innflytelse over ett eller flere andre selskaper ([datterselskaper](/blogs/regnskap/datterselskap "Hva er Datterselskap? En Guide til Datterselskap og Konsernstruktur")). Konsernstrukturer er vanlige i nÃ¦ringslivet og har betydelige konsekvenser for regnskap, skatt og juridiske forhold.
+Et **konsern** er en gruppe av selskaper hvor ett selskap ([morselskapet](/blogs/regnskap/hva-er-morselskap "Hva er et Morselskap? Komplett Guide til Morselskap og Konsernledelse")) har bestemmende innflytelse over ett eller flere andre selskaper ([datterselskaper](/blogs/regnskap/datterselskap "Hva er Datterselskap? En Guide til Datterselskap og Konsernstruktur")). Konsernstrukturer er vanlige i næringslivet og har betydelige konsekvenser for regnskap, skatt og juridiske forhold.
 
-For spesifikke eksempler pÃ¥ tverrsnittsstruktur, se ogsÃ¥ [Konglomerat](/blogs/regnskap/konglomerat "Konglomerat: Guide til Konglomerater i Norsk Regnskap").
+For spesifikke eksempler på tverrsnittsstruktur, se også [Konglomerat](/blogs/regnskap/konglomerat "Konglomerat: Guide til Konglomerater i Norsk Regnskap").
 
 ![Illustrasjon som viser konsernstruktur med morselskap og datterselskaper](hva-er-konsern-image.svg)
 
 ## Definisjon av Konsern
 
-Et **konsern** oppstÃ¥r nÃ¥r ett [selskap](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap (AS)? Komplett Guide til Selskapsformen") har **bestemmende innflytelse** over ett eller flere andre selskaper. Bestemmende innflytelse foreligger normalt nÃ¥r morselskapet eier mer enn **50% av stemmene** i datterselskapet.
+Et **konsern** oppstår når ett [selskap](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap (AS)? Komplett Guide til Selskapsformen") har **bestemmende innflytelse** over ett eller flere andre selskaper. Bestemmende innflytelse foreligger normalt når morselskapet eier mer enn **50% av stemmene** i datterselskapet.
 
 ### Juridisk Grunnlag
 
@@ -24,7 +24,7 @@ Konsernreglene i Norge er regulert i:
 * **Aksjeloven** kapittel 1-5 (for aksjeselskaper)
 * **Regnskapsloven** kapittel 3 (konsernregnskap)
 * **Skatteloven** (konsernbeskatning)
-* **Allmennaksjeloven** (for bÃ¸rsnoterte selskaper)
+* **Allmennaksjeloven** (for børsnoterte selskaper)
 
 ![Diagram som viser juridisk grunnlag for konsernregulering](konsern-juridisk-grunnlag.svg)
 
@@ -34,14 +34,14 @@ Konsernreglene i Norge er regulert i:
 
 I en **vertikal struktur** eier morselskapet direkte alle datterselskapene:
 
-* **Morselskap** pÃ¥ toppen
+* **Morselskap** på toppen
 * **Datterselskaper** direkte underordnet
 * Enkel og oversiktlig struktur
-* Lett Ã¥ administrere og kontrollere
+* Lett å administrere og kontrollere
 
 ### Horisontal Konsernstruktur
 
-En **horisontal struktur** har flere nivÃ¥er av eierskap:
+En **horisontal struktur** har flere nivåer av eierskap:
 
 * Morselskap eier datterselskap
 * Datterselskap eier egne datterselskaper (**barnebarn-selskaper**)
@@ -50,7 +50,7 @@ En **horisontal struktur** har flere nivÃ¥er av eierskap:
 
 ### Blandet Konsernstruktur
 
-**Kombinerer** elementer fra bÃ¥de vertikal og horisontal struktur:
+**Kombinerer** elementer fra både vertikal og horisontal struktur:
 
 * Fleksibel tilpasning til forretningsbehov
 * Kan optimalisere skatt og risiko
@@ -62,23 +62,23 @@ En **horisontal struktur** har flere nivÃ¥er av eierskap:
 
 ### Plikt til Konsernregnskap
 
-[Foretak](/blogs/regnskap/hva-er-foretak "Hva er et Foretak? Komplett Guide til Foretaksformer i Norge") mÃ¥ utarbeide **konsernregnskap** nÃ¥r:
+[Foretak](/blogs/regnskap/hva-er-foretak "Hva er et Foretak? Komplett Guide til Foretaksformer i Norge") må utarbeide **konsernregnskap** når:
 
 * Morselskapet har bestemmende innflytelse over datterselskap
-* Konsernet samlet overstiger **to av fÃ¸lgende grenser**:
+* Konsernet samlet overstiger **to av følgende grenser**:
   - Salgsinntekt: 70 millioner kr
   - Balansesum: 35 millioner kr
   - Gjennomsnittlig antall ansatte: 50
 
 ### Konsolideringsprinsipper
 
-Se ogsÃ¥ vÃ¥r detaljerte [Konsolidering](/blogs/regnskap/konsolidering "Konsolidering i norsk konsernregnskap") for en grundig gjennomgang.
+Se også vår detaljerte [Konsolidering](/blogs/regnskap/konsolidering "Konsolidering i norsk konsernregnskap") for en grundig gjennomgang.
 
-Konsernregnskapet utarbeides ved **konsolidering** som innebÃ¦rer:
+Konsernregnskapet utarbeides ved **konsolidering** som innebærer:
 
 1. **Sammenstilling** av mor- og datterselskapenes regnskaper
 2. **Eliminering** av interne transaksjoner
-3. **Eliminering** av interne mellomvÃ¦rende
+3. **Eliminering** av interne mellomværende
 4. **Beregning** av minoritetsinteresser
 
 #### Elimineringer i Konsernregnskap
@@ -86,8 +86,8 @@ Konsernregnskapet utarbeides ved **konsolidering** som innebÃ¦rer:
 | Type Eliminering | Beskrivelse | Eksempel |
 |------------------|-------------|----------|
 | **Interne salg** | Salg mellom konsernselskaper | Morselskap selger til datterselskap |
-| **Interne lÃ¥n** | LÃ¥n mellom konsernselskaper | Konsernkonto mellom selskaper |
-| **Interne gevinster** | Gevinst pÃ¥ salg internt | Salg av anleggsmidler internt |
+| **Interne lån** | Lån mellom konsernselskaper | Konsernkonto mellom selskaper |
+| **Interne gevinster** | Gevinst på salg internt | Salg av anleggsmidler internt |
 | **Investeringer** | Morselskapets investering i datterselskap | Aksjer i datterselskap |
 
 ![Illustrasjon av konsolideringsprosessen](konsolidering-prosess.svg)
@@ -98,18 +98,18 @@ Konsernregnskapet utarbeides ved **konsolidering** som innebÃ¦rer:
 
 [**Konsernbidrag**](/blogs/regnskap/hva-er-konsernbidrag "Hva er Konsernbidrag? Komplett Guide til Konsernbidrag i Norge") er en skattemessig ordning som tillater:
 
-* **OverfÃ¸ring** av underskudd mellom konsernselskaper
+* **Overføring** av underskudd mellom konsernselskaper
 * **Utjevning** av skattepliktig inntekt
 * **Optimalisering** av konsernets samlede skatt
 
-#### VilkÃ¥r for Konsernbidrag
+#### Vilkår for Konsernbidrag
 
-For Ã¥ kunne gi konsernbidrag mÃ¥ fÃ¸lgende vilkÃ¥r vÃ¦re oppfylt:
+For å kunne gi konsernbidrag må følgende vilkår være oppfylt:
 
 * **Minimum 90%** eierskap (direkte eller indirekte)
-* **Samme regnskapsÃ¥r** for begge selskaper
-* Begge selskaper mÃ¥ vÃ¦re **norske** [aksjeselskaper](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap (AS)? Komplett Guide til Selskapsformen")
-* **Kontinuerlig eierskap** gjennom hele inntektsÃ¥ret
+* **Samme regnskapsår** for begge selskaper
+* Begge selskaper må være **norske** [aksjeselskaper](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap (AS)? Komplett Guide til Selskapsformen")
+* **Kontinuerlig eierskap** gjennom hele inntektsåret
 
 ### Konsernbeskatning
 
@@ -122,10 +122,10 @@ Norge har **ikke** konsernbeskatning som mange andre land. Hvert selskap beskatt
 ### Fordeler
 
 #### Forretningsmessige Fordeler
-* **Risikofordeling** mellom ulike virksomhetsomrÃ¥der
+* **Risikofordeling** mellom ulike virksomhetsområder
 * **Fleksibilitet** i organisering av aktiviteter
-* **Spesialisering** av ulike forretningsomrÃ¥der
-* **Lettere** Ã¥ selge eller kjÃ¸pe virksomhetsomrÃ¥der
+* **Spesialisering** av ulike forretningsområder
+* **Lettere** å selge eller kjøpe virksomhetsområder
 
 #### Skattemessige Fordeler
 * **Konsernbidrag** for utjevning av resultater
@@ -140,14 +140,14 @@ Norge har **ikke** konsernbeskatning som mange andre land. Hvert selskap beskatt
 ### Ulemper
 
 #### Administrative Ulemper
-* **Ã˜kte** administrative kostnader
-* **Kompleks** regnskapsfÃ¸ring og rapportering
-* **Flere** selskaper Ã¥ administrere
-* **Ã˜kt** behov for profesjonell bistand
+* **Økte** administrative kostnader
+* **Kompleks** regnskapsføring og rapportering
+* **Flere** selskaper å administrere
+* **Økt** behov for profesjonell bistand
 
 #### Juridiske Ulemper
 * **Komplekse** juridiske strukturer
-* **Ã˜kt** regulatorisk overvÃ¥king
+* **Økt** regulatorisk overvåking
 * **Potensielle** interessekonflikter
 
 ![Sammenligning av fordeler og ulemper med konsernstruktur](konsern-fordeler-ulemper.svg)
@@ -165,11 +165,11 @@ Norge har **ikke** konsernbeskatning som mange andre land. Hvert selskap beskatt
 
 ### Internkontroll i Konsern
 
-[Internkontroll](/blogs/regnskap/hva-er-internkontroll "Hva er Internkontroll? Komplett Guide til Internkontrollsystemer") i konsern mÃ¥ omfatte:
+[Internkontroll](/blogs/regnskap/hva-er-internkontroll "Hva er Internkontroll? Komplett Guide til Internkontrollsystemer") i konsern må omfatte:
 
 * **Konsernvide** retningslinjer og prosedyrer
-* **Sentral** Ã¸konomistyring og rapportering
-* **Risikoidentifikasjon** pÃ¥ konsernnivÃ¥
+* **Sentral** økonomistyring og rapportering
+* **Risikoidentifikasjon** på konsernnivå
 * **Koordinert** internrevisjon
 
 ## Praktiske Eksempler
@@ -181,11 +181,11 @@ Norge har **ikke** konsernbeskatning som mange andre land. Hvert selskap beskatt
 * **Morselskap**: Byggefirma AS (hovedvirksomhet: bygg og anlegg)
 * **Datterselskap**: Transport AS (transporttjenester for konsernet)
 * **Fordel**: Risikoseparasjon mellom bygg og transport
-* **Konsernregnskap**: MÃ¥ utarbeides hvis stÃ¸rrelseskriteriene oppfylles
+* **Konsernregnskap**: Må utarbeides hvis størrelseskriteriene oppfylles
 
 ### Eksempel 2: Kompleks Konsernstruktur
 
-**Situasjon**: [Holdingselskap](/blogs/regnskap/hva-er-holdingselskap "Hva er et Holdingselskap? Komplett Guide til Holdingselskaper") med flere forretningsomrÃ¥der
+**Situasjon**: [Holdingselskap](/blogs/regnskap/hva-er-holdingselskap "Hva er et Holdingselskap? Komplett Guide til Holdingselskaper") med flere forretningsområder
 
 * **Morselskap**: Invest Holding AS
 * **Datterselskaper**: 
@@ -194,13 +194,13 @@ Norge har **ikke** konsernbeskatning som mange andre land. Hvert selskap beskatt
   - Handel AS (60% eierskap)
 * **Barnebarn**: Teknologi AS eier 100% av Software AS
 
-![Eksempel pÃ¥ kompleks konsernstruktur](konsern-eksempel-kompleks.svg)
+![Eksempel på kompleks konsernstruktur](konsern-eksempel-kompleks.svg)
 
-## OpplÃ¸sning av Konsern
+## Oppløsning av Konsern
 
-### Ã…rsaker til OpplÃ¸sning
+### Årsaker til Oppløsning
 
-Konsern kan opplÃ¸ses ved:
+Konsern kan oppløses ved:
 
 * **Salg** av datterselskaper
 * [Fusjon](/blogs/regnskap/fusjon "Fusjon: Guide til fusjon i norsk regnskap") mellom konsernselskaper
@@ -209,7 +209,7 @@ Konsern kan opplÃ¸ses ved:
 
 ### Regnskapsmessige Konsekvenser
 
-Ved opplÃ¸sning mÃ¥ det tas hensyn til:
+Ved oppløsning må det tas hensyn til:
 
 * **Gevinst/tap** ved salg av datterselskap
 * **Eliminering** av konserninterne poster
@@ -220,16 +220,16 @@ Ved opplÃ¸sning mÃ¥ det tas hensyn til:
 
 ### Utenlandske Datterselskaper
 
-Norske konsern med **utenlandske datterselskaper** mÃ¥ hÃ¥ndtere:
+Norske konsern med **utenlandske datterselskaper** må håndtere:
 
 * **Valutaomregning** av utenlandske regnskaper
 * **Ulike regnskapsstandarder** (IFRS vs. norske regler)
-* **Skattemessige** utfordringer pÃ¥ tvers av land
+* **Skattemessige** utfordringer på tvers av land
 * **Transfer pricing** regler
 
 ### IFRS for Konsernregnskap
 
-Store konsern mÃ¥ ofte fÃ¸lge **IFRS** (International Financial Reporting Standards) som har egne regler for:
+Store konsern må ofte følge **IFRS** (International Financial Reporting Standards) som har egne regler for:
 
 * **Konsolidering** av datterselskaper
 * **Tilknyttede selskaper** og felleskontrollerte enheter
@@ -249,21 +249,25 @@ Store konsern mÃ¥ ofte fÃ¸lge **IFRS** (International Financial Reporting St
 
 ### Regulatoriske Endringer
 
-* **Ã˜kt fokus** pÃ¥ bÃ¦rekraftsrapportering
+* **Økt fokus** på bærekraftsrapportering
 * **Strengere krav** til transparens
 * **Harmonisering** av internasjonale regler
 * **Digitale** rapporteringsformater
 
 ## Konklusjon
 
-Et **konsern** er en kompleks forretningsstruktur som kan gi betydelige fordeler, men som ogsÃ¥ krever omfattende kunnskap om regnskap, skatt og juridiske forhold. For [foretak](/blogs/regnskap/hva-er-foretak "Hva er et Foretak? Komplett Guide til Foretaksformer i Norge") som vurderer konsernstruktur, er det viktig Ã¥:
+Et **konsern** er en kompleks forretningsstruktur som kan gi betydelige fordeler, men som også krever omfattende kunnskap om regnskap, skatt og juridiske forhold. For [foretak](/blogs/regnskap/hva-er-foretak "Hva er et Foretak? Komplett Guide til Foretaksformer i Norge") som vurderer konsernstruktur, er det viktig å:
 
-* **Vurdere** forretningsmessige behov og mÃ¥l
-* **ForstÃ¥** regnskapsmessige og skattemessige konsekvenser  
+* **Vurdere** forretningsmessige behov og mål
+* **Forstå** regnskapsmessige og skattemessige konsekvenser  
 * **Etablere** gode styrings- og kontrollsystemer
-* **SÃ¸ke** profesjonell rÃ¥dgivning ved etablering
+* **Søke** profesjonell rådgivning ved etablering
 
-Konsernstrukturer vil fortsette Ã¥ vÃ¦re et viktig verktÃ¸y for organisering av nÃ¦ringsvirksomhet, men krever kontinuerlig oppmerksomhet pÃ¥ regulatoriske endringer og beste praksis for konsernledelse.
+Konsernstrukturer vil fortsette å være et viktig verktøy for organisering av næringsvirksomhet, men krever kontinuerlig oppmerksomhet på regulatoriske endringer og beste praksis for konsernledelse.
+
+
+
+
 
 
 

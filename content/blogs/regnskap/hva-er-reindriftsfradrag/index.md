@@ -1,55 +1,55 @@
 ﻿---
 title: "Hva er reindriftsfradrag?"
 meta_title: "Hva er reindriftsfradrag?"
-meta_description: '**Reindriftsfradrag** er et sÃ¦rskilt **skattefradrag** for reindriftsnÃ¦ringen i Norge. Denne artikkelen gir en detaljert gjennomgang av vilkÃ¥r, beregning, do...'
+meta_description: '**Reindriftsfradrag** er et særskilt **skattefradrag** for reindriftsnæringen i Norge. Denne artikkelen gir en detaljert gjennomgang av vilkår, beregning, do...'
 slug: hva-er-reindriftsfradrag
 type: blog
 layout: pages/single
 ---
 
-**Reindriftsfradrag** er et sÃ¦rskilt **skattefradrag** for reindriftsnÃ¦ringen i Norge. Denne artikkelen gir en detaljert gjennomgang av vilkÃ¥r, beregning, dokumentasjonskrav og regnskapsfÃ¸ring av reindriftsfradrag.
+**Reindriftsfradrag** er et særskilt **skattefradrag** for reindriftsnæringen i Norge. Denne artikkelen gir en detaljert gjennomgang av vilkår, beregning, dokumentasjonskrav og regnskapsføring av reindriftsfradrag.
 
 ## Grunnleggende om Reindriftsfradrag
 
-Reindriftsfradrag er regulert i skatteloven Â§â€¯6-11 og skal kompensere for nÃ¦ringens sesongvariasjoner og driftskostnader.
+Reindriftsfradrag er regulert i skatteloven Â§–¯6-11 og skal kompensere for næringens sesongvariasjoner og driftskostnader.
 
 ![Reindriftsfradrag Oversikt](reindriftsfradrag-oversikt.svg)
 
-## VilkÃ¥r for Reindriftsfradrag
+## Vilkår for Reindriftsfradrag
 
-For Ã¥ ha rett til reindriftsfradrag mÃ¥ fÃ¸lgende vilkÃ¥r vÃ¦re oppfylt:
+For å ha rett til reindriftsfradrag må følgende vilkår være oppfylt:
 
 * **Registrert reindriftsbruk** etter reindriftsloven
-* **Dokumentert slakte- eller leverandÃ¸rinntekt** fra rein
+* **Dokumentert slakte- eller leverandørinntekt** fra rein
 * **Godkjent driftsplan** av reindriftsmyndighetene
 
 ## Beregning av Reindriftsfradrag
 
-Beregningsgrunnlaget for reindriftsfradrag tar utgangspunkt i slakteinntekter og dyretall. FÃ¸lgende satser gjelder:
+Beregningsgrunnlaget for reindriftsfradrag tar utgangspunkt i slakteinntekter og dyretall. Følgende satser gjelder:
 
 | Reindriftstype                       | Fradragssats | Maksimalt fradrag |
 |--------------------------------------|--------------|-------------------|
-| **Lav intensitet (<â€¯100 dyr)**       | 30â€¯%         | 150â€¯000â€¯kr        |
-| **Middels intensitet (100“300 dyr)** | 25â€¯%         | 250â€¯000â€¯kr        |
-| **HÃ¸y intensitet (>â€¯300 dyr)**       | 20â€¯%         | Ingen Ã¸vre grense |
+| **Lav intensitet (<–¯100 dyr)**       | 30–¯%         | 150–¯000–¯kr        |
+| **Middels intensitet (100“300 dyr)** | 25–¯%         | 250–¯000–¯kr        |
+| **Høy intensitet (>–¯300 dyr)**       | 20–¯%         | Ingen øvre grense |
 
 ### Praktisk Beregningseksempel
 
 **Eksempel “ Middels intensitet:**  
-- Slakteinntekt: 400â€¯000â€¯kr  
-- Fradrag: 400â€¯000 Ã— 25â€¯% = **100â€¯000â€¯kr**
+- Slakteinntekt: 400–¯000–¯kr  
+- Fradrag: 400–¯000 Ã— 25–¯% = **100–¯000–¯kr**
 
 ## Dokumentasjonskrav
 
-Korrekt dokumentasjon er avgjÃ¸rende for Ã¥ fÃ¥ godkjent reindriftsfradrag:
+Korrekt dokumentasjon er avgjørende for å få godkjent reindriftsfradrag:
 
 * **Slakterabilag** som viser antall rein og inntekter
 * **Driftsplan** godkjent av relevante myndigheter
 * **Regnskapsbilag** for alle driftskostnader
 
-## RegnskapsfÃ¸ring av Reindriftsfradrag
+## Regnskapsføring av Reindriftsfradrag
 
-Reindriftsfradrag fÃ¸res som et eget fradrag i resultatregnskapet, separat fra ordinÃ¦re driftskostnader. Se ogsÃ¥ [Hva er Fradrag?](/blogs/regnskap/hva-er-fradrag "Hva er Fradrag i Regnskap? Komplett Guide til Skattefradrag og RegnskapsfÃ¸ring") for generell behandling av fradrag.
+Reindriftsfradrag føres som et eget fradrag i resultatregnskapet, separat fra ordinære driftskostnader. Se også [Hva er Fradrag?](/blogs/regnskap/hva-er-fradrag "Hva er Fradrag i Regnskap? Komplett Guide til Skattefradrag og Regnskapsføring") for generell behandling av fradrag.
 
 ## Relaterte Artikler
 
@@ -58,7 +58,11 @@ Reindriftsfradrag fÃ¸res som et eget fradrag i resultatregnskapet, separat fra
 
 ## Konklusjon
 
-**Reindriftsfradrag** er et viktig virkemiddel for reindriftsnÃ¦ringen for Ã¥ sikre stabilitet og bÃ¦rekraft. Ved Ã¥ forstÃ¥ regelverket, beregningsmetoder og dokumentasjonskrav kan reineiere optimalisere skatteposisjonen og investere i framtiden.
+**Reindriftsfradrag** er et viktig virkemiddel for reindriftsnæringen for å sikre stabilitet og bærekraft. Ved å forstå regelverket, beregningsmetoder og dokumentasjonskrav kan reineiere optimalisere skatteposisjonen og investere i framtiden.
+
+
+
+
 
 
 

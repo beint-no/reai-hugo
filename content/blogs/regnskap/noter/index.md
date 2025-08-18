@@ -1,13 +1,13 @@
 ﻿---
 title: "Noter"
 meta_title: "Noter"
-meta_description: '**Noter** er en integrert del av Ã¥rsregnskapet som gir **detaljerte forklaringer** og tilleggsinformasjon til tallene i balanse, resultatregnskap og kontantstr...'
+meta_description: '**Noter** er en integrert del av årsregnskapet som gir **detaljerte forklaringer** og tilleggsinformasjon til tallene i balanse, resultatregnskap og kontantstr...'
 slug: noter
 type: blog
 layout: pages/single
 ---
 
-**Noter** er en integrert del av Ã¥rsregnskapet som gir **detaljerte forklaringer** og tilleggsinformasjon til tallene i balanse, resultatregnskap og kontantstrÃ¸moppstilling. Noter er ikke bare et lovpÃ¥lagt krav, men et viktig verktÃ¸y for Ã¥ sikre **transparens**, **sammenlignbarhet** og **forstÃ¥else** i finansiell rapportering.
+**Noter** er en integrert del av årsregnskapet som gir **detaljerte forklaringer** og tilleggsinformasjon til tallene i balanse, resultatregnskap og kontantstrømoppstilling. Noter er ikke bare et lovpålagt krav, men et viktig verktøy for å sikre **transparens**, **sammenlignbarhet** og **forståelse** i finansiell rapportering.
 
 ![Noter](noter-image.svg)
 
@@ -15,17 +15,17 @@ layout: pages/single
 
 Noter i regnskap er tekstlige og numeriske opplysninger som utdyper og supplerer de aggregerte tallene i hovedoppstillingene. De fungerer som en bro mellom **primeroppsett** og **detaljerte analyser**, slik at investorer, kreditorer og andre interessenter kan ta informerte beslutninger.
 
-## LovpÃ¥lagte krav til Noter
+## Lovpålagte krav til Noter
 
-I Norge reguleres noteopplysninger primÃ¦rt av [regnskapsloven Â§â€¯7-1 til Â§â€¯7-45](/blogs/regnskap/hva-er-regnskapsloven "Hva er Regnskapsloven? Oversikt og Veiledning") og bokfÃ¸ringsloven, med krav som varierer etter selskapstype og stÃ¸rrelse:
+I Norge reguleres noteopplysninger primært av [regnskapsloven Â§–¯7-1 til Â§–¯7-45](/blogs/regnskap/hva-er-regnskapsloven "Hva er Regnskapsloven? Oversikt og Veiledning") og bokføringsloven, med krav som varierer etter selskapstype og størrelse:
 
 ### Store foretak
-* **Detaljerte regnskapsprinsipper** “ beskrivelse av mÃ¥le- og vurderingsregler
-* **Estimatusikkerhet** “ omrÃ¥der med betydelig usikkerhet og skjÃ¸nnsmessige vurderinger
+* **Detaljerte regnskapsprinsipper** “ beskrivelse av måle- og vurderingsregler
+* **Estimatusikkerhet** “ områder med betydelig usikkerhet og skjønnsmessige vurderinger
 * **Segmentrapportering** “ informasjon om forretnings- og geografiske segmenter (se [Hva er IFRS?](/blogs/regnskap/hva-er-ifrs "Hva er IFRS? Komplett Guide til International Financial Reporting Standards"))
 * **Risikostyring** “ omfattende beskrivelse av finansiell risiko (kredittrisik o, likviditetsrisiko, markedsrisiko)
 
-### SmÃ¥ foretak
+### Små foretak
 * **Grunnleggende prinsipper** “ kort oversikt over anvendte regnskapsprinsipper
 * **Vesentlige poster** “ forklaring av hovedposter i balanse og resultat
 * **Pantstillelser og garantier** “ oversikt over sikkerhetsstillelser og forpliktelser
@@ -36,8 +36,8 @@ I Norge reguleres noteopplysninger primÃ¦rt av [regnskapsloven Â§â€¯7-1 
 |-----------------------------|---------------------------------------------------------------------------|
 | **Regnskapsprinsipper**         | Beskrivelse av prinsipper, avskrivningsmetoder, valutaomregning          |
 | **Balansepostspesifikasjoner**  | Anskaffelseskost, akkumulerte avskrivninger, aldersfordeling av fordringer |
-| **Resultatspesifikasjoner**     | LÃ¸nnskostnader, inntektsfordeling, finansposter                           |
-| **Ikke-balansefÃ¸rte forpliktelser** | Eventualforpliktelser, leieavtaler, garantier                         |
+| **Resultatspesifikasjoner**     | Lønnskostnader, inntektsfordeling, finansposter                           |
+| **Ikke-balanseførte forpliktelser** | Eventualforpliktelser, leieavtaler, garantier                         |
 | **Risikostyring**               | Kredittrisiko, likviditetsrisiko, sensitivitetsanalyser                   |
 
 ![Noter Kategorier](noter-categories.svg)
@@ -46,7 +46,7 @@ I Norge reguleres noteopplysninger primÃ¦rt av [regnskapsloven Â§â€¯7-1 
 
 God noteutarbeidelse krever systematisk planlegging og struktur:
 
-1. **Identifiser notekrav** basert pÃ¥ selskapets stÃ¸rrelse og gjeldende regelverk
+1. **Identifiser notekrav** basert på selskapets størrelse og gjeldende regelverk
 2. **Kartlegg vesentlige poster** som krever utdypning
 3. **Innhent data** fra relevante avdelinger og kilder
 4. **Nummerer og referer** noter konsistent i hovedoppstillingene ved bruk av [romertall](/blogs/regnskap/romertall "Romertall i Regnskap: Bruk av Romertall i Noter og Kapittelnummerering")
@@ -56,17 +56,17 @@ God noteutarbeidelse krever systematisk planlegging og struktur:
 
 ## Beste praksis for Noter
 
-For Ã¥ sikre at noter er informative og brukervennlige bÃ¸r du:
+For å sikre at noter er informative og brukervennlige bør du:
 
-- **Fokusere pÃ¥ vesentlighet** og unngÃ¥ unÃ¸dvendige detaljer
-- **Bruke klart sprÃ¥k** og konsistent terminologi
+- **Fokusere på vesentlighet** og unngå unødvendige detaljer
+- **Bruke klart språk** og konsistent terminologi
 - **Gi sammenligningsinformasjon** fra tidligere perioder
 - **Sikre konsistens** mellom noter og tall i hovedoppstillingene
-- **Dokumentere vurderinger** og skjÃ¸nnsutÃ¸velser
+- **Dokumentere vurderinger** og skjønnsutøvelser
 
 ## Intern lenking til relaterte artikler
 
-For mer informasjon, se ogsÃ¥:
+For mer informasjon, se også:
 
 - [Hva er forklaring?](/blogs/regnskap/forklaring "Hva er forklaring i regnskap? Komplett Guide til Forklaringer og Fotnoter")
 - [Hva er balanse?](/blogs/regnskap/hva-er-balanse "Hva er Balanse i Regnskap? Komplett Guide til Balansens Oppbygging og Funksjon")
@@ -74,7 +74,11 @@ For mer informasjon, se ogsÃ¥:
 
 ## Konklusjon
 
-**Noter** er mer enn en lovpÃ¥lagt formalitet; de er nÃ¸kkelen til **gjennomsiktighet** og **innsikt** i Ã¥rsregnskapet. Gjennom systematisk planlegging, konsistent struktur og god internkontroll kan noter bli et strategisk verktÃ¸y som styrker tilliten mellom selskapet og dets interessenter.
+**Noter** er mer enn en lovpålagt formalitet; de er nøkkelen til **gjennomsiktighet** og **innsikt** i årsregnskapet. Gjennom systematisk planlegging, konsistent struktur og god internkontroll kan noter bli et strategisk verktøy som styrker tilliten mellom selskapet og dets interessenter.
+
+
+
+
 
 
 

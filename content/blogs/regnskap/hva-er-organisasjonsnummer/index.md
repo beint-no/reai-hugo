@@ -15,13 +15,13 @@ I tillegg til organisasjonsnummer kan logistikk- og lagringssteder identifiseres
 
 ## Hva er et Organisasjonsnummer?
 
-Et organisasjonsnummer er en **ni-sifret kode** som fungerer som en digital identitet for juridiske enheter i Norge. Nummeret tildeles av [**BrÃ¸nnÃ¸ysundregistrene**](/blogs/regnskap/bronnoysundregistrene "Hva er BrÃ¸nnÃ¸ysundregistrene? En Guide til Norges Registerforvalter") og er obligatorisk for alle enheter som registreres i Enhetsregisteret.
+Et organisasjonsnummer er en **ni-sifret kode** som fungerer som en digital identitet for juridiske enheter i Norge. Nummeret tildeles av [**Brønnøysundregistrene**](/blogs/regnskap/bronnoysundregistrene "Hva er Brønnøysundregistrene? En Guide til Norges Registerforvalter") og er obligatorisk for alle enheter som registreres i Enhetsregisteret.
 
 ### Struktur og Oppbygning
 
-Organisasjonsnummeret bestÃ¥r av **ni siffer** organisert som fÃ¸lger:
+Organisasjonsnummeret består av **ni siffer** organisert som følger:
 
-* **De fÃ¸rste Ã¥tte sifrene**: LÃ¸penummer tildelt av registermyndigheten
+* **De første åtte sifrene**: Løpenummer tildelt av registermyndigheten
 * **Det niende sifferet**: Kontrollsiffer beregnet etter Modulus 11-algoritmen
 
 ![Diagram som viser organisasjonsnummerets struktur](organisasjonsnummer-struktur.svg)
@@ -30,14 +30,14 @@ Organisasjonsnummeret bestÃ¥r av **ni siffer** organisert som fÃ¸lger:
 
 Kontrollsifferet beregnes ved hjelp av **Modulus 11-algoritmen**:
 
-1. De Ã¥tte fÃ¸rste sifrene multipliseres med vektfaktorene 3, 2, 7, 6, 5, 4, 3, 2
+1. De åtte første sifrene multipliseres med vektfaktorene 3, 2, 7, 6, 5, 4, 3, 2
 2. Produktene summeres
-3. Summen deles pÃ¥ 11, og resten trekkes fra 11
+3. Summen deles på 11, og resten trekkes fra 11
 4. Resultatet er kontrollsifferet (hvis resultatet er 11, blir kontrollsifferet 0)
 
-## Hvem FÃ¥r Organisasjonsnummer?
+## Hvem Får Organisasjonsnummer?
 
-Alle **juridiske personer** og **enheter** som registreres i Norge fÃ¥r tildelt organisasjonsnummer:
+Alle **juridiske personer** og **enheter** som registreres i Norge får tildelt organisasjonsnummer:
 
 ### Obligatorisk Registrering
 
@@ -52,20 +52,20 @@ Alle **juridiske personer** og **enheter** som registreres i Norge fÃ¥r tildel
 ### Frivillig Registrering
 
 * [Enkeltpersonforetak](/blogs/regnskap/hva-er-enkeltpersonforetak "Hva er et Enkeltpersonforetak? Komplett Guide til Selskapsformen") med omsetning under 50 000 kr
-* SmÃ¥ foreninger uten Ã¸konomisk aktivitet
+* Små foreninger uten økonomisk aktivitet
 * Borettslag og sameier
 
-![Oversikt over hvem som fÃ¥r organisasjonsnummer](organisasjonsnummer-tildeling.svg)
+![Oversikt over hvem som får organisasjonsnummer](organisasjonsnummer-tildeling.svg)
 
-## Organisasjonsnummer i Regnskap og BokfÃ¸ring
+## Organisasjonsnummer i Regnskap og Bokføring
 
 Organisasjonsnummeret er **sentralt** i norsk regnskap og har flere viktige funksjoner:
 
 ### Identifikasjon i Regnskapsrapporter
 
-* **Ã…rsregnskap**: MÃ¥ inneholde organisasjonsnummer
+* **Årsregnskap**: Må inneholde organisasjonsnummer
 * **MVA-meldinger**: Identifiserer avgiftspliktig enhet
-* **A-meldinger**: Kobler lÃ¸nnsopplysninger til riktig arbeidsgiver
+* **A-meldinger**: Kobler lønnsopplysninger til riktig arbeidsgiver
 * **Skattemeldinger**: Sikrer korrekt skattebehandling
 
 ### Elektronisk Rapportering
@@ -73,25 +73,25 @@ Organisasjonsnummeret er **sentralt** i norsk regnskap og har flere viktige funk
 Organisasjonsnummeret brukes i alle **digitale tjenester**:
 
 * [Altinn](/blogs/regnskap/hva-er-altinn "Hva er Altinn? Komplett Guide til Norges Digitale Offentlige Tjenester") - for offentlig rapportering
-* RegnskapsfÃ¸ring og [ERP-systemer](/blogs/regnskap/hva-er-erp-system "Hva er ERP-system? Komplett Guide til Enterprise Resource Planning")
-* Bankforbindelser og betalingslÃ¸sninger
+* Regnskapsføring og [ERP-systemer](/blogs/regnskap/hva-er-erp-system "Hva er ERP-system? Komplett Guide til Enterprise Resource Planning")
+* Bankforbindelser og betalingsløsninger
 * [Elektronisk fakturering](/blogs/regnskap/hva-er-elektronisk-fakturering "Hva er Elektronisk Fakturering? Komplett Guide til E-faktura")
 
 ## Organisasjonsnummer vs. Andre Identifikatorer
 
-| Identifikator | FormÃ¥l | Hvem fÃ¥r det | Antall siffer |
+| Identifikator | Formål | Hvem får det | Antall siffer |
 |---------------|--------|--------------|---------------|
 | **Organisasjonsnummer** | Juridiske enheter | Alle registrerte enheter | 9 |
-| **FÃ¸dselsnummer** | Fysiske personer | Alle personer | 11 |
+| **Fødselsnummer** | Fysiske personer | Alle personer | 11 |
 | **D-nummer** | Utenlandske personer | Ikke-bosatte | 11 |
 | **Underenhetsnummer** | Avdelinger/filialer | Underenheter av hovedenhet | 9 |
 
 ### Underenhetsnummer
 
-**Underenheter** som avdelinger, filialer eller andre organisatoriske enheter fÃ¥r eget ni-sifret nummer:
+**Underenheter** som avdelinger, filialer eller andre organisatoriske enheter får eget ni-sifret nummer:
 
 * Starter alltid med sifrene **8** eller **9**
-* FÃ¸lger samme kontrollsiffer-algoritme
+* Følger samme kontrollsiffer-algoritme
 * Knyttes til hovedenhetens organisasjonsnummer
 * Brukes for geografisk eller organisatorisk skille
 
@@ -103,16 +103,16 @@ Organisasjonsnummeret brukes i alle **digitale tjenester**:
 
 Organisasjonsnummeret brukes daglig i:
 
-* **KontraktsinngÃ¥else**: Identifiserer kontraktspartene
-* **Fakturering**: PÃ¥krevd pÃ¥ alle [fakturaer](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav")
-* **Bankforbindelser**: Ã…pning av bedriftskontoer
+* **Kontraktsinngåelse**: Identifiserer kontraktspartene
+* **Fakturering**: Påkrevd på alle [fakturaer](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav")
+* **Bankforbindelser**: Åpning av bedriftskontoer
 * **Forsikring**: Identifikasjon av forsikringstaker
 * **Offentlige anbud**: Kvalifikasjon og identifikasjon
 
 ### I Regnskapssammenheng
 
-* **BilagsfÃ¸ring**: Identifiserer [leverandÃ¸rer](/blogs/regnskap/hva-er-leverandor "Hva er en LeverandÃ¸r? Komplett Guide til LeverandÃ¸rhÃ¥ndtering") og [kunder](/blogs/regnskap/hva-er-kunde "Hva er en Kunde? Komplett Guide til KundehÃ¥ndtering")
-* **ReskontrofÃ¸ring**: Kobler transaksjoner til riktig part
+* **Bilagsføring**: Identifiserer [leverandører](/blogs/regnskap/hva-er-leverandor "Hva er en Leverandør? Komplett Guide til Leverandørhåndtering") og [kunder](/blogs/regnskap/hva-er-kunde "Hva er en Kunde? Komplett Guide til Kundehåndtering")
+* **Reskontroføring**: Kobler transaksjoner til riktig part
 * **Rapportering**: Sikrer korrekt rapportering til myndigheter
 * **Revisjon**: Verifisering av motparters identitet
 
@@ -120,21 +120,21 @@ Organisasjonsnummeret brukes daglig i:
 
 ### Enhetsregisteret
 
-Se vÃ¥r fulle guide til [Enhetsregisteret](/blogs/regnskap/hva-er-enhetsregisteret "Hva er Enhetsregisteret?") for detaljert informasjon om registerets formÃ¥l, innhold og bruk.
+Se vår fulle guide til [Enhetsregisteret](/blogs/regnskap/hva-er-enhetsregisteret "Hva er Enhetsregisteret?") for detaljert informasjon om registerets formål, innhold og bruk.
 
-Alle organisasjonsnummer kan slÃ¥s opp i **Enhetsregisteret**:
+Alle organisasjonsnummer kan slås opp i **Enhetsregisteret**:
 
-* **Gratis oppslag** pÃ¥ BrÃ¸nnÃ¸ysundregistrenes nettsider
+* **Gratis oppslag** på Brønnøysundregistrenes nettsider
 * **API-tjenester** for automatiserte oppslag
 * **Historiske data** om endringer og status
 * **Kontaktinformasjon** og organisasjonsstruktur
 
 ### Viktige Opplysninger i Registeret
 
-* **Navn** pÃ¥ enheten
+* **Navn** på enheten
 * **Organisasjonsform** og juridisk status
 * **Adresse** og kontaktinformasjon
-* **[NÃ¦ringskoder](/blogs/regnskap/naringsspesifikasjon "Hva er NÃ¦ringsspesifikasjon? Komplett Guide til NÃ¦ringsklassifisering og Rapportering")** (NACE-koder)
+* **[Næringskoder](/blogs/regnskap/naringsspesifikasjon "Hva er Næringsspesifikasjon? Komplett Guide til Næringsklassifisering og Rapportering")** (NACE-koder)
 * **Registreringsdato** og eventuelle endringer
 * **Status** (aktiv, under avvikling, slettet)
 
@@ -142,23 +142,23 @@ Alle organisasjonsnummer kan slÃ¥s opp i **Enhetsregisteret**:
 
 ## Endringer og Oppdateringer
 
-### NÃ¥r Endres Organisasjonsnummer?
+### Når Endres Organisasjonsnummer?
 
 Organisasjonsnummeret er **permanent** og endres normalt ikke. Unntak:
 
 * **Fusjon**: Det overlevende selskapet beholder sitt nummer
-* **Fisjon**: Nye enheter fÃ¥r nye organisasjonsnummer
-* **Omorganisering**: Kan medfÃ¸re nye nummer ved store endringer
-* **Gjenopprettelse**: Slettede enheter kan fÃ¥ nytt nummer ved gjenopprettelse
+* **Fisjon**: Nye enheter får nye organisasjonsnummer
+* **Omorganisering**: Kan medføre nye nummer ved store endringer
+* **Gjenopprettelse**: Slettede enheter kan få nytt nummer ved gjenopprettelse
 
 ### Oppdatering av Opplysninger
 
-Enheter mÃ¥ **melde endringer** til Enhetsregisteret:
+Enheter må **melde endringer** til Enhetsregisteret:
 
-* **Navneendring**: Innen en mÃ¥ned
+* **Navneendring**: Innen en måned
 * **Adresseendring**: Umiddelbart
 * **Organisasjonsform**: Ved selskapsrettslige endringer
-* **NÃ¦ringskoder**: Ved endring av virksomhetsomrÃ¥de
+* **Næringskoder**: Ved endring av virksomhetsområde
 
 ## Internasjonale Forhold
 
@@ -166,17 +166,17 @@ Enheter mÃ¥ **melde endringer** til Enhetsregisteret:
 
 **Utenlandske selskaper** som driver virksomhet i Norge:
 
-* **NUF (Norskregistrert Utenlandsk Foretak)**: FÃ¥r norsk organisasjonsnummer
+* **NUF (Norskregistrert Utenlandsk Foretak)**: Får norsk organisasjonsnummer
 * **Filial**: Registreres med eget organisasjonsnummer
-* **Direkte virksomhet**: Kan fÃ¥ organisasjonsnummer ved registreringsplikt
+* **Direkte virksomhet**: Kan få organisasjonsnummer ved registreringsplikt
 
 ### Internasjonale Standarder
 
-Norge fÃ¸lger **internasjonale standarder** for enhetsidentifikasjon:
+Norge følger **internasjonale standarder** for enhetsidentifikasjon:
 
-* [**LEI (Legal Entity Identifier)**](/blogs/regnskap/lei-nummer "LEI-nummer - Komplett Guide til Legal Entity Identifier for Norske Selskaper"): For finansielle rapporteringsformÃ¥l
-* **EORI-nummer**: For toll- og avgiftsformÃ¥l i EU/EÃ˜S
-* **VAT-nummer**: For merverdiavgiftsformÃ¥l i EU/EÃ˜S
+* [**LEI (Legal Entity Identifier)**](/blogs/regnskap/lei-nummer "LEI-nummer - Komplett Guide til Legal Entity Identifier for Norske Selskaper"): For finansielle rapporteringsformål
+* **EORI-nummer**: For toll- og avgiftsformål i EU/EØS
+* **VAT-nummer**: For merverdiavgiftsformål i EU/EØS
 
 ![Sammenheng mellom norske og internasjonale identifikatorer](internasjonale-identifikatorer.svg)
 
@@ -184,7 +184,7 @@ Norge fÃ¸lger **internasjonale standarder** for enhetsidentifikasjon:
 
 ### Feil Bruk av Organisasjonsnummer
 
-**Misbruk** av organisasjonsnummer kan fÃ¥ alvorlige konsekvenser:
+**Misbruk** av organisasjonsnummer kan få alvorlige konsekvenser:
 
 * **Identitetstyveri**: Straffbart etter straffeloven
 * **Svindel**: Bruk av andres nummer i forretningssammenheng
@@ -198,22 +198,22 @@ Norge fÃ¸lger **internasjonale standarder** for enhetsidentifikasjon:
 * **Korrekt oppgivelse** av eget organisasjonsnummer
 * **Verifisering** av motparters organisasjonsnummer
 * **Oppdatering** av endringer i registeret
-* **Sikker hÃ¥ndtering** av organisasjonsnummer i IT-systemer
+* **Sikker håndtering** av organisasjonsnummer i IT-systemer
 
 ## Tekniske Aspekter
 
 ### Validering av Organisasjonsnummer
 
-**Automatisk validering** kan gjÃ¸res ved:
+**Automatisk validering** kan gjøres ved:
 
-1. **Lengdesjekk**: MÃ¥ vÃ¦re nÃ¸yaktig 9 siffer
+1. **Lengdesjekk**: Må være nøyaktig 9 siffer
 2. **Kontrollsiffer-validering**: Modulus 11-algoritme
 3. **Registeroppslag**: Verifisering mot Enhetsregisteret
 4. **Statussjekk**: Kontroll av aktiv/inaktiv status
 
 ### Integrasjon i IT-systemer
 
-**Regnskapssystemer** bÃ¸r:
+**Regnskapssystemer** bør:
 
 * **Automatisk validere** organisasjonsnummer ved innlegging
 * **Hente opplysninger** fra Enhetsregisteret via API
@@ -237,27 +237,31 @@ Norge fÃ¸lger **internasjonale standarder** for enhetsidentifikasjon:
 
 **EU-initiativ** for bedre samordning:
 
-* **Felles identifikatorer**: Standardisering pÃ¥ tvers av land
+* **Felles identifikatorer**: Standardisering på tvers av land
 * **Automatisk utveksling**: Informasjonsdeling mellom myndigheter
-* **Digitale tjenester**: GrenselÃ¸se digitale tjenester
+* **Digitale tjenester**: Grenseløse digitale tjenester
 
 ## Sammendrag
 
-Organisasjonsnummeret er **fundamentalt** for norsk nÃ¦ringsliv og regnskap. Det sikrer:
+Organisasjonsnummeret er **fundamentalt** for norsk næringsliv og regnskap. Det sikrer:
 
 * **Entydig identifikasjon** av alle juridiske enheter
 * **Effektiv administrasjon** av offentlige registre
-* **Sikker forretningsfÃ¸rsel** mellom parter
+* **Sikker forretningsførsel** mellom parter
 * **Korrekt regnskapsrapportering** til myndigheter
 
-For **regnskapsfÃ¸rere** og **bedriftseiere** er det essensielt Ã¥:
+For **regnskapsførere** og **bedriftseiere** er det essensielt å:
 
-* **ForstÃ¥** organisasjonsnummerets rolle og betydning
+* **Forstå** organisasjonsnummerets rolle og betydning
 * **Bruke** nummeret korrekt i alle sammenhenger
 * **Validere** motparters organisasjonsnummer
 * **Holde** egne opplysninger oppdatert i registeret
 
-Ved Ã¥ fÃ¸lge disse prinsippene sikrer man **korrekt** og **lovlig** bruk av organisasjonsnummeret i all forretningsvirksomhet og regnskapsfÃ¸ring.
+Ved å følge disse prinsippene sikrer man **korrekt** og **lovlig** bruk av organisasjonsnummeret i all forretningsvirksomhet og regnskapsføring.
+
+
+
+
 
 
 

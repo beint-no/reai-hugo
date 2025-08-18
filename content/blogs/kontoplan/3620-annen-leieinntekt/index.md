@@ -1,13 +1,13 @@
 ﻿---
 title: "Konto 3620 - Annen leieinntekt"
 meta_title: "3620-annen-leieinntekt"
-meta_description: '**Konto 3620 - Annen leieinntekt** er en konto i Norsk Standard Kontoplan som benyttes for Ã¥ registrere **annen leieinntekt** fra ulike kilder, for eksempel ko...'
+meta_description: '**Konto 3620 - Annen leieinntekt** er en konto i Norsk Standard Kontoplan som benyttes for å registrere **annen leieinntekt** fra ulike kilder, for eksempel ko...'
 slug: 3620-annen-leieinntekt
 type: blog
 layout: pages/single
 ---
 
-**Konto 3620 - Annen leieinntekt** er en konto i Norsk Standard Kontoplan som benyttes for Ã¥ registrere **annen leieinntekt** fra ulike kilder, for eksempel korttidsleie av utstyr, kjÃ¸retÃ¸y og andre eiendeler.
+**Konto 3620 - Annen leieinntekt** er en konto i Norsk Standard Kontoplan som benyttes for å registrere **annen leieinntekt** fra ulike kilder, for eksempel korttidsleie av utstyr, kjøretøy og andre eiendeler.
 
 ![Illustrasjon av konto 3620 Annen leieinntekt](3620-annen-leieinntekt-image.svg)
 
@@ -19,7 +19,7 @@ Typiske eksempler inkluderer:
 
 * Korttidsutleie av **maskiner og utstyr** (for eksempel byggeplassmaskiner)
 * Utleie av **kontorutstyr** og **teknisk utstyr**
-* Utleie av **kjÃ¸retÃ¸y** (bil, varebil, etc.)
+* Utleie av **kjøretøy** (bil, varebil, etc.)
 * Andre **forbruksrelaterte** utleieavtaler
 
 | Konto | Beskrivelse              | MVA-sats |
@@ -28,9 +28,9 @@ Typiske eksempler inkluderer:
 
 ![Avgiftsfri MVA-sats: 0 %](3620-mva-avgiftsfri.svg)
 
-## RegnskapsfÃ¸ring
+## Regnskapsføring
 
-RegnskapsfÃ¸ring av **annen leieinntekt** skal fÃ¸lge **inntektsfÃ¸ringsprinsippet** med korrekt periodisering. Under ser du eksempler pÃ¥ fÃ¸ring av annen leieinntekt:
+Regnskapsføring av **annen leieinntekt** skal følge **inntektsføringsprinsippet** med korrekt periodisering. Under ser du eksempler på føring av annen leieinntekt:
 
 | Transaksjon                          | Debet                             | Kredit                           |
 |--------------------------------------|-----------------------------------|----------------------------------|
@@ -39,7 +39,7 @@ RegnskapsfÃ¸ring av **annen leieinntekt** skal fÃ¸lge **inntektsfÃ¸ringspr
 
 ## Vurdering og rapportering
 
-Annen leieinntekt rapporteres netto under driftsinntekter i resultatregnskapet. **Korrekt periodisering** er avgjÃ¸rende for Ã¥ sikre et **nÃ¸yaktig** regnskapsbilde.
+Annen leieinntekt rapporteres netto under driftsinntekter i resultatregnskapet. **Korrekt periodisering** er avgjørende for å sikre et **nøyaktig** regnskapsbilde.
 
 ## Intern lenking og relaterte kontoer
 
@@ -49,4 +49,9 @@ Annen leieinntekt rapporteres netto under driftsinntekter i resultatregnskapet. 
 * [Hva er Driftsinntekter?](/blogs/regnskap/hva-er-driftsinntekter "Hva er Driftsinntekter? Komplett Guide til Driftsinntekter i Regnskap")
 * [Hva er Omsetning?](/blogs/regnskap/hva-er-omsetning "Hva er Omsetning? Komplett Guide til Omsetning i Regnskap og Skatt")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+
+
+
+
+
 

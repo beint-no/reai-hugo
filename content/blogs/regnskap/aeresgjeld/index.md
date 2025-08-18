@@ -1,62 +1,66 @@
 ﻿---
-title: "Ã†resgjeld â€“ ForstÃ¥else av Ã¦resbasert forpliktelse i norsk regnskap"
-meta_title: "Ã†resgjeld “ ForstÃ¥else av Ã¦resbasert forpliktelse i norsk regnskap"
-meta_description: '**Ã†resgjeld** er en forpliktelse basert pÃ¥ tillit og Ã¦re uten skriftlig kontrakt. Dette konseptet har betydning i norsk regnskap nÃ¥r muntlige avtaler gir gj...'
+title: "Æresgjeld – Forståelse av æresbasert forpliktelse i norsk regnskap"
+meta_title: "Æresgjeld “ Forståelse av æresbasert forpliktelse i norsk regnskap"
+meta_description: '**Æresgjeld** er en forpliktelse basert på tillit og ære uten skriftlig kontrakt. Dette konseptet har betydning i norsk regnskap når muntlige avtaler gir gj...'
 slug: aeresgjeld
 type: blog
 layout: pages/single
 ---
 
-**Ã†resgjeld** er en forpliktelse basert pÃ¥ tillit og Ã¦re uten skriftlig kontrakt. Dette konseptet har betydning i norsk regnskap nÃ¥r muntlige avtaler gir gjeldsforpliktelser som mÃ¥ hÃ¥ndteres korrekt.
+**Æresgjeld** er en forpliktelse basert på tillit og ære uten skriftlig kontrakt. Dette konseptet har betydning i norsk regnskap når muntlige avtaler gir gjeldsforpliktelser som må håndteres korrekt.
 
-![Ã†resgjeld illustrasjon](aeresgjeld-image.svg)
+![Æresgjeld illustrasjon](aeresgjeld-image.svg)
 
-## Definisjon av Ã†resgjeld
+## Definisjon av Æresgjeld
 
-Ã†resgjeld oppstÃ¥r nÃ¥r to parter inngÃ¥r en muntlig avtale om lÃ¥n eller annen forpliktelse uten formell dokumentasjon. Avtalen hviler pÃ¥ tillit og partnerens Ã¦re om tilbakebetaling.
+Æresgjeld oppstår når to parter inngår en muntlig avtale om lån eller annen forpliktelse uten formell dokumentasjon. Avtalen hviler på tillit og partnerens ære om tilbakebetaling.
 
-## Kjennetegn ved Ã†resgjeld
+## Kjennetegn ved Æresgjeld
 
-* **Muntlig avtale:** Basert pÃ¥ enighet uten skriftlig kontrakt
-* **Tillit:** Krever hÃ¸y grad av tillit mellom partene
-* **Usikker forfallstid:** Tilbakebetalingstidspunktet kan vÃ¦re fleksibelt eller udefinert
+* **Muntlig avtale:** Basert på enighet uten skriftlig kontrakt
+* **Tillit:** Krever høy grad av tillit mellom partene
+* **Usikker forfallstid:** Tilbakebetalingstidspunktet kan være fleksibelt eller udefinert
 * **Ingen sikkerhet:** Vanligvis ingen pant eller garantier
 
-## RegnskapsfÃ¸ring av Ã†resgjeld
+## Regnskapsføring av Æresgjeld
 
-RegnskapsfÃ¸ring av Ã¦resgjeld krever at virksomheten vurderer prinsippene for pÃ¥litelig mÃ¥ling og dokumentasjon:
+Regnskapsføring av æresgjeld krever at virksomheten vurderer prinsippene for pålitelig måling og dokumentasjon:
 
-* **Vurder erstattes:** FÃ¸r formell gjeldsbekreftelse mÃ¥ belÃ¸pet vurderes og dokumenteres internt
-* **Klassifisering:** Legges til Â«Annen kortsiktig gjeldÂ» nÃ¥r forpliktelsen er bekreftet
-* **Noteopplysninger:** Forklar formÃ¥l, belÃ¸p og tilbakebetalingsvilkÃ¥r i noter til [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse i Regnskap? Komplett Guide til Balansens Oppbygging og Funksjon")
+* **Vurder erstattes:** Før formell gjeldsbekreftelse må beløpet vurderes og dokumenteres internt
+* **Klassifisering:** Legges til Â«Annen kortsiktig gjeldÂ» når forpliktelsen er bekreftet
+* **Noteopplysninger:** Forklar formål, beløp og tilbakebetalingsvilkår i noter til [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse i Regnskap? Komplett Guide til Balansens Oppbygging og Funksjon")
 
 ## Risiko og vurderinger
 
-Ved bruk av Ã¦resgjeld mÃ¥ virksomheten vÃ¦re oppmerksom pÃ¥:
+Ved bruk av æresgjeld må virksomheten være oppmerksom på:
 
-* **Kreditt- og reputasjonsrisiko:** Mangel pÃ¥ skriftlig dokumentasjon kan komplisere krav ved mislighold
-* **Likviditetsplanlegging:** Usikre forfall kan pÃ¥virke kontantstrÃ¸m og planlegging
-* **Intern kontroll:** Behov for godt internkontrollregime for Ã¥ sikre sporbarhet og etterlevelse
+* **Kreditt- og reputasjonsrisiko:** Mangel på skriftlig dokumentasjon kan komplisere krav ved mislighold
+* **Likviditetsplanlegging:** Usikre forfall kan påvirke kontantstrøm og planlegging
+* **Intern kontroll:** Behov for godt internkontrollregime for å sikre sporbarhet og etterlevelse
 
 ## Forskjeller fra Formell Gjeld
 
-| Egenskap           | Ã†resgjeld                    | Formell Gjeld                       |
+| Egenskap           | Æresgjeld                    | Formell Gjeld                       |
 |--------------------|------------------------------|-------------------------------------|
 | Grunnlag           | Muntlig avtale og tillit     | Skriftlig kontrakt og dokumentasjon |
-| Sikkerhet          | Ingen                        | Pant, garanti eller avtalevilkÃ¥r    |
+| Sikkerhet          | Ingen                        | Pant, garanti eller avtalevilkår    |
 | Forfallsdato       | Udefinert eller fleksibel    | Fastsatt i avtale                   |
-| Registrering       | Ikke regnskapsfÃ¸rt fÃ¸r forfall | Registreres ved opptak             |
+| Registrering       | Ikke regnskapsført før forfall | Registreres ved opptak             |
 
 ## Relaterte artikler
 
 | Relatert artikkel | Beskrivelse |
 |-------------------|-------------|
 | [Hva er Gjeld?](/blogs/regnskap/hva-er-gjeld "Hva er Gjeld i Regnskap? Komplett Guide til Forpliktelser og Gjeldstyper") | Om generelle prinsipper for gjeld |
-| [Hva er Kortsiktig Gjeld?](/blogs/regnskap/kortsiktig-gjeld "Hva er Kortsiktig Gjeld? Komplett Guide til Kortsiktige Forpliktelser") | NÃ¥r gjelden forfaller innen ett Ã¥r |
+| [Hva er Kortsiktig Gjeld?](/blogs/regnskap/kortsiktig-gjeld "Hva er Kortsiktig Gjeld? Komplett Guide til Kortsiktige Forpliktelser") | Når gjelden forfaller innen ett år |
 
 ## Oppsummering
 
-Ã†resgjeld er en spesiell form for gjeld som stammer fra muntlige avtaler og Ã¦resbaserte forpliktelser. Selv om det mangler formell dokumentasjon, krever god regnskapsskikk at slike forpliktelser vurderes, dokumenteres internt og presenteres i balansen og noter med tydelig forklaring.
+Æresgjeld er en spesiell form for gjeld som stammer fra muntlige avtaler og æresbaserte forpliktelser. Selv om det mangler formell dokumentasjon, krever god regnskapsskikk at slike forpliktelser vurderes, dokumenteres internt og presenteres i balansen og noter med tydelig forklaring.
+
+
+
+
 
 
 

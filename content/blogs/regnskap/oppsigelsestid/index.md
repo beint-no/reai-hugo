@@ -9,44 +9,44 @@ layout: pages/single
 
 ![Oppsigelsestid](oppsigelsestid-image.svg)
 
-**Oppsigelsestid**, ogsÃ¥ omtalt som **oppsigelsesfrist**, er perioden som mÃ¥ gÃ¥ fra en formell oppsigelse er levert til arbeidsforholdet avsluttes. Dette er en sentral bestemmelse i norsk arbeidsrett som sikrer forutsigbarhet for bÃ¥de arbeidstaker og arbeidsgiver.
+**Oppsigelsestid**, også omtalt som **oppsigelsesfrist**, er perioden som må gå fra en formell oppsigelse er levert til arbeidsforholdet avsluttes. Dette er en sentral bestemmelse i norsk arbeidsrett som sikrer forutsigbarhet for både arbeidstaker og arbeidsgiver.
 
 ## Definisjon og lovgrunnlag
 
-I henhold til ArbeidsmiljÃ¸loven Â§15-3 har bÃ¥de arbeidstaker og arbeidsgiver krav pÃ¥ en **minimumsoppsigelsestid**. Oppsigelsestiden avhenger av ansiennitet, type arbeidsavtale og eventuelle tariffavtaler.
+I henhold til Arbeidsmiljøloven Â§15-3 har både arbeidstaker og arbeidsgiver krav på en **minimumsoppsigelsestid**. Oppsigelsestiden avhenger av ansiennitet, type arbeidsavtale og eventuelle tariffavtaler.
 
 | Part           | Minimum oppsigelsestid                   |
 |----------------|------------------------------------------|
-| Arbeidstaker   | 1 mÃ¥ned fra fÃ¸rste dag i mÃ¥neden         |
-| Arbeidsgiver   | 1 mÃ¥ned (ansiennitet < 5 Ã¥r)<br>2 mÃ¥neder (5“10 Ã¥r)<br>3 mÃ¥neder (10“15 Ã¥r)<br>4 mÃ¥neder (>15 Ã¥r) |
+| Arbeidstaker   | 1 måned fra første dag i måneden         |
+| Arbeidsgiver   | 1 måned (ansiennitet < 5 år)<br>2 måneder (5“10 år)<br>3 måneder (10“15 år)<br>4 måneder (>15 år) |
 
-Se ogsÃ¥ [Ansiennitet](/blogs/regnskap/ansiennitet "Ansiennitet") for detaljer om ansiennitetsbaserte oppsigelsestider.
+Se også [Ansiennitet](/blogs/regnskap/ansiennitet "Ansiennitet") for detaljer om ansiennitetsbaserte oppsigelsestider.
 
 ## Typer oppsigelsestid
 
 - **Standard oppsigelsestid**: Regulert direkte i loven.
-- **Tariffavtalt oppsigelsestid**: Kan vÃ¦re lengre enn lovens minimum.
-- **Avtalt oppsigelsestid i arbeidskontrakt**: BÃ¸r aldri vÃ¦re kortere enn lovens minimum. Se [Arbeidskontrakten](/blogs/regnskap/arbeidskontrakten "Arbeidskontrakten").
+- **Tariffavtalt oppsigelsestid**: Kan være lengre enn lovens minimum.
+- **Avtalt oppsigelsestid i arbeidskontrakt**: Bør aldri være kortere enn lovens minimum. Se [Arbeidskontrakten](/blogs/regnskap/arbeidskontrakten "Arbeidskontrakten").
 
 ## Beregning av oppsigelsestid
 
-Oppsigelsestiden regnes normalt fra siste dag i mÃ¥neden oppsigelsen er levert. For eksempel:
+Oppsigelsestiden regnes normalt fra siste dag i måneden oppsigelsen er levert. For eksempel:
 
-*Dersom en arbeidstaker med 7 Ã¥rs ansiennitet leverer oppsigelse 10. mai, gjelder oppsigelsestiden pÃ¥ 2 mÃ¥neder fra 31. mai, og arbeidsforholdet avsluttes 31. juli.*
+*Dersom en arbeidstaker med 7 års ansiennitet leverer oppsigelse 10. mai, gjelder oppsigelsestiden på 2 måneder fra 31. mai, og arbeidsforholdet avsluttes 31. juli.*
 
 ## Regnskapsmessige implikasjoner
 
-Ved oppsigelse kan det oppstÃ¥ forpliktelser som pÃ¥virker regnskapet:
+Ved oppsigelse kan det oppstå forpliktelser som påvirker regnskapet:
 
-- **LÃ¸nn for oppsigelsestiden** mÃ¥ periodiseres og bokfÃ¸res som en kostnad i oppsigelsestiden.
+- **Lønn for oppsigelsestiden** må periodiseres og bokføres som en kostnad i oppsigelsestiden.
 - **Avsetning for feriepenger** skal inkludere feriepenger opptjent i oppsigelsestiden.
-- **Dokumentasjonskrav**: Oppsigelsesbrev og beregninger utgjÃ¸r regnskapsbilag i henhold til [BokfÃ¸ringsforskriften](/blogs/regnskap/hva-er-bokforingsforskriften "Hva er BokfÃ¸ringsforskriften?").
+- **Dokumentasjonskrav**: Oppsigelsesbrev og beregninger utgjør regnskapsbilag i henhold til [Bokføringsforskriften](/blogs/regnskap/hva-er-bokforingsforskriften "Hva er Bokføringsforskriften?").
 
 ## Beste praksis
 
 - Informer skriftlig tidlig i prosessen og bekreft dato for siste arbeidsdag.
-- SÃ¸rg for at oppsigelsestid og betingelser er tydelig beskrevet i [arbeidskontrakten](/blogs/regnskap/arbeidskontrakten "Arbeidskontrakten").
-- Koordiner med lÃ¸nns- og HR-systemer for korrekt avregning.
+- Sørg for at oppsigelsestid og betingelser er tydelig beskrevet i [arbeidskontrakten](/blogs/regnskap/arbeidskontrakten "Arbeidskontrakten").
+- Koordiner med lønns- og HR-systemer for korrekt avregning.
 
 ---
 
@@ -54,7 +54,11 @@ Ved oppsigelse kan det oppstÃ¥ forpliktelser som pÃ¥virker regnskapet:
 
 - [Ansiennitet](/blogs/regnskap/ansiennitet "Ansiennitet") “ Ansiennitetsbaserte oppsigelsestider.
 - [Arbeidskontrakten](/blogs/regnskap/arbeidskontrakten "Arbeidskontrakten") “ Oppsigelsestider som del av kontraktskrav.
-- [Arbeidsforholdstype](/blogs/regnskap/hva-er-arbeidsforholdstype "Arbeidsforholdstype") “ Hvordan ulike ansettelsesformer pÃ¥virker oppsigelsesrett.
+- [Arbeidsforholdstype](/blogs/regnskap/hva-er-arbeidsforholdstype "Arbeidsforholdstype") “ Hvordan ulike ansettelsesformer påvirker oppsigelsesrett.
+
+
+
+
 
 
 

@@ -1,43 +1,43 @@
 ﻿---
 title: "Hva er grunnrenteskatt?"
 meta_title: "Hva er grunnrenteskatt?"
-meta_description: '**Grunnrenteskatt** er en sÃ¦rskatt som pÃ¥legges virksomheter som utvinne eller utnytter naturressurser i Norge. Denne skatten er designet for Ã¥ sikre at samf...'
+meta_description: '**Grunnrenteskatt** er en særskatt som pålegges virksomheter som utvinne eller utnytter naturressurser i Norge. Denne skatten er designet for å sikre at samf...'
 slug: hva-er-grunnrenteskatt
 type: blog
 layout: pages/single
 ---
 
-**Grunnrenteskatt** er en sÃ¦rskatt som pÃ¥legges virksomheter som utvinne eller utnytter naturressurser i Norge. Denne skatten er designet for Ã¥ sikre at samfunnet fÃ¥r en rimelig andel av den ekstraordinÃ¦re avkastningen (grunnrenten) som oppstÃ¥r fra utnyttelsen av landets naturressurser. Grunnrenteskatt er et komplekst skatteomrÃ¥de som krever grundig forstÃ¥else av bÃ¥de skattelovgivning og [regnskapsfÃ¸ring](/blogs/regnskap/hva-er-bokforing "Hva er BokfÃ¸ring? En Komplett Guide til Norsk BokfÃ¸ringspraksis").
+**Grunnrenteskatt** er en særskatt som pålegges virksomheter som utvinne eller utnytter naturressurser i Norge. Denne skatten er designet for å sikre at samfunnet får en rimelig andel av den ekstraordinære avkastningen (grunnrenten) som oppstår fra utnyttelsen av landets naturressurser. Grunnrenteskatt er et komplekst skatteområde som krever grundig forståelse av både skattelovgivning og [regnskapsføring](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? En Komplett Guide til Norsk Bokføringspraksis").
 
 ## Seksjon 1: Konseptet Grunnrente og Grunnrenteskatt
 
 ### 1.1 Hva er Grunnrente?
 
-**Grunnrente** er den ekstraordinÃ¦re avkastningen som oppstÃ¥r nÃ¥r naturressurser utnyttes kommersielt. Dette er avkastning utover det som er nÃ¸dvendig for Ã¥ kompensere for normal risiko og kapitalavkastning. Grunnrenten oppstÃ¥r fordi naturressurser er begrenset og ofte har ulike kvaliteter og tilgjengelighet.
+**Grunnrente** er den ekstraordinære avkastningen som oppstår når naturressurser utnyttes kommersielt. Dette er avkastning utover det som er nødvendig for å kompensere for normal risiko og kapitalavkastning. Grunnrenten oppstår fordi naturressurser er begrenset og ofte har ulike kvaliteter og tilgjengelighet.
 
 ![Grunnrente Konsept](grunnrente-konsept.svg)
 
-Grunnrenten kan oppstÃ¥ fra:
+Grunnrenten kan oppstå fra:
 
 * **Lokasjonelle fordeler:** Ressurser som er lettere tilgjengelige eller har lavere utvinningskostnader
-* **Kvalitetsforskjeller:** Ressurser av hÃ¸yere kvalitet som gir bedre pris eller lavere behandlingskostnader  
-* **Markedsforhold:** HÃ¸ye priser pÃ¥ rÃ¥varer som gir ekstraordinÃ¦r lÃ¸nnsomhet
+* **Kvalitetsforskjeller:** Ressurser av høyere kvalitet som gir bedre pris eller lavere behandlingskostnader  
+* **Markedsforhold:** Høye priser på råvarer som gir ekstraordinær lønnsomhet
 * **Teknologiske fordeler:** Effektive utvinnings- eller produksjonsmetoder
 
-### 1.2 FormÃ¥let med Grunnrenteskatt
+### 1.2 Formålet med Grunnrenteskatt
 
-Grunnrenteskatt har flere viktige formÃ¥l:
+Grunnrenteskatt har flere viktige formål:
 
-1. **Ressursfordeling:** Sikre at samfunnet fÃ¥r en rimelig andel av verdiskapingen fra fellesskapets naturressurser
+1. **Ressursfordeling:** Sikre at samfunnet får en rimelig andel av verdiskapingen fra fellesskapets naturressurser
 2. **Effektivitet:** Opprettholde incentiver for effektiv ressursutnyttelse
 3. **Stabilitet:** Skape forutsigbare inntekter for staten fra naturressurssektorer
-4. **Rettferdighet:** Sikre at ekstraordinÃ¦r avkastning fra naturressurser kommer samfunnet til gode
+4. **Rettferdighet:** Sikre at ekstraordinær avkastning fra naturressurser kommer samfunnet til gode
 
 ## Seksjon 2: Grunnrenteskatt i Kraftsektoren
 
 ### 2.1 Kraftsektorens Grunnrenteskatt - Oversikt
 
-Grunnrenteskatt for kraftproduksjon ble innfÃ¸rt i Norge i 2022 og pÃ¥legges vannkraftprodusenter. Skatten er utformet for Ã¥ fange opp grunnrenten i kraftsektoren, som har oppstÃ¥tt som fÃ¸lge av hÃ¸ye kraftpriser og gunstige naturforhold.
+Grunnrenteskatt for kraftproduksjon ble innført i Norge i 2022 og pålegges vannkraftprodusenter. Skatten er utformet for å fange opp grunnrenten i kraftsektoren, som har oppstått som følge av høye kraftpriser og gunstige naturforhold.
 
 ![Kraftsektorens Grunnrenteskatt](kraftsektorens-grunnrenteskatt.svg)
 
@@ -46,25 +46,25 @@ Grunnrenteskatt for kraftproduksjon ble innfÃ¸rt i Norge i 2022 og pÃ¥legges
 Grunnrenteskatt for kraftproduksjon gjelder for:
 
 * **Vannkraftanlegg** med installert effekt over 10 MW
-* **Vindkraftanlegg** pÃ¥ land med installert effekt over 10 MW  
+* **Vindkraftanlegg** på land med installert effekt over 10 MW  
 * **Kraftprodusenter** som eier eller driver slike anlegg
 
-FÃ¸lgende er **unntatt** fra grunnrenteskatt:
+Følgende er **unntatt** fra grunnrenteskatt:
 
-* SmÃ¥kraftverk under 10 MW installert effekt
+* Småkraftverk under 10 MW installert effekt
 * Vindkraft til havs (omfattes av petroleumsskatteregimet)
 * Kraftproduksjon til eget bruk under visse betingelser
 
 ### 2.3 Beregning av Kraftsektorens Grunnrenteskatt
 
-Grunnrenteskatt for kraftproduksjon beregnes som fÃ¸lger:
+Grunnrenteskatt for kraftproduksjon beregnes som følger:
 
 **Grunnlag for grunnrenteskatt = Kraftinntekter - Fradragsberettigede kostnader - Friinntekt**
 
 | Komponent | Beskrivelse | Satser/Regler |
 |-----------|-------------|---------------|
 | **Skattesats** | Grunnrenteskatt | 45% |
-| **Friinntekt** | Avkastning pÃ¥ investert kapital | 7% av skattemessig verdi |
+| **Friinntekt** | Avkastning på investert kapital | 7% av skattemessig verdi |
 | **Kraftinntekter** | Salg av kraft og relaterte tjenester | Markedspris Ã— produsert mengde |
 | **Fradrag** | Drifts- og vedlikeholdskostnader | Faktiske kostnader |
 
@@ -72,17 +72,17 @@ Grunnrenteskatt for kraftproduksjon beregnes som fÃ¸lger:
 
 ### 2.4 Friinntekt i Kraftsektoren
 
-**Friinntekten** er et sentralt element som sikrer at normal avkastning pÃ¥ investert kapital ikke beskattes. Friinntekten beregnes som:
+**Friinntekten** er et sentralt element som sikrer at normal avkastning på investert kapital ikke beskattes. Friinntekten beregnes som:
 
 * **7% av skattemessig verdi** av kraftanlegget
-* Justeres Ã¥rlig basert pÃ¥ [avskrivninger](/blogs/regnskap/hva-er-avskrivning "Hva er Avskrivning? Komplett Guide til Avskrivningsmetoder") og investeringer
-* Kan fremfÃ¸res dersom den ikke kan utnyttes fullt ut i inntektsÃ¥ret
+* Justeres årlig basert på [avskrivninger](/blogs/regnskap/hva-er-avskrivning "Hva er Avskrivning? Komplett Guide til Avskrivningsmetoder") og investeringer
+* Kan fremføres dersom den ikke kan utnyttes fullt ut i inntektsåret
 
-## Seksjon 3: Petroleumsskatt (SÃ¦rskatt)
+## Seksjon 3: Petroleumsskatt (Særskatt)
 
-### 3.1 Petroleumssektorens SÃ¦rskatt - Oversikt
+### 3.1 Petroleumssektorens Særskatt - Oversikt
 
-Petroleumssektoren i Norge er underlagt et sÃ¦rskilt skatteregime som inkluderer bÃ¥de ordinÃ¦r selskapsskatt (22%) og **sÃ¦rskatt** (56%), som til sammen utgjÃ¸r en marginalskattesats pÃ¥ 78%. SÃ¦rskatten fungerer som en form for grunnrenteskatt for petroleumsvirksomhet.
+Petroleumssektoren i Norge er underlagt et særskilt skatteregime som inkluderer både ordinær selskapsskatt (22%) og **særskatt** (56%), som til sammen utgjør en marginalskattesats på 78%. Særskatten fungerer som en form for grunnrenteskatt for petroleumsvirksomhet.
 
 ![Petroleumsskatt Oversikt](petroleumsskatt-oversikt.svg)
 
@@ -90,49 +90,49 @@ Petroleumssektoren i Norge er underlagt et sÃ¦rskilt skatteregime som inkluder
 
 Petroleumsskatt gjelder for:
 
-* **Utvinning av petroleum** pÃ¥ norsk kontinentalsokkel
-* **RÃ¸rledningstransport** av petroleum
+* **Utvinning av petroleum** på norsk kontinentalsokkel
+* **Rørledningstransport** av petroleum
 * **Landanlegg** som er en integrert del av petroleumsvirksomheten
-* **Kraftproduksjon** til havs for petroleumsformÃ¥l
+* **Kraftproduksjon** til havs for petroleumsformål
 
 ### 3.3 Beregning av Petroleumsskatt
 
-Petroleumsskattesystemet har flere sÃ¦rtrekk:
+Petroleumsskattesystemet har flere særtrekk:
 
-| Element | OrdinÃ¦r Skatt | SÃ¦rskatt | Total |
+| Element | Ordinær Skatt | Særskatt | Total |
 |---------|---------------|----------|-------|
 | **Skattesats** | 22% | 56% | 78% |
-| **Avskrivninger** | LineÃ¦r over levetid | Ã˜yeblikkelig | - |
+| **Avskrivninger** | Lineær over levetid | Øyeblikkelig | - |
 | **Friinntekt** | Nei | Ja (5,2%) | - |
-| **FremfÃ¸ring av underskudd** | Ubegrenset | Med rente | - |
+| **Fremføring av underskudd** | Ubegrenset | Med rente | - |
 
 ![Petroleumsskatt Beregning](petroleumsskatt-beregning.svg)
 
-### 3.4 SÃ¦rtrekk ved Petroleumsskatt
+### 3.4 Særtrekk ved Petroleumsskatt
 
-#### 3.4.1 Ã˜yeblikkelig Avskrivning
+#### 3.4.1 Øyeblikkelig Avskrivning
 
-I petroleumssektoren kan **alle investeringer** avskrives Ã¸yeblikkelig for sÃ¦rskatteformÃ¥l. Dette gir betydelige kontantstrÃ¸mfordeler og reduserer investeringsrisikoen.
+I petroleumssektoren kan **alle investeringer** avskrives øyeblikkelig for særskatteformål. Dette gir betydelige kontantstrømfordeler og reduserer investeringsrisikoen.
 
-#### 3.4.2 Friinntekt for SÃ¦rskatt
+#### 3.4.2 Friinntekt for Særskatt
 
-Petroleumsselskaper fÃ¥r en **friinntekt pÃ¥ 5,2%** av investeringer som ikke er avskrevet for sÃ¦rskatteformÃ¥l. Denne friinntekten kan fremfÃ¸res med rente dersom den ikke kan utnyttes.
+Petroleumsselskaper får en **friinntekt på 5,2%** av investeringer som ikke er avskrevet for særskatteformål. Denne friinntekten kan fremføres med rente dersom den ikke kan utnyttes.
 
-#### 3.4.3 FremfÃ¸ring med Rente
+#### 3.4.3 Fremføring med Rente
 
-Underskudd i petroleumsvirksomhet kan fremfÃ¸res med **rente** (statsobligasjonsrenten + 1 prosentpoeng), noe som er unikt i norsk skatterett.
+Underskudd i petroleumsvirksomhet kan fremføres med **rente** (statsobligasjonsrenten + 1 prosentpoeng), noe som er unikt i norsk skatterett.
 
-## Seksjon 4: RegnskapsfÃ¸ring av Grunnrenteskatt
+## Seksjon 4: Regnskapsføring av Grunnrenteskatt
 
 ### 4.1 Regnskapsmessig Behandling
 
-Grunnrenteskatt behandles regnskapsmessig som en **skattekostnad** og fÃ¸lger de samme prinsippene som ordinÃ¦r selskapsskatt for [aksjeselskaper](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap (AS)? Komplett Guide til Selskapsformen"). Dette innebÃ¦rer:
+Grunnrenteskatt behandles regnskapsmessig som en **skattekostnad** og følger de samme prinsippene som ordinær selskapsskatt for [aksjeselskaper](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap (AS)? Komplett Guide til Selskapsformen"). Dette innebærer:
 
-* **Periodisering:** Skatten kostnadsfÃ¸res i det Ã¥ret den pÃ¥lÃ¸per
+* **Periodisering:** Skatten kostnadsføres i det året den påløper
 * **Utsatt skatt:** Forskjeller mellom regnskapsmessige og skattemessige verdier gir opphav til utsatt skatt
-* **Usikkerhet:** Usikre skatteposisjoner mÃ¥ vurderes og eventuelt avsettes for
+* **Usikkerhet:** Usikre skatteposisjoner må vurderes og eventuelt avsettes for
 
-### 4.2 Praktisk RegnskapsfÃ¸ring
+### 4.2 Praktisk Regnskapsføring
 
 Typiske regnskapsposter for grunnrenteskatt:
 
@@ -146,7 +146,7 @@ Kredit: Utsatt skattekostnad - Grunnrenteskatt
 
 ### 4.3 Rapportering og Noteopplysninger
 
-Selskaper som betaler grunnrenteskatt mÃ¥ gi omfattende noteopplysninger om:
+Selskaper som betaler grunnrenteskatt må gi omfattende noteopplysninger om:
 
 * **Skatteberegning:** Hvordan grunnrenteskatt er beregnet
 * **Vesentlige estimater:** Usikkerhet knyttet til skatteberegninger  
@@ -157,13 +157,13 @@ Selskaper som betaler grunnrenteskatt mÃ¥ gi omfattende noteopplysninger om:
 
 ### 5.1 Skattemeldinger og Frister
 
-Selskaper som omfattes av grunnrenteskatt har sÃ¦rskilte rapporteringsforpliktelser:
+Selskaper som omfattes av grunnrenteskatt har særskilte rapporteringsforpliktelser:
 
-| Skattetype | Skattemelding | Frist | SÃ¦rlige Krav |
+| Skattetype | Skattemelding | Frist | Særlige Krav |
 |------------|---------------|-------|--------------|
 | **Kraftsektorens grunnrenteskatt** | RF-1088 | 31. mai | Produksjonsdata, kraftpriser |
 | **Petroleumsskatt** | RF-1175 | 31. mai | Detaljerte kostnadsfordelinger |
-| **Forskuddsskatt** | MÃ¥nedlig/kvartalsvis | 15. i mÃ¥neden | Estimerte betalinger |
+| **Forskuddsskatt** | Månedlig/kvartalsvis | 15. i måneden | Estimerte betalinger |
 
 ![Rapporteringsfrister Grunnrenteskatt](rapporteringsfrister-grunnrenteskatt.svg)
 
@@ -171,7 +171,7 @@ Selskaper som omfattes av grunnrenteskatt har sÃ¦rskilte rapporteringsforplikt
 
 Grunnrenteskatt krever omfattende dokumentasjon:
 
-* **Produksjonsdata:** NÃ¸yaktige mÃ¥linger av produksjon og salg
+* **Produksjonsdata:** Nøyaktige målinger av produksjon og salg
 * **Kostnadsfordeling:** Detaljert fordeling av kostnader mellom skattepliktige og ikke-skattepliktige aktiviteter
 * **Investeringsregister:** Komplett oversikt over investeringer og avskrivninger
 * **Prisdata:** Dokumentasjon av salgspriser og markedsreferanser
@@ -183,16 +183,16 @@ Effektiv internkontroll for grunnrenteskatt inkluderer:
 1. **Systemer og prosesser:** Robuste systemer for datainnsamling og beregning
 2. **Kompetanse:** Tilstrekkelig skattefaglig kompetanse internt eller eksternt
 3. **Kvalitetssikring:** Regelmessig gjennomgang og validering av skatteberegninger
-4. **Oppdatering:** Kontinuerlig oppfÃ¸lging av regelverksendringer
+4. **Oppdatering:** Kontinuerlig oppfølging av regelverksendringer
 
 ## Seksjon 6: Praktiske Eksempler og Beregninger
 
 ### 6.1 Eksempel: Kraftsektorens Grunnrenteskatt
 
-**Eksempel:** Et vannkraftverk med fÃ¸lgende data for 2024:
+**Eksempel:** Et vannkraftverk med følgende data for 2024:
 
 * Kraftproduksjon: 100 GWh
-* Gjennomsnittlig kraftpris: 80 Ã¸re/kWh  
+* Gjennomsnittlig kraftpris: 80 øre/kWh  
 * Driftskostnader: 15 millioner kroner
 * Skattemessig verdi av anlegg: 200 millioner kroner
 
@@ -211,11 +211,11 @@ Grunnrenteskatt (45%):
 
 ### 6.2 Eksempel: Petroleumsskatt
 
-**Eksempel:** Et petroleumsselskap med fÃ¸lgende data:
+**Eksempel:** Et petroleumsselskap med følgende data:
 
 * Petroleumsinntekter: 1.000 millioner kroner
 * Driftskostnader: 300 millioner kroner  
-* Investeringer (Ã¸yeblikkelig avskrivning): 200 millioner kroner
+* Investeringer (øyeblikkelig avskrivning): 200 millioner kroner
 * Friinntekt: 10 millioner kroner
 
 **Beregning:**
@@ -223,10 +223,10 @@ Grunnrenteskatt (45%):
 Skattepliktig inntekt:
 1.000 - 300 - 200 - 10 = 490 millioner kr
 
-OrdinÃ¦r selskapsskatt (22%):
+Ordinær selskapsskatt (22%):
 490 Ã— 22% = 107,8 millioner kr
 
-SÃ¦rskatt (56%):
+Særskatt (56%):
 490 Ã— 56% = 274,4 millioner kr
 
 Total petroleumsskatt:
@@ -249,57 +249,61 @@ Grunnrenteskatt skaper flere regnskapsmessige utfordringer:
 ### 7.2 Compliance-utfordringer
 
 * **Regelverksendringer:** Hyppige endringer i skattelovgivning
-* **Kompleksitet:** HÃ¸y grad av teknisk kompleksitet i beregninger
+* **Kompleksitet:** Høy grad av teknisk kompleksitet i beregninger
 * **Dokumentasjon:** Omfattende dokumentasjonskrav
 * **Tidsfrister:** Stramme frister for rapportering og betaling
 
 ### 7.3 Strategiske Betraktninger
 
-Selskaper mÃ¥ vurdere:
+Selskaper må vurdere:
 
-* **Investeringsbeslutninger:** Hvordan grunnrenteskatt pÃ¥virker lÃ¸nnsomheten av nye prosjekter
+* **Investeringsbeslutninger:** Hvordan grunnrenteskatt påvirker lønnsomheten av nye prosjekter
 * **Finansiering:** Optimal kapitalstruktur under grunnrenteskatteregimet  
-* **Risikostyring:** HÃ¥ndtering av skatterisiko og usikkerhet
-* **Organisering:** Optimal organisering av virksomheten for skatteformÃ¥l
+* **Risikostyring:** Håndtering av skatterisiko og usikkerhet
+* **Organisering:** Optimal organisering av virksomheten for skatteformål
 
 ## Seksjon 8: Fremtidige Utviklingstrekk
 
 ### 8.1 Politiske Signaler
 
-Grunnrenteskatt er et politisk sensitivt omrÃ¥de med pÃ¥gÃ¥ende diskusjoner om:
+Grunnrenteskatt er et politisk sensitivt område med pågående diskusjoner om:
 
 * **Utvidelse:** Mulig utvidelse til andre sektorer (f.eks. havvind, mineralutvinning)
-* **Satsjusteringer:** Endringer i skattesatser basert pÃ¥ markedsforhold
-* **Tekniske justeringer:** Forbedringer av regelverket basert pÃ¥ erfaringer
+* **Satsjusteringer:** Endringer i skattesatser basert på markedsforhold
+* **Tekniske justeringer:** Forbedringer av regelverket basert på erfaringer
 
 ### 8.2 Teknologisk Utvikling
 
-Teknologisk utvikling pÃ¥virker grunnrenteskatt gjennom:
+Teknologisk utvikling påvirker grunnrenteskatt gjennom:
 
 * **Digitalisering:** Automatisering av rapportering og beregninger
 * **Nye teknologier:** Hvordan nye energiteknologier skal behandles skattemessig
-* **Dataanalyse:** Bedre muligheter for overvÃ¥king og kontroll
+* **Dataanalyse:** Bedre muligheter for overvåking og kontroll
 
 ### 8.3 Internasjonale Trender
 
-Norge fÃ¸lger internasjonale trender innen ressursbeskatning:
+Norge følger internasjonale trender innen ressursbeskatning:
 
 * **OECD-retningslinjer:** Internasjonale standarder for ressursbeskatning
-* **EU-regulering:** PÃ¥virkning fra EU-direktiver og konkurranseregler
-* **BÃ¦rekraft:** Ã˜kende fokus pÃ¥ bÃ¦rekraftig ressursutnyttelse
+* **EU-regulering:** Påvirkning fra EU-direktiver og konkurranseregler
+* **Bærekraft:** Økende fokus på bærekraftig ressursutnyttelse
 
 ## Konklusjon
 
-**Grunnrenteskatt** representerer et komplekst, men viktig element i det norske skattesystemet. For virksomheter som omfattes av denne skatten, er det avgjÃ¸rende Ã¥ ha:
+**Grunnrenteskatt** representerer et komplekst, men viktig element i det norske skattesystemet. For virksomheter som omfattes av denne skatten, er det avgjørende å ha:
 
-* **Grundig forstÃ¥else** av regelverket og beregningsmetoder
+* **Grundig forståelse** av regelverket og beregningsmetoder
 * **Robuste systemer** for datainnsamling og rapportering  
-* **Kompetent rÃ¥dgivning** fra skattefaglige eksperter
-* **Proaktiv tilnÃ¦rming** til compliance og risikostyring
+* **Kompetent rådgivning** fra skattefaglige eksperter
+* **Proaktiv tilnærming** til compliance og risikostyring
 
-Grunnrenteskatt vil fortsette Ã¥ vÃ¦re et sentralt element i norsk nÃ¦ringspolitikk, og virksomheter mÃ¥ vÃ¦re forberedt pÃ¥ fortsatte endringer og tilpasninger i regelverket. En systematisk tilnÃ¦rming til [regnskapsfÃ¸ring](/blogs/regnskap/hva-er-regnskap "Hva er regnskap? En Dybdeanalyse for Norge") og rapportering av grunnrenteskatt er essensielt for Ã¥ sikre compliance og optimal skatteposisjon.
+Grunnrenteskatt vil fortsette å være et sentralt element i norsk næringspolitikk, og virksomheter må være forberedt på fortsatte endringer og tilpasninger i regelverket. En systematisk tilnærming til [regnskapsføring](/blogs/regnskap/hva-er-regnskap "Hva er regnskap? En Dybdeanalyse for Norge") og rapportering av grunnrenteskatt er essensielt for å sikre compliance og optimal skatteposisjon.
 
-For virksomheter som vurderer investeringer i sektorer som omfattes av grunnrenteskatt, er det viktig Ã¥ inkludere skatteeffektene i [budsjettering](/blogs/regnskap/hva-er-budsjettering "Hva er Budsjettering? Komplett Guide til Budsjettplanlegging") og lÃ¸nnsomhetsanalyser fra tidlig fase.
+For virksomheter som vurderer investeringer i sektorer som omfattes av grunnrenteskatt, er det viktig å inkludere skatteeffektene i [budsjettering](/blogs/regnskap/hva-er-budsjettering "Hva er Budsjettering? Komplett Guide til Budsjettplanlegging") og lønnsomhetsanalyser fra tidlig fase.
+
+
+
+
 
 
 

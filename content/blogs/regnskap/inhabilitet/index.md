@@ -13,38 +13,38 @@ layout: pages/single
 
 ## Hva er Inhabilitet?
 
-Inhabilitet betyr at en person er uegnet til Ã¥ delta i beslutningsprosesser fordi vedkommende har personlige interesser som kan pÃ¥virke objektiviteten.
+Inhabilitet betyr at en person er uegnet til å delta i beslutningsprosesser fordi vedkommende har personlige interesser som kan påvirke objektiviteten.
 
 ## Regelverk og Lover
 
-Inhabilitetsreglene finnes blant annet i [Aksjeloven](/blogs/regnskap/hva-er-aksjeloven "Hva er Aksjeloven?") Â§Â§ 6-27 og Â§ 6-28, samt i Forvaltningsloven Â§ 6 nÃ¥r offentlige instanser vurderer regnskap.
+Inhabilitetsreglene finnes blant annet i [Aksjeloven](/blogs/regnskap/hva-er-aksjeloven "Hva er Aksjeloven?") Â§Â§ 6-27 og Â§ 6-28, samt i Forvaltningsloven Â§ 6 når offentlige instanser vurderer regnskap.
 
 ## Typer Inhabilitet
 
 | **Type inhabilitet**     | **Beskrivelse**                                                                          |
 |--------------------------|------------------------------------------------------------------------------------------|
-| **Absolutt inhabilitet** | Personen er alltid hindret fra Ã¥ delta, f.eks. nÃ¥r direkte Ã¸konomisk interesse pÃ¥virkes  |
+| **Absolutt inhabilitet** | Personen er alltid hindret fra å delta, f.eks. når direkte økonomisk interesse påvirkes  |
 | **Relativ inhabilitet**  | Personen kan delta dersom interessekonflikten er av ubetydelig karakter                  |
-| **Saklig inhabilitet**   | Konkret vurdering av om det foreligger tilstrekkelig grunn til Ã¥ nekte deltakelse        |
+| **Saklig inhabilitet**   | Konkret vurdering av om det foreligger tilstrekkelig grunn til å nekte deltakelse        |
 
-## Hvem kan vÃ¦re inhabile?
+## Hvem kan være inhabile?
 
 * **Styremedlemmer** og varamedlemmer i [aksjeselskap](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap?")
 * **Daglig leder** og andre ledende personer i selskapet
-* **Revisorer** og interne kontrollÃ¸rer som jobber med regnskapet
-* Ansatte med **personlig Ã¸konomisk eller familiÃ¦r interesse** i saken
+* **Revisorer** og interne kontrollører som jobber med regnskapet
+* Ansatte med **personlig økonomisk eller familiær interesse** i saken
 
-## Hvordan hÃ¥ndtere inhabilitet i praksis
+## Hvordan håndtere inhabilitet i praksis
 
-* Kartlegg roller og tilhÃ¸rende habilitetsregler i [Internkontroll](/blogs/regnskap/hva-er-internkontroll "Hva er Internkontroll?")
-* SÃ¸rg for at inhabile personer **ikke deltar** i behandling eller beslutning
-* Bruk skriftlig **fullmakt** eller annen delegasjon for Ã¥ sikre beslutninger ved fravÃ¦r av habil person
-* Dokumenter alle beslutninger om habilitet i protokoller og mÃ¸tereferater
+* Kartlegg roller og tilhørende habilitetsregler i [Internkontroll](/blogs/regnskap/hva-er-internkontroll "Hva er Internkontroll?")
+* Sørg for at inhabile personer **ikke deltar** i behandling eller beslutning
+* Bruk skriftlig **fullmakt** eller annen delegasjon for å sikre beslutninger ved fravær av habil person
+* Dokumenter alle beslutninger om habilitet i protokoller og møtereferater
 
 ## Konsekvenser av inhabilitet
 
-* Vedtak og beslutninger kan bli **ugyldige** dersom inhabilitet ikke hÃ¥ndteres korrekt
-* Ã˜kt risiko for **rettslige etterspill** og tap av omdÃ¸mme
+* Vedtak og beslutninger kan bli **ugyldige** dersom inhabilitet ikke håndteres korrekt
+* Økt risiko for **rettslige etterspill** og tap av omdømme
 * Sviktende tillit til regnskap og virksomhetsstyring
 
 ## Relaterte Artikler
@@ -54,6 +54,10 @@ Inhabilitetsreglene finnes blant annet i [Aksjeloven](/blogs/regnskap/hva-er-aks
 * [Internkontroll](/blogs/regnskap/hva-er-internkontroll "Hva er Internkontroll?")
 * [Fullmakt](/blogs/regnskap/fullmakt "Fullmakt")
 * [Hva er Styre?](/blogs/regnskap/hva-er-styre "Hva er Styre? Organisering og Roller i Selskaper")
+
+
+
+
 
 
 

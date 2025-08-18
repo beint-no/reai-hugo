@@ -1,66 +1,71 @@
 ﻿---
-title: "Konto 1613 - InngÃ¥ende merverdiavgift middels sats"
+title: "Konto 1613 - Inngående merverdiavgift middels sats"
 meta_title: "1613-inngaaende-merverdiavgift-middels-sats"
-meta_description: '**Konto 1613 - InngÃ¥ende merverdiavgift middels sats** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **inngÃ¥ende merverdiavgift med midd...'
+meta_description: '**Konto 1613 - Inngående merverdiavgift middels sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **inngående merverdiavgift med midd...'
 slug: 1613-inngaaende-merverdiavgift-middels-sats
 type: blog
 layout: pages/single
 ---
 
-**Konto 1613 - InngÃ¥ende merverdiavgift middels sats** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **inngÃ¥ende merverdiavgift med middels sats (15 %)** som et fradragsberettiget belÃ¸p i regnskapet for kjÃ¸p av varer og tjenester med redusert MVA-sats.
+**Konto 1613 - Inngående merverdiavgift middels sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **inngående merverdiavgift med middels sats (15 %)** som et fradragsberettiget beløp i regnskapet for kjøp av varer og tjenester med redusert MVA-sats.
 
-![Illustrasjon av konto 1613 InngÃ¥ende merverdiavgift middels sats](1613-inngaaende-merverdiavgift-middels-sats-image.svg)
+![Illustrasjon av konto 1613 Inngående merverdiavgift middels sats](1613-inngaaende-merverdiavgift-middels-sats-image.svg)
 
-## Hva er inngÃ¥ende merverdiavgift middels sats?
+## Hva er inngående merverdiavgift middels sats?
 
-*InngÃ¥ende merverdiavgift middels sats* gjelder MVA pÃ¥ varer og tjenester som omfattes av den reduserte satsen pÃ¥ **15â€¯%**, for eksempel:
+*Inngående merverdiavgift middels sats* gjelder MVA på varer og tjenester som omfattes av den reduserte satsen på **15–¯%**, for eksempel:
 
 * **Matvarer** (unntatt alkohol og tobakk)
 * **Hotell- og overnattingstjenester**
 * **Passasjertransport**
 * **Visse kulturelle og sportslige arrangementer**
 
-For en oversikt over andre satser, se [Hva er MVA?](/blogs/regnskap/hva-er-moms-mva "Hva er MVA? MVA-regnskapsfÃ¸ring og merverdiavgift").
+For en oversikt over andre satser, se [Hva er MVA?](/blogs/regnskap/hva-er-moms-mva "Hva er MVA? MVA-regnskapsføring og merverdiavgift").
 
-## NÃ¥r skal konto 1613 benyttes?
+## Når skal konto 1613 benyttes?
 
-* NÃ¥r virksomheten kjÃ¸per varer eller tjenester med **15â€¯% MVA**.
+* Når virksomheten kjøper varer eller tjenester med **15–¯% MVA**.
 * Ved periodisk MVA-rapportering for middels sats.
-* NÃ¥r inngÃ¥ende MVA med middels sats skal fradragsfÃ¸res.
+* Når inngående MVA med middels sats skal fradragsføres.
 
-## RegnskapsfÃ¸ring
+## Regnskapsføring
 
 | Transaksjon                                                       | Debet                                                  | Kredit                                                |
 |-------------------------------------------------------------------|--------------------------------------------------------|-------------------------------------------------------|
-| Registrering av inngÃ¥ende merverdiavgift med middels sats         | Konto 1613 - InngÃ¥ende merverdiavgift middels sats      | Konto 2400 - LeverandÃ¸rgjeld                          |
-| Periodisk MVA-oppgjÃ¸r (fradrag middels sats)                      | Konto 2740 - InngÃ¥ende merverdiavgift fradrag          | Konto 1613 - InngÃ¥ende merverdiavgift middels sats     |
+| Registrering av inngående merverdiavgift med middels sats         | Konto 1613 - Inngående merverdiavgift middels sats      | Konto 2400 - Leverandørgjeld                          |
+| Periodisk MVA-oppgjør (fradrag middels sats)                      | Konto 2740 - Inngående merverdiavgift fradrag          | Konto 1613 - Inngående merverdiavgift middels sats     |
 
-## Eksempel pÃ¥ beregning
+## Eksempel på beregning
 
-| BelÃ¸p uten MVA   | MVA (15â€¯%)  | MVA Ã¥ fÃ¸re som inngÃ¥ende MVA |
+| Beløp uten MVA   | MVA (15–¯%)  | MVA å føre som inngående MVA |
 |------------------|-------------|-------------------------------|
-| 8â€¯000Â NOK        | 1â€¯200Â NOK   | 1â€¯200Â NOK                    |
-| 20â€¯000Â NOK       | 3â€¯000Â NOK   | 3â€¯000Â NOK                    |
+| 8–¯000Â NOK        | 1–¯200Â NOK   | 1–¯200Â NOK                    |
+| 20–¯000Â NOK       | 3–¯000Â NOK   | 3–¯000Â NOK                    |
 
 ## Regler og begrensninger
 
-* **Fradragsrett** gjelder kun for kjÃ¸p relatert til avgiftspliktig virksomhet.
+* **Fradragsrett** gjelder kun for kjøp relatert til avgiftspliktig virksomhet.
 * Enkelte varer og tjenester kan ha **begrenset eller ingen fradragsrett**.
-* Ved **andel fradrag** mÃ¥ inngÃ¥ende merverdiavgift beregnes etter forholdet mellom avgiftspliktig og avgiftsfri omsetning.
+* Ved **andel fradrag** må inngående merverdiavgift beregnes etter forholdet mellom avgiftspliktig og avgiftsfri omsetning.
 
 ## Fordeler ved korrekt behandling av konto 1613
 
-* **Forbedret oversikt** over kjÃ¸p med middels MVA-sats.
+* **Forbedret oversikt** over kjøp med middels MVA-sats.
 * **Redusert risiko** for feil i MVA-rapporteringen ved reduserte satser.
-* Effektiv **likviditetsstyring** gjennom presis fradragsfÃ¸ring.
+* Effektiv **likviditetsstyring** gjennom presis fradragsføring.
 
 ## Relaterte artikler
 
-* [Konto 1603 - UtgÃ¥ende merverdiavgift middels sats](/blogs/kontoplan/1603-utgaende-merverdiavgift-middels-sats "Konto 1603 - UtgÃ¥ende merverdiavgift middels sats")
-* [Konto 1610 - InngÃ¥ende merverdiavgift](/blogs/kontoplan/1610-inngaaende-merverdiavgift "Konto 1610 - InngÃ¥ende merverdiavgift")
-* [Konto 1611 - InngÃ¥ende merverdiavgift hÃ¸y sats](/blogs/kontoplan/1611-inngaaende-merverdiavgift-hoy-sats "Konto 1611 - InngÃ¥ende merverdiavgift hÃ¸y sats")
-* [Konto 1612 - InngÃ¥ende merverdiavgift kjÃ¸p tjenester fra utlandet](/blogs/kontoplan/1612-inngaaende-merverdiavgift-kjop-tjen-fra-utlandet "Konto 1612 - InngÃ¥ende merverdiavgift kjÃ¸p tjenester fra utlandet")
-* [Konto 2713 - InngÃ¥ende merverdiavgift middels sats](/blogs/kontoplan/2713-inngaaende-merverdiavgift-middels-sats "Konto 2713 - InngÃ¥ende merverdiavgift middels sats")
-* [Hva er MVA?](/blogs/regnskap/hva-er-moms-mva "Hva er MVA? MVA-regnskapsfÃ¸ring og merverdiavgift")
+* [Konto 1603 - Utgående merverdiavgift middels sats](/blogs/kontoplan/1603-utgaende-merverdiavgift-middels-sats "Konto 1603 - Utgående merverdiavgift middels sats")
+* [Konto 1610 - Inngående merverdiavgift](/blogs/kontoplan/1610-inngaaende-merverdiavgift "Konto 1610 - Inngående merverdiavgift")
+* [Konto 1611 - Inngående merverdiavgift høy sats](/blogs/kontoplan/1611-inngaaende-merverdiavgift-hoy-sats "Konto 1611 - Inngående merverdiavgift høy sats")
+* [Konto 1612 - Inngående merverdiavgift kjøp tjenester fra utlandet](/blogs/kontoplan/1612-inngaaende-merverdiavgift-kjop-tjen-fra-utlandet "Konto 1612 - Inngående merverdiavgift kjøp tjenester fra utlandet")
+* [Konto 2713 - Inngående merverdiavgift middels sats](/blogs/kontoplan/2713-inngaaende-merverdiavgift-middels-sats "Konto 2713 - Inngående merverdiavgift middels sats")
+* [Hva er MVA?](/blogs/regnskap/hva-er-moms-mva "Hva er MVA? MVA-regnskapsføring og merverdiavgift")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+
+
+
+
+
 

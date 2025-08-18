@@ -1,53 +1,57 @@
 ﻿---
-title: "Hva er OppbudsbegjÃ¦ring?"
-meta_title: "Hva er OppbudsbegjÃ¦ring?"
-meta_description: '**OppbudsbegjÃ¦ring** er en juridisk prosess (ogsÃ¥ kalt *begjÃ¦ring om oppbud*) der en virksomhet som ikke kan dekke sine forpliktelser, formelt ber om Ã¥pning...'
+title: "Hva er Oppbudsbegjæring?"
+meta_title: "Hva er Oppbudsbegjæring?"
+meta_description: '**Oppbudsbegjæring** er en juridisk prosess (også kalt *begjæring om oppbud*) der en virksomhet som ikke kan dekke sine forpliktelser, formelt ber om åpning...'
 slug: oppbudsbegjering
 type: blog
 layout: pages/single
 ---
 
-**OppbudsbegjÃ¦ring** er en juridisk prosess (ogsÃ¥ kalt *begjÃ¦ring om oppbud*) der en virksomhet som ikke kan dekke sine forpliktelser, formelt ber om Ã¥pning av konkurs.
+**Oppbudsbegjæring** er en juridisk prosess (også kalt *begjæring om oppbud*) der en virksomhet som ikke kan dekke sine forpliktelser, formelt ber om åpning av konkurs.
 
-![OppbudsbegjÃ¦ring Oversikt](oppbudsbegjering-image.svg)
+![Oppbudsbegjæring Oversikt](oppbudsbegjering-image.svg)
 
-## Hva er OppbudsbegjÃ¦ring?
-En **oppbudsbegjÃ¦ring** kreves for Ã¥ igangsette en konkursbehandling nÃ¥r en debitor stÃ¥r overfor insolvens, og prosessen fÃ¸lger regelverk i **konkursloven**.
+## Hva er Oppbudsbegjæring?
+En **oppbudsbegjæring** kreves for å igangsette en konkursbehandling når en debitor står overfor insolvens, og prosessen følger regelverk i **konkursloven**.
 
-## VilkÃ¥r for oppbudsbegjÃ¦ring
-For at en oppbudsbegjÃ¦ring skal bli tatt under behandling, mÃ¥ fÃ¸lgende *vilkÃ¥r* vÃ¦re oppfylt:
+## Vilkår for oppbudsbegjæring
+For at en oppbudsbegjæring skal bli tatt under behandling, må følgende *vilkår* være oppfylt:
 
-| VilkÃ¥r                   | Beskrivelse                                                        |
+| Vilkår                   | Beskrivelse                                                        |
 |--------------------------|--------------------------------------------------------------------|
-| Insolvens                | Virksomheten mÃ¥ vÃ¦re ute av stand til Ã¥ betale forfalte fordringer |
-| KravstÃ¸rrelse            | Totale fordringer mÃ¥ overstige en minstegrense (vanligvis smÃ¥belÃ¸p kan avvises) |
-| Dokumentasjon            | Gyldig dokumentasjon pÃ¥ gjeldsforhold og fordringer                |
+| Insolvens                | Virksomheten må være ute av stand til å betale forfalte fordringer |
+| Kravstørrelse            | Totale fordringer må overstige en minstegrense (vanligvis småbeløp kan avvises) |
+| Dokumentasjon            | Gyldig dokumentasjon på gjeldsforhold og fordringer                |
 
-## Prosess for oppbudsbegjÃ¦ring
-FremgangsmÃ¥ten for oppbudsbegjÃ¦ring utfÃ¸res som fÃ¸lger:
+## Prosess for oppbudsbegjæring
+Fremgangsmåten for oppbudsbegjæring utføres som følger:
 
 | Steg | Handling                                                                              |
 |------|---------------------------------------------------------------------------------------|
-| 1    | Innsending av begjÃ¦ring til namsmyndighetene (formelt dokument og vedlegg).           |
-| 2    | Registrering og kunngjÃ¸ring av begjÃ¦ringen i konkursregisteret.                       |
+| 1    | Innsending av begjæring til namsmyndighetene (formelt dokument og vedlegg).           |
+| 2    | Registrering og kunngjøring av begjæringen i konkursregisteret.                       |
 | 3    | Mottak av fristdag og varsling av kreditorer om kravfrist.                            |
 | 4    | Marsjordre til bobestyrer som overtar forvaltning og realisering av eiendeler.       |
 
 ## Regnskapsmessige konsekvenser
-NÃ¥r oppbudsbegjÃ¦ringen er tvangsÃ¥pnet, mÃ¥ regnskapsfÃ¸rere hÃ¥ndtere:
+Når oppbudsbegjæringen er tvangsåpnet, må regnskapsførere håndtere:
 * **Nedskrivning** av balanseposter til virkelig verdi ved insolvens
 * Klassifisering av krav som **prioriterte** eller **usikrede** i boet
 * Vurdering av *going concern* frem til bobestyrer overtar
 
 ## Forebyggende tiltak
-For Ã¥ unngÃ¥ behov for oppbudsbegjÃ¦ring anbefales det Ã¥:
-* Ha streng likviditetsstyring med jevn kontantstrÃ¸mprognose
-* OvervÃ¥ke fordringer og kredittrisiko lÃ¸pende
-* Vurdere alternative lÃ¸sninger som refinansiering eller gjeldsforhandlinger fÃ¸r oppbud
+For å unngå behov for oppbudsbegjæring anbefales det å:
+* Ha streng likviditetsstyring med jevn kontantstrømprognose
+* Overvåke fordringer og kredittrisiko løpende
+* Vurdere alternative løsninger som refinansiering eller gjeldsforhandlinger før oppbud
 
 ---
 
-*Relaterte artikler:* [Hva er Konkurs?](/blogs/regnskap/konkurs "Hva er Konkurs? Juridiske og Regnskapsmessige Konsekvenser av Konkurs"), [Hva er Konkursloven?](/blogs/regnskap/hva-er-konkursloven "Hva er Konkursloven? Oversikt og viktige bestemmelser"), [Insolvens](/blogs/regnskap/insolvens "Hva er Insolvens? Definisjon, Ã…rsaker og Behandling"), [Hva er OppbudsbegjÃ¦ring?](/blogs/regnskap/oppbudsbegjering "Hva er OppbudsbegjÃ¦ring? Guide til konkursbegjÃ¦ring i norsk regnskap").
+*Relaterte artikler:* [Hva er Konkurs?](/blogs/regnskap/konkurs "Hva er Konkurs? Juridiske og Regnskapsmessige Konsekvenser av Konkurs"), [Hva er Konkursloven?](/blogs/regnskap/hva-er-konkursloven "Hva er Konkursloven? Oversikt og viktige bestemmelser"), [Insolvens](/blogs/regnskap/insolvens "Hva er Insolvens? Definisjon, Årsaker og Behandling"), [Hva er Oppbudsbegjæring?](/blogs/regnskap/oppbudsbegjering "Hva er Oppbudsbegjæring? Guide til konkursbegjæring i norsk regnskap").
+
+
+
+
 
 
 

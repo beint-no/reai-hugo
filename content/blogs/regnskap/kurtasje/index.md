@@ -1,13 +1,13 @@
 ﻿---
-title: "Hva er Kurtasje? Megleravgift ved kjÃ¸p og salg av verdipapirer"
-meta_title: "Hva er Kurtasje? Megleravgift ved kjÃ¸p og salg av verdipapirer"
-meta_description: '**Kurtasje**, ogsÃ¥ kalt *meglerprovisjon*, er avgiften som betales til en megler eller handelsplattform ved kjÃ¸p og salg av aksjer og andre **verdipapirer**.'
+title: "Hva er Kurtasje? Megleravgift ved kjøp og salg av verdipapirer"
+meta_title: "Hva er Kurtasje? Megleravgift ved kjøp og salg av verdipapirer"
+meta_description: '**Kurtasje**, også kalt *meglerprovisjon*, er avgiften som betales til en megler eller handelsplattform ved kjøp og salg av aksjer og andre **verdipapirer**.'
 slug: kurtasje
 type: blog
 layout: pages/single
 ---
 
-**Kurtasje**, ogsÃ¥ kalt *meglerprovisjon*, er avgiften som betales til en megler eller handelsplattform ved kjÃ¸p og salg av aksjer og andre **verdipapirer**.
+**Kurtasje**, også kalt *meglerprovisjon*, er avgiften som betales til en megler eller handelsplattform ved kjøp og salg av aksjer og andre **verdipapirer**.
 
 ![Illustrasjon med teksten Kurtasje](kurtasje-image.svg)
 
@@ -15,7 +15,7 @@ layout: pages/single
 
 ### 1.1 Hva er Kurtasje?
 
-Kurtasje representerer kostnaden for Ã¥ fÃ¥ utfÃ¸rt handler i markedet. Den kan vÃ¦re fast eller variabel, avhengig av meglerens prisstruktur og handelsvolum.
+Kurtasje representerer kostnaden for å få utført handler i markedet. Den kan være fast eller variabel, avhengig av meglerens prisstruktur og handelsvolum.
 
 ### 1.2 Typer kurtasje
 
@@ -27,7 +27,7 @@ Kurtasje representerer kostnaden for Ã¥ fÃ¥ utfÃ¸rt handler i markedet. De
 Beregningen av kurtasje avhenger av om den er fast eller prosentbasert. Generelt gjelder:
 
 ```text
-Kurtasje (fast) = Avtalefast belÃ¸p per handel
+Kurtasje (fast) = Avtalefast beløp per handel
 Kurtasje (prosent) = Handelsverdi Ã— Kurtasje prosent
 ```
 
@@ -40,42 +40,46 @@ Kurtasje (prosent) = Handelsverdi Ã— Kurtasje prosent
 
 ### 3.1 Innregning og klassifisering
 
-Kurtasje fÃ¸res som en finanskostnad under **driftskostnader** i resultatregnskapet.
+Kurtasje føres som en finanskostnad under **driftskostnader** i resultatregnskapet.
 
 ```text
 DEBET: Kurtasjekostnad (driftskostnader)    100
    KREDIT: Bank/kasse                        100
 ```
 
-Se ogsÃ¥ [Hva er Driftskostnader?](/blogs/regnskap/hva-er-driftskostnader "Hva er Driftskostnader? Definisjon og Eksempler").
+Se også [Hva er Driftskostnader?](/blogs/regnskap/hva-er-driftskostnader "Hva er Driftskostnader? Definisjon og Eksempler").
 
 ## Seksjon 4: Skattemessige aspekter
 
-Skattemessig er kurtasje vanligvis fradragsberettiget som en nÃ¸dvendig kostnad for Ã¥ oppnÃ¥ inntekt. Kostnaden fÃ¸lger realisasjonsprinsippet.
+Skattemessig er kurtasje vanligvis fradragsberettiget som en nødvendig kostnad for å oppnå inntekt. Kostnaden følger realisasjonsprinsippet.
 
-## Seksjon 5: Praktisk eksempel pÃ¥ beregning og regnskapsfÃ¸ring
+## Seksjon 5: Praktisk eksempel på beregning og regnskapsføring
 
-En investor kjÃ¸per aksjer for 50Â 000 kr med en prosentbasert kurtasje pÃ¥ 0,2 %:
+En investor kjøper aksjer for 50Â 000 kr med en prosentbasert kurtasje på 0,2 %:
 
-| Beskrivelse           | BelÃ¸p (kr)                        |
+| Beskrivelse           | Beløp (kr)                        |
 | --------------------- | --------------------------------- |
 | Handelsverdi          | 50Â 000                            |
 | Kurtasje (0,2 %)      | 100                               |
 | Total kostnad         | 50Â 100                            |
 
-RegnskapsfÃ¸ring av kurtasje:
+Regnskapsføring av kurtasje:
 
 ```text
 DEBET: Kurtasjekostnad                  100
    KREDIT: Bank/kasse                   100
 ```
 
-## Se ogsÃ¥
+## Se også
 
-* [Hva er BÃ¸rs?](/blogs/regnskap/bors "Hva er BÃ¸rs? En Guide til Norsk BÃ¸rs og Aksjehandel")
+* [Hva er Børs?](/blogs/regnskap/bors "Hva er Børs? En Guide til Norsk Børs og Aksjehandel")
 * [Hva er en aksje?](/blogs/regnskap/hva-er-en-aksje "Hva er en Aksje?")
 * [Hva er Diskontering?](/blogs/regnskap/hva-er-diskontering "Hva er Diskontering? Prinsipper og Praktiske Eksempler")
-* [Hva er Kurtasje?](/blogs/regnskap/kurtasje "Hva er Kurtasje? Megleravgift ved kjÃ¸p og salg av verdipapirer")
+* [Hva er Kurtasje?](/blogs/regnskap/kurtasje "Hva er Kurtasje? Megleravgift ved kjøp og salg av verdipapirer")
+
+
+
+
 
 
 

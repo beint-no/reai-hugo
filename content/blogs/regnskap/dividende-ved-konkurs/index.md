@@ -9,7 +9,7 @@ layout: pages/single
 
 Dividende ved konkurs handler om fordelingen av tilgjengelige midler i et konkursbo etter at alle krav er oppfylt i henhold til konkursloven.
 
-En god forstÃ¥else av **prioriteringsrekkefÃ¸lge**, **beregningsmetode** og praktiske eksempler er avgjÃ¸rende for regnskapsfÃ¸rere, advokater og kreditorer.
+En god forståelse av **prioriteringsrekkefølge**, **beregningsmetode** og praktiske eksempler er avgjørende for regnskapsførere, advokater og kreditorer.
 
 ![Dividende ved konkurs](dividende-ved-konkurs-image.svg)
 
@@ -17,24 +17,24 @@ En god forstÃ¥else av **prioriteringsrekkefÃ¸lge**, **beregningsmetode** og 
 
 Dividentemassen er de midlene som er tilgjengelige for utdeling etter at alle *lovbestemte krav* og *konkursboets omkostninger* er dekket. Dette inkluderer ofte salg av eiendeler, innbetalinger fra debitorer og andre realisasjoner.
 
-## PrioriteringsrekkefÃ¸lge ved utdeling
+## Prioriteringsrekkefølge ved utdeling
 
-For Ã¥ sikre rettferdighet fastsetter konkursloven en **prioriteringsrekkefÃ¸lge** for hvem som fÃ¥r dekket sine krav fÃ¸rst:
+For å sikre rettferdighet fastsetter konkursloven en **prioriteringsrekkefølge** for hvem som får dekket sine krav først:
 
 | Prioritet | Krav/gruppe                | Kommentar                                         |
 |:---------:|:---------------------------|:---------------------------------------------------|
 | **1**     | Konkursboets omkostninger  | Kostnader for behandling og administrasjon av boet |
-| **2**     | Prioriterte fordringer     | LÃ¸nnskrav, skatte- og avgiftskrav                 |
+| **2**     | Prioriterte fordringer     | Lønnskrav, skatte- og avgiftskrav                 |
 | **3**     | Sikrede fordringer         | Panterett i eiendeler                             |
 | **4**     | Usikrede fordringer        | Uprioriterte kreditorer                           |
-| **5**     | AksjonÃ¦rene                | Egenkapital / eventuelt utbytte                   |
+| **5**     | Aksjonærene                | Egenkapital / eventuelt utbytte                   |
 
 ## Beregning av divident
 
-Selve **dividenten** beregnes ved Ã¥ dele gjenvÃ¦rende midler pÃ¥ kravene i aktuell prioritet:
+Selve **dividenten** beregnes ved å dele gjenværende midler på kravene i aktuell prioritet:
 
 ```text
-Divident = (Tilgjengelige midler “ Sum krav i hÃ¸yere prioritet) / Antall krav i denne prioritet
+Divident = (Tilgjengelige midler “ Sum krav i høyere prioritet) / Antall krav i denne prioritet
 ```
 
 Eksempel:
@@ -46,24 +46,28 @@ Eksempel:
 
 ## Praktiske hensyn og interne lenker
 
-Ved hÃ¥ndtering av konkurs og dividentutbetaling bÃ¸r du ogsÃ¥ kjenne til:
+Ved håndtering av konkurs og dividentutbetaling bør du også kjenne til:
 
 * [Hva er Konkurs?](/blogs/regnskap/konkurs "Hva er Konkurs? Juridiske og regnskapsmessige konsekvenser")
-* [Tap pÃ¥ fordring](/blogs/regnskap/tap-pa-fordring "Tap pÃ¥ fordring i regnskap og konkurs")
+* [Tap på fordring](/blogs/regnskap/tap-pa-fordring "Tap på fordring i regnskap og konkurs")
 * [Hva er kreditor?](/blogs/regnskap/hva-er-kreditor "Hva er Kreditor? Roller og rettigheter")
 
-## Ofte stilte spÃ¸rsmÃ¥l
+## Ofte stilte spørsmål
 
-**Kan aksjonÃ¦rer forvente divident ved konkurs?**  
-I praksis fÃ¥r aksjonÃ¦rer utbytte (divident) bare hvis det er midler igjen etter at alle kreditorer er fullt dekket.
+**Kan aksjonærer forvente divident ved konkurs?**  
+I praksis får aksjonærer utbytte (divident) bare hvis det er midler igjen etter at alle kreditorer er fullt dekket.
 
 **Hva skjer ved manglende dekning?**  
-Hvis det ikke er nok midler til Ã¥ dekke hele prioritetÂ 5, fÃ¥r ingen aksjonÃ¦rer utbetaling.
+Hvis det ikke er nok midler til å dekke hele prioritetÂ 5, får ingen aksjonærer utbetaling.
 
-**Hvordan pÃ¥virker sikkerhet fordringshaverne?**  
-Sikrede fordringer (prioritetÂ 3) fÃ¥r ofte vesentlig hÃ¸yere dekningsgrad enn usikrede fordringshavere.
+**Hvordan påvirker sikkerhet fordringshaverne?**  
+Sikrede fordringer (prioritetÂ 3) får ofte vesentlig høyere dekningsgrad enn usikrede fordringshavere.
 
-Ved spÃ¸rsmÃ¥l om mer detaljerte krav og regnskapsmessig behandling, se [Konkursloven](/blogs/regnskap/hva-er-konkursloven "Hva er Konkursloven? Oversikt og viktige bestemmelser").
+Ved spørsmål om mer detaljerte krav og regnskapsmessig behandling, se [Konkursloven](/blogs/regnskap/hva-er-konkursloven "Hva er Konkursloven? Oversikt og viktige bestemmelser").
+
+
+
+
 
 
 

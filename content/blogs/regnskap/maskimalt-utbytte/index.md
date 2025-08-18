@@ -1,17 +1,17 @@
 ﻿---
 title: "Maskimalt Utbytte"
 meta_title: "Maskimalt Utbytte"
-meta_description: '**Maskimalt utbytte** er det hÃ¸yeste belÃ¸pet et [aksjeselskap](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap (AS)? Komplett Guide til Selskap...'
+meta_description: '**Maskimalt utbytte** er det høyeste beløpet et [aksjeselskap](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap (AS)? Komplett Guide til Selskap...'
 slug: maskimalt-utbytte
 type: blog
 layout: pages/single
 ---
 
-**Maskimalt utbytte** er det hÃ¸yeste belÃ¸pet et [aksjeselskap](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap (AS)? Komplett Guide til Selskapsformen") kan dele ut til aksjonÃ¦rene uten Ã¥ bryte lovens krav til [egenkapital](/blogs/regnskap/hva-er-egenkapital "Hva er Egenkapital? Komplett Guide til Egenkapital i Regnskap") og soliditet. Dette er et sentralt begrep i norsk selskapsrett og regnskapspraksis som sikrer at selskaper opprettholder tilstrekkelig finansiell stabilitet.
+**Maskimalt utbytte** er det høyeste beløpet et [aksjeselskap](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap (AS)? Komplett Guide til Selskapsformen") kan dele ut til aksjonærene uten å bryte lovens krav til [egenkapital](/blogs/regnskap/hva-er-egenkapital "Hva er Egenkapital? Komplett Guide til Egenkapital i Regnskap") og soliditet. Dette er et sentralt begrep i norsk selskapsrett og regnskapspraksis som sikrer at selskaper opprettholder tilstrekkelig finansiell stabilitet.
 
-For informasjon om hvordan utbytte beskattes og pÃ¥virker aksjonÃ¦rene, se vÃ¥r [AksjonÃ¦rmodellen - Komplett Guide til Norsk Aksjebeskatning](/blogs/regnskap/aksjonaermodellen-guide "AksjonÃ¦rmodellen - Komplett Guide til Norsk Aksjebeskatning").
+For informasjon om hvordan utbytte beskattes og påvirker aksjonærene, se vår [Aksjonærmodellen - Komplett Guide til Norsk Aksjebeskatning](/blogs/regnskap/aksjonaermodellen-guide "Aksjonærmodellen - Komplett Guide til Norsk Aksjebeskatning").
 
-For mer informasjon om [EkstraordinÃ¦rt Utbytte](/blogs/regnskap/ekstraordinart-utbytte "EkstraordinÃ¦rt Utbytte - Alt du trenger Ã¥ vite om ekstraordinÃ¦rt utbytte"), se egen artikkel om temaet.
+For mer informasjon om [Ekstraordinært Utbytte](/blogs/regnskap/ekstraordinart-utbytte "Ekstraordinært Utbytte - Alt du trenger å vite om ekstraordinært utbytte"), se egen artikkel om temaet.
 
 For mer om oppjustering av utbytte etter vedtak, se [Oppjustering av aksjeutbytte](/blogs/regnskap/oppjustering-av-aksjeutbytte "Oppjustering av aksjeutbytte “ Guide til justering av utbytte for norsk AS").
 
@@ -21,7 +21,7 @@ For en oversikt over ulike typer fond og deres regnskapsmessige behandling, se [
 
 ## Definisjon av Maskimalt Utbytte
 
-Maskimalt utbytte defineres som det **maksimale belÃ¸pet** et aksjeselskap kan dele ut til sine aksjonÃ¦rer uten Ã¥:
+Maskimalt utbytte defineres som det **maksimale beløpet** et aksjeselskap kan dele ut til sine aksjonærer uten å:
 
 * Redusere [aksjekapitalen](/blogs/regnskap/hva-er-aksjekapital "Hva er Aksjekapital? Komplett Guide til Aksjekapital i Aksjeselskap") under lovens minimumskrav
 * Bryte **soliditetskravene** i aksjeloven
@@ -32,7 +32,7 @@ Maskimalt utbytte defineres som det **maksimale belÃ¸pet** et aksjeselskap kan
 
 Reglene for maskimalt utbytte er forankret i **aksjeloven Â§ 8-1** som fastsetter at utbytte kun kan deles ut av:
 
-* **Ã…rets overskudd** etter fradrag for tap fra tidligere Ã¥r
+* **Årets overskudd** etter fradrag for tap fra tidligere år
 * **Annen egenkapital** som ikke er bundet
 * **Fri egenkapital** som overstiger kravene til soliditet
 
@@ -48,69 +48,69 @@ Den grunnleggende formelen for beregning av maskimalt utbytte er:
 
 Hvor:
 * **Fri egenkapital** = Total egenkapital - Bundet egenkapital
-* **Soliditetskrav** = Minimum egenkapital som mÃ¥ beholdes
+* **Soliditetskrav** = Minimum egenkapital som må beholdes
 
 ### Detaljert Beregningsmetode
 
-| Komponent | Beskrivelse | BelÃ¸p |
+| Komponent | Beskrivelse | Beløp |
 |-----------|-------------|-------|
 | **Total egenkapital** | Sum av all egenkapital | XXX |
-| **Minus: Aksjekapital** | LovpÃ¥lagt minimum | (XXX) |
+| **Minus: Aksjekapital** | Lovpålagt minimum | (XXX) |
 | **Minus: Overkursfond** | Bundet egenkapital | (XXX) |
-| **Minus: LovpÃ¥lagt reservefond** | 10% av aksjekapital | (XXX) |
-| **Minus: Annen bundet egenkapital** | Vedtektsfestet eller lovpÃ¥lagt | (XXX) |
+| **Minus: Lovpålagt reservefond** | 10% av aksjekapital | (XXX) |
+| **Minus: Annen bundet egenkapital** | Vedtektsfestet eller lovpålagt | (XXX) |
 | **= Fri egenkapital** | Tilgjengelig for utdeling | XXX |
 | **Minus: Soliditetsbuffer** | Sikkerhetsmarginal | (XXX) |
-| **= Maskimalt utbytte** | **Maksimalt utdelingsbelÃ¸p** | **XXX** |
+| **= Maskimalt utbytte** | **Maksimalt utdelingsbeløp** | **XXX** |
 
 ![Detaljert beregning av maskimalt utbytte](beregning-maskimalt-utbytte.svg)
 
-## Faktorer som PÃ¥virker Maskimalt Utbytte
+## Faktorer som Påvirker Maskimalt Utbytte
 
 ### Bundet Egenkapital
 
 **Bundet egenkapital** kan ikke deles ut som utbytte og omfatter:
 
-* **Aksjekapital** - lovpÃ¥lagt minimum 30 000 kr for AS
-* **Overkursfond** - innbetalt belÃ¸p utover pÃ¥lydende
-* **LovpÃ¥lagt reservefond** - minimum 10% av aksjekapitalen
+* **Aksjekapital** - lovpålagt minimum 30 000 kr for AS
+* **Overkursfond** - innbetalt beløp utover pålydende
+* **Lovpålagt reservefond** - minimum 10% av aksjekapitalen
 * **Vedtektsfestet reservefond** - hvis fastsatt i vedtektene
 * **Oppskrivningsfond** - fra oppskrivning av [anleggsmidler](/blogs/regnskap/hva-er-anleggsmidler "Hva er Anleggsmidler? Komplett Guide til Anleggsmidler i Regnskap")
 
 ### Soliditetskrav
 
-Selskapet mÃ¥ opprettholde **tilstrekkelig soliditet** for Ã¥:
+Selskapet må opprettholde **tilstrekkelig soliditet** for å:
 
 * Dekke fremtidige [kostnader](/blogs/regnskap/hva-er-kostnader "Hva er Kostnader? Komplett Guide til Kostnader i Regnskap") og forpliktelser
-* HÃ¥ndtere uforutsette tap
+* Håndtere uforutsette tap
 * Opprettholde [likviditet](/blogs/regnskap/hva-er-likviditet "Hva er Likviditet? Komplett Guide til Likviditet og Likviditetsstyring")
 * Sikre fortsatt drift
 
 ### Regnskapsmessige Hensyn
 
-Ved beregning av maskimalt utbytte mÃ¥ fÃ¸lgende regnskapsmessige forhold vurderes:
+Ved beregning av maskimalt utbytte må følgende regnskapsmessige forhold vurderes:
 
-* **Ã…rsresultat** og dets pÃ¥virkning pÃ¥ egenkapitalen
-* **BalansefÃ¸rte verdier** vs. virkelige verdier
+* **Årsresultat** og dets påvirkning på egenkapitalen
+* **Balanseførte verdier** vs. virkelige verdier
 * **Avsetninger** for fremtidige forpliktelser
 * **Usikre poster** i regnskapet
 
-![Faktorer som pÃ¥virker maskimalt utbytte](faktorer-maskimalt-utbytte.svg)
+![Faktorer som påvirker maskimalt utbytte](faktorer-maskimalt-utbytte.svg)
 
-## Praktisk Eksempel pÃ¥ Beregning
+## Praktisk Eksempel på Beregning
 
 ### Eksempel: AS Nordlys
 
-La oss se pÃ¥ et praktisk eksempel med AS Nordlys:
+La oss se på et praktisk eksempel med AS Nordlys:
 
 #### Balanseopplysninger (31.12.2023)
 
-| Post | BelÃ¸p (NOK) |
+| Post | Beløp (NOK) |
 |------|-------------|
 | **Total egenkapital** | 2 500 000 |
 | **Aksjekapital** | 100 000 |
 | **Overkursfond** | 200 000 |
-| **LovpÃ¥lagt reservefond** | 10 000 |
+| **Lovpålagt reservefond** | 10 000 |
 | **Annen egenkapital** | 2 190 000 |
 
 #### Beregning av Maskimalt Utbytte
@@ -120,7 +120,7 @@ Fri egenkapital:
 Total egenkapital:           2 500 000
 - Aksjekapital:               (100 000)
 - Overkursfond:               (200 000)
-- LovpÃ¥lagt reservefond:       (10 000)
+- Lovpålagt reservefond:       (10 000)
 = Fri egenkapital:           2 190 000
 
 Soliditetsvurdering:
@@ -131,15 +131,15 @@ Fri egenkapital:             2 190 000
 
 **Konklusjon**: AS Nordlys kan maksimalt dele ut **1 971 000 kr** i utbytte.
 
-![Praktisk eksempel pÃ¥ utbytteberegning](eksempel-utbytteberegning.svg)
+![Praktisk eksempel på utbytteberegning](eksempel-utbytteberegning.svg)
 
-## SÃ¦rlige Regler og Unntak
+## Særlige Regler og Unntak
 
 ### Nyetablerte Selskaper
 
 For **nyetablerte selskaper** gjelder spesielle regler:
 
-* Ingen utbytte fÃ¸rste driftsÃ¥r uten sÃ¦rskilt vurdering
+* Ingen utbytte første driftsår uten særskilt vurdering
 * Ekstra forsiktighet ved vurdering av soliditet
 * Krav om oppbygging av [arbeidskapital](/blogs/regnskap/hva-er-arbeidskapital "Hva er Arbeidskapital? Komplett Guide til Arbeidskapital og Likviditetsstyring")
 
@@ -149,17 +149,17 @@ Selskaper med **finansielle utfordringer** har strengere begrensninger:
 
 * Forbud mot utbytte ved **negativ egenkapital**
 * Ekstra soliditetskrav ved lav egenkapitalandel
-* Krav om **rekapitalisering** fÃ¸r utbytteutdeling
+* Krav om **rekapitalisering** før utbytteutdeling
 
 ### Konsernforhold
 
-I **konsernselskaper** mÃ¥ fÃ¸lgende vurderes:
+I **konsernselskaper** må følgende vurderes:
 
 * [Konsernbidrag](/blogs/regnskap/hva-er-konsernbidrag "Hva er Konsernbidrag? Komplett Guide til Konsernbidrag og Skatteoptimalisering") vs. utbytte
 * Konsolideringshensyn
-* MinoritetsaksjonÃ¦rers rettigheter
+* Minoritetsaksjonærers rettigheter
 
-![SÃ¦rlige regler for utbytteutdeling](saerlige-regler-utbytte.svg)
+![Særlige regler for utbytteutdeling](saerlige-regler-utbytte.svg)
 
 ## Prosess for Utbytteutdeling
 
@@ -167,23 +167,23 @@ I **konsernselskaper** mÃ¥ fÃ¸lgende vurderes:
 
 **Styret** har ansvar for:
 
-* Vurdere selskapets **Ã¸konomiske situasjon**
+* Vurdere selskapets **økonomiske situasjon**
 * Beregne maskimalt utbytte
-* ForeslÃ¥ utbytteutdeling til generalforsamlingen
+* Foreslå utbytteutdeling til generalforsamlingen
 * Sikre at utdelingen ikke setter selskapet i fare
 
 ### Generalforsamlingens Vedtak
 
-**Generalforsamlingen** mÃ¥:
+**Generalforsamlingen** må:
 
-* Vedta Ã¥rsregnskapet
-* Beslutte utbytteutdeling basert pÃ¥ styrets forslag
+* Vedta årsregnskapet
+* Beslutte utbytteutdeling basert på styrets forslag
 * Ikke overstige maskimalt utbytte
 * Fastsette utbetalingsdato
 
 ### Dokumentasjon og Rapportering
 
-FÃ¸lgende dokumentasjon kreves:
+Følgende dokumentasjon kreves:
 
 * **Styreprotokoll** med utbyttevurdering
 * **Generalforsamlingsprotokoll** med vedtak
@@ -196,27 +196,27 @@ FÃ¸lgende dokumentasjon kreves:
 
 ### For Selskapet
 
-Utbytteutdeling har fÃ¸lgende skattemessige konsekvenser for selskapet:
+Utbytteutdeling har følgende skattemessige konsekvenser for selskapet:
 
 * **Ingen fradragsrett** for utbetalt utbytte
 * Utbytte utbetales av **beskattede midler**
-* PÃ¥virker ikke selskapets **skattepliktige inntekt**
+* Påvirker ikke selskapets **skattepliktige inntekt**
 
-### For AksjonÃ¦rene
+### For Aksjonærene
 
-AksjonÃ¦rene mÃ¥ forholde seg til:
+Aksjonærene må forholde seg til:
 
-* [**Utbytteskatt**](/blogs/regnskap/skatt-pa-utbytte "Skatt pÃ¥ utbytte “ Guide til beskatning av utbytte i Norge") pÃ¥ mottatt utbytte
-* **Skjermingsrente** for personlige aksjonÃ¦rer
-* **Fritaksmetoden** for selskapsaksjonÃ¦rer
-* **Kildeskatt** for utenlandske aksjonÃ¦rer
+* [**Utbytteskatt**](/blogs/regnskap/skatt-pa-utbytte "Skatt på utbytte “ Guide til beskatning av utbytte i Norge") på mottatt utbytte
+* **Skjermingsrente** for personlige aksjonærer
+* **Fritaksmetoden** for selskapsaksjonærer
+* **Kildeskatt** for utenlandske aksjonærer
 
 ### Skatteoptimalisering
 
 Strategier for skatteoptimal utbytteutdeling:
 
 * **Timing** av utbytteutdeling
-* **Kombinasjon** med lÃ¸nn og andre ytelser
+* **Kombinasjon** med lønn og andre ytelser
 * **Reinvestering** vs. utdeling
 * **Holdingselskap**-strukturer
 
@@ -224,18 +224,18 @@ Strategier for skatteoptimal utbytteutdeling:
 
 ## Risikofaktorer og Forsiktighetsregler
 
-### Ã˜konomiske Risikofaktorer
+### Økonomiske Risikofaktorer
 
-Ved vurdering av maskimalt utbytte mÃ¥ fÃ¸lgende risikofaktorer vurderes:
+Ved vurdering av maskimalt utbytte må følgende risikofaktorer vurderes:
 
 * **Konjunktursvingninger** og markedsrisiko
-* **Likviditetsrisiko** og [kontantstrÃ¸m](/blogs/regnskap/hva-er-kontantstrom "Hva er KontantstrÃ¸m? Komplett Guide til KontantstrÃ¸manalyse")
-* **Kredittrisiko** fra kunder og [debitorer](/blogs/regnskap/hva-er-debitor "Hva er en Debitor? Komplett Guide til DebitorhÃ¥ndtering")
+* **Likviditetsrisiko** og [kontantstrøm](/blogs/regnskap/hva-er-kontantstrom "Hva er Kontantstrøm? Komplett Guide til Kontantstrømanalyse")
+* **Kredittrisiko** fra kunder og [debitorer](/blogs/regnskap/hva-er-debitor "Hva er en Debitor? Komplett Guide til Debitorhåndtering")
 * **Operasjonell risiko** i virksomheten
 
 ### Forsiktighetsregler
 
-**Forsiktighetsprinsippet** tilsier at selskaper bÃ¸r:
+**Forsiktighetsprinsippet** tilsier at selskaper bør:
 
 * Beholde en **sikkerhetsbuffer** utover minimumskravene
 * Vurdere **fremtidige investeringsbehov**
@@ -247,9 +247,9 @@ Ved vurdering av maskimalt utbytte mÃ¥ fÃ¸lgende risikofaktorer vurderes:
 Styremedlemmer kan bli **personlig ansvarlige** hvis:
 
 * Utbytte deles ut i strid med loven
-* Selskapet blir **insolvent** som fÃ¸lge av utdelingen
+* Selskapet blir **insolvent** som følge av utdelingen
 * **Kreditorers interesser** skades
-* Reglene for maskimalt utbytte ikke fÃ¸lges
+* Reglene for maskimalt utbytte ikke følges
 
 ![Risikofaktorer ved utbytteutdeling](risikofaktorer-utbytte.svg)
 
@@ -264,18 +264,18 @@ For selskaper med **internasjonal virksomhet** gjelder:
 * **Kildeskatteregler** mellom EU-land
 * **Rapporteringskrav** til utenlandske myndigheter
 
-### Utenlandske AksjonÃ¦rer
+### Utenlandske Aksjonærer
 
-Spesielle hensyn for **utenlandske aksjonÃ¦rer**:
+Spesielle hensyn for **utenlandske aksjonærer**:
 
-* **Kildeskatt** pÃ¥ utbetalt utbytte
+* **Kildeskatt** på utbetalt utbytte
 * **Skatteavtaler** som kan redusere skatten
 * **Dokumentasjonskrav** for skattefritak
 * **Valutarisiko** ved utbetaling
 
 ### Transfer Pricing
 
-I **konsernforhold** mÃ¥ vurderes:
+I **konsernforhold** må vurderes:
 
 * **Armlengdeprinsippet** for utbytteutdeling
 * **Dokumentasjon** av kommersielle forhold
@@ -284,45 +284,45 @@ I **konsernforhold** mÃ¥ vurderes:
 
 ![Internasjonale forhold ved utbytte](internasjonale-forhold-utbytte.svg)
 
-## Praktiske RÃ¥d og Anbefalinger
+## Praktiske Råd og Anbefalinger
 
-### For SmÃ¥ og Mellomstore Bedrifter
+### For Små og Mellomstore Bedrifter
 
-**SMB-selskaper** bÃ¸r:
+**SMB-selskaper** bør:
 
-* Utarbeide **Ã¥rlig utbyttestrategi**
-* Konsultere [regnskapsfÃ¸rer](/blogs/regnskap/hva-er-en-regnskapsforer "Hva er en RegnskapsfÃ¸rer? Komplett Guide til RegnskapsfÃ¸ring") eller revisor
-* Vurdere **likviditetsbehov** fÃ¸r utdeling
+* Utarbeide **årlig utbyttestrategi**
+* Konsultere [regnskapsfører](/blogs/regnskap/hva-er-en-regnskapsforer "Hva er en Regnskapsfører? Komplett Guide til Regnskapsføring") eller revisor
+* Vurdere **likviditetsbehov** før utdeling
 * Dokumentere alle **styrevurderinger**
 
 ### For Vekstselskaper
 
-**Vekstselskaper** mÃ¥ balansere:
+**Vekstselskaper** må balansere:
 
 * **Reinvestering** i virksomheten
-* **AksjonÃ¦renes avkastningsforventninger**
+* **Aksjonærenes avkastningsforventninger**
 * **Fremtidig finansieringsbehov**
 * **Markedets verdsettelse** av selskapet
 
 ### For Familieselskaper
 
-**Familieselskaper** har sÃ¦rlige hensyn:
+**Familieselskaper** har særlige hensyn:
 
 * **Generasjonsskifte** og arveplanlegging
-* **Familiemedlemmers** ulike Ã¸konomiske behov
+* **Familiemedlemmers** ulike økonomiske behov
 * **Selskapets langsiktige** interesser
 * **Konfliktforebygging** mellom familiemedlemmer
 
-### Digitale VerktÃ¸y
+### Digitale Verktøy
 
-Moderne verktÃ¸y for utbytteberegning:
+Moderne verktøy for utbytteberegning:
 
 * **Regnskapssystemer** med innebygde beregninger
 * **Skatteberegningsprogrammer**
 * **Juridiske databaser** med oppdaterte regler
-* **RevisjonsverktÃ¸y** for dokumentasjon
+* **Revisjonsverktøy** for dokumentasjon
 
-![Praktiske rÃ¥d for utbytteutdeling](praktiske-raad-utbytte.svg)
+![Praktiske råd for utbytteutdeling](praktiske-raad-utbytte.svg)
 
 ## Fremtidige Utviklingstrekk
 
@@ -331,54 +331,58 @@ Moderne verktÃ¸y for utbytteberegning:
 Forventede endringer i regelverket:
 
 * **Strengere soliditetskrav** for enkelte bransjer
-* **Ã˜kt fokus** pÃ¥ bÃ¦rekraft og ESG-faktorer
+* **Økt fokus** på bærekraft og ESG-faktorer
 * **Digitalisering** av rapportering og kontroll
 * **Harmonisering** med EU-regelverk
 
 ### Teknologiske Utviklinger
 
-Teknologi pÃ¥virker utbyttehÃ¥ndtering:
+Teknologi påvirker utbyttehåndtering:
 
 * **Automatiserte beregninger** i regnskapssystemer
 * **Blockchain-baserte** utbyttebetalinger
-* **AI-stÃ¸ttet** risikovurdering
+* **AI-støttet** risikovurdering
 * **Sanntids-rapportering** til myndigheter
 
 ### Markedstrender
 
 Utviklingstrekk i markedet:
 
-* **Ã˜kt fokus** pÃ¥ utbyttepolitikk
-* **BÃ¦rekraftige** investeringsstrategier
-* **Aktivistiske aksjonÃ¦rer** som krever utbytte
+* **Økt fokus** på utbyttepolitikk
+* **Bærekraftige** investeringsstrategier
+* **Aktivistiske aksjonærer** som krever utbytte
 * **Alternative** finansieringsformer
 
 ![Fremtidige utviklingstrekk for utbytte](fremtid-utbytte.svg)
 
 ## Konklusjon
 
-**Maskimalt utbytte** er et komplekst regnskapsmessig og juridisk begrep som krever grundig forstÃ¥else av:
+**Maskimalt utbytte** er et komplekst regnskapsmessig og juridisk begrep som krever grundig forståelse av:
 
 * **Juridiske rammer** i aksjeloven
 * **Regnskapsmessige prinsipper** og beregningsmetoder
-* **Skattemessige konsekvenser** for selskap og aksjonÃ¦rer
+* **Skattemessige konsekvenser** for selskap og aksjonærer
 * **Praktiske hensyn** ved utbytteutdeling
 
-Korrekt beregning og hÃ¥ndtering av maskimalt utbytte er avgjÃ¸rende for:
+Korrekt beregning og håndtering av maskimalt utbytte er avgjørende for:
 
-* **Ã… overholde** lovens krav
-* **Ã… beskytte** kreditorers interesser
-* **Ã… optimalisere** aksjonÃ¦renes avkastning
-* **Ã… sikre** selskapets langsiktige stabilitet
+* **Å overholde** lovens krav
+* **Å beskytte** kreditorers interesser
+* **Å optimalisere** aksjonærenes avkastning
+* **Å sikre** selskapets langsiktige stabilitet
 
-For Ã¥ sikre korrekt hÃ¥ndtering anbefales det Ã¥:
+For å sikre korrekt håndtering anbefales det å:
 
-* **Konsultere** kvalifiserte rÃ¥dgivere
+* **Konsultere** kvalifiserte rådgivere
 * **Dokumentere** alle vurderinger og beslutninger
-* **FÃ¸lge** utviklingen i regelverk og praksis
-* **Implementere** gode rutiner for utbyttehÃ¥ndtering
+* **Følge** utviklingen i regelverk og praksis
+* **Implementere** gode rutiner for utbyttehåndtering
 
-Ved Ã¥ fÃ¸lge disse prinsippene kan selskaper sikre at utbytteutdelingen skjer pÃ¥ en **lovlig**, **forsvarlig** og **optimal** mÃ¥te som ivaretar alle interessenters behov.
+Ved å følge disse prinsippene kan selskaper sikre at utbytteutdelingen skjer på en **lovlig**, **forsvarlig** og **optimal** måte som ivaretar alle interessenters behov.
+
+
+
+
 
 
 

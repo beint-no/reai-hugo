@@ -1,56 +1,60 @@
 ﻿---
-title: "Ã…rsverk"
-meta_title: "Ã…rsverk"
-meta_description: 'Ã…rsverk er et mÃ¥l pÃ¥ arbeidsinnsats som gjÃ¸r det mulig Ã¥ sammenligne ulike arbeidsforhold og stillingsprosenter i Ã©n enhet. I norsk regnskap og rapporteri...'
+title: "Årsverk"
+meta_title: "Årsverk"
+meta_description: 'Årsverk er et mål på arbeidsinnsats som gjør det mulig å sammenligne ulike arbeidsforhold og stillingsprosenter i én enhet. I norsk regnskap og rapporteri...'
 slug: arsverk
 type: blog
 layout: pages/single
 ---
 
-Ã…rsverk er et mÃ¥l pÃ¥ arbeidsinnsats som gjÃ¸r det mulig Ã¥ sammenligne ulike arbeidsforhold og stillingsprosenter i Ã©n enhet. I norsk regnskap og rapportering brukes Ã¥rsverk blant annet for Ã¥ definere terskelverdier for smÃ¥ foretak, revisjonsplikt og budsjettering av personalkostnader.
+Årsverk er et mål på arbeidsinnsats som gjør det mulig å sammenligne ulike arbeidsforhold og stillingsprosenter i én enhet. I norsk regnskap og rapportering brukes årsverk blant annet for å definere terskelverdier for små foretak, revisjonsplikt og budsjettering av personalkostnader.
 
-![Ã…rsverk](arsverk-image.svg)
+![Årsverk](arsverk-image.svg)
 
-## Definisjon av Ã¥rsverk
+## Definisjon av årsverk
 
-Et **Ã¥rsverk** representerer den totale arbeidsmengden en heltidsansatt leverer i lÃ¸pet av ett Ã¥r. Ã…rsverk beregnes ved Ã¥ summere alle arbeidede timer i en periode og dividere pÃ¥ normert antall timer for Ã©n fulltidsstilling.
+Et **årsverk** representerer den totale arbeidsmengden en heltidsansatt leverer i løpet av ett år. Årsverk beregnes ved å summere alle arbeidede timer i en periode og dividere på normert antall timer for én fulltidsstilling.
 
-## Beregning av Ã¥rsverk
+## Beregning av årsverk
 
-For Ã¥ beregne antall Ã¥rsverk benyttes formelen:
+For å beregne antall årsverk benyttes formelen:
 
 ```
-Ã…rsverk = Antall arbeidede timer totalt / Normert Ã¥rsverktimer
+Årsverk = Antall arbeidede timer totalt / Normert årsverktimer
 ```
 
-| Normert Ã¥rsverk (timer)   | Beskrivelse                     |
+| Normert årsverk (timer)   | Beskrivelse                     |
 |----------------------------|---------------------------------|
-| 1,0 Ã¥rsverk = 1950 timer   | Ã‰n fulltidsansatt               |
-| 0,5 Ã¥rsverk = 975 timer    | Ã‰n deltidsansatt (50â€¯%)         |
+| 1,0 årsverk = 1950 timer   | Ã‰n fulltidsansatt               |
+| 0,5 årsverk = 975 timer    | Ã‰n deltidsansatt (50–¯%)         |
 
-## BruksomrÃ¥der i regnskap og rapportering
+## Bruksområder i regnskap og rapportering
 
-Ã…rsverk er et sentralt nÃ¸kkeltall som pÃ¥virker flere lovpÃ¥lagte krav og finansiell planlegging:
+Årsverk er et sentralt nøkkeltall som påvirker flere lovpålagte krav og finansiell planlegging:
 
-| Regelverk / Konsept                                                                 | Ã…rsverk-grense                                                 |
+| Regelverk / Konsept                                                                 | Årsverk-grense                                                 |
 |-------------------------------------------------------------------------------------|-----------------------------------------------------------------|
-| **[SmÃ¥ Foretak](/blogs/regnskap/sma-foretak "SmÃ¥ Foretak “ Kriterier, Regnskapsstandard og Forenklinger")**             | Under 50 [Ã¥rsverk](/blogs/regnskap/arsverk "Ã…rsverk")         |
-| **[Revisjonsplikt](/blogs/regnskap/revisjonsplikt "Revisjonsplikt “ Alt du trenger Ã¥ vite om Revisjonsplikt i Norge")** | Mer enn 20 [Ã¥rsverk](/blogs/regnskap/arsverk "Ã…rsverk")       |
-| **[Eksternregnskap](/blogs/regnskap/hva-er-eksternregnskap "Hva er Eksternregnskap? Komplett Guide til Ekstern Finansiell Rapportering")** | Over 50 [Ã¥rsverk](/blogs/regnskap/arsverk "Ã…rsverk")        |
-| **[CSRD](/blogs/regnskap/hva-er-csrd "Hva er CSRD? Guide til bÃ¦rekraftsrapportering (CSRD) i Norge")**             | 1“3 [Ã¥rsverk](/blogs/regnskap/arsverk "Ã…rsverk") for lÃ¸pende drift |
+| **[Små Foretak](/blogs/regnskap/sma-foretak "Små Foretak “ Kriterier, Regnskapsstandard og Forenklinger")**             | Under 50 [årsverk](/blogs/regnskap/arsverk "Årsverk")         |
+| **[Revisjonsplikt](/blogs/regnskap/revisjonsplikt "Revisjonsplikt “ Alt du trenger å vite om Revisjonsplikt i Norge")** | Mer enn 20 [årsverk](/blogs/regnskap/arsverk "Årsverk")       |
+| **[Eksternregnskap](/blogs/regnskap/hva-er-eksternregnskap "Hva er Eksternregnskap? Komplett Guide til Ekstern Finansiell Rapportering")** | Over 50 [årsverk](/blogs/regnskap/arsverk "Årsverk")        |
+| **[CSRD](/blogs/regnskap/hva-er-csrd "Hva er CSRD? Guide til bærekraftsrapportering (CSRD) i Norge")**             | 1“3 [årsverk](/blogs/regnskap/arsverk "Årsverk") for løpende drift |
 
 ## Praktiske eksempler
 
-* En bedrift med to fulltidsansatte og Ã©n som jobber 50â€¯% har totalt **2,5 Ã¥rsverk**.
-* Dersom en arbeidstaker jobber 1000 timer i lÃ¸pet av Ã¥ret, utgjÃ¸r det cirka **0,51 Ã¥rsverk** (1000/1950).
+* En bedrift med to fulltidsansatte og én som jobber 50–¯% har totalt **2,5 årsverk**.
+* Dersom en arbeidstaker jobber 1000 timer i løpet av året, utgjør det cirka **0,51 årsverk** (1000/1950).
 
 ## Oppsummering
 
-Ã…rsverk er en viktig mÃ¥leenhet i norsk regnskap for Ã¥ standardisere arbeidsinnsats og sikre korrekt rapportering. Ved Ã¥ forstÃ¥ definisjon, beregning og bruksomrÃ¥der kan virksomheter bedre planlegge bemanning, budsjettere personalkostnader og overholde lovpÃ¥lagte terskelverdier, for eksempel for smÃ¥ foretak og revisjonsplikt.
+Årsverk er en viktig måleenhet i norsk regnskap for å standardisere arbeidsinnsats og sikre korrekt rapportering. Ved å forstå definisjon, beregning og bruksområder kan virksomheter bedre planlegge bemanning, budsjettere personalkostnader og overholde lovpålagte terskelverdier, for eksempel for små foretak og revisjonsplikt.
 
 ```{.hint}
-Dersom du vil lÃ¦re mer om **Ã¥rsverk** i sammenheng med andre regnskapskrav, se artiklene om [SmÃ¥ Foretak](/blogs/regnskap/sma-foretak "SmÃ¥ Foretak “ Kriterier, Regnskapsstandard og Forenklinger") og [Revisjonsplikt](/blogs/regnskap/revisjonsplikt "Revisjonsplikt “ Alt du trenger Ã¥ vite om Revisjonsplikt i Norge").
+Dersom du vil lære mer om **årsverk** i sammenheng med andre regnskapskrav, se artiklene om [Små Foretak](/blogs/regnskap/sma-foretak "Små Foretak “ Kriterier, Regnskapsstandard og Forenklinger") og [Revisjonsplikt](/blogs/regnskap/revisjonsplikt "Revisjonsplikt “ Alt du trenger å vite om Revisjonsplikt i Norge").
 ```
+
+
+
+
 
 
 

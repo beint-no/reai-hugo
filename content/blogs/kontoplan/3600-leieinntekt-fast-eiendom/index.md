@@ -1,19 +1,19 @@
 ﻿---
 title: "Konto 3600 - Leieinntekt fast eiendom"
 meta_title: "3600-leieinntekt-fast-eiendom"
-meta_description: '**Konto 3600 - Leieinntekt fast eiendom** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **leieinntekter** fra **fast eiendom**.'
+meta_description: '**Konto 3600 - Leieinntekt fast eiendom** er en konto i Norsk Standard Kontoplan som brukes til å registrere **leieinntekter** fra **fast eiendom**.'
 slug: 3600-leieinntekt-fast-eiendom
 type: blog
 layout: pages/single
 ---
 
-**Konto 3600 - Leieinntekt fast eiendom** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **leieinntekter** fra **fast eiendom**.
+**Konto 3600 - Leieinntekt fast eiendom** er en konto i Norsk Standard Kontoplan som brukes til å registrere **leieinntekter** fra **fast eiendom**.
 
 ![Illustrasjon av konto 3600 Leieinntekt fast eiendom](3600-leieinntekt-fast-eiendom-image.svg)
 
 ## Hva er Leieinntekt fast eiendom?
 
-*Leieinntekt fast eiendom* omfatter inntekter fra utleie av fast eiendom, som boliger, nÃ¦ringslokaler og parkeringsplasser.
+*Leieinntekt fast eiendom* omfatter inntekter fra utleie av fast eiendom, som boliger, næringslokaler og parkeringsplasser.
 
 | Konto | Beskrivelse                   | MVA-sats |
 |-------|-------------------------------|----------|
@@ -21,9 +21,9 @@ layout: pages/single
 
 ![Avgiftsfri MVA-sats: 0 %](3600-mva-avgiftsfri.svg)
 
-## RegnskapsfÃ¸ring
+## Regnskapsføring
 
-RegnskapsfÃ¸ring av leieinntekter skal fÃ¸lge **inntektsfÃ¸ringsprinsippet** og skille mellom netto leieinntekt og eventuelle kostnader.
+Regnskapsføring av leieinntekter skal følge **inntektsføringsprinsippet** og skille mellom netto leieinntekt og eventuelle kostnader.
 
 | Transaksjon                          | Debet                              | Kredit                             |
 |--------------------------------------|------------------------------------|------------------------------------|
@@ -32,7 +32,7 @@ RegnskapsfÃ¸ring av leieinntekter skal fÃ¸lge **inntektsfÃ¸ringsprinsippet
 
 ## Vurdering og rapportering
 
-Leieinntekter rapporteres netto og fÃ¸res i resultatregnskapet under driftsinntekter. Korrekt periodisering og rapportering av leieinntekter er avgjÃ¸rende for **nÃ¸yaktig regnskapsanalyse**.
+Leieinntekter rapporteres netto og føres i resultatregnskapet under driftsinntekter. Korrekt periodisering og rapportering av leieinntekter er avgjørende for **nøyaktig regnskapsanalyse**.
 
 ## Intern lenking og relaterte kontoer
 
@@ -42,4 +42,9 @@ Leieinntekter rapporteres netto og fÃ¸res i resultatregnskapet under driftsinn
 * [Hva er Driftsinntekter?](/blogs/regnskap/hva-er-driftsinntekter "Hva er Driftsinntekter? Komplett Guide til Driftsinntekter i Regnskap")
 * [Hva er Omsetning?](/blogs/regnskap/hva-er-omsetning "Hva er Omsetning? Komplett Guide til Omsetning i Regnskap og Skatt")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+
+
+
+
+
 

@@ -9,7 +9,7 @@ layout: pages/single
 
 ![Trinnskatt](trinnskatt-image.svg)
 
-**Trinnskatt** er en progressiv skatt som beregnes pÃ¥ personinntekt etter fastsatte inntektstrinn. Denne artikkelen gir en detaljert gjennomgang av **trinnskattesystemet** i Norge, inkludert satser, beregningsmetode og praktiske eksempler for bÃ¥de privatpersoner og bedrifter.
+**Trinnskatt** er en progressiv skatt som beregnes på personinntekt etter fastsatte inntektstrinn. Denne artikkelen gir en detaljert gjennomgang av **trinnskattesystemet** i Norge, inkludert satser, beregningsmetode og praktiske eksempler for både privatpersoner og bedrifter.
 
 For en overordnet introduksjon til *marginalskatt*, se [Hva er Marginalskatt?](/blogs/regnskap/hva-er-marginalskatt "Hva er Marginalskatt? Komplett Guide til Marginalskatt i Norge").
 
@@ -23,26 +23,26 @@ For en overordnet introduksjon til *marginalskatt*, se [Hva er Marginalskatt?](/
 | **Trinn 4**   | 937Â 901Â “Â 1Â 350Â 000Â kr       | 16,4 %          |
 | **Trinn 5**   | OverÂ 1Â 350Â 000Â kr            | 17,4 %          |
 
-*Satser for inntektsÃ¥ret 2024.*
+*Satser for inntektsåret 2024.*
 
 ## Beregning av trinnskatt
 
-For Ã¥ beregne trinnskatt fÃ¸lger du disse trinnene:
+For å beregne trinnskatt følger du disse trinnene:
 
 1. Identifiser hvilket inntektstrinn du befinner deg i.
-2. Beregn trinnskatt ved Ã¥ multiplisere netto personinntekt innen hvert trinn med gjeldende sats.
+2. Beregn trinnskatt ved å multiplisere netto personinntekt innen hvert trinn med gjeldende sats.
 3. Summer trinnskatten for alle trinn.
-4. Legg til Ã¸vrige skatter som kommunal- og fylkesskatt for total marginalskatt.
+4. Legg til øvrige skatter som kommunal- og fylkesskatt for total marginalskatt.
 
 ## Praktiske eksempler
 
-### Eksempel 1: Ã…rsinntekt pÃ¥ 500Â 000Â kr
+### Eksempel 1: Årsinntekt på 500Â 000Â kr
 
 - **Trinn 1**: 0Â kr innenfor trinn 1 (under nedre grense)
 - **Trinn 2**: (500Â 000Â krÂ “Â 292Â 851Â kr)Â Ã—Â 4,0Â %Â =Â 8Â 685,96Â kr
 - **Total trinnskatt**: 8Â 685,96Â kr
 
-### Eksempel 2: Ã…rsinntekt pÃ¥ 1Â 200Â 000Â kr
+### Eksempel 2: Årsinntekt på 1Â 200Â 000Â kr
 
 - **Trinn 1**: (292Â 850Â krÂ “Â 208Â 051Â kr)Â Ã—Â 1,7Â %Â =Â 1Â 456,70Â kr
 - **Trinn 2**: (670Â 000Â krÂ “Â 292Â 850Â kr)Â Ã—Â 4,0Â %Â =Â 15Â 286Â kr
@@ -52,26 +52,30 @@ For Ã¥ beregne trinnskatt fÃ¸lger du disse trinnene:
 
 ## Regnskapsmessig behandling
 
-I regnskapet bÃ¸r trinnskatt:
+I regnskapet bør trinnskatt:
 
 * Periodiseres som en del av personalkostnadene.
-* BokfÃ¸res som en avsetning under skatt og avgift.
+* Bokføres som en avsetning under skatt og avgift.
 * Motposteres mot forskuddstrekk og annen skattebetaling.
 
 ## Tips for skatteoptimalisering
 
 * **Pensjonssparing**: Reduserer skattepliktig inntekt.
-* **BSU**: Gir skattefradrag pÃ¥ inntil 25Â 000Â kr per Ã¥r.
+* **BSU**: Gir skattefradrag på inntil 25Â 000Â kr per år.
 * **Frivillige innskudd**: Reduserer nettoinntekt og trinnskatt.
-* **Timing av inntekter**: Flytt inntektsfÃ¸ringer til lavere inntektsÃ¥r.
+* **Timing av inntekter**: Flytt inntektsføringer til lavere inntektsår.
 
 ## Videre lesning
 
-Se ogsÃ¥ vÃ¥re artikler om:
+Se også våre artikler om:
 
 * [Skatteberegning](/blogs/regnskap/skatteberegning "Skatteberegning “ Komplett Guide til Skatteberegning").
 * [Hva er Marginalskatt?](/blogs/regnskap/hva-er-marginalskatt "Hva er Marginalskatt? Komplett Guide til Marginalskatt i Norge").
 * [Hva er Fradrag?](/blogs/regnskap/hva-er-fradrag "Hva er Fradrag? Komplett Guide til Skattefradrag i Norge").
+
+
+
+
 
 
 

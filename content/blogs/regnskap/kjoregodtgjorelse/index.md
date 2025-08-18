@@ -1,72 +1,72 @@
 ﻿---
-title: "KjÃ¸regodtgjÃ¸relse"
-meta_title: "KjÃ¸regodtgjÃ¸relse"
-meta_description: '**KjÃ¸regodtgjÃ¸relse** er en **skattefri godtgjÃ¸relse per kilometer** for bruk av privatbil ved tjeneste- og yrkesrelatert kjÃ¸ring. Riktig dokumentasjon og r...'
+title: "Kjøregodtgjørelse"
+meta_title: "Kjøregodtgjørelse"
+meta_description: '**Kjøregodtgjørelse** er en **skattefri godtgjørelse per kilometer** for bruk av privatbil ved tjeneste- og yrkesrelatert kjøring. Riktig dokumentasjon og r...'
 slug: kjoregodtgjorelse
 type: blog
 layout: pages/single
 ---
 
-**KjÃ¸regodtgjÃ¸relse** er en **skattefri godtgjÃ¸relse per kilometer** for bruk av privatbil ved tjeneste- og yrkesrelatert kjÃ¸ring. Riktig dokumentasjon og regnskapsfÃ¸ring av kjÃ¸regodtgjÃ¸relse sikrer korrekt skattefradrag og compliance med norske regler.
+**Kjøregodtgjørelse** er en **skattefri godtgjørelse per kilometer** for bruk av privatbil ved tjeneste- og yrkesrelatert kjøring. Riktig dokumentasjon og regnskapsføring av kjøregodtgjørelse sikrer korrekt skattefradrag og compliance med norske regler.
 
-![Overblikk over KjÃ¸regodtgjÃ¸relse](kjoregodtgjorelse-image.svg)
+![Overblikk over Kjøregodtgjørelse](kjoregodtgjorelse-image.svg)
 
-## Hva er kjÃ¸regodtgjÃ¸relse?
+## Hva er kjøregodtgjørelse?
 
-**KjÃ¸regodtgjÃ¸relse** kompenserer ansatte eller selvstendig nÃ¦ringsdrivende for kostnader knyttet til bruk av privat bil i tjeneste. GodtgjÃ¸relsen fastsettes som et belÃ¸p per kilometer i henhold til Skatteetatens satser.
+**Kjøregodtgjørelse** kompenserer ansatte eller selvstendig næringsdrivende for kostnader knyttet til bruk av privat bil i tjeneste. Godtgjørelsen fastsettes som et beløp per kilometer i henhold til Skatteetatens satser.
 
 ## Lovgrunnlag og regelverk
 
->I henhold til **skatteloven Â§Â 6-2** og **skatteforvaltningsforskriften Â§Â 8-2-1** mÃ¥ alle som krever fradrag for bilkostnader dokumentere forretningsbruk med nÃ¸yaktig fÃ¸ring av kjÃ¸rebok.
+>I henhold til **skatteloven Â§Â 6-2** og **skatteforvaltningsforskriften Â§Â 8-2-1** må alle som krever fradrag for bilkostnader dokumentere forretningsbruk med nøyaktig føring av kjørebok.
 
 ## Skatteregler og satser for 2024
 
->Skatteetaten fastsetter Ã¥rlige **satser** for kjÃ¸regodtgjÃ¸relse som gir rett til skattefri dekning inntil fastsatt belÃ¸p per kilometer.
+>Skatteetaten fastsetter årlige **satser** for kjøregodtgjørelse som gir rett til skattefri dekning inntil fastsatt beløp per kilometer.
 
-![Satser for KjÃ¸regodtgjÃ¸relse](kjoregodtgjorelse-rates.svg)
+![Satser for Kjøregodtgjørelse](kjoregodtgjorelse-rates.svg)
 
 ## Dokumentasjonskrav
 
-For Ã¥ fÃ¥ skattefri kjÃ¸regodtgjÃ¸relse mÃ¥ du dokumentere:
+For å få skattefri kjøregodtgjørelse må du dokumentere:
 
-* **Reisens formÃ¥l**, dato og destinasjon
+* **Reisens formål**, dato og destinasjon
 * **Start- og sluttkilometerstand**
 * **Total antall kilometer**
-* **Knytning** til tjenestereise i [kjÃ¸rebok](/blogs/regnskap/hva-er-kjorebok "Hva er kjÃ¸rebok? Komplett Guide til KjÃ¸rebok for Bedrifter i Norge")
+* **Knytning** til tjenestereise i [kjørebok](/blogs/regnskap/hva-er-kjorebok "Hva er kjørebok? Komplett Guide til Kjørebok for Bedrifter i Norge")
 
-## RegnskapsfÃ¸ring av kjÃ¸regodtgjÃ¸relse
+## Regnskapsføring av kjøregodtgjørelse
 
 | Konto   | Beskrivelse                          | Oppgavepliktig |
 |---------|--------------------------------------|----------------|
-| **7330** | GodtgjÃ¸relse bil, oppgavepliktig    | Ja             |
-| **7340** | GodtgjÃ¸relse bil, ikke oppgavepliktig | Nei          |
+| **7330** | Godtgjørelse bil, oppgavepliktig    | Ja             |
+| **7340** | Godtgjørelse bil, ikke oppgavepliktig | Nei          |
 
-### BokfÃ¸ringseksempel
+### Bokføringseksempel
 
 | Transaksjon                     | Debet    | Kredit     |
 |---------------------------------|----------|------------|
-| PÃ¥lÃ¸pt kjÃ¸regodtgjÃ¸relse        | 7330     | 2400       |
-| Utbetaling av kjÃ¸regodtgjÃ¸relse | 2400     | 1920       |
+| Påløpt kjøregodtgjørelse        | 7330     | 2400       |
+| Utbetaling av kjøregodtgjørelse | 2400     | 1920       |
 
 ## Praktiske rutiner
 
-### Daglig fÃ¸ring
+### Daglig føring
 
-1. Registrer alle turer med korrekt kilometerstand i [kjÃ¸rebok](/blogs/regnskap/hva-er-kjorebok "Hva er kjÃ¸rebok? Komplett Guide til KjÃ¸rebok for Bedrifter i Norge").
-2. Noter formÃ¥l og eventuelle mÃ¸ter eller leveranser.
+1. Registrer alle turer med korrekt kilometerstand i [kjørebok](/blogs/regnskap/hva-er-kjorebok "Hva er kjørebok? Komplett Guide til Kjørebok for Bedrifter i Norge").
+2. Noter formål og eventuelle møter eller leveranser.
 3. Kontroller totalsummer ved dagens slutt.
 
-### MÃ¥nedlig oppfÃ¸lging
+### Månedlig oppfølging
 
-* Samle [reiseregninger](/blogs/regnskap/reiseregning "Reiseregning - Guide til reiseregninger i Norsk Regnskap") og kjÃ¸rerapporter
+* Samle [reiseregninger](/blogs/regnskap/reiseregning "Reiseregning - Guide til reiseregninger i Norsk Regnskap") og kjørerapporter
 * Verifiser at alle dager og turer er dokumentert
-* Analyser kjÃ¸mÃ¸nster for optimalisering av kostnader
+* Analyser kjømønster for optimalisering av kostnader
 
-## Digitale lÃ¸sninger og integrasjon
+## Digitale løsninger og integrasjon
 
->Moderne lÃ¸sninger kan automatisere registrering, beregning og integrasjon med regnskapssystemer.
+>Moderne løsninger kan automatisere registrering, beregning og integrasjon med regnskapssystemer.
 
-![Automatisert kjÃ¸regodtgjÃ¸relse](kjoregodtgjorelse-automation.svg)
+![Automatisert kjøregodtgjørelse](kjoregodtgjorelse-automation.svg)
 
 Typiske funksjoner inkluderer:
 
@@ -76,16 +76,20 @@ Typiske funksjoner inkluderer:
 
 ## Internlenker og relaterte emner
 
-* [Diett](/blogs/regnskap/diett "Diett i regnskap: Guide til normaltariffer, regler og regnskapsfÃ¸ring")
+* [Diett](/blogs/regnskap/diett "Diett i regnskap: Guide til normaltariffer, regler og regnskapsføring")
 * [Pendlerfradrag](/blogs/regnskap/pendlerfradrag "Pendlerfradrag i regnskap: Guide til regler, dokumentasjon og beregning")
-* [Hva er en kjÃ¸rebok?](/blogs/regnskap/hva-er-kjorebok "Hva er kjÃ¸rebok? Komplett Guide til KjÃ¸rebok for Bedrifter i Norge")
+* [Hva er en kjørebok?](/blogs/regnskap/hva-er-kjorebok "Hva er kjørebok? Komplett Guide til Kjørebok for Bedrifter i Norge")
 * [Hva er bilag?](/blogs/regnskap/hva-er-bilag "Hva er Bilag i Regnskap? Komplett Guide til Regnskapsbilag og Dokumentasjon")
 * [Hva er A-melding?](/blogs/regnskap/hva-er-a-melding "Hva er A-melding? Komplett Guide til A-meldingen")
 * [Skatt](/blogs/regnskap/hva-er-skatt "Skatt - Komplett Guide til Skatteregler for Bedrifter")
 
 ## Oppsummering
 
-**KjÃ¸regodtgjÃ¸relse** er et sentralt verktÃ¸y for Ã¥ sikre skattefri kompensasjon av bilkostnader ved tjenestekjÃ¸ring. Ved Ã¥ fÃ¸lge Skatteetatens satser, fÃ¸re nÃ¸yaktig dokumentasjon i kjÃ¸rebok og bokfÃ¸re transaksjoner korrekt, kan virksomheter maksimere skattefordelene og redusere administrativt arbeid.
+**Kjøregodtgjørelse** er et sentralt verktøy for å sikre skattefri kompensasjon av bilkostnader ved tjenestekjøring. Ved å følge Skatteetatens satser, føre nøyaktig dokumentasjon i kjørebok og bokføre transaksjoner korrekt, kan virksomheter maksimere skattefordelene og redusere administrativt arbeid.
+
+
+
+
 
 
 

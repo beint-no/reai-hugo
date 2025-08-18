@@ -1,40 +1,45 @@
 ﻿---
-title: "Konto 8900 - OverfÃ¸ringsfond vurderingsforskjeller"
+title: "Konto 8900 - Overføringsfond vurderingsforskjeller"
 meta_title: "8900-overforingsfond-vurderingsforskjeller"
-meta_description: '**Konto 8900 - OverfÃ¸ringsfond vurderingsforskjeller** er en konto innen **reserver og overfÃ¸ringer** i Norsk Standard Kontoplan (NSÂ 4102) som brukes til Ã¥ ...'
+meta_description: '**Konto 8900 - Overføringsfond vurderingsforskjeller** er en konto innen **reserver og overføringer** i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å ...'
 slug: 8900-overforingsfond-vurderingsforskjeller
 type: blog
 layout: pages/single
 ---
 
-**Konto 8900 - OverfÃ¸ringsfond vurderingsforskjeller** er en konto innen **reserver og overfÃ¸ringer** i Norsk Standard Kontoplan (NSÂ 4102) som brukes til Ã¥ registrere **overfÃ¸rte omvurderingsreserver** nÃ¥r disse overfÃ¸res til resultatregnskapet.
+**Konto 8900 - Overføringsfond vurderingsforskjeller** er en konto innen **reserver og overføringer** i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **overførte omvurderingsreserver** når disse overføres til resultatregnskapet.
 
 ![Illustrasjon av konto 8900 overforingsfond vurderingsforskjeller](8900-overforingsfond-vurderingsforskjeller-image.svg)
 
-## Hva er OverfÃ¸ringsfond vurderingsforskjeller?
+## Hva er Overføringsfond vurderingsforskjeller?
 
-> *OverfÃ¸ringsfond vurderingsforskjeller* oppstÃ¥r nÃ¥r reservene fra omvurderinger av anleggsmidler overfÃ¸res fra egenkapitalen til resultatregnskapet, slik at gevinst eller tap ved realisasjon innarbeides i Ã¥rsresultatet.
+> *Overføringsfond vurderingsforskjeller* oppstår når reservene fra omvurderinger av anleggsmidler overføres fra egenkapitalen til resultatregnskapet, slik at gevinst eller tap ved realisasjon innarbeides i årsresultatet.
 
-## NÃ¥r benyttes konto 8900?
+## Når benyttes konto 8900?
 
-* **OverfÃ¸ring av omvurderingsreserve** ved avgang eller salg av omvurderte anleggsmidler.
-* **ResultatfÃ¸ring** av tidligere avsatte vurderingsdifferanser i resultatregnskapet.
+* **Overføring av omvurderingsreserve** ved avgang eller salg av omvurderte anleggsmidler.
+* **Resultatføring** av tidligere avsatte vurderingsdifferanser i resultatregnskapet.
 
-## RegnskapsfÃ¸ring
+## Regnskapsføring
 
 | Transaksjon                                            | Debet                                      | Kredit                                             |
 |--------------------------------------------------------|--------------------------------------------|----------------------------------------------------|
-| OverfÃ¸ring av omvurderingsreserve ved realisasjon/salg | Konto 2040 - Fond for vurderingsforskjeller | Konto 8900 - OverfÃ¸ringsfond vurderingsforskjeller |
+| Overføring av omvurderingsreserve ved realisasjon/salg | Konto 2040 - Fond for vurderingsforskjeller | Konto 8900 - Overføringsfond vurderingsforskjeller |
 
 ## Balansepresentasjon
 
-> Konto 8900 vises i resultatregnskapets resultatseksjon som en overfÃ¸ring av vurderingsreserver fra [konto for vurderingsforskjeller](/blogs/kontoplan/2040-fond-for-vurderingsforskjeller "Konto 2040 - Fond for vurderingsforskjeller: Fond for vurderingsforskjeller ved omvurdering") til Ã¥rsresultatet.
+> Konto 8900 vises i resultatregnskapets resultatseksjon som en overføring av vurderingsreserver fra [konto for vurderingsforskjeller](/blogs/kontoplan/2040-fond-for-vurderingsforskjeller "Konto 2040 - Fond for vurderingsforskjeller: Fond for vurderingsforskjeller ved omvurdering") til årsresultatet.
 
 ## Relaterte artikler
 
 * [Konto 2040 - Fond for vurderingsforskjeller](/blogs/kontoplan/2040-fond-for-vurderingsforskjeller "Konto 2040 - Fond for vurderingsforskjeller: Fond for vurderingsforskjeller ved omvurdering")
-* [Konto 8800 - Ã…rsresultat](/blogs/kontoplan/8800-arsresultat "Konto 8800 - Ã…rsresultat: Ã…rets nettoresultat og resultatdisponering")
-* [Konto 8910 - OverfÃ¸ringsfond felleseid kapital samme foretak](/blogs/kontoplan/8910-overforingsfond-felleseid-kapital-samme-foretak "Konto 8910 - OverfÃ¸ringsfond felleseid kapital samme foretak")
+* [Konto 8800 - Årsresultat](/blogs/kontoplan/8800-arsresultat "Konto 8800 - Årsresultat: Årets nettoresultat og resultatdisponering")
+* [Konto 8910 - Overføringsfond felleseid kapital samme foretak](/blogs/kontoplan/8910-overforingsfond-felleseid-kapital-samme-foretak "Konto 8910 - Overføringsfond felleseid kapital samme foretak")
 * [Konto 8930 - Konsernbidrag](/blogs/kontoplan/8930-konsernbidrag "Konto 8930 - Konsernbidrag: Konsernbidrag mellom selskaper i konsern")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+
+
+
+
+
 

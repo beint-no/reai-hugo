@@ -1,62 +1,66 @@
 ﻿---
-title: "Hva er omlÃ¸pshastighet?"
-meta_title: "Hva er omlÃ¸pshastighet?"
-meta_description: '**OmlÃ¸pshastighet** er et nÃ¸kkeltall som mÃ¥ler hvor effektivt en bedrift selger og erstatter sitt varelager i lÃ¸pet av en periode. Dette tallet er viktig fo...'
+title: "Hva er omløpshastighet?"
+meta_title: "Hva er omløpshastighet?"
+meta_description: '**Omløpshastighet** er et nøkkeltall som måler hvor effektivt en bedrift selger og erstatter sitt varelager i løpet av en periode. Dette tallet er viktig fo...'
 slug: hva-er-omlops-hastighet
 type: blog
 layout: pages/single
 ---
 
-**OmlÃ¸pshastighet** er et nÃ¸kkeltall som mÃ¥ler hvor effektivt en bedrift selger og erstatter sitt varelager i lÃ¸pet av en periode. Dette tallet er viktig for Ã¥ vurdere lagerstyring, kontantstrÃ¸m og [arbeidskapitalen](/blogs/regnskap/hva-er-arbeidskapital "Hva er Arbeidskapital? En Komplett Guide til Working Capital") i selskapet.
+**Omløpshastighet** er et nøkkeltall som måler hvor effektivt en bedrift selger og erstatter sitt varelager i løpet av en periode. Dette tallet er viktig for å vurdere lagerstyring, kontantstrøm og [arbeidskapitalen](/blogs/regnskap/hva-er-arbeidskapital "Hva er Arbeidskapital? En Komplett Guide til Working Capital") i selskapet.
 
-![Illustrasjon som viser konseptet omlÃ¸pshastighet i regnskap](hva-er-omlops-hastighet-image.svg)
+![Illustrasjon som viser konseptet omløpshastighet i regnskap](hva-er-omlops-hastighet-image.svg)
 
-## Hva er OmlÃ¸pshastighet?
+## Hva er Omløpshastighet?
 
-> **OmlÃ¸pshastighet** (inventory turnover) viser antall ganger varelageret forbrukes og erstattes i lÃ¸pet av en regnskapsperiode. En hÃ¸y omlÃ¸pshastighet indikerer god lagerstyring, mens en lav verdi kan peke pÃ¥ overlager eller ineffektiv vareomsetning.
+> **Omløpshastighet** (inventory turnover) viser antall ganger varelageret forbrukes og erstattes i løpet av en regnskapsperiode. En høy omløpshastighet indikerer god lagerstyring, mens en lav verdi kan peke på overlager eller ineffektiv vareomsetning.
 
-OmlÃ¸pshastighet brukes blant annet til:
+Omløpshastighet brukes blant annet til:
 
-* Ã… optimalisere **lagerbeholdning**
-* Ã… forutsi **kontantstrÃ¸mkonsekvenser**
-* Ã… sammenligne med bransjegjennomsnitt for Ã¥ mÃ¥le **drifts-effektivitet**
-* Ã… identifisere muligheter for **kostnadsreduksjon**
+* Å optimalisere **lagerbeholdning**
+* Å forutsi **kontantstrømkonsekvenser**
+* Å sammenligne med bransjegjennomsnitt for å måle **drifts-effektivitet**
+* Å identifisere muligheter for **kostnadsreduksjon**
 
-## Formel for OmlÃ¸pshastighet
+## Formel for Omløpshastighet
 
-![Formel for OmlÃ¸pshastighet](hva-er-omlops-hastighet-formel.svg)
+![Formel for Omløpshastighet](hva-er-omlops-hastighet-formel.svg)
 
-Formelen for Ã¥ beregne omlÃ¸pshastigheten er:
+Formelen for å beregne omløpshastigheten er:
 
 ```
-OmlÃ¸pshastighet = Varekostnad Ã· Gjennomsnittlig varelager
+Omløpshastighet = Varekostnad Ã· Gjennomsnittlig varelager
 ```
 
-## Eksempel pÃ¥ beregning
+## Eksempel på beregning
 
-| OmlÃ¸pshastighet | Vurdering       | Betydning                   |
+| Omløpshastighet | Vurdering       | Betydning                   |
 | --------------- | --------------- | --------------------------- |
 | **< 2**         | Lav             | Kan indikere overlager      |
-| **2â€‰“â€‰4**       | Normal          | Tilfredsstillende lageromlÃ¸p|
-| **> 4**         | HÃ¸y             | Effektiv lagerstyring       |
+| **2–‰“–‰4**       | Normal          | Tilfredsstillende lageromløp|
+| **> 4**         | Høy             | Effektiv lagerstyring       |
 
 ### Detaljert eksempel
 
-| Beskrivelse                | BelÃ¸p (NOK)    |
+| Beskrivelse                | Beløp (NOK)    |
 | -------------------------- | -------------- |
-| Varekostnad                | 5â€¯000â€¯000      |
-| Gjennomsnittlig varelager  | 1â€¯200â€¯000      |
-| **OmlÃ¸pshastighet**        | **4,17**       |
+| Varekostnad                | 5–¯000–¯000      |
+| Gjennomsnittlig varelager  | 1–¯200–¯000      |
+| **Omløpshastighet**        | **4,17**       |
 
-## OmlÃ¸pshastighet, Arbeidskapital og Likviditet
+## Omløpshastighet, Arbeidskapital og Likviditet
 
-OmlÃ¸pshastighet pÃ¥virker [arbeidskapital](/blogs/regnskap/hva-er-arbeidskapital "Hva er Arbeidskapital? En Komplett Guide til Working Capital") ved at et hÃ¸yt omlÃ¸p frigjÃ¸r bundet kapital. Samtidig er tallet tett knyttet til [likviditet](/blogs/regnskap/hva-er-likviditet "Hva er Likviditet? Komplett Guide til Likviditetsstyring og Analyse"), da rask vareomsetning bidrar til bedre kontantstrÃ¸m.
+Omløpshastighet påvirker [arbeidskapital](/blogs/regnskap/hva-er-arbeidskapital "Hva er Arbeidskapital? En Komplett Guide til Working Capital") ved at et høyt omløp frigjør bundet kapital. Samtidig er tallet tett knyttet til [likviditet](/blogs/regnskap/hva-er-likviditet "Hva er Likviditet? Komplett Guide til Likviditetsstyring og Analyse"), da rask vareomsetning bidrar til bedre kontantstrøm.
 
-## Se ogsÃ¥
+## Se også
 
-* [Hva er omlÃ¸psmidler?](/blogs/regnskap/hva-er-omlopsmiddel "Hva er OmlÃ¸psmidler? Komplett Guide til Kortsiktige Eiendeler i Regnskap")
+* [Hva er omløpsmidler?](/blogs/regnskap/hva-er-omlopsmiddel "Hva er Omløpsmidler? Komplett Guide til Kortsiktige Eiendeler i Regnskap")
 * [Hva er arbeidskapital?](/blogs/regnskap/hva-er-arbeidskapital "Hva er Arbeidskapital? En Komplett Guide til Working Capital")
 * [Hva er likviditet?](/blogs/regnskap/hva-er-likviditet "Hva er Likviditet? Komplett Guide til Likviditetsstyring og Analyse")
+
+
+
+
 
 
 

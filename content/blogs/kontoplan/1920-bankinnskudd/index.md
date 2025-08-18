@@ -1,19 +1,19 @@
 ﻿---
 title: "Konto 1920 - Bankinnskudd"
 meta_title: "1920-bankinnskudd"
-meta_description: '**Konto 1920 - Bankinnskudd** er en konto i norsk standard kontoplan som brukes til Ã¥ registrere virksomhetens **bankinnskudd**, det vil si midler plassert pÃ¥...'
+meta_description: '**Konto 1920 - Bankinnskudd** er en konto i norsk standard kontoplan som brukes til å registrere virksomhetens **bankinnskudd**, det vil si midler plassert på...'
 slug: 1920-bankinnskudd
 type: blog
 layout: pages/single
 ---
 
-**Konto 1920 - Bankinnskudd** er en konto i norsk standard kontoplan som brukes til Ã¥ registrere virksomhetens **bankinnskudd**, det vil si midler plassert pÃ¥ bankkontoer. Bankinnskudd er en del av **omlÃ¸psmidler** i [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse?") og en naturlig forlengelse av [Konto 1900 - Kontanter](/blogs/kontoplan/1900-kontanter "Konto 1900 - Kontanter"), [Konto 1910 - Kasse](/blogs/kontoplan/1910-kasse "Konto 1910 - Kasse") og [Konto 1950 - Bankinnskudd for skattetrekk](/blogs/kontoplan/1950-bankinnskudd-for-skattetrekk "Konto 1950 - Bankinnskudd for skattetrekk").
+**Konto 1920 - Bankinnskudd** er en konto i norsk standard kontoplan som brukes til å registrere virksomhetens **bankinnskudd**, det vil si midler plassert på bankkontoer. Bankinnskudd er en del av **omløpsmidler** i [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse?") og en naturlig forlengelse av [Konto 1900 - Kontanter](/blogs/kontoplan/1900-kontanter "Konto 1900 - Kontanter"), [Konto 1910 - Kasse](/blogs/kontoplan/1910-kasse "Konto 1910 - Kasse") og [Konto 1950 - Bankinnskudd for skattetrekk](/blogs/kontoplan/1950-bankinnskudd-for-skattetrekk "Konto 1950 - Bankinnskudd for skattetrekk").
 
 ![Illustrasjon av konto 1920 bankinnskudd](1920-bankinnskudd-image.svg)
 
 ## Hva er bankinnskudd?
 
-> **Bankinnskudd** omfatter midler som virksomheten har plassert i banken, inkludert driftskonto, sparekonto, hÃ¸yrentekonto og valutakonto. Disse midlene kan brukes til daglige transaksjoner, sparing eller andre formÃ¥l etter behov.
+> **Bankinnskudd** omfatter midler som virksomheten har plassert i banken, inkludert driftskonto, sparekonto, høyrentekonto og valutakonto. Disse midlene kan brukes til daglige transaksjoner, sparing eller andre formål etter behov.
 
 ## Typer bankinnskudd
 
@@ -21,10 +21,10 @@ layout: pages/single
 |---------------------------|----------------------------------------------------|
 | Driftskonto               | Hovedkonto for daglige transaksjoner               |
 | Sparekonto                | Konto med variabel rente, avsatt for sparing       |
-| HÃ¸yrentekonto             | Konto med hÃ¸yere rente og begrenset uttaksmulighet  |
+| Høyrentekonto             | Konto med høyere rente og begrenset uttaksmulighet  |
 | Valutakonto               | Bankinnskudd i utenlandsk valuta                   |
 
-## RegnskapsfÃ¸ring av bankinnskudd
+## Regnskapsføring av bankinnskudd
 
 ### Innskudd i bank
 
@@ -42,7 +42,7 @@ Kredit: Konto 1920 - Bankinnskudd
 
 ## Kontroll og rutiner
 
-For Ã¥ sikre korrekt registrering og hindre misbruk bÃ¸r virksomheten:
+For å sikre korrekt registrering og hindre misbruk bør virksomheten:
 
 * **Avstemme** bankkontoutskrifter mot regnskap
 * **Dokumentere** alle innskudd og uttak med bankbilag
@@ -55,7 +55,7 @@ For Ã¥ sikre korrekt registrering og hindre misbruk bÃ¸r virksomheten:
 
 * **Sikkerhet** for midlene sammenlignet med kontanter
 * **Enkel oversikt** med kontoutskrifter og nettbank
-* **Renteinntekter** pÃ¥ spare- og hÃ¸yrentekontoer, inkludert skattefrie renteinntekter pÃ¥ statspapirer (se [Konto 8040 - Renteinntekter, skattefrie](/blogs/kontoplan/8040-renteinntekter-skattefrie "Konto 8040 - Renteinntekter, skattefrie: RegnskapsfÃ¸ring av skattefrie renteinntekter") og [Konto 8050 - Annen renteinntekt](/blogs/kontoplan/8050-annen-renteinntekt "Konto 8050 - Annen renteinntekt: RegnskapsfÃ¸ring av annen renteinntekt"))
+* **Renteinntekter** på spare- og høyrentekontoer, inkludert skattefrie renteinntekter på statspapirer (se [Konto 8040 - Renteinntekter, skattefrie](/blogs/kontoplan/8040-renteinntekter-skattefrie "Konto 8040 - Renteinntekter, skattefrie: Regnskapsføring av skattefrie renteinntekter") og [Konto 8050 - Annen renteinntekt](/blogs/kontoplan/8050-annen-renteinntekt "Konto 8050 - Annen renteinntekt: Regnskapsføring av annen renteinntekt"))
 
 ### Ulemper
 
@@ -63,9 +63,14 @@ For Ã¥ sikre korrekt registrering og hindre misbruk bÃ¸r virksomheten:
 * **Begrenset umiddelbar likviditet** ved betalingsbegrensninger
 * **Avhengighet av banktjenester** og digital tilgang
 
-## Tips for optimal bankhÃ¥ndtering
+## Tips for optimal bankhåndtering
 
-* **Velg** riktig kontotype basert pÃ¥ behov for tilgjengelighet og avkastning
+* **Velg** riktig kontotype basert på behov for tilgjengelighet og avkastning
 * **Sett opp** varsler for innskudd og uttak i nettbanken
-* **GjennomfÃ¸r** mÃ¥nedlig bankavstemming for Ã¥ unngÃ¥ avvik
+* **Gjennomfør** månedlig bankavstemming for å unngå avvik
+
+
+
+
+
 

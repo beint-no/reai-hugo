@@ -1,27 +1,27 @@
 ﻿---
 title: "Konto 3950 - Annen driftsrelatert inntekt, avgiftsfritt"
 meta_title: "3950-annen-driftsrelatert-inntekt-avgiftsfritt"
-meta_description: '**Konto 3950 - Annen driftsrelatert inntekt, avgiftsfritt** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **andre driftsrelaterte inntekte...'
+meta_description: '**Konto 3950 - Annen driftsrelatert inntekt, avgiftsfritt** er en konto i Norsk Standard Kontoplan som brukes til å registrere **andre driftsrelaterte inntekte...'
 slug: 3950-annen-driftsrelatert-inntekt-avgiftsfritt
 type: blog
 layout: pages/single
 ---
 
-**Konto 3950 - Annen driftsrelatert inntekt, avgiftsfritt** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **andre driftsrelaterte inntekter** som *er unntatt merverdiavgift*.
+**Konto 3950 - Annen driftsrelatert inntekt, avgiftsfritt** er en konto i Norsk Standard Kontoplan som brukes til å registrere **andre driftsrelaterte inntekter** som *er unntatt merverdiavgift*.
 
 ![Illustrasjon av konto 3950 Annen driftsrelatert inntekt, avgiftsfritt](3950-annen-driftsrelatert-inntekt-avgiftsfritt-image.svg)
 
 ## Hva er Annen driftsrelatert inntekt, avgiftsfritt?
 
-*Annen driftsrelatert inntekt, avgiftsfritt* omfatter avgiftsfrie gebyrer, rabatter og andre driftsinntekter som ikke dekkes av Ã¸vrige konti i standardkontoplanen.
+*Annen driftsrelatert inntekt, avgiftsfritt* omfatter avgiftsfrie gebyrer, rabatter og andre driftsinntekter som ikke dekkes av øvrige konti i standardkontoplanen.
 
-## NÃ¥r skal konto 3950 benyttes?
+## Når skal konto 3950 benyttes?
 
-* NÃ¥r virksomheten mottar **avgiftsfrie serviceavgifter**, for eksempel finansielle tjenester som er unntatt MVA.
+* Når virksomheten mottar **avgiftsfrie serviceavgifter**, for eksempel finansielle tjenester som er unntatt MVA.
 * Ved inntekter fra **utleie av lokaler** som er unntatt MVA (se [Konto 3600 - Leieinntekt fast eiendom](/blogs/kontoplan/3600-leieinntekt-fast-eiendom "Konto 3600 - Leieinntekt fast eiendom")).
-* For registrering av **rabatter, gratisprÃ¸ver eller gaver** til kunder som er avgiftsfrie.
+* For registrering av **rabatter, gratisprøver eller gaver** til kunder som er avgiftsfrie.
 
-## RegnskapsfÃ¸ring
+## Regnskapsføring
 
 | Transaksjon                         | Debet                        | Kredit                             |
 |-------------------------------------|------------------------------|------------------------------------|
@@ -32,14 +32,14 @@ layout: pages/single
 
 | Inntektstype              | Beskrivelse                                           |
 |---------------------------|-------------------------------------------------------|
-| Rabatter og gratisprÃ¸ver  | Refusjoner og kampanjetilbud uten merverdiavgift      |
+| Rabatter og gratisprøver  | Refusjoner og kampanjetilbud uten merverdiavgift      |
 | Gaver til kunder          | Reklameartikler og kundegaver som gis avgiftsfritt    |
 | Finansielle gebyrer       | Avgiftsfrie tjenester som valutaveksling eller [bankgebyrer](/blogs/kontoplan/7770-bank-og-kortgebyrer "Konto 7770 - Bank og kortgebyrer") |
 
 ## Fordeler ved korrekt bruk
 
 * **Presis rapportering** av avgiftsfrie driftsinntekter
-* **Overholdelse** av MVA-unntak i henhold til bokfÃ¸ringsforskriften
+* **Overholdelse** av MVA-unntak i henhold til bokføringsforskriften
 * **Bedre kontroll** med interne rabatter og gaver
 
 ## Intern lenking og relaterte kontoer
@@ -49,8 +49,13 @@ layout: pages/single
 * [Konto 3900 - Annen driftsrelatert inntekt, avgiftspliktig](/blogs/kontoplan/3900-annen-driftsrelatert-inntekt-avgiftspliktig "Konto 3900 - Annen driftsrelatert inntekt, avgiftspliktig")
 * [Konto 1500 - Kundefordringer](/blogs/kontoplan/1500-kundefordringer "Konto 1500 - Kundefordringer")
 * [Konto 3600 - Leieinntekt fast eiendom](/blogs/kontoplan/3600-leieinntekt-fast-eiendom "Konto 3600 - Leieinntekt fast eiendom")
-* [Konto 3970 - UtgÃ¥ende gebyrer, avgiftsfritt](/blogs/kontoplan/3970-utgaende-gebyrer-avgiftsfritt "Konto 3970 - UtgÃ¥ende gebyrer, avgiftsfritt")
+* [Konto 3970 - Utgående gebyrer, avgiftsfritt](/blogs/kontoplan/3970-utgaende-gebyrer-avgiftsfritt "Konto 3970 - Utgående gebyrer, avgiftsfritt")
 * [Konto 4160 - Frakt, toll og spedisjon](/blogs/kontoplan/4160-frakt-toll-og-spedisjon "Konto 4160 - Frakt, toll og spedisjon")
 * [Hva er Driftsinntekter?](/blogs/regnskap/hva-er-driftsinntekter "Hva er Driftsinntekter? Komplett Guide til Driftsinntekter i Regnskap")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+
+
+
+
+
 

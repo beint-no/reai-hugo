@@ -1,13 +1,13 @@
 ﻿---
 title: "Konto 2040 - Fond for vurderingsforskjeller"
 meta_title: "2040-fond-for-vurderingsforskjeller"
-meta_description: '**Konto 2040 - Fond for vurderingsforskjeller** er en konto innen **egenkapital** i Norsk Standard Kontoplan (NSÂ 4102) som brukes til Ã¥ registrere **fond for ...'
+meta_description: '**Konto 2040 - Fond for vurderingsforskjeller** er en konto innen **egenkapital** i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **fond for ...'
 slug: 2040-fond-for-vurderingsforskjeller
 type: blog
 layout: pages/single
 ---
 
-**Konto 2040 - Fond for vurderingsforskjeller** er en konto innen **egenkapital** i Norsk Standard Kontoplan (NSÂ 4102) som brukes til Ã¥ registrere **fond for vurderingsforskjeller** ved omvurdering av anleggsmidler.
+**Konto 2040 - Fond for vurderingsforskjeller** er en konto innen **egenkapital** i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **fond for vurderingsforskjeller** ved omvurdering av anleggsmidler.
 
 ![Illustrasjon av konto 2040 fond for vurderingsforskjeller](2040-fond-for-vurderingsforskjeller-image.svg)
 
@@ -15,19 +15,19 @@ For en oversikt over fondstyper og regnskapsmessig behandling av fond generelt, 
 
 ## Hva er Fond for vurderingsforskjeller?
 
-> Fond for vurderingsforskjeller oppstÃ¥r nÃ¥r verdien pÃ¥ anleggsmidler omvurderes til markedsverdi eller estimert virkelig verdi, og differansen fÃ¸res direkte mot egenkapitalen som en reserve.
+> Fond for vurderingsforskjeller oppstår når verdien på anleggsmidler omvurderes til markedsverdi eller estimert virkelig verdi, og differansen føres direkte mot egenkapitalen som en reserve.
 
-## NÃ¥r benyttes konto 2040?
+## Når benyttes konto 2040?
 
 * **Omvurdering av anleggsmidler** (for eksempel eiendom, maskiner og utstyr) til markedsverdi.
-* **OverfÃ¸ring av omvurderingsreserve** ved realisasjon eller avgang av omvurderte anleggsmidler.
+* **Overføring av omvurderingsreserve** ved realisasjon eller avgang av omvurderte anleggsmidler.
 
-## RegnskapsfÃ¸ring
+## Regnskapsføring
 
 | Transaksjon                                        | Debet                                      | Kredit                                                          |
 |----------------------------------------------------|--------------------------------------------|----------------------------------------------------------------|  
 | Omvurdering av anleggsmidler                       | Konto 1xxx - Anleggsmidler*                | Konto 2040 - Fond for vurderingsforskjeller                   |
-| OverfÃ¸ring av omvurderingsreserve ved avgang       | Konto 2040 - Fond for vurderingsforskjeller | Konto 8900 - OverfÃ¸ringsfond vurderingsforskjeller           |
+| Overføring av omvurderingsreserve ved avgang       | Konto 2040 - Fond for vurderingsforskjeller | Konto 8900 - Overføringsfond vurderingsforskjeller           |
 
 _*Bruk riktig konto for det aktuelle anleggsmiddelet, for eksempel [Konto 1250 - Varer under utvikling](/blogs/kontoplan/1250-varer-under-utvikling "Konto 1250 - Varer under utvikling: Intern eksempelkonto") eller tilsvarende._
 
@@ -54,7 +54,12 @@ _*Bruk riktig konto for det aktuelle anleggsmiddelet, for eksempel [Konto 1250 -
 * [Konto 2050 - Annen egenkapital](/blogs/kontoplan/2050-annen-egenkapital "Konto 2050 - Annen egenkapital: Annen egenkapital i Norsk Standard Kontoplan")
 * [Hva er egenkapital?](/blogs/regnskap/hva-er-egenkapital "Hva er Egenkapital? Komplett Guide til Egenkapital i Regnskap")
 * [Konto 2080 - Udekket tap](/blogs/kontoplan/2080-udekket-tap "Konto 2080 - Udekket tap: Komplett Guide til Udekket tap i Norsk Kontoplan")
-* [Konto 8900 - OverfÃ¸ringsfond vurderingsforskjeller](/blogs/kontoplan/8900-overforingsfond-vurderingsforskjeller "Konto 8900 - OverfÃ¸ringsfond vurderingsforskjeller: OverfÃ¸ring av vurderingsreserver til resultatregnskapet")
-* [Konto 8910 - OverfÃ¸ringsfond felleseid kapital samme foretak](/blogs/kontoplan/8910-overforingsfond-felleseid-kapital-samme-foretak "Konto 8910 - OverfÃ¸ringsfond felleseid kapital samme foretak")
+* [Konto 8900 - Overføringsfond vurderingsforskjeller](/blogs/kontoplan/8900-overforingsfond-vurderingsforskjeller "Konto 8900 - Overføringsfond vurderingsforskjeller: Overføring av vurderingsreserver til resultatregnskapet")
+* [Konto 8910 - Overføringsfond felleseid kapital samme foretak](/blogs/kontoplan/8910-overforingsfond-felleseid-kapital-samme-foretak "Konto 8910 - Overføringsfond felleseid kapital samme foretak")
 * [Hva er Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+
+
+
+
+
 

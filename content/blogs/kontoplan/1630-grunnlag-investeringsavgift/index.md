@@ -1,13 +1,13 @@
 ﻿---
 title: "Konto 1630 - Grunnlag investeringsavgift"
 meta_title: "1630-grunnlag-investeringsavgift"
-meta_description: '**Konto 1630 - Grunnlag investeringsavgift** er en konto i **Norsk Standard Kontoplan** som brukes til Ã¥ registrere **grunnlaget for investeringsavgift** ved a...'
+meta_description: '**Konto 1630 - Grunnlag investeringsavgift** er en konto i **Norsk Standard Kontoplan** som brukes til å registrere **grunnlaget for investeringsavgift** ved a...'
 slug: 1630-grunnlag-investeringsavgift
 type: blog
 layout: pages/single
 ---
 
-**Konto 1630 - Grunnlag investeringsavgift** er en konto i **Norsk Standard Kontoplan** som brukes til Ã¥ registrere **grunnlaget for investeringsavgift** ved anskaffelse eller utvidelse av anleggsmidler.
+**Konto 1630 - Grunnlag investeringsavgift** er en konto i **Norsk Standard Kontoplan** som brukes til å registrere **grunnlaget for investeringsavgift** ved anskaffelse eller utvidelse av anleggsmidler.
 
 ![Illustrasjon av konto 1630 Grunnlag investeringsavgift](1630-grunnlag-investeringsavgift-image.svg)
 
@@ -15,25 +15,25 @@ layout: pages/single
 
 *Investeringsavgift* er en **avgift** som belastes ved etablering eller utvidelse av anleggsmidler. For mer informasjon om selve avgiften, se [Konto 1620 - Investeringsavgift](/blogs/kontoplan/1620-investeringsavgift "Konto 1620 - Investeringsavgift").
 
-## Hva inngÃ¥r i avgiftsgrunnlaget?
+## Hva inngår i avgiftsgrunnlaget?
 
 Avgiftsgrunnlaget beregnes ut fra anskaffelseskostnaden for anleggsmiddelet, inkludert blant annet:
 
-* **Materialkostnader** (for eksempel rÃ¥varer og komponenter)
+* **Materialkostnader** (for eksempel råvarer og komponenter)
 * **Arbeidskostnader** (montering, installasjon)
-* **Konsulent- og entreprenÃ¸rtjenester**
+* **Konsulent- og entreprenørtjenester**
 * **Andre direkte kostnader** knyttet til anskaffelsen
 
 ## Beregning av avgiftsgrunnlag
 
-Beregn avgiftsgrunnlaget ved Ã¥ summere alle relevante kostnadselementer og eventuelt justere for eventuelle unntak. Eksempel:
+Beregn avgiftsgrunnlaget ved å summere alle relevante kostnadselementer og eventuelt justere for eventuelle unntak. Eksempel:
 
-| Beskrivelse                           | BelÃ¸p (NOK)   |
+| Beskrivelse                           | Beløp (NOK)   |
 |---------------------------------------|--------------:|
-| Materialkostnader                     |   500â€¯000     |
-| Arbeidskostnader                      |   200â€¯000     |
-| Konsulent- og entreprenÃ¸rtjenester    |    50â€¯000     |
-| **Sum avgiftsgrunnlag**               | **750â€¯000**   |
+| Materialkostnader                     |   500–¯000     |
+| Arbeidskostnader                      |   200–¯000     |
+| Konsulent- og entreprenørtjenester    |    50–¯000     |
+| **Sum avgiftsgrunnlag**               | **750–¯000**   |
 
 ## Sats for investeringsavgift
 
@@ -42,19 +42,19 @@ Satsen for investeringsavgift fastsettes av kommunen. Vanlige satser er for ekse
 | Type anleggsmiddel   | Sats (%)   |
 |----------------------|-----------:|
 | Vei og infrastruktur |      5     |
-| Vann- og avlÃ¸psnett  |      7     |
+| Vann- og avløpsnett  |      7     |
 | Kollektivtransport   |      3     |
 
-## BokfÃ¸ringseksempler
+## Bokføringseksempler
 
-Eksempel: Virksomhet mottar faktura for avgiftsgrunnlag pÃ¥ 750â€¯000â€¯kr med sats 5â€¯%:
+Eksempel: Virksomhet mottar faktura for avgiftsgrunnlag på 750–¯000–¯kr med sats 5–¯%:
 
 ```plaintext
-Debet: Konto 1630 - Grunnlag investeringsavgift    750â€¯000 kr
-Kredit: Konto 2400 - LeverandÃ¸rgjeld                750â€¯000 kr
+Debet: Konto 1630 - Grunnlag investeringsavgift    750–¯000 kr
+Kredit: Konto 2400 - Leverandørgjeld                750–¯000 kr
 
-Debet: Konto 1620 - Investeringsavgift              37â€¯500 kr
-Kredit: Konto 1630 - Grunnlag investeringsavgift    37â€¯500 kr
+Debet: Konto 1620 - Investeringsavgift              37–¯500 kr
+Kredit: Konto 1630 - Grunnlag investeringsavgift    37–¯500 kr
 ```
 
 ## Relaterte artikler
@@ -62,6 +62,11 @@ Kredit: Konto 1630 - Grunnlag investeringsavgift    37â€¯500 kr
 * [Konto 1620 - Investeringsavgift](/blogs/kontoplan/1620-investeringsavgift "Konto 1620 - Investeringsavgift")
 * [Konto 2720 - Investeringsavgift](/blogs/kontoplan/2720-investeringsavgift "Konto 2720 - Investeringsavgift")
 * [Konto 2730 - Grunnlag investeringsavgift](/blogs/kontoplan/2730-grunnlag-investeringsavgift "Konto 2730 - Grunnlag investeringsavgift")
-* [Hva er MVA?](/blogs/regnskap/hva-er-moms-mva "Hva er MVA? MVA-regnskapsfÃ¸ring og merverdiavgift")
+* [Hva er MVA?](/blogs/regnskap/hva-er-moms-mva "Hva er MVA? MVA-regnskapsføring og merverdiavgift")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
+
+
+
+
+
 

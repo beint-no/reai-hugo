@@ -13,38 +13,42 @@ Minstepensjon, ofte omtalt som **garantipensjon**, er en garantert minimumspensj
 
 ## Hva er minstepensjon?
 
-Minstepensjon er den delen av folketrygden som sikrer alle et **grunnleggende Ã¸konomisk sikkerhetsnett** i alderdommen. Personer som ikke har tilstrekkelig opptjening gjennom arbeidslivet, eller som har lav pensjonspoengopptjening, fÃ¥r utbetalt minstepensjon for Ã¥ nÃ¥ et minimumsnivÃ¥.
+Minstepensjon er den delen av folketrygden som sikrer alle et **grunnleggende økonomisk sikkerhetsnett** i alderdommen. Personer som ikke har tilstrekkelig opptjening gjennom arbeidslivet, eller som har lav pensjonspoengopptjening, får utbetalt minstepensjon for å nå et minimumsnivå.
 
 ## Hvem har rett til minstepensjon?
 
 Rett til full minstepensjon forutsetter:
 
-* Bosted i Norge i minst 40 Ã¥r fÃ¸r pensjonsalder.
-* Alder pÃ¥ minst 67 Ã¥r.
+* Bosted i Norge i minst 40 år før pensjonsalder.
+* Alder på minst 67 år.
 * Opptjening under minstekrav, dvs. lave eller ingen pensjonspoeng.
 
-Ved kortere botid reduseres minstepensjonen proporsjonalt med antall Ã¥r under 40.
+Ved kortere botid reduseres minstepensjonen proporsjonalt med antall år under 40.
 
 ## Hvordan beregnes minstepensjon?
 
-Beregningsgrunnlaget for minstepensjon tar utgangspunkt i grunnbelÃ¸pet (G) i folketrygden og levealdersjustering:
+Beregningsgrunnlaget for minstepensjon tar utgangspunkt i grunnbeløpet (G) i folketrygden og levealdersjustering:
 
 | Element                     | Beskrivelse                                                                 |
 |-----------------------------|-----------------------------------------------------------------------------|
-| GrunnbelÃ¸pet (G)            | 1 G i 2023 utgjÃ¸r 111Â 477Â NOK                                                |
+| Grunnbeløpet (G)            | 1 G i 2023 utgjør 111Â 477Â NOK                                                |
 | Garantipensjonsprosent      | Prosentandel av G (vanligvis 0,366 av G for full sats)                       |
 | Levealdersjustering         | Justeres etter levealdersjusteringstabell                                    |
-| Maksimal minstepensjon      | Omtrent 40Â 825Â NOK per Ã¥r (fÃ¸r levealdersjustering)                         |
+| Maksimal minstepensjon      | Omtrent 40Â 825Â NOK per år (før levealdersjustering)                         |
 
 ## Skatt og regnskapsmessig behandling
 
-Minstepensjon pÃ¥virker ikke direkte bedriftens regnskap, men rettigheter og utbetalinger behandles av NAV og regnskapsfÃ¸res som pensjonskostnad i [pensjonsrapportering](/blogs/regnskap/hva-er-pensjonsrapportering "Hva er pensjonsrapportering? Komplett guide til pensjon i regnskapet") for offentlige pensjonsytelser.
+Minstepensjon påvirker ikke direkte bedriftens regnskap, men rettigheter og utbetalinger behandles av NAV og regnskapsføres som pensjonskostnad i [pensjonsrapportering](/blogs/regnskap/hva-er-pensjonsrapportering "Hva er pensjonsrapportering? Komplett guide til pensjon i regnskapet") for offentlige pensjonsytelser.
 
-## Se ogsÃ¥
+## Se også
 
-* [Hva er pensjon?](/blogs/regnskap/hva-er-pensjon "Hva er pensjon? En oversikt over norsk pensjonssystem") for en helhetlig gjennomgang av alle pensjonssÃ¸yler.
-* [Obligatorisk tjenestepensjon (OTP)](/blogs/regnskap/obligatorisk-tjenestepensjon "Obligatorisk tjenestepensjon: Regler og regnskapsfÃ¸ring") for bedriftens pensjonsforpliktelser.
-* [Individuell pensjonssparing](/blogs/regnskap/hva-er-individuell-pensjonssparing "Hva er individuell pensjonssparing? IPS og andre spareformer") for privat sparing i tredje sÃ¸yle.
+* [Hva er pensjon?](/blogs/regnskap/hva-er-pensjon "Hva er pensjon? En oversikt over norsk pensjonssystem") for en helhetlig gjennomgang av alle pensjonssøyler.
+* [Obligatorisk tjenestepensjon (OTP)](/blogs/regnskap/obligatorisk-tjenestepensjon "Obligatorisk tjenestepensjon: Regler og regnskapsføring") for bedriftens pensjonsforpliktelser.
+* [Individuell pensjonssparing](/blogs/regnskap/hva-er-individuell-pensjonssparing "Hva er individuell pensjonssparing? IPS og andre spareformer") for privat sparing i tredje søyle.
+
+
+
+
 
 
 

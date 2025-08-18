@@ -1,45 +1,45 @@
 ﻿---
-title: "TrygdeopgjÃ¸ret"
-meta_title: "TrygdeopgjÃ¸ret"
-meta_description: '**TrygdeopgjÃ¸ret** er det **Ã¥rlige oppgjÃ¸ret** av betalte trygdeavgifter og beregnede ytelser i **[folketrygden](/blogs/regnskap/hva-er-folketrygden "Hva er ...'
+title: "Trygdeopgjøret"
+meta_title: "Trygdeopgjøret"
+meta_description: '**Trygdeopgjøret** er det **årlige oppgjøret** av betalte trygdeavgifter og beregnede ytelser i **[folketrygden](/blogs/regnskap/hva-er-folketrygden "Hva er ...'
 slug: trygdeopgjoret
 type: blog
 layout: pages/single
 ---
 
-**TrygdeopgjÃ¸ret** er det **Ã¥rlige oppgjÃ¸ret** av betalte trygdeavgifter og beregnede ytelser i **[folketrygden](/blogs/regnskap/hva-er-folketrygden "Hva er Folketrygden? Komplett Guide til Norges Nasjonale Trygdesystem")**. OppgjÃ¸ret sikrer at bÃ¥de arbeidstakere, arbeidsgivere og myndigheter fÃ¥r oversikt over innbetalt trygdeavgift, opptjente rettigheter og eventuelle korrigeringer.
+**Trygdeopgjøret** er det **årlige oppgjøret** av betalte trygdeavgifter og beregnede ytelser i **[folketrygden](/blogs/regnskap/hva-er-folketrygden "Hva er Folketrygden? Komplett Guide til Norges Nasjonale Trygdesystem")**. Oppgjøret sikrer at både arbeidstakere, arbeidsgivere og myndigheter får oversikt over innbetalt trygdeavgift, opptjente rettigheter og eventuelle korrigeringer.
 
-![Overblikk over TrygdeopgjÃ¸ret](trygdeopgjoret-flow.svg)
+![Overblikk over Trygdeopgjøret](trygdeopgjoret-flow.svg)
 
-## Hva er TrygdeopgjÃ¸ret?
+## Hva er Trygdeopgjøret?
 
-TrygdeopgjÃ¸ret er en formell **avslutning** av Ã¥ret for **trygdeavgift** og ytelser, og brukes som grunnlag for:
+Trygdeopgjøret er en formell **avslutning** av året for **trygdeavgift** og ytelser, og brukes som grunnlag for:
 
-* **Endelig fastsettelse** av innbetalt trygdeavgift fra arbeidstakere og selvstendig nÃ¦ringsdrivende
-* **OppgjÃ¸r av ytelser** som utbetales gjennom folketrygden (for eksempel sykepenger, dagpenger, foreldrepenger)
-* **Beregning av grunnlag** for [skatt](/blogs/regnskap/hva-er-skatt "Hva er Skatt? En Guide til Skatteberegning i Norge") og [skatteoppgjÃ¸r](/blogs/regnskap/skatteoppgjor "Hva er SkatteoppgjÃ¸r? Endelig Resultat av Skatteberegningen")
+* **Endelig fastsettelse** av innbetalt trygdeavgift fra arbeidstakere og selvstendig næringsdrivende
+* **Oppgjør av ytelser** som utbetales gjennom folketrygden (for eksempel sykepenger, dagpenger, foreldrepenger)
+* **Beregning av grunnlag** for [skatt](/blogs/regnskap/hva-er-skatt "Hva er Skatt? En Guide til Skatteberegning i Norge") og [skatteoppgjør](/blogs/regnskap/skatteoppgjor "Hva er Skatteoppgjør? Endelig Resultat av Skatteberegningen")
 
-## Tidslinje og frister for TrygdeopgjÃ¸ret
+## Tidslinje og frister for Trygdeopgjøret
 
 | Aktivitet                                | Frist                     |
 |------------------------------------------|---------------------------|
-| Innsending av Ã¥rsoppgave til NAV og Skatteetaten | 31. januar (etter Ã¥rsslutt) |
+| Innsending av årsoppgave til NAV og Skatteetaten | 31. januar (etter årsslutt) |
 | Endelig fastsettelse av trygdeavgift     | 1. mars                   |
-| Utbetaling av eventuelle tilgodebelÃ¸p    | Mars“april                |
+| Utbetaling av eventuelle tilgodebeløp    | Mars“april                |
 
-## Hvordan forberede TrygdeopgjÃ¸ret?
+## Hvordan forberede Trygdeopgjøret?
 
-FÃ¸lgende trinn hjelper bedrifter med en smidig gjennomfÃ¸ring:
+Følgende trinn hjelper bedrifter med en smidig gjennomføring:
 
-1. **Kontroller lÃ¸nnsgrunnlag** og [arbeidsgiveravgift](/blogs/regnskap/hva-er-arbeidsgiveravgift "Hva er Arbeidsgiveravgift? Satser og Beregning") for alle ansatte.
+1. **Kontroller lønnsgrunnlag** og [arbeidsgiveravgift](/blogs/regnskap/hva-er-arbeidsgiveravgift "Hva er Arbeidsgiveravgift? Satser og Beregning") for alle ansatte.
 2. **Avstem trygdeavgiftskontoer** i regnskapet.
-3. **Rapporter korrekte tall** i Ã¥rsoppgaven (gjelder bÃ¥de [arbeidsgivere](/blogs/regnskap/arbeidsgiver "Arbeidsgiver “ Roller og Ansvar i Norsk Arbeidsliv og Regnskap") og selvstendig nÃ¦ringsdrivende).
-4. **GjennomgÃ¥ refusjoner** og etterbetalingskrav fra NAV.
+3. **Rapporter korrekte tall** i årsoppgaven (gjelder både [arbeidsgivere](/blogs/regnskap/arbeidsgiver "Arbeidsgiver “ Roller og Ansvar i Norsk Arbeidsliv og Regnskap") og selvstendig næringsdrivende).
+4. **Gjennomgå refusjoner** og etterbetalingskrav fra NAV.
 5. **Arkiver dokumentasjon** for revisjon og internkontroll.
 
 ## Konsekvenser av feil
 
-Manglende eller feil oppgjÃ¸r kan fÃ¸re til:
+Manglende eller feil oppgjør kan føre til:
 
 * **Tvangsmulkt** fra Skatteetaten eller NAV
 * **Tilleggsskatt** ved vesentlige avvik
@@ -48,11 +48,15 @@ Manglende eller feil oppgjÃ¸r kan fÃ¸re til:
 ## Relaterte artikler
 
 * [Folketrygden](/blogs/regnskap/hva-er-folketrygden "Hva er Folketrygden? Komplett Guide til Norges Nasjonale Trygdesystem")
-* [SkatteoppgjÃ¸r](/blogs/regnskap/skatteoppgjor "Hva er SkatteoppgjÃ¸r? Endelig Resultat av Skatteberegningen")
-* [Ã…rsoppgjÃ¸r](/blogs/regnskap/hva-er-aarsavslutning "Hva er Ã…rsoppgjÃ¸r? Guide til Ã…rsoppgjÃ¸r og Rapportering")
-* [Trygdeavgift](/blogs/regnskap/hva-er-trygdeavgift "Hva er Trygdeavgift? Satser, Beregning og RegnskapsfÃ¸ring")
+* [Skatteoppgjør](/blogs/regnskap/skatteoppgjor "Hva er Skatteoppgjør? Endelig Resultat av Skatteberegningen")
+* [Årsoppgjør](/blogs/regnskap/hva-er-aarsavslutning "Hva er Årsoppgjør? Guide til Årsoppgjør og Rapportering")
+* [Trygdeavgift](/blogs/regnskap/hva-er-trygdeavgift "Hva er Trygdeavgift? Satser, Beregning og Regnskapsføring")
 
-**TrygdeopgjÃ¸ret** er avgjÃ¸rende for korrekt regnskapsfÃ¸ring og etterlevelse av offentlige krav.
+**Trygdeopgjøret** er avgjørende for korrekt regnskapsføring og etterlevelse av offentlige krav.
+
+
+
+
 
 
 

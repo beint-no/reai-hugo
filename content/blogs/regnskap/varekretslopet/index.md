@@ -1,34 +1,34 @@
 ﻿---
-title: "Hva er varekretslÃ¸pet?"
-meta_title: "Hva er varekretslÃ¸pet?"
-meta_description: '**VarekretslÃ¸pet** beskriver den helhetlige prosessen varer gjennomgÃ¥r i en virksomhet, fra anskaffelse til salg og tilbakefÃ¸ring av kapital. Prosessen er se...'
+title: "Hva er varekretsløpet?"
+meta_title: "Hva er varekretsløpet?"
+meta_description: '**Varekretsløpet** beskriver den helhetlige prosessen varer gjennomgår i en virksomhet, fra anskaffelse til salg og tilbakeføring av kapital. Prosessen er se...'
 slug: varekretslopet
 type: blog
 layout: pages/single
 ---
 
-**VarekretslÃ¸pet** beskriver den helhetlige prosessen varer gjennomgÃ¥r i en virksomhet, fra anskaffelse til salg og tilbakefÃ¸ring av kapital. Prosessen er sentral for Ã¥ forstÃ¥ sammenhengen mellom lagerstyring, **kontantstrÃ¸m** og **arbeidskapital**, og pÃ¥virker bÃ¥de likviditet og lÃ¸nnsomhet.
+**Varekretsløpet** beskriver den helhetlige prosessen varer gjennomgår i en virksomhet, fra anskaffelse til salg og tilbakeføring av kapital. Prosessen er sentral for å forstå sammenhengen mellom lagerstyring, **kontantstrøm** og **arbeidskapital**, og påvirker både likviditet og lønnsomhet.
 
-![VarekretslÃ¸pet](varekretslopet-image.svg)
+![Varekretsløpet](varekretslopet-image.svg)
 
-## 1. Oversikt over varekretslÃ¸pet
+## 1. Oversikt over varekretsløpet
 
-VarekretslÃ¸pet bestÃ¥r av fÃ¸lgende hovedfaser:
+Varekretsløpet består av følgende hovedfaser:
 
-* **Anskaffelse:** KjÃ¸p eller produksjon av varer.
+* **Anskaffelse:** Kjøp eller produksjon av varer.
 * **Lagring:** Varetelling, for eksempel ved [avstemming](/blogs/regnskap/hva-er-avstemming "Hva er Avstemming?") og verdivurdering etter [laveste verdi-prinsippet](/blogs/regnskap/hva-er-balansebasert-verdivurdering "Hva er Balansebasert Verdivurdering?").
-* **Salg:** Distribusjon av varer til kunder og inntektsfÃ¸ring i [resultatregnskapet](/blogs/regnskap/resultatregnskap "Hva er Resultatregnskap?").
-* **KontantstrÃ¸m tilbake til virksomheten:** Innbetaling fra kunder og reinvestering i nytt varelager eller annen drift.
+* **Salg:** Distribusjon av varer til kunder og inntektsføring i [resultatregnskapet](/blogs/regnskap/resultatregnskap "Hva er Resultatregnskap?").
+* **Kontantstrøm tilbake til virksomheten:** Innbetaling fra kunder og reinvestering i nytt varelager eller annen drift.
 
-![VarekretslÃ¸pet Diagram](varekretslopet-diagram.svg)
+![Varekretsløpet Diagram](varekretslopet-diagram.svg)
 
 ## 2. Anskaffelseskost og lagerverdivurdering
 
-Anskaffelseskost er grunnlaget for **verdivurdering** av lager, og inkluderer innkjÃ¸pspris, frakt, toll og andre direkte kostnader. For tekniske metoder som FIFO, LIFO eller vektet gjennomsnitt, se den detaljerte artikkelen om [Hva er varelager?](/blogs/regnskap/hva-er-varelager "Hva er Varelager? Komplett Guide til Lagerstyring og RegnskapsfÃ¸ring") under seksjon 2. Verdivurdering.
+Anskaffelseskost er grunnlaget for **verdivurdering** av lager, og inkluderer innkjøpspris, frakt, toll og andre direkte kostnader. For tekniske metoder som FIFO, LIFO eller vektet gjennomsnitt, se den detaljerte artikkelen om [Hva er varelager?](/blogs/regnskap/hva-er-varelager "Hva er Varelager? Komplett Guide til Lagerstyring og Regnskapsføring") under seksjon 2. Verdivurdering.
 
-## 3. Salg og inntektsfÃ¸ring
+## 3. Salg og inntektsføring
 
-Ved salg av varer mÃ¥ to bokfÃ¸ringer gjÃ¸res parallelt:
+Ved salg av varer må to bokføringer gjøres parallelt:
 
 | Transaksjon              | Debet                        | Kredit                       |
 |--------------------------|------------------------------|------------------------------|
@@ -37,20 +37,24 @@ Ved salg av varer mÃ¥ to bokfÃ¸ringer gjÃ¸res parallelt:
 
 ## 4. Internkontroll og digitalisering
 
-God internkontroll i varekretslÃ¸pet oppnÃ¥s gjennom:
+God internkontroll i varekretsløpet oppnås gjennom:
 
 * Systematisk dokumentasjon av varemottak og vareuttak.
 * Periodiske avstemninger av lagerbeholdning.
 * Bruk av [ERP-systemer](/blogs/regnskap/hva-er-erp-system "Hva er ERP-system?") for sanntidsoversikt.
-* Automatisering av lagerprosesser med digitale verktÃ¸y.
+* Automatisering av lagerprosesser med digitale verktøy.
 
 ## 5. Skattemessige og regnskapsmessige forhold
 
-I Norge fÃ¸lger verdivurdering av lager regnskapslovens prinsipper og skattemessige regler. Laveste verdi-prinsippet krever at lager verdsettes til laveste av anskaffelseskost og netto realisasjonsverdi. Riktig hÃ¥ndtering pÃ¥virker skattepliktig overskudd og balansefÃ¸ring.
+I Norge følger verdivurdering av lager regnskapslovens prinsipper og skattemessige regler. Laveste verdi-prinsippet krever at lager verdsettes til laveste av anskaffelseskost og netto realisasjonsverdi. Riktig håndtering påvirker skattepliktig overskudd og balanseføring.
 
 ## Videre lesning
 
-For mer om varelager og regnskapsprinsipper, se ogsÃ¥ [Hva er varelager?](/blogs/regnskap/hva-er-varelager "Hva er Varelager? Komplett Guide til Lagerstyring og RegnskapsfÃ¸ring").
+For mer om varelager og regnskapsprinsipper, se også [Hva er varelager?](/blogs/regnskap/hva-er-varelager "Hva er Varelager? Komplett Guide til Lagerstyring og Regnskapsføring").
+
+
+
+
 
 
 

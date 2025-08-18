@@ -1,13 +1,13 @@
 ﻿---
 title: "Hva er Proformafaktura?"
 meta_title: "Hva er Proformafaktura?"
-meta_description: 'En **proformafaktura** er et forelÃ¸pig regnskapsdokument som utstedes fÃ¸r levering av varer eller tjenester, og fungerer som et estimat eller tilbud pÃ¥ fremt...'
+meta_description: 'En **proformafaktura** er et foreløpig regnskapsdokument som utstedes før levering av varer eller tjenester, og fungerer som et estimat eller tilbud på fremt...'
 slug: hva-er-proformafaktura
 type: blog
 layout: pages/single
 ---
 
-En **proformafaktura** er et forelÃ¸pig regnskapsdokument som utstedes fÃ¸r levering av varer eller tjenester, og fungerer som et estimat eller tilbud pÃ¥ fremtidige transaksjoner. Proformafakturaer brukes hovedsakelig i [internasjonal handel](/blogs/regnskap/hva-er-internasjonal-handel "Hva er Internasjonal Handel? Guide til Eksport og Import") for Ã¥ gi [tollmyndigheter](/blogs/regnskap/hva-er-toll "Hva er Toll? RegnskapsfÃ¸ring og Praktisk Veiledning") og kjÃ¸pere informasjon om planlagte leveranser fÃ¸r den faktiske handelen finner sted.
+En **proformafaktura** er et foreløpig regnskapsdokument som utstedes før levering av varer eller tjenester, og fungerer som et estimat eller tilbud på fremtidige transaksjoner. Proformafakturaer brukes hovedsakelig i [internasjonal handel](/blogs/regnskap/hva-er-internasjonal-handel "Hva er Internasjonal Handel? Guide til Eksport og Import") for å gi [tollmyndigheter](/blogs/regnskap/hva-er-toll "Hva er Toll? Regnskapsføring og Praktisk Veiledning") og kjøpere informasjon om planlagte leveranser før den faktiske handelen finner sted.
 
 ![Proformafaktura konsept](hva-er-proformafaktura-image.svg)
 
@@ -16,9 +16,9 @@ En **proformafaktura** er et forelÃ¸pig regnskapsdokument som utstedes fÃ¸r 
 En **proformafaktura** er et dokument som ligner en vanlig [faktura](/blogs/regnskap/hva-er-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav"), men som ikke representerer en faktisk salgsavtale eller krav om betaling. I stedet fungerer den som:
 
 * **Informasjonsdokument:** Gir detaljert informasjon om varer, priser og leveringsbetingelser
-* **PlanleggingsverktÃ¸y:** Hjelper kjÃ¸pere med [budsjettplanlegging](/blogs/regnskap/hva-er-budsjett "Hva er Budsjett? Planlegging og OppfÃ¸lging av Bedriftens Ã˜konomi") og [kontantstrÃ¸mstyring](/blogs/regnskap/hva-er-kontantstromstyring "Hva er KontantstrÃ¸mstyring? Teknikker for Optimal Likviditet")
-* **Tolldokument:** Brukes av tollmyndigheter for Ã¥ vurdere avgifter og behandle importlisenser
-* **Kredittvurdering:** Gir banker og finansinstitusjoner grunnlag for Ã¥ vurdere [remburs](/blogs/regnskap/hva-er-remburs "Hva er Remburs? Sikker Betalingsmetode i Internasjonal Handel") og andre finansieringslÃ¸sninger
+* **Planleggingsverktøy:** Hjelper kjøpere med [budsjettplanlegging](/blogs/regnskap/hva-er-budsjett "Hva er Budsjett? Planlegging og Oppfølging av Bedriftens Økonomi") og [kontantstrømstyring](/blogs/regnskap/hva-er-kontantstromstyring "Hva er Kontantstrømstyring? Teknikker for Optimal Likviditet")
+* **Tolldokument:** Brukes av tollmyndigheter for å vurdere avgifter og behandle importlisenser
+* **Kredittvurdering:** Gir banker og finansinstitusjoner grunnlag for å vurdere [remburs](/blogs/regnskap/hva-er-remburs "Hva er Remburs? Sikker Betalingsmetode i Internasjonal Handel") og andre finansieringsløsninger
 
 ### Forskjell fra Vanlig Faktura
 
@@ -28,26 +28,26 @@ En **proformafaktura** er et dokument som ligner en vanlig [faktura](/blogs/regn
 |--------|-----------------|----------------|
 | **Juridisk status** | Ikke bindende | Juridisk dokument |
 | **Betalingskrav** | Nei | Ja |
-| **RegnskapsfÃ¸ring** | Ingen bokfÃ¸ring | [BokfÃ¸res](/blogs/regnskap/hva-er-bokforing "Hva er BokfÃ¸ring? Grunnleggende Prinsipper og Praksis") som salg |
-| **MVA-behandling** | Ingen MVA | [Merverdiavgift](/blogs/regnskap/hva-er-mva "Hva er MVA? Merverdiavgift i Norge") pÃ¥lÃ¸per |
-| **FormÃ¥l** | Informasjon og planlegging | Fakturering og oppgjÃ¸r |
+| **Regnskapsføring** | Ingen bokføring | [Bokføres](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? Grunnleggende Prinsipper og Praksis") som salg |
+| **MVA-behandling** | Ingen MVA | [Merverdiavgift](/blogs/regnskap/hva-er-mva "Hva er MVA? Merverdiavgift i Norge") påløper |
+| **Formål** | Informasjon og planlegging | Fakturering og oppgjør |
 
-## NÃ¥r Brukes Proformafakturaer?
+## Når Brukes Proformafakturaer?
 
-Proformafakturaer har flere viktige anvendelsesomrÃ¥der i moderne forretningsdrift:
+Proformafakturaer har flere viktige anvendelsesområder i moderne forretningsdrift:
 
 ### 1. Internasjonal Handel
 
-I [eksport](/blogs/regnskap/hva-er-eksport "Hva er Eksport? RegnskapsfÃ¸ring og Praktisk Veiledning") og [import](/blogs/regnskap/hva-er-import "Hva er Import? Toll, MVA og Regnskapsbehandling") brukes proformafakturaer til:
+I [eksport](/blogs/regnskap/hva-er-eksport "Hva er Eksport? Regnskapsføring og Praktisk Veiledning") og [import](/blogs/regnskap/hva-er-import "Hva er Import? Toll, MVA og Regnskapsbehandling") brukes proformafakturaer til:
 
 * **Tolldeklarasjon:** Grunnlag for beregning av toll og avgifter
-* **Importlisenser:** SÃ¸knad om nÃ¸dvendige tillatelser
+* **Importlisenser:** Søknad om nødvendige tillatelser
 * **Valutakontroll:** Dokumentasjon overfor myndighetene
 * **Forsikring:** Grunnlag for transportforsikring
 
 ### 2. Tilbudsgivning
 
-* **Detaljerte pristilbud:** Spesifiserer nÃ¸yaktig hva som leveres som del av [tilbudsprosessen](/blogs/regnskap/hva-er-tilbud "Hva er Tilbud? Komplett Guide til Tilbudsprosess og Regnskapsmessig Behandling")
+* **Detaljerte pristilbud:** Spesifiserer nøyaktig hva som leveres som del av [tilbudsprosessen](/blogs/regnskap/hva-er-tilbud "Hva er Tilbud? Komplett Guide til Tilbudsprosess og Regnskapsmessig Behandling")
 * **Langsiktige avtaler:** Grunnlag for forhandlinger om rammeavtaler
 * **Komplekse prosjekter:** Oversikt over kostnader og leveranser
 
@@ -55,21 +55,21 @@ I [eksport](/blogs/regnskap/hva-er-eksport "Hva er Eksport? RegnskapsfÃ¸ring o
 
 ![Proformafaktura i finansieringsprosess](proformafaktura-finansiering.svg)
 
-* **Rembursopprettelse:** Grunnlag for Ã¥ etablere [remburs](/blogs/regnskap/hva-er-remburs "Hva er Remburs? Sikker Betalingsmetode i Internasjonal Handel")
+* **Rembursopprettelse:** Grunnlag for å etablere [remburs](/blogs/regnskap/hva-er-remburs "Hva er Remburs? Sikker Betalingsmetode i Internasjonal Handel")
 * **Bankgarantier:** Dokumentasjon for garantiutstedelse
 * **Kredittforsikring:** Vurdering av handelsrisiko
-* **FinansieringslÃ¸sninger:** Grunnlag for [eksportfinansiering](/blogs/regnskap/hva-er-eksportfinansiering "Hva er Eksportfinansiering? Finansielle LÃ¸sninger for EksportÃ¸rer")
+* **Finansieringsløsninger:** Grunnlag for [eksportfinansiering](/blogs/regnskap/hva-er-eksportfinansiering "Hva er Eksportfinansiering? Finansielle Løsninger for Eksportører")
 
 ## Innhold i en Proformafaktura
 
-En profesjonell proformafaktura bÃ¸r inneholde fÃ¸lgende informasjoner:
+En profesjonell proformafaktura bør inneholde følgende informasjoner:
 
 ### Grunnleggende Informasjon
 
 * **Selgeropplysninger:** Firmanavn, adresse, [organisasjonsnummer](/blogs/regnskap/hva-er-organisasjonsnummer "Hva er Organisasjonsnummer? Betydning og Bruk i Regnskap")
-* **KjÃ¸peropplysninger:** Kundens navn og adresse
+* **Kjøperopplysninger:** Kundens navn og adresse
 * **Dokumentnummer:** Unik referanse for sporing
-* **Utstedelsesdato:** NÃ¥r proformafakturaen ble laget
+* **Utstedelsesdato:** Når proformafakturaen ble laget
 * **Gyldighetsdato:** Hvor lenge tilbudet er gyldig
 
 ### Vareopplysninger
@@ -77,7 +77,7 @@ En profesjonell proformafaktura bÃ¸r inneholde fÃ¸lgende informasjoner:
 ![Varespecifikasjon i proformafaktura](varespecifikasjon-proformafaktura.svg)
 
 * **Detaljert varebeskrivelse:** Spesifikasjoner, kvalitet, standard
-* **HS-koder:** Harmonized System-koder for tollformÃ¥l
+* **HS-koder:** Harmonized System-koder for tollformål
 * **Mengde og enhet:** Antall, vekt, volum
 * **Enhetspris og totalpris:** I relevant valuta
 * **Opprinnelsesland:** Hvor varene produseres eller kommer fra
@@ -88,13 +88,13 @@ En profesjonell proformafaktura bÃ¸r inneholde fÃ¸lgende informasjoner:
 * **Leveringssted:** Destinasjon for leveransen
 * **Leveringstid:** Estimert leveringsdato
 * **Pakking og merking:** Spesifikasjoner for emballasje
-* **TransportmÃ¥te:** Skip, fly, lastebil, tog
+* **Transportmåte:** Skip, fly, lastebil, tog
 
 ### Betalingsinformasjon
 
-* **Betalingsbetingelser:** BetalingsmÃ¥te og frister
+* **Betalingsbetingelser:** Betalingsmåte og frister
 * **Valuta:** Hvilken valuta som brukes
-* **Bankopplysninger:** For internasjonale overfÃ¸ringer
+* **Bankopplysninger:** For internasjonale overføringer
 * **Forsikring:** Dekning av transport og varer
 
 ## Regnskapsbehandling av Proformafakturaer
@@ -103,50 +103,50 @@ En profesjonell proformafaktura bÃ¸r inneholde fÃ¸lgende informasjoner:
 
 Proformafakturaer har **ingen direkte regnskapseffekt** siden de ikke representerer faktiske salg:
 
-* **Ingen [omsetning](/blogs/regnskap/hva-er-omsetning "Hva er Omsetning? Beregning og RegnskapsfÃ¸ring"):** Ikke bokfÃ¸rt som salg
-* **Ingen MVA:** Merverdiavgift pÃ¥lÃ¸per ikke
-* **Ingen [kundefordring](/blogs/regnskap/hva-er-kundefordringer "Hva er Kundefordringer? Styring og RegnskapsfÃ¸ring"):** Skaper ikke fordring pÃ¥ kunden
+* **Ingen [omsetning](/blogs/regnskap/hva-er-omsetning "Hva er Omsetning? Beregning og Regnskapsføring"):** Ikke bokført som salg
+* **Ingen MVA:** Merverdiavgift påløper ikke
+* **Ingen [kundefordring](/blogs/regnskap/hva-er-kundefordringer "Hva er Kundefordringer? Styring og Regnskapsføring"):** Skaper ikke fordring på kunden
 
-### OppfÃ¸lging og Konvertering
+### Oppfølging og Konvertering
 
-NÃ¥r proformafakturaen konverteres til en faktisk salgsordre:
+Når proformafakturaen konverteres til en faktisk salgsordre:
 
 | Aktivitet | Regnskapseffekt |
 |-----------|-----------------|
-| **Ordrebekreftelse** | Ingen bokfÃ¸ring |
-| **Leveranse** | [Salg bokfÃ¸res](/blogs/regnskap/hva-er-salgsbokforing "Hva er SalgsbokfÃ¸ring? Prinsipper og Praktisk GjennomfÃ¸ring") |
+| **Ordrebekreftelse** | Ingen bokføring |
+| **Leveranse** | [Salg bokføres](/blogs/regnskap/hva-er-salgsbokforing "Hva er Salgsbokføring? Prinsipper og Praktisk Gjennomføring") |
 | **Fakturering** | Kundefordring opprettes |
-| **Betaling** | [Innbetaling](/blogs/regnskap/hva-er-innbetaling "Hva er Innbetaling? Registrering og OppfÃ¸lging") registreres |
+| **Betaling** | [Innbetaling](/blogs/regnskap/hva-er-innbetaling "Hva er Innbetaling? Registrering og Oppfølging") registreres |
 
-### For KjÃ¸peren
+### For Kjøperen
 
 Proformafakturaer kan brukes til:
 
-* **Budsjettplanlegging:** Estimere fremtidige [innkjÃ¸pskostnader](/blogs/regnskap/hva-er-innkjopskostnader "Hva er InnkjÃ¸pskostnader? Beregning og RegnskapsfÃ¸ring")
-* **Kassaflytplanlegging:** Planlegge [betalingsforpliktelser](/blogs/regnskap/hva-er-betalingsforpliktelser "Hva er Betalingsforpliktelser? Styring av LeverandÃ¸rgjeld")
+* **Budsjettplanlegging:** Estimere fremtidige [innkjøpskostnader](/blogs/regnskap/hva-er-innkjopskostnader "Hva er Innkjøpskostnader? Beregning og Regnskapsføring")
+* **Kassaflytplanlegging:** Planlegge [betalingsforpliktelser](/blogs/regnskap/hva-er-betalingsforpliktelser "Hva er Betalingsforpliktelser? Styring av Leverandørgjeld")
 * **Tollforberedelser:** Grunnlag for importberegninger
-* **KredittsÃ¸knader:** Dokumentasjon av planlagte kjÃ¸p
+* **Kredittsøknader:** Dokumentasjon av planlagte kjøp
 
 ## Digitalisering av Proformafakturaer
 
 ![Digital proformafaktura arbeidsflyt](digital-proformafaktura-arbeidsflyt.svg)
 
-Moderne teknologi har transformert hÃ¥ndteringen av proformafakturaer:
+Moderne teknologi har transformert håndteringen av proformafakturaer:
 
-### Elektroniske LÃ¸sninger
+### Elektroniske Løsninger
 
 * **Automatisk generering:** Fra tilbudssystemer til proformafaktura
 * **Integrasjon:** Kobling med [ERP-systemer](/blogs/regnskap/hva-er-erp "Hva er ERP? Enterprise Resource Planning for Bedrifter")
 * **Sporbarhet:** Digital sporing av dokumenter
 * **Godkjenningsrutiner:** Elektroniske arbeidsflyter
 
-### Fordeler med Digital HÃ¥ndtering
+### Fordeler med Digital Håndtering
 
 * **Reduserte kostnader:** Mindre papirarbeid og porto
-* **Raskere behandling:** Ã˜yeblikkelig utsendelse og mottak
-* **Bedre nÃ¸yaktighet:** Automatisert datautfylling
-* **MiljÃ¸vennlig:** Redusert papirforbruk
-* **Enklere arkivering:** Digital oppbevaring og sÃ¸k
+* **Raskere behandling:** Øyeblikkelig utsendelse og mottak
+* **Bedre nøyaktighet:** Automatisert datautfylling
+* **Miljøvennlig:** Redusert papirforbruk
+* **Enklere arkivering:** Digital oppbevaring og søk
 
 ### API-integrasjoner
 
@@ -172,9 +172,9 @@ Moderne bedrifter bruker [API-integrasjoner](/blogs/regnskap/hva-er-api-integras
 
 ![Juridisk rammeverk proformafaktura](juridisk-rammeverk-proformafaktura.svg)
 
-Ved tvister eller misforstÃ¥elser kan proformafakturaer brukes som:
+Ved tvister eller misforståelser kan proformafakturaer brukes som:
 
-* **Intensjonsdokument:** Bevis pÃ¥ forhandlingsgrunnlag
+* **Intensjonsdokument:** Bevis på forhandlingsgrunnlag
 * **Kommunikasjon:** Dokumenter utveksling av informasjon
 * **Referansedokument:** Grunnlag for senere avtaler
 * **Kvalitetsspesifikasjon:** Detaljert beskrivelse av produkter
@@ -186,36 +186,36 @@ Ved tvister eller misforstÃ¥elser kan proformafakturaer brukes som:
 Etabler klare rutiner for utstedelse av proformafakturaer:
 
 * **Autorisasjon:** Hvem kan utstede proformafakturaer
-* **Innholdskontroll:** Sjekkliste for nÃ¸dvendig informasjon
+* **Innholdskontroll:** Sjekkliste for nødvendig informasjon
 * **Prisgodkjenning:** Kontroll av priser og rabatter
 * **Gyldighetskontroll:** Vurdering av tilbudsperiode
 
-### OppfÃ¸lgingsrutiner
+### Oppfølgingsrutiner
 
-![OppfÃ¸lging av proformafakturaer](oppfolging-proformafakturaer.svg)
+![Oppfølging av proformafakturaer](oppfolging-proformafakturaer.svg)
 
-* **Statussporing:** FÃ¸lge opp kunderespons
-* **KonverteringsovervÃ¥king:** MÃ¥le hvor mange som blir faktiske ordrer
+* **Statussporing:** Følge opp kunderespons
+* **Konverteringsovervåking:** Måle hvor mange som blir faktiske ordrer
 * **Revisjoner:** Oppdatere priser og betingelser ved behov
 * **Arkivering:** Systematisk oppbevaring av dokumenter
 
 ### Kvalitetssikring
 
-* **Standardmaler:** Bruk forhÃ¥ndsdefinerte maler
+* **Standardmaler:** Bruk forhåndsdefinerte maler
 * **Datavalidering:** Automatisk kontroll av tall og beregninger
-* **SprÃ¥kkontroll:** Sikre korrekt terminologi og oversettelser
+* **Språkkontroll:** Sikre korrekt terminologi og oversettelser
 * **Lovlighetssjekk:** Kontrollere at informasjonen er korrekt
 
 ## Internasjonale Standarder og Praksis
 
 ### WTO og Handelsfasilitering
 
-**Verdens Handelsorganisasjon (WTO)** anbefaler standardisering av proformafakturaer for Ã¥:
+**Verdens Handelsorganisasjon (WTO)** anbefaler standardisering av proformafakturaer for å:
 
 * **Redusere handelshindringer:** Enklere grensepassering
-* **Ã˜ke transparens:** Tydelige og enhetlige dokumenter
+* **Øke transparens:** Tydelige og enhetlige dokumenter
 * **Fremme digitalisering:** Elektronisk dokumentutveksling
-* **StÃ¸tte utviklingsland:** Kapasitetsbygging innen handelsdokumentasjon
+* **Støtte utviklingsland:** Kapasitetsbygging innen handelsdokumentasjon
 
 ### UNCITRAL-standarder
 
@@ -226,15 +226,15 @@ Etabler klare rutiner for utstedelse av proformafakturaer:
 * **Elektronisk handel:** Digitale signaturer og autentisering
 * **Dokumentstandarder:** Enhetlige krav til innhold
 * **Tverrgrensing:** Harmonisering av nasjonale regelverk
-* **KonfliktlÃ¸sning:** Mekanismer for handelsconflictes
+* **Konfliktløsning:** Mekanismer for handelsconflictes
 
 ## Bransjespesifikke Anvendelser
 
 ### Produksjonsbedrifter
 
-I [produksjonsbedrifter](/blogs/regnskap/hva-er-produksjonsbedrift "Hva er Produksjonsbedrift? Kalkulasjon og RegnskapsfÃ¸ring") brukes proformafakturaer til:
+I [produksjonsbedrifter](/blogs/regnskap/hva-er-produksjonsbedrift "Hva er Produksjonsbedrift? Kalkulasjon og Regnskapsføring") brukes proformafakturaer til:
 
-* **Tilpassede produkter:** Spesifikasjoner for skreddersydde lÃ¸sninger
+* **Tilpassede produkter:** Spesifikasjoner for skreddersydde løsninger
 * **Lange produksjonstider:** Prisgaranti over produksjonsperioden
 * **Komplekse komponenter:** Detaljerte tekniske beskrivelser
 * **Kvalitetsstandarder:** Spesifikasjoner for testing og sertifisering
@@ -245,18 +245,18 @@ I [produksjonsbedrifter](/blogs/regnskap/hva-er-produksjonsbedrift "Hva er Produ
 
 For [servicebedrifter](/blogs/regnskap/hva-er-servicebedrift "Hva er Servicebedrift? Kostnadsberegning og Prissetting") inkluderer proformafakturaer:
 
-* **Arbeidstimer:** Estimerte timer for prosjektgjennomfÃ¸ring
+* **Arbeidstimer:** Estimerte timer for prosjektgjennomføring
 * **Ressursbruk:** Materiale og utstyr som kreves
-* **MilepÃ¦ler:** Delleveranser og betalingsplan
-* **EndringshÃ¥ndtering:** Prosedyrer for scope-endringer
+* **Milepæler:** Delleveranser og betalingsplan
+* **Endringshåndtering:** Prosedyrer for scope-endringer
 
 ### Handelsbedrifter
 
-I [handel](/blogs/regnskap/hva-er-handelsbedrift "Hva er Handelsbedrift? VarestrÃ¸m og Marginstyring") fokuserer proformafakturaer pÃ¥:
+I [handel](/blogs/regnskap/hva-er-handelsbedrift "Hva er Handelsbedrift? Varestrøm og Marginstyring") fokuserer proformafakturaer på:
 
 * **Leveringskapasitet:** Tilgjengelighet og lagerstatus
 * **Sesongvariasjoner:** Priser og tilgjengelighet over tid
-* **Volumrabatter:** Pristrapper basert pÃ¥ kvantum
+* **Volumrabatter:** Pristrapper basert på kvantum
 * **Markedsvolatilitet:** Prisgarantier og justeringsmekanismer
 
 ## Fremtidige Trender
@@ -265,21 +265,21 @@ I [handel](/blogs/regnskap/hva-er-handelsbedrift "Hva er Handelsbedrift? Varestr
 
 ![Fremtidens proformafaktura teknologi](fremtidens-proformafaktura-teknologi.svg)
 
-Nye teknologier vil pÃ¥virke proformafakturaer:
+Nye teknologier vil påvirke proformafakturaer:
 
 * **Blockchain-dokumentasjon:** Uforanderlig sporing av dokumenter
 * **Smart contracts:** Automatisk konvertering til bindende avtaler
 * **IoT-integrasjon:** Sanntidsdata fra produkter og leveranser
 * **AI-optimalisering:** Intelligent prisberegning og risikovurdering
 
-### BÃ¦rekraft og ESG
+### Bærekraft og ESG
 
-Ã˜kende fokus pÃ¥ **miljÃ¸, samfunn og styring (ESG)** pÃ¥virker:
+Økende fokus på **miljø, samfunn og styring (ESG)** påvirker:
 
-* **Karbonfotavtrykk:** Inkludering av miljÃ¸data i dokumenter
-* **LeverandÃ¸rkjeden:** Transparens om produksjonsbetingelser
+* **Karbonfotavtrykk:** Inkludering av miljødata i dokumenter
+* **Leverandørkjeden:** Transparens om produksjonsbetingelser
 * **Sosiale standarder:** Dokumentasjon av arbeidsforhold
-* **SirkulÃ¦r Ã¸konomi:** Informasjon om gjenbruk og resirkulering
+* **Sirkulær økonomi:** Informasjon om gjenbruk og resirkulering
 
 ## Beste Praksis for Proformafakturaer
 
@@ -288,11 +288,11 @@ Nye teknologier vil pÃ¥virke proformafakturaer:
 * **Tydelig merking:** Marker dokumentet som "PROFORMA INVOICE"
 * **Profesjonelt utseende:** Konsistent branding og layout
 * **Strukturert informasjon:** Logisk oppbygging av data
-* **Flere sprÃ¥k:** Oversettelser for internasjonale kunder
+* **Flere språk:** Oversettelser for internasjonale kunder
 
-### RisikohÃ¥ndtering
+### Risikohåndtering
 
-![RisikohÃ¥ndtering proformafakturaer](risikohandtering-proformafakturaer.svg)
+![Risikohåndtering proformafakturaer](risikohandtering-proformafakturaer.svg)
 
 * **Disclaimere:** Tydelige forbehold om endringer
 * **Gyldighetsperioder:** Klare tidsfrister for tilbud
@@ -301,12 +301,16 @@ Nye teknologier vil pÃ¥virke proformafakturaer:
 
 ### Kundeopplevelse
 
-* **Rask respons:** Kort tid fra forespÃ¸rsel til proformafaktura
+* **Rask respons:** Kort tid fra forespørsel til proformafaktura
 * **Personalisering:** Tilpasset kundens behov og marked
-* **OppfÃ¸lging:** Proaktiv kommunikasjon om status
-* **RÃ¥dgivning:** Hjelp med tollprosedyrer og finansiering
+* **Oppfølging:** Proaktiv kommunikasjon om status
+* **Rådgivning:** Hjelp med tollprosedyrer og finansiering
 
-En godt utformet proformafaktura er et kraftfullt verktÃ¸y for Ã¥ bygge tillit, legge til rette for internasjonal handel og sikre smidig behandling av komplekse transaksjoner. Ved Ã¥ fÃ¸lge beste praksis og holde seg oppdatert pÃ¥ teknologiske utviklinger kan bedrifter maksimere verdien av dette viktige handelsdokumentet.
+En godt utformet proformafaktura er et kraftfullt verktøy for å bygge tillit, legge til rette for internasjonal handel og sikre smidig behandling av komplekse transaksjoner. Ved å følge beste praksis og holde seg oppdatert på teknologiske utviklinger kan bedrifter maksimere verdien av dette viktige handelsdokumentet.
+
+
+
+
 
 
 

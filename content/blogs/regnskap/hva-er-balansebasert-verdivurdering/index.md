@@ -1,75 +1,75 @@
 ﻿---
 title: "Hva er Balansebasert Verdivurdering?"
 meta_title: "Hva er Balansebasert Verdivurdering?"
-meta_description: '**Balansebasert verdivurdering** er prosessen med Ã¥ fastsette verdien av [eiendeler](/blogs/regnskap/hva-er-aktiva "Hva er Aktiva? Komplett Guide til Eiendeler...'
+meta_description: '**Balansebasert verdivurdering** er prosessen med å fastsette verdien av [eiendeler](/blogs/regnskap/hva-er-aktiva "Hva er Aktiva? Komplett Guide til Eiendeler...'
 slug: hva-er-balansebasert-verdivurdering
 type: blog
 layout: pages/single
 ---
 
-**Balansebasert verdivurdering** er prosessen med Ã¥ fastsette verdien av [eiendeler](/blogs/regnskap/hva-er-aktiva "Hva er Aktiva? Komplett Guide til Eiendeler i Balansen") og gjeld i [balansen](/blogs/regnskap/hva-er-avslutningsbalanse "Hva er Avslutningsbalanse? Guide til Ã…rsoppgjÃ¸r og Balanseoppsett"). Dette er et **grunnleggende prinsipp** i regnskapsfÃ¸ring som pÃ¥virker hvordan selskaper presenterer sin finansielle stilling og verdiskapning. I motsetning til [inntjeningsbasert verdivurdering](/blogs/regnskap/hva-er-inntjeningsbasert-verdivurdering "Inntjeningsbasert Verdivurdering - DCF, P/E og Verdsettelsesmetoder") som fokuserer pÃ¥ fremtidig inntjening, ser balansebasert verdivurdering pÃ¥ nÃ¥vÃ¦rende eiendeler og forpliktelser. For Ã¥ forstÃ¥ sammenhengen mellom markedsverdi og bokfÃ¸rt verdi, se [Q-ratio](/blogs/regnskap/hva-er-q-ratio "Hva er Q-ratio (Tobin's Q)? Komplett Guide til Verdivurdering og Markedsanalyse").
+**Balansebasert verdivurdering** er prosessen med å fastsette verdien av [eiendeler](/blogs/regnskap/hva-er-aktiva "Hva er Aktiva? Komplett Guide til Eiendeler i Balansen") og gjeld i [balansen](/blogs/regnskap/hva-er-avslutningsbalanse "Hva er Avslutningsbalanse? Guide til Årsoppgjør og Balanseoppsett"). Dette er et **grunnleggende prinsipp** i regnskapsføring som påvirker hvordan selskaper presenterer sin finansielle stilling og verdiskapning. I motsetning til [inntjeningsbasert verdivurdering](/blogs/regnskap/hva-er-inntjeningsbasert-verdivurdering "Inntjeningsbasert Verdivurdering - DCF, P/E og Verdsettelsesmetoder") som fokuserer på fremtidig inntjening, ser balansebasert verdivurdering på nåværende eiendeler og forpliktelser. For å forstå sammenhengen mellom markedsverdi og bokført verdi, se [Q-ratio](/blogs/regnskap/hva-er-q-ratio "Hva er Q-ratio (Tobin's Q)? Komplett Guide til Verdivurdering og Markedsanalyse").
 
 ![Illustrasjon som viser konseptet om balansebasert verdivurdering](hva-er-balansebasert-verdivurdering-image.svg)
 
 ## Hva er Balansebasert Verdivurdering?
 
-Balansebasert verdivurdering omfatter **systematisk vurdering** av alle poster i balansen for Ã¥ sikre at de gjenspeiler deres **reelle Ã¸konomiske verdi**. Dette innebÃ¦rer valg mellom ulike verdivurderingsmetoder basert pÃ¥:
+Balansebasert verdivurdering omfatter **systematisk vurdering** av alle poster i balansen for å sikre at de gjenspeiler deres **reelle økonomiske verdi**. Dette innebærer valg mellom ulike verdivurderingsmetoder basert på:
 
-* **Eiendelens karakter** og bruksomrÃ¥de
+* **Eiendelens karakter** og bruksområde
 * **Markedsforhold** og tilgjengelighet av prisdata
 * **Regnskapsstandarder** og lovkrav
 * **Selskapets forretningsmodell** og strategi
 
-### FormÃ¥l med Balansebasert Verdivurdering
+### Formål med Balansebasert Verdivurdering
 
-HovedformÃ¥lene med balansebasert verdivurdering er Ã¥:
+Hovedformålene med balansebasert verdivurdering er å:
 
 * **Gi rettvisende bilde** av selskapets finansielle stilling
-* **StÃ¸tte beslutningstagning** for ledelse og investorer
+* **Støtte beslutningstagning** for ledelse og investorer
 * **Sikre sammenlignbarhet** mellom selskaper og perioder
 * **Oppfylle regulatoriske krav** og regnskapsstandarder
 * **Identifisere verdiskapning** og verdiforringelse
 
 ## Verdivurderingsmetoder
 
-Det finnes flere metoder for balansebasert verdivurdering, hver med sine fordeler og anvendelsesomrÃ¥der.
+Det finnes flere metoder for balansebasert verdivurdering, hver med sine fordeler og anvendelsesområder.
 
 ![Oversikt over verdivurderingsmetoder](verdivurderingsmetoder-oversikt.svg)
 
 ### Historisk Kost
 
-**Historisk kost** er den opprinnelige [anskaffelseskosten](/blogs/regnskap/hva-er-anskaffelseskost "Hva er Anskaffelseskost? Komplett Guide til Beregning og RegnskapsfÃ¸ring") for en eiendel, justert for [avskrivninger](/blogs/regnskap/hva-er-avskrivning "Hva er Avskrivning i Regnskap? Metoder, Beregning og Praktiske Eksempler") og nedskrivninger.
+**Historisk kost** er den opprinnelige [anskaffelseskosten](/blogs/regnskap/hva-er-anskaffelseskost "Hva er Anskaffelseskost? Komplett Guide til Beregning og Regnskapsføring") for en eiendel, justert for [avskrivninger](/blogs/regnskap/hva-er-avskrivning "Hva er Avskrivning i Regnskap? Metoder, Beregning og Praktiske Eksempler") og nedskrivninger.
 
 #### Fordeler med Historisk Kost:
-* **Objektivitet:** Basert pÃ¥ faktiske transaksjoner
-* **Verifiserbarhet:** Lett Ã¥ dokumentere og kontrollere
-* **Stabilitet:** Ikke pÃ¥virket av markedssvingninger
-* **Enkelt:** Krever minimal vurdering og skjÃ¸nn
+* **Objektivitet:** Basert på faktiske transaksjoner
+* **Verifiserbarhet:** Lett å dokumentere og kontrollere
+* **Stabilitet:** Ikke påvirket av markedssvingninger
+* **Enkelt:** Krever minimal vurdering og skjønn
 
 #### Ulemper med Historisk Kost:
-* **Utdatert informasjon:** Gjenspeiler ikke nÃ¥vÃ¦rende markedsverdier
-* **InflasjonspÃ¥virkning:** Ikke justert for prisstigning
+* **Utdatert informasjon:** Gjenspeiler ikke nåværende markedsverdier
+* **Inflasjonspåvirkning:** Ikke justert for prisstigning
 * **Begrenset relevans:** Kan gi misvisende bilde av verdier
 
 ### Virkelig Verdi (Fair Value)
 
-**Virkelig verdi** er prisen som ville blitt mottatt ved salg av en eiendel eller betalt for Ã¥ overfÃ¸re en forpliktelse i en ordnet transaksjon mellom markedsdeltakere.
+**Virkelig verdi** er prisen som ville blitt mottatt ved salg av en eiendel eller betalt for å overføre en forpliktelse i en ordnet transaksjon mellom markedsdeltakere.
 
 #### Hierarki for Virkelig Verdi:
 
-| NivÃ¥ | Beskrivelse | Eksempler |
+| Nivå | Beskrivelse | Eksempler |
 |------|-------------|-----------|
-| **NivÃ¥ 1** | Noterte priser i aktive markeder | BÃ¸rsnoterte aksjer, obligasjoner |
-| **NivÃ¥ 2** | Observable input, ikke noterte priser | Rentekurver, valutakurser |
-| **NivÃ¥ 3** | Ikke-observable input | Interne verdsettelsesmodeller |
+| **Nivå 1** | Noterte priser i aktive markeder | Børsnoterte aksjer, obligasjoner |
+| **Nivå 2** | Observable input, ikke noterte priser | Rentekurver, valutakurser |
+| **Nivå 3** | Ikke-observable input | Interne verdsettelsesmodeller |
 
 ### Gjenanskaffelseskost
 
-**Gjenanskaffelseskost** er kostnaden for Ã¥ anskaffe en tilsvarende eiendel med samme funksjonalitet og kapasitet.
+**Gjenanskaffelseskost** er kostnaden for å anskaffe en tilsvarende eiendel med samme funksjonalitet og kapasitet.
 
 #### Anvendelse av Gjenanskaffelseskost:
-* **ForsikringsformÃ¥l:** Fastsette erstatningsverdi
-* **Spesialiserte eiendeler:** NÃ¥r markedspriser ikke finnes
+* **Forsikringsformål:** Fastsette erstatningsverdi
+* **Spesialiserte eiendeler:** Når markedspriser ikke finnes
 * **Tekniske anlegg:** Industrielle installasjoner
 * **Immaterielle eiendeler:** Programvare og systemer
 
@@ -92,12 +92,12 @@ Det finnes flere metoder for balansebasert verdivurdering, hver med sine fordele
 
 #### Kostmodellen:
 ```
-BokfÃ¸rt verdi = Anskaffelseskost - Akkumulerte avskrivninger - Akkumulerte nedskrivninger
+Bokført verdi = Anskaffelseskost - Akkumulerte avskrivninger - Akkumulerte nedskrivninger
 ```
 
 #### Omvurderingsmodellen:
 ```
-BokfÃ¸rt verdi = Virkelig verdi pÃ¥ omvurderingstidspunktet - PÃ¥fÃ¸lgende avskrivninger - PÃ¥fÃ¸lgende nedskrivninger
+Bokført verdi = Virkelig verdi på omvurderingstidspunktet - Påfølgende avskrivninger - Påfølgende nedskrivninger
 ```
 
 ### Verdivurdering av Finansielle Instrumenter
@@ -106,9 +106,9 @@ Finansielle instrumenter klassifiseres i kategorier som bestemmer verdivurdering
 
 | Kategori | Verdivurdering | Verdiendringer |
 |----------|----------------|----------------|
-| **Amortisert kost** | Historisk kost + renter - avdrag | ResultatfÃ¸res ved realisasjon |
-| **Virkelig verdi over OCI** | Virkelig verdi | FÃ¸res over utvidet resultat |
-| **Virkelig verdi over resultat** | Virkelig verdi | ResultatfÃ¸res lÃ¸pende |
+| **Amortisert kost** | Historisk kost + renter - avdrag | Resultatføres ved realisasjon |
+| **Virkelig verdi over OCI** | Virkelig verdi | Føres over utvidet resultat |
+| **Virkelig verdi over resultat** | Virkelig verdi | Resultatføres løpende |
 
 ### Verdivurdering av Varelager
 
@@ -116,21 +116,21 @@ Varelager verdivurderes til **laveste av anskaffelseskost og netto realisasjonsv
 
 #### Kostnadsmetoder for Varelager:
 
-* **FIFO (First In, First Out):** Eldste varer selges fÃ¸rst
+* **FIFO (First In, First Out):** Eldste varer selges først
 * **Vektet gjennomsnitt:** Gjennomsnittlig kostnad for alle varer
-* **Spesifikk identifikasjon:** For unike eller hÃ¸yverdige varer
+* **Spesifikk identifikasjon:** For unike eller høyverdige varer
 
 ![Varelager verdivurderingsmetoder](varelager-verdivurdering.svg)
 
 ## Omvurdering av Eiendeler
 
-**Omvurdering** innebÃ¦rer Ã¥ justere bokfÃ¸rt verdi til virkelig verdi pÃ¥ balansedagen.
+**Omvurdering** innebærer å justere bokført verdi til virkelig verdi på balansedagen.
 
-### RegnskapsfÃ¸ring av Omvurdering
+### Regnskapsføring av Omvurdering
 
 #### Oppskrivning:
 ```
-Dr. Eiendel (Ã¸kning i verdi)
+Dr. Eiendel (økning i verdi)
 Cr. Omvurderingsreserve (egenkapital)
 ```
 
@@ -146,41 +146,41 @@ Cr. Eiendel (reduksjon i verdi)
 
 * **Urealiserte gevinster** fra oppskrivning av eiendeler
 * **Reversering av tidligere nedskrivninger**
-* **Valutaomregningsdifferanser** pÃ¥ utenlandske datterselskaper
+* **Valutaomregningsdifferanser** på utenlandske datterselskaper
 
 ## Nedskrivningstesting
 
-**Nedskrivningstesting** er prosessen med Ã¥ vurdere om en eiendels bokfÃ¸rte verdi overstiger dens **gjenvinnbare belÃ¸p**.
+**Nedskrivningstesting** er prosessen med å vurdere om en eiendels bokførte verdi overstiger dens **gjenvinnbare beløp**.
 
-### Indikatorer pÃ¥ Verdifall
+### Indikatorer på Verdifall
 
 Eksterne indikatorer:
-* **Markedsverdifall** pÃ¥ mer enn forventet
+* **Markedsverdifall** på mer enn forventet
 * **Negative endringer** i teknologi eller marked
-* **Ã˜kte renter** som pÃ¥virker diskonteringsrente
-* **Selskapets markedsverdi** under bokfÃ¸rt verdi
+* **Økte renter** som påvirker diskonteringsrente
+* **Selskapets markedsverdi** under bokført verdi
 
 Interne indikatorer:
 * **Fysisk skade** eller forringelse
 * **Endringer i bruk** eller strategi
-* **DÃ¥rligere ytelse** enn forventet
+* **Dårligere ytelse** enn forventet
 * **Planer om avhending** eller omstrukturering
 
-### Beregning av Gjenvinnbart BelÃ¸p
+### Beregning av Gjenvinnbart Beløp
 
 ![Nedskrivningstesting prosess](nedskrivningstesting-prosess.svg)
 
-**Gjenvinnbart belÃ¸p** er det hÃ¸yeste av:
+**Gjenvinnbart beløp** er det høyeste av:
 
 1. **Virkelig verdi fratrukket salgskostnader**
-2. **Bruksverdi** (nÃ¥verdi av fremtidige kontantstrÃ¸mmer)
+2. **Bruksverdi** (nåverdi av fremtidige kontantstrømmer)
 
 #### Beregning av Bruksverdi:
 ```
-Bruksverdi = Î£ (KontantstrÃ¸m Ã¥r t / (1 + diskonteringsrente)^t) + Terminalverdi
+Bruksverdi = Î£ (Kontantstrøm år t / (1 + diskonteringsrente)^t) + Terminalverdi
 ```
 
-Denne tilnÃ¦rmingen ligner pÃ¥ metodene brukt i [inntjeningsbasert verdivurdering](/blogs/regnskap/hva-er-inntjeningsbasert-verdivurdering "Inntjeningsbasert Verdivurdering - DCF, P/E og Verdsettelsesmetoder"), men anvendes her for Ã¥ teste om eiendelens bokfÃ¸rte verdi er for hÃ¸y.
+Denne tilnærmingen ligner på metodene brukt i [inntjeningsbasert verdivurdering](/blogs/regnskap/hva-er-inntjeningsbasert-verdivurdering "Inntjeningsbasert Verdivurdering - DCF, P/E og Verdsettelsesmetoder"), men anvendes her for å teste om eiendelens bokførte verdi er for høy.
 
 ## Verdivurdering i Ulike Bransjer
 
@@ -189,22 +189,22 @@ Denne tilnÃ¦rmingen ligner pÃ¥ metodene brukt i [inntjeningsbasert verdivurd
 I eiendomsbransjen er **virkelig verdi** ofte foretrukket for:
 
 * **Investeringseiendommer:** Verdivurderes til virkelig verdi
-* **Utleieeiendommer:** Basert pÃ¥ markedspriser og avkastningskrav
-* **Utviklingsprosjekter:** Netto nÃ¥verdi av fremtidige kontantstrÃ¸mmer
+* **Utleieeiendommer:** Basert på markedspriser og avkastningskrav
+* **Utviklingsprosjekter:** Netto nåverdi av fremtidige kontantstrømmer
 
 ### Teknologibransjen
 
 Teknologiselskaper har spesielle utfordringer:
 
-* **Immaterielle eiendeler:** Vanskelig Ã¥ verdsette
-* **Rask teknologiutvikling:** HÃ¸y risiko for verdifall
+* **Immaterielle eiendeler:** Vanskelig å verdsette
+* **Rask teknologiutvikling:** Høy risiko for verdifall
 * **Forsknings- og utviklingskostnader:** Usikker fremtidig verdi
 
 ### Finansbransjen
 
 Finansinstitusjoner har omfattende krav til verdivurdering:
 
-* **UtlÃ¥nsportefÃ¸lje:** Justert for kredittrisiko
+* **Utlånsportefølje:** Justert for kredittrisiko
 * **Verdipapirer:** Markedsbasert verdivurdering
 * **Derivater:** Komplekse verdsettelsesmodeller
 
@@ -218,7 +218,7 @@ Under **IFRS** er det spesifikke krav til verdivurdering:
 * **IAS 38:** Immaterielle eiendeler
 * **IAS 39/IFRS 9:** Finansielle instrumenter
 * **IAS 40:** Investeringseiendommer
-* **IFRS 13:** MÃ¥ling av virkelig verdi
+* **IFRS 13:** Måling av virkelig verdi
 
 ### Norske Regnskapsstandarder
 
@@ -230,9 +230,9 @@ Under **IFRS** er det spesifikke krav til verdivurdering:
 
 ## Utfordringer og Risiko
 
-### SkjÃ¸nnsmessige Vurderinger
+### Skjønnsmessige Vurderinger
 
-Balansebasert verdivurdering innebÃ¦rer betydelig **skjÃ¸nn** som kan pÃ¥virke:
+Balansebasert verdivurdering innebærer betydelig **skjønn** som kan påvirke:
 
 * **Resultatmanipulasjon:** Bevisst over- eller undervurdering
 * **Volatilitet:** Svingninger i rapporterte verdier
@@ -240,10 +240,10 @@ Balansebasert verdivurdering innebÃ¦rer betydelig **skjÃ¸nn** som kan pÃ¥v
 
 ### Markedsrisiko
 
-**Markedsvolatilitet** pÃ¥virker verdivurdering gjennom:
+**Markedsvolatilitet** påvirker verdivurdering gjennom:
 
 * **Prissvingninger:** Endringer i markedsverdier
-* **Likviditetsrisiko:** Vanskeligheter med Ã¥ realisere verdier
+* **Likviditetsrisiko:** Vanskeligheter med å realisere verdier
 * **Kredittrisiko:** Endringer i motpartens kredittverdighet
 
 ## Beste Praksis
@@ -254,7 +254,7 @@ God dokumentasjon av verdivurdering inkluderer:
 
 * **Verdsettelsesmetoder:** Begrunnelse for valg av metode
 * **Forutsetninger:** Underliggende antagelser og estimater
-* **Sensitivitetsanalyse:** PÃ¥virkning av endrede forutsetninger
+* **Sensitivitetsanalyse:** Påvirkning av endrede forutsetninger
 * **Kvalitetssikring:** Uavhengig gjennomgang av vurderinger
 
 ### Intern Kontroll
@@ -264,56 +264,60 @@ Effektiv intern kontroll omfatter:
 * **Klare retningslinjer:** For verdivurderingsprosesser
 * **Kompetansekrav:** Kvalifisert personell
 * **Uavhengig validering:** Ekstern bekreftelse av verdier
-* **Regelmessig oppdatering:** Kontinuerlig overvÃ¥king
+* **Regelmessig oppdatering:** Kontinuerlig overvåking
 
 ### Rapportering og Transparens
 
 God rapportering inkluderer:
 
 * **Noteopplysninger:** Detaljert informasjon om metoder
-* **Sensitivitetsanalyse:** PÃ¥virkning av endrede forutsetninger
-* **Usikkerhetsmoment:** Identifikasjon av risikoomrÃ¥der
+* **Sensitivitetsanalyse:** Påvirkning av endrede forutsetninger
+* **Usikkerhetsmoment:** Identifikasjon av risikoområder
 * **Sammenlignbare tall:** Konsistent presentasjon over tid
 
 ## Fremtidige Utviklingstrekk
 
 ### Digitalisering
 
-**Teknologiske fremskritt** pÃ¥virker verdivurdering:
+**Teknologiske fremskritt** påvirker verdivurdering:
 
 * **Automatisering:** Redusert manuelt arbeid
 * **Big Data:** Bedre datagrunnlag for vurderinger
 * **Kunstig intelligens:** Avanserte verdsettelsesmodeller
-* **Blockchain:** Ã˜kt transparens og sporbarhet
+* **Blockchain:** Økt transparens og sporbarhet
 
-### BÃ¦rekraftrapportering
+### Bærekraftrapportering
 
-**ESG-faktorer** fÃ¥r Ã¸kende betydning:
+**ESG-faktorer** får økende betydning:
 
-* **MiljÃ¸risiko:** PÃ¥virkning pÃ¥ eiendelsverdier
-* **Sosiale faktorer:** OmdÃ¸mmerisiko og verdiskapning
+* **Miljørisiko:** Påvirkning på eiendelsverdier
+* **Sosiale faktorer:** Omdømmerisiko og verdiskapning
 * **Styring:** Corporate governance og risikostyring
 
 ### Regulatoriske Endringer
 
 Forventede endringer inkluderer:
 
-* **Strengere krav:** Ã˜kt fokus pÃ¥ kvalitet og transparens
+* **Strengere krav:** Økt fokus på kvalitet og transparens
 * **Harmonisering:** Mer ensartede standarder globalt
 * **Teknologitilpasning:** Nye regler for digitale eiendeler
 
 ## Konklusjon
 
-Balansebasert verdivurdering er et **komplekst og kritisk omrÃ¥de** i regnskapsfÃ¸ring som krever:
+Balansebasert verdivurdering er et **komplekst og kritisk område** i regnskapsføring som krever:
 
-* **Grundig forstÃ¥else** av ulike verdivurderingsmetoder
-* **Solid faglig skjÃ¸nn** i valg og anvendelse av metoder
+* **Grundig forståelse** av ulike verdivurderingsmetoder
+* **Solid faglig skjønn** i valg og anvendelse av metoder
 * **Kontinuerlig oppdatering** av kunnskap og praksis
 * **Effektiv intern kontroll** og kvalitetssikring
 
-Ved Ã¥ fÃ¸lge **beste praksis** og holde seg oppdatert pÃ¥ regulatoriske endringer, kan selskaper sikre at deres balansebaserte verdivurdering gir et **rettvisende bilde** av den finansielle stillingen og stÃ¸tter god beslutningstagning.
+Ved å følge **beste praksis** og holde seg oppdatert på regulatoriske endringer, kan selskaper sikre at deres balansebaserte verdivurdering gir et **rettvisende bilde** av den finansielle stillingen og støtter god beslutningstagning.
 
-For mer informasjon om relaterte emner, se vÃ¥re artikler om [inntjeningsbasert verdivurdering](/blogs/regnskap/hva-er-inntjeningsbasert-verdivurdering "Inntjeningsbasert Verdivurdering - DCF, P/E og Verdsettelsesmetoder"), [anleggsmidler](/blogs/regnskap/hva-er-anleggsmidler "Hva er Anleggsmidler? Materielle, Immaterielle og Finansielle Eiendeler"), [avskrivning](/blogs/regnskap/hva-er-avskrivning "Hva er Avskrivning i Regnskap? Metoder, Beregning og Praktiske Eksempler") og [anskaffelseskost](/blogs/regnskap/hva-er-anskaffelseskost "Hva er Anskaffelseskost? Komplett Guide til Beregning og RegnskapsfÃ¸ring").
+For mer informasjon om relaterte emner, se våre artikler om [inntjeningsbasert verdivurdering](/blogs/regnskap/hva-er-inntjeningsbasert-verdivurdering "Inntjeningsbasert Verdivurdering - DCF, P/E og Verdsettelsesmetoder"), [anleggsmidler](/blogs/regnskap/hva-er-anleggsmidler "Hva er Anleggsmidler? Materielle, Immaterielle og Finansielle Eiendeler"), [avskrivning](/blogs/regnskap/hva-er-avskrivning "Hva er Avskrivning i Regnskap? Metoder, Beregning og Praktiske Eksempler") og [anskaffelseskost](/blogs/regnskap/hva-er-anskaffelseskost "Hva er Anskaffelseskost? Komplett Guide til Beregning og Regnskapsføring").
+
+
+
+
 
 
 

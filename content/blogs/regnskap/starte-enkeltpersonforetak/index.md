@@ -1,25 +1,25 @@
 ﻿---
 title: "Starte Enkeltpersonforetak"
 meta_title: "Starte Enkeltpersonforetak"
-meta_description: 'Se vÃ¥r [Hva er et Enkeltpersonforetak?](/blogs/regnskap/hva-er-enkeltpersonforetak "Hva er et Enkeltpersonforetak? Komplett Guide til Selskapsformen") for en o...'
+meta_description: 'Se vår [Hva er et Enkeltpersonforetak?](/blogs/regnskap/hva-er-enkeltpersonforetak "Hva er et Enkeltpersonforetak? Komplett Guide til Selskapsformen") for en o...'
 slug: starte-enkeltpersonforetak
 type: blog
 layout: pages/single
 ---
 
-Se vÃ¥r [Hva er et Enkeltpersonforetak?](/blogs/regnskap/hva-er-enkeltpersonforetak "Hva er et Enkeltpersonforetak? Komplett Guide til Selskapsformen") for en oversikt over egenskaper og definisjon av enkeltpersonforetak fÃ¸r du starter prosessen.
+Se vår [Hva er et Enkeltpersonforetak?](/blogs/regnskap/hva-er-enkeltpersonforetak "Hva er et Enkeltpersonforetak? Komplett Guide til Selskapsformen") for en oversikt over egenskaper og definisjon av enkeltpersonforetak før du starter prosessen.
 
 ![Starte Enkeltpersonforetak](starte-enkeltpersonforetak-image.svg)
 
-Ã… **starte et enkeltpersonforetak (ENK)** innebÃ¦rer en rekke steg for Ã¥ sikre korrekt registrering, organisering og oppfyllelse av lovpÃ¥lagte krav. Denne guiden tar deg gjennom hele prosessen, fra planlegging til oppstart.
+Å **starte et enkeltpersonforetak (ENK)** innebærer en rekke steg for å sikre korrekt registrering, organisering og oppfyllelse av lovpålagte krav. Denne guiden tar deg gjennom hele prosessen, fra planlegging til oppstart.
 
 ## Oversikt over stegene
 
-1. Planlegging og forretningsidÃ©
+1. Planlegging og forretningsidé
 2. Registrering i Enhetsregisteret
-3. Bankkonto og Ã¸konomi
+3. Bankkonto og økonomi
 4. MVA-registrering og skattemelding
-5. Oppsett av regnskap og bokfÃ¸ring
+5. Oppsett av regnskap og bokføring
 
 ## Tidslinje og kostnader
 
@@ -39,38 +39,42 @@ Se vÃ¥r [Hva er et Enkeltpersonforetak?](/blogs/regnskap/hva-er-enkeltpersonfo
 ### Registrering
 
 * **Frivillig registrering** i [Enhetsregisteret](/blogs/regnskap/hva-er-enhetsregisteret "Hva er Enhetsregisteret?") hvis forventet omsetning <Â 50Â 000Â kr.
-* **Obligatorisk registrering** hvis omsetning >Â 50Â 000Â kr. MVA-plikt ved omsetning >Â 50Â 000Â kr per Ã¥r.
-* Digital registrering via Altinn eller BrÃ¸nnÃ¸ysund.
+* **Obligatorisk registrering** hvis omsetning >Â 50Â 000Â kr. MVA-plikt ved omsetning >Â 50Â 000Â kr per år.
+* Digital registrering via Altinn eller Brønnøysund.
 
 ### Navn og eierskap
 
 * Driftes under **eiers eget navn** eller valgt **forretningsnavn**.
-* Eieren mÃ¥ vÃ¦re myndig og bosatt i Norge.
+* Eieren må være myndig og bosatt i Norge.
 
-### Bank og Ã¸konomi
+### Bank og økonomi
 
-* Ã…pne **forretningskonto** for Ã¥ skille privat og virksomhet.
-* Sett opp **likviditets- og budsjettplan** fÃ¸r oppstart.
+* Åpne **forretningskonto** for å skille privat og virksomhet.
+* Sett opp **likviditets- og budsjettplan** før oppstart.
 
 ## Skatt og avgifter
 
 * **Personinntekt**: Overskuddet beskattes som [personinntekt](/blogs/regnskap/personinntekt "Personinntekt “ Komplett guide til personinntekt i norsk regnskap").
 * **MVA-registrering** ved omsetning >Â 50Â 000Â kr: se [MVA-plikt](/blogs/regnskap/hva-er-avgiftsplikt-mva "Hva er Avgiftsplikt (MVA)? Komplett Guide til Merverdiavgift i Norge").
-* Levering av **nÃ¦ringsoppgave** via [skattemelding for nÃ¦ringsdrivende](/blogs/regnskap/hva-er-naeringsoppgave "Hva er NÃ¦ringsoppgave? Komplett Guide til NÃ¦ringsoppgaven i Norge").
+* Levering av **næringsoppgave** via [skattemelding for næringsdrivende](/blogs/regnskap/hva-er-naeringsoppgave "Hva er Næringsoppgave? Komplett Guide til Næringsoppgaven i Norge").
 
-## Gode rÃ¥d for en vellykket oppstart
+## Gode råd for en vellykket oppstart
 
-* **Planlegg nÃ¸ye**: Sett realistiske mÃ¥l og vurder risiko.
-* **Hold orden pÃ¥ Ã¸konomien**: Bruk digitale verktÃ¸y for [bokfÃ¸ring](/blogs/regnskap/hva-er-bokforing "Hva er BokfÃ¸ring? Komplett Guide til BokfÃ¸ring og RegnskapsfÃ¸ring").
+* **Planlegg nøye**: Sett realistiske mål og vurder risiko.
+* **Hold orden på økonomien**: Bruk digitale verktøy for [bokføring](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? Komplett Guide til Bokføring og Regnskapsføring").
 * **Forsikre virksomheten**: Vurder yrkesansvarsforsikring og andre relevante forsikringer.
-* **OppfÃ¸lging**: FÃ¸lg lÃ¸pende opp regnskap, skatter og avgifter.
+* **Oppfølging**: Følg løpende opp regnskap, skatter og avgifter.
 
 ## Relaterte artikler
 
 * [Hva er et Enkeltpersonforetak?](/blogs/regnskap/hva-er-enkeltpersonforetak "Hva er et Enkeltpersonforetak? Komplett Guide til Selskapsformen")
-* [Starte AS](/blogs/regnskap/starte-as "Starte AS: Steg-for-steg guide for Ã¥ registrere aksjeselskap (AS)")
+* [Starte AS](/blogs/regnskap/starte-as "Starte AS: Steg-for-steg guide for å registrere aksjeselskap (AS)")
 * [Organisasjonsform](/blogs/regnskap/organisasjonsform "Organisasjonsform: Oversikt over selskapsformer i Norge")
 * [MVA-plikt](/blogs/regnskap/hva-er-avgiftsplikt-mva "Hva er Avgiftsplikt (MVA)? Komplett Guide til Merverdiavgift i Norge")
+
+
+
+
 
 
 

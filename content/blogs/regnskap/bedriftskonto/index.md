@@ -1,28 +1,28 @@
 ﻿---
 title: "Hva er Bedriftskonto?"
 meta_title: "Hva er Bedriftskonto?"
-meta_description: '**Bedriftskonto** er en **bankkonto** designet spesielt for **virksomheter** i Norge, tilpasset for **daglig Ã¸konomistyring**, betalinger og integrasjon med re...'
+meta_description: '**Bedriftskonto** er en **bankkonto** designet spesielt for **virksomheter** i Norge, tilpasset for **daglig økonomistyring**, betalinger og integrasjon med re...'
 slug: bedriftskonto
 type: blog
 layout: pages/single
 ---
 
-**Bedriftskonto** er en **bankkonto** designet spesielt for **virksomheter** i Norge, tilpasset for **daglig Ã¸konomistyring**, betalinger og integrasjon med regnskapssystemer.
+**Bedriftskonto** er en **bankkonto** designet spesielt for **virksomheter** i Norge, tilpasset for **daglig økonomistyring**, betalinger og integrasjon med regnskapssystemer.
 
-En **bedriftskonto** er mer enn bare et betalingsverktÃ¸y; det er hjertet i bedriftens **likviditetsstyring** og finansielle infrastruktur.
+En **bedriftskonto** er mer enn bare et betalingsverktøy; det er hjertet i bedriftens **likviditetsstyring** og finansielle infrastruktur.
 
-Den gir oversikt over kontantstrÃ¸m, sikrer skille mellom private og forretningsmessige midler, og legger til rette for effektiv **bokfÃ¸ring** i henhold til norsk regnskapslov.
+Den gir oversikt over kontantstrøm, sikrer skille mellom private og forretningsmessige midler, og legger til rette for effektiv **bokføring** i henhold til norsk regnskapslov.
 
 ![Illustrasjon av konseptet bedriftskonto](bedriftskonto-image.svg)
 
 ## Hva er bedriftskonto?
 
-En bedriftskonto gir bedriften en strukturert mÃ¥te Ã¥ hÃ¥ndtere likviditet, betalinger og finansielle forpliktelser. Typiske funksjoner inkluderer:
+En bedriftskonto gir bedriften en strukturert måte å håndtere likviditet, betalinger og finansielle forpliktelser. Typiske funksjoner inkluderer:
 
 * **Brukskonto** for daglige betalinger og inntekter
 * **Sparekonto** for overskuddslikviditet
 * **Valutakonto** for internasjonale transaksjoner
-* **Skattetrekkskonto** for innskudd av skattetrekk ([Hva er Skattetrekkskonto?](/blogs/regnskap/hva-er-skattetrekkskonto "Hva er Skattetrekkskonto? RegnskapsfÃ¸ring av skattetrekk"))
+* **Skattetrekkskonto** for innskudd av skattetrekk ([Hva er Skattetrekkskonto?](/blogs/regnskap/hva-er-skattetrekkskonto "Hva er Skattetrekkskonto? Regnskapsføring av skattetrekk"))
 
 Les mer om [Bedriftsbank](/blogs/regnskap/bedriftsbank "Bedriftsbank - Oversikt over banktjenester for bedrifter og regnskapsintegrasjon") for en helhetlig oversikt over bedriftens banktjenester.
 
@@ -34,23 +34,23 @@ Les mer om [Bedriftsbank](/blogs/regnskap/bedriftsbank "Bedriftsbank - Oversikt 
 
 | Kontotype           | Beskrivelse                                    | Relatert artikkel                                                           |
 |---------------------|------------------------------------------------|------------------------------------------------------------------------------|
-| **Brukskonto**      | Daglig drift og betalinger                     | [Hva er Bankinnskudd?](/blogs/regnskap/hva-er-bankinnskudd "Bankinnskudd: Typer og fÃ¸ring") |
-| **Sparekonto**      | Plassering av overskuddslikviditet             | [Hva er Bankinnskudd?](/blogs/regnskap/hva-er-bankinnskudd "Bankinnskudd: Typer og fÃ¸ring") |
-| **Valutakonto**     | HÃ¥ndtering av utenlandsk valuta                | [Hva er Banktransaksjoner?](/blogs/regnskap/hva-er-banktransaksjoner "Banktransaksjoner: Registrering og kontroll") |
-| **Skattetrekkskonto**| Konto for innskudd av forskuddstrekk           | [Hva er Skattetrekkskonto?](/blogs/regnskap/hva-er-skattetrekkskonto "Skattetrekkskonto: RegnskapsfÃ¸ring av skattetrekk") |
+| **Brukskonto**      | Daglig drift og betalinger                     | [Hva er Bankinnskudd?](/blogs/regnskap/hva-er-bankinnskudd "Bankinnskudd: Typer og føring") |
+| **Sparekonto**      | Plassering av overskuddslikviditet             | [Hva er Bankinnskudd?](/blogs/regnskap/hva-er-bankinnskudd "Bankinnskudd: Typer og føring") |
+| **Valutakonto**     | Håndtering av utenlandsk valuta                | [Hva er Banktransaksjoner?](/blogs/regnskap/hva-er-banktransaksjoner "Banktransaksjoner: Registrering og kontroll") |
+| **Skattetrekkskonto**| Konto for innskudd av forskuddstrekk           | [Hva er Skattetrekkskonto?](/blogs/regnskap/hva-er-skattetrekkskonto "Skattetrekkskonto: Regnskapsføring av skattetrekk") |
 
 ## Fordeler med bedriftskonto
 
-Ã… velge riktig bedriftskonto gir flere **fordeler**:
+Å velge riktig bedriftskonto gir flere **fordeler**:
 
-* **Oversikt** over kontantstrÃ¸m og saldo
-* **Effektiv bokfÃ¸ring** med automatisk integrasjon
+* **Oversikt** over kontantstrøm og saldo
+* **Effektiv bokføring** med automatisk integrasjon
 * **Bedre sikkerhet** og skille mellom private og bedriftens midler
 * **Fleksibilitet** med spesialiserte kontoer for ulike behov
 
-## RegnskapsfÃ¸ringshensyn
+## Regnskapsføringshensyn
 
-Bedriftskontoer mÃ¥ behandles i regnskapet i henhold til bokfÃ¸ringsregler:
+Bedriftskontoer må behandles i regnskapet i henhold til bokføringsregler:
 
 | Kontotype           | Regnskapskontoeksempel                        |
 |---------------------|-----------------------------------------------|
@@ -60,31 +60,35 @@ Bedriftskontoer mÃ¥ behandles i regnskapet i henhold til bokfÃ¸ringsregler:
 
 ## Regulatoriske krav
 
-Bedriftskontoer mÃ¥ oppfylle krav i henhold til [BokfÃ¸ringsloven](/blogs/regnskap/hva-er-bokforingsloven "Hva er BokfÃ¸ringsloven? Krav, Regler og Praktisk Veiledning") og Finanstilsynets retningslinjer. Dette inkluderer blant annet:
+Bedriftskontoer må oppfylle krav i henhold til [Bokføringsloven](/blogs/regnskap/hva-er-bokforingsloven "Hva er Bokføringsloven? Krav, Regler og Praktisk Veiledning") og Finanstilsynets retningslinjer. Dette inkluderer blant annet:
 
 * **Registrering** med korrekt organisasjonsnummer og forretningsadresse
 * **Skille** mellom driftskontoer og skattetrekkskonto
 * **Hvitvaskingskontroll** gjennom etablerte internkontrollrutiner ([Hva er Internkontroll?](/blogs/regnskap/hva-er-internkontroll "Hva er Internkontroll? Prosesser og Rutiner for Kvalitetssikring"))
 
-Se ogsÃ¥ [Hva er Bankavstemming?](/blogs/regnskap/hva-er-bankavstemming "Bankavstemming: Prosess og kontroll").
+Se også [Hva er Bankavstemming?](/blogs/regnskap/hva-er-bankavstemming "Bankavstemming: Prosess og kontroll").
 
 ## Hvordan velge bedriftskonto
 
-Ved valg av konto bÃ¸r bedriften vurdere:
+Ved valg av konto bør bedriften vurdere:
 
 1. **Gebyrer** og kostnader
 2. **Rentebetingelser** for spare- og brukskonto
 3. **Digitale tjenester** som nettbank og mobilbank
 4. **Integrasjon** med regnskapssystemer
-5. **Kundeservice** og rÃ¥dgivningstilbud
+5. **Kundeservice** og rådgivningstilbud
 
 ## Relaterte artikler
 
 * [Hva er Bedriftsbank?](/blogs/regnskap/bedriftsbank "Hva er Bedriftsbank? Oversikt over banktjenester for bedrifter")
-* [Hva er Bankinnskudd?](/blogs/regnskap/hva-er-bankinnskudd "Bankinnskudd: Typer og fÃ¸ring")
+* [Hva er Bankinnskudd?](/blogs/regnskap/hva-er-bankinnskudd "Bankinnskudd: Typer og føring")
 * [Hva er Banktransaksjoner?](/blogs/regnskap/hva-er-banktransaksjoner "Banktransaksjoner: Registrering og kontroll")
 * [Hva er Bankavstemming?](/blogs/regnskap/hva-er-bankavstemming "Bankavstemming: Prosess og kontroll")
-* [Hva er Skattetrekkskonto?](/blogs/regnskap/hva-er-skattetrekkskonto "Skattetrekkskonto: RegnskapsfÃ¸ring av skattetrekk")
+* [Hva er Skattetrekkskonto?](/blogs/regnskap/hva-er-skattetrekkskonto "Skattetrekkskonto: Regnskapsføring av skattetrekk")
+
+
+
+
 
 
 

@@ -1,30 +1,30 @@
 ﻿---
 title: "Konto 5240 - Rentefordel"
 meta_title: "5240-rentefordel"
-meta_description: '**Konto 5240 - Rentefordel** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til Ã¥ registrere **rentefordel** som **ansattgode**.'
+meta_description: '**Konto 5240 - Rentefordel** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **rentefordel** som **ansattgode**.'
 slug: 5240-rentefordel
 type: blog
 layout: pages/single
 ---
 
-**Konto 5240 - Rentefordel** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til Ã¥ registrere **rentefordel** som **ansattgode**.
+**Konto 5240 - Rentefordel** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **rentefordel** som **ansattgode**.
 
 ![Illustrasjon av konto 5240 Rentefordel](5240-rentefordel-image.svg)
 
 ## Hva er rentefordel?
 
-* **Rentefordel** oppstÃ¥r nÃ¥r arbeidsgiver tilbyr lÃ¥n til under markedsrente, og den Ã¸konomiske fordelen for arbeidstaker utgjÃ¸r et **beskatningsbart ansattgode**.
-* Differansen mellom **markedsrente** og avtalt rente multiplisert med **lÃ¥nebelÃ¸p** og **antall dager** utgjÃ¸r fordelen.
-* Kostnaden belastes bedriften som en del av **lÃ¸nnskostnader**.
+* **Rentefordel** oppstår når arbeidsgiver tilbyr lån til under markedsrente, og den økonomiske fordelen for arbeidstaker utgjør et **beskatningsbart ansattgode**.
+* Differansen mellom **markedsrente** og avtalt rente multiplisert med **lånebeløp** og **antall dager** utgjør fordelen.
+* Kostnaden belastes bedriften som en del av **lønnskostnader**.
 
-## NÃ¸kkelfunksjoner
+## Nøkkelfunksjoner
 
 | Egenskap      | Beskrivelse                                           |
 |---------------|-------------------------------------------------------|
 | Kontonummer   | 5240                                                  |
 | Konto         | Rentefordel                                           |
-| Kontotype     | LÃ¸nnskostnad / personal                               |
-| FormÃ¥l        | Registrere rentefordel som ansattgode                 |
+| Kontotype     | Lønnskostnad / personal                               |
+| Formål        | Registrere rentefordel som ansattgode                 |
 
 ## Beregning av rentefordel
 
@@ -32,44 +32,49 @@ layout: pages/single
 
 Formelen for rentefordel beregnes slik:
 
-> **Rentefordel** = (Markedsrente âˆ’ Avtalt rente) Ã— LÃ¥nebelÃ¸p Ã— (Antall dager Ã· 365)
+> **Rentefordel** = (Markedsrente âˆ’ Avtalt rente) Ã— Lånebeløp Ã— (Antall dager Ã· 365)
 
-## BokfÃ¸ring av rentefordel
+## Bokføring av rentefordel
 
 | Transaksjon               | Debet                         | Kredit                        |
 |---------------------------|-------------------------------|-------------------------------|
-| Verdi av rentefordel      | Konto 5240 - Rentefordel      | Konto 2930 - LÃ¸nn             |
+| Verdi av rentefordel      | Konto 5240 - Rentefordel      | Konto 2930 - Lønn             |
 | Utbetaling av rente       | Konto 1920 - Bankinnskudd     | Konto 5240 - Rentefordel      |
 
-## Eksempel pÃ¥ bokfÃ¸ring
+## Eksempel på bokføring
 
-En arbeidstaker fÃ¥r lÃ¥n pÃ¥ 100â€¯000Â NOK til avtalt rente 1â€¯% nÃ¥r markedsrenten er 5â€¯%, over 180Â dager:
+En arbeidstaker får lån på 100–¯000Â NOK til avtalt rente 1–¯% når markedsrenten er 5–¯%, over 180Â dager:
 
 | Beskrivelse                        | Debet (NOK) | Kredit (NOK) |
 |------------------------------------|-----------:|-------------:|
-| Verdi av rentefordel               |       6â€¯575 |              |
-| Utbetaling av rentekostnad (1â€¯%)   |            |        1â€¯000 |
-| Periodisert rentefordel (resten)   |       5â€¯575 |              |
+| Verdi av rentefordel               |       6–¯575 |              |
+| Utbetaling av rentekostnad (1–¯%)   |            |        1–¯000 |
+| Periodisert rentefordel (resten)   |       5–¯575 |              |
 
 ## Praktiske hensyn
 
-* **Dokumentasjon:** SÃ¸rg for dokumentasjon av lÃ¥neavtale, rentevilkÃ¥r og markedsrente.
-* **Skatt:** Rentefordel er et **beskatningsbart** ansattgode og mÃ¥ rapporteres til **Skatteetaten**.
-* **Periodisering:** Fordel fordelen korrekt over lÃ¥neperioden.
-* **AvtalevilkÃ¥r:** Etabler klare retningslinjer for rentebetingelser pÃ¥ interne lÃ¥n.
+* **Dokumentasjon:** Sørg for dokumentasjon av låneavtale, rentevilkår og markedsrente.
+* **Skatt:** Rentefordel er et **beskatningsbart** ansattgode og må rapporteres til **Skatteetaten**.
+* **Periodisering:** Fordel fordelen korrekt over låneperioden.
+* **Avtalevilkår:** Etabler klare retningslinjer for rentebetingelser på interne lån.
 
 ## Intern lenking og relaterte kontoer
 
-* [Konto 5200 - Fri bil](/blogs/kontoplan/5200-fri-bil "Konto 5200 - Fri bil: RegnskapsfÃ¸ring av firmabil som ansattgode i Norsk kontoplan")
-* [Konto 5210 - Fri telefon](/blogs/kontoplan/5210-fri-telefon "Konto 5210 - Fri telefon: RegnskapsfÃ¸ring av fri telefon som ansattgode i Norsk kontoplan")
-* [Konto 5220 - Fri avis](/blogs/kontoplan/5220-fri-avis "Konto 5220 - Fri avis: RegnskapsfÃ¸ring av fri avis som ansattgode i Norsk kontoplan")
-* [Konto 5230 - Fri losji og bolig](/blogs/kontoplan/5230-fri-losji-og-bolig "Konto 5230 - Fri losji og bolig: RegnskapsfÃ¸ring av fri losji og bolig som ansattgode i Norsk kontoplan")
-* [Konto 5280 - Annen fordel i arbeidsforhold](/blogs/kontoplan/5280-annen-fordel-i-arbeidsforhold "Konto 5280 - Annen fordel i arbeidsforhold: RegnskapsfÃ¸ring av Ã¸vrige ansattfordeler i Norsk kontoplan")
-* [Konto 5290 - Motkonto for gruppeÂ 52](/blogs/kontoplan/5290-motkonto-for-gruppe-52 "Konto 5290 - Motkonto for gruppe 52: RegnskapsfÃ¸ring av motkonto for gruppe 52 ansattgoder i Norsk kontoplan")
+* [Konto 5200 - Fri bil](/blogs/kontoplan/5200-fri-bil "Konto 5200 - Fri bil: Regnskapsføring av firmabil som ansattgode i Norsk kontoplan")
+* [Konto 5210 - Fri telefon](/blogs/kontoplan/5210-fri-telefon "Konto 5210 - Fri telefon: Regnskapsføring av fri telefon som ansattgode i Norsk kontoplan")
+* [Konto 5220 - Fri avis](/blogs/kontoplan/5220-fri-avis "Konto 5220 - Fri avis: Regnskapsføring av fri avis som ansattgode i Norsk kontoplan")
+* [Konto 5230 - Fri losji og bolig](/blogs/kontoplan/5230-fri-losji-og-bolig "Konto 5230 - Fri losji og bolig: Regnskapsføring av fri losji og bolig som ansattgode i Norsk kontoplan")
+* [Konto 5280 - Annen fordel i arbeidsforhold](/blogs/kontoplan/5280-annen-fordel-i-arbeidsforhold "Konto 5280 - Annen fordel i arbeidsforhold: Regnskapsføring av øvrige ansattfordeler i Norsk kontoplan")
+* [Konto 5290 - Motkonto for gruppeÂ 52](/blogs/kontoplan/5290-motkonto-for-gruppe-52 "Konto 5290 - Motkonto for gruppe 52: Regnskapsføring av motkonto for gruppe 52 ansattgoder i Norsk kontoplan")
 * [Konto 5910 - Kantinekostnader](/blogs/kontoplan/5910-kantinekostnader "Konto 5910 - Kantinekostnader")
-* [Konto 2930 - LÃ¸nn](/blogs/kontoplan/2930-lonn "Konto 2930 - LÃ¸nn")
-* [Konto 5300 - Tantieme](/blogs/kontoplan/5300-tantieme "Konto 5300 - Tantieme: BokfÃ¸ring av resultatbasert godtgjÃ¸relse i Norsk kontoplan")
+* [Konto 2930 - Lønn](/blogs/kontoplan/2930-lonn "Konto 2930 - Lønn")
+* [Konto 5300 - Tantieme](/blogs/kontoplan/5300-tantieme "Konto 5300 - Tantieme: Bokføring av resultatbasert godtgjørelse i Norsk kontoplan")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 
-**Konto 5240 - Rentefordel** gir en standardisert mÃ¥te Ã¥ synliggjÃ¸re rentefordel som et **ansattgode** i regnskapet.
+**Konto 5240 - Rentefordel** gir en standardisert måte å synliggjøre rentefordel som et **ansattgode** i regnskapet.
+
+
+
+
+
 

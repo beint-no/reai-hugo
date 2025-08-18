@@ -1,13 +1,13 @@
 ﻿---
 title: "Merverdiavgift: Komplett Guide til MVA i Norge"
 meta_title: "Merverdiavgift: Komplett Guide til MVA i Norge"
-meta_description: '**Merverdiavgift (MVA)**, eller **moms**, er en indirekte forbruksavgift som pÃ¥legges omsetning av varer og tjenester i Norge. Systemet sikrer at avgiften kun ...'
+meta_description: '**Merverdiavgift (MVA)**, eller **moms**, er en indirekte forbruksavgift som pålegges omsetning av varer og tjenester i Norge. Systemet sikrer at avgiften kun ...'
 slug: merverdiavgift
 type: blog
 layout: pages/single
 ---
 
-**Merverdiavgift (MVA)**, eller **moms**, er en indirekte forbruksavgift som pÃ¥legges omsetning av varer og tjenester i Norge. Systemet sikrer at avgiften kun betales av sluttforbrukeren, men bedrifter har ansvar for Ã¥ beregne, innkreve og rapportere MVA til Skatteetaten.
+**Merverdiavgift (MVA)**, eller **moms**, er en indirekte forbruksavgift som pålegges omsetning av varer og tjenester i Norge. Systemet sikrer at avgiften kun betales av sluttforbrukeren, men bedrifter har ansvar for å beregne, innkreve og rapportere MVA til Skatteetaten.
 
 For en komplett guide til **Merverdiavgift**, se [Merverdiavgift: Komplett Guide til MVA i Norge](/blogs/regnskap/merverdiavgift "Merverdiavgift: Komplett Guide til MVA i Norge").
 
@@ -15,10 +15,10 @@ For en komplett guide til **Merverdiavgift**, se [Merverdiavgift: Komplett Guide
 
 ## Grunnleggende prinsipper
 
-Merverdiavgift bygger pÃ¥ fÃ¸lgende prinsipper:
+Merverdiavgift bygger på følgende prinsipper:
 
-* **NÃ¸ytralitet** “ avgiften pÃ¥virker ikke konkurranse mellom virksomheter.
-* **Fradragsrett** “ virksomheter fÃ¥r fradrag for MVA pÃ¥ sine kjÃ¸p.
+* **Nøytralitet** “ avgiften påvirker ikke konkurranse mellom virksomheter.
+* **Fradragsrett** “ virksomheter får fradrag for MVA på sine kjøp.
 * **Destinasjonsprinsippet** “ avgiften ilegges der varen eller tjenesten konsumeres.
 * **Bred avgiftsbase** “ de fleste varer og tjenester er omfattet.
 
@@ -26,13 +26,13 @@ Merverdiavgift bygger pÃ¥ fÃ¸lgende prinsipper:
 
 ## MVA-satser i Norge
 
-Norge har flere MVA-satser basert pÃ¥ vare- eller tjenestetype:
+Norge har flere MVA-satser basert på vare- eller tjenestetype:
 
 | Sats       | Prosent | Eksempler                                   |
 |------------|--------:|---------------------------------------------|
-| **OrdinÃ¦r**|     25% | KlÃ¦r, elektronikk, frisÃ¸rtjenester           |
+| **Ordinær**|     25% | Klær, elektronikk, frisørtjenester           |
 | **Redusert**|    15% | Matvarer, overnatting, persontransport       |
-| **Lav**    |     12% | BÃ¸ker, aviser, kringkasting                  |
+| **Lav**    |     12% | Bøker, aviser, kringkasting                  |
 | **Null**   |      0% | Eksport, utenriksfart                        |
 
 ![MVA-satser](merverdiavgift-satser.svg)
@@ -52,53 +52,53 @@ Visse varer og tjenester er fritatt for MVA:
 
 ## Registreringsplikt
 
-Virksomheter mÃ¥ registrere seg i MVA-registeret nÃ¥r omsetning av avgiftspliktige varer og tjenester overstiger **50Â 000 kr** i lÃ¸pet av 12 mÃ¥neder. Se [Hva er Avgiftsplikt (MVA)?](/blogs/regnskap/hva-er-avgiftsplikt-mva "Hva er Avgiftsplikt (MVA)?").
+Virksomheter må registrere seg i MVA-registeret når omsetning av avgiftspliktige varer og tjenester overstiger **50Â 000 kr** i løpet av 12 måneder. Se [Hva er Avgiftsplikt (MVA)?](/blogs/regnskap/hva-er-avgiftsplikt-mva "Hva er Avgiftsplikt (MVA)?").
 
 | Virksomhetstype            | Omsetningsgrense                     |
 |----------------------------|--------------------------------------|
-| Alminnelig nÃ¦ring          | 50Â 000 kr                            |
-| PrimÃ¦rnÃ¦ring               | 70Â 000 kr                            |
+| Alminnelig næring          | 50Â 000 kr                            |
+| Primærnæring               | 70Â 000 kr                            |
 | Ideelle organisasjoner     | 140Â 000 kr                           |
 
 ![Registrering i MVA-registeret](merverdiavgift-registrering.svg)
 
 ## Praktisk MVA-beregning
 
-**UtgÃ¥ende MVA** = Salgspris Ã— MVA-sats Ã· (100 + MVA-sats)  
-**InngÃ¥ende MVA** = KjÃ¸pspris Ã— MVA-sats Ã· (100 + MVA-sats)
+**Utgående MVA** = Salgspris Ã— MVA-sats Ã· (100 + MVA-sats)  
+**Inngående MVA** = Kjøpspris Ã— MVA-sats Ã· (100 + MVA-sats)
 
 Eksempel for 25% MVA:
 
 | Beregning                   | Formeltegn               | Resultat |
 |-----------------------------|--------------------------|---------:|
-| UtgÃ¥ende MVA                | 1Â 250 Ã— 25 Ã· 125         | 250      |
-| InngÃ¥ende MVA               | 625 Ã— 25 Ã· 125           | 125      |
+| Utgående MVA                | 1Â 250 Ã— 25 Ã· 125         | 250      |
+| Inngående MVA               | 625 Ã— 25 Ã· 125           | 125      |
 
-![Eksempel pÃ¥ MVA-beregning](merverdiavgift-beregning.svg)
+![Eksempel på MVA-beregning](merverdiavgift-beregning.svg)
 
 ## MVA-melding og rapportering
 
 Virksomheter leverer MVA-melding elektronisk via Altinn eller integrerte [regnskapssystemer](/blogs/regnskap/hva-er-erp-system "Hva er ERP-system? Komplett Guide til Enterprise Resource Planning").
 
-| Ã…rlig omsetning    | Termin        | Innleveringsfrist    | Betalingsfrist          |
+| Årlig omsetning    | Termin        | Innleveringsfrist    | Betalingsfrist          |
 |---------------------|--------------:|----------------------|-------------------------|
-| Under 1Â mill. kr    | Ã…rlig         | 31. januar           | 31. januar              |
-| 1“5Â mill. kr        | To mÃ¥neder    | 10. i mÃ¥neden etter  | 15. i mÃ¥neden etter     |
-| Over 5Â mill. kr     | MÃ¥nedlig      | 10. i mÃ¥neden etter  | 15. i mÃ¥neden etter     |
+| Under 1Â mill. kr    | Årlig         | 31. januar           | 31. januar              |
+| 1“5Â mill. kr        | To måneder    | 10. i måneden etter  | 15. i måneden etter     |
+| Over 5Â mill. kr     | Månedlig      | 10. i måneden etter  | 15. i måneden etter     |
 
 ![MVA-melding og terminer](merverdiavgift-melding.svg)
 
 ## Import og eksport
 
-Ved import beregnes importmva ved innfÃ¸rsel til Norge. Ved eksport til land utenfor EÃ˜S er MVA nullsats, forutsatt dokumentasjon pÃ¥ utfÃ¸rsel.
+Ved import beregnes importmva ved innførsel til Norge. Ved eksport til land utenfor EØS er MVA nullsats, forutsatt dokumentasjon på utførsel.
 
-Se ogsÃ¥ [Omvendt avgiftsplikt](/blogs/regnskap/omvendt-avgiftsplikt "Omvendt avgiftsplikt: NÃ¥r kjÃ¸per beregner MVA").
+Se også [Omvendt avgiftsplikt](/blogs/regnskap/omvendt-avgiftsplikt "Omvendt avgiftsplikt: Når kjøper beregner MVA").
 
 ![Import og eksport av varer](merverdiavgift-import-export.svg)
 
 ## Digitalisering og automatisering
 
-Moderne lÃ¸sninger gir automatisk MVA-beregning og rapportering:
+Moderne løsninger gir automatisk MVA-beregning og rapportering:
 
 * **Automatisk kategorisering** av transaksjoner.
 * **Integrasjon** med kassasystemer.
@@ -107,23 +107,27 @@ Moderne lÃ¸sninger gir automatisk MVA-beregning og rapportering:
 
 ![Digital MVA-rapportering](merverdiavgift-digitalisering.svg)
 
-## Praktiske rÃ¥d for bedrifter
+## Praktiske råd for bedrifter
 
-1. Velg et **regnskapssystem** med god MVA-stÃ¸tte.
+1. Velg et **regnskapssystem** med god MVA-støtte.
 2. Planlegg **prissetting** med MVA i tankene.
-3. Etabler rutiner for **bilagshÃ¥ndtering** og avstemming.
-4. FÃ¸lg **regelendringer**, og oppdater systemer fortlÃ¸pende.
-5. SÃ¸k **rÃ¥dgivning** ved kompliserte problemstillinger.
+3. Etabler rutiner for **bilagshåndtering** og avstemming.
+4. Følg **regelendringer**, og oppdater systemer fortløpende.
+5. Søk **rådgivning** ved kompliserte problemstillinger.
 
 ## Relaterte artikler
 
-For mer detaljert informasjon, se ogsÃ¥:
+For mer detaljert informasjon, se også:
 
-* [MVA-plikt](/blogs/regnskap/mva-plikt "MVA-plikt: Hva innebÃ¦rer momsplikt i Norge?")
+* [MVA-plikt](/blogs/regnskap/mva-plikt "MVA-plikt: Hva innebærer momsplikt i Norge?")
 * [MVA-melding](/blogs/regnskap/hva-er-mva-melding "Hva er MVA-melding? Slik rapporterer du moms")
 * [MVA-registeret](/blogs/regnskap/hva-er-mva-registeret "Hva er MVA-registeret? Registreringskrav")
-* [InngÃ¥ende MVA](/blogs/regnskap/inngaaende-mva "Hva er inngÃ¥ende MVA?")
-* [Forholdsmessig MVA](/blogs/regnskap/forholdsmessig-mva "Forholdsmessig MVA: Fordeling av inngÃ¥ende MVA")
+* [Inngående MVA](/blogs/regnskap/inngaaende-mva "Hva er inngående MVA?")
+* [Forholdsmessig MVA](/blogs/regnskap/forholdsmessig-mva "Forholdsmessig MVA: Fordeling av inngående MVA")
+
+
+
+
 
 
 

@@ -1,58 +1,58 @@
 ﻿---
-title: "Konto 6320 - Renovasjon, vann, avlÃ¸p mv."
+title: "Konto 6320 - Renovasjon, vann, avløp mv."
 meta_title: "6320-renovasjon-vann-avlop-mv"
-meta_description: '**Konto 6320 - Renovasjon, vann, avlÃ¸p mv.** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kostnader til renovasjon, vann, avlÃ¸p og ti...'
+meta_description: '**Konto 6320 - Renovasjon, vann, avløp mv.** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kostnader til renovasjon, vann, avløp og ti...'
 slug: 6320-renovasjon-vann-avlop-mv
 type: blog
 layout: pages/single
 ---
 
-**Konto 6320 - Renovasjon, vann, avlÃ¸p mv.** er en konto i Norsk Standard Kontoplan som brukes til Ã¥ registrere **kostnader til renovasjon, vann, avlÃ¸p og tilhÃ¸rende kommunale avgifter** i virksomhetens drift.
+**Konto 6320 - Renovasjon, vann, avløp mv.** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kostnader til renovasjon, vann, avløp og tilhørende kommunale avgifter** i virksomhetens drift.
 
-![Illustrasjon av konto 6320 Renovasjon, vann, avlÃ¸p mv.](6320-renovasjon-vann-avlop-mv-image.svg)
+![Illustrasjon av konto 6320 Renovasjon, vann, avløp mv.](6320-renovasjon-vann-avlop-mv-image.svg)
 
 ## Hva dekker Konto 6320?
 
-Renovasjon, vann og avlÃ¸p omfatter en rekke kommunale tjenester og avgifter som sikrer avfallshÃ¥ndtering, drikkevannsforsyning og rensing av spillvann. Konto 6320 benyttes til:
+Renovasjon, vann og avløp omfatter en rekke kommunale tjenester og avgifter som sikrer avfallshåndtering, drikkevannsforsyning og rensing av spillvann. Konto 6320 benyttes til:
 
-* **Renovasjon** â€“ gebyrer for innsamling, behandling og gjenvinning av avfall.
-* **Vannforsyning** â€“ kostnader knyttet til produksjon og levering av drikkevann.
-* **AvlÃ¸pshÃ¥ndtering** â€“ avgifter for innsamlings- og renseprosesser av spillvann.
-* **Tilknytningsavgifter** â€“ engangs- eller lÃ¸pende avgifter for tilkobling til kommunalt vann- og avlÃ¸psnett.
-* **Andre kommunale gebyrer** â€“ for eksempel avgift for spesialavfall eller slam.
+* **Renovasjon** – gebyrer for innsamling, behandling og gjenvinning av avfall.
+* **Vannforsyning** – kostnader knyttet til produksjon og levering av drikkevann.
+* **Avløpshåndtering** – avgifter for innsamlings- og renseprosesser av spillvann.
+* **Tilknytningsavgifter** – engangs- eller løpende avgifter for tilkobling til kommunalt vann- og avløpsnett.
+* **Andre kommunale gebyrer** – for eksempel avgift for spesialavfall eller slam.
 
-## NÃ¸kkelbegreper
+## Nøkkelbegreper
 
 | Begrep                 | Beskrivelse                                                               |
 |------------------------|---------------------------------------------------------------------------|
-| **Renovasjonsgebyr**   | Fast mÃ¥nedlig eller Ã¥rlig avgift for avfallshÃ¥ndtering.                  |
+| **Renovasjonsgebyr**   | Fast månedlig eller årlig avgift for avfallshåndtering.                  |
 | **Vannavgift**         | Betaling for drikkevann levert til virksomhetens bygg og anlegg.         |
-| **AvlÃ¸psavgift**       | Avgift for rensing av spillvann i kommunalt renseanlegg.                 |
-| **Tilknytningsavgift** | Engangs- eller lÃ¸pende kostnad for tilkobling til vann- og avlÃ¸psnett.    |
+| **Avløpsavgift**       | Avgift for rensing av spillvann i kommunalt renseanlegg.                 |
+| **Tilknytningsavgift** | Engangs- eller løpende kostnad for tilkobling til vann- og avløpsnett.    |
 
-## RegnskapsfÃ¸ring av kommunale avgifter
+## Regnskapsføring av kommunale avgifter
 
 | Transaksjon                                   | Debet                                    | Kredit                                                                            |
 |-----------------------------------------------|------------------------------------------|-----------------------------------------------------------------------------------|
-| Kommunale avgifter (renovasjon, vann, avlÃ¸p)  | Konto 6320 - Renovasjon, vann, avlÃ¸p mv. | [Konto 2400 - LeverandÃ¸rgjeld](/blogs/kontoplan/2400-leverandorgjeld "Konto 2400 - LeverandÃ¸rgjeld") |
-| Betaling av kommunale avgiftsfaktura         | [Konto 2400 - LeverandÃ¸rgjeld](/blogs/kontoplan/2400-leverandorgjeld "Konto 2400 - LeverandÃ¸rgjeld")   | [Konto 1920 - Bankinnskudd](/blogs/kontoplan/1920-bankinnskudd "Konto 1920 - Bankinnskudd")        |
+| Kommunale avgifter (renovasjon, vann, avløp)  | Konto 6320 - Renovasjon, vann, avløp mv. | [Konto 2400 - Leverandørgjeld](/blogs/kontoplan/2400-leverandorgjeld "Konto 2400 - Leverandørgjeld") |
+| Betaling av kommunale avgiftsfaktura         | [Konto 2400 - Leverandørgjeld](/blogs/kontoplan/2400-leverandorgjeld "Konto 2400 - Leverandørgjeld")   | [Konto 1920 - Bankinnskudd](/blogs/kontoplan/1920-bankinnskudd "Konto 1920 - Bankinnskudd")        |
 
-## Eksempel pÃ¥ bokfÃ¸ring
+## Eksempel på bokføring
 
-En bedrift mottar faktura pÃ¥ **4Â 500Â NOK ekskl. avgift**, hvor avgiften er **12â€¯%**.
+En bedrift mottar faktura på **4Â 500Â NOK ekskl. avgift**, hvor avgiften er **12–¯%**.
 
-| BelÃ¸p ekskl. avgift | Avgift (%) | Avgift (NOK) | Total inkl. avgift |
+| Beløp ekskl. avgift | Avgift (%) | Avgift (NOK) | Total inkl. avgift |
 |---------------------|------------|--------------|--------------------|
-| 4Â 500â€¯NOK           | 12â€¯%       | 540â€¯NOK      | 5Â 040â€¯NOK          |
+| 4Â 500–¯NOK           | 12–¯%       | 540–¯NOK      | 5Â 040–¯NOK          |
 
 ## Fordeler ved korrekt bruk
 
 * **Forbedret kostnadskontroll** av kommunale avgifter.
-* **Enkel budsjettoppfÃ¸lging** med tydelig oversikt over lÃ¸pende gebyrer.
+* **Enkel budsjettoppfølging** med tydelig oversikt over løpende gebyrer.
 * **Dokumentasjon og sporbarhet** ved revisjoner og rapportering.
 * **Effektiv sammenstilling** av driftskostnader knyttet til bygg og anlegg.
 
-## Se ogsÃ¥
+## Se også
 
 * [Konto 6260 - Vann](/blogs/kontoplan/6260-vann "Konto 6260 - Vann")
 * [Konto 6300 - Leie lokaler](/blogs/kontoplan/6300-leie-lokaler "Konto 6300 - Leie lokaler")
@@ -61,4 +61,9 @@ En bedrift mottar faktura pÃ¥ **4Â 500Â NOK ekskl. avgift**, hvor avgiften
 * [Hva er driftskostnader?](/blogs/regnskap/hva-er-driftskostnader "Hva er driftskostnader?")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 * [Hva er en Faktura?](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav")
+
+
+
+
+
 

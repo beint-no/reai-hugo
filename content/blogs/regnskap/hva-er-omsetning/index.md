@@ -1,30 +1,30 @@
 ﻿---
 title: "Hva er omsetning?"
 meta_title: "Hva er omsetning?"
-meta_description: '**Omsetning** er den totale verdien av alle varer og tjenester som et selskap selger i lÃ¸pet av en bestemt periode, mÃ¥lt til salgspris inkludert merverdiavgif...'
+meta_description: '**Omsetning** er den totale verdien av alle varer og tjenester som et selskap selger i løpet av en bestemt periode, målt til salgspris inkludert merverdiavgif...'
 slug: hva-er-omsetning
 type: blog
 layout: pages/single
 ---
 
-**Omsetning** er den totale verdien av alle varer og tjenester som et selskap selger i lÃ¸pet av en bestemt periode, mÃ¥lt til salgspris inkludert merverdiavgift. Omsetning er et grunnleggende begrep i regnskap og skatt, og skiller seg fra [inntekter](/blogs/regnskap/hva-er-inntekter "Hva er Inntekter? Komplett Guide til Inntektstyper og RegnskapsfÃ¸ring") ved at den inkluderer MVA og mÃ¥les til bruttoverdi fÃ¸r fradrag for kostnader.
+**Omsetning** er den totale verdien av alle varer og tjenester som et selskap selger i løpet av en bestemt periode, målt til salgspris inkludert merverdiavgift. Omsetning er et grunnleggende begrep i regnskap og skatt, og skiller seg fra [inntekter](/blogs/regnskap/hva-er-inntekter "Hva er Inntekter? Komplett Guide til Inntektstyper og Regnskapsføring") ved at den inkluderer MVA og måles til bruttoverdi før fradrag for kostnader.
 
 ## Definisjon og Grunnleggende Prinsipper
 
-Omsetning defineres som **bruttoverdien** av alle salg av varer og tjenester som inngÃ¥r i virksomhetens ordinÃ¦re drift, inkludert merverdiavgift. Dette er et viktig skille fra [driftsinntekter](/blogs/regnskap/hva-er-driftsinntekter "Hva er Driftsinntekter? Komplett Guide til Driftsinntekter i Regnskap") som mÃ¥les eksklusive MVA.
+Omsetning defineres som **bruttoverdien** av alle salg av varer og tjenester som inngår i virksomhetens ordinære drift, inkludert merverdiavgift. Dette er et viktig skille fra [driftsinntekter](/blogs/regnskap/hva-er-driftsinntekter "Hva er Driftsinntekter? Komplett Guide til Driftsinntekter i Regnskap") som måles eksklusive MVA.
 
 ![Omsetning Oversikt](omsetning-oversikt.svg)
 
 ### Kjennetegn ved Omsetning:
 
 * **Bruttoverdi:** Inkluderer merverdiavgift og andre avgifter
-* **Salgspris:** MÃ¥les til den pris kunden betaler
-* **OrdinÃ¦r drift:** Kun salg som er del av normal forretningsvirksomhet
-* **Periodisering:** MÃ¥les for en bestemt tidsperiode (mÃ¥ned, kvartal, Ã¥r)
+* **Salgspris:** Måles til den pris kunden betaler
+* **Ordinær drift:** Kun salg som er del av normal forretningsvirksomhet
+* **Periodisering:** Måles for en bestemt tidsperiode (måned, kvartal, år)
 
 ## Forskjellen mellom Omsetning og Inntekt
 
-Det er viktig Ã¥ forstÃ¥ forskjellen mellom omsetning og inntekt, da disse begrepene ofte forveksles men har ulike betydninger i regnskapssammenheng.
+Det er viktig å forstå forskjellen mellom omsetning og inntekt, da disse begrepene ofte forveksles men har ulike betydninger i regnskapssammenheng.
 
 ![Omsetning vs Inntekt](omsetning-vs-inntekt.svg)
 
@@ -33,9 +33,9 @@ Det er viktig Ã¥ forstÃ¥ forskjellen mellom omsetning og inntekt, da disse b
 | Aspekt | Omsetning | Inntekt |
 |--------|-----------|---------|
 | **MVA-behandling** | Inkluderer MVA | Ekskluderer MVA |
-| **MÃ¥ling** | Bruttoverdi | Nettoverdi |
-| **FormÃ¥l** | MVA-beregning, statistikk | RegnskapsfÃ¸ring, resultatmÃ¥ling |
-| **Rapportering** | MVA-melding, Ã¥rsrapport | [Resultatregnskap](/blogs/regnskap/hva-er-driftsregnskap "Hva er Driftsregnskap? Komplett Guide til Driftsregnskapet") |
+| **Måling** | Bruttoverdi | Nettoverdi |
+| **Formål** | MVA-beregning, statistikk | Regnskapsføring, resultatmåling |
+| **Rapportering** | MVA-melding, årsrapport | [Resultatregnskap](/blogs/regnskap/hva-er-driftsregnskap "Hva er Driftsregnskap? Komplett Guide til Driftsregnskapet") |
 | **Eksempel** | 125 000 kr (inkl. 25% MVA) | 100 000 kr (eks. MVA) |
 
 ### Praktisk Eksempel:
@@ -43,7 +43,7 @@ Det er viktig Ã¥ forstÃ¥ forskjellen mellom omsetning og inntekt, da disse b
 **Salg av varer for 100 000 kr + 25% MVA:**
 * **Omsetning:** 125 000 kr (inkl. MVA)
 * **Inntekt:** 100 000 kr (eks. MVA)
-* **MVA-belÃ¸p:** 25 000 kr
+* **MVA-beløp:** 25 000 kr
 
 ## Beregning av Omsetning
 
@@ -64,7 +64,7 @@ Omsetning beregnes som summen av alle salg i en periode, inkludert merverdiavgif
 | Produkt C | 25 | 2 000 kr | 500 kr | 2 500 kr | 62 500 kr |
 | **Total** | **175** | - | - | - | **187 500 kr** |
 
-### MÃ¥nedlig Omsetningsberegning:
+### Månedlig Omsetningsberegning:
 
 ```
 Januar:    150 000 kr
@@ -75,63 +75,63 @@ Q1 Total:  525 000 kr
 
 ## MVA og Omsetningsgrenser
 
-Omsetning er avgjÃ¸rende for Ã¥ bestemme [MVA-plikt](/blogs/regnskap/mva-plikt "MVA-plikt: Komplett Guide til Merverdiavgiftsplikt i Norge") og andre skattemessige forpliktelser.
+Omsetning er avgjørende for å bestemme [MVA-plikt](/blogs/regnskap/mva-plikt "MVA-plikt: Komplett Guide til Merverdiavgiftsplikt i Norge") og andre skattemessige forpliktelser.
 
 ![MVA Omsetningsgrenser](mva-omsetningsgrenser.svg)
 
 ### Viktige Omsetningsgrenser i Norge (2024):
 
-| Grense | BelÃ¸p | Konsekvens |
+| Grense | Beløp | Konsekvens |
 |--------|-------|------------|
 | **MVA-registrering** | 50 000 kr | Plikt til MVA-registrering |
 | **Forenklingsregelen** | 140 000 kr | Kan bruke kontantprinsippet |
 | **Regnskapsplikt** | 5 000 000 kr | Plikt til revidert regnskap |
-| **BokfÃ¸ringsplikt** | Alle med omsetning | Plikt til [bokfÃ¸ring](/blogs/regnskap/hva-er-bokforing "Hva er BokfÃ¸ring? Komplett Guide til RegnskapsfÃ¸ring") |
+| **Bokføringsplikt** | Alle med omsetning | Plikt til [bokføring](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? Komplett Guide til Regnskapsføring") |
 
 ### MVA-registrering og Omsetning:
 
-**NÃ¥r mÃ¥ du registrere deg for MVA?**
+**Når må du registrere deg for MVA?**
 
-* **Omsetning over 50 000 kr** i lÃ¸pet av 12 mÃ¥neder
-* **Forventet omsetning** over 50 000 kr neste 12 mÃ¥neder
+* **Omsetning over 50 000 kr** i løpet av 12 måneder
+* **Forventet omsetning** over 50 000 kr neste 12 måneder
 * **Import av varer** for videresalg
 
 ## Omsetning i Ulike Bransjer
 
-Omsetning mÃ¥les og rapporteres forskjellig avhengig av bransje og virksomhetstype.
+Omsetning måles og rapporteres forskjellig avhengig av bransje og virksomhetstype.
 
 ![Bransjeomsetning](bransjeomsetning.svg)
 
 ### Omsetning etter Bransje:
 
-| Bransje | Omsetningstype | SÃ¦rlige Hensyn |
+| Bransje | Omsetningstype | Særlige Hensyn |
 |---------|----------------|----------------|
 | **Detaljhandel** | Varesalg | Inkluderer alle produktsalg ([B2C-handel](/blogs/regnskap/hva-er-b2c "Hva er B2C? Business-to-Consumer i Regnskap")) |
 | **Tjenesteyting** | [Honorar](/blogs/regnskap/hva-er-honorar "Hva er Honorar i Regnskap? Komplett Guide til Honorarutbetalinger og Skattebehandling") og gebyrer | Kan ha ulik MVA-sats |
-| **Produksjon** | Produserte varer | Inkluderer bÃ¥de B2B og [B2C](/blogs/regnskap/hva-er-b2c "Hva er B2C? Business-to-Consumer i Regnskap") |
-| **Eiendom** | Leieinntekter | Kan vÃ¦re MVA-fritatt |
+| **Produksjon** | Produserte varer | Inkluderer både B2B og [B2C](/blogs/regnskap/hva-er-b2c "Hva er B2C? Business-to-Consumer i Regnskap") |
+| **Eiendom** | Leieinntekter | Kan være MVA-fritatt |
 | **Digital** | Abonnementer, lisenser | Spesielle regler for digitale tjenester |
 
 ### Eksempel - Konsulentselskap:
 
-**MÃ¥nedlig omsetning:**
+**Månedlig omsetning:**
 * Konsulenthonorar: 80 000 kr (eks. MVA)
 * MVA (25%): 20 000 kr
 * **Total omsetning:** 100 000 kr
 
-## RegnskapsfÃ¸ring og Rapportering av Omsetning
+## Regnskapsføring og Rapportering av Omsetning
 
-Selv om omsetning inkluderer MVA, mÃ¥ den regnskapsfÃ¸res korrekt for Ã¥ skille mellom salgsinntekt og MVA-forpliktelse.
+Selv om omsetning inkluderer MVA, må den regnskapsføres korrekt for å skille mellom salgsinntekt og MVA-forpliktelse.
 
-![Omsetning RegnskapsfÃ¸ring](omsetning-regnskapsforing.svg)
+![Omsetning Regnskapsføring](omsetning-regnskapsforing.svg)
 
-### BokfÃ¸ringseksempel - Varesalg:
+### Bokføringseksempel - Varesalg:
 
 **Ved salg for 125 000 kr (inkl. 25% MVA):**
 ```
 Debet: Kundefordringer     125 000
 Kredit: Salgsinntekter     100 000
-Kredit: UtgÃ¥ende MVA        25 000
+Kredit: Utgående MVA        25 000
 ```
 
 **Ved mottak av betaling:**
@@ -143,45 +143,45 @@ Kredit: Kundefordringer    125 000
 ### MVA-melding og Omsetning:
 
 I [MVA-meldingen](/blogs/regnskap/hva-er-mva-melding "Hva er MVA-melding? Komplett Guide til MVA-rapportering") rapporteres:
-* **Omsetning hÃ¸y sats (25%):** Salg med 25% MVA
+* **Omsetning høy sats (25%):** Salg med 25% MVA
 * **Omsetning middels sats (15%):** Salg med 15% MVA  
 * **Omsetning lav sats (11,11%):** Salg med redusert MVA-sats
 * **Omsetning fritatt:** Salg uten MVA
 
-## Omsetningsanalyse og NÃ¸kkeltall
+## Omsetningsanalyse og Nøkkeltall
 
-Omsetning brukes til Ã¥ beregne viktige nÃ¸kkeltall for Ã¥ vurdere virksomhetens prestasjoner og utvikling.
+Omsetning brukes til å beregne viktige nøkkeltall for å vurdere virksomhetens prestasjoner og utvikling.
 
 ![Omsetningsanalyse](omsetningsanalyse.svg)
 
-### Viktige OmsetningsnÃ¸kkeltall:
+### Viktige Omsetningsnøkkeltall:
 
-| NÃ¸kkeltall | Formel | FormÃ¥l |
+| Nøkkeltall | Formel | Formål |
 |------------|--------|--------|
-| **Omsetningsvekst** | (Ny omsetning - Gammel omsetning) / Gammel omsetning Ã— 100% | MÃ¥le vekst |
-| **Omsetning per ansatt** | Total omsetning / Antall ansatte | ProduktivitetsmÃ¥ling |
-| **Omsetning per kunde** | Total omsetning / Antall kunder | KundeverdimÃ¥ling (viktig i [B2C](/blogs/regnskap/hva-er-b2c "Hva er B2C? Business-to-Consumer i Regnskap")) |
-| **MÃ¥nedlig gjennomsnitt** | Ã…rsomsetning / 12 | Planlegging og budsjett |
+| **Omsetningsvekst** | (Ny omsetning - Gammel omsetning) / Gammel omsetning Ã— 100% | Måle vekst |
+| **Omsetning per ansatt** | Total omsetning / Antall ansatte | Produktivitetsmåling |
+| **Omsetning per kunde** | Total omsetning / Antall kunder | Kundeverdimåling (viktig i [B2C](/blogs/regnskap/hva-er-b2c "Hva er B2C? Business-to-Consumer i Regnskap")) |
+| **Månedlig gjennomsnitt** | Årsomsetning / 12 | Planlegging og budsjett |
 
-### Eksempel pÃ¥ Omsetningsanalyse:
+### Eksempel på Omsetningsanalyse:
 
-**Ã…rlig utvikling:**
+**Årlig utvikling:**
 * 2022: 1 200 000 kr
 * 2023: 1 440 000 kr
 * **Vekst:** (1 440 000 - 1 200 000) / 1 200 000 Ã— 100% = **20%**
 
 ## Omsetning og Skattemessige Konsekvenser
 
-Omsetning pÃ¥virker flere skattemessige forhold og forpliktelser for virksomheten.
+Omsetning påvirker flere skattemessige forhold og forpliktelser for virksomheten.
 
 ![Skatt og Omsetning](skatt-omsetning.svg)
 
 ### Skattemessige Implikasjoner:
 
 * **MVA-plikt:** Automatisk ved omsetning over 50 000 kr
-* **Regnskapsplikt:** PÃ¥virker krav til regnskapsfÃ¸ring
-* **Revisjonsplikt:** Ved hÃ¸y omsetning kreves revisor
-* **Arbeidsgiveravgift:** PÃ¥virkes av virksomhetens stÃ¸rrelse
+* **Regnskapsplikt:** Påvirker krav til regnskapsføring
+* **Revisjonsplikt:** Ved høy omsetning kreves revisor
+* **Arbeidsgiveravgift:** Påvirkes av virksomhetens størrelse
 
 ### Omsetning og Selskapsform:
 
@@ -197,7 +197,7 @@ Moderne teknologi har endret hvordan omsetning registreres og rapporteres.
 
 ![Digital Omsetning](digital-omsetning.svg)
 
-### Digitale LÃ¸sninger:
+### Digitale Løsninger:
 
 * **[ERP-systemer](/blogs/regnskap/hva-er-erp-system "Hva er ERP-system? Komplett Guide til Enterprise Resource Planning"):** Automatisk omsetningsregistrering
 * **Kassasystemer:** Direkteintegrasjon med regnskapssystem (kritisk for [B2C-virksomheter](/blogs/regnskap/hva-er-b2c "Hva er B2C? Business-to-Consumer i Regnskap"))
@@ -206,7 +206,7 @@ Moderne teknologi har endret hvordan omsetning registreres og rapporteres.
 
 ### Fordeler med Digital Omsetningsregistrering:
 
-* **NÃ¸yaktighet:** Reduserer manuelle feil
+* **Nøyaktighet:** Reduserer manuelle feil
 * **Effektivitet:** Automatiserer rutineoppgaver
 * **Compliance:** Sikrer korrekt MVA-rapportering
 * **Analyse:** Bedre innsikt i omsetningsutvikling
@@ -219,29 +219,29 @@ For virksomheter med internasjonal aktivitet gjelder spesielle regler for omsetn
 
 ### Spesielle Hensyn:
 
-* **Eksport:** Ofte MVA-fritatt, pÃ¥virker omsetningsberegning
-* **Import:** Kan pÃ¥virke MVA-registreringsplikt
+* **Eksport:** Ofte MVA-fritatt, påvirker omsetningsberegning
+* **Import:** Kan påvirke MVA-registreringsplikt
 * **Digitale tjenester:** Spesielle regler for grensekryssende salg
-* **Valutaomregning:** Omsetning mÃ¥ omregnes til NOK
+* **Valutaomregning:** Omsetning må omregnes til NOK
 
 ## Praktiske Tips for Omsetningsregistrering
 
-For Ã¥ sikre korrekt omsetningsregistrering og -rapportering bÃ¸r virksomheter fÃ¸lge beste praksis.
+For å sikre korrekt omsetningsregistrering og -rapportering bør virksomheter følge beste praksis.
 
 ![Omsetning Beste Praksis](omsetning-beste-praksis.svg)
 
 ### Anbefalinger:
 
-* **Daglig registrering:** Registrer salg lÃ¸pende
+* **Daglig registrering:** Registrer salg løpende
 * **Dokumentasjon:** Oppbevar alle [fakturaer](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav") og kvitteringer
 * **Avstemming:** Avstem omsetning mot bankinnskudd
-* **Periodisk kontroll:** GjennomgÃ¥ omsetningsrapporter mÃ¥nedlig
-* **Profesjonell hjelp:** Bruk regnskapsfÃ¸rer ved behov
+* **Periodisk kontroll:** Gjennomgå omsetningsrapporter månedlig
+* **Profesjonell hjelp:** Bruk regnskapsfører ved behov
 
-### Vanlige Feil Ã¥ UnngÃ¥:
+### Vanlige Feil å Unngå:
 
 * **Glemme MVA:** Ikke inkludere MVA i omsetningsberegning
-* **Feil periodisering:** FÃ¸re omsetning i feil periode
+* **Feil periodisering:** Føre omsetning i feil periode
 * **Manglende dokumentasjon:** Ikke oppbevare salgsbilag
 * **Feil klassifisering:** Blande omsetning med andre inntekter
 
@@ -253,22 +253,26 @@ Omsetningsbegrepet utvikler seg med nye forretningsmodeller og teknologi.
 
 ### Nye Trender:
 
-* **Abonnementsmodeller:** Endrer hvordan omsetning mÃ¥les
-* **Platform-Ã¸konomi:** Nye utfordringer for omsetningsberegning
-* **Kryptovaluta:** PÃ¥virker omsetningsregistrering
-* **BÃ¦rekraft:** ESG-rapportering inkluderer omsetningsdata
+* **Abonnementsmodeller:** Endrer hvordan omsetning måles
+* **Platform-økonomi:** Nye utfordringer for omsetningsberegning
+* **Kryptovaluta:** Påvirker omsetningsregistrering
+* **Bærekraft:** ESG-rapportering inkluderer omsetningsdata
 
 ### Regulatoriske Endringer:
 
 * **Digitale kvitteringer:** Nye krav til dokumentasjon
 * **Sanntidsrapportering:** Mulige fremtidige krav
-* **Automatiserte systemer:** Ã˜kte krav til systemintegrasjon
+* **Automatiserte systemer:** Økte krav til systemintegrasjon
 
 ## Konklusjon
 
-Omsetning er et fundamentalt begrep i norsk regnskap og skatt som pÃ¥virker alt fra MVA-registrering til regnskapsplikt. Ved Ã¥ forstÃ¥ forskjellen mellom omsetning og [inntekt](/blogs/regnskap/hva-er-inntekter "Hva er Inntekter? Komplett Guide til Inntektstyper og RegnskapsfÃ¸ring"), korrekt beregning og rapportering, kan virksomheter sikre compliance og fÃ¥ bedre innsikt i sin Ã¸konomiske utvikling.
+Omsetning er et fundamentalt begrep i norsk regnskap og skatt som påvirker alt fra MVA-registrering til regnskapsplikt. Ved å forstå forskjellen mellom omsetning og [inntekt](/blogs/regnskap/hva-er-inntekter "Hva er Inntekter? Komplett Guide til Inntektstyper og Regnskapsføring"), korrekt beregning og rapportering, kan virksomheter sikre compliance og få bedre innsikt i sin økonomiske utvikling.
 
-For virksomheter er det viktig Ã¥ ha gode systemer for omsetningsregistrering og Ã¥ forstÃ¥ de skattemessige konsekvensene av ulike omsetningsnivÃ¥er. Med riktig kunnskap og verktÃ¸y blir omsetningsadministrasjon en verdifull del av virksomhetsstyringen.
+For virksomheter er det viktig å ha gode systemer for omsetningsregistrering og å forstå de skattemessige konsekvensene av ulike omsetningsnivåer. Med riktig kunnskap og verktøy blir omsetningsadministrasjon en verdifull del av virksomhetsstyringen.
+
+
+
+
 
 
 

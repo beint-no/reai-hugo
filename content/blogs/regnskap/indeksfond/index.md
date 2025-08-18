@@ -9,23 +9,23 @@ layout: pages/single
 
 ![Indeksfond](indeksfond-image.svg)
 
-**Indeksfond** er en type [fond](/blogs/regnskap/hva-er-fond "Hva er Fond? Ulike Typer Fond og Regnskapsbehandling") som fÃ¸lger et **benchmark-indeks**, som for eksempel [bÃ¸rs](/blogs/regnskap/bors "BÃ¸rs i Norge - Alt om Oslo BÃ¸rs, handel og nÃ¸kkelbegreper"). Ved **passiv forvaltning** har indeksfond ofte **lavere kostnader** og sikter pÃ¥ Ã¥ oppnÃ¥ samme avkastning som det underliggende markedet.
+**Indeksfond** er en type [fond](/blogs/regnskap/hva-er-fond "Hva er Fond? Ulike Typer Fond og Regnskapsbehandling") som følger et **benchmark-indeks**, som for eksempel [børs](/blogs/regnskap/bors "Børs i Norge - Alt om Oslo Børs, handel og nøkkelbegreper"). Ved **passiv forvaltning** har indeksfond ofte **lavere kostnader** og sikter på å oppnå samme avkastning som det underliggende markedet.
 
 ## Hva er et Indeksfond?
 
-Et indeksfond er et **passivt forvaltet fond** som investerer i alle, eller et representativt utvalg av, de aksjene som inngÃ¥r i en bestemt indeks. Dette gir:
+Et indeksfond er et **passivt forvaltet fond** som investerer i alle, eller et representativt utvalg av, de aksjene som inngår i en bestemt indeks. Dette gir:
 
-* **Diversifisering** med Ã©n transaksjon.
-* Redusert behov for aktiv portefÃ¸ljeforvaltning.
+* **Diversifisering** med én transaksjon.
+* Redusert behov for aktiv porteføljeforvaltning.
 * Kostnadsbesparelser sammenlignet med aktivt forvaltede fond.
 
-### Eksempel pÃ¥ indekser
+### Eksempel på indekser
 
 | Indeks                      | Beskrivelse                                    |
 |-----------------------------|------------------------------------------------|
-| OSEBX (Oslo BÃ¸rs Benchmark)  | Hovedindeksen for aksjer notert pÃ¥ Oslo BÃ¸rs   |
+| OSEBX (Oslo Børs Benchmark)  | Hovedindeksen for aksjer notert på Oslo Børs   |
 | MSCI World                  | Verdensindeks som dekker utviklede markeder    |
-| S&P 500                     | De 500 stÃ¸rste selskapene pÃ¥ New York Stock Exchange |
+| S&P 500                     | De 500 største selskapene på New York Stock Exchange |
 
 ![Struktur av Indeksfond](indeksfond-struktur.svg)
 
@@ -39,7 +39,7 @@ Et indeksfond er et **passivt forvaltet fond** som investerer i alle, eller et r
 
 ### Ulemper
 
-* Ingen mulighet til Ã¥ slÃ¥ markedet.
+* Ingen mulighet til å slå markedet.
 * Eksponering mot hele markedets nedgang.
 * Kan ha mindre fleksibilitet ved spesielle markedsforhold.
 
@@ -52,11 +52,15 @@ Et indeksfond er et **passivt forvaltet fond** som investerer i alle, eller et r
 
 ## Hvordan investere i Indeksfond?
 
-For norske investorer er en **Aksjesparekonto (ASK)** en populÃ¦r lÃ¸sning for Ã¥ investere i indeksfond uten umiddelbar realisasjon av gevinstbeskatning. Les mer om [Hva er Aksjesparekonto?](/blogs/regnskap/hva-er-aksjesparekonto "Hva er Aksjesparekonto? Guide til skattefordeler og investering") for detaljer.
+For norske investorer er en **Aksjesparekonto (ASK)** en populær løsning for å investere i indeksfond uten umiddelbar realisasjon av gevinstbeskatning. Les mer om [Hva er Aksjesparekonto?](/blogs/regnskap/hva-er-aksjesparekonto "Hva er Aksjesparekonto? Guide til skattefordeler og investering") for detaljer.
 
 ## Oppsummering
 
-Indeksfond gir en enkel, **kostnadseffektiv** og **transparent** mÃ¥te Ã¥ investere bredt i markedet. Med lave gebyrer og automatisk rebalansering passer indeksfond godt for langsiktige investorer som Ã¸nsker markedsavkastning uten aktiv forvaltning.
+Indeksfond gir en enkel, **kostnadseffektiv** og **transparent** måte å investere bredt i markedet. Med lave gebyrer og automatisk rebalansering passer indeksfond godt for langsiktige investorer som ønsker markedsavkastning uten aktiv forvaltning.
+
+
+
+
 
 
 

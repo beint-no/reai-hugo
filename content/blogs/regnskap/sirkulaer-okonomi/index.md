@@ -1,51 +1,55 @@
 ﻿---
-title: "SirkulÃ¦r Ã¸konomi"
-meta_title: "SirkulÃ¦r Ã¸konomi"
-meta_description: '**SirkulÃ¦r Ã¸konomi** er en modell for Ã¥ **optimalisere ressursbruk** og redusere avfall ved Ã¥ designe produkter og tjenester for gjenbruk, reparasjon og res...'
+title: "Sirkulær økonomi"
+meta_title: "Sirkulær økonomi"
+meta_description: '**Sirkulær økonomi** er en modell for å **optimalisere ressursbruk** og redusere avfall ved å designe produkter og tjenester for gjenbruk, reparasjon og res...'
 slug: sirkulaer-okonomi
 type: blog
 layout: pages/single
 ---
 
-**SirkulÃ¦r Ã¸konomi** er en modell for Ã¥ **optimalisere ressursbruk** og redusere avfall ved Ã¥ designe produkter og tjenester for gjenbruk, reparasjon og resirkulering. Denne tilnÃ¦rmingen bygger pÃ¥ prinsippene for [BÃ¦rekraft](/blogs/regnskap/baerekraft "BÃ¦rekraft i Regnskap: En Komplett Guide til BÃ¦rekraft og BÃ¦rekraftsrapportering") og har Ã¸kende betydning for norsk regnskapspraksis og rapportering.
+**Sirkulær økonomi** er en modell for å **optimalisere ressursbruk** og redusere avfall ved å designe produkter og tjenester for gjenbruk, reparasjon og resirkulering. Denne tilnærmingen bygger på prinsippene for [Bærekraft](/blogs/regnskap/baerekraft "Bærekraft i Regnskap: En Komplett Guide til Bærekraft og Bærekraftsrapportering") og har økende betydning for norsk regnskapspraksis og rapportering.
 
-## Hva er sirkulÃ¦r Ã¸konomi?
+## Hva er sirkulær økonomi?
 
-![SirkulÃ¦r Ã˜konomi Syklus](circular-economy-cycle.svg)
+![Sirkulær Økonomi Syklus](circular-economy-cycle.svg)
 
-I en **sirkulÃ¦r Ã¸konomi** fokuserer man pÃ¥ Ã¥:
+I en **sirkulær økonomi** fokuserer man på å:
 
 * **Redusere** bruk av nye ressurser.
-* **Gjenbruke** materialer og produkter sÃ¥ lenge som mulig.
-* **Reparere** og oppgradere varer for Ã¥ forlenge levetiden.
+* **Gjenbruke** materialer og produkter så lenge som mulig.
+* **Reparere** og oppgradere varer for å forlenge levetiden.
 * **Resirkulere** materialer tilbake til produksjon.
 
 | Prinsipp    | Beskrivelse                                          |
 |-------------|------------------------------------------------------|
-| Redusere    | Minimere rÃ¥vareforbruk og avfall                     |
-| Gjenbruke   | Bruke eksisterende produkter og komponenter pÃ¥ nytt   |
-| Reparere    | Fikse defekte produkter for Ã¥ forlenge levetiden      |
-| Resirkulere | Omforme materialer til nye produkter eller rÃ¥varer    |
+| Redusere    | Minimere råvareforbruk og avfall                     |
+| Gjenbruke   | Bruke eksisterende produkter og komponenter på nytt   |
+| Reparere    | Fikse defekte produkter for å forlenge levetiden      |
+| Resirkulere | Omforme materialer til nye produkter eller råvarer    |
 
 ## Implementering i regnskap og rapportering
 
-Ã… integrere **sirkulÃ¦r Ã¸konomi** i regnskapsprosesser innebÃ¦rer:
+Å integrere **sirkulær økonomi** i regnskapsprosesser innebærer:
 
 1. *Materielloversikt* “ Kartlegge ressursbruk og avfallsmengder.
 2. *Kostnadsfordeling* “ Allokere kostnader for reparasjon, omarbeiding og gjenvinning.
 3. *KPI-er* “ Definere indikatorer som vektede kostnader per enhet ombruk eller resirkulering.
-4. *Rapportering* “ Inkludere sirkulÃ¦rÃ¸konomi-mÃ¥l i bÃ¦rekraftsrapporten etter [CSRD-direktivet](/blogs/regnskap/hva-er-csrd "Hva er CSRD? Corporate Sustainability Reporting Directive - Komplett Guide") og [EU-taksonomien](/blogs/regnskap/hva-er-eu-taksonomien "Hva er EU-taksonomien? Komplett Guide til EUs Klassifiseringssystem for BÃ¦rekraftige Aktiviteter").
+4. *Rapportering* “ Inkludere sirkulærøkonomi-mål i bærekraftsrapporten etter [CSRD-direktivet](/blogs/regnskap/hva-er-csrd "Hva er CSRD? Corporate Sustainability Reporting Directive - Komplett Guide") og [EU-taksonomien](/blogs/regnskap/hva-er-eu-taksonomien "Hva er EU-taksonomien? Komplett Guide til EUs Klassifiseringssystem for Bærekraftige Aktiviteter").
 
-## Eksempler fra norsk nÃ¦ringsliv
+## Eksempler fra norsk næringsliv
 
 | Virksomhet     | Tiltak                                    | Resultat                                  |
 |----------------|-------------------------------------------|-------------------------------------------|
-| Eksempel AS    | InnfÃ¸rt system for ombruk av emballasje   | Reduksjon av plastavfall med 30 %         |
-| Gjenbruk Norge | Reparasjonstjeneste for elektronikk       | Ã˜kt produktlevetid med gjennomsnittlig 2 Ã¥r |
+| Eksempel AS    | Innført system for ombruk av emballasje   | Reduksjon av plastavfall med 30 %         |
+| Gjenbruk Norge | Reparasjonstjeneste for elektronikk       | Økt produktlevetid med gjennomsnittlig 2 år |
 
-Ved Ã¥ integrere **sirkulÃ¦r Ã¸konomi** i regnskap og rapportering kan virksomheter oppnÃ¥ bedre ressursutnyttelse, lavere kostnader og styrket omdÃ¸mme.
+Ved å integrere **sirkulær økonomi** i regnskap og rapportering kan virksomheter oppnå bedre ressursutnyttelse, lavere kostnader og styrket omdømme.
 
-*Artikkelen ble sist oppdatert for Ã¥ gi en grundig oversikt over prinsipper og regnskapsmessige implikasjoner av sirkulÃ¦r Ã¸konomi.*
+*Artikkelen ble sist oppdatert for å gi en grundig oversikt over prinsipper og regnskapsmessige implikasjoner av sirkulær økonomi.*
+
+
+
+
 
 
 
