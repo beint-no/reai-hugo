@@ -1,14 +1,14 @@
 {{ define "main" }}
-<section class="py-10">
-  <div class="max-w-5xl mx-auto px-4">
-    <h1 class="text-3xl font-semibold tracking-tight">Regnskap</h1>
+<section class="py-6 sm:py-10">
+  <div class="max-w-5xl mx-auto px-4 w-full">
+    <h1 class="text-3xl font-semibold tracking-tight px-2 sm:px-0">Regnskap</h1>
 
     {{ $all := .CurrentSection.RegularPages.ByDate.Reverse }}
     {{ if gt (len $all) 0 }}
-      <div class="mt-8 grid md:grid-cols-2 gap-6">
+      <div class="mt-6 sm:mt-8 grid grid-cols-1 gap-4 sm:gap-6 w-full">
         {{ range $all }}
         {{ $page := . }}
-        <article class="rounded-xl ring-1 ring-gray-200 bg-white p-5 flex gap-4">
+        <article class="w-full rounded-xl ring-1 ring-gray-200 bg-white p-4 sm:p-5 flex gap-3 sm:gap-4">
           {{ $imgSrc := "" }}
           {{ $candidate := or $page.Params.featured_image (or $page.Params.image (or $page.Params.icon $page.Params.thumbnail)) }}
           {{ with $candidate }}
@@ -50,20 +50,17 @@
             {{ end }}
           {{ end }}
 
-          {{ if $imgSrc }}
-            <div class="flex-shrink-0 w-24 h-24 bg-gray-100 rounded-lg overflow-hidden">
-              <img src="{{ $imgSrc }}" alt="" class="w-full h-full object-cover">
-            </div>
+          {{ with $imgSrc }}
+            <img loading="lazy" src="{{ . }}" alt="{{ with $page.Params.featured_image_alt }}{{ . }}{{ else }}Illustrasjon{{ end }}" class="w-16 h-16 object-contain flex-shrink-0">
           {{ end }}
-
-          <div class="flex-1">
-            <h2 class="text-lg font-medium text-gray-900">
+          <div class="min-w-0 flex-1 overflow-hidden">
+            <h2 class="text-base sm:text-lg font-semibold text-gray-900 truncate">
               <a href="{{ .RelPermalink }}" class="hover:text-blue-600">{{ .Title }}</a>
             </h2>
             {{ with .Params.meta_description }}
-              <p class="mt-1 text-gray-600">{{ . | markdownify | plainify | truncate 120 }}</p>
+              <p class="mt-1 text-sm sm:text-base text-gray-600 line-clamp-2 break-words">{{ . | markdownify | plainify }}</p>
             {{ else }}
-              <p class="mt-1 text-gray-500 italic">Ingen beskrivelse tilgjengelig</p>
+              <p class="mt-1 text-sm sm:text-base text-gray-500 italic">Ingen beskrivelse tilgjengelig</p>
             {{ end }}
           </div>
         </article>
