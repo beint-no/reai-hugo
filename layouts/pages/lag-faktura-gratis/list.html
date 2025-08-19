@@ -4,6 +4,7 @@
     <meta charset="UTF-8" />
     <title>Lag Faktura Gratis - ReAI</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    {{ partial "head.html" . }}
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
     <script>
@@ -95,6 +96,8 @@
     </style>
   </head>
   <body class="bg-gray-100">
+    {{ partial "header.html" . }}
+    <main class="min-h-screen">
     <div class="container mx-auto px-4 py-8">
       <div class="mt-12 flex justify-center">
         <div class="bg-white shadow-lg rounded-lg p-8 w-full max-w-4xl">
@@ -293,7 +296,8 @@
         </div>
       </div>
     </div>
-
+    </main>
+    {{ partial "footer.html" . }}
     <script>
       function calculateTotals() {
         let subtotal = 0, vatTotal = 0;
@@ -310,7 +314,7 @@
         document.getElementById('subtotal').textContent = subtotal.toFixed(2) + ' NOK';
         document.getElementById('vatTotal').textContent = vatTotal.toFixed(2) + ' NOK';
         document.getElementById('grandTotal').textContent = (subtotal + vatTotal).toFixed(2) + ' NOK';
-      }
+      } 
 
       document.querySelector('#items-body').addEventListener('input', e => {
         if (e.target.matches('.qty, .price, .vat')) calculateTotals();
@@ -419,21 +423,14 @@
         clone.style.boxShadow = 'none';
         clone.style.border = 'none';
         
-        const tempContainer = document.createElement('div');
-        tempContainer.style.position = 'fixed';
-        tempContainer.style.left = '0';
-        tempContainer.style.top = '0';
-        tempContainer.style.width = '210mm';
-        tempContainer.style.background = 'white';
-        tempContainer.style.padding = '0';
-        tempContainer.style.zIndex = '9999';
-        tempContainer.style.visibility = 'hidden';
-        tempContainer.appendChild(clone);
-        
-        document.body.appendChild(tempContainer);
-        tempContainer.style.visibility = 'visible';
-        
-        await new Promise(resolve => setTimeout(resolve, 300));
+        // Create off-screen container for PDF generation
+        const offscreenContainer = document.createElement('div');
+        offscreenContainer.style.position = 'absolute';
+        offscreenContainer.style.left = '-9999px';
+        offscreenContainer.style.top = '0';
+        offscreenContainer.style.width = '210mm';
+        offscreenContainer.appendChild(clone);
+        document.body.appendChild(offscreenContainer);
         
         const canvas = await html2canvas(clone, {
             scale: 1.5,
@@ -461,8 +458,8 @@
         console.error('PDF Error:', error);
         alert('Kunne ikke generere PDF. Vennligst prøv igjen. Feil: ' + error.message);
     } finally {
-        const tempContainer = document.querySelector('div[style*="z-index: 9999"]');
-        if (tempContainer) tempContainer.remove();
+        const offscreenContainer = document.querySelector('div[style*="left: -9999px"]');
+        if (offscreenContainer) offscreenContainer.remove();
         if (btn) {
             btn.disabled = false;
             btn.innerHTML = 'Last ned som PDF';
