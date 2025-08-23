@@ -4,7 +4,7 @@
 * for the frontmatter, only use the keys: 
 title : Can be displayed on the page, for example as h1 of articles
 seoTitle : only used in <title> tag, use | as separator instead of -
-description: Only used in meta description, never rendred on page, should be longer than title
+description: Only used in meta description, never rendred on page, should be longer than title targeting keywords people search for related to the title
 summary: Like description, but meant to be shown on the page
 layout: sometimes if the default page.html og section.html is not fitting our needs
 
