@@ -14,21 +14,21 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
     Når Gjelder Omvendt Avgiftsplikt?
   </text>
   
-  <!-- Scenario 1: Norwegian to Norwegian -->
+
   <rect x="50" y="70" width="320" height="120" fill="white" stroke="#dee2e6" stroke-width="2" rx="10"/>
   <text x="210" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#495057">
     Norsk leverandør → Norsk kunde
   </text>
   
-  <!-- Seller and buyer icons -->
+
   <rect x="80" y="110" width="80" height="40" fill="#007bff" rx="5"/>
   <text x="120" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     Norsk AS
@@ -41,7 +41,7 @@
     Norsk AS
   </text>
   
-  <!-- Result -->
+
   <rect x="300" y="110" width="60" height="40" fill="url(#noGradient)" rx="5"/>
   <text x="330" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     NEI
@@ -51,7 +51,7 @@
     Vanlig MVA-behandling
   </text>
   
-  <!-- Scenario 2: Foreign service to Norwegian company -->
+
   <rect x="430" y="70" width="320" height="120" fill="white" stroke="#dee2e6" stroke-width="2" rx="10"/>
   <text x="590" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#495057">
     Utenlandsk tjeneste → Norsk foretak
@@ -69,7 +69,7 @@
     Norsk AS
   </text>
   
-  <!-- Result -->
+
   <rect x="680" y="110" width="60" height="40" fill="url(#yesGradient)" rx="5"/>
   <text x="710" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     JA
@@ -79,7 +79,7 @@
     Omvendt avgiftsplikt gjelder
   </text>
   
-  <!-- Scenario 3: Foreign goods to Norwegian consumer -->
+
   <rect x="50" y="220" width="320" height="120" fill="white" stroke="#dee2e6" stroke-width="2" rx="10"/>
   <text x="210" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#495057">
     Utenlandsk vare → Norsk forbruker
@@ -97,7 +97,7 @@
     Privatperson
   </text>
   
-  <!-- Result -->
+
   <rect x="300" y="260" width="60" height="40" fill="url(#noGradient)" rx="5"/>
   <text x="330" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     NEI
@@ -107,7 +107,7 @@
     MVA ved import/toll
   </text>
   
-  <!-- Scenario 4: Electronic service to Norwegian company -->
+
   <rect x="430" y="220" width="320" height="120" fill="white" stroke="#dee2e6" stroke-width="2" rx="10"/>
   <text x="590" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#495057">
     Elektronisk tjeneste → Norsk foretak
@@ -125,7 +125,7 @@
     Norsk AS
   </text>
   
-  <!-- Result -->
+
   <rect x="680" y="260" width="60" height="40" fill="url(#yesGradient)" rx="5"/>
   <text x="710" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     JA
@@ -135,19 +135,19 @@
     Omvendt avgiftsplikt gjelder
   </text>
   
-  <!-- Decision tree section -->
+
   <rect x="100" y="370" width="600" height="200" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2" rx="10"/>
   <text x="400" y="395" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#495057">
     Beslutningstre: Gjelder Omvendt Avgiftsplikt?
   </text>
   
-  <!-- Question 1 -->
+
   <rect x="120" y="410" width="200" height="30" fill="#e3f2fd" stroke="#2196f3" stroke-width="1" rx="5"/>
   <text x="220" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1976d2">
     Er leverandøren utenlandsk?
   </text>
   
-  <!-- No branch -->
+
   <path d="M 170 440 L 170 470" stroke="#dc3545" stroke-width="2" marker-end="url(#arrowhead)"/>
   <text x="150" y="460" font-family="Arial, sans-serif" font-size="11" fill="#dc3545">NEI</text>
   
@@ -156,17 +156,17 @@
     Vanlig MVA
   </text>
   
-  <!-- Yes branch -->
+
   <path d="M 270 440 L 270 470" stroke="#28a745" stroke-width="2" marker-end="url(#arrowhead)"/>
   <text x="290" y="460" font-family="Arial, sans-serif" font-size="11" fill="#28a745">JA</text>
   
-  <!-- Question 2 -->
+
   <rect x="350" y="410" width="200" height="30" fill="#e3f2fd" stroke="#2196f3" stroke-width="1" rx="5"/>
   <text x="450" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1976d2">
     Er kjøperen norsk foretak?
   </text>
   
-  <!-- No branch from Q2 -->
+
   <path d="M 400 440 L 400 470" stroke="#dc3545" stroke-width="2" marker-end="url(#arrowhead)"/>
   <text x="380" y="460" font-family="Arial, sans-serif" font-size="11" fill="#dc3545">NEI</text>
   
@@ -175,17 +175,17 @@
     Ikke omvendt
   </text>
   
-  <!-- Yes branch from Q2 -->
+
   <path d="M 500 440 L 500 470" stroke="#28a745" stroke-width="2" marker-end="url(#arrowhead)"/>
   <text x="520" y="460" font-family="Arial, sans-serif" font-size="11" fill="#28a745">JA</text>
   
-  <!-- Question 3 -->
+
   <rect x="580" y="410" width="100" height="30" fill="#e3f2fd" stroke="#2196f3" stroke-width="1" rx="5"/>
   <text x="630" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1976d2">
     Tjeneste?
   </text>
   
-  <!-- Final result -->
+
   <path d="M 630 440 L 630 470" stroke="#28a745" stroke-width="2" marker-end="url(#arrowhead)"/>
   <text x="650" y="460" font-family="Arial, sans-serif" font-size="11" fill="#28a745">JA</text>
   
@@ -194,11 +194,11 @@
     Omvendt avgiftsplikt
   </text>
   
-  <!-- Connecting lines -->
+
   <path d="M 270 475 L 350 425" stroke="#495057" stroke-width="1" stroke-dasharray="3,3"/>
   <path d="M 500 475 L 580 425" stroke="#495057" stroke-width="1" stroke-dasharray="3,3"/>
   
-  <!-- Legend -->
+
   <rect x="250" y="530" width="300" height="50" fill="white" stroke="#dee2e6" stroke-width="1" rx="5"/>
   <text x="400" y="545" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
     Viktige Unntak
@@ -210,7 +210,7 @@
     • Bygge- og anleggsarbeider av utenlandske entreprenører
   </text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#495057"/>

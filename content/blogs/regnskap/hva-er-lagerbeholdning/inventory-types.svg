@@ -18,15 +18,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
     Typer Lagerbeholdning
   </text>
   
-  <!-- Raw Materials Section -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="150" height="120" fill="url(#rawMaterialGradient)" stroke="#1e7e34" stroke-width="2" rx="10"/>
     <text x="75" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -36,7 +36,7 @@
       Materialer
     </text>
     
-    <!-- Raw material icons -->
+
     <circle cx="35" cy="75" r="12" fill="#ffffff" opacity="0.8"/>
     <rect x="60" y="63" width="24" height="24" fill="#ffffff" opacity="0.8"/>
     <polygon points="100,63 124,63 112,87" fill="#ffffff" opacity="0.8"/>
@@ -46,7 +46,7 @@
     </text>
   </g>
   
-  <!-- Work in Progress Section -->
+
   <g transform="translate(250, 80)">
     <rect x="0" y="0" width="150" height="120" fill="url(#wipGradient)" stroke="#e0a800" stroke-width="2" rx="10"/>
     <text x="75" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -56,7 +56,7 @@
       Arbeid (VUA)
     </text>
     
-    <!-- WIP icons - partially completed items -->
+
     <rect x="25" y="65" width="30" height="20" fill="#ffffff" opacity="0.8"/>
     <rect x="25" y="65" width="15" height="20" fill="#e0a800"/>
     
@@ -71,20 +71,20 @@
     </text>
   </g>
   
-  <!-- Finished Goods Section -->
+
   <g transform="translate(450, 80)">
     <rect x="0" y="0" width="150" height="120" fill="url(#finishedGradient)" stroke="#0056b3" stroke-width="2" rx="10"/>
     <text x="75" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
       Ferdigvarer
     </text>
     
-    <!-- Finished goods icons -->
+
     <rect x="20" y="55" width="25" height="25" fill="#ffffff" opacity="0.9" rx="3"/>
     <rect x="55" y="55" width="25" height="25" fill="#ffffff" opacity="0.9" rx="3"/>
     <rect x="90" y="55" width="25" height="25" fill="#ffffff" opacity="0.9" rx="3"/>
     <rect x="125" y="55" width="25" height="25" fill="#ffffff" opacity="0.9" rx="3"/>
     
-    <!-- Check marks on finished goods -->
+
     <text x="32" y="72" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#28a745">✓</text>
     <text x="67" y="72" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#28a745">✓</text>
     <text x="102" y="72" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#28a745">✓</text>
@@ -95,7 +95,7 @@
     </text>
   </g>
   
-  <!-- Spare Parts Section -->
+
   <g transform="translate(150, 250)">
     <rect x="0" y="0" width="150" height="120" fill="url(#spareGradient)" stroke="#5a32a3" stroke-width="2" rx="10"/>
     <text x="75" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -105,7 +105,7 @@
       Vedlikeholdsmaterialer
     </text>
     
-    <!-- Spare parts icons -->
+
     <circle cx="40" cy="75" r="8" fill="none" stroke="#ffffff" stroke-width="2" opacity="0.8"/>
     <rect x="60" y="67" width="16" height="16" fill="none" stroke="#ffffff" stroke-width="2" opacity="0.8"/>
     <polygon points="90,67 106,67 98,83" fill="none" stroke="#ffffff" stroke-width="2" opacity="0.8"/>
@@ -115,7 +115,7 @@
     </text>
   </g>
   
-  <!-- MRO Section -->
+
   <g transform="translate(450, 250)">
     <rect x="0" y="0" width="150" height="120" fill="#6c757d" stroke="#495057" stroke-width="2" rx="10"/>
     <text x="75" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -128,7 +128,7 @@
       Operations)
     </text>
     
-    <!-- MRO icons -->
+
     <rect x="25" y="75" width="12" height="12" fill="#ffffff" opacity="0.8"/>
     <rect x="45" y="75" width="12" height="12" fill="#ffffff" opacity="0.8"/>
     <rect x="65" y="75" width="12" height="12" fill="#ffffff" opacity="0.8"/>
@@ -141,7 +141,7 @@
     </text>
   </g>
   
-  <!-- Flow arrows -->
+
   <g stroke="#495057" stroke-width="2" fill="none" marker-end="url(#arrowhead)">
     <defs>
       <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
@@ -149,14 +149,14 @@
       </marker>
     </defs>
     
-    <!-- Raw materials to WIP -->
+
     <path d="M 200 140 Q 225 140 250 140"/>
     
-    <!-- WIP to Finished goods -->
+
     <path d="M 400 140 Q 425 140 450 140"/>
   </g>
   
-  <!-- Legend -->
+
   <g transform="translate(50, 420)">
     <text x="0" y="0" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#495057">
       Produksjonsflyt:

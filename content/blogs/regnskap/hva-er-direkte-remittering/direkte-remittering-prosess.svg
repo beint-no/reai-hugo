@@ -9,15 +9,15 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="300" fill="#f8fafc"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1e293b">
     Direkte Remittering Prosess
   </text>
   
-  <!-- Step 1: Avsender -->
+
   <rect x="50" y="80" width="120" height="80" rx="10" fill="url(#processGradient)" filter="url(#shadow)"/>
   <text x="110" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     AVSENDER
@@ -32,7 +32,7 @@
     via bank
   </text>
   
-  <!-- Arrow 1 -->
+
   <path d="M180 120 L220 120" stroke="#10b981" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
@@ -40,7 +40,7 @@
     </marker>
   </defs>
   
-  <!-- Step 2: Avsenders Bank -->
+
   <rect x="230" y="80" width="120" height="80" rx="10" fill="#059669" filter="url(#shadow)"/>
   <text x="290" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     AVSENDERS
@@ -55,10 +55,10 @@
     behandler
   </text>
   
-  <!-- Arrow 2 -->
+
   <path d="M360 120 L400 120" stroke="#10b981" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 3: Banksystem -->
+
   <rect x="410" y="80" width="120" height="80" rx="10" fill="#7c3aed" filter="url(#shadow)"/>
   <text x="470" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     BANK-
@@ -73,10 +73,10 @@
     overføring
   </text>
   
-  <!-- Arrow 3 -->
+
   <path d="M540 120 L580 120" stroke="#10b981" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 4: Mottakers Bank -->
+
   <rect x="590" y="80" width="120" height="80" rx="10" fill="#059669" filter="url(#shadow)"/>
   <text x="650" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     MOTTAKERS
@@ -91,10 +91,10 @@
     konto
   </text>
   
-  <!-- Arrow 4 (curved down to mottaker) -->
+
   <path d="M650 170 Q650 200 650 220" stroke="#10b981" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 5: Mottaker -->
+
   <rect x="590" y="200" width="120" height="60" rx="10" fill="url(#processGradient)" filter="url(#shadow)"/>
   <text x="650" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     MOTTAKER
@@ -103,7 +103,7 @@
     Mottar midler
   </text>
   
-  <!-- Process characteristics -->
+
   <rect x="50" y="200" width="500" height="60" rx="8" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
   <text x="60" y="220" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">
     Prosesskarakteristika:
@@ -115,7 +115,7 @@
     • Automatisk dokumentasjon • Sporbar transaksjon • Øyeblikkelig eller planlagt
   </text>
   
-  <!-- Time indicator -->
+
   <rect x="300" y="50" width="200" height="20" rx="10" fill="#fbbf24"/>
   <text x="400" y="63" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     Behandlingstid: Sekunder til timer

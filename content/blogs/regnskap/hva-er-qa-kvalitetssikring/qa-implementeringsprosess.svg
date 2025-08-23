@@ -1,11 +1,11 @@
 <svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8fafc"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1e293b" text-anchor="middle">QA Implementeringsprosess</text>
   
-  <!-- Phase 1: Kartlegging og Analyse -->
+
   <g>
     <rect x="50" y="70" width="160" height="100" rx="10" fill="#dcfce7" stroke="#16a34a" stroke-width="2"/>
     <text x="130" y="95" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#166534" text-anchor="middle">Fase 1</text>
@@ -15,15 +15,15 @@
     <text x="60" y="142" font-family="Arial, sans-serif" font-size="10" fill="#166534">• Gap-identifikasjon</text>
     <text x="60" y="154" font-family="Arial, sans-serif" font-size="10" fill="#166534">• Risikokartlegging</text>
     
-    <!-- Duration -->
+
     <rect x="60" y="180" width="60" height="15" rx="3" fill="#ecfdf5" stroke="#10b981" stroke-width="1"/>
     <text x="90" y="190" font-family="Arial, sans-serif" font-size="9" fill="#047857" text-anchor="middle">4-6 uker</text>
     
-    <!-- Arrow to next phase -->
+
     <path d="M210,120 L250,120" stroke="#16a34a" stroke-width="2" fill="none" marker-end="url(#greenArrow)"/>
   </g>
   
-  <!-- Phase 2: Design og Planlegging -->
+
   <g>
     <rect x="270" y="70" width="160" height="100" rx="10" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
     <text x="350" y="95" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1d4ed8" text-anchor="middle">Fase 2</text>
@@ -33,15 +33,15 @@
     <text x="280" y="142" font-family="Arial, sans-serif" font-size="10" fill="#1d4ed8">• Prosessdokumentasjon</text>
     <text x="280" y="154" font-family="Arial, sans-serif" font-size="10" fill="#1d4ed8">• Implementeringsplan</text>
     
-    <!-- Duration -->
+
     <rect x="280" y="180" width="60" height="15" rx="3" fill="#eff6ff" stroke="#3b82f6" stroke-width="1"/>
     <text x="310" y="190" font-family="Arial, sans-serif" font-size="9" fill="#1d4ed8" text-anchor="middle">6-8 uker</text>
     
-    <!-- Arrow to next phase -->
+
     <path d="M430,120 L470,120" stroke="#2563eb" stroke-width="2" fill="none" marker-end="url(#blueArrow)"/>
   </g>
   
-  <!-- Phase 3: Pilotprosjekt -->
+
   <g>
     <rect x="490" y="70" width="160" height="100" rx="10" fill="#fef3c7" stroke="#f59e0b" stroke-width="2"/>
     <text x="570" y="95" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#d97706" text-anchor="middle">Fase 3</text>
@@ -51,15 +51,15 @@
     <text x="500" y="142" font-family="Arial, sans-serif" font-size="10" fill="#d97706">• Testing av løsninger</text>
     <text x="500" y="154" font-family="Arial, sans-serif" font-size="10" fill="#d97706">• Læring &amp; justering</text>
     
-    <!-- Duration -->
+
     <rect x="500" y="180" width="60" height="15" rx="3" fill="#fefbf3" stroke="#f59e0b" stroke-width="1"/>
     <text x="530" y="190" font-family="Arial, sans-serif" font-size="9" fill="#d97706" text-anchor="middle">8-12 uker</text>
     
-    <!-- Arrow down to next row -->
+
     <path d="M570,170 Q570,200 Q570,220 Q500,250 L470,250" stroke="#f59e0b" stroke-width="2" fill="none" marker-end="url(#orangeArrow)"/>
   </g>
   
-  <!-- Phase 4: Gradvis Utrulling -->
+
   <g>
     <rect x="270" y="200" width="160" height="100" rx="10" fill="#f3e8ff" stroke="#7c3aed" stroke-width="2"/>
     <text x="350" y="225" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#5b21b6" text-anchor="middle">Fase 4</text>
@@ -69,15 +69,15 @@
     <text x="280" y="272" font-family="Arial, sans-serif" font-size="10" fill="#5b21b6">• Opplæring &amp; support</text>
     <text x="280" y="284" font-family="Arial, sans-serif" font-size="10" fill="#5b21b6">• Prosessoptimalisering</text>
     
-    <!-- Duration -->
+
     <rect x="280" y="310" width="80" height="15" rx="3" fill="#faf5ff" stroke="#a855f7" stroke-width="1"/>
     <text x="320" y="320" font-family="Arial, sans-serif" font-size="9" fill="#5b21b6" text-anchor="middle">12-16 uker</text>
     
-    <!-- Arrow to next phase -->
+
     <path d="M210,250 L270,250" stroke="#7c3aed" stroke-width="2" fill="none" marker-end="url(#purpleArrow)"/>
   </g>
   
-  <!-- Phase 5: Stabilisering -->
+
   <g>
     <rect x="50" y="200" width="160" height="100" rx="10" fill="#fce7f3" stroke="#db2777" stroke-width="2"/>
     <text x="130" y="225" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#be185d" text-anchor="middle">Fase 5</text>
@@ -87,12 +87,12 @@
     <text x="60" y="272" font-family="Arial, sans-serif" font-size="10" fill="#be185d">• Performance måling</text>
     <text x="60" y="284" font-family="Arial, sans-serif" font-size="10" fill="#be185d">• Problemløsning</text>
     
-    <!-- Duration -->
+
     <rect x="60" y="310" width="60" height="15" rx="3" fill="#fdf2f8" stroke="#ec4899" stroke-width="1"/>
     <text x="90" y="320" font-family="Arial, sans-serif" font-size="9" fill="#be185d" text-anchor="middle">8-12 uker</text>
   </g>
   
-  <!-- Continuous Phase: Forbedring &amp; Drift -->
+
   <g>
     <rect x="250" y="350" width="300" height="100" rx="10" fill="#e0f2fe" stroke="#0891b2" stroke-width="2"/>
     <text x="400" y="375" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#0e7490" text-anchor="middle">Kontinuerlig Forbedring &amp; Drift</text>
@@ -102,19 +102,19 @@
     <text x="270" y="421" font-family="Arial, sans-serif" font-size="11" fill="#0891b2">• Tilpasning til nye krav og teknologier</text>
     <text x="270" y="434" font-family="Arial, sans-serif" font-size="11" fill="#0891b2">• Innovasjon og videreutvikling</text>
     
-    <!-- Arrow from stabilization phase -->
+
     <path d="M130,300 Q130,325 Q130,350 L250,390" stroke="#0891b2" stroke-width="2" fill="none" marker-end="url(#cyanArrow)"/>
     
-    <!-- Feedback loop arrows -->
+
     <path d="M400,450 Q200,500 Q100,450 Q100,400 Q100,350 Q130,320" stroke="#0891b2" stroke-width="1" fill="none" stroke-dasharray="5,5" marker-end="url(#cyanArrowSmall)"/>
   </g>
   
-  <!-- Success Factors -->
+
   <g>
     <rect x="50" y="480" width="700" height="100" rx="8" fill="#f1f5f9" stroke="#64748b" stroke-width="2"/>
     <text x="400" y="505" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b" text-anchor="middle">Kritiske Suksessfaktorer</text>
     
-    <!-- Success factor boxes -->
+
     <rect x="70" y="520" width="120" height="50" rx="4" fill="#dcfce7" stroke="#16a34a" stroke-width="1"/>
     <text x="130" y="535" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#166534" text-anchor="middle">Ledelsesforankring</text>
     <text x="130" y="547" font-family="Arial, sans-serif" font-size="9" fill="#15803d" text-anchor="middle">Tydelig støtte</text>
@@ -141,7 +141,7 @@
     <text x="650" y="557" font-family="Arial, sans-serif" font-size="9" fill="#c2185b" text-anchor="middle">kontinuerlig</text>
   </g>
   
-  <!-- Arrow markers definitions -->
+
   <defs>
     <marker id="greenArrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
       <polygon points="0 0, 8 3, 0 6" fill="#16a34a"/>

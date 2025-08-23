@@ -1,64 +1,64 @@
 <svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">Sammenligning av Lønnsformer</text>
   
-  <!-- Fastlønn -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="150" height="120" fill="#3498db" rx="10"/>
     <text x="75" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">FASTLØNN</text>
     
-    <!-- Calendar icon -->
+
     <rect x="20" y="40" width="110" height="60" fill="#2980b9" rx="5"/>
     <text x="75" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">50.000 kr</text>
     <text x="75" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">hver måned</text>
     
-    <!-- Characteristics -->
+
     <text x="75" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Forutsigbarhet: HØY</text>
     <text x="75" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Fleksibilitet: LAV</text>
   </g>
   
-  <!-- Timelønn -->
+
   <g transform="translate(250, 80)">
     <rect x="0" y="0" width="150" height="120" fill="#f39c12" rx="10"/>
     <text x="75" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">TIMELØNN</text>
     
-    <!-- Clock icon -->
+
     <circle cx="75" cy="70" r="25" fill="#e67e22" stroke="white" stroke-width="2"/>
     <line x1="75" y1="70" x2="75" y2="55" stroke="white" stroke-width="2"/>
     <line x1="75" y1="70" x2="85" y2="70" stroke="white" stroke-width="2"/>
     <text x="75" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Timer × Sats</text>
     
-    <!-- Characteristics -->
+
     <text x="75" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Forutsigbarhet: MIDDELS</text>
     <text x="75" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Fleksibilitet: HØY</text>
   </g>
   
-  <!-- Akkordlønn -->
+
   <g transform="translate(450, 80)">
     <rect x="0" y="0" width="150" height="120" fill="#e74c3c" rx="10"/>
     <text x="75" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">AKKORDLØNN</text>
     
-    <!-- Production icon -->
+
     <rect x="40" y="45" width="15" height="15" fill="white"/>
     <rect x="60" y="45" width="15" height="15" fill="white"/>
     <rect x="80" y="45" width="15" height="15" fill="white"/>
     <rect x="100" y="45" width="15" height="15" fill="white"/>
     <text x="75" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Enheter × Sats</text>
     
-    <!-- Characteristics -->
+
     <text x="75" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Forutsigbarhet: LAV</text>
     <text x="75" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Fleksibilitet: HØY</text>
   </g>
   
-  <!-- Provisjonslønn -->
+
   <g transform="translate(650, 80)">
     <rect x="0" y="0" width="150" height="120" fill="#9b59b6" rx="10"/>
     <text x="75" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">PROVISJON</text>
     
-    <!-- Sales chart icon -->
+
     <path d="M 30 85 L 50 65 L 70 75 L 90 55 L 110 45" stroke="white" stroke-width="3" fill="none"/>
     <circle cx="30" cy="85" r="3" fill="white"/>
     <circle cx="50" cy="65" r="3" fill="white"/>
@@ -67,18 +67,18 @@
     <circle cx="110" cy="45" r="3" fill="white"/>
     <text x="75" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Salg × %</text>
     
-    <!-- Characteristics -->
+
     <text x="75" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Forutsigbarhet: LAV</text>
     <text x="75" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Fleksibilitet: HØY</text>
   </g>
   
-  <!-- Comparison arrows and labels -->
+
   <g transform="translate(0, 250)">
-    <!-- Forutsigbarhet scale -->
+
     <text x="100" y="30" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">Forutsigbarhet</text>
     <line x1="100" y1="50" x2="700" y2="50" stroke="#34495e" stroke-width="2"/>
     
-    <!-- Scale markers -->
+
     <line x1="100" y1="45" x2="100" y2="55" stroke="#34495e" stroke-width="2"/>
     <text x="100" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">LAV</text>
     
@@ -88,26 +88,26 @@
     <line x1="700" y1="45" x2="700" y2="55" stroke="#34495e" stroke-width="2"/>
     <text x="700" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">HØY</text>
     
-    <!-- Position indicators -->
-    <circle cx="650" cy="50" r="8" fill="#3498db"/> <!-- Fastlønn -->
+
+    <circle cx="650" cy="50" r="8" fill="#3498db"/>
     <text x="650" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#3498db">Fastlønn</text>
     
-    <circle cx="400" cy="50" r="8" fill="#f39c12"/> <!-- Timelønn -->
+    <circle cx="400" cy="50" r="8" fill="#f39c12"/>
     <text x="400" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#f39c12">Timelønn</text>
     
-    <circle cx="200" cy="50" r="8" fill="#e74c3c"/> <!-- Akkordlønn -->
+    <circle cx="200" cy="50" r="8" fill="#e74c3c"/>
     <text x="200" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#e74c3c">Akkordlønn</text>
     
-    <circle cx="150" cy="50" r="8" fill="#9b59b6"/> <!-- Provisjon -->
+    <circle cx="150" cy="50" r="8" fill="#9b59b6"/>
     <text x="150" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#9b59b6">Provisjon</text>
   </g>
   
-  <!-- Fleksibilitet scale -->
+
   <g transform="translate(0, 380)">
     <text x="100" y="30" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">Fleksibilitet</text>
     <line x1="100" y1="50" x2="700" y2="50" stroke="#34495e" stroke-width="2"/>
     
-    <!-- Scale markers -->
+
     <line x1="100" y1="45" x2="100" y2="55" stroke="#34495e" stroke-width="2"/>
     <text x="100" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">LAV</text>
     
@@ -117,17 +117,17 @@
     <line x1="700" y1="45" x2="700" y2="55" stroke="#34495e" stroke-width="2"/>
     <text x="700" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">HØY</text>
     
-    <!-- Position indicators -->
-    <circle cx="200" cy="50" r="8" fill="#3498db"/> <!-- Fastlønn -->
+
+    <circle cx="200" cy="50" r="8" fill="#3498db"/>
     <text x="200" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#3498db">Fastlønn</text>
     
-    <circle cx="600" cy="50" r="8" fill="#f39c12"/> <!-- Timelønn -->
+    <circle cx="600" cy="50" r="8" fill="#f39c12"/>
     <text x="600" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#f39c12">Timelønn</text>
     
-    <circle cx="650" cy="50" r="8" fill="#e74c3c"/> <!-- Akkordlønn -->
+    <circle cx="650" cy="50" r="8" fill="#e74c3c"/>
     <text x="650" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#e74c3c">Akkordlønn</text>
     
-    <circle cx="680" cy="50" r="8" fill="#9b59b6"/> <!-- Provisjon -->
+    <circle cx="680" cy="50" r="8" fill="#9b59b6"/>
     <text x="680" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#9b59b6">Provisjon</text>
   </g>
 </svg>

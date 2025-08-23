@@ -10,17 +10,17 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#ffffff" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGrad)"/>
   <text x="400" y="38" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
     Kvartalsrapport Struktur
   </text>
   
-  <!-- Main sections -->
-  <!-- Section 1: Resultatregnskap -->
+
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="320" height="120" fill="url(#sectionGrad)" stroke="#1976d2" stroke-width="2" rx="8"/>
     <rect x="10" y="10" width="300" height="30" fill="#1976d2" rx="4"/>
@@ -34,7 +34,7 @@
     <text x="30" y="106" font-family="Arial, sans-serif" font-size="11" fill="#666">• Nettoresultat per aksje</text>
   </g>
   
-  <!-- Section 2: Balanse -->
+
   <g transform="translate(430, 80)">
     <rect x="0" y="0" width="320" height="120" fill="url(#sectionGrad)" stroke="#388e3c" stroke-width="2" rx="8"/>
     <rect x="10" y="10" width="300" height="30" fill="#388e3c" rx="4"/>
@@ -48,7 +48,7 @@
     <text x="30" y="106" font-family="Arial, sans-serif" font-size="11" fill="#666">• Endringer siden forrige periode</text>
   </g>
   
-  <!-- Section 3: Kontantstrøm -->
+
   <g transform="translate(50, 220)">
     <rect x="0" y="0" width="320" height="120" fill="url(#sectionGrad)" stroke="#f57c00" stroke-width="2" rx="8"/>
     <rect x="10" y="10" width="300" height="30" fill="#f57c00" rx="4"/>
@@ -62,7 +62,7 @@
     <text x="30" y="106" font-family="Arial, sans-serif" font-size="11" fill="#666">• Finansieringsaktiviteter</text>
   </g>
   
-  <!-- Section 4: Noter og tilleggsopplysninger -->
+
   <g transform="translate(430, 220)">
     <rect x="0" y="0" width="320" height="120" fill="url(#sectionGrad)" stroke="#c2185b" stroke-width="2" rx="8"/>
     <rect x="10" y="10" width="300" height="30" fill="#c2185b" rx="4"/>
@@ -76,11 +76,11 @@
     <text x="30" y="106" font-family="Arial, sans-serif" font-size="11" fill="#666">• Hendelser etter balansedagen</text>
   </g>
   
-  <!-- Additional components -->
+
   <g transform="translate(50, 360)">
     <text x="0" y="20" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333">Tilleggskomponenter:</text>
     
-    <!-- Management commentary -->
+
     <rect x="0" y="40" width="220" height="80" fill="#e8f5e8" stroke="#4caf50" stroke-width="1" rx="6"/>
     <text x="110" y="60" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#2e7d32">
       Ledelseskommentar
@@ -89,7 +89,7 @@
     <text x="10" y="95" font-family="Arial, sans-serif" font-size="10" fill="#666">• Strategiske initiativer</text>
     <text x="10" y="110" font-family="Arial, sans-serif" font-size="10" fill="#666">• Fremtidsutsikter</text>
     
-    <!-- Key figures -->
+
     <rect x="240" y="40" width="220" height="80" fill="#fff3e0" stroke="#ff9800" stroke-width="1" rx="6"/>
     <text x="350" y="60" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#f57c00">
       Nøkkeltall
@@ -98,7 +98,7 @@
     <text x="250" y="95" font-family="Arial, sans-serif" font-size="10" fill="#666">• Likviditetsmål</text>
     <text x="250" y="110" font-family="Arial, sans-serif" font-size="10" fill="#666">• Soliditetsmål</text>
     
-    <!-- Risk factors -->
+
     <rect x="480" y="40" width="220" height="80" fill="#fce4ec" stroke="#e91e63" stroke-width="1" rx="6"/>
     <text x="590" y="60" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#c2185b">
       Risikofaktorer
@@ -108,7 +108,7 @@
     <text x="490" y="110" font-family="Arial, sans-serif" font-size="10" fill="#666">• Finansiell risiko</text>
   </g>
   
-  <!-- Footer with compliance note -->
+
   <g transform="translate(50, 480)">
     <rect x="0" y="0" width="700" height="80" fill="#f1f3f4" stroke="#9e9e9e" stroke-width="1" rx="6"/>
     <text x="350" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#333">
@@ -122,14 +122,14 @@
     </text>
   </g>
   
-  <!-- Connecting arrows -->
+
   <defs>
     <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
       <path d="M0,0 L0,6 L9,3 z" fill="#666"/>
     </marker>
   </defs>
   
-  <!-- Arrows showing relationship between sections -->
+
   <line x1="210" y1="200" x2="210" y2="220" stroke="#666" stroke-width="2" marker-end="url(#arrow)"/>
   <line x1="590" y1="200" x2="590" y2="220" stroke="#666" stroke-width="2" marker-end="url(#arrow)"/>
 </svg>

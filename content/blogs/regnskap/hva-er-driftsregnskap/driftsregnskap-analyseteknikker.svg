@@ -18,16 +18,16 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="700" fill="#f8fafc"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="80" fill="url(#headerGrad)"/>
   <text x="400" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
     Analyseteknikker for Driftsregnskap
   </text>
   
-  <!-- Vertical Analysis -->
+
   <g transform="translate(50, 100)">
     <rect x="0" y="0" width="340" height="250" rx="10" fill="url(#verticalGrad)" stroke="#3b82f6" stroke-width="2"/>
     <text x="170" y="25" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
@@ -37,18 +37,18 @@
       Alle poster som % av driftsinntekter
     </text>
     
-    <!-- Example table -->
+
     <rect x="20" y="60" width="300" height="170" rx="5" fill="white" stroke="#3b82f6"/>
     <text x="170" y="80" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Eksempel - Vertikal Analyse
     </text>
     
-    <!-- Table headers -->
+
     <text x="30" y="100" fill="#1e40af" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Post</text>
     <text x="150" y="100" fill="#1e40af" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Beløp</text>
     <text x="230" y="100" fill="#1e40af" font-family="Arial, sans-serif" font-size="10" font-weight="bold">% av Omsetning</text>
     
-    <!-- Table data -->
+
     <line x1="30" y1="105" x2="310" y2="105" stroke="#cbd5e1" stroke-width="1"/>
     <text x="30" y="120" fill="#374151" font-family="Arial, sans-serif" font-size="10">Driftsinntekter</text>
     <text x="150" y="120" fill="#374151" font-family="Arial, sans-serif" font-size="10">10 000 000</text>
@@ -79,7 +79,7 @@
     </text>
   </g>
   
-  <!-- Horizontal Analysis -->
+
   <g transform="translate(410, 100)">
     <rect x="0" y="0" width="340" height="250" rx="10" fill="url(#horizontalGrad)" stroke="#10b981" stroke-width="2"/>
     <text x="170" y="25" text-anchor="middle" fill="#047857" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
@@ -89,19 +89,19 @@
       Sammenligning over flere år
     </text>
     
-    <!-- Example table -->
+
     <rect x="20" y="60" width="300" height="170" rx="5" fill="white" stroke="#10b981"/>
     <text x="170" y="80" text-anchor="middle" fill="#047857" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Eksempel - Trendanalyse
     </text>
     
-    <!-- Table headers -->
+
     <text x="30" y="100" fill="#047857" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Post</text>
     <text x="100" y="100" fill="#047857" font-family="Arial, sans-serif" font-size="10" font-weight="bold">2022</text>
     <text x="150" y="100" fill="#047857" font-family="Arial, sans-serif" font-size="10" font-weight="bold">2023</text>
     <text x="200" y="100" fill="#047857" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Endring</text>
     
-    <!-- Table data -->
+
     <line x1="30" y1="105" x2="310" y2="105" stroke="#cbd5e1" stroke-width="1"/>
     <text x="30" y="120" fill="#374151" font-family="Arial, sans-serif" font-size="9">Driftsinntekter</text>
     <text x="100" y="120" fill="#374151" font-family="Arial, sans-serif" font-size="9">9 200 000</text>
@@ -132,14 +132,14 @@
     </text>
   </g>
   
-  <!-- Key Ratios -->
+
   <g transform="translate(50, 370)">
     <rect x="0" y="0" width="700" height="280" rx="10" fill="url(#ratioGrad)" stroke="#f59e0b" stroke-width="2"/>
     <text x="350" y="25" text-anchor="middle" fill="#d97706" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
       3. Nøkkeltall for Driftsanalyse
     </text>
     
-    <!-- Profitability Ratios -->
+
     <rect x="30" y="40" width="320" height="220" rx="5" fill="white" stroke="#f59e0b"/>
     <text x="190" y="60" text-anchor="middle" fill="#d97706" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Lønnsomhetsnøkkeltall
@@ -180,7 +180,7 @@
       Høyere verdier = bedre lønnsomhet
     </text>
     
-    <!-- Efficiency Ratios -->
+
     <rect x="370" y="40" width="300" height="220" rx="5" fill="white" stroke="#f59e0b"/>
     <text x="520" y="60" text-anchor="middle" fill="#d97706" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Effektivitetsnøkkeltall
@@ -222,7 +222,7 @@
     </text>
   </g>
   
-  <!-- Footer -->
+
   <text x="400" y="680" text-anchor="middle" fill="#64748b" font-family="Arial, sans-serif" font-size="12">
     Kombinér alle tre analyseteknikker for helhetlig forståelse av driftsresultatet
   </text>

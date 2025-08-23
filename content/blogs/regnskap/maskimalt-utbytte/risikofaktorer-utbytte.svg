@@ -1,20 +1,20 @@
 <svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">Risikofaktorer ved Utbytteutdeling</text>
   
-  <!-- Economic Risk Factors -->
+
   <rect x="50" y="80" width="700" height="140" fill="#fdf2e8" stroke="#e67e22" stroke-width="2" rx="10"/>
   <text x="400" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">Økonomiske Risikofaktorer</text>
   
-  <!-- Risk Factor 1: Market Risk -->
+
   <g>
     <rect x="70" y="120" width="150" height="80" fill="#fff5f5" stroke="#e74c3c" stroke-width="1" rx="5"/>
     <text x="145" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#e74c3c">Markedsrisiko</text>
     
-    <!-- Market chart icon -->
+
     <path d="M 120 155 L 130 165 L 140 150 L 150 160 L 170 145" stroke="#e74c3c" stroke-width="2" fill="none"/>
     <circle cx="130" cy="165" r="2" fill="#e74c3c"/>
     <circle cx="140" cy="150" r="2" fill="#e74c3c"/>
@@ -24,24 +24,24 @@
     <text x="80" y="195" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">• Markedsvolatilitet</text>
   </g>
   
-  <!-- Risk Factor 2: Liquidity Risk -->
+
   <g>
     <rect x="240" y="120" width="150" height="80" fill="#f0f8ff" stroke="#3498db" stroke-width="1" rx="5"/>
     <text x="315" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#3498db">Likviditetsrisiko</text>
     
-    <!-- Water drop icon -->
+
     <path d="M 315 155 Q 305 165 315 175 Q 325 165 315 155" fill="#3498db"/>
     
     <text x="250" y="180" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">• Kontantstrømproblemer</text>
     <text x="250" y="195" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">• Betalingsevne</text>
   </g>
   
-  <!-- Risk Factor 3: Credit Risk -->
+
   <g>
     <rect x="410" y="120" width="150" height="80" fill="#fff8f0" stroke="#f39c12" stroke-width="1" rx="5"/>
     <text x="485" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#f39c12">Kredittrisiko</text>
     
-    <!-- Credit card icon -->
+
     <rect x="470" y="155" width="30" height="20" fill="#f39c12" rx="3"/>
     <rect x="475" y="160" width="20" height="3" fill="#fff"/>
     <rect x="475" y="165" width="15" height="2" fill="#fff"/>
@@ -50,12 +50,12 @@
     <text x="420" y="195" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">• Debitorrisiko</text>
   </g>
   
-  <!-- Risk Factor 4: Operational Risk -->
+
   <g>
     <rect x="580" y="120" width="150" height="80" fill="#f5f0ff" stroke="#9b59b6" stroke-width="1" rx="5"/>
     <text x="655" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#9b59b6">Operasjonell Risiko</text>
     
-    <!-- Gear icon -->
+
     <circle cx="655" cy="160" r="12" fill="none" stroke="#9b59b6" stroke-width="2"/>
     <circle cx="655" cy="160" r="6" fill="none" stroke="#9b59b6" stroke-width="2"/>
     <rect x="651" y="148" width="8" height="4" fill="#9b59b6"/>
@@ -67,15 +67,15 @@
     <text x="590" y="195" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">• Prosessrisiko</text>
   </g>
   
-  <!-- Precautionary Rules -->
+
   <rect x="50" y="240" width="700" height="160" fill="#f0f8e8" stroke="#27ae60" stroke-width="2" rx="10"/>
   <text x="400" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">Forsiktighetsregler</text>
   
-  <!-- Shield icon -->
+
   <path d="M 400 280 L 390 290 L 390 310 Q 390 320 400 325 Q 410 320 410 310 L 410 290 Z" fill="#27ae60"/>
   <text x="400" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#fff">✓</text>
   
-  <!-- Precautionary measures -->
+
   <g>
     <text x="70" y="350" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#27ae60">Forsiktighetsprinsippet tilsier:</text>
     <text x="70" y="370" font-family="Arial, sans-serif" font-size="13" fill="#2c3e50">✓ Beholde sikkerhetsbuffer utover minimumskravene</text>
@@ -88,16 +88,16 @@
     <text x="420" y="385" font-family="Arial, sans-serif" font-size="13" fill="#2c3e50">✓ Planlegge for uforutsette utgifter</text>
   </g>
   
-  <!-- Legal Responsibility -->
+
   <rect x="50" y="420" width="700" height="130" fill="#fff5f5" stroke="#e74c3c" stroke-width="2" rx="10"/>
   <text x="400" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">Juridisk Ansvar</text>
   
-  <!-- Gavel icon -->
+
   <rect x="380" y="460" width="5" height="25" fill="#8b4513"/>
   <rect x="375" y="460" width="15" height="8" fill="#8b4513" rx="2"/>
   <circle cx="395" cy="475" r="8" fill="#8b4513"/>
   
-  <!-- Legal consequences -->
+
   <g>
     <text x="70" y="480" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#e74c3c">Styremedlemmer kan bli personlig ansvarlige hvis:</text>
     
@@ -110,7 +110,7 @@
     <text x="420" y="530" font-family="Arial, sans-serif" font-size="13" fill="#2c3e50">• Manglende aktsomhet i beslutningsprosessen</text>
   </g>
   
-  <!-- Risk Assessment Framework -->
+
   <rect x="50" y="570" width="700" height="25" fill="#ecf0f1" stroke="#95a5a6" stroke-width="1" rx="3"/>
   <text x="70" y="585" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">Anbefaling:</text>
   <text x="140" y="585" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Gjennomfør grundig risikovurdering før hver utbyttebeslutning og dokumenter alle vurderinger.</text>

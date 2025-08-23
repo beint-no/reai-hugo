@@ -10,18 +10,18 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#ffffff"/>
   
-  <!-- Title -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGrad)"/>
   <text x="400" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="22" font-weight="bold">Leverandørreskontro Eksempel - Elektro Nord AS</text>
   
-  <!-- Company info -->
+
   <rect x="50" y="80" width="700" height="40" fill="#eff6ff" stroke="#3b82f6" stroke-width="1" rx="5"/>
   <text x="400" y="105" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Leverandør: Elektro Nord AS - Org.nr: 123 456 789</text>
   
-  <!-- Table header -->
+
   <rect x="50" y="140" width="700" height="40" fill="url(#tableGrad)" stroke="#64748b" stroke-width="2"/>
   <line x1="120" y1="140" x2="120" y2="180" stroke="#64748b" stroke-width="1"/>
   <line x1="250" y1="140" x2="250" y2="180" stroke="#64748b" stroke-width="1"/>
@@ -38,7 +38,7 @@
   <text x="600" y="165" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Saldo</text>
   <text x="700" y="165" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Status</text>
   
-  <!-- Row 1: Opening balance -->
+
   <rect x="50" y="180" width="700" height="30" fill="#ffffff" stroke="#cbd5e1" stroke-width="1"/>
   <line x1="120" y1="180" x2="120" y2="210" stroke="#cbd5e1" stroke-width="1"/>
   <line x1="250" y1="180" x2="250" y2="210" stroke="#cbd5e1" stroke-width="1"/>
@@ -55,7 +55,7 @@
   <text x="600" y="200" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="11" font-weight="bold">15 000</text>
   <circle cx="700" cy="195" r="6" fill="#f59e0b"/>
   
-  <!-- Row 2: Invoice -->
+
   <rect x="50" y="210" width="700" height="30" fill="#f9fafb" stroke="#cbd5e1" stroke-width="1"/>
   <line x1="120" y1="210" x2="120" y2="240" stroke="#cbd5e1" stroke-width="1"/>
   <line x1="250" y1="210" x2="250" y2="240" stroke="#cbd5e1" stroke-width="1"/>
@@ -72,7 +72,7 @@
   <text x="600" y="230" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="11" font-weight="bold">50 000</text>
   <circle cx="700" cy="225" r="6" fill="#ef4444"/>
   
-  <!-- Row 3: Payment -->
+
   <rect x="50" y="240" width="700" height="30" fill="#ffffff" stroke="#cbd5e1" stroke-width="1"/>
   <line x1="120" y1="240" x2="120" y2="270" stroke="#cbd5e1" stroke-width="1"/>
   <line x1="250" y1="240" x2="250" y2="270" stroke="#cbd5e1" stroke-width="1"/>
@@ -89,7 +89,7 @@
   <text x="600" y="260" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="11" font-weight="bold">35 000</text>
   <circle cx="700" cy="255" r="6" fill="#10b981"/>
   
-  <!-- Row 4: Another invoice -->
+
   <rect x="50" y="270" width="700" height="30" fill="#f9fafb" stroke="#cbd5e1" stroke-width="1"/>
   <line x1="120" y1="270" x2="120" y2="300" stroke="#cbd5e1" stroke-width="1"/>
   <line x1="250" y1="270" x2="250" y2="300" stroke="#cbd5e1" stroke-width="1"/>
@@ -106,7 +106,7 @@
   <text x="600" y="290" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="11" font-weight="bold">100 000</text>
   <circle cx="700" cy="285" r="6" fill="#ef4444"/>
   
-  <!-- Row 5: Payment -->
+
   <rect x="50" y="300" width="700" height="30" fill="#ffffff" stroke="#cbd5e1" stroke-width="1"/>
   <line x1="120" y1="300" x2="120" y2="330" stroke="#cbd5e1" stroke-width="1"/>
   <line x1="250" y1="300" x2="250" y2="330" stroke="#cbd5e1" stroke-width="1"/>
@@ -123,7 +123,7 @@
   <text x="600" y="320" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="11" font-weight="bold">65 000</text>
   <circle cx="700" cy="315" r="6" fill="#10b981"/>
   
-  <!-- Row 6: Credit note -->
+
   <rect x="50" y="330" width="700" height="30" fill="#f9fafb" stroke="#cbd5e1" stroke-width="1"/>
   <line x1="120" y1="330" x2="120" y2="360" stroke="#cbd5e1" stroke-width="1"/>
   <line x1="250" y1="330" x2="250" y2="360" stroke="#cbd5e1" stroke-width="1"/>
@@ -140,7 +140,7 @@
   <text x="600" y="350" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="11" font-weight="bold">62 000</text>
   <circle cx="700" cy="345" r="6" fill="#3b82f6"/>
   
-  <!-- Row 7: Service invoice -->
+
   <rect x="50" y="360" width="700" height="30" fill="#ffffff" stroke="#cbd5e1" stroke-width="1"/>
   <line x1="120" y1="360" x2="120" y2="390" stroke="#cbd5e1" stroke-width="1"/>
   <line x1="250" y1="360" x2="250" y2="390" stroke="#cbd5e1" stroke-width="1"/>
@@ -157,7 +157,7 @@
   <text x="600" y="380" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="11" font-weight="bold">87 000</text>
   <circle cx="700" cy="375" r="6" fill="#ef4444"/>
   
-  <!-- Row 8: Final payment -->
+
   <rect x="50" y="390" width="700" height="30" fill="#f9fafb" stroke="#cbd5e1" stroke-width="1"/>
   <line x1="120" y1="390" x2="120" y2="420" stroke="#cbd5e1" stroke-width="1"/>
   <line x1="250" y1="390" x2="250" y2="420" stroke="#cbd5e1" stroke-width="1"/>
@@ -174,7 +174,7 @@
   <text x="600" y="410" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="11" font-weight="bold">25 000</text>
   <circle cx="700" cy="405" r="6" fill="#10b981"/>
   
-  <!-- Legend -->
+
   <rect x="50" y="450" width="700" height="80" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" rx="5"/>
   <text x="400" y="475" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Status-forklaring:</text>
   
@@ -190,10 +190,10 @@
   <circle cx="550" cy="495" r="6" fill="#f59e0b"/>
   <text x="570" y="500" fill="#374151" font-family="Arial, sans-serif" font-size="12">Åpningssaldo</text>
   
-  <!-- Analysis -->
+
   <text x="400" y="520" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Analyse: Gjennomsnittlig betalingstid 12-15 dager | Utestående saldo: 25 000 kr</text>
   
-  <!-- Summary -->
+
   <rect x="50" y="540" width="700" height="40" fill="#ecfdf5" stroke="#10b981" stroke-width="1" rx="5"/>
   <text x="400" y="565" text-anchor="middle" fill="#059669" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Leverandørforhold: Punktlig betaling | Lav risiko | Anbefalt kredittramme: 120 000 kr</text>
 </svg>

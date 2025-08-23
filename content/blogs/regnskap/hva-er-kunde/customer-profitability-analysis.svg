@@ -9,20 +9,20 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#333">
     Kundelønnsomhetsanalyse
   </text>
   
-  <!-- Customer Profitability Formula Section -->
+
   <text x="400" y="80" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#666">
     Beregning av Kundelønnsomhet
   </text>
   
-  <!-- Revenue Section -->
+
   <g transform="translate(50, 100)">
     <rect x="0" y="0" width="300" height="120" fill="#28a745" rx="10" filter="url(#shadow)"/>
     <text x="150" y="30" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
@@ -39,12 +39,12 @@
     </text>
   </g>
   
-  <!-- Minus Sign -->
+
   <text x="400" y="170" font-family="Arial, sans-serif" font-size="36" font-weight="bold" text-anchor="middle" fill="#666">
     −
   </text>
   
-  <!-- Cost Section -->
+
   <g transform="translate(450, 100)">
     <rect x="0" y="0" width="300" height="120" fill="#dc3545" rx="10" filter="url(#shadow)"/>
     <text x="150" y="30" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
@@ -67,12 +67,12 @@
     </text>
   </g>
   
-  <!-- Equals Sign -->
+
   <text x="400" y="270" font-family="Arial, sans-serif" font-size="36" font-weight="bold" text-anchor="middle" fill="#666">
     =
   </text>
   
-  <!-- Profitability Result -->
+
   <g transform="translate(250, 280)">
     <rect x="0" y="0" width="300" height="60" fill="#0066cc" rx="10" filter="url(#shadow)"/>
     <text x="150" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
@@ -83,12 +83,12 @@
     </text>
   </g>
   
-  <!-- Customer Lifetime Value Section -->
+
   <text x="400" y="390" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#666">
     Customer Lifetime Value (CLV)
   </text>
   
-  <!-- CLV Formula -->
+
   <g transform="translate(50, 410)">
     <rect x="0" y="0" width="700" height="80" fill="white" rx="10" filter="url(#shadow)" stroke="#ddd" stroke-width="1"/>
     <text x="350" y="30" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#333">
@@ -99,7 +99,7 @@
     </text>
   </g>
   
-  <!-- CLV Components -->
+
   <g transform="translate(50, 510)">
     <rect x="0" y="0" width="160" height="70" fill="#28a745" rx="8" filter="url(#shadow)"/>
     <text x="80" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
@@ -167,7 +167,7 @@
     </text>
   </g>
   
-  <!-- CLV Result -->
+
   <g transform="translate(300, 350)">
     <rect x="0" y="0" width="200" height="50" fill="#6f42c1" rx="8" filter="url(#shadow)"/>
     <text x="100" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
@@ -178,7 +178,7 @@
     </text>
   </g>
   
-  <!-- Arrow pointing to result -->
+
   <path d="M 400 400 L 400 350" stroke="#6f42c1" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">

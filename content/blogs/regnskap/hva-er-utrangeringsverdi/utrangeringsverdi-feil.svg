@@ -14,15 +14,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="550" fill="url(#bgGrad)"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
     Vanlige Feil ved Utrangeringsverdi
   </text>
   
-  <!-- Error Section 1: Overoptimistic -->
+
   <g transform="translate(50, 70)">
     <rect x="0" y="0" width="340" height="180" fill="url(#errorGrad)" rx="15"/>
     <text x="170" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
@@ -31,7 +31,7 @@
     
     <rect x="20" y="45" width="300" height="120" fill="white" rx="8"/>
     
-    <!-- Warning icon -->
+
     <polygon points="30,60 45,60 37.5,75" fill="#dc3545"/>
     <text x="37.5" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">!</text>
     
@@ -57,7 +57,7 @@
     </text>
   </g>
   
-  <!-- Error Section 2: Conservative -->
+
   <g transform="translate(410, 70)">
     <rect x="0" y="0" width="340" height="180" fill="#ffc107" rx="15"/>
     <text x="170" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
@@ -66,7 +66,7 @@
     
     <rect x="20" y="45" width="300" height="120" fill="white" rx="8"/>
     
-    <!-- Caution icon -->
+
     <polygon points="30,60 45,60 37.5,75" fill="#ffc107"/>
     <text x="37.5" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">?</text>
     
@@ -92,22 +92,22 @@
     </text>
   </g>
   
-  <!-- Comparison Chart -->
+
   <g transform="translate(50, 280)">
     <rect x="0" y="0" width="700" height="200" fill="white" stroke="#007bff" stroke-width="3" rx="15"/>
     <text x="350" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#007bff">
       Sammenligning: Feil vs. Korrekt Estimering
     </text>
     
-    <!-- Chart background -->
+
     <rect x="80" y="50" width="540" height="120" fill="#f8f9fa" stroke="#dee2e6" rx="5"/>
     
-    <!-- Y-axis -->
+
     <line x1="80" y1="50" x2="80" y2="170" stroke="#6c757d" stroke-width="2"/>
-    <!-- X-axis -->
+
     <line x1="80" y1="170" x2="620" y2="170" stroke="#6c757d" stroke-width="2"/>
     
-    <!-- Labels -->
+
     <text x="70" y="60" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">Høy</text>
     <text x="70" y="110" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">Middels</text>
     <text x="70" y="160" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">Lav</text>
@@ -119,27 +119,27 @@
     <text x="450" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">År 7</text>
     <text x="550" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">År 10</text>
     
-    <!-- Curves -->
-    <!-- Overoptimistic -->
+
+
     <path d="M 150 70 Q 250 80 350 95 Q 450 110 550 125" stroke="#dc3545" stroke-width="3" fill="none"/>
     <text x="560" y="120" font-family="Arial, sans-serif" font-size="9" fill="#dc3545" font-weight="bold">
       Overoptimistisk
     </text>
     
-    <!-- Realistic -->
+
     <path d="M 150 70 Q 250 90 350 110 Q 450 130 550 140" stroke="#28a745" stroke-width="3" fill="none"/>
     <text x="560" y="135" font-family="Arial, sans-serif" font-size="9" fill="#28a745" font-weight="bold">
       Realistisk
     </text>
     
-    <!-- Conservative -->
+
     <path d="M 150 70 Q 250 100 350 125 Q 450 150 550 155" stroke="#ffc107" stroke-width="3" fill="none"/>
     <text x="560" y="150" font-family="Arial, sans-serif" font-size="9" fill="#ffc107" font-weight="bold">
       Konservativ
     </text>
   </g>
   
-  <!-- Best Practices -->
+
   <g transform="translate(50, 500)">
     <rect x="0" y="0" width="700" height="40" fill="url(#successGrad)" rx="10"/>
     <text x="350" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">

@@ -1,61 +1,61 @@
 <svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#2c3e50">Skattetrekkskonto - Digitale Løsninger</text>
   
-  <!-- Central integration hub -->
+
   <circle cx="400" cy="200" r="80" fill="#3498db" stroke="#2980b9" stroke-width="3"/>
   <text x="400" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">DIGITAL</text>
   <text x="400" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">PLATTFORM</text>
   <text x="400" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Integrert løsning</text>
   
-  <!-- Payroll system -->
+
   <rect x="50" y="50" width="140" height="80" rx="10" fill="#27ae60" stroke="#229954" stroke-width="2"/>
   <text x="120" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">LØNNSYSTEM</text>
   <text x="120" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Automatisk beregning</text>
   <text x="120" y="108" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Skattetabell-oppdatering</text>
   <text x="120" y="121" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Kvalitetskontroll</text>
   
-  <!-- Arrow from payroll to center -->
+
   <path d="M 190 90 L 320 170" stroke="#27ae60" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <text x="250" y="120" font-family="Arial, sans-serif" font-size="10" fill="#27ae60">Skattetrekk data</text>
   
-  <!-- Banking system -->
+
   <rect x="610" y="50" width="140" height="80" rx="10" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
   <text x="680" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">BANKSYSTEM</text>
   <text x="680" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Automatiske overføringer</text>
   <text x="680" y="108" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Sanntids saldoinfo</text>
   <text x="680" y="121" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Elektronisk avstemming</text>
   
-  <!-- Arrow from center to banking -->
+
   <path d="M 480 170 L 610 90" stroke="#e74c3c" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <text x="550" y="120" font-family="Arial, sans-serif" font-size="10" fill="#e74c3c">Overføringsinstrukser</text>
   
-  <!-- Accounting system -->
+
   <rect x="50" y="320" width="140" height="80" rx="10" fill="#9b59b6" stroke="#8e44ad" stroke-width="2"/>
   <text x="120" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">REGNSKAPSSYST.</text>
   <text x="120" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Automatisk bokføring</text>
   <text x="120" y="378" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Rapportgenerering</text>
   <text x="120" y="391" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Compliance-sjekk</text>
   
-  <!-- Arrow from center to accounting -->
+
   <path d="M 320 230 L 190 360" stroke="#9b59b6" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <text x="250" y="290" font-family="Arial, sans-serif" font-size="10" fill="#9b59b6">Transaksjonsdata</text>
   
-  <!-- Tax authority API -->
+
   <rect x="610" y="320" width="140" height="80" rx="10" fill="#f39c12" stroke="#e67e22" stroke-width="2"/>
   <text x="680" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">SKATTEETATEN</text>
   <text x="680" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• A-melding API</text>
   <text x="680" y="378" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Direkte rapportering</text>
   <text x="680" y="391" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Sanntids validering</text>
   
-  <!-- Arrow from center to tax authority -->
+
   <path d="M 480 230 L 610 360" stroke="#f39c12" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <text x="550" y="290" font-family="Arial, sans-serif" font-size="10" fill="#f39c12">A-melding &amp; innbetaling</text>
   
-  <!-- Benefits section -->
+
   <rect x="200" y="50" width="400" height="80" rx="10" fill="#17a2b8" stroke="#138496" stroke-width="2"/>
   <text x="400" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">DIGITALE FORDELER</text>
   
@@ -66,7 +66,7 @@
   <text x="220" y="121" font-family="Arial, sans-serif" font-size="11" fill="white">• Eliminering av beregningsfeil</text>
   <text x="450" y="121" font-family="Arial, sans-serif" font-size="11" fill="white">• Kostnadsbesparelse 40-60%</text>
   
-  <!-- API integration details -->
+
   <rect x="150" y="420" width="500" height="60" rx="10" fill="#6c757d" stroke="#5a6268" stroke-width="2"/>
   <text x="400" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">API-INTEGRASJONER</text>
   <text x="180" y="465" font-family="Arial, sans-serif" font-size="11" fill="white">Skatteetaten: a-melding, oppslag og validering</text>
@@ -74,7 +74,7 @@
   <text x="480" y="465" font-family="Arial, sans-serif" font-size="11" fill="white">Regnskap: automatisk journal og rapporter</text>
   <text x="480" y="475" font-family="Arial, sans-serif" font-size="11" fill="white">Lønn: trekksberegning og lønnskomponenter</text>
   
-  <!-- Technology features -->
+
   <circle cx="150" cy="200" r="40" fill="#28a745" stroke="#1e7e34" stroke-width="2"/>
   <text x="150" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">AI</text>
   <text x="150" y="208" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">KONTROLL</text>
@@ -90,16 +90,16 @@
   <text x="400" y="328" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">SIKKERHET</text>
   <text x="400" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#6f42c1">Kryptert dataoverføring</text>
   
-  <!-- Arrows connecting technology features to center -->
+
   <path d="M 190 200 L 320 200" stroke="#28a745" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 610 200 L 480 200" stroke="#dc3545" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 400 280 L 400 260" stroke="#6f42c1" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- ROI indicator -->
+
   <rect x="250" y="140" width="300" height="30" rx="5" fill="#fff3cd" stroke="#ffc107" stroke-width="1"/>
   <text x="400" y="158" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#856404">ROI: Typisk tilbakebetaling på 6-12 måneder</text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#2c3e50"/>

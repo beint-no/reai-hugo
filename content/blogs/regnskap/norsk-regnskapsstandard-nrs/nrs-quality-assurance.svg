@@ -14,16 +14,16 @@
     </radialGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <rect x="0" y="0" width="800" height="50" fill="url(#processFlow)"/>
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
     NRS Kvalitetssikring og Overholdelse
   </text>
   
-  <!-- Central quality circle -->
+
   <circle cx="400" cy="250" r="60" fill="url(#centerCircle)"/>
   <text x="400" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     Kvalitets-
@@ -32,7 +32,7 @@
     sikring
   </text>
   
-  <!-- Step 1: Oppdatering -->
+
   <rect x="50" y="80" width="140" height="100" fill="url(#stepGrad)" stroke="#0066cc" stroke-width="2" rx="8"/>
   <text x="120" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0066cc">
     1. Regelmessig
@@ -50,7 +50,7 @@
     • Regelverksendringer
   </text>
   
-  <!-- Step 2: Dokumentasjon -->
+
   <rect x="610" y="80" width="140" height="100" fill="url(#stepGrad)" stroke="#0066cc" stroke-width="2" rx="8"/>
   <text x="680" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0066cc">
     2. Dokumenterte
@@ -68,7 +68,7 @@
     • Ansvarsfordeling
   </text>
   
-  <!-- Step 3: Kompetanse -->
+
   <rect x="50" y="320" width="140" height="100" fill="url(#stepGrad)" stroke="#0066cc" stroke-width="2" rx="8"/>
   <text x="120" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0066cc">
     3. Kompetanse-
@@ -86,7 +86,7 @@
     • Sertifisering
   </text>
   
-  <!-- Step 4: Gjennomgang -->
+
   <rect x="610" y="320" width="140" height="100" fill="url(#stepGrad)" stroke="#0066cc" stroke-width="2" rx="8"/>
   <text x="680" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0066cc">
     4. Periodisk
@@ -104,26 +104,26 @@
     • Korrigerende tiltak
   </text>
   
-  <!-- Connection lines to center -->
+
   <line x1="190" y1="130" x2="350" y2="210" stroke="#666" stroke-width="2"/>
   <line x1="610" y1="130" x2="450" y2="210" stroke="#666" stroke-width="2"/>
   <line x1="190" y1="370" x2="350" y2="290" stroke="#666" stroke-width="2"/>
   <line x1="610" y1="370" x2="450" y2="290" stroke="#666" stroke-width="2"/>
   
-  <!-- Arrows showing circular process -->
+
   <path d="M 120 180 Q 200 200 280 180" stroke="#0066cc" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 520 180 Q 600 200 680 180" stroke="#0066cc" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 680 320 Q 600 300 520 320" stroke="#0066cc" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 280 320 Q 200 300 120 320" stroke="#0066cc" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#0066cc"/>
     </marker>
   </defs>
   
-  <!-- Control measures box -->
+
   <rect x="250" y="350" width="300" height="120" fill="white" stroke="#28a745" stroke-width="2" rx="8"/>
   <text x="400" y="375" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#28a745">
     Kontrollmålinger
@@ -151,7 +151,7 @@
     </text>
   </g>
   
-  <!-- Risk factors -->
+
   <rect x="50" y="200" width="140" height="80" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="8"/>
   <text x="120" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#856404">
     Risikofaktorer
@@ -169,7 +169,7 @@
     • Kompetansemangel
   </text>
   
-  <!-- Success indicators -->
+
   <rect x="610" y="200" width="140" height="80" fill="#d4edda" stroke="#28a745" stroke-width="2" rx="8"/>
   <text x="680" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#155724">
     Suksessindikatorer

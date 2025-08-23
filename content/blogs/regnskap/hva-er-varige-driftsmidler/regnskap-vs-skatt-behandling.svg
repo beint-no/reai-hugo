@@ -1,8 +1,8 @@
 <svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8fafc"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1f2937">
     Regnskap vs. Skatt Behandling
   </text>
@@ -10,24 +10,24 @@
     Varige Driftsmidler
   </text>
   
-  <!-- Dividing line -->
+
   <line x1="400" y1="80" x2="400" y2="560" stroke="#d1d5db" stroke-width="2" stroke-dasharray="5,5"/>
   
-  <!-- Left side: Regnskap -->
+
   <rect x="50" y="90" width="300" height="40" fill="#3b82f6" rx="5"/>
   <text x="200" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
     REGNSKAP
   </text>
   
-  <!-- Right side: Skatt -->
+
   <rect x="450" y="90" width="300" height="40" fill="#dc2626" rx="5"/>
   <text x="600" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
     SKATT
   </text>
   
-  <!-- Accounting side content -->
+
   <g id="accounting-side">
-    <!-- Depreciation method -->
+
     <rect x="60" y="150" width="280" height="30" fill="#bfdbfe" rx="3"/>
     <text x="70" y="170" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e40af">
       Avskrivningsmetode:
@@ -42,7 +42,7 @@
       • Stabile årlige kostnader
     </text>
     
-    <!-- Example calculation -->
+
     <rect x="60" y="240" width="280" height="110" fill="#f3f4f6" rx="3"/>
     <text x="70" y="260" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1f2937">
       Eksempel - Maskin 800.000 kr:
@@ -63,7 +63,7 @@
       År 5: 100.000 kr (lineær)
     </text>
     
-    <!-- Principles -->
+
     <rect x="60" y="370" width="280" height="80" fill="#ecfdf5" rx="3"/>
     <text x="70" y="390" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#065f46">
       Regnskapsprinsipper:
@@ -79,9 +79,9 @@
     </text>
   </g>
   
-  <!-- Tax side content -->
+
   <g id="tax-side">
-    <!-- Depreciation method -->
+
     <rect x="460" y="150" width="280" height="30" fill="#fecaca" rx="3"/>
     <text x="470" y="170" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#b91c1c">
       Avskrivningsmetode:
@@ -96,7 +96,7 @@
       • Høyere i starten
     </text>
     
-    <!-- Example calculation -->
+
     <rect x="460" y="240" width="280" height="110" fill="#f3f4f6" rx="3"/>
     <text x="470" y="260" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1f2937">
       Eksempel - Maskin 800.000 kr (20%):
@@ -117,7 +117,7 @@
       År 5: 65.536 kr (saldo)
     </text>
     
-    <!-- Principles -->
+
     <rect x="460" y="370" width="280" height="80" fill="#fef3c7" rx="3"/>
     <text x="470" y="390" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#92400e">
       Skatteformål:
@@ -133,7 +133,7 @@
     </text>
   </g>
   
-  <!-- Temporary differences section -->
+
   <rect x="100" y="470" width="600" height="80" fill="#fef2f2" rx="5" stroke="#ef4444" stroke-width="2"/>
   <text x="400" y="490" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#dc2626">
     Midlertidige Forskjeller
@@ -149,13 +149,13 @@
     • <tspan font-weight="bold">Resultat:</tspan> Utsatt skatt må beregnes på forskjellene
   </text>
   
-  <!-- Arrows showing the difference -->
+
   <path d="M 360 320 Q 400 350 440 320" stroke="#f59e0b" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <text x="400" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#f59e0b">
     Forskjell
   </text>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#f59e0b"/>

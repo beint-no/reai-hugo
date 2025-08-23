@@ -14,53 +14,53 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8fafc"/>
   
-  <!-- Title -->
+
   <text x="400" y="50" text-anchor="middle" fill="#1e293b" font-family="Arial, sans-serif" font-size="32" font-weight="bold">Aksjonærmodellen</text>
   <text x="400" y="80" text-anchor="middle" fill="#64748b" font-family="Arial, sans-serif" font-size="18">Norsk aksjebeskatning - Fritaksmetoden &amp; Skjermingsfradrag</text>
   
-  <!-- Main pillars -->
+
   <g>
-    <!-- Fritaksmetoden pillar -->
+
     <rect x="150" y="150" width="200" height="300" fill="url(#grad1)" rx="10"/>
     <text x="250" y="180" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="20" font-weight="bold">Fritaksmetoden</text>
     <text x="250" y="210" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14">For selskaper</text>
     
-    <!-- Fritaksmetoden details -->
+
     <text x="250" y="240" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">97% fritak</text>
     <text x="250" y="260" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">3% skattepliktig</text>
     <text x="250" y="280" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">Min. 10% eierandel</text>
     <text x="250" y="300" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">Min. 2 år eiertid</text>
     
-    <!-- Skjermingsfradrag pillar -->
+
     <rect x="450" y="150" width="200" height="300" fill="url(#grad2)" rx="10"/>
     <text x="550" y="180" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="20" font-weight="bold">Skjermingsfradrag</text>
     <text x="550" y="210" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14">For privatpersoner</text>
     
-    <!-- Skjermingsfradrag details -->
+
     <text x="550" y="240" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">Normalavkastning</text>
     <text x="550" y="260" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">Statsobl. + 0,5%</text>
     <text x="550" y="280" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">Akkumuleres årlig</text>
     <text x="550" y="300" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">22% skatt på rest</text>
   </g>
   
-  <!-- Connection arrow -->
+
   <path d="M 350 300 L 450 300" stroke="#374151" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#374151"/>
     </marker>
   </defs>
   
-  <!-- Bottom section - Key principles -->
+
   <rect x="50" y="480" width="700" height="100" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="2" rx="10"/>
   <text x="400" y="510" text-anchor="middle" fill="#1e293b" font-family="Arial, sans-serif" font-size="18" font-weight="bold">Hovedprinsipper</text>
   
-  <!-- Principle boxes -->
+
   <g>
     <rect x="80" y="520" width="140" height="40" fill="url(#grad3)" rx="5"/>
     <text x="150" y="545" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Unngå dobbelt-</text>
@@ -79,6 +79,6 @@
     <text x="630" y="555" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">mobilisering</text>
   </g>
   
-  <!-- Year indicator -->
+
   <text x="400" y="120" text-anchor="middle" fill="#64748b" font-family="Arial, sans-serif" font-size="14" font-style="italic">Innført i 2006 - Gjelder fra 2024</text>
 </svg>

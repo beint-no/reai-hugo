@@ -10,26 +10,26 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="400" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
   
-  <!-- Main Title -->
+
   <text x="400" y="50" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle" fill="white">
     Hva er internregnskap?
   </text>
   
-  <!-- Content sections -->
+
   <g transform="translate(50, 120)">
-    <!-- Left column -->
+
     <rect x="0" y="0" width="320" height="240" fill="white" stroke="#0066cc" stroke-width="2" rx="8"/>
     <text x="160" y="30" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#0066cc">
       Intern Styring
     </text>
     
-    <!-- Internal management icons and text -->
+
     <circle cx="80" cy="70" r="25" fill="#e3f2fd" stroke="#0066cc" stroke-width="2"/>
     <text x="80" y="77" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0066cc">
       Budget
@@ -50,7 +50,7 @@
       Analyse
     </text>
     
-    <!-- Features list -->
+
     <text x="20" y="190" font-family="Arial, sans-serif" font-size="12" fill="#333">
       • Fremtidsrettet planlegging
     </text>
@@ -62,14 +62,14 @@
     </text>
   </g>
   
-  <!-- Right column -->
+
   <g transform="translate(430, 120)">
     <rect x="0" y="0" width="320" height="240" fill="white" stroke="#28a745" stroke-width="2" rx="8"/>
     <text x="160" y="30" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#28a745">
       Beslutningsstøtte
     </text>
     
-    <!-- Decision support elements -->
+
     <rect x="40" y="50" width="240" height="40" fill="#d4edda" stroke="#28a745" stroke-width="1" rx="4"/>
     <text x="160" y="75" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#28a745">
       Ledelsesrapporter
@@ -85,11 +85,11 @@
       Lønnsomhetsvurdering
     </text>
     
-    <!-- Arrow connecting sections -->
+
     <path d="M -50 120 L -20 120" stroke="#6c757d" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   </g>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#6c757d"/>

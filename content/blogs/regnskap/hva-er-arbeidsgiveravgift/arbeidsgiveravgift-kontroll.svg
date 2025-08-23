@@ -14,15 +14,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
     Kontroll og Etterlevelse av Arbeidsgiveravgift
   </text>
   
-  <!-- Left side - Tax Authority Control -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="320" height="180" fill="white" stroke="#dc3545" stroke-width="3" rx="10"/>
     <rect x="0" y="0" width="320" height="40" fill="url(#controlGradient)" rx="10"/>
@@ -73,7 +73,7 @@
     </g>
   </g>
   
-  <!-- Right side - Company Compliance -->
+
   <g transform="translate(430, 80)">
     <rect x="0" y="0" width="320" height="180" fill="white" stroke="#28a745" stroke-width="3" rx="10"/>
     <rect x="0" y="0" width="320" height="40" fill="url(#complianceGradient)" rx="10"/>
@@ -124,14 +124,14 @@
     </g>
   </g>
   
-  <!-- Control process flow -->
+
   <g transform="translate(50, 290)">
     <rect x="0" y="0" width="700" height="180" fill="white" stroke="#0066cc" stroke-width="2" rx="10"/>
     <text x="350" y="25" text-anchor="middle" fill="#0066cc" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
       Kontrollprosessen
     </text>
     
-    <!-- Step 1 -->
+
     <g transform="translate(50, 50)">
       <rect x="0" y="0" width="120" height="60" fill="#e9ecef" stroke="#666" stroke-width="2" rx="5"/>
       <text x="60" y="20" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
@@ -145,13 +145,13 @@
       </text>
     </g>
     
-    <!-- Arrow 1 -->
+
     <g transform="translate(180, 75)">
       <line x1="0" y1="0" x2="40" y2="0" stroke="#666" stroke-width="2"/>
       <polygon points="35,-3 43,0 35,3" fill="#666"/>
     </g>
     
-    <!-- Step 2 -->
+
     <g transform="translate(230, 50)">
       <rect x="0" y="0" width="120" height="60" fill="#e9ecef" stroke="#666" stroke-width="2" rx="5"/>
       <text x="60" y="20" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
@@ -165,13 +165,13 @@
       </text>
     </g>
     
-    <!-- Arrow 2 -->
+
     <g transform="translate(360, 75)">
       <line x1="0" y1="0" x2="40" y2="0" stroke="#666" stroke-width="2"/>
       <polygon points="35,-3 43,0 35,3" fill="#666"/>
     </g>
     
-    <!-- Step 3 -->
+
     <g transform="translate(410, 50)">
       <rect x="0" y="0" width="120" height="60" fill="#e9ecef" stroke="#666" stroke-width="2" rx="5"/>
       <text x="60" y="20" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
@@ -185,13 +185,13 @@
       </text>
     </g>
     
-    <!-- Arrow 3 -->
+
     <g transform="translate(540, 75)">
       <line x1="0" y1="0" x2="40" y2="0" stroke="#666" stroke-width="2"/>
       <polygon points="35,-3 43,0 35,3" fill="#666"/>
     </g>
     
-    <!-- Step 4 -->
+
     <g transform="translate(590, 50)">
       <rect x="0" y="0" width="80" height="60" fill="#e9ecef" stroke="#666" stroke-width="2" rx="5"/>
       <text x="40" y="20" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
@@ -205,7 +205,7 @@
       </text>
     </g>
     
-    <!-- Best practices -->
+
     <g transform="translate(20, 130)">
       <text x="0" y="15" fill="#0066cc" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
         Beste praksis for å unngå kontrollproblemer:

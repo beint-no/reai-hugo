@@ -9,16 +9,16 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f8f9fa"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
   <text x="400" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="white">
     Fortjeneste Oversikt
   </text>
   
-  <!-- Central concept -->
+
   <g transform="translate(300, 120)">
     <circle cx="100" cy="80" r="60" fill="#28a745" filter="url(#shadow)"/>
     <text x="100" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
@@ -29,9 +29,9 @@
     </text>
   </g>
   
-  <!-- Key components around the central concept -->
+
   
-  <!-- Revenue -->
+
   <g transform="translate(50, 100)">
     <rect x="0" y="0" width="120" height="70" fill="#007bff" rx="8" filter="url(#shadow)"/>
     <text x="60" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -44,11 +44,11 @@
       • Andre inntekter
     </text>
     
-    <!-- Arrow to center -->
+
     <path d="M 120 35 L 280 120" stroke="#495057" stroke-width="2" marker-end="url(#arrowhead)"/>
   </g>
   
-  <!-- Costs -->
+
   <g transform="translate(50, 220)">
     <rect x="0" y="0" width="120" height="90" fill="#dc3545" rx="8" filter="url(#shadow)"/>
     <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -67,11 +67,11 @@
       • Skatter
     </text>
     
-    <!-- Arrow to center -->
+
     <path d="M 120 45 L 280 160" stroke="#495057" stroke-width="2" marker-end="url(#arrowhead)"/>
   </g>
   
-  <!-- Types of profit -->
+
   <g transform="translate(550, 100)">
     <rect x="0" y="0" width="200" height="120" fill="#6c757d" rx="8" filter="url(#shadow)"/>
     <text x="100" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -93,11 +93,11 @@
       • EBIT
     </text>
     
-    <!-- Arrow from center -->
+
     <path d="M 480 160 L 550 160" stroke="#495057" stroke-width="2" marker-end="url(#arrowhead)"/>
   </g>
   
-  <!-- Analysis tools -->
+
   <g transform="translate(300, 280)">
     <rect x="0" y="0" width="200" height="100" fill="#17a2b8" rx="8" filter="url(#shadow)"/>
     <text x="100" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -116,11 +116,11 @@
       • Bransjebenchmark
     </text>
     
-    <!-- Arrow from center -->
+
     <path d="M 400 240 L 400 280" stroke="#495057" stroke-width="2" marker-end="url(#arrowhead)"/>
   </g>
   
-  <!-- Applications -->
+
   <g transform="translate(50, 350)">
     <rect x="0" y="0" width="180" height="100" fill="#fd7e14" rx="8" filter="url(#shadow)"/>
     <text x="90" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -140,7 +140,7 @@
     </text>
   </g>
   
-  <!-- Strategies -->
+
   <g transform="translate(570, 350)">
     <rect x="0" y="0" width="180" height="100" fill="#6f42c1" rx="8" filter="url(#shadow)"/>
     <text x="90" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -160,14 +160,14 @@
     </text>
   </g>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#495057"/>
     </marker>
   </defs>
   
-  <!-- Bottom note -->
+
   <text x="400" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
     Fortjeneste er et sentralt konsept som påvirker alle aspekter av bedriftsdrift
   </text>

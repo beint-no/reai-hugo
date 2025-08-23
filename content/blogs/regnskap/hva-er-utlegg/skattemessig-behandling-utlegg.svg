@@ -6,17 +6,17 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e40af">
     Skattemessig Behandling av Utlegg
   </text>
   
-  <!-- Decision Tree Structure -->
+
   
-  <!-- Main Question -->
+
   <g transform="translate(300, 70)">
     <rect x="0" y="0" width="200" height="60" rx="10" fill="#3b82f6" stroke="#1e40af" stroke-width="2"/>
     <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -27,21 +27,21 @@
     </text>
   </g>
   
-  <!-- Yes Branch -->
+
   <g transform="translate(100, 170)">
-    <!-- Arrow -->
+
     <path d="M 250 0 L 200 30 L 200 40 L 0 40 L 0 50" stroke="#16a34a" stroke-width="3" fill="none"/>
     <text x="150" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#16a34a">
       JA
     </text>
     
-    <!-- Deductible Box -->
+
     <rect x="0" y="50" width="250" height="200" rx="12" fill="#dcfce7" stroke="#16a34a" stroke-width="2"/>
     <text x="125" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#15803d">
       FRADRAGSBERETTIGET
     </text>
     
-    <!-- Full deduction examples -->
+
     <text x="15" y="100" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#15803d">
       100% fradragsrett:
     </text>
@@ -58,7 +58,7 @@
       • Porto og kommunikasjon
     </text>
     
-    <!-- Limited deduction -->
+
     <text x="15" y="185" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#15803d">
       Begrenset fradrag:
     </text>
@@ -73,21 +73,21 @@
     </text>
   </g>
   
-  <!-- No Branch -->
+
   <g transform="translate(450, 170)">
-    <!-- Arrow -->
+
     <path d="M 0 0 L 50 30 L 50 40 L 250 40 L 250 50" stroke="#dc2626" stroke-width="3" fill="none"/>
     <text x="100" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#dc2626">
       NEI
     </text>
     
-    <!-- Non-deductible Box -->
+
     <rect x="0" y="50" width="250" height="200" rx="12" fill="#fee2e2" stroke="#dc2626" stroke-width="2"/>
     <text x="125" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#dc2626">
       IKKE FRADRAGSBERETTIGET
     </text>
     
-    <!-- Non-deductible examples -->
+
     <text x="15" y="100" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#dc2626">
       Ingen fradragsrett:
     </text>
@@ -107,7 +107,7 @@
       • Gaver til ansatte
     </text>
     
-    <!-- Consequences -->
+
     <text x="15" y="200" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#dc2626">
       Konsekvenser:
     </text>
@@ -119,7 +119,7 @@
     </text>
   </g>
   
-  <!-- MVA Considerations -->
+
   <g transform="translate(50, 390)">
     <rect x="0" y="0" width="300" height="150" rx="10" fill="#fef3c7" stroke="#f59e0b" stroke-width="2"/>
     <text x="150" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#92400e">
@@ -147,7 +147,7 @@
     </text>
   </g>
   
-  <!-- Documentation Requirements -->
+
   <g transform="translate(450, 390)">
     <rect x="0" y="0" width="300" height="150" rx="10" fill="#e0e7ff" stroke="#6366f1" stroke-width="2"/>
     <text x="150" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#4338ca">
@@ -174,7 +174,7 @@
     </text>
   </g>
   
-  <!-- Bottom warning -->
+
   <rect x="50" y="560" width="700" height="30" rx="5" fill="#dc2626" opacity="0.1"/>
   <text x="400" y="575" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#dc2626">
     ⚠️ Konsulter alltid regnskapsfører eller skatterådgiver ved tvil om fradragsrett

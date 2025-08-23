@@ -14,22 +14,22 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGrad)"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
     Implementering av Utrangeringsverdi-rutiner
   </text>
   
-  <!-- Process Flow -->
+
   <g transform="translate(50, 70)">
     <rect x="0" y="0" width="700" height="200" fill="url(#processGrad)" rx="15"/>
     <text x="350" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
       Implementeringsprosess
     </text>
     
-    <!-- Step 1 -->
+
     <g transform="translate(30, 50)">
       <rect x="0" y="0" width="120" height="120" fill="white" rx="10"/>
       <circle cx="60" cy="25" r="15" fill="#007bff"/>
@@ -52,10 +52,10 @@
       </text>
     </g>
     
-    <!-- Arrow 1 -->
+
     <polygon points="165,110 180,105 180,115" fill="white"/>
     
-    <!-- Step 2 -->
+
     <g transform="translate(190, 50)">
       <rect x="0" y="0" width="120" height="120" fill="white" rx="10"/>
       <circle cx="60" cy="25" r="15" fill="#007bff"/>
@@ -78,10 +78,10 @@
       </text>
     </g>
     
-    <!-- Arrow 2 -->
+
     <polygon points="325,110 340,105 340,115" fill="white"/>
     
-    <!-- Step 3 -->
+
     <g transform="translate(350, 50)">
       <rect x="0" y="0" width="120" height="120" fill="white" rx="10"/>
       <circle cx="60" cy="25" r="15" fill="#007bff"/>
@@ -104,10 +104,10 @@
       </text>
     </g>
     
-    <!-- Arrow 3 -->
+
     <polygon points="485,110 500,105 500,115" fill="white"/>
     
-    <!-- Step 4 -->
+
     <g transform="translate(510, 50)">
       <rect x="0" y="0" width="120" height="120" fill="white" rx="10"/>
       <circle cx="60" cy="25" r="15" fill="#007bff"/>
@@ -131,7 +131,7 @@
     </g>
   </g>
   
-  <!-- System Support -->
+
   <g transform="translate(50, 300)">
     <rect x="0" y="0" width="340" height="180" fill="url(#systemGrad)" rx="15"/>
     <text x="170" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
@@ -140,7 +140,7 @@
     
     <rect x="20" y="45" width="300" height="120" fill="white" rx="8"/>
     
-    <!-- System icon -->
+
     <rect x="30" y="60" width="40" height="25" rx="3" fill="#28a745"/>
     <rect x="32" y="62" width="36" height="18" rx="2" fill="#e9ecef"/>
     <rect x="45" y="87" width="10" height="8" rx="2" fill="#6c757d"/>
@@ -169,7 +169,7 @@
     </text>
   </g>
   
-  <!-- Best Practices -->
+
   <g transform="translate(410, 300)">
     <rect x="0" y="0" width="340" height="180" fill="#ffc107" rx="15"/>
     <text x="170" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
@@ -178,7 +178,7 @@
     
     <rect x="20" y="45" width="300" height="120" fill="white" rx="8"/>
     
-    <!-- Best practice icon -->
+
     <polygon points="30,60 45,60 37.5,75" fill="#ffc107"/>
     <text x="37.5" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">★</text>
     
@@ -206,17 +206,17 @@
     </text>
   </g>
   
-  <!-- Implementation timeline -->
+
   <g transform="translate(50, 510)">
     <rect x="0" y="0" width="700" height="70" fill="white" stroke="#17a2b8" stroke-width="3" rx="15"/>
     <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#17a2b8">
       Implementeringstidslinje
     </text>
     
-    <!-- Timeline -->
+
     <line x1="80" y1="45" x2="620" y2="45" stroke="#17a2b8" stroke-width="3"/>
     
-    <!-- Phase markers -->
+
     <circle cx="130" cy="45" r="5" fill="#17a2b8"/>
     <text x="130" y="62" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#17a2b8" font-weight="bold">
       Uke 1-2: Planlegging

@@ -22,22 +22,22 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#333">
     Digitale Kontantstrømverktøy
   </text>
   
-  <!-- ERP Systems Section -->
+
   <rect x="50" y="70" width="340" height="120" fill="url(#erpGradient)" rx="15" opacity="0.1"/>
   <rect x="60" y="80" width="320" height="30" fill="url(#erpGradient)" rx="5"/>
   <text x="220" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     1. ERP-SYSTEMER
   </text>
   
-  <!-- ERP features -->
+
   <text x="70" y="130" font-family="Arial, sans-serif" font-size="12" fill="#333">
     • Integrert kontantstrømrapportering
   </text>
@@ -51,14 +51,14 @@
     • Helhetlig oversikt over bedriftens økonomi
   </text>
   
-  <!-- Accounting Systems Section -->
+
   <rect x="410" y="70" width="340" height="120" fill="url(#accountingGradient)" rx="15" opacity="0.1"/>
   <rect x="420" y="80" width="320" height="30" fill="url(#accountingGradient)" rx="5"/>
   <text x="580" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     2. REGNSKAPSSYSTEMER
   </text>
   
-  <!-- Accounting features -->
+
   <text x="430" y="130" font-family="Arial, sans-serif" font-size="12" fill="#333">
     • Automatisk kontantstrømoppstilling
   </text>
@@ -72,14 +72,14 @@
     • Standardiserte rapporter og analyser
   </text>
   
-  <!-- Specialized Tools Section -->
+
   <rect x="50" y="210" width="340" height="120" fill="url(#specializedGradient)" rx="15" opacity="0.1"/>
   <rect x="60" y="220" width="320" height="30" fill="url(#specializedGradient)" rx="5"/>
   <text x="220" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     3. SPESIALISERTE VERKTØY
   </text>
   
-  <!-- Specialized features -->
+
   <text x="70" y="270" font-family="Arial, sans-serif" font-size="12" fill="#333">
     • Avanserte prognosealgoritmeer
   </text>
@@ -93,14 +93,14 @@
     • Avanserte dashboards og visualisering
   </text>
   
-  <!-- API Integration Section -->
+
   <rect x="410" y="210" width="340" height="120" fill="url(#apiGradient)" rx="15" opacity="0.1"/>
   <rect x="420" y="220" width="320" height="30" fill="url(#apiGradient)" rx="5"/>
   <text x="580" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     4. API-INTEGRASJONER
   </text>
   
-  <!-- API features -->
+
   <text x="430" y="270" font-family="Arial, sans-serif" font-size="12" fill="#333">
     • Automatisk datainnhenting fra banker
   </text>
@@ -114,13 +114,13 @@
     • Automatiserte arbeidsflyter
   </text>
   
-  <!-- Benefits Section -->
+
   <rect x="50" y="350" width="700" height="140" fill="url(#benefitsGradient)" rx="15"/>
   <text x="400" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
     FORDELER MED DIGITALISERING
   </text>
   
-  <!-- Benefits grid -->
+
   <rect x="80" y="400" width="300" height="70" fill="rgba(255,255,255,0.2)" rx="8"/>
   <text x="230" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Effektivitet og Nøyaktighet
@@ -143,7 +143,7 @@
     • Integrerte rapporter på tvers av systemer
   </text>
   
-  <!-- Implementation Process -->
+
   <rect x="50" y="510" width="700" height="70" fill="#e8f5e8" stroke="#4CAF50" stroke-width="2" rx="10"/>
   <text x="400" y="535" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2E7D32">
     Implementeringsprosess
@@ -155,7 +155,7 @@
     2. <tspan font-weight="bold">Systemvalg:</tspan> Velg verktøy basert på bedriftens størrelse, kompleksitet og budsjett
   </text>
   
-  <!-- Technology icons -->
+
   <circle cx="220" cy="50" r="15" fill="#3F51B5"/>
   <text x="220" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">💻</text>
   
@@ -168,13 +168,13 @@
   <circle cx="580" cy="190" r="15" fill="#9C27B0"/>
   <text x="580" y="198" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">🔗</text>
   
-  <!-- Connection arrows -->
+
   <path d="M 220 330 L 400 350" stroke="#2196F3" stroke-width="2" fill="none" marker-end="url(#arrowBlue)"/>
   <path d="M 580 330 L 400 350" stroke="#2196F3" stroke-width="2" fill="none" marker-end="url(#arrowBlue)"/>
   <path d="M 220 190 L 400 350" stroke="#2196F3" stroke-width="2" fill="none" marker-end="url(#arrowBlue)"/>
   <path d="M 580 190 L 400 350" stroke="#2196F3" stroke-width="2" fill="none" marker-end="url(#arrowBlue)"/>
   
-  <!-- Warning box -->
+
   <rect x="420" y="510" width="330" height="70" fill="#fff3e0" stroke="#FF9800" stroke-width="2" rx="10"/>
   <text x="585" y="535" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#E65100">
     Viktige Suksessfaktorer
@@ -186,7 +186,7 @@
     • Gradvis implementering og testing av funksjoner
   </text>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="arrowBlue" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#2196F3"/>

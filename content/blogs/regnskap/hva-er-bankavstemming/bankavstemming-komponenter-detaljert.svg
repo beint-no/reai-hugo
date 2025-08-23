@@ -22,15 +22,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#212529">
     Hovedkomponenter i Bankavstemming
   </text>
   
-  <!-- Component 1: Innskudd i Transitt -->
+
   <rect x="50" y="80" width="320" height="120" rx="15" fill="url(#transitGradient)" stroke="#1864ab" stroke-width="2"/>
   <text x="210" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
     1. Innskudd i Transitt
@@ -39,12 +39,12 @@
     Registrert i kassabok, men ikke på bankutskrift
   </text>
   
-  <!-- Transit details -->
+
   <rect x="70" y="150" width="280" height="35" fill="rgba(255,255,255,0.2)" rx="5"/>
   <text x="80" y="165" font-family="Arial, sans-serif" font-size="11" fill="white">• Innskudd etter bankens kutoff-tid</text>
   <text x="80" y="178" font-family="Arial, sans-serif" font-size="11" fill="white">• Helger og helligdager</text>
   
-  <!-- Component 2: Utestående Sjekker -->
+
   <rect x="430" y="80" width="320" height="120" rx="15" fill="url(#checksGradient)" stroke="#e64980" stroke-width="2"/>
   <text x="590" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
     2. Utestående Sjekker
@@ -53,12 +53,12 @@
     Utstedt av selskap, men ikke innløst av mottaker
   </text>
   
-  <!-- Checks details -->
+
   <rect x="450" y="150" width="280" height="35" fill="rgba(255,255,255,0.2)" rx="5"/>
   <text x="460" y="165" font-family="Arial, sans-serif" font-size="11" fill="white">• Sjekker ikke presentert for betaling</text>
   <text x="460" y="178" font-family="Arial, sans-serif" font-size="11" fill="white">• Forsinkelser i innløsning</text>
   
-  <!-- Component 3: Bankgebyrer -->
+
   <rect x="50" y="240" width="320" height="120" rx="15" fill="url(#feesGradient)" stroke="#fab005" stroke-width="2"/>
   <text x="210" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
     3. Bankgebyrer og Kostnader
@@ -67,12 +67,12 @@
     Trukket av bank, ikke registrert i kassabok
   </text>
   
-  <!-- Fees details -->
+
   <rect x="70" y="310" width="280" height="35" fill="rgba(255,255,255,0.2)" rx="5"/>
   <text x="80" y="325" font-family="Arial, sans-serif" font-size="11" fill="white">• Kontoføringsgebyrer • Transaksjonsgebyrer</text>
   <text x="80" y="338" font-family="Arial, sans-serif" font-size="11" fill="white">• Overtrekksgebyrer • Valutagebyrer</text>
   
-  <!-- Component 4: Renteinntekter -->
+
   <rect x="430" y="240" width="320" height="120" rx="15" fill="url(#interestGradient)" stroke="#37b24d" stroke-width="2"/>
   <text x="590" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
     4. Renteinntekter og Krediteringer
@@ -81,18 +81,18 @@
     Kreditert av bank, ikke registrert i kassabok
   </text>
   
-  <!-- Interest details -->
+
   <rect x="450" y="310" width="280" height="35" fill="rgba(255,255,255,0.2)" rx="5"/>
   <text x="460" y="325" font-family="Arial, sans-serif" font-size="11" fill="white">• Renteinntekter på positive saldoer</text>
   <text x="460" y="338" font-family="Arial, sans-serif" font-size="11" fill="white">• Tilbakeføringer • Automatiske innskudd</text>
   
-  <!-- Process Flow -->
+
   <rect x="100" y="400" width="600" height="150" rx="20" fill="#495057" stroke="#343a40" stroke-width="2"/>
   <text x="400" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
     Avstemmingsprosess
   </text>
   
-  <!-- Step boxes -->
+
   <rect x="120" y="450" width="100" height="60" rx="10" fill="#6c757d" stroke="#495057" stroke-width="1"/>
   <text x="170" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     IDENTIFISER
@@ -137,17 +137,17 @@
     avstemming
   </text>
   
-  <!-- Arrows between steps -->
+
   <polygon points="230,480 240,475 240,485" fill="white"/>
   <polygon points="360,480 370,475 370,485" fill="white"/>
   <polygon points="490,480 500,475 500,485" fill="white"/>
   
-  <!-- Bottom note -->
+
   <text x="400" y="530" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
     Systematisk gjennomgang sikrer fullstendig avstemming
   </text>
   
-  <!-- Example amounts -->
+
   <circle cx="210" cy="380" r="15" fill="#1c7ed6" stroke="white" stroke-width="2"/>
   <text x="210" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
     +8K

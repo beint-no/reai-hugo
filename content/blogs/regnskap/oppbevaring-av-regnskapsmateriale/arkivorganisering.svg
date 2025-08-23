@@ -5,7 +5,7 @@
     Arkivorganisering - Hierarkisk Struktur
   </text>
   
-  <!-- Level 1: Years -->
+
   <g transform="translate(50, 70)">
     <text x="300" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
       Nivå 1: Regnskapsår
@@ -28,10 +28,10 @@
     <text x="480" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Arkivert</text>
   </g>
   
-  <!-- Arrow down -->
+
   <path d="M 110 160 L 110 180" fill="none" stroke="#34495e" stroke-width="3" marker-end="url(#arrowdown)"/>
   
-  <!-- Level 2: Categories -->
+
   <g transform="translate(50, 190)">
     <text x="300" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
       Nivå 2: Dokumentkategorier (2024)
@@ -54,10 +54,10 @@
     <text x="480" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">E-post, brev</text>
   </g>
   
-  <!-- Arrow down -->
+
   <path d="M 110 280 L 110 300" fill="none" stroke="#34495e" stroke-width="3" marker-end="url(#arrowdown)"/>
   
-  <!-- Level 3: Monthly -->
+
   <g transform="translate(50, 310)">
     <text x="300" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
       Nivå 3: Månedlig inndeling (2024/Bilag)
@@ -82,7 +82,7 @@
     <text x="360" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">Desember</text>
   </g>
   
-  <!-- Naming convention example -->
+
   <g transform="translate(450, 310)">
     <text x="100" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
       Navngivningseksempel
@@ -94,7 +94,7 @@
     <text x="100" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">YYYY-MM-DD_Type_Nr_Beskrivelse</text>
   </g>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="arrowdown" markerWidth="10" markerHeight="7" refX="5" refY="6" orient="auto">
       <polygon points="0 0, 10 0, 5 7" fill="#34495e"/>

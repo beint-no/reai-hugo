@@ -14,22 +14,22 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
   <text x="400" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
     Regnskapsføring av Amortisering
   </text>
   
-  <!-- Step 1: Initial Purchase -->
+
   <rect x="50" y="80" width="700" height="120" fill="white" stroke="#dee2e6" stroke-width="2" rx="10"/>
   <text x="400" y="105" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#495057">
     Steg 1: Anskaffelse av Immateriell Eiendel
   </text>
   
-  <!-- Purchase example -->
+
   <rect x="80" y="120" width="300" height="60" fill="#e9ecef" rx="5"/>
   <text x="230" y="140" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#495057">
     Eksempel: Patent kjøpt for 500 000 kr
@@ -38,7 +38,7 @@
     Levetid: 10 år
   </text>
   
-  <!-- Journal entry for purchase -->
+
   <rect x="420" y="120" width="300" height="60" fill="#fff3cd" stroke="#ffeaa7" stroke-width="1" rx="5"/>
   <text x="570" y="140" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#856404">
     Bokføringspost ved kjøp:
@@ -50,13 +50,13 @@
     Kredit: Bank                   500 000
   </text>
   
-  <!-- Step 2: Annual Amortization -->
+
   <rect x="50" y="220" width="700" height="200" fill="white" stroke="#dee2e6" stroke-width="2" rx="10"/>
   <text x="400" y="245" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#495057">
     Steg 2: Årlig Amortisering
   </text>
   
-  <!-- Calculation -->
+
   <rect x="80" y="260" width="200" height="80" fill="#e9ecef" rx="5"/>
   <text x="180" y="280" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#495057">
     Beregning:
@@ -68,12 +68,12 @@
     Månedlig: 4 167 kr
   </text>
   
-  <!-- T-accounts -->
+
   <text x="400" y="280" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#495057">
     T-kontoer:
   </text>
   
-  <!-- Debit side -->
+
   <rect x="320" y="290" width="150" height="100" fill="url(#debitGradient)" rx="5"/>
   <text x="395" y="310" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
     DEBET
@@ -88,7 +88,7 @@
     (Resultatregnskap)
   </text>
   
-  <!-- Credit side -->
+
   <rect x="490" y="290" width="150" height="100" fill="url(#creditGradient)" rx="5"/>
   <text x="565" y="310" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
     KREDIT
@@ -103,13 +103,13 @@
     (Balanse - kontra konto)
   </text>
   
-  <!-- Step 3: Balance Sheet Impact -->
+
   <rect x="50" y="440" width="700" height="140" fill="white" stroke="#dee2e6" stroke-width="2" rx="10"/>
   <text x="400" y="465" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#495057">
     Steg 3: Påvirkning på Balansen
   </text>
   
-  <!-- Balance sheet representation -->
+
   <rect x="100" y="480" width="250" height="80" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="5"/>
   <text x="225" y="500" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#495057">
     Balanse etter År 1:
@@ -134,16 +134,16 @@
     450 000
   </text>
   
-  <!-- Timeline showing progression -->
+
   <rect x="400" y="480" width="300" height="80" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="5"/>
   <text x="550" y="500" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#495057">
     Utvikling over tid:
   </text>
   
-  <!-- Timeline -->
+
   <line x1="420" y1="530" x2="680" y2="530" stroke="#6c757d" stroke-width="2"/>
   
-  <!-- Year markers -->
+
   <circle cx="420" cy="530" r="3" fill="#007bff"/>
   <text x="420" y="520" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6c757d">År 0</text>
   <text x="420" y="550" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#007bff">500k</text>

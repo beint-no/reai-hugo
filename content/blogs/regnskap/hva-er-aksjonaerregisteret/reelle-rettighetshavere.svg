@@ -1,13 +1,13 @@
 <svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#2c3e50">
     Aksjonærregister vs Register over Reelle Rettighetshavere
   </text>
   
-  <!-- Left side: Traditional shareholder register -->
+
   <rect x="50" y="70" width="320" height="480" fill="#3498db" stroke="#2980b9" stroke-width="3" rx="10"/>
   <text x="210" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
     Aksjonærregisteret
@@ -16,7 +16,7 @@
     (Formelle eiere)
   </text>
   
-  <!-- Company A -->
+
   <rect x="80" y="150" width="260" height="80" fill="#5dade2" stroke="#3498db" stroke-width="2" rx="5"/>
   <text x="210" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Selskap A AS
@@ -25,7 +25,7 @@
   <text x="90" y="210" font-family="Arial, sans-serif" font-size="11" fill="white">• Investor C AS: 40% (200 aksjer)</text>
   <text x="90" y="225" font-family="Arial, sans-serif" font-size="11" fill="white">Total: 500 aksjer</text>
   
-  <!-- Holding structure -->
+
   <rect x="80" y="250" width="120" height="100" fill="#85c1e9" stroke="#5dade2" stroke-width="2" rx="5"/>
   <text x="140" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     Holding B AS
@@ -42,7 +42,7 @@
   <text x="230" y="295" font-family="Arial, sans-serif" font-size="10" fill="white">• Per Olsen:</text>
   <text x="230" y="308" font-family="Arial, sans-serif" font-size="10" fill="white">  100% (100 aksjer)</text>
   
-  <!-- Problem illustration -->
+
   <rect x="80" y="370" width="260" height="80" fill="#e8f4fd" stroke="#3498db" stroke-width="2" rx="5"/>
   <text x="210" y="395" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
     Problem: Skjult eierskap
@@ -51,7 +51,7 @@
   <text x="90" y="430" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Komplekse eierstrukturer</text>
   <text x="90" y="445" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Potensial for hvitvasking</text>
   
-  <!-- Right side: Real beneficial owners register -->
+
   <rect x="430" y="70" width="320" height="480" fill="#e74c3c" stroke="#c0392b" stroke-width="3" rx="10"/>
   <text x="590" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
     Register over Reelle
@@ -63,7 +63,7 @@
     (Faktiske kontrollører)
   </text>
   
-  <!-- Real ownership structure -->
+
   <rect x="460" y="170" width="260" height="120" fill="#ec7063" stroke="#e74c3c" stroke-width="2" rx="5"/>
   <text x="590" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Selskap A AS - Reelle eiere
@@ -74,7 +74,7 @@
   <text x="470" y="265" font-family="Arial, sans-serif" font-size="11" fill="white">• Kari Hansen: 12% kontroll</text>
   <text x="470" y="280" font-family="Arial, sans-serif" font-size="11" fill="white">  (60% × 20% = 12%)</text>
   
-  <!-- Threshold rules -->
+
   <rect x="460" y="310" width="260" height="100" fill="#f1948a" stroke="#ec7063" stroke-width="2" rx="5"/>
   <text x="590" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     Registreringsgrense: 25%
@@ -84,7 +84,7 @@
   <text x="470" y="385" font-family="Arial, sans-serif" font-size="10" fill="white">✓ Per Olsen (40% > 25%)</text>
   <text x="470" y="400" font-family="Arial, sans-serif" font-size="10" fill="white">✗ Kari Hansen (12% &lt; 25%)</text>
   
-  <!-- Benefits -->
+
   <rect x="460" y="430" width="260" height="100" fill="#fadbd8" stroke="#e74c3c" stroke-width="2" rx="5"/>
   <text x="590" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
     Fordeler
@@ -94,7 +94,7 @@
   <text x="470" y="505" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Lettere skattekonroll</text>
   <text x="470" y="520" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Bedre kreditorvern</text>
   
-  <!-- Arrows showing relationship -->
+
   <path d="M 370 300 L 430 300" stroke="#f39c12" stroke-width="4" fill="none" marker-end="url(#orangearrow)"/>
   <text x="400" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#f39c12">
     Avdekker
@@ -103,10 +103,10 @@
     faktisk kontroll
   </text>
   
-  <!-- Bottom comparison table -->
+
   <rect x="50" y="570" width="700" height="1" fill="#bdc3c7"/>
   
-  <!-- Arrow marker definitions -->
+
   <defs>
     <marker id="orangearrow" markerWidth="12" markerHeight="8" refX="11" refY="4" orient="auto">
       <polygon points="0 0, 12 4, 0 8" fill="#f39c12"/>

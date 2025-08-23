@@ -6,21 +6,21 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#costBg)"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1e293b">
     Kostnad-Nytte Analyse - Strekkodeteknologi
   </text>
   
-  <!-- Cost breakdown -->
+
   <g transform="translate(50, 60)">
     <text x="0" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">
       Implementeringskostnader (NOK)
     </text>
     
-    <!-- Small Business -->
+
     <g transform="translate(0, 40)">
       <text x="0" y="15" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#374151">
         Liten Bedrift (1-10 ansatte)
@@ -28,7 +28,7 @@
       
       <rect x="0" y="25" width="300" height="120" rx="8" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="2"/>
       
-      <!-- Cost items -->
+
       <text x="10" y="45" font-family="Arial, sans-serif" font-size="11" fill="#374151">Hardware (skannere):</text>
       <text x="200" y="45" font-family="Arial, sans-serif" font-size="11" fill="#374151">5,000 - 15,000</text>
       
@@ -49,7 +49,7 @@
       <text x="200" y="130" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">37,000 - 108,000</text>
     </g>
     
-    <!-- Medium Business -->
+
     <g transform="translate(350, 40)">
       <text x="0" y="15" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#374151">
         Mellomstor Bedrift (11-50 ansatte)
@@ -57,7 +57,7 @@
       
       <rect x="0" y="25" width="300" height="120" rx="8" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="2"/>
       
-      <!-- Cost items -->
+
       <text x="10" y="45" font-family="Arial, sans-serif" font-size="11" fill="#374151">Hardware (skannere):</text>
       <text x="200" y="45" font-family="Arial, sans-serif" font-size="11" fill="#374151">15,000 - 50,000</text>
       
@@ -79,65 +79,65 @@
     </g>
   </g>
   
-  <!-- Benefits calculation -->
+
   <g transform="translate(50, 250)">
     <text x="0" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">
       Årlige Besparelser og Gevinster
     </text>
     
-    <!-- Benefits table -->
+
     <rect x="0" y="30" width="700" height="180" rx="8" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
     
-    <!-- Table headers -->
+
     <rect x="10" y="40" width="680" height="25" fill="#e2e8f0" stroke="#cbd5e1" stroke-width="1"/>
     <text x="20" y="57" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">Gevinstområde</text>
     <text x="200" y="57" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">Beskrivelse</text>
     <text x="400" y="57" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">Liten Bedrift</text>
     <text x="550" y="57" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">Mellomstor</text>
     
-    <!-- Row 1: Time savings -->
+
     <rect x="10" y="65" width="680" height="20" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
     <text x="20" y="79" font-family="Arial, sans-serif" font-size="11" fill="#374151">Tidsbesparelse</text>
     <text x="200" y="79" font-family="Arial, sans-serif" font-size="11" fill="#374151">80% reduksjon i registreringstid</text>
     <text x="400" y="79" font-family="Arial, sans-serif" font-size="11" fill="#10b981">50,000 - 120,000</text>
     <text x="550" y="79" font-family="Arial, sans-serif" font-size="11" fill="#10b981">200,000 - 500,000</text>
     
-    <!-- Row 2: Error reduction -->
+
     <rect x="10" y="85" width="680" height="20" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
     <text x="20" y="99" font-family="Arial, sans-serif" font-size="11" fill="#374151">Feilreduksjon</text>
     <text x="200" y="99" font-family="Arial, sans-serif" font-size="11" fill="#374151">99% færre registreringsfeil</text>
     <text x="400" y="99" font-family="Arial, sans-serif" font-size="11" fill="#10b981">15,000 - 40,000</text>
     <text x="550" y="99" font-family="Arial, sans-serif" font-size="11" fill="#10b981">60,000 - 200,000</text>
     
-    <!-- Row 3: Inventory optimization -->
+
     <rect x="10" y="105" width="680" height="20" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
     <text x="20" y="119" font-family="Arial, sans-serif" font-size="11" fill="#374151">Lageroptimalisering</text>
     <text x="200" y="119" font-family="Arial, sans-serif" font-size="11" fill="#374151">20-30% reduksjon i lagerverdier</text>
     <text x="400" y="119" font-family="Arial, sans-serif" font-size="11" fill="#10b981">30,000 - 80,000</text>
     <text x="550" y="119" font-family="Arial, sans-serif" font-size="11" fill="#10b981">150,000 - 400,000</text>
     
-    <!-- Row 4: Customer satisfaction -->
+
     <rect x="10" y="125" width="680" height="20" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
     <text x="20" y="139" font-family="Arial, sans-serif" font-size="11" fill="#374151">Kundetilfredshet</text>
     <text x="200" y="139" font-family="Arial, sans-serif" font-size="11" fill="#374151">Raskere service, færre feil</text>
     <text x="400" y="139" font-family="Arial, sans-serif" font-size="11" fill="#10b981">20,000 - 50,000</text>
     <text x="550" y="139" font-family="Arial, sans-serif" font-size="11" fill="#10b981">80,000 - 200,000</text>
     
-    <!-- Row 5: Compliance -->
+
     <rect x="10" y="145" width="680" height="20" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
     <text x="20" y="159" font-family="Arial, sans-serif" font-size="11" fill="#374151">Compliance</text>
     <text x="200" y="159" font-family="Arial, sans-serif" font-size="11" fill="#374151">Reduserte revisjons-/kontrollkost.</text>
     <text x="400" y="159" font-family="Arial, sans-serif" font-size="11" fill="#10b981">10,000 - 25,000</text>
     <text x="550" y="159" font-family="Arial, sans-serif" font-size="11" fill="#10b981">40,000 - 100,000</text>
     
-    <!-- Total row -->
+
     <rect x="10" y="165" width="680" height="25" fill="#dcfce7" stroke="#16a34a" stroke-width="2"/>
     <text x="20" y="182" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#14532d">Totale årlige besparelser:</text>
     <text x="400" y="182" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#14532d">125,000 - 315,000</text>
     <text x="550" y="182" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#14532d">530,000 - 1,400,000</text>
   </g>
   
-  <!-- ROI calculation summary -->
+
   <g transform="translate(50, 450)">
     <rect x="0" y="0" width="700" height="40" rx="8" fill="#eff6ff" stroke="#3b82f6" stroke-width="2"/>
     <text x="20" y="18" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e40af">

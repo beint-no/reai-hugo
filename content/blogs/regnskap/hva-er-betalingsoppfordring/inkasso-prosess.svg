@@ -1,99 +1,99 @@
 <svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Inkassoprosessen
   </text>
   
-  <!-- Step 1: Transfer to collection -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="150" height="100" fill="#e74c3c" stroke="#c0392b" stroke-width="2" rx="10"/>
     <text x="75" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">STEG 1</text>
     <text x="75" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">Overføring til</text>
     <text x="75" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">Inkassoselskap</text>
     
-    <!-- Document transfer icon -->
+
     <rect x="60" y="70" width="30" height="20" fill="white" rx="2"/>
     <path d="M 75 70 L 85 75 L 75 80" fill="#e74c3c"/>
     
-    <!-- Cost info -->
+
     <text x="75" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">Inkassogebyr:</text>
     <text x="75" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50" font-weight="bold">180-2.300 kr</text>
   </g>
   
-  <!-- Arrow 1 -->
+
   <g transform="translate(220, 120)">
     <path d="M 0 10 L 50 10 L 45 5 M 50 10 L 45 15" stroke="#34495e" stroke-width="3" fill="none"/>
     <text x="25" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#34495e">14 dager</text>
   </g>
   
-  <!-- Step 2: Collection notice -->
+
   <g transform="translate(290, 80)">
     <rect x="0" y="0" width="150" height="100" fill="#f39c12" stroke="#e67e22" stroke-width="2" rx="10"/>
     <text x="75" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">STEG 2</text>
     <text x="75" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">Inkassovarsel</text>
     <text x="75" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">sendes</text>
     
-    <!-- Warning icon -->
+
     <polygon points="75,70 85,85 65,85" fill="white"/>
     <text x="75" y="82" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#f39c12" font-weight="bold">!</text>
     
-    <!-- Timeline -->
+
     <text x="75" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">Ny frist:</text>
     <text x="75" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50" font-weight="bold">14 dager</text>
   </g>
   
-  <!-- Decision diamond -->
+
   <g transform="translate(500, 80)">
     <polygon points="75,0 150,50 75,100 0,50" fill="#3498db" stroke="#2980b9" stroke-width="2"/>
     <text x="75" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white" font-weight="bold">Betalt?</text>
     <text x="75" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Innen frist</text>
   </g>
   
-  <!-- Success path -->
+
   <g transform="translate(680, 80)">
     <rect x="0" y="0" width="100" height="100" fill="#27ae60" stroke="#229954" stroke-width="2" rx="10"/>
     <text x="50" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">AVSLUTTET</text>
     <text x="50" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Sak lukket</text>
     
-    <!-- Check mark -->
+
     <text x="50" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="white">✓</text>
   </g>
   
-  <!-- Arrow to success -->
+
   <g transform="translate(650, 120)">
     <path d="M 0 10 L 20 10 L 15 5 M 20 10 L 15 15" stroke="#27ae60" stroke-width="3" fill="none"/>
     <text x="10" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#27ae60">JA</text>
   </g>
   
-  <!-- Arrow down for no payment -->
+
   <g transform="translate(575, 200)">
     <path d="M 0 0 L 0 30 L -5 25 M 0 30 L 5 25" stroke="#e74c3c" stroke-width="3" fill="none"/>
     <text x="10" y="15" font-family="Arial, sans-serif" font-size="9" fill="#e74c3c">NEI</text>
   </g>
   
-  <!-- Step 3: Legal action -->
+
   <g transform="translate(500, 250)">
     <rect x="0" y="0" width="150" height="100" fill="#8e44ad" stroke="#7d3c98" stroke-width="2" rx="10"/>
     <text x="75" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">STEG 3</text>
     <text x="75" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">Rettslige</text>
     <text x="75" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">Skritt</text>
     
-    <!-- Scale icon -->
+
     <text x="75" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">⚖</text>
     
-    <!-- Cost info -->
+
     <text x="75" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">Saksomkostninger</text>
     <text x="75" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50" font-weight="bold">Varierer</text>
   </g>
   
-  <!-- Legal options -->
+
   <g transform="translate(50, 400)">
     <text x="0" y="0" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">Rettslige Alternativer:</text>
     
-    <!-- Option 1: Forliksrådet -->
+
     <g transform="translate(0, 30)">
       <rect x="0" y="0" width="180" height="80" fill="#3498db" fill-opacity="0.1" stroke="#3498db" stroke-width="1" rx="5"/>
       <text x="10" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">Forliksrådet</text>
@@ -102,7 +102,7 @@
       <text x="10" y="65" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Raskere behandling</text>
     </g>
     
-    <!-- Option 2: Tingrett -->
+
     <g transform="translate(200, 30)">
       <rect x="0" y="0" width="180" height="80" fill="#e74c3c" fill-opacity="0.1" stroke="#e74c3c" stroke-width="1" rx="5"/>
       <text x="10" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">Tingrett</text>
@@ -111,7 +111,7 @@
       <text x="10" y="65" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Lengre behandlingstid</text>
     </g>
     
-    <!-- Option 3: Namsmannen -->
+
     <g transform="translate(400, 30)">
       <rect x="0" y="0" width="180" height="80" fill="#8e44ad" fill-opacity="0.1" stroke="#8e44ad" stroke-width="1" rx="5"/>
       <text x="10" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">Namsmannen</text>
@@ -121,11 +121,11 @@
     </g>
   </g>
   
-  <!-- Cost escalation chart -->
+
   <g transform="translate(600, 400)">
     <text x="0" y="0" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">Kostnadsutvikling:</text>
     
-    <!-- Bars showing cost increase -->
+
     <rect x="0" y="20" width="30" height="40" fill="#3498db"/>
     <text x="15" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#2c3e50">Hovedstol</text>
     
@@ -138,13 +138,13 @@
     <rect x="120" y="5" width="30" height="55" fill="#8e44ad"/>
     <text x="135" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#2c3e50">+ Rettsak</text>
     
-    <!-- Arrow showing increase -->
+
     <path d="M 160 30 L 180 10 L 175 15 M 180 10 L 175 5" stroke="#e74c3c" stroke-width="2" fill="none"/>
     <text x="185" y="15" font-family="Arial, sans-serif" font-size="10" fill="#e74c3c" font-weight="bold">Økende</text>
     <text x="185" y="28" font-family="Arial, sans-serif" font-size="10" fill="#e74c3c" font-weight="bold">kostnad</text>
   </g>
   
-  <!-- Timeline at bottom -->
+
   <g transform="translate(100, 520)">
     <text x="300" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">Typisk Tidslinje</text>
     
@@ -165,7 +165,7 @@
     <circle cx="600" cy="20" r="4" fill="#27ae60"/>
     <text x="600" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Innbetaling</text>
     
-    <!-- Time indicators -->
+
     <text x="75" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#7f8c8d">2-4 uker</text>
     <text x="225" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#7f8c8d">2-4 uker</text>
     <text x="375" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#7f8c8d">3-12 mnd</text>

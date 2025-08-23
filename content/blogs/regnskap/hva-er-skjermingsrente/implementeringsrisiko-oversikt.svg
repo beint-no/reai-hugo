@@ -25,18 +25,18 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="1000" height="600" fill="#f8fafc"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="1000" height="60" fill="url(#headerGradient)"/>
   <text x="500" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white" text-anchor="middle">
     Implementeringsrisiko Oversikt - Skjermingsrente Systemer
   </text>
   
-  <!-- Risk Categories Grid -->
+
   
-  <!-- Data Risk -->
+
   <g filter="url(#shadow)">
     <rect x="50" y="100" width="200" height="120" fill="url(#dataGradient)" stroke="#dc2626" stroke-width="2" rx="8"/>
     <text x="150" y="120" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#dc2626" text-anchor="middle">
@@ -62,7 +62,7 @@
     </text>
   </g>
   
-  <!-- Calculation Risk -->
+
   <g filter="url(#shadow)">
     <rect x="275" y="100" width="200" height="120" fill="url(#calcGradient)" stroke="#ea580c" stroke-width="2" rx="8"/>
     <text x="375" y="120" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#ea580c" text-anchor="middle">
@@ -88,7 +88,7 @@
     </text>
   </g>
   
-  <!-- Reporting Risk -->
+
   <g filter="url(#shadow)">
     <rect x="500" y="100" width="200" height="120" fill="url(#reportGradient)" stroke="#ca8a04" stroke-width="2" rx="8"/>
     <text x="600" y="120" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#ca8a04" text-anchor="middle">
@@ -114,7 +114,7 @@
     </text>
   </g>
   
-  <!-- Compliance Risk -->
+
   <g filter="url(#shadow)">
     <rect x="725" y="100" width="200" height="120" fill="url(#complianceGradient)" stroke="#16a34a" stroke-width="2" rx="8"/>
     <text x="825" y="120" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#16a34a" text-anchor="middle">
@@ -140,15 +140,15 @@
     </text>
   </g>
   
-  <!-- Risk Matrix -->
+
   <text x="50" y="270" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1e3a8a">
     Risikomatriks og Mitigering
   </text>
   
-  <!-- Risk Matrix Grid -->
+
   <rect x="50" y="290" width="500" height="200" fill="white" stroke="#374151" stroke-width="1"/>
   
-  <!-- Matrix Headers -->
+
   <text x="80" y="305" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">
     Risiko
   </text>
@@ -165,14 +165,14 @@
     Mitigering
   </text>
   
-  <!-- Matrix Lines -->
+
   <line x1="50" y1="310" x2="550" y2="310" stroke="#374151" stroke-width="1"/>
   <line x1="170" y1="290" x2="170" y2="490" stroke="#374151" stroke-width="1"/>
   <line x1="270" y1="290" x2="270" y2="490" stroke="#374151" stroke-width="1"/>
   <line x1="370" y1="290" x2="370" y2="490" stroke="#374151" stroke-width="1"/>
   <line x1="470" y1="290" x2="470" y2="490" stroke="#374151" stroke-width="1"/>
   
-  <!-- Risk Matrix Data -->
+
   <text x="60" y="330" font-family="Arial, sans-serif" font-size="11" fill="#374151">Data corruption</text>
   <text x="180" y="330" font-family="Arial, sans-serif" font-size="11" fill="#374151">Lav</text>
   <text x="280" y="330" font-family="Arial, sans-serif" font-size="11" fill="#374151">Høy</text>
@@ -197,7 +197,7 @@
   <text x="380" y="390" font-family="Arial, sans-serif" font-size="11" fill="#dc2626">Høy</text>
   <text x="480" y="390" font-family="Arial, sans-serif" font-size="11" fill="#374151">Monitoring + flexibility</text>
   
-  <!-- Operational Controls -->
+
   <text x="600" y="270" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1e3a8a">
     Operasjonelle Kontroller
   </text>
@@ -236,7 +236,7 @@
     </text>
   </g>
   
-  <!-- Risk Score Legend -->
+
   <text x="50" y="530" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e3a8a">
     Risikoscore Forklaring:
   </text>
@@ -256,7 +256,7 @@
     Høy risiko - Krever umiddelbar oppmerksomhet
   </text>
   
-  <!-- Footer -->
+
   <text x="500" y="590" font-family="Arial, sans-serif" font-size="10" fill="#6b7280" text-anchor="middle">
     Implementeringsrisiko krever systematisk tilnærming med robuste kontroller og kontinuerlig overvåkning
   </text>

@@ -1,13 +1,13 @@
 <svg width="1000" height="800" viewBox="0 0 1000 800" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="1000" height="800" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="500" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">Bransjespesifikke Tilbudstyper</text>
   
-  <!-- Industry sectors -->
+
   <g>
-    <!-- Construction/Engineering -->
+
     <rect x="50" y="80" width="220" height="150" fill="#e67e22" stroke="#d35400" stroke-width="2" rx="10"/>
     <text x="160" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">BYGG &amp; ANLEGG</text>
     
@@ -18,7 +18,7 @@
     <text x="70" y="195" font-family="Arial, sans-serif" font-size="10" fill="white">• 3-6 måneders tilbudsperiode</text>
     <text x="70" y="210" font-family="Arial, sans-serif" font-size="10" fill="white">• Prosjektregnskap</text>
     
-    <!-- IT/Consulting -->
+
     <rect x="290" y="80" width="220" height="150" fill="#3498db" stroke="#2980b9" stroke-width="2" rx="10"/>
     <text x="400" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">IT &amp; KONSULENT</text>
     
@@ -29,7 +29,7 @@
     <text x="310" y="195" font-family="Arial, sans-serif" font-size="10" fill="white">• 2-8 ukers tilbudsperiode</text>
     <text x="310" y="210" font-family="Arial, sans-serif" font-size="10" fill="white">• Tidsregistrering</text>
     
-    <!-- Manufacturing -->
+
     <rect x="530" y="80" width="220" height="150" fill="#27ae60" stroke="#229954" stroke-width="2" rx="10"/>
     <text x="640" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">PRODUKSJON</text>
     
@@ -40,7 +40,7 @@
     <text x="550" y="195" font-family="Arial, sans-serif" font-size="10" fill="white">• 1-4 ukers tilbudsperiode</text>
     <text x="550" y="210" font-family="Arial, sans-serif" font-size="10" fill="white">• Varekostnad</text>
     
-    <!-- Services -->
+
     <rect x="770" y="80" width="220" height="150" fill="#9b59b6" stroke="#8e44ad" stroke-width="2" rx="10"/>
     <text x="880" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">TJENESTER</text>
     
@@ -52,10 +52,10 @@
     <text x="790" y="210" font-family="Arial, sans-serif" font-size="10" fill="white">• Periodisering</text>
   </g>
   
-  <!-- Comparison table -->
+
   <text x="50" y="280" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">Sammenligning av Tilbudstyper</text>
   
-  <!-- Table header -->
+
   <rect x="50" y="300" width="900" height="35" fill="#34495e"/>
   <text x="70" y="325" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Bransje</text>
   <text x="200" y="325" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Tilbudsperiode</text>
@@ -63,9 +63,9 @@
   <text x="550" y="325" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Regnskapsmessige Utfordringer</text>
   <text x="800" y="325" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Typisk Margin</text>
   
-  <!-- Table rows -->
+
   <g>
-    <!-- Row 1: Bygg/Anlegg -->
+
     <rect x="50" y="335" width="900" height="30" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
     <text x="70" y="355" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">Bygg/Anlegg</text>
     <text x="200" y="355" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">3-6 måneder</text>
@@ -73,7 +73,7 @@
     <text x="550" y="355" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">Prosjektregnskap</text>
     <text x="800" y="355" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">8-15%</text>
     
-    <!-- Row 2: IT/Konsulent -->
+
     <rect x="50" y="365" width="900" height="30" fill="#ffffff" stroke="#bdc3c7" stroke-width="1"/>
     <text x="70" y="385" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">IT/Konsulent</text>
     <text x="200" y="385" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">2-8 uker</text>
@@ -81,7 +81,7 @@
     <text x="550" y="385" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">Tidsregistrering</text>
     <text x="800" y="385" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">15-30%</text>
     
-    <!-- Row 3: Produksjon -->
+
     <rect x="50" y="395" width="900" height="30" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
     <text x="70" y="415" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">Produksjon</text>
     <text x="200" y="415" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">1-4 uker</text>
@@ -89,7 +89,7 @@
     <text x="550" y="415" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">Varekostnad</text>
     <text x="800" y="415" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">5-20%</text>
     
-    <!-- Row 4: Tjenester -->
+
     <rect x="50" y="425" width="900" height="30" fill="#ffffff" stroke="#bdc3c7" stroke-width="1"/>
     <text x="70" y="445" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">Tjenester</text>
     <text x="200" y="445" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">1-6 uker</text>
@@ -98,11 +98,11 @@
     <text x="800" y="445" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">10-25%</text>
   </g>
   
-  <!-- Risk factors section -->
+
   <text x="50" y="500" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">Bransjespesifikke Risikofaktorer</text>
   
   <g>
-    <!-- Construction risks -->
+
     <rect x="50" y="530" width="220" height="120" fill="#f7dc6f" stroke="#f4d03f" stroke-width="2" rx="5"/>
     <text x="160" y="555" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">BYGG &amp; ANLEGG</text>
     <text x="70" y="575" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Materialprisstigninger</text>
@@ -111,7 +111,7 @@
     <text x="70" y="620" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Regulatoriske endringer</text>
     <text x="70" y="635" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Risikobuffer: 10-20%</text>
     
-    <!-- IT risks -->
+
     <rect x="290" y="530" width="220" height="120" fill="#aed6f1" stroke="#85c1e9" stroke-width="2" rx="5"/>
     <text x="400" y="555" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">IT &amp; KONSULENT</text>
     <text x="310" y="575" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Scope creep</text>
@@ -120,7 +120,7 @@
     <text x="310" y="620" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Endrede krav</text>
     <text x="310" y="635" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Risikobuffer: 15-25%</text>
     
-    <!-- Manufacturing risks -->
+
     <rect x="530" y="530" width="220" height="120" fill="#a9dfbf" stroke="#7dcea0" stroke-width="2" rx="5"/>
     <text x="640" y="555" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">PRODUKSJON</text>
     <text x="550" y="575" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Råvareprisstigninger</text>
@@ -129,7 +129,7 @@
     <text x="550" y="620" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Valutavolatilitet</text>
     <text x="550" y="635" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Risikobuffer: 5-15%</text>
     
-    <!-- Services risks -->
+
     <rect x="770" y="530" width="220" height="120" fill="#d7bde2" stroke="#c39bd3" stroke-width="2" rx="5"/>
     <text x="880" y="555" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">TJENESTER</text>
     <text x="790" y="575" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• SLA-brudd</text>
@@ -139,7 +139,7 @@
     <text x="790" y="635" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Risikobuffer: 8-18%</text>
   </g>
   
-  <!-- Best practices section -->
+
   <text x="50" y="690" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">Beste Praksis for Bransjespesifikke Tilbud</text>
   
   <g>

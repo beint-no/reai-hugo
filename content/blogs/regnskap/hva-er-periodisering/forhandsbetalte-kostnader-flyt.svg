@@ -1,13 +1,13 @@
 <svg width="800" height="550" viewBox="0 0 800 550" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="550" fill="#f8fafc"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1e293b">
     Forhåndsbetalte Kostnader - Arbeidsflyt og Periodisering
   </text>
   
-  <!-- Example setup -->
+
   <rect x="150" y="60" width="500" height="50" fill="#ffe4e1" stroke="#dc2626" stroke-width="2" rx="8"/>
   <text x="400" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#dc2626">
     Eksempel: Årlig forsikringspremie kr 60.000 betalt 1. januar
@@ -16,7 +16,7 @@
     Månedlig kostnadsføring: kr 5.000 per måned
   </text>
   
-  <!-- Process flow -->
+
   <rect x="50" y="140" width="160" height="100" fill="#e0f2fe" stroke="#0369a1" stroke-width="2" rx="8"/>
   <text x="130" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0369a1">
     Steg 1: Betaling
@@ -68,13 +68,13 @@
     Alt kostnadsført
   </text>
   
-  <!-- Balance tracking visualization -->
+
   <rect x="100" y="270" width="600" height="180" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" rx="8"/>
   <text x="400" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">
     Saldoutvikling Forhåndsbetalt Forsikring
   </text>
   
-  <!-- Y-axis labels -->
+
   <text x="90" y="320" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#64748b">60k</text>
   <text x="90" y="340" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#64748b">50k</text>
   <text x="90" y="360" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#64748b">40k</text>
@@ -83,11 +83,11 @@
   <text x="90" y="420" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#64748b">10k</text>
   <text x="90" y="440" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#64748b">0</text>
   
-  <!-- Balance line graph -->
+
   <polyline points="120,320 160,330 200,340 240,350 280,360 320,370 360,380 400,390 440,400 480,410 520,420 560,430 600,440" 
             fill="none" stroke="#2563eb" stroke-width="3"/>
   
-  <!-- Data points -->
+
   <circle cx="120" cy="320" r="4" fill="#2563eb"/>
   <circle cx="160" cy="330" r="4" fill="#2563eb"/>
   <circle cx="200" cy="340" r="4" fill="#2563eb"/>
@@ -101,7 +101,7 @@
   <circle cx="560" cy="430" r="4" fill="#2563eb"/>
   <circle cx="600" cy="440" r="4" fill="#2563eb"/>
   
-  <!-- Month labels -->
+
   <text x="120" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#64748b">Jan</text>
   <text x="160" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#64748b">Feb</text>
   <text x="200" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#64748b">Mar</text>
@@ -114,7 +114,7 @@
   <text x="520" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#64748b">Nov</text>
   <text x="560" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#64748b">Des</text>
   
-  <!-- Impact summary -->
+
   <rect x="100" y="470" width="600" height="70" fill="#f1f5f9" stroke="#64748b" stroke-width="1" rx="8"/>
   <text x="400" y="490" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">
     Regnskapsmessig Effekt
@@ -136,18 +136,18 @@
     Økes med kr 5.000/måned
   </text>
   
-  <!-- Arrows -->
+
   <path d="M 210 190 L 250 190" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
   <path d="M 410 190 L 450 190" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrow" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#64748b"/>
     </marker>
   </defs>
   
-  <!-- Grid lines -->
+
   <line x1="120" y1="320" x2="600" y2="320" stroke="#e2e8f0" stroke-width="1" stroke-dasharray="2,2"/>
   <line x1="120" y1="340" x2="600" y2="340" stroke="#e2e8f0" stroke-width="1" stroke-dasharray="2,2"/>
   <line x1="120" y1="360" x2="600" y2="360" stroke="#e2e8f0" stroke-width="1" stroke-dasharray="2,2"/>

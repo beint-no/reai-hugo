@@ -22,15 +22,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Ulike Typer Fakturamaler
   </text>
   
-  <!-- Standard Sales Invoice Template -->
+
   <g transform="translate(50, 60)">
     <text x="150" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1976d2">
       Standard Salgsfakturamal
@@ -38,19 +38,19 @@
     
     <rect x="0" y="30" width="300" height="220" fill="url(#standardGradient)" stroke="#2196f3" stroke-width="2" rx="8"/>
     
-    <!-- Header -->
+
     <rect x="20" y="50" width="80" height="25" fill="#2196f3" rx="4"/>
     <text x="60" y="67" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">BEDRIFT AS</text>
     
     <rect x="180" y="50" width="100" height="25" fill="#1976d2" rx="4"/>
     <text x="230" y="67" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">FAKTURA #001</text>
     
-    <!-- Customer -->
+
     <rect x="20" y="85" width="260" height="30" fill="#ffffff" stroke="#2196f3" rx="4"/>
     <text x="30" y="100" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="#1976d2">Kunde AS</text>
     <text x="30" y="110" font-family="Arial, sans-serif" font-size="8" fill="#424242">Kundeveien 1, Oslo</text>
     
-    <!-- Items table -->
+
     <rect x="20" y="125" width="260" height="20" fill="#2196f3" rx="4"/>
     <text x="30" y="138" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="white">Produkt</text>
     <text x="150" y="138" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="white">Antall</text>
@@ -68,19 +68,19 @@
     <text x="200" y="175" font-family="Arial, sans-serif" font-size="8" fill="#424242">500,-</text>
     <text x="250" y="175" font-family="Arial, sans-serif" font-size="8" fill="#424242">1000,-</text>
     
-    <!-- Total -->
+
     <rect x="20" y="215" width="260" height="25" fill="#e3f2fd" stroke="#2196f3" rx="4"/>
     <text x="200" y="230" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#1976d2">TOTALT:</text>
     <text x="250" y="230" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#1976d2">38750,-</text>
     
-    <!-- Features -->
+
     <text x="10" y="270" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#1976d2">Egenskaper:</text>
     <text x="10" y="285" font-family="Arial, sans-serif" font-size="9" fill="#424242">• Enkel produktliste</text>
     <text x="10" y="298" font-family="Arial, sans-serif" font-size="9" fill="#424242">• Standard betalingsvilkår</text>
     <text x="10" y="311" font-family="Arial, sans-serif" font-size="9" fill="#424242">• Egnet for detaljhandel</text>
   </g>
   
-  <!-- Service Invoice Template -->
+
   <g transform="translate(450, 60)">
     <text x="150" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#7b1fa2">
       Tjenestefakturamal
@@ -88,20 +88,20 @@
     
     <rect x="0" y="30" width="300" height="220" fill="url(#serviceGradient)" stroke="#9c27b0" stroke-width="2" rx="8"/>
     
-    <!-- Header -->
+
     <rect x="20" y="50" width="80" height="25" fill="#9c27b0" rx="4"/>
     <text x="60" y="67" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">KONSULENT AS</text>
     
     <rect x="180" y="50" width="100" height="25" fill="#7b1fa2" rx="4"/>
     <text x="230" y="67" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">FAKTURA #T-001</text>
     
-    <!-- Project info -->
+
     <rect x="20" y="85" width="260" height="40" fill="#ffffff" stroke="#9c27b0" rx="4"/>
     <text x="30" y="100" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="#7b1fa2">Prosjekt: Webutvikling</text>
     <text x="30" y="110" font-family="Arial, sans-serif" font-size="8" fill="#424242">Kunde: TechCorp AS</text>
     <text x="30" y="120" font-family="Arial, sans-serif" font-size="8" fill="#424242">Periode: Januar 2024</text>
     
-    <!-- Time tracking -->
+
     <rect x="20" y="135" width="260" height="20" fill="#9c27b0" rx="4"/>
     <text x="30" y="148" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="white">Aktivitet</text>
     <text x="120" y="148" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="white">Timer</text>
@@ -124,19 +124,19 @@
     <text x="170" y="200" font-family="Arial, sans-serif" font-size="8" fill="#424242">-</text>
     <text x="220" y="200" font-family="Arial, sans-serif" font-size="8" fill="#424242">2500,-</text>
     
-    <!-- Total -->
+
     <rect x="20" y="215" width="260" height="25" fill="#f3e5f5" stroke="#9c27b0" rx="4"/>
     <text x="170" y="230" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#7b1fa2">TOTALT:</text>
     <text x="220" y="230" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#7b1fa2">39375,-</text>
     
-    <!-- Features -->
+
     <text x="10" y="270" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#7b1fa2">Egenskaper:</text>
     <text x="10" y="285" font-family="Arial, sans-serif" font-size="9" fill="#424242">• Timeregistrering</text>
     <text x="10" y="298" font-family="Arial, sans-serif" font-size="9" fill="#424242">• Prosjektinformasjon</text>
     <text x="10" y="311" font-family="Arial, sans-serif" font-size="9" fill="#424242">• Utlegg og reisekostnader</text>
   </g>
   
-  <!-- Subscription Invoice Template -->
+
   <g transform="translate(50, 360)">
     <text x="150" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#388e3c">
       Abonnementsfakturamal
@@ -144,21 +144,21 @@
     
     <rect x="0" y="30" width="300" height="220" fill="url(#subscriptionGradient)" stroke="#4caf50" stroke-width="2" rx="8"/>
     
-    <!-- Header -->
+
     <rect x="20" y="50" width="80" height="25" fill="#4caf50" rx="4"/>
     <text x="60" y="67" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">CLOUD AS</text>
     
     <rect x="180" y="50" width="100" height="25" fill="#388e3c" rx="4"/>
     <text x="230" y="67" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">ABONNEMENT</text>
     
-    <!-- Subscription details -->
+
     <rect x="20" y="85" width="260" height="50" fill="#ffffff" stroke="#4caf50" rx="4"/>
     <text x="30" y="100" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="#388e3c">Cloud Hosting Premium</text>
     <text x="30" y="110" font-family="Arial, sans-serif" font-size="8" fill="#424242">Periode: 01.01.2024 - 31.01.2024</text>
     <text x="30" y="120" font-family="Arial, sans-serif" font-size="8" fill="#424242">Neste faktura: 01.02.2024</text>
     <text x="30" y="130" font-family="Arial, sans-serif" font-size="8" fill="#424242">AvtaleGiro: Aktiv</text>
     
-    <!-- Usage data -->
+
     <rect x="20" y="145" width="260" height="20" fill="#4caf50" rx="4"/>
     <text x="30" y="158" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="white">Tjeneste</text>
     <text x="120" y="158" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="white">Forbruk</text>
@@ -176,19 +176,19 @@
     <text x="180" y="195" font-family="Arial, sans-serif" font-size="8" fill="#424242">100 GB</text>
     <text x="240" y="195" font-family="Arial, sans-serif" font-size="8" fill="#424242">199,-</text>
     
-    <!-- Total -->
+
     <rect x="20" y="215" width="260" height="25" fill="#e8f5e8" stroke="#4caf50" rx="4"/>
     <text x="180" y="230" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#388e3c">TOTALT:</text>
     <text x="240" y="230" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#388e3c">747,-</text>
     
-    <!-- Features -->
+
     <text x="10" y="270" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#388e3c">Egenskaper:</text>
     <text x="10" y="285" font-family="Arial, sans-serif" font-size="9" fill="#424242">• Automatisk generering</text>
     <text x="10" y="298" font-family="Arial, sans-serif" font-size="9" fill="#424242">• Forbruksdata</text>
     <text x="10" y="311" font-family="Arial, sans-serif" font-size="9" fill="#424242">• AvtaleGiro integrasjon</text>
   </g>
   
-  <!-- Credit Note Template -->
+
   <g transform="translate(450, 360)">
     <text x="150" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#f57c00">
       Kreditnotamal
@@ -196,20 +196,20 @@
     
     <rect x="0" y="30" width="300" height="220" fill="url(#creditGradient)" stroke="#ff9800" stroke-width="2" rx="8"/>
     
-    <!-- Header -->
+
     <rect x="20" y="50" width="80" height="25" fill="#ff9800" rx="4"/>
     <text x="60" y="67" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">BEDRIFT AS</text>
     
     <rect x="180" y="50" width="100" height="25" fill="#f57c00" rx="4"/>
     <text x="230" y="67" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">KREDITNOTA</text>
     
-    <!-- Reference to original invoice -->
+
     <rect x="20" y="85" width="260" height="40" fill="#ffffff" stroke="#ff9800" rx="4"/>
     <text x="30" y="100" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="#f57c00">Krediterer faktura #2024-001</text>
     <text x="30" y="110" font-family="Arial, sans-serif" font-size="8" fill="#424242">Opprinnelig dato: 15.01.2024</text>
     <text x="30" y="120" font-family="Arial, sans-serif" font-size="8" fill="#424242">Årsak: Defekt produkt returnert</text>
     
-    <!-- Credit items -->
+
     <rect x="20" y="135" width="260" height="20" fill="#ff9800" rx="4"/>
     <text x="30" y="148" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="white">Kreditert vare</text>
     <text x="150" y="148" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="white">Antall</text>
@@ -222,23 +222,23 @@
     <text x="200" y="170" font-family="Arial, sans-serif" font-size="8" fill="#424242">15000,-</text>
     <text x="250" y="170" font-family="Arial, sans-serif" font-size="8" fill="#f57c00">-18750,-</text>
     
-    <!-- Credit total -->
+
     <rect x="20" y="195" width="260" height="25" fill="#fff3e0" stroke="#ff9800" rx="4"/>
     <text x="180" y="210" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#f57c00">KREDITBELØP:</text>
     <text x="250" y="210" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#f57c00">-18750,-</text>
     
-    <!-- Refund info -->
+
     <rect x="20" y="225" width="260" height="15" fill="#ffcc02" rx="4"/>
     <text x="30" y="235" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="#424242">Refunderes til konto: 1234.56.78901</text>
     
-    <!-- Features -->
+
     <text x="10" y="270" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#f57c00">Egenskaper:</text>
     <text x="10" y="285" font-family="Arial, sans-serif" font-size="9" fill="#424242">• Referanse til original faktura</text>
     <text x="10" y="298" font-family="Arial, sans-serif" font-size="9" fill="#424242">• Negative beløp</text>
     <text x="10" y="311" font-family="Arial, sans-serif" font-size="9" fill="#424242">• Årsak til kreditering</text>
   </g>
   
-  <!-- Bottom summary -->
+
   <text x="400" y="590" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#6c757d">
     Hver fakturamaltype er tilpasset spesifikke forretningsbehov og bransjer
   </text>

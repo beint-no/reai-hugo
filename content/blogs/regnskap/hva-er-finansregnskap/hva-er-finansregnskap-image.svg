@@ -1,13 +1,13 @@
 <svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#2c3e50">
     Finansregnskap - Ekstern Rapportering
   </text>
   
-  <!-- Central company box -->
+
   <rect x="300" y="200" width="200" height="120" fill="#3498db" stroke="#2980b9" stroke-width="3" rx="10"/>
   <text x="400" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
     BEDRIFT
@@ -22,8 +22,8 @@
     • Balanse • Kontantstrøm
   </text>
   
-  <!-- Stakeholder boxes -->
-  <!-- Investors -->
+
+
   <rect x="50" y="80" width="140" height="80" fill="#e74c3c" stroke="#c0392b" stroke-width="2" rx="8"/>
   <text x="120" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     INVESTORER
@@ -35,7 +35,7 @@
     Potensielle investorer
   </text>
   
-  <!-- Creditors -->
+
   <rect x="610" y="80" width="140" height="80" fill="#f39c12" stroke="#e67e22" stroke-width="2" rx="8"/>
   <text x="680" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     KREDITORER
@@ -47,7 +47,7 @@
     Leverandører
   </text>
   
-  <!-- Authorities -->
+
   <rect x="50" y="420" width="140" height="80" fill="#9b59b6" stroke="#8e44ad" stroke-width="2" rx="8"/>
   <text x="120" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     MYNDIGHETER
@@ -59,7 +59,7 @@
     SSB • Brønnøysund
   </text>
   
-  <!-- Employees -->
+
   <rect x="610" y="420" width="140" height="80" fill="#27ae60" stroke="#229954" stroke-width="2" rx="8"/>
   <text x="680" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     ANSATTE
@@ -71,27 +71,27 @@
     Pensjonsfond
   </text>
   
-  <!-- Arrows from company to stakeholders -->
-  <!-- To investors -->
+
+
   <path d="M 300 230 L 190 130" stroke="#34495e" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- To creditors -->
+
   <path d="M 500 230 L 610 130" stroke="#34495e" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- To authorities -->
+
   <path d="M 300 280 L 190 450" stroke="#34495e" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- To employees -->
+
   <path d="M 500 280 L 610 450" stroke="#34495e" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>
     </marker>
   </defs>
   
-  <!-- Standards box -->
+
   <rect x="320" y="380" width="160" height="60" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2" rx="8"/>
   <text x="400" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
     STANDARDER
@@ -100,17 +100,17 @@
     NRS • IFRS • GAAP
   </text>
   
-  <!-- Arrow from standards to company -->
+
   <path d="M 400 380 L 400 320" stroke="#7f8c8d" stroke-width="2" fill="none" marker-end="url(#arrowhead2)"/>
   
-  <!-- Arrow marker for standards -->
+
   <defs>
     <marker id="arrowhead2" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
       <polygon points="0 0, 8 3, 0 6" fill="#7f8c8d"/>
     </marker>
   </defs>
   
-  <!-- Information flow labels -->
+
   <text x="245" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#7f8c8d">
     Investeringsinfo
   </text>
@@ -124,7 +124,7 @@
     Stabilitet &amp; lønn
   </text>
   
-  <!-- Bottom note -->
+
   <text x="400" y="570" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#7f8c8d">
     Finansregnskap sikrer transparent kommunikasjon med eksterne interessenter
   </text>

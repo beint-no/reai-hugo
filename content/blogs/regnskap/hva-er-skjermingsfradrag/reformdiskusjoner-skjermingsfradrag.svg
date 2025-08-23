@@ -18,25 +18,25 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#F8FAFC"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
   <text x="400" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
     Reformdiskusjoner om Skjermingsfradrag
   </text>
   
-  <!-- Main content area -->
+
   <rect x="20" y="80" width="760" height="500" fill="white" stroke="#E2E8F0" stroke-width="2" rx="10"/>
   
-  <!-- Left side - Arguments FOR preservation -->
+
   <rect x="40" y="100" width="220" height="250" fill="url(#forGradient)" stroke="#10B981" stroke-width="2" rx="8"/>
   <text x="150" y="125" text-anchor="middle" fill="#047857" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     FOR BEVARING
   </text>
   
-  <!-- FOR arguments -->
+
   <g fill="#047857" font-family="Arial, sans-serif" font-size="11">
     <circle cx="55" cy="150" r="3" fill="#10B981"/>
     <text x="65" y="155">Investeringsincentiver</text>
@@ -63,13 +63,13 @@
     <text x="65" y="330">Investeringsvilje</text>
   </g>
   
-  <!-- Right side - Arguments AGAINST/FOR change -->
+
   <rect x="540" y="100" width="220" height="250" fill="url(#againstGradient)" stroke="#EF4444" stroke-width="2" rx="8"/>
   <text x="650" y="125" text-anchor="middle" fill="#B91C1C" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     FOR ENDRING
   </text>
   
-  <!-- AGAINST arguments -->
+
   <g fill="#B91C1C" font-family="Arial, sans-serif" font-size="11">
     <circle cx="555" cy="150" r="3" fill="#EF4444"/>
     <text x="565" y="155">Skatteinntekter</text>
@@ -96,13 +96,13 @@
     <text x="565" y="330">Budsjetthensyn</text>
   </g>
   
-  <!-- Center - Reform proposals -->
+
   <rect x="280" y="100" width="240" height="250" fill="url(#proposalGradient)" stroke="#8B5CF6" stroke-width="2" rx="8"/>
   <text x="400" y="125" text-anchor="middle" fill="#7C3AED" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     DISKUTERTE ENDRINGER
   </text>
   
-  <!-- Reform proposals -->
+
   <g fill="#7C3AED" font-family="Arial, sans-serif" font-size="11">
     <rect x="295" y="140" width="210" height="20" fill="#8B5CF6" fill-opacity="0.2" rx="4"/>
     <text x="400" y="153" text-anchor="middle">Tidsbegrensning av opptjening</text>
@@ -126,7 +126,7 @@
     <text x="400" y="333" text-anchor="middle">Digitalisering av prosesser</text>
   </g>
   
-  <!-- Arrows showing debate flow -->
+
   <g stroke="#64748B" stroke-width="2" fill="none" marker-end="url(#arrowhead)">
     <defs>
       <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
@@ -134,22 +134,22 @@
       </marker>
     </defs>
     
-    <!-- Arrows from FOR to proposals -->
+
     <path d="M 260 200 Q 270 200 280 200" stroke="#10B981" stroke-width="1.5"/>
     <path d="M 260 250 Q 270 250 280 250" stroke="#10B981" stroke-width="1.5"/>
     
-    <!-- Arrows from AGAINST to proposals -->
+
     <path d="M 540 200 Q 530 200 520 200" stroke="#EF4444" stroke-width="1.5"/>
     <path d="M 540 250 Q 530 250 520 250" stroke="#EF4444" stroke-width="1.5"/>
   </g>
   
-  <!-- Timeline at bottom -->
+
   <rect x="40" y="380" width="720" height="60" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="1" rx="6"/>
   <text x="400" y="400" text-anchor="middle" fill="#475569" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Politisk Prosess og Tidslinje
   </text>
   
-  <!-- Timeline elements -->
+
   <g fill="#475569" font-family="Arial, sans-serif" font-size="10">
     <circle cx="80" cy="420" r="4" fill="#3B82F6"/>
     <text x="80" y="435" text-anchor="middle">2023</text>
@@ -171,16 +171,16 @@
     <text x="720" y="435" text-anchor="middle">2027</text>
     <text x="720" y="445" text-anchor="middle">Ikrafttredelse</text>
     
-    <!-- Timeline line -->
+
     <line x1="80" y1="420" x2="720" y2="420" stroke="#CBD5E1" stroke-width="2"/>
   </g>
   
-  <!-- Bottom info -->
+
   <text x="400" y="470" text-anchor="middle" fill="#64748B" font-family="Arial, sans-serif" font-size="11">
     Kontinuerlig politisk debatt om balanse mellom skatteinngang og investeringsincentiver
   </text>
   
-  <!-- Key stakeholders -->
+
   <g fill="#64748B" font-family="Arial, sans-serif" font-size="10">
     <text x="50" y="505" font-weight="bold">Nøkkelaktører:</text>
     <text x="50" y="520">• Finansdepartementet</text>
@@ -200,7 +200,7 @@
     <text x="550" y="550">• Porteføljeforvaltere</text>
   </g>
   
-  <!-- Impact indicators -->
+
   <g fill="#64748B" font-family="Arial, sans-serif" font-size="9">
     <rect x="650" y="490" width="120" height="80" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1" rx="4"/>
     <text x="710" y="505" text-anchor="middle" font-weight="bold">Påvirkningsfaktorer:</text>

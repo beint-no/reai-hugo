@@ -6,50 +6,50 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="500" height="500" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="250" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#212529">Internkontrollsystem</text>
   <text x="250" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#6c757d">Fem hovedkomponenter</text>
   
-  <!-- Pyramid structure representing the 5 components -->
+
   
-  <!-- Level 1: Overvåking (top) -->
+
   <polygon points="200,80 300,80 280,120 220,120" fill="#28a745" opacity="0.8" stroke="#1e7e34" stroke-width="2"/>
   <text x="250" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Overvåking</text>
   <text x="250" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Monitoring</text>
   
-  <!-- Level 2: Informasjon og Kommunikasjon -->
+
   <polygon points="180,120 320,120 300,160 200,160" fill="#007bff" opacity="0.8" stroke="#0056b3" stroke-width="2"/>
   <text x="250" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Informasjon og</text>
   <text x="250" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Kommunikasjon</text>
   
-  <!-- Level 3: Kontrollaktiviteter -->
+
   <polygon points="160,160 340,160 320,200 180,200" fill="#ffc107" opacity="0.8" stroke="#e0a800" stroke-width="2"/>
   <text x="250" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Kontrollaktiviteter</text>
   <text x="250" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Control Activities</text>
   
-  <!-- Level 4: Risikovurdering -->
+
   <polygon points="140,200 360,200 340,240 160,240" fill="#dc3545" opacity="0.8" stroke="#c82333" stroke-width="2"/>
   <text x="250" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Risikovurdering</text>
   <text x="250" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Risk Assessment</text>
   
-  <!-- Level 5: Kontrollmiljø (base) -->
+
   <polygon points="120,240 380,240 360,280 140,280" fill="#6f42c1" opacity="0.8" stroke="#5a32a3" stroke-width="2"/>
   <text x="250" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Kontrollmiljø</text>
   <text x="250" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Control Environment</text>
   
-  <!-- Detailed descriptions around the pyramid -->
+
   
-  <!-- Overvåking details -->
+
   <rect x="320" y="70" width="160" height="60" rx="5" fill="#e9ecef" stroke="#adb5bd" stroke-width="1"/>
   <text x="400" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#495057">Overvåking inkluderer:</text>
   <text x="330" y="100" font-family="Arial, sans-serif" font-size="9" fill="#495057">• Løpende evaluering</text>
   <text x="330" y="112" font-family="Arial, sans-serif" font-size="9" fill="#495057">• Avvikshåndtering</text>
   <text x="330" y="124" font-family="Arial, sans-serif" font-size="9" fill="#495057">• Uavhengig revisjon</text>
   
-  <!-- Kontrollaktiviteter details -->
+
   <rect x="20" y="150" width="130" height="70" rx="5" fill="#e9ecef" stroke="#adb5bd" stroke-width="1"/>
   <text x="85" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#495057">Kontrollaktiviteter:</text>
   <text x="30" y="180" font-family="Arial, sans-serif" font-size="9" fill="#495057">• Avstemming</text>
@@ -57,14 +57,14 @@
   <text x="30" y="204" font-family="Arial, sans-serif" font-size="9" fill="#495057">• Funksjonsadskillelse</text>
   <text x="30" y="216" font-family="Arial, sans-serif" font-size="9" fill="#495057">• Fysisk sikring</text>
   
-  <!-- Risikovurdering details -->
+
   <rect x="370" y="190" width="120" height="60" rx="5" fill="#e9ecef" stroke="#adb5bd" stroke-width="1"/>
   <text x="430" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#495057">Risikovurdering:</text>
   <text x="380" y="220" font-family="Arial, sans-serif" font-size="9" fill="#495057">• Identifisering</text>
   <text x="380" y="232" font-family="Arial, sans-serif" font-size="9" fill="#495057">• Vurdering</text>
   <text x="380" y="244" font-family="Arial, sans-serif" font-size="9" fill="#495057">• Tiltak</text>
   
-  <!-- Kontrollmiljø details -->
+
   <rect x="150" y="300" width="200" height="80" rx="5" fill="#e9ecef" stroke="#adb5bd" stroke-width="1"/>
   <text x="250" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#495057">Kontrollmiljø - Grunnlaget:</text>
   <text x="160" y="330" font-family="Arial, sans-serif" font-size="9" fill="#495057">• Ledelsens holdning til internkontroll</text>
@@ -72,22 +72,22 @@
   <text x="160" y="354" font-family="Arial, sans-serif" font-size="9" fill="#495057">• Kompetanse og integritet hos ansatte</text>
   <text x="160" y="366" font-family="Arial, sans-serif" font-size="9" fill="#495057">• Etiske verdier og retningslinjer</text>
   
-  <!-- Arrows showing flow -->
+
   <path d="M250 280 Q200 320 150 350" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M250 280 Q300 320 350 350" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#6c757d"/>
     </marker>
   </defs>
   
-  <!-- Bottom note -->
+
   <text x="250" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">Alle komponenter må fungere sammen</text>
   <text x="250" y="440" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">for effektiv internkontroll</text>
   
-  <!-- Integration arrows -->
+
   <circle cx="100" cy="400" r="3" fill="#28a745"/>
   <circle cx="150" cy="400" r="3" fill="#007bff"/>
   <circle cx="200" cy="400" r="3" fill="#ffc107"/>

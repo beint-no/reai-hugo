@@ -30,18 +30,18 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#2c3e50">
     Fremtidens Omsetning
   </text>
   
-  <!-- Central future icon -->
+
   <g transform="translate(350, 70)">
     <circle cx="50" cy="50" r="35" fill="#3498db" stroke="#2980b9" stroke-width="3"/>
-    <!-- Rocket icon -->
+
     <polygon points="50,25 45,45 55,45" fill="white"/>
     <rect x="47" y="45" width="6" height="15" fill="white"/>
     <polygon points="44,60 50,65 56,60" fill="#e74c3c"/>
@@ -53,14 +53,14 @@
     </text>
   </g>
   
-  <!-- Subscription Models -->
+
   <g transform="translate(50, 150)">
     <rect x="0" y="0" width="170" height="110" fill="url(#subscriptionGradient)" rx="10"/>
     <text x="85" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="white">
       Abonnementsmodeller
     </text>
     
-    <!-- Subscription icon -->
+
     <g transform="translate(65, 35)">
       <rect x="0" y="0" width="40" height="25" fill="white" rx="5"/>
       <circle cx="10" cy="12" r="3" fill="#667eea"/>
@@ -79,14 +79,14 @@
     </text>
   </g>
   
-  <!-- Platform Economy -->
+
   <g transform="translate(250, 150)">
     <rect x="0" y="0" width="170" height="110" fill="url(#platformGradient)" rx="10"/>
     <text x="85" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="white">
       Platform-økonomi
     </text>
     
-    <!-- Platform network icon -->
+
     <g transform="translate(65, 35)">
       <circle cx="10" cy="10" r="6" fill="white"/>
       <circle cx="30" cy="10" r="6" fill="white"/>
@@ -104,14 +104,14 @@
     </text>
   </g>
   
-  <!-- Cryptocurrency -->
+
   <g transform="translate(450, 150)">
     <rect x="0" y="0" width="170" height="110" fill="url(#cryptoGradient)" rx="10"/>
     <text x="85" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="white">
       Kryptovaluta
     </text>
     
-    <!-- Bitcoin icon -->
+
     <g transform="translate(70, 35)">
       <circle cx="15" cy="15" r="12" fill="white"/>
       <text x="15" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#4facfe">
@@ -127,14 +127,14 @@
     </text>
   </g>
   
-  <!-- ESG/Sustainability -->
+
   <g transform="translate(50, 290)">
     <rect x="0" y="0" width="170" height="110" fill="url(#esgGradient)" rx="10"/>
     <text x="85" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="white">
       Bærekraft/ESG
     </text>
     
-    <!-- Leaf icon -->
+
     <g transform="translate(70, 35)">
       <ellipse cx="15" cy="20" rx="8" ry="12" fill="white" transform="rotate(-20 15 20)"/>
       <line x1="15" y1="32" x2="15" y2="25" stroke="#43e97b" stroke-width="2"/>
@@ -148,14 +148,14 @@
     </text>
   </g>
   
-  <!-- Digital Receipts -->
+
   <g transform="translate(250, 290)">
     <rect x="0" y="0" width="170" height="110" fill="url(#digitalGradient)" rx="10"/>
     <text x="85" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="white">
       Digitale kvitteringer
     </text>
     
-    <!-- Digital receipt icon -->
+
     <g transform="translate(65, 35)">
       <rect x="0" y="0" width="25" height="35" fill="white" rx="3"/>
       <line x1="5" y1="8" x2="20" y2="8" stroke="#fa709a" stroke-width="1"/>
@@ -174,14 +174,14 @@
     </text>
   </g>
   
-  <!-- Real-time Reporting -->
+
   <g transform="translate(450, 290)">
     <rect x="0" y="0" width="170" height="110" fill="url(#realtimeGradient)" rx="10"/>
     <text x="85" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="white">
       Sanntidsrapportering
     </text>
     
-    <!-- Real-time chart icon -->
+
     <g transform="translate(65, 35)">
       <rect x="0" y="25" width="30" height="2" fill="white"/>
       <rect x="0" y="25" width="2" height="-20" fill="white"/>
@@ -197,14 +197,14 @@
     </text>
   </g>
   
-  <!-- Regulatory Changes Section -->
+
   <g transform="translate(100, 430)">
     <rect x="0" y="0" width="600" height="120" fill="#34495e" rx="10"/>
     <text x="300" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
       Regulatoriske endringer på vei:
     </text>
     
-    <!-- Future changes -->
+
     <g transform="translate(50, 40)">
       <circle cx="10" cy="10" r="8" fill="#3498db"/>
       <text x="10" y="14" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">→</text>
@@ -238,7 +238,7 @@
     </g>
   </g>
   
-  <!-- Connection lines from center -->
+
   <path d="M 380 120 L 135 150" stroke="#bdc3c7" stroke-width="2" fill="none" stroke-dasharray="3,3"/>
   <path d="M 400 120 L 335 150" stroke="#bdc3c7" stroke-width="2" fill="none" stroke-dasharray="3,3"/>
   <path d="M 420 120 L 535 150" stroke="#bdc3c7" stroke-width="2" fill="none" stroke-dasharray="3,3"/>
@@ -246,7 +246,7 @@
   <path d="M 400 130 L 335 290" stroke="#bdc3c7" stroke-width="2" fill="none" stroke-dasharray="3,3"/>
   <path d="M 430 130 L 535 290" stroke="#bdc3c7" stroke-width="2" fill="none" stroke-dasharray="3,3"/>
   
-  <!-- Future indicators -->
+
   <g transform="translate(20, 20)">
     <polygon points="15,5 25,15 15,25 5,15" fill="#e74c3c"/>
     <text x="15" y="19" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">!</text>
@@ -257,7 +257,7 @@
     <text x="15" y="19" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">!</text>
   </g>
   
-  <!-- Timeline arrow -->
+
   <g transform="translate(650, 80)">
     <line x1="0" y1="20" x2="100" y2="20" stroke="#3498db" stroke-width="3"/>
     <polygon points="100,15 110,20 100,25" fill="#3498db"/>

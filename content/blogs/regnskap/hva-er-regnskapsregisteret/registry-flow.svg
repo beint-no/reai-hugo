@@ -4,17 +4,17 @@
     .step { font: 16px Arial, sans-serif; fill: #fff; }
     .box { stroke: #333; fill: #4a90e2; stroke-width: 2; }
   </style>
-  <!-- Step 1 -->
+
   <rect x="50" y="60" width="200" height="60" class="box"/>
   <text x="150" y="95" class="step" text-anchor="middle">1. Innsending via Altinn</text>
-  <!-- Arrow -->
+
   <path d="M250 90 L300 90" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
-  <!-- Step 2 -->
+
   <rect x="300" y="60" width="200" height="60" class="box"/>
   <text x="400" y="95" class="step" text-anchor="middle">2. Formell kontroll</text>
-  <!-- Arrow -->
+
   <path d="M500 90 L550 90" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
-  <!-- Step 3 -->
+
   <rect x="550" y="60" width="200" height="60" class="box"/>
   <text x="650" y="95" class="step" text-anchor="middle">3. Publisering</text>
   <defs>

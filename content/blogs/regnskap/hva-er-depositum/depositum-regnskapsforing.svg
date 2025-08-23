@@ -18,37 +18,37 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Regnskapsføring av Depositum
   </text>
   
-  <!-- Left side - Innskyter (Payer) -->
+
   <g>
-    <!-- Header box -->
+
     <rect x="50" y="80" width="300" height="50" rx="8" fill="url(#payerGradient)" stroke="#2980b9" stroke-width="2"/>
     <text x="200" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
       Innskyter av Depositum
     </text>
     
-    <!-- Person icon -->
+
     <circle cx="80" cy="105" r="12" fill="white"/>
     <rect x="68" y="117" width="24" height="18" rx="3" fill="white"/>
     
-    <!-- Initial payment entry -->
+
     <rect x="50" y="150" width="300" height="120" rx="8" fill="url(#entryGradient)" stroke="#bdc3c7" stroke-width="1"/>
     <text x="200" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
       Ved Betaling av Depositum
     </text>
     
-    <!-- T-account style -->
+
     <line x1="75" y1="190" x2="325" y2="190" stroke="#34495e" stroke-width="1"/>
     <line x1="200" y1="190" x2="200" y2="250" stroke="#34495e" stroke-width="1"/>
     
-    <!-- Debit side -->
+
     <text x="137" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#27ae60">
       DEBET
     </text>
@@ -59,7 +59,7 @@
       50.000
     </text>
     
-    <!-- Credit side -->
+
     <text x="262" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e74c3c">
       KREDIT
     </text>
@@ -70,17 +70,17 @@
       50.000
     </text>
     
-    <!-- Interest entry -->
+
     <rect x="50" y="290" width="300" height="120" rx="8" fill="url(#entryGradient)" stroke="#bdc3c7" stroke-width="1"/>
     <text x="200" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
       Ved Renteinntekt
     </text>
     
-    <!-- T-account style -->
+
     <line x1="75" y1="330" x2="325" y2="330" stroke="#34495e" stroke-width="1"/>
     <line x1="200" y1="330" x2="200" y2="390" stroke="#34495e" stroke-width="1"/>
     
-    <!-- Debit side -->
+
     <text x="137" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#27ae60">
       DEBET
     </text>
@@ -91,7 +91,7 @@
       2.000
     </text>
     
-    <!-- Credit side -->
+
     <text x="262" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e74c3c">
       KREDIT
     </text>
@@ -102,17 +102,17 @@
       2.000
     </text>
     
-    <!-- Return entry -->
+
     <rect x="50" y="430" width="300" height="120" rx="8" fill="url(#entryGradient)" stroke="#bdc3c7" stroke-width="1"/>
     <text x="200" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
       Ved Tilbakebetaling
     </text>
     
-    <!-- T-account style -->
+
     <line x1="75" y1="470" x2="325" y2="470" stroke="#34495e" stroke-width="1"/>
     <line x1="200" y1="470" x2="200" y2="530" stroke="#34495e" stroke-width="1"/>
     
-    <!-- Debit side -->
+
     <text x="137" y="490" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#27ae60">
       DEBET
     </text>
@@ -123,7 +123,7 @@
       52.000
     </text>
     
-    <!-- Credit side -->
+
     <text x="262" y="490" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e74c3c">
       KREDIT
     </text>
@@ -135,29 +135,29 @@
     </text>
   </g>
   
-  <!-- Right side - Mottaker (Receiver) -->
+
   <g>
-    <!-- Header box -->
+
     <rect x="450" y="80" width="300" height="50" rx="8" fill="url(#receiverGradient)" stroke="#c0392b" stroke-width="2"/>
     <text x="600" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
       Mottaker av Depositum
     </text>
     
-    <!-- Building icon -->
+
     <rect x="470" y="95" width="20" height="20" fill="white"/>
     <polygon points="470,95 480,85 490,95" fill="white"/>
     
-    <!-- Initial receipt entry -->
+
     <rect x="450" y="150" width="300" height="120" rx="8" fill="url(#entryGradient)" stroke="#bdc3c7" stroke-width="1"/>
     <text x="600" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
       Ved Mottak av Depositum
     </text>
     
-    <!-- T-account style -->
+
     <line x1="475" y1="190" x2="725" y2="190" stroke="#34495e" stroke-width="1"/>
     <line x1="600" y1="190" x2="600" y2="250" stroke="#34495e" stroke-width="1"/>
     
-    <!-- Debit side -->
+
     <text x="537" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#27ae60">
       DEBET
     </text>
@@ -168,7 +168,7 @@
       50.000
     </text>
     
-    <!-- Credit side -->
+
     <text x="662" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e74c3c">
       KREDIT
     </text>
@@ -179,17 +179,17 @@
       50.000
     </text>
     
-    <!-- Interest entry -->
+
     <rect x="450" y="290" width="300" height="120" rx="8" fill="url(#entryGradient)" stroke="#bdc3c7" stroke-width="1"/>
     <text x="600" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
       Ved Rentekostnad
     </text>
     
-    <!-- T-account style -->
+
     <line x1="475" y1="330" x2="725" y2="330" stroke="#34495e" stroke-width="1"/>
     <line x1="600" y1="330" x2="600" y2="390" stroke="#34495e" stroke-width="1"/>
     
-    <!-- Debit side -->
+
     <text x="537" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#27ae60">
       DEBET
     </text>
@@ -200,7 +200,7 @@
       2.000
     </text>
     
-    <!-- Credit side -->
+
     <text x="662" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e74c3c">
       KREDIT
     </text>
@@ -211,17 +211,17 @@
       2.000
     </text>
     
-    <!-- Return entry -->
+
     <rect x="450" y="430" width="300" height="120" rx="8" fill="url(#entryGradient)" stroke="#bdc3c7" stroke-width="1"/>
     <text x="600" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
       Ved Tilbakebetaling
     </text>
     
-    <!-- T-account style -->
+
     <line x1="475" y1="470" x2="725" y2="470" stroke="#34495e" stroke-width="1"/>
     <line x1="600" y1="470" x2="600" y2="530" stroke="#34495e" stroke-width="1"/>
     
-    <!-- Debit side -->
+
     <text x="537" y="490" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#27ae60">
       DEBET
     </text>
@@ -232,7 +232,7 @@
       52.000
     </text>
     
-    <!-- Credit side -->
+
     <text x="662" y="490" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e74c3c">
       KREDIT
     </text>
@@ -244,22 +244,22 @@
     </text>
   </g>
   
-  <!-- Central arrow showing transaction flow -->
+
   <g>
-    <!-- Arrow from left to right -->
+
     <path d="M 360 200 L 440 200 L 430 190 M 440 200 L 430 210" stroke="#f39c12" stroke-width="4" fill="none"/>
     <text x="400" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#f39c12">
       Kr 50.000
     </text>
     
-    <!-- Return arrow -->
+
     <path d="M 440 350 L 360 350 L 370 340 M 360 350 L 370 360" stroke="#27ae60" stroke-width="3" fill="none" stroke-dasharray="5,5"/>
     <text x="400" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#27ae60">
       Tilbakebetaling + renter
     </text>
   </g>
   
-  <!-- Bottom summary -->
+
   <rect x="200" y="570" width="400" height="25" rx="5" fill="#34495e"/>
   <text x="400" y="587" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     Depositum: Eiendel hos innskyter - Gjeld hos mottaker

@@ -18,23 +18,23 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
   <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
     Faktorer som Påvirker Diskonteringsrenten
   </text>
   
-  <!-- Discount Rate Components -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="700" height="120" rx="10" fill="url(#componentGradient)" opacity="0.9"/>
     <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
       Komponenter i Diskonteringsrenten
     </text>
     
-    <!-- Component 1: Risk-free rate -->
+
     <g transform="translate(50, 40)">
       <circle cx="25" cy="25" r="20" fill="white" opacity="0.3"/>
       <text x="25" y="32" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">🏛️</text>
@@ -46,10 +46,10 @@
       </text>
     </g>
     
-    <!-- Plus sign -->
+
     <text x="200" y="67" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">+</text>
     
-    <!-- Component 2: Risk premium -->
+
     <g transform="translate(230, 40)">
       <circle cx="25" cy="25" r="20" fill="white" opacity="0.3"/>
       <text x="25" y="32" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">⚠️</text>
@@ -61,10 +61,10 @@
       </text>
     </g>
     
-    <!-- Plus sign -->
+
     <text x="380" y="67" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">+</text>
     
-    <!-- Component 3: Inflation premium -->
+
     <g transform="translate(410, 40)">
       <circle cx="25" cy="25" r="20" fill="white" opacity="0.3"/>
       <text x="25" y="32" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">📈</text>
@@ -76,10 +76,10 @@
       </text>
     </g>
     
-    <!-- Plus sign -->
+
     <text x="560" y="67" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">+</text>
     
-    <!-- Component 4: Liquidity premium -->
+
     <g transform="translate(590, 40)">
       <circle cx="25" cy="25" r="20" fill="white" opacity="0.3"/>
       <text x="25" y="32" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">💧</text>
@@ -92,14 +92,14 @@
     </g>
   </g>
   
-  <!-- Macroeconomic Factors -->
+
   <g transform="translate(50, 220)">
     <rect x="0" y="0" width="340" height="200" rx="10" fill="url(#macroGradient)" opacity="0.9"/>
     <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
       Makroøkonomiske Faktorer
     </text>
     
-    <!-- Factor 1: Inflation -->
+
     <g transform="translate(30, 40)">
       <circle cx="20" cy="20" r="15" fill="white" opacity="0.3"/>
       <text x="20" y="26" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">📊</text>
@@ -111,7 +111,7 @@
       </text>
     </g>
     
-    <!-- Factor 2: Interest rate risk -->
+
     <g transform="translate(30, 80)">
       <circle cx="20" cy="20" r="15" fill="white" opacity="0.3"/>
       <text x="20" y="26" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">📉</text>
@@ -123,7 +123,7 @@
       </text>
     </g>
     
-    <!-- Factor 3: Currency risk -->
+
     <g transform="translate(30, 120)">
       <circle cx="20" cy="20" r="15" fill="white" opacity="0.3"/>
       <text x="20" y="26" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">💱</text>
@@ -135,7 +135,7 @@
       </text>
     </g>
     
-    <!-- Factor 4: Political risk -->
+
     <g transform="translate(30, 160)">
       <circle cx="20" cy="20" r="15" fill="white" opacity="0.3"/>
       <text x="20" y="26" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">🏛️</text>
@@ -148,14 +148,14 @@
     </g>
   </g>
   
-  <!-- Company-Specific Factors -->
+
   <g transform="translate(410, 220)">
     <rect x="0" y="0" width="340" height="200" rx="10" fill="url(#companyGradient)" opacity="0.9"/>
     <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
       Selskapsspecifikke Faktorer
     </text>
     
-    <!-- Factor 1: Credit rating -->
+
     <g transform="translate(30, 40)">
       <circle cx="20" cy="20" r="15" fill="white" opacity="0.3"/>
       <text x="20" y="26" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">⭐</text>
@@ -167,7 +167,7 @@
       </text>
     </g>
     
-    <!-- Factor 2: Industry risk -->
+
     <g transform="translate(30, 80)">
       <circle cx="20" cy="20" r="15" fill="white" opacity="0.3"/>
       <text x="20" y="26" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">🏭</text>
@@ -179,7 +179,7 @@
       </text>
     </g>
     
-    <!-- Factor 3: Company size -->
+
     <g transform="translate(30, 120)">
       <circle cx="20" cy="20" r="15" fill="white" opacity="0.3"/>
       <text x="20" y="26" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">🏢</text>
@@ -191,7 +191,7 @@
       </text>
     </g>
     
-    <!-- Factor 4: Liquidity -->
+
     <g transform="translate(30, 160)">
       <circle cx="20" cy="20" r="15" fill="white" opacity="0.3"/>
       <text x="20" y="26" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">💧</text>
@@ -204,39 +204,39 @@
     </g>
   </g>
   
-  <!-- Typical Discount Rates Table -->
+
   <g transform="translate(50, 440)">
     <rect x="0" y="0" width="700" height="120" rx="10" fill="#ffffff" stroke="#ddd" stroke-width="2"/>
     <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333">
       Typiske Diskonteringsrenter
     </text>
     
-    <!-- Table Headers -->
+
     <rect x="20" y="40" width="660" height="25" fill="#f5f5f5" stroke="#ddd" stroke-width="1"/>
     <text x="40" y="55" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#333">Type Investering</text>
     <text x="300" y="55" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#333">Typisk Diskonteringsrente</text>
     <text x="500" y="55" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#333">Risikoprofil</text>
     
-    <!-- Government bonds -->
+
     <text x="40" y="80" font-family="Arial, sans-serif" font-size="12" fill="#333">Statsobligasjoner</text>
     <text x="300" y="80" font-family="Arial, sans-serif" font-size="12" fill="#4CAF50">2-4%</text>
     <text x="500" y="80" font-family="Arial, sans-serif" font-size="12" fill="#4CAF50">Lav risiko</text>
     
-    <!-- Corporate bonds -->
+
     <text x="40" y="95" font-family="Arial, sans-serif" font-size="12" fill="#333">Bedriftsobligasjoner</text>
     <text x="300" y="95" font-family="Arial, sans-serif" font-size="12" fill="#FF9800">4-8%</text>
     <text x="500" y="95" font-family="Arial, sans-serif" font-size="12" fill="#FF9800">Middels risiko</text>
     
-    <!-- Real estate -->
+
     <text x="400" y="80" font-family="Arial, sans-serif" font-size="12" fill="#333">Eiendomsinvesteringer</text>
     <text x="580" y="80" font-family="Arial, sans-serif" font-size="12" fill="#FF9800">6-10%</text>
     
-    <!-- High-risk projects -->
+
     <text x="400" y="95" font-family="Arial, sans-serif" font-size="12" fill="#333">Høyrisiko prosjekter</text>
     <text x="580" y="95" font-family="Arial, sans-serif" font-size="12" fill="#F44336">15%+</text>
   </g>
   
-  <!-- Key Insight -->
+
   <g transform="translate(50, 580)">
     <rect x="0" y="0" width="700" height="15" rx="5" fill="#e3f2fd" stroke="#2196F3" stroke-width="1"/>
     <text x="350" y="12" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1976D2">

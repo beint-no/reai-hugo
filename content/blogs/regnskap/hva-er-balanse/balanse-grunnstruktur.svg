@@ -10,13 +10,13 @@
     .arrow { stroke: #2d3748; stroke-width: 2; fill: #2d3748; }
   </style>
   
-  <!-- Title -->
+
   <text x="350" y="30" class="title-text" text-anchor="middle">Balansens Grunnleggende Struktur</text>
   
-  <!-- Main equation -->
+
   <text x="350" y="70" class="equation-text" text-anchor="middle">AKTIVA = GJELD + EGENKAPITAL</text>
   
-  <!-- Aktiva box -->
+
   <rect x="50" y="120" width="200" height="150" class="box-aktiva" rx="10"/>
   <text x="150" y="145" class="section-text" text-anchor="middle">AKTIVA</text>
   <text x="150" y="170" class="desc-text" text-anchor="middle">Alt virksomheten eier</text>
@@ -25,36 +25,36 @@
   <text x="70" y="235" class="desc-text">• Varelager</text>
   <text x="70" y="255" class="desc-text">• Kontanter</text>
   
-  <!-- Equals sign -->
+
   <text x="300" y="200" class="equation-text" text-anchor="middle">=</text>
   
-  <!-- Gjeld box -->
+
   <rect x="350" y="120" width="140" height="70" class="box-gjeld" rx="10"/>
   <text x="420" y="145" class="section-text" text-anchor="middle">GJELD</text>
   <text x="420" y="165" class="desc-text" text-anchor="middle">Skylder andre</text>
   <text x="420" y="180" class="desc-text" text-anchor="middle">Lån, leverandører</text>
   
-  <!-- Plus sign -->
+
   <text x="420" y="220" class="equation-text" text-anchor="middle">+</text>
   
-  <!-- Egenkapital box -->
+
   <rect x="350" y="240" width="140" height="70" class="box-egenkapital" rx="10"/>
   <text x="420" y="265" class="section-text" text-anchor="middle">EGENKAPITAL</text>
   <text x="420" y="285" class="desc-text" text-anchor="middle">Eierens andel</text>
   <text x="420" y="300" class="desc-text" text-anchor="middle">Aksjer, overskudd</text>
   
-  <!-- Arrow showing balance -->
+
   <path d="M 270 195 L 330 195" class="arrow" marker-end="url(#arrowhead)"/>
   <path d="M 510 195 L 570 195" class="arrow" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" class="arrow"/>
     </marker>
   </defs>
   
-  <!-- Balance explanation -->
+
   <text x="580" y="140" class="desc-text">Må alltid</text>
   <text x="580" y="155" class="desc-text">være i</text>
   <text x="580" y="170" class="desc-text">balanse!</text>

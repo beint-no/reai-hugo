@@ -18,15 +18,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Sammenligning av Betalingssystemer
   </text>
   
-  <!-- Giro (Center Left) -->
+
   <g transform="translate(80, 120)">
     <rect x="0" y="0" width="160" height="180" rx="15" fill="url(#giroGradient)" opacity="0.9"/>
     <text x="80" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
@@ -42,7 +42,7 @@
     <text x="10" y="170" font-family="Arial, sans-serif" font-size="10" fill="white">• Krever bankkonto</text>
   </g>
   
-  <!-- Credit Card (Top Right) -->
+
   <g transform="translate(560, 120)">
     <rect x="0" y="0" width="160" height="180" rx="15" fill="url(#creditGradient)" opacity="0.9"/>
     <text x="80" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
@@ -58,7 +58,7 @@
     <text x="10" y="170" font-family="Arial, sans-serif" font-size="10" fill="white">• Svindelrisiko</text>
   </g>
   
-  <!-- Cash (Bottom Left) -->
+
   <g transform="translate(80, 340)">
     <rect x="0" y="0" width="160" height="180" rx="15" fill="url(#cashGradient)" opacity="0.9"/>
     <text x="80" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
@@ -74,7 +74,7 @@
     <text x="10" y="170" font-family="Arial, sans-serif" font-size="10" fill="white">• Tyveri/tap risiko</text>
   </g>
   
-  <!-- Modern Solutions (Bottom Right) -->
+
   <g transform="translate(560, 340)">
     <rect x="0" y="0" width="160" height="180" rx="15" fill="url(#modernGradient)" opacity="0.9"/>
     <text x="80" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
@@ -92,23 +92,23 @@
     <text x="10" y="165" font-family="Arial, sans-serif" font-size="10" fill="white">• Høyere kostnader</text>
   </g>
   
-  <!-- Comparison Table in Center -->
+
   <g transform="translate(280, 150)">
     <rect x="0" y="0" width="240" height="220" rx="10" fill="white" stroke="#bdc3c7" stroke-width="2" opacity="0.95"/>
     <text x="120" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
       Sammenligning
     </text>
     
-    <!-- Table Headers -->
+
     <text x="10" y="50" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#34495e">Aspekt</text>
     <text x="80" y="50" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#34495e">Giro</text>
     <text x="130" y="50" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#34495e">Kort</text>
     <text x="180" y="50" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#34495e">Kontant</text>
     
-    <!-- Divider line -->
+
     <line x1="10" y1="55" x2="230" y2="55" stroke="#bdc3c7" stroke-width="1"/>
     
-    <!-- Table Rows -->
+
     <text x="10" y="75" font-family="Arial, sans-serif" font-size="10" fill="#34495e">Kostnad</text>
     <text x="80" y="75" font-family="Arial, sans-serif" font-size="10" fill="#27ae60">Lav</text>
     <text x="130" y="75" font-family="Arial, sans-serif" font-size="10" fill="#e74c3c">Høy</text>
@@ -140,7 +140,7 @@
     <text x="180" y="175" font-family="Arial, sans-serif" font-size="10" fill="#27ae60">Alle</text>
   </g>
   
-  <!-- Connection arrows -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#7f8c8d" />

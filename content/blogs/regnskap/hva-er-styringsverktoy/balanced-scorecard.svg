@@ -18,24 +18,24 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f9fafb"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="24" font-weight="bold">Balanced Scorecard</text>
   <text x="400" y="50" text-anchor="middle" fill="#6b7280" font-family="Arial, sans-serif" font-size="14">Fire perspektiver for helhetlig prestasjonsmåling</text>
   
-  <!-- Central Vision/Strategy -->
+
   <circle cx="400" cy="300" r="80" fill="#ffffff" stroke="#1f2937" stroke-width="3"/>
   <text x="400" y="290" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="14" font-weight="bold">VISJON &amp;</text>
   <text x="400" y="308" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="14" font-weight="bold">STRATEGI</text>
   
-  <!-- Financial Perspective (Top) -->
+
   <rect x="280" y="80" width="240" height="120" rx="15" fill="url(#financialGrad)" opacity="0.9"/>
   <text x="400" y="110" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="18" font-weight="bold">FINANSIELT PERSPEKTIV</text>
   <text x="400" y="130" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">"Hvordan ser vi ut overfor aksjonærene?"</text>
   
-  <!-- Financial KPIs -->
+
   <rect x="300" y="145" width="90" height="25" rx="5" fill="#ffffff" opacity="0.9"/>
   <text x="345" y="160" text-anchor="middle" fill="#047857" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Omsetningsvekst</text>
   
@@ -48,14 +48,14 @@
   <rect x="405" y="175" width="90" height="25" rx="5" fill="#ffffff" opacity="0.9"/>
   <text x="450" y="190" text-anchor="middle" fill="#047857" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Kontantstrøm</text>
   
-  <!-- Customer Perspective (Right) -->
+
   <rect x="580" y="210" width="180" height="180" rx="15" fill="url(#customerGrad)" opacity="0.9"/>
   <text x="670" y="240" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">KUNDE-</text>
   <text x="670" y="258" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">PERSPEKTIV</text>
   <text x="670" y="278" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="11">"Hvordan skal kundene</text>
   <text x="670" y="290" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="11">oppfatte oss?"</text>
   
-  <!-- Customer KPIs -->
+
   <rect x="600" y="305" width="140" height="20" rx="4" fill="#ffffff" opacity="0.9"/>
   <text x="670" y="318" text-anchor="middle" fill="#1d4ed8" font-family="Arial, sans-serif" font-size="9" font-weight="bold">Kundetilfredshet</text>
   
@@ -65,12 +65,12 @@
   <rect x="600" y="355" width="140" height="20" rx="4" fill="#ffffff" opacity="0.9"/>
   <text x="670" y="368" text-anchor="middle" fill="#1d4ed8" font-family="Arial, sans-serif" font-size="9" font-weight="bold">Markedsandel</text>
   
-  <!-- Internal Process Perspective (Bottom) -->
+
   <rect x="280" y="420" width="240" height="120" rx="15" fill="url(#processGrad)" opacity="0.9"/>
   <text x="400" y="450" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="18" font-weight="bold">INTERNPROSESS</text>
   <text x="400" y="470" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">"Hvilke prosesser må vi mestre?"</text>
   
-  <!-- Process KPIs -->
+
   <rect x="300" y="485" width="90" height="25" rx="5" fill="#ffffff" opacity="0.9"/>
   <text x="345" y="500" text-anchor="middle" fill="#d97706" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Leveringspresisjon</text>
   
@@ -83,14 +83,14 @@
   <rect x="405" y="515" width="90" height="25" rx="5" fill="#ffffff" opacity="0.9"/>
   <text x="450" y="530" text-anchor="middle" fill="#d97706" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Innovasjonsrate</text>
   
-  <!-- Learning &amp; Growth Perspective (Left) -->
+
   <rect x="40" y="210" width="180" height="180" rx="15" fill="url(#learningGrad)" opacity="0.9"/>
   <text x="130" y="240" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">LÆRING &amp;</text>
   <text x="130" y="258" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">VEKST</text>
   <text x="130" y="278" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="11">"Hvordan skal vi opprettholde</text>
   <text x="130" y="290" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="11">evnen til forbedring?"</text>
   
-  <!-- Learning KPIs -->
+
   <rect x="60" y="305" width="140" height="20" rx="4" fill="#ffffff" opacity="0.9"/>
   <text x="130" y="318" text-anchor="middle" fill="#7c3aed" font-family="Arial, sans-serif" font-size="9" font-weight="bold">Ansatttilfredshet</text>
   
@@ -100,23 +100,23 @@
   <rect x="60" y="355" width="140" height="20" rx="4" fill="#ffffff" opacity="0.9"/>
   <text x="130" y="368" text-anchor="middle" fill="#7c3aed" font-family="Arial, sans-serif" font-size="9" font-weight="bold">IT-kapabilitet</text>
   
-  <!-- Connection arrows -->
+
   <path d="M 400 220 L 400 240" stroke="#374151" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 520 300 L 540" stroke="#374151" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 400 380 L 400 400" stroke="#374151" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 280 300 L 260 300" stroke="#374151" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#374151"/>
     </marker>
   </defs>
   
-  <!-- Cause-effect relationships -->
+
   <text x="400" y="575" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Årsak-Virkning Sammenhenger</text>
   
-  <!-- Bottom explanation -->
+
   <rect x="50" y="80" width="180" height="100" rx="10" fill="#ffffff" stroke="#e5e7eb" stroke-width="2"/>
   <text x="140" y="105" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Implementering</text>
   <text x="60" y="125" fill="#374151" font-family="Arial, sans-serif" font-size="10">1. Definer strategi</text>

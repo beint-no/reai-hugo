@@ -14,23 +14,23 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <rect x="0" y="0" width="800" height="70" fill="#0066cc"/>
   <text x="400" y="45" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" fill="white">
     Omsetning vs Inntekt
   </text>
   
-  <!-- Left side - Omsetning -->
+
   <rect x="50" y="100" width="320" height="450" fill="white" stroke="#dc3545" stroke-width="3" rx="10"/>
   <rect x="50" y="100" width="320" height="60" fill="url(#omsetningGrad)" rx="10"/>
   <text x="210" y="140" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
     OMSETNING
   </text>
   
-  <!-- Omsetning characteristics -->
+
   <text x="210" y="190" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#dc3545">
     Bruttoverdi
   </text>
@@ -55,7 +55,7 @@
     Statistikk &amp; rapporter
   </text>
   
-  <!-- Omsetning example -->
+
   <rect x="70" y="350" width="280" height="120" fill="#ffe6e6" stroke="#dc3545" stroke-width="1" rx="5"/>
   <text x="210" y="375" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#dc3545">
     Eksempel:
@@ -74,14 +74,14 @@
     (Det kunden betaler)
   </text>
   
-  <!-- Right side - Inntekt -->
+
   <rect x="430" y="100" width="320" height="450" fill="white" stroke="#28a745" stroke-width="3" rx="10"/>
   <rect x="430" y="100" width="320" height="60" fill="url(#inntektGrad)" rx="10"/>
   <text x="590" y="140" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
     INNTEKT
   </text>
   
-  <!-- Inntekt characteristics -->
+
   <text x="590" y="190" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#28a745">
     Nettoverdi
   </text>
@@ -106,7 +106,7 @@
     Regnskapsføring
   </text>
   
-  <!-- Inntekt example -->
+
   <rect x="450" y="350" width="280" height="120" fill="#e6f7e6" stroke="#28a745" stroke-width="1" rx="5"/>
   <text x="590" y="375" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#28a745">
     Eksempel:
@@ -125,13 +125,13 @@
     (Regnskapsverdi)
   </text>
   
-  <!-- VS symbol -->
+
   <circle cx="400" cy="325" r="30" fill="#0066cc" stroke="#004499" stroke-width="3"/>
   <text x="400" y="335" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="white">
     VS
   </text>
   
-  <!-- Bottom summary -->
+
   <rect x="100" y="570" width="600" height="25" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="5"/>
   <text x="400" y="587" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#495057">
     Omsetning = Inntekt + MVA | Samme salg, forskjellig måling og formål

@@ -6,15 +6,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="400" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#212529">
     Implementering og Oppfølging
   </text>
   
-  <!-- Budget Follow-up -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="200" height="120" fill="#e8f5e8" stroke="#28a745" stroke-width="3" rx="10"/>
     <text x="100" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#155724">
@@ -39,7 +39,7 @@
     </g>
   </g>
   
-  <!-- Documentation -->
+
   <g transform="translate(300, 80)">
     <rect x="0" y="0" width="200" height="120" fill="#d1ecf1" stroke="#17a2b8" stroke-width="3" rx="10"/>
     <text x="100" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0c5460">
@@ -63,7 +63,7 @@
     </g>
   </g>
   
-  <!-- Revision and Updates -->
+
   <g transform="translate(550, 80)">
     <rect x="0" y="0" width="200" height="120" fill="#fff3cd" stroke="#ffc107" stroke-width="3" rx="10"/>
     <text x="100" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#856404">
@@ -87,58 +87,58 @@
     </g>
   </g>
   
-  <!-- Implementation cycle -->
+
   <g transform="translate(50, 240)">
     <rect x="0" y="0" width="700" height="140" fill="white" stroke="#dee2e6" stroke-width="2" rx="10"/>
     <text x="350" y="25" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#212529">
       Implementeringssyklus
     </text>
     
-    <!-- Cycle steps -->
+
     <g transform="translate(50, 50)">
-      <!-- Step 1: Plan -->
+
       <circle cx="50" cy="40" r="30" fill="#e8f5e8" stroke="#28a745" stroke-width="3"/>
       <text x="50" y="35" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="#155724">1. PLAN</text>
       <text x="50" y="48" font-family="Arial, sans-serif" font-size="8" text-anchor="middle" fill="#155724">Utarbeid plan</text>
     </g>
     
-    <!-- Arrow 1 -->
+
     <g transform="translate(100, 65)">
       <path d="M0,0 L40,0 L35,-5 M40,0 L35,5" stroke="#28a745" stroke-width="2" fill="none"/>
     </g>
     
-    <!-- Step 2: Do -->
+
     <g transform="translate(170, 50)">
       <circle cx="50" cy="40" r="30" fill="#d1ecf1" stroke="#17a2b8" stroke-width="3"/>
       <text x="50" y="35" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="#0c5460">2. DO</text>
       <text x="50" y="48" font-family="Arial, sans-serif" font-size="8" text-anchor="middle" fill="#0c5460">Implementer</text>
     </g>
     
-    <!-- Arrow 2 -->
+
     <g transform="translate(250, 65)">
       <path d="M0,0 L40,0 L35,-5 M40,0 L35,5" stroke="#17a2b8" stroke-width="2" fill="none"/>
     </g>
     
-    <!-- Step 3: Check -->
+
     <g transform="translate(320, 50)">
       <circle cx="50" cy="40" r="30" fill="#fff3cd" stroke="#ffc107" stroke-width="3"/>
       <text x="50" y="35" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="#856404">3. CHECK</text>
       <text x="50" y="48" font-family="Arial, sans-serif" font-size="8" text-anchor="middle" fill="#856404">Kontroller</text>
     </g>
     
-    <!-- Arrow 3 -->
+
     <g transform="translate(400, 65)">
       <path d="M0,0 L40,0 L35,-5 M40,0 L35,5" stroke="#ffc107" stroke-width="2" fill="none"/>
     </g>
     
-    <!-- Step 4: Act -->
+
     <g transform="translate(470, 50)">
       <circle cx="50" cy="40" r="30" fill="#f8d7da" stroke="#dc3545" stroke-width="3"/>
       <text x="50" y="35" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="#721c24">4. ACT</text>
       <text x="50" y="48" font-family="Arial, sans-serif" font-size="8" text-anchor="middle" fill="#721c24">Juster</text>
     </g>
     
-    <!-- Return arrow -->
+
     <g transform="translate(520, 40)">
       <path d="M0,40 Q50,0 100,40 Q50,80 0,40" stroke="#dc3545" stroke-width="2" fill="none" stroke-dasharray="5,5"/>
       <path d="M5,35 L0,40 L5,45" stroke="#dc3545" stroke-width="2" fill="none"/>

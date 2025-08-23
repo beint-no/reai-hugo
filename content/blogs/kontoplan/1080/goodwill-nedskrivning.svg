@@ -6,10 +6,10 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#F8FAFC"/>
   
-  <!-- Title -->
+
   <rect x="50" y="30" width="700" height="60" fill="url(#headerGradient)" rx="8"/>
   <text x="400" y="55" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
     Nedskrivningsvurdering av Goodwill
@@ -18,9 +18,9 @@
     Årlig test og beslutningsprosess
   </text>
   
-  <!-- Flow chart -->
+
   <g transform="translate(100, 120)">
-    <!-- Step 1: Annual test -->
+
     <rect x="200" y="0" width="200" height="60" fill="#10B981" rx="8"/>
     <text x="300" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Årlig nedskrivningstest
@@ -29,10 +29,10 @@
       eller ved indikasjoner
     </text>
     
-    <!-- Arrow down -->
+
     <path d="M 300 70 L 300 100" stroke="#374151" stroke-width="2" marker-end="url(#arrowhead)"/>
     
-    <!-- Step 2: Compare values -->
+
     <rect x="150" y="110" width="300" height="60" fill="#3B82F6" rx="8"/>
     <text x="300" y="135" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Sammenlign bokført verdi med
@@ -41,10 +41,10 @@
       gjenvinnbar verdi
     </text>
     
-    <!-- Arrow down -->
+
     <path d="M 300 180 L 300 210" stroke="#374151" stroke-width="2" marker-end="url(#arrowhead)"/>
     
-    <!-- Decision diamond -->
+
     <polygon points="300,220 360,250 300,280 240,250" fill="#F59E0B"/>
     <text x="300" y="245" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Bokført &gt;
@@ -53,19 +53,19 @@
       Gjenvinnbar?
     </text>
     
-    <!-- Left arrow - No impairment -->
+
     <path d="M 240 250 L 120 250" stroke="#374151" stroke-width="2" marker-end="url(#arrowhead)"/>
     <text x="180" y="240" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       NEI
     </text>
     
-    <!-- Right arrow - Impairment -->
+
     <path d="M 360 250 L 480 250" stroke="#374151" stroke-width="2" marker-end="url(#arrowhead)"/>
     <text x="420" y="240" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       JA
     </text>
     
-    <!-- No impairment box -->
+
     <rect x="20" y="220" width="120" height="60" fill="#10B981" rx="8"/>
     <text x="80" y="240" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Ingen
@@ -77,7 +77,7 @@
       nødvendig
     </text>
     
-    <!-- Impairment box -->
+
     <rect x="480" y="220" width="120" height="60" fill="#EF4444" rx="8"/>
     <text x="540" y="240" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Nedskrivning
@@ -86,7 +86,7 @@
       må foretas
     </text>
     
-    <!-- Impairment calculation -->
+
     <rect x="380" y="310" width="220" height="80" fill="#7C3AED" rx="8"/>
     <text x="490" y="335" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Nedskrivningsbeløp =
@@ -98,11 +98,11 @@
       Gjenvinnbar verdi
     </text>
     
-    <!-- Arrow to calculation -->
+
     <path d="M 540 290 L 540 300" stroke="#374151" stroke-width="2" marker-end="url(#arrowhead)"/>
   </g>
   
-  <!-- Indicators box -->
+
   <rect x="50" y="420" width="700" height="60" fill="white" stroke="#E5E7EB" stroke-width="2" rx="8"/>
   <text x="70" y="440" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Indikatorer på nedskrivning:
@@ -114,14 +114,14 @@
     • Bokført verdi overstiger markedsverdi • Dårligere økonomiske resultater enn forventet
   </text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#374151"/>
     </marker>
   </defs>
   
-  <!-- Decorative elements -->
+
   <circle cx="70" cy="110" r="15" fill="#4F46E5" opacity="0.1"/>
   <circle cx="730" cy="110" r="20" fill="#10B981" opacity="0.1"/>
 </svg>

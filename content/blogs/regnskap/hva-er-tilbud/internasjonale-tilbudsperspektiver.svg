@@ -1,23 +1,23 @@
 <svg viewBox="0 0 1000 700" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="1000" height="700" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="500" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Internasjonale Tilbudsperspektiver
   </text>
   
-  <!-- World map silhouette -->
+
   <g stroke="#bdc3c7" stroke-width="2" fill="none">
-    <!-- Simplified world continents -->
+
     <path d="M150 200 Q200 180 250 200 L300 180 Q350 190 400 180 L450 200 Q500 180 550 200 L600 180 Q650 190 700 180 L750 200 Q800 180 850 200" />
     <path d="M200 300 Q250 280 300 300 L350 280 Q400 290 450 280 L500 300 Q550 280 600 300 L650 280 Q700 290 750 280" />
     <path d="M300 400 Q350 380 400 400 L450 380 Q500 390 550 380 L600 400 Q650 380 700 400" />
   </g>
   
-  <!-- Regional boxes -->
+
   
-  <!-- North America -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="260" height="140" rx="10" fill="#e8f4f8" stroke="#3498db" stroke-width="2"/>
     <text x="130" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
@@ -43,7 +43,7 @@
     </text>
   </g>
   
-  <!-- Europe -->
+
   <g transform="translate(370, 80)">
     <rect x="0" y="0" width="260" height="140" rx="10" fill="#f8e8e8" stroke="#e74c3c" stroke-width="2"/>
     <text x="130" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
@@ -69,7 +69,7 @@
     </text>
   </g>
   
-  <!-- Asia-Pacific -->
+
   <g transform="translate(690, 80)">
     <rect x="0" y="0" width="260" height="140" rx="10" fill="#fff3e0" stroke="#ff9800" stroke-width="2"/>
     <text x="130" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
@@ -95,14 +95,14 @@
     </text>
   </g>
   
-  <!-- Currency Risk Section -->
+
   <g transform="translate(50, 280)">
     <rect x="0" y="0" width="400" height="180" rx="10" fill="#f4f1ff" stroke="#9b59b6" stroke-width="2"/>
     <text x="200" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
       VALUTARISIKO OG SIKRING
     </text>
     
-    <!-- Currency symbols -->
+
     <circle cx="70" cy="50" r="20" fill="#3498db" opacity="0.7"/>
     <text x="70" y="56" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">$</text>
     
@@ -115,7 +115,7 @@
     <circle cx="310" cy="50" r="20" fill="#27ae60" opacity="0.7"/>
     <text x="310" y="56" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">£</text>
     
-    <!-- Risk arrows -->
+
     <path d="M100 70 Q150 90 200 70" stroke="#e74c3c" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
     <path d="M180 70 Q230 90 280 70" stroke="#e74c3c" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
     
@@ -149,14 +149,14 @@
     </text>
   </g>
   
-  <!-- Regulatory Comparison Table -->
+
   <g transform="translate(500, 280)">
     <rect x="0" y="0" width="450" height="180" rx="10" fill="#f0f8f0" stroke="#27ae60" stroke-width="2"/>
     <text x="225" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
       REGULATORISKE FORSKJELLER
     </text>
     
-    <!-- Table header -->
+
     <rect x="10" y="30" width="80" height="25" fill="#34495e"/>
     <rect x="90" y="30" width="120" height="25" fill="#34495e"/>
     <rect x="210" y="30" width="120" height="25" fill="#34495e"/>
@@ -167,7 +167,7 @@
     <text x="270" y="47" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">Typiske Krav</text>
     <text x="385" y="47" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">Spesielle Hensyn</text>
     
-    <!-- EU row -->
+
     <rect x="10" y="55" width="80" height="25" fill="#e8f4f8"/>
     <rect x="90" y="55" width="120" height="25" fill="#e8f4f8"/>
     <rect x="210" y="55" width="120" height="25" fill="#e8f4f8"/>
@@ -178,7 +178,7 @@
     <text x="270" y="72" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">GDPR, Anskaffelser</text>
     <text x="385" y="72" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">Digital Single Market</text>
     
-    <!-- USA row -->
+
     <rect x="10" y="80" width="80" height="25" fill="#f8e8e8"/>
     <rect x="90" y="80" width="120" height="25" fill="#f8e8e8"/>
     <rect x="210" y="80" width="120" height="25" fill="#f8e8e8"/>
@@ -189,7 +189,7 @@
     <text x="270" y="97" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">SEC, Antitrust</text>
     <text x="385" y="97" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">Buy American Act</text>
     
-    <!-- Asia row -->
+
     <rect x="10" y="105" width="80" height="25" fill="#fff3e0"/>
     <rect x="90" y="105" width="120" height="25" fill="#fff3e0"/>
     <rect x="210" y="105" width="120" height="25" fill="#fff3e0"/>
@@ -200,7 +200,7 @@
     <text x="270" y="122" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">Lokalt innhold</text>
     <text x="385" y="122" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">Guanxi nettverk</text>
     
-    <!-- Middle East row -->
+
     <rect x="10" y="130" width="80" height="25" fill="#f4f1ff"/>
     <rect x="90" y="130" width="120" height="25" fill="#f4f1ff"/>
     <rect x="210" y="130" width="120" height="25" fill="#f4f1ff"/>
@@ -211,7 +211,7 @@
     <text x="270" y="147" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">Islamsk finans</text>
     <text x="385" y="147" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">Geopolitisk risiko</text>
     
-    <!-- Table borders -->
+
     <g stroke="#bdc3c7" stroke-width="1" fill="none">
       <line x1="10" y1="30" x2="440" y2="30"/>
       <line x1="10" y1="55" x2="440" y2="55"/>
@@ -225,14 +225,14 @@
     </g>
   </g>
   
-  <!-- Key Success Factors -->
+
   <g transform="translate(50, 510)">
     <rect x="0" y="0" width="900" height="120" rx="10" fill="#f8f9fa" stroke="#6c757d" stroke-width="2"/>
     <text x="450" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
       NØKKELFAKTORER FOR INTERNASJONALE TILBUD
     </text>
     
-    <!-- Success factors boxes -->
+
     <g transform="translate(20, 30)">
       <rect x="0" y="0" width="200" height="70" rx="5" fill="#e8f5e8" stroke="#27ae60" stroke-width="1"/>
       <text x="100" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#27ae60">
@@ -274,12 +274,12 @@
     </g>
   </g>
   
-  <!-- Bottom note -->
+
   <text x="500" y="680" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-style="italic" fill="#7f8c8d">
     Internasjonale tilbud krever dyptgående forståelse av lokale markedsbetingelser og kulturelle forskjeller
   </text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#e74c3c"/>

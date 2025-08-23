@@ -6,22 +6,22 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <rect x="0" y="0" width="800" height="50" fill="url(#headerGradient)"/>
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
     Regnskapsføring av tap på fordring - Kontoer og bilag
   </text>
   
-  <!-- Journal Entry 1: Direct write-off -->
+
   <rect x="50" y="80" width="700" height="140" fill="white" stroke="#dee2e6" stroke-width="2" rx="10"/>
   <text x="60" y="105" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#212529">
     1. DIREKTE NEDSKRIVING - Definitivt tap
   </text>
   
-  <!-- Table headers -->
+
   <rect x="70" y="120" width="660" height="25" fill="#e9ecef" stroke="#dee2e6" stroke-width="1"/>
   <text x="80" y="135" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#495057">Konto</text>
   <text x="150" y="135" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#495057">Kontonavn</text>
@@ -29,7 +29,7 @@
   <text x="500" y="135" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#495057">Kredit</text>
   <text x="600" y="135" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#495057">Bilag</text>
   
-  <!-- Table rows -->
+
   <rect x="70" y="145" width="660" height="25" fill="white" stroke="#dee2e6" stroke-width="1"/>
   <text x="80" y="160" font-family="Arial, sans-serif" font-size="11" fill="#212529">7770</text>
   <text x="150" y="160" font-family="Arial, sans-serif" font-size="11" fill="#212529">Tap på kundefordringer</text>
@@ -48,13 +48,13 @@
     Begrunnelse: Kunde XYZ AS erklært konkurs 15.03.2024. Fordring kr 50.000 anses som definitivt tapt.
   </text>
   
-  <!-- Journal Entry 2: Provision for bad debt -->
+
   <rect x="50" y="250" width="700" height="140" fill="white" stroke="#dee2e6" stroke-width="2" rx="10"/>
   <text x="60" y="275" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#212529">
     2. AVSETNING FOR TAP - Sannsynlig tap
   </text>
   
-  <!-- Table headers -->
+
   <rect x="70" y="290" width="660" height="25" fill="#e9ecef" stroke="#dee2e6" stroke-width="1"/>
   <text x="80" y="305" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#495057">Konto</text>
   <text x="150" y="305" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#495057">Kontonavn</text>
@@ -62,7 +62,7 @@
   <text x="500" y="305" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#495057">Kredit</text>
   <text x="600" y="305" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#495057">Bilag</text>
   
-  <!-- Table rows -->
+
   <rect x="70" y="315" width="660" height="25" fill="white" stroke="#dee2e6" stroke-width="1"/>
   <text x="80" y="330" font-family="Arial, sans-serif" font-size="11" fill="#212529">7770</text>
   <text x="150" y="330" font-family="Arial, sans-serif" font-size="11" fill="#212529">Tap på kundefordringer</text>
@@ -81,13 +81,13 @@
     Begrunnelse: Kunde ABC AS har betalingsproblemer. 50% sannsynlighet for tap av fordring kr 50.000.
   </text>
   
-  <!-- Journal Entry 3: Recovery of written-off debt -->
+
   <rect x="50" y="420" width="700" height="140" fill="white" stroke="#dee2e6" stroke-width="2" rx="10"/>
   <text x="60" y="445" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#212529">
     3. INNBETALING ETTER NEDSKRIVING - Gjenvinning
   </text>
   
-  <!-- Table headers -->
+
   <rect x="70" y="460" width="660" height="25" fill="#e9ecef" stroke="#dee2e6" stroke-width="1"/>
   <text x="80" y="475" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#495057">Konto</text>
   <text x="150" y="475" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#495057">Kontonavn</text>
@@ -95,7 +95,7 @@
   <text x="500" y="475" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#495057">Kredit</text>
   <text x="600" y="475" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#495057">Bilag</text>
   
-  <!-- Table rows -->
+
   <rect x="70" y="485" width="660" height="25" fill="white" stroke="#dee2e6" stroke-width="1"/>
   <text x="80" y="500" font-family="Arial, sans-serif" font-size="11" fill="#212529">1910</text>
   <text x="150" y="500" font-family="Arial, sans-serif" font-size="11" fill="#212529">Bank</text>
@@ -114,7 +114,7 @@
     Begrunnelse: Mottatt delvis betaling fra konkursbo for tidligere nedskrevet fordring.
   </text>
   
-  <!-- Footer note -->
+
   <text x="400" y="585" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#868e96">
     Alle posteringer må dokumenteres med relevant bilag og begrunnelse for skattemyndighetene
   </text>

@@ -14,15 +14,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="900" height="550" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="450" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#0066cc">
     Sammenhengen mellom Regnskap og Næringsoppgave
   </text>
   
-  <!-- Accounting Side -->
+
   <g transform="translate(50, 70)">
     <rect x="0" y="0" width="350" height="400" fill="white" stroke="#28a745" stroke-width="3" rx="10"/>
     <rect x="0" y="0" width="350" height="50" fill="url(#accountingGradient)" rx="10"/>
@@ -31,7 +31,7 @@
       REGNSKAP
     </text>
     
-    <!-- Accounting sections -->
+
     <g transform="translate(20, 70)">
       <rect x="0" y="0" width="310" height="60" fill="#d4edda" stroke="#28a745" stroke-width="1" rx="5"/>
       <text x="155" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#155724">
@@ -78,7 +78,7 @@
     </g>
   </g>
   
-  <!-- Adjustment Arrow and Process -->
+
   <g transform="translate(420, 200)">
     <rect x="0" y="0" width="120" height="120" fill="#f8f9fa" stroke="#6c757d" stroke-width="2" rx="10"/>
     <text x="60" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#495057">
@@ -101,12 +101,12 @@
       • Fradragsregler
     </text>
     
-    <!-- Arrows -->
+
     <path d="M -20 60 L 0 60 L -10 50 M 0 60 L -10 70" stroke="#0066cc" stroke-width="3" fill="none"/>
     <path d="M 120 60 L 140 60 L 130 50 M 140 60 L 130 70" stroke="#0066cc" stroke-width="3" fill="none"/>
   </g>
   
-  <!-- Tax Return Side -->
+
   <g transform="translate(580, 70)">
     <rect x="0" y="0" width="270" height="400" fill="white" stroke="#0066cc" stroke-width="3" rx="10"/>
     <rect x="0" y="0" width="270" height="50" fill="url(#taxGradient)" rx="10"/>
@@ -115,7 +115,7 @@
       NÆRINGSOPPGAVE
     </text>
     
-    <!-- Tax sections -->
+
     <g transform="translate(15, 70)">
       <rect x="0" y="0" width="240" height="60" fill="#e3f2fd" stroke="#0066cc" stroke-width="1" rx="5"/>
       <text x="120" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0066cc">
@@ -162,7 +162,7 @@
     </g>
   </g>
   
-  <!-- Key Differences Table -->
+
   <g transform="translate(50, 490)">
     <rect x="0" y="0" width="800" height="50" fill="white" stroke="#6c757d" stroke-width="2" rx="5"/>
     <text x="400" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#495057">
@@ -176,8 +176,8 @@
     </text>
   </g>
   
-  <!-- Examples of differences -->
+
   <g transform="translate(50, 550)">
-    <!-- This section would be cut off, so I'll adjust the main SVG height -->
+
   </g>
 </svg>

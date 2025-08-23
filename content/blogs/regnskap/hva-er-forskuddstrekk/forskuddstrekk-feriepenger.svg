@@ -24,15 +24,15 @@
     </marker>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#0066cc">
     Forskuddstrekk av Feriepenger
   </text>
   
-  <!-- Method 1: Løpende Trekk -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="200" height="120" fill="url(#ongoingGradient)" rx="10" filter="url(#shadow)"/>
     <text x="100" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
@@ -45,7 +45,7 @@
       opptjenes
     </text>
     
-    <!-- Calendar icon -->
+
     <rect x="80" y="70" width="40" height="30" fill="white" rx="3"/>
     <rect x="85" y="65" width="5" height="10" fill="white"/>
     <rect x="105" y="65" width="5" height="10" fill="white"/>
@@ -54,7 +54,7 @@
     <rect x="85" y="90" width="25" height="2" fill="#0066cc"/>
   </g>
   
-  <!-- Method 2: Trekk ved Utbetaling -->
+
   <g transform="translate(300, 80)">
     <rect x="0" y="0" width="200" height="120" fill="url(#paymentGradient)" rx="10" filter="url(#shadow)"/>
     <text x="100" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
@@ -70,14 +70,14 @@
       utbetales
     </text>
     
-    <!-- Money with arrow icon -->
+
     <circle cx="100" cy="95" r="12" fill="white"/>
     <text x="100" y="101" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#28a745">
       kr
     </text>
   </g>
   
-  <!-- Method 3: Kombinert Metode -->
+
   <g transform="translate(550, 80)">
     <rect x="0" y="0" width="200" height="120" fill="url(#combinedGradient)" rx="10" filter="url(#shadow)"/>
     <text x="100" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
@@ -93,19 +93,19 @@
       og utbetaling
     </text>
     
-    <!-- Split icon -->
+
     <rect x="85" y="85" width="30" height="15" fill="white" rx="2"/>
     <rect x="87" y="87" width="12" height="11" fill="#6f42c1"/>
     <rect x="101" y="87" width="12" height="11" fill="white" stroke="#6f42c1" stroke-width="1"/>
   </g>
   
-  <!-- Detailed Comparison -->
+
   <g transform="translate(50, 230)">
     <text x="0" y="20" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#0066cc">
       Sammenligning av Metoder:
     </text>
     
-    <!-- Table Header -->
+
     <rect x="0" y="40" width="700" height="30" fill="#0066cc"/>
     <text x="100" y="60" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
       Metode
@@ -120,7 +120,7 @@
       Ulemper
     </text>
     
-    <!-- Row 1: Løpende trekk -->
+
     <rect x="0" y="70" width="700" height="50" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1"/>
     <text x="100" y="90" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#0066cc">
       Løpende trekk
@@ -144,7 +144,7 @@
       ved variabel lønn
     </text>
     
-    <!-- Row 2: Trekk ved utbetaling -->
+
     <rect x="0" y="120" width="700" height="50" fill="white" stroke="#dee2e6" stroke-width="1"/>
     <text x="100" y="140" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#28a745">
       Trekk ved utbetaling
@@ -168,7 +168,7 @@
       ved utbetaling
     </text>
     
-    <!-- Row 3: Kombinert metode -->
+
     <rect x="0" y="170" width="700" height="50" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1"/>
     <text x="100" y="190" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#6f42c1">
       Kombinert metode
@@ -193,7 +193,7 @@
     </text>
   </g>
   
-  <!-- Example Calculation -->
+
   <g transform="translate(50, 350)">
     <text x="0" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#0066cc">
       Eksempel - Månedslønn kr 40.000:
@@ -216,7 +216,7 @@
     </text>
   </g>
   
-  <!-- Important Note -->
+
   <g transform="translate(50, 450)">
     <rect x="0" y="0" width="700" height="30" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="5"/>
     <text x="350" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#856404">

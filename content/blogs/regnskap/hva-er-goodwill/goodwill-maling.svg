@@ -1,15 +1,15 @@
 <svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Goodwill Måling og Nedskrivning
   </text>
   
-  <!-- Main process flow -->
+
   <g transform="translate(50, 80)">
-    <!-- Step 1: Initial Recognition -->
+
     <rect x="0" y="0" width="200" height="80" rx="10" fill="#3498db" stroke="#2980b9" stroke-width="2"/>
     <text x="100" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
       Førstegangs-
@@ -21,10 +21,10 @@
       Anskaffelseskost
     </text>
     
-    <!-- Arrow 1 -->
+
     <path d="M 220 40 L 280 40" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
     
-    <!-- Step 2: Subsequent Measurement -->
+
     <rect x="300" y="0" width="200" height="80" rx="10" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
     <text x="400" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
       Etterfølgende måling
@@ -36,10 +36,10 @@
       akkumulerte nedskrivninger
     </text>
     
-    <!-- Arrow 2 -->
+
     <path d="M 520 40 L 580 40" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
     
-    <!-- Step 3: Annual Testing -->
+
     <rect x="600" y="0" width="150" height="80" rx="10" fill="#f39c12" stroke="#e67e22" stroke-width="2"/>
     <text x="675" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
       Årlig testing
@@ -52,13 +52,13 @@
     </text>
   </g>
   
-  <!-- Impairment Testing Process -->
+
   <g transform="translate(100, 220)">
     <text x="300" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">
       Nedskrivningstesting Prosess
     </text>
     
-    <!-- Step boxes -->
+
     <rect x="0" y="30" width="140" height="100" rx="8" fill="#9b59b6" stroke="#8e44ad" stroke-width="2"/>
     <text x="70" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
       1. Identifiser
@@ -103,13 +103,13 @@
       hvis nødvendig
     </text>
     
-    <!-- Arrows between steps -->
+
     <path d="M 140 80 L 160 80" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
     <path d="M 300 80 L 320 80" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
     <path d="M 460 80 L 480 80" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
   </g>
   
-  <!-- Key indicators -->
+
   <g transform="translate(50, 400)">
     <text x="350" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">
       Nedskrivningsindikatorer
@@ -163,7 +163,7 @@
     </text>
   </g>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>

@@ -6,15 +6,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#212529">
     Risikoanalyse i Forretningsplan
   </text>
   
-  <!-- Financial Risks -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="200" height="140" fill="#f8d7da" stroke="#dc3545" stroke-width="3" rx="10"/>
     <text x="100" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#721c24">
@@ -35,7 +35,7 @@
     <text x="20" y="125" font-family="Arial, sans-serif" font-size="9" fill="#721c24">• Tap på kundefordringer</text>
   </g>
   
-  <!-- Operational Risks -->
+
   <g transform="translate(300, 80)">
     <rect x="0" y="0" width="200" height="140" fill="#fff3cd" stroke="#ffc107" stroke-width="3" rx="10"/>
     <text x="100" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#856404">
@@ -56,7 +56,7 @@
     <text x="20" y="125" font-family="Arial, sans-serif" font-size="9" fill="#856404">• Avhengighet av nøkkelleverandører</text>
   </g>
   
-  <!-- Regulatory Risks -->
+
   <g transform="translate(550, 80)">
     <rect x="0" y="0" width="200" height="140" fill="#e2e3e5" stroke="#6c757d" stroke-width="3" rx="10"/>
     <text x="100" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#495057">
@@ -77,16 +77,16 @@
     <text x="20" y="125" font-family="Arial, sans-serif" font-size="9" fill="#495057">• Rapporteringsfeil</text>
   </g>
   
-  <!-- Scenario Planning -->
+
   <g transform="translate(50, 260)">
     <rect x="0" y="0" width="700" height="200" fill="white" stroke="#dee2e6" stroke-width="2" rx="10"/>
     <text x="350" y="25" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#212529">
       Scenarioplanlegging
     </text>
     
-    <!-- Scenario table -->
+
     <g transform="translate(50, 50)">
-      <!-- Header -->
+
       <rect x="0" y="0" width="600" height="25" fill="#6c757d"/>
       <text x="60" y="17" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Scenario</text>
       <text x="150" y="17" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Sannsynlighet</text>
@@ -94,7 +94,7 @@
       <text x="400" y="17" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Resultat År 1</text>
       <text x="520" y="17" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Likviditetsbehov</text>
       
-      <!-- Optimistic -->
+
       <rect x="0" y="25" width="600" height="25" fill="#e8f5e8"/>
       <text x="20" y="42" font-family="Arial, sans-serif" font-size="11" fill="#155724">Optimistisk</text>
       <text x="170" y="42" font-family="Arial, sans-serif" font-size="11" fill="#155724">20%</text>
@@ -102,7 +102,7 @@
       <text x="420" y="42" font-family="Arial, sans-serif" font-size="11" fill="#155724">800 000</text>
       <text x="540" y="42" font-family="Arial, sans-serif" font-size="11" fill="#155724">500 000</text>
       
-      <!-- Realistic -->
+
       <rect x="0" y="50" width="600" height="25" fill="#fff3cd"/>
       <text x="20" y="67" font-family="Arial, sans-serif" font-size="11" fill="#856404">Realistisk</text>
       <text x="170" y="67" font-family="Arial, sans-serif" font-size="11" fill="#856404">60%</text>
@@ -110,7 +110,7 @@
       <text x="420" y="67" font-family="Arial, sans-serif" font-size="11" fill="#856404">400 000</text>
       <text x="540" y="67" font-family="Arial, sans-serif" font-size="11" fill="#856404">750 000</text>
       
-      <!-- Pessimistic -->
+
       <rect x="0" y="75" width="600" height="25" fill="#f8d7da"/>
       <text x="20" y="92" font-family="Arial, sans-serif" font-size="11" fill="#721c24">Pessimistisk</text>
       <text x="170" y="92" font-family="Arial, sans-serif" font-size="11" fill="#721c24">20%</text>
@@ -119,7 +119,7 @@
       <text x="540" y="92" font-family="Arial, sans-serif" font-size="11" fill="#721c24">1 200 000</text>
     </g>
     
-    <!-- Risk mitigation strategies -->
+
     <g transform="translate(50, 160)">
       <text x="300" y="0" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#495057">
         Risikohåndteringsstrategier

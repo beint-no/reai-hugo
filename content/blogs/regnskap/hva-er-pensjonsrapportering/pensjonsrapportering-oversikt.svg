@@ -10,15 +10,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#F8F9FA"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="80" fill="url(#headerGrad)"/>
   <text x="400" y="45" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="white" text-anchor="middle">PENSJONSRAPPORTERING</text>
   
-  <!-- Main components -->
-  <!-- Left side - Input -->
+
+
   <g transform="translate(50, 120)">
     <rect x="0" y="0" width="180" height="120" fill="#E3F2FD" stroke="#1976D2" stroke-width="2" rx="8"/>
     <text x="90" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1976D2" text-anchor="middle">DATAINNSAMLING</text>
@@ -28,7 +28,7 @@
     <text x="10" y="110" font-family="Arial, sans-serif" font-size="12" fill="#333">• Ordningsbestemmelser</text>
   </g>
   
-  <!-- Middle - Processing -->
+
   <g transform="translate(310, 120)">
     <rect x="0" y="0" width="180" height="120" fill="#FFF3E0" stroke="#F57C00" stroke-width="2" rx="8"/>
     <text x="90" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#F57C00" text-anchor="middle">REGNSKAPSFØRING</text>
@@ -38,7 +38,7 @@
     <text x="10" y="110" font-family="Arial, sans-serif" font-size="12" fill="#333">• Avstemming</text>
   </g>
   
-  <!-- Right side - Output -->
+
   <g transform="translate(570, 120)">
     <rect x="0" y="0" width="180" height="120" fill="#F3E5F5" stroke="#7B1FA2" stroke-width="2" rx="8"/>
     <text x="90" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#7B1FA2" text-anchor="middle">RAPPORTERING</text>
@@ -48,18 +48,18 @@
     <text x="10" y="110" font-family="Arial, sans-serif" font-size="12" fill="#333">• Årsrapport</text>
   </g>
   
-  <!-- Arrows -->
+
   <path d="M 240 180 L 300 180" stroke="#666" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 500 180 L 560 180" stroke="#666" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#666"/>
     </marker>
   </defs>
   
-  <!-- Bottom section - Compliance -->
+
   <g transform="translate(100, 300)">
     <rect x="0" y="0" width="600" height="80" fill="url(#boxGrad)" rx="10"/>
     <text x="300" y="30" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">LOVKRAV &amp; STANDARDER</text>
@@ -68,7 +68,7 @@
     <text x="450" y="55" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle">IFRS</text>
   </g>
   
-  <!-- Key principles -->
+
   <g transform="translate(50, 420)">
     <text x="0" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2E86AB">NØKKELPRINSIPPER:</text>
     
@@ -93,7 +93,7 @@
     </g>
   </g>
   
-  <!-- Types of pension schemes -->
+
   <g transform="translate(450, 420)">
     <rect x="0" y="0" width="140" height="40" fill="#E8F5E8" stroke="#4CAF50" stroke-width="1" rx="5"/>
     <text x="70" y="15" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2E7D32" text-anchor="middle">INNSKUDDSPENSJON</text>

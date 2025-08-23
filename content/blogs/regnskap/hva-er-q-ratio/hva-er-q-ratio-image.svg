@@ -11,28 +11,28 @@
     </style>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#ffffff"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" class="title" text-anchor="middle">Q-ratio (Tobin's Q) Konsept</text>
   
-  <!-- Formula Box -->
+
   <rect x="250" y="70" width="300" height="60" class="box" rx="10"/>
   <text x="400" y="95" class="formula" text-anchor="middle">Q-ratio = Markedsverdi</text>
   <text x="400" y="115" class="formula" text-anchor="middle">Bokført verdi av eiendeler</text>
   
-  <!-- Left side - Markedsverdi -->
+
   <rect x="50" y="170" width="300" height="250" class="market-box" rx="10"/>
   <text x="200" y="200" class="header" text-anchor="middle">Markedsverdi</text>
   
-  <!-- Stock icon representation -->
+
   <rect x="120" y="220" width="160" height="80" fill="#1abc9c" rx="5"/>
   <text x="200" y="245" class="text" text-anchor="middle" fill="white">Aksjer × Aksjekurs</text>
   <text x="200" y="265" class="text" text-anchor="middle" fill="white">+</text>
   <text x="200" y="285" class="text" text-anchor="middle" fill="white">Markedsverdi gjeld</text>
   
-  <!-- Market indicators -->
+
   <circle cx="80" cy="340" r="8" fill="#e74c3c"/>
   <text x="100" y="345" class="text">Børskurs</text>
   
@@ -42,17 +42,17 @@
   <circle cx="80" cy="390" r="8" fill="#e74c3c"/>
   <text x="100" y="395" class="text">Fremtidsforventninger</text>
   
-  <!-- Right side - Bokført verdi -->
+
   <rect x="450" y="170" width="300" height="250" class="book-box" rx="10"/>
   <text x="600" y="200" class="header" text-anchor="middle">Bokført Verdi</text>
   
-  <!-- Balance sheet representation -->
+
   <rect x="520" y="220" width="160" height="80" fill="#f39c12" rx="5"/>
   <text x="600" y="245" class="text" text-anchor="middle" fill="white">Anleggsmidler</text>
   <text x="600" y="265" class="text" text-anchor="middle" fill="white">+</text>
   <text x="600" y="285" class="text" text-anchor="middle" fill="white">Omløpsmidler</text>
   
-  <!-- Book value indicators -->
+
   <circle cx="480" cy="340" r="8" fill="#e67e22"/>
   <text x="500" y="345" class="text">Historisk kost</text>
   
@@ -62,7 +62,7 @@
   <circle cx="480" cy="390" r="8" fill="#e67e22"/>
   <text x="500" y="395" class="text">Balanseført verdi</text>
   
-  <!-- Interpretation box -->
+
   <rect x="150" y="450" width="500" height="40" class="box" rx="5"/>
   <text x="400" y="465" class="text" text-anchor="middle">Q &gt; 1: Overvurdert | Q = 1: Rettferdig | Q &lt; 1: Undervurdert</text>
   <text x="400" y="480" class="text" text-anchor="middle">Brukes til investeringsanalyse og verdivurdering</text>

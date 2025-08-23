@@ -18,15 +18,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="400" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2e7d32">
     Tre Kriterier for Taksonomitilpassede Aktiviteter
   </text>
   
-  <!-- Criterion 1: Substantial Contribution -->
+
   <g transform="translate(130, 120)">
     <rect x="-80" y="-40" width="160" height="80" fill="url(#criterion1)" rx="10"/>
     <text x="0" y="-20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
@@ -42,20 +42,20 @@
       ett av seks miljømål
     </text>
     
-    <!-- Icon: Plus sign -->
+
     <circle cx="0" cy="-55" r="12" fill="#c8e6c9"/>
     <text x="0" y="-50" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1b5e20">
       +
     </text>
   </g>
   
-  <!-- Arrow 1 -->
+
   <g fill="#2e7d32">
     <polygon points="240,120 270,115 270,125" />
     <line x1="210" y1="120" x2="240" y2="120" stroke="#2e7d32" stroke-width="3"/>
   </g>
   
-  <!-- Criterion 2: Do No Significant Harm -->
+
   <g transform="translate(400, 120)">
     <rect x="-80" y="-40" width="160" height="80" fill="url(#criterion2)" rx="10"/>
     <text x="0" y="-20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
@@ -71,20 +71,20 @@
       miljømål (DNSH)
     </text>
     
-    <!-- Icon: Shield -->
+
     <path d="M -8,-65 Q 0,-70 8,-65 L 8,-45 Q 0,-40 -8,-45 Z" fill="#ffe0b2"/>
     <text x="0" y="-50" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e65100">
       !
     </text>
   </g>
   
-  <!-- Arrow 2 -->
+
   <g fill="#2e7d32">
     <polygon points="510,120 540,115 540,125" />
     <line x1="480" y1="120" x2="510" y2="120" stroke="#2e7d32" stroke-width="3"/>
   </g>
   
-  <!-- Criterion 3: Minimum Safeguards -->
+
   <g transform="translate(670, 120)">
     <rect x="-80" y="-40" width="160" height="80" fill="url(#criterion3)" rx="10"/>
     <text x="0" y="-20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
@@ -100,13 +100,13 @@
       standarder oppfylles
     </text>
     
-    <!-- Icon: Handshake -->
+
     <rect x="-10" y="-65" width="20" height="15" fill="#bbdefb" rx="3"/>
     <circle cx="-5" cy="-52" r="3" fill="#bbdefb"/>
     <circle cx="5" cy="-52" r="3" fill="#bbdefb"/>
   </g>
   
-  <!-- Result Box -->
+
   <rect x="200" y="250" width="400" height="100" fill="white" stroke="#4caf50" stroke-width="3" rx="15"/>
   <text x="400" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2e7d32">
     = Taksonomitilpasset Aktivitet
@@ -118,13 +118,13 @@
     og kan rapporteres som del av taksonomitilpassede aktiviteter
   </text>
   
-  <!-- Arrow pointing to result -->
+
   <g fill="#4caf50">
     <polygon points="400,220 395,240 405,240" />
     <line x1="400" y1="180" x2="400" y2="220" stroke="#4caf50" stroke-width="3"/>
   </g>
   
-  <!-- Examples boxes -->
+
   <g transform="translate(50, 220)">
     <rect x="0" y="0" width="120" height="60" fill="#e8f5e8" stroke="#4caf50" stroke-width="1" rx="5"/>
     <text x="60" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#2e7d32">

@@ -10,18 +10,18 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
     Historisk Utvikling av Arbeidsgiveravgift
   </text>
   
-  <!-- Timeline line -->
+
   <line x1="100" y1="250" x2="700" y2="250" stroke="url(#timelineGradient)" stroke-width="4"/>
   
-  <!-- 1975 - Innføring -->
+
   <g transform="translate(150, 250)">
     <circle cx="0" cy="0" r="8" fill="#0066cc"/>
     <line x1="0" y1="0" x2="0" y2="-80" stroke="#666" stroke-width="2"/>
@@ -40,7 +40,7 @@
     </text>
   </g>
   
-  <!-- 1990-tallet - Geografisk differensiering -->
+
   <g transform="translate(300, 250)">
     <circle cx="0" cy="0" r="8" fill="#0066cc"/>
     <line x1="0" y1="0" x2="0" y2="80" stroke="#666" stroke-width="2"/>
@@ -59,7 +59,7 @@
     </text>
   </g>
   
-  <!-- 2004 - EU/EØS tilpasning -->
+
   <g transform="translate(450, 250)">
     <circle cx="0" cy="0" r="8" fill="#0066cc"/>
     <line x1="0" y1="0" x2="0" y2="-80" stroke="#666" stroke-width="2"/>
@@ -78,7 +78,7 @@
     </text>
   </g>
   
-  <!-- 2015 - A-ordningen -->
+
   <g transform="translate(600, 250)">
     <circle cx="0" cy="0" r="8" fill="#0066cc"/>
     <line x1="0" y1="0" x2="0" y2="80" stroke="#666" stroke-width="2"/>
@@ -97,7 +97,7 @@
     </text>
   </g>
   
-  <!-- Key developments box -->
+
   <g transform="translate(50, 350)">
     <rect x="0" y="0" width="700" height="120" fill="white" stroke="#0066cc" stroke-width="2" rx="10"/>
     <text x="20" y="25" fill="#0066cc" font-family="Arial, sans-serif" font-size="16" font-weight="bold">

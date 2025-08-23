@@ -18,15 +18,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="700" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
     Kreditorhåndtering Prosess
   </text>
   
-  <!-- Step 1: Purchase Order -->
+
   <rect x="50" y="70" width="300" height="100" fill="white" stroke="#0066cc" stroke-width="2" rx="8"/>
   <rect x="50" y="70" width="300" height="30" fill="url(#processGradient)" rx="8 8 0 0"/>
   <text x="200" y="90" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
@@ -45,10 +45,10 @@
     • Sendt til leverandør
   </text>
   
-  <!-- Arrow 1 -->
+
   <path d="M 370 120 L 430 120" stroke="#0066cc" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 2: Delivery -->
+
   <rect x="450" y="70" width="300" height="100" fill="white" stroke="#0066cc" stroke-width="2" rx="8"/>
   <rect x="450" y="70" width="300" height="30" fill="url(#processGradient)" rx="8 8 0 0"/>
   <text x="600" y="90" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
@@ -67,10 +67,10 @@
     • Registrering i lager
   </text>
   
-  <!-- Arrow 2 -->
+
   <path d="M 600 190 L 600 220" stroke="#0066cc" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 3: Invoice Receipt -->
+
   <rect x="450" y="240" width="300" height="100" fill="white" stroke="#0066cc" stroke-width="2" rx="8"/>
   <rect x="450" y="240" width="300" height="30" fill="url(#processGradient)" rx="8 8 0 0"/>
   <text x="600" y="260" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
@@ -89,10 +89,10 @@
     • Forfallsdato notert
   </text>
   
-  <!-- Arrow 3 -->
+
   <path d="M 430 290 L 370 290" stroke="#0066cc" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 4: Three-way Match -->
+
   <rect x="50" y="240" width="300" height="100" fill="white" stroke="#ffc107" stroke-width="2" rx="8"/>
   <rect x="50" y="240" width="300" height="30" fill="url(#controlGradient)" rx="8 8 0 0"/>
   <text x="200" y="260" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
@@ -111,10 +111,10 @@
     • Identifiser avvik
   </text>
   
-  <!-- Arrow 4 -->
+
   <path d="M 200 360 L 200 390" stroke="#0066cc" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 5: Approval -->
+
   <rect x="50" y="410" width="300" height="100" fill="white" stroke="#28a745" stroke-width="2" rx="8"/>
   <rect x="50" y="410" width="300" height="30" fill="url(#stepGradient)" rx="8 8 0 0"/>
   <text x="200" y="430" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
@@ -133,10 +133,10 @@
     • Registrering av leverandørgjeld
   </text>
   
-  <!-- Arrow 5 -->
+
   <path d="M 370 460 L 430 460" stroke="#0066cc" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 6: Payment Planning -->
+
   <rect x="450" y="410" width="300" height="100" fill="white" stroke="#28a745" stroke-width="2" rx="8"/>
   <rect x="450" y="410" width="300" height="30" fill="url(#stepGradient)" rx="8 8 0 0"/>
   <text x="600" y="430" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
@@ -155,10 +155,10 @@
     • Betalingsprioritet satt
   </text>
   
-  <!-- Arrow 6 -->
+
   <path d="M 600 530 L 600 560" stroke="#0066cc" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 7: Payment -->
+
   <rect x="450" y="580" width="300" height="100" fill="white" stroke="#dc3545" stroke-width="2" rx="8"/>
   <rect x="450" y="580" width="300" height="30" fill="#dc3545" rx="8 8 0 0"/>
   <text x="600" y="600" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
@@ -177,10 +177,10 @@
     • Betalingsbekreftelse arkivert
   </text>
   
-  <!-- Arrow 7 -->
+
   <path d="M 430 630 L 370 630" stroke="#0066cc" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 8: Reconciliation -->
+
   <rect x="50" y="580" width="300" height="100" fill="white" stroke="#6f42c1" stroke-width="2" rx="8"/>
   <rect x="50" y="580" width="300" height="30" fill="#6f42c1" rx="8 8 0 0"/>
   <text x="200" y="600" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
@@ -199,7 +199,7 @@
     • Dokumentasjon
   </text>
   
-  <!-- Control points -->
+
   <circle cx="200" cy="370" r="15" fill="#ffc107" stroke="#fd7e14" stroke-width="2"/>
   <text x="200" y="375" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10" font-weight="bold">
     K1
@@ -215,12 +215,12 @@
     K3
   </text>
   
-  <!-- Legend -->
+
   <text x="50" y="30" fill="#666" font-family="Arial, sans-serif" font-size="12">
     K1-K3: Kontrollpunkter for internkontroll
   </text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#0066cc"/>

@@ -1,90 +1,90 @@
 <svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">Fintech Integrasjonsarkitektur</text>
   
-  <!-- Core ERP/Accounting System -->
+
   <rect x="300" y="250" width="200" height="100" rx="15" fill="#3498db" stroke="#2980b9" stroke-width="3"/>
   <text x="400" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">ERP/Regnskap</text>
   <text x="400" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">Kjernesystem</text>
   <text x="400" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">• Hovedbok</text>
   <text x="400" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">• Rapporter</text>
   
-  <!-- Banking Integration -->
+
   <rect x="50" y="100" width="150" height="80" rx="10" fill="#27ae60" stroke="#229954" stroke-width="2"/>
   <text x="125" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Bank API</text>
   <text x="125" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Transaksjoner</text>
   <text x="125" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Saldoer</text>
   <text x="125" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Betalinger</text>
   
-  <!-- Payment Processors -->
+
   <rect x="600" y="100" width="150" height="80" rx="10" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
   <text x="675" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Betalings-</text>
   <text x="675" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">prosessorer</text>
   <text x="675" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Stripe</text>
   <text x="675" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Vipps</text>
   
-  <!-- E-commerce Platforms -->
+
   <rect x="50" y="400" width="150" height="80" rx="10" fill="#9b59b6" stroke="#8e44ad" stroke-width="2"/>
   <text x="125" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">E-handel</text>
   <text x="125" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Shopify</text>
   <text x="125" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• WooCommerce</text>
   <text x="125" y="475" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Magento</text>
   
-  <!-- CRM Systems -->
+
   <rect x="600" y="400" width="150" height="80" rx="10" fill="#f39c12" stroke="#e67e22" stroke-width="2"/>
   <text x="675" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">CRM</text>
   <text x="675" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Salesforce</text>
   <text x="675" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• HubSpot</text>
   <text x="675" y="475" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Pipedrive</text>
   
-  <!-- Document Management -->
+
   <rect x="50" y="250" width="150" height="80" rx="10" fill="#34495e" stroke="#2c3e50" stroke-width="2"/>
   <text x="125" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Dokument-</text>
   <text x="125" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">håndtering</text>
   <text x="125" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• OCR</text>
   <text x="125" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• AI-kategorisering</text>
   
-  <!-- Business Intelligence -->
+
   <rect x="600" y="250" width="150" height="80" rx="10" fill="#16a085" stroke="#138d75" stroke-width="2"/>
   <text x="675" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Business</text>
   <text x="675" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Intelligence</text>
   <text x="675" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Power BI</text>
   <text x="675" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Tableau</text>
   
-  <!-- API Gateway -->
+
   <ellipse cx="400" cy="200" rx="80" ry="30" fill="#e67e22" stroke="#d35400" stroke-width="2"/>
   <text x="400" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">API Gateway</text>
   
-  <!-- Data Warehouse -->
+
   <ellipse cx="400" cy="400" rx="80" ry="30" fill="#8e44ad" stroke="#7d3c98" stroke-width="2"/>
   <text x="400" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Data Warehouse</text>
   
-  <!-- Connection Lines -->
-  <!-- To API Gateway -->
+
+
   <line x1="200" y1="140" x2="340" y2="185" stroke="#7f8c8d" stroke-width="2"/>
   <line x1="600" y1="140" x2="460" y2="185" stroke="#7f8c8d" stroke-width="2"/>
   <line x1="200" y1="290" x2="320" y2="215" stroke="#7f8c8d" stroke-width="2"/>
   <line x1="600" y1="290" x2="480" y2="215" stroke="#7f8c8d" stroke-width="2"/>
   
-  <!-- From API Gateway to Core -->
+
   <line x1="400" y1="230" x2="400" y2="250" stroke="#2c3e50" stroke-width="3"/>
   
-  <!-- From Core to Data Warehouse -->
+
   <line x1="400" y1="350" x2="400" y2="370" stroke="#2c3e50" stroke-width="3"/>
   
-  <!-- From Data Warehouse -->
+
   <line x1="320" y1="415" x2="200" y2="440" stroke="#7f8c8d" stroke-width="2"/>
   <line x1="480" y1="415" x2="600" y2="440" stroke="#7f8c8d" stroke-width="2"/>
   
-  <!-- Security Layer -->
+
   <rect x="250" y="520" width="300" height="60" rx="10" fill="#c0392b" stroke="#a93226" stroke-width="2"/>
   <text x="400" y="545" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">Sikkerhetslag</text>
   <text x="400" y="565" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">OAuth 2.0 • JWT • TLS/SSL • API Keys • Rate Limiting</text>
   
-  <!-- Data Flow Indicators -->
+
   <circle cx="275" cy="170" r="8" fill="#e74c3c"/>
   <text x="275" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">IN</text>
   
@@ -97,7 +97,7 @@
   <circle cx="525" cy="370" r="8" fill="#9b59b6"/>
   <text x="525" y="375" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">ANAL</text>
   
-  <!-- Performance Metrics -->
+
   <rect x="50" y="50" width="120" height="40" rx="5" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
   <text x="110" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#2c3e50">Ytelse</text>
   <text x="110" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#7f8c8d">99.9% Oppetid</text>

@@ -9,16 +9,16 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGrad)"/>
   <text x="400" y="35" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="white">
     MVA-Satser per Næring
   </text>
   
-  <!-- 25% MVA Section -->
+
   <rect x="50" y="90" width="680" height="80" fill="#ffebee" stroke="#d32f2f" stroke-width="2" rx="8" filter="url(#shadow)"/>
   <text x="80" y="115" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#d32f2f">
     25% MVA - Generell handel
@@ -30,7 +30,7 @@
     • Byggevarer • Biler og drivstoff • Reparasjonstjenester • Frisør og skjønnhet
   </text>
   
-  <!-- 15% MVA Section -->
+
   <rect x="50" y="190" width="680" height="80" fill="#fff3e0" stroke="#f57c00" stroke-width="2" rx="8" filter="url(#shadow)"/>
   <text x="80" y="215" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#f57c00">
     15% MVA - Matvarer
@@ -42,13 +42,13 @@
     • Kjøtt, fisk og meieriprodukter • Brød og bakevarer • Kaffe og te
   </text>
   
-  <!-- 0% MVA Section -->
+
   <rect x="50" y="290" width="680" height="120" fill="#e8f5e8" stroke="#388e3c" stroke-width="2" rx="8" filter="url(#shadow)"/>
   <text x="80" y="315" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#388e3c">
     0% MVA - Fritatte tjenester og varer
   </text>
   
-  <!-- 0% MVA content in columns -->
+
   <text x="80" y="335" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2e7d32">
     Transport:
   </text>
@@ -91,7 +91,7 @@
     • Reseptbelagte medisiner
   </text>
   
-  <!-- MVA Registration info -->
+
   <rect x="50" y="430" width="680" height="50" fill="#e3f2fd" stroke="#1976d2" stroke-width="1" rx="5"/>
   <text x="80" y="450" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1976d2">
     MVA-Registrering og Rapportering
@@ -100,7 +100,7 @@
     Virksomheter må registrere seg i MVA-registeret basert på næring og levere MVA-melding regelmessig
   </text>
   
-  <!-- Visual indicators -->
+
   <circle cx="700" cy="130" r="25" fill="#d32f2f" stroke="white" stroke-width="3"/>
   <text x="700" y="138" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
     25%

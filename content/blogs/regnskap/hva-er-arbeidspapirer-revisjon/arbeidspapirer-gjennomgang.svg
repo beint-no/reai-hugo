@@ -10,19 +10,19 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8fafc"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
   <text x="400" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
     Gjennomgang og Kvalitetskontroll av Arbeidspapirer
   </text>
   
-  <!-- Process Flow -->
+
   <g transform="translate(50, 120)">
     
-    <!-- Level 1: Self Review -->
+
     <rect x="0" y="0" width="160" height="100" rx="10" fill="url(#processGradient)" stroke="#3b82f6" stroke-width="2"/>
     <text x="80" y="25" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       1. Selvgjennomgang
@@ -40,10 +40,10 @@
       ✓ Dokumentasjon
     </text>
     
-    <!-- Arrow 1 -->
+
     <path d="M 170 50 L 190 50" stroke="#6b7280" stroke-width="2" marker-end="url(#arrowhead)"/>
     
-    <!-- Level 2: Colleague Review -->
+
     <rect x="200" y="0" width="160" height="100" rx="10" fill="url(#processGradient)" stroke="#059669" stroke-width="2"/>
     <text x="280" y="25" text-anchor="middle" fill="#047857" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       2. Kollegagjennomgang
@@ -61,10 +61,10 @@
       ✓ Hensiktsmessighet
     </text>
     
-    <!-- Arrow 2 -->
+
     <path d="M 370 50 L 390 50" stroke="#6b7280" stroke-width="2" marker-end="url(#arrowhead)"/>
     
-    <!-- Level 3: Partner Review -->
+
     <rect x="400" y="0" width="160" height="100" rx="10" fill="url(#processGradient)" stroke="#dc2626" stroke-width="2"/>
     <text x="480" y="25" text-anchor="middle" fill="#b91c1c" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       3. Partnergjennomgang
@@ -82,10 +82,10 @@
       ✓ Standarder
     </text>
     
-    <!-- Arrow 3 -->
+
     <path d="M 570 50 L 590 50" stroke="#6b7280" stroke-width="2" marker-end="url(#arrowhead)"/>
     
-    <!-- Level 4: Quality Control Review -->
+
     <rect x="600" y="0" width="160" height="100" rx="10" fill="url(#processGradient)" stroke="#7c2d12" stroke-width="2"/>
     <text x="680" y="20" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
       4. Kvalitetskontroll-
@@ -105,14 +105,14 @@
     
   </g>
   
-  <!-- Quality Indicators Section -->
+
   <g transform="translate(50, 260)">
     <rect x="0" y="0" width="700" height="180" rx="10" fill="#ffffff" stroke="#d1d5db" stroke-width="1"/>
     <text x="350" y="25" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
       Kvalitetsindikatorer
     </text>
     
-    <!-- Quantitative Measures -->
+
     <g transform="translate(20, 50)">
       <text x="0" y="0" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
         Kvantitative Mål:
@@ -131,7 +131,7 @@
       </text>
     </g>
     
-    <!-- Qualitative Measures -->
+
     <g transform="translate(360, 50)">
       <text x="0" y="0" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
         Kvalitative Vurderinger:
@@ -151,7 +151,7 @@
     </g>
   </g>
   
-  <!-- Review Focus Areas -->
+
   <g transform="translate(50, 470)">
     <rect x="0" y="0" width="700" height="100" rx="10" fill="#fef3c7" stroke="#f59e0b" stroke-width="1"/>
     <text x="350" y="25" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
@@ -181,7 +181,7 @@
     </g>
   </g>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#6b7280"/>

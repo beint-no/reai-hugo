@@ -11,69 +11,69 @@
     .connector { stroke: #4a5568; stroke-width: 2; }
   </style>
   
-  <!-- Title -->
+
   <text x="350" y="30" class="title-text" text-anchor="middle">Aktiva Klassifisering</text>
   
-  <!-- Main AKTIVA box -->
+
   <rect x="250" y="60" width="200" height="40" fill="#e6ffe6" stroke="#38a169" stroke-width="3" rx="5"/>
   <text x="350" y="85" class="main-category" text-anchor="middle">AKTIVA</text>
   
-  <!-- Connectors from main box -->
+
   <line x1="300" y1="100" x2="300" y2="130" class="connector"/>
   <line x1="400" y1="100" x2="400" y2="130" class="connector"/>
   <line x1="300" y1="130" x2="400" y2="130" class="connector"/>
   
-  <!-- Anleggsmidler section -->
+
   <rect x="50" y="150" width="250" height="250" class="anlegg-box" rx="10"/>
   <text x="175" y="175" class="main-category" text-anchor="middle">ANLEGGSMIDLER</text>
   <text x="175" y="195" class="desc-text" text-anchor="middle">(Faste eiendeler - varig eie og bruk)</text>
   
-  <!-- Materielle anleggsmidler -->
+
   <rect x="70" y="210" width="210" height="60" class="sub-box" rx="5"/>
   <text x="175" y="230" class="sub-category" text-anchor="middle">Materielle Anleggsmidler</text>
   <text x="80" y="250" class="item-text">• Bygninger og tomter</text>
   <text x="80" y="265" class="item-text">• Maskiner og utstyr</text>
   
-  <!-- Immaterielle anleggsmidler -->
+
   <rect x="70" y="280" width="210" height="60" class="sub-box" rx="5"/>
   <text x="175" y="300" class="sub-category" text-anchor="middle">Immaterielle Anleggsmidler</text>
   <text x="80" y="320" class="item-text">• Patenter og lisenser</text>
   <text x="80" y="335" class="item-text">• Varemerker og goodwill</text>
   
-  <!-- Finansielle anleggsmidler -->
+
   <rect x="70" y="350" width="210" height="40" class="sub-box" rx="5"/>
   <text x="175" y="370" class="sub-category" text-anchor="middle">Finansielle Anleggsmidler</text>
   <text x="80" y="385" class="item-text">• Langsiktige investeringer</text>
   
-  <!-- Omløpsmidler section -->
+
   <rect x="400" y="150" width="250" height="250" class="omlop-box" rx="10"/>
   <text x="525" y="175" class="main-category" text-anchor="middle">OMLØPSMIDLER</text>
   <text x="525" y="195" class="desc-text" text-anchor="middle">(Kortsiktige eiendeler - omsettes innen 1 år)</text>
   
-  <!-- Varelager -->
+
   <rect x="420" y="210" width="210" height="45" class="sub-box" rx="5"/>
   <text x="525" y="230" class="sub-category" text-anchor="middle">Varelager</text>
   <text x="430" y="245" class="item-text">• Råvarer, ferdigvarer</text>
   
-  <!-- Fordringer -->
+
   <rect x="420" y="265" width="210" height="45" class="sub-box" rx="5"/>
   <text x="525" y="285" class="sub-category" text-anchor="middle">Fordringer</text>
   <text x="430" y="300" class="item-text">• Kundefordringer</text>
   
-  <!-- Kortsiktige investeringer -->
+
   <rect x="420" y="320" width="210" height="45" class="sub-box" rx="5"/>
   <text x="525" y="340" class="sub-category" text-anchor="middle">Kortsiktige Investeringer</text>
   <text x="430" y="355" class="item-text">• Markedsbaserte verdipapirer</text>
   
-  <!-- Kontanter -->
+
   <rect x="420" y="375" width="210" height="20" class="sub-box" rx="5"/>
   <text x="525" y="387" class="sub-category" text-anchor="middle">Kontanter og Bank</text>
   
-  <!-- Connectors to main categories -->
+
   <line x1="300" y1="130" x2="175" y2="150" class="connector"/>
   <line x1="400" y1="130" x2="525" y2="150" class="connector"/>
   
-  <!-- Key principle -->
+
   <rect x="150" y="420" width="400" height="25" fill="#f0fff4" stroke="#38a169" stroke-width="1" rx="5"/>
   <text x="350" y="437" class="desc-text" text-anchor="middle">Klassifisering basert på tidsperspektiv og formål med eiendelen</text>
 </svg>

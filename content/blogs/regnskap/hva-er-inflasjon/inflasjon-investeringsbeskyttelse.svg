@@ -1,15 +1,15 @@
 <svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">Inflasjonsbeskyttelse for Ulike Investeringer</text>
   
-  <!-- Protection scale -->
+
   <g transform="translate(50, 80)">
     <text x="350" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">Beskyttelsesnivå mot Inflasjon</text>
     
-    <!-- Scale bar -->
+
     <defs>
       <linearGradient id="protectionGradient" x1="0%" y1="0%" x2="100%" y2="0%">
         <stop offset="0%" style="stop-color:#e74c3c;stop-opacity:1" />
@@ -22,7 +22,7 @@
     
     <rect x="50" y="40" width="600" height="30" fill="url(#protectionGradient)" rx="15"/>
     
-    <!-- Scale labels -->
+
     <text x="80" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#e74c3c">Lav</text>
     <text x="200" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#f39c12">Moderat</text>
     <text x="350" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#f1c40f">Middels</text>
@@ -30,9 +30,9 @@
     <text x="620" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#27ae60">Høy</text>
   </g>
   
-  <!-- Investment types -->
+
   
-  <!-- Bank deposits - Low protection -->
+
   <g transform="translate(50, 150)">
     <rect x="0" y="0" width="140" height="100" fill="#e74c3c" rx="10"/>
     <text x="70" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Bankinnskudd</text>
@@ -43,7 +43,7 @@
     <text x="15" y="91" font-family="Arial, sans-serif" font-size="10" fill="white">• Taper kjøpekraft</text>
   </g>
   
-  <!-- Bonds - Low to moderate -->
+
   <g transform="translate(210, 150)">
     <rect x="0" y="0" width="140" height="100" fill="#f39c12" rx="10"/>
     <text x="70" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Obligasjoner</text>
@@ -54,7 +54,7 @@
     <text x="15" y="91" font-family="Arial, sans-serif" font-size="10" fill="white">• Inflasjonsobligasjoner +</text>
   </g>
   
-  <!-- Stocks - Moderate to high -->
+
   <g transform="translate(370, 150)">
     <rect x="0" y="0" width="140" height="100" fill="#f1c40f" rx="10"/>
     <text x="70" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Aksjer</text>
@@ -65,7 +65,7 @@
     <text x="15" y="91" font-family="Arial, sans-serif" font-size="10" fill="white">• Langsiktig +</text>
   </g>
   
-  <!-- Real estate - High -->
+
   <g transform="translate(530, 150)">
     <rect x="0" y="0" width="140" height="100" fill="#2ecc71" rx="10"/>
     <text x="70" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Eiendom</text>
@@ -76,7 +76,7 @@
     <text x="15" y="91" font-family="Arial, sans-serif" font-size="10" fill="white">• Fysisk eiendel</text>
   </g>
   
-  <!-- Commodities - High -->
+
   <g transform="translate(210, 280)">
     <rect x="0" y="0" width="140" height="100" fill="#27ae60" rx="10"/>
     <text x="70" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Råvarer</text>
@@ -87,7 +87,7 @@
     <text x="15" y="91" font-family="Arial, sans-serif" font-size="10" fill="white">• Høy volatilitet</text>
   </g>
   
-  <!-- Inflation-linked bonds -->
+
   <g transform="translate(370, 280)">
     <rect x="0" y="0" width="140" height="100" fill="#27ae60" rx="10"/>
     <text x="70" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="white">Inflasjonsobligasjoner</text>
@@ -98,51 +98,51 @@
     <text x="15" y="91" font-family="Arial, sans-serif" font-size="10" fill="white">• Lav volatilitet</text>
   </g>
   
-  <!-- Performance comparison chart -->
+
   <g transform="translate(50, 420)">
     <text x="350" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">Historisk Ytelse ved 3% Inflasjon</text>
     
-    <!-- Chart background -->
+
     <rect x="0" y="40" width="700" height="120" fill="white" stroke="#bdc3c7" stroke-width="1" rx="5"/>
     
-    <!-- Y-axis labels -->
+
     <text x="30" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">8%</text>
     <text x="30" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">6%</text>
     <text x="30" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">4%</text>
     <text x="30" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">2%</text>
     <text x="30" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">0%</text>
     
-    <!-- Inflation line -->
+
     <line x1="50" y1="120" x2="650" y2="120" stroke="#e74c3c" stroke-width="2" stroke-dasharray="5,5"/>
     <text x="660" y="125" font-family="Arial, sans-serif" font-size="10" fill="#e74c3c">3% Inflasjon</text>
     
-    <!-- Performance bars -->
-    <!-- Bank deposits: 1.5% -->
+
+
     <rect x="70" y="135" width="40" height="15" fill="#e74c3c"/>
     <text x="90" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#34495e">Bank</text>
     <text x="90" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#34495e">1,5%</text>
     
-    <!-- Bonds: 2.5% -->
+
     <rect x="150" y="125" width="40" height="25" fill="#f39c12"/>
     <text x="170" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#34495e">Obligasjoner</text>
     <text x="170" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#34495e">2,5%</text>
     
-    <!-- Stocks: 7% -->
+
     <rect x="230" y="85" width="40" height="65" fill="#f1c40f"/>
     <text x="250" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#34495e">Aksjer</text>
     <text x="250" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#34495e">7,0%</text>
     
-    <!-- Real estate: 5.5% -->
+
     <rect x="310" y="100" width="40" height="50" fill="#2ecc71"/>
     <text x="330" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#34495e">Eiendom</text>
     <text x="330" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#34495e">5,5%</text>
     
-    <!-- Commodities: 6% -->
+
     <rect x="390" y="95" width="40" height="55" fill="#27ae60"/>
     <text x="410" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#34495e">Råvarer</text>
     <text x="410" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#34495e">6,0%</text>
     
-    <!-- Inflation bonds: 3.2% -->
+
     <rect x="470" y="118" width="40" height="32" fill="#27ae60"/>
     <text x="490" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#34495e">Inflasjonsobl.</text>
     <text x="490" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#34495e">3,2%</text>

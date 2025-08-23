@@ -18,19 +18,19 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">Hjemmekontor Periodisering</text>
   <text x="400" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#7f8c8d">Fordeling av hjemmekontorkostnader over regnskapsåret</text>
   
-  <!-- Annual Cost Overview -->
+
   <g transform="translate(50, 100)">
     <rect x="0" y="0" width="700" height="80" fill="url(#yearlyGradient)" stroke="#c0392b" stroke-width="2" rx="10"/>
     <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">Årlige Hjemmekontorkostnader</text>
     
-    <!-- Cost breakdown -->
+
     <g transform="translate(50, 40)">
       <text x="0" y="0" font-family="Arial, sans-serif" font-size="14" fill="white">Strøm: 24 000 kr</text>
       <text x="150" y="0" font-family="Arial, sans-serif" font-size="14" fill="white">Forsikring: 12 000 kr</text>
@@ -44,15 +44,15 @@
     </g>
   </g>
   
-  <!-- Monthly Timeline -->
+
   <g transform="translate(50, 220)">
     <rect x="0" y="0" width="700" height="200" fill="white" stroke="#34495e" stroke-width="2" rx="10"/>
     <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">Månedlig Periodisering</text>
     
-    <!-- Timeline -->
+
     <line x1="50" y1="60" x2="650" y2="60" stroke="#7f8c8d" stroke-width="2"/>
     
-    <!-- Months -->
+
     <g font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
       <g transform="translate(50, 50)">
         <circle cx="0" cy="10" r="4" fill="#3498db"/>
@@ -117,7 +117,7 @@
       </g>
     </g>
     
-    <!-- Cumulative total -->
+
     <g transform="translate(50, 130)">
       <rect x="0" y="0" width="600" height="40" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1" rx="5"/>
       <text x="300" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">Akkumulert kostnad gjennom året</text>
@@ -125,12 +125,12 @@
     </g>
   </g>
   
-  <!-- Accounting Entries -->
+
   <g transform="translate(50, 450)">
     <rect x="0" y="0" width="700" height="120" fill="url(#adjustmentGradient)" stroke="#229954" stroke-width="2" rx="10"/>
     <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">Regnskapsføring</text>
     
-    <!-- Monthly entry -->
+
     <g transform="translate(30, 40)">
       <rect x="0" y="0" width="300" height="60" fill="rgba(255,255,255,0.2)" stroke="white" stroke-width="1" rx="5"/>
       <text x="150" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Månedlig Postering</text>
@@ -138,7 +138,7 @@
       <text x="20" y="50" font-family="Arial, sans-serif" font-size="12" fill="white">Kredit: 1900 Bank 900 kr</text>
     </g>
     
-    <!-- Year-end adjustment -->
+
     <g transform="translate(370, 40)">
       <rect x="0" y="0" width="300" height="60" fill="rgba(255,255,255,0.2)" stroke="white" stroke-width="1" rx="5"/>
       <text x="150" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Årsslutt Justering</text>
@@ -147,7 +147,7 @@
     </g>
   </g>
   
-  <!-- Example Calculation Box -->
+
   <g transform="translate(550, 100)">
     <rect x="0" y="0" width="200" height="100" fill="white" stroke="#f39c12" stroke-width="2" rx="5"/>
     <text x="100" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#f39c12">Beregningseksempel</text>
@@ -157,7 +157,7 @@
     <text x="10" y="85" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#27ae60">Månedlig: 400 kr</text>
   </g>
   
-  <!-- Process arrows -->
+
   <g stroke="#7f8c8d" stroke-width="2" fill="none" marker-end="url(#arrowhead)">
     <defs>
       <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">

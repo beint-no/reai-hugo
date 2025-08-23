@@ -22,15 +22,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#333">
     NRS Anvendelsesområde
   </text>
   
-  <!-- Central NRS circle -->
+
   <circle cx="400" cy="300" r="80" fill="url(#centerGrad)"/>
   <text x="400" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
     NRS
@@ -42,7 +42,7 @@
     standard
   </text>
   
-  <!-- SMB sector -->
+
   <ellipse cx="200" cy="150" rx="120" ry="80" fill="url(#smbGrad)" stroke="#28a745" stroke-width="2"/>
   <text x="200" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     Små og mellomstore
@@ -57,7 +57,7 @@
     • Lokale virksomheter
   </text>
   
-  <!-- Konsern sector -->
+
   <ellipse cx="600" cy="150" rx="120" ry="80" fill="url(#konsernGrad)" stroke="#ffc107" stroke-width="2"/>
   <text x="600" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     Norske konsern
@@ -72,7 +72,7 @@
     • Morselskaper
   </text>
   
-  <!-- Ideelle organisasjoner -->
+
   <ellipse cx="200" cy="450" rx="120" ry="80" fill="url(#ideellGrad)" stroke="#17a2b8" stroke-width="2"/>
   <text x="200" y="435" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     Ideelle
@@ -87,7 +87,7 @@
     • Foreninger
   </text>
   
-  <!-- Offentlig sektor -->
+
   <ellipse cx="600" cy="450" rx="120" ry="80" fill="url(#offentligGrad)" stroke="#6f42c1" stroke-width="2"/>
   <text x="600" y="435" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     Offentlig sektor
@@ -102,13 +102,13 @@
     • Statsforetak
   </text>
   
-  <!-- Connection lines -->
+
   <line x1="280" y1="200" x2="340" y2="250" stroke="#666" stroke-width="2"/>
   <line x1="520" y1="200" x2="460" y2="250" stroke="#666" stroke-width="2"/>
   <line x1="280" y1="400" x2="340" y2="350" stroke="#666" stroke-width="2"/>
   <line x1="520" y1="400" x2="460" y2="350" stroke="#666" stroke-width="2"/>
   
-  <!-- Status indicators -->
+
   <rect x="50" y="50" width="200" height="120" fill="white" stroke="#28a745" stroke-width="2" rx="8"/>
   <text x="150" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#28a745">
     Obligatorisk/Anbefalt
@@ -143,7 +143,7 @@
     • Mikrobedrifter
   </text>
   
-  <!-- Excluded box -->
+
   <rect x="300" y="500" width="200" height="80" fill="white" stroke="#dc3545" stroke-width="2" rx="8"/>
   <text x="400" y="525" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#dc3545">
     Ikke tillatt
@@ -155,7 +155,7 @@
     (må bruke IFRS)
   </text>
   
-  <!-- Legend -->
+
   <rect x="50" y="500" width="180" height="80" fill="#f0f0f0" stroke="#ccc" stroke-width="1" rx="4"/>
   <text x="140" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
     Anvendelsesstatus

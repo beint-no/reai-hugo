@@ -1,13 +1,13 @@
 <svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Bank Integrasjon med 2FA
   </text>
   
-  <!-- Bank System Box -->
+
   <rect x="50" y="80" width="180" height="120" fill="#3498db" stroke="#2980b9" stroke-width="2" rx="10"/>
   <text x="140" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     Bank System
@@ -25,7 +25,7 @@
     • Likviditet
   </text>
   
-  <!-- 2FA Authentication Layer -->
+
   <rect x="300" y="80" width="200" height="120" fill="#e74c3c" stroke="#c0392b" stroke-width="2" rx="10"/>
   <text x="400" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     2FA Autentisering
@@ -40,7 +40,7 @@
     • BankID • Vipps • Hardware tokens
   </text>
   
-  <!-- Regnskapssystem Box -->
+
   <rect x="570" y="80" width="180" height="120" fill="#27ae60" stroke="#229954" stroke-width="2" rx="10"/>
   <text x="660" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     Regnskapssystem
@@ -58,13 +58,13 @@
     • Kontrakts-signering
   </text>
   
-  <!-- Arrows -->
+
   <path d="M 230 140 L 300 140" stroke="#2c3e50" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 500 140 L 570 140" stroke="#2c3e50" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Authentication Methods -->
+
   <g transform="translate(50, 250)">
-    <!-- BankID -->
+
     <rect x="0" y="0" width="120" height="80" fill="#1abc9c" stroke="#16a085" stroke-width="2" rx="8"/>
     <text x="60" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
       BankID
@@ -76,7 +76,7 @@
       Høy tillit
     </text>
     
-    <!-- Vipps -->
+
     <rect x="140" y="0" width="120" height="80" fill="#ff6b35" stroke="#e55a2b" stroke-width="2" rx="8"/>
     <text x="200" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
       Vipps
@@ -88,7 +88,7 @@
       Rask betaling
     </text>
     
-    <!-- Hardware Token -->
+
     <rect x="280" y="0" width="120" height="80" fill="#9b59b6" stroke="#8e44ad" stroke-width="2" rx="8"/>
     <text x="340" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
       Hardware Token
@@ -100,7 +100,7 @@
       Offline kapasitet
     </text>
     
-    <!-- SMS Backup -->
+
     <rect x="420" y="0" width="120" height="80" fill="#f39c12" stroke="#d68910" stroke-width="2" rx="8"/>
     <text x="480" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
       SMS Backup
@@ -113,13 +113,13 @@
     </text>
   </g>
   
-  <!-- Compliance Section -->
+
   <rect x="50" y="370" width="700" height="100" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2" rx="10"/>
   <text x="400" y="395" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
     Regulatorisk Compliance
   </text>
   
-  <!-- Compliance Items -->
+
   <g transform="translate(80, 405)">
     <rect x="0" y="0" width="130" height="50" fill="#3498db" stroke="#2980b9" stroke-width="1" rx="5"/>
     <text x="65" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
@@ -154,7 +154,7 @@
     </text>
   </g>
   
-  <!-- Security Benefits -->
+
   <rect x="50" y="500" width="700" height="80" fill="#2c3e50" stroke="#1b2631" stroke-width="2" rx="10"/>
   <text x="400" y="525" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     Sikkerhetsforbedringer
@@ -172,14 +172,14 @@
     • Robust audit trail for revisjon
   </text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#2c3e50"/>
     </marker>
   </defs>
   
-  <!-- Connection lines from auth methods to main flow -->
+
   <path d="M 110 330 L 340 200" stroke="#95a5a6" stroke-width="2" fill="none" opacity="0.6"/>
   <path d="M 200 330 L 360 200" stroke="#95a5a6" stroke-width="2" fill="none" opacity="0.6"/>
   <path d="M 340 330 L 400 200" stroke="#95a5a6" stroke-width="2" fill="none" opacity="0.6"/>

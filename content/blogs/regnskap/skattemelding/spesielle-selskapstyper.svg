@@ -18,72 +18,72 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Header -->
+
   <rect x="20" y="20" width="760" height="60" fill="url(#headerGradient)" rx="10"/>
   <text x="400" y="55" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="bold">Spesielle Selskapstyper</text>
   
-  <!-- Morselskap og Konsern -->
+
   <g transform="translate(30, 100)">
     <rect x="0" y="0" width="350" height="200" fill="url(#morGradient)" rx="8" opacity="0.1"/>
     <rect x="10" y="10" width="330" height="30" fill="url(#morGradient)" rx="5"/>
     <text x="175" y="30" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Morselskap og Konsern</text>
     
-    <!-- Fritaksmetoden -->
+
     <rect x="20" y="50" width="150" height="60" fill="#e8f4f8" stroke="#4682B4" stroke-width="2" rx="5"/>
     <text x="95" y="70" text-anchor="middle" fill="#2c5282" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Fritaksmetoden</text>
     <text x="95" y="85" text-anchor="middle" fill="#2c5282" font-family="Arial, sans-serif" font-size="10">Skattefritt utbytte</text>
     <text x="95" y="98" text-anchor="middle" fill="#2c5282" font-family="Arial, sans-serif" font-size="10">Min. 90% eierskap</text>
     
-    <!-- Konsernbidrag -->
+
     <rect x="180" y="50" width="150" height="60" fill="#e8f4f8" stroke="#4682B4" stroke-width="2" rx="5"/>
     <text x="255" y="70" text-anchor="middle" fill="#2c5282" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Konsernbidrag</text>
     <text x="255" y="85" text-anchor="middle" fill="#2c5282" font-family="Arial, sans-serif" font-size="10">Fradrag for giver</text>
     <text x="255" y="98" text-anchor="middle" fill="#2c5282" font-family="Arial, sans-serif" font-size="10">Inntekt for mottaker</text>
     
-    <!-- Arrows -->
+
     <path d="M 95 115 L 95 140" stroke="#4682B4" stroke-width="2" marker-end="url(#arrowhead)"/>
     <path d="M 255 115 L 255 140" stroke="#4682B4" stroke-width="2" marker-end="url(#arrowhead)"/>
     
-    <!-- Benefits -->
+
     <text x="175" y="155" text-anchor="middle" fill="#2c5282" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Fordeler:</text>
     <text x="175" y="170" text-anchor="middle" fill="#2c5282" font-family="Arial, sans-serif" font-size="10">• Skattefri gevinst ved aksjesalg</text>
     <text x="175" y="185" text-anchor="middle" fill="#2c5282" font-family="Arial, sans-serif" font-size="10">• Effektiv skatteoptimalisering</text>
   </g>
   
-  <!-- Eiendomsselskap -->
+
   <g transform="translate(420, 100)">
     <rect x="0" y="0" width="350" height="200" fill="url(#eiendomGradient)" rx="8" opacity="0.1"/>
     <rect x="10" y="10" width="330" height="30" fill="url(#eiendomGradient)" rx="5"/>
     <text x="175" y="30" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Eiendomsselskap</text>
     
-    <!-- RISK-beskatning -->
+
     <rect x="20" y="50" width="150" height="60" fill="#fef5e7" stroke="#B8860B" stroke-width="2" rx="5"/>
     <text x="95" y="70" text-anchor="middle" fill="#744210" font-family="Arial, sans-serif" font-size="12" font-weight="bold">RISK-beskatning</text>
     <text x="95" y="85" text-anchor="middle" fill="#744210" font-family="Arial, sans-serif" font-size="10">20% særskatt</text>
     <text x="95" y="98" text-anchor="middle" fill="#744210" font-family="Arial, sans-serif" font-size="10">På andeler i RISK</text>
     
-    <!-- Dokumentavgift -->
+
     <rect x="180" y="50" width="150" height="60" fill="#fef5e7" stroke="#B8860B" stroke-width="2" rx="5"/>
     <text x="255" y="70" text-anchor="middle" fill="#744210" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Dokumentavgift</text>
     <text x="255" y="85" text-anchor="middle" fill="#744210" font-family="Arial, sans-serif" font-size="10">2,5% på overdragelser</text>
     <text x="255" y="98" text-anchor="middle" fill="#744210" font-family="Arial, sans-serif" font-size="10">Unntak: Konserninternt</text>
     
-    <!-- Special note -->
+
     <text x="175" y="130" text-anchor="middle" fill="#744210" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Unntak for profesjonelle utviklere</text>
     <text x="175" y="145" text-anchor="middle" fill="#744210" font-family="Arial, sans-serif" font-size="10">Betydelig utviklingsvirksomhet</text>
     <text x="175" y="160" text-anchor="middle" fill="#744210" font-family="Arial, sans-serif" font-size="10">Dokumentasjonskrav</text>
   </g>
   
-  <!-- Finansielle Selskap -->
+
   <g transform="translate(220, 320)">
     <rect x="0" y="0" width="360" height="220" fill="url(#finansGradient)" rx="8" opacity="0.1"/>
     <rect x="10" y="10" width="340" height="30" fill="url(#finansGradient)" rx="5"/>
     <text x="180" y="30" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Finansielle Selskap</text>
     
-    <!-- Spesielle fradrag -->
+
     <rect x="20" y="50" width="100" height="80" fill="#f4f1e8" stroke="#8B4513" stroke-width="2" rx="5"/>
     <text x="70" y="70" text-anchor="middle" fill="#5d2f0a" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Spesielle</text>
     <text x="70" y="85" text-anchor="middle" fill="#5d2f0a" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Fradrag</text>
@@ -91,7 +91,7 @@
     <text x="70" y="112" text-anchor="middle" fill="#5d2f0a" font-family="Arial, sans-serif" font-size="9">Aktuaravsetninger</text>
     <text x="70" y="124" text-anchor="middle" fill="#5d2f0a" font-family="Arial, sans-serif" font-size="9">Sikringsbokføring</text>
     
-    <!-- Soliditetskapital -->
+
     <rect x="130" y="50" width="100" height="80" fill="#f4f1e8" stroke="#8B4513" stroke-width="2" rx="5"/>
     <text x="180" y="70" text-anchor="middle" fill="#5d2f0a" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Soliditets-</text>
     <text x="180" y="85" text-anchor="middle" fill="#5d2f0a" font-family="Arial, sans-serif" font-size="11" font-weight="bold">kapital</text>
@@ -99,7 +99,7 @@
     <text x="180" y="112" text-anchor="middle" fill="#5d2f0a" font-family="Arial, sans-serif" font-size="9">Basel-regler</text>
     <text x="180" y="124" text-anchor="middle" fill="#5d2f0a" font-family="Arial, sans-serif" font-size="9">Kapitaldekningsgrad</text>
     
-    <!-- Regulatoriske krav -->
+
     <rect x="240" y="50" width="100" height="80" fill="#f4f1e8" stroke="#8B4513" stroke-width="2" rx="5"/>
     <text x="290" y="70" text-anchor="middle" fill="#5d2f0a" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Regulatoriske</text>
     <text x="290" y="85" text-anchor="middle" fill="#5d2f0a" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Krav</text>
@@ -107,21 +107,21 @@
     <text x="290" y="112" text-anchor="middle" fill="#5d2f0a" font-family="Arial, sans-serif" font-size="9">Stresstesting</text>
     <text x="290" y="124" text-anchor="middle" fill="#5d2f0a" font-family="Arial, sans-serif" font-size="9">Rapportering</text>
     
-    <!-- Key considerations -->
+
     <text x="180" y="150" text-anchor="middle" fill="#5d2f0a" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Viktige Hensyn:</text>
     <text x="180" y="165" text-anchor="middle" fill="#5d2f0a" font-family="Arial, sans-serif" font-size="10">• Balanse mellom utbytte og kapitaloppbygging</text>
     <text x="180" y="180" text-anchor="middle" fill="#5d2f0a" font-family="Arial, sans-serif" font-size="10">• Kompleks risikovurdering og avsetninger</text>
     <text x="180" y="195" text-anchor="middle" fill="#5d2f0a" font-family="Arial, sans-serif" font-size="10">• Særlige rapporteringskrav til myndigheter</text>
   </g>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#4682B4"/>
     </marker>
   </defs>
   
-  <!-- Bottom note -->
+
   <text x="400" y="580" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="12" font-style="italic">
     Hver selskapstype har spesifikke skattemessige regler og rapporteringskrav
   </text>

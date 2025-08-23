@@ -1,22 +1,22 @@
 <svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="400" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c3e50">
     Feriepengegivende Inntekt
   </text>
   
-  <!-- Main container -->
+
   <rect x="50" y="50" width="700" height="320" fill="white" stroke="#e9ecef" stroke-width="2" rx="10"/>
   
-  <!-- Left side - Feriepengegivende (YES) -->
+
   <rect x="80" y="80" width="300" height="260" fill="#d5f4e6" stroke="#27ae60" stroke-width="2" rx="5"/>
   <text x="230" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#27ae60">
     ✓ FERIEPENGEGIVENDE
   </text>
   
-  <!-- Feriepengegivende items -->
+
   <rect x="100" y="120" width="260" height="30" fill="#27ae60" rx="3"/>
   <text x="230" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white" font-weight="bold">
     Fastlønn og timelønn
@@ -42,13 +42,13 @@
     Sykepenger fra NAV (12 mnd)
   </text>
   
-  <!-- Right side - Ikke feriepengegivende (NO) -->
+
   <rect x="420" y="80" width="300" height="260" fill="#fdeaea" stroke="#e74c3c" stroke-width="2" rx="5"/>
   <text x="570" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#e74c3c">
     ✗ IKKE FERIEPENGEGIVENDE
   </text>
   
-  <!-- Ikke feriepengegivende items -->
+
   <rect x="440" y="120" width="260" height="30" fill="#e74c3c" rx="3"/>
   <text x="570" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white" font-weight="bold">
     Utgiftsrefusjoner
@@ -74,7 +74,7 @@
     Fratredelsesytelser
   </text>
   
-  <!-- Bottom calculation example -->
+
   <rect x="200" y="340" width="400" height="40" fill="#3498db" rx="5"/>
   <text x="400" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white" font-weight="bold">
     Feriepengegivende inntekt × 10,2% (eller 12,5%) = Feriepenger

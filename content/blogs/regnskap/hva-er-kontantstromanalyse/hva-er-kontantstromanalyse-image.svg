@@ -10,26 +10,26 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="400" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
   <text x="400" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="28" font-weight="bold">
     Kontantstrømanalyse
   </text>
   
-  <!-- Main content area -->
+
   <rect x="50" y="100" width="700" height="250" fill="white" stroke="#ced4da" stroke-width="1" rx="8"/>
   
-  <!-- Cash flow arrows -->
-  <!-- Inflow arrow -->
+
+
   <path d="M 150 150 L 250 150 L 240 140 M 250 150 L 240 160" stroke="#28a745" stroke-width="4" fill="none"/>
   <text x="200" y="140" text-anchor="middle" fill="#28a745" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Kontantinnstrøm
   </text>
   
-  <!-- Central box -->
+
   <rect x="280" y="130" width="240" height="80" fill="#f8f9fa" stroke="#0066cc" stroke-width="2" rx="8"/>
   <text x="400" y="155" text-anchor="middle" fill="#0066cc" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     Kontantstrømanalyse
@@ -41,13 +41,13 @@
     Finansiering
   </text>
   
-  <!-- Outflow arrow -->
+
   <path d="M 550 150 L 650 150 L 640 140 M 650 150 L 640 160" stroke="#dc3545" stroke-width="4" fill="none"/>
   <text x="600" y="140" text-anchor="middle" fill="#dc3545" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Kontantutstrøm
   </text>
   
-  <!-- Key metrics boxes -->
+
   <rect x="80" y="250" width="160" height="60" fill="#e3f2fd" stroke="#1976d2" stroke-width="1" rx="4"/>
   <text x="160" y="270" text-anchor="middle" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Likviditet
@@ -72,7 +72,7 @@
     Kapitalallokering
   </text>
   
-  <!-- Bottom text -->
+
   <text x="400" y="380" text-anchor="middle" fill="#6c757d" font-family="Arial, sans-serif" font-size="14" font-style="italic">
     Analyse av kontantbevegelser for bedre finansielle beslutninger
   </text>

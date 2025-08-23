@@ -1,25 +1,25 @@
 <svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Crowdfunding i Finansiell Rapportering
   </text>
   
-  <!-- Balance Sheet Section -->
+
   <g id="balance-sheet">
     <text x="200" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#3498db">
       Balanse
     </text>
     
-    <!-- Assets -->
+
     <rect x="50" y="90" width="300" height="200" fill="white" stroke="#3498db" stroke-width="2" rx="5"/>
     <text x="200" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
       EIENDELER
     </text>
     
-    <!-- Current Assets -->
+
     <text x="70" y="135" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
       Omløpsmidler:
     </text>
@@ -37,7 +37,7 @@
       500.000
     </text>
     
-    <!-- Fixed Assets -->
+
     <text x="70" y="205" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
       Anleggsmidler:
     </text>
@@ -63,13 +63,13 @@
       3.850.000
     </text>
     
-    <!-- Liabilities and Equity -->
+
     <rect x="50" y="310" width="300" height="220" fill="white" stroke="#e74c3c" stroke-width="2" rx="5"/>
     <text x="200" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
       GJELD OG EGENKAPITAL
     </text>
     
-    <!-- Current Liabilities -->
+
     <text x="70" y="355" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
       Kortsiktig gjeld:
     </text>
@@ -87,7 +87,7 @@
       150.000
     </text>
     
-    <!-- Long-term Liabilities -->
+
     <text x="70" y="425" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
       Langsiktig gjeld:
     </text>
@@ -98,7 +98,7 @@
       +750.000
     </text>
     
-    <!-- Equity -->
+
     <text x="70" y="475" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
       Egenkapital:
     </text>
@@ -125,7 +125,7 @@
     </text>
   </g>
   
-  <!-- Income Statement Section -->
+
   <g id="income-statement">
     <text x="600" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#27ae60">
       Resultatregnskap
@@ -136,7 +136,7 @@
       INNTEKTER OG KOSTNADER
     </text>
     
-    <!-- Operating Income -->
+
     <text x="470" y="135" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
       Driftsinntekter:
     </text>
@@ -161,7 +161,7 @@
       800.000
     </text>
     
-    <!-- Operating Expenses -->
+
     <text x="470" y="225" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
       Driftskostnader:
     </text>
@@ -194,7 +194,7 @@
       200.000
     </text>
     
-    <!-- Financial Items -->
+
     <text x="470" y="345" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
       Finansposter:
     </text>
@@ -206,7 +206,7 @@
     </text>
   </g>
   
-  <!-- Key Impact Indicators -->
+
   <g id="impact-indicators">
     <text x="400" y="410" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
       Crowdfunding Påvirkning på Finansielle Rapporter
@@ -214,7 +214,7 @@
     
     <rect x="100" y="430" width="600" height="120" fill="white" stroke="#bdc3c7" stroke-width="1" rx="5"/>
     
-    <!-- Impact items -->
+
     <circle cx="130" cy="450" r="8" fill="#3498db"/>
     <text x="150" y="455" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
       <tspan font-weight="bold">Balanse:</tspan> Økning i bankinnskudd og tilsvarende økning i gjeld/egenkapital
@@ -241,7 +241,7 @@
     </text>
   </g>
   
-  <!-- Arrows connecting balance sheet and income statement -->
+
   <g id="connections">
     <path d="M 350 200 L 450 200" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
     <text x="400" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
@@ -249,14 +249,14 @@
     </text>
   </g>
   
-  <!-- Crowdfunding types legend -->
+
   <g id="legend">
     <text x="400" y="580" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
       Fargekoding: Grønn = Økning, Rød = Reduksjon, Lilla = Lån, Blå = Egenkapital
     </text>
   </g>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#2c3e50"/>

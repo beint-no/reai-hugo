@@ -14,26 +14,26 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c3e50">
     ESG-integrerte Skjermingssystemer
   </text>
   
-  <!-- Base Skjermingsrente -->
+
   <rect x="50" y="80" width="700" height="40" fill="url(#baseGradient)" stroke="#2c3e50" stroke-width="2" filter="url(#shadow)"/>
   <text x="400" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Base Skjermingsrente (4.0%)
   </text>
   
-  <!-- ESG Factors -->
+
   <text x="50" y="150" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
     ESG-faktorer:
   </text>
   
-  <!-- Environmental Factor -->
+
   <rect x="50" y="170" width="210" height="80" fill="#2E8B57" stroke="#1F5F3F" stroke-width="2" rx="5" filter="url(#shadow)"/>
   <text x="155" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Environmental (E)
@@ -48,7 +48,7 @@
     Bonus: 0-30%
   </text>
   
-  <!-- Social Factor -->
+
   <rect x="295" y="170" width="210" height="80" fill="#4682B4" stroke="#2F5A8C" stroke-width="2" rx="5" filter="url(#shadow)"/>
   <text x="400" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Social (S)
@@ -63,7 +63,7 @@
     Bonus: 0-20%
   </text>
   
-  <!-- Governance Factor -->
+
   <rect x="540" y="170" width="210" height="80" fill="#8B4513" stroke="#5D2F0B" stroke-width="2" rx="5" filter="url(#shadow)"/>
   <text x="645" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Governance (G)
@@ -78,7 +78,7 @@
     Bonus: 0-20%
   </text>
   
-  <!-- Calculation Formula -->
+
   <rect x="50" y="280" width="700" height="60" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2" rx="5" filter="url(#shadow)"/>
   <text x="400" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
     Beregningsformel:
@@ -87,7 +87,7 @@
     Modifisert skjermingsrente = Base skjermingsrente × (1 + ESG-faktor)
   </text>
   
-  <!-- Example Calculation -->
+
   <rect x="50" y="360" width="700" height="100" fill="#e8f5e8" stroke="#2E8B57" stroke-width="2" rx="5" filter="url(#shadow)"/>
   <text x="400" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
     Eksempel beregning:
@@ -102,25 +102,25 @@
     Resultat: 4.0% × (1 + 0.50) = 6.0% skjermingsrente
   </text>
   
-  <!-- Arrows connecting elements -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#2c3e50"/>
     </marker>
   </defs>
   
-  <!-- Arrows from base to ESG factors -->
+
   <line x1="155" y1="120" x2="155" y2="170" stroke="#2c3e50" stroke-width="2" marker-end="url(#arrowhead)"/>
   <line x1="400" y1="120" x2="400" y2="170" stroke="#2c3e50" stroke-width="2" marker-end="url(#arrowhead)"/>
   <line x1="645" y1="120" x2="645" y2="170" stroke="#2c3e50" stroke-width="2" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow from ESG factors to calculation -->
+
   <line x1="400" y1="250" x2="400" y2="280" stroke="#2c3e50" stroke-width="2" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow from calculation to example -->
+
   <line x1="400" y1="340" x2="400" y2="360" stroke="#2c3e50" stroke-width="2" marker-end="url(#arrowhead)"/>
   
-  <!-- Total ESG bonus indicator -->
+
   <text x="400" y="475" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-style="italic" fill="#7f8c8d">
     Total ESG-bonus: 0% til 70% over base rate
   </text>

@@ -1,43 +1,43 @@
 <svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="400" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">Regnskapskrav for NUF</text>
   
-  <!-- Bookkeeping Obligation -->
+
   <rect x="50" y="70" width="200" height="100" rx="10" fill="#3498db" stroke="#2980b9" stroke-width="2"/>
   <text x="150" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">Bokføringsplikt</text>
   <text x="150" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Alle transaksjoner</text>
   <text x="150" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Separate konti</text>
   <text x="150" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Dokumentasjon</text>
   
-  <!-- Accounting Standards -->
+
   <rect x="300" y="70" width="200" height="100" rx="10" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
   <text x="400" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">Regnskapsstandard</text>
   <text x="400" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">• Norsk standard</text>
   <text x="400" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">• IFRS</text>
   <text x="400" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">• Hjemlandets standard</text>
   
-  <!-- Annual Report -->
+
   <rect x="550" y="70" width="200" height="100" rx="10" fill="#27ae60" stroke="#229954" stroke-width="2"/>
   <text x="650" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">Årsregnskap</text>
   <text x="650" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Frist: 31. mai</text>
   <text x="650" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Via Altinn</text>
   <text x="650" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Elektronisk</text>
   
-  <!-- Arrows -->
+
   <path d="M 250 120 L 300 120" stroke="#34495e" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 500 120 L 550 120" stroke="#34495e" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>
     </marker>
   </defs>
   
-  <!-- Required Reports -->
+
   <rect x="50" y="220" width="200" height="130" rx="5" fill="#f39c12" stroke="#e67e22" stroke-width="1"/>
   <text x="150" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Påkrevde rapporter</text>
   <text x="150" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Resultatregnskap</text>
@@ -46,7 +46,7 @@
   <text x="150" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Årsberetning</text>
   <text x="150" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">  (hvis påkrevet)</text>
   
-  <!-- Audit Requirements -->
+
   <rect x="300" y="220" width="200" height="130" rx="5" fill="#9b59b6" stroke="#8e44ad" stroke-width="1"/>
   <text x="400" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Revisjonsplikt</text>
   <text x="400" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">Når:</text>
@@ -55,7 +55,7 @@
   <text x="400" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Ansatte > 50</text>
   <text x="400" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">  (gjennomsnitt)</text>
   
-  <!-- Documentation -->
+
   <rect x="550" y="220" width="200" height="130" rx="5" fill="#1abc9c" stroke="#16a085" stroke-width="1"/>
   <text x="650" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Dokumentasjon</text>
   <text x="650" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Alle bilag</text>

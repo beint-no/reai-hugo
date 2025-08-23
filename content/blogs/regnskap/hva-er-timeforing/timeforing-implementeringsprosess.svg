@@ -18,16 +18,16 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8fafc"/>
   
-  <!-- Title -->
+
   <rect x="0" y="0" width="800" height="50" fill="#1f2937"/>
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
     Timeføring - Implementeringsprosess og Prosjektplan
   </text>
   
-  <!-- Phase 1: Preparation -->
+
   <rect x="50" y="80" width="160" height="180" rx="10" fill="url(#phase1Grad)" stroke="#374151" stroke-width="2"/>
   <circle cx="130" cy="110" r="20" fill="white"/>
   <text x="130" y="118" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#3b82f6">1</text>
@@ -51,7 +51,7 @@
   <rect x="70" y="235" width="120" height="18" rx="2" fill="rgba(255,255,255,0.2)"/>
   <text x="80" y="246" font-family="Arial, sans-serif" font-size="9" fill="white">⏰ Tidsplanlegging</text>
   
-  <!-- Phase 2: Setup -->
+
   <rect x="230" y="80" width="160" height="180" rx="10" fill="url(#phase2Grad)" stroke="#374151" stroke-width="2"/>
   <circle cx="310" cy="110" r="20" fill="white"/>
   <text x="310" y="118" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#059669">2</text>
@@ -75,7 +75,7 @@
   <rect x="250" y="235" width="120" height="18" rx="2" fill="rgba(255,255,255,0.2)"/>
   <text x="260" y="246" font-family="Arial, sans-serif" font-size="9" fill="white">🧪 Systemtesting</text>
   
-  <!-- Phase 3: Pilot -->
+
   <rect x="410" y="80" width="160" height="180" rx="10" fill="url(#phase3Grad)" stroke="#374151" stroke-width="2"/>
   <circle cx="490" cy="110" r="20" fill="white"/>
   <text x="490" y="118" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#f59e0b">3</text>
@@ -99,7 +99,7 @@
   <rect x="430" y="235" width="120" height="18" rx="2" fill="rgba(255,255,255,0.2)"/>
   <text x="440" y="246" font-family="Arial, sans-serif" font-size="9" fill="white">📚 Dokumentasjon</text>
   
-  <!-- Phase 4: Rollout -->
+
   <rect x="590" y="80" width="160" height="180" rx="10" fill="url(#phase4Grad)" stroke="#374151" stroke-width="2"/>
   <circle cx="670" cy="110" r="20" fill="white"/>
   <text x="670" y="118" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#dc2626">4</text>
@@ -123,19 +123,19 @@
   <rect x="610" y="235" width="120" height="18" rx="2" fill="rgba(255,255,255,0.2)"/>
   <text x="620" y="246" font-family="Arial, sans-serif" font-size="9" fill="white">🔄 Forbedring</text>
   
-  <!-- Progress arrows -->
+
   <path d="M 210 170 L 230 170" stroke="#374151" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 390 170 L 410 170" stroke="#374151" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 570 170 L 590 170" stroke="#374151" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Detailed Timeline -->
+
   <rect x="50" y="290" width="700" height="120" rx="8" fill="white" stroke="#d1d5db" stroke-width="2"/>
   <rect x="50" y="290" width="700" height="35" rx="8" fill="#6366f1"/>
   <text x="400" y="312" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     Detaljert Tidsplan og Milepæler
   </text>
   
-  <!-- Timeline bars -->
+
   <rect x="70" y="340" width="140" height="15" rx="7" fill="#bfdbfe"/>
   <rect x="70" y="340" width="105" height="15" rx="7" fill="#3b82f6"/>
   <text x="140" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">75%</text>
@@ -156,13 +156,13 @@
   <text x="557" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">10%</text>
   <text x="620" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#374151">Full Utrulling</text>
   
-  <!-- Key milestones -->
+
   <text x="140" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6b7280">✓ System valgt</text>
   <text x="300" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6b7280">⚙️ Konfigurert</text>
   <text x="460" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6b7280">🧪 Pilotgruppe aktiv</text>
   <text x="620" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6b7280">🚀 Go-live planlagt</text>
   
-  <!-- Risk and Success Factors -->
+
   <rect x="50" y="430" width="340" height="150" rx="8" fill="#fef2f2" stroke="#fca5a5" stroke-width="2"/>
   <text x="220" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#dc2626">
     Risikofaktorer og Tiltak
@@ -177,7 +177,7 @@
   <text x="70" y="555" font-family="Arial, sans-serif" font-size="10" fill="#059669">• Tydelig kommunikasjon av fordeler</text>
   <text x="70" y="570" font-family="Arial, sans-serif" font-size="10" fill="#059669">• Gradvis utrulling med støtte</text>
   
-  <!-- Success Factors -->
+
   <rect x="410" y="430" width="340" height="150" rx="8" fill="#f0fdf4" stroke="#86efac" stroke-width="2"/>
   <text x="580" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#059669">
     Kritiske Suksessfaktorer
@@ -195,7 +195,7 @@
   <rect x="430" y="545" width="300" height="20" rx="3" fill="white" stroke="#4ade80"/>
   <text x="440" y="557" font-family="Arial, sans-serif" font-size="10" fill="#059669">📊 Kontinuerlig måling og oppfølging</text>
   
-  <!-- Duration indicators -->
+
   <text x="130" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#3b82f6">
     Uke 1-8
   </text>
@@ -209,7 +209,7 @@
     Uke 19-22
   </text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#374151"/>

@@ -1,20 +1,20 @@
 <svg width="600" height="400" viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="600" height="400" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="300" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#2c3e50">
     Avkastning
   </text>
   
-  <!-- Subtitle -->
+
   <text x="300" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#7f8c8d">
     Gevinst eller tap på investeringer
   </text>
   
-  <!-- Investment arrow going up -->
+
   <g transform="translate(150, 120)">
-    <!-- Investment box -->
+
     <rect x="0" y="80" width="100" height="60" fill="#3498db" rx="5"/>
     <text x="50" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
       Investering
@@ -23,10 +23,10 @@
       100.000 kr
     </text>
     
-    <!-- Arrow -->
+
     <path d="M 50 70 L 50 20 M 40 30 L 50 20 L 60 30" stroke="#27ae60" stroke-width="4" fill="none"/>
     
-    <!-- Return box -->
+
     <rect x="0" y="0" width="100" height="60" fill="#27ae60" rx="5"/>
     <text x="50" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
       Avkastning
@@ -39,7 +39,7 @@
     </text>
   </g>
   
-  <!-- Formula section -->
+
   <rect x="320" y="100" width="250" height="120" fill="white" stroke="#34495e" stroke-width="2" rx="10"/>
   <text x="445" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
     Avkastningsformel
@@ -61,14 +61,14 @@
     × 100
   </text>
   
-  <!-- Types of returns -->
+
   <text x="300" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">
     Typer Avkastning
   </text>
   
-  <!-- Return types boxes -->
+
   <g transform="translate(50, 280)">
-    <!-- Nominal return -->
+
     <rect x="0" y="0" width="120" height="80" fill="#e74c3c" opacity="0.8" rx="5"/>
     <text x="60" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
       Nominell
@@ -80,7 +80,7 @@
       Uten inflasjon
     </text>
     
-    <!-- Real return -->
+
     <rect x="140" y="0" width="120" height="80" fill="#f39c12" opacity="0.8" rx="5"/>
     <text x="200" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
       Real
@@ -92,7 +92,7 @@
       Justert for inflasjon
     </text>
     
-    <!-- Absolute return -->
+
     <rect x="280" y="0" width="120" height="80" fill="#9b59b6" opacity="0.8" rx="5"/>
     <text x="340" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
       Absolutt
@@ -104,7 +104,7 @@
       I kroner og øre
     </text>
     
-    <!-- Relative return -->
+
     <rect x="420" y="0" width="120" height="80" fill="#1abc9c" opacity="0.8" rx="5"/>
     <text x="480" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
       Relativ

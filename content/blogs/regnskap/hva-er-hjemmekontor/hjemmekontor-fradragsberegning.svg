@@ -18,20 +18,20 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">Hjemmekontor Fradragsberegning</text>
   <text x="400" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#7f8c8d">Tre hovedmetoder for beregning av forholdsmessig andel</text>
   
-  <!-- Area Method -->
+
   <g transform="translate(50, 100)">
     <rect x="0" y="0" width="220" height="140" fill="url(#areaGradient)" stroke="#c0392b" stroke-width="2" rx="10"/>
     <text x="110" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">Arealmetoden</text>
     <text x="110" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">(Mest vanlig)</text>
     
-    <!-- House diagram -->
+
     <g transform="translate(20, 60)">
       <rect x="0" y="0" width="60" height="50" fill="white" stroke="#c0392b" stroke-width="2"/>
       <rect x="10" y="10" width="15" height="15" fill="#e74c3c"/>
@@ -39,7 +39,7 @@
       <text x="30" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">20 m²/100 m² = 20%</text>
     </g>
     
-    <!-- Formula -->
+
     <g transform="translate(90, 70)">
       <rect x="0" y="0" width="120" height="50" fill="rgba(255,255,255,0.2)" stroke="white" stroke-width="1" rx="5"/>
       <text x="60" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">Kontorareal</text>
@@ -49,13 +49,13 @@
     </g>
   </g>
   
-  <!-- Room Method -->
+
   <g transform="translate(290, 100)">
     <rect x="0" y="0" width="220" height="140" fill="url(#roomGradient)" stroke="#e67e22" stroke-width="2" rx="10"/>
     <text x="110" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">Rommetoden</text>
     <text x="110" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">(Enklere beregning)</text>
     
-    <!-- Room diagram -->
+
     <g transform="translate(20, 60)">
       <g fill="white" stroke="#e67e22" stroke-width="1">
         <rect x="0" y="0" width="15" height="15"/>
@@ -68,7 +68,7 @@
       <text x="27.5" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">1 rom/5 rom = 20%</text>
     </g>
     
-    <!-- Formula -->
+
     <g transform="translate(90, 70)">
       <rect x="0" y="0" width="120" height="50" fill="rgba(255,255,255,0.2)" stroke="white" stroke-width="1" rx="5"/>
       <text x="60" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">Antall kontorrom</text>
@@ -78,13 +78,13 @@
     </g>
   </g>
   
-  <!-- Time Method -->
+
   <g transform="translate(530, 100)">
     <rect x="0" y="0" width="220" height="140" fill="url(#timeGradient)" stroke="#8e44ad" stroke-width="2" rx="10"/>
     <text x="110" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">Tidsmetoden</text>
     <text x="110" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">(For delt bruk)</text>
     
-    <!-- Clock diagram -->
+
     <g transform="translate(30, 65)">
       <circle cx="15" cy="15" r="12" fill="white" stroke="#8e44ad" stroke-width="2"/>
       <line x1="15" y1="15" x2="15" y2="8" stroke="#9b59b6" stroke-width="2"/>
@@ -92,7 +92,7 @@
       <text x="15" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">20t/40t = 50%</text>
     </g>
     
-    <!-- Formula -->
+
     <g transform="translate(90, 70)">
       <rect x="0" y="0" width="120" height="50" fill="rgba(255,255,255,0.2)" stroke="white" stroke-width="1" rx="5"/>
       <text x="60" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">Arbeidstimer hjemme</text>
@@ -102,12 +102,12 @@
     </g>
   </g>
   
-  <!-- Calculation Examples -->
+
   <g transform="translate(50, 280)">
     <rect x="0" y="0" width="700" height="200" fill="white" stroke="#34495e" stroke-width="2" rx="10"/>
     <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">Praktiske Beregningseksempler</text>
     
-    <!-- Example 1: Employee -->
+
     <g transform="translate(30, 50)">
       <rect x="0" y="0" width="200" height="120" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1" rx="5"/>
       <text x="100" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">Ansatt</text>
@@ -119,7 +119,7 @@
       <text x="100" y="108" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">Fradrag: 6 000 kr (maks)</text>
     </g>
     
-    <!-- Example 2: Self-employed -->
+
     <g transform="translate(250, 50)">
       <rect x="0" y="0" width="200" height="120" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1" rx="5"/>
       <text x="100" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">Næringsdrivende</text>
@@ -131,7 +131,7 @@
       <text x="100" y="108" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">Fradrag: 50 000 kr</text>
     </g>
     
-    <!-- Calculation steps -->
+
     <g transform="translate(470, 50)">
       <rect x="0" y="0" width="200" height="120" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1" rx="5"/>
       <text x="100" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">Beregningstrinn</text>
@@ -144,7 +144,7 @@
     </g>
   </g>
   
-  <!-- Important Notes -->
+
   <g transform="translate(100, 520)">
     <rect x="0" y="0" width="600" height="60" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="5"/>
     <text x="20" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#856404">Viktige merknader:</text>

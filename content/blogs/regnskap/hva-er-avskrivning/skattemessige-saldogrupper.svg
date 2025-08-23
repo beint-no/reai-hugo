@@ -1,21 +1,21 @@
 <svg width="650" height="550" viewBox="0 0 650 550" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="650" height="550" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="325" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c3e50">
     Skattemessige Saldogrupper for Avskrivning
   </text>
   
-  <!-- Subtitle -->
+
   <text x="325" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#7f8c8d">
     Maksimale avskrivningssatser etter skatteloven
   </text>
   
-  <!-- Main table -->
+
   <rect x="50" y="80" width="550" height="420" fill="white" stroke="#2c3e50" stroke-width="2" rx="10"/>
   
-  <!-- Table header -->
+
   <rect x="50" y="80" width="550" height="40" fill="#34495e" rx="10 10 0 0"/>
   <text x="125" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Saldogruppe
@@ -30,14 +30,14 @@
     Metode
   </text>
   
-  <!-- Vertical lines -->
+
   <line x1="200" y1="80" x2="200" y2="500" stroke="#bdc3c7" stroke-width="1"/>
   <line x1="350" y1="80" x2="350" y2="500" stroke="#bdc3c7" stroke-width="1"/>
   <line x1="500" y1="80" x2="500" y2="500" stroke="#bdc3c7" stroke-width="1"/>
   
-  <!-- Table rows -->
+
   <g font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
-    <!-- Row 1: Saldogruppe a -->
+
     <rect x="50" y="120" width="550" height="35" fill="#ecf0f1"/>
     <text x="125" y="142" text-anchor="middle" font-weight="bold">Saldogruppe a</text>
     <text x="275" y="135" text-anchor="middle">Bygninger, anlegg</text>
@@ -45,7 +45,7 @@
     <text x="450" y="142" text-anchor="middle" font-weight="bold" fill="#e74c3c">4%</text>
     <text x="525" y="142" text-anchor="middle">Saldo</text>
     
-    <!-- Row 2: Saldogruppe b -->
+
     <rect x="50" y="155" width="550" height="35" fill="white"/>
     <text x="125" y="177" text-anchor="middle" font-weight="bold">Saldogruppe b</text>
     <text x="275" y="170" text-anchor="middle">Kontormaskiner, EDB</text>
@@ -53,7 +53,7 @@
     <text x="450" y="177" text-anchor="middle" font-weight="bold" fill="#e74c3c">30%</text>
     <text x="525" y="177" text-anchor="middle">Saldo</text>
     
-    <!-- Row 3: Saldogruppe c -->
+
     <rect x="50" y="190" width="550" height="35" fill="#ecf0f1"/>
     <text x="125" y="212" text-anchor="middle" font-weight="bold">Saldogruppe c</text>
     <text x="275" y="205" text-anchor="middle">Traktorer, maskiner</text>
@@ -61,7 +61,7 @@
     <text x="450" y="212" text-anchor="middle" font-weight="bold" fill="#e74c3c">20%</text>
     <text x="525" y="212" text-anchor="middle">Saldo</text>
     
-    <!-- Row 4: Saldogruppe d -->
+
     <rect x="50" y="225" width="550" height="35" fill="white"/>
     <text x="125" y="247" text-anchor="middle" font-weight="bold">Saldogruppe d</text>
     <text x="275" y="240" text-anchor="middle">Personbiler, busser</text>
@@ -69,7 +69,7 @@
     <text x="450" y="247" text-anchor="middle" font-weight="bold" fill="#e74c3c">25%</text>
     <text x="525" y="247" text-anchor="middle">Saldo</text>
     
-    <!-- Row 5: Saldogruppe e -->
+
     <rect x="50" y="260" width="550" height="35" fill="#ecf0f1"/>
     <text x="125" y="282" text-anchor="middle" font-weight="bold">Saldogruppe e</text>
     <text x="275" y="275" text-anchor="middle">Skip, rigger</text>
@@ -77,7 +77,7 @@
     <text x="450" y="282" text-anchor="middle" font-weight="bold" fill="#e74c3c">14%</text>
     <text x="525" y="282" text-anchor="middle">Saldo</text>
     
-    <!-- Row 6: Saldogruppe f -->
+
     <rect x="50" y="295" width="550" height="35" fill="white"/>
     <text x="125" y="317" text-anchor="middle" font-weight="bold">Saldogruppe f</text>
     <text x="275" y="310" text-anchor="middle">Rørledninger</text>
@@ -85,7 +85,7 @@
     <text x="450" y="317" text-anchor="middle" font-weight="bold" fill="#e74c3c">5%</text>
     <text x="525" y="317" text-anchor="middle">Saldo</text>
     
-    <!-- Row 7: Saldogruppe g -->
+
     <rect x="50" y="330" width="550" height="35" fill="#ecf0f1"/>
     <text x="125" y="352" text-anchor="middle" font-weight="bold">Saldogruppe g</text>
     <text x="275" y="345" text-anchor="middle">Forretningsbygg</text>
@@ -93,7 +93,7 @@
     <text x="450" y="352" text-anchor="middle" font-weight="bold" fill="#e74c3c">6%</text>
     <text x="525" y="352" text-anchor="middle">Saldo</text>
     
-    <!-- Row 8: Saldogruppe h -->
+
     <rect x="50" y="365" width="550" height="35" fill="white"/>
     <text x="125" y="387" text-anchor="middle" font-weight="bold">Saldogruppe h</text>
     <text x="275" y="380" text-anchor="middle">Ervervet forretningsverdi</text>
@@ -101,7 +101,7 @@
     <text x="450" y="387" text-anchor="middle" font-weight="bold" fill="#e74c3c">20%</text>
     <text x="525" y="387" text-anchor="middle">Saldo</text>
     
-    <!-- Row 9: Saldogruppe i -->
+
     <rect x="50" y="400" width="550" height="35" fill="#ecf0f1"/>
     <text x="125" y="422" text-anchor="middle" font-weight="bold">Saldogruppe i</text>
     <text x="275" y="415" text-anchor="middle">Immaterielle rettigheter</text>
@@ -109,7 +109,7 @@
     <text x="450" y="422" text-anchor="middle" font-weight="bold" fill="#e74c3c">20%</text>
     <text x="525" y="422" text-anchor="middle">Saldo</text>
     
-    <!-- Row 10: Lineær -->
+
     <rect x="50" y="435" width="550" height="35" fill="white"/>
     <text x="125" y="457" text-anchor="middle" font-weight="bold">Lineær</text>
     <text x="275" y="450" text-anchor="middle">Eiendeler med</text>
@@ -118,7 +118,7 @@
     <text x="525" y="457" text-anchor="middle">Lineær</text>
   </g>
   
-  <!-- Horizontal lines -->
+
   <line x1="50" y1="155" x2="600" y2="155" stroke="#bdc3c7" stroke-width="1"/>
   <line x1="50" y1="190" x2="600" y2="190" stroke="#bdc3c7" stroke-width="1"/>
   <line x1="50" y1="225" x2="600" y2="225" stroke="#bdc3c7" stroke-width="1"/>
@@ -129,7 +129,7 @@
   <line x1="50" y1="400" x2="600" y2="400" stroke="#bdc3c7" stroke-width="1"/>
   <line x1="50" y1="435" x2="600" y2="435" stroke="#bdc3c7" stroke-width="1"/>
   
-  <!-- Note -->
+
   <text x="325" y="525" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#7f8c8d">
     Saldoavskrivning: Avskrivning beregnes på nedskrevet saldo (bokført verdi)
   </text>

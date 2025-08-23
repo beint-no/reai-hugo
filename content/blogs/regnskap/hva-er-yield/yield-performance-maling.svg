@@ -13,40 +13,40 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bg)"/>
   
-  <!-- Title -->
+
   <rect x="50" y="20" width="700" height="50" fill="url(#headerGrad)" rx="8" filter="url(#shadow)"/>
   <text x="400" y="50" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="20" font-weight="bold">
     Performance-Måling og Attribution for Yield-Strategier
   </text>
   
-  <!-- Risk-Adjusted Yield Measures -->
+
   <g>
     <rect x="50" y="90" width="340" height="140" fill="#10b981" stroke="#047857" stroke-width="2" rx="8" filter="url(#shadow)"/>
     <text x="220" y="115" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Risikojusterte Yield-Målinger</text>
     
-    <!-- Sharpe Ratio -->
+
     <rect x="70" y="135" width="300" height="30" fill="#bbf7d0" stroke="#10b981" stroke-width="1" rx="4"/>
     <text x="220" y="150" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Sharpe Ratio for Yield</text>
     <text x="220" y="162" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="10">Sharpe = (Yield - Risk-free rate) / Standard deviation</text>
     
-    <!-- Information Ratio -->
+
     <rect x="70" y="175" width="300" height="30" fill="#bbf7d0" stroke="#10b981" stroke-width="1" rx="4"/>
     <text x="220" y="190" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Information Ratio</text>
     <text x="220" y="202" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="10">IR = (Yield - Benchmark yield) / Tracking error</text>
     
-    <!-- Usage note -->
+
     <text x="70" y="220" fill="white" font-family="Arial, sans-serif" font-size="9">Måler yield per risikoenhet</text>
   </g>
   
-  <!-- Attribution Analysis -->
+
   <g>
     <rect x="410" y="90" width="340" height="140" fill="#3b82f6" stroke="#1e40af" stroke-width="2" rx="8" filter="url(#shadow)"/>
     <text x="580" y="115" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Attribution Analysis</text>
     
-    <!-- Components -->
+
     <rect x="430" y="135" width="90" height="25" fill="#93c5fd" stroke="#3b82f6" stroke-width="1" rx="4"/>
     <text x="475" y="152" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Security Selection</text>
     
@@ -56,7 +56,7 @@
     <rect x="650" y="135" width="90" height="25" fill="#93c5fd" stroke="#3b82f6" stroke-width="1" rx="4"/>
     <text x="695" y="152" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Timing Effects</text>
     
-    <!-- Descriptions -->
+
     <text x="430" y="175" fill="white" font-family="Arial, sans-serif" font-size="9">Valg av individuelle</text>
     <text x="430" y="190" fill="white" font-family="Arial, sans-serif" font-size="9">verdipapirer</text>
     
@@ -69,12 +69,12 @@
     <text x="430" y="210" fill="white" font-family="Arial, sans-serif" font-size="9">Identifiserer kilder til meravkastning</text>
   </g>
   
-  <!-- Performance Attribution Table -->
+
   <g>
     <rect x="50" y="250" width="700" height="120" fill="white" stroke="#d1d5db" stroke-width="2" rx="8" filter="url(#shadow)"/>
     <text x="400" y="275" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Performance Attribution Dekomponering</text>
     
-    <!-- Table headers -->
+
     <rect x="70" y="290" width="120" height="25" fill="#1f2937" stroke="#374151" stroke-width="1"/>
     <text x="130" y="307" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Komponent</text>
     
@@ -87,7 +87,7 @@
     <rect x="470" y="290" width="260" height="25" fill="#1f2937" stroke="#374151" stroke-width="1"/>
     <text x="600" y="307" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Implikasjon</text>
     
-    <!-- Row 1: Market Timing -->
+
     <rect x="70" y="315" width="120" height="20" fill="#10b981" stroke="#047857" stroke-width="1"/>
     <text x="130" y="329" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">Market Timing</text>
     
@@ -100,7 +100,7 @@
     <rect x="470" y="315" width="260" height="20" fill="#f9fafb" stroke="#d1d5db" stroke-width="1"/>
     <text x="600" y="329" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">God timing av markedsendringer</text>
     
-    <!-- Row 2: Security Selection -->
+
     <rect x="70" y="335" width="120" height="20" fill="#3b82f6" stroke="#1e40af" stroke-width="1"/>
     <text x="130" y="349" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">Security Selection</text>
     
@@ -113,7 +113,7 @@
     <rect x="470" y="335" width="260" height="20" fill="#f9fafb" stroke="#d1d5db" stroke-width="1"/>
     <text x="600" y="349" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">Effektiv stock-picking</text>
     
-    <!-- Row 3: Sector Allocation -->
+
     <rect x="70" y="355" width="120" height="20" fill="#dc2626" stroke="#b91c1c" stroke-width="1"/>
     <text x="130" y="369" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">Sector Allocation</text>
     
@@ -127,12 +127,12 @@
     <text x="600" y="369" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">Undervekt i outperformende sektorer</text>
   </g>
   
-  <!-- Benchmark Comparison -->
+
   <g>
     <rect x="50" y="390" width="340" height="100" fill="#f59e0b" stroke="#d97706" stroke-width="2" rx="8" filter="url(#shadow)"/>
     <text x="220" y="415" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Benchmark Comparison</text>
     
-    <!-- Benchmark types -->
+
     <circle cx="80" cy="440" r="3" fill="#fde68a"/>
     <text x="90" y="445" fill="white" font-family="Arial, sans-serif" font-size="10">Sector averages for dividend yields</text>
     
@@ -143,12 +143,12 @@
     <text x="90" y="485" fill="white" font-family="Arial, sans-serif" font-size="10">Peer groups med lignende selskaper</text>
   </g>
   
-  <!-- Performance Tracking -->
+
   <g>
     <rect x="410" y="390" width="340" height="100" fill="#7c3aed" stroke="#6d28d9" stroke-width="2" rx="8" filter="url(#shadow)"/>
     <text x="580" y="415" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Performance Tracking</text>
     
-    <!-- Tracking methods -->
+
     <rect x="430" y="435" width="90" height="20" fill="#c4b5fd" stroke="#7c3aed" stroke-width="1" rx="4"/>
     <text x="475" y="449" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Månedlig</text>
     
@@ -158,16 +158,16 @@
     <rect x="650" y="435" width="90" height="20" fill="#c4b5fd" stroke="#7c3aed" stroke-width="1" rx="4"/>
     <text x="695" y="449" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Årlig</text>
     
-    <!-- Tracking focus -->
+
     <text x="430" y="475" fill="white" font-family="Arial, sans-serif" font-size="9">Kort-siktig overvåking og justering</text>
   </g>
   
-  <!-- Key Performance Indicators -->
+
   <g>
     <rect x="50" y="510" width="700" height="70" fill="white" stroke="#d1d5db" stroke-width="2" rx="8" filter="url(#shadow)"/>
     <text x="400" y="535" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Nøkkel Performance Indikatorer</text>
     
-    <!-- KPI Grid -->
+
     <rect x="80" y="545" width="90" height="25" fill="#059669" stroke="#047857" stroke-width="1" rx="4"/>
     <text x="125" y="562" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Absolute Yield</text>
     

@@ -22,16 +22,16 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
   <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
     AI i Kassasystemer - Fremtidens Teknologi
   </text>
   
-  <!-- AI Brain Icon -->
+
   <g transform="translate(50, 80)">
     <circle cx="50" cy="50" r="40" fill="url(#aiGradient)" opacity="0.8"/>
     <text x="50" y="57" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="white">🧠</text>
@@ -40,7 +40,7 @@
     </text>
   </g>
   
-  <!-- Current AI Applications -->
+
   <g transform="translate(150, 80)">
     <rect x="0" y="0" width="600" height="120" rx="10" fill="white" stroke="#ddd" stroke-width="1"/>
     <rect x="0" y="0" width="600" height="40" rx="10" fill="url(#aiGradient)"/>
@@ -49,7 +49,7 @@
     </text>
     
     <g transform="translate(20, 50)">
-      <!-- Left column -->
+
       <text x="0" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
         Prediktiv analyse:
       </text>
@@ -63,7 +63,7 @@
         • Sesongbaserte prognoser
       </text>
       
-      <!-- Middle column -->
+
       <text x="200" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
         Prisoptimalisering:
       </text>
@@ -77,7 +77,7 @@
         • Rabattoptimalisering
       </text>
       
-      <!-- Right column -->
+
       <text x="400" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
         Svindeldeteksjon:
       </text>
@@ -93,7 +93,7 @@
     </g>
   </g>
   
-  <!-- Future Technologies -->
+
   <g transform="translate(50, 220)">
     <rect x="0" y="0" width="340" height="180" rx="10" fill="white" stroke="#ddd" stroke-width="1"/>
     <rect x="0" y="0" width="340" height="40" rx="10" fill="url(#futureGradient)"/>
@@ -130,7 +130,7 @@
     </g>
   </g>
   
-  <!-- Customer Analytics -->
+
   <g transform="translate(410, 220)">
     <rect x="0" y="0" width="340" height="180" rx="10" fill="white" stroke="#ddd" stroke-width="1"/>
     <rect x="0" y="0" width="340" height="40" rx="10" fill="url(#techGradient)"/>
@@ -167,7 +167,7 @@
     </g>
   </g>
   
-  <!-- Blockchain and Crypto -->
+
   <g transform="translate(50, 420)">
     <rect x="0" y="0" width="700" height="120" rx="10" fill="white" stroke="#ddd" stroke-width="1"/>
     <rect x="0" y="0" width="700" height="40" rx="10" fill="url(#innovationGradient)"/>
@@ -176,7 +176,7 @@
     </text>
     
     <g transform="translate(30, 50)">
-      <!-- Left column -->
+
       <text x="0" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
         Blockchain-fordeler:
       </text>
@@ -190,7 +190,7 @@
         • Smart contracts for automatisering
       </text>
       
-      <!-- Middle column -->
+
       <text x="250" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
         Kryptovaluta-støtte:
       </text>
@@ -204,7 +204,7 @@
         • Automatisk valutakonvertering
       </text>
       
-      <!-- Right column -->
+
       <text x="500" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
         Tokenisering:
       </text>
@@ -220,7 +220,7 @@
     </g>
   </g>
   
-  <!-- Timeline -->
+
   <g transform="translate(50, 560)">
     <rect x="0" y="0" width="700" height="30" rx="5" fill="url(#futureGradient)"/>
     <text x="350" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
@@ -228,13 +228,13 @@
     </text>
   </g>
   
-  <!-- AI Network Visualization -->
+
   <g transform="translate(600, 80)">
-    <!-- Central AI node -->
+
     <circle cx="75" cy="60" r="20" fill="url(#aiGradient)"/>
     <text x="75" y="67" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">AI</text>
     
-    <!-- Connected nodes -->
+
     <circle cx="40" cy="30" r="12" fill="url(#techGradient)"/>
     <text x="40" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">📊</text>
     
@@ -247,13 +247,13 @@
     <circle cx="110" cy="90" r="12" fill="url(#aiGradient)"/>
     <text x="110" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">🤖</text>
     
-    <!-- Connection lines -->
+
     <line x1="55" y1="45" x2="52" y2="42" stroke="#666" stroke-width="1"/>
     <line x1="95" y1="45" x2="98" y2="42" stroke="#666" stroke-width="1"/>
     <line x1="55" y1="75" x2="52" y2="78" stroke="#666" stroke-width="1"/>
     <line x1="95" y1="75" x2="98" y2="78" stroke="#666" stroke-width="1"/>
     
-    <!-- Pulsing effect -->
+
     <circle cx="75" cy="60" r="25" fill="none" stroke="url(#aiGradient)" stroke-width="1" opacity="0.3">
       <animate attributeName="r" values="20;35;20" dur="3s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values="0.3;0;0.3" dur="3s" repeatCount="indefinite"/>

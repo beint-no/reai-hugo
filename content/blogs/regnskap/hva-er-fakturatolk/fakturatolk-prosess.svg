@@ -1,58 +1,58 @@
 <svg width="900" height="500" viewBox="0 0 900 500" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="900" height="500" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="450" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Fakturatolk Prosessflyt
   </text>
   
-  <!-- Step 1: Input -->
+
   <rect x="50" y="80" width="150" height="100" fill="#e74c3c" stroke="#c0392b" stroke-width="2" rx="10"/>
   <text x="125" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">INNGANG</text>
   <text x="125" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">• Papirfaktura</text>
   <text x="125" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">• PDF-faktura</text>
   <text x="125" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">• E-post vedlegg</text>
   
-  <!-- Arrow 1 -->
+
   <path d="M 220 130 L 270 130" stroke="#34495e" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
   
-  <!-- Step 2: OCR Scanning -->
+
   <rect x="290" y="80" width="150" height="100" fill="#f39c12" stroke="#e67e22" stroke-width="2" rx="10"/>
   <text x="365" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">OCR SKANNING</text>
   <text x="365" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">• Tekstgjenkjenning</text>
   <text x="365" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">• Layout analyse</text>
   <text x="365" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">• Dataekstraksjon</text>
   
-  <!-- Arrow 2 -->
+
   <path d="M 460 130 L 510 130" stroke="#34495e" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
   
-  <!-- Step 3: AI Processing -->
+
   <rect x="530" y="80" width="150" height="100" fill="#3498db" stroke="#2980b9" stroke-width="2" rx="10"/>
   <text x="605" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">AI BEHANDLING</text>
   <text x="605" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">• Intelligent tolking</text>
   <text x="605" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">• Validering</text>
   <text x="605" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">• Kategorisering</text>
   
-  <!-- Arrow 3 -->
+
   <path d="M 700 130 L 750 130" stroke="#34495e" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
   
-  <!-- Step 4: Output -->
+
   <rect x="770" y="80" width="120" height="100" fill="#27ae60" stroke="#229954" stroke-width="2" rx="10"/>
   <text x="830" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">RESULTAT</text>
   <text x="830" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">• Strukturerte data</text>
   <text x="830" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">• Automatisk kontering</text>
   <text x="830" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">• ERP integrasjon</text>
   
-  <!-- Data extraction details -->
+
   <text x="450" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">
     Ekstraherte Data
   </text>
   
-  <!-- Data fields -->
+
   <rect x="100" y="260" width="700" height="180" fill="white" stroke="#bdc3c7" stroke-width="2" rx="10"/>
   
-  <!-- Column 1 -->
+
   <text x="150" y="290" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">Leverandørinformasjon:</text>
   <text x="150" y="310" font-family="Arial, sans-serif" font-size="12" fill="#34495e">• Navn og adresse</text>
   <text x="150" y="325" font-family="Arial, sans-serif" font-size="12" fill="#34495e">• Organisasjonsnummer</text>
@@ -63,7 +63,7 @@
   <text x="150" y="405" font-family="Arial, sans-serif" font-size="12" fill="#34495e">• Fakturadato</text>
   <text x="150" y="420" font-family="Arial, sans-serif" font-size="12" fill="#34495e">• Forfallsdato</text>
   
-  <!-- Column 2 -->
+
   <text x="450" y="290" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">Økonomiske data:</text>
   <text x="450" y="310" font-family="Arial, sans-serif" font-size="12" fill="#34495e">• Nettobeløp</text>
   <text x="450" y="325" font-family="Arial, sans-serif" font-size="12" fill="#34495e">• MVA-beløp og sats</text>
@@ -74,18 +74,18 @@
   <text x="450" y="405" font-family="Arial, sans-serif" font-size="12" fill="#34495e">• Kostnadssted</text>
   <text x="450" y="420" font-family="Arial, sans-serif" font-size="12" fill="#34495e">• Prosjektkode</text>
   
-  <!-- Accuracy indicator -->
+
   <rect x="650" y="280" width="120" height="80" fill="#2ecc71" stroke="#27ae60" stroke-width="2" rx="10"/>
   <text x="710" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">NØYAKTIGHET</text>
   <text x="710" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">95-99%</text>
   <text x="710" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Automatisk</text>
   
-  <!-- Processing time -->
+
   <rect x="650" y="370" width="120" height="60" fill="#9b59b6" stroke="#8e44ad" stroke-width="2" rx="10"/>
   <text x="710" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">BEHANDLINGSTID</text>
   <text x="710" y="410" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">10-30 sek</text>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>

@@ -20,18 +20,18 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="900" height="700" fill="url(#bgGradient)" />
   
-  <!-- Title -->
+
   <text x="450" y="40" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" fill="#2d3748">
     Fremtidens opplysningsplikt
   </text>
   
-  <!-- Timeline -->
+
   <line x1="100" y1="100" x2="800" y2="100" stroke="#4a5568" stroke-width="3"/>
   
-  <!-- Timeline markers -->
+
   <circle cx="200" cy="100" r="8" fill="#0066cc"/>
   <text x="200" y="130" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0066cc">
     I dag
@@ -52,7 +52,7 @@
     2030+
   </text>
   
-  <!-- Current state -->
+
   <g transform="translate(120, 160)">
     <rect x="0" y="0" width="160" height="120" fill="#ffffff" stroke="#0066cc" stroke-width="2" rx="10" filter="url(#shadow)"/>
     <text x="80" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0066cc">
@@ -72,7 +72,7 @@
     </text>
   </g>
   
-  <!-- Near future -->
+
   <g transform="translate(320, 160)">
     <rect x="0" y="0" width="160" height="120" fill="#ffffff" stroke="#00aa44" stroke-width="2" rx="10" filter="url(#shadow)"/>
     <text x="80" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#00aa44">
@@ -92,7 +92,7 @@
     </text>
   </g>
   
-  <!-- Medium future -->
+
   <g transform="translate(520, 160)">
     <rect x="0" y="0" width="160" height="120" fill="#ffffff" stroke="#cc6600" stroke-width="2" rx="10" filter="url(#shadow)"/>
     <text x="80" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#cc6600">
@@ -112,7 +112,7 @@
     </text>
   </g>
   
-  <!-- Far future -->
+
   <g transform="translate(670, 160)">
     <rect x="0" y="0" width="160" height="120" fill="url(#futureGradient)" stroke="#9900cc" stroke-width="2" rx="10" filter="url(#glow)"/>
     <text x="80" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
@@ -132,12 +132,12 @@
     </text>
   </g>
   
-  <!-- Key trends section -->
+
   <text x="450" y="340" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="#2d3748">
     Viktige trender
   </text>
   
-  <!-- Trend 1: Real-time -->
+
   <g transform="translate(50, 370)">
     <rect x="0" y="0" width="180" height="100" fill="#e6f7ff" stroke="#0066cc" stroke-width="2" rx="10" filter="url(#shadow)"/>
     <text x="90" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0066cc">
@@ -154,7 +154,7 @@
     </text>
   </g>
   
-  <!-- Trend 2: AI -->
+
   <g transform="translate(260, 370)">
     <rect x="0" y="0" width="180" height="100" fill="#f0fff0" stroke="#00aa44" stroke-width="2" rx="10" filter="url(#shadow)"/>
     <text x="90" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#00aa44">
@@ -171,7 +171,7 @@
     </text>
   </g>
   
-  <!-- Trend 3: ESG -->
+
   <g transform="translate(470, 370)">
     <rect x="0" y="0" width="180" height="100" fill="#fff2e6" stroke="#cc6600" stroke-width="2" rx="10" filter="url(#shadow)"/>
     <text x="90" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#cc6600">
@@ -188,7 +188,7 @@
     </text>
   </g>
   
-  <!-- Trend 4: Integration -->
+
   <g transform="translate(680, 370)">
     <rect x="0" y="0" width="180" height="100" fill="#f5e6ff" stroke="#9900cc" stroke-width="2" rx="10" filter="url(#shadow)"/>
     <text x="90" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#9900cc">
@@ -205,12 +205,12 @@
     </text>
   </g>
   
-  <!-- Benefits section -->
+
   <text x="450" y="520" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="#2d3748">
     Fordeler for bedrifter
   </text>
   
-  <!-- Benefit boxes -->
+
   <g transform="translate(100, 550)">
     <rect x="0" y="0" width="150" height="80" fill="#ffffff" stroke="#0066cc" stroke-width="1" rx="8"/>
     <text x="75" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0066cc">
@@ -263,7 +263,7 @@
     </text>
   </g>
   
-  <!-- Bottom message -->
+
   <text x="450" y="670" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#4a5568">
     Fremtidens opplysningsplikt vil være mer automatisert, intelligent og verdiskapende
   </text>

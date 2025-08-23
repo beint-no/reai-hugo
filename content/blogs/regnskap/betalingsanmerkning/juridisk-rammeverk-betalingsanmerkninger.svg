@@ -10,15 +10,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f8fafc"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1e293b">
     Juridisk Rammeverk for Betalingsanmerkninger
   </text>
   
-  <!-- Inkassoloven box -->
+
   <rect x="50" y="80" width="160" height="120" rx="8" fill="url(#lawGradient)" stroke="#1e40af" stroke-width="2"/>
   <text x="130" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Inkassoloven
@@ -36,7 +36,7 @@
     • Gebyrer &amp; salær
   </text>
   
-  <!-- Personopplysningsloven box -->
+
   <rect x="240" y="80" width="160" height="120" rx="8" fill="url(#protectionGradient)" stroke="#059669" stroke-width="2"/>
   <text x="320" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Personopplysnings-
@@ -54,7 +54,7 @@
     • Sletting
   </text>
   
-  <!-- Kredittopplysningsloven box -->
+
   <rect x="430" y="80" width="160" height="120" rx="8" fill="url(#lawGradient)" stroke="#1e40af" stroke-width="2"/>
   <text x="510" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Kredittopplysnings-
@@ -72,7 +72,7 @@
     • Tilgangsrettigheter
   </text>
   
-  <!-- Forbrukerkjøpsloven box -->
+
   <rect x="620" y="80" width="160" height="120" rx="8" fill="url(#protectionGradient)" stroke="#059669" stroke-width="2"/>
   <text x="700" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Forbrukerkjøps-
@@ -90,7 +90,7 @@
     • Klageadgang
   </text>
   
-  <!-- Center process box -->
+
   <rect x="300" y="280" width="200" height="100" rx="8" fill="#fef3c7" stroke="#f59e0b" stroke-width="2"/>
   <text x="400" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#92400e">
     Betalingsanmerkning
@@ -105,25 +105,25 @@
     med rettssikkerhet
   </text>
   
-  <!-- Arrows pointing to center -->
+
   <path d="M 130 200 L 350 280" stroke="#64748b" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 320 200 L 380 280" stroke="#64748b" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 510 200 L 450 280" stroke="#64748b" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 700 200 L 470 280" stroke="#64748b" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#64748b"/>
     </marker>
   </defs>
   
-  <!-- Bottom text -->
+
   <text x="400" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#475569">
     Sammenvevet lovverk sikrer balanse mellom kreditorrettigheter og debitorvern
   </text>
   
-  <!-- Bottom details -->
+
   <text x="100" y="460" font-family="Arial, sans-serif" font-size="11" fill="#64748b">
     Prosessregulering
   </text>

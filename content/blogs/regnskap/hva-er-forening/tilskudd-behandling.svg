@@ -10,18 +10,18 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="700" height="450" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2" rx="10"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="700" height="60" fill="url(#headerGradient)" rx="10"/>
   
-  <!-- Title -->
+
   <text x="350" y="35" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="white">
     Tilskuddsbehandling i Foreninger
   </text>
   
-  <!-- Betingede tilskudd -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="180" height="120" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="10"/>
     <text x="90" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#333">
@@ -44,7 +44,7 @@
     </text>
   </g>
   
-  <!-- Ubetingede tilskudd -->
+
   <g transform="translate(260, 80)">
     <rect x="0" y="0" width="180" height="120" fill="#d4edda" stroke="#28a745" stroke-width="2" rx="10"/>
     <text x="90" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#333">
@@ -67,7 +67,7 @@
     </text>
   </g>
   
-  <!-- Øremerkede tilskudd -->
+
   <g transform="translate(470, 80)">
     <rect x="0" y="0" width="180" height="120" fill="#f8d7da" stroke="#dc3545" stroke-width="2" rx="10"/>
     <text x="90" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#333">
@@ -90,13 +90,13 @@
     </text>
   </g>
   
-  <!-- Process flow -->
+
   <g transform="translate(50, 230)">
     <text x="300" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#333">
       Regnskapsprosess for Tilskudd
     </text>
     
-    <!-- Step 1 -->
+
     <rect x="0" y="40" width="120" height="60" fill="#e9ecef" stroke="#6c757d" stroke-width="2" rx="5"/>
     <text x="60" y="60" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#333">
       1. Mottak av
@@ -108,10 +108,10 @@
       Registrering
     </text>
     
-    <!-- Arrow 1 -->
+
     <polygon points="130,70 150,65 150,75" fill="#6c757d"/>
     
-    <!-- Step 2 -->
+
     <rect x="160" y="40" width="120" height="60" fill="#e9ecef" stroke="#6c757d" stroke-width="2" rx="5"/>
     <text x="220" y="60" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#333">
       2. Vurdering av
@@ -123,10 +123,10 @@
       Analyse
     </text>
     
-    <!-- Arrow 2 -->
+
     <polygon points="290,70 310,65 310,75" fill="#6c757d"/>
     
-    <!-- Step 3 -->
+
     <rect x="320" y="40" width="120" height="60" fill="#e9ecef" stroke="#6c757d" stroke-width="2" rx="5"/>
     <text x="380" y="60" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#333">
       3. Regnskaps-
@@ -138,10 +138,10 @@
       Bokføring
     </text>
     
-    <!-- Arrow 3 -->
+
     <polygon points="450,70 470,65 470,75" fill="#6c757d"/>
     
-    <!-- Step 4 -->
+
     <rect x="480" y="40" width="120" height="60" fill="#e9ecef" stroke="#6c757d" stroke-width="2" rx="5"/>
     <text x="540" y="60" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#333">
       4. Rapportering
@@ -154,7 +154,7 @@
     </text>
   </g>
   
-  <!-- Key considerations -->
+
   <g transform="translate(50, 350)">
     <rect x="0" y="0" width="600" height="80" fill="white" stroke="#dee2e6" stroke-width="2" rx="10"/>
     <text x="300" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#333">

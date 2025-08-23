@@ -18,15 +18,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
     API Arkitektur Diagram
   </text>
   
-  <!-- Presentation Layer -->
+
   <rect x="50" y="60" width="700" height="60" rx="10" fill="url(#layerGradient)" stroke="#0056b3" stroke-width="2"/>
   <text x="400" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     PRESENTASJONSLAG
@@ -35,7 +35,7 @@
     Web Interface • Mobile App • Desktop Client
   </text>
   
-  <!-- API Gateway Layer -->
+
   <rect x="50" y="140" width="700" height="60" rx="10" fill="url(#securityGradient)" stroke="#e0a800" stroke-width="2"/>
   <text x="400" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#212529">
     API GATEWAY
@@ -44,13 +44,13 @@
     Autentisering • Rate Limiting • Load Balancing • Logging
   </text>
   
-  <!-- Business Logic Layer -->
+
   <rect x="50" y="220" width="700" height="80" rx="10" fill="url(#layerGradient)" stroke="#0056b3" stroke-width="2"/>
   <text x="400" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     FORRETNINGSLOGIKK
   </text>
   
-  <!-- Microservices -->
+
   <rect x="80" y="260" width="120" height="30" rx="5" fill="white" stroke="#0056b3" stroke-width="1"/>
   <text x="140" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#0056b3">
     Regnskap Service
@@ -76,7 +76,7 @@
     Rapport Service
   </text>
   
-  <!-- Data Access Layer -->
+
   <rect x="50" y="320" width="700" height="60" rx="10" fill="url(#dataGradient)" stroke="#1e7e34" stroke-width="2"/>
   <text x="400" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     DATATILGANGSLAG
@@ -85,7 +85,7 @@
     ORM • Database Connections • Caching • Data Validation
   </text>
   
-  <!-- Database Layer -->
+
   <rect x="50" y="400" width="700" height="60" rx="10" fill="#6c757d" stroke="#495057" stroke-width="2"/>
   <text x="400" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     DATABASE
@@ -94,7 +94,7 @@
     PostgreSQL • MongoDB • Redis Cache • File Storage
   </text>
   
-  <!-- External APIs -->
+
   <rect x="50" y="480" width="150" height="15" rx="5" fill="#dc3545" stroke="#c82333" stroke-width="1"/>
   <text x="125" y="492" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
     Bank API
@@ -115,20 +115,20 @@
     eFaktura API
   </text>
   
-  <!-- Connection arrows -->
+
   <defs>
     <marker id="arrowDown" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#6c757d"/>
     </marker>
   </defs>
   
-  <!-- Vertical arrows -->
+
   <line x1="400" y1="120" x2="400" y2="140" stroke="#6c757d" stroke-width="2" marker-end="url(#arrowDown)"/>
   <line x1="400" y1="200" x2="400" y2="220" stroke="#6c757d" stroke-width="2" marker-end="url(#arrowDown)"/>
   <line x1="400" y1="300" x2="400" y2="320" stroke="#6c757d" stroke-width="2" marker-end="url(#arrowDown)"/>
   <line x1="400" y1="380" x2="400" y2="400" stroke="#6c757d" stroke-width="2" marker-end="url(#arrowDown)"/>
   
-  <!-- External API connections -->
+
   <line x1="125" y1="460" x2="125" y2="480" stroke="#dc3545" stroke-width="1" marker-end="url(#arrowDown)"/>
   <line x1="295" y1="460" x2="295" y2="480" stroke="#dc3545" stroke-width="1" marker-end="url(#arrowDown)"/>
   <line x1="465" y1="460" x2="465" y2="480" stroke="#dc3545" stroke-width="1" marker-end="url(#arrowDown)"/>

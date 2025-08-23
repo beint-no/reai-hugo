@@ -10,26 +10,26 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="400" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
   <text x="400" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="28" font-weight="bold">
     Hva er et Investeringsselskap?
   </text>
   
-  <!-- Main content area -->
+
   <rect x="50" y="120" width="700" height="240" fill="white" stroke="#ced4da" stroke-width="1" rx="10"/>
   
-  <!-- Investment company icon -->
+
   <circle cx="150" cy="200" r="40" fill="#0066cc" stroke="#004499" stroke-width="2"/>
   <text x="150" y="210" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
     IS
   </text>
   
-  <!-- Arrows and investor groups -->
-  <!-- Left investors -->
+
+
   <circle cx="80" cy="160" r="15" fill="#28a745" stroke="#1e7e34" stroke-width="1"/>
   <text x="80" y="167" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10" font-weight="bold">
     I1
@@ -43,12 +43,12 @@
     I3
   </text>
   
-  <!-- Arrows from investors to investment company -->
+
   <path d="M 95 160 L 110 180" stroke="#6c757d" stroke-width="2" marker-end="url(#arrowhead)"/>
   <path d="M 95 200 L 110 200" stroke="#6c757d" stroke-width="2" marker-end="url(#arrowhead)"/>
   <path d="M 95 240 L 110 220" stroke="#6c757d" stroke-width="2" marker-end="url(#arrowhead)"/>
   
-  <!-- Investment targets -->
+
   <rect x="250" y="140" width="80" height="30" fill="#ffc107" stroke="#e0a800" stroke-width="1" rx="5"/>
   <text x="290" y="160" text-anchor="middle" fill="#212529" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Aksjer
@@ -64,12 +64,12 @@
     Eiendom
   </text>
   
-  <!-- Arrows from investment company to targets -->
+
   <path d="M 190 180 L 250 155" stroke="#6c757d" stroke-width="2" marker-end="url(#arrowhead)"/>
   <path d="M 190 200 L 250 195" stroke="#6c757d" stroke-width="2" marker-end="url(#arrowhead)"/>
   <path d="M 190 220 L 250 235" stroke="#6c757d" stroke-width="2" marker-end="url(#arrowhead)"/>
   
-  <!-- Key features -->
+
   <text x="400" y="150" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#212529">
     Hovedfunksjoner:
   </text>
@@ -89,7 +89,7 @@
     • Likviditet for investorer
   </text>
   
-  <!-- Benefits box -->
+
   <rect x="550" y="140" width="180" height="100" fill="#e8f5e8" stroke="#28a745" stroke-width="1" rx="5"/>
   <text x="640" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#155724">
     Fordeler
@@ -107,7 +107,7 @@
     ✓ Enkel inn- og utgang
   </text>
   
-  <!-- Labels -->
+
   <text x="80" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
     Investorer
   </text>
@@ -115,14 +115,14 @@
     Investeringsmål
   </text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#6c757d"/>
     </marker>
   </defs>
   
-  <!-- Footer -->
+
   <text x="400" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
     Et investeringsselskap samler kapital fra investorer for profesjonell forvaltning
   </text>

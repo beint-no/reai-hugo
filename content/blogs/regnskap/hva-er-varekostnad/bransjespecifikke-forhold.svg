@@ -22,18 +22,18 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#ffffff"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#1f2937">Bransjespecifikke Forhold - Varekostnad</text>
   
-  <!-- Retail -->
+
   <g transform="translate(50, 70)">
     <rect x="0" y="0" width="230" height="150" fill="url(#retailGradient)" rx="10"/>
     <text x="115" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">🛒 DETALJHANDEL</text>
     
-    <!-- Retail characteristics -->
+
     <g transform="translate(10, 40)">
       <rect x="0" y="0" width="210" height="100" fill="rgba(255,255,255,0.2)" rx="5"/>
       <text x="10" y="15" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">Karakteristika:</text>
@@ -47,12 +47,12 @@
     </g>
   </g>
   
-  <!-- Manufacturing -->
+
   <g transform="translate(300, 70)">
     <rect x="0" y="0" width="230" height="150" fill="url(#manufacturingGradient)" rx="10"/>
     <text x="115" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">🏭 PRODUKSJON</text>
     
-    <!-- Manufacturing characteristics -->
+
     <g transform="translate(10, 40)">
       <rect x="0" y="0" width="210" height="100" fill="rgba(255,255,255,0.2)" rx="5"/>
       <text x="10" y="15" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">Komponenter:</text>
@@ -66,12 +66,12 @@
     </g>
   </g>
   
-  <!-- Import/Export -->
+
   <g transform="translate(550, 70)">
     <rect x="0" y="0" width="200" height="150" fill="url(#importGradient)" rx="10"/>
     <text x="100" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">🌍 IMPORT</text>
     
-    <!-- Import characteristics -->
+
     <g transform="translate(10, 40)">
       <rect x="0" y="0" width="180" height="100" fill="rgba(255,255,255,0.2)" rx="5"/>
       <text x="10" y="15" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">Utfordringer:</text>
@@ -85,12 +85,12 @@
     </g>
   </g>
   
-  <!-- Seasonal -->
+
   <g transform="translate(50, 250)">
     <rect x="0" y="0" width="230" height="150" fill="url(#seasonalGradient)" rx="10"/>
     <text x="115" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">📅 SESONGHANDEL</text>
     
-    <!-- Seasonal characteristics -->
+
     <g transform="translate(10, 40)">
       <rect x="0" y="0" width="210" height="100" fill="rgba(255,255,255,0.2)" rx="5"/>
       <text x="10" y="15" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">Særlige hensyn:</text>
@@ -104,12 +104,12 @@
     </g>
   </g>
   
-  <!-- Technology -->
+
   <g transform="translate(300, 250)">
     <rect x="0" y="0" width="230" height="150" fill="url(#techGradient)" rx="10"/>
     <text x="115" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">💻 TEKNOLOGI</text>
     
-    <!-- Technology characteristics -->
+
     <g transform="translate(10, 40)">
       <rect x="0" y="0" width="210" height="100" fill="rgba(255,255,255,0.2)" rx="5"/>
       <text x="10" y="15" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">Unike utfordringer:</text>
@@ -123,12 +123,12 @@
     </g>
   </g>
   
-  <!-- Comparison table -->
+
   <g transform="translate(550, 250)">
     <rect x="0" y="0" width="200" height="150" fill="#64748b" rx="10"/>
     <text x="100" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">📊 SAMMENLIGNING</text>
     
-    <!-- Comparison data -->
+
     <g transform="translate(10, 40)">
       <rect x="0" y="0" width="180" height="100" fill="rgba(255,255,255,0.2)" rx="5"/>
       <text x="10" y="15" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="white">Lageromsetning (typisk):</text>
@@ -142,13 +142,13 @@
     </g>
   </g>
   
-  <!-- Critical success factors by industry -->
+
   <g transform="translate(50, 430)">
     <text x="350" y="0" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#1f2937">Kritiske Suksessfaktorer per Bransje</text>
     
-    <!-- Success factors table -->
+
     <g transform="translate(0, 25)">
-      <!-- Table header -->
+
       <rect x="0" y="0" width="700" height="25" fill="#e5e7eb" stroke="#d1d5db"/>
       <text x="80" y="17" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#1f2937">Bransje</text>
       <text x="200" y="17" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#1f2937">Kostnadsfokus</text>
@@ -156,8 +156,8 @@
       <text x="520" y="17" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#1f2937">Risikostyring</text>
       <text x="620" y="17" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#1f2937">Regulering</text>
       
-      <!-- Table rows -->
-      <!-- Retail -->
+
+
       <rect x="0" y="25" width="700" height="20" fill="#f8fafc" stroke="#d1d5db"/>
       <text x="80" y="39" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#1f2937">Detaljhandel</text>
       <text x="200" y="39" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#1f2937">Svinn, automatisering</text>
@@ -165,7 +165,7 @@
       <text x="520" y="39" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#1f2937">Tyveri, foreldelse</text>
       <text x="620" y="39" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#1f2937">Forbrukerlovgivning</text>
       
-      <!-- Manufacturing -->
+
       <rect x="0" y="45" width="700" height="20" fill="#ffffff" stroke="#d1d5db"/>
       <text x="80" y="59" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#1f2937">Produksjon</text>
       <text x="200" y="59" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#1f2937">WIP-verdivurdering</text>
@@ -173,7 +173,7 @@
       <text x="520" y="59" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#1f2937">Råvarepriser</text>
       <text x="620" y="59" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#1f2937">Miljø, arbeidsmiljø</text>
       
-      <!-- Import -->
+
       <rect x="0" y="65" width="700" height="20" fill="#f8fafc" stroke="#d1d5db"/>
       <text x="80" y="79" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#1f2937">Import/Grossist</text>
       <text x="200" y="79" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#1f2937">Valuta, toll</text>
@@ -181,7 +181,7 @@
       <text x="520" y="79" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#1f2937">Politisk, valuta</text>
       <text x="620" y="79" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#1f2937">Tollregulering</text>
       
-      <!-- Seasonal -->
+
       <rect x="0" y="85" width="700" height="20" fill="#ffffff" stroke="#d1d5db"/>
       <text x="80" y="99" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#1f2937">Sesonghandel</text>
       <text x="200" y="99" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#1f2937">Clearance, timing</text>
@@ -189,7 +189,7 @@
       <text x="520" y="99" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#1f2937">Sesongvariasjoner</text>
       <text x="620" y="99" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#1f2937">Mode/tekstilregulering</text>
       
-      <!-- Technology -->
+
       <rect x="0" y="105" width="700" height="20" fill="#f8fafc" stroke="#d1d5db"/>
       <text x="80" y="119" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#1f2937">Teknologi</text>
       <text x="200" y="119" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#1f2937">FoU-integration</text>
@@ -199,6 +199,6 @@
     </g>
   </g>
   
-  <!-- Bottom note -->
+
   <text x="400" y="580" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#64748b">Suksessful varekostnadsstyring krever tilpasning til bransjens spesifikke utfordringer og reguleringer</text>
 </svg>

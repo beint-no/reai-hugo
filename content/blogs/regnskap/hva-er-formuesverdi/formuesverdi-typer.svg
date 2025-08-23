@@ -1,13 +1,13 @@
 <svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="400" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Ulike Typer Formuesverdier
   </text>
   
-  <!-- Markedsverdi box -->
+
   <rect x="50" y="70" width="200" height="280" fill="#e8f5e8" stroke="#27ae60" stroke-width="2" rx="8"/>
   <text x="150" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#27ae60">
     MARKEDSVERDI
@@ -28,7 +28,7 @@
   <text x="60" y="285" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">Bolig: 4.2 mill kr</text>
   <text x="60" y="300" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">(nylig salg i området)</text>
   
-  <!-- Bokført verdi box -->
+
   <rect x="300" y="70" width="200" height="280" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="8"/>
   <text x="400" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#856404">
     BOKFØRT VERDI
@@ -49,7 +49,7 @@
   <text x="310" y="285" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">(kost 1.2 mill - 400k</text>
   <text x="310" y="300" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">avskrivninger)</text>
   
-  <!-- Skattemessig verdi box -->
+
   <rect x="550" y="70" width="200" height="280" fill="#f8d7da" stroke="#dc3545" stroke-width="2" rx="8"/>
   <text x="650" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#721c24">
     SKATTEMESSIG VERDI
@@ -70,18 +70,18 @@
   <text x="560" y="285" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">(25% av 4.2 mill</text>
   <text x="560" y="300" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">markedsverdi)</text>
   
-  <!-- Arrows showing relationships -->
+
   <path d="M 250 210 L 300 210" stroke="#34495e" stroke-width="2" marker-end="url(#arrow)"/>
   <path d="M 500 210 L 550 210" stroke="#34495e" stroke-width="2" marker-end="url(#arrow)"/>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>
     </marker>
   </defs>
   
-  <!-- Bottom note -->
+
   <text x="400" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">
     Samme eiendel kan ha forskjellige verdier avhengig av formål og kontekst
   </text>

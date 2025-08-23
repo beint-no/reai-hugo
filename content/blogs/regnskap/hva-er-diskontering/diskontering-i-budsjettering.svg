@@ -22,32 +22,32 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
   <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
     Diskontering i Budsjettering
   </text>
   
-  <!-- Application 1: Capital Budgets -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="340" height="120" rx="10" fill="url(#budgetGradient)" opacity="0.9"/>
     <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
       Kapitalbudsjetter
     </text>
     
-    <!-- Icon -->
+
     <circle cx="50" cy="65" r="20" fill="white" opacity="0.3"/>
     <text x="50" y="72" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">💼</text>
     
-    <!-- Description -->
+
     <text x="90" y="50" font-family="Arial, sans-serif" font-size="14" fill="white">
       Evaluering av investeringsprosjekter
     </text>
     
-    <!-- Key points -->
+
     <text x="90" y="70" font-family="Arial, sans-serif" font-size="12" fill="white">
       • NPV-analyse av kapitalinvesteringer
     </text>
@@ -59,23 +59,23 @@
     </text>
   </g>
   
-  <!-- Application 2: Strategic Plans -->
+
   <g transform="translate(410, 80)">
     <rect x="0" y="0" width="340" height="120" rx="10" fill="url(#strategicGradient)" opacity="0.9"/>
     <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
       Strategiske Planer
     </text>
     
-    <!-- Icon -->
+
     <circle cx="50" cy="65" r="20" fill="white" opacity="0.3"/>
     <text x="50" y="72" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">🎯</text>
     
-    <!-- Description -->
+
     <text x="90" y="50" font-family="Arial, sans-serif" font-size="14" fill="white">
       Langsiktige verdivurderinger
     </text>
     
-    <!-- Key points -->
+
     <text x="90" y="70" font-family="Arial, sans-serif" font-size="12" fill="white">
       • Verdsettelse av strategiske initiativer
     </text>
@@ -87,23 +87,23 @@
     </text>
   </g>
   
-  <!-- Application 3: Scenario Analysis -->
+
   <g transform="translate(50, 220)">
     <rect x="0" y="0" width="340" height="120" rx="10" fill="url(#scenarioGradient)" opacity="0.9"/>
     <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
       Scenarioanalyse
     </text>
     
-    <!-- Icon -->
+
     <circle cx="50" cy="65" r="20" fill="white" opacity="0.3"/>
     <text x="50" y="72" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">📊</text>
     
-    <!-- Description -->
+
     <text x="90" y="50" font-family="Arial, sans-serif" font-size="14" fill="white">
       Vurdering av ulike fremtidsscenarier
     </text>
     
-    <!-- Key points -->
+
     <text x="90" y="70" font-family="Arial, sans-serif" font-size="12" fill="white">
       • Optimistisk, realistisk, pessimistisk
     </text>
@@ -115,23 +115,23 @@
     </text>
   </g>
   
-  <!-- Application 4: Risk Adjustment -->
+
   <g transform="translate(410, 220)">
     <rect x="0" y="0" width="340" height="120" rx="10" fill="url(#processGradient)" opacity="0.9"/>
     <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
       Risikojustering
     </text>
     
-    <!-- Icon -->
+
     <circle cx="50" cy="65" r="20" fill="white" opacity="0.3"/>
     <text x="50" y="72" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">⚖️</text>
     
-    <!-- Description -->
+
     <text x="90" y="50" font-family="Arial, sans-serif" font-size="14" fill="white">
       Tilpasning av diskonteringsrente for risiko
     </text>
     
-    <!-- Key points -->
+
     <text x="90" y="70" font-family="Arial, sans-serif" font-size="12" fill="white">
       • Høyere rente for risikofylte prosjekter
     </text>
@@ -143,14 +143,14 @@
     </text>
   </g>
   
-  <!-- Budget Process Flow -->
+
   <g transform="translate(50, 360)">
     <rect x="0" y="0" width="700" height="140" rx="10" fill="#ffffff" stroke="#ddd" stroke-width="2"/>
     <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333">
       Diskonteringsprosess i Budsjettering
     </text>
     
-    <!-- Step 1 -->
+
     <g transform="translate(50, 40)">
       <rect x="0" y="0" width="120" height="80" rx="5" fill="#e3f2fd" stroke="#2196F3" stroke-width="1"/>
       <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1976D2">
@@ -170,10 +170,10 @@
       </text>
     </g>
     
-    <!-- Arrow -->
+
     <text x="185" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#666">→</text>
     
-    <!-- Step 2 -->
+
     <g transform="translate(200, 40)">
       <rect x="0" y="0" width="120" height="80" rx="5" fill="#e8f5e8" stroke="#4CAF50" stroke-width="1"/>
       <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2E7D32">
@@ -193,10 +193,10 @@
       </text>
     </g>
     
-    <!-- Arrow -->
+
     <text x="335" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#666">→</text>
     
-    <!-- Step 3 -->
+
     <g transform="translate(350, 40)">
       <rect x="0" y="0" width="120" height="80" rx="5" fill="#fff3e0" stroke="#FF9800" stroke-width="1"/>
       <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#F57C00">
@@ -216,10 +216,10 @@
       </text>
     </g>
     
-    <!-- Arrow -->
+
     <text x="485" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#666">→</text>
     
-    <!-- Step 4 -->
+
     <g transform="translate(500, 40)">
       <rect x="0" y="0" width="120" height="80" rx="5" fill="#f3e5f5" stroke="#9C27B0" stroke-width="1"/>
       <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#7B1FA2">
@@ -240,7 +240,7 @@
     </g>
   </g>
   
-  <!-- Key Considerations -->
+
   <g transform="translate(50, 520)">
     <rect x="0" y="0" width="700" height="70" rx="10" fill="#e8f5e8" stroke="#4CAF50" stroke-width="2"/>
     <text x="350" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2E7D32">

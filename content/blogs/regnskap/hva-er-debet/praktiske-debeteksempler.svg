@@ -14,24 +14,24 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="900" height="800" fill="#f9fafb"/>
   
-  <!-- Title -->
+
   <text x="450" y="40" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="24" font-weight="bold">Praktiske Debeteksempler</text>
   
-  <!-- Example 1: Purchase of office furniture -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="800" height="180" fill="url(#exampleBg)" stroke="#0ea5e9" stroke-width="2" rx="8"/>
     <text x="20" y="30" fill="#0c4a6e" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Eksempel 1: Kjøp av Kontormøbler for 50 000 kr</text>
     
-    <!-- Transaction description -->
+
     <text x="20" y="55" fill="#374151" font-family="Arial, sans-serif" font-size="12">Selskapet kjøper kontormøbler og betaler kontant fra bankkonto</text>
     
-    <!-- Journal entry table -->
+
     <rect x="20" y="70" width="760" height="90" fill="white" stroke="#e5e7eb" stroke-width="1" rx="4"/>
     
-    <!-- Table headers -->
+
     <rect x="20" y="70" width="300" height="30" fill="#f3f4f6" stroke="#e5e7eb" stroke-width="1"/>
     <rect x="320" y="70" width="120" height="30" fill="url(#debitCol)" stroke="#e5e7eb" stroke-width="1"/>
     <rect x="440" y="70" width="120" height="30" fill="url(#creditCol)" stroke="#e5e7eb" stroke-width="1"/>
@@ -42,7 +42,7 @@
     <text x="500" y="90" text-anchor="middle" fill="#c2410c" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Kredit</text>
     <text x="670" y="90" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Forklaring</text>
     
-    <!-- Table rows -->
+
     <rect x="20" y="100" width="300" height="30" fill="white" stroke="#e5e7eb" stroke-width="1"/>
     <rect x="320" y="100" width="120" height="30" fill="white" stroke="#e5e7eb" stroke-width="1"/>
     <rect x="440" y="100" width="120" height="30" fill="white" stroke="#e5e7eb" stroke-width="1"/>
@@ -64,18 +64,18 @@
     <text x="570" y="150" fill="#374151" font-family="Arial, sans-serif" font-size="10">Eiendel reduseres</text>
   </g>
   
-  <!-- Example 2: Sale of goods -->
+
   <g transform="translate(50, 280)">
     <rect x="0" y="0" width="800" height="180" fill="url(#exampleBg)" stroke="#0ea5e9" stroke-width="2" rx="8"/>
     <text x="20" y="30" fill="#0c4a6e" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Eksempel 2: Salg av Varer for 25 000 kr på Kreditt</text>
     
-    <!-- Transaction description -->
+
     <text x="20" y="55" fill="#374151" font-family="Arial, sans-serif" font-size="12">Selskapet selger varer til kunde som skal betale senere (kundefordring)</text>
     
-    <!-- Journal entry table -->
+
     <rect x="20" y="70" width="760" height="90" fill="white" stroke="#e5e7eb" stroke-width="1" rx="4"/>
     
-    <!-- Table headers -->
+
     <rect x="20" y="70" width="300" height="30" fill="#f3f4f6" stroke="#e5e7eb" stroke-width="1"/>
     <rect x="320" y="70" width="120" height="30" fill="url(#debitCol)" stroke="#e5e7eb" stroke-width="1"/>
     <rect x="440" y="70" width="120" height="30" fill="url(#creditCol)" stroke="#e5e7eb" stroke-width="1"/>
@@ -86,7 +86,7 @@
     <text x="500" y="90" text-anchor="middle" fill="#c2410c" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Kredit</text>
     <text x="670" y="90" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Forklaring</text>
     
-    <!-- Table rows -->
+
     <rect x="20" y="100" width="300" height="30" fill="white" stroke="#e5e7eb" stroke-width="1"/>
     <rect x="320" y="100" width="120" height="30" fill="white" stroke="#e5e7eb" stroke-width="1"/>
     <rect x="440" y="100" width="120" height="30" fill="white" stroke="#e5e7eb" stroke-width="1"/>
@@ -108,18 +108,18 @@
     <text x="570" y="150" fill="#374151" font-family="Arial, sans-serif" font-size="10">Inntekt øker</text>
   </g>
   
-  <!-- Example 3: Payment of salary -->
+
   <g transform="translate(50, 480)">
     <rect x="0" y="0" width="800" height="180" fill="url(#exampleBg)" stroke="#0ea5e9" stroke-width="2" rx="8"/>
     <text x="20" y="30" fill="#0c4a6e" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Eksempel 3: Utbetaling av Lønn på 100 000 kr</text>
     
-    <!-- Transaction description -->
+
     <text x="20" y="55" fill="#374151" font-family="Arial, sans-serif" font-size="12">Selskapet betaler lønn til ansatte fra bankkonto</text>
     
-    <!-- Journal entry table -->
+
     <rect x="20" y="70" width="760" height="90" fill="white" stroke="#e5e7eb" stroke-width="1" rx="4"/>
     
-    <!-- Table headers -->
+
     <rect x="20" y="70" width="300" height="30" fill="#f3f4f6" stroke="#e5e7eb" stroke-width="1"/>
     <rect x="320" y="70" width="120" height="30" fill="url(#debitCol)" stroke="#e5e7eb" stroke-width="1"/>
     <rect x="440" y="70" width="120" height="30" fill="url(#creditCol)" stroke="#e5e7eb" stroke-width="1"/>
@@ -130,7 +130,7 @@
     <text x="500" y="90" text-anchor="middle" fill="#c2410c" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Kredit</text>
     <text x="670" y="90" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Forklaring</text>
     
-    <!-- Table rows -->
+
     <rect x="20" y="100" width="300" height="30" fill="white" stroke="#e5e7eb" stroke-width="1"/>
     <rect x="320" y="100" width="120" height="30" fill="white" stroke="#e5e7eb" stroke-width="1"/>
     <rect x="440" y="100" width="120" height="30" fill="white" stroke="#e5e7eb" stroke-width="1"/>
@@ -152,7 +152,7 @@
     <text x="570" y="150" fill="#374151" font-family="Arial, sans-serif" font-size="10">Eiendel reduseres</text>
   </g>
   
-  <!-- Summary and key points -->
+
   <g transform="translate(50, 680)">
     <rect x="0" y="0" width="800" height="100" fill="#f3f4f6" stroke="#9ca3af" stroke-width="2" rx="8"/>
     <text x="20" y="30" fill="#1f2937" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Viktige Prinsipper i Eksemplene:</text>

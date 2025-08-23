@@ -22,17 +22,17 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
   <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
     Nøkkeltall for Bankinnskudd Analyse
   </text>
   
-  <!-- Key Metrics Cards -->
-  <!-- Liquidity Ratio 1 -->
+
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="160" height="140" rx="10" fill="url(#liquidityGradient)" opacity="0.9"/>
     <text x="80" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -55,7 +55,7 @@
     </text>
   </g>
   
-  <!-- Cash Ratio -->
+
   <g transform="translate(230, 80)">
     <rect x="0" y="0" width="160" height="140" rx="10" fill="url(#cashGradient)" opacity="0.9"/>
     <text x="80" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -78,7 +78,7 @@
     </text>
   </g>
   
-  <!-- Interest Return -->
+
   <g transform="translate(410, 80)">
     <rect x="0" y="0" width="160" height="140" rx="10" fill="url(#returnGradient)" opacity="0.9"/>
     <text x="80" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -101,7 +101,7 @@
     </text>
   </g>
   
-  <!-- Currency Exposure -->
+
   <g transform="translate(590, 80)">
     <rect x="0" y="0" width="160" height="140" rx="10" fill="url(#currencyGradient)" opacity="0.9"/>
     <text x="80" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -124,16 +124,16 @@
     </text>
   </g>
   
-  <!-- Detailed Analysis Table -->
+
   <text x="50" y="260" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333">
     Detaljert Nøkkeltallanalyse:
   </text>
   
-  <!-- Analysis Table -->
+
   <g transform="translate(50, 280)">
     <rect x="0" y="0" width="700" height="200" rx="10" fill="#ffffff" stroke="#ddd" stroke-width="2"/>
     
-    <!-- Table Header -->
+
     <rect x="10" y="10" width="680" height="30" fill="#E3F2FD"/>
     <text x="80" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1976D2">
       Nøkkeltall
@@ -148,7 +148,7 @@
       Betydning
     </text>
     
-    <!-- Row 1: Liquidity Ratio -->
+
     <rect x="10" y="40" width="680" height="35" fill="#F8F9FA"/>
     <text x="20" y="60" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
       Likviditetsgrad 1
@@ -163,7 +163,7 @@
       God betalingsevne
     </text>
     
-    <!-- Row 2: Cash Ratio -->
+
     <text x="20" y="90" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
       Kontantandel
     </text>
@@ -177,7 +177,7 @@
       Moderat likviditetsnivå
     </text>
     
-    <!-- Row 3: Interest Return -->
+
     <rect x="10" y="100" width="680" height="35" fill="#F8F9FA"/>
     <text x="20" y="120" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
       Renteavkastning
@@ -192,7 +192,7 @@
       Tilfredsstillende avkastning
     </text>
     
-    <!-- Row 4: Currency Exposure -->
+
     <text x="20" y="150" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
       Valutaeksponering
     </text>
@@ -206,7 +206,7 @@
       Moderat valutarisiko
     </text>
     
-    <!-- Benchmark Comparison -->
+
     <text x="20" y="180" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#D32F2F">
       Bransjebenchmark:
     </text>
@@ -215,12 +215,12 @@
     </text>
   </g>
   
-  <!-- Trend Analysis -->
+
   <text x="50" y="510" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333">
     Trendanalyse og Anbefalinger:
   </text>
   
-  <!-- Trend Cards -->
+
   <g transform="translate(50, 530)">
     <rect x="0" y="0" width="220" height="60" rx="10" fill="#E8F5E8" stroke="#4CAF50" stroke-width="2"/>
     <text x="110" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2E7D32">

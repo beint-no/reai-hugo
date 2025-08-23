@@ -21,15 +21,15 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#0066cc">
     Vanlige Feil ved Forskuddstrekk
   </text>
   
-  <!-- Error 1: Wrong Percentage -->
+
   <g transform="translate(50, 70)">
     <rect x="0" y="0" width="340" height="80" fill="url(#errorGradient)" rx="10" filter="url(#shadow)"/>
     <circle cx="25" cy="25" r="15" fill="white"/>
@@ -46,7 +46,7 @@
     </text>
   </g>
   
-  <!-- Error 2: Missing Natural Benefits -->
+
   <g transform="translate(410, 70)">
     <rect x="0" y="0" width="340" height="80" fill="url(#errorGradient)" rx="10" filter="url(#shadow)"/>
     <circle cx="25" cy="25" r="15" fill="white"/>
@@ -63,7 +63,7 @@
     </text>
   </g>
   
-  <!-- Error 3: Incorrect Reporting -->
+
   <g transform="translate(50, 170)">
     <rect x="0" y="0" width="340" height="80" fill="url(#errorGradient)" rx="10" filter="url(#shadow)"/>
     <circle cx="25" cy="25" r="15" fill="white"/>
@@ -80,7 +80,7 @@
     </text>
   </g>
   
-  <!-- Error 4: Late Payment -->
+
   <g transform="translate(410, 170)">
     <rect x="0" y="0" width="340" height="80" fill="url(#errorGradient)" rx="10" filter="url(#shadow)"/>
     <circle cx="25" cy="25" r="15" fill="white"/>
@@ -97,7 +97,7 @@
     </text>
   </g>
   
-  <!-- Error 5: Missing Documentation -->
+
   <g transform="translate(230, 270)">
     <rect x="0" y="0" width="340" height="80" fill="url(#errorGradient)" rx="10" filter="url(#shadow)"/>
     <circle cx="25" cy="25" r="15" fill="white"/>
@@ -114,13 +114,13 @@
     </text>
   </g>
   
-  <!-- Prevention Strategies -->
+
   <g transform="translate(50, 370)">
     <text x="0" y="20" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#0066cc">
       Forebyggende Tiltak:
     </text>
     
-    <!-- Strategy 1 -->
+
     <g transform="translate(0, 40)">
       <rect x="0" y="0" width="160" height="60" fill="url(#solutionGradient)" rx="8" filter="url(#shadow)"/>
       <circle cx="20" cy="20" r="8" fill="white"/>
@@ -130,7 +130,7 @@
       <text x="10" y="52" font-family="Arial, sans-serif" font-size="9" fill="white">kontrollrutiner</text>
     </g>
     
-    <!-- Strategy 2 -->
+
     <g transform="translate(180, 40)">
       <rect x="0" y="0" width="160" height="60" fill="url(#solutionGradient)" rx="8" filter="url(#shadow)"/>
       <circle cx="20" cy="20" r="8" fill="white"/>
@@ -140,7 +140,7 @@
       <text x="10" y="52" font-family="Arial, sans-serif" font-size="9" fill="white">kompetanseheving</text>
     </g>
     
-    <!-- Strategy 3 -->
+
     <g transform="translate(360, 40)">
       <rect x="0" y="0" width="160" height="60" fill="url(#solutionGradient)" rx="8" filter="url(#shadow)"/>
       <circle cx="20" cy="20" r="8" fill="white"/>
@@ -150,7 +150,7 @@
       <text x="10" y="52" font-family="Arial, sans-serif" font-size="9" fill="white">hjelpemidler</text>
     </g>
     
-    <!-- Strategy 4 -->
+
     <g transform="translate(540, 40)">
       <rect x="0" y="0" width="160" height="60" fill="url(#solutionGradient)" rx="8" filter="url(#shadow)"/>
       <circle cx="20" cy="20" r="8" fill="white"/>
@@ -161,7 +161,7 @@
     </g>
   </g>
   
-  <!-- Consequences Warning -->
+
   <g transform="translate(50, 450)">
     <rect x="0" y="0" width="700" height="30" fill="url(#warningGradient)" rx="5"/>
     <text x="20" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#856404">

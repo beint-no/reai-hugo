@@ -9,15 +9,15 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1a202c">
     Regnskapsføring av Skjermingsfradrag
   </text>
   
-  <!-- Accrual of shielding -->
+
   <g transform="translate(200,100)">
     <text x="0" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2d3748">
       Opptjening av Skjermingsfradrag
@@ -45,7 +45,7 @@
     </text>
   </g>
   
-  <!-- Utilization on dividend -->
+
   <g transform="translate(600,100)">
     <text x="0" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2d3748">
       Anvendelse ved Utbytte
@@ -73,7 +73,7 @@
     </text>
   </g>
   
-  <!-- Balance sheet presentation -->
+
   <g transform="translate(400,280)">
     <text x="0" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2d3748">
       Balanseføring
@@ -111,7 +111,7 @@
     </text>
   </g>
   
-  <!-- Note disclosures -->
+
   <g transform="translate(400,420)">
     <rect x="-250" y="-30" width="500" height="60" rx="8" fill="#edf2f7" stroke="#cbd5e0" stroke-width="2"/>
     <text x="0" y="-10" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2d3748">
@@ -125,11 +125,11 @@
     </text>
   </g>
   
-  <!-- Arrows showing the flow -->
+
   <path d="M 350 140 L 450 140" stroke="#4a5568" stroke-width="2" marker-end="url(#arrow)" fill="none"/>
   <path d="M 400 180 L 400 250" stroke="#4a5568" stroke-width="2" marker-end="url(#arrow)" fill="none"/>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#4a5568"/>

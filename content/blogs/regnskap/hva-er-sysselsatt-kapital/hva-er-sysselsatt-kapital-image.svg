@@ -14,53 +14,53 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f8fafc"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
   <text x="400" y="30" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="bold">Sysselsatt Kapital</text>
   <text x="400" y="55" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16">Egenkapital + Rentebærende Gjeld</text>
   
-  <!-- Main diagram -->
+
   <g transform="translate(50, 120)">
-    <!-- Egenkapital box -->
+
     <rect x="0" y="0" width="200" height="120" fill="url(#egenkapitalGradient)" rx="10"/>
     <text x="100" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="18" font-weight="bold">Egenkapital</text>
     <text x="100" y="50" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14">• Aksjekapital</text>
     <text x="100" y="70" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14">• Opptjent egenkapital</text>
     <text x="100" y="90" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14">• Overkursfond</text>
     
-    <!-- Plus symbol -->
+
     <circle cx="250" cy="60" r="25" fill="#f59e0b"/>
     <text x="250" y="70" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="bold">+</text>
     
-    <!-- Rentebærende gjeld box -->
+
     <rect x="300" y="0" width="200" height="120" fill="url(#gjeldsGradient)" rx="10"/>
     <text x="400" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="18" font-weight="bold">Rentebærende Gjeld</text>
     <text x="400" y="50" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14">• Banklån</text>
     <text x="400" y="70" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14">• Obligasjoner</text>
     <text x="400" y="90" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14">• Konvertible lån</text>
     
-    <!-- Equals symbol -->
+
     <circle cx="550" cy="60" r="25" fill="#6366f1"/>
     <text x="550" y="70" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="bold">=</text>
     
-    <!-- Result box -->
+
     <rect x="600" y="20" width="150" height="80" fill="#1e293b" rx="10"/>
     <text x="675" y="40" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Sysselsatt</text>
     <text x="675" y="60" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Kapital</text>
     <text x="675" y="80" text-anchor="middle" fill="#fbbf24" font-family="Arial, sans-serif" font-size="14">Brukes til ROCE</text>
   </g>
   
-  <!-- Excluded items -->
+
   <g transform="translate(50, 280)">
     <rect x="0" y="0" width="700" height="80" fill="#fee2e2" stroke="#dc2626" stroke-width="2" rx="10"/>
     <text x="20" y="25" fill="#dc2626" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Ekskludert fra Sysselsatt Kapital (Rentefrie forpliktelser):</text>
     <text x="20" y="50" fill="#dc2626" font-family="Arial, sans-serif" font-size="14">• Leverandørgjeld • Skyldig offentlige avgifter • Påløpte kostnader • Forhåndsbetalinger</text>
   </g>
   
-  <!-- Key metrics -->
+
   <g transform="translate(50, 380)">
     <rect x="0" y="0" width="200" height="60" fill="#ddd6fe" rx="8"/>
     <text x="100" y="20" text-anchor="middle" fill="#5b21b6" font-family="Arial, sans-serif" font-size="14" font-weight="bold">ROCE</text>

@@ -1,19 +1,19 @@
 <svg width="700" height="500" viewBox="0 0 700 500" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="700" height="500" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="350" y="30" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c3e50" text-anchor="middle">
     Helligdager og Lønnsplikt
   </text>
   
-  <!-- Holiday types section -->
+
   <rect x="50" y="60" width="600" height="120" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2" rx="10"/>
   <text x="350" y="85" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50" text-anchor="middle">
     Typer Helligdager
   </text>
   
-  <!-- Full holiday -->
+
   <rect x="80" y="100" width="150" height="60" fill="#e74c3c" rx="5"/>
   <text x="155" y="120" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white" text-anchor="middle">
     Full Helligdag
@@ -25,7 +25,7 @@
     100% lønnsplikt
   </text>
   
-  <!-- Half holiday -->
+
   <rect x="275" y="100" width="150" height="60" fill="#f39c12" rx="5"/>
   <text x="350" y="120" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white" text-anchor="middle">
     Halv Helligdag
@@ -37,7 +37,7 @@
     100% lønnsplikt
   </text>
   
-  <!-- Weekend holiday -->
+
   <rect x="470" y="100" width="150" height="60" fill="#95a5a6" rx="5"/>
   <text x="545" y="120" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white" text-anchor="middle">
     Helg-Helligdag
@@ -49,16 +49,16 @@
     Variabel lønnsplikt
   </text>
   
-  <!-- Arrow down -->
+
   <path d="M 350 190 L 350 220" stroke="#7f8c8d" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Wage obligation calculation -->
+
   <rect x="50" y="230" width="600" height="180" fill="#ffffff" stroke="#3498db" stroke-width="2" rx="10"/>
   <text x="350" y="255" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50" text-anchor="middle">
     Lønnsplikt Beregning
   </text>
   
-  <!-- Normal employee -->
+
   <rect x="80" y="275" width="250" height="120" fill="#d5dbdb" rx="5"/>
   <text x="205" y="295" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50" text-anchor="middle">
     Ordinær Ansatt
@@ -80,7 +80,7 @@
     Total kostnad: 2 522 kr
   </text>
   
-  <!-- Holiday worker -->
+
   <rect x="370" y="275" width="250" height="120" fill="#d5dbdb" rx="5"/>
   <text x="495" y="295" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50" text-anchor="middle">
     Arbeider på Helligdag
@@ -102,7 +102,7 @@
     Total kostnad: 5 044 kr
   </text>
   
-  <!-- Key principles -->
+
   <rect x="50" y="430" width="600" height="50" fill="#27ae60" rx="5"/>
   <text x="350" y="450" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white" text-anchor="middle">
     Nøkkelprinsipp: Alle ansatte har rett til lønn på helligdager
@@ -111,7 +111,7 @@
     Arbeid på helligdag gir rett til 100% tilleggsgodtgjørelse
   </text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#7f8c8d"/>

@@ -1,13 +1,13 @@
 <svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#2c3e50">
     Oversikt over Budsjetttyper
   </text>
   
-  <!-- Driftsbudsjett -->
+
   <rect x="50" y="100" width="220" height="180" rx="15" fill="#3498db" stroke="#2980b9" stroke-width="3"/>
   <text x="160" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
     DRIFTSBUDSJETT
@@ -16,7 +16,7 @@
     Løpende drift og operasjoner
   </text>
   
-  <!-- Driftsbudsjett components -->
+
   <rect x="70" y="170" width="180" height="25" rx="5" fill="#2980b9"/>
   <text x="160" y="187" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
     • Salgsbudsjett
@@ -37,7 +37,7 @@
     • Driftskostnader
   </text>
   
-  <!-- Investeringsbudsjett -->
+
   <rect x="290" y="100" width="220" height="180" rx="15" fill="#e74c3c" stroke="#c0392b" stroke-width="3"/>
   <text x="400" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
     INVESTERINGSBUDSJETT
@@ -46,7 +46,7 @@
     Kapitalutgifter og anlegg
   </text>
   
-  <!-- Investeringsbudsjett components -->
+
   <rect x="310" y="170" width="180" height="25" rx="5" fill="#c0392b"/>
   <text x="400" y="187" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
     • Anleggsmidler
@@ -67,7 +67,7 @@
     • Forskning og utvikling
   </text>
   
-  <!-- Likviditetsbudsjett -->
+
   <rect x="530" y="100" width="220" height="180" rx="15" fill="#27ae60" stroke="#229954" stroke-width="3"/>
   <text x="640" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
     LIKVIDITETSBUDSJETT
@@ -76,7 +76,7 @@
     Kontantstrømmer og likviditet
   </text>
   
-  <!-- Likviditetsbudsjett components -->
+
   <rect x="550" y="170" width="180" height="25" rx="5" fill="#229954"/>
   <text x="640" y="187" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
     • Innbetalinger
@@ -97,11 +97,11 @@
     • Betalingsevne
   </text>
   
-  <!-- Integration arrows -->
+
   <path d="M 270 190 Q 290 190 290 190" stroke="#34495e" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 510 190 Q 530 190 530 190" stroke="#34495e" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Central integration concept -->
+
   <ellipse cx="400" cy="380" rx="150" ry="60" fill="#f39c12" stroke="#e67e22" stroke-width="3"/>
   <text x="400" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     INTEGRERT BUDSJETT
@@ -113,12 +113,12 @@
     for helhetlig økonomistyring
   </text>
   
-  <!-- Arrows pointing to integration -->
+
   <line x1="160" y1="280" x2="300" y2="340" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
   <line x1="400" y1="280" x2="400" y2="320" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
   <line x1="640" y1="280" x2="500" y2="340" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
   
-  <!-- Key characteristics -->
+
   <rect x="100" y="480" width="600" height="80" rx="10" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2"/>
   <text x="400" y="505" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
     Nøkkelkarakteristikker for Effektiv Budsjettering
@@ -142,7 +142,7 @@
     • Involvering av nøkkelpersoner
   </text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>

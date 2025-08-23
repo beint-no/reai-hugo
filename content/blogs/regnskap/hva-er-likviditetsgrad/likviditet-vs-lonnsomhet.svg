@@ -14,20 +14,20 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#F8F9FA"/>
   
-  <!-- Title -->
+
   <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2C3E50">
     Sammenheng mellom Likviditet og Lønnsomhet
   </text>
   
-  <!-- Balance scale icon -->
+
   <line x1="350" y1="80" x2="450" y2="80" stroke="#34495E" stroke-width="4"/>
   <circle cx="400" cy="80" r="8" fill="#34495E"/>
   <line x1="400" y1="72" x2="400" y2="60" stroke="#34495E" stroke-width="3"/>
   
-  <!-- Left side - Likviditet -->
+
   <rect x="50" y="120" width="300" height="320" fill="url(#liquidityGrad)" rx="15"/>
   <text x="200" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
     LIKVIDITET
@@ -36,7 +36,7 @@
     (Kortsiktig fokus)
   </text>
   
-  <!-- Liquidity characteristics -->
+
   <rect x="70" y="200" width="260" height="40" fill="rgba(255,255,255,0.2)" rx="8"/>
   <text x="85" y="215" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     Tidsperspektiv:
@@ -74,7 +74,7 @@
     Kritisk for overlevelse
   </text>
   
-  <!-- Right side - Lønnsomhet -->
+
   <rect x="450" y="120" width="300" height="320" fill="url(#profitGrad)" rx="15"/>
   <text x="600" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
     LØNNSOMHET
@@ -83,7 +83,7 @@
     (Lang- og kortsiktig fokus)
   </text>
   
-  <!-- Profitability characteristics -->
+
   <rect x="470" y="200" width="260" height="40" fill="rgba(255,255,255,0.2)" rx="8"/>
   <text x="485" y="215" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     Tidsperspektiv:
@@ -121,17 +121,17 @@
     Nødvendig for vekst
   </text>
   
-  <!-- Central balance section -->
+
   <rect x="300" y="460" width="200" height="30" fill="url(#balanceGrad)" rx="8"/>
   <text x="400" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     OPTIMAL BALANSE
   </text>
   
-  <!-- Arrows showing relationship -->
+
   <path d="M 350 300 L 370 300" stroke="#E74C3C" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 450 300 L 430 300" stroke="#E74C3C" stroke-width="3" fill="none" marker-end="url(#arrowhead2)"/>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#E74C3C"/>
@@ -141,7 +141,7 @@
     </marker>
   </defs>
   
-  <!-- Relationship text -->
+
   <text x="400" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#E74C3C">
     Gjensidig påvirkning
   </text>

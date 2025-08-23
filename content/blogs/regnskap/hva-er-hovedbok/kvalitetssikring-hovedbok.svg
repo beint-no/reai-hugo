@@ -1,13 +1,13 @@
 <svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Kvalitetssikring av Hovedbok
   </text>
   
-  <!-- Central Quality Control -->
+
   <ellipse cx="400" cy="200" rx="120" ry="80" fill="#3498db" stroke="#2980b9" stroke-width="3"/>
   <text x="400" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
     KVALITETS-
@@ -19,8 +19,8 @@
     Kontinuerlig kontroll
   </text>
   
-  <!-- Control processes around the center -->
-  <!-- Balance Control -->
+
+
   <rect x="150" y="80" width="140" height="60" fill="#27ae60" stroke="#229954" stroke-width="2" rx="5"/>
   <text x="220" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Balansekontroll
@@ -32,7 +32,7 @@
     Automatisk validering
   </text>
   
-  <!-- Document Control -->
+
   <rect x="510" y="80" width="140" height="60" fill="#e74c3c" stroke="#c0392b" stroke-width="2" rx="5"/>
   <text x="580" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Bilagskontroll
@@ -44,7 +44,7 @@
     Sporbarhet til kilde
   </text>
   
-  <!-- Account Validation -->
+
   <rect x="50" y="250" width="140" height="60" fill="#f39c12" stroke="#e67e22" stroke-width="2" rx="5"/>
   <text x="120" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Kontovalidering
@@ -56,7 +56,7 @@
     Kontoplan-compliance
   </text>
   
-  <!-- Reconciliation -->
+
   <rect x="610" y="250" width="140" height="60" fill="#9b59b6" stroke="#8e44ad" stroke-width="2" rx="5"/>
   <text x="680" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Avstemming
@@ -68,7 +68,7 @@
     Bank, leverandører
   </text>
   
-  <!-- Period Control -->
+
   <rect x="150" y="320" width="140" height="60" fill="#1abc9c" stroke="#16a085" stroke-width="2" rx="5"/>
   <text x="220" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Periodekontroll
@@ -80,7 +80,7 @@
     Konsistens over tid
   </text>
   
-  <!-- Audit Trail -->
+
   <rect x="510" y="320" width="140" height="60" fill="#e67e22" stroke="#d35400" stroke-width="2" rx="5"/>
   <text x="580" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Revisjonsspor
@@ -92,7 +92,7 @@
     Endringssporing
   </text>
   
-  <!-- Arrows connecting to center -->
+
   <path d="M 220 140 L 340 160" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 580 140 L 460 160" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 190 280 L 320 220" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
@@ -100,13 +100,13 @@
   <path d="M 220 320 L 340 240" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 580 320 L 460 240" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Quality Control Process -->
+
   <rect x="50" y="420" width="700" height="150" fill="#ffffff" stroke="#bdc3c7" stroke-width="2" rx="10"/>
   <text x="400" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">
     Kvalitetssikringsprosess
   </text>
   
-  <!-- Process steps -->
+
   <rect x="70" y="470" width="120" height="80" fill="#3498db" fill-opacity="0.1" stroke="#3498db" stroke-width="2" rx="5"/>
   <text x="130" y="495" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
     1. REGISTRERING
@@ -177,19 +177,19 @@
     • Arkivering
   </text>
   
-  <!-- Process arrows -->
+
   <path d="M 190 510 L 205 510" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 330 510 L 345 510" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 470 510 L 485 510" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 610 510 L 625 510" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Key Performance Indicators -->
+
   <rect x="200" y="400" width="400" height="15" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1" rx="3"/>
   <text x="400" y="412" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
     KPI: Nøyaktighet 99.8% | Balanseavvik &lt; 0.01% | Avstemmingstid &lt; 2 timer
   </text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#2c3e50"/>

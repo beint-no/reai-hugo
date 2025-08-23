@@ -10,18 +10,18 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="600" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2" rx="10"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="600" height="60" fill="url(#headerGradient)" rx="10"/>
   
-  <!-- Title -->
+
   <text x="300" y="35" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
     Krav for Skattefritak - Ideelle Organisasjoner
   </text>
   
-  <!-- Central circle -->
+
   <circle cx="300" cy="250" r="80" fill="#d4edda" stroke="#28a745" stroke-width="3"/>
   <text x="300" y="240" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#155724">
     SKATTEFRITAK
@@ -33,7 +33,7 @@
     organisasjoner
   </text>
   
-  <!-- Requirement 1: Allmennyttig formål -->
+
   <g transform="translate(50, 100)">
     <rect x="0" y="0" width="150" height="80" fill="#e8f5e8" stroke="#28a745" stroke-width="2" rx="8"/>
     <circle cx="75" cy="25" r="15" fill="#28a745"/>
@@ -47,7 +47,7 @@
     </text>
   </g>
   
-  <!-- Requirement 2: Ikke-kommersielt preg -->
+
   <g transform="translate(400, 100)">
     <rect x="0" y="0" width="150" height="80" fill="#e8f5e8" stroke="#28a745" stroke-width="2" rx="8"/>
     <circle cx="75" cy="25" r="15" fill="#28a745"/>
@@ -61,7 +61,7 @@
     </text>
   </g>
   
-  <!-- Requirement 3: Demokratisk styring -->
+
   <g transform="translate(50, 320)">
     <rect x="0" y="0" width="150" height="80" fill="#e8f5e8" stroke="#28a745" stroke-width="2" rx="8"/>
     <circle cx="75" cy="25" r="15" fill="#28a745"/>
@@ -75,7 +75,7 @@
     </text>
   </g>
   
-  <!-- Requirement 4: Åpen medlemskap -->
+
   <g transform="translate(400, 320)">
     <rect x="0" y="0" width="150" height="80" fill="#e8f5e8" stroke="#28a745" stroke-width="2" rx="8"/>
     <circle cx="75" cy="25" r="15" fill="#28a745"/>
@@ -89,13 +89,13 @@
     </text>
   </g>
   
-  <!-- Connecting lines -->
+
   <line x1="200" y1="140" x2="240" y2="200" stroke="#28a745" stroke-width="2"/>
   <line x1="400" y1="140" x2="360" y2="200" stroke="#28a745" stroke-width="2"/>
   <line x1="200" y1="360" x2="240" y2="300" stroke="#28a745" stroke-width="2"/>
   <line x1="400" y1="360" x2="360" y2="300" stroke="#28a745" stroke-width="2"/>
   
-  <!-- Additional requirements box -->
+
   <g transform="translate(225, 420)">
     <rect x="0" y="0" width="150" height="60" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="5"/>
     <text x="75" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#333">
@@ -109,7 +109,7 @@
     </text>
   </g>
   
-  <!-- Warning box -->
+
   <g transform="translate(50, 450)">
     <rect x="0" y="0" width="500" height="40" fill="#f8d7da" stroke="#dc3545" stroke-width="1" rx="5"/>
     <text x="250" y="15" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#721c24">

@@ -10,42 +10,42 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="400" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#2c3e50">BIC-kode</text>
   <text x="400" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#7f8c8d">Bank Identifier Code</text>
   
-  <!-- Main BIC Code Example -->
+
   <rect x="200" y="120" width="400" height="80" rx="10" fill="url(#cardGradient)" stroke="#3498db" stroke-width="2"/>
   <text x="400" y="150" text-anchor="middle" font-family="Monaco, monospace" font-size="28" font-weight="bold" fill="#2c3e50">DNBANOKKXXX</text>
   <text x="400" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#7f8c8d">DNB Bank ASA, Norge, Oslo</text>
   
-  <!-- Structure breakdown -->
+
   <g transform="translate(50, 230)">
-    <!-- DNBA -->
+
     <rect x="0" y="0" width="80" height="50" rx="5" fill="#e74c3c" opacity="0.8"/>
     <text x="40" y="30" text-anchor="middle" font-family="Monaco, monospace" font-size="16" font-weight="bold" fill="white">DNBA</text>
     <text x="40" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Bankkode</text>
     
-    <!-- NO -->
+
     <rect x="100" y="0" width="60" height="50" rx="5" fill="#f39c12" opacity="0.8"/>
     <text x="130" y="30" text-anchor="middle" font-family="Monaco, monospace" font-size="16" font-weight="bold" fill="white">NO</text>
     <text x="130" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Landkode</text>
     
-    <!-- KK -->
+
     <rect x="180" y="0" width="60" height="50" rx="5" fill="#27ae60" opacity="0.8"/>
     <text x="210" y="30" text-anchor="middle" font-family="Monaco, monospace" font-size="16" font-weight="bold" fill="white">KK</text>
     <text x="210" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Stedkode</text>
     
-    <!-- XXX -->
+
     <rect x="260" y="0" width="80" height="50" rx="5" fill="#9b59b6" opacity="0.8"/>
     <text x="300" y="30" text-anchor="middle" font-family="Monaco, monospace" font-size="16" font-weight="bold" fill="white">XXX</text>
     <text x="300" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Filialkode</text>
   </g>
   
-  <!-- SWIFT Network Icon -->
+
   <g transform="translate(500, 230)">
     <circle cx="100" cy="25" r="20" fill="#3498db" opacity="0.2"/>
     <circle cx="100" cy="25" r="15" fill="#3498db" opacity="0.4"/>
@@ -54,9 +54,9 @@
     <text x="100" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Globalt nettverk</text>
   </g>
   
-  <!-- Connecting lines -->
+
   <line x1="400" y1="200" x2="400" y2="230" stroke="#bdc3c7" stroke-width="2" stroke-dasharray="5,5"/>
   
-  <!-- Footer text -->
+
   <text x="400" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#7f8c8d">Internasjonal standard for bankidentifikasjon</text>
 </svg>

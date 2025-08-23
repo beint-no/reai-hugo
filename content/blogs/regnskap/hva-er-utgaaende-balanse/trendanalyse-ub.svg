@@ -10,29 +10,29 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="35" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="#1e293b">
     Trendanalyse av Utgående Balanse
   </text>
   
-  <!-- Chart area -->
+
   <rect x="100" y="70" width="600" height="350" fill="url(#chartGradient)" stroke="#cbd5e1" stroke-width="2" rx="8"/>
   
-  <!-- Chart title -->
+
   <text x="400" y="95" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#374151">
     Utvikling av Hovedbalanseposter (UB) 2020-2024
   </text>
   
-  <!-- Y-axis -->
+
   <line x1="140" y1="120" x2="140" y2="380" stroke="#64748b" stroke-width="2"/>
   
-  <!-- X-axis -->
+
   <line x1="140" y1="380" x2="680" y2="380" stroke="#64748b" stroke-width="2"/>
   
-  <!-- Y-axis labels -->
+
   <text x="130" y="130" font-family="Arial, sans-serif" font-size="10" text-anchor="end" fill="#64748b">6M</text>
   <text x="130" y="180" font-family="Arial, sans-serif" font-size="10" text-anchor="end" fill="#64748b">5M</text>
   <text x="130" y="230" font-family="Arial, sans-serif" font-size="10" text-anchor="end" fill="#64748b">4M</text>
@@ -40,60 +40,60 @@
   <text x="130" y="330" font-family="Arial, sans-serif" font-size="10" text-anchor="end" fill="#64748b">2M</text>
   <text x="130" y="380" font-family="Arial, sans-serif" font-size="10" text-anchor="end" fill="#64748b">1M</text>
   
-  <!-- X-axis labels -->
+
   <text x="200" y="400" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#64748b">2020</text>
   <text x="300" y="400" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#64748b">2021</text>
   <text x="400" y="400" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#64748b">2022</text>
   <text x="500" y="400" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#64748b">2023</text>
   <text x="600" y="400" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#64748b">2024</text>
   
-  <!-- Grid lines -->
+
   <line x1="140" y1="130" x2="680" y2="130" stroke="#e2e8f0" stroke-width="1"/>
   <line x1="140" y1="180" x2="680" y2="180" stroke="#e2e8f0" stroke-width="1"/>
   <line x1="140" y1="230" x2="680" y2="230" stroke="#e2e8f0" stroke-width="1"/>
   <line x1="140" y1="280" x2="680" y2="280" stroke="#e2e8f0" stroke-width="1"/>
   <line x1="140" y1="330" x2="680" y2="330" stroke="#e2e8f0" stroke-width="1"/>
   
-  <!-- Total Assets line -->
+
   <polyline points="200,280 300,260 400,240 500,210 600,180" 
             fill="none" stroke="#3b82f6" stroke-width="3"/>
   
-  <!-- Total Assets dots -->
+
   <circle cx="200" cy="280" r="4" fill="#3b82f6"/>
   <circle cx="300" cy="260" r="4" fill="#3b82f6"/>
   <circle cx="400" cy="240" r="4" fill="#3b82f6"/>
   <circle cx="500" cy="210" r="4" fill="#3b82f6"/>
   <circle cx="600" cy="180" r="4" fill="#3b82f6"/>
   
-  <!-- Equity line -->
+
   <polyline points="200,350 300,340 400,320 500,300 600,270" 
             fill="none" stroke="#16a34a" stroke-width="3"/>
   
-  <!-- Equity dots -->
+
   <circle cx="200" cy="350" r="4" fill="#16a34a"/>
   <circle cx="300" cy="340" r="4" fill="#16a34a"/>
   <circle cx="400" cy="320" r="4" fill="#16a34a"/>
   <circle cx="500" cy="300" r="4" fill="#16a34a"/>
   <circle cx="600" cy="270" r="4" fill="#16a34a"/>
   
-  <!-- Debt line -->
+
   <polyline points="200,320 300,310 400,300 500,290 600,280" 
             fill="none" stroke="#dc2626" stroke-width="3"/>
   
-  <!-- Debt dots -->
+
   <circle cx="200" cy="320" r="4" fill="#dc2626"/>
   <circle cx="300" cy="310" r="4" fill="#dc2626"/>
   <circle cx="400" cy="300" r="4" fill="#dc2626"/>
   <circle cx="500" cy="290" r="4" fill="#dc2626"/>
   <circle cx="600" cy="280" r="4" fill="#dc2626"/>
   
-  <!-- Legend -->
+
   <rect x="480" y="120" width="180" height="80" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" rx="4"/>
   <text x="570" y="140" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#374151">
     Balanseposter
   </text>
   
-  <!-- Legend items -->
+
   <line x1="500" y1="155" x2="520" y2="155" stroke="#3b82f6" stroke-width="3"/>
   <circle cx="510" cy="155" r="3" fill="#3b82f6"/>
   <text x="530" y="160" font-family="Arial, sans-serif" font-size="10" fill="#374151">Sum Aktiva (UB)</text>
@@ -106,7 +106,7 @@
   <circle cx="510" cy="185" r="3" fill="#dc2626"/>
   <text x="530" y="190" font-family="Arial, sans-serif" font-size="10" fill="#374151">Sum Gjeld (UB)</text>
   
-  <!-- Analysis boxes -->
+
   <rect x="50" y="450" width="230" height="130" fill="#f0f9ff" stroke="#0ea5e9" stroke-width="2" rx="8"/>
   <text x="165" y="475" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0c4a6e">
     Vekstanalyse

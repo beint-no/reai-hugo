@@ -14,17 +14,17 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="50" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" fill="#1e293b">
     Selvfinansiering
   </text>
   
-  <!-- Central building/company representation -->
+
   <g transform="translate(350, 120)">
-    <!-- Building base -->
+
     <rect x="0" y="40" width="100" height="80" fill="url(#blueGradient)" stroke="#1e40af" stroke-width="2"/>
     <rect x="10" y="50" width="15" height="15" fill="#dbeafe"/>
     <rect x="30" y="50" width="15" height="15" fill="#dbeafe"/>
@@ -39,22 +39,22 @@
     <rect x="55" y="90" width="15" height="15" fill="#dbeafe"/>
     <rect x="75" y="90" width="15" height="15" fill="#dbeafe"/>
     
-    <!-- Roof -->
+
     <polygon points="50,40 0,40 50,10 100,40" fill="#059669" stroke="#047857" stroke-width="2"/>
     
-    <!-- Company label -->
+
     <text x="50" y="140" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#1e293b">
       Bedrift
     </text>
   </g>
   
-  <!-- Internal financing sources (left side) -->
+
   <g transform="translate(50, 250)">
     <text x="100" y="0" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#059669">
       Interne Finansieringskilder
     </text>
     
-    <!-- Retained earnings box -->
+
     <rect x="20" y="20" width="160" height="40" fill="#dcfce7" stroke="#16a34a" stroke-width="2" rx="5"/>
     <text x="100" y="35" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#15803d">
       Tilbakeholdt Overskudd
@@ -63,7 +63,7 @@
       Årsresultat - Utbytte
     </text>
     
-    <!-- Depreciation box -->
+
     <rect x="20" y="80" width="160" height="40" fill="#dcfce7" stroke="#16a34a" stroke-width="2" rx="5"/>
     <text x="100" y="95" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#15803d">
       Avskrivninger
@@ -72,7 +72,7 @@
       Kontantfri kostnader
     </text>
     
-    <!-- Working capital box -->
+
     <rect x="20" y="140" width="160" height="40" fill="#dcfce7" stroke="#16a34a" stroke-width="2" rx="5"/>
     <text x="100" y="155" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#15803d">
       Arbeidskapitaloptimalisering
@@ -82,13 +82,13 @@
     </text>
   </g>
   
-  <!-- External financing (right side) -->
+
   <g transform="translate(550, 250)">
     <text x="100" y="0" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#dc2626">
       Eksterne Alternativer
     </text>
     
-    <!-- Bank loan box -->
+
     <rect x="20" y="20" width="160" height="40" fill="#fef2f2" stroke="#dc2626" stroke-width="2" rx="5"/>
     <text x="100" y="35" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#dc2626">
       Banklån
@@ -97,7 +97,7 @@
       Renter og avdrag
     </text>
     
-    <!-- Equity box -->
+
     <rect x="20" y="80" width="160" height="40" fill="#fef2f2" stroke="#dc2626" stroke-width="2" rx="5"/>
     <text x="100" y="95" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#dc2626">
       Ny Egenkapital
@@ -106,7 +106,7 @@
       Utvanning av eierskap
     </text>
     
-    <!-- Other financing box -->
+
     <rect x="20" y="140" width="160" height="40" fill="#fef2f2" stroke="#dc2626" stroke-width="2" rx="5"/>
     <text x="100" y="155" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#dc2626">
       Annen Finansiering
@@ -116,8 +116,8 @@
     </text>
   </g>
   
-  <!-- Arrows showing flow -->
-  <!-- From internal sources to company -->
+
+
   <defs>
     <marker id="greenArrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
       <polygon points="0,0 0,6 9,3" fill="#16a34a"/>
@@ -130,7 +130,7 @@
   <path d="M 230 350 Q 290 320 350 280" stroke="#16a34a" stroke-width="3" fill="none" marker-end="url(#greenArrow)"/>
   <path d="M 570 350 Q 510 320 450 280" stroke="#dc2626" stroke-width="3" fill="none" marker-end="url(#redArrow)"/>
   
-  <!-- Benefits of self-financing -->
+
   <g transform="translate(200, 480)">
     <text x="200" y="0" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#1e293b">
       Fordeler ved Selvfinansiering

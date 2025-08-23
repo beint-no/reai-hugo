@@ -10,10 +10,10 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" fill="#1e293b" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
     Digital Innleveringsprosess via Altinn
   </text>
@@ -21,7 +21,7 @@
     Trinn-for-trinn guide til elektronisk skattemeldingsinnlevering
   </text>
   
-  <!-- Step 1: Login -->
+
   <g transform="translate(50, 100)">
     <rect x="0" y="0" width="140" height="120" fill="url(#stepGradient)" stroke="#3b82f6" stroke-width="2" rx="8"/>
     <circle cx="20" cy="20" r="12" fill="#3b82f6"/>
@@ -31,7 +31,7 @@
       Autentisering
     </text>
     
-    <!-- BankID Icon -->
+
     <rect x="45" y="35" width="50" height="30" fill="#1e40af" rx="4"/>
     <text x="70" y="55" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10" font-weight="bold">
       BankID
@@ -48,7 +48,7 @@
     </text>
   </g>
   
-  <!-- Step 2: Navigate -->
+
   <g transform="translate(220, 100)">
     <rect x="0" y="0" width="140" height="120" fill="url(#stepGradient)" stroke="#10b981" stroke-width="2" rx="8"/>
     <circle cx="20" cy="20" r="12" fill="#10b981"/>
@@ -58,7 +58,7 @@
       Navigering
     </text>
     
-    <!-- Navigation Menu -->
+
     <rect x="25" y="35" width="90" height="40" fill="white" stroke="#e5e7eb" stroke-width="1" rx="4"/>
     <text x="70" y="50" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="9">
       Skjema og tjenester
@@ -75,7 +75,7 @@
     </text>
   </g>
   
-  <!-- Step 3: Upload -->
+
   <g transform="translate(390, 100)">
     <rect x="0" y="0" width="140" height="120" fill="url(#stepGradient)" stroke="#f59e0b" stroke-width="2" rx="8"/>
     <circle cx="20" cy="20" r="12" fill="#f59e0b"/>
@@ -85,7 +85,7 @@
       Utfylling
     </text>
     
-    <!-- Upload Icon -->
+
     <rect x="45" y="35" width="50" height="35" fill="white" stroke="#f59e0b" stroke-width="2" rx="4"/>
     <polygon points="65,45 75,45 70,40" fill="#f59e0b"/>
     <line x1="70" y1="40" x2="70" y2="60" stroke="#f59e0b" stroke-width="2"/>
@@ -98,7 +98,7 @@
     </text>
   </g>
   
-  <!-- Step 4: Validate -->
+
   <g transform="translate(560, 100)">
     <rect x="0" y="0" width="140" height="120" fill="url(#stepGradient)" stroke="#7c3aed" stroke-width="2" rx="8"/>
     <circle cx="20" cy="20" r="12" fill="#7c3aed"/>
@@ -108,7 +108,7 @@
       Validering
     </text>
     
-    <!-- Check Icon -->
+
     <circle cx="70" cy="52" r="15" fill="#7c3aed" opacity="0.1"/>
     <polyline points="60,52 67,59 80,46" fill="none" stroke="#7c3aed" stroke-width="3"/>
     
@@ -123,7 +123,7 @@
     </text>
   </g>
   
-  <!-- Step 5: Sign -->
+
   <g transform="translate(135, 270)">
     <rect x="0" y="0" width="140" height="120" fill="url(#stepGradient)" stroke="#dc2626" stroke-width="2" rx="8"/>
     <circle cx="20" cy="20" r="12" fill="#dc2626"/>
@@ -133,7 +133,7 @@
       Signering
     </text>
     
-    <!-- Signature Icon -->
+
     <rect x="30" y="35" width="80" height="40" fill="white" stroke="#dc2626" stroke-width="1" rx="4"/>
     <path d="M 40 65 Q 50 45 60 55 Q 70 65 80 50" fill="none" stroke="#dc2626" stroke-width="2"/>
     
@@ -145,7 +145,7 @@
     </text>
   </g>
   
-  <!-- Step 6: Submit -->
+
   <g transform="translate(305, 270)">
     <rect x="0" y="0" width="140" height="120" fill="url(#stepGradient)" stroke="#059669" stroke-width="2" rx="8"/>
     <circle cx="20" cy="20" r="12" fill="#059669"/>
@@ -155,7 +155,7 @@
       Innsending
     </text>
     
-    <!-- Send Icon -->
+
     <rect x="25" y="35" width="90" height="30" fill="#059669" rx="4"/>
     <text x="70" y="55" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       SEND INN
@@ -169,7 +169,7 @@
     </text>
   </g>
   
-  <!-- Step 7: Receipt -->
+
   <g transform="translate(475, 270)">
     <rect x="0" y="0" width="140" height="120" fill="url(#stepGradient)" stroke="#6366f1" stroke-width="2" rx="8"/>
     <circle cx="20" cy="20" r="12" fill="#6366f1"/>
@@ -179,7 +179,7 @@
       Kvittering
     </text>
     
-    <!-- Receipt Icon -->
+
     <rect x="40" y="35" width="60" height="40" fill="white" stroke="#6366f1" stroke-width="2" rx="4"/>
     <line x1="50" y1="45" x2="90" y2="45" stroke="#6366f1" stroke-width="1"/>
     <line x1="50" y1="55" x2="85" y2="55" stroke="#6366f1" stroke-width="1"/>
@@ -193,7 +193,7 @@
     </text>
   </g>
   
-  <!-- Arrows -->
+
   <g fill="none" stroke="#6366f1" stroke-width="2" marker-end="url(#arrowhead)">
     <defs>
       <marker id="arrowhead" markerWidth="10" markerHeight="7" 
@@ -209,7 +209,7 @@
     <line x1="445" y1="330" x2="475" y2="330"/>
   </g>
   
-  <!-- Bottom Note -->
+
   <g transform="translate(200, 430)">
     <rect x="0" y="0" width="400" height="50" fill="#f3f4f6" stroke="#d1d5db" stroke-width="1" rx="8"/>
     <text x="200" y="20" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">

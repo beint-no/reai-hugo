@@ -14,23 +14,23 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#F8FAFC"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1E293B">
     Dokumentasjonskrav for Ansattutlegg
   </text>
   
-  <!-- Legal Requirements Section -->
+
   <rect x="50" y="60" width="700" height="30" rx="5" fill="url(#reqGradient)" stroke="#DC2626" stroke-width="2"/>
   <text x="400" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Lovpålagte krav (Bokføringsloven &amp; Bokføringsforskriften)
   </text>
   
-  <!-- Required Documents -->
+
   <g id="requiredDocs">
-    <!-- Original Receipt -->
+
     <rect x="70" y="120" width="150" height="100" rx="8" fill="#FEF3C7" stroke="#F59E0B" stroke-width="2"/>
     <text x="145" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#92400E">
       Originalkvittering
@@ -48,7 +48,7 @@
       ✓ Korrekt beløp
     </text>
     
-    <!-- Business Purpose -->
+
     <rect x="250" y="120" width="150" height="100" rx="8" fill="#DBEAFE" stroke="#3B82F6" stroke-width="2"/>
     <text x="325" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1E40AF">
       Forretningsformål
@@ -66,7 +66,7 @@
       ✓ Deltakerinfo
     </text>
     
-    <!-- Approval -->
+
     <rect x="430" y="120" width="150" height="100" rx="8" fill="#D1FAE5" stroke="#10B981" stroke-width="2"/>
     <text x="505" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#047857">
       Godkjenning
@@ -84,7 +84,7 @@
       ✓ Budsjettsjekk
     </text>
     
-    <!-- Supporting Documents -->
+
     <rect x="610" y="120" width="150" height="100" rx="8" fill="#FEE2E2" stroke="#EF4444" stroke-width="2"/>
     <text x="685" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#DC2626">
       Støttedokumenter
@@ -103,15 +103,15 @@
     </text>
   </g>
   
-  <!-- Digital Documentation Section -->
+
   <rect x="50" y="260" width="700" height="30" rx="5" fill="url(#digitalGradient)" stroke="#047857" stroke-width="2"/>
   <text x="400" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Digital Dokumentasjon - Moderne Løsninger
   </text>
   
-  <!-- Digital Process Flow -->
+
   <g id="digitalFlow">
-    <!-- Mobile App -->
+
     <rect x="70" y="320" width="120" height="80" rx="8" fill="#E0F2FE" stroke="#0369A1" stroke-width="2"/>
     <text x="130" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#0369A1">
       Mobilapp
@@ -126,10 +126,10 @@
       • OCR-gjenkjenning
     </text>
     
-    <!-- Arrow -->
+
     <path d="M 190 360 L 230 360" stroke="#64748B" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
     
-    <!-- Workflow -->
+
     <rect x="240" y="320" width="120" height="80" rx="8" fill="#FEF3C7" stroke="#D97706" stroke-width="2"/>
     <text x="300" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#92400E">
       Arbeidsflyt
@@ -144,10 +144,10 @@
       • Routing
     </text>
     
-    <!-- Arrow -->
+
     <path d="M 360 360 L 400 360" stroke="#64748B" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
     
-    <!-- Approval -->
+
     <rect x="410" y="320" width="120" height="80" rx="8" fill="#D1FAE5" stroke="#059669" stroke-width="2"/>
     <text x="470" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#047857">
       Godkjenning
@@ -162,10 +162,10 @@
       • Kontroller
     </text>
     
-    <!-- Arrow -->
+
     <path d="M 530 360 L 570 360" stroke="#64748B" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
     
-    <!-- Integration -->
+
     <rect x="580" y="320" width="120" height="80" rx="8" fill="#F3E8FF" stroke="#7C3AED" stroke-width="2"/>
     <text x="640" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#6D28D9">
       Integrasjon
@@ -180,7 +180,7 @@
       • Automatisk
     </text>
     
-    <!-- Arrow marker definition -->
+
     <defs>
       <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
         <polygon points="0 0, 10 3.5, 0 7" fill="#64748B"/>
@@ -188,15 +188,15 @@
     </defs>
   </g>
   
-  <!-- Best Practices Section -->
+
   <rect x="50" y="440" width="700" height="30" rx="5" fill="#6B7280" stroke="#4B5563" stroke-width="2"/>
   <text x="400" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Beste Praksis for Dokumentasjon
   </text>
   
-  <!-- Best Practices Grid -->
+
   <g id="bestPractices">
-    <!-- Timeliness -->
+
     <rect x="70" y="490" width="150" height="80" rx="5" fill="#E5E7EB" stroke="#6B7280" stroke-width="1"/>
     <text x="145" y="510" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#374151">
       Aktualitet
@@ -211,7 +211,7 @@
       • Påminnelsessystem
     </text>
     
-    <!-- Completeness -->
+
     <rect x="250" y="490" width="150" height="80" rx="5" fill="#E5E7EB" stroke="#6B7280" stroke-width="1"/>
     <text x="325" y="510" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#374151">
       Komplett informasjon
@@ -226,7 +226,7 @@
       • Kvalitetskontroll
     </text>
     
-    <!-- Security -->
+
     <rect x="430" y="490" width="150" height="80" rx="5" fill="#E5E7EB" stroke="#6B7280" stroke-width="1"/>
     <text x="505" y="510" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#374151">
       Sikkerhet
@@ -241,7 +241,7 @@
       • Backup-rutiner
     </text>
     
-    <!-- Audit Trail -->
+
     <rect x="610" y="490" width="150" height="80" rx="5" fill="#E5E7EB" stroke="#6B7280" stroke-width="1"/>
     <text x="685" y="510" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#374151">
       Sporbarhet

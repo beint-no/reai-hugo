@@ -17,15 +17,15 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8fafc"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1e293b">
     Internasjonale Skjermingsutfordringer
   </text>
   
-  <!-- Norway Section -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="200" height="150" fill="url(#gradientNorway)" rx="10" filter="url(#shadow)"/>
     <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -35,7 +35,7 @@
       Norske Aksjer
     </text>
     
-    <!-- Checkmark for full shielding -->
+
     <circle cx="100" cy="70" r="15" fill="#22c55e" stroke="white" stroke-width="2"/>
     <path d="M 90 70 L 98 78 L 110 62" stroke="white" stroke-width="3" fill="none" stroke-linecap="round"/>
     
@@ -50,7 +50,7 @@
     </text>
   </g>
   
-  <!-- EU Section -->
+
   <g transform="translate(300, 80)">
     <rect x="0" y="0" width="200" height="150" fill="url(#gradientEU)" rx="10" filter="url(#shadow)"/>
     <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -60,7 +60,7 @@
       Europeiske Aksjer
     </text>
     
-    <!-- Warning sign -->
+
     <polygon points="100,55 115,80 85,80" fill="#fbbf24" stroke="white" stroke-width="2"/>
     <text x="100" y="74" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">!</text>
     
@@ -75,7 +75,7 @@
     </text>
   </g>
   
-  <!-- Third Country Section -->
+
   <g transform="translate(550, 80)">
     <rect x="0" y="0" width="200" height="150" fill="url(#gradientThird)" rx="10" filter="url(#shadow)"/>
     <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -85,7 +85,7 @@
       Øvrige Land
     </text>
     
-    <!-- X mark -->
+
     <circle cx="100" cy="70" r="15" fill="#ef4444" stroke="white" stroke-width="2"/>
     <path d="M 90 60 L 110 80 M 110 60 L 90 80" stroke="white" stroke-width="3" stroke-linecap="round"/>
     
@@ -100,14 +100,14 @@
     </text>
   </g>
   
-  <!-- Challenges Section -->
+
   <g transform="translate(50, 280)">
     <rect x="0" y="0" width="700" height="280" fill="white" stroke="#e2e8f0" stroke-width="2" rx="10"/>
     <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">
       Hovedutfordringer ved Grenseoverskridende Investeringer
     </text>
     
-    <!-- Challenge 1: Double Taxation -->
+
     <g transform="translate(30, 50)">
       <rect x="0" y="0" width="200" height="80" fill="#fef3c7" stroke="#f59e0b" stroke-width="1" rx="5"/>
       <text x="100" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#92400e">
@@ -124,7 +124,7 @@
       </text>
     </g>
     
-    <!-- Challenge 2: No Shielding -->
+
     <g transform="translate(250, 50)">
       <rect x="0" y="0" width="200" height="80" fill="#fecaca" stroke="#dc2626" stroke-width="1" rx="5"/>
       <text x="100" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#991b1b">
@@ -141,7 +141,7 @@
       </text>
     </g>
     
-    <!-- Challenge 3: Complexity -->
+
     <g transform="translate(470, 50)">
       <rect x="0" y="0" width="200" height="80" fill="#e0e7ff" stroke="#6366f1" stroke-width="1" rx="5"/>
       <text x="100" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#4338ca">
@@ -158,12 +158,12 @@
       </text>
     </g>
     
-    <!-- Solutions Section -->
+
     <text x="350" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e293b">
       Potensielle Løsninger
     </text>
     
-    <!-- Solution 1 -->
+
     <g transform="translate(30, 185)">
       <rect x="0" y="0" width="200" height="70" fill="#d1fae5" stroke="#10b981" stroke-width="1" rx="5"/>
       <text x="100" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#047857">
@@ -177,7 +177,7 @@
       </text>
     </g>
     
-    <!-- Solution 2 -->
+
     <g transform="translate(250, 185)">
       <rect x="0" y="0" width="200" height="70" fill="#ddd6fe" stroke="#8b5cf6" stroke-width="1" rx="5"/>
       <text x="100" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#6d28d9">
@@ -191,7 +191,7 @@
       </text>
     </g>
     
-    <!-- Solution 3 -->
+
     <g transform="translate(470, 185)">
       <rect x="0" y="0" width="200" height="70" fill="#fed7d7" stroke="#f56565" stroke-width="1" rx="5"/>
       <text x="100" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#c53030">
@@ -206,19 +206,19 @@
     </g>
   </g>
   
-  <!-- Arrows showing flow -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#64748b"/>
     </marker>
   </defs>
   
-  <!-- Arrows from countries to challenges -->
+
   <path d="M 150 240 L 150 280" stroke="#64748b" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 400 240 L 400 280" stroke="#64748b" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 650 240 L 650 280" stroke="#64748b" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Bottom note -->
+
   <text x="400" y="580" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#64748b">
     Skjermingsfradrag kun tilgjengelig for norske aksjer - skaper ulik skattebehandling av internasjonale investeringer
   </text>

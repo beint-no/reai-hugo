@@ -18,22 +18,22 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#333">
     Kontantstrøm og Finansiering
   </text>
   
-  <!-- Short-term Financing Section -->
+
   <rect x="50" y="70" width="340" height="160" fill="url(#shortTermGradient)" rx="15" opacity="0.1"/>
   <rect x="60" y="80" width="320" height="30" fill="url(#shortTermGradient)" rx="5"/>
   <text x="220" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     KORTSIKTIG FINANSIERING
   </text>
   
-  <!-- Short-term options -->
+
   <circle cx="80" cy="130" r="8" fill="#FF9800"/>
   <text x="100" y="135" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#E65100">
     Kassekreditt
@@ -58,14 +58,14 @@
     Forhandle betalingsutsettelse
   </text>
   
-  <!-- Long-term Financing Section -->
+
   <rect x="410" y="70" width="340" height="160" fill="url(#longTermGradient)" rx="15" opacity="0.1"/>
   <rect x="420" y="80" width="320" height="30" fill="url(#longTermGradient)" rx="5"/>
   <text x="580" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     LANGSIKTIG FINANSIERING
   </text>
   
-  <!-- Long-term options -->
+
   <circle cx="440" cy="130" r="8" fill="#2196F3"/>
   <text x="460" y="135" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#1565C0">
     Banklån
@@ -90,13 +90,13 @@
     Når kontantstrøm ikke dekker vekstbehov
   </text>
   
-  <!-- Loan Capacity Section -->
+
   <rect x="50" y="250" width="700" height="140" fill="url(#capacityGradient)" rx="15"/>
   <text x="400" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
     LÅNEKAPASITET BASERT PÅ KONTANTSTRØM
   </text>
   
-  <!-- Debt Service Coverage Ratio -->
+
   <rect x="80" y="300" width="280" height="70" fill="rgba(255,255,255,0.2)" rx="8"/>
   <text x="220" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Gjeldsdekning (DSCR)
@@ -108,34 +108,34 @@
     Måler evne til å betjene gjeld
   </text>
   
-  <!-- DSCR Scale -->
+
   <rect x="400" y="300" width="320" height="70" fill="rgba(255,255,255,0.2)" rx="8"/>
   <text x="560" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Vurderingsskala
   </text>
   
-  <!-- Good capacity -->
+
   <rect x="410" y="330" width="90" height="15" fill="#4CAF50" rx="3"/>
   <text x="455" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">Over 1,25</text>
   <text x="410" y="355" font-family="Arial, sans-serif" font-size="10" fill="white">God kapasitet</text>
   
-  <!-- Acceptable capacity -->
+
   <rect x="510" y="330" width="90" height="15" fill="#FF9800" rx="3"/>
   <text x="555" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">1,00-1,25</text>
   <text x="510" y="355" font-family="Arial, sans-serif" font-size="10" fill="white">Akseptabel</text>
   
-  <!-- Limited capacity -->
+
   <rect x="610" y="330" width="90" height="15" fill="#f44336" rx="3"/>
   <text x="655" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">Under 1,00</text>
   <text x="610" y="355" font-family="Arial, sans-serif" font-size="10" fill="white">Begrenset</text>
   
-  <!-- Financing Decision Matrix -->
+
   <rect x="50" y="410" width="700" height="120" fill="#f5f5f5" stroke="#ddd" stroke-width="1" rx="10"/>
   <text x="400" y="435" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#333">
     Finansieringsvalg basert på Kontantstrømsituasjon
   </text>
   
-  <!-- Matrix headers -->
+
   <rect x="70" y="450" width="150" height="20" fill="#e0e0e0"/>
   <text x="145" y="463" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#333">Kontantstrømsituasjon</text>
   
@@ -148,29 +148,29 @@
   <rect x="520" y="450" width="150" height="20" fill="#e0e0e0"/>
   <text x="595" y="463" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#333">Tiltak</text>
   
-  <!-- Matrix rows -->
-  <!-- Strong cash flow -->
+
+
   <rect x="70" y="470" width="150" height="20" fill="#e8f5e8"/>
   <text x="80" y="483" font-family="Arial, sans-serif" font-size="10" fill="#333">Sterk kontantstrøm</text>
   <text x="230" y="483" font-family="Arial, sans-serif" font-size="10" fill="#333">Banklån, obligasjoner</text>
   <text x="380" y="483" font-family="Arial, sans-serif" font-size="10" fill="#333">Lav risiko</text>
   <text x="530" y="483" font-family="Arial, sans-serif" font-size="10" fill="#333">Ekspansjon, investeringer</text>
   
-  <!-- Moderate cash flow -->
+
   <rect x="70" y="490" width="150" height="20" fill="#fff3e0"/>
   <text x="80" y="503" font-family="Arial, sans-serif" font-size="10" fill="#333">Moderat kontantstrøm</text>
   <text x="230" y="503" font-family="Arial, sans-serif" font-size="10" fill="#333">Kassekreditt, factoring</text>
   <text x="380" y="503" font-family="Arial, sans-serif" font-size="10" fill="#333">Moderat risiko</text>
   <text x="530" y="503" font-family="Arial, sans-serif" font-size="10" fill="#333">Forbedre kontantstrøm</text>
   
-  <!-- Weak cash flow -->
+
   <rect x="70" y="510" width="150" height="20" fill="#ffebee"/>
   <text x="80" y="523" font-family="Arial, sans-serif" font-size="10" fill="#333">Svak kontantstrøm</text>
   <text x="230" y="523" font-family="Arial, sans-serif" font-size="10" fill="#333">Egenkapital, restrukturering</text>
   <text x="380" y="523" font-family="Arial, sans-serif" font-size="10" fill="#333">Høy risiko</text>
   <text x="530" y="523" font-family="Arial, sans-serif" font-size="10" fill="#333">Kostnadsreduksjon</text>
   
-  <!-- Key considerations -->
+
   <rect x="50" y="550" width="700" height="40" fill="#e3f2fd" stroke="#2196F3" stroke-width="2" rx="10"/>
   <text x="400" y="570" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1565C0">
     Nøkkelfaktorer ved Finansieringsvalg
@@ -179,11 +179,11 @@
     • Kontantstrømstabilitet og forutsigbarhet • Fremtidig vekstpotensial • Eksisterende gjeldsgrad • Markedsforhold og renter
   </text>
   
-  <!-- Connection arrows -->
+
   <path d="M 220 240 L 400 250" stroke="#FF9800" stroke-width="2" fill="none" marker-end="url(#arrowOrange)"/>
   <path d="M 580 240 L 400 250" stroke="#2196F3" stroke-width="2" fill="none" marker-end="url(#arrowBlue)"/>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="arrowOrange" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#FF9800"/>

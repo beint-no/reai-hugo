@@ -1,19 +1,19 @@
 <svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#2c3e50">
     Lagerstyring og Kostnadsanalyse i Engroshandel
   </text>
   
-  <!-- ABC Analysis Section -->
+
   <rect x="50" y="60" width="300" height="200" fill="#fff" stroke="#6c757d" stroke-width="2" rx="10"/>
   <text x="200" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
     ABC-Analyse av Lager
   </text>
   
-  <!-- A-Category -->
+
   <rect x="70" y="100" width="80" height="60" fill="#dc3545" opacity="0.8" rx="5"/>
   <text x="110" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#fff">
     A-varer
@@ -25,7 +25,7 @@
     av verdi
   </text>
   
-  <!-- B-Category -->
+
   <rect x="160" y="100" width="80" height="60" fill="#ffc107" opacity="0.8" rx="5"/>
   <text x="200" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#000">
     B-varer
@@ -37,7 +37,7 @@
     av verdi
   </text>
   
-  <!-- C-Category -->
+
   <rect x="250" y="100" width="80" height="60" fill="#28a745" opacity="0.8" rx="5"/>
   <text x="290" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#fff">
     C-varer
@@ -49,7 +49,7 @@
     av verdi
   </text>
   
-  <!-- Management Focus -->
+
   <text x="110" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
     Tett oppfølging
   </text>
@@ -80,19 +80,19 @@
     Høy sikkerhet
   </text>
   
-  <!-- Inventory Costs Section -->
+
   <rect x="400" y="60" width="350" height="200" fill="#fff" stroke="#6c757d" stroke-width="2" rx="10"/>
   <text x="575" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
     Lagerkostnader
   </text>
   
-  <!-- Cost breakdown pie chart representation -->
+
   <circle cx="500" cy="150" r="50" fill="#3498db" opacity="0.8"/>
   <path d="M 500 100 A 50 50 0 0 1 535.36 125 L 500 150 Z" fill="#e74c3c" opacity="0.8"/>
   <path d="M 535.36 125 A 50 50 0 0 1 535.36 175 L 500 150 Z" fill="#f39c12" opacity="0.8"/>
   <path d="M 535.36 175 A 50 50 0 0 1 500 200 L 500 150 Z" fill="#27ae60" opacity="0.8"/>
   
-  <!-- Cost labels -->
+
   <text x="580" y="110" font-family="Arial, sans-serif" font-size="12" fill="#3498db">
     • Innkjøpskost (60-70%)
   </text>
@@ -106,7 +106,7 @@
     • Mangekost (5-10%)
   </text>
   
-  <!-- Detailed cost breakdown -->
+
   <text x="580" y="195" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
     Lagerholdskost: Renter, forsikring, svinn
   </text>
@@ -117,13 +117,13 @@
     Mangekost: Tapte salg, kundemisfornøydhet
   </text>
   
-  <!-- Inventory Turnover Section -->
+
   <rect x="50" y="290" width="700" height="120" fill="#fff" stroke="#6c757d" stroke-width="2" rx="10"/>
   <text x="400" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
     Lageromløpshastighet og Nøkkeltall
   </text>
   
-  <!-- Formula boxes -->
+
   <rect x="70" y="330" width="200" height="70" fill="#e8f4fd" stroke="#3498db" stroke-width="1" rx="5"/>
   <text x="170" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2980b9">
     Lageromløpshastighet
@@ -157,13 +157,13 @@
     Totalkapital × 100%
   </text>
   
-  <!-- Inventory Management Process -->
+
   <rect x="50" y="440" width="700" height="140" fill="#fff" stroke="#6c757d" stroke-width="2" rx="10"/>
   <text x="400" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
     Lagerstyringsprosess
   </text>
   
-  <!-- Process steps -->
+
   <rect x="70" y="480" width="120" height="80" fill="#fce4ec" stroke="#e91e63" stroke-width="1" rx="5"/>
   <text x="130" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#880e4f">
     1. Prognoser
@@ -234,13 +234,13 @@
     • Forsendelse
   </text>
   
-  <!-- Process arrows -->
+
   <path d="M 190 520 L 210 520" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
   <path d="M 330 520 L 350 520" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
   <path d="M 470 520 L 490 520" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
   <path d="M 610 520 L 630 520" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#666"/>

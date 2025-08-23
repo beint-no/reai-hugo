@@ -12,33 +12,33 @@
     </marker>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="700" fill="url(#bgGrad)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#212529">
     Konsekvenser av Manglende MVA-registrering
   </text>
   
-  <!-- Warning Icon -->
+
   <g transform="translate(350, 60)">
     <polygon points="50,0 90,70 10,70" fill="#dc3545" stroke="#c82333" stroke-width="3" filter="url(#shadow)"/>
     <text x="50" y="50" font-family="Arial, sans-serif" font-size="36" font-weight="bold" text-anchor="middle" fill="white">!</text>
   </g>
   
-  <!-- Main consequence categories -->
+
   
-  <!-- Økonomiske Konsekvenser -->
+
   <g transform="translate(50, 160)">
     <rect x="0" y="0" width="320" height="220" fill="#ffebee" stroke="#d32f2f" stroke-width="3" rx="15" filter="url(#shadow)"/>
     
-    <!-- Header -->
+
     <rect x="10" y="10" width="300" height="40" fill="#d32f2f" rx="10"/>
     <text x="160" y="35" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
       ØKONOMISKE KONSEKVENSER
     </text>
     
-    <!-- Tilleggsskatt -->
+
     <g transform="translate(20, 70)">
       <rect x="0" y="0" width="280" height="45" fill="#ffffff" stroke="#d32f2f" stroke-width="2" rx="8"/>
       <text x="140" y="18" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#d32f2f">
@@ -49,7 +49,7 @@
       </text>
     </g>
     
-    <!-- Forsinkelsesrenter -->
+
     <g transform="translate(20, 125)">
       <rect x="0" y="0" width="280" height="45" fill="#ffffff" stroke="#d32f2f" stroke-width="2" rx="8"/>
       <text x="140" y="18" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#d32f2f">
@@ -60,7 +60,7 @@
       </text>
     </g>
     
-    <!-- Tap av fradragsrett -->
+
     <g transform="translate(20, 180)">
       <rect x="0" y="0" width="280" height="30" fill="#ffffff" stroke="#d32f2f" stroke-width="2" rx="8"/>
       <text x="140" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#d32f2f">
@@ -69,17 +69,17 @@
     </g>
   </g>
   
-  <!-- Juridiske Konsekvenser -->
+
   <g transform="translate(430, 160)">
     <rect x="0" y="0" width="320" height="220" fill="#fff3e0" stroke="#f57c00" stroke-width="3" rx="15" filter="url(#shadow)"/>
     
-    <!-- Header -->
+
     <rect x="10" y="10" width="300" height="40" fill="#f57c00" rx="10"/>
     <text x="160" y="35" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
       JURIDISKE KONSEKVENSER
     </text>
     
-    <!-- Straffansvar -->
+
     <g transform="translate(20, 70)">
       <rect x="0" y="0" width="280" height="45" fill="#ffffff" stroke="#f57c00" stroke-width="2" rx="8"/>
       <text x="140" y="18" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#f57c00">
@@ -90,7 +90,7 @@
       </text>
     </g>
     
-    <!-- Tvangsmulkt -->
+
     <g transform="translate(20, 125)">
       <rect x="0" y="0" width="280" height="45" fill="#ffffff" stroke="#f57c00" stroke-width="2" rx="8"/>
       <text x="140" y="18" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#f57c00">
@@ -101,7 +101,7 @@
       </text>
     </g>
     
-    <!-- Omdømmetap -->
+
     <g transform="translate(20, 180)">
       <rect x="0" y="0" width="280" height="30" fill="#ffffff" stroke="#f57c00" stroke-width="2" rx="8"/>
       <text x="140" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#f57c00">
@@ -110,23 +110,23 @@
     </g>
   </g>
   
-  <!-- Arrows pointing down to timeline -->
+
   <path d="M 210 400 L 210 440" stroke="#dc3545" stroke-width="4" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 590 400 L 590 440" stroke="#dc3545" stroke-width="4" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Timeline of escalating consequences -->
+
   <g transform="translate(50, 450)">
     <rect x="0" y="0" width="700" height="180" fill="#f8d7da" stroke="#721c24" stroke-width="3" rx="15" filter="url(#shadow)"/>
     
-    <!-- Timeline header -->
+
     <rect x="10" y="10" width="680" height="40" fill="#721c24" rx="10"/>
     <text x="350" y="35" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
       ESKALERING AV KONSEKVENSER
     </text>
     
-    <!-- Timeline steps -->
+
     <g transform="translate(30, 70)">
-      <!-- Step 1 -->
+
       <rect x="0" y="0" width="120" height="80" fill="#ffffff" stroke="#721c24" stroke-width="2" rx="8"/>
       <text x="60" y="15" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#721c24">
         1. MÅNED
@@ -145,7 +145,7 @@
       </text>
     </g>
     
-    <!-- Arrow -->
+
     <path d="M 160 110 L 190 110" stroke="#721c24" stroke-width="3" fill="none" marker-end="url(#arrow2)"/>
     <defs>
       <marker id="arrow2" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
@@ -154,7 +154,7 @@
     </defs>
     
     <g transform="translate(200, 70)">
-      <!-- Step 2 -->
+
       <rect x="0" y="0" width="120" height="80" fill="#ffffff" stroke="#721c24" stroke-width="2" rx="8"/>
       <text x="60" y="15" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#721c24">
         3. MÅNEDER
@@ -173,11 +173,11 @@
       </text>
     </g>
     
-    <!-- Arrow -->
+
     <path d="M 330 110 L 360 110" stroke="#721c24" stroke-width="3" fill="none" marker-end="url(#arrow2)"/>
     
     <g transform="translate(370, 70)">
-      <!-- Step 3 -->
+
       <rect x="0" y="0" width="120" height="80" fill="#ffffff" stroke="#721c24" stroke-width="2" rx="8"/>
       <text x="60" y="15" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#721c24">
         6. MÅNEDER
@@ -196,11 +196,11 @@
       </text>
     </g>
     
-    <!-- Arrow -->
+
     <path d="M 500 110 L 530 110" stroke="#721c24" stroke-width="3" fill="none" marker-end="url(#arrow2)"/>
     
     <g transform="translate(540, 70)">
-      <!-- Step 4 -->
+
       <rect x="0" y="0" width="120" height="80" fill="#ffffff" stroke="#721c24" stroke-width="2" rx="8"/>
       <text x="60" y="15" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#721c24">
         1. ÅR+
@@ -220,7 +220,7 @@
     </g>
   </g>
   
-  <!-- Bottom warning boxes -->
+
   <g transform="translate(100, 650)">
     <rect x="0" y="0" width="200" height="40" fill="#dc3545" stroke="#c82333" stroke-width="2" rx="8"/>
     <text x="100" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">

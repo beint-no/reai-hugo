@@ -14,23 +14,23 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#ffffff"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#1f2937">Kostprisberegning og Lønnsomhetsanalyse</text>
   
-  <!-- Full cost method -->
+
   <g transform="translate(50, 70)">
     <rect x="0" y="0" width="300" height="180" fill="url(#fullCostGradient)" rx="10"/>
     <text x="150" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">FULLT KOSTNADSBEGREP</text>
     <text x="150" y="45" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">(Absorption Costing)</text>
     
-    <!-- Cost components -->
+
     <g transform="translate(15, 60)">
       <text x="0" y="0" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">Inkluderer alle kostnader:</text>
       
-      <!-- Direct costs -->
+
       <rect x="0" y="10" width="270" height="20" fill="rgba(255,255,255,0.2)" rx="3"/>
       <text x="5" y="24" font-family="Arial, sans-serif" font-size="10" fill="white">• Direkte varekostnader (innkjøp, transport, toll)</text>
       
@@ -47,17 +47,17 @@
     </g>
   </g>
   
-  <!-- Direct cost method -->
+
   <g transform="translate(450, 70)">
     <rect x="0" y="0" width="300" height="180" fill="url(#directCostGradient)" rx="10"/>
     <text x="150" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">REDUSERT KOSTNADSBEGREP</text>
     <text x="150" y="45" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">(Direct Costing)</text>
     
-    <!-- Cost components -->
+
     <g transform="translate(15, 60)">
       <text x="0" y="0" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">Kun variable kostnader:</text>
       
-      <!-- Variable costs -->
+
       <rect x="0" y="10" width="270" height="20" fill="rgba(255,255,255,0.2)" rx="3"/>
       <text x="5" y="24" font-family="Arial, sans-serif" font-size="10" fill="white">• Innkjøpspris for varer</text>
       
@@ -74,16 +74,16 @@
     </g>
   </g>
   
-  <!-- Comparison example -->
+
   <g transform="translate(50, 280)">
     <rect x="0" y="0" width="700" height="180" fill="url(#comparisonGradient)" rx="10"/>
     <text x="350" y="25" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">SAMMENLIGNING - PRAKTISK EKSEMPEL</text>
     
-    <!-- Example data -->
+
     <g transform="translate(30, 45)">
       <text x="0" y="0" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Produkt X - Kostprisberegning:</text>
       
-      <!-- Table -->
+
       <rect x="0" y="15" width="640" height="20" fill="rgba(255,255,255,0.3)" rx="3"/>
       <text x="10" y="29" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">Kostnadselement</text>
       <text x="200" y="29" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="end" fill="white">Beløp</text>
@@ -91,7 +91,7 @@
       <text x="380" y="29" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="white">Redusert kost.</text>
       <text x="500" y="29" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="white">Marginanalyse</text>
       
-      <!-- Row 1 -->
+
       <rect x="0" y="35" width="640" height="15" fill="rgba(255,255,255,0.1)" rx="2"/>
       <text x="10" y="47" font-family="Arial, sans-serif" font-size="9" fill="white">Innkjøpspris</text>
       <text x="200" y="47" font-family="Arial, sans-serif" font-size="9" text-anchor="end" fill="white">800 kr</text>
@@ -99,7 +99,7 @@
       <text x="380" y="47" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="white">✓</text>
       <text x="500" y="47" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="white">Dekningsbidrag</text>
       
-      <!-- Row 2 -->
+
       <rect x="0" y="50" width="640" height="15" fill="rgba(255,255,255,0.1)" rx="2"/>
       <text x="10" y="62" font-family="Arial, sans-serif" font-size="9" fill="white">Transport og toll</text>
       <text x="200" y="62" font-family="Arial, sans-serif" font-size="9" text-anchor="end" fill="white">120 kr</text>
@@ -107,7 +107,7 @@
       <text x="380" y="62" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="white">✓</text>
       <text x="500" y="62" font-family="Arial, sans-serif" font-size="8" text-anchor="middle" fill="white">1.200 - 920 = 280 kr</text>
       
-      <!-- Row 3 -->
+
       <rect x="0" y="65" width="640" height="15" fill="rgba(255,255,255,0.1)" rx="2"/>
       <text x="10" y="77" font-family="Arial, sans-serif" font-size="9" fill="white">Lagerkostnader (variable)</text>
       <text x="200" y="77" font-family="Arial, sans-serif" font-size="9" text-anchor="end" fill="white">50 kr</text>
@@ -115,7 +115,7 @@
       <text x="380" y="77" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="white">✓</text>
       <text x="500" y="77" font-family="Arial, sans-serif" font-size="8" text-anchor="middle" fill="white">Margin: 23,3%</text>
       
-      <!-- Row 4 -->
+
       <rect x="0" y="80" width="640" height="15" fill="rgba(255,255,255,0.1)" rx="2"/>
       <text x="10" y="92" font-family="Arial, sans-serif" font-size="9" fill="white">Administrasjon (fast)</text>
       <text x="200" y="92" font-family="Arial, sans-serif" font-size="9" text-anchor="end" fill="white">80 kr</text>
@@ -123,14 +123,14 @@
       <text x="380" y="92" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="white">-</text>
       <text x="500" y="92" font-family="Arial, sans-serif" font-size="8" text-anchor="middle" fill="white">Fast kostnad</text>
       
-      <!-- Totals -->
+
       <rect x="0" y="100" width="640" height="20" fill="rgba(255,255,255,0.4)" rx="3"/>
       <text x="10" y="114" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">TOTAL KOSTPRIS</text>
       <text x="280" y="114" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="white">1.050 kr</text>
       <text x="380" y="114" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="white">970 kr</text>
       <text x="500" y="114" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="white">Netto: 150 kr (12,5%)</text>
       
-      <!-- Selling price -->
+
       <text x="10" y="135" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">Salgspris: 1.200 kr</text>
       <text x="280" y="135" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="white">Margin: 12,5%</text>
       <text x="380" y="135" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="white">Margin: 19,2%</text>
@@ -138,31 +138,31 @@
     </g>
   </g>
   
-  <!-- Key metrics section -->
+
   <g transform="translate(50, 490)">
     <text x="350" y="0" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#1f2937">Viktige Lønnsomhetsindikatorer</text>
     
-    <!-- Metrics boxes -->
+
     <g transform="translate(0, 20)">
-      <!-- Box 1 -->
+
       <rect x="0" y="0" width="160" height="60" fill="#f1f5f9" stroke="#cbd5e1" rx="5"/>
       <text x="80" y="18" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#1f2937">Bruttomargin %</text>
       <text x="80" y="32" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#475569">(Salgspris - Kostpris)</text>
       <text x="80" y="45" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#475569">÷ Salgspris × 100</text>
       
-      <!-- Box 2 -->
+
       <rect x="180" y="0" width="160" height="60" fill="#f0fdf4" stroke="#bbf7d0" rx="5"/>
       <text x="260" y="18" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#1f2937">Dekningsbidrag</text>
       <text x="260" y="32" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#475569">Salgspris minus</text>
       <text x="260" y="45" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#475569">variable kostnader</text>
       
-      <!-- Box 3 -->
+
       <rect x="360" y="0" width="160" height="60" fill="#fef2f2" stroke="#fecaca" rx="5"/>
       <text x="440" y="18" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#1f2937">Lageromsetning</text>
       <text x="440" y="32" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#475569">Årlig varekostnad</text>
       <text x="440" y="45" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#475569">÷ Gjennomsnittslager</text>
       
-      <!-- Box 4 -->
+
       <rect x="540" y="0" width="160" height="60" fill="#faf5ff" stroke="#e9d5ff" rx="5"/>
       <text x="620" y="18" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#1f2937">ROI på Lager</text>
       <text x="620" y="32" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#475569">Bruttofortjeneste</text>
@@ -170,6 +170,6 @@
     </g>
   </g>
   
-  <!-- Bottom note -->
+
   <text x="400" y="585" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#64748b">Valg av kostnadsbegrep påvirker prissetting, lønnsomhetsanalyse og strategiske beslutninger</text>
 </svg>

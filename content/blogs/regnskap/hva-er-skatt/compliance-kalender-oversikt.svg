@@ -1,21 +1,21 @@
 <svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">Compliance Kalender Oversikt</text>
   
-  <!-- Calendar structure -->
+
   <g transform="translate(50, 60)">
     
-    <!-- Monthly grid -->
+
     <g transform="translate(0, 20)">
       
-      <!-- Q1 header -->
+
       <rect x="0" y="0" width="220" height="30" fill="#3498db" rx="5"/>
       <text x="110" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">Q1: Januar - Mars</text>
       
-      <!-- Q1 tasks -->
+
       <rect x="0" y="35" width="220" height="100" fill="#ecf0f1" rx="5" stroke="#bdc3c7" stroke-width="1"/>
       <g transform="translate(10, 50)">
         <rect x="0" y="0" width="15" height="15" fill="#e74c3c"/>
@@ -31,11 +31,11 @@
         <text x="20" y="72" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">30/4: Forskuddsskatt Q1</text>
       </g>
       
-      <!-- Q2 header -->
+
       <rect x="240" y="0" width="220" height="30" fill="#e74c3c" rx="5"/>
       <text x="350" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">Q2: April - Juni</text>
       
-      <!-- Q2 tasks -->
+
       <rect x="240" y="35" width="220" height="100" fill="#ecf0f1" rx="5" stroke="#bdc3c7" stroke-width="1"/>
       <g transform="translate(250, 50)">
         <rect x="0" y="0" width="15" height="15" fill="#e74c3c"/>
@@ -51,11 +51,11 @@
         <text x="20" y="72" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">Juli: Forskuddsskatt Q2</text>
       </g>
       
-      <!-- Q3 header -->
+
       <rect x="480" y="0" width="220" height="30" fill="#27ae60" rx="5"/>
       <text x="590" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">Q3: Juli - September</text>
       
-      <!-- Q3 tasks -->
+
       <rect x="480" y="35" width="220" height="100" fill="#ecf0f1" rx="5" stroke="#bdc3c7" stroke-width="1"/>
       <g transform="translate(490, 50)">
         <rect x="0" y="0" width="15" height="15" fill="#e74c3c"/>
@@ -71,11 +71,11 @@
         <text x="20" y="72" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">Okt: Forskuddsskatt Q3</text>
       </g>
       
-      <!-- Q4 header -->
+
       <rect x="0" y="160" width="220" height="30" fill="#9b59b6" rx="5"/>
       <text x="110" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">Q4: Oktober - Desember</text>
       
-      <!-- Q4 tasks -->
+
       <rect x="0" y="195" width="220" height="100" fill="#ecf0f1" rx="5" stroke="#bdc3c7" stroke-width="1"/>
       <g transform="translate(10, 210)">
         <rect x="0" y="0" width="15" height="15" fill="#e74c3c"/>
@@ -91,12 +91,12 @@
         <text x="20" y="72" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">31/12: Årsavslutning</text>
       </g>
       
-      <!-- Annual overview -->
+
       <rect x="240" y="160" width="460" height="135" fill="#2c3e50" rx="10" stroke="#34495e" stroke-width="2"/>
       <text x="470" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">Årlige Hoveddfrister</text>
       
       <g transform="translate(260, 200)">
-        <!-- Left column -->
+
         <text x="0" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#f1c40f">Kritiske frister:</text>
         <text x="0" y="40" font-family="Arial, sans-serif" font-size="11" fill="white">• 31. mai: Selvangivelse (alle)</text>
         <text x="0" y="55" font-family="Arial, sans-serif" font-size="11" fill="white">• 30. juni: Årsregnskap og revisjon</text>
@@ -104,7 +104,7 @@
         <text x="0" y="85" font-family="Arial, sans-serif" font-size="11" fill="white">• 5. hver måned: A-melding</text>
         <text x="0" y="100" font-family="Arial, sans-serif" font-size="11" fill="white">• 20/3, 20/9, 20/12: Restskatt</text>
         
-        <!-- Right column -->
+
         <text x="220" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#f1c40f">Forskuddsskatt:</text>
         <text x="220" y="40" font-family="Arial, sans-serif" font-size="11" fill="white">• April: 1. termin forfaller</text>
         <text x="220" y="55" font-family="Arial, sans-serif" font-size="11" fill="white">• Juli: 2. termin forfaller</text>
@@ -113,7 +113,7 @@
         <text x="220" y="100" font-family="Arial, sans-serif" font-size="11" fill="white">• Desember: Siste justering</text>
       </g>
       
-      <!-- Tips section -->
+
       <g transform="translate(0, 320)">
         <rect x="0" y="0" width="700" height="80" fill="#ecf0f1" rx="8" stroke="#bdc3c7" stroke-width="2"/>
         <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">Compliance Tips</text>

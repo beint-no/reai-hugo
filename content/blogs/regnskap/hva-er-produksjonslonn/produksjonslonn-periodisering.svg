@@ -6,17 +6,17 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#ffffff"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1f2937">Periodisering av Produksjonslønn</text>
   
-  <!-- Timeline -->
+
   <rect x="50" y="60" width="700" height="40" fill="url(#timelineGrad)" rx="20"/>
   <text x="400" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">Produksjons- og Lønnsperiode</text>
   
-  <!-- Month markers -->
+
   <g transform="translate(100, 120)">
     <line x1="0" y1="0" x2="0" y2="300" stroke="#cbd5e1" stroke-width="2"/>
     <text x="-10" y="-10" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">Jan</text>
@@ -53,10 +53,10 @@
     <text x="0" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#be185d">Omarbeid</text>
   </g>
   
-  <!-- Accounting entries -->
+
   <text x="50" y="220" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1f2937">Regnskapsmessig Behandling</text>
   
-  <!-- January entry -->
+
   <rect x="60" y="240" width="150" height="80" fill="#f1f5f9" stroke="#475569" stroke-width="1" rx="5"/>
   <text x="135" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#334155">31. Januar</text>
   <text x="70" y="270" font-family="Arial, sans-serif" font-size="10" fill="#334155">Debet: Produksjonslønn</text>
@@ -64,7 +64,7 @@
   <text x="70" y="300" font-family="Arial, sans-serif" font-size="10" fill="#334155">50.000 kr</text>
   <text x="70" y="312" font-family="Arial, sans-serif" font-size="9" fill="#64748b" font-style="italic">Periodiseres til januar</text>
   
-  <!-- February entry -->
+
   <rect x="230" y="240" width="150" height="80" fill="#f1f5f9" stroke="#475569" stroke-width="1" rx="5"/>
   <text x="305" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#334155">15. Februar</text>
   <text x="240" y="270" font-family="Arial, sans-serif" font-size="10" fill="#334155">Debet: Skyldig lønn</text>
@@ -72,7 +72,7 @@
   <text x="240" y="300" font-family="Arial, sans-serif" font-size="10" fill="#334155">50.000 kr</text>
   <text x="240" y="312" font-family="Arial, sans-serif" font-size="9" fill="#64748b" font-style="italic">Utbetaling av lønn</text>
   
-  <!-- March entry -->
+
   <rect x="400" y="240" width="150" height="80" fill="#f1f5f9" stroke="#475569" stroke-width="1" rx="5"/>
   <text x="475" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#334155">31. Mars</text>
   <text x="410" y="270" font-family="Arial, sans-serif" font-size="10" fill="#334155">Debet: Produksjonslønn</text>
@@ -80,7 +80,7 @@
   <text x="410" y="300" font-family="Arial, sans-serif" font-size="10" fill="#334155">5.000 kr</text>
   <text x="410" y="312" font-family="Arial, sans-serif" font-size="9" fill="#64748b" font-style="italic">Kvalitetsbonus opptjent</text>
   
-  <!-- April entry -->
+
   <rect x="570" y="240" width="150" height="80" fill="#f1f5f9" stroke="#475569" stroke-width="1" rx="5"/>
   <text x="645" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#334155">30. April</text>
   <text x="580" y="270" font-family="Arial, sans-serif" font-size="10" fill="#334155">Debet: Produksjonsfeil</text>
@@ -88,7 +88,7 @@
   <text x="580" y="300" font-family="Arial, sans-serif" font-size="10" fill="#334155">2.000 kr</text>
   <text x="580" y="312" font-family="Arial, sans-serif" font-size="9" fill="#64748b" font-style="italic">Korrigering for feil</text>
   
-  <!-- Key principles -->
+
   <rect x="50" y="350" width="700" height="120" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2" rx="10"/>
   <text x="400" y="375" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1f2937">Periodiseringsprinsipper for Produksjonslønn</text>
   

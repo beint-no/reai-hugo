@@ -6,10 +6,10 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="400" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" fill="#1e293b" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
     Skattebetalinger Gjennom Året
   </text>
@@ -17,10 +17,10 @@
     Forskuddsskatt og Sluttoppgjør Timeline
   </text>
   
-  <!-- Timeline Base -->
+
   <line x1="100" y1="150" x2="700" y2="150" stroke="#6b7280" stroke-width="4"/>
   
-  <!-- Year Labels -->
+
   <text x="150" y="135" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     2024
   </text>
@@ -28,7 +28,7 @@
     2025
   </text>
   
-  <!-- February 15 - First Installment -->
+
   <g transform="translate(200, 100)">
     <circle cx="0" cy="50" r="8" fill="#dc2626"/>
     <line x1="0" y1="50" x2="0" y2="20" stroke="#dc2626" stroke-width="2"/>
@@ -44,7 +44,7 @@
     </text>
   </g>
   
-  <!-- May 15 - Second Installment -->
+
   <g transform="translate(350, 100)">
     <circle cx="0" cy="50" r="8" fill="#dc2626"/>
     <line x1="0" y1="50" x2="0" y2="20" stroke="#dc2626" stroke-width="2"/>
@@ -60,7 +60,7 @@
     </text>
   </g>
   
-  <!-- May 31 - Tax Return -->
+
   <g transform="translate(380, 200)">
     <circle cx="0" cy="-50" r="8" fill="#3b82f6"/>
     <line x1="0" y1="-50" x2="0" y2="-20" stroke="#3b82f6" stroke-width="2"/>
@@ -76,7 +76,7 @@
     </text>
   </g>
   
-  <!-- September - Final Settlement -->
+
   <g transform="translate(500, 100)">
     <circle cx="0" cy="50" r="8" fill="#10b981"/>
     <line x1="0" y1="50" x2="0" y2="20" stroke="#10b981" stroke-width="2"/>
@@ -92,7 +92,7 @@
     </text>
   </g>
   
-  <!-- October 31 - Extended Deadline -->
+
   <g transform="translate(520, 200)">
     <circle cx="0" cy="-50" r="8" fill="#7c3aed"/>
     <line x1="0" y1="-50" x2="0" y2="-20" stroke="#7c3aed" stroke-width="2"/>
@@ -108,7 +108,7 @@
     </text>
   </g>
   
-  <!-- Month Labels -->
+
   <g transform="translate(0, 320)">
     <text x="150" y="0" text-anchor="middle" fill="#6b7280" font-family="Arial, sans-serif" font-size="11">Jan</text>
     <text x="200" y="0" text-anchor="middle" fill="#6b7280" font-family="Arial, sans-serif" font-size="11">Feb</text>
@@ -122,7 +122,7 @@
     <text x="600" y="0" text-anchor="middle" fill="#6b7280" font-family="Arial, sans-serif" font-size="11">Okt</text>
   </g>
   
-  <!-- Legend -->
+
   <g transform="translate(50, 350)">
     <rect x="0" y="0" width="700" height="40" fill="white" stroke="#e5e7eb" stroke-width="1" rx="8"/>
     

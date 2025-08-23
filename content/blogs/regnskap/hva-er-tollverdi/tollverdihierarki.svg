@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Tollverdihierarki - Metodeprioritering
   </text>
   
-  <!-- Hierarchy pyramid structure -->
+
   
-  <!-- Method 1 - Highest priority (largest box) -->
+
   <rect x="250" y="70" width="300" height="80" fill="#e74c3c" stroke="#c0392b" stroke-width="2" rx="8"/>
   <text x="400" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     Metode 1: Transaksjonsverdien
@@ -21,7 +21,7 @@
     Uavhengige parter, armslengdes handel
   </text>
   
-  <!-- Method 2 - Second priority -->
+
   <rect x="275" y="170" width="250" height="70" fill="#3498db" stroke="#2980b9" stroke-width="2" rx="8"/>
   <text x="400" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Metode 2: Identiske Varer
@@ -33,7 +33,7 @@
     Import innen ±60 dager
   </text>
   
-  <!-- Method 3 - Third priority -->
+
   <rect x="300" y="260" width="200" height="60" fill="#27ae60" stroke="#229954" stroke-width="2" rx="8"/>
   <text x="400" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Metode 3: Lignende Varer
@@ -45,7 +45,7 @@
     Sammenlignbar markedsposisjon
   </text>
   
-  <!-- Method 4 - Fourth priority -->
+
   <rect x="325" y="340" width="150" height="55" fill="#f39c12" stroke="#e67e22" stroke-width="2" rx="8"/>
   <text x="400" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="white">
     Metode 4: Fradrag
@@ -57,7 +57,7 @@
     marginer og kostnader
   </text>
   
-  <!-- Method 5 - Fifth priority -->
+
   <rect x="350" y="415" width="100" height="50" fill="#9b59b6" stroke="#8e44ad" stroke-width="2" rx="8"/>
   <text x="400" y="435" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     Metode 5:
@@ -69,7 +69,7 @@
     Produksjonskostnad
   </text>
   
-  <!-- Method 6 - Lowest priority (smallest box) -->
+
   <rect x="375" y="485" width="50" height="40" fill="#34495e" stroke="#2c3e50" stroke-width="2" rx="8"/>
   <text x="400" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
     Metode 6:
@@ -78,21 +78,21 @@
     Fleksibel
   </text>
   
-  <!-- Arrows showing hierarchy flow -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#2c3e50"/>
     </marker>
   </defs>
   
-  <!-- Arrows between methods -->
+
   <path d="M 400 150 L 400 170" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 400 240 L 400 260" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 400 320 L 400 340" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 400 395 L 400 415" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 400 465 L 400 485" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Priority labels -->
+
   <text x="200" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
     1. prioritet
   </text>
@@ -112,7 +112,7 @@
     6. prioritet
   </text>
   
-  <!-- Side note about methodology -->
+
   <text x="600" y="110" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
     Metodene anvendes i prioritert rekkefølge:
   </text>
@@ -126,7 +126,7 @@
     • Dokumentasjon kreves for alle metoder
   </text>
   
-  <!-- Legal framework note -->
+
   <rect x="550" y="180" width="200" height="80" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1" rx="5"/>
   <text x="650" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
     Juridisk ramme:
@@ -141,7 +141,7 @@
     • Norsk tollregulering
   </text>
   
-  <!-- Warning about correct application -->
+
   <rect x="50" y="400" width="140" height="120" fill="#fff3cd" stroke="#ffeaa7" stroke-width="2" rx="5"/>
   <text x="120" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#856404">
     Viktig!
@@ -162,7 +162,7 @@
     • Overtredelsesgebyr
   </text>
   
-  <!-- Footer -->
+
   <text x="400" y="580" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">
     Tollverdi fastsettes etter strengeste prioritering i henhold til tollregelverket
   </text>

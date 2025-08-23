@@ -9,10 +9,10 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="700" height="450" fill="#f1f5f9"/>
   
-  <!-- Header -->
+
   <rect width="700" height="50" fill="url(#dashGrad)"/>
   <text x="350" y="20" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
     2FA Security Monitoring Dashboard
@@ -24,8 +24,8 @@
     Sist oppdatert: 2024-01-15 14:23:45
   </text>
   
-  <!-- Top KPI Row -->
-  <!-- Success Rate Widget -->
+
+
   <g transform="translate(20, 70)">
     <rect width="150" height="80" rx="8" fill="white" filter="url(#widgetShadow)"/>
     <rect width="150" height="20" rx="8" fill="#059669"/>
@@ -37,7 +37,7 @@
     <text x="75" y="75" font-family="Arial, sans-serif" font-size="8" text-anchor="middle" fill="#10b981">▲ +0.3% fra i går</text>
   </g>
   
-  <!-- Response Time Widget -->
+
   <g transform="translate(190, 70)">
     <rect width="150" height="80" rx="8" fill="white" filter="url(#widgetShadow)"/>
     <rect width="150" height="20" rx="8" fill="#0891b2"/>
@@ -49,7 +49,7 @@
     <text x="75" y="75" font-family="Arial, sans-serif" font-size="8" text-anchor="middle" fill="#06b6d4">▼ -0.1s fra i går</text>
   </g>
   
-  <!-- Failed Attempts Widget -->
+
   <g transform="translate(360, 70)">
     <rect width="150" height="80" rx="8" fill="white" filter="url(#widgetShadow)"/>
     <rect width="150" height="20" rx="8" fill="#dc2626"/>
@@ -61,7 +61,7 @@
     <text x="75" y="75" font-family="Arial, sans-serif" font-size="8" text-anchor="middle" fill="#ef4444">▲ +5 fra i går</text>
   </g>
   
-  <!-- Active Users Widget -->
+
   <g transform="translate(530, 70)">
     <rect width="150" height="80" rx="8" fill="white" filter="url(#widgetShadow)"/>
     <rect width="150" height="20" rx="8" fill="#7c3aed"/>
@@ -73,7 +73,7 @@
     <text x="75" y="75" font-family="Arial, sans-serif" font-size="8" text-anchor="middle" fill="#8b5cf6">94% aktivitet</text>
   </g>
   
-  <!-- Authentication Methods Chart -->
+
   <g transform="translate(20, 170)">
     <rect width="320" height="180" rx="8" fill="white" filter="url(#widgetShadow)"/>
     <rect width="320" height="25" rx="8" fill="#4f46e5"/>
@@ -82,29 +82,29 @@
       2FA Metoder - Bruksfordeling
     </text>
     
-    <!-- Pie chart simulation -->
+
     <g transform="translate(60, 50)">
-      <!-- Hardware keys -->
+
       <rect x="0" y="0" width="40" height="15" fill="#059669"/>
       <text x="50" y="12" font-family="Arial, sans-serif" font-size="11" fill="#333">Hardware-nøkler: 35% (18 brukere)</text>
       
-      <!-- TOTP Apps -->
+
       <rect x="0" y="25" width="40" height="15" fill="#0891b2"/>
       <text x="50" y="37" font-family="Arial, sans-serif" font-size="11" fill="#333">TOTP-apper: 45% (23 brukere)</text>
       
-      <!-- SMS -->
+
       <rect x="0" y="50" width="40" height="15" fill="#ea580c"/>
       <text x="50" y="62" font-family="Arial, sans-serif" font-size="11" fill="#333">SMS-backup: 15% (7 brukere)</text>
       
-      <!-- Biometric -->
+
       <rect x="0" y="75" width="40" height="15" fill="#7c3aed"/>
       <text x="50" y="87" font-family="Arial, sans-serif" font-size="11" fill="#333">Biometrisk: 5% (2 brukere)</text>
     </g>
     
-    <!-- Chart representation -->
+
     <g transform="translate(220, 80)">
       <circle cx="40" cy="40" r="35" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="2"/>
-      <!-- Segments -->
+
       <path d="M 40 5 A 35 35 0 0 1 65 25 L 40 40 Z" fill="#059669"/>
       <path d="M 65 25 A 35 35 0 0 1 60 65 L 40 40 Z" fill="#0891b2"/>
       <path d="M 60 65 A 35 35 0 0 1 25 60 L 40 40 Z" fill="#ea580c"/>
@@ -112,7 +112,7 @@
     </g>
   </g>
   
-  <!-- Security Events Log -->
+
   <g transform="translate(360, 170)">
     <rect width="320" height="180" rx="8" fill="white" filter="url(#widgetShadow)"/>
     <rect width="320" height="25" rx="8" fill="#dc2626"/>
@@ -121,7 +121,7 @@
       Sikkerhets-hendelser (Siste 24t)
     </text>
     
-    <!-- Event list -->
+
     <g transform="translate(15, 40)">
       <rect width="290" height="20" fill="#fef2f2"/>
       <circle cx="10" cy="10" r="4" fill="#dc2626"/>
@@ -151,7 +151,7 @@
     </g>
   </g>
   
-  <!-- Bottom Status Bar -->
+
   <g transform="translate(20, 370)">
     <rect width="660" height="60" rx="8" fill="white" filter="url(#widgetShadow)"/>
     <rect width="660" height="20" rx="8" fill="#1e40af"/>
@@ -160,7 +160,7 @@
       System Status &amp; Compliance
     </text>
     
-    <!-- Status indicators -->
+
     <g transform="translate(30, 35)">
       <circle cx="8" cy="8" r="6" fill="#059669"/>
       <text x="8" y="12" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="white">✓</text>

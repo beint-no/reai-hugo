@@ -18,30 +18,30 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
     Varelager Verdivurderingsmetoder
   </text>
   
-  <!-- Main principle -->
+
   <rect x="200" y="60" width="400" height="40" fill="#d4edda" stroke="#28a745" stroke-width="2" rx="5"/>
   <text x="400" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#155724">
     Laveste av anskaffelseskost og netto realisasjonsverdi
   </text>
   
-  <!-- FIFO Method -->
+
   <g transform="translate(50, 130)">
     <rect x="0" y="0" width="220" height="40" fill="url(#blueGradient)" stroke="#1c7ed6" stroke-width="2" rx="8"/>
     <text x="110" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#fff">
       FIFO (First In, First Out)
     </text>
     
-    <!-- FIFO illustration -->
+
     <g transform="translate(0, 50)">
-      <!-- Warehouse boxes -->
+
       <rect x="20" y="0" width="40" height="30" fill="#e3f2fd" stroke="#1976d2" stroke-width="1"/>
       <text x="40" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#1976d2">Jan</text>
       <text x="40" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#1976d2">100 kr</text>
@@ -54,7 +54,7 @@
       <text x="140" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#1976d2">Mar</text>
       <text x="140" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#1976d2">120 kr</text>
       
-      <!-- Arrow -->
+
       <path d="M 170 15 L 190 15" stroke="#1976d2" stroke-width="2" marker-end="url(#arrowBlue)"/>
       <text x="180" y="12" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#1976d2">Ut</text>
     </g>
@@ -67,16 +67,16 @@
     </text>
   </g>
   
-  <!-- Weighted Average Method -->
+
   <g transform="translate(290, 130)">
     <rect x="0" y="0" width="220" height="40" fill="url(#greenGradient)" stroke="#37b24d" stroke-width="2" rx="8"/>
     <text x="110" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#fff">
       Vektet Gjennomsnitt
     </text>
     
-    <!-- Weighted average illustration -->
+
     <g transform="translate(0, 50)">
-      <!-- Mixed boxes -->
+
       <rect x="20" y="0" width="40" height="30" fill="#e8f5e8" stroke="#388e3c" stroke-width="1"/>
       <text x="40" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#388e3c">Mix</text>
       <text x="40" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#388e3c">110kr</text>
@@ -89,7 +89,7 @@
       <text x="140" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#388e3c">Mix</text>
       <text x="140" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#388e3c">110kr</text>
       
-      <!-- Arrow -->
+
       <path d="M 170 15 L 190 15" stroke="#388e3c" stroke-width="2" marker-end="url(#arrowGreen)"/>
       <text x="180" y="12" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#388e3c">Ut</text>
     </g>
@@ -102,16 +102,16 @@
     </text>
   </g>
   
-  <!-- Specific Identification Method -->
+
   <g transform="translate(530, 130)">
     <rect x="0" y="0" width="220" height="40" fill="url(#orangeGradient)" stroke="#fd7e14" stroke-width="2" rx="8"/>
     <text x="110" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#fff">
       Spesifikk Identifikasjon
     </text>
     
-    <!-- Specific identification illustration -->
+
     <g transform="translate(0, 50)">
-      <!-- Unique items -->
+
       <rect x="20" y="0" width="40" height="30" fill="#fff3cd" stroke="#f57c00" stroke-width="1"/>
       <text x="40" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#f57c00">#001</text>
       <text x="40" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#f57c00">5000kr</text>
@@ -124,7 +124,7 @@
       <text x="140" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#f57c00">#003</text>
       <text x="140" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#f57c00">4800kr</text>
       
-      <!-- Arrow -->
+
       <path d="M 170 15 L 190 15" stroke="#f57c00" stroke-width="2" marker-end="url(#arrowOrange)"/>
       <text x="180" y="12" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#f57c00">Ut</text>
     </g>
@@ -137,14 +137,14 @@
     </text>
   </g>
   
-  <!-- Comparison table -->
+
   <g transform="translate(100, 290)">
     <rect x="0" y="0" width="600" height="150" fill="#fff" stroke="#dee2e6" stroke-width="2" rx="5"/>
     <text x="300" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#495057">
       Sammenligning av Metoder
     </text>
     
-    <!-- Table headers -->
+
     <rect x="10" y="35" width="120" height="25" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1"/>
     <text x="70" y="52" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">Metode</text>
     
@@ -157,7 +157,7 @@
     <rect x="430" y="35" width="160" height="25" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1"/>
     <text x="510" y="52" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">Anvendelse</text>
     
-    <!-- FIFO row -->
+
     <rect x="10" y="60" width="120" height="30" fill="#e3f2fd" stroke="#dee2e6" stroke-width="1"/>
     <text x="70" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#1976d2">FIFO</text>
     
@@ -172,7 +172,7 @@
     <rect x="430" y="60" width="160" height="30" fill="#fff" stroke="#dee2e6" stroke-width="1"/>
     <text x="510" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">Mest vanlig</text>
     
-    <!-- Weighted Average row -->
+
     <rect x="10" y="90" width="120" height="30" fill="#e8f5e8" stroke="#dee2e6" stroke-width="1"/>
     <text x="70" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#388e3c">Vektet snitt</text>
     
@@ -187,7 +187,7 @@
     <rect x="430" y="90" width="160" height="30" fill="#fff" stroke="#dee2e6" stroke-width="1"/>
     <text x="510" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">Homogene varer</text>
     
-    <!-- Specific ID row -->
+
     <rect x="10" y="120" width="120" height="30" fill="#fff3cd" stroke="#dee2e6" stroke-width="1"/>
     <text x="70" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#f57c00">Spesifikk ID</text>
     
@@ -204,7 +204,7 @@
     <text x="510" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#495057">varer</text>
   </g>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="arrowBlue" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#1976d2"/>
@@ -217,7 +217,7 @@
     </marker>
   </defs>
   
-  <!-- Bottom note -->
+
   <text x="400" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
     Valg av metode påvirker både resultatregnskap og balanse, og må anvendes konsistent over tid
   </text>

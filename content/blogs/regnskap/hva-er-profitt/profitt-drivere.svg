@@ -14,15 +14,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Profittdrivere - Faktorer som Påvirker Lønnsomhet
   </text>
   
-  <!-- Central Profit Circle -->
+
   <circle cx="400" cy="200" r="70" fill="url(#blueGradient)" stroke="#1565C0" stroke-width="3"/>
   <text x="400" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     PROFITT
@@ -31,7 +31,7 @@
     Inntekter - Kostnader
   </text>
   
-  <!-- Revenue Side (Left) -->
+
   <rect x="50" y="50" width="250" height="300" rx="15" fill="url(#greenGradient)" stroke="#4CAF50" stroke-width="2"/>
   <text x="175" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
     INNTEKTSSIDE
@@ -40,7 +40,7 @@
     Verdiskaping
   </text>
   
-  <!-- Revenue factors -->
+
   <rect x="70" y="120" width="210" height="40" rx="8" fill="#C8E6C9" stroke="#4CAF50" stroke-width="1"/>
   <text x="80" y="135" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2E7D32">
     Volum og Prissetting
@@ -73,7 +73,7 @@
     • Øke verdi per kunde
   </text>
   
-  <!-- Cost Side (Right) -->
+
   <rect x="500" y="50" width="250" height="300" rx="15" fill="url(#redGradient)" stroke="#F44336" stroke-width="2"/>
   <text x="625" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
     KOSTNADSSIDE
@@ -82,7 +82,7 @@
     Effektivitet
   </text>
   
-  <!-- Fixed costs -->
+
   <text x="520" y="130" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#C62828">
     Faste Kostnader:
   </text>
@@ -111,7 +111,7 @@
     400K
   </text>
   
-  <!-- Variable costs -->
+
   <text x="520" y="260" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#C62828">
     Variable Kostnader:
   </text>
@@ -132,11 +132,11 @@
     800K
   </text>
   
-  <!-- Arrows pointing to center -->
+
   <path d="M320 200 L360 200" stroke="#4CAF50" stroke-width="3" marker-end="url(#greenArrow)"/>
   <path d="M480 200 L440 200" stroke="#F44336" stroke-width="3" marker-end="url(#redArrow)"/>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="greenArrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
       <path d="M0,0 L0,6 L9,3 z" fill="#4CAF50"/>
@@ -146,13 +146,13 @@
     </marker>
   </defs>
   
-  <!-- Operational Leverage section -->
+
   <rect x="100" y="380" width="600" height="180" rx="15" fill="#f0f8ff" stroke="#4169E1" stroke-width="2"/>
   <text x="400" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#4169E1">
     Operasjonell Leverage - Påvirkning på Profitt
   </text>
   
-  <!-- Leverage explanation -->
+
   <text x="120" y="430" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
     Høy operasjonell leverage (mange faste kostnader):
   </text>
@@ -166,7 +166,7 @@
     • Høy risiko, men også høy oppsidepotensial
   </text>
   
-  <!-- Example calculation -->
+
   <rect x="450" y="425" width="230" height="80" rx="8" fill="#fff5f5" stroke="#F44336" stroke-width="1"/>
   <text x="565" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#C62828">
     Eksempel: 10% salgsøkning
@@ -184,7 +184,7 @@
     Ekstra profitt: 700K (+35% profittøkning!)
   </text>
   
-  <!-- Strategic recommendations -->
+
   <text x="120" y="530" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
     Strategiske anbefalinger for profittoptimalisering:
   </text>

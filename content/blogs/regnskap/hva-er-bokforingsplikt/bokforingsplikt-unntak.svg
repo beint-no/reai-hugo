@@ -22,16 +22,16 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8fafc"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGrad)"/>
   <text x="400" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
     Unntak fra Bokføringsplikten
   </text>
   
-  <!-- Central Exemption Circle -->
+
   <g transform="translate(350, 280)">
     <circle cx="50" cy="50" r="50" fill="#ecfdf5" stroke="#059669" stroke-width="4"/>
     <text x="50" y="40" text-anchor="middle" fill="#065f46" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
@@ -45,7 +45,7 @@
     </text>
   </g>
   
-  <!-- Small Sole Proprietorships -->
+
   <g transform="translate(50, 100)">
     <rect x="0" y="0" width="220" height="50" rx="10" fill="url(#smallBusinessGrad)"/>
     <text x="110" y="30" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
@@ -78,11 +78,11 @@
       • Frivillig full bokføring
     </text>
     
-    <!-- Arrow to center -->
+
     <path d="M270 170 L350 280" stroke="#f59e0b" stroke-width="3" stroke-dasharray="5,5"/>
   </g>
   
-  <!-- Hobby Activities -->
+
   <g transform="translate(530, 100)">
     <rect x="0" y="0" width="220" height="50" rx="10" fill="url(#hobbyGrad)"/>
     <text x="110" y="30" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
@@ -109,11 +109,11 @@
       • Personlig interesse/hobby
     </text>
     
-    <!-- Arrow to center -->
+
     <path d="M530 160 L450 280" stroke="#8b5cf6" stroke-width="3" stroke-dasharray="5,5"/>
   </g>
   
-  <!-- Passive Investments -->
+
   <g transform="translate(50, 400)">
     <rect x="0" y="0" width="220" height="50" rx="10" fill="url(#investmentGrad)"/>
     <text x="110" y="30" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
@@ -137,11 +137,11 @@
       • Ikke aktiv forvaltning
     </text>
     
-    <!-- Arrow to center -->
+
     <path d="M270 450 L350 380" stroke="#dc2626" stroke-width="3" stroke-dasharray="5,5"/>
   </g>
   
-  <!-- Property Rental -->
+
   <g transform="translate(530, 400)">
     <rect x="0" y="0" width="220" height="50" rx="10" fill="url(#exemptGrad)"/>
     <text x="110" y="30" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
@@ -165,11 +165,11 @@
       • Ikke hovedvirksomhet
     </text>
     
-    <!-- Arrow to center -->
+
     <path d="M530 450 L450 380" stroke="#059669" stroke-width="3" stroke-dasharray="5,5"/>
   </g>
   
-  <!-- Important Note Box -->
+
   <g transform="translate(200, 240)">
     <rect x="0" y="0" width="400" height="80" rx="10" fill="#fef3c7" stroke="#f59e0b" stroke-width="3"/>
     <text x="200" y="25" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
@@ -183,7 +183,7 @@
     </text>
   </g>
   
-  <!-- Transition Warning -->
+
   <g transform="translate(200, 340)">
     <rect x="0" y="0" width="400" height="60" rx="10" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
     <text x="200" y="25" text-anchor="middle" fill="#991b1b" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
@@ -194,7 +194,7 @@
     </text>
   </g>
   
-  <!-- Public Entities -->
+
   <g transform="translate(280, 80)">
     <rect x="0" y="0" width="240" height="40" rx="5" fill="#1f2937"/>
     <text x="120" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
@@ -207,7 +207,7 @@
     </text>
   </g>
   
-  <!-- Bottom Legal Reference -->
+
   <g transform="translate(50, 560)">
     <rect x="0" y="0" width="700" height="30" rx="5" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
     <text x="350" y="20" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold">

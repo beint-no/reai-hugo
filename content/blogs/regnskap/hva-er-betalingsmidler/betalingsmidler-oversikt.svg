@@ -1,14 +1,14 @@
 <svg width="900" height="600" viewBox="0 0 900 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="900" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="450" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Oversikt over Betalingsmidler i Norge
   </text>
   
-  <!-- Main categories -->
-  <!-- Tvungne Betalingsmidler -->
+
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="250" height="200" rx="10" fill="#e8f5e8" stroke="#27ae60" stroke-width="2"/>
     <text x="125" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#27ae60">
@@ -18,13 +18,13 @@
       (Legal Tender)
     </text>
     
-    <!-- Cash -->
+
     <rect x="20" y="70" width="80" height="50" rx="5" fill="#27ae60"/>
     <text x="60" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">1000</text>
     <text x="60" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">KRONER</text>
     <text x="60" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">Sedler</text>
     
-    <!-- Coins -->
+
     <circle cx="170" cy="95" r="25" fill="#f39c12" stroke="#e67e22" stroke-width="2"/>
     <text x="170" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">20</text>
     <text x="170" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">Mynter</text>
@@ -34,25 +34,25 @@
     </text>
   </g>
   
-  <!-- Elektroniske Betalingsmidler -->
+
   <g transform="translate(325, 80)">
     <rect x="0" y="0" width="250" height="200" rx="10" fill="#e8f4fd" stroke="#3498db" stroke-width="2"/>
     <text x="125" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#3498db">
       Elektroniske Betalingsmidler
     </text>
     
-    <!-- Card -->
+
     <rect x="20" y="50" width="60" height="35" rx="5" fill="#3498db"/>
     <rect x="25" y="60" width="50" height="5" fill="#ecf0f1"/>
     <text x="50" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Kort</text>
     
-    <!-- Mobile -->
+
     <rect x="100" y="45" width="35" height="60" rx="8" fill="#34495e"/>
     <rect x="105" y="52" width="25" height="40" fill="#ecf0f1"/>
     <text x="117" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#e74c3c">V</text>
     <text x="117" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Mobil</text>
     
-    <!-- Online -->
+
     <rect x="155" y="55" width="70" height="40" rx="5" fill="#95a5a6"/>
     <text x="190" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Nettbank</text>
     <text x="190" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Online</text>
@@ -65,21 +65,21 @@
     </text>
   </g>
   
-  <!-- Tradisjonelle Metoder -->
+
   <g transform="translate(600, 80)">
     <rect x="0" y="0" width="250" height="200" rx="10" fill="#fdf2e9" stroke="#e67e22" stroke-width="2"/>
     <text x="125" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#e67e22">
       Tradisjonelle Metoder
     </text>
     
-    <!-- Check -->
+
     <rect x="30" y="60" width="80" height="50" rx="3" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
     <line x1="40" y1="75" x2="100" y2="75" stroke="#7f8c8d" stroke-width="1"/>
     <line x1="40" y1="85" x2="90" y2="85" stroke="#7f8c8d" stroke-width="1"/>
     <line x1="40" y1="95" x2="70" y2="95" stroke="#7f8c8d" stroke-width="1"/>
     <text x="70" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Sjekk</text>
     
-    <!-- Money order -->
+
     <rect x="140" y="60" width="80" height="50" rx="3" fill="#f8f9fa" stroke="#95a5a6" stroke-width="1"/>
     <text x="180" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">POST</text>
     <text x="180" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">ANVISNING</text>
@@ -90,13 +90,13 @@
     </text>
   </g>
   
-  <!-- Characteristics comparison -->
+
   <g transform="translate(50, 320)">
     <text x="400" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c3e50">
       Sammenligning av Egenskaper
     </text>
     
-    <!-- Table header -->
+
     <rect x="0" y="40" width="800" height="40" fill="#34495e"/>
     <text x="100" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Betalingsmiddel</text>
     <text x="250" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Oppgjørstid</text>
@@ -104,7 +104,7 @@
     <text x="550" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Kostnad</text>
     <text x="700" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Sporbarhet</text>
     
-    <!-- Row 1: Cash -->
+
     <rect x="0" y="80" width="800" height="35" fill="#ecf0f1"/>
     <text x="100" y="102" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Kontanter</text>
     <text x="250" y="102" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#27ae60">Umiddelbart</text>
@@ -112,7 +112,7 @@
     <text x="550" y="102" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#27ae60">Ingen</text>
     <text x="700" y="102" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#e74c3c">Begrenset</text>
     
-    <!-- Row 2: Cards -->
+
     <rect x="0" y="115" width="800" height="35" fill="#f8f9fa"/>
     <text x="100" y="137" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Betalingskort</text>
     <text x="250" y="137" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#f39c12">1-3 dager</text>
@@ -120,7 +120,7 @@
     <text x="550" y="137" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#f39c12">Gebyr</text>
     <text x="700" y="137" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#27ae60">Komplett</text>
     
-    <!-- Row 3: Mobile -->
+
     <rect x="0" y="150" width="800" height="35" fill="#ecf0f1"/>
     <text x="100" y="172" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Vipps/Mobil</text>
     <text x="250" y="172" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#27ae60">Umiddelbart</text>
@@ -128,7 +128,7 @@
     <text x="550" y="172" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#f39c12">Lavt gebyr</text>
     <text x="700" y="172" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#27ae60">Komplett</text>
     
-    <!-- Row 4: Bank transfer -->
+
     <rect x="0" y="185" width="800" height="35" fill="#f8f9fa"/>
     <text x="100" y="207" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Bankoverføring</text>
     <text x="250" y="207" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#f39c12">1-3 dager</text>

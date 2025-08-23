@@ -1,16 +1,16 @@
 <svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8fafc"/>
   
-  <!-- Header -->
+
   <rect x="50" y="50" width="700" height="80" fill="#1e40af" rx="8"/>
   <text x="400" y="95" text-anchor="middle" fill="white" font-size="32" font-weight="bold">Sykepenger</text>
   <text x="400" y="115" text-anchor="middle" fill="#93c5fd" font-size="16">Økonomisk trygghet ved sykdom</text>
   
-  <!-- Timeline -->
+
   <line x1="100" y1="200" x2="700" y2="200" stroke="#374151" stroke-width="2"/>
   
-  <!-- Day markers -->
+
   <circle cx="150" cy="200" r="6" fill="#ef4444"/>
   <text x="150" y="180" text-anchor="middle" font-size="12" fill="#374151">Dag 1</text>
   <text x="150" y="220" text-anchor="middle" font-size="10" fill="#ef4444">Egenandel</text>
@@ -23,21 +23,21 @@
   <text x="400" y="180" text-anchor="middle" font-size="12" fill="#374151">Dag 17+</text>
   <text x="400" y="220" text-anchor="middle" font-size="10" fill="#10b981">NAV</text>
   
-  <!-- Arbeidsgiverperiode -->
+
   <rect x="150" y="250" width="200" height="100" fill="#fef3c7" stroke="#f59e0b" stroke-width="2" rx="8"/>
   <text x="250" y="275" text-anchor="middle" font-size="16" font-weight="bold" fill="#92400e">Arbeidsgiverperiode</text>
   <text x="250" y="295" text-anchor="middle" font-size="12" fill="#92400e">16 kalenderdager</text>
   <text x="250" y="310" text-anchor="middle" font-size="12" fill="#92400e">100% av lønn</text>
   <text x="250" y="325" text-anchor="middle" font-size="12" fill="#92400e">Finansiert av arbeidsgiver</text>
   
-  <!-- NAV periode -->
+
   <rect x="400" y="250" width="200" height="100" fill="#d1fae5" stroke="#10b981" stroke-width="2" rx="8"/>
   <text x="500" y="275" text-anchor="middle" font-size="16" font-weight="bold" fill="#065f46">NAV-periode</text>
   <text x="500" y="295" text-anchor="middle" font-size="12" fill="#065f46">Dag 17-364</text>
   <text x="500" y="310" text-anchor="middle" font-size="12" fill="#065f46">100% av lønn (maks 6G)</text>
   <text x="500" y="325" text-anchor="middle" font-size="12" fill="#065f46">Finansiert av folketrygden</text>
   
-  <!-- Key facts -->
+
   <rect x="50" y="400" width="300" height="150" fill="white" stroke="#d1d5db" stroke-width="1" rx="8"/>
   <text x="200" y="425" text-anchor="middle" font-size="16" font-weight="bold" fill="#1f2937">Viktige fakta</text>
   <text x="70" y="445" font-size="12" fill="#374151">• Alle ansatte har rett til sykepenger</text>
@@ -46,7 +46,7 @@
   <text x="70" y="505" font-size="12" fill="#374151">• Maks årslønn: 6G = 711.720 kr</text>
   <text x="70" y="525" font-size="12" fill="#374151">• Krever legeerklæring eller egenmelding</text>
   
-  <!-- Process flow -->
+
   <rect x="450" y="400" width="300" height="150" fill="white" stroke="#d1d5db" stroke-width="1" rx="8"/>
   <text x="600" y="425" text-anchor="middle" font-size="16" font-weight="bold" fill="#1f2937">Prosess</text>
   <text x="470" y="445" font-size="12" fill="#374151">1. Sykemelding/egenmelding</text>
@@ -55,10 +55,10 @@
   <text x="470" y="505" font-size="12" fill="#374151">4. NAV tar over fra dag 17</text>
   <text x="470" y="525" font-size="12" fill="#374151">5. Refusjon til arbeidsgiver</text>
   
-  <!-- Arrow indicators -->
+
   <path d="M 350 300 L 390 300" stroke="#374151" stroke-width="2" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#374151"/>

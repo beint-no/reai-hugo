@@ -1,28 +1,28 @@
 <svg width="900" height="700" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="900" height="700" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="450" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">Kompleks Konsernstruktur - Eksempel</text>
   <text x="450" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#7f8c8d">Invest Holding AS med diversifiserte forretningsområder</text>
   
-  <!-- Holding Company (Top Level) -->
+
   <rect x="350" y="100" width="200" height="80" rx="10" fill="#2c3e50" stroke="#34495e" stroke-width="3"/>
   <text x="450" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">INVEST HOLDING AS</text>
   <text x="450" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">Morselskap</text>
   <text x="450" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#bdc3c7">Aksjekapital: 10 mill. kr</text>
   
-  <!-- Ownership lines from holding to subsidiaries -->
+
   <line x1="400" y1="180" x2="200" y2="240" stroke="#34495e" stroke-width="3" marker-end="url(#arrowhead)"/>
   <line x1="450" y1="180" x2="450" y2="240" stroke="#34495e" stroke-width="3" marker-end="url(#arrowhead)"/>
   <line x1="500" y1="180" x2="700" y2="240" stroke="#34495e" stroke-width="3" marker-end="url(#arrowhead)"/>
   
-  <!-- Ownership percentages -->
+
   <text x="300" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e74c3c">80%</text>
   <text x="450" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e74c3c">100%</text>
   <text x="600" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e74c3c">60%</text>
   
-  <!-- Subsidiary 1: Real Estate -->
+
   <rect x="100" y="260" width="200" height="100" rx="8" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
   <text x="200" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">EIENDOM AS</text>
   <text x="200" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Eiendomsutvikling</text>
@@ -30,7 +30,7 @@
   <text x="200" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#f8f9fa">Ansatte: 25</text>
   <text x="200" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#ecf0f1">80% eid - 20% minoritet</text>
   
-  <!-- Subsidiary 2: Technology -->
+
   <rect x="350" y="260" width="200" height="100" rx="8" fill="#3498db" stroke="#2980b9" stroke-width="2"/>
   <text x="450" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">TEKNOLOGI AS</text>
   <text x="450" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">IT-løsninger</text>
@@ -38,7 +38,7 @@
   <text x="450" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#f8f9fa">Ansatte: 40</text>
   <text x="450" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#ecf0f1">100% eid</text>
   
-  <!-- Subsidiary 3: Trading -->
+
   <rect x="600" y="260" width="200" height="100" rx="8" fill="#f39c12" stroke="#e67e22" stroke-width="2"/>
   <text x="700" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">HANDEL AS</text>
   <text x="700" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Grossisthandel</text>
@@ -46,22 +46,22 @@
   <text x="700" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#f8f9fa">Ansatte: 60</text>
   <text x="700" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#ecf0f1">60% eid - 40% minoritet</text>
   
-  <!-- Line from Technology to Software (grandchild) -->
+
   <line x1="450" y1="360" x2="450" y2="420" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
   <text x="470" y="390" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#3498db">100%</text>
   
-  <!-- Grandchild Company: Software -->
+
   <rect x="350" y="440" width="200" height="80" rx="6" fill="#9b59b6" stroke="#8e44ad" stroke-width="2"/>
   <text x="450" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">SOFTWARE AS</text>
   <text x="450" y="485" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">Programvareutvikling</text>
   <text x="450" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#f8f9fa">Omsetning: 15 mill. kr</text>
   <text x="450" y="515" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#f8f9fa">100% eid av Teknologi AS</text>
   
-  <!-- Financial Summary Box -->
+
   <rect x="50" y="550" width="800" height="130" rx="10" fill="white" stroke="#bdc3c7" stroke-width="2"/>
   <text x="450" y="580" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">Konsernøkonomi - Sammendrag</text>
   
-  <!-- Financial data table -->
+
   <rect x="70" y="600" width="150" height="20" fill="#34495e"/>
   <text x="145" y="615" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Selskap</text>
   
@@ -80,8 +80,8 @@
   <rect x="680" y="600" width="150" height="20" fill="#34495e"/>
   <text x="755" y="615" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Forretningsområde</text>
   
-  <!-- Data rows -->
-  <!-- Eiendom AS -->
+
+
   <rect x="70" y="620" width="150" height="15" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
   <text x="145" y="632" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Eiendom AS</text>
   
@@ -100,7 +100,7 @@
   <rect x="680" y="620" width="150" height="15" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
   <text x="755" y="632" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Eiendom</text>
   
-  <!-- Teknologi AS -->
+
   <rect x="70" y="635" width="150" height="15" fill="#f8f9fa" stroke="#bdc3c7" stroke-width="1"/>
   <text x="145" y="647" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Teknologi AS</text>
   
@@ -119,7 +119,7 @@
   <rect x="680" y="635" width="150" height="15" fill="#f8f9fa" stroke="#bdc3c7" stroke-width="1"/>
   <text x="755" y="647" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">IT/Teknologi</text>
   
-  <!-- Handel AS -->
+
   <rect x="70" y="650" width="150" height="15" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
   <text x="145" y="662" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Handel AS</text>
   
@@ -138,7 +138,7 @@
   <rect x="680" y="650" width="150" height="15" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
   <text x="755" y="662" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Handel</text>
   
-  <!-- Software AS -->
+
   <rect x="70" y="665" width="150" height="15" fill="#f8f9fa" stroke="#bdc3c7" stroke-width="1"/>
   <text x="145" y="677" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Software AS</text>
   
@@ -157,17 +157,17 @@
   <rect x="680" y="665" width="150" height="15" fill="#f8f9fa" stroke="#bdc3c7" stroke-width="1"/>
   <text x="755" y="677" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Software</text>
   
-  <!-- Total row -->
+
   <rect x="70" y="680" width="760" height="15" fill="#34495e"/>
   <text x="145" y="692" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">KONSERN TOTALT</text>
   <text x="280" y="692" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">175 mill.</text>
   <text x="390" y="692" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">140</text>
   <text x="755" y="692" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">Diversifisert konsern</text>
   
-  <!-- Note -->
+
   <text x="450" y="710" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">* Software AS eies 100% av Teknologi AS (indirekte eierskap fra Holding)</text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>

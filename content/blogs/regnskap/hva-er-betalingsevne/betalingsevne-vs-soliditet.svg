@@ -14,19 +14,19 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
     Betalingsevne vs Soliditet
   </text>
   
-  <!-- Betalingsevne section -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="300" height="350" rx="12" fill="url(#blueGradient)" stroke="#1c7ed6" stroke-width="3"/>
     
-    <!-- Header -->
+
     <text x="150" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
       BETALINGSEVNE
     </text>
@@ -34,12 +34,12 @@
       (Likviditet)
     </text>
     
-    <!-- Clock icon for short-term -->
+
     <circle cx="150" cy="90" r="25" fill="white" opacity="0.2"/>
     <circle cx="150" cy="90" r="20" fill="none" stroke="white" stroke-width="2"/>
     <path d="M 150 75 L 150 90 L 160 100" stroke="white" stroke-width="2" fill="none"/>
     
-    <!-- Content -->
+
     <text x="150" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
       KORTSIKTIG FOKUS
     </text>
@@ -47,7 +47,7 @@
       0-12 måneder
     </text>
     
-    <!-- Key metrics -->
+
     <text x="20" y="180" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
       Nøkkeltall:
     </text>
@@ -61,7 +61,7 @@
       • Kontantstrøm
     </text>
     
-    <!-- Risk -->
+
     <text x="20" y="270" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
       Risiko:
     </text>
@@ -76,11 +76,11 @@
     </text>
   </g>
   
-  <!-- Soliditet section -->
+
   <g transform="translate(450, 80)">
     <rect x="0" y="0" width="300" height="350" rx="12" fill="url(#purpleGradient)" stroke="#7048e8" stroke-width="3"/>
     
-    <!-- Header -->
+
     <text x="150" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
       SOLIDITET
     </text>
@@ -88,7 +88,7 @@
       (Egenkapitalandel)
     </text>
     
-    <!-- Calendar icon for long-term -->
+
     <rect x="125" y="70" width="50" height="40" rx="4" fill="white" opacity="0.2"/>
     <rect x="130" y="75" width="40" height="30" rx="2" fill="none" stroke="white" stroke-width="2"/>
     <line x1="135" y1="80" x2="165" y2="80" stroke="white" stroke-width="1"/>
@@ -96,7 +96,7 @@
     <line x1="135" y1="90" x2="165" y2="90" stroke="white" stroke-width="1"/>
     <line x1="135" y1="95" x2="165" y2="95" stroke="white" stroke-width="1"/>
     
-    <!-- Content -->
+
     <text x="150" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
       LANGSIKTIG FOKUS
     </text>
@@ -104,7 +104,7 @@
       Flere år
     </text>
     
-    <!-- Key metrics -->
+
     <text x="20" y="180" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
       Nøkkeltall:
     </text>
@@ -118,7 +118,7 @@
       • Rentedekningsgrad
     </text>
     
-    <!-- Risk -->
+
     <text x="20" y="270" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
       Risiko:
     </text>
@@ -133,14 +133,14 @@
     </text>
   </g>
   
-  <!-- Connection arrow -->
+
   <path d="M 350 255 L 450 255" stroke="#495057" stroke-width="3" fill="none"/>
   <circle cx="400" cy="255" r="15" fill="white" stroke="#495057" stroke-width="2"/>
   <text x="400" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
     VS
   </text>
   
-  <!-- Bottom note -->
+
   <text x="400" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#495057">
     Begge aspekter er viktige for en sunn bedrift
   </text>

@@ -10,21 +10,21 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="400" fill="#ffffff"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
   <text x="400" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="28" font-weight="bold">Hva er Lønnslipp i Regnskap?</text>
   
-  <!-- Main payslip document -->
+
   <rect x="100" y="120" width="280" height="220" fill="url(#cardGradient)" stroke="#cbd5e1" stroke-width="2" rx="8"/>
   
-  <!-- Payslip header -->
+
   <rect x="110" y="130" width="260" height="30" fill="#2563eb" rx="4"/>
   <text x="240" y="150" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">LØNNSLIPP</text>
   
-  <!-- Payslip content lines -->
+
   <text x="120" y="180" fill="#374151" font-family="Arial, sans-serif" font-size="12">Ansatt: Ola Nordmann</text>
   <text x="120" y="200" fill="#374151" font-family="Arial, sans-serif" font-size="12">Periode: Januar 2024</text>
   <line x1="120" y1="210" x2="360" y2="210" stroke="#cbd5e1" stroke-width="1"/>
@@ -42,20 +42,20 @@
   <text x="120" y="300" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Nettolønn:</text>
   <text x="300" y="300" fill="#16a34a" font-family="Arial, sans-serif" font-size="12" font-weight="bold">34.600 kr</text>
   
-  <!-- Arrow pointing to payslip -->
+
   <path d="M 420 200 L 390 200" stroke="#2563eb" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#2563eb"/>
     </marker>
   </defs>
   
-  <!-- Information box -->
+
   <rect x="450" y="140" width="320" height="160" fill="#f0f9ff" stroke="#0ea5e9" stroke-width="2" rx="8"/>
   
-  <!-- Info content -->
+
   <text x="470" y="165" fill="#0c4a6e" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Lønnslipp inneholder:</text>
   
   <circle cx="480" cy="185" r="3" fill="#0ea5e9"/>
@@ -73,6 +73,6 @@
   <circle cx="480" cy="265" r="3" fill="#0ea5e9"/>
   <text x="495" y="270" fill="#374151" font-family="Arial, sans-serif" font-size="12">Dokumentasjon for ansatte</text>
   
-  <!-- Bottom note -->
+
   <text x="400" y="370" text-anchor="middle" fill="#6b7280" font-family="Arial, sans-serif" font-size="12" font-style="italic">Viktig dokument for både arbeidsgiver og arbeidstaker</text>
 </svg>

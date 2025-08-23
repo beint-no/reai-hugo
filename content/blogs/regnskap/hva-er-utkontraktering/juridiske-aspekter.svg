@@ -14,32 +14,32 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e293b">
     Juridiske Aspekter ved Utkontraktering
   </text>
   
-  <!-- Central scales of justice -->
+
   <g transform="translate(350, 70)">
-    <!-- Scale base -->
+
     <rect x="45" y="60" width="10" height="40" fill="#92400e"/>
-    <!-- Scale beam -->
+
     <rect x="20" y="55" width="60" height="4" fill="#92400e"/>
-    <!-- Left scale -->
+
     <circle cx="30" cy="65" r="15" fill="none" stroke="#92400e" stroke-width="2"/>
     <line x1="15" y1="65" x2="45" y2="65" stroke="#92400e" stroke-width="2"/>
-    <!-- Right scale -->
+
     <circle cx="70" cy="65" r="15" fill="none" stroke="#92400e" stroke-width="2"/>
     <line x1="55" y1="65" x2="85" y2="65" stroke="#92400e" stroke-width="2"/>
-    <!-- Support lines -->
+
     <line x1="30" y1="59" x2="30" y2="65" stroke="#92400e" stroke-width="1"/>
     <line x1="70" y1="59" x2="70" y2="65" stroke="#92400e" stroke-width="1"/>
   </g>
   
-  <!-- Contract Law Section -->
+
   <g transform="translate(50, 150)">
     <rect x="0" y="0" width="340" height="180" rx="10" fill="url(#legalGradient)" stroke="#3b82f6" stroke-width="2"/>
     <circle cx="25" cy="25" r="15" fill="#3b82f6"/>
@@ -72,7 +72,7 @@
     </text>
   </g>
   
-  <!-- Labor Law Section -->
+
   <g transform="translate(410, 150)">
     <rect x="0" y="0" width="340" height="180" rx="10" fill="url(#legalGradient)" stroke="#10b981" stroke-width="2"/>
     <circle cx="25" cy="25" r="15" fill="#10b981"/>
@@ -105,7 +105,7 @@
     </text>
   </g>
   
-  <!-- GDPR/Privacy Section -->
+
   <g transform="translate(50, 350)">
     <rect x="0" y="0" width="340" height="200" rx="10" fill="url(#legalGradient)" stroke="#8b5cf6" stroke-width="2"/>
     <circle cx="25" cy="25" r="15" fill="#8b5cf6"/>
@@ -144,7 +144,7 @@
     </text>
   </g>
   
-  <!-- Key Contract Elements Section -->
+
   <g transform="translate(410, 350)">
     <rect x="0" y="0" width="340" height="200" rx="10" fill="url(#legalGradient)" stroke="#f59e0b" stroke-width="2"/>
     <circle cx="25" cy="25" r="15" fill="#f59e0b"/>
@@ -179,7 +179,7 @@
     </text>
   </g>
   
-  <!-- Connecting lines from scales to sections -->
+
   <line x1="380" y1="140" x2="220" y2="145" stroke="#64748b" stroke-width="1" stroke-dasharray="3,3"/>
   <line x1="420" y1="140" x2="580" y2="145" stroke="#64748b" stroke-width="1" stroke-dasharray="3,3"/>
   <line x1="380" y1="140" x2="220" y2="345" stroke="#64748b" stroke-width="1" stroke-dasharray="3,3"/>

@@ -1,27 +1,27 @@
 <svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">MVA-systemet Oversikt</text>
   
-  <!-- Main content area -->
+
   <g transform="translate(50, 60)">
     
-    <!-- MVA Flow diagram -->
+
     <g transform="translate(0, 20)">
       
-      <!-- Customer -->
+
       <rect x="0" y="100" width="80" height="60" fill="#3498db" rx="8" stroke="#2980b9" stroke-width="2"/>
       <text x="40" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Kunde</text>
       <text x="40" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">Betaler MVA</text>
       
-      <!-- Transaction arrow -->
+
       <path d="M 90 130 L 140 130" stroke="#e74c3c" stroke-width="4" fill="none" marker-end="url(#arrowRed)"/>
       <text x="115" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#e74c3c" font-weight="bold">Kjøp</text>
       <text x="115" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#e74c3c">1000 kr + 250 kr MVA</text>
       
-      <!-- Company -->
+
       <rect x="150" y="50" width="100" height="120" fill="#27ae60" rx="8" stroke="#229954" stroke-width="2"/>
       <text x="200" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Bedrift</text>
       <text x="200" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">Selger varer</text>
@@ -29,36 +29,36 @@
       <text x="200" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">Betaler MVA</text>
       <text x="200" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">til staten</text>
       
-      <!-- To government arrow -->
+
       <path d="M 250 110 L 320 110" stroke="#9b59b6" stroke-width="4" fill="none" marker-end="url(#arrowPurple)"/>
       <text x="285" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#9b59b6" font-weight="bold">MVA-oppgjør</text>
       <text x="285" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#9b59b6">Utgående - Inngående</text>
       
-      <!-- Government -->
+
       <rect x="330" y="80" width="80" height="60" fill="#e74c3c" rx="8" stroke="#c0392b" stroke-width="2"/>
       <text x="370" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Staten</text>
       <text x="370" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">Mottar MVA</text>
       
-      <!-- Supplier flow -->
+
       <g transform="translate(0, 200)">
-        <!-- Supplier -->
+
         <rect x="450" y="0" width="80" height="60" fill="#f39c12" rx="8" stroke="#e67e22" stroke-width="2"/>
         <text x="490" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Leverandør</text>
         <text x="490" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">Selger til bedrift</text>
         
-        <!-- Purchase arrow -->
+
         <path d="M 440 30 L 360 30" stroke="#f39c12" stroke-width="3" fill="none" marker-end="url(#arrowOrange)"/>
         <text x="400" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#f39c12" font-weight="bold">Faktura</text>
         <text x="400" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#f39c12">800 kr + 200 kr MVA</text>
         
-        <!-- Company purchase side -->
+
         <rect x="260" y="0" width="90" height="60" fill="#95a5a6" rx="8" stroke="#7f8c8d" stroke-width="2"/>
         <text x="305" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">Bedrift kjøper</text>
         <text x="305" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Inngående MVA</text>
       </g>
     </g>
     
-    <!-- MVA Calculation box -->
+
     <g transform="translate(480, 80)">
       <rect x="0" y="0" width="200" height="140" fill="#34495e" rx="10" stroke="#2c3e50" stroke-width="2"/>
       <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">MVA-beregning</text>
@@ -77,12 +77,12 @@
       <text x="100" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#bdc3c7">Månedlig oppgjør</text>
     </g>
     
-    <!-- MVA Rates table -->
+
     <g transform="translate(0, 360)">
       <rect x="0" y="0" width="450" height="160" fill="white" rx="8" stroke="#bdc3c7" stroke-width="2"/>
       <text x="225" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">MVA-satser i Norge</text>
       
-      <!-- Table headers -->
+
       <rect x="20" y="40" width="120" height="30" fill="#3498db"/>
       <rect x="140" y="40" width="80" height="30" fill="#3498db"/>
       <rect x="220" y="40" width="210" height="30" fill="#3498db"/>
@@ -91,7 +91,7 @@
       <text x="180" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Sats</text>
       <text x="325" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Eksempler</text>
       
-      <!-- Table rows -->
+
       <rect x="20" y="70" width="120" height="25" fill="#ecf0f1"/>
       <rect x="140" y="70" width="80" height="25" fill="#ecf0f1"/>
       <rect x="220" y="70" width="210" height="25" fill="#ecf0f1"/>
@@ -114,7 +114,7 @@
       <text x="230" y="138" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Serveringstjenester</text>
     </g>
     
-    <!-- Key points -->
+
     <g transform="translate(480, 240)">
       <rect x="0" y="0" width="220" height="120" fill="#2c3e50" rx="8"/>
       <text x="110" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Viktige punkter</text>
@@ -127,7 +127,7 @@
     
   </g>
   
-  <!-- Arrow definitions -->
+
   <defs>
     <marker id="arrowRed" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
       <path d="M0,0 L0,6 L9,3 z" fill="#e74c3c"/>

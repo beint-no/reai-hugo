@@ -10,21 +10,21 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8fafc"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="80" fill="url(#headerGrad)"/>
   <text x="400" y="50" text-anchor="middle" fill="white" font-size="28" font-weight="bold">TABELLTREKK</text>
   
-  <!-- Main content area -->
+
   <rect x="50" y="100" width="700" height="480" fill="white" stroke="#e2e8f0" stroke-width="2" rx="10"/>
   
-  <!-- Table illustration -->
+
   <rect x="80" y="130" width="300" height="200" fill="url(#tableGrad)" stroke="#cbd5e1" stroke-width="1" rx="5"/>
   <text x="230" y="155" text-anchor="middle" font-size="16" font-weight="bold" fill="#1e40af">SKATTETABELLER</text>
   
-  <!-- Table rows -->
+
   <line x1="80" y1="170" x2="380" y2="170" stroke="#cbd5e1" stroke-width="1"/>
   <text x="90" y="190" font-size="12" fill="#475569">Tabell 7300</text>
   <text x="200" y="190" font-size="12" fill="#475569">29-42%</text>
@@ -40,27 +40,27 @@
   <text x="200" y="250" font-size="12" fill="#475569">20-35%</text>
   <text x="300" y="250" font-size="12" fill="#475569">Pensjon/trygd</text>
   
-  <!-- Calculator illustration -->
+
   <rect x="420" y="130" width="280" height="200" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1" rx="5"/>
   <text x="560" y="155" text-anchor="middle" font-size="16" font-weight="bold" fill="#1e40af">TREKKBEREGNING</text>
   
-  <!-- Calculator display -->
+
   <rect x="440" y="170" width="240" height="40" fill="white" stroke="#cbd5e1" stroke-width="1" rx="3"/>
   <text x="560" y="195" text-anchor="middle" font-size="14" fill="#1e40af">Månedslønn: 50.000 kr</text>
   
-  <!-- Calculation steps -->
+
   <text x="450" y="235" font-size="12" fill="#475569">Årsinntekt: 600.000 kr</text>
   <text x="450" y="255" font-size="12" fill="#475569">Tabell 7300: 32%</text>
   <text x="450" y="275" font-size="12" fill="#475569">Månedlig trekk: 16.000 kr</text>
   
-  <!-- Arrow between table and calculator -->
+
   <path d="M 385 230 L 415 230" stroke="#3b82f6" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Process flow at bottom -->
+
   <rect x="80" y="360" width="640" height="180" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1" rx="5"/>
   <text x="400" y="385" text-anchor="middle" font-size="16" font-weight="bold" fill="#1e40af">TABELLTREKK PROSESS</text>
   
-  <!-- Process steps -->
+
   <circle cx="130" cy="420" r="25" fill="#3b82f6"/>
   <text x="130" y="427" text-anchor="middle" fill="white" font-size="12" font-weight="bold">1</text>
   <text x="130" y="455" text-anchor="middle" font-size="11" fill="#475569">Trekkart</text>
@@ -86,13 +86,13 @@
   <text x="670" y="455" text-anchor="middle" font-size="11" fill="#475569">Skattetrekk</text>
   <text x="670" y="470" text-anchor="middle" font-size="11" fill="#475569">betaling</text>
   
-  <!-- Arrows between process steps -->
+
   <path d="M 155 420 L 245 420" stroke="#3b82f6" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 295 420 L 385 420" stroke="#3b82f6" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 435 420 L 525 420" stroke="#3b82f6" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 575 420 L 645 420" stroke="#3b82f6" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Key features -->
+
   <rect x="80" y="500" width="200" height="60" fill="#dbeafe" stroke="#3b82f6" stroke-width="1" rx="5"/>
   <text x="180" y="520" text-anchor="middle" font-size="12" font-weight="bold" fill="#1e40af">STANDARDISERT</text>
   <text x="180" y="540" text-anchor="middle" font-size="11" fill="#475569">Faste tabeller og</text>
@@ -108,7 +108,7 @@
   <text x="620" y="540" text-anchor="middle" font-size="11" fill="#475569">Korrekt skattetrekk</text>
   <text x="620" y="555" text-anchor="middle" font-size="11" fill="#475569">og compliance</text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#3b82f6"/>

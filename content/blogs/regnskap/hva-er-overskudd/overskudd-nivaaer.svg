@@ -22,15 +22,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
     Nivåer av Overskudd
   </text>
   
-  <!-- Level 1: Bruttooverskudd -->
+
   <rect x="50" y="70" width="700" height="80" fill="url(#level1)" stroke="#0056b3" stroke-width="2" rx="8"/>
   <text x="70" y="95" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     1. BRUTTOOVERSKUDD
@@ -42,10 +42,10 @@
     Viser lønnsomheten i kjerneaktiviteten
   </text>
   
-  <!-- Arrow down -->
+
   <polygon points="400,160 390,175 410,175" fill="#6c757d"/>
   
-  <!-- Level 2: Driftsoverskudd -->
+
   <rect x="50" y="185" width="700" height="80" fill="url(#level2)" stroke="#20c997" stroke-width="2" rx="8"/>
   <text x="70" y="210" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     2. DRIFTSOVERSKUDD (EBIT)
@@ -57,10 +57,10 @@
     Resultat fra ordinær drift før finansposter
   </text>
   
-  <!-- Arrow down -->
+
   <polygon points="400,275 390,290 410,290" fill="#6c757d"/>
   
-  <!-- Level 3: Ordinært overskudd -->
+
   <rect x="50" y="300" width="700" height="80" fill="url(#level3)" stroke="#e0a800" stroke-width="2" rx="8"/>
   <text x="70" y="325" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     3. ORDINÆRT OVERSKUDD (EBT)
@@ -72,10 +72,10 @@
     Totalresultat før skatt
   </text>
   
-  <!-- Arrow down -->
+
   <polygon points="400,390 390,405 410,405" fill="#6c757d"/>
   
-  <!-- Level 4: Årsoverskudd -->
+
   <rect x="50" y="415" width="700" height="80" fill="url(#level4)" stroke="#c82333" stroke-width="2" rx="8"/>
   <text x="70" y="440" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     4. ÅRSOVERSKUDD (Nettoresultat)
@@ -87,7 +87,7 @@
     Endelig resultat som kan utdeles eller reinvesteres
   </text>
   
-  <!-- Side annotations -->
+
   <text x="600" y="110" font-family="Arial, sans-serif" font-size="12" fill="#495057">
     Fokus: Produktivitet
   </text>

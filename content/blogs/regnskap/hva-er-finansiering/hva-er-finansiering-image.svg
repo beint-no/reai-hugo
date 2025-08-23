@@ -10,27 +10,27 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="400" fill="url(#bgGradient)"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="45" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle" fill="white">
     Hva er Finansiering?
   </text>
   
-  <!-- Main content area -->
+
   <rect x="50" y="100" width="700" height="280" fill="white" stroke="#dee2e6" stroke-width="2" rx="10"/>
   
-  <!-- Left side - Egenfinansiering -->
+
   <rect x="80" y="130" width="300" height="220" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="8"/>
   <text x="230" y="155" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#1976d2">
     Egenfinansiering
   </text>
   
-  <!-- Egenfinansiering items -->
+
   <circle cx="110" cy="185" r="8" fill="#4caf50"/>
   <text x="130" y="190" font-family="Arial, sans-serif" font-size="14" fill="#333">
     Aksjekapital
@@ -61,13 +61,13 @@
     Business angels
   </text>
   
-  <!-- Right side - Fremmedfinansiering -->
+
   <rect x="420" y="130" width="300" height="220" fill="#fff3e0" stroke="#f57c00" stroke-width="2" rx="8"/>
   <text x="570" y="155" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#f57c00">
     Fremmedfinansiering
   </text>
   
-  <!-- Fremmedfinansiering items -->
+
   <circle cx="450" cy="185" r="8" fill="#ff9800"/>
   <text x="470" y="190" font-family="Arial, sans-serif" font-size="14" fill="#333">
     Banklån
@@ -98,11 +98,11 @@
     Crowdlending
   </text>
   
-  <!-- Central arrow -->
+
   <path d="M 390 240 L 410 240" stroke="#666" stroke-width="3" fill="none"/>
   <polygon points="410,235 420,240 410,245" fill="#666"/>
   
-  <!-- VS text -->
+
   <text x="400" y="225" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#666">
     VS
   </text>

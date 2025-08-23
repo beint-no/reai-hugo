@@ -10,18 +10,18 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
   <text x="400" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="22" font-weight="bold">
     Detaljert Beregning av Lønnskostnad
   </text>
   
-  <!-- Calculation steps -->
+
   <g transform="translate(50, 80)">
-    <!-- Step 1: Base salary -->
+
     <rect x="50" y="20" width="300" height="60" fill="#28a745" stroke="#1e7e34" stroke-width="2" rx="5"/>
     <text x="70" y="40" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       1. Bruttolønn (grunnlag)
@@ -33,10 +33,10 @@
       50.000 kr
     </text>
     
-    <!-- Arrow -->
+
     <polygon points="400,50 420,40 420,45 450,45 450,55 420,55 420,60" fill="#333"/>
     
-    <!-- Step 2: Employer tax -->
+
     <rect x="50" y="100" width="300" height="60" fill="#dc3545" stroke="#c82333" stroke-width="2" rx="5"/>
     <text x="70" y="120" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       2. Arbeidsgiveravgift
@@ -48,10 +48,10 @@
       + 7.050 kr
     </text>
     
-    <!-- Arrow -->
+
     <polygon points="400,130 420,120 420,125 450,125 450,135 420,135 420,140" fill="#333"/>
     
-    <!-- Step 3: Pension -->
+
     <rect x="50" y="180" width="300" height="60" fill="#ffc107" stroke="#e0a800" stroke-width="2" rx="5"/>
     <text x="70" y="200" fill="black" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       3. Pensjonskostnad
@@ -63,10 +63,10 @@
       + 1.000 kr
     </text>
     
-    <!-- Arrow -->
+
     <polygon points="400,210 420,200 420,205 450,205 450,215 420,215 420,220" fill="#333"/>
     
-    <!-- Step 4: Holiday pay -->
+
     <rect x="50" y="260" width="300" height="60" fill="#17a2b8" stroke="#138496" stroke-width="2" rx="5"/>
     <text x="70" y="280" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       4. Feriepenger (månedlig)
@@ -78,10 +78,10 @@
       + 500 kr
     </text>
     
-    <!-- Arrow -->
+
     <polygon points="400,290 420,280 420,285 450,285 450,295 420,295 420,300" fill="#333"/>
     
-    <!-- Step 5: Insurance -->
+
     <rect x="50" y="340" width="300" height="60" fill="#6f42c1" stroke="#5a32a3" stroke-width="2" rx="5"/>
     <text x="70" y="360" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       5. Forsikringer
@@ -93,10 +93,10 @@
       + 300 kr
     </text>
     
-    <!-- Arrow -->
+
     <polygon points="400,370 420,360 420,365 450,365 450,375 420,375 420,380" fill="#333"/>
     
-    <!-- Step 6: Other costs -->
+
     <rect x="50" y="420" width="300" height="60" fill="#6c757d" stroke="#5a6268" stroke-width="2" rx="5"/>
     <text x="70" y="440" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       6. Andre kostnader
@@ -108,13 +108,13 @@
       + 200 kr
     </text>
     
-    <!-- Total calculation box -->
+
     <rect x="450" y="150" width="250" height="200" fill="#0066cc" stroke="#004499" stroke-width="3" rx="10"/>
     <text x="575" y="180" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
       TOTAL BEREGNING
     </text>
     
-    <!-- Calculation breakdown -->
+
     <text x="470" y="210" fill="white" font-family="Arial, sans-serif" font-size="12">
       Bruttolønn:        50.000 kr
     </text>
@@ -134,15 +134,15 @@
       Andre kostnader:       200 kr
     </text>
     
-    <!-- Divider line -->
+
     <line x1="470" y1="320" x2="680" y2="320" stroke="white" stroke-width="2"/>
     
-    <!-- Total -->
+
     <text x="575" y="340" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       TOTAL: 59.050 kr
     </text>
     
-    <!-- Percentage increase -->
+
     <rect x="450" y="370" width="250" height="50" fill="#28a745" stroke="#1e7e34" stroke-width="2" rx="5"/>
     <text x="575" y="390" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       18,1% økning fra bruttolønn
@@ -152,7 +152,7 @@
     </text>
   </g>
   
-  <!-- Bottom note -->
+
   <rect x="100" y="530" width="600" height="50" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="5"/>
   <text x="400" y="550" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Dette eksemplet viser hvordan en 50.000 kr bruttolønn blir til 59.050 kr total lønnskostnad

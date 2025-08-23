@@ -14,15 +14,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="#1e293b">
     Digitale Verktøy for Selvfinansiering
   </text>
   
-  <!-- Central hub -->
+
   <g transform="translate(400, 200)">
     <circle cx="0" cy="0" r="80" fill="url(#techGradient)" stroke="#6d28d9" stroke-width="3"/>
     <text x="0" y="-10" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
@@ -36,9 +36,9 @@
     </text>
   </g>
   
-  <!-- ERP modules around the center -->
+
   
-  <!-- Financial Planning -->
+
   <g transform="translate(150, 120)">
     <rect x="0" y="0" width="160" height="80" fill="#ddd6fe" stroke="#8b5cf6" stroke-width="2" rx="10"/>
     <circle cx="30" cy="25" r="18" fill="#8b5cf6"/>
@@ -57,11 +57,11 @@
       • Scenariomodellering
     </text>
     
-    <!-- Connection line -->
+
     <path d="M 160 60 Q 220 100 320 160" stroke="#8b5cf6" stroke-width="2" fill="none"/>
   </g>
   
-  <!-- Working Capital Management -->
+
   <g transform="translate(490, 120)">
     <rect x="0" y="0" width="160" height="80" fill="#cffafe" stroke="#06b6d4" stroke-width="2" rx="10"/>
     <circle cx="30" cy="25" r="18" fill="#06b6d4"/>
@@ -80,11 +80,11 @@
       • Betalingsoversikt
     </text>
     
-    <!-- Connection line -->
+
     <path d="M 0 60 Q -60 100 -80 160" stroke="#06b6d4" stroke-width="2" fill="none"/>
   </g>
   
-  <!-- Investment Planning -->
+
   <g transform="translate(150, 320)">
     <rect x="0" y="0" width="160" height="80" fill="#fef3c7" stroke="#f59e0b" stroke-width="2" rx="10"/>
     <circle cx="30" cy="25" r="18" fill="#f59e0b"/>
@@ -103,11 +103,11 @@
       • Kapitalbudsjettering
     </text>
     
-    <!-- Connection line -->
+
     <path d="M 160 40 Q 220 100 320 200" stroke="#f59e0b" stroke-width="2" fill="none"/>
   </g>
   
-  <!-- Reporting & Analytics -->
+
   <g transform="translate(490, 320)">
     <rect x="0" y="0" width="160" height="80" fill="#dcfce7" stroke="#22c55e" stroke-width="2" rx="10"/>
     <circle cx="30" cy="25" r="18" fill="#22c55e"/>
@@ -126,18 +126,18 @@
       • Trendanalyser
     </text>
     
-    <!-- Connection line -->
+
     <path d="M 0 40 Q -60 100 -80 200" stroke="#22c55e" stroke-width="2" fill="none"/>
   </g>
   
-  <!-- AI & Machine Learning section -->
+
   <g transform="translate(50, 450)">
     <rect x="0" y="0" width="320" height="120" fill="#f3e8ff" stroke="#a855f7" stroke-width="3" rx="15"/>
     <text x="160" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#7c3aed">
       AI og Maskinlæring
     </text>
     
-    <!-- AI capabilities -->
+
     <g transform="translate(20, 40)">
       <circle cx="15" cy="15" r="10" fill="#a855f7"/>
       <text x="15" y="19" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="white">🤖</text>
@@ -153,14 +153,14 @@
     </g>
   </g>
   
-  <!-- Cloud Integration section -->
+
   <g transform="translate(430, 450)">
     <rect x="0" y="0" width="320" height="120" fill="#f0f9ff" stroke="#0ea5e9" stroke-width="3" rx="15"/>
     <text x="160" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0284c7">
       Sky-baserte Løsninger
     </text>
     
-    <!-- Cloud capabilities -->
+
     <g transform="translate(20, 40)">
       <circle cx="15" cy="15" r="10" fill="#0ea5e9"/>
       <text x="15" y="19" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="white">☁️</text>
@@ -176,7 +176,7 @@
     </g>
   </g>
   
-  <!-- Benefits box -->
+
   <g transform="translate(250, 50)">
     <rect x="0" y="0" width="300" height="50" fill="#f1f5f9" stroke="#64748b" stroke-width="2" rx="10"/>
     <text x="150" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#1e293b">

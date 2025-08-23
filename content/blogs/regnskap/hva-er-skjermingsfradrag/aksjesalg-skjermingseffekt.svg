@@ -9,15 +9,15 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bg)"/>
   
-  <!-- Title -->
+
   <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1a202c">
     Skjermingseffekt ved Aksjesalg
   </text>
   
-  <!-- Left side: Traditional calculation -->
+
   <g transform="translate(200,100)">
     <text x="0" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2d3748">
       Uten Skjermingsfradrag
@@ -56,7 +56,7 @@
     </text>
   </g>
   
-  <!-- Right side: With shielding -->
+
   <g transform="translate(600,100)">
     <text x="0" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2d3748">
       Med Skjermingsfradrag
@@ -98,7 +98,7 @@
     </text>
   </g>
   
-  <!-- Comparison and savings -->
+
   <g transform="translate(400,370)">
     <rect x="-150" y="-30" width="300" height="60" rx="10" fill="#3182ce" filter="url(#shadow)"/>
     <text x="0" y="-10" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -109,14 +109,14 @@
     </text>
   </g>
   
-  <!-- Key insight -->
+
   <g transform="translate(400,450)">
     <text x="0" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#4a5568">
       Skjermingsfradrag reduserer skattepliktig gevinst med 40% i dette eksemplet
     </text>
   </g>
   
-  <!-- VS indicator -->
+
   <g transform="translate(400,200)">
     <circle cx="0" cy="0" r="25" fill="#805ad5" filter="url(#shadow)"/>
     <text x="0" y="7" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">

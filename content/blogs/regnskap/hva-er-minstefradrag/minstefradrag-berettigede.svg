@@ -10,16 +10,16 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="700" height="400" fill="url(#bgGrad)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <rect x="0" y="0" width="700" height="60" fill="url(#headerGrad)"/>
   <text x="350" y="40" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="white">
     Hvem har Rett til Minstefradrag?
   </text>
   
-  <!-- Central circle -->
+
   <circle cx="350" cy="200" r="80" fill="#e3f2fd" stroke="#0066cc" stroke-width="3"/>
   <text x="350" y="190" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0066cc">
     MINSTEFRADRAG
@@ -31,7 +31,7 @@
     inntekt i Norge
   </text>
   
-  <!-- Category 1 - Lønnstakere -->
+
   <rect x="50" y="100" width="120" height="80" fill="#e8f5e8" stroke="#28a745" stroke-width="2" rx="5"/>
   <text x="110" y="125" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#28a745">
     LØNNSTAKERE
@@ -46,7 +46,7 @@
     • 46% (maks 104 850)
   </text>
   
-  <!-- Category 2 - Pensjonister -->
+
   <rect x="530" y="100" width="120" height="80" fill="#fff3e0" stroke="#ff9800" stroke-width="2" rx="5"/>
   <text x="590" y="125" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ff9800">
     PENSJONISTER
@@ -61,7 +61,7 @@
     • 31% (maks 90 800)
   </text>
   
-  <!-- Category 3 - Næringsdrivende -->
+
   <rect x="50" y="280" width="120" height="80" fill="#f3e5f5" stroke="#9c27b0" stroke-width="2" rx="5"/>
   <text x="110" y="300" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#9c27b0">
     NÆRINGSDRIVENDE
@@ -76,7 +76,7 @@
     • 25% (maks 69 700)
   </text>
   
-  <!-- Category 4 - Frilansere -->
+
   <rect x="290" y="280" width="120" height="80" fill="#e1f5fe" stroke="#00bcd4" stroke-width="2" rx="5"/>
   <text x="350" y="305" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#00bcd4">
     FRILANSERE
@@ -91,7 +91,7 @@
     lønnstakere
   </text>
   
-  <!-- Category 5 - Studenter -->
+
   <rect x="530" y="280" width="120" height="80" fill="#fce4ec" stroke="#e91e63" stroke-width="2" rx="5"/>
   <text x="590" y="305" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#e91e63">
     STUDENTER
@@ -106,14 +106,14 @@
     • Samme regler
   </text>
   
-  <!-- Connecting lines -->
+
   <path d="M 170 140 L 270 180" stroke="#666" stroke-width="2" fill="none"/>
   <path d="M 530 140 L 430 180" stroke="#666" stroke-width="2" fill="none"/>
   <path d="M 170 320 L 270 220" stroke="#666" stroke-width="2" fill="none"/>
   <path d="M 410 320 L 380 280" stroke="#666" stroke-width="2" fill="none"/>
   <path d="M 530 320 L 430 220" stroke="#666" stroke-width="2" fill="none"/>
   
-  <!-- Special cases note -->
+
   <rect x="200" y="70" width="300" height="25" fill="#fff3cd" stroke="#ffc107" stroke-width="1" rx="3"/>
   <text x="350" y="87" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#856404">
     Spesialordninger: Sjøfolk, fiskere, utenlandske arbeidstakere

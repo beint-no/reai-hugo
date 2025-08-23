@@ -11,18 +11,18 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="300" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
     Tidsvilkåret - Minimum 2 År Eierskap
   </text>
   
-  <!-- Timeline -->
+
   <rect x="100" y="80" width="600" height="40" fill="url(#timeGradient)" rx="20" stroke="#6c757d" stroke-width="2"/>
   
-  <!-- Timeline markers -->
+
   <circle cx="100" cy="100" r="8" fill="#dc3545" stroke="white" stroke-width="2"/>
   <text x="100" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#dc3545">
     Kjøp
@@ -47,7 +47,7 @@
     Fritaksmetoden gjelder
   </text>
   
-  <!-- Time periods -->
+
   <rect x="100" y="160" width="300" height="50" fill="#ffebee" stroke="#dc3545" stroke-width="2" rx="5"/>
   <text x="250" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#dc3545">
     0-2 År
@@ -70,7 +70,7 @@
     (97% skattefritt)
   </text>
   
-  <!-- Important notes -->
+
   <rect x="50" y="230" width="700" height="50" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="5"/>
   <text x="400" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#856404">
     Viktig: Sammenhengende eierskap kreves
@@ -79,11 +79,11 @@
     Eierskapet må være kontinuerlig fra ervervsdag til utdelingsdag/salgsdag
   </text>
   
-  <!-- Arrows -->
+
   <path d="M 100 120 L 400 120" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)" stroke-dasharray="5,5"/>
   <path d="M 400 120 L 700 120" stroke="#28a745" stroke-width="3" fill="none" marker-end="url(#arrowhead2)"/>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#6c757d"/>

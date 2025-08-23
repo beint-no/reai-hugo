@@ -14,22 +14,22 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
     Implementeringsprosess for API-integrasjon
   </text>
   
-  <!-- Progress Bar -->
+
   <rect x="50" y="60" width="700" height="20" rx="10" fill="#e9ecef" stroke="#dee2e6" stroke-width="1"/>
   <rect x="50" y="60" width="175" height="20" rx="10" fill="url(#progressGradient)"/>
   <text x="400" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
     Implementeringsfremdrift: 25% - 50% - 75% - 100%
   </text>
   
-  <!-- Phase 1: Analysis -->
+
   <rect x="50" y="130" width="150" height="120" rx="10" fill="url(#phaseGradient)" stroke="#0056b3" stroke-width="2"/>
   <text x="125" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     FASE 1
@@ -51,7 +51,7 @@
     • ROI-beregning
   </text>
   
-  <!-- Phase 2: Planning -->
+
   <rect x="225" y="130" width="150" height="120" rx="10" fill="url(#phaseGradient)" stroke="#0056b3" stroke-width="2"/>
   <text x="300" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     FASE 2
@@ -73,7 +73,7 @@
     • Prosjektplan
   </text>
   
-  <!-- Phase 3: Development -->
+
   <rect x="400" y="130" width="150" height="120" rx="10" fill="url(#phaseGradient)" stroke="#0056b3" stroke-width="2"/>
   <text x="475" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     FASE 3
@@ -95,7 +95,7 @@
     • Sikkerhetstesting
   </text>
   
-  <!-- Phase 4: Deployment -->
+
   <rect x="575" y="130" width="150" height="120" rx="10" fill="url(#phaseGradient)" stroke="#0056b3" stroke-width="2"/>
   <text x="650" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     FASE 4
@@ -117,7 +117,7 @@
     • Overvåking
   </text>
   
-  <!-- Timeline -->
+
   <text x="125" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#6c757d">
     Uke 1-2
   </text>
@@ -131,7 +131,7 @@
     Uke 9-12
   </text>
   
-  <!-- Arrows between phases -->
+
   <defs>
     <marker id="phaseArrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#28a745"/>
@@ -142,12 +142,12 @@
   <line x1="375" y1="190" x2="400" y2="190" stroke="#28a745" stroke-width="3" marker-end="url(#phaseArrow)"/>
   <line x1="550" y1="190" x2="575" y2="190" stroke="#28a745" stroke-width="3" marker-end="url(#phaseArrow)"/>
   
-  <!-- Key Success Factors -->
+
   <text x="400" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#212529">
     Kritiske Suksessfaktorer
   </text>
   
-  <!-- Success Factor Boxes -->
+
   <rect x="50" y="340" width="160" height="80" rx="8" fill="#28a745" stroke="#1e7e34" stroke-width="2"/>
   <text x="130" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     GRUNDIG
@@ -204,7 +204,7 @@
     basert på erfaringer
   </text>
   
-  <!-- Bottom note -->
+
   <text x="400" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#6c757d">
     Gjennomsnittlig implementeringstid: 8-12 uker for SMB, 12-24 uker for store bedrifter
   </text>

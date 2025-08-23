@@ -22,16 +22,16 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
   <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
     Case-eksempler på Avrunding i Praksis
   </text>
   
-  <!-- Case 1: Small Business -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="340" height="220" rx="10" fill="white" stroke="#ddd" stroke-width="1"/>
     <rect x="0" y="0" width="340" height="40" rx="10" fill="url(#case1Gradient)"/>
@@ -78,7 +78,7 @@
     </g>
   </g>
   
-  <!-- Case 2: Medium Business -->
+
   <g transform="translate(410, 80)">
     <rect x="0" y="0" width="340" height="220" rx="10" fill="white" stroke="#ddd" stroke-width="1"/>
     <rect x="0" y="0" width="340" height="40" rx="10" fill="url(#case2Gradient)"/>
@@ -125,7 +125,7 @@
     </g>
   </g>
   
-  <!-- Detailed Example -->
+
   <g transform="translate(50, 320)">
     <rect x="0" y="0" width="700" height="180" rx="10" fill="white" stroke="#ddd" stroke-width="1"/>
     <rect x="0" y="0" width="700" height="40" rx="10" fill="url(#resultGradient)"/>
@@ -134,7 +134,7 @@
     </text>
     
     <g transform="translate(30, 50)">
-      <!-- Before rounding -->
+
       <text x="0" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
         Før avrunding (eksakte beløp):
       </text>
@@ -156,7 +156,7 @@
         Resultat: 57 556,23 kr
       </text>
       
-      <!-- After rounding -->
+
       <text x="370" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
         Etter avrunding (hele kroner):
       </text>
@@ -180,7 +180,7 @@
     </g>
   </g>
   
-  <!-- Comparison and Analysis -->
+
   <g transform="translate(50, 520)">
     <rect x="0" y="0" width="700" height="70" rx="10" fill="white" stroke="#ddd" stroke-width="1"/>
     <rect x="0" y="0" width="700" height="30" rx="10" fill="url(#comparisonGradient)"/>
@@ -198,16 +198,16 @@
     </g>
   </g>
   
-  <!-- Visual indicators -->
+
   <g transform="translate(20, 320)">
-    <!-- Arrow pointing to detailed example -->
+
     <path d="M15 20 L15 40 L25 30 Z" fill="url(#resultGradient)"/>
     <text x="5" y="15" font-family="Arial, sans-serif" font-size="10" fill="#333" transform="rotate(-90, 5, 15)">
       Detaljert eksempel
     </text>
   </g>
   
-  <!-- Success indicators -->
+
   <g transform="translate(320, 280)">
     <circle cx="0" cy="0" r="15" fill="url(#case1Gradient)"/>
     <text x="0" y="5" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">✓</text>

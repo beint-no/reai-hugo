@@ -14,15 +14,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#F8F9FA"/>
   
-  <!-- Title -->
+
   <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2C3E50">
     Strategier for å Forbedre Likviditetsgrader
   </text>
   
-  <!-- Central circle -->
+
   <circle cx="400" cy="300" r="80" fill="url(#centerGrad)"/>
   <text x="400" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     FORBEDRET
@@ -31,7 +31,7 @@
     LIKVIDITET
   </text>
   
-  <!-- Left side - Kortsiktige tiltak -->
+
   <rect x="50" y="80" width="280" height="440" fill="url(#shortTermGrad)" rx="15"/>
   <text x="190" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
     KORTSIKTIGE TILTAK
@@ -40,7 +40,7 @@
     (0-6 måneder)
   </text>
   
-  <!-- Short-term strategies -->
+
   <rect x="70" y="160" width="240" height="50" fill="rgba(255,255,255,0.2)" rx="8"/>
   <text x="85" y="180" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     1. Akselerere innkassering
@@ -86,7 +86,7 @@
     Effekt: Umiddelbar forbedring
   </text>
   
-  <!-- Right side - Langsiktige strategier -->
+
   <rect x="470" y="80" width="280" height="440" fill="url(#longTermGrad)" rx="15"/>
   <text x="610" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
     LANGSIKTIGE STRATEGIER
@@ -95,7 +95,7 @@
     (6+ måneder)
   </text>
   
-  <!-- Long-term strategies -->
+
   <rect x="490" y="160" width="240" height="50" fill="rgba(255,255,255,0.2)" rx="8"/>
   <text x="505" y="180" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     1. Forbedre kontantstrøm
@@ -141,11 +141,11 @@
     Effekt: Varig forbedring
   </text>
   
-  <!-- Arrows pointing to center -->
+
   <path d="M 330 300 L 320 300" stroke="#2C3E50" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 470 300 L 480 300" stroke="#2C3E50" stroke-width="3" fill="none" marker-end="url(#arrowhead2)"/>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#2C3E50"/>
@@ -155,7 +155,7 @@
     </marker>
   </defs>
   
-  <!-- Bottom section - Key principles -->
+
   <rect x="100" y="540" width="600" height="50" fill="#ECF0F1" stroke="#BDC3C7" stroke-width="2" rx="10"/>
   <text x="400" y="560" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2C3E50">
     NØKKELPRINSIPPER

@@ -14,27 +14,27 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
   <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
     Praktiske Diskonteringseksempler
   </text>
   
-  <!-- Example 1: Machine Investment -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="340" height="220" rx="10" fill="url(#exampleGradient)" opacity="0.9"/>
     <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
       Eksempel 1: Maskininvestering
     </text>
     
-    <!-- Machine icon -->
+
     <circle cx="60" cy="70" r="25" fill="white" opacity="0.3"/>
     <text x="60" y="78" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="white">⚙️</text>
     
-    <!-- Investment details -->
+
     <text x="110" y="55" font-family="Arial, sans-serif" font-size="14" fill="white">
       Investering: 500 000 kr
     </text>
@@ -45,7 +45,7 @@
       Periode: 4 år
     </text>
     
-    <!-- Cash flows -->
+
     <text x="20" y="125" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
       Kontantstrømmer:
     </text>
@@ -62,25 +62,25 @@
       År 4: 120 000 kr → PV: 82 012 kr
     </text>
     
-    <!-- Result -->
+
     <rect x="20" y="200" width="300" height="15" fill="white" opacity="0.2"/>
     <text x="170" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
       NPV = 17 399 kr ✓ Lønnsom
     </text>
   </g>
   
-  <!-- Example 2: Lease vs Buy -->
+
   <g transform="translate(410, 80)">
     <rect x="0" y="0" width="340" height="220" rx="10" fill="url(#calculationGradient)" opacity="0.9"/>
     <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
       Eksempel 2: Kjøp vs. Leasing
     </text>
     
-    <!-- Scale icon -->
+
     <circle cx="60" cy="70" r="25" fill="white" opacity="0.3"/>
     <text x="60" y="78" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="white">⚖️</text>
     
-    <!-- Comparison details -->
+
     <text x="110" y="55" font-family="Arial, sans-serif" font-size="14" fill="white">
       Utstyr verdi: 800 000 kr
     </text>
@@ -91,7 +91,7 @@
       Periode: 5 år
     </text>
     
-    <!-- Options comparison -->
+
     <text x="20" y="125" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
       Kjøpsalternativ:
     </text>
@@ -108,21 +108,21 @@
       NPV Kjøp: -863 519 kr
     </text>
     
-    <!-- Result -->
+
     <rect x="20" y="200" width="300" height="15" fill="white" opacity="0.2"/>
     <text x="170" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
       Leasing NPV: -718 686 kr ✓ Bedre
     </text>
   </g>
   
-  <!-- Formula Section -->
+
   <g transform="translate(50, 320)">
     <rect x="0" y="0" width="700" height="120" rx="10" fill="#ffffff" stroke="#ddd" stroke-width="2"/>
     <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333">
       Diskonteringsformler
     </text>
     
-    <!-- Present Value Formula -->
+
     <text x="50" y="55" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2196F3">
       Nåverdi (PV):
     </text>
@@ -130,7 +130,7 @@
       PV = FV / (1 + r)^n
     </text>
     
-    <!-- NPV Formula -->
+
     <text x="50" y="80" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#4CAF50">
       Netto Nåverdi (NPV):
     </text>
@@ -138,13 +138,13 @@
       NPV = Σ [CFt / (1 + r)^t] - I0
     </text>
     
-    <!-- Legend -->
+
     <text x="50" y="105" font-family="Arial, sans-serif" font-size="12" fill="#666">
       FV = Fremtidig verdi, r = Diskonteringsrente, n = Antall perioder, CFt = Kontantstrøm periode t, I0 = Initial investering
     </text>
   </g>
   
-  <!-- Key Insights -->
+
   <g transform="translate(50, 460)">
     <rect x="0" y="0" width="700" height="120" rx="10" fill="#e3f2fd" stroke="#2196F3" stroke-width="2"/>
     <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1976D2">

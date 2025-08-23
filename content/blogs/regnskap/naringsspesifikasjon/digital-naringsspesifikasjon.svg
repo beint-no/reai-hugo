@@ -13,16 +13,16 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGrad)"/>
   <text x="400" y="35" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="white">
     Digital Næringsspesifikasjon
   </text>
   
-  <!-- Cloud/Digital Infrastructure -->
+
   <ellipse cx="400" cy="150" rx="200" ry="60" fill="url(#cloudGrad)" stroke="#00acc1" stroke-width="2" filter="url(#shadow)"/>
   <text x="400" y="140" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#00695c">
     Digital Infrastruktur
@@ -31,13 +31,13 @@
     Automatisering &amp; Standardisering
   </text>
   
-  <!-- ERP Systems (left) -->
+
   <rect x="50" y="240" width="200" height="120" fill="#e8f5e8" stroke="#4caf50" stroke-width="2" rx="8" filter="url(#shadow)"/>
   <text x="150" y="265" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#4caf50">
     ERP-Systemer
   </text>
   
-  <!-- ERP features -->
+
   <circle cx="80" cy="290" r="6" fill="#66bb6a"/>
   <text x="95" y="295" font-family="Arial, sans-serif" font-size="11" fill="#2e7d32">
     Automatisk klassifisering
@@ -58,13 +58,13 @@
     Konsistent håndtering
   </text>
   
-  <!-- API Integrations (center) -->
+
   <rect x="300" y="240" width="200" height="120" fill="#e3f2fd" stroke="#2196f3" stroke-width="2" rx="8" filter="url(#shadow)"/>
   <text x="400" y="265" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#2196f3">
     API-Integrasjoner
   </text>
   
-  <!-- API features -->
+
   <circle cx="330" cy="290" r="6" fill="#42a5f5"/>
   <text x="345" y="295" font-family="Arial, sans-serif" font-size="11" fill="#1565c0">
     Automatisk NACE-henting
@@ -85,13 +85,13 @@
     Offentlige systemer
   </text>
   
-  <!-- AI/Machine Learning (right) -->
+
   <rect x="550" y="240" width="200" height="120" fill="#fff3e0" stroke="#ff9800" stroke-width="2" rx="8" filter="url(#shadow)"/>
   <text x="650" y="265" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#ff9800">
     Kunstig Intelligens
   </text>
   
-  <!-- AI features -->
+
   <circle cx="580" cy="290" r="6" fill="#ffb74d"/>
   <text x="595" y="295" font-family="Arial, sans-serif" font-size="11" fill="#ef6c00">
     Automatisk klassifisering
@@ -112,13 +112,13 @@
     Fremtidige krav
   </text>
   
-  <!-- Benefits section -->
+
   <rect x="100" y="400" width="600" height="100" fill="#f3e5f5" stroke="#9c27b0" stroke-width="2" rx="8" filter="url(#shadow)"/>
   <text x="400" y="425" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#9c27b0">
     Fordeler med Digital Næringsspesifikasjon
   </text>
   
-  <!-- Benefits in columns -->
+
   <text x="130" y="450" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#7b1fa2">
     Effektivitet:
   </text>
@@ -159,7 +159,7 @@
     • Strategisk planlegging
   </text>
   
-  <!-- Future trends -->
+
   <rect x="150" y="520" width="500" height="60" fill="#e8eaf6" stroke="#3f51b5" stroke-width="1" rx="5"/>
   <text x="400" y="540" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#3f51b5">
     Fremtidige Utviklingstrender
@@ -171,12 +171,12 @@
     Automatisering av klassifiseringsprosesser • Blockchain for transparens
   </text>
   
-  <!-- Connecting lines from cloud to systems -->
+
   <path d="M 300 180 L 150 230" stroke="#00acc1" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 400 210 L 400 230" stroke="#00acc1" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 500 180 L 650 230" stroke="#00acc1" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#00acc1"/>

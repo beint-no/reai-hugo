@@ -18,37 +18,37 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="900" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="450" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#2c3e50">
     Detaljert Kasseoppgjør Prosess - Steg for Steg
   </text>
   
-  <!-- Step 1: Forberedelse -->
+
   <rect x="50" y="70" width="250" height="150" fill="url(#stepGradient1)" stroke="#2980b9" stroke-width="2" rx="10"/>
   <text x="175" y="95" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
     STEG 1: FORBEREDELSE
   </text>
   
-  <!-- Checklist for Step 1 -->
+
   <text x="70" y="120" font-family="Arial, sans-serif" font-size="12" fill="white">✓ Avslutt alle aktive transaksjoner</text>
   <text x="70" y="140" font-family="Arial, sans-serif" font-size="12" fill="white">✓ Print kasserapporter</text>
   <text x="70" y="160" font-family="Arial, sans-serif" font-size="12" fill="white">✓ Samle alle betalingsmidler</text>
   <text x="70" y="180" font-family="Arial, sans-serif" font-size="12" fill="white">✓ Forbered tellingsskjema</text>
   <text x="70" y="200" font-family="Arial, sans-serif" font-size="12" fill="white">✓ Sikre arbeidsområde</text>
   
-  <!-- Arrow 1 -->
+
   <path d="M 310 145 L 340 145 L 330 135 M 340 145 L 330 155" stroke="#e74c3c" stroke-width="3" fill="none"/>
   
-  <!-- Step 2: Fysisk Telling -->
+
   <rect x="350" y="70" width="250" height="150" fill="url(#stepGradient2)" stroke="#229954" stroke-width="2" rx="10"/>
   <text x="475" y="95" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
     STEG 2: FYSISK TELLING
   </text>
   
-  <!-- Money counting illustration -->
+
   <rect x="370" y="110" width="60" height="30" fill="#27ae60" stroke="#229954" stroke-width="1" rx="3"/>
   <text x="400" y="130" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="white">1000kr</text>
   
@@ -63,22 +63,22 @@
   <text x="370" y="195" font-family="Arial, sans-serif" font-size="11" fill="white">• Deretter små sedler</text>
   <text x="370" y="210" font-family="Arial, sans-serif" font-size="11" fill="white">• Til slutt mynter</text>
   
-  <!-- Arrow 2 -->
+
   <path d="M 610 145 L 640 145 L 630 135 M 640 145 L 630 155" stroke="#e74c3c" stroke-width="3" fill="none"/>
   
-  <!-- Step 3: Registrering -->
+
   <rect x="650" y="70" width="200" height="150" fill="url(#stepGradient3)" stroke="#e67e22" stroke-width="2" rx="10"/>
   <text x="750" y="95" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
     STEG 3: REGISTRERING
   </text>
   
-  <!-- Table illustration -->
+
   <rect x="670" y="110" width="160" height="100" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
   <text x="750" y="125" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#2c3e50">
     TELLINGSSKJEMA
   </text>
   
-  <!-- Table rows -->
+
   <line x1="675" y1="135" x2="825" y2="135" stroke="#7f8c8d" stroke-width="1"/>
   <line x1="675" y1="150" x2="825" y2="150" stroke="#7f8c8d" stroke-width="1"/>
   <line x1="675" y1="165" x2="825" y2="165" stroke="#7f8c8d" stroke-width="1"/>
@@ -90,10 +90,10 @@
   <text x="680" y="175" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">200kr x 12</text>
   <text x="680" y="190" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">100kr x 25</text>
   
-  <!-- Arrow down from Step 1 -->
+
   <path d="M 175 230 L 175 260 L 165 250 M 175 260 L 185 250" stroke="#e74c3c" stroke-width="3" fill="none"/>
   
-  <!-- Step 4: Avstemming -->
+
   <rect x="50" y="270" width="250" height="150" fill="#9b59b6" stroke="#8e44ad" stroke-width="2" rx="10"/>
   <text x="175" y="295" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
     STEG 4: AVSTEMMING
@@ -108,24 +108,24 @@
   <text x="70" y="385" font-family="Arial, sans-serif" font-size="11" fill="white">• Beregn differanse</text>
   <text x="70" y="400" font-family="Arial, sans-serif" font-size="11" fill="white">• Dokumenter resultat</text>
   
-  <!-- Arrow 4 -->
+
   <path d="M 310 345 L 340 345 L 330 335 M 340 345 L 330 355" stroke="#e74c3c" stroke-width="3" fill="none"/>
   
-  <!-- Decision Diamond -->
+
   <polygon points="475,320 520,345 475,370 430,345" fill="#f39c12" stroke="#e67e22" stroke-width="2"/>
   <text x="475" y="350" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
     AVVIK?
   </text>
   
-  <!-- Yes path -->
+
   <path d="M 475 380 L 475 410 L 465 400 M 475 410 L 485 400" stroke="#e74c3c" stroke-width="3" fill="none"/>
   <text x="485" y="395" font-family="Arial, sans-serif" font-size="10" fill="#e74c3c">JA</text>
   
-  <!-- No path -->
+
   <path d="M 530 345 L 560 345 L 550 335 M 560 345 L 550 355" stroke="#27ae60" stroke-width="3" fill="none"/>
   <text x="545" y="335" font-family="Arial, sans-serif" font-size="10" fill="#27ae60">NEI</text>
   
-  <!-- Step 5A: Avvikshåndtering -->
+
   <rect x="350" y="420" width="250" height="120" fill="#e74c3c" stroke="#c0392b" stroke-width="2" rx="10"/>
   <text x="475" y="445" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
     STEG 5A: AVVIKSHÅNDTERING
@@ -137,7 +137,7 @@
   <text x="370" y="515" font-family="Arial, sans-serif" font-size="11" fill="white">• Dokumenter funn og tiltak</text>
   <text x="370" y="530" font-family="Arial, sans-serif" font-size="11" fill="white">• Rapporter til ledelse</text>
   
-  <!-- Step 5B: Godkjent Oppgjør -->
+
   <rect x="570" y="270" width="200" height="120" fill="#27ae60" stroke="#229954" stroke-width="2" rx="10"/>
   <text x="670" y="295" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
     STEG 5B: GODKJENT
@@ -150,10 +150,10 @@
   <text x="590" y="355" font-family="Arial, sans-serif" font-size="11" fill="white">• Oppdater regnskapet</text>
   <text x="590" y="370" font-family="Arial, sans-serif" font-size="11" fill="white">• Forbered neste dag</text>
   
-  <!-- Final arrow -->
+
   <path d="M 600 480 L 670 420 L 660 425 M 670 420 L 665 430" stroke="#27ae60" stroke-width="3" fill="none"/>
   
-  <!-- Footer -->
+
   <text x="450" y="580" font-family="Arial, sans-serif" font-size="12" font-style="italic" text-anchor="middle" fill="#7f8c8d">
     Systematisk gjennomføring sikrer nøyaktig kasseoppgjør og god internkontroll
   </text>

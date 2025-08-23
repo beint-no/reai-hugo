@@ -14,25 +14,25 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#ffffff"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="24" font-weight="bold">Fremtidens Lønnslipp</text>
   
-  <!-- Timeline arrow -->
+
   <path d="M 50 80 L 750 80" stroke="#8b5cf6" stroke-width="4" fill="none" marker-end="url(#arrowhead)"/>
   <text x="50" y="70" fill="#8b5cf6" font-family="Arial, sans-serif" font-size="12" font-weight="bold">I DAG</text>
   <text x="750" y="70" text-anchor="end" fill="#8b5cf6" font-family="Arial, sans-serif" font-size="12" font-weight="bold">FREMTID</text>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrowhead" markerWidth="12" markerHeight="8" refX="11" refY="4" orient="auto">
       <polygon points="0 0, 12 4, 0 8" fill="#8b5cf6"/>
     </marker>
   </defs>
   
-  <!-- Current state -->
+
   <rect x="50" y="100" width="180" height="320" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2" rx="8"/>
   <rect x="50" y="100" width="180" height="40" fill="#64748b" rx="8 8 0 0"/>
   <text x="140" y="125" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">DAGENS LØNNSLIPP</text>
@@ -55,7 +55,7 @@
   <circle cx="70" cy="265" r="4" fill="#64748b"/>
   <text x="85" y="270" fill="#374151" font-family="Arial, sans-serif" font-size="11">Separat arkivering</text>
   
-  <!-- Transition 1: Digitalization -->
+
   <rect x="250" y="100" width="180" height="320" fill="#f0f9ff" stroke="#0ea5e9" stroke-width="2" rx="8"/>
   <rect x="250" y="100" width="180" height="40" fill="url(#techGradient)" rx="8 8 0 0"/>
   <text x="340" y="125" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">DIGITALISERING</text>
@@ -81,7 +81,7 @@
   <circle cx="270" cy="285" r="4" fill="#0ea5e9"/>
   <text x="285" y="290" fill="#374151" font-family="Arial, sans-serif" font-size="11">Sikker deling</text>
   
-  <!-- Transition 2: AI Integration -->
+
   <rect x="450" y="100" width="180" height="320" fill="#f0fdf4" stroke="#10b981" stroke-width="2" rx="8"/>
   <rect x="450" y="100" width="180" height="40" fill="url(#aiGradient)" rx="8 8 0 0"/>
   <text x="540" y="125" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">AI-INTEGRASJON</text>
@@ -110,7 +110,7 @@
   <circle cx="470" cy="305" r="4" fill="#10b981"/>
   <text x="485" y="310" fill="#374151" font-family="Arial, sans-serif" font-size="11">Lønnsoptimalisering</text>
   
-  <!-- Future state -->
+
   <rect x="650" y="100" width="130" height="320" fill="#faf5ff" stroke="#8b5cf6" stroke-width="2" rx="8"/>
   <rect x="650" y="100" width="130" height="40" fill="url(#futureGradient)" rx="8 8 0 0"/>
   <text x="715" y="125" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">FREMTID</text>
@@ -145,12 +145,12 @@
   <circle cx="670" cy="345" r="4" fill="#8b5cf6"/>
   <text x="685" y="350" fill="#374151" font-family="Arial, sans-serif" font-size="10">Auto-compliance</text>
   
-  <!-- Key developments box -->
+
   <rect x="50" y="440" width="700" height="50" fill="#f3f4f6" stroke="#9ca3af" stroke-width="1" rx="6"/>
   <text x="400" y="460" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="14" font-weight="bold">NØKKELUTVIKLING: Økt automatisering, bedre sikkerhet, sanntids integrasjon med myndigheter</text>
   <text x="400" y="475" text-anchor="middle" fill="#6b7280" font-family="Arial, sans-serif" font-size="12">Målet er null manuell håndtering og 100% nøyaktighet</text>
   
-  <!-- Timeline markers -->
+
   <circle cx="140" cy="80" r="6" fill="#64748b"/>
   <text x="140" y="105" text-anchor="middle" fill="#64748b" font-family="Arial, sans-serif" font-size="10" font-weight="bold">2024</text>
   

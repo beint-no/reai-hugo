@@ -17,37 +17,37 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e293b">
     Fremtidige Trender i Årsavslutning
   </text>
   
-  <!-- Future horizon line -->
+
   <line x1="100" y1="100" x2="700" y2="100" stroke="#64748b" stroke-width="2" stroke-dasharray="5,5"/>
   <text x="400" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#64748b">
     Fremtidens Horisont
   </text>
   
-  <!-- Left side: Regulatory Changes -->
+
   <g transform="translate(50, 120)">
-    <!-- Regulatory box -->
+
     <rect x="0" y="0" width="320" height="400" rx="15" fill="url(#regGradient)" filter="url(#shadow)"/>
     
-    <!-- Title -->
+
     <text x="160" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
       Regulatoriske Endringer
     </text>
     
-    <!-- IFRS Icon -->
+
     <circle cx="80" cy="80" r="25" fill="#10b981" stroke="white" stroke-width="2"/>
     <text x="80" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
       IFRS
     </text>
     
-    <!-- IFRS Content -->
+
     <text x="120" y="70" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
       IFRS-utvikling
     </text>
@@ -58,14 +58,14 @@
       • IFRS 17 Forsikringskontrakter
     </text>
     
-    <!-- Norwegian Flag Icon -->
+
     <rect x="55" y="140" width="50" height="30" fill="#ef4444"/>
     <rect x="55" y="155" width="50" height="15" fill="white"/>
     <rect x="55" y="145" width="15" height="25" fill="white"/>
     <rect x="60" y="140" width="5" height="30" fill="#1e40af"/>
     <rect x="55" y="155" width="50" height="5" fill="#1e40af"/>
     
-    <!-- Norwegian Content -->
+
     <text x="120" y="150" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
       Nasjonal Tilpasning
     </text>
@@ -76,11 +76,11 @@
       • Forenklingsregler for SMB
     </text>
     
-    <!-- Compliance Icon -->
+
     <circle cx="80" cy="230" r="20" fill="#22c55e" stroke="white" stroke-width="2"/>
     <path d="M70 230 L77 237 L90 223" stroke="white" stroke-width="3" fill="none"/>
     
-    <!-- Compliance Content -->
+
     <text x="120" y="225" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
       Økt Kompleksitet
     </text>
@@ -91,29 +91,29 @@
       • Mer detaljerte rapporter
     </text>
     
-    <!-- Timeline arrow -->
+
     <path d="M50 300 L270 300" stroke="white" stroke-width="2" marker-end="url(#arrowhead)"/>
     <text x="160" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
       Kontinuerlig Utvikling
     </text>
     
-    <!-- Years -->
+
     <text x="50" y="320" font-family="Arial, sans-serif" font-size="10" fill="white">2024</text>
     <text x="160" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">2025-2027</text>
     <text x="270" y="320" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="white">2030+</text>
   </g>
   
-  <!-- Right side: Technological Revolution -->
+
   <g transform="translate(430, 120)">
-    <!-- Technology box -->
+
     <rect x="0" y="0" width="320" height="400" rx="15" fill="url(#techGradient)" filter="url(#shadow)"/>
     
-    <!-- Title -->
+
     <text x="160" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
       Teknologisk Revolusjon
     </text>
     
-    <!-- Blockchain Icon -->
+
     <g transform="translate(40, 50)">
       <rect x="0" y="0" width="20" height="20" fill="#f59e0b" stroke="white" stroke-width="1"/>
       <rect x="25" y="0" width="20" height="20" fill="#f59e0b" stroke="white" stroke-width="1"/>
@@ -122,7 +122,7 @@
       <line x1="45" y1="10" x2="50" y2="10" stroke="white" stroke-width="2"/>
     </g>
     
-    <!-- Blockchain Content -->
+
     <text x="120" y="65" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
       Blockchain &amp; Distribuerte Ledgers
     </text>
@@ -133,13 +133,13 @@
       • Smart contracts
     </text>
     
-    <!-- AI Icon -->
+
     <circle cx="80" cy="150" r="25" fill="#8b5cf6" stroke="white" stroke-width="2"/>
     <text x="80" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
       AI
     </text>
     
-    <!-- AI Content -->
+
     <text x="120" y="140" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
       Avansert Analyse og AI
     </text>
@@ -150,7 +150,7 @@
       • Automatisk rapportgenerering
     </text>
     
-    <!-- Automation Icon -->
+
     <g transform="translate(55, 200)">
       <circle cx="25" cy="25" r="20" fill="#06b6d4" stroke="white" stroke-width="2"/>
       <circle cx="8" cy="8" r="3" fill="white"/>
@@ -160,7 +160,7 @@
       <line x1="5" y1="25" x2="45" y2="25" stroke="white" stroke-width="2"/>
     </g>
     
-    <!-- Automation Content -->
+
     <text x="120" y="215" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
       Automatisering
     </text>
@@ -171,11 +171,11 @@
       • Sanntidsrapportering
     </text>
     
-    <!-- Real-time Icon -->
+
     <circle cx="80" cy="290" r="15" fill="#ec4899" stroke="white" stroke-width="2"/>
     <path d="M75 290 L80 285 L85 290 L80 295 Z" fill="white"/>
     
-    <!-- Real-time Content -->
+
     <text x="120" y="285" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
       Sanntidsregnskap
     </text>
@@ -187,19 +187,19 @@
     </text>
   </g>
   
-  <!-- Center connection -->
+
   <g transform="translate(370, 320)">
-    <!-- Connection arrow -->
+
     <path d="M0 0 L30 0 L25 -5 M30 0 L25 5" stroke="#64748b" stroke-width="2" fill="none"/>
     <path d="M30 0 L60 0 L55 -5 M60 0 L55 5" stroke="#64748b" stroke-width="2" fill="none"/>
     
-    <!-- Integration text -->
+
     <text x="30" y="-10" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">
       Integrasjon
     </text>
   </g>
   
-  <!-- Bottom impact section -->
+
   <g transform="translate(150, 540)">
     <rect x="0" y="0" width="500" height="50" rx="10" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1"/>
     <text x="250" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e293b">
@@ -210,7 +210,7 @@
     </text>
   </g>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="white"/>

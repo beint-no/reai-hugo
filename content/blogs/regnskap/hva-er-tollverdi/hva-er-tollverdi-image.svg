@@ -10,27 +10,27 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="400" fill="#f1f5f9"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
   <text x="400" y="45" text-anchor="middle" fill="white" font-size="32" font-weight="bold" font-family="Arial, sans-serif">Hva er Tollverdi?</text>
   
-  <!-- Main content area -->
+
   <rect x="50" y="120" width="700" height="240" fill="url(#cardGradient)" stroke="#cbd5e1" stroke-width="2" rx="12"/>
   
-  <!-- Left section - Definition -->
+
   <text x="80" y="160" fill="#1e293b" font-size="18" font-weight="bold" font-family="Arial, sans-serif">Tollverdi Definisjon:</text>
   <text x="80" y="185" fill="#475569" font-size="14" font-family="Arial, sans-serif">• Grunnbeløpet for tollberegning</text>
   <text x="80" y="205" fill="#475569" font-size="14" font-family="Arial, sans-serif">• Basert på CIF-verdi (Cost, Insurance, Freight)</text>
   <text x="80" y="225" fill="#475569" font-size="14" font-family="Arial, sans-serif">• Følger WTO-avtalen om tollverdi</text>
   <text x="80" y="245" fill="#475569" font-size="14" font-family="Arial, sans-serif">• Påvirker toll og import-MVA beregning</text>
   
-  <!-- Right section - Calculation -->
+
   <text x="450" y="160" fill="#1e293b" font-size="18" font-weight="bold" font-family="Arial, sans-serif">Beregningseksempel:</text>
   
-  <!-- Calculation table -->
+
   <rect x="450" y="170" width="280" height="140" fill="white" stroke="#e2e8f0" stroke-width="1" rx="6"/>
   
   <text x="460" y="190" fill="#374151" font-size="13" font-family="Arial, sans-serif">Varepris (FOB):</text>
@@ -53,13 +53,13 @@
   <text x="460" y="300" fill="#dc2626" font-size="13" font-family="Arial, sans-serif">Import-MVA (25%):</text>
   <text x="650" y="300" fill="#dc2626" font-size="13" font-family="Arial, sans-serif" text-anchor="end">139 125 NOK</text>
   
-  <!-- Icon/Symbol -->
+
   <circle cx="350" cy="200" r="40" fill="#3b82f6" opacity="0.1"/>
   <text x="350" y="180" text-anchor="middle" fill="#1e40af" font-size="16" font-weight="bold" font-family="Arial, sans-serif">CIF</text>
   <text x="350" y="200" text-anchor="middle" fill="#1e40af" font-size="12" font-family="Arial, sans-serif">Cost</text>
   <text x="350" y="215" text-anchor="middle" fill="#1e40af" font-size="12" font-family="Arial, sans-serif">Insurance</text>
   <text x="350" y="230" text-anchor="middle" fill="#1e40af" font-size="12" font-family="Arial, sans-serif">Freight</text>
   
-  <!-- Bottom note -->
+
   <text x="400" y="385" text-anchor="middle" fill="#64748b" font-size="12" font-style="italic" font-family="Arial, sans-serif">Grunnlaget for beregning av toll og import-MVA ved import til Norge</text>
 </svg>

@@ -1,13 +1,13 @@
 <svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Bilagsregistreringens Hovedkomponenter
   </text>
   
-  <!-- Central hub -->
+
   <circle cx="400" cy="300" r="80" fill="#3498db" stroke="#2980b9" stroke-width="3"/>
   <text x="400" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     BILAGSREGISTRERING
@@ -16,7 +16,7 @@
     SYSTEM
   </text>
   
-  <!-- Component 1: Mottak og Sortering -->
+
   <g transform="translate(150, 120)">
     <rect x="0" y="0" width="140" height="80" fill="#e74c3c" rx="10" stroke="#c0392b" stroke-width="2"/>
     <text x="70" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
@@ -33,7 +33,7 @@
     </text>
   </g>
   
-  <!-- Component 2: Nummerering -->
+
   <g transform="translate(510, 120)">
     <rect x="0" y="0" width="140" height="80" fill="#27ae60" rx="10" stroke="#229954" stroke-width="2"/>
     <text x="70" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
@@ -50,7 +50,7 @@
     </text>
   </g>
   
-  <!-- Component 3: Kategorisering -->
+
   <g transform="translate(150, 400)">
     <rect x="0" y="0" width="140" height="80" fill="#f39c12" rx="10" stroke="#e67e22" stroke-width="2"/>
     <text x="70" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
@@ -67,7 +67,7 @@
     </text>
   </g>
   
-  <!-- Component 4: Arkivering -->
+
   <g transform="translate(510, 400)">
     <rect x="0" y="0" width="140" height="80" fill="#9b59b6" rx="10" stroke="#8e44ad" stroke-width="2"/>
     <text x="70" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
@@ -84,7 +84,7 @@
     </text>
   </g>
   
-  <!-- Component 5: Kvalitetskontroll -->
+
   <g transform="translate(330, 500)">
     <rect x="0" y="0" width="140" height="80" fill="#34495e" rx="10" stroke="#2c3e50" stroke-width="2"/>
     <text x="70" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
@@ -101,30 +101,30 @@
     </text>
   </g>
   
-  <!-- Arrows connecting components to central hub -->
-  <!-- From Mottak to center -->
+
+
   <path d="M290 160 L340 240" stroke="#7f8c8d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- From Nummerering to center -->
+
   <path d="M510 160 L460 240" stroke="#7f8c8d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- From Kategorisering to center -->
+
   <path d="M290 400 L340 360" stroke="#7f8c8d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- From Arkivering to center -->
+
   <path d="M510 400 L460 360" stroke="#7f8c8d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- From Kvalitetskontroll to center -->
+
   <path d="M400 500 L400 380" stroke="#7f8c8d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#7f8c8d"/>
     </marker>
   </defs>
   
-  <!-- Data flow indicators -->
+
   <text x="50" y="580" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">
     Dataflyt: Bilag → Registrering → Kategorisering → Arkivering → Kvalitetskontroll
   </text>

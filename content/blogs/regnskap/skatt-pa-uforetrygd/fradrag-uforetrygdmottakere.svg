@@ -10,21 +10,21 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f8fafc"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
     Fradrag for uføretrygdmottakere
   </text>
   
-  <!-- Standard deductions section -->
+
   <g transform="translate(50, 70)">
     <text x="0" y="20" fill="#3b82f6" font-family="Arial, sans-serif" font-size="20" font-weight="bold">
       Standardfradrag (alle skatteytere)
     </text>
     
-    <!-- Personal deduction -->
+
     <rect x="0" y="40" width="300" height="80" rx="8" fill="url(#standardGrad)" stroke="#3b82f6" stroke-width="2"/>
     <text x="150" y="65" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       Personfradrag
@@ -36,7 +36,7 @@
       Standard for alle (2024)
     </text>
     
-    <!-- Minimum deduction -->
+
     <rect x="0" y="140" width="300" height="80" rx="8" fill="url(#standardGrad)" stroke="#3b82f6" stroke-width="2"/>
     <text x="150" y="165" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       Minstefradrag
@@ -49,13 +49,13 @@
     </text>
   </g>
   
-  <!-- Special deductions section -->
+
   <g transform="translate(450, 70)">
     <text x="0" y="20" fill="#059669" font-family="Arial, sans-serif" font-size="20" font-weight="bold">
       Spesielle fradrag (uføretrygdmottakere)
     </text>
     
-    <!-- Disability deduction -->
+
     <rect x="0" y="40" width="300" height="80" rx="8" fill="url(#specialGrad)" stroke="#059669" stroke-width="2"/>
     <text x="150" y="65" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       Uførefradrag
@@ -67,7 +67,7 @@
       Ved min. 2/3 uførhet
     </text>
     
-    <!-- Parent deduction -->
+
     <rect x="0" y="140" width="300" height="80" rx="8" fill="url(#specialGrad)" stroke="#059669" stroke-width="2"/>
     <text x="150" y="165" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       Foreldrefradrag
@@ -80,7 +80,7 @@
     </text>
   </g>
   
-  <!-- Calculation example -->
+
   <g transform="translate(50, 280)">
     <text x="0" y="20" fill="#1f2937" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
       Beregningseksempel - Maksimale fradrag
@@ -88,7 +88,7 @@
     
     <rect x="0" y="40" width="700" height="160" rx="10" fill="#e5e7eb" stroke="#9ca3af" stroke-width="1"/>
     
-    <!-- Left column - income -->
+
     <text x="20" y="65" fill="#374151" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       Inntekt og fradrag:
     </text>
@@ -108,7 +108,7 @@
       Skattbart beløp: 210.000 kr
     </text>
     
-    <!-- Right column - savings -->
+
     <text x="380" y="65" fill="#374151" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       Skattebesparelse:
     </text>
@@ -126,7 +126,7 @@
     </text>
   </g>
   
-  <!-- Grading table -->
+
   <g transform="translate(50, 460)">
     <text x="0" y="20" fill="#1f2937" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       Uførefradrag etter uføregrad:

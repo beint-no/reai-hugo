@@ -14,22 +14,22 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="450" fill="#f8fafc"/>
   
-  <!-- Title -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
   <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="white">
     Kundereskontro vs Hovedbok
   </text>
   
-  <!-- Kundereskontro side -->
+
   <rect x="50" y="80" width="320" height="340" rx="15" fill="url(#kundereskontroGradient)" stroke="#0284c7" stroke-width="3"/>
   <text x="210" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#0284c7">
     KUNDERESKONTRO
   </text>
   
-  <!-- Kundereskontro features -->
+
   <rect x="70" y="130" width="280" height="30" rx="5" fill="#ffffff" stroke="#0284c7" stroke-width="1"/>
   <text x="80" y="150" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#0284c7">
     Detaljnivå: Individuell kunde
@@ -60,7 +60,7 @@
     Avstemming: Mot hovedbok
   </text>
   
-  <!-- Example customer entries -->
+
   <text x="210" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#0369a1">
     Eksempel: Kunde A - Faktura 2024-001 - 45 000 kr
   </text>
@@ -68,13 +68,13 @@
     Kunde B - Innbetaling - 28 500 kr
   </text>
   
-  <!-- Hovedbok side -->
+
   <rect x="430" y="80" width="320" height="340" rx="15" fill="url(#hovedbokGradient)" stroke="#16a34a" stroke-width="3"/>
   <text x="590" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#16a34a">
     HOVEDBOK
   </text>
   
-  <!-- Hovedbok features -->
+
   <rect x="450" y="130" width="280" height="30" rx="5" fill="#ffffff" stroke="#16a34a" stroke-width="1"/>
   <text x="460" y="150" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#16a34a">
     Detaljnivå: Samlede kontoer
@@ -105,7 +105,7 @@
     Avstemming: Mot underreskontraer
   </text>
   
-  <!-- Example general ledger entries -->
+
   <text x="590" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#15803d">
     Eksempel: Konto 1500 - Kundefordringer
   </text>
@@ -113,13 +113,13 @@
     Total saldo: 275 000 kr
   </text>
   
-  <!-- Connection arrow -->
+
   <path d="M 370 250 Q 400 230 430 250" stroke="#64748b" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <text x="400" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#64748b">
     Avstemming
   </text>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#64748b"/>

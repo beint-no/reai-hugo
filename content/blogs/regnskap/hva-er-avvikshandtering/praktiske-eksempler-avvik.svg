@@ -1,13 +1,13 @@
 <svg width="600" height="450" viewBox="0 0 600 450" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="600" height="450" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="300" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c3e50">
     Praktiske Eksempler på Avvikshåndtering
   </text>
   
-  <!-- Example 1: Bank Reconciliation -->
+
   <rect x="50" y="60" width="250" height="160" fill="white" stroke="#3498db" stroke-width="2" rx="10"/>
   <rect x="50" y="60" width="250" height="30" fill="#3498db" rx="10 10 0 0"/>
   <text x="175" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -40,7 +40,7 @@
     4. Korreksjon: Reversering av duplikat
   </text>
   
-  <!-- Example 2: Budget Variance -->
+
   <rect x="320" y="60" width="250" height="160" fill="white" stroke="#e74c3c" stroke-width="2" rx="10"/>
   <rect x="320" y="60" width="250" height="30" fill="#e74c3c" rx="10 10 0 0"/>
   <text x="445" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -73,13 +73,13 @@
     4. Korreksjon: Oppdatert budsjett
   </text>
   
-  <!-- Process Flow -->
+
   <rect x="50" y="250" width="500" height="180" fill="white" stroke="#2c3e50" stroke-width="2" rx="10"/>
   <text x="300" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
     Standardprosess for Avvikshåndtering
   </text>
   
-  <!-- Step 1 -->
+
   <rect x="70" y="290" width="80" height="40" fill="#3498db" opacity="0.8" rx="5"/>
   <text x="110" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
     1. OPPDAGELSE
@@ -88,7 +88,7 @@
     Identifiser avvik
   </text>
   
-  <!-- Step 2 -->
+
   <rect x="170" y="290" width="80" height="40" fill="#f39c12" opacity="0.8" rx="5"/>
   <text x="210" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
     2. VURDERING
@@ -97,7 +97,7 @@
     Klassifiser alvor
   </text>
   
-  <!-- Step 3 -->
+
   <rect x="270" y="290" width="80" height="40" fill="#e74c3c" opacity="0.8" rx="5"/>
   <text x="310" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
     3. ANALYSE
@@ -106,7 +106,7 @@
     Finn årsak
   </text>
   
-  <!-- Step 4 -->
+
   <rect x="370" y="290" width="80" height="40" fill="#27ae60" opacity="0.8" rx="5"/>
   <text x="410" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
     4. HANDLING
@@ -115,7 +115,7 @@
     Korriger feil
   </text>
   
-  <!-- Step 5 -->
+
   <rect x="470" y="290" width="80" height="40" fill="#9b59b6" opacity="0.8" rx="5"/>
   <text x="510" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
     5. OPPFØLGING
@@ -124,13 +124,13 @@
     Forebygg gjentakelse
   </text>
   
-  <!-- Arrows between steps -->
+
   <path d="M 150 310 L 165 310" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 250 310 L 265 310" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 350 310 L 365 310" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 450 310 L 465 310" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Timeline -->
+
   <text x="70" y="350" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#2c3e50">
     Tidsramme:
   </text>
@@ -150,7 +150,7 @@
     Kontinuerlig
   </text>
   
-  <!-- Key Success Factors -->
+
   <text x="300" y="395" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
     Suksessfaktorer
   </text>
@@ -162,7 +162,7 @@
     • Grundig dokumentasjon og analyse
   </text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#2c3e50"/>

@@ -10,15 +10,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="400" fill="#ffffff"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
   <text x="400" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="28" font-weight="bold">Lønn og Lønnskostnader</text>
   
-  <!-- Main content boxes -->
-  <!-- Employee salary box -->
+
+
   <rect x="50" y="120" width="200" height="120" fill="url(#boxGradient)" stroke="#cbd5e1" stroke-width="2" rx="8"/>
   <text x="150" y="145" text-anchor="middle" fill="#1e293b" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Ansatt</text>
   <text x="150" y="170" text-anchor="middle" fill="#475569" font-family="Arial, sans-serif" font-size="14">Bruttolønn</text>
@@ -26,10 +26,10 @@
   <text x="150" y="210" text-anchor="middle" fill="#475569" font-family="Arial, sans-serif" font-size="12">- Forskuddstrekk</text>
   <text x="150" y="225" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="14">= Nettolønn</text>
   
-  <!-- Arrow from employee to employer -->
+
   <path d="M 270 180 L 320 180" stroke="#6b7280" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Employer cost box -->
+
   <rect x="350" y="120" width="200" height="120" fill="url(#boxGradient)" stroke="#cbd5e1" stroke-width="2" rx="8"/>
   <text x="450" y="145" text-anchor="middle" fill="#1e293b" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Arbeidsgiver</text>
   <text x="450" y="170" text-anchor="middle" fill="#475569" font-family="Arial, sans-serif" font-size="14">Total kostnad</text>
@@ -37,20 +37,20 @@
   <text x="450" y="210" text-anchor="middle" fill="#475569" font-family="Arial, sans-serif" font-size="12">+ Arbeidsgiveravgift</text>
   <text x="450" y="225" text-anchor="middle" fill="#475569" font-family="Arial, sans-serif" font-size="12">+ Pensjon + Forsikring</text>
   
-  <!-- Arrow from employer to government -->
+
   <path d="M 570 180 L 620 180" stroke="#6b7280" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Government/reporting box -->
+
   <rect x="650" y="120" width="120" height="120" fill="url(#boxGradient)" stroke="#cbd5e1" stroke-width="2" rx="8"/>
   <text x="710" y="145" text-anchor="middle" fill="#1e293b" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Stat</text>
   <text x="710" y="170" text-anchor="middle" fill="#475569" font-family="Arial, sans-serif" font-size="14">A-melding</text>
   <text x="710" y="190" text-anchor="middle" fill="#475569" font-family="Arial, sans-serif" font-size="14">Skatteetaten</text>
   <text x="710" y="210" text-anchor="middle" fill="#475569" font-family="Arial, sans-serif" font-size="14">NAV</text>
   
-  <!-- Cost breakdown -->
+
   <text x="50" y="280" fill="#1e293b" font-family="Arial, sans-serif" font-size="18" font-weight="bold">Kostnadskomponenter:</text>
   
-  <!-- Cost items -->
+
   <rect x="50" y="300" width="15" height="15" fill="#059669"/>
   <text x="75" y="312" fill="#374151" font-family="Arial, sans-serif" font-size="14">Grunnlønn: 500.000 kr (77,4%)</text>
   
@@ -63,7 +63,7 @@
   <rect x="250" y="325" width="15" height="15" fill="#8b5cf6"/>
   <text x="275" y="337" fill="#374151" font-family="Arial, sans-serif" font-size="14">Pensjon &amp; forsikring: 15.000 kr (2,3%)</text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#6b7280"/>

@@ -18,16 +18,16 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="900" height="650" fill="#f8f9fa" />
   
-  <!-- Title -->
+
   <text x="450" y="40" font-family="Arial, sans-serif" font-size="26" font-weight="bold" 
         text-anchor="middle" fill="#2c3e50">
     Digitale Verktøy for Klimarapportering
   </text>
   
-  <!-- Central Platform -->
+
   <g transform="translate(350, 150)">
     <rect x="0" y="0" width="200" height="120" fill="url(#platformGradient)" 
           stroke="#2980b9" stroke-width="3" rx="10" />
@@ -36,7 +36,7 @@
     <text x="100" y="50" font-family="Arial, sans-serif" font-size="18" font-weight="bold" 
           text-anchor="middle" fill="white">PLATTFORM</text>
     
-    <!-- Platform features -->
+
     <text x="100" y="75" font-family="Arial, sans-serif" font-size="11" 
           text-anchor="middle" fill="white">• Automatisk datainnhenting</text>
     <text x="100" y="90" font-family="Arial, sans-serif" font-size="11" 
@@ -45,12 +45,12 @@
           text-anchor="middle" fill="white">• Rapportgenerering</text>
   </g>
   
-  <!-- Data Sources (Left side) -->
+
   <g transform="translate(50, 100)">
     <text x="100" y="0" font-family="Arial, sans-serif" font-size="16" font-weight="bold" 
           text-anchor="middle" fill="#2c3e50">DATAKILDER</text>
     
-    <!-- ERP System -->
+
     <g transform="translate(0, 30)">
       <rect x="0" y="0" width="80" height="50" fill="#f39c12" stroke="#e67e22" stroke-width="2" rx="5" />
       <text x="40" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" 
@@ -59,7 +59,7 @@
             text-anchor="middle" fill="white">System</text>
     </g>
     
-    <!-- Energy meters -->
+
     <g transform="translate(90, 30)">
       <rect x="0" y="0" width="80" height="50" fill="#e67e22" stroke="#d35400" stroke-width="2" rx="5" />
       <text x="40" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" 
@@ -68,7 +68,7 @@
             text-anchor="middle" fill="white">målere</text>
     </g>
     
-    <!-- Travel systems -->
+
     <g transform="translate(0, 90)">
       <rect x="0" y="0" width="80" height="50" fill="#9b59b6" stroke="#8e44ad" stroke-width="2" rx="5" />
       <text x="40" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" 
@@ -77,7 +77,7 @@
             text-anchor="middle" fill="white">systemer</text>
     </g>
     
-    <!-- Supplier portals -->
+
     <g transform="translate(90, 90)">
       <rect x="0" y="0" width="80" height="50" fill="#27ae60" stroke="#229954" stroke-width="2" rx="5" />
       <text x="40" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" 
@@ -87,14 +87,14 @@
     </g>
   </g>
   
-  <!-- AI & Automation (Top right) -->
+
   <g transform="translate(650, 100)">
     <rect x="0" y="0" width="180" height="100" fill="url(#aiGradient)" 
           stroke="#8e44ad" stroke-width="2" rx="8" />
     <text x="90" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" 
           text-anchor="middle" fill="white">AI &amp; AUTOMATISERING</text>
     
-    <!-- AI features -->
+
     <text x="20" y="45" font-family="Arial, sans-serif" font-size="11" fill="white">
       • Automatisk kategorisering
     </text>
@@ -109,7 +109,7 @@
     </text>
   </g>
   
-  <!-- Dashboard & Reporting (Bottom right) -->
+
   <g transform="translate(650, 250)">
     <rect x="0" y="0" width="180" height="100" fill="url(#dashboardGradient)" 
           stroke="#c0392b" stroke-width="2" rx="8" />
@@ -118,10 +118,10 @@
     <text x="90" y="40" font-family="Arial, sans-serif" font-size="16" font-weight="bold" 
           text-anchor="middle" fill="white">RAPPORTERING</text>
     
-    <!-- Dashboard icon -->
+
     <g transform="translate(20, 50)">
       <rect x="0" y="0" width="40" height="30" fill="white" opacity="0.8" rx="3" />
-      <!-- Chart bars -->
+
       <rect x="5" y="20" width="4" height="5" fill="#c0392b" />
       <rect x="12" y="15" width="4" height="10" fill="#c0392b" />
       <rect x="19" y="10" width="4" height="15" fill="#c0392b" />
@@ -129,7 +129,7 @@
       <rect x="33" y="12" width="4" height="13" fill="#c0392b" />
     </g>
     
-    <!-- Features -->
+
     <text x="70" y="60" font-family="Arial, sans-serif" font-size="10" fill="white">
       • Sanntids KPI-er
     </text>
@@ -141,14 +141,14 @@
     </text>
   </g>
   
-  <!-- API Integration (Bottom left) -->
+
   <g transform="translate(50, 250)">
     <rect x="0" y="0" width="200" height="100" fill="url(#integrationGradient)" 
           stroke="#229954" stroke-width="2" rx="8" />
     <text x="100" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" 
           text-anchor="middle" fill="white">API-INTEGRASJONER</text>
     
-    <!-- Integration types -->
+
     <g transform="translate(20, 40)">
       <circle cx="5" cy="5" r="3" fill="white" opacity="0.8" />
       <text x="15" y="9" font-family="Arial, sans-serif" font-size="11" fill="white">
@@ -171,24 +171,24 @@
     </g>
   </g>
   
-  <!-- Connection arrows -->
-  <!-- From data sources to platform -->
+
+
   <path d="M 250 150 Q 300 180 350 200" stroke="#34495e" stroke-width="3" 
         fill="none" marker-end="url(#arrowhead)" />
   
-  <!-- From platform to AI -->
+
   <path d="M 550 180 Q 600 150 650 150" stroke="#34495e" stroke-width="3" 
         fill="none" marker-end="url(#arrowhead)" />
   
-  <!-- From platform to dashboard -->
+
   <path d="M 550 220 Q 600 250 650 280" stroke="#34495e" stroke-width="3" 
         fill="none" marker-end="url(#arrowhead)" />
   
-  <!-- From API to platform -->
+
   <path d="M 250 280 Q 300 250 350 230" stroke="#34495e" stroke-width="3" 
         fill="none" marker-end="url(#arrowhead)" />
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" 
             refX="9" refY="3.5" orient="auto">
@@ -196,14 +196,14 @@
     </marker>
   </defs>
   
-  <!-- Benefits section -->
+
   <g transform="translate(50, 400)">
     <text x="0" y="0" font-family="Arial, sans-serif" font-size="18" font-weight="bold" 
           fill="#2c3e50">Fordeler med Digitale Verktøy</text>
     
-    <!-- Benefit boxes -->
+
     <g transform="translate(0, 30)">
-      <!-- Efficiency -->
+
       <rect x="0" y="0" width="200" height="80" fill="#d5f4e6" stroke="#27ae60" stroke-width="2" rx="5" />
       <text x="100" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" 
             text-anchor="middle" fill="#27ae60">EFFEKTIVITET</text>
@@ -218,7 +218,7 @@
       </text>
     </g>
     
-    <!-- Accuracy -->
+
     <g transform="translate(220, 30)">
       <rect x="0" y="0" width="200" height="80" fill="#fef9e7" stroke="#f1c40f" stroke-width="2" rx="5" />
       <text x="100" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" 
@@ -234,7 +234,7 @@
       </text>
     </g>
     
-    <!-- Compliance -->
+
     <g transform="translate(440, 30)">
       <rect x="0" y="0" width="200" height="80" fill="#ebf3fd" stroke="#3498db" stroke-width="2" rx="5" />
       <text x="100" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" 
@@ -250,7 +250,7 @@
       </text>
     </g>
     
-    <!-- Scalability -->
+
     <g transform="translate(660, 30)">
       <rect x="0" y="0" width="200" height="80" fill="#fdf2e9" stroke="#e67e22" stroke-width="2" rx="5" />
       <text x="100" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" 
@@ -267,15 +267,15 @@
     </g>
   </g>
   
-  <!-- Implementation timeline -->
+
   <g transform="translate(50, 540)">
     <text x="0" y="0" font-family="Arial, sans-serif" font-size="16" font-weight="bold" 
           fill="#2c3e50">Implementeringstidslinje</text>
     
-    <!-- Timeline line -->
+
     <line x1="0" y1="40" x2="800" y2="40" stroke="#bdc3c7" stroke-width="3" />
     
-    <!-- Phase 1 -->
+
     <g transform="translate(0, 20)">
       <circle cx="50" cy="20" r="8" fill="#3498db" />
       <text x="50" y="25" font-family="Arial, sans-serif" font-size="10" font-weight="bold" 
@@ -288,7 +288,7 @@
             text-anchor="middle" fill="#2c3e50">konfigurering</text>
     </g>
     
-    <!-- Phase 2 -->
+
     <g transform="translate(200, 20)">
       <circle cx="50" cy="20" r="8" fill="#27ae60" />
       <text x="50" y="25" font-family="Arial, sans-serif" font-size="10" font-weight="bold" 
@@ -301,7 +301,7 @@
             text-anchor="middle" fill="#2c3e50">testing</text>
     </g>
     
-    <!-- Phase 3 -->
+
     <g transform="translate(400, 20)">
       <circle cx="50" cy="20" r="8" fill="#f39c12" />
       <text x="50" y="25" font-family="Arial, sans-serif" font-size="10" font-weight="bold" 
@@ -314,7 +314,7 @@
             text-anchor="middle" fill="#2c3e50">pilotperiode</text>
     </g>
     
-    <!-- Phase 4 -->
+
     <g transform="translate(600, 20)">
       <circle cx="50" cy="20" r="8" fill="#e74c3c" />
       <text x="50" y="25" font-family="Arial, sans-serif" font-size="10" font-weight="bold" 

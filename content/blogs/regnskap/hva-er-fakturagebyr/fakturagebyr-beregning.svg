@@ -1,19 +1,19 @@
 <svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Beregning av Fakturagebyr
   </text>
   
-  <!-- Cost breakdown section -->
+
   <rect x="50" y="60" width="700" height="200" fill="#ffffff" stroke="#3498db" stroke-width="3" rx="10"/>
   <text x="400" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#3498db">
     Kostnadskomponenter
   </text>
   
-  <!-- Direct costs -->
+
   <rect x="70" y="100" width="320" height="140" fill="#e8f5e8" stroke="#27ae60" stroke-width="2" rx="8"/>
   <text x="230" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#27ae60">
     Direkte Kostnader
@@ -37,7 +37,7 @@
     Sum direkte: 31 kr per faktura
   </text>
   
-  <!-- Indirect costs -->
+
   <rect x="410" y="100" width="320" height="140" fill="#fff5f5" stroke="#e74c3c" stroke-width="2" rx="8"/>
   <text x="570" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#e74c3c">
     Indirekte Kostnader
@@ -61,22 +61,22 @@
     Sum indirekte: 30 kr per faktura
   </text>
   
-  <!-- Calculation example -->
+
   <rect x="100" y="290" width="600" height="250" fill="#f8f9fa" stroke="#9b59b6" stroke-width="3" rx="10"/>
   <text x="400" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#9b59b6">
     Praktisk Beregningseksempel
   </text>
   
-  <!-- Monthly calculation table -->
+
   <rect x="120" y="330" width="560" height="180" fill="#ffffff" stroke="#95a5a6" stroke-width="2" rx="5"/>
   
-  <!-- Table header -->
+
   <rect x="120" y="330" width="560" height="30" fill="#ecf0f1" stroke="#95a5a6" stroke-width="1"/>
   <text x="400" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
     Månedlige Kostnader for Papirfakturering (1000 fakturaer)
   </text>
   
-  <!-- Table rows -->
+
   <line x1="120" y1="360" x2="680" y2="360" stroke="#95a5a6" stroke-width="1"/>
   
   <text x="140" y="380" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
@@ -123,7 +123,7 @@
     53 kr
   </text>
   
-  <!-- Result box -->
+
   <rect x="150" y="520" width="500" height="40" fill="#d5f4e6" stroke="#27ae60" stroke-width="3" rx="8"/>
   <text x="400" y="540" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e8449">
     Anbefalt fakturagebyr: 50 kr (innenfor lovlige rammer)
@@ -132,12 +132,12 @@
     Basert på faktiske kostnader og forholdsmessighetsprinsippet
   </text>
   
-  <!-- Calculator icon -->
+
   <g transform="translate(720, 350)">
     <rect x="0" y="0" width="60" height="80" fill="#3498db" stroke="#2980b9" stroke-width="3" rx="8"/>
     <rect x="5" y="5" width="50" height="20" fill="#ecf0f1" stroke="#95a5a6" stroke-width="1" rx="3"/>
     
-    <!-- Calculator buttons -->
+
     <circle cx="15" cy="40" r="5" fill="#ffffff"/>
     <circle cx="30" cy="40" r="5" fill="#ffffff"/>
     <circle cx="45" cy="40" r="5" fill="#ffffff"/>
@@ -153,10 +153,10 @@
     </text>
   </g>
   
-  <!-- Arrow pointing to result -->
+
   <path d="M 680 480 L 650 540" stroke="#27ae60" stroke-width="3" fill="none" marker-end="url(#arrowhead2)"/>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrowhead2" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#27ae60"/>

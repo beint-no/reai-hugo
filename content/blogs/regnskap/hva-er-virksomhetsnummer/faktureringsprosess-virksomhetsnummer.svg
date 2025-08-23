@@ -9,13 +9,13 @@
   
   <rect width="800" height="600" fill="#f8fafc"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e40af">
     Virksomhetsnummer i Faktureringsprosess
   </text>
   
-  <!-- Process flow -->
-  <!-- Step 1: Leveranse -->
+
+
   <rect x="50" y="80" width="140" height="100" fill="#3b82f6" rx="10"/>
   <text x="120" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     1. LEVERANSE
@@ -33,10 +33,10 @@
     • Grunnlag for fakturering
   </text>
   
-  <!-- Arrow 1 -->
+
   <polygon points="200,130 220,120 220,125 240,125 240,135 220,135 220,140" fill="#64748b"/>
   
-  <!-- Step 2: Faktura utstedelse -->
+
   <rect x="250" y="80" width="140" height="100" fill="#10b981" rx="10"/>
   <text x="320" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     2. FAKTURA
@@ -54,10 +54,10 @@
     • Lovpålagte opplysninger
   </text>
   
-  <!-- Arrow 2 -->
+
   <polygon points="400,130 420,120 420,125 440,125 440,135 420,135 420,140" fill="#64748b"/>
   
-  <!-- Step 3: Sending -->
+
   <rect x="450" y="80" width="140" height="100" fill="#f59e0b" rx="10"/>
   <text x="520" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     3. SENDING
@@ -75,10 +75,10 @@
     • Registreres i reskontro
   </text>
   
-  <!-- Arrow down -->
+
   <polygon points="520,190 510,210 515,210 515,230 525,230 525,210 530,210" fill="#64748b"/>
   
-  <!-- Step 4: Kundemottak -->
+
   <rect x="450" y="240" width="140" height="100" fill="#8b5cf6" rx="10"/>
   <text x="520" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     4. KUNDEMOTTAK
@@ -96,10 +96,10 @@
     • Attesteringsprosess
   </text>
   
-  <!-- Arrow left -->
+
   <polygon points="440,290 420,280 420,285 400,285 400,295 420,295 420,300" fill="#64748b"/>
   
-  <!-- Step 5: Betaling -->
+
   <rect x="250" y="240" width="140" height="100" fill="#ef4444" rx="10"/>
   <text x="320" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     5. BETALING
@@ -117,7 +117,7 @@
     • Reskontro oppdatering
   </text>
   
-  <!-- Sample invoice -->
+
   <rect x="100" y="370" width="250" height="180" fill="white" stroke="#3b82f6" stroke-width="2" rx="8"/>
   <text x="225" y="395" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e40af">
     FAKTURA
@@ -149,7 +149,7 @@
     Forfallsdato: 14.02.2024
   </text>
   
-  <!-- Requirements box -->
+
   <rect x="400" y="370" width="350" height="180" fill="#fef3c7" stroke="#f59e0b" stroke-width="2" rx="8"/>
   <text x="575" y="395" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#92400e">
     Kritiske Krav til Virksomhetsnummer
@@ -185,7 +185,7 @@
     • Må være aktivt i registrene
   </text>
   
-  <!-- Bottom info -->
+
   <text x="400" y="585" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e40af">
     Virksomhetsnummeret sikrer korrekt identifikasjon gjennom hele faktureringsprosessen
   </text>

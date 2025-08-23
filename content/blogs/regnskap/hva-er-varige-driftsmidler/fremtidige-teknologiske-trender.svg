@@ -18,10 +18,10 @@
     </pattern>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Fremtidige Teknologiske Trender
   </text>
@@ -29,13 +29,13 @@
     Varige Driftsmidler i Transformasjon
   </text>
   
-  <!-- Left Section: Automatisering og Robotisering -->
+
   <rect x="50" y="100" width="320" height="440" fill="url(#techGradient)" rx="15" filter="url(#shadow)"/>
   <text x="210" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
     Automatisering og Robotisering
   </text>
   
-  <!-- Industrial Robot -->
+
   <g transform="translate(80, 150)">
     <rect x="0" y="20" width="40" height="60" fill="#34495e" rx="5"/>
     <rect x="10" y="15" width="20" height="10" fill="#2c3e50" rx="2"/>
@@ -49,7 +49,7 @@
     </text>
   </g>
   
-  <!-- Cobots -->
+
   <g transform="translate(180, 150)">
     <circle cx="20" cy="20" r="15" fill="#f39c12"/>
     <circle cx="15" cy="15" r="2" fill="#2c3e50"/>
@@ -63,7 +63,7 @@
     </text>
   </g>
   
-  <!-- AI-styring -->
+
   <g transform="translate(120, 250)">
     <rect x="0" y="0" width="60" height="40" fill="url(#circuitPattern)" rx="5"/>
     <circle cx="30" cy="20" r="12" fill="#9b59b6"/>
@@ -74,7 +74,7 @@
     </text>
   </g>
   
-  <!-- Autonom Transport -->
+
   <g transform="translate(80, 350)">
     <rect x="0" y="20" width="80" height="30" fill="#3498db" rx="15"/>
     <circle cx="15" cy="55" r="8" fill="#2c3e50"/>
@@ -88,13 +88,13 @@
     </text>
   </g>
   
-  <!-- Right Section: Bærekraftige Teknologier -->
+
   <rect x="430" y="100" width="320" height="440" fill="url(#sustainableGradient)" rx="15" filter="url(#shadow)"/>
   <text x="590" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
     Bærekraftige Teknologier
   </text>
   
-  <!-- Solar Panel -->
+
   <g transform="translate(460, 150)">
     <rect x="0" y="0" width="50" height="30" fill="#2c3e50" rx="3"/>
     <rect x="2" y="2" width="46" height="26" fill="#34495e" rx="2"/>
@@ -114,7 +114,7 @@
     </text>
   </g>
   
-  <!-- Wind Turbine -->
+
   <g transform="translate(580, 150)">
     <rect x="18" y="20" width="4" height="40" fill="#95a5a6"/>
     <circle cx="20" cy="20" r="3" fill="#7f8c8d"/>
@@ -126,7 +126,7 @@
     </text>
   </g>
   
-  <!-- Electric Vehicle -->
+
   <g transform="translate(480, 250)">
     <rect x="0" y="20" width="70" height="25" fill="#27ae60" rx="12"/>
     <circle cx="15" cy="50" r="6" fill="#2c3e50"/>
@@ -140,7 +140,7 @@
     </text>
   </g>
   
-  <!-- Recycling Symbol -->
+
   <g transform="translate(540, 350)">
     <circle cx="20" cy="20" r="18" fill="none" stroke="#2ecc71" stroke-width="3"/>
     <path d="M8 12 L12 8 L16 12 M12 8 L12 16" stroke="#2ecc71" stroke-width="2" fill="none"/>
@@ -151,7 +151,7 @@
     </text>
   </g>
   
-  <!-- Energy Efficiency Icon -->
+
   <g transform="translate(460, 350)">
     <circle cx="20" cy="20" r="15" fill="#f39c12"/>
     <path d="M12 20 L20 12 L20 16 L28 8 L20 28 L20 24 L12 32 Z" fill="#f1c40f"/>
@@ -160,20 +160,20 @@
     </text>
   </g>
   
-  <!-- Connecting Lines -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#95a5a6"/>
     </marker>
   </defs>
   
-  <!-- Central Timeline -->
+
   <line x1="400" y1="100" x2="400" y2="540" stroke="#95a5a6" stroke-width="2" stroke-dasharray="5,5"/>
   <text x="400" y="570" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#7f8c8d">
     Fremtiden for Varige Driftsmidler
   </text>
   
-  <!-- Innovation indicators -->
+
   <circle cx="400" cy="200" r="8" fill="#e74c3c"/>
   <circle cx="400" cy="300" r="8" fill="#f39c12"/>
   <circle cx="400" cy="400" r="8" fill="#2ecc71"/>

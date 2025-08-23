@@ -1,21 +1,21 @@
 <svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8fafc"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e293b">
     Periodisering og Regnskapsføring av Trygdeavgift
   </text>
   
-  <!-- Process flow -->
+
   <rect x="50" y="80" width="700" height="480" rx="10" fill="#f1f5f9" stroke="#94a3b8" stroke-width="2"/>
   
-  <!-- Monthly process -->
+
   <text x="400" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#334155">
     Månedlig Prosess
   </text>
   
-  <!-- Step 1: Calculation -->
+
   <rect x="80" y="130" width="150" height="80" rx="6" fill="#dbeafe" stroke="#3b82f6"/>
   <text x="155" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e40af">
     1. Beregning
@@ -30,7 +30,7 @@
     Arbeidsgiveravgift
   </text>
   
-  <!-- Step 2: Booking -->
+
   <rect x="260" y="130" width="150" height="80" rx="6" fill="#dcfce7" stroke="#22c55e"/>
   <text x="335" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#166534">
     2. Bokføring
@@ -45,7 +45,7 @@
     Skyldig avgift
   </text>
   
-  <!-- Step 3: Reporting -->
+
   <rect x="440" y="130" width="150" height="80" rx="6" fill="#fef3c7" stroke="#f59e0b"/>
   <text x="515" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#92400e">
     3. A-melding
@@ -60,7 +60,7 @@
     Lønnsopplysninger
   </text>
   
-  <!-- Step 4: Payment -->
+
   <rect x="620" y="130" width="150" height="80" rx="6" fill="#fee2e2" stroke="#ef4444"/>
   <text x="695" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#dc2626">
     4. Betaling
@@ -75,13 +75,13 @@
     Nettbank/avtale
   </text>
   
-  <!-- Accounting example -->
+
   <rect x="80" y="240" width="640" height="160" rx="8" fill="#f0f9ff" stroke="#0ea5e9"/>
   <text x="400" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#0c4a6e">
     Regnskapsføring Eksempel (månedslønn 50.000 kr)
   </text>
   
-  <!-- Journal entries -->
+
   <text x="100" y="295" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0c4a6e">
     Ved lønnsutbetaling:
   </text>
@@ -111,7 +111,7 @@
     Kredit: Skyldig arbeidsgiveravgift .... 7.050 kr
   </text>
   
-  <!-- Balance movement -->
+
   <rect x="80" y="430" width="640" height="100" rx="8" fill="#fef2f2" stroke="#ef4444"/>
   <text x="400" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#dc2626">
     Månedlig Bevegelse på Balansekontoer
@@ -130,12 +130,12 @@
     = Utgående saldo skyldig trygdeavgift: 12.750 kr
   </text>
   
-  <!-- Arrows between steps -->
+
   <polygon points="235,170 255,170 245,180" fill="#64748b"/>
   <polygon points="415,170 435,170 425,180" fill="#64748b"/>
   <polygon points="595,170 615,170 605,180" fill="#64748b"/>
   
-  <!-- Important note -->
+
   <rect x="150" y="550" width="500" height="40" rx="5" fill="#ecfdf5" stroke="#10b981"/>
   <text x="400" y="575" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#065f46">
     Viktig: Periodisering sikrer at kostnader bokføres i riktig periode

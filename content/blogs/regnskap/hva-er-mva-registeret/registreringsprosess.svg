@@ -12,15 +12,15 @@
     </marker>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="700" fill="url(#bgGrad)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#212529">
     Registreringsprosess i MVA-registeret
   </text>
   
-  <!-- Start: Virksomhet oppstart -->
+
   <g transform="translate(300, 70)">
     <ellipse cx="100" cy="40" rx="90" ry="30" fill="#28a745" stroke="#1e7e34" stroke-width="3" filter="url(#shadow)"/>
     <text x="100" y="35" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
@@ -31,10 +31,10 @@
     </text>
   </g>
   
-  <!-- Arrow down -->
+
   <path d="M 400 140 L 400 180" stroke="#0066cc" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Decision: Registreringsplikt? -->
+
   <g transform="translate(300, 190)">
     <polygon points="100,0 180,40 100,80 20,40" fill="#ffc107" stroke="#e0a800" stroke-width="3" filter="url(#shadow)"/>
     <text x="100" y="35" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#212529">
@@ -45,15 +45,15 @@
     </text>
   </g>
   
-  <!-- JA branch -->
+
   <path d="M 480 230 L 550 230" stroke="#0066cc" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <text x="515" y="220" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#dc3545">JA</text>
   
-  <!-- NEI branch -->
+
   <path d="M 320 230 L 250 230" stroke="#0066cc" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <text x="285" y="220" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#28a745">NEI</text>
   
-  <!-- Frivillig registrering -->
+
   <g transform="translate(100, 200)">
     <rect x="0" y="0" width="140" height="60" fill="#e8f5e8" stroke="#388e3c" stroke-width="2" rx="10" filter="url(#shadow)"/>
     <text x="70" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#388e3c">
@@ -64,7 +64,7 @@
     </text>
   </g>
   
-  <!-- Obligatorisk registrering -->
+
   <g transform="translate(560, 200)">
     <rect x="0" y="0" width="140" height="60" fill="#ffebee" stroke="#d32f2f" stroke-width="2" rx="10" filter="url(#shadow)"/>
     <text x="70" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#d32f2f">
@@ -75,11 +75,11 @@
     </text>
   </g>
   
-  <!-- Arrows to Altinn -->
+
   <path d="M 170 280 Q 170 320 350 350" stroke="#0066cc" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 630 280 Q 630 320 450 350" stroke="#0066cc" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Altinn Registration -->
+
   <g transform="translate(300, 360)">
     <rect x="0" y="0" width="200" height="80" fill="#0066cc" stroke="#004499" stroke-width="3" rx="15" filter="url(#shadow)"/>
     <text x="100" y="30" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
@@ -93,10 +93,10 @@
     </text>
   </g>
   
-  <!-- Arrow down -->
+
   <path d="M 400 460 L 400 500" stroke="#0066cc" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Processing -->
+
   <g transform="translate(300, 510)">
     <rect x="0" y="0" width="200" height="60" fill="#17a2b8" stroke="#138496" stroke-width="2" rx="10" filter="url(#shadow)"/>
     <text x="100" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
@@ -107,10 +107,10 @@
     </text>
   </g>
   
-  <!-- Arrow down -->
+
   <path d="M 400 590 L 400 630" stroke="#0066cc" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Final result -->
+
   <g transform="translate(300, 640)">
     <ellipse cx="100" cy="30" rx="90" ry="25" fill="#28a745" stroke="#1e7e34" stroke-width="3" filter="url(#shadow)"/>
     <text x="100" y="35" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
@@ -118,7 +118,7 @@
     </text>
   </g>
   
-  <!-- Side information boxes -->
+
   <g transform="translate(50, 380)">
     <rect x="0" y="0" width="180" height="100" fill="#fff3cd" stroke="#856404" stroke-width="2" rx="8"/>
     <text x="90" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#856404">
@@ -157,7 +157,7 @@
     </text>
   </g>
   
-  <!-- Timeline at bottom -->
+
   <g transform="translate(50, 520)">
     <rect x="0" y="0" width="180" height="80" fill="#f8d7da" stroke="#721c24" stroke-width="2" rx="8"/>
     <text x="90" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#721c24">

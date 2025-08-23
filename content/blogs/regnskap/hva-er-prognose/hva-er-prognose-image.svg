@@ -10,65 +10,65 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="400" fill="#f8fafc"/>
   
-  <!-- Main title -->
+
   <text x="400" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#1e293b">Hva er Prognose?</text>
   
-  <!-- Chart background -->
+
   <rect x="100" y="100" width="600" height="250" fill="white" stroke="#e2e8f0" stroke-width="2" rx="8"/>
   
-  <!-- Y-axis -->
+
   <line x1="150" y1="120" x2="150" y2="320" stroke="#64748b" stroke-width="2"/>
   
-  <!-- X-axis -->
+
   <line x1="150" y1="320" x2="650" y2="320" stroke="#64748b" stroke-width="2"/>
   
-  <!-- Y-axis labels -->
+
   <text x="140" y="130" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#64748b">1000</text>
   <text x="140" y="180" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#64748b">750</text>
   <text x="140" y="230" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#64748b">500</text>
   <text x="140" y="280" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#64748b">250</text>
   <text x="140" y="325" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#64748b">0</text>
   
-  <!-- X-axis labels -->
+
   <text x="200" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#64748b">2022</text>
   <text x="300" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#64748b">2023</text>
   <text x="400" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#64748b">2024</text>
   <text x="500" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#64748b">2025</text>
   <text x="600" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#64748b">2026</text>
   
-  <!-- Historical data line (solid) -->
+
   <polyline points="200,250 300,200 400,180" 
             fill="none" 
             stroke="url(#blueGradient)" 
             stroke-width="3"/>
   
-  <!-- Forecast line (dashed) -->
+
   <polyline points="400,180 500,160 600,140" 
             fill="none" 
             stroke="url(#greenGradient)" 
             stroke-width="3"
             stroke-dasharray="8,4"/>
   
-  <!-- Data points -->
+
   <circle cx="200" cy="250" r="4" fill="#1e40af"/>
   <circle cx="300" cy="200" r="4" fill="#1e40af"/>
   <circle cx="400" cy="180" r="4" fill="#3b82f6"/>
   <circle cx="500" cy="160" r="4" fill="#10b981"/>
   <circle cx="600" cy="140" r="4" fill="#10b981"/>
   
-  <!-- Legend -->
+
   <rect x="480" y="130" width="150" height="60" fill="white" stroke="#e2e8f0" stroke-width="1" rx="4"/>
   <line x1="490" y1="145" x2="510" y2="145" stroke="url(#blueGradient)" stroke-width="3"/>
   <text x="520" y="150" font-family="Arial, sans-serif" font-size="12" fill="#1e293b">Historiske data</text>
   <line x1="490" y1="165" x2="510" y2="165" stroke="url(#greenGradient)" stroke-width="3" stroke-dasharray="4,2"/>
   <text x="520" y="170" font-family="Arial, sans-serif" font-size="12" fill="#1e293b">Prognose</text>
   
-  <!-- Arrow pointing to future -->
+
   <polygon points="620,175 630,170 630,180" fill="#10b981"/>
   
-  <!-- Bottom label -->
+
   <text x="400" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#64748b">Finansiell prognose basert på historiske data og fremtidige forventninger</text>
 </svg>

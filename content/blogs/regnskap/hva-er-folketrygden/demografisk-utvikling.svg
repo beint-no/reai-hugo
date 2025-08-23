@@ -13,29 +13,29 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#333">
     Demografisk Utvikling og Folketrygden
   </text>
   
-  <!-- Chart area -->
+
   <rect x="80" y="80" width="640" height="300" fill="white" stroke="#dee2e6" stroke-width="2" rx="5" filter="url(#shadow)"/>
   
-  <!-- Chart title -->
+
   <text x="400" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#333">
     Forsørgelsesbyrde: Antall pensjonister per yrkesaktiv
   </text>
   
-  <!-- Y-axis -->
+
   <line x1="100" y1="120" x2="100" y2="360" stroke="#333" stroke-width="2"/>
   
-  <!-- X-axis -->
+
   <line x1="100" y1="360" x2="700" y2="360" stroke="#333" stroke-width="2"/>
   
-  <!-- Y-axis labels -->
+
   <text x="90" y="130" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#666">0.5</text>
   <text x="90" y="180" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#666">0.4</text>
   <text x="90" y="230" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#666">0.3</text>
@@ -43,7 +43,7 @@
   <text x="90" y="330" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#666">0.1</text>
   <text x="90" y="365" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#666">0.0</text>
   
-  <!-- X-axis labels -->
+
   <text x="150" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#666">2000</text>
   <text x="250" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#666">2010</text>
   <text x="350" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#666">2020</text>
@@ -51,18 +51,18 @@
   <text x="550" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#666">2040</text>
   <text x="650" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#666">2050</text>
   
-  <!-- Grid lines -->
+
   <line x1="100" y1="130" x2="700" y2="130" stroke="#e0e0e0" stroke-width="1"/>
   <line x1="100" y1="180" x2="700" y2="180" stroke="#e0e0e0" stroke-width="1"/>
   <line x1="100" y1="230" x2="700" y2="230" stroke="#e0e0e0" stroke-width="1"/>
   <line x1="100" y1="280" x2="700" y2="280" stroke="#e0e0e0" stroke-width="1"/>
   <line x1="100" y1="330" x2="700" y2="330" stroke="#e0e0e0" stroke-width="1"/>
   
-  <!-- Data line showing increasing dependency ratio -->
+
   <path d="M 150 330 L 250 310 L 350 280 L 450 230 L 550 180 L 650 140" 
         stroke="#d32f2f" stroke-width="4" fill="none"/>
   
-  <!-- Data points -->
+
   <circle cx="150" cy="330" r="4" fill="#d32f2f"/>
   <circle cx="250" cy="310" r="4" fill="#d32f2f"/>
   <circle cx="350" cy="280" r="4" fill="#d32f2f"/>
@@ -70,7 +70,7 @@
   <circle cx="550" cy="180" r="4" fill="#d32f2f"/>
   <circle cx="650" cy="140" r="4" fill="#d32f2f"/>
   
-  <!-- Data labels -->
+
   <text x="150" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#d32f2f">0.28</text>
   <text x="250" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#d32f2f">0.30</text>
   <text x="350" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#d32f2f">0.32</text>
@@ -78,14 +78,14 @@
   <text x="550" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#d32f2f">0.40</text>
   <text x="650" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#d32f2f">0.44</text>
   
-  <!-- Legend -->
+
   <rect x="520" y="140" width="160" height="60" fill="white" stroke="#ccc" stroke-width="1" rx="5"/>
   <line x1="530" y1="160" x2="550" y2="160" stroke="#d32f2f" stroke-width="3"/>
   <text x="560" y="165" font-family="Arial, sans-serif" font-size="12" fill="#333">Forsørgelsesbyrde</text>
   <text x="560" y="180" font-family="Arial, sans-serif" font-size="10" fill="#666">(pensjonister per</text>
   <text x="560" y="192" font-family="Arial, sans-serif" font-size="10" fill="#666">yrkesaktiv)</text>
   
-  <!-- Challenge boxes -->
+
   <rect x="50" y="400" width="200" height="80" fill="#ffebee" stroke="#d32f2f" stroke-width="2" rx="5"/>
   <text x="150" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#d32f2f">
     Utfordring 1
@@ -128,13 +128,13 @@
     bidragsytere
   </text>
   
-  <!-- Arrow pointing to critical point -->
+
   <path d="M 480 200 L 450 230" stroke="#f57c00" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <text x="490" y="195" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#f57c00">
     Kritisk punkt
   </text>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#f57c00"/>

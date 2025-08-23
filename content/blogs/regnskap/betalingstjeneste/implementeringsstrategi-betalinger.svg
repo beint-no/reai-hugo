@@ -1,10 +1,10 @@
 <svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c3e50">Implementeringsstrategi for Betalingstjenester</text>
   
-  <!-- Phase 1: Analysis and Planning -->
+
   <g transform="translate(50, 70)">
     <rect x="0" y="0" width="200" height="150" rx="10" fill="#3498db" stroke="#2980b9" stroke-width="2"/>
     <rect x="10" y="10" width="180" height="30" rx="5" fill="#2980b9"/>
@@ -20,7 +20,7 @@
     <text x="20" y="145" font-family="Arial, sans-serif" font-size="10" fill="white">• Teknisk kompetanse og API</text>
   </g>
   
-  <!-- Phase 2: Vendor Selection -->
+
   <g transform="translate(300, 70)">
     <rect x="0" y="0" width="200" height="150" rx="10" fill="#27ae60" stroke="#229954" stroke-width="2"/>
     <rect x="10" y="10" width="180" height="30" rx="5" fill="#229954"/>
@@ -36,7 +36,7 @@
     <text x="20" y="145" font-family="Arial, sans-serif" font-size="10" fill="white">• Totalkostnadsanalyse</text>
   </g>
   
-  <!-- Phase 3: Implementation -->
+
   <g transform="translate(550, 70)">
     <rect x="0" y="0" width="200" height="150" rx="10" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
     <rect x="10" y="10" width="180" height="30" rx="5" fill="#c0392b"/>
@@ -52,13 +52,13 @@
     <text x="20" y="145" font-family="Arial, sans-serif" font-size="10" fill="white">• Brukeropplæring</text>
   </g>
   
-  <!-- Implementation Steps Detail -->
+
   <g transform="translate(50, 260)">
     <rect x="0" y="0" width="700" height="200" rx="10" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2"/>
     <rect x="15" y="15" width="670" height="30" rx="5" fill="#34495e"/>
     <text x="350" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">Detaljerte Implementeringssteg</text>
     
-    <!-- Step 1: Infrastructure -->
+
     <g transform="translate(20, 60)">
       <rect x="0" y="0" width="150" height="120" rx="8" fill="#9b59b6" stroke="#8e44ad" stroke-width="1"/>
       <text x="75" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Infrastruktur</text>
@@ -70,7 +70,7 @@
       <text x="10" y="110" font-family="Arial, sans-serif" font-size="10" fill="white">• Overvåking og logging</text>
     </g>
     
-    <!-- Step 2: Integration -->
+
     <g transform="translate(185, 60)">
       <rect x="0" y="0" width="150" height="120" rx="8" fill="#f39c12" stroke="#e67e22" stroke-width="1"/>
       <text x="75" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Integrasjon</text>
@@ -82,7 +82,7 @@
       <text x="10" y="110" font-family="Arial, sans-serif" font-size="10" fill="white">• Sanntids notifikasjoner</text>
     </g>
     
-    <!-- Step 3: Testing -->
+
     <g transform="translate(350, 60)">
       <rect x="0" y="0" width="150" height="120" rx="8" fill="#e74c3c" stroke="#c0392b" stroke-width="1"/>
       <text x="75" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Testing</text>
@@ -94,7 +94,7 @@
       <text x="10" y="110" font-family="Arial, sans-serif" font-size="10" fill="white">• UAT med sluttbrukere</text>
     </g>
     
-    <!-- Step 4: Go-Live -->
+
     <g transform="translate(515, 60)">
       <rect x="0" y="0" width="150" height="120" rx="8" fill="#27ae60" stroke="#229954" stroke-width="1"/>
       <text x="75" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Go-Live</text>
@@ -107,7 +107,7 @@
     </g>
   </g>
   
-  <!-- Risk Mitigation -->
+
   <g transform="translate(50, 490)">
     <rect x="0" y="0" width="330" height="100" rx="8" fill="#34495e" stroke="#2c3e50" stroke-width="2"/>
     <text x="165" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Risikohåndtering</text>
@@ -125,7 +125,7 @@
     <text x="180" y="94" font-family="Arial, sans-serif" font-size="9" fill="white">• Brukeradopsjon</text>
   </g>
   
-  <!-- Success Factors -->
+
   <g transform="translate(420, 490)">
     <rect x="0" y="0" width="330" height="100" rx="8" fill="#27ae60" stroke="#229954" stroke-width="2"/>
     <text x="165" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Suksessfaktorer</text>
@@ -143,14 +143,14 @@
     <text x="180" y="94" font-family="Arial, sans-serif" font-size="9" fill="white">• Skalerbar løsning</text>
   </g>
   
-  <!-- Arrows between phases -->
+
   <path d="M 250 145 L 300 145" stroke="#7f8c8d" stroke-width="3" marker-end="url(#arrowhead)"/>
   <path d="M 500 145 L 550 145" stroke="#7f8c8d" stroke-width="3" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow from phases to detailed steps -->
+
   <path d="M 400 220 L 400 260" stroke="#7f8c8d" stroke-width="3" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#7f8c8d"/>

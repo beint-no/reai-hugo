@@ -4,31 +4,31 @@
     .step { font: 16px Arial, sans-serif; fill: #fff; }
     .box { stroke: #333; fill: #4a90e2; stroke-width: 2; }
   </style>
-  <!-- Step 1 -->
+
   <rect x="50" y="50" width="200" height="60" class="box"/>
   <text x="150" y="85" class="step" text-anchor="middle">1. Stiftelsesdokument</text>
-  <!-- Arrow -->
+
   <path d="M250 80 L300 80" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
-  <!-- Step 2 -->
+
   <rect x="300" y="50" width="200" height="60" class="box"/>
   <text x="400" y="85" class="step" text-anchor="middle">2. Innskudd</text>
-  <!-- Arrow -->
+
   <path d="M500 80 L550 80" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
-  <!-- Step 3 -->
+
   <rect x="550" y="50" width="200" height="60" class="box"/>
   <text x="650" y="85" class="step" text-anchor="middle">3. Innmelding</text>
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrow" markerWidth="10" markerHeight="10" refX="0" refY="3" orient="auto">
       <path d="M0,0 L0,6 L9,3 z" fill="#333" />
     </marker>
   </defs>
-  <!-- Step 4 -->
+
   <rect x="50" y="150" width="200" height="60" class="box"/>
   <text x="150" y="185" class="step" text-anchor="middle">4. Saksbehandling</text>
-  <!-- Arrow -->
+
   <path d="M250 180 L300 180" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
-  <!-- Step 5 -->
+
   <rect x="300" y="150" width="200" height="60" class="box"/>
   <text x="400" y="185" class="step" text-anchor="middle">5. Tildeling</text>
 </svg>

@@ -1,14 +1,14 @@
 <svg width="500" height="300" viewBox="0 0 500 300" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="500" height="300" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="250" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#2c3e50">
     Hva er Pensjon?
   </text>
   
-  <!-- Three pillars representing the Norwegian pension system -->
-  <!-- Pillar 1: Folketrygd -->
+
+
   <rect x="50" y="80" width="100" height="160" fill="#3498db" opacity="0.8"/>
   <text x="100" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     FOLKETRYGD
@@ -26,7 +26,7 @@
     • Uførepensjon
   </text>
   
-  <!-- Pillar 2: Tjenestepensjon -->
+
   <rect x="200" y="80" width="100" height="160" fill="#e74c3c" opacity="0.8"/>
   <text x="250" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     TJENESTEPENSJON
@@ -44,7 +44,7 @@
     • OTP-ordninger
   </text>
   
-  <!-- Pillar 3: Individual savings -->
+
   <rect x="350" y="80" width="100" height="160" fill="#27ae60" opacity="0.8"/>
   <text x="400" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     EGEN SPARING
@@ -62,10 +62,10 @@
     • Aksjesparekonto
   </text>
   
-  <!-- Base line -->
+
   <line x1="40" y1="250" x2="460" y2="250" stroke="#34495e" stroke-width="2"/>
   
-  <!-- Icons representing people -->
+
   <circle cx="80" cy="270" r="8" fill="#34495e"/>
   <rect x="76" y="275" width="8" height="12" fill="#34495e"/>
   
@@ -75,7 +75,7 @@
   <circle cx="420" cy="270" r="8" fill="#34495e"/>
   <rect x="416" y="275" width="8" height="12" fill="#34495e"/>
   
-  <!-- Arrow showing progression -->
+
   <path d="M 30 260 Q 250 220 470 260" stroke="#f39c12" stroke-width="2" fill="none" stroke-dasharray="5,5"/>
   <text x="250" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#f39c12">
     Trygg pensjon gjennom tre søyler

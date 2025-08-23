@@ -14,20 +14,20 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f8f9fa"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGrad)"/>
   <text x="400" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="20" font-weight="bold">KONTOKONTROLL PROSESS</text>
   <text x="400" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14">Systematisk gjennomgang av balanseposter</text>
   
-  <!-- Left side - AKTIVA -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="300" height="40" fill="url(#aktivaGrad)" rx="5"/>
     <text x="150" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">AKTIVA (EIENDELER)</text>
     
-    <!-- Anleggsmidler -->
+
     <rect x="0" y="60" width="300" height="120" fill="#e8f5e8" stroke="#4caf50" stroke-width="1" rx="5"/>
     <text x="10" y="80" fill="#2e7d32" font-family="Arial, sans-serif" font-size="14" font-weight="bold">ANLEGGSMIDLER</text>
     
@@ -40,7 +40,7 @@
       <text x="15" y="175">✓ Kontroll av aktiveringsgrunnlag</text>
     </g>
     
-    <!-- Omløpsmidler -->
+
     <rect x="0" y="200" width="300" height="160" fill="#e1f5fe" stroke="#2196f3" stroke-width="1" rx="5"/>
     <text x="10" y="220" fill="#0d47a1" font-family="Arial, sans-serif" font-size="14" font-weight="bold">OMLØPSMIDLER</text>
     
@@ -60,12 +60,12 @@
     </g>
   </g>
   
-  <!-- Right side - PASSIVA -->
+
   <g transform="translate(450, 80)">
     <rect x="0" y="0" width="300" height="40" fill="url(#passivaGrad)" rx="5"/>
     <text x="150" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">PASSIVA (GJELD &amp; EGENKAPITAL)</text>
     
-    <!-- Egenkapital -->
+
     <rect x="0" y="60" width="300" height="100" fill="#f3e5f5" stroke="#9c27b0" stroke-width="1" rx="5"/>
     <text x="10" y="80" fill="#6a1b9a" font-family="Arial, sans-serif" font-size="14" font-weight="bold">EGENKAPITAL</text>
     
@@ -76,7 +76,7 @@
       <text x="15" y="145">✓ Kontroll av kapitalendringer</text>
     </g>
     
-    <!-- Gjeld -->
+
     <rect x="0" y="180" width="300" height="180" fill="#ffebee" stroke="#f44336" stroke-width="1" rx="5"/>
     <text x="10" y="200" fill="#c62828" font-family="Arial, sans-serif" font-size="14" font-weight="bold">GJELD</text>
     
@@ -97,12 +97,12 @@
     </g>
   </g>
   
-  <!-- Process flow at bottom -->
+
   <g transform="translate(50, 400)">
     <rect x="0" y="0" width="700" height="80" fill="#fff" stroke="#ddd" stroke-width="1" rx="10"/>
     <text x="350" y="20" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold">KVALITETSSIKRING PROSESS</text>
     
-    <!-- Step boxes -->
+
     <rect x="20" y="35" width="120" height="30" fill="#e3f2fd" stroke="#2196f3" stroke-width="1" rx="3"/>
     <text x="80" y="52" text-anchor="middle" fill="#1565c0" font-family="Arial, sans-serif" font-size="10" font-weight="bold">1. AVSTEMMING</text>
     
@@ -127,7 +127,7 @@
     <text x="650" y="52" text-anchor="middle" fill="#c62828" font-family="Arial, sans-serif" font-size="10" font-weight="bold">FERDIG</text>
   </g>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#666"/>

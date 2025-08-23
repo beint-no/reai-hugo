@@ -18,16 +18,16 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
   <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
     Regnskapsføring av Bankinnskudd - Prosess
   </text>
   
-  <!-- Step 1: Cash Deposit -->
+
   <g transform="translate(50, 100)">
     <rect x="0" y="0" width="160" height="100" rx="10" fill="url(#processGradient)" opacity="0.9"/>
     <text x="80" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -43,10 +43,10 @@
     </text>
   </g>
   
-  <!-- Arrow 1 -->
+
   <path d="M 220 150 L 260 150" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 2: Journal Entry -->
+
   <g transform="translate(270, 100)">
     <rect x="0" y="0" width="160" height="100" rx="10" fill="url(#accountGradient)" opacity="0.9"/>
     <text x="80" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -62,10 +62,10 @@
     </text>
   </g>
   
-  <!-- Arrow 2 -->
+
   <path d="M 440 150 L 480 150" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 3: Balance Sheet -->
+
   <g transform="translate(490, 100)">
     <rect x="0" y="0" width="160" height="100" rx="10" fill="url(#balanceGradient)" opacity="0.9"/>
     <text x="80" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -81,12 +81,12 @@
     </text>
   </g>
   
-  <!-- Account Types Section -->
+
   <text x="50" y="250" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333">
     Kontoplan for Bankinnskudd:
   </text>
   
-  <!-- Account 1900 -->
+
   <g transform="translate(50, 270)">
     <rect x="0" y="0" width="150" height="60" rx="5" fill="#E3F2FD" stroke="#2196F3" stroke-width="2"/>
     <text x="75" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1976D2">
@@ -100,7 +100,7 @@
     </text>
   </g>
   
-  <!-- Account 1901 -->
+
   <g transform="translate(220, 270)">
     <rect x="0" y="0" width="150" height="60" rx="5" fill="#E8F5E8" stroke="#4CAF50" stroke-width="2"/>
     <text x="75" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2E7D32">
@@ -114,7 +114,7 @@
     </text>
   </g>
   
-  <!-- Account 1902 -->
+
   <g transform="translate(390, 270)">
     <rect x="0" y="0" width="150" height="60" rx="5" fill="#FFF3E0" stroke="#FF9800" stroke-width="2"/>
     <text x="75" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#F57C00">
@@ -128,7 +128,7 @@
     </text>
   </g>
   
-  <!-- Account 1903 -->
+
   <g transform="translate(560, 270)">
     <rect x="0" y="0" width="150" height="60" rx="5" fill="#F3E5F5" stroke="#9C27B0" stroke-width="2"/>
     <text x="75" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#7B1FA2">
@@ -142,12 +142,12 @@
     </text>
   </g>
   
-  <!-- Transfer Process -->
+
   <text x="50" y="380" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333">
     Overføring mellom kontoer:
   </text>
   
-  <!-- Transfer Example -->
+
   <g transform="translate(50, 400)">
     <rect x="0" y="0" width="300" height="120" rx="10" fill="#E8F5E8" stroke="#4CAF50" stroke-width="2"/>
     <text x="150" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2E7D32">
@@ -169,7 +169,7 @@
     </text>
   </g>
   
-  <!-- Interest Accrual -->
+
   <g transform="translate(400, 400)">
     <rect x="0" y="0" width="300" height="120" rx="10" fill="#FFF3E0" stroke="#FF9800" stroke-width="2"/>
     <text x="150" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#F57C00">
@@ -191,7 +191,7 @@
     </text>
   </g>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" 
      refX="0" refY="3.5" orient="auto">

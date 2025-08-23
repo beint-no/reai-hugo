@@ -1,82 +1,82 @@
 <svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Norske Tvungne Betalingsmidler (Legal Tender)
   </text>
   
-  <!-- Subtitle -->
+
   <text x="400" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#7f8c8d">
     Utstedt av Norges Bank - Juridisk bindende betalingsmidler
   </text>
   
-  <!-- Norwegian Banknotes Section -->
+
   <g transform="translate(50, 100)">
     <text x="300" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#27ae60">
       Norske Sedler
     </text>
     
-    <!-- 1000 NOK -->
+
     <rect x="20" y="40" width="100" height="60" rx="5" fill="#8e44ad" stroke="#7d3c98" stroke-width="2"/>
     <text x="70" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">1000</text>
     <text x="70" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">KRONER</text>
     <text x="70" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">1000 kr</text>
     
-    <!-- 500 NOK -->
+
     <rect x="140" y="40" width="100" height="60" rx="5" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
     <text x="190" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">500</text>
     <text x="190" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">KRONER</text>
     <text x="190" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">500 kr</text>
     
-    <!-- 200 NOK -->
+
     <rect x="260" y="40" width="100" height="60" rx="5" fill="#3498db" stroke="#2980b9" stroke-width="2"/>
     <text x="310" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">200</text>
     <text x="310" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">KRONER</text>
     <text x="310" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">200 kr</text>
     
-    <!-- 100 NOK -->
+
     <rect x="380" y="40" width="100" height="60" rx="5" fill="#e67e22" stroke="#d35400" stroke-width="2"/>
     <text x="430" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">100</text>
     <text x="430" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">KRONER</text>
     <text x="430" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">100 kr</text>
     
-    <!-- 50 NOK -->
+
     <rect x="500" y="40" width="100" height="60" rx="5" fill="#27ae60" stroke="#229954" stroke-width="2"/>
     <text x="550" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">50</text>
     <text x="550" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">KRONER</text>
     <text x="550" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">50 kr</text>
   </g>
   
-  <!-- Norwegian Coins Section -->
+
   <g transform="translate(50, 260)">
     <text x="300" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#f39c12">
       Norske Mynter
     </text>
     
-    <!-- 20 NOK -->
+
     <circle cx="120" cy="80" r="35" fill="#f39c12" stroke="#e67e22" stroke-width="3"/>
     <text x="120" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">20</text>
     <text x="120" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">20 kr</text>
     
-    <!-- 10 NOK -->
+
     <circle cx="220" cy="80" r="30" fill="#95a5a6" stroke="#7f8c8d" stroke-width="3"/>
     <text x="220" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">10</text>
     <text x="220" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">10 kr</text>
     
-    <!-- 5 NOK -->
+
     <circle cx="320" cy="80" r="25" fill="#e74c3c" stroke="#c0392b" stroke-width="3"/>
     <text x="320" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">5</text>
     <text x="320" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">5 kr</text>
     
-    <!-- 1 NOK -->
+
     <circle cx="420" cy="80" r="20" fill="#f4d03f" stroke="#f1c40f" stroke-width="3"/>
     <text x="420" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">1</text>
     <text x="420" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">1 kr</text>
   </g>
   
-  <!-- Legal Information Box -->
+
   <g transform="translate(450, 260)">
     <rect x="0" y="0" width="300" height="180" rx="10" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2"/>
     <text x="150" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
@@ -95,7 +95,7 @@
     </text>
   </g>
   
-  <!-- Norges Bank Logo Area -->
+
   <g transform="translate(50, 420)">
     <rect x="0" y="0" width="200" height="60" rx="5" fill="#2c3e50"/>
     <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -106,7 +106,7 @@
     </text>
   </g>
   
-  <!-- Usage Statistics -->
+
   <g transform="translate(300, 420)">
     <rect x="0" y="0" width="450" height="60" rx="5" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1"/>
     <text x="225" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">

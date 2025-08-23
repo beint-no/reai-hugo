@@ -21,25 +21,25 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)" stroke="#cbd5e1" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#1e293b">
     Typer Kontrollaktiviteter
   </text>
   
-  <!-- Timeline arrow -->
+
   <path d="M100 100 L700 100" stroke="#64748b" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <text x="400" y="90" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#64748b">
     Tidslinje for Kontrollaktiviteter
   </text>
   
-  <!-- Preventive Controls -->
+
   <g transform="translate(80, 150)">
     <rect x="0" y="0" width="200" height="180" fill="url(#preventiveGradient)" stroke="#059669" stroke-width="3" rx="10" filter="url(#shadow)"/>
     
-    <!-- Shield icon -->
+
     <g transform="translate(85, 20)">
       <path d="M30 0 L50 10 L50 35 C50 50 40 55 30 55 C20 55 10 50 10 35 L10 10 Z" 
             fill="white" stroke="#059669" stroke-width="2"/>
@@ -62,11 +62,11 @@
     <text x="20" y="170" font-family="Arial, sans-serif" font-size="10" fill="white">• Segregering av oppgaver</text>
   </g>
   
-  <!-- Detective Controls -->
+
   <g transform="translate(300, 150)">
     <rect x="0" y="0" width="200" height="180" fill="url(#detectiveGradient)" stroke="#d97706" stroke-width="3" rx="10" filter="url(#shadow)"/>
     
-    <!-- Magnifying glass icon -->
+
     <g transform="translate(85, 20)">
       <circle cx="25" cy="25" r="15" fill="white" stroke="#f59e0b" stroke-width="3"/>
       <circle cx="25" cy="25" r="8" fill="none" stroke="#f59e0b" stroke-width="2"/>
@@ -88,11 +88,11 @@
     <text x="20" y="170" font-family="Arial, sans-serif" font-size="10" fill="white">• Analytiske gjennomganger</text>
   </g>
   
-  <!-- Corrective Controls -->
+
   <g transform="translate(520, 150)">
     <rect x="0" y="0" width="200" height="180" fill="url(#correctiveGradient)" stroke="#b91c1c" stroke-width="3" rx="10" filter="url(#shadow)"/>
     
-    <!-- Wrench/repair icon -->
+
     <g transform="translate(85, 20)">
       <rect x="20" y="15" width="20" height="30" fill="white" rx="3"/>
       <circle cx="30" cy="20" r="3" fill="#dc2626"/>
@@ -115,7 +115,7 @@
     <text x="20" y="170" font-family="Arial, sans-serif" font-size="10" fill="white">• Oppfølgingsrutiner</text>
   </g>
   
-  <!-- Timeline markers -->
+
   <circle cx="180" cy="100" r="8" fill="#10b981" stroke="white" stroke-width="2"/>
   <text x="180" y="125" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="#059669">
     FØR
@@ -131,12 +131,12 @@
     ETTER
   </text>
   
-  <!-- Detailed examples section -->
+
   <text x="400" y="380" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#1e293b">
     Eksempler på Kontrollaktiviteter
   </text>
   
-  <!-- Example boxes -->
+
   <g transform="translate(50, 420)">
     <rect x="0" y="0" width="220" height="120" fill="white" stroke="#10b981" stroke-width="2" rx="5" filter="url(#shadow)"/>
     <rect x="0" y="0" width="220" height="30" fill="#10b981" rx="5"/>
@@ -179,14 +179,14 @@
     <text x="10" y="110" font-family="Arial, sans-serif" font-size="10" fill="#1e293b">• Systemoppdateringer</text>
   </g>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#64748b"/>
     </marker>
   </defs>
   
-  <!-- Bottom note -->
+
   <text x="400" y="580" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#64748b">
     Effektiv internkontroll krever en kombinasjon av alle tre typer kontroller
   </text>

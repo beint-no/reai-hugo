@@ -1,20 +1,20 @@
 <svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e40af">
     Lønnsomhetsanalyse for Timelønn
   </text>
   
-  <!-- Cost Breakdown Chart -->
+
   <rect x="50" y="80" width="350" height="250" rx="10" fill="white" stroke="#d1d5db" stroke-width="2"/>
   <text x="225" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#374151">
     Kostnadssstruktur per Time
   </text>
   
-  <!-- Bar Chart -->
-  <!-- Direct Salary -->
+
+
   <rect x="80" y="130" width="40" height="100" fill="#3b82f6" opacity="0.7"/>
   <text x="100" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#1e40af">
     Grunnlønn
@@ -23,7 +23,7 @@
     200 kr
   </text>
   
-  <!-- Social Costs -->
+
   <rect x="140" y="180" width="40" height="50" fill="#10b981" opacity="0.7"/>
   <text x="160" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#059669">
     Sosiale
@@ -32,7 +32,7 @@
     50 kr
   </text>
   
-  <!-- Overhead -->
+
   <rect x="200" y="200" width="40" height="30" fill="#f59e0b" opacity="0.7"/>
   <text x="220" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#d97706">
     Overhead
@@ -41,7 +41,7 @@
     30 kr
   </text>
   
-  <!-- Equipment -->
+
   <rect x="260" y="210" width="40" height="20" fill="#ef4444" opacity="0.7"/>
   <text x="280" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#dc2626">
     Utstyr
@@ -50,7 +50,7 @@
     20 kr
   </text>
   
-  <!-- Training -->
+
   <rect x="320" y="220" width="40" height="10" fill="#8b5cf6" opacity="0.7"/>
   <text x="340" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7c3aed">
     Opplæring
@@ -59,19 +59,19 @@
     10 kr
   </text>
   
-  <!-- Total Cost Line -->
+
   <line x1="80" y1="290" x2="360" y2="290" stroke="#374151" stroke-width="2"/>
   <text x="220" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#374151">
     Total kostnad per time: 310 kr
   </text>
   
-  <!-- Revenue Analysis -->
+
   <rect x="420" y="80" width="330" height="250" rx="10" fill="white" stroke="#d1d5db" stroke-width="2"/>
   <text x="585" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#374151">
     Inntektsanalyse
   </text>
   
-  <!-- Revenue scenarios -->
+
   <rect x="440" y="130" width="80" height="60" fill="#dcfce7" stroke="#10b981" stroke-width="2"/>
   <text x="480" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#059669">
     Intern Prosjekt
@@ -105,13 +105,13 @@
     Margin: 52%
   </text>
   
-  <!-- Profitability Chart -->
+
   <rect x="440" y="210" width="280" height="100" fill="#f3f4f6"/>
   <text x="580" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#374151">
     Månedlig Lønnsomhet (160 timer)
   </text>
   
-  <!-- Monthly bars -->
+
   <rect x="460" y="250" width="60" height="15" fill="#ef4444" opacity="0.6"/>
   <text x="490" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#991b1b">
     Kostnad: 49 600 kr
@@ -127,13 +127,13 @@
     Spesial: 104 000 kr
   </text>
   
-  <!-- KPI Dashboard -->
+
   <rect x="50" y="360" width="700" height="180" rx="10" fill="white" stroke="#d1d5db" stroke-width="2"/>
   <text x="400" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#374151">
     Nøkkeltall for Timelønn (KPIer)
   </text>
   
-  <!-- KPI Grid -->
+
   <rect x="80" y="410" width="150" height="60" fill="#e5f7ff" stroke="#0ea5e9" stroke-width="1"/>
   <text x="155" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#0369a1">
     Produktivitetsrate
@@ -178,7 +178,7 @@
     Snitt salg minus kostnad
   </text>
   
-  <!-- Bottom KPIs -->
+
   <rect x="140" y="490" width="150" height="40" fill="#f3e8ff" stroke="#a855f7" stroke-width="1"/>
   <text x="215" y="510" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#7e22ce">
     ROI per ansatt: 24%
@@ -203,7 +203,7 @@
     Nasjonalt gjennomsnitt: 5,8%
   </text>
   
-  <!-- Bottom Note -->
+
   <text x="400" y="570" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6b7280">
     Optimal lønnsomhet krever balanse mellom kostnadskontroll og salgsoptimalisering
   </text>

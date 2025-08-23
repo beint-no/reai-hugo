@@ -6,21 +6,21 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="450" fill="#F8FAFC"/>
   
-  <!-- Title -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGrad)"/>
   <text x="400" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="20" font-weight="bold">Likviditetseffekt av Tjenestepensjon</text>
   
-  <!-- Main container -->
+
   <rect x="50" y="80" width="700" height="350" rx="10" fill="white" stroke="#E2E8F0" stroke-width="2"/>
   
-  <!-- Cash flow timeline -->
+
   <rect x="70" y="100" width="660" height="120" rx="8" fill="#F0FDFA" stroke="#14B8A6" stroke-width="2"/>
   <text x="400" y="125" text-anchor="middle" fill="#0F766E" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Månedlig Kontantstrøm</text>
   
-  <!-- Timeline months -->
+
   <line x1="120" y1="150" x2="680" y2="150" stroke="#6B7280" stroke-width="2"/>
   
   <circle cx="200" cy="150" r="8" fill="#14B8A6"/>
@@ -45,7 +45,7 @@
   
   <text x="120" y="195" fill="#6B7280" font-family="Arial, sans-serif" font-size="11">Årlig pensjon 500.000 kr → Månedlig 41.667 kr + kvartalsjusteringer</text>
   
-  <!-- Impact on key metrics -->
+
   <rect x="70" y="240" width="320" height="180" rx="8" fill="#EFF6FF" stroke="#3B82F6" stroke-width="2"/>
   <text x="230" y="265" text-anchor="middle" fill="#1E40AF" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Påvirkning Nøkkeltall</text>
   
@@ -57,7 +57,7 @@
   <text x="100" y="380" fill="#374151" font-family="Arial, sans-serif" font-size="12">• Direkte kostnad fra drift</text>
   <text x="100" y="400" fill="#374151" font-family="Arial, sans-serif" font-size="12">• Påvirker operasjonell kontantstrøm</text>
   
-  <!-- Planning and optimization -->
+
   <rect x="410" y="240" width="320" height="180" rx="8" fill="#FEF7CD" stroke="#F59E0B" stroke-width="2"/>
   <text x="570" y="265" text-anchor="middle" fill="#D97706" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Planlegging &amp; Optimalisering</text>
   
@@ -69,7 +69,7 @@
   <text x="440" y="380" fill="#374151" font-family="Arial, sans-serif" font-size="12">• Buffer for pensjonsutbetalinger</text>
   <text x="440" y="400" fill="#374151" font-family="Arial, sans-serif" font-size="12">• Sesongvariasjoner i lønn</text>
   
-  <!-- Arrows -->
+
   <path d="M 400 220 L 400 240" stroke="#6B7280" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 390 340 L 410 340" stroke="#6B7280" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   

@@ -9,16 +9,16 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGrad)"/>
   <text x="400" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
     NACE Klassifiseringssystem - Hierarkisk Struktur
   </text>
   
-  <!-- Level 1: Seksjon -->
+
   <rect x="50" y="100" width="700" height="80" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="8" filter="url(#shadow)"/>
   <text x="80" y="125" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1976d2">
     Seksjon (1 bokstav)
@@ -30,10 +30,10 @@
     Hovedområde for næringsaktivitet
   </text>
   
-  <!-- Arrow down -->
+
   <path d="M 400 180 L 400 200" stroke="#666" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Level 2: Avdeling -->
+
   <rect x="100" y="210" width="600" height="70" fill="#bbdefb" stroke="#1976d2" stroke-width="2" rx="6" filter="url(#shadow)"/>
   <text x="130" y="235" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="#1976d2">
     Avdeling (2 siffer)
@@ -45,10 +45,10 @@
     Underområde innen seksjonen
   </text>
   
-  <!-- Arrow down -->
+
   <path d="M 400 280 L 400 300" stroke="#666" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Level 3: Gruppe -->
+
   <rect x="150" y="310" width="500" height="65" fill="#90caf9" stroke="#1976d2" stroke-width="2" rx="5" filter="url(#shadow)"/>
   <text x="180" y="335" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1976d2">
     Gruppe (3 siffer)
@@ -60,10 +60,10 @@
     Spesifikk aktivitet innen avdelingen
   </text>
   
-  <!-- Arrow down -->
+
   <path d="M 400 375 L 400 395" stroke="#666" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Level 4: Klasse -->
+
   <rect x="200" y="405" width="400" height="60" fill="#64b5f6" stroke="#1976d2" stroke-width="2" rx="4" filter="url(#shadow)"/>
   <text x="230" y="425" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#1976d2">
     Klasse (4 siffer)
@@ -75,10 +75,10 @@
     Detaljert aktivitet
   </text>
   
-  <!-- Arrow down -->
+
   <path d="M 400 465 L 400 485" stroke="#666" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Level 5: Underklasse -->
+
   <rect x="250" y="495" width="300" height="55" fill="#42a5f5" stroke="#1976d2" stroke-width="2" rx="3" filter="url(#shadow)"/>
   <text x="280" y="515" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     Underklasse (5 siffer)
@@ -90,8 +90,8 @@
     Mest detaljerte nivå
   </text>
   
-  <!-- Side information boxes -->
-  <!-- Eksempler på andre seksjoner -->
+
+
   <rect x="520" y="100" width="220" height="80" fill="#fff3e0" stroke="#f57c00" stroke-width="1" rx="5"/>
   <text x="530" y="120" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#f57c00">
     Andre NACE-Seksjoner:
@@ -109,14 +109,14 @@
     K - Finansiering og forsikring
   </text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#666"/>
     </marker>
   </defs>
   
-  <!-- Complexity indicator -->
+
   <text x="50" y="580" font-family="Arial, sans-serif" font-size="12" font-style="italic" fill="#666">
     Økende spesifisering og detaljnivå
   </text>

@@ -1,21 +1,21 @@
 <svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#2c3e50">
     Dekningsbidrag
   </text>
   
-  <!-- Subtitle -->
+
   <text x="400" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#7f8c8d">
     Salgsinntekter - Variable kostnader
   </text>
   
-  <!-- Main diagram container -->
+
   <rect x="100" y="120" width="600" height="400" fill="white" stroke="#bdc3c7" stroke-width="2" rx="10"/>
   
-  <!-- Revenue section -->
+
   <rect x="150" y="160" width="500" height="80" fill="#3498db" rx="5"/>
   <text x="400" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
     Salgsinntekter
@@ -24,7 +24,7 @@
     1.500 kr per enhet
   </text>
   
-  <!-- Variable costs section -->
+
   <rect x="150" y="260" width="300" height="60" fill="#e74c3c" rx="5"/>
   <text x="300" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
     Variable kostnader
@@ -33,7 +33,7 @@
     900 kr per enhet
   </text>
   
-  <!-- Contribution margin section -->
+
   <rect x="470" y="260" width="180" height="60" fill="#27ae60" rx="5"/>
   <text x="560" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     Dekningsbidrag
@@ -42,7 +42,7 @@
     600 kr per enhet
   </text>
   
-  <!-- Fixed costs section -->
+
   <rect x="150" y="340" width="500" height="60" fill="#95a5a6" rx="5"/>
   <text x="400" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
     Faste kostnader
@@ -51,7 +51,7 @@
     Husleie, lønn, forsikring
   </text>
   
-  <!-- Profit section -->
+
   <rect x="150" y="420" width="500" height="60" fill="#f39c12" rx="5"/>
   <text x="400" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
     Overskudd
@@ -60,19 +60,19 @@
     Etter dekning av faste kostnader
   </text>
   
-  <!-- Arrows -->
+
   <path d="M 400 240 L 400 250" stroke="#2c3e50" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 400 320 L 400 330" stroke="#2c3e50" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 400 400 L 400 410" stroke="#2c3e50" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#2c3e50"/>
     </marker>
   </defs>
   
-  <!-- Formula at bottom -->
+
   <text x="400" y="550" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
     Dekningsbidrag = Salgsinntekter - Variable kostnader
   </text>

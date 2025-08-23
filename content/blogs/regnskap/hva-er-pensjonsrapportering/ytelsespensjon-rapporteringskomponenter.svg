@@ -10,19 +10,19 @@
     </radialGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="650" fill="#F9F9F9"/>
   
-  <!-- Title -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
   <text x="400" y="38" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="white" text-anchor="middle">YTELSESPENSJON - RAPPORTERINGSKOMPONENTER</text>
   
-  <!-- Central circle -->
+
   <circle cx="400" cy="350" r="120" fill="url(#centerGradient)" stroke="#8E24AA" stroke-width="3"/>
   <text x="400" y="340" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#4A148C" text-anchor="middle">YTELSESPENSJON</text>
   <text x="400" y="360" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#4A148C" text-anchor="middle">RAPPORTERING</text>
   
-  <!-- Component 1: Pensjonsforpliktelse -->
+
   <g transform="translate(120, 120)">
     <rect x="0" y="0" width="180" height="100" fill="#FFEBEE" stroke="#E91E63" stroke-width="2" rx="8"/>
     <text x="90" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#C2185B" text-anchor="middle">PENSJONSFORPLIKTELSE</text>
@@ -32,7 +32,7 @@
     <text x="10" y="85" font-family="Arial, sans-serif" font-size="11" fill="#333">• Aktuarmessige beregninger</text>
   </g>
   
-  <!-- Component 2: Pensjonsmidler -->
+
   <g transform="translate(500, 120)">
     <rect x="0" y="0" width="180" height="100" fill="#E8F5E8" stroke="#4CAF50" stroke-width="2" rx="8"/>
     <text x="90" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2E7D32" text-anchor="middle">PENSJONSMIDLER</text>
@@ -42,7 +42,7 @@
     <text x="10" y="85" font-family="Arial, sans-serif" font-size="11" fill="#333">• Kontanter og bankinnskudd</text>
   </g>
   
-  <!-- Component 3: Pensjonskostnad -->
+
   <g transform="translate(120, 520)">
     <rect x="0" y="0" width="180" height="100" fill="#FFF3E0" stroke="#FF9800" stroke-width="2" rx="8"/>
     <text x="90" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#F57C00" text-anchor="middle">PENSJONSKOSTNAD</text>
@@ -52,7 +52,7 @@
     <text x="10" y="85" font-family="Arial, sans-serif" font-size="11" fill="#333">• Amortisering av tap/gevinst</text>
   </g>
   
-  <!-- Component 4: Netto forpliktelse -->
+
   <g transform="translate(500, 520)">
     <rect x="0" y="0" width="180" height="100" fill="#E3F2FD" stroke="#2196F3" stroke-width="2" rx="8"/>
     <text x="90" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1976D2" text-anchor="middle">NETTO FORPLIKTELSE</text>
@@ -62,20 +62,20 @@
     <text x="10" y="85" font-family="Arial, sans-serif" font-size="11" fill="#333">• Korridoreffekter</text>
   </g>
   
-  <!-- Arrows connecting to center -->
+
   <path d="M 250 170 L 320 290" stroke="#8E24AA" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 550 170 L 480 290" stroke="#8E24AA" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 250 520 L 320 410" stroke="#8E24AA" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 550 520 L 480 410" stroke="#8E24AA" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrowhead" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
       <polygon points="0 0, 8 3, 0 6" fill="#8E24AA"/>
     </marker>
   </defs>
   
-  <!-- Formula box -->
+
   <g transform="translate(300, 270)">
     <rect x="0" y="0" width="200" height="60" fill="#FFFFFF" stroke="#8E24AA" stroke-width="2" rx="5"/>
     <text x="100" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#8E24AA" text-anchor="middle">HOVEDFORMEL:</text>
@@ -83,7 +83,7 @@
     <text x="100" y="55" font-family="Arial, sans-serif" font-size="11" fill="#333" text-anchor="middle">± Ikke-resultatførte elementer</text>
   </g>
   
-  <!-- Left side details -->
+
   <g transform="translate(20, 280)">
     <rect x="0" y="0" width="140" height="140" fill="#F5F5F5" stroke="#9E9E9E" stroke-width="1" rx="5"/>
     <text x="70" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#424242" text-anchor="middle">AKTUARMESSIGE</text>
@@ -97,7 +97,7 @@
     <text x="10" y="130" font-family="Arial, sans-serif" font-size="10" fill="#333">• Personalomsetning</text>
   </g>
   
-  <!-- Right side details -->
+
   <g transform="translate(640, 280)">
     <rect x="0" y="0" width="140" height="140" fill="#F5F5F5" stroke="#9E9E9E" stroke-width="1" rx="5"/>
     <text x="70" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#424242" text-anchor="middle">RAPPORTERINGS</text>

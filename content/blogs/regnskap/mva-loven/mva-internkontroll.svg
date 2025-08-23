@@ -18,19 +18,19 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#ffffff"/>
   
-  <!-- Title -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGrad)"/>
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">Internkontrollsystem for Mva-håndtering</text>
   
-  <!-- Central control hub -->
+
   <circle cx="400" cy="300" r="80" fill="url(#controlGrad)" stroke="#198754" stroke-width="3"/>
   <text x="400" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">INTERNKONTROLL</text>
   <text x="400" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">MVA-SYSTEM</text>
   
-  <!-- Control process 1: Documentation -->
+
   <rect x="50" y="80" width="180" height="120" fill="url(#processGrad)" rx="8" stroke="#6f42c1" stroke-width="2"/>
   <text x="140" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">DOKUMENTASJON</text>
   <rect x="70" y="125" width="140" height="60" fill="rgba(255,255,255,0.9)" rx="4"/>
@@ -38,7 +38,7 @@
   <text x="140" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">• Digitale bilag</text>
   <text x="140" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">• Revisjonsløyper</text>
   
-  <!-- Control process 2: Validation -->
+
   <rect x="570" y="80" width="180" height="120" fill="url(#processGrad)" rx="8" stroke="#6f42c1" stroke-width="2"/>
   <text x="660" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">VALIDERING</text>
   <rect x="590" y="125" width="140" height="60" fill="rgba(255,255,255,0.9)" rx="4"/>
@@ -46,7 +46,7 @@
   <text x="660" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">• Automatisk validering</text>
   <text x="660" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">• Feilrapportering</text>
   
-  <!-- Control process 3: Reconciliation -->
+
   <rect x="50" y="400" width="180" height="120" fill="url(#processGrad)" rx="8" stroke="#6f42c1" stroke-width="2"/>
   <text x="140" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">AVSTEMMING</text>
   <rect x="70" y="445" width="140" height="60" fill="rgba(255,255,255,0.9)" rx="4"/>
@@ -54,7 +54,7 @@
   <text x="140" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">• Saldokontroll</text>
   <text x="140" y="495" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">• Avviksanalyse</text>
   
-  <!-- Control process 4: Reporting -->
+
   <rect x="570" y="400" width="180" height="120" fill="url(#processGrad)" rx="8" stroke="#6f42c1" stroke-width="2"/>
   <text x="660" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">RAPPORTERING</text>
   <rect x="590" y="445" width="140" height="60" fill="rgba(255,255,255,0.9)" rx="4"/>
@@ -62,19 +62,19 @@
   <text x="660" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">• Fristovervåking</text>
   <text x="660" y="495" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">• Kvalitetssikring</text>
   
-  <!-- Risk areas -->
+
   <rect x="280" y="80" width="240" height="80" fill="url(#riskGrad)" rx="8" stroke="#dc3545" stroke-width="2"/>
   <text x="400" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">RISIKOOMRÅDER</text>
   <rect x="300" y="125" width="200" height="25" fill="rgba(255,255,255,0.9)" rx="4"/>
   <text x="400" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">Feil mva-sats • Manglende fradrag • Forsinket innlevering</text>
   
-  <!-- Control frequency schedule -->
+
   <rect x="280" y="440" width="240" height="80" fill="#ffc107" rx="8" stroke="#ffb300" stroke-width="2"/>
   <text x="400" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#495057">KONTROLLFREKVENS</text>
   <rect x="300" y="485" width="200" height="25" fill="rgba(255,255,255,0.9)" rx="4"/>
   <text x="400" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">Daglig • Ukentlig • Månedlig • Kvartalsvis</text>
   
-  <!-- Control activities detail boxes -->
+
   <rect x="50" y="240" width="120" height="80" fill="#17a2b8" rx="6" stroke="#138496" stroke-width="1"/>
   <text x="110" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">DAGLIGE</text>
   <text x="110" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">KONTROLLER</text>
@@ -99,24 +99,24 @@
   <text x="690" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">• Rutinegjennomgang</text>
   <text x="690" y="312" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">• Prosessoppdatering</text>
   
-  <!-- Connecting lines from central hub to processes -->
+
   <line x1="340" y1="250" x2="140" y2="200" stroke="#6c757d" stroke-width="2"/>
   <line x1="460" y1="250" x2="660" y2="200" stroke="#6c757d" stroke-width="2"/>
   <line x1="340" y1="350" x2="140" y2="400" stroke="#6c757d" stroke-width="2"/>
   <line x1="460" y1="350" x2="660" y2="400" stroke="#6c757d" stroke-width="2"/>
   
-  <!-- Arrows showing control flow -->
+
   <path d="M 400 160 L 400 220" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 400 380 L 400 440" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#6c757d"/>
     </marker>
   </defs>
   
-  <!-- Footer with key principles -->
+
   <rect x="50" y="540" width="700" height="40" fill="#f8f9fa" rx="6" stroke="#dee2e6" stroke-width="1"/>
   <text x="400" y="560" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">Nøkkelprinsipper: Segregering • Autorisasjon • Dokumentasjon • Overvåking</text>
   <text x="400" y="575" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">Kontinuerlig forbedring og tilpasning til regelverksendringer</text>

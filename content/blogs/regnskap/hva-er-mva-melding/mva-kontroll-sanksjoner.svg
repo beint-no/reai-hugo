@@ -1,20 +1,20 @@
 <svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
   <title>MVA-kontroll og sanksjoner</title>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#2c3e50">
     MVA-kontroll og Sanksjoner
   </text>
   
-  <!-- Control process flow -->
+
   <text x="400" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#7f8c8d">
     Skatteetatens kontrollprosess
   </text>
   
-  <!-- Step 1: Submission -->
+
   <rect x="50" y="90" width="150" height="80" fill="#3498db" stroke="#2c3e50" stroke-width="2" rx="10"/>
   <text x="125" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     1. INNLEVERING
@@ -26,10 +26,10 @@
     via Altinn
   </text>
   
-  <!-- Arrow 1 -->
+
   <path d="M 220 130 L 280 130 L 270 120 M 280 130 L 270 140" stroke="#7f8c8d" stroke-width="2" fill="none"/>
   
-  <!-- Step 2: Automatic control -->
+
   <rect x="300" y="90" width="150" height="80" fill="#f39c12" stroke="#2c3e50" stroke-width="2" rx="10"/>
   <text x="375" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     2. AUTOMATISK
@@ -41,10 +41,10 @@
     Alle meldinger
   </text>
   
-  <!-- Arrow 2 -->
+
   <path d="M 470 130 L 530 130 L 520 120 M 530 130 L 520 140" stroke="#7f8c8d" stroke-width="2" fill="none"/>
   
-  <!-- Step 3: Risk assessment -->
+
   <rect x="550" y="90" width="150" height="80" fill="#e67e22" stroke="#2c3e50" stroke-width="2" rx="10"/>
   <text x="625" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     3. RISIKO-
@@ -56,7 +56,7 @@
     Utvelgelse
   </text>
   
-  <!-- Decision diamond -->
+
   <polygon points="400,200 450,230 400,260 350,230" fill="#34495e" stroke="#2c3e50" stroke-width="2"/>
   <text x="400" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
     AVVIK
@@ -65,10 +65,10 @@
     FUNNET?
   </text>
   
-  <!-- Arrow from step 3 to decision -->
+
   <path d="M 625 180 L 625 200 L 450 200 L 450 215" stroke="#7f8c8d" stroke-width="2" fill="none"/>
   
-  <!-- No issues path -->
+
   <text x="300" y="225" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#27ae60">
     NEI
   </text>
@@ -79,7 +79,7 @@
     GODKJENT
   </text>
   
-  <!-- Issues found path -->
+
   <text x="500" y="225" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e74c3c">
     JA
   </text>
@@ -90,12 +90,12 @@
     KONTROLL
   </text>
   
-  <!-- Sanctions table -->
+
   <text x="400" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">
     Sanksjoner ved Overtredelse
   </text>
   
-  <!-- Table header -->
+
   <rect x="100" y="320" width="600" height="40" fill="#34495e" rx="5 5 0 0"/>
   <text x="200" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Type Overtredelse
@@ -107,8 +107,8 @@
     Beløp/Sats
   </text>
   
-  <!-- Table rows -->
-  <!-- Row 1 -->
+
+
   <rect x="100" y="360" width="600" height="35" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
   <text x="120" y="380" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
     Forsinket levering
@@ -120,7 +120,7 @@
     Min. 1.000 kr
   </text>
   
-  <!-- Row 2 -->
+
   <rect x="100" y="395" width="600" height="35" fill="white" stroke="#bdc3c7" stroke-width="1"/>
   <text x="120" y="415" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
     Manglende levering
@@ -132,7 +132,7 @@
     500 kr/dag
   </text>
   
-  <!-- Row 3 -->
+
   <rect x="100" y="430" width="600" height="35" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
   <text x="120" y="450" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
     Feil i melding
@@ -144,7 +144,7 @@
     20% av beløpet
   </text>
   
-  <!-- Row 4 -->
+
   <rect x="100" y="465" width="600" height="35" fill="white" stroke="#bdc3c7" stroke-width="1"/>
   <text x="120" y="485" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
     Grov uaktsomhet
@@ -156,7 +156,7 @@
     40% av beløpet
   </text>
   
-  <!-- Row 5 -->
+
   <rect x="100" y="500" width="600" height="35" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1" rx="0 0 5 5"/>
   <text x="120" y="520" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
     Forsett
@@ -168,7 +168,7 @@
     60% av beløpet
   </text>
   
-  <!-- Bottom warning -->
+
   <rect x="150" y="550" width="500" height="40" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="5"/>
   <text x="400" y="570" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#856404">
     ⚠️ Frivillig rettelse før kontroll kan redusere sanksjoner

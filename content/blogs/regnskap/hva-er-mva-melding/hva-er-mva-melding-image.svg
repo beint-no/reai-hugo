@@ -1,29 +1,29 @@
 <svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
   <title>Hva er MVA-melding?</title>
   
-  <!-- Background -->
+
   <rect width="800" height="400" fill="#f8f9fa"/>
   
-  <!-- Main title -->
+
   <text x="400" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#2c3e50">
     MVA-melding
   </text>
   
-  <!-- Subtitle -->
+
   <text x="400" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#7f8c8d">
     Obligatorisk rapportering av merverdiavgift
   </text>
   
-  <!-- Central document illustration -->
+
   <rect x="300" y="120" width="200" height="260" fill="white" stroke="#3498db" stroke-width="3" rx="10"/>
   
-  <!-- Document header -->
+
   <rect x="310" y="130" width="180" height="30" fill="#3498db" rx="5"/>
   <text x="400" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     MVA-MELDING
   </text>
   
-  <!-- Document content lines -->
+
   <line x1="320" y1="180" x2="480" y2="180" stroke="#bdc3c7" stroke-width="2"/>
   <text x="325" y="195" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Utgående MVA:</text>
   <text x="450" y="195" font-family="Arial, sans-serif" font-size="12" fill="#27ae60" font-weight="bold">125.000</text>
@@ -36,44 +36,44 @@
   <text x="325" y="255" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">Skyldig MVA:</text>
   <text x="450" y="255" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">50.000</text>
   
-  <!-- Deadline info -->
+
   <rect x="320" y="280" width="160" height="40" fill="#e8f4f8" stroke="#3498db" stroke-width="1" rx="5"/>
   <text x="400" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Frist:</text>
   <text x="400" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e74c3c">10. i påfølgende måned</text>
   
-  <!-- Left side - Input sources -->
+
   <text x="150" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
     Datakilder
   </text>
   
-  <!-- Sales icon -->
+
   <circle cx="100" cy="180" r="25" fill="#27ae60" stroke="#2c3e50" stroke-width="2"/>
   <text x="100" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">SALG</text>
   <text x="100" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Utgående MVA</text>
   
-  <!-- Purchase icon -->
+
   <circle cx="200" cy="180" r="25" fill="#e74c3c" stroke="#2c3e50" stroke-width="2"/>
   <text x="200" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">KJØP</text>
   <text x="200" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Inngående MVA</text>
   
-  <!-- Arrows pointing to document -->
+
   <path d="M 125 180 L 280 180 L 270 170 M 280 180 L 270 190" stroke="#7f8c8d" stroke-width="2" fill="none"/>
   <path d="M 225 180 L 280 180" stroke="#7f8c8d" stroke-width="2" fill="none"/>
   
-  <!-- Right side - Submission -->
+
   <text x="650" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
     Innlevering
   </text>
   
-  <!-- Altinn logo placeholder -->
+
   <rect x="600" y="160" width="100" height="60" fill="#0066cc" rx="10"/>
   <text x="650" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">ALTINN</text>
   <text x="650" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Elektronisk</text>
   
-  <!-- Arrow from document to Altinn -->
+
   <path d="M 520 200 L 580 200 L 570 190 M 580 200 L 570 210" stroke="#7f8c8d" stroke-width="2" fill="none"/>
   
-  <!-- Bottom info -->
+
   <text x="400" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">
     Obligatorisk for alle MVA-registrerte virksomheter
   </text>

@@ -6,19 +6,19 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="450" fill="#ffffff"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGrad)"/>
   <text x="400" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="22" font-weight="bold">Bilagstyper og Dokumentasjonskrav</text>
   
-  <!-- External documents section -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="320" height="300" fill="#f0f9ff" stroke="#0ea5e9" stroke-width="2" rx="10"/>
     <text x="160" y="25" text-anchor="middle" fill="#0ea5e9" font-family="Arial, sans-serif" font-size="18" font-weight="bold">Eksterne Bilag</text>
     
-    <!-- Invoice icon -->
+
     <g transform="translate(20, 50)">
       <rect x="0" y="0" width="60" height="80" fill="#dbeafe" stroke="#3b82f6" stroke-width="2" rx="4"/>
       <line x1="10" y1="15" x2="50" y2="15" stroke="#3b82f6" stroke-width="2"/>
@@ -31,7 +31,7 @@
       <text x="90" y="65" fill="#374151" font-family="Arial, sans-serif" font-size="10">• MVA-spesifikasjon</text>
     </g>
     
-    <!-- Receipt icon -->
+
     <g transform="translate(20, 140)">
       <rect x="0" y="0" width="40" height="60" fill="#fef3c7" stroke="#f59e0b" stroke-width="2" rx="4"/>
       <line x1="5" y1="10" x2="35" y2="10" stroke="#f59e0b" stroke-width="1"/>
@@ -42,7 +42,7 @@
       <text x="70" y="50" fill="#374151" font-family="Arial, sans-serif" font-size="10">• Betalingsbevis</text>
     </g>
     
-    <!-- Bank statement icon -->
+
     <g transform="translate(20, 220)">
       <rect x="0" y="0" width="60" height="40" fill="#dcfce7" stroke="#16a34a" stroke-width="2" rx="4"/>
       <text x="30" y="25" text-anchor="middle" fill="#16a34a" font-family="Arial, sans-serif" font-size="10" font-weight="bold">BANK</text>
@@ -52,12 +52,12 @@
     </g>
   </g>
   
-  <!-- Internal documents section -->
+
   <g transform="translate(430, 80)">
     <rect x="0" y="0" width="320" height="300" fill="#fef7ff" stroke="#a855f7" stroke-width="2" rx="10"/>
     <text x="160" y="25" text-anchor="middle" fill="#a855f7" font-family="Arial, sans-serif" font-size="18" font-weight="bold">Interne Bilag</text>
     
-    <!-- Payroll icon -->
+
     <g transform="translate(20, 50)">
       <rect x="0" y="0" width="60" height="60" fill="#f3e8ff" stroke="#a855f7" stroke-width="2" rx="4"/>
       <circle cx="30" cy="25" r="8" fill="#a855f7"/>
@@ -68,7 +68,7 @@
       <text x="90" y="65" fill="#374151" font-family="Arial, sans-serif" font-size="10">• Skattetrekk</text>
     </g>
     
-    <!-- Depreciation icon -->
+
     <g transform="translate(20, 140)">
       <rect x="0" y="0" width="60" height="60" fill="#fce7f3" stroke="#ec4899" stroke-width="2" rx="4"/>
       <path d="M15 20 L45 20 L45 50 L15 50 Z" fill="none" stroke="#ec4899" stroke-width="2"/>
@@ -79,7 +79,7 @@
       <text x="90" y="65" fill="#374151" font-family="Arial, sans-serif" font-size="10">• Verdiendringer</text>
     </g>
     
-    <!-- Accruals icon -->
+
     <g transform="translate(20, 220)">
       <rect x="0" y="0" width="60" height="40" fill="#e0f2fe" stroke="#0891b2" stroke-width="2" rx="4"/>
       <text x="30" y="25" text-anchor="middle" fill="#0891b2" font-family="Arial, sans-serif" font-size="8" font-weight="bold">PERIOD</text>
@@ -89,7 +89,7 @@
     </g>
   </g>
   
-  <!-- Required information box -->
+
   <g transform="translate(50, 400)">
     <rect x="0" y="0" width="700" height="40" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1" rx="6"/>
     <text x="20" y="18" fill="#1e40af" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Alle bilag må inneholde:</text>

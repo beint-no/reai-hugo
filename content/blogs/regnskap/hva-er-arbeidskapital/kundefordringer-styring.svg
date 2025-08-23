@@ -8,13 +8,13 @@
     .content-bg { fill: #ebf8ff; stroke: #1e88e5; stroke-width: 2; }
   </style>
   
-  <!-- Background -->
+
   <rect width="700" height="400" fill="#ffffff"/>
   
-  <!-- Title -->
+
   <text x="350" y="30" class="title-text">Optimalisering av Kundefordringer</text>
   
-  <!-- Step 1 -->
+
   <rect x="50" y="70" width="120" height="40" class="step-bg" rx="5"/>
   <text x="110" y="95" class="step-text">1. Kredittsjekk</text>
   
@@ -24,7 +24,7 @@
   <text x="70" y="170" class="item-text">• Sett kredittgrenser</text>
   <text x="70" y="185" class="item-text">• Reduser risiko</text>
   
-  <!-- Step 2 -->
+
   <rect x="190" y="70" width="120" height="40" class="step-bg" rx="5"/>
   <text x="250" y="95" class="step-text">2. Betingelser</text>
   
@@ -34,7 +34,7 @@
   <text x="210" y="170" class="item-text">• Optimale</text>
   <text x="210" y="185" class="item-text">  betalingsfrister</text>
   
-  <!-- Step 3 -->
+
   <rect x="330" y="70" width="120" height="40" class="step-bg" rx="5"/>
   <text x="390" y="95" class="step-text">3. Oppfølging</text>
   
@@ -44,7 +44,7 @@
   <text x="350" y="170" class="item-text">• Purring ved</text>
   <text x="350" y="185" class="item-text">  forfall</text>
   
-  <!-- Step 4 -->
+
   <rect x="470" y="70" width="120" height="40" class="step-bg" rx="5"/>
   <text x="530" y="95" class="step-text">4. Faktoring</text>
   
@@ -54,11 +54,11 @@
   <text x="490" y="170" class="item-text">  kontanter</text>
   <text x="490" y="185" class="item-text">• Reduser risiko</text>
   
-  <!-- Process flow -->
+
   <rect x="100" y="250" width="500" height="120" class="content-bg" rx="8"/>
   <text x="350" y="275" class="title-text" font-size="18">Kundefordringer Prosess</text>
   
-  <!-- Flow steps -->
+
   <circle cx="150" cy="310" r="25" fill="#38b2ac"/>
   <text x="150" y="316" class="step-text" font-size="12">Salg</text>
   
@@ -82,14 +82,14 @@
   <circle cx="470" cy="310" r="25" fill="#38b2ac"/>
   <text x="470" y="316" class="step-text" font-size="12">Betaling</text>
   
-  <!-- Timeline -->
+
   <text x="150" y="345" class="item-text" text-anchor="middle">Dag 0</text>
   <text x="230" y="345" class="item-text" text-anchor="middle">Dag 1</text>
   <text x="310" y="345" class="item-text" text-anchor="middle">Dag 30</text>
   <text x="390" y="345" class="item-text" text-anchor="middle">Dag 45</text>
   <text x="470" y="345" class="item-text" text-anchor="middle">Dag 60</text>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#2d3748"/>

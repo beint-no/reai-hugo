@@ -1,63 +1,63 @@
 <svg width="1000" height="800" viewBox="0 0 1000 800" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="1000" height="800" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="500" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">Regnskapsføring av Tilbud og Kontrakter</text>
   
-  <!-- IFRS 15 Five-step process -->
+
   <text x="50" y="80" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">IFRS 15 Femtrinnsprosessen</text>
   
   <g>
-    <!-- Step 1 -->
+
     <rect x="50" y="100" width="180" height="80" fill="#3498db" stroke="#2980b9" stroke-width="2" rx="5"/>
     <text x="140" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">1. IDENTIFISER</text>
     <text x="140" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">KONTRAKT</text>
     <text x="140" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Med kunde</text>
     
-    <!-- Arrow 1 -->
+
     <path d="M 230 140 L 250 140" stroke="#34495e" stroke-width="3" marker-end="url(#arrowhead)"/>
     
-    <!-- Step 2 -->
+
     <rect x="260" y="100" width="180" height="80" fill="#e74c3c" stroke="#c0392b" stroke-width="2" rx="5"/>
     <text x="350" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">2. IDENTIFISER</text>
     <text x="350" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">YTELSESFORPLIKTELSER</text>
     <text x="350" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">I kontrakten</text>
     
-    <!-- Arrow 2 -->
+
     <path d="M 440 140 L 460 140" stroke="#34495e" stroke-width="3" marker-end="url(#arrowhead)"/>
     
-    <!-- Step 3 -->
+
     <rect x="470" y="100" width="180" height="80" fill="#f39c12" stroke="#e67e22" stroke-width="2" rx="5"/>
     <text x="560" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">3. BESTEM</text>
     <text x="560" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">TRANSAKSJONSPRISEN</text>
     <text x="560" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Total vederlag</text>
     
-    <!-- Arrow 3 -->
+
     <path d="M 650 140 L 670 140" stroke="#34495e" stroke-width="3" marker-end="url(#arrowhead)"/>
     
-    <!-- Step 4 -->
+
     <rect x="680" y="100" width="180" height="80" fill="#27ae60" stroke="#229954" stroke-width="2" rx="5"/>
     <text x="770" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">4. ALLOKÉR</text>
     <text x="770" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">TRANSAKSJONSPRISEN</text>
     <text x="770" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Til ytelsesforpliktelser</text>
     
-    <!-- Arrow down -->
+
     <path d="M 770 180 L 770 220" stroke="#34495e" stroke-width="3" marker-end="url(#arrowhead)"/>
     
-    <!-- Step 5 -->
+
     <rect x="680" y="240" width="180" height="80" fill="#9b59b6" stroke="#8e44ad" stroke-width="2" rx="5"/>
     <text x="770" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">5. INNREGN</text>
     <text x="770" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">INNTEKT</text>
     <text x="770" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Ved ytelsesoppfyllelse</text>
   </g>
   
-  <!-- Accounting timeline -->
+
   <text x="50" y="370" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">Regnskapsmessig Tidslinje</text>
   
-  <!-- Timeline stages -->
+
   <g>
-    <!-- Stage 1: Tender phase -->
+
     <rect x="50" y="400" width="200" height="100" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2" rx="5"/>
     <text x="150" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">TILBUDSSTADIET</text>
     
@@ -66,10 +66,10 @@
     <text x="70" y="475" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Tilbudskostnader som salgsomkostninger</text>
     <text x="70" y="490" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Eventualforpliktelser i noter</text>
     
-    <!-- Arrow -->
+
     <path d="M 250 450 L 290 450" stroke="#34495e" stroke-width="3" marker-end="url(#arrowhead)"/>
     
-    <!-- Stage 2: Contract signing -->
+
     <rect x="310" y="400" width="200" height="100" fill="#d5f4e6" stroke="#27ae60" stroke-width="2" rx="5"/>
     <text x="410" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">KONTRAKTSINNGÅELSE</text>
     
@@ -78,10 +78,10 @@
     <text x="330" y="475" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Inntektsføring etter leveranseprinsipp</text>
     <text x="330" y="490" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Periodisering av kostnader</text>
     
-    <!-- Arrow -->
+
     <path d="M 510 450 L 550 450" stroke="#34495e" stroke-width="3" marker-end="url(#arrowhead)"/>
     
-    <!-- Stage 3: Invoicing -->
+
     <rect x="570" y="400" width="200" height="100" fill="#fef9e7" stroke="#f4d03f" stroke-width="2" rx="5"/>
     <text x="670" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">FAKTURERING</text>
     
@@ -90,10 +90,10 @@
     <text x="590" y="475" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Kontraktseiendel reduseres</text>
     <text x="590" y="490" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• MVA-behandling</text>
     
-    <!-- Arrow -->
+
     <path d="M 770 450 L 810 450" stroke="#34495e" stroke-width="3" marker-end="url(#arrowhead)"/>
     
-    <!-- Stage 4: Payment -->
+
     <rect x="830" y="400" width="120" height="100" fill="#e8f8f5" stroke="#1abc9c" stroke-width="2" rx="5"/>
     <text x="890" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">BETALING</text>
     
@@ -103,10 +103,10 @@
     <text x="845" y="490" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Kontantstrøm</text>
   </g>
   
-  <!-- Journal entries examples -->
+
   <text x="50" y="550" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">Eksempler på Bilagsposter</text>
   
-  <!-- Entry 1: Tender costs -->
+
   <rect x="50" y="570" width="450" height="80" fill="#fadbd8" stroke="#e74c3c" stroke-width="1" rx="5"/>
   <text x="70" y="590" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">Ved tilbudsavgivelse (tilbudskostnader):</text>
   <text x="70" y="610" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">Dr. Salgsomkostninger</text>
@@ -115,7 +115,7 @@
   <text x="370" y="625" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">50,000</text>
   <text x="70" y="640" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">(Kostnader ved tilbudsutarbeidelse)</text>
   
-  <!-- Entry 2: Contract asset -->
+
   <rect x="520" y="570" width="450" height="80" fill="#d5f4e6" stroke="#27ae60" stroke-width="1" rx="5"/>
   <text x="540" y="590" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">Ved kontraktsinngåelse (ytelsesoppfyllelse):</text>
   <text x="540" y="610" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">Dr. Kontraktseiendel</text>
@@ -124,7 +124,7 @@
   <text x="840" y="625" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">1,000,000</text>
   <text x="540" y="640" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">(Inntektsføring ved leveranse)</text>
   
-  <!-- Entry 3: Invoicing -->
+
   <rect x="50" y="670" width="450" height="80" fill="#fef9e7" stroke="#f4d03f" stroke-width="1" rx="5"/>
   <text x="70" y="690" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">Ved fakturering:</text>
   <text x="70" y="710" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">Dr. Kundefordringer</text>
@@ -134,7 +134,7 @@
   <text x="90" y="740" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">Kr. Utgående merverdiavgift</text>
   <text x="340" y="740" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">250,000</text>
   
-  <!-- Entry 4: Payment -->
+
   <rect x="520" y="670" width="450" height="80" fill="#e8f8f5" stroke="#1abc9c" stroke-width="1" rx="5"/>
   <text x="540" y="690" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">Ved betaling:</text>
   <text x="540" y="710" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">Dr. Bank</text>
@@ -143,7 +143,7 @@
   <text x="790" y="725" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">1,250,000</text>
   <text x="540" y="740" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">(Overføring til bankkonto)</text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>

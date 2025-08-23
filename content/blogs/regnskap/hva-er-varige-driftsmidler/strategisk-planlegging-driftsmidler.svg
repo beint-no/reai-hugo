@@ -18,15 +18,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8fafc"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e293b">
     Strategisk Planlegging av Varige Driftsmidler
   </text>
   
-  <!-- Central planning hub -->
+
   <circle cx="400" cy="300" r="80" fill="url(#blueGradient)" stroke="#1e40af" stroke-width="3"/>
   <text x="400" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Strategisk
@@ -35,7 +35,7 @@
     Planlegging
   </text>
   
-  <!-- 5-års investeringsplan -->
+
   <rect x="50" y="80" width="150" height="100" rx="10" fill="url(#greenGradient)" stroke="#059669" stroke-width="2"/>
   <text x="125" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     5-års
@@ -53,7 +53,7 @@
     • Tidsplanlegging
   </text>
   
-  <!-- Teknologiutvikling -->
+
   <rect x="600" y="80" width="150" height="100" rx="10" fill="url(#purpleGradient)" stroke="#7c3aed" stroke-width="2"/>
   <text x="675" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     Teknologi-
@@ -71,7 +71,7 @@
     • Automatisering
   </text>
   
-  <!-- Kapasitetsplanlegging -->
+
   <rect x="50" y="450" width="150" height="100" rx="10" fill="url(#orangeGradient)" stroke="#d97706" stroke-width="2"/>
   <text x="125" y="475" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     Kapasitets-
@@ -89,7 +89,7 @@
     • Effektivitet
   </text>
   
-  <!-- Bærekraftshensyn -->
+
   <rect x="600" y="450" width="150" height="100" rx="10" fill="#059669" stroke="#047857" stroke-width="2"/>
   <text x="675" y="475" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     Bærekrafts-
@@ -107,7 +107,7 @@
     • Sirkulærøkonomi
   </text>
   
-  <!-- Livssyklusanalyse -->
+
   <ellipse cx="280" cy="200" rx="80" ry="50" fill="#f1f5f9" stroke="#64748b" stroke-width="2"/>
   <text x="280" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">
     Livssyklus-
@@ -119,7 +119,7 @@
     TCO • Driftskostnader
   </text>
   
-  <!-- Risikohåndtering -->
+
   <ellipse cx="520" cy="200" rx="80" ry="50" fill="#f1f5f9" stroke="#64748b" stroke-width="2"/>
   <text x="520" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">
     Risiko-
@@ -131,7 +131,7 @@
     Forsikring • Backup
   </text>
   
-  <!-- Kostnadsoptimalisering -->
+
   <ellipse cx="280" cy="400" rx="80" ry="50" fill="#f1f5f9" stroke="#64748b" stroke-width="2"/>
   <text x="280" y="395" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">
     Kostnads-
@@ -143,7 +143,7 @@
     Effektivitet • ROI
   </text>
   
-  <!-- Compliance -->
+
   <ellipse cx="520" cy="400" rx="80" ry="50" fill="#f1f5f9" stroke="#64748b" stroke-width="2"/>
   <text x="520" y="395" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">
     Compliance &amp;
@@ -155,29 +155,29 @@
     Regulering • Kvalitet
   </text>
   
-  <!-- Connections from central hub -->
+
   <line x1="340" y1="250" x2="200" y2="130" stroke="#3b82f6" stroke-width="3" opacity="0.7"/>
   <line x1="460" y1="250" x2="600" y2="130" stroke="#3b82f6" stroke-width="3" opacity="0.7"/>
   <line x1="340" y1="350" x2="200" y2="500" stroke="#3b82f6" stroke-width="3" opacity="0.7"/>
   <line x1="460" y1="350" x2="600" y2="500" stroke="#3b82f6" stroke-width="3" opacity="0.7"/>
   
-  <!-- Connections to secondary elements -->
+
   <line x1="350" y1="270" x2="280" y2="200" stroke="#64748b" stroke-width="2" opacity="0.5"/>
   <line x1="450" y1="270" x2="520" y2="200" stroke="#64748b" stroke-width="2" opacity="0.5"/>
   <line x1="350" y1="330" x2="280" y2="400" stroke="#64748b" stroke-width="2" opacity="0.5"/>
   <line x1="450" y1="330" x2="520" y2="400" stroke="#64748b" stroke-width="2" opacity="0.5"/>
   
-  <!-- Timeline indicator -->
+
   <rect x="300" y="560" width="200" height="30" rx="15" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
   <text x="400" y="580" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">
     Kontinuerlig planleggingssyklus
   </text>
   
-  <!-- Process flow indicators -->
+
   <path d="M 250 300 Q 300 280 350 300" stroke="#3b82f6" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 450 300 Q 500 280 550 300" stroke="#3b82f6" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#3b82f6"/>

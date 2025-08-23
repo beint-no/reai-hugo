@@ -10,25 +10,25 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#F8F9FA"/>
   
-  <!-- Title -->
+
   <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2C3E50">
     Varselsignaler for Dårlig Likviditet
   </text>
   
-  <!-- Warning icon -->
+
   <polygon points="400,70 420,110 380,110" fill="#E74C3C"/>
   <text x="400" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">!</text>
   
-  <!-- Left column - Critical signals -->
+
   <rect x="50" y="130" width="320" height="320" fill="url(#warningGrad)" rx="12"/>
   <text x="210" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
     KRITISKE VARSELSIGNALER
   </text>
   
-  <!-- Critical warning items -->
+
   <rect x="70" y="180" width="280" height="40" fill="rgba(255,255,255,0.2)" rx="5"/>
   <text x="85" y="200" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     📉 Fallende likviditetsgrader
@@ -69,13 +69,13 @@
     Uten tilsvarende salgsøkning
   </text>
   
-  <!-- Right column - Early warning signals -->
+
   <rect x="430" y="130" width="320" height="320" fill="url(#alertGrad)" rx="12"/>
   <text x="590" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
     TIDLIGE VARSELSIGNALER
   </text>
   
-  <!-- Early warning items -->
+
   <rect x="450" y="180" width="280" height="40" fill="rgba(255,255,255,0.2)" rx="5"/>
   <text x="465" y="200" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     📈 Økende kundefordringer
@@ -116,7 +116,7 @@
     Leverandører krever tettere oppfølging
   </text>
   
-  <!-- Bottom action box -->
+
   <rect x="100" y="470" width="600" height="20" fill="#2C3E50" rx="5"/>
   <text x="400" y="485" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     HANDLING KREVES: Tidlig identifikasjon og korrigerende tiltak er avgjørende

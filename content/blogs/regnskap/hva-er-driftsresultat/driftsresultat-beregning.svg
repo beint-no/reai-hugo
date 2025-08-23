@@ -10,16 +10,16 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
   <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
     Beregning av Driftsresultat
   </text>
   
-  <!-- Main formula -->
+
   <rect x="50" y="90" width="700" height="80" fill="url(#formulaGradient)" stroke="#0066cc" stroke-width="2" rx="10"/>
   <text x="400" y="125" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" fill="#0066cc">
     Driftsresultat = Driftsinntekter - Driftskostnader
@@ -28,10 +28,10 @@
     Grunnleggende formel for operasjonell lønnsomhet
   </text>
   
-  <!-- Detailed calculation table -->
+
   <rect x="50" y="200" width="700" height="350" fill="white" stroke="#dee2e6" stroke-width="1" rx="5"/>
   
-  <!-- Table header -->
+
   <rect x="50" y="200" width="700" height="40" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1"/>
   <text x="150" y="225" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#333">
     Post
@@ -43,7 +43,7 @@
     Beløp (NOK)
   </text>
   
-  <!-- Income section -->
+
   <rect x="50" y="240" width="700" height="20" fill="#e8f5e8"/>
   <text x="70" y="255" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#28a745">
     DRIFTSINNTEKTER
@@ -77,7 +77,7 @@
     10 500 000
   </text>
   
-  <!-- Expense section -->
+
   <rect x="50" y="340" width="700" height="20" fill="#fde8e8"/>
   <text x="70" y="355" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#dc3545">
     DRIFTSKOSTNADER
@@ -131,7 +131,7 @@
     -9 500 000
   </text>
   
-  <!-- Result section -->
+
   <rect x="50" y="480" width="700" height="40" fill="#e8f4fd" stroke="#0066cc" stroke-width="2"/>
   <text x="70" y="505" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#0066cc">
     DRIFTSRESULTAT
@@ -140,7 +140,7 @@
     1 000 000
   </text>
   
-  <!-- Bottom note -->
+
   <text x="400" y="570" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#666">
     Driftsmargin: (1 000 000 ÷ 10 500 000) × 100 = 9,5%
   </text>

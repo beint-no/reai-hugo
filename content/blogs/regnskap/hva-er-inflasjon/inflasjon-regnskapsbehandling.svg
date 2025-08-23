@@ -1,15 +1,15 @@
 <svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">Regnskapsbehandling av Inflasjon</text>
   
-  <!-- Historical Cost vs Inflation Adjusted -->
+
   <g transform="translate(50, 80)">
     <text x="350" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">REGNSKAPSPRINSIPPER</text>
     
-    <!-- Historical Cost -->
+
     <rect x="0" y="40" width="300" height="150" fill="#e74c3c" rx="15"/>
     <text x="150" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">HISTORISK KOST</text>
     <text x="150" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">(Norsk praksis)</text>
@@ -22,7 +22,7 @@
     <text x="20" y="175" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Utfordringer:</text>
     <text x="25" y="190" font-family="Arial, sans-serif" font-size="11" fill="white">• Undervurderte eiendeler</text>
     
-    <!-- Inflation Adjusted -->
+
     <rect x="350" y="40" width="300" height="150" fill="#27ae60" rx="15"/>
     <text x="500" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">INFLASJONSJUSTERT</text>
     <text x="500" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">(Høy inflasjon)</text>
@@ -36,11 +36,11 @@
     <text x="375" y="190" font-family="Arial, sans-serif" font-size="11" fill="white">• Realistiske verdier</text>
   </g>
   
-  <!-- Monetary vs Non-monetary Items -->
+
   <g transform="translate(50, 260)">
     <text x="350" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">BEHANDLING AV BALANSEPOSTE</text>
     
-    <!-- Monetary Items -->
+
     <rect x="0" y="40" width="300" height="120" fill="#3498db" rx="15"/>
     <text x="150" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">MONETÆRE POSTER</text>
     
@@ -51,7 +51,7 @@
     
     <text x="20" y="155" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Behandling: Ikke justeres</text>
     
-    <!-- Non-monetary Items -->
+
     <rect x="350" y="40" width="300" height="120" fill="#f39c12" rx="15"/>
     <text x="500" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">IKKE-MONETÆRE POSTER</text>
     
@@ -63,7 +63,7 @@
     <text x="370" y="155" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Behandling: Justeres</text>
   </g>
   
-  <!-- Disclosure Requirements -->
+
   <g transform="translate(50, 420)">
     <text x="350" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">NOTEOPPLYSNINGER</text>
     
@@ -90,7 +90,7 @@
     </g>
   </g>
   
-  <!-- Example calculation box -->
+
   <g transform="translate(450, 80)">
     <rect x="250" y="200" width="300" height="140" fill="#ecf0f1" rx="10" stroke="#bdc3c7" stroke-width="2"/>
     <text x="400" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">EKSEMPEL</text>

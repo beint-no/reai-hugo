@@ -10,10 +10,10 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#1e293b">
     Utgående Balanse (UB)
   </text>
@@ -21,8 +21,8 @@
     Saldooverføring mellom regnskapsperioder
   </text>
   
-  <!-- Period boxes -->
-  <!-- Periode 1 -->
+
+
   <rect x="50" y="120" width="180" height="200" fill="url(#cardGradient)" stroke="#cbd5e1" stroke-width="2" rx="8"/>
   <text x="140" y="145" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#1e293b">
     Periode 1
@@ -31,7 +31,7 @@
     (Januar - Desember)
   </text>
   
-  <!-- IB Periode 1 -->
+
   <rect x="70" y="185" width="140" height="35" fill="#dbeafe" stroke="#3b82f6" stroke-width="1" rx="4"/>
   <text x="140" y="200" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#1e40af">
     Inngående Balanse
@@ -40,7 +40,7 @@
     Kr 100.000
   </text>
   
-  <!-- Bevegelser -->
+
   <text x="140" y="240" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#374151">
     + Innskudd: Kr 50.000
   </text>
@@ -48,7 +48,7 @@
     - Uttak: Kr 30.000
   </text>
   
-  <!-- UB Periode 1 -->
+
   <rect x="70" y="270" width="140" height="35" fill="#dcfce7" stroke="#16a34a" stroke-width="1" rx="4"/>
   <text x="140" y="285" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#166534">
     Utgående Balanse
@@ -57,7 +57,7 @@
     Kr 120.000
   </text>
   
-  <!-- Arrow -->
+
   <path d="M250 220 L350 220" stroke="#6366f1" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
@@ -65,7 +65,7 @@
     </marker>
   </defs>
   
-  <!-- Transfer label -->
+
   <text x="300" y="210" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#6366f1">
     UB → IB
   </text>
@@ -73,7 +73,7 @@
     Automatisk overføring
   </text>
   
-  <!-- Periode 2 -->
+
   <rect x="370" y="120" width="180" height="200" fill="url(#cardGradient)" stroke="#cbd5e1" stroke-width="2" rx="8"/>
   <text x="460" y="145" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#1e293b">
     Periode 2
@@ -82,7 +82,7 @@
     (Januar - Desember)
   </text>
   
-  <!-- IB Periode 2 -->
+
   <rect x="390" y="185" width="140" height="35" fill="#dbeafe" stroke="#3b82f6" stroke-width="1" rx="4"/>
   <text x="460" y="200" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#1e40af">
     Inngående Balanse
@@ -91,7 +91,7 @@
     Kr 120.000
   </text>
   
-  <!-- Bevegelser -->
+
   <text x="460" y="240" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#374151">
     + Innskudd: Kr 75.000
   </text>
@@ -99,7 +99,7 @@
     - Uttak: Kr 45.000
   </text>
   
-  <!-- UB Periode 2 -->
+
   <rect x="390" y="270" width="140" height="35" fill="#dcfce7" stroke="#16a34a" stroke-width="1" rx="4"/>
   <text x="460" y="285" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#166534">
     Utgående Balanse
@@ -108,7 +108,7 @@
     Kr 150.000
   </text>
   
-  <!-- Kontinuitet section -->
+
   <rect x="570" y="120" width="180" height="200" fill="#fef3c7" stroke="#f59e0b" stroke-width="2" rx="8"/>
   <text x="660" y="145" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#92400e">
     Kontinuitet
@@ -136,7 +136,7 @@
     ✓ Avstemming
   </text>
   
-  <!-- Formula section -->
+
   <rect x="100" y="360" width="600" height="120" fill="url(#cardGradient)" stroke="#cbd5e1" stroke-width="2" rx="8"/>
   <text x="400" y="385" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#1e293b">
     Grunnleggende Formel
@@ -154,7 +154,7 @@
     UB periode n = IB periode n+1
   </text>
   
-  <!-- Key points -->
+
   <rect x="50" y="510" width="700" height="70" fill="#f0f9ff" stroke="#0ea5e9" stroke-width="1" rx="6"/>
   <text x="400" y="530" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0c4a6e">
     Viktige Prinsipper for Utgående Balanse

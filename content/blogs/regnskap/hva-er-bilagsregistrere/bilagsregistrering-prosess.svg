@@ -22,10 +22,10 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#333">
     Bilagsregistreringsprosessen
   </text>
@@ -33,7 +33,7 @@
     Systematisk tilnærming til dokumentbehandling
   </text>
   
-  <!-- Step 1: Mottak og Innledende Sortering -->
+
   <g transform="translate(50, 100)">
     <rect x="0" y="0" width="300" height="100" rx="10" fill="url(#step1Gradient)" opacity="0.9"/>
     <text x="150" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
@@ -45,13 +45,13 @@
     <text x="20" y="90" font-family="Arial, sans-serif" font-size="12" fill="white">• Foreløpig nummerering</text>
   </g>
   
-  <!-- Arrow 1 -->
+
   <g transform="translate(400, 140)">
     <path d="M 0 0 L 40 0 L 35 -5 M 40 0 L 35 5" stroke="url(#arrowGradient)" stroke-width="3" fill="none"/>
     <text x="20" y="-10" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#666">Videre til</text>
   </g>
   
-  <!-- Step 2: Detaljert Registrering -->
+
   <g transform="translate(450, 100)">
     <rect x="0" y="0" width="300" height="100" rx="10" fill="url(#step2Gradient)" opacity="0.9"/>
     <text x="150" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
@@ -63,13 +63,13 @@
     <text x="20" y="90" font-family="Arial, sans-serif" font-size="12" fill="white">• Kontering til riktige kontoer</text>
   </g>
   
-  <!-- Arrow 2 -->
+
   <g transform="translate(600, 220)">
     <path d="M 0 0 L 0 40 L -5 35 M 0 40 L 5 35" stroke="url(#arrowGradient)" stroke-width="3" fill="none"/>
     <text x="15" y="20" font-family="Arial, sans-serif" font-size="11" fill="#666">Videre til</text>
   </g>
   
-  <!-- Step 3: Attestering og Godkjenning -->
+
   <g transform="translate(450, 280)">
     <rect x="0" y="0" width="300" height="100" rx="10" fill="url(#step3Gradient)" opacity="0.9"/>
     <text x="150" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
@@ -81,13 +81,13 @@
     <text x="20" y="90" font-family="Arial, sans-serif" font-size="12" fill="white">• Godkjenning for bokføring</text>
   </g>
   
-  <!-- Arrow 3 -->
+
   <g transform="translate(400, 320)">
     <path d="M 0 0 L -40 0 L -35 -5 M -40 0 L -35 5" stroke="url(#arrowGradient)" stroke-width="3" fill="none"/>
     <text x="-20" y="-10" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#666">Videre til</text>
   </g>
   
-  <!-- Step 4: Arkivering -->
+
   <g transform="translate(50, 280)">
     <rect x="0" y="0" width="300" height="100" rx="10" fill="url(#step4Gradient)" opacity="0.9"/>
     <text x="150" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
@@ -99,14 +99,14 @@
     <text x="20" y="90" font-family="Arial, sans-serif" font-size="12" fill="white">• Sikker oppbevaring i 5-10 år</text>
   </g>
   
-  <!-- Process Flow Indicators -->
+
   <g transform="translate(50, 420)">
     <rect x="0" y="0" width="700" height="120" rx="10" fill="#ffffff" stroke="#ddd" stroke-width="2"/>
     <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#333">
       Kvalitetskontroll og Oppfølging
     </text>
     
-    <!-- Quality controls -->
+
     <g transform="translate(30, 40)">
       <rect x="0" y="0" width="150" height="60" rx="5" fill="#E8F5E8" stroke="#4CAF50" stroke-width="1"/>
       <text x="75" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2E7D32">
@@ -144,7 +144,7 @@
     </g>
   </g>
   
-  <!-- Footer note -->
+
   <text x="400" y="570" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#666" font-style="italic">
     Systematisk bilagsregistrering sikrer god regnskapsskikk og juridisk etterlevelse
   </text>

@@ -11,13 +11,13 @@
     .content-bg { fill: #f7fafc; stroke: #a0aec0; stroke-width: 1; }
   </style>
   
-  <!-- Background -->
+
   <rect width="700" height="400" fill="#ffffff"/>
   
-  <!-- Title -->
+
   <text x="350" y="30" class="title-text">Likviditetsnivåer - Analyse</text>
   
-  <!-- Level 1 - Highest liquidity -->
+
   <rect x="50" y="70" width="150" height="40" class="level1-bg" rx="5"/>
   <text x="125" y="95" class="level-text">1. Likviditet</text>
   
@@ -26,7 +26,7 @@
   <text x="70" y="155" class="value-text">500.000 NOK</text>
   <text x="70" y="170" class="item-text" font-style="italic">Øyeblikkelig tilgjengelig</text>
   
-  <!-- Level 2 -->
+
   <rect x="220" y="70" width="150" height="40" class="level2-bg" rx="5"/>
   <text x="295" y="95" class="level-text">2. Likviditet</text>
   
@@ -35,7 +35,7 @@
   <text x="240" y="155" class="item-text">investeringer</text>
   <text x="240" y="170" class="value-text">500.000 + 0 = 500.000</text>
   
-  <!-- Level 3 -->
+
   <rect x="390" y="70" width="150" height="40" class="level3-bg" rx="5"/>
   <text x="465" y="95" class="level-text">3. Likviditet</text>
   
@@ -44,7 +44,7 @@
   <text x="410" y="155" class="value-text">500.000 + 1.200.000</text>
   <text x="410" y="170" class="value-text">= 1.700.000</text>
   
-  <!-- Level 4 -->
+
   <rect x="560" y="70" width="120" height="40" class="level4-bg" rx="5"/>
   <text x="620" y="95" class="level-text">4. Likviditet</text>
   
@@ -54,11 +54,11 @@
   <text x="580" y="160" class="value-text">+ 800.000</text>
   <text x="580" y="175" class="value-text">= 2.500.000</text>
   
-  <!-- Liquidity pyramid -->
+
   <rect x="150" y="220" width="400" height="150" class="content-bg" rx="8"/>
   <text x="350" y="245" class="title-text" font-size="18">Likviditetspyramide</text>
   
-  <!-- Pyramid levels -->
+
   <rect x="300" y="260" width="100" height="20" class="level1-bg"/>
   <text x="350" y="275" class="level-text" font-size="12">Kontanter</text>
   
@@ -71,7 +71,7 @@
   <rect x="200" y="335" width="300" height="20" class="level4-bg"/>
   <text x="350" y="350" class="level-text" font-size="12">+ Varelager (Total omløpsmidler)</text>
   
-  <!-- Analysis note -->
+
   <text x="350" y="385" class="item-text" text-anchor="middle" font-style="italic">
     Jo høyere nivå, desto lengre tid til kontanter
   </text>

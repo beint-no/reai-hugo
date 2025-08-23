@@ -14,43 +14,43 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8fafc"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e293b">Regnskapsperioder - Hierarkisk Oversikt</text>
   
-  <!-- Regnskapsår (top level) -->
+
   <g transform="translate(100, 80)">
     <rect x="0" y="0" width="600" height="60" fill="url(#yearGrad)" rx="8"/>
     <text x="300" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">REGNSKAPSÅR 2024</text>
     <text x="300" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">1. januar - 31. desember (12 måneder)</text>
   </g>
   
-  <!-- Kvartaler (second level) -->
+
   <g transform="translate(100, 170)">
-    <!-- Q1 -->
+
     <rect x="0" y="0" width="140" height="80" fill="url(#quarterGrad)" rx="6"/>
     <text x="70" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">KVARTAL 1</text>
     <text x="70" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Jan - Mar</text>
     <text x="70" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Årsbudsjett</text>
     <text x="70" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Prognoser</text>
     
-    <!-- Q2 -->
+
     <rect x="155" y="0" width="140" height="80" fill="url(#quarterGrad)" rx="6"/>
     <text x="225" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">KVARTAL 2</text>
     <text x="225" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Apr - Jun</text>
     <text x="225" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Halvårsrapport</text>
     <text x="225" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Utvidet rapportering</text>
     
-    <!-- Q3 -->
+
     <rect x="310" y="0" width="140" height="80" fill="url(#quarterGrad)" rx="6"/>
     <text x="380" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">KVARTAL 3</text>
     <text x="380" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Jul - Sep</text>
     <text x="380" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Sommerferie</text>
     <text x="380" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">påvirkning</text>
     
-    <!-- Q4 -->
+
     <rect x="465" y="0" width="135" height="80" fill="url(#quarterGrad)" rx="6"/>
     <text x="532" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">KVARTAL 4</text>
     <text x="532" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Okt - Des</text>
@@ -58,49 +58,49 @@
     <text x="532" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Budsjett neste år</text>
   </g>
   
-  <!-- Måneder (third level) - showing Q1 breakdown as example -->
+
   <g transform="translate(100, 280)">
     <text x="70" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">Q1 Måneder:</text>
     
-    <!-- Januar -->
+
     <rect x="0" y="25" width="45" height="60" fill="url(#monthGrad)" rx="4"/>
     <text x="22" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">JAN</text>
     <text x="22" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">Ny start</text>
     <text x="22" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">Budsjett</text>
     
-    <!-- Februar -->
+
     <rect x="50" y="25" width="45" height="60" fill="url(#monthGrad)" rx="4"/>
     <text x="72" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">FEB</text>
     <text x="72" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">Skatte-</text>
     <text x="72" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">termin</text>
     
-    <!-- Mars -->
+
     <rect x="100" y="25" width="45" height="60" fill="url(#monthGrad)" rx="4"/>
     <text x="122" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">MAR</text>
     <text x="122" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">Q1</text>
     <text x="122" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">rapport</text>
   </g>
   
-  <!-- Rapporteringsfrekvens oversikt -->
+
   <g transform="translate(400, 280)">
     <text x="100" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#374151">Rapporteringsfrekvens</text>
     
     <rect x="0" y="25" width="200" height="130" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1" rx="6"/>
     
     <g transform="translate(10, 40)">
-      <!-- Årlig -->
+
       <circle cx="8" cy="8" r="4" fill="#1e40af"/>
       <text x="20" y="12" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e293b">Årlig rapportering:</text>
       <text x="20" y="26" font-family="Arial, sans-serif" font-size="9" fill="#475569">• Årsregnskap (30. juni)</text>
       <text x="20" y="38" font-family="Arial, sans-serif" font-size="9" fill="#475569">• Skattemelding (31. mai)</text>
       
-      <!-- Kvartalsvis -->
+
       <circle cx="8" cy="58" r="4" fill="#059669"/>
       <text x="20" y="62" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e293b">Kvartalsvis:</text>
       <text x="20" y="76" font-family="Arial, sans-serif" font-size="9" fill="#475569">• Delårsrapporter</text>
       <text x="20" y="88" font-family="Arial, sans-serif" font-size="9" fill="#475569">• Styringsinformasjon</text>
       
-      <!-- Månedlig -->
+
       <circle cx="8" cy="108" r="4" fill="#d97706"/>
       <text x="20" y="112" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e293b">Månedlig:</text>
       <text x="20" y="126" font-family="Arial, sans-serif" font-size="9" fill="#475569">• MVA-rapporter</text>
@@ -108,11 +108,11 @@
     </g>
   </g>
   
-  <!-- Spesielle terminer -->
+
   <g transform="translate(100, 420)">
     <text x="300" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#374151">Spesielle Termintyper</text>
     
-    <!-- Avvikende regnskapsår -->
+
     <g transform="translate(0, 30)">
       <rect x="0" y="0" width="180" height="70" fill="#fef3c7" stroke="#f59e0b" stroke-width="1" rx="6"/>
       <text x="90" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#92400e">Avvikende regnskapsår</text>
@@ -121,7 +121,7 @@
       <text x="90" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#92400e">i årsavslutning</text>
     </g>
     
-    <!-- Korte regnskapsår -->
+
     <g transform="translate(210, 30)">
       <rect x="0" y="0" width="180" height="70" fill="#ddd6fe" stroke="#7c3aed" stroke-width="1" rx="6"/>
       <text x="90" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#5b21b6">Korte regnskapsår</text>
@@ -130,7 +130,7 @@
       <text x="90" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#5b21b6">Særskilte regler</text>
     </g>
     
-    <!-- 53-ukers år -->
+
     <g transform="translate(420, 30)">
       <rect x="0" y="0" width="180" height="70" fill="#fce7f3" stroke="#ec4899" stroke-width="1" rx="6"/>
       <text x="90" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#be185d">53-ukers år</text>
@@ -140,9 +140,9 @@
     </g>
   </g>
   
-  <!-- Connection lines -->
+
   <g stroke="#94a3b8" stroke-width="2" fill="none" opacity="0.6">
-    <!-- From year to quarters -->
+
     <line x1="400" y1="140" x2="400" y2="170"/>
     <line x1="250" y1="170" x2="550" y2="170"/>
     <line x1="170" y1="170" x2="170" y2="170"/>
@@ -150,7 +150,7 @@
     <line x1="380" y1="170" x2="380" y2="170"/>
     <line x1="532" y1="170" x2="532" y2="170"/>
     
-    <!-- From Q1 to months -->
+
     <line x1="170" y1="250" x2="170" y2="280"/>
     <line x1="100" y1="280" x2="240" y2="280"/>
     <line x1="122" y1="280" x2="122" y2="305"/>

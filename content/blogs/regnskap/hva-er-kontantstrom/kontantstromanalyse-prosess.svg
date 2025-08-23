@@ -10,15 +10,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#333">
     Kontantstrømanalyse Prosess
   </text>
   
-  <!-- Step 1: Data Collection -->
+
   <rect x="50" y="80" width="150" height="100" fill="url(#stepGradient)" rx="10"/>
   <text x="125" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     1. Datainnsamling
@@ -33,10 +33,10 @@
     • Budsjetter
   </text>
   
-  <!-- Arrow 1 -->
+
   <path d="M 210 130 L 240 130" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 2: Categorization -->
+
   <rect x="250" y="80" width="150" height="100" fill="url(#stepGradient)" rx="10"/>
   <text x="325" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     2. Kategorisering
@@ -51,10 +51,10 @@
     • Finansieringsaktiviteter
   </text>
   
-  <!-- Arrow 2 -->
+
   <path d="M 410 130 L 440 130" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 3: Key Metrics -->
+
   <rect x="450" y="80" width="150" height="100" fill="url(#stepGradient)" rx="10"/>
   <text x="525" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     3. Nøkkeltall
@@ -69,10 +69,10 @@
     • Kontantstrøm per aksje
   </text>
   
-  <!-- Arrow down -->
+
   <path d="M 525 190 L 525 220" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 4: Pattern Analysis -->
+
   <rect x="450" y="230" width="150" height="100" fill="url(#stepGradient)" rx="10"/>
   <text x="525" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     4. Mønsteranalyse
@@ -87,10 +87,10 @@
     • Nedgangsfase
   </text>
   
-  <!-- Arrow left -->
+
   <path d="M 440 280 L 410 280" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 5: Trend Analysis -->
+
   <rect x="250" y="230" width="150" height="100" fill="url(#stepGradient)" rx="10"/>
   <text x="325" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     5. Trendanalyse
@@ -105,10 +105,10 @@
     • Vekstmønstre
   </text>
   
-  <!-- Arrow left -->
+
   <path d="M 240 280 L 210 280" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 6: Risk Assessment -->
+
   <rect x="50" y="230" width="150" height="100" fill="url(#stepGradient)" rx="10"/>
   <text x="125" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     6. Risikovurdering
@@ -123,10 +123,10 @@
     • Markedsrisiko
   </text>
   
-  <!-- Arrow down -->
+
   <path d="M 125 340 L 125 370" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 7: Recommendations -->
+
   <rect x="50" y="380" width="500" height="80" fill="url(#processGradient)" rx="10"/>
   <text x="300" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     7. Anbefalinger og Handlingsplan
@@ -138,7 +138,7 @@
     • Finansieringsalternativer • Operasjonelle endringer • Overvåkingssystem
   </text>
   
-  <!-- Key Metrics Box -->
+
   <rect x="620" y="80" width="160" height="280" fill="#e8f5e8" stroke="#4CAF50" stroke-width="2" rx="10"/>
   <text x="700" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2E7D32">
     Viktige Nøkkeltall
@@ -179,7 +179,7 @@
     Omsetning ÷ Snitt arbeidskapital
   </text>
   
-  <!-- Analysis Results -->
+
   <rect x="50" y="480" width="700" height="100" fill="#fff3e0" stroke="#FF9800" stroke-width="2" rx="10"/>
   <text x="400" y="505" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#E65100">
     Analyseresultater
@@ -194,7 +194,7 @@
     • Grunnlag for strategiske beslutninger og risikohåndtering
   </text>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#666"/>

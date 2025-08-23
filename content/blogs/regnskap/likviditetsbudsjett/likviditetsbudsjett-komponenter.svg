@@ -14,17 +14,17 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="#212529">
     Komponenter i likviditetsbudsjettet
   </text>
   
-  <!-- Main sections -->
+
   
-  <!-- Cash Inflows Section -->
+
   <rect x="50" y="80" width="300" height="220" fill="url(#inflowGradient)" stroke="#1e7e34" stroke-width="2" rx="10"/>
   <text x="200" y="110" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
     INNBETALINGER
@@ -33,7 +33,7 @@
     (Kontantinnstrøm)
   </text>
   
-  <!-- Inflow items -->
+
   <g transform="translate(70, 150)">
     <circle cx="15" cy="15" r="8" fill="white"/>
     <text x="35" y="20" font-family="Arial, sans-serif" font-size="12" fill="white">Salgsinnbetalinger</text>
@@ -54,7 +54,7 @@
     <text x="35" y="120" font-family="Arial, sans-serif" font-size="12" fill="white">Andre innbetalinger</text>
   </g>
   
-  <!-- Cash Outflows Section -->
+
   <rect x="450" y="80" width="300" height="220" fill="url(#outflowGradient)" stroke="#c82333" stroke-width="2" rx="10"/>
   <text x="600" y="110" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
     UTBETALINGER
@@ -63,7 +63,7 @@
     (Kontantutstrøm)
   </text>
   
-  <!-- Outflow items -->
+
   <g transform="translate(470, 150)">
     <circle cx="15" cy="15" r="8" fill="white"/>
     <text x="35" y="20" font-family="Arial, sans-serif" font-size="12" fill="white">Leverandørbetalinger</text>
@@ -84,18 +84,18 @@
     <text x="35" y="120" font-family="Arial, sans-serif" font-size="12" fill="white">Finanskostnader</text>
   </g>
   
-  <!-- Net Cash Flow Calculation -->
+
   <rect x="200" y="340" width="400" height="120" fill="#007bff" stroke="#0056b3" stroke-width="2" rx="10"/>
   <text x="400" y="370" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
     NETTO KONTANTSTRØM
   </text>
   
-  <!-- Formula -->
+
   <text x="400" y="400" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="white">
     Innbetalinger - Utbetalinger = Netto kontantstrøm
   </text>
   
-  <!-- Cash balance -->
+
   <text x="400" y="425" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
     + Kontantbeholdning ved periodens start
   </text>
@@ -103,20 +103,20 @@
     = Kontantbeholdning ved periodens slutt
   </text>
   
-  <!-- Arrows -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#6c757d"/>
     </marker>
   </defs>
   
-  <!-- Arrow from inflows to calculation -->
+
   <path d="M 200 320 Q 250 330 280 340" stroke="#6c757d" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow from outflows to calculation -->
+
   <path d="M 600 320 Q 550 330 520 340" stroke="#6c757d" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Time periods section -->
+
   <rect x="100" y="500" width="600" height="80" fill="white" stroke="#dee2e6" stroke-width="2" rx="8"/>
   <text x="400" y="525" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#212529">
     TIDSPERIODER

@@ -14,20 +14,20 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e293b">Regnskapsføring av Varekjøp</text>
   
-  <!-- Phase 1: Ved mottak av varer -->
+
   <g transform="translate(50,70)">
     <rect x="0" y="0" width="300" height="180" rx="10" fill="white" stroke="#e2e8f0" stroke-width="2"/>
     <text x="150" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">1. Ved Mottak av Varer</text>
     
-    <!-- T-account structure -->
+
     <g transform="translate(20,40)">
-      <!-- Debit side - Varelager -->
+
       <rect x="0" y="0" width="120" height="120" fill="url(#debitGradient)" opacity="0.1" stroke="url(#debitGradient)" stroke-width="2"/>
       <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#16a34a">DEBET</text>
       <text x="60" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#1e293b">Varelager</text>
@@ -40,7 +40,7 @@
     </g>
     
     <g transform="translate(160,40)">
-      <!-- Credit side - Leverandørgjeld -->
+
       <rect x="0" y="0" width="120" height="120" fill="url(#creditGradient)" opacity="0.1" stroke="url(#creditGradient)" stroke-width="2"/>
       <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#dc2626">KREDIT</text>
       <text x="60" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#1e293b">Leverandørgjeld</text>
@@ -53,14 +53,14 @@
     </g>
   </g>
   
-  <!-- Phase 2: Ved salg av varer -->
+
   <g transform="translate(450,70)">
     <rect x="0" y="0" width="300" height="180" rx="10" fill="white" stroke="#e2e8f0" stroke-width="2"/>
     <text x="150" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">2. Ved Salg av Varer</text>
     
-    <!-- T-account structure -->
+
     <g transform="translate(20,40)">
-      <!-- Debit side - Vareforbruk -->
+
       <rect x="0" y="0" width="120" height="120" fill="url(#debitGradient)" opacity="0.1" stroke="url(#debitGradient)" stroke-width="2"/>
       <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#16a34a">DEBET</text>
       <text x="60" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#1e293b">Vareforbruk</text>
@@ -73,7 +73,7 @@
     </g>
     
     <g transform="translate(160,40)">
-      <!-- Credit side - Varelager -->
+
       <rect x="0" y="0" width="120" height="120" fill="url(#creditGradient)" opacity="0.1" stroke="url(#creditGradient)" stroke-width="2"/>
       <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#dc2626">KREDIT</text>
       <text x="60" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#1e293b">Varelager</text>
@@ -86,19 +86,19 @@
     </g>
   </g>
   
-  <!-- Connection arrow -->
+
   <path d="M360,160 L440,160" stroke="#3b82f6" stroke-width="4" fill="none" marker-end="url(#arrowhead)"/>
   <text x="400" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#3b82f6">Matching-prinsippet</text>
   
-  <!-- Timeline -->
+
   <g transform="translate(100,280)">
     <rect x="0" y="0" width="600" height="180" rx="10" fill="white" stroke="#e2e8f0" stroke-width="2"/>
     <text x="300" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">Tidslinje og Regnskapseffekt</text>
     
-    <!-- Timeline line -->
+
     <line x1="50" y1="60" x2="550" y2="60" stroke="#64748b" stroke-width="2"/>
     
-    <!-- Timeline events -->
+
     <g transform="translate(50,40)">
       <circle cx="0" cy="20" r="8" fill="#3b82f6"/>
       <text x="0" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#1e293b">Bestilling</text>
@@ -126,7 +126,7 @@
       <text x="0" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#64748b">Lagerreduksjon</text>
     </g>
     
-    <!-- Key principles -->
+
     <g transform="translate(50,100)">
       <rect x="0" y="0" width="500" height="60" rx="5" fill="#f1f5f9"/>
       <text x="250" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">Viktige Prinsipper:</text>
@@ -137,7 +137,7 @@
     </g>
   </g>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#3b82f6"/>

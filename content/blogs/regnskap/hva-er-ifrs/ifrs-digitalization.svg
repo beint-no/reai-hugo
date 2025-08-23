@@ -13,29 +13,29 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="900" height="700" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="450" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" 
         text-anchor="middle" fill="#2c3e50">IFRS og Digitalisering</text>
   
-  <!-- Central IFRS circle with digital elements -->
+
   <circle cx="450" cy="150" r="60" fill="url(#digitalGradient)" filter="url(#digitalShadow)"/>
   <text x="450" y="145" font-family="Arial, sans-serif" font-size="18" font-weight="bold" 
         text-anchor="middle" fill="white">IFRS</text>
   <text x="450" y="165" font-family="Arial, sans-serif" font-size="12" 
         text-anchor="middle" fill="white">Digital</text>
   
-  <!-- Digital transformation arrows -->
+
   <polygon points="450,90 460,70 440,70" fill="#17a2b8"/>
   <polygon points="450,210 460,230 440,230" fill="#17a2b8"/>
   <polygon points="390,150 370,160 370,140" fill="#17a2b8"/>
   <polygon points="510,150 530,160 530,140" fill="#17a2b8"/>
   
-  <!-- Technology boxes around the center -->
+
   
-  <!-- AI & Machine Learning (top left) -->
+
   <rect x="150" y="80" width="180" height="100" fill="#28a745" rx="10" filter="url(#digitalShadow)"/>
   <text x="240" y="105" font-family="Arial, sans-serif" font-size="16" font-weight="bold" 
         text-anchor="middle" fill="white">Kunstig Intelligens</text>
@@ -44,7 +44,7 @@
   <text x="170" y="155" font-family="Arial, sans-serif" font-size="11" fill="white">• Prediktiv analyse</text>
   <text x="170" y="170" font-family="Arial, sans-serif" font-size="11" fill="white">• Risikoevaluering</text>
   
-  <!-- Automation (top right) -->
+
   <rect x="570" y="80" width="180" height="100" fill="#17a2b8" rx="10" filter="url(#digitalShadow)"/>
   <text x="660" y="105" font-family="Arial, sans-serif" font-size="16" font-weight="bold" 
         text-anchor="middle" fill="white">Automatisering</text>
@@ -53,7 +53,7 @@
   <text x="590" y="155" font-family="Arial, sans-serif" font-size="11" fill="white">• Kontroller &amp; avstemming</text>
   <text x="590" y="170" font-family="Arial, sans-serif" font-size="11" fill="white">• Compliance sjekk</text>
   
-  <!-- Blockchain (bottom left) -->
+
   <rect x="150" y="200" width="180" height="100" fill="#ffc107" rx="10" filter="url(#digitalShadow)"/>
   <text x="240" y="225" font-family="Arial, sans-serif" font-size="16" font-weight="bold" 
         text-anchor="middle" fill="#2c3e50">Blockchain</text>
@@ -62,7 +62,7 @@
   <text x="170" y="275" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">• Redusert svindel</text>
   <text x="170" y="290" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">• Smart kontrakter</text>
   
-  <!-- Cloud Solutions (bottom right) -->
+
   <rect x="570" y="200" width="180" height="100" fill="#6f42c1" rx="10" filter="url(#digitalShadow)"/>
   <text x="660" y="225" font-family="Arial, sans-serif" font-size="16" font-weight="bold" 
         text-anchor="middle" fill="white">Cloud-løsninger</text>
@@ -71,30 +71,30 @@
   <text x="590" y="275" font-family="Arial, sans-serif" font-size="11" fill="white">• Skalerbarhet</text>
   <text x="590" y="290" font-family="Arial, sans-serif" font-size="11" fill="white">• Kostnadseffektivitet</text>
   
-  <!-- Connection lines from center to technology boxes -->
+
   <line x1="390" y1="130" x2="330" y2="130" stroke="#6c757d" stroke-width="2" opacity="0.6"/>
   <line x1="510" y1="130" x2="570" y2="130" stroke="#6c757d" stroke-width="2" opacity="0.6"/>
   <line x1="390" y1="170" x2="330" y2="250" stroke="#6c757d" stroke-width="2" opacity="0.6"/>
   <line x1="510" y1="170" x2="570" y2="250" stroke="#6c757d" stroke-width="2" opacity="0.6"/>
   
-  <!-- XBRL Section -->
+
   <rect x="200" y="340" width="500" height="120" fill="url(#techGradient)" rx="15" filter="url(#digitalShadow)"/>
   <text x="450" y="370" font-family="Arial, sans-serif" font-size="20" font-weight="bold" 
         text-anchor="middle" fill="white">XBRL - Strukturert Rapportering</text>
   
   <text x="220" y="395" font-family="Arial, sans-serif" font-size="13" fill="white">eXtensible Business Reporting Language</text>
   
-  <!-- XBRL benefits -->
+
   <text x="230" y="420" font-family="Arial, sans-serif" font-size="12" fill="white">• Standardiserer finansiell rapportering digitalt</text>
   <text x="230" y="435" font-family="Arial, sans-serif" font-size="12" fill="white">• Muliggjør automatisk databehandling og analyse</text>
   <text x="230" y="450" font-family="Arial, sans-serif" font-size="12" fill="white">• Forbedrer sammenlignbarhet på tvers av selskaper og land</text>
   
-  <!-- Benefits section -->
+
   <rect x="100" y="490" width="700" height="140" fill="#ffffff" stroke="#007bff" stroke-width="2" rx="10" filter="url(#digitalShadow)"/>
   <text x="450" y="520" font-family="Arial, sans-serif" font-size="18" font-weight="bold" 
         text-anchor="middle" fill="#007bff">Fordeler med Digital IFRS</text>
   
-  <!-- Benefits in columns -->
+
   <text x="130" y="545" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">Effektivitet:</text>
   <text x="140" y="565" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">• Raskere rapportering</text>
   <text x="140" y="580" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">• Reduserte kostnader</text>
@@ -113,7 +113,7 @@
   <text x="580" y="595" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">• Prediktiv modellering</text>
   <text x="580" y="610" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">• Bedre beslutninger</text>
   
-  <!-- Future note -->
+
   <text x="450" y="660" font-family="Arial, sans-serif" font-size="14" font-weight="bold" 
         text-anchor="middle" fill="#6c757d">Fremtiden: AI-drevet IFRS med kontinuerlig rapportering og sanntidsanalyse</text>
 </svg>

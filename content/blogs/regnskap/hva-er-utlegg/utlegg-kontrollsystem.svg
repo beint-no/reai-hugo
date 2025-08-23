@@ -6,17 +6,17 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e40af">
     Kontrollsystem for Utleggshåndtering
   </text>
   
-  <!-- Control Framework -->
+
   <g transform="translate(50, 70)">
-    <!-- Preventive Controls -->
+
     <rect x="0" y="0" width="200" height="180" rx="12" fill="#dcfce7" stroke="#16a34a" stroke-width="2"/>
     <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#15803d">
       Forebyggende Kontroller
@@ -49,7 +49,7 @@
     </g>
   </g>
   
-  <!-- Detective Controls -->
+
   <g transform="translate(300, 70)">
     <rect x="0" y="0" width="200" height="180" rx="12" fill="#fef3c7" stroke="#f59e0b" stroke-width="2"/>
     <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#92400e">
@@ -83,7 +83,7 @@
     </g>
   </g>
   
-  <!-- Corrective Controls -->
+
   <g transform="translate(550, 70)">
     <rect x="0" y="0" width="200" height="180" rx="12" fill="#fee2e2" stroke="#dc2626" stroke-width="2"/>
     <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#dc2626">
@@ -117,68 +117,68 @@
     </g>
   </g>
   
-  <!-- Risk Matrix -->
+
   <g transform="translate(80, 280)">
     <text x="150" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#374151">
       Risikomatrise for Utlegg
     </text>
     
-    <!-- Risk Table -->
+
     <rect x="0" y="20" width="300" height="200" rx="8" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1"/>
     
-    <!-- Header -->
+
     <rect x="5" y="25" width="290" height="25" fill="#1e40af" opacity="0.1"/>
     <text x="30" y="40" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e40af">Risiko</text>
     <text x="120" y="40" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e40af">Sannsynlighet</text>
     <text x="220" y="40" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e40af">Konsekvens</text>
     <text x="270" y="40" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e40af">Nivå</text>
     
-    <!-- Risk Items -->
+
     <g transform="translate(5, 55)">
-      <!-- Risk 1 -->
+
       <text x="5" y="15" font-family="Arial, sans-serif" font-size="10" fill="#374151">Private utgifter</text>
       <text x="125" y="15" font-family="Arial, sans-serif" font-size="10" fill="#374151">Middels</text>
       <text x="205" y="15" font-family="Arial, sans-serif" font-size="10" fill="#374151">Høy</text>
       <circle cx="275" cy="12" r="6" fill="#dc2626"/>
       
-      <!-- Risk 2 -->
+
       <text x="5" y="35" font-family="Arial, sans-serif" font-size="10" fill="#374151">Manglende dokumentasjon</text>
       <text x="125" y="35" font-family="Arial, sans-serif" font-size="10" fill="#374151">Høy</text>
       <text x="205" y="35" font-family="Arial, sans-serif" font-size="10" fill="#374151">Middels</text>
       <circle cx="275" cy="32" r="6" fill="#f59e0b"/>
       
-      <!-- Risk 3 -->
+
       <text x="5" y="55" font-family="Arial, sans-serif" font-size="10" fill="#374151">Overdreven representasjon</text>
       <text x="125" y="55" font-family="Arial, sans-serif" font-size="10" fill="#374151">Lav</text>
       <text x="205" y="55" font-family="Arial, sans-serif" font-size="10" fill="#374151">Høy</text>
       <circle cx="275" cy="52" r="6" fill="#f59e0b"/>
       
-      <!-- Risk 4 -->
+
       <text x="5" y="75" font-family="Arial, sans-serif" font-size="10" fill="#374151">Forsinket rapportering</text>
       <text x="125" y="75" font-family="Arial, sans-serif" font-size="10" fill="#374151">Middels</text>
       <text x="205" y="75" font-family="Arial, sans-serif" font-size="10" fill="#374151">Lav</text>
       <circle cx="275" cy="72" r="6" fill="#22c55e"/>
       
-      <!-- Risk 5 -->
+
       <text x="5" y="95" font-family="Arial, sans-serif" font-size="10" fill="#374151">Duplikate utbetalinger</text>
       <text x="125" y="95" font-family="Arial, sans-serif" font-size="10" fill="#374151">Lav</text>
       <text x="205" y="95" font-family="Arial, sans-serif" font-size="10" fill="#374151">Middels</text>
       <circle cx="275" cy="92" r="6" fill="#22c55e"/>
       
-      <!-- Risk 6 -->
+
       <text x="5" y="115" font-family="Arial, sans-serif" font-size="10" fill="#374151">Fiktive leverandører</text>
       <text x="125" y="115" font-family="Arial, sans-serif" font-size="10" fill="#374151">Lav</text>
       <text x="205" y="115" font-family="Arial, sans-serif" font-size="10" fill="#374151">Høy</text>
       <circle cx="275" cy="112" r="6" fill="#f59e0b"/>
       
-      <!-- Risk 7 -->
+
       <text x="5" y="135" font-family="Arial, sans-serif" font-size="10" fill="#374151">Skattemessige konsekvenser</text>
       <text x="125" y="135" font-family="Arial, sans-serif" font-size="10" fill="#374151">Middels</text>
       <text x="205" y="135" font-family="Arial, sans-serif" font-size="10" fill="#374151">Høy</text>
       <circle cx="275" cy="132" r="6" fill="#dc2626"/>
     </g>
     
-    <!-- Legend -->
+
     <g transform="translate(5, 190)">
       <circle cx="10" cy="5" r="4" fill="#22c55e"/>
       <text x="20" y="8" font-family="Arial, sans-serif" font-size="9" fill="#374151">Lav risiko</text>
@@ -191,7 +191,7 @@
     </g>
   </g>
   
-  <!-- KPI Dashboard -->
+
   <g transform="translate(430, 280)">
     <text x="150" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#374151">
       Sentrale KPI-er for Overvåkning
@@ -199,9 +199,9 @@
     
     <rect x="0" y="20" width="300" height="200" rx="8" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1"/>
     
-    <!-- KPI Items -->
+
     <g transform="translate(15, 40)">
-      <!-- KPI 1 -->
+
       <rect x="0" y="0" width="130" height="50" rx="5" fill="#dbeafe" stroke="#3b82f6" stroke-width="1"/>
       <text x="65" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#1e40af">
         Behandlingstid
@@ -213,7 +213,7 @@
         Fra innlevering til utbetaling
       </text>
       
-      <!-- KPI 2 -->
+
       <rect x="140" y="0" width="130" height="50" rx="5" fill="#ecfccb" stroke="#84cc16" stroke-width="1"/>
       <text x="205" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#365314">
         Godkjenningsgrad
@@ -225,7 +225,7 @@
         Første gangs godkjenning
       </text>
       
-      <!-- KPI 3 -->
+
       <rect x="0" y="60" width="130" height="50" rx="5" fill="#fef3c7" stroke="#f59e0b" stroke-width="1"/>
       <text x="65" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#92400e">
         Avviksrate
@@ -237,7 +237,7 @@
         Utlegg med dokumentasjonsfeil
       </text>
       
-      <!-- KPI 4 -->
+
       <rect x="140" y="60" width="130" height="50" rx="5" fill="#fce7f3" stroke="#ec4899" stroke-width="1"/>
       <text x="205" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#be185d">
         Kostnad per utlegg
@@ -249,7 +249,7 @@
         Administrativ behandlingskostnad
       </text>
       
-      <!-- KPI 5 -->
+
       <rect x="70" y="120" width="130" height="50" rx="5" fill="#e0e7ff" stroke="#6366f1" stroke-width="1"/>
       <text x="135" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#4338ca">
         Ansatttilfredshet
@@ -263,7 +263,7 @@
     </g>
   </g>
   
-  <!-- Bottom section -->
+
   <g transform="translate(50, 520)">
     <rect x="0" y="0" width="700" height="60" rx="8" fill="#1e40af" opacity="0.1"/>
     <text x="350" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e40af">

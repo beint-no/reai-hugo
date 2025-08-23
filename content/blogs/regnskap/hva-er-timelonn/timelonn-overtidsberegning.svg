@@ -1,13 +1,13 @@
 <svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e40af">
     Overtidsberegning ved Timelønn
   </text>
   
-  <!-- Example Box -->
+
   <rect x="50" y="70" width="700" height="100" rx="10" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
   <text x="70" y="100" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e40af">
     Eksempel: Ordinær timesats 250 kr/time
@@ -19,7 +19,7 @@
     Første 2 overtimer: 50% tillegg | Resterende overtimer: 100% tillegg
   </text>
   
-  <!-- Time Breakdown Chart -->
+
   <rect x="50" y="200" width="300" height="40" fill="#10b981" opacity="0.3"/>
   <text x="200" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#065f46">
     40 Ordinære Timer
@@ -35,7 +35,7 @@
     3t (100%)
   </text>
   
-  <!-- Time Labels -->
+
   <text x="200" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#374151">
     0 - 40 timer
   </text>
@@ -46,10 +46,10 @@
     42-45t
   </text>
   
-  <!-- Calculation Table -->
+
   <rect x="50" y="300" width="700" height="250" rx="10" fill="white" stroke="#d1d5db" stroke-width="2"/>
   
-  <!-- Table Header -->
+
   <rect x="60" y="315" width="680" height="35" fill="#f3f4f6"/>
   <text x="80" y="335" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#374151">
     Timer
@@ -67,42 +67,42 @@
     Belop
   </text>
   
-  <!-- Table Lines -->
+
   <line x1="60" y1="350" x2="740" y2="350" stroke="#d1d5db" stroke-width="1"/>
   <line x1="60" y1="380" x2="740" y2="380" stroke="#d1d5db" stroke-width="1"/>
   <line x1="60" y1="410" x2="740" y2="410" stroke="#d1d5db" stroke-width="1"/>
   <line x1="60" y1="440" x2="740" y2="440" stroke="#d1d5db" stroke-width="1"/>
   <line x1="60" y1="470" x2="740" y2="470" stroke="#d1d5db" stroke-width="1"/>
   
-  <!-- Vertical Lines -->
+
   <line x1="160" y1="315" x2="160" y2="470" stroke="#d1d5db" stroke-width="1"/>
   <line x1="310" y1="315" x2="310" y2="470" stroke="#d1d5db" stroke-width="1"/>
   <line x1="460" y1="315" x2="460" y2="470" stroke="#d1d5db" stroke-width="1"/>
   <line x1="580" y1="315" x2="580" y2="470" stroke="#d1d5db" stroke-width="1"/>
   
-  <!-- Table Data -->
-  <!-- Row 1: Ordinary time -->
+
+
   <text x="80" y="370" font-family="Arial, sans-serif" font-size="13" fill="#374151">40</text>
   <text x="180" y="370" font-family="Arial, sans-serif" font-size="13" fill="#374151">Ordinær</text>
   <text x="330" y="370" font-family="Arial, sans-serif" font-size="13" fill="#374151">250 kr</text>
   <text x="480" y="370" font-family="Arial, sans-serif" font-size="13" fill="#374151">0%</text>
   <text x="620" y="370" font-family="Arial, sans-serif" font-size="13" fill="#374151">10 000 kr</text>
   
-  <!-- Row 2: First overtime -->
+
   <text x="80" y="400" font-family="Arial, sans-serif" font-size="13" fill="#374151">2</text>
   <text x="180" y="400" font-family="Arial, sans-serif" font-size="13" fill="#374151">Overtid 1</text>
   <text x="330" y="400" font-family="Arial, sans-serif" font-size="13" fill="#374151">375 kr</text>
   <text x="480" y="400" font-family="Arial, sans-serif" font-size="13" fill="#374151">50%</text>
   <text x="620" y="400" font-family="Arial, sans-serif" font-size="13" fill="#374151">750 kr</text>
   
-  <!-- Row 3: Second overtime -->
+
   <text x="80" y="430" font-family="Arial, sans-serif" font-size="13" fill="#374151">3</text>
   <text x="180" y="430" font-family="Arial, sans-serif" font-size="13" fill="#374151">Overtid 2</text>
   <text x="330" y="430" font-family="Arial, sans-serif" font-size="13" fill="#374151">500 kr</text>
   <text x="480" y="430" font-family="Arial, sans-serif" font-size="13" fill="#374151">100%</text>
   <text x="620" y="430" font-family="Arial, sans-serif" font-size="13" fill="#374151">1 500 kr</text>
   
-  <!-- Total -->
+
   <rect x="60" y="440" width="680" height="30" fill="#f3f4f6"/>
   <text x="480" y="460" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#374151">
     Total Bruttolønn:
@@ -111,7 +111,7 @@
     12 250 kr
   </text>
   
-  <!-- Special Conditions Box -->
+
   <rect x="450" y="300" width="290" height="120" rx="8" fill="#fef3c7" stroke="#f59e0b" stroke-width="2"/>
   <text x="465" y="325" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#92400e">
     Særlige Forhold
@@ -132,7 +132,7 @@
     • Kompetansetillegg kan komme i tillegg
   </text>
   
-  <!-- Bottom Note -->
+
   <text x="400" y="580" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6b7280">
     * Overtidsregler kan variere etter tariffavtale og arbeidsforhold
   </text>

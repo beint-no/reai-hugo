@@ -22,18 +22,18 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)" />
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)" />
   <text x="400" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
     Jordbruksfradrag i Ulike Selskapsformer
   </text>
   
-  <!-- Company forms comparison -->
+
   <g transform="translate(50, 80)">
-    <!-- Enkeltpersonforetak -->
+
     <rect x="0" y="0" width="220" height="350" fill="white" stroke="#4caf50" stroke-width="2" rx="10"/>
     <rect x="0" y="0" width="220" height="50" fill="url(#enkGradient)" rx="10"/>
     <rect x="0" y="40" width="220" height="10" fill="url(#enkGradient)"/>
@@ -87,7 +87,7 @@
       Fradrag: 265 000 kr
     </text>
     
-    <!-- Aksjeselskap -->
+
     <rect x="240" y="0" width="220" height="350" fill="white" stroke="#2196f3" stroke-width="2" rx="10"/>
     <rect x="240" y="0" width="220" height="50" fill="url(#asGradient)" rx="10"/>
     <rect x="240" y="40" width="220" height="10" fill="url(#asGradient)"/>
@@ -141,7 +141,7 @@
       Selskapets fradrag: 265 000 kr
     </text>
     
-    <!-- Ansvarlig Selskap -->
+
     <rect x="480" y="0" width="220" height="350" fill="white" stroke="#ff9800" stroke-width="2" rx="10"/>
     <rect x="480" y="0" width="220" height="50" fill="url(#ansGradient)" rx="10"/>
     <rect x="480" y="40" width="220" height="10" fill="url(#ansGradient)"/>
@@ -196,7 +196,7 @@
     </text>
   </g>
   
-  <!-- Comparison table -->
+
   <g transform="translate(50, 450)">
     <rect x="0" y="0" width="700" height="40" fill="#e91e63" rx="5"/>
     <text x="350" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">

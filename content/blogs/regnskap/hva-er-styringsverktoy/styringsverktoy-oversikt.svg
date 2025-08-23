@@ -14,19 +14,19 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f9fafb"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="24" font-weight="bold">Styringsverktøy Oversikt</text>
   <text x="400" y="50" text-anchor="middle" fill="#6b7280" font-family="Arial, sans-serif" font-size="14">Kategorier og anvendelsesområder</text>
   
-  <!-- Strategic Level -->
+
   <rect x="50" y="80" width="700" height="80" rx="10" fill="url(#blueGradient)" opacity="0.1" stroke="#3b82f6" stroke-width="2"/>
   <text x="70" y="105" fill="#1e40af" font-family="Arial, sans-serif" font-size="16" font-weight="bold">STRATEGISK NIVÅ</text>
   <text x="70" y="125" fill="#1f2937" font-family="Arial, sans-serif" font-size="12">Langsiktig planlegging og retning (1-5 år)</text>
   
-  <!-- Strategic Tools -->
+
   <rect x="100" y="135" width="150" height="20" rx="10" fill="#3b82f6" opacity="0.8"/>
   <text x="175" y="148" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Balanced Scorecard</text>
   
@@ -39,12 +39,12 @@
   <rect x="570" y="135" width="130" height="20" rx="10" fill="#3b82f6" opacity="0.8"/>
   <text x="635" y="148" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Investeringsanalyse</text>
   
-  <!-- Tactical Level -->
+
   <rect x="50" y="180" width="700" height="80" rx="10" fill="url(#greenGradient)" opacity="0.1" stroke="#10b981" stroke-width="2"/>
   <text x="70" y="205" fill="#047857" font-family="Arial, sans-serif" font-size="16" font-weight="bold">TAKTISK NIVÅ</text>
   <text x="70" y="225" fill="#1f2937" font-family="Arial, sans-serif" font-size="12">Mellomlang sikt operasjonelle beslutninger (3-12 måneder)</text>
   
-  <!-- Tactical Tools -->
+
   <rect x="100" y="235" width="120" height="20" rx="10" fill="#10b981" opacity="0.8"/>
   <text x="160" y="248" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Budsjettering</text>
   
@@ -57,12 +57,12 @@
   <rect x="510" y="235" width="130" height="20" rx="10" fill="#10b981" opacity="0.8"/>
   <text x="575" y="248" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Prosjektstyring</text>
   
-  <!-- Operational Level -->
+
   <rect x="50" y="280" width="700" height="80" rx="10" fill="url(#purpleGradient)" opacity="0.1" stroke="#8b5cf6" stroke-width="2"/>
   <text x="70" y="305" fill="#7c2d12" font-family="Arial, sans-serif" font-size="16" font-weight="bold">OPERATIVT NIVÅ</text>
   <text x="70" y="325" fill="#1f2937" font-family="Arial, sans-serif" font-size="12">Daglig styring og kontroll (daglig til månedlig)</text>
   
-  <!-- Operational Tools -->
+
   <rect x="100" y="335" width="110" height="20" rx="10" fill="#8b5cf6" opacity="0.8"/>
   <text x="155" y="348" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Avviksanalyse</text>
   
@@ -78,12 +78,12 @@
   <rect x="640" y="335" width="100" height="20" rx="10" fill="#8b5cf6" opacity="0.8"/>
   <text x="690" y="348" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Lagerstyring</text>
   
-  <!-- Supporting Technology -->
+
   <rect x="50" y="380" width="700" height="80" rx="10" fill="#f3f4f6" stroke="#9ca3af" stroke-width="2"/>
   <text x="70" y="405" fill="#374151" font-family="Arial, sans-serif" font-size="16" font-weight="bold">STØTTENDE TEKNOLOGI</text>
   <text x="70" y="425" fill="#6b7280" font-family="Arial, sans-serif" font-size="12">Digitale verktøy og systemer</text>
   
-  <!-- Technology Tools -->
+
   <rect x="100" y="435" width="100" height="20" rx="10" fill="#6b7280" opacity="0.8"/>
   <text x="150" y="448" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10" font-weight="bold">ERP-systemer</text>
   
@@ -99,22 +99,22 @@
   <rect x="640" y="435" width="100" height="20" rx="10" fill="#6b7280" opacity="0.8"/>
   <text x="690" y="448" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10" font-weight="bold">AI/ML-verktøy</text>
   
-  <!-- Flow arrows -->
+
   <path d="M 30 120 L 30 200 L 30 280 L 30 360" stroke="#1f2937" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#1f2937"/>
     </marker>
   </defs>
   
-  <!-- Time indicators -->
+
   <text x="30" y="115" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Lang</text>
   <text x="30" y="195" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Middels</text>
   <text x="30" y="295" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Kort</text>
   <text x="30" y="375" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="10" font-weight="bold">sikt</text>
   
-  <!-- Bottom note -->
+
   <text x="400" y="485" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Integrerte verktøy gir helhetlig virksomhetsstyring</text>
 </svg>

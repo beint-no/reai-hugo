@@ -6,10 +6,10 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#F8FAFC"/>
   
-  <!-- Title -->
+
   <rect x="50" y="30" width="700" height="60" fill="url(#headerGradient)" rx="8"/>
   <text x="400" y="55" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
     Komponenter som inngår i Goodwill
@@ -18,18 +18,18 @@
     Identifiserbare og ikke-identifiserbare faktorer
   </text>
   
-  <!-- Left column: Identifiable factors -->
+
   <rect x="50" y="120" width="340" height="440" fill="white" stroke="#E5E7EB" stroke-width="2" rx="8"/>
   
-  <!-- Left header -->
+
   <rect x="60" y="130" width="320" height="40" fill="#10B981" rx="5"/>
   <text x="220" y="155" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     Identifiserbare faktorer
   </text>
   
-  <!-- Identifiable factors list -->
+
   <g transform="translate(80, 190)">
-    <!-- Customer relationships -->
+
     <circle cx="10" cy="10" r="6" fill="#3B82F6"/>
     <text x="25" y="15" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Kunderelasjoner
@@ -41,7 +41,7 @@
       fremtidige inntekter
     </text>
     
-    <!-- Supplier relationships -->
+
     <circle cx="10" cy="80" r="6" fill="#8B5CF6"/>
     <text x="25" y="85" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Leverandørrelasjoner
@@ -53,7 +53,7 @@
       leverandørkjeder
     </text>
     
-    <!-- Employee loyalty -->
+
     <circle cx="10" cy="150" r="6" fill="#F59E0B"/>
     <text x="25" y="155" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Medarbeiderlojalitet
@@ -65,7 +65,7 @@
       etablerte team
     </text>
     
-    <!-- Market position -->
+
     <circle cx="10" cy="220" r="6" fill="#EF4444"/>
     <text x="25" y="225" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Markedsposisjon
@@ -77,7 +77,7 @@
       konkurransefordeler
     </text>
     
-    <!-- Synergies -->
+
     <circle cx="10" cy="290" r="6" fill="#06B6D4"/>
     <text x="25" y="295" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Synergier
@@ -90,18 +90,18 @@
     </text>
   </g>
   
-  <!-- Right column: Non-identifiable factors -->
+
   <rect x="410" y="120" width="340" height="440" fill="white" stroke="#E5E7EB" stroke-width="2" rx="8"/>
   
-  <!-- Right header -->
+
   <rect x="420" y="130" width="320" height="40" fill="#7C3AED" rx="5"/>
   <text x="580" y="155" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     Ikke-identifiserbare faktorer
   </text>
   
-  <!-- Non-identifiable factors list -->
+
   <g transform="translate(440, 190)">
-    <!-- Reputation -->
+
     <circle cx="10" cy="10" r="6" fill="#EC4899"/>
     <text x="25" y="15" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Renommé og omdømme
@@ -113,7 +113,7 @@
       i markedet
     </text>
     
-    <!-- Organizational culture -->
+
     <circle cx="10" cy="80" r="6" fill="#14B8A6"/>
     <text x="25" y="85" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Organisasjonskultur
@@ -125,7 +125,7 @@
       arbeidsmetoder
     </text>
     
-    <!-- Innovation capacity -->
+
     <circle cx="10" cy="150" r="6" fill="#F97316"/>
     <text x="25" y="155" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Innovasjonskapasitet
@@ -137,7 +137,7 @@
       tilpasning
     </text>
     
-    <!-- Management quality -->
+
     <circle cx="10" cy="220" r="6" fill="#84CC16"/>
     <text x="25" y="225" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Ledelseskvalitet
@@ -150,7 +150,7 @@
     </text>
   </g>
   
-  <!-- Decorative elements -->
+
   <circle cx="70" cy="580" r="15" fill="#4F46E5" opacity="0.1"/>
   <circle cx="730" cy="580" r="20" fill="#10B981" opacity="0.1"/>
 </svg>

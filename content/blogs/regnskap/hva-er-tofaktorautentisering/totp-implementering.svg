@@ -9,10 +9,10 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="700" height="500" fill="#fafafa"/>
   
-  <!-- Header -->
+
   <rect width="700" height="70" fill="url(#totpGrad)"/>
   <text x="350" y="25" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
     TOTP (Time-based One-Time Password)
@@ -24,7 +24,7 @@
     RFC 6238 Standard - Offline funksjonalitet
   </text>
   
-  <!-- TOTP Algorithm -->
+
   <g transform="translate(50, 90)">
     <rect width="600" height="80" rx="10" fill="white" filter="url(#shadow)"/>
     <rect width="600" height="30" rx="10" fill="#34a853"/>
@@ -48,13 +48,13 @@
     </g>
   </g>
   
-  <!-- Setup Process -->
+
   <g transform="translate(50, 190)">
     <text x="0" y="0" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1565c0">
       TOTP Setup Prosess
     </text>
     
-    <!-- Step 1 -->
+
     <g transform="translate(0, 25)">
       <circle cx="15" cy="15" r="12" fill="#4285f4"/>
       <text x="15" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">1</text>
@@ -64,7 +64,7 @@
       <text x="120" y="48" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#666">og QR-kode for bruker</text>
     </g>
     
-    <!-- Step 2 -->
+
     <g transform="translate(220, 25)">
       <circle cx="15" cy="15" r="12" fill="#34a853"/>
       <text x="15" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">2</text>
@@ -74,7 +74,7 @@
       <text x="120" y="48" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#666">Google/Microsoft Authenticator</text>
     </g>
     
-    <!-- Step 3 -->
+
     <g transform="translate(440, 25)">
       <circle cx="15" cy="15" r="12" fill="#ff9800"/>
       <text x="15" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">3</text>
@@ -85,13 +85,13 @@
     </g>
   </g>
   
-  <!-- Popular Authenticator Apps -->
+
   <g transform="translate(50, 310)">
     <text x="0" y="0" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1565c0">
       Populære Authenticator-apper
     </text>
     
-    <!-- Google Authenticator -->
+
     <g transform="translate(0, 25)">
       <rect width="140" height="80" rx="10" fill="white" filter="url(#shadow)"/>
       <rect width="140" height="25" rx="10" fill="#4285f4"/>
@@ -102,7 +102,7 @@
       <text x="70" y="71" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#333">⚠ Ingen cloud backup</text>
     </g>
     
-    <!-- Microsoft Authenticator -->
+
     <g transform="translate(160, 25)">
       <rect width="140" height="80" rx="10" fill="white" filter="url(#shadow)"/>
       <rect width="140" height="25" rx="10" fill="#0078d4"/>
@@ -113,7 +113,7 @@
       <text x="70" y="71" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#333">✓ Enterprise-features</text>
     </g>
     
-    <!-- Authy -->
+
     <g transform="translate(320, 25)">
       <rect width="140" height="80" rx="10" fill="white" filter="url(#shadow)"/>
       <rect width="140" height="25" rx="10" fill="#e74c3c"/>
@@ -124,7 +124,7 @@
       <text x="70" y="71" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#333">✓ Desktop-app</text>
     </g>
     
-    <!-- 1Password -->
+
     <g transform="translate(480, 25)">
       <rect width="140" height="80" rx="10" fill="white" filter="url(#shadow)"/>
       <rect width="140" height="25" rx="10" fill="#0f62fe"/>
@@ -136,7 +136,7 @@
     </g>
   </g>
   
-  <!-- Implementation Benefits -->
+
   <g transform="translate(50, 420)">
     <rect width="600" height="60" rx="10" fill="white" filter="url(#shadow)"/>
     <rect width="600" height="25" rx="10" fill="#4caf50"/>

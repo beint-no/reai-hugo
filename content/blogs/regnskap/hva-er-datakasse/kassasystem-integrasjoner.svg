@@ -18,16 +18,16 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
   <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
     Kassasystem Integrasjoner
   </text>
   
-  <!-- Central Kassasystem -->
+
   <g transform="translate(350, 250)">
     <circle cx="50" cy="50" r="60" fill="url(#centralGradient)"/>
     <text x="50" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
@@ -41,7 +41,7 @@
     </text>
   </g>
   
-  <!-- Regnskapssystem Integration -->
+
   <g transform="translate(100, 100)">
     <rect x="0" y="0" width="140" height="80" rx="10" fill="url(#systemGradient)"/>
     <text x="70" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -54,14 +54,14 @@
       💼 MVA-håndtering
     </text>
     
-    <!-- Connection line -->
+
     <line x1="140" y1="40" x2="290" y2="280" stroke="#666" stroke-width="2" stroke-dasharray="5,5"/>
     <text x="200" y="180" font-family="Arial, sans-serif" font-size="10" fill="#666">
       Transaksjonsdata
     </text>
   </g>
   
-  <!-- Lagersystem Integration -->
+
   <g transform="translate(560, 100)">
     <rect x="0" y="0" width="140" height="80" rx="10" fill="url(#systemGradient)"/>
     <text x="70" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -74,14 +74,14 @@
       ⚠️ Lavlager-varsler
     </text>
     
-    <!-- Connection line -->
+
     <line x1="560" y1="40" x2="470" y2="280" stroke="#666" stroke-width="2" stroke-dasharray="5,5"/>
     <text x="520" y="180" font-family="Arial, sans-serif" font-size="10" fill="#666">
       Lagerdata
     </text>
   </g>
   
-  <!-- Betalingsterminaler -->
+
   <g transform="translate(100, 400)">
     <rect x="0" y="0" width="140" height="80" rx="10" fill="url(#dataGradient)"/>
     <text x="70" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -94,14 +94,14 @@
       📱 Vipps/Mobile Pay
     </text>
     
-    <!-- Connection line -->
+
     <line x1="140" y1="440" x2="290" y2="360" stroke="#666" stroke-width="2" stroke-dasharray="5,5"/>
     <text x="200" y="410" font-family="Arial, sans-serif" font-size="10" fill="#666">
       Betalingsdata
     </text>
   </g>
   
-  <!-- Nettbutikk Integration -->
+
   <g transform="translate(560, 400)">
     <rect x="0" y="0" width="140" height="80" rx="10" fill="url(#dataGradient)"/>
     <text x="70" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -114,14 +114,14 @@
       💰 Prisoppdateringer
     </text>
     
-    <!-- Connection line -->
+
     <line x1="560" y1="440" x2="470" y2="360" stroke="#666" stroke-width="2" stroke-dasharray="5,5"/>
     <text x="520" y="410" font-family="Arial, sans-serif" font-size="10" fill="#666">
       E-handel data
     </text>
   </g>
   
-  <!-- Rapporteringsverktøy -->
+
   <g transform="translate(330, 480)">
     <rect x="0" y="0" width="140" height="80" rx="10" fill="url(#systemGradient)"/>
     <text x="70" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -134,14 +134,14 @@
       📊 Salgsanalyse
     </text>
     
-    <!-- Connection line -->
+
     <line x1="400" y1="480" x2="400" y2="370" stroke="#666" stroke-width="2" stroke-dasharray="5,5"/>
     <text x="410" y="430" font-family="Arial, sans-serif" font-size="10" fill="#666">
       Rapportdata
     </text>
   </g>
   
-  <!-- Integration Benefits -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="200" height="140" rx="8" fill="white" stroke="#ddd" stroke-width="1"/>
     <rect x="0" y="0" width="200" height="30" rx="8" fill="url(#centralGradient)"/>
@@ -169,7 +169,7 @@
     </text>
   </g>
   
-  <!-- Technical Requirements -->
+
   <g transform="translate(550, 80)">
     <rect x="0" y="0" width="200" height="140" rx="8" fill="white" stroke="#ddd" stroke-width="1"/>
     <rect x="0" y="0" width="200" height="30" rx="8" fill="url(#dataGradient)"/>
@@ -197,7 +197,7 @@
     </text>
   </g>
   
-  <!-- Data Flow Indicators -->
+
   <g transform="translate(300, 200)">
     <circle cx="0" cy="0" r="3" fill="#4CAF50"/>
     <circle cx="0" cy="0" r="6" fill="none" stroke="#4CAF50" stroke-width="1" opacity="0.5">

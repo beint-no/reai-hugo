@@ -22,15 +22,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#333">
     Hovedkategorier av Inntekter
   </text>
   
-  <!-- Central hub -->
+
   <circle cx="400" cy="300" r="60" fill="white" stroke="#333" stroke-width="3"/>
   <text x="400" y="295" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#333">
     INNTEKTER
@@ -39,7 +39,7 @@
     Kategorier
   </text>
   
-  <!-- Category 1: Driftsinntekter -->
+
   <rect x="50" y="100" width="200" height="120" fill="url(#driftGradient)" stroke="#28a745" stroke-width="2" rx="10"/>
   <text x="150" y="130" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
     DRIFTSINNTEKTER
@@ -57,7 +57,7 @@
     • Leieinntekter
   </text>
   
-  <!-- Category 2: Finansinntekter -->
+
   <rect x="550" y="100" width="200" height="120" fill="url(#finansGradient)" stroke="#0066cc" stroke-width="2" rx="10"/>
   <text x="650" y="130" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
     FINANSINNTEKTER
@@ -75,7 +75,7 @@
     • Gevinster
   </text>
   
-  <!-- Category 3: Andre inntekter -->
+
   <rect x="50" y="480" width="200" height="120" fill="url(#andreGradient)" stroke="#ffc107" stroke-width="2" rx="10"/>
   <text x="150" y="510" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
     ANDRE INNTEKTER
@@ -93,7 +93,7 @@
     • Gevinst ved salg
   </text>
   
-  <!-- Category 4: Ekstraordinære inntekter -->
+
   <rect x="550" y="480" width="200" height="120" fill="url(#ekstraGradient)" stroke="#dc3545" stroke-width="2" rx="10"/>
   <text x="650" y="510" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
     EKSTRAORDINÆRE
@@ -111,13 +111,13 @@
     • Uvanlige hendelser
   </text>
   
-  <!-- Connecting lines -->
+
   <line x1="250" y1="160" x2="350" y2="260" stroke="#28a745" stroke-width="3"/>
   <line x1="550" y1="160" x2="450" y2="260" stroke="#0066cc" stroke-width="3"/>
   <line x1="250" y1="540" x2="350" y2="340" stroke="#ffc107" stroke-width="3"/>
   <line x1="550" y1="540" x2="450" y2="340" stroke="#dc3545" stroke-width="3"/>
   
-  <!-- Percentage indicators -->
+
   <circle cx="150" cy="80" r="25" fill="#28a745" opacity="0.9"/>
   <text x="150" y="88" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
     85%
@@ -138,7 +138,7 @@
     1%
   </text>
   
-  <!-- Legend -->
+
   <rect x="300" y="380" width="200" height="60" fill="white" stroke="#dee2e6" stroke-width="1" rx="5"/>
   <text x="400" y="400" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#333">
     Typisk fordeling

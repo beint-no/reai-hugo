@@ -13,10 +13,10 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8fafc"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="70" fill="url(#headerGradient)"/>
   <text x="400" y="30" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="22" font-weight="bold">
     Leverandørreskontro Regnskapsføring
@@ -25,7 +25,7 @@
     Prosess for regnskapsføring av leverandørtransaksjoner
   </text>
   
-  <!-- Step 1: Invoice Receipt -->
+
   <rect x="50" y="90" width="200" height="120" fill="url(#processGradient)" stroke="#0ea5e9" stroke-width="2" rx="10" filter="url(#shadow)"/>
   <text x="150" y="115" text-anchor="middle" fill="#0c4a6e" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     1. Fakturamottak
@@ -37,7 +37,7 @@
     og registreres i systemet
   </text>
   
-  <!-- Accounting Entry 1 -->
+
   <rect x="60" y="170" width="180" height="30" fill="#dcfce7" stroke="#16a34a" stroke-width="1" rx="3"/>
   <text x="70" y="185" fill="#166534" font-family="Arial, sans-serif" font-size="10" font-weight="bold">
     Debet: Kostnadskonto/Varekonto
@@ -46,10 +46,10 @@
     Kredit: Leverandørgjeld
   </text>
   
-  <!-- Arrow 1 -->
+
   <path d="M 260 150 L 290 150" stroke="#6b7280" stroke-width="3" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 2: Verification -->
+
   <rect x="300" y="90" width="200" height="120" fill="url(#processGradient)" stroke="#0ea5e9" stroke-width="2" rx="10" filter="url(#shadow)"/>
   <text x="400" y="115" text-anchor="middle" fill="#0c4a6e" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     2. Kontroll og Godkjenning
@@ -67,10 +67,10 @@
     • Forfallsdato registreres
   </text>
   
-  <!-- Arrow 2 -->
+
   <path d="M 510 150 L 540 150" stroke="#6b7280" stroke-width="3" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 3: Payment -->
+
   <rect x="550" y="90" width="200" height="120" fill="url(#processGradient)" stroke="#0ea5e9" stroke-width="2" rx="10" filter="url(#shadow)"/>
   <text x="650" y="115" text-anchor="middle" fill="#0c4a6e" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     3. Betaling
@@ -82,7 +82,7 @@
     ved forfallsdato
   </text>
   
-  <!-- Accounting Entry 2 -->
+
   <rect x="560" y="170" width="180" height="30" fill="#fef3c7" stroke="#d97706" stroke-width="1" rx="3"/>
   <text x="570" y="185" fill="#92400e" font-family="Arial, sans-serif" font-size="10" font-weight="bold">
     Debet: Leverandørgjeld
@@ -91,10 +91,10 @@
     Kredit: Bank/Kasse
   </text>
   
-  <!-- Arrow down to reconciliation -->
+
   <path d="M 400 220 L 400 250" stroke="#6b7280" stroke-width="3" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 4: Monthly Reconciliation -->
+
   <rect x="250" y="260" width="300" height="100" fill="#fef2f2" stroke="#dc2626" stroke-width="2" rx="10" filter="url(#shadow)"/>
   <text x="400" y="285" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     4. Månedlig Avstemming
@@ -109,13 +109,13 @@
     • Identifisering og korrigering av avvik
   </text>
   
-  <!-- Principles Section -->
+
   <rect x="50" y="380" width="700" height="180" fill="#f1f5f9" stroke="#64748b" stroke-width="2" rx="10"/>
   <text x="400" y="405" text-anchor="middle" fill="#1e293b" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
     Viktige Regnskapsprinsipper
   </text>
   
-  <!-- Principle boxes -->
+
   <rect x="70" y="420" width="150" height="60" fill="#e0f2fe" stroke="#0284c7" stroke-width="1" rx="5"/>
   <text x="145" y="440" text-anchor="middle" fill="#0c4a6e" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Periodisering
@@ -160,7 +160,7 @@
     fulle beløp
   </text>
   
-  <!-- Control measures -->
+
   <text x="400" y="510" text-anchor="middle" fill="#1e293b" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Internkontroll-tiltak:
   </text>
@@ -177,7 +177,7 @@
     • Dokumentasjon: Sporbar dokumentasjon av alle prosesser
   </text>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#6b7280"/>

@@ -6,15 +6,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="#212529">
     Beste praksis for likviditetsbudsjett
   </text>
   
-  <!-- Central best practices concept -->
+
   <rect x="300" y="200" width="200" height="100" fill="#28a745" stroke="#1e7e34" stroke-width="2" rx="10"/>
   <text x="400" y="235" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
     BESTE
@@ -26,7 +26,7 @@
     Effektivt styringsverktøy
   </text>
   
-  <!-- Top left: Organizational factors -->
+
   <rect x="50" y="80" width="150" height="80" fill="#007bff" stroke="#0056b3" stroke-width="2" rx="8"/>
   <text x="125" y="105" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
     ORGANISATORISKE
@@ -41,7 +41,7 @@
     Regelmessige møter
   </text>
   
-  <!-- Top right: Quality assurance -->
+
   <rect x="600" y="80" width="150" height="80" fill="#dc3545" stroke="#c82333" stroke-width="2" rx="8"/>
   <text x="675" y="105" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
     KVALITETS-
@@ -56,7 +56,7 @@
     Sensitivitetsanalyse
   </text>
   
-  <!-- Left: Responsibility and control -->
+
   <rect x="50" y="220" width="150" height="60" fill="#6f42c1" stroke="#5a32a3" stroke-width="2" rx="8"/>
   <text x="125" y="240" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
     ANSVAR &amp;
@@ -68,7 +68,7 @@
     Eskaleringsrutiner
   </text>
   
-  <!-- Right: Competence development -->
+
   <rect x="600" y="220" width="150" height="60" fill="#fd7e14" stroke="#e55a00" stroke-width="2" rx="8"/>
   <text x="675" y="240" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
     KOMPETANSE-
@@ -80,7 +80,7 @@
     Opplæring personell
   </text>
   
-  <!-- Bottom left: Continuous improvement -->
+
   <rect x="50" y="360" width="150" height="80" fill="#17a2b8" stroke="#138496" stroke-width="2" rx="8"/>
   <text x="125" y="385" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
     KONTINUERLIG
@@ -95,7 +95,7 @@
     Prosessoptimalisering
   </text>
   
-  <!-- Bottom center: Historical validation -->
+
   <rect x="325" y="360" width="150" height="80" fill="#6c757d" stroke="#5a6268" stroke-width="2" rx="8"/>
   <text x="400" y="385" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
     HISTORISK
@@ -110,7 +110,7 @@
     prognoser vs faktisk
   </text>
   
-  <!-- Bottom right: Technology upgrade -->
+
   <rect x="600" y="360" width="150" height="80" fill="#20c997" stroke="#1aa179" stroke-width="2" rx="8"/>
   <text x="675" y="385" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
     TEKNOLOGI-
@@ -125,35 +125,35 @@
     og systemer
   </text>
   
-  <!-- Arrows connecting to central best practices -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#6c757d"/>
     </marker>
   </defs>
   
-  <!-- From organizational factors -->
+
   <path d="M 200 140 Q 250 170 300 220" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- From quality assurance -->
+
   <path d="M 600 140 Q 550 170 500 220" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- From responsibility and control -->
+
   <path d="M 200 250 L 300 250" stroke="#6c757d" stroke-width="2" marker-end="url(#arrowhead)"/>
   
-  <!-- From competence development -->
+
   <path d="M 600 250 L 500 250" stroke="#6c757d" stroke-width="2" marker-end="url(#arrowhead)"/>
   
-  <!-- To continuous improvement -->
+
   <path d="M 300 280 Q 250 320 200 360" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- To historical validation -->
+
   <path d="M 400 300 L 400 360" stroke="#6c757d" stroke-width="2" marker-end="url(#arrowhead)"/>
   
-  <!-- To technology upgrade -->
+
   <path d="M 500 280 Q 550 320 600 360" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Key principles at bottom -->
+
   <text x="400" y="480" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#495057">
     Systematisk tilnærming • Kvalitetssikring • Kontinuerlig læring
   </text>

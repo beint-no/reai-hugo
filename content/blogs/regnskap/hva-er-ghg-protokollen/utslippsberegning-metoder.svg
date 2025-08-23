@@ -14,16 +14,16 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="700" fill="#f8f9fa" />
   
-  <!-- Title -->
+
   <text x="400" y="40" font-family="Arial, sans-serif" font-size="26" font-weight="bold" 
         text-anchor="middle" fill="#2c3e50">
     Beregningsmetoder for Klimagassutslipp
   </text>
   
-  <!-- Main Formula -->
+
   <g transform="translate(400, 100)">
     <rect x="-200" y="-30" width="400" height="60" fill="url(#formulaGradient)" 
           stroke="#2980b9" stroke-width="3" rx="10" />
@@ -33,9 +33,9 @@
           text-anchor="middle" fill="white">Utslipp = Aktivitetsdata × Utslippsfaktor × GWP</text>
   </g>
   
-  <!-- Formula Components -->
+
   <g transform="translate(100, 200)">
-    <!-- Activity Data -->
+
     <g transform="translate(0, 0)">
       <rect x="0" y="0" width="150" height="80" fill="#f39c12" stroke="#e67e22" stroke-width="2" rx="5" />
       <text x="75" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" 
@@ -48,7 +48,7 @@
             text-anchor="middle" fill="white">• km transport</text>
     </g>
     
-    <!-- Emission Factor -->
+
     <g transform="translate(200, 0)">
       <rect x="0" y="0" width="150" height="80" fill="url(#factorGradient)" 
             stroke="#c0392b" stroke-width="2" rx="5" />
@@ -62,7 +62,7 @@
             text-anchor="middle" fill="white">• kg CO₂/km</text>
     </g>
     
-    <!-- GWP -->
+
     <g transform="translate(400, 0)">
       <rect x="0" y="0" width="150" height="80" fill="#9b59b6" stroke="#8e44ad" stroke-width="2" rx="5" />
       <text x="75" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" 
@@ -76,13 +76,13 @@
     </g>
   </g>
   
-  <!-- Multiplication symbols -->
+
   <text x="175" y="245" font-family="Arial, sans-serif" font-size="24" font-weight="bold" 
         text-anchor="middle" fill="#2c3e50">×</text>
   <text x="375" y="245" font-family="Arial, sans-serif" font-size="24" font-weight="bold" 
         text-anchor="middle" fill="#2c3e50">=</text>
   
-  <!-- Result -->
+
   <g transform="translate(600, 200)">
     <rect x="0" y="0" width="120" height="80" fill="url(#exampleGradient)" 
           stroke="#229954" stroke-width="2" rx="5" />
@@ -94,15 +94,15 @@
           text-anchor="middle" fill="white">ekvivalenter</text>
   </g>
   
-  <!-- Practical Example -->
+
   <g transform="translate(50, 320)">
     <rect x="0" y="0" width="700" height="120" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2" rx="8" />
     <text x="350" y="25" font-family="Arial, sans-serif" font-size="18" font-weight="bold" 
           text-anchor="middle" fill="#2c3e50">Praktisk Eksempel: Dieselforbruk</text>
     
-    <!-- Example calculation -->
+
     <g transform="translate(50, 50)">
-      <!-- Input values -->
+
       <rect x="0" y="0" width="120" height="50" fill="#3498db" stroke="#2980b9" stroke-width="1" rx="3" />
       <text x="60" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" 
             text-anchor="middle" fill="white">1000 liter</text>
@@ -138,12 +138,12 @@
     </g>
   </g>
   
-  <!-- Norwegian Emission Factors Table -->
+
   <g transform="translate(50, 470)">
     <text x="0" y="0" font-family="Arial, sans-serif" font-size="18" font-weight="bold" 
           fill="#2c3e50">Norske Utslippsfaktorer (Miljødirektoratet)</text>
     
-    <!-- Table header -->
+
     <rect x="0" y="20" width="700" height="30" fill="#34495e" />
     <text x="100" y="40" font-family="Arial, sans-serif" font-size="14" font-weight="bold" 
           text-anchor="middle" fill="white">Energikilde</text>
@@ -154,8 +154,8 @@
     <text x="600" y="40" font-family="Arial, sans-serif" font-size="14" font-weight="bold" 
           text-anchor="middle" fill="white">Kilde</text>
     
-    <!-- Table rows -->
-    <!-- Row 1 -->
+
+
     <rect x="0" y="50" width="700" height="25" fill="#ecf0f1" />
     <text x="100" y="67" font-family="Arial, sans-serif" font-size="12" 
           text-anchor="middle" fill="#2c3e50">Norsk strømmiks</text>
@@ -166,7 +166,7 @@
     <text x="600" y="67" font-family="Arial, sans-serif" font-size="12" 
           text-anchor="middle" fill="#2c3e50">Miljødirektoratet</text>
     
-    <!-- Row 2 -->
+
     <rect x="0" y="75" width="700" height="25" fill="#ffffff" />
     <text x="100" y="92" font-family="Arial, sans-serif" font-size="12" 
           text-anchor="middle" fill="#2c3e50">Fyringsolje</text>
@@ -177,7 +177,7 @@
     <text x="600" y="92" font-family="Arial, sans-serif" font-size="12" 
           text-anchor="middle" fill="#2c3e50">Miljødirektoratet</text>
     
-    <!-- Row 3 -->
+
     <rect x="0" y="100" width="700" height="25" fill="#ecf0f1" />
     <text x="100" y="117" font-family="Arial, sans-serif" font-size="12" 
           text-anchor="middle" fill="#2c3e50">Naturgass</text>
@@ -188,7 +188,7 @@
     <text x="600" y="117" font-family="Arial, sans-serif" font-size="12" 
           text-anchor="middle" fill="#2c3e50">Miljødirektoratet</text>
     
-    <!-- Row 4 -->
+
     <rect x="0" y="125" width="700" height="25" fill="#ffffff" />
     <text x="100" y="142" font-family="Arial, sans-serif" font-size="12" 
           text-anchor="middle" fill="#2c3e50">Fjernvarme (snitt)</text>
@@ -199,15 +199,15 @@
     <text x="600" y="142" font-family="Arial, sans-serif" font-size="12" 
           text-anchor="middle" fill="#2c3e50">Fjernvarmebransjen</text>
     
-    <!-- Table border -->
+
     <rect x="0" y="20" width="700" height="130" fill="none" stroke="#bdc3c7" stroke-width="2" />
-    <!-- Vertical lines -->
+
     <line x1="200" y1="20" x2="200" y2="150" stroke="#bdc3c7" stroke-width="1" />
     <line x1="400" y1="20" x2="400" y2="150" stroke="#bdc3c7" stroke-width="1" />
     <line x1="550" y1="20" x2="550" y2="150" stroke="#bdc3c7" stroke-width="1" />
   </g>
   
-  <!-- Quality Assurance Box -->
+
   <g transform="translate(450, 620)">
     <rect x="0" y="0" width="300" height="70" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="5" />
     <text x="150" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" 
@@ -220,7 +220,7 @@
     </text>
   </g>
   
-  <!-- Data Sources Box -->
+
   <g transform="translate(50, 620)">
     <rect x="0" y="0" width="350" height="70" fill="#d1ecf1" stroke="#17a2b8" stroke-width="2" rx="5" />
     <text x="175" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" 

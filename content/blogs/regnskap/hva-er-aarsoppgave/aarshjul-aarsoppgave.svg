@@ -6,22 +6,22 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8fafc"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
   <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white" text-anchor="middle">Årshjul for Årsoppgave</text>
   
-  <!-- Content area -->
+
   <g transform="translate(100, 80)">
     
-    <!-- Central circle -->
+
     <circle cx="300" cy="250" r="80" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="3"/>
     <text x="300" y="240" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#334155" text-anchor="middle">ÅRSOPPGAVE</text>
     <text x="300" y="260" font-family="Arial, sans-serif" font-size="14" fill="#334155" text-anchor="middle">PROSESS</text>
     
-    <!-- Q1 - January to March -->
+
     <g transform="translate(0, 0)">
       <path d="M 300 170 A 80 80 0 0 1 380 250 L 340 250 A 40 40 0 0 0 300 210 Z" fill="#ef4444" stroke="#dc2626" stroke-width="2"/>
       <text x="350" y="190" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white" text-anchor="middle">Q1</text>
@@ -35,7 +35,7 @@
       <text x="425" y="230" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Utarbeidelse og kvalitetssikring</text>
     </g>
     
-    <!-- Q2 - April to June -->
+
     <g transform="translate(0, 0)">
       <path d="M 380 250 A 80 80 0 0 1 300 330 L 300 290 A 40 40 0 0 0 340 250 Z" fill="#10b981" stroke="#059669" stroke-width="2"/>
       <text x="350" y="310" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white" text-anchor="middle">Q2</text>
@@ -50,7 +50,7 @@
       <text x="425" y="395" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Oppfølging av henvendelser</text>
     </g>
     
-    <!-- Q3 - July to September -->
+
     <g transform="translate(0, 0)">
       <path d="M 300 330 A 80 80 0 0 1 220 250 L 260 250 A 40 40 0 0 0 300 290 Z" fill="#f59e0b" stroke="#d97706" stroke-width="2"/>
       <text x="250" y="310" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white" text-anchor="middle">Q3</text>
@@ -64,7 +64,7 @@
       <text x="45" y="375" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Systemforbedringer</text>
     </g>
     
-    <!-- Q4 - October to December -->
+
     <g transform="translate(0, 0)">
       <path d="M 220 250 A 80 80 0 0 1 300 170 L 300 210 A 40 40 0 0 0 260 250 Z" fill="#6366f1" stroke="#4338ca" stroke-width="2"/>
       <text x="250" y="190" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white" text-anchor="middle">Q4</text>
@@ -78,7 +78,7 @@
       <text x="45" y="225" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Dokumentasjonsarbeid</text>
     </g>
     
-    <!-- Critical dates -->
+
     <g transform="translate(0, 420)">
       <rect x="0" y="0" width="600" height="120" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="2" rx="8"/>
       <text x="300" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#334155" text-anchor="middle">Kritiske Datoer og Milepæler</text>

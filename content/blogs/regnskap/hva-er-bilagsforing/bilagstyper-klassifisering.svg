@@ -1,14 +1,14 @@
 <svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Bilagstyper og Klassifisering
   </text>
   
-  <!-- Main classification boxes -->
-  <!-- Primary vouchers section -->
+
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="320" height="450" fill="#ffffff" stroke="#3498db" stroke-width="3" rx="12"/>
     <rect x="0" y="0" width="320" height="50" fill="#3498db" rx="12"/>
@@ -20,8 +20,8 @@
       Originaldokumenter som direkte dokumenterer transaksjoner
     </text>
     
-    <!-- Primary voucher types -->
-    <!-- Sales invoice -->
+
+
     <g transform="translate(20, 100)">
       <rect x="0" y="0" width="120" height="80" fill="#ecf0f1" stroke="#3498db" stroke-width="1" rx="6"/>
       <rect x="10" y="10" width="100" height="8" fill="#2ecc71"/>
@@ -36,7 +36,7 @@
       </text>
     </g>
     
-    <!-- Purchase invoice -->
+
     <g transform="translate(160, 100)">
       <rect x="0" y="0" width="120" height="80" fill="#ecf0f1" stroke="#3498db" stroke-width="1" rx="6"/>
       <rect x="10" y="10" width="100" height="8" fill="#e74c3c"/>
@@ -51,7 +51,7 @@
       </text>
     </g>
     
-    <!-- Receipt -->
+
     <g transform="translate(20, 200)">
       <rect x="0" y="0" width="120" height="80" fill="#ecf0f1" stroke="#3498db" stroke-width="1" rx="6"/>
       <rect x="10" y="10" width="100" height="6" fill="#f39c12"/>
@@ -67,7 +67,7 @@
       </text>
     </g>
     
-    <!-- Bank transaction -->
+
     <g transform="translate(160, 200)">
       <rect x="0" y="0" width="120" height="80" fill="#ecf0f1" stroke="#3498db" stroke-width="1" rx="6"/>
       <rect x="10" y="10" width="100" height="6" fill="#9b59b6"/>
@@ -83,7 +83,7 @@
       </text>
     </g>
     
-    <!-- Payslip -->
+
     <g transform="translate(90, 300)">
       <rect x="0" y="0" width="120" height="80" fill="#ecf0f1" stroke="#3498db" stroke-width="1" rx="6"/>
       <rect x="10" y="10" width="100" height="6" fill="#1abc9c"/>
@@ -101,7 +101,7 @@
     </g>
   </g>
   
-  <!-- Secondary vouchers section -->
+
   <g transform="translate(430, 80)">
     <rect x="0" y="0" width="320" height="450" fill="#ffffff" stroke="#e74c3c" stroke-width="3" rx="12"/>
     <rect x="0" y="0" width="320" height="50" fill="#e74c3c" rx="12"/>
@@ -113,8 +113,8 @@
       Interne dokumenter som støtter og forklarer primærbilagene
     </text>
     
-    <!-- Secondary voucher types -->
-    <!-- Voucher journal -->
+
+
     <g transform="translate(20, 100)">
       <rect x="0" y="0" width="120" height="80" fill="#ecf0f1" stroke="#e74c3c" stroke-width="1" rx="6"/>
       <rect x="10" y="10" width="100" height="6" fill="#e67e22"/>
@@ -132,7 +132,7 @@
       </text>
     </g>
     
-    <!-- Accounting voucher -->
+
     <g transform="translate(160, 100)">
       <rect x="0" y="0" width="120" height="80" fill="#ecf0f1" stroke="#e74c3c" stroke-width="1" rx="6"/>
       <rect x="10" y="10" width="100" height="6" fill="#8e44ad"/>
@@ -150,7 +150,7 @@
       </text>
     </g>
     
-    <!-- Attestation voucher -->
+
     <g transform="translate(20, 200)">
       <rect x="0" y="0" width="120" height="80" fill="#ecf0f1" stroke="#e74c3c" stroke-width="1" rx="6"/>
       <rect x="10" y="10" width="100" height="6" fill="#27ae60"/>
@@ -167,7 +167,7 @@
       </text>
     </g>
     
-    <!-- Correction voucher -->
+
     <g transform="translate(160, 200)">
       <rect x="0" y="0" width="120" height="80" fill="#ecf0f1" stroke="#e74c3c" stroke-width="1" rx="6"/>
       <rect x="10" y="10" width="100" height="6" fill="#c0392b"/>
@@ -184,13 +184,13 @@
     </g>
   </g>
   
-  <!-- Flow arrows -->
+
   <path d="M 200 550 Q 400 580 600 550" stroke="#34495e" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <text x="400" y="575" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#34495e">
     Støtter og dokumenterer
   </text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>

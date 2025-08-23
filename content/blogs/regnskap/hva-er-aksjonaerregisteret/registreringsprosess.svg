@@ -1,13 +1,13 @@
 <svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Registreringsprosess i Aksjonærregisteret
   </text>
   
-  <!-- Step 1: Trigger events -->
+
   <rect x="50" y="70" width="150" height="100" fill="#e74c3c" stroke="#c0392b" stroke-width="2" rx="5"/>
   <text x="125" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Utløsende hendelser
@@ -17,13 +17,13 @@
   <text x="60" y="145" font-family="Arial, sans-serif" font-size="10" fill="white">• Nye aksjonærer</text>
   <text x="60" y="160" font-family="Arial, sans-serif" font-size="10" fill="white">• Adresseendring</text>
   
-  <!-- Arrow 1 -->
+
   <path d="M 200 120 L 240 120" stroke="#34495e" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <text x="220" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#34495e">
     Innen 1 måned
   </text>
   
-  <!-- Step 2: Company reporting -->
+
   <rect x="250" y="70" width="150" height="100" fill="#3498db" stroke="#2980b9" stroke-width="2" rx="5"/>
   <text x="325" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Selskap melder inn
@@ -33,13 +33,13 @@
   <text x="260" y="145" font-family="Arial, sans-serif" font-size="10" fill="white">• Betaler gebyr</text>
   <text x="260" y="160" font-family="Arial, sans-serif" font-size="10" fill="white">• Sender elektronisk</text>
   
-  <!-- Arrow 2 -->
+
   <path d="M 400 120 L 440 120" stroke="#34495e" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <text x="420" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#34495e">
     Automatisk
   </text>
   
-  <!-- Step 3: Initial processing -->
+
   <rect x="450" y="70" width="150" height="100" fill="#f39c12" stroke="#e67e22" stroke-width="2" rx="5"/>
   <text x="525" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Mottak og kontroll
@@ -49,13 +49,13 @@
   <text x="460" y="145" font-family="Arial, sans-serif" font-size="10" fill="white">• Gebyr registrert</text>
   <text x="460" y="160" font-family="Arial, sans-serif" font-size="10" fill="white">• Kvittering sendt</text>
   
-  <!-- Arrow 3 down -->
+
   <path d="M 525 170 L 525 210" stroke="#34495e" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <text x="545" y="190" font-family="Arial, sans-serif" font-size="10" fill="#34495e">
     1-3 dager
   </text>
   
-  <!-- Step 4: Quality control -->
+
   <rect x="450" y="220" width="150" height="100" fill="#9b59b6" stroke="#8e44ad" stroke-width="2" rx="5"/>
   <text x="525" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Kvalitetskontroll
@@ -65,16 +65,16 @@
   <text x="460" y="295" font-family="Arial, sans-serif" font-size="10" fill="white">• Juridisk vurdering</text>
   <text x="460" y="310" font-family="Arial, sans-serif" font-size="10" fill="white">• Eventuelle spørsmål</text>
   
-  <!-- Decision diamond -->
+
   <polygon points="525,340 575,370 525,400 475,370" fill="#e67e22" stroke="#d35400" stroke-width="2"/>
   <text x="525" y="375" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
     OK?
   </text>
   
-  <!-- Arrow from quality control to decision -->
+
   <path d="M 525 320 L 525 340" stroke="#34495e" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Rejection path -->
+
   <path d="M 475 370 L 325 370" stroke="#e74c3c" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <text x="400" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#e74c3c">
     Nei - Avslag/Tilbakemelding
@@ -91,13 +91,13 @@
     Selskap må rette opp
   </text>
   
-  <!-- Approval path -->
+
   <path d="M 575 370 L 650 370" stroke="#27ae60" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <text x="612" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#27ae60">
     Ja - Godkjent
   </text>
   
-  <!-- Step 5: Registration -->
+
   <rect x="600" y="340" width="150" height="60" fill="#27ae60" stroke="#229954" stroke-width="2" rx="5"/>
   <text x="675" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     Registrering
@@ -109,13 +109,13 @@
     Opplysninger lagres
   </text>
   
-  <!-- Arrow down from registration -->
+
   <path d="M 675 400 L 675 440" stroke="#34495e" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <text x="695" y="420" font-family="Arial, sans-serif" font-size="10" fill="#34495e">
     Umiddelbart
   </text>
   
-  <!-- Step 6: Publication -->
+
   <rect x="600" y="450" width="150" height="60" fill="#16a085" stroke="#138d75" stroke-width="2" rx="5"/>
   <text x="675" y="475" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     Offentliggjøring
@@ -127,7 +127,7 @@
     Tilgjengelig for alle
   </text>
   
-  <!-- Timeline on the left -->
+
   <rect x="50" y="200" width="150" height="350" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2" rx="5"/>
   <text x="125" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#34495e">
     Tidsfrister
@@ -165,7 +165,7 @@
     Umiddelbart
   </text>
   
-  <!-- Fees section -->
+
   <rect x="70" y="450" width="110" height="80" fill="#34495e" stroke="#2c3e50" stroke-width="1" rx="3"/>
   <text x="125" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
     Gebyrer (2024)
@@ -177,12 +177,12 @@
   <text x="75" y="525" font-family="Arial, sans-serif" font-size="9" fill="white">• Forsinkelse:</text>
   <text x="75" y="535" font-family="Arial, sans-serif" font-size="9" fill="white">  +100% gebyr</text>
   
-  <!-- Bottom note -->
+
   <text x="400" y="580" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">
     Prosessen er i stor grad automatisert og digitalisert
   </text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>

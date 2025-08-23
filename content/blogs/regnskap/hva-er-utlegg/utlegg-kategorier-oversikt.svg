@@ -6,15 +6,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e40af">
     Hovedkategorier av Utlegg
   </text>
   
-  <!-- Category 1: Reiseutlegg -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="220" height="180" rx="12" fill="#dbeafe" stroke="#3b82f6" stroke-width="2"/>
     <circle cx="110" cy="30" r="15" fill="#3b82f6"/>
@@ -39,7 +39,7 @@
     </text>
   </g>
   
-  <!-- Category 2: Representasjon -->
+
   <g transform="translate(290, 80)">
     <rect x="0" y="0" width="220" height="180" rx="12" fill="#ecfccb" stroke="#84cc16" stroke-width="2"/>
     <circle cx="110" cy="30" r="15" fill="#84cc16"/>
@@ -64,7 +64,7 @@
     </text>
   </g>
   
-  <!-- Category 3: Kontormateriell -->
+
   <g transform="translate(530, 80)">
     <rect x="0" y="0" width="220" height="180" rx="12" fill="#fef3c7" stroke="#f59e0b" stroke-width="2"/>
     <circle cx="110" cy="30" r="15" fill="#f59e0b"/>
@@ -89,7 +89,7 @@
     </text>
   </g>
   
-  <!-- Category 4: Andre utgifter -->
+
   <g transform="translate(170, 290)">
     <rect x="0" y="0" width="220" height="180" rx="12" fill="#fce7f3" stroke="#ec4899" stroke-width="2"/>
     <circle cx="110" cy="30" r="15" fill="#ec4899"/>
@@ -116,7 +116,7 @@
     </text>
   </g>
   
-  <!-- Category 5: Ikke-fradragsberettigede -->
+
   <g transform="translate(410, 290)">
     <rect x="0" y="0" width="220" height="180" rx="12" fill="#fee2e2" stroke="#ef4444" stroke-width="2"/>
     <circle cx="110" cy="30" r="15" fill="#ef4444"/>
@@ -143,7 +143,7 @@
     </text>
   </g>
   
-  <!-- Bottom note -->
+
   <rect x="50" y="520" width="700" height="50" rx="8" fill="#1e40af" opacity="0.1"/>
   <text x="400" y="540" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e40af">
     Viktig: Alle utlegg må være nødvendige og vanlige for virksomheten

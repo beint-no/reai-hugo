@@ -10,15 +10,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#0066cc">
     Konteringsprosessen - Oversikt
   </text>
   
-  <!-- Step 1: Bilag -->
+
   <rect x="50" y="80" width="140" height="100" fill="url(#stepGradient)" rx="10"/>
   <text x="120" y="110" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
     1. BILAG
@@ -33,7 +33,7 @@
     Banktransaksjon
   </text>
   
-  <!-- Arrow 1 -->
+
   <path d="M 200 130 L 250 130" stroke="#0066cc" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
@@ -41,7 +41,7 @@
     </marker>
   </defs>
   
-  <!-- Step 2: Analyse -->
+
   <rect x="270" y="80" width="140" height="100" fill="#28a745" rx="10"/>
   <text x="340" y="110" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
     2. ANALYSE
@@ -56,7 +56,7 @@
     Periode
   </text>
   
-  <!-- Arrow 2 -->
+
   <path d="M 420 130 L 470 130" stroke="#28a745" stroke-width="3" fill="none" marker-end="url(#arrowhead2)"/>
   <defs>
     <marker id="arrowhead2" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
@@ -64,7 +64,7 @@
     </marker>
   </defs>
   
-  <!-- Step 3: Kontovalg -->
+
   <rect x="490" y="80" width="140" height="100" fill="#ffc107" rx="10"/>
   <text x="560" y="110" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="black">
     3. KONTOVALG
@@ -79,7 +79,7 @@
     Hjelpekonto
   </text>
   
-  <!-- Arrow down -->
+
   <path d="M 560 190 L 560 240" stroke="#ffc107" stroke-width="3" fill="none" marker-end="url(#arrowhead3)"/>
   <defs>
     <marker id="arrowhead3" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
@@ -87,7 +87,7 @@
     </marker>
   </defs>
   
-  <!-- Step 4: Debet/Kredit -->
+
   <rect x="490" y="260" width="140" height="100" fill="#dc3545" rx="10"/>
   <text x="560" y="290" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
     4. DEBET/KREDIT
@@ -102,7 +102,7 @@
     Balansering
   </text>
   
-  <!-- Arrow left -->
+
   <path d="M 480 310 L 430 310" stroke="#dc3545" stroke-width="3" fill="none" marker-end="url(#arrowhead4)"/>
   <defs>
     <marker id="arrowhead4" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
@@ -110,7 +110,7 @@
     </marker>
   </defs>
   
-  <!-- Step 5: Registrering -->
+
   <rect x="270" y="260" width="140" height="100" fill="#6f42c1" rx="10"/>
   <text x="340" y="290" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
     5. REGISTRERING
@@ -125,7 +125,7 @@
     Beskrivelse
   </text>
   
-  <!-- Arrow left -->
+
   <path d="M 260 310 L 210 310" stroke="#6f42c1" stroke-width="3" fill="none" marker-end="url(#arrowhead5)"/>
   <defs>
     <marker id="arrowhead5" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
@@ -133,7 +133,7 @@
     </marker>
   </defs>
   
-  <!-- Step 6: Kontroll -->
+
   <rect x="50" y="260" width="140" height="100" fill="#17a2b8" rx="10"/>
   <text x="120" y="290" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
     6. KONTROLL
@@ -148,18 +148,18 @@
     Rapporter
   </text>
   
-  <!-- Central Process Circle -->
+
   <circle cx="340" cy="195" r="25" fill="#ffffff" stroke="#0066cc" stroke-width="3"/>
   <text x="340" y="202" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0066cc">
     K
   </text>
   
-  <!-- Bottom Description -->
+
   <text x="400" y="420" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#495057">
     Systematisk prosess for korrekt kontering av alle transaksjoner
   </text>
   
-  <!-- Quality Indicators -->
+
   <rect x="650" y="380" width="120" height="80" fill="#e8f5e8" stroke="#28a745" stroke-width="2" rx="8"/>
   <text x="710" y="400" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#28a745">
     KVALITET

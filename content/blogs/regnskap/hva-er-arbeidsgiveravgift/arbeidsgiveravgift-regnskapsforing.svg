@@ -14,26 +14,26 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="400" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
     Regnskapsmessig Behandling av Arbeidsgiveravgift
   </text>
   
-  <!-- T-Account illustration -->
+
   <g transform="translate(100, 80)">
-    <!-- Account title -->
+
     <text x="300" y="25" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
       Lønnskostnad (inkl. arbeidsgiveravgift)
     </text>
     
-    <!-- T-Account structure -->
+
     <line x1="100" y1="40" x2="500" y2="40" stroke="#333" stroke-width="3"/>
     <line x1="300" y1="40" x2="300" y2="200" stroke="#333" stroke-width="3"/>
     
-    <!-- Debit side -->
+
     <g transform="translate(120, 60)">
       <text x="80" y="20" text-anchor="middle" fill="#dc3545" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
         DEBET
@@ -55,13 +55,13 @@
       </text>
     </g>
     
-    <!-- Credit side -->
+
     <g transform="translate(320, 60)">
       <text x="80" y="20" text-anchor="middle" fill="#28a745" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
         KREDIT
       </text>
       
-      <!-- Payable salary -->
+
       <rect x="0" y="30" width="160" height="45" fill="url(#creditGradient)" stroke="#333" stroke-width="2" rx="5"/>
       <text x="80" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         Lønn til utbetaling
@@ -70,7 +70,7 @@
         kr 50.000
       </text>
       
-      <!-- Payable employer tax -->
+
       <rect x="0" y="85" width="160" height="45" fill="url(#creditGradient)" stroke="#333" stroke-width="2" rx="5"/>
       <text x="80" y="100" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         Skyldig arbeidsgiveravgift
@@ -81,7 +81,7 @@
     </g>
   </g>
   
-  <!-- Journal entry example -->
+
   <g transform="translate(50, 300)">
     <rect x="0" y="0" width="700" height="80" fill="white" stroke="#0066cc" stroke-width="2" rx="10"/>
     <text x="350" y="25" text-anchor="middle" fill="#0066cc" font-family="Arial, sans-serif" font-size="16" font-weight="bold">

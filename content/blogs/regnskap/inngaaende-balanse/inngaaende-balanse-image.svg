@@ -10,17 +10,17 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="400" fill="#ffffff"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
   <text x="400" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="28" font-weight="bold">Inngående Balanse</text>
   
-  <!-- Timeline -->
+
   <line x1="100" y1="150" x2="700" y2="150" stroke="#64748b" stroke-width="3"/>
   
-  <!-- Year markers -->
+
   <circle cx="200" cy="150" r="8" fill="#ef4444"/>
   <text x="200" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold">År N-1</text>
   <text x="200" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">Forrige år</text>
@@ -33,7 +33,7 @@
   <text x="600" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold">År N</text>
   <text x="600" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">Nytt år</text>
   
-  <!-- Balance boxes -->
+
   <rect x="120" y="200" width="160" height="120" fill="url(#balanceGradient)" stroke="#64748b" stroke-width="2" rx="8"/>
   <text x="200" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Utgående Balanse</text>
   <text x="200" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="14">31. Desember</text>
@@ -41,7 +41,7 @@
   <text x="200" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">Passiva: 5.000.000</text>
   <text x="200" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#ef4444">Avslutning av år N-1</text>
   
-  <!-- Arrow -->
+
   <path d="M 290 260 L 350 260" stroke="#22c55e" stroke-width="4" fill="none" marker-end="url(#arrowhead)"/>
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
@@ -56,9 +56,9 @@
   <text x="600" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">Passiva: 5.000.000</text>
   <text x="600" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#3b82f6">Start av år N</text>
   
-  <!-- Equal sign -->
+
   <text x="400" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#22c55e">=</text>
   
-  <!-- Footer note -->
+
   <text x="400" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#64748b">Inngående balanse er identisk med utgående balanse fra forrige periode</text>
 </svg>

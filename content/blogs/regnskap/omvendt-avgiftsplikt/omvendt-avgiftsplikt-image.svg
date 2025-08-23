@@ -14,26 +14,26 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="400" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#212529">
     Omvendt Avgiftsplikt
   </text>
   
-  <!-- Subtitle -->
+
   <text x="400" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#6c757d">
     Kjøperen betaler MVA i stedet for selgeren
   </text>
   
-  <!-- Left side - Traditional MVA -->
+
   <rect x="50" y="100" width="300" height="250" fill="white" stroke="#dee2e6" stroke-width="2" rx="10"/>
   <text x="200" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#495057">
     Vanlig MVA
   </text>
   
-  <!-- Seller box -->
+
   <rect x="70" y="150" width="120" height="60" fill="url(#blueGradient)" rx="5"/>
   <text x="130" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     SELGER
@@ -42,7 +42,7 @@
     (Norsk bedrift)
   </text>
   
-  <!-- Buyer box -->
+
   <rect x="210" y="150" width="120" height="60" fill="url(#greenGradient)" rx="5"/>
   <text x="270" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     KJØPER
@@ -51,7 +51,7 @@
     (Norsk bedrift)
   </text>
   
-  <!-- Arrow from seller to buyer -->
+
   <path d="M 190 180 L 210 180" stroke="#495057" stroke-width="2" marker-end="url(#arrowhead)"/>
   <text x="200" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
     Faktura
@@ -60,7 +60,7 @@
     + MVA
   </text>
   
-  <!-- Arrow from seller to state -->
+
   <path d="M 130 210 L 130 250" stroke="#dc3545" stroke-width="2" marker-end="url(#arrowhead)"/>
   <text x="130" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#dc3545">
     Betaler MVA
@@ -69,13 +69,13 @@
     til staten
   </text>
   
-  <!-- Right side - Reverse Charge -->
+
   <rect x="450" y="100" width="300" height="250" fill="white" stroke="#dee2e6" stroke-width="2" rx="10"/>
   <text x="600" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#495057">
     Omvendt Avgiftsplikt
   </text>
   
-  <!-- Foreign seller box -->
+
   <rect x="470" y="150" width="120" height="60" fill="url(#blueGradient)" rx="5"/>
   <text x="530" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     SELGER
@@ -84,7 +84,7 @@
     (Utenlandsk)
   </text>
   
-  <!-- Norwegian buyer box -->
+
   <rect x="610" y="150" width="120" height="60" fill="url(#greenGradient)" rx="5"/>
   <text x="670" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     KJØPER
@@ -93,7 +93,7 @@
     (Norsk bedrift)
   </text>
   
-  <!-- Arrow from foreign seller to buyer -->
+
   <path d="M 590 180 L 610 180" stroke="#495057" stroke-width="2" marker-end="url(#arrowhead)"/>
   <text x="600" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
     Faktura
@@ -102,7 +102,7 @@
     UTEN MVA
   </text>
   
-  <!-- Arrow from buyer to state -->
+
   <path d="M 670 210 L 670 250" stroke="#dc3545" stroke-width="2" marker-end="url(#arrowhead)"/>
   <text x="670" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#dc3545">
     Beregner og
@@ -111,13 +111,13 @@
     betaler MVA
   </text>
   
-  <!-- State representation -->
+
   <rect x="300" y="320" width="200" height="40" fill="#ffc107" stroke="#e0a800" stroke-width="2" rx="5"/>
   <text x="400" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#212529">
     SKATTEETATEN
   </text>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#495057"/>

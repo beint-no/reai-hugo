@@ -10,19 +10,19 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="700" height="600" fill="#f8fafc"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="700" height="60" fill="url(#headerGrad)"/>
   <text x="350" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="22" font-weight="bold">Varelager - Komponenter og Typer</text>
   
-  <!-- Main varelager box -->
+
   <rect x="250" y="80" width="200" height="60" fill="url(#mainGrad)" stroke="#d97706" stroke-width="3" rx="10"/>
   <text x="350" y="105" text-anchor="middle" fill="#b45309" font-family="Arial, sans-serif" font-size="18" font-weight="bold">VARELAGER</text>
   <text x="350" y="125" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="14">(Varer for salg/produksjon)</text>
   
-  <!-- Handelsbedrifter section -->
+
   <rect x="50" y="180" width="180" height="140" fill="#dcfce7" stroke="#16a34a" stroke-width="2" rx="8"/>
   <text x="140" y="205" text-anchor="middle" fill="#15803d" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Handelsbedrifter</text>
   <text x="140" y="235" text-anchor="middle" fill="#166534" font-family="Arial, sans-serif" font-size="12">• Ferdigvarer</text>
@@ -31,29 +31,29 @@
   <text x="140" y="280" text-anchor="middle" fill="#166534" font-family="Arial, sans-serif" font-size="12">• Reservedeler</text>
   <text x="140" y="305" text-anchor="middle" fill="#15803d" font-family="Arial, sans-serif" font-size="11" font-style="italic">Kjøp → Salg</text>
   
-  <!-- Arrow from main to handelsbedrifter -->
+
   <path d="M 280 140 L 180 180" stroke="#d97706" stroke-width="2" marker-end="url(#orangeArrow)"/>
   
-  <!-- Produksjonsbedrifter section -->
+
   <rect x="260" y="180" width="180" height="160" fill="#dbeafe" stroke="#2563eb" stroke-width="2" rx="8"/>
   <text x="350" y="205" text-anchor="middle" fill="#1d4ed8" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Produksjonsbedrifter</text>
   
-  <!-- Råvarer subsection -->
+
   <rect x="270" y="220" width="160" height="35" fill="#f0f9ff" stroke="#0ea5e9" stroke-width="1" rx="5"/>
   <text x="350" y="240" text-anchor="middle" fill="#0369a1" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Råvarer &amp; Materialer</text>
   
-  <!-- Varer under arbeid subsection -->
+
   <rect x="270" y="260" width="160" height="35" fill="#fef3c7" stroke="#f59e0b" stroke-width="1" rx="5"/>
   <text x="350" y="280" text-anchor="middle" fill="#d97706" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Varer under Arbeid</text>
   
-  <!-- Ferdigvarer subsection -->
+
   <rect x="270" y="300" width="160" height="35" fill="#dcfce7" stroke="#22c55e" stroke-width="1" rx="5"/>
   <text x="350" y="320" text-anchor="middle" fill="#16a34a" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Ferdigvarer</text>
   
-  <!-- Arrow from main to produksjonsbedrifter -->
+
   <path d="M 350 140 L 350 180" stroke="#d97706" stroke-width="2" marker-end="url(#orangeArrow)"/>
   
-  <!-- Tjenestebedrifter section -->
+
   <rect x="470" y="180" width="180" height="140" fill="#fce7f3" stroke="#be185d" stroke-width="2" rx="8"/>
   <text x="560" y="205" text-anchor="middle" fill="#be185d" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Tjenestebedrifter</text>
   <text x="560" y="235" text-anchor="middle" fill="#9d174d" font-family="Arial, sans-serif" font-size="12">• Forbruksmateriell</text>
@@ -62,14 +62,14 @@
   <text x="560" y="280" text-anchor="middle" fill="#9d174d" font-family="Arial, sans-serif" font-size="12">• Vedlikeholdsdeler</text>
   <text x="560" y="305" text-anchor="middle" fill="#be185d" font-family="Arial, sans-serif" font-size="11" font-style="italic">Støtter tjenesteyting</text>
   
-  <!-- Arrow from main to tjenestebedrifter -->
+
   <path d="M 420 140 L 520 180" stroke="#d97706" stroke-width="2" marker-end="url(#orangeArrow)"/>
   
-  <!-- Produksjonsflyt for produksjonsbedrifter -->
+
   <rect x="100" y="370" width="500" height="80" fill="#f1f5f9" stroke="#64748b" stroke-width="2" rx="10"/>
   <text x="350" y="395" text-anchor="middle" fill="#334155" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Produksjonsflyt (Produksjonsbedrifter)</text>
   
-  <!-- Flow arrows -->
+
   <rect x="120" y="410" width="100" height="30" fill="#f0f9ff" stroke="#0ea5e9" stroke-width="1" rx="5"/>
   <text x="170" y="430" text-anchor="middle" fill="#0369a1" font-family="Arial, sans-serif" font-size="11">Råvarer</text>
   
@@ -88,7 +88,7 @@
   <rect x="540" y="410" width="60" height="30" fill="#fef2f2" stroke="#dc2626" stroke-width="1" rx="5"/>
   <text x="570" y="430" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="11">Salg</text>
   
-  <!-- Verdsettelse section -->
+
   <rect x="150" y="480" width="400" height="100" fill="#e0f2fe" stroke="#0891b2" stroke-width="2" rx="10"/>
   <text x="350" y="505" text-anchor="middle" fill="#0e7490" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Verdsettelsesprinsipper</text>
   
@@ -100,7 +100,7 @@
   <text x="400" y="545" fill="#0e7490" font-family="Arial, sans-serif" font-size="12">• Fysisk telling nødvendig</text>
   <text x="400" y="560" fill="#0e7490" font-family="Arial, sans-serif" font-size="12">• Ukuransavsetninger</text>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="orangeArrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
       <polygon points="0 0, 8 3, 0 6" fill="#d97706"/>

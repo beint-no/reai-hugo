@@ -14,24 +14,24 @@
     </style>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#ffffff"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" class="title-text">Internregnskapsføring i Ansvarlig Selskap</text>
   
-  <!-- Main content -->
+
   <g transform="translate(50, 70)">
-    <!-- Company level -->
+
     <rect x="200" y="0" width="300" height="60" class="highlight-box" rx="5"/>
     <text x="350" y="30" class="header-text white-text">Hovedregnskap for ANS</text>
     <text x="350" y="50" class="body-text white-text">Samlet regnskap for hele selskapet</text>
     
-    <!-- Partner accounts -->
+
     <g transform="translate(0, 90)">
       <text x="350" y="0" class="header-text">Individuelle Deltakerkonti</text>
       
-      <!-- Partner 1 account -->
+
       <rect x="0" y="20" width="220" height="140" class="success-box" rx="5"/>
       <text x="110" y="40" class="body-text white-text">Deltaker 1 - Konto</text>
       <text x="110" y="60" class="small-text white-text">Egenkapitalandel: 40%</text>
@@ -41,7 +41,7 @@
       <text x="110" y="130" class="small-text white-text">Saldo: 230 000</text>
       <text x="110" y="145" class="small-text white-text">Forskudd: 15 000</text>
       
-      <!-- Partner 2 account -->
+
       <rect x="240" y="20" width="220" height="140" class="success-box" rx="5"/>
       <text x="350" y="40" class="body-text white-text">Deltaker 2 - Konto</text>
       <text x="350" y="60" class="small-text white-text">Egenkapitalandel: 35%</text>
@@ -51,7 +51,7 @@
       <text x="350" y="130" class="small-text white-text">Saldo: 180 000</text>
       <text x="350" y="145" class="small-text white-text">Forskudd: 0</text>
       
-      <!-- Partner 3 account -->
+
       <rect x="480" y="20" width="220" height="140" class="success-box" rx="5"/>
       <text x="590" y="40" class="body-text white-text">Deltaker 3 - Konto</text>
       <text x="590" y="60" class="small-text white-text">Egenkapitalandel: 25%</text>
@@ -62,11 +62,11 @@
       <text x="590" y="145" class="small-text white-text">Forskudd: 5 000</text>
     </g>
     
-    <!-- Cost allocation -->
+
     <g transform="translate(0, 270)">
       <text x="350" y="0" class="header-text">Kostnadsfordeling</text>
       
-      <!-- Common costs -->
+
       <rect x="0" y="20" width="160" height="100" class="info-box" rx="5"/>
       <text x="80" y="40" class="body-text white-text">Felles Kostnader</text>
       <text x="80" y="60" class="small-text white-text">Lokale: 120 000</text>
@@ -74,7 +74,7 @@
       <text x="80" y="90" class="small-text white-text">Forsikring: 30 000</text>
       <text x="80" y="105" class="small-text white-text">Sum: 230 000</text>
       
-      <!-- Allocation method -->
+
       <rect x="180" y="20" width="160" height="100" class="box-fill" rx="5"/>
       <text x="260" y="40" class="body-text">Fordelingsnøkkel</text>
       <text x="260" y="60" class="small-text">Arbeidsandel:</text>
@@ -82,7 +82,7 @@
       <text x="260" y="90" class="small-text">Deltaker 2: 30%</text>
       <text x="260" y="105" class="small-text">Deltaker 3: 20%</text>
       
-      <!-- Allocated costs -->
+
       <rect x="360" y="20" width="160" height="100" class="warning-box" rx="5"/>
       <text x="440" y="40" class="body-text white-text">Fordelt på</text>
       <text x="440" y="60" class="small-text white-text">Deltaker 1: 115 000</text>
@@ -90,7 +90,7 @@
       <text x="440" y="90" class="small-text white-text">Deltaker 3: 46 000</text>
       <text x="440" y="105" class="small-text white-text">Sum: 230 000</text>
       
-      <!-- Revenue allocation -->
+
       <rect x="540" y="20" width="160" height="100" class="success-box" rx="5"/>
       <text x="620" y="40" class="body-text white-text">Inntektsfordeling</text>
       <text x="620" y="60" class="small-text white-text">Etter faktisk</text>
@@ -99,39 +99,39 @@
       <text x="620" y="105" class="small-text white-text">i selskapsavtale</text>
     </g>
     
-    <!-- Monthly reconciliation -->
+
     <g transform="translate(0, 400)">
       <text x="350" y="0" class="header-text">Månedlig Avstemming</text>
       
-      <!-- Opening balance -->
+
       <rect x="0" y="20" width="130" height="80" class="box-fill" rx="5"/>
       <text x="65" y="40" class="body-text">Inngående</text>
       <text x="65" y="55" class="small-text">Balanse</text>
       <text x="65" y="70" class="small-text">1. januar</text>
       <text x="65" y="85" class="small-text">535 000</text>
       
-      <!-- Plus additions -->
+
       <rect x="150" y="20" width="130" height="80" class="success-box" rx="5"/>
       <text x="215" y="40" class="body-text white-text">+ Tillegg</text>
       <text x="215" y="55" class="small-text white-text">Kapitalinnbetaling</text>
       <text x="215" y="70" class="small-text white-text">Månedsresultat</text>
       <text x="215" y="85" class="small-text white-text">65 000</text>
       
-      <!-- Minus withdrawals -->
+
       <rect x="300" y="20" width="130" height="80" class="warning-box" rx="5"/>
       <text x="365" y="40" class="body-text white-text">- Uttak</text>
       <text x="365" y="55" class="small-text white-text">Lønn</text>
       <text x="365" y="70" class="small-text white-text">Forskudd</text>
       <text x="365" y="85" class="small-text white-text">40 000</text>
       
-      <!-- Closing balance -->
+
       <rect x="450" y="20" width="130" height="80" class="highlight-box" rx="5"/>
       <text x="515" y="40" class="body-text white-text">= Utgående</text>
       <text x="515" y="55" class="small-text white-text">Balanse</text>
       <text x="515" y="70" class="small-text white-text">31. januar</text>
       <text x="515" y="85" class="small-text white-text">560 000</text>
       
-      <!-- Control -->
+
       <rect x="600" y="20" width="100" height="80" class="info-box" rx="5"/>
       <text x="650" y="40" class="body-text white-text">Kontroll</text>
       <text x="650" y="55" class="small-text white-text">Avstemming</text>
@@ -139,13 +139,13 @@
       <text x="650" y="85" class="small-text white-text">hovedbok</text>
     </g>
     
-    <!-- Arrows -->
+
     <path d="M 350 60 L 350 80" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
     <path d="M 350 230 L 350 250" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
     <path d="M 350 350 L 350 380" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
   </g>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>

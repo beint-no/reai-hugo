@@ -6,19 +6,19 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="300" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="#333">
     Kvartalsrapportering Tidslinje
   </text>
   
-  <!-- Timeline base -->
+
   <line x1="50" y1="150" x2="750" y2="150" stroke="#666" stroke-width="3"/>
   
-  <!-- Quarter markers -->
-  <!-- Q1 End (March 31) -->
+
+
   <g transform="translate(150, 150)">
     <circle cx="0" cy="0" r="8" fill="#1976d2"/>
     <line x1="0" y1="0" x2="0" y2="-40" stroke="#1976d2" stroke-width="2"/>
@@ -28,7 +28,7 @@
     <text x="0" y="40" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#666">Rapport innen 31. Mai</text>
   </g>
   
-  <!-- Q2 End (June 30) -->
+
   <g transform="translate(300, 150)">
     <circle cx="0" cy="0" r="8" fill="#388e3c"/>
     <line x1="0" y1="0" x2="0" y2="-40" stroke="#388e3c" stroke-width="2"/>
@@ -38,7 +38,7 @@
     <text x="0" y="40" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#666">Rapport innen 31. Aug</text>
   </g>
   
-  <!-- Q3 End (September 30) -->
+
   <g transform="translate(450, 150)">
     <circle cx="0" cy="0" r="8" fill="#f57c00"/>
     <line x1="0" y1="0" x2="0" y2="-40" stroke="#f57c00" stroke-width="2"/>
@@ -48,7 +48,7 @@
     <text x="0" y="40" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#666">Rapport innen 30. Nov</text>
   </g>
   
-  <!-- Q4 End (December 31) -->
+
   <g transform="translate(600, 150)">
     <circle cx="0" cy="0" r="8" fill="#c2185b"/>
     <line x1="0" y1="0" x2="0" y2="-40" stroke="#c2185b" stroke-width="2"/>
@@ -58,7 +58,7 @@
     <text x="0" y="40" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#666">Årsrapport innen 31. Mar</text>
   </g>
   
-  <!-- Legend -->
+
   <g transform="translate(50, 220)">
     <text x="0" y="0" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">Viktige frister:</text>
     <text x="0" y="20" font-family="Arial, sans-serif" font-size="11" fill="#666">• Børsnoterte selskaper: Maks 2 måneder etter kvartalsslutt</text>
@@ -66,7 +66,7 @@
     <text x="0" y="50" font-family="Arial, sans-serif" font-size="11" fill="#666">• Ikke-børsnoterte selskaper har ingen lovpålagt kvartalsrapportering</text>
   </g>
   
-  <!-- Arrow indicating flow -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#666"/>
@@ -74,6 +74,6 @@
   </defs>
   <line x1="50" y1="150" x2="750" y2="150" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
   
-  <!-- Year indicator -->
+
   <text x="750" y="140" font-family="Arial, sans-serif" font-size="12" fill="#666">Tid</text>
 </svg>

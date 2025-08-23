@@ -10,27 +10,27 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="700" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="700" height="50" fill="url(#headerGradient)"/>
   <text x="350" y="30" text-anchor="middle" fill="black" font-family="Arial, sans-serif" font-size="20" font-weight="bold">
     Sammenheng mellom Lønnskostnad og Produktivitet
   </text>
   
-  <!-- Main content -->
+
   <g transform="translate(50, 70)">
-    <!-- Productivity vs Cost Chart -->
+
     <text x="300" y="30" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       Produktivitet vs Lønnskostnad per Ansatt
     </text>
     
-    <!-- Chart axes -->
+
     <line x1="80" y1="50" x2="80" y2="250" stroke="#333" stroke-width="2"/>
     <line x1="80" y1="250" x2="520" y2="250" stroke="#333" stroke-width="2"/>
     
-    <!-- Y-axis labels (Productivity) -->
+
     <text x="70" y="60" text-anchor="end" fill="#495057" font-family="Arial, sans-serif" font-size="10">Høy</text>
     <text x="70" y="150" text-anchor="end" fill="#495057" font-family="Arial, sans-serif" font-size="10">Middels</text>
     <text x="70" y="240" text-anchor="end" fill="#495057" font-family="Arial, sans-serif" font-size="10">Lav</text>
@@ -38,7 +38,7 @@
       Produktivitet
     </text>
     
-    <!-- X-axis labels (Cost) -->
+
     <text x="120" y="265" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="10">Lav</text>
     <text x="300" y="265" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="10">Middels</text>
     <text x="480" y="265" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="10">Høy</text>
@@ -46,34 +46,34 @@
       Lønnskostnad per Ansatt
     </text>
     
-    <!-- Data points -->
-    <!-- High productivity, low cost (ideal) -->
+
+
     <circle cx="150" cy="80" r="8" fill="#28a745" stroke="#1e7e34" stroke-width="2"/>
     <text x="150" y="95" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="9">Ideell</text>
     
-    <!-- High productivity, high cost -->
+
     <circle cx="450" cy="90" r="8" fill="#17a2b8" stroke="#138496" stroke-width="2"/>
     <text x="450" y="105" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="9">Spesialist</text>
     
-    <!-- Low productivity, low cost -->
+
     <circle cx="180" cy="220" r="8" fill="#ffc107" stroke="#e0a800" stroke-width="2"/>
     <text x="180" y="235" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="9">Trainee</text>
     
-    <!-- Low productivity, high cost (problematic) -->
+
     <circle cx="420" cy="210" r="8" fill="#dc3545" stroke="#c82333" stroke-width="2"/>
     <text x="420" y="225" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="9">Problem</text>
     
-    <!-- Medium productivity, medium cost -->
+
     <circle cx="300" cy="150" r="8" fill="#6c757d" stroke="#5a6268" stroke-width="2"/>
     <text x="300" y="165" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="9">Gjennomsnitt</text>
     
-    <!-- Optimal line -->
+
     <line x1="120" y1="70" x2="480" y2="120" stroke="#28a745" stroke-width="2" stroke-dasharray="5,5"/>
     <text x="300" y="90" text-anchor="middle" fill="#28a745" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
       Optimal balanse
     </text>
     
-    <!-- Formula box -->
+
     <rect x="80" y="310" width="440" height="80" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="5"/>
     <text x="300" y="330" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Produktivitetsformel
@@ -85,7 +85,7 @@
       Eksempel: 7.000.000 kr ÷ 10.000 enheter = 700 kr per enhet
     </text>
     
-    <!-- Improvement strategies -->
+
     <rect x="80" y="410" width="440" height="60" fill="#e9ecef" stroke="#dee2e6" stroke-width="1" rx="5"/>
     <text x="300" y="430" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Strategier for å forbedre forholdet:
@@ -95,7 +95,7 @@
     </text>
   </g>
   
-  <!-- Legend -->
+
   <g transform="translate(550, 100)">
     <text x="75" y="15" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Kategorier

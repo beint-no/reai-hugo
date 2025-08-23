@@ -11,13 +11,13 @@
     .content-bg { fill: #f7fafc; stroke: #a0aec0; stroke-width: 1; }
   </style>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#ffffff"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" class="title-text">Daglig Arbeidskapitalstyring - Rutiner</text>
   
-  <!-- Daily tasks -->
+
   <rect x="50" y="70" width="150" height="40" class="daily-bg" rx="5"/>
   <text x="125" y="95" class="period-text">DAGLIG</text>
   
@@ -30,7 +30,7 @@
   <text x="70" y="215" class="task-text">• Kritiske betalinger</text>
   <text x="70" y="230" class="highlight-text">Mål: Likviditetskontroll</text>
   
-  <!-- Weekly tasks -->
+
   <rect x="220" y="70" width="150" height="40" class="weekly-bg" rx="5"/>
   <text x="295" y="95" class="period-text">UKENTLIG</text>
   
@@ -43,7 +43,7 @@
   <text x="240" y="215" class="task-text">• Betalingsplan</text>
   <text x="240" y="230" class="highlight-text">Mål: Fordringsstyring</text>
   
-  <!-- Monthly tasks -->
+
   <rect x="390" y="70" width="150" height="40" class="monthly-bg" rx="5"/>
   <text x="465" y="95" class="period-text">MÅNEDLIG</text>
   
@@ -56,7 +56,7 @@
   <text x="410" y="215" class="task-text">• Trendanalyse</text>
   <text x="410" y="230" class="highlight-text">Mål: Optimalisering</text>
   
-  <!-- Quarterly tasks -->
+
   <rect x="560" y="70" width="150" height="40" class="quarterly-bg" rx="5"/>
   <text x="635" y="95" class="period-text">KVARTALSVIS</text>
   
@@ -69,11 +69,11 @@
   <text x="580" y="215" class="task-text">• Målsetting</text>
   <text x="580" y="230" class="highlight-text">Mål: Strategisk utvikling</text>
   
-  <!-- Dashboard visualization -->
+
   <rect x="100" y="280" width="600" height="180" class="content-bg" rx="8"/>
   <text x="400" y="305" class="title-text" font-size="18">Arbeidskapital Dashboard</text>
   
-  <!-- KPI boxes -->
+
   <rect x="130" y="320" width="120" height="60" fill="#e6fffa" stroke="#38b2ac" stroke-width="2" rx="5"/>
   <text x="190" y="340" class="task-text" text-anchor="middle" font-weight="bold">Likviditetsgrad 1</text>
   <text x="190" y="360" class="highlight-text" text-anchor="middle" font-size="20">1,53</text>
@@ -90,11 +90,11 @@
   <text x="610" y="340" class="task-text" text-anchor="middle" font-weight="bold">Lageromsetting</text>
   <text x="610" y="360" class="highlight-text" text-anchor="middle" font-size="20">6,2x</text>
   
-  <!-- Action items -->
+
   <text x="400" y="410" class="task-text" text-anchor="middle" font-weight="bold">Dagens Handlinger:</text>
   <text x="400" y="430" class="task-text" text-anchor="middle">✓ Kontantrapport sendt | ⚠ Følg opp forfalt fordring 150k | 📊 Oppdater prognose</text>
   
-  <!-- Automation note -->
+
   <text x="400" y="470" class="task-text" text-anchor="middle" font-style="italic">
     Automatiser rutiner med ERP-system og dashboards for effektiv styring
   </text>

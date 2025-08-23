@@ -10,15 +10,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#333">
     Inntekter - Oversikt
   </text>
   
-  <!-- Central concept box -->
+
   <rect x="300" y="80" width="200" height="80" fill="url(#boxGradient)" stroke="#0066cc" stroke-width="2" rx="10"/>
   <text x="400" y="110" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0066cc">
     INNTEKTER
@@ -30,8 +30,8 @@
     som øker egenkapitalen
   </text>
   
-  <!-- Characteristics boxes -->
-  <!-- Box 1: Økning i økonomiske fordeler -->
+
+
   <rect x="50" y="220" width="160" height="100" fill="white" stroke="#28a745" stroke-width="2" rx="8"/>
   <text x="130" y="245" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#28a745">
     Økning i
@@ -49,7 +49,7 @@
     økt formue
   </text>
   
-  <!-- Box 2: Målbarhet -->
+
   <rect x="240" y="220" width="160" height="100" fill="white" stroke="#ffc107" stroke-width="2" rx="8"/>
   <text x="320" y="255" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffc107">
     MÅLBARHET
@@ -64,7 +64,7 @@
     og øre
   </text>
   
-  <!-- Box 3: Sannsynlighet -->
+
   <rect x="430" y="220" width="160" height="100" fill="white" stroke="#17a2b8" stroke-width="2" rx="8"/>
   <text x="510" y="255" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#17a2b8">
     SANNSYNLIGHET
@@ -79,7 +79,7 @@
     virksomheten
   </text>
   
-  <!-- Box 4: Kontroll -->
+
   <rect x="620" y="220" width="160" height="100" fill="white" stroke="#dc3545" stroke-width="2" rx="8"/>
   <text x="700" y="255" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#dc3545">
     KONTROLL
@@ -94,20 +94,20 @@
     ressursen
   </text>
   
-  <!-- Arrows from central box to characteristic boxes -->
+
   <line x1="350" y1="160" x2="130" y2="220" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
   <line x1="400" y1="160" x2="320" y2="220" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
   <line x1="450" y1="160" x2="510" y2="220" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
   <line x1="450" y1="160" x2="700" y2="220" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#666"/>
     </marker>
   </defs>
   
-  <!-- Bottom section -->
+
   <rect x="50" y="360" width="700" height="80" fill="white" stroke="#dee2e6" stroke-width="1" rx="10"/>
   <text x="400" y="385" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#333">
     Regnskapsføring etter inntektsføringsprinsippet
@@ -119,7 +119,7 @@
     i henhold til norske regnskapsstandarder og IFRS 15
   </text>
   
-  <!-- Decorative elements -->
+
   <circle cx="100" cy="450" r="15" fill="#0066cc" opacity="0.1"/>
   <text x="100" y="457" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0066cc">
     kr

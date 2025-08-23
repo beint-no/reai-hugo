@@ -1,27 +1,27 @@
 <svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#2c3e50">
     Egenfinansiering vs Fremmedfinansiering
   </text>
   
-  <!-- Egenfinansiering section -->
+
   <g>
-    <!-- Background box -->
+
     <rect x="50" y="80" width="320" height="350" fill="#e8f5e8" stroke="#27ae60" stroke-width="2" rx="10"/>
     
-    <!-- Header -->
+
     <text x="210" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#27ae60">
       Egenfinansiering
     </text>
     
-    <!-- Icon - Money bag with owner -->
+
     <circle cx="210" cy="150" r="25" fill="#27ae60"/>
     <text x="210" y="158" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">€</text>
     
-    <!-- Characteristics -->
+
     <text x="70" y="190" font-family="Arial, sans-serif" font-size="14" fill="#2c3e50">
       ✓ Eierens kapital
     </text>
@@ -38,7 +38,7 @@
       ✓ Lavere finansiell risiko
     </text>
     
-    <!-- Examples -->
+
     <text x="70" y="310" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#27ae60">
       Eksempler:
     </text>
@@ -56,21 +56,21 @@
     </text>
   </g>
   
-  <!-- Fremmedfinansiering section -->
+
   <g>
-    <!-- Background box -->
+
     <rect x="430" y="80" width="320" height="350" fill="#ffeaea" stroke="#e74c3c" stroke-width="2" rx="10"/>
     
-    <!-- Header -->
+
     <text x="590" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#e74c3c">
       Fremmedfinansiering
     </text>
     
-    <!-- Icon - Bank/Loan -->
+
     <rect x="575" y="125" width="30" height="20" fill="#e74c3c" rx="3"/>
     <text x="590" y="138" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">BANK</text>
     
-    <!-- Characteristics -->
+
     <text x="450" y="190" font-family="Arial, sans-serif" font-size="14" fill="#2c3e50">
       ⚠ Ekstern kapital
     </text>
@@ -87,7 +87,7 @@
       ⚠ Høyere finansiell risiko
     </text>
     
-    <!-- Examples -->
+
     <text x="450" y="310" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e74c3c">
       Eksempler:
     </text>
@@ -105,11 +105,11 @@
     </text>
   </g>
   
-  <!-- Arrow showing balance -->
+
   <path d="M 380 250 L 420 250" stroke="#34495e" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 420 250 L 380 250" stroke="#34495e" stroke-width="3" fill="none" marker-end="url(#arrowhead2)"/>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>
@@ -119,12 +119,12 @@
     </marker>
   </defs>
   
-  <!-- Balance text -->
+
   <text x="400" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#34495e">
     Optimal balanse
   </text>
   
-  <!-- Bottom note -->
+
   <text x="400" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#7f8c8d">
     Bedrifter trenger ofte en kombinasjon av begge finansieringsformer
   </text>

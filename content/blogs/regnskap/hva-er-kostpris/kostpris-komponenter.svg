@@ -14,15 +14,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Komponenter i Kostpris
   </text>
   
-  <!-- Main kostpris circle -->
+
   <circle cx="400" cy="120" r="60" fill="#3498db" stroke="#2980b9" stroke-width="3"/>
   <text x="400" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     KOSTPRIS
@@ -31,7 +31,7 @@
     100%
   </text>
   
-  <!-- Direct costs section -->
+
   <rect x="50" y="220" width="300" height="250" fill="url(#directGradient)" stroke="#27ae60" stroke-width="3" rx="15"/>
   <text x="200" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#27ae60">
     DIREKTE KOSTNADER
@@ -40,7 +40,7 @@
     (60-70% av kostpris)
   </text>
   
-  <!-- Direct material costs -->
+
   <rect x="70" y="290" width="120" height="80" fill="white" stroke="#27ae60" stroke-width="2" rx="8"/>
   <text x="130" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#27ae60">
     Materialkostnader
@@ -55,7 +55,7 @@
     • Emballasje
   </text>
   
-  <!-- Direct labor costs -->
+
   <rect x="210" y="290" width="120" height="80" fill="white" stroke="#27ae60" stroke-width="2" rx="8"/>
   <text x="270" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#27ae60">
     Lønnskostnader
@@ -70,7 +70,7 @@
     • Feriepenger
   </text>
   
-  <!-- Other direct costs -->
+
   <rect x="140" y="380" width="120" height="70" fill="white" stroke="#27ae60" stroke-width="2" rx="8"/>
   <text x="200" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#27ae60">
     Andre direkte
@@ -82,7 +82,7 @@
     • Frakt
   </text>
   
-  <!-- Indirect costs section -->
+
   <rect x="450" y="220" width="300" height="250" fill="url(#indirectGradient)" stroke="#f39c12" stroke-width="3" rx="15"/>
   <text x="600" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#f39c12">
     INDIREKTE KOSTNADER
@@ -91,7 +91,7 @@
     (30-40% av kostpris)
   </text>
   
-  <!-- Production overhead -->
+
   <rect x="470" y="290" width="120" height="80" fill="white" stroke="#f39c12" stroke-width="2" rx="8"/>
   <text x="530" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#f39c12">
     Produksjonsoverhead
@@ -106,7 +106,7 @@
     • Vedlikehold
   </text>
   
-  <!-- Administrative overhead -->
+
   <rect x="610" y="290" width="120" height="80" fill="white" stroke="#f39c12" stroke-width="2" rx="8"/>
   <text x="670" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#f39c12">
     Administrasjon
@@ -121,7 +121,7 @@
     • Forsikring
   </text>
   
-  <!-- Quality &amp; other -->
+
   <rect x="540" y="380" width="120" height="70" fill="white" stroke="#f39c12" stroke-width="2" rx="8"/>
   <text x="600" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#f39c12">
     Kvalitet &amp; Øvrig
@@ -133,11 +133,11 @@
     • Testing
   </text>
   
-  <!-- Arrows from main circle -->
+
   <path d="M 360 150 L 200 210" stroke="#3498db" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 440 150 L 600 210" stroke="#3498db" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#3498db"/>

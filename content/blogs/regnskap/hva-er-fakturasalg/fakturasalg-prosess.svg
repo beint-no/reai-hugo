@@ -9,15 +9,15 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0066cc">
     Fakturasalg Prosess
   </text>
   
-  <!-- Step 1: Order -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="120" height="80" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="10" filter="url(#shadow)"/>
     <text x="60" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1976d2">STEG 1</text>
@@ -27,12 +27,12 @@
     <text x="60" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">1</text>
   </g>
   
-  <!-- Arrow 1 -->
+
   <g transform="translate(180, 115)">
     <path d="M 0 0 L 40 0 L 35 -5 M 40 0 L 35 5" stroke="#666" stroke-width="2" fill="none"/>
   </g>
   
-  <!-- Step 2: Delivery -->
+
   <g transform="translate(230, 80)">
     <rect x="0" y="0" width="120" height="80" fill="#e8f5e8" stroke="#388e3c" stroke-width="2" rx="10" filter="url(#shadow)"/>
     <text x="60" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#388e3c">STEG 2</text>
@@ -42,12 +42,12 @@
     <text x="60" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">2</text>
   </g>
   
-  <!-- Arrow 2 -->
+
   <g transform="translate(360, 115)">
     <path d="M 0 0 L 40 0 L 35 -5 M 40 0 L 35 5" stroke="#666" stroke-width="2" fill="none"/>
   </g>
   
-  <!-- Step 3: Invoice -->
+
   <g transform="translate(410, 80)">
     <rect x="0" y="0" width="120" height="80" fill="#fff3e0" stroke="#f57c00" stroke-width="2" rx="10" filter="url(#shadow)"/>
     <text x="60" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#f57c00">STEG 3</text>
@@ -57,12 +57,12 @@
     <text x="60" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">3</text>
   </g>
   
-  <!-- Arrow 3 -->
+
   <g transform="translate(540, 115)">
     <path d="M 0 0 L 40 0 L 35 -5 M 40 0 L 35 5" stroke="#666" stroke-width="2" fill="none"/>
   </g>
   
-  <!-- Step 4: Payment -->
+
   <g transform="translate(590, 80)">
     <rect x="0" y="0" width="120" height="80" fill="#f3e5f5" stroke="#7b1fa2" stroke-width="2" rx="10" filter="url(#shadow)"/>
     <text x="60" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#7b1fa2">STEG 4</text>
@@ -72,24 +72,24 @@
     <text x="60" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">4</text>
   </g>
   
-  <!-- Timeline -->
+
   <g transform="translate(50, 220)">
     <text x="0" y="0" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#333">Tidslinje og Regnskapsføring:</text>
     
-    <!-- Timeline line -->
+
     <line x1="0" y1="40" x2="660" y2="40" stroke="#ddd" stroke-width="3"/>
     
-    <!-- Day 0 -->
+
     <circle cx="0" cy="40" r="8" fill="#1976d2"/>
     <text x="0" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#333">Dag 0</text>
     <text x="0" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#666">Ordre</text>
     
-    <!-- Day 1 -->
+
     <circle cx="165" cy="40" r="8" fill="#388e3c"/>
     <text x="165" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#333">Dag 1</text>
     <text x="165" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#666">Levering</text>
     
-    <!-- Day 2 -->
+
     <circle cx="330" cy="40" r="8" fill="#f57c00"/>
     <text x="330" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#333">Dag 2</text>
     <text x="330" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#666">Fakturering</text>
@@ -98,7 +98,7 @@
     <text x="330" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#333">Kundefordring</text>
     <text x="330" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#333">oppstår</text>
     
-    <!-- Day 32 -->
+
     <circle cx="660" cy="40" r="8" fill="#7b1fa2"/>
     <text x="660" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#333">Dag 32</text>
     <text x="660" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#666">Betaling</text>
@@ -108,7 +108,7 @@
     <text x="660" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#333">Kontanter inn</text>
   </g>
   
-  <!-- Key Points -->
+
   <g transform="translate(50, 360)">
     <text x="0" y="0" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#333">Viktige Punkter:</text>
     

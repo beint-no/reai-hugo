@@ -6,16 +6,16 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="550" fill="#f0f9ff" stroke="#bae6fd" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" 
         text-anchor="middle" fill="url(#digitalGradient)">
     Digital Saldoavskrivning - Systemstøtte og Automatisering
   </text>
   
-  <!-- Main system features -->
+
   <rect x="80" y="70" width="640" height="120" fill="white" stroke="#3b82f6" stroke-width="2" rx="10"/>
   
   <text x="400" y="95" font-family="Arial, sans-serif" font-size="18" font-weight="bold" 
@@ -23,7 +23,7 @@
     Moderne Regnskapssystemers Funksjoner
   </text>
   
-  <!-- Feature boxes -->
+
   <rect x="100" y="110" width="140" height="60" fill="#eff6ff" stroke="#93c5fd" stroke-width="1" rx="5"/>
   <text x="170" y="130" font-family="Arial, sans-serif" font-size="12" font-weight="bold" 
         text-anchor="middle" fill="#1d4ed8">Automatisk</text>
@@ -56,7 +56,7 @@
   <text x="620" y="160" font-family="Arial, sans-serif" font-size="10" 
         text-anchor="middle" fill="#374151">Oversikter &amp; analyse</text>
   
-  <!-- Workflow diagram -->
+
   <rect x="100" y="220" width="600" height="250" fill="white" stroke="#3b82f6" stroke-width="2" rx="8"/>
   
   <text x="400" y="245" font-family="Arial, sans-serif" font-size="16" font-weight="bold" 
@@ -64,7 +64,7 @@
     Automatisert Saldoavskrivning - Arbeidsflyt
   </text>
   
-  <!-- Step 1 -->
+
   <rect x="130" y="270" width="120" height="50" fill="#dbeafe" stroke="#3b82f6" stroke-width="1" rx="5"/>
   <text x="190" y="290" font-family="Arial, sans-serif" font-size="11" font-weight="bold" 
         text-anchor="middle" fill="#1d4ed8">1. Eiendel</text>
@@ -73,7 +73,7 @@
   <text x="190" y="317" font-family="Arial, sans-serif" font-size="9" 
         text-anchor="middle" fill="#6b7280">Auto-klassifisering</text>
   
-  <!-- Step 2 -->
+
   <rect x="280" y="270" width="120" height="50" fill="#dbeafe" stroke="#3b82f6" stroke-width="1" rx="5"/>
   <text x="340" y="290" font-family="Arial, sans-serif" font-size="11" font-weight="bold" 
         text-anchor="middle" fill="#1d4ed8">2. Saldogruppe</text>
@@ -82,7 +82,7 @@
   <text x="340" y="317" font-family="Arial, sans-serif" font-size="9" 
         text-anchor="middle" fill="#6b7280">Automatisk sats</text>
   
-  <!-- Step 3 -->
+
   <rect x="430" y="270" width="120" height="50" fill="#dbeafe" stroke="#3b82f6" stroke-width="1" rx="5"/>
   <text x="490" y="290" font-family="Arial, sans-serif" font-size="11" font-weight="bold" 
         text-anchor="middle" fill="#1d4ed8">3. Periodisk</text>
@@ -91,7 +91,7 @@
   <text x="490" y="317" font-family="Arial, sans-serif" font-size="9" 
         text-anchor="middle" fill="#6b7280">Auto-journalføring</text>
   
-  <!-- Step 4 -->
+
   <rect x="580" y="270" width="120" height="50" fill="#dbeafe" stroke="#3b82f6" stroke-width="1" rx="5"/>
   <text x="640" y="290" font-family="Arial, sans-serif" font-size="11" font-weight="bold" 
         text-anchor="middle" fill="#1d4ed8">4. Rapportering</text>
@@ -100,12 +100,12 @@
   <text x="640" y="317" font-family="Arial, sans-serif" font-size="9" 
         text-anchor="middle" fill="#6b7280">Avstemming</text>
   
-  <!-- Arrows between steps -->
+
   <path d="M 250,295 L 270,295" fill="none" stroke="#3b82f6" stroke-width="2" marker-end="url(#arrowhead)"/>
   <path d="M 400,295 L 420,295" fill="none" stroke="#3b82f6" stroke-width="2" marker-end="url(#arrowhead)"/>
   <path d="M 550,295 L 570,295" fill="none" stroke="#3b82f6" stroke-width="2" marker-end="url(#arrowhead)"/>
   
-  <!-- Configuration panel -->
+
   <rect x="130" y="340" width="540" height="110" fill="#f0f9ff" stroke="#93c5fd" stroke-width="1" rx="5"/>
   
   <text x="400" y="360" font-family="Arial, sans-serif" font-size="14" font-weight="bold" 
@@ -113,7 +113,7 @@
     Systemkonfigurasjon og Kontroller
   </text>
   
-  <!-- Configuration items -->
+
   <text x="150" y="380" font-family="Arial, sans-serif" font-size="12" font-weight="bold" 
         fill="#374151">Viktige innstillinger:</text>
   
@@ -143,7 +143,7 @@
     • Rapporter for avskrivningsoversikter
   </text>
   
-  <!-- Benefits section -->
+
   <rect x="120" y="480" width="560" height="50" fill="#ecfdf5" stroke="#10b981" stroke-width="1" rx="5"/>
   
   <text x="400" y="500" font-family="Arial, sans-serif" font-size="14" font-weight="bold" 
@@ -156,7 +156,7 @@
     ✓ Redusert manuelt arbeid og feilrisiko  ✓ Konsistent anvendelse av regler  ✓ Sanntidsrapportering  ✓ Enkel avstemming
   </text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" 
             refX="10" refY="3.5" orient="auto">

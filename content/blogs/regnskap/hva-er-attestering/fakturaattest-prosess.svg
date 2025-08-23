@@ -17,35 +17,35 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#0066cc">
     Fakturaattest Prosess
   </text>
   
-  <!-- Invoice Document -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="100" height="130" fill="white" stroke="#0066cc" stroke-width="2" rx="5" filter="url(#shadow)"/>
     <text x="50" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0066cc">
       FAKTURA
     </text>
     
-    <!-- Invoice content -->
+
     <rect x="10" y="30" width="80" height="3" fill="#0066cc"/>
     <rect x="10" y="40" width="60" height="2" fill="#666"/>
     <rect x="10" y="47" width="70" height="2" fill="#666"/>
     <rect x="10" y="54" width="50" height="2" fill="#666"/>
     <rect x="10" y="61" width="65" height="2" fill="#666"/>
     
-    <!-- Amount -->
+
     <rect x="10" y="75" width="80" height="15" fill="#e9ecef" rx="2"/>
     <text x="50" y="85" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="#0066cc">
       25 000 kr
     </text>
     
-    <!-- Supplier -->
+
     <text x="50" y="105" font-family="Arial, sans-serif" font-size="8" text-anchor="middle" fill="#666">
       Leverandør AS
     </text>
@@ -54,10 +54,10 @@
     </text>
   </g>
   
-  <!-- Arrow 1 -->
+
   <path d="M160 145 L200 145" stroke="#0066cc" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 1: Saklig Kontroll -->
+
   <g transform="translate(210, 100)">
     <rect x="0" y="0" width="120" height="90" fill="url(#stepGradient)" rx="10" filter="url(#shadow)"/>
     <text x="60" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
@@ -67,7 +67,7 @@
       KONTROLL
     </text>
     
-    <!-- Checklist -->
+
     <g transform="translate(15, 45)">
       <circle cx="5" cy="5" r="3" fill="white"/>
       <path d="M3 5 L4.5 6.5 L7 3.5" stroke="#28a745" stroke-width="1" fill="none"/>
@@ -83,10 +83,10 @@
     </g>
   </g>
   
-  <!-- Arrow 2 -->
+
   <path d="M340 145 L380 145" stroke="#0066cc" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 2: Regnskapsmessig Kontroll -->
+
   <g transform="translate(390, 100)">
     <rect x="0" y="0" width="120" height="90" fill="url(#stepGradient)" rx="10" filter="url(#shadow)"/>
     <text x="60" y="15" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="white">
@@ -99,7 +99,7 @@
       KONTROLL
     </text>
     
-    <!-- Accounting checks -->
+
     <g transform="translate(15, 55)">
       <circle cx="5" cy="5" r="3" fill="white"/>
       <path d="M3 5 L4.5 6.5 L7 3.5" stroke="#28a745" stroke-width="1" fill="none"/>
@@ -111,10 +111,10 @@
     </g>
   </g>
   
-  <!-- Arrow 3 -->
+
   <path d="M520 145 L560 145" stroke="#0066cc" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 3: Økonomisk Kontroll -->
+
   <g transform="translate(570, 100)">
     <rect x="0" y="0" width="120" height="90" fill="url(#stepGradient)" rx="10" filter="url(#shadow)"/>
     <text x="60" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
@@ -124,7 +124,7 @@
       KONTROLL
     </text>
     
-    <!-- Budget check -->
+
     <g transform="translate(15, 50)">
       <circle cx="5" cy="5" r="3" fill="white"/>
       <path d="M3 5 L4.5 6.5 L7 3.5" stroke="#28a745" stroke-width="1" fill="none"/>
@@ -136,10 +136,10 @@
     </g>
   </g>
   
-  <!-- Arrow down -->
+
   <path d="M630 200 L630 240" stroke="#0066cc" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Attestation -->
+
   <g transform="translate(570, 250)">
     <rect x="0" y="0" width="120" height="70" fill="url(#checkGradient)" rx="10" filter="url(#shadow)"/>
     <text x="60" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
@@ -149,15 +149,15 @@
       GODKJENT
     </text>
     
-    <!-- Signature -->
+
     <path d="M25 55 Q35 65 45 55 Q50 50 55 55" stroke="white" stroke-width="2" fill="none"/>
     <text x="80" y="60" font-family="Arial, sans-serif" font-size="8" fill="white">J. Hansen</text>
   </g>
   
-  <!-- Arrow left -->
+
   <path d="M560 285 L520 285" stroke="#28a745" stroke-width="3" fill="none" marker-end="url(#arrowheadGreen)"/>
   
-  <!-- Final Document -->
+
   <g transform="translate(390, 250)">
     <rect x="0" y="0" width="120" height="70" fill="white" stroke="#28a745" stroke-width="3" rx="5" filter="url(#shadow)"/>
     <text x="60" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#28a745">
@@ -167,18 +167,18 @@
       BOKFØRING
     </text>
     
-    <!-- Large checkmark -->
+
     <circle cx="60" cy="55" r="10" fill="#28a745"/>
     <path d="M55 55 L58 58 L65 48" stroke="white" stroke-width="2" fill="none"/>
   </g>
   
-  <!-- Control Types Legend -->
+
   <g transform="translate(50, 350)">
     <text x="0" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#0066cc">
       Kontrolltyper i Fakturaattest:
     </text>
     
-    <!-- Saklig -->
+
     <rect x="0" y="40" width="200" height="60" fill="white" stroke="#0066cc" stroke-width="1" rx="5"/>
     <text x="100" y="55" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0066cc">
       SAKLIG KONTROLL
@@ -193,7 +193,7 @@
       • Er det som bestilt?
     </text>
     
-    <!-- Regnskapsmessig -->
+
     <rect x="220" y="40" width="200" height="60" fill="white" stroke="#0066cc" stroke-width="1" rx="5"/>
     <text x="320" y="55" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0066cc">
       REGNSKAPSMESSIG
@@ -208,7 +208,7 @@
       • Lovpålagte krav oppfylt?
     </text>
     
-    <!-- Økonomisk -->
+
     <rect x="440" y="40" width="200" height="60" fill="white" stroke="#0066cc" stroke-width="1" rx="5"/>
     <text x="540" y="55" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0066cc">
       ØKONOMISK KONTROLL
@@ -224,7 +224,7 @@
     </text>
   </g>
   
-  <!-- Arrow marker definitions -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#0066cc"/>

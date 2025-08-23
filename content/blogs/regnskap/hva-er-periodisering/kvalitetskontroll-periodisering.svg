@@ -1,19 +1,19 @@
 <svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8fafc"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1e293b">
     Kvalitetskontroll og Feilhåndtering i Periodisering
   </text>
   
-  <!-- Common errors section -->
+
   <rect x="50" y="60" width="700" height="160" fill="#fef2f2" stroke="#dc2626" stroke-width="2" rx="10"/>
   <text x="400" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#991b1b">
     Vanlige Periodiseringsfeil og Konsekvenser
   </text>
   
-  <!-- Error types -->
+
   <rect x="70" y="100" width="200" height="110" fill="#fee2e2" stroke="#ef4444" stroke-width="1" rx="5"/>
   <text x="170" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#991b1b">
     Glemte Periodiseringer
@@ -74,13 +74,13 @@
     av samme transaksjon
   </text>
   
-  <!-- Control framework -->
+
   <rect x="50" y="240" width="700" height="200" fill="#ecfdf5" stroke="#16a34a" stroke-width="2" rx="10"/>
   <text x="400" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#166534">
     Kontrollramme for Periodisering
   </text>
   
-  <!-- Monthly controls -->
+
   <rect x="70" y="280" width="200" height="150" fill="#d1fae5" stroke="#10b981" stroke-width="1" rx="5"/>
   <text x="170" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#065f46">
     Månedlige Kontroller
@@ -107,7 +107,7 @@
     ✓ Revisjon av periodiseringsmaler
   </text>
   
-  <!-- Quarterly controls -->
+
   <rect x="290" y="280" width="200" height="150" fill="#d1fae5" stroke="#10b981" stroke-width="1" rx="5"/>
   <text x="390" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#065f46">
     Kvartalsvise Kontroller
@@ -134,7 +134,7 @@
     ✓ Oppdatering av prosedyrer
   </text>
   
-  <!-- Annual controls -->
+
   <rect x="510" y="280" width="200" height="150" fill="#d1fae5" stroke="#10b981" stroke-width="1" rx="5"/>
   <text x="610" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#065f46">
     Årlige Kontroller
@@ -161,7 +161,7 @@
     ✓ Strategisk gjennomgang av prosesser
   </text>
   
-  <!-- Technology and automation -->
+
   <rect x="100" y="460" width="600" height="120" fill="#f0f9ff" stroke="#0284c7" stroke-width="2" rx="10"/>
   <text x="400" y="485" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#0284c7">
     Teknologiske Løsninger for Kvalitetskontroll
@@ -223,12 +223,12 @@
     • Sporbarhet og audit trail
   </text>
   
-  <!-- Arrows indicating process flow -->
+
   <path d="M 170 430 L 170 460" stroke="#16a34a" stroke-width="2" marker-end="url(#arrow)"/>
   <path d="M 390 430 L 390 460" stroke="#16a34a" stroke-width="2" marker-end="url(#arrow)"/>
   <path d="M 610 430 L 610 460" stroke="#16a34a" stroke-width="2" marker-end="url(#arrow)"/>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrow" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#16a34a"/>

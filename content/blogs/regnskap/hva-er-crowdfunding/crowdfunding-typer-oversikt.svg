@@ -1,13 +1,13 @@
 <svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Crowdfunding Typer og Regnskapsbehandling
   </text>
   
-  <!-- Type 1: Reward-based -->
+
   <g id="reward-based">
     <rect x="50" y="80" width="150" height="120" fill="#e74c3c" stroke="#c0392b" stroke-width="2" rx="10"/>
     <text x="125" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -30,7 +30,7 @@
     </text>
   </g>
   
-  <!-- Type 2: Donation-based -->
+
   <g id="donation-based">
     <rect x="250" y="80" width="150" height="120" fill="#27ae60" stroke="#229954" stroke-width="2" rx="10"/>
     <text x="325" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -53,7 +53,7 @@
     </text>
   </g>
   
-  <!-- Type 3: Equity-based -->
+
   <g id="equity-based">
     <rect x="450" y="80" width="150" height="120" fill="#3498db" stroke="#2980b9" stroke-width="2" rx="10"/>
     <text x="525" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -76,7 +76,7 @@
     </text>
   </g>
   
-  <!-- Type 4: Debt-based -->
+
   <g id="debt-based">
     <rect x="600" y="80" width="150" height="120" fill="#9b59b6" stroke="#8e44ad" stroke-width="2" rx="10"/>
     <text x="675" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -99,14 +99,14 @@
     </text>
   </g>
   
-  <!-- Accounting treatment flow -->
+
   <text x="400" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">
     Regnskapsmessig Behandling
   </text>
   
-  <!-- Flow arrows and descriptions -->
+
   <g id="accounting-flow">
-    <!-- Reward-based flow -->
+
     <path d="M 125 200 L 125 280" stroke="#e74c3c" stroke-width="3" fill="none" marker-end="url(#arrowhead-red)"/>
     <rect x="75" y="290" width="100" height="60" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1" rx="5"/>
     <text x="125" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
@@ -119,7 +119,7 @@
       2. Salgsinntekt
     </text>
     
-    <!-- Donation-based flow -->
+
     <path d="M 325 200 L 325 280" stroke="#27ae60" stroke-width="3" fill="none" marker-end="url(#arrowhead-green)"/>
     <rect x="275" y="290" width="100" height="60" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1" rx="5"/>
     <text x="325" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
@@ -129,7 +129,7 @@
       inntektsføring
     </text>
     
-    <!-- Equity-based flow -->
+
     <path d="M 525 200 L 525 280" stroke="#3498db" stroke-width="3" fill="none" marker-end="url(#arrowhead-blue)"/>
     <rect x="475" y="290" width="100" height="60" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1" rx="5"/>
     <text x="525" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
@@ -139,7 +139,7 @@
       egenkapital
     </text>
     
-    <!-- Debt-based flow -->
+
     <path d="M 675 200 L 675 280" stroke="#9b59b6" stroke-width="3" fill="none" marker-end="url(#arrowhead-purple)"/>
     <rect x="625" y="290" width="100" height="60" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1" rx="5"/>
     <text x="675" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
@@ -150,16 +150,16 @@
     </text>
   </g>
   
-  <!-- MVA and Tax implications -->
+
   <text x="400" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
     MVA og Skattemessige Konsekvenser
   </text>
   
   <g id="tax-implications">
-    <!-- MVA table -->
+
     <rect x="100" y="410" width="600" height="70" fill="white" stroke="#bdc3c7" stroke-width="1"/>
     
-    <!-- Table headers -->
+
     <rect x="100" y="410" width="150" height="20" fill="#34495e"/>
     <text x="175" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
       Type
@@ -180,7 +180,7 @@
       Timing
     </text>
     
-    <!-- Table rows -->
+
     <text x="175" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
       Belønningsbasert
     </text>
@@ -208,7 +208,7 @@
     </text>
   </g>
   
-  <!-- Arrow marker definitions -->
+
   <defs>
     <marker id="arrowhead-red" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#e74c3c"/>

@@ -6,17 +6,17 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="550" fill="#F8FAFC"/>
   
-  <!-- Title -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGrad)"/>
   <text x="400" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="20" font-weight="bold">Ytelsespensjon - Regnskapskomponenter</text>
   
-  <!-- Main container -->
+
   <rect x="50" y="80" width="700" height="450" rx="10" fill="white" stroke="#E2E8F0" stroke-width="2"/>
   
-  <!-- Balance sheet components -->
+
   <rect x="70" y="100" width="320" height="200" rx="8" fill="#ECFDF5" stroke="#10B981" stroke-width="2"/>
   <text x="230" y="125" text-anchor="middle" fill="#059669" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Balanseposter (NRS 6)</text>
   
@@ -33,7 +33,7 @@
   <text x="100" y="265" fill="#059669" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Arbeidsgiveravgift</text>
   <text x="100" y="280" fill="#374151" font-family="Arial, sans-serif" font-size="12">- 14,1% påslag</text>
   
-  <!-- P&L components -->
+
   <rect x="410" y="100" width="320" height="200" rx="8" fill="#EFF6FF" stroke="#3B82F6" stroke-width="2"/>
   <text x="570" y="125" text-anchor="middle" fill="#1E40AF" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Resultatposter</text>
   
@@ -50,7 +50,7 @@
   <text x="440" y="265" fill="#1E40AF" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Amortisering</text>
   <text x="440" y="280" fill="#374151" font-family="Arial, sans-serif" font-size="12">+/- Utjevning av estimatavvik</text>
   
-  <!-- Calculation example -->
+
   <rect x="70" y="320" width="660" height="200" rx="8" fill="#FEF7CD" stroke="#F59E0B" stroke-width="2"/>
   <text x="400" y="345" text-anchor="middle" fill="#D97706" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Eksempel - Pensjonskostnad Beregning</text>
   
@@ -70,7 +70,7 @@
   <text x="430" y="460" fill="#374151" font-family="Arial, sans-serif" font-size="12">+ Arbeidsgiveravgift: 133.495 kr</text>
   <text x="430" y="480" fill="#059669" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Total pensjonskostnad: 1.083.495 kr</text>
   
-  <!-- Arrows -->
+
   <path d="M 390 200 L 410 200" stroke="#6B7280" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 400 300 L 400 320" stroke="#6B7280" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   

@@ -6,19 +6,19 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="600" height="450" fill="#ffffff"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="600" height="50" fill="url(#autoGrad)"/>
   <text x="300" y="30" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="18" font-weight="bold">Automatiserte Lagerprosesser</text>
   
-  <!-- Process Flow -->
-  <!-- 1. Receiving -->
+
+
   <rect x="30" y="70" width="100" height="80" fill="#ecfdf5" stroke="#10b981" stroke-width="2" rx="8"/>
   <text x="80" y="90" text-anchor="middle" fill="#047857" font-family="Arial, sans-serif" font-size="12" font-weight="bold">MOTTAK</text>
   
-  <!-- Scanner icon -->
+
   <rect x="70" y="100" width="20" height="15" fill="#10b981" rx="2"/>
   <rect x="73" y="103" width="2" height="9" fill="white"/>
   <rect x="76" y="103" width="1" height="9" fill="white"/>
@@ -30,14 +30,14 @@
   <text x="80" y="130" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="9">• Automatisk skanning</text>
   <text x="80" y="142" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="9">• Kvalitetskontroll</text>
   
-  <!-- Arrow 1 -->
+
   <path d="M135 110 L165 110" stroke="#374151" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
   
-  <!-- 2. Storage -->
+
   <rect x="170" y="70" width="100" height="80" fill="#dbeafe" stroke="#3b82f6" stroke-width="2" rx="8"/>
   <text x="220" y="90" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="12" font-weight="bold">LAGRING</text>
   
-  <!-- AS/RS system -->
+
   <rect x="200" y="100" width="40" height="25" fill="#3b82f6" rx="2"/>
   <rect x="205" y="105" width="6" height="6" fill="white" rx="1"/>
   <rect x="215" y="105" width="6" height="6" fill="white" rx="1"/>
@@ -49,14 +49,14 @@
   <text x="220" y="135" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="9">• AS/RS system</text>
   <text x="220" y="147" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="9">• Optimal plassering</text>
   
-  <!-- Arrow 2 -->
+
   <path d="M275 110 L305 110" stroke="#374151" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
   
-  <!-- 3. Inventory Management -->
+
   <rect x="310" y="70" width="100" height="80" fill="#fef3c7" stroke="#f59e0b" stroke-width="2" rx="8"/>
   <text x="360" y="90" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="12" font-weight="bold">STYRING</text>
   
-  <!-- AI brain -->
+
   <circle cx="360" cy="110" r="12" fill="#f59e0b"/>
   <path d="M352 107 Q360 102 368 107" stroke="white" stroke-width="1.5" fill="none"/>
   <path d="M352 113 Q360 118 368 113" stroke="white" stroke-width="1.5" fill="none"/>
@@ -66,14 +66,14 @@
   <text x="360" y="135" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="9">• AI-prognoser</text>
   <text x="360" y="147" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="9">• Replenishment</text>
   
-  <!-- Arrow 3 -->
+
   <path d="M415 110 L445 110" stroke="#374151" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
   
-  <!-- 4. Picking -->
+
   <rect x="450" y="70" width="100" height="80" fill="#fce7f3" stroke="#ec4899" stroke-width="2" rx="8"/>
   <text x="500" y="90" text-anchor="middle" fill="#be185d" font-family="Arial, sans-serif" font-size="12" font-weight="bold">PLUKKING</text>
   
-  <!-- Robot picker -->
+
   <rect x="485" y="100" width="30" height="20" fill="#ec4899" rx="3"/>
   <circle cx="490" cy="105" r="2" fill="white"/>
   <circle cx="510" cy="105" r="2" fill="white"/>
@@ -83,15 +83,15 @@
   
   <text x="500" y="142" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="9">• Robotplukking</text>
   
-  <!-- Downward flow -->
-  <!-- Arrow down from picking -->
+
+
   <path d="M500 155 L500 185" stroke="#374151" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
   
-  <!-- 5. Packing -->
+
   <rect x="450" y="190" width="100" height="80" fill="#f3e8ff" stroke="#a855f7" stroke-width="2" rx="8"/>
   <text x="500" y="210" text-anchor="middle" fill="#7c3aed" font-family="Arial, sans-serif" font-size="12" font-weight="bold">PAKKING</text>
   
-  <!-- Conveyor belt -->
+
   <rect x="470" y="220" width="60" height="8" fill="#a855f7" rx="4"/>
   <circle cx="475" cy="224" r="2" fill="white"/>
   <circle cx="485" cy="224" r="2" fill="white"/>
@@ -100,7 +100,7 @@
   <circle cx="515" cy="224" r="2" fill="white"/>
   <circle cx="525" cy="224" r="2" fill="white"/>
   
-  <!-- Packages -->
+
   <rect x="480" y="235" width="8" height="8" fill="#7c3aed" rx="1"/>
   <rect x="490" y="235" width="8" height="8" fill="#7c3aed" rx="1"/>
   <rect x="500" y="235" width="8" height="8" fill="#7c3aed" rx="1"/>
@@ -108,14 +108,14 @@
   
   <text x="500" y="260" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="9">• Automatisk pakking</text>
   
-  <!-- Arrow left from packing -->
+
   <path d="M445 230 L415 230" stroke="#374151" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
   
-  <!-- 6. Shipping -->
+
   <rect x="310" y="190" width="100" height="80" fill="#fef2f2" stroke="#ef4444" stroke-width="2" rx="8"/>
   <text x="360" y="210" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="12" font-weight="bold">FRAKT</text>
   
-  <!-- Truck -->
+
   <rect x="340" y="220" width="40" height="20" fill="#ef4444" rx="3"/>
   <rect x="345" y="225" width="12" height="8" fill="white" rx="1"/>
   <circle cx="348" cy="244" r="4" fill="#374151"/>
@@ -124,41 +124,41 @@
   
   <text x="360" y="260" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="9">• Ruteoptimasering</text>
   
-  <!-- Arrow left from shipping -->
+
   <path d="M305 230 L275 230" stroke="#374151" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
   
-  <!-- 7. Returns -->
+
   <rect x="170" y="190" width="100" height="80" fill="#fdf4ff" stroke="#c084fc" stroke-width="2" rx="8"/>
   <text x="220" y="210" text-anchor="middle" fill="#8b5cf6" font-family="Arial, sans-serif" font-size="12" font-weight="bold">RETUR</text>
   
-  <!-- Return process -->
+
   <circle cx="220" cy="235" r="15" fill="none" stroke="#8b5cf6" stroke-width="2"/>
   <path d="M210 235 L230 235" stroke="#8b5cf6" stroke-width="2" marker-end="url(#arrowPurple)"/>
   <path d="M220 225 L220 245" stroke="#8b5cf6" stroke-width="2"/>
   
   <text x="220" y="260" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="9">• Automatisk håndtering</text>
   
-  <!-- Arrow left from returns -->
+
   <path d="M165 230 L135 230" stroke="#374151" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
   
-  <!-- 8. Quality Control -->
+
   <rect x="30" y="190" width="100" height="80" fill="#fefce8" stroke="#eab308" stroke-width="2" rx="8"/>
   <text x="80" y="210" text-anchor="middle" fill="#a16207" font-family="Arial, sans-serif" font-size="12" font-weight="bold">KVALITET</text>
   
-  <!-- Quality check icon -->
+
   <circle cx="80" cy="235" r="12" fill="none" stroke="#eab308" stroke-width="2"/>
   <path d="M74 235 L78 239 L86 231" stroke="#eab308" stroke-width="2" fill="none"/>
   
   <text x="80" y="260" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="9">• Automatisk kontroll</text>
   
-  <!-- Arrow up from quality -->
+
   <path d="M80 185 L80 155" stroke="#374151" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
   
-  <!-- Central Control System -->
+
   <rect x="250" y="300" width="100" height="60" fill="#f8fafc" stroke="#64748b" stroke-width="2" rx="8"/>
   <text x="300" y="320" text-anchor="middle" fill="#475569" font-family="Arial, sans-serif" font-size="12" font-weight="bold">SENTRAL KONTROLL</text>
   
-  <!-- Control panel -->
+
   <rect x="270" y="330" width="60" height="20" fill="#64748b" rx="3"/>
   <circle cx="280" cy="340" r="3" fill="#22c55e"/>
   <circle cx="290" cy="340" r="3" fill="#22c55e"/>
@@ -166,7 +166,7 @@
   <circle cx="310" cy="340" r="3" fill="#22c55e"/>
   <circle cx="320" cy="340" r="3" fill="#22c55e"/>
   
-  <!-- Benefits box -->
+
   <rect x="50" y="380" width="500" height="50" fill="#f0f9ff" stroke="#0ea5e9" stroke-width="2" rx="8"/>
   <text x="300" y="400" text-anchor="middle" fill="#0c4a6e" font-family="Arial, sans-serif" font-size="14" font-weight="bold">AUTOMATISERINGSGEVINSTER</text>
   <text x="80" y="418" fill="#0c4a6e" font-family="Arial, sans-serif" font-size="11">• 95% nøyaktighet</text>
@@ -174,13 +174,13 @@
   <text x="340" y="418" fill="#0c4a6e" font-family="Arial, sans-serif" font-size="11">• 40% lavere kostnad</text>
   <text x="480" y="418" fill="#0c4a6e" font-family="Arial, sans-serif" font-size="11">• 24/7 drift</text>
   
-  <!-- Connection lines to central control -->
+
   <path d="M80 275 L270 310" stroke="#64748b" stroke-width="1" stroke-dasharray="3,3"/>
   <path d="M220 275 L280 305" stroke="#64748b" stroke-width="1" stroke-dasharray="3,3"/>
   <path d="M360 275 L320 305" stroke="#64748b" stroke-width="1" stroke-dasharray="3,3"/>
   <path d="M500 275 L330 310" stroke="#64748b" stroke-width="1" stroke-dasharray="3,3"/>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="arrow" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
       <polygon points="0 0, 8 3, 0 6" fill="#374151"/>

@@ -1,13 +1,13 @@
 <svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e40af">
     Sosiale Kostnader ved Timelønn
   </text>
   
-  <!-- Example Scenario -->
+
   <rect x="50" y="70" width="700" height="60" rx="10" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
   <text x="70" y="95" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e40af">
     Eksempel: Månedlig bruttolønn 35 000 kr
@@ -16,10 +16,10 @@
     Oslo-ansatt, standardsatser for 2024
   </text>
   
-  <!-- Main Chart -->
+
   <rect x="50" y="160" width="500" height="350" rx="10" fill="white" stroke="#d1d5db" stroke-width="2"/>
   
-  <!-- Chart Header -->
+
   <rect x="60" y="175" width="480" height="35" fill="#f3f4f6"/>
   <text x="80" y="195" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#374151">
     Kostnadstype
@@ -34,7 +34,7 @@
     Belop
   </text>
   
-  <!-- Table Lines -->
+
   <line x1="60" y1="210" x2="540" y2="210" stroke="#d1d5db" stroke-width="1"/>
   <line x1="60" y1="240" x2="540" y2="240" stroke="#d1d5db" stroke-width="1"/>
   <line x1="60" y1="270" x2="540" y2="270" stroke="#d1d5db" stroke-width="1"/>
@@ -45,13 +45,13 @@
   <line x1="60" y1="420" x2="540" y2="420" stroke="#d1d5db" stroke-width="1"/>
   <line x1="60" y1="450" x2="540" y2="450" stroke="#d1d5db" stroke-width="1"/>
   
-  <!-- Vertical Lines -->
+
   <line x1="220" y1="175" x2="220" y2="450" stroke="#d1d5db" stroke-width="1"/>
   <line x1="320" y1="175" x2="320" y2="450" stroke="#d1d5db" stroke-width="1"/>
   <line x1="430" y1="175" x2="430" y2="450" stroke="#d1d5db" stroke-width="1"/>
   
-  <!-- Table Data -->
-  <!-- Row 1: Gross Salary -->
+
+
   <rect x="60" y="210" width="480" height="30" fill="#e5f7ff"/>
   <text x="80" y="230" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#0369a1">
     Bruttolønn
@@ -62,7 +62,7 @@
     35 000 kr
   </text>
   
-  <!-- Row 2: Employer's National Insurance -->
+
   <text x="80" y="260" font-family="Arial, sans-serif" font-size="13" fill="#374151">
     Arbeidsgiveravgift
   </text>
@@ -70,7 +70,7 @@
   <text x="340" y="260" font-family="Arial, sans-serif" font-size="13" fill="#374151">35 000</text>
   <text x="450" y="260" font-family="Arial, sans-serif" font-size="13" fill="#374151">3 710 kr</text>
   
-  <!-- Row 3: Holiday Pay -->
+
   <text x="80" y="290" font-family="Arial, sans-serif" font-size="13" fill="#374151">
     Feriepenger (avsetning)
   </text>
@@ -78,7 +78,7 @@
   <text x="340" y="290" font-family="Arial, sans-serif" font-size="13" fill="#374151">35 000</text>
   <text x="450" y="290" font-family="Arial, sans-serif" font-size="13" fill="#374151">4 200 kr</text>
   
-  <!-- Row 4: Pension -->
+
   <text x="80" y="320" font-family="Arial, sans-serif" font-size="13" fill="#374151">
     Pensjon (obligatorisk)
   </text>
@@ -86,7 +86,7 @@
   <text x="340" y="320" font-family="Arial, sans-serif" font-size="13" fill="#374151">35 000</text>
   <text x="450" y="320" font-family="Arial, sans-serif" font-size="13" fill="#374151">700 kr</text>
   
-  <!-- Row 5: Work Injury Insurance -->
+
   <text x="80" y="350" font-family="Arial, sans-serif" font-size="13" fill="#374151">
     Yrkesskadeforsikring
   </text>
@@ -94,7 +94,7 @@
   <text x="340" y="350" font-family="Arial, sans-serif" font-size="13" fill="#374151">35 000</text>
   <text x="450" y="350" font-family="Arial, sans-serif" font-size="13" fill="#374151">175 kr</text>
   
-  <!-- Row 6: Group Life Insurance -->
+
   <text x="80" y="380" font-family="Arial, sans-serif" font-size="13" fill="#374151">
     Gruppelivsforsikring
   </text>
@@ -102,7 +102,7 @@
   <text x="340" y="380" font-family="Arial, sans-serif" font-size="13" fill="#374151">35 000</text>
   <text x="450" y="380" font-family="Arial, sans-serif" font-size="13" fill="#374151">35 kr</text>
   
-  <!-- Row 7: Total Social Costs -->
+
   <rect x="60" y="390" width="480" height="30" fill="#f3f4f6"/>
   <text x="80" y="410" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#374151">
     Sum sosiale kostnader
@@ -113,7 +113,7 @@
     8 820 kr
   </text>
   
-  <!-- Row 8: Total Cost -->
+
   <rect x="60" y="420" width="480" height="30" fill="#dcfce7"/>
   <text x="80" y="440" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#065f46">
     Total personalkostnad
@@ -124,16 +124,16 @@
     43 820 kr
   </text>
   
-  <!-- Pie Chart -->
+
   <circle cx="650" cy="300" r="100" fill="none" stroke="#d1d5db" stroke-width="2"/>
   
-  <!-- Pie segments -->
-  <!-- Salary (79.9%) -->
+
+
   <path d="M 650 200 A 100 100 0 1 1 550 300 Z" fill="#3b82f6" opacity="0.7"/>
-  <!-- Social costs (20.1%) -->
+
   <path d="M 650 200 A 100 100 0 0 1 550 300 Z" fill="#f59e0b" opacity="0.7"/>
   
-  <!-- Labels -->
+
   <text x="600" y="260" font-family="Arial, sans-serif" font-size="12" fill="#1e40af" font-weight="bold">
     Bruttolønn
   </text>
@@ -151,7 +151,7 @@
     20,1%
   </text>
   
-  <!-- Regional Differences Box -->
+
   <rect x="570" y="420" width="180" height="120" rx="8" fill="#fef3c7" stroke="#f59e0b" stroke-width="2"/>
   <text x="580" y="440" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#92400e">
     Regionale Forskjeller
@@ -172,7 +172,7 @@
     • Sone IV (Nord): 0%
   </text>
   
-  <!-- Bottom Note -->
+
   <text x="400" y="580" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6b7280">
     * Satser kan variere basert på tariffavtaler og bedriftens pensjonsordning
   </text>

@@ -10,15 +10,15 @@
     </linearGradient>
   </defs>
 
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#333">
     X-rapport vs Z-rapport Sammenligning
   </text>
   
-  <!-- Left side - X-rapport -->
+
   <rect x="50" y="70" width="320" height="480" fill="white" stroke="#4CAF50" stroke-width="3" rx="10"/>
   <rect x="50" y="70" width="320" height="60" fill="url(#xGrad)" rx="10 10 0 0"/>
   <text x="210" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
@@ -28,7 +28,7 @@
     Mellomrapport
   </text>
   
-  <!-- X-rapport features -->
+
   <text x="70" y="160" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">Funksjon:</text>
   <text x="70" y="180" font-family="Arial, sans-serif" font-size="12" fill="#666">• Mellomrapportering</text>
   <text x="70" y="195" font-family="Arial, sans-serif" font-size="12" fill="#666">• Statusoversikt</text>
@@ -54,7 +54,7 @@
   <text x="70" y="515" font-family="Arial, sans-serif" font-size="12" fill="#666">• Sikkerhet</text>
   <text x="70" y="530" font-family="Arial, sans-serif" font-size="12" fill="#666">• Overvåking</text>
   
-  <!-- Right side - Z-rapport -->
+
   <rect x="430" y="70" width="320" height="480" fill="white" stroke="#F44336" stroke-width="3" rx="10"/>
   <rect x="430" y="70" width="320" height="60" fill="url(#zGrad)" rx="10 10 0 0"/>
   <text x="590" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
@@ -64,7 +64,7 @@
     Avslutningsrapport
   </text>
   
-  <!-- Z-rapport features -->
+
   <text x="450" y="160" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">Funksjon:</text>
   <text x="450" y="180" font-family="Arial, sans-serif" font-size="12" fill="#666">• Kasseavslutning</text>
   <text x="450" y="195" font-family="Arial, sans-serif" font-size="12" fill="#666">• Endelig rapportering</text>
@@ -90,10 +90,10 @@
   <text x="450" y="515" font-family="Arial, sans-serif" font-size="12" fill="#666">• Compliance</text>
   <text x="450" y="530" font-family="Arial, sans-serif" font-size="12" fill="#666">• Endelig oppgjør</text>
   
-  <!-- Comparison arrows and VS -->
+
   <text x="400" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#666">VS</text>
   
-  <!-- Summary box -->
+
   <rect x="100" y="570" width="600" height="25" fill="#ECEFF1" stroke="#607D8B" stroke-width="1" rx="5"/>
   <text x="400" y="588" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#37474F">
     X-rapport = Kontroll uten konsekvens | Z-rapport = Endelig avslutning med regnskapseffekt

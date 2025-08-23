@@ -12,15 +12,15 @@
     </marker>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#333">
     Kunderegistrering og Stamdata
   </text>
   
-  <!-- Step 1: Initial Contact -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="120" height="80" fill="#0066cc" rx="10" filter="url(#shadow)"/>
     <circle cx="60" cy="30" r="12" fill="white"/>
@@ -36,10 +36,10 @@
     </text>
   </g>
   
-  <!-- Arrow -->
+
   <path d="M 170 120 L 210 120" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 2: Information Collection -->
+
   <g transform="translate(230, 80)">
     <rect x="0" y="0" width="120" height="80" fill="#28a745" rx="10" filter="url(#shadow)"/>
     <rect x="30" y="20" width="60" height="40" fill="white" rx="3"/>
@@ -57,10 +57,10 @@
     </text>
   </g>
   
-  <!-- Arrow -->
+
   <path d="M 350 120 L 390 120" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 3: Credit Check -->
+
   <g transform="translate(410, 80)">
     <rect x="0" y="0" width="120" height="80" fill="#ffc107" rx="10" filter="url(#shadow)"/>
     <circle cx="60" cy="40" r="20" fill="white"/>
@@ -81,10 +81,10 @@
     </text>
   </g>
   
-  <!-- Arrow -->
+
   <path d="M 530 120 L 570 120" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 4: Registration -->
+
   <g transform="translate(590, 80)">
     <rect x="0" y="0" width="120" height="80" fill="#17a2b8" rx="10" filter="url(#shadow)"/>
     <rect x="35" y="25" width="50" height="30" fill="white" rx="3"/>
@@ -103,12 +103,12 @@
     </text>
   </g>
   
-  <!-- Required Information Section -->
+
   <text x="400" y="220" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#666">
     Obligatoriske Kundeopplysninger
   </text>
   
-  <!-- Business Customers -->
+
   <g transform="translate(50, 250)">
     <rect x="0" y="0" width="300" height="180" fill="white" rx="10" filter="url(#shadow)" stroke="#0066cc" stroke-width="2"/>
     <rect x="0" y="0" width="300" height="40" fill="#0066cc" rx="10"/>
@@ -153,7 +153,7 @@
     </text>
   </g>
   
-  <!-- Private Customers -->
+
   <g transform="translate(400, 250)">
     <rect x="0" y="0" width="300" height="180" fill="white" rx="10" filter="url(#shadow)" stroke="#28a745" stroke-width="2"/>
     <rect x="0" y="0" width="300" height="40" fill="#28a745" rx="10"/>

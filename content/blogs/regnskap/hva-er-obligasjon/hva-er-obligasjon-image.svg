@@ -10,17 +10,17 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="400" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#212529">Hva er en Obligasjon?</text>
   
-  <!-- Bond Certificate -->
+
   <rect x="50" y="80" width="300" height="200" rx="10" fill="url(#bondGradient)" stroke="#0056b3" stroke-width="2"/>
   <rect x="60" y="90" width="280" height="180" rx="5" fill="white" opacity="0.9"/>
   
-  <!-- Bond Details -->
+
   <text x="200" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#212529">OBLIGASJON</text>
   <text x="70" y="140" font-family="Arial, sans-serif" font-size="12" fill="#495057">Pålydende: 1,000,000 kr</text>
   <text x="70" y="160" font-family="Arial, sans-serif" font-size="12" fill="#495057">Kupongrente: 3.5%</text>
@@ -29,7 +29,7 @@
   <text x="70" y="220" font-family="Arial, sans-serif" font-size="12" fill="#495057">Forfallsdato: 2029-12-31</text>
   <text x="70" y="250" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">Serienummer: NO0012345678</text>
   
-  <!-- Arrow -->
+
   <path d="M 370 180 L 420 180" stroke="#28a745" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
@@ -37,11 +37,11 @@
     </marker>
   </defs>
   
-  <!-- Characteristics Box -->
+
   <rect x="450" y="80" width="300" height="280" rx="10" fill="white" stroke="#dee2e6" stroke-width="2"/>
   <text x="600" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#212529">Karakteristikker</text>
   
-  <!-- Characteristics List -->
+
   <circle cx="470" cy="130" r="4" fill="#007bff"/>
   <text x="485" y="135" font-family="Arial, sans-serif" font-size="14" fill="#495057">Gjeldsinstrument</text>
   
@@ -69,6 +69,6 @@
   <circle cx="470" cy="330" r="4" fill="#007bff"/>
   <text x="485" y="335" font-family="Arial, sans-serif" font-size="14" fill="#495057">Renterisiko</text>
   
-  <!-- Bottom note -->
+
   <text x="400" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">Obligasjoner er fundamentale finansielle instrumenter i regnskap og finans</text>
 </svg>

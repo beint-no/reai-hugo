@@ -6,16 +6,16 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGrad)" />
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" 
         font-size="24" font-weight="bold" fill="#2c3e50">
     Konjunkturens Fire Faser
   </text>
   
-  <!-- Phase 1: Ekspansjon -->
+
   <rect x="50" y="80" width="150" height="200" rx="10" fill="#27ae60" opacity="0.1" stroke="#27ae60" stroke-width="2"/>
   <text x="125" y="105" text-anchor="middle" font-family="Arial, sans-serif" 
         font-size="16" font-weight="bold" fill="#27ae60">1. Ekspansjon</text>
@@ -31,7 +31,7 @@
   <text x="60" y="255" font-family="Arial, sans-serif" font-size="11" fill="#7f8c8d">• Bedre arbeidskapital</text>
   <text x="60" y="270" font-family="Arial, sans-serif" font-size="11" fill="#7f8c8d">• Vekstmuligheter</text>
   
-  <!-- Phase 2: Topp -->
+
   <rect x="250" y="80" width="150" height="200" rx="10" fill="#f39c12" opacity="0.1" stroke="#f39c12" stroke-width="2"/>
   <text x="325" y="105" text-anchor="middle" font-family="Arial, sans-serif" 
         font-size="16" font-weight="bold" fill="#f39c12">2. Topp</text>
@@ -47,7 +47,7 @@
   <text x="260" y="255" font-family="Arial, sans-serif" font-size="11" fill="#7f8c8d">• Økte kostnader</text>
   <text x="260" y="270" font-family="Arial, sans-serif" font-size="11" fill="#7f8c8d">• Forsiktig budsjettering</text>
   
-  <!-- Phase 3: Kontraksjoner -->
+
   <rect x="450" y="80" width="150" height="200" rx="10" fill="#e74c3c" opacity="0.1" stroke="#e74c3c" stroke-width="2"/>
   <text x="525" y="105" text-anchor="middle" font-family="Arial, sans-serif" 
         font-size="16" font-weight="bold" fill="#e74c3c">3. Kontraksjoner</text>
@@ -63,7 +63,7 @@
   <text x="460" y="255" font-family="Arial, sans-serif" font-size="11" fill="#7f8c8d">• Kostnadsreduksjon</text>
   <text x="460" y="270" font-family="Arial, sans-serif" font-size="11" fill="#7f8c8d">• Likviditetsstyring</text>
   
-  <!-- Phase 4: Bunn -->
+
   <rect x="650" y="80" width="130" height="200" rx="10" fill="#9b59b6" opacity="0.1" stroke="#9b59b6" stroke-width="2"/>
   <text x="715" y="105" text-anchor="middle" font-family="Arial, sans-serif" 
         font-size="16" font-weight="bold" fill="#9b59b6">4. Bunn</text>
@@ -79,20 +79,20 @@
   <text x="660" y="255" font-family="Arial, sans-serif" font-size="11" fill="#7f8c8d">• Investeringsmuligheter</text>
   <text x="660" y="270" font-family="Arial, sans-serif" font-size="11" fill="#7f8c8d">• Forberedelse til vekst</text>
   
-  <!-- Cycle arrows -->
+
   <path d="M200,180 Q225,160 250,180" stroke="#34495e" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M400,180 Q425,160 450,180" stroke="#34495e" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M600,180 Q625,160 650,180" stroke="#34495e" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M715,280 Q715,320 400,350 Q125,320 125,280" stroke="#34495e" stroke-width="2" fill="none" marker-end="url(#arrowhead)" stroke-dasharray="5,5"/>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#34495e" />
     </marker>
   </defs>
   
-  <!-- Timeline indicators -->
+
   <rect x="50" y="320" width="730" height="80" rx="10" fill="#ecf0f1" opacity="0.8"/>
   <text x="400" y="340" text-anchor="middle" font-family="Arial, sans-serif" 
         font-size="14" font-weight="bold" fill="#2c3e50">Tidslinje og Varighet</text>
@@ -109,7 +109,7 @@
   <text x="400" y="385" text-anchor="middle" font-family="Arial, sans-serif" 
         font-size="11" fill="#7f8c8d">Total sykluslengde: Typisk 2-10 år</text>
   
-  <!-- Key insights -->
+
   <rect x="50" y="420" width="730" height="120" rx="10" fill="#ffffff" opacity="0.9" stroke="#bdc3c7" stroke-width="1"/>
   <text x="400" y="445" text-anchor="middle" font-family="Arial, sans-serif" 
         font-size="16" font-weight="bold" fill="#2c3e50">Viktige Innsikter for Regnskapsføring</text>

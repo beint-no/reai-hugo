@@ -1,13 +1,13 @@
 <svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">
     Prosess for aktivering av FoU-kostnader
   </text>
   
-  <!-- Step 1: Project Start -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="150" height="80" fill="#3498db" stroke="#2c3e50" stroke-width="2" rx="10"/>
     <text x="75" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
@@ -21,10 +21,10 @@
     </text>
   </g>
   
-  <!-- Arrow 1 -->
+
   <path d="M 220 120 L 270 120" stroke="#2c3e50" stroke-width="2" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 2: Phase Classification -->
+
   <g transform="translate(290, 80)">
     <rect x="0" y="0" width="150" height="80" fill="#e67e22" stroke="#2c3e50" stroke-width="2" rx="10"/>
     <text x="75" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
@@ -38,7 +38,7 @@
     </text>
   </g>
   
-  <!-- Decision diamond -->
+
   <g transform="translate(490, 100)">
     <path d="M 0 20 L 20 0 L 40 20 L 20 40 Z" fill="#f39c12" stroke="#2c3e50" stroke-width="2"/>
     <text x="20" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="white">
@@ -46,10 +46,10 @@
     </text>
   </g>
   
-  <!-- Arrow to Research -->
+
   <path d="M 510 80 L 510 50" stroke="#2c3e50" stroke-width="2" marker-end="url(#arrowhead)"/>
   
-  <!-- Research path -->
+
   <g transform="translate(430, 20)">
     <rect x="0" y="0" width="160" height="60" fill="#e74c3c" stroke="#2c3e50" stroke-width="2" rx="5"/>
     <text x="80" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
@@ -63,17 +63,17 @@
     </text>
   </g>
   
-  <!-- Arrow to Development -->
+
   <path d="M 510 160 L 510 200" stroke="#2c3e50" stroke-width="2" marker-end="url(#arrowhead)"/>
   
-  <!-- Development criteria check -->
+
   <g transform="translate(350, 220)">
     <rect x="0" y="0" width="320" height="150" fill="#27ae60" stroke="#2c3e50" stroke-width="2" rx="10"/>
     <text x="160" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
       UTVIKLINGSFASE - AKTIVERINGSKRITERIER
     </text>
     
-    <!-- Criteria list -->
+
     <text x="20" y="40" font-family="Arial, sans-serif" font-size="10" fill="white">
       1. Teknisk gjennomførbarhet av ferdigstillelse
     </text>
@@ -98,7 +98,7 @@
     </text>
   </g>
   
-  <!-- Decision diamond 2 -->
+
   <g transform="translate(490, 390)">
     <path d="M 0 20 L 20 0 L 40 20 L 20 40 Z" fill="#f39c12" stroke="#2c3e50" stroke-width="2"/>
     <text x="20" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="7" font-weight="bold" fill="white">
@@ -109,13 +109,13 @@
     </text>
   </g>
   
-  <!-- Arrow to No -->
+
   <path d="M 470 410 L 350 410" stroke="#2c3e50" stroke-width="2" marker-end="url(#arrowhead)"/>
   <text x="400" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
     NEI
   </text>
   
-  <!-- No - Cost immediately -->
+
   <g transform="translate(150, 380)">
     <rect x="0" y="0" width="180" height="60" fill="#e74c3c" stroke="#2c3e50" stroke-width="2" rx="5"/>
     <text x="90" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
@@ -129,13 +129,13 @@
     </text>
   </g>
   
-  <!-- Arrow to Yes -->
+
   <path d="M 530 410 L 650 410" stroke="#2c3e50" stroke-width="2" marker-end="url(#arrowhead)"/>
   <text x="580" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
     JA
   </text>
   
-  <!-- Yes - Activate -->
+
   <g transform="translate(570, 380)">
     <rect x="0" y="0" width="180" height="60" fill="#27ae60" stroke="#2c3e50" stroke-width="2" rx="5"/>
     <text x="90" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
@@ -149,10 +149,10 @@
     </text>
   </g>
   
-  <!-- Arrow down from activation -->
+
   <path d="M 660 460 L 660 510" stroke="#2c3e50" stroke-width="2" marker-end="url(#arrowhead)"/>
   
-  <!-- Amortization -->
+
   <g transform="translate(570, 530)">
     <rect x="0" y="0" width="180" height="60" fill="#9b59b6" stroke="#2c3e50" stroke-width="2" rx="5"/>
     <text x="90" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
@@ -166,14 +166,14 @@
     </text>
   </g>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#2c3e50"/>
     </marker>
   </defs>
   
-  <!-- Legend -->
+
   <g transform="translate(50, 480)">
     <rect x="0" y="0" width="300" height="100" fill="#ecf0f1" stroke="#2c3e50" stroke-width="1" rx="5"/>
     <text x="150" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">

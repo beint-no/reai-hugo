@@ -26,16 +26,16 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
   <text x="400" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
     Beste Praksis for Amortisering
   </text>
   
-  <!-- Step 1: Documentation -->
+
   <rect x="50" y="80" width="320" height="100" fill="url(#step1Gradient)" rx="15"/>
   <text x="210" y="105" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
     1. DOKUMENTER LEVETIDSESTIMATER
@@ -49,7 +49,7 @@
     • Dokumenter grunnlaget for estimatene
   </text>
   
-  <!-- Step 2: Regular Review -->
+
   <rect x="430" y="80" width="320" height="100" fill="url(#step2Gradient)" rx="15"/>
   <text x="590" y="105" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
     2. GJENNOMGÅ REGELMESSIG
@@ -63,7 +63,7 @@
     • Oppdater ved endrede forhold
   </text>
   
-  <!-- Step 3: Consistent Method -->
+
   <rect x="50" y="200" width="320" height="100" fill="url(#step3Gradient)" rx="15"/>
   <text x="210" y="225" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
     3. KONSISTENT METODE
@@ -77,7 +77,7 @@
     • Sikre sammenlignbarhet over tid
   </text>
   
-  <!-- Step 4: Monitor Impairment -->
+
   <rect x="430" y="200" width="320" height="100" fill="url(#step4Gradient)" rx="15"/>
   <text x="590" y="225" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
     4. OVERVÅK VERDIFALL
@@ -91,7 +91,7 @@
     • Test for verdifall ved mistanke
   </text>
   
-  <!-- Step 5: Professional Guidance -->
+
   <rect x="240" y="320" width="320" height="100" fill="url(#step5Gradient)" rx="15"/>
   <text x="400" y="345" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
     5. PROFESJONELL VURDERING
@@ -105,13 +105,13 @@
     • Følg oppdaterte regnskapsstandarder
   </text>
   
-  <!-- Warning Signs Section -->
+
   <rect x="50" y="440" width="700" height="140" fill="white" stroke="#dc3545" stroke-width="2" rx="10"/>
   <text x="400" y="465" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#dc3545">
     ⚠️ Varselsignaler for Verdifall
   </text>
   
-  <!-- Warning signs in columns -->
+
   <rect x="70" y="480" width="200" height="80" fill="#f8d7da" stroke="#f5c6cb" stroke-width="1" rx="5"/>
   <text x="170" y="500" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#721c24">
     Teknologiske Endringer
@@ -154,25 +154,25 @@
     • Negative kontantstrømmer
   </text>
   
-  <!-- Flow arrows connecting the steps -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#6c757d"/>
     </marker>
   </defs>
   
-  <!-- Arrow from step 1 to step 2 -->
+
   <path d="M 370 130 Q 400 110 430 130" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow from step 2 to step 3 -->
+
   <path d="M 430 250 Q 400 230 370 250" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow from step 3 to step 4 -->
+
   <path d="M 370 250 Q 400 270 430 250" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow from step 4 to step 5 -->
+
   <path d="M 590 300 Q 500 310 400 320" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow from step 1 to step 5 -->
+
   <path d="M 210 180 Q 300 250 240 320" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
 </svg>

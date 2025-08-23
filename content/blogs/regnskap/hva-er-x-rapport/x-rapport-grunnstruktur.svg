@@ -6,15 +6,15 @@
     </linearGradient>
   </defs>
 
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#333">
     X-rapport Grunnstruktur
   </text>
   
-  <!-- Main flow -->
+
   <rect x="50" y="70" width="150" height="80" fill="url(#grad1)" rx="8"/>
   <text x="125" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Kassasystem
@@ -26,7 +26,7 @@
     Tellere fortsetter
   </text>
   
-  <!-- Arrow 1 -->
+
   <path d="M220 110 L280 110" stroke="#333" stroke-width="2" marker-end="url(#arrowhead)"/>
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
@@ -34,7 +34,7 @@
     </marker>
   </defs>
   
-  <!-- X-rapport generation -->
+
   <rect x="300" y="70" width="150" height="80" fill="#FF9800" rx="8"/>
   <text x="375" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     X-rapport
@@ -46,10 +46,10 @@
     (Ikke-destruktiv)
   </text>
   
-  <!-- Arrow 2 -->
+
   <path d="M470 110 L530 110" stroke="#333" stroke-width="2" marker-end="url(#arrowhead)"/>
   
-  <!-- Continued operation -->
+
   <rect x="550" y="70" width="150" height="80" fill="url(#grad1)" rx="8"/>
   <text x="625" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Kassasystem
@@ -61,13 +61,13 @@
     Uendret status
   </text>
   
-  <!-- Features section -->
+
   <rect x="50" y="200" width="700" height="250" fill="white" stroke="#ddd" stroke-width="1" rx="8"/>
   <text x="400" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333">
     Hovedfunksjoner ved X-rapport
   </text>
   
-  <!-- Feature boxes -->
+
   <rect x="80" y="260" width="150" height="100" fill="#E3F2FD" stroke="#2196F3" stroke-width="1" rx="5"/>
   <text x="155" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1976D2">
     Mellomrapportering
@@ -124,7 +124,7 @@
     funksjonalitet
   </text>
   
-  <!-- Bottom note -->
+
   <text x="400" y="410" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#666">
     Forskjell fra Z-rapport: X-rapport avslutter ikke kassedagen
   </text>

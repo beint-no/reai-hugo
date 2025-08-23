@@ -321,7 +321,7 @@ Utsatt skatteforpliktelse: 100.000 Ã— 22% = 22.000 kr
     <CompanyID>123456789</CompanyID>
   </Header>
   <GeneralLedgerEntries>
-    <!-- Alle hovedbok-posteringer -->
+    
   </GeneralLedgerEntries>
 </AuditFile>
 ```

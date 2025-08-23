@@ -14,17 +14,17 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#2c3e50">
     Likviditetsrisiko og Risikostyring
   </text>
   
-  <!-- Risk Types -->
+
   <g transform="translate(50, 80)">
-    <!-- Financing Risk -->
+
     <rect x="0" y="0" width="160" height="120" rx="10" fill="url(#redGradient)" stroke="#c82333" stroke-width="2"/>
     <text x="80" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
       Finansieringsrisiko
@@ -42,7 +42,7 @@
       • Rentevolatilitet
     </text>
     
-    <!-- Market Risk -->
+
     <rect x="180" y="0" width="160" height="120" rx="10" fill="#fd7e14" stroke="#e55a00" stroke-width="2"/>
     <text x="260" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
       Markedsrisiko
@@ -60,7 +60,7 @@
       • Prisvolatilitet
     </text>
     
-    <!-- Operational Risk -->
+
     <rect x="360" y="0" width="160" height="120" rx="10" fill="#6f42c1" stroke="#5a2d91" stroke-width="2"/>
     <text x="440" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
       Operasjonell risiko
@@ -78,7 +78,7 @@
       • Leverandørproblemer
     </text>
     
-    <!-- Credit Risk -->
+
     <rect x="540" y="0" width="160" height="120" rx="10" fill="#17a2b8" stroke="#138496" stroke-width="2"/>
     <text x="620" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
       Kredittrisiko
@@ -97,14 +97,14 @@
     </text>
   </g>
   
-  <!-- Risk Management Strategies -->
+
   <g transform="translate(50, 230)">
     <rect x="0" y="0" width="700" height="200" rx="15" fill="#f8f9fa" stroke="#6c757d" stroke-width="2"/>
     <text x="350" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c3e50">
       Risikohåndteringsstrategier
     </text>
     
-    <!-- Strategy 1: Liquidity Reserves -->
+
     <g transform="translate(30, 50)">
       <rect x="0" y="0" width="150" height="120" rx="8" fill="#e8f5e8" stroke="#28a745" stroke-width="1"/>
       <text x="75" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#28a745">
@@ -124,7 +124,7 @@
       </text>
     </g>
     
-    <!-- Strategy 2: Credit Facilities -->
+
     <g transform="translate(200, 50)">
       <rect x="0" y="0" width="150" height="120" rx="8" fill="#e3f2fd" stroke="#2196f3" stroke-width="1"/>
       <text x="75" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2196f3">
@@ -144,7 +144,7 @@
       </text>
     </g>
     
-    <!-- Strategy 3: Diversification -->
+
     <g transform="translate(370, 50)">
       <rect x="0" y="0" width="150" height="120" rx="8" fill="#fff3e0" stroke="#ff9800" stroke-width="1"/>
       <text x="75" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#ff9800">
@@ -164,7 +164,7 @@
       </text>
     </g>
     
-    <!-- Strategy 4: Insurance -->
+
     <g transform="translate(540, 50)">
       <rect x="0" y="0" width="130" height="120" rx="8" fill="#f3e5f5" stroke="#9c27b0" stroke-width="1"/>
       <text x="65" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#9c27b0">
@@ -185,14 +185,14 @@
     </g>
   </g>
   
-  <!-- Risk Management Process -->
+
   <g transform="translate(50, 450)">
     <rect x="0" y="0" width="700" height="120" rx="15" fill="url(#blueGradient)" stroke="#004499" stroke-width="2"/>
     <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
       Risikostyringsprosess
     </text>
     
-    <!-- Step 1 -->
+
     <g transform="translate(50, 40)">
       <circle cx="30" cy="30" r="25" fill="white" stroke="#004499" stroke-width="2"/>
       <text x="30" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#004499">1</text>
@@ -201,7 +201,7 @@
       </text>
     </g>
     
-    <!-- Step 2 -->
+
     <g transform="translate(200, 40)">
       <circle cx="30" cy="30" r="25" fill="white" stroke="#004499" stroke-width="2"/>
       <text x="30" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#004499">2</text>
@@ -210,7 +210,7 @@
       </text>
     </g>
     
-    <!-- Step 3 -->
+
     <g transform="translate(350, 40)">
       <circle cx="30" cy="30" r="25" fill="white" stroke="#004499" stroke-width="2"/>
       <text x="30" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#004499">3</text>
@@ -219,7 +219,7 @@
       </text>
     </g>
     
-    <!-- Step 4 -->
+
     <g transform="translate(500, 40)">
       <circle cx="30" cy="30" r="25" fill="white" stroke="#004499" stroke-width="2"/>
       <text x="30" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#004499">4</text>
@@ -228,7 +228,7 @@
       </text>
     </g>
     
-    <!-- Step 5 -->
+
     <g transform="translate(600, 40)">
       <circle cx="30" cy="30" r="25" fill="white" stroke="#004499" stroke-width="2"/>
       <text x="30" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#004499">5</text>
@@ -237,7 +237,7 @@
       </text>
     </g>
     
-    <!-- Arrows -->
+
     <g stroke="white" stroke-width="2" fill="none">
       <path d="M 130 70 L 180 70" marker-end="url(#whiteArrowhead)"/>
       <path d="M 280 70 L 330 70" marker-end="url(#whiteArrowhead)"/>
@@ -246,7 +246,7 @@
     </g>
   </g>
   
-  <!-- Arrow marker definitions -->
+
   <defs>
     <marker id="whiteArrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="white"/>

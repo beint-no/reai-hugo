@@ -10,26 +10,26 @@
     </linearGradient>
   </defs>
 
-  <!-- Background -->
+
   <rect width="800" height="400" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
 
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
 
-  <!-- Title -->
+
   <text x="400" y="50" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle" fill="white">
     Hva er kapitalgevinst?
   </text>
 
-  <!-- Main content area -->
+
   <rect x="50" y="120" width="700" height="240" fill="white" stroke="#dee2e6" stroke-width="1" rx="10"/>
 
-  <!-- Formula illustration -->
+
   <text x="400" y="160" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="#0066cc">
     Kapitalgevinst = Salgspris - Anskaffelseskost - Salgsomkostninger
   </text>
 
-  <!-- Example boxes -->
+
   <rect x="80" y="190" width="180" height="120" fill="#e8f4fd" stroke="#0066cc" stroke-width="2" rx="8"/>
   <text x="170" y="215" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0066cc">
     Salgspris
@@ -78,18 +78,18 @@
     Skatt: 10 780 kr
   </text>
 
-  <!-- Arrows -->
+
   <path d="M 270 250 L 300 250" stroke="#333" stroke-width="2" marker-end="url(#arrowhead)"/>
   <path d="M 500 250 L 530 250" stroke="#333" stroke-width="2" marker-end="url(#arrowhead)"/>
 
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#333"/>
     </marker>
   </defs>
 
-  <!-- Minus signs -->
+
   <text x="285" y="240" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="#333">
     -
   </text>

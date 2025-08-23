@@ -1,12 +1,12 @@
 <svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Varemerkeforvaltning
   </text>
   
-  <!-- Central circle -->
+
   <circle cx="400" cy="300" r="80" fill="#3498db" stroke="#2980b9" stroke-width="4"/>
   <text x="400" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     VAREMERKE
@@ -15,7 +15,7 @@
     FORVALTNING
   </text>
   
-  <!-- Registration phase -->
+
   <rect x="50" y="80" width="160" height="120" fill="#e74c3c" rx="10"/>
   <text x="130" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     REGISTRERING
@@ -36,7 +36,7 @@
     • Endelig registrering
   </text>
   
-  <!-- Maintenance phase -->
+
   <rect x="590" y="80" width="160" height="120" fill="#f39c12" rx="10"/>
   <text x="670" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     VEDLIKEHOLD
@@ -57,7 +57,7 @@
     • Kvalitetskontroll
   </text>
   
-  <!-- Protection phase -->
+
   <rect x="50" y="450" width="160" height="120" fill="#27ae60" rx="10"/>
   <text x="130" y="475" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     BESKYTTELSE
@@ -78,7 +78,7 @@
     • Erstatningskrav
   </text>
   
-  <!-- Commercialization phase -->
+
   <rect x="590" y="450" width="160" height="120" fill="#9b59b6" rx="10"/>
   <text x="670" y="475" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     KOMMERSIALISERING
@@ -99,7 +99,7 @@
     • Royalty-inntekter
   </text>
   
-  <!-- Accounting cycle -->
+
   <rect x="320" y="80" width="160" height="80" fill="#34495e" rx="10"/>
   <text x="400" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     REGNSKAPSFØRING
@@ -114,7 +114,7 @@
     • Nedskrivningsvurdering
   </text>
   
-  <!-- Valuation cycle -->
+
   <rect x="320" y="490" width="160" height="80" fill="#16a085" rx="10"/>
   <text x="400" y="515" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     VERDSETTING
@@ -129,7 +129,7 @@
     • Sammenlignbare transaksjoner
   </text>
   
-  <!-- Arrows from center -->
+
   <path d="M 340 250 L 200 170" stroke="#7f8c8d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 460 250 L 600 170" stroke="#7f8c8d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 340 350 L 200 480" stroke="#7f8c8d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
@@ -137,7 +137,7 @@
   <path d="M 400 220 L 400 170" stroke="#7f8c8d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 400 380 L 400 480" stroke="#7f8c8d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#7f8c8d"/>

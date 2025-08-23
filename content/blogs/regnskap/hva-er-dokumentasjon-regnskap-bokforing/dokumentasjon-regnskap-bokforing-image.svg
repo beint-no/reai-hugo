@@ -1,77 +1,77 @@
 <svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#2c3e50">
     Dokumentasjon i Regnskap og Bokføring
   </text>
   
-  <!-- Document stack -->
+
   <g transform="translate(100, 120)">
-    <!-- Back documents -->
+
     <rect x="15" y="15" width="180" height="240" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2" rx="5"/>
     <rect x="10" y="10" width="180" height="240" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2" rx="5"/>
     
-    <!-- Front document -->
+
     <rect x="5" y="5" width="180" height="240" fill="white" stroke="#34495e" stroke-width="2" rx="5"/>
     
-    <!-- Document lines -->
+
     <line x1="25" y1="35" x2="165" y2="35" stroke="#bdc3c7" stroke-width="2"/>
     <line x1="25" y1="55" x2="165" y2="55" stroke="#bdc3c7" stroke-width="1"/>
     <line x1="25" y1="75" x2="165" y2="75" stroke="#bdc3c7" stroke-width="1"/>
     <line x1="25" y1="95" x2="165" y2="95" stroke="#bdc3c7" stroke-width="1"/>
     
-    <!-- Document label -->
+
     <text x="95" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
       Bilag
     </text>
   </g>
   
-  <!-- Digital folder -->
+
   <g transform="translate(320, 120)">
-    <!-- Folder base -->
+
     <path d="M0 40 L0 240 L180 240 L180 40 L140 40 L120 20 L0 20 Z" fill="#3498db" stroke="#2980b9" stroke-width="2"/>
     
-    <!-- Folder tab -->
+
     <path d="M0 20 L120 20 L140 40 L180 40 L180 0 L0 0 Z" fill="#5dade2" stroke="#2980b9" stroke-width="2"/>
     
-    <!-- Digital icon -->
+
     <circle cx="90" cy="140" r="30" fill="white" opacity="0.9"/>
     <rect x="80" y="130" width="20" height="15" fill="#2980b9" rx="2"/>
     <rect x="75" y="135" width="10" height="5" fill="#2980b9"/>
     <rect x="95" y="135" width="10" height="5" fill="#2980b9"/>
     
-    <!-- Folder label -->
+
     <text x="90" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
       Digital Arkiv
     </text>
   </g>
   
-  <!-- Archive cabinet -->
+
   <g transform="translate(540, 120)">
-    <!-- Cabinet body -->
+
     <rect x="0" y="0" width="160" height="240" fill="#95a5a6" stroke="#7f8c8d" stroke-width="2" rx="5"/>
     
-    <!-- Drawers -->
+
     <rect x="10" y="10" width="140" height="50" fill="#bdc3c7" stroke="#7f8c8d" stroke-width="1" rx="3"/>
     <rect x="10" y="70" width="140" height="50" fill="#bdc3c7" stroke="#7f8c8d" stroke-width="1" rx="3"/>
     <rect x="10" y="130" width="140" height="50" fill="#bdc3c7" stroke="#7f8c8d" stroke-width="1" rx="3"/>
     <rect x="10" y="190" width="140" height="40" fill="#bdc3c7" stroke="#7f8c8d" stroke-width="1" rx="3"/>
     
-    <!-- Drawer handles -->
+
     <circle cx="130" cy="35" r="4" fill="#34495e"/>
     <circle cx="130" cy="95" r="4" fill="#34495e"/>
     <circle cx="130" cy="155" r="4" fill="#34495e"/>
     <circle cx="130" cy="210" r="4" fill="#34495e"/>
     
-    <!-- Cabinet label -->
+
     <text x="80" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
       Fysisk Arkiv
     </text>
   </g>
   
-  <!-- Arrows showing flow -->
+
   <g stroke="#e74c3c" stroke-width="3" fill="none" marker-end="url(#arrowhead)">
     <defs>
       <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
@@ -79,14 +79,14 @@
       </marker>
     </defs>
     
-    <!-- Document to digital -->
+
     <path d="M290 240 Q305 240 320 240"/>
     
-    <!-- Digital to archive -->
+
     <path d="M500 240 Q520 240 540 240"/>
   </g>
   
-  <!-- Process labels -->
+
   <text x="305" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#e74c3c">
     Digitalisering
   </text>
@@ -95,7 +95,7 @@
     Arkivering
   </text>
   
-  <!-- Key principles -->
+
   <g transform="translate(50, 420)">
     <text x="0" y="0" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">
       Nøkkelprinsipper:

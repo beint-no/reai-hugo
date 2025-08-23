@@ -10,13 +10,13 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8fafc"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" fill="#1e293b" font-family="Arial, sans-serif" font-size="24" font-weight="bold">Feilsøking av Saldobalanse</text>
   
-  <!-- Error detection -->
+
   <rect x="50" y="70" width="700" height="80" fill="white" stroke="#dc2626" stroke-width="2" rx="8"/>
   <rect x="50" y="70" width="700" height="30" fill="url(#errorGrad)" rx="8 8 0 0"/>
   <text x="400" y="90" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">PROBLEM: Saldobalansen Balanserer Ikke</text>
@@ -25,7 +25,7 @@
   <text x="300" y="120" fill="#374151" font-family="Arial, sans-serif" font-size="12">Eksempel: Debet 450.000 ≠ Kredit 470.000</text>
   <text x="70" y="135" fill="#dc2626" font-family="Arial, sans-serif" font-size="12">Differanse: 20.000 (må identifiseres og korrigeres)</text>
   
-  <!-- Common errors -->
+
   <rect x="50" y="180" width="340" height="200" fill="white" stroke="#f59e0b" stroke-width="2" rx="8"/>
   <rect x="50" y="180" width="340" height="30" fill="#fbbf24" rx="8 8 0 0"/>
   <text x="220" y="200" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Vanlige Feilkilder</text>
@@ -42,7 +42,7 @@
   <text x="70" y="350" fill="#92400e" font-family="Arial, sans-serif" font-size="12" font-weight="bold">3. Klassifiseringsfeil:</text>
   <text x="80" y="365" fill="#374151" font-family="Arial, sans-serif" font-size="11">• Debet i kredit-kolonne</text>
   
-  <!-- Solution process -->
+
   <rect x="410" y="180" width="340" height="200" fill="white" stroke="#059669" stroke-width="2" rx="8"/>
   <rect x="410" y="180" width="340" height="30" fill="url(#fixGrad)" rx="8 8 0 0"/>
   <text x="580" y="200" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Systematisk Feilrettting</text>
@@ -62,7 +62,7 @@
   <rect x="430" y="340" width="300" height="25" fill="#f0fdf4" stroke="#059669" stroke-width="1" rx="4"/>
   <text x="580" y="357" text-anchor="middle" fill="#15803d" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Steg 5: Utfør korrigering</text>
   
-  <!-- Example correction -->
+
   <rect x="50" y="400" width="700" height="120" fill="white" stroke="#6366f1" stroke-width="2" rx="8"/>
   <rect x="50" y="400" width="700" height="30" fill="#6366f1" rx="8 8 0 0"/>
   <text x="400" y="420" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Eksempel: Korrigering av Differanse</text>
@@ -82,7 +82,7 @@
   <text x="540" y="485" fill="#374151" font-family="Arial, sans-serif" font-size="11">Differanse eliminert</text>
   <text x="540" y="500" fill="#374151" font-family="Arial, sans-serif" font-size="11">Balanse oppnådd ✓</text>
   
-  <!-- Best practices -->
+
   <rect x="50" y="540" width="700" height="50" fill="#fffbeb" stroke="#f59e0b" stroke-width="1" rx="6"/>
   <text x="400" y="560" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="14" font-weight="bold">💡 Forebyggende Tiltak</text>
   <text x="400" y="580" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="12">Jevnlig avstemming • Systematisk kontroll • Dokumentasjon av endringer</text>

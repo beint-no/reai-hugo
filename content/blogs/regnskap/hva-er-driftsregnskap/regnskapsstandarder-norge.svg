@@ -22,10 +22,10 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="700" fill="#f8fafc"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="80" fill="url(#headerGrad)"/>
   <text x="400" y="30" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
     Regnskapsstandarder i Norge
@@ -34,20 +34,20 @@
     Juridiske krav og regelverk for driftsregnskap
   </text>
   
-  <!-- Norwegian Flag -->
+
   <rect x="50" y="20" width="60" height="40" fill="#ef4444"/>
   <rect x="50" y="30" width="60" height="20" fill="white"/>
   <rect x="50" y="35" width="60" height="10" fill="#1e40af"/>
   <rect x="65" y="20" width="10" height="40" fill="white"/>
   <rect x="67" y="20" width="6" height="40" fill="#1e40af"/>
   
-  <!-- Regulatory Framework -->
+
   <g transform="translate(50, 100)">
     <text x="350" y="0" text-anchor="middle" fill="#334155" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
       Relevante Regelverk
     </text>
     
-    <!-- Regnskapsloven -->
+
     <rect x="0" y="20" width="220" height="160" rx="10" fill="url(#lawGrad)" stroke="#3b82f6" stroke-width="2"/>
     <text x="110" y="45" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       Regnskapsloven
@@ -74,7 +74,7 @@
       § 8-1: Oppbevaring av regnskapet
     </text>
     
-    <!-- Regnskapsforskriften -->
+
     <rect x="240" y="20" width="220" height="160" rx="10" fill="url(#regulationGrad)" stroke="#10b981" stroke-width="2"/>
     <text x="350" y="45" text-anchor="middle" fill="#047857" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       Regnskapsforskriften
@@ -101,7 +101,7 @@
       • Elektronisk rapportering
     </text>
     
-    <!-- NRS Standards -->
+
     <rect x="480" y="20" width="220" height="160" rx="10" fill="url(#nrsGrad)" stroke="#f59e0b" stroke-width="2"/>
     <text x="590" y="45" text-anchor="middle" fill="#d97706" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       Norsk RegnskapsStandard
@@ -129,14 +129,14 @@
     </text>
   </g>
   
-  <!-- Control Requirements -->
+
   <g transform="translate(50, 280)">
     <rect x="0" y="0" width="700" height="180" rx="10" fill="url(#controlGrad)" stroke="#8b5cf6" stroke-width="2"/>
     <text x="350" y="25" text-anchor="middle" fill="#7c3aed" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
       Revisjons- og Kontrollkrav
     </text>
     
-    <!-- Internal Control -->
+
     <rect x="30" y="40" width="320" height="120" rx="5" fill="white" stroke="#8b5cf6"/>
     <text x="190" y="60" text-anchor="middle" fill="#7c3aed" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Internkontroll
@@ -157,7 +157,7 @@
       • Dokumentasjon av alle transaksjoner
     </text>
     
-    <!-- External Audit -->
+
     <rect x="370" y="40" width="300" height="120" rx="5" fill="white" stroke="#8b5cf6"/>
     <text x="520" y="60" text-anchor="middle" fill="#7c3aed" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Ekstern Revisjon
@@ -179,14 +179,14 @@
     </text>
   </g>
   
-  <!-- Compliance Requirements -->
+
   <g transform="translate(50, 480)">
     <rect x="0" y="0" width="700" height="160" rx="10" fill="#f1f5f9" stroke="#64748b" stroke-width="1"/>
     <text x="350" y="25" text-anchor="middle" fill="#334155" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
       Etterlevelseskrav og Frister
     </text>
     
-    <!-- Reporting Deadlines -->
+
     <rect x="30" y="40" width="200" height="100" rx="5" fill="#dcfce7" stroke="#16a34a"/>
     <text x="130" y="60" text-anchor="middle" fill="#15803d" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Rapporteringsfrister
@@ -204,7 +204,7 @@
       • A-melding: Månedlig
     </text>
     
-    <!-- Documentation -->
+
     <rect x="250" y="40" width="200" height="100" rx="5" fill="#dbeafe" stroke="#3b82f6"/>
     <text x="350" y="60" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Dokumentasjonskrav
@@ -222,7 +222,7 @@
       • Sporbar dokumentasjon
     </text>
     
-    <!-- Penalties -->
+
     <rect x="470" y="40" width="200" height="100" rx="5" fill="#fee2e2" stroke="#dc2626"/>
     <text x="570" y="60" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Sanksjoner
@@ -241,7 +241,7 @@
     </text>
   </g>
   
-  <!-- Footer -->
+
   <text x="400" y="680" text-anchor="middle" fill="#64748b" font-family="Arial, sans-serif" font-size="12">
     Etterlevelse av norske regnskapsstandarder sikrer kvalitet og sammenlignbarhet
   </text>

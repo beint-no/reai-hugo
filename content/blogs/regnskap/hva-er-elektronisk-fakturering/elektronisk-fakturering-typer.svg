@@ -1,13 +1,13 @@
 <svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#2c3e50">
     Typer Elektronisk Fakturering
   </text>
   
-  <!-- Ustrukturerte formater -->
+
   <rect x="50" y="80" width="200" height="120" fill="#e74c3c" stroke="#c0392b" stroke-width="3" rx="10"/>
   <text x="150" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     Ustrukturerte
@@ -25,7 +25,7 @@
     Små bedrifter
   </text>
   
-  <!-- Semi-strukturerte formater -->
+
   <rect x="300" y="80" width="200" height="120" fill="#f39c12" stroke="#e67e22" stroke-width="3" rx="10"/>
   <text x="400" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     Semi-strukturerte
@@ -43,7 +43,7 @@
     Overgangsperiode
   </text>
   
-  <!-- Fullt strukturerte formater -->
+
   <rect x="550" y="80" width="200" height="120" fill="#27ae60" stroke="#229954" stroke-width="3" rx="10"/>
   <text x="650" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     Fullt strukturerte
@@ -61,23 +61,23 @@
     Offentlig sektor
   </text>
   
-  <!-- Arrows showing progression -->
+
   <path d="M 250 140 L 290 140" stroke="#7f8c8d" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 500 140 L 540 140" stroke="#7f8c8d" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#7f8c8d"/>
     </marker>
   </defs>
   
-  <!-- Specific solutions -->
+
   <text x="400" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">
     Spesifikke Løsninger i Norge
   </text>
   
-  <!-- eFaktura -->
+
   <circle cx="150" cy="320" r="60" fill="#3498db" stroke="#2980b9" stroke-width="3"/>
   <text x="150" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     eFaktura
@@ -89,7 +89,7 @@
     B2B og B2C
   </text>
   
-  <!-- EHF -->
+
   <circle cx="300" cy="320" r="60" fill="#e74c3c" stroke="#c0392b" stroke-width="3"/>
   <text x="300" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     EHF
@@ -101,7 +101,7 @@
     Obligatorisk
   </text>
   
-  <!-- Vipps eFaktura -->
+
   <circle cx="450" cy="320" r="60" fill="#ff6b35" stroke="#e55a2b" stroke-width="3"/>
   <text x="450" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="white">
     Vipps
@@ -113,7 +113,7 @@
     Privatpersoner
   </text>
   
-  <!-- PDF Fakturaer -->
+
   <circle cx="600" cy="320" r="60" fill="#9b59b6" stroke="#8e44ad" stroke-width="3"/>
   <text x="600" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="white">
     PDF
@@ -125,13 +125,13 @@
     E-post basert
   </text>
   
-  <!-- Benefits comparison -->
+
   <rect x="50" y="420" width="700" height="60" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2" rx="10"/>
   <text x="400" y="440" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
     Automatiseringsgrad og Effektivitet
   </text>
   
-  <!-- Progress bar showing automation levels -->
+
   <rect x="80" y="450" width="120" height="20" fill="#e74c3c" rx="10"/>
   <text x="140" y="463" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">20%</text>
   

@@ -10,40 +10,40 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="600" height="400" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="300" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#212529">
     Overskuddshierarki
   </text>
   
-  <!-- Pyramid structure -->
-  <!-- Level 1: Bruttooverskudd (widest) -->
+
+
   <polygon points="100,80 500,80 480,120 120,120" fill="#007bff" stroke="#0056b3" stroke-width="2"/>
   <text x="300" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     BRUTTOOVERSKUDD
   </text>
   
-  <!-- Level 2: Driftsoverskudd -->
+
   <polygon points="120,120 480,120 460,160 140,160" fill="#28a745" stroke="#20c997" stroke-width="2"/>
   <text x="300" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     DRIFTSOVERSKUDD
   </text>
   
-  <!-- Level 3: Ordinært overskudd -->
+
   <polygon points="140,160 460,160 440,200 160,200" fill="#ffc107" stroke="#e0a800" stroke-width="2"/>
   <text x="300" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     ORDINÆRT OVERSKUDD
   </text>
   
-  <!-- Level 4: Årsoverskudd (narrowest) -->
+
   <polygon points="160,200 440,200 420,240 180,240" fill="#dc3545" stroke="#c82333" stroke-width="2"/>
   <text x="300" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     ÅRSOVERSKUDD
   </text>
   
-  <!-- Side labels with calculations -->
+
   <text x="50" y="100" font-family="Arial, sans-serif" font-size="10" fill="#495057">
     Salg - Varekost
   </text>
@@ -57,7 +57,7 @@
     - Skatt
   </text>
   
-  <!-- Right side percentages (example) -->
+
   <text x="520" y="100" font-family="Arial, sans-serif" font-size="10" fill="#495057">
     40-60%
   </text>
@@ -71,12 +71,12 @@
     10-25%
   </text>
   
-  <!-- Bottom explanation -->
+
   <text x="300" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#212529">
     Hver nivå representerer et mer raffinert mål på lønnsomhet
   </text>
   
-  <!-- Legend -->
+
   <rect x="50" y="310" width="15" height="15" fill="#007bff"/>
   <text x="75" y="322" font-family="Arial, sans-serif" font-size="10" fill="#495057">
     Bruttooverskudd - Kjerneaktivitet
@@ -97,7 +97,7 @@
     Årsoverskudd - Til eierne
   </text>
   
-  <!-- Arrows showing flow -->
+
   <polygon points="300,250 295,265 305,265" fill="#6c757d"/>
   <text x="300" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
     Disponering

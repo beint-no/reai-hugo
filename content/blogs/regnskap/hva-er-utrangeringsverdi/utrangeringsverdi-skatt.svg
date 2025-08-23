@@ -14,15 +14,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="550" fill="url(#bgGrad)"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
     Skattemessige Aspekter ved Utrangeringsverdi
   </text>
   
-  <!-- Tax depreciation section -->
+
   <g transform="translate(50, 70)">
     <rect x="0" y="0" width="340" height="180" fill="url(#taxGrad)" rx="15"/>
     <text x="170" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
@@ -51,7 +51,7 @@
     </text>
   </g>
   
-  <!-- Sales realization section -->
+
   <g transform="translate(410, 70)">
     <rect x="0" y="0" width="340" height="180" fill="url(#salesGrad)" rx="15"/>
     <text x="170" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
@@ -92,45 +92,45 @@
     </text>
   </g>
   
-  <!-- Comparison table -->
+
   <g transform="translate(50, 280)">
     <rect x="0" y="0" width="700" height="200" fill="white" stroke="#007bff" stroke-width="3" rx="15"/>
     <text x="350" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#007bff">
       Sammenligning: Regnskapsmessig vs. Skattemessig
     </text>
     
-    <!-- Table headers -->
+
     <rect x="20" y="50" width="660" height="30" fill="#e7f3ff" stroke="#007bff" rx="5"/>
     <text x="30" y="70" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#007bff">Aspekt</text>
     <text x="200" y="70" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#007bff">Regnskapsmessig</text>
     <text x="450" y="70" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#007bff">Skattemessig</text>
     
-    <!-- Row 1 -->
+
     <rect x="20" y="80" width="660" height="25" fill="#f8f9fa"/>
     <text x="30" y="97" font-family="Arial, sans-serif" font-size="12" fill="#495057">Utrangeringsverdi</text>
     <text x="200" y="97" font-family="Arial, sans-serif" font-size="12" fill="#495057">Brukes i avskrivningsberegning</text>
     <text x="450" y="97" font-family="Arial, sans-serif" font-size="12" fill="#495057">Ikke relevant for saldoavskrivning</text>
     
-    <!-- Row 2 -->
+
     <rect x="20" y="105" width="660" height="25" fill="white"/>
     <text x="30" y="122" font-family="Arial, sans-serif" font-size="12" fill="#495057">Avskrivningsmetode</text>
     <text x="200" y="122" font-family="Arial, sans-serif" font-size="12" fill="#495057">Lineær eller degressiv</text>
     <text x="450" y="122" font-family="Arial, sans-serif" font-size="12" fill="#495057">Hovedsakelig saldoavskrivning</text>
     
-    <!-- Row 3 -->
+
     <rect x="20" y="130" width="660" height="25" fill="#f8f9fa"/>
     <text x="30" y="147" font-family="Arial, sans-serif" font-size="12" fill="#495057">Årlig avskrivning</text>
     <text x="200" y="147" font-family="Arial, sans-serif" font-size="12" fill="#495057">45.000 kr (lineær, 10 år)</text>
     <text x="450" y="147" font-family="Arial, sans-serif" font-size="12" fill="#495057">Varierende (25% av saldo)</text>
     
-    <!-- Row 4 -->
+
     <rect x="20" y="155" width="660" height="25" fill="white"/>
     <text x="30" y="172" font-family="Arial, sans-serif" font-size="12" fill="#495057">Realisasjon</text>
     <text x="200" y="172" font-family="Arial, sans-serif" font-size="12" fill="#495057">Gevinst/tap i resultatregnskap</text>
     <text x="450" y="172" font-family="Arial, sans-serif" font-size="12" fill="#495057">Inn/ut av saldogruppe</text>
   </g>
   
-  <!-- Bottom example -->
+
   <g transform="translate(50, 500)">
     <rect x="0" y="0" width="700" height="35" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="8"/>
     <text x="350" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#856404">

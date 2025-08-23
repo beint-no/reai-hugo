@@ -6,32 +6,32 @@
     </linearGradient>
   </defs>
 
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#333">
     X-rapport Praktisk Bruk
   </text>
   
-  <!-- Timeline -->
+
   <line x1="100" y1="80" x2="700" y2="80" stroke="#333" stroke-width="3"/>
   
-  <!-- Time markers -->
+
   <text x="100" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#666">09:00</text>
   <text x="300" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#666">12:00</text>
   <text x="500" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#666">15:00</text>
   <text x="700" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#666">20:00</text>
   
-  <!-- Timeline markers -->
+
   <circle cx="100" cy="80" r="8" fill="#4CAF50"/>
   <circle cx="300" cy="80" r="8" fill="#FF9800"/>
   <circle cx="500" cy="80" r="8" fill="#FF9800"/>
   <circle cx="700" cy="80" r="8" fill="#F44336"/>
   
-  <!-- Use case boxes -->
+
   
-  <!-- Morning start -->
+
   <rect x="50" y="130" width="140" height="100" fill="#E8F5E8" stroke="#4CAF50" stroke-width="2" rx="5"/>
   <text x="120" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#388E3C">
     Dagstart
@@ -49,7 +49,7 @@
     • Forberede for dagen
   </text>
   
-  <!-- Shift change -->
+
   <rect x="230" y="130" width="140" height="100" fill="#FFF3E0" stroke="#FF9800" stroke-width="2" rx="5"/>
   <text x="300" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#F57C00">
     Skiftveksling
@@ -67,7 +67,7 @@
     • Dokumentert kontroll
   </text>
   
-  <!-- Afternoon control -->
+
   <rect x="430" y="130" width="140" height="100" fill="#FFF3E0" stroke="#FF9800" stroke-width="2" rx="5"/>
   <text x="500" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#F57C00">
     Mellomkontroll
@@ -85,7 +85,7 @@
     • Problemidentifikasjon
   </text>
   
-  <!-- Day end -->
+
   <rect x="610" y="130" width="140" height="100" fill="#FFEBEE" stroke="#F44336" stroke-width="2" rx="5"/>
   <text x="680" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#D32F2F">
     Kasseavslutning
@@ -103,13 +103,13 @@
     • Dagavslutning
   </text>
   
-  <!-- Security and Control Section -->
+
   <rect x="50" y="270" width="700" height="280" fill="white" stroke="#ddd" stroke-width="1" rx="8"/>
   <text x="400" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333">
     Sikkerhet og Internkontroll
   </text>
   
-  <!-- Security boxes -->
+
   <rect x="80" y="320" width="160" height="120" fill="#E3F2FD" stroke="#2196F3" stroke-width="1" rx="5"/>
   <text x="160" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1976D2">
     Kontantbegrensning
@@ -190,7 +190,7 @@
     • Audit compliance
   </text>
   
-  <!-- Best practices note -->
+
   <rect x="80" y="470" width="640" height="60" fill="#ECEFF1" stroke="#607D8B" stroke-width="1" rx="5"/>
   <text x="400" y="490" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#37474F">
     Beste Praksis for X-rapport Bruk

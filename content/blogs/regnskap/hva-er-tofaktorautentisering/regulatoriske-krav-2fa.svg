@@ -9,10 +9,10 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="700" height="500" fill="#f8f9fa"/>
   
-  <!-- Header -->
+
   <rect width="700" height="80" fill="url(#headerGrad)"/>
   <text x="350" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
     Regulatoriske Krav for 2FA
@@ -21,7 +21,7 @@
     Compliance og Juridiske Forpliktelser
   </text>
   
-  <!-- GDPR Card -->
+
   <g transform="translate(50, 110)">
     <rect width="180" height="160" rx="10" fill="white" filter="url(#cardShadow)"/>
     <rect width="180" height="40" rx="10" fill="#4285f4"/>
@@ -37,7 +37,7 @@
     <text x="20" y="150" font-family="Arial, sans-serif" font-size="10" fill="#d32f2f">Opptil 4% av årlig omsetning</text>
   </g>
   
-  <!-- Bokføringsloven Card -->
+
   <g transform="translate(260, 110)">
     <rect width="180" height="160" rx="10" fill="white" filter="url(#cardShadow)"/>
     <rect width="180" height="40" rx="10" fill="#ff9800"/>
@@ -53,7 +53,7 @@
     <text x="20" y="150" font-family="Arial, sans-serif" font-size="10" fill="#d32f2f">Bøter og juridisk ansvar</text>
   </g>
   
-  <!-- Regnskapsloven Card -->
+
   <g transform="translate(470, 110)">
     <rect width="180" height="160" rx="10" fill="white" filter="url(#cardShadow)"/>
     <rect width="180" height="40" rx="10" fill="#4caf50"/>
@@ -69,7 +69,7 @@
     <text x="20" y="150" font-family="Arial, sans-serif" font-size="10" fill="#d32f2f">Styreansvar og sanksjoner</text>
   </g>
   
-  <!-- Compliance Benefits -->
+
   <g transform="translate(50, 300)">
     <rect width="600" height="120" rx="10" fill="white" filter="url(#cardShadow)"/>
     <rect width="600" height="35" rx="10" fill="#6366f1"/>
@@ -78,7 +78,7 @@
       2FA Compliance-fordeler
     </text>
     
-    <!-- Benefits grid -->
+
     <g transform="translate(30, 50)">
       <circle cx="15" cy="15" r="8" fill="#4caf50"/>
       <text x="15" y="20" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">✓</text>
@@ -104,7 +104,7 @@
     </g>
   </g>
   
-  <!-- Bottom stats -->
+
   <g transform="translate(50, 445)">
     <text x="0" y="0" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c5aa0">Kostnad ved brudd:</text>
     <text x="150" y="0" font-family="Arial, sans-serif" font-size="11" fill="#d32f2f">Gjennomsnitt 2.5 mill NOK</text>

@@ -10,18 +10,18 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="400" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="45" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" fill="white">
     Norsk standard (regnskap)
   </text>
   
-  <!-- Norwegian flag colors accent -->
+
   <rect x="50" y="20" width="8" height="40" fill="#ef2b2d"/>
   <rect x="58" y="20" width="8" height="40" fill="white"/>
   <rect x="66" y="20" width="8" height="40" fill="#002868"/>
@@ -30,15 +30,15 @@
   <rect x="734" y="20" width="8" height="40" fill="white"/>
   <rect x="742" y="20" width="8" height="40" fill="#002868"/>
   
-  <!-- Main content area -->
+
   <rect x="50" y="120" width="700" height="240" fill="white" stroke="#dee2e6" stroke-width="1" rx="8"/>
   
-  <!-- Standards hierarchy illustration -->
+
   <text x="400" y="150" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#333">
     Hierarki av Norske Regnskapsstandarder
   </text>
   
-  <!-- Level boxes -->
+
   <rect x="80" y="170" width="120" height="30" fill="#0066cc" rx="4"/>
   <text x="140" y="190" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
     Regnskapsloven
@@ -64,20 +64,20 @@
     GRS
   </text>
   
-  <!-- Connecting arrows -->
+
   <path d="M 200 185 L 210 185" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
   <path d="M 340 185 L 350 185" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
   <path d="M 480 185 L 490 185" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
   <path d="M 620 185 L 630 185" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#666"/>
     </marker>
   </defs>
   
-  <!-- Key institutions -->
+
   <text x="400" y="240" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#333">
     Sentrale Institusjoner
   </text>
@@ -106,7 +106,7 @@
     (Internasjonalt)
   </text>
   
-  <!-- Footer -->
+
   <text x="400" y="340" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666">
     Komplett guide til norske regnskapsstandarder og deres praktiske anvendelse
   </text>

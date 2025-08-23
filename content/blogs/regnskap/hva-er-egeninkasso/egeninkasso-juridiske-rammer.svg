@@ -10,15 +10,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#495057">
     Juridiske Rammer for Egeninkasso
   </text>
   
-  <!-- Law book icon -->
+
   <g transform="translate(350, 70)">
     <rect x="0" y="0" width="100" height="80" fill="url(#lawGradient)" stroke="#721c24" stroke-width="2" rx="5"/>
     <rect x="10" y="10" width="80" height="60" fill="#f8f9fa" stroke="#721c24" stroke-width="1" rx="3"/>
@@ -30,9 +30,9 @@
     </text>
   </g>
   
-  <!-- Requirements boxes -->
+
   
-  <!-- Box 1: Skriftlig varsel -->
+
   <g transform="translate(50, 200)">
     <rect x="0" y="0" width="140" height="120" fill="white" stroke="#0066cc" stroke-width="2" rx="10"/>
     <rect x="0" y="0" width="140" height="30" fill="#0066cc" rx="10"/>
@@ -42,7 +42,7 @@
       Skriftlig Varsel
     </text>
     
-    <!-- Document icon -->
+
     <rect x="50" y="45" width="40" height="50" fill="#f8f9fa" stroke="#0066cc" stroke-width="1" rx="3"/>
     <line x1="60" y1="55" x2="80" y2="55" stroke="#666" stroke-width="1"/>
     <line x1="60" y1="65" x2="80" y2="65" stroke="#666" stroke-width="1"/>
@@ -53,7 +53,7 @@
     </text>
   </g>
   
-  <!-- Box 2: Korrekt beregning -->
+
   <g transform="translate(220, 200)">
     <rect x="0" y="0" width="140" height="120" fill="white" stroke="#28a745" stroke-width="2" rx="10"/>
     <rect x="0" y="0" width="140" height="30" fill="#28a745" rx="10"/>
@@ -63,7 +63,7 @@
       Korrekt Beregning
     </text>
     
-    <!-- Calculator icon -->
+
     <rect x="50" y="45" width="40" height="50" fill="#495057" stroke="#28a745" stroke-width="1" rx="3"/>
     <rect x="55" y="50" width="30" height="15" fill="#28a745"/>
     <circle cx="60" cy="70" r="3" fill="#28a745"/>
@@ -78,7 +78,7 @@
     </text>
   </g>
   
-  <!-- Box 3: Informasjonsplikt -->
+
   <g transform="translate(390, 200)">
     <rect x="0" y="0" width="140" height="120" fill="white" stroke="#ffc107" stroke-width="2" rx="10"/>
     <rect x="0" y="0" width="140" height="30" fill="#ffc107" rx="10"/>
@@ -88,7 +88,7 @@
       Informasjonsplikt
     </text>
     
-    <!-- Info icon -->
+
     <circle cx="70" cy="70" r="20" fill="#ffc107" stroke="#e0a800" stroke-width="2"/>
     <text x="70" y="77" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="white">
       i
@@ -99,7 +99,7 @@
     </text>
   </g>
   
-  <!-- Box 4: Dokumentasjon -->
+
   <g transform="translate(560, 200)">
     <rect x="0" y="0" width="140" height="120" fill="white" stroke="#6f42c1" stroke-width="2" rx="10"/>
     <rect x="0" y="0" width="140" height="30" fill="#6f42c1" rx="10"/>
@@ -109,7 +109,7 @@
       Dokumentasjon
     </text>
     
-    <!-- Archive icon -->
+
     <rect x="45" y="45" width="50" height="40" fill="#f8f9fa" stroke="#6f42c1" stroke-width="2" rx="3"/>
     <rect x="50" y="50" width="40" height="5" fill="#6f42c1"/>
     <rect x="50" y="60" width="40" height="5" fill="#6f42c1"/>
@@ -123,7 +123,7 @@
     </text>
   </g>
   
-  <!-- Bottom section: Respektfull tone -->
+
   <g transform="translate(200, 360)">
     <rect x="0" y="0" width="400" height="100" fill="white" stroke="#17a2b8" stroke-width="2" rx="10"/>
     <rect x="0" y="0" width="400" height="30" fill="#17a2b8" rx="10"/>
@@ -133,16 +133,16 @@
       Respektfull og Saklig Kommunikasjon
     </text>
     
-    <!-- Communication icons -->
+
     <g transform="translate(100, 45)">
-      <!-- Speech bubble -->
+
       <ellipse cx="50" cy="25" rx="40" ry="20" fill="#17a2b8" stroke="#138496" stroke-width="2"/>
       <polygon points="30,35 20,45 35,40" fill="#17a2b8" stroke="#138496" stroke-width="2"/>
       <text x="50" y="30" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
         Saklig tone
       </text>
       
-      <!-- Person icon -->
+
       <circle cx="200" cy="15" r="10" fill="#ffc107" stroke="#e0a800" stroke-width="2"/>
       <rect x="190" y="25" width="20" height="25" fill="#17a2b8" stroke="#138496" stroke-width="2" rx="3"/>
     </g>
@@ -152,7 +152,7 @@
     </text>
   </g>
   
-  <!-- Warning note -->
+
   <text x="400" y="480" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#dc3545" font-weight="bold">
     ⚠️ Brudd på disse kravene kan føre til bøter og erstatningsansvar
   </text>

@@ -22,26 +22,26 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#ffffff"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
   <text x="400" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
     Programvare som Immateriell Eiendel
   </text>
   
-  <!-- Main content area -->
+
   <g transform="translate(50, 100)">
     
-    <!-- Proprietary Software -->
+
     <rect x="0" y="0" width="170" height="200" rx="10" fill="url(#softwareGradient)" stroke="#3b82f6" stroke-width="2"/>
     <rect x="10" y="10" width="150" height="40" rx="5" fill="#1e40af"/>
     <text x="85" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Proprietær Programvare
     </text>
     
-    <!-- Code representation -->
+
     <g transform="translate(20, 60)">
       <rect x="0" y="0" width="130" height="80" rx="5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
       <text x="5" y="15" fill="#10b981" font-family="Courier, monospace" font-size="10">&lt;/&gt; function calculate() {</text>
@@ -61,14 +61,14 @@
       Fullt eierskap
     </text>
     
-    <!-- Software Licenses -->
+
     <rect x="190" y="0" width="170" height="200" rx="10" fill="url(#licenseGradient)" stroke="#f59e0b" stroke-width="2"/>
     <rect x="200" y="10" width="150" height="40" rx="5" fill="#d97706"/>
     <text x="275" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Programvarelisenser
     </text>
     
-    <!-- License icons -->
+
     <g transform="translate(210, 60)">
       <rect x="0" y="0" width="40" height="50" rx="5" fill="#f59e0b" stroke="white" stroke-width="2"/>
       <text x="20" y="30" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16">🔑</text>
@@ -101,16 +101,16 @@
       Begrenset bruksrett
     </text>
     
-    <!-- Databases -->
+
     <rect x="380" y="0" width="170" height="200" rx="10" fill="url(#databaseGradient)" stroke="#10b981" stroke-width="2"/>
     <rect x="390" y="10" width="150" height="40" rx="5" fill="#059669"/>
     <text x="465" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Databaser
     </text>
     
-    <!-- Database visualization -->
+
     <g transform="translate(400, 60)">
-      <!-- Database cylinders -->
+
       <ellipse cx="40" cy="20" rx="30" ry="8" fill="#10b981" stroke="#059669" stroke-width="2"/>
       <rect x="10" y="20" width="60" height="40" fill="#10b981"/>
       <ellipse cx="40" cy="60" rx="30" ry="8" fill="#059669" stroke="#047857" stroke-width="2"/>
@@ -119,10 +119,10 @@
       <rect x="75" y="30" width="50" height="30" fill="#10b981"/>
       <ellipse cx="100" cy="60" rx="25" ry="6" fill="#059669" stroke="#047857" stroke-width="2"/>
       
-      <!-- Data flow arrows -->
+
       <path d="M 70 40 L 75 40" stroke="#374151" stroke-width="2" marker-end="url(#arrowGray)"/>
       
-      <!-- Data labels -->
+
       <text x="40" y="85" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">
         Kundedata
       </text>
@@ -141,16 +141,16 @@
       Kommersiell verdi
     </text>
     
-    <!-- Algorithms -->
+
     <rect x="570" y="0" width="170" height="200" rx="10" fill="url(#algorithmGradient)" stroke="#ec4899" stroke-width="2"/>
     <rect x="580" y="10" width="150" height="40" rx="5" fill="#be185d"/>
     <text x="655" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Algoritmer
     </text>
     
-    <!-- Algorithm visualization -->
+
     <g transform="translate(590, 60)">
-      <!-- Flowchart elements -->
+
       <rect x="10" y="0" width="40" height="25" rx="3" fill="#ec4899" stroke="white" stroke-width="1"/>
       <text x="30" y="17" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">Input</text>
       
@@ -160,11 +160,11 @@
       <rect x="100" y="0" width="40" height="25" rx="3" fill="#ec4899" stroke="white" stroke-width="1"/>
       <text x="120" y="17" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="9">Output</text>
       
-      <!-- Arrows -->
+
       <path d="M 50 12.5 L 50 12.5" stroke="#be185d" stroke-width="2" marker-end="url(#arrowPink)"/>
       <path d="M 90 12.5 L 100 12.5" stroke="#be185d" stroke-width="2" marker-end="url(#arrowPink)"/>
       
-      <!-- Mathematical formulas -->
+
       <text x="75" y="45" text-anchor="middle" fill="#be185d" font-family="Courier, monospace" font-size="10">
         f(x) = ax² + bx + c
       </text>
@@ -186,15 +186,15 @@
       Konkurransefortrinn
     </text>
     
-    <!-- Value chain -->
+
     <g transform="translate(0, 230)">
       <text x="370" y="20" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
         Verdikjede for Programvare som Immateriell Eiendel
       </text>
       
-      <!-- Process flow -->
+
       <g transform="translate(50, 40)">
-        <!-- Development -->
+
         <rect x="0" y="0" width="120" height="60" rx="8" fill="#3b82f6" stroke="white" stroke-width="2"/>
         <text x="60" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
           Utvikling
@@ -206,10 +206,10 @@
           Programmering
         </text>
         
-        <!-- Arrow -->
+
         <path d="M 130 30 L 170 30" stroke="#374151" stroke-width="3" marker-end="url(#arrowGray)"/>
         
-        <!-- Implementation -->
+
         <rect x="180" y="0" width="120" height="60" rx="8" fill="#10b981" stroke="white" stroke-width="2"/>
         <text x="240" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
           Implementering
@@ -221,10 +221,10 @@
           Opplæring
         </text>
         
-        <!-- Arrow -->
+
         <path d="M 310 30 L 350 30" stroke="#374151" stroke-width="3" marker-end="url(#arrowGray)"/>
         
-        <!-- Operation -->
+
         <rect x="360" y="0" width="120" height="60" rx="8" fill="#f59e0b" stroke="white" stroke-width="2"/>
         <text x="420" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
           Drift
@@ -236,10 +236,10 @@
           Oppgraderinger
         </text>
         
-        <!-- Arrow -->
+
         <path d="M 490 30 L 530 30" stroke="#374151" stroke-width="3" marker-end="url(#arrowGray)"/>
         
-        <!-- Value Creation -->
+
         <rect x="540" y="0" width="120" height="60" rx="8" fill="#ec4899" stroke="white" stroke-width="2"/>
         <text x="600" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
           Verdiskapning
@@ -253,7 +253,7 @@
       </g>
     </g>
     
-    <!-- Key characteristics -->
+
     <g transform="translate(0, 380)">
       <rect x="0" y="0" width="700" height="140" rx="10" fill="#f8fafc" stroke="#e2e8f0" stroke-width="2"/>
       
@@ -261,9 +261,9 @@
         Nøkkelkarakteristikker for Programvare som Immateriell Eiendel
       </text>
       
-      <!-- Characteristics grid -->
+
       <g transform="translate(30, 40)">
-        <!-- Row 1 -->
+
         <g transform="translate(0, 0)">
           <circle cx="10" cy="10" r="8" fill="#3b82f6"/>
           <text x="10" y="15" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">✓</text>
@@ -280,7 +280,7 @@
           </text>
         </g>
         
-        <!-- Row 2 -->
+
         <g transform="translate(0, 30)">
           <circle cx="10" cy="10" r="8" fill="#f59e0b"/>
           <text x="10" y="15" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">✓</text>
@@ -297,7 +297,7 @@
           </text>
         </g>
         
-        <!-- Row 3 -->
+
         <g transform="translate(0, 60)">
           <circle cx="10" cy="10" r="8" fill="#8b5cf6"/>
           <text x="10" y="15" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">⚠</text>
@@ -318,7 +318,7 @@
     
   </g>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="arrowGray" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
       <polygon points="0,0 0,6 9,3" fill="#374151"/>

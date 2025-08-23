@@ -6,20 +6,20 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#ffffff"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#calculationGrad)"/>
   <text x="400" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="white">Beregning av Produksjonslønn - Detaljert Eksempel</text>
   
-  <!-- Example scenario -->
+
   <rect x="50" y="80" width="700" height="80" fill="#f1f5f9" stroke="#64748b" stroke-width="2" rx="10"/>
   <text x="400" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">Scenario: Produksjonsarbeider i møbelfabrikk</text>
   <text x="70" y="125" font-family="Arial, sans-serif" font-size="12" fill="#475569">Arbeider: Kari Andersen | Periode: Januar 2024 | Produserte enheter: 150 stoler</text>
   <text x="70" y="140" font-family="Arial, sans-serif" font-size="12" fill="#475569">Målsetting: 100 stoler/måned | Feilrate: 1.5% (under 2% gir bonus) | Arbeidsdager: 22</text>
   
-  <!-- Input parameters -->
+
   <text x="50" y="190" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1f2937">Lønnssystem og Satser</text>
   
   <rect x="50" y="200" width="350" height="140" fill="#e0f2fe" stroke="#0284c7" stroke-width="2" rx="8"/>
@@ -43,7 +43,7 @@
   <text x="70" y="315" font-family="Arial, sans-serif" font-size="12" fill="#0c4a6e">• Feriepenger:</text>
   <text x="320" y="315" font-family="Arial, sans-serif" font-size="12" fill="#0c4a6e" text-anchor="end">12% (månedlig)</text>
   
-  <!-- Production data -->
+
   <rect x="420" y="200" width="330" height="140" fill="#f0fdf4" stroke="#16a34a" stroke-width="2" rx="8"/>
   <text x="585" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#15803d">Produksjonsdata Januar</text>
   
@@ -65,59 +65,59 @@
   <text x="440" y="315" font-family="Arial, sans-serif" font-size="12" fill="#15803d">• Oppmøte:</text>
   <text x="720" y="315" font-family="Arial, sans-serif" font-size="12" fill="#15803d" text-anchor="end">22/22 dager</text>
   
-  <!-- Detailed calculation -->
+
   <text x="50" y="370" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1f2937">Detaljert Lønnsberegning</text>
   
   <rect x="50" y="380" width="700" height="180" fill="#fffbeb" stroke="#f59e0b" stroke-width="2" rx="10"/>
   
-  <!-- Calculation table -->
+
   <text x="70" y="405" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#92400e">Lønnskomponent</text>
   <text x="350" y="405" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#92400e">Beregning</text>
   <text x="600" y="405" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#92400e">Beløp</text>
   
   <line x1="60" y1="410" x2="740" y2="410" stroke="#f59e0b" stroke-width="2"/>
   
-  <!-- Row 1: Grunnlønn -->
+
   <text x="70" y="430" font-family="Arial, sans-serif" font-size="12" fill="#92400e">1. Grunnlønn</text>
   <text x="350" y="430" font-family="Arial, sans-serif" font-size="12" fill="#92400e">22 dager × 400 kr</text>
   <text x="680" y="430" font-family="Arial, sans-serif" font-size="12" fill="#92400e" text-anchor="end">8.800 kr</text>
   
-  <!-- Row 2: Stykkelønn -->
+
   <text x="70" y="445" font-family="Arial, sans-serif" font-size="12" fill="#92400e">2. Stykkelønn</text>
   <text x="350" y="445" font-family="Arial, sans-serif" font-size="12" fill="#92400e">50 stoler × 25 kr</text>
   <text x="680" y="445" font-family="Arial, sans-serif" font-size="12" fill="#92400e" text-anchor="end">1.250 kr</text>
   
-  <!-- Row 3: Overtidsbonus -->
+
   <text x="70" y="460" font-family="Arial, sans-serif" font-size="12" fill="#92400e">3. Overtidsbonus</text>
   <text x="350" y="460" font-family="Arial, sans-serif" font-size="12" fill="#92400e">20 stoler × 50 kr</text>
   <text x="680" y="460" font-family="Arial, sans-serif" font-size="12" fill="#92400e" text-anchor="end">1.000 kr</text>
   
-  <!-- Row 4: Subtotal -->
+
   <line x1="600" y1="470" x2="690" y2="470" stroke="#92400e" stroke-width="1"/>
   <text x="70" y="480" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#92400e">Subtotal bruttolønn</text>
   <text x="680" y="480" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#92400e" text-anchor="end">11.050 kr</text>
   
-  <!-- Row 5: Kvalitetsbonus -->
+
   <text x="70" y="495" font-family="Arial, sans-serif" font-size="12" fill="#92400e">4. Kvalitetsbonus</text>
   <text x="350" y="495" font-family="Arial, sans-serif" font-size="12" fill="#92400e">11.050 kr × 10%</text>
   <text x="680" y="495" font-family="Arial, sans-serif" font-size="12" fill="#92400e" text-anchor="end">1.105 kr</text>
   
-  <!-- Row 6: Total bruttolønn -->
+
   <line x1="600" y1="505" x2="690" y2="505" stroke="#92400e" stroke-width="2"/>
   <text x="70" y="520" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#92400e">Total bruttolønn</text>
   <text x="680" y="520" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#92400e" text-anchor="end">12.155 kr</text>
   
-  <!-- Row 7: Feriepenger -->
+
   <text x="70" y="535" font-family="Arial, sans-serif" font-size="12" fill="#92400e">5. Feriepenger (månedlig)</text>
   <text x="350" y="535" font-family="Arial, sans-serif" font-size="12" fill="#92400e">12.155 kr × 12% ÷ 12</text>
   <text x="680" y="535" font-family="Arial, sans-serif" font-size="12" fill="#92400e" text-anchor="end">122 kr</text>
   
-  <!-- Row 8: Arbeidsgiveravgift -->
+
   <text x="70" y="550" font-family="Arial, sans-serif" font-size="12" fill="#92400e">6. Arbeidsgiveravgift</text>
   <text x="350" y="550" font-family="Arial, sans-serif" font-size="12" fill="#92400e">12.155 kr × 14,1%</text>
   <text x="680" y="550" font-family="Arial, sans-serif" font-size="12" fill="#92400e" text-anchor="end">1.714 kr</text>
   
-  <!-- Final total -->
+
   <rect x="50" y="570" width="700" height="30" fill="#dc2626" rx="5"/>
   <text x="70" y="590" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">TOTAL LØNNSKOSTNAD FOR BEDRIFTEN</text>
   <text x="680" y="590" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white" text-anchor="end">13.991 kr</text>

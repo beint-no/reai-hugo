@@ -14,15 +14,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#333">
     Faktorer som Påvirker Driftsresultat
   </text>
   
-  <!-- Central driftsresultat circle -->
+
   <circle cx="400" cy="300" r="80" fill="url(#centerGradient)" stroke="#004499" stroke-width="3"/>
   <text x="400" y="290" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
     DRIFTS-
@@ -31,13 +31,13 @@
     RESULTAT
   </text>
   
-  <!-- Positive factors (left side) -->
+
   <rect x="50" y="80" width="280" height="40" fill="url(#positiveGradient)" rx="20"/>
   <text x="190" y="105" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
     POSITIVE FAKTORER
   </text>
   
-  <!-- Positive factor boxes -->
+
   <rect x="70" y="140" width="240" height="35" fill="#e8f5e8" stroke="#28a745" stroke-width="1" rx="5"/>
   <text x="90" y="160" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#28a745">
     Økte salgspriser
@@ -78,13 +78,13 @@
     Bedre utnyttelse av ressurser
   </text>
   
-  <!-- Negative factors (right side) -->
+
   <rect x="470" y="80" width="280" height="40" fill="url(#negativeGradient)" rx="20"/>
   <text x="610" y="105" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
     NEGATIVE FAKTORER
   </text>
   
-  <!-- Negative factor boxes -->
+
   <rect x="490" y="140" width="240" height="35" fill="#fde8e8" stroke="#dc3545" stroke-width="1" rx="5"/>
   <text x="510" y="160" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#dc3545">
     Prispress
@@ -125,7 +125,7 @@
     Behov for investeringer
   </text>
   
-  <!-- Arrows pointing to center -->
+
   <path d="M 320 220 L 340 260" stroke="#28a745" stroke-width="3" marker-end="url(#greenArrow)"/>
   <path d="M 320 280 L 340 300" stroke="#28a745" stroke-width="3" marker-end="url(#greenArrow)"/>
   <path d="M 320 340 L 340 320" stroke="#28a745" stroke-width="3" marker-end="url(#greenArrow)"/>
@@ -134,7 +134,7 @@
   <path d="M 480 280 L 460 300" stroke="#dc3545" stroke-width="3" marker-end="url(#redArrow)"/>
   <path d="M 480 340 L 460 320" stroke="#dc3545" stroke-width="3" marker-end="url(#redArrow)"/>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="greenArrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#28a745"/>
@@ -144,7 +144,7 @@
     </marker>
   </defs>
   
-  <!-- Bottom strategy box -->
+
   <rect x="50" y="420" width="700" height="120" fill="white" stroke="#dee2e6" stroke-width="1" rx="10"/>
   <text x="400" y="445" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#333">
     Strategier for Forbedring av Driftsresultat
@@ -164,7 +164,7 @@
     • Prosessoptimalisering • Automatisering • Forhandlinger • Energieffektivisering
   </text>
   
-  <!-- Performance indicators -->
+
   <circle cx="100" y="570" r="15" fill="#28a745"/>
   <text x="100" y="575" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
     +

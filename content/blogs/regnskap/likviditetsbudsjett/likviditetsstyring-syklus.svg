@@ -6,15 +6,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="#212529">
     Likviditetsstyring og kontrollsyklus
   </text>
   
-  <!-- Central circle -->
+
   <circle cx="400" cy="250" r="80" fill="#007bff" stroke="#0056b3" stroke-width="3"/>
   <text x="400" y="240" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
     LIKVIDITETS-
@@ -26,7 +26,7 @@
     Kontinuerlig prosess
   </text>
   
-  <!-- Step 1: Planning -->
+
   <rect x="150" y="80" width="120" height="60" fill="#28a745" stroke="#1e7e34" stroke-width="2" rx="8"/>
   <text x="210" y="105" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
     1. PLANLEGGING
@@ -35,7 +35,7 @@
     Budsjett &amp; prognoser
   </text>
   
-  <!-- Step 2: Monitoring -->
+
   <rect x="530" y="80" width="120" height="60" fill="#ffc107" stroke="#e0a800" stroke-width="2" rx="8"/>
   <text x="590" y="105" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
     2. OVERVÅKING
@@ -44,7 +44,7 @@
     Daglig oppfølging
   </text>
   
-  <!-- Step 3: Analysis -->
+
   <rect x="530" y="360" width="120" height="60" fill="#dc3545" stroke="#c82333" stroke-width="2" rx="8"/>
   <text x="590" y="385" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
     3. ANALYSE
@@ -53,7 +53,7 @@
     Avvik &amp; årsaker
   </text>
   
-  <!-- Step 4: Action -->
+
   <rect x="150" y="360" width="120" height="60" fill="#6f42c1" stroke="#5a32a3" stroke-width="2" rx="8"/>
   <text x="210" y="385" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
     4. HANDLING
@@ -62,32 +62,32 @@
     Korrigerende tiltak
   </text>
   
-  <!-- Arrows -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#6c757d"/>
     </marker>
   </defs>
   
-  <!-- Arrow 1 to 2 -->
+
   <path d="M 270 110 Q 350 80 530 110" stroke="#6c757d" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow 2 to 3 -->
+
   <path d="M 590 140 L 590 360" stroke="#6c757d" stroke-width="3" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow 3 to 4 -->
+
   <path d="M 530 390 Q 350 420 270 390" stroke="#6c757d" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow 4 to 1 -->
+
   <path d="M 210 360 L 210 140" stroke="#6c757d" stroke-width="3" marker-end="url(#arrowhead)"/>
   
-  <!-- Connecting lines to center -->
+
   <path d="M 270 110 Q 320 180 320 250" stroke="#adb5bd" stroke-width="2" fill="none"/>
   <path d="M 530 110 Q 480 180 480 250" stroke="#adb5bd" stroke-width="2" fill="none"/>
   <path d="M 530 390 Q 480 320 480 250" stroke="#adb5bd" stroke-width="2" fill="none"/>
   <path d="M 270 390 Q 320 320 320 250" stroke="#adb5bd" stroke-width="2" fill="none"/>
   
-  <!-- Key activities -->
+
   <rect x="50" y="180" width="200" height="140" fill="white" stroke="#dee2e6" stroke-width="2" rx="8"/>
   <text x="150" y="200" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#212529">
     NØKKELAKTIVITETER
@@ -113,7 +113,7 @@
     <text x="20" y="97" font-family="Arial, sans-serif" font-size="10" fill="#212529">Risikoevaluering</text>
   </g>
   
-  <!-- Performance indicators -->
+
   <rect x="550" y="180" width="200" height="140" fill="white" stroke="#dee2e6" stroke-width="2" rx="8"/>
   <text x="650" y="200" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#212529">
     NØKKELINDIKATORER
@@ -139,7 +139,7 @@
     <text x="20" y="97" font-family="Arial, sans-serif" font-size="10" fill="#212529">Sesongvariasjoner</text>
   </g>
   
-  <!-- Bottom note -->
+
   <text x="400" y="480" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#6c757d">
     Kontinuerlig forbedring gjennom systematisk oppfølging og læring
   </text>

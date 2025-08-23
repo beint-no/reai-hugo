@@ -9,20 +9,20 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#timeBg)"/>
   
-  <!-- Title -->
+
   <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1a202c">
     Tidsvektet Beregning av Skjermingsfradrag
   </text>
   
-  <!-- Timeline -->
+
   <g transform="translate(100,120)">
-    <!-- Main timeline -->
+
     <line x1="0" y1="0" x2="600" y2="0" stroke="#2d3748" stroke-width="3"/>
     
-    <!-- Year markers -->
+
     <line x1="0" y1="-10" x2="0" y2="10" stroke="#2d3748" stroke-width="2"/>
     <text x="0" y="-20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2d3748">
       1. mars 2023
@@ -47,7 +47,7 @@
       Salg aksjer
     </text>
     
-    <!-- Period annotations -->
+
     <g transform="translate(150,50)">
       <rect x="-70" y="-15" width="140" height="30" rx="5" fill="#48bb78" filter="url(#boxShadow)"/>
       <text x="0" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
@@ -63,7 +63,7 @@
     </g>
   </g>
   
-  <!-- Calculation boxes -->
+
   <g transform="translate(200,250)">
     <rect x="-120" y="-60" width="240" height="120" rx="8" fill="#48bb78" filter="url(#boxShadow)"/>
     <text x="0" y="-35" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -102,7 +102,7 @@
     </text>
   </g>
   
-  <!-- Total calculation -->
+
   <g transform="translate(400,390)">
     <rect x="-150" y="-30" width="300" height="60" rx="10" fill="#3182ce" filter="url(#boxShadow)"/>
     <text x="0" y="-10" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -113,20 +113,20 @@
     </text>
   </g>
   
-  <!-- Formula explanation -->
+
   <g transform="translate(400,460)">
     <text x="0" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#4a5568">
       Formel: Grunnlag × Rente × (Antall dager / 365)
     </text>
   </g>
   
-  <!-- Connecting arrows -->
+
   <path d="M 200 190 L 200 210" stroke="#4a5568" stroke-width="2" marker-end="url(#arrowEnd)" fill="none"/>
   <path d="M 600 190 L 600 210" stroke="#4a5568" stroke-width="2" marker-end="url(#arrowEnd)" fill="none"/>
   <path d="M 280 310 L 350 370" stroke="#4a5568" stroke-width="2" marker-end="url(#arrowEnd)" fill="none"/>
   <path d="M 520 310 L 450 370" stroke="#4a5568" stroke-width="2" marker-end="url(#arrowEnd)" fill="none"/>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrowEnd" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#4a5568"/>

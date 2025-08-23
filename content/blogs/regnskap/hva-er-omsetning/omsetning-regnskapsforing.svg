@@ -10,16 +10,16 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="700" height="500" fill="url(#bgGrad)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <rect x="0" y="0" width="700" height="60" fill="url(#headerGrad)"/>
   <text x="350" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
     Regnskapsføring av Omsetning
   </text>
   
-  <!-- Transaction example -->
+
   <rect x="50" y="80" width="600" height="50" fill="white" stroke="#0066cc" stroke-width="2" rx="5"/>
   <text x="350" y="100" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0066cc">
     Eksempel: Salg av varer for 125 000 kr (inkl. 25% MVA)
@@ -28,7 +28,7 @@
     Omsetning: 125 000 kr | Inntekt: 100 000 kr | MVA: 25 000 kr
   </text>
   
-  <!-- Step 1: Sale transaction -->
+
   <rect x="50" y="150" width="280" height="140" fill="white" stroke="#28a745" stroke-width="2" rx="8"/>
   <rect x="50" y="150" width="280" height="35" fill="#28a745" rx="8"/>
   <text x="190" y="175" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
@@ -49,7 +49,7 @@
     Kredit: Utgående MVA     25 000
   </text>
   
-  <!-- Step 2: Payment received -->
+
   <rect x="370" y="150" width="280" height="140" fill="white" stroke="#dc3545" stroke-width="2" rx="8"/>
   <rect x="370" y="150" width="280" height="35" fill="#dc3545" rx="8"/>
   <text x="510" y="175" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
@@ -70,10 +70,10 @@
     (Ingen påvirkning på omsetning)
   </text>
   
-  <!-- Arrow between steps -->
+
   <path d="M 330 220 L 370 220" stroke="#0066cc" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Key points section -->
+
   <rect x="50" y="310" width="600" height="120" fill="white" stroke="#ffc107" stroke-width="2" rx="8"/>
   <rect x="50" y="310" width="600" height="35" fill="#ffc107" rx="8"/>
   <text x="350" y="335" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
@@ -95,7 +95,7 @@
     <tspan font-weight="bold">Kundefordring:</tspan> Representerer det totale beløpet kunden skylder
   </text>
   
-  <!-- Bottom summary -->
+
   <rect x="100" y="450" width="500" height="40" fill="#e3f2fd" stroke="#1976d2" stroke-width="1" rx="5"/>
   <text x="350" y="470" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#1976d2">
     Resultat: Omsetning på 125 000 kr er registrert, hvorav 100 000 kr er inntekt
@@ -104,7 +104,7 @@
     og 25 000 kr er MVA som skal betales til staten
   </text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#0066cc" />

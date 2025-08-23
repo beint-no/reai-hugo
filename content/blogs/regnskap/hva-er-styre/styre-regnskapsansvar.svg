@@ -14,18 +14,18 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8fafc"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e293b">Styrets Regnskapsansvar</text>
   
-  <!-- Central Board Circle -->
+
   <circle cx="400" cy="120" r="50" fill="#fbbf24" stroke="#1e293b" stroke-width="3"/>
   <text x="400" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e293b">STYRE</text>
   <text x="400" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#1e293b">Overordnet ansvar</text>
   
-  <!-- Approval Section -->
+
   <rect x="50" y="200" width="200" height="150" rx="10" fill="url(#approvalGradient)" stroke="#1e293b" stroke-width="2"/>
   <text x="150" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Godkjenning av</text>
   <text x="150" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Regnskaper</text>
@@ -42,7 +42,7 @@
   <circle cx="75" cy="325" r="6" fill="white"/>
   <text x="88" y="330" font-family="Arial, sans-serif" font-size="11" fill="white">Nedskrivninger</text>
   
-  <!-- Quality Assurance Section -->
+
   <rect x="300" y="200" width="200" height="150" rx="10" fill="url(#qualityGradient)" stroke="#1e293b" stroke-width="2"/>
   <text x="400" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Kvalitetssikring</text>
   
@@ -61,7 +61,7 @@
   <circle cx="325" cy="330" r="6" fill="white"/>
   <text x="338" y="335" font-family="Arial, sans-serif" font-size="11" fill="white">Risikovurdering</text>
   
-  <!-- Oversight Section -->
+
   <rect x="550" y="200" width="200" height="150" rx="10" fill="url(#oversightGradient)" stroke="#1e293b" stroke-width="2"/>
   <text x="650" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Overvåking</text>
   
@@ -80,16 +80,16 @@
   <circle cx="575" cy="330" r="6" fill="white"/>
   <text x="588" y="335" font-family="Arial, sans-serif" font-size="11" fill="white">Prognoseoppdatering</text>
   
-  <!-- Arrows from board to sections -->
+
   <path d="M 360 140 L 180 190" stroke="#1e293b" stroke-width="3" marker-end="url(#arrowhead)"/>
   <path d="M 400 170 L 400 190" stroke="#1e293b" stroke-width="3" marker-end="url(#arrowhead)"/>
   <path d="M 440 140 L 620 190" stroke="#1e293b" stroke-width="3" marker-end="url(#arrowhead)"/>
   
-  <!-- Process flow -->
+
   <rect x="100" y="380" width="600" height="180" rx="10" fill="white" stroke="#e2e8f0" stroke-width="2"/>
   <text x="400" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">Styrets Regnskapsprosess</text>
   
-  <!-- Process steps -->
+
   <rect x="120" y="420" width="120" height="60" rx="5" fill="#dbeafe" stroke="#3b82f6" stroke-width="1"/>
   <text x="180" y="440" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e293b">1. Forberedelse</text>
   <text x="180" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#1e293b">• Gjennomgang</text>
@@ -110,12 +110,12 @@
   <text x="600" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#1e293b">• Overvåking</text>
   <text x="600" y="468" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#1e293b">• Justering</text>
   
-  <!-- Process arrows -->
+
   <path d="M 240 450 L 250 450" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
   <path d="M 380 450 L 390 450" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
   <path d="M 520 450 L 530 450" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
   
-  <!-- Key responsibilities -->
+
   <rect x="150" y="500" width="500" height="50" rx="5" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1"/>
   <text x="400" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">Nøkkelansvar: Sikre at regnskapene gir et rettvisende bilde</text>
   <text x="400" y="535" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#64748b">av selskapets økonomiske stilling og resultater i henhold til god regnskapsskikk</text>

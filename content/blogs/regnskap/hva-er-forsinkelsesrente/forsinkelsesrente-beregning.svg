@@ -10,15 +10,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#333">
     Beregning av Forsinkelsesrente
   </text>
   
-  <!-- Formula box -->
+
   <rect x="50" y="70" width="700" height="80" fill="url(#formulaGradient)" stroke="#20c997" stroke-width="2" rx="10"/>
   <text x="400" y="100" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
     Forsinkelsesrente = (Hovedstol × Rentesats × Antall dager) ÷ 365
@@ -27,12 +27,12 @@
     Rentesats = Norges Banks referanserente + 8% (B2B) eller + 5% (B2C)
   </text>
   
-  <!-- Components breakdown -->
+
   <text x="50" y="190" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333">
     Komponenter i beregningen:
   </text>
   
-  <!-- Component 1: Hovedstol -->
+
   <rect x="50" y="210" width="160" height="100" fill="white" stroke="#0066cc" stroke-width="2" rx="5"/>
   <text x="130" y="235" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0066cc">
     Hovedstol
@@ -47,7 +47,7 @@
     skal betales
   </text>
   
-  <!-- Component 2: Rentesats -->
+
   <rect x="230" y="210" width="160" height="100" fill="white" stroke="#28a745" stroke-width="2" rx="5"/>
   <text x="310" y="235" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#28a745">
     Rentesats
@@ -62,7 +62,7 @@
     5% (B2C)
   </text>
   
-  <!-- Component 3: Antall dager -->
+
   <rect x="410" y="210" width="160" height="100" fill="white" stroke="#dc3545" stroke-width="2" rx="5"/>
   <text x="490" y="235" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#dc3545">
     Antall dager
@@ -77,7 +77,7 @@
     skjer
   </text>
   
-  <!-- Component 4: Divisor -->
+
   <rect x="590" y="210" width="160" height="100" fill="white" stroke="#6f42c1" stroke-width="2" rx="5"/>
   <text x="670" y="235" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#6f42c1">
     ÷ 365
@@ -92,13 +92,13 @@
     (365 dager/år)
   </text>
   
-  <!-- Example calculation -->
+
   <rect x="50" y="340" width="700" height="130" fill="white" stroke="#ffc107" stroke-width="2" rx="10"/>
   <text x="400" y="365" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#333">
     Eksempel: Beregning for 2024
   </text>
   
-  <!-- Example values -->
+
   <text x="80" y="390" font-family="Arial, sans-serif" font-size="14" fill="#333">
     Hovedstol: 50 000 kr
   </text>
@@ -109,7 +109,7 @@
     Forsinkelse: 30 dager
   </text>
   
-  <!-- Calculation steps -->
+
   <text x="400" y="390" font-family="Arial, sans-serif" font-size="14" fill="#333">
     Beregning:
   </text>
@@ -120,7 +120,7 @@
     = 187 500 ÷ 365
   </text>
   
-  <!-- Result -->
+
   <rect x="580" y="375" width="140" height="70" fill="#d4edda" stroke="#28a745" stroke-width="2" rx="5"/>
   <text x="650" y="400" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#155724">
     Resultat:

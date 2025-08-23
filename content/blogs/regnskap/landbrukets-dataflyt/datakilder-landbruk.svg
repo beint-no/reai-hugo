@@ -21,15 +21,15 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#2c3e50">
     Datakilder i Landbruket
   </text>
   
-  <!-- Central hub -->
+
   <circle cx="400" cy="300" r="80" fill="url(#centerGrad)" stroke="#2980b9" stroke-width="3" filter="url(#glow)"/>
   <text x="400" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     SENTRAL
@@ -38,8 +38,8 @@
     DATAFLYT
   </text>
   
-  <!-- Primary data sources -->
-  <!-- Sensors -->
+
+
   <rect x="100" y="80" width="140" height="100" rx="10" fill="url(#primaryGrad)" stroke="#229954" stroke-width="2"/>
   <text x="170" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     SENSORER
@@ -57,7 +57,7 @@
     • pH-verdier
   </text>
   
-  <!-- Machinery -->
+
   <rect x="560" y="80" width="140" height="100" rx="10" fill="url(#primaryGrad)" stroke="#229954" stroke-width="2"/>
   <text x="630" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     MASKINER
@@ -75,7 +75,7 @@
     • Vedlikehold
   </text>
   
-  <!-- Animals -->
+
   <rect x="100" y="420" width="140" height="100" rx="10" fill="url(#primaryGrad)" stroke="#229954" stroke-width="2"/>
   <text x="170" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     DYR &amp; AVLING
@@ -93,7 +93,7 @@
     • Kvalitetsdata
   </text>
   
-  <!-- Economic data -->
+
   <rect x="560" y="420" width="140" height="100" rx="10" fill="url(#primaryGrad)" stroke="#229954" stroke-width="2"/>
   <text x="630" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     ØKONOMI
@@ -111,8 +111,8 @@
     • Investeringer
   </text>
   
-  <!-- Secondary data sources -->
-  <!-- Weather -->
+
+
   <ellipse cx="300" cy="150" rx="70" ry="40" fill="url(#secondaryGrad)" stroke="#e67e22" stroke-width="2"/>
   <text x="300" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     VÆRDATA
@@ -121,7 +121,7 @@
     Meteorologi
   </text>
   
-  <!-- Market prices -->
+
   <ellipse cx="500" cy="150" rx="70" ry="40" fill="url(#secondaryGrad)" stroke="#e67e22" stroke-width="2"/>
   <text x="500" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     MARKEDSPRISER
@@ -130,7 +130,7 @@
     Råvarer
   </text>
   
-  <!-- Regulations -->
+
   <ellipse cx="300" cy="450" rx="70" ry="40" fill="url(#secondaryGrad)" stroke="#e67e22" stroke-width="2"/>
   <text x="300" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     REGELVERK
@@ -139,7 +139,7 @@
     Myndigheter
   </text>
   
-  <!-- Research -->
+
   <ellipse cx="500" cy="450" rx="70" ry="40" fill="url(#secondaryGrad)" stroke="#e67e22" stroke-width="2"/>
   <text x="500" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     FORSKNING
@@ -148,26 +148,26 @@
     Institutter
   </text>
   
-  <!-- Connection lines -->
+
   <defs>
     <marker id="arrowSmall" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
       <polygon points="0 0, 8 3, 0 6" fill="#34495e" />
     </marker>
   </defs>
   
-  <!-- Primary connections -->
+
   <line x1="240" y1="130" x2="320" y2="250" stroke="#27ae60" stroke-width="3" marker-end="url(#arrowSmall)"/>
   <line x1="560" y1="130" x2="480" y2="250" stroke="#27ae60" stroke-width="3" marker-end="url(#arrowSmall)"/>
   <line x1="240" y1="470" x2="320" y2="350" stroke="#27ae60" stroke-width="3" marker-end="url(#arrowSmall)"/>
   <line x1="560" y1="470" x2="480" y2="350" stroke="#27ae60" stroke-width="3" marker-end="url(#arrowSmall)"/>
   
-  <!-- Secondary connections -->
+
   <line x1="370" y1="150" x2="400" y2="220" stroke="#f39c12" stroke-width="2" marker-end="url(#arrowSmall)" stroke-dasharray="5,5"/>
   <line x1="430" y1="150" x2="400" y2="220" stroke="#f39c12" stroke-width="2" marker-end="url(#arrowSmall)" stroke-dasharray="5,5"/>
   <line x1="370" y1="450" x2="400" y2="380" stroke="#f39c12" stroke-width="2" marker-end="url(#arrowSmall)" stroke-dasharray="5,5"/>
   <line x1="430" y1="450" x2="400" y2="380" stroke="#f39c12" stroke-width="2" marker-end="url(#arrowSmall)" stroke-dasharray="5,5"/>
   
-  <!-- Data flow indicators -->
+
   <circle cx="280" cy="190" r="2" fill="#e74c3c">
     <animate attributeName="opacity" values="1;0.2;1" dur="1.5s" repeatCount="indefinite"/>
   </circle>
@@ -181,7 +181,7 @@
     <animate attributeName="opacity" values="1;0.2;1" dur="1.5s" begin="0.9s" repeatCount="indefinite"/>
   </circle>
   
-  <!-- Legend -->
+
   <rect x="50" y="550" width="200" height="40" rx="5" fill="white" stroke="#bdc3c7" stroke-width="1"/>
   <text x="60" y="565" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#2c3e50">
     LEGENDE:
@@ -195,7 +195,7 @@
     Sekundære datakilder
   </text>
   
-  <!-- Data volume indicators -->
+
   <text x="170" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#7f8c8d">
     Høy frekvens
   </text>

@@ -22,16 +22,16 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
   <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
     Sikkerhetstiltak for Direkte Remittering
   </text>
   
-  <!-- Authorization Levels Section -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="340" height="200" rx="10" fill="url(#authGradient)" opacity="0.9"/>
     <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
@@ -62,7 +62,7 @@
     </g>
   </g>
   
-  <!-- Technical Security Section -->
+
   <g transform="translate(410, 80)">
     <rect x="0" y="0" width="340" height="200" rx="10" fill="url(#techGradient)" opacity="0.9"/>
     <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
@@ -93,7 +93,7 @@
     </g>
   </g>
   
-  <!-- Procedures Section -->
+
   <g transform="translate(50, 300)">
     <rect x="0" y="0" width="340" height="200" rx="10" fill="url(#procedureGradient)" opacity="0.9"/>
     <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
@@ -124,16 +124,16 @@
     </g>
   </g>
   
-  <!-- Risk Management Section -->
+
   <g transform="translate(410, 300)">
     <rect x="0" y="0" width="340" height="200" rx="10" fill="url(#riskGradient)" opacity="0.9"/>
     <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
       ⚠️ Risikostyring
     </text>
     
-    <!-- Risk table -->
+
     <g transform="translate(10, 45)">
-      <!-- Headers -->
+
       <rect x="0" y="0" width="80" height="25" rx="3" fill="white" opacity="0.3"/>
       <text x="40" y="17" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
         Risiko
@@ -149,7 +149,7 @@
         Forebygging
       </text>
       
-      <!-- Row 1: Wrong recipient -->
+
       <rect x="0" y="30" width="80" height="30" rx="3" fill="white" opacity="0.2"/>
       <text x="5" y="42" font-family="Arial, sans-serif" font-size="9" fill="white">Feil mottaker</text>
       <text x="5" y="52" font-family="Arial, sans-serif" font-size="8" fill="white">Middels</text>
@@ -163,7 +163,7 @@
       <text x="155" y="42" font-family="Arial, sans-serif" font-size="9" fill="white">Dobbeltsjekk av kontonummer</text>
       <text x="155" y="52" font-family="Arial, sans-serif" font-size="9" fill="white">Automatisk validering</text>
       
-      <!-- Row 2: Wrong amount -->
+
       <rect x="0" y="65" width="80" height="30" rx="3" fill="white" opacity="0.2"/>
       <text x="5" y="77" font-family="Arial, sans-serif" font-size="9" fill="white">Feil beløp</text>
       <text x="5" y="87" font-family="Arial, sans-serif" font-size="8" fill="white">Lav</text>
@@ -177,7 +177,7 @@
       <text x="155" y="77" font-family="Arial, sans-serif" font-size="9" fill="white">Automatisk validering</text>
       <text x="155" y="87" font-family="Arial, sans-serif" font-size="9" fill="white">Beløpsgrenser</text>
       
-      <!-- Row 3: Fraud -->
+
       <rect x="0" y="100" width="80" height="30" rx="3" fill="white" opacity="0.2"/>
       <text x="5" y="112" font-family="Arial, sans-serif" font-size="9" fill="white">Svindel</text>
       <text x="5" y="122" font-family="Arial, sans-serif" font-size="8" fill="white">Lav</text>
@@ -191,7 +191,7 @@
       <text x="155" y="112" font-family="Arial, sans-serif" font-size="9" fill="white">Sterke autorisasjonsprosedyrer</text>
       <text x="155" y="122" font-family="Arial, sans-serif" font-size="9" fill="white">Overvåking av mønstre</text>
       
-      <!-- Row 4: System failure -->
+
       <rect x="0" y="135" width="80" height="30" rx="3" fill="white" opacity="0.2"/>
       <text x="5" y="147" font-family="Arial, sans-serif" font-size="9" fill="white">Systemfeil</text>
       <text x="5" y="157" font-family="Arial, sans-serif" font-size="8" fill="white">Lav</text>
@@ -207,7 +207,7 @@
     </g>
   </g>
   
-  <!-- Bottom summary -->
+
   <rect x="50" y="520" width="700" height="60" rx="5" fill="#333" opacity="0.8"/>
   <text x="400" y="540" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Sikkerhetstiltak for Direkte Remittering

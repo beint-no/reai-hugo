@@ -1,27 +1,27 @@
 <svg width="600" height="250" viewBox="0 0 600 250" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="600" height="250" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="300" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">Beregning av Big Mac-indeks</text>
   
-  <!-- Formula box -->
+
   <g transform="translate(50, 60)">
     <rect x="0" y="0" width="500" height="120" fill="#ffffff" stroke="#007bff" stroke-width="2" rx="10"/>
     
-    <!-- Formula -->
+
     <text x="250" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">Implisitt valutakurs =</text>
     
-    <!-- Fraction -->
+
     <line x1="150" y1="55" x2="350" y2="55" stroke="#2c3e50" stroke-width="2"/>
     <text x="250" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#2c3e50">Big Mac-pris i lokalt land</text>
     <text x="250" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#2c3e50">Big Mac-pris i USA</text>
     
-    <!-- Example -->
+
     <text x="250" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">Eksempel: 69 NOK / $5.50 = 12.55 NOK/USD</text>
   </g>
   
-  <!-- Step-by-step explanation -->
+
   <g transform="translate(50, 190)">
     <text x="0" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">Tolkning:</text>
     <text x="0" y="40" font-family="Arial, sans-serif" font-size="12" fill="#495057">• Implisitt kurs &lt; Faktisk kurs = Undervurdert valuta</text>

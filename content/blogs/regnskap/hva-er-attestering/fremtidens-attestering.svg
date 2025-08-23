@@ -17,22 +17,22 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#0066cc">
     Fremtidens Attestering
   </text>
   
-  <!-- AI &amp; Machine Learning -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="160" height="100" fill="url(#aiGradient)" rx="15" filter="url(#shadow)"/>
     <text x="80" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
       AI &amp; MASKINLÆRING
     </text>
     
-    <!-- AI Brain -->
+
     <circle cx="80" cy="55" r="20" fill="white"/>
     <path d="M70 45 Q80 35 90 45 Q95 55 90 65 Q80 75 70 65 Q65 55 70 45" stroke="#17a2b8" stroke-width="3" fill="none"/>
     <circle cx="75" cy="50" r="2" fill="#17a2b8"/>
@@ -47,14 +47,14 @@
     </text>
   </g>
   
-  <!-- Blockchain -->
+
   <g transform="translate(240, 80)">
     <rect x="0" y="0" width="160" height="100" fill="url(#futureGradient)" rx="15" filter="url(#shadow)"/>
     <text x="80" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
       BLOCKCHAIN
     </text>
     
-    <!-- Blockchain chain -->
+
     <rect x="50" y="40" width="20" height="15" fill="white" rx="3"/>
     <rect x="75" y="40" width="20" height="15" fill="white" rx="3"/>
     <rect x="100" y="40" width="20" height="15" fill="white" rx="3"/>
@@ -71,14 +71,14 @@
     </text>
   </g>
   
-  <!-- IoT Integration -->
+
   <g transform="translate(430, 80)">
     <rect x="0" y="0" width="160" height="100" fill="url(#aiGradient)" rx="15" filter="url(#shadow)"/>
     <text x="80" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
       IoT INTEGRASJON
     </text>
     
-    <!-- IoT devices -->
+
     <circle cx="60" cy="50" r="8" fill="white"/>
     <circle cx="80" cy="45" r="6" fill="white"/>
     <circle cx="100" cy="55" r="7" fill="white"/>
@@ -95,12 +95,12 @@
     </text>
   </g>
   
-  <!-- Future Workflow -->
+
   <text x="400" y="220" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#0066cc">
     Fremtidens Arbeidsflyt
   </text>
   
-  <!-- Step 1: Auto Capture -->
+
   <g transform="translate(80, 250)">
     <rect x="0" y="0" width="120" height="60" fill="url(#futureGradient)" rx="10" filter="url(#shadow)"/>
     <text x="60" y="20" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="white">
@@ -117,10 +117,10 @@
     </text>
   </g>
   
-  <!-- Arrow -->
+
   <path d="M210 280 L250 280" stroke="#6f42c1" stroke-width="3" fill="none" marker-end="url(#arrowheadPurple)"/>
   
-  <!-- Step 2: Smart Validation -->
+
   <g transform="translate(260, 250)">
     <rect x="0" y="0" width="120" height="60" fill="url(#aiGradient)" rx="10" filter="url(#shadow)"/>
     <text x="60" y="20" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="white">
@@ -137,10 +137,10 @@
     </text>
   </g>
   
-  <!-- Arrow -->
+
   <path d="M390 280 L430 280" stroke="#17a2b8" stroke-width="3" fill="none" marker-end="url(#arrowheadBlue)"/>
   
-  <!-- Step 3: Blockchain Record -->
+
   <g transform="translate(440, 250)">
     <rect x="0" y="0" width="120" height="60" fill="url(#futureGradient)" rx="10" filter="url(#shadow)"/>
     <text x="60" y="20" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="white">
@@ -157,14 +157,14 @@
     </text>
   </g>
   
-  <!-- Benefits -->
+
   <text x="400" y="350" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0066cc">
     Fremtidige Fordeler
   </text>
   
-  <!-- Benefit boxes -->
+
   <g transform="translate(50, 370)">
-    <!-- Zero Touch -->
+
     <rect x="0" y="0" width="140" height="80" fill="white" stroke="#6f42c1" stroke-width="2" rx="10" filter="url(#shadow)"/>
     <text x="70" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#6f42c1">
       ZERO-TOUCH
@@ -179,7 +179,7 @@
       Ingen manuell inngripen
     </text>
     
-    <!-- Real-time -->
+
     <rect x="160" y="0" width="140" height="80" fill="white" stroke="#17a2b8" stroke-width="2" rx="10" filter="url(#shadow)"/>
     <text x="230" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#17a2b8">
       SANNTIDS
@@ -194,7 +194,7 @@
       Kontinuerlig overvåking
     </text>
     
-    <!-- Predictive -->
+
     <rect x="320" y="0" width="140" height="80" fill="white" stroke="#28a745" stroke-width="2" rx="10" filter="url(#shadow)"/>
     <text x="390" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#28a745">
       PREDIKTIV
@@ -209,7 +209,7 @@
       Proaktiv handling
     </text>
     
-    <!-- Global -->
+
     <rect x="480" y="0" width="140" height="80" fill="white" stroke="#fd7e14" stroke-width="2" rx="10" filter="url(#shadow)"/>
     <text x="550" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#fd7e14">
       GLOBAL
@@ -225,12 +225,12 @@
     </text>
   </g>
   
-  <!-- Timeline -->
+
   <text x="400" y="480" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0066cc">
     Tidslinje: 2025-2030 • Gradvis implementering • Regulatorisk tilpasning
   </text>
   
-  <!-- Arrow marker definitions -->
+
   <defs>
     <marker id="arrowheadPurple" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#6f42c1"/>

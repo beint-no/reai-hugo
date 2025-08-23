@@ -10,93 +10,93 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#ffffff"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
     Hvem Får Organisasjonsnummer?
   </text>
   
-  <!-- Obligatory section -->
+
   <g transform="translate(50, 70)">
     <rect x="0" y="0" width="320" height="400" fill="#fef2f2" stroke="#fecaca" stroke-width="2" rx="10"/>
     
-    <!-- Header -->
+
     <rect x="10" y="10" width="300" height="50" fill="url(#obligatoryGradient)" rx="5"/>
     <text x="160" y="40" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
       OBLIGATORISK
     </text>
     
-    <!-- Content -->
+
     <text x="20" y="90" fill="#1f2937" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Må registreres:
     </text>
     
-    <!-- Obligatory entities -->
+
     <g transform="translate(20, 110)">
-      <!-- AS -->
+
       <circle cx="8" cy="8" r="4" fill="#dc2626"/>
       <text x="20" y="13" fill="#374151" font-family="Arial, sans-serif" font-size="12">
         Aksjeselskaper (AS)
       </text>
       
-      <!-- ASA -->
+
       <circle cx="8" cy="28" r="4" fill="#dc2626"/>
       <text x="20" y="33" fill="#374151" font-family="Arial, sans-serif" font-size="12">
         Allmennaksjeselskaper (ASA)
       </text>
       
-      <!-- ANS -->
+
       <circle cx="8" cy="48" r="4" fill="#dc2626"/>
       <text x="20" y="53" fill="#374151" font-family="Arial, sans-serif" font-size="12">
         Ansvarlige selskaper (ANS)
       </text>
       
-      <!-- KS -->
+
       <circle cx="8" cy="68" r="4" fill="#dc2626"/>
       <text x="20" y="73" fill="#374151" font-family="Arial, sans-serif" font-size="12">
         Kommandittselskaper (KS)
       </text>
       
-      <!-- Samvirke -->
+
       <circle cx="8" cy="88" r="4" fill="#dc2626"/>
       <text x="20" y="93" fill="#374151" font-family="Arial, sans-serif" font-size="12">
         Samvirkeforetak
       </text>
       
-      <!-- Stiftelser -->
+
       <circle cx="8" cy="108" r="4" fill="#dc2626"/>
       <text x="20" y="113" fill="#374151" font-family="Arial, sans-serif" font-size="12">
         Stiftelser og foreninger
       </text>
       
-      <!-- Offentlige -->
+
       <circle cx="8" cy="128" r="4" fill="#dc2626"/>
       <text x="20" y="133" fill="#374151" font-family="Arial, sans-serif" font-size="12">
         Offentlige virksomheter
       </text>
       
-      <!-- ENK over 50k -->
+
       <circle cx="8" cy="148" r="4" fill="#dc2626"/>
       <text x="20" y="153" fill="#374151" font-family="Arial, sans-serif" font-size="12">
         ENK med omsetning &gt; 50 000 kr
       </text>
       
-      <!-- With employees -->
+
       <circle cx="8" cy="168" r="4" fill="#dc2626"/>
       <text x="20" y="173" fill="#374151" font-family="Arial, sans-serif" font-size="12">
         Virksomheter med ansatte
       </text>
       
-      <!-- MVA liable -->
+
       <circle cx="8" cy="188" r="4" fill="#dc2626"/>
       <text x="20" y="193" fill="#374151" font-family="Arial, sans-serif" font-size="12">
         MVA-pliktige virksomheter
       </text>
     </g>
     
-    <!-- Requirements box -->
+
     <rect x="10" y="320" width="300" height="70" fill="#ffffff" stroke="#dc2626" stroke-width="1" rx="5"/>
     <text x="20" y="340" fill="#dc2626" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Automatisk tildeling ved:
@@ -112,61 +112,61 @@
     </text>
   </g>
   
-  <!-- Voluntary section -->
+
   <g transform="translate(430, 70)">
     <rect x="0" y="0" width="320" height="400" fill="#f0fdf4" stroke="#bbf7d0" stroke-width="2" rx="10"/>
     
-    <!-- Header -->
+
     <rect x="10" y="10" width="300" height="50" fill="url(#voluntaryGradient)" rx="5"/>
     <text x="160" y="40" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
       FRIVILLIG
     </text>
     
-    <!-- Content -->
+
     <text x="20" y="90" fill="#1f2937" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Kan registreres:
     </text>
     
-    <!-- Voluntary entities -->
+
     <g transform="translate(20, 110)">
-      <!-- Small ENK -->
+
       <circle cx="8" cy="8" r="4" fill="#059669"/>
       <text x="20" y="13" fill="#374151" font-family="Arial, sans-serif" font-size="12">
         ENK med omsetning &lt; 50 000 kr
       </text>
       
-      <!-- Small associations -->
+
       <circle cx="8" cy="28" r="4" fill="#059669"/>
       <text x="20" y="33" fill="#374151" font-family="Arial, sans-serif" font-size="12">
         Små foreninger uten øk. aktivitet
       </text>
       
-      <!-- Housing cooperatives -->
+
       <circle cx="8" cy="48" r="4" fill="#059669"/>
       <text x="20" y="53" fill="#374151" font-family="Arial, sans-serif" font-size="12">
         Borettslag og sameier
       </text>
       
-      <!-- Hobby organizations -->
+
       <circle cx="8" cy="68" r="4" fill="#059669"/>
       <text x="20" y="73" fill="#374151" font-family="Arial, sans-serif" font-size="12">
         Hobbyorganisasjoner
       </text>
       
-      <!-- Informal groups -->
+
       <circle cx="8" cy="88" r="4" fill="#059669"/>
       <text x="20" y="93" fill="#374151" font-family="Arial, sans-serif" font-size="12">
         Uformelle grupper
       </text>
       
-      <!-- Project organizations -->
+
       <circle cx="8" cy="108" r="4" fill="#059669"/>
       <text x="20" y="113" fill="#374151" font-family="Arial, sans-serif" font-size="12">
         Prosjektorganisasjoner
       </text>
     </g>
     
-    <!-- Benefits box -->
+
     <rect x="10" y="240" width="300" height="90" fill="#ffffff" stroke="#059669" stroke-width="1" rx="5"/>
     <text x="20" y="260" fill="#059669" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Fordeler ved registrering:
@@ -184,7 +184,7 @@
       • Lettere kontraktsinngåelse
     </text>
     
-    <!-- Process box -->
+
     <rect x="10" y="340" width="300" height="50" fill="#ffffff" stroke="#059669" stroke-width="1" rx="5"/>
     <text x="20" y="360" fill="#059669" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Søknadsprosess:

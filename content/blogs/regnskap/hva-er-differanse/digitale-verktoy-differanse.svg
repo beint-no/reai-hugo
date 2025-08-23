@@ -18,26 +18,26 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
   <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
     Digitale Verktøy for Differanseanalyse
   </text>
   
-  <!-- Main Content Area -->
+
   <g transform="translate(50, 80)">
     
-    <!-- Automated Reports Section -->
+
     <g transform="translate(0, 0)">
       <rect x="0" y="0" width="220" height="160" rx="10" fill="url(#automationGradient)" opacity="0.9"/>
       <text x="110" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
         Automatiserte Rapporter
       </text>
       
-      <!-- Robot/automation icon -->
+
       <g transform="translate(85, 35)">
         <rect x="10" y="5" width="30" height="35" rx="5" fill="white" opacity="0.8"/>
         <rect x="15" y="10" width="8" height="6" rx="2" fill="url(#automationGradient)"/>
@@ -49,7 +49,7 @@
         </text>
       </g>
       
-      <!-- Features -->
+
       <g transform="translate(15, 85)">
         <circle cx="8" cy="8" r="4" fill="white"/>
         <text x="20" y="12" font-family="Arial, sans-serif" font-size="11" fill="white">
@@ -68,14 +68,14 @@
       </g>
     </g>
     
-    <!-- Integration Section -->
+
     <g transform="translate(240, 0)">
       <rect x="0" y="0" width="220" height="160" rx="10" fill="url(#integrationGradient)" opacity="0.9"/>
       <text x="110" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
         Integrasjoner
       </text>
       
-      <!-- Network/connection icon -->
+
       <g transform="translate(85, 35)">
         <circle cx="15" cy="15" r="8" fill="white" opacity="0.8"/>
         <circle cx="35" cy="15" r="8" fill="white" opacity="0.8"/>
@@ -88,7 +88,7 @@
         </text>
       </g>
       
-      <!-- Integration types -->
+
       <g transform="translate(15, 85)">
         <circle cx="8" cy="8" r="4" fill="white"/>
         <text x="20" y="12" font-family="Arial, sans-serif" font-size="11" fill="white">
@@ -107,20 +107,20 @@
       </g>
     </g>
     
-    <!-- Analytics Section -->
+
     <g transform="translate(480, 0)">
       <rect x="0" y="0" width="220" height="160" rx="10" fill="url(#analyticsGradient)" opacity="0.9"/>
       <text x="110" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
         Avansert Analyse
       </text>
       
-      <!-- Analytics icon -->
+
       <g transform="translate(85, 35)">
         <rect x="0" y="30" width="50" height="2" fill="white"/>
         <rect x="0" y="30" width="2" height="-25" fill="white"/>
-        <!-- Trend line -->
+
         <path d="M 5 25 L 15 20 L 25 15 L 35 10 L 45 5" stroke="white" stroke-width="2" fill="none"/>
-        <!-- Data points -->
+
         <circle cx="5" cy="25" r="2" fill="white"/>
         <circle cx="15" cy="20" r="2" fill="white"/>
         <circle cx="25" cy="15" r="2" fill="white"/>
@@ -131,7 +131,7 @@
         </text>
       </g>
       
-      <!-- Analytics features -->
+
       <g transform="translate(15, 85)">
         <circle cx="8" cy="8" r="4" fill="white"/>
         <text x="20" y="12" font-family="Arial, sans-serif" font-size="11" fill="white">
@@ -150,14 +150,14 @@
       </g>
     </g>
     
-    <!-- Digital Workflow -->
+
     <g transform="translate(0, 180)">
       <rect x="0" y="0" width="700" height="200" rx="10" fill="#6c757d" opacity="0.9"/>
       <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
         Digital Arbeidsflyt for Differanseanalyse
       </text>
       
-      <!-- Step 1: Data Collection -->
+
       <g transform="translate(30, 50)">
         <rect x="0" y="0" width="120" height="120" rx="5" fill="white" opacity="0.1"/>
         <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
@@ -178,11 +178,11 @@
         </text>
       </g>
       
-      <!-- Arrow 1 -->
+
       <path d="M 160 110 L 185 110" stroke="white" stroke-width="2" fill="none"/>
       <polygon points="180,105 190,110 180,115" fill="white"/>
       
-      <!-- Step 2: Processing -->
+
       <g transform="translate(195, 50)">
         <rect x="0" y="0" width="120" height="120" rx="5" fill="white" opacity="0.1"/>
         <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
@@ -203,11 +203,11 @@
         </text>
       </g>
       
-      <!-- Arrow 2 -->
+
       <path d="M 325 110 L 350 110" stroke="white" stroke-width="2" fill="none"/>
       <polygon points="345,105 355,110 345,115" fill="white"/>
       
-      <!-- Step 3: Analysis -->
+
       <g transform="translate(360, 50)">
         <rect x="0" y="0" width="120" height="120" rx="5" fill="white" opacity="0.1"/>
         <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
@@ -228,11 +228,11 @@
         </text>
       </g>
       
-      <!-- Arrow 3 -->
+
       <path d="M 490 110 L 515 110" stroke="white" stroke-width="2" fill="none"/>
       <polygon points="510,105 520,110 510,115" fill="white"/>
       
-      <!-- Step 4: Reporting -->
+
       <g transform="translate(525, 50)">
         <rect x="0" y="0" width="120" height="120" rx="5" fill="white" opacity="0.1"/>
         <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
@@ -256,7 +256,7 @@
     
   </g>
   
-  <!-- Technology Stack -->
+
   <g transform="translate(50, 400)">
     <rect x="0" y="0" width="700" height="150" rx="10" fill="#e9ecef" stroke="#6c757d" stroke-width="2"/>
     <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#495057">
@@ -264,7 +264,7 @@
     </text>
     
     <g transform="translate(50, 40)">
-      <!-- Cloud Platform -->
+
       <g transform="translate(0, 0)">
         <rect x="0" y="0" width="150" height="80" rx="5" fill="white" stroke="#6c757d"/>
         <text x="75" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
@@ -281,7 +281,7 @@
         </text>
       </g>
       
-      <!-- AI/ML -->
+
       <g transform="translate(175, 0)">
         <rect x="0" y="0" width="150" height="80" rx="5" fill="white" stroke="#6c757d"/>
         <text x="75" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
@@ -298,7 +298,7 @@
         </text>
       </g>
       
-      <!-- Real-time Processing -->
+
       <g transform="translate(350, 0)">
         <rect x="0" y="0" width="150" height="80" rx="5" fill="white" stroke="#6c757d"/>
         <text x="75" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
@@ -315,7 +315,7 @@
         </text>
       </g>
       
-      <!-- Mobile Access -->
+
       <g transform="translate(525, 0)">
         <rect x="0" y="0" width="150" height="80" rx="5" fill="white" stroke="#6c757d"/>
         <text x="75" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">

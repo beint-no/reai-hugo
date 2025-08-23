@@ -10,13 +10,13 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="600" height="400" fill="url(#bgGradient)"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="600" height="80" fill="url(#headerGradient)"/>
   
-  <!-- Title -->
+
   <text x="300" y="30" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="white">
     Konto 1070
   </text>
@@ -24,11 +24,11 @@
     Utsatt skattfordel
   </text>
   
-  <!-- Main content area -->
+
   <rect x="50" y="100" width="500" height="250" fill="white" stroke="#dee2e6" stroke-width="2" rx="8"/>
   
-  <!-- Icons and sections -->
-  <!-- Left side - Current situation -->
+
+
   <circle cx="150" cy="150" r="40" fill="#e3f2fd" stroke="#2196f3" stroke-width="3"/>
   <text x="150" y="140" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#1976d2">
     I DAG
@@ -40,7 +40,7 @@
     mye skatt
   </text>
   
-  <!-- Arrow -->
+
   <path d="M 200 150 L 240 150" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
@@ -48,7 +48,7 @@
     </marker>
   </defs>
   
-  <!-- Right side - Future benefit -->
+
   <circle cx="450" cy="150" r="40" fill="#e8f5e8" stroke="#4caf50" stroke-width="3"/>
   <text x="450" y="140" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#2e7d32">
     FREMTID
@@ -60,7 +60,7 @@
     skatt
   </text>
   
-  <!-- Key principles boxes -->
+
   <rect x="80" y="220" width="140" height="80" fill="#fff3e0" stroke="#ff9800" stroke-width="2" rx="4"/>
   <text x="150" y="240" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#e65100">
     Midlertidige
@@ -103,7 +103,7 @@
     balansen
   </text>
   
-  <!-- Footer -->
+
   <text x="300" y="380" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666">
     Utsatt skattfordel = Fremtidige skattebesparelser fra midlertidige forskjeller
   </text>

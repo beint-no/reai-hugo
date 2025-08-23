@@ -18,10 +18,10 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
   <text x="400" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
     Global Skattekoordinering
@@ -30,7 +30,7 @@
     Internasjonale initiativ for harmonisering av skattesystemer
   </text>
   
-  <!-- Central coordination circle -->
+
   <circle cx="400" cy="300" r="80" fill="url(#coordinationGradient)" opacity="0.9"/>
   <text x="400" y="285" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Global Tax
@@ -42,7 +42,7 @@
     Framework
   </text>
   
-  <!-- OECD Pillar 1 -->
+
   <rect x="50" y="150" width="160" height="100" rx="10" fill="url(#pillarGradient)" opacity="0.8"/>
   <text x="130" y="180" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     OECD Pillar 1
@@ -54,7 +54,7 @@
     Digital Services Tax
   </text>
   
-  <!-- OECD Pillar 2 -->
+
   <rect x="590" y="150" width="160" height="100" rx="10" fill="url(#pillarGradient)" opacity="0.8"/>
   <text x="670" y="180" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     OECD Pillar 2
@@ -66,7 +66,7 @@
     15% Base Rate
   </text>
   
-  <!-- EU Harmonization -->
+
   <rect x="50" y="450" width="160" height="100" rx="10" fill="#1e40af" opacity="0.8"/>
   <text x="130" y="480" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     EU Harmonisering
@@ -78,7 +78,7 @@
     Coordinated Rates
   </text>
   
-  <!-- Bilateral Agreements -->
+
   <rect x="590" y="450" width="160" height="100" rx="10" fill="#dc2626" opacity="0.8"/>
   <text x="670" y="480" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Bilaterale Avtaler
@@ -90,7 +90,7 @@
     Double Tax Relief
   </text>
   
-  <!-- Key Components -->
+
   <rect x="280" y="110" width="240" height="80" rx="8" fill="white" stroke="#e2e8f0" stroke-width="2"/>
   <text x="400" y="135" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Sentrale Komponenter
@@ -102,7 +102,7 @@
     • Standardiserte beregningsmetoder
   </text>
   
-  <!-- Implementation Timeline -->
+
   <rect x="280" y="410" width="240" height="80" rx="8" fill="white" stroke="#e2e8f0" stroke-width="2"/>
   <text x="400" y="435" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Implementeringstidslinje
@@ -114,24 +114,24 @@
     Global standardisering: 2028-2032 (40%)
   </text>
   
-  <!-- Connection lines -->
+
   <line x1="210" y1="200" x2="320" y2="250" stroke="#64748b" stroke-width="2" opacity="0.6"/>
   <line x1="590" y1="200" x2="480" y2="250" stroke="#64748b" stroke-width="2" opacity="0.6"/>
   <line x1="210" y1="500" x2="320" y2="350" stroke="#64748b" stroke-width="2" opacity="0.6"/>
   <line x1="590" y1="500" x2="480" y2="350" stroke="#64748b" stroke-width="2" opacity="0.6"/>
   
-  <!-- Arrow indicators -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#64748b"/>
     </marker>
   </defs>
   
-  <!-- Information exchange arrows -->
+
   <path d="M 130 270 Q 200 300 280 300" stroke="#7c3aed" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 670 270 Q 600 300 520 300" stroke="#7c3aed" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Bottom note -->
+
   <text x="400" y="580" text-anchor="middle" fill="#64748b" font-family="Arial, sans-serif" font-size="12" font-style="italic">
     Multilateral koordinering av skjermingsrente-systemer og automatisk informasjonsutveksling
   </text>

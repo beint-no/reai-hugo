@@ -1,11 +1,11 @@
 <svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" font-family="Arial, sans-serif" font-size="26" font-weight="bold" text-anchor="middle" fill="#2c3e50">Prosess for Dekningsgradsanalyse</text>
   
-  <!-- Step 1: Data Collection -->
+
   <g transform="translate(50, 80)">
     <circle cx="60" cy="60" r="40" fill="#3498db" stroke="#2980b9" stroke-width="3"/>
     <text x="60" y="50" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">1</text>
@@ -18,7 +18,7 @@
     <text x="130" y="90" font-family="Arial, sans-serif" font-size="12" fill="#34495e">• Noter til regnskapet</text>
   </g>
   
-  <!-- Step 2: Calculate Ratios -->
+
   <g transform="translate(450, 80)">
     <circle cx="60" cy="60" r="40" fill="#27ae60" stroke="#229954" stroke-width="3"/>
     <text x="60" y="50" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">2</text>
@@ -31,7 +31,7 @@
     <text x="130" y="90" font-family="Arial, sans-serif" font-size="12" fill="#34495e">• Likviditetsgrader</text>
   </g>
   
-  <!-- Step 3: Historical Comparison -->
+
   <g transform="translate(50, 220)">
     <circle cx="60" cy="60" r="40" fill="#e74c3c" stroke="#c0392b" stroke-width="3"/>
     <text x="60" y="50" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">3</text>
@@ -44,7 +44,7 @@
     <text x="130" y="90" font-family="Arial, sans-serif" font-size="12" fill="#34495e">• Analyser endringer</text>
   </g>
   
-  <!-- Step 4: Industry Benchmarking -->
+
   <g transform="translate(450, 220)">
     <circle cx="60" cy="60" r="40" fill="#f39c12" stroke="#e67e22" stroke-width="3"/>
     <text x="60" y="50" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">4</text>
@@ -57,7 +57,7 @@
     <text x="130" y="90" font-family="Arial, sans-serif" font-size="12" fill="#34495e">• Identifiser avvik</text>
   </g>
   
-  <!-- Step 5: Analysis and Interpretation -->
+
   <g transform="translate(250, 360)">
     <circle cx="60" cy="60" r="40" fill="#9b59b6" stroke="#8e44ad" stroke-width="3"/>
     <text x="60" y="50" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">5</text>
@@ -70,29 +70,29 @@
     <text x="130" y="90" font-family="Arial, sans-serif" font-size="12" fill="#34495e">• Foreslå tiltak</text>
   </g>
   
-  <!-- Arrows connecting steps -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>
     </marker>
   </defs>
   
-  <!-- Arrow 1 to 2 -->
+
   <path d="M 370 140 Q 400 140 430 140" stroke="#34495e" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow 2 to 3 -->
+
   <path d="M 510 180 Q 510 200 370 280" stroke="#34495e" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow 3 to 4 -->
+
   <path d="M 370 280 Q 400 280 430 280" stroke="#34495e" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow 4 to 5 -->
+
   <path d="M 510 320 Q 510 340 370 420" stroke="#34495e" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow 1 to 5 (alternative path) -->
+
   <path d="M 110 180 Q 110 270 250 420" stroke="#95a5a6" stroke-width="1" stroke-dasharray="5,5" fill="none"/>
   
-  <!-- Key insights box -->
+
   <g transform="translate(50, 500)">
     <rect x="0" y="0" width="700" height="80" fill="#ffffff" stroke="#3498db" stroke-width="2" rx="10"/>
     <text x="350" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#2c3e50">Viktige Prinsipper for Analyse</text>

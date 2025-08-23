@@ -1,15 +1,15 @@
 <svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Skatteposisjonering-prosess
   </text>
   
-  <!-- Main Process Flow -->
+
   
-  <!-- Step 1: Identifikasjon -->
+
   <g>
     <rect x="50" y="80" width="150" height="80" rx="10" fill="#3498db" stroke="#2980b9" stroke-width="2"/>
     <text x="125" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -23,10 +23,10 @@
     </text>
   </g>
   
-  <!-- Arrow 1 -->
+
   <path d="M 200 120 L 230 120" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 2: Risiko-kategorisering -->
+
   <g>
     <rect x="250" y="80" width="150" height="80" rx="10" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
     <text x="325" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -40,10 +40,10 @@
       Lav (&lt;20%)</text>
   </g>
   
-  <!-- Arrow 2 -->
+
   <path d="M 400 120 L 430 120" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 3: Dokumentasjon -->
+
   <g>
     <rect x="450" y="80" width="150" height="80" rx="10" fill="#f39c12" stroke="#e67e22" stroke-width="2"/>
     <text x="525" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -57,10 +57,10 @@
     </text>
   </g>
   
-  <!-- Arrow 3 -->
+
   <path d="M 600 120 L 630 120" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 4: Regnskapsmessig behandling -->
+
   <g>
     <rect x="650" y="80" width="120" height="80" rx="10" fill="#27ae60" stroke="#229954" stroke-width="2"/>
     <text x="710" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -77,7 +77,7 @@
     </text>
   </g>
   
-  <!-- Juridisk analyse section -->
+
   <g>
     <rect x="50" y="200" width="350" height="160" rx="10" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2"/>
     <text x="225" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
@@ -105,7 +105,7 @@
     </text>
   </g>
   
-  <!-- Faktisk dokumentasjon section -->
+
   <g>
     <rect x="420" y="200" width="350" height="160" rx="10" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2"/>
     <text x="595" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
@@ -133,7 +133,7 @@
     </text>
   </g>
   
-  <!-- Result section -->
+
   <g>
     <rect x="150" y="400" width="500" height="120" rx="10" fill="#f8f9fa" stroke="#95a5a6" stroke-width="2"/>
     <text x="400" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
@@ -165,12 +165,12 @@
     </text>
   </g>
   
-  <!-- Footer note -->
+
   <text x="400" y="570" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">
     Systematisk tilnærming til dokumentasjon av usikre skatteposisjoner
   </text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#2c3e50"/>

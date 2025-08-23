@@ -10,55 +10,55 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="400" fill="url(#bgGradient)"/>
   
-  <!-- Main Title -->
+
   <text x="400" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#2c3e50">Hva er Provisjon?</text>
   
-  <!-- Commission calculation illustration -->
+
   <g transform="translate(50, 100)">
-    <!-- Sales figure -->
+
     <circle cx="100" cy="80" r="60" fill="#3498db" stroke="#2980b9" stroke-width="3"/>
     <text x="100" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">SALG</text>
     <text x="100" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">100.000 kr</text>
     
-    <!-- Arrow -->
+
     <path d="M 170 80 L 220 80" stroke="#34495e" stroke-width="3" marker-end="url(#arrowhead)"/>
     <text x="195" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#34495e">3% provisjon</text>
     
-    <!-- Commission result -->
+
     <circle cx="280" cy="80" r="60" fill="#27ae60" stroke="#229954" stroke-width="3"/>
     <text x="280" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">PROVISJON</text>
     <text x="280" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">3.000 kr</text>
   </g>
   
-  <!-- Commission types -->
+
   <g transform="translate(450, 120)">
     <rect x="0" y="0" width="300" height="200" rx="10" fill="url(#cardGradient)" stroke="#bdc3c7" stroke-width="2"/>
     <text x="150" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">Provisjonstyper</text>
     
-    <!-- Type 1 -->
+
     <circle cx="30" cy="60" r="8" fill="#e74c3c"/>
     <text x="50" y="65" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Ren provisjon</text>
     
-    <!-- Type 2 -->
+
     <circle cx="30" cy="90" r="8" fill="#f39c12"/>
     <text x="50" y="95" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Fastlønn + provisjon</text>
     
-    <!-- Type 3 -->
+
     <circle cx="30" cy="120" r="8" fill="#9b59b6"/>
     <text x="50" y="125" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Trappeprovisjoner</text>
     
-    <!-- Type 4 -->
+
     <circle cx="30" cy="150" r="8" fill="#1abc9c"/>
     <text x="50" y="155" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Team-provisjoner</text>
   </g>
   
-  <!-- Bottom text -->
+
   <text x="400" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#7f8c8d">Prestasjonsbasert lønn som motiverer til resultater</text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>

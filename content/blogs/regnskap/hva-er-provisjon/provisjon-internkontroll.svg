@@ -1,13 +1,13 @@
 <svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="400" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c3e50">Internkontroll for Provisjonssystemer</text>
   
-  <!-- Control framework -->
+
   <g transform="translate(50, 60)">
-    <!-- Monthly Controls -->
+
     <rect x="0" y="0" width="220" height="100" rx="8" fill="#3498db" stroke="#2980b9" stroke-width="2"/>
     <text x="110" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">MÅNEDLIGE KONTROLLER</text>
     
@@ -17,7 +17,7 @@
     <text x="15" y="82" font-family="Arial, sans-serif" font-size="10" fill="white">• Godkjenning av utbetalinger</text>
   </g>
   
-  <!-- Segregation of duties -->
+
   <g transform="translate(290, 60)">
     <rect x="0" y="0" width="220" height="100" rx="8" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
     <text x="110" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">OPPGAVEDELING</text>
@@ -28,7 +28,7 @@
     <text x="15" y="82" font-family="Arial, sans-serif" font-size="10" fill="white">• Management: Godkjenning</text>
   </g>
   
-  <!-- Documentation -->
+
   <g transform="translate(530, 60)">
     <rect x="0" y="0" width="220" height="100" rx="8" fill="#27ae60" stroke="#229954" stroke-width="2"/>
     <text x="110" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">DOKUMENTASJON</text>
@@ -39,12 +39,12 @@
     <text x="15" y="82" font-family="Arial, sans-serif" font-size="10" fill="white">• Audit trail</text>
   </g>
   
-  <!-- Risk areas -->
+
   <g transform="translate(50, 190)">
     <text x="0" y="0" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">Risikoområder</text>
     
     <g transform="translate(0, 20)">
-      <!-- Risk 1 -->
+
       <rect x="0" y="0" width="150" height="80" rx="5" fill="#fff3cd" stroke="#ffc107"/>
       <text x="75" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2c3e50">BEREGNINGSFEIL</text>
       <text x="10" y="30" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Feil satser anvendt</text>
@@ -52,7 +52,7 @@
       <text x="10" y="56" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Systemintegrasjonsfeil</text>
       <text x="10" y="69" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Timing-forskjeller</text>
       
-      <!-- Risk 2 -->
+
       <rect x="170" y="0" width="150" height="80" rx="5" fill="#f8d7da" stroke="#dc3545"/>
       <text x="245" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2c3e50">REGELVERKSFEIL</text>
       <text x="180" y="30" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Manglende oppdatering</text>
@@ -60,7 +60,7 @@
       <text x="180" y="56" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Non-compliance</text>
       <text x="180" y="69" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Avtalebrudd</text>
       
-      <!-- Risk 3 -->
+
       <rect x="340" y="0" width="150" height="80" rx="5" fill="#d1ecf1" stroke="#17a2b8"/>
       <text x="415" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2c3e50">DATAINTEGRASJON</text>
       <text x="350" y="30" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• System disconnects</text>
@@ -68,7 +68,7 @@
       <text x="350" y="56" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Missing transactions</text>
       <text x="350" y="69" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Duplicate entries</text>
       
-      <!-- Risk 4 -->
+
       <rect x="510" y="0" width="150" height="80" rx="5" fill="#e2e3e5" stroke="#6c757d"/>
       <text x="585" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2c3e50">TILGANGSRISIKO</text>
       <text x="520" y="30" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Uautoriserte endringer</text>
@@ -78,7 +78,7 @@
     </g>
   </g>
   
-  <!-- Control measures -->
+
   <g transform="translate(50, 310)">
     <rect x="0" y="0" width="700" height="70" rx="8" fill="#1abc9c" stroke="#16a085" stroke-width="2"/>
     <text x="350" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Kontrolltiltak og Beste Praksis</text>

@@ -18,19 +18,19 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="700" height="500" fill="url(#bgGradient)" stroke="#cbd5e1" stroke-width="1"/>
   
-  <!-- Title -->
+
   <text x="350" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1e293b">
     Tre Typer Kontantstrøm
   </text>
   
-  <!-- Drift (Operating) -->
+
   <g>
     <rect x="50" y="80" width="180" height="350" rx="10" fill="url(#driftGradient)" stroke="#059669" stroke-width="2"/>
     
-    <!-- Header -->
+
     <text x="140" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
       1. DRIFT
     </text>
@@ -38,7 +38,7 @@
       (Operasjonelle aktiviteter)
     </text>
     
-    <!-- Innstrøm section -->
+
     <rect x="60" y="150" width="160" height="80" rx="5" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.3)" stroke-width="1"/>
     <text x="140" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
       INNSTRØM (+)
@@ -53,7 +53,7 @@
       • Renter mottatt
     </text>
     
-    <!-- Utstrøm section -->
+
     <rect x="60" y="250" width="160" height="100" rx="5" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.3)" stroke-width="1"/>
     <text x="140" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
       UTSTRØM (-)
@@ -71,7 +71,7 @@
       • Renter betalt
     </text>
     
-    <!-- Key indicator -->
+
     <rect x="60" y="370" width="160" height="40" rx="5" fill="rgba(255,255,255,0.3)" stroke="rgba(255,255,255,0.4)" stroke-width="1"/>
     <text x="140" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
       VIKTIGSTE INDIKATOR
@@ -81,11 +81,11 @@
     </text>
   </g>
   
-  <!-- Investering -->
+
   <g>
     <rect x="260" y="80" width="180" height="350" rx="10" fill="url(#investeringGradient)" stroke="#2563eb" stroke-width="2"/>
     
-    <!-- Header -->
+
     <text x="350" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
       2. INVESTERING
     </text>
@@ -93,7 +93,7 @@
       (Investeringsaktiviteter)
     </text>
     
-    <!-- Innstrøm section -->
+
     <rect x="270" y="150" width="160" height="80" rx="5" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.3)" stroke-width="1"/>
     <text x="350" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
       INNSTRØM (+)
@@ -108,7 +108,7 @@
       • Innbetaling av lån
     </text>
     
-    <!-- Utstrøm section -->
+
     <rect x="270" y="250" width="160" height="100" rx="5" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.3)" stroke-width="1"/>
     <text x="350" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
       UTSTRØM (-)
@@ -126,7 +126,7 @@
       • Kjøp av programvare
     </text>
     
-    <!-- Key indicator -->
+
     <rect x="270" y="370" width="160" height="40" rx="5" fill="rgba(255,255,255,0.3)" stroke="rgba(255,255,255,0.4)" stroke-width="1"/>
     <text x="350" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
       VEKST &amp; UTVIKLING
@@ -136,11 +136,11 @@
     </text>
   </g>
   
-  <!-- Finansiering -->
+
   <g>
     <rect x="470" y="80" width="180" height="350" rx="10" fill="url(#finansieringGradient)" stroke="#dc2626" stroke-width="2"/>
     
-    <!-- Header -->
+
     <text x="560" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
       3. FINANSIERING
     </text>
@@ -148,7 +148,7 @@
       (Finansieringsaktiviteter)
     </text>
     
-    <!-- Innstrøm section -->
+
     <rect x="480" y="150" width="160" height="80" rx="5" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.3)" stroke-width="1"/>
     <text x="560" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
       INNSTRØM (+)
@@ -163,7 +163,7 @@
       • Aksjonærlån
     </text>
     
-    <!-- Utstrøm section -->
+
     <rect x="480" y="250" width="160" height="100" rx="5" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.3)" stroke-width="1"/>
     <text x="560" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
       UTSTRØM (-)
@@ -181,7 +181,7 @@
       • Nedbetaling kreditt
     </text>
     
-    <!-- Key indicator -->
+
     <rect x="480" y="370" width="160" height="40" rx="5" fill="rgba(255,255,255,0.3)" stroke="rgba(255,255,255,0.4)" stroke-width="1"/>
     <text x="560" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
       KAPITALSTRUKTUR
@@ -191,7 +191,7 @@
     </text>
   </g>
   
-  <!-- Bottom summary -->
+
   <rect x="50" y="450" width="600" height="40" rx="5" fill="rgba(30, 41, 59, 0.1)" stroke="#64748b" stroke-width="1"/>
   <text x="350" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">
     Sum av alle tre = Netto endring i kontantbeholdning

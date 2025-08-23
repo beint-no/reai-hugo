@@ -12,12 +12,12 @@
   
   <rect width="800" height="500" fill="#f8fafc"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e40af">
     Organisasjonsnummer vs. Virksomhetsnummer
   </text>
   
-  <!-- Left side: Organisasjonsnummer -->
+
   <rect x="50" y="80" width="320" height="180" fill="url(#orgGrad)" rx="10"/>
   <text x="210" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
     Organisasjonsnummer
@@ -46,7 +46,7 @@
     • Formell identifikasjon av selskapet
   </text>
   
-  <!-- Right side: Virksomhetsnummer -->
+
   <rect x="430" y="80" width="320" height="180" fill="url(#virkGrad)" rx="10"/>
   <text x="590" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
     Virksomhetsnummer
@@ -75,14 +75,14 @@
     • Operasjonell virksomhetsidentifikasjon
   </text>
   
-  <!-- Comparison table -->
+
   <rect x="50" y="280" width="700" height="180" fill="white" stroke="#cbd5e1" stroke-width="2" rx="10"/>
   
   <text x="400" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1e40af">
     Praktisk Sammenligning
   </text>
   
-  <!-- Table headers -->
+
   <rect x="70" y="325" width="200" height="30" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1"/>
   <text x="170" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#374151">
     Aspekt
@@ -98,7 +98,7 @@
     Virksomhetsnummer
   </text>
   
-  <!-- Row 1: Små bedrifter -->
+
   <rect x="70" y="355" width="200" height="25" stroke="#cbd5e1" stroke-width="1" fill="white"/>
   <text x="80" y="373" font-family="Arial, sans-serif" font-size="12" fill="#374151">
     Små/mellomstore bedrifter
@@ -114,7 +114,7 @@
     123 456 789 (Identisk)
   </text>
   
-  <!-- Row 2: Store konsern -->
+
   <rect x="70" y="380" width="200" height="25" stroke="#cbd5e1" stroke-width="1" fill="white"/>
   <text x="80" y="398" font-family="Arial, sans-serif" font-size="12" fill="#374151">
     Store konsern/morselskap
@@ -130,7 +130,7 @@
     Flere nummer (per divisjon)
   </text>
   
-  <!-- Row 3: Fakturaer -->
+
   <rect x="70" y="405" width="200" height="25" stroke="#cbd5e1" stroke-width="1" fill="white"/>
   <text x="80" y="423" font-family="Arial, sans-serif" font-size="12" fill="#374151">
     På fakturaer/tilbud
@@ -146,7 +146,7 @@
     Anbefalt/Standard
   </text>
   
-  <!-- Row 4: Regnskapsføring -->
+
   <rect x="70" y="430" width="200" height="25" stroke="#cbd5e1" stroke-width="1" fill="white"/>
   <text x="80" y="448" font-family="Arial, sans-serif" font-size="12" fill="#374151">
     Daglig regnskapsføring
@@ -162,7 +162,7 @@
     Primær identifikator
   </text>
   
-  <!-- Bottom note -->
+
   <text x="400" y="485" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e40af">
     For de fleste norske bedrifter er organisasjonsnummer og virksomhetsnummer identiske
   </text>

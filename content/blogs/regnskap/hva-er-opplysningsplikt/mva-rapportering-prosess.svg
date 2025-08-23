@@ -12,15 +12,15 @@
     </marker>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)" />
   
-  <!-- Title -->
+
   <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#2d3748">
     MVA Rapportering Prosess
   </text>
   
-  <!-- Step 1: Business transactions -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="140" height="80" fill="#ffffff" stroke="#00aa44" stroke-width="2" rx="10" filter="url(#shadow)"/>
     <text x="70" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#00aa44">
@@ -34,7 +34,7 @@
     </text>
   </g>
   
-  <!-- Step 2: Recording -->
+
   <g transform="translate(250, 80)">
     <rect x="0" y="0" width="140" height="80" fill="#ffffff" stroke="#0066cc" stroke-width="2" rx="10" filter="url(#shadow)"/>
     <text x="70" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0066cc">
@@ -48,7 +48,7 @@
     </text>
   </g>
   
-  <!-- Step 3: Calculation -->
+
   <g transform="translate(450, 80)">
     <rect x="0" y="0" width="140" height="80" fill="#ffffff" stroke="#cc6600" stroke-width="2" rx="10" filter="url(#shadow)"/>
     <text x="70" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#cc6600">
@@ -62,7 +62,7 @@
     </text>
   </g>
   
-  <!-- Step 4: Reporting -->
+
   <g transform="translate(610, 80)">
     <rect x="0" y="0" width="140" height="80" fill="#ffffff" stroke="#9900cc" stroke-width="2" rx="10" filter="url(#shadow)"/>
     <text x="70" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#9900cc">
@@ -76,19 +76,19 @@
     </text>
   </g>
   
-  <!-- Arrows between steps -->
+
   <g stroke="#333333" stroke-width="2" fill="none" marker-end="url(#arrowhead)">
     <line x1="190" y1="120" x2="250" y2="120" />
     <line x1="390" y1="120" x2="450" y2="120" />
     <line x1="590" y1="120" x2="610" y2="120" />
   </g>
   
-  <!-- Detailed breakdown -->
+
   <text x="400" y="220" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#2d3748">
     Detaljert MVA-beregning
   </text>
   
-  <!-- Outgoing MVA -->
+
   <g transform="translate(100, 250)">
     <rect x="0" y="0" width="200" height="100" fill="#e6f7ff" stroke="#0066cc" stroke-width="2" rx="10" filter="url(#shadow)"/>
     <text x="100" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0066cc">
@@ -108,12 +108,12 @@
     </text>
   </g>
   
-  <!-- Minus sign -->
+
   <text x="350" y="310" font-family="Arial, sans-serif" font-size="36" font-weight="bold" text-anchor="middle" fill="#333333">
     -
   </text>
   
-  <!-- Incoming MVA -->
+
   <g transform="translate(400, 250)">
     <rect x="0" y="0" width="200" height="100" fill="#fff2e6" stroke="#cc6600" stroke-width="2" rx="10" filter="url(#shadow)"/>
     <text x="100" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#cc6600">
@@ -133,12 +133,12 @@
     </text>
   </g>
   
-  <!-- Equals sign -->
+
   <text x="400" y="390" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#333333">
     =
   </text>
   
-  <!-- Result -->
+
   <g transform="translate(300, 400)">
     <rect x="0" y="0" width="200" height="60" fill="#f0fff0" stroke="#00aa44" stroke-width="3" rx="10" filter="url(#shadow)"/>
     <text x="100" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#00aa44">
@@ -149,7 +149,7 @@
     </text>
   </g>
   
-  <!-- Timeline at bottom -->
+
   <g transform="translate(50, 480)">
     <text x="0" y="0" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#666666">
       Frister: 

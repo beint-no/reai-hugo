@@ -14,27 +14,27 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" fill="#333">
     Internregnskap vs Eksternregnskap
   </text>
   
-  <!-- Left side - Internregnskap -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="320" height="480" fill="url(#internGradient)" stroke="#0066cc" stroke-width="3" rx="10"/>
     
-    <!-- Header -->
+
     <rect x="10" y="10" width="300" height="60" fill="#0066cc" rx="5"/>
     <text x="160" y="45" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="white">
       INTERNREGNSKAP
     </text>
     
-    <!-- Content sections -->
+
     <g transform="translate(20, 90)">
-      <!-- Brukere -->
+
       <rect x="0" y="0" width="280" height="50" fill="white" stroke="#0066cc" stroke-width="1" rx="5"/>
       <text x="10" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0066cc">
         Brukere:
@@ -43,7 +43,7 @@
         Ledelse, avdelingsledere, budsjettansvarlige
       </text>
       
-      <!-- Formål -->
+
       <rect x="0" y="60" width="280" height="50" fill="white" stroke="#0066cc" stroke-width="1" rx="5"/>
       <text x="10" y="80" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0066cc">
         Formål:
@@ -52,7 +52,7 @@
         Styring, planlegging og kontroll
       </text>
       
-      <!-- Regulering -->
+
       <rect x="0" y="120" width="280" height="50" fill="white" stroke="#0066cc" stroke-width="1" rx="5"/>
       <text x="10" y="140" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0066cc">
         Regulering:
@@ -61,7 +61,7 @@
         Ingen eksterne krav - fleksibelt
       </text>
       
-      <!-- Tidsperspektiv -->
+
       <rect x="0" y="180" width="280" height="50" fill="white" stroke="#0066cc" stroke-width="1" rx="5"/>
       <text x="10" y="200" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0066cc">
         Tidsperspektiv:
@@ -70,7 +70,7 @@
         Fremtidsrettet - budsjetter og prognoser
       </text>
       
-      <!-- Rapportering -->
+
       <rect x="0" y="240" width="280" height="50" fill="white" stroke="#0066cc" stroke-width="1" rx="5"/>
       <text x="10" y="260" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0066cc">
         Rapportering:
@@ -79,7 +79,7 @@
         Kontinuerlig - daglig/ukentlig/månedlig
       </text>
       
-      <!-- Detaljnivå -->
+
       <rect x="0" y="300" width="280" height="50" fill="white" stroke="#0066cc" stroke-width="1" rx="5"/>
       <text x="10" y="320" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0066cc">
         Detaljnivå:
@@ -88,7 +88,7 @@
         Svært detaljert - operasjonelle data
       </text>
       
-      <!-- Eksempler -->
+
       <rect x="0" y="360" width="280" height="50" fill="#e3f2fd" stroke="#0066cc" stroke-width="1" rx="5"/>
       <text x="10" y="380" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0066cc">
         Eksempler:
@@ -99,19 +99,19 @@
     </g>
   </g>
   
-  <!-- Right side - Eksternregnskap -->
+
   <g transform="translate(430, 80)">
     <rect x="0" y="0" width="320" height="480" fill="url(#eksternGradient)" stroke="#28a745" stroke-width="3" rx="10"/>
     
-    <!-- Header -->
+
     <rect x="10" y="10" width="300" height="60" fill="#28a745" rx="5"/>
     <text x="160" y="45" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="white">
       EKSTERNREGNSKAP
     </text>
     
-    <!-- Content sections -->
+
     <g transform="translate(20, 90)">
-      <!-- Brukere -->
+
       <rect x="0" y="0" width="280" height="50" fill="white" stroke="#28a745" stroke-width="1" rx="5"/>
       <text x="10" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#28a745">
         Brukere:
@@ -120,7 +120,7 @@
         Investorer, kreditorer, myndigheter
       </text>
       
-      <!-- Formål -->
+
       <rect x="0" y="60" width="280" height="50" fill="white" stroke="#28a745" stroke-width="1" rx="5"/>
       <text x="10" y="80" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#28a745">
         Formål:
@@ -129,7 +129,7 @@
         Rapportering og ansvarlighet
       </text>
       
-      <!-- Regulering -->
+
       <rect x="0" y="120" width="280" height="50" fill="white" stroke="#28a745" stroke-width="1" rx="5"/>
       <text x="10" y="140" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#28a745">
         Regulering:
@@ -138,7 +138,7 @@
         Strenge lovkrav og standarder (IFRS/GRS)
       </text>
       
-      <!-- Tidsperspektiv -->
+
       <rect x="0" y="180" width="280" height="50" fill="white" stroke="#28a745" stroke-width="1" rx="5"/>
       <text x="10" y="200" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#28a745">
         Tidsperspektiv:
@@ -147,7 +147,7 @@
         Historisk - faktiske transaksjoner
       </text>
       
-      <!-- Rapportering -->
+
       <rect x="0" y="240" width="280" height="50" fill="white" stroke="#28a745" stroke-width="1" rx="5"/>
       <text x="10" y="260" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#28a745">
         Rapportering:
@@ -156,7 +156,7 @@
         Periodisk - kvartalsvis/årlig
       </text>
       
-      <!-- Detaljnivå -->
+
       <rect x="0" y="300" width="280" height="50" fill="white" stroke="#28a745" stroke-width="1" rx="5"/>
       <text x="10" y="320" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#28a745">
         Detaljnivå:
@@ -165,7 +165,7 @@
         Aggregert - sammendrag av data
       </text>
       
-      <!-- Eksempler -->
+
       <rect x="0" y="360" width="280" height="50" fill="#d4edda" stroke="#28a745" stroke-width="1" rx="5"/>
       <text x="10" y="380" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#28a745">
         Eksempler:
@@ -176,7 +176,7 @@
     </g>
   </g>
   
-  <!-- Connecting arrow -->
+
   <g transform="translate(400, 320)">
     <circle cx="0" cy="0" r="30" fill="white" stroke="#6c757d" stroke-width="2"/>
     <text x="0" y="-5" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#6c757d">

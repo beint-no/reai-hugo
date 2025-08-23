@@ -10,18 +10,18 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="400" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
   
-  <!-- Main Title -->
+
   <text x="400" y="50" font-family="Arial, sans-serif" font-size="36" font-weight="bold" text-anchor="middle" fill="white">
     Hva er Kontering?
   </text>
   
-  <!-- Document Icon -->
+
   <rect x="100" y="120" width="120" height="160" fill="#ffffff" stroke="#6c757d" stroke-width="2" rx="8"/>
   <rect x="110" y="140" width="100" height="4" fill="#0066cc"/>
   <rect x="110" y="160" width="80" height="4" fill="#6c757d"/>
@@ -30,7 +30,7 @@
   <rect x="110" y="220" width="85" height="4" fill="#6c757d"/>
   <rect x="110" y="240" width="75" height="4" fill="#6c757d"/>
   
-  <!-- Arrow -->
+
   <path d="M 240 200 L 320 200" stroke="#0066cc" stroke-width="4" fill="none" marker-end="url(#arrowhead)"/>
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
@@ -38,13 +38,13 @@
     </marker>
   </defs>
   
-  <!-- Account Numbers -->
+
   <rect x="360" y="120" width="320" height="160" fill="#ffffff" stroke="#0066cc" stroke-width="2" rx="8"/>
   <text x="520" y="145" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#0066cc">
     Kontonummer
   </text>
   
-  <!-- Account Examples -->
+
   <text x="380" y="175" font-family="Arial, sans-serif" font-size="14" fill="#333">
     1500 - Kundefordringer
   </text>
@@ -61,12 +61,12 @@
     5000 - Lønnskostnad
   </text>
   
-  <!-- Bottom Text -->
+
   <text x="400" y="320" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#495057">
     Systematisk tildeling av kontonummer til transaksjoner
   </text>
   
-  <!-- Decorative Elements -->
+
   <circle cx="720" cy="150" r="30" fill="#e3f2fd" stroke="#0066cc" stroke-width="2"/>
   <text x="720" y="158" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#0066cc">
     #

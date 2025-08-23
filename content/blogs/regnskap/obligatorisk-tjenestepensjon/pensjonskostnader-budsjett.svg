@@ -22,21 +22,21 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#212529">
     Pensjonskostnader i Budsjettet
   </text>
   
-  <!-- Cost Breakdown Chart -->
+
   <rect x="50" y="60" width="700" height="200" fill="white" stroke="#dee2e6" stroke-width="1" rx="10"/>
   <text x="400" y="85" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#212529">
     Månedlige Lønnskostnader - Eksempel Ansatt (Kr 50 000/mnd)
   </text>
   
-  <!-- Salary Bar -->
+
   <rect x="80" y="110" width="400" height="30" fill="url(#salaryGradient)" rx="5"/>
   <text x="90" y="130" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Grunnlønn: Kr 50 000
@@ -45,7 +45,7 @@
     100%
   </text>
   
-  <!-- Pension Bar -->
+
   <rect x="80" y="150" width="100" height="30" fill="url(#pensionGradient)" rx="5"/>
   <text x="90" y="170" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Pensjon: Kr 2 500
@@ -54,7 +54,7 @@
     5%
   </text>
   
-  <!-- Employer Tax Bar -->
+
   <rect x="80" y="190" width="35" height="30" fill="url(#avgiftGradient)" rx="5"/>
   <text x="90" y="210" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     AGA: Kr 352
@@ -63,7 +63,7 @@
     0,7%
   </text>
   
-  <!-- Admin Bar -->
+
   <rect x="80" y="230" width="20" height="30" fill="url(#adminGradient)" rx="5"/>
   <text x="90" y="250" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
     Adm: Kr 200
@@ -72,7 +72,7 @@
     0,4%
   </text>
   
-  <!-- Total Cost -->
+
   <rect x="500" y="150" width="200" height="80" fill="#e9ecef" stroke="#6c757d" stroke-width="1" rx="5"/>
   <text x="600" y="175" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#212529">
     Total Månedskostnad
@@ -84,16 +84,16 @@
     (106,1% av grunnlønn)
   </text>
   
-  <!-- Annual Budget Planning -->
+
   <rect x="50" y="280" width="700" height="280" fill="white" stroke="#dee2e6" stroke-width="1" rx="10"/>
   <text x="400" y="305" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#212529">
     Årlig Budsjettplanlegging
   </text>
   
-  <!-- Budget Table -->
+
   <rect x="80" y="320" width="640" height="220" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="5"/>
   
-  <!-- Table Header -->
+
   <rect x="80" y="320" width="640" height="35" fill="#495057" rx="5 5 0 0"/>
   <text x="120" y="342" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Kostnadselement
@@ -108,8 +108,8 @@
     Årlig beløp
   </text>
   
-  <!-- Table Rows -->
-  <!-- Row 1: Grunnlønn -->
+
+
   <rect x="80" y="355" width="640" height="30" fill="white"/>
   <text x="90" y="375" font-family="Arial, sans-serif" font-size="13" fill="#212529">
     Grunnlønn
@@ -124,7 +124,7 @@
     Kr 600 000
   </text>
   
-  <!-- Row 2: Pensjonsinnskudd -->
+
   <rect x="80" y="385" width="640" height="30" fill="#e8f5e8"/>
   <text x="90" y="405" font-family="Arial, sans-serif" font-size="13" fill="#212529">
     Pensjonsinnskudd
@@ -139,7 +139,7 @@
     Kr 12 000 - Kr 30 000
   </text>
   
-  <!-- Row 3: Arbeidsgiveravgift -->
+
   <rect x="80" y="415" width="640" height="30" fill="white"/>
   <text x="90" y="435" font-family="Arial, sans-serif" font-size="13" fill="#212529">
     Arbeidsgiveravgift (pensjon)
@@ -154,7 +154,7 @@
     Kr 1 692 - Kr 4 230
   </text>
   
-  <!-- Row 4: Administrasjon -->
+
   <rect x="80" y="445" width="640" height="30" fill="#f3e8ff"/>
   <text x="90" y="465" font-family="Arial, sans-serif" font-size="13" fill="#212529">
     Administrasjonsgebyr
@@ -169,7 +169,7 @@
     Kr 1 800 - Kr 3 600
   </text>
   
-  <!-- Row 5: Total -->
+
   <rect x="80" y="475" width="640" height="30" fill="#495057"/>
   <text x="90" y="495" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="white">
     TOTAL PENSJONSKOSTNADER
@@ -184,7 +184,7 @@
     Kr 15 492 - Kr 37 830
   </text>
   
-  <!-- Row 6: Total with salary -->
+
   <rect x="80" y="505" width="640" height="30" fill="#dc3545"/>
   <text x="90" y="525" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="white">
     TOTAL LØNNSKOSTNAD
@@ -199,7 +199,7 @@
     Kr 615 492 - Kr 637 830
   </text>
   
-  <!-- Bottom Tips -->
+
   <rect x="50" y="570" width="700" height="25" fill="#d1ecf1" stroke="#bee5eb" stroke-width="1" rx="5"/>
   <text x="400" y="585" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#0c5460">
     💡 Tips: Budsjetter pensjonskostnader som 3-6% av total lønnssum for å sikre tilstrekkelig kapasitet

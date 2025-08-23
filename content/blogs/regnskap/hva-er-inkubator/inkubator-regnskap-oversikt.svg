@@ -1,25 +1,25 @@
 <svg width="800" height="700" viewBox="0 0 800 700" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="700" fill="#f8fafc"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e293b">
     Regnskapsmessige Forhold for Inkubatorer
   </text>
   
-  <!-- For Incubator Section -->
+
   <rect x="50" y="70" width="350" height="280" fill="#dbeafe" stroke="#3b82f6" stroke-width="2" rx="10"/>
   <text x="225" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1e40af">
     For Inkubatoren
   </text>
   
-  <!-- Incubator icon -->
+
   <rect x="200" y="110" width="50" height="40" fill="#3b82f6" rx="5"/>
   <text x="225" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
     INKUBATOR
   </text>
   
-  <!-- Equity investments -->
+
   <text x="70" y="175" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e40af">
     Egenkapitalinvesteringer:
   </text>
@@ -36,7 +36,7 @@
     • Gevinst/tap ved salg
   </text>
   
-  <!-- Operating income/costs -->
+
   <text x="70" y="270" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e40af">
     Driftsinntekter og -kostnader:
   </text>
@@ -53,19 +53,19 @@
     • Personalkostnader for mentorer
   </text>
   
-  <!-- For Startup Section -->
+
   <rect x="450" y="70" width="300" height="280" fill="#fef3c7" stroke="#f59e0b" stroke-width="2" rx="10"/>
   <text x="600" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#d97706">
     For Oppstartsselskaper
   </text>
   
-  <!-- Startup icon -->
+
   <rect x="575" y="110" width="50" height="40" fill="#f59e0b" rx="5"/>
   <text x="600" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
     STARTUP
   </text>
   
-  <!-- Capital structure -->
+
   <text x="470" y="175" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#d97706">
     Kapitalstruktur:
   </text>
@@ -82,7 +82,7 @@
     • Drag-along og tag-along-rettigheter
   </text>
   
-  <!-- Cost accounting -->
+
   <text x="470" y="270" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#d97706">
     Kostnadsføring:
   </text>
@@ -99,13 +99,13 @@
     • Juridiske og administrative tjenester
   </text>
   
-  <!-- Accounting standards -->
+
   <rect x="100" y="380" width="600" height="120" fill="#f0fdf4" stroke="#16a34a" stroke-width="2" rx="10"/>
   <text x="400" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#15803d">
     Regnskapsstandarder og Krav
   </text>
   
-  <!-- Standards list -->
+
   <text x="120" y="435" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#15803d">
     Relevante standarder:
   </text>
@@ -119,13 +119,13 @@
     • IAS 38: Immaterielle eiendeler (teknologi og IP-rettigheter)
   </text>
   
-  <!-- Tax considerations -->
+
   <rect x="100" y="520" width="600" height="140" fill="#fef2f2" stroke="#dc2626" stroke-width="2" rx="10"/>
   <text x="400" y="545" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#dc2626">
     Skattemessige Forhold
   </text>
   
-  <!-- Tax details -->
+
   <text x="120" y="575" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#dc2626">
     For inkubatorer:
   </text>
@@ -142,13 +142,13 @@
     • Potensielle skattefritak for kvalifiserte investeringer
   </text>
   
-  <!-- Connection arrows -->
+
   <path d="M 400 150 L 450 150" stroke="#6b7280" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <text x="425" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6b7280">
     Investering
   </text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#6b7280"/>

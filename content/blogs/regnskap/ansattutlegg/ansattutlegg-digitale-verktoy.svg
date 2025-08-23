@@ -21,15 +21,15 @@
     </marker>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#F8FAFC"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1E293B">
     Digitale Verktøy for Ansattutlegg
   </text>
   
-  <!-- Mobile Solution -->
+
   <rect x="50" y="70" width="160" height="140" rx="10" fill="url(#mobileGradient)" stroke="#1E40AF" stroke-width="2"/>
   <text x="130" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Mobilapp
@@ -53,7 +53,7 @@
     • Påminnelser
   </text>
   
-  <!-- AI Categorization -->
+
   <rect x="240" y="70" width="160" height="140" rx="10" fill="url(#aiGradient)" stroke="#D97706" stroke-width="2"/>
   <text x="320" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     AI-kategorisering
@@ -77,7 +77,7 @@
     • Avviksdeteksjon
   </text>
   
-  <!-- Workflow -->
+
   <rect x="430" y="70" width="160" height="140" rx="10" fill="url(#workflowGradient)" stroke="#047857" stroke-width="2"/>
   <text x="510" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Arbeidsflyt
@@ -101,7 +101,7 @@
     • Varslingssystem
   </text>
   
-  <!-- Integration -->
+
   <rect x="620" y="70" width="160" height="140" rx="10" fill="url(#integrationGradient)" stroke="#7C3AED" stroke-width="2"/>
   <text x="700" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Integrasjon
@@ -125,22 +125,22 @@
     • Real-time sync
   </text>
   
-  <!-- Process Flow Arrows -->
+
   <g stroke="#64748B" stroke-width="2" fill="none" marker-end="url(#arrowhead)">
     <path d="M 210 140 L 240 140"/>
     <path d="M 400 140 L 430 140"/>
     <path d="M 590 140 L 620 140"/>
   </g>
   
-  <!-- Benefits Section -->
+
   <rect x="50" y="250" width="700" height="30" rx="5" fill="#E2E8F0" stroke="#64748B" stroke-width="2"/>
   <text x="400" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1E293B">
     Fordeler med Digitale Løsninger
   </text>
   
-  <!-- Benefits Grid -->
+
   <g id="benefits">
-    <!-- Efficiency -->
+
     <rect x="70" y="300" width="160" height="100" rx="8" fill="#DBEAFE" stroke="#3B82F6" stroke-width="2"/>
     <text x="150" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1E40AF">
       Effektivitet
@@ -158,7 +158,7 @@
       • Mindre administrativt arbeid
     </text>
     
-    <!-- Accuracy -->
+
     <rect x="250" y="300" width="160" height="100" rx="8" fill="#D1FAE5" stroke="#10B981" stroke-width="2"/>
     <text x="330" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#047857">
       Nøyaktighet
@@ -176,7 +176,7 @@
       • Kvalitetssikring
     </text>
     
-    <!-- Transparency -->
+
     <rect x="430" y="300" width="160" height="100" rx="8" fill="#FEF3C7" stroke="#F59E0B" stroke-width="2"/>
     <text x="510" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#92400E">
       Transparens
@@ -194,7 +194,7 @@
       • Bedre oversikt
     </text>
     
-    <!-- Compliance -->
+
     <rect x="610" y="300" width="160" height="100" rx="8" fill="#F3E8FF" stroke="#8B5CF6" stroke-width="2"/>
     <text x="690" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#6D28D9">
       Regeloverholdelse
@@ -213,15 +213,15 @@
     </text>
   </g>
   
-  <!-- ROI Section -->
+
   <rect x="50" y="430" width="700" height="30" rx="5" fill="#6B7280" stroke="#4B5563" stroke-width="2"/>
   <text x="400" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Return on Investment (ROI)
   </text>
   
-  <!-- ROI Statistics -->
+
   <g id="roiStats">
-    <!-- Time Savings -->
+
     <rect x="80" y="480" width="140" height="80" rx="8" fill="#E0F2FE" stroke="#0369A1" stroke-width="2"/>
     <text x="150" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#0369A1">
       Tidsbesparelse
@@ -236,7 +236,7 @@
       behandlingstid
     </text>
     
-    <!-- Error Reduction -->
+
     <rect x="250" y="480" width="140" height="80" rx="8" fill="#D1FAE5" stroke="#10B981" stroke-width="2"/>
     <text x="320" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#047857">
       Feilreduksjon
@@ -251,7 +251,7 @@
       registrering
     </text>
     
-    <!-- Cost Savings -->
+
     <rect x="420" y="480" width="140" height="80" rx="8" fill="#FEF3C7" stroke="#F59E0B" stroke-width="2"/>
     <text x="490" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#92400E">
       Kostnadsbesparelse
@@ -266,7 +266,7 @@
       administrative kostnader
     </text>
     
-    <!-- User Satisfaction -->
+
     <rect x="590" y="480" width="140" height="80" rx="8" fill="#F3E8FF" stroke="#8B5CF6" stroke-width="2"/>
     <text x="660" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#6D28D9">
       Brukertilfredshet

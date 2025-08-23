@@ -10,23 +10,23 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="400" fill="url(#bgGradient)"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="50" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle" fill="white">
     Hva er en kunde?
   </text>
   
-  <!-- Customer icon -->
+
   <circle cx="200" cy="180" r="40" fill="#0066cc" opacity="0.8"/>
   <circle cx="200" cy="165" r="15" fill="white"/>
   <path d="M 175 195 Q 200 185 225 195 L 225 210 L 175 210 Z" fill="white"/>
   
-  <!-- Arrow -->
+
   <path d="M 260 180 L 320 180" stroke="#666" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
@@ -34,7 +34,7 @@
     </marker>
   </defs>
   
-  <!-- Business/Accounting representation -->
+
   <rect x="340" y="140" width="120" height="80" fill="#28a745" opacity="0.8" rx="5"/>
   <text x="400" y="165" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
     REGNSKAP
@@ -49,7 +49,7 @@
     Kontantstrøm
   </text>
   
-  <!-- Arrow -->
+
   <path d="M 480 180 L 540 180" stroke="#666" stroke-width="3" fill="none" marker-end="url(#arrowhead2)"/>
   <defs>
     <marker id="arrowhead2" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
@@ -57,14 +57,14 @@
     </marker>
   </defs>
   
-  <!-- Success/Growth representation -->
+
   <polygon points="560,200 580,160 600,200 620,140 640,200" stroke="#28a745" stroke-width="3" fill="none"/>
   <circle cx="600" cy="180" r="30" fill="#28a745" opacity="0.2"/>
   <text x="600" y="185" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#28a745">
     VEKST
   </text>
   
-  <!-- Key concepts -->
+
   <rect x="50" y="280" width="700" height="100" fill="white" opacity="0.9" rx="10" stroke="#ddd"/>
   <text x="400" y="305" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#333">
     Kundens rolle i regnskapet

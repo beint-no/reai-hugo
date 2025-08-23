@@ -1,22 +1,22 @@
 <svg width="800" height="350" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="350" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c3e50">
     Kontroll av Feriepenger
   </text>
   
-  <!-- Main container -->
+
   <rect x="50" y="50" width="700" height="270" fill="white" stroke="#e9ecef" stroke-width="2" rx="10"/>
   
-  <!-- Internal control section -->
+
   <rect x="80" y="80" width="300" height="120" fill="#3498db" rx="5"/>
   <text x="230" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     Internkontroll
   </text>
   
-  <!-- Internal control items -->
+
   <rect x="100" y="120" width="260" height="20" fill="#2980b9" rx="3"/>
   <text x="230" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
     Månedlig avstemming av avsetninger
@@ -32,13 +32,13 @@
     Verifisering av feriepengegivende inntekt
   </text>
   
-  <!-- Audit section -->
+
   <rect x="420" y="80" width="300" height="120" fill="#e74c3c" rx="5"/>
   <text x="570" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     Revisjonsaspekter
   </text>
   
-  <!-- Audit items -->
+
   <rect x="440" y="120" width="260" height="20" fill="#c0392b" rx="3"/>
   <text x="570" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
     Korrekt beregning av feriepengeoppsparing
@@ -54,7 +54,7 @@
     Overholdelse av ferieloven
   </text>
   
-  <!-- Control process flow -->
+
   <rect x="150" y="220" width="120" height="40" fill="#27ae60" rx="5"/>
   <text x="210" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     1. Beregning
@@ -87,12 +87,12 @@
     Årlig justering
   </text>
   
-  <!-- Arrows between process steps -->
+
   <path d="M 280 240 L 280 240" stroke="#34495e" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 420 240 L 420 240" stroke="#34495e" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 560 240 L 560 240" stroke="#34495e" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Key control points -->
+
   <text x="100" y="290" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50" font-weight="bold">
     Kritiske kontrollpunkter:
   </text>
@@ -100,14 +100,14 @@
     • Korrekte feriepengesatser (10,2% / 12,5%) • Fullstendig feriepengegivende inntekt
   </text>
   
-  <!-- Icons -->
+
   <circle cx="230" cy="60" r="15" fill="#3498db"/>
   <text x="230" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">🔍</text>
   
   <circle cx="570" cy="60" r="15" fill="#e74c3c"/>
   <text x="570" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">📋</text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>

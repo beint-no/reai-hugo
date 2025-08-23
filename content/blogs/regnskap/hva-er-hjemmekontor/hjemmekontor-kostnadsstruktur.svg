@@ -14,19 +14,19 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">Hjemmekontor Kostnadsstruktur</text>
   
-  <!-- Direct Costs Section -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="300" height="180" fill="url(#directGradient)" stroke="#27ae60" stroke-width="2" rx="10"/>
     <text x="150" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">Direkte Kostnader</text>
     <text x="150" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">(100% fradragsberettiget)</text>
     
-    <!-- Direct cost items -->
+
     <g fill="white" font-family="Arial, sans-serif" font-size="14">
       <text x="20" y="75">• Kontorrekvisita</text>
       <text x="20" y="95">• Telefon/Internett (forretningsandel)</text>
@@ -35,7 +35,7 @@
       <text x="20" y="155">• Kontorutstyr</text>
     </g>
     
-    <!-- Direct cost icon -->
+
     <g transform="translate(250, 70)">
       <rect x="0" y="0" width="30" height="20" fill="white" stroke="#27ae60" stroke-width="1"/>
       <line x1="5" y1="5" x2="25" y2="5" stroke="#27ae60" stroke-width="1"/>
@@ -44,13 +44,13 @@
     </g>
   </g>
   
-  <!-- Indirect Costs Section -->
+
   <g transform="translate(450, 80)">
     <rect x="0" y="0" width="300" height="180" fill="url(#indirectGradient)" stroke="#3498db" stroke-width="2" rx="10"/>
     <text x="150" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">Indirekte Kostnader</text>
     <text x="150" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">(Forholdsmessig andel)</text>
     
-    <!-- Indirect cost items -->
+
     <g fill="white" font-family="Arial, sans-serif" font-size="14">
       <text x="20" y="75">• Strøm og oppvarming</text>
       <text x="20" y="95">• Kommunale avgifter</text>
@@ -59,7 +59,7 @@
       <text x="20" y="155">• Boliglånsrenter (kun næringsdrivende)</text>
     </g>
     
-    <!-- Indirect cost icon -->
+
     <g transform="translate(250, 70)">
       <rect x="0" y="0" width="30" height="30" fill="white" stroke="#3498db" stroke-width="2"/>
       <polygon points="0,30 15,10 30,30" fill="#3498db"/>
@@ -69,12 +69,12 @@
     </g>
   </g>
   
-  <!-- Calculation Formula -->
+
   <g transform="translate(100, 300)">
     <rect x="0" y="0" width="600" height="120" fill="white" stroke="#34495e" stroke-width="2" rx="10"/>
     <text x="300" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">Beregningsformel for Indirekte Kostnader</text>
     
-    <!-- Formula -->
+
     <g transform="translate(50, 50)">
       <rect x="0" y="0" width="120" height="40" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1" rx="5"/>
       <text x="60" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Kontorareal</text>
@@ -94,13 +94,13 @@
     </g>
   </g>
   
-  <!-- Example calculation -->
+
   <g transform="translate(150, 440)">
     <text x="0" y="0" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">Eksempel:</text>
     <text x="80" y="0" font-family="Arial, sans-serif" font-size="14" fill="#2c3e50">20 m² / 100 m² × 180 000 kr = 36 000 kr årlig fradrag</text>
   </g>
   
-  <!-- Arrows connecting sections -->
+
   <g stroke="#7f8c8d" stroke-width="2" fill="none" marker-end="url(#arrowhead)">
     <defs>
       <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">

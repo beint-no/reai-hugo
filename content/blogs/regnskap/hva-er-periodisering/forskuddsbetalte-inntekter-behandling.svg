@@ -1,13 +1,13 @@
 <svg width="800" height="550" viewBox="0 0 800 550" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="550" fill="#f8fafc"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1e293b">
     Forhåndsbetalte Inntekter - Behandling over Tid
   </text>
   
-  <!-- Example setup -->
+
   <rect x="150" y="60" width="500" height="50" fill="#e0f2fe" stroke="#0369a1" stroke-width="2" rx="8"/>
   <text x="400" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0369a1">
     Eksempel: Årlig abonnement kr 120.000 mottatt 1. januar
@@ -16,7 +16,7 @@
     Månedlig inntektsføring: kr 10.000 per måned
   </text>
   
-  <!-- Initial booking -->
+
   <rect x="50" y="130" width="200" height="80" fill="#dcfce7" stroke="#16a34a" stroke-width="2" rx="8"/>
   <text x="150" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#166534">
     1. Januar - Mottak
@@ -31,7 +31,7 @@
         inntekt 120.000
   </text>
   
-  <!-- Monthly recognition -->
+
   <rect x="300" y="130" width="200" height="80" fill="#fef3c7" stroke="#f59e0b" stroke-width="2" rx="8"/>
   <text x="400" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#92400e">
     Månedlig (12 ganger)
@@ -46,7 +46,7 @@
     Kr: Abonnementsinntekt 10.000
   </text>
   
-  <!-- Final status -->
+
   <rect x="550" y="130" width="200" height="80" fill="#e0e7ff" stroke="#6366f1" stroke-width="2" rx="8"/>
   <text x="650" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#312e81">
     31. Desember
@@ -61,13 +61,13 @@
     Alt inntektsført
   </text>
   
-  <!-- Visual timeline -->
+
   <rect x="100" y="240" width="600" height="150" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" rx="8"/>
   <text x="400" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">
     Månedlig Nedtrapping av Forhåndsbetalt Inntekt
   </text>
   
-  <!-- Monthly bars -->
+
   <rect x="120" y="280" width="40" height="100" fill="#ef4444" rx="3"/>
   <text x="140" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#991b1b">Jan</text>
   <text x="140" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#991b1b">120k</text>
@@ -112,11 +112,11 @@
   <text x="640" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#9333ea">Nov</text>
   <text x="640" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#9333ea">20k</text>
   
-  <!-- December shows 0 -->
+
   <text x="680" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#475569">Des</text>
   <text x="680" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#475569">0</text>
   
-  <!-- Balance sheet impact -->
+
   <rect x="100" y="430" width="600" height="100" fill="#f1f5f9" stroke="#64748b" stroke-width="1" rx="8"/>
   <text x="400" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">
     Påvirkning på Balanse og Resultat
@@ -144,11 +144,11 @@
     kr 10.000 hver måned
   </text>
   
-  <!-- Arrows -->
+
   <path d="M 250 170 L 300 170" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
   <path d="M 500 170 L 550 170" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrow" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#64748b"/>

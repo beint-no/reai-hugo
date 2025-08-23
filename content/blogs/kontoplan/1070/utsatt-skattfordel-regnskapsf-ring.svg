@@ -10,22 +10,22 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="650" height="450" fill="url(#bgGradient)"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="650" height="60" fill="url(#headerGradient)"/>
   <text x="325" y="35" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="white">
     Regnskapsføring av utsatt skattfordel
   </text>
   
-  <!-- Initial recognition section -->
+
   <rect x="50" y="80" width="550" height="140" fill="white" stroke="#dee2e6" stroke-width="2" rx="8"/>
   <text x="325" y="105" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#333">
     Førstegangsregistrering
   </text>
   
-  <!-- Debit side -->
+
   <rect x="80" y="120" width="200" height="80" fill="#e8f5e8" stroke="#4caf50" stroke-width="2" rx="4"/>
   <text x="180" y="140" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#2e7d32">
     DEBET
@@ -40,7 +40,7 @@
     125 000
   </text>
   
-  <!-- Credit side -->
+
   <rect x="370" y="120" width="200" height="80" fill="#fff3e0" stroke="#ff9800" stroke-width="2" rx="4"/>
   <text x="470" y="140" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#e65100">
     KREDIT
@@ -55,16 +55,16 @@
     125 000
   </text>
   
-  <!-- Arrow between debit and credit -->
+
   <path d="M 290 160 L 360 160" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Reversal section -->
+
   <rect x="50" y="250" width="550" height="140" fill="white" stroke="#dee2e6" stroke-width="2" rx="8"/>
   <text x="325" y="275" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#333">
     Reversering ved realisering
   </text>
   
-  <!-- Debit side for reversal -->
+
   <rect x="80" y="290" width="200" height="80" fill="#ffebee" stroke="#f44336" stroke-width="2" rx="4"/>
   <text x="180" y="310" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#c62828">
     DEBET
@@ -79,7 +79,7 @@
     125 000
   </text>
   
-  <!-- Credit side for reversal -->
+
   <rect x="370" y="290" width="200" height="80" fill="#f3e5f5" stroke="#9c27b0" stroke-width="2" rx="4"/>
   <text x="470" y="310" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#6a1b9a">
     KREDIT
@@ -94,16 +94,16 @@
     125 000
   </text>
   
-  <!-- Arrow between debit and credit for reversal -->
+
   <path d="M 290 330 L 360 330" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Note box -->
+
   <rect x="100" y="400" width="450" height="30" fill="#e3f2fd" stroke="#2196f3" stroke-width="1" rx="4"/>
   <text x="325" y="420" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1976d2">
     Reversering skjer når de midlertidige forskjellene utlignes
   </text>
   
-  <!-- Arrow definitions -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#666"/>

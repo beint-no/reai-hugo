@@ -10,19 +10,19 @@
     </radialGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="400" fill="#ffffff"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGrad)"/>
   <text x="400" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="22" font-weight="bold">Elementer i Internkontrollsystem</text>
   
-  <!-- Central circle -->
+
   <circle cx="400" cy="230" r="70" fill="url(#centerGrad)"/>
   <text x="400" y="220" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Internkontroll</text>
   <text x="400" y="240" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">System</text>
   
-  <!-- Element 1: Kontrollmiljø -->
+
   <g transform="translate(100, 100)">
     <rect x="0" y="0" width="160" height="80" fill="#dcfce7" stroke="#16a34a" stroke-width="2" rx="8"/>
     <text x="80" y="20" text-anchor="middle" fill="#16a34a" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Kontrollmiljø</text>
@@ -31,7 +31,7 @@
     <text x="10" y="70" fill="#374151" font-family="Arial, sans-serif" font-size="10">• Etiske retningslinjer</text>
   </g>
   
-  <!-- Element 2: Risikovurdering -->
+
   <g transform="translate(540, 100)">
     <rect x="0" y="0" width="160" height="80" fill="#fef3c7" stroke="#f59e0b" stroke-width="2" rx="8"/>
     <text x="80" y="20" text-anchor="middle" fill="#f59e0b" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Risikovurdering</text>
@@ -40,7 +40,7 @@
     <text x="10" y="70" fill="#374151" font-family="Arial, sans-serif" font-size="10">• Konsekvens</text>
   </g>
   
-  <!-- Element 3: Kontrollaktiviteter -->
+
   <g transform="translate(100, 280)">
     <rect x="0" y="0" width="160" height="80" fill="#e0e7ff" stroke="#6366f1" stroke-width="2" rx="8"/>
     <text x="80" y="20" text-anchor="middle" fill="#6366f1" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Kontrollaktiviteter</text>
@@ -49,7 +49,7 @@
     <text x="10" y="70" fill="#374151" font-family="Arial, sans-serif" font-size="10">• Segregering</text>
   </g>
   
-  <!-- Element 4: Informasjon og kommunikasjon -->
+
   <g transform="translate(540, 280)">
     <rect x="0" y="0" width="160" height="80" fill="#fce7f3" stroke="#ec4899" stroke-width="2" rx="8"/>
     <text x="80" y="20" text-anchor="middle" fill="#ec4899" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Informasjon og</text>
@@ -58,21 +58,21 @@
     <text x="10" y="70" fill="#374151" font-family="Arial, sans-serif" font-size="10">• Dokumentasjon</text>
   </g>
   
-  <!-- Element 5: Overvåking -->
+
   <g transform="translate(320, 80)">
     <rect x="0" y="0" width="160" height="60" fill="#f0fdf4" stroke="#22c55e" stroke-width="2" rx="8"/>
     <text x="80" y="25" text-anchor="middle" fill="#22c55e" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Overvåking</text>
     <text x="10" y="45" fill="#374151" font-family="Arial, sans-serif" font-size="10">• Løpende kontroll • Periodisk vurdering</text>
   </g>
   
-  <!-- Connecting lines -->
+
   <line x1="260" y1="140" x2="340" y2="180" stroke="#cbd5e1" stroke-width="2"/>
   <line x1="540" y1="140" x2="460" y2="180" stroke="#cbd5e1" stroke-width="2"/>
   <line x1="260" y1="320" x2="340" y2="280" stroke="#cbd5e1" stroke-width="2"/>
   <line x1="540" y1="320" x2="460" y2="280" stroke="#cbd5e1" stroke-width="2"/>
   <line x1="400" y1="140" x2="400" y2="160" stroke="#cbd5e1" stroke-width="2"/>
   
-  <!-- Icons for each element -->
+
   <g transform="translate(120, 120)">
     <circle cx="0" cy="0" r="10" fill="#16a34a"/>
     <text x="0" y="3" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">🏢</text>

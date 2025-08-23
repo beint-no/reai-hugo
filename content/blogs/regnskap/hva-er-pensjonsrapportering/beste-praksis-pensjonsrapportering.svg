@@ -10,20 +10,20 @@
     </radialGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="700" fill="#F1F8E9"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#bestPracticeGrad)"/>
   <text x="400" y="38" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white" text-anchor="middle">BESTE PRAKSIS FOR PENSJONSRAPPORTERING</text>
   
-  <!-- Central hub -->
+
   <circle cx="400" cy="350" r="80" fill="url(#centerGrad)" stroke="#4CAF50" stroke-width="3"/>
   <text x="400" y="340" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1B5E20" text-anchor="middle">BESTE</text>
   <text x="400" y="355" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1B5E20" text-anchor="middle">PRAKSIS</text>
   <text x="400" y="370" font-family="Arial, sans-serif" font-size="12" fill="#2E7D32" text-anchor="middle">PENSJON</text>
   
-  <!-- Organization (Top Left) -->
+
   <g transform="translate(120, 120)">
     <rect x="0" y="0" width="160" height="120" fill="#E8F5E8" stroke="#4CAF50" stroke-width="2" rx="8"/>
     <text x="80" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2E7D32" text-anchor="middle">ORGANISERING</text>
@@ -50,7 +50,7 @@
     </g>
   </g>
   
-  <!-- Systems (Top Right) -->
+
   <g transform="translate(520, 120)">
     <rect x="0" y="0" width="160" height="120" fill="#FFF3E0" stroke="#FF9800" stroke-width="2" rx="8"/>
     <text x="80" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#F57C00" text-anchor="middle">SYSTEMER</text>
@@ -77,7 +77,7 @@
     </g>
   </g>
   
-  <!-- Partnerships (Bottom Left) -->
+
   <g transform="translate(120, 480)">
     <rect x="0" y="0" width="160" height="140" fill="#E3F2FD" stroke="#2196F3" stroke-width="2" rx="8"/>
     <text x="80" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1976D2" text-anchor="middle">SAMARBEIDSPARTNERE</text>
@@ -112,7 +112,7 @@
     </g>
   </g>
   
-  <!-- Monitoring (Bottom Right) -->
+
   <g transform="translate(520, 480)">
     <rect x="0" y="0" width="160" height="140" fill="#F3E5F5" stroke="#9C27B0" stroke-width="2" rx="8"/>
     <text x="80" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#7B1FA2" text-anchor="middle">OPPFØLGING</text>
@@ -147,20 +147,20 @@
     </g>
   </g>
   
-  <!-- Arrows connecting to center -->
+
   <path d="M 240 200 L 350 300" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 560 200 L 450 300" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 240 520 L 350 400" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 560 520 L 450 400" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrowhead" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
       <polygon points="0 0, 8 3, 0 6" fill="#666"/>
     </marker>
   </defs>
   
-  <!-- Key Success Factors -->
+
   <g transform="translate(50, 280)">
     <rect x="0" y="0" width="140" height="140" fill="#F5F5F5" stroke="#9E9E9E" stroke-width="1" rx="5"/>
     <text x="70" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#424242" text-anchor="middle">SUKSESSFAKTORER</text>
@@ -195,7 +195,7 @@
     </g>
   </g>
   
-  <!-- Common Pitfalls -->
+
   <g transform="translate(610, 280)">
     <rect x="0" y="0" width="140" height="140" fill="#F5F5F5" stroke="#9E9E9E" stroke-width="1" rx="5"/>
     <text x="70" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#424242" text-anchor="middle">VANLIGE FALLGRUVER</text>
@@ -230,7 +230,7 @@
     </g>
   </g>
   
-  <!-- Bottom insight -->
+
   <g transform="translate(200, 650)">
     <rect x="0" y="0" width="400" height="40" fill="#E8F5E8" stroke="#4CAF50" stroke-width="2" rx="8"/>
     <text x="200" y="15" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2E7D32" text-anchor="middle">NØKKELBUDSKAP</text>

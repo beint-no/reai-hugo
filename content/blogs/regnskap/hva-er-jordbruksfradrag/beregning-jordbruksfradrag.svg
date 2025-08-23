@@ -22,21 +22,21 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)" />
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)" />
   <text x="400" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
     Beregning av Jordbruksfradrag
   </text>
   
-  <!-- Income scale visualization -->
+
   <g transform="translate(50, 80)">
-    <!-- Scale bar -->
+
     <rect x="0" y="0" width="700" height="60" fill="white" stroke="#666" stroke-width="2" rx="5"/>
     
-    <!-- Level 1: 0-500,000 -->
+
     <rect x="0" y="0" width="350" height="60" fill="url(#level1Gradient)" rx="5"/>
     <text x="175" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
       0 - 500 000 kr
@@ -45,7 +45,7 @@
       35% fradrag
     </text>
     
-    <!-- Level 2: 500,001-1,000,000 -->
+
     <rect x="350" y="0" width="175" height="60" fill="url(#level2Gradient)"/>
     <text x="437" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
       500 001 - 1 000 000 kr
@@ -54,7 +54,7 @@
       18% fradrag
     </text>
     
-    <!-- Level 3: Over 1,000,000 -->
+
     <rect x="525" y="0" width="175" height="60" fill="url(#level3Gradient)" rx="5"/>
     <text x="612" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
       Over 1 000 000 kr
@@ -63,7 +63,7 @@
       11% fradrag
     </text>
     
-    <!-- Scale markers -->
+
     <line x1="0" y1="70" x2="0" y2="85" stroke="#666" stroke-width="2"/>
     <text x="0" y="100" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666">
       0 kr
@@ -85,9 +85,9 @@
     </text>
   </g>
   
-  <!-- Calculation examples -->
+
   <g transform="translate(50, 220)">
-    <!-- Example 1: Small farm -->
+
     <rect x="0" y="0" width="220" height="160" fill="white" stroke="#4caf50" stroke-width="2" rx="10"/>
     <rect x="0" y="0" width="220" height="40" fill="#4caf50" rx="10"/>
     <rect x="0" y="30" width="220" height="10" fill="#4caf50"/>
@@ -111,7 +111,7 @@
       Jordbruksfradrag: 140 000 kr
     </text>
     
-    <!-- Example 2: Medium farm -->
+
     <rect x="240" y="0" width="220" height="160" fill="white" stroke="#ff9800" stroke-width="2" rx="10"/>
     <rect x="240" y="0" width="220" height="40" fill="#ff9800" rx="10"/>
     <rect x="240" y="30" width="220" height="10" fill="#ff9800"/>
@@ -138,7 +138,7 @@
       Totalt fradrag: 229 000 kr
     </text>
     
-    <!-- Example 3: Large farm -->
+
     <rect x="480" y="0" width="220" height="160" fill="white" stroke="#f44336" stroke-width="2" rx="10"/>
     <rect x="480" y="0" width="220" height="40" fill="#f44336" rx="10"/>
     <rect x="480" y="30" width="220" height="10" fill="#f44336"/>
@@ -169,7 +169,7 @@
     </text>
   </g>
   
-  <!-- Formula explanation -->
+
   <g transform="translate(50, 420)">
     <rect x="0" y="0" width="700" height="120" fill="white" stroke="#9c27b0" stroke-width="2" rx="10"/>
     <rect x="0" y="0" width="700" height="40" fill="#9c27b0" rx="10"/>
@@ -200,7 +200,7 @@
     </text>
   </g>
   
-  <!-- Important note -->
+
   <g transform="translate(50, 560)">
     <rect x="0" y="0" width="700" height="30" fill="#fff3e0" stroke="#ff9800" stroke-width="1" rx="5"/>
     <text x="20" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e65100">

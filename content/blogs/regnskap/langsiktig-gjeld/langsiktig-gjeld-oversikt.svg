@@ -1,23 +1,23 @@
 <svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Langsiktig Gjeld Oversikt
   </text>
   
-  <!-- Main container -->
+
   <rect x="50" y="80" width="700" height="380" fill="white" stroke="#e1e8ed" stroke-width="2" rx="10"/>
   
-  <!-- Timeline -->
+
   <line x1="100" y1="150" x2="700" y2="150" stroke="#3498db" stroke-width="3"/>
   
-  <!-- Timeline markers -->
+
   <circle cx="200" cy="150" r="8" fill="#e74c3c"/>
   <circle cx="600" cy="150" r="8" fill="#27ae60"/>
   
-  <!-- Timeline labels -->
+
   <text x="200" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#e74c3c">
     1 år
   </text>
@@ -25,7 +25,7 @@
     &gt; 1 år
   </text>
   
-  <!-- Kortsiktig gjeld section -->
+
   <rect x="80" y="180" width="200" height="120" fill="#ffebee" stroke="#e74c3c" stroke-width="2" rx="5"/>
   <text x="180" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#e74c3c">
     Kortsiktig Gjeld
@@ -43,13 +43,13 @@
     • Påløpte kostnader
   </text>
   
-  <!-- Langsiktig gjeld section -->
+
   <rect x="320" y="180" width="400" height="240" fill="#e8f5e8" stroke="#27ae60" stroke-width="2" rx="5"/>
   <text x="520" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#27ae60">
     Langsiktig Gjeld
   </text>
   
-  <!-- Langsiktig gjeld categories -->
+
   <rect x="340" y="220" width="170" height="80" fill="white" stroke="#27ae60" stroke-width="1" rx="3"/>
   <text x="425" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#27ae60">
     Banklån
@@ -106,10 +106,10 @@
     • Konvertible lån
   </text>
   
-  <!-- Arrow pointing to langsiktig gjeld -->
+
   <path d="M 300 240 L 315 240" stroke="#27ae60" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#27ae60"/>

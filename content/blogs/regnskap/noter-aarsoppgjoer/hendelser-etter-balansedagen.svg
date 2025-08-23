@@ -1,21 +1,21 @@
 <svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#212529">
     Hendelser etter Balansedagen
   </text>
   
-  <!-- Timeline -->
+
   <line x1="100" y1="100" x2="700" y2="100" stroke="#6c757d" stroke-width="4"/>
   
-  <!-- Timeline markers -->
+
   <circle cx="200" cy="100" r="8" fill="#007bff"/>
   <circle cx="400" cy="100" r="8" fill="#dc3545"/>
   <circle cx="600" cy="100" r="8" fill="#28a745"/>
   
-  <!-- Timeline labels -->
+
   <text x="200" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#007bff">
     31. desember
   </text>
@@ -37,9 +37,9 @@
     av regnskap
   </text>
   
-  <!-- Two categories of events -->
+
   
-  <!-- Adjusting events -->
+
   <g transform="translate(50, 180)">
     <rect x="0" y="0" width="320" height="280" fill="white" stroke="#ffc107" stroke-width="3" rx="8"/>
     <rect x="0" y="0" width="320" height="50" fill="#fff3cd" stroke="#ffc107" stroke-width="1" rx="8 8 0 0"/>
@@ -87,7 +87,7 @@
     </text>
   </g>
   
-  <!-- Non-adjusting events -->
+
   <g transform="translate(430, 180)">
     <rect x="0" y="0" width="320" height="280" fill="white" stroke="#17a2b8" stroke-width="3" rx="8"/>
     <rect x="0" y="0" width="320" height="50" fill="#d1ecf1" stroke="#17a2b8" stroke-width="1" rx="8 8 0 0"/>
@@ -135,20 +135,20 @@
     </text>
   </g>
   
-  <!-- Decision flowchart arrow -->
+
   <path d="M 370 320 L 430 320" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <text x="400" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
     eller
   </text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#6c757d"/>
     </marker>
   </defs>
   
-  <!-- Key question box -->
+
   <rect x="300" y="470" width="200" height="25" fill="#e9ecef" stroke="#6c757d" stroke-width="1" rx="4"/>
   <text x="400" y="487" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
     Nøkkelspørsmål: Eksisterte forholdet på balansedagen?

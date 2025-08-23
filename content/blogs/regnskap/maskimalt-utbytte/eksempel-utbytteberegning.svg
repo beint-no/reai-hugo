@@ -1,22 +1,22 @@
 <svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">Praktisk Eksempel: AS Nordlys</text>
   
-  <!-- Main container -->
+
   <rect x="50" y="70" width="700" height="480" fill="white" stroke="#e9ecef" stroke-width="2" rx="10"/>
   
-  <!-- Company info -->
+
   <rect x="80" y="100" width="640" height="40" fill="#e8f5e8" stroke="#4caf50" stroke-width="2" rx="5"/>
   <text x="400" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2e7d32">AS Nordlys - Balanseopplysninger 31.12.2023</text>
   
-  <!-- Balance sheet data -->
+
   <rect x="80" y="160" width="300" height="200" fill="#f5f5f5" stroke="#999" stroke-width="1" rx="5"/>
   <text x="230" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#333">Balanseposter</text>
   
-  <!-- Balance items -->
+
   <rect x="100" y="200" width="260" height="25" fill="#e3f2fd" stroke="#2196f3" stroke-width="1"/>
   <text x="120" y="217" font-family="Arial, sans-serif" font-size="12" fill="#1976d2">Total egenkapital</text>
   <text x="340" y="217" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1976d2">2 500 000 kr</text>
@@ -37,14 +37,14 @@
   <text x="120" y="337" font-family="Arial, sans-serif" font-size="12" fill="#2e7d32">Annen egenkapital</text>
   <text x="340" y="337" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2e7d32">2 190 000 kr</text>
   
-  <!-- Arrow -->
+
   <path d="M 400 280 L 450 280" stroke="#666" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Calculation section -->
+
   <rect x="470" y="160" width="250" height="200" fill="#fff3e0" stroke="#ff9800" stroke-width="2" rx="5"/>
   <text x="595" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#f57c00">Beregning</text>
   
-  <!-- Calculation steps -->
+
   <text x="490" y="210" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">Fri egenkapital:</text>
   <text x="490" y="230" font-family="Arial, sans-serif" font-size="11" fill="#666">Total egenkapital: 2 500 000</text>
   <text x="490" y="245" font-family="Arial, sans-serif" font-size="11" fill="#666">- Aksjekapital: (100 000)</text>
@@ -56,12 +56,12 @@
   <text x="490" y="325" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">Soliditetsvurdering:</text>
   <text x="490" y="340" font-family="Arial, sans-serif" font-size="11" fill="#666">- Soliditetsbuffer (10%): (219 000)</text>
   
-  <!-- Final result -->
+
   <rect x="80" y="380" width="640" height="60" fill="#e8f5e8" stroke="#4caf50" stroke-width="3" rx="5"/>
   <text x="400" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2e7d32">MASKIMALT UTBYTTE</text>
   <text x="400" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2e7d32">1 971 000 kr</text>
   
-  <!-- Explanation boxes -->
+
   <rect x="80" y="460" width="200" height="70" fill="#fff8e1" stroke="#fbc02d" stroke-width="1" rx="5"/>
   <text x="180" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#f57c00">Forklaring</text>
   <text x="180" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">AS Nordlys kan dele ut</text>
@@ -80,13 +80,13 @@
   <text x="620" y="515" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">tilstrekkelig egenkapital</text>
   <text x="620" y="530" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">for fremtidige behov</text>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#666"/>
     </marker>
   </defs>
   
-  <!-- Bottom note -->
+
   <text x="400" y="575" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#666">Dette eksemplet viser hvordan maskimalt utbytte beregnes i praksis</text>
 </svg>

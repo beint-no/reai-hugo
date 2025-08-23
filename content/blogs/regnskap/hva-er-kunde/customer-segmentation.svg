@@ -9,20 +9,20 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#333">
     Kundesegmentering
   </text>
   
-  <!-- Customer Types Section -->
+
   <text x="400" y="80" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#666">
     Segmentering etter Kundetype
   </text>
   
-  <!-- B2B Customers -->
+
   <g transform="translate(50, 100)">
     <rect x="0" y="0" width="150" height="100" fill="#0066cc" rx="10" filter="url(#shadow)"/>
     <rect x="20" y="20" width="30" height="20" fill="white" rx="2"/>
@@ -44,7 +44,7 @@
     </text>
   </g>
   
-  <!-- B2C Customers -->
+
   <g transform="translate(250, 100)">
     <rect x="0" y="0" width="150" height="100" fill="#28a745" rx="10" filter="url(#shadow)"/>
     <circle cx="75" cy="35" r="15" fill="white"/>
@@ -63,7 +63,7 @@
     </text>
   </g>
   
-  <!-- Public Customers -->
+
   <g transform="translate(450, 100)">
     <rect x="0" y="0" width="150" height="100" fill="#ffc107" rx="10" filter="url(#shadow)"/>
     <rect x="60" y="20" width="30" height="40" fill="white" rx="2"/>
@@ -83,7 +83,7 @@
     </text>
   </g>
   
-  <!-- International Customers -->
+
   <g transform="translate(150, 220)">
     <rect x="0" y="0" width="150" height="100" fill="#dc3545" rx="10" filter="url(#shadow)"/>
     <circle cx="75" cy="50" r="25" fill="white"/>
@@ -107,12 +107,12 @@
     </text>
   </g>
   
-  <!-- ABC Analysis Section -->
+
   <text x="400" y="380" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#666">
     ABC-Analyse (Segmentering etter Verdi)
   </text>
   
-  <!-- A-Customers -->
+
   <g transform="translate(100, 400)">
     <rect x="0" y="0" width="150" height="120" fill="#28a745" rx="10" filter="url(#shadow)"/>
     <text x="75" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
@@ -138,7 +138,7 @@
     </text>
   </g>
   
-  <!-- B-Customers -->
+
   <g transform="translate(300, 400)">
     <rect x="0" y="0" width="150" height="120" fill="#ffc107" rx="10" filter="url(#shadow)"/>
     <text x="75" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
@@ -164,7 +164,7 @@
     </text>
   </g>
   
-  <!-- C-Customers -->
+
   <g transform="translate(500, 400)">
     <rect x="0" y="0" width="150" height="120" fill="#6c757d" rx="10" filter="url(#shadow)"/>
     <text x="75" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
@@ -190,7 +190,7 @@
     </text>
   </g>
   
-  <!-- Pareto Chart -->
+
   <g transform="translate(50, 350)">
     <text x="0" y="0" font-family="Arial, sans-serif" font-size="12" fill="#666">
       Pareto-prinsippet (80/20-regelen)

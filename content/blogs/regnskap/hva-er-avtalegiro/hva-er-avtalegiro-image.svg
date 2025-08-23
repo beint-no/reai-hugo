@@ -1,13 +1,13 @@
 <svg width="600" height="400" viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="600" height="400" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="300" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     AvtaleGiro - Automatisk Betaling
   </text>
   
-  <!-- Customer section -->
+
   <rect x="50" y="80" width="120" height="80" fill="#3498db" rx="10"/>
   <text x="110" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     KUNDE
@@ -19,10 +19,10 @@
     om AvtaleGiro
   </text>
   
-  <!-- Arrow 1 -->
+
   <path d="M 180 120 L 220 120" stroke="#e74c3c" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Supplier section -->
+
   <rect x="240" y="80" width="120" height="80" fill="#e74c3c" rx="10"/>
   <text x="300" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     LEVERANDØR
@@ -34,10 +34,10 @@
     elektronisk
   </text>
   
-  <!-- Arrow 2 -->
+
   <path d="M 370 120 L 410 120" stroke="#e74c3c" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Bank section -->
+
   <rect x="430" y="80" width="120" height="80" fill="#27ae60" rx="10"/>
   <text x="490" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     BANK
@@ -49,55 +49,55 @@
     automatisk
   </text>
   
-  <!-- Return arrow -->
+
   <path d="M 490 170 Q 300 200 110 170" stroke="#9b59b6" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <text x="300" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#9b59b6" font-weight="bold">
     Varsel om trekk
   </text>
   
-  <!-- Process steps -->
+
   <rect x="50" y="250" width="500" height="120" fill="white" stroke="#bdc3c7" stroke-width="2" rx="10"/>
   <text x="300" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
     AvtaleGiro Prosess
   </text>
   
-  <!-- Step 1 -->
+
   <circle cx="100" cy="310" r="20" fill="#3498db"/>
   <text x="100" y="316" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">1</text>
   <text x="100" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Avtale</text>
   <text x="100" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">inngås</text>
   
-  <!-- Step 2 -->
+
   <circle cx="200" cy="310" r="20" fill="#e74c3c"/>
   <text x="200" y="316" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">2</text>
   <text x="200" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Regning</text>
   <text x="200" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">sendes</text>
   
-  <!-- Step 3 -->
+
   <circle cx="300" cy="310" r="20" fill="#f39c12"/>
   <text x="300" y="316" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">3</text>
   <text x="300" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Bank</text>
   <text x="300" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">behandler</text>
   
-  <!-- Step 4 -->
+
   <circle cx="400" cy="310" r="20" fill="#27ae60"/>
   <text x="400" y="316" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">4</text>
   <text x="400" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Automatisk</text>
   <text x="400" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">trekk</text>
   
-  <!-- Step 5 -->
+
   <circle cx="500" cy="310" r="20" fill="#9b59b6"/>
   <text x="500" y="316" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">5</text>
   <text x="500" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Kunde</text>
   <text x="500" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">varsles</text>
   
-  <!-- Arrows between steps -->
+
   <path d="M 125 310 L 175 310" stroke="#7f8c8d" stroke-width="2" fill="none" marker-end="url(#smallarrow)"/>
   <path d="M 225 310 L 275 310" stroke="#7f8c8d" stroke-width="2" fill="none" marker-end="url(#smallarrow)"/>
   <path d="M 325 310 L 375 310" stroke="#7f8c8d" stroke-width="2" fill="none" marker-end="url(#smallarrow)"/>
   <path d="M 425 310 L 475 310" stroke="#7f8c8d" stroke-width="2" fill="none" marker-end="url(#smallarrow)"/>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#e74c3c"/>

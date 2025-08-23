@@ -14,15 +14,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Kostpriskalkyle - Beregningsmetoder
   </text>
   
-  <!-- Simple method section -->
+
   <rect x="50" y="70" width="320" height="480" fill="url(#simpleGradient)" stroke="#2196f3" stroke-width="3" rx="15"/>
   <text x="210" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1976d2">
     ENKEL KOSTPRISKALKYLE
@@ -31,7 +31,7 @@
     For enkle produkter og tjenester
   </text>
   
-  <!-- Simple method components -->
+
   <rect x="70" y="150" width="280" height="40" fill="white" stroke="#4caf50" stroke-width="2" rx="5"/>
   <text x="90" y="175" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#4caf50">
     Direkte materialer
@@ -64,7 +64,7 @@
     75 kr (18.8%)
   </text>
   
-  <!-- Total for simple method -->
+
   <rect x="70" y="360" width="280" height="50" fill="#2196f3" stroke="#1976d2" stroke-width="3" rx="8"/>
   <text x="90" y="385" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     TOTAL KOSTPRIS
@@ -73,7 +73,7 @@
     400 kr (100%)
   </text>
   
-  <!-- Simple method advantages -->
+
   <text x="210" y="440" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1976d2">
     Fordeler:
   </text>
@@ -90,7 +90,7 @@
     • Rask beregning
   </text>
   
-  <!-- ABC method section -->
+
   <rect x="430" y="70" width="320" height="480" fill="url(#abcGradient)" stroke="#9c27b0" stroke-width="3" rx="15"/>
   <text x="590" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#7b1fa2">
     AKTIVITETSBASERT KALKYLE (ABC)
@@ -99,7 +99,7 @@
     For komplekse produksjonsprosesser
   </text>
   
-  <!-- ABC method activities -->
+
   <rect x="450" y="150" width="280" height="35" fill="white" stroke="#9c27b0" stroke-width="2" rx="5"/>
   <text x="470" y="170" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#9c27b0">
     Innkjøp (2 bestillinger × 500 kr)
@@ -132,7 +132,7 @@
     300 kr
   </text>
   
-  <!-- Total for ABC method -->
+
   <rect x="450" y="340" width="280" height="50" fill="#9c27b0" stroke="#7b1fa2" stroke-width="3" rx="8"/>
   <text x="470" y="365" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     TOTAL KOSTPRIS
@@ -141,7 +141,7 @@
     3.200 kr
   </text>
   
-  <!-- ABC method advantages -->
+
   <text x="590" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#7b1fa2">
     Fordeler:
   </text>
@@ -158,20 +158,20 @@
     • Egnet for komplekse prosesser
   </text>
   
-  <!-- Comparison arrow -->
+
   <path d="M 380 310 L 420 310" stroke="#e74c3c" stroke-width="4" fill="none" marker-end="url(#arrowhead)"/>
   <text x="400" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#e74c3c">
     VS
   </text>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#e74c3c"/>
     </marker>
   </defs>
   
-  <!-- Bottom note -->
+
   <rect x="100" y="570" width="600" height="25" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1" rx="5"/>
   <text x="400" y="587" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
     Valg av metode avhenger av produktkompleksitet og ønsket nøyaktighet

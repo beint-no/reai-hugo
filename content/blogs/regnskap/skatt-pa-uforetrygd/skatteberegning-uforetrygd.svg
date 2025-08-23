@@ -10,15 +10,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8fafc"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
     Skatteberegning på uføretrygd - Detaljert eksempel
   </text>
   
-  <!-- Input section -->
+
   <g transform="translate(50, 70)">
     <rect x="0" y="0" width="300" height="150" rx="10" fill="#e5e7eb" stroke="#9ca3af" stroke-width="2"/>
     <text x="150" y="25" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
@@ -41,14 +41,14 @@
     </text>
   </g>
   
-  <!-- Calculation steps -->
+
   <g transform="translate(400, 70)">
     <rect x="0" y="0" width="350" height="200" rx="10" fill="url(#calcGrad)" stroke="#1e40af" stroke-width="2"/>
     <text x="175" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
       Beregningssteg
     </text>
     
-    <!-- Step 1 -->
+
     <text x="20" y="50" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       1. Trygdeavgift:
     </text>
@@ -56,7 +56,7 @@
       300.000 kr × 5,1% = 15.300 kr
     </text>
     
-    <!-- Step 2 -->
+
     <text x="20" y="95" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       2. Skattegrunnlag:
     </text>
@@ -73,25 +73,25 @@
       = Skattbart beløp: 214.000 kr
     </text>
     
-    <!-- Step 3 -->
+
     <text x="20" y="185" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       3. Ordinær skatt: 214.000 × 22% = 47.080 kr
     </text>
   </g>
   
-  <!-- Tax breakdown chart -->
+
   <g transform="translate(50, 300)">
     <text x="0" y="20" fill="#1f2937" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
       Skattefordeling
     </text>
     
-    <!-- Total income bar -->
+
     <rect x="0" y="40" width="300" height="30" fill="#e5e7eb" stroke="#9ca3af" stroke-width="1"/>
     <text x="10" y="60" fill="#374151" font-family="Arial, sans-serif" font-size="14">
       Brutto uføretrygd: 300.000 kr
     </text>
     
-    <!-- Tax portions -->
+
     <rect x="0" y="80" width="45" height="30" fill="#dc2626"/>
     <text x="50" y="100" fill="#374151" font-family="Arial, sans-serif" font-size="13">
       Trygdeavgift: 15.300 kr (5,1%)
@@ -108,7 +108,7 @@
     </text>
   </g>
   
-  <!-- Monthly breakdown -->
+
   <g transform="translate(450, 300)">
     <text x="0" y="20" fill="#1f2937" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
       Månedlig oversikt
@@ -132,7 +132,7 @@
     </text>
   </g>
   
-  <!-- Comparison with salary -->
+
   <g transform="translate(50, 480)">
     <text x="0" y="20" fill="#1f2937" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       Sammenligning med tilsvarende lønn:

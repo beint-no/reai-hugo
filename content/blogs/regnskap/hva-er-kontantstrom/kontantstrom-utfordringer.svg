@@ -22,22 +22,22 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#333">
     Kontantstrøm Utfordringer
   </text>
   
-  <!-- Challenge 1: Seasonal Variations -->
+
   <rect x="50" y="70" width="340" height="120" fill="url(#seasonalGradient)" rx="15" opacity="0.1"/>
   <rect x="60" y="80" width="320" height="30" fill="url(#seasonalGradient)" rx="5"/>
   <text x="220" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     1. SESONGVARIASJONER
   </text>
   
-  <!-- Seasonal problem and solution -->
+
   <text x="70" y="125" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#E65100">
     Problem:
   </text>
@@ -55,14 +55,14 @@
     • Sesongbasert budsjetting og planlegging
   </text>
   
-  <!-- Challenge 2: Long Payment Terms -->
+
   <rect x="410" y="70" width="340" height="120" fill="url(#paymentGradient)" rx="15" opacity="0.1"/>
   <rect x="420" y="80" width="320" height="30" fill="url(#paymentGradient)" rx="5"/>
   <text x="580" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     2. LANGE BETALINGSBETINGELSER
   </text>
   
-  <!-- Payment problem and solution -->
+
   <text x="430" y="125" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#c62828">
     Problem:
   </text>
@@ -80,14 +80,14 @@
     • Strengere kredittvurdering og factoring
   </text>
   
-  <!-- Challenge 3: Growth Financing -->
+
   <rect x="50" y="210" width="340" height="120" fill="url(#growthGradient)" rx="15" opacity="0.1"/>
   <rect x="60" y="220" width="320" height="30" fill="url(#growthGradient)" rx="5"/>
   <text x="220" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     3. VEKSTFINANSIERING
   </text>
   
-  <!-- Growth problem and solution -->
+
   <text x="70" y="265" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1565C0">
     Problem:
   </text>
@@ -105,14 +105,14 @@
     • Detaljert vekstplanlegging og ekstern finansiering
   </text>
   
-  <!-- Challenge 4: Unexpected Expenses -->
+
   <rect x="410" y="210" width="340" height="120" fill="url(#unexpectedGradient)" rx="15" opacity="0.1"/>
   <rect x="420" y="220" width="320" height="30" fill="url(#unexpectedGradient)" rx="5"/>
   <text x="580" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     4. UFORUTSETTE UTGIFTER
   </text>
   
-  <!-- Unexpected problem and solution -->
+
   <text x="430" y="265" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#6A1B9A">
     Problem:
   </text>
@@ -130,13 +130,13 @@
     • Kontantreserver og forsikringsdekning
   </text>
   
-  <!-- Comprehensive Solutions Section -->
+
   <rect x="50" y="350" width="700" height="180" fill="url(#solutionsGradient)" rx="15"/>
   <text x="400" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
     OMFATTENDE LØSNINGSSTRATEGIER
   </text>
   
-  <!-- Solution categories -->
+
   <rect x="80" y="400" width="150" height="110" fill="rgba(255,255,255,0.2)" rx="8"/>
   <text x="155" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Proaktiv Planlegging
@@ -205,7 +205,7 @@
     • Beredskapsplaner
   </text>
   
-  <!-- Warning Signs -->
+
   <rect x="50" y="550" width="700" height="40" fill="#fff3e0" stroke="#FF9800" stroke-width="2" rx="10"/>
   <text x="400" y="570" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#E65100">
     Varseltegn på Kontantstrømproblemer
@@ -214,13 +214,13 @@
     • Økende kundefordringer • Forsinket betaling til leverandører • Reduserte kontantreserver • Hyppig bruk av kassekreditt
   </text>
   
-  <!-- Connection arrows -->
+
   <path d="M 220 200 L 400 350" stroke="#FF9800" stroke-width="2" fill="none" marker-end="url(#arrowOrange)"/>
   <path d="M 580 200 L 400 350" stroke="#f44336" stroke-width="2" fill="none" marker-end="url(#arrowRed)"/>
   <path d="M 220 340 L 400 350" stroke="#2196F3" stroke-width="2" fill="none" marker-end="url(#arrowBlue)"/>
   <path d="M 580 340 L 400 350" stroke="#9C27B0" stroke-width="2" fill="none" marker-end="url(#arrowPurple)"/>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="arrowOrange" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#FF9800"/>

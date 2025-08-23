@@ -14,23 +14,23 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
     Tekniske Utfordringer og Løsninger
   </text>
   
-  <!-- Dividing line -->
+
   <line x1="400" y1="50" x2="400" y2="580" stroke="#6c757d" stroke-width="2" stroke-dasharray="5,5"/>
   
-  <!-- Challenges Side -->
+
   <text x="200" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#dc3545">
     UTFORDRINGER
   </text>
   
-  <!-- Challenge 1: Legacy Systems -->
+
   <rect x="50" y="90" width="300" height="80" rx="10" fill="url(#challengeGradient)" stroke="#c82333" stroke-width="2"/>
   <text x="200" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     LEGACY-SYSTEMER
@@ -45,7 +45,7 @@
     • Begrenset integrasjonsmuligheter
   </text>
   
-  <!-- Challenge 2: Data Compatibility -->
+
   <rect x="50" y="190" width="300" height="80" rx="10" fill="url(#challengeGradient)" stroke="#c82333" stroke-width="2"/>
   <text x="200" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     DATAKOMPATIBILITET
@@ -60,7 +60,7 @@
     • Kompleks datamapping
   </text>
   
-  <!-- Challenge 3: Performance -->
+
   <rect x="50" y="290" width="300" height="80" rx="10" fill="url(#challengeGradient)" stroke="#c82333" stroke-width="2"/>
   <text x="200" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     YTELSE &amp; STABILITET
@@ -75,7 +75,7 @@
     • Høyt datavolum
   </text>
   
-  <!-- Challenge 4: Security -->
+
   <rect x="50" y="390" width="300" height="80" rx="10" fill="url(#challengeGradient)" stroke="#c82333" stroke-width="2"/>
   <text x="200" y="415" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     SIKKERHET &amp; COMPLIANCE
@@ -90,7 +90,7 @@
     • Tilgangskontroll
   </text>
   
-  <!-- Challenge 5: Organizational -->
+
   <rect x="50" y="490" width="300" height="80" rx="10" fill="url(#challengeGradient)" stroke="#c82333" stroke-width="2"/>
   <text x="200" y="515" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     ORGANISATORISKE UTFORDRINGER
@@ -105,12 +105,12 @@
     • Leverandøravhengighet
   </text>
   
-  <!-- Solutions Side -->
+
   <text x="600" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#28a745">
     LØSNINGER
   </text>
   
-  <!-- Solution 1: Modernization -->
+
   <rect x="450" y="90" width="300" height="80" rx="10" fill="url(#solutionGradient)" stroke="#1e7e34" stroke-width="2"/>
   <text x="600" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     SYSTEMMODERNISERING
@@ -125,7 +125,7 @@
     • Middleware-løsninger
   </text>
   
-  <!-- Solution 2: Data Integration -->
+
   <rect x="450" y="190" width="300" height="80" rx="10" fill="url(#solutionGradient)" stroke="#1e7e34" stroke-width="2"/>
   <text x="600" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     DATAINTEGRASJON
@@ -140,7 +140,7 @@
     • ETL-prosesser (Extract, Transform, Load)
   </text>
   
-  <!-- Solution 3: Performance Optimization -->
+
   <rect x="450" y="290" width="300" height="80" rx="10" fill="url(#solutionGradient)" stroke="#1e7e34" stroke-width="2"/>
   <text x="600" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     YTELSESOPTIMALISERING
@@ -155,7 +155,7 @@
     • Asynkron databehandling
   </text>
   
-  <!-- Solution 4: Security Framework -->
+
   <rect x="450" y="390" width="300" height="80" rx="10" fill="url(#solutionGradient)" stroke="#1e7e34" stroke-width="2"/>
   <text x="600" y="415" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     SIKKERHETSRAMMEVERK
@@ -170,7 +170,7 @@
     • Kontinuerlig overvåking
   </text>
   
-  <!-- Solution 5: Change Management -->
+
   <rect x="450" y="490" width="300" height="80" rx="10" fill="url(#solutionGradient)" stroke="#1e7e34" stroke-width="2"/>
   <text x="600" y="515" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     ENDRINGSLEDELSE
@@ -185,7 +185,7 @@
     • Leverandørdiversifisering
   </text>
   
-  <!-- Arrows from challenges to solutions -->
+
   <defs>
     <marker id="solutionArrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#28a745"/>

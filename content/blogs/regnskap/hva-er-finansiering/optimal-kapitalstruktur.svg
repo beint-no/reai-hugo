@@ -6,64 +6,64 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#333">
     Optimal Kapitalstruktur
   </text>
   
-  <!-- Chart area -->
+
   <rect x="100" y="80" width="600" height="320" fill="white" stroke="#dee2e6" stroke-width="2" rx="5"/>
   
-  <!-- Y-axis -->
+
   <line x1="120" y1="100" x2="120" y2="380" stroke="#333" stroke-width="2"/>
   
-  <!-- X-axis -->
+
   <line x1="120" y1="380" x2="680" y2="380" stroke="#333" stroke-width="2"/>
   
-  <!-- Y-axis label -->
+
   <text x="50" y="240" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#333" transform="rotate(-90, 50, 240)">
     Bedriftsverdi / Kapitalkostnad
   </text>
   
-  <!-- X-axis label -->
+
   <text x="400" y="420" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#333">
     Gjeldsgrad (Gjeld / Total Kapital)
   </text>
   
-  <!-- X-axis scale -->
+
   <text x="120" y="395" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666">0%</text>
   <text x="260" y="395" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666">25%</text>
   <text x="400" y="395" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666">50%</text>
   <text x="540" y="395" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666">75%</text>
   <text x="680" y="395" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666">100%</text>
   
-  <!-- Grid lines -->
+
   <line x1="260" y1="100" x2="260" y2="380" stroke="#e0e0e0" stroke-width="1"/>
   <line x1="400" y1="100" x2="400" y2="380" stroke="#e0e0e0" stroke-width="1"/>
   <line x1="540" y1="100" x2="540" y2="380" stroke="#e0e0e0" stroke-width="1"/>
   <line x1="680" y1="100" x2="680" y2="380" stroke="#e0e0e0" stroke-width="1"/>
   
-  <!-- Bedriftsverdi curve (inverted U-shape) -->
+
   <path d="M 120 300 Q 200 180 300 160 Q 400 150 500 160 Q 600 180 680 300" 
         stroke="#4caf50" stroke-width="4" fill="none"/>
   
-  <!-- WACC curve (U-shape) -->
+
   <path d="M 120 200 Q 200 320 300 340 Q 400 350 500 340 Q 600 320 680 200" 
         stroke="#f44336" stroke-width="4" fill="none"/>
   
-  <!-- Optimal point -->
+
   <circle cx="400" cy="150" r="8" fill="#ff9800" stroke="white" stroke-width="3"/>
   <text x="400" y="135" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#ff9800">
     Optimal punkt
   </text>
   
-  <!-- Vertical line at optimal point -->
+
   <line x1="400" y1="150" x2="400" y2="380" stroke="#ff9800" stroke-width="2" stroke-dasharray="5,5"/>
   
-  <!-- Legend -->
+
   <rect x="500" y="100" width="180" height="80" fill="white" stroke="#ccc" stroke-width="1" rx="5"/>
   <text x="590" y="120" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#333">
     Forklaring
@@ -84,7 +84,7 @@
     Optimalt punkt
   </text>
   
-  <!-- Benefits and costs boxes -->
+
   <rect x="50" y="430" width="340" height="60" fill="#e8f5e8" stroke="#4caf50" stroke-width="2" rx="5"/>
   <text x="220" y="450" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#2e7d32">
     Fordeler ved Gjeld (Skattefordeler)
@@ -107,11 +107,11 @@
     • Høyere rentekrav fra långivere
   </text>
   
-  <!-- Arrows pointing to optimal point -->
+
   <path d="M 220 430 Q 300 350 380 170" stroke="#4caf50" stroke-width="2" fill="none" marker-end="url(#arrowGreen)"/>
   <path d="M 580 430 Q 500 350 420 170" stroke="#f44336" stroke-width="2" fill="none" marker-end="url(#arrowRed)"/>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="arrowGreen" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#4caf50"/>

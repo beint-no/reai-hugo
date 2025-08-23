@@ -14,15 +14,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
     Arbeidsgiveravgift i A-melding Prosessen
   </text>
   
-  <!-- Step 1: Payroll calculation -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="150" height="80" fill="url(#stepGradient)" stroke="#333" stroke-width="2" rx="10"/>
     <text x="75" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
@@ -36,13 +36,13 @@
     </text>
   </g>
   
-  <!-- Arrow 1 -->
+
   <g transform="translate(220, 115)">
     <line x1="0" y1="0" x2="60" y2="0" stroke="#666" stroke-width="3"/>
     <polygon points="55,-5 65,0 55,5" fill="#666"/>
   </g>
   
-  <!-- Step 2: A-melding preparation -->
+
   <g transform="translate(300, 80)">
     <rect x="0" y="0" width="150" height="80" fill="url(#stepGradient)" stroke="#333" stroke-width="2" rx="10"/>
     <text x="75" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
@@ -56,13 +56,13 @@
     </text>
   </g>
   
-  <!-- Arrow 2 -->
+
   <g transform="translate(470, 115)">
     <line x1="0" y1="0" x2="60" y2="0" stroke="#666" stroke-width="3"/>
     <polygon points="55,-5 65,0 55,5" fill="#666"/>
   </g>
   
-  <!-- Step 3: Altinn submission -->
+
   <g transform="translate(550, 80)">
     <rect x="0" y="0" width="150" height="80" fill="url(#stepGradient)" stroke="#333" stroke-width="2" rx="10"/>
     <text x="75" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
@@ -76,13 +76,13 @@
     </text>
   </g>
   
-  <!-- Data flow down -->
+
   <g transform="translate(625, 180)">
     <line x1="0" y1="0" x2="0" y2="60" stroke="#666" stroke-width="3"/>
     <polygon points="-5,55 0,65 5,55" fill="#666"/>
   </g>
   
-  <!-- Government systems -->
+
   <g transform="translate(400, 260)">
     <rect x="0" y="0" width="300" height="100" fill="url(#systemGradient)" stroke="#333" stroke-width="2" rx="10"/>
     <text x="150" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
@@ -99,7 +99,7 @@
     </text>
   </g>
   
-  <!-- Payment flow -->
+
   <g transform="translate(50, 200)">
     <rect x="0" y="0" width="300" height="120" fill="white" stroke="#dc3545" stroke-width="2" rx="10"/>
     <text x="150" y="25" text-anchor="middle" fill="#dc3545" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
@@ -128,7 +128,7 @@
     </g>
   </g>
   
-  <!-- Data components -->
+
   <g transform="translate(50, 380)">
     <rect x="0" y="0" width="700" height="100" fill="white" stroke="#0066cc" stroke-width="2" rx="10"/>
     <text x="350" y="25" text-anchor="middle" fill="#0066cc" font-family="Arial, sans-serif" font-size="16" font-weight="bold">

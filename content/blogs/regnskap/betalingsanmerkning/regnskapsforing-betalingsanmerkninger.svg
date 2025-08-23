@@ -14,21 +14,21 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8fafc"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1e293b">
     Regnskapsføring av Betalingsanmerkninger
   </text>
   
-  <!-- Creditor section -->
+
   <rect x="50" y="80" width="320" height="460" rx="10" fill="url(#creditorGradient)" stroke="#1e40af" stroke-width="2"/>
   <text x="210" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
     KREDITOR (Selger)
   </text>
   
-  <!-- Initial invoice -->
+
   <rect x="70" y="130" width="280" height="70" rx="5" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.3)" stroke-width="1"/>
   <text x="210" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     VED FAKTURAUTSTEDELSE
@@ -40,7 +40,7 @@
     Kr. 3000 Salgsinntekt                  50.000
   </text>
   
-  <!-- Collection warning -->
+
   <rect x="70" y="220" width="280" height="70" rx="5" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.3)" stroke-width="1"/>
   <text x="210" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     VED INKASSOVARSEL
@@ -52,7 +52,7 @@
     Kr. 3900 Annen driftsinntekt         5.000
   </text>
   
-  <!-- Payment remark -->
+
   <rect x="70" y="310" width="280" height="100" rx="5" fill="rgba(255,255,255,0.3)" stroke="rgba(255,255,255,0.4)" stroke-width="1"/>
   <text x="210" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     VED BETALINGSANMERKNING
@@ -70,7 +70,7 @@
     (50% nedskrivning)
   </text>
   
-  <!-- Final settlement -->
+
   <rect x="70" y="430" width="280" height="90" rx="5" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.3)" stroke-width="1"/>
   <text x="210" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     VED OPPGJØR (40.000 kr)
@@ -88,13 +88,13 @@
     Kr. 6800 Tap på kundefordring        12.500
   </text>
   
-  <!-- Debtor section -->
+
   <rect x="430" y="80" width="320" height="460" rx="10" fill="url(#debtorGradient)" stroke="#b91c1c" stroke-width="2"/>
   <text x="590" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
     DEBITOR (Kjøper)
   </text>
   
-  <!-- Original purchase -->
+
   <rect x="450" y="130" width="280" height="70" rx="5" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.3)" stroke-width="1"/>
   <text x="590" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     VED VAREMOTTAK
@@ -106,7 +106,7 @@
     Kr. 2400 Leverandørgjeld           50.000
   </text>
   
-  <!-- Accrued interest -->
+
   <rect x="450" y="220" width="280" height="100" rx="5" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.3)" stroke-width="1"/>
   <text x="590" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     PÅLØPTE RENTER &amp; GEBYRER
@@ -124,7 +124,7 @@
     (2,5% årlig forsinkelsesrente)
   </text>
   
-  <!-- Payment remark impact -->
+
   <rect x="450" y="340" width="280" height="100" rx="5" fill="rgba(255,255,255,0.3)" stroke="rgba(255,255,255,0.4)" stroke-width="1"/>
   <text x="590" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     VED BETALINGSANMERKNING
@@ -142,7 +142,7 @@
     • Påvirkning på fremtidig drift
   </text>
   
-  <!-- Final payment -->
+
   <rect x="450" y="460" width="280" height="70" rx="5" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.3)" stroke-width="1"/>
   <text x="590" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     VED OPPGJØR
@@ -157,7 +157,7 @@
     Kr. 8050 Gjeldsettergvelse           15.000
   </text>
   
-  <!-- Bottom summary -->
+
   <rect x="50" y="560" width="700" height="30" rx="5" fill="url(#processGradient)"/>
   <text x="400" y="580" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Korrekt regnskapsføring sikrer rettvisende fremstilling av kredittrisiko og økonomiske konsekvenser

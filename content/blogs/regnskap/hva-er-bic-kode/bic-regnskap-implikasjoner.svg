@@ -21,26 +21,26 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#2c3e50">Regnskapsmessige Implikasjoner av BIC-koder</text>
   <text x="400" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#7f8c8d">Påvirkning på bokføring og internkontroll</text>
   
-  <!-- Central BIC Code -->
+
   <g transform="translate(325, 90)">
     <circle cx="75" cy="50" r="40" fill="url(#accountingGradient)" filter="url(#shadow)"/>
     <text x="75" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">BIC-kode</text>
     <text x="75" y="60" text-anchor="middle" font-family="Monaco, monospace" font-size="10" fill="white">DNBANOKKXXX</text>
   </g>
   
-  <!-- Documentation Branch -->
+
   <g transform="translate(50, 200)">
     <rect x="0" y="0" width="200" height="120" rx="10" fill="url(#documentGradient)" filter="url(#shadow)"/>
     <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">Dokumentasjon</text>
     
-    <!-- Document icon -->
+
     <rect x="20" y="40" width="30" height="40" rx="3" fill="rgba(255,255,255,0.3)"/>
     <rect x="25" y="45" width="20" height="2" fill="white"/>
     <rect x="25" y="50" width="15" height="2" fill="white"/>
@@ -53,12 +53,12 @@
     <text x="70" y="95" font-family="Arial, sans-serif" font-size="12" fill="white">• Transaksjonshistorikk</text>
   </g>
   
-  <!-- Compliance Branch -->
+
   <g transform="translate(550, 200)">
     <rect x="0" y="0" width="200" height="120" rx="10" fill="url(#complianceGradient)" filter="url(#shadow)"/>
     <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">Compliance</text>
     
-    <!-- Shield icon -->
+
     <path d="M 20 40 L 35 35 L 50 40 L 50 65 L 35 75 L 20 65 Z" fill="rgba(255,255,255,0.3)"/>
     <text x="35" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">✓</text>
     
@@ -68,12 +68,12 @@
     <text x="70" y="95" font-family="Arial, sans-serif" font-size="12" fill="white">• Rapportering</text>
   </g>
   
-  <!-- Currency Handling -->
+
   <g transform="translate(150, 360)">
     <rect x="0" y="0" width="180" height="100" rx="8" fill="#f39c12" opacity="0.9" filter="url(#shadow)"/>
     <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Valutahåndtering</text>
     
-    <!-- Currency symbols -->
+
     <text x="30" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="white">€</text>
     <text x="60" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="white">$</text>
     <text x="90" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="white">£</text>
@@ -84,12 +84,12 @@
     <text x="90" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">Periodisering</text>
   </g>
   
-  <!-- Risk Management -->
+
   <g transform="translate(470, 360)">
     <rect x="0" y="0" width="180" height="100" rx="8" fill="#e74c3c" opacity="0.9" filter="url(#shadow)"/>
     <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Risikostyring</text>
     
-    <!-- Warning triangle -->
+
     <path d="M 40 40 L 50 60 L 30 60 Z" fill="rgba(255,255,255,0.3)"/>
     <text x="40" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">!</text>
     
@@ -99,17 +99,17 @@
     <text x="70" y="95" font-family="Arial, sans-serif" font-size="11" fill="white">• Kontrollrutiner</text>
   </g>
   
-  <!-- Connecting lines from central BIC -->
+
   <line x1="365" y1="130" x2="150" y2="200" stroke="#bdc3c7" stroke-width="2" stroke-dasharray="5,5"/>
   <line x1="435" y1="130" x2="650" y2="200" stroke="#bdc3c7" stroke-width="2" stroke-dasharray="5,5"/>
   <line x1="400" y1="160" x2="240" y2="360" stroke="#bdc3c7" stroke-width="2" stroke-dasharray="5,5"/>
   <line x1="400" y1="160" x2="560" y2="360" stroke="#bdc3c7" stroke-width="2" stroke-dasharray="5,5"/>
   
-  <!-- Process Flow -->
+
   <g transform="translate(50, 500)">
     <text x="0" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">Regnskapsprosess med BIC-koder:</text>
     
-    <!-- Step boxes -->
+
     <rect x="0" y="30" width="120" height="40" rx="5" fill="#3498db" opacity="0.8"/>
     <text x="60" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">1. Identifikasjon</text>
     <text x="60" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Verifiser BIC</text>
@@ -130,7 +130,7 @@
     <text x="620" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">5. Rapportering</text>
     <text x="620" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Myndighetskrav</text>
     
-    <!-- Arrows between steps -->
+
     <defs>
       <marker id="processArrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
         <polygon points="0 0, 8 3, 0 6" fill="#2c3e50" />

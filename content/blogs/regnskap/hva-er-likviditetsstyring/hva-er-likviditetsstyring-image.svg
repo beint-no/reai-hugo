@@ -14,17 +14,17 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#2c3e50">
     Likviditetsstyring og Kontantstrømanalyse
   </text>
   
-  <!-- Central flow diagram -->
+
   <g transform="translate(50, 80)">
-    <!-- Cash Flow In -->
+
     <rect x="50" y="50" width="150" height="80" rx="10" fill="url(#greenGradient)" stroke="#1e7e34" stroke-width="2"/>
     <text x="125" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
       Kontantstrøm Inn
@@ -36,7 +36,7 @@
       • Lånopptak
     </text>
     
-    <!-- Liquidity Management Center -->
+
     <rect x="300" y="30" width="200" height="120" rx="15" fill="url(#blueGradient)" stroke="#004499" stroke-width="3"/>
     <text x="400" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
       LIKVIDITETSSTYRING
@@ -54,7 +54,7 @@
       • Optimalisering
     </text>
     
-    <!-- Cash Flow Out -->
+
     <rect x="550" y="50" width="150" height="80" rx="10" fill="#dc3545" stroke="#c82333" stroke-width="2"/>
     <text x="625" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
       Kontantstrøm Ut
@@ -66,14 +66,14 @@
       • Lønnskostnader
     </text>
     
-    <!-- Arrows -->
+
     <path d="M 200 90 L 290 90" stroke="#2c3e50" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
     <path d="M 510 90 L 540 90" stroke="#2c3e50" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   </g>
   
-  <!-- Key Components -->
+
   <g transform="translate(50, 250)">
-    <!-- Working Capital -->
+
     <rect x="0" y="0" width="160" height="100" rx="8" fill="#f8f9fa" stroke="#6c757d" stroke-width="2"/>
     <text x="80" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
       Arbeidskapital
@@ -88,7 +88,7 @@
       • Leverandørgjeld
     </text>
     
-    <!-- Cash Reserves -->
+
     <rect x="200" y="0" width="160" height="100" rx="8" fill="#f8f9fa" stroke="#6c757d" stroke-width="2"/>
     <text x="280" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
       Likviditetsreserver
@@ -103,7 +103,7 @@
       • Kortsiktige invest.
     </text>
     
-    <!-- Risk Management -->
+
     <rect x="400" y="0" width="160" height="100" rx="8" fill="#f8f9fa" stroke="#6c757d" stroke-width="2"/>
     <text x="480" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
       Risikostyring
@@ -118,7 +118,7 @@
       • Operasjonell risiko
     </text>
     
-    <!-- Planning -->
+
     <rect x="590" y="0" width="160" height="100" rx="8" fill="#f8f9fa" stroke="#6c757d" stroke-width="2"/>
     <text x="670" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
       Planlegging
@@ -134,7 +134,7 @@
     </text>
   </g>
   
-  <!-- Key Metrics -->
+
   <g transform="translate(50, 380)">
     <text x="0" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
       Viktige Nøkkeltall:
@@ -153,7 +153,7 @@
     </text>
   </g>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#2c3e50"/>

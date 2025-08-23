@@ -12,19 +12,19 @@
   
   <rect width="800" height="600" fill="#f8fafc"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e40af">
     Sikkerhetstiltak for Virksomhetsnummer
   </text>
   
-  <!-- Threat section -->
+
   <rect x="50" y="70" width="340" height="240" fill="white" stroke="#dc2626" stroke-width="2" rx="10"/>
   <rect x="50" y="70" width="340" height="40" fill="url(#securityGrad)" rx="10 10 0 0"/>
   <text x="220" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
     Sikkerhetstrusler
   </text>
   
-  <!-- Threat 1: Identity theft -->
+
   <rect x="70" y="130" width="300" height="40" fill="#fef2f2" stroke="#fca5a5" stroke-width="1" rx="5"/>
   <text x="80" y="145" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#991b1b">
     Identitetstyveri
@@ -33,7 +33,7 @@
     Bruk av virksomhetsnummer for å opprette falske fakturaer eller kontrakter
   </text>
   
-  <!-- Threat 2: Fraud -->
+
   <rect x="70" y="180" width="300" height="40" fill="#fef2f2" stroke="#fca5a5" stroke-width="1" rx="5"/>
   <text x="80" y="195" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#991b1b">
     Svindel og bedrageri
@@ -42,7 +42,7 @@
     Utgiring for å være en etablert virksomhet for å lure kunder eller leverandører
   </text>
   
-  <!-- Threat 3: Credit fraud -->
+
   <rect x="70" y="230" width="300" height="40" fill="#fef2f2" stroke="#fca5a5" stroke-width="1" rx="5"/>
   <text x="80" y="245" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#991b1b">
     Kredittsvindel
@@ -51,20 +51,20 @@
     Søke kreditt eller etablere forretningsforbindelser i andres navn
   </text>
   
-  <!-- Threat 4: Unauthorized changes -->
+
   <rect x="70" y="280" width="300" height="25" fill="#fef2f2" stroke="#fca5a5" stroke-width="1" rx="5"/>
   <text x="80" y="295" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#991b1b">
     Uautoriserte endringer i registrene
   </text>
   
-  <!-- Protection section -->
+
   <rect x="410" y="70" width="340" height="240" fill="white" stroke="#059669" stroke-width="2" rx="10"/>
   <rect x="410" y="70" width="340" height="40" fill="url(#protectionGrad)" rx="10 10 0 0"/>
   <text x="580" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
     Beskyttelsestiltak
   </text>
   
-  <!-- Protection 1: Monitor -->
+
   <rect x="430" y="130" width="300" height="40" fill="#f0fdf4" stroke="#86efac" stroke-width="1" rx="5"/>
   <text x="440" y="145" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#047857">
     Overvåk bruken regelmessig
@@ -73,7 +73,7 @@
     Sjekk offentlige registre månedlig for uautoriserte endringer
   </text>
   
-  <!-- Protection 2: 2FA -->
+
   <rect x="430" y="180" width="300" height="40" fill="#f0fdf4" stroke="#86efac" stroke-width="1" rx="5"/>
   <text x="440" y="195" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#047857">
     Implementer tofaktorautentisering
@@ -82,7 +82,7 @@
     Sikre tilgang til Altinn og andre digitale tjenester med 2FA
   </text>
   
-  <!-- Protection 3: Limit access -->
+
   <rect x="430" y="230" width="300" height="40" fill="#f0fdf4" stroke="#86efac" stroke-width="1" rx="5"/>
   <text x="440" y="245" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#047857">
     Begre sys tilgang til kritisk informasjon
@@ -91,19 +91,19 @@
     Kun autorisert personell skal ha tilgang til virksomhetsregistrering
   </text>
   
-  <!-- Protection 4: Alert system -->
+
   <rect x="430" y="280" width="300" height="25" fill="#f0fdf4" stroke="#86efac" stroke-width="1" rx="5"/>
   <text x="440" y="295" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#047857">
     Sett opp varsler ved endringer i registrene
   </text>
   
-  <!-- Best practices -->
+
   <rect x="50" y="330" width="700" height="180" fill="white" stroke="#3b82f6" stroke-width="2" rx="10"/>
   <text x="400" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1e40af">
     Beste Praksis for Sikkerhet
   </text>
   
-  <!-- Left column -->
+
   <text x="80" y="385" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#374151">
     Forebyggende tiltak:
   </text>
@@ -126,7 +126,7 @@
     ✓ Hold programvare og systemer oppdatert
   </text>
   
-  <!-- Right column -->
+
   <text x="420" y="385" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#374151">
     Ved mistanke om misbruk:
   </text>
@@ -149,7 +149,7 @@
     ⚠ Vurder juridisk bistand hvis nødvendig
   </text>
   
-  <!-- Alert box -->
+
   <rect x="50" y="520" width="700" height="60" fill="#fef3c7" stroke="#f59e0b" stroke-width="2" rx="8"/>
   <text x="400" y="545" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#92400e">
     ⚠ VIKTIG: Virksomhetsnummer er offentlig informasjon

@@ -9,13 +9,13 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" fill="#1e293b" font-family="Arial, sans-serif" font-size="24" font-weight="bold">Likviditetsnøkkeltall</text>
   
-  <!-- Likviditetsgrad 1 -->
+
   <rect x="50" y="80" width="220" height="150" fill="white" stroke="#3b82f6" stroke-width="2" rx="10" filter="url(#shadow)"/>
   <rect x="50" y="80" width="220" height="40" fill="#3b82f6" rx="10"/>
   <text x="160" y="105" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Likviditetsgrad 1</text>
@@ -28,7 +28,7 @@
   <text x="160" y="210" text-anchor="middle" fill="#475569" font-family="Arial, sans-serif" font-size="11">Evne til å dekke</text>
   <text x="160" y="225" text-anchor="middle" fill="#475569" font-family="Arial, sans-serif" font-size="11">kortsiktig gjeld</text>
   
-  <!-- Likviditetsgrad 2 -->
+
   <rect x="290" y="80" width="220" height="150" fill="white" stroke="#22c55e" stroke-width="2" rx="10" filter="url(#shadow)"/>
   <rect x="290" y="80" width="220" height="40" fill="#22c55e" rx="10"/>
   <text x="400" y="105" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Likviditetsgrad 2</text>
@@ -41,7 +41,7 @@
   <text x="400" y="210" text-anchor="middle" fill="#475569" font-family="Arial, sans-serif" font-size="11">Evne til å dekke gjeld</text>
   <text x="400" y="225" text-anchor="middle" fill="#475569" font-family="Arial, sans-serif" font-size="11">uten salg av lager</text>
   
-  <!-- Kontantgrad -->
+
   <rect x="530" y="80" width="220" height="150" fill="white" stroke="#f59e0b" stroke-width="2" rx="10" filter="url(#shadow)"/>
   <rect x="530" y="80" width="220" height="40" fill="#f59e0b" rx="10"/>
   <text x="640" y="105" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Kontantgrad</text>
@@ -55,11 +55,11 @@
   <text x="640" y="210" text-anchor="middle" fill="#475569" font-family="Arial, sans-serif" font-size="11">Umiddelbar</text>
   <text x="640" y="225" text-anchor="middle" fill="#475569" font-family="Arial, sans-serif" font-size="11">betalingsevne</text>
   
-  <!-- Example calculation -->
+
   <rect x="50" y="260" width="700" height="180" fill="white" stroke="#cbd5e1" stroke-width="2" rx="10" filter="url(#shadow)"/>
   <text x="400" y="285" text-anchor="middle" fill="#1e293b" font-family="Arial, sans-serif" font-size="18" font-weight="bold">Eksempel på Beregning</text>
   
-  <!-- Balance sheet data -->
+
   <rect x="70" y="300" width="200" height="120" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1" rx="5"/>
   <text x="170" y="320" text-anchor="middle" fill="#1e293b" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Balansedata</text>
   <text x="80" y="340" fill="#475569" font-family="Arial, sans-serif" font-size="12">Kontanter: 500 000</text>
@@ -68,7 +68,7 @@
   <text x="80" y="385" fill="#475569" font-family="Arial, sans-serif" font-size="12">Kortsiktig gjeld: 1 000 000</text>
   <text x="80" y="405" fill="#1e293b" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Omløpsmidler: 2 500 000</text>
   
-  <!-- Calculations -->
+
   <rect x="290" y="300" width="200" height="120" fill="#f0f9ff" stroke="#bae6fd" stroke-width="1" rx="5"/>
   <text x="390" y="320" text-anchor="middle" fill="#1e293b" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Likviditetsgrad 1</text>
   <text x="300" y="340" fill="#0369a1" font-family="Arial, sans-serif" font-size="12">2 500 000 / 1 000 000</text>
@@ -84,7 +84,7 @@
   <text x="520" y="395" fill="#059669" font-family="Arial, sans-serif" font-size="11">✓ Akseptabel likviditet</text>
   <text x="520" y="410" fill="#475569" font-family="Arial, sans-serif" font-size="10">Uten å selge varelager</text>
   
-  <!-- Warning indicators -->
+
   <rect x="50" y="460" width="700" height="120" fill="#fef2f2" stroke="#fecaca" stroke-width="1" rx="10"/>
   <text x="400" y="485" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="16" font-weight="bold">⚠️ Varselsignaler</text>
   

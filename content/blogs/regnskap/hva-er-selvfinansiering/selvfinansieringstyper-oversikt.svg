@@ -14,22 +14,22 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#1e293b">
     Typer Selvfinansiering
   </text>
   
-  <!-- Main division line -->
+
   <line x1="400" y1="70" x2="400" y2="550" stroke="#64748b" stroke-width="2" stroke-dasharray="5,5"/>
   
-  <!-- Internal Self-Financing Section -->
+
   <g transform="translate(20, 80)">
     <rect x="0" y="0" width="360" height="460" fill="#ecfdf5" stroke="#10b981" stroke-width="3" rx="15"/>
     
-    <!-- Section header -->
+
     <rect x="20" y="20" width="320" height="50" fill="url(#internGradient)" rx="10"/>
     <text x="180" y="35" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
       Intern Selvfinansiering
@@ -38,7 +38,7 @@
       Midler fra bedriftens egen drift
     </text>
     
-    <!-- Tilbakeholdt overskudd -->
+
     <g transform="translate(30, 100)">
       <rect x="0" y="0" width="300" height="70" fill="#d1fae5" stroke="#16a34a" stroke-width="2" rx="8"/>
       <circle cx="30" cy="25" r="18" fill="#22c55e"/>
@@ -58,7 +58,7 @@
       </text>
     </g>
     
-    <!-- Avskrivninger -->
+
     <g transform="translate(30, 190)">
       <rect x="0" y="0" width="300" height="70" fill="#d1fae5" stroke="#16a34a" stroke-width="2" rx="8"/>
       <circle cx="30" cy="25" r="18" fill="#22c55e"/>
@@ -78,7 +78,7 @@
       </text>
     </g>
     
-    <!-- Arbeidskapitaloptimalisering -->
+
     <g transform="translate(30, 280)">
       <rect x="0" y="0" width="300" height="70" fill="#d1fae5" stroke="#16a34a" stroke-width="2" rx="8"/>
       <circle cx="30" cy="25" r="18" fill="#22c55e"/>
@@ -98,7 +98,7 @@
       </text>
     </g>
     
-    <!-- Avsetninger -->
+
     <g transform="translate(30, 370)">
       <rect x="0" y="0" width="300" height="70" fill="#d1fae5" stroke="#16a34a" stroke-width="2" rx="8"/>
       <circle cx="30" cy="25" r="18" fill="#22c55e"/>
@@ -119,11 +119,11 @@
     </g>
   </g>
   
-  <!-- External Self-Financing Section -->
+
   <g transform="translate(420, 80)">
     <rect x="0" y="0" width="360" height="460" fill="#eff6ff" stroke="#3b82f6" stroke-width="3" rx="15"/>
     
-    <!-- Section header -->
+
     <rect x="20" y="20" width="320" height="50" fill="url(#eksternGradient)" rx="10"/>
     <text x="180" y="35" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
       Ekstern Selvfinansiering
@@ -132,7 +132,7 @@
       Egenkapitaltilførsel fra eierne
     </text>
     
-    <!-- Kapitalforhøyelse -->
+
     <g transform="translate(30, 100)">
       <rect x="0" y="0" width="300" height="70" fill="#dbeafe" stroke="#2563eb" stroke-width="2" rx="8"/>
       <circle cx="30" cy="25" r="18" fill="#3b82f6"/>
@@ -152,7 +152,7 @@
       </text>
     </g>
     
-    <!-- Ny egenkapital -->
+
     <g transform="translate(30, 190)">
       <rect x="0" y="0" width="300" height="70" fill="#dbeafe" stroke="#2563eb" stroke-width="2" rx="8"/>
       <circle cx="30" cy="25" r="18" fill="#3b82f6"/>
@@ -172,7 +172,7 @@
       </text>
     </g>
     
-    <!-- Konvertibel finansiering -->
+
     <g transform="translate(30, 280)">
       <rect x="0" y="0" width="300" height="70" fill="#dbeafe" stroke="#2563eb" stroke-width="2" rx="8"/>
       <circle cx="30" cy="25" r="18" fill="#3b82f6"/>
@@ -192,7 +192,7 @@
       </text>
     </g>
     
-    <!-- Eierinnskudd -->
+
     <g transform="translate(30, 370)">
       <rect x="0" y="0" width="300" height="70" fill="#dbeafe" stroke="#2563eb" stroke-width="2" rx="8"/>
       <circle cx="30" cy="25" r="18" fill="#3b82f6"/>
@@ -213,7 +213,7 @@
     </g>
   </g>
   
-  <!-- Bottom comparison -->
+
   <rect x="50" y="565" width="700" height="25" fill="#f1f5f9" stroke="#64748b" stroke-width="1" rx="5"/>
   <text x="400" y="580" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#1e293b">
     Begge typer øker egenkapitalen, men intern selvfinansiering krever ikke nye investorer

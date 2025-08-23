@@ -9,10 +9,10 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="700" height="500" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1"/>
   
-  <!-- Central circle - Næringsspesifikasjon -->
+
   <circle cx="350" cy="250" r="80" fill="url(#centerGradient)" stroke="#003366" stroke-width="3" filter="url(#shadow)"/>
   <text x="350" y="240" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
     Nærings-
@@ -21,7 +21,7 @@
     spesifikasjon
   </text>
   
-  <!-- NACE-koder (top left) -->
+
   <rect x="80" y="80" width="140" height="100" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="8" filter="url(#shadow)"/>
   <text x="150" y="110" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#1976d2">
     NACE-Koder
@@ -36,7 +36,7 @@
     • Europeisk standard
   </text>
   
-  <!-- Bransjespecifikke regler (top right) -->
+
   <rect x="480" y="80" width="140" height="100" fill="#f3e5f5" stroke="#7b1fa2" stroke-width="2" rx="8" filter="url(#shadow)"/>
   <text x="550" y="110" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#7b1fa2">
     Bransjespecifikke
@@ -51,7 +51,7 @@
     • Bransjetilpassede krav
   </text>
   
-  <!-- Rapporteringskrav (bottom left) -->
+
   <rect x="80" y="320" width="140" height="100" fill="#e8f5e8" stroke="#388e3c" stroke-width="2" rx="8" filter="url(#shadow)"/>
   <text x="150" y="350" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#388e3c">
     Rapporterings-
@@ -66,7 +66,7 @@
     • Ulike rapporter
   </text>
   
-  <!-- Skattemessige konsekvenser (bottom right) -->
+
   <rect x="480" y="320" width="140" height="100" fill="#fff3e0" stroke="#f57c00" stroke-width="2" rx="8" filter="url(#shadow)"/>
   <text x="550" y="350" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#f57c00">
     Skattemessige
@@ -81,20 +81,20 @@
     • Særskatter
   </text>
   
-  <!-- Connecting lines -->
+
   <line x1="220" y1="130" x2="280" y2="200" stroke="#666" stroke-width="2"/>
   <line x1="480" y1="130" x2="420" y2="200" stroke="#666" stroke-width="2"/>
   <line x1="220" y1="370" x2="280" y2="300" stroke="#666" stroke-width="2"/>
   <line x1="480" y1="370" x2="420" y2="300" stroke="#666" stroke-width="2"/>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#666"/>
     </marker>
   </defs>
   
-  <!-- Add arrows to lines -->
+
   <line x1="220" y1="130" x2="280" y2="200" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
   <line x1="480" y1="130" x2="420" y2="200" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
   <line x1="220" y1="370" x2="280" y2="300" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>

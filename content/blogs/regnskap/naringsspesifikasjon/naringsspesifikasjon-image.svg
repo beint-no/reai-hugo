@@ -10,21 +10,21 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="400" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="45" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" fill="white">
     Næringsspesifikasjon i Regnskap
   </text>
   
-  <!-- Main content area -->
+
   <rect x="50" y="120" width="700" height="240" fill="white" stroke="#dee2e6" stroke-width="1" rx="8"/>
   
-  <!-- NACE section -->
+
   <rect x="80" y="150" width="150" height="80" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="5"/>
   <text x="155" y="175" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#1976d2">
     NACE-Koder
@@ -36,7 +36,7 @@
     Klassifisering
   </text>
   
-  <!-- Bransjespecifikke regler section -->
+
   <rect x="270" y="150" width="150" height="80" fill="#f3e5f5" stroke="#7b1fa2" stroke-width="2" rx="5"/>
   <text x="345" y="175" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#7b1fa2">
     Bransjespecifikke
@@ -45,7 +45,7 @@
     Regnskapsregler
   </text>
   
-  <!-- Rapportering section -->
+
   <rect x="460" y="150" width="150" height="80" fill="#e8f5e8" stroke="#388e3c" stroke-width="2" rx="5"/>
   <text x="535" y="175" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#388e3c">
     Rapportering
@@ -54,7 +54,7 @@
     &amp; Frister
   </text>
   
-  <!-- Skatt section -->
+
   <rect x="270" y="260" width="150" height="80" fill="#fff3e0" stroke="#f57c00" stroke-width="2" rx="5"/>
   <text x="345" y="285" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#f57c00">
     Skattemessige
@@ -63,12 +63,12 @@
     Konsekvenser
   </text>
   
-  <!-- Arrows connecting sections -->
+
   <path d="M 230 190 L 260 190" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 420 190 L 450 190" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 345 240 L 345 250" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#666"/>

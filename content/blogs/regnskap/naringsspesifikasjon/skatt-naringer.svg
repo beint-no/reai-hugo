@@ -9,16 +9,16 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGrad)"/>
   <text x="400" y="35" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="white">
     Skatteregler per Næring
   </text>
   
-  <!-- Ordinær næringsskatt (center) -->
+
   <rect x="250" y="90" width="300" height="100" fill="#e8eaf6" stroke="#3f51b5" stroke-width="3" rx="10" filter="url(#shadow)"/>
   <text x="400" y="120" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#3f51b5">
     Ordinær Næringsskatt
@@ -33,13 +33,13 @@
     + Fradrag for driftskostnader og avskrivninger
   </text>
   
-  <!-- Særskatter (left side) -->
+
   <rect x="50" y="220" width="320" height="320" fill="#ffebee" stroke="#d32f2f" stroke-width="2" rx="8" filter="url(#shadow)"/>
   <text x="210" y="250" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#d32f2f">
     Særskatter - Tilleggsskatter
   </text>
   
-  <!-- Grunnrenteskatt -->
+
   <rect x="70" y="270" width="280" height="60" fill="#fff3e0" stroke="#f57c00" stroke-width="1" rx="5"/>
   <text x="90" y="290" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#f57c00">
     Grunnrenteskatt
@@ -51,7 +51,7 @@
     • Ekstra skatt på særlig høy avkastning
   </text>
   
-  <!-- Finansskatt -->
+
   <rect x="70" y="340" width="280" height="60" fill="#e3f2fd" stroke="#1976d2" stroke-width="1" rx="5"/>
   <text x="90" y="360" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1976d2">
     Finansskatt
@@ -63,7 +63,7 @@
     • Skatt på lønn over visse grenser
   </text>
   
-  <!-- Miljøavgifter -->
+
   <rect x="70" y="410" width="280" height="60" fill="#e8f5e8" stroke="#388e3c" stroke-width="1" rx="5"/>
   <text x="90" y="430" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#388e3c">
     Miljøavgifter
@@ -75,7 +75,7 @@
     • CO2-avgift, NOx-avgift, etc.
   </text>
   
-  <!-- Tonnasjeskatteordningen -->
+
   <rect x="70" y="480" width="280" height="50" fill="#f3e5f5" stroke="#9c27b0" stroke-width="1" rx="5"/>
   <text x="90" y="500" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#9c27b0">
     Tonnasjeskatteordningen
@@ -84,13 +84,13 @@
     • Sjøfart - alternativ til ordinær skatt
   </text>
   
-  <!-- Skattefradrag (right side) -->
+
   <rect x="430" y="220" width="320" height="320" fill="#e8f5e8" stroke="#388e3c" stroke-width="2" rx="8" filter="url(#shadow)"/>
   <text x="590" y="250" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#388e3c">
     Spesielle Skattefradrag
   </text>
   
-  <!-- Jordbruksfradrag -->
+
   <rect x="450" y="270" width="280" height="60" fill="#fff3e0" stroke="#f57c00" stroke-width="1" rx="5"/>
   <text x="470" y="290" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#f57c00">
     Jordbruksfradrag
@@ -102,7 +102,7 @@
     • Reduserer skattbar inntekt betydelig
   </text>
   
-  <!-- SkatteFUNN -->
+
   <rect x="450" y="340" width="280" height="60" fill="#e3f2fd" stroke="#1976d2" stroke-width="1" rx="5"/>
   <text x="470" y="360" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1976d2">
     SkatteFUNN-ordningen
@@ -114,7 +114,7 @@
     • Skattefradrag for FoU-kostnader
   </text>
   
-  <!-- Investeringsincentiver -->
+
   <rect x="450" y="410" width="280" height="60" fill="#f3e5f5" stroke="#9c27b0" stroke-width="1" rx="5"/>
   <text x="470" y="430" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#9c27b0">
     Investeringsincentiver
@@ -126,7 +126,7 @@
     • Økt avskrivning første år
   </text>
   
-  <!-- Distriktsstøtte -->
+
   <rect x="450" y="480" width="280" height="50" fill="#ffebee" stroke="#d32f2f" stroke-width="1" rx="5"/>
   <text x="470" y="500" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#d32f2f">
     Distriktsstøtte
@@ -135,18 +135,18 @@
     • Redusert arbeidsgiveravgift i visse områder
   </text>
   
-  <!-- Connecting arrows -->
+
   <path d="M 250 140 L 200 200" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 550 140 L 600 200" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#666"/>
     </marker>
   </defs>
   
-  <!-- Bottom note -->
+
   <text x="400" y="580" font-family="Arial, sans-serif" font-size="12" font-style="italic" text-anchor="middle" fill="#666">
     Næringsspesifikasjon påvirker direkte hvilke skatteregler som gjelder for virksomheten
   </text>

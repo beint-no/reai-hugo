@@ -6,15 +6,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f1f5f9"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1e40af">
     Komponenter i Anskaffelseskost
   </text>
   
-  <!-- Central concept -->
+
   <circle cx="400" cy="300" r="80" fill="url(#centralGrad)" stroke="#1e40af" stroke-width="3"/>
   <text x="400" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     ANSKAFFELSES-
@@ -26,7 +26,7 @@
     (Total investering)
   </text>
   
-  <!-- Component 1: Purchase Price -->
+
   <g transform="translate(150, 100)">
     <rect x="0" y="0" width="140" height="80" fill="#dcfce7" stroke="#16a34a" stroke-width="2" rx="8"/>
     <circle cx="25" cy="25" r="12" fill="#16a34a"/>
@@ -45,7 +45,7 @@
     </text>
   </g>
   
-  <!-- Component 2: Import duties -->
+
   <g transform="translate(510, 100)">
     <rect x="0" y="0" width="140" height="80" fill="#dcfce7" stroke="#16a34a" stroke-width="2" rx="8"/>
     <circle cx="25" cy="25" r="12" fill="#16a34a"/>
@@ -64,7 +64,7 @@
     </text>
   </g>
   
-  <!-- Component 3: Transport -->
+
   <g transform="translate(80, 250)">
     <rect x="0" y="0" width="140" height="80" fill="#dcfce7" stroke="#16a34a" stroke-width="2" rx="8"/>
     <circle cx="25" cy="25" r="12" fill="#16a34a"/>
@@ -83,7 +83,7 @@
     </text>
   </g>
   
-  <!-- Component 4: Installation -->
+
   <g transform="translate(580, 250)">
     <rect x="0" y="0" width="140" height="80" fill="#dcfce7" stroke="#16a34a" stroke-width="2" rx="8"/>
     <circle cx="25" cy="25" r="12" fill="#16a34a"/>
@@ -102,7 +102,7 @@
     </text>
   </g>
   
-  <!-- Component 5: Legal costs -->
+
   <g transform="translate(150, 400)">
     <rect x="0" y="0" width="140" height="80" fill="#dcfce7" stroke="#16a34a" stroke-width="2" rx="8"/>
     <circle cx="25" cy="25" r="12" fill="#16a34a"/>
@@ -121,7 +121,7 @@
     </text>
   </g>
   
-  <!-- Component 6: Testing -->
+
   <g transform="translate(510, 400)">
     <rect x="0" y="0" width="140" height="80" fill="#dcfce7" stroke="#16a34a" stroke-width="2" rx="8"/>
     <circle cx="25" cy="25" r="12" fill="#16a34a"/>
@@ -140,7 +140,7 @@
     </text>
   </g>
   
-  <!-- Excluded costs -->
+
   <g transform="translate(50, 510)">
     <rect x="0" y="0" width="140" height="80" fill="#fee2e2" stroke="#ef4444" stroke-width="2" rx="8"/>
     <circle cx="25" cy="25" r="12" fill="#ef4444"/>
@@ -201,7 +201,7 @@
     </text>
   </g>
   
-  <!-- Connection lines -->
+
   <line x1="290" y1="140" x2="350" y2="250" stroke="#94a3b8" stroke-width="2" stroke-dasharray="5,5"/>
   <line x1="510" y1="140" x2="450" y2="250" stroke="#94a3b8" stroke-width="2" stroke-dasharray="5,5"/>
   <line x1="220" y1="250" x2="320" y2="270" stroke="#94a3b8" stroke-width="2" stroke-dasharray="5,5"/>
@@ -209,7 +209,7 @@
   <line x1="290" y1="400" x2="350" y2="350" stroke="#94a3b8" stroke-width="2" stroke-dasharray="5,5"/>
   <line x1="510" y1="400" x2="450" y2="350" stroke="#94a3b8" stroke-width="2" stroke-dasharray="5,5"/>
   
-  <!-- Total calculation -->
+
   <g transform="translate(280, 50)">
     <rect x="0" y="0" width="240" height="40" fill="#fef3c7" stroke="#f59e0b" stroke-width="2" rx="8"/>
     <text x="120" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#92400e">
@@ -220,7 +220,7 @@
     </text>
   </g>
   
-  <!-- Legend -->
+
   <g transform="translate(720, 100)">
     <rect x="0" y="0" width="15" height="15" fill="#dcfce7" stroke="#16a34a"/>
     <text x="20" y="12" font-family="Arial, sans-serif" font-size="11" fill="#15803d">Inkluderes</text>

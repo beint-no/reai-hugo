@@ -1,12 +1,12 @@
 <svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Varemerkeamortisering
   </text>
   
-  <!-- Example trademark value -->
+
   <rect x="50" y="80" width="200" height="60" fill="#3498db" rx="10"/>
   <text x="150" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Varemerke aktivert
@@ -15,7 +15,7 @@
     NOK 100,000
   </text>
   
-  <!-- Amortization period -->
+
   <rect x="300" y="80" width="200" height="60" fill="#e74c3c" rx="10"/>
   <text x="400" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Amortiseringsperiode
@@ -24,7 +24,7 @@
     10 år
   </text>
   
-  <!-- Annual amortization -->
+
   <rect x="550" y="80" width="200" height="60" fill="#27ae60" rx="10"/>
   <text x="650" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Årlig amortisering
@@ -33,19 +33,19 @@
     NOK 10,000
   </text>
   
-  <!-- Arrows -->
+
   <path d="M 250 110 L 300 110" stroke="#7f8c8d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 500 110 L 550 110" stroke="#7f8c8d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Amortization chart -->
+
   <rect x="100" y="180" width="600" height="300" fill="white" stroke="#bdc3c7" stroke-width="2"/>
   
-  <!-- Chart title -->
+
   <text x="400" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
     Bokført verdi over tid
   </text>
   
-  <!-- Y-axis -->
+
   <line x1="150" y1="230" x2="150" y2="450" stroke="#34495e" stroke-width="2"/>
   <text x="140" y="235" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#34495e">100,000</text>
   <text x="140" y="295" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#34495e">75,000</text>
@@ -53,7 +53,7 @@
   <text x="140" y="415" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#34495e">25,000</text>
   <text x="140" y="455" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#34495e">0</text>
   
-  <!-- X-axis -->
+
   <line x1="150" y1="450" x2="650" y2="450" stroke="#34495e" stroke-width="2"/>
   <text x="150" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#34495e">År 0</text>
   <text x="250" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#34495e">2</text>
@@ -62,26 +62,26 @@
   <text x="550" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#34495e">8</text>
   <text x="650" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#34495e">10</text>
   
-  <!-- Amortization line -->
+
   <polyline points="150,230 200,252 250,274 300,296 350,318 400,340 450,362 500,384 550,406 600,428 650,450" 
             stroke="#e74c3c" stroke-width="3" fill="none"/>
   
-  <!-- Fill area under line -->
+
   <polygon points="150,230 200,252 250,274 300,296 350,318 400,340 450,362 500,384 550,406 600,428 650,450 650,450 150,450" 
            fill="#e74c3c" fill-opacity="0.3"/>
   
-  <!-- Grid lines -->
+
   <line x1="150" y1="292" x2="650" y2="292" stroke="#ecf0f1" stroke-width="1"/>
   <line x1="150" y1="340" x2="650" y2="340" stroke="#ecf0f1" stroke-width="1"/>
   <line x1="150" y1="388" x2="650" y2="388" stroke="#ecf0f1" stroke-width="1"/>
   
-  <!-- Key points -->
+
   <circle cx="150" cy="230" r="4" fill="#3498db"/>
   <circle cx="350" cy="318" r="4" fill="#3498db"/>
   <circle cx="550" cy="406" r="4" fill="#3498db"/>
   <circle cx="650" cy="450" r="4" fill="#3498db"/>
   
-  <!-- Legend -->
+
   <rect x="500" y="500" width="250" height="80" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1" rx="5"/>
   <text x="625" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
     Amortiseringsformel:
@@ -96,7 +96,7 @@
     NOK 100,000 / 10 år = NOK 10,000
   </text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#7f8c8d"/>

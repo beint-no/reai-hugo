@@ -14,21 +14,21 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGrad)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#333">
     Minstefradrag vs. Faktiske Utgifter
   </text>
   
-  <!-- Left side - Minstefradrag -->
+
   <rect x="50" y="80" width="300" height="350" fill="url(#blueGrad)" rx="10"/>
   <text x="200" y="110" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
     MINSTEFRADRAG
   </text>
   
-  <!-- Minstefradrag benefits -->
+
   <rect x="70" y="130" width="260" height="280" fill="white" rx="5"/>
   
   <text x="200" y="160" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0066cc">
@@ -68,13 +68,13 @@
     ✗ Ingen fleksibilitet
   </text>
   
-  <!-- Right side - Faktiske utgifter -->
+
   <rect x="450" y="80" width="300" height="350" fill="url(#greenGrad)" rx="10"/>
   <text x="600" y="110" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
     FAKTISKE UTGIFTER
   </text>
   
-  <!-- Faktiske utgifter benefits -->
+
   <rect x="470" y="130" width="260" height="280" fill="white" rx="5"/>
   
   <text x="600" y="160" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#28a745">
@@ -114,11 +114,11 @@
     ✗ Kan bli kontrollert
   </text>
   
-  <!-- Comparison arrow -->
+
   <path d="M 360 255 L 440 255" stroke="#666" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 440 255 L 360 255" stroke="#666" stroke-width="3" fill="none" marker-end="url(#arrowhead2)"/>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#666"/>
@@ -135,7 +135,7 @@
     BESTE
   </text>
   
-  <!-- Bottom recommendation -->
+
   <rect x="100" y="450" width="600" height="40" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="5"/>
   <text x="400" y="470" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#856404">
     💡 Anbefaling: Beregn begge alternativer og velg det som gir høyest fradrag

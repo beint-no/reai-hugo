@@ -14,23 +14,23 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
     Automatisering vs Tradisjonell Regnskapsføring
   </text>
   
-  <!-- Dividing line -->
+
   <line x1="400" y1="50" x2="400" y2="580" stroke="#6c757d" stroke-width="2" stroke-dasharray="5,5"/>
   
-  <!-- Traditional Side -->
+
   <text x="200" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#dc3545">
     TRADISJONELL METODE
   </text>
   
-  <!-- Traditional Process Steps -->
+
   <rect x="50" y="100" width="300" height="60" rx="10" fill="url(#traditionalGradient)" stroke="#c82333" stroke-width="2"/>
   <text x="200" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     1. MANUELL DATAREGISTRERING
@@ -63,7 +63,7 @@
     Tidkrevende prosess
   </text>
   
-  <!-- Traditional Challenges -->
+
   <text x="200" y="440" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#dc3545">
     UTFORDRINGER:
   </text>
@@ -83,12 +83,12 @@
     • Forsinket rapportering
   </text>
   
-  <!-- Automated Side -->
+
   <text x="600" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#28a745">
     API-AUTOMATISERT METODE
   </text>
   
-  <!-- Automated Process Steps -->
+
   <rect x="450" y="100" width="300" height="60" rx="10" fill="url(#automatedGradient)" stroke="#1e7e34" stroke-width="2"/>
   <text x="600" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     1. AUTOMATISK DATAIMPOR
@@ -121,7 +121,7 @@
     Øyeblikkelig prosess
   </text>
   
-  <!-- Automated Benefits -->
+
   <text x="600" y="440" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#28a745">
     FORDELER:
   </text>
@@ -141,7 +141,7 @@
     • Sanntids beslutningsgrunnlag
   </text>
   
-  <!-- Arrows showing process flow -->
+
   <defs>
     <marker id="redArrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#dc3545"/>
@@ -151,12 +151,12 @@
     </marker>
   </defs>
   
-  <!-- Traditional flow arrows -->
+
   <line x1="200" y1="160" x2="200" y2="180" stroke="#dc3545" stroke-width="2" marker-end="url(#redArrow)"/>
   <line x1="200" y1="240" x2="200" y2="260" stroke="#dc3545" stroke-width="2" marker-end="url(#redArrow)"/>
   <line x1="200" y1="320" x2="200" y2="340" stroke="#dc3545" stroke-width="2" marker-end="url(#redArrow)"/>
   
-  <!-- Automated flow arrows -->
+
   <line x1="600" y1="160" x2="600" y2="180" stroke="#28a745" stroke-width="2" marker-end="url(#greenArrow)"/>
   <line x1="600" y1="240" x2="600" y2="260" stroke="#28a745" stroke-width="2" marker-end="url(#greenArrow)"/>
   <line x1="600" y1="320" x2="600" y2="340" stroke="#28a745" stroke-width="2" marker-end="url(#greenArrow)"/>

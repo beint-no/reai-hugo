@@ -10,13 +10,13 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="600" height="400" fill="url(#bgGradient)"/>
   
-  <!-- Main title card -->
+
   <rect x="50" y="50" width="500" height="100" rx="10" fill="url(#cardGradient)" stroke="#e2e8f0" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="300" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e293b">
     Hva er Kontantstrøm?
   </text>
@@ -24,8 +24,8 @@
     Cash Flow - Bevegelse av kontanter inn og ut av bedriften
   </text>
   
-  <!-- Cash flow diagram -->
-  <!-- Inflow arrow -->
+
+
   <g>
     <rect x="80" y="200" width="120" height="60" rx="8" fill="#10b981" opacity="0.9"/>
     <text x="140" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
@@ -38,11 +38,11 @@
       • Salg av eiendeler
     </text>
     
-    <!-- Arrow pointing right -->
+
     <polygon points="200,230 240,215 240,225 220,230 240,235 240,245" fill="#10b981"/>
   </g>
   
-  <!-- Central box - Company -->
+
   <rect x="260" y="200" width="80" height="60" rx="8" fill="#3b82f6" opacity="0.9"/>
   <text x="300" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     BEDRIFT
@@ -54,9 +54,9 @@
     beholdning
   </text>
   
-  <!-- Outflow arrow -->
+
   <g>
-    <!-- Arrow pointing right -->
+
     <polygon points="340,230 380,215 380,225 360,230 380,235 380,245" fill="#ef4444"/>
     
     <rect x="400" y="200" width="120" height="60" rx="8" fill="#ef4444" opacity="0.9"/>
@@ -71,9 +71,9 @@
     </text>
   </g>
   
-  <!-- Three categories below -->
+
   <g>
-    <!-- Drift -->
+
     <rect x="80" y="300" width="140" height="70" rx="6" fill="#ffffff" stroke="#10b981" stroke-width="2" opacity="0.95"/>
     <text x="150" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#059669">
       DRIFT
@@ -88,7 +88,7 @@
       = Operasjonell CF
     </text>
     
-    <!-- Investering -->
+
     <rect x="230" y="300" width="140" height="70" rx="6" fill="#ffffff" stroke="#3b82f6" stroke-width="2" opacity="0.95"/>
     <text x="300" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2563eb">
       INVESTERING
@@ -103,7 +103,7 @@
       = Investerings CF
     </text>
     
-    <!-- Finansiering -->
+
     <rect x="380" y="300" width="140" height="70" rx="6" fill="#ffffff" stroke="#ef4444" stroke-width="2" opacity="0.95"/>
     <text x="450" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#dc2626">
       FINANSIERING

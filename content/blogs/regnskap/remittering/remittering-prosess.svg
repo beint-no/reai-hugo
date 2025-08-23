@@ -17,26 +17,26 @@
 
     <text x="400" y="40" class="title font">Remittering Prosess</text>
 
-    <!-- Avsender -->
+
     <g id="sender">
         <rect x="100" y="150" width="160" height="80" class="step-box"/>
         <text x="180" y="195" class="step-text font">Avsender</text>
     </g>
 
-    <!-- Arrow to Betalingssystem -->
+
     <path class="arrow" d="M260 190 h80"/>
 
-    <!-- Betalingssystem (Bank/Tjenesteleverandør) -->
+
     <g id="system">
         <rect x="360" y="150" width="200" height="80" class="step-box"/>
         <text x="460" y="185" class="step-text font">Betalingssystem</text>
         <text x="460" y="205" class="step-text font">(Bank / Tjenesteleverandør)</text>
     </g>
 
-    <!-- Arrow to Mottaker -->
+
     <path class="arrow" d="M560 190 h80"/>
 
-    <!-- Mottaker -->
+
     <g id="receiver">
         <rect x="660" y="150" width="140" height="80" class="step-box"/>
         <text x="730" y="195" class="step-text font">Mottaker</text>

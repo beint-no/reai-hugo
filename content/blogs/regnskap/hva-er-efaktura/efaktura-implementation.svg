@@ -10,15 +10,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
     eFaktura Implementering Prosess
   </text>
   
-  <!-- Step 1: Access Point Selection -->
+
   <circle cx="150" cy="120" r="30" fill="url(#stepGradient)" stroke="#003366" stroke-width="2"/>
   <text x="150" y="128" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">1</text>
   
@@ -36,10 +36,10 @@
     Evaluér pris og service
   </text>
   
-  <!-- Arrow 1 to 2 -->
+
   <path d="M 220 200 L 280 200 L 270 190 M 280 200 L 270 210" stroke="#6c757d" stroke-width="2" fill="none"/>
   
-  <!-- Step 2: PEPPOL Registration -->
+
   <circle cx="350" cy="120" r="30" fill="url(#stepGradient)" stroke="#003366" stroke-width="2"/>
   <text x="350" y="128" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">2</text>
   
@@ -57,10 +57,10 @@
     Sertifikatoppsett
   </text>
   
-  <!-- Arrow 2 to 3 -->
+
   <path d="M 420 200 L 480 200 L 470 190 M 480 200 L 470 210" stroke="#6c757d" stroke-width="2" fill="none"/>
   
-  <!-- Step 3: ERP Configuration -->
+
   <circle cx="550" cy="120" r="30" fill="url(#stepGradient)" stroke="#003366" stroke-width="2"/>
   <text x="550" y="128" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">3</text>
   
@@ -78,10 +78,10 @@
     Integrasjonstest
   </text>
   
-  <!-- Arrow down from step 3 -->
+
   <path d="M 550 250 L 550 310 L 540 300 M 550 310 L 560 300" stroke="#6c757d" stroke-width="2" fill="none"/>
   
-  <!-- Step 4: Testing -->
+
   <circle cx="550" cy="350" r="30" fill="url(#stepGradient)" stroke="#003366" stroke-width="2"/>
   <text x="550" y="358" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">4</text>
   
@@ -99,10 +99,10 @@
     Sikkerhetstest
   </text>
   
-  <!-- Arrow 4 to 5 -->
+
   <path d="M 480 430 L 420 430 L 430 420 M 420 430 L 430 440" stroke="#6c757d" stroke-width="2" fill="none"/>
   
-  <!-- Step 5: Go Live -->
+
   <circle cx="350" cy="350" r="30" fill="url(#stepGradient)" stroke="#003366" stroke-width="2"/>
   <text x="350" y="358" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">5</text>
   
@@ -120,7 +120,7 @@
     Support og drift
   </text>
   
-  <!-- Requirements section -->
+
   <text x="100" y="530" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#212529">
     Krav for Implementering:
   </text>
@@ -135,7 +135,7 @@
     • Teknisk kompetanse eller konsulentbistand
   </text>
   
-  <!-- Timeline section -->
+
   <text x="450" y="530" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#212529">
     Typisk Tidsramme:
   </text>

@@ -20,14 +20,14 @@
     </marker>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#2c3e50">SWIFT-nettverket og BIC-koder</text>
   <text x="400" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#7f8c8d">Internasjonal betalingsflyt</text>
   
-  <!-- Sender Bank (Norway) -->
+
   <g transform="translate(50, 120)">
     <rect x="0" y="0" width="150" height="100" rx="10" fill="url(#bankGradient)" filter="url(#shadow)"/>
     <text x="75" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Avsender Bank</text>
@@ -35,7 +35,7 @@
     <rect x="10" y="60" width="130" height="25" rx="5" fill="rgba(255,255,255,0.2)"/>
     <text x="75" y="77" text-anchor="middle" font-family="Monaco, monospace" font-size="11" font-weight="bold" fill="white">DNBANOKKXXX</text>
     
-    <!-- Norwegian flag colors -->
+
     <rect x="10" y="10" width="20" height="15" fill="#BA0C2F"/>
     <rect x="15" y="10" width="10" height="15" fill="white"/>
     <rect x="10" y="15" width="20" height="5" fill="white"/>
@@ -43,24 +43,24 @@
     <rect x="17" y="10" width="1" height="15" fill="#00205B"/>
   </g>
   
-  <!-- SWIFT Network Center -->
+
   <g transform="translate(325, 80)">
     <circle cx="75" cy="75" r="60" fill="url(#swiftGradient)" filter="url(#shadow)"/>
     <text x="75" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">SWIFT</text>
     <text x="75" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Nettverk</text>
     
-    <!-- Network connections visualization -->
+
     <circle cx="75" cy="75" r="45" fill="none" stroke="rgba(255,255,255,0.3)" stroke-width="2" stroke-dasharray="5,5"/>
     <circle cx="75" cy="75" r="30" fill="none" stroke="rgba(255,255,255,0.2)" stroke-width="1" stroke-dasharray="3,3"/>
     
-    <!-- Network nodes -->
+
     <circle cx="45" cy="45" r="3" fill="white" opacity="0.8"/>
     <circle cx="105" cy="45" r="3" fill="white" opacity="0.8"/>
     <circle cx="45" cy="105" r="3" fill="white" opacity="0.8"/>
     <circle cx="105" cy="105" r="3" fill="white" opacity="0.8"/>
   </g>
   
-  <!-- Receiver Bank (International) -->
+
   <g transform="translate(600, 120)">
     <rect x="0" y="0" width="150" height="100" rx="10" fill="url(#bankGradient)" filter="url(#shadow)"/>
     <text x="75" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Mottaker Bank</text>
@@ -68,42 +68,42 @@
     <rect x="10" y="60" width="130" height="25" rx="5" fill="rgba(255,255,255,0.2)"/>
     <text x="75" y="77" text-anchor="middle" font-family="Monaco, monospace" font-size="11" font-weight="bold" fill="white">DEUTDEFFXXX</text>
     
-    <!-- German flag colors -->
+
     <rect x="10" y="10" width="20" height="15" fill="#000000"/>
     <rect x="10" y="15" width="20" height="5" fill="#DD0000"/>
     <rect x="10" y="20" width="20" height="5" fill="#FFCE00"/>
   </g>
   
-  <!-- Payment Flow Arrows -->
+
   <line x1="200" y1="170" x2="325" y2="155" stroke="#27ae60" stroke-width="4" marker-end="url(#arrowhead)"/>
   <line x1="475" y1="155" x2="600" y2="170" stroke="#27ae60" stroke-width="4" marker-end="url(#arrowhead)"/>
   
-  <!-- Flow Steps -->
+
   <g transform="translate(50, 280)">
     <text x="0" y="20" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">Betalingsprosess:</text>
     
-    <!-- Step 1 -->
+
     <circle cx="30" cy="60" r="15" fill="#3498db"/>
     <text x="30" y="67" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">1</text>
     <text x="60" y="67" font-family="Arial, sans-serif" font-size="14" fill="#2c3e50">Norsk bedrift sender betaling med mottakers BIC-kode</text>
     
-    <!-- Step 2 -->
+
     <circle cx="30" cy="100" r="15" fill="#e67e22"/>
     <text x="30" y="107" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">2</text>
     <text x="60" y="107" font-family="Arial, sans-serif" font-size="14" fill="#2c3e50">SWIFT-systemet identifiserer mottaker bank via BIC-kode</text>
     
-    <!-- Step 3 -->
+
     <circle cx="30" cy="140" r="15" fill="#27ae60"/>
     <text x="30" y="147" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">3</text>
     <text x="60" y="147" font-family="Arial, sans-serif" font-size="14" fill="#2c3e50">Betaling rutes gjennom mellombanker til riktig destinasjon</text>
     
-    <!-- Step 4 -->
+
     <circle cx="30" cy="180" r="15" fill="#9b59b6"/>
     <text x="30" y="187" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">4</text>
     <text x="60" y="187" font-family="Arial, sans-serif" font-size="14" fill="#2c3e50">Mottaker bank mottar betaling og bekrefter transaksjonen</text>
   </g>
   
-  <!-- Statistics Box -->
+
   <g transform="translate(450, 320)">
     <rect x="0" y="0" width="300" height="120" rx="10" fill="rgba(255,255,255,0.9)" stroke="#bdc3c7" stroke-width="2" filter="url(#shadow)"/>
     <text x="150" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">SWIFT Statistikk</text>
@@ -114,7 +114,7 @@
     <text x="20" y="110" font-family="Arial, sans-serif" font-size="14" fill="#2c3e50">• 99.999% oppetid</text>
   </g>
   
-  <!-- BIC Code Examples -->
+
   <g transform="translate(50, 480)">
     <text x="0" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">Eksempler på BIC-koder:</text>
     
@@ -131,6 +131,6 @@
     <text x="410" y="60" font-family="Monaco, monospace" font-size="12" fill="#2c3e50">CHASUS33XXX</text>
   </g>
   
-  <!-- Security note -->
+
   <text x="400" y="580" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">Sikker og sporbar overføring av internasjonale betalinger</text>
 </svg>

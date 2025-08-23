@@ -1,16 +1,16 @@
 <svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c3e50">Implementeringsprosess Velferdstiltak</text>
   
-  <!-- Phase 1: Analyse -->
+
   <g id="analysefase">
     <rect x="50" y="80" width="200" height="140" rx="10" fill="#3498db" stroke="#2980b9" stroke-width="2"/>
     <text x="150" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">1. ANALYSEFASE</text>
     
-    <!-- Analysis steps -->
+
     <rect x="60" y="115" width="180" height="20" rx="5" fill="#2980b9"/>
     <text x="150" y="128" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Behovsanalyse</text>
     
@@ -24,15 +24,15 @@
     <text x="150" y="203" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Leverandørevaluering</text>
   </g>
   
-  <!-- Arrow 1 -->
+
   <path d="M 270 150 L 310 150" stroke="#34495e" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Phase 2: Implementering -->
+
   <g id="implementeringsfase">
     <rect x="320" y="80" width="200" height="140" rx="10" fill="#27ae60" stroke="#229954" stroke-width="2"/>
     <text x="420" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">2. IMPLEMENTERING</text>
     
-    <!-- Implementation steps -->
+
     <rect x="330" y="115" width="180" height="20" rx="5" fill="#229954"/>
     <text x="420" y="128" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Pilottest</text>
     
@@ -46,15 +46,15 @@
     <text x="420" y="203" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Opplæring</text>
   </g>
   
-  <!-- Arrow 2 -->
+
   <path d="M 540 150 L 580 150" stroke="#34495e" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Phase 3: Oppfølging -->
+
   <g id="oppfolgingsfase">
     <rect x="590" y="80" width="160" height="140" rx="10" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
     <text x="670" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">3. OPPFØLGING</text>
     
-    <!-- Follow-up steps -->
+
     <rect x="600" y="115" width="140" height="20" rx="5" fill="#c0392b"/>
     <text x="670" y="128" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Monitering</text>
     
@@ -68,10 +68,10 @@
     <text x="670" y="203" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Skalering</text>
   </g>
   
-  <!-- Key Components Section -->
+
   <text x="400" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">Sentrale Komponenter</text>
   
-  <!-- Stakeholder Involvement -->
+
   <g id="stakeholders">
     <rect x="50" y="300" width="150" height="100" rx="8" fill="#9b59b6" stroke="#8e44ad" stroke-width="2"/>
     <text x="125" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Interessenter</text>
@@ -86,7 +86,7 @@
     <text x="105" y="385" font-family="Arial, sans-serif" font-size="9" fill="white">Fagforeninger</text>
   </g>
   
-  <!-- Systems Integration -->
+
   <g id="systems">
     <rect x="220" y="300" width="150" height="100" rx="8" fill="#f39c12" stroke="#e67e22" stroke-width="2"/>
     <text x="295" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Systemintegrasjon</text>
@@ -101,7 +101,7 @@
     <text x="275" y="385" font-family="Arial, sans-serif" font-size="9" fill="white">Regnskap</text>
   </g>
   
-  <!-- Communication Strategy -->
+
   <g id="communication">
     <rect x="390" y="300" width="150" height="100" rx="8" fill="#1abc9c" stroke="#16a085" stroke-width="2"/>
     <text x="465" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Kommunikasjon</text>
@@ -116,7 +116,7 @@
     <text x="445" y="385" font-family="Arial, sans-serif" font-size="9" fill="white">Veiledning</text>
   </g>
   
-  <!-- Quality Assurance -->
+
   <g id="quality">
     <rect x="560" y="300" width="150" height="100" rx="8" fill="#e67e22" stroke="#d35400" stroke-width="2"/>
     <text x="635" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Kvalitetssikring</text>
@@ -131,48 +131,48 @@
     <text x="615" y="385" font-family="Arial, sans-serif" font-size="9" fill="white">Optimalisering</text>
   </g>
   
-  <!-- Success Metrics -->
+
   <text x="400" y="440" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">Suksessmålinger</text>
   
   <g id="metrics">
     <rect x="100" y="460" width="600" height="80" rx="10" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2"/>
     
-    <!-- Metric 1 -->
+
     <rect x="120" y="480" width="120" height="40" rx="5" fill="#3498db"/>
     <text x="180" y="495" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">Ansattilfredshet</text>
     <text x="180" y="510" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">Målt gjennom</text>
     <text x="180" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">undersøkelser</text>
     
-    <!-- Metric 2 -->
+
     <rect x="260" y="480" width="120" height="40" rx="5" fill="#27ae60"/>
     <text x="320" y="495" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">Bruksgrad</text>
     <text x="320" y="510" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">Utnyttelse av</text>
     <text x="320" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">ordningene</text>
     
-    <!-- Metric 3 -->
+
     <rect x="400" y="480" width="120" height="40" rx="5" fill="#e74c3c"/>
     <text x="460" y="495" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">Kostnadseffektivitet</text>
     <text x="460" y="510" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">ROI på</text>
     <text x="460" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">investeringen</text>
     
-    <!-- Metric 4 -->
+
     <rect x="540" y="480" width="120" height="40" rx="5" fill="#9b59b6"/>
     <text x="600" y="495" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">Retensjon</text>
     <text x="600" y="510" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">Redusert</text>
     <text x="600" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">turnover</text>
   </g>
   
-  <!-- Continuous Improvement Cycle -->
+
   <g id="improvement-cycle">
     <circle cx="400" cy="570" r="15" fill="#34495e"/>
     <text x="400" y="576" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">Kontinuerlig</text>
     <text x="400" y="590" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#2c3e50">Forbedring</text>
     
-    <!-- Cycle arrows -->
+
     <path d="M 385 570 A 15 15 0 0 1 415 570" stroke="#34495e" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   </g>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>

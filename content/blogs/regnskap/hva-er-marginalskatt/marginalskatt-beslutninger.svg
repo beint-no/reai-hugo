@@ -6,15 +6,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#212529">
     Marginalskattens Påvirkning på Økonomiske Beslutninger
   </text>
   
-  <!-- Central circle -->
+
   <circle cx="400" cy="300" r="80" fill="#007bff" stroke="#0056b3" stroke-width="3"/>
   <text x="400" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#fff">
     MARGINAL-
@@ -23,7 +23,7 @@
     SKATT
   </text>
   
-  <!-- Work decisions -->
+
   <rect x="50" y="80" width="200" height="120" fill="#fff" stroke="#28a745" stroke-width="3" rx="10"/>
   <text x="150" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#28a745">
     ARBEIDSMARKEDET
@@ -44,10 +44,10 @@
     • Karrierevalg
   </text>
   
-  <!-- Arrow from work to center -->
+
   <path d="M 250 140 L 320 240" stroke="#28a745" stroke-width="3" fill="none" marker-end="url(#arrowhead1)"/>
   
-  <!-- Investment decisions -->
+
   <rect x="550" y="80" width="200" height="120" fill="#fff" stroke="#ffc107" stroke-width="3" rx="10"/>
   <text x="650" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#f57c00">
     INVESTERINGER
@@ -68,10 +68,10 @@
     • Pensjonssparing
   </text>
   
-  <!-- Arrow from investment to center -->
+
   <path d="M 550 140 L 480 240" stroke="#ffc107" stroke-width="3" fill="none" marker-end="url(#arrowhead2)"/>
   
-  <!-- Business decisions -->
+
   <rect x="50" y="400" width="200" height="120" fill="#fff" stroke="#dc3545" stroke-width="3" rx="10"/>
   <text x="150" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#dc3545">
     BEDRIFTSBESLUTNINGER
@@ -92,10 +92,10 @@
     • Foretaksform
   </text>
   
-  <!-- Arrow from business to center -->
+
   <path d="M 250 460 L 320 360" stroke="#dc3545" stroke-width="3" fill="none" marker-end="url(#arrowhead3)"/>
   
-  <!-- Personal finance -->
+
   <rect x="550" y="400" width="200" height="120" fill="#fff" stroke="#6f42c1" stroke-width="3" rx="10"/>
   <text x="650" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#6f42c1">
     PERSONLIG ØKONOMI
@@ -116,10 +116,10 @@
     • Timing av salg
   </text>
   
-  <!-- Arrow from personal to center -->
+
   <path d="M 550 460 L 480 360" stroke="#6f42c1" stroke-width="3" fill="none" marker-end="url(#arrowhead4)"/>
   
-  <!-- Example box at bottom -->
+
   <rect x="100" y="540" width="600" height="50" fill="#e3f2fd" stroke="#2196f3" stroke-width="2" rx="5"/>
   <text x="400" y="560" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1976d2">
     Eksempel: Ved 30% marginalskatt gir 10 000 kr ekstra inntekt kun 7 000 kr netto
@@ -128,7 +128,7 @@
     Dette påvirker alle økonomiske beslutninger og incentiver
   </text>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="arrowhead1" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#28a745"/>

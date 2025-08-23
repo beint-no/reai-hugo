@@ -13,17 +13,17 @@
     </style>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="650" fill="#ffffff"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" class="title" text-anchor="middle">Q-ratio Justeringer og Modifikasjoner</text>
   <text x="400" y="55" class="text" text-anchor="middle">Moderne tilpasninger for å forbedre målingens nøyaktighet</text>
   
-  <!-- Main content area -->
+
   <rect x="50" y="80" width="700" height="540" class="box" rx="10"/>
   
-  <!-- Section 1: Inflation Adjustments -->
+
   <rect x="70" y="100" width="320" height="160" class="adjustment-box" rx="8"/>
   <text x="230" y="125" class="header" text-anchor="middle">Inflasjonsjusteringer</text>
   
@@ -38,7 +38,7 @@
   <circle cx="350" cy="190" r="8" fill="#e74c3c"/>
   <text x="365" y="195" class="impact-negative">Reduserer Q</text>
   
-  <!-- Section 2: Intangible Assets -->
+
   <rect x="410" y="100" width="320" height="160" class="adjustment-box" rx="8"/>
   <text x="570" y="125" class="header" text-anchor="middle">Immaterielle Eiendeler</text>
   
@@ -53,7 +53,7 @@
   <circle cx="690" cy="190" r="8" fill="#27ae60"/>
   <text x="705" y="195" class="impact-positive">Øker Q</text>
   
-  <!-- Section 3: Off-Balance Sheet Items -->
+
   <rect x="70" y="280" width="320" height="160" class="adjustment-box" rx="8"/>
   <text x="230" y="305" class="header" text-anchor="middle">Off-Balance Sheet Items</text>
   
@@ -68,7 +68,7 @@
   <circle cx="350" cy="370" r="8" fill="#f39c12"/>
   <text x="365" y="375" class="neutral">Varierer</text>
   
-  <!-- Section 4: Market Conditions -->
+
   <rect x="410" y="280" width="320" height="160" class="adjustment-box" rx="8"/>
   <text x="570" y="305" class="header" text-anchor="middle">Markedsforhold</text>
   
@@ -83,16 +83,16 @@
   <circle cx="690" cy="370" r="8" fill="#e74c3c"/>
   <text x="705" y="375" class="impact-negative">Reduserer Q</text>
   
-  <!-- Adjustment Formula -->
+
   <rect x="70" y="460" width="660" height="60" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="8"/>
   <text x="400" y="485" class="header" text-anchor="middle">Justert Q-ratio Formel</text>
   <text x="400" y="508" class="text" text-anchor="middle">Q_justert = (Markedsverdi - Markedsjusteringer) / (Bokført verdi + Inflasjon + Immaterielle - Off-BS)</text>
   
-  <!-- Impact table -->
+
   <rect x="70" y="540" width="660" height="70" fill="#f8f9fa" stroke="#6c757d" stroke-width="1" rx="5"/>
   <text x="400" y="560" class="subheader" text-anchor="middle">Typiske Justeringseffekter på Q-ratio</text>
   
-  <!-- Table content -->
+
   <text x="100" y="580" class="text">Teknologiselskaper:</text>
   <text x="250" y="580" class="impact-positive">+0.3 til +0.8</text>
   <text x="350" y="580" class="text">(Immaterielle eiendeler)</text>
@@ -109,6 +109,6 @@
   <text x="580" y="595" class="impact-negative">-0.2 til -0.5</text>
   <text x="650" y="595" class="text">(Markedsverdi)</text>
   
-  <!-- Warning -->
+
   <text x="400" y="640" class="text" text-anchor="middle" fill="#6c757d">⚠️ Justeringer krever grundig analyse og bransjeekspertise</text>
 </svg>

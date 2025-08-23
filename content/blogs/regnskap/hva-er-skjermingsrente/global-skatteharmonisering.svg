@@ -1,65 +1,65 @@
 <svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Global Skatteharmonisering
   </text>
   
-  <!-- World map background -->
+
   <circle cx="400" cy="300" r="280" fill="#e8f4f8" stroke="#3498db" stroke-width="2" opacity="0.3"/>
   
-  <!-- OECD Logo/Circle -->
+
   <circle cx="400" cy="150" r="40" fill="#0066cc" opacity="0.8"/>
   <text x="400" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     OECD
   </text>
   
-  <!-- EU Circle -->
+
   <circle cx="320" cy="220" r="35" fill="#003399" opacity="0.8"/>
   <text x="320" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     EU
   </text>
   
-  <!-- Country circles -->
-  <!-- Norway -->
+
+
   <circle cx="350" cy="180" r="25" fill="#e74c3c"/>
   <text x="350" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     NO
   </text>
   
-  <!-- Sweden -->
+
   <circle cx="380" cy="170" r="25" fill="#f39c12"/>
   <text x="380" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     SE
   </text>
   
-  <!-- Denmark -->
+
   <circle cx="340" cy="200" r="25" fill="#9b59b6"/>
   <text x="340" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     DK
   </text>
   
-  <!-- Finland -->
+
   <circle cx="410" cy="160" r="25" fill="#27ae60"/>
   <text x="410" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     FI
   </text>
   
-  <!-- Germany -->
+
   <circle cx="370" cy="240" r="25" fill="#34495e"/>
   <text x="370" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     DE
   </text>
   
-  <!-- France -->
+
   <circle cx="300" cy="250" r="25" fill="#2980b9"/>
   <text x="300" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     FR
   </text>
   
-  <!-- Connection lines showing harmonization -->
+
   <line x1="400" y1="190" x2="350" y2="205" stroke="#3498db" stroke-width="2" opacity="0.7"/>
   <line x1="400" y1="190" x2="380" y2="195" stroke="#3498db" stroke-width="2" opacity="0.7"/>
   <line x1="400" y1="190" x2="410" y2="185" stroke="#3498db" stroke-width="2" opacity="0.7"/>
@@ -67,13 +67,13 @@
   <line x1="320" y1="255" x2="300" y2="275" stroke="#3498db" stroke-width="2" opacity="0.7"/>
   <line x1="320" y1="255" x2="340" y2="225" stroke="#3498db" stroke-width="2" opacity="0.7"/>
   
-  <!-- Key harmonization areas -->
+
   <rect x="50" y="350" width="300" height="220" fill="white" stroke="#bdc3c7" stroke-width="1" rx="5"/>
   <text x="200" y="375" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
     Harmoniseringsområder
   </text>
   
-  <!-- Harmonization items -->
+
   <circle cx="70" cy="400" r="5" fill="#e74c3c"/>
   <text x="85" y="405" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
     BEPS (Base Erosion and Profit Shifting)
@@ -104,13 +104,13 @@
     Digital Services Tax
   </text>
   
-  <!-- Future trends box -->
+
   <rect x="450" y="350" width="300" height="220" fill="white" stroke="#bdc3c7" stroke-width="1" rx="5"/>
   <text x="600" y="375" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
     Fremtidige Trender
   </text>
   
-  <!-- Future trends items -->
+
   <circle cx="470" cy="400" r="5" fill="#e74c3c"/>
   <text x="485" y="405" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
     Koordinerte Referanserenter
@@ -141,17 +141,17 @@
     AI-drevne Compliance-systemer
   </text>
   
-  <!-- Timeline arrow -->
+
   <path d="M 100 320 L 700 320" stroke="#3498db" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#3498db"/>
     </marker>
   </defs>
   
-  <!-- Timeline labels -->
+
   <text x="150" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
     2020-2024
   </text>
@@ -162,7 +162,7 @@
     2030+
   </text>
   
-  <!-- Subtitle -->
+
   <text x="400" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#7f8c8d">
     Internasjonale Koordineringsinitiativ og Fremtidige Skatteharmoniseringstrends
   </text>

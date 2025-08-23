@@ -14,21 +14,21 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="900" height="600" fill="#F8F9FA"/>
   
-  <!-- Title -->
+
   <text x="450" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2C3E50">
     Praktisk Eksempel: Eksempel AS
   </text>
   
-  <!-- Left side - Omløpsmidler -->
+
   <rect x="50" y="70" width="350" height="280" fill="url(#assetGrad)" rx="12"/>
   <text x="225" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
     OMLØPSMIDLER
   </text>
   
-  <!-- Asset items with amounts -->
+
   <rect x="70" y="120" width="310" height="35" fill="rgba(255,255,255,0.2)" rx="5"/>
   <text x="85" y="142" font-family="Arial, sans-serif" font-size="14" fill="white">Kontanter og bankinnskudd</text>
   <text x="365" y="142" text-anchor="end" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">800.000</text>
@@ -49,19 +49,19 @@
   <text x="85" y="322" font-family="Arial, sans-serif" font-size="14" fill="white">Andre kortsiktige fordringer</text>
   <text x="365" y="322" text-anchor="end" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">300.000</text>
   
-  <!-- Total assets -->
+
   <rect x="70" y="320" width="310" height="20" fill="rgba(255,255,255,0.4)" rx="3"/>
   <text x="225" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     Sum: 4.000.000 NOK
   </text>
   
-  <!-- Right side - Kortsiktig gjeld -->
+
   <rect x="500" y="70" width="350" height="280" fill="url(#liabilityGrad)" rx="12"/>
   <text x="675" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
     KORTSIKTIG GJELD
   </text>
   
-  <!-- Liability items with amounts -->
+
   <rect x="520" y="120" width="310" height="35" fill="rgba(255,255,255,0.2)" rx="5"/>
   <text x="535" y="142" font-family="Arial, sans-serif" font-size="14" fill="white">Leverandørgjeld</text>
   <text x="815" y="142" text-anchor="end" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">1.200.000</text>
@@ -78,19 +78,19 @@
   <text x="535" y="277" font-family="Arial, sans-serif" font-size="14" fill="white">Annen kortsiktig gjeld</text>
   <text x="815" y="277" text-anchor="end" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">300.000</text>
   
-  <!-- Total liabilities -->
+
   <rect x="520" y="320" width="310" height="20" fill="rgba(255,255,255,0.4)" rx="3"/>
   <text x="675" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     Sum: 2.400.000 NOK
   </text>
   
-  <!-- Calculations section -->
+
   <rect x="100" y="380" width="700" height="180" fill="url(#resultGrad)" rx="12"/>
   <text x="450" y="410" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
     BEREGNINGER
   </text>
   
-  <!-- Calculation 1 -->
+
   <rect x="130" y="430" width="200" height="100" fill="rgba(255,255,255,0.2)" rx="8"/>
   <text x="230" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Likviditetsgrad 1
@@ -105,7 +105,7 @@
     (God betalingsevne)
   </text>
   
-  <!-- Calculation 2 -->
+
   <rect x="350" y="430" width="200" height="100" fill="rgba(255,255,255,0.2)" rx="8"/>
   <text x="450" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Likviditetsgrad 2
@@ -123,7 +123,7 @@
     (Akseptabel)
   </text>
   
-  <!-- Calculation 3 -->
+
   <rect x="570" y="430" width="200" height="100" fill="rgba(255,255,255,0.2)" rx="8"/>
   <text x="670" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Kontantgrad
@@ -141,7 +141,7 @@
     (Moderat)
   </text>
   
-  <!-- Bottom conclusion -->
+
   <text x="450" y="580" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#2C3E50">
     Konklusjon: Akseptabel likviditet, men avhengig av innkassering av kundefordringer
   </text>

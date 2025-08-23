@@ -1,56 +1,56 @@
 <svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
   <title>Krav til bokføringssystem</title>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f8f9fa"/>
   
-  <!-- Main title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">Krav til Bokføringssystem</text>
   
-  <!-- Central system -->
+
   <rect x="300" y="150" width="200" height="100" rx="10" fill="#3498db" stroke="#2980b9" stroke-width="3"/>
   <text x="400" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">BOKFØRINGS-</text>
   <text x="400" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">SYSTEM</text>
   <text x="400" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Forsvarlig og lovlig</text>
   
-  <!-- Dobbel bokføring -->
+
   <rect x="50" y="80" width="150" height="80" rx="5" fill="#27ae60" stroke="#229954" stroke-width="2"/>
   <text x="125" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Dobbel</text>
   <text x="125" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Bokføring</text>
   <text x="125" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Debet = Kredit</text>
   
-  <!-- Kronologisk registrering -->
+
   <rect x="600" y="80" width="150" height="80" rx="5" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
   <text x="675" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Kronologisk</text>
   <text x="675" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Registrering</text>
   <text x="675" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Tidsrekkefølge</text>
   
-  <!-- Systematisk kontoplan -->
+
   <rect x="50" y="320" width="150" height="80" rx="5" fill="#f39c12" stroke="#e67e22" stroke-width="2"/>
   <text x="125" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Systematisk</text>
   <text x="125" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Kontoplan</text>
   <text x="125" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Standardisert</text>
   
-  <!-- Sporbarhet -->
+
   <rect x="600" y="320" width="150" height="80" rx="5" fill="#9b59b6" stroke="#8e44ad" stroke-width="2"/>
   <text x="675" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Sporbarhet</text>
   <text x="675" y="375" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Bilag til bokføring</text>
   <text x="675" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Kontrollsti</text>
   
-  <!-- Connection lines -->
+
   <line x1="200" y1="120" x2="300" y2="170" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
   <line x1="600" y1="120" x2="500" y2="170" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
   <line x1="200" y1="360" x2="300" y2="230" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
   <line x1="600" y1="360" x2="500" y2="230" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>
     </marker>
   </defs>
   
-  <!-- Technical requirements -->
+
   <rect x="250" y="430" width="300" height="60" rx="5" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
   <text x="400" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">Tekniske krav:</text>
   <text x="400" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Sikkerhetskopier og datatrygghet</text>

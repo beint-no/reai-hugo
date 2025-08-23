@@ -13,26 +13,26 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bg)"/>
   
-  <!-- Title -->
+
   <rect x="50" y="20" width="700" height="50" fill="url(#headerGrad)" rx="8" filter="url(#shadow)"/>
   <text x="400" y="50" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="20" font-weight="bold">
     Verdsettelsesmodeller Integrert med Yield-Analyse
   </text>
   
-  <!-- Dividend Discount Model -->
+
   <g>
     <rect x="50" y="90" width="340" height="140" fill="#10b981" stroke="#047857" stroke-width="2" rx="8" filter="url(#shadow)"/>
     <text x="220" y="115" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Dividend Discount Model (DDM)</text>
     
-    <!-- Gordon Growth Model -->
+
     <rect x="70" y="130" width="300" height="35" fill="#bbf7d0" stroke="#10b981" stroke-width="1" rx="4"/>
     <text x="220" y="145" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Gordon Growth Model</text>
     <text x="220" y="158" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="11">P = D₁ / (r - g)</text>
     
-    <!-- Components -->
+
     <circle cx="90" cy="185" r="3" fill="#bbf7d0"/>
     <text x="100" y="190" fill="white" font-family="Arial, sans-serif" font-size="10">P = Aksjepris</text>
     
@@ -46,12 +46,12 @@
     <text x="230" y="210" fill="white" font-family="Arial, sans-serif" font-size="10">g = Vekstrate</text>
   </g>
   
-  <!-- Multi-Stage DDM -->
+
   <g>
     <rect x="410" y="90" width="340" height="140" fill="#3b82f6" stroke="#1e40af" stroke-width="2" rx="8" filter="url(#shadow)"/>
     <text x="580" y="115" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Multi-Stage DDM</text>
     
-    <!-- Stages -->
+
     <rect x="430" y="130" width="80" height="30" fill="#93c5fd" stroke="#3b82f6" stroke-width="1" rx="4"/>
     <text x="470" y="145" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Stadium 1</text>
     <text x="470" y="155" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="9">Høy vekst</text>
@@ -64,7 +64,7 @@
     <text x="670" y="145" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Stadium 3</text>
     <text x="670" y="155" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="9">Stabil vekst</text>
     
-    <!-- Characteristics -->
+
     <text x="430" y="180" fill="white" font-family="Arial, sans-serif" font-size="10">Lavt utbytte</text>
     <text x="430" y="195" fill="white" font-family="Arial, sans-serif" font-size="10">Høy vekst</text>
     <text x="430" y="210" fill="white" font-family="Arial, sans-serif" font-size="10">Reinvestering</text>
@@ -78,16 +78,16 @@
     <text x="630" y="210" fill="white" font-family="Arial, sans-serif" font-size="10">Utdeling</text>
   </g>
   
-  <!-- Yield Gap Analysis -->
+
   <g>
     <rect x="50" y="250" width="340" height="120" fill="#f59e0b" stroke="#d97706" stroke-width="2" rx="8" filter="url(#shadow)"/>
     <text x="220" y="275" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Yield Gap-Analyse</text>
     
-    <!-- Formula -->
+
     <rect x="70" y="290" width="300" height="30" fill="#fde68a" stroke="#f59e0b" stroke-width="1" rx="4"/>
     <text x="220" y="310" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Yield Gap = Earnings Yield - 10-års Statsrente</text>
     
-    <!-- Interpretation -->
+
     <circle cx="90" cy="340" r="3" fill="#fde68a"/>
     <text x="100" y="345" fill="white" font-family="Arial, sans-serif" font-size="10">Positiv gap: Undervurderte aksjer</text>
     
@@ -95,12 +95,12 @@
     <text x="100" y="360" fill="white" font-family="Arial, sans-serif" font-size="10">Negativ gap: Overvurderte aksjer</text>
   </g>
   
-  <!-- Enterprise Value Metrics -->
+
   <g>
     <rect x="410" y="250" width="340" height="120" fill="#7c3aed" stroke="#6d28d9" stroke-width="2" rx="8" filter="url(#shadow)"/>
     <text x="580" y="275" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Enterprise Value Yields</text>
     
-    <!-- EV Metrics -->
+
     <rect x="430" y="290" width="90" height="25" fill="#c4b5fd" stroke="#7c3aed" stroke-width="1" rx="4"/>
     <text x="475" y="307" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="10" font-weight="bold">EV/EBITDA</text>
     
@@ -110,7 +110,7 @@
     <rect x="650" y="290" width="90" height="25" fill="#c4b5fd" stroke="#7c3aed" stroke-width="1" rx="4"/>
     <text x="695" y="307" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="10" font-weight="bold">EBIT Yield</text>
     
-    <!-- Descriptions -->
+
     <text x="430" y="335" fill="white" font-family="Arial, sans-serif" font-size="9">Operasjonell</text>
     <text x="430" y="350" fill="white" font-family="Arial, sans-serif" font-size="9">yield-indikator</text>
     
@@ -121,12 +121,12 @@
     <text x="650" y="350" fill="white" font-family="Arial, sans-serif" font-size="9">inntjening</text>
   </g>
   
-  <!-- Relative Valuation -->
+
   <g>
     <rect x="50" y="390" width="340" height="120" fill="#dc2626" stroke="#b91c1c" stroke-width="2" rx="8" filter="url(#shadow)"/>
     <text x="220" y="415" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Relative Valuation</text>
     
-    <!-- Comparison metrics -->
+
     <rect x="70" y="430" width="90" height="25" fill="#fca5a5" stroke="#dc2626" stroke-width="1" rx="4"/>
     <text x="115" y="447" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="10" font-weight="bold">P/E vs Earnings</text>
     
@@ -136,7 +136,7 @@
     <rect x="290" y="430" width="90" height="25" fill="#fca5a5" stroke="#dc2626" stroke-width="1" rx="4"/>
     <text x="335" y="447" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="10" font-weight="bold">P/B vs ROE</text>
     
-    <!-- Usage -->
+
     <text x="70" y="475" fill="white" font-family="Arial, sans-serif" font-size="9">Direkte sammenligning</text>
     <text x="70" y="490" fill="white" font-family="Arial, sans-serif" font-size="9">med markedet</text>
     
@@ -147,12 +147,12 @@
     <text x="290" y="490" fill="white" font-family="Arial, sans-serif" font-size="9">sammenligning</text>
   </g>
   
-  <!-- Yield-Based Screening -->
+
   <g>
     <rect x="410" y="390" width="340" height="120" fill="#059669" stroke="#047857" stroke-width="2" rx="8" filter="url(#shadow)"/>
     <text x="580" y="415" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Yield-basert Screening</text>
     
-    <!-- Screening steps -->
+
     <circle cx="440" cy="440" r="8" fill="#bbf7d0"/>
     <text x="460" y="445" fill="white" font-family="Arial, sans-serif" font-size="11">1. Høy dividend yield (>4%)</text>
     
@@ -166,12 +166,12 @@
     <text x="460" y="505" fill="white" font-family="Arial, sans-serif" font-size="11">4. Sterk kontantstrøm</text>
   </g>
   
-  <!-- Valuation Formula Examples -->
+
   <g>
     <rect x="50" y="530" width="700" height="50" fill="white" stroke="#d1d5db" stroke-width="2" rx="8" filter="url(#shadow)"/>
     <text x="400" y="548" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Praktisk Eksempel</text>
     
-    <!-- Example calculation -->
+
     <text x="70" y="565" fill="#374151" font-family="Arial, sans-serif" font-size="11">Selskap A: Dividend Yield = 5%, Vekst = 3%, Avkastningskrav = 10%</text>
     <text x="450" y="565" fill="#374151" font-family="Arial, sans-serif" font-size="11">→ P = 50 / (0.10 - 0.03) = 714 kr</text>
   </g>

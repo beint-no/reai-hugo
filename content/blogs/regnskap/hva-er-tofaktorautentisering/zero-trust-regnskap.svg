@@ -18,35 +18,35 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Zero Trust Architecture i Regnskap
   </text>
   
-  <!-- Traditional Model Section -->
+
   <text x="50" y="70" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#e74c3c">
     Tradisjonell Modell
   </text>
   
-  <!-- Traditional network perimeter -->
+
   <rect x="50" y="80" width="300" height="180" fill="none" stroke="#e74c3c" stroke-width="2" stroke-dasharray="5,5"/>
   <text x="200" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#e74c3c">
     Nettverksperimeter
   </text>
   
-  <!-- User in traditional model -->
+
   <circle cx="100" cy="140" r="25" fill="#ffc107"/>
   <text x="100" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#000">
     Bruker
   </text>
   
-  <!-- Arrow to all systems -->
+
   <path d="M 130 140 L 170 140" stroke="#e74c3c" stroke-width="2" marker-end="url(#arrowhead)"/>
   
-  <!-- Traditional systems access -->
+
   <rect x="180" y="120" width="60" height="40" fill="#ffcccc" stroke="#e74c3c"/>
   <text x="210" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#000">
     Alle
@@ -55,7 +55,7 @@
     Systemer
   </text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#e74c3c"/>
@@ -65,21 +65,21 @@
     </marker>
   </defs>
   
-  <!-- Zero Trust Model Section -->
+
   <text x="450" y="70" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#28a745">
     Zero Trust Modell
   </text>
   
-  <!-- Zero Trust principles -->
+
   <rect x="450" y="80" width="300" height="180" fill="none" stroke="#28a745" stroke-width="2"/>
   
-  <!-- User in zero trust -->
+
   <circle cx="500" cy="140" r="25" fill="#28a745"/>
   <text x="500" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#fff">
     Bruker
   </text>
   
-  <!-- Verification layer -->
+
   <rect x="540" y="120" width="80" height="40" fill="url(#verifyGradient)" stroke="#28a745"/>
   <text x="580" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#fff">
     Verifikasjon
@@ -88,10 +88,10 @@
     Per System
   </text>
   
-  <!-- Arrow with verification -->
+
   <path d="M 525 140 L 535 140" stroke="#28a745" stroke-width="2" marker-end="url(#greenArrow)"/>
   
-  <!-- Individual system access -->
+
   <rect x="640" y="110" width="80" height="20" fill="#ccffcc" stroke="#28a745"/>
   <text x="680" y="122" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#000">
     Hovedbok
@@ -107,17 +107,17 @@
     Bank
   </text>
   
-  <!-- Arrows to individual systems -->
+
   <path d="M 620 130 L 635 120" stroke="#28a745" stroke-width="1" marker-end="url(#greenArrow)"/>
   <path d="M 620 140 L 635 145" stroke="#28a745" stroke-width="1" marker-end="url(#greenArrow)"/>
   <path d="M 620 150 L 635 170" stroke="#28a745" stroke-width="1" marker-end="url(#greenArrow)"/>
   
-  <!-- Core Principles Section -->
+
   <text x="400" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">
     Zero Trust Prinsipper for Regnskap
   </text>
   
-  <!-- Principle 1: Never Trust, Always Verify -->
+
   <rect x="50" y="320" width="160" height="100" fill="url(#trustGradient)" stroke="#dc3545" rx="10"/>
   <text x="130" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#fff">
     Never Trust,
@@ -139,7 +139,7 @@
     • Kontinuerlig validering
   </text>
   
-  <!-- Principle 2: Least Privilege -->
+
   <rect x="230" y="320" width="160" height="100" fill="url(#verifyGradient)" stroke="#28a745" rx="10"/>
   <text x="310" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#fff">
     Least Privilege
@@ -161,7 +161,7 @@
     • Tidsbaserte tilganger
   </text>
   
-  <!-- Principle 3: Microsegmentation -->
+
   <rect x="410" y="320" width="160" height="100" fill="url(#systemGradient)" stroke="#007bff" rx="10"/>
   <text x="490" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#fff">
     Microsegmentation
@@ -183,7 +183,7 @@
     points
   </text>
   
-  <!-- Principle 4: Continuous Monitoring -->
+
   <rect x="590" y="320" width="160" height="100" fill="#6c757d" stroke="#495057" rx="10"/>
   <text x="670" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#fff">
     Continuous
@@ -205,12 +205,12 @@
     • Audit logging
   </text>
   
-  <!-- Implementation Flow -->
+
   <text x="400" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
     Zero Trust Implementering i Regnskapssystem
   </text>
   
-  <!-- Implementation steps -->
+
   <circle cx="100" cy="500" r="20" fill="#007bff"/>
   <text x="100" y="505" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#fff">
     1
@@ -261,7 +261,7 @@
     Utlogging
   </text>
   
-  <!-- Additional arrow markers -->
+
   <defs>
     <marker id="blueArrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#007bff"/>
@@ -271,7 +271,7 @@
     </marker>
   </defs>
   
-  <!-- Benefits box -->
+
   <rect x="500" y="470" width="250" height="100" fill="#f8f9fa" stroke="#dee2e6" rx="5"/>
   <text x="625" y="485" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
     Fordeler for Regnskapsvirksomheter
@@ -293,7 +293,7 @@
     • Forbedret audit-sporbarhet
   </text>
   
-  <!-- Footer -->
+
   <text x="400" y="585" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
     Zero Trust: "Aldri stol, alltid verifiser" - kritisk for moderne regnskapssikkerhet
   </text>

@@ -10,44 +10,44 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="400" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#212529">
     Fjernleverbare Tjenester
   </text>
   
-  <!-- Cloud representing digital services -->
+
   <ellipse cx="400" cy="150" rx="120" ry="60" fill="url(#cloudGradient)" opacity="0.9"/>
   <ellipse cx="350" cy="130" rx="80" ry="40" fill="url(#cloudGradient)" opacity="0.7"/>
   <ellipse cx="450" cy="130" rx="80" ry="40" fill="url(#cloudGradient)" opacity="0.7"/>
   
-  <!-- Digital service icons in cloud -->
+
   <g transform="translate(400,150)">
-    <!-- Laptop -->
+
     <rect x="-25" y="-15" width="50" height="30" rx="3" fill="white" opacity="0.9"/>
     <rect x="-20" y="-10" width="40" height="20" fill="#28a745"/>
     
-    <!-- Mobile phone -->
+
     <rect x="35" y="-20" width="20" height="35" rx="5" fill="white" opacity="0.9"/>
     <rect x="38" y="-15" width="14" height="20" fill="#17a2b8"/>
     
-    <!-- Server -->
+
     <rect x="-60" y="-10" width="25" height="20" rx="2" fill="white" opacity="0.9"/>
     <circle cx="-52" cy="-5" r="2" fill="#dc3545"/>
     <circle cx="-45" cy="-5" r="2" fill="#28a745"/>
   </g>
   
-  <!-- Connection lines -->
+
   <g stroke="#6c757d" stroke-width="2" fill="none" opacity="0.6">
     <line x1="150" y1="250" x2="350" y2="180"/>
     <line x1="400" y1="220" x2="400" y2="250"/>
     <line x1="650" y1="250" x2="450" y2="180"/>
   </g>
   
-  <!-- User devices -->
-  <!-- Left user - Desktop -->
+
+
   <g transform="translate(150,250)">
     <rect x="-30" y="-20" width="60" height="40" rx="5" fill="#495057"/>
     <rect x="-25" y="-15" width="50" height="25" fill="#f8f9fa"/>
@@ -55,7 +55,7 @@
     <text x="0" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#495057">Desktop</text>
   </g>
   
-  <!-- Center user - Mobile -->
+
   <g transform="translate(400,280)">
     <rect x="-15" y="-25" width="30" height="50" rx="8" fill="#495057"/>
     <rect x="-10" y="-18" width="20" height="30" fill="#f8f9fa"/>
@@ -63,7 +63,7 @@
     <text x="0" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#495057">Mobil</text>
   </g>
   
-  <!-- Right user - Tablet -->
+
   <g transform="translate(650,250)">
     <rect x="-25" y="-20" width="50" height="35" rx="6" fill="#495057"/>
     <rect x="-20" y="-15" width="40" height="25" fill="#f8f9fa"/>
@@ -71,7 +71,7 @@
     <text x="0" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#495057">Nettbrett</text>
   </g>
   
-  <!-- Service examples -->
+
   <g font-family="Arial, sans-serif" font-size="14" fill="#495057">
     <text x="50" y="350" font-weight="bold">Eksempler:</text>
     <text x="50" y="370">• SaaS-tjenester</text>
@@ -81,7 +81,7 @@
     <text x="580" y="370">• API-tjenester</text>
   </g>
   
-  <!-- MVA indicator -->
+
   <g transform="translate(700,80)">
     <rect x="-40" y="-15" width="80" height="30" rx="5" fill="#ffc107" opacity="0.9"/>
     <text x="0" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#212529">MVA-regler</text>

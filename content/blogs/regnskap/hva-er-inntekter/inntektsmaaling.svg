@@ -10,15 +10,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#333">
     Måling og Verdivurdering av Inntekter
   </text>
   
-  <!-- Central concept -->
+
   <rect x="300" y="120" width="200" height="100" fill="url(#centerGradient)" stroke="#0066cc" stroke-width="3" rx="15"/>
   <text x="400" y="150" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
     VIRKELIG VERDI
@@ -33,9 +33,9 @@
     fratrukket justeringer
   </text>
   
-  <!-- Factors affecting measurement -->
+
   
-  <!-- Factor 1: Kontantrabatter -->
+
   <rect x="50" y="80" width="180" height="80" fill="white" stroke="#28a745" stroke-width="2" rx="8"/>
   <text x="140" y="105" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#28a745">
     KONTANTRABATTER
@@ -50,7 +50,7 @@
     Eks: 2% ved 10 dager
   </text>
   
-  <!-- Factor 2: Mengderabatter -->
+
   <rect x="570" y="80" width="180" height="80" fill="white" stroke="#ffc107" stroke-width="2" rx="8"/>
   <text x="660" y="105" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffc107">
     MENGDERABATTER
@@ -65,7 +65,7 @@
     Eks: 5% over 100k
   </text>
   
-  <!-- Factor 3: Returer -->
+
   <rect x="50" y="280" width="180" height="80" fill="white" stroke="#dc3545" stroke-width="2" rx="8"/>
   <text x="140" y="305" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#dc3545">
     RETURER
@@ -80,7 +80,7 @@
     Basert på historikk
   </text>
   
-  <!-- Factor 4: Garantier -->
+
   <rect x="570" y="280" width="180" height="80" fill="white" stroke="#17a2b8" stroke-width="2" rx="8"/>
   <text x="660" y="305" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#17a2b8">
     GARANTIER
@@ -95,7 +95,7 @@
     Estimert kostnad
   </text>
   
-  <!-- Factor 5: Valutakurser -->
+
   <rect x="300" y="280" width="200" height="80" fill="white" stroke="#6f42c1" stroke-width="2" rx="8"/>
   <text x="400" y="305" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#6f42c1">
     VALUTAKURSER
@@ -110,14 +110,14 @@
     Kurs på transaksjonsdato
   </text>
   
-  <!-- Connecting lines -->
+
   <line x1="230" y1="120" x2="300" y2="150" stroke="#28a745" stroke-width="2"/>
   <line x1="570" y1="120" x2="500" y2="150" stroke="#ffc107" stroke-width="2"/>
   <line x1="230" y1="320" x2="300" y2="190" stroke="#dc3545" stroke-width="2"/>
   <line x1="570" y1="320" x2="500" y2="190" stroke="#17a2b8" stroke-width="2"/>
   <line x1="400" y1="280" x2="400" y2="220" stroke="#6f42c1" stroke-width="2"/>
   
-  <!-- Formula box -->
+
   <rect x="50" y="400" width="700" height="80" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="10"/>
   <text x="400" y="430" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#333">
     Formel for Inntektsmåling
@@ -129,7 +129,7 @@
     (Justert for valutakurser ved utenlandske transaksjoner)
   </text>
   
-  <!-- Icons -->
+
   <circle cx="100" cy="50" r="15" fill="#28a745" opacity="0.1"/>
   <text x="100" y="57" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#28a745">
     -

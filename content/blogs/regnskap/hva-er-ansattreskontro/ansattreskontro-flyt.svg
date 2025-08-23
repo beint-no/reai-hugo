@@ -17,15 +17,15 @@
     </marker>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="700" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Månedlig Ansattreskontro Syklus
   </text>
   
-  <!-- Central ansattreskontro -->
+
   <rect x="320" y="280" width="160" height="80" fill="url(#centralGradient)" rx="10"/>
   <text x="400" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     ANSATTRESKONTRO
@@ -37,7 +37,7 @@
     gjennom måneden
   </text>
   
-  <!-- Step 1: Registrering av arbeidstid -->
+
   <rect x="50" y="100" width="140" height="80" fill="url(#stepGradient)" rx="8"/>
   <text x="120" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     1. Registrering av
@@ -50,7 +50,7 @@
   </text>
   <line x1="190" y1="140" x2="320" y2="290" stroke="#6c757d" stroke-width="2" marker-end="url(#arrow)"/>
   
-  <!-- Step 2: Lønnsberegning -->
+
   <rect x="610" y="100" width="140" height="80" fill="url(#stepGradient)" rx="8"/>
   <text x="680" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     2. Lønnsberegning
@@ -63,7 +63,7 @@
   </text>
   <line x1="610" y1="140" x2="480" y2="290" stroke="#6c757d" stroke-width="2" marker-end="url(#arrow)"/>
   
-  <!-- Step 3: Fradragsberegning -->
+
   <rect x="50" y="220" width="140" height="80" fill="url(#stepGradient)" rx="8"/>
   <text x="120" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     3. Fradragsberegning
@@ -76,9 +76,9 @@
   </text>
   <line x1="190" y1="260" x2="320" y2="320" stroke="#6c757d" stroke-width="2" marker-end="url(#arrow)"/>
   
-  <!-- Step 4: Oppdatering av ansattreskontro (already central) -->
+
   
-  <!-- Step 5: Lønnsutbetaling -->
+
   <rect x="610" y="220" width="140" height="80" fill="url(#stepGradient)" rx="8"/>
   <text x="680" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     5. Lønnsutbetaling
@@ -91,7 +91,7 @@
   </text>
   <line x1="610" y1="260" x2="480" y2="320" stroke="#6c757d" stroke-width="2" marker-end="url(#arrow)"/>
   
-  <!-- Step 6: Rapportering -->
+
   <rect x="330" y="450" width="140" height="80" fill="url(#stepGradient)" rx="8"/>
   <text x="400" y="475" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     6. Rapportering
@@ -104,9 +104,9 @@
   </text>
   <line x1="400" y1="360" x2="400" y2="450" stroke="#6c757d" stroke-width="2" marker-end="url(#arrow)"/>
   
-  <!-- Supporting systems -->
+
   <g>
-    <!-- Tidsregistreringssystem -->
+
     <rect x="50" y="580" width="120" height="60" fill="#6c757d" rx="5"/>
     <text x="110" y="605" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
       Tidsregistrering
@@ -116,7 +116,7 @@
     </text>
     <line x1="110" y1="580" x2="120" y2="180" stroke="#adb5bd" stroke-width="1" stroke-dasharray="5,5"/>
     
-    <!-- Lønnssystem -->
+
     <rect x="200" y="580" width="120" height="60" fill="#6c757d" rx="5"/>
     <text x="260" y="605" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
       Lønnssystem
@@ -126,7 +126,7 @@
     </text>
     <line x1="260" y1="580" x2="400" y2="360" stroke="#adb5bd" stroke-width="1" stroke-dasharray="5,5"/>
     
-    <!-- Regnskapssystem -->
+
     <rect x="480" y="580" width="120" height="60" fill="#6c757d" rx="5"/>
     <text x="540" y="605" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
       Regnskapssystem
@@ -136,7 +136,7 @@
     </text>
     <line x1="540" y1="580" x2="680" y2="300" stroke="#adb5bd" stroke-width="1" stroke-dasharray="5,5"/>
     
-    <!-- Altinn/A-ordningen -->
+
     <rect x="630" y="580" width="120" height="60" fill="#6c757d" rx="5"/>
     <text x="690" y="605" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
       Altinn
@@ -147,7 +147,7 @@
     <line x1="690" y1="580" x2="400" y2="530" stroke="#adb5bd" stroke-width="1" stroke-dasharray="5,5"/>
   </g>
   
-  <!-- Monthly cycle indicator -->
+
   <g>
     <circle cx="400" cy="320" r="120" fill="none" stroke="#28a745" stroke-width="3" stroke-dasharray="10,5"/>
     <text x="520" y="200" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#28a745">
@@ -158,7 +158,7 @@
     </text>
   </g>
   
-  <!-- Legend -->
+
   <g transform="translate(50, 660)">
     <rect x="0" y="0" width="15" height="15" fill="#007bff"/>
     <text x="20" y="12" font-family="Arial, sans-serif" font-size="11" fill="#6c757d">Hovedprosess</text>

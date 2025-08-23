@@ -21,19 +21,19 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#0066cc">
     Attestering Dokumentasjon
   </text>
   
-  <!-- Central Document -->
+
   <g transform="translate(300, 80)">
     <rect x="0" y="0" width="200" height="260" fill="white" stroke="#0066cc" stroke-width="3" rx="10" filter="url(#shadow)"/>
     
-    <!-- Document Header -->
+
     <rect x="10" y="10" width="180" height="40" fill="url(#docGradient)" rx="5"/>
     <text x="100" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
       ATTESTERT BILAG
@@ -42,13 +42,13 @@
       Faktura nr. 2024-001
     </text>
     
-    <!-- Document Content Lines -->
+
     <rect x="20" y="70" width="160" height="2" fill="#dee2e6"/>
     <rect x="20" y="80" width="140" height="2" fill="#dee2e6"/>
     <rect x="20" y="90" width="150" height="2" fill="#dee2e6"/>
     <rect x="20" y="100" width="120" height="2" fill="#dee2e6"/>
     
-    <!-- Signature Section -->
+
     <rect x="10" y="120" width="180" height="60" fill="#f8f9fa" stroke="#28a745" stroke-width="2" rx="5"/>
     <text x="20" y="140" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#28a745">
       ATTESTANT SIGNATUR:
@@ -58,7 +58,7 @@
       Ola Nordmann
     </text>
     
-    <!-- Date Section -->
+
     <rect x="10" y="190" width="180" height="30" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="5"/>
     <text x="20" y="205" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#856404">
       DATO: 15.03.2024
@@ -67,14 +67,14 @@
       Attestert den
     </text>
     
-    <!-- Notes Section -->
+
     <rect x="10" y="230" width="180" height="25" fill="#e7f3ff" stroke="#0066cc" stroke-width="1" rx="5"/>
     <text x="20" y="245" font-family="Arial, sans-serif" font-size="9" fill="#0066cc">
       Merknad: Godkjent iht. budsjett
     </text>
   </g>
   
-  <!-- Requirement 1: Signature -->
+
   <g transform="translate(50, 120)">
     <rect x="0" y="0" width="200" height="80" fill="url(#requirementGradient)" rx="10" filter="url(#shadow)"/>
     <circle cx="25" cy="25" r="15" fill="white"/>
@@ -92,7 +92,7 @@
     </text>
   </g>
   
-  <!-- Requirement 2: Date -->
+
   <g transform="translate(550, 120)">
     <rect x="0" y="0" width="200" height="80" fill="url(#requirementGradient)" rx="10" filter="url(#shadow)"/>
     <circle cx="25" cy="25" r="15" fill="white"/>
@@ -113,7 +113,7 @@
     </text>
   </g>
   
-  <!-- Requirement 3: Notes -->
+
   <g transform="translate(50, 220)">
     <rect x="0" y="0" width="200" height="80" fill="url(#requirementGradient)" rx="10" filter="url(#shadow)"/>
     <circle cx="25" cy="25" r="15" fill="white"/>
@@ -133,7 +133,7 @@
     </text>
   </g>
   
-  <!-- Requirement 4: References -->
+
   <g transform="translate(550, 220)">
     <rect x="0" y="0" width="200" height="80" fill="url(#requirementGradient)" rx="10" filter="url(#shadow)"/>
     <circle cx="25" cy="25" r="15" fill="white"/>
@@ -152,13 +152,13 @@
     </text>
   </g>
   
-  <!-- Digital vs Physical -->
+
   <g transform="translate(50, 350)">
     <text x="0" y="20" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#0066cc">
       Dokumentasjonsformer:
     </text>
     
-    <!-- Physical Documentation -->
+
     <g transform="translate(0, 40)">
       <rect x="0" y="0" width="320" height="80" fill="white" stroke="#0066cc" stroke-width="2" rx="8"/>
       <text x="20" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0066cc">
@@ -175,7 +175,7 @@
       </text>
     </g>
     
-    <!-- Digital Documentation -->
+
     <g transform="translate(340, 40)">
       <rect x="0" y="0" width="320" height="80" fill="url(#digitalGradient)" stroke="#6f42c1" stroke-width="2" rx="8"/>
       <text x="20" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -193,7 +193,7 @@
     </g>
   </g>
   
-  <!-- Important Note -->
+
   <g transform="translate(50, 450)">
     <rect x="0" y="0" width="700" height="30" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="5"/>
     <text x="350" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#856404">

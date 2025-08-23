@@ -18,50 +18,50 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8fafc"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
   <text x="400" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="22" font-weight="bold">Sammenheng: Kreditering og Kontantstrøm</text>
   
-  <!-- Main concept illustration -->
+
   <g transform="translate(400, 120)">
-    <!-- Accrual Accounting -->
+
     <rect x="-180" y="0" width="160" height="80" fill="url(#accrualGradient)" rx="10"/>
     <text x="-100" y="30" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">PERIODISERING</text>
     <text x="-100" y="50" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">Kreditering når</text>
     <text x="-100" y="65" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">transaksjonen oppstår</text>
     
-    <!-- VS -->
+
     <text x="0" y="45" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="18" font-weight="bold">≠</text>
     
-    <!-- Cash Flow -->
+
     <rect x="20" y="0" width="160" height="80" fill="url(#cashGradient)" rx="10"/>
     <text x="100" y="30" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">KONTANTSTRØM</text>
     <text x="100" y="50" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">Når kontanter</text>
     <text x="100" y="65" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">faktisk utveksles</text>
   </g>
   
-  <!-- Example 1: Sales Transaction -->
+
   <g transform="translate(50, 220)">
     <rect x="0" y="0" width="340" height="160" fill="white" stroke="#e2e8f0" stroke-width="2" rx="10"/>
     <text x="170" y="25" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Eksempel 1: Salgstransaksjon</text>
     
-    <!-- Timeline -->
+
     <line x1="30" y1="60" x2="310" y2="60" stroke="#6b7280" stroke-width="2"/>
     
-    <!-- Day 1: Sale -->
+
     <circle cx="80" cy="60" r="8" fill="#059669"/>
     <text x="80" y="45" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Dag 1</text>
     <text x="80" y="80" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="11">Salg</text>
     
-    <!-- Day 30: Payment -->
+
     <circle cx="260" cy="60" r="8" fill="#7c3aed"/>
     <text x="260" y="45" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Dag 30</text>
     <text x="260" y="80" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="11">Betaling</text>
     
-    <!-- Accounting entries -->
+
     <g transform="translate(20, 100)">
       <rect x="0" y="0" width="140" height="45" fill="#f0fdf4" stroke="#059669" stroke-width="1" rx="5"/>
       <text x="70" y="15" text-anchor="middle" fill="#047857" font-family="Arial, sans-serif" font-size="11" font-weight="bold">DAG 1 - KREDITERING</text>
@@ -75,25 +75,25 @@
     </g>
   </g>
   
-  <!-- Example 2: Purchase Transaction -->
+
   <g transform="translate(410, 220)">
     <rect x="0" y="0" width="340" height="160" fill="white" stroke="#e2e8f0" stroke-width="2" rx="10"/>
     <text x="170" y="25" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Eksempel 2: Innkjøpstransaksjon</text>
     
-    <!-- Timeline -->
+
     <line x1="30" y1="60" x2="310" y2="60" stroke="#6b7280" stroke-width="2"/>
     
-    <!-- Day 1: Purchase -->
+
     <circle cx="80" cy="60" r="8" fill="#dc2626"/>
     <text x="80" y="45" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Dag 1</text>
     <text x="80" y="80" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="11">Innkjøp</text>
     
-    <!-- Day 14: Payment -->
+
     <circle cx="260" cy="60" r="8" fill="#7c3aed"/>
     <text x="260" y="45" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Dag 14</text>
     <text x="260" y="80" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="11">Betaling</text>
     
-    <!-- Accounting entries -->
+
     <g transform="translate(20, 100)">
       <rect x="0" y="0" width="140" height="45" fill="#fef2f2" stroke="#dc2626" stroke-width="1" rx="5"/>
       <text x="70" y="15" text-anchor="middle" fill="#b91c1c" font-family="Arial, sans-serif" font-size="11" font-weight="bold">DAG 1 - KREDITERING</text>
@@ -107,12 +107,12 @@
     </g>
   </g>
   
-  <!-- Impact on Financial Statements -->
+
   <g transform="translate(50, 400)">
     <rect x="0" y="0" width="700" height="120" fill="white" stroke="#e2e8f0" stroke-width="2" rx="10"/>
     <text x="350" y="25" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="18" font-weight="bold">Påvirkning på Finansregnskapet</text>
     
-    <!-- Income Statement -->
+
     <g transform="translate(30, 40)">
       <rect x="0" y="0" width="200" height="60" fill="#f0fdf4" stroke="#059669" stroke-width="1" rx="5"/>
       <text x="100" y="20" text-anchor="middle" fill="#047857" font-family="Arial, sans-serif" font-size="14" font-weight="bold">RESULTATREGNSKAP</text>
@@ -120,7 +120,7 @@
       <text x="10" y="55" fill="#374151" font-family="Arial, sans-serif" font-size="11">• Inntekter/kostnader registreres</text>
     </g>
     
-    <!-- Balance Sheet -->
+
     <g transform="translate(250, 40)">
       <rect x="0" y="0" width="200" height="60" fill="#dbeafe" stroke="#2563eb" stroke-width="1" rx="5"/>
       <text x="100" y="20" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold">BALANSE</text>
@@ -128,7 +128,7 @@
       <text x="10" y="55" fill="#374151" font-family="Arial, sans-serif" font-size="11">• Kontanter endres ved betaling</text>
     </g>
     
-    <!-- Cash Flow Statement -->
+
     <g transform="translate(470, 40)">
       <rect x="0" y="0" width="200" height="60" fill="#f3e8ff" stroke="#7c3aed" stroke-width="1" rx="5"/>
       <text x="100" y="20" text-anchor="middle" fill="#6d28d9" font-family="Arial, sans-serif" font-size="14" font-weight="bold">KONTANTSTRØM</text>
@@ -137,14 +137,14 @@
     </g>
   </g>
   
-  <!-- Key Principles -->
+
   <g transform="translate(50, 540)">
     <rect x="0" y="0" width="700" height="50" fill="url(#creditGradient)" rx="10"/>
     <text x="350" y="20" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Nøkkelprinsipp</text>
     <text x="350" y="40" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14">Kreditering følger periodiseringsprinsippet - ikke kontantstrømmen</text>
   </g>
   
-  <!-- Working Capital Impact -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="300" height="120" fill="white" stroke="#e2e8f0" stroke-width="2" rx="10"/>
     <text x="150" y="25" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Arbeidskapital Påvirkning</text>
@@ -155,7 +155,7 @@
     <text x="25" y="100" fill="#374151" font-family="Arial, sans-serif" font-size="12">leverandørgjeld</text>
   </g>
   
-  <!-- Timing Differences -->
+
   <g transform="translate(370, 80)">
     <rect x="0" y="0" width="300" height="120" fill="white" stroke="#e2e8f0" stroke-width="2" rx="10"/>
     <text x="150" y="25" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Tidsforskjeller</text>

@@ -10,35 +10,35 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#F8F9FA"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="50" fill="url(#processGrad)"/>
   <text x="400" y="30" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="white" text-anchor="middle">Skjermingsrente Beregningsmetodikk</text>
   
-  <!-- Process flow container -->
+
   <rect x="40" y="70" width="720" height="500" fill="white" stroke="#BDC3C7" stroke-width="2" rx="10"/>
   
-  <!-- Step 1: Data Collection -->
+
   <rect x="80" y="100" width="280" height="80" fill="#E8F6F3" stroke="#1ABC9C" stroke-width="2" rx="8"/>
   <text x="220" y="125" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#16A085" text-anchor="middle">STEG 1: DATAINNSAMLING</text>
   <text x="220" y="145" font-family="Arial, sans-serif" font-size="10" fill="#2C3E50" text-anchor="middle">• Observasjonsperiode: Hele november måned</text>
   <text x="220" y="158" font-family="Arial, sans-serif" font-size="10" fill="#2C3E50" text-anchor="middle">• Datakilde: Norges Bank rentekurver</text>
   <text x="220" y="171" font-family="Arial, sans-serif" font-size="10" fill="#2C3E50" text-anchor="middle">• Instrument: Statsobligasjoner 3 års løpetid</text>
   
-  <!-- Step 2: Daily Observations -->
+
   <rect x="440" y="100" width="280" height="80" fill="#EBF5FB" stroke="#3498DB" stroke-width="2" rx="8"/>
   <text x="580" y="125" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2E86C1" text-anchor="middle">STEG 2: DAGLIGE OBSERVASJONER</text>
   <text x="580" y="145" font-family="Arial, sans-serif" font-size="10" fill="#2C3E50" text-anchor="middle">• 30 observasjoner per november (ca.)</text>
   <text x="580" y="158" font-family="Arial, sans-serif" font-size="10" fill="#2C3E50" text-anchor="middle">• Sluttkurs hver børsdag</text>
   <text x="580" y="171" font-family="Arial, sans-serif" font-size="10" fill="#2C3E50" text-anchor="middle">• Kvalitetskontroll av data</text>
   
-  <!-- Example data table -->
+
   <rect x="80" y="200" width="640" height="120" fill="#FAFAFA" stroke="#95A5A6" stroke-width="1" rx="5"/>
   <text x="400" y="220" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#34495E" text-anchor="middle">EKSEMPEL: NOVEMBER 2024 OBSERVASJONER</text>
   
-  <!-- Table header -->
+
   <rect x="100" y="230" width="600" height="25" fill="#34495E"/>
   <text x="150" y="247" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white" text-anchor="middle">Dato</text>
   <text x="250" y="247" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white" text-anchor="middle">Rente (%)</text>
@@ -47,7 +47,7 @@
   <text x="550" y="247" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white" text-anchor="middle">Dato</text>
   <text x="650" y="247" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white" text-anchor="middle">Rente (%)</text>
   
-  <!-- Table data -->
+
   <text x="150" y="270" font-family="Arial, sans-serif" font-size="9" fill="#2C3E50" text-anchor="middle">01.11</text>
   <text x="250" y="270" font-family="Arial, sans-serif" font-size="9" fill="#2C3E50" text-anchor="middle">3,45</text>
   <text x="350" y="270" font-family="Arial, sans-serif" font-size="9" fill="#2C3E50" text-anchor="middle">11.11</text>
@@ -69,28 +69,28 @@
   <text x="550" y="300" font-family="Arial, sans-serif" font-size="9" fill="#2C3E50" text-anchor="middle">29.11</text>
   <text x="650" y="300" font-family="Arial, sans-serif" font-size="9" fill="#2C3E50" text-anchor="middle">3,48</text>
   
-  <!-- Step 3: Calculation -->
+
   <rect x="80" y="340" width="280" height="80" fill="#FEF9E7" stroke="#F39C12" stroke-width="2" rx="8"/>
   <text x="220" y="365" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#B7950B" text-anchor="middle">STEG 3: BEREGNING</text>
   <text x="220" y="385" font-family="Arial, sans-serif" font-size="10" fill="#2C3E50" text-anchor="middle">Gjennomsnitt = Σ(Daglig rente) / Antall dager</text>
   <text x="220" y="398" font-family="Arial, sans-serif" font-size="10" fill="#2C3E50" text-anchor="middle">= (3,45 + 3,48 + ... + 3,48) / 30</text>
   <text x="220" y="411" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#D68910" text-anchor="middle">= 3,47%</text>
   
-  <!-- Step 4: Rounding -->
+
   <rect x="440" y="340" width="280" height="80" fill="#FADBD8" stroke="#E74C3C" stroke-width="2" rx="8"/>
   <text x="580" y="365" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#C0392B" text-anchor="middle">STEG 4: AVRUNDING</text>
   <text x="580" y="385" font-family="Arial, sans-serif" font-size="10" fill="#2C3E50" text-anchor="middle">Avrund til nærmeste 0,1 prosentpoeng</text>
   <text x="580" y="398" font-family="Arial, sans-serif" font-size="10" fill="#2C3E50" text-anchor="middle">3,47% → 3,5%</text>
   <text x="580" y="411" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#E74C3C" text-anchor="middle">Skjermingsrente 2025: 3,5%</text>
   
-  <!-- Step 5: Publication -->
+
   <rect x="260" y="440" width="280" height="80" fill="#F4ECF7" stroke="#8E44AD" stroke-width="2" rx="8"/>
   <text x="400" y="465" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#6C3483" text-anchor="middle">STEG 5: OFFENTLIGGJØRING</text>
   <text x="400" y="485" font-family="Arial, sans-serif" font-size="10" fill="#2C3E50" text-anchor="middle">• Publiseres i desember</text>
   <text x="400" y="498" font-family="Arial, sans-serif" font-size="10" fill="#2C3E50" text-anchor="middle">• Gjelder for påfølgende inntektsår</text>
   <text x="400" y="511" font-family="Arial, sans-serif" font-size="10" fill="#2C3E50" text-anchor="middle">• Grunnlag for skjermingsfradrag-beregning</text>
   
-  <!-- Flow arrows -->
+
   <path d="M 360 140 L 440 140" stroke="#2E86C1" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 220 180 L 220 200" stroke="#1ABC9C" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 580 180 L 580 200" stroke="#3498DB" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
@@ -99,7 +99,7 @@
   <path d="M 360 380 L 440 380" stroke="#E74C3C" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 400 420 L 400 440" stroke="#8E44AD" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" 
      refX="9" refY="3.5" orient="auto">
@@ -107,7 +107,7 @@
     </marker>
   </defs>
   
-  <!-- Quality controls note -->
+
   <rect x="80" y="540" width="640" height="25" fill="#F8F9FA" stroke="#BDC3C7" stroke-width="1" rx="3"/>
   <text x="400" y="557" font-family="Arial, sans-serif" font-size="10" fill="#7F8C8D" text-anchor="middle">Kvalitetskontroller: Validering mot markedspraksis, sammenligning med tidligere år, godkjenning av Skattedirektoratet</text>
 </svg>

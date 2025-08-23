@@ -18,25 +18,25 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
   <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
     Praktiske Eksempler på Direkte Remittering
   </text>
   
-  <!-- Payroll Example -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="700" height="150" rx="10" fill="url(#payrollGradient)" opacity="0.9"/>
     <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
       💼 Eksempel 1: Månedlig Lønnsutbetaling (50 ansatte)
     </text>
     
-    <!-- Comparison table -->
+
     <g transform="translate(30, 45)">
-      <!-- Headers -->
+
       <rect x="0" y="0" width="150" height="30" rx="3" fill="white" opacity="0.3"/>
       <text x="75" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
         Aspekt
@@ -57,7 +57,7 @@
         Besparelse
       </text>
       
-      <!-- Row 1: Time -->
+
       <rect x="0" y="35" width="150" height="25" rx="3" fill="white" opacity="0.2"/>
       <text x="10" y="52" font-family="Arial, sans-serif" font-size="11" fill="white">Tid brukt</text>
       
@@ -70,7 +70,7 @@
       <rect x="580" y="35" width="120" height="25" rx="3" fill="white" opacity="0.2"/>
       <text x="590" y="52" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">90% mindre</text>
       
-      <!-- Row 2: Cost -->
+
       <rect x="0" y="65" width="150" height="25" rx="3" fill="white" opacity="0.2"/>
       <text x="10" y="82" font-family="Arial, sans-serif" font-size="11" fill="white">Kostnad per utbetaling</text>
       
@@ -84,21 +84,21 @@
       <text x="590" y="82" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">80% mindre</text>
     </g>
     
-    <!-- Annual savings -->
+
     <rect x="250" y="120" width="200" height="25" rx="5" fill="white" opacity="0.4"/>
     <text x="350" y="137" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
       Årlig besparelse: 50-80k kr
     </text>
   </g>
   
-  <!-- Supplier Payment Example -->
+
   <g transform="translate(50, 250)">
     <rect x="0" y="0" width="700" height="140" rx="10" fill="url(#supplierGradient)" opacity="0.9"/>
     <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
       🏭 Eksempel 2: Leverandørbetaling (20 fakturaer)
     </text>
     
-    <!-- Process steps -->
+
     <g transform="translate(30, 45)">
       <rect x="0" y="0" width="120" height="80" rx="5" fill="white" opacity="0.2"/>
       <text x="60" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
@@ -140,14 +140,14 @@
     </g>
   </g>
   
-  <!-- International Trade Example -->
+
   <g transform="translate(50, 410)">
     <rect x="0" y="0" width="700" height="140" rx="10" fill="url(#internationalGradient)" opacity="0.9"/>
     <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
       🌍 Eksempel 3: Internasjonal Handel (Import fra Tyskland - €50,000)
     </text>
     
-    <!-- International process -->
+
     <g transform="translate(30, 45)">
       <rect x="0" y="0" width="130" height="70" rx="5" fill="white" opacity="0.2"/>
       <text x="65" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
@@ -189,7 +189,7 @@
     </g>
   </g>
   
-  <!-- Bottom summary -->
+
   <rect x="50" y="570" width="700" height="25" rx="5" fill="#333" opacity="0.8"/>
   <text x="400" y="587" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     Direkte remittering gir konkrete fordeler i alle typer betalingssituasjoner - fra lønn til internasjonal handel

@@ -1,15 +1,15 @@
 <svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Likviditetsbudsjett Struktur
   </text>
   
-  <!-- Budget Flow -->
+
   <g transform="translate(100, 80)">
-    <!-- Opening Cash Balance -->
+
     <rect x="0" y="0" width="600" height="50" fill="#3498db" stroke="#2980b9" stroke-width="2" rx="8"/>
     <text x="50" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
       Inngående kontantbeholdning
@@ -21,18 +21,18 @@
       NOK
     </text>
     
-    <!-- Plus Sign -->
+
     <text x="50" y="80" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#27ae60">
       +
     </text>
     
-    <!-- Cash Inflows -->
+
     <rect x="0" y="90" width="600" height="140" fill="#27ae60" stroke="#229954" stroke-width="2" rx="8"/>
     <text x="20" y="115" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
       Forventede kontantinnbetalinger:
     </text>
     
-    <!-- Inflow items -->
+
     <text x="40" y="140" font-family="Arial, sans-serif" font-size="12" fill="white">
       • Salg for kontanter
     </text>
@@ -62,18 +62,18 @@
       2,150,000
     </text>
     
-    <!-- Minus Sign -->
+
     <text x="50" y="260" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#e74c3c">
       -
     </text>
     
-    <!-- Cash Outflows -->
+
     <rect x="0" y="270" width="600" height="180" fill="#e74c3c" stroke="#c0392b" stroke-width="2" rx="8"/>
     <text x="20" y="295" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
       Forventede kontantutbetalinger:
     </text>
     
-    <!-- Outflow items -->
+
     <text x="40" y="320" font-family="Arial, sans-serif" font-size="12" fill="white">
       • Betaling til leverandører
     </text>
@@ -117,12 +117,12 @@
       2,100,000
     </text>
     
-    <!-- Equals Sign -->
+
     <text x="50" y="480" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c3e50">
       =
     </text>
     
-    <!-- Closing Cash Balance -->
+
     <rect x="0" y="490" width="600" height="50" fill="#9b59b6" stroke="#8e44ad" stroke-width="2" rx="8"/>
     <text x="50" y="510" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
       Utgående kontantbeholdning
@@ -135,7 +135,7 @@
     </text>
   </g>
   
-  <!-- Analysis Section -->
+
   <g transform="translate(50, 50)">
     <rect x="650" y="80" width="140" height="460" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2" rx="8"/>
     
@@ -143,7 +143,7 @@
       Analyse
     </text>
     
-    <!-- Net Cash Flow -->
+
     <rect x="660" y="130" width="120" height="40" fill="#27ae60" stroke="#229954" stroke-width="1" rx="5"/>
     <text x="720" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
       Netto kontantstrøm
@@ -152,7 +152,7 @@
       +50,000
     </text>
     
-    <!-- Cash Flow Ratio -->
+
     <rect x="660" y="180" width="120" height="40" fill="#3498db" stroke="#2980b9" stroke-width="1" rx="5"/>
     <text x="720" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
       Kontantstrøm ratio
@@ -161,7 +161,7 @@
       1.02
     </text>
     
-    <!-- Liquidity Status -->
+
     <rect x="660" y="230" width="120" height="60" fill="#f39c12" stroke="#e67e22" stroke-width="1" rx="5"/>
     <text x="720" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
       Likviditetsstatus
@@ -173,7 +173,7 @@
       overvåk nøye
     </text>
     
-    <!-- Recommendations -->
+
     <text x="720" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
       Anbefalinger:
     </text>
@@ -194,7 +194,7 @@
       • Månedlig oppdatering
     </text>
     
-    <!-- Warning -->
+
     <rect x="660" y="420" width="120" height="40" fill="#e74c3c" stroke="#c0392b" stroke-width="1" rx="5"/>
     <text x="720" y="435" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
       Minimum kontant:
@@ -203,7 +203,7 @@
       500,000 NOK
     </text>
     
-    <!-- Buffer Status -->
+
     <rect x="660" y="470" width="120" height="40" fill="#27ae60" stroke="#229954" stroke-width="1" rx="5"/>
     <text x="720" y="485" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
       Buffer: OK

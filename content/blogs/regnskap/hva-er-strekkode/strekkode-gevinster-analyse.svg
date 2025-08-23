@@ -9,25 +9,25 @@
     </pattern>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#chartBg)"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1e293b">
     Strekkode Gevinster - Analyse
   </text>
   
-  <!-- Before/After Comparison Chart -->
+
   <g transform="translate(50, 60)">
     <text x="0" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">
       Før vs. Etter Implementering
     </text>
     
-    <!-- Chart axes -->
+
     <line x1="50" y1="50" x2="50" y2="250" stroke="#374151" stroke-width="2"/>
     <line x1="50" y1="250" x2="350" y2="250" stroke="#374151" stroke-width="2"/>
     
-    <!-- Y-axis labels -->
+
     <text x="45" y="55" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#64748b">100%</text>
     <text x="45" y="95" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#64748b">80%</text>
     <text x="45" y="135" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#64748b">60%</text>
@@ -35,69 +35,69 @@
     <text x="45" y="215" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#64748b">20%</text>
     <text x="45" y="255" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#64748b">0%</text>
     
-    <!-- Grid lines -->
+
     <line x1="50" y1="90" x2="350" y2="90" stroke="#e2e8f0" stroke-width="1"/>
     <line x1="50" y1="130" x2="350" y2="130" stroke="#e2e8f0" stroke-width="1"/>
     <line x1="50" y1="170" x2="350" y2="170" stroke="#e2e8f0" stroke-width="1"/>
     <line x1="50" y1="210" x2="350" y2="210" stroke="#e2e8f0" stroke-width="1"/>
     
-    <!-- Data Registration Time -->
+
     <g transform="translate(70, 0)">
       <text x="0" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#374151">Registreringstid</text>
-      <!-- Before (red) -->
+
       <rect x="-15" y="50" width="20" height="200" fill="#ef4444" opacity="0.8"/>
       <text x="-5" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#ef4444">Før</text>
-      <!-- After (green) -->
+
       <rect x="5" y="210" width="20" height="40" fill="#10b981" opacity="0.8"/>
       <text x="15" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#10b981">Etter</text>
-      <!-- Improvement arrow -->
+
       <path d="M 0 155 Q -20 135 -10 115" stroke="#3b82f6" stroke-width="2" fill="none" marker-end="url(#improvementArrow)"/>
       <text x="-25" y="125" font-family="Arial, sans-serif" font-size="8" fill="#3b82f6">-80%</text>
     </g>
     
-    <!-- Error Rate -->
+
     <g transform="translate(140, 0)">
       <text x="0" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#374151">Feilrate</text>
-      <!-- Before (red) -->
+
       <rect x="-15" y="210" width="20" height="40" fill="#ef4444" opacity="0.8"/>
       <text x="-5" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#ef4444">Før</text>
-      <!-- After (green) -->
+
       <rect x="5" y="248" width="20" height="2" fill="#10b981" opacity="0.8"/>
       <text x="15" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#10b981">Etter</text>
-      <!-- Improvement arrow -->
+
       <path d="M 0 200 Q -20 180 -10 160" stroke="#3b82f6" stroke-width="2" fill="none" marker-end="url(#improvementArrow)"/>
       <text x="-25" y="170" font-family="Arial, sans-serif" font-size="8" fill="#3b82f6">-99%</text>
     </g>
     
-    <!-- Labor Costs -->
+
     <g transform="translate(210, 0)">
       <text x="0" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#374151">Arbeidskost</text>
-      <!-- Before (red) -->
+
       <rect x="-15" y="90" width="20" height="160" fill="#ef4444" opacity="0.8"/>
       <text x="-5" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#ef4444">Før</text>
-      <!-- After (green) -->
+
       <rect x="5" y="170" width="20" height="80" fill="#10b981" opacity="0.8"/>
       <text x="15" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#10b981">Etter</text>
-      <!-- Improvement arrow -->
+
       <path d="M 0 155 Q -20 135 -10 115" stroke="#3b82f6" stroke-width="2" fill="none" marker-end="url(#improvementArrow)"/>
       <text x="-25" y="125" font-family="Arial, sans-serif" font-size="8" fill="#3b82f6">-50%</text>
     </g>
     
-    <!-- Inventory Accuracy -->
+
     <g transform="translate(280, 0)">
       <text x="0" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#374151">Lagernøyaktighet</text>
-      <!-- Before (red) -->
+
       <rect x="-15" y="130" width="20" height="120" fill="#ef4444" opacity="0.8"/>
       <text x="-5" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#ef4444">Før</text>
-      <!-- After (green) -->
+
       <rect x="5" y="54" width="20" height="196" fill="#10b981" opacity="0.8"/>
       <text x="15" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#10b981">Etter</text>
-      <!-- Improvement arrow -->
+
       <path d="M 0 155 Q 20 135 10 115" stroke="#3b82f6" stroke-width="2" fill="none" marker-end="url(#improvementArrow2)"/>
       <text x="25" y="125" font-family="Arial, sans-serif" font-size="8" fill="#3b82f6">+40%</text>
     </g>
     
-    <!-- Define arrow markers -->
+
     <defs>
       <marker id="improvementArrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
         <polygon points="0 0, 8 3, 0 6" fill="#3b82f6"/>
@@ -108,17 +108,17 @@
     </defs>
   </g>
   
-  <!-- ROI Timeline -->
+
   <g transform="translate(450, 60)">
     <text x="0" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">
       ROI Utvikling Over Tid
     </text>
     
-    <!-- Chart axes -->
+
     <line x1="30" y1="50" x2="30" y2="200" stroke="#374151" stroke-width="2"/>
     <line x1="30" y1="200" x2="280" y2="200" stroke="#374151" stroke-width="2"/>
     
-    <!-- Y-axis labels -->
+
     <text x="25" y="55" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#64748b">300%</text>
     <text x="25" y="85" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#64748b">200%</text>
     <text x="25" y="115" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#64748b">100%</text>
@@ -126,42 +126,42 @@
     <text x="25" y="175" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#64748b">-100%</text>
     <text x="25" y="205" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#64748b">-200%</text>
     
-    <!-- X-axis labels -->
+
     <text x="60" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">Mnd 3</text>
     <text x="110" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">Mnd 6</text>
     <text x="160" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">Mnd 12</text>
     <text x="210" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">Mnd 18</text>
     <text x="260" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">Mnd 24</text>
     
-    <!-- Break-even line -->
+
     <line x1="30" y1="145" x2="280" y2="145" stroke="#9ca3af" stroke-width="1" stroke-dasharray="5,5"/>
     <text x="285" y="149" font-family="Arial, sans-serif" font-size="9" fill="#9ca3af">Break-even</text>
     
-    <!-- ROI curve -->
+
     <path d="M 50 185 Q 80 160 110 125 Q 140 95 170 75 Q 200 60 230 55 Q 250 52 270 50" 
           stroke="#10b981" stroke-width="3" fill="none"/>
     
-    <!-- Key milestone points -->
+
     <circle cx="110" cy="125" r="4" fill="#3b82f6"/>
     <text x="110" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#3b82f6">Payback</text>
     
     <circle cx="170" cy="75" r="4" fill="#f59e0b"/>
     <text x="170" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#f59e0b">200% ROI</text>
     
-    <!-- Investment period (negative ROI) -->
+
     <rect x="50" y="145" width="60" height="40" fill="url(#diagonalHatch)" opacity="0.3"/>
     <text x="80" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#ef4444">Investeringsperiode</text>
   </g>
   
-  <!-- Key Benefits Summary -->
+
   <g transform="translate(50, 320)">
     <text x="0" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">
       Nøkkelgevinster - Økonomisk Oversikt
     </text>
     
-    <!-- Benefits grid -->
+
     <g transform="translate(0, 40)">
-      <!-- Cost savings -->
+
       <rect x="0" y="0" width="170" height="80" rx="8" fill="#f0fdf4" stroke="#16a34a" stroke-width="2"/>
       <text x="85" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#14532d">
         Kostnadsbesparelser
@@ -170,7 +170,7 @@
       <text x="10" y="55" font-family="Arial, sans-serif" font-size="11" fill="#14532d">• 90% færre registreringsfeil</text>
       <text x="10" y="70" font-family="Arial, sans-serif" font-size="11" fill="#14532d">• Eliminerte mangkostnader</text>
       
-      <!-- Efficiency gains -->
+
       <rect x="190" y="0" width="170" height="80" rx="8" fill="#eff6ff" stroke="#3b82f6" stroke-width="2"/>
       <text x="275" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e40af">
         Effektivitetsgevinster
@@ -179,7 +179,7 @@
       <text x="200" y="55" font-family="Arial, sans-serif" font-size="11" fill="#1e40af">• Sanntidsoppdateringer</text>
       <text x="200" y="70" font-family="Arial, sans-serif" font-size="11" fill="#1e40af">• Automatiserte arbeidsflyter</text>
       
-      <!-- Quality improvements -->
+
       <rect x="380" y="0" width="170" height="80" rx="8" fill="#fefce8" stroke="#eab308" stroke-width="2"/>
       <text x="465" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#a16207">
         Kvalitetsforbedringer
@@ -188,7 +188,7 @@
       <text x="390" y="55" font-family="Arial, sans-serif" font-size="11" fill="#a16207">• Bedre compliance</text>
       <text x="390" y="70" font-family="Arial, sans-serif" font-size="11" fill="#a16207">• Fullstendig sporbarhet</text>
       
-      <!-- Strategic benefits -->
+
       <rect x="570" y="0" width="170" height="80" rx="8" fill="#fdf4ff" stroke="#a855f7" stroke-width="2"/>
       <text x="655" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#7c2d12">
         Strategiske Fordeler
@@ -199,7 +199,7 @@
     </g>
   </g>
   
-  <!-- Typical ROI numbers -->
+
   <g transform="translate(50, 450)">
     <text x="0" y="15" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">
       Typiske ROI-tall: Payback 6-18 måneder | 3-års ROI: 200-400% | Årlige besparelser: 15-30% av totalkostnader

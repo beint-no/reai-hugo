@@ -18,79 +18,79 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#F8F9FA"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2C3E50">ERP Bankintegrasjon</text>
   
-  <!-- Central ERP System -->
+
   <rect x="320" y="250" width="160" height="100" rx="15" fill="url(#erpGradient)" stroke="#1B5E20" stroke-width="3"/>
   <text x="400" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">ERP-SYSTEM</text>
   <text x="400" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Kontantstrømstyring</text>
   <text x="400" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Automatisk bankavstemming</text>
   
-  <!-- Norwegian Banks -->
+
   <rect x="100" y="120" width="140" height="80" rx="10" fill="url(#bankGradient)" stroke="#0D47A1" stroke-width="2"/>
   <text x="170" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">NORSKE BANKER</text>
   <text x="170" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• DNB</text>
   <text x="170" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• Nordea</text>
   <text x="170" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• Sparebank 1</text>
   
-  <!-- Bank icon -->
+
   <rect x="150" y="130" width="40" height="25" rx="3" fill="white" opacity="0.9"/>
   <rect x="155" y="135" width="6" height="15" fill="#1565C0"/>
   <rect x="165" y="135" width="6" height="15" fill="#1565C0"/>
   <rect x="175" y="135" width="6" height="15" fill="#1565C0"/>
   <rect x="150" y="150" width="40" height="3" fill="#1565C0"/>
   
-  <!-- AvtaleGiro -->
+
   <rect x="560" y="120" width="140" height="80" rx="10" fill="url(#avtaleGiroGradient)" stroke="#2E7D32" stroke-width="2"/>
   <text x="630" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">AVTALEGIRO</text>
   <text x="630" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• Automatisk innkreving</text>
   <text x="630" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• Kundefakturaer</text>
   <text x="630" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• Redusert risiko</text>
   
-  <!-- BankGiro -->
+
   <rect x="100" y="400" width="140" height="80" rx="10" fill="url(#bankGiroGradient)" stroke="#E65100" stroke-width="2"/>
   <text x="170" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">BANKGIRO</text>
   <text x="170" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• Fakturainnkreving</text>
   <text x="170" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• OCR-nummer</text>
   <text x="170" y="475" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• Automatisk matching</text>
   
-  <!-- Liquidity Forecasting -->
+
   <rect x="560" y="400" width="140" height="80" rx="10" fill="#7B1FA2" stroke="#4A148C" stroke-width="2"/>
   <text x="630" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">LIKVIDITET</text>
   <text x="630" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• Sanntidsprognoser</text>
   <text x="630" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• Kontantstrømanalyse</text>
   <text x="630" y="475" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• Risikostyring</text>
   
-  <!-- Connection arrows from ERP to systems -->
-  <!-- To Banks -->
+
+
   <line x1="320" y1="270" x2="240" y2="180" stroke="#2E7D32" stroke-width="3" marker-end="url(#arrowhead)"/>
   <text x="270" y="220" font-family="Arial, sans-serif" font-size="10" fill="#2E7D32" font-weight="bold">Banktrans-</text>
   <text x="270" y="235" font-family="Arial, sans-serif" font-size="10" fill="#2E7D32" font-weight="bold">aksjoner</text>
   
-  <!-- To AvtaleGiro -->
+
   <line x1="480" y1="270" x2="560" y2="180" stroke="#2E7D32" stroke-width="3" marker-end="url(#arrowhead)"/>
   <text x="520" y="220" font-family="Arial, sans-serif" font-size="10" fill="#2E7D32" font-weight="bold">Automatisk</text>
   <text x="520" y="235" font-family="Arial, sans-serif" font-size="10" fill="#2E7D32" font-weight="bold">innkreving</text>
   
-  <!-- To BankGiro -->
+
   <line x1="320" y1="330" x2="240" y2="420" stroke="#2E7D32" stroke-width="3" marker-end="url(#arrowhead)"/>
   <text x="270" y="380" font-family="Arial, sans-serif" font-size="10" fill="#2E7D32" font-weight="bold">Faktura-</text>
   <text x="270" y="395" font-family="Arial, sans-serif" font-size="10" fill="#2E7D32" font-weight="bold">behandling</text>
   
-  <!-- To Liquidity -->
+
   <line x1="480" y1="330" x2="560" y2="420" stroke="#2E7D32" stroke-width="3" marker-end="url(#arrowhead)"/>
   <text x="520" y="380" font-family="Arial, sans-serif" font-size="10" fill="#2E7D32" font-weight="bold">Sanntids</text>
   <text x="520" y="395" font-family="Arial, sans-serif" font-size="10" fill="#2E7D32" font-weight="bold">overvåking</text>
   
-  <!-- Bidirectional arrows for bank reconciliation -->
+
   <line x1="240" y1="160" x2="320" y2="250" stroke="#1565C0" stroke-width="2" marker-end="url(#arrowheadBlue)"/>
   <text x="270" y="200" font-family="Arial, sans-serif" font-size="9" fill="#1565C0" font-weight="bold">Avstemming</text>
   
-  <!-- Arrow marker definitions -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#2E7D32"/>
@@ -100,7 +100,7 @@
     </marker>
   </defs>
   
-  <!-- Process flow section -->
+
   <rect x="50" y="520" width="700" height="60" fill="white" stroke="#DDD" stroke-width="1" rx="5"/>
   <text x="400" y="540" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2C3E50">Automatisert Prosessflyt:</text>
   <text x="100" y="555" font-family="Arial, sans-serif" font-size="10" fill="#666">1. Banktransaksjoner importeres automatisk</text>
@@ -108,7 +108,7 @@
   <text x="450" y="555" font-family="Arial, sans-serif" font-size="10" fill="#666">3. Sanntids likviditetsoversikt</text>
   <text x="450" y="570" font-family="Arial, sans-serif" font-size="10" fill="#666">4. Automatisk rapportering og prognoser</text>
   
-  <!-- Data flow indicators -->
+
   <circle cx="280" cy="200" r="3" fill="#1565C0"/>
   <circle cx="285" cy="205" r="3" fill="#1565C0"/>
   <circle cx="290" cy="210" r="3" fill="#1565C0"/>
@@ -125,7 +125,7 @@
   <circle cx="525" cy="395" r="3" fill="#7B1FA2"/>
   <circle cx="530" cy="390" r="3" fill="#7B1FA2"/>
   
-  <!-- Money/currency symbols -->
+
   <text x="400" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="#2E7D32" opacity="0.3">kr</text>
   <text x="150" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#1565C0" opacity="0.4">€</text>
   <text x="650" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#388E3C" opacity="0.4">$</text>

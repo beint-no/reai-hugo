@@ -10,16 +10,16 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#ffffff"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="80" fill="url(#headerGrad)"/>
   <text x="400" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
     Finansiering av Kundefordringer
   </text>
   
-  <!-- Central concept -->
+
   <circle cx="400" cy="200" r="60" fill="#3b82f6" stroke="#1e40af" stroke-width="3"/>
   <text x="400" y="195" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Kunde-
@@ -28,7 +28,7 @@
     fordringer
   </text>
   
-  <!-- Factoring -->
+
   <rect x="50" y="320" width="140" height="100" rx="10" fill="url(#cardGrad)" stroke="#64748b" stroke-width="2"/>
   <text x="120" y="345" text-anchor="middle" fill="#1e293b" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     Factoring
@@ -43,7 +43,7 @@
     ✓ Øyeblikkelig likviditet
   </text>
   
-  <!-- Fordringspant -->
+
   <rect x="220" y="320" width="140" height="100" rx="10" fill="url(#cardGrad)" stroke="#64748b" stroke-width="2"/>
   <text x="290" y="345" text-anchor="middle" fill="#1e293b" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     Fordringspant
@@ -58,7 +58,7 @@
     ✓ Beholder eierskap
   </text>
   
-  <!-- Kredittforsikring -->
+
   <rect x="440" y="320" width="140" height="100" rx="10" fill="url(#cardGrad)" stroke="#64748b" stroke-width="2"/>
   <text x="510" y="345" text-anchor="middle" fill="#1e293b" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     Kredittforsikring
@@ -73,7 +73,7 @@
     ✓ Risikobeskyttelse
   </text>
   
-  <!-- AvtaleGiro -->
+
   <rect x="610" y="320" width="140" height="100" rx="10" fill="url(#cardGrad)" stroke="#64748b" stroke-width="2"/>
   <text x="680" y="345" text-anchor="middle" fill="#1e293b" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     AvtaleGiro
@@ -88,13 +88,13 @@
     ✓ Sikker innbetaling
   </text>
   
-  <!-- Arrows from center to options -->
+
   <line x1="360" y1="240" x2="140" y2="310" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
   <line x1="380" y1="250" x2="270" y2="310" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
   <line x1="420" y1="250" x2="530" y2="310" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
   <line x1="440" y1="240" x2="660" y2="310" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
   
-  <!-- Benefits box -->
+
   <rect x="250" y="480" width="300" height="80" rx="10" fill="#ecfdf5" stroke="#10b981" stroke-width="2"/>
   <text x="400" y="505" text-anchor="middle" fill="#065f46" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     Fordeler med Finansiering
@@ -106,7 +106,7 @@
     • Økt arbeidskapital • Bedre likviditet
   </text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#64748b"/>

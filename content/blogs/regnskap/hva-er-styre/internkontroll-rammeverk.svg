@@ -18,13 +18,13 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f8fafc"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e293b">Internkontroll Rammeverk</text>
   
-  <!-- Control Environment -->
+
   <rect x="50" y="80" width="320" height="120" rx="10" fill="url(#environmentGradient)" stroke="#1e293b" stroke-width="2"/>
   <text x="210" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">Kontrollmiljø</text>
   
@@ -40,7 +40,7 @@
   <circle cx="80" cy="190" r="6" fill="white"/>
   <text x="93" y="195" font-family="Arial, sans-serif" font-size="11" fill="white">Myndighetsfordeling</text>
   
-  <!-- Risk Assessment -->
+
   <rect x="430" y="80" width="320" height="120" rx="10" fill="url(#assessmentGradient)" stroke="#1e293b" stroke-width="2"/>
   <text x="590" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">Risikovurdering</text>
   
@@ -56,7 +56,7 @@
   <circle cx="460" cy="190" r="6" fill="white"/>
   <text x="473" y="195" font-family="Arial, sans-serif" font-size="11" fill="white">Kontinuerlig overvåking</text>
   
-  <!-- Control Activities -->
+
   <rect x="50" y="240" width="320" height="120" rx="10" fill="url(#activitiesGradient)" stroke="#1e293b" stroke-width="2"/>
   <text x="210" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">Kontrollaktiviteter</text>
   
@@ -72,7 +72,7 @@
   <circle cx="80" cy="350" r="6" fill="white"/>
   <text x="93" y="355" font-family="Arial, sans-serif" font-size="11" fill="white">Periodisk evaluering</text>
   
-  <!-- Information & Communication -->
+
   <rect x="430" y="240" width="320" height="120" rx="10" fill="url(#monitoringGradient)" stroke="#1e293b" stroke-width="2"/>
   <text x="590" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">Informasjon &amp; Kommunikasjon</text>
   
@@ -88,19 +88,19 @@
   <circle cx="460" cy="350" r="6" fill="white"/>
   <text x="473" y="355" font-family="Arial, sans-serif" font-size="11" fill="white">Ekstern kommunikasjon</text>
   
-  <!-- Central monitoring circle -->
+
   <circle cx="400" cy="420" r="60" fill="#fbbf24" stroke="#1e293b" stroke-width="3"/>
   <text x="400" y="410" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e293b">Overvåking</text>
   <text x="400" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#1e293b">Kontinuerlig</text>
   <text x="400" y="440" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#1e293b">evaluering</text>
   
-  <!-- Arrows connecting all components -->
+
   <path d="M 210 200 Q 250 220 300 300" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)" fill="none"/>
   <path d="M 590 200 Q 550 220 500 300" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)" fill="none"/>
   <path d="M 210 360 Q 250 380 340 420" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)" fill="none"/>
   <path d="M 590 360 Q 550 380 460 420" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)" fill="none"/>
   
-  <!-- Bottom description -->
+
   <text x="400" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#64748b">Alle komponenter må fungere sammen for effektiv internkontroll</text>
   
   <defs>

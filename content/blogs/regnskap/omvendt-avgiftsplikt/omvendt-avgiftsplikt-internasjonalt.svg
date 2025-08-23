@@ -14,15 +14,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
     Internasjonale Aspekter ved Omvendt Avgiftsplikt
   </text>
   
-  <!-- Norway -->
+
   <rect x="50" y="70" width="200" height="150" fill="url(#norwayGradient)" stroke="#c82333" stroke-width="2" rx="10"/>
   <text x="150" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     NORGE
@@ -31,7 +31,7 @@
     Kjøper av tjenester
   </text>
   
-  <!-- Norway details -->
+
   <rect x="70" y="130" width="160" height="80" fill="white" stroke="#dc3545" stroke-width="1" rx="5"/>
   <text x="80" y="150" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#495057">
     Ansvar:
@@ -49,7 +49,7 @@
     • Følge norske regler
   </text>
   
-  <!-- EU Countries -->
+
   <rect x="300" y="70" width="200" height="150" fill="url(#euGradient)" stroke="#0056b3" stroke-width="2" rx="10"/>
   <text x="400" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     EU/EØS LAND
@@ -58,7 +58,7 @@
     Leverandør av tjenester
   </text>
   
-  <!-- EU details -->
+
   <rect x="320" y="130" width="160" height="80" fill="white" stroke="#007bff" stroke-width="1" rx="5"/>
   <text x="330" y="150" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#495057">
     Fordeler:
@@ -76,7 +76,7 @@
     • Følger hjemlandets regler
   </text>
   
-  <!-- Other Countries -->
+
   <rect x="550" y="70" width="200" height="150" fill="#6c757d" stroke="#495057" stroke-width="2" rx="10"/>
   <text x="650" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     ANDRE LAND
@@ -85,7 +85,7 @@
     Leverandør av tjenester
   </text>
   
-  <!-- Other countries details -->
+
   <rect x="570" y="130" width="160" height="80" fill="white" stroke="#6c757d" stroke-width="1" rx="5"/>
   <text x="580" y="150" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#495057">
     Samme regler:
@@ -103,11 +103,11 @@
     • Samme rapportering
   </text>
   
-  <!-- Arrows showing flow -->
+
   <path d="M 250 145 L 300 145" stroke="#495057" stroke-width="3" marker-end="url(#arrowhead)"/>
   <path d="M 500 145 L 550 145" stroke="#495057" stroke-width="3" marker-end="url(#arrowhead)"/>
   
-  <!-- Service flow labels -->
+
   <text x="275" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
     Tjenester
   </text>
@@ -115,7 +115,7 @@
     Tjenester
   </text>
   
-  <!-- Brexit impact -->
+
   <rect x="100" y="250" width="600" height="100" fill="white" stroke="#ffc107" stroke-width="2" rx="10"/>
   <text x="400" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#856404">
     Brexit-konsekvenser
@@ -134,7 +134,7 @@
     • Endrede dokumentasjonskrav og tollbehandling
   </text>
   
-  <!-- Global trends -->
+
   <rect x="100" y="370" width="600" height="100" fill="white" stroke="#28a745" stroke-width="2" rx="10"/>
   <text x="400" y="395" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e7e34">
     Globale Trender
@@ -153,7 +153,7 @@
     • Utvidelse av omvendt avgiftsplikt til flere tjenestetyper
   </text>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#495057"/>

@@ -10,15 +10,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="400" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1e293b">Digitalisering av Varekjøpsprosesser</text>
   
-  <!-- Traditional vs Digital comparison -->
+
   <g transform="translate(50,70)">
-    <!-- Traditional process -->
+
     <rect x="0" y="0" width="320" height="280" rx="10" fill="white" stroke="#94a3b8" stroke-width="2"/>
     <rect x="10" y="10" width="300" height="30" rx="5" fill="#94a3b8"/>
     <text x="160" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">Tradisjonell Prosess</text>
@@ -49,7 +49,7 @@
     </g>
   </g>
   
-  <!-- Digital process -->
+
   <g transform="translate(430,70)">
     <rect x="0" y="0" width="320" height="280" rx="10" fill="white" stroke="#4f46e5" stroke-width="2"/>
     <rect x="10" y="10" width="300" height="30" rx="5" fill="url(#digitalGradient)"/>
@@ -81,16 +81,16 @@
     </g>
   </g>
   
-  <!-- Transformation arrow -->
+
   <path d="M370,210 L430,210" stroke="#f59e0b" stroke-width="6" fill="none" marker-end="url(#arrowhead)"/>
   <text x="400" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#f59e0b">Digital Transform</text>
   
-  <!-- Key technologies -->
+
   <g transform="translate(100,370)">
     <text x="300" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e293b">Nøkkelteknologier: ERP • AI/ML • IoT • Blockchain • Cloud Computing • API-integrasjoner</text>
   </g>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="12" markerHeight="8" refX="11" refY="4" orient="auto">
       <polygon points="0 0, 12 4, 0 8" fill="#f59e0b"/>

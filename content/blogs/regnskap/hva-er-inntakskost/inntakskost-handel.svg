@@ -1,14 +1,14 @@
 <svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Inntakskost for Handelsbedrifter
   </text>
   
-  <!-- Flow diagram showing the process -->
-  <!-- Step 1: Leverandør -->
+
+
   <rect x="50" y="80" width="120" height="80" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="10"/>
   <text x="110" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1976d2">
     LEVERANDØR
@@ -20,13 +20,13 @@
     Produsent
   </text>
   
-  <!-- Arrow 1 -->
+
   <path d="M 170 120 L 220 120" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrow1)"/>
   <text x="195" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
     Kjøp
   </text>
   
-  <!-- Step 2: Transport -->
+
   <rect x="240" y="80" width="120" height="80" fill="#fff3e0" stroke="#f57c00" stroke-width="2" rx="10"/>
   <text x="300" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#f57c00">
     TRANSPORT
@@ -38,13 +38,13 @@
     Levering
   </text>
   
-  <!-- Arrow 2 -->
+
   <path d="M 360 120 L 410 120" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrow2)"/>
   <text x="385" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
     Levering
   </text>
   
-  <!-- Step 3: Mottak -->
+
   <rect x="430" y="80" width="120" height="80" fill="#e8f5e8" stroke="#4caf50" stroke-width="2" rx="10"/>
   <text x="490" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2e7d32">
     MOTTAK
@@ -56,13 +56,13 @@
     &amp; Registrering
   </text>
   
-  <!-- Arrow 3 -->
+
   <path d="M 550 120 L 600 120" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrow3)"/>
   <text x="575" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
     Lager
   </text>
   
-  <!-- Step 4: Lager -->
+
   <rect x="620" y="80" width="120" height="80" fill="#fce4ec" stroke="#e91e63" stroke-width="2" rx="10"/>
   <text x="680" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#c2185b">
     LAGER
@@ -74,19 +74,19 @@
     Salg
   </text>
   
-  <!-- Cost breakdown -->
+
   <rect x="100" y="200" width="600" height="250" fill="#f5f5f5" stroke="#757575" stroke-width="1" rx="10"/>
   <text x="400" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#424242">
     Inntakskost Komponenter for Handelsbedrift
   </text>
   
-  <!-- Cost components -->
+
   <rect x="130" y="250" width="250" height="180" fill="#ffffff" stroke="#ddd" stroke-width="1" rx="5"/>
   <text x="255" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">
     DIREKTE KOSTNADER
   </text>
   
-  <!-- Direct costs list -->
+
   <circle cx="150" cy="295" r="3" fill="#1976d2"/>
   <text x="165" y="300" font-family="Arial, sans-serif" font-size="12" fill="#333">
     Innkjøpspris fra leverandør
@@ -127,13 +127,13 @@
     2%
   </text>
   
-  <!-- Indirect costs -->
+
   <rect x="420" y="250" width="250" height="180" fill="#ffffff" stroke="#ddd" stroke-width="1" rx="5"/>
   <text x="545" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">
     IKKE INKLUDERT
   </text>
   
-  <!-- Excluded costs list -->
+
   <text x="440" y="300" font-family="Arial, sans-serif" font-size="12" fill="#666">
     ✗ Lagerkostnader (løpende)
   </text>
@@ -153,13 +153,13 @@
     ✗ Personalkostnader (generelle)
   </text>
   
-  <!-- Example calculation -->
+
   <rect x="150" y="460" width="500" height="30" fill="#e3f2fd" stroke="#1976d2" stroke-width="1" rx="5"/>
   <text x="400" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1976d2">
     Eksempel: Innkjøp 100.000 kr + Frakt 8.000 kr + Toll 3.000 kr = Inntakskost 111.000 kr
   </text>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="arrow1" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#666"/>

@@ -14,15 +14,15 @@
     </radialGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" font-family="Arial, sans-serif" font-size="26" font-weight="bold" text-anchor="middle" fill="#333">
     Digital Internregnskap
   </text>
   
-  <!-- Cloud/Central System -->
+
   <g transform="translate(400, 150)">
     <ellipse cx="0" cy="0" rx="120" ry="60" fill="url(#cloudGradient)" stroke="#1aa179" stroke-width="3"/>
     <text x="0" y="-10" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
@@ -36,13 +36,13 @@
     </text>
   </g>
   
-  <!-- Data Sources (Left Side) -->
+
   <g transform="translate(50, 100)">
     <text x="100" y="0" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#333">
       Datakilder
     </text>
     
-    <!-- Sales System -->
+
     <rect x="0" y="20" width="120" height="60" fill="#28a745" stroke="#1e7e34" stroke-width="2" rx="8"/>
     <text x="60" y="40" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
       Salgssystem
@@ -54,7 +54,7 @@
       Ordredata
     </text>
     
-    <!-- Production System -->
+
     <rect x="0" y="100" width="120" height="60" fill="#dc3545" stroke="#c82333" stroke-width="2" rx="8"/>
     <text x="60" y="120" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
       Produksjon
@@ -66,7 +66,7 @@
       Kapasitetsdata
     </text>
     
-    <!-- HR System -->
+
     <rect x="0" y="180" width="120" height="60" fill="#ffc107" stroke="#e0a800" stroke-width="2" rx="8"/>
     <text x="60" y="200" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="black">
       HR-system
@@ -78,7 +78,7 @@
       Timeregistrering
     </text>
     
-    <!-- Financial System -->
+
     <rect x="0" y="260" width="120" height="60" fill="#6f42c1" stroke="#5a32a3" stroke-width="2" rx="8"/>
     <text x="60" y="280" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
       Regnskap
@@ -91,13 +91,13 @@
     </text>
   </g>
   
-  <!-- Output/Analytics (Right Side) -->
+
   <g transform="translate(630, 100)">
     <text x="85" y="0" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#333">
       Analyser &amp; Rapporter
     </text>
     
-    <!-- Real-time Dashboard -->
+
     <rect x="0" y="20" width="120" height="60" fill="#0066cc" stroke="#004499" stroke-width="2" rx="8"/>
     <text x="60" y="40" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
       Sanntids
@@ -109,7 +109,7 @@
       KPI-overvåking
     </text>
     
-    <!-- Predictive Analytics -->
+
     <rect x="0" y="100" width="120" height="60" fill="#e83e8c" stroke="#d91a72" stroke-width="2" rx="8"/>
     <text x="60" y="120" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
       Prediktiv
@@ -121,7 +121,7 @@
       AI/ML prognoser
     </text>
     
-    <!-- Mobile Reports -->
+
     <rect x="0" y="180" width="120" height="60" fill="#fd7e14" stroke="#e8590c" stroke-width="2" rx="8"/>
     <text x="60" y="200" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
       Mobil
@@ -133,7 +133,7 @@
       Tilgjengelig overalt
     </text>
     
-    <!-- Automated Reports -->
+
     <rect x="0" y="260" width="120" height="60" fill="#20c997" stroke="#1aa179" stroke-width="2" rx="8"/>
     <text x="60" y="280" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
       Automatiserte
@@ -146,31 +146,31 @@
     </text>
   </g>
   
-  <!-- Data Flow Arrows -->
+
   <g transform="translate(0, 0)">
-    <!-- From data sources to central system -->
+
     <path d="M 170 150 L 280 150" stroke="#28a745" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
     <path d="M 170 180 L 280 160" stroke="#dc3545" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
     <path d="M 170 210 L 280 170" stroke="#ffc107" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
     <path d="M 170 290 L 280 180" stroke="#6f42c1" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
     
-    <!-- From central system to outputs -->
+
     <path d="M 520 150 L 630 150" stroke="#0066cc" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
     <path d="M 520 160 L 630 180" stroke="#e83e8c" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
     <path d="M 520 170 L 630 210" stroke="#fd7e14" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
     <path d="M 520 180 L 630 290" stroke="#20c997" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   </g>
   
-  <!-- Technology Features -->
+
   <g transform="translate(200, 380)">
     <rect x="0" y="0" width="400" height="180" fill="white" stroke="#dee2e6" stroke-width="2" rx="10"/>
     <text x="200" y="25" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#333">
       Digitale Teknologier
     </text>
     
-    <!-- Feature grid -->
+
     <g transform="translate(20, 50)">
-      <!-- Row 1 -->
+
       <rect x="0" y="0" width="80" height="50" fill="#e3f2fd" stroke="#0066cc" stroke-width="1" rx="5"/>
       <text x="40" y="20" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#0066cc">
         API
@@ -203,7 +203,7 @@
         Datasikkerhet
       </text>
       
-      <!-- Row 2 -->
+
       <rect x="0" y="70" width="80" height="50" fill="#e2e3e5" stroke="#6c757d" stroke-width="1" rx="5"/>
       <text x="40" y="90" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#6c757d">
         IoT
@@ -238,7 +238,7 @@
     </g>
   </g>
   
-  <!-- Benefits box -->
+
   <g transform="translate(50, 450)">
     <rect x="0" y="0" width="120" height="120" fill="#e8f5e8" stroke="#28a745" stroke-width="2" rx="8"/>
     <text x="60" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#28a745">
@@ -251,7 +251,7 @@
     <text x="10" y="100" font-family="Arial, sans-serif" font-size="10" fill="#333">• Skalerbarhet</text>
   </g>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#6c757d"/>

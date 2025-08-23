@@ -18,15 +18,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="550" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c3e50">
     Compliance-krav for Landbrukets Dataflyt
   </text>
   
-  <!-- Central compliance hub -->
+
   <circle cx="400" cy="200" r="60" fill="url(#complianceGrad)" stroke="#8e44ad" stroke-width="3"/>
   <text x="400" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     COMPLIANCE
@@ -38,7 +38,7 @@
     Koordinering
   </text>
   
-  <!-- Regulatory Requirements -->
+
   <rect x="100" y="80" width="180" height="100" rx="10" fill="url(#regulatoryGrad)" stroke="#c0392b" stroke-width="2"/>
   <text x="190" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     MYNDIGHETER
@@ -56,7 +56,7 @@
     • Miljødirektoratet
   </text>
   
-  <!-- Environmental Compliance -->
+
   <rect x="520" y="80" width="180" height="100" rx="10" fill="url(#environmentGrad)" stroke="#229954" stroke-width="2"/>
   <text x="610" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     MILJØKRAV
@@ -74,7 +74,7 @@
     • Klimarapporter
   </text>
   
-  <!-- Food Safety -->
+
   <rect x="100" y="320" width="180" height="100" rx="10" fill="url(#safetyGrad)" stroke="#e67e22" stroke-width="2"/>
   <text x="190" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     MATTRYGGHET
@@ -92,7 +92,7 @@
     • Tilbakekalling
   </text>
   
-  <!-- Data Privacy -->
+
   <rect x="520" y="320" width="180" height="100" rx="10" fill="#34495e" stroke="#2c3e50" stroke-width="2"/>
   <text x="610" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     PERSONVERN
@@ -110,53 +110,53 @@
     • Sikkerhet
   </text>
   
-  <!-- Connection lines -->
+
   <defs>
     <marker id="compArrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
       <polygon points="0 0, 8 3, 0 6" fill="#7f8c8d" />
     </marker>
   </defs>
   
-  <!-- Lines to central hub -->
+
   <line x1="280" y1="130" x2="340" y2="170" stroke="#7f8c8d" stroke-width="2" marker-end="url(#compArrow)" stroke-dasharray="5,5"/>
   <line x1="520" y1="130" x2="460" y2="170" stroke="#7f8c8d" stroke-width="2" marker-end="url(#compArrow)" stroke-dasharray="5,5"/>
   <line x1="280" y1="370" x2="340" y2="230" stroke="#7f8c8d" stroke-width="2" marker-end="url(#compArrow)" stroke-dasharray="5,5"/>
   <line x1="520" y1="370" x2="460" y2="230" stroke="#7f8c8d" stroke-width="2" marker-end="url(#compArrow)" stroke-dasharray="5,5"/>
   
-  <!-- Detailed compliance requirements -->
+
   <rect x="50" y="450" width="700" height="80" rx="8" fill="white" stroke="#bdc3c7" stroke-width="2"/>
   <text x="400" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
     DETALJERTE COMPLIANCE-KRAV
   </text>
   
-  <!-- Compliance details grid -->
+
   <g transform="translate(70, 485)">
-    <!-- Column 1: Subsidies -->
+
     <text x="0" y="0" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#e74c3c">SUBSIDIER &amp; TILSKUDD:</text>
     <text x="0" y="15" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Arealregistrering</text>
     <text x="0" y="28" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Produksjonsdata</text>
     <text x="0" y="41" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Miljøtiltak</text>
     
-    <!-- Column 2: Tax -->
+
     <text x="170" y="0" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#8e44ad">SKATT &amp; MVA:</text>
     <text x="170" y="15" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Inntektsrapportering</text>
     <text x="170" y="28" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Fradragsberettigelse</text>
     <text x="170" y="41" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• MVA-behandling</text>
     
-    <!-- Column 3: Environment -->
+
     <text x="340" y="0" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#27ae60">MILJØRAPPORTER:</text>
     <text x="340" y="15" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Klimagassutslipp</text>
     <text x="340" y="28" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Ressursforbruk</text>
     <text x="340" y="41" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Avfallshåndtering</text>
     
-    <!-- Column 4: Quality -->
+
     <text x="510" y="0" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#f39c12">KVALITETSSIKRING:</text>
     <text x="510" y="15" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Produktsporing</text>
     <text x="510" y="28" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Sertifiseringer</text>
     <text x="510" y="41" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Dokumentasjon</text>
   </g>
   
-  <!-- Data flow indicators -->
+
   <circle cx="310" cy="150" r="2" fill="#e74c3c">
     <animate attributeName="opacity" values="1;0.3;1" dur="3s" repeatCount="indefinite"/>
   </circle>
@@ -170,7 +170,7 @@
     <animate attributeName="opacity" values="1;0.3;1" dur="3s" begin="1.5s" repeatCount="indefinite"/>
   </circle>
   
-  <!-- Compliance status indicators -->
+
   <g transform="translate(320, 50)">
     <rect x="0" y="0" width="160" height="20" rx="10" fill="#2ecc71"/>
     <text x="80" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
@@ -178,7 +178,7 @@
     </text>
   </g>
   
-  <!-- Risk indicators -->
+
   <text x="50" y="60" font-family="Arial, sans-serif" font-size="10" fill="#e74c3c">
     ⚠ Høy risiko: Manglende dokumentasjon
   </text>
@@ -186,7 +186,7 @@
     ⚡ Medium risiko: Forsinkede rapporter
   </text>
   
-  <!-- Automation benefits -->
+
   <ellipse cx="400" cy="280" rx="120" ry="25" fill="rgba(52, 152, 219, 0.1)" stroke="#3498db" stroke-width="1" stroke-dasharray="3,3"/>
   <text x="400" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#3498db">
     AUTOMATISERT COMPLIANCE

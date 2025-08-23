@@ -6,32 +6,32 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGrad)"/>
   <text x="400" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="20" font-weight="bold">SKATTEMESSIGE JUSTERINGER</text>
   <text x="400" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14">Fra regnskapsmessig til skattepliktig resultat</text>
   
-  <!-- Flow diagram -->
+
   <g transform="translate(50, 90)">
     
-    <!-- Starting point: Regnskapsmessig resultat -->
+
     <rect x="0" y="0" width="200" height="60" fill="#e8f5e8" stroke="#4caf50" stroke-width="2" rx="8"/>
     <text x="100" y="25" text-anchor="middle" fill="#2e7d32" font-family="Arial, sans-serif" font-size="14" font-weight="bold">REGNSKAPSMESSIG</text>
     <text x="100" y="40" text-anchor="middle" fill="#2e7d32" font-family="Arial, sans-serif" font-size="14" font-weight="bold">RESULTAT</text>
     <text x="100" y="55" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="12">NOK 1.000.000</text>
     
-    <!-- Arrow down -->
+
     <path d="M 100 65 L 100 85" stroke="#666" stroke-width="3" marker-end="url(#arrowhead)"/>
     
-    <!-- Adjustment section -->
+
     <g transform="translate(0, 90)">
       <rect x="0" y="0" width="700" height="200" fill="#fff" stroke="#ddd" stroke-width="2" rx="10"/>
       <text x="350" y="20" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="16" font-weight="bold">SKATTEMESSIGE JUSTERINGER</text>
       
-      <!-- Left side: Add back -->
+
       <g transform="translate(20, 40)">
         <rect x="0" y="0" width="320" height="140" fill="#ffebee" stroke="#f44336" stroke-width="1" rx="5"/>
         <text x="160" y="18" text-anchor="middle" fill="#c62828" font-family="Arial, sans-serif" font-size="14" font-weight="bold">IKKE-FRADRAGSBERETTIGEDE KOSTNADER</text>
@@ -55,7 +55,7 @@
         </g>
       </g>
       
-      <!-- Right side: Deduct -->
+
       <g transform="translate(360, 40)">
         <rect x="0" y="0" width="320" height="140" fill="#e8f5e8" stroke="#4caf50" stroke-width="1" rx="5"/>
         <text x="160" y="18" text-anchor="middle" fill="#2e7d32" font-family="Arial, sans-serif" font-size="14" font-weight="bold">SKATTEFRIE INNTEKTER</text>
@@ -80,10 +80,10 @@
       </g>
     </g>
     
-    <!-- Arrow down -->
+
     <path d="M 100 295 L 100 315" stroke="#666" stroke-width="3" marker-end="url(#arrowhead)"/>
     
-    <!-- Timing differences -->
+
     <g transform="translate(0, 320)">
       <rect x="0" y="0" width="700" height="120" fill="#fff3e0" stroke="#ff9800" stroke-width="2" rx="10"/>
       <text x="350" y="20" text-anchor="middle" fill="#e65100" font-family="Arial, sans-serif" font-size="16" font-weight="bold">TIMING-FORSKJELLER</text>
@@ -103,10 +103,10 @@
       </g>
     </g>
     
-    <!-- Arrow down -->
+
     <path d="M 100 445 L 100 465" stroke="#666" stroke-width="3" marker-end="url(#arrowhead)"/>
     
-    <!-- Final result -->
+
     <g transform="translate(0, 470)">
       <rect x="0" y="0" width="700" height="80" fill="#f3e5f5" stroke="#9c27b0" stroke-width="3" rx="10"/>
       <text x="350" y="25" text-anchor="middle" fill="#6a1b9a" font-family="Arial, sans-serif" font-size="16" font-weight="bold">SKATTEPLIKTIG INNTEKT</text>
@@ -131,7 +131,7 @@
     </g>
   </g>
   
-  <!-- Deferred tax calculation -->
+
   <g transform="translate(350, 100)">
     <rect x="0" y="0" width="400" height="180" fill="#e1f5fe" stroke="#2196f3" stroke-width="2" rx="10"/>
     <text x="200" y="20" text-anchor="middle" fill="#1565c0" font-family="Arial, sans-serif" font-size="16" font-weight="bold">UTSATT SKATT BEREGNING</text>
@@ -161,7 +161,7 @@
     </g>
   </g>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#666"/>

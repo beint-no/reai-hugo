@@ -9,15 +9,15 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGrad)"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#333">
     Kundens Rolle i Regnskapet
   </text>
   
-  <!-- Customer -->
+
   <g transform="translate(100, 100)">
     <rect x="0" y="0" width="120" height="80" fill="#0066cc" rx="10" filter="url(#shadow)"/>
     <circle cx="60" cy="30" r="15" fill="white"/>
@@ -27,8 +27,8 @@
     </text>
   </g>
   
-  <!-- Arrows and impacts -->
-  <!-- Arrow to Revenue -->
+
+
   <path d="M 220 140 L 280 140" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
   <defs>
     <marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
@@ -36,7 +36,7 @@
     </marker>
   </defs>
   
-  <!-- Revenue Impact -->
+
   <g transform="translate(300, 100)">
     <rect x="0" y="0" width="140" height="80" fill="#28a745" rx="10" filter="url(#shadow)"/>
     <text x="70" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
@@ -53,7 +53,7 @@
     </text>
   </g>
   
-  <!-- Arrow to Debtor -->
+
   <path d="M 220 140 L 280 220" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrow2)"/>
   <defs>
     <marker id="arrow2" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
@@ -61,7 +61,7 @@
     </marker>
   </defs>
   
-  <!-- Debtor Management -->
+
   <g transform="translate(300, 200)">
     <rect x="0" y="0" width="140" height="80" fill="#ffc107" rx="10" filter="url(#shadow)"/>
     <text x="70" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
@@ -78,7 +78,7 @@
     </text>
   </g>
   
-  <!-- Arrow to Cash Flow -->
+
   <path d="M 220 140 L 280 300" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrow3)"/>
   <defs>
     <marker id="arrow3" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
@@ -86,7 +86,7 @@
     </marker>
   </defs>
   
-  <!-- Cash Flow -->
+
   <g transform="translate(300, 300)">
     <rect x="0" y="0" width="140" height="80" fill="#17a2b8" rx="10" filter="url(#shadow)"/>
     <text x="70" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
@@ -103,7 +103,7 @@
     </text>
   </g>
   
-  <!-- Risk Management -->
+
   <g transform="translate(500, 150)">
     <rect x="0" y="0" width="140" height="80" fill="#dc3545" rx="10" filter="url(#shadow)"/>
     <text x="70" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
@@ -120,12 +120,12 @@
     </text>
   </g>
   
-  <!-- Arrows from impacts to risk -->
+
   <path d="M 440 140 L 500 180" stroke="#666" stroke-width="1" stroke-dasharray="5,5" fill="none"/>
   <path d="M 440 240 L 500 210" stroke="#666" stroke-width="1" stroke-dasharray="5,5" fill="none"/>
   <path d="M 440 340 L 500 220" stroke="#666" stroke-width="1" stroke-dasharray="5,5" fill="none"/>
   
-  <!-- Balance Sheet Impact -->
+
   <g transform="translate(500, 280)">
     <rect x="0" y="0" width="140" height="80" fill="#6f42c1" rx="10" filter="url(#shadow)"/>
     <text x="70" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
@@ -142,10 +142,10 @@
     </text>
   </g>
   
-  <!-- Connection lines -->
+
   <path d="M 440 340 L 500 320" stroke="#666" stroke-width="1" stroke-dasharray="5,5" fill="none"/>
   
-  <!-- Legend -->
+
   <rect x="50" y="420" width="700" height="60" fill="white" opacity="0.9" rx="5" stroke="#ddd"/>
   <text x="400" y="440" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#333">
     Kundens påvirkning på regnskapet

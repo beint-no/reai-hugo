@@ -10,17 +10,17 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="300" fill="#ffffff"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
     Organisasjonsnummer Struktur
   </text>
   
-  <!-- Organization number display -->
+
   <g transform="translate(100, 80)">
-    <!-- First 8 digits -->
+
     <rect x="0" y="0" width="80" height="60" fill="url(#numberGradient)" rx="5"/>
     <text x="40" y="40" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="28" font-weight="bold">1</text>
     
@@ -45,27 +45,27 @@
     <rect x="630" y="0" width="80" height="60" fill="url(#numberGradient)" rx="5"/>
     <text x="670" y="40" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="28" font-weight="bold">8</text>
     
-    <!-- Control digit -->
+
     <rect x="720" y="0" width="80" height="60" fill="url(#controlGradient)" rx="5"/>
     <text x="760" y="40" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="28" font-weight="bold">9</text>
   </g>
   
-  <!-- Labels -->
+
   <g transform="translate(100, 160)">
-    <!-- First 8 digits label -->
+
     <rect x="0" y="0" width="630" height="40" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1" rx="5"/>
     <text x="315" y="25" text-anchor="middle" fill="#475569" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Løpenummer (8 siffer)
     </text>
     
-    <!-- Control digit label -->
+
     <rect x="720" y="0" width="80" height="40" fill="#fef2f2" stroke="#fecaca" stroke-width="1" rx="5"/>
     <text x="760" y="25" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Kontroll
     </text>
   </g>
   
-  <!-- Explanation -->
+
   <g transform="translate(50, 230)">
     <text x="0" y="0" fill="#1f2937" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       Modulus 11 Kontrollsiffer-beregning:
@@ -83,7 +83,7 @@
       3. Del summen på 11 og trekk resten fra 11 = kontrollsiffer
     </text>
     
-    <!-- Example calculation -->
+
     <g transform="translate(450, 0)">
       <rect x="0" y="0" width="300" height="70" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1" rx="5"/>
       <text x="10" y="20" fill="#1f2937" font-family="Arial, sans-serif" font-size="12" font-weight="bold">

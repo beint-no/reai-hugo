@@ -18,15 +18,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#skyGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2C3E50">
     Fremtidens Timelønn
   </text>
   
-  <!-- Central hub representing modern timelønn system -->
+
   <circle cx="400" cy="300" r="80" fill="url(#techGradient)" stroke="#2C3E50" stroke-width="2"/>
   <text x="400" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     Moderne
@@ -35,7 +35,7 @@
     Timelønn
   </text>
   
-  <!-- Blockchain section -->
+
   <g transform="translate(120, 150)">
     <rect x="0" y="0" width="120" height="80" rx="10" fill="url(#blockchainGradient)" stroke="#2C3E50" stroke-width="1"/>
     <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
@@ -51,7 +51,7 @@
       Transparent dokumentasjon
     </text>
     
-    <!-- Chain links -->
+
     <rect x="10" y="85" width="15" height="8" fill="white" stroke="#FF4757" stroke-width="1"/>
     <rect x="30" y="85" width="15" height="8" fill="white" stroke="#FF4757" stroke-width="1"/>
     <rect x="50" y="85" width="15" height="8" fill="white" stroke="#FF4757" stroke-width="1"/>
@@ -59,7 +59,7 @@
     <rect x="90" y="85" width="15" height="8" fill="white" stroke="#FF4757" stroke-width="1"/>
   </g>
   
-  <!-- IoT section -->
+
   <g transform="translate(560, 150)">
     <rect x="0" y="0" width="120" height="80" rx="10" fill="url(#iotGradient)" stroke="#2C3E50" stroke-width="1"/>
     <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
@@ -75,21 +75,21 @@
       Miljømonitorering
     </text>
     
-    <!-- IoT sensors -->
+
     <circle cx="20" cy="95" r="6" fill="white" stroke="#20bf6b" stroke-width="2"/>
     <circle cx="40" cy="95" r="6" fill="white" stroke="#20bf6b" stroke-width="2"/>
     <circle cx="60" cy="95" r="6" fill="white" stroke="#20bf6b" stroke-width="2"/>
     <circle cx="80" cy="95" r="6" fill="white" stroke="#20bf6b" stroke-width="2"/>
     <circle cx="100" cy="95" r="6" fill="white" stroke="#20bf6b" stroke-width="2"/>
     
-    <!-- Signal lines -->
+
     <path d="M 20 89 Q 25 85 30 89" stroke="#20bf6b" stroke-width="1" fill="none"/>
     <path d="M 40 89 Q 45 85 50 89" stroke="#20bf6b" stroke-width="1" fill="none"/>
     <path d="M 60 89 Q 65 85 70 89" stroke="#20bf6b" stroke-width="1" fill="none"/>
     <path d="M 80 89 Q 85 85 90 89" stroke="#20bf6b" stroke-width="1" fill="none"/>
   </g>
   
-  <!-- Gig Economy section -->
+
   <g transform="translate(120, 420)">
     <rect x="0" y="0" width="120" height="80" rx="10" fill="#FFA726" stroke="#2C3E50" stroke-width="1"/>
     <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
@@ -105,14 +105,14 @@
       Projektbasert arbeid
     </text>
     
-    <!-- Platform icons -->
+
     <rect x="10" y="85" width="20" height="15" rx="3" fill="white" stroke="#FF9800" stroke-width="1"/>
     <rect x="35" y="85" width="20" height="15" rx="3" fill="white" stroke="#FF9800" stroke-width="1"/>
     <rect x="60" y="85" width="20" height="15" rx="3" fill="white" stroke="#FF9800" stroke-width="1"/>
     <rect x="85" y="85" width="20" height="15" rx="3" fill="white" stroke="#FF9800" stroke-width="1"/>
   </g>
   
-  <!-- Remote Work section -->
+
   <g transform="translate(560, 420)">
     <rect x="0" y="0" width="120" height="80" rx="10" fill="#AB47BC" stroke="#2C3E50" stroke-width="1"/>
     <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
@@ -128,7 +128,7 @@
       Hybrid modeller
     </text>
     
-    <!-- World map simplified -->
+
     <ellipse cx="60" cy="95" rx="50" ry="25" fill="white" stroke="#9C27B0" stroke-width="2"/>
     <circle cx="30" cy="90" r="3" fill="#9C27B0"/>
     <circle cx="60" cy="85" r="3" fill="#9C27B0"/>
@@ -137,7 +137,7 @@
     <circle cx="75" cy="105" r="3" fill="#9C27B0"/>
   </g>
   
-  <!-- AI section -->
+
   <g transform="translate(320, 90)">
     <rect x="0" y="0" width="160" height="60" rx="10" fill="#607D8B" stroke="#2C3E50" stroke-width="1"/>
     <text x="80" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
@@ -156,7 +156,7 @@
       Kostnadsoptimalisering
     </text>
     
-    <!-- AI brain -->
+
     <circle cx="80" cy="70" r="15" fill="white" stroke="#546E7A" stroke-width="2"/>
     <path d="M 70 65 Q 75 60 80 65 Q 85 60 90 65" stroke="#546E7A" stroke-width="1" fill="none"/>
     <path d="M 70 75 Q 75 70 80 75 Q 85 70 90 75" stroke="#546E7A" stroke-width="1" fill="none"/>
@@ -164,7 +164,7 @@
     <circle cx="85" cy="68" r="1" fill="#546E7A"/>
   </g>
   
-  <!-- Regulatory section -->
+
   <g transform="translate(320, 450)">
     <rect x="0" y="0" width="160" height="60" rx="10" fill="#5D4037" stroke="#2C3E50" stroke-width="1"/>
     <text x="80" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
@@ -183,20 +183,20 @@
       Digitalisering
     </text>
     
-    <!-- Legal documents -->
+
     <rect x="30" y="65" width="12" height="16" fill="white" stroke="#4A2C17" stroke-width="1"/>
     <rect x="50" y="65" width="12" height="16" fill="white" stroke="#4A2C17" stroke-width="1"/>
     <rect x="70" y="65" width="12" height="16" fill="white" stroke="#4A2C17" stroke-width="1"/>
     <rect x="90" y="65" width="12" height="16" fill="white" stroke="#4A2C17" stroke-width="1"/>
     <rect x="110" y="65" width="12" height="16" fill="white" stroke="#4A2C17" stroke-width="1"/>
     
-    <!-- Document lines -->
+
     <line x1="32" y1="70" x2="40" y2="70" stroke="#4A2C17" stroke-width="0.5"/>
     <line x1="32" y1="73" x2="40" y2="73" stroke="#4A2C17" stroke-width="0.5"/>
     <line x1="32" y1="76" x2="40" y2="76" stroke="#4A2C17" stroke-width="0.5"/>
   </g>
   
-  <!-- Connection lines -->
+
   <line x1="240" y1="190" x2="350" y2="250" stroke="#2C3E50" stroke-width="2" stroke-dasharray="5,5"/>
   <line x1="560" y1="190" x2="450" y2="250" stroke="#2C3E50" stroke-width="2" stroke-dasharray="5,5"/>
   <line x1="240" y1="460" x2="350" y2="350" stroke="#2C3E50" stroke-width="2" stroke-dasharray="5,5"/>
@@ -204,7 +204,7 @@
   <line x1="400" y1="150" x2="400" y2="220" stroke="#2C3E50" stroke-width="2" stroke-dasharray="5,5"/>
   <line x1="400" y1="380" x2="400" y2="450" stroke="#2C3E50" stroke-width="2" stroke-dasharray="5,5"/>
   
-  <!-- Future timeline -->
+
   <g transform="translate(50, 550)">
     <text x="0" y="0" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2C3E50">
       Tidslinje:
@@ -224,17 +224,17 @@
     <line x1="80" y1="-5" x2="530" y2="-5" stroke="#2C3E50" stroke-width="1"/>
   </g>
   
-  <!-- Innovation arrows -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#2C3E50"/>
     </marker>
   </defs>
   
-  <!-- Progress arrows -->
+
   <path d="M 200 300 Q 250 280 300 300" stroke="#2C3E50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 500 300 Q 550 280 600 300" stroke="#2C3E50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Innovation spiral -->
+
   <path d="M 400 250 Q 450 270 400 290 Q 350 310 400 330 Q 450 350 400 370" stroke="#4A90E2" stroke-width="3" fill="none" opacity="0.7"/>
 </svg>

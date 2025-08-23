@@ -21,22 +21,22 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e293b">
     Fremtidige Teknologier for Velferdstiltak
   </text>
   
-  <!-- AI Section -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="200" height="140" rx="10" fill="url(#aiGradient)" filter="url(#shadow)"/>
     <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
       Kunstig Intelligens
     </text>
     
-    <!-- AI Brain Icon -->
+
     <g transform="translate(75, 40)">
       <circle cx="25" cy="25" r="20" fill="none" stroke="white" stroke-width="2"/>
       <path d="M15 20 Q25 15 35 20 Q30 25 25 30 Q20 25 15 20" fill="white"/>
@@ -58,14 +58,14 @@
     </text>
   </g>
   
-  <!-- Blockchain Section -->
+
   <g transform="translate(300, 80)">
     <rect x="0" y="0" width="200" height="140" rx="10" fill="url(#blockchainGradient)" filter="url(#shadow)"/>
     <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
       Blockchain
     </text>
     
-    <!-- Blockchain Chain Icon -->
+
     <g transform="translate(75, 40)">
       <rect x="10" y="15" width="15" height="15" rx="2" fill="none" stroke="white" stroke-width="2"/>
       <rect x="25" y="15" width="15" height="15" rx="2" fill="none" stroke="white" stroke-width="2"/>
@@ -88,14 +88,14 @@
     </text>
   </g>
   
-  <!-- IoT Section -->
+
   <g transform="translate(550, 80)">
     <rect x="0" y="0" width="200" height="140" rx="10" fill="url(#iotGradient)" filter="url(#shadow)"/>
     <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
       Internet of Things
     </text>
     
-    <!-- IoT Network Icon -->
+
     <g transform="translate(75, 40)">
       <circle cx="25" cy="15" r="4" fill="white"/>
       <circle cx="15" cy="35" r="4" fill="white"/>
@@ -122,14 +122,14 @@
     </text>
   </g>
   
-  <!-- Applications Section -->
+
   <g transform="translate(100, 270)">
     <rect x="0" y="0" width="600" height="280" rx="15" fill="white" stroke="#e2e8f0" stroke-width="2" filter="url(#shadow)"/>
     <text x="300" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1e293b">
       Praktiske Anvendelser
     </text>
     
-    <!-- Personalization -->
+
     <g transform="translate(30, 50)">
       <circle cx="15" cy="15" r="10" fill="#3b82f6"/>
       <text x="15" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">AI</text>
@@ -137,7 +137,7 @@
       <text x="35" y="28" font-family="Arial, sans-serif" font-size="12" fill="#64748b">AI-drevne forslag basert på ansattes bruksmønstre</text>
     </g>
     
-    <!-- Security -->
+
     <g transform="translate(30, 90)">
       <circle cx="15" cy="15" r="10" fill="#10b981"/>
       <text x="15" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">BC</text>
@@ -145,7 +145,7 @@
       <text x="35" y="28" font-family="Arial, sans-serif" font-size="12" fill="#64748b">Manipulasjonssikre registre for pensjon og forsikring</text>
     </g>
     
-    <!-- Health Monitoring -->
+
     <g transform="translate(30, 130)">
       <circle cx="15" cy="15" r="10" fill="#f59e0b"/>
       <text x="15" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">IoT</text>
@@ -153,7 +153,7 @@
       <text x="35" y="28" font-family="Arial, sans-serif" font-size="12" fill="#64748b">Real-time helse- og trivselsdata fra ansatte</text>
     </g>
     
-    <!-- Smart Contracts -->
+
     <g transform="translate(320, 50)">
       <circle cx="15" cy="15" r="10" fill="#10b981"/>
       <text x="15" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">BC</text>
@@ -161,7 +161,7 @@
       <text x="35" y="28" font-family="Arial, sans-serif" font-size="12" fill="#64748b">Smart contracts for pensjon og forsikringsutbetalinger</text>
     </g>
     
-    <!-- Predictive Analytics -->
+
     <g transform="translate(320, 90)">
       <circle cx="15" cy="15" r="10" fill="#3b82f6"/>
       <text x="15" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">AI</text>
@@ -169,7 +169,7 @@
       <text x="35" y="28" font-family="Arial, sans-serif" font-size="12" fill="#64748b">Forutsi ansattes behov og preferanser</text>
     </g>
     
-    <!-- Smart Workplace -->
+
     <g transform="translate(320, 130)">
       <circle cx="15" cy="15" r="10" fill="#f59e0b"/>
       <text x="15" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">IoT</text>
@@ -177,7 +177,7 @@
       <text x="35" y="28" font-family="Arial, sans-serif" font-size="12" fill="#64748b">Sensorer for miljø, trivsel og ressursoptimalisering</text>
     </g>
     
-    <!-- Integration Benefits -->
+
     <g transform="translate(50, 180)">
       <rect x="0" y="0" width="500" height="80" rx="10" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1"/>
       <text x="250" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">
@@ -210,7 +210,7 @@
     </g>
   </g>
   
-  <!-- Footer -->
+
   <text x="400" y="580" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#64748b">
     Teknologisk transformasjon av velferdstiltak for fremtidens arbeidsplass
   </text>

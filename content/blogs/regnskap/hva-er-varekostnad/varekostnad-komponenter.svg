@@ -14,23 +14,23 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#ffffff"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#1f2937">Komponenter i Varekostnad</text>
   
-  <!-- Central circle -->
+
   <circle cx="400" cy="300" r="80" fill="#dc2626" stroke="#b91c1c" stroke-width="3"/>
   <text x="400" y="290" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">VAREKOSTNAD</text>
   <text x="400" y="310" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">Total kostnad</text>
   
-  <!-- Direct costs section -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="200" height="180" fill="url(#directGradient)" rx="10"/>
     <text x="100" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">DIREKTE KOSTNADER</text>
     
-    <!-- Direct cost items -->
+
     <rect x="10" y="40" width="180" height="25" fill="rgba(255,255,255,0.2)" rx="3"/>
     <text x="20" y="57" font-family="Arial, sans-serif" font-size="11" fill="white">• Innkjøpspris fra leverandør</text>
     
@@ -47,15 +47,15 @@
     <text x="20" y="172" font-family="Arial, sans-serif" font-size="10" fill="white">• Ekspedisjonsgebyrer</text>
   </g>
   
-  <!-- Arrow from direct to center -->
+
   <path d="M 270 170 Q 320 180 340 240" stroke="#3b82f6" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Indirect costs section -->
+
   <g transform="translate(550, 80)">
     <rect x="0" y="0" width="200" height="180" fill="url(#indirectGradient)" rx="10"/>
     <text x="100" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">INDIREKTE KOSTNADER</text>
     
-    <!-- Indirect cost items -->
+
     <rect x="10" y="40" width="180" height="25" fill="rgba(255,255,255,0.2)" rx="3"/>
     <text x="20" y="57" font-family="Arial, sans-serif" font-size="11" fill="white">• Lagerlokaler og -utstyr</text>
     
@@ -72,15 +72,15 @@
     <text x="20" y="172" font-family="Arial, sans-serif" font-size="10" fill="white">• Svinn og tyveri</text>
   </g>
   
-  <!-- Arrow from indirect to center -->
+
   <path d="M 530 170 Q 480 180 460 240" stroke="#10b981" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Financing costs section -->
+
   <g transform="translate(300, 420)">
     <rect x="0" y="0" width="200" height="120" fill="url(#financingGradient)" rx="10"/>
     <text x="100" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">FINANSIERINGSKOST.</text>
     
-    <!-- Financing cost items -->
+
     <rect x="10" y="40" width="180" height="20" fill="rgba(255,255,255,0.2)" rx="3"/>
     <text x="20" y="54" font-family="Arial, sans-serif" font-size="10" fill="white">• Rentekostnader på lagerkreditt</text>
     
@@ -91,10 +91,10 @@
     <text x="20" y="104" font-family="Arial, sans-serif" font-size="10" fill="white">• Kapitalkostnad på bundet kapital</text>
   </g>
   
-  <!-- Arrow from financing to center -->
+
   <path d="M 400 420 Q 400 390 400 380" stroke="#f59e0b" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Cost percentage indicators -->
+
   <g transform="translate(100, 320)">
     <text x="0" y="0" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1f2937">Typisk fordeling:</text>
     <text x="0" y="20" font-family="Arial, sans-serif" font-size="11" fill="#3b82f6">Direkte: 85-90%</text>
@@ -102,13 +102,13 @@
     <text x="0" y="50" font-family="Arial, sans-serif" font-size="11" fill="#f59e0b">Finansiering: 2-5%</text>
   </g>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#64748b"/>
     </marker>
   </defs>
   
-  <!-- Bottom note -->
+
   <text x="400" y="580" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#64748b">Alle kostnadselementer må identifiseres og henføres korrekt for nøyaktig varekostnadberegning</text>
 </svg>

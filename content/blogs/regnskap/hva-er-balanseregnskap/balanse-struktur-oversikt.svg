@@ -1,37 +1,37 @@
 <svg width="700" height="500" viewBox="0 0 700 500" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="700" height="500" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="350" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#2c3e50">
     Balansens T-konto Struktur
   </text>
   
-  <!-- Main T-account structure -->
-  <!-- Horizontal line -->
+
+
   <line x1="100" y1="100" x2="600" y2="100" stroke="#2c3e50" stroke-width="4"/>
-  <!-- Vertical line -->
+
   <line x1="350" y1="100" x2="350" y2="400" stroke="#2c3e50" stroke-width="4"/>
-  <!-- Bottom line -->
+
   <line x1="100" y1="400" x2="600" y2="400" stroke="#2c3e50" stroke-width="4"/>
-  <!-- Left line -->
+
   <line x1="100" y1="100" x2="100" y2="400" stroke="#2c3e50" stroke-width="4"/>
-  <!-- Right line -->
+
   <line x1="600" y1="100" x2="600" y2="400" stroke="#2c3e50" stroke-width="4"/>
   
-  <!-- Left side header - DEBET/AKTIVA -->
+
   <rect x="110" y="110" width="230" height="40" fill="#e8f5e8" stroke="#27ae60" stroke-width="2"/>
   <text x="225" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#27ae60">
     DEBET - AKTIVA
   </text>
   
-  <!-- Right side header - KREDIT/PASSIVA -->
+
   <rect x="360" y="110" width="230" height="40" fill="#ffe8e8" stroke="#e74c3c" stroke-width="2"/>
   <text x="475" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#e74c3c">
     KREDIT - PASSIVA
   </text>
   
-  <!-- Left side content -->
+
   <text x="120" y="180" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">Eiendeler:</text>
   <text x="130" y="205" font-family="Arial, sans-serif" font-size="14" fill="#2c3e50">• Anleggsmidler</text>
   <text x="140" y="225" font-family="Arial, sans-serif" font-size="12" fill="#555">- Varige driftsmidler</text>
@@ -44,7 +44,7 @@
   <text x="140" y="335" font-family="Arial, sans-serif" font-size="12" fill="#555">- Andre fordringer</text>
   <text x="140" y="350" font-family="Arial, sans-serif" font-size="12" fill="#555">- Bankinnskudd</text>
   
-  <!-- Right side content -->
+
   <text x="370" y="180" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">Egenkapital:</text>
   <text x="380" y="205" font-family="Arial, sans-serif" font-size="14" fill="#2c3e50">• Innskutt egenkapital</text>
   <text x="380" y="225" font-family="Arial, sans-serif" font-size="14" fill="#2c3e50">• Opptjent egenkapital</text>
@@ -56,23 +56,23 @@
   <text x="390" y="345" font-family="Arial, sans-serif" font-size="12" fill="#555">- Skyldig lønn</text>
   <text x="390" y="360" font-family="Arial, sans-serif" font-size="12" fill="#555">- Skyldig skatt</text>
   
-  <!-- Balance equation at bottom -->
+
   <rect x="150" y="430" width="400" height="40" fill="#ecf0f1" stroke="#95a5a6" stroke-width="2" rx="5"/>
   <text x="350" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">
     AKTIVA = EGENKAPITAL + GJELD
   </text>
   
-  <!-- Arrows showing balance -->
+
   <path d="M 225 380 Q 350 420 475 380" stroke="#3498db" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#3498db"/>
     </marker>
   </defs>
   
-  <!-- Balance symbol -->
+
   <circle cx="350" cy="390" r="15" fill="#3498db"/>
   <text x="350" y="397" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     =

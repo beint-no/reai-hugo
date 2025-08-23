@@ -18,20 +18,20 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="400" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
     Aldersbaserte Fritak for Arbeidsgiveravgift
   </text>
   
-  <!-- Age timeline -->
+
   <g transform="translate(100, 100)">
-    <!-- Timeline line -->
+
     <line x1="0" y1="150" x2="600" y2="150" stroke="#666" stroke-width="4"/>
     
-    <!-- Age markers -->
+
     <g transform="translate(0, 150)">
       <line x1="0" y1="-10" x2="0" y2="10" stroke="#666" stroke-width="2"/>
       <text x="0" y="25" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="12">
@@ -60,7 +60,7 @@
       </text>
     </g>
     
-    <!-- Age group 1: 0-61 years -->
+
     <g transform="translate(100, 50)">
       <rect x="-80" y="0" width="160" height="80" fill="url(#normalGradient)" stroke="#333" stroke-width="2" rx="10"/>
       <text x="0" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
@@ -74,7 +74,7 @@
       </text>
     </g>
     
-    <!-- Age group 2: 62-66 years -->
+
     <g transform="translate(300, 50)">
       <rect x="-80" y="0" width="160" height="80" fill="url(#reducedGradient)" stroke="#333" stroke-width="2" rx="10"/>
       <text x="0" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
@@ -88,7 +88,7 @@
       </text>
     </g>
     
-    <!-- Age group 3: 67+ years -->
+
     <g transform="translate(500, 50)">
       <rect x="-80" y="0" width="160" height="80" fill="url(#exemptGradient)" stroke="#333" stroke-width="2" rx="10"/>
       <text x="0" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
@@ -103,7 +103,7 @@
     </g>
   </g>
   
-  <!-- Examples section -->
+
   <g transform="translate(50, 280)">
     <rect x="0" y="0" width="700" height="100" fill="white" stroke="#0066cc" stroke-width="2" rx="10"/>
     <text x="20" y="25" fill="#0066cc" font-family="Arial, sans-serif" font-size="16" font-weight="bold">

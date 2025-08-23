@@ -1,19 +1,19 @@
 <svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Digitalisering av Bilagsprosessen
   </text>
   
-  <!-- Traditional process (left side) -->
+
   <g transform="translate(150, 100)">
     <text x="0" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#e74c3c">
       TRADISJONELL PROSESS
     </text>
     
-    <!-- Paper document -->
+
     <g transform="translate(0, 50)">
       <rect x="-40" y="-30" width="80" height="60" fill="white" stroke="#bdc3c7" stroke-width="2" rx="3"/>
       <rect x="-30" y="-20" width="60" height="4" fill="#bdc3c7"/>
@@ -25,7 +25,7 @@
       </text>
     </g>
     
-    <!-- Manual processing -->
+
     <g transform="translate(0, 150)">
       <circle cx="0" cy="0" r="25" fill="#f39c12" opacity="0.2" stroke="#f39c12" stroke-width="2"/>
       <text x="0" y="5" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
@@ -36,7 +36,7 @@
       </text>
     </g>
     
-    <!-- Physical storage -->
+
     <g transform="translate(0, 250)">
       <rect x="-30" y="-20" width="60" height="40" fill="#95a5a6" opacity="0.3" stroke="#95a5a6" stroke-width="2" rx="3"/>
       <rect x="-25" y="-15" width="50" height="3" fill="#95a5a6"/>
@@ -48,7 +48,7 @@
       </text>
     </g>
     
-    <!-- Problems -->
+
     <g transform="translate(0, 330)">
       <rect x="-60" y="-40" width="120" height="80" fill="#fdf2f2" stroke="#e74c3c" stroke-width="1" rx="5"/>
       <text x="0" y="-25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e74c3c">
@@ -69,13 +69,13 @@
     </g>
   </g>
   
-  <!-- Digital process (right side) -->
+
   <g transform="translate(650, 100)">
     <text x="0" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#27ae60">
       DIGITAL PROSESS
     </text>
     
-    <!-- Digital document -->
+
     <g transform="translate(0, 50)">
       <rect x="-40" y="-30" width="80" height="60" fill="#3498db" opacity="0.1" stroke="#3498db" stroke-width="2" rx="3"/>
       <rect x="-30" y="-20" width="60" height="4" fill="#3498db"/>
@@ -88,7 +88,7 @@
       </text>
     </g>
     
-    <!-- Automated processing -->
+
     <g transform="translate(0, 150)">
       <circle cx="0" cy="0" r="25" fill="#9b59b6" opacity="0.2" stroke="#9b59b6" stroke-width="2"/>
       <text x="0" y="5" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
@@ -99,7 +99,7 @@
       </text>
     </g>
     
-    <!-- Cloud storage -->
+
     <g transform="translate(0, 250)">
       <ellipse cx="0" cy="-5" rx="30" ry="15" fill="#1abc9c" opacity="0.2" stroke="#1abc9c" stroke-width="2"/>
       <ellipse cx="-10" cy="5" rx="20" ry="10" fill="#1abc9c" opacity="0.2" stroke="#1abc9c" stroke-width="2"/>
@@ -109,7 +109,7 @@
       </text>
     </g>
     
-    <!-- Benefits -->
+
     <g transform="translate(0, 330)">
       <rect x="-60" y="-40" width="120" height="80" fill="#e8f5e8" stroke="#27ae60" stroke-width="1" rx="5"/>
       <text x="0" y="-25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#27ae60">
@@ -130,7 +130,7 @@
     </g>
   </g>
   
-  <!-- Transformation arrow -->
+
   <g transform="translate(400, 250)">
     <defs>
       <marker id="arrowhead" markerWidth="15" markerHeight="10" refX="14" refY="5" orient="auto">
@@ -143,13 +143,13 @@
     </text>
   </g>
   
-  <!-- Technology components -->
+
   <g transform="translate(400, 100)">
     <text x="0" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
       Teknologiske Komponenter
     </text>
     
-    <!-- OCR -->
+
     <g transform="translate(-120, 40)">
       <rect x="-40" y="-15" width="80" height="30" fill="#f39c12" opacity="0.1" stroke="#f39c12" stroke-width="1" rx="3"/>
       <text x="0" y="-5" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#f39c12">
@@ -160,7 +160,7 @@
       </text>
     </g>
     
-    <!-- AI -->
+
     <g transform="translate(0, 40)">
       <rect x="-40" y="-15" width="80" height="30" fill="#9b59b6" opacity="0.1" stroke="#9b59b6" stroke-width="1" rx="3"/>
       <text x="0" y="-5" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#9b59b6">
@@ -171,7 +171,7 @@
       </text>
     </g>
     
-    <!-- Workflow -->
+
     <g transform="translate(120, 40)">
       <rect x="-40" y="-15" width="80" height="30" fill="#1abc9c" opacity="0.1" stroke="#1abc9c" stroke-width="1" rx="3"/>
       <text x="0" y="-5" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#1abc9c">
@@ -182,7 +182,7 @@
       </text>
     </g>
     
-    <!-- Integration -->
+
     <g transform="translate(-60, 90)">
       <rect x="-40" y="-15" width="80" height="30" fill="#e74c3c" opacity="0.1" stroke="#e74c3c" stroke-width="1" rx="3"/>
       <text x="0" y="-5" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#e74c3c">
@@ -193,7 +193,7 @@
       </text>
     </g>
     
-    <!-- Security -->
+
     <g transform="translate(60, 90)">
       <rect x="-40" y="-15" width="80" height="30" fill="#34495e" opacity="0.1" stroke="#34495e" stroke-width="1" rx="3"/>
       <text x="0" y="-5" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#34495e">
@@ -205,7 +205,7 @@
     </g>
   </g>
   
-  <!-- Bottom note -->
+
   <text x="400" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">
     Digital bilagsbehandling krever juridisk gyldige løsninger som oppfyller krav til autentisitet og integritet
   </text>

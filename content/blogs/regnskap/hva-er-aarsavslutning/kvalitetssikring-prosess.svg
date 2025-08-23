@@ -6,17 +6,17 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f8f9fa"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGrad)"/>
   <text x="400" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="20" font-weight="bold">KVALITETSSIKRING PROSESS</text>
   <text x="400" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14">Systematisk sikring av årsavslutningens kvalitet</text>
   
-  <!-- Quality control pyramid -->
+
   <g transform="translate(100, 80)">
-    <!-- Level 1: Basic Controls -->
+
     <g>
       <rect x="0" y="240" width="600" height="80" fill="#c8e6c9" stroke="#4caf50" stroke-width="2" rx="8"/>
       <text x="300" y="265" text-anchor="middle" fill="#1b5e20" font-family="Arial, sans-serif" font-size="16" font-weight="bold">NIVÅ 1: GRUNNLEGGENDE KONTROLLER</text>
@@ -34,7 +34,7 @@
       </g>
     </g>
     
-    <!-- Level 2: Analytical Reviews -->
+
     <g>
       <rect x="75" y="160" width="450" height="70" fill="#bbdefb" stroke="#2196f3" stroke-width="2" rx="8"/>
       <text x="300" y="185" text-anchor="middle" fill="#0d47a1" font-family="Arial, sans-serif" font-size="16" font-weight="bold">NIVÅ 2: ANALYTISKE PROSEDYRER</text>
@@ -47,7 +47,7 @@
       </g>
     </g>
     
-    <!-- Level 3: Substantive Testing -->
+
     <g>
       <rect x="150" y="90" width="300" height="60" fill="#ffecb3" stroke="#ff9800" stroke-width="2" rx="8"/>
       <text x="300" y="115" text-anchor="middle" fill="#e65100" font-family="Arial, sans-serif" font-size="16" font-weight="bold">NIVÅ 3: SUBSTANSTESTING</text>
@@ -58,7 +58,7 @@
       </g>
     </g>
     
-    <!-- Level 4: Management Review -->
+
     <g>
       <rect x="225" y="30" width="150" height="50" fill="#f8bbd9" stroke="#e91e63" stroke-width="2" rx="8"/>
       <text x="300" y="50" text-anchor="middle" fill="#880e4f" font-family="Arial, sans-serif" font-size="14" font-weight="bold">NIVÅ 4:</text>
@@ -66,14 +66,14 @@
     </g>
   </g>
   
-  <!-- Control activities detail -->
+
   <g transform="translate(50, 350)">
     <rect x="0" y="0" width="700" height="130" fill="#fff" stroke="#ddd" stroke-width="1" rx="8"/>
     <text x="350" y="20" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="16" font-weight="bold">DETALJERTE KONTROLLAKTIVITETER</text>
     
-    <!-- Four control areas -->
+
     <g transform="translate(20, 35)">
-      <!-- Input Controls -->
+
       <rect x="0" y="0" width="160" height="80" fill="#e8f5e8" stroke="#4caf50" stroke-width="1" rx="5"/>
       <text x="80" y="15" text-anchor="middle" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" font-weight="bold">INPUT KONTROLLER</text>
       <text x="5" y="30" fill="#333" font-family="Arial, sans-serif" font-size="10">✓ Alle transaksjoner registrert</text>
@@ -81,7 +81,7 @@
       <text x="5" y="54" fill="#333" font-family="Arial, sans-serif" font-size="10">✓ Autoriserte justeringer</text>
       <text x="5" y="66" fill="#333" font-family="Arial, sans-serif" font-size="10">✓ Bilag og dokumentasjon</text>
       
-      <!-- Processing Controls -->
+
       <rect x="170" y="0" width="160" height="80" fill="#e3f2fd" stroke="#2196f3" stroke-width="1" rx="5"/>
       <text x="250" y="15" text-anchor="middle" fill="#1565c0" font-family="Arial, sans-serif" font-size="12" font-weight="bold">PROSESS KONTROLLER</text>
       <text x="175" y="30" fill="#333" font-family="Arial, sans-serif" font-size="10">✓ Automatiske kalkulasjoner</text>
@@ -89,7 +89,7 @@
       <text x="175" y="54" fill="#333" font-family="Arial, sans-serif" font-size="10">✓ Integritetssjekker</text>
       <text x="175" y="66" fill="#333" font-family="Arial, sans-serif" font-size="10">✓ Periodeavgrensning</text>
       
-      <!-- Output Controls -->
+
       <rect x="340" y="0" width="160" height="80" fill="#fff3e0" stroke="#ff9800" stroke-width="1" rx="5"/>
       <text x="420" y="15" text-anchor="middle" fill="#e65100" font-family="Arial, sans-serif" font-size="12" font-weight="bold">OUTPUT KONTROLLER</text>
       <text x="345" y="30" fill="#333" font-family="Arial, sans-serif" font-size="10">✓ Balansetilpassning</text>
@@ -97,7 +97,7 @@
       <text x="345" y="54" fill="#333" font-family="Arial, sans-serif" font-size="10">✓ Tall-avstemming</text>
       <text x="345" y="66" fill="#333" font-family="Arial, sans-serif" font-size="10">✓ Format kontroll</text>
       
-      <!-- Review Controls -->
+
       <rect x="510" y="0" width="160" height="80" fill="#f3e5f5" stroke="#9c27b0" stroke-width="1" rx="5"/>
       <text x="590" y="15" text-anchor="middle" fill="#6a1b9a" font-family="Arial, sans-serif" font-size="12" font-weight="bold">GJENNOMGANG</text>
       <text x="515" y="30" fill="#333" font-family="Arial, sans-serif" font-size="10">✓ Uavhengig kontroll</text>

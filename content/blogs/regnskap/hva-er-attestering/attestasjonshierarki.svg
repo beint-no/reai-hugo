@@ -25,15 +25,15 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#0066cc">
     Attestasjonshierarki og Fullmakter
   </text>
   
-  <!-- Level 1: Styret -->
+
   <g transform="translate(300, 80)">
     <rect x="0" y="0" width="200" height="80" fill="url(#level1Gradient)" rx="15" filter="url(#shadow)"/>
     <text x="100" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
@@ -46,14 +46,14 @@
       Større investeringer og lån
     </text>
     
-    <!-- Crown icon -->
+
     <polygon points="85,15 90,5 95,15 100,5 105,15 110,5 115,15 115,20 85,20" fill="#ffd700"/>
   </g>
   
-  <!-- Arrow down -->
+
   <path d="M400 170 L400 200" stroke="#0066cc" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Level 2: Daglig Leder -->
+
   <g transform="translate(250, 210)">
     <rect x="0" y="0" width="300" height="80" fill="url(#level2Gradient)" rx="15" filter="url(#shadow)"/>
     <text x="150" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
@@ -66,16 +66,16 @@
       Strategiske investeringer
     </text>
     
-    <!-- Person with tie icon -->
+
     <circle cx="130" cy="15" r="8" fill="white"/>
     <rect x="122" y="23" width="16" height="20" fill="white" rx="8"/>
     <rect x="128" y="25" width="4" height="15" fill="#fd7e14"/>
   </g>
   
-  <!-- Arrow down -->
+
   <path d="M400 300 L400 330" stroke="#0066cc" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Level 3: Økonomileder -->
+
   <g transform="translate(200, 340)">
     <rect x="0" y="0" width="400" height="80" fill="url(#level3Gradient)" rx="15" filter="url(#shadow)"/>
     <text x="200" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
@@ -88,7 +88,7 @@
       Alle økonomiske transaksjoner
     </text>
     
-    <!-- Calculator icon -->
+
     <rect x="170" y="10" width="20" height="15" fill="white" rx="2"/>
     <rect x="172" y="12" width="4" height="2" fill="#ffc107"/>
     <rect x="178" y="12" width="4" height="2" fill="#ffc107"/>
@@ -100,10 +100,10 @@
     <rect x="178" y="20" width="10" height="2" fill="#28a745"/>
   </g>
   
-  <!-- Arrow down -->
+
   <path d="M400 430 L400 460" stroke="#0066cc" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Level 4: Avdelingsleder -->
+
   <g transform="translate(150, 470)">
     <rect x="0" y="0" width="500" height="80" fill="url(#level4Gradient)" rx="15" filter="url(#shadow)"/>
     <text x="250" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
@@ -116,7 +116,7 @@
       Driftsutgifter innen budsjett
     </text>
     
-    <!-- Team icon -->
+
     <circle cx="220" cy="15" r="6" fill="white"/>
     <circle cx="235" cy="15" r="6" fill="white"/>
     <circle cx="250" cy="15" r="6" fill="white"/>
@@ -125,9 +125,9 @@
     <rect x="244" y="21" width="12" height="10" fill="white" rx="6"/>
   </g>
   
-  <!-- Side annotations -->
+
   
-  <!-- Left side: Ansvar -->
+
   <g transform="translate(50, 200)">
     <text x="0" y="0" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#0066cc">
       ANSVAR
@@ -145,14 +145,14 @@
       • Daglig drift
     </text>
     
-    <!-- Arrows pointing to levels -->
+
     <path d="M120 10 L240 90" stroke="#dc3545" stroke-width="1" stroke-dasharray="3,3"/>
     <path d="M120 30 L240 220" stroke="#fd7e14" stroke-width="1" stroke-dasharray="3,3"/>
     <path d="M120 50 L190 350" stroke="#ffc107" stroke-width="1" stroke-dasharray="3,3"/>
     <path d="M120 70 L140 480" stroke="#28a745" stroke-width="1" stroke-dasharray="3,3"/>
   </g>
   
-  <!-- Right side: Kontrollmekanismer -->
+
   <g transform="translate(650, 200)">
     <text x="0" y="0" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#0066cc">
       KONTROLL
@@ -170,19 +170,19 @@
       • Månedlig rapportering
     </text>
     
-    <!-- Arrows pointing from levels -->
+
     <path d="M-50 10 L-190 90" stroke="#dc3545" stroke-width="1" stroke-dasharray="3,3"/>
     <path d="M-50 30 L-190 220" stroke="#fd7e14" stroke-width="1" stroke-dasharray="3,3"/>
     <path d="M-50 50 L-190 350" stroke="#ffc107" stroke-width="1" stroke-dasharray="3,3"/>
     <path d="M-50 70 L-190 480" stroke="#28a745" stroke-width="1" stroke-dasharray="3,3"/>
   </g>
   
-  <!-- Bottom note -->
+
   <text x="400" y="580" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#666" font-style="italic">
     Beløpsgrenser kan tilpasses bedriftens størrelse og risikoprofil
   </text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#0066cc"/>

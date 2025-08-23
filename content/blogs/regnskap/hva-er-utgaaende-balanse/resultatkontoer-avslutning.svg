@@ -14,15 +14,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="35" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="#1e293b">
     Resultatkontoer og Avslutning til Egenkapital
   </text>
   
-  <!-- Inntektskontoer -->
+
   <rect x="50" y="70" width="300" height="220" fill="url(#inntektGradient)" stroke="#16a34a" stroke-width="2" rx="10"/>
   <text x="200" y="95" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#166534">
     INNTEKTSKONTOER
@@ -31,7 +31,7 @@
     (Kredit Normal Balanse)
   </text>
   
-  <!-- Salgsinntekter -->
+
   <rect x="70" y="130" width="260" height="40" fill="#ffffff" stroke="#16a34a" stroke-width="1" rx="5"/>
   <text x="80" y="145" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e293b">
     Salgsinntekter
@@ -40,7 +40,7 @@
     UB 31.12: Kr 2.500.000 (kredit)
   </text>
   
-  <!-- Renteinntekter -->
+
   <rect x="70" y="180" width="260" height="40" fill="#ffffff" stroke="#16a34a" stroke-width="1" rx="5"/>
   <text x="80" y="195" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e293b">
     Renteinntekter
@@ -49,7 +49,7 @@
     UB 31.12: Kr 25.000 (kredit)
   </text>
   
-  <!-- Andre inntekter -->
+
   <rect x="70" y="230" width="260" height="40" fill="#ffffff" stroke="#16a34a" stroke-width="1" rx="5"/>
   <text x="80" y="245" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e293b">
     Andre Driftsinntekter
@@ -58,7 +58,7 @@
     UB 31.12: Kr 75.000 (kredit)
   </text>
   
-  <!-- Kostnadskontoer -->
+
   <rect x="450" y="70" width="300" height="220" fill="url(#kostnadGradient)" stroke="#dc2626" stroke-width="2" rx="10"/>
   <text x="600" y="95" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#991b1b">
     KOSTNADSKONTOER
@@ -67,7 +67,7 @@
     (Debet Normal Balanse)
   </text>
   
-  <!-- Varekostnad -->
+
   <rect x="470" y="130" width="260" height="40" fill="#ffffff" stroke="#dc2626" stroke-width="1" rx="5"/>
   <text x="480" y="145" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e293b">
     Varekostnad
@@ -76,7 +76,7 @@
     UB 31.12: Kr 1.200.000 (debet)
   </text>
   
-  <!-- Lønnskostnader -->
+
   <rect x="470" y="180" width="260" height="40" fill="#ffffff" stroke="#dc2626" stroke-width="1" rx="5"/>
   <text x="480" y="195" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e293b">
     Lønnskostnader
@@ -85,7 +85,7 @@
     UB 31.12: Kr 800.000 (debet)
   </text>
   
-  <!-- Andre kostnader -->
+
   <rect x="470" y="230" width="260" height="40" fill="#ffffff" stroke="#dc2626" stroke-width="1" rx="5"/>
   <text x="480" y="245" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e293b">
     Andre Driftskostnader
@@ -94,7 +94,7 @@
     UB 31.12: Kr 250.000 (debet)
   </text>
   
-  <!-- Avslutning arrows -->
+
   <path d="M200 300 L300 350" stroke="#6366f1" stroke-width="3" fill="none" marker-end="url(#arrowhead1)"/>
   <path d="M600 300 L500 350" stroke="#6366f1" stroke-width="3" fill="none" marker-end="url(#arrowhead2)"/>
   
@@ -107,13 +107,13 @@
     </marker>
   </defs>
   
-  <!-- Avslutningsprosess -->
+
   <rect x="250" y="320" width="300" height="120" fill="#f0f9ff" stroke="#0ea5e9" stroke-width="2" rx="10"/>
   <text x="400" y="345" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0c4a6e">
     AVSLUTNINGSPROSESS
   </text>
   
-  <!-- Step 1 -->
+
   <text x="270" y="370" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#0c4a6e">
     1. Nullstill resultatkontoer:
   </text>
@@ -124,12 +124,12 @@
     • Kredit kostnadskontoer (fjern debetsaldo)
   </text>
   
-  <!-- Step 2 -->
+
   <text x="270" y="420" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#0c4a6e">
     2. Overfør resultat til egenkapital
   </text>
   
-  <!-- Resultat calculation -->
+
   <rect x="50" y="470" width="700" height="110" fill="#fef3c7" stroke="#f59e0b" stroke-width="2" rx="8"/>
   <text x="400" y="495" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#92400e">
     Beregning av Årets Resultat

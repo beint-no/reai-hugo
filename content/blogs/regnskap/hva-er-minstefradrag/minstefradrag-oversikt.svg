@@ -10,15 +10,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="700" height="500" fill="url(#bgGrad)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="350" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#333">
     Minstefradrag Oversikt
   </text>
   
-  <!-- Central concept -->
+
   <rect x="250" y="80" width="200" height="80" fill="url(#blueGrad)" rx="10"/>
   <text x="350" y="110" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
     MINSTEFRADRAG
@@ -30,7 +30,7 @@
     for alle skattytere
   </text>
   
-  <!-- Left side - Input -->
+
   <rect x="50" y="200" width="150" height="60" fill="#e3f2fd" stroke="#0066cc" stroke-width="2" rx="5"/>
   <text x="125" y="220" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0066cc">
     BRUTTOINNTEKT
@@ -42,7 +42,7 @@
     næringsinntekt
   </text>
   
-  <!-- Right side - Output -->
+
   <rect x="500" y="200" width="150" height="60" fill="#e8f5e8" stroke="#28a745" stroke-width="2" rx="5"/>
   <text x="575" y="220" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#28a745">
     SKATTEPLIKTIG
@@ -54,18 +54,18 @@
     Etter fradrag
   </text>
   
-  <!-- Arrows -->
+
   <path d="M 200 230 L 240 230" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 460 230 L 500 230" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#666"/>
     </marker>
   </defs>
   
-  <!-- Process box -->
+
   <rect x="250" y="200" width="200" height="60" fill="#fff3e0" stroke="#ff9800" stroke-width="2" rx="5"/>
   <text x="350" y="220" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#ff9800">
     MINSTEFRADRAG TREKKES FRA
@@ -77,12 +77,12 @@
     31% av pensjon (maks kr 90 800)
   </text>
   
-  <!-- Benefits section -->
+
   <text x="350" y="320" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#333">
     Fordeler med Minstefradrag
   </text>
   
-  <!-- Benefit boxes -->
+
   <rect x="50" y="340" width="130" height="80" fill="white" stroke="#dee2e6" stroke-width="1" rx="5"/>
   <text x="115" y="360" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0066cc">
     AUTOMATISK
@@ -139,7 +139,7 @@
     hvert år
   </text>
   
-  <!-- Bottom note -->
+
   <text x="350" y="460" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666">
     Minstefradrag er en grunnleggende del av det norske skattesystemet
   </text>

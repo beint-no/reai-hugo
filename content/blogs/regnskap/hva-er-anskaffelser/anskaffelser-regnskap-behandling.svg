@@ -21,21 +21,21 @@
     </marker>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#1976d2">
     Regnskapsmessig Behandling av Anskaffelser
   </text>
   
-  <!-- Operating Expenses -->
+
   <rect x="50" y="70" width="220" height="150" fill="url(#expenseGradient)" stroke="#dc3545" stroke-width="3" rx="15"/>
   <text x="160" y="95" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#721c24">
     Driftskostnader
   </text>
   
-  <!-- Expense icon -->
+
   <circle cx="160" cy="125" r="20" fill="#dc3545" opacity="0.3"/>
   <path d="M150 115 L170 135 M170 115 L150 135" stroke="#dc3545" stroke-width="3"/>
   <text x="160" y="140" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#dc3545">Kr</text>
@@ -53,13 +53,13 @@
     • Kostnadsføres umiddelbart
   </text>
   
-  <!-- Fixed Assets -->
+
   <rect x="290" y="70" width="220" height="150" fill="url(#assetGradient)" stroke="#28a745" stroke-width="3" rx="15"/>
   <text x="400" y="95" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#155724">
     Anleggsmidler
   </text>
   
-  <!-- Asset icon -->
+
   <circle cx="400" cy="125" r="20" fill="#28a745" opacity="0.3"/>
   <rect x="385" y="110" width="30" height="30" fill="none" stroke="#28a745" stroke-width="3"/>
   <path d="M390 120 L410 120 M390 125 L410 125 M390 130 L410 130" stroke="#28a745" stroke-width="2"/>
@@ -77,13 +77,13 @@
     • Avskrives over brukstid
   </text>
   
-  <!-- Inventory -->
+
   <rect x="530" y="70" width="220" height="150" fill="url(#inventoryGradient)" stroke="#007bff" stroke-width="3" rx="15"/>
   <text x="640" y="95" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#004085">
     Varelager
   </text>
   
-  <!-- Inventory icon -->
+
   <circle cx="640" cy="125" r="20" fill="#007bff" opacity="0.3"/>
   <rect x="625" y="110" width="30" height="30" fill="none" stroke="#007bff" stroke-width="3"/>
   <circle cx="635" cy="120" r="3" fill="#007bff"/>
@@ -104,13 +104,13 @@
     • Krever lagerføring
   </text>
   
-  <!-- Process Flow Section -->
+
   <rect x="50" y="250" width="700" height="280" fill="url(#processGradient)" stroke="#ffc107" stroke-width="3" rx="15"/>
   <text x="400" y="275" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#856404">
     Fakturabehandlingsprosess
   </text>
   
-  <!-- Step 1: Receipt -->
+
   <rect x="80" y="300" width="120" height="60" fill="white" stroke="#856404" stroke-width="2" rx="8"/>
   <text x="140" y="320" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#856404">
     1. Mottak
@@ -122,10 +122,10 @@
     faktura
   </text>
   
-  <!-- Arrow 1 -->
+
   <line x1="200" y1="330" x2="230" y2="330" stroke="#1976d2" stroke-width="2" marker-end="url(#flowArrow)"/>
   
-  <!-- Step 2: Control -->
+
   <rect x="240" y="300" width="120" height="60" fill="white" stroke="#856404" stroke-width="2" rx="8"/>
   <text x="300" y="320" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#856404">
     2. Kontroll
@@ -137,10 +137,10 @@
     og leveranse
   </text>
   
-  <!-- Arrow 2 -->
+
   <line x1="360" y1="330" x2="390" y2="330" stroke="#1976d2" stroke-width="2" marker-end="url(#flowArrow)"/>
   
-  <!-- Step 3: Approval -->
+
   <rect x="400" y="300" width="120" height="60" fill="white" stroke="#856404" stroke-width="2" rx="8"/>
   <text x="460" y="320" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#856404">
     3. Godkjenning
@@ -152,10 +152,10 @@
     person
   </text>
   
-  <!-- Arrow 3 -->
+
   <line x1="520" y1="330" x2="550" y2="330" stroke="#1976d2" stroke-width="2" marker-end="url(#flowArrow)"/>
   
-  <!-- Step 4: Booking -->
+
   <rect x="560" y="300" width="120" height="60" fill="white" stroke="#856404" stroke-width="2" rx="8"/>
   <text x="620" y="320" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#856404">
     4. Bokføring
@@ -167,10 +167,10 @@
     og konto
   </text>
   
-  <!-- Arrow down -->
+
   <line x1="620" y1="360" x2="620" y2="390" stroke="#1976d2" stroke-width="2" marker-end="url(#flowArrow)"/>
   
-  <!-- Step 5: Payment -->
+
   <rect x="560" y="400" width="120" height="60" fill="white" stroke="#856404" stroke-width="2" rx="8"/>
   <text x="620" y="420" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#856404">
     5. Betaling
@@ -182,7 +182,7 @@
     forfallsdato
   </text>
   
-  <!-- Periodization section -->
+
   <rect x="80" y="380" width="450" height="120" fill="white" stroke="#856404" stroke-width="2" rx="8"/>
   <text x="305" y="400" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#856404">
     Periodiseringsprinsipper
@@ -216,7 +216,7 @@
     Kostnader bokføres når påløpt
   </text>
   
-  <!-- Footer -->
+
   <rect x="0" y="550" width="800" height="50" fill="#e9ecef"/>
   <text x="400" y="570" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#495057">
     Korrekt regnskapsbehandling sikrer nøyaktig finansiell rapportering

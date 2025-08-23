@@ -18,81 +18,81 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#F8F9FA"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2C3E50">ERP Integrasjon med Norske Myndigheter</text>
   
-  <!-- Central ERP System -->
+
   <rect x="320" y="250" width="160" height="100" rx="15" fill="url(#erpGradient)" stroke="#1B5E20" stroke-width="3"/>
   <text x="400" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">ERP-SYSTEM</text>
   <text x="400" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Norsk Bedrift</text>
   <text x="400" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Automatisk rapportering</text>
   
-  <!-- Altinn Integration -->
+
   <rect x="100" y="120" width="140" height="80" rx="10" fill="url(#altinnGradient)" stroke="#0D47A1" stroke-width="2"/>
   <text x="170" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">ALTINN</text>
   <text x="170" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• MVA-melding</text>
   <text x="170" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• Skattemelding</text>
   <text x="170" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• Årsregnskap</text>
   
-  <!-- Skatteetaten Integration -->
+
   <rect x="560" y="120" width="140" height="80" rx="10" fill="url(#skatteetatenGradient)" stroke="#B71C1C" stroke-width="2"/>
   <text x="630" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">SKATTEETATEN</text>
   <text x="630" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• SAF-T eksport</text>
   <text x="630" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• Regnskapsdata</text>
   <text x="630" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• Kontroll</text>
   
-  <!-- A-melding Integration -->
+
   <rect x="100" y="400" width="140" height="80" rx="10" fill="url(#ameldingGradient)" stroke="#E65100" stroke-width="2"/>
   <text x="170" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">A-MELDING</text>
   <text x="170" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• Lønnsdata</text>
   <text x="170" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• Arbeidsgiveravgift</text>
   <text x="170" y="475" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• Månedlig rapportering</text>
   
-  <!-- Bokføringsloven Compliance -->
+
   <rect x="560" y="400" width="140" height="80" rx="10" fill="#7B1FA2" stroke="#4A148C" stroke-width="2"/>
   <text x="630" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">BOKFØRINGSLOVEN</text>
   <text x="630" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• Oppbevaringskrav</text>
   <text x="630" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• Sporbarhet</text>
   <text x="630" y="475" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• Dokumentasjon</text>
   
-  <!-- Connection arrows from ERP to systems -->
-  <!-- To Altinn -->
+
+
   <line x1="320" y1="270" x2="240" y2="180" stroke="#2E7D32" stroke-width="3" marker-end="url(#arrowhead)"/>
   <text x="270" y="220" font-family="Arial, sans-serif" font-size="10" fill="#2E7D32" font-weight="bold">Automatisk</text>
   <text x="270" y="235" font-family="Arial, sans-serif" font-size="10" fill="#2E7D32" font-weight="bold">innsending</text>
   
-  <!-- To Skatteetaten -->
+
   <line x1="480" y1="270" x2="560" y2="180" stroke="#2E7D32" stroke-width="3" marker-end="url(#arrowhead)"/>
   <text x="520" y="220" font-family="Arial, sans-serif" font-size="10" fill="#2E7D32" font-weight="bold">SAF-T</text>
   <text x="520" y="235" font-family="Arial, sans-serif" font-size="10" fill="#2E7D32" font-weight="bold">eksport</text>
   
-  <!-- To A-melding -->
+
   <line x1="320" y1="330" x2="240" y2="420" stroke="#2E7D32" stroke-width="3" marker-end="url(#arrowhead)"/>
   <text x="270" y="380" font-family="Arial, sans-serif" font-size="10" fill="#2E7D32" font-weight="bold">Lønnsdata</text>
   <text x="270" y="395" font-family="Arial, sans-serif" font-size="10" fill="#2E7D32" font-weight="bold">månedlig</text>
   
-  <!-- To Bokføringsloven -->
+
   <line x1="480" y1="330" x2="560" y2="420" stroke="#2E7D32" stroke-width="3" marker-end="url(#arrowhead)"/>
   <text x="520" y="380" font-family="Arial, sans-serif" font-size="10" fill="#2E7D32" font-weight="bold">Compliance</text>
   <text x="520" y="395" font-family="Arial, sans-serif" font-size="10" fill="#2E7D32" font-weight="bold">overholdelse</text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#2E7D32"/>
     </marker>
   </defs>
   
-  <!-- Benefits section -->
+
   <rect x="300" y="520" width="200" height="60" fill="white" stroke="#DDD" stroke-width="1" rx="5"/>
   <text x="400" y="540" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2C3E50">Fordeler med Integrasjon:</text>
   <text x="400" y="555" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">• Redusert manuelt arbeid</text>
   <text x="400" y="570" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">• Færre feil og automatisk compliance</text>
   
-  <!-- Data flow indicators -->
+
   <circle cx="280" cy="200" r="3" fill="#1565C0"/>
   <circle cx="285" cy="205" r="3" fill="#1565C0"/>
   <circle cx="290" cy="210" r="3" fill="#1565C0"/>
@@ -109,7 +109,7 @@
   <circle cx="525" cy="395" r="3" fill="#7B1FA2"/>
   <circle cx="530" cy="390" r="3" fill="#7B1FA2"/>
   
-  <!-- Norwegian flag colors accent -->
+
   <rect x="50" y="50" width="30" height="20" fill="#BA0C2F"/>
   <rect x="50" y="60" width="30" height="4" fill="white"/>
   <rect x="58" y="50" width="4" height="20" fill="white"/>

@@ -1,14 +1,14 @@
 <svg width="800" height="550" viewBox="0 0 800 550" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="550" fill="#f8fafc"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1e293b">
     Periodisering vs Kontantstrøm - Sammenheng og Forskjeller
   </text>
   
-  <!-- Two main columns -->
-  <!-- Accrual Accounting Column -->
+
+
   <rect x="50" y="70" width="300" height="400" fill="#ecfdf5" stroke="#16a34a" stroke-width="2" rx="10"/>
   <text x="200" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#166534">
     PERIODISERING
@@ -17,7 +17,7 @@
     (Regnskapsmessig Resultat)
   </text>
   
-  <!-- Cash Flow Column -->
+
   <rect x="450" y="70" width="300" height="400" fill="#fef2f2" stroke="#dc2626" stroke-width="2" rx="10"/>
   <text x="600" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#991b1b">
     KONTANTSTRØM
@@ -26,8 +26,8 @@
     (Faktiske Inn- og Utbetalinger)
   </text>
   
-  <!-- Example scenarios -->
-  <!-- Scenario 1: Accrued Revenue -->
+
+
   <rect x="70" y="140" width="260" height="60" fill="#d1fae5" stroke="#059669" stroke-width="1" rx="5"/>
   <text x="200" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#065f46">
     Periodiserte Inntekter
@@ -50,7 +50,7 @@
     Kontantstrøm: 0
   </text>
   
-  <!-- Scenario 2: Prepaid Expenses -->
+
   <rect x="70" y="210" width="260" height="60" fill="#d1fae5" stroke="#059669" stroke-width="1" rx="5"/>
   <text x="200" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#065f46">
     Forhåndsbetalte Kostnader
@@ -73,7 +73,7 @@
     Kontantstrøm: 0
   </text>
   
-  <!-- Scenario 3: Normal transaction -->
+
   <rect x="70" y="280" width="260" height="60" fill="#d1fae5" stroke="#059669" stroke-width="1" rx="5"/>
   <text x="200" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#065f46">
     Normal Transaksjon
@@ -96,7 +96,7 @@
     Kontantstrøm: -30.000
   </text>
   
-  <!-- Reconciliation formula -->
+
   <rect x="100" y="360" width="600" height="100" fill="#f0f9ff" stroke="#0284c7" stroke-width="2" rx="10"/>
   <text x="400" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#0284c7">
     Avstemming: Resultat til Kontantstrøm
@@ -118,7 +118,7 @@
     - Økning i forhåndsbetalte kostnader
   </text>
   
-  <!-- Working capital impact -->
+
   <rect x="150" y="485" width="500" height="50" fill="#fffbeb" stroke="#d97706" stroke-width="2" rx="8"/>
   <text x="400" y="505" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#92400e">
     Periodiseringer påvirker arbeidskapitalen og dermed kontantstrømmen
@@ -127,19 +127,19 @@
     Økning i arbeidskapital = Negativ påvirkning på kontantstrøm
   </text>
   
-  <!-- Connecting arrows -->
+
   <path d="M 350 200 L 450 200" stroke="#64748b" stroke-width="2" stroke-dasharray="5,5" marker-end="url(#arrow)"/>
   <path d="M 350 240 L 450 240" stroke="#64748b" stroke-width="2" stroke-dasharray="5,5" marker-end="url(#arrow)"/>
   <path d="M 350 310 L 450 310" stroke="#64748b" stroke-width="2" stroke-dasharray="5,5" marker-end="url(#arrow)"/>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrow" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#64748b"/>
     </marker>
   </defs>
   
-  <!-- Time difference indicator -->
+
   <ellipse cx="400" cy="200" rx="30" ry="15" fill="#fbbf24" opacity="0.7"/>
   <text x="400" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#92400e">
     TIDSDIFF

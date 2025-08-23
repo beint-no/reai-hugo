@@ -17,15 +17,15 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#0066cc">
     Digital Attestering Arbeidsflyt
   </text>
   
-  <!-- Step 1: Document Upload -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="140" height="80" fill="url(#digitalGradient)" rx="10" filter="url(#shadow)"/>
     <text x="70" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
@@ -35,15 +35,15 @@
       OPPLASTING
     </text>
     
-    <!-- Upload icon -->
+
     <rect x="55" y="50" width="30" height="20" fill="white" rx="2"/>
     <path d="M65 55 L70 50 L75 55 M70 50 L70 65" stroke="#6f42c1" stroke-width="2" fill="none"/>
   </g>
   
-  <!-- Arrow -->
+
   <path d="M200 120 L240 120" stroke="#6f42c1" stroke-width="3" fill="none" marker-end="url(#arrowheadPurple)"/>
   
-  <!-- Step 2: AI Recognition -->
+
   <g transform="translate(250, 80)">
     <rect x="0" y="0" width="140" height="80" fill="url(#digitalGradient)" rx="10" filter="url(#shadow)"/>
     <text x="70" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
@@ -53,7 +53,7 @@
       &amp; KATEGORISERING
     </text>
     
-    <!-- AI brain icon -->
+
     <circle cx="70" cy="55" r="12" fill="white"/>
     <path d="M65 50 Q70 45 75 50 Q80 55 75 60 Q70 65 65 60 Q60 55 65 50" stroke="#6f42c1" stroke-width="2" fill="none"/>
     <circle cx="67" cy="52" r="1" fill="#6f42c1"/>
@@ -61,10 +61,10 @@
     <circle cx="70" cy="58" r="1" fill="#6f42c1"/>
   </g>
   
-  <!-- Arrow -->
+
   <path d="M400 120 L440 120" stroke="#6f42c1" stroke-width="3" fill="none" marker-end="url(#arrowheadPurple)"/>
   
-  <!-- Step 3: Auto Routing -->
+
   <g transform="translate(450, 80)">
     <rect x="0" y="0" width="140" height="80" fill="url(#digitalGradient)" rx="10" filter="url(#shadow)"/>
     <text x="70" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
@@ -74,7 +74,7 @@
       ROUTING
     </text>
     
-    <!-- Routing icon -->
+
     <circle cx="55" cy="55" r="4" fill="white"/>
     <circle cx="70" cy="55" r="4" fill="white"/>
     <circle cx="85" cy="55" r="4" fill="white"/>
@@ -82,10 +82,10 @@
     <path d="M80 50 L85 55 L80 60" stroke="white" stroke-width="2" fill="none"/>
   </g>
   
-  <!-- Arrow down -->
+
   <path d="M520 170 L520 210" stroke="#6f42c1" stroke-width="3" fill="none" marker-end="url(#arrowheadPurple)"/>
   
-  <!-- Step 4: Digital Approval -->
+
   <g transform="translate(450, 220)">
     <rect x="0" y="0" width="140" height="80" fill="url(#systemGradient)" rx="10" filter="url(#shadow)"/>
     <text x="70" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
@@ -95,17 +95,17 @@
       GODKJENNING
     </text>
     
-    <!-- Digital signature -->
+
     <rect x="50" y="50" width="40" height="25" fill="white" rx="3"/>
     <path d="M55 60 Q65 70 75 60" stroke="#0066cc" stroke-width="2" fill="none"/>
     <circle cx="80" cy="55" r="3" fill="#28a745"/>
     <path d="M78 55 L79.5 56.5 L82 53" stroke="white" stroke-width="1" fill="none"/>
   </g>
   
-  <!-- Arrow left -->
+
   <path d="M440 260 L400 260" stroke="#0066cc" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 5: Integration -->
+
   <g transform="translate(250, 220)">
     <rect x="0" y="0" width="140" height="80" fill="url(#systemGradient)" rx="10" filter="url(#shadow)"/>
     <text x="70" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
@@ -115,7 +115,7 @@
       REGNSKAP
     </text>
     
-    <!-- Integration icon -->
+
     <rect x="55" y="50" width="30" height="20" fill="white" rx="2"/>
     <rect x="57" y="52" width="26" height="2" fill="#0066cc"/>
     <rect x="57" y="56" width="20" height="1" fill="#666"/>
@@ -124,10 +124,10 @@
     <rect x="57" y="65" width="24" height="1" fill="#666"/>
   </g>
   
-  <!-- Arrow left -->
+
   <path d="M240 260 L200 260" stroke="#0066cc" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 6: Archive -->
+
   <g transform="translate(50, 220)">
     <rect x="0" y="0" width="140" height="80" fill="url(#systemGradient)" rx="10" filter="url(#shadow)"/>
     <text x="70" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
@@ -137,7 +137,7 @@
       ARKIVERING
     </text>
     
-    <!-- Archive icon -->
+
     <rect x="50" y="50" width="40" height="25" fill="white" rx="2"/>
     <rect x="52" y="52" width="36" height="3" fill="#0066cc"/>
     <rect x="52" y="57" width="36" height="3" fill="#0066cc"/>
@@ -145,19 +145,19 @@
     <rect x="52" y="67" width="36" height="3" fill="#0066cc"/>
   </g>
   
-  <!-- Benefits Section -->
+
   <text x="400" y="350" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#0066cc">
     Fordeler med Digital Attestering
   </text>
   
-  <!-- Benefit 1: Speed -->
+
   <g transform="translate(80, 380)">
     <rect x="0" y="0" width="160" height="100" fill="white" stroke="#6f42c1" stroke-width="2" rx="10" filter="url(#shadow)"/>
     <text x="80" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#6f42c1">
       HASTIGHET
     </text>
     
-    <!-- Speed icon -->
+
     <circle cx="80" cy="45" r="15" fill="#6f42c1"/>
     <path d="M75 40 L85 45 L75 50" fill="white"/>
     
@@ -172,14 +172,14 @@
     </text>
   </g>
   
-  <!-- Benefit 2: Traceability -->
+
   <g transform="translate(260, 380)">
     <rect x="0" y="0" width="160" height="100" fill="white" stroke="#6f42c1" stroke-width="2" rx="10" filter="url(#shadow)"/>
     <text x="80" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#6f42c1">
       SPORBARHET
     </text>
     
-    <!-- Trace icon -->
+
     <circle cx="65" cy="40" r="4" fill="#6f42c1"/>
     <circle cx="80" cy="45" r="4" fill="#6f42c1"/>
     <circle cx="95" cy="50" r="4" fill="#6f42c1"/>
@@ -196,14 +196,14 @@
     </text>
   </g>
   
-  <!-- Benefit 3: Integration -->
+
   <g transform="translate(440, 380)">
     <rect x="0" y="0" width="160" height="100" fill="white" stroke="#6f42c1" stroke-width="2" rx="10" filter="url(#shadow)"/>
     <text x="80" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#6f42c1">
       INTEGRASJON
     </text>
     
-    <!-- Integration icon -->
+
     <rect x="65" y="35" width="30" height="20" fill="#6f42c1" rx="3"/>
     <circle cx="55" cy="45" r="5" fill="#6f42c1"/>
     <circle cx="105" cy="45" r="5" fill="#6f42c1"/>
@@ -220,17 +220,17 @@
     </text>
   </g>
   
-  <!-- Technology Stack -->
+
   <text x="400" y="520" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0066cc">
     Teknologi: AI • OCR • Blockchain • Cloud • Mobile • API
   </text>
   
-  <!-- Bottom note -->
+
   <text x="400" y="550" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666" font-style="italic">
     Digital attestering reduserer behandlingstid med opptil 80% og øker nøyaktigheten betydelig
   </text>
   
-  <!-- Arrow marker definitions -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#0066cc"/>

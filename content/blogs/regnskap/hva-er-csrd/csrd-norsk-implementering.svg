@@ -1,24 +1,24 @@
 <svg width="900" height="600" viewBox="0 0 900 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="900" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="450" y="40" text-anchor="middle" fill="#2c5aa0" font-family="Arial, sans-serif" font-size="24" font-weight="bold">CSRD Implementering i Norge</text>
   
-  <!-- EU Level -->
+
   <rect x="50" y="80" width="800" height="80" fill="#003399" opacity="0.1" rx="10"/>
   <rect x="70" y="100" width="760" height="40" fill="#003399" rx="5"/>
   <text x="450" y="125" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="18" font-weight="bold">EU - Corporate Sustainability Reporting Directive (CSRD)</text>
   
-  <!-- Arrow down -->
+
   <path d="M 450 160 L 450 190 M 440 180 L 450 190 L 460 180" stroke="#2c5aa0" stroke-width="3" fill="none"/>
   <text x="470" y="180" fill="#2c5aa0" font-family="Arial, sans-serif" font-size="12">EØS-avtalen</text>
   
-  <!-- Norwegian Implementation -->
+
   <rect x="50" y="200" width="800" height="320" fill="#dc3545" opacity="0.1" rx="10"/>
   <text x="450" y="230" text-anchor="middle" fill="#dc3545" font-family="Arial, sans-serif" font-size="18" font-weight="bold">Norsk Implementering</text>
   
-  <!-- Laws to be amended -->
+
   <rect x="80" y="250" width="220" height="120" fill="white" stroke="#dc3545" stroke-width="2" rx="8"/>
   <text x="190" y="275" text-anchor="middle" fill="#dc3545" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Regnskapsloven</text>
   <text x="190" y="295" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">• Bærekraftsrapportering</text>
@@ -41,7 +41,7 @@
   <text x="710" y="325" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">• Kvalitetskontroll</text>
   <text x="710" y="340" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">• Rapportering</text>
   
-  <!-- Regulatory Authority -->
+
   <rect x="200" y="400" width="500" height="100" fill="#28a745" opacity="0.1" rx="10"/>
   <rect x="220" y="420" width="460" height="40" fill="#28a745" rx="5"/>
   <text x="450" y="445" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Finanstilsynet - Tilsynsmyndighet</text>
@@ -50,26 +50,26 @@
   <text x="300" y="485" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">• Overvåking av rapportering</text>
   <text x="600" y="485" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">• Håndhevelse av krav</text>
   
-  <!-- Timeline -->
+
   <rect x="80" y="530" width="740" height="50" fill="#ffc107" opacity="0.1" rx="5"/>
   <text x="450" y="550" text-anchor="middle" fill="#856404" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Forventet Tidslinje</text>
   <text x="200" y="570" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">2024: Lovforslag</text>
   <text x="450" y="570" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">2024-2025: Vedtak</text>
   <text x="700" y="570" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">2025: Ikrafttredelse</text>
   
-  <!-- Connecting arrows -->
+
   <path d="M 190 370 L 190 400" stroke="#dc3545" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 450 370 L 450 400" stroke="#dc3545" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 710 370 L 710 400" stroke="#dc3545" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#dc3545"/>
     </marker>
   </defs>
   
-  <!-- Norwegian flag elements -->
+
   <rect x="20" y="20" width="60" height="40" fill="#ef2b2d"/>
   <rect x="20" y="32" width="60" height="16" fill="white"/>
   <rect x="32" y="20" width="16" height="40" fill="white"/>

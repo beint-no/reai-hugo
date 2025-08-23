@@ -10,18 +10,18 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="400" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
   
-  <!-- Main Title -->
+
   <text x="400" y="45" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle" fill="white">
     Hva er MVA-registeret?
   </text>
   
-  <!-- Registry Icon -->
+
   <rect x="100" y="120" width="120" height="160" fill="#ffffff" stroke="#0066cc" stroke-width="3" rx="10"/>
   <rect x="110" y="140" width="100" height="8" fill="#0066cc" rx="4"/>
   <rect x="110" y="160" width="80" height="6" fill="#6c757d" rx="3"/>
@@ -32,7 +32,7 @@
   <rect x="110" y="235" width="95" height="6" fill="#6c757d" rx="3"/>
   <rect x="110" y="250" width="65" height="6" fill="#6c757d" rx="3"/>
   
-  <!-- Arrow -->
+
   <path d="M 240 200 L 280 200" stroke="#0066cc" stroke-width="4" fill="none" marker-end="url(#arrowhead)"/>
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
@@ -40,22 +40,22 @@
     </marker>
   </defs>
   
-  <!-- Business Icons -->
+
   <g transform="translate(300, 140)">
-    <!-- AS Icon -->
+
     <rect x="0" y="0" width="80" height="50" fill="#28a745" stroke="#1e7e34" stroke-width="2" rx="5"/>
     <text x="40" y="30" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">AS</text>
     
-    <!-- ENK Icon -->
+
     <rect x="100" y="0" width="80" height="50" fill="#ffc107" stroke="#e0a800" stroke-width="2" rx="5"/>
     <text x="140" y="30" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#212529">ENK</text>
     
-    <!-- ANS Icon -->
+
     <rect x="200" y="0" width="80" height="50" fill="#17a2b8" stroke="#138496" stroke-width="2" rx="5"/>
     <text x="240" y="30" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">ANS</text>
   </g>
   
-  <!-- Key Information Boxes -->
+
   <g transform="translate(50, 320)">
     <rect x="0" y="0" width="160" height="60" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="8"/>
     <text x="80" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#1976d2">Registreringsplikt</text>

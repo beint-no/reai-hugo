@@ -9,31 +9,31 @@
     </marker>
   </defs>
   
-  <!-- Background -->
+
   <rect width="700" height="450" fill="url(#bgGrad)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="350" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Nåverdi (Present Value) Beregning
   </text>
   
-  <!-- Formula box -->
+
   <rect x="50" y="70" width="600" height="50" fill="#e3f2fd" stroke="#007bff" stroke-width="2" rx="5"/>
   <text x="350" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">
     PV = FV / (1 + r)^n
   </text>
   
-  <!-- Example setup -->
+
   <text x="350" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
     Eksempel: 100 000 kr om 3 år, 8% diskonteringsrente
   </text>
   
-  <!-- Timeline -->
+
   <line x1="100" y1="200" x2="600" y2="200" stroke="#495057" stroke-width="3" marker-end="url(#arrow)"/>
   <text x="100" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#495057">I DAG</text>
   <text x="600" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#495057">OM 3 ÅR</text>
   
-  <!-- Year markers -->
+
   <line x1="250" y1="195" x2="250" y2="205" stroke="#495057" stroke-width="2"/>
   <text x="250" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#495057">År 1</text>
   
@@ -43,24 +43,24 @@
   <line x1="550" y1="195" x2="550" y2="205" stroke="#495057" stroke-width="2"/>
   <text x="550" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#495057">År 3</text>
   
-  <!-- Present value circle -->
+
   <circle cx="100" cy="260" r="40" fill="#28a745" stroke="#1e7e34" stroke-width="3"/>
   <text x="100" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">NÅVERDI</text>
   <text x="100" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">PV = ?</text>
   <text x="100" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Ukjent</text>
   
-  <!-- Future value circle -->
+
   <circle cx="600" cy="260" r="40" fill="#dc3545" stroke="#c82333" stroke-width="3"/>
   <text x="600" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">FREMTIDIG</text>
   <text x="600" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">100 000</text>
   <text x="600" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">kr</text>
   
-  <!-- Discount rate indicators -->
+
   <text x="175" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#007bff" font-weight="bold">8%</text>
   <text x="325" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#007bff" font-weight="bold">8%</text>
   <text x="475" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#007bff" font-weight="bold">8%</text>
   
-  <!-- Calculation steps -->
+
   <rect x="50" y="320" width="600" height="100" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="5"/>
   <text x="350" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
     Beregning:
@@ -83,11 +83,11 @@
     100 000 kr om 3 år er verdt 79 383 kr i dag
   </text>
   
-  <!-- Arrow showing discounting -->
+
   <path d="M 540 260 Q 400 240 160 260" stroke="#ffc107" stroke-width="4" fill="none" marker-end="url(#yellowArrow)"/>
   <text x="350" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#ffc107">DISKONTERING</text>
   
-  <!-- Yellow arrow marker -->
+
   <defs>
     <marker id="yellowArrow" markerWidth="12" markerHeight="8" refX="11" refY="4" orient="auto">
       <polygon points="0 0, 12 4, 0 8" fill="#ffc107"/>

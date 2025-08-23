@@ -12,18 +12,18 @@
     </marker>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGrad)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#2c3e50">
     Diskontering vs. Kapitalisering
   </text>
   
-  <!-- Dividing line -->
+
   <line x1="400" y1="70" x2="400" y2="580" stroke="#dee2e6" stroke-width="2" stroke-dasharray="5,5"/>
   
-  <!-- Left side - Diskontering -->
+
   <text x="200" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#28a745">
     DISKONTERING
   </text>
@@ -31,7 +31,7 @@
     Fremtidig verdi → Nåverdi
   </text>
   
-  <!-- Right side - Kapitalisering -->
+
   <text x="600" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#007bff">
     KAPITALISERING
   </text>
@@ -39,17 +39,17 @@
     Nåverdi → Fremtidig verdi
   </text>
   
-  <!-- Timeline for discounting -->
+
   <line x1="50" y1="180" x2="350" y2="180" stroke="#495057" stroke-width="2"/>
   <text x="50" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#495057">FREMTID</text>
   <text x="350" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#495057">I DAG</text>
   
-  <!-- Timeline for compounding -->
+
   <line x1="450" y1="180" x2="750" y2="180" stroke="#495057" stroke-width="2"/>
   <text x="450" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#495057">I DAG</text>
   <text x="750" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#495057">FREMTID</text>
   
-  <!-- Discounting example -->
+
   <circle cx="80" cy="240" r="30" fill="#dc3545" stroke="#c82333" stroke-width="2"/>
   <text x="80" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">100 000</text>
   <text x="80" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">kr om 3 år</text>
@@ -60,7 +60,7 @@
   <text x="320" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">79 383</text>
   <text x="320" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">kr i dag</text>
   
-  <!-- Compounding example -->
+
   <circle cx="480" cy="240" r="30" fill="#28a745" stroke="#1e7e34" stroke-width="2"/>
   <text x="480" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">79 383</text>
   <text x="480" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">kr i dag</text>
@@ -71,7 +71,7 @@
   <text x="720" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">100 000</text>
   <text x="720" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">kr om 3 år</text>
   
-  <!-- Formulas -->
+
   <rect x="50" y="300" width="300" height="60" fill="#e8f5e8" stroke="#28a745" stroke-width="2" rx="5"/>
   <text x="200" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#28a745">
     Diskontering Formel
@@ -88,7 +88,7 @@
     FV = PV × (1 + r)^n
   </text>
   
-  <!-- Calculation examples -->
+
   <rect x="50" y="380" width="300" height="80" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="5"/>
   <text x="200" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
     Beregning (8% rente, 3 år):
@@ -117,7 +117,7 @@
     FV = 100 000 kr
   </text>
   
-  <!-- Use cases -->
+
   <text x="200" y="490" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
     Anvendelse:
   </text>

@@ -10,82 +10,82 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="400" fill="#F8F9FA"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2C3E50">A-aksjer vs B-aksjer</text>
   
-  <!-- Dividing line -->
+
   <line x1="400" y1="50" x2="400" y2="380" stroke="#BDC3C7" stroke-width="2" stroke-dasharray="5,5"/>
   
-  <!-- A-aksjer section -->
+
   <rect x="50" y="70" width="300" height="280" fill="url(#greenGradient)" stroke="#2C3E50" stroke-width="2" rx="15"/>
   <text x="200" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#FFF">A-aksjer</text>
   
-  <!-- A-aksjer icon -->
+
   <circle cx="200" cy="130" r="20" fill="#FFF" stroke="#2C3E50" stroke-width="2"/>
   <text x="200" y="137" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2C3E50">A</text>
   
-  <!-- A-aksjer features -->
+
   <g transform="translate(80, 170)">
-    <!-- Voting rights -->
+
     <rect x="0" y="0" width="20" height="20" fill="#FFF" rx="3"/>
     <path d="M 5 10 L 9 14 L 15 6" stroke="#7ED321" stroke-width="2" fill="none"/>
     <text x="30" y="15" font-family="Arial, sans-serif" font-size="14" fill="#FFF" font-weight="bold">Full stemmerett</text>
     
-    <!-- Dividend rights -->
+
     <rect x="0" y="30" width="20" height="20" fill="#FFF" rx="3"/>
     <text x="10" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7ED321" font-weight="bold">$</text>
     <text x="30" y="45" font-family="Arial, sans-serif" font-size="14" fill="#FFF" font-weight="bold">Utbytterett</text>
     
-    <!-- Control -->
+
     <rect x="0" y="60" width="20" height="20" fill="#FFF" rx="3"/>
     <circle cx="10" cy="70" r="6" fill="#7ED321"/>
     <text x="30" y="75" font-family="Arial, sans-serif" font-size="14" fill="#FFF" font-weight="bold">Kontroll</text>
     
-    <!-- All rights -->
+
     <rect x="0" y="90" width="20" height="20" fill="#FFF" rx="3"/>
     <text x="10" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7ED321" font-weight="bold">ALL</text>
     <text x="30" y="105" font-family="Arial, sans-serif" font-size="14" fill="#FFF" font-weight="bold">Alle rettigheter</text>
   </g>
   
-  <!-- B-aksjer section -->
+
   <rect x="450" y="70" width="300" height="280" fill="url(#orangeGradient)" stroke="#2C3E50" stroke-width="2" rx="15"/>
   <text x="600" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#FFF">B-aksjer</text>
   
-  <!-- B-aksjer icon -->
+
   <circle cx="600" cy="130" r="20" fill="#FFF" stroke="#2C3E50" stroke-width="2"/>
   <text x="600" y="137" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2C3E50">B</text>
   
-  <!-- B-aksjer features -->
+
   <g transform="translate(480, 170)">
-    <!-- Limited voting rights -->
+
     <rect x="0" y="0" width="20" height="20" fill="#FFF" rx="3"/>
     <path d="M 5 5 L 15 15 M 15 5 L 5 15" stroke="#E74C3C" stroke-width="2"/>
     <text x="30" y="15" font-family="Arial, sans-serif" font-size="14" fill="#FFF" font-weight="bold">Begrenset stemmerett</text>
     
-    <!-- Dividend rights -->
+
     <rect x="0" y="30" width="20" height="20" fill="#FFF" rx="3"/>
     <text x="10" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#F5A623" font-weight="bold">$</text>
     <text x="30" y="45" font-family="Arial, sans-serif" font-size="14" fill="#FFF" font-weight="bold">Utbytterett</text>
     
-    <!-- Economic benefits -->
+
     <rect x="0" y="60" width="20" height="20" fill="#FFF" rx="3"/>
     <path d="M 6 10 L 10 6 L 14 10 L 10 14 Z" fill="#F5A623"/>
     <text x="30" y="75" font-family="Arial, sans-serif" font-size="14" fill="#FFF" font-weight="bold">Økonomiske fordeler</text>
     
-    <!-- Less control -->
+
     <rect x="0" y="90" width="20" height="20" fill="#FFF" rx="3"/>
     <circle cx="10" cy="100" r="4" fill="#E74C3C"/>
     <text x="30" y="105" font-family="Arial, sans-serif" font-size="14" fill="#FFF" font-weight="bold">Mindre kontroll</text>
   </g>
   
-  <!-- VS indicator -->
+
   <circle cx="400" cy="200" r="25" fill="#2C3E50"/>
   <text x="400" y="208" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#FFF">VS</text>
   
-  <!-- Bottom summary -->
+
   <text x="200" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2C3E50" font-weight="bold">Grunnleggere og kontroll</text>
   <text x="600" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2C3E50" font-weight="bold">Investorer og kapital</text>
 </svg>

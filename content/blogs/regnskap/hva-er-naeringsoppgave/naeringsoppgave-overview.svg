@@ -10,15 +10,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="900" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="450" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#0066cc">
     Oversikt over Næringsoppgaven
   </text>
   
-  <!-- Step 1: Business Activity -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="150" height="100" fill="#e3f2fd" stroke="#0066cc" stroke-width="2" rx="10"/>
     <text x="75" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0066cc">
@@ -38,12 +38,12 @@
     </text>
   </g>
   
-  <!-- Arrow 1 -->
+
   <g transform="translate(220, 120)">
     <path d="M 0 10 L 40 10 L 30 0 M 40 10 L 30 20" stroke="#0066cc" stroke-width="2" fill="none"/>
   </g>
   
-  <!-- Step 2: Bookkeeping -->
+
   <g transform="translate(280, 80)">
     <rect x="0" y="0" width="150" height="100" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="10"/>
     <text x="75" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#856404">
@@ -63,12 +63,12 @@
     </text>
   </g>
   
-  <!-- Arrow 2 -->
+
   <g transform="translate(450, 120)">
     <path d="M 0 10 L 40 10 L 30 0 M 40 10 L 30 20" stroke="#0066cc" stroke-width="2" fill="none"/>
   </g>
   
-  <!-- Step 3: Tax Adjustments -->
+
   <g transform="translate(510, 80)">
     <rect x="0" y="0" width="150" height="100" fill="#d1ecf1" stroke="#17a2b8" stroke-width="2" rx="10"/>
     <text x="75" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0c5460">
@@ -88,12 +88,12 @@
     </text>
   </g>
   
-  <!-- Arrow 3 -->
+
   <g transform="translate(680, 120)">
     <path d="M 0 10 L 40 10 L 30 0 M 40 10 L 30 20" stroke="#0066cc" stroke-width="2" fill="none"/>
   </g>
   
-  <!-- Step 4: Submission -->
+
   <g transform="translate(740, 80)">
     <rect x="0" y="0" width="150" height="100" fill="#d4edda" stroke="#28a745" stroke-width="2" rx="10"/>
     <text x="75" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#155724">
@@ -113,13 +113,13 @@
     </text>
   </g>
   
-  <!-- Who Must Submit Section -->
+
   <rect x="50" y="220" width="800" height="120" fill="white" stroke="#0066cc" stroke-width="2" rx="10"/>
   <text x="450" y="245" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#0066cc">
     Hvem må levere næringsoppgave?
   </text>
   
-  <!-- Company Types -->
+
   <g transform="translate(80, 260)">
     <rect x="0" y="0" width="160" height="60" fill="#f8f9fa" stroke="#6c757d" stroke-width="1" rx="5"/>
     <text x="80" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#495057">
@@ -172,7 +172,7 @@
     </text>
   </g>
   
-  <!-- Key Deadlines -->
+
   <rect x="50" y="370" width="380" height="100" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="10"/>
   <text x="240" y="395" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#856404">
     Viktige Frister
@@ -187,7 +187,7 @@
     Forsinkelsesgebyr ved sen levering
   </text>
   
-  <!-- Consequences -->
+
   <rect x="470" y="370" width="380" height="100" fill="#f8d7da" stroke="#dc3545" stroke-width="2" rx="10"/>
   <text x="660" y="395" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#721c24">
     Konsekvenser ved Forsinkelse

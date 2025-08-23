@@ -1,16 +1,16 @@
 <svg width="800" height="450" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="450" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#2c3e50">Arbeidsgiveravgift på Provisjon</text>
   
-  <!-- Calculation example -->
+
   <g transform="translate(50, 70)">
     <rect x="0" y="0" width="700" height="180" rx="10" fill="#ffffff" stroke="#3498db" stroke-width="3"/>
     <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">Beregningseksempel</text>
     
-    <!-- Step 1 -->
+
     <g transform="translate(30, 50)">
       <rect x="0" y="0" width="180" height="80" rx="5" fill="#ecf0f1" stroke="#bdc3c7"/>
       <text x="90" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2c3e50">1. GRUNNLAG</text>
@@ -20,10 +20,10 @@
       <text x="90" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#27ae60">Total: 43.000 kr</text>
     </g>
     
-    <!-- Arrow -->
+
     <path d="M 220 90 L 260 90" stroke="#34495e" stroke-width="2" marker-end="url(#arrow)"/>
     
-    <!-- Step 2 -->
+
     <g transform="translate(270, 50)">
       <rect x="0" y="0" width="180" height="80" rx="5" fill="#ecf0f1" stroke="#bdc3c7"/>
       <text x="90" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2c3e50">2. AVGIFTSSATS</text>
@@ -32,10 +32,10 @@
       <text x="90" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#7f8c8d">Inkluderer provisjon</text>
     </g>
     
-    <!-- Arrow -->
+
     <path d="M 460 90 L 500 90" stroke="#34495e" stroke-width="2" marker-end="url(#arrow)"/>
     
-    <!-- Step 3 -->
+
     <g transform="translate(510, 50)">
       <rect x="0" y="0" width="160" height="80" rx="5" fill="#e8f5e8" stroke="#27ae60" stroke-width="2"/>
       <text x="80" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2c3e50">3. RESULTAT</text>
@@ -46,48 +46,48 @@
     </g>
   </g>
   
-  <!-- Zone rates table -->
+
   <g transform="translate(50, 280)">
     <text x="0" y="0" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">Arbeidsgiveravgift per Sone (2024)</text>
     
-    <!-- Table header -->
+
     <rect x="0" y="10" width="450" height="25" fill="#34495e"/>
     <text x="20" y="26" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">Sone</text>
     <text x="100" y="26" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">Avgiftssats</text>
     <text x="200" y="26" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">Geografisk område</text>
     
-    <!-- Zone 1 -->
+
     <rect x="0" y="35" width="450" height="20" fill="#ecf0f1"/>
     <text x="20" y="48" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Sone I</text>
     <text x="100" y="48" font-family="Arial, sans-serif" font-size="10" fill="#27ae60" font-weight="bold">14,1%</text>
     <text x="200" y="48" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Oslo, Bærum, Asker, etc.</text>
     
-    <!-- Zone 2 -->
+
     <rect x="0" y="55" width="450" height="20" fill="#ffffff"/>
     <text x="20" y="68" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Sone Ia</text>
     <text x="100" y="68" font-family="Arial, sans-serif" font-size="10" fill="#f39c12" font-weight="bold">10,6%</text>
     <text x="200" y="68" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Andre tettsteder i Akershus</text>
     
-    <!-- Zone 3 -->
+
     <rect x="0" y="75" width="450" height="20" fill="#ecf0f1"/>
     <text x="20" y="88" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Sone II</text>
     <text x="100" y="88" font-family="Arial, sans-serif" font-size="10" fill="#e67e22" font-weight="bold">7,9%</text>
     <text x="200" y="88" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Tettsteder 5000+ innbyggere</text>
     
-    <!-- Zone 4 -->
+
     <rect x="0" y="95" width="450" height="20" fill="#ffffff"/>
     <text x="20" y="108" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Sone III</text>
     <text x="100" y="108" font-family="Arial, sans-serif" font-size="10" fill="#e74c3c" font-weight="bold">5,1%</text>
     <text x="200" y="108" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Andre områder</text>
     
-    <!-- Zone 5 -->
+
     <rect x="0" y="115" width="450" height="20" fill="#ecf0f1"/>
     <text x="20" y="128" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Sone IV</text>
     <text x="100" y="128" font-family="Arial, sans-serif" font-size="10" fill="#9b59b6" font-weight="bold">0%</text>
     <text x="200" y="128" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Finnmark og Nord-Troms</text>
   </g>
   
-  <!-- Key points -->
+
   <g transform="translate(520, 280)">
     <rect x="0" y="0" width="250" height="140" rx="8" fill="#fff3cd" stroke="#ffc107" stroke-width="2"/>
     <text x="125" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">Viktige Punkter</text>
@@ -104,7 +104,7 @@
     <text x="15" y="124" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Rapporteres i A-melding</text>
   </g>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>

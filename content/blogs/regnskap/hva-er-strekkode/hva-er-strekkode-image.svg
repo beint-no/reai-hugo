@@ -10,17 +10,17 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="400" fill="url(#backgroundGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#1e293b">
     Strekkode i Regnskap
   </text>
   
-  <!-- Barcode representation -->
+
   <g transform="translate(50, 100)">
-    <!-- Barcode bars -->
+
     <rect x="0" y="0" width="4" height="80" fill="url(#barcodeGradient)"/>
     <rect x="8" y="0" width="2" height="80" fill="url(#barcodeGradient)"/>
     <rect x="14" y="0" width="6" height="80" fill="url(#barcodeGradient)"/>
@@ -38,23 +38,23 @@
     <rect x="110" y="0" width="4" height="80" fill="url(#barcodeGradient)"/>
     <rect x="118" y="0" width="2" height="80" fill="url(#barcodeGradient)"/>
     
-    <!-- Numbers below barcode -->
+
     <text x="60" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#64748b">
       123456789012
     </text>
   </g>
   
-  <!-- Arrow from barcode to system -->
+
   <path d="M 200 140 Q 280 120 360 140" stroke="#3b82f6" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Define arrowhead marker -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#3b82f6"/>
     </marker>
   </defs>
   
-  <!-- Computer/System representation -->
+
   <g transform="translate(380, 110)">
     <rect x="0" y="0" width="120" height="80" rx="8" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="2"/>
     <rect x="10" y="10" width="100" height="50" rx="4" fill="#334155"/>
@@ -64,21 +64,21 @@
     <text x="60" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#f8fafc">
       SYSTEM
     </text>
-    <!-- Keyboard -->
+
     <rect x="10" y="65" width="100" height="8" rx="2" fill="#94a3b8"/>
   </g>
   
-  <!-- Data flow arrows -->
+
   <path d="M 520 140 Q 600 120 680 140" stroke="#10b981" stroke-width="3" fill="none" marker-end="url(#arrowhead2)"/>
   
-  <!-- Define second arrowhead marker -->
+
   <defs>
     <marker id="arrowhead2" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#10b981"/>
     </marker>
   </defs>
   
-  <!-- Database/Results -->
+
   <g transform="translate(680, 110)">
     <ellipse cx="30" cy="15" rx="30" ry="15" fill="#e5e7eb" stroke="#9ca3af" stroke-width="2"/>
     <rect x="0" y="15" width="60" height="50" fill="#f3f4f6" stroke="#9ca3af" stroke-width="2"/>
@@ -88,43 +88,43 @@
     </text>
   </g>
   
-  <!-- Benefits list -->
+
   <g transform="translate(100, 250)">
     <text x="0" y="0" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1e293b">
       Fordeler med Strekkoder:
     </text>
     
-    <!-- Benefit 1 -->
+
     <circle cx="10" cy="30" r="4" fill="#3b82f6"/>
     <text x="25" y="35" font-family="Arial, sans-serif" font-size="14" fill="#475569">
       99.9% nøyaktighet vs. manuell registrering
     </text>
     
-    <!-- Benefit 2 -->
+
     <circle cx="10" cy="55" r="4" fill="#10b981"/>
     <text x="25" y="60" font-family="Arial, sans-serif" font-size="14" fill="#475569">
       80-90% reduksjon i registreringstid
     </text>
     
-    <!-- Benefit 3 -->
+
     <circle cx="10" cy="80" r="4" fill="#f59e0b"/>
     <text x="25" y="85" font-family="Arial, sans-serif" font-size="14" fill="#475569">
       Sanntidsoppdatering av regnskapsdata
     </text>
     
-    <!-- Benefit 4 -->
+
     <circle cx="10" cy="105" r="4" fill="#8b5cf6"/>
     <text x="25" y="110" font-family="Arial, sans-serif" font-size="14" fill="#475569">
       Automatisk integrasjon med regnskapssystemer
     </text>
   </g>
   
-  <!-- Scanner illustration -->
+
   <g transform="translate(550, 250)">
     <rect x="0" y="0" width="40" height="80" rx="8" fill="#374151" stroke="#1f2937" stroke-width="2"/>
     <rect x="8" y="8" width="24" height="16" rx="2" fill="#4b5563"/>
     <rect x="8" y="60" width="24" height="12" rx="2" fill="#4b5563"/>
-    <!-- Scanner beam -->
+
     <line x1="45" y1="40" x2="120" y2="40" stroke="#ef4444" stroke-width="2" opacity="0.7"/>
     <text x="20" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#64748b">
       Scanner

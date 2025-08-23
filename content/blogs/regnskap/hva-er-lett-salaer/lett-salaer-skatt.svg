@@ -1,14 +1,14 @@
 <svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Skattebehandling av Lett Salær
   </text>
   
-  <!-- Main flow diagram -->
-  <!-- Step 1: Income -->
+
+
   <rect x="50" y="80" width="150" height="80" fill="#3498db" stroke="#2980b9" stroke-width="2" rx="10"/>
   <text x="125" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Lett Salær
@@ -20,11 +20,11 @@
     (maksimalt per år)
   </text>
   
-  <!-- Arrow 1 -->
+
   <polygon points="210,120 240,110 240,130" fill="#2c3e50"/>
   <line x1="200" y1="120" x2="240" y2="120" stroke="#2c3e50" stroke-width="2"/>
   
-  <!-- Step 2: Tax calculation -->
+
   <rect x="250" y="80" width="150" height="80" fill="#e74c3c" stroke="#c0392b" stroke-width="2" rx="10"/>
   <text x="325" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Skatt
@@ -36,11 +36,11 @@
     = 4.000 kr
   </text>
   
-  <!-- Arrow 2 -->
+
   <polygon points="410,120 440,110 440,130" fill="#2c3e50"/>
   <line x1="400" y1="120" x2="440" y2="120" stroke="#2c3e50" stroke-width="2"/>
   
-  <!-- Step 3: Net amount -->
+
   <rect x="450" y="80" width="150" height="80" fill="#27ae60" stroke="#229954" stroke-width="2" rx="10"/>
   <text x="525" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Netto Utbetalt
@@ -52,13 +52,13 @@
     (skatt betales senere)
   </text>
   
-  <!-- Important notes section -->
+
   <rect x="50" y="200" width="700" height="250" fill="white" stroke="#e9ecef" stroke-width="2" rx="10"/>
   <text x="400" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c3e50">
     Viktige Skattemessige Forhold
   </text>
   
-  <!-- For recipient -->
+
   <rect x="80" y="250" width="300" height="180" fill="#e8f4fd" stroke="#3498db" stroke-width="1" rx="5"/>
   <text x="230" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#3498db">
     For Mottakeren
@@ -89,7 +89,7 @@
     Ikke grunnlag for feriepenger
   </text>
   
-  <!-- For payer -->
+
   <rect x="420" y="250" width="300" height="180" fill="#e8f5e8" stroke="#27ae60" stroke-width="1" rx="5"/>
   <text x="570" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#27ae60">
     For Oppdragsgiveren
@@ -120,7 +120,7 @@
     Dokumentasjon i 5 år
   </text>
   
-  <!-- Bottom warning -->
+
   <rect x="100" y="460" width="600" height="25" fill="#fff3cd" stroke="#ffc107" stroke-width="1" rx="5"/>
   <text x="400" y="477" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#856404">
     Husk: Skatten må betales selv ved levering av selvangivelse

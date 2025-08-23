@@ -10,103 +10,103 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#ffffff"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
   <text x="400" y="38" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="bold">Lønnsadministrasjon Prosess</text>
   
-  <!-- Process flow -->
-  <!-- Step 1: Time registration -->
+
+
   <rect x="50" y="100" width="150" height="80" fill="url(#stepGradient)" stroke="#2563eb" stroke-width="2" rx="8"/>
   <text x="125" y="125" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold">1. Timeregistrering</text>
   <text x="125" y="145" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12">• Arbeidstimer</text>
   <text x="125" y="160" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12">• Overtid</text>
   <text x="125" y="175" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12">• Fravær</text>
   
-  <!-- Arrow 1 -->
+
   <path d="M 210 140 L 240 140" stroke="#6b7280" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 2: Salary calculation -->
+
   <rect x="250" y="100" width="150" height="80" fill="url(#stepGradient)" stroke="#2563eb" stroke-width="2" rx="8"/>
   <text x="325" y="125" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold">2. Lønnsberegning</text>
   <text x="325" y="145" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12">• Bruttolønn</text>
   <text x="325" y="160" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12">• Trekk</text>
   <text x="325" y="175" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12">• Nettolønn</text>
   
-  <!-- Arrow 2 -->
+
   <path d="M 410 140 L 440 140" stroke="#6b7280" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 3: Control -->
+
   <rect x="450" y="100" width="150" height="80" fill="url(#stepGradient)" stroke="#2563eb" stroke-width="2" rx="8"/>
   <text x="525" y="125" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold">3. Kontroll</text>
   <text x="525" y="145" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12">• Kvalitetssikring</text>
   <text x="525" y="160" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12">• Godkjenning</text>
   <text x="525" y="175" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12">• Autorisasjon</text>
   
-  <!-- Arrow 3 down -->
+
   <path d="M 525 190 L 525 220" stroke="#6b7280" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 4: Payment -->
+
   <rect x="450" y="230" width="150" height="80" fill="url(#stepGradient)" stroke="#2563eb" stroke-width="2" rx="8"/>
   <text x="525" y="255" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold">4. Utbetaling</text>
   <text x="525" y="275" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12">• Bankoverføring</text>
   <text x="525" y="290" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12">• Lønnsslipp</text>
   <text x="525" y="305" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12">• Dokumentasjon</text>
   
-  <!-- Arrow 4 left -->
+
   <path d="M 440 270 L 410 270" stroke="#6b7280" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 5: Accounting -->
+
   <rect x="250" y="230" width="150" height="80" fill="url(#stepGradient)" stroke="#2563eb" stroke-width="2" rx="8"/>
   <text x="325" y="255" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold">5. Regnskapsføring</text>
   <text x="325" y="275" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12">• Bokføring</text>
   <text x="325" y="290" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12">• Kontering</text>
   <text x="325" y="305" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12">• Avstemming</text>
   
-  <!-- Arrow 5 left -->
+
   <path d="M 240 270 L 210 270" stroke="#6b7280" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 6: Reporting -->
+
   <rect x="50" y="230" width="150" height="80" fill="url(#stepGradient)" stroke="#2563eb" stroke-width="2" rx="8"/>
   <text x="125" y="255" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold">6. Rapportering</text>
   <text x="125" y="275" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12">• A-melding</text>
   <text x="125" y="290" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12">• Skatteetaten</text>
   <text x="125" y="305" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12">• NAV</text>
   
-  <!-- Monthly cycle indicator -->
+
   <text x="350" y="380" text-anchor="middle" fill="#1e293b" font-family="Arial, sans-serif" font-size="18" font-weight="bold">Månedlig Syklus</text>
   
-  <!-- Cycle details -->
+
   <rect x="50" y="400" width="700" height="150" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2" rx="8"/>
   
-  <!-- Timeline -->
+
   <text x="70" y="430" fill="#1e293b" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Typisk Månedlig Tidsplan:</text>
   
-  <!-- Week 1 -->
+
   <rect x="70" y="450" width="150" height="30" fill="#dbeafe" stroke="#2563eb" stroke-width="1" rx="4"/>
   <text x="145" y="470" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Uke 1: Datainnsamling</text>
   
-  <!-- Week 2 -->
+
   <rect x="240" y="450" width="150" height="30" fill="#dcfce7" stroke="#16a34a" stroke-width="1" rx="4"/>
   <text x="315" y="470" text-anchor="middle" fill="#15803d" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Uke 2: Beregning &amp; Kontroll</text>
   
-  <!-- Week 3 -->
+
   <rect x="410" y="450" width="150" height="30" fill="#fef3c7" stroke="#d97706" stroke-width="1" rx="4"/>
   <text x="485" y="470" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Uke 3: Utbetaling</text>
   
-  <!-- Week 4 -->
+
   <rect x="580" y="450" width="150" height="30" fill="#fecaca" stroke="#dc2626" stroke-width="1" rx="4"/>
   <text x="655" y="470" text-anchor="middle" fill="#991b1b" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Uke 4: Rapportering</text>
   
-  <!-- Key deadlines -->
+
   <text x="70" y="510" fill="#1e293b" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Viktige Frister:</text>
   <text x="70" y="530" fill="#374151" font-family="Arial, sans-serif" font-size="12">• A-melding: 5. i påfølgende måned</text>
   <text x="350" y="530" fill="#374151" font-family="Arial, sans-serif" font-size="12">• Skattetrekk: 15. i påfølgende måned</text>
   <text x="580" y="530" fill="#374151" font-family="Arial, sans-serif" font-size="12">• Arbeidsgiveravgift: 15. i påfølgende måned</text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#6b7280"/>

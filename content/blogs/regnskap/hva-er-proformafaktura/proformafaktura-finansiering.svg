@@ -9,24 +9,24 @@
     </marker>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="24" font-weight="bold">Proformafaktura i Finansieringsprosess</text>
   
-  <!-- Central proforma document -->
+
   <rect x="320" y="120" width="160" height="200" rx="8" fill="white" stroke="#2563eb" stroke-width="2"/>
   <rect x="330" y="130" width="140" height="25" fill="#2563eb" rx="3"/>
   <text x="400" y="147" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">PROFORMA INVOICE</text>
   
-  <!-- Document details -->
+
   <line x1="335" y1="170" x2="465" y2="170" stroke="#e5e7eb" stroke-width="1"/>
   <line x1="335" y1="185" x2="445" y2="185" stroke="#e5e7eb" stroke-width="1"/>
   <line x1="335" y1="200" x2="455" y2="200" stroke="#e5e7eb" stroke-width="1"/>
   <line x1="335" y1="215" x2="425" y2="215" stroke="#e5e7eb" stroke-width="1"/>
   
-  <!-- Table in document -->
+
   <rect x="335" y="235" width="130" height="70" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1"/>
   <line x1="335" y1="250" x2="465" y2="250" stroke="#e5e7eb" stroke-width="1"/>
   <line x1="335" y1="265" x2="465" y2="265" stroke="#e5e7eb" stroke-width="1"/>
@@ -34,9 +34,9 @@
   <line x1="385" y1="235" x2="385" y2="305" stroke="#e5e7eb" stroke-width="1"/>
   <line x1="425" y1="235" x2="425" y2="305" stroke="#e5e7eb" stroke-width="1"/>
   
-  <!-- Financial institutions around the center -->
+
   
-  <!-- Bank (top left) -->
+
   <rect x="80" y="80" width="120" height="80" rx="8" fill="#dbeafe" stroke="#3b82f6" stroke-width="2"/>
   <rect x="90" y="90" width="100" height="20" fill="#3b82f6" rx="3"/>
   <text x="140" y="105" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">BANK</text>
@@ -44,7 +44,7 @@
   <text x="140" y="140" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="10">Kredittlinjer</text>
   <text x="140" y="155" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="10">Garantier</text>
   
-  <!-- Insurance (top right) -->
+
   <rect x="600" y="80" width="120" height="80" rx="8" fill="#fef3c7" stroke="#f59e0b" stroke-width="2"/>
   <rect x="610" y="90" width="100" height="20" fill="#f59e0b" rx="3"/>
   <text x="660" y="105" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">FORSIKRING</text>
@@ -52,7 +52,7 @@
   <text x="660" y="140" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="10">Transportforsikring</text>
   <text x="660" y="155" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="10">Risikoevaluering</text>
   
-  <!-- Export credit (bottom left) -->
+
   <rect x="80" y="420" width="120" height="80" rx="8" fill="#dcfce7" stroke="#10b981" stroke-width="2"/>
   <rect x="90" y="430" width="100" height="20" fill="#10b981" rx="3"/>
   <text x="140" y="445" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">EKSPORTKREDITT</text>
@@ -60,7 +60,7 @@
   <text x="140" y="480" text-anchor="middle" fill="#065f46" font-family="Arial, sans-serif" font-size="10">Risikogaranti</text>
   <text x="140" y="495" text-anchor="middle" fill="#065f46" font-family="Arial, sans-serif" font-size="10">Støtteordninger</text>
   
-  <!-- Government agencies (bottom right) -->
+
   <rect x="600" y="420" width="120" height="80" rx="8" fill="#f3e8ff" stroke="#8b5cf6" stroke-width="2"/>
   <rect x="610" y="430" width="100" height="20" fill="#8b5cf6" rx="3"/>
   <text x="660" y="445" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="11" font-weight="bold">MYNDIGHETER</text>
@@ -68,13 +68,13 @@
   <text x="660" y="480" text-anchor="middle" fill="#5b21b6" font-family="Arial, sans-serif" font-size="10">Skatt</text>
   <text x="660" y="495" text-anchor="middle" fill="#5b21b6" font-family="Arial, sans-serif" font-size="10">Importlisenser</text>
   
-  <!-- Arrows connecting to center -->
+
   <path d="M200 120 Q260 100 320 140" fill="none" stroke="#6366f1" stroke-width="2" marker-end="url(#arrowhead)"/>
   <path d="M600 120 Q540 100 480 140" fill="none" stroke="#6366f1" stroke-width="2" marker-end="url(#arrowhead)"/>
   <path d="M200 460 Q260 480 320 280" fill="none" stroke="#6366f1" stroke-width="2" marker-end="url(#arrowhead)"/>
   <path d="M600 460 Q540 480 480 280" fill="none" stroke="#6366f1" stroke-width="2" marker-end="url(#arrowhead)"/>
   
-  <!-- Center arrows pointing outward -->
+
   <path d="M340 140 Q280 120 220 120" fill="none" stroke="#10b981" stroke-width="2" marker-end="url(#arrowhead2)"/>
   <path d="M460 140 Q520 120 580 120" fill="none" stroke="#10b981" stroke-width="2" marker-end="url(#arrowhead2)"/>
   <path d="M340 280 Q280 460 220 460" fill="none" stroke="#10b981" stroke-width="2" marker-end="url(#arrowhead2)"/>
@@ -86,13 +86,13 @@
     </marker>
   </defs>
   
-  <!-- Flow indicators -->
+
   <text x="250" y="90" text-anchor="middle" fill="#6366f1" font-family="Arial, sans-serif" font-size="10">Rembursopprettelse</text>
   <text x="550" y="90" text-anchor="middle" fill="#6366f1" font-family="Arial, sans-serif" font-size="10">Forsikringsvurdering</text>
   <text x="250" y="530" text-anchor="middle" fill="#6366f1" font-family="Arial, sans-serif" font-size="10">Finansieringssøknad</text>
   <text x="550" y="530" text-anchor="middle" fill="#6366f1" font-family="Arial, sans-serif" font-size="10">Tolldeklarasjon</text>
   
-  <!-- Benefits box -->
+
   <rect x="250" y="360" width="300" height="120" rx="8" fill="white" stroke="#e5e7eb" stroke-width="1"/>
   <text x="400" y="380" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Fordeler ved Proformafaktura</text>
   
@@ -102,6 +102,6 @@
   <text x="270" y="445" fill="#374151" font-family="Arial, sans-serif" font-size="11">• Planlegging av finansieringsbehov</text>
   <text x="270" y="460" fill="#374151" font-family="Arial, sans-serif" font-size="11">• Støtte for eksportfinansieringsordninger</text>
   
-  <!-- Process label -->
+
   <text x="400" y="570" text-anchor="middle" fill="#6b7280" font-family="Arial, sans-serif" font-size="12">Proformafaktura som sentral dokumentasjon i finansieringskjeden</text>
 </svg>

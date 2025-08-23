@@ -10,15 +10,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" fill="#1e293b" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
     Skattemeldingens Struktur og Komponenter
   </text>
   
-  <!-- Central Skattemelding Box -->
+
   <g transform="translate(300, 60)">
     <rect x="0" y="0" width="200" height="80" fill="#3b82f6" stroke="#1e40af" stroke-width="2" rx="8"/>
     <text x="100" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
@@ -29,7 +29,7 @@
     </text>
   </g>
   
-  <!-- Section 1: Inntekter og Kostnader -->
+
   <g transform="translate(50, 180)">
     <rect x="0" y="0" width="160" height="120" fill="url(#sectionGradient)" stroke="#059669" stroke-width="2" rx="8"/>
     <text x="80" y="25" text-anchor="middle" fill="#059669" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
@@ -50,7 +50,7 @@
     </text>
   </g>
   
-  <!-- Section 2: Balanseoppstilling -->
+
   <g transform="translate(250, 180)">
     <rect x="0" y="0" width="160" height="120" fill="url(#sectionGradient)" stroke="#dc2626" stroke-width="2" rx="8"/>
     <text x="80" y="25" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
@@ -71,7 +71,7 @@
     </text>
   </g>
   
-  <!-- Section 3: Skattemessige Justeringer -->
+
   <g transform="translate(450, 180)">
     <rect x="0" y="0" width="160" height="120" fill="url(#sectionGradient)" stroke="#7c2d12" stroke-width="2" rx="8"/>
     <text x="80" y="25" text-anchor="middle" fill="#7c2d12" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
@@ -92,7 +92,7 @@
     </text>
   </g>
   
-  <!-- Section 4: Spesialoppgaver -->
+
   <g transform="translate(650, 180)">
     <rect x="0" y="0" width="130" height="120" fill="url(#sectionGradient)" stroke="#7c3aed" stroke-width="2" rx="8"/>
     <text x="65" y="25" text-anchor="middle" fill="#7c3aed" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
@@ -113,7 +113,7 @@
     </text>
   </g>
   
-  <!-- Connection Lines -->
+
   <g fill="none" stroke="#6b7280" stroke-width="2">
     <line x1="400" y1="140" x2="130" y2="180"/>
     <line x1="400" y1="140" x2="330" y2="180"/>
@@ -121,14 +121,14 @@
     <line x1="400" y1="140" x2="715" y2="180"/>
   </g>
   
-  <!-- Supporting Documents -->
+
   <g transform="translate(50, 330)">
     <rect x="0" y="0" width="700" height="140" fill="url(#sectionGradient)" stroke="#6366f1" stroke-width="2" rx="12"/>
     <text x="350" y="25" text-anchor="middle" fill="#6366f1" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       Grunnlagsdokumentasjon
     </text>
     
-    <!-- Document Types -->
+
     <g transform="translate(50, 50)">
       <rect x="0" y="0" width="120" height="60" fill="white" stroke="#e5e7eb" stroke-width="1" rx="4"/>
       <text x="60" y="20" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">

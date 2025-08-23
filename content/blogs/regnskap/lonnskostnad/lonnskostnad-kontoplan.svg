@@ -10,18 +10,18 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="700" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="700" height="50" fill="url(#headerGradient)"/>
   <text x="350" y="30" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="20" font-weight="bold">
     Kontostruktur for Lønnskostnader
   </text>
   
-  <!-- Account structure -->
+
   <g transform="translate(50, 70)">
-    <!-- Account class 5000-5099: Salary costs -->
+
     <rect x="50" y="30" width="550" height="70" fill="#28a745" stroke="#1e7e34" stroke-width="2" rx="5"/>
     <text x="70" y="50" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       5000-5099: LØNNSKOSTNADER
@@ -33,7 +33,7 @@
       • 5030 Feriepenger • 5040 Sykepenger (arbeidsgiverperiode)
     </text>
     
-    <!-- Account class 5400-5499: Employer contributions -->
+
     <rect x="50" y="120" width="550" height="70" fill="#dc3545" stroke="#c82333" stroke-width="2" rx="5"/>
     <text x="70" y="140" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       5400-5499: ARBEIDSGIVERAVGIFT
@@ -45,7 +45,7 @@
       • 5420 Avgift på sykepenger • 5430 Avgift på andre ytelser
     </text>
     
-    <!-- Account class 5700-5799: Pension costs -->
+
     <rect x="50" y="210" width="550" height="70" fill="#ffc107" stroke="#e0a800" stroke-width="2" rx="5"/>
     <text x="70" y="230" fill="black" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       5700-5799: PENSJONSKOSTNADER
@@ -57,7 +57,7 @@
       • 5730 Uføreforsikring • 5740 Andre pensjonskostnader
     </text>
     
-    <!-- Account class 5800-5899: Other personnel costs -->
+
     <rect x="50" y="300" width="550" height="70" fill="#17a2b8" stroke="#138496" stroke-width="2" rx="5"/>
     <text x="70" y="320" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       5800-5899: ANDRE PERSONALKOSTNADER
@@ -70,7 +70,7 @@
     </text>
   </g>
   
-  <!-- Balance sheet accounts (liabilities) -->
+
   <g transform="translate(50, 400)">
     <text x="300" y="20" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       Tilhørende Balansekontoer (Gjeld)

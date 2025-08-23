@@ -1,13 +1,13 @@
 <svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Regnskapsmessige Konsekvenser av Juridisk Person-Status
   </text>
   
-  <!-- Central legal person -->
+
   <g transform="translate(300, 80)">
     <rect x="0" y="0" width="200" height="80" rx="10" fill="#3498db" stroke="#2980b9" stroke-width="3"/>
     <text x="100" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
@@ -18,7 +18,7 @@
     </text>
   </g>
   
-  <!-- Separate Accounting -->
+
   <g transform="translate(50, 200)">
     <rect x="0" y="0" width="180" height="120" rx="8" fill="#27ae60" stroke="#229954" stroke-width="2"/>
     <rect x="0" y="0" width="180" height="30" rx="8" fill="#229954"/>
@@ -52,7 +52,7 @@
     </g>
   </g>
   
-  <!-- Tax Consequences -->
+
   <g transform="translate(280, 200)">
     <rect x="0" y="0" width="180" height="120" rx="8" fill="#e67e22" stroke="#d35400" stroke-width="2"/>
     <rect x="0" y="0" width="180" height="30" rx="8" fill="#d35400"/>
@@ -86,7 +86,7 @@
     </g>
   </g>
   
-  <!-- Consolidation -->
+
   <g transform="translate(510, 200)">
     <rect x="0" y="0" width="180" height="120" rx="8" fill="#9b59b6" stroke="#8e44ad" stroke-width="2"/>
     <rect x="0" y="0" width="180" height="30" rx="8" fill="#8e44ad"/>
@@ -120,12 +120,12 @@
     </g>
   </g>
   
-  <!-- Arrows from central box -->
+
   <line x1="350" y1="160" x2="140" y2="200" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
   <line x1="400" y1="160" x2="370" y2="200" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
   <line x1="450" y1="160" x2="600" y2="200" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
   
-  <!-- Registration Requirements -->
+
   <g transform="translate(150, 380)">
     <rect x="0" y="0" width="500" height="150" rx="10" fill="#34495e" stroke="#2c3e50" stroke-width="2"/>
     <rect x="0" y="0" width="500" height="35" rx="10" fill="#2c3e50"/>
@@ -133,7 +133,7 @@
       Registrerings- og Rapporteringskrav
     </text>
     
-    <!-- Left column -->
+
     <g transform="translate(20, 50)">
       <text x="0" y="0" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
         Obligatoriske registreringer:
@@ -164,7 +164,7 @@
       </g>
     </g>
     
-    <!-- Right column -->
+
     <g transform="translate(270, 50)">
       <text x="0" y="0" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
         Rapporteringskrav:
@@ -196,12 +196,12 @@
     </g>
   </g>
   
-  <!-- Bottom note -->
+
   <text x="400" y="570" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">
     Juridiske personer har omfattende regnskapsmessige og administrative forpliktelser
   </text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>

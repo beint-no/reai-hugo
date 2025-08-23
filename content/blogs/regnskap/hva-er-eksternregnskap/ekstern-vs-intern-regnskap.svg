@@ -1,13 +1,13 @@
 <svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Eksternregnskap vs. Internregnskap
   </text>
   
-  <!-- External Accounting (Left side) -->
+
   <rect x="50" y="80" width="320" height="480" fill="#3498db" stroke="#2980b9" stroke-width="3" rx="15"/>
   <text x="210" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
     EKSTERNREGNSKAP
@@ -16,7 +16,7 @@
     Finansiell rapportering
   </text>
   
-  <!-- External accounting characteristics -->
+
   <rect x="70" y="160" width="280" height="60" fill="#2980b9" stroke="#1f4e79" stroke-width="2" rx="8"/>
   <text x="210" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     PRIMÆRE BRUKERE
@@ -72,7 +72,7 @@
     Uavhengig kontroll
   </text>
   
-  <!-- Internal Accounting (Right side) -->
+
   <rect x="430" y="80" width="320" height="480" fill="#e74c3c" stroke="#c0392b" stroke-width="3" rx="15"/>
   <text x="590" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
     INTERNREGNSKAP
@@ -81,7 +81,7 @@
     Ledelsesregnskap
   </text>
   
-  <!-- Internal accounting characteristics -->
+
   <rect x="450" y="160" width="280" height="60" fill="#c0392b" stroke="#922b21" stroke-width="2" rx="8"/>
   <text x="590" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     PRIMÆRE BRUKERE
@@ -137,23 +137,23 @@
     Ledelsesvalidering
   </text>
   
-  <!-- VS symbol in center -->
+
   <circle cx="400" cy="320" r="40" fill="#34495e" stroke="#2c3e50" stroke-width="3"/>
   <text x="400" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
     VS
   </text>
   
-  <!-- Arrows pointing to center -->
+
   <line x1="370" y1="320" x2="360" y2="320" stroke="#34495e" stroke-width="3" marker-end="url(#arrowhead)"/>
   <line x1="430" y1="320" x2="440" y2="320" stroke="#34495e" stroke-width="3" marker-end="url(#arrowhead)"/>
   
-  <!-- Complementary relationship -->
+
   <rect x="250" y="570" width="300" height="25" fill="#27ae60" stroke="#1e8449" stroke-width="2" rx="5"/>
   <text x="400" y="587" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     Komplementære systemer for helhetlig virksomhetsstyring
   </text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" 
      refX="9" refY="3.5" orient="auto">

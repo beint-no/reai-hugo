@@ -6,17 +6,17 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bg)"/>
   
-  <!-- Title -->
+
   <text x="400" y="35" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="#2c3e50">
     Regnskapsføringsprosess for Tungt Salær
   </text>
   
-  <!-- Process flow -->
+
   
-  <!-- Step 1: Kontraktsinngåelse -->
+
   <rect x="50" y="70" width="150" height="80" fill="#3498db" rx="10"/>
   <text x="125" y="95" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
     1. KONTRAKT
@@ -31,10 +31,10 @@
     og betaling
   </text>
   
-  <!-- Arrow 1 -->
+
   <path d="M 200 110 L 230 110" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 2: Forskuddsregistrering -->
+
   <rect x="240" y="70" width="150" height="80" fill="#e74c3c" rx="10"/>
   <text x="315" y="95" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
     2. FORSKUDD
@@ -49,10 +49,10 @@
     kortsiktig gjeld
   </text>
   
-  <!-- Arrow 2 -->
+
   <path d="M 390 110 L 420 110" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 3: Leveranse -->
+
   <rect x="430" y="70" width="150" height="80" fill="#27ae60" rx="10"/>
   <text x="505" y="95" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
     3. LEVERANSE
@@ -67,10 +67,10 @@
     ferdigstillelse
   </text>
   
-  <!-- Arrow 3 -->
+
   <path d="M 580 110 L 610 110" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 4: Inntektsføring -->
+
   <rect x="620" y="70" width="150" height="80" fill="#f39c12" rx="10"/>
   <text x="695" y="95" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
     4. INNTEKTS-
@@ -85,19 +85,19 @@
     leveransegrad
   </text>
   
-  <!-- Accounting entries section -->
+
   <rect x="50" y="200" width="700" height="350" fill="white" stroke="#dee2e6" stroke-width="2" rx="10"/>
   <text x="400" y="230" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#2c3e50">
     Regnskapsføringer
   </text>
   
-  <!-- For leverandør -->
+
   <rect x="80" y="250" width="300" height="280" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="5"/>
   <text x="230" y="275" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#2c3e50">
     For Leverandøren
   </text>
   
-  <!-- Forskudd mottatt -->
+
   <text x="90" y="300" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#27ae60">
     Ved forskudd:
   </text>
@@ -108,7 +108,7 @@
         Kr. Forskudd fra kunde      10 000 000
   </text>
   
-  <!-- Ved leveranse -->
+
   <text x="90" y="365" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#27ae60">
     Ved leveranse (25% ferdig):
   </text>
@@ -119,7 +119,7 @@
         Kr. Salgsinntekt             2 500 000
   </text>
   
-  <!-- Fakturering -->
+
   <text x="90" y="430" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#27ae60">
     Ved fakturering:
   </text>
@@ -130,7 +130,7 @@
         Kr. Salgsinntekt             2 500 000
   </text>
   
-  <!-- MVA -->
+
   <text x="90" y="495" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e74c3c">
     MVA-behandling:
   </text>
@@ -138,13 +138,13 @@
     25% MVA på salgsinntekt
   </text>
   
-  <!-- For kjøper -->
+
   <rect x="420" y="250" width="300" height="280" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="5"/>
   <text x="570" y="275" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#2c3e50">
     For Kjøperen
   </text>
   
-  <!-- Forskudd betalt -->
+
   <text x="430" y="300" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#3498db">
     Ved forskudd:
   </text>
@@ -155,7 +155,7 @@
         Kr. Bank                     10 000 000
   </text>
   
-  <!-- Ved leveranse -->
+
   <text x="430" y="365" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#3498db">
     Ved leveranse mottatt:
   </text>
@@ -166,7 +166,7 @@
         Kr. Forskudd til leverandør  2 500 000
   </text>
   
-  <!-- Faktura mottak -->
+
   <text x="430" y="430" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#3498db">
     Ved faktura mottatt:
   </text>
@@ -177,7 +177,7 @@
         Kr. Leverandørgjeld          2 500 000
   </text>
   
-  <!-- Fradrag -->
+
   <text x="430" y="495" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e74c3c">
     Skattemessig:
   </text>
@@ -185,12 +185,12 @@
     Fradrag når kostnad pådratt
   </text>
   
-  <!-- Bottom note -->
+
   <text x="400" y="580" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#6c757d">
     Regnskapsføring følger leveransegrad og opptjeningsprinsippet
   </text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>

@@ -1,18 +1,18 @@
 <svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8fafc"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-size="24" font-weight="bold" fill="#1f2937">Inntektsmeldingsprosess til NAV</text>
   
-  <!-- Timeline header -->
+
   <rect x="50" y="60" width="700" height="40" fill="#1e40af" rx="8"/>
   <text x="400" y="85" text-anchor="middle" font-size="16" font-weight="bold" fill="white">Fra arbeidsgiverperiode til NAV-periode</text>
   
-  <!-- Timeline -->
+
   <line x1="100" y1="150" x2="700" y2="150" stroke="#374151" stroke-width="3"/>
   
-  <!-- Day markers -->
+
   <circle cx="200" cy="150" r="8" fill="#f59e0b"/>
   <text x="200" y="130" text-anchor="middle" font-size="12" fill="#374151">Dag 16</text>
   <text x="200" y="170" text-anchor="middle" font-size="10" fill="#f59e0b">Siste dag</text>
@@ -27,11 +27,11 @@
   <text x="600" y="170" text-anchor="middle" font-size="10" fill="#ef4444">Frist inntekts-</text>
   <text x="600" y="182" text-anchor="middle" font-size="10" fill="#ef4444">melding</text>
   
-  <!-- Process steps -->
+
   <rect x="50" y="220" width="700" height="300" fill="white" stroke="#d1d5db" stroke-width="1" rx="8"/>
   <text x="400" y="245" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2937">Prosesstrinn for inntektsmelding</text>
   
-  <!-- Step 1 -->
+
   <rect x="70" y="260" width="140" height="100" fill="#fef3c7" stroke="#f59e0b" stroke-width="2" rx="6"/>
   <text x="140" y="280" text-anchor="middle" font-size="14" font-weight="bold" fill="#92400e">1. Forberede data</text>
   <text x="80" y="300" font-size="11" fill="#92400e">• Siste 3 måneders lønn</text>
@@ -39,7 +39,7 @@
   <text x="80" y="330" font-size="11" fill="#92400e">• Feriepenger</text>
   <text x="80" y="345" font-size="11" fill="#92400e">• Fraværsperioder</text>
   
-  <!-- Step 2 -->
+
   <rect x="230" y="260" width="140" height="100" fill="#dbeafe" stroke="#3b82f6" stroke-width="2" rx="6"/>
   <text x="300" y="280" text-anchor="middle" font-size="14" font-weight="bold" fill="#1d4ed8">2. Fylle ut skjema</text>
   <text x="240" y="300" font-size="11" fill="#1d4ed8">• Altinn eller NAV.no</text>
@@ -47,7 +47,7 @@
   <text x="240" y="330" font-size="11" fill="#1d4ed8">• Ansattnummer</text>
   <text x="240" y="345" font-size="11" fill="#1d4ed8">• Refusjonsinformasjon</text>
   
-  <!-- Step 3 -->
+
   <rect x="390" y="260" width="140" height="100" fill="#ecfdf5" stroke="#10b981" stroke-width="2" rx="6"/>
   <text x="460" y="280" text-anchor="middle" font-size="14" font-weight="bold" fill="#065f46">3. Send til NAV</text>
   <text x="400" y="300" font-size="11" fill="#065f46">• Innen 17 dager</text>
@@ -55,7 +55,7 @@
   <text x="400" y="330" font-size="11" fill="#065f46">• Bekreftelse mottas</text>
   <text x="400" y="345" font-size="11" fill="#065f46">• Sporbar i system</text>
   
-  <!-- Step 4 -->
+
   <rect x="550" y="260" width="140" height="100" fill="#f3e8ff" stroke="#8b5cf6" stroke-width="2" rx="6"/>
   <text x="620" y="280" text-anchor="middle" font-size="14" font-weight="bold" fill="#7c3aed">4. NAV behandler</text>
   <text x="560" y="300" font-size="11" fill="#7c3aed">• Saksbehandling</text>
@@ -63,7 +63,7 @@
   <text x="560" y="330" font-size="11" fill="#7c3aed">• Vedtak sendes</text>
   <text x="560" y="345" font-size="11" fill="#7c3aed">• Utbetaling starter</text>
   
-  <!-- Required information -->
+
   <rect x="70" y="380" width="300" height="120" fill="#fef9e7" stroke="#f59e0b" stroke-width="1" rx="6"/>
   <text x="220" y="400" text-anchor="middle" font-size="14" font-weight="bold" fill="#92400e">Obligatoriske opplysninger</text>
   <text x="80" y="420" font-size="12" fill="#92400e">✓ Arbeidstakers identifikasjon</text>
@@ -72,7 +72,7 @@
   <text x="80" y="465" font-size="12" fill="#92400e">✓ Om arbeidsgiver ønsker refusjon</text>
   <text x="80" y="480" font-size="12" fill="#92400e">✓ Eventuell opphørsdato refusjon</text>
   
-  <!-- Consequences -->
+
   <rect x="390" y="380" width="300" height="120" fill="#fee2e2" stroke="#ef4444" stroke-width="1" rx="6"/>
   <text x="540" y="400" text-anchor="middle" font-size="14" font-weight="bold" fill="#dc2626">Konsekvenser ved forsinkelse</text>
   <text x="400" y="420" font-size="12" fill="#dc2626">⚠ Forsinket sykepengeutbetaling</text>
@@ -81,17 +81,17 @@
   <text x="400" y="465" font-size="12" fill="#dc2626">⚠ Administrativ merarbeid</text>
   <text x="400" y="480" font-size="12" fill="#dc2626">⚠ Dårligere kontantstrøm</text>
   
-  <!-- Bottom note -->
+
   <rect x="50" y="530" width="700" height="50" fill="#e0f2fe" stroke="#0284c7" stroke-width="1" rx="4"/>
   <text x="400" y="550" text-anchor="middle" font-size="14" font-weight="bold" fill="#0c4a6e">💡 Tips</text>
   <text x="400" y="570" text-anchor="middle" font-size="12" fill="#0c4a6e">Automatiser inntektsmeldingen gjennom integrasjon mellom lønnssystem og NAV</text>
   
-  <!-- Arrows -->
+
   <path d="M 210 310 L 225 310" stroke="#6b7280" stroke-width="2" marker-end="url(#arrowhead)"/>
   <path d="M 370 310 L 385 310" stroke="#6b7280" stroke-width="2" marker-end="url(#arrowhead)"/>
   <path d="M 530 310 L 545 310" stroke="#6b7280" stroke-width="2" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#6b7280"/>

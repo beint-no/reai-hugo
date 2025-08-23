@@ -10,18 +10,18 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="35" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="white">
     Regelverk for innleie av arbeidskraft
   </text>
   
-  <!-- Main rule box -->
+
   <rect x="50" y="90" width="300" height="120" fill="#dc3545" rx="8" opacity="0.9"/>
   <text x="200" y="115" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
     HOVEDREGEL
@@ -39,7 +39,7 @@
     Strenge begrensninger
   </text>
   
-  <!-- Exception box -->
+
   <rect x="450" y="90" width="300" height="120" fill="#28a745" rx="8" opacity="0.9"/>
   <text x="600" y="115" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
     UNNTAK
@@ -57,12 +57,12 @@
     Høy fleksibilitet
   </text>
   
-  <!-- Requirements section -->
+
   <text x="400" y="250" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#212529">
     Krav ved innleie
   </text>
   
-  <!-- Requirement 1: Equal treatment -->
+
   <rect x="50" y="270" width="160" height="100" fill="#17a2b8" rx="6" opacity="0.9"/>
   <text x="130" y="290" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
     Likebehandling
@@ -80,7 +80,7 @@
     • Tilgang til fellesområder
   </text>
   
-  <!-- Requirement 2: Time limits -->
+
   <rect x="230" y="270" width="160" height="100" fill="#ffc107" rx="6" opacity="0.9"/>
   <text x="310" y="290" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#212529">
     Tidsbegrensning
@@ -98,7 +98,7 @@
     • Etter 4 år: fast ansettelse
   </text>
   
-  <!-- Requirement 3: Information -->
+
   <rect x="410" y="270" width="160" height="100" fill="#fd7e14" rx="6" opacity="0.9"/>
   <text x="490" y="290" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
     Informasjonsplikt
@@ -116,7 +116,7 @@
     • Antall innleide
   </text>
   
-  <!-- Requirement 4: Responsibility -->
+
   <rect x="590" y="270" width="160" height="100" fill="#6f42c1" rx="6" opacity="0.9"/>
   <text x="670" y="290" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
     Ansvar
@@ -134,12 +134,12 @@
       utleier
   </text>
   
-  <!-- Flow diagram -->
+
   <text x="400" y="410" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#212529">
     Innleieforhold
   </text>
   
-  <!-- Bemanningsbyrå -->
+
   <rect x="50" y="420" width="120" height="50" fill="#6c757d" rx="5"/>
   <text x="110" y="440" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="white">
     Bemannings-
@@ -148,31 +148,31 @@
     byrå
   </text>
   
-  <!-- Arrow 1 -->
+
   <line x1="170" y1="445" x2="220" y2="445" stroke="#212529" stroke-width="2" marker-end="url(#arrowhead)"/>
   <text x="195" y="440" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#212529">
     ansetter
   </text>
   
-  <!-- Arbeidstaker -->
+
   <rect x="230" y="420" width="120" height="50" fill="#28a745" rx="5"/>
   <text x="290" y="450" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="white">
     Arbeidstaker
   </text>
   
-  <!-- Arrow 2 -->
+
   <line x1="350" y1="445" x2="400" y2="445" stroke="#212529" stroke-width="2" marker-end="url(#arrowhead)"/>
   <text x="375" y="440" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#212529">
     leies ut
   </text>
   
-  <!-- Innleier -->
+
   <rect x="410" y="420" width="120" height="50" fill="#17a2b8" rx="5"/>
   <text x="470" y="450" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="white">
     Innleier
   </text>
   
-  <!-- Arrow definitions -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" 
      refX="0" refY="3.5" orient="auto">
@@ -180,7 +180,7 @@
     </marker>
   </defs>
   
-  <!-- Bottom note -->
+
   <text x="400" y="490" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#6c757d">
     Innleie gir fleksibilitet, men krever overholdelse av strenge regler
   </text>

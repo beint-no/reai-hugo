@@ -10,19 +10,19 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#4a148c">
     Særtrekk ved Landbruksregnskap
   </text>
   
-  <!-- Card 1: Biologisk produksjon -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="320" height="160" fill="url(#cardGradient)" stroke="#9c27b0" stroke-width="2" rx="10"/>
     
-    <!-- Icon: Growing plant -->
+
     <g transform="translate(20, 20)">
       <circle cx="25" cy="50" r="20" fill="#4caf50" opacity="0.2"/>
       <line x1="25" y1="70" x2="25" y2="30" stroke="#4caf50" stroke-width="4"/>
@@ -52,11 +52,11 @@
     </text>
   </g>
   
-  <!-- Card 2: Værforhold -->
+
   <g transform="translate(430, 80)">
     <rect x="0" y="0" width="320" height="160" fill="url(#cardGradient)" stroke="#ff9800" stroke-width="2" rx="10"/>
     
-    <!-- Icon: Weather -->
+
     <g transform="translate(20, 20)">
       <circle cx="25" cy="35" r="15" fill="#ffeb3b"/>
       <path d="M10,55 Q25,45 40,55 Q35,65 30,65 Q25,70 20,65 Q15,65 10,55" fill="#2196f3"/>
@@ -86,11 +86,11 @@
     </text>
   </g>
   
-  <!-- Card 3: Lange produksjonssykluser -->
+
   <g transform="translate(50, 260)">
     <rect x="0" y="0" width="320" height="160" fill="url(#cardGradient)" stroke="#2196f3" stroke-width="2" rx="10"/>
     
-    <!-- Icon: Timeline -->
+
     <g transform="translate(20, 20)">
       <line x1="10" y1="40" x2="40" y2="40" stroke="#2196f3" stroke-width="3"/>
       <circle cx="15" cy="40" r="4" fill="#4caf50"/>
@@ -122,11 +122,11 @@
     </text>
   </g>
   
-  <!-- Card 4: Komplekse støtteordninger -->
+
   <g transform="translate(430, 260)">
     <rect x="0" y="0" width="320" height="160" fill="url(#cardGradient)" stroke="#4caf50" stroke-width="2" rx="10"/>
     
-    <!-- Icon: Money/Support -->
+
     <g transform="translate(20, 20)">
       <rect x="10" y="30" width="30" height="20" fill="#4caf50" rx="3"/>
       <text x="25" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">NOK</text>
@@ -159,7 +159,7 @@
     </text>
   </g>
   
-  <!-- Bottom note -->
+
   <text x="400" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-style="italic" fill="#666">
     Disse særtrekkene krever spesialiserte regnskapsløsninger og fagkompetanse
   </text>

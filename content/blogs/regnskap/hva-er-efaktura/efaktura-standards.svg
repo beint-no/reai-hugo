@@ -10,15 +10,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
     eFaktura Tekniske Standarder
   </text>
   
-  <!-- PEPPOL Network Center -->
+
   <circle cx="400" cy="150" r="80" fill="url(#peppolGradient)" stroke="#003366" stroke-width="3"/>
   <text x="400" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     PEPPOL
@@ -33,8 +33,8 @@
     Procurement On-Line
   </text>
   
-  <!-- Format boxes around PEPPOL -->
-  <!-- UBL 2.1 -->
+
+
   <rect x="120" y="80" width="120" height="80" fill="#d4edda" stroke="#28a745" stroke-width="2" rx="8"/>
   <text x="180" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#155724">
     UBL 2.1
@@ -49,7 +49,7 @@
     Mest brukt for B2B
   </text>
   
-  <!-- CII -->
+
   <rect x="560" y="80" width="120" height="80" fill="#cce5ff" stroke="#007bff" stroke-width="2" rx="8"/>
   <text x="620" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#004085">
     CII
@@ -64,7 +64,7 @@
     ERP-systemer
   </text>
   
-  <!-- OIOUBL -->
+
   <rect x="120" y="220" width="120" height="80" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="8"/>
   <text x="180" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#856404">
     OIOUBL
@@ -79,7 +79,7 @@
     Offentlig sektor
   </text>
   
-  <!-- EHF -->
+
   <rect x="560" y="220" width="120" height="80" fill="#f8d7da" stroke="#dc3545" stroke-width="2" rx="8"/>
   <text x="620" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#721c24">
     EHF
@@ -94,18 +94,18 @@
     Norsk tilpasning
   </text>
   
-  <!-- Connection lines -->
+
   <line x1="240" y1="120" x2="320" y2="130" stroke="#28a745" stroke-width="2"/>
   <line x1="480" y1="130" x2="560" y2="120" stroke="#007bff" stroke-width="2"/>
   <line x1="240" y1="260" x2="320" y2="170" stroke="#ffc107" stroke-width="2"/>
   <line x1="480" y1="170" x2="560" y2="260" stroke="#dc3545" stroke-width="2"/>
   
-  <!-- Security section -->
+
   <text x="400" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#212529">
     Sikkerhet og Validering
   </text>
   
-  <!-- Security features -->
+
   <rect x="80" y="370" width="140" height="50" fill="#e2e3e5" stroke="#6c757d" stroke-width="2" rx="5"/>
   <text x="150" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
     TLS Kryptering
@@ -138,7 +138,7 @@
     Kryptografisk bevis
   </text>
   
-  <!-- Compliance note -->
+
   <text x="400" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#6c757d">
     Alle formater oppfyller EU-direktiv 2014/55/EU for elektronisk fakturering
   </text>

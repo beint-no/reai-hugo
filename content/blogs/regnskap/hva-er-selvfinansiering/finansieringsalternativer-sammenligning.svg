@@ -18,15 +18,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="#1e293b">
     Sammenligning av Finansieringsalternativer
   </text>
   
-  <!-- Comparison table header -->
+
   <g transform="translate(50, 60)">
     <rect x="0" y="0" width="700" height="40" fill="#1e293b" rx="5"/>
     <text x="100" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
@@ -43,7 +43,7 @@
     </text>
   </g>
   
-  <!-- Cost comparison -->
+
   <g transform="translate(50, 110)">
     <rect x="0" y="0" width="200" height="40" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1"/>
     <text x="100" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#374151">
@@ -66,7 +66,7 @@
     <text x="575" y="30" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="#1d4ed8">VARIABEL</text>
   </g>
   
-  <!-- Control comparison -->
+
   <g transform="translate(50, 160)">
     <rect x="0" y="0" width="200" height="40" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1"/>
     <text x="100" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#374151">
@@ -86,7 +86,7 @@
     <text x="575" y="30" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#1d4ed8">Utvanning av eierskap</text>
   </g>
   
-  <!-- Risk comparison -->
+
   <g transform="translate(50, 210)">
     <rect x="0" y="0" width="200" height="40" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1"/>
     <text x="100" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#374151">
@@ -106,7 +106,7 @@
     <text x="575" y="30" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#1d4ed8">Fortynningsrisiko</text>
   </g>
   
-  <!-- Flexibility comparison -->
+
   <g transform="translate(50, 260)">
     <rect x="0" y="0" width="200" height="40" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1"/>
     <text x="100" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#374151">
@@ -126,7 +126,7 @@
     <text x="575" y="30" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#1d4ed8">Komplekse prosesser</text>
   </g>
   
-  <!-- Implementation time -->
+
   <g transform="translate(50, 310)">
     <rect x="0" y="0" width="200" height="40" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1"/>
     <text x="100" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#374151">
@@ -146,7 +146,7 @@
     <text x="575" y="30" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#1d4ed8">Due diligence og forhandlinger</text>
   </g>
   
-  <!-- Capacity comparison -->
+
   <g transform="translate(50, 360)">
     <rect x="0" y="0" width="200" height="40" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1"/>
     <text x="100" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#374151">
@@ -166,13 +166,13 @@
     <text x="575" y="30" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#1d4ed8">Basert på potensial</text>
   </g>
   
-  <!-- Overall scoring -->
+
   <g transform="translate(100, 430)">
     <text x="300" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#1e293b">
       Anbefaling basert på situasjon
     </text>
     
-    <!-- Stable companies -->
+
     <g transform="translate(0, 40)">
       <rect x="0" y="0" width="180" height="60" fill="#dcfce7" stroke="#16a34a" stroke-width="2" rx="8"/>
       <text x="90" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#15803d">
@@ -186,7 +186,7 @@
       </text>
     </g>
     
-    <!-- Growth companies -->
+
     <g transform="translate(210, 40)">
       <rect x="0" y="0" width="180" height="60" fill="#eff6ff" stroke="#3b82f6" stroke-width="2" rx="8"/>
       <text x="90" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#1d4ed8">
@@ -200,7 +200,7 @@
       </text>
     </g>
     
-    <!-- Distressed companies -->
+
     <g transform="translate(420, 40)">
       <rect x="0" y="0" width="180" height="60" fill="#fef2f2" stroke="#ef4444" stroke-width="2" rx="8"/>
       <text x="90" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#dc2626">
@@ -215,7 +215,7 @@
     </g>
   </g>
   
-  <!-- Bottom conclusion -->
+
   <rect x="100" y="550" width="600" height="40" fill="#f1f5f9" stroke="#64748b" stroke-width="2" rx="10"/>
   <text x="400" y="570" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#1e293b">
     Selvfinansiering gir størst kontroll og lavest risiko, men krever tilstrekkelig lønnsomhet

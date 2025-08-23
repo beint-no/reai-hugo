@@ -10,28 +10,28 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="400" fill="#F8FAFC"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#1E293B">
     Hva er Stiftelse?
   </text>
   
-  <!-- Main foundation building -->
+
   <rect x="300" y="120" width="200" height="180" fill="url(#blueGradient)" rx="10"/>
   <rect x="310" y="130" width="180" height="20" fill="#FFFFFF" opacity="0.9"/>
   <text x="400" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1E293B">
     STIFTELSE
   </text>
   
-  <!-- Foundation pillars -->
+
   <rect x="320" y="170" width="35" height="110" fill="#E2E8F0" stroke="#64748B" stroke-width="2"/>
   <rect x="365" y="170" width="35" height="110" fill="#E2E8F0" stroke="#64748B" stroke-width="2"/>
   <rect x="410" y="170" width="35" height="110" fill="#E2E8F0" stroke="#64748B" stroke-width="2"/>
   <rect x="455" y="170" width="35" height="110" fill="#E2E8F0" stroke="#64748B" stroke-width="2"/>
   
-  <!-- Pillar labels -->
+
   <text x="337" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="#475569">
     Juridisk
   </text>
@@ -60,7 +60,7 @@
     Kontroll
   </text>
   
-  <!-- Key characteristics boxes -->
+
   <rect x="50" y="320" width="140" height="60" fill="url(#greenGradient)" rx="8"/>
   <text x="120" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#FFFFFF">
     Ingen Eiere
@@ -105,20 +105,20 @@
     regnskapsloven
   </text>
   
-  <!-- Arrows connecting elements -->
+
   <line x1="120" y1="310" x2="350" y2="290" stroke="#64748B" stroke-width="2" marker-end="url(#arrowhead)"/>
   <line x1="280" y1="310" x2="380" y2="290" stroke="#64748B" stroke-width="2" marker-end="url(#arrowhead)"/>
   <line x1="520" y1="310" x2="420" y2="290" stroke="#64748B" stroke-width="2" marker-end="url(#arrowhead)"/>
   <line x1="680" y1="310" x2="450" y2="290" stroke="#64748B" stroke-width="2" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#64748B"/>
     </marker>
   </defs>
   
-  <!-- Subtitle -->
+
   <text x="400" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#64748B">
     Juridisk selvstendig organisasjonsform for allmennyttige formål
   </text>

@@ -14,23 +14,23 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1976d2">
     2FA Troubleshooting Guide
   </text>
   
-  <!-- Problem Section -->
+
   <g transform="translate(50, 60)">
-    <!-- Problem Header -->
+
     <rect x="0" y="0" width="300" height="40" rx="8" fill="#f44336" opacity="0.9"/>
     <text x="150" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
       Common Problems
     </text>
     
-    <!-- Problem 1: TOTP Time Skew -->
+
     <rect x="0" y="50" width="300" height="80" rx="8" fill="url(#problemGradient)" stroke="#f44336" stroke-width="2"/>
     <circle cx="25" cy="70" r="8" fill="#f44336"/>
     <text x="25" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">!</text>
@@ -40,7 +40,7 @@
       <tspan x="45" dy="15">Device time not synced</tspan>
     </text>
     
-    <!-- Problem 2: SMS Delays -->
+
     <rect x="0" y="140" width="300" height="80" rx="8" fill="url(#problemGradient)" stroke="#f44336" stroke-width="2"/>
     <circle cx="25" cy="160" r="8" fill="#f44336"/>
     <text x="25" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">!</text>
@@ -50,7 +50,7 @@
       <tspan x="45" dy="15">Network congestion</tspan>
     </text>
     
-    <!-- Problem 3: Hardware Key Issues -->
+
     <rect x="0" y="230" width="300" height="80" rx="8" fill="url(#problemGradient)" stroke="#f44336" stroke-width="2"/>
     <circle cx="25" cy="250" r="8" fill="#f44336"/>
     <text x="25" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">!</text>
@@ -60,7 +60,7 @@
       <tspan x="45" dy="15">Browser compatibility</tspan>
     </text>
     
-    <!-- Problem 4: User Challenges -->
+
     <rect x="0" y="320" width="300" height="80" rx="8" fill="url(#problemGradient)" stroke="#f44336" stroke-width="2"/>
     <circle cx="25" cy="340" r="8" fill="#f44336"/>
     <text x="25" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">!</text>
@@ -71,7 +71,7 @@
     </text>
   </g>
   
-  <!-- Arrow -->
+
   <path d="M 370 280 L 410 280" stroke="#666" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
@@ -79,15 +79,15 @@
     </marker>
   </defs>
   
-  <!-- Solution Section -->
+
   <g transform="translate(450, 60)">
-    <!-- Solution Header -->
+
     <rect x="0" y="0" width="300" height="40" rx="8" fill="#4caf50" opacity="0.9"/>
     <text x="150" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
       Solutions
     </text>
     
-    <!-- Solution 1: NTP Sync -->
+
     <rect x="0" y="50" width="300" height="80" rx="8" fill="url(#solutionGradient)" stroke="#4caf50" stroke-width="2"/>
     <circle cx="25" cy="70" r="8" fill="#4caf50"/>
     <text x="25" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">✓</text>
@@ -97,7 +97,7 @@
       <tspan x="45" dy="15">Automatic time correction</tspan>
     </text>
     
-    <!-- Solution 2: Alternative Methods -->
+
     <rect x="0" y="140" width="300" height="80" rx="8" fill="url(#solutionGradient)" stroke="#4caf50" stroke-width="2"/>
     <circle cx="25" cy="160" r="8" fill="#4caf50"/>
     <text x="25" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">✓</text>
@@ -107,7 +107,7 @@
       <tspan x="45" dy="15">Email backup codes</tspan>
     </text>
     
-    <!-- Solution 3: Driver Updates -->
+
     <rect x="0" y="230" width="300" height="80" rx="8" fill="url(#solutionGradient)" stroke="#4caf50" stroke-width="2"/>
     <circle cx="25" cy="250" r="8" fill="#4caf50"/>
     <text x="25" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">✓</text>
@@ -117,7 +117,7 @@
       <tspan x="45" dy="15">Check browser compatibility</tspan>
     </text>
     
-    <!-- Solution 4: Support & Training -->
+
     <rect x="0" y="320" width="300" height="80" rx="8" fill="url(#solutionGradient)" stroke="#4caf50" stroke-width="2"/>
     <circle cx="25" cy="340" r="8" fill="#4caf50"/>
     <text x="25" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">✓</text>
@@ -128,18 +128,18 @@
     </text>
   </g>
   
-  <!-- Support Process Flow -->
+
   <g transform="translate(50, 420)">
     <text x="0" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1976d2">
       Support Process Flow
     </text>
     
-    <!-- Step 1 -->
+
     <rect x="0" y="30" width="120" height="50" rx="8" fill="#e3f2fd" stroke="#1976d2" stroke-width="2"/>
     <text x="60" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1976d2">User Reports</text>
     <text x="60" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#1976d2">Issue</text>
     
-    <!-- Arrow 1 -->
+
     <path d="M 130 55 L 150 55" stroke="#1976d2" stroke-width="2" fill="none" marker-end="url(#arrowhead2)"/>
     <defs>
       <marker id="arrowhead2" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
@@ -147,12 +147,12 @@
       </marker>
     </defs>
     
-    <!-- Step 2 -->
+
     <rect x="160" y="30" width="120" height="50" rx="8" fill="#fff3e0" stroke="#f57c00" stroke-width="2"/>
     <text x="220" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#f57c00">Diagnose</text>
     <text x="220" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#f57c00">Problem</text>
     
-    <!-- Arrow 2 -->
+
     <path d="M 290 55 L 310 55" stroke="#f57c00" stroke-width="2" fill="none" marker-end="url(#arrowhead3)"/>
     <defs>
       <marker id="arrowhead3" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
@@ -160,12 +160,12 @@
       </marker>
     </defs>
     
-    <!-- Step 3 -->
+
     <rect x="320" y="30" width="120" height="50" rx="8" fill="#f3e5f5" stroke="#7b1fa2" stroke-width="2"/>
     <text x="380" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#7b1fa2">Apply</text>
     <text x="380" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7b1fa2">Solution</text>
     
-    <!-- Arrow 3 -->
+
     <path d="M 450 55 L 470 55" stroke="#7b1fa2" stroke-width="2" fill="none" marker-end="url(#arrowhead4)"/>
     <defs>
       <marker id="arrowhead4" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
@@ -173,13 +173,13 @@
       </marker>
     </defs>
     
-    <!-- Step 4 -->
+
     <rect x="480" y="30" width="120" height="50" rx="8" fill="#e8f5e8" stroke="#4caf50" stroke-width="2"/>
     <text x="540" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#4caf50">Verify</text>
     <text x="540" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#4caf50">Resolution</text>
   </g>
   
-  <!-- Emergency Procedures -->
+
   <g transform="translate(50, 520)">
     <text x="0" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#d32f2f">
       Emergency Procedures

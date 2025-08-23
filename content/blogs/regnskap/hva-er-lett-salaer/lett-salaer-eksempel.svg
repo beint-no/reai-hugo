@@ -1,13 +1,13 @@
 <svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Eksempel: Lett Salær for Hagearbeid
   </text>
   
-  <!-- Main scenario box -->
+
   <rect x="50" y="70" width="700" height="80" fill="#e8f5e8" stroke="#27ae60" stroke-width="2" rx="10"/>
   <text x="400" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#27ae60">
     Situasjon
@@ -19,8 +19,8 @@
     Ole (mottaker) utfører arbeidet for 18.000 kr i året
   </text>
   
-  <!-- Flow diagram -->
-  <!-- Step 1: Agreement -->
+
+
   <rect x="50" y="180" width="140" height="80" fill="#3498db" stroke="#2980b9" stroke-width="2" rx="8"/>
   <text x="120" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     1. Avtale
@@ -35,11 +35,11 @@
     18.000 kr
   </text>
   
-  <!-- Arrow 1 -->
+
   <polygon points="200,220 230,210 230,230" fill="#2c3e50"/>
   <line x1="190" y1="220" x2="230" y2="220" stroke="#2c3e50" stroke-width="2"/>
   
-  <!-- Step 2: Work performed -->
+
   <rect x="240" y="180" width="140" height="80" fill="#f39c12" stroke="#e67e22" stroke-width="2" rx="8"/>
   <text x="310" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     2. Arbeid
@@ -54,11 +54,11 @@
     gjennom året
   </text>
   
-  <!-- Arrow 2 -->
+
   <polygon points="390,220 420,210 420,230" fill="#2c3e50"/>
   <line x1="380" y1="220" x2="420" y2="220" stroke="#2c3e50" stroke-width="2"/>
   
-  <!-- Step 3: Payment -->
+
   <rect x="430" y="180" width="140" height="80" fill="#27ae60" stroke="#229954" stroke-width="2" rx="8"/>
   <text x="500" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     3. Utbetaling
@@ -73,11 +73,11 @@
     (ingen trekk)
   </text>
   
-  <!-- Arrow 3 -->
+
   <polygon points="580,220 610,210 610,230" fill="#2c3e50"/>
   <line x1="570" y1="220" x2="610" y2="220" stroke="#2c3e50" stroke-width="2"/>
   
-  <!-- Step 4: Tax -->
+
   <rect x="620" y="180" width="130" height="80" fill="#e74c3c" stroke="#c0392b" stroke-width="2" rx="8"/>
   <text x="685" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     4. Skatt
@@ -92,13 +92,13 @@
     ved selvangivelse
   </text>
   
-  <!-- Results section -->
+
   <rect x="50" y="290" width="700" height="160" fill="white" stroke="#e9ecef" stroke-width="2" rx="10"/>
   <text x="400" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">
     Resultat for Begge Parter
   </text>
   
-  <!-- Ole's result -->
+
   <rect x="80" y="340" width="300" height="90" fill="#e8f5e8" stroke="#27ae60" stroke-width="1" rx="5"/>
   <text x="230" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#27ae60">
     Ole (Mottaker)
@@ -113,7 +113,7 @@
     Netto inntekt: 14.400 kr
   </text>
   
-  <!-- Hansen's result -->
+
   <rect x="420" y="340" width="300" height="90" fill="#e8f4fd" stroke="#3498db" stroke-width="1" rx="5"/>
   <text x="570" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#3498db">
     Hansen (Oppdragsgiver)
@@ -128,7 +128,7 @@
     Sparer: 2.538 kr (vs. vanlig lønn)
   </text>
   
-  <!-- Bottom note -->
+
   <rect x="100" y="460" width="600" height="25" fill="#d4edda" stroke="#c3e6cb" stroke-width="1" rx="5"/>
   <text x="400" y="477" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#155724">
     Begge parter drar nytte av lett salær-ordningen

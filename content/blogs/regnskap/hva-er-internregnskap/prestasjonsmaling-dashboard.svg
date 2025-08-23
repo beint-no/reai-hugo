@@ -10,18 +10,18 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="70" fill="url(#headerGradient)"/>
   <text x="400" y="45" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
     Prestasjonsmåling Dashboard
   </text>
   
-  <!-- KPI Cards Row 1 -->
+
   <g transform="translate(50, 100)">
-    <!-- Revenue KPI -->
+
     <rect x="0" y="0" width="160" height="100" fill="white" stroke="#28a745" stroke-width="2" rx="8"/>
     <text x="80" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#28a745">
       Omsetning
@@ -36,7 +36,7 @@
       NOK (YTD)
     </text>
     
-    <!-- Profit Margin KPI -->
+
     <rect x="180" y="0" width="160" height="100" fill="white" stroke="#ffc107" stroke-width="2" rx="8"/>
     <text x="260" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#e0a800">
       Bruttomargin
@@ -51,7 +51,7 @@
       Margin %
     </text>
     
-    <!-- Cost Control KPI -->
+
     <rect x="360" y="0" width="160" height="100" fill="white" stroke="#dc3545" stroke-width="2" rx="8"/>
     <text x="440" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#dc3545">
       Driftskostnader
@@ -66,7 +66,7 @@
       NOK (YTD)
     </text>
     
-    <!-- Productivity KPI -->
+
     <rect x="540" y="0" width="160" height="100" fill="white" stroke="#17a2b8" stroke-width="2" rx="8"/>
     <text x="620" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#17a2b8">
       Produktivitet
@@ -82,67 +82,67 @@
     </text>
   </g>
   
-  <!-- Charts Section -->
+
   <g transform="translate(50, 230)">
-    <!-- Monthly Performance Chart -->
+
     <rect x="0" y="0" width="340" height="200" fill="white" stroke="#dee2e6" stroke-width="1" rx="8"/>
     <text x="170" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#333">
       Månedlig Utvikling
     </text>
     
-    <!-- Chart axes -->
+
     <line x1="40" y1="180" x2="320" y2="180" stroke="#dee2e6" stroke-width="1"/>
     <line x1="40" y1="50" x2="40" y2="180" stroke="#dee2e6" stroke-width="1"/>
     
-    <!-- Chart data points and lines -->
+
     <polyline points="40,160 80,140 120,130 160,120 200,110 240,100 280,95 320,90" 
               fill="none" stroke="#28a745" stroke-width="3"/>
     <polyline points="40,170 80,165 120,155 160,150 200,145 240,140 280,135 320,130" 
               fill="none" stroke="#0066cc" stroke-width="2" stroke-dasharray="5,5"/>
     
-    <!-- Data points -->
+
     <circle cx="320" cy="90" r="4" fill="#28a745"/>
     <circle cx="320" cy="130" r="3" fill="#0066cc"/>
     
-    <!-- Legend -->
+
     <rect x="50" y="45" width="12" height="3" fill="#28a745"/>
     <text x="70" y="52" font-family="Arial, sans-serif" font-size="10" fill="#333">Faktisk</text>
     <rect x="120" y="45" width="12" height="2" fill="#0066cc"/>
     <text x="140" y="52" font-family="Arial, sans-serif" font-size="10" fill="#333">Budsjett</text>
     
-    <!-- Y-axis labels -->
+
     <text x="35" y="55" font-family="Arial, sans-serif" font-size="9" text-anchor="end" fill="#6c757d">100%</text>
     <text x="35" y="95" font-family="Arial, sans-serif" font-size="9" text-anchor="end" fill="#6c757d">75%</text>
     <text x="35" y="135" font-family="Arial, sans-serif" font-size="9" text-anchor="end" fill="#6c757d">50%</text>
     <text x="35" y="175" font-family="Arial, sans-serif" font-size="9" text-anchor="end" fill="#6c757d">25%</text>
     
-    <!-- Department Performance -->
+
     <rect x="360" y="0" width="340" height="200" fill="white" stroke="#dee2e6" stroke-width="1" rx="8"/>
     <text x="530" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#333">
       Avdelingsresultater
     </text>
     
-    <!-- Department bars -->
+
     <g transform="translate(380, 50)">
-      <!-- Sales Department -->
+
       <rect x="0" y="0" width="280" height="25" fill="#e9ecef" rx="3"/>
       <rect x="0" y="0" width="224" height="25" fill="#28a745" rx="3"/>
       <text x="10" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Salg</text>
       <text x="270" y="18" font-family="Arial, sans-serif" font-size="11" text-anchor="end" fill="#333">112%</text>
       
-      <!-- Production Department -->
+
       <rect x="0" y="35" width="280" height="25" fill="#e9ecef" rx="3"/>
       <rect x="0" y="35" width="252" height="25" fill="#ffc107" rx="3"/>
       <text x="10" y="53" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="black">Produksjon</text>
       <text x="270" y="53" font-family="Arial, sans-serif" font-size="11" text-anchor="end" fill="#333">105%</text>
       
-      <!-- Marketing Department -->
+
       <rect x="0" y="70" width="280" height="25" fill="#e9ecef" rx="3"/>
       <rect x="0" y="70" width="196" height="25" fill="#17a2b8" rx="3"/>
       <text x="10" y="88" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Markedsføring</text>
       <text x="270" y="88" font-family="Arial, sans-serif" font-size="11" text-anchor="end" fill="#333">98%</text>
       
-      <!-- Administration Department -->
+
       <rect x="0" y="105" width="280" height="25" fill="#e9ecef" rx="3"/>
       <rect x="0" y="105" width="168" height="25" fill="#dc3545" rx="3"/>
       <text x="10" y="123" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Administrasjon</text>
@@ -154,16 +154,16 @@
     </g>
   </g>
   
-  <!-- Bottom Section - Key Metrics -->
+
   <g transform="translate(50, 460)">
     <rect x="0" y="0" width="700" height="120" fill="white" stroke="#dee2e6" stroke-width="1" rx="8"/>
     <text x="350" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#333">
       Nøkkelindikatorer (KPI)
     </text>
     
-    <!-- KPI Grid -->
+
     <g transform="translate(30, 40)">
-      <!-- Row 1 -->
+
       <text x="0" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">Kundetilfredshet:</text>
       <text x="150" y="20" font-family="Arial, sans-serif" font-size="12" fill="#28a745">4.2/5.0 ↑</text>
       
@@ -173,7 +173,7 @@
       <text x="500" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">Kvalitetsindeks:</text>
       <text x="620" y="20" font-family="Arial, sans-serif" font-size="12" fill="#ffc107">98.2% →</text>
       
-      <!-- Row 2 -->
+
       <text x="0" y="45" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">Medarbeidertilfredshet:</text>
       <text x="150" y="45" font-family="Arial, sans-serif" font-size="12" fill="#28a745">7.8/10 ↑</text>
       
@@ -183,7 +183,7 @@
       <text x="500" y="45" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">Markedsandel:</text>
       <text x="620" y="45" font-family="Arial, sans-serif" font-size="12" fill="#28a745">18.5% ↑</text>
       
-      <!-- Row 3 -->
+
       <text x="0" y="70" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">Kontantstrøm:</text>
       <text x="150" y="70" font-family="Arial, sans-serif" font-size="12" fill="#28a745">Positiv +2.1M</text>
       
@@ -195,7 +195,7 @@
     </g>
   </g>
   
-  <!-- Status indicators legend -->
+
   <g transform="translate(650, 580)">
     <text x="0" y="0" font-family="Arial, sans-serif" font-size="10" fill="#28a745">↑ Over mål</text>
     <text x="60" y="0" font-family="Arial, sans-serif" font-size="10" fill="#ffc107">→ På mål</text>

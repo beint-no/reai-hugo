@@ -1,15 +1,15 @@
 <svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="400" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#2c3e50">
     Hva er Egenkapital?
   </text>
   
-  <!-- Main balance equation visual -->
+
   <g transform="translate(50, 80)">
-    <!-- Assets box -->
+
     <rect x="0" y="0" width="200" height="250" fill="#3498db" stroke="#2980b9" stroke-width="2" rx="10"/>
     <text x="100" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
       EIENDELER
@@ -18,7 +18,7 @@
       (AKTIVA)
     </text>
     
-    <!-- Asset items -->
+
     <text x="20" y="90" font-family="Arial, sans-serif" font-size="14" fill="white">• Kontanter</text>
     <text x="20" y="115" font-family="Arial, sans-serif" font-size="14" fill="white">• Kundefordringer</text>
     <text x="20" y="140" font-family="Arial, sans-serif" font-size="14" fill="white">• Varelager</text>
@@ -30,12 +30,12 @@
     </text>
   </g>
   
-  <!-- Equals sign -->
+
   <text x="300" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#2c3e50">
     =
   </text>
   
-  <!-- Liabilities box -->
+
   <g transform="translate(350, 80)">
     <rect x="0" y="0" width="180" height="150" fill="#e74c3c" stroke="#c0392b" stroke-width="2" rx="10"/>
     <text x="90" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
@@ -45,7 +45,7 @@
       (PASSIVA)
     </text>
     
-    <!-- Liability items -->
+
     <text x="20" y="85" font-family="Arial, sans-serif" font-size="14" fill="white">• Banklån</text>
     <text x="20" y="105" font-family="Arial, sans-serif" font-size="14" fill="white">• Leverandørgjeld</text>
     <text x="20" y="125" font-family="Arial, sans-serif" font-size="14" fill="white">• Annen gjeld</text>
@@ -55,12 +55,12 @@
     </text>
   </g>
   
-  <!-- Plus sign -->
+
   <text x="440" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     +
   </text>
   
-  <!-- Equity box -->
+
   <g transform="translate(350, 280)">
     <rect x="0" y="0" width="180" height="100" fill="#27ae60" stroke="#229954" stroke-width="2" rx="10"/>
     <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
@@ -75,7 +75,7 @@
     </text>
   </g>
   
-  <!-- Formula at bottom -->
+
   <g transform="translate(580, 120)">
     <rect x="0" y="0" width="200" height="160" fill="#f39c12" stroke="#e67e22" stroke-width="2" rx="10"/>
     <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
@@ -97,10 +97,10 @@
     </text>
   </g>
   
-  <!-- Arrow pointing to equity -->
+
   <path d="M 580 200 L 540 320" stroke="#f39c12" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#f39c12"/>

@@ -6,23 +6,23 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#F8F9FA"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="50" fill="url(#chartGrad)"/>
   <text x="400" y="30" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="white" text-anchor="middle">Historisk Utvikling av Skjermingsrente 2006-2024</text>
   
-  <!-- Chart area -->
+
   <rect x="80" y="70" width="640" height="350" fill="white" stroke="#BDC3C7" stroke-width="2"/>
   
-  <!-- Y-axis -->
+
   <line x1="80" y1="70" x2="80" y2="420" stroke="#2C3E50" stroke-width="2"/>
   
-  <!-- X-axis -->
+
   <line x1="80" y1="420" x2="720" y2="420" stroke="#2C3E50" stroke-width="2"/>
   
-  <!-- Y-axis labels (0% to 6%) -->
+
   <text x="70" y="425" font-family="Arial, sans-serif" font-size="10" fill="#2C3E50" text-anchor="end">0%</text>
   <text x="70" y="365" font-family="Arial, sans-serif" font-size="10" fill="#2C3E50" text-anchor="end">1%</text>
   <text x="70" y="305" font-family="Arial, sans-serif" font-size="10" fill="#2C3E50" text-anchor="end">2%</text>
@@ -31,14 +31,14 @@
   <text x="70" y="125" font-family="Arial, sans-serif" font-size="10" fill="#2C3E50" text-anchor="end">5%</text>
   <text x="70" y="75" font-family="Arial, sans-serif" font-size="10" fill="#2C3E50" text-anchor="end">6%</text>
   
-  <!-- Y-axis grid lines -->
+
   <line x1="80" y1="360" x2="720" y2="360" stroke="#ECF0F1" stroke-width="1"/>
   <line x1="80" y1="300" x2="720" y2="300" stroke="#ECF0F1" stroke-width="1"/>
   <line x1="80" y1="240" x2="720" y2="240" stroke="#ECF0F1" stroke-width="1"/>
   <line x1="80" y1="180" x2="720" y2="180" stroke="#ECF0F1" stroke-width="1"/>
   <line x1="80" y1="120" x2="720" y2="120" stroke="#ECF0F1" stroke-width="1"/>
   
-  <!-- X-axis labels (years) -->
+
   <text x="120" y="440" font-family="Arial, sans-serif" font-size="10" fill="#2C3E50" text-anchor="middle">2006</text>
   <text x="200" y="440" font-family="Arial, sans-serif" font-size="10" fill="#2C3E50" text-anchor="middle">2008</text>
   <text x="280" y="440" font-family="Arial, sans-serif" font-size="10" fill="#2C3E50" text-anchor="middle">2010</text>
@@ -49,20 +49,20 @@
   <text x="680" y="440" font-family="Arial, sans-serif" font-size="10" fill="#2C3E50" text-anchor="middle">2020</text>
   <text x="720" y="440" font-family="Arial, sans-serif" font-size="10" fill="#2C3E50" text-anchor="middle">2024</text>
   
-  <!-- Data points and line (approximate historical values) -->
-  <!-- 2006: 4.0% = 180, 2007: 4.5% = 150, 2008: 5.5% = 90, 2009: 3.0% = 240 -->
+
+
   <circle cx="120" cy="180" r="4" fill="#E74C3C"/>
   <circle cx="140" cy="150" r="4" fill="#E74C3C"/>
   <circle cx="160" cy="90" r="4" fill="#E74C3C"/>
   <circle cx="180" cy="240" r="4" fill="#E74C3C"/>
   
-  <!-- 2010-2013: 2.5-3.5% -->
+
   <circle cx="200" cy="270" r="4" fill="#F39C12"/>
   <circle cx="240" cy="255" r="4" fill="#F39C12"/>
   <circle cx="280" cy="240" r="4" fill="#F39C12"/>
   <circle cx="320" cy="225" r="4" fill="#F39C12"/>
   
-  <!-- 2014-2019: 1.0-2.0% -->
+
   <circle cx="360" cy="315" r="4" fill="#F39C12"/>
   <circle cx="400" cy="330" r="4" fill="#F39C12"/>
   <circle cx="440" cy="345" r="4" fill="#F39C12"/>
@@ -70,22 +70,22 @@
   <circle cx="520" cy="345" r="4" fill="#F39C12"/>
   <circle cx="560" cy="350" r="4" fill="#F39C12"/>
   
-  <!-- 2020-2021: 1.0% -->
+
   <circle cx="600" cy="360" r="4" fill="#27AE60"/>
   <circle cx="620" cy="360" r="4" fill="#27AE60"/>
   
-  <!-- 2022-2024: 2.0-4.0% -->
+
   <circle cx="640" cy="300" r="4" fill="#3498DB"/>
   <circle cx="660" cy="225" r="4" fill="#3498DB"/>
   <circle cx="680" cy="180" r="4" fill="#3498DB"/>
   <circle cx="700" cy="180" r="4" fill="#3498DB"/>
   <circle cx="720" cy="180" r="4" fill="#3498DB"/>
   
-  <!-- Connect points with lines -->
+
   <path d="M 120,180 L 140,150 L 160,90 L 180,240 L 200,270 L 240,255 L 280,240 L 320,225 L 360,315 L 400,330 L 440,345 L 480,340 L 520,345 L 560,350 L 600,360 L 620,360 L 640,300 L 660,225 L 680,180 L 700,180 L 720,180" 
         stroke="#2980B9" stroke-width="3" fill="none"/>
   
-  <!-- Period annotations -->
+
   <rect x="100" y="90" width="120" height="40" fill="#FADBD8" stroke="#E74C3C" stroke-width="1" rx="5" opacity="0.9"/>
   <text x="160" y="105" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="#C0392B" text-anchor="middle">2006-2008</text>
   <text x="160" y="118" font-family="Arial, sans-serif" font-size="8" fill="#2C3E50" text-anchor="middle">Pre-finanskrise</text>
@@ -106,7 +106,7 @@
   <text x="680" y="168" font-family="Arial, sans-serif" font-size="8" fill="#2C3E50" text-anchor="middle">Inflasjon &amp;</text>
   <text x="680" y="177" font-family="Arial, sans-serif" font-size="8" fill="#2C3E50" text-anchor="middle">Renteøkninger</text>
   
-  <!-- Key rates table -->
+
   <rect x="100" y="460" width="600" height="30" fill="#F8F9FA" stroke="#95A5A6" stroke-width="1" rx="3"/>
   <text x="400" y="478" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2C3E50" text-anchor="middle">Nøkkelrenter:</text>
   <text x="200" y="478" font-family="Arial, sans-serif" font-size="9" fill="#E74C3C" text-anchor="middle">2008: 5,5% (høyeste)</text>
@@ -114,9 +114,9 @@
   <text x="500" y="478" font-family="Arial, sans-serif" font-size="9" fill="#3498DB" text-anchor="middle">2024: 4,0% (normalisert)</text>
   <text x="620" y="478" font-family="Arial, sans-serif" font-size="9" fill="#7F8C8D" text-anchor="middle">Volatilitet: 1,2 pp</text>
   
-  <!-- Y-axis title -->
+
   <text x="30" y="245" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2C3E50" text-anchor="middle" transform="rotate(-90, 30, 245)">Skjermingsrente (%)</text>
   
-  <!-- X-axis title -->
+
   <text x="400" y="490" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2C3E50" text-anchor="middle">År</text>
 </svg>

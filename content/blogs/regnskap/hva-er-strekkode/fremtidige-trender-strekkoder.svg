@@ -27,34 +27,34 @@
     </pattern>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#futureGradient)" opacity="0.1"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Fremtidige Trender for Strekkoder
   </text>
   
-  <!-- Timeline arrow -->
+
   <path d="M 50 80 L 750 80" stroke="#34495e" stroke-width="3" marker-end="url(#arrowhead)" fill="none"/>
   <text x="50" y="100" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">I dag</text>
   <text x="720" y="100" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">Fremtid</text>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>
     </marker>
   </defs>
   
-  <!-- Section 1: Teknologisk Evolusjon -->
+
   <g transform="translate(50, 140)">
     <rect x="0" y="0" width="200" height="120" rx="10" fill="url(#techGradient)" opacity="0.2"/>
     <text x="100" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
       Teknologisk Evolusjon
     </text>
     
-    <!-- 3D Barcode -->
+
     <g transform="translate(20, 35)">
       <rect x="0" y="0" width="40" height="15" fill="url(#barcode)" opacity="0.7"/>
       <rect x="0" y="5" width="40" height="15" fill="url(#barcode)" opacity="0.5"/>
@@ -62,14 +62,14 @@
       <text x="0" y="35" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">3D-strekkoder</text>
     </g>
     
-    <!-- Biometric -->
+
     <g transform="translate(100, 35)">
       <circle cx="20" cy="10" r="8" fill="none" stroke="#e74c3c" stroke-width="2"/>
       <path d="M 15 10 Q 20 5 25 10 Q 20 15 15 10" fill="#e74c3c" opacity="0.3"/>
       <text x="0" y="35" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Biometrisk</text>
     </g>
     
-    <!-- AR -->
+
     <g transform="translate(20, 70)">
       <rect x="0" y="0" width="25" height="15" rx="3" fill="none" stroke="#3498db" stroke-width="2"/>
       <circle cx="5" cy="7" r="2" fill="#3498db"/>
@@ -78,7 +78,7 @@
       <text x="0" y="30" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">AR-veiledning</text>
     </g>
     
-    <!-- Voice -->
+
     <g transform="translate(100, 70)">
       <path d="M 10 5 Q 15 0 20 5 Q 25 10 20 15 Q 15 20 10 15 Q 5 10 10 5" fill="#9b59b6" opacity="0.3"/>
       <circle cx="15" cy="10" r="2" fill="#9b59b6"/>
@@ -87,14 +87,14 @@
     </g>
   </g>
   
-  <!-- Section 2: Markedstrender -->
+
   <g transform="translate(300, 140)">
     <rect x="0" y="0" width="200" height="120" rx="10" fill="url(#marketGradient)" opacity="0.2"/>
     <text x="100" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
       Markedstrender
     </text>
     
-    <!-- Standardization -->
+
     <g transform="translate(20, 35)">
       <rect x="0" y="0" width="12" height="8" fill="#e67e22" opacity="0.7"/>
       <rect x="15" y="0" width="12" height="8" fill="#e67e22" opacity="0.7"/>
@@ -103,21 +103,21 @@
       <text x="0" y="25" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Standardisering</text>
     </g>
     
-    <!-- Eco-friendly -->
+
     <g transform="translate(100, 35)">
       <path d="M 15 5 Q 10 0 5 5 Q 0 10 5 15 Q 10 20 15 15 Q 20 10 15 5" fill="#27ae60" opacity="0.3"/>
       <path d="M 15 8 L 15 12 M 13 10 L 17 10" stroke="#27ae60" stroke-width="2"/>
       <text x="0" y="30" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Miljøvennlig</text>
     </g>
     
-    <!-- Global Harmony -->
+
     <g transform="translate(20, 70)">
       <circle cx="15" cy="10" r="10" fill="none" stroke="#3498db" stroke-width="2"/>
       <path d="M 8 10 Q 15 5 22 10 Q 15 15 8 10" fill="#3498db" opacity="0.3"/>
       <text x="0" y="30" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Global harmoni</text>
     </g>
     
-    <!-- Sustainability -->
+
     <g transform="translate(100, 70)">
       <path d="M 10 15 Q 15 10 20 15 Q 15 5 10 15" fill="#2ecc71" opacity="0.3"/>
       <circle cx="15" cy="12" r="2" fill="#2ecc71"/>
@@ -125,20 +125,20 @@
     </g>
   </g>
   
-  <!-- Section 3: Investeringsmuligheter -->
+
   <g transform="translate(550, 140)">
     <rect x="0" y="0" width="200" height="120" rx="10" fill="url(#investGradient)" opacity="0.2"/>
     <text x="100" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
       Investeringsmuligheter
     </text>
     
-    <!-- Cloud -->
+
     <g transform="translate(20, 35)">
       <path d="M 10 10 Q 5 5 15 5 Q 20 0 25 5 Q 35 5 30 10 Q 35 15 25 15 Q 20 20 15 15 Q 5 15 10 10" fill="#ecf0f1" stroke="#95a5a6" stroke-width="2"/>
       <text x="0" y="30" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Cloud-basert</text>
     </g>
     
-    <!-- AI -->
+
     <g transform="translate(100, 35)">
       <circle cx="15" cy="10" r="8" fill="none" stroke="#e74c3c" stroke-width="2"/>
       <path d="M 10 10 L 15 5 L 20 10 L 15 15 Z" fill="#e74c3c" opacity="0.3"/>
@@ -146,7 +146,7 @@
       <text x="0" y="30" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">AI-drevet</text>
     </g>
     
-    <!-- Mobile First -->
+
     <g transform="translate(20, 70)">
       <rect x="5" y="0" width="15" height="20" rx="3" fill="none" stroke="#34495e" stroke-width="2"/>
       <circle cx="12.5" cy="3" r="1" fill="#34495e"/>
@@ -154,7 +154,7 @@
       <text x="0" y="30" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Mobil-først</text>
     </g>
     
-    <!-- Sustainable Tech -->
+
     <g transform="translate(100, 70)">
       <path d="M 15 5 L 20 15 L 10 15 Z" fill="#27ae60" opacity="0.3"/>
       <circle cx="15" cy="12" r="2" fill="#27ae60"/>
@@ -163,17 +163,17 @@
     </g>
   </g>
   
-  <!-- Bottom Innovation Timeline -->
+
   <g transform="translate(50, 320)">
     <rect x="0" y="0" width="700" height="200" rx="15" fill="#ffffff" opacity="0.9" stroke="#bdc3c7" stroke-width="2"/>
     <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">
       Innovasjonstidslinje
     </text>
     
-    <!-- Timeline -->
+
     <line x1="50" y1="60" x2="650" y2="60" stroke="#34495e" stroke-width="3"/>
     
-    <!-- Timeline points -->
+
     <g transform="translate(50, 60)">
       <circle cx="0" cy="0" r="5" fill="#e74c3c"/>
       <text x="-10" y="20" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">2024</text>
@@ -209,7 +209,7 @@
       <text x="-20" y="50" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">digitalt miljø</text>
     </g>
     
-    <!-- Key developments -->
+
     <g transform="translate(50, 120)">
       <text x="0" y="0" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">Nøkkelutviklinger:</text>
       <text x="0" y="20" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">• Økt skanningsnøyaktighet til 99.99%</text>
@@ -219,7 +219,7 @@
     </g>
   </g>
   
-  <!-- Benefits box -->
+
   <g transform="translate(50, 540)">
     <rect x="0" y="0" width="700" height="50" rx="10" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
     <text x="350" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">

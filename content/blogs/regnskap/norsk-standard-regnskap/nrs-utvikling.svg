@@ -18,15 +18,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="35" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="#333">
     NRS Standardutvikling - Prosess og Metode
   </text>
   
-  <!-- Phase 1: Initiation -->
+
   <rect x="50" y="70" width="700" height="80" fill="url(#processGradient)" rx="8"/>
   <text x="400" y="100" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
     Fase 1: Initiering og Behovsidentifikasjon
@@ -57,7 +57,7 @@
     Arbeidsgruppe
   </text>
   
-  <!-- Phase 2: Development -->
+
   <rect x="50" y="170" width="700" height="80" fill="url(#consultationGradient)" rx="8"/>
   <text x="400" y="200" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
     Fase 2: Utvikling og Utredning
@@ -93,7 +93,7 @@
     Testing
   </text>
   
-  <!-- Phase 3: Consultation -->
+
   <rect x="50" y="270" width="700" height="80" fill="url(#finalGradient)" rx="8"/>
   <text x="400" y="300" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
     Fase 3: Høring og Konsultasjon
@@ -119,7 +119,7 @@
     Revisjon
   </text>
   
-  <!-- Phase 4: Finalization -->
+
   <rect x="50" y="370" width="700" height="80" fill="url(#processGradient)" rx="8"/>
   <text x="400" y="400" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
     Fase 4: Ferdigstillelse og Implementering
@@ -150,19 +150,19 @@
     Veiledning
   </text>
   
-  <!-- Connecting arrows between phases -->
+
   <path d="M 400 150 L 400 170" stroke="#666" stroke-width="3" marker-end="url(#arrowhead)"/>
   <path d="M 400 250 L 400 270" stroke="#666" stroke-width="3" marker-end="url(#arrowhead)"/>
   <path d="M 400 350 L 400 370" stroke="#666" stroke-width="3" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="12" markerHeight="8" refX="10" refY="4" orient="auto">
       <polygon points="0 0, 12 4, 0 8" fill="#666"/>
     </marker>
   </defs>
   
-  <!-- Key stakeholders on the side -->
+
   <text x="50" y="480" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
     Sentrale aktører:
   </text>
@@ -170,7 +170,7 @@
     Regnskapskomité • Tolkningskomité • Arbeidsgrupper • Interessenter • Akademia
   </text>
   
-  <!-- Timeline indication -->
+
   <text x="750" y="110" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="end">
     3-6 mnd
   </text>

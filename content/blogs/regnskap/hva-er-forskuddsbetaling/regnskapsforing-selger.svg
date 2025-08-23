@@ -9,16 +9,16 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#accountingGrad)"/>
   <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
     Regnskapsføring av Forskudd - Selgers Perspektiv
   </text>
   
-  <!-- Step 1: Receiving Advance Payment -->
+
   <rect x="50" y="90" width="320" height="160" fill="white" stroke="#28a745" stroke-width="2" rx="10" filter="url(#boxShadow)"/>
   <rect x="50" y="90" width="320" height="40" fill="#28a745" rx="10"/>
   <rect x="50" y="120" width="320" height="10" fill="#28a745"/>
@@ -26,7 +26,7 @@
     1. Ved Mottak av Forskudd
   </text>
   
-  <!-- Journal Entry 1 -->
+
   <text x="70" y="155" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">
     Bilagsføring:
   </text>
@@ -50,10 +50,10 @@
     (Kortsiktig gjeld)
   </text>
   
-  <!-- Arrow -->
+
   <polygon points="380,170 420,170 410,160 420,170 410,180" fill="#666" stroke="#666" stroke-width="1"/>
   
-  <!-- Step 2: Delivery and Revenue Recognition -->
+
   <rect x="430" y="90" width="320" height="160" fill="white" stroke="#0066cc" stroke-width="2" rx="10" filter="url(#boxShadow)"/>
   <rect x="430" y="90" width="320" height="40" fill="#0066cc" rx="10"/>
   <rect x="430" y="120" width="320" height="10" fill="#0066cc"/>
@@ -61,7 +61,7 @@
     2. Ved Levering av Vare/Tjeneste
   </text>
   
-  <!-- Journal Entry 2 -->
+
   <text x="450" y="155" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">
     Bilagsføring:
   </text>
@@ -85,13 +85,13 @@
     (Inntektsføring)
   </text>
   
-  <!-- Balance Sheet Impact -->
+
   <rect x="50" y="280" width="700" height="180" fill="#e8f4fd" stroke="#0066cc" stroke-width="2" rx="10"/>
   <text x="400" y="310" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#0066cc">
     Påvirkning på Balansen
   </text>
   
-  <!-- Before and After -->
+
   <text x="200" y="340" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#333">
     Ved Mottak av Forskudd
   </text>
@@ -99,7 +99,7 @@
     Ved Levering
   </text>
   
-  <!-- Left side - Before -->
+
   <rect x="80" y="350" width="240" height="90" fill="white" stroke="#28a745" stroke-width="1" rx="5"/>
   <text x="200" y="370" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#28a745">
     Eiendeler øker
@@ -115,7 +115,7 @@
     Mottatte forskudd: +100 000 kr
   </text>
   
-  <!-- Right side - After -->
+
   <rect x="480" y="350" width="240" height="90" fill="white" stroke="#0066cc" stroke-width="1" rx="5"/>
   <text x="600" y="370" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0066cc">
     Gjeld reduseres
@@ -131,7 +131,7 @@
     Salgsinntekt: +100 000 kr
   </text>
   
-  <!-- Arrow between before and after -->
+
   <polygon points="330,395 470,395 460,385 470,395 460,405" fill="#666" stroke="#666" stroke-width="2"/>
   <text x="400" y="390" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#666">
     Levering

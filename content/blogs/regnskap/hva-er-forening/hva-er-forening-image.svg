@@ -10,28 +10,28 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="400" fill="url(#bgGradient)"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="45" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" fill="white">
     Forening i Regnskap
   </text>
   
-  <!-- Subtitle -->
+
   <text x="400" y="65" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#e6f3ff">
     Regnskapsføring for Foreninger og Organisasjoner
   </text>
   
-  <!-- Main content area -->
+
   <rect x="50" y="100" width="700" height="280" fill="white" stroke="#dee2e6" stroke-width="2" rx="10"/>
   
-  <!-- Association types icons -->
+
   <g transform="translate(80, 130)">
-    <!-- Ideelle foreninger -->
+
     <circle cx="80" cy="40" r="30" fill="#28a745" opacity="0.2"/>
     <circle cx="80" cy="40" r="20" fill="#28a745"/>
     <text x="80" y="45" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
@@ -43,7 +43,7 @@
   </g>
   
   <g transform="translate(230, 130)">
-    <!-- Økonomiske foreninger -->
+
     <circle cx="80" cy="40" r="30" fill="#007bff" opacity="0.2"/>
     <circle cx="80" cy="40" r="20" fill="#007bff"/>
     <text x="80" y="45" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
@@ -55,7 +55,7 @@
   </g>
   
   <g transform="translate(380, 130)">
-    <!-- Interesseorganisasjoner -->
+
     <circle cx="80" cy="40" r="30" fill="#ffc107" opacity="0.2"/>
     <circle cx="80" cy="40" r="20" fill="#ffc107"/>
     <text x="80" y="45" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
@@ -67,7 +67,7 @@
   </g>
   
   <g transform="translate(530, 130)">
-    <!-- Hobbyforeninger -->
+
     <circle cx="80" cy="40" r="30" fill="#dc3545" opacity="0.2"/>
     <circle cx="80" cy="40" r="20" fill="#dc3545"/>
     <text x="80" y="45" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
@@ -78,7 +78,7 @@
     </text>
   </g>
   
-  <!-- Key concepts -->
+
   <g transform="translate(80, 240)">
     <rect x="0" y="0" width="150" height="60" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="5"/>
     <text x="75" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#333">
@@ -118,7 +118,7 @@
     </text>
   </g>
   
-  <!-- Connecting lines -->
+
   <line x1="155" y1="170" x2="155" y2="240" stroke="#dee2e6" stroke-width="2"/>
   <line x1="325" y1="170" x2="325" y2="240" stroke="#dee2e6" stroke-width="2"/>
   <line x1="495" y1="170" x2="495" y2="240" stroke="#dee2e6" stroke-width="2"/>

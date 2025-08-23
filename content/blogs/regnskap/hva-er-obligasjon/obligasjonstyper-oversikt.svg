@@ -18,17 +18,17 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">Oversikt over Obligasjonstyper</text>
   
-  <!-- Main Categories -->
+
   <text x="200" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#495057">Etter Utsteder</text>
   <text x="600" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#495057">Etter Rentestruktur</text>
   
-  <!-- State Bonds -->
+
   <rect x="50" y="90" width="150" height="120" rx="10" fill="url(#stateGradient)" stroke="#1e7e34" stroke-width="2"/>
   <text x="125" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Statsobligasjoner</text>
   <text x="125" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Lav risiko</text>
@@ -37,7 +37,7 @@
   <text x="125" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Høy likviditet</text>
   <text x="125" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Utsteder: Norges Bank</text>
   
-  <!-- Municipal Bonds -->
+
   <rect x="220" y="90" width="150" height="120" rx="10" fill="url(#municipalGradient)" stroke="#0056b3" stroke-width="2"/>
   <text x="295" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Kommuneobligasjoner</text>
   <text x="295" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Moderat risiko</text>
@@ -46,7 +46,7 @@
   <text x="295" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Lokal tilknytning</text>
   <text x="295" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Utsteder: Kommuner/Fylker</text>
   
-  <!-- Corporate Bonds -->
+
   <rect x="50" y="230" width="320" height="120" rx="10" fill="url(#corporateGradient)" stroke="#c82333" stroke-width="2"/>
   <text x="210" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Bedriftsobligasjoner</text>
   <text x="130" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Varierende risiko</text>
@@ -58,7 +58,7 @@
   <text x="210" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Utsteder: Private selskaper (AS, ASA)</text>
   <text x="210" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Eksempel: Equinor, Telenor, DNB</text>
   
-  <!-- Fixed Rate Bonds -->
+
   <rect x="450" y="90" width="150" height="120" rx="10" fill="white" stroke="#6f42c1" stroke-width="2"/>
   <text x="525" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#6f42c1">Fastrenteobligasjoner</text>
   <text x="525" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#495057">• Fast kupongrente</text>
@@ -67,7 +67,7 @@
   <text x="525" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#495057">• Renterisiko</text>
   <text x="525" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">Eksempel: 3.5% årlig</text>
   
-  <!-- Floating Rate Bonds -->
+
   <rect x="620" y="90" width="150" height="120" rx="10" fill="white" stroke="#fd7e14" stroke-width="2"/>
   <text x="695" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#fd7e14">Flytende rente</text>
   <text x="695" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#fd7e14">obligasjoner</text>
@@ -76,19 +76,19 @@
   <text x="695" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#495057">• NIBOR + margin</text>
   <text x="695" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">Eksempel: NIBOR + 1.5%</text>
   
-  <!-- Risk vs Return Chart -->
+
   <rect x="450" y="240" width="320" height="200" rx="10" fill="white" stroke="#dee2e6" stroke-width="2"/>
   <text x="610" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#495057">Risiko vs. Avkastning</text>
   
-  <!-- Chart axes -->
+
   <line x1="480" y1="420" x2="740" y2="420" stroke="#6c757d" stroke-width="1"/>
   <line x1="480" y1="280" x2="480" y2="420" stroke="#6c757d" stroke-width="1"/>
   
-  <!-- Axis labels -->
+
   <text x="610" y="435" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">Risiko</text>
   <text x="465" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d" transform="rotate(-90 465 350)">Avkastning</text>
   
-  <!-- Data points -->
+
   <circle cx="520" cy="390" r="8" fill="#28a745"/>
   <text x="520" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#28a745">Stats</text>
   
@@ -98,37 +98,37 @@
   <circle cx="680" cy="310" r="8" fill="#dc3545"/>
   <text x="680" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#dc3545">Bedrift</text>
   
-  <!-- Trend line -->
+
   <line x1="520" y1="390" x2="680" y2="310" stroke="#6c757d" stroke-width="1" stroke-dasharray="5,5"/>
   
-  <!-- Special Categories -->
+
   <rect x="50" y="370" width="320" height="180" rx="10" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2"/>
   <text x="210" y="395" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#495057">Spesielle Obligasjonstyper</text>
   
-  <!-- Green Bonds -->
+
   <rect x="70" y="410" width="140" height="60" rx="5" fill="#d4edda" stroke="#28a745" stroke-width="1"/>
   <text x="140" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#155724">Grønne Obligasjoner</text>
   <text x="140" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#155724">Miljøvennlige prosjekter</text>
   <text x="140" y="458" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#155724">ESG-fokus</text>
   
-  <!-- Convertible Bonds -->
+
   <rect x="230" y="410" width="140" height="60" rx="5" fill="#fff3cd" stroke="#ffc107" stroke-width="1"/>
   <text x="300" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#856404">Konvertible</text>
   <text x="300" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#856404">Kan konverteres til aksjer</text>
   <text x="300" y="458" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#856404">Hybrid instrument</text>
   
-  <!-- Zero Coupon Bonds -->
+
   <rect x="70" y="480" width="140" height="60" rx="5" fill="#f8d7da" stroke="#dc3545" stroke-width="1"/>
   <text x="140" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#721c24">Nullkupong</text>
   <text x="140" y="515" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#721c24">Ingen løpende renter</text>
   <text x="140" y="528" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#721c24">Kjøpes under pålydende</text>
   
-  <!-- Inflation-Linked Bonds -->
+
   <rect x="230" y="480" width="140" height="60" rx="5" fill="#d1ecf1" stroke="#17a2b8" stroke-width="1"/>
   <text x="300" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#0c5460">Inflasjonsjusterte</text>
   <text x="300" y="515" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#0c5460">Beskytter mot inflasjon</text>
   <text x="300" y="528" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#0c5460">KPI-tilknyttet</text>
   
-  <!-- Bottom note -->
+
   <text x="400" y="575" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#6c757d">Valg av obligasjonstype avhenger av risikotoleranse, investeringshorisont og markedsforhold</text>
 </svg>

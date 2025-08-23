@@ -1,21 +1,21 @@
 <svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f8fafc"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1e293b" text-anchor="middle">QA vs QC i Regnskap</text>
   
-  <!-- QA Section (Left) -->
+
   <g>
-    <!-- QA Header -->
+
     <rect x="50" y="60" width="300" height="50" rx="10" fill="#3b82f6" stroke="#1e40af" stroke-width="2"/>
     <text x="200" y="85" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">Quality Assurance (QA)</text>
     <text x="200" y="102" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle">Forebyggende og systemorientert</text>
     
-    <!-- QA Characteristics -->
+
     <rect x="50" y="130" width="300" height="300" rx="8" fill="#eff6ff" stroke="#3b82f6" stroke-width="2"/>
     
-    <!-- QA Items -->
+
     <g>
       <circle cx="70" cy="160" r="5" fill="#3b82f6"/>
       <text x="85" y="165" font-family="Arial, sans-serif" font-size="13" fill="#1e293b">Prosessorientert tilnærming</text>
@@ -72,17 +72,17 @@
     </g>
   </g>
   
-  <!-- QC Section (Right) -->
+
   <g>
-    <!-- QC Header -->
+
     <rect x="450" y="60" width="300" height="50" rx="10" fill="#dc2626" stroke="#b91c1c" stroke-width="2"/>
     <text x="600" y="85" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">Quality Control (QC)</text>
     <text x="600" y="102" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle">Detektive og korrigerende</text>
     
-    <!-- QC Characteristics -->
+
     <rect x="450" y="130" width="300" height="300" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
     
-    <!-- QC Items -->
+
     <g>
       <circle cx="470" cy="160" r="5" fill="#dc2626"/>
       <text x="485" y="165" font-family="Arial, sans-serif" font-size="13" fill="#1e293b">Produktorientert kontroll</text>
@@ -139,16 +139,16 @@
     </g>
   </g>
   
-  <!-- Arrow connecting the two -->
+
   <path d="M350,280 L450,280" stroke="#6b7280" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <text x="400" y="275" font-family="Arial, sans-serif" font-size="12" fill="#6b7280" text-anchor="middle">Komplementær</text>
   
-  <!-- Bottom summary -->
+
   <rect x="100" y="450" width="600" height="40" rx="8" fill="#f1f5f9" stroke="#64748b" stroke-width="1"/>
   <text x="400" y="470" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e293b" text-anchor="middle">Sammen skaper QA og QC et helhetlig kvalitetssystem</text>
   <text x="400" y="485" font-family="Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle">QA forebygger - QC oppdager - Begge er nødvendige for optimal kvalitet</text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#6b7280"/>

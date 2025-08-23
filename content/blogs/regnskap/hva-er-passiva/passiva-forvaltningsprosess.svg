@@ -6,17 +6,17 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)" stroke="#cbd5e1" stroke-width="1" rx="10"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1e40af">
     PASSIVA FORVALTNINGSPROSESS
   </text>
   
-  <!-- Process flow -->
+
   
-  <!-- Step 1: Analyse -->
+
   <g transform="translate(50, 60)">
     <rect x="0" y="0" width="160" height="120" fill="#3b82f6" fill-opacity="0.1" stroke="#3b82f6" stroke-width="2" rx="8"/>
     <text x="80" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1d4ed8">
@@ -29,10 +29,10 @@
     <text x="10" y="110" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Benchmarking</text>
   </g>
   
-  <!-- Arrow 1 -->
+
   <path d="M 220 120 L 260 120" stroke="#374151" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 2: Planlegging -->
+
   <g transform="translate(270, 60)">
     <rect x="0" y="0" width="160" height="120" fill="#10b981" fill-opacity="0.1" stroke="#10b981" stroke-width="2" rx="8"/>
     <text x="80" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#059669">
@@ -45,10 +45,10 @@
     <text x="10" y="110" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Risikovurdering</text>
   </g>
   
-  <!-- Arrow 2 -->
+
   <path d="M 440 120 L 480 120" stroke="#374151" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 3: Implementering -->
+
   <g transform="translate(490, 60)">
     <rect x="0" y="0" width="160" height="120" fill="#f59e0b" fill-opacity="0.1" stroke="#f59e0b" stroke-width="2" rx="8"/>
     <text x="80" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#d97706">
@@ -61,10 +61,10 @@
     <text x="10" y="110" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Kapitaltilførsel</text>
   </g>
   
-  <!-- Return arrow to monitoring -->
+
   <path d="M 570 190 L 570 220 L 130 220 L 130 300" stroke="#374151" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 4: Overvåking -->
+
   <g transform="translate(50, 300)">
     <rect x="0" y="0" width="160" height="120" fill="#8b5cf6" fill-opacity="0.1" stroke="#8b5cf6" stroke-width="2" rx="8"/>
     <text x="80" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#7c3aed">
@@ -77,10 +77,10 @@
     <text x="10" y="110" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Styrekommunikasjon</text>
   </g>
   
-  <!-- Arrow from monitoring to adjustment -->
+
   <path d="M 220 360 L 260 360" stroke="#374151" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 5: Justering -->
+
   <g transform="translate(270, 300)">
     <rect x="0" y="0" width="160" height="120" fill="#ef4444" fill-opacity="0.1" stroke="#ef4444" stroke-width="2" rx="8"/>
     <text x="80" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#dc2626">
@@ -93,37 +93,37 @@
     <text x="10" y="110" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Risikoreduksjon</text>
   </g>
   
-  <!-- Arrow back to monitoring (continuous cycle) -->
+
   <path d="M 350 430 L 350 460 L 130 460 L 130 430" stroke="#374151" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <text x="240" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#374151">Kontinuerlig prosess</text>
   
-  <!-- Key tools and systems -->
+
   <g transform="translate(490, 300)">
     <rect x="0" y="0" width="260" height="180" fill="#06b6d4" fill-opacity="0.1" stroke="#06b6d4" stroke-width="2" rx="8"/>
     <text x="130" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#0891b2">
       VERKTØY &amp; SYSTEMER
     </text>
     
-    <!-- ERP Systems -->
+
     <rect x="20" y="40" width="220" height="35" fill="#22d3ee" fill-opacity="0.3" stroke="#06b6d4" stroke-width="1" rx="4"/>
     <text x="130" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#0891b2">
       ERP-SYSTEMER
     </text>
     
-    <!-- Reporting tools -->
+
     <rect x="20" y="85" width="220" height="35" fill="#22d3ee" fill-opacity="0.3" stroke="#06b6d4" stroke-width="1" rx="4"/>
     <text x="130" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#0891b2">
       RAPPORTERINGSVERKTØY
     </text>
     
-    <!-- Analysis tools -->
+
     <rect x="20" y="130" width="220" height="35" fill="#22d3ee" fill-opacity="0.3" stroke="#06b6d4" stroke-width="1" rx="4"/>
     <text x="130" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#0891b2">
       ANALYSEVERKTØY
     </text>
   </g>
   
-  <!-- Best practices -->
+
   <g transform="translate(50, 500)">
     <rect x="0" y="0" width="700" height="80" fill="#f3f4f6" fill-opacity="0.5" stroke="#9ca3af" stroke-width="1" rx="4"/>
     <text x="350" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#374151">
@@ -138,7 +138,7 @@
     <text x="380" y="70" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Kontinuerlig benchmark mot bransje</text>
   </g>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#374151"/>

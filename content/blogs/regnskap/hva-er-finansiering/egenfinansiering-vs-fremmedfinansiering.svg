@@ -14,29 +14,29 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#333">
     Egenfinansiering vs Fremmedfinansiering
   </text>
   
-  <!-- Left side - Egenfinansiering -->
+
   <rect x="50" y="70" width="320" height="500" fill="url(#equityGradient)" stroke="#4caf50" stroke-width="3" rx="10"/>
   
-  <!-- Egenfinansiering header -->
+
   <rect x="70" y="90" width="280" height="40" fill="#4caf50" rx="5"/>
   <text x="210" y="115" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
     EGENFINANSIERING
   </text>
   
-  <!-- Egenfinansiering definition -->
+
   <text x="210" y="155" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#2e7d32">
     Kapital fra eierne
   </text>
   
-  <!-- Egenfinansiering types -->
+
   <text x="80" y="185" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2e7d32">
     Hovedtyper:
   </text>
@@ -53,7 +53,7 @@
     Egenkapitaltilskudd
   </text>
   
-  <!-- Egenfinansiering advantages -->
+
   <text x="80" y="285" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2e7d32">
     Fordeler:
   </text>
@@ -70,7 +70,7 @@
     ✓ Bedre kredittrating
   </text>
   
-  <!-- Egenfinansiering disadvantages -->
+
   <text x="80" y="385" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2e7d32">
     Ulemper:
   </text>
@@ -87,7 +87,7 @@
     ✗ Potensielt tap av kontroll
   </text>
   
-  <!-- Egenfinansiering characteristics -->
+
   <rect x="80" y="480" width="260" height="70" fill="white" stroke="#4caf50" stroke-width="1" rx="5"/>
   <text x="210" y="500" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#2e7d32">
     Karakteristika
@@ -99,21 +99,21 @@
     • Eierrettigheter og stemmerett
   </text>
   
-  <!-- Right side - Fremmedfinansiering -->
+
   <rect x="430" y="70" width="320" height="500" fill="url(#debtGradient)" stroke="#ff9800" stroke-width="3" rx="10"/>
   
-  <!-- Fremmedfinansiering header -->
+
   <rect x="450" y="90" width="280" height="40" fill="#ff9800" rx="5"/>
   <text x="590" y="115" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
     FREMMEDFINANSIERING
   </text>
   
-  <!-- Fremmedfinansiering definition -->
+
   <text x="590" y="155" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#e65100">
     Lån av kapital
   </text>
   
-  <!-- Fremmedfinansiering types -->
+
   <text x="460" y="185" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#e65100">
     Hovedtyper:
   </text>
@@ -130,7 +130,7 @@
     Leverandørkreditt
   </text>
   
-  <!-- Fremmedfinansiering advantages -->
+
   <text x="460" y="285" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#e65100">
     Fordeler:
   </text>
@@ -147,7 +147,7 @@
     ✓ Større tilgang på kapital
   </text>
   
-  <!-- Fremmedfinansiering disadvantages -->
+
   <text x="460" y="385" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#e65100">
     Ulemper:
   </text>
@@ -164,7 +164,7 @@
     ✗ Lånebetingelser
   </text>
   
-  <!-- Fremmedfinansiering characteristics -->
+
   <rect x="460" y="480" width="260" height="70" fill="white" stroke="#ff9800" stroke-width="1" rx="5"/>
   <text x="590" y="500" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#e65100">
     Karakteristika
@@ -176,13 +176,13 @@
     • Ingen eierrettigheter
   </text>
   
-  <!-- Central comparison arrow -->
+
   <path d="M 380 300 L 420 300" stroke="#666" stroke-width="3" fill="none"/>
   <polygon points="420,295 430,300 420,305" fill="#666"/>
   <path d="M 420 320 L 380 320" stroke="#666" stroke-width="3" fill="none"/>
   <polygon points="380,315 370,320 380,325" fill="#666"/>
   
-  <!-- VS text -->
+
   <circle cx="400" cy="310" r="25" fill="white" stroke="#666" stroke-width="2"/>
   <text x="400" y="318" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#666">
     VS

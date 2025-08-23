@@ -24,12 +24,12 @@
   
   <rect width="800" height="600" fill="#f8fafc"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e40af">
     Digitale Integrasjoner med Virksomhetsnummer
   </text>
   
-  <!-- Central hub -->
+
   <circle cx="400" cy="300" r="80" fill="url(#centerGrad)"/>
   <text x="400" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Virksomhetsnummer
@@ -41,7 +41,7 @@
     Digital Hub
   </text>
   
-  <!-- System 1: Regnskapssystem -->
+
   <rect x="80" y="120" width="140" height="100" fill="url(#systemGrad1)" rx="10"/>
   <text x="150" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     REGNSKAP
@@ -59,13 +59,13 @@
     • Fakturavalidering
   </text>
   
-  <!-- Connection line 1 -->
+
   <line x1="220" y1="170" x2="330" y2="250" stroke="#64748b" stroke-width="3"/>
   <text x="275" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b" transform="rotate(-35 275 205)">
     API Integration
   </text>
   
-  <!-- System 2: CRM -->
+
   <rect x="580" y="120" width="140" height="100" fill="url(#systemGrad2)" rx="10"/>
   <text x="650" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     CRM SYSTEM
@@ -80,13 +80,13 @@
     • Automatisk registrering
   </text>
   
-  <!-- Connection line 2 -->
+
   <line x1="580" y1="170" x2="470" y2="250" stroke="#64748b" stroke-width="3"/>
   <text x="525" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b" transform="rotate(35 525 205)">
     Real-time Lookup
   </text>
   
-  <!-- System 3: ERP -->
+
   <rect x="80" y="440" width="140" height="100" fill="url(#systemGrad3)" rx="10"/>
   <text x="150" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     ERP SYSTEM
@@ -101,13 +101,13 @@
     • Compliance-sjekk
   </text>
   
-  <!-- Connection line 3 -->
+
   <line x1="220" y1="490" x2="330" y2="350" stroke="#64748b" stroke-width="3"/>
   <text x="275" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b" transform="rotate(35 275 420)">
     Batch Processing
   </text>
   
-  <!-- System 4: Offentlige API-er -->
+
   <rect x="580" y="440" width="140" height="100" fill="url(#systemGrad4)" rx="10"/>
   <text x="650" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     OFFENTLIGE
@@ -125,13 +125,13 @@
     • MVA-validering
   </text>
   
-  <!-- Connection line 4 -->
+
   <line x1="580" y1="490" x2="470" y2="350" stroke="#64748b" stroke-width="3"/>
   <text x="525" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b" transform="rotate(-35 525 420)">
     Validation Service
   </text>
   
-  <!-- Top integration benefits -->
+
   <rect x="250" y="80" width="300" height="60" fill="white" stroke="#cbd5e1" stroke-width="1" rx="8"/>
   <text x="400" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e40af">
     Integrasjonsfordeler
@@ -143,7 +143,7 @@
     • Sanntidsvalidering av virksomhetsinformasjon
   </text>
   
-  <!-- Process flow -->
+
   <rect x="240" y="350" width="320" height="80" fill="#dbeafe" stroke="#3b82f6" stroke-width="1" rx="8"/>
   <text x="400" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e40af">
     Automatisert Prosessflyt
@@ -159,7 +159,7 @@
     3. <tspan font-weight="bold">Oppdatering:</tspan> Automatisk fylling av firmadata
   </text>
   
-  <!-- Bottom technology details -->
+
   <rect x="50" y="560" width="700" height="35" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1" rx="5"/>
   <text x="400" y="580" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">
     Teknologier: REST API • JSON • OAuth 2.0 • Webhook • Real-time Sync • Batch Processing

@@ -5,18 +5,18 @@
     .profit { fill: #2196F3; }
     .label { font: 14px sans-serif; text-anchor: middle; }
   </style>
-  <!-- Akser -->
+
   <line x1="80" y1="280" x2="520" y2="280" stroke="#000"/>
   <line x1="80" y1="80" x2="80" y2="280" stroke="#000"/>
-  <!-- Stolper -->
+
   <rect class="bar" x="150" y="80" width="50" height="200"/>
   <rect class="cost" x="300" y="150" width="50" height="130"/>
   <rect class="profit" x="450" y="210" width="50" height="70"/>
-  <!-- Verditekster -->
+
   <text class="label" x="175" y="75">100%</text>
   <text class="label" x="325" y="145">65%</text>
   <text class="label" x="475" y="205">35%</text>
-  <!-- Undertekst -->
+
   <text class="label" x="175" y="295">Inntekter</text>
   <text class="label" x="325" y="295">Kostnader</text>
   <text class="label" x="475" y="295">Bunnlinje</text>

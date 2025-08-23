@@ -14,18 +14,18 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
     Forretningsførerens Rapporteringsansvar
   </text>
   
-  <!-- Central figure - Forretningsfører -->
+
   <circle cx="400" cy="300" r="60" fill="url(#centerGradient)" stroke="#1e7e34" stroke-width="3"/>
   <text x="400" y="305" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
     FORRETNINGS-
@@ -34,10 +34,10 @@
     FØRER
   </text>
   
-  <!-- A-melding (Top Left) -->
+
   <g transform="translate(100, 100)">
     <rect x="0" y="0" width="180" height="100" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="10"/>
-    <!-- Calendar icon -->
+
     <rect x="20" y="20" width="30" height="25" fill="#1976d2" rx="2"/>
     <rect x="22" y="25" width="26" height="18" fill="white"/>
     <line x1="25" y1="30" x2="45" y2="30" stroke="#1976d2" stroke-width="1"/>
@@ -57,10 +57,10 @@
     </text>
   </g>
   
-  <!-- MVA-melding (Top Right) -->
+
   <g transform="translate(520, 100)">
     <rect x="0" y="0" width="180" height="100" fill="#f3e5f5" stroke="#7b1fa2" stroke-width="2" rx="10"/>
-    <!-- Percentage icon -->
+
     <circle cx="35" cy="35" r="15" fill="#7b1fa2"/>
     <text x="35" y="40" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
       %
@@ -80,10 +80,10 @@
     </text>
   </g>
   
-  <!-- Årsoppgave (Bottom Left) -->
+
   <g transform="translate(100, 450)">
     <rect x="0" y="0" width="180" height="100" fill="#fff3e0" stroke="#f57c00" stroke-width="2" rx="10"/>
-    <!-- Document icon -->
+
     <rect x="20" y="20" width="25" height="30" fill="#f57c00" rx="2"/>
     <line x1="23" y1="28" x2="42" y2="28" stroke="white" stroke-width="1"/>
     <line x1="23" y1="33" x2="42" y2="33" stroke="white" stroke-width="1"/>
@@ -104,10 +104,10 @@
     </text>
   </g>
   
-  <!-- Altinn (Bottom Right) -->
+
   <g transform="translate(520, 450)">
     <rect x="0" y="0" width="180" height="100" fill="#e8f5e8" stroke="#388e3c" stroke-width="2" rx="10"/>
-    <!-- Computer icon -->
+
     <rect x="20" y="25" width="30" height="20" fill="#388e3c" rx="2"/>
     <rect x="22" y="27" width="26" height="14" fill="white"/>
     <rect x="32" y="45" width="6" height="3" fill="#388e3c"/>
@@ -126,10 +126,10 @@
     </text>
   </g>
   
-  <!-- Årsregnskap (Left) -->
+
   <g transform="translate(50, 250)">
     <rect x="0" y="0" width="160" height="100" fill="#fce4ec" stroke="#c2185b" stroke-width="2" rx="10"/>
-    <!-- Chart icon -->
+
     <rect x="20" y="35" width="4" height="15" fill="#c2185b"/>
     <rect x="28" y="30" width="4" height="20" fill="#c2185b"/>
     <rect x="36" y="25" width="4" height="25" fill="#c2185b"/>
@@ -149,10 +149,10 @@
     </text>
   </g>
   
-  <!-- Revisjonsberetning (Right) -->
+
   <g transform="translate(590, 250)">
     <rect x="0" y="0" width="160" height="100" fill="#f1f8e9" stroke="#689f38" stroke-width="2" rx="10"/>
-    <!-- Checkmark icon -->
+
     <circle cx="35" cy="35" r="15" fill="#689f38"/>
     <path d="M28 35 L33 40 L42 30" stroke="white" stroke-width="2" fill="none"/>
     
@@ -170,35 +170,35 @@
     </text>
   </g>
   
-  <!-- Connecting arrows -->
+
   <g stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)">
     <defs>
       <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
         <polygon points="0 0, 10 3.5, 0 7" fill="#6c757d"/>
       </marker>
     </defs>
-    <!-- To A-melding -->
+
     <line x1="350" y1="260" x2="250" y2="180"/>
-    <!-- To MVA-melding -->
+
     <line x1="450" y1="260" x2="550" y2="180"/>
-    <!-- To Årsoppgave -->
+
     <line x1="350" y1="340" x2="250" y2="470"/>
-    <!-- To Altinn -->
+
     <line x1="450" y1="340" x2="550" y2="470"/>
-    <!-- To Årsregnskap -->
+
     <line x1="340" y1="300" x2="210" y2="300"/>
-    <!-- To Revisjon -->
+
     <line x1="460" y1="300" x2="590" y2="300"/>
   </g>
   
-  <!-- Timeline at bottom -->
+
   <g transform="translate(50, 570)">
     <text x="350" y="0" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#212529">
       Rapporteringskalender
     </text>
     <line x1="0" y1="10" x2="700" y2="10" stroke="#6c757d" stroke-width="2"/>
     
-    <!-- Monthly markers -->
+
     <text x="0" y="25" font-family="Arial, sans-serif" font-size="10" text-anchor="start" fill="#6c757d">
       Månedlig: A-melding (5.), MVA-melding (10.)
     </text>

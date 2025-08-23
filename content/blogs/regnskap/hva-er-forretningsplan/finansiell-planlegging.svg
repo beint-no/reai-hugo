@@ -18,22 +18,22 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#212529">
     Finansiell Planlegging i Forretningsplan
   </text>
   
-  <!-- Results Budget -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="200" height="150" fill="url(#budgetGradient)" stroke="#155724" stroke-width="3" rx="10"/>
     <text x="100" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
       Resultatbudsjett
     </text>
     
-    <!-- Income section -->
+
     <rect x="10" y="40" width="180" height="45" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.5)" stroke-width="1" rx="5"/>
     <text x="100" y="55" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
       Inntektsprognoser
@@ -41,7 +41,7 @@
     <text x="15" y="70" font-family="Arial, sans-serif" font-size="9" fill="white">• Salgsinntekter</text>
     <text x="15" y="80" font-family="Arial, sans-serif" font-size="9" fill="white">• Andre driftsinntekter</text>
     
-    <!-- Cost section -->
+
     <rect x="10" y="95" width="180" height="45" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.5)" stroke-width="1" rx="5"/>
     <text x="100" y="110" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
       Kostnadsprognoser
@@ -50,24 +50,24 @@
     <text x="15" y="135" font-family="Arial, sans-serif" font-size="9" fill="white">• Varekostnader</text>
   </g>
   
-  <!-- Liquidity Budget -->
+
   <g transform="translate(300, 80)">
     <rect x="0" y="0" width="200" height="150" fill="url(#liquidityGradient)" stroke="#0c5460" stroke-width="3" rx="10"/>
     <text x="100" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
       Likviditetsbudsjett
     </text>
     
-    <!-- Cash flow table -->
+
     <rect x="10" y="40" width="180" height="100" fill="rgba(255,255,255,0.9)" stroke="rgba(255,255,255,0.5)" stroke-width="1" rx="5"/>
     
-    <!-- Table header -->
+
     <rect x="15" y="45" width="170" height="15" fill="#0c5460"/>
     <text x="25" y="55" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="white">Måned</text>
     <text x="65" y="55" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="white">Inn</text>
     <text x="105" y="55" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="white">Ut</text>
     <text x="145" y="55" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="white">Saldo</text>
     
-    <!-- Table rows -->
+
     <text x="25" y="70" font-family="Arial, sans-serif" font-size="8" fill="#0c5460">Jan</text>
     <text x="65" y="70" font-family="Arial, sans-serif" font-size="8" fill="#0c5460">250k</text>
     <text x="105" y="70" font-family="Arial, sans-serif" font-size="8" fill="#0c5460">200k</text>
@@ -83,7 +83,7 @@
     <text x="105" y="94" font-family="Arial, sans-serif" font-size="8" fill="#0c5460">240k</text>
     <text x="145" y="94" font-family="Arial, sans-serif" font-size="8" fill="#0c5460">270k</text>
     
-    <!-- Critical factors -->
+
     <text x="100" y="115" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="white">
       Kritiske faktorer:
     </text>
@@ -91,14 +91,14 @@
     <text x="15" y="136" font-family="Arial, sans-serif" font-size="8" fill="white">• Sesongvariasjoner</text>
   </g>
   
-  <!-- Balance Budget -->
+
   <g transform="translate(550, 80)">
     <rect x="0" y="0" width="200" height="150" fill="url(#balanceGradient)" stroke="#856404" stroke-width="3" rx="10"/>
     <text x="100" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
       Balansebudsjett
     </text>
     
-    <!-- Assets section -->
+
     <rect x="10" y="40" width="180" height="45" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.5)" stroke-width="1" rx="5"/>
     <text x="100" y="55" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
       Eiendeler
@@ -106,7 +106,7 @@
     <text x="15" y="70" font-family="Arial, sans-serif" font-size="9" fill="white">• Omløpsmidler</text>
     <text x="15" y="80" font-family="Arial, sans-serif" font-size="9" fill="white">• Anleggsmidler</text>
     
-    <!-- Liabilities and Equity section -->
+
     <rect x="10" y="95" width="180" height="45" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.5)" stroke-width="1" rx="5"/>
     <text x="100" y="110" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
       Gjeld og Egenkapital
@@ -115,7 +115,7 @@
     <text x="15" y="135" font-family="Arial, sans-serif" font-size="9" fill="white">• Egenkapital</text>
   </g>
   
-  <!-- Integration arrows -->
+
   <g transform="translate(250, 155)">
     <path d="M0,0 L40,0 L35,-5 M40,0 L35,5" stroke="#6c757d" stroke-width="2" fill="none"/>
   </g>
@@ -124,16 +124,16 @@
     <path d="M0,0 L40,0 L35,-5 M40,0 L35,5" stroke="#6c757d" stroke-width="2" fill="none"/>
   </g>
   
-  <!-- Integration flow -->
+
   <g transform="translate(50, 280)">
     <rect x="0" y="0" width="700" height="180" fill="white" stroke="#dee2e6" stroke-width="2" rx="10"/>
     <text x="350" y="25" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#212529">
       Integrert Finansiell Planlegging
     </text>
     
-    <!-- Flow diagram -->
+
     <g transform="translate(50, 50)">
-      <!-- Step 1 -->
+
       <rect x="0" y="0" width="120" height="60" fill="#e8f5e8" stroke="#28a745" stroke-width="2" rx="5"/>
       <text x="60" y="20" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="#155724">
         1. Inntekts- og
@@ -146,12 +146,12 @@
       </text>
     </g>
     
-    <!-- Arrow -->
+
     <g transform="translate(170, 75)">
       <path d="M0,0 L40,0 L35,-5 M40,0 L35,5" stroke="#28a745" stroke-width="2" fill="none"/>
     </g>
     
-    <!-- Step 2 -->
+
     <g transform="translate(220, 50)">
       <rect x="0" y="0" width="120" height="60" fill="#d1ecf1" stroke="#17a2b8" stroke-width="2" rx="5"/>
       <text x="60" y="20" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="#0c5460">
@@ -165,12 +165,12 @@
       </text>
     </g>
     
-    <!-- Arrow -->
+
     <g transform="translate(340, 75)">
       <path d="M0,0 L40,0 L35,-5 M40,0 L35,5" stroke="#17a2b8" stroke-width="2" fill="none"/>
     </g>
     
-    <!-- Step 3 -->
+
     <g transform="translate(390, 50)">
       <rect x="0" y="0" width="120" height="60" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="5"/>
       <text x="60" y="20" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="#856404">
@@ -184,12 +184,12 @@
       </text>
     </g>
     
-    <!-- Arrow -->
+
     <g transform="translate(510, 75)">
       <path d="M0,0 L40,0 L35,-5 M40,0 L35,5" stroke="#ffc107" stroke-width="2" fill="none"/>
     </g>
     
-    <!-- Step 4 -->
+
     <g transform="translate(560, 50)">
       <rect x="0" y="0" width="120" height="60" fill="#f8d7da" stroke="#dc3545" stroke-width="2" rx="5"/>
       <text x="60" y="20" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="#721c24">
@@ -203,7 +203,7 @@
       </text>
     </g>
     
-    <!-- Key benefits -->
+
     <g transform="translate(50, 130)">
       <text x="300" y="0" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#495057">
         Nøkkelfordeler ved Integrert Planlegging

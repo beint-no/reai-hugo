@@ -10,19 +10,19 @@
     </radialGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="700" fill="#F8F9FA"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGrad)"/>
   <text x="400" y="38" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white" text-anchor="middle">INTERNKONTROLL FOR PENSJONSRAPPORTERING</text>
   
-  <!-- Central control hub -->
+
   <circle cx="400" cy="350" r="100" fill="url(#centralGrad)" stroke="#1976D2" stroke-width="3"/>
   <text x="400" y="340" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1565C0" text-anchor="middle">INTERNKONTROLL</text>
   <text x="400" y="360" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1565C0" text-anchor="middle">PENSJON</text>
   
-  <!-- Control Environment (Top Left) -->
+
   <g transform="translate(80, 120)">
     <rect x="0" y="0" width="200" height="120" fill="#E8F5E8" stroke="#4CAF50" stroke-width="2" rx="8"/>
     <text x="100" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2E7D32" text-anchor="middle">KONTROLLMILJØ</text>
@@ -33,7 +33,7 @@
     <text x="10" y="105" font-family="Arial, sans-serif" font-size="11" fill="#333">• Ledelsens holdning</text>
   </g>
   
-  <!-- Risk Assessment (Top Right) -->
+
   <g transform="translate(520, 120)">
     <rect x="0" y="0" width="200" height="120" fill="#FFEBEE" stroke="#E91E63" stroke-width="2" rx="8"/>
     <text x="100" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#C2185B" text-anchor="middle">RISIKOVURDERING</text>
@@ -44,7 +44,7 @@
     <text x="10" y="105" font-family="Arial, sans-serif" font-size="11" fill="#333">• Systemrisiko</text>
   </g>
   
-  <!-- Control Activities (Bottom Left) -->
+
   <g transform="translate(80, 480)">
     <rect x="0" y="0" width="200" height="140" fill="#FFF3E0" stroke="#FF9800" stroke-width="2" rx="8"/>
     <text x="100" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#F57C00" text-anchor="middle">KONTROLLAKTIVITETER</text>
@@ -56,7 +56,7 @@
     <text x="10" y="120" font-family="Arial, sans-serif" font-size="11" fill="#333">• Dokumentasjonskrav</text>
   </g>
   
-  <!-- Monitoring (Bottom Right) -->
+
   <g transform="translate(520, 480)">
     <rect x="0" y="0" width="200" height="140" fill="#F3E5F5" stroke="#9C27B0" stroke-width="2" rx="8"/>
     <text x="100" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#7B1FA2" text-anchor="middle">OVERVÅKING</text>
@@ -68,7 +68,7 @@
     <text x="10" y="120" font-family="Arial, sans-serif" font-size="11" fill="#333">• Forbedringer</text>
   </g>
   
-  <!-- Information & Communication (Middle) -->
+
   <g transform="translate(300, 280)">
     <rect x="0" y="0" width="200" height="80" fill="#E1F5FE" stroke="#0288D1" stroke-width="2" rx="8"/>
     <text x="100" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0277BD" text-anchor="middle">INFORMASJON &amp;</text>
@@ -77,21 +77,21 @@
     <text x="10" y="70" font-family="Arial, sans-serif" font-size="11" fill="#333">• Kommunikasjonsflyt</text>
   </g>
   
-  <!-- Arrows connecting to center -->
+
   <path d="M 220 180 L 330 300" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 580 180 L 470 300" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 220 520 L 330 400" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 580 520 L 470 400" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 400 280 L 400 250" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrowhead" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
       <polygon points="0 0, 8 3, 0 6" fill="#666"/>
     </marker>
   </defs>
   
-  <!-- Key control points -->
+
   <g transform="translate(50, 260)">
     <rect x="0" y="0" width="180" height="200" fill="#F5F5F5" stroke="#9E9E9E" stroke-width="1" rx="5"/>
     <text x="90" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#424242" text-anchor="middle">NØKKELKONTROLLER</text>
@@ -137,7 +137,7 @@
     </g>
   </g>
   
-  <!-- Control frequency -->
+
   <g transform="translate(570, 260)">
     <rect x="0" y="0" width="180" height="200" fill="#F5F5F5" stroke="#9E9E9E" stroke-width="1" rx="5"/>
     <text x="90" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#424242" text-anchor="middle">KONTROLLFREKVENS</text>
@@ -166,7 +166,7 @@
     </g>
   </g>
   
-  <!-- Bottom compliance note -->
+
   <g transform="translate(250, 650)">
     <rect x="0" y="0" width="300" height="30" fill="#FFECB3" stroke="#FF8F00" stroke-width="1" rx="5"/>
     <text x="150" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#E65100" text-anchor="middle">Systematisk tilnærming sikrer pålitelig pensjonsrapportering</text>

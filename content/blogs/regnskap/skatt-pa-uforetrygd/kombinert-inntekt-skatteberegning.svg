@@ -14,21 +14,21 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8fafc"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
     Skatteberegning ved kombinert inntekt - Lønn + Uføretrygd
   </text>
   
-  <!-- Income overview -->
+
   <g transform="translate(50, 70)">
     <text x="0" y="20" fill="#1f2937" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
       Inntektsfordeling (50% arbeid + 50% uføretrygd)
     </text>
     
-    <!-- Wage income -->
+
     <rect x="0" y="40" width="200" height="80" rx="8" fill="url(#wageGrad)" stroke="#1e40af" stroke-width="2"/>
     <text x="100" y="65" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       Arbeidslønn
@@ -40,12 +40,12 @@
       40% stilling
     </text>
     
-    <!-- Plus sign -->
+
     <text x="225" y="85" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
       +
     </text>
     
-    <!-- Disability benefit -->
+
     <rect x="250" y="40" width="200" height="80" rx="8" fill="url(#disabilityGrad)" stroke="#059669" stroke-width="2"/>
     <text x="350" y="65" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       Uføretrygd
@@ -57,12 +57,12 @@
       50% uførhet
     </text>
     
-    <!-- Equals sign -->
+
     <text x="475" y="85" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
       =
     </text>
     
-    <!-- Total income -->
+
     <rect x="500" y="40" width="200" height="80" rx="8" fill="url(#totalGrad)" stroke="#dc2626" stroke-width="2"/>
     <text x="600" y="65" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       Total inntekt
@@ -75,13 +75,13 @@
     </text>
   </g>
   
-  <!-- Tax calculation breakdown -->
+
   <g transform="translate(50, 200)">
     <text x="0" y="20" fill="#1f2937" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
       Detaljert skatteberegning
     </text>
     
-    <!-- Social security tax section -->
+
     <rect x="0" y="40" width="350" height="140" rx="8" fill="#f1f5f9" stroke="#64748b" stroke-width="1"/>
     <text x="175" y="65" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       Trygdeavgift (beregnes separat)
@@ -100,7 +100,7 @@
       Besparelse vs. full lønn: 6.300 kr
     </text>
     
-    <!-- Income tax section -->
+
     <rect x="400" y="40" width="350" height="140" rx="8" fill="#f1f5f9" stroke="#64748b" stroke-width="1"/>
     <text x="575" y="65" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       Ordinær skatt (samlet beregning)
@@ -120,7 +120,7 @@
     </text>
   </g>
   
-  <!-- Final calculation -->
+
   <g transform="translate(50, 390)">
     <text x="0" y="20" fill="#1f2937" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
       Sammendrag skatteberegning
@@ -128,7 +128,7 @@
     
     <rect x="0" y="40" width="700" height="120" rx="8" fill="#fee2e2" stroke="#dc2626" stroke-width="2"/>
     
-    <!-- Left column -->
+
     <text x="20" y="70" fill="#374151" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       Skattekomponenter:
     </text>
@@ -142,7 +142,7 @@
       Total skatt: 110.780 kr
     </text>
     
-    <!-- Right column -->
+
     <text x="380" y="70" fill="#374151" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       Nettoinntekt:
     </text>
@@ -157,7 +157,7 @@
     </text>
   </g>
   
-  <!-- Comparison table -->
+
   <g transform="translate(50, 530)">
     <text x="0" y="20" fill="#1f2937" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       Sammenligning med alternativ (100% lønn):

@@ -10,21 +10,21 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#212529">
     Fremtidige Trender innen Marginalskatt
   </text>
   
-  <!-- Timeline arrow -->
+
   <path d="M 100 100 L 700 100" stroke="#495057" stroke-width="4" fill="none" marker-end="url(#timelineArrow)"/>
   <text x="400" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#6c757d">
     Tidslinje
   </text>
   
-  <!-- Current state -->
+
   <circle cx="150" cy="100" r="15" fill="#28a745"/>
   <text x="150" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#28a745">
     I DAG
@@ -46,7 +46,7 @@
     • Tradisjonell rapportering
   </text>
   
-  <!-- Near future -->
+
   <circle cx="350" cy="100" r="15" fill="#ffc107"/>
   <text x="350" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#f57c00">
     2025-2030
@@ -71,7 +71,7 @@
     • Grenseoverskridende koordinering
   </text>
   
-  <!-- Far future -->
+
   <circle cx="650" cy="100" r="15" fill="url(#futureGradient)"/>
   <text x="650" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#6f42c1">
     2030+
@@ -96,7 +96,7 @@
     • Kryptovaluta-integrering
   </text>
   
-  <!-- Political discussions -->
+
   <rect x="50" y="280" width="340" height="140" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="10"/>
   <text x="220" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#856404">
     POLITISKE DISKUSJONER
@@ -122,7 +122,7 @@
     • Klimaomstilling og grønne investeringer
   </text>
   
-  <!-- Technology impact -->
+
   <rect x="410" y="280" width="340" height="140" fill="#e3f2fd" stroke="#2196f3" stroke-width="2" rx="10"/>
   <text x="580" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1976d2">
     TEKNOLOGISKE ENDRINGER
@@ -148,7 +148,7 @@
     • Robotskatt og automatiseringsavgifter
   </text>
   
-  <!-- Challenges -->
+
   <rect x="100" y="440" width="600" height="120" fill="#f8d7da" stroke="#dc3545" stroke-width="2" rx="10"/>
   <text x="400" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#721c24">
     UTFORDRINGER FOR FREMTIDEN
@@ -180,7 +180,7 @@
     • Etiske aspekter ved AI-basert beskatning
   </text>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="timelineArrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#495057"/>

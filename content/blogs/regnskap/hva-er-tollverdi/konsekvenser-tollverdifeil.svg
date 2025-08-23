@@ -1,20 +1,20 @@
 <svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Konsekvenser ved Tollverdifeil
   </text>
   
-  <!-- Central Error Symbol -->
+
   <circle cx="400" cy="150" r="40" fill="#e74c3c" stroke="#c0392b" stroke-width="3"/>
   <text x="400" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="bold" fill="white">!</text>
   <text x="400" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
     Feil i tollverdi
   </text>
   
-  <!-- Consequence 1: Etterberegning -->
+
   <g transform="translate(100, 280)">
     <rect x="0" y="0" width="140" height="80" rx="10" fill="#3498db" stroke="#2980b9" stroke-width="2"/>
     <text x="70" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
@@ -28,7 +28,7 @@
     </text>
   </g>
   
-  <!-- Consequence 2: Renter -->
+
   <g transform="translate(280, 280)">
     <rect x="0" y="0" width="140" height="80" rx="10" fill="#e67e22" stroke="#d35400" stroke-width="2"/>
     <text x="70" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
@@ -42,7 +42,7 @@
     </text>
   </g>
   
-  <!-- Consequence 3: Overtredelsesgebyr -->
+
   <g transform="translate(460, 280)">
     <rect x="0" y="0" width="140" height="80" rx="10" fill="#9b59b6" stroke="#8e44ad" stroke-width="2"/>
     <text x="70" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
@@ -56,7 +56,7 @@
     </text>
   </g>
   
-  <!-- Consequence 4: Inndraging -->
+
   <g transform="translate(290, 400)">
     <rect x="0" y="0" width="140" height="80" rx="10" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
     <text x="70" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
@@ -70,26 +70,26 @@
     </text>
   </g>
   
-  <!-- Arrows from center to consequences -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>
     </marker>
   </defs>
   
-  <!-- Arrow to Etterberegning -->
+
   <line x1="370" y1="180" x2="200" y2="270" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow to Renter -->
+
   <line x1="400" y1="190" x2="350" y2="270" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow to Overtredelsesgebyr -->
+
   <line x1="430" y1="180" x2="500" y2="270" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow to Inndraging -->
+
   <line x1="400" y1="190" x2="360" y2="390" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
   
-  <!-- Warning box -->
+
   <rect x="50" y="520" width="700" height="60" rx="10" fill="#fff3cd" stroke="#ffeaa7" stroke-width="2"/>
   <text x="70" y="540" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#856404">
     ⚠️ Viktig: Konsekvensene kan være betydelige og påvirke bedriftens økonomi og omdømme
@@ -98,7 +98,7 @@
     Korrekt tollverdiberegning og dokumentasjon er avgjørende for å unngå disse problemene
   </text>
   
-  <!-- Cost indicators -->
+
   <g transform="translate(620, 280)">
     <rect x="0" y="0" width="120" height="100" rx="10" fill="#f39c12" stroke="#e67e22" stroke-width="2"/>
     <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
@@ -118,7 +118,7 @@
     </text>
   </g>
   
-  <!-- Timeline indicator -->
+
   <text x="70" y="500" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
     Tidslinje: Konsekvensene kan oppstå måneder eller år etter import
   </text>

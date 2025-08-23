@@ -22,16 +22,16 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
   <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
     ROI Analyse - Datakasse Investering
   </text>
   
-  <!-- Investment Costs -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="340" height="180" rx="10" fill="white" stroke="#ddd" stroke-width="1"/>
     <rect x="0" y="0" width="340" height="40" rx="10" fill="url(#investmentGradient)"/>
@@ -67,14 +67,14 @@
       </text>
     </g>
     
-    <!-- Total Investment -->
+
     <rect x="20" y="140" width="300" height="25" rx="5" fill="#ffebee"/>
     <text x="170" y="157" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#d32f2f">
       Total første år: 104 000 kr
     </text>
   </g>
   
-  <!-- Cost Savings -->
+
   <g transform="translate(410, 80)">
     <rect x="0" y="0" width="340" height="180" rx="10" fill="white" stroke="#ddd" stroke-width="1"/>
     <rect x="0" y="0" width="340" height="40" rx="10" fill="url(#savingsGradient)"/>
@@ -107,14 +107,14 @@
       </text>
     </g>
     
-    <!-- Total Savings -->
+
     <rect x="20" y="140" width="300" height="25" rx="5" fill="#e8f5e8"/>
     <text x="170" y="157" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2e7d32">
       Total årlige besparelser: 135 000 kr
     </text>
   </g>
   
-  <!-- ROI Calculation -->
+
   <g transform="translate(50, 280)">
     <rect x="0" y="0" width="700" height="120" rx="10" fill="white" stroke="#ddd" stroke-width="1"/>
     <rect x="0" y="0" width="700" height="40" rx="10" fill="url(#roiGradient)"/>
@@ -123,17 +123,17 @@
     </text>
     
     <g transform="translate(30, 50)">
-      <!-- ROI Formula -->
+
       <text x="0" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
         ROI Formel: (Årlige besparelser - Årlige kostnader) / Total investering × 100
       </text>
       
-      <!-- Calculation -->
+
       <text x="0" y="45" font-family="Arial, sans-serif" font-size="11" fill="#666">
         ROI = (135 000 kr - 24 000 kr) / 80 000 kr × 100 = 138.8%
       </text>
       
-      <!-- Payback period -->
+
       <text x="400" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
         Tilbakebetalingstid:
       </text>
@@ -141,7 +141,7 @@
         80 000 kr ÷ 111 000 kr/år = 8.6 måneder
       </text>
       
-      <!-- Key metrics -->
+
       <rect x="0" y="55" width="640" height="25" rx="5" fill="#fff3e0"/>
       <text x="320" y="72" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#ef6c00">
         🎯 Netto årlig gevinst: 111 000 kr | ROI: 138.8% | Tilbakebetaling: 8.6 måneder
@@ -149,7 +149,7 @@
     </g>
   </g>
   
-  <!-- ROI Timeline Chart -->
+
   <g transform="translate(50, 420)">
     <rect x="0" y="0" width="700" height="140" rx="10" fill="white" stroke="#ddd" stroke-width="1"/>
     <rect x="0" y="0" width="700" height="40" rx="10" fill="url(#chartGradient)"/>
@@ -157,26 +157,26 @@
       📈 Kumulativ ROI over 3 år
     </text>
     
-    <!-- Chart area -->
+
     <g transform="translate(50, 60)">
-      <!-- Axes -->
+
       <line x1="0" y1="60" x2="600" y2="60" stroke="#333" stroke-width="2"/>
       <line x1="0" y1="0" x2="0" y2="60" stroke="#333" stroke-width="2"/>
       
-      <!-- Year labels -->
+
       <text x="100" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">År 1</text>
       <text x="300" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">År 2</text>
       <text x="500" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">År 3</text>
       
-      <!-- ROI line -->
+
       <path d="M0 60 L100 45 L300 15 L500 5" stroke="url(#savingsGradient)" stroke-width="3" fill="none"/>
       
-      <!-- Data points -->
+
       <circle cx="100" cy="45" r="4" fill="url(#savingsGradient)"/>
       <circle cx="300" cy="15" r="4" fill="url(#savingsGradient)"/>
       <circle cx="500" cy="5" r="4" fill="url(#savingsGradient)"/>
       
-      <!-- Value labels -->
+
       <text x="100" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2e7d32" font-weight="bold">
         111k kr
       </text>
@@ -187,13 +187,13 @@
         381k kr
       </text>
       
-      <!-- Break-even line -->
+
       <line x1="0" y1="50" x2="600" y2="50" stroke="#ff9800" stroke-width="1" stroke-dasharray="5,5"/>
       <text x="610" y="53" font-family="Arial, sans-serif" font-size="9" fill="#ff9800">Break-even</text>
     </g>
   </g>
   
-  <!-- Key Benefits Summary -->
+
   <g transform="translate(50, 570)">
     <rect x="0" y="0" width="700" height="25" rx="5" fill="url(#savingsGradient)"/>
     <text x="350" y="17" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">

@@ -10,18 +10,18 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f8fafc"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="24" font-weight="bold">Komponenter i Anskaffelseskost</text>
   
-  <!-- Left side - INKLUDERES -->
+
   <rect x="50" y="60" width="320" height="400" fill="#ffffff" stroke="#10b981" stroke-width="3" rx="10"/>
   <rect x="50" y="60" width="320" height="50" fill="url(#includeGradient)" rx="10"/>
   <text x="210" y="90" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="18" font-weight="bold">✓ INKLUDERES</text>
   
-  <!-- Include items -->
+
   <g transform="translate(70, 130)">
     <rect x="0" y="0" width="280" height="35" fill="#d1fae5" stroke="#10b981" stroke-width="1" rx="5"/>
     <text x="10" y="25" fill="#065f46" font-family="Arial, sans-serif" font-size="14" font-weight="bold">• Kjøpspris (netto)</text>
@@ -45,12 +45,12 @@
     <text x="10" y="295" fill="#065f46" font-family="Arial, sans-serif" font-size="14" font-weight="bold">• Klargjøringskostnader</text>
   </g>
   
-  <!-- Right side - EKSKLUDERES -->
+
   <rect x="430" y="60" width="320" height="400" fill="#ffffff" stroke="#ef4444" stroke-width="3" rx="10"/>
   <rect x="430" y="60" width="320" height="50" fill="url(#excludeGradient)" rx="10"/>
   <text x="590" y="90" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="18" font-weight="bold">✗ EKSKLUDERES</text>
   
-  <!-- Exclude items -->
+
   <g transform="translate(450, 130)">
     <rect x="0" y="0" width="280" height="35" fill="#fee2e2" stroke="#ef4444" stroke-width="1" rx="5"/>
     <text x="10" y="25" fill="#7f1d1d" font-family="Arial, sans-serif" font-size="14" font-weight="bold">• Administrasjonskostnader</text>
@@ -74,7 +74,7 @@
     <text x="10" y="295" fill="#7f1d1d" font-family="Arial, sans-serif" font-size="14" font-weight="bold">• Forsikringspremier</text>
   </g>
   
-  <!-- Bottom note -->
+
   <rect x="100" y="480" width="600" height="15" fill="#fef3c7"/>
   <text x="400" y="490" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="12" font-style="italic">Kun kostnader som er direkte nødvendige for å få eiendelen klar til bruk inkluderes</text>
 </svg>

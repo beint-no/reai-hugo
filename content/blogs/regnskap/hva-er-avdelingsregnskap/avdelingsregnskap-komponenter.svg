@@ -1,13 +1,13 @@
 <svg width="600" height="500" viewBox="0 0 600 500" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="600" height="500" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="300" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c3e50">
     Avdelingsregnskapets Hovedkomponenter
   </text>
   
-  <!-- Central circle -->
+
   <circle cx="300" cy="250" r="80" fill="#3498db" opacity="0.8"/>
   <text x="300" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     AVDELINGS-
@@ -16,7 +16,7 @@
     REGNSKAP
   </text>
   
-  <!-- Component 1: Lønnsomhet -->
+
   <rect x="80" y="80" width="140" height="80" fill="#e74c3c" opacity="0.8" rx="10"/>
   <text x="150" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     LØNNSOMHET
@@ -28,7 +28,7 @@
     • Marginanalyse
   </text>
   
-  <!-- Component 2: Kostnadseffektivitet -->
+
   <rect x="380" y="80" width="140" height="80" fill="#27ae60" opacity="0.8" rx="10"/>
   <text x="450" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     KOSTNADS-
@@ -43,7 +43,7 @@
     • Ressursbruk
   </text>
   
-  <!-- Component 3: Ressursallokering -->
+
   <rect x="80" y="340" width="140" height="80" fill="#f39c12" opacity="0.8" rx="10"/>
   <text x="150" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     RESSURS-
@@ -55,7 +55,7 @@
     • Budsjettfordeling
   </text>
   
-  <!-- Component 4: Prestasjonsmåling -->
+
   <rect x="380" y="340" width="140" height="80" fill="#9b59b6" opacity="0.8" rx="10"/>
   <text x="450" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     PRESTASJONS-
@@ -67,30 +67,30 @@
     • KPI-oppfølging
   </text>
   
-  <!-- Connecting lines -->
+
   <line x1="220" y1="120" x2="260" y2="200" stroke="#2c3e50" stroke-width="2"/>
   <line x1="380" y1="120" x2="340" y2="200" stroke="#2c3e50" stroke-width="2"/>
   <line x1="220" y1="380" x2="260" y2="300" stroke="#2c3e50" stroke-width="2"/>
   <line x1="380" y1="380" x2="340" y2="300" stroke="#2c3e50" stroke-width="2"/>
   
-  <!-- Process flow arrows -->
+
   <path d="M 150 160 Q 300 180 450 160" stroke="#34495e" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 450 340 Q 300 320 150 340" stroke="#34495e" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Benefits box -->
+
   <rect x="200" y="450" width="200" height="40" fill="#34495e" rx="5"/>
   <text x="300" y="475" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     Bedre styring og kontroll
   </text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>
     </marker>
   </defs>
   
-  <!-- Legend -->
+
   <text x="50" y="480" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">
     Fire hovedområder som avdelingsregnskap gir innsikt i
   </text>

@@ -1,49 +1,49 @@
 <svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">Konsernstruktur</text>
   
-  <!-- Morselskap (Parent Company) -->
+
   <rect x="300" y="80" width="200" height="80" rx="10" fill="#3498db" stroke="#2980b9" stroke-width="2"/>
   <text x="400" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">MORSELSKAP</text>
   <text x="400" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">Bestemmende innflytelse</text>
   <text x="400" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">&gt; 50% eierskap</text>
   
-  <!-- Arrows from parent to subsidiaries -->
+
   <line x1="350" y1="160" x2="200" y2="220" stroke="#34495e" stroke-width="3" marker-end="url(#arrowhead)"/>
   <line x1="400" y1="160" x2="400" y2="220" stroke="#34495e" stroke-width="3" marker-end="url(#arrowhead)"/>
   <line x1="450" y1="160" x2="600" y2="220" stroke="#34495e" stroke-width="3" marker-end="url(#arrowhead)"/>
   
-  <!-- Datterselskap 1 (Subsidiary 1) -->
+
   <rect x="100" y="240" width="160" height="70" rx="8" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
   <text x="180" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">DATTERSELSKAP 1</text>
   <text x="180" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Produksjon</text>
   <text x="180" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">100% eid</text>
   
-  <!-- Datterselskap 2 (Subsidiary 2) -->
+
   <rect x="320" y="240" width="160" height="70" rx="8" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
   <text x="400" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">DATTERSELSKAP 2</text>
   <text x="400" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Salg &amp; Markedsføring</text>
   <text x="400" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">80% eid</text>
   
-  <!-- Datterselskap 3 (Subsidiary 3) -->
+
   <rect x="540" y="240" width="160" height="70" rx="8" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
   <text x="620" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">DATTERSELSKAP 3</text>
   <text x="620" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Eiendom</text>
   <text x="620" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">75% eid</text>
   
-  <!-- Arrow from Datterselskap 2 to Barnebarn -->
+
   <line x1="400" y1="310" x2="400" y2="360" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
   
-  <!-- Barnebarn-selskap (Grandchild company) -->
+
   <rect x="320" y="380" width="160" height="60" rx="6" fill="#f39c12" stroke="#e67e22" stroke-width="2"/>
   <text x="400" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="white">BARNEBARN-SELSKAP</text>
   <text x="400" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">IT-tjenester</text>
   <text x="400" y="432" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">100% eid av Datterselskap 2</text>
   
-  <!-- Legend -->
+
   <rect x="50" y="360" width="200" height="120" rx="5" fill="white" stroke="#bdc3c7" stroke-width="1"/>
   <text x="150" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">Forklaring:</text>
   
@@ -59,7 +59,7 @@
   <line x1="60" y1="455" x2="85" y2="455" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
   <text x="95" y="460" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Eierskap</text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>

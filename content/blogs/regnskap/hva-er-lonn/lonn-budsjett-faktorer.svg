@@ -10,19 +10,19 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#ffffff"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
   <text x="400" y="38" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="bold">Faktorer i Lønnsbudsjett Planlegging</text>
   
-  <!-- Central budget circle -->
+
   <circle cx="400" cy="320" r="80" fill="#dbeafe" stroke="#2563eb" stroke-width="3"/>
   <text x="400" y="315" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="16" font-weight="bold">LØNNS-</text>
   <text x="400" y="335" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="16" font-weight="bold">BUDSJETT</text>
   
-  <!-- Factor 1: Number of employees -->
+
   <rect x="50" y="120" width="180" height="100" fill="url(#factorGradient)" stroke="#0ea5e9" stroke-width="2" rx="8"/>
   <text x="140" y="145" text-anchor="middle" fill="#0c4a6e" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Antall Ansatte</text>
   <text x="140" y="165" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12">• Heltidsansatte</text>
@@ -30,10 +30,10 @@
   <text x="140" y="195" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12">• Stillingsprosenter</text>
   <text x="140" y="210" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12">• Sesongvariasjoner</text>
   
-  <!-- Arrow from factor 1 to center -->
+
   <path d="M 240 170 L 320 250" stroke="#6b7280" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Factor 2: Salary levels -->
+
   <rect x="570" y="120" width="180" height="100" fill="url(#factorGradient)" stroke="#0ea5e9" stroke-width="2" rx="8"/>
   <text x="660" y="145" text-anchor="middle" fill="#0c4a6e" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Lønnsnivå</text>
   <text x="660" y="165" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12">• Grunnlønn</text>
@@ -41,10 +41,10 @@
   <text x="660" y="195" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12">• Lønnsøkninger</text>
   <text x="660" y="210" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12">• Inflasjonsjustering</text>
   
-  <!-- Arrow from factor 2 to center -->
+
   <path d="M 560 170 L 480 250" stroke="#6b7280" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Factor 3: Recruitment needs -->
+
   <rect x="50" y="450" width="180" height="100" fill="url(#factorGradient)" stroke="#0ea5e9" stroke-width="2" rx="8"/>
   <text x="140" y="475" text-anchor="middle" fill="#0c4a6e" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Rekrutteringsbehov</text>
   <text x="140" y="495" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12">• Nyansettelser</text>
@@ -52,10 +52,10 @@
   <text x="140" y="525" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12">• Kompetansebehov</text>
   <text x="140" y="540" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12">• Markedslønn</text>
   
-  <!-- Arrow from factor 3 to center -->
+
   <path d="M 240 450 L 320 390" stroke="#6b7280" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Factor 4: Additional costs -->
+
   <rect x="570" y="450" width="180" height="100" fill="url(#factorGradient)" stroke="#0ea5e9" stroke-width="2" rx="8"/>
   <text x="660" y="475" text-anchor="middle" fill="#0c4a6e" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Tilleggskostnader</text>
   <text x="660" y="495" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12">• Arbeidsgiveravgift</text>
@@ -63,30 +63,30 @@
   <text x="660" y="525" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12">• Forsikringer</text>
   <text x="660" y="540" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12">• Feriepenger</text>
   
-  <!-- Arrow from factor 4 to center -->
+
   <path d="M 560 450 L 480 390" stroke="#6b7280" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Factor 5: Business growth -->
+
   <rect x="310" y="80" width="180" height="80" fill="url(#factorGradient)" stroke="#0ea5e9" stroke-width="2" rx="8"/>
   <text x="400" y="105" text-anchor="middle" fill="#0c4a6e" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Forretningsvekst</text>
   <text x="400" y="125" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12">• Omsetningsvekst</text>
   <text x="400" y="140" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12">• Ekspansjon</text>
   <text x="400" y="155" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12">• Produktivitetsmål</text>
   
-  <!-- Arrow from factor 5 to center -->
+
   <path d="M 400 170 L 400 230" stroke="#6b7280" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Factor 6: External factors -->
+
   <rect x="310" y="480" width="180" height="80" fill="url(#factorGradient)" stroke="#0ea5e9" stroke-width="2" rx="8"/>
   <text x="400" y="505" text-anchor="middle" fill="#0c4a6e" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Eksterne Faktorer</text>
   <text x="400" y="525" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12">• Tariffavtaler</text>
   <text x="400" y="540" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12">• Regulatoriske endringer</text>
   <text x="400" y="555" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12">• Markedsforhold</text>
   
-  <!-- Arrow from factor 6 to center -->
+
   <path d="M 400 470 L 400 410" stroke="#6b7280" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Budget calculation example -->
+
   <rect x="250" y="250" width="300" height="140" fill="#ffffff" stroke="#2563eb" stroke-width="2" rx="8" fill-opacity="0.95"/>
   <text x="400" y="275" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Budsjett Beregning</text>
   
@@ -104,7 +104,7 @@
   <text x="270" y="370" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Total lønnsbudsjett:</text>
   <text x="480" y="370" fill="#dc2626" font-family="Arial, sans-serif" font-size="14" font-weight="bold">5.855.000 kr</text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#6b7280"/>

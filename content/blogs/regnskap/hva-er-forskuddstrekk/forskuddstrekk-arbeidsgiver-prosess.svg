@@ -20,15 +20,15 @@
     </marker>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#0066cc">
     Arbeidsgivers Forskuddstrekkprosess
   </text>
   
-  <!-- Step 1: Lønnsberegning -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="140" height="90" fill="url(#stepGradient)" rx="10" filter="url(#shadow)"/>
     <text x="70" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
@@ -38,7 +38,7 @@
       LØNNSBEREGNING
     </text>
     
-    <!-- Calculator icon -->
+
     <rect x="55" y="55" width="30" height="20" fill="white" rx="2"/>
     <rect x="58" y="58" width="6" height="3" fill="#0066cc"/>
     <rect x="66" y="58" width="6" height="3" fill="#0066cc"/>
@@ -49,10 +49,10 @@
     <rect x="58" y="68" width="22" height="3" fill="#28a745"/>
   </g>
   
-  <!-- Arrow 1 -->
+
   <path d="M200 125 L240 125" stroke="#0066cc" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 2: Trekkberegning -->
+
   <g transform="translate(250, 80)">
     <rect x="0" y="0" width="140" height="90" fill="url(#stepGradient)" rx="10" filter="url(#shadow)"/>
     <text x="70" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
@@ -62,17 +62,17 @@
       TREKKBEREGNING
     </text>
     
-    <!-- Percentage icon -->
+
     <circle cx="70" cy="65" r="12" fill="white"/>
     <text x="70" y="71" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0066cc">
       %
     </text>
   </g>
   
-  <!-- Arrow 2 -->
+
   <path d="M400 125 L440 125" stroke="#0066cc" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 3: Lønnsutbetaling -->
+
   <g transform="translate(450, 80)">
     <rect x="0" y="0" width="140" height="90" fill="url(#stepGradient)" rx="10" filter="url(#shadow)"/>
     <text x="70" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
@@ -82,17 +82,17 @@
       LØNNSUTBETALING
     </text>
     
-    <!-- Money transfer icon -->
+
     <rect x="55" y="55" width="30" height="20" fill="white" rx="3"/>
     <text x="70" y="68" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="#0066cc">
       NETTO
     </text>
   </g>
   
-  <!-- Arrow down -->
+
   <path d="M520 180 L520 220" stroke="#0066cc" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 4: Rapportering -->
+
   <g transform="translate(450, 230)">
     <rect x="0" y="0" width="140" height="90" fill="url(#finalGradient)" rx="10" filter="url(#shadow)"/>
     <text x="70" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
@@ -102,7 +102,7 @@
       RAPPORTERING
     </text>
     
-    <!-- Document with arrow icon -->
+
     <rect x="55" y="55" width="20" height="25" fill="white" rx="2"/>
     <rect x="57" y="60" width="16" height="2" fill="#28a745"/>
     <rect x="57" y="65" width="12" height="1" fill="#666"/>
@@ -111,38 +111,38 @@
     <path d="M85 64 L88 67 L85 70" stroke="white" stroke-width="2" fill="none"/>
   </g>
   
-  <!-- Details Section -->
+
   <g transform="translate(50, 200)">
     <text x="0" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#0066cc">
       Detaljert Prosess:
     </text>
     
-    <!-- Step 1 details -->
+
     <circle cx="10" cy="45" r="4" fill="#0066cc"/>
     <text x="25" y="50" font-family="Arial, sans-serif" font-size="12" fill="#333">
       <tspan font-weight="bold">Lønnsberegning:</tspan> Beregn bruttolønn • Inkluder trekkpliktige ytelser • Kontroller skattekort
     </text>
     
-    <!-- Step 2 details -->
+
     <circle cx="10" cy="70" r="4" fill="#0066cc"/>
     <text x="25" y="75" font-family="Arial, sans-serif" font-size="12" fill="#333">
       <tspan font-weight="bold">Trekkberegning:</tspan> Anvend trekkprosent • Kontroller mot trekktabeller • Beregn forskuddstrekk
     </text>
     
-    <!-- Step 3 details -->
+
     <circle cx="10" cy="95" r="4" fill="#0066cc"/>
     <text x="25" y="100" font-family="Arial, sans-serif" font-size="12" fill="#333">
       <tspan font-weight="bold">Lønnsutbetaling:</tspan> Trekk skatt fra bruttolønn • Utbetal nettolønn • Generer lønnsslipp
     </text>
     
-    <!-- Step 4 details -->
+
     <circle cx="10" cy="120" r="4" fill="#28a745"/>
     <text x="25" y="125" font-family="Arial, sans-serif" font-size="12" fill="#333">
       <tspan font-weight="bold">Rapportering:</tspan> Send A-melding • Innbetal trekk til Skatteetaten • Oppbevar dokumentasjon
     </text>
   </g>
   
-  <!-- Timeline -->
+
   <g transform="translate(50, 380)">
     <text x="0" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#0066cc">
       Månedlig Tidsplan:
@@ -150,7 +150,7 @@
     
     <rect x="0" y="30" width="700" height="30" fill="#e9ecef" rx="5"/>
     
-    <!-- Week markers -->
+
     <rect x="0" y="30" width="175" height="30" fill="#0066cc" rx="5"/>
     <text x="87" y="50" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="white">
       Uke 1-2: Lønnsberegning

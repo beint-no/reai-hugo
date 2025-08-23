@@ -1,13 +1,13 @@
 <svg width="700" height="400" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="700" height="400" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="350" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c3e50">
     Resultat vs Kontantstrøm
   </text>
   
-  <!-- Left side - Resultatregnskap -->
+
   <rect x="50" y="60" width="280" height="300" fill="#e8f5e8" stroke="#28a745" stroke-width="2" rx="10"/>
   <text x="190" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#155724">
     Resultatregnskap
@@ -16,7 +16,7 @@
     (Periodiseringsprinsippet)
   </text>
   
-  <!-- Resultatregnskap items -->
+
   <text x="70" y="135" font-family="Arial, sans-serif" font-size="12" fill="#155724">
     Salgsinntekter (inkl. kreditsalg)
   </text>
@@ -71,7 +71,7 @@
     Periodiserte inntekter/kostnader
   </text>
   
-  <!-- Right side - Kontantstrøm -->
+
   <rect x="370" y="60" width="280" height="300" fill="#d1ecf1" stroke="#17a2b8" stroke-width="2" rx="10"/>
   <text x="510" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#0c5460">
     Kontantstrøm fra Drift
@@ -80,7 +80,7 @@
     (Faktiske kontantbevegelser)
   </text>
   
-  <!-- Kontantstrøm items -->
+
   <text x="390" y="135" font-family="Arial, sans-serif" font-size="12" fill="#0c5460">
     Kontant mottatt fra kunder
   </text>
@@ -135,19 +135,19 @@
     Påvirket av arbeidskapital
   </text>
   
-  <!-- Comparison arrow and text -->
+
   <path d="M 340 200 L 360 200" stroke="#dc3545" stroke-width="3" marker-end="url(#arrowhead)"/>
   <text x="350" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#dc3545">
     VS
   </text>
   
-  <!-- Bottom explanation -->
+
   <rect x="100" y="370" width="500" height="25" fill="#fff3cd" stroke="#ffc107" stroke-width="1" rx="5"/>
   <text x="350" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#856404">
     Samme periode - forskjellige resultater på grunn av periodisering og arbeidskapital
   </text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#dc3545"/>

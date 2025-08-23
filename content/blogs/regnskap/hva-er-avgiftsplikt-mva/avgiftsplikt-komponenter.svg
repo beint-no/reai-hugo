@@ -1,13 +1,13 @@
 <svg width="700" height="500" viewBox="0 0 700 500" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="700" height="500" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="350" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#2c3e50">
     Avgiftspliktens Hovedkomponenter
   </text>
   
-  <!-- Component 1: Beregne MVA -->
+
   <rect x="50" y="80" width="280" height="80" fill="#e74c3c" opacity="0.9" rx="10"/>
   <text x="190" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     1. BEREGNE MVA
@@ -19,7 +19,7 @@
     • Beregne utgående MVA på salg
   </text>
   
-  <!-- Component 2: Kreve inn MVA -->
+
   <rect x="370" y="80" width="280" height="80" fill="#f39c12" opacity="0.9" rx="10"/>
   <text x="510" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     2. KREVE INN MVA
@@ -31,7 +31,7 @@
     • Utstede korrekte fakturaer
   </text>
   
-  <!-- Component 3: Føre regnskap -->
+
   <rect x="50" y="200" width="280" height="80" fill="#3498db" opacity="0.9" rx="10"/>
   <text x="190" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     3. FØRE REGNSKAP
@@ -43,7 +43,7 @@
     • Registrere inngående MVA
   </text>
   
-  <!-- Component 4: Levere MVA-oppgave -->
+
   <rect x="370" y="200" width="280" height="80" fill="#9b59b6" opacity="0.9" rx="10"/>
   <text x="510" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     4. LEVERE MVA-OPPGAVE
@@ -55,7 +55,7 @@
     • Overholde frister
   </text>
   
-  <!-- Component 5: Betale MVA -->
+
   <rect x="210" y="320" width="280" height="80" fill="#27ae60" opacity="0.9" rx="10"/>
   <text x="350" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     5. BETALE MVA
@@ -67,34 +67,34 @@
     • Motta tilbakebetaling ved negativt beløp
   </text>
   
-  <!-- Arrows connecting components -->
+
   <defs>
     <marker id="arrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#2c3e50"/>
     </marker>
   </defs>
   
-  <!-- Arrow from 1 to 2 -->
+
   <line x1="330" y1="120" x2="370" y2="120" stroke="#2c3e50" stroke-width="2" marker-end="url(#arrow)"/>
   
-  <!-- Arrow from 2 to 4 -->
+
   <line x1="510" y1="160" x2="510" y2="200" stroke="#2c3e50" stroke-width="2" marker-end="url(#arrow)"/>
   
-  <!-- Arrow from 1 to 3 -->
+
   <line x1="190" y1="160" x2="190" y2="200" stroke="#2c3e50" stroke-width="2" marker-end="url(#arrow)"/>
   
-  <!-- Arrow from 3 to 5 -->
+
   <line x1="190" y1="280" x2="280" y2="320" stroke="#2c3e50" stroke-width="2" marker-end="url(#arrow)"/>
   
-  <!-- Arrow from 4 to 5 -->
+
   <line x1="510" y1="280" x2="420" y2="320" stroke="#2c3e50" stroke-width="2" marker-end="url(#arrow)"/>
   
-  <!-- Bottom note -->
+
   <text x="350" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#7f8c8d">
     Alle komponenter må fungere sammen for korrekt MVA-håndtering
   </text>
   
-  <!-- Legend -->
+
   <rect x="50" y="420" width="600" height="2" fill="#bdc3c7"/>
   <text x="350" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-style="italic" fill="#95a5a6">
     Avgiftsplikten krever systematisk oppfølging av alle disse komponentene

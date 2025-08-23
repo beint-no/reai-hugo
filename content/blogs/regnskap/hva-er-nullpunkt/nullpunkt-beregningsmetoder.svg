@@ -10,23 +10,23 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="50" fill="url(#headerGradient)"/>
   <text x="400" y="30" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="20" font-weight="bold">
     Nullpunkt-Beregningsmetoder
   </text>
   
-  <!-- Method 1: Unit-based calculation -->
+
   <rect x="50" y="80" width="340" height="220" fill="white" stroke="#0066cc" stroke-width="2" rx="8"/>
   <rect x="50" y="80" width="340" height="40" fill="#0066cc" rx="8"/>
   <text x="220" y="105" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     Metode 1: Enhetsbasert Beregning
   </text>
   
-  <!-- Formula box -->
+
   <rect x="70" y="140" width="300" height="50" fill="#f0f8ff" stroke="#0066cc" stroke-width="1" rx="5"/>
   <text x="220" y="160" text-anchor="middle" fill="#0066cc" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Nullpunkt (enheter) =
@@ -35,7 +35,7 @@
     Faste kostnader ÷ Dekningsbidrag per enhet
   </text>
   
-  <!-- Example calculation -->
+
   <text x="70" y="210" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Eksempel:
   </text>
@@ -54,14 +54,14 @@
     Resultat: 3.000 enheter
   </text>
   
-  <!-- Method 2: Contribution margin percentage -->
+
   <rect x="410" y="80" width="340" height="220" fill="white" stroke="#51cf66" stroke-width="2" rx="8"/>
   <rect x="410" y="80" width="340" height="40" fill="#51cf66" rx="8"/>
   <text x="580" y="105" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     Metode 2: Dekningsbidragsprosent
   </text>
   
-  <!-- Formula box -->
+
   <rect x="430" y="140" width="300" height="70" fill="#f0fff4" stroke="#51cf66" stroke-width="1" rx="5"/>
   <text x="580" y="160" text-anchor="middle" fill="#51cf66" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
     DB% = (Dekningsbidrag ÷ Salgspris) × 100
@@ -70,7 +70,7 @@
     Nullpunkt (kr) = Faste kostnader ÷ DB%
   </text>
   
-  <!-- Example calculation -->
+
   <text x="430" y="230" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Eksempel:
   </text>
@@ -86,21 +86,21 @@
     Resultat: 450.000 kr
   </text>
   
-  <!-- Method 3: Graphical representation -->
+
   <rect x="50" y="320" width="700" height="250" fill="white" stroke="#ffa94d" stroke-width="2" rx="8"/>
   <rect x="50" y="320" width="700" height="40" fill="#ffa94d" rx="8"/>
   <text x="400" y="345" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     Metode 3: Grafisk Fremstilling
   </text>
   
-  <!-- Graph area -->
+
   <rect x="80" y="380" width="300" height="170" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="3"/>
   
-  <!-- Axes -->
+
   <line x1="100" y1="530" x2="360" y2="530" stroke="#333" stroke-width="2"/>
   <line x1="100" y1="530" x2="100" y2="400" stroke="#333" stroke-width="2"/>
   
-  <!-- Axis labels -->
+
   <text x="230" y="545" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
     Salgsvolum
   </text>
@@ -108,34 +108,34 @@
     Kroner
   </text>
   
-  <!-- Cost line -->
+
   <line x1="100" y1="480" x2="340" y2="420" stroke="#ff6b6b" stroke-width="3"/>
   <text x="345" y="425" fill="#ff6b6b" font-family="Arial, sans-serif" font-size="9" font-weight="bold">
     Kostnader
   </text>
   
-  <!-- Revenue line -->
+
   <line x1="100" y1="530" x2="340" y2="400" stroke="#51cf66" stroke-width="3"/>
   <text x="345" y="405" fill="#51cf66" font-family="Arial, sans-serif" font-size="9" font-weight="bold">
     Inntekter
   </text>
   
-  <!-- Break-even point -->
+
   <circle cx="220" cy="450" r="4" fill="#0066cc" stroke="white" stroke-width="2"/>
   <text x="225" y="445" fill="#0066cc" font-family="Arial, sans-serif" font-size="9" font-weight="bold">
     Nullpunkt
   </text>
   
-  <!-- Dashed line -->
+
   <line x1="220" y1="450" x2="220" y2="530" stroke="#0066cc" stroke-width="2" stroke-dasharray="3,3"/>
   
-  <!-- Fixed costs line -->
+
   <line x1="100" y1="480" x2="340" y2="480" stroke="#ffa94d" stroke-width="2" stroke-dasharray="2,2"/>
   <text x="105" y="475" fill="#ffa94d" font-family="Arial, sans-serif" font-size="8">
     Faste kostnader
   </text>
   
-  <!-- Explanation text -->
+
   <text x="420" y="400" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Grafisk analyse viser:
   </text>
@@ -155,13 +155,13 @@
     • Skjæringspunkt = Nullpunkt
   </text>
   
-  <!-- Benefits box -->
+
   <rect x="420" y="520" width="300" height="25" fill="#f0f8ff" stroke="#0066cc" stroke-width="1" rx="3"/>
   <text x="570" y="537" text-anchor="middle" fill="#0066cc" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
     Fordel: Visuell forståelse av tap/overskudd-områder
   </text>
   
-  <!-- Comparison summary -->
+
   <text x="400" y="590" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Alle tre metoder gir samme resultat: Nullpunkt ved 3.000 enheter / 450.000 kr
   </text>

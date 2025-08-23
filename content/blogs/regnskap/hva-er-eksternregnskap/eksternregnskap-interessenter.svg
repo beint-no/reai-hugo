@@ -1,13 +1,13 @@
 <svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Eksternregnskapets Interessenter
   </text>
   
-  <!-- Central company -->
+
   <rect x="350" y="220" width="100" height="60" fill="#3498db" stroke="#2980b9" stroke-width="3" rx="10"/>
   <text x="400" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     VIRKSOMHET
@@ -19,7 +19,7 @@
     Årsregnskap
   </text>
   
-  <!-- Investors -->
+
   <rect x="100" y="80" width="120" height="80" fill="#e74c3c" stroke="#c0392b" stroke-width="2" rx="8"/>
   <text x="160" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     INVESTORER
@@ -34,7 +34,7 @@
     • Analytikere
   </text>
   
-  <!-- Creditors -->
+
   <rect x="580" y="80" width="120" height="80" fill="#27ae60" stroke="#1e8449" stroke-width="2" rx="8"/>
   <text x="640" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     KREDITORER
@@ -49,7 +49,7 @@
     • Leverandører
   </text>
   
-  <!-- Authorities -->
+
   <rect x="100" y="340" width="120" height="80" fill="#9b59b6" stroke="#7d3c98" stroke-width="2" rx="8"/>
   <text x="160" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     MYNDIGHETER
@@ -64,7 +64,7 @@
     • Brønnøysundregistrene
   </text>
   
-  <!-- Other stakeholders -->
+
   <rect x="580" y="340" width="120" height="80" fill="#f39c12" stroke="#d68910" stroke-width="2" rx="8"/>
   <text x="640" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     ANDRE
@@ -79,13 +79,13 @@
     • Media/Offentlighet
   </text>
   
-  <!-- Arrows from company to stakeholders -->
+
   <line x1="370" y1="230" x2="210" y2="150" stroke="#34495e" stroke-width="3" marker-end="url(#arrowhead)"/>
   <line x1="430" y1="230" x2="590" y2="150" stroke="#34495e" stroke-width="3" marker-end="url(#arrowhead)"/>
   <line x1="370" y1="270" x2="210" y2="350" stroke="#34495e" stroke-width="3" marker-end="url(#arrowhead)"/>
   <line x1="430" y1="270" x2="590" y2="350" stroke="#34495e" stroke-width="3" marker-end="url(#arrowhead)"/>
   
-  <!-- Information flow labels -->
+
   <text x="290" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#34495e" transform="rotate(-25 290 185)">
     Finansiell informasjon
   </text>
@@ -99,7 +99,7 @@
     Transparens
   </text>
   
-  <!-- Key requirements box -->
+
   <rect x="250" y="450" width="300" height="40" fill="#ecf0f1" stroke="#95a5a6" stroke-width="1" rx="5"/>
   <text x="400" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
     Krav til Eksternregnskap
@@ -108,7 +108,7 @@
     Standardisert • Revidert • Offentlig tilgjengelig • Sammenlignbart
   </text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" 
      refX="9" refY="3.5" orient="auto">

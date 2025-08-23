@@ -18,18 +18,18 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)" />
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)" />
   <text x="400" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
     Regnskapsføring av Jordbruksfradrag
   </text>
   
-  <!-- Main flow diagram -->
+
   <g transform="translate(50, 80)">
-    <!-- Step 1: Business operations -->
+
     <rect x="0" y="0" width="200" height="80" fill="white" stroke="#ff9800" stroke-width="2" rx="10"/>
     <text x="100" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#f57c00">
       Landbruksdrift
@@ -41,11 +41,11 @@
       Kostnader: 2 100 000 kr
     </text>
     
-    <!-- Arrow 1 -->
+
     <polygon points="210,40 230,35 230,45" fill="#ff9800"/>
     <line x1="200" y1="40" x2="230" y2="40" stroke="#ff9800" stroke-width="2"/>
     
-    <!-- Step 2: Accounting result -->
+
     <rect x="240" y="0" width="200" height="80" fill="white" stroke="#2196f3" stroke-width="2" rx="10"/>
     <text x="340" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#1976d2">
       Regnskapsresultat
@@ -57,11 +57,11 @@
       (Før jordbruksfradrag)
     </text>
     
-    <!-- Arrow 2 -->
+
     <polygon points="450,40 470,35 470,45" fill="#2196f3"/>
     <line x1="440" y1="40" x2="470" y2="40" stroke="#2196f3" stroke-width="2"/>
     
-    <!-- Step 3: Tax calculation -->
+
     <rect x="480" y="0" width="200" height="80" fill="white" stroke="#4caf50" stroke-width="2" rx="10"/>
     <text x="580" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#388e3c">
       Skatteberegning
@@ -74,9 +74,9 @@
     </text>
   </g>
   
-  <!-- Detailed breakdown -->
+
   <g transform="translate(50, 200)">
-    <!-- Left side: Accounting treatment -->
+
     <rect x="0" y="0" width="340" height="320" fill="white" stroke="#2196f3" stroke-width="2" rx="10"/>
     <rect x="0" y="0" width="340" height="40" fill="url(#accountingGradient)" rx="10"/>
     <rect x="0" y="30" width="340" height="10" fill="url(#accountingGradient)"/>
@@ -129,7 +129,7 @@
       • Bokføringsforskriften
     </text>
     
-    <!-- Right side: Tax treatment -->
+
     <rect x="360" y="0" width="340" height="320" fill="white" stroke="#4caf50" stroke-width="2" rx="10"/>
     <rect x="360" y="0" width="340" height="40" fill="url(#taxGradient)" rx="10"/>
     <rect x="360" y="30" width="340" height="10" fill="url(#taxGradient)"/>
@@ -183,7 +183,7 @@
     </text>
   </g>
   
-  <!-- Example calculation box -->
+
   <g transform="translate(50, 540)">
     <rect x="0" y="0" width="700" height="50" fill="#e8f5e8" stroke="#4caf50" stroke-width="2" rx="10"/>
     <text x="20" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2e7d32">

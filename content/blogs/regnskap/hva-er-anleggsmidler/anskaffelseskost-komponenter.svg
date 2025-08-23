@@ -1,18 +1,18 @@
 <svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     KOMPONENTER I ANSKAFFELSESKOST
   </text>
   
-  <!-- Subtitle -->
+
   <text x="400" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#7f8c8d">
     Alle kostnader nødvendige for å bringe anleggsmiddelet til ønsket tilstand og lokasjon
   </text>
   
-  <!-- Central box for total cost -->
+
   <rect x="300" y="100" width="200" height="80" fill="#34495e" rx="10"/>
   <text x="400" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
     TOTAL
@@ -24,12 +24,12 @@
     Aktiveres i balansen
   </text>
   
-  <!-- Included components (left side) -->
+
   <text x="200" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#27ae60">
     INKLUDERES ✓
   </text>
   
-  <!-- Component 1: Purchase price -->
+
   <rect x="50" y="240" width="300" height="50" fill="#27ae60" rx="8"/>
   <text x="200" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     KJØPSPRIS
@@ -38,7 +38,7 @@
     Fakturert pris minus rabatter og bonuser
   </text>
   
-  <!-- Component 2: Import duties -->
+
   <rect x="50" y="300" width="300" height="50" fill="#27ae60" rx="8"/>
   <text x="200" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     IMPORTAVGIFTER OG TOLL
@@ -47,7 +47,7 @@
     Avgifter ved import av utstyr fra utlandet
   </text>
   
-  <!-- Component 3: Transport -->
+
   <rect x="50" y="360" width="300" height="50" fill="#27ae60" rx="8"/>
   <text x="200" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     TRANSPORT OG FRAKT
@@ -56,7 +56,7 @@
     Kostnader for å få eiendelen til bedriftens lokaler
   </text>
   
-  <!-- Component 4: Installation -->
+
   <rect x="50" y="420" width="300" height="50" fill="#27ae60" rx="8"/>
   <text x="200" y="440" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     INSTALLASJON OG MONTERING
@@ -65,7 +65,7 @@
     Kostnader for å gjøre eiendelen klar for bruk
   </text>
   
-  <!-- Component 5: Legal costs -->
+
   <rect x="50" y="480" width="300" height="50" fill="#27ae60" rx="8"/>
   <text x="200" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     JURIDISKE KOSTNADER
@@ -74,12 +74,12 @@
     Advokathjelp, tinglysing, kontraktsutarbeidelse
   </text>
   
-  <!-- Excluded components (right side) -->
+
   <text x="600" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#e74c3c">
     EKSKLUDERES ✗
   </text>
   
-  <!-- Excluded 1: Financing costs -->
+
   <rect x="450" y="240" width="300" height="50" fill="#e74c3c" rx="8"/>
   <text x="600" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     FINANSIERINGSKOSTNADER
@@ -88,7 +88,7 @@
     Renter på lån - føres som kostnad i resultatregnskapet
   </text>
   
-  <!-- Excluded 2: Training costs -->
+
   <rect x="450" y="300" width="300" height="50" fill="#e74c3c" rx="8"/>
   <text x="600" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     OPPLÆRINGSKOSTNADER
@@ -97,7 +97,7 @@
     Kurs og opplæring av ansatte - føres som kostnad
   </text>
   
-  <!-- Excluded 3: Administrative costs -->
+
   <rect x="450" y="360" width="300" height="50" fill="#e74c3c" rx="8"/>
   <text x="600" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     ADMINISTRATIVE KOSTNADER
@@ -106,7 +106,7 @@
     Generelle administrasjonskostnader - føres som kostnad
   </text>
   
-  <!-- Excluded 4: Maintenance -->
+
   <rect x="450" y="420" width="300" height="50" fill="#e74c3c" rx="8"/>
   <text x="600" y="440" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     LØPENDE VEDLIKEHOLD
@@ -115,7 +115,7 @@
     Ordinært vedlikehold etter idriftsettelse
   </text>
   
-  <!-- Excluded 5: Operating costs -->
+
   <rect x="450" y="480" width="300" height="50" fill="#e74c3c" rx="8"/>
   <text x="600" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     DRIFTSKOSTNADER
@@ -124,17 +124,17 @@
     Strøm, forsikring, løpende utgifter
   </text>
   
-  <!-- Connecting arrows -->
+
   <line x1="350" y1="140" x2="300" y2="140" stroke="#27ae60" stroke-width="3" marker-end="url(#greenArrow)"/>
   <line x1="450" y1="140" x2="500" y2="140" stroke="#e74c3c" stroke-width="3" marker-end="url(#redArrow)"/>
   
-  <!-- Example calculation box -->
+
   <rect x="250" y="550" width="300" height="40" fill="#ecf0f1" rx="8" stroke="#bdc3c7" stroke-width="1"/>
   <text x="400" y="570" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
     EKSEMPEL: Maskin 500.000 + Transport 15.000 + Installasjon 35.000 = 550.000 kr
   </text>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="greenArrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#27ae60"/>

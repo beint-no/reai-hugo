@@ -14,27 +14,27 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
     Lageropptaksprosess
   </text>
   
-  <!-- Full Inventory Count Section -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="300" height="200" fill="url(#fullCountGradient)" stroke="#c82333" stroke-width="2" rx="15"/>
     <text x="150" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
       Fullstendig Lageropptak
     </text>
     
-    <!-- Warehouse with full count -->
+
     <g transform="translate(50, 50)">
-      <!-- Warehouse outline -->
+
       <rect x="0" y="0" width="200" height="100" fill="none" stroke="white" stroke-width="2" opacity="0.8"/>
       
-      <!-- Grid showing complete count -->
+
       <g stroke="white" stroke-width="1" opacity="0.6">
         <line x1="50" y1="0" x2="50" y2="100"/>
         <line x1="100" y1="0" x2="100" y2="100"/>
@@ -44,7 +44,7 @@
         <line x1="0" y1="75" x2="200" y2="75"/>
       </g>
       
-      <!-- Count marks in each section -->
+
       <g fill="white" font-family="Arial, sans-serif" font-size="10">
         <text x="25" y="18" text-anchor="middle">✓</text>
         <text x="75" y="18" text-anchor="middle">✓</text>
@@ -65,7 +65,7 @@
       </g>
     </g>
     
-    <!-- Characteristics -->
+
     <g transform="translate(20, 165)">
       <text x="0" y="0" font-family="Arial, sans-serif" font-size="12" fill="white">
         • Årlig gjennomføring
@@ -76,19 +76,19 @@
     </g>
   </g>
   
-  <!-- Cycle Count Section -->
+
   <g transform="translate(450, 80)">
     <rect x="0" y="0" width="300" height="200" fill="url(#cycleCountGradient)" stroke="#1e7e34" stroke-width="2" rx="15"/>
     <text x="150" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
       Syklisk Lageropptak
     </text>
     
-    <!-- Warehouse with partial count -->
+
     <g transform="translate(50, 50)">
-      <!-- Warehouse outline -->
+
       <rect x="0" y="0" width="200" height="100" fill="none" stroke="white" stroke-width="2" opacity="0.8"/>
       
-      <!-- Grid showing partial count -->
+
       <g stroke="white" stroke-width="1" opacity="0.6">
         <line x1="50" y1="0" x2="50" y2="100"/>
         <line x1="100" y1="0" x2="100" y2="100"/>
@@ -98,12 +98,12 @@
         <line x1="0" y1="75" x2="200" y2="75"/>
       </g>
       
-      <!-- Highlighted sections being counted -->
+
       <rect x="0" y="0" width="50" height="25" fill="yellow" opacity="0.3"/>
       <rect x="100" y="25" width="50" height="25" fill="yellow" opacity="0.3"/>
       <rect x="50" y="75" width="50" height="25" fill="yellow" opacity="0.3"/>
       
-      <!-- Count marks only in selected sections -->
+
       <g fill="white" font-family="Arial, sans-serif" font-size="10">
         <text x="25" y="18" text-anchor="middle">✓</text>
         <text x="125" y="43" text-anchor="middle">✓</text>
@@ -111,7 +111,7 @@
       </g>
     </g>
     
-    <!-- Characteristics -->
+
     <g transform="translate(20, 165)">
       <text x="0" y="0" font-family="Arial, sans-serif" font-size="12" fill="white">
         • Kontinuerlig prosess
@@ -122,15 +122,15 @@
     </g>
   </g>
   
-  <!-- Process Steps -->
+
   <g transform="translate(50, 320)">
     <text x="350" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#212529">
       Lageropptaksprosedyre
     </text>
     
-    <!-- Step boxes -->
+
     <g transform="translate(0, 30)">
-      <!-- Step 1: Planning -->
+
       <rect x="0" y="0" width="140" height="80" fill="#e9ecef" stroke="#dee2e6" stroke-width="2" rx="8"/>
       <text x="70" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
         1. PLANLEGGING
@@ -145,7 +145,7 @@
         • Forbered skjemaer
       </text>
       
-      <!-- Step 2: Execution -->
+
       <rect x="160" y="0" width="140" height="80" fill="#e9ecef" stroke="#dee2e6" stroke-width="2" rx="8"/>
       <text x="230" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
         2. GJENNOMFØRING
@@ -160,7 +160,7 @@
         • Dokumenter alt
       </text>
       
-      <!-- Step 3: Analysis -->
+
       <rect x="320" y="0" width="140" height="80" fill="#e9ecef" stroke="#dee2e6" stroke-width="2" rx="8"/>
       <text x="390" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
         3. ANALYSE
@@ -175,7 +175,7 @@
         • Juster system
       </text>
       
-      <!-- Step 4: Follow-up -->
+
       <rect x="480" y="0" width="140" height="80" fill="#e9ecef" stroke="#dee2e6" stroke-width="2" rx="8"/>
       <text x="550" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
         4. OPPFØLGING
@@ -191,7 +191,7 @@
       </text>
     </g>
     
-    <!-- Arrows between steps -->
+
     <defs>
       <marker id="arrowStep" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
         <polygon points="0 0, 8 3, 0 6" fill="#495057"/>
@@ -205,16 +205,16 @@
     </g>
   </g>
   
-  <!-- Technology Support -->
+
   <g transform="translate(50, 480)">
     <rect x="0" y="0" width="700" height="100" fill="url(#techGradient)" stroke="#0056b3" stroke-width="2" rx="15"/>
     <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
       Teknologi for Moderne Lageropptak
     </text>
     
-    <!-- Technology icons and descriptions -->
+
     <g transform="translate(50, 40)">
-      <!-- Barcode scanning -->
+
       <g>
         <rect x="0" y="0" width="120" height="50" fill="white" opacity="0.2" rx="5"/>
         <text x="60" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
@@ -228,7 +228,7 @@
         </text>
       </g>
       
-      <!-- RFID -->
+
       <g transform="translate(150, 0)">
         <rect x="0" y="0" width="120" height="50" fill="white" opacity="0.2" rx="5"/>
         <text x="60" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
@@ -242,7 +242,7 @@
         </text>
       </g>
       
-      <!-- Mobile devices -->
+
       <g transform="translate(300, 0)">
         <rect x="0" y="0" width="120" height="50" fill="white" opacity="0.2" rx="5"/>
         <text x="60" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
@@ -256,7 +256,7 @@
         </text>
       </g>
       
-      <!-- Drones -->
+
       <g transform="translate(450, 0)">
         <rect x="0" y="0" width="120" height="50" fill="white" opacity="0.2" rx="5"/>
         <text x="60" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">

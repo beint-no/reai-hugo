@@ -25,15 +25,15 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#0066cc">
     Forskuddstrekk for Utenlandske Arbeidstakere
   </text>
   
-  <!-- Category 1: Begrenset Skatteplikt -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="160" height="120" fill="url(#limitedGradient)" rx="10" filter="url(#shadow)"/>
     <text x="80" y="25" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="white">
@@ -43,7 +43,7 @@
       SKATTEPLIKT
     </text>
     
-    <!-- High percentage indicator -->
+
     <circle cx="80" cy="65" r="15" fill="white"/>
     <text x="80" y="72" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#dc3545">
       47%
@@ -57,7 +57,7 @@
     </text>
   </g>
   
-  <!-- Category 2: Alminnelig Skatteplikt -->
+
   <g transform="translate(230, 80)">
     <rect x="0" y="0" width="160" height="120" fill="url(#generalGradient)" rx="10" filter="url(#shadow)"/>
     <text x="80" y="25" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="white">
@@ -67,7 +67,7 @@
       SKATTEPLIKT
     </text>
     
-    <!-- Standard percentage indicator -->
+
     <circle cx="80" cy="65" r="15" fill="white"/>
     <text x="80" y="72" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0066cc">
       25%
@@ -81,7 +81,7 @@
     </text>
   </g>
   
-  <!-- Category 3: NOKUS-ordningen -->
+
   <g transform="translate(410, 80)">
     <rect x="0" y="0" width="160" height="120" fill="url(#nokusGradient)" rx="10" filter="url(#shadow)"/>
     <text x="80" y="25" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="white">
@@ -91,7 +91,7 @@
       ORDNINGEN
     </text>
     
-    <!-- Special indicator -->
+
     <rect x="65" y="55" width="30" height="20" fill="white" rx="3"/>
     <text x="80" y="68" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="#28a745">
       SPESIELL
@@ -105,14 +105,14 @@
     </text>
   </g>
   
-  <!-- Category 4: Sjømenn -->
+
   <g transform="translate(590, 80)">
     <rect x="0" y="0" width="160" height="120" fill="url(#seamanGradient)" rx="10" filter="url(#shadow)"/>
     <text x="80" y="25" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="white">
       SJØMENN
     </text>
     
-    <!-- Ship icon -->
+
     <path d="M60 50 L100 50 L95 65 L65 65 Z" fill="white"/>
     <rect x="75" y="40" width="10" height="15" fill="white"/>
     <path d="M75 40 L85 35 L85 40" fill="white"/>
@@ -125,13 +125,13 @@
     </text>
   </g>
   
-  <!-- Detailed Information Section -->
+
   <g transform="translate(50, 230)">
     <text x="0" y="20" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#0066cc">
       Detaljerte Regler:
     </text>
     
-    <!-- Begrenset skatteplikt details -->
+
     <g transform="translate(0, 40)">
       <rect x="0" y="0" width="350" height="80" fill="#fff" stroke="#dc3545" stroke-width="2" rx="5"/>
       <text x="10" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#dc3545">
@@ -148,7 +148,7 @@
       </text>
     </g>
     
-    <!-- Alminnelig skatteplikt details -->
+
     <g transform="translate(370, 40)">
       <rect x="0" y="0" width="350" height="80" fill="#fff" stroke="#0066cc" stroke-width="2" rx="5"/>
       <text x="10" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0066cc">
@@ -165,7 +165,7 @@
       </text>
     </g>
     
-    <!-- NOKUS details -->
+
     <g transform="translate(0, 140)">
       <rect x="0" y="0" width="350" height="80" fill="#fff" stroke="#28a745" stroke-width="2" rx="5"/>
       <text x="10" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#28a745">
@@ -182,7 +182,7 @@
       </text>
     </g>
     
-    <!-- Sjømenn details -->
+
     <g transform="translate(370, 140)">
       <rect x="0" y="0" width="350" height="80" fill="#fff" stroke="#6f42c1" stroke-width="2" rx="5"/>
       <text x="10" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#6f42c1">
@@ -200,7 +200,7 @@
     </g>
   </g>
   
-  <!-- Important Note -->
+
   <g transform="translate(50, 450)">
     <rect x="0" y="0" width="700" height="30" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="5"/>
     <text x="350" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#856404">

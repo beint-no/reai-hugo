@@ -13,18 +13,18 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f1f5f9"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
   <text x="400" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
     Compliance og Regulatoriske Krav ved Tilbud
   </text>
   
-  <!-- Three main compliance areas -->
+
   
-  <!-- 1. Public Procurement Law -->
+
   <g transform="translate(50, 120)">
     <rect x="0" y="0" width="200" height="180" rx="10" fill="url(#cardGradient)" filter="url(#shadow)"/>
     <circle cx="100" cy="40" r="20" fill="#16a34a"/>
@@ -51,7 +51,7 @@
     </text>
   </g>
   
-  <!-- 2. Competition Law -->
+
   <g transform="translate(300, 120)">
     <rect x="0" y="0" width="200" height="180" rx="10" fill="url(#cardGradient)" filter="url(#shadow)"/>
     <circle cx="100" cy="40" r="20" fill="#dc2626"/>
@@ -78,7 +78,7 @@
     </text>
   </g>
   
-  <!-- 3. Accounting Law -->
+
   <g transform="translate(550, 120)">
     <rect x="0" y="0" width="200" height="180" rx="10" fill="url(#cardGradient)" filter="url(#shadow)"/>
     <circle cx="100" cy="40" r="20" fill="#7c3aed"/>
@@ -106,7 +106,7 @@
     </text>
   </g>
   
-  <!-- Compliance Process Flow -->
+
   <g transform="translate(50, 340)">
     <rect x="0" y="0" width="700" height="200" rx="10" fill="url(#cardGradient)" filter="url(#shadow)"/>
     
@@ -114,7 +114,7 @@
       Compliance-prosess for Tilbud
     </text>
     
-    <!-- Step 1: Vurdering -->
+
     <circle cx="100" cy="80" r="30" fill="#3b82f6"/>
     <text x="100" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
       1. Vurdering
@@ -126,10 +126,10 @@
       Risikokartlegging
     </text>
     
-    <!-- Arrow 1 -->
+
     <path d="M130 80 L165 80" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
     
-    <!-- Step 2: Dokumentasjon -->
+
     <circle cx="195" cy="80" r="30" fill="#059669"/>
     <text x="195" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
       2. Dokument
@@ -141,10 +141,10 @@
       Versjonskontroll
     </text>
     
-    <!-- Arrow 2 -->
+
     <path d="M225 80 L260 80" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
     
-    <!-- Step 3: Godkjenning -->
+
     <circle cx="290" cy="80" r="30" fill="#dc2626"/>
     <text x="290" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
       3. Godkjenn
@@ -156,10 +156,10 @@
       Signering
     </text>
     
-    <!-- Arrow 3 -->
+
     <path d="M320 80 L355 80" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
     
-    <!-- Step 4: Innsending -->
+
     <circle cx="385" cy="80" r="30" fill="#7c3aed"/>
     <text x="385" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
       4. Innsend
@@ -171,10 +171,10 @@
       Bekreftelse
     </text>
     
-    <!-- Arrow 4 -->
+
     <path d="M415 80 L450 80" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
     
-    <!-- Step 5: Oppfølging -->
+
     <circle cx="480" cy="80" r="30" fill="#ea580c"/>
     <text x="480" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
       5. Oppfølg
@@ -186,7 +186,7 @@
       Kontraktstyring
     </text>
     
-    <!-- Compliance checklist -->
+
     <g transform="translate(550, 45)">
       <rect x="0" y="0" width="140" height="120" rx="5" fill="white" stroke="#e2e8f0" stroke-width="1"/>
       <text x="70" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">
@@ -220,7 +220,7 @@
     </g>
   </g>
   
-  <!-- Key regulations summary -->
+
   <g transform="translate(50, 560)">
     <rect x="0" y="0" width="700" height="35" rx="5" fill="#fef3c7"/>
     <text x="20" y="15" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#92400e">
@@ -231,7 +231,7 @@
     </text>
   </g>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#64748b"/>

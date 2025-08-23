@@ -1,19 +1,19 @@
 <svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#2c3e50">
     Integrasjon mellom Budsjett og Regnskap
   </text>
   
-  <!-- Budget System -->
+
   <rect x="50" y="100" width="300" height="400" rx="20" fill="#3498db" stroke="#2980b9" stroke-width="4"/>
   <text x="200" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
     BUDSJETTSYSTEM
   </text>
   
-  <!-- Budget components -->
+
   <rect x="80" y="170" width="240" height="60" rx="10" fill="#2980b9"/>
   <text x="200" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Budsjettplanlegging
@@ -58,13 +58,13 @@
     • Dashboards og KPI-er
   </text>
   
-  <!-- Accounting System -->
+
   <rect x="450" y="100" width="300" height="400" rx="20" fill="#e74c3c" stroke="#c0392b" stroke-width="4"/>
   <text x="600" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
     REGNSKAPSSYSTEM
   </text>
   
-  <!-- Accounting components -->
+
   <rect x="480" y="170" width="240" height="60" rx="10" fill="#c0392b"/>
   <text x="600" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Transaksjonsregistrering
@@ -109,13 +109,13 @@
     • Revisjonsgrunnlag
   </text>
   
-  <!-- Integration arrows and elements -->
+
   <path d="M 350 200 L 450 200" stroke="#27ae60" stroke-width="4" fill="none" marker-end="url(#greenarrow)"/>
   <path d="M 450 280 L 350 280" stroke="#f39c12" stroke-width="4" fill="none" marker-end="url(#orangearrow)"/>
   <path d="M 350 360 L 450 360" stroke="#9b59b6" stroke-width="4" fill="none" marker-end="url(#purplearrow)"/>
   <path d="M 450 440 L 350 440" stroke="#e67e22" stroke-width="4" fill="none" marker-end="url(#brownarrow)"/>
   
-  <!-- Integration labels -->
+
   <text x="400" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#27ae60">
     Budsjettdata
   </text>
@@ -129,7 +129,7 @@
     Rapportdata
   </text>
   
-  <!-- Central integration concept -->
+
   <ellipse cx="400" cy="300" rx="60" ry="40" fill="#34495e" stroke="#2c3e50" stroke-width="3"/>
   <text x="400" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     INTEGRERT
@@ -138,7 +138,7 @@
     STYRING
   </text>
   
-  <!-- Key benefits -->
+
   <rect x="100" y="520" width="600" height="60" rx="10" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2"/>
   <text x="400" y="540" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
     Fordeler med Integrert Budsjett- og Regnskapssystem
@@ -162,7 +162,7 @@
     • Raskere beslutninger
   </text>
   
-  <!-- Arrow marker definitions -->
+
   <defs>
     <marker id="greenarrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#27ae60"/>

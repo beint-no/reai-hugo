@@ -14,31 +14,31 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#2c3e50">
     Kontantforvaltningsstrategier
   </text>
   
-  <!-- Conservative Strategy -->
+
   <g transform="translate(200, 100)">
     <rect x="-150" y="0" width="300" height="150" fill="url(#conservativeGradient)" stroke="#1e7e34" stroke-width="3" rx="15"/>
     
-    <!-- Strategy title -->
+
     <text x="0" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
       Konservativ Strategi
     </text>
     
-    <!-- Cash level indicator -->
+
     <rect x="-100" y="50" width="200" height="20" fill="white" stroke="#1e7e34" stroke-width="2" rx="10"/>
     <rect x="-95" y="55" width="160" height="10" fill="#1e7e34" rx="5"/>
     <text x="0" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
       Høy kontantbeholdning (80% fylt)
     </text>
     
-    <!-- Characteristics -->
+
     <text x="-120" y="110" font-family="Arial, sans-serif" font-size="12" fill="white">
       ✓ Høy finansiell sikkerhet
     </text>
@@ -50,23 +50,23 @@
     </text>
   </g>
   
-  <!-- Aggressive Strategy -->
+
   <g transform="translate(600, 100)">
     <rect x="-150" y="0" width="300" height="150" fill="url(#aggressiveGradient)" stroke="#c82333" stroke-width="3" rx="15"/>
     
-    <!-- Strategy title -->
+
     <text x="0" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
       Aggressiv Strategi
     </text>
     
-    <!-- Cash level indicator -->
+
     <rect x="-100" y="50" width="200" height="20" fill="white" stroke="#c82333" stroke-width="2" rx="10"/>
     <rect x="-95" y="55" width="60" height="10" fill="#c82333" rx="5"/>
     <text x="0" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
       Lav kontantbeholdning (30% fylt)
     </text>
     
-    <!-- Characteristics -->
+
     <text x="-120" y="110" font-family="Arial, sans-serif" font-size="12" fill="white">
       ✓ Høy avkastning på kapital
     </text>
@@ -78,17 +78,17 @@
     </text>
   </g>
   
-  <!-- Comparison chart -->
+
   <g transform="translate(400, 320)">
-    <!-- Chart background -->
+
     <rect x="-300" y="0" width="600" height="120" fill="white" stroke="#6c757d" stroke-width="2" rx="10"/>
     
-    <!-- Chart title -->
+
     <text x="0" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
       Sammenligning av Strategier
     </text>
     
-    <!-- Metrics -->
+
     <g transform="translate(-250, 40)">
       <text x="0" y="0" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
         Kontantbeholdning/Omsetning:
@@ -138,13 +138,13 @@
     </g>
   </g>
   
-  <!-- Risk-Return visualization -->
+
   <g transform="translate(100, 300)">
-    <!-- Axes -->
+
     <line x1="0" y1="100" x2="150" y2="100" stroke="#2c3e50" stroke-width="2"/>
     <line x1="0" y1="100" x2="0" y2="0" stroke="#2c3e50" stroke-width="2"/>
     
-    <!-- Axis labels -->
+
     <text x="75" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
       Risiko
     </text>
@@ -152,7 +152,7 @@
       Avkastning
     </text>
     
-    <!-- Strategy points -->
+
     <circle cx="30" cy="70" r="8" fill="#28a745" stroke="#1e7e34" stroke-width="2"/>
     <text x="30" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#28a745">
       Konservativ
@@ -163,11 +163,11 @@
       Aggressiv
     </text>
     
-    <!-- Trend line -->
+
     <line x1="30" y1="70" x2="120" y2="20" stroke="#6c757d" stroke-width="2" stroke-dasharray="5,5"/>
   </g>
   
-  <!-- Decision factors -->
+
   <g transform="translate(400, 460)">
     <text x="0" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
       Valg av strategi avhenger av:

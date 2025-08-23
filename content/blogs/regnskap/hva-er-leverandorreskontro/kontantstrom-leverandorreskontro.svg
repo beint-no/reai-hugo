@@ -21,10 +21,10 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8fafc"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="70" fill="url(#headerGradient)"/>
   <text x="400" y="30" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="22" font-weight="bold">
     Kontantstrøm og Leverandørreskontro
@@ -33,13 +33,13 @@
     Påvirkning på likviditet og kontantstrømstyring
   </text>
   
-  <!-- Cash Flow Impact Section -->
+
   <rect x="50" y="90" width="700" height="120" fill="url(#flowGradient)" stroke="#0891b2" stroke-width="2" rx="10" filter="url(#shadow)"/>
   <text x="400" y="115" text-anchor="middle" fill="#0c4a6e" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
     Kontantstrømpåvirkning
   </text>
   
-  <!-- Cash flow diagram -->
+
   <rect x="70" y="130" width="200" height="60" fill="#e0f2fe" stroke="#0284c7" stroke-width="1" rx="5"/>
   <text x="170" y="150" text-anchor="middle" fill="#0c4a6e" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Innkommende Fakturaer
@@ -51,7 +51,7 @@
     Kontanter bevares midlertidig
   </text>
   
-  <!-- Arrow -->
+
   <path d="M 280 160 L 320 160" stroke="#6b7280" stroke-width="3" marker-end="url(#arrowhead)"/>
   
   <rect x="330" y="130" width="200" height="60" fill="#fef3c7" stroke="#d97706" stroke-width="1" rx="5"/>
@@ -65,7 +65,7 @@
     Utnyttelse av kredittperioder
   </text>
   
-  <!-- Arrow -->
+
   <path d="M 540 160 L 580 160" stroke="#6b7280" stroke-width="3" marker-end="url(#arrowhead)"/>
   
   <rect x="590" y="130" width="140" height="60" fill="#fee2e2" stroke="#dc2626" stroke-width="1" rx="5"/>
@@ -79,13 +79,13 @@
     Gjeld nedbetales
   </text>
   
-  <!-- Positive Effects Section -->
+
   <rect x="50" y="230" width="350" height="160" fill="url(#positiveGradient)" stroke="#16a34a" stroke-width="2" rx="10" filter="url(#shadow)"/>
   <text x="225" y="255" text-anchor="middle" fill="#166534" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     Positive Effekter
   </text>
   
-  <!-- Positive effect boxes -->
+
   <rect x="70" y="270" width="310" height="35" fill="#dcfce7" stroke="#16a34a" stroke-width="1" rx="5"/>
   <text x="80" y="285" fill="#166534" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Betalingsutsettelse
@@ -110,13 +110,13 @@
     Bedre kontantstrømplanlegging
   </text>
   
-  <!-- Negative Effects Section -->
+
   <rect x="420" y="230" width="330" height="160" fill="url(#negativeGradient)" stroke="#dc2626" stroke-width="2" rx="10" filter="url(#shadow)"/>
   <text x="585" y="255" text-anchor="middle" fill="#991b1b" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     Negative Effekter
   </text>
   
-  <!-- Negative effect boxes -->
+
   <rect x="440" y="270" width="290" height="35" fill="#fee2e2" stroke="#dc2626" stroke-width="1" rx="5"/>
   <text x="450" y="285" fill="#991b1b" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Forsinkelsesrenter
@@ -141,13 +141,13 @@
     Svekket forretningsrelasjon
   </text>
   
-  <!-- Optimization Strategies -->
+
   <rect x="50" y="410" width="700" height="140" fill="#f1f5f9" stroke="#64748b" stroke-width="2" rx="10"/>
   <text x="400" y="435" text-anchor="middle" fill="#1e293b" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
     Optimalisering av Kontantstrøm
   </text>
   
-  <!-- Strategy boxes -->
+
   <rect x="70" y="450" width="150" height="80" fill="#e0f2fe" stroke="#0284c7" stroke-width="1" rx="5"/>
   <text x="145" y="470" text-anchor="middle" fill="#0c4a6e" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Betalingsplanlegging
@@ -216,13 +216,13 @@
     • Trendanalyse
   </text>
   
-  <!-- Key Metrics -->
+
   <rect x="50" y="570" width="700" height="25" fill="#e0f2fe" stroke="#0284c7" stroke-width="1" rx="5"/>
   <text x="400" y="587" text-anchor="middle" fill="#0c4a6e" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     💡 Nøkkeltall: Gjennomsnittlig betalingstid, kontantrabatt-utnyttelse, leverandørkonsentrasjon og likviditetsreserve
   </text>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#6b7280"/>

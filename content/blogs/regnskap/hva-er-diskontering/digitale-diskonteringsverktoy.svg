@@ -22,32 +22,32 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
   <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
     Digitale Diskonteringsverktøy
   </text>
   
-  <!-- Tool 1: Excel/Google Sheets -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="340" height="130" rx="10" fill="url(#excelGradient)" opacity="0.9"/>
     <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
       Excel / Google Sheets
     </text>
     
-    <!-- Icon -->
+
     <circle cx="50" cy="70" r="20" fill="white" opacity="0.3"/>
     <text x="50" y="77" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">📊</text>
     
-    <!-- Description -->
+
     <text x="90" y="50" font-family="Arial, sans-serif" font-size="14" fill="white">
       Innebygde finansfunksjoner
     </text>
     
-    <!-- Functions -->
+
     <text x="90" y="70" font-family="Arial, sans-serif" font-size="12" fill="white">
       • NPV(rate, value1, value2, ...)
     </text>
@@ -62,23 +62,23 @@
     </text>
   </g>
   
-  <!-- Tool 2: Accounting Systems -->
+
   <g transform="translate(410, 80)">
     <rect x="0" y="0" width="340" height="130" rx="10" fill="url(#accountingGradient)" opacity="0.9"/>
     <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
       Regnskapssystemer
     </text>
     
-    <!-- Icon -->
+
     <circle cx="50" cy="70" r="20" fill="white" opacity="0.3"/>
     <text x="50" y="77" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">💼</text>
     
-    <!-- Description -->
+
     <text x="90" y="50" font-family="Arial, sans-serif" font-size="14" fill="white">
       Automatisk diskontering
     </text>
     
-    <!-- Features -->
+
     <text x="90" y="70" font-family="Arial, sans-serif" font-size="12" fill="white">
       • Automatisk leasingberegninger (IFRS 16)
     </text>
@@ -93,23 +93,23 @@
     </text>
   </g>
   
-  <!-- Tool 3: Investment Analysis Software -->
+
   <g transform="translate(50, 230)">
     <rect x="0" y="0" width="340" height="130" rx="10" fill="url(#investmentGradient)" opacity="0.9"/>
     <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
       Investeringsanalyse Software
     </text>
     
-    <!-- Icon -->
+
     <circle cx="50" cy="70" r="20" fill="white" opacity="0.3"/>
     <text x="50" y="77" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">📈</text>
     
-    <!-- Description -->
+
     <text x="90" y="50" font-family="Arial, sans-serif" font-size="14" fill="white">
       Spesialiserte verktøy
     </text>
     
-    <!-- Features -->
+
     <text x="90" y="70" font-family="Arial, sans-serif" font-size="12" fill="white">
       • Monte Carlo simulering
     </text>
@@ -124,23 +124,23 @@
     </text>
   </g>
   
-  <!-- Tool 4: ERP Systems -->
+
   <g transform="translate(410, 230)">
     <rect x="0" y="0" width="340" height="130" rx="10" fill="url(#erpGradient)" opacity="0.9"/>
     <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
       ERP-systemer
     </text>
     
-    <!-- Icon -->
+
     <circle cx="50" cy="70" r="20" fill="white" opacity="0.3"/>
     <text x="50" y="77" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">🏢</text>
     
-    <!-- Description -->
+
     <text x="90" y="50" font-family="Arial, sans-serif" font-size="14" fill="white">
       Integrerte diskonteringsmoduler
     </text>
     
-    <!-- Features -->
+
     <text x="90" y="70" font-family="Arial, sans-serif" font-size="12" fill="white">
       • Kapitalbudsjettering
     </text>
@@ -155,14 +155,14 @@
     </text>
   </g>
   
-  <!-- Excel Functions Detail -->
+
   <g transform="translate(50, 380)">
     <rect x="0" y="0" width="700" height="140" rx="10" fill="#ffffff" stroke="#ddd" stroke-width="2"/>
     <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333">
       Excel Diskonteringsfunksjoner - Eksempler
     </text>
     
-    <!-- NPV Function -->
+
     <g transform="translate(50, 40)">
       <rect x="0" y="0" width="300" height="80" rx="5" fill="#e8f5e8" stroke="#4CAF50" stroke-width="1"/>
       <text x="150" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2E7D32">
@@ -179,7 +179,7 @@
       </text>
     </g>
     
-    <!-- IRR Function -->
+
     <g transform="translate(370, 40)">
       <rect x="0" y="0" width="300" height="80" rx="5" fill="#fff3e0" stroke="#FF9800" stroke-width="1"/>
       <text x="150" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#F57C00">
@@ -197,7 +197,7 @@
     </g>
   </g>
   
-  <!-- Tool Comparison -->
+
   <g transform="translate(50, 540)">
     <rect x="0" y="0" width="700" height="50" rx="10" fill="#e3f2fd" stroke="#2196F3" stroke-width="2"/>
     <text x="350" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1976D2">

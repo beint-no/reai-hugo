@@ -1,11 +1,11 @@
 <svg width="700" height="400" viewBox="0 0 700 400" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="700" height="400" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="350" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">Valutasikringsstrategier basert på Big Mac-indeks</text>
   
-  <!-- Forward contracts -->
+
   <g transform="translate(50, 60)">
     <rect x="0" y="0" width="180" height="140" fill="#d4edda" stroke="#28a745" stroke-width="2" rx="10"/>
     <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#155724">Terminkontrakter</text>
@@ -18,7 +18,7 @@
     <text x="20" y="125" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#155724">Anbefalt når: NOK forventes å styrke seg</text>
   </g>
   
-  <!-- Options -->
+
   <g transform="translate(260, 60)">
     <rect x="0" y="0" width="180" height="140" fill="#fff3cd" stroke="#856404" stroke-width="2" rx="10"/>
     <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#856404">Opsjoner</text>
@@ -31,7 +31,7 @@
     <text x="20" y="125" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#856404">Anbefalt når: Usikker om retning</text>
   </g>
   
-  <!-- Natural hedging -->
+
   <g transform="translate(470, 60)">
     <rect x="0" y="0" width="180" height="140" fill="#d1ecf1" stroke="#0c5460" stroke-width="2" rx="10"/>
     <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0c5460">Naturlig sikring</text>
@@ -44,7 +44,7 @@
     <text x="20" y="125" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#0c5460">Anbefalt som: Langsiktig strategi</text>
   </g>
   
-  <!-- Big Mac signal box -->
+
   <g transform="translate(200, 220)">
     <rect x="0" y="0" width="300" height="80" fill="#f8d7da" stroke="#dc3545" stroke-width="2" rx="10"/>
     <text x="150" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#721c24">Big Mac-indeks signal</text>
@@ -52,7 +52,7 @@
     <text x="150" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#721c24">Mulig NOK-styrking kan redusere eksportinntekter</text>
   </g>
   
-  <!-- Decision matrix -->
+
   <g transform="translate(50, 320)">
     <text x="0" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">Beslutningsmatrise basert på Big Mac-indeks:</text>
     <text x="0" y="40" font-family="Arial, sans-serif" font-size="11" fill="#495057">• Sterk undervurdering (&gt;30%): Vurder terminkontrakter for eksportinntekter</text>

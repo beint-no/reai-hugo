@@ -1,22 +1,22 @@
 <svg width="600" height="500" viewBox="0 0 600 500" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="600" height="500" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="300" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c3e50">
     Kontrollmiljø for Avstemminger
   </text>
   
-  <!-- Main container -->
+
   <rect x="50" y="60" width="500" height="420" fill="white" stroke="#2c3e50" stroke-width="2" rx="10"/>
   
-  <!-- Four-eyes principle section -->
+
   <rect x="70" y="80" width="460" height="100" fill="#3498db" opacity="0.1" stroke="#3498db" stroke-width="2" rx="5"/>
   <text x="300" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
     Fire-øyne-prinsippet
   </text>
   
-  <!-- Four roles -->
+
   <rect x="90" y="120" width="100" height="50" fill="#3498db" opacity="0.8" rx="5"/>
   <text x="140" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     UTFØRER
@@ -61,7 +61,7 @@
     dokumentasjon
   </text>
   
-  <!-- Segregation of duties -->
+
   <rect x="70" y="200" width="460" height="80" fill="#e74c3c" opacity="0.1" stroke="#e74c3c" stroke-width="2" rx="5"/>
   <text x="300" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
     Segregering av Oppgaver
@@ -77,7 +77,7 @@
     transaksjoner og utføre avstemminger
   </text>
   
-  <!-- Authorization levels -->
+
   <rect x="70" y="300" width="460" height="80" fill="#27ae60" opacity="0.1" stroke="#27ae60" stroke-width="2" rx="5"/>
   <text x="300" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
     Autorisasjonsnivåer
@@ -108,7 +108,7 @@
     Økonomisjef/CFO
   </text>
   
-  <!-- Documentation and audit trail -->
+
   <rect x="70" y="400" width="460" height="70" fill="#9b59b6" opacity="0.1" stroke="#9b59b6" stroke-width="2" rx="5"/>
   <text x="300" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
     Dokumentasjon og Sporbarhet
@@ -134,12 +134,12 @@
     Arkivering
   </text>
   
-  <!-- Arrows showing flow -->
+
   <path d="M 190 120 L 210 120" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 310 120 L 330 120" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 430 120 L 450 120" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="arrowhead" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
       <polygon points="0 0, 8 3, 0 6" fill="#2c3e50"/>

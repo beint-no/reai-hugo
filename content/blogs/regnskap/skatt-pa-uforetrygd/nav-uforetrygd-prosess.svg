@@ -10,17 +10,17 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f8fafc"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
     NAVs prosess for uføretrygd - utbetaling og skattetrekk
   </text>
   
-  <!-- Process flow -->
+
   <g transform="translate(50, 70)">
-    <!-- Step 1: Calculation -->
+
     <rect x="0" y="0" width="140" height="80" rx="8" fill="url(#processGrad)" stroke="#1e40af" stroke-width="2"/>
     <text x="70" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       1. Beregning
@@ -35,10 +35,10 @@
       25.000 kr
     </text>
     
-    <!-- Arrow 1 -->
+
     <path d="M150 40 L170 40" stroke="#374151" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
     
-    <!-- Step 2: Tax calculation -->
+
     <rect x="180" y="0" width="140" height="80" rx="8" fill="url(#processGrad)" stroke="#1e40af" stroke-width="2"/>
     <text x="250" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       2. Skattetrekk
@@ -53,10 +53,10 @@
       5.500 kr
     </text>
     
-    <!-- Arrow 2 -->
+
     <path d="M330 40 L350 40" stroke="#374151" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
     
-    <!-- Step 3: Payment to recipient -->
+
     <rect x="360" y="0" width="140" height="80" rx="8" fill="url(#paymentGrad)" stroke="#059669" stroke-width="2"/>
     <text x="430" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       3. Utbetaling
@@ -71,10 +71,10 @@
       19.500 kr
     </text>
     
-    <!-- Arrow 3 -->
+
     <path d="M510 40 L530 40" stroke="#374151" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
     
-    <!-- Step 4: Tax payment -->
+
     <rect x="540" y="0" width="140" height="80" rx="8" fill="url(#processGrad)" stroke="#1e40af" stroke-width="2"/>
     <text x="610" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       4. Innbetaling
@@ -90,13 +90,13 @@
     </text>
   </g>
   
-  <!-- Reporting section -->
+
   <g transform="translate(50, 180)">
     <text x="0" y="20" fill="#1f2937" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
       NAVs rapportering og dokumentasjon
     </text>
     
-    <!-- A-melding box -->
+
     <rect x="0" y="40" width="200" height="100" rx="8" fill="#e0e7ff" stroke="#6366f1" stroke-width="2"/>
     <text x="100" y="65" text-anchor="middle" fill="#4338ca" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       A-melding
@@ -114,7 +114,7 @@
       til Skatteetaten
     </text>
     
-    <!-- Annual report box -->
+
     <rect x="250" y="40" width="200" height="100" rx="8" fill="#dcfce7" stroke="#16a34a" stroke-width="2"/>
     <text x="350" y="65" text-anchor="middle" fill="#15803d" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       Årsoppgave
@@ -132,7 +132,7 @@
       trukket skatt
     </text>
     
-    <!-- Prefilled tax return box -->
+
     <rect x="500" y="40" width="200" height="100" rx="8" fill="#fef3c7" stroke="#f59e0b" stroke-width="2"/>
     <text x="600" y="65" text-anchor="middle" fill="#d97706" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       Forhåndsutfylt
@@ -151,7 +151,7 @@
     </text>
   </g>
   
-  <!-- Integration with employer -->
+
   <g transform="translate(50, 320)">
     <text x="0" y="20" fill="#1f2937" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
       Integrasjon med arbeidsgiver (ved gradert uføretrygd)
@@ -159,7 +159,7 @@
     
     <rect x="0" y="40" width="700" height="120" rx="8" fill="#f1f5f9" stroke="#64748b" stroke-width="1"/>
     
-    <!-- Employer section -->
+
     <rect x="20" y="60" width="150" height="80" rx="5" fill="#dbeafe" stroke="#3b82f6" stroke-width="1"/>
     <text x="95" y="80" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Arbeidsgiver
@@ -174,12 +174,12 @@
       (50% stilling)
     </text>
     
-    <!-- Plus sign -->
+
     <text x="200" y="105" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
       +
     </text>
     
-    <!-- NAV section -->
+
     <rect x="230" y="60" width="150" height="80" rx="5" fill="#dcfce7" stroke="#16a34a" stroke-width="1"/>
     <text x="305" y="80" text-anchor="middle" fill="#15803d" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       NAV
@@ -194,12 +194,12 @@
       (50% uførhet)
     </text>
     
-    <!-- Equals sign -->
+
     <text x="410" y="105" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
       =
     </text>
     
-    <!-- Combined income -->
+
     <rect x="440" y="60" width="200" height="80" rx="5" fill="#fef3c7" stroke="#f59e0b" stroke-width="1"/>
     <text x="540" y="80" text-anchor="middle" fill="#d97706" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Samlet inntekt
@@ -215,7 +215,7 @@
     </text>
   </g>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#374151"/>

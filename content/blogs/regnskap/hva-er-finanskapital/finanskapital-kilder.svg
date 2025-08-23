@@ -18,15 +18,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#333">
     Kilder til Finanskapital
   </text>
   
-  <!-- Central circle -->
+
   <circle cx="400" cy="300" r="60" fill="url(#centerGradient)" stroke="#003366" stroke-width="3"/>
   <text x="400" y="295" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
     FINANSKAPITAL
@@ -35,7 +35,7 @@
     KILDER
   </text>
   
-  <!-- Internal Sources Section -->
+
   <rect x="50" y="100" width="300" height="350" fill="white" stroke="#28a745" stroke-width="3" rx="15"/>
   <rect x="50" y="100" width="300" height="50" fill="url(#interneGradient)" rx="15"/>
   <rect x="50" y="135" width="300" height="15" fill="url(#interneGradient)"/>
@@ -44,7 +44,7 @@
     INTERNE KILDER
   </text>
   
-  <!-- Internal source 1: Overskudd -->
+
   <circle cx="120" cy="200" r="20" fill="#28a745"/>
   <text x="120" y="206" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
     💰
@@ -59,7 +59,7 @@
     Akkumulert egenkapital
   </text>
   
-  <!-- Internal source 2: Avskrivninger -->
+
   <circle cx="120" cy="270" r="20" fill="#28a745"/>
   <text x="120" y="276" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
     📉
@@ -74,7 +74,7 @@
     Ikke-kontant kostnad
   </text>
   
-  <!-- Internal source 3: Salg av eiendeler -->
+
   <circle cx="120" cy="340" r="20" fill="#28a745"/>
   <text x="120" y="346" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
     🏢
@@ -94,7 +94,7 @@
     Selvfinansiering - Ingen eksterne kostnader
   </text>
   
-  <!-- External Sources Section -->
+
   <rect x="450" y="100" width="300" height="350" fill="white" stroke="#fd7e14" stroke-width="3" rx="15"/>
   <rect x="450" y="100" width="300" height="50" fill="url(#eksterneGradient)" rx="15"/>
   <rect x="450" y="135" width="300" height="15" fill="url(#eksterneGradient)"/>
@@ -103,7 +103,7 @@
     EKSTERNE KILDER
   </text>
   
-  <!-- External - Egenkapital -->
+
   <text x="470" y="175" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#fd7e14">
     Egenkapitalfinansiering:
   </text>
@@ -130,7 +130,7 @@
     • Private investorer
   </text>
   
-  <!-- External - Fremmedkapital -->
+
   <text x="470" y="275" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#fd7e14">
     Fremmedkapitalfinansiering:
   </text>
@@ -162,11 +162,11 @@
     Ekstern finansiering - Kostnader og forpliktelser
   </text>
   
-  <!-- Connecting lines -->
+
   <line x1="350" y1="250" x2="360" y2="280" stroke="#28a745" stroke-width="3"/>
   <line x1="450" y1="250" x2="440" y2="280" stroke="#fd7e14" stroke-width="3"/>
   
-  <!-- Bottom summary -->
+
   <rect x="100" y="480" width="600" height="80" fill="white" stroke="#6c757d" stroke-width="2" rx="10"/>
   <text x="400" y="505" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#333">
     Optimal Kapitalstruktur

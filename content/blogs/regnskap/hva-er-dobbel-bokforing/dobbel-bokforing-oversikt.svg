@@ -1,13 +1,13 @@
 <svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Dobbel Bokføring - Systemoversikt
   </text>
   
-  <!-- Transaction box -->
+
   <rect x="50" y="70" width="200" height="80" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="8"/>
   <text x="150" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#856404">
     Transaksjon
@@ -19,10 +19,10 @@
     50 000 kr
   </text>
   
-  <!-- Arrow from transaction -->
+
   <path d="M 250 110 L 320 110" stroke="#6c757d" stroke-width="2" marker-end="url(#arrowhead)"/>
   
-  <!-- Journal entry box -->
+
   <rect x="330" y="70" width="140" height="80" fill="#d1ecf1" stroke="#17a2b8" stroke-width="2" rx="8"/>
   <text x="400" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0c5460">
     Journalpost
@@ -37,10 +37,10 @@
     Balanse: 50 000 = 50 000
   </text>
   
-  <!-- Arrow to ledger -->
+
   <path d="M 470 110 L 520 110" stroke="#6c757d" stroke-width="2" marker-end="url(#arrowhead)"/>
   
-  <!-- Ledger accounts -->
+
   <rect x="530" y="50" width="120" height="60" fill="#d4edda" stroke="#28a745" stroke-width="2" rx="8"/>
   <text x="590" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#155724">
     Kontorutstyr
@@ -63,12 +63,12 @@
     Reduksjon: 50 000
   </text>
   
-  <!-- Four principles boxes -->
+
   <text x="400" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">
     Fire Grunnprinsipper
   </text>
   
-  <!-- Principle 1 -->
+
   <rect x="50" y="270" width="160" height="100" fill="#e8f5e8" stroke="#27ae60" stroke-width="2" rx="8"/>
   <text x="130" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#27ae60">
     1. Balansering
@@ -86,7 +86,7 @@
     Total Kredit
   </text>
   
-  <!-- Principle 2 -->
+
   <rect x="230" y="270" width="160" height="100" fill="#e8f4fd" stroke="#3498db" stroke-width="2" rx="8"/>
   <text x="310" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#3498db">
     2. Dualitet
@@ -101,7 +101,7 @@
     kontoer samtidig
   </text>
   
-  <!-- Principle 3 -->
+
   <rect x="410" y="270" width="160" height="100" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="8"/>
   <text x="490" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#856404">
     3. Sporbarhet
@@ -116,7 +116,7 @@
     originale bilag
   </text>
   
-  <!-- Principle 4 -->
+
   <rect x="590" y="270" width="160" height="100" fill="#f8d7da" stroke="#dc3545" stroke-width="2" rx="8"/>
   <text x="670" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#721c24">
     4. Kontinuitet
@@ -131,7 +131,7 @@
     over alle transaksjoner
   </text>
   
-  <!-- Bottom equation -->
+
   <rect x="200" y="400" width="400" height="60" fill="#e9ecef" stroke="#6c757d" stroke-width="2" rx="8"/>
   <text x="400" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
     EIENDELER = GJELD + EGENKAPITAL
@@ -140,7 +140,7 @@
     Grunnleggende regnskapslikning som alltid må være i balanse
   </text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#6c757d"/>

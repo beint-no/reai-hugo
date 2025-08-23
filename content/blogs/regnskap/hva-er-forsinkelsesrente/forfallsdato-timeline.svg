@@ -11,19 +11,19 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="400" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#333">
     Forfallsdato og Forsinkelsesrente Timeline
   </text>
   
-  <!-- Main timeline -->
+
   <line x1="100" y1="150" x2="700" y2="150" stroke="url(#timelineGradient)" stroke-width="8"/>
   
-  <!-- Timeline markers -->
-  <!-- Fakturadato -->
+
+
   <circle cx="150" cy="150" r="12" fill="#28a745" stroke="white" stroke-width="3"/>
   <text x="150" y="130" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#333">
     Fakturadato
@@ -32,7 +32,7 @@
     Dag 0
   </text>
   
-  <!-- Forfallsdato -->
+
   <circle cx="400" cy="150" r="12" fill="#ffc107" stroke="white" stroke-width="3"/>
   <text x="400" y="130" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#333">
     Forfallsdato
@@ -41,7 +41,7 @@
     Dag 30
   </text>
   
-  <!-- Forsinkelsesrente starter -->
+
   <circle cx="450" cy="150" r="12" fill="#dc3545" stroke="white" stroke-width="3"/>
   <text x="450" y="130" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#333">
     Rente påløper
@@ -50,7 +50,7 @@
     Dag 31+
   </text>
   
-  <!-- Betaling skjer -->
+
   <circle cx="600" cy="150" r="12" fill="#6f42c1" stroke="white" stroke-width="3"/>
   <text x="600" y="130" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#333">
     Betaling
@@ -59,8 +59,8 @@
     Dag 60
   </text>
   
-  <!-- Phases -->
-  <!-- Normal periode -->
+
+
   <rect x="120" y="200" width="250" height="60" fill="#d4edda" stroke="#28a745" stroke-width="1" rx="5"/>
   <text x="245" y="220" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#155724">
     Normal betalingsperiode
@@ -72,7 +72,7 @@
     30 dager betalingsfrist
   </text>
   
-  <!-- Forsinkelsesperiode -->
+
   <rect x="430" y="200" width="220" height="60" fill="#f8d7da" stroke="#dc3545" stroke-width="1" rx="5"/>
   <text x="540" y="220" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#721c24">
     Forsinkelsesperiode
@@ -84,7 +84,7 @@
     12,50% årlig rente (2024)
   </text>
   
-  <!-- Key information boxes -->
+
   <rect x="50" y="290" width="200" height="80" fill="white" stroke="#0066cc" stroke-width="2" rx="5"/>
   <text x="150" y="310" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0066cc">
     B2B Transaksjoner
@@ -127,7 +127,7 @@
     • Fakturagebyr
   </text>
   
-  <!-- Arrows showing progression -->
+
   <polygon points="380,150 390,145 390,155" fill="#333"/>
   <polygon points="430,150 440,145 440,155" fill="#333"/>
   <polygon points="580,150 590,145 590,155" fill="#333"/>

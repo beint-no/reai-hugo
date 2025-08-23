@@ -6,31 +6,31 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f1f5f9"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1e40af">
     Kontorrelaterte Varige Driftsmidler
   </text>
   
-  <!-- Office floor plan -->
+
   <rect x="50" y="60" width="700" height="400" fill="url(#officeGrad)" stroke="#cbd5e1" stroke-width="2" rx="8"/>
   
-  <!-- Reception Area -->
+
   <rect x="70" y="80" width="200" height="100" fill="#dbeafe" stroke="#3b82f6" stroke-width="1" rx="4"/>
   <text x="170" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e40af">
     Resepsjon
   </text>
   
-  <!-- Reception desk -->
+
   <g transform="translate(120, 120)">
     <rect x="0" y="0" width="60" height="30" fill="#8b5cf6" rx="4"/>
     <rect x="5" y="5" width="50" height="20" fill="#7c3aed"/>
     <text x="30" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#1e40af">Resepsjonsdisk</text>
   </g>
   
-  <!-- Waiting chairs -->
+
   <g transform="translate(90, 130)">
     <rect x="0" y="0" width="15" height="15" fill="#f59e0b" rx="2"/>
     <rect x="3" y="3" width="9" height="9" fill="#d97706"/>
@@ -43,29 +43,29 @@
     <text x="7" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#1e40af">Stol</text>
   </g>
   
-  <!-- Coffee table -->
+
   <g transform="translate(135, 150)">
     <ellipse cx="15" cy="8" rx="15" ry="8" fill="#64748b"/>
     <text x="15" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#1e40af">Sofabord</text>
   </g>
   
-  <!-- Open Office Area -->
+
   <rect x="300" y="80" width="430" height="180" fill="#dcfce7" stroke="#16a34a" stroke-width="1" rx="4"/>
   <text x="515" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#15803d">
     Kontorlandskap
   </text>
   
-  <!-- Workstations -->
+
   <g transform="translate(320, 120)">
-    <!-- Desk -->
+
     <rect x="0" y="0" width="40" height="25" fill="#fbbf24" rx="2"/>
     <rect x="3" y="3" width="34" height="19" fill="#f59e0b"/>
     
-    <!-- Chair -->
+
     <circle cx="45" cy="12" r="6" fill="#ef4444"/>
     <rect x="42" y="6" width="6" height="12" fill="#dc2626"/>
     
-    <!-- Computer -->
+
     <rect x="8" y="5" width="12" height="8" fill="#374151" rx="1"/>
     <rect x="10" y="7" width="8" height="4" fill="#10b981"/>
     <rect x="15" y="15" width="6" height="2" fill="#6b7280"/>
@@ -106,7 +106,7 @@
     <text x="20" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#15803d">Arbeidsplass 4</text>
   </g>
   
-  <!-- Second row -->
+
   <g transform="translate(360, 180)">
     <rect x="0" y="0" width="40" height="25" fill="#fbbf24" rx="2"/>
     <rect x="3" y="3" width="34" height="19" fill="#f59e0b"/>
@@ -140,19 +140,19 @@
     <text x="20" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#15803d">Arbeidsplass 7</text>
   </g>
   
-  <!-- Meeting Room -->
+
   <rect x="70" y="200" width="200" height="120" fill="#fef3c7" stroke="#f59e0b" stroke-width="1" rx="4"/>
   <text x="170" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#92400e">
     Møterom
   </text>
   
-  <!-- Meeting table -->
+
   <g transform="translate(110, 240)">
     <ellipse cx="30" cy="20" rx="25" ry="15" fill="#8b5cf6"/>
     <text x="30" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#92400e">Møtebord</text>
   </g>
   
-  <!-- Meeting chairs -->
+
   <g transform="translate(90, 235)">
     <circle cx="5" cy="5" r="4" fill="#ef4444"/>
     <rect x="2" y="1" width="6" height="8" fill="#dc2626"/>
@@ -173,7 +173,7 @@
     <rect x="2" y="1" width="6" height="8" fill="#dc2626"/>
   </g>
   
-  <!-- Whiteboard -->
+
   <g transform="translate(180, 285)">
     <rect x="0" y="0" width="30" height="20" fill="white" stroke="#64748b" rx="1"/>
     <line x1="5" y1="5" x2="25" y2="15" stroke="#3b82f6" stroke-width="1"/>
@@ -181,27 +181,27 @@
     <text x="15" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#92400e">Whiteboard</text>
   </g>
   
-  <!-- Projector -->
+
   <g transform="translate(120, 290)">
     <rect x="0" y="0" width="20" height="12" fill="#374151" rx="2"/>
     <circle cx="10" cy="6" r="3" fill="#6b7280"/>
     <text x="10" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#92400e">Projektor</text>
   </g>
   
-  <!-- Kitchen/Break Area -->
+
   <rect x="300" y="280" width="200" height="160" fill="#fce7f3" stroke="#ec4899" stroke-width="1" rx="4"/>
   <text x="400" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#be185d">
     Kjøkken og Pauseområde
   </text>
   
-  <!-- Kitchen counter -->
+
   <g transform="translate(320, 320)">
     <rect x="0" y="0" width="60" height="20" fill="#64748b" rx="2"/>
     <rect x="5" y="5" width="50" height="10" fill="#475569"/>
     <text x="30" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#be185d">Kjøkkenbenk</text>
   </g>
   
-  <!-- Refrigerator -->
+
   <g transform="translate(420, 320)">
     <rect x="0" y="0" width="15" height="30" fill="#e5e7eb" rx="2"/>
     <rect x="2" y="2" width="11" height="26" fill="#f3f4f6"/>
@@ -212,7 +212,7 @@
     <text x="7" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#be185d">Kjøleskap</text>
   </g>
   
-  <!-- Microwave -->
+
   <g transform="translate(320, 350)">
     <rect x="0" y="0" width="25" height="15" fill="#6b7280" rx="2"/>
     <rect x="3" y="3" width="19" height="9" fill="#374151"/>
@@ -221,7 +221,7 @@
     <text x="12" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#be185d">Mikrobølgeovn</text>
   </g>
   
-  <!-- Coffee machine -->
+
   <g transform="translate(360, 350)">
     <rect x="0" y="5" width="15" height="20" fill="#7c2d12" rx="2"/>
     <rect x="3" y="8" width="9" height="14" fill="#92400e"/>
@@ -230,19 +230,19 @@
     <text x="7" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#be185d">Kaffemaskin</text>
   </g>
   
-  <!-- Break table -->
+
   <g transform="translate(325, 380)">
     <ellipse cx="20" cy="10" rx="15" ry="8" fill="#a855f7"/>
     <text x="20" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#be185d">Pausebord</text>
   </g>
   
-  <!-- Storage/Archive -->
+
   <rect x="530" y="280" width="200" height="160" fill="#fee2e2" stroke="#ef4444" stroke-width="1" rx="4"/>
   <text x="630" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#dc2626">
     Arkiv og Lager
   </text>
   
-  <!-- Filing cabinets -->
+
   <g transform="translate(550, 320)">
     <rect x="0" y="0" width="20" height="40" fill="#94a3b8" rx="2"/>
     <rect x="3" y="3" width="14" height="34" fill="#64748b"/>
@@ -271,7 +271,7 @@
     <text x="10" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#dc2626">Arkivskap</text>
   </g>
   
-  <!-- Storage shelves -->
+
   <g transform="translate(640, 320)">
     <rect x="0" y="0" width="30" height="40" fill="#f59e0b" rx="2"/>
     <rect x="3" y="3" width="24" height="34" fill="#d97706"/>
@@ -279,7 +279,7 @@
     <line x1="5" y1="20" x2="25" y2="20" stroke="#92400e" stroke-width="1"/>
     <line x1="5" y1="28" x2="25" y2="28" stroke="#92400e" stroke-width="1"/>
     
-    <!-- Items on shelves -->
+
     <rect x="7" y="6" width="5" height="4" fill="#065f46"/>
     <rect x="14" y="6" width="5" height="4" fill="#065f46"/>
     <rect x="21" y="6" width="4" height="4" fill="#065f46"/>
@@ -289,7 +289,7 @@
     <text x="15" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#dc2626">Lagerreol</text>
   </g>
   
-  <!-- Printer/Copy area -->
+
   <g transform="translate(680, 320)">
     <rect x="0" y="0" width="25" height="20" fill="#8b5cf6" rx="2"/>
     <rect x="3" y="3" width="19" height="14" fill="#7c3aed"/>

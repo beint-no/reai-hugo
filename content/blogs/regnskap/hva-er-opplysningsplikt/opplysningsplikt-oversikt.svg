@@ -9,15 +9,15 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="900" height="600" fill="url(#bgGradient)" />
   
-  <!-- Title -->
+
   <text x="450" y="40" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" fill="#2d3748">
     Oversikt over opplysningsplikt
   </text>
   
-  <!-- Central circle - Opplysningsplikt -->
+
   <circle cx="450" cy="300" r="80" fill="#0066cc" filter="url(#shadow)"/>
   <text x="450" y="295" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
     Opplysnings-
@@ -26,7 +26,7 @@
     plikt
   </text>
   
-  <!-- A-melding section -->
+
   <g transform="translate(150, 120)">
     <rect x="0" y="0" width="140" height="100" fill="#ffffff" stroke="#0066cc" stroke-width="2" rx="10" filter="url(#shadow)"/>
     <text x="70" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0066cc">
@@ -46,7 +46,7 @@
     </text>
   </g>
   
-  <!-- MVA-melding section -->
+
   <g transform="translate(610, 120)">
     <rect x="0" y="0" width="140" height="100" fill="#ffffff" stroke="#00aa44" stroke-width="2" rx="10" filter="url(#shadow)"/>
     <text x="70" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#00aa44">
@@ -66,7 +66,7 @@
     </text>
   </g>
   
-  <!-- Næringsoppgave section -->
+
   <g transform="translate(150, 480)">
     <rect x="0" y="0" width="140" height="100" fill="#ffffff" stroke="#cc6600" stroke-width="2" rx="10" filter="url(#shadow)"/>
     <text x="70" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#cc6600">
@@ -86,7 +86,7 @@
     </text>
   </g>
   
-  <!-- Årsregnskap section -->
+
   <g transform="translate(610, 480)">
     <rect x="0" y="0" width="140" height="100" fill="#ffffff" stroke="#9900cc" stroke-width="2" rx="10" filter="url(#shadow)"/>
     <text x="70" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#9900cc">
@@ -106,7 +106,7 @@
     </text>
   </g>
   
-  <!-- Additional reporting boxes -->
+
   <g transform="translate(380, 120)">
     <rect x="0" y="0" width="140" height="60" fill="#ffffff" stroke="#666666" stroke-width="1" rx="8" filter="url(#shadow)"/>
     <text x="70" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#666666">
@@ -133,23 +133,23 @@
     </text>
   </g>
   
-  <!-- Connection lines -->
+
   <g stroke="#333333" stroke-width="2" fill="none">
-    <!-- From A-melding to center -->
+
     <line x1="290" y1="170" x2="380" y2="250" />
-    <!-- From MVA to center -->
+
     <line x1="610" y1="170" x2="520" y2="250" />
-    <!-- From Næringsoppgave to center -->
+
     <line x1="290" y1="530" x2="380" y2="350" />
-    <!-- From Årsregnskap to center -->
+
     <line x1="610" y1="530" x2="520" y2="350" />
-    <!-- From International to center -->
+
     <line x1="450" y1="180" x2="450" y2="220" />
-    <!-- From Branch-specific to center -->
+
     <line x1="450" y1="520" x2="450" y2="380" />
   </g>
   
-  <!-- Purpose boxes at bottom -->
+
   <g transform="translate(50, 350)">
     <rect x="0" y="0" width="100" height="40" fill="#e2e8f0" stroke="#4a5568" stroke-width="1" rx="5"/>
     <text x="50" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#4a5568">
@@ -181,7 +181,7 @@
     </text>
   </g>
   
-  <!-- Dotted lines to purpose boxes -->
+
   <g stroke="#4a5568" stroke-width="1" stroke-dasharray="3,3" fill="none">
     <line x1="370" y1="300" x2="150" y2="370" />
     <line x1="530" y1="300" x2="750" y2="370" />

@@ -18,15 +18,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Digital Ansattreskontro - Moderne Lønnssystemer
   </text>
   
-  <!-- Central digital system -->
+
   <rect x="300" y="200" width="200" height="120" fill="url(#digitalGradient)" rx="15"/>
   <text x="400" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     DIGITAL
@@ -41,9 +41,9 @@
     lønnshåndtering
   </text>
   
-  <!-- Benefits (left side) -->
+
   <g>
-    <!-- Automatisk beregning -->
+
     <rect x="50" y="80" width="180" height="70" fill="url(#benefitGradient)" rx="8"/>
     <text x="140" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
       Automatisk Beregning
@@ -56,7 +56,7 @@
     </text>
     <line x1="230" y1="115" x2="300" y2="230" stroke="#28a745" stroke-width="2" marker-end="url(#arrowGreen)"/>
     
-    <!-- Sanntidsoppdatering -->
+
     <rect x="50" y="180" width="180" height="70" fill="url(#benefitGradient)" rx="8"/>
     <text x="140" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
       Sanntidsoppdatering
@@ -69,7 +69,7 @@
     </text>
     <line x1="230" y1="215" x2="300" y2="250" stroke="#28a745" stroke-width="2" marker-end="url(#arrowGreen)"/>
     
-    <!-- Bedre sporbarhet -->
+
     <rect x="50" y="280" width="180" height="70" fill="url(#benefitGradient)" rx="8"/>
     <text x="140" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
       Bedre Sporbarhet
@@ -83,9 +83,9 @@
     <line x1="230" y1="315" x2="300" y2="280" stroke="#28a745" stroke-width="2" marker-end="url(#arrowGreen)"/>
   </g>
   
-  <!-- Integrations (right side) -->
+
   <g>
-    <!-- Tidsregistrering -->
+
     <rect x="570" y="80" width="180" height="70" fill="url(#integrationGradient)" rx="8"/>
     <text x="660" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
       Tidsregistrering
@@ -98,7 +98,7 @@
     </text>
     <line x1="570" y1="115" x2="500" y2="230" stroke="#6f42c1" stroke-width="2" marker-end="url(#arrowPurple)"/>
     
-    <!-- Regnskapssystem -->
+
     <rect x="570" y="180" width="180" height="70" fill="url(#integrationGradient)" rx="8"/>
     <text x="660" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
       Regnskapssystem
@@ -111,7 +111,7 @@
     </text>
     <line x1="570" y1="215" x2="500" y2="250" stroke="#6f42c1" stroke-width="2" marker-end="url(#arrowPurple)"/>
     
-    <!-- A-ordningen -->
+
     <rect x="570" y="280" width="180" height="70" fill="url(#integrationGradient)" rx="8"/>
     <text x="660" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
       A-ordningen
@@ -125,9 +125,9 @@
     <line x1="570" y1="315" x2="500" y2="280" stroke="#6f42c1" stroke-width="2" marker-end="url(#arrowPurple)"/>
   </g>
   
-  <!-- Bottom features -->
+
   <g>
-    <!-- Cloud storage -->
+
     <rect x="100" y="420" width="150" height="80" fill="#17a2b8" rx="8"/>
     <text x="175" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
       Sky-basert Lagring
@@ -142,7 +142,7 @@
       Tilgjengelig overalt
     </text>
     
-    <!-- Mobile access -->
+
     <rect x="275" y="420" width="150" height="80" fill="#fd7e14" rx="8"/>
     <text x="350" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
       Mobil Tilgang
@@ -157,7 +157,7 @@
       Selvbetjening 24/7
     </text>
     
-    <!-- Compliance -->
+
     <rect x="450" y="420" width="150" height="80" fill="#dc3545" rx="8"/>
     <text x="525" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
       Automatisk Compliance
@@ -172,7 +172,7 @@
       skatteregler
     </text>
     
-    <!-- Analytics -->
+
     <rect x="625" y="420" width="150" height="80" fill="#6c757d" rx="8"/>
     <text x="700" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
       Analyse og Rapporter
@@ -188,7 +188,7 @@
     </text>
   </g>
   
-  <!-- Connection lines to bottom features -->
+
   <g>
     <line x1="350" y1="320" x2="175" y2="420" stroke="#adb5bd" stroke-width="1" stroke-dasharray="3,3"/>
     <line x1="375" y1="320" x2="350" y2="420" stroke="#adb5bd" stroke-width="1" stroke-dasharray="3,3"/>
@@ -196,7 +196,7 @@
     <line x1="450" y1="320" x2="700" y2="420" stroke="#adb5bd" stroke-width="1" stroke-dasharray="3,3"/>
   </g>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="arrowGreen" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
       <polygon points="0,0 0,6 9,3" fill="#28a745"/>
@@ -206,7 +206,7 @@
     </marker>
   </defs>
   
-  <!-- Legend -->
+
   <g transform="translate(50, 560)">
     <rect x="0" y="0" width="15" height="15" fill="#28a745"/>
     <text x="20" y="12" font-family="Arial, sans-serif" font-size="11" fill="#6c757d">Fordeler</text>

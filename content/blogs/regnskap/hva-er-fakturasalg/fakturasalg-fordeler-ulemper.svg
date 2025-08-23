@@ -17,48 +17,48 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0066cc">
     Fakturasalg: Fordeler og Ulemper
   </text>
   
-  <!-- Balance Scale -->
+
   <g transform="translate(350, 60)">
-    <!-- Scale base -->
+
     <rect x="45" y="80" width="10" height="60" fill="#666"/>
     <rect x="20" y="135" width="60" height="10" fill="#666"/>
     
-    <!-- Scale beam -->
+
     <rect x="0" y="75" width="100" height="5" fill="#666"/>
     <circle cx="50" cy="77.5" r="5" fill="#333"/>
     
-    <!-- Left scale (Advantages) -->
+
     <rect x="-20" y="60" width="40" height="20" fill="url(#greenGradient)" stroke="#28a745" stroke-width="2" rx="5"/>
     <text x="0" y="73" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#155724">FORDELER</text>
     
-    <!-- Right scale (Disadvantages) -->
+
     <rect x="80" y="60" width="40" height="20" fill="url(#redGradient)" stroke="#dc3545" stroke-width="2" rx="5"/>
     <text x="100" y="73" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#721c24">ULEMPER</text>
     
-    <!-- Scale chains -->
+
     <line x1="0" y1="60" x2="0" y2="75" stroke="#666" stroke-width="2"/>
     <line x1="100" y1="60" x2="100" y2="75" stroke="#666" stroke-width="2"/>
   </g>
   
-  <!-- Advantages Section -->
+
   <g transform="translate(50, 200)">
     <rect x="0" y="0" width="320" height="350" fill="url(#greenGradient)" stroke="#28a745" stroke-width="3" rx="15" filter="url(#shadow)"/>
     
-    <!-- Header -->
+
     <rect x="10" y="10" width="300" height="40" fill="#28a745" rx="10"/>
     <text x="160" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
       FORDELER
     </text>
     
-    <!-- Advantage 1 -->
+
     <g transform="translate(20, 70)">
       <circle cx="15" cy="15" r="12" fill="#28a745"/>
       <text x="15" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">1</text>
@@ -67,7 +67,7 @@
       <text x="40" y="42" font-family="Arial, sans-serif" font-size="11" fill="#155724">ikke må betale umiddelbart</text>
     </g>
     
-    <!-- Advantage 2 -->
+
     <g transform="translate(20, 130)">
       <circle cx="15" cy="15" r="12" fill="#28a745"/>
       <text x="15" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">2</text>
@@ -76,7 +76,7 @@
       <text x="40" y="42" font-family="Arial, sans-serif" font-size="11" fill="#155724">skille deg fra konkurrentene</text>
     </g>
     
-    <!-- Advantage 3 -->
+
     <g transform="translate(20, 190)">
       <circle cx="15" cy="15" r="12" fill="#28a745"/>
       <text x="15" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">3</text>
@@ -85,7 +85,7 @@
       <text x="40" y="42" font-family="Arial, sans-serif" font-size="11" fill="#155724">kredittgivning</text>
     </g>
     
-    <!-- Advantage 4 -->
+
     <g transform="translate(20, 250)">
       <circle cx="15" cy="15" r="12" fill="#28a745"/>
       <text x="15" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">4</text>
@@ -94,24 +94,24 @@
       <text x="40" y="42" font-family="Arial, sans-serif" font-size="11" fill="#155724">beløp på kreditt</text>
     </g>
     
-    <!-- Success icon -->
+
     <g transform="translate(250, 280)">
       <circle cx="25" cy="25" r="20" fill="#28a745"/>
       <path d="M 15 25 L 22 32 L 35 18" stroke="white" stroke-width="3" fill="none"/>
     </g>
   </g>
   
-  <!-- Disadvantages Section -->
+
   <g transform="translate(430, 200)">
     <rect x="0" y="0" width="320" height="350" fill="url(#redGradient)" stroke="#dc3545" stroke-width="3" rx="15" filter="url(#shadow)"/>
     
-    <!-- Header -->
+
     <rect x="10" y="10" width="300" height="40" fill="#dc3545" rx="10"/>
     <text x="160" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
       ULEMPER
     </text>
     
-    <!-- Disadvantage 1 -->
+
     <g transform="translate(20, 70)">
       <circle cx="15" cy="15" r="12" fill="#dc3545"/>
       <text x="15" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">1</text>
@@ -120,7 +120,7 @@
       <text x="40" y="42" font-family="Arial, sans-serif" font-size="11" fill="#721c24">kundefordringer</text>
     </g>
     
-    <!-- Disadvantage 2 -->
+
     <g transform="translate(20, 130)">
       <circle cx="15" cy="15" r="12" fill="#dc3545"/>
       <text x="15" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">2</text>
@@ -129,7 +129,7 @@
       <text x="40" y="42" font-family="Arial, sans-serif" font-size="11" fill="#721c24">hvis kunder ikke betaler</text>
     </g>
     
-    <!-- Disadvantage 3 -->
+
     <g transform="translate(20, 190)">
       <circle cx="15" cy="15" r="12" fill="#dc3545"/>
       <text x="15" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">3</text>
@@ -138,7 +138,7 @@
       <text x="40" y="42" font-family="Arial, sans-serif" font-size="11" fill="#721c24">inkassoprosesser</text>
     </g>
     
-    <!-- Disadvantage 4 -->
+
     <g transform="translate(20, 250)">
       <circle cx="15" cy="15" r="12" fill="#dc3545"/>
       <text x="15" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">4</text>
@@ -147,7 +147,7 @@
       <text x="40" y="42" font-family="Arial, sans-serif" font-size="11" fill="#721c24">å finansiere driften</text>
     </g>
     
-    <!-- Warning icon -->
+
     <g transform="translate(250, 280)">
       <circle cx="25" cy="25" r="20" fill="#dc3545"/>
       <rect x="22" y="15" width="6" height="12" fill="white"/>
@@ -155,7 +155,7 @@
     </g>
   </g>
   
-  <!-- Bottom summary -->
+
   <g transform="translate(50, 570)">
     <text x="350" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">
       Nøkkelen til suksess: Balansere salgsmuligheter med risikostyring

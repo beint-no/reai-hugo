@@ -21,17 +21,17 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
     Fortjeneste Nivåer - Fra Inntekt til Nettofortjeneste
   </text>
   
-  <!-- Waterfall diagram showing profit levels -->
+
   
-  <!-- Revenue level -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="700" height="60" fill="url(#revenueGradient)" rx="8" filter="url(#shadow)"/>
     <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
@@ -45,7 +45,7 @@
     </text>
   </g>
   
-  <!-- Minus COGS -->
+
   <g transform="translate(100, 160)">
     <rect x="0" y="0" width="200" height="40" fill="#dc3545" rx="6"/>
     <text x="100" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
@@ -55,11 +55,11 @@
       (Cost of Goods Sold)
     </text>
     
-    <!-- Arrow down -->
+
     <path d="M 100 50 L 100 80" stroke="#495057" stroke-width="3" marker-end="url(#arrowdown)"/>
   </g>
   
-  <!-- Gross Profit level -->
+
   <g transform="translate(50, 220)">
     <rect x="0" y="0" width="500" height="60" fill="url(#grossGradient)" rx="8" filter="url(#shadow)"/>
     <text x="250" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
@@ -73,7 +73,7 @@
     </text>
   </g>
   
-  <!-- Minus Operating Expenses -->
+
   <g transform="translate(100, 300)">
     <rect x="0" y="0" width="200" height="40" fill="#dc3545" rx="6"/>
     <text x="100" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
@@ -83,11 +83,11 @@
       (Lønn, husleie, markedsføring)
     </text>
     
-    <!-- Arrow down -->
+
     <path d="M 100 50 L 100 80" stroke="#495057" stroke-width="3" marker-end="url(#arrowdown)"/>
   </g>
   
-  <!-- Operating Profit level -->
+
   <g transform="translate(50, 360)">
     <rect x="0" y="0" width="350" height="60" fill="url(#operatingGradient)" rx="8" filter="url(#shadow)"/>
     <text x="175" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
@@ -101,7 +101,7 @@
     </text>
   </g>
   
-  <!-- Minus Financial costs and taxes -->
+
   <g transform="translate(100, 440)">
     <rect x="0" y="0" width="200" height="50" fill="#dc3545" rx="6"/>
     <text x="100" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
@@ -114,11 +114,11 @@
       (Renter og skatt)
     </text>
     
-    <!-- Arrow down -->
+
     <path d="M 100 60 L 100 90" stroke="#495057" stroke-width="3" marker-end="url(#arrowdown)"/>
   </g>
   
-  <!-- Net Profit level -->
+
   <g transform="translate(50, 510)">
     <rect x="0" y="0" width="250" height="60" fill="url(#netGradient)" rx="8" filter="url(#shadow)"/>
     <text x="125" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
@@ -132,7 +132,7 @@
     </text>
   </g>
   
-  <!-- Side explanations -->
+
   <g transform="translate(580, 180)">
     <rect x="0" y="0" width="180" height="350" fill="#ffffff" stroke="#dee2e6" stroke-width="2" rx="8"/>
     <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#495057">
@@ -201,7 +201,7 @@
     </text>
   </g>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="arrowdown" markerWidth="8" markerHeight="8" refX="4" refY="6" orient="auto">
       <polygon points="0 0, 8 0, 4 6" fill="#495057"/>

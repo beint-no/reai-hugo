@@ -26,15 +26,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#2c3e50">
     Omsetning - Beste Praksis
   </text>
   
-  <!-- Central best practices icon -->
+
   <g transform="translate(350, 70)">
     <circle cx="50" cy="50" r="35" fill="#27ae60" stroke="#229954" stroke-width="3"/>
     <path d="M 35 50 L 45 60 L 65 40" stroke="white" stroke-width="4" fill="none"/>
@@ -43,14 +43,14 @@
     </text>
   </g>
   
-  <!-- Daily Registration -->
+
   <g transform="translate(50, 150)">
     <rect x="0" y="0" width="180" height="120" fill="url(#dailyGradient)" rx="10"/>
     <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
       Daglig registrering
     </text>
     
-    <!-- Calendar icon -->
+
     <g transform="translate(70, 35)">
       <rect x="0" y="5" width="40" height="35" fill="white" rx="3"/>
       <rect x="0" y="5" width="40" height="10" fill="#1abc9c"/>
@@ -70,14 +70,14 @@
     </text>
   </g>
   
-  <!-- Documentation -->
+
   <g transform="translate(280, 150)">
     <rect x="0" y="0" width="180" height="120" fill="url(#docGradient)" rx="10"/>
     <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
       Dokumentasjon
     </text>
     
-    <!-- Document stack icon -->
+
     <g transform="translate(70, 35)">
       <rect x="5" y="5" width="30" height="35" fill="white" rx="2"/>
       <rect x="3" y="3" width="30" height="35" fill="#ecf0f1" rx="2"/>
@@ -97,14 +97,14 @@
     </text>
   </g>
   
-  <!-- Reconciliation -->
+
   <g transform="translate(510, 150)">
     <rect x="0" y="0" width="180" height="120" fill="url(#reconcileGradient)" rx="10"/>
     <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
       Avstemming
     </text>
     
-    <!-- Balance scale icon -->
+
     <g transform="translate(65, 35)">
       <line x1="25" y1="10" x2="25" y2="40" stroke="white" stroke-width="3"/>
       <line x1="10" y1="20" x2="40" y2="20" stroke="white" stroke-width="2"/>
@@ -122,14 +122,14 @@
     </text>
   </g>
   
-  <!-- Periodic Control -->
+
   <g transform="translate(165, 300)">
     <rect x="0" y="0" width="180" height="120" fill="url(#controlGradient)" rx="10"/>
     <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
       Periodisk kontroll
     </text>
     
-    <!-- Magnifying glass icon -->
+
     <g transform="translate(70, 35)">
       <circle cx="18" cy="18" r="12" fill="none" stroke="white" stroke-width="3"/>
       <line x1="28" y1="28" x2="38" y2="38" stroke="white" stroke-width="3"/>
@@ -146,14 +146,14 @@
     </text>
   </g>
   
-  <!-- Professional Help -->
+
   <g transform="translate(395, 300)">
     <rect x="0" y="0" width="180" height="120" fill="url(#helpGradient)" rx="10"/>
     <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
       Profesjonell hjelp
     </text>
     
-    <!-- Person with briefcase icon -->
+
     <g transform="translate(70, 35)">
       <circle cx="20" cy="15" r="8" fill="white"/>
       <rect x="15" y="23" width="10" height="15" fill="white"/>
@@ -170,14 +170,14 @@
     </text>
   </g>
   
-  <!-- Common Mistakes to Avoid -->
+
   <g transform="translate(50, 450)">
     <rect x="0" y="0" width="700" height="120" fill="#34495e" rx="10"/>
     <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
       Vanlige feil å unngå:
     </text>
     
-    <!-- Error items -->
+
     <g transform="translate(50, 40)">
       <circle cx="10" cy="10" r="8" fill="#e74c3c"/>
       <text x="10" y="14" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">✗</text>
@@ -211,14 +211,14 @@
     </g>
   </g>
   
-  <!-- Connection lines from center -->
+
   <path d="M 380 120 L 140 150" stroke="#bdc3c7" stroke-width="2" fill="none" stroke-dasharray="3,3"/>
   <path d="M 400 120 L 370 150" stroke="#bdc3c7" stroke-width="2" fill="none" stroke-dasharray="3,3"/>
   <path d="M 420 120 L 600 150" stroke="#bdc3c7" stroke-width="2" fill="none" stroke-dasharray="3,3"/>
   <path d="M 380 130 L 255 300" stroke="#bdc3c7" stroke-width="2" fill="none" stroke-dasharray="3,3"/>
   <path d="M 420 130 L 485 300" stroke="#bdc3c7" stroke-width="2" fill="none" stroke-dasharray="3,3"/>
   
-  <!-- Success indicators -->
+
   <g transform="translate(20, 20)">
     <circle cx="15" cy="15" r="12" fill="#27ae60"/>
     <path d="M 9 15 L 13 19 L 21 11" stroke="white" stroke-width="2" fill="none"/>

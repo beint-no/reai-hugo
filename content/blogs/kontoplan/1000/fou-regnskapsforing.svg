@@ -1,22 +1,22 @@
 <svg width="800" height="650" viewBox="0 0 800 650" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="650" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">
     Regnskapsføring av FoU-aktiviteter
   </text>
   
-  <!-- Phase 1: Development Costs -->
+
   <g transform="translate(50, 70)">
     <rect x="0" y="0" width="700" height="120" fill="#3498db" stroke="#2c3e50" stroke-width="2" rx="10"/>
     <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
       FASE 1: LØPENDE UTVIKLINGSKOSTNADER
     </text>
     
-    <!-- T-account structure -->
+
     <g transform="translate(50, 40)">
-      <!-- Debit side -->
+
       <rect x="0" y="0" width="250" height="70" fill="white" stroke="#2c3e50" stroke-width="1"/>
       <text x="125" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#2c3e50">
         DEBET
@@ -32,7 +32,7 @@
       </text>
     </g>
     
-    <!-- Credit side -->
+
     <g transform="translate(400, 40)">
       <rect x="0" y="0" width="250" height="70" fill="white" stroke="#2c3e50" stroke-width="1"/>
       <text x="125" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#2c3e50">
@@ -50,10 +50,10 @@
     </g>
   </g>
   
-  <!-- Arrow down -->
+
   <path d="M 400 210 L 400 250" stroke="#2c3e50" stroke-width="3" marker-end="url(#arrowhead)"/>
   
-  <!-- Phase 2: Project Completion -->
+
   <g transform="translate(50, 270)">
     <rect x="0" y="0" width="700" height="80" fill="#27ae60" stroke="#2c3e50" stroke-width="2" rx="10"/>
     <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -67,19 +67,19 @@
     </text>
   </g>
   
-  <!-- Arrow down -->
+
   <path d="M 400 370 L 400 410" stroke="#2c3e50" stroke-width="3" marker-end="url(#arrowhead)"/>
   
-  <!-- Phase 3: Annual Amortization -->
+
   <g transform="translate(50, 430)">
     <rect x="0" y="0" width="700" height="120" fill="#9b59b6" stroke="#2c3e50" stroke-width="2" rx="10"/>
     <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
       FASE 3: ÅRLIG AMORTISERING (560 000 NOK per år)
     </text>
     
-    <!-- Amortization T-account -->
+
     <g transform="translate(50, 40)">
-      <!-- Debit side -->
+
       <rect x="0" y="0" width="250" height="70" fill="white" stroke="#2c3e50" stroke-width="1"/>
       <text x="125" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#2c3e50">
         DEBET
@@ -95,7 +95,7 @@
       </text>
     </g>
     
-    <!-- Credit side -->
+
     <g transform="translate(400, 40)">
       <rect x="0" y="0" width="250" height="70" fill="white" stroke="#2c3e50" stroke-width="1"/>
       <text x="125" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#2c3e50">
@@ -113,7 +113,7 @@
     </g>
   </g>
   
-  <!-- Balance Sheet Impact -->
+
   <g transform="translate(50, 570)">
     <rect x="0" y="0" width="700" height="70" fill="#e74c3c" stroke="#2c3e50" stroke-width="2" rx="10"/>
     <text x="350" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -127,14 +127,14 @@
     </text>
   </g>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#2c3e50"/>
     </marker>
   </defs>
   
-  <!-- Side note boxes -->
+
   <g transform="translate(20, 200)">
     <rect x="0" y="0" width="160" height="50" fill="#f39c12" stroke="#2c3e50" stroke-width="1" rx="5"/>
     <text x="80" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="white">

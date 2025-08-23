@@ -10,29 +10,29 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="400" fill="#f1f5f9"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
   <text x="400" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white" text-anchor="middle">Hva er purring og purregebyr?</text>
   <text x="400" y="60" font-family="Arial, sans-serif" font-size="14" fill="#e2e8f0" text-anchor="middle">Guide til oppfølging av forfalte fakturaer</text>
   
-  <!-- Main content area -->
+
   <rect x="50" y="110" width="700" height="260" fill="url(#cardGradient)" stroke="#e2e8f0" stroke-width="2" rx="10"/>
   
-  <!-- Document icon -->
+
   <rect x="80" y="140" width="120" height="160" fill="white" stroke="#64748b" stroke-width="2" rx="5"/>
   <rect x="90" y="150" width="100" height="8" fill="#ef4444" rx="2"/>
   <rect x="90" y="170" width="80" height="6" fill="#64748b" rx="1"/>
   <rect x="90" y="185" width="90" height="6" fill="#64748b" rx="1"/>
   <rect x="90" y="200" width="70" height="6" fill="#64748b" rx="1"/>
   
-  <!-- Warning triangle -->
+
   <polygon points="150,220 140,240 160,240" fill="#f59e0b" stroke="#d97706" stroke-width="1"/>
   <text x="150" y="235" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white" text-anchor="middle">!</text>
   
-  <!-- Process flow -->
+
   <circle cx="280" cy="170" r="25" fill="#10b981" stroke="#059669" stroke-width="2"/>
   <text x="280" y="175" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white" text-anchor="middle">1</text>
   <text x="280" y="205" font-family="Arial, sans-serif" font-size="11" fill="#374151" text-anchor="middle">Forfall</text>
@@ -49,7 +49,7 @@
   <text x="440" y="175" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white" text-anchor="middle">₹</text>
   <text x="440" y="205" font-family="Arial, sans-serif" font-size="11" fill="#374151" text-anchor="middle">Gebyr</text>
   
-  <!-- Key points -->
+
   <text x="520" y="150" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">Purregebyr 2024:</text>
   <text x="520" y="175" font-family="Arial, sans-serif" font-size="14" fill="#374151">• 1. purring: 70 kr</text>
   <text x="520" y="195" font-family="Arial, sans-serif" font-size="14" fill="#374151">• 2. purring: 140 kr</text>
@@ -59,11 +59,11 @@
   <text x="520" y="270" font-family="Arial, sans-serif" font-size="12" fill="#374151">Andre inntekter (uten mva)</text>
   <text x="520" y="285" font-family="Arial, sans-serif" font-size="12" fill="#374151">Tillegg til kundefordring</text>
   
-  <!-- Money symbol -->
+
   <circle cx="650" cy="250" r="30" fill="#16a34a" stroke="#15803d" stroke-width="2"/>
   <text x="650" y="260" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white" text-anchor="middle">kr</text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#64748b"/>

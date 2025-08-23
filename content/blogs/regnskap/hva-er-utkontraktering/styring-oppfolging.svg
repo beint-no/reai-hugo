@@ -14,15 +14,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#14532d">
     Styring og Oppfølging av Utkontraktering
   </text>
   
-  <!-- Central governance circle -->
+
   <circle cx="400" cy="120" r="50" fill="#22c55e" stroke="#16a34a" stroke-width="3"/>
   <text x="400" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     STYRING
@@ -31,7 +31,7 @@
     &amp; KONTROLL
   </text>
   
-  <!-- SLA Section -->
+
   <g transform="translate(50, 200)">
     <rect x="0" y="0" width="340" height="180" rx="10" fill="url(#slaGradient)" stroke="#f59e0b" stroke-width="2"/>
     <circle cx="25" cy="25" r="15" fill="#f59e0b"/>
@@ -64,7 +64,7 @@
     </text>
   </g>
   
-  <!-- Governance Structure Section -->
+
   <g transform="translate(410, 200)">
     <rect x="0" y="0" width="340" height="180" rx="10" fill="url(#governanceGradient)" stroke="#16a34a" stroke-width="2"/>
     <circle cx="25" cy="25" r="15" fill="#16a34a"/>
@@ -97,14 +97,14 @@
     </text>
   </g>
   
-  <!-- KPI Dashboard -->
+
   <g transform="translate(50, 400)">
     <rect x="0" y="0" width="200" height="140" rx="10" fill="url(#governanceGradient)" stroke="#3b82f6" stroke-width="2"/>
     <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e40af">
       KPI Dashboard
     </text>
     
-    <!-- KPI bars -->
+
     <rect x="20" y="40" width="80" height="15" fill="#22c55e" rx="2"/>
     <text x="15" y="52" font-family="Arial, sans-serif" font-size="9" fill="#374151">Kvalitet</text>
     <text x="105" y="52" font-family="Arial, sans-serif" font-size="9" fill="#374151">95%</text>
@@ -122,7 +122,7 @@
     <text x="105" y="127" font-family="Arial, sans-serif" font-size="9" fill="#374151">78%</text>
   </g>
   
-  <!-- Reporting Cycle -->
+
   <g transform="translate(270, 400)">
     <rect x="0" y="0" width="200" height="140" rx="10" fill="url(#governanceGradient)" stroke="#8b5cf6" stroke-width="2"/>
     <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#581c87">
@@ -149,7 +149,7 @@
     </text>
   </g>
   
-  <!-- Continuous Improvement -->
+
   <g transform="translate(490, 400)">
     <rect x="0" y="0" width="260" height="140" rx="10" fill="url(#governanceGradient)" stroke="#10b981" stroke-width="2"/>
     <circle cx="25" cy="25" r="15" fill="#10b981"/>
@@ -175,14 +175,14 @@
     </text>
   </g>
   
-  <!-- Connecting lines from center to sections -->
+
   <line x1="370" y1="140" x2="220" y2="195" stroke="#22c55e" stroke-width="2" stroke-dasharray="5,5"/>
   <line x1="430" y1="140" x2="580" y2="195" stroke="#22c55e" stroke-width="2" stroke-dasharray="5,5"/>
   <line x1="380" y1="160" x2="150" y2="395" stroke="#22c55e" stroke-width="2" stroke-dasharray="5,5"/>
   <line x1="400" y1="170" x2="370" y2="395" stroke="#22c55e" stroke-width="2" stroke-dasharray="5,5"/>
   <line x1="420" y1="160" x2="620" y2="395" stroke="#22c55e" stroke-width="2" stroke-dasharray="5,5"/>
   
-  <!-- Bottom note -->
+
   <text x="400" y="580" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#64748b">
     Effektiv styring og oppfølging sikrer måloppnåelse og kontinuerlig forbedring
   </text>

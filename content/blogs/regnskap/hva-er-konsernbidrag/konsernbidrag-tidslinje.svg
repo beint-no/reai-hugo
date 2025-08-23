@@ -19,19 +19,19 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="400" fill="#F8F9FA"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2C3E50">
     Tidslinje for Gjennomføring av Konsernbidrag
   </text>
   
-  <!-- Main timeline -->
+
   <line x1="100" y1="150" x2="700" y2="150" stroke="url(#timelineGrad)" stroke-width="6"/>
   
-  <!-- Timeline markers -->
-  <!-- Step 1: Planning -->
+
+
   <circle cx="150" cy="150" r="8" fill="#3498DB" stroke="white" stroke-width="2"/>
   <rect x="100" y="80" width="100" height="60" rx="8" fill="url(#blueGrad)" stroke="#2C3E50" stroke-width="2"/>
   <text x="150" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
@@ -44,7 +44,7 @@
     konsernstruktur
   </text>
   
-  <!-- Step 2: Board decisions -->
+
   <circle cx="300" cy="150" r="8" fill="#2ECC71" stroke="white" stroke-width="2"/>
   <rect x="250" y="80" width="100" height="60" rx="8" fill="url(#greenGrad)" stroke="#2C3E50" stroke-width="2"/>
   <text x="300" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
@@ -57,7 +57,7 @@
     før fristen
   </text>
   
-  <!-- Step 3: Accounting -->
+
   <circle cx="450" cy="150" r="8" fill="#F39C12" stroke="white" stroke-width="2"/>
   <rect x="400" y="80" width="100" height="60" rx="8" fill="#F39C12" stroke="#2C3E50" stroke-width="2"/>
   <text x="450" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
@@ -70,7 +70,7 @@
     transaksjonen
   </text>
   
-  <!-- Step 4: Settlement -->
+
   <circle cx="600" cy="150" r="8" fill="#E74C3C" stroke="white" stroke-width="2"/>
   <rect x="550" y="80" width="100" height="60" rx="8" fill="url(#redGrad)" stroke="#2C3E50" stroke-width="2"/>
   <text x="600" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
@@ -83,16 +83,16 @@
     3 måneder
   </text>
   
-  <!-- Detailed timeline below -->
+
   <rect x="50" y="200" width="700" height="180" rx="10" fill="#ECF0F1" stroke="#BDC3C7" stroke-width="2"/>
   <text x="400" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2C3E50">
     Detaljert Tidsplan
   </text>
   
-  <!-- Month timeline -->
+
   <line x1="100" y1="260" x2="700" y2="260" stroke="#7F8C8D" stroke-width="2"/>
   
-  <!-- Month markers -->
+
   <text x="150" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#2C3E50">
     Jan-Mar
   </text>
@@ -113,8 +113,8 @@
   </text>
   <line x1="600" y1="255" x2="600" y2="265" stroke="#7F8C8D" stroke-width="2"/>
   
-  <!-- Activities -->
-  <!-- Q1 Activities -->
+
+
   <rect x="80" y="280" width="140" height="40" rx="5" fill="#D5DBDB" stroke="#85929E" stroke-width="1"/>
   <text x="150" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#2C3E50">
     Konsernanalyse
@@ -126,7 +126,7 @@
     Beregn skatteeffekt
   </text>
   
-  <!-- Q2 Activities -->
+
   <rect x="230" y="280" width="140" height="40" rx="5" fill="#A9DFBF" stroke="#58D68D" stroke-width="1"/>
   <text x="300" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#2C3E50">
     Forberedelser
@@ -138,7 +138,7 @@
     Forberede styrevedtak
   </text>
   
-  <!-- Q3 Activities -->
+
   <rect x="380" y="280" width="140" height="40" rx="5" fill="#F9E79F" stroke="#F4D03F" stroke-width="1"/>
   <text x="450" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#2C3E50">
     Gjennomføring
@@ -150,7 +150,7 @@
     Regnskapsføring
   </text>
   
-  <!-- Q4 Activities -->
+
   <rect x="530" y="280" width="140" height="40" rx="5" fill="#F5B7B1" stroke="#EC7063" stroke-width="1"/>
   <text x="600" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#2C3E50">
     Oppfølging
@@ -162,7 +162,7 @@
     Selvangivelse
   </text>
   
-  <!-- Critical deadlines -->
+
   <rect x="80" y="340" width="280" height="30" rx="5" fill="#FADBD8" stroke="#E74C3C" stroke-width="2"/>
   <text x="220" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#E74C3C">
     ⚠️ Kritisk frist: Før levering av selvangivelse

@@ -1,14 +1,14 @@
 <svg width="700" height="500" viewBox="0 0 700 500" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="700" height="500" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="350" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c3e50">
     Oversikt over Avstemmingsprosessen
   </text>
   
-  <!-- Process flow -->
-  <!-- Step 1: Forberedelse -->
+
+
   <rect x="50" y="70" width="120" height="80" fill="#3498db" opacity="0.8" rx="10"/>
   <text x="110" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     1. FORBEREDELSE
@@ -23,10 +23,10 @@
     • Sett tidsramme
   </text>
   
-  <!-- Arrow 1 -->
+
   <path d="M 180 110 L 220 110" stroke="#2c3e50" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 2: Sammenligning -->
+
   <rect x="230" y="70" width="120" height="80" fill="#e67e22" opacity="0.8" rx="10"/>
   <text x="290" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     2. SAMMENLIGNING
@@ -41,10 +41,10 @@
     • Kategoriser forskjeller
   </text>
   
-  <!-- Arrow 2 -->
+
   <path d="M 360 110 L 400 110" stroke="#2c3e50" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 3: Undersøkelse -->
+
   <rect x="410" y="70" width="120" height="80" fill="#9b59b6" opacity="0.8" rx="10"/>
   <text x="470" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     3. UNDERSØKELSE
@@ -59,10 +59,10 @@
     • Spor posteringer
   </text>
   
-  <!-- Arrow 3 -->
+
   <path d="M 540 110 L 580 110" stroke="#2c3e50" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 4: Korrigering -->
+
   <rect x="590" y="70" width="120" height="80" fill="#e74c3c" opacity="0.8" rx="10"/>
   <text x="650" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     4. KORRIGERING
@@ -77,10 +77,10 @@
     • Godkjenn korrigeringer
   </text>
   
-  <!-- Arrow down -->
+
   <path d="M 650 160 L 650 200" stroke="#2c3e50" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 5: Dokumentasjon -->
+
   <rect x="590" y="210" width="120" height="80" fill="#27ae60" opacity="0.8" rx="10"/>
   <text x="650" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     5. DOKUMENTASJON
@@ -95,12 +95,12 @@
     • Kommuniser resultater
   </text>
   
-  <!-- Types of reconciliations -->
+
   <text x="50" y="340" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
     Hovedtyper Avstemminger:
   </text>
   
-  <!-- Bank reconciliation -->
+
   <rect x="50" y="360" width="180" height="60" fill="#3498db" opacity="0.2" stroke="#3498db" stroke-width="2" rx="5"/>
   <text x="140" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
     Bankavstemminger
@@ -109,7 +109,7 @@
     Kassabok vs Bankutskrift
   </text>
   
-  <!-- Balance reconciliation -->
+
   <rect x="260" y="360" width="180" height="60" fill="#e67e22" opacity="0.2" stroke="#e67e22" stroke-width="2" rx="5"/>
   <text x="350" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
     Balanseavstemminger
@@ -118,7 +118,7 @@
     Alle balanseposter
   </text>
   
-  <!-- Interim reconciliation -->
+
   <rect x="470" y="360" width="180" height="60" fill="#9b59b6" opacity="0.2" stroke="#9b59b6" stroke-width="2" rx="5"/>
   <text x="560" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
     Mellomregningsavstemminger
@@ -127,7 +127,7 @@
     Midlertidige posteringer
   </text>
   
-  <!-- Frequency indicators -->
+
   <text x="50" y="460" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
     Hyppighet:
   </text>
@@ -147,7 +147,7 @@
     Kvartalsvis/Årlig
   </text>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#2c3e50"/>

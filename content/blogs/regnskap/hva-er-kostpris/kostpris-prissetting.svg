@@ -18,15 +18,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Kostpris, Prissetting og Lønnsomhet
   </text>
   
-  <!-- Cost price section -->
+
   <rect x="50" y="80" width="200" height="350" fill="url(#costGradient)" stroke="#e74c3c" stroke-width="3" rx="15"/>
   <text x="150" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#c62828">
     KOSTPRIS
@@ -35,7 +35,7 @@
     Grunnlag for prissetting
   </text>
   
-  <!-- Cost breakdown -->
+
   <rect x="70" y="160" width="160" height="40" fill="white" stroke="#e74c3c" stroke-width="2" rx="5"/>
   <text x="80" y="180" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
     Direkte kostnader
@@ -60,7 +60,7 @@
     1.000 kr
   </text>
   
-  <!-- Cost note -->
+
   <text x="150" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
     Minimum pris for
   </text>
@@ -68,7 +68,7 @@
     å unngå tap
   </text>
   
-  <!-- Pricing section -->
+
   <rect x="300" y="80" width="200" height="350" fill="url(#priceGradient)" stroke="#4caf50" stroke-width="3" rx="15"/>
   <text x="400" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2e7d32">
     SALGSPRIS
@@ -77,7 +77,7 @@
     Kostpris + Fortjenestemargin
   </text>
   
-  <!-- Pricing calculation -->
+
   <rect x="320" y="160" width="160" height="40" fill="white" stroke="#4caf50" stroke-width="2" rx="5"/>
   <text x="330" y="180" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
     Kostpris
@@ -102,7 +102,7 @@
     1.250 kr
   </text>
   
-  <!-- Pricing strategies -->
+
   <text x="400" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#2e7d32">
     Prisstrategier:
   </text>
@@ -116,7 +116,7 @@
     • Konkurransebasert prissetting
   </text>
   
-  <!-- Profitability section -->
+
   <rect x="550" y="80" width="200" height="350" fill="url(#profitGradient)" stroke="#2196f3" stroke-width="3" rx="15"/>
   <text x="650" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1565c0">
     LØNNSOMHET
@@ -125,7 +125,7 @@
     Resultat av prissetting
   </text>
   
-  <!-- Profitability calculation -->
+
   <rect x="570" y="160" width="160" height="40" fill="white" stroke="#2196f3" stroke-width="2" rx="5"/>
   <text x="580" y="180" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
     Salgspris
@@ -150,7 +150,7 @@
     250 kr
   </text>
   
-  <!-- Profitability metrics -->
+
   <text x="650" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#1565c0">
     Lønnsomhetsmål:
   </text>
@@ -164,11 +164,11 @@
     • ROI: Avhenger av investering
   </text>
   
-  <!-- Arrows showing flow -->
+
   <path d="M 260 250 L 290 250" stroke="#34495e" stroke-width="4" fill="none" marker-end="url(#arrowhead1)"/>
   <path d="M 510 250 L 540 250" stroke="#34495e" stroke-width="4" fill="none" marker-end="url(#arrowhead2)"/>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="arrowhead1" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>
@@ -178,7 +178,7 @@
     </marker>
   </defs>
   
-  <!-- Bottom formula -->
+
   <rect x="150" y="450" width="500" height="30" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1" rx="5"/>
   <text x="400" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
     Lønnsomhet = Salgspris - Kostpris = Fortjeneste

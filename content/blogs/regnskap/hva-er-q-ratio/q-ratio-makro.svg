@@ -13,22 +13,22 @@
     </style>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="680" fill="#ffffff"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" class="title" text-anchor="middle">Q-ratio og Makroøkonomisk Analyse</text>
   <text x="400" y="55" class="text" text-anchor="middle">Sammenhengen mellom Q-ratio, økonomiske sykluser og pengepolitikk</text>
   
-  <!-- Historical Q-ratio chart -->
+
   <rect x="50" y="80" width="700" height="180" class="cycle-box" rx="8"/>
   <text x="400" y="105" class="header" text-anchor="middle">Historisk S&amp;P 500 Q-ratio (1950-2023)</text>
   
-  <!-- Chart axes -->
+
   <line x1="100" y1="230" x2="700" y2="230" stroke="#bdc3c7" stroke-width="2"/>
   <line x1="100" y1="130" x2="100" y2="230" stroke="#bdc3c7" stroke-width="2"/>
   
-  <!-- Y-axis labels -->
+
   <text x="85" y="135" class="chart-text" text-anchor="end">3.0</text>
   <text x="85" y="155" class="chart-text" text-anchor="end">2.5</text>
   <text x="85" y="175" class="chart-text" text-anchor="end">2.0</text>
@@ -36,18 +36,18 @@
   <text x="85" y="215" class="chart-text" text-anchor="end">1.0</text>
   <text x="85" y="235" class="chart-text" text-anchor="end">0.5</text>
   
-  <!-- X-axis labels -->
+
   <text x="150" y="250" class="chart-text" text-anchor="middle">1960</text>
   <text x="250" y="250" class="chart-text" text-anchor="middle">1980</text>
   <text x="350" y="250" class="chart-text" text-anchor="middle">2000</text>
   <text x="450" y="250" class="chart-text" text-anchor="middle">2010</text>
   <text x="550" y="250" class="chart-text" text-anchor="middle">2020</text>
   
-  <!-- Historical average line -->
+
   <line x1="100" y1="210" x2="700" y2="210" stroke="#f39c12" stroke-width="2" stroke-dasharray="5,5"/>
   <text x="710" y="215" class="chart-text" fill="#f39c12">Historisk gjennomsnitt ≈ 1.0</text>
   
-  <!-- Key historical periods -->
+
   <circle cx="200" cy="225" r="5" fill="#e74c3c"/>
   <text x="210" y="230" class="chart-text">1974 (Q≈0.6)</text>
   
@@ -60,7 +60,7 @@
   <circle cx="530" cy="150" r="5" fill="#e74c3c"/>
   <text x="540" y="155" class="chart-text">2021 (Q≈2.4)</text>
   
-  <!-- Economic Cycles -->
+
   <rect x="50" y="280" width="340" height="180" class="expansion-box" rx="10"/>
   <text x="220" y="305" class="header" text-anchor="middle">Ekspansjonsfaser</text>
   <text x="220" y="325" class="value" text-anchor="middle">Q-ratio: 1.2 - 2.0</text>
@@ -87,32 +87,32 @@
   <text x="430" y="440" class="subheader">Investeringsstrategi:</text>
   <text x="430" y="455" class="text">• Øk eksponering ved Q &lt; 0.8</text>
   
-  <!-- Monetary Policy Impact -->
+
   <rect x="50" y="480" width="700" height="140" fill="#e8f4f8" stroke="#3498db" stroke-width="2" rx="10"/>
   <text x="400" y="505" class="header" text-anchor="middle">Pengepolitikkens Påvirkning på Q-ratio</text>
   
-  <!-- Low rates box -->
+
   <rect x="80" y="520" width="200" height="80" fill="#d5f4e6" stroke="#27ae60" stroke-width="1" rx="5"/>
   <text x="180" y="540" class="subheader" text-anchor="middle">Lave Renter</text>
   <text x="90" y="560" class="text">• Lavere diskonteringsrente</text>
   <text x="90" y="575" class="text">• Høyere eiendelspriser</text>
   <text x="90" y="590" class="text">• Q-ratio øker</text>
   
-  <!-- High rates box -->
+
   <rect x="300" y="520" width="200" height="80" fill="#fadbd8" stroke="#e74c3c" stroke-width="1" rx="5"/>
   <text x="400" y="540" class="subheader" text-anchor="middle">Høye Renter</text>
   <text x="310" y="560" class="text">• Høyere diskonteringsrente</text>
   <text x="310" y="575" class="text">• Lavere eiendelspriser</text>
   <text x="310" y="590" class="text">• Q-ratio synker</text>
   
-  <!-- QE box -->
+
   <rect x="520" y="520" width="200" height="80" fill="#fff3cd" stroke="#ffc107" stroke-width="1" rx="5"/>
   <text x="620" y="540" class="subheader" text-anchor="middle">Kvantitative Lettelser</text>
   <text x="530" y="560" class="text">• Kunstig likviditetstilførsel</text>
   <text x="530" y="575" class="text">• Asset price inflation</text>
   <text x="530" y="590" class="text">• Q-ratio kunstig oppblåst</text>
   
-  <!-- Policy implications -->
+
   <rect x="50" y="640" width="700" height="30" fill="#f8f9fa" stroke="#6c757d" stroke-width="1" rx="5"/>
   <text x="400" y="660" class="text" text-anchor="middle">💡 Q-ratio kan brukes som ledende indikator for markedstopper og bunner i økonomiske sykluser</text>
 </svg>

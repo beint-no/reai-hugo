@@ -10,21 +10,21 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e293b">Internkontroll ved Varekjøp</text>
   
-  <!-- Control framework -->
+
   <g transform="translate(50,70)">
     <rect x="0" y="0" width="700" height="50" rx="10" fill="url(#controlGradient)"/>
     <text x="350" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">Fire-øyeprinsippet: Adskillelse av Ansvar og Kontroll</text>
   </g>
   
-  <!-- Control elements -->
+
   
-  <!-- Authorization -->
+
   <g transform="translate(50,150)">
     <rect x="0" y="0" width="160" height="120" rx="10" fill="white" stroke="#dc2626" stroke-width="2"/>
     <rect x="10" y="10" width="140" height="25" rx="5" fill="url(#controlGradient)"/>
@@ -37,7 +37,7 @@
     <text x="15" y="114" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Kontraktsinngåelse</text>
   </g>
   
-  <!-- Receiving -->
+
   <g transform="translate(240,150)">
     <rect x="0" y="0" width="160" height="120" rx="10" fill="white" stroke="#dc2626" stroke-width="2"/>
     <rect x="10" y="10" width="140" height="25" rx="5" fill="url(#controlGradient)"/>
@@ -50,7 +50,7 @@
     <text x="15" y="114" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Lagerregistrering</text>
   </g>
   
-  <!-- Invoice processing -->
+
   <g transform="translate(430,150)">
     <rect x="0" y="0" width="160" height="120" rx="10" fill="white" stroke="#dc2626" stroke-width="2"/>
     <rect x="10" y="10" width="140" height="25" rx="5" fill="url(#controlGradient)"/>
@@ -63,7 +63,7 @@
     <text x="15" y="114" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Tre-veismatching</text>
   </g>
   
-  <!-- Payment authorization -->
+
   <g transform="translate(620,150)">
     <rect x="0" y="0" width="160" height="120" rx="10" fill="white" stroke="#dc2626" stroke-width="2"/>
     <rect x="10" y="10" width="140" height="25" rx="5" fill="url(#controlGradient)"/>
@@ -76,18 +76,18 @@
     <text x="15" y="114" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Bankrekonsiliastion</text>
   </g>
   
-  <!-- Risk factors and controls table -->
+
   <g transform="translate(50,300)">
     <rect x="0" y="0" width="700" height="170" rx="10" fill="white" stroke="#e2e8f0" stroke-width="2"/>
     <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">Risikofaktorer og Kontrolltiltak</text>
     
-    <!-- Table header -->
+
     <rect x="20" y="35" width="660" height="25" fill="#fee2e2"/>
     <text x="30" y="52" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e293b">Risikofaktor</text>
     <text x="200" y="52" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e293b">Potensielle Konsekvenser</text>
     <text x="450" y="52" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e293b">Kontrolltiltak</text>
     
-    <!-- Table rows -->
+
     <g transform="translate(0,60)">
       <rect x="20" y="0" width="660" height="22" fill="white" stroke="#e5e7eb" stroke-width="1"/>
       <text x="30" y="16" font-family="Arial, sans-serif" font-size="10" fill="#1e293b">Uautoriserte kjøp</text>
@@ -117,7 +117,7 @@
     </g>
   </g>
   
-  <!-- Key principles -->
+
   <g transform="translate(100,480)">
     <text x="300" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#dc2626">Kjerneprinsipper:</text>
     <text x="100" y="15" font-family="Arial, sans-serif" font-size="10" fill="#64748b">• Ansvarsadskillelse</text>

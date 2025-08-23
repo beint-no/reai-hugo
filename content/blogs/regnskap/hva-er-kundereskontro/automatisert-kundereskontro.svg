@@ -15,25 +15,25 @@
     </style>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" class="title" text-anchor="middle">Automatisert Kundereskontro</text>
   <text x="400" y="50" class="subtitle" text-anchor="middle">Moderne automatiseringsmuligheter</text>
   
-  <!-- Central hub -->
+
   <circle cx="400" cy="250" r="60" class="center-hub"/>
   <text x="400" y="240" class="module-title" text-anchor="middle">AUTOMATISERT</text>
   <text x="400" y="255" class="module-title" text-anchor="middle">KUNDERESKONTRO</text>
   <text x="400" y="270" class="module-title" text-anchor="middle">SYSTEM</text>
   
-  <!-- Automation Module 1: Invoicing -->
+
   <g transform="translate(150, 120)">
     <rect x="0" y="0" width="180" height="120" class="invoicing" rx="10"/>
     <text x="90" y="20" class="module-title" text-anchor="middle">FAKTURERING</text>
     
-    <!-- Invoice icon -->
+
     <g transform="translate(90, 45)">
       <rect x="-15" y="-10" width="30" height="20" fill="#fff" rx="2"/>
       <line x1="-10" y1="-5" x2="10" y2="-5" stroke="#3498db" stroke-width="1"/>
@@ -48,12 +48,12 @@
     <text x="10" y="110" class="automation-text">• eFaktura integrasjon</text>
   </g>
   
-  <!-- Automation Module 2: Payment Registration -->
+
   <g transform="translate(470, 120)">
     <rect x="0" y="0" width="180" height="120" class="payment" rx="10"/>
     <text x="90" y="20" class="module-title" text-anchor="middle">BETALINGSREGISTRERING</text>
     
-    <!-- Payment icon -->
+
     <g transform="translate(90, 45)">
       <rect x="-15" y="-8" width="30" height="16" fill="#fff" rx="2"/>
       <circle cx="-8" cy="0" r="3" fill="#27ae60"/>
@@ -67,12 +67,12 @@
     <text x="10" y="110" class="automation-text">• Sanntidsoppdatering</text>
   </g>
   
-  <!-- Automation Module 3: Follow-up -->
+
   <g transform="translate(150, 320)">
     <rect x="0" y="0" width="180" height="120" class="followup" rx="10"/>
     <text x="90" y="20" class="module-title" text-anchor="middle">OPPFØLGING</text>
     
-    <!-- Follow-up icon -->
+
     <g transform="translate(90, 45)">
       <circle cx="0" cy="0" r="12" fill="#fff"/>
       <path d="M -8 -3 L -3 2 L 8 -8" stroke="#f39c12" stroke-width="2" fill="none"/>
@@ -85,12 +85,12 @@
     <text x="10" y="110" class="automation-text">• Rapportering til ledelsen</text>
   </g>
   
-  <!-- Automation Module 4: Reporting -->
+
   <g transform="translate(470, 320)">
     <rect x="0" y="0" width="180" height="120" class="reporting" rx="10"/>
     <text x="90" y="20" class="module-title" text-anchor="middle">RAPPORTERING</text>
     
-    <!-- Reporting icon -->
+
     <g transform="translate(90, 45)">
       <rect x="-12" y="-8" width="24" height="16" fill="#fff" rx="1"/>
       <rect x="-8" y="-4" width="4" height="8" fill="#9b59b6"/>
@@ -103,7 +103,7 @@
     <text x="10" y="110" class="automation-text">• Kontantstrøm prognoser</text>
   </g>
   
-  <!-- Connection lines from center to modules -->
+
   <g stroke="#7f8c8d" stroke-width="2" fill="none" stroke-dasharray="5,5">
     <line x1="360" y1="210" x2="240" y2="180"/>
     <line x1="440" y1="210" x2="560" y2="180"/>
@@ -111,7 +111,7 @@
     <line x1="440" y1="290" x2="560" y2="320"/>
   </g>
   
-  <!-- Benefits section -->
+
   <rect x="50" y="470" width="700" height="110" fill="#fff" stroke="#bdc3c7" stroke-width="1" rx="10"/>
   <text x="400" y="495" class="subtitle" text-anchor="middle">Fordeler med Automatisering</text>
   
@@ -147,7 +147,7 @@
     <text x="10" y="60" class="small-text">• Fremtidssikret</text>
   </g>
   
-  <!-- Implementation note -->
+
   <rect x="50" y="80" width="700" height="30" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1" rx="5"/>
   <text x="400" y="100" class="text" text-anchor="middle" font-weight="bold">Implementering krever planlegging, men gir betydelige besparelser og forbedret kontroll</text>
 </svg>

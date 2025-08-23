@@ -14,13 +14,13 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" fill="#28a745" font-family="Arial, sans-serif" font-size="24" font-weight="bold">Fremtidige Trender for Grunnlønn</text>
   
-  <!-- Timeline arrow -->
+
   <defs>
     <marker id="arrowhead" markerWidth="12" markerHeight="8" refX="11" refY="4" orient="auto">
       <polygon points="0 0, 12 4, 0 8" fill="#28a745" />
@@ -30,26 +30,26 @@
   <line x1="100" y1="80" x2="700" y2="80" stroke="#28a745" stroke-width="4" marker-end="url(#arrowhead)"/>
   <text x="400" y="70" text-anchor="middle" fill="#28a745" font-family="Arial, sans-serif" font-size="14" font-weight="bold">FREMTIDEN</text>
   
-  <!-- Current state -->
+
   <g transform="translate(100, 100)">
     <rect x="-40" y="0" width="80" height="40" fill="#6c757d" stroke="#495057" stroke-width="2" rx="5"/>
     <text x="0" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">I DAG</text>
     <text x="0" y="60" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">Tradisjonell grunnlønn</text>
   </g>
   
-  <!-- Trend 1: Kompetansebasert lønn -->
+
   <g transform="translate(250, 150)">
     <rect x="-70" y="-20" width="140" height="40" fill="#007bff" stroke="#0056b3" stroke-width="2" rx="8"/>
     <text x="0" y="-5" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">KOMPETANSEBASERT</text>
     <text x="0" y="10" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="11">Ferdigheter og kunnskap</text>
     
-    <!-- Innovation icon -->
+
     <circle cx="0" cy="50" r="15" fill="#17a2b8" stroke="#138496" stroke-width="2"/>
     <text x="0" y="55" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">💡</text>
     <text x="0" y="85" text-anchor="middle" fill="#007bff" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Økt fokus på kompetanse</text>
   </g>
   
-  <!-- Trend 2: Fleksible modeller -->
+
   <g transform="translate(400, 200)">
     <rect x="-65" y="-20" width="130" height="40" fill="#ffc107" stroke="#e0a800" stroke-width="2" rx="8"/>
     <text x="0" y="-5" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">FLEKSIBLE</text>
@@ -60,7 +60,7 @@
     <text x="0" y="85" text-anchor="middle" fill="#ffc107" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Hybrid lønnsmodeller</text>
   </g>
   
-  <!-- Trend 3: Bærekraft -->
+
   <g transform="translate(550, 150)">
     <rect x="-60" y="-20" width="120" height="40" fill="#28a745" stroke="#1e7e34" stroke-width="2" rx="8"/>
     <text x="0" y="-5" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">BÆREKRAFT</text>
@@ -71,11 +71,11 @@
     <text x="0" y="85" text-anchor="middle" fill="#28a745" font-family="Arial, sans-serif" font-size="10" font-weight="bold">ESG-baserte tillegg</text>
   </g>
   
-  <!-- Technology section -->
+
   <rect x="50" y="280" width="700" height="120" fill="white" stroke="#dee2e6" stroke-width="1" rx="10"/>
   <text x="400" y="305" text-anchor="middle" fill="#007bff" font-family="Arial, sans-serif" font-size="18" font-weight="bold">Teknologiske Endringer</text>
   
-  <!-- Tech trend 1: AI og automatisering -->
+
   <g transform="translate(150, 330)">
     <rect x="-60" y="-15" width="120" height="30" fill="url(#techGradient)" stroke="#0056b3" stroke-width="2" rx="5"/>
     <text x="0" y="-2" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="11" font-weight="bold">AI &amp; AUTOMATISERING</text>
@@ -83,7 +83,7 @@
     <text x="0" y="40" text-anchor="middle" fill="#007bff" font-family="Arial, sans-serif" font-size="9">Big data for markedstilpasning</text>
   </g>
   
-  <!-- Tech trend 2: Fjernarbeid -->
+
   <g transform="translate(400, 330)">
     <rect x="-55" y="-15" width="110" height="30" fill="#6f42c1" stroke="#5a32a3" stroke-width="2" rx="5"/>
     <text x="0" y="-2" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="11" font-weight="bold">FJERNARBEID</text>
@@ -91,7 +91,7 @@
     <text x="0" y="40" text-anchor="middle" fill="#6f42c1" font-family="Arial, sans-serif" font-size="9">Globalisert lønnssetting</text>
   </g>
   
-  <!-- Tech trend 3: Kontinuerlig læring -->
+
   <g transform="translate(650, 330)">
     <rect x="-70" y="-15" width="140" height="30" fill="#dc3545" stroke="#c82333" stroke-width="2" rx="5"/>
     <text x="0" y="-2" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="11" font-weight="bold">KONTINUERLIG LÆRING</text>
@@ -99,7 +99,7 @@
     <text x="0" y="40" text-anchor="middle" fill="#dc3545" font-family="Arial, sans-serif" font-size="9">Lønn følger kompetanse</text>
   </g>
   
-  <!-- Future outlook -->
+
   <g transform="translate(700, 100)">
     <rect x="-50" y="0" width="100" height="40" fill="url(#futureGradient)" stroke="#1e7e34" stroke-width="2" rx="5"/>
     <text x="0" y="15" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">2030+</text>
@@ -107,13 +107,13 @@
     <text x="0" y="60" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">Dynamisk grunnlønn</text>
   </g>
   
-  <!-- Connecting arrows -->
+
   <line x1="180" y1="120" x2="220" y2="140" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
   <line x1="320" y1="160" x2="360" y2="180" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
   <line x1="480" y1="190" x2="520" y2="160" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
   <line x1="590" y1="140" x2="650" y2="120" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
   
-  <!-- Bottom summary -->
+
   <rect x="50" y="420" width="700" height="60" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="5"/>
   <text x="400" y="440" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Grunnlønn utvikler seg mot mer fleksible og kompetansebaserte modeller</text>
   <text x="400" y="460" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="12">Teknologi og bærekraft driver endringene fremover</text>

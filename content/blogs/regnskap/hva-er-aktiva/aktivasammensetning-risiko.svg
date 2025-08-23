@@ -1,13 +1,13 @@
 <svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="400" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Aktivasammensetning og Risiko
   </text>
   
-  <!-- Conservative portfolio -->
+
   <rect x="50" y="80" width="300" height="280" fill="#27ae60" rx="10" opacity="0.9"/>
   <text x="200" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
     KONSERVATIV PROFIL
@@ -16,7 +16,7 @@
     Høy andel anleggsmidler
   </text>
   
-  <!-- Pie chart representation for conservative -->
+
   <circle cx="200" cy="200" r="60" fill="#2980b9" opacity="0.8"/>
   <path d="M 200 140 A 60 60 0 0 1 252 170 L 200 200 Z" fill="#3498db"/>
   <text x="200" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white" font-weight="bold">
@@ -26,7 +26,7 @@
     20% Omløpsmidler
   </text>
   
-  <!-- Characteristics -->
+
   <text x="80" y="320" font-family="Arial, sans-serif" font-size="11" fill="white">
     ✓ Stabil drift
   </text>
@@ -37,7 +37,7 @@
     ✗ Mindre fleksibilitet
   </text>
   
-  <!-- Aggressive portfolio -->
+
   <rect x="450" y="80" width="300" height="280" fill="#e74c3c" rx="10" opacity="0.9"/>
   <text x="600" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
     AGGRESSIV PROFIL
@@ -46,7 +46,7 @@
     Høy andel omløpsmidler
   </text>
   
-  <!-- Pie chart representation for aggressive -->
+
   <circle cx="600" cy="200" r="60" fill="#3498db" opacity="0.8"/>
   <path d="M 600 140 A 60 60 0 1 1 548 170 L 600 200 Z" fill="#2980b9"/>
   <text x="600" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white" font-weight="bold">
@@ -56,7 +56,7 @@
     70% Omløpsmidler
   </text>
   
-  <!-- Characteristics -->
+
   <text x="480" y="320" font-family="Arial, sans-serif" font-size="11" fill="white">
     ✓ Høy fleksibilitet
   </text>
@@ -67,7 +67,7 @@
     ✗ Høyere risiko
   </text>
   
-  <!-- Risk arrow -->
+
   <path d="M 370 200 L 430 200" stroke="#2c3e50" stroke-width="4" fill="none" marker-end="url(#arrowhead)"/>
   <text x="400" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50" font-weight="bold">
     ØKENDE
@@ -76,14 +76,14 @@
     RISIKO
   </text>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrowhead" markerWidth="12" markerHeight="8" refX="11" refY="4" orient="auto">
       <polygon points="0 0, 12 4, 0 8" fill="#2c3e50"/>
     </marker>
   </defs>
   
-  <!-- Legend -->
+
   <rect x="50" y="370" width="15" height="15" fill="#2980b9"/>
   <text x="75" y="382" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
     Anleggsmidler

@@ -18,15 +18,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Feriepenger Beregning i Ansattreskontro
   </text>
   
-  <!-- Income calculation section -->
+
   <g>
     <rect x="50" y="80" width="300" height="150" fill="white" stroke="#dee2e6" stroke-width="2" rx="8"/>
     <rect x="50" y="80" width="300" height="40" fill="url(#incomeGradient)" rx="8 8 0 0"/>
@@ -34,7 +34,7 @@
       Feriepengegivende Inntekt
     </text>
     
-    <!-- Income items -->
+
     <g font-family="Arial, sans-serif" font-size="12">
       <text x="70" y="145" fill="#495057">Grunnlønn (12 mnd):</text>
       <text x="300" y="145" text-anchor="end" fill="#495057">540 000 kr</text>
@@ -52,7 +52,7 @@
     </g>
   </g>
   
-  <!-- Calculation arrow -->
+
   <g>
     <line x1="370" y1="155" x2="430" y2="155" stroke="#6c757d" stroke-width="3" marker-end="url(#arrow)"/>
     <text x="400" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#6c757d">
@@ -60,7 +60,7 @@
     </text>
   </g>
   
-  <!-- Holiday pay calculation -->
+
   <g>
     <rect x="450" y="80" width="300" height="150" fill="white" stroke="#dee2e6" stroke-width="2" rx="8"/>
     <rect x="450" y="80" width="300" height="40" fill="url(#holidayGradient)" rx="8 8 0 0"/>
@@ -68,7 +68,7 @@
       Feriepenger Beregning
     </text>
     
-    <!-- Calculation details -->
+
     <g font-family="Arial, sans-serif" font-size="12">
       <text x="470" y="145" fill="#495057">Feriepengegivende inntekt:</text>
       <text x="720" y="145" text-anchor="end" fill="#495057">580 000 kr</text>
@@ -86,7 +86,7 @@
     </g>
   </g>
   
-  <!-- Monthly tracking table -->
+
   <g>
     <rect x="50" y="280" width="700" height="180" fill="white" stroke="#dee2e6" stroke-width="2" rx="8"/>
     <rect x="50" y="280" width="700" height="40" fill="url(#payoutGradient)" rx="8 8 0 0"/>
@@ -94,7 +94,7 @@
       Månedlig Oppfølging i Ansattreskontro
     </text>
     
-    <!-- Table headers -->
+
     <g font-family="Arial, sans-serif" font-size="11" font-weight="bold">
       <text x="70" y="345" fill="#495057">Måned</text>
       <text x="150" y="345" fill="#495057">Lønn</text>
@@ -108,10 +108,10 @@
       <text x="630" y="345" fill="#495057">Feriepengegjeld</text>
     </g>
     
-    <!-- Separator line -->
+
     <line x1="70" y1="370" x2="720" y2="370" stroke="#dee2e6" stroke-width="1"/>
     
-    <!-- Table data -->
+
     <g font-family="Arial, sans-serif" font-size="10">
       <text x="70" y="390" fill="#6c757d">Januar</text>
       <text x="150" y="390" fill="#6c757d">45 000</text>
@@ -147,14 +147,14 @@
     </g>
   </g>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
       <polygon points="0,0 0,6 9,3" fill="#6c757d"/>
     </marker>
   </defs>
   
-  <!-- Bottom note -->
+
   <text x="400" y="485" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
     Feriepengegjeld vises som gjeld i balansen frem til utbetaling
   </text>

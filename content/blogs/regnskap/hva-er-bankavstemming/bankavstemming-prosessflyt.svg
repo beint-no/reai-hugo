@@ -21,15 +21,15 @@
     </marker>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="700" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#212529">
     Bankavstemming - Prosessflyt
   </text>
   
-  <!-- Step 1: Forberedelse -->
+
   <rect x="300" y="80" width="200" height="60" rx="10" fill="url(#stepGradient)" stroke="#1864ab" stroke-width="2"/>
   <text x="400" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     1. FORBEREDELSE
@@ -38,7 +38,7 @@
     Samle dokumentasjon
   </text>
   
-  <!-- Step 1 details -->
+
   <rect x="50" y="80" width="220" height="60" rx="8" fill="rgba(77, 171, 247, 0.1)" stroke="#4dabf7" stroke-width="1"/>
   <text x="160" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#1864ab">
     • Kassabok • Bankutskrift
@@ -47,10 +47,10 @@
     • Bilag • Forrige avstemming
   </text>
   
-  <!-- Arrow 1 -->
+
   <line x1="400" y1="150" x2="400" y2="180" stroke="#495057" stroke-width="2" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 2: Sammenligning -->
+
   <rect x="300" y="190" width="200" height="60" rx="10" fill="url(#stepGradient)" stroke="#1864ab" stroke-width="2"/>
   <text x="400" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     2. SAMMENLIGNING
@@ -59,7 +59,7 @@
     Sammenlign saldoer
   </text>
   
-  <!-- Step 2 details -->
+
   <rect x="530" y="190" width="220" height="60" rx="8" fill="rgba(77, 171, 247, 0.1)" stroke="#4dabf7" stroke-width="1"/>
   <text x="640" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#1864ab">
     Kassabok: 125,000 kr
@@ -71,10 +71,10 @@
     Differanse: 6,500 kr
   </text>
   
-  <!-- Arrow 2 -->
+
   <line x1="400" y1="260" x2="400" y2="290" stroke="#495057" stroke-width="2" marker-end="url(#arrowhead)"/>
   
-  <!-- Decision Diamond -->
+
   <polygon points="400,300 450,325 400,350 350,325" fill="url(#decisionGradient)" stroke="#fab005" stroke-width="2"/>
   <text x="400" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     Avvik?
@@ -83,7 +83,7 @@
     Ja/Nei
   </text>
   
-  <!-- No path -->
+
   <line x1="350" y1="325" x2="200" y2="325" stroke="#495057" stroke-width="2" marker-end="url(#arrowhead)"/>
   <text x="275" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#495057">NEI</text>
   
@@ -95,11 +95,11 @@
     Avstemming OK
   </text>
   
-  <!-- Yes path -->
+
   <line x1="400" y1="360" x2="400" y2="390" stroke="#495057" stroke-width="2" marker-end="url(#arrowhead)"/>
   <text x="415" y="380" font-family="Arial, sans-serif" font-size="12" fill="#495057">JA</text>
   
-  <!-- Step 3: Undersøkelse -->
+
   <rect x="300" y="400" width="200" height="60" rx="10" fill="url(#stepGradient)" stroke="#1864ab" stroke-width="2"/>
   <text x="400" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     3. UNDERSØKELSE
@@ -108,7 +108,7 @@
     Analyser avvik
   </text>
   
-  <!-- Step 3 details -->
+
   <rect x="50" y="400" width="220" height="60" rx="8" fill="rgba(77, 171, 247, 0.1)" stroke="#4dabf7" stroke-width="1"/>
   <text x="160" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#1864ab">
     • Innskudd i transitt: +8,000
@@ -120,10 +120,10 @@
     • Bankgebyr: -300
   </text>
   
-  <!-- Arrow 3 -->
+
   <line x1="400" y1="470" x2="400" y2="500" stroke="#495057" stroke-width="2" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 4: Korrigering -->
+
   <rect x="300" y="510" width="200" height="60" rx="10" fill="url(#stepGradient)" stroke="#1864ab" stroke-width="2"/>
   <text x="400" y="535" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     4. KORRIGERING
@@ -132,7 +132,7 @@
     Juster kassabok
   </text>
   
-  <!-- Step 4 details -->
+
   <rect x="530" y="510" width="220" height="60" rx="8" fill="rgba(77, 171, 247, 0.1)" stroke="#4dabf7" stroke-width="1"/>
   <text x="640" y="530" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#1864ab">
     Registrer bankgebyr: -300 kr
@@ -144,10 +144,10 @@
     Ny saldo: 123,700 kr
   </text>
   
-  <!-- Arrow 4 -->
+
   <line x1="400" y1="580" x2="400" y2="610" stroke="#495057" stroke-width="2" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 5: Dokumentasjon -->
+
   <rect x="300" y="620" width="200" height="60" rx="10" fill="url(#actionGradient)" stroke="#37b24d" stroke-width="2"/>
   <text x="400" y="645" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     5. DOKUMENTASJON
@@ -156,7 +156,7 @@
     Arkiver avstemming
   </text>
   
-  <!-- Step 5 details -->
+
   <rect x="50" y="620" width="220" height="60" rx="8" fill="rgba(81, 207, 102, 0.1)" stroke="#51cf66" stroke-width="1"/>
   <text x="160" y="640" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#37b24d">
     • Avstemmingsrapport
@@ -168,7 +168,7 @@
     • Godkjenning og arkivering
   </text>
   
-  <!-- Loop back arrow for continuous process -->
+
   <path d="M 520 650 Q 600 650 600 110 Q 600 80 520 110" stroke="#6c757d" stroke-width="2" stroke-dasharray="5,5" fill="none" marker-end="url(#arrowhead)"/>
   <text x="620" y="380" font-family="Arial, sans-serif" font-size="10" fill="#6c757d" transform="rotate(90 620 380)">
     Neste periode

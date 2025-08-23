@@ -6,13 +6,13 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8fafc"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1f2937" text-anchor="middle">Regnskapsføring av Tømmerkonto - Prosessflyt</text>
   
-  <!-- Step 1: Timber Sale -->
+
   <rect x="50" y="80" width="180" height="120" fill="#ecfdf5" stroke="#10b981" stroke-width="2" rx="8"/>
   <text x="140" y="105" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#065f46" text-anchor="middle">1. TØMMERSALG</text>
   <text x="60" y="130" font-family="Arial, sans-serif" font-size="11" fill="#065f46">Registrering av salg:</text>
@@ -21,7 +21,7 @@
   <text x="60" y="175" font-family="Arial, sans-serif" font-size="10" fill="#065f46">• Faktura utstedt</text>
   <text x="60" y="190" font-family="Arial, sans-serif" font-size="10" fill="#065f46">Kr 1,000,000</text>
   
-  <!-- Step 2: Cost Calculation -->
+
   <rect x="280" y="80" width="180" height="120" fill="#fef3c7" stroke="#f59e0b" stroke-width="2" rx="8"/>
   <text x="370" y="105" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#92400e" text-anchor="middle">2. KOSTNADSBEREGNING</text>
   <text x="290" y="130" font-family="Arial, sans-serif" font-size="11" fill="#92400e">Direkte kostnader:</text>
@@ -30,7 +30,7 @@
   <text x="290" y="175" font-family="Arial, sans-serif" font-size="10" fill="#92400e">• Øvrige: Kr 10,000</text>
   <text x="290" y="190" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#92400e">Sum: Kr 150,000</text>
   
-  <!-- Step 3: Net Income -->
+
   <rect x="510" y="80" width="180" height="120" fill="#ddd6fe" stroke="#8b5cf6" stroke-width="2" rx="8"/>
   <text x="600" y="105" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#6b21a8" text-anchor="middle">3. NETTOINNTEKT</text>
   <text x="520" y="130" font-family="Arial, sans-serif" font-size="11" fill="#6b21a8">Beregning:</text>
@@ -39,14 +39,14 @@
   <line x1="520" y1="170" x2="670" y2="170" stroke="#6b21a8" stroke-width="1"/>
   <text x="520" y="185" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#6b21a8">= Nettoinntekt: Kr 850,000</text>
   
-  <!-- Step 4: Timber Account Decision -->
+
   <rect x="150" y="250" width="200" height="100" fill="#f0f9ff" stroke="#0284c7" stroke-width="2" rx="8"/>
   <text x="250" y="275" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0c4a6e" text-anchor="middle">4. TØMMERKONTO-VURDERING</text>
   <text x="160" y="300" font-family="Arial, sans-serif" font-size="11" fill="#0c4a6e">Maks innskudd (85%):</text>
   <text x="160" y="315" font-family="Arial, sans-serif" font-size="10" fill="#0c4a6e">Kr 850,000 × 85% = Kr 722,500</text>
   <text x="160" y="335" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#0c4a6e">Valgt innskudd: Kr 700,000</text>
   
-  <!-- Step 5: Accounting Entries -->
+
   <rect x="400" y="250" width="300" height="160" fill="#fef2f2" stroke="#dc2626" stroke-width="2" rx="8"/>
   <text x="550" y="275" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#991b1b" text-anchor="middle">5. BOKFØRING</text>
   
@@ -58,21 +58,21 @@
   <text x="410" y="370" font-family="Arial, sans-serif" font-size="10" fill="#991b1b">Debet: Skogsdriftskostnader Kr 150,000</text>
   <text x="410" y="385" font-family="Arial, sans-serif" font-size="10" fill="#991b1b">Kredit: Leverandørgjeld Kr 150,000</text>
   
-  <!-- Step 6: Timber Account Entry -->
+
   <rect x="50" y="450" width="280" height="100" fill="#f3f4f6" stroke="#6b7280" stroke-width="2" rx="8"/>
   <text x="190" y="475" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#374151" text-anchor="middle">6. TØMMERKONTO-BILAG</text>
   <text x="60" y="500" font-family="Arial, sans-serif" font-size="11" fill="#374151">Innskudd på tømmerkonto:</text>
   <text x="60" y="515" font-family="Arial, sans-serif" font-size="10" fill="#374151">Debet: Tømmerkonto Kr 700,000</text>
   <text x="60" y="530" font-family="Arial, sans-serif" font-size="10" fill="#374151">Kredit: Tømmerinntekt Kr 700,000</text>
   
-  <!-- Step 7: Final Result -->
+
   <rect x="380" y="450" width="280" height="100" fill="#ecfdf5" stroke="#10b981" stroke-width="2" rx="8"/>
   <text x="520" y="475" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#065f46" text-anchor="middle">7. SLUTTRESULTAT</text>
   <text x="390" y="500" font-family="Arial, sans-serif" font-size="11" fill="#065f46">Skattepliktig inntekt inneværende år:</text>
   <text x="390" y="515" font-family="Arial, sans-serif" font-size="10" fill="#065f46">Kr 850,000 - Kr 700,000 = Kr 150,000</text>
   <text x="390" y="530" font-family="Arial, sans-serif" font-size="10" fill="#065f46">Tømmerkonto saldo: Kr 700,000</text>
   
-  <!-- Arrows showing process flow -->
+
   <path d="M230 140 L280 140" stroke="#10b981" stroke-width="3" fill="none" marker-end="url(#greenArrow)"/>
   <path d="M460 140 L510 140" stroke="#10b981" stroke-width="3" fill="none" marker-end="url(#greenArrow)"/>
   <path d="M600 200 Q400 225 350 250" stroke="#10b981" stroke-width="3" fill="none" marker-end="url(#greenArrow)"/>
@@ -80,7 +80,7 @@
   <path d="M330 500 L380 500" stroke="#10b981" stroke-width="3" fill="none" marker-end="url(#greenArrow)"/>
   <path d="M550 410 L550 450" stroke="#10b981" stroke-width="3" fill="none" marker-end="url(#greenArrow)"/>
   
-  <!-- Balance sheet impact note -->
+
   <rect x="680" y="450" width="110" height="100" fill="#fffbeb" stroke="#f59e0b" stroke-width="2" rx="8"/>
   <text x="735" y="475" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#92400e" text-anchor="middle">BALANSEN</text>
   <text x="690" y="495" font-family="Arial, sans-serif" font-size="10" fill="#92400e">Tømmerkonto vises</text>
@@ -88,7 +88,7 @@
   <text x="690" y="525" font-family="Arial, sans-serif" font-size="10" fill="#92400e">forpliktelser.</text>
   <text x="690" y="540" font-family="Arial, sans-serif" font-size="9" fill="#92400e">Kr 700,000</text>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="greenArrow" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#10b981"/>

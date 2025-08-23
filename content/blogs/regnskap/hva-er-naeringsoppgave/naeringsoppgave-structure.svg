@@ -10,25 +10,25 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#0066cc">
     Struktur av Næringsoppgaven
   </text>
   
-  <!-- Main Document Frame -->
+
   <rect x="50" y="60" width="700" height="520" fill="white" stroke="#0066cc" stroke-width="3" rx="10"/>
   
-  <!-- Document Header -->
+
   <rect x="50" y="60" width="700" height="50" fill="url(#headerGradient)" rx="10"/>
   <rect x="50" y="85" width="700" height="25" fill="url(#headerGradient)"/>
   <text x="400" y="85" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
     NÆRINGSOPPGAVE - SKATTEMELDING FOR NÆRINGSDRIVENDE
   </text>
   
-  <!-- Section 1: Company Information -->
+
   <g transform="translate(70, 130)">
     <rect x="0" y="0" width="320" height="80" fill="#e3f2fd" stroke="#0066cc" stroke-width="2" rx="5"/>
     <text x="160" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0066cc">
@@ -45,7 +45,7 @@
     </text>
   </g>
   
-  <!-- Section 2: Income Statement -->
+
   <g transform="translate(410, 130)">
     <rect x="0" y="0" width="320" height="80" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="5"/>
     <text x="160" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#856404">
@@ -62,7 +62,7 @@
     </text>
   </g>
   
-  <!-- Section 3: Balance Sheet -->
+
   <g transform="translate(70, 230)">
     <rect x="0" y="0" width="320" height="100" fill="#d1ecf1" stroke="#17a2b8" stroke-width="2" rx="5"/>
     <text x="160" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0c5460">
@@ -82,7 +82,7 @@
     </text>
   </g>
   
-  <!-- Section 4: VAT Information -->
+
   <g transform="translate(410, 230)">
     <rect x="0" y="0" width="320" height="100" fill="#d4edda" stroke="#28a745" stroke-width="2" rx="5"/>
     <text x="160" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#155724">
@@ -102,7 +102,7 @@
     </text>
   </g>
   
-  <!-- Section 5: Tax Adjustments -->
+
   <g transform="translate(70, 350)">
     <rect x="0" y="0" width="320" height="100" fill="#f8d7da" stroke="#dc3545" stroke-width="2" rx="5"/>
     <text x="160" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#721c24">
@@ -122,7 +122,7 @@
     </text>
   </g>
   
-  <!-- Section 6: Special Information -->
+
   <g transform="translate(410, 350)">
     <rect x="0" y="0" width="320" height="100" fill="#e2e3e5" stroke="#6c757d" stroke-width="2" rx="5"/>
     <text x="160" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#495057">
@@ -142,7 +142,7 @@
     </text>
   </g>
   
-  <!-- Final Calculation Box -->
+
   <g transform="translate(70, 470)">
     <rect x="0" y="0" width="660" height="80" fill="#fff" stroke="#0066cc" stroke-width="3" rx="5"/>
     <text x="330" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0066cc">
@@ -158,12 +158,12 @@
       = Skattepliktig inntekt (grunnlag for beregning av skatt)
     </text>
     
-    <!-- Calculation arrows -->
+
     <text x="200" y="45" font-family="Arial, sans-serif" font-size="12" fill="#495057">→</text>
     <text x="200" y="60" font-family="Arial, sans-serif" font-size="12" fill="#495057">→</text>
     <text x="200" y="75" font-family="Arial, sans-serif" font-size="12" fill="#0066cc">→</text>
     
-    <!-- Example amounts -->
+
     <text x="580" y="45" font-family="Arial, sans-serif" font-size="12" text-anchor="end" fill="#495057">
       1 000 000 kr
     </text>
@@ -175,7 +175,7 @@
     </text>
   </g>
   
-  <!-- Footer note -->
+
   <text x="400" y="575" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6c757d">
     Næringsoppgaven leveres elektronisk via Altinn innen 31. mai (ordinær frist) eller 31. oktober (forlenget frist)
   </text>

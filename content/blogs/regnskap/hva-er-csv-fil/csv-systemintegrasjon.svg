@@ -14,21 +14,21 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     CSV Integrasjon med Forretningssystemer
   </text>
   
-  <!-- Central CSV Hub -->
+
   <circle cx="400" cy="300" r="80" fill="url(#csvGradient)" stroke="#20c997" stroke-width="4"/>
   <text x="400" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">📄 CSV</text>
   <text x="400" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">Datautveksling</text>
   <text x="400" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Format</text>
   
-  <!-- Banking System -->
+
   <g id="bankingSystem">
     <rect x="50" y="120" width="140" height="100" rx="15" fill="#ffc107" stroke="#e0a800" stroke-width="3"/>
     <text x="120" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#212529">🏦 Banksystem</text>
@@ -37,12 +37,12 @@
     <text x="120" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#495057">• Betalingsdata</text>
     <text x="120" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#495057">• Valutakurser</text>
     
-    <!-- Arrow from Bank to CSV -->
+
     <path d="M 190 170 Q 250 200 320 250" stroke="#28a745" stroke-width="3" fill="none" marker-end="url(#greenArrow)"/>
     <text x="240" y="190" font-family="Arial, sans-serif" font-size="10" fill="#28a745" font-weight="bold">Export</text>
   </g>
   
-  <!-- Accounting System -->
+
   <g id="accountingSystem">
     <rect x="610" y="120" width="140" height="100" rx="15" fill="url(#systemGradient)" stroke="#0056b3" stroke-width="3"/>
     <text x="680" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">💼 Regnskap</text>
@@ -51,12 +51,12 @@
     <text x="680" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Balanse</text>
     <text x="680" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Resultat</text>
     
-    <!-- Arrow from CSV to Accounting -->
+
     <path d="M 480 250 Q 550 200 610 170" stroke="#007bff" stroke-width="3" fill="none" marker-end="url(#blueArrow)"/>
     <text x="560" y="190" font-family="Arial, sans-serif" font-size="10" fill="#007bff" font-weight="bold">Import</text>
   </g>
   
-  <!-- CRM System -->
+
   <g id="crmSystem">
     <rect x="50" y="380" width="140" height="100" rx="15" fill="#6f42c1" stroke="#5a2d91" stroke-width="3"/>
     <text x="120" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">👥 CRM</text>
@@ -65,12 +65,12 @@
     <text x="120" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Kontaktinfo</text>
     <text x="120" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Avtaler</text>
     
-    <!-- Arrow from CRM to CSV -->
+
     <path d="M 190 430 Q 250 400 320 350" stroke="#6f42c1" stroke-width="3" fill="none" marker-end="url(#purpleArrow)"/>
     <text x="240" y="410" font-family="Arial, sans-serif" font-size="10" fill="#6f42c1" font-weight="bold">Export</text>
   </g>
   
-  <!-- Payroll System -->
+
   <g id="payrollSystem">
     <rect x="610" y="380" width="140" height="100" rx="15" fill="#dc3545" stroke="#c82333" stroke-width="3"/>
     <text x="680" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">💰 Lønn</text>
@@ -79,12 +79,12 @@
     <text x="680" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Skatt/avgifter</text>
     <text x="680" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• A-melding</text>
     
-    <!-- Arrow from CSV to Payroll -->
+
     <path d="M 480 350 Q 550 400 610 430" stroke="#dc3545" stroke-width="3" fill="none" marker-end="url(#redArrow)"/>
     <text x="560" y="410" font-family="Arial, sans-serif" font-size="10" fill="#dc3545" font-weight="bold">Import</text>
   </g>
   
-  <!-- Inventory System -->
+
   <g id="inventorySystem">
     <rect x="200" y="80" width="140" height="80" rx="15" fill="#fd7e14" stroke="#e55a00" stroke-width="3"/>
     <text x="270" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">📦 Lager</text>
@@ -92,12 +92,12 @@
     <text x="270" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Varebevegelser</text>
     <text x="270" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Kostpriser</text>
     
-    <!-- Arrow from Inventory to CSV -->
+
     <path d="M 320 160 Q 360 200 380 220" stroke="#fd7e14" stroke-width="3" fill="none" marker-end="url(#orangeArrow)"/>
     <text x="340" y="180" font-family="Arial, sans-serif" font-size="10" fill="#fd7e14" font-weight="bold">Export</text>
   </g>
   
-  <!-- Invoice System -->
+
   <g id="invoiceSystem">
     <rect x="460" y="80" width="140" height="80" rx="15" fill="#20c997" stroke="#17a2b8" stroke-width="3"/>
     <text x="530" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">🧾 Faktura</text>
@@ -105,12 +105,12 @@
     <text x="530" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Kreditnotaer</text>
     <text x="530" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Kundefordringer</text>
     
-    <!-- Arrow from Invoice to CSV -->
+
     <path d="M 480 160 Q 440 200 420 220" stroke="#20c997" stroke-width="3" fill="none" marker-end="url(#tealArrow)"/>
     <text x="460" y="180" font-family="Arial, sans-serif" font-size="10" fill="#20c997" font-weight="bold">Export</text>
   </g>
   
-  <!-- Excel/Analysis -->
+
   <g id="excelSystem">
     <rect x="200" y="480" width="140" height="80" rx="15" fill="#198754" stroke="#146c43" stroke-width="3"/>
     <text x="270" y="505" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">📊 Excel</text>
@@ -118,12 +118,12 @@
     <text x="270" y="540" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Rapporter</text>
     <text x="270" y="555" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Grafer</text>
     
-    <!-- Arrow from CSV to Excel -->
+
     <path d="M 380 380 Q 360 420 320 480" stroke="#198754" stroke-width="3" fill="none" marker-end="url(#darkGreenArrow)"/>
     <text x="340" y="440" font-family="Arial, sans-serif" font-size="10" fill="#198754" font-weight="bold">Export</text>
   </g>
   
-  <!-- ERP System -->
+
   <g id="erpSystem">
     <rect x="460" y="480" width="140" height="80" rx="15" fill="#495057" stroke="#343a40" stroke-width="3"/>
     <text x="530" y="505" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">🏢 ERP</text>
@@ -131,12 +131,12 @@
     <text x="530" y="540" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Alle moduler</text>
     <text x="530" y="555" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Sanntidsdata</text>
     
-    <!-- Arrow from CSV to ERP -->
+
     <path d="M 420 380 Q 440 420 480 480" stroke="#495057" stroke-width="3" fill="none" marker-end="url(#grayArrow)"/>
     <text x="460" y="440" font-family="Arial, sans-serif" font-size="10" fill="#495057" font-weight="bold">Import</text>
   </g>
   
-  <!-- Benefits section -->
+
   <rect x="50" y="580" width="700" height="15" fill="#e9ecef" rx="3"/>
   <text x="60" y="590" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">Integrasjonsfordeler:</text>
   <text x="180" y="590" font-family="Arial, sans-serif" font-size="10" fill="#495057">• Automatisert dataflyt</text>
@@ -144,7 +144,7 @@
   <text x="450" y="590" font-family="Arial, sans-serif" font-size="10" fill="#495057">• Økt datakvalitet</text>
   <text x="570" y="590" font-family="Arial, sans-serif" font-size="10" fill="#495057">• Sanntidsoppdateringer</text>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="greenArrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#28a745"/>

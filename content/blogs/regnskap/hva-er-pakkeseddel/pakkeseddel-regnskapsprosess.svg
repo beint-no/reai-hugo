@@ -1,46 +1,46 @@
 <svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#212529">Pakkeseddelens Rolle i Regnskapsprosessen</text>
   
-  <!-- Process flow -->
+
   
-  <!-- Order -->
+
   <rect x="50" y="80" width="120" height="80" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="8"/>
   <text x="110" y="110" text-anchor="middle" font-size="14" font-weight="bold" fill="#1976d2">ORDRE</text>
   <text x="110" y="130" text-anchor="middle" font-size="11" fill="#495057">Kunde bestiller</text>
   <text x="110" y="145" text-anchor="middle" font-size="11" fill="#495057">varer</text>
   
-  <!-- Packing -->
+
   <rect x="220" y="80" width="120" height="80" fill="#fff3e0" stroke="#f57c00" stroke-width="2" rx="8"/>
   <text x="280" y="110" text-anchor="middle" font-size="14" font-weight="bold" fill="#f57c00">PAKKING</text>
   <text x="280" y="130" text-anchor="middle" font-size="11" fill="#495057">Pakkeseddel</text>
   <text x="280" y="145" text-anchor="middle" font-size="11" fill="#495057">genereres</text>
   
-  <!-- Delivery -->
+
   <rect x="390" y="80" width="120" height="80" fill="#e8f5e8" stroke="#388e3c" stroke-width="2" rx="8"/>
   <text x="450" y="110" text-anchor="middle" font-size="14" font-weight="bold" fill="#388e3c">LEVERING</text>
   <text x="450" y="130" text-anchor="middle" font-size="11" fill="#495057">Varer sendes</text>
   <text x="450" y="145" text-anchor="middle" font-size="11" fill="#495057">med pakkeseddel</text>
   
-  <!-- Invoice -->
+
   <rect x="560" y="80" width="120" height="80" fill="#fce4ec" stroke="#c2185b" stroke-width="2" rx="8"/>
   <text x="620" y="110" text-anchor="middle" font-size="14" font-weight="bold" fill="#c2185b">FAKTURA</text>
   <text x="620" y="130" text-anchor="middle" font-size="11" fill="#495057">Regnings-</text>
   <text x="620" y="145" text-anchor="middle" font-size="11" fill="#495057">grunnlag</text>
   
-  <!-- Arrows between process steps -->
+
   <path d="M170 120 L220 120" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M340 120 L390 120" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M510 120 L560 120" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Internal control section -->
+
   <rect x="50" y="200" width="700" height="150" fill="#f8f9fa" stroke="#6c757d" stroke-width="2" rx="8"/>
   <text x="400" y="225" text-anchor="middle" font-size="16" font-weight="bold" fill="#6c757d">Internkontroll med Pakkesedler</text>
   
-  <!-- Control steps -->
+
   <rect x="80" y="245" width="150" height="90" fill="#e3f2fd" stroke="#1976d2" stroke-width="1" rx="4"/>
   <text x="155" y="265" text-anchor="middle" font-size="12" font-weight="bold" fill="#1976d2">1. Matching</text>
   <text x="90" y="285" font-size="10" fill="#495057">• Sammenlign med ordre</text>
@@ -69,11 +69,11 @@
   <text x="600" y="315" font-size="10" fill="#495057">• Kundetilbakemelding</text>
   <text x="600" y="330" font-size="10" fill="#495057">• Avviksrapporter</text>
   
-  <!-- Accounting impact section -->
+
   <rect x="50" y="380" width="700" height="180" fill="#f1f3f4" stroke="#495057" stroke-width="2" rx="8"/>
   <text x="400" y="405" text-anchor="middle" font-size="16" font-weight="bold" fill="#495057">Regnskapsmessig Påvirkning</text>
   
-  <!-- Three columns for accounting impact -->
+
   <rect x="80" y="425" width="200" height="120" fill="white" stroke="#007bff" stroke-width="1" rx="4"/>
   <text x="180" y="445" text-anchor="middle" font-size="12" font-weight="bold" fill="#007bff">Varelager</text>
   <text x="90" y="465" font-size="10" fill="#495057">Ved utlevering:</text>
@@ -98,7 +98,7 @@
   <text x="530" y="510" font-size="10" fill="#495057">• Oppfyllelse av avtale</text>
   <text x="530" y="525" font-size="10" fill="#495057">• Revisjonsbevis</text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
       <polygon points="0 0, 8 3, 0 6" fill="#6c757d"/>

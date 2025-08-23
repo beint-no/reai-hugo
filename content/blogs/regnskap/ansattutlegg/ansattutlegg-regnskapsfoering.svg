@@ -13,15 +13,15 @@
     </marker>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#F8FAFC"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1E293B">
     Regnskapsføring av Ansattutlegg - Prosess
   </text>
   
-  <!-- Step 1: Registration -->
+
   <rect x="50" y="70" width="180" height="120" rx="10" fill="url(#stepGradient)" stroke="#1E40AF" stroke-width="2"/>
   <text x="140" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Steg 1: Registrering
@@ -39,7 +39,7 @@
     Sender til godkjenning
   </text>
   
-  <!-- Step 2: Approval -->
+
   <rect x="310" y="70" width="180" height="120" rx="10" fill="url(#stepGradient)" stroke="#1E40AF" stroke-width="2"/>
   <text x="400" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Steg 2: Godkjenning
@@ -57,7 +57,7 @@
     Godkjenner utlegg
   </text>
   
-  <!-- Step 3: Booking -->
+
   <rect x="570" y="70" width="180" height="120" rx="10" fill="url(#stepGradient)" stroke="#1E40AF" stroke-width="2"/>
   <text x="660" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Steg 3: Bokføring
@@ -75,18 +75,18 @@
     Gjeldsetablering
   </text>
   
-  <!-- Arrows between steps -->
+
   <g stroke="#64748B" stroke-width="2" fill="none" marker-end="url(#arrowhead)">
     <path d="M 230 130 L 310 130"/>
     <path d="M 490 130 L 570 130"/>
   </g>
   
-  <!-- Accounting Entries Section -->
+
   <text x="50" y="240" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1E293B">
     Regnskapsføring - Bilagsføring
   </text>
   
-  <!-- Initial Entry -->
+
   <rect x="50" y="260" width="700" height="80" rx="5" fill="#E2E8F0" stroke="#64748B" stroke-width="1"/>
   <text x="70" y="280" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1E293B">
     Første registrering (periodisering av kostnad):
@@ -107,7 +107,7 @@
     (Opprettelse av gjeld)
   </text>
   
-  <!-- Refund Entry -->
+
   <rect x="50" y="360" width="700" height="80" rx="5" fill="#E2E8F0" stroke="#64748B" stroke-width="1"/>
   <text x="70" y="380" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1E293B">
     Refusjon til ansatt:
@@ -128,7 +128,7 @@
     (Utbetaling)
   </text>
   
-  <!-- Alternative: Payroll deduction -->
+
   <rect x="50" y="460" width="700" height="80" rx="5" fill="#FEF3C7" stroke="#F59E0B" stroke-width="1"/>
   <text x="70" y="480" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#92400E">
     Alternativ: Avregning mot lønn:
@@ -149,7 +149,7 @@
     (Lønnsavregning)
   </text>
   
-  <!-- Important Note -->
+
   <rect x="50" y="560" width="700" height="30" rx="5" fill="#FEE2E2" stroke="#DC2626" stroke-width="1"/>
   <text x="60" y="580" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#DC2626">
     Viktig: Kostnadene må periodiseres til korrekt regnskapsperiode uavhengig av når refusjon skjer!

@@ -6,49 +6,49 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#F8F9FA"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="50" fill="url(#timeGrad)"/>
   <text x="400" y="30" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="white" text-anchor="middle">Tidsberegning for Skjermingsfradrag</text>
   
-  <!-- Timeline container -->
+
   <rect x="60" y="80" width="680" height="300" fill="white" stroke="#BDC3C7" stroke-width="2" rx="10"/>
   
-  <!-- Main timeline -->
+
   <line x1="100" y1="200" x2="700" y2="200" stroke="#2C3E50" stroke-width="4"/>
   
-  <!-- Year markers -->
+
   <line x1="200" y1="180" x2="200" y2="220" stroke="#E74C3C" stroke-width="3"/>
   <line x1="400" y1="180" x2="400" y2="220" stroke="#27AE60" stroke-width="3"/>
   <line x1="600" y1="180" x2="600" y2="220" stroke="#3498DB" stroke-width="3"/>
   
-  <!-- Year labels -->
+
   <text x="200" y="170" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#E74C3C" text-anchor="middle">2023</text>
   <text x="400" y="170" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#27AE60" text-anchor="middle">2024</text>
   <text x="600" y="170" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#3498DB" text-anchor="middle">2025</text>
   
-  <!-- Transaction markers -->
+
   <circle cx="250" cy="200" r="8" fill="#F39C12"/>
   <circle cx="550" cy="200" r="8" fill="#8E44AD"/>
   
-  <!-- Transaction labels -->
+
   <text x="250" y="240" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#F39C12" text-anchor="middle">Kjøp</text>
   <text x="250" y="252" font-family="Arial, sans-serif" font-size="9" fill="#2C3E50" text-anchor="middle">1. mars 2023</text>
   <text x="550" y="240" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#8E44AD" text-anchor="middle">Salg</text>
   <text x="550" y="252" font-family="Arial, sans-serif" font-size="9" fill="#2C3E50" text-anchor="middle">1. sep 2024</text>
   
-  <!-- Ownership period -->
+
   <rect x="250" y="190" width="300" height="20" fill="#F7DC6F" opacity="0.7"/>
   <text x="400" y="135" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#B7950B" text-anchor="middle">EIERPERIODE</text>
   <text x="400" y="150" font-family="Arial, sans-serif" font-size="10" fill="#2C3E50" text-anchor="middle">1. mars 2023 - 1. september 2024</text>
   
-  <!-- Detailed calculation box -->
+
   <rect x="80" y="400" width="640" height="180" fill="#F8F9FA" stroke="#95A5A6" stroke-width="2" rx="8"/>
   <text x="400" y="425" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2C3E50" text-anchor="middle">DETALJERT TIDSBEREGNING</text>
   
-  <!-- Left column: 2023 calculation -->
+
   <rect x="100" y="440" width="280" height="120" fill="#FADBD8" stroke="#E74C3C" stroke-width="1" rx="5"/>
   <text x="240" y="460" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#C0392B" text-anchor="middle">ÅR 2023</text>
   <text x="240" y="478" font-family="Arial, sans-serif" font-size="10" fill="#2C3E50" text-anchor="middle">Periode: 1. mars - 31. desember</text>
@@ -58,7 +58,7 @@
   <text x="240" y="536" font-family="Arial, sans-serif" font-size="9" fill="#2C3E50" text-anchor="middle">2.000.000 × 3,5% × (306/365)</text>
   <text x="240" y="550" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#E74C3C" text-anchor="middle">= 58.685 kr</text>
   
-  <!-- Right column: 2024 calculation -->
+
   <rect x="420" y="440" width="280" height="120" fill="#EBF5FB" stroke="#3498DB" stroke-width="1" rx="5"/>
   <text x="560" y="460" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2E86C1" text-anchor="middle">ÅR 2024</text>
   <text x="560" y="478" font-family="Arial, sans-serif" font-size="10" fill="#2C3E50" text-anchor="middle">Periode: 1. januar - 1. september</text>
@@ -68,21 +68,21 @@
   <text x="560" y="536" font-family="Arial, sans-serif" font-size="9" fill="#2C3E50" text-anchor="middle">2.000.000 × 4,0% × (245/365)</text>
   <text x="560" y="550" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#3498DB" text-anchor="middle">= 53.699 kr</text>
   
-  <!-- Total calculation -->
+
   <rect x="280" y="280" width="240" height="50" fill="#E8F6F3" stroke="#27AE60" stroke-width="2" rx="5"/>
   <text x="400" y="300" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1E8449" text-anchor="middle">TOTAL SKJERMINGSFRADRAG</text>
   <text x="400" y="318" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#27AE60" text-anchor="middle">58.685 + 53.699 = 112.384 kr</text>
   
-  <!-- Key principles box -->
+
   <rect x="100" y="70" width="600" height="40" fill="#F4ECF7" stroke="#8E44AD" stroke-width="1" rx="5"/>
   <text x="400" y="85" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#6C3483" text-anchor="middle">TIDSBEREGNINGSPRINSIPPER</text>
   <text x="400" y="100" font-family="Arial, sans-serif" font-size="9" fill="#2C3E50" text-anchor="middle">• Både kjøps- og salgsdato inkluderes • Skjermingsrente gjelder per kalenderår • Pro rata beregning for delvise perioder • Skuddår: 366 dager</text>
   
-  <!-- Arrows and annotations -->
+
   <path d="M 250 220 L 250 280" stroke="#F39C12" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 550 220 L 550 280" stroke="#8E44AD" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="8" markerHeight="6" 
      refX="7" refY="3" orient="auto">
@@ -90,7 +90,7 @@
     </marker>
   </defs>
   
-  <!-- Month markers for precision -->
+
   <text x="200" y="235" font-family="Arial, sans-serif" font-size="8" fill="#7B7D7D" text-anchor="middle">Jan</text>
   <text x="230" y="235" font-family="Arial, sans-serif" font-size="8" fill="#7B7D7D" text-anchor="middle">Feb</text>
   <text x="260" y="235" font-family="Arial, sans-serif" font-size="8" fill="#E74C3C" text-anchor="middle">Mar</text>

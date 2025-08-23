@@ -18,22 +18,22 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="700" fill="#ffffff"/>
   
-  <!-- Title -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGrad)"/>
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">Mva-oppgavens Struktur og Innhold</text>
   
-  <!-- Main form container -->
+
   <rect x="50" y="80" width="700" height="600" fill="url(#formGrad)" rx="8" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Form header -->
+
   <rect x="70" y="100" width="660" height="50" fill="#6f42c1" rx="4"/>
   <text x="400" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">MERVERDIAVGIFTSOPPGAVE</text>
   <text x="400" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Periode: Januar 2024 | Org.nr: 123 456 789</text>
   
-  <!-- Section 1: Outgoing VAT -->
+
   <rect x="70" y="170" width="320" height="200" fill="url(#outgoingGrad)" rx="6" stroke="#dc3545" stroke-width="1"/>
   <text x="230" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">DEL 1: UTGÅENDE MVA</text>
   
@@ -68,7 +68,7 @@
   <line x1="100" y1="335" x2="360" y2="335" stroke="#495057" stroke-width="2"/>
   <text x="230" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#495057">Sum utgående mva: 36 000 kr</text>
   
-  <!-- Section 2: Incoming VAT -->
+
   <rect x="410" y="170" width="320" height="200" fill="url(#incomingGrad)" rx="6" stroke="#198754" stroke-width="1"/>
   <text x="570" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">DEL 2: INNGÅENDE MVA</text>
   
@@ -97,7 +97,7 @@
   <line x1="440" y1="335" x2="700" y2="335" stroke="#495057" stroke-width="2"/>
   <text x="570" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#495057">Sum inngående mva: 26 000 kr</text>
   
-  <!-- Section 3: Settlement -->
+
   <rect x="70" y="390" width="660" height="100" fill="#ffc107" rx="6" stroke="#ffb300" stroke-width="2"/>
   <text x="400" y="415" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#495057">DEL 3: OPPGJØR</text>
   
@@ -114,7 +114,7 @@
   <text x="450" y="465" font-family="Arial, sans-serif" font-size="12" fill="#495057">Forfallsdato:</text>
   <text x="600" y="465" font-family="Arial, sans-serif" font-size="12" fill="#dc3545">10. februar 2024</text>
   
-  <!-- Section 4: Additional information -->
+
   <rect x="70" y="510" width="660" height="120" fill="#17a2b8" rx="6" stroke="#138496" stroke-width="2"/>
   <text x="400" y="535" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">DEL 4: TILLEGGSOPPLYSNINGER</text>
   
@@ -123,15 +123,15 @@
   <text x="120" y="585" font-family="Arial, sans-serif" font-size="11" fill="#495057">• Tap på krav som det er beregnet mva av (kode 32): 0 kr</text>
   <text x="120" y="600" font-family="Arial, sans-serif" font-size="11" fill="#495057">• Justering av mva for kapitalvarer (kode 88): -500 kr</text>
   
-  <!-- Section 5: Submission info -->
+
   <rect x="70" y="650" width="660" height="20" fill="#6c757d" rx="4"/>
   <text x="400" y="665" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Innsendt elektronisk via Altinn | Mottatt: 08.02.2024 kl. 14:30</text>
   
-  <!-- Arrows and flow indicators -->
+
   <path d="M 230 370 L 400 390" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 570 370 L 400 390" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#6c757d"/>

@@ -4,7 +4,7 @@
       <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
       <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
     </linearGradient>
-    <!-- Country colors -->
+
     <linearGradient id="norwayGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#dc3545;stop-opacity:0.8" />
       <stop offset="100%" style="stop-color:#c82333;stop-opacity:0.8" />
@@ -23,15 +23,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
     Internasjonale Forhold - Arbeidsgiveravgift
   </text>
   
-  <!-- Norway section -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="200" height="120" fill="url(#norwayGrad)" stroke="#333" stroke-width="2" rx="10"/>
     <text x="100" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
@@ -51,7 +51,7 @@
     </text>
   </g>
   
-  <!-- EU/EEA section -->
+
   <g transform="translate(300, 80)">
     <rect x="0" y="0" width="200" height="120" fill="url(#euGrad)" stroke="#333" stroke-width="2" rx="10"/>
     <text x="100" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
@@ -71,7 +71,7 @@
     </text>
   </g>
   
-  <!-- Third country section -->
+
   <g transform="translate(550, 80)">
     <rect x="0" y="0" width="200" height="120" fill="url(#worldGrad)" stroke="#333" stroke-width="2" rx="10"/>
     <text x="100" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
@@ -91,14 +91,14 @@
     </text>
   </g>
   
-  <!-- Main rules section -->
+
   <g transform="translate(50, 230)">
     <rect x="0" y="0" width="700" height="200" fill="white" stroke="#0066cc" stroke-width="2" rx="10"/>
     <text x="350" y="25" text-anchor="middle" fill="#0066cc" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
       Hovedregler for Internasjonale Forhold
     </text>
     
-    <!-- Rule 1 -->
+
     <g transform="translate(30, 50)">
       <rect x="0" y="0" width="300" height="80" fill="url(#ruleGrad)" stroke="#333" stroke-width="1" rx="8"/>
       <text x="150" y="20" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
@@ -115,7 +115,7 @@
       </text>
     </g>
     
-    <!-- Rule 2 -->
+
     <g transform="translate(370, 50)">
       <rect x="0" y="0" width="300" height="80" fill="#17a2b8" stroke="#333" stroke-width="1" rx="8"/>
       <text x="150" y="20" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
@@ -132,7 +132,7 @@
       </text>
     </g>
     
-    <!-- Rule 3 -->
+
     <g transform="translate(200, 140)">
       <rect x="0" y="0" width="300" height="50" fill="#6f42c1" stroke="#333" stroke-width="1" rx="8"/>
       <text x="150" y="20" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
@@ -147,14 +147,14 @@
     </g>
   </g>
   
-  <!-- Practical examples -->
+
   <g transform="translate(50, 450)">
     <rect x="0" y="0" width="700" height="120" fill="#f8f9fa" stroke="#28a745" stroke-width="2" rx="10"/>
     <text x="350" y="25" text-anchor="middle" fill="#28a745" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
       Praktiske Eksempler
     </text>
     
-    <!-- Example 1 -->
+
     <g transform="translate(20, 40)">
       <circle cx="10" cy="10" r="8" fill="#dc3545"/>
       <text x="10" y="15" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10" font-weight="bold">1</text>
@@ -166,7 +166,7 @@
       </text>
     </g>
     
-    <!-- Example 2 -->
+
     <g transform="translate(20, 70)">
       <circle cx="10" cy="10" r="8" fill="#0066cc"/>
       <text x="10" y="15" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10" font-weight="bold">2</text>
@@ -178,7 +178,7 @@
       </text>
     </g>
     
-    <!-- Example 3 -->
+
     <g transform="translate(380, 40)">
       <circle cx="10" cy="10" r="8" fill="#28a745"/>
       <text x="10" y="15" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10" font-weight="bold">3</text>
@@ -190,7 +190,7 @@
       </text>
     </g>
     
-    <!-- Example 4 -->
+
     <g transform="translate(380, 70)">
       <circle cx="10" cy="10" r="8" fill="#ffc107"/>
       <text x="10" y="15" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10" font-weight="bold">4</text>

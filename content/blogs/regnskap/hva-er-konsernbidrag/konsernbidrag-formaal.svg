@@ -14,20 +14,20 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#F8F9FA"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2C3E50">
     Formål med Konsernbidragsordningen
   </text>
   
-  <!-- Without Konsernbidrag Section -->
+
   <text x="200" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#E74C3C">
     Uten Konsernbidrag
   </text>
   
-  <!-- Company A (Profit) -->
+
   <rect x="50" y="100" width="140" height="60" rx="8" fill="url(#greenGrad)" stroke="#2C3E50" stroke-width="2"/>
   <text x="120" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     Selskap A
@@ -39,7 +39,7 @@
     Skatt: 220.000 kr
   </text>
   
-  <!-- Company B (Loss) -->
+
   <rect x="210" y="100" width="140" height="60" rx="8" fill="url(#redGrad)" stroke="#2C3E50" stroke-width="2"/>
   <text x="280" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     Selskap B
@@ -51,7 +51,7 @@
     Skatt: 0 kr
   </text>
   
-  <!-- Total without -->
+
   <rect x="100" y="180" width="140" height="40" rx="5" fill="#ECF0F1" stroke="#BDC3C7" stroke-width="1"/>
   <text x="170" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#E74C3C">
     Total skatt: 220.000 kr
@@ -60,12 +60,12 @@
     Underskudd går tapt
   </text>
   
-  <!-- With Konsernbidrag Section -->
+
   <text x="600" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#27AE60">
     Med Konsernbidrag
   </text>
   
-  <!-- Company A (After contribution) -->
+
   <rect x="450" y="100" width="140" height="60" rx="8" fill="url(#blueGrad)" stroke="#2C3E50" stroke-width="2"/>
   <text x="520" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     Selskap A
@@ -77,7 +77,7 @@
     Skatt: 88.000 kr
   </text>
   
-  <!-- Company B (After receiving) -->
+
   <rect x="610" y="100" width="140" height="60" rx="8" fill="url(#blueGrad)" stroke="#2C3E50" stroke-width="2"/>
   <text x="680" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     Selskap B
@@ -89,7 +89,7 @@
     Skatt: 0 kr
   </text>
   
-  <!-- Konsernbidrag arrow -->
+
   <defs>
     <marker id="arrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#F39C12" />
@@ -101,7 +101,7 @@
     600.000 kr
   </text>
   
-  <!-- Total with -->
+
   <rect x="500" y="180" width="140" height="40" rx="5" fill="#ECF0F1" stroke="#BDC3C7" stroke-width="1"/>
   <text x="570" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#27AE60">
     Total skatt: 88.000 kr
@@ -110,37 +110,37 @@
     Underskudd utnyttes
   </text>
   
-  <!-- Comparison arrow -->
+
   <line x1="350" y1="200" x2="450" y2="200" stroke="#2C3E50" stroke-width="2" stroke-dasharray="5,5"/>
   <text x="400" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2C3E50">
     VS
   </text>
   
-  <!-- Benefits section -->
+
   <rect x="50" y="260" width="700" height="120" rx="10" fill="#E8F5E8" stroke="#27AE60" stroke-width="2"/>
   <text x="400" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#27AE60">
     Fordeler med Konsernbidragsordningen
   </text>
   
-  <!-- Benefit 1 -->
+
   <circle cx="100" cy="310" r="5" fill="#27AE60"/>
   <text x="120" y="315" font-family="Arial, sans-serif" font-size="12" fill="#2C3E50">
     <tspan font-weight="bold">Skatteoptimalisering:</tspan> Besparelse på 132.000 kr (60% reduksjon)
   </text>
   
-  <!-- Benefit 2 -->
+
   <circle cx="100" cy="335" r="5" fill="#27AE60"/>
   <text x="120" y="340" font-family="Arial, sans-serif" font-size="12" fill="#2C3E50">
     <tspan font-weight="bold">Likestilling:</tspan> Konserner behandles likt som enkeltselskaper
   </text>
   
-  <!-- Benefit 3 -->
+
   <circle cx="100" cy="360" r="5" fill="#27AE60"/>
   <text x="120" y="365" font-family="Arial, sans-serif" font-size="12" fill="#2C3E50">
     <tspan font-weight="bold">Effektivitet:</tspan> Underskudd utnyttes i stedet for å gå tapt
   </text>
   
-  <!-- Single company comparison -->
+
   <rect x="50" y="400" width="700" height="80" rx="10" fill="#FFF3CD" stroke="#F39C12" stroke-width="2"/>
   <text x="400" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#F39C12">
     Sammenligning: Enkeltselskap vs. Konsern
@@ -166,7 +166,7 @@
     Skatt: 88.000 kr (likestilt)
   </text>
   
-  <!-- Equals sign -->
+
   <text x="400" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#27AE60">
     =
   </text>

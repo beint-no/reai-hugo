@@ -14,15 +14,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="400" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#212529">
     Utkontraktering av Regnskapsoppgaver
   </text>
   
-  <!-- Company building (left side) -->
+
   <rect x="50" y="100" width="120" height="80" fill="url(#blueGradient)" rx="5"/>
   <rect x="60" y="110" width="15" height="15" fill="#ffffff" opacity="0.8"/>
   <rect x="80" y="110" width="15" height="15" fill="#ffffff" opacity="0.8"/>
@@ -46,17 +46,17 @@
     Deres Bedrift
   </text>
   
-  <!-- Arrow pointing right -->
+
   <path d="M 200 140 L 280 140 L 270 130 M 280 140 L 270 150" stroke="#dc3545" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#dc3545"/>
     </marker>
   </defs>
   
-  <!-- Outsourcing provider building (right side) -->
+
   <rect x="320" y="100" width="120" height="80" fill="url(#greenGradient)" rx="5"/>
   <rect x="330" y="110" width="15" height="15" fill="#ffffff" opacity="0.8"/>
   <rect x="350" y="110" width="15" height="15" fill="#ffffff" opacity="0.8"/>
@@ -80,7 +80,7 @@
     Regnskapsleverandør
   </text>
   
-  <!-- Services boxes -->
+
   <rect x="500" y="80" width="120" height="30" fill="#ffc107" rx="3"/>
   <text x="560" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#212529">
     Bokføring
@@ -101,12 +101,12 @@
     Økonomisk rådgivning
   </text>
   
-  <!-- Benefits section -->
+
   <text x="400" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#212529">
     Fordeler med Utkontraktering
   </text>
   
-  <!-- Benefit boxes -->
+
   <rect x="50" y="300" width="140" height="60" fill="#d4edda" stroke="#28a745" stroke-width="2" rx="5"/>
   <text x="120" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#155724">
     Kostnadsbesparelser

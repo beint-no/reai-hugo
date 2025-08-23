@@ -14,15 +14,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#333">
     WACC Beregning og Komponenter
   </text>
   
-  <!-- Main formula box -->
+
   <rect x="100" y="60" width="600" height="80" fill="white" stroke="#0066cc" stroke-width="3" rx="10"/>
   <text x="400" y="85" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#0066cc">
     WACC = (E/V × Re) + (D/V × Rd × (1-T))
@@ -34,7 +34,7 @@
     Vektet gjennomsnittlig kapitalkostnad
   </text>
   
-  <!-- Left side - Equity component -->
+
   <rect x="50" y="180" width="320" height="180" fill="url(#equityGradient)" stroke="#4caf50" stroke-width="3" rx="10"/>
   <text x="210" y="210" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#2e7d32">
     Egenkapitalkomponent
@@ -59,7 +59,7 @@
     CAPM: Re = Rf + β × (Rm - Rf)
   </text>
   
-  <!-- Right side - Debt component -->
+
   <rect x="430" y="180" width="320" height="180" fill="url(#debtGradient)" stroke="#ff9800" stroke-width="3" rx="10"/>
   <text x="590" y="210" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#e65100">
     Gjeldskomponent
@@ -87,13 +87,13 @@
     (1-T) = Skattefordel ved gjeld
   </text>
   
-  <!-- Example calculation -->
+
   <rect x="100" y="390" width="600" height="180" fill="white" stroke="#666" stroke-width="2" rx="10"/>
   <text x="400" y="415" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#333">
     Eksempel på WACC-beregning
   </text>
   
-  <!-- Example data -->
+
   <rect x="120" y="430" width="250" height="120" fill="#f5f5f5" stroke="#ccc" stroke-width="1" rx="5"/>
   <text x="245" y="450" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#333">
     Gitt data:
@@ -117,7 +117,7 @@
     Skattesats (T): 22%
   </text>
   
-  <!-- Calculation steps -->
+
   <rect x="430" y="430" width="250" height="120" fill="#f5f5f5" stroke="#ccc" stroke-width="1" rx="5"/>
   <text x="555" y="450" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#333">
     Beregning:
@@ -138,16 +138,16 @@
     WACC = 7.2% + 1.87% = 9.07%
   </text>
   
-  <!-- Arrows connecting components -->
+
   <path d="M 210 360 Q 300 375 380 390" stroke="#4caf50" stroke-width="3" fill="none" marker-end="url(#arrowGreen)"/>
   <path d="M 590 360 Q 500 375 420 390" stroke="#ff9800" stroke-width="3" fill="none" marker-end="url(#arrowOrange)"/>
   
-  <!-- Plus sign -->
+
   <text x="400" y="385" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#666">
     +
   </text>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="arrowGreen" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#4caf50"/>

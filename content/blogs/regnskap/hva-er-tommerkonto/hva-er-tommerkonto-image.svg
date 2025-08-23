@@ -10,63 +10,63 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="400" fill="#f8fafc"/>
   
-  <!-- Forest silhouette -->
+
   <path d="M50 350 L50 280 L70 260 L90 280 L110 250 L130 270 L150 240 L170 260 L190 230 L210 250 L230 220 L250 240 L270 350 Z" fill="url(#forestGradient)"/>
   
-  <!-- Tree trunks -->
+
   <rect x="65" y="320" width="8" height="30" fill="#8b5a2b"/>
   <rect x="125" y="315" width="8" height="35" fill="#8b5a2b"/>
   <rect x="185" y="310" width="8" height="40" fill="#8b5a2b"/>
   <rect x="245" y="320" width="8" height="30" fill="#8b5a2b"/>
   
-  <!-- Account ledger book -->
+
   <rect x="350" y="150" width="180" height="120" fill="url(#accountGradient)" rx="8"/>
   <rect x="360" y="160" width="160" height="100" fill="#ffffff" rx="4"/>
   
-  <!-- Ledger lines -->
+
   <line x1="370" y1="180" x2="510" y2="180" stroke="#e5e7eb" stroke-width="1"/>
   <line x1="370" y1="200" x2="510" y2="200" stroke="#e5e7eb" stroke-width="1"/>
   <line x1="370" y1="220" x2="510" y2="220" stroke="#e5e7eb" stroke-width="1"/>
   <line x1="370" y1="240" x2="510" y2="240" stroke="#e5e7eb" stroke-width="1"/>
   
-  <!-- Text in ledger -->
+
   <text x="380" y="195" font-family="Arial, sans-serif" font-size="12" fill="#374151">Tømmerkonto</text>
   <text x="450" y="195" font-family="Arial, sans-serif" font-size="12" fill="#374151">Kr 850,000</text>
   <text x="380" y="215" font-family="Arial, sans-serif" font-size="12" fill="#374151">Innskudd 2024</text>
   <text x="450" y="215" font-family="Arial, sans-serif" font-size="12" fill="#374151">Kr 1,200,000</text>
   
-  <!-- Arrow from forest to account -->
+
   <path d="M270 290 Q310 280 350 210" stroke="#059669" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#059669"/>
     </marker>
   </defs>
   
-  <!-- Money symbol -->
+
   <circle cx="580" cy="210" r="40" fill="#fbbf24" stroke="#f59e0b" stroke-width="3"/>
   <text x="575" y="220" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#92400e">Kr</text>
   
-  <!-- Arrow to money -->
+
   <path d="M530 210 L540 210" stroke="#059669" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Title -->
+
   <text x="400" y="80" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#1f2937" text-anchor="middle">Tømmerkonto</text>
   <text x="400" y="110" font-family="Arial, sans-serif" font-size="18" fill="#6b7280" text-anchor="middle">Skogbruksregnskap og Inntektsutjevning</text>
   
-  <!-- Benefits box -->
+
   <rect x="50" y="50" width="200" height="80" fill="#ecfdf5" stroke="#10b981" stroke-width="2" rx="8"/>
   <text x="60" y="70" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#065f46">Hovedfordeler:</text>
   <text x="60" y="90" font-family="Arial, sans-serif" font-size="12" fill="#065f46">• Inntektsutjevning</text>
   <text x="60" y="105" font-family="Arial, sans-serif" font-size="12" fill="#065f46">• Skatteoptimalisering</text>
   <text x="60" y="120" font-family="Arial, sans-serif" font-size="12" fill="#065f46">• 10 års spareperiode</text>
   
-  <!-- Technical details -->
+
   <rect x="550" y="50" width="200" height="80" fill="#eff6ff" stroke="#3b82f6" stroke-width="2" rx="8"/>
   <text x="560" y="70" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e40af">Tekniske detaljer:</text>
   <text x="560" y="90" font-family="Arial, sans-serif" font-size="12" fill="#1e40af">• Maks 85% av nettoinntekt</text>

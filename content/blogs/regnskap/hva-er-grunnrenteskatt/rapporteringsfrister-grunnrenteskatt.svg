@@ -14,73 +14,73 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="600" height="350" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1"/>
   
-  <!-- Title -->
+
   <text x="300" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#212529">
     Rapporteringsfrister Grunnrenteskatt
   </text>
   
-  <!-- Timeline -->
+
   <g transform="translate(50, 70)">
-    <!-- Timeline line -->
+
     <line x1="0" y1="100" x2="500" y2="100" stroke="#495057" stroke-width="3"/>
     
-    <!-- Month markers -->
+
     <g transform="translate(0, 100)">
-      <!-- January -->
+
       <line x1="0" y1="-10" x2="0" y2="10" stroke="#6c757d" stroke-width="2"/>
       <text x="0" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">Jan</text>
       
-      <!-- February -->
+
       <line x1="42" y1="-5" x2="42" y2="5" stroke="#6c757d" stroke-width="1"/>
       <text x="42" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#6c757d">Feb</text>
       
-      <!-- March -->
+
       <line x1="84" y1="-5" x2="84" y2="5" stroke="#6c757d" stroke-width="1"/>
       <text x="84" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#6c757d">Mar</text>
       
-      <!-- April -->
+
       <line x1="126" y1="-5" x2="126" y2="5" stroke="#6c757d" stroke-width="1"/>
       <text x="126" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#6c757d">Apr</text>
       
-      <!-- May (Important deadline) -->
+
       <line x1="168" y1="-10" x2="168" y2="10" stroke="#dc3545" stroke-width="3"/>
       <text x="168" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#dc3545">Mai</text>
       
-      <!-- June -->
+
       <line x1="210" y1="-5" x2="210" y2="5" stroke="#6c757d" stroke-width="1"/>
       <text x="210" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#6c757d">Jun</text>
       
-      <!-- July -->
+
       <line x1="252" y1="-5" x2="252" y2="5" stroke="#6c757d" stroke-width="1"/>
       <text x="252" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#6c757d">Jul</text>
       
-      <!-- August -->
+
       <line x1="294" y1="-5" x2="294" y2="5" stroke="#6c757d" stroke-width="1"/>
       <text x="294" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#6c757d">Aug</text>
       
-      <!-- September -->
+
       <line x1="336" y1="-5" x2="336" y2="5" stroke="#6c757d" stroke-width="1"/>
       <text x="336" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#6c757d">Sep</text>
       
-      <!-- October -->
+
       <line x1="378" y1="-5" x2="378" y2="5" stroke="#6c757d" stroke-width="1"/>
       <text x="378" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#6c757d">Okt</text>
       
-      <!-- November -->
+
       <line x1="420" y1="-5" x2="420" y2="5" stroke="#6c757d" stroke-width="1"/>
       <text x="420" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#6c757d">Nov</text>
       
-      <!-- December -->
+
       <line x1="462" y1="-10" x2="462" y2="10" stroke="#6c757d" stroke-width="2"/>
       <text x="462" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">Des</text>
     </g>
     
-    <!-- Reporting deadlines -->
+
     
-    <!-- Power sector ground rent tax -->
+
     <g transform="translate(168, 50)">
       <rect x="-60" y="-30" width="120" height="40" fill="url(#kraftGradient)" rx="5"/>
       <text x="0" y="-15" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
@@ -93,14 +93,14 @@
         RF-1088
       </text>
       
-      <!-- Arrow pointing to May -->
+
       <path d="M0,15 L0,35" stroke="#28a745" stroke-width="2" marker-end="url(#arrowGreen)"/>
       <text x="0" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#28a745">
         31. mai
       </text>
     </g>
     
-    <!-- Petroleum tax -->
+
     <g transform="translate(168, 150)">
       <rect x="-50" y="10" width="100" height="40" fill="url(#petroleumGradient)" rx="5"/>
       <text x="0" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
@@ -110,14 +110,14 @@
         RF-1175
       </text>
       
-      <!-- Arrow pointing to May -->
+
       <path d="M0,5 L0,-35" stroke="#fd7e14" stroke-width="2" marker-end="url(#arrowOrange)"/>
       <text x="0" y="-45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#fd7e14">
         31. mai
       </text>
     </g>
     
-    <!-- Advance tax payments -->
+
     <g transform="translate(100, 200)">
       <rect x="-40" y="0" width="280" height="30" fill="url(#forskuddGradient)" rx="5"/>
       <text x="100" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
@@ -126,15 +126,15 @@
     </g>
   </g>
   
-  <!-- Key requirements -->
+
   <g transform="translate(50, 280)">
     <text x="250" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#212529">
       Viktige Rapporteringskrav
     </text>
     
-    <!-- Requirement boxes -->
+
     <g transform="translate(0, 20)">
-      <!-- Production data -->
+
       <rect x="0" y="0" width="120" height="35" fill="#17a2b8" opacity="0.2" rx="3"/>
       <text x="60" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#0c5460">
         Produksjonsdata
@@ -143,7 +143,7 @@
         Nøyaktige målinger
       </text>
       
-      <!-- Price documentation -->
+
       <rect x="130" y="0" width="120" height="35" fill="#28a745" opacity="0.2" rx="3"/>
       <text x="190" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#155724">
         Prisdokumentasjon
@@ -152,7 +152,7 @@
         Markedsreferanser
       </text>
       
-      <!-- Cost allocation -->
+
       <rect x="260" y="0" width="120" height="35" fill="#ffc107" opacity="0.2" rx="3"/>
       <text x="320" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#856404">
         Kostnadsfordeling
@@ -161,7 +161,7 @@
         Detaljert oppstilling
       </text>
       
-      <!-- Investment register -->
+
       <rect x="390" y="0" width="120" height="35" fill="#6f42c1" opacity="0.2" rx="3"/>
       <text x="450" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#4a2c7a">
         Investeringsregister
@@ -172,7 +172,7 @@
     </g>
   </g>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="arrowGreen" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#28a745"/>

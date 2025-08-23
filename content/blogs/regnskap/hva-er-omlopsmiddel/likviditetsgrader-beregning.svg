@@ -10,54 +10,54 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8fafc"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGrad)"/>
   <text x="400" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="bold">Likviditetsgrader - Beregning og Tolkning</text>
   
-  <!-- Likviditetsgrad 1 -->
+
   <rect x="50" y="80" width="700" height="140" fill="#dcfce7" stroke="#16a34a" stroke-width="2" rx="10"/>
   <text x="400" y="105" text-anchor="middle" fill="#15803d" font-family="Arial, sans-serif" font-size="18" font-weight="bold">Likviditetsgrad 1 (Løpende likviditet)</text>
   
-  <!-- Formula box for grad 1 -->
+
   <rect x="100" y="120" width="600" height="40" fill="url(#formulaGrad)" stroke="#0891b2" stroke-width="2" rx="5"/>
   <text x="400" y="145" text-anchor="middle" fill="#0e7490" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Likviditetsgrad 1 = Omløpsmidler ÷ Kortsiktig gjeld</text>
   
-  <!-- Interpretation for grad 1 -->
+
   <text x="120" y="185" fill="#166534" font-family="Arial, sans-serif" font-size="12">• Over 2,0: Meget god likviditet</text>
   <text x="120" y="200" fill="#166534" font-family="Arial, sans-serif" font-size="12">• 1,5-2,0: God likviditet</text>
   <text x="420" y="185" fill="#166534" font-family="Arial, sans-serif" font-size="12">• 1,0-1,5: Akseptabel likviditet</text>
   <text x="420" y="200" fill="#166534" font-family="Arial, sans-serif" font-size="12">• Under 1,0: Svak likviditet</text>
   
-  <!-- Likviditetsgrad 2 -->
+
   <rect x="50" y="240" width="700" height="140" fill="#fef3c7" stroke="#d97706" stroke-width="2" rx="10"/>
   <text x="400" y="265" text-anchor="middle" fill="#b45309" font-family="Arial, sans-serif" font-size="18" font-weight="bold">Likviditetsgrad 2 (Rask likviditet)</text>
   
-  <!-- Formula box for grad 2 -->
+
   <rect x="100" y="280" width="600" height="40" fill="url(#formulaGrad)" stroke="#0891b2" stroke-width="2" rx="5"/>
   <text x="400" y="305" text-anchor="middle" fill="#0e7490" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Likviditetsgrad 2 = (Omløpsmidler - Varelager) ÷ Kortsiktig gjeld</text>
   
-  <!-- Interpretation for grad 2 -->
+
   <text x="120" y="345" fill="#92400e" font-family="Arial, sans-serif" font-size="12">• Over 1,0: God rask likviditet</text>
   <text x="120" y="360" fill="#92400e" font-family="Arial, sans-serif" font-size="12">• 0,7-1,0: Akseptabel rask likviditet</text>
   <text x="420" y="345" fill="#92400e" font-family="Arial, sans-serif" font-size="12">• Under 0,7: Svak rask likviditet</text>
   <text x="420" y="360" fill="#92400e" font-family="Arial, sans-serif" font-size="12">• Ekskluderer varelager (mindre likvid)</text>
   
-  <!-- Kontantgrad -->
+
   <rect x="50" y="400" width="700" height="120" fill="#fce7f3" stroke="#be185d" stroke-width="2" rx="10"/>
   <text x="400" y="425" text-anchor="middle" fill="#be185d" font-family="Arial, sans-serif" font-size="18" font-weight="bold">Kontantgrad (Umiddelbar likviditet)</text>
   
-  <!-- Formula box for kontantgrad -->
+
   <rect x="100" y="440" width="600" height="40" fill="url(#formulaGrad)" stroke="#0891b2" stroke-width="2" rx="5"/>
   <text x="400" y="465" text-anchor="middle" fill="#0e7490" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Kontantgrad = (Kontanter + Kortsiktige investeringer) ÷ Kortsiktig gjeld</text>
   
-  <!-- Interpretation for kontantgrad -->
+
   <text x="120" y="500" fill="#9d174d" font-family="Arial, sans-serif" font-size="12">• Måler umiddelbar betalingsevne</text>
   <text x="420" y="500" fill="#9d174d" font-family="Arial, sans-serif" font-size="12">• Kun de mest likvide eiendelene</text>
   
-  <!-- Example calculation box -->
+
   <rect x="100" y="540" width="600" height="50" fill="#e0f2fe" stroke="#0891b2" stroke-width="2" rx="8"/>
   <text x="400" y="560" text-anchor="middle" fill="#0e7490" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Eksempel: Omløpsmidler 2.000.000 kr, Varelager 800.000 kr, Kortsiktig gjeld 1.000.000 kr</text>
   <text x="400" y="580" text-anchor="middle" fill="#0e7490" font-family="Arial, sans-serif" font-size="12">Grad 1: 2.000.000 ÷ 1.000.000 = 2,0 | Grad 2: (2.000.000 - 800.000) ÷ 1.000.000 = 1,2</text>

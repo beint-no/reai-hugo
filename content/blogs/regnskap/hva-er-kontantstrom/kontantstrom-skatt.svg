@@ -18,22 +18,22 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#333">
     Kontantstrøm og Skatt
   </text>
   
-  <!-- Tax Timing Section -->
+
   <rect x="50" y="70" width="340" height="180" fill="url(#taxTimingGradient)" rx="15" opacity="0.1"/>
   <rect x="60" y="80" width="320" height="30" fill="url(#taxTimingGradient)" rx="5"/>
   <text x="220" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     TIMING AV SKATTEBETALINGER
   </text>
   
-  <!-- Tax timing factors -->
+
   <circle cx="80" cy="130" r="8" fill="#f44336"/>
   <text x="100" y="135" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#c62828">
     Forskuddsskatt
@@ -64,14 +64,14 @@
     Månedlige/toårige utbetalinger
   </text>
   
-  <!-- Tax Optimization Section -->
+
   <rect x="410" y="70" width="340" height="180" fill="url(#optimizationGradient)" rx="15" opacity="0.1"/>
   <rect x="420" y="80" width="320" height="30" fill="url(#optimizationGradient)" rx="5"/>
   <text x="580" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     SKATTEOPTIMALISERING
   </text>
   
-  <!-- Optimization strategies -->
+
   <circle cx="440" cy="130" r="8" fill="#4CAF50"/>
   <text x="460" y="135" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#2E7D32">
     Timing av Investeringer
@@ -102,13 +102,13 @@
     Når mulig og lovlig
   </text>
   
-  <!-- Tax Planning Calendar -->
+
   <rect x="50" y="270" width="700" height="160" fill="url(#planningGradient)" rx="15"/>
   <text x="400" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
     SKATTEPLANLEGGING GJENNOM ÅRET
   </text>
   
-  <!-- Calendar quarters -->
+
   <rect x="80" y="320" width="150" height="90" fill="rgba(255,255,255,0.2)" rx="8"/>
   <text x="155" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Q1 (Jan-Mar)
@@ -165,13 +165,13 @@
     • Siste sjanse optimalisering
   </text>
   
-  <!-- Impact on Cash Flow -->
+
   <rect x="50" y="450" width="700" height="120" fill="url(#impactGradient)" rx="15"/>
   <text x="400" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
     SKATTEMESSIG PÅVIRKNING PÅ KONTANTSTRØM
   </text>
   
-  <!-- Impact factors -->
+
   <rect x="80" y="500" width="200" height="50" fill="rgba(255,255,255,0.2)" rx="8"/>
   <text x="180" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     Direkte Påvirkning
@@ -205,17 +205,17 @@
     • Feilberegninger og bøter
   </text>
   
-  <!-- Best practices -->
+
   <rect x="50" y="580" width="700" height="15" fill="#e8f5e8" rx="5"/>
   <text x="400" y="590" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2E7D32">
     Beste praksis: Integrer skatteplanlegging i kontantstrømbudsjett • Konsulter skatterådgiver • Hold deg oppdatert på regelendringer
   </text>
   
-  <!-- Connection arrows -->
+
   <path d="M 220 260 L 400 270" stroke="#f44336" stroke-width="2" fill="none" marker-end="url(#arrowRed)"/>
   <path d="M 580 260 L 400 270" stroke="#4CAF50" stroke-width="2" fill="none" marker-end="url(#arrowGreen)"/>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="arrowRed" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#f44336"/>

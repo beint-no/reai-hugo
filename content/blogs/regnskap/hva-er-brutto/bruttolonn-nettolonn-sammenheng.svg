@@ -18,15 +18,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="450" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
     Sammenheng mellom Bruttolønn og Nettolønn
   </text>
   
-  <!-- Bruttolønn bar -->
+
   <rect x="100" y="80" width="600" height="60" rx="10" fill="url(#bruttoGradient)"/>
   <text x="400" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
     BRUTTOLØNN: 50.000 kr
@@ -35,7 +35,7 @@
     Grunnlønn + Tillegg + Naturalytelser + Feriepenger
   </text>
   
-  <!-- Arrow down -->
+
   <path d="M 400 150 L 400 180" stroke="#6c757d" stroke-width="3" fill="none" marker-end="url(#arrowdown)"/>
   <defs>
     <marker id="arrowdown" markerWidth="10" markerHeight="7" refX="5" refY="3.5" orient="auto">
@@ -43,13 +43,13 @@
     </marker>
   </defs>
   
-  <!-- Fradrag section -->
+
   <rect x="100" y="190" width="600" height="120" rx="10" fill="white" stroke="#dee2e6" stroke-width="2"/>
   <text x="400" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#495057">
     FRADRAG
   </text>
   
-  <!-- Individual deductions -->
+
   <rect x="120" y="230" width="130" height="60" rx="5" fill="url(#fradragGradient)"/>
   <text x="185" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     Skattetrekk
@@ -82,12 +82,12 @@
     500 kr
   </text>
   
-  <!-- Total fradrag -->
+
   <text x="400" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#dc3545">
     Totalt fradrag: 11.375 kr
   </text>
   
-  <!-- Arrow down -->
+
   <path d="M 400 320 L 400 350" stroke="#6c757d" stroke-width="3" fill="none" marker-end="url(#arrowdown2)"/>
   <defs>
     <marker id="arrowdown2" markerWidth="10" markerHeight="7" refX="5" refY="3.5" orient="auto">
@@ -95,7 +95,7 @@
     </marker>
   </defs>
   
-  <!-- Nettolønn bar -->
+
   <rect x="150" y="360" width="500" height="60" rx="10" fill="url(#nettoGradient)"/>
   <text x="400" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
     NETTOLØNN: 38.625 kr
@@ -104,7 +104,7 @@
     Utbetalt til bankkonto
   </text>
   
-  <!-- Calculation formula -->
+
   <rect x="50" y="430" width="700" height="15" fill="white" stroke="#dee2e6" stroke-width="1"/>
   <text x="400" y="440" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#495057">
     Beregning: 50.000 kr (brutto) - 11.375 kr (fradrag) = 38.625 kr (netto)

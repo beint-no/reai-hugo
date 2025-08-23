@@ -12,73 +12,73 @@
     </marker>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" fill="#1e293b" font-family="Arial, sans-serif" font-size="24" font-weight="bold">Arbeidskapitalstyring</text>
   
-  <!-- Central formula -->
+
   <rect x="200" y="70" width="400" height="60" fill="white" stroke="#3b82f6" stroke-width="3" rx="10" filter="url(#shadow)"/>
   <text x="400" y="95" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="16" font-weight="bold">ARBEIDSKAPITAL</text>
   <text x="400" y="115" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="14">Omløpsmidler - Kortsiktig gjeld</text>
   
-  <!-- Left side - Positive components -->
+
   <rect x="50" y="160" width="300" height="180" fill="#f0fdf4" stroke="#22c55e" stroke-width="2" rx="10" filter="url(#shadow)"/>
   <text x="200" y="185" text-anchor="middle" fill="#15803d" font-family="Arial, sans-serif" font-size="18" font-weight="bold">OMLØPSMIDLER (+)</text>
   
-  <!-- Kontanter -->
+
   <rect x="70" y="200" width="120" height="40" fill="#dcfce7" stroke="#16a34a" stroke-width="1" rx="5"/>
   <text x="130" y="225" text-anchor="middle" fill="#15803d" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Kontanter</text>
   
-  <!-- Kundefordringer -->
+
   <rect x="210" y="200" width="120" height="40" fill="#dcfce7" stroke="#16a34a" stroke-width="1" rx="5"/>
   <text x="270" y="220" text-anchor="middle" fill="#15803d" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Kunde-</text>
   <text x="270" y="235" text-anchor="middle" fill="#15803d" font-family="Arial, sans-serif" font-size="11" font-weight="bold">fordringer</text>
   
-  <!-- Varelager -->
+
   <rect x="70" y="260" width="120" height="40" fill="#dcfce7" stroke="#16a34a" stroke-width="1" rx="5"/>
   <text x="130" y="285" text-anchor="middle" fill="#15803d" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Varelager</text>
   
-  <!-- Andre omløpsmidler -->
+
   <rect x="210" y="260" width="120" height="40" fill="#dcfce7" stroke="#16a34a" stroke-width="1" rx="5"/>
   <text x="270" y="280" text-anchor="middle" fill="#15803d" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Andre</text>
   <text x="270" y="295" text-anchor="middle" fill="#15803d" font-family="Arial, sans-serif" font-size="11" font-weight="bold">omløpsmidler</text>
   
-  <!-- Strategies for positive components -->
+
   <text x="200" y="325" text-anchor="middle" fill="#15803d" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Optimaliseringsstrategier:</text>
   
-  <!-- Right side - Negative components -->
+
   <rect x="450" y="160" width="300" height="180" fill="#fef2f2" stroke="#ef4444" stroke-width="2" rx="10" filter="url(#shadow)"/>
   <text x="600" y="185" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="18" font-weight="bold">KORTSIKTIG GJELD (-)</text>
   
-  <!-- Leverandørgjeld -->
+
   <rect x="470" y="200" width="120" height="40" fill="#fecaca" stroke="#dc2626" stroke-width="1" rx="5"/>
   <text x="530" y="220" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Leverandør-</text>
   <text x="530" y="235" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="11" font-weight="bold">gjeld</text>
   
-  <!-- Banklån -->
+
   <rect x="610" y="200" width="120" height="40" fill="#fecaca" stroke="#dc2626" stroke-width="1" rx="5"/>
   <text x="670" y="220" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Kortsiktige</text>
   <text x="670" y="235" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="11" font-weight="bold">banklån</text>
   
-  <!-- Skattegjeld -->
+
   <rect x="470" y="260" width="120" height="40" fill="#fecaca" stroke="#dc2626" stroke-width="1" rx="5"/>
   <text x="530" y="285" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Skattegjeld</text>
   
-  <!-- Påløpte kostnader -->
+
   <rect x="610" y="260" width="120" height="40" fill="#fecaca" stroke="#dc2626" stroke-width="1" rx="5"/>
   <text x="670" y="280" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Påløpte</text>
   <text x="670" y="295" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="11" font-weight="bold">kostnader</text>
   
-  <!-- Strategies for negative components -->
+
   <text x="600" y="325" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Optimaliseringsstrategier:</text>
   
-  <!-- Arrows -->
+
   <path d="M 350 250 L 400 130" stroke="#3b82f6" stroke-width="3" marker-end="url(#arrowhead)"/>
   <path d="M 450 250 L 400 130" stroke="#3b82f6" stroke-width="3" marker-end="url(#arrowhead)"/>
   
-  <!-- Strategy boxes -->
+
   <rect x="50" y="360" width="330" height="220" fill="white" stroke="#cbd5e1" stroke-width="2" rx="10" filter="url(#shadow)"/>
   <text x="215" y="385" text-anchor="middle" fill="#1e293b" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Styringsstrategier for Omløpsmidler</text>
   

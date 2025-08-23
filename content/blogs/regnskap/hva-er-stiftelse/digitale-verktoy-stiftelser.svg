@@ -10,15 +10,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#F8FAFC"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1E293B">
     Digitale Verktøy for Stiftelser
   </text>
   
-  <!-- Central cloud -->
+
   <ellipse cx="400" cy="150" rx="100" ry="60" fill="url(#blueGradient)"/>
   <text x="400" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#FFFFFF">
     DIGITAL
@@ -30,7 +30,7 @@
     Integrerte systemer
   </text>
   
-  <!-- Core systems (Top row) -->
+
   <rect x="100" y="60" width="140" height="60" fill="#10B981" rx="8"/>
   <text x="170" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF">
     ERP-SYSTEM
@@ -53,7 +53,7 @@
     håndtering
   </text>
   
-  <!-- Side systems -->
+
   <rect x="50" y="240" width="120" height="60" fill="#8B5CF6" rx="8"/>
   <text x="110" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#FFFFFF">
     DOKUMENTHÅND-
@@ -76,7 +76,7 @@
     Online donasjoner
   </text>
   
-  <!-- Bottom systems -->
+
   <rect x="200" y="330" width="140" height="60" fill="#14B8A6" rx="8"/>
   <text x="270" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF">
     RAPPORTERINGS-
@@ -99,7 +99,7 @@
     Automatisk etterlevelse
   </text>
   
-  <!-- Connection lines -->
+
   <line x1="220" y1="120" x2="330" y2="140" stroke="#64748B" stroke-width="2" marker-end="url(#arrowhead)"/>
   <line x1="580" y1="120" x2="470" y2="140" stroke="#64748B" stroke-width="2" marker-end="url(#arrowhead)"/>
   <line x1="170" y1="240" x2="320" y2="180" stroke="#64748B" stroke-width="2" marker-end="url(#arrowhead)"/>
@@ -107,13 +107,13 @@
   <line x1="340" y1="330" x2="380" y2="210" stroke="#64748B" stroke-width="2" marker-end="url(#arrowhead)"/>
   <line x1="460" y1="330" x2="420" y2="210" stroke="#64748B" stroke-width="2" marker-end="url(#arrowhead)"/>
   
-  <!-- Feature breakdown -->
+
   <rect x="50" y="420" width="700" height="160" fill="#FFFFFF" stroke="#64748B" stroke-width="2" rx="8"/>
   <text x="400" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1F2937">
     Nøkkelfunksjoner i Digitale Løsninger
   </text>
   
-  <!-- ERP features -->
+
   <rect x="70" y="460" width="150" height="110" fill="#ECFDF5" stroke="#10B981" stroke-width="1" rx="4"/>
   <text x="145" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#14532D">
     ERP-funksjoner
@@ -124,7 +124,7 @@
   <text x="80" y="545" font-family="Arial, sans-serif" font-size="10" fill="#14532D">• Månedlig autorapportering</text>
   <text x="80" y="560" font-family="Arial, sans-serif" font-size="10" fill="#14532D">• Formålssporing og -rapportering</text>
   
-  <!-- CRM features -->
+
   <rect x="240" y="460" width="150" height="110" fill="#FEF3C7" stroke="#F59E0B" stroke-width="1" rx="4"/>
   <text x="315" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#92400E">
     CRM-funksjoner
@@ -135,7 +135,7 @@
   <text x="250" y="545" font-family="Arial, sans-serif" font-size="10" fill="#92400E">• Segmentering og targeting</text>
   <text x="250" y="560" font-family="Arial, sans-serif" font-size="10" fill="#92400E">• GDPR-compliance</text>
   
-  <!-- Analytics features -->
+
   <rect x="410" y="460" width="150" height="110" fill="#EDE9FE" stroke="#8B5CF6" stroke-width="1" rx="4"/>
   <text x="485" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#5B21B6">
     Analytics &amp; BI
@@ -146,7 +146,7 @@
   <text x="420" y="545" font-family="Arial, sans-serif" font-size="10" fill="#5B21B6">• Benchmarking-rapporter</text>
   <text x="420" y="560" font-family="Arial, sans-serif" font-size="10" fill="#5B21B6">• Automatisk distribusjon</text>
   
-  <!-- Security features -->
+
   <rect x="580" y="460" width="150" height="110" fill="#FEE2E2" stroke="#EF4444" stroke-width="1" rx="4"/>
   <text x="655" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#991B1B">
     Sikkerhet &amp; Backup
@@ -157,7 +157,7 @@
   <text x="590" y="545" font-family="Arial, sans-serif" font-size="10" fill="#991B1B">• Tilgangskontroll og logging</text>
   <text x="590" y="560" font-family="Arial, sans-serif" font-size="10" fill="#991B1B">• GDPR-verktøy</text>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#64748B"/>

@@ -1,13 +1,13 @@
 <svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Faktorer som Påvirker Egenkapitalrentabilitet
   </text>
   
-  <!-- Central ROE circle -->
+
   <circle cx="400" cy="300" r="80" fill="#e3f2fd" stroke="#1976d2" stroke-width="3"/>
   <text x="400" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1976d2">
     ROE
@@ -19,12 +19,12 @@
     rentabilitet
   </text>
   
-  <!-- Positive factors (top half) -->
+
   <text x="400" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#4caf50">
     POSITIVE FAKTORER
   </text>
   
-  <!-- Positive factor 1: Operational efficiency -->
+
   <rect x="50" y="120" width="160" height="80" fill="#e8f5e8" stroke="#4caf50" stroke-width="2" rx="8"/>
   <text x="130" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2e7d32">
     Operasjonell
@@ -36,7 +36,7 @@
   <text x="60" y="185" font-family="Arial, sans-serif" font-size="10" fill="#424242">• Bedre prissetting</text>
   <text x="60" y="195" font-family="Arial, sans-serif" font-size="10" fill="#424242">• Produktivitet</text>
   
-  <!-- Positive factor 2: Revenue growth -->
+
   <rect x="250" y="120" width="160" height="80" fill="#e8f5e8" stroke="#4caf50" stroke-width="2" rx="8"/>
   <text x="330" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2e7d32">
     Inntektsvekst
@@ -46,7 +46,7 @@
   <text x="260" y="180" font-family="Arial, sans-serif" font-size="10" fill="#424242">• Kundevekst</text>
   <text x="260" y="190" font-family="Arial, sans-serif" font-size="10" fill="#424242">• Høyere volum</text>
   
-  <!-- Positive factor 3: Capital optimization -->
+
   <rect x="450" y="120" width="160" height="80" fill="#e8f5e8" stroke="#4caf50" stroke-width="2" rx="8"/>
   <text x="530" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2e7d32">
     Kapital-
@@ -58,7 +58,7 @@
   <text x="460" y="185" font-family="Arial, sans-serif" font-size="10" fill="#424242">• Investeringer</text>
   <text x="460" y="195" font-family="Arial, sans-serif" font-size="10" fill="#424242">• Gjeldsgrad</text>
   
-  <!-- Positive factor 4: Financial leverage -->
+
   <rect x="650" y="120" width="130" height="80" fill="#e8f5e8" stroke="#4caf50" stroke-width="2" rx="8"/>
   <text x="715" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2e7d32">
     Finansiell
@@ -70,18 +70,18 @@
   <text x="660" y="185" font-family="Arial, sans-serif" font-size="10" fill="#424242">• Lav rente</text>
   <text x="660" y="195" font-family="Arial, sans-serif" font-size="10" fill="#424242">• Skattefordel</text>
   
-  <!-- Arrows from positive factors to ROE -->
+
   <path d="M 130 200 L 350 250" stroke="#4caf50" stroke-width="2" fill="none" marker-end="url(#greenarrow)"/>
   <path d="M 330 200 L 380 250" stroke="#4caf50" stroke-width="2" fill="none" marker-end="url(#greenarrow)"/>
   <path d="M 530 200 L 420 250" stroke="#4caf50" stroke-width="2" fill="none" marker-end="url(#greenarrow)"/>
   <path d="M 715 200 L 450 250" stroke="#4caf50" stroke-width="2" fill="none" marker-end="url(#greenarrow)"/>
   
-  <!-- Negative factors (bottom half) -->
+
   <text x="400" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#f44336">
     NEGATIVE FAKTORER
   </text>
   
-  <!-- Negative factor 1: Competition -->
+
   <rect x="50" y="420" width="160" height="80" fill="#ffebee" stroke="#f44336" stroke-width="2" rx="8"/>
   <text x="130" y="440" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#d32f2f">
     Konkurranse
@@ -91,7 +91,7 @@
   <text x="60" y="480" font-family="Arial, sans-serif" font-size="10" fill="#424242">• Marginpress</text>
   <text x="60" y="490" font-family="Arial, sans-serif" font-size="10" fill="#424242">• Substitutter</text>
   
-  <!-- Negative factor 2: Cost inflation -->
+
   <rect x="250" y="420" width="160" height="80" fill="#ffebee" stroke="#f44336" stroke-width="2" rx="8"/>
   <text x="330" y="440" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#d32f2f">
     Kostnadsvekst
@@ -101,7 +101,7 @@
   <text x="260" y="480" font-family="Arial, sans-serif" font-size="10" fill="#424242">• Råvarepriser</text>
   <text x="260" y="490" font-family="Arial, sans-serif" font-size="10" fill="#424242">• Regulering</text>
   
-  <!-- Negative factor 3: Poor investments -->
+
   <rect x="450" y="420" width="160" height="80" fill="#ffebee" stroke="#f44336" stroke-width="2" rx="8"/>
   <text x="530" y="440" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#d32f2f">
     Dårlige
@@ -113,7 +113,7 @@
   <text x="460" y="485" font-family="Arial, sans-serif" font-size="10" fill="#424242">• Overinvestering</text>
   <text x="460" y="495" font-family="Arial, sans-serif" font-size="10" fill="#424242">• Feil timing</text>
   
-  <!-- Negative factor 4: Financial problems -->
+
   <rect x="650" y="420" width="130" height="80" fill="#ffebee" stroke="#f44336" stroke-width="2" rx="8"/>
   <text x="715" y="440" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#d32f2f">
     Finansielle
@@ -125,13 +125,13 @@
   <text x="660" y="485" font-family="Arial, sans-serif" font-size="10" fill="#424242">• Høy rente</text>
   <text x="660" y="495" font-family="Arial, sans-serif" font-size="10" fill="#424242">• Likviditet</text>
   
-  <!-- Arrows from negative factors to ROE -->
+
   <path d="M 130 420 L 350 350" stroke="#f44336" stroke-width="2" fill="none" marker-end="url(#redarrow)"/>
   <path d="M 330 420 L 380 350" stroke="#f44336" stroke-width="2" fill="none" marker-end="url(#redarrow)"/>
   <path d="M 530 420 L 420 350" stroke="#f44336" stroke-width="2" fill="none" marker-end="url(#redarrow)"/>
   <path d="M 715 420 L 450 350" stroke="#f44336" stroke-width="2" fill="none" marker-end="url(#redarrow)"/>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="greenarrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#4caf50"/>

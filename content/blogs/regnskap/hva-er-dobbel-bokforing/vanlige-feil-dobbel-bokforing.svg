@@ -21,15 +21,15 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e293b">
     Vanlige Feil i Dobbel Bokføring
   </text>
   
-  <!-- Error 1: Wrong Account Assignment -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="200" height="100" rx="10" fill="url(#errorGradient)" stroke="#dc2626" stroke-width="2" filter="url(#shadow)"/>
     <circle cx="25" cy="25" r="15" fill="white"/>
@@ -51,7 +51,7 @@
     </text>
   </g>
   
-  <!-- Error 2: Unbalanced Entries -->
+
   <g transform="translate(300, 80)">
     <rect x="0" y="0" width="200" height="100" rx="10" fill="url(#errorGradient)" stroke="#dc2626" stroke-width="2" filter="url(#shadow)"/>
     <circle cx="25" cy="25" r="15" fill="white"/>
@@ -73,7 +73,7 @@
     </text>
   </g>
   
-  <!-- Error 3: Missing Documentation -->
+
   <g transform="translate(550, 80)">
     <rect x="0" y="0" width="200" height="100" rx="10" fill="url(#errorGradient)" stroke="#dc2626" stroke-width="2" filter="url(#shadow)"/>
     <circle cx="25" cy="25" r="15" fill="white"/>
@@ -95,7 +95,7 @@
     </text>
   </g>
   
-  <!-- Error 4: Periodization Errors -->
+
   <g transform="translate(50, 220)">
     <rect x="0" y="0" width="200" height="100" rx="10" fill="url(#warningGradient)" stroke="#d97706" stroke-width="2" filter="url(#shadow)"/>
     <circle cx="25" cy="25" r="15" fill="white"/>
@@ -117,7 +117,7 @@
     </text>
   </g>
   
-  <!-- Error 5: Rounding Errors -->
+
   <g transform="translate(300, 220)">
     <rect x="0" y="0" width="200" height="100" rx="10" fill="url(#warningGradient)" stroke="#d97706" stroke-width="2" filter="url(#shadow)"/>
     <circle cx="25" cy="25" r="15" fill="white"/>
@@ -139,7 +139,7 @@
     </text>
   </g>
   
-  <!-- Prevention Strategies -->
+
   <g transform="translate(550, 220)">
     <rect x="0" y="0" width="200" height="100" rx="10" fill="url(#solutionGradient)" stroke="#059669" stroke-width="2" filter="url(#shadow)"/>
     <circle cx="25" cy="25" r="15" fill="white"/>
@@ -161,14 +161,14 @@
     </text>
   </g>
   
-  <!-- Error Impact Visualization -->
+
   <g transform="translate(50, 360)">
     <rect x="0" y="0" width="700" height="120" rx="10" fill="#fef2f2" stroke="#fecaca" stroke-width="2"/>
     <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#dc2626">
       Konsekvenser av Bokføringsfeil
     </text>
     
-    <!-- Impact 1 -->
+
     <g transform="translate(30, 40)">
       <circle cx="10" cy="10" r="8" fill="#ef4444"/>
       <text x="10" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">!</text>
@@ -176,7 +176,7 @@
       <text x="30" y="25" font-family="Arial, sans-serif" font-size="10" fill="#dc2626">Ledelsen tar beslutninger basert på feil data</text>
     </g>
     
-    <!-- Impact 2 -->
+
     <g transform="translate(250, 40)">
       <circle cx="10" cy="10" r="8" fill="#f59e0b"/>
       <text x="10" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">⚠</text>
@@ -184,7 +184,7 @@
       <text x="30" y="25" font-family="Arial, sans-serif" font-size="10" fill="#dc2626">Brudd på regnskapslovgivning</text>
     </g>
     
-    <!-- Impact 3 -->
+
     <g transform="translate(450, 40)">
       <circle cx="10" cy="10" r="8" fill="#8b5cf6"/>
       <text x="10" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">$</text>
@@ -192,7 +192,7 @@
       <text x="30" y="25" font-family="Arial, sans-serif" font-size="10" fill="#dc2626">Bøter, tilleggsskatt og revisjonsgebyr</text>
     </g>
     
-    <!-- Additional impacts -->
+
     <g transform="translate(30, 70)">
       <text x="0" y="0" font-family="Arial, sans-serif" font-size="11" fill="#dc2626">• Tap av kredibilitet overfor interessenter</text>
       <text x="250" y="0" font-family="Arial, sans-serif" font-size="11" fill="#dc2626">• Økt revisjonsrisiko og -kostnad</text>
@@ -200,14 +200,14 @@
     </g>
   </g>
   
-  <!-- Best Practices Section -->
+
   <g transform="translate(50, 500)">
     <rect x="0" y="0" width="700" height="80" rx="10" fill="#f0fdf4" stroke="#bbf7d0" stroke-width="2"/>
     <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#059669">
       Beste Praksis for Feilfri Bokføring
     </text>
     
-    <!-- Best Practice 1 -->
+
     <g transform="translate(30, 35)">
       <circle cx="8" cy="8" r="6" fill="#10b981"/>
       <text x="8" y="12" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">1</text>
@@ -215,7 +215,7 @@
       <text x="25" y="20" font-family="Arial, sans-serif" font-size="9" fill="#059669">Regelmessig prøvebalanse og avstemming</text>
     </g>
     
-    <!-- Best Practice 2 -->
+
     <g transform="translate(200, 35)">
       <circle cx="8" cy="8" r="6" fill="#10b981"/>
       <text x="8" y="12" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">2</text>
@@ -223,7 +223,7 @@
       <text x="25" y="20" font-family="Arial, sans-serif" font-size="9" fill="#059669">Sikre at alle transaksjoner har bilag</text>
     </g>
     
-    <!-- Best Practice 3 -->
+
     <g transform="translate(350, 35)">
       <circle cx="8" cy="8" r="6" fill="#10b981"/>
       <text x="8" y="12" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">3</text>
@@ -231,7 +231,7 @@
       <text x="25" y="20" font-family="Arial, sans-serif" font-size="9" fill="#059669">Kontinuerlig kompetanseutvikling</text>
     </g>
     
-    <!-- Best Practice 4 -->
+
     <g transform="translate(500, 35)">
       <circle cx="8" cy="8" r="6" fill="#10b981"/>
       <text x="8" y="12" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">4</text>
@@ -240,7 +240,7 @@
     </g>
   </g>
   
-  <!-- Error frequency indicators -->
+
   <g transform="translate(50, 340)">
     <text x="0" y="0" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#64748b">Feilfrekvens:</text>
     <circle cx="100" cy="-3" r="4" fill="#ef4444"/>

@@ -1,13 +1,13 @@
 <svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     EHF Teknisk Arkitektur
   </text>
   
-  <!-- UBL Foundation Layer -->
+
   <rect x="50" y="80" width="700" height="60" fill="#3498db" stroke="#2980b9" stroke-width="2" rx="8"/>
   <text x="400" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
     UBL 2.1 (Universal Business Language)
@@ -16,7 +16,7 @@
     OASIS International Standard - XML Schema Foundation
   </text>
   
-  <!-- EHF Adaptation Layer -->
+
   <rect x="100" y="160" width="600" height="50" fill="#27ae60" stroke="#229954" stroke-width="2" rx="8"/>
   <text x="400" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     EHF 3.0 - Norske Tilpasninger
@@ -25,12 +25,12 @@
     Juridiske krav, MVA-regler, Bokføringsloven
   </text>
   
-  <!-- Document Types -->
+
   <text x="400" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
     Støttede Dokumenttyper
   </text>
   
-  <!-- Document type boxes -->
+
   <rect x="80" y="260" width="120" height="70" fill="#e74c3c" stroke="#c0392b" stroke-width="2" rx="6"/>
   <text x="140" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     Invoice
@@ -101,7 +101,7 @@
     TypeCode
   </text>
   
-  <!-- XML Structure Example -->
+
   <rect x="50" y="350" width="350" height="130" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2" rx="8"/>
   <text x="225" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
     XML Struktur Eksempel
@@ -129,13 +129,13 @@
     &lt;/Invoice&gt;
   </text>
   
-  <!-- Validation Process -->
+
   <rect x="420" y="350" width="330" height="130" fill="#fff5f5" stroke="#e74c3c" stroke-width="2" rx="8"/>
   <text x="585" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
     Valideringsprosess
   </text>
   
-  <!-- Validation steps -->
+
   <circle cx="450" cy="390" r="8" fill="#e74c3c"/>
   <text x="470" y="395" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
     1. Syntaktisk validering (XML Schema)
@@ -161,12 +161,12 @@
     5. Godkjent for sending
   </text>
   
-  <!-- Arrows showing flow -->
+
   <line x1="400" y1="210" x2="400" y2="250" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
   <line x1="225" y1="330" x2="225" y2="350" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
   <line x1="585" y1="330" x2="585" y2="350" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>

@@ -1,18 +1,18 @@
 <svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Leverandørgjeld Syklus
   </text>
   
-  <!-- Subtitle -->
+
   <text x="400" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#34495e">
     Fra Bestilling til Betaling
   </text>
   
-  <!-- Central circle -->
+
   <circle cx="400" cy="300" r="80" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="3"/>
   <text x="400" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
     LEVERANDØR-
@@ -24,7 +24,7 @@
     SYKLUS
   </text>
   
-  <!-- Step 1: Order -->
+
   <rect x="150" y="120" width="140" height="80" rx="10" fill="#3498db" stroke="#2980b9" stroke-width="2"/>
   <text x="220" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     1. BESTILLING
@@ -39,7 +39,7 @@
     Ingen regnskapseffekt
   </text>
   
-  <!-- Step 2: Delivery -->
+
   <rect x="510" y="120" width="140" height="80" rx="10" fill="#27ae60" stroke="#229954" stroke-width="2"/>
   <text x="580" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     2. LEVERING
@@ -54,7 +54,7 @@
     Kostnad registreres
   </text>
   
-  <!-- Step 3: Invoice -->
+
   <rect x="510" y="420" width="140" height="80" rx="10" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
   <text x="580" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     3. FAKTURA
@@ -69,7 +69,7 @@
     Leverandørgjeld oppstår
   </text>
   
-  <!-- Step 4: Payment -->
+
   <rect x="150" y="420" width="140" height="80" rx="10" fill="#f39c12" stroke="#e67e22" stroke-width="2"/>
   <text x="220" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     4. BETALING
@@ -84,20 +84,20 @@
     Leverandørgjeld utlignes
   </text>
   
-  <!-- Arrows connecting the steps -->
-  <!-- 1 to 2 -->
+
+
   <path d="M 290 160 Q 350 140 510 160" stroke="#34495e" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- 2 to 3 -->
+
   <path d="M 580 200 Q 600 310 580 420" stroke="#34495e" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- 3 to 4 -->
+
   <path d="M 510 460 Q 350 480 290 460" stroke="#34495e" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- 4 to 1 -->
+
   <path d="M 220 420 Q 200 310 220 200" stroke="#34495e" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Accounting entries boxes -->
+
   <rect x="50" y="250" width="120" height="100" rx="5" fill="#9b59b6" stroke="#8e44ad" stroke-width="1"/>
   <text x="110" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     REGNSKAPS-
@@ -135,7 +135,7 @@
     Økon. kontroll
   </text>
   
-  <!-- Timeline indicators -->
+
   <text x="220" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#7f8c8d">
     Dag 0
   </text>
@@ -149,7 +149,7 @@
     Dag 30-60
   </text>
   
-  <!-- Key metrics -->
+
   <rect x="320" y="520" width="160" height="60" rx="5" fill="#34495e" stroke="#2c3e50" stroke-width="1"/>
   <text x="400" y="540" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     NØKKELTALL
@@ -161,7 +161,7 @@
     Leverandøromsetning
   </text>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>

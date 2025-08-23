@@ -26,23 +26,23 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="550" height="400" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1"/>
   
-  <!-- Title -->
+
   <text x="275" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#212529">
     Petroleumsskatt Beregning
   </text>
   
-  <!-- Example data -->
+
   <text x="275" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
     Eksempel: Petroleumsselskap (millioner kr)
   </text>
   
-  <!-- Calculation steps -->
+
   <g transform="translate(50, 70)">
     
-    <!-- Step 1: Revenue -->
+
     <rect x="0" y="0" width="450" height="30" fill="url(#revenueGradient)" rx="3"/>
     <text x="10" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
       1. Petroleumsinntekter
@@ -51,7 +51,7 @@
       1.000
     </text>
     
-    <!-- Step 2: Operating costs -->
+
     <rect x="0" y="35" width="450" height="30" fill="url(#costGradient)" rx="3"/>
     <text x="10" y="55" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
       2. Driftskostnader
@@ -60,7 +60,7 @@
       -300
     </text>
     
-    <!-- Step 3: Investments (immediate depreciation) -->
+
     <rect x="0" y="70" width="450" height="30" fill="url(#investmentGradient)" rx="3"/>
     <text x="10" y="90" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
       3. Investeringer (øyeblikkelig avskrivning)
@@ -69,7 +69,7 @@
       -200
     </text>
     
-    <!-- Step 4: Free income -->
+
     <rect x="0" y="105" width="450" height="30" fill="url(#freeIncomeGradient)" rx="3"/>
     <text x="10" y="125" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
       4. Friinntekt (5,2%)
@@ -78,10 +78,10 @@
       -10
     </text>
     
-    <!-- Divider line -->
+
     <line x1="0" y1="150" x2="450" y2="150" stroke="#495057" stroke-width="2"/>
     
-    <!-- Taxable income -->
+
     <rect x="0" y="160" width="450" height="25" fill="#e9ecef" stroke="#adb5bd" stroke-width="1" rx="3"/>
     <text x="10" y="178" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
       Skattepliktig inntekt
@@ -90,7 +90,7 @@
       490
     </text>
     
-    <!-- Ordinary corporate tax -->
+
     <rect x="0" y="195" width="450" height="30" fill="url(#ordinaryTaxGradient)" rx="3"/>
     <text x="10" y="215" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
       5. Ordinær selskapsskatt (22%)
@@ -99,7 +99,7 @@
       107,8
     </text>
     
-    <!-- Special tax -->
+
     <rect x="0" y="230" width="450" height="30" fill="url(#specialTaxGradient)" rx="3"/>
     <text x="10" y="250" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
       6. Særskatt (56%)
@@ -108,7 +108,7 @@
       274,4
     </text>
     
-    <!-- Total tax -->
+
     <rect x="0" y="270" width="450" height="35" fill="#6f42c1" rx="3"/>
     <text x="10" y="290" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
       Total petroleumsskatt
@@ -122,15 +122,15 @@
     
   </g>
   
-  <!-- Key features illustration -->
+
   <g transform="translate(50, 320)">
     <text x="225" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#212529">
       Særlige Fordeler i Petroleumsskatt
     </text>
     
-    <!-- Feature boxes -->
+
     <g transform="translate(0, 15)">
-      <!-- Immediate depreciation benefit -->
+
       <rect x="0" y="0" width="110" height="40" fill="#28a745" opacity="0.2" rx="3"/>
       <text x="55" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#155724">
         Øyeblikkelig avskrivning
@@ -142,7 +142,7 @@
         200 × 78% = 156 mill. kr
       </text>
       
-      <!-- Free income benefit -->
+
       <rect x="120" y="0" width="110" height="40" fill="#17a2b8" opacity="0.2" rx="3"/>
       <text x="175" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#0c5460">
         Friinntekt 5,2%
@@ -154,7 +154,7 @@
         10 × 78% = 7,8 mill. kr
       </text>
       
-      <!-- Loss carryforward -->
+
       <rect x="240" y="0" width="110" height="40" fill="#ffc107" opacity="0.2" rx="3"/>
       <text x="295" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#856404">
         Fremføring med rente
@@ -166,7 +166,7 @@
         Unikt i norsk skatterett
       </text>
       
-      <!-- Net effect -->
+
       <rect x="360" y="0" width="90" height="40" fill="#6f42c1" opacity="0.2" rx="3"/>
       <text x="405" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#4a2c7a">
         Netto skatteeffekt

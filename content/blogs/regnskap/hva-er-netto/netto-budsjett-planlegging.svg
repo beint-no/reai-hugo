@@ -14,24 +14,24 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
   <text x="400" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="22" font-weight="bold">
     Bruk av Nettotall i Budsjettplanlegging
   </text>
   
-  <!-- Main content area -->
+
   <rect x="30" y="80" width="740" height="480" fill="white" stroke="#dee2e6" stroke-width="1" rx="10"/>
   
-  <!-- Planning process flow -->
+
   <text x="400" y="110" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     Budsjettplanlegging med Nettotall
   </text>
   
-  <!-- Step 1: Netto inntekter -->
+
   <rect x="60" y="130" width="160" height="80" fill="#e8f5e8" stroke="#4caf50" stroke-width="2" rx="10"/>
   <text x="140" y="150" text-anchor="middle" fill="#4caf50" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     1. Netto Inntekter
@@ -46,11 +46,11 @@
     1.800.000 kr
   </text>
   
-  <!-- Arrow -->
+
   <polygon points="230,170 245,160 245,180" fill="#666"/>
   <line x1="230" y1="170" x2="245" y2="170" stroke="#666" stroke-width="2"/>
   
-  <!-- Step 2: Netto kostnader -->
+
   <rect x="260" y="130" width="160" height="80" fill="#ffebee" stroke="#f44336" stroke-width="2" rx="10"/>
   <text x="340" y="150" text-anchor="middle" fill="#f44336" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     2. Netto Kostnader
@@ -65,11 +65,11 @@
     1.200.000 kr
   </text>
   
-  <!-- Arrow -->
+
   <polygon points="430,170 445,160 445,180" fill="#666"/>
   <line x1="430" y1="170" x2="445" y2="170" stroke="#666" stroke-width="2"/>
   
-  <!-- Step 3: Netto resultat -->
+
   <rect x="460" y="130" width="160" height="80" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="10"/>
   <text x="540" y="150" text-anchor="middle" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     3. Netto Resultat
@@ -84,18 +84,18 @@
     600.000 kr
   </text>
   
-  <!-- Arrow down -->
+
   <polygon points="540,220 530,235 550,235" fill="#666"/>
   <line x1="540" y1="220" x2="540" y2="235" stroke="#666" stroke-width="2"/>
   
-  <!-- Detailed budget breakdown -->
+
   <rect x="60" y="250" width="680" height="200" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="10"/>
   <text x="400" y="275" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Detaljert Budsjett med Nettotall
   </text>
   
-  <!-- Budget table -->
-  <!-- Headers -->
+
+
   <rect x="80" y="290" width="120" height="30" fill="#e3f2fd" stroke="#1976d2" stroke-width="1"/>
   <text x="140" y="310" text-anchor="middle" fill="#1976d2" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
     Post
@@ -121,7 +121,7 @@
     Planlegging
   </text>
   
-  <!-- Row 1: Omsetning -->
+
   <rect x="80" y="320" width="120" height="25" fill="white" stroke="#999" stroke-width="1"/>
   <text x="140" y="337" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
     Omsetning
@@ -147,7 +147,7 @@
     Realistisk mål
   </text>
   
-  <!-- Row 2: Lønnskostnader -->
+
   <rect x="80" y="345" width="120" height="25" fill="white" stroke="#999" stroke-width="1"/>
   <text x="140" y="362" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
     Lønnskostnader
@@ -173,7 +173,7 @@
     Utbetalt lønn
   </text>
   
-  <!-- Row 3: Andre kostnader -->
+
   <rect x="80" y="370" width="120" height="25" fill="white" stroke="#999" stroke-width="1"/>
   <text x="140" y="387" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
     Andre kostnader
@@ -199,7 +199,7 @@
     Faktisk kostnad
   </text>
   
-  <!-- Total row -->
+
   <rect x="80" y="395" width="120" height="30" fill="url(#planGradient)"/>
   <text x="140" y="415" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
     NETTO RESULTAT
@@ -215,7 +215,7 @@
     Målsetting
   </text>
   
-  <!-- Benefits section -->
+
   <rect x="60" y="470" width="680" height="70" fill="#e3f2fd" stroke="#1976d2" stroke-width="1" rx="10"/>
   <text x="400" y="490" text-anchor="middle" fill="#1976d2" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Fordeler med Nettotall i Budsjettplanlegging
@@ -228,7 +228,7 @@
     • Bedre likviditetsstyring: Fokus på faktiske inn- og utbetalinger
   </text>
   
-  <!-- Footer -->
+
   <text x="400" y="580" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="11">
     Nettotall gir et realistisk grunnlag for budsjettplanlegging og økonomisk styring
   </text>

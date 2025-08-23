@@ -13,24 +13,24 @@
     </style>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" class="title" text-anchor="middle">Kundereskontro og Regnskapsføring</text>
   <text x="400" y="50" class="subtitle" text-anchor="middle">Sammenheng mellom kundereskontro og hovedbok</text>
   
-  <!-- Main diagram showing relationship -->
+
   <g transform="translate(50, 80)">
-    <!-- Hovedbok section -->
+
     <rect x="0" y="0" width="300" height="180" fill="#3498db" stroke="#2980b9" stroke-width="2" rx="10"/>
     <text x="150" y="25" class="account-title" text-anchor="middle">HOVEDBOK</text>
     
-    <!-- Kundefordringer account in hovedbok -->
+
     <rect x="20" y="40" width="260" height="120" fill="#fff" stroke="#2980b9" stroke-width="1" rx="5"/>
     <text x="150" y="60" class="text" text-anchor="middle" font-weight="bold">Konto 1500: Kundefordringer</text>
     
-    <!-- Sample entries in hovedbok -->
+
     <text x="30" y="80" class="small-text" font-weight="bold">Samlede poster:</text>
     <text x="30" y="95" class="small-text">Salg til kunder (samlet)</text>
     <text x="250" y="95" class="amount small-text debit">125 000</text>
@@ -40,15 +40,15 @@
     <text x="30" y="130" class="small-text" font-weight="bold">Saldo:</text>
     <text x="250" y="130" class="amount small-text" font-weight="bold">25 000</text>
     
-    <!-- Arrow pointing right -->
+
     <path d="M 320 90 L 360 90 L 350 80 M 360 90 L 350 100" stroke="#34495e" stroke-width="2" fill="none"/>
     <text x="340" y="75" class="small-text">må stemme</text>
     
-    <!-- Kundereskontro section -->
+
     <rect x="380" y="0" width="320" height="180" fill="#27ae60" stroke="#229954" stroke-width="2" rx="10"/>
     <text x="540" y="25" class="account-title" text-anchor="middle">KUNDERESKONTRO</text>
     
-    <!-- Individual customer accounts -->
+
     <rect x="400" y="40" width="280" height="120" fill="#fff" stroke="#229954" stroke-width="1" rx="5"/>
     <text x="540" y="60" class="text" text-anchor="middle" font-weight="bold">Individuelle kundekontoer</text>
     
@@ -63,10 +63,10 @@
     <text x="650" y="130" class="amount small-text" font-weight="bold">25 000</text>
   </g>
   
-  <!-- Booking examples section -->
+
   <text x="50" y="300" class="subtitle">Bokføringseksempler:</text>
   
-  <!-- Example 1: Sale -->
+
   <rect x="50" y="320" width="700" height="80" fill="#fff" stroke="#bdc3c7" stroke-width="1" rx="5"/>
   <text x="60" y="340" class="text" font-weight="bold">1. Ved salg til kunde (100 000 kr + 25% MVA):</text>
   
@@ -78,7 +78,7 @@
   <text x="80" y="390" class="code">Kredit: Utgående MVA</text>
   <text x="350" y="390" class="code credit">25 000</text>
   
-  <!-- Example 2: Payment -->
+
   <rect x="50" y="420" width="700" height="60" fill="#fff" stroke="#bdc3c7" stroke-width="1" rx="5"/>
   <text x="60" y="440" class="text" font-weight="bold">2. Ved innbetaling fra kunde (125 000 kr):</text>
   
@@ -88,7 +88,7 @@
   <text x="80" y="475" class="code">Kredit: Kundefordringer (kundereskontro)</text>
   <text x="350" y="475" class="code credit">125 000</text>
   
-  <!-- Example 3: Bad debt provision -->
+
   <rect x="50" y="500" width="700" height="60" fill="#fff" stroke="#bdc3c7" stroke-width="1" rx="5"/>
   <text x="60" y="520" class="text" font-weight="bold">3. Ved tapsavsetning (5% av utestående):</text>
   
@@ -98,7 +98,7 @@
   <text x="80" y="555" class="code">Kredit: Avsetning for tap</text>
   <text x="350" y="555" class="code credit">6 250</text>
   
-  <!-- Key principles box -->
+
   <rect x="400" y="320" width="300" height="160" fill="#e8f4fd" stroke="#3498db" stroke-width="2" rx="5"/>
   <text x="550" y="340" class="text" text-anchor="middle" font-weight="bold">Viktige prinsipper:</text>
   

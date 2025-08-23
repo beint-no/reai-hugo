@@ -1,13 +1,13 @@
 <svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" fill="#2c3e50" font-size="24" font-weight="bold" font-family="Arial, sans-serif">
     Hovedkategorier av konsesjoner
   </text>
   
-  <!-- Offentlige konsesjoner -->
+
   <rect x="50" y="60" width="220" height="180" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="10"/>
   <text x="160" y="80" text-anchor="middle" fill="#1976d2" font-size="16" font-weight="bold" font-family="Arial, sans-serif">
     Offentlige konsesjoner
@@ -21,7 +21,7 @@
   <text x="70" y="205" fill="#1565c0" font-size="12" font-family="Arial, sans-serif">• Apotektillatelser</text>
   <text x="70" y="225" fill="#1565c0" font-size="12" font-family="Arial, sans-serif">• Alkoholtillatelser</text>
   
-  <!-- Kommersielle lisenser -->
+
   <rect x="290" y="60" width="220" height="180" fill="#fff3e0" stroke="#f57c00" stroke-width="2" rx="10"/>
   <text x="400" y="80" text-anchor="middle" fill="#f57c00" font-size="16" font-weight="bold" font-family="Arial, sans-serif">
     Kommersielle lisenser
@@ -35,7 +35,7 @@
   <text x="310" y="205" fill="#ef6c00" font-size="12" font-family="Arial, sans-serif">• Teknologilisenser</text>
   <text x="310" y="225" fill="#ef6c00" font-size="12" font-family="Arial, sans-serif">• Merkevarerettigheter</text>
   
-  <!-- Utvinnings- og ressursrettigheter -->
+
   <rect x="530" y="60" width="220" height="180" fill="#e8f5e8" stroke="#388e3c" stroke-width="2" rx="10"/>
   <text x="640" y="80" text-anchor="middle" fill="#388e3c" font-size="16" font-weight="bold" font-family="Arial, sans-serif">
     Utvinnings- &amp; ressursrettigheter
@@ -49,11 +49,11 @@
   <text x="550" y="205" fill="#2e7d32" font-size="12" font-family="Arial, sans-serif">• Jaktrettigheter</text>
   <text x="550" y="225" fill="#2e7d32" font-size="12" font-family="Arial, sans-serif">• Vindkraftrettigheter</text>
   
-  <!-- Arrows and connections -->
+
   <path d="M 160 250 L 160 280 L 400 280 L 400 250" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 640 250 L 640 280 L 400 280" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Common characteristics box -->
+
   <rect x="250" y="300" width="300" height="150" fill="#f1f3f4" stroke="#6c757d" stroke-width="2" rx="10"/>
   <text x="400" y="320" text-anchor="middle" fill="#495057" font-size="16" font-weight="bold" font-family="Arial, sans-serif">
     Felles karakteristika
@@ -65,13 +65,13 @@
   <text x="270" y="405" fill="#6c757d" font-size="12" font-family="Arial, sans-serif">• Juridisk beskyttelse</text>
   <text x="270" y="425" fill="#6c757d" font-size="12" font-family="Arial, sans-serif">• Kan handles/overføres</text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#6c757d"/>
     </marker>
   </defs>
   
-  <!-- Bottom accent -->
+
   <rect x="50" y="480" width="700" height="4" fill="#6c757d"/>
 </svg>

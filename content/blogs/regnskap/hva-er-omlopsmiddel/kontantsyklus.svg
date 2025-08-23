@@ -10,58 +10,58 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f8fafc"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGrad)"/>
   <text x="400" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="bold">Kontantsyklus - Fra Innkjøp til Kontantinngang</text>
   
-  <!-- Central formula box -->
+
   <rect x="200" y="80" width="400" height="60" fill="#e0f2fe" stroke="#0891b2" stroke-width="3" rx="10"/>
   <text x="400" y="105" text-anchor="middle" fill="#0e7490" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Kontantsyklus =</text>
   <text x="400" y="125" text-anchor="middle" fill="#0e7490" font-family="Arial, sans-serif" font-size="14">Lagringsperiode + Innkrevingsperiode - Betalingsperiode</text>
   
-  <!-- Step 1: Innkjøp av varer -->
+
   <rect x="50" y="180" width="150" height="80" fill="#fef3c7" stroke="#d97706" stroke-width="2" rx="8"/>
   <text x="125" y="205" text-anchor="middle" fill="#b45309" font-family="Arial, sans-serif" font-size="14" font-weight="bold">1. Innkjøp</text>
   <text x="125" y="225" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="12">Kontantutbetaling</text>
   <text x="125" y="240" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="12">for råvarer/varer</text>
   
-  <!-- Arrow 1 -->
+
   <path d="M 200 220 L 240 220" stroke="#2563eb" stroke-width="3" marker-end="url(#blueArrow)"/>
   <text x="220" y="210" text-anchor="middle" fill="#2563eb" font-family="Arial, sans-serif" font-size="10">Lagringsperiode</text>
   
-  <!-- Step 2: Produksjon/Lagring -->
+
   <rect x="260" y="180" width="150" height="80" fill="#dcfce7" stroke="#16a34a" stroke-width="2" rx="8"/>
   <text x="335" y="205" text-anchor="middle" fill="#15803d" font-family="Arial, sans-serif" font-size="14" font-weight="bold">2. Produksjon/</text>
   <text x="335" y="225" text-anchor="middle" fill="#15803d" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Lagring</text>
   <text x="335" y="245" text-anchor="middle" fill="#166534" font-family="Arial, sans-serif" font-size="12">Varer på lager</text>
   
-  <!-- Arrow 2 -->
+
   <path d="M 410 220 L 450 220" stroke="#2563eb" stroke-width="3" marker-end="url(#blueArrow)"/>
   
-  <!-- Step 3: Salg på kreditt -->
+
   <rect x="470" y="180" width="150" height="80" fill="#dbeafe" stroke="#2563eb" stroke-width="2" rx="8"/>
   <text x="545" y="205" text-anchor="middle" fill="#1d4ed8" font-family="Arial, sans-serif" font-size="14" font-weight="bold">3. Salg</text>
   <text x="545" y="225" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="12">Kundefordring</text>
   <text x="545" y="240" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="12">oppstår</text>
   
-  <!-- Arrow 3 -->
+
   <path d="M 620 220 L 660 220" stroke="#2563eb" stroke-width="3" marker-end="url(#blueArrow)"/>
   <text x="640" y="210" text-anchor="middle" fill="#2563eb" font-family="Arial, sans-serif" font-size="10">Innkrevingsperiode</text>
   
-  <!-- Step 4: Kontantinngang -->
+
   <rect x="680" y="180" width="100" height="80" fill="#dcfce7" stroke="#16a34a" stroke-width="2" rx="8"/>
   <text x="730" y="205" text-anchor="middle" fill="#15803d" font-family="Arial, sans-serif" font-size="14" font-weight="bold">4. Kontant-</text>
   <text x="730" y="225" text-anchor="middle" fill="#15803d" font-family="Arial, sans-serif" font-size="14" font-weight="bold">inngang</text>
   <text x="730" y="245" text-anchor="middle" fill="#166534" font-family="Arial, sans-serif" font-size="12">Betaling mottatt</text>
   
-  <!-- Return arrow showing cycle completion -->
+
   <path d="M 730 280 Q 400 320 125 280" stroke="#16a34a" stroke-width="3" fill="none" marker-end="url(#greenArrow)"/>
   <text x="400" y="340" text-anchor="middle" fill="#16a34a" font-family="Arial, sans-serif" font-size="12">Syklusen gjentas</text>
   
-  <!-- Time periods -->
+
   <rect x="100" y="380" width="600" height="100" fill="#f1f5f9" stroke="#64748b" stroke-width="2" rx="10"/>
   <text x="400" y="405" text-anchor="middle" fill="#334155" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Typiske Tidsperioder</text>
   
@@ -76,7 +76,7 @@
   
   <text x="400" y="470" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Mål: Redusere kontantsyklusen for bedre kontantstrøm</text>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="blueArrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#2563eb"/>

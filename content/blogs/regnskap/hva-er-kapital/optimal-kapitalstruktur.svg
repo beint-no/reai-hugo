@@ -1,20 +1,20 @@
 <svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="400" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Optimal Kapitalstruktur og Balanse
   </text>
   
-  <!-- Balance scale base -->
+
   <rect x="380" y="320" width="40" height="60" fill="#34495e" rx="5"/>
   <rect x="350" y="370" width="100" height="20" fill="#34495e" rx="10"/>
   
-  <!-- Balance beam -->
+
   <rect x="200" y="315" width="400" height="10" fill="#2c3e50" rx="5"/>
   
-  <!-- Left side - High Equity -->
+
   <g transform="translate(100, 180)">
     <rect x="0" y="0" width="200" height="130" fill="#27ae60" stroke="#229954" stroke-width="3" rx="10"/>
     <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
@@ -24,14 +24,14 @@
       (Over 60%)
     </text>
     
-    <!-- Advantages -->
+
     <text x="15" y="70" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">FORDELER:</text>
     <text x="15" y="85" font-family="Arial, sans-serif" font-size="10" fill="white">• Høy finansiell stabilitet</text>
     <text x="15" y="100" font-family="Arial, sans-serif" font-size="10" fill="white">• Lavere risiko</text>
     <text x="15" y="115" font-family="Arial, sans-serif" font-size="10" fill="white">• Større handlingsrom</text>
   </g>
   
-  <!-- Right side - High Debt -->
+
   <g transform="translate(500, 180)">
     <rect x="0" y="0" width="200" height="130" fill="#e74c3c" stroke="#c0392b" stroke-width="3" rx="10"/>
     <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
@@ -41,14 +41,14 @@
       (Over 70%)
     </text>
     
-    <!-- Disadvantages -->
+
     <text x="15" y="70" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">ULEMPER:</text>
     <text x="15" y="85" font-family="Arial, sans-serif" font-size="10" fill="white">• Høy finansiell risiko</text>
     <text x="15" y="100" font-family="Arial, sans-serif" font-size="10" fill="white">• Rentekostnader</text>
     <text x="15" y="115" font-family="Arial, sans-serif" font-size="10" fill="white">• Tilbakebetalingspress</text>
   </g>
   
-  <!-- Center - Optimal balance -->
+
   <g transform="translate(320, 80)">
     <rect x="0" y="0" width="160" height="90" fill="#f39c12" stroke="#e67e22" stroke-width="3" rx="10"/>
     <text x="80" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -65,11 +65,11 @@
     </text>
   </g>
   
-  <!-- Arrows pointing to optimal -->
+
   <path d="M 250 200 L 350 150" stroke="#f39c12" stroke-width="3" fill="none" marker-end="url(#orangeArrow)"/>
   <path d="M 550 200 L 450 150" stroke="#f39c12" stroke-width="3" fill="none" marker-end="url(#orangeArrow)"/>
   
-  <!-- Risk indicators -->
+
   <g transform="translate(50, 50)">
     <rect x="0" y="0" width="120" height="40" fill="#95a5a6" stroke="#7f8c8d" stroke-width="2" rx="5"/>
     <text x="60" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
@@ -90,12 +90,12 @@
     </text>
   </g>
   
-  <!-- Balance indicators -->
+
   <circle cx="250" cy="320" r="8" fill="#27ae60"/>
   <circle cx="550" cy="320" r="8" fill="#e74c3c"/>
   <circle cx="400" cy="320" r="12" fill="#f39c12" stroke="#e67e22" stroke-width="2"/>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="orangeArrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#f39c12"/>

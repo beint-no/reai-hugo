@@ -18,23 +18,23 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#333">
     IFRS Implementering i Norge
   </text>
   
-  <!-- Timeline -->
+
   <text x="400" y="70" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#666">
     Historisk Utvikling og Implementering
   </text>
   
-  <!-- Timeline line -->
+
   <line x1="100" y1="100" x2="700" y2="100" stroke="#666" stroke-width="3"/>
   
-  <!-- Timeline points -->
+
   <circle cx="150" cy="100" r="8" fill="#0066cc"/>
   <text x="150" y="125" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#333">
     2005
@@ -79,12 +79,12 @@
     rapportering
   </text>
   
-  <!-- Current structure -->
+
   <text x="400" y="200" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#333">
     Dagens IFRS-struktur i Norge
   </text>
   
-  <!-- Full IFRS -->
+
   <rect x="50" y="230" width="200" height="120" fill="url(#ifrsGradient)" rx="8"/>
   <text x="150" y="260" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
     Full IFRS
@@ -102,7 +102,7 @@
     • EU-godkjente standarder
   </text>
   
-  <!-- Simplified IFRS -->
+
   <rect x="300" y="230" width="200" height="120" fill="url(#simplifiedGradient)" rx="8"/>
   <text x="400" y="260" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
     Forenklet IFRS
@@ -120,7 +120,7 @@
     • NRS-standarder
   </text>
   
-  <!-- GRS -->
+
   <rect x="550" y="230" width="200" height="120" fill="url(#grsGradient)" rx="8"/>
   <text x="650" y="260" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
     GRS
@@ -138,12 +138,12 @@
     • Fleksibilitet
   </text>
   
-  <!-- Implementation process -->
+
   <text x="400" y="390" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#333">
     Implementeringsprosess
   </text>
   
-  <!-- Process steps -->
+
   <rect x="80" y="410" width="120" height="60" fill="white" stroke="#0066cc" stroke-width="2" rx="6"/>
   <text x="140" y="430" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0066cc">
     1. EU-vedtak
@@ -199,20 +199,20 @@
     Tolkninger
   </text>
   
-  <!-- Arrows between steps -->
+
   <path d="M 200 440 L 210 440" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
   <path d="M 340 440 L 350 440" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
   <path d="M 480 440 L 490 440" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
   <path d="M 620 440 L 630 440" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#666"/>
     </marker>
   </defs>
   
-  <!-- Key benefits -->
+
   <text x="400" y="510" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#333">
     Fordeler med IFRS i Norge
   </text>
@@ -241,7 +241,7 @@
     kapitalmarkeder
   </text>
   
-  <!-- Footer -->
+
   <text x="400" y="600" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#666">
     Norge har tilpasset IFRS til nasjonale forhold gjennom et fleksibelt og gradert system
   </text>

@@ -1,15 +1,15 @@
 <svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="400" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#2c3e50">Giro-systemet</text>
   
-  <!-- Central circle representing the giro system -->
+
   <circle cx="400" cy="200" r="80" fill="#3498db" stroke="#2980b9" stroke-width="3"/>
   <text x="400" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">GIRO</text>
   
-  <!-- Banks around the circle -->
+
   <rect x="150" y="120" width="80" height="50" rx="5" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
   <text x="190" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Bank A</text>
   <text x="190" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Avsender</text>
@@ -26,25 +26,25 @@
   <text x="610" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Bank D</text>
   <text x="610" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Settlement</text>
   
-  <!-- Arrows showing flow -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>
     </marker>
   </defs>
   
-  <!-- Arrows from banks to center -->
+
   <line x1="230" y1="145" x2="320" y2="180" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
   <line x1="570" y1="145" x2="480" y2="180" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
   <line x1="230" y1="305" x2="320" y2="220" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
   <line x1="570" y1="305" x2="480" y2="220" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
   
-  <!-- Money symbols -->
+
   <text x="280" y="165" font-family="Arial, sans-serif" font-size="16" fill="#27ae60">€</text>
   <text x="520" y="165" font-family="Arial, sans-serif" font-size="16" fill="#27ae60">€</text>
   <text x="280" y="240" font-family="Arial, sans-serif" font-size="16" fill="#27ae60">€</text>
   <text x="520" y="240" font-family="Arial, sans-serif" font-size="16" fill="#27ae60">€</text>
   
-  <!-- Bottom description -->
+
   <text x="400" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#7f8c8d">Sentralisert betalingssystem for sikre og effektive pengeoverføringer</text>
 </svg>

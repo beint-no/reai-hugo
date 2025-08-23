@@ -14,15 +14,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="400" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#212529">
     Bankavstemming i Regnskap
   </text>
   
-  <!-- Kassabok (Left side) -->
+
   <rect x="50" y="100" width="200" height="250" rx="10" fill="url(#blueGradient)" stroke="#1864ab" stroke-width="2"/>
   <text x="150" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
     Kassabok
@@ -31,7 +31,7 @@
     (Internt system)
   </text>
   
-  <!-- Kassabok entries -->
+
   <rect x="70" y="170" width="160" height="20" fill="rgba(255,255,255,0.2)" rx="3"/>
   <text x="80" y="185" font-family="Arial, sans-serif" font-size="12" fill="white">Innskudd: +50,000 kr</text>
   
@@ -44,13 +44,13 @@
   <rect x="70" y="245" width="160" height="20" fill="rgba(255,255,255,0.2)" rx="3"/>
   <text x="80" y="260" font-family="Arial, sans-serif" font-size="12" fill="white">Gebyr: -500 kr</text>
   
-  <!-- Kassabok saldo -->
+
   <rect x="70" y="280" width="160" height="25" fill="rgba(255,255,255,0.3)" rx="3"/>
   <text x="150" y="298" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Saldo: 125,000 kr
   </text>
   
-  <!-- Bankutskrift (Right side) -->
+
   <rect x="550" y="100" width="200" height="250" rx="10" fill="url(#greenGradient)" stroke="#2f9e44" stroke-width="2"/>
   <text x="650" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
     Bankutskrift
@@ -59,7 +59,7 @@
     (Bank system)
   </text>
   
-  <!-- Bankutskrift entries -->
+
   <rect x="570" y="170" width="160" height="20" fill="rgba(255,255,255,0.2)" rx="3"/>
   <text x="580" y="185" font-family="Arial, sans-serif" font-size="12" fill="white">Innskudd: +48,000 kr</text>
   
@@ -72,24 +72,24 @@
   <rect x="570" y="245" width="160" height="20" fill="rgba(255,255,255,0.2)" rx="3"/>
   <text x="580" y="260" font-family="Arial, sans-serif" font-size="12" fill="white">Bankgebyr: -800 kr</text>
   
-  <!-- Bank saldo -->
+
   <rect x="570" y="280" width="160" height="25" fill="rgba(255,255,255,0.3)" rx="3"/>
   <text x="650" y="298" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Saldo: 118,500 kr
   </text>
   
-  <!-- Comparison arrows -->
+
   <path d="M 270 200 Q 400 150 530 200" stroke="#fd7e14" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 530 250 Q 400 300 270 250" stroke="#fd7e14" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#fd7e14"/>
     </marker>
   </defs>
   
-  <!-- Comparison text -->
+
   <text x="400" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#fd7e14">
     SAMMENLIGN
   </text>
@@ -97,7 +97,7 @@
     AVSTEM
   </text>
   
-  <!-- Difference indicator -->
+
   <rect x="320" y="320" width="160" height="40" rx="20" fill="#ffd43b" stroke="#fab005" stroke-width="2"/>
   <text x="400" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#495057">
     Differanse: 6,500 kr

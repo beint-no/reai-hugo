@@ -14,10 +14,10 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="400" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#212529">
     Fritaksmetoden
   </text>
@@ -25,7 +25,7 @@
     Skattefritak for Utbytte og Gevinst
   </text>
   
-  <!-- Company A -->
+
   <rect x="50" y="120" width="120" height="80" fill="url(#blueGradient)" rx="10"/>
   <text x="110" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Selskap A
@@ -37,7 +37,7 @@
     Eier ≥10%
   </text>
   
-  <!-- Company B -->
+
   <rect x="630" y="120" width="120" height="80" fill="url(#greenGradient)" rx="10"/>
   <text x="690" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Selskap B
@@ -49,19 +49,19 @@
     Utbytter
   </text>
   
-  <!-- Arrow from A to B -->
+
   <path d="M 170 160 Q 400 100 630 160" stroke="#0066cc" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <text x="400" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#0066cc" font-weight="bold">
     Investering
   </text>
   
-  <!-- Arrow from B to A -->
+
   <path d="M 630 160 Q 400 220 170 160" stroke="#28a745" stroke-width="3" fill="none" marker-end="url(#arrowhead2)"/>
   <text x="400" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#28a745" font-weight="bold">
     Utbytte/Gevinst
   </text>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#0066cc"/>
@@ -71,7 +71,7 @@
     </marker>
   </defs>
   
-  <!-- Fritaksmetoden box -->
+
   <rect x="300" y="280" width="200" height="80" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="10"/>
   <text x="400" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#856404">
     Fritaksmetoden
@@ -86,7 +86,7 @@
     (Effektiv sats: 0,66%)
   </text>
   
-  <!-- Three conditions -->
+
   <circle cx="150" cy="320" r="25" fill="#dc3545" stroke="#721c24" stroke-width="2"/>
   <text x="150" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
     ≥10%

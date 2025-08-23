@@ -6,16 +6,16 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGrad)" />
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" 
         font-size="24" font-weight="bold" fill="#2c3e50">
     Konjunkturindikatorer Oversikt
   </text>
   
-  <!-- Leading Indicators -->
+
   <rect x="50" y="80" width="200" height="300" rx="10" fill="#27ae60" opacity="0.1" stroke="#27ae60" stroke-width="2"/>
   <text x="150" y="105" text-anchor="middle" font-family="Arial, sans-serif" 
         font-size="16" font-weight="bold" fill="#27ae60">Ledende Indikatorer</text>
@@ -38,7 +38,7 @@
   <text x="150" y="350" text-anchor="middle" font-family="Arial, sans-serif" 
         font-size="11" font-weight="bold" fill="#27ae60">Tidshorisont: 3-12 måneder</text>
   
-  <!-- Coincident Indicators -->
+
   <rect x="300" y="80" width="200" height="300" rx="10" fill="#f39c12" opacity="0.1" stroke="#f39c12" stroke-width="2"/>
   <text x="400" y="105" text-anchor="middle" font-family="Arial, sans-serif" 
         font-size="16" font-weight="bold" fill="#f39c12">Sammenfallende</text>
@@ -61,7 +61,7 @@
   <text x="400" y="350" text-anchor="middle" font-family="Arial, sans-serif" 
         font-size="11" font-weight="bold" fill="#f39c12">Tidshorisont: Nåtid</text>
   
-  <!-- Lagging Indicators -->
+
   <rect x="550" y="80" width="200" height="300" rx="10" fill="#e74c3c" opacity="0.1" stroke="#e74c3c" stroke-width="2"/>
   <text x="650" y="105" text-anchor="middle" font-family="Arial, sans-serif" 
         font-size="16" font-weight="bold" fill="#e74c3c">Etterslepende</text>
@@ -84,18 +84,18 @@
   <text x="650" y="350" text-anchor="middle" font-family="Arial, sans-serif" 
         font-size="11" font-weight="bold" fill="#e74c3c">Tidshorisont: 6-18 måneder</text>
   
-  <!-- Timeline arrows -->
+
   <path d="M250,240 L300,240" stroke="#34495e" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M500,240 L550,240" stroke="#34495e" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#34495e" />
     </marker>
   </defs>
   
-  <!-- Bottom summary -->
+
   <rect x="50" y="400" width="700" height="80" rx="10" fill="#ffffff" opacity="0.9" stroke="#bdc3c7" stroke-width="1"/>
   <text x="400" y="425" text-anchor="middle" font-family="Arial, sans-serif" 
         font-size="16" font-weight="bold" fill="#2c3e50">Strategisk Bruk av Indikatorer</text>

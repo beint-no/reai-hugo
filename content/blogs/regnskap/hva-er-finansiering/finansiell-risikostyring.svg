@@ -14,15 +14,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#333">
     Finansiell Risikostyring
   </text>
   
-  <!-- Central risk management circle -->
+
   <circle cx="400" cy="300" r="80" fill="white" stroke="#0066cc" stroke-width="4"/>
   <text x="400" y="290" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0066cc">
     RISIKO-
@@ -31,9 +31,9 @@
     STYRING
   </text>
   
-  <!-- Risk types around the circle -->
+
   
-  <!-- Credit Risk -->
+
   <rect x="100" y="80" width="150" height="100" fill="url(#riskGradient)" stroke="#f44336" stroke-width="2" rx="8"/>
   <text x="175" y="105" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#c62828">
     KREDITTRISIKO
@@ -48,7 +48,7 @@
     forpliktelser
   </text>
   
-  <!-- Liquidity Risk -->
+
   <rect x="550" y="80" width="150" height="100" fill="url(#riskGradient)" stroke="#f44336" stroke-width="2" rx="8"/>
   <text x="625" y="105" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#c62828">
     LIKVIDITETSRISIKO
@@ -63,7 +63,7 @@
     forpliktelser
   </text>
   
-  <!-- Interest Rate Risk -->
+
   <rect x="100" y="420" width="150" height="100" fill="url(#riskGradient)" stroke="#f44336" stroke-width="2" rx="8"/>
   <text x="175" y="445" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#c62828">
     RENTERISIKO
@@ -78,7 +78,7 @@
     påvirker kostnader
   </text>
   
-  <!-- Currency Risk -->
+
   <rect x="550" y="420" width="150" height="100" fill="url(#riskGradient)" stroke="#f44336" stroke-width="2" rx="8"/>
   <text x="625" y="445" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#c62828">
     VALUTARISIKO
@@ -93,7 +93,7 @@
     valutasvingninger
   </text>
   
-  <!-- Refinancing Risk -->
+
   <rect x="325" y="50" width="150" height="100" fill="url(#riskGradient)" stroke="#f44336" stroke-width="2" rx="8"/>
   <text x="400" y="75" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#c62828">
     REFINANSIERINGSRISIKO
@@ -108,7 +108,7 @@
     ugunstige vilkår
   </text>
   
-  <!-- Mitigation strategies -->
+
   <rect x="50" y="250" width="200" height="100" fill="url(#mitigationGradient)" stroke="#4caf50" stroke-width="2" rx="8"/>
   <text x="150" y="275" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#2e7d32">
     DIVERSIFISERING
@@ -137,7 +137,7 @@
     • Naturlig sikring
   </text>
   
-  <!-- Bottom mitigation strategies -->
+
   <rect x="200" y="540" width="180" height="50" fill="url(#mitigationGradient)" stroke="#4caf50" stroke-width="2" rx="8"/>
   <text x="290" y="560" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#2e7d32">
     LIKVIDITETSRESERVER
@@ -154,20 +154,20 @@
     Kontinuerlig oppfølging av nøkkeltall
   </text>
   
-  <!-- Arrows from risks to center -->
+
   <path d="M 250 130 Q 320 200 360 260" stroke="#f44336" stroke-width="2" fill="none" marker-end="url(#arrowRed)"/>
   <path d="M 550 130 Q 480 200 440 260" stroke="#f44336" stroke-width="2" fill="none" marker-end="url(#arrowRed)"/>
   <path d="M 400 150 L 400 220" stroke="#f44336" stroke-width="2" fill="none" marker-end="url(#arrowRed)"/>
   <path d="M 250 470 Q 320 400 360 340" stroke="#f44336" stroke-width="2" fill="none" marker-end="url(#arrowRed)"/>
   <path d="M 550 470 Q 480 400 440 340" stroke="#f44336" stroke-width="2" fill="none" marker-end="url(#arrowRed)"/>
   
-  <!-- Arrows from mitigation to center -->
+
   <path d="M 250 300 L 320 300" stroke="#4caf50" stroke-width="3" fill="none" marker-end="url(#arrowGreen)"/>
   <path d="M 550 300 L 480 300" stroke="#4caf50" stroke-width="3" fill="none" marker-end="url(#arrowGreen)"/>
   <path d="M 290 540 Q 350 450 380 380" stroke="#4caf50" stroke-width="2" fill="none" marker-end="url(#arrowGreen)"/>
   <path d="M 510 540 Q 450 450 420 380" stroke="#4caf50" stroke-width="2" fill="none" marker-end="url(#arrowGreen)"/>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="arrowRed" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
       <polygon points="0 0, 8 3, 0 6" fill="#f44336"/>

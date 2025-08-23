@@ -13,16 +13,16 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#ffffff"/>
   
-  <!-- Title -->
+
   <rect x="50" y="20" width="700" height="60" fill="url(#headerGradient)" rx="10" filter="url(#shadow)"/>
   <text x="400" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
     AMU Struktur og Organisering
   </text>
   
-  <!-- Central AMU circle -->
+
   <circle cx="400" cy="200" r="80" fill="url(#boxGradient)" stroke="#2E5090" stroke-width="3" filter="url(#shadow)"/>
   <text x="400" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2E5090">
     AMU
@@ -31,9 +31,9 @@
     Arbeidsmiljøutvalg
   </text>
   
-  <!-- Stakeholder boxes -->
+
   
-  <!-- Arbeidsgiver -->
+
   <rect x="150" y="120" width="120" height="60" fill="url(#boxGradient)" stroke="#4A90E2" stroke-width="2" rx="5" filter="url(#shadow)"/>
   <text x="210" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2E5090">
     Arbeidsgiver
@@ -45,7 +45,7 @@
     1 representant
   </text>
   
-  <!-- Arbeidstakere -->
+
   <rect x="530" y="120" width="120" height="60" fill="url(#boxGradient)" stroke="#4A90E2" stroke-width="2" rx="5" filter="url(#shadow)"/>
   <text x="590" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2E5090">
     Arbeidstakere
@@ -57,7 +57,7 @@
     (Valgt)
   </text>
   
-  <!-- Verneombud -->
+
   <rect x="300" y="320" width="120" height="60" fill="url(#boxGradient)" stroke="#4A90E2" stroke-width="2" rx="5" filter="url(#shadow)"/>
   <text x="360" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2E5090">
     Hovedverneombud
@@ -69,7 +69,7 @@
     (Valgt)
   </text>
   
-  <!-- Bedriftslege -->
+
   <rect x="480" y="320" width="120" height="60" fill="url(#boxGradient)" stroke="#4A90E2" stroke-width="2" rx="5" filter="url(#shadow)"/>
   <text x="540" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2E5090">
     Bedriftslege
@@ -81,7 +81,7 @@
     (Oppnevnt)
   </text>
   
-  <!-- Bedriftshelsetjeneste -->
+
   <rect x="120" y="320" width="120" height="60" fill="url(#boxGradient)" stroke="#4A90E2" stroke-width="2" rx="5" filter="url(#shadow)"/>
   <text x="180" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2E5090">
     Bedriftshelsetjeneste
@@ -93,27 +93,27 @@
     (Ekstern)
   </text>
   
-  <!-- Connection lines -->
+
   <line x1="270" y1="150" x2="330" y2="180" stroke="#2E5090" stroke-width="2" marker-end="url(#arrowhead)"/>
   <line x1="530" y1="150" x2="470" y2="180" stroke="#2E5090" stroke-width="2" marker-end="url(#arrowhead)"/>
   <line x1="360" y1="320" x2="380" y2="280" stroke="#2E5090" stroke-width="2" marker-end="url(#arrowhead)"/>
   <line x1="540" y1="320" x2="420" y2="280" stroke="#2E5090" stroke-width="2" marker-end="url(#arrowhead)"/>
   <line x1="240" y1="350" x2="330" y2="220" stroke="#2E5090" stroke-width="2" stroke-dasharray="5,5"/>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#2E5090"/>
     </marker>
   </defs>
   
-  <!-- Key functions box -->
+
   <rect x="50" y="430" width="700" height="140" fill="url(#boxGradient)" stroke="#4A90E2" stroke-width="2" rx="10" filter="url(#shadow)"/>
   <text x="400" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2E5090">
     Hovedfunksjoner
   </text>
   
-  <!-- Function columns -->
+
   <text x="100" y="480" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2E5090">
     Forebyggende arbeid:
   </text>
@@ -171,7 +171,7 @@
     • Ansattes medvirkning
   </text>
   
-  <!-- Legal basis -->
+
   <text x="680" y="480" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2E5090">
     Lovgrunnlag:
   </text>

@@ -6,15 +6,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2e7d32">
     EU-taksonomiens Seks Miljømål
   </text>
   
-  <!-- Goal 1: Climate Mitigation -->
+
   <g transform="translate(130, 80)">
     <circle cx="0" cy="0" r="50" fill="#1b5e20" stroke="#4caf50" stroke-width="3"/>
     <text x="0" y="-15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
@@ -26,7 +26,7 @@
     <text x="0" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
       Utslipp
     </text>
-    <!-- Sun icon -->
+
     <circle cx="0" cy="-35" r="8" fill="#ffeb3b"/>
     <g stroke="#ffeb3b" stroke-width="2">
       <line x1="0" y1="-50" x2="0" y2="-45"/>
@@ -38,7 +38,7 @@
     </g>
   </g>
   
-  <!-- Goal 2: Climate Adaptation -->
+
   <g transform="translate(400, 80)">
     <circle cx="0" cy="0" r="50" fill="#2e7d32" stroke="#66bb6a" stroke-width="3"/>
     <text x="0" y="-15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
@@ -47,11 +47,11 @@
     <text x="0" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
       Tilpasning
     </text>
-    <!-- Shield icon -->
+
     <path d="M -15,-35 Q 0,-45 15,-35 L 15,-20 Q 0,-15 -15,-20 Z" fill="#81c784"/>
   </g>
   
-  <!-- Goal 3: Water Resources -->
+
   <g transform="translate(670, 80)">
     <circle cx="0" cy="0" r="50" fill="#388e3c" stroke="#81c784" stroke-width="3"/>
     <text x="0" y="-10" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
@@ -63,11 +63,11 @@
     <text x="0" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
       Vannressurser
     </text>
-    <!-- Water drop -->
+
     <path d="M 0,-40 Q -10,-25 0,-15 Q 10,-25 0,-40 Z" fill="#2196f3"/>
   </g>
   
-  <!-- Goal 4: Circular Economy -->
+
   <g transform="translate(130, 250)">
     <circle cx="0" cy="0" r="50" fill="#4caf50" stroke="#a5d6a7" stroke-width="3"/>
     <text x="0" y="-10" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
@@ -79,7 +79,7 @@
     <text x="0" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
       Økonomi
     </text>
-    <!-- Circular arrows -->
+
     <g fill="none" stroke="#c8e6c9" stroke-width="3">
       <path d="M -20,-35 A 20,20 0 0,1 20,-35"/>
       <path d="M 20,-35 A 20,20 0 0,1 20,5"/>
@@ -89,7 +89,7 @@
     <polygon points="-25,-30 -15,-35 -15,-25" fill="#c8e6c9"/>
   </g>
   
-  <!-- Goal 5: Pollution Prevention -->
+
   <g transform="translate(400, 250)">
     <circle cx="0" cy="0" r="50" fill="#66bb6a" stroke="#c8e6c9" stroke-width="3"/>
     <text x="0" y="-10" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
@@ -101,7 +101,7 @@
     <text x="0" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
       Forurensning
     </text>
-    <!-- Factory with clean air -->
+
     <rect x="-15" y="-25" width="30" height="20" fill="#dcedc8"/>
     <rect x="-5" y="-35" width="4" height="10" fill="#dcedc8"/>
     <rect x="5" y="-40" width="4" height="15" fill="#dcedc8"/>
@@ -109,7 +109,7 @@
     <circle cx="7" cy="-45" r="3" fill="#e8f5e8"/>
   </g>
   
-  <!-- Goal 6: Biodiversity -->
+
   <g transform="translate(670, 250)">
     <circle cx="0" cy="0" r="50" fill="#81c784" stroke="#dcedc8" stroke-width="3"/>
     <text x="0" y="-10" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
@@ -121,14 +121,14 @@
     <text x="0" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
       Biodiversitet
     </text>
-    <!-- Tree and bird -->
+
     <path d="M 0,-15 L -8,-25 L -12,-20 L -8,-30 L 0,-35 L 8,-30 L 12,-20 L 8,-25 Z" fill="#4caf50"/>
     <rect x="-2" y="-15" width="4" height="10" fill="#8d6e63"/>
     <circle cx="15" cy="-30" r="3" fill="#ff9800"/>
     <path d="M 12,-32 L 10,-28 L 14,-28 Z" fill="#ff9800"/>
   </g>
   
-  <!-- Connecting lines -->
+
   <g stroke="#81c784" stroke-width="2" fill="none" opacity="0.5">
     <line x1="180" y1="80" x2="350" y2="80"/>
     <line x1="450" y1="80" x2="620" y2="80"/>
@@ -139,7 +139,7 @@
     <line x1="450" y1="250" x2="620" y2="250"/>
   </g>
   
-  <!-- Bottom explanation -->
+
   <rect x="50" y="350" width="700" height="120" fill="white" stroke="#81c784" stroke-width="2" rx="10"/>
   <text x="400" y="375" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2e7d32">
     Alle økonomiske aktiviteter må bidra til minst ett miljømål

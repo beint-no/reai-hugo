@@ -1,13 +1,13 @@
 <svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Fremtidens Formuesverdivurdering med Teknologi
   </text>
   
-  <!-- Traditional vs Digital -->
+
   <text x="200" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#7f8c8d">
     TRADISJONELL METODE
   </text>
@@ -15,10 +15,10 @@
     DIGITAL METODE
   </text>
   
-  <!-- Traditional side -->
+
   <rect x="50" y="90" width="300" height="180" fill="#f8f9fa" stroke="#7f8c8d" stroke-width="2" rx="8"/>
   
-  <!-- Manual process icons -->
+
   <rect x="70" y="110" width="40" height="30" fill="#ecf0f1" stroke="#95a5a6" stroke-width="1" rx="3"/>
   <text x="90" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Papir</text>
   
@@ -39,10 +39,10 @@
     Langsom og feilutsatt
   </text>
   
-  <!-- Digital side -->
+
   <rect x="450" y="90" width="300" height="180" fill="#ebf3fd" stroke="#3498db" stroke-width="2" rx="8"/>
   
-  <!-- Digital icons -->
+
   <rect x="470" y="110" width="30" height="20" fill="#3498db" rx="2"/>
   <rect x="475" y="115" width="20" height="10" fill="#ffffff" rx="1"/>
   
@@ -67,32 +67,32 @@
     Rask og nøyaktig
   </text>
   
-  <!-- Arrow showing transformation -->
+
   <path d="M 350 180 L 450 180" stroke="#3498db" stroke-width="4" marker-end="url(#arrow)"/>
   <text x="400" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#3498db">
     DIGITALISERING
   </text>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrow" markerWidth="12" markerHeight="8" refX="11" refY="4" orient="auto">
       <polygon points="0 0, 12 4, 0 8" fill="#3498db"/>
     </marker>
   </defs>
   
-  <!-- Technology categories -->
+
   <rect x="50" y="300" width="700" height="170" fill="#ffffff" stroke="#dee2e6" stroke-width="1" rx="8"/>
   <text x="400" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">
     Teknologiske Innovasjoner
   </text>
   
-  <!-- Tech 1: Blockchain -->
+
   <rect x="70" y="340" width="150" height="110" fill="#f8f9fa" stroke="#6c757d" stroke-width="1" rx="5"/>
   <text x="145" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#6c757d">
     BLOCKCHAIN
   </text>
   
-  <!-- Blockchain icon -->
+
   <rect x="135" y="370" width="8" height="8" fill="#6c757d"/>
   <rect x="145" y="370" width="8" height="8" fill="#6c757d"/>
   <rect x="155" y="370" width="8" height="8" fill="#6c757d"/>
@@ -103,13 +103,13 @@
   <text x="80" y="425" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Kryptovaluta-verdier</text>
   <text x="80" y="440" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Smart contracts</text>
   
-  <!-- Tech 2: AI/ML -->
+
   <rect x="240" y="340" width="150" height="110" fill="#e8f5e8" stroke="#28a745" stroke-width="1" rx="5"/>
   <text x="315" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#28a745">
     AI / MACHINE LEARNING
   </text>
   
-  <!-- AI icon -->
+
   <circle cx="315" cy="380" r="8" fill="#28a745"/>
   <circle cx="310" cy="377" r="1" fill="white"/>
   <circle cx="320" cy="377" r="1" fill="white"/>
@@ -120,13 +120,13 @@
   <text x="250" y="425" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Prediktive modeller</text>
   <text x="250" y="440" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Risikoevaluering</text>
   
-  <!-- Tech 3: IoT -->
+
   <rect x="410" y="340" width="150" height="110" fill="#fff3cd" stroke="#ffc107" stroke-width="1" rx="5"/>
   <text x="485" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#856404">
     INTERNET OF THINGS
   </text>
   
-  <!-- IoT icon -->
+
   <circle cx="485" cy="380" r="3" fill="#ffc107"/>
   <circle cx="475" cy="375" r="2" fill="#ffc107"/>
   <circle cx="495" cy="375" r="2" fill="#ffc107"/>
@@ -139,13 +139,13 @@
   <text x="420" y="425" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Automatisk rapportering</text>
   <text x="420" y="440" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Vedlikeholdsprediksjon</text>
   
-  <!-- Tech 4: Big Data -->
+
   <rect x="580" y="340" width="150" height="110" fill="#d1ecf1" stroke="#17a2b8" stroke-width="1" rx="5"/>
   <text x="655" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#0c5460">
     BIG DATA ANALYTICS
   </text>
   
-  <!-- Big Data icon -->
+
   <rect x="645" y="370" width="20" height="15" fill="none" stroke="#17a2b8" stroke-width="1" rx="2"/>
   <rect x="648" y="373" width="3" height="9" fill="#17a2b8"/>
   <rect x="652" y="375" width="3" height="7" fill="#17a2b8"/>
@@ -157,7 +157,7 @@
   <text x="590" y="425" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Komparativ analyse</text>
   <text x="590" y="440" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Scenariomodellering</text>
   
-  <!-- Bottom note -->
+
   <text x="400" y="485" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#7f8c8d">
     Teknologi gjør formuesverdivurdering mer nøyaktig, rask og tilgjengelig
   </text>

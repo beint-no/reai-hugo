@@ -1,13 +1,13 @@
 <svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Identifiserbarhetskriterier for Imaterielle Eiendeler
   </text>
   
-  <!-- Central circle -->
+
   <circle cx="400" cy="250" r="80" fill="#ffffff" stroke="#3498db" stroke-width="4"/>
   <text x="400" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#3498db">
     IMMATERIELL
@@ -16,7 +16,7 @@
     EIENDEL
   </text>
   
-  <!-- Criterion 1: Separerbarhet -->
+
   <rect x="50" y="80" width="200" height="120" fill="#e8f5e8" stroke="#27ae60" stroke-width="3" rx="10"/>
   <text x="150" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#27ae60">
     Separerbarhet
@@ -28,7 +28,7 @@
     og selges separat
   </text>
   
-  <!-- Icon for separerbarhet -->
+
   <circle cx="150" cy="170" r="12" fill="#27ae60"/>
   <text x="150" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">S</text>
   
@@ -39,7 +39,7 @@
     lisensieres til andre
   </text>
   
-  <!-- Criterion 2: Kontraktuelle rettigheter -->
+
   <rect x="300" y="80" width="200" height="120" fill="#e8f4fd" stroke="#3498db" stroke-width="3" rx="10"/>
   <text x="400" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#3498db">
     Kontraktuelle
@@ -51,7 +51,7 @@
     Oppstår fra juridiske avtaler
   </text>
   
-  <!-- Icon for kontraktuelle rettigheter -->
+
   <rect x="390" y="158" width="20" height="20" fill="#3498db" rx="2"/>
   <text x="400" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="white">K</text>
   
@@ -62,7 +62,7 @@
     med 10 års varighet
   </text>
   
-  <!-- Criterion 3: Kontrollerbarhet -->
+
   <rect x="550" y="80" width="200" height="120" fill="#fef9e7" stroke="#f39c12" stroke-width="3" rx="10"/>
   <text x="650" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#f39c12">
     Kontrollerbarhet
@@ -74,7 +74,7 @@
     andres tilgang
   </text>
   
-  <!-- Icon for kontrollerbarhet -->
+
   <rect x="640" y="158" width="20" height="20" fill="#f39c12" rx="2"/>
   <text x="650" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="white">C</text>
   
@@ -85,7 +85,7 @@
     programvare med beskyttelse
   </text>
   
-  <!-- Criterion 4: Fremtidige fordeler -->
+
   <rect x="300" y="320" width="200" height="120" fill="#fdedec" stroke="#e74c3c" stroke-width="3" rx="10"/>
   <text x="400" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#e74c3c">
     Fremtidige
@@ -97,7 +97,7 @@
     Forventes å generere inntekter
   </text>
   
-  <!-- Icon for fremtidige fordeler -->
+
   <circle cx="400" cy="410" r="12" fill="#e74c3c"/>
   <text x="400" y="415" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">F</text>
   
@@ -108,20 +108,20 @@
     gir gjentagende salg
   </text>
   
-  <!-- Arrows from criteria to center -->
+
   <line x1="250" y1="140" x2="330" y2="200" stroke="#95a5a6" stroke-width="2" marker-end="url(#arrowhead)"/>
   <line x1="400" y1="200" x2="400" y2="170" stroke="#95a5a6" stroke-width="2" marker-end="url(#arrowhead)"/>
   <line x1="550" y1="140" x2="470" y2="200" stroke="#95a5a6" stroke-width="2" marker-end="url(#arrowhead)"/>
   <line x1="400" y1="320" x2="400" y2="330" stroke="#95a5a6" stroke-width="2" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#95a5a6"/>
     </marker>
   </defs>
   
-  <!-- Additional requirements box -->
+
   <rect x="50" y="320" width="200" height="120" fill="#f4f3ff" stroke="#8e44ad" stroke-width="3" rx="10"/>
   <text x="150" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#8e44ad">
     Tilleggskrav
@@ -142,7 +142,7 @@
     • Juridisk grunnlag
   </text>
   
-  <!-- Decision flow box -->
+
   <rect x="550" y="320" width="200" height="120" fill="#eaf2f8" stroke="#2980b9" stroke-width="3" rx="10"/>
   <text x="650" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2980b9">
     Beslutningsprosess
@@ -163,7 +163,7 @@
     5. Planlegg amortisering
   </text>
   
-  <!-- Bottom note -->
+
   <text x="400" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">
     Alle kriterier må være oppfylt for at en ressurs skal regnskapsføres som immateriell eiendel
   </text>

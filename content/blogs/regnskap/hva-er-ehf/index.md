@@ -42,7 +42,7 @@ EHF-dokumenter følger en streng **XML-skjemavalidering** som sikrer datakvalite
   <cbc:ID>2024-001</cbc:ID>
   <cbc:IssueDate>2024-01-15</cbc:IssueDate>
   <cbc:InvoiceTypeCode>380</cbc:InvoiceTypeCode>
-  <!-- Strukturert innhold følger UBL-standarden -->
+  
 </Invoice>
 ```
 

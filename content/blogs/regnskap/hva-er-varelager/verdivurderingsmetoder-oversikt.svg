@@ -6,19 +6,19 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="600" height="400" fill="#ffffff"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="600" height="50" fill="url(#titleGrad)"/>
   <text x="300" y="30" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="20" font-weight="bold">Verdivurderingsmetoder for Varelager</text>
   
-  <!-- FIFO Method -->
+
   <rect x="20" y="70" width="180" height="280" fill="#dbeafe" stroke="#3b82f6" stroke-width="2" rx="8"/>
   <text x="110" y="95" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="16" font-weight="bold">FIFO</text>
   <text x="110" y="110" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="11">(First In, First Out)</text>
   
-  <!-- FIFO illustration -->
+
   <rect x="35" y="130" width="20" height="15" fill="#ef4444" stroke="#dc2626"/>
   <text x="45" y="142" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="8">1</text>
   <rect x="60" y="130" width="20" height="15" fill="#f97316" stroke="#ea580c"/>
@@ -45,12 +45,12 @@
   <text x="30" y="308" fill="#374151" font-family="Arial, sans-serif" font-size="9">• Administrativt kompleks</text>
   <text x="30" y="321" fill="#374151" font-family="Arial, sans-serif" font-size="9">• Kostpris avviker fra marked</text>
   
-  <!-- Weighted Average Method -->
+
   <rect x="210" y="70" width="180" height="280" fill="#dcfce7" stroke="#16a34a" stroke-width="2" rx="8"/>
   <text x="300" y="95" text-anchor="middle" fill="#15803d" font-family="Arial, sans-serif" font-size="16" font-weight="bold">VEKTET SNITT</text>
   <text x="300" y="110" text-anchor="middle" fill="#15803d" font-family="Arial, sans-serif" font-size="11">(Weighted Average)</text>
   
-  <!-- Weighted average illustration -->
+
   <circle cx="250" r="25" cy="140" fill="#22c55e" stroke="#16a34a" stroke-width="2"/>
   <text x="250" y="145" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">MIX</text>
   <circle cx="300" r="25" cy="140" fill="#22c55e" stroke="#16a34a" stroke-width="2"/>
@@ -69,12 +69,12 @@
   <text x="220" y="295" fill="#374151" font-family="Arial, sans-serif" font-size="9">• Skjuler prisvariasjoner</text>
   <text x="220" y="308" fill="#374151" font-family="Arial, sans-serif" font-size="9">• Ikke aktuell markedspris</text>
   
-  <!-- LIFO Method -->
+
   <rect x="400" y="70" width="180" height="280" fill="#fef3c7" stroke="#d97706" stroke-width="2" rx="8"/>
   <text x="490" y="95" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="16" font-weight="bold">LIFO</text>
   <text x="490" y="110" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="11">(Last In, First Out)</text>
   
-  <!-- LIFO illustration -->
+
   <rect x="415" y="130" width="20" height="15" fill="#ef4444" stroke="#dc2626"/>
   <text x="425" y="142" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="8">1</text>
   <rect x="440" y="130" width="20" height="15" fill="#f97316" stroke="#ea580c"/>
@@ -101,7 +101,7 @@
   
   <text x="410" y="320" fill="#92400e" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Kan brukes kun regnskapsmessig</text>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="arrowRed" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
       <polygon points="0 0, 8 3, 0 6" fill="#ef4444"/>

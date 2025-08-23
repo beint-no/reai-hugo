@@ -1,16 +1,16 @@
 <svg width="600" height="500" viewBox="0 0 600 500" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="600" height="500" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="300" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c3e50">
     Vanlige Feil og Forebyggende Tiltak ved Avrunding
   </text>
   
-  <!-- Main container -->
+
   <rect x="30" y="50" width="540" height="420" fill="white" stroke="#2c3e50" stroke-width="2" rx="10"/>
   
-  <!-- Error 1: Inkonsistent avrunding -->
+
   <rect x="50" y="70" width="240" height="100" fill="#e74c3c" opacity="0.1" stroke="#e74c3c" stroke-width="2" rx="5"/>
   <text x="170" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#e74c3c">
     FEIL 1: INKONSISTENT AVRUNDING
@@ -29,7 +29,7 @@
     ✓ Forebygging: Systeminnstillinger
   </text>
   
-  <!-- Error 2: Manglende kontroll -->
+
   <rect x="310" y="70" width="240" height="100" fill="#f39c12" opacity="0.1" stroke="#f39c12" stroke-width="2" rx="5"/>
   <text x="430" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#f39c12">
     FEIL 2: MANGLENDE KONTROLL
@@ -48,7 +48,7 @@
     ✓ Forebygging: Automatiske rapporter
   </text>
   
-  <!-- Error 3: Feil metode -->
+
   <rect x="50" y="190" width="240" height="100" fill="#9b59b6" opacity="0.1" stroke="#9b59b6" stroke-width="2" rx="5"/>
   <text x="170" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#9b59b6">
     FEIL 3: FEIL AVRUNDINGSMETODE
@@ -67,7 +67,7 @@
     ✓ Forebygging: Klare retningslinjer
   </text>
   
-  <!-- Error 4: Manglende dokumentasjon -->
+
   <rect x="310" y="190" width="240" height="100" fill="#34495e" opacity="0.1" stroke="#34495e" stroke-width="2" rx="5"/>
   <text x="430" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#34495e">
     FEIL 4: MANGLENDE DOKUMENTASJON
@@ -86,13 +86,13 @@
     ✓ Forebygging: Automatisk logging
   </text>
   
-  <!-- Prevention strategies -->
+
   <rect x="50" y="310" width="500" height="140" fill="#2ecc71" opacity="0.1" stroke="#2ecc71" stroke-width="2" rx="5"/>
   <text x="300" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2ecc71">
     FOREBYGGENDE TILTAK - BESTE PRAKSIS
   </text>
   
-  <!-- Column 1 -->
+
   <text x="70" y="355" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
     Organisatoriske tiltak:
   </text>
@@ -109,7 +109,7 @@
     • Implementer kvalitetskontroller
   </text>
   
-  <!-- Column 2 -->
+
   <text x="320" y="355" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
     Tekniske tiltak:
   </text>
@@ -126,7 +126,7 @@
     • Regelmessig testing av avrundingslogikk
   </text>
   
-  <!-- Bottom warning -->
+
   <rect x="100" y="460" width="400" height="25" fill="#e74c3c" rx="5"/>
   <text x="300" y="477" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     HUSK: Forebygging er alltid bedre enn å rette opp feil i ettertid!

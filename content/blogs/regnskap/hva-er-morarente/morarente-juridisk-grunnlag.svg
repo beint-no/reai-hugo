@@ -10,15 +10,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#1a237e">
     Juridisk Grunnlag for Morarente
   </text>
   
-  <!-- Law book illustration -->
+
   <rect x="50" y="80" width="200" height="150" fill="url(#lawGradient)" stroke="#1a237e" stroke-width="3" rx="10"/>
   <rect x="60" y="90" width="180" height="20" fill="white" rx="5"/>
   <text x="150" y="105" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#1a237e">
@@ -40,10 +40,10 @@
     §§ 1-9
   </text>
   
-  <!-- Arrow from law to principles -->
+
   <path d="M 250 155 L 290 155" stroke="#666" stroke-width="3" marker-end="url(#arrowhead)"/>
   
-  <!-- Principles boxes -->
+
   <rect x="300" y="80" width="180" height="60" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="8"/>
   <text x="390" y="100" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#1976d2">
     Automatisk Rettskrav
@@ -66,16 +66,16 @@
     avtale mellom partene
   </text>
   
-  <!-- Arrow to application -->
+
   <path d="M 480 155 L 520 155" stroke="#666" stroke-width="3" marker-end="url(#arrowhead)"/>
   
-  <!-- Application area -->
+
   <rect x="530" y="80" width="220" height="150" fill="white" stroke="#28a745" stroke-width="2" rx="10"/>
   <text x="640" y="105" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#28a745">
     Universell Anvendelse
   </text>
   
-  <!-- Application items -->
+
   <circle cx="560" cy="130" r="5" fill="#28a745"/>
   <text x="575" y="135" font-family="Arial, sans-serif" font-size="12" fill="#333">
     Alle pengefordringer
@@ -101,7 +101,7 @@
     Lønn &amp; honorarer
   </text>
   
-  <!-- Protection section -->
+
   <rect x="50" y="280" width="700" height="120" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="10"/>
   <text x="400" y="305" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#856404">
     Beskyttelse mot Avvik
@@ -129,7 +129,7 @@
     Fullstendig fraskrivelse av rente
   </text>
   
-  <!-- Bottom note -->
+
   <rect x="100" y="430" width="600" height="50" fill="#e9ecef" stroke="#6c757d" stroke-width="1" rx="5"/>
   <text x="400" y="450" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#495057">
     Lovens Formål
@@ -138,7 +138,7 @@
     Sikre kreditorer kompensasjon for økonomiske tap ved forsinket betaling
   </text>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#666"/>

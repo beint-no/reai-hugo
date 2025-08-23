@@ -14,33 +14,33 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
     Bokføring av Omvendt Avgiftsplikt
   </text>
   
-  <!-- Example scenario -->
+
   <rect x="50" y="60" width="700" height="40" fill="#e3f2fd" stroke="#2196f3" stroke-width="1" rx="5"/>
   <text x="400" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1976d2">
     Eksempel: Kjøp av IT-konsulenttjenester fra Danmark for 100 000 kr
   </text>
   
-  <!-- T-account structure -->
+
   <text x="400" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#495057">
     T-kontoer
   </text>
   
-  <!-- Debit side -->
+
   <rect x="50" y="150" width="320" height="280" fill="white" stroke="#dc3545" stroke-width="2" rx="10"/>
   <rect x="50" y="150" width="320" height="40" fill="url(#debitGradient)" rx="10"/>
   <text x="210" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     DEBET
   </text>
   
-  <!-- Debit entries -->
+
   <text x="70" y="210" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#495057">
     Kostnader (IT-tjenester)
   </text>
@@ -69,14 +69,14 @@
     Total Debet: 125 000 kr
   </text>
   
-  <!-- Credit side -->
+
   <rect x="430" y="150" width="320" height="280" fill="white" stroke="#28a745" stroke-width="2" rx="10"/>
   <rect x="430" y="150" width="320" height="40" fill="url(#creditGradient)" rx="10"/>
   <text x="590" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     KREDIT
   </text>
   
-  <!-- Credit entries -->
+
   <text x="450" y="210" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#495057">
     Utgående MVA
   </text>
@@ -105,7 +105,7 @@
     Total Kredit: 125 000 kr
   </text>
   
-  <!-- Journal entry format -->
+
   <rect x="100" y="450" width="600" height="40" fill="#fff3cd" stroke="#ffeaa7" stroke-width="1" rx="5"/>
   <text x="400" y="475" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#856404">
     Journalpost: Debet = Kredit (balansert bilag)

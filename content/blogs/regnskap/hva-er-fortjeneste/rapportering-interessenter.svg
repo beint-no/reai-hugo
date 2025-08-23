@@ -18,10 +18,10 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#333">
     Rapportering til Interessenter
   </text>
@@ -29,7 +29,7 @@
     Kommunikasjon av fortjeneste til ulike interessentgrupper
   </text>
   
-  <!-- Central Company -->
+
   <g transform="translate(350, 250)">
     <circle cx="50" cy="50" r="40" fill="url(#reportingGradient)" opacity="0.9"/>
     <text x="50" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">BEDRIFT</text>
@@ -37,9 +37,9 @@
     <text x="50" y="72" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">rapportering</text>
   </g>
   
-  <!-- Stakeholder Groups -->
+
   
-  <!-- Owners/Investors -->
+
   <g transform="translate(100, 120)">
     <rect x="0" y="0" width="200" height="120" rx="10" fill="url(#stakeholderGradient)" opacity="0.9"/>
     <text x="100" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -52,11 +52,11 @@
     <text x="15" y="85" font-family="Arial, sans-serif" font-size="10" fill="white">• Investormøter - Direkte kommunikasjon</text>
     <text x="15" y="100" font-family="Arial, sans-serif" font-size="10" fill="white">• Utbyttepolitikk - Kapitalallokering</text>
     
-    <!-- Arrow to center -->
+
     <line x1="200" y1="60" x2="340" y2="280" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
   </g>
   
-  <!-- Creditors -->
+
   <g transform="translate(500, 120)">
     <rect x="0" y="0" width="200" height="120" rx="10" fill="url(#legalGradient)" opacity="0.9"/>
     <text x="100" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -69,11 +69,11 @@
     <text x="15" y="85" font-family="Arial, sans-serif" font-size="10" fill="white">• Dekningsgrad for renter</text>
     <text x="15" y="100" font-family="Arial, sans-serif" font-size="10" fill="white">• Fremtidig kontantstrøm</text>
     
-    <!-- Arrow to center -->
+
     <line x1="0" y1="60" x2="360" y2="280" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
   </g>
   
-  <!-- Employees -->
+
   <g transform="translate(100, 380)">
     <rect x="0" y="0" width="200" height="120" rx="10" fill="url(#internalGradient)" opacity="0.9"/>
     <text x="100" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -86,11 +86,11 @@
     <text x="15" y="85" font-family="Arial, sans-serif" font-size="10" fill="white">• Fremtidige investeringer</text>
     <text x="15" y="100" font-family="Arial, sans-serif" font-size="10" fill="white">• Bedriftens konkurranseevne</text>
     
-    <!-- Arrow to center -->
+
     <line x1="200" y1="60" x2="360" y2="320" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
   </g>
   
-  <!-- Authorities -->
+
   <g transform="translate(500, 380)">
     <rect x="0" y="0" width="200" height="120" rx="10" fill="url(#reportingGradient)" opacity="0.9"/>
     <text x="100" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -103,11 +103,11 @@
     <text x="15" y="85" font-family="Arial, sans-serif" font-size="10" fill="white">• Offentliggjøring til Brønnøysund</text>
     <text x="15" y="100" font-family="Arial, sans-serif" font-size="10" fill="white">• Revisjonsplikt oppfyllelse</text>
     
-    <!-- Arrow to center -->
+
     <line x1="0" y1="60" x2="340" y2="320" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
   </g>
   
-  <!-- Legal Requirements Box -->
+
   <g transform="translate(50, 520)">
     <rect x="0" y="0" width="320" height="70" rx="10" fill="url(#legalGradient)" opacity="0.9"/>
     <text x="160" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -120,7 +120,7 @@
     <text x="170" y="55" font-family="Arial, sans-serif" font-size="10" fill="white">• Offentliggjøring - Brønnøysundregistrene</text>
   </g>
   
-  <!-- Internal Reporting Box -->
+
   <g transform="translate(430, 520)">
     <rect x="0" y="0" width="320" height="70" rx="10" fill="url(#internalGradient)" opacity="0.9"/>
     <text x="160" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -133,7 +133,7 @@
     <text x="170" y="55" font-family="Arial, sans-serif" font-size="10" fill="white">• Segmentrapportering - Per område</text>
   </g>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" 
      refX="0" refY="3.5" orient="auto">
@@ -141,7 +141,7 @@
     </marker>
   </defs>
   
-  <!-- Key Communication Principles -->
+
   <g transform="translate(250, 90)">
     <rect x="0" y="0" width="300" height="50" rx="10" fill="#E8F5E8" stroke="#4CAF50" stroke-width="2"/>
     <text x="150" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2E7D32">

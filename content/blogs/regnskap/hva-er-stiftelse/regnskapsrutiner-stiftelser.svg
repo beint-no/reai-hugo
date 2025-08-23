@@ -10,15 +10,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#F8FAFC"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1E293B">
     Regnskapsrutiner for Stiftelser
   </text>
   
-  <!-- Central hub -->
+
   <circle cx="400" cy="150" r="60" fill="url(#blueGradient)"/>
   <text x="400" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF">
     STIFTELSE
@@ -30,7 +30,7 @@
     System
   </text>
   
-  <!-- Daily routines (Top) -->
+
   <rect x="150" y="50" width="160" height="60" fill="url(#greenGradient)" rx="8"/>
   <text x="230" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF">
     Daglige Rutiner
@@ -53,7 +53,7 @@
     avstemminger
   </text>
   
-  <!-- Monthly and quarterly (Sides) -->
+
   <rect x="50" y="220" width="120" height="80" fill="#F59E0B" rx="8"/>
   <text x="110" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF">
     Månedlige
@@ -82,7 +82,7 @@
     til styre
   </text>
   
-  <!-- Annual routines (Bottom) -->
+
   <rect x="320" y="250" width="160" height="60" fill="#EF4444" rx="8"/>
   <text x="400" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF">
     Årlige Rutiner
@@ -94,16 +94,16 @@
     årsrapport
   </text>
   
-  <!-- Connection lines -->
+
   <line x1="280" y1="110" x2="360" y2="130" stroke="#64748B" stroke-width="2" marker-end="url(#arrowhead)"/>
   <line x1="520" y1="110" x2="440" y2="130" stroke="#64748B" stroke-width="2" marker-end="url(#arrowhead)"/>
   <line x1="170" y1="240" x2="340" y2="180" stroke="#64748B" stroke-width="2" marker-end="url(#arrowhead)"/>
   <line x1="630" y1="240" x2="460" y2="180" stroke="#64748B" stroke-width="2" marker-end="url(#arrowhead)"/>
   <line x1="400" y1="210" x2="400" y2="250" stroke="#64748B" stroke-width="2" marker-end="url(#arrowhead)"/>
   
-  <!-- Detailed breakdown -->
+
   
-  <!-- Daily activities -->
+
   <rect x="50" y="330" width="180" height="100" fill="#FFFFFF" stroke="#10B981" stroke-width="2" rx="6"/>
   <text x="140" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#047857">
     Daglige Aktiviteter
@@ -113,7 +113,7 @@
   <text x="60" y="400" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Løpende kostnader</text>
   <text x="60" y="415" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Banktransaksjoner</text>
   
-  <!-- Monthly activities -->
+
   <rect x="250" y="330" width="180" height="100" fill="#FFFFFF" stroke="#F59E0B" stroke-width="2" rx="6"/>
   <text x="340" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#D97706">
     Månedlige Aktiviteter
@@ -123,7 +123,7 @@
   <text x="260" y="400" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Budsjettoppfølging</text>
   <text x="260" y="415" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Investeringsrapport</text>
   
-  <!-- Quarterly activities -->
+
   <rect x="450" y="330" width="180" height="100" fill="#FFFFFF" stroke="#8B5CF6" stroke-width="2" rx="6"/>
   <text x="540" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#5B21B6">
     Kvartalsvise Aktiviteter
@@ -133,13 +133,13 @@
   <text x="460" y="400" font-family="Arial, sans-serif" font-size="10" fill="#374151">• KPI-analyse</text>
   <text x="460" y="415" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Prognoseoppdatering</text>
   
-  <!-- Annual activities -->
+
   <rect x="150" y="450" width="500" height="120" fill="#FFFFFF" stroke="#EF4444" stroke-width="2" rx="6"/>
   <text x="400" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#DC2626">
     Årlige Regnskapsaktiviteter
   </text>
   
-  <!-- Two columns for annual activities -->
+
   <rect x="170" y="485" width="220" height="75" fill="#FEE2E2" stroke="#EF4444" stroke-width="1" rx="4"/>
   <text x="280" y="505" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#991B1B">
     Årsavslutning
@@ -156,13 +156,13 @@
   <text x="420" y="533" font-family="Arial, sans-serif" font-size="10" fill="#991B1B">• Styrets årsberetning</text>
   <text x="420" y="546" font-family="Arial, sans-serif" font-size="10" fill="#991B1B">• Skattemelding og oppgaver</text>
   
-  <!-- Key controls -->
+
   <rect x="100" y="580" width="600" height="15" fill="#EFF6FF" stroke="#3B82F6" stroke-width="1" rx="3"/>
   <text x="400" y="592" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1E40AF">
     Nøkkelkontroller: Dokumentasjon • Formålsbruk • Interessekonflikter • Compliance
   </text>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#64748B"/>

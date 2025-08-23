@@ -14,17 +14,17 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="400" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#212529">
     Betalingsevne og Likviditet
   </text>
   
-  <!-- Cash flow illustration -->
+
   <g transform="translate(50, 80)">
-    <!-- Cash in box -->
+
     <rect x="0" y="0" width="120" height="80" rx="8" fill="url(#greenGradient)" stroke="#37b24d" stroke-width="2"/>
     <text x="60" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
       Kontanter
@@ -37,7 +37,7 @@
     </text>
   </g>
   
-  <!-- Receivables box -->
+
   <g transform="translate(200, 80)">
     <rect x="0" y="0" width="120" height="80" rx="8" fill="url(#blueGradient)" stroke="#1c7ed6" stroke-width="2"/>
     <text x="60" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -51,7 +51,7 @@
     </text>
   </g>
   
-  <!-- Inventory box -->
+
   <g transform="translate(350, 80)">
     <rect x="0" y="0" width="120" height="80" rx="8" fill="#fd7e14" stroke="#e8590c" stroke-width="2"/>
     <text x="60" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -62,17 +62,17 @@
     </text>
   </g>
   
-  <!-- Arrow pointing down -->
+
   <path d="M 400 180 L 400 220" stroke="#495057" stroke-width="3" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#495057"/>
     </marker>
   </defs>
   
-  <!-- Liquidity calculation -->
+
   <g transform="translate(200, 240)">
     <rect x="0" y="0" width="400" height="100" rx="8" fill="white" stroke="#dee2e6" stroke-width="2"/>
     <text x="200" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#212529">
@@ -89,7 +89,7 @@
     </text>
   </g>
   
-  <!-- Debt box -->
+
   <g transform="translate(530, 80)">
     <rect x="0" y="0" width="120" height="80" rx="8" fill="#e03131" stroke="#c92a2a" stroke-width="2"/>
     <text x="60" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -103,7 +103,7 @@
     </text>
   </g>
   
-  <!-- Status indicator -->
+
   <g transform="translate(650, 240)">
     <circle cx="50" cy="50" r="40" fill="#51cf66" stroke="#37b24d" stroke-width="3"/>
     <text x="50" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">

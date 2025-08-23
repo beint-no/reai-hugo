@@ -14,15 +14,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
     Gevinster ved API-automatisering av Regnskap
   </text>
   
-  <!-- Central Hub -->
+
   <circle cx="400" cy="300" r="80" fill="url(#benefitGradient)" stroke="#1e7e34" stroke-width="3"/>
   <text x="400" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     API
@@ -34,7 +34,7 @@
     SERING
   </text>
   
-  <!-- Time Savings -->
+
   <rect x="100" y="80" width="180" height="100" rx="10" fill="url(#metricGradient)" stroke="#0056b3" stroke-width="2"/>
   <text x="190" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     TIDSBESPARELSE
@@ -49,7 +49,7 @@
     dataregistrering
   </text>
   
-  <!-- Error Reduction -->
+
   <rect x="520" y="80" width="180" height="100" rx="10" fill="url(#metricGradient)" stroke="#0056b3" stroke-width="2"/>
   <text x="610" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     FEILREDUKSJON
@@ -64,7 +64,7 @@
     feil i regnskapet
   </text>
   
-  <!-- Cost Reduction -->
+
   <rect x="100" y="420" width="180" height="100" rx="10" fill="url(#metricGradient)" stroke="#0056b3" stroke-width="2"/>
   <text x="190" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     KOSTNADSREDUKSJON
@@ -79,7 +79,7 @@
     driftskostnader
   </text>
   
-  <!-- Real-time Data -->
+
   <rect x="520" y="420" width="180" height="100" rx="10" fill="url(#metricGradient)" stroke="#0056b3" stroke-width="2"/>
   <text x="610" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     SANNTIDSDATA
@@ -94,7 +94,7 @@
     regnskapsinformasjon
   </text>
   
-  <!-- Operational Benefits -->
+
   <rect x="50" y="220" width="140" height="160" rx="8" fill="url(#benefitGradient)" stroke="#1e7e34" stroke-width="2"/>
   <text x="120" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     OPERASJONELLE
@@ -122,7 +122,7 @@
     • Bedre datakvalitet
   </text>
   
-  <!-- Strategic Benefits -->
+
   <rect x="610" y="220" width="140" height="160" rx="8" fill="url(#benefitGradient)" stroke="#1e7e34" stroke-width="2"/>
   <text x="680" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     STRATEGISKE
@@ -150,7 +150,7 @@
     • Fremtidssikring
   </text>
   
-  <!-- Financial Benefits -->
+
   <rect x="320" y="200" width="160" height="80" rx="8" fill="#ffc107" stroke="#e0a800" stroke-width="2"/>
   <text x="400" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#212529">
     FINANSIELLE GEVINSTER
@@ -165,7 +165,7 @@
     • Reduserte lønnskostnader
   </text>
   
-  <!-- Quality Benefits -->
+
   <rect x="320" y="320" width="160" height="80" rx="8" fill="#dc3545" stroke="#c82333" stroke-width="2"/>
   <text x="400" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     KVALITETSFORDELER
@@ -180,14 +180,14 @@
     • Konsistent behandling
   </text>
   
-  <!-- Connection lines -->
+
   <defs>
     <marker id="benefitArrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
       <polygon points="0 0, 8 3, 0 6" fill="#28a745"/>
     </marker>
   </defs>
   
-  <!-- Lines from benefits to center -->
+
   <line x1="280" y1="130" x2="340" y2="250" stroke="#28a745" stroke-width="2" opacity="0.7"/>
   <line x1="520" y1="130" x2="460" y2="250" stroke="#28a745" stroke-width="2" opacity="0.7"/>
   <line x1="280" y1="470" x2="340" y2="350" stroke="#28a745" stroke-width="2" opacity="0.7"/>
@@ -195,7 +195,7 @@
   <line x1="190" y1="300" x2="320" y2="300" stroke="#28a745" stroke-width="2" opacity="0.7"/>
   <line x1="610" y1="300" x2="480" y2="300" stroke="#28a745" stroke-width="2" opacity="0.7"/>
   
-  <!-- Bottom summary -->
+
   <text x="400" y="560" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#212529">
     Samlet effekt: Transformasjon fra manuell til intelligent regnskapsføring
   </text>

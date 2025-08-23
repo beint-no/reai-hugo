@@ -1,33 +1,33 @@
 <svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     AI-basert Fakturagjenkjenning
   </text>
   
-  <!-- Invoice document with highlighted areas -->
+
   <rect x="50" y="80" width="300" height="400" fill="white" stroke="#34495e" stroke-width="3" rx="10"/>
   
-  <!-- Invoice header -->
+
   <rect x="70" y="100" width="260" height="40" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
   <text x="200" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">FAKTURA</text>
   
-  <!-- Highlighted areas with different colors -->
-  <!-- Supplier info -->
+
+
   <rect x="70" y="150" width="120" height="60" fill="#e8f5e8" stroke="#27ae60" stroke-width="2" stroke-dasharray="5,5"/>
   <text x="130" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#27ae60">Leverandør AS</text>
   <text x="130" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#27ae60">Org.nr: 123456789</text>
   <text x="130" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#27ae60">Adresse 123</text>
   
-  <!-- Invoice number and date -->
+
   <rect x="210" y="150" width="120" height="60" fill="#e8f4fd" stroke="#3498db" stroke-width="2" stroke-dasharray="5,5"/>
   <text x="270" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#3498db">Faktura: 2024-001</text>
   <text x="270" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#3498db">Dato: 15.01.2024</text>
   <text x="270" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#3498db">Forfall: 14.02.2024</text>
   
-  <!-- Line items -->
+
   <rect x="70" y="230" width="260" height="120" fill="#fef9e7" stroke="#f39c12" stroke-width="2" stroke-dasharray="5,5"/>
   <text x="200" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#f39c12">Produktbeskrivelse</text>
   <line x1="80" y1="260" x2="320" y2="260" stroke="#f39c12" stroke-width="1"/>
@@ -42,19 +42,19 @@
   <line x1="80" y1="310" x2="320" y2="310" stroke="#f39c12" stroke-width="1"/>
   <text x="200" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#f39c12">Netto: 1500 kr</text>
   
-  <!-- Total amount -->
+
   <rect x="70" y="370" width="260" height="80" fill="#fdedec" stroke="#e74c3c" stroke-width="2" stroke-dasharray="5,5"/>
   <text x="200" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#e74c3c">MVA 25%: 375 kr</text>
   <text x="200" y="410" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e74c3c">TOTALT: 1875 kr</text>
   <text x="200" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#e74c3c">Konto: 1234.56.78901</text>
   
-  <!-- AI Brain -->
+
   <circle cx="500" cy="300" r="80" fill="#9b59b6" stroke="#8e44ad" stroke-width="3"/>
   <text x="500" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">AI</text>
   <text x="500" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">HJERNE</text>
   <text x="500" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Maskinlæring</text>
   
-  <!-- Neural network connections -->
+
   <circle cx="450" cy="250" r="8" fill="#e8daef"/>
   <circle cx="550" cy="250" r="8" fill="#e8daef"/>
   <circle cx="450" cy="350" r="8" fill="#e8daef"/>
@@ -65,17 +65,17 @@
   <line x1="450" y1="350" x2="500" y2="300" stroke="#e8daef" stroke-width="2"/>
   <line x1="550" y1="350" x2="500" y2="300" stroke="#e8daef" stroke-width="2"/>
   
-  <!-- Arrows from invoice to AI -->
+
   <path d="M 370 180 Q 420 180 450 220" stroke="#27ae60" stroke-width="3" fill="none" marker-end="url(#greenArrow)"/>
   <path d="M 370 180 Q 420 180 520 220" stroke="#3498db" stroke-width="3" fill="none" marker-end="url(#blueArrow)"/>
   <path d="M 370 290 Q 420 290 450 320" stroke="#f39c12" stroke-width="3" fill="none" marker-end="url(#orangeArrow)"/>
   <path d="M 370 410 Q 420 410 520 360" stroke="#e74c3c" stroke-width="3" fill="none" marker-end="url(#redArrow)"/>
   
-  <!-- Output data structure -->
+
   <rect x="620" y="120" width="160" height="360" fill="white" stroke="#34495e" stroke-width="2" rx="10"/>
   <text x="700" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">STRUKTURERTE DATA</text>
   
-  <!-- JSON-like structure -->
+
   <text x="630" y="170" font-family="Courier, monospace" font-size="10" fill="#27ae60">{</text>
   <text x="640" y="185" font-family="Courier, monospace" font-size="9" fill="#27ae60">"leverandor": {</text>
   <text x="650" y="200" font-family="Courier, monospace" font-size="8" fill="#27ae60">"navn": "Leverandør AS",</text>
@@ -102,10 +102,10 @@
   <text x="640" y="475" font-family="Courier, monospace" font-size="9" fill="#9b59b6">}</text>
   <text x="630" y="490" font-family="Courier, monospace" font-size="10" fill="#2c3e50">}</text>
   
-  <!-- Arrow from AI to output -->
+
   <path d="M 580 300 L 610 300" stroke="#9b59b6" stroke-width="4" fill="none" marker-end="url(#purpleArrow)"/>
   
-  <!-- Learning indicators -->
+
   <text x="400" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
     Kontinuerlig Læring
   </text>
@@ -116,7 +116,7 @@
     Nøyaktighet: 97% (forbedres kontinuerlig)
   </text>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="greenArrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
       <polygon points="0 0, 8 3, 0 6" fill="#27ae60"/>

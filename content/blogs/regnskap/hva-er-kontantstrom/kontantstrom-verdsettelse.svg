@@ -22,22 +22,22 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#333">
     Kontantstrøm og Verdsettelse
   </text>
   
-  <!-- DCF Method Section -->
+
   <rect x="50" y="70" width="340" height="140" fill="url(#dcfGradient)" rx="15" opacity="0.1"/>
   <rect x="60" y="80" width="320" height="30" fill="url(#dcfGradient)" rx="5"/>
   <text x="220" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     1. DISKONTERT KONTANTSTRØM (DCF)
   </text>
   
-  <!-- DCF description -->
+
   <text x="70" y="125" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1565C0">
     Prinsipp:
   </text>
@@ -59,14 +59,14 @@
     Fundamental verdsettelse av hele bedriften
   </text>
   
-  <!-- Free Cash Flow to Equity Section -->
+
   <rect x="410" y="70" width="340" height="140" fill="url(#equityGradient)" rx="15" opacity="0.1"/>
   <rect x="420" y="80" width="320" height="30" fill="url(#equityGradient)" rx="5"/>
   <text x="580" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     2. FRI KONTANTSTRØM TIL EGENKAPITAL
   </text>
   
-  <!-- FCFE description -->
+
   <text x="430" y="125" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2E7D32">
     Beregning:
   </text>
@@ -88,14 +88,14 @@
     Verdsettelse av egenkapitalandel
   </text>
   
-  <!-- Free Cash Flow to Firm Section -->
+
   <rect x="50" y="230" width="340" height="140" fill="url(#firmGradient)" rx="15" opacity="0.1"/>
   <rect x="60" y="240" width="320" height="30" fill="url(#firmGradient)" rx="5"/>
   <text x="220" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     3. FRI KONTANTSTRØM TIL BEDRIFTEN
   </text>
   
-  <!-- FCFF description -->
+
   <text x="70" y="285" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#E65100">
     Beregning:
   </text>
@@ -117,14 +117,14 @@
     Total bedriftsverdsettelse (enterprise value)
   </text>
   
-  <!-- Valuation Factors Section -->
+
   <rect x="410" y="230" width="340" height="140" fill="url(#factorsGradient)" rx="15" opacity="0.1"/>
   <rect x="420" y="240" width="320" height="30" fill="url(#factorsGradient)" rx="5"/>
   <text x="580" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     FAKTORER SOM PÅVIRKER VERDSETTELSE
   </text>
   
-  <!-- Valuation factors -->
+
   <circle cx="440" cy="290" r="8" fill="#9C27B0"/>
   <text x="460" y="295" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#6A1B9A">
     Stabilitet
@@ -141,13 +141,13 @@
     Forventet vekst i kontantstrøm øker verdien
   </text>
   
-  <!-- DCF Formula Breakdown -->
+
   <rect x="50" y="390" width="700" height="120" fill="url(#formulaGradient)" rx="15"/>
   <text x="400" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
     DCF VERDSETTELSESMODELL
   </text>
   
-  <!-- Formula components -->
+
   <rect x="80" y="440" width="150" height="50" fill="rgba(255,255,255,0.2)" rx="8"/>
   <text x="155" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     Kontantstrøm (CF)
@@ -180,7 +180,7 @@
     Verdi etter prognoseperiode
   </text>
   
-  <!-- Key considerations -->
+
   <rect x="50" y="530" width="700" height="60" fill="#e3f2fd" stroke="#2196F3" stroke-width="2" rx="10"/>
   <text x="400" y="550" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1565C0">
     Viktige Hensyn ved Kontantstrømbasert Verdsettelse
@@ -192,7 +192,7 @@
     • <tspan font-weight="bold">Timing:</tspan> Tidligere kontantstrømmer er mer verdifulle enn senere kontantstrømmer
   </text>
   
-  <!-- Additional factors boxes -->
+
   <circle cx="600" cy="290" r="8" fill="#9C27B0"/>
   <text x="620" y="295" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#6A1B9A">
     Risiko
@@ -209,13 +209,13 @@
     Tidligere kontantstrømmer er mer verdifulle
   </text>
   
-  <!-- Connection arrows -->
+
   <path d="M 220 220 L 400 390" stroke="#2196F3" stroke-width="2" fill="none" marker-end="url(#arrowBlue)"/>
   <path d="M 580 220 L 400 390" stroke="#4CAF50" stroke-width="2" fill="none" marker-end="url(#arrowGreen)"/>
   <path d="M 220 380 L 400 390" stroke="#FF9800" stroke-width="2" fill="none" marker-end="url(#arrowOrange)"/>
   <path d="M 580 380 L 400 390" stroke="#9C27B0" stroke-width="2" fill="none" marker-end="url(#arrowPurple)"/>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="arrowBlue" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#2196F3"/>

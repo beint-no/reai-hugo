@@ -1,13 +1,13 @@
 <svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Krav til Bokføringssystem og Dokumentasjon
   </text>
   
-  <!-- Central system box -->
+
   <rect x="300" y="80" width="200" height="120" fill="#3498db" opacity="0.1" stroke="#3498db" stroke-width="3" rx="10"/>
   <text x="400" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#3498db">
     Bokføringssystem
@@ -22,7 +22,7 @@
     5 Hovedkrav
   </text>
   
-  <!-- Requirement 1: Kronologisk registrering -->
+
   <rect x="50" y="250" width="140" height="100" fill="#27ae60" opacity="0.1" stroke="#27ae60" stroke-width="2" rx="8"/>
   <text x="120" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#27ae60">
     Kronologisk
@@ -40,7 +40,7 @@
     § 4
   </text>
   
-  <!-- Requirement 2: Systematisk registrering -->
+
   <rect x="210" y="250" width="140" height="100" fill="#9b59b6" opacity="0.1" stroke="#9b59b6" stroke-width="2" rx="8"/>
   <text x="280" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#9b59b6">
     Systematisk
@@ -58,7 +58,7 @@
     § 4
   </text>
   
-  <!-- Requirement 3: Sporbarhet -->
+
   <rect x="370" y="250" width="140" height="100" fill="#f39c12" opacity="0.1" stroke="#f39c12" stroke-width="2" rx="8"/>
   <text x="440" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#f39c12">
     Sporbarhet
@@ -73,7 +73,7 @@
     § 5
   </text>
   
-  <!-- Requirement 4: Sikkerhet -->
+
   <rect x="530" y="250" width="140" height="100" fill="#e74c3c" opacity="0.1" stroke="#e74c3c" stroke-width="2" rx="8"/>
   <text x="600" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#e74c3c">
     Sikkerhet
@@ -88,7 +88,7 @@
     § 6
   </text>
   
-  <!-- Requirement 5: Tilgjengelighet -->
+
   <rect x="290" y="380" width="140" height="100" fill="#1abc9c" opacity="0.1" stroke="#1abc9c" stroke-width="2" rx="8"/>
   <text x="360" y="415" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1abc9c">
     Tilgjengelighet
@@ -103,14 +103,14 @@
     § 7
   </text>
   
-  <!-- Connecting lines from central box to requirements -->
+
   <line x1="320" y1="200" x2="120" y2="250" stroke="#27ae60" stroke-width="2" opacity="0.6"/>
   <line x1="360" y1="200" x2="280" y2="250" stroke="#9b59b6" stroke-width="2" opacity="0.6"/>
   <line x1="400" y1="200" x2="440" y2="250" stroke="#f39c12" stroke-width="2" opacity="0.6"/>
   <line x1="440" y1="200" x2="600" y2="250" stroke="#e74c3c" stroke-width="2" opacity="0.6"/>
   <line x1="400" y1="200" x2="360" y2="380" stroke="#1abc9c" stroke-width="2" opacity="0.6"/>
   
-  <!-- Bottom information box -->
+
   <rect x="50" y="520" width="700" height="60" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2" rx="8"/>
   
   <text x="400" y="545" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">

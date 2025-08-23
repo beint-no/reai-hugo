@@ -10,15 +10,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="700" height="300" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="350" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Lovgrunnlag for Oppbevaring
   </text>
   
-  <!-- Bokføringsloven -->
+
   <g transform="translate(50, 70)">
     <rect x="0" y="0" width="250" height="120" fill="url(#lawGradient)" stroke="#2980b9" stroke-width="2" rx="10"/>
     <text x="125" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
@@ -28,13 +28,13 @@
       § 13 - Oppbevaringsplikt
     </text>
     
-    <!-- Requirements list -->
+
     <text x="20" y="70" font-family="Arial, sans-serif" font-size="12" fill="white">• Regnskapsmateriale: 5 år</text>
     <text x="20" y="85" font-family="Arial, sans-serif" font-size="12" fill="white">• Bilag og dokumentasjon</text>
     <text x="20" y="100" font-family="Arial, sans-serif" font-size="12" fill="white">• Hovedbok og hjelpebøker</text>
   </g>
   
-  <!-- Bokføringsforskriften -->
+
   <g transform="translate(400, 70)">
     <rect x="0" y="0" width="250" height="120" fill="url(#regulationGradient)" stroke="#c0392b" stroke-width="2" rx="10"/>
     <text x="125" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
@@ -44,23 +44,23 @@
       Detaljerte krav
     </text>
     
-    <!-- Requirements list -->
+
     <text x="20" y="70" font-family="Arial, sans-serif" font-size="12" fill="white">• Oppbevaringsform</text>
     <text x="20" y="85" font-family="Arial, sans-serif" font-size="12" fill="white">• Digital arkivering</text>
     <text x="20" y="100" font-family="Arial, sans-serif" font-size="12" fill="white">• Sikkerhetskrav</text>
   </g>
   
-  <!-- Arrow connecting the two -->
+
   <path d="M 310 130 L 390 130" fill="none" stroke="#34495e" stroke-width="3" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>
     </marker>
   </defs>
   
-  <!-- Additional laws -->
+
   <g transform="translate(150, 220)">
     <text x="200" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
       Andre relevante lover

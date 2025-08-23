@@ -16,17 +16,17 @@
     </style>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#ffffff"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" class="title">Best Practices for Anskaffelseskost</text>
   <text x="400" y="55" text-anchor="middle" class="subtitle">Dokumentasjon og Kvalitetssikring</text>
   
-  <!-- Documentation Section -->
+
   <rect x="50" y="80" width="700" height="140" class="box-docs"/>
   
-  <!-- Check icon -->
+
   <g transform="translate(70, 100)">
     <circle cx="15" cy="15" r="12" class="icon-check"/>
     <path d="M10,15 L13,18 L20,11" stroke="white" stroke-width="2" fill="none"/>
@@ -39,10 +39,10 @@
   <text x="90" y="175" class="good">✓ Leveringsbevis: Dokumentasjon på mottakstidspunkt</text>
   <text x="90" y="195" class="good">✓ Installasjonsrapporter: Bevis på at eiendelen er klar til bruk</text>
   
-  <!-- Common Errors Section -->
+
   <rect x="50" y="240" width="700" height="140" class="box-errors"/>
   
-  <!-- X icon -->
+
   <g transform="translate(70, 260)">
     <circle cx="15" cy="15" r="12" class="icon-x"/>
     <path d="M10,10 L20,20 M20,10 L10,20" stroke="white" stroke-width="2"/>
@@ -56,10 +56,10 @@
   <text x="90" y="335" class="bad">✗ Feil 2: Manglende fordeling ved sammensatte kjøp</text>
   <text x="110" y="355" class="text">Løsning: Bruk profesjonell verdsettelse for komplekse transaksjoner</text>
   
-  <!-- Quality Control Section -->
+
   <rect x="50" y="400" width="700" height="140" class="box-controls"/>
   
-  <!-- Warning icon -->
+
   <g transform="translate(70, 420)">
     <polygon points="15,5 25,20 5,20" class="icon-warning"/>
     <text x="15" y="17" text-anchor="middle" fill="white" font-size="10">!</text>
@@ -73,7 +73,7 @@
   <text x="90" y="500" class="warning">Årlige vurderinger:</text>
   <text x="90" y="520" class="text">• Nedskrivningstesting • Vurdering av brukstid • Markedsverdi-sammenligning</text>
   
-  <!-- Key Success Factors -->
+
   <rect x="50" y="560" width="700" height="30" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2"/>
   <text x="400" y="580" text-anchor="middle" class="text" font-weight="bold">
     Suksessfaktorer: Systematisk dokumentasjon + Regelmessig oppfølging + Profesjonell veiledning

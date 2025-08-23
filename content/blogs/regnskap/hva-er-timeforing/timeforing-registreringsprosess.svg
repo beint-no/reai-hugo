@@ -18,16 +18,16 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8fafc"/>
   
-  <!-- Title -->
+
   <rect x="0" y="0" width="800" height="50" fill="#1f2937"/>
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
     Timeføring - Registreringsprosess og Workflow
   </text>
   
-  <!-- Step 1: Initial Registration -->
+
   <rect x="50" y="80" width="160" height="120" rx="10" fill="url(#processGrad1)" stroke="#374151" stroke-width="2"/>
   <circle cx="130" cy="110" r="20" fill="white"/>
   <text x="130" y="118" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#3b82f6">1</text>
@@ -45,7 +45,7 @@
     • Aktivitetskoder
   </text>
   
-  <!-- Step 2: Validation -->
+
   <rect x="260" y="80" width="160" height="120" rx="10" fill="url(#processGrad2)" stroke="#374151" stroke-width="2"/>
   <circle cx="340" cy="110" r="20" fill="white"/>
   <text x="340" y="118" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#059669">2</text>
@@ -63,7 +63,7 @@
     • Obligatoriske felt
   </text>
   
-  <!-- Step 3: Approval -->
+
   <rect x="470" y="80" width="160" height="120" rx="10" fill="url(#processGrad3)" stroke="#374151" stroke-width="2"/>
   <circle cx="550" cy="110" r="20" fill="white"/>
   <text x="550" y="118" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#f59e0b">3</text>
@@ -81,14 +81,14 @@
     • Arbeidsflyt
   </text>
   
-  <!-- Detailed Registration Interface -->
+
   <rect x="50" y="240" width="300" height="200" rx="8" fill="white" stroke="#d1d5db" stroke-width="2"/>
   <rect x="50" y="240" width="300" height="35" rx="8" fill="#3b82f6"/>
   <text x="200" y="262" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     Timeregistrering - Detaljert Visning
   </text>
   
-  <!-- Time input fields -->
+
   <text x="70" y="295" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">Dato:</text>
   <rect x="120" y="285" width="100" height="20" rx="3" fill="#f3f4f6" stroke="#d1d5db"/>
   <text x="125" y="297" font-family="Arial, sans-serif" font-size="11" fill="#374151">13.07.2024</text>
@@ -111,20 +111,20 @@
   
   <text x="70" y="425" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">Beskrivelse:</text>
   
-  <!-- Save button -->
+
   <rect x="240" y="450" width="80" height="25" rx="12" fill="#10b981"/>
   <text x="280" y="467" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     Lagre
   </text>
   
-  <!-- Approval Workflow -->
+
   <rect x="380" y="240" width="360" height="200" rx="8" fill="white" stroke="#d1d5db" stroke-width="2"/>
   <rect x="380" y="240" width="360" height="35" rx="8" fill="#f59e0b"/>
   <text x="560" y="262" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     Godkjenningsworkflow
   </text>
   
-  <!-- Workflow steps -->
+
   <rect x="400" y="290" width="100" height="40" rx="5" fill="#e0e7ff" stroke="#6366f1"/>
   <text x="450" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#4338ca">
     Ansatt
@@ -158,11 +158,11 @@
     til lønn
   </text>
   
-  <!-- Workflow arrows -->
+
   <path d="M 500 310 L 520 310" stroke="#6b7280" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 620 310 L 640 310" stroke="#6b7280" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Status indicators -->
+
   <rect x="400" y="350" width="320" height="60" rx="5" fill="#f9fafb" stroke="#e5e7eb"/>
   <text x="560" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">
     Status og Notifikasjoner
@@ -177,11 +177,11 @@
   <circle cx="660" cy="385" r="5" fill="#ef4444"/>
   <text x="675" y="390" font-family="Arial, sans-serif" font-size="10" fill="#374151">Avvist</text>
   
-  <!-- Process flow arrows (main) -->
+
   <path d="M 210 140 L 260 140" stroke="#374151" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 420 140 L 470 140" stroke="#374151" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Integration and Final Processing -->
+
   <rect x="680" y="80" width="100" height="120" rx="10" fill="url(#processGrad4)" stroke="#374151" stroke-width="2"/>
   <circle cx="730" cy="110" r="20" fill="white"/>
   <text x="730" y="118" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#dc2626">4</text>
@@ -201,7 +201,7 @@
   
   <path d="M 630 140 L 680 140" stroke="#374151" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Data Quality Checks -->
+
   <rect x="50" y="480" width="700" height="80" rx="8" fill="#fef3c7" stroke="#f59e0b" stroke-width="2"/>
   <text x="400" y="505" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#92400e">
     Kvalitetssikring og Kontrollpunkter
@@ -237,7 +237,7 @@
     • Compliance med arbeidsmiljøloven
   </text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#374151"/>

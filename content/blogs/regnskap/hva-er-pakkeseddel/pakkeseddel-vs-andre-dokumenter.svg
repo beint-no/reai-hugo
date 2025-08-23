@@ -1,11 +1,11 @@
 <svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#212529">Pakkeseddel vs Andre Dokumenter</text>
   
-  <!-- Pakkeseddel -->
+
   <rect x="50" y="80" width="200" height="320" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="8"/>
   <text x="150" y="110" text-anchor="middle" font-size="16" font-weight="bold" fill="#1976d2">PAKKESEDDEL</text>
   
@@ -25,7 +25,7 @@
   <text x="60" y="325" font-size="11" fill="#495057">• Ikke betalingskrav</text>
   <text x="60" y="340" font-size="11" fill="#495057">• Fokus på fysisk levering</text>
   
-  <!-- Faktura -->
+
   <rect x="300" y="80" width="200" height="320" fill="#e8f5e8" stroke="#388e3c" stroke-width="2" rx="8"/>
   <text x="400" y="110" text-anchor="middle" font-size="16" font-weight="bold" fill="#388e3c">FAKTURA</text>
   
@@ -45,7 +45,7 @@
   <text x="310" y="325" font-size="11" fill="#495057">• Juridisk betalingskrav</text>
   <text x="310" y="340" font-size="11" fill="#495057">• Kan sendes separat</text>
   
-  <!-- Leveringsbekreftelse -->
+
   <rect x="550" y="80" width="200" height="320" fill="#fff3e0" stroke="#f57c00" stroke-width="2" rx="8"/>
   <text x="650" y="110" text-anchor="middle" font-size="16" font-weight="bold" fill="#f57c00">LEVERINGS-</text>
   <text x="650" y="125" text-anchor="middle" font-size="16" font-weight="bold" fill="#f57c00">BEKREFTELSE</text>
@@ -66,11 +66,11 @@
   <text x="560" y="340" font-size="11" fill="#495057">• Kan være digital</text>
   <text x="560" y="355" font-size="11" fill="#495057">• Avslutter leveringsprosess</text>
   
-  <!-- Arrows showing relationship -->
+
   <path d="M250 240 L300 240" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead1)"/>
   <path d="M500 240 L550 240" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead2)"/>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="arrowhead1" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
       <polygon points="0 0, 8 3, 0 6" fill="#6c757d"/>
@@ -80,11 +80,11 @@
     </marker>
   </defs>
   
-  <!-- Process flow labels -->
+
   <text x="275" y="235" text-anchor="middle" font-size="10" fill="#6c757d">Kan kobles</text>
   <text x="525" y="235" text-anchor="middle" font-size="10" fill="#6c757d">Fører til</text>
   
-  <!-- Timeline -->
+
   <text x="400" y="440" text-anchor="middle" font-size="14" font-weight="bold" fill="#495057">Typisk Rekkefølge i Prosessen:</text>
   <text x="150" y="465" text-anchor="middle" font-size="12" fill="#1976d2">1. Pakkeseddel</text>
   <text x="400" y="465" text-anchor="middle" font-size="12" fill="#388e3c">2. Faktura</text>

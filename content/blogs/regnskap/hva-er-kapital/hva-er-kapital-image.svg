@@ -1,15 +1,15 @@
 <svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="400" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#2c3e50">
     Hva er Kapital?
   </text>
   
-  <!-- Main capital concept -->
+
   <g transform="translate(50, 80)">
-    <!-- Total Capital box -->
+
     <rect x="0" y="0" width="300" height="280" fill="#34495e" stroke="#2c3e50" stroke-width="3" rx="15"/>
     <text x="150" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
       TOTAL KAPITAL
@@ -18,7 +18,7 @@
       Finansielle Ressurser
     </text>
     
-    <!-- Equity section -->
+
     <rect x="20" y="80" width="260" height="90" fill="#27ae60" stroke="#229954" stroke-width="2" rx="10"/>
     <text x="150" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
       EGENKAPITAL
@@ -26,7 +26,7 @@
     <text x="40" y="130" font-family="Arial, sans-serif" font-size="13" fill="white">• Aksjekapital</text>
     <text x="40" y="150" font-family="Arial, sans-serif" font-size="13" fill="white">• Opptjent egenkapital</text>
     
-    <!-- Debt section -->
+
     <rect x="20" y="180" width="260" height="90" fill="#e74c3c" stroke="#c0392b" stroke-width="2" rx="10"/>
     <text x="150" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
       FREMMEDKAPITAL
@@ -35,10 +35,10 @@
     <text x="40" y="250" font-family="Arial, sans-serif" font-size="13" fill="white">• Leverandørgjeld</text>
   </g>
   
-  <!-- Arrow pointing right -->
+
   <path d="M 380 220 L 430 220" stroke="#2c3e50" stroke-width="4" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Usage box -->
+
   <g transform="translate(450, 120)">
     <rect x="0" y="0" width="300" height="200" fill="#3498db" stroke="#2980b9" stroke-width="3" rx="15"/>
     <text x="150" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
@@ -54,14 +54,14 @@
     <text x="20" y="180" font-family="Arial, sans-serif" font-size="14" fill="white">• Beredskap og reserver</text>
   </g>
   
-  <!-- Key formula at bottom -->
+
   <g transform="translate(200, 370)">
     <text x="200" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
       Total Kapital = Egenkapital + Fremmedkapital
     </text>
   </g>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#2c3e50"/>

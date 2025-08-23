@@ -1,19 +1,19 @@
 <svg width="800" height="550" viewBox="0 0 800 550" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="550" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" fill="#2c3e50" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
     Håndtering av Nummerserier
   </text>
   
-  <!-- Normal sequence -->
+
   <g transform="translate(50, 70)">
     <text x="0" y="0" fill="#2c3e50" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
       Normal Nummerserie:
     </text>
     
-    <!-- Normal sequence boxes -->
+
     <rect x="0" y="20" width="60" height="40" fill="#27ae60" stroke="#2c3e50" stroke-width="2"/>
     <text x="30" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       1001
@@ -44,13 +44,13 @@
     </text>
   </g>
   
-  <!-- Broken sequence -->
+
   <g transform="translate(50, 150)">
     <text x="0" y="0" fill="#2c3e50" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
       Brutt Nummerserie:
     </text>
     
-    <!-- Broken sequence boxes -->
+
     <rect x="0" y="20" width="60" height="40" fill="#27ae60" stroke="#2c3e50" stroke-width="2"/>
     <text x="30" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       1001
@@ -61,7 +61,7 @@
       1002
     </text>
     
-    <!-- Missing number -->
+
     <rect x="160" y="20" width="60" height="40" fill="#e74c3c" stroke="#2c3e50" stroke-width="2" stroke-dasharray="5,5"/>
     <text x="190" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       1003
@@ -85,13 +85,13 @@
     </text>
   </g>
   
-  <!-- Documentation process -->
+
   <g transform="translate(50, 250)">
     <text x="0" y="0" fill="#2c3e50" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
       Dokumentasjonsprosess ved Avbrudd:
     </text>
     
-    <!-- Step 1 -->
+
     <rect x="0" y="30" width="140" height="60" fill="#3498db" rx="5"/>
     <text x="70" y="50" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       1. Identifiser
@@ -100,10 +100,10 @@
       Avbruddet
     </text>
     
-    <!-- Arrow 1 -->
+
     <path d="M 150 60 L 170 60" stroke="#2c3e50" stroke-width="2" marker-end="url(#arrowhead)"/>
     
-    <!-- Step 2 -->
+
     <rect x="180" y="30" width="140" height="60" fill="#e74c3c" rx="5"/>
     <text x="250" y="50" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       2. Dokumenter
@@ -112,10 +112,10 @@
       Årsaken
     </text>
     
-    <!-- Arrow 2 -->
+
     <path d="M 330 60 L 350 60" stroke="#2c3e50" stroke-width="2" marker-end="url(#arrowhead)"/>
     
-    <!-- Step 3 -->
+
     <rect x="360" y="30" width="140" height="60" fill="#27ae60" rx="5"/>
     <text x="430" y="50" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       3. Informer
@@ -124,10 +124,10 @@
       Revisor
     </text>
     
-    <!-- Arrow 3 -->
+
     <path d="M 510 60 L 530 60" stroke="#2c3e50" stroke-width="2" marker-end="url(#arrowhead)"/>
     
-    <!-- Step 4 -->
+
     <rect x="540" y="30" width="140" height="60" fill="#9b59b6" rx="5"/>
     <text x="610" y="50" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       4. Implementer
@@ -137,69 +137,69 @@
     </text>
   </g>
   
-  <!-- Common causes -->
+
   <g transform="translate(50, 350)">
     <text x="0" y="0" fill="#2c3e50" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
       Vanlige Årsaker til Avbrudd:
     </text>
     
-    <!-- Cause 1 -->
+
     <circle cx="10" cy="35" r="5" fill="#e74c3c"/>
     <text x="25" y="40" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14">
       <tspan font-weight="bold">Systemfeil:</tspan> Tekniske problemer eller strømbrudd
     </text>
     
-    <!-- Cause 2 -->
+
     <circle cx="10" cy="65" r="5" fill="#f39c12"/>
     <text x="25" y="70" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14">
       <tspan font-weight="bold">Kansellerte fakturaer:</tspan> Fakturaer trukket tilbake før sending
     </text>
     
-    <!-- Cause 3 -->
+
     <circle cx="10" cy="95" r="5" fill="#3498db"/>
     <text x="25" y="100" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14">
       <tspan font-weight="bold">Testfakturaer:</tspan> Fakturaer opprettet for testing
     </text>
     
-    <!-- Cause 4 -->
+
     <circle cx="10" cy="125" r="5" fill="#9b59b6"/>
     <text x="25" y="130" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14">
       <tspan font-weight="bold">Menneskelige feil:</tspan> Feil i manuell håndtering
     </text>
   </g>
   
-  <!-- Documentation requirements -->
+
   <g transform="translate(400, 350)">
     <text x="0" y="0" fill="#2c3e50" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
       Dokumentasjonskrav:
     </text>
     
-    <!-- Requirement 1 -->
+
     <circle cx="10" cy="35" r="5" fill="#27ae60"/>
     <text x="25" y="40" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14">
       <tspan font-weight="bold">Dato og tid:</tspan> Når avbruddet oppstod
     </text>
     
-    <!-- Requirement 2 -->
+
     <circle cx="10" cy="65" r="5" fill="#27ae60"/>
     <text x="25" y="70" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14">
       <tspan font-weight="bold">Årsak:</tspan> Detaljert beskrivelse av problemet
     </text>
     
-    <!-- Requirement 3 -->
+
     <circle cx="10" cy="95" r="5" fill="#27ae60"/>
     <text x="25" y="100" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14">
       <tspan font-weight="bold">Ansvarlig:</tspan> Hvem som oppdaget og håndterte
     </text>
     
-    <!-- Requirement 4 -->
+
     <circle cx="10" cy="125" r="5" fill="#27ae60"/>
     <text x="25" y="130" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14">
       <tspan font-weight="bold">Tiltak:</tspan> Korrigerende og forebyggende tiltak
     </text>
   </g>
   
-  <!-- Best practices box -->
+
   <g transform="translate(50, 480)">
     <rect x="0" y="0" width="700" height="60" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2" rx="10"/>
     <text x="20" y="25" fill="#2c3e50" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
@@ -210,7 +210,7 @@
     </text>
   </g>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#2c3e50"/>

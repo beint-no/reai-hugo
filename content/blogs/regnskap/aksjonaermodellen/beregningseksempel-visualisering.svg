@@ -1,22 +1,22 @@
 <svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Skjermingsfradrag - Visualisering av Beregning
   </text>
   
-  <!-- Main container -->
+
   <rect x="50" y="80" width="700" height="480" fill="#ffffff" stroke="#dee2e6" stroke-width="2" rx="10"/>
   
-  <!-- Investment visualization -->
+
   <rect x="80" y="120" width="280" height="160" fill="#e8f4f8" stroke="#3498db" stroke-width="2" rx="8"/>
   <text x="90" y="145" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
     Investering i Aksjer
   </text>
   
-  <!-- Stack of money representing investment -->
+
   <rect x="110" y="160" width="80" height="15" fill="#27ae60" stroke="#229954" stroke-width="1"/>
   <rect x="110" y="180" width="80" height="15" fill="#27ae60" stroke="#229954" stroke-width="1"/>
   <rect x="110" y="200" width="80" height="15" fill="#27ae60" stroke="#229954" stroke-width="1"/>
@@ -28,16 +28,16 @@
     Anskaffelseskost
   </text>
   
-  <!-- Arrow -->
+
   <polygon points="370,200 390,190 390,195 385,200 390,205 390,210" fill="#34495e"/>
   
-  <!-- Return breakdown -->
+
   <rect x="400" y="120" width="320" height="160" fill="#fff3e0" stroke="#f39c12" stroke-width="2" rx="8"/>
   <text x="410" y="145" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
     Avkastning (100 000 kr utbytte)
   </text>
   
-  <!-- Normal return (tax-free) -->
+
   <rect x="420" y="165" width="140" height="25" fill="#e8f8f5" stroke="#1abc9c" stroke-width="2"/>
   <text x="430" y="182" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1abc9c">
     Normalavkastning
@@ -49,7 +49,7 @@
     (3,5% skjermingsfradrag)
   </text>
   
-  <!-- Excess return (taxable) -->
+
   <rect x="420" y="210" width="140" height="25" fill="#fdeaea" stroke="#e74c3c" stroke-width="2"/>
   <text x="430" y="227" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e74c3c">
     Meravkastning
@@ -61,19 +61,19 @@
     (Skattepliktig del)
   </text>
   
-  <!-- Tax calculation -->
+
   <rect x="80" y="320" width="630" height="200" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="8"/>
   <text x="90" y="345" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">
     Skatteberegning
   </text>
   
-  <!-- Visual tax calculation -->
+
   <rect x="100" y="370" width="280" height="120" fill="#ffffff" stroke="#dee2e6" stroke-width="2" rx="8"/>
   <text x="110" y="395" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
     Skattepliktig beløp:
   </text>
   
-  <!-- Tax visualization bars -->
+
   <rect x="120" y="410" width="130" height="20" fill="#e74c3c" stroke="#c0392b" stroke-width="1"/>
   <text x="255" y="425" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
     65 000 kr
@@ -88,7 +88,7 @@
     20 592 kr
   </text>
   
-  <!-- Results summary -->
+
   <rect x="420" y="370" width="280" height="120" fill="#e8f8f5" stroke="#1abc9c" stroke-width="2" rx="8"/>
   <text x="430" y="395" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
     Resultat:
@@ -107,7 +107,7 @@
     ✓ Netto etter skatt: 79 408 kr
   </text>
   
-  <!-- Effective tax rate -->
+
   <rect x="250" y="530" width="300" height="25" fill="#e8f8f5" stroke="#1abc9c" stroke-width="2" rx="4"/>
   <text x="260" y="547" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1abc9c">
     Effektiv skattesats på total utbytte: 20,59%

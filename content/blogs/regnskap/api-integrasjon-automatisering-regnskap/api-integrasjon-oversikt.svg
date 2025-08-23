@@ -14,15 +14,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
     API Integrasjon Oversikt
   </text>
   
-  <!-- Central API Hub -->
+
   <circle cx="400" cy="250" r="60" fill="url(#apiGradient)" stroke="#0056b3" stroke-width="3"/>
   <text x="400" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     API
@@ -31,7 +31,7 @@
     HUB
   </text>
   
-  <!-- Bank System -->
+
   <rect x="100" y="80" width="120" height="80" rx="10" fill="url(#systemGradient)" stroke="#1e7e34" stroke-width="2"/>
   <text x="160" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     BANK
@@ -43,7 +43,7 @@
     Kontosaldo
   </text>
   
-  <!-- ERP System -->
+
   <rect x="580" y="80" width="120" height="80" rx="10" fill="url(#systemGradient)" stroke="#1e7e34" stroke-width="2"/>
   <text x="640" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     ERP
@@ -55,7 +55,7 @@
     prosesser
   </text>
   
-  <!-- Invoice System -->
+
   <rect x="100" y="380" width="120" height="80" rx="10" fill="url(#systemGradient)" stroke="#1e7e34" stroke-width="2"/>
   <text x="160" y="410" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     FAKTURA
@@ -67,7 +67,7 @@
     fakturering
   </text>
   
-  <!-- Payroll System -->
+
   <rect x="580" y="380" width="120" height="80" rx="10" fill="url(#systemGradient)" stroke="#1e7e34" stroke-width="2"/>
   <text x="640" y="410" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     LØNN
@@ -79,7 +79,7 @@
     Avgifter
   </text>
   
-  <!-- Accounting System -->
+
   <rect x="320" y="50" width="160" height="60" rx="10" fill="#ffc107" stroke="#e0a800" stroke-width="2"/>
   <text x="400" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#212529">
     REGNSKAPSSYSTEM
@@ -88,30 +88,30 @@
     Hovedbok &amp; Rapporter
   </text>
   
-  <!-- Connection Lines with arrows -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#007bff"/>
     </marker>
   </defs>
   
-  <!-- Bank to API -->
+
   <line x1="220" y1="140" x2="350" y2="210" stroke="#007bff" stroke-width="3" marker-end="url(#arrowhead)"/>
   <text x="285" y="170" font-family="Arial, sans-serif" font-size="10" fill="#007bff">REST API</text>
   
-  <!-- ERP to API -->
+
   <line x1="580" y1="140" x2="450" y2="210" stroke="#007bff" stroke-width="3" marker-end="url(#arrowhead)"/>
   <text x="515" y="170" font-family="Arial, sans-serif" font-size="10" fill="#007bff">REST API</text>
   
-  <!-- Invoice to API -->
+
   <line x1="220" y1="400" x2="350" y2="290" stroke="#007bff" stroke-width="3" marker-end="url(#arrowhead)"/>
   <text x="285" y="350" font-family="Arial, sans-serif" font-size="10" fill="#007bff">REST API</text>
   
-  <!-- Payroll to API -->
+
   <line x1="580" y1="400" x2="450" y2="290" stroke="#007bff" stroke-width="3" marker-end="url(#arrowhead)"/>
   <text x="515" y="350" font-family="Arial, sans-serif" font-size="10" fill="#007bff">REST API</text>
   
-  <!-- API to Accounting -->
+
   <line x1="400" y1="190" x2="400" y2="110" stroke="#ffc107" stroke-width="4" marker-end="url(#arrowheadYellow)"/>
   
   <defs>
@@ -120,7 +120,7 @@
     </marker>
   </defs>
   
-  <!-- Data flow indicators -->
+
   <text x="50" y="200" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
     Automatisk
   </text>

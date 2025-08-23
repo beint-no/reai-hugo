@@ -14,13 +14,13 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="900" height="700" fill="#f9fafb"/>
   
-  <!-- Title -->
+
   <text x="450" y="40" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="24" font-weight="bold">Vanlige Debetfeil og Hvordan Unngå Dem</text>
   
-  <!-- Error 1: Wrong account type -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="800" height="120" fill="url(#errorBg)" stroke="#dc2626" stroke-width="2" rx="8"/>
     <text x="20" y="25" fill="#dc2626" font-family="Arial, sans-serif" font-size="16" font-weight="bold">❌ Feil 1: Registrere debet på feil kontotype</text>
@@ -37,7 +37,7 @@
     </g>
   </g>
   
-  <!-- Error 2: Unbalanced entries -->
+
   <g transform="translate(50, 220)">
     <rect x="0" y="0" width="800" height="120" fill="url(#errorBg)" stroke="#dc2626" stroke-width="2" rx="8"/>
     <text x="20" y="25" fill="#dc2626" font-family="Arial, sans-serif" font-size="16" font-weight="bold">❌ Feil 2: Ubalanserte poster (debet ≠ kredit)</text>
@@ -54,7 +54,7 @@
     </g>
   </g>
   
-  <!-- Error 3: Missing counterpart -->
+
   <g transform="translate(50, 360)">
     <rect x="0" y="0" width="800" height="120" fill="url(#errorBg)" stroke="#dc2626" stroke-width="2" rx="8"/>
     <text x="20" y="25" fill="#dc2626" font-family="Arial, sans-serif" font-size="16" font-weight="bold">❌ Feil 3: Manglende motpost</text>
@@ -71,7 +71,7 @@
     </g>
   </g>
   
-  <!-- Error 4: Wrong period -->
+
   <g transform="translate(50, 500)">
     <rect x="0" y="0" width="800" height="120" fill="url(#warningBg)" stroke="#f59e0b" stroke-width="2" rx="8"/>
     <text x="20" y="25" fill="#d97706" font-family="Arial, sans-serif" font-size="16" font-weight="bold">⚠️ Feil 4: Feil periodisering</text>
@@ -88,7 +88,7 @@
     </g>
   </g>
   
-  <!-- Prevention tips -->
+
   <g transform="translate(50, 640)">
     <rect x="0" y="0" width="800" height="50" fill="url(#correctBg)" stroke="#16a34a" stroke-width="2" rx="8"/>
     <text x="20" y="20" fill="#15803d" font-family="Arial, sans-serif" font-size="14" font-weight="bold">✅ Forebyggende Tiltak:</text>

@@ -5,7 +5,7 @@
     Compliance-rammeverk
   </text>
   
-  <!-- Legal requirements -->
+
   <g transform="translate(50, 60)">
     <rect x="0" y="0" width="200" height="80" fill="#3498db" stroke="#2980b9" stroke-width="2" rx="8"/>
     <text x="100" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -16,7 +16,7 @@
     <text x="20" y="70" font-family="Arial, sans-serif" font-size="11" fill="white">• MVA-loven</text>
   </g>
   
-  <!-- Internal control -->
+
   <g transform="translate(300, 60)">
     <rect x="0" y="0" width="200" height="80" fill="#e74c3c" stroke="#c0392b" stroke-width="2" rx="8"/>
     <text x="100" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -27,7 +27,7 @@
     <text x="20" y="70" font-family="Arial, sans-serif" font-size="11" fill="white">• Dokumentasjon</text>
   </g>
   
-  <!-- Audit preparation -->
+
   <g transform="translate(50, 160)">
     <rect x="0" y="0" width="200" height="80" fill="#27ae60" stroke="#229954" stroke-width="2" rx="8"/>
     <text x="100" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -38,7 +38,7 @@
     <text x="20" y="70" font-family="Arial, sans-serif" font-size="11" fill="white">• Elektronisk tilgang</text>
   </g>
   
-  <!-- Authority control -->
+
   <g transform="translate(300, 160)">
     <rect x="0" y="0" width="200" height="80" fill="#f39c12" stroke="#e67e22" stroke-width="2" rx="8"/>
     <text x="100" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -49,18 +49,18 @@
     <text x="20" y="70" font-family="Arial, sans-serif" font-size="11" fill="white">• Komplett dokumentasjon</text>
   </g>
   
-  <!-- Arrows showing relationships -->
+
   <path d="M 250 100 L 300 100" fill="none" stroke="#34495e" stroke-width="2" marker-end="url(#arrow)"/>
   <path d="M 150 140 L 150 160" fill="none" stroke="#34495e" stroke-width="2" marker-end="url(#arrow)"/>
   <path d="M 400 140 L 400 160" fill="none" stroke="#34495e" stroke-width="2" marker-end="url(#arrow)"/>
   <path d="M 250 200 L 300 200" fill="none" stroke="#34495e" stroke-width="2" marker-end="url(#arrow)"/>
   
-  <!-- Central compliance circle -->
+
   <circle cx="300" cy="150" r="30" fill="#9b59b6" stroke="#8e44ad" stroke-width="3"/>
   <text x="300" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">COMPLIANCE</text>
   <text x="300" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Overholdelse</text>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
       <polygon points="0 0, 8 3, 0 6" fill="#34495e"/>

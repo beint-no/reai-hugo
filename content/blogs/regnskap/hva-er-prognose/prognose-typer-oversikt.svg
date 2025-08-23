@@ -18,13 +18,13 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f8fafc"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e293b">Typer Prognoser i Regnskap</text>
   
-  <!-- Budget box -->
+
   <rect x="50" y="80" width="150" height="120" fill="url(#blueGrad)" rx="8"/>
   <text x="125" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">Budsjett</text>
   <text x="125" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Planlagte</text>
@@ -33,7 +33,7 @@
   <text x="125" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">neste periode</text>
   <text x="125" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">(1 år)</text>
   
-  <!-- Rullerende prognoser box -->
+
   <rect x="250" y="80" width="150" height="120" fill="url(#greenGrad)" rx="8"/>
   <text x="325" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">Rullerende</text>
   <text x="325" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">Prognoser</text>
@@ -42,7 +42,7 @@
   <text x="325" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">fremtidsbilder</text>
   <text x="325" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">(12-18 mnd)</text>
   
-  <!-- Langsiktige prognoser box -->
+
   <rect x="450" y="80" width="150" height="120" fill="url(#purpleGrad)" rx="8"/>
   <text x="525" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">Langsiktige</text>
   <text x="525" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">Prognoser</text>
@@ -51,7 +51,7 @@
   <text x="525" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">for investering</text>
   <text x="525" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">(3-5 år)</text>
   
-  <!-- Scenario-analyser box -->
+
   <rect x="650" y="80" width="150" height="120" fill="url(#orangeGrad)" rx="8"/>
   <text x="725" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">Scenario-</text>
   <text x="725" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">analyser</text>
@@ -60,22 +60,22 @@
   <text x="725" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">forskjellige</text>
   <text x="725" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">forutsetninger</text>
   
-  <!-- Timeline -->
+
   <line x1="100" y1="250" x2="700" y2="250" stroke="#64748b" stroke-width="2"/>
   
-  <!-- Timeline markers -->
+
   <line x1="125" y1="240" x2="125" y2="260" stroke="#1e40af" stroke-width="3"/>
   <line x1="325" y1="240" x2="325" y2="260" stroke="#10b981" stroke-width="3"/>
   <line x1="525" y1="240" x2="525" y2="260" stroke="#a855f7" stroke-width="3"/>
   <line x1="650" y1="240" x2="650" y2="260" stroke="#f97316" stroke-width="3"/>
   
-  <!-- Timeline labels -->
+
   <text x="125" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#1e293b">1 år</text>
   <text x="325" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#1e293b">12-18 mnd</text>
   <text x="525" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#1e293b">3-5 år</text>
   <text x="650" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#1e293b">Variabel</text>
   
-  <!-- Arrow connectors -->
+
   <polygon points="125,210 130,220 120,220" fill="#1e40af"/>
   <line x1="125" y1="200" x2="125" y2="220" stroke="#1e40af" stroke-width="2"/>
   
@@ -88,10 +88,10 @@
   <polygon points="725,210 730,220 720,220" fill="#f97316"/>
   <line x1="725" y1="200" x2="725" y2="220" stroke="#f97316" stroke-width="2"/>
   
-  <!-- Characteristics section -->
+
   <text x="400" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1e293b">Hovedkarakteristikker</text>
   
-  <!-- Characteristics boxes -->
+
   <rect x="50" y="340" width="150" height="100" fill="white" stroke="#e2e8f0" stroke-width="1" rx="4"/>
   <text x="125" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e40af">Nøyaktighet</text>
   <text x="125" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#64748b">Høy presisjon</text>

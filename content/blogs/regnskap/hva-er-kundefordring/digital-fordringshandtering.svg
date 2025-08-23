@@ -10,16 +10,16 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#ffffff"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="70" fill="url(#headerGrad)"/>
   <text x="400" y="40" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="22" font-weight="bold">
     Digital Fordringshåndtering
   </text>
   
-  <!-- Central hub -->
+
   <circle cx="400" cy="200" r="70" fill="#10b981" stroke="#059669" stroke-width="3"/>
   <text x="400" y="190" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Digital
@@ -31,7 +31,7 @@
     håndtering
   </text>
   
-  <!-- ERP Systems -->
+
   <rect x="50" y="80" width="160" height="90" rx="10" fill="url(#digitalGrad)" stroke="#16a34a" stroke-width="2"/>
   <text x="130" y="105" text-anchor="middle" fill="#15803d" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     ERP-systemer
@@ -46,7 +46,7 @@
     ✓ Helhetlig oversikt
   </text>
   
-  <!-- Customer Ledger -->
+
   <rect x="590" y="80" width="160" height="90" rx="10" fill="url(#digitalGrad)" stroke="#16a34a" stroke-width="2"/>
   <text x="670" y="105" text-anchor="middle" fill="#15803d" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Kundereskontro
@@ -61,7 +61,7 @@
     ✓ Komplett historikk
   </text>
   
-  <!-- Electronic Invoicing -->
+
   <rect x="50" y="320" width="160" height="90" rx="10" fill="url(#digitalGrad)" stroke="#16a34a" stroke-width="2"/>
   <text x="130" y="345" text-anchor="middle" fill="#15803d" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     eFakturering
@@ -76,7 +76,7 @@
     ✓ Raskere levering
   </text>
   
-  <!-- Automated Reminders -->
+
   <rect x="320" y="320" width="160" height="90" rx="10" fill="url(#digitalGrad)" stroke="#16a34a" stroke-width="2"/>
   <text x="400" y="345" text-anchor="middle" fill="#15803d" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Automatisk Purring
@@ -91,7 +91,7 @@
     ✓ Redusert administrasjon
   </text>
   
-  <!-- Credit Monitoring -->
+
   <rect x="590" y="320" width="160" height="90" rx="10" fill="url(#digitalGrad)" stroke="#16a34a" stroke-width="2"/>
   <text x="670" y="345" text-anchor="middle" fill="#15803d" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Kredittovervåking
@@ -106,7 +106,7 @@
     ✓ Proaktiv risikostyring
   </text>
   
-  <!-- Customer Lists -->
+
   <rect x="320" y="80" width="160" height="90" rx="10" fill="url(#digitalGrad)" stroke="#16a34a" stroke-width="2"/>
   <text x="400" y="105" text-anchor="middle" fill="#15803d" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Kundelister
@@ -121,7 +121,7 @@
     ✓ Bedre kontroll
   </text>
   
-  <!-- Arrows connecting to center -->
+
   <line x1="210" y1="140" x2="340" y2="170" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
   <line x1="320" y1="140" x2="340" y2="170" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
   <line x1="590" y1="140" x2="460" y2="170" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
@@ -129,7 +129,7 @@
   <line x1="400" y1="320" x2="400" y2="270" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
   <line x1="590" y1="340" x2="460" y2="250" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
   
-  <!-- Benefits section -->
+
   <rect x="150" y="460" width="500" height="120" rx="10" fill="#eff6ff" stroke="#3b82f6" stroke-width="2"/>
   <text x="400" y="485" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
     Fordeler med Digitalisering
@@ -156,7 +156,7 @@
     • Automatiserte prosesser
   </text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#64748b"/>

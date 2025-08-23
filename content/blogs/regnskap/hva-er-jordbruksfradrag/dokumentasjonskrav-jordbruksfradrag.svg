@@ -22,18 +22,18 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)" />
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)" />
   <text x="400" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
     Dokumentasjonskrav for Jordbruksfradrag
   </text>
   
-  <!-- Main documentation categories -->
+
   <g transform="translate(50, 80)">
-    <!-- Category 1: Accounting documentation -->
+
     <rect x="0" y="0" width="220" height="180" fill="white" stroke="#2196f3" stroke-width="2" rx="10"/>
     <rect x="0" y="0" width="220" height="40" fill="url(#docGradient)" rx="10"/>
     <rect x="0" y="30" width="220" height="10" fill="url(#docGradient)"/>
@@ -63,7 +63,7 @@
       • Årsregnskap med noter
     </text>
     
-    <!-- Category 2: Production documentation -->
+
     <rect x="240" y="0" width="220" height="180" fill="white" stroke="#ff9800" stroke-width="2" rx="10"/>
     <rect x="240" y="0" width="220" height="40" fill="url(#prodGradient)" rx="10"/>
     <rect x="240" y="30" width="220" height="10" fill="url(#prodGradient)"/>
@@ -93,7 +93,7 @@
       • Kvalitetsdokumentasjon
     </text>
     
-    <!-- Category 3: Official reports -->
+
     <rect x="480" y="0" width="220" height="180" fill="white" stroke="#9c27b0" stroke-width="2" rx="10"/>
     <rect x="480" y="0" width="220" height="40" fill="url(#reportGradient)" rx="10"/>
     <rect x="480" y="30" width="220" height="10" fill="url(#reportGradient)"/>
@@ -124,7 +124,7 @@
     </text>
   </g>
   
-  <!-- Digital solutions section -->
+
   <g transform="translate(50, 280)">
     <rect x="0" y="0" width="700" height="120" fill="white" stroke="#4caf50" stroke-width="2" rx="10"/>
     <rect x="0" y="0" width="700" height="40" fill="#4caf50" rx="10"/>
@@ -164,7 +164,7 @@
     </text>
   </g>
   
-  <!-- Storage requirements -->
+
   <g transform="translate(50, 420)">
     <rect x="0" y="0" width="700" height="80" fill="#fff3e0" stroke="#ff9800" stroke-width="2" rx="10"/>
     <text x="350" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#e65100">
@@ -193,7 +193,7 @@
     </text>
   </g>
   
-  <!-- Control and audit section -->
+
   <g transform="translate(50, 520)">
     <rect x="0" y="0" width="700" height="70" fill="#ffebee" stroke="#f44336" stroke-width="2" rx="10"/>
     <text x="350" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#c62828">

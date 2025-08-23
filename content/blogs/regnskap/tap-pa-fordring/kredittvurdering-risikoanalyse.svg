@@ -14,26 +14,26 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#212529">
     Kredittvurdering og risikoanalyse for fordringer
   </text>
   
-  <!-- Risk assessment matrix -->
+
   <rect x="50" y="50" width="700" height="200" fill="white" stroke="#dee2e6" stroke-width="2" rx="10"/>
   
-  <!-- Matrix headers -->
+
   <text x="70" y="75" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#212529">RISIKOFAKTORER</text>
   <text x="300" y="75" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#28a745">LAV RISIKO</text>
   <text x="450" y="75" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#fd7e14">MEDIUM RISIKO</text>
   <text x="620" y="75" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#dc3545">HØY RISIKO</text>
   
-  <!-- Risk factor rows -->
+
   <g transform="translate(50, 90)">
-    <!-- Payment history -->
+
     <text x="20" y="20" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#212529">Betalingshistorikk</text>
     <rect x="230" y="5" width="130" height="20" fill="#d4edda" rx="3"/>
     <text x="295" y="17" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#155724">Alltid til tid</text>
@@ -42,7 +42,7 @@
     <rect x="530" y="5" width="130" height="20" fill="#f8d7da" rx="3"/>
     <text x="595" y="17" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#721c24">Hyppige forsinkelser</text>
     
-    <!-- Financial position -->
+
     <text x="20" y="45" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#212529">Finansiell stilling</text>
     <rect x="230" y="30" width="130" height="20" fill="#d4edda" rx="3"/>
     <text x="295" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#155724">Solid økonomi</text>
@@ -51,7 +51,7 @@
     <rect x="530" y="30" width="130" height="20" fill="#f8d7da" rx="3"/>
     <text x="595" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#721c24">Økonomiske problem</text>
     
-    <!-- Industry sector -->
+
     <text x="20" y="70" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#212529">Bransje</text>
     <rect x="230" y="55" width="130" height="20" fill="#d4edda" rx="3"/>
     <text x="295" y="67" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#155724">Stabil sektor</text>
@@ -60,7 +60,7 @@
     <rect x="530" y="55" width="130" height="20" fill="#f8d7da" rx="3"/>
     <text x="595" y="67" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#721c24">Høy konkurranse</text>
     
-    <!-- Company age -->
+
     <text x="20" y="95" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#212529">Bedriftens alder</text>
     <rect x="230" y="80" width="130" height="20" fill="#d4edda" rx="3"/>
     <text x="295" y="92" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#155724">&gt; 5 år</text>
@@ -69,7 +69,7 @@
     <rect x="530" y="80" width="130" height="20" fill="#f8d7da" rx="3"/>
     <text x="595" y="92" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#721c24">&lt; 2 år</text>
     
-    <!-- Credit amount -->
+
     <text x="20" y="120" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#212529">Kredittbeløp</text>
     <rect x="230" y="105" width="130" height="20" fill="#d4edda" rx="3"/>
     <text x="295" y="117" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#155724">&lt; 50 000</text>
@@ -78,7 +78,7 @@
     <rect x="530" y="105" width="130" height="20" fill="#f8d7da" rx="3"/>
     <text x="595" y="117" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#721c24">&gt; 200 000</text>
     
-    <!-- Market conditions -->
+
     <text x="20" y="145" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#212529">Markedsforhold</text>
     <rect x="230" y="130" width="130" height="20" fill="#d4edda" rx="3"/>
     <text x="295" y="142" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#155724">Stabil etterspørsel</text>
@@ -88,34 +88,34 @@
     <text x="595" y="142" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#721c24">Høy volatilitet</text>
   </g>
   
-  <!-- Action recommendations -->
+
   <rect x="50" y="270" width="700" height="140" fill="white" stroke="#dee2e6" stroke-width="2" rx="10"/>
   <text x="400" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#212529">
     ANBEFALTE TILTAK BASERT PÅ RISIKOVURDERING
   </text>
   
-  <!-- Low risk actions -->
+
   <rect x="70" y="310" width="200" height="80" fill="url(#riskLow)" rx="8"/>
   <text x="170" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">LAV RISIKO</text>
   <text x="170" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">• Normal kredittgrense</text>
   <text x="170" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">• Standard betalingsbetingelser</text>
   <text x="170" y="375" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">• Årlig kredittsjekk</text>
   
-  <!-- Medium risk actions -->
+
   <rect x="300" y="310" width="200" height="80" fill="url(#riskMedium)" rx="8"/>
   <text x="400" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">MEDIUM RISIKO</text>
   <text x="400" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">• Redusert kredittgrense</text>
   <text x="400" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">• Kortere betalingsfrist</text>
   <text x="400" y="375" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">• Kvartalsvis oppfølging</text>
   
-  <!-- High risk actions -->
+
   <rect x="530" y="310" width="200" height="80" fill="url(#riskHigh)" rx="8"/>
   <text x="630" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">HØY RISIKO</text>
   <text x="630" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">• Kun kontant salg</text>
   <text x="630" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">• Krav om garantier</text>
   <text x="630" y="375" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">• Månedlig overvåking</text>
   
-  <!-- Bottom recommendations -->
+
   <rect x="100" y="430" width="600" height="50" fill="#e9ecef" stroke="#adb5bd" stroke-width="1" rx="8"/>
   <text x="400" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#212529">
     GENERELLE ANBEFALINGER FOR KREDITTRISIKOSTYRING

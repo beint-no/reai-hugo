@@ -6,20 +6,20 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f8fafc"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1f2937">Kategorier av Andre Rettigheter</text>
   
-  <!-- Central hub -->
+
   <circle cx="400" cy="250" r="80" fill="url(#categoryGradient)" stroke="#1e40af" stroke-width="3"/>
   <text x="400" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">ANDRE</text>
   <text x="400" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">RETTIGHETER</text>
   
-  <!-- Categories around the hub -->
+
   
-  <!-- Opphavsrettigheter -->
+
   <g transform="translate(150, 100)">
     <rect x="0" y="0" width="140" height="60" fill="#dbeafe" stroke="#3b82f6" stroke-width="2" rx="8"/>
     <text x="70" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Opphavsrettigheter</text>
@@ -27,7 +27,7 @@
     <text x="70" y="52" text-anchor="middle" font-family="Arial, sans-serif" font-size="10">Musikk, film, programvare</text>
   </g>
   
-  <!-- Designrettigheter -->
+
   <g transform="translate(510, 100)">
     <rect x="0" y="0" width="140" height="60" fill="#dcfce7" stroke="#16a34a" stroke-width="2" rx="8"/>
     <text x="70" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Designrettigheter</text>
@@ -35,7 +35,7 @@
     <text x="70" y="52" text-anchor="middle" font-family="Arial, sans-serif" font-size="10">Mønstre og utseende</text>
   </g>
   
-  <!-- Kundekontrakter -->
+
   <g transform="translate(650, 220)">
     <rect x="0" y="0" width="140" height="60" fill="#fef3c7" stroke="#d97706" stroke-width="2" rx="8"/>
     <text x="70" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Kundekontrakter</text>
@@ -43,7 +43,7 @@
     <text x="70" y="52" text-anchor="middle" font-family="Arial, sans-serif" font-size="10">Kunderelasjoner</text>
   </g>
   
-  <!-- Leverandøravtaler -->
+
   <g transform="translate(510, 340)">
     <rect x="0" y="0" width="140" height="60" fill="#fce7f3" stroke="#be185d" stroke-width="2" rx="8"/>
     <text x="70" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Leverandøravtaler</text>
@@ -51,7 +51,7 @@
     <text x="70" y="52" text-anchor="middle" font-family="Arial, sans-serif" font-size="10">Eksklusive rettigheter</text>
   </g>
   
-  <!-- Teknologirettigheter -->
+
   <g transform="translate(150, 340)">
     <rect x="0" y="0" width="140" height="60" fill="#e0e7ff" stroke="#6366f1" stroke-width="2" rx="8"/>
     <text x="70" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Teknologirettigheter</text>
@@ -59,7 +59,7 @@
     <text x="70" y="52" text-anchor="middle" font-family="Arial, sans-serif" font-size="10">Teknisk kunnskap</text>
   </g>
   
-  <!-- Bruksrettigheter -->
+
   <g transform="translate(10, 220)">
     <rect x="0" y="0" width="140" height="60" fill="#fef7ff" stroke="#a855f7" stroke-width="2" rx="8"/>
     <text x="70" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Bruksrettigheter</text>
@@ -67,7 +67,7 @@
     <text x="70" y="52" text-anchor="middle" font-family="Arial, sans-serif" font-size="10">Andres eiendeler</text>
   </g>
   
-  <!-- Distribusjonsrettigheter -->
+
   <g transform="translate(320, 80)">
     <rect x="0" y="0" width="140" height="60" fill="#ecfdf5" stroke="#10b981" stroke-width="2" rx="8"/>
     <text x="70" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Distribusjonsrettigheter</text>
@@ -75,7 +75,7 @@
     <text x="70" y="52" text-anchor="middle" font-family="Arial, sans-serif" font-size="10">Territorielle rettigheter</text>
   </g>
   
-  <!-- Franchiserettigheter -->
+
   <g transform="translate(320, 370)">
     <rect x="0" y="0" width="140" height="60" fill="#fef2f2" stroke="#dc2626" stroke-width="2" rx="8"/>
     <text x="70" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Franchiserettigheter</text>
@@ -83,9 +83,9 @@
     <text x="70" y="52" text-anchor="middle" font-family="Arial, sans-serif" font-size="10">Forretningsmodeller</text>
   </g>
   
-  <!-- Connection lines -->
+
   <g stroke="#64748b" stroke-width="2" fill="none">
-    <!-- From center to categories -->
+
     <line x1="340" y1="190" x2="220" y2="150"/>
     <line x1="460" y1="190" x2="580" y2="150"/>
     <line x1="470" y1="250" x2="650" y2="250"/>
@@ -96,7 +96,7 @@
     <line x1="380" y1="320" x2="400" y2="370"/>
   </g>
   
-  <!-- Legend -->
+
   <g transform="translate(50, 450)">
     <text x="0" y="0" font-family="Arial, sans-serif" font-size="12" fill="#374151">
       <tspan x="0" dy="0">Alle rettigheter må oppfylle aktiveringsvilkår:</tspan>

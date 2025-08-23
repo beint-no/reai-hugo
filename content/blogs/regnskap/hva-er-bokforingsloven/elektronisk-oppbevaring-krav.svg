@@ -18,16 +18,16 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8fafc"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGrad)"/>
   <text x="400" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
     Elektronisk Oppbevaring - Sikkerhetskrav
   </text>
   
-  <!-- Central Server/Cloud Icon -->
+
   <g transform="translate(350, 80)">
     <rect x="0" y="0" width="100" height="80" rx="10" fill="#e2e8f0" stroke="#475569" stroke-width="2"/>
     <rect x="10" y="10" width="80" height="8" rx="2" fill="#3b82f6"/>
@@ -39,7 +39,7 @@
     </text>
   </g>
   
-  <!-- Security Requirements - Top Left -->
+
   <g transform="translate(50, 200)">
     <rect x="0" y="0" width="180" height="40" rx="5" fill="url(#securityGrad)"/>
     <text x="90" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
@@ -67,7 +67,7 @@
     </text>
   </g>
   
-  <!-- Access Requirements - Top Right -->
+
   <g transform="translate(570, 200)">
     <rect x="0" y="0" width="180" height="40" rx="5" fill="url(#accessGrad)"/>
     <text x="90" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
@@ -95,7 +95,7 @@
     </text>
   </g>
   
-  <!-- Readability Requirements - Bottom Left -->
+
   <g transform="translate(50, 380)">
     <rect x="0" y="0" width="180" height="40" rx="5" fill="#1f2937"/>
     <text x="90" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
@@ -123,7 +123,7 @@
     </text>
   </g>
   
-  <!-- Integrity Requirements - Bottom Right -->
+
   <g transform="translate(570, 380)">
     <rect x="0" y="0" width="180" height="40" rx="5" fill="url(#integrityGrad)"/>
     <text x="90" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
@@ -151,7 +151,7 @@
     </text>
   </g>
   
-  <!-- Central Requirements Box -->
+
   <g transform="translate(280, 280)">
     <rect x="0" y="0" width="240" height="80" rx="10" fill="#dbeafe" stroke="#2563eb" stroke-width="3"/>
     <text x="120" y="25" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
@@ -165,13 +165,13 @@
     </text>
   </g>
   
-  <!-- Connection lines from central archive to requirements -->
+
   <path d="M350 160 L140 200" stroke="#64748b" stroke-width="2" stroke-dasharray="3,3"/>
   <path d="M450 160 L660 200" stroke="#64748b" stroke-width="2" stroke-dasharray="3,3"/>
   <path d="M350 160 L140 380" stroke="#64748b" stroke-width="2" stroke-dasharray="3,3"/>
   <path d="M450 160 L660 380" stroke="#64748b" stroke-width="2" stroke-dasharray="3,3"/>
   
-  <!-- Legal compliance note -->
+
   <rect x="200" y="520" width="400" height="60" rx="5" fill="#fef3c7" stroke="#f59e0b" stroke-width="2"/>
   <text x="400" y="540" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     LOVKRAV - BOKFØRINGSLOVEN § 13

@@ -1,19 +1,19 @@
 <svg width="800" height="700" viewBox="0 0 800 700" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="700" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#2c3e50">
     Budsjettplanleggingsprosessen
   </text>
   
-  <!-- Phase 1: Strategic Planning -->
+
   <rect x="50" y="80" width="700" height="120" rx="15" fill="#3498db" stroke="#2980b9" stroke-width="3"/>
   <text x="400" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
     FASE 1: STRATEGISK PLANLEGGING
   </text>
   
-  <!-- Phase 1 components -->
+
   <rect x="80" y="130" width="150" height="50" rx="8" fill="#2980b9"/>
   <text x="155" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     Strategiske mål
@@ -46,16 +46,16 @@
     Identifisere risiko
   </text>
   
-  <!-- Arrow to Phase 2 -->
+
   <path d="M 400 200 L 400 230" stroke="#34495e" stroke-width="4" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Phase 2: Detailed Budget Development -->
+
   <rect x="50" y="240" width="700" height="180" rx="15" fill="#e74c3c" stroke="#c0392b" stroke-width="3"/>
   <text x="400" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
     FASE 2: DETALJERT BUDSJETTUTVIKLING
   </text>
   
-  <!-- Phase 2 components -->
+
   <rect x="80" y="290" width="140" height="60" rx="8" fill="#c0392b"/>
   <text x="150" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     1. Salgsbudsjett
@@ -100,27 +100,27 @@
     sosiale kostnader
   </text>
   
-  <!-- Coordination arrows -->
+
   <path d="M 220 320 L 240 320" stroke="#ffffff" stroke-width="2" fill="none" marker-end="url(#whitearrow)"/>
   <path d="M 380 320 L 400 320" stroke="#ffffff" stroke-width="2" fill="none" marker-end="url(#whitearrow)"/>
   <path d="M 540 320 L 560 320" stroke="#ffffff" stroke-width="2" fill="none" marker-end="url(#whitearrow)"/>
   
-  <!-- Iterative process indication -->
+
   <path d="M 630 290 Q 680 250 630 210 Q 580 250 630 290" stroke="#ffffff" stroke-width="2" fill="none" stroke-dasharray="5,5"/>
   <text x="680" y="250" font-family="Arial, sans-serif" font-size="10" fill="white">
     Iterativ prosess
   </text>
   
-  <!-- Arrow to Phase 3 -->
+
   <path d="M 400 420 L 400 450" stroke="#34495e" stroke-width="4" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Phase 3: Consolidation and Approval -->
+
   <rect x="50" y="460" width="700" height="140" rx="15" fill="#27ae60" stroke="#229954" stroke-width="3"/>
   <text x="400" y="490" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
     FASE 3: KONSOLIDERING OG GODKJENNING
   </text>
   
-  <!-- Phase 3 components -->
+
   <rect x="100" y="510" width="180" height="70" rx="8" fill="#229954"/>
   <text x="190" y="535" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     Budsjettert
@@ -163,7 +163,7 @@
     over perioden
   </text>
   
-  <!-- Final outcome -->
+
   <rect x="200" y="620" width="400" height="50" rx="10" fill="#f39c12" stroke="#e67e22" stroke-width="3"/>
   <text x="400" y="640" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     HOVEDBUDSJETT GODKJENT
@@ -172,10 +172,10 @@
     Klar for implementering og oppfølging
   </text>
   
-  <!-- Arrow to final outcome -->
+
   <path d="M 400 600 L 400 620" stroke="#34495e" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker definitions -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>

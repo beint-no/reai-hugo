@@ -14,21 +14,21 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#333">
     Analyse og Nøkkeltall for Inntekter
   </text>
   
-  <!-- Key Metrics Section -->
+
   <rect x="50" y="80" width="700" height="120" fill="url(#metricGradient)" stroke="#0066cc" stroke-width="2" rx="10"/>
   <text x="400" y="110" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
     VIKTIGE NØKKELTALL
   </text>
   
-  <!-- Metric boxes -->
+
   <rect x="70" y="130" width="150" height="60" fill="white" fill-opacity="0.9" rx="5"/>
   <text x="145" y="150" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0066cc">
     Inntektsvekst
@@ -73,20 +73,20 @@
     inntektstyper
   </text>
   
-  <!-- Trend Analysis Section -->
+
   <rect x="50" y="230" width="340" height="200" fill="white" stroke="#28a745" stroke-width="2" rx="10"/>
   <text x="220" y="260" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#28a745">
     TRENDANALYSE
   </text>
   
-  <!-- Simple trend chart -->
+
   <rect x="70" y="280" width="300" height="120" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="5"/>
   
-  <!-- Chart axes -->
+
   <line x1="90" y1="380" x2="350" y2="380" stroke="#666" stroke-width="1"/>
   <line x1="90" y1="380" x2="90" y2="300" stroke="#666" stroke-width="1"/>
   
-  <!-- Data points and trend line -->
+
   <circle cx="110" cy="360" r="3" fill="#28a745"/>
   <circle cx="150" cy="340" r="3" fill="#28a745"/>
   <circle cx="190" cy="330" r="3" fill="#28a745"/>
@@ -94,10 +94,10 @@
   <circle cx="270" cy="310" r="3" fill="#28a745"/>
   <circle cx="310" cy="305" r="3" fill="#28a745"/>
   
-  <!-- Trend line -->
+
   <line x1="110" y1="360" x2="310" y2="305" stroke="#28a745" stroke-width="2"/>
   
-  <!-- Chart labels -->
+
   <text x="90" y="395" font-family="Arial, sans-serif" font-size="8" text-anchor="middle" fill="#666">2019</text>
   <text x="150" y="395" font-family="Arial, sans-serif" font-size="8" text-anchor="middle" fill="#666">2020</text>
   <text x="190" y="395" font-family="Arial, sans-serif" font-size="8" text-anchor="middle" fill="#666">2021</text>
@@ -109,21 +109,21 @@
     Stabil vekst: 10,7% årlig gjennomsnitt
   </text>
   
-  <!-- Revenue Composition Section -->
+
   <rect x="410" y="230" width="340" height="200" fill="white" stroke="#ffc107" stroke-width="2" rx="10"/>
   <text x="580" y="260" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#ffc107">
     INNTEKTSSAMMENSETNING
   </text>
   
-  <!-- Pie chart representation -->
+
   <circle cx="580" cy="340" r="60" fill="none" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Pie segments (simplified representation) -->
+
   <path d="M 580 280 A 60 60 0 1 1 620 400 L 580 340 Z" fill="#28a745" opacity="0.8"/>
   <path d="M 620 400 A 60 60 0 0 1 540 400 L 580 340 Z" fill="#0066cc" opacity="0.8"/>
   <path d="M 540 400 A 60 60 0 0 1 580 280 L 580 340 Z" fill="#ffc107" opacity="0.8"/>
   
-  <!-- Legend -->
+
   <rect x="430" y="360" width="12" height="12" fill="#28a745"/>
   <text x="450" y="371" font-family="Arial, sans-serif" font-size="10" fill="#333">Driftsinntekter (85%)</text>
   
@@ -133,13 +133,13 @@
   <rect x="430" y="400" width="12" height="12" fill="#ffc107"/>
   <text x="450" y="411" font-family="Arial, sans-serif" font-size="10" fill="#333">Andre inntekter (5%)</text>
   
-  <!-- Analysis Insights Section -->
+
   <rect x="50" y="450" width="700" height="120" fill="#f8f9fa" stroke="#17a2b8" stroke-width="2" rx="10"/>
   <text x="400" y="480" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#17a2b8">
     ANALYSEINNSIKTER
   </text>
   
-  <!-- Insight boxes -->
+
   <rect x="70" y="500" width="200" height="60" fill="white" stroke="#28a745" stroke-width="1" rx="5"/>
   <text x="170" y="520" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#28a745">
     Positiv utvikling
@@ -173,7 +173,7 @@
     • Markedsendringer
   </text>
   
-  <!-- Decorative elements -->
+
   <circle cx="100" cy="60" r="15" fill="#0066cc" opacity="0.1"/>
   <text x="100" y="67" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0066cc">
     📊

@@ -18,21 +18,21 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f0f9ff"/>
   
-  <!-- Title -->
+
   <rect x="50" y="20" width="700" height="50" rx="8" fill="url(#headerGrad)"/>
   <text x="400" y="50" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="22" font-weight="bold">MVA Avstemming Prosess</text>
   
-  <!-- Monthly cycle indicator -->
+
   <circle cx="400" cy="90" r="25" fill="#0284c7" stroke="#0369a1" stroke-width="2"/>
   <text x="400" y="95" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">MÅNEDLIG</text>
   
-  <!-- Process flow -->
+
   <rect x="50" y="130" width="700" height="440" rx="10" fill="white" stroke="#64748b" stroke-width="2"/>
   
-  <!-- Step 1: Compare -->
+
   <rect x="80" y="160" width="300" height="100" rx="8" fill="url(#stepGrad)" stroke="#0284c7" stroke-width="2"/>
   <circle cx="100" cy="180" r="12" fill="#0284c7"/>
   <text x="100" y="185" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">1</text>
@@ -42,10 +42,10 @@
   <text x="120" y="235" fill="#075985" font-family="Arial, sans-serif" font-size="11">• Inngående MVA i regnskap</text>
   <text x="120" y="250" fill="#075985" font-family="Arial, sans-serif" font-size="11">• Differanse beregning</text>
   
-  <!-- Arrow 1 -->
+
   <path d="M390 210 L410 210 L405 205 M410 210 L405 215" stroke="#64748b" stroke-width="3" fill="none" stroke-linecap="round"/>
   
-  <!-- Step 2: Check invoices -->
+
   <rect x="420" y="160" width="300" height="100" rx="8" fill="url(#stepGrad)" stroke="#0284c7" stroke-width="2"/>
   <circle cx="440" cy="180" r="12" fill="#0284c7"/>
   <text x="440" y="185" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">2</text>
@@ -55,10 +55,10 @@
   <text x="460" y="235" fill="#075985" font-family="Arial, sans-serif" font-size="11">• Innkjøpsfakturaer (inngående MVA)</text>
   <text x="460" y="250" fill="#075985" font-family="Arial, sans-serif" font-size="11">• Korrekt MVA-sats anvendt</text>
   
-  <!-- Arrow down -->
+
   <path d="M400 270 L400 290 L395 285 M400 290 L405 285" stroke="#64748b" stroke-width="3" fill="none" stroke-linecap="round"/>
   
-  <!-- Step 3: Check deductions -->
+
   <rect x="80" y="300" width="300" height="100" rx="8" fill="url(#stepGrad)" stroke="#0284c7" stroke-width="2"/>
   <circle cx="100" cy="320" r="12" fill="#0284c7"/>
   <text x="100" y="325" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">3</text>
@@ -68,10 +68,10 @@
   <text x="120" y="375" fill="#075985" font-family="Arial, sans-serif" font-size="11">• Dokumentasjon av formål</text>
   <text x="120" y="390" fill="#075985" font-family="Arial, sans-serif" font-size="11">• Representasjon ekskludert</text>
   
-  <!-- Arrow 2 -->
+
   <path d="M390 350 L410 350 L405 345 M410 350 L405 355" stroke="#64748b" stroke-width="3" fill="none" stroke-linecap="round"/>
   
-  <!-- Step 4: Correct errors -->
+
   <rect x="420" y="300" width="300" height="100" rx="8" fill="url(#errorGrad)" stroke="#f59e0b" stroke-width="2"/>
   <circle cx="440" cy="320" r="12" fill="#f59e0b"/>
   <text x="440" y="325" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">4</text>
@@ -81,18 +81,18 @@
   <text x="460" y="375" fill="#a16207" font-family="Arial, sans-serif" font-size="11">• Oppdater MVA-melding</text>
   <text x="460" y="390" fill="#a16207" font-family="Arial, sans-serif" font-size="11">• Dokumenter endringer</text>
   
-  <!-- Final result -->
+
   <rect x="200" y="430" width="400" height="80" rx="8" fill="url(#checkGrad)" stroke="#16a34a" stroke-width="2"/>
   <circle cx="400" cy="455" r="15" fill="#16a34a"/>
   <path d="M392 455 L398 461 L408 449" stroke="white" stroke-width="3" fill="none" stroke-linecap="round"/>
   <text x="400" y="485" text-anchor="middle" fill="#166534" font-family="Arial, sans-serif" font-size="16" font-weight="bold">AVSTEMMING FULLFØRT</text>
   <text x="400" y="500" text-anchor="middle" fill="#15803d" font-family="Arial, sans-serif" font-size="12">Klar for innlevering av MVA-melding</text>
   
-  <!-- Side panel with checklist -->
+
   <rect x="50" y="130" width="200" height="200" rx="8" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1"/>
   <text x="150" y="155" text-anchor="middle" fill="#1e293b" font-family="Arial, sans-serif" font-size="14" font-weight="bold">AVSTEMMING SJEKKLISTE</text>
   
-  <!-- Checklist items -->
+
   <rect x="70" y="170" width="15" height="15" rx="2" fill="#16a34a"/>
   <path d="M73 177 L76 180 L82 174" stroke="white" stroke-width="2" fill="none" stroke-linecap="round"/>
   <text x="95" y="182" fill="#475569" font-family="Arial, sans-serif" font-size="11">Hovedbok avstemt</text>
@@ -117,11 +117,11 @@
   <text x="77" y="305" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10" font-weight="bold">!</text>
   <text x="95" y="307" fill="#475569" font-family="Arial, sans-serif" font-size="11">Feil rettet</text>
   
-  <!-- Tools section -->
+
   <rect x="600" y="130" width="150" height="150" rx="8" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"/>
   <text x="675" y="155" text-anchor="middle" fill="#1e293b" font-family="Arial, sans-serif" font-size="14" font-weight="bold">VERKTØY</text>
   
-  <!-- Calculator icon -->
+
   <rect x="640" y="170" width="30" height="35" rx="3" fill="#3b82f6" stroke="#1d4ed8" stroke-width="1"/>
   <rect x="645" y="175" width="20" height="3" rx="1" fill="white"/>
   <rect x="645" y="180" width="20" height="3" rx="1" fill="white"/>
@@ -130,14 +130,14 @@
   <circle cx="662" cy="188" r="2" fill="white"/>
   <text x="675" y="215" text-anchor="middle" fill="#475569" font-family="Arial, sans-serif" font-size="10">Kalkulator</text>
   
-  <!-- Document icon -->
+
   <rect x="640" y="225" width="25" height="30" rx="2" fill="#10b981" stroke="#059669" stroke-width="1"/>
   <rect x="645" y="230" width="15" height="2" rx="1" fill="white"/>
   <rect x="645" y="235" width="15" height="2" rx="1" fill="white"/>
   <rect x="645" y="240" width="10" height="2" rx="1" fill="white"/>
   <text x="675" y="270" text-anchor="middle" fill="#475569" font-family="Arial, sans-serif" font-size="10">Regnskapssystem</text>
   
-  <!-- Bottom tip -->
+
   <rect x="50" y="530" width="700" height="50" rx="8" fill="#eff6ff" stroke="#3b82f6" stroke-width="1"/>
   <text x="400" y="550" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold">💡 Tips: Utfør avstemming før hver MVA-melding innlevering</text>
   <text x="400" y="570" text-anchor="middle" fill="#1d4ed8" font-family="Arial, sans-serif" font-size="12">Regelmessig avstemming reduserer risiko for feil og sanksjoner</text>

@@ -18,15 +18,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Hovedkomponenter i Ansattreskontro
   </text>
   
-  <!-- Central employee account circle -->
+
   <circle cx="400" cy="300" r="80" fill="white" stroke="#6c757d" stroke-width="3"/>
   <text x="400" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
     ANSATT-
@@ -35,9 +35,9 @@
     RESKONTRO
   </text>
   
-  <!-- Income components (top) -->
+
   <g>
-    <!-- Grunnlønn -->
+
     <rect x="150" y="80" width="120" height="60" fill="url(#incomeGradient)" rx="8"/>
     <text x="210" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
       Grunnlønn
@@ -47,7 +47,7 @@
     </text>
     <line x1="210" y1="140" x2="350" y2="230" stroke="#28a745" stroke-width="2" marker-end="url(#arrowGreen)"/>
     
-    <!-- Tillegg -->
+
     <rect x="530" y="80" width="120" height="60" fill="url(#incomeGradient)" rx="8"/>
     <text x="590" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
       Tillegg
@@ -58,9 +58,9 @@
     <line x1="590" y1="140" x2="450" y2="230" stroke="#28a745" stroke-width="2" marker-end="url(#arrowGreen)"/>
   </g>
   
-  <!-- Deduction components (left and right) -->
+
   <g>
-    <!-- Forskuddstrekk -->
+
     <rect x="50" y="250" width="120" height="60" fill="url(#deductionGradient)" rx="8"/>
     <text x="110" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
       Forskuddstrekk
@@ -70,7 +70,7 @@
     </text>
     <line x1="170" y1="280" x2="320" y2="300" stroke="#dc3545" stroke-width="2" marker-end="url(#arrowRed)"/>
     
-    <!-- Pensjon -->
+
     <rect x="630" y="250" width="120" height="60" fill="url(#deductionGradient)" rx="8"/>
     <text x="690" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
       Pensjon
@@ -81,9 +81,9 @@
     <line x1="630" y1="280" x2="480" y2="300" stroke="#dc3545" stroke-width="2" marker-end="url(#arrowRed)"/>
   </g>
   
-  <!-- Benefits and other components (bottom) -->
+
   <g>
-    <!-- Feriepenger -->
+
     <rect x="150" y="450" width="120" height="60" fill="url(#benefitGradient)" rx="8"/>
     <text x="210" y="475" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
       Feriepenger
@@ -93,7 +93,7 @@
     </text>
     <line x1="210" y1="450" x2="350" y2="370" stroke="#007bff" stroke-width="2" marker-end="url(#arrowBlue)"/>
     
-    <!-- Forskudd/Lån -->
+
     <rect x="350" y="450" width="120" height="60" fill="url(#benefitGradient)" rx="8"/>
     <text x="410" y="475" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
       Forskudd/Lån
@@ -103,7 +103,7 @@
     </text>
     <line x1="410" y1="450" x2="400" y2="380" stroke="#007bff" stroke-width="2" marker-end="url(#arrowBlue)"/>
     
-    <!-- Naturalytelser -->
+
     <rect x="530" y="450" width="120" height="60" fill="url(#benefitGradient)" rx="8"/>
     <text x="590" y="475" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
       Naturalytelser
@@ -114,7 +114,7 @@
     <line x1="590" y1="450" x2="450" y2="370" stroke="#007bff" stroke-width="2" marker-end="url(#arrowBlue)"/>
   </g>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="arrowGreen" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
       <polygon points="0,0 0,6 9,3" fill="#28a745"/>
@@ -127,7 +127,7 @@
     </marker>
   </defs>
   
-  <!-- Legend -->
+
   <g transform="translate(50, 550)">
     <rect x="0" y="0" width="20" height="15" fill="#28a745"/>
     <text x="25" y="12" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">Inntekter</text>

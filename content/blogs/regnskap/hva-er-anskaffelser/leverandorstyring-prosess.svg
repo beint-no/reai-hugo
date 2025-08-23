@@ -21,21 +21,21 @@
     </marker>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#1976d2">
     Leverandørstyringsprosess
   </text>
   
-  <!-- Step 1: Supplier Evaluation -->
+
   <rect x="50" y="70" width="320" height="200" fill="url(#evaluationGradient)" stroke="#28a745" stroke-width="3" rx="15"/>
   <text x="210" y="100" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#155724">
     1. Leverandørvurdering
   </text>
   
-  <!-- Evaluation icon -->
+
   <circle cx="210" cy="140" r="25" fill="#28a745" opacity="0.3"/>
   <rect x="195" y="125" width="30" height="30" fill="none" stroke="#28a745" stroke-width="3"/>
   <path d="M200 135 L205 140 L215 130" stroke="#28a745" stroke-width="3" fill="none"/>
@@ -59,16 +59,16 @@
     • Bærekraft (10%) - Sertifiseringer
   </text>
   
-  <!-- Arrow to selection -->
+
   <line x1="370" y1="170" x2="420" y2="170" stroke="#1976d2" stroke-width="3" marker-end="url(#processArrow)"/>
   
-  <!-- Step 2: Supplier Selection -->
+
   <rect x="430" y="70" width="320" height="200" fill="url(#selectionGradient)" stroke="#007bff" stroke-width="3" rx="15"/>
   <text x="590" y="100" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#004085">
     2. Leverandørvalg
   </text>
   
-  <!-- Selection icon -->
+
   <circle cx="590" cy="140" r="25" fill="#007bff" opacity="0.3"/>
   <circle cx="590" cy="140" r="15" fill="none" stroke="#007bff" stroke-width="3"/>
   <circle cx="590" cy="140" r="8" fill="#007bff"/>
@@ -92,16 +92,16 @@
     • Endelig leverandørvalg
   </text>
   
-  <!-- Arrow down -->
+
   <line x1="590" y1="270" x2="590" y2="310" stroke="#1976d2" stroke-width="3" marker-end="url(#processArrow)"/>
   
-  <!-- Step 3: Performance Monitoring -->
+
   <rect x="430" y="320" width="320" height="200" fill="url(#monitoringGradient)" stroke="#ffc107" stroke-width="3" rx="15"/>
   <text x="590" y="350" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#856404">
     3. Ytelsesovervåking
   </text>
   
-  <!-- Monitoring icon -->
+
   <circle cx="590" cy="390" r="25" fill="#ffc107" opacity="0.3"/>
   <rect x="575" y="375" width="30" height="30" fill="none" stroke="#ffc107" stroke-width="3"/>
   <path d="M580 385 L600 385 M580 390 L600 390 M580 395 L600 395" stroke="#ffc107" stroke-width="2"/>
@@ -126,16 +126,16 @@
     • Kontinuerlig forbedring
   </text>
   
-  <!-- Arrow to development -->
+
   <line x1="430" y1="420" x2="380" y2="420" stroke="#1976d2" stroke-width="3" marker-end="url(#processArrow)"/>
   
-  <!-- Step 4: Supplier Development -->
+
   <rect x="50" y="320" width="320" height="200" fill="url(#developmentGradient)" stroke="#9c27b0" stroke-width="3" rx="15"/>
   <text x="210" y="350" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#4a148c">
     4. Leverandørutvikling
   </text>
   
-  <!-- Development icon -->
+
   <circle cx="210" cy="390" r="25" fill="#9c27b0" opacity="0.3"/>
   <path d="M195 385 L210 375 L225 385 M195 395 L210 405 L225 395" stroke="#9c27b0" stroke-width="3" fill="none"/>
   <circle cx="210" cy="390" r="5" fill="#9c27b0"/>
@@ -159,10 +159,10 @@
     • Strategiske partnerskap
   </text>
   
-  <!-- Arrow back to evaluation (continuous cycle) -->
+
   <path d="M210 320 Q150 280 150 170 Q150 120 200 120" stroke="#1976d2" stroke-width="3" fill="none" marker-end="url(#processArrow)"/>
   
-  <!-- Central cycle indicator -->
+
   <circle cx="400" cy="295" r="40" fill="white" stroke="#1976d2" stroke-width="3"/>
   <text x="400" y="290" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#1976d2">
     Kontinuerlig
@@ -171,7 +171,7 @@
     Forbedring
   </text>
   
-  <!-- Risk management section -->
+
   <rect x="100" y="540" width="600" height="50" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="10"/>
   <text x="400" y="560" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#856404">
     Risikostyring og Beredskapsplaner

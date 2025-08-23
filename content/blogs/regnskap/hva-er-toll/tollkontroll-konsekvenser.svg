@@ -1,16 +1,16 @@
 <svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
   <rect width="800" height="500" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">Tollkontroll og Konsekvenser</text>
   
-  <!-- Main container -->
+
   <rect x="50" y="60" width="700" height="420" fill="white" stroke="#dee2e6" stroke-width="2" rx="10"/>
   
-  <!-- Control types -->
+
   <text x="80" y="100" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#212529">Typer Tollkontroll</text>
   
-  <!-- Risk-based -->
+
   <g transform="translate(80, 120)">
     <rect x="0" y="0" width="160" height="60" fill="#0d6efd" stroke="#0339a8" stroke-width="2" rx="8"/>
     <text x="80" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Risikoverbasert</text>
@@ -18,7 +18,7 @@
     <text x="80" y="52" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">AI-algoritmer</text>
   </g>
   
-  <!-- Document control -->
+
   <g transform="translate(260, 120)">
     <rect x="0" y="0" width="160" height="60" fill="#28a745" stroke="#1e7e34" stroke-width="2" rx="8"/>
     <text x="80" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Dokumentkontroll</text>
@@ -26,7 +26,7 @@
     <text x="80" y="52" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">papirer og data</text>
   </g>
   
-  <!-- Physical control -->
+
   <g transform="translate(440, 120)">
     <rect x="0" y="0" width="160" height="60" fill="#dc3545" stroke="#b02a37" stroke-width="2" rx="8"/>
     <text x="80" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Fysisk kontroll</text>
@@ -34,7 +34,7 @@
     <text x="80" y="52" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">varer og containere</text>
   </g>
   
-  <!-- Post-clearance audit -->
+
   <g transform="translate(260, 200)">
     <rect x="0" y="0" width="160" height="60" fill="#6f42c1" stroke="#59359a" stroke-width="2" rx="8"/>
     <text x="80" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Etterkontroll</text>
@@ -42,10 +42,10 @@
     <text x="80" y="52" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">tollregnskaper</text>
   </g>
   
-  <!-- Consequences section -->
+
   <text x="80" y="300" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#dc3545">Konsekvenser ved Feil</text>
   
-  <!-- Severity levels -->
+
   <g transform="translate(80, 320)">
     <rect x="0" y="0" width="130" height="70" fill="#ffc107" stroke="#d39e00" stroke-width="2" rx="8"/>
     <text x="65" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#212529">MINDRE FEIL</text>
@@ -78,18 +78,18 @@
     <text x="65" y="61" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• Forbudte aktiviteter</text>
   </g>
   
-  <!-- Prevention measures -->
+
   <rect x="80" y="410" width="640" height="50" fill="#e9ecef" stroke="#adb5bd" stroke-width="2" rx="8"/>
   <text x="400" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#212529">Forebygging</text>
   <text x="400" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#495057">Korrekt klassifikasjon • Nøyaktige deklarasjoner • God dokumentasjon</text>
   <text x="400" y="457" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#495057">Intern kontroll • Kompetanseutvikling • Profesjonell rådgivning</text>
   
-  <!-- Arrows showing escalation -->
+
   <path d="M210 355 L230 355" fill="none" stroke="#495057" stroke-width="2" marker-end="url(#arrowhead)"/>
   <path d="M360 355 L380 355" fill="none" stroke="#495057" stroke-width="2" marker-end="url(#arrowhead)"/>
   <path d="M510 355 L530 355" fill="none" stroke="#495057" stroke-width="2" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#495057"/>

@@ -14,15 +14,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#212529">
     Prosess for håndtering av tap på fordring
   </text>
   
-  <!-- Step 1: Identifisering -->
+
   <rect x="50" y="80" width="180" height="120" fill="url(#stepGradient1)" rx="10"/>
   <text x="140" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     1. IDENTIFISERING
@@ -43,10 +43,10 @@
     • Innkrevingstiltak
   </text>
   
-  <!-- Arrow 1 -->
+
   <polygon points="250,140 280,140 270,130 290,140 270,150" fill="#6c757d"/>
   
-  <!-- Step 2: Vurdering -->
+
   <rect x="310" y="80" width="180" height="120" fill="url(#stepGradient2)" rx="10"/>
   <text x="400" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     2. VURDERING
@@ -67,10 +67,10 @@
     • Beløpets størrelse
   </text>
   
-  <!-- Arrow 2 -->
+
   <polygon points="510,140 540,140 530,130 550,140 530,150" fill="#6c757d"/>
   
-  <!-- Step 3: Regnskapsføring -->
+
   <rect x="570" y="80" width="180" height="120" fill="url(#stepGradient3)" rx="10"/>
   <text x="660" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     3. REGNSKAPSFØRING
@@ -91,7 +91,7 @@
     • Rapportering
   </text>
   
-  <!-- Decision points -->
+
   <rect x="100" y="240" width="600" height="60" fill="white" stroke="#dee2e6" stroke-width="2" rx="8"/>
   <text x="400" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#212529">
     Beslutningspunkter
@@ -100,7 +100,7 @@
     Sannsynlig tap → Avsetning for tap | Definitivt tap → Direkte nedskriving | Delvis tap → Delvise avsetning
   </text>
   
-  <!-- Alternative outcomes -->
+
   <g transform="translate(50, 330)">
     <rect x="0" y="0" width="200" height="80" fill="#d4edda" stroke="#28a745" stroke-width="2" rx="8"/>
     <text x="100" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#155724">
@@ -149,7 +149,7 @@
     </text>
   </g>
   
-  <!-- Footer -->
+
   <text x="400" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#868e96">
     Systematisk tilnærming til håndtering av kundefordringer som ikke kan innkreves
   </text>

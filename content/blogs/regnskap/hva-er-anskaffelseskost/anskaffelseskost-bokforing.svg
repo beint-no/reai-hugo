@@ -14,24 +14,24 @@
     </style>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#ffffff"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" class="title">Bokføring av Anskaffelseskost</text>
   <text x="400" y="55" text-anchor="middle" class="subtitle">Regnskapsføring og Journalposter</text>
   
-  <!-- Basic principle box -->
+
   <rect x="50" y="80" width="700" height="80" class="box"/>
   <text x="70" y="105" class="subtitle">Grunnleggende Prinsipp:</text>
   <text x="70" y="130" class="text">Anskaffelseskost bokføres som eiendel (debet) mot reduksjon i kontanter</text>
   <text x="70" y="150" class="text">eller økning i gjeld (kredit)</text>
   
-  <!-- Journal entry 1: Acquisition -->
+
   <rect x="50" y="180" width="700" height="140" class="journal-box"/>
   <text x="70" y="205" class="subtitle">Ved Anskaffelse - Kjøp av maskin for 850 000 kr:</text>
   
-  <!-- T-account style layout -->
+
   <line x1="400" y1="220" x2="400" y2="300" class="line"/>
   <line x1="200" y1="240" x2="600" y2="240" class="line"/>
   
@@ -44,16 +44,16 @@
   <text x="450" y="265" class="credit">Bank</text>
   <text x="650" y="265" class="amount">850 000</text>
   
-  <!-- Arrow showing flow -->
+
   <g transform="translate(350, 275)">
     <polygon points="0,0 20,10 0,20 5,10" class="arrow"/>
   </g>
   
-  <!-- Journal entry 2: Depreciation -->
+
   <rect x="50" y="340" width="700" height="140" class="journal-box"/>
   <text x="70" y="365" class="subtitle">Ved Første års Avskrivning (lineært over 10 år):</text>
   
-  <!-- T-account style layout -->
+
   <line x1="400" y1="380" x2="400" y2="460" class="line"/>
   <line x1="200" y1="400" x2="600" y2="400" class="line"/>
   
@@ -66,18 +66,18 @@
   <text x="450" y="425" class="credit">Akkumulerte avskrivninger</text>
   <text x="650" y="425" class="amount">85 000</text>
   
-  <!-- Arrow showing flow -->
+
   <g transform="translate(350, 435)">
     <polygon points="0,0 20,10 0,20 5,10" class="arrow"/>
   </g>
   
-  <!-- Impact on financial statements -->
+
   <rect x="50" y="500" width="700" height="80" class="box"/>
   <text x="70" y="525" class="subtitle">Påvirkning på Regnskapet:</text>
   <text x="90" y="550" class="text">• Balanse: Økning i anleggsmidler og reduksjon i kontanter</text>
   <text x="90" y="570" class="text">• Resultat: Årlige avskrivningskostnader over eiendelens levetid</text>
   
-  <!-- Balance sheet icon -->
+
   <g transform="translate(650, 500)">
     <rect x="0" y="0" width="60" height="80" fill="#3498db" opacity="0.2" rx="5"/>
     <rect x="10" y="10" width="40" height="25" fill="#3498db"/>

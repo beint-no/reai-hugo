@@ -10,13 +10,13 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e293b">Varekjøp Prosessflyt</text>
   
-  <!-- Step 1: Behovsanalyse -->
+
   <g transform="translate(50,80)">
     <rect x="0" y="0" width="120" height="80" rx="10" fill="url(#processGradient)"/>
     <text x="60" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">1. Behovsanalyse</text>
@@ -25,7 +25,7 @@
     <text x="60" y="64" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• Budsjett</text>
   </g>
   
-  <!-- Step 2: Leverandørvalg -->
+
   <g transform="translate(220,80)">
     <rect x="0" y="0" width="120" height="80" rx="10" fill="url(#processGradient)"/>
     <text x="60" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">2. Leverandørvalg</text>
@@ -34,7 +34,7 @@
     <text x="60" y="64" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• Leveringsbetingelser</text>
   </g>
   
-  <!-- Step 3: Bestilling -->
+
   <g transform="translate(390,80)">
     <rect x="0" y="0" width="120" height="80" rx="10" fill="url(#processGradient)"/>
     <text x="60" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">3. Bestilling</text>
@@ -43,7 +43,7 @@
     <text x="60" y="64" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• Leveringsdato</text>
   </g>
   
-  <!-- Step 4: Varemottak -->
+
   <g transform="translate(560,80)">
     <rect x="0" y="0" width="120" height="80" rx="10" fill="url(#processGradient)"/>
     <text x="60" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">4. Varemottak</text>
@@ -52,12 +52,12 @@
     <text x="60" y="64" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• Lagerregistrering</text>
   </g>
   
-  <!-- Arrows between steps -->
+
   <path d="M170,120 L220,120" stroke="#64748b" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M340,120 L390,120" stroke="#64748b" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M510,120 L560,120" stroke="#64748b" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 5: Fakturabehandling -->
+
   <g transform="translate(50,220)">
     <rect x="0" y="0" width="120" height="80" rx="10" fill="url(#processGradient)"/>
     <text x="60" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">5. Fakturabehandling</text>
@@ -66,7 +66,7 @@
     <text x="60" y="64" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• MVA-kontroll</text>
   </g>
   
-  <!-- Step 6: Regnskapsføring -->
+
   <g transform="translate(220,220)">
     <rect x="0" y="0" width="120" height="80" rx="10" fill="url(#processGradient)"/>
     <text x="60" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">6. Regnskapsføring</text>
@@ -75,7 +75,7 @@
     <text x="60" y="64" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• MVA-registrering</text>
   </g>
   
-  <!-- Step 7: Betaling -->
+
   <g transform="translate(390,220)">
     <rect x="0" y="0" width="120" height="80" rx="10" fill="url(#processGradient)"/>
     <text x="60" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">7. Betaling</text>
@@ -84,7 +84,7 @@
     <text x="60" y="64" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• Leverandørrelasjon</text>
   </g>
   
-  <!-- Step 8: Salg og Kostpris -->
+
   <g transform="translate(560,220)">
     <rect x="0" y="0" width="120" height="80" rx="10" fill="url(#processGradient)"/>
     <text x="60" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">8. Salg &amp; Kostpris</text>
@@ -93,15 +93,15 @@
     <text x="60" y="64" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• Lønnsomhetsanalyse</text>
   </g>
   
-  <!-- Connecting arrows -->
+
   <path d="M170,260 L220,260" stroke="#64748b" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M340,260 L390,260" stroke="#64748b" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M510,260 L560,260" stroke="#64748b" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Vertical connecting arrows -->
+
   <path d="M620,160 L620,180 L110,180 L110,220" stroke="#64748b" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Control processes box -->
+
   <g transform="translate(100,350)">
     <rect x="0" y="0" width="600" height="120" rx="10" fill="white" stroke="#e2e8f0" stroke-width="2"/>
     <text x="300" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">Kontinuerlige Kontrollprosesser</text>
@@ -135,7 +135,7 @@
     </g>
   </g>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#64748b"/>

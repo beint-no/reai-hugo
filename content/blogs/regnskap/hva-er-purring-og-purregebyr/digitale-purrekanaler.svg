@@ -25,20 +25,20 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f8fafc"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e293b" text-anchor="middle">Digitale Purrekanaler</text>
   <text x="400" y="65" font-family="Arial, sans-serif" font-size="16" fill="#64748b" text-anchor="middle">Moderne kommunikasjonsmetoder for effektiv oppfølging</text>
   
-  <!-- Central hub -->
+
   <circle cx="400" cy="250" r="60" fill="#1e293b" filter="url(#shadow)"/>
   <text x="400" y="240" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white" text-anchor="middle">PURRE-</text>
   <text x="400" y="255" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white" text-anchor="middle">SYSTEM</text>
   <text x="400" y="270" font-family="Arial, sans-serif" font-size="10" fill="#94a3b8" text-anchor="middle">Integrert</text>
   
-  <!-- E-post channel -->
+
   <rect x="100" y="120" width="140" height="100" fill="url(#emailGradient)" rx="15" filter="url(#shadow)"/>
   <circle cx="170" cy="150" r="15" fill="white" opacity="0.9"/>
   <text x="170" y="157" font-family="Arial, sans-serif" font-size="16" fill="#1d4ed8" text-anchor="middle">@</text>
@@ -46,11 +46,11 @@
   <text x="170" y="195" font-family="Arial, sans-serif" font-size="9" fill="white" text-anchor="middle">Lesebekreftelse</text>
   <text x="170" y="207" font-family="Arial, sans-serif" font-size="9" fill="white" text-anchor="middle">Dokumentasjon</text>
   
-  <!-- Connection line -->
+
   <line x1="240" y1="170" x2="340" y2="220" stroke="#64748b" stroke-width="2"/>
   <text x="290" y="185" font-family="Arial, sans-serif" font-size="8" fill="#64748b" text-anchor="middle">85% av purringer</text>
   
-  <!-- SMS channel -->
+
   <rect x="560" y="120" width="140" height="100" fill="url(#smsGradient)" rx="15" filter="url(#shadow)"/>
   <rect x="615" y="140" width="30" height="50" fill="white" rx="5"/>
   <rect x="620" y="145" width="20" height="3" fill="#10b981" rx="1"/>
@@ -61,11 +61,11 @@
   <text x="630" y="200" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white" text-anchor="middle">SMS</text>
   <text x="630" y="215" font-family="Arial, sans-serif" font-size="9" fill="white" text-anchor="middle">Akutt påminnelse</text>
   
-  <!-- Connection line -->
+
   <line x1="560" y1="170" x2="460" y2="220" stroke="#64748b" stroke-width="2"/>
   <text x="510" y="185" font-family="Arial, sans-serif" font-size="8" fill="#64748b" text-anchor="middle">Rask respons</text>
   
-  <!-- Customer portal -->
+
   <rect x="100" y="320" width="140" height="100" fill="url(#portalGradient)" rx="15" filter="url(#shadow)"/>
   <rect x="145" y="340" width="50" height="35" fill="white" rx="3"/>
   <rect x="150" y="345" width="40" height="3" fill="#f59e0b" rx="1"/>
@@ -77,11 +77,11 @@
   <text x="170" y="405" font-family="Arial, sans-serif" font-size="9" fill="white" text-anchor="middle">Selvbetjening</text>
   <text x="170" y="417" font-family="Arial, sans-serif" font-size="9" fill="white" text-anchor="middle">24/7 tilgang</text>
   
-  <!-- Connection line -->
+
   <line x1="240" y1="350" x2="340" y2="290" stroke="#64748b" stroke-width="2"/>
   <text x="290" y="335" font-family="Arial, sans-serif" font-size="8" fill="#64748b" text-anchor="middle">Selvservice</text>
   
-  <!-- EHF format -->
+
   <rect x="560" y="320" width="140" height="100" fill="url(#ehfGradient)" rx="15" filter="url(#shadow)"/>
   <rect x="605" y="340" width="50" height="35" fill="white" rx="3"/>
   <text x="630" y="350" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="#8b5cf6" text-anchor="middle">XML</text>
@@ -92,11 +92,11 @@
   <text x="630" y="405" font-family="Arial, sans-serif" font-size="9" fill="white" text-anchor="middle">Automatisk</text>
   <text x="630" y="417" font-family="Arial, sans-serif" font-size="9" fill="white" text-anchor="middle">behandling</text>
   
-  <!-- Connection line -->
+
   <line x1="560" y1="350" x2="460" y2="290" stroke="#64748b" stroke-width="2"/>
   <text x="510" y="335" font-family="Arial, sans-serif" font-size="8" fill="#64748b" text-anchor="middle">B2B effektivt</text>
   
-  <!-- Traditional post -->
+
   <rect x="330" y="380" width="140" height="80" fill="url(#postGradient)" rx="15" filter="url(#shadow)"/>
   <rect x="375" y="395" width="50" height="35" fill="white" rx="3"/>
   <rect x="395" y="400" width="10" height="8" fill="#64748b"/>
@@ -106,10 +106,10 @@
   <text x="400" y="445" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white" text-anchor="middle">TRADISJONELL POST</text>
   <text x="400" y="457" font-family="Arial, sans-serif" font-size="9" fill="white" text-anchor="middle">Juridisk sikkerhet</text>
   
-  <!-- Connection line -->
+
   <line x1="400" y1="380" x2="400" y2="310" stroke="#64748b" stroke-width="2"/>
   
-  <!-- Statistics boxes -->
+
   <rect x="50" y="50" width="150" height="50" fill="#e0f2fe" stroke="#0891b2" stroke-width="1" rx="5"/>
   <text x="60" y="70" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#0e7490">Åpningsrate e-post:</text>
   <text x="60" y="85" font-family="Arial, sans-serif" font-size="10" fill="#0e7490">78% leser purringen</text>
@@ -126,7 +126,7 @@
   <text x="610" y="70" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#6d28d9">EHF effektivitet:</text>
   <text x="610" y="85" font-family="Arial, sans-serif" font-size="10" fill="#6d28d9">95% automatisering</text>
   
-  <!-- Cost comparison -->
+
   <text x="50" y="490" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#1e293b">Kostnad per purring:</text>
   <text x="180" y="490" font-family="Arial, sans-serif" font-size="9" fill="#64748b">E-post: 2 kr • SMS: 5 kr • Portal: 0 kr • EHF: 1 kr • Post: 15 kr</text>
 </svg>

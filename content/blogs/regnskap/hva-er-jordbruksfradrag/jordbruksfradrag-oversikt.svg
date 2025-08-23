@@ -10,18 +10,18 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)" />
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)" />
   <text x="400" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
     Jordbruksfradrag - Oversikt
   </text>
   
-  <!-- Main flow diagram -->
+
   <g transform="translate(50, 80)">
-    <!-- Step 1: Landbruksvirksomhet -->
+
     <rect x="0" y="0" width="180" height="80" fill="white" stroke="#4caf50" stroke-width="2" rx="10"/>
     <text x="90" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#2e7d32">
       Landbruksvirksomhet
@@ -33,11 +33,11 @@
       Registrert virksomhet
     </text>
     
-    <!-- Arrow 1 -->
+
     <polygon points="190,40 210,35 210,45" fill="#4caf50"/>
     <line x1="180" y1="40" x2="210" y2="40" stroke="#4caf50" stroke-width="2"/>
     
-    <!-- Step 2: Beregning -->
+
     <rect x="220" y="0" width="180" height="80" fill="white" stroke="#4caf50" stroke-width="2" rx="10"/>
     <text x="310" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#2e7d32">
       Beregning av Fradrag
@@ -49,11 +49,11 @@
       Maksimalbeløp
     </text>
     
-    <!-- Arrow 2 -->
+
     <polygon points="410,40 430,35 430,45" fill="#4caf50"/>
     <line x1="400" y1="40" x2="430" y2="40" stroke="#4caf50" stroke-width="2"/>
     
-    <!-- Step 3: Skattefradrag -->
+
     <rect x="440" y="0" width="180" height="80" fill="white" stroke="#4caf50" stroke-width="2" rx="10"/>
     <text x="530" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#2e7d32">
       Skattefradrag
@@ -66,9 +66,9 @@
     </text>
   </g>
   
-  <!-- Detailed breakdown -->
+
   <g transform="translate(50, 200)">
-    <!-- Left column: Vilkår -->
+
     <rect x="0" y="0" width="220" height="250" fill="white" stroke="#4caf50" stroke-width="2" rx="10"/>
     <rect x="0" y="0" width="220" height="40" fill="#4caf50" rx="10"/>
     <rect x="0" y="30" width="220" height="10" fill="#4caf50"/>
@@ -110,7 +110,7 @@
       Selvangivelse
     </text>
     
-    <!-- Middle column: Beregning -->
+
     <rect x="240" y="0" width="220" height="250" fill="white" stroke="#4caf50" stroke-width="2" rx="10"/>
     <rect x="240" y="0" width="220" height="40" fill="#4caf50" rx="10"/>
     <rect x="240" y="30" width="220" height="10" fill="#4caf50"/>
@@ -152,7 +152,7 @@
       • Kombinert drift
     </text>
     
-    <!-- Right column: Fordeler -->
+
     <rect x="480" y="0" width="220" height="250" fill="white" stroke="#4caf50" stroke-width="2" rx="10"/>
     <rect x="480" y="0" width="220" height="40" fill="#4caf50" rx="10"/>
     <rect x="480" y="30" width="220" height="10" fill="#4caf50"/>

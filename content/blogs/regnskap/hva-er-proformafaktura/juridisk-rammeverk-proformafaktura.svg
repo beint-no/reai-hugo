@@ -9,21 +9,21 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="35" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="24" font-weight="bold">Juridisk Rammeverk for Proformafaktura</text>
   
-  <!-- Center circle - Proforma status -->
+
   <circle cx="400" cy="200" r="80" fill="white" stroke="#ef4444" stroke-width="3" filter="url(#shadow)"/>
   <text x="400" y="190" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="14" font-weight="bold">PROFORMAFAKTURA</text>
   <text x="400" y="210" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="12" font-weight="bold">IKKE JURIDISK</text>
   <text x="400" y="225" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="12" font-weight="bold">BINDENDE</text>
   
-  <!-- Legal aspects around the center -->
+
   
-  <!-- Contract Law (top left) -->
+
   <rect x="120" y="80" width="160" height="100" rx="8" fill="#dbeafe" stroke="#3b82f6" stroke-width="2" filter="url(#shadow)"/>
   <text x="200" y="105" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold">KONTRAKTSRETT</text>
   <text x="130" y="125" fill="#3b82f6" font-family="Arial, sans-serif" font-size="10">• Tilbudsstatus</text>
@@ -31,7 +31,7 @@
   <text x="130" y="155" fill="#3b82f6" font-family="Arial, sans-serif" font-size="10">• Endringsforbeholt</text>
   <text x="130" y="170" fill="#3b82f6" font-family="Arial, sans-serif" font-size="10">• Gyldighetsperiode</text>
   
-  <!-- International Trade Law (top right) -->
+
   <rect x="520" y="80" width="160" height="100" rx="8" fill="#dcfce7" stroke="#10b981" stroke-width="2" filter="url(#shadow)"/>
   <text x="600" y="105" text-anchor="middle" fill="#065f46" font-family="Arial, sans-serif" font-size="14" font-weight="bold">INTERNASJONAL</text>
   <text x="600" y="120" text-anchor="middle" fill="#065f46" font-family="Arial, sans-serif" font-size="14" font-weight="bold">HANDELSRETT</text>
@@ -39,7 +39,7 @@
   <text x="530" y="155" fill="#10b981" font-family="Arial, sans-serif" font-size="10">• UN-konvensjoner</text>
   <text x="530" y="170" fill="#10b981" font-family="Arial, sans-serif" font-size="10">• Tollregelverk</text>
   
-  <!-- Documentation Law (left) -->
+
   <rect x="50" y="250" width="160" height="100" rx="8" fill="#fef3c7" stroke="#f59e0b" stroke-width="2" filter="url(#shadow)"/>
   <text x="130" y="275" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="14" font-weight="bold">DOKUMENTASJONS-</text>
   <text x="130" y="290" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="14" font-weight="bold">KRAV</text>
@@ -47,7 +47,7 @@
   <text x="60" y="325" fill="#f59e0b" font-family="Arial, sans-serif" font-size="10">• Oppbevaringskrav</text>
   <text x="60" y="340" fill="#f59e0b" font-family="Arial, sans-serif" font-size="10">• Arkivering</text>
   
-  <!-- Liability Law (right) -->
+
   <rect x="590" y="250" width="160" height="100" rx="8" fill="#f3e8ff" stroke="#8b5cf6" stroke-width="2" filter="url(#shadow)"/>
   <text x="670" y="275" text-anchor="middle" fill="#5b21b6" font-family="Arial, sans-serif" font-size="14" font-weight="bold">ANSVARSRETT</text>
   <text x="600" y="300" fill="#8b5cf6" font-family="Arial, sans-serif" font-size="10">• Begrenset ansvar</text>
@@ -55,7 +55,7 @@
   <text x="600" y="330" fill="#8b5cf6" font-family="Arial, sans-serif" font-size="10">• Force majeure</text>
   <text x="600" y="345" fill="#8b5cf6" font-family="Arial, sans-serif" font-size="10">• Disclaimer-klausuler</text>
   
-  <!-- Tax Law (bottom left) -->
+
   <rect x="120" y="380" width="160" height="100" rx="8" fill="#fecaca" stroke="#ef4444" stroke-width="2" filter="url(#shadow)"/>
   <text x="200" y="405" text-anchor="middle" fill="#991b1b" font-family="Arial, sans-serif" font-size="14" font-weight="bold">SKATTERETT</text>
   <text x="130" y="425" fill="#ef4444" font-family="Arial, sans-serif" font-size="10">• Ingen MVA-plikt</text>
@@ -63,7 +63,7 @@
   <text x="130" y="455" fill="#ef4444" font-family="Arial, sans-serif" font-size="10">• Tolldokument</text>
   <text x="130" y="470" fill="#ef4444" font-family="Arial, sans-serif" font-size="10">• Verdsettelsesgrunnlag</text>
   
-  <!-- Banking Law (bottom right) -->
+
   <rect x="520" y="380" width="160" height="100" rx="8" fill="#e0f2fe" stroke="#0891b2" stroke-width="2" filter="url(#shadow)"/>
   <text x="600" y="405" text-anchor="middle" fill="#164e63" font-family="Arial, sans-serif" font-size="14" font-weight="bold">BANKRETT</text>
   <text x="530" y="425" fill="#0891b2" font-family="Arial, sans-serif" font-size="10">• Rembursgrunnlag</text>
@@ -71,7 +71,7 @@
   <text x="530" y="455" fill="#0891b2" font-family="Arial, sans-serif" font-size="10">• UCP 600-regler</text>
   <text x="530" y="470" fill="#0891b2" font-family="Arial, sans-serif" font-size="10">• Compliance-krav</text>
   
-  <!-- Connection lines -->
+
   <line x1="280" y1="130" x2="320" y2="160" stroke="#6b7280" stroke-width="2" stroke-dasharray="5,5"/>
   <line x1="520" y1="130" x2="480" y2="160" stroke="#6b7280" stroke-width="2" stroke-dasharray="5,5"/>
   <line x1="210" y1="300" x2="320" y2="240" stroke="#6b7280" stroke-width="2" stroke-dasharray="5,5"/>
@@ -79,7 +79,7 @@
   <line x1="280" y1="430" x2="350" y2="270" stroke="#6b7280" stroke-width="2" stroke-dasharray="5,5"/>
   <line x1="520" y1="430" x2="450" y2="270" stroke="#6b7280" stroke-width="2" stroke-dasharray="5,5"/>
   
-  <!-- Key principles box -->
+
   <rect x="250" y="510" width="300" height="80" rx="8" fill="white" stroke="#374151" stroke-width="2" filter="url(#shadow)"/>
   <text x="400" y="535" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Viktige Juridiske Prinsipper</text>
   
@@ -87,7 +87,7 @@
   <text x="260" y="570" fill="#374151" font-family="Arial, sans-serif" font-size="11">2. Kan brukes som bevis på forhandlingsgrunnlag</text>
   <text x="260" y="585" fill="#374151" font-family="Arial, sans-serif" font-size="11">3. Må inneholde tydelige disclaimere og forbehold</text>
   
-  <!-- Warning banner -->
+
   <rect x="100" y="50" width="600" height="20" fill="#fef2f2" stroke="#ef4444" stroke-width="1" rx="4"/>
   <text x="400" y="64" text-anchor="middle" fill="#991b1b" font-family="Arial, sans-serif" font-size="12" font-weight="bold">⚠️ Proformafaktura er IKKE en juridisk bindende faktura eller kontrakt</text>
 </svg>

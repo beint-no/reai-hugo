@@ -1,13 +1,13 @@
 <svg width="600" height="400" viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="600" height="400" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="300" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">
     Det Norske Pensjonssystemet - Tre Søyler
   </text>
   
-  <!-- Søyle 1: Folketrygd -->
+
   <rect x="50" y="60" width="150" height="280" fill="#3498db" opacity="0.9" rx="5"/>
   <text x="125" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     1. FOLKETRYGD
@@ -16,7 +16,7 @@
     Offentlig &amp; Obligatorisk
   </text>
   
-  <!-- Folketrygd components -->
+
   <rect x="70" y="120" width="110" height="40" fill="rgba(255,255,255,0.2)" rx="3"/>
   <text x="125" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
     Garantipensjon
@@ -51,7 +51,7 @@
     • Skatter og avgifter
   </text>
   
-  <!-- Søyle 2: Tjenestepensjon -->
+
   <rect x="225" y="60" width="150" height="280" fill="#e74c3c" opacity="0.9" rx="5"/>
   <text x="300" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     2. TJENESTEPENSJON
@@ -60,7 +60,7 @@
     Arbeidsgiver &amp; Obligatorisk
   </text>
   
-  <!-- Tjenestepensjon components -->
+
   <rect x="245" y="120" width="110" height="40" fill="rgba(255,255,255,0.2)" rx="3"/>
   <text x="300" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
     Innskuddspensjon
@@ -95,7 +95,7 @@
     • Minimum innskudd 2%
   </text>
   
-  <!-- Søyle 3: Individuell sparing -->
+
   <rect x="400" y="60" width="150" height="280" fill="#27ae60" opacity="0.9" rx="5"/>
   <text x="475" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     3. EGEN SPARING
@@ -104,7 +104,7 @@
     Individuell &amp; Frivillig
   </text>
   
-  <!-- Egen sparing components -->
+
   <rect x="420" y="120" width="110" height="30" fill="rgba(255,255,255,0.2)" rx="3"/>
   <text x="475" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
     IPS
@@ -147,18 +147,18 @@
     • Skattefordeler
   </text>
   
-  <!-- Foundation -->
+
   <rect x="30" y="350" width="540" height="30" fill="#34495e" opacity="0.8" rx="5"/>
   <text x="300" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Trygg Pensjon Gjennom Mangfoldig Finansiering
   </text>
   
-  <!-- Arrows showing flow -->
+
   <path d="M 125 350 L 125 340" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
   <path d="M 300 350 L 300 340" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
   <path d="M 475 350 L 475 340" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>

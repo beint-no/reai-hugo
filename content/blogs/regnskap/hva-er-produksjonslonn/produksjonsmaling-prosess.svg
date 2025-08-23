@@ -6,21 +6,21 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#ffffff"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="50" fill="url(#processGrad)"/>
   <text x="400" y="32" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">Produksjonsmåling for Lønnberegning</text>
   
-  <!-- Process flow -->
+
   <text x="50" y="80" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1f2937">Måleprosess for Produksjonslønn</text>
   
-  <!-- Step 1: Data Collection -->
+
   <rect x="50" y="100" width="140" height="100" fill="#dbeafe" stroke="#3b82f6" stroke-width="2" rx="8"/>
   <text x="120" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e40af">1. DATAINNSAMLING</text>
   
-  <!-- Data sources -->
+
   <g transform="translate(65, 140)">
     <rect x="0" y="0" width="15" height="12" fill="#3b82f6" rx="2"/>
     <text x="20" y="10" font-family="Arial, sans-serif" font-size="9" fill="#1e40af">Produksjonssystemer</text>
@@ -38,10 +38,10 @@
     <text x="20" y="10" font-family="Arial, sans-serif" font-size="9" fill="#1e40af">Kvalitetskontroll</text>
   </g>
   
-  <!-- Arrow -->
+
   <line x1="190" y1="150" x2="220" y2="150" stroke="#6b7280" stroke-width="3" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 2: Validation -->
+
   <rect x="230" y="100" width="140" height="100" fill="#dcfce7" stroke="#16a34a" stroke-width="2" rx="8"/>
   <text x="300" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#15803d">2. VALIDERING</text>
   
@@ -62,10 +62,10 @@
     <text x="20" y="10" font-family="Arial, sans-serif" font-size="9" fill="#15803d">Kryss-referanse</text>
   </g>
   
-  <!-- Arrow -->
+
   <line x1="370" y1="150" x2="400" y2="150" stroke="#6b7280" stroke-width="3" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 3: Calculation -->
+
   <rect x="410" y="100" width="140" height="100" fill="#fef3c7" stroke="#f59e0b" stroke-width="2" rx="8"/>
   <text x="480" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#92400e">3. BEREGNING</text>
   
@@ -86,10 +86,10 @@
     <text x="20" y="10" font-family="Arial, sans-serif" font-size="9" fill="#92400e">Total lønn</text>
   </g>
   
-  <!-- Arrow -->
+
   <line x1="550" y1="150" x2="580" y2="150" stroke="#6b7280" stroke-width="3" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 4: Documentation -->
+
   <rect x="590" y="100" width="140" height="100" fill="#fce7f3" stroke="#ec4899" stroke-width="2" rx="8"/>
   <text x="660" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#be185d">4. DOKUMENTASJON</text>
   
@@ -110,10 +110,10 @@
     <text x="20" y="10" font-family="Arial, sans-serif" font-size="9" fill="#be185d">Rapporter</text>
   </g>
   
-  <!-- Measurement categories -->
+
   <text x="50" y="240" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1f2937">Målekategorier og Metoder</text>
   
-  <!-- Quantitative measures -->
+
   <rect x="50" y="260" width="340" height="120" fill="#f1f5f9" stroke="#64748b" stroke-width="2" rx="8"/>
   <text x="220" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#334155">KVANTITATIVE MÅL</text>
   
@@ -141,7 +141,7 @@
     <text x="130" y="9" font-family="Arial, sans-serif" font-size="11" fill="#374151">Prosjekter, serviceoppgaver</text>
   </g>
   
-  <!-- Qualitative measures -->
+
   <rect x="410" y="260" width="340" height="120" fill="#f1f5f9" stroke="#64748b" stroke-width="2" rx="8"/>
   <text x="580" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#334155">KVALITATIVE MÅL</text>
   
@@ -169,7 +169,7 @@
     <text x="120" y="10" font-family="Arial, sans-serif" font-size="11" fill="#374151">Forbedringsforslag, nye ideer</text>
   </g>
   
-  <!-- Key considerations -->
+
   <rect x="50" y="400" width="700" height="80" fill="#fefce8" stroke="#eab308" stroke-width="2" rx="10"/>
   <text x="400" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#a16207">Viktige Hensyn ved Produksjonsmåling</text>
   

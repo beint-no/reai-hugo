@@ -28,15 +28,15 @@
     </marker>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#0066cc">
     Digitale Løsninger for Forskuddstrekk
   </text>
   
-  <!-- Central System Hub -->
+
   <g transform="translate(300, 80)">
     <circle cx="100" cy="80" r="60" fill="url(#digitalGradient)" filter="url(#shadow)"/>
     <text x="100" y="75" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
@@ -46,13 +46,13 @@
       Digital Hub
     </text>
     
-    <!-- Computer icon -->
+
     <rect x="85" y="95" width="30" height="20" fill="white" rx="2"/>
     <rect x="87" y="97" width="26" height="14" fill="#0066cc"/>
     <rect x="92" y="117" width="16" height="3" fill="white"/>
   </g>
   
-  <!-- Automated Functions -->
+
   <g transform="translate(50, 200)">
     <rect x="0" y="0" width="180" height="100" fill="url(#automationGradient)" rx="10" filter="url(#shadow)"/>
     <text x="90" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
@@ -72,13 +72,13 @@
       • Varsling om frister
     </text>
     
-    <!-- Gear icon -->
+
     <circle cx="150" cy="70" r="12" fill="white"/>
     <circle cx="150" cy="70" r="8" fill="none" stroke="#28a745" stroke-width="2"/>
     <circle cx="150" cy="70" r="4" fill="#28a745"/>
   </g>
   
-  <!-- Integration with Tax Authority -->
+
   <g transform="translate(280, 200)">
     <rect x="0" y="0" width="180" height="100" fill="url(#integrationGradient)" rx="10" filter="url(#shadow)"/>
     <text x="90" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
@@ -98,7 +98,7 @@
       • Sanntidsoppdateringer
     </text>
     
-    <!-- Connection icon -->
+
     <rect x="140" y="60" width="25" height="20" fill="white" rx="3"/>
     <circle cx="145" cy="65" r="2" fill="#6f42c1"/>
     <circle cx="155" cy="65" r="2" fill="#6f42c1"/>
@@ -106,7 +106,7 @@
     <circle cx="155" cy="75" r="2" fill="#6f42c1"/>
   </g>
   
-  <!-- Bank Integration -->
+
   <g transform="translate(510, 200)">
     <rect x="0" y="0" width="180" height="100" fill="url(#digitalGradient)" rx="10" filter="url(#shadow)"/>
     <text x="90" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
@@ -126,7 +126,7 @@
       • Kontoutskrifter
     </text>
     
-    <!-- Bank icon -->
+
     <rect x="140" y="60" width="25" height="20" fill="white" rx="2"/>
     <rect x="142" y="55" width="21" height="5" fill="white"/>
     <rect x="147" y="50" width="11" height="5" fill="white"/>
@@ -135,18 +135,18 @@
     <rect x="155" y="65" width="3" height="10" fill="#0066cc"/>
   </g>
   
-  <!-- Connection Lines -->
+
   <path d="M350 160 L140 200" stroke="#0066cc" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M380 160 L370 200" stroke="#0066cc" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M420 160 L600 200" stroke="#0066cc" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Benefits Section -->
+
   <g transform="translate(50, 330)">
     <text x="0" y="20" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#0066cc">
       Fordeler med Digitalisering:
     </text>
     
-    <!-- Efficiency -->
+
     <g transform="translate(0, 40)">
       <circle cx="15" cy="15" r="12" fill="#28a745"/>
       <text x="15" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">⚡</text>
@@ -154,7 +154,7 @@
       <text x="40" y="25" font-family="Arial, sans-serif" font-size="10" fill="#666">Automatisering reduserer manuelt arbeid</text>
     </g>
     
-    <!-- Accuracy -->
+
     <g transform="translate(250, 40)">
       <circle cx="15" cy="15" r="12" fill="#0066cc"/>
       <text x="15" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">✓</text>
@@ -162,7 +162,7 @@
       <text x="40" y="25" font-family="Arial, sans-serif" font-size="10" fill="#666">Automatiske beregninger og kontroller</text>
     </g>
     
-    <!-- Compliance -->
+
     <g transform="translate(500, 40)">
       <circle cx="15" cy="15" r="12" fill="#6f42c1"/>
       <text x="15" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">📋</text>
@@ -171,7 +171,7 @@
     </g>
   </g>
   
-  <!-- Future Developments -->
+
   <g transform="translate(50, 420)">
     <text x="0" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#0066cc">
       Fremtidige Utviklinger:
@@ -194,7 +194,7 @@
     </text>
   </g>
   
-  <!-- Key Statistics -->
+
   <g transform="translate(550, 80)">
     <rect x="0" y="0" width="200" height="100" fill="#fff" stroke="#0066cc" stroke-width="2" rx="8"/>
     <text x="100" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0066cc">

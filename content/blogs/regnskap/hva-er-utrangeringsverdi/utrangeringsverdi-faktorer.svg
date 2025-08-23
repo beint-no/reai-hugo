@@ -22,15 +22,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
     Faktorer som Påvirker Utrangeringsverdi
   </text>
   
-  <!-- Central circle -->
+
   <circle cx="400" cy="300" r="80" fill="url(#centerGradient)"/>
   <text x="400" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Utrangeringsverdi
@@ -39,7 +39,7 @@
     (Restverdi)
   </text>
   
-  <!-- Factor 1: Technical Factors -->
+
   <g transform="translate(150, 120)">
     <rect x="0" y="0" width="140" height="100" rx="10" fill="url(#factor1)"/>
     <text x="70" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -58,11 +58,11 @@
       • Teknologi
     </text>
     
-    <!-- Connection line -->
+
     <line x1="140" y1="70" x2="320" y2="250" stroke="#28a745" stroke-width="3"/>
   </g>
   
-  <!-- Factor 2: Market Factors -->
+
   <g transform="translate(510, 120)">
     <rect x="0" y="0" width="140" height="100" rx="10" fill="url(#factor2)"/>
     <text x="70" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -81,11 +81,11 @@
       • Geografi
     </text>
     
-    <!-- Connection line -->
+
     <line x1="0" y1="70" x2="480" y2="250" stroke="#fd7e14" stroke-width="3"/>
   </g>
   
-  <!-- Factor 3: Economic Factors -->
+
   <g transform="translate(150, 430)">
     <rect x="0" y="0" width="140" height="100" rx="10" fill="url(#factor3)"/>
     <text x="70" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -104,11 +104,11 @@
       • Konjunkturer
     </text>
     
-    <!-- Connection line -->
+
     <line x1="140" y1="30" x2="320" y2="350" stroke="#dc3545" stroke-width="3"/>
   </g>
   
-  <!-- Factor 4: Regulatory Factors -->
+
   <g transform="translate(510, 430)">
     <rect x="0" y="0" width="140" height="100" rx="10" fill="url(#factor4)"/>
     <text x="70" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -127,11 +127,11 @@
       • Standarder
     </text>
     
-    <!-- Connection line -->
+
     <line x1="0" y1="30" x2="480" y2="350" stroke="#17a2b8" stroke-width="3"/>
   </g>
   
-  <!-- Bottom note -->
+
   <text x="400" y="580" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
     Alle faktorer må vurderes samlet for korrekt estimering av utrangeringsverdi
   </text>

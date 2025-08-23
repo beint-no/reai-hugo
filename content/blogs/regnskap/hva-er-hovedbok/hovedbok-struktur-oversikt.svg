@@ -1,13 +1,13 @@
 <svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Hovedbokens Struktur
   </text>
   
-  <!-- Central Hovedbok -->
+
   <rect x="325" y="200" width="150" height="100" fill="#3498db" stroke="#2980b9" stroke-width="3" rx="10"/>
   <text x="400" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
     HOVEDBOK
@@ -19,7 +19,7 @@
     transaksjoner
   </text>
   
-  <!-- Input sources (left side) -->
+
   <rect x="50" y="80" width="120" height="60" fill="#e74c3c" stroke="#c0392b" stroke-width="2" rx="5"/>
   <text x="110" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     Salgsjournal
@@ -60,14 +60,14 @@
     Justeringer
   </text>
   
-  <!-- Arrows from inputs to hovedbok -->
+
   <path d="M 170 110 L 320 230" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 170 190 L 320 240" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 170 270 L 320 250" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 170 350 L 320 260" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 170 430 L 320 270" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Output reports (right side) -->
+
   <rect x="630" y="80" width="120" height="60" fill="#27ae60" stroke="#229954" stroke-width="2" rx="5"/>
   <text x="690" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     Balanse
@@ -108,20 +108,20 @@
     Plan vs faktisk
   </text>
   
-  <!-- Arrows from hovedbok to outputs -->
+
   <path d="M 475 230 L 625 110" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 475 240 L 625 190" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 475 250 L 625 270" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 475 260 L 625 350" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 475 270 L 625 430" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Account structure inside hovedbok -->
+
   <rect x="340" y="340" width="120" height="180" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2" rx="5"/>
   <text x="400" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
     Kontostruktur
   </text>
   
-  <!-- Account examples -->
+
   <rect x="350" y="370" width="100" height="20" fill="#3498db" fill-opacity="0.3"/>
   <text x="400" y="383" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">1000-1999 Anlegg</text>
   
@@ -140,7 +140,7 @@
   <rect x="350" y="495" width="100" height="20" fill="#e67e22" fill-opacity="0.3"/>
   <text x="400" y="508" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">6000-6999 Kostnader</text>
   
-  <!-- Control processes -->
+
   <ellipse cx="400" cy="550" rx="80" ry="30" fill="#f1c40f" stroke="#f39c12" stroke-width="2"/>
   <text x="400" y="545" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
     Kontrollprosesser
@@ -149,7 +149,7 @@
     Avstemming &amp; validering
   </text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#2c3e50"/>

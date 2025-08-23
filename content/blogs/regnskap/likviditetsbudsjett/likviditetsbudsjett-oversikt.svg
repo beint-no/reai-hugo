@@ -6,15 +6,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="#212529">
     Likviditetsbudsjettets rolle i finansiell planlegging
   </text>
   
-  <!-- Central liquidity budget -->
+
   <rect x="300" y="200" width="200" height="100" fill="#007bff" stroke="#0056b3" stroke-width="2" rx="10"/>
   <text x="400" y="235" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
     LIKVIDITETS-
@@ -26,9 +26,9 @@
     Kontantstrømplanlegging
   </text>
   
-  <!-- Connected elements -->
+
   
-  <!-- Top left: Strategic planning -->
+
   <rect x="50" y="80" width="150" height="80" fill="#28a745" stroke="#1e7e34" stroke-width="2" rx="8"/>
   <text x="125" y="110" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
     STRATEGISK
@@ -40,7 +40,7 @@
     Langsiktige mål
   </text>
   
-  <!-- Top right: Risk management -->
+
   <rect x="600" y="80" width="150" height="80" fill="#dc3545" stroke="#c82333" stroke-width="2" rx="8"/>
   <text x="675" y="110" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
     RISIKO-
@@ -52,7 +52,7 @@
     Likviditetsrisiko
   </text>
   
-  <!-- Left: Cash inflow -->
+
   <rect x="50" y="220" width="150" height="60" fill="#28a745" stroke="#1e7e34" stroke-width="2" rx="8"/>
   <text x="125" y="245" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
     INNBETALINGER
@@ -61,7 +61,7 @@
     Salg &amp; fordringer
   </text>
   
-  <!-- Right: Cash outflow -->
+
   <rect x="600" y="220" width="150" height="60" fill="#dc3545" stroke="#c82333" stroke-width="2" rx="8"/>
   <text x="675" y="245" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
     UTBETALINGER
@@ -70,7 +70,7 @@
     Kostnader &amp; investeringer
   </text>
   
-  <!-- Bottom left: Financing -->
+
   <rect x="50" y="360" width="150" height="80" fill="#6f42c1" stroke="#5a32a3" stroke-width="2" rx="8"/>
   <text x="125" y="390" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
     FINANSIERING
@@ -82,7 +82,7 @@
     Egenkapital
   </text>
   
-  <!-- Bottom right: Investment -->
+
   <rect x="600" y="360" width="150" height="80" fill="#fd7e14" stroke="#e55a00" stroke-width="2" rx="8"/>
   <text x="675" y="390" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
     INVESTERING
@@ -94,7 +94,7 @@
     Arbeidskapital
   </text>
   
-  <!-- Bottom center: Reporting -->
+
   <rect x="325" y="360" width="150" height="80" fill="#17a2b8" stroke="#138496" stroke-width="2" rx="8"/>
   <text x="400" y="390" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
     RAPPORTERING
@@ -106,35 +106,35 @@
     oppstilling
   </text>
   
-  <!-- Arrows connecting to central budget -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#6c757d"/>
     </marker>
   </defs>
   
-  <!-- From strategic planning -->
+
   <path d="M 200 140 Q 250 170 300 220" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- From risk management -->
+
   <path d="M 600 140 Q 550 170 500 220" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- From cash inflow -->
+
   <path d="M 200 250 L 300 250" stroke="#6c757d" stroke-width="2" marker-end="url(#arrowhead)"/>
   
-  <!-- To cash outflow -->
+
   <path d="M 500 250 L 600 250" stroke="#6c757d" stroke-width="2" marker-end="url(#arrowhead)"/>
   
-  <!-- To financing -->
+
   <path d="M 300 280 Q 250 320 200 360" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- To investment -->
+
   <path d="M 500 280 Q 550 320 600 360" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- To reporting -->
+
   <path d="M 400 300 L 400 360" stroke="#6c757d" stroke-width="2" marker-end="url(#arrowhead)"/>
   
-  <!-- Key benefits at bottom -->
+
   <text x="400" y="480" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#495057">
     Sikrer likviditet • Optimaliserer kontantstrøm • Støtter beslutninger
   </text>

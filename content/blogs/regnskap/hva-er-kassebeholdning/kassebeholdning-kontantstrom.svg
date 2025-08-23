@@ -18,15 +18,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#333">
     Kassebeholdningens Rolle i Kontantstrømanalyse
   </text>
   
-  <!-- Central Cash Holdings Circle -->
+
   <circle cx="400" cy="250" r="80" fill="url(#cashGrad)" stroke="#6A1B9A" stroke-width="3"/>
   <text x="400" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#fff">
     KASSEBEHOLDNING
@@ -38,7 +38,7 @@
     Bankinnskudd
   </text>
   
-  <!-- Operational Cash Flow Section -->
+
   <rect x="50" y="80" width="200" height="120" rx="10" fill="url(#operationalGrad)" stroke="#2E7D32" stroke-width="2"/>
   <text x="150" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#fff">
     OPERASJONELLE
@@ -47,7 +47,7 @@
     KONTANTSTRØMMER
   </text>
   
-  <!-- Operational details -->
+
   <text x="150" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#fff">
     + Innbetalinger fra kunder
   </text>
@@ -61,7 +61,7 @@
     - Skatter og avgifter
   </text>
   
-  <!-- Investment Cash Flow Section -->
+
   <rect x="550" y="80" width="200" height="120" rx="10" fill="url(#investmentGrad)" stroke="#F57C00" stroke-width="2"/>
   <text x="650" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#fff">
     INVESTERINGS-
@@ -70,7 +70,7 @@
     KONTANTSTRØMMER
   </text>
   
-  <!-- Investment details -->
+
   <text x="650" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#fff">
     - Kjøp av anleggsmidler
   </text>
@@ -84,7 +84,7 @@
     + Utbytte mottatt
   </text>
   
-  <!-- Financing Cash Flow Section -->
+
   <rect x="300" y="380" width="200" height="100" rx="10" fill="url(#financingGrad)" stroke="#1565C0" stroke-width="2"/>
   <text x="400" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#fff">
     FINANSIERINGS-
@@ -93,7 +93,7 @@
     KONTANTSTRØMMER
   </text>
   
-  <!-- Financing details -->
+
   <text x="400" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#fff">
     + Lånopptak    - Låneinnfrielse
   </text>
@@ -101,7 +101,7 @@
     + Kapitalinnhenting    - Utbytteutbetaling
   </text>
   
-  <!-- Arrows showing cash flow impact -->
+
   <defs>
     <marker id="arrowGreen" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#4CAF50"/>
@@ -114,7 +114,7 @@
     </marker>
   </defs>
   
-  <!-- Operational arrow -->
+
   <path d="M 250 140 Q 300 180 340 220" stroke="#4CAF50" stroke-width="3" fill="none" marker-end="url(#arrowGreen)"/>
   <text x="280" y="175" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#4CAF50">
     Påvirker
@@ -123,7 +123,7 @@
     kassebeholdning
   </text>
   
-  <!-- Investment arrow -->
+
   <path d="M 550 140 Q 500 180 460 220" stroke="#FF9800" stroke-width="3" fill="none" marker-end="url(#arrowOrange)"/>
   <text x="480" y="175" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#FF9800">
     Påvirker
@@ -132,7 +132,7 @@
     kassebeholdning
   </text>
   
-  <!-- Financing arrow -->
+
   <path d="M 400 380 Q 400 350 400 330" stroke="#2196F3" stroke-width="3" fill="none" marker-end="url(#arrowBlue)"/>
   <text x="420" y="355" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2196F3">
     Påvirker
@@ -141,7 +141,7 @@
     kassebeholdning
   </text>
   
-  <!-- Cash flow equation -->
+
   <rect x="50" y="300" width="700" height="60" rx="10" fill="#fff" stroke="#ddd" stroke-width="2"/>
   <text x="400" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">
     KONTANTSTRØMOPPSTILLING
@@ -153,7 +153,7 @@
     Sluttbalanse kassebeholdning = Inngående kassebeholdning + Endring i kassebeholdning
   </text>
   
-  <!-- Example calculation boxes -->
+
   <rect x="50" y="220" width="180" height="70" rx="5" fill="#E8F5E8" stroke="#4CAF50" stroke-width="1"/>
   <text x="140" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2E7D32">
     Eksempel Operasjonelle:
@@ -182,7 +182,7 @@
     = -250 000 NOK
   </text>
   
-  <!-- Net change indicator -->
+
   <rect x="320" y="50" width="160" height="50" rx="5" fill="#E3F2FD" stroke="#2196F3" stroke-width="1"/>
   <text x="400" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1565C0">
     Netto endring kassebeholdning:

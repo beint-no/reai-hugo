@@ -10,13 +10,13 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8fafc"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1f2937">Sammenheng mellom Andre Rettigheter og Tilknyttede Kontoer</text>
   
-  <!-- Central account 1060 -->
+
   <g transform="translate(325, 250)">
     <rect x="0" y="0" width="150" height="80" fill="url(#mainGradient)" stroke="#5b21b6" stroke-width="3" rx="10"/>
     <text x="75" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">KONTO 1060</text>
@@ -24,9 +24,9 @@
     <text x="75" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Immaterielle eiendeler</text>
   </g>
   
-  <!-- Related accounts -->
+
   
-  <!-- Konto 1000 -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="130" height="70" fill="url(#relatedGradient)" stroke="#1d4ed8" stroke-width="2" rx="8"/>
     <text x="65" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">KONTO 1000</text>
@@ -34,7 +34,7 @@
     <text x="65" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">utvikling</text>
   </g>
   
-  <!-- Konto 1020 -->
+
   <g transform="translate(220, 80)">
     <rect x="0" y="0" width="130" height="70" fill="url(#relatedGradient)" stroke="#1d4ed8" stroke-width="2" rx="8"/>
     <text x="65" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">KONTO 1020</text>
@@ -42,7 +42,7 @@
     <text x="65" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Offentlige tillatelser</text>
   </g>
   
-  <!-- Konto 1030 -->
+
   <g transform="translate(390, 80)">
     <rect x="0" y="0" width="130" height="70" fill="url(#relatedGradient)" stroke="#1d4ed8" stroke-width="2" rx="8"/>
     <text x="65" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">KONTO 1030</text>
@@ -50,7 +50,7 @@
     <text x="65" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Tekniske oppfinnelser</text>
   </g>
   
-  <!-- Konto 1040 -->
+
   <g transform="translate(560, 80)">
     <rect x="0" y="0" width="130" height="70" fill="url(#relatedGradient)" stroke="#1d4ed8" stroke-width="2" rx="8"/>
     <text x="65" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">KONTO 1040</text>
@@ -58,7 +58,7 @@
     <text x="65" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Bruksrettigheter</text>
   </g>
   
-  <!-- Konto 1050 -->
+
   <g transform="translate(50, 420)">
     <rect x="0" y="0" width="130" height="70" fill="url(#relatedGradient)" stroke="#1d4ed8" stroke-width="2" rx="8"/>
     <text x="65" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">KONTO 1050</text>
@@ -66,7 +66,7 @@
     <text x="65" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Merkevarerettigheter</text>
   </g>
   
-  <!-- Konto 1070 -->
+
   <g transform="translate(220, 420)">
     <rect x="0" y="0" width="130" height="70" fill="url(#relatedGradient)" stroke="#1d4ed8" stroke-width="2" rx="8"/>
     <text x="65" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">KONTO 1070</text>
@@ -74,7 +74,7 @@
     <text x="65" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Merverdier</text>
   </g>
   
-  <!-- Cost accounts -->
+
   <g transform="translate(500, 380)">
     <rect x="0" y="0" width="140" height="50" fill="#fef3c7" stroke="#d97706" stroke-width="2" rx="8"/>
     <text x="70" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#92400e">KONTO 6031</text>
@@ -87,9 +87,9 @@
     <text x="70" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#dc2626">Nedskrivning</text>
   </g>
   
-  <!-- Connection lines -->
+
   <g stroke="#64748b" stroke-width="2" fill="none">
-    <!-- From 1060 to related accounts -->
+
     <path d="M 350 250 L 150 150" />
     <path d="M 375 250 L 285 150" />
     <path d="M 400 250 L 455 150" />
@@ -97,19 +97,19 @@
     <path d="M 350 330 L 150 420" />
     <path d="M 375 330 L 285 420" />
     
-    <!-- To cost accounts -->
+
     <path d="M 475 280 L 500 400" />
     <path d="M 475 300 L 500 470" />
   </g>
   
-  <!-- Labels for relationships -->
+
   <text x="200" y="200" font-family="Arial, sans-serif" font-size="10" fill="#64748b" transform="rotate(-35 200 200)">Liknende rettigheter</text>
   <text x="500" y="200" font-family="Arial, sans-serif" font-size="10" fill="#64748b" transform="rotate(35 500 200)">Liknende rettigheter</text>
   <text x="200" y="380" font-family="Arial, sans-serif" font-size="10" fill="#64748b" transform="rotate(35 200 380)">Liknende rettigheter</text>
   <text x="490" y="340" font-family="Arial, sans-serif" font-size="10" fill="#64748b" transform="rotate(10 490 340)">Amortisering</text>
   <text x="490" y="380" font-family="Arial, sans-serif" font-size="10" fill="#64748b" transform="rotate(-10 490 380)">Nedskrivning</text>
   
-  <!-- Key differences section -->
+
   <g transform="translate(50, 520)">
     <text x="0" y="0" font-family="Arial, sans-serif" font-size="12" fill="#374151" font-weight="bold">Nøkkelforskjeller:</text>
     <text x="0" y="20" font-family="Arial, sans-serif" font-size="10" fill="#374151">
@@ -119,7 +119,7 @@
     </text>
   </g>
   
-  <!-- Examples section -->
+
   <g transform="translate(400, 520)">
     <text x="0" y="0" font-family="Arial, sans-serif" font-size="10" fill="#374151">
       <tspan x="0" dy="0">Eksempler på 1060-rettigheter:</tspan>

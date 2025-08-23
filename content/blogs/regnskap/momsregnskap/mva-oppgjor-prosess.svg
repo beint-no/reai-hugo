@@ -6,15 +6,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="20" font-weight="bold">
     MVA-oppgjør og Rapporteringsprosess
   </text>
   
-  <!-- Step 1: Monthly reconciliation -->
+
   <rect x="50" y="70" width="150" height="100" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="10"/>
   <text x="125" y="95" text-anchor="middle" fill="#1976d2" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     1. Månedlig
@@ -32,10 +32,10 @@
     • Avstem kontoer
   </text>
   
-  <!-- Arrow 1 -->
+
   <path d="M 210 120 L 240 120" stroke="#666" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
   
-  <!-- Step 2: Calculate net VAT -->
+
   <rect x="250" y="70" width="150" height="100" fill="#fff3e0" stroke="#f57c00" stroke-width="2" rx="10"/>
   <text x="325" y="95" text-anchor="middle" fill="#f57c00" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     2. Beregn
@@ -53,10 +53,10 @@
     = Netto MVA
   </text>
   
-  <!-- Arrow 2 -->
+
   <path d="M 410 120 L 440 120" stroke="#666" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
   
-  <!-- Step 3: Prepare VAT return -->
+
   <rect x="450" y="70" width="150" height="100" fill="#e8f5e8" stroke="#4caf50" stroke-width="2" rx="10"/>
   <text x="525" y="95" text-anchor="middle" fill="#4caf50" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     3. Utarbeid
@@ -74,10 +74,10 @@
     • Kvalitetssikre
   </text>
   
-  <!-- Arrow down from step 3 -->
+
   <path d="M 525 180 L 525 210" stroke="#666" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
   
-  <!-- Step 4: Submit to tax authorities -->
+
   <rect x="450" y="220" width="150" height="100" fill="#fce4ec" stroke="#e91e63" stroke-width="2" rx="10"/>
   <text x="525" y="245" text-anchor="middle" fill="#e91e63" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     4. Lever til
@@ -95,10 +95,10 @@
     • Elektronisk
   </text>
   
-  <!-- Arrow left from step 4 -->
+
   <path d="M 440 270 L 410 270" stroke="#666" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
   
-  <!-- Step 5: Payment -->
+
   <rect x="250" y="220" width="150" height="100" fill="#f3e5f5" stroke="#9c27b0" stroke-width="2" rx="10"/>
   <text x="325" y="245" text-anchor="middle" fill="#9c27b0" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     5. Betaling
@@ -116,10 +116,10 @@
     • eller manuelt
   </text>
   
-  <!-- Arrow left from step 5 -->
+
   <path d="M 240 270 L 210 270" stroke="#666" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
   
-  <!-- Step 6: Documentation -->
+
   <rect x="50" y="220" width="150" height="100" fill="#fff8e1" stroke="#ffc107" stroke-width="2" rx="10"/>
   <text x="125" y="245" text-anchor="middle" fill="#f57c00" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     6. Arkivering
@@ -137,10 +137,10 @@
     • Oppdater regnskap
   </text>
   
-  <!-- Arrow up from step 6 to step 1 (cycle) -->
+
   <path d="M 125 210 L 125 180" stroke="#666" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
   
-  <!-- Central info box -->
+
   <rect x="250" y="350" width="300" height="80" fill="#f8f9fa" stroke="#6c757d" stroke-width="2" rx="10"/>
   <text x="400" y="375" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     Rapporteringsfrister
@@ -155,13 +155,13 @@
     Årlig: 31. januar (under 1 mill. kr)
   </text>
   
-  <!-- Bottom warning -->
+
   <rect x="100" y="450" width="600" height="30" fill="#fff3cd" stroke="#ffc107" stroke-width="1" rx="5"/>
   <text x="400" y="470" text-anchor="middle" fill="#856404" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     ⚠️ Forsinkelsesgebyr ved for sen levering eller betaling
   </text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
       <polygon points="0 0, 8 3, 0 6" fill="#666"/>

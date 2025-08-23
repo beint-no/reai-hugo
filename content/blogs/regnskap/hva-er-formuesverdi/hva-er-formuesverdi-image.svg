@@ -1,18 +1,18 @@
 <svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#2c3e50">
     Formuesverdi
   </text>
   
-  <!-- Subtitle -->
+
   <text x="400" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#7f8c8d">
     Verdivurdering av eiendeler og formue
   </text>
   
-  <!-- Main formula box -->
+
   <rect x="200" y="100" width="400" height="80" fill="#3498db" stroke="#2980b9" stroke-width="2" rx="10"/>
   <text x="400" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
     Formuesverdi =
@@ -21,13 +21,13 @@
     Eiendeler - Gjeld
   </text>
   
-  <!-- Assets section -->
+
   <rect x="50" y="220" width="300" height="200" fill="#e8f5e8" stroke="#27ae60" stroke-width="2" rx="8"/>
   <text x="200" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#27ae60">
     EIENDELER
   </text>
   
-  <!-- Asset items -->
+
   <circle cx="80" cy="280" r="8" fill="#27ae60"/>
   <text x="100" y="285" font-family="Arial, sans-serif" font-size="14" fill="#2c3e50">Eiendom og fast eiendom</text>
   
@@ -43,13 +43,13 @@
   <circle cx="80" cy="400" r="8" fill="#27ae60"/>
   <text x="100" y="405" font-family="Arial, sans-serif" font-size="14" fill="#2c3e50">Andre verdifulle eiendeler</text>
   
-  <!-- Liabilities section -->
+
   <rect x="450" y="220" width="300" height="200" fill="#fdf2f2" stroke="#e74c3c" stroke-width="2" rx="8"/>
   <text x="600" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#e74c3c">
     GJELD
   </text>
   
-  <!-- Liability items -->
+
   <circle cx="480" cy="280" r="8" fill="#e74c3c"/>
   <text x="500" y="285" font-family="Arial, sans-serif" font-size="14" fill="#2c3e50">Boliglån og pantelån</text>
   
@@ -65,17 +65,17 @@
   <circle cx="480" cy="400" r="8" fill="#e74c3c"/>
   <text x="500" y="405" font-family="Arial, sans-serif" font-size="14" fill="#2c3e50">Annen gjeld</text>
   
-  <!-- Arrow pointing down -->
+
   <path d="M 400 430 L 400 450" stroke="#34495e" stroke-width="3" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>
     </marker>
   </defs>
   
-  <!-- Result box -->
+
   <rect x="250" y="460" width="300" height="30" fill="#f39c12" stroke="#e67e22" stroke-width="2" rx="5"/>
   <text x="400" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     = Netto Formuesverdi

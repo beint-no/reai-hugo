@@ -1,13 +1,13 @@
 <svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     ERP 2FA Integrasjon
   </text>
   
-  <!-- ERP System -->
+
   <rect x="50" y="80" width="200" height="120" rx="8" fill="#3498db" opacity="0.8"/>
   <text x="150" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     ERP System
@@ -22,7 +22,7 @@
     Regnskapsdata
   </text>
   
-  <!-- Identity Provider -->
+
   <rect x="300" y="80" width="200" height="120" rx="8" fill="#e74c3c" opacity="0.8"/>
   <text x="400" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     Identity Provider
@@ -37,7 +37,7 @@
     Role-based Access
   </text>
   
-  <!-- Active Directory -->
+
   <rect x="550" y="80" width="200" height="120" rx="8" fill="#9b59b6" opacity="0.8"/>
   <text x="650" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     Active Directory
@@ -52,9 +52,9 @@
     SSO Integration
   </text>
   
-  <!-- 2FA Methods -->
+
   <g transform="translate(50, 250)">
-    <!-- TOTP App -->
+
     <rect x="0" y="0" width="140" height="100" rx="8" fill="#27ae60" opacity="0.8"/>
     <text x="70" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
       TOTP App
@@ -69,7 +69,7 @@
       30-sekunders koder
     </text>
     
-    <!-- SMS -->
+
     <rect x="160" y="0" width="140" height="100" rx="8" fill="#f39c12" opacity="0.8"/>
     <text x="230" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
       SMS 2FA
@@ -84,7 +84,7 @@
       Nødsituasjoner
     </text>
     
-    <!-- Hardware Key -->
+
     <rect x="320" y="0" width="140" height="100" rx="8" fill="#e67e22" opacity="0.8"/>
     <text x="390" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
       Hardware Key
@@ -99,7 +99,7 @@
       Høyeste sikkerhet
     </text>
     
-    <!-- Biometric -->
+
     <rect x="480" y="0" width="140" height="100" rx="8" fill="#8e44ad" opacity="0.8"/>
     <text x="550" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
       Biometri
@@ -115,9 +115,9 @@
     </text>
   </g>
   
-  <!-- User Types -->
+
   <g transform="translate(50, 400)">
-    <!-- Regnskapssjef -->
+
     <circle cx="70" cy="40" r="35" fill="#2c3e50" opacity="0.8"/>
     <text x="70" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
       👨‍💼
@@ -129,7 +129,7 @@
       Hardware Key
     </text>
     
-    <!-- Bokholder -->
+
     <circle cx="200" cy="40" r="35" fill="#16a085" opacity="0.8"/>
     <text x="200" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
       👩‍💻
@@ -141,7 +141,7 @@
       TOTP App
     </text>
     
-    <!-- Regnskapsfører -->
+
     <circle cx="330" cy="40" r="35" fill="#2980b9" opacity="0.8"/>
     <text x="330" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
       👨‍💼
@@ -153,7 +153,7 @@
       SMS/App
     </text>
     
-    <!-- Assistent -->
+
     <circle cx="460" cy="40" r="35" fill="#27ae60" opacity="0.8"/>
     <text x="460" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
       👨‍🎓
@@ -166,32 +166,32 @@
     </text>
   </g>
   
-  <!-- Connection arrows -->
-  <!-- ERP to IdP -->
+
+
   <path d="M 250 140 L 300 140" stroke="#34495e" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <text x="275" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#34495e">
     SAML
   </text>
   
-  <!-- IdP to AD -->
+
   <path d="M 500 140 L 550 140" stroke="#34495e" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <text x="525" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#34495e">
     LDAP
   </text>
   
-  <!-- IdP to 2FA methods -->
+
   <path d="M 400 200 L 120 250" stroke="#34495e" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 400 200 L 230 250" stroke="#34495e" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 400 200 L 390 250" stroke="#34495e" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 400 200 L 550 250" stroke="#34495e" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- 2FA to users -->
+
   <path d="M 230 350 L 70 400" stroke="#34495e" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 230 350 L 200 400" stroke="#34495e" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 390 350 L 330 400" stroke="#34495e" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 230 350 L 460 400" stroke="#34495e" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Security indicators -->
+
   <g transform="translate(680, 250)">
     <rect x="0" y="0" width="100" height="80" rx="8" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2"/>
     <text x="50" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
@@ -208,7 +208,7 @@
     </text>
   </g>
   
-  <!-- Compliance box -->
+
   <g transform="translate(600, 400)">
     <rect x="0" y="0" width="150" height="100" rx="8" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2"/>
     <text x="75" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
@@ -228,14 +228,14 @@
     </text>
   </g>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>
     </marker>
   </defs>
   
-  <!-- Footer -->
+
   <text x="400" y="580" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">
     Modern ERP-systemer med integrert 2FA for robust regnskapssikkerhet
   </text>

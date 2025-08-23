@@ -18,19 +18,19 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#F8F9FA"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2C3E50">ERP Evalueringsprosess</text>
   
-  <!-- Central Evaluation Hub -->
+
   <circle cx="400" cy="300" r="70" fill="url(#evaluationGradient)" stroke="#7B1FA2" stroke-width="3"/>
   <text x="400" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">ERP</text>
   <text x="400" y="308" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">EVALUERING</text>
   <text x="400" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Systematisk vurdering</text>
   
-  <!-- Functional Requirements -->
+
   <rect x="100" y="120" width="180" height="120" rx="15" fill="url(#functionalGradient)" stroke="#388E3C" stroke-width="2"/>
   <text x="190" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">FUNKSJONELLE</text>
   <text x="190" y="162" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">KRAV</text>
@@ -39,7 +39,7 @@
   <text x="190" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Integrasjonsmuligheter</text>
   <text x="190" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Skalerbarhet</text>
   
-  <!-- Checklist icon -->
+
   <rect x="140" y="130" width="20" height="25" rx="2" fill="white" opacity="0.9"/>
   <line x1="145" y1="138" x2="155" y2="138" stroke="#4CAF50" stroke-width="2"/>
   <line x1="145" y1="143" x2="155" y2="143" stroke="#4CAF50" stroke-width="2"/>
@@ -48,7 +48,7 @@
   <circle cx="143" cy="143" r="1.5" fill="#4CAF50"/>
   <circle cx="143" cy="148" r="1.5" fill="#4CAF50"/>
   
-  <!-- Technical Requirements -->
+
   <rect x="520" y="120" width="180" height="120" rx="15" fill="url(#technicalGradient)" stroke="#1976D2" stroke-width="2"/>
   <text x="610" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">TEKNISKE</text>
   <text x="610" y="162" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">KRAV</text>
@@ -57,12 +57,12 @@
   <text x="610" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Ytelse og kapasitet</text>
   <text x="610" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Mobilstøtte</text>
   
-  <!-- Gear icon -->
+
   <circle cx="650" cy="145" r="12" fill="white" opacity="0.9"/>
   <polygon points="650,133 654,137 650,141 646,137" fill="#2196F3"/>
   <circle cx="650" cy="145" r="6" fill="#2196F3"/>
   
-  <!-- Vendor Requirements -->
+
   <rect x="100" y="360" width="180" height="120" rx="15" fill="url(#vendorGradient)" stroke="#F57C00" stroke-width="2"/>
   <text x="190" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">LEVERANDØR-</text>
   <text x="190" y="402" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">KRAV</text>
@@ -71,14 +71,14 @@
   <text x="190" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Økonomisk stabilitet</text>
   <text x="190" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Partnernettverk</text>
   
-  <!-- Building/company icon -->
+
   <rect x="140" y="370" width="20" height="25" rx="2" fill="white" opacity="0.9"/>
   <rect x="145" y="375" width="3" height="15" fill="#FF9800"/>
   <rect x="150" y="375" width="3" height="15" fill="#FF9800"/>
   <rect x="155" y="375" width="3" height="15" fill="#FF9800"/>
   <rect x="140" y="390" width="20" height="3" fill="#FF9800"/>
   
-  <!-- Evaluation Process -->
+
   <rect x="520" y="360" width="180" height="120" rx="15" fill="#7B1FA2" stroke="#4A148C" stroke-width="2"/>
   <text x="610" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">EVALUERINGS-</text>
   <text x="610" y="402" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">PROSESS</text>
@@ -87,7 +87,7 @@
   <text x="610" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Referansesjekk</text>
   <text x="610" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">• Proof of Concept</text>
   
-  <!-- Process flow icon -->
+
   <rect x="640" y="370" width="25" height="20" fill="white" opacity="0.9"/>
   <circle cx="645" cy="375" r="2" fill="#7B1FA2"/>
   <circle cx="650" cy="380" r="2" fill="#7B1FA2"/>
@@ -97,26 +97,26 @@
   <line x1="650" y1="380" x2="655" y2="385" stroke="#7B1FA2" stroke-width="1"/>
   <line x1="655" y1="385" x2="660" y2="380" stroke="#7B1FA2" stroke-width="1"/>
   
-  <!-- Connection lines from center to criteria -->
+
   <line x1="340" y1="260" x2="280" y2="180" stroke="#9C27B0" stroke-width="3" marker-end="url(#arrowhead)"/>
   <line x1="460" y1="260" x2="520" y2="180" stroke="#9C27B0" stroke-width="3" marker-end="url(#arrowhead)"/>
   <line x1="340" y1="340" x2="280" y2="420" stroke="#9C27B0" stroke-width="3" marker-end="url(#arrowhead)"/>
   <line x1="460" y1="340" x2="520" y2="420" stroke="#9C27B0" stroke-width="3" marker-end="url(#arrowhead)"/>
   
-  <!-- Evaluation steps -->
+
   <text x="300" y="215" font-family="Arial, sans-serif" font-size="9" fill="#9C27B0" font-weight="bold">Vekt: 40%</text>
   <text x="480" y="215" font-family="Arial, sans-serif" font-size="9" fill="#9C27B0" font-weight="bold">Vekt: 30%</text>
   <text x="300" y="385" font-family="Arial, sans-serif" font-size="9" fill="#9C27B0" font-weight="bold">Vekt: 20%</text>
   <text x="480" y="385" font-family="Arial, sans-serif" font-size="9" fill="#9C27B0" font-weight="bold">Vekt: 10%</text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#9C27B0"/>
     </marker>
   </defs>
   
-  <!-- Evaluation matrix -->
+
   <rect x="50" y="520" width="700" height="60" fill="white" stroke="#DDD" stroke-width="1" rx="5"/>
   <text x="400" y="540" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2C3E50">Evalueringsmatrise:</text>
   <text x="100" y="555" font-family="Arial, sans-serif" font-size="10" fill="#666">1. Funksjonelle krav (40%) - Dekker systemet bedriftens behov?</text>
@@ -124,7 +124,7 @@
   <text x="450" y="555" font-family="Arial, sans-serif" font-size="10" fill="#666">3. Leverandørkrav (20%) - Kan leverandøren støtte oss langsiktig?</text>
   <text x="450" y="570" font-family="Arial, sans-serif" font-size="10" fill="#666">4. Evalueringsprosess (10%) - Grundig testing og validering</text>
   
-  <!-- Scoring indicators -->
+
   <circle cx="320" cy="200" r="4" fill="#4CAF50"/>
   <text x="330" y="205" font-family="Arial, sans-serif" font-size="10" fill="#4CAF50" font-weight="bold">Kritisk</text>
   
@@ -137,7 +137,7 @@
   <circle cx="480" cy="480" r="4" fill="#7B1FA2"/>
   <text x="490" y="485" font-family="Arial, sans-serif" font-size="10" fill="#7B1FA2" font-weight="bold">Validering</text>
   
-  <!-- Decision framework -->
+
   <text x="50" y="80" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2C3E50">Beslutningsramme:</text>
   <text x="50" y="100" font-family="Arial, sans-serif" font-size="11" fill="#666">1. Behovsanalyse</text>
   <text x="50" y="115" font-family="Arial, sans-serif" font-size="11" fill="#666">2. Markedsundersøkelse</text>
@@ -150,7 +150,7 @@
   <text x="650" y="115" font-family="Arial, sans-serif" font-size="11" fill="#666">• Anbefaling til ledelsen</text>
   <text x="650" y="130" font-family="Arial, sans-serif" font-size="11" fill="#666">• Implementeringsplan</text>
   
-  <!-- Norwegian flag accent -->
+
   <rect x="720" y="50" width="30" height="20" fill="#BA0C2F"/>
   <rect x="720" y="60" width="30" height="4" fill="white"/>
   <rect x="728" y="50" width="4" height="20" fill="white"/>

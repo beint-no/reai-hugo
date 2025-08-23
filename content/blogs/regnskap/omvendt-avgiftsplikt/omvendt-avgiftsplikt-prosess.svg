@@ -17,15 +17,15 @@
     </marker>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="700" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
     Prosess for Omvendt Avgiftsplikt
   </text>
   
-  <!-- Step 1: Receive Invoice -->
+
   <rect x="50" y="70" width="300" height="80" fill="url(#stepGradient)" stroke="#0056b3" stroke-width="2" rx="10"/>
   <text x="200" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     1. Motta Faktura
@@ -37,10 +37,10 @@
     UTEN norsk MVA
   </text>
   
-  <!-- Arrow 1 -->
+
   <path d="M 200 150 L 200 180" stroke="#495057" stroke-width="3" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 2: Identify Reverse Charge -->
+
   <rect x="50" y="190" width="300" height="80" fill="url(#stepGradient)" stroke="#0056b3" stroke-width="2" rx="10"/>
   <text x="200" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     2. Identifiser Omvendt Avgiftsplikt
@@ -52,10 +52,10 @@
     av omvendt avgiftsplikt
   </text>
   
-  <!-- Arrow 2 -->
+
   <path d="M 200 270 L 200 300" stroke="#495057" stroke-width="3" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 3: Calculate MVA -->
+
   <rect x="50" y="310" width="300" height="80" fill="url(#actionGradient)" stroke="#1e7e34" stroke-width="2" rx="10"/>
   <text x="200" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     3. Beregn MVA
@@ -67,10 +67,10 @@
     100 000 kr × 25% = 25 000 kr
   </text>
   
-  <!-- Arrow 3 -->
+
   <path d="M 350 350 L 450 350" stroke="#495057" stroke-width="3" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 4: Book Transaction -->
+
   <rect x="450" y="70" width="300" height="80" fill="url(#actionGradient)" stroke="#1e7e34" stroke-width="2" rx="10"/>
   <text x="600" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     4. Bokfør Transaksjonen
@@ -82,10 +82,10 @@
     Kredit: Utgående MVA + Leverandørgjeld
   </text>
   
-  <!-- Arrow 4 -->
+
   <path d="M 600 150 L 600 180" stroke="#495057" stroke-width="3" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 5: Report in MVA Return -->
+
   <rect x="450" y="190" width="300" height="80" fill="url(#actionGradient)" stroke="#1e7e34" stroke-width="2" rx="10"/>
   <text x="600" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     5. Rapporter i MVA-melding
@@ -97,10 +97,10 @@
     Vanlig kode: Inngående MVA
   </text>
   
-  <!-- Arrow 5 -->
+
   <path d="M 600 270 L 600 300" stroke="#495057" stroke-width="3" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 6: Submit and Pay -->
+
   <rect x="450" y="310" width="300" height="80" fill="url(#actionGradient)" stroke="#1e7e34" stroke-width="2" rx="10"/>
   <text x="600" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     6. Send inn og Betal
@@ -112,13 +112,13 @@
     (hvis full fradragsrett)
   </text>
   
-  <!-- Example box -->
+
   <rect x="100" y="420" width="600" height="200" fill="white" stroke="#dee2e6" stroke-width="2" rx="10"/>
   <text x="400" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#495057">
     Praktisk Eksempel
   </text>
   
-  <!-- Example details -->
+
   <rect x="120" y="460" width="250" height="140" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="5"/>
   <text x="245" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#495057">
     Faktura fra Danmark
@@ -143,7 +143,7 @@
     • Rapportere i MVA-melding
   </text>
   
-  <!-- Booking example -->
+
   <rect x="390" y="460" width="290" height="140" fill="#e8f5e8" stroke="#28a745" stroke-width="1" rx="5"/>
   <text x="535" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2e7d32">
     Bokføring
@@ -168,7 +168,7 @@
     Kode 81: 100 000 kr (grunnlag)
   </text>
   
-  <!-- Important notes -->
+
   <rect x="150" y="640" width="500" height="50" fill="#fff3cd" stroke="#ffeaa7" stroke-width="1" rx="5"/>
   <text x="400" y="660" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#856404">
     Viktig å Huske

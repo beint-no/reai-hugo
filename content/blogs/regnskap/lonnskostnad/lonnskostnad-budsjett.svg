@@ -10,24 +10,24 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="50" fill="url(#headerGradient)"/>
   <text x="400" y="30" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="20" font-weight="bold">
     Budsjettplanlegging for Lønnskostnader
   </text>
   
-  <!-- Main content -->
+
   <g transform="translate(50, 70)">
-    <!-- Current year vs next year comparison -->
+
     <text x="350" y="30" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       Budsjettsammenligning: 2024 vs 2025
     </text>
     
-    <!-- Chart bars -->
-    <!-- 2024 bars -->
+
+
     <rect x="100" y="60" width="60" height="200" fill="#28a745" stroke="#1e7e34" stroke-width="2" rx="3"/>
     <text x="130" y="50" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       2024
@@ -36,7 +36,7 @@
       7.2M kr
     </text>
     
-    <!-- 2025 bars -->
+
     <rect x="200" y="50" width="60" height="220" fill="#dc3545" stroke="#c82333" stroke-width="2" rx="3"/>
     <text x="230" y="40" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       2025
@@ -45,19 +45,19 @@
       7.7M kr
     </text>
     
-    <!-- Growth arrow -->
+
     <polygon points="280,150 300,140 300,145 320,145 320,155 300,155 300,160" fill="#dc3545"/>
     <text x="340" y="155" fill="#dc3545" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       +6.9% økning
     </text>
     
-    <!-- Budget factors -->
+
     <rect x="450" y="60" width="280" height="200" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="5"/>
     <text x="590" y="85" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Budsjettfaktorer 2025
     </text>
     
-    <!-- Factor list -->
+
     <text x="470" y="110" fill="#495057" font-family="Arial, sans-serif" font-size="12">
       • Lønnsøkning: 3.5% (tariffoppgjør)
     </text>
@@ -80,74 +80,74 @@
       • Inflasjonsjustering: 2.1%
     </text>
     
-    <!-- Monthly breakdown chart -->
+
     <text x="350" y="330" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Månedlig Lønnskostnad 2025 (tusen kr)
     </text>
     
-    <!-- Monthly bars -->
+
     <g transform="translate(50, 350)">
-      <!-- Jan -->
+
       <rect x="20" y="0" width="25" height="60" fill="#0066cc" rx="2"/>
       <text x="32" y="75" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="10">Jan</text>
       <text x="32" y="87" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="9">640</text>
       
-      <!-- Feb -->
+
       <rect x="60" y="5" width="25" height="55" fill="#0066cc" rx="2"/>
       <text x="72" y="75" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="10">Feb</text>
       <text x="72" y="87" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="9">620</text>
       
-      <!-- Mar -->
+
       <rect x="100" y="0" width="25" height="60" fill="#0066cc" rx="2"/>
       <text x="112" y="75" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="10">Mar</text>
       <text x="112" y="87" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="9">640</text>
       
-      <!-- Apr -->
+
       <rect x="140" y="0" width="25" height="60" fill="#0066cc" rx="2"/>
       <text x="152" y="75" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="10">Apr</text>
       <text x="152" y="87" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="9">640</text>
       
-      <!-- May -->
+
       <rect x="180" y="10" width="25" height="50" fill="#0066cc" rx="2"/>
       <text x="192" y="75" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="10">Mai</text>
       <text x="192" y="87" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="9">600</text>
       
-      <!-- Jun -->
+
       <rect x="220" y="-10" width="25" height="70" fill="#28a745" rx="2"/>
       <text x="232" y="75" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="10">Jun</text>
       <text x="232" y="87" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="9">680</text>
       
-      <!-- Jul -->
+
       <rect x="260" y="-15" width="25" height="75" fill="#ffc107" rx="2"/>
       <text x="272" y="75" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="10">Jul</text>
       <text x="272" y="87" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="9">700</text>
       
-      <!-- Aug -->
+
       <rect x="300" y="5" width="25" height="55" fill="#0066cc" rx="2"/>
       <text x="312" y="75" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="10">Aug</text>
       <text x="312" y="87" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="9">620</text>
       
-      <!-- Sep -->
+
       <rect x="340" y="0" width="25" height="60" fill="#0066cc" rx="2"/>
       <text x="352" y="75" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="10">Sep</text>
       <text x="352" y="87" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="9">640</text>
       
-      <!-- Oct -->
+
       <rect x="380" y="0" width="25" height="60" fill="#0066cc" rx="2"/>
       <text x="392" y="75" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="10">Okt</text>
       <text x="392" y="87" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="9">640</text>
       
-      <!-- Nov -->
+
       <rect x="420" y="0" width="25" height="60" fill="#0066cc" rx="2"/>
       <text x="432" y="75" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="10">Nov</text>
       <text x="432" y="87" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="9">640</text>
       
-      <!-- Dec -->
+
       <rect x="460" y="-20" width="25" height="80" fill="#dc3545" rx="2"/>
       <text x="472" y="75" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="10">Des</text>
       <text x="472" y="87" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="9">720</text>
       
-      <!-- Legend -->
+
       <rect x="520" y="10" width="15" height="15" fill="#0066cc"/>
       <text x="545" y="22" fill="#495057" font-family="Arial, sans-serif" font-size="11">Normal måned</text>
       

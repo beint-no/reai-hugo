@@ -14,15 +14,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#comparisonBg)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#333">
     NRS vs IFRS Sammenligning
   </text>
   
-  <!-- NRS Column -->
+
   <rect x="50" y="60" width="320" height="500" fill="white" stroke="#0066cc" stroke-width="3" rx="10"/>
   <rect x="50" y="60" width="320" height="60" fill="url(#nrsGrad)" rx="10"/>
   <text x="210" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
@@ -32,7 +32,7 @@
     Norsk regnskapsstandard
   </text>
   
-  <!-- NRS Content -->
+
   <g transform="translate(70, 140)">
     <text x="0" y="0" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0066cc">
       Målgruppe:
@@ -108,7 +108,7 @@
     </text>
   </g>
   
-  <!-- IFRS Column -->
+
   <rect x="430" y="60" width="320" height="500" fill="white" stroke="#28a745" stroke-width="3" rx="10"/>
   <rect x="430" y="60" width="320" height="60" fill="url(#ifrsGrad)" rx="10"/>
   <text x="590" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
@@ -118,7 +118,7 @@
     International Financial Reporting Standards
   </text>
   
-  <!-- IFRS Content -->
+
   <g transform="translate(450, 140)">
     <text x="0" y="0" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#28a745">
       Målgruppe:
@@ -194,13 +194,13 @@
     </text>
   </g>
   
-  <!-- Comparison arrows and vs -->
+
   <circle cx="400" cy="320" r="30" fill="white" stroke="#666" stroke-width="2"/>
   <text x="400" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#666">
     VS
   </text>
   
-  <!-- Arrows pointing from center to each side -->
+
   <polygon points="370,320 350,315 350,325" fill="#0066cc"/>
   <polygon points="430,320 450,315 450,325" fill="#28a745"/>
 </svg>

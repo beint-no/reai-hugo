@@ -14,15 +14,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
     Beregningsgrunnlag for Arbeidsgiveravgift
   </text>
   
-  <!-- Left side - Included items -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="320" height="350" fill="white" stroke="#28a745" stroke-width="3" rx="10"/>
     <rect x="0" y="0" width="320" height="50" fill="url(#includedGradient)" rx="10"/>
@@ -30,7 +30,7 @@
       ✓ AVGIFTSPLIKTIGE YTELSER
     </text>
     
-    <!-- Included items list -->
+
     <g transform="translate(20, 70)">
       <g transform="translate(0, 0)">
         <circle cx="8" cy="8" r="4" fill="#28a745"/>
@@ -104,7 +104,7 @@
     </g>
   </g>
   
-  <!-- Right side - Excluded items -->
+
   <g transform="translate(430, 80)">
     <rect x="0" y="0" width="320" height="350" fill="white" stroke="#dc3545" stroke-width="3" rx="10"/>
     <rect x="0" y="0" width="320" height="50" fill="url(#excludedGradient)" rx="10"/>
@@ -112,7 +112,7 @@
       ✗ IKKE AVGIFTSPLIKTIGE
     </text>
     
-    <!-- Excluded items list -->
+
     <g transform="translate(20, 70)">
       <g transform="translate(0, 0)">
         <circle cx="8" cy="8" r="4" fill="#dc3545"/>
@@ -176,7 +176,7 @@
     </g>
   </g>
   
-  <!-- Bottom calculation example -->
+
   <g transform="translate(50, 450)">
     <rect x="0" y="0" width="700" height="40" fill="#0066cc" rx="5"/>
     <text x="350" y="15" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">

@@ -14,15 +14,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Profittens Plass i Finansrapportene
   </text>
   
-  <!-- Resultatregnskap -->
+
   <rect x="50" y="60" width="200" height="300" rx="15" fill="url(#blueGrad)" stroke="#2196F3" stroke-width="2"/>
   <text x="150" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     RESULTATREGNSKAP
@@ -31,7 +31,7 @@
     (P&amp;L Statement)
   </text>
   
-  <!-- Income statement items -->
+
   <rect x="70" y="120" width="160" height="25" rx="5" fill="#BBDEFB" stroke="#2196F3" stroke-width="1"/>
   <text x="80" y="135" font-family="Arial, sans-serif" font-size="10" fill="#1565C0">Salgsinntekter</text>
   <text x="220" y="135" text-anchor="end" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#1565C0">10.000.000</text>
@@ -64,7 +64,7 @@
   <text x="80" y="345" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">= ÅRETS RESULTAT</text>
   <text x="220" y="345" text-anchor="end" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">1.770.000</text>
   
-  <!-- Balanse -->
+
   <rect x="300" y="60" width="200" height="300" rx="15" fill="url(#greenGrad)" stroke="#4CAF50" stroke-width="2"/>
   <text x="400" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     BALANSE
@@ -73,7 +73,7 @@
     (Balance Sheet)
   </text>
   
-  <!-- Assets side -->
+
   <text x="320" y="130" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2E7D32">
     AKTIVA
   </text>
@@ -89,7 +89,7 @@
   <text x="325" y="202" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="white">Sum aktiva</text>
   <text x="475" y="202" text-anchor="end" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="white">15.000.000</text>
   
-  <!-- Equity and liabilities -->
+
   <text x="320" y="230" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2E7D32">
     PASSIVA
   </text>
@@ -113,7 +113,7 @@
   <text x="325" y="352" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="white">Sum passiva</text>
   <text x="475" y="352" text-anchor="end" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="white">15.000.000</text>
   
-  <!-- Kontantstrømoppstilling -->
+
   <rect x="550" y="60" width="200" height="300" rx="15" fill="url(#orangeGrad)" stroke="#FF9800" stroke-width="2"/>
   <text x="650" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     KONTANTSTRØM
@@ -122,7 +122,7 @@
     (Cash Flow)
   </text>
   
-  <!-- Cash flow from operations -->
+
   <text x="570" y="130" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#E65100">
     Drift:
   </text>
@@ -142,7 +142,7 @@
   <text x="575" y="227" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="#E65100">= Kontantstrøm drift</text>
   <text x="725" y="227" text-anchor="end" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="#E65100">1.870.000</text>
   
-  <!-- Cash flow from investments -->
+
   <text x="570" y="250" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#E65100">
     Investering:
   </text>
@@ -150,7 +150,7 @@
   <text x="575" y="272" font-family="Arial, sans-serif" font-size="9" fill="#E65100">Kjøp anleggsmidler</text>
   <text x="725" y="272" text-anchor="end" font-family="Arial, sans-serif" font-size="9" fill="#E65100">-500.000</text>
   
-  <!-- Cash flow from financing -->
+
   <text x="570" y="295" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#E65100">
     Finansiering:
   </text>
@@ -162,11 +162,11 @@
   <text x="575" y="342" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="white">Netto kontantstrøm</text>
   <text x="725" y="342" text-anchor="end" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="white">570.000</text>
   
-  <!-- Arrows showing relationships -->
+
   <path d="M250 342 Q275 370 300 290" stroke="#4CAF50" stroke-width="3" fill="none" marker-end="url(#greenArrow)"/>
   <path d="M500 152 Q525 130 550 152" stroke="#FF9800" stroke-width="3" fill="none" marker-end="url(#orangeArrow)"/>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="greenArrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
       <path d="M0,0 L0,6 L9,3 z" fill="#4CAF50"/>
@@ -176,13 +176,13 @@
     </marker>
   </defs>
   
-  <!-- Relationship explanations -->
+
   <rect x="50" y="400" width="700" height="180" rx="15" fill="#f0f8ff" stroke="#4169E1" stroke-width="2"/>
   <text x="400" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#4169E1">
     Sammenhenger mellom Rapportene
   </text>
   
-  <!-- Three columns of explanations -->
+
   <text x="70" y="450" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
     Resultat → Balanse:
   </text>
@@ -231,7 +231,7 @@
     • Komplett økonomisk bilde
   </text>
   
-  <!-- Key insight box -->
+
   <rect x="100" y="530" width="600" height="40" rx="8" fill="#4CAF50" stroke="#2E7D32" stroke-width="2"/>
   <text x="400" y="545" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     Nøkkelinnsikt: Profitt påvirker alle tre hovedrapporter og må analyseres helhetlig

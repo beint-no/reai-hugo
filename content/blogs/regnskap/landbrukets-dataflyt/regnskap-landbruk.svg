@@ -18,21 +18,21 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="750" height="500" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="375" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c3e50">
     Regnskapsmessig Behandling av Landbruksdata
   </text>
   
-  <!-- Data Input Section -->
+
   <rect x="50" y="70" width="200" height="150" rx="10" fill="url(#dataGrad)" stroke="#2980b9" stroke-width="2"/>
   <text x="150" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     DATAINNGANG
   </text>
   
-  <!-- Data types -->
+
   <rect x="65" y="110" width="170" height="100" rx="5" fill="rgba(255,255,255,0.2)" stroke="white" stroke-width="1"/>
   <text x="150" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
     • Produksjonsdata
@@ -53,13 +53,13 @@
     • Miljødata
   </text>
   
-  <!-- Processing Section -->
+
   <rect x="300" y="70" width="200" height="150" rx="10" fill="url(#processGrad)" stroke="#229954" stroke-width="2"/>
   <text x="400" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     REGNSKAPSBEHANDLING
   </text>
   
-  <!-- Processing steps -->
+
   <rect x="315" y="110" width="170" height="100" rx="5" fill="rgba(255,255,255,0.2)" stroke="white" stroke-width="1"/>
   <text x="400" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
     • Automatisk kontering
@@ -80,13 +80,13 @@
     • Kvalitetskontroll
   </text>
   
-  <!-- Output Section -->
+
   <rect x="550" y="70" width="150" height="150" rx="10" fill="url(#reportGrad)" stroke="#c0392b" stroke-width="2"/>
   <text x="625" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     RAPPORTER
   </text>
   
-  <!-- Report types -->
+
   <rect x="565" y="110" width="120" height="100" rx="5" fill="rgba(255,255,255,0.2)" stroke="white" stroke-width="1"/>
   <text x="625" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
     • Resultatregnskap
@@ -107,7 +107,7 @@
     • ESG-rapporter
   </text>
   
-  <!-- Flow arrows -->
+
   <defs>
     <marker id="accArrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#34495e" />
@@ -117,15 +117,15 @@
   <line x1="250" y1="145" x2="300" y2="145" stroke="#34495e" stroke-width="3" marker-end="url(#accArrow)"/>
   <line x1="500" y1="145" x2="550" y2="145" stroke="#34495e" stroke-width="3" marker-end="url(#accArrow)"/>
   
-  <!-- Detailed accounting processes -->
+
   <rect x="50" y="260" width="650" height="220" rx="10" fill="white" stroke="#bdc3c7" stroke-width="2"/>
   <text x="375" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
     DETALJERTE REGNSKAPSPROSESSER
   </text>
   
-  <!-- Process grid -->
+
   <g transform="translate(70, 305)">
-    <!-- Column 1: Cost Allocation -->
+
     <rect x="0" y="0" width="150" height="120" rx="5" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
     <text x="75" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
       KOSTNADSFORDELING
@@ -152,7 +152,7 @@
       - Vedlikehold
     </text>
     
-    <!-- Column 2: Asset Valuation -->
+
     <rect x="170" y="0" width="150" height="120" rx="5" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
     <text x="245" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
       VERDIVURDERING
@@ -179,7 +179,7 @@
       - Teknologi &amp; utstyr
     </text>
     
-    <!-- Column 3: Revenue Recognition -->
+
     <rect x="340" y="0" width="150" height="120" rx="5" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
     <text x="415" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
       INNTEKTSFØRING
@@ -206,7 +206,7 @@
       - Investeringsstøtte
     </text>
     
-    <!-- Column 4: Compliance -->
+
     <rect x="510" y="0" width="120" height="120" rx="5" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
     <text x="570" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
       COMPLIANCE
@@ -234,7 +234,7 @@
     </text>
   </g>
   
-  <!-- Data flow indicators -->
+
   <circle cx="275" cy="125" r="3" fill="#3498db">
     <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
   </circle>
@@ -242,7 +242,7 @@
     <animate attributeName="opacity" values="1;0.3;1" dur="2s" begin="1s" repeatCount="indefinite"/>
   </circle>
   
-  <!-- Bottom note -->
+
   <text x="375" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#7f8c8d">
     Automatisert dataflyt sikrer nøyaktig og effektiv regnskapsbehandling
   </text>

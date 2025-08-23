@@ -18,28 +18,28 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">Hjemmekontor Dokumentasjonsflyt</text>
   <text x="400" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#7f8c8d">Nødvendig dokumentasjon for hjemmekontorfradrag</text>
   
-  <!-- Work Documentation Section -->
+
   <g transform="translate(50, 100)">
     <rect x="0" y="0" width="200" height="150" fill="url(#workGradient)" stroke="#2980b9" stroke-width="2" rx="10"/>
     <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">Arbeidsforhold</text>
     
-    <!-- Work documents -->
+
     <g transform="translate(20, 40)">
-      <!-- Contract -->
+
       <rect x="0" y="0" width="30" height="20" fill="white" stroke="#2980b9" stroke-width="1"/>
       <line x1="5" y1="5" x2="25" y2="5" stroke="#3498db" stroke-width="1"/>
       <line x1="5" y1="10" x2="20" y2="10" stroke="#3498db" stroke-width="0.5"/>
       <line x1="5" y1="15" x2="25" y2="15" stroke="#3498db" stroke-width="0.5"/>
       <text x="40" y="12" font-family="Arial, sans-serif" font-size="12" fill="white">Arbeidskontrakt</text>
       
-      <!-- Time registration -->
+
       <g transform="translate(0, 30)">
         <rect x="0" y="0" width="30" height="20" fill="white" stroke="#2980b9" stroke-width="1"/>
         <circle cx="8" cy="10" r="6" fill="white" stroke="#3498db" stroke-width="1"/>
@@ -48,7 +48,7 @@
         <text x="40" y="12" font-family="Arial, sans-serif" font-size="12" fill="white">Timeregistrering</text>
       </g>
       
-      <!-- Employer confirmation -->
+
       <g transform="translate(0, 60)">
         <rect x="0" y="0" width="30" height="20" fill="white" stroke="#2980b9" stroke-width="1"/>
         <circle cx="15" cy="10" r="8" fill="#27ae60"/>
@@ -58,14 +58,14 @@
     </g>
   </g>
   
-  <!-- Cost Documentation Section -->
+
   <g transform="translate(300, 100)">
     <rect x="0" y="0" width="200" height="150" fill="url(#costGradient)" stroke="#c0392b" stroke-width="2" rx="10"/>
     <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">Kostnadsdokumentasjon</text>
     
-    <!-- Cost documents -->
+
     <g transform="translate(20, 40)">
-      <!-- Receipts -->
+
       <rect x="0" y="0" width="25" height="35" fill="white" stroke="#c0392b" stroke-width="1"/>
       <line x1="5" y1="8" x2="20" y2="8" stroke="#e74c3c" stroke-width="1"/>
       <line x1="5" y1="13" x2="15" y2="13" stroke="#e74c3c" stroke-width="0.5"/>
@@ -74,7 +74,7 @@
       <text x="35" y="20" font-family="Arial, sans-serif" font-size="12" fill="white">Kvitteringer &amp;</text>
       <text x="35" y="32" font-family="Arial, sans-serif" font-size="12" fill="white">Fakturaer</text>
       
-      <!-- Utility bills -->
+
       <g transform="translate(0, 50)">
         <rect x="0" y="0" width="30" height="20" fill="white" stroke="#c0392b" stroke-width="1"/>
         <polygon points="5,5 10,2 25,2 25,18 5,18" fill="#f39c12"/>
@@ -83,7 +83,7 @@
         <text x="40" y="12" font-family="Arial, sans-serif" font-size="12" fill="white">Strøm- &amp; kommunale avgifter</text>
       </g>
       
-      <!-- Insurance -->
+
       <g transform="translate(0, 80)">
         <rect x="0" y="0" width="30" height="20" fill="white" stroke="#c0392b" stroke-width="1"/>
         <circle cx="15" cy="10" r="7" fill="white" stroke="#e74c3c" stroke-width="2"/>
@@ -93,14 +93,14 @@
     </g>
   </g>
   
-  <!-- Storage Requirements Section -->
+
   <g transform="translate(550, 100)">
     <rect x="0" y="0" width="200" height="150" fill="url(#storageGradient)" stroke="#229954" stroke-width="2" rx="10"/>
     <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">Oppbevaring</text>
     
-    <!-- Storage requirements -->
+
     <g transform="translate(20, 50)">
-      <!-- Filing cabinet -->
+
       <rect x="0" y="0" width="40" height="60" fill="white" stroke="#27ae60" stroke-width="2"/>
       <rect x="5" y="10" width="30" height="8" fill="#27ae60"/>
       <rect x="5" y="25" width="30" height="8" fill="#27ae60"/>
@@ -115,12 +115,12 @@
     </g>
   </g>
   
-  <!-- Process Flow -->
+
   <g transform="translate(100, 300)">
     <rect x="0" y="0" width="600" height="120" fill="white" stroke="#34495e" stroke-width="2" rx="10"/>
     <text x="300" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">Dokumentasjonsprosess</text>
     
-    <!-- Step 1 -->
+
     <g transform="translate(30, 50)">
       <circle cx="25" cy="25" r="20" fill="#3498db" stroke="#2980b9" stroke-width="2"/>
       <text x="25" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">1</text>
@@ -128,12 +128,12 @@
       <text x="25" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">dokumenter</text>
     </g>
     
-    <!-- Arrow 1 -->
+
     <g transform="translate(80, 65)">
       <line x1="0" y1="0" x2="40" y2="0" stroke="#7f8c8d" stroke-width="2" marker-end="url(#arrowhead)"/>
     </g>
     
-    <!-- Step 2 -->
+
     <g transform="translate(150, 50)">
       <circle cx="25" cy="25" r="20" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
       <text x="25" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">2</text>
@@ -141,12 +141,12 @@
       <text x="25" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">fradrag</text>
     </g>
     
-    <!-- Arrow 2 -->
+
     <g transform="translate(200, 65)">
       <line x1="0" y1="0" x2="40" y2="0" stroke="#7f8c8d" stroke-width="2" marker-end="url(#arrowhead)"/>
     </g>
     
-    <!-- Step 3 -->
+
     <g transform="translate(270, 50)">
       <circle cx="25" cy="25" r="20" fill="#f39c12" stroke="#e67e22" stroke-width="2"/>
       <text x="25" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">3</text>
@@ -154,12 +154,12 @@
       <text x="25" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">kostnader</text>
     </g>
     
-    <!-- Arrow 3 -->
+
     <g transform="translate(320, 65)">
       <line x1="0" y1="0" x2="40" y2="0" stroke="#7f8c8d" stroke-width="2" marker-end="url(#arrowhead)"/>
     </g>
     
-    <!-- Step 4 -->
+
     <g transform="translate(390, 50)">
       <circle cx="25" cy="25" r="20" fill="#9b59b6" stroke="#8e44ad" stroke-width="2"/>
       <text x="25" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">4</text>
@@ -167,12 +167,12 @@
       <text x="25" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">til skatt</text>
     </g>
     
-    <!-- Arrow 4 -->
+
     <g transform="translate(440, 65)">
       <line x1="0" y1="0" x2="40" y2="0" stroke="#7f8c8d" stroke-width="2" marker-end="url(#arrowhead)"/>
     </g>
     
-    <!-- Step 5 -->
+
     <g transform="translate(510, 50)">
       <circle cx="25" cy="25" r="20" fill="#27ae60" stroke="#229954" stroke-width="2"/>
       <text x="25" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">5</text>
@@ -181,7 +181,7 @@
     </g>
   </g>
   
-  <!-- Important reminder -->
+
   <g transform="translate(150, 450)">
     <rect x="0" y="0" width="500" height="40" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="5"/>
     <text x="20" y="18" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#856404">Viktig:</text>
@@ -189,7 +189,7 @@
     <text x="20" y="32" font-family="Arial, sans-serif" font-size="12" fill="#856404">Manglende dokumentasjon kan føre til at fradrag ikke godkjennes</text>
   </g>
   
-  <!-- Arrow definitions -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#7f8c8d"/>

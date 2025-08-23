@@ -1,18 +1,18 @@
 <svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="400" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">Maskimalt Utbytte</text>
   
-  <!-- Main container -->
+
   <rect x="50" y="70" width="700" height="280" fill="white" stroke="#e9ecef" stroke-width="2" rx="10"/>
   
-  <!-- Left side - Total Egenkapital -->
+
   <rect x="80" y="100" width="200" height="220" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="5"/>
   <text x="180" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1976d2">Total Egenkapital</text>
   
-  <!-- Sections within Total Egenkapital -->
+
   <rect x="90" y="140" width="180" height="40" fill="#ffcdd2" stroke="#d32f2f" stroke-width="1"/>
   <text x="180" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#d32f2f">Aksjekapital (Bundet)</text>
   
@@ -24,23 +24,23 @@
   <text x="180" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#388e3c">(Tilgjengelig for</text>
   <text x="180" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#388e3c">utbytteutdeling)</text>
   
-  <!-- Arrow -->
+
   <path d="M 300 210 L 350 210" stroke="#666" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <text x="325" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#666">Minus</text>
   <text x="325" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#666">Soliditetskrav</text>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#666"/>
     </marker>
   </defs>
   
-  <!-- Right side - Maskimalt Utbytte -->
+
   <rect x="370" y="100" width="200" height="220" fill="#fff3e0" stroke="#f57c00" stroke-width="2" rx="5"/>
   <text x="470" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#f57c00">Maskimalt Utbytte</text>
   
-  <!-- Calculation box -->
+
   <rect x="380" y="140" width="180" height="120" fill="#fff8e1" stroke="#fbc02d" stroke-width="1"/>
   <text x="470" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#f57c00">Beregning:</text>
   <text x="470" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#666">Fri Egenkapital</text>
@@ -49,7 +49,7 @@
   <text x="470" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#f57c00">=</text>
   <text x="470" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#f57c00">Maksimalt Utbytte</text>
   
-  <!-- Warning box -->
+
   <rect x="600" y="100" width="120" height="220" fill="#ffebee" stroke="#e57373" stroke-width="2" rx="5"/>
   <text x="660" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#d32f2f">Viktig!</text>
   <text x="660" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#d32f2f">Må ikke overstige</text>
@@ -59,6 +59,6 @@
   <text x="660" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#d32f2f">Må vurdere</text>
   <text x="660" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#d32f2f">likviditet</text>
   
-  <!-- Bottom note -->
+
   <text x="400" y="375" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#666">Maskimalt utbytte sikrer at selskapet opprettholder tilstrekkelig egenkapital og soliditet</text>
 </svg>

@@ -18,15 +18,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Utfordringer med Giro-systemet
   </text>
   
-  <!-- Central Challenge Icon -->
+
   <circle cx="400" cy="300" r="80" fill="url(#challengeGradient)" opacity="0.8"/>
   <text x="400" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     GIRO
@@ -35,7 +35,7 @@
     UTFORDRINGER
   </text>
   
-  <!-- Technical Challenges (Top Left) -->
+
   <g transform="translate(150, 150)">
     <rect x="0" y="0" width="180" height="120" rx="10" fill="url(#techGradient)" opacity="0.9"/>
     <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -58,7 +58,7 @@
     </text>
   </g>
   
-  <!-- Regulatory Challenges (Top Right) -->
+
   <g transform="translate(470, 150)">
     <rect x="0" y="0" width="180" height="120" rx="10" fill="url(#regGradient)" opacity="0.9"/>
     <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -81,7 +81,7 @@
     </text>
   </g>
   
-  <!-- Market Challenges (Bottom) -->
+
   <g transform="translate(310, 430)">
     <rect x="0" y="0" width="180" height="120" rx="10" fill="url(#marketGradient)" opacity="0.9"/>
     <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -104,12 +104,12 @@
     </text>
   </g>
   
-  <!-- Connection Lines -->
+
   <line x1="330" y1="210" x2="370" y2="250" stroke="#34495e" stroke-width="2" opacity="0.6"/>
   <line x1="470" y1="210" x2="430" y2="250" stroke="#34495e" stroke-width="2" opacity="0.6"/>
   <line x1="400" y1="350" x2="400" y2="430" stroke="#34495e" stroke-width="2" opacity="0.6"/>
   
-  <!-- Warning Icons -->
+
   <g transform="translate(120, 120)">
     <polygon points="15,5 25,20 5,20" fill="#e74c3c"/>
     <text x="15" y="17" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">!</text>

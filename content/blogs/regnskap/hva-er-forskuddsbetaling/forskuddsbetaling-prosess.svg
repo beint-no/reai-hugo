@@ -9,16 +9,16 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#processGradient)"/>
   <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
     Forskuddsbetaling Prosess
   </text>
   
-  <!-- Step 1: Agreement -->
+
   <rect x="50" y="100" width="150" height="80" fill="white" stroke="#0066cc" stroke-width="2" rx="10" filter="url(#shadow)"/>
   <text x="125" y="125" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0066cc">
     1. Avtale
@@ -30,10 +30,10 @@
     forskuddsklausul
   </text>
   
-  <!-- Arrow 1 -->
+
   <polygon points="210,140 250,140 240,130 250,140 240,150" fill="#666" stroke="#666" stroke-width="1"/>
   
-  <!-- Step 2: Payment -->
+
   <rect x="270" y="100" width="150" height="80" fill="white" stroke="#28a745" stroke-width="2" rx="10" filter="url(#shadow)"/>
   <text x="345" y="125" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#28a745">
     2. Forskudd
@@ -45,10 +45,10 @@
     på forhånd
   </text>
   
-  <!-- Arrow 2 -->
+
   <polygon points="430,140 470,140 460,130 470,140 460,150" fill="#666" stroke="#666" stroke-width="1"/>
   
-  <!-- Step 3: Production -->
+
   <rect x="490" y="100" width="150" height="80" fill="white" stroke="#ffc107" stroke-width="2" rx="10" filter="url(#shadow)"/>
   <text x="565" y="125" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffc107">
     3. Produksjon
@@ -60,10 +60,10 @@
     arbeid/produksjon
   </text>
   
-  <!-- Arrow down -->
+
   <polygon points="565,190 565,230 555,220 565,230 575,220" fill="#666" stroke="#666" stroke-width="1"/>
   
-  <!-- Step 4: Delivery -->
+
   <rect x="490" y="250" width="150" height="80" fill="white" stroke="#dc3545" stroke-width="2" rx="10" filter="url(#shadow)"/>
   <text x="565" y="275" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#dc3545">
     4. Levering
@@ -75,10 +75,10 @@
     leveres til kjøper
   </text>
   
-  <!-- Arrow left -->
+
   <polygon points="480,290 440,290 450,280 440,290 450,300" fill="#666" stroke="#666" stroke-width="1"/>
   
-  <!-- Step 5: Completion -->
+
   <rect x="270" y="250" width="150" height="80" fill="white" stroke="#6f42c1" stroke-width="2" rx="10" filter="url(#shadow)"/>
   <text x="345" y="275" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#6f42c1">
     5. Fullføring
@@ -90,7 +90,7 @@
     fullført
   </text>
   
-  <!-- Key participants -->
+
   <rect x="50" y="370" width="300" height="100" fill="#e8f4fd" stroke="#0066cc" stroke-width="1" rx="5"/>
   <text x="200" y="395" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0066cc">
     Kjøper (Kunde)

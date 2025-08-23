@@ -10,11 +10,11 @@
     </linearGradient>
   </defs>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
   <text x="400" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">Kontrollmiljø for Avregning</text>
   
-  <!-- Control Level 1: Automatiserte kontroller -->
+
   <rect x="100" y="120" width="600" height="100" fill="url(#processGradient)" rx="10" stroke="#10b981" stroke-width="2"/>
   <text x="400" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#065f46">Automatiserte Kontroller</text>
   
@@ -30,7 +30,7 @@
   <text x="550" y="187" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">3</text>
   <text x="590" y="180" font-family="Arial, sans-serif" font-size="14" fill="#065f46">Avstemmingskontroller</text>
   
-  <!-- Control Level 2: Manuelle kontroller -->
+
   <rect x="100" y="250" width="600" height="100" fill="#fef3c7" rx="10" stroke="#f59e0b" stroke-width="2"/>
   <text x="400" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#92400e">Manuelle Kontroller</text>
   
@@ -46,7 +46,7 @@
   <text x="550" y="317" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">3</text>
   <text x="590" y="310" font-family="Arial, sans-serif" font-size="14" fill="#92400e">Dokumentasjon</text>
   
-  <!-- Control Level 3: Overordnede kontroller -->
+
   <rect x="100" y="380" width="600" height="100" fill="#e0e7ff" rx="10" stroke="#6366f1" stroke-width="2"/>
   <text x="400" y="410" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#3730a3">Overordnede Kontroller</text>
   
@@ -62,7 +62,7 @@
   <text x="550" y="447" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">3</text>
   <text x="590" y="440" font-family="Arial, sans-serif" font-size="14" fill="#3730a3">Ekstern revisjon</text>
   
-  <!-- Control Level 4: Rapportering -->
+
   <rect x="100" y="510" width="600" height="70" fill="#fed7d7" rx="10" stroke="#e53e3e" stroke-width="2"/>
   <text x="400" y="540" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#c53030">Rapportering &amp; Oppfølging</text>
   
@@ -70,7 +70,7 @@
   <text x="350" y="565" font-family="Arial, sans-serif" font-size="14" fill="#c53030">Avviksanalyse</text>
   <text x="550" y="565" font-family="Arial, sans-serif" font-size="14" fill="#c53030">Forbedringstiltak</text>
   
-  <!-- Arrows between levels -->
+
   <polygon points="390,220 410,220 400,240 390,220" fill="#6b7280"/>
   <polygon points="390,350 410,350 400,370 390,350" fill="#6b7280"/>
   <polygon points="390,480 410,480 400,500 390,480" fill="#6b7280"/>

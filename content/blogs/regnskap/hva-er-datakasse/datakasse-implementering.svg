@@ -14,21 +14,21 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
   <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
     Implementeringsprosess for Datakasse
   </text>
   
-  <!-- Implementation Timeline -->
+
   <g transform="translate(50, 80)">
-    <!-- Timeline line -->
+
     <line x1="50" y1="50" x2="700" y2="50" stroke="#ddd" stroke-width="3"/>
     
-    <!-- Phase 1: Planning -->
+
     <g transform="translate(0, 0)">
       <circle cx="100" cy="50" r="25" fill="url(#phaseGradient)"/>
       <text x="100" y="57" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">1</text>
@@ -52,7 +52,7 @@
       </text>
     </g>
     
-    <!-- Phase 2: Installation -->
+
     <g transform="translate(150, 0)">
       <circle cx="100" cy="50" r="25" fill="url(#phaseGradient)"/>
       <text x="100" y="57" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">2</text>
@@ -76,7 +76,7 @@
       </text>
     </g>
     
-    <!-- Phase 3: Configuration -->
+
     <g transform="translate(300, 0)">
       <circle cx="100" cy="50" r="25" fill="url(#phaseGradient)"/>
       <text x="100" y="57" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">3</text>
@@ -100,7 +100,7 @@
       </text>
     </g>
     
-    <!-- Phase 4: Testing -->
+
     <g transform="translate(450, 0)">
       <circle cx="100" cy="50" r="25" fill="url(#phaseGradient)"/>
       <text x="100" y="57" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">4</text>
@@ -124,7 +124,7 @@
       </text>
     </g>
     
-    <!-- Phase 5: Training -->
+
     <g transform="translate(600, 0)">
       <circle cx="100" cy="50" r="25" fill="url(#phaseGradient)"/>
       <text x="100" y="57" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">5</text>
@@ -149,7 +149,7 @@
     </g>
   </g>
   
-  <!-- Key Success Factors -->
+
   <g transform="translate(50, 320)">
     <rect x="0" y="0" width="700" height="200" rx="10" fill="white" stroke="#ddd" stroke-width="1"/>
     <rect x="0" y="0" width="700" height="40" rx="10" fill="url(#processGradient)"/>
@@ -157,7 +157,7 @@
       Kritiske Suksessfaktorer
     </text>
     
-    <!-- Success factors in columns -->
+
     <g transform="translate(30, 60)">
       <text x="0" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">
         📋 Planlegging
@@ -198,7 +198,7 @@
         • Kontinuerlig støtte
       </text>
       
-      <!-- Common pitfalls -->
+
       <text x="0" y="110" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#d32f2f">
         ⚠️ Vanlige Fallgruver
       </text>
@@ -217,7 +217,7 @@
     </g>
   </g>
   
-  <!-- Timeline indicator -->
+
   <text x="400" y="580" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#666">
     Total implementeringstid: 10-12 uker
   </text>

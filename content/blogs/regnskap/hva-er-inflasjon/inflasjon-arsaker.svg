@@ -1,61 +1,61 @@
 <svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#2c3e50">Årsaker til Inflasjon</text>
   
-  <!-- Central inflation circle -->
+
   <circle cx="400" cy="300" r="80" fill="#e74c3c" stroke="#c0392b" stroke-width="3"/>
   <text x="400" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">INFLASJON</text>
   <text x="400" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">Prisstigning</text>
   
-  <!-- Demand-driven inflation -->
+
   <g transform="translate(100, 100)">
     <rect x="0" y="0" width="200" height="120" fill="#3498db" rx="15"/>
     <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">Etterspørselsdrevet</text>
     <text x="100" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">Inflasjon</text>
     
-    <!-- Bullet points -->
+
     <text x="20" y="70" font-family="Arial, sans-serif" font-size="12" fill="white">• Økt forbruk</text>
     <text x="20" y="85" font-family="Arial, sans-serif" font-size="12" fill="white">• Lave renter</text>
     <text x="20" y="100" font-family="Arial, sans-serif" font-size="12" fill="white">• Offentlige utgifter</text>
     
-    <!-- Arrow to center -->
+
     <path d="M200 160 L320 240" stroke="#3498db" stroke-width="3" fill="none" marker-end="url(#arrowhead-blue)"/>
   </g>
   
-  <!-- Cost-driven inflation -->
+
   <g transform="translate(500, 100)">
     <rect x="0" y="0" width="200" height="120" fill="#e67e22" rx="15"/>
     <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">Kostnadsdrevet</text>
     <text x="100" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">Inflasjon</text>
     
-    <!-- Bullet points -->
+
     <text x="20" y="70" font-family="Arial, sans-serif" font-size="12" fill="white">• Høyere lønninger</text>
     <text x="20" y="85" font-family="Arial, sans-serif" font-size="12" fill="white">• Råvarepriser</text>
     <text x="20" y="100" font-family="Arial, sans-serif" font-size="12" fill="white">• Importpriser</text>
     
-    <!-- Arrow to center -->
+
     <path d="M500 160 L480 240" stroke="#e67e22" stroke-width="3" fill="none" marker-end="url(#arrowhead-orange)"/>
   </g>
   
-  <!-- Built-in inflation -->
+
   <g transform="translate(300, 450)">
     <rect x="0" y="0" width="200" height="120" fill="#9b59b6" rx="15"/>
     <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">Innebygd</text>
     <text x="100" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">Inflasjon</text>
     
-    <!-- Bullet points -->
+
     <text x="20" y="70" font-family="Arial, sans-serif" font-size="12" fill="white">• Lønns-prisspiral</text>
     <text x="20" y="85" font-family="Arial, sans-serif" font-size="12" fill="white">• Prisindeksering</text>
     <text x="20" y="100" font-family="Arial, sans-serif" font-size="12" fill="white">• Forventninger</text>
     
-    <!-- Arrow to center -->
+
     <path d="M400 450 L400 380" stroke="#9b59b6" stroke-width="3" fill="none" marker-end="url(#arrowhead-purple)"/>
   </g>
   
-  <!-- Additional factors -->
+
   <g transform="translate(50, 300)">
     <rect x="0" y="0" width="150" height="100" fill="#1abc9c" rx="10"/>
     <text x="75" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Andre faktorer</text>
@@ -65,11 +65,11 @@
     <text x="15" y="70" font-family="Arial, sans-serif" font-size="11" fill="white">• Naturkatastrofer</text>
     <text x="15" y="85" font-family="Arial, sans-serif" font-size="11" fill="white">• Politiske forhold</text>
     
-    <!-- Arrow to center -->
+
     <path d="M200 350 L320 330" stroke="#1abc9c" stroke-width="3" fill="none" marker-end="url(#arrowhead-teal)"/>
   </g>
   
-  <!-- Monetary policy -->
+
   <g transform="translate(600, 300)">
     <rect x="0" y="0" width="150" height="100" fill="#f39c12" rx="10"/>
     <text x="75" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Pengepolitikk</text>
@@ -79,11 +79,11 @@
     <text x="15" y="70" font-family="Arial, sans-serif" font-size="11" fill="white">• Kvantitative</text>
     <text x="15" y="85" font-family="Arial, sans-serif" font-size="11" fill="white">  lettelser</text>
     
-    <!-- Arrow to center -->
+
     <path d="M600 350 L480 330" stroke="#f39c12" stroke-width="3" fill="none" marker-end="url(#arrowhead-yellow)"/>
   </g>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="arrowhead-blue" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#3498db"/>

@@ -14,25 +14,25 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="400" fill="#ffffff"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
     Norske og Internasjonale Identifikatorer
   </text>
   
-  <!-- Norwegian section -->
+
   <g transform="translate(50, 70)">
     <rect x="0" y="0" width="220" height="300" fill="#fef2f2" stroke="#fecaca" stroke-width="2" rx="10"/>
     
-    <!-- Header -->
+
     <rect x="10" y="10" width="200" height="40" fill="url(#norwayGradient)" rx="5"/>
     <text x="110" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       🇳🇴 NORGE
     </text>
     
-    <!-- Norwegian identifiers -->
+
     <g transform="translate(20, 70)">
       <rect x="0" y="0" width="180" height="50" fill="#ffffff" stroke="#dc2626" stroke-width="1" rx="5"/>
       <text x="90" y="20" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
@@ -79,17 +79,17 @@
     </text>
   </g>
   
-  <!-- EU/EEA section -->
+
   <g transform="translate(290, 70)">
     <rect x="0" y="0" width="220" height="300" fill="#eff6ff" stroke="#bfdbfe" stroke-width="2" rx="10"/>
     
-    <!-- Header -->
+
     <rect x="10" y="10" width="200" height="40" fill="url(#euGradient)" rx="5"/>
     <text x="110" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       🇪🇺 EU/EØS
     </text>
     
-    <!-- EU identifiers -->
+
     <g transform="translate(20, 70)">
       <rect x="0" y="0" width="180" height="50" fill="#ffffff" stroke="#2563eb" stroke-width="1" rx="5"/>
       <text x="90" y="20" text-anchor="middle" fill="#2563eb" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
@@ -136,17 +136,17 @@
     </text>
   </g>
   
-  <!-- Global section -->
+
   <g transform="translate(530, 70)">
     <rect x="0" y="0" width="220" height="300" fill="#f0fdf4" stroke="#bbf7d0" stroke-width="2" rx="10"/>
     
-    <!-- Header -->
+
     <rect x="10" y="10" width="200" height="40" fill="url(#globalGradient)" rx="5"/>
     <text x="110" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       🌍 GLOBALT
     </text>
     
-    <!-- Global identifiers -->
+
     <g transform="translate(20, 70)">
       <rect x="0" y="0" width="180" height="50" fill="#ffffff" stroke="#059669" stroke-width="1" rx="5"/>
       <text x="90" y="20" text-anchor="middle" fill="#059669" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
@@ -193,13 +193,13 @@
     </text>
   </g>
   
-  <!-- Connection arrows -->
+
   <g stroke="#6b7280" stroke-width="2" fill="none" marker-end="url(#arrowhead)">
     <path d="M 270 220 L 290 220"/>
     <path d="M 510 220 L 530 220"/>
   </g>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#6b7280"/>

@@ -22,21 +22,21 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="700" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#0066cc">
     Kontering Steg for Steg
   </text>
   
-  <!-- Step 1: Bilagsanalyse -->
+
   <rect x="50" y="70" width="700" height="120" fill="url(#stepGradient1)" rx="10"/>
   <text x="70" y="100" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
     STEG 1: BILAGSANALYSE
   </text>
   
-  <!-- Step 1 Details -->
+
   <circle cx="100" cy="130" r="15" fill="white"/>
   <text x="100" y="137" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0066cc">1</text>
   <text x="130" y="135" font-family="Arial, sans-serif" font-size="14" fill="white">Identifiser transaksjonens art - hva har skjedd?</text>
@@ -53,13 +53,13 @@
   <text x="400" y="162" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0066cc">4</text>
   <text x="430" y="160" font-family="Arial, sans-serif" font-size="14" fill="white">Vurder periodisering - hvilken periode påvirkes?</text>
   
-  <!-- Step 2: Kontovalg -->
+
   <rect x="50" y="210" width="700" height="120" fill="url(#stepGradient2)" rx="10"/>
   <text x="70" y="240" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
     STEG 2: KONTOVALG
   </text>
   
-  <!-- Step 2 Details -->
+
   <circle cx="100" cy="270" r="15" fill="white"/>
   <text x="100" y="277" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#28a745">1</text>
   <text x="130" y="275" font-family="Arial, sans-serif" font-size="14" fill="white">Hovedkonto - primær klassifisering av transaksjonen</text>
@@ -72,13 +72,13 @@
   <text x="450" y="277" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#28a745">3</text>
   <text x="480" y="275" font-family="Arial, sans-serif" font-size="14" fill="white">Hjelpekonto - underkontoer for detaljert sporing</text>
   
-  <!-- Step 3: Debet/Kredit -->
+
   <rect x="50" y="350" width="700" height="120" fill="url(#stepGradient3)" rx="10"/>
   <text x="70" y="380" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="black">
     STEG 3: DEBET/KREDIT BESTEMMELSE
   </text>
   
-  <!-- Step 3 Details -->
+
   <rect x="80" y="395" width="280" height="60" fill="rgba(255,255,255,0.2)" rx="5"/>
   <text x="90" y="415" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="black">DEBET (venstre side):</text>
   <text x="90" y="435" font-family="Arial, sans-serif" font-size="12" fill="black">• Eiendeler øker</text>
@@ -89,13 +89,13 @@
   <text x="450" y="435" font-family="Arial, sans-serif" font-size="12" fill="black">• Eiendeler reduseres</text>
   <text x="450" y="450" font-family="Arial, sans-serif" font-size="12" fill="black">• Gjeld øker • Inntekter</text>
   
-  <!-- Step 4: Registrering -->
+
   <rect x="50" y="490" width="700" height="120" fill="url(#stepGradient4)" rx="10"/>
   <text x="70" y="520" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
     STEG 4: REGISTRERING
   </text>
   
-  <!-- Step 4 Details -->
+
   <circle cx="100" cy="550" r="15" fill="white"/>
   <text x="100" y="557" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#dc3545">1</text>
   <text x="130" y="555" font-family="Arial, sans-serif" font-size="14" fill="white">Riktige kontonummer fra kontoplanen</text>
@@ -112,7 +112,7 @@
   <text x="450" y="582" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#dc3545">4</text>
   <text x="480" y="580" font-family="Arial, sans-serif" font-size="14" fill="white">Beskrivende tekst</text>
   
-  <!-- Result Box -->
+
   <rect x="200" y="630" width="400" height="50" fill="#ffffff" stroke="#0066cc" stroke-width="2" rx="8"/>
   <text x="400" y="650" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0066cc">
     RESULTAT: Korrekt kontert transaksjon
@@ -121,7 +121,7 @@
     Klar for rapportering og analyse
   </text>
   
-  <!-- Connecting Arrows -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#666"/>

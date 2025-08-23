@@ -14,15 +14,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="400" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
     Fritaksmetoden - Internasjonale Aspekter
   </text>
   
-  <!-- Norway -->
+
   <rect x="50" y="80" width="150" height="100" fill="url(#norwayGradient)" rx="10"/>
   <text x="125" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     Norge
@@ -37,7 +37,7 @@
     Fritaksmetoden
   </text>
   
-  <!-- Foreign countries -->
+
   <rect x="300" y="80" width="120" height="80" fill="url(#foreignGradient)" rx="8"/>
   <text x="360" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Sverige
@@ -80,12 +80,12 @@
     (&lt;10% skatt)
   </text>
   
-  <!-- Arrows -->
+
   <path d="M 200 130 L 300 120" stroke="#28a745" stroke-width="3" fill="none" marker-end="url(#arrowGreen)"/>
   <path d="M 200 130 L 450 120" stroke="#28a745" stroke-width="3" fill="none" marker-end="url(#arrowGreen)"/>
   <path d="M 200 130 L 600 120" stroke="#dc3545" stroke-width="3" fill="none" marker-end="url(#arrowRed)" stroke-dasharray="5,5"/>
   
-  <!-- Requirements box -->
+
   <rect x="50" y="220" width="700" height="120" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="10"/>
   <text x="400" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#856404">
     Tilleggsvilkår for Utenlandske Investeringer
@@ -119,13 +119,13 @@
     • Norge har skatteavtaler med mange land
   </text>
   
-  <!-- Benefits box -->
+
   <rect x="50" y="360" width="700" height="30" fill="#d4edda" stroke="#28a745" stroke-width="2" rx="5"/>
   <text x="400" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#155724">
     Fordeler: Redusert kildeskatt og unngåelse av dobbeltbeskatning
   </text>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="arrowGreen" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#28a745"/>

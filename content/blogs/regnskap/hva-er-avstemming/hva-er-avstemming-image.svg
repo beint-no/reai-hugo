@@ -1,22 +1,22 @@
 <svg width="600" height="400" viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="600" height="400" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="300" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Avstemming i Regnskap
   </text>
   
-  <!-- Main illustration showing reconciliation concept -->
+
   <rect x="50" y="80" width="500" height="280" fill="white" stroke="#2c3e50" stroke-width="2" rx="10"/>
   
-  <!-- Left side - Internal Records -->
+
   <rect x="70" y="100" width="200" height="240" fill="#3498db" opacity="0.1" stroke="#3498db" stroke-width="2" rx="5"/>
   <text x="170" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
     Interne Poster
   </text>
   
-  <!-- Internal records items -->
+
   <rect x="90" y="140" width="160" height="25" fill="#3498db" opacity="0.8" rx="3"/>
   <text x="170" y="157" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
     Kassabok
@@ -42,13 +42,13 @@
     Anleggsmidler
   </text>
   
-  <!-- Right side - External Sources -->
+
   <rect x="330" y="100" width="200" height="240" fill="#e74c3c" opacity="0.1" stroke="#e74c3c" stroke-width="2" rx="5"/>
   <text x="430" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
     Eksterne Kilder
   </text>
   
-  <!-- External sources items -->
+
   <rect x="350" y="140" width="160" height="25" fill="#e74c3c" opacity="0.8" rx="3"/>
   <text x="430" y="157" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
     Bankutskrift
@@ -74,11 +74,11 @@
     Anleggsmiddelregister
   </text>
   
-  <!-- Arrows showing comparison -->
+
   <path d="M 280 190 L 320 190" stroke="#2c3e50" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 320 210 L 280 210" stroke="#2c3e50" stroke-width="3" fill="none" marker-end="url(#arrowhead2)"/>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#2c3e50"/>
@@ -88,7 +88,7 @@
     </marker>
   </defs>
   
-  <!-- Comparison text -->
+
   <text x="300" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
     SAMMENLIGN
   </text>
@@ -96,7 +96,7 @@
     KONTROLLER
   </text>
   
-  <!-- Result box -->
+
   <rect x="200" y="320" width="200" height="30" fill="#27ae60" opacity="0.8" rx="5"/>
   <text x="300" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Pålitelig Regnskap

@@ -10,22 +10,22 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="400" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#212529">
     Hva er Fortjeneste?
   </text>
   
-  <!-- Subtitle -->
+
   <text x="400" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#6c757d">
     Overskudd etter at alle kostnader er trukket fra inntektene
   </text>
   
-  <!-- Main illustration - Profit calculation -->
+
   <g transform="translate(100, 120)">
-    <!-- Revenue box -->
+
     <rect x="0" y="0" width="150" height="80" fill="#007bff" rx="8"/>
     <text x="75" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
       Inntekter
@@ -37,12 +37,12 @@
       fra salg
     </text>
     
-    <!-- Minus sign -->
+
     <text x="200" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#dc3545">
       -
     </text>
     
-    <!-- Costs box -->
+
     <rect x="250" y="0" width="150" height="80" fill="#dc3545" rx="8"/>
     <text x="325" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
       Kostnader
@@ -54,12 +54,12 @@
       kostnader
     </text>
     
-    <!-- Equals sign -->
+
     <text x="450" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#28a745">
       =
     </text>
     
-    <!-- Profit box -->
+
     <rect x="500" y="0" width="150" height="80" fill="url(#profitGradient)" rx="8"/>
     <text x="575" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
       Fortjeneste
@@ -72,13 +72,13 @@
     </text>
   </g>
   
-  <!-- Types of profit -->
+
   <g transform="translate(50, 240)">
     <text x="350" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#495057">
       Ulike Typer Fortjeneste
     </text>
     
-    <!-- Gross profit -->
+
     <rect x="0" y="40" width="140" height="60" fill="#17a2b8" rx="6"/>
     <text x="70" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
       Bruttofortjeneste
@@ -87,7 +87,7 @@
       Salg - Varekostnader
     </text>
     
-    <!-- Operating profit -->
+
     <rect x="180" y="40" width="140" height="60" fill="#fd7e14" rx="6"/>
     <text x="250" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
       Driftsfortjeneste
@@ -96,7 +96,7 @@
       Brutto - Driftskostnader
     </text>
     
-    <!-- Net profit -->
+
     <rect x="360" y="40" width="140" height="60" fill="#28a745" rx="6"/>
     <text x="430" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
       Nettofortjeneste
@@ -105,7 +105,7 @@
       Drift - Finans - Skatt
     </text>
     
-    <!-- EBITDA -->
+
     <rect x="540" y="40" width="140" height="60" fill="#6f42c1" rx="6"/>
     <text x="610" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
       EBITDA
@@ -115,7 +115,7 @@
     </text>
   </g>
   
-  <!-- Bottom text -->
+
   <text x="400" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#6c757d">
     Fortjeneste er et sentralt mål på bedriftens lønnsomhet og finansielle helse
   </text>

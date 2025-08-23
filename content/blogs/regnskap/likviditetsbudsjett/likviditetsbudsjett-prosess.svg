@@ -6,15 +6,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="#212529">
     Prosess for utarbeidelse av likviditetsbudsjett
   </text>
   
-  <!-- Step 1: Data Collection -->
+
   <rect x="50" y="80" width="200" height="100" fill="#007bff" stroke="#0056b3" stroke-width="2" rx="10"/>
   <text x="150" y="110" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
     TRINN 1
@@ -29,10 +29,10 @@
     Salgshistorikk &amp; mønstre
   </text>
   
-  <!-- Arrow 1 -->
+
   <path d="M 260 130 L 290 130" stroke="#6c757d" stroke-width="3" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 2: Forecast Development -->
+
   <rect x="300" y="80" width="200" height="100" fill="#28a745" stroke="#1e7e34" stroke-width="2" rx="10"/>
   <text x="400" y="110" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
     TRINN 2
@@ -47,10 +47,10 @@
     Markedsanalyse
   </text>
   
-  <!-- Arrow 2 -->
+
   <path d="M 510 130 L 540 130" stroke="#6c757d" stroke-width="3" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 3: Budget Structure -->
+
   <rect x="550" y="80" width="200" height="100" fill="#dc3545" stroke="#c82333" stroke-width="2" rx="10"/>
   <text x="650" y="110" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
     TRINN 3
@@ -65,9 +65,9 @@
     Detaljnivå
   </text>
   
-  <!-- Detailed breakdown -->
+
   
-  <!-- Data sources -->
+
   <rect x="50" y="220" width="200" height="120" fill="white" stroke="#007bff" stroke-width="2" rx="8"/>
   <text x="150" y="245" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#007bff">
     DATAKILDER
@@ -89,7 +89,7 @@
     <text x="20" y="80" font-family="Arial, sans-serif" font-size="10" fill="#212529">Budsjetter</text>
   </g>
   
-  <!-- Forecast elements -->
+
   <rect x="300" y="220" width="200" height="120" fill="white" stroke="#28a745" stroke-width="2" rx="8"/>
   <text x="400" y="245" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#28a745">
     PROGNOSEELEMENTER
@@ -111,7 +111,7 @@
     <text x="20" y="80" font-family="Arial, sans-serif" font-size="10" fill="#212529">Sesongvariasjoner</text>
   </g>
   
-  <!-- Time horizons -->
+
   <rect x="550" y="220" width="200" height="120" fill="white" stroke="#dc3545" stroke-width="2" rx="8"/>
   <text x="650" y="245" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#dc3545">
     TIDSHORISONTER
@@ -136,7 +136,7 @@
     <text x="90" y="64" font-family="Arial, sans-serif" font-size="8" fill="#212529">2-3 år</text>
   </g>
   
-  <!-- Final result -->
+
   <rect x="250" y="380" width="300" height="80" fill="#6f42c1" stroke="#5a32a3" stroke-width="2" rx="10"/>
   <text x="400" y="410" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
     FERDIG LIKVIDITETSBUDSJETT
@@ -148,12 +148,12 @@
     Klar for implementering og oppfølging
   </text>
   
-  <!-- Arrows to final result -->
+
   <path d="M 150 340 Q 200 360 250 420" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 400 340 L 400 380" stroke="#6c757d" stroke-width="2" marker-end="url(#arrowhead)"/>
   <path d="M 650 340 Q 600 360 550 420" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#6c757d"/>

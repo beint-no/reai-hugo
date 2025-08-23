@@ -14,27 +14,27 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
     Kortsiktige Tiltak for å Forbedre Betalingsevne
   </text>
   
-  <!-- Left side: Increase cash inflow -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="300" height="350" rx="12" fill="url(#greenGradient)" stroke="#37b24d" stroke-width="3"/>
     
-    <!-- Header -->
+
     <text x="150" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
       ØKE KONTANTINNGANG
     </text>
     
-    <!-- Arrow up icon -->
+
     <path d="M 150 50 L 130 80 L 140 80 L 140 100 L 160 100 L 160 80 L 170 80 Z" fill="white" opacity="0.8"/>
     
-    <!-- Measures -->
+
     <g transform="translate(20, 120)">
       <circle cx="15" cy="15" r="8" fill="white" opacity="0.3"/>
       <text x="15" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">1</text>
@@ -71,19 +71,19 @@
     </g>
   </g>
   
-  <!-- Right side: Reduce cash outflow -->
+
   <g transform="translate(450, 80)">
     <rect x="0" y="0" width="300" height="350" rx="12" fill="url(#redGradient)" stroke="#e03131" stroke-width="3"/>
     
-    <!-- Header -->
+
     <text x="150" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
       REDUSERE KONTANTUTGANG
     </text>
     
-    <!-- Arrow down icon -->
+
     <path d="M 150 100 L 130 70 L 140 70 L 140 50 L 160 50 L 160 70 L 170 70 Z" fill="white" opacity="0.8"/>
     
-    <!-- Measures -->
+
     <g transform="translate(20, 120)">
       <circle cx="15" cy="15" r="8" fill="white" opacity="0.3"/>
       <text x="15" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">1</text>
@@ -120,7 +120,7 @@
     </g>
   </g>
   
-  <!-- Central arrow showing balance -->
+
   <g transform="translate(350, 250)">
     <circle cx="50" cy="50" r="40" fill="white" stroke="#495057" stroke-width="3"/>
     <path d="M 30 50 L 50 30 L 70 50 L 50 70 Z" fill="#495057"/>
@@ -129,7 +129,7 @@
     </text>
   </g>
   
-  <!-- Bottom note -->
+
   <text x="400" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#495057">
     Kombinér tiltak for maksimal effekt på betalingsevnen
   </text>

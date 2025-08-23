@@ -21,13 +21,13 @@
     </marker>
   </defs>
   
-  <!-- Background -->
+
   <rect width="900" height="650" fill="#F8F9FA"/>
   
-  <!-- Title -->
+
   <text x="450" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#2C3E50">Kredittvurderingsprosess</text>
   
-  <!-- Step 1: Customer Application -->
+
   <rect x="50" y="80" width="180" height="100" rx="10" fill="url(#assessmentGradient)" stroke="#8E44AD" stroke-width="2"/>
   <circle cx="80" cy="110" r="15" fill="#FFFFFF"/>
   <text x="80" y="117" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#8E44AD">1</text>
@@ -36,10 +36,10 @@
   <text x="140" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">grunnleggende</text>
   <text x="140" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">informasjon</text>
   
-  <!-- Arrow 1 -->
+
   <line x1="230" y1="130" x2="270" y2="130" stroke="#34495E" stroke-width="3" marker-end="url(#assessArrow)"/>
   
-  <!-- Step 2: Data Collection -->
+
   <rect x="290" y="80" width="180" height="100" rx="10" fill="url(#assessmentGradient)" stroke="#8E44AD" stroke-width="2"/>
   <circle cx="320" cy="110" r="15" fill="#FFFFFF"/>
   <text x="320" y="117" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#8E44AD">2</text>
@@ -48,10 +48,10 @@
   <text x="380" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">Kredittrapporter</text>
   <text x="380" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">Referanser</text>
   
-  <!-- Arrow 2 -->
+
   <line x1="470" y1="130" x2="510" y2="130" stroke="#34495E" stroke-width="3" marker-end="url(#assessArrow)"/>
   
-  <!-- Step 3: Analysis -->
+
   <rect x="530" y="80" width="180" height="100" rx="10" fill="url(#assessmentGradient)" stroke="#8E44AD" stroke-width="2"/>
   <circle cx="560" cy="110" r="15" fill="#FFFFFF"/>
   <text x="560" y="117" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#8E44AD">3</text>
@@ -60,15 +60,15 @@
   <text x="620" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">Risikoscoring</text>
   <text x="620" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">Bransjevurdering</text>
   
-  <!-- Arrow 3 -->
+
   <line x1="620" y1="180" x2="620" y2="220" stroke="#34495E" stroke-width="3" marker-end="url(#assessArrow)"/>
   
-  <!-- Decision Diamond -->
+
   <polygon points="620,240 670,270 620,300 570,270" fill="#F39C12" stroke="#E67E22" stroke-width="2"/>
   <text x="620" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">BESLUTNING</text>
   
-  <!-- Risk Categories -->
-  <!-- Low Risk -->
+
+
   <rect x="50" y="350" width="200" height="120" rx="10" fill="url(#lowRiskGradient)" stroke="#27AE60" stroke-width="2"/>
   <text x="150" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">LAV RISIKO</text>
   <text x="150" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Kredittgrense: Høy</text>
@@ -76,7 +76,7 @@
   <text x="150" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Oppfølging: Kvartalsvis</text>
   <text x="150" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">Sikkerhet: Ikke nødvendig</text>
   
-  <!-- Medium Risk -->
+
   <rect x="350" y="350" width="200" height="120" rx="10" fill="url(#mediumRiskGradient)" stroke="#F39C12" stroke-width="2"/>
   <text x="450" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">MIDDELS RISIKO</text>
   <text x="450" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Kredittgrense: Moderat</text>
@@ -84,7 +84,7 @@
   <text x="450" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Oppfølging: Månedlig</text>
   <text x="450" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">Sikkerhet: Vurderes</text>
   
-  <!-- High Risk -->
+
   <rect x="650" y="350" width="200" height="120" rx="10" fill="url(#highRiskGradient)" stroke="#E74C3C" stroke-width="2"/>
   <text x="750" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">HØY RISIKO</text>
   <text x="750" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Kredittgrense: Lav</text>
@@ -92,16 +92,16 @@
   <text x="750" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Oppfølging: Ukentlig</text>
   <text x="750" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">Sikkerhet: Påkrevd</text>
   
-  <!-- Arrows to risk categories -->
+
   <line x1="570" y1="270" x2="200" y2="350" stroke="#27AE60" stroke-width="3" marker-end="url(#assessArrow)"/>
   <line x1="620" y1="300" x2="450" y2="350" stroke="#F39C12" stroke-width="3" marker-end="url(#assessArrow)"/>
   <line x1="670" y1="270" x2="700" y2="350" stroke="#E74C3C" stroke-width="3" marker-end="url(#assessArrow)"/>
   
-  <!-- Assessment Criteria Box -->
+
   <rect x="50" y="500" width="800" height="130" rx="10" fill="#ECF0F1" stroke="#BDC3C7" stroke-width="2"/>
   <text x="450" y="530" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2C3E50">VURDERINGSKRITERIER</text>
   
-  <!-- Criteria columns -->
+
   <text x="80" y="560" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2C3E50">FINANSIELLE FAKTORER:</text>
   <text x="100" y="580" font-family="Arial, sans-serif" font-size="10" fill="#2C3E50">• Likviditetsgrad</text>
   <text x="100" y="595" font-family="Arial, sans-serif" font-size="10" fill="#2C3E50">• Soliditetsgrad</text>
@@ -122,13 +122,13 @@
   <text x="740" y="595" font-family="Arial, sans-serif" font-size="10" fill="#2C3E50">• Eiendomspant</text>
   <text x="740" y="610" font-family="Arial, sans-serif" font-size="10" fill="#2C3E50">• Kreditforsikring</text>
   
-  <!-- Data Sources -->
+
   <rect x="730" y="80" width="150" height="100" rx="10" fill="#34495E" stroke="#2C3E50" stroke-width="2"/>
   <text x="805" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">DATAKILDER</text>
   <text x="805" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• Årsregnskap</text>
   <text x="805" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• Kredittbyråer</text>
   <text x="805" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">• Offentlige registre</text>
   
-  <!-- Arrow from Analysis to Data Sources -->
+
   <line x1="710" y1="130" x2="730" y2="130" stroke="#34495E" stroke-width="2" marker-end="url(#assessArrow)"/>
 </svg>

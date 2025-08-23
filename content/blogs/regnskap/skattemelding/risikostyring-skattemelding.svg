@@ -18,16 +18,16 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8fafc"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
   <text x="400" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="20" font-weight="bold">
     Risikostyring i Skattemelding
   </text>
   
-  <!-- Central Risk Management Process -->
+
   <circle cx="400" cy="200" r="60" fill="#1e40af" stroke="#1d4ed8" stroke-width="2"/>
   <text x="400" y="195" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Systematisk
@@ -39,9 +39,9 @@
     kartlegging
   </text>
   
-  <!-- Risk Categories -->
+
   
-  <!-- Operational Risks -->
+
   <rect x="50" y="120" width="200" height="120" rx="10" fill="url(#operationalGradient)" stroke="#dc2626" stroke-width="2"/>
   <text x="150" y="140" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Operasjonelle Risikoer
@@ -63,7 +63,7 @@
     • Korrigeringer
   </text>
   
-  <!-- Regulatory Risks -->
+
   <rect x="550" y="120" width="200" height="120" rx="10" fill="url(#regulatoryGradient)" stroke="#ea580c" stroke-width="2"/>
   <text x="650" y="140" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Regulatoriske Risikoer
@@ -85,7 +85,7 @@
     • Nye transaksjoner
   </text>
   
-  <!-- Reputational Risks -->
+
   <rect x="300" y="320" width="200" height="100" rx="10" fill="url(#reputationalGradient)" stroke="#7c3aed" stroke-width="2"/>
   <text x="400" y="340" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Omdømmerisikoer
@@ -104,7 +104,7 @@
     • Transparenskrav
   </text>
   
-  <!-- Risk Assessment Matrix -->
+
   <rect x="50" y="450" width="300" height="120" rx="5" fill="white" stroke="#64748b" stroke-width="2"/>
   <text x="200" y="470" text-anchor="middle" fill="#1e293b" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Risikovurdering
@@ -134,7 +134,7 @@
     Ingen regnskapsmessig effekt
   </text>
   
-  <!-- Control Activities -->
+
   <rect x="450" y="450" width="300" height="120" rx="5" fill="white" stroke="#64748b" stroke-width="2"/>
   <text x="600" y="470" text-anchor="middle" fill="#1e293b" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Kontrollaktiviteter
@@ -156,12 +156,12 @@
     • Fire-øyne-prinsippet
   </text>
   
-  <!-- Arrows connecting to central process -->
+
   <path d="M 250 180 L 350 180" stroke="#64748b" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 550 180 L 450 180" stroke="#64748b" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 400 270 L 400 320" stroke="#64748b" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#64748b"/>

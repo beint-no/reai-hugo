@@ -10,15 +10,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="400" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#2c3e50">
     Kostpris - Kostnadsberegning
   </text>
   
-  <!-- Main cost price box -->
+
   <rect x="300" y="80" width="200" height="120" fill="url(#boxGradient)" stroke="#3498db" stroke-width="3" rx="10"/>
   <text x="400" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">
     KOSTPRIS
@@ -33,7 +33,7 @@
     1.000 kr
   </text>
   
-  <!-- Direct costs -->
+
   <rect x="50" y="240" width="150" height="100" fill="url(#boxGradient)" stroke="#27ae60" stroke-width="2" rx="8"/>
   <text x="125" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#27ae60">
     Direkte kostnader
@@ -48,7 +48,7 @@
     Sum: 700 kr
   </text>
   
-  <!-- Indirect costs -->
+
   <rect x="600" y="240" width="150" height="100" fill="url(#boxGradient)" stroke="#f39c12" stroke-width="2" rx="8"/>
   <text x="675" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#f39c12">
     Indirekte kostnader
@@ -63,18 +63,18 @@
     Sum: 300 kr
   </text>
   
-  <!-- Arrows -->
+
   <path d="M 200 290 L 280 160" stroke="#3498db" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 600 290 L 520 160" stroke="#3498db" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#3498db"/>
     </marker>
   </defs>
   
-  <!-- Formula -->
+
   <rect x="250" y="360" width="300" height="30" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1" rx="5"/>
   <text x="400" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
     Kostpris = Direkte kostnader + Indirekte kostnader

@@ -1,13 +1,13 @@
 <svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#2c3e50">
     Regnskapsprosesser i Engroshandel
   </text>
   
-  <!-- Central ERP System -->
+
   <rect x="300" y="200" width="200" height="100" fill="#e8f4fd" stroke="#3498db" stroke-width="3" rx="10"/>
   <text x="400" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2980b9">
     ERP-SYSTEM
@@ -22,7 +22,7 @@
     Rapportering
   </text>
   
-  <!-- Lagerstyring (Top Left) -->
+
   <rect x="50" y="80" width="150" height="80" fill="#fff3cd" stroke="#f39c12" stroke-width="2" rx="8"/>
   <text x="125" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#d68910">
     Lagerstyring
@@ -37,7 +37,7 @@
     • Lagertelling
   </text>
   
-  <!-- Kundefordringer (Top Right) -->
+
   <rect x="600" y="80" width="150" height="80" fill="#d4edda" stroke="#28a745" stroke-width="2" rx="8"/>
   <text x="675" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#155724">
     Kundefordringer
@@ -52,7 +52,7 @@
     • Inkasso
   </text>
   
-  <!-- Leverandørgjeld (Bottom Left) -->
+
   <rect x="50" y="360" width="150" height="80" fill="#f8d7da" stroke="#dc3545" stroke-width="2" rx="8"/>
   <text x="125" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#721c24">
     Leverandørgjeld
@@ -67,7 +67,7 @@
     • Kontantrabatter
   </text>
   
-  <!-- Moms og Avgifter (Bottom Right) -->
+
   <rect x="600" y="360" width="150" height="80" fill="#e2e3e5" stroke="#6c757d" stroke-width="2" rx="8"/>
   <text x="675" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#495057">
     Moms &amp; Avgifter
@@ -82,7 +82,7 @@
     • Omvendt avgiftsplikt
   </text>
   
-  <!-- Salgsregistrering (Left) -->
+
   <rect x="50" y="220" width="150" height="80" fill="#d1ecf1" stroke="#17a2b8" stroke-width="2" rx="8"/>
   <text x="125" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0c5460">
     Salgsregistrering
@@ -97,7 +97,7 @@
     • Leveringsregistrering
   </text>
   
-  <!-- Rapportering (Right) -->
+
   <rect x="600" y="220" width="150" height="80" fill="#fce4ec" stroke="#e91e63" stroke-width="2" rx="8"/>
   <text x="675" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#880e4f">
     Rapportering
@@ -112,26 +112,26 @@
     • Nøkkeltall
   </text>
   
-  <!-- Arrows connecting to ERP system -->
-  <!-- From Lagerstyring -->
+
+
   <path d="M 200 120 L 300 220" stroke="#f39c12" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- From Kundefordringer -->
+
   <path d="M 600 120 L 500 220" stroke="#28a745" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- From Salgsregistrering -->
+
   <path d="M 200 260 L 300 250" stroke="#17a2b8" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- To Rapportering -->
+
   <path d="M 500 260 L 600 250" stroke="#e91e63" stroke-width="2" fill="none" marker-start="url(#arrowhead)"/>
   
-  <!-- From Leverandørgjeld -->
+
   <path d="M 200 400 L 300 300" stroke="#dc3545" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- From Moms -->
+
   <path d="M 600 400 L 500 300" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Data flow indicators -->
+
   <text x="250" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666" transform="rotate(-45 250 170)">
     Lagerdata
   </text>
@@ -151,7 +151,7 @@
     Moms-data
   </text>
   
-  <!-- Integration benefits box -->
+
   <rect x="250" y="450" width="300" height="40" fill="#f0f8ff" stroke="#4169e1" stroke-width="1" rx="5"/>
   <text x="400" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#4169e1">
     Fordeler med Integrert System
@@ -160,7 +160,7 @@
     Sanntidsdata • Redusert feilrisiko • Automatisert rapportering • Bedre kontroll
   </text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#333"/>

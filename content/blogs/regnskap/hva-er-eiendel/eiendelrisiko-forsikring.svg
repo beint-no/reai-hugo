@@ -1,93 +1,93 @@
 <svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="400" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Eiendelrisiko og Forsikring
   </text>
   
-  <!-- Risk Types -->
+
   <rect x="50" y="60" width="340" height="150" fill="#fff5f5" stroke="#e74c3c" stroke-width="3" rx="10"/>
   <text x="220" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#e74c3c">
     Typer Eiendelrisiko
   </text>
   
-  <!-- Physical risk -->
+
   <circle cx="100" cy="115" r="12" fill="#c0392b"/>
   <text x="100" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">🔥</text>
   <text x="130" y="120" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">Fysisk risiko: Brann, tyveri, skade</text>
   
-  <!-- Technology risk -->
+
   <circle cx="100" cy="140" r="12" fill="#8e44ad"/>
   <text x="100" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">⚡</text>
   <text x="130" y="145" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">Teknologisk risiko: Utdatering, feil</text>
   
-  <!-- Market risk -->
+
   <circle cx="100" cy="165" r="12" fill="#f39c12"/>
   <text x="100" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">📈</text>
   <text x="130" y="170" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">Markedsrisiko: Verdifall, likviditet</text>
   
-  <!-- Operational risk -->
+
   <circle cx="100" cy="190" r="12" fill="#27ae60"/>
   <text x="100" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">⚙️</text>
   <text x="130" y="195" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">Operasjonell risiko: Driftsstans</text>
   
-  <!-- Risk Management -->
+
   <rect x="410" y="60" width="340" height="150" fill="#e8f5e8" stroke="#27ae60" stroke-width="3" rx="10"/>
   <text x="580" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#27ae60">
     Risikohåndtering
   </text>
   
-  <!-- Insurance -->
+
   <rect x="440" y="105" width="30" height="25" fill="#3498db" rx="3"/>
   <text x="455" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">🛡️</text>
   <text x="485" y="120" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">Forsikring: Overføring av risiko</text>
   
-  <!-- Diversification -->
+
   <circle cx="455" cy="135" r="12" fill="#9b59b6"/>
   <text x="455" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">📊</text>
   <text x="485" y="140" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">Diversifisering: Spredning av risiko</text>
   
-  <!-- Maintenance -->
+
   <rect x="440" y="150" width="30" height="25" fill="#e67e22" rx="3"/>
   <text x="455" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">🔧</text>
   <text x="485" y="165" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">Vedlikehold: Forebyggende tiltak</text>
   
-  <!-- Security -->
+
   <circle cx="455" cy="185" r="12" fill="#34495e"/>
   <text x="455" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">🔒</text>
   <text x="485" y="190" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">Sikkerhet: Fysisk og digital beskyttelse</text>
   
-  <!-- Risk Matrix -->
+
   <rect x="100" y="240" width="600" height="130" fill="#ffffff" stroke="#bdc3c7" stroke-width="2" rx="10"/>
   <text x="400" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">
     Risikomatrise for Eiendeler
   </text>
   
-  <!-- Matrix axes -->
+
   <text x="130" y="285" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">Sannsynlighet</text>
   <text x="650" y="285" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">Konsekvens</text>
   
-  <!-- Low risk -->
+
   <rect x="150" y="295" width="120" height="25" fill="#d5f4e6" stroke="#27ae60" stroke-width="1" rx="3"/>
   <text x="210" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
     Lav risiko: Akseptabel
   </text>
   
-  <!-- Medium risk -->
+
   <rect x="290" y="295" width="120" height="25" fill="#fef9e7" stroke="#f39c12" stroke-width="1" rx="3"/>
   <text x="350" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
     Middels risiko: Overvåk
   </text>
   
-  <!-- High risk -->
+
   <rect x="430" y="295" width="120" height="25" fill="#fadbd8" stroke="#e74c3c" stroke-width="1" rx="3"/>
   <text x="490" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
     Høy risiko: Handling kreves
   </text>
   
-  <!-- Examples -->
+
   <text x="150" y="340" font-family="Arial, sans-serif" font-size="10" fill="#27ae60">• Kontormøbler</text>
   <text x="150" y="355" font-family="Arial, sans-serif" font-size="10" fill="#27ae60">• Bankinnskudd</text>
   
@@ -97,7 +97,7 @@
   <text x="430" y="340" font-family="Arial, sans-serif" font-size="10" fill="#e74c3c">• Produksjonsmaskiner</text>
   <text x="430" y="355" font-family="Arial, sans-serif" font-size="10" fill="#e74c3c">• Kryptovaluta</text>
   
-  <!-- Bottom note -->
+
   <rect x="100" y="385" width="600" height="10" fill="#ecf0f1" rx="5"/>
   <text x="400" y="392" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">
     Effektiv risikostyring beskytter eiendelenes verdi og bedriftens kontinuitet

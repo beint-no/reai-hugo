@@ -1,19 +1,19 @@
 <svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="400" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#2c3e50">
     Betalingsoppfordring
   </text>
   
-  <!-- Subtitle -->
+
   <text x="400" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#7f8c8d">
     Prosessen for innkreving av utestående fordringer
   </text>
   
-  <!-- Main illustration elements -->
-  <!-- Invoice icon -->
+
+
   <g transform="translate(150, 120)">
     <rect x="0" y="0" width="80" height="100" fill="#3498db" stroke="#2980b9" stroke-width="2" rx="5"/>
     <rect x="10" y="15" width="60" height="3" fill="white"/>
@@ -24,26 +24,26 @@
     <text x="40" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Forfalt</text>
   </g>
   
-  <!-- Arrow 1 -->
+
   <g transform="translate(250, 160)">
     <path d="M 0 10 L 40 10 L 35 5 M 40 10 L 35 15" stroke="#e74c3c" stroke-width="3" fill="none"/>
     <text x="20" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#e74c3c" font-weight="bold">1</text>
   </g>
   
-  <!-- Reminder icon -->
+
   <g transform="translate(320, 120)">
     <circle cx="40" cy="50" r="45" fill="#f39c12" stroke="#e67e22" stroke-width="2"/>
     <text x="40" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="white">!</text>
     <text x="40" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white" font-weight="bold">PÅMINNELSE</text>
   </g>
   
-  <!-- Arrow 2 -->
+
   <g transform="translate(410, 160)">
     <path d="M 0 10 L 40 10 L 35 5 M 40 10 L 35 15" stroke="#e74c3c" stroke-width="3" fill="none"/>
     <text x="20" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#e74c3c" font-weight="bold">2</text>
   </g>
   
-  <!-- Formal demand icon -->
+
   <g transform="translate(480, 120)">
     <rect x="0" y="0" width="80" height="100" fill="#e74c3c" stroke="#c0392b" stroke-width="2" rx="5"/>
     <rect x="10" y="15" width="60" height="3" fill="white"/>
@@ -54,13 +54,13 @@
     <text x="40" y="92" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">+ Renter</text>
   </g>
   
-  <!-- Arrow 3 -->
+
   <g transform="translate(580, 160)">
     <path d="M 0 10 L 40 10 L 35 5 M 40 10 L 35 15" stroke="#e74c3c" stroke-width="3" fill="none"/>
     <text x="20" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#e74c3c" font-weight="bold">3</text>
   </g>
   
-  <!-- Collection icon -->
+
   <g transform="translate(650, 120)">
     <rect x="0" y="0" width="80" height="100" fill="#8e44ad" stroke="#7d3c98" stroke-width="2" rx="5"/>
     <text x="40" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white" font-weight="bold">INKASSO</text>
@@ -69,10 +69,10 @@
     <text x="40" y="92" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">skritt</text>
   </g>
   
-  <!-- Timeline -->
+
   <line x1="100" y1="280" x2="700" y2="280" stroke="#bdc3c7" stroke-width="2"/>
   
-  <!-- Timeline markers -->
+
   <circle cx="190" cy="280" r="5" fill="#3498db"/>
   <text x="190" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">0-7 dager</text>
   
@@ -85,7 +85,7 @@
   <circle cx="690" cy="280" r="5" fill="#8e44ad"/>
   <text x="690" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">60+ dager</text>
   
-  <!-- Bottom text -->
+
   <text x="400" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#2c3e50" font-weight="bold">
     Tidslinje for Betalingsoppfordring
   </text>

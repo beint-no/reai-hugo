@@ -9,18 +9,18 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f8f9fa"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGrad)"/>
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="white">
     Praktisk Eksempel: Handelsbedrift AS - Fortjenesteberegning 2023
   </text>
   
-  <!-- Main calculation flow -->
+
   
-  <!-- Revenue -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="300" height="60" fill="#007bff" rx="8" filter="url(#cardShadow)"/>
     <text x="150" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -31,7 +31,7 @@
     </text>
   </g>
   
-  <!-- Minus COGS -->
+
   <g transform="translate(400, 80)">
     <rect x="0" y="0" width="200" height="60" fill="#dc3545" rx="8" filter="url(#cardShadow)"/>
     <text x="100" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
@@ -45,14 +45,14 @@
     </text>
   </g>
   
-  <!-- Equals Gross Profit -->
+
   <g transform="translate(650, 80)">
     <text x="25" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#28a745">
       =
     </text>
   </g>
   
-  <!-- Gross Profit Result -->
+
   <g transform="translate(50, 160)">
     <rect x="0" y="0" width="300" height="60" fill="#17a2b8" rx="8" filter="url(#cardShadow)"/>
     <text x="150" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -63,7 +63,7 @@
     </text>
   </g>
   
-  <!-- Minus Operating Expenses -->
+
   <g transform="translate(400, 160)">
     <rect x="0" y="0" width="200" height="60" fill="#dc3545" rx="8" filter="url(#cardShadow)"/>
     <text x="100" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
@@ -77,7 +77,7 @@
     </text>
   </g>
   
-  <!-- Operating Profit Result -->
+
   <g transform="translate(50, 240)">
     <rect x="0" y="0" width="300" height="60" fill="#fd7e14" rx="8" filter="url(#cardShadow)"/>
     <text x="150" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -88,7 +88,7 @@
     </text>
   </g>
   
-  <!-- Minus Financial and Tax -->
+
   <g transform="translate(400, 240)">
     <rect x="0" y="0" width="200" height="60" fill="#dc3545" rx="8" filter="url(#cardShadow)"/>
     <text x="100" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
@@ -102,7 +102,7 @@
     </text>
   </g>
   
-  <!-- Net Profit Result -->
+
   <g transform="translate(50, 320)">
     <rect x="0" y="0" width="300" height="60" fill="#28a745" rx="8" filter="url(#cardShadow)"/>
     <text x="150" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -113,7 +113,7 @@
     </text>
   </g>
   
-  <!-- Key metrics box -->
+
   <g transform="translate(450, 320)">
     <rect x="0" y="0" width="300" height="120" fill="#ffffff" stroke="#dee2e6" stroke-width="2" rx="8" filter="url(#cardShadow)"/>
     <text x="150" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#495057">
@@ -142,7 +142,7 @@
     </text>
   </g>
   
-  <!-- Breakdown details -->
+
   <g transform="translate(50, 400)">
     <rect x="0" y="0" width="700" height="80" fill="#e9ecef" rx="8"/>
     <text x="350" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#495057">

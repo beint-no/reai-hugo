@@ -14,25 +14,25 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="24" font-weight="bold">Kundekartotek Integrasjon</text>
   
-  <!-- Central Customer Registry -->
+
   <g transform="translate(300, 180)">
     <rect x="0" y="0" width="200" height="140" fill="url(#centralGradient)" stroke="#1e40af" stroke-width="3" rx="15"/>
     <text x="100" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">KUNDEKARTOTEK</text>
     <text x="100" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">Sentral Database</text>
     
-    <!-- Database icon -->
+
     <g transform="translate(70, 55)">
       <ellipse cx="30" cy="10" rx="25" ry="8" fill="white" fill-opacity="0.9"/>
       <rect x="5" y="10" width="50" height="40" fill="white" fill-opacity="0.9"/>
       <ellipse cx="30" cy="50" rx="25" ry="8" fill="white" fill-opacity="0.7"/>
       
-      <!-- Data lines -->
+
       <line x1="15" y1="20" x2="45" y2="20" stroke="#3b82f6" stroke-width="1"/>
       <line x1="15" y1="28" x2="45" y2="28" stroke="#3b82f6" stroke-width="1"/>
       <line x1="15" y1="36" x2="45" y2="36" stroke="#3b82f6" stroke-width="1"/>
@@ -42,14 +42,14 @@
     <text x="100" y="125" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="11">API &amp; Datasynkronisering</text>
   </g>
   
-  <!-- Connected Systems -->
+
   
-  <!-- Accounting System (top left) -->
+
   <g transform="translate(50, 60)">
     <rect x="0" y="0" width="160" height="100" fill="url(#systemGradient)" stroke="#10b981" stroke-width="2" rx="10"/>
     <text x="80" y="20" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="14" font-weight="bold">REGNSKAPSSYSTEM</text>
     
-    <!-- Accounting icon -->
+
     <g transform="translate(60, 30)">
       <rect x="0" y="0" width="40" height="30" fill="#10b981" rx="5"/>
       <line x1="8" y1="8" x2="32" y2="8" stroke="white" stroke-width="1"/>
@@ -61,12 +61,12 @@
     <text x="80" y="92" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">• Automatisk kontering</text>
   </g>
   
-  <!-- CRM System (top right) -->
+
   <g transform="translate(590, 60)">
     <rect x="0" y="0" width="160" height="100" fill="url(#systemGradient)" stroke="#f59e0b" stroke-width="2" rx="10"/>
     <text x="80" y="20" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="14" font-weight="bold">CRM SYSTEM</text>
     
-    <!-- CRM icon -->
+
     <g transform="translate(60, 30)">
       <circle cx="20" cy="15" r="15" fill="#f59e0b"/>
       <circle cx="12" cy="10" r="3" fill="white"/>
@@ -78,12 +78,12 @@
     <text x="80" y="92" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">• Kundeoppfølging</text>
   </g>
   
-  <!-- E-commerce Platform (bottom left) -->
+
   <g transform="translate(50, 340)">
     <rect x="0" y="0" width="160" height="100" fill="url(#systemGradient)" stroke="#8b5cf6" stroke-width="2" rx="10"/>
     <text x="80" y="20" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="14" font-weight="bold">E-HANDEL</text>
     
-    <!-- E-commerce icon -->
+
     <g transform="translate(60, 30)">
       <rect x="0" y="0" width="40" height="30" fill="#8b5cf6" rx="3"/>
       <circle cx="12" cy="15" r="4" fill="white"/>
@@ -95,12 +95,12 @@
     <text x="80" y="92" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">• Automatisk registrering</text>
   </g>
   
-  <!-- Payment System (bottom right) -->
+
   <g transform="translate(590, 340)">
     <rect x="0" y="0" width="160" height="100" fill="url(#systemGradient)" stroke="#ef4444" stroke-width="2" rx="10"/>
     <text x="80" y="20" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="14" font-weight="bold">BETALINGSSYSTEM</text>
     
-    <!-- Payment icon -->
+
     <g transform="translate(60, 30)">
       <rect x="0" y="0" width="40" height="25" fill="#ef4444" rx="5"/>
       <rect x="5" y="5" width="30" height="4" fill="white"/>
@@ -111,7 +111,7 @@
     <text x="80" y="92" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">• Automatisk avstemming</text>
   </g>
   
-  <!-- Data Flow Arrows -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#6b7280"/>
@@ -121,7 +121,7 @@
     </marker>
   </defs>
   
-  <!-- Bidirectional arrows showing data integration -->
+
   <line x1="210" y1="110" x2="300" y2="200" stroke="#3b82f6" stroke-width="3" marker-end="url(#bidirectional)"/>
   <line x1="300" y1="220" x2="210" y2="130" stroke="#3b82f6" stroke-width="3" marker-end="url(#bidirectional)"/>
   
@@ -134,7 +134,7 @@
   <line x1="590" y1="390" x2="500" y2="300" stroke="#3b82f6" stroke-width="3" marker-end="url(#bidirectional)"/>
   <line x1="500" y1="280" x2="590" y2="370" stroke="#3b82f6" stroke-width="3" marker-end="url(#bidirectional)"/>
   
-  <!-- Data flow labels -->
+
   <g transform="translate(230, 140)">
     <rect x="0" y="0" width="80" height="30" fill="white" stroke="#6b7280" stroke-width="1" rx="5"/>
     <text x="40" y="12" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="9">Debitordata</text>
@@ -159,7 +159,7 @@
     <text x="40" y="22" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="9">Saldoer</text>
   </g>
   
-  <!-- Benefits box -->
+
   <g transform="translate(250, 450)">
     <rect x="0" y="0" width="300" height="40" fill="white" stroke="#64748b" stroke-width="1" rx="8"/>
     <text x="150" y="15" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Fordeler med Integrasjon</text>

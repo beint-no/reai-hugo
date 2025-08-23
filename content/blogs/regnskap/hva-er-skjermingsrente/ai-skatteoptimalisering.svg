@@ -1,27 +1,27 @@
 <svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8fafc"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#1e293b">
     AI-Drevet Skatteoptimalisering
   </text>
   
-  <!-- Central AI Brain -->
+
   <circle cx="400" cy="180" r="80" fill="#3b82f6" opacity="0.1"/>
   <circle cx="400" cy="180" r="60" fill="#3b82f6" opacity="0.2"/>
   <circle cx="400" cy="180" r="40" fill="#3b82f6" opacity="0.3"/>
   
-  <!-- AI Brain Icon -->
+
   <path d="M 360 160 Q 360 140 380 140 L 420 140 Q 440 140 440 160 L 440 180 Q 440 200 420 200 L 380 200 Q 360 200 360 180 Z" fill="#3b82f6"/>
   <circle cx="380" cy="165" r="3" fill="white"/>
   <circle cx="400" cy="165" r="3" fill="white"/>
   <circle cx="420" cy="165" r="3" fill="white"/>
   <path d="M 370 185 Q 400 195 430 185" stroke="white" stroke-width="2" fill="none"/>
   
-  <!-- AI Applications (4 main areas) -->
+
   
-  <!-- 1. Prediktiv Modellering -->
+
   <g transform="translate(120, 80)">
     <rect x="0" y="0" width="160" height="80" rx="8" fill="#10b981" opacity="0.1" stroke="#10b981" stroke-width="2"/>
     <text x="80" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#059669">
@@ -38,7 +38,7 @@
     </text>
   </g>
   
-  <!-- 2. Portfolio Optimalisering -->
+
   <g transform="translate(520, 80)">
     <rect x="0" y="0" width="160" height="80" rx="8" fill="#f59e0b" opacity="0.1" stroke="#f59e0b" stroke-width="2"/>
     <text x="80" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#d97706">
@@ -55,7 +55,7 @@
     </text>
   </g>
   
-  <!-- 3. Pattern Recognition -->
+
   <g transform="translate(120, 280)">
     <rect x="0" y="0" width="160" height="80" rx="8" fill="#8b5cf6" opacity="0.1" stroke="#8b5cf6" stroke-width="2"/>
     <text x="80" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#7c3aed">
@@ -72,7 +72,7 @@
     </text>
   </g>
   
-  <!-- 4. Risk Management -->
+
   <g transform="translate(520, 280)">
     <rect x="0" y="0" width="160" height="80" rx="8" fill="#ef4444" opacity="0.1" stroke="#ef4444" stroke-width="2"/>
     <text x="80" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#dc2626">
@@ -89,61 +89,61 @@
     </text>
   </g>
   
-  <!-- Connecting Lines from AI Brain to Applications -->
+
   <line x1="350" y1="140" x2="200" y2="120" stroke="#3b82f6" stroke-width="2" opacity="0.6"/>
   <line x1="450" y1="140" x2="600" y2="120" stroke="#3b82f6" stroke-width="2" opacity="0.6"/>
   <line x1="350" y1="220" x2="200" y2="320" stroke="#3b82f6" stroke-width="2" opacity="0.6"/>
   <line x1="450" y1="220" x2="600" y2="320" stroke="#3b82f6" stroke-width="2" opacity="0.6"/>
   
-  <!-- Process Flow -->
+
   <g transform="translate(50, 420)">
     <text x="350" y="20" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#1e293b">
       AI-Optimalisering Prosess
     </text>
     
-    <!-- Step 1 -->
+
     <circle cx="80" cy="60" r="25" fill="#3b82f6"/>
     <text x="80" y="65" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">1</text>
     <text x="80" y="90" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#475569">
       Data Innsamling
     </text>
     
-    <!-- Step 2 -->
+
     <circle cx="240" cy="60" r="25" fill="#10b981"/>
     <text x="240" y="65" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">2</text>
     <text x="240" y="90" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#475569">
       ML-Analyse
     </text>
     
-    <!-- Step 3 -->
+
     <circle cx="400" cy="60" r="25" fill="#f59e0b"/>
     <text x="400" y="65" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">3</text>
     <text x="400" y="90" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#475569">
       Optimalisering
     </text>
     
-    <!-- Step 4 -->
+
     <circle cx="560" cy="60" r="25" fill="#8b5cf6"/>
     <text x="560" y="65" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">4</text>
     <text x="560" y="90" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#475569">
       Implementering
     </text>
     
-    <!-- Step 5 -->
+
     <circle cx="720" cy="60" r="25" fill="#ef4444"/>
     <text x="720" y="65" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">5</text>
     <text x="720" y="90" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#475569">
       Overvåkning
     </text>
     
-    <!-- Arrows between steps -->
+
     <path d="M 105 60 L 215 60" stroke="#6b7280" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
     <path d="M 265 60 L 375 60" stroke="#6b7280" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
     <path d="M 425 60 L 535 60" stroke="#6b7280" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
     <path d="M 585 60 L 695 60" stroke="#6b7280" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   </g>
   
-  <!-- Key Benefits Box -->
+
   <g transform="translate(50, 540)">
     <rect x="0" y="0" width="700" height="50" rx="8" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1"/>
     <text x="350" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#1e293b">
@@ -154,7 +154,7 @@
     </text>
   </g>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#6b7280"/>

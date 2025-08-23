@@ -22,15 +22,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#333">
     Forvaltning av Finanskapital
   </text>
   
-  <!-- Central management circle -->
+
   <circle cx="400" cy="300" r="70" fill="url(#centerGradient)" stroke="#003366" stroke-width="3"/>
   <text x="400" y="290" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
     FINANSKAPITAL
@@ -39,7 +39,7 @@
     FORVALTNING
   </text>
   
-  <!-- Liquidity Management (Top Left) -->
+
   <rect x="50" y="80" width="280" height="160" fill="white" stroke="#28a745" stroke-width="3" rx="15"/>
   <rect x="50" y="80" width="280" height="40" fill="url(#likviditetGradient)" rx="15"/>
   <rect x="50" y="110" width="280" height="10" fill="url(#likviditetGradient)"/>
@@ -71,7 +71,7 @@
     Sikre tilstrekkelig arbeidskapital
   </text>
   
-  <!-- Investment Strategy (Top Right) -->
+
   <rect x="470" y="80" width="280" height="160" fill="white" stroke="#007bff" stroke-width="3" rx="15"/>
   <rect x="470" y="80" width="280" height="40" fill="url(#investeringGradient)" rx="15"/>
   <rect x="470" y="110" width="280" height="10" fill="url(#investeringGradient)"/>
@@ -103,7 +103,7 @@
     Optimalisere risiko og avkastning
   </text>
   
-  <!-- Financial Planning (Bottom) -->
+
   <rect x="200" y="420" width="400" height="160" fill="white" stroke="#6f42c1" stroke-width="3" rx="15"/>
   <rect x="200" y="420" width="400" height="40" fill="url(#planleggingGradient)" rx="15"/>
   <rect x="200" y="450" width="400" height="10" fill="url(#planleggingGradient)"/>
@@ -112,7 +112,7 @@
     FINANSIELL PLANLEGGING
   </text>
   
-  <!-- Planning elements -->
+
   <circle cx="280" cy="500" r="18" fill="#6f42c1"/>
   <text x="280" y="506" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
     📋
@@ -151,19 +151,19 @@
     Strategisk planlegging og kontinuerlig overvåking
   </text>
   
-  <!-- Connecting arrows -->
+
   <path d="M 330 200 Q 350 250 370 280" stroke="#28a745" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 470 200 Q 450 250 430 280" stroke="#007bff" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 400 370 Q 400 390 400 420" stroke="#6f42c1" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#6c757d"/>
     </marker>
   </defs>
   
-  <!-- Key principles box -->
+
   <rect x="50" y="280" width="150" height="120" fill="white" stroke="#fd7e14" stroke-width="2" rx="10"/>
   <rect x="50" y="280" width="150" height="30" fill="#fd7e14"/>
   <text x="125" y="300" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
@@ -186,7 +186,7 @@
     • Transparens
   </text>
   
-  <!-- Performance metrics box -->
+
   <rect x="600" y="280" width="150" height="120" fill="white" stroke="#dc3545" stroke-width="2" rx="10"/>
   <rect x="600" y="280" width="150" height="30" fill="#dc3545"/>
   <text x="675" y="300" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">

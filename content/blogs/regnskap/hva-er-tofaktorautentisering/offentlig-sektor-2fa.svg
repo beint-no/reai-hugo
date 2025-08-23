@@ -21,21 +21,21 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e293b">
     Tofaktorautentisering i Offentlig Sektor
   </text>
   
-  <!-- Government building icon -->
+
   <g transform="translate(50, 70)">
     <rect x="0" y="40" width="120" height="80" fill="url(#govGradient)" filter="url(#shadow)"/>
     <rect x="10" y="30" width="100" height="15" fill="#1e40af"/>
     <rect x="5" y="25" width="110" height="10" fill="#f59e0b"/>
     
-    <!-- Columns -->
+
     <rect x="15" y="50" width="8" height="60" fill="#dbeafe"/>
     <rect x="28" y="50" width="8" height="60" fill="#dbeafe"/>
     <rect x="41" y="50" width="8" height="60" fill="#dbeafe"/>
@@ -44,18 +44,18 @@
     <rect x="80" y="50" width="8" height="60" fill="#dbeafe"/>
     <rect x="93" y="50" width="8" height="60" fill="#dbeafe"/>
     
-    <!-- Steps -->
+
     <rect x="0" y="120" width="120" height="8" fill="#374151"/>
     
-    <!-- Text -->
+
     <text x="60" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">
       Offentlig Virksomhet
     </text>
   </g>
   
-  <!-- Security framework boxes -->
+
   <g transform="translate(200, 60)">
-    <!-- NSM Box -->
+
     <rect x="0" y="0" width="160" height="80" fill="#fef3c7" stroke="#f59e0b" stroke-width="2" rx="8" filter="url(#shadow)"/>
     <text x="80" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#92400e">
       NSM Grunnprinsipper
@@ -70,7 +70,7 @@
       Klassifisering av data
     </text>
     
-    <!-- GDPR Box -->
+
     <rect x="180" y="0" width="140" height="80" fill="#dcfce7" stroke="#22c55e" stroke-width="2" rx="8" filter="url(#shadow)"/>
     <text x="250" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#166534">
       GDPR
@@ -85,7 +85,7 @@
       Databeskyttelse
     </text>
     
-    <!-- Arkivloven Box -->
+
     <rect x="340" y="0" width="140" height="80" fill="#e0e7ff" stroke="#6366f1" stroke-width="2" rx="8" filter="url(#shadow)"/>
     <text x="410" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#4338ca">
       Arkivloven
@@ -101,14 +101,14 @@
     </text>
   </g>
   
-  <!-- ID-porten integration -->
+
   <g transform="translate(50, 180)">
     <rect x="0" y="0" width="200" height="120" fill="#fef2f2" stroke="#ef4444" stroke-width="2" rx="8" filter="url(#shadow)"/>
     <text x="100" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#dc2626">
       ID-porten Integrasjon
     </text>
     
-    <!-- ID-porten logo placeholder -->
+
     <circle cx="100" cy="50" r="15" fill="#dc2626"/>
     <text x="100" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
       ID
@@ -125,14 +125,14 @@
     </text>
   </g>
   
-  <!-- Compliance requirements -->
+
   <g transform="translate(280, 180)">
     <rect x="0" y="0" width="220" height="120" fill="#f0f9ff" stroke="#0ea5e9" stroke-width="2" rx="8" filter="url(#shadow)"/>
     <text x="110" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#0369a1">
       Offentlige Anskaffelser
     </text>
     
-    <!-- Compliance checklist -->
+
     <g transform="translate(10, 35)">
       <rect x="0" y="0" width="12" height="12" fill="#22c55e" rx="2"/>
       <path d="M3 6 L5 8 L9 4" stroke="white" stroke-width="2" fill="none"/>
@@ -160,14 +160,14 @@
     </g>
   </g>
   
-  <!-- Special implementation requirements -->
+
   <g transform="translate(530, 180)">
     <rect x="0" y="0" width="220" height="120" fill="#fef7ed" stroke="#f97316" stroke-width="2" rx="8" filter="url(#shadow)"/>
     <text x="110" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#ea580c">
       Spesielle Krav
     </text>
     
-    <!-- Special requirements list -->
+
     <g transform="translate(10, 35)">
       <circle cx="6" cy="6" r="3" fill="#f97316"/>
       <text x="20" y="10" font-family="Arial, sans-serif" font-size="10" fill="#ea580c">
@@ -191,13 +191,13 @@
     </g>
   </g>
   
-  <!-- Data flow diagram -->
+
   <g transform="translate(50, 330)">
     <text x="350" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1e293b">
       Dataflyt i Offentlig Sektor 2FA
     </text>
     
-    <!-- User -->
+
     <g transform="translate(0, 30)">
       <circle cx="40" cy="40" r="30" fill="#dbeafe" stroke="#3b82f6" stroke-width="2"/>
       <circle cx="40" cy="35" r="8" fill="#3b82f6"/>
@@ -207,13 +207,13 @@
       </text>
     </g>
     
-    <!-- Arrow 1 -->
+
     <path d="M100 70 L170 70" stroke="#374151" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
     <text x="135" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#374151">
       Autentisering
     </text>
     
-    <!-- 2FA System -->
+
     <g transform="translate(190, 30)">
       <rect x="0" y="0" width="120" height="80" fill="#dcfce7" stroke="#22c55e" stroke-width="2" rx="8"/>
       <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#166534">
@@ -230,13 +230,13 @@
       </text>
     </g>
     
-    <!-- Arrow 2 -->
+
     <path d="M330 70 L400 70" stroke="#374151" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
     <text x="365" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#374151">
       Godkjent tilgang
     </text>
     
-    <!-- Government systems -->
+
     <g transform="translate(420, 30)">
       <rect x="0" y="0" width="140" height="80" fill="#fef3c7" stroke="#f59e0b" stroke-width="2" rx="8"/>
       <text x="70" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#92400e">
@@ -253,13 +253,13 @@
       </text>
     </g>
     
-    <!-- Arrow 3 -->
+
     <path d="M580 70 L650 70" stroke="#374151" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
     <text x="615" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#374151">
       Logging
     </text>
     
-    <!-- Audit log -->
+
     <g transform="translate(670, 30)">
       <rect x="0" y="0" width="80" height="80" fill="#f3e8ff" stroke="#a855f7" stroke-width="2" rx="8"/>
       <text x="40" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#7c3aed">
@@ -277,13 +277,13 @@
     </g>
   </g>
   
-  <!-- Security levels -->
+
   <g transform="translate(50, 480)">
     <text x="350" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1e293b">
       Sikkerhetsnivåer i Offentlig Sektor
     </text>
     
-    <!-- Level 1 -->
+
     <g transform="translate(0, 30)">
       <rect x="0" y="0" width="160" height="60" fill="#dcfce7" stroke="#22c55e" stroke-width="2" rx="8"/>
       <text x="80" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#166534">
@@ -297,7 +297,7 @@
       </text>
     </g>
     
-    <!-- Level 2 -->
+
     <g transform="translate(180, 30)">
       <rect x="0" y="0" width="160" height="60" fill="#fef3c7" stroke="#f59e0b" stroke-width="2" rx="8"/>
       <text x="80" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#92400e">
@@ -311,7 +311,7 @@
       </text>
     </g>
     
-    <!-- Level 3 -->
+
     <g transform="translate(360, 30)">
       <rect x="0" y="0" width="160" height="60" fill="#fee2e2" stroke="#ef4444" stroke-width="2" rx="8"/>
       <text x="80" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#dc2626">
@@ -325,7 +325,7 @@
       </text>
     </g>
     
-    <!-- Level 4 -->
+
     <g transform="translate(540, 30)">
       <rect x="0" y="0" width="160" height="60" fill="#f3e8ff" stroke="#8b5cf6" stroke-width="2" rx="8"/>
       <text x="80" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#7c3aed">
@@ -340,7 +340,7 @@
     </g>
   </g>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#374151"/>

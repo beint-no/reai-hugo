@@ -18,16 +18,16 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
   <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
     Renteberegning for Bankinnskudd
   </text>
   
-  <!-- Simple Interest Formula -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="700" height="80" rx="10" fill="url(#formulaGradient)" opacity="0.9"/>
     <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
@@ -41,12 +41,12 @@
     </text>
   </g>
   
-  <!-- Example Calculation -->
+
   <text x="50" y="200" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333">
     Eksempel på Renteberegning:
   </text>
   
-  <!-- Input Values -->
+
   <g transform="translate(50, 220)">
     <rect x="0" y="0" width="200" height="120" rx="10" fill="#E3F2FD" stroke="#2196F3" stroke-width="2"/>
     <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1976D2">
@@ -66,7 +66,7 @@
     </text>
   </g>
   
-  <!-- Calculation Process -->
+
   <g transform="translate(300, 220)">
     <rect x="0" y="0" width="250" height="120" rx="10" fill="url(#exampleGradient)" opacity="0.9"/>
     <text x="125" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
@@ -86,7 +86,7 @@
     </text>
   </g>
   
-  <!-- Result -->
+
   <g transform="translate(600, 220)">
     <rect x="0" y="0" width="150" height="120" rx="10" fill="#E8F5E8" stroke="#4CAF50" stroke-width="2"/>
     <text x="75" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2E7D32">
@@ -106,19 +106,19 @@
     </text>
   </g>
   
-  <!-- Compound Interest Section -->
+
   <text x="50" y="380" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333">
     Sammensatt Rente (Terminskudd):
   </text>
   
-  <!-- Compound Interest Table -->
+
   <g transform="translate(50, 400)">
     <rect x="0" y="0" width="700" height="180" rx="10" fill="url(#compoundGradient)" opacity="0.9"/>
     <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
       Eksempel: 1.000.000 kr med 3% årlig rente
     </text>
     
-    <!-- Table Header -->
+
     <rect x="20" y="40" width="660" height="30" fill="white" opacity="0.2"/>
     <text x="80" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
       År
@@ -136,7 +136,7 @@
       Total avkastning
     </text>
     
-    <!-- Year 1 -->
+
     <rect x="20" y="70" width="660" height="25" fill="white" opacity="0.1"/>
     <text x="80" y="87" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="white">1</text>
     <text x="200" y="87" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="white">1.000.000</text>
@@ -144,14 +144,14 @@
     <text x="500" y="87" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="white">1.030.000</text>
     <text x="620" y="87" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="white">30.000</text>
     
-    <!-- Year 2 -->
+
     <text x="80" y="112" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="white">2</text>
     <text x="200" y="112" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="white">1.030.000</text>
     <text x="350" y="112" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="white">30.900</text>
     <text x="500" y="112" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="white">1.060.900</text>
     <text x="620" y="112" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="white">60.900</text>
     
-    <!-- Year 3 -->
+
     <rect x="20" y="120" width="660" height="25" fill="white" opacity="0.1"/>
     <text x="80" y="137" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="white">3</text>
     <text x="200" y="137" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="white">1.060.900</text>
@@ -159,13 +159,13 @@
     <text x="500" y="137" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="white">1.092.727</text>
     <text x="620" y="137" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="white">92.727</text>
     
-    <!-- Key Insight -->
+
     <text x="350" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
       Sammensatt rente gir høyere avkastning over tid
     </text>
   </g>
   
-  <!-- Interest Types Comparison -->
+
   <g transform="translate(50, 360)">
     <rect x="0" y="0" width="300" height="30" rx="5" fill="#E8F5E8" stroke="#4CAF50" stroke-width="2"/>
     <text x="150" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2E7D32">

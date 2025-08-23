@@ -6,24 +6,24 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="700" height="500" fill="url(#bgGrad)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="350" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     NPV (Netto Nåverdi) Beregning
   </text>
   
-  <!-- Formula -->
+
   <rect x="50" y="70" width="600" height="50" fill="#e3f2fd" stroke="#007bff" stroke-width="2" rx="5"/>
   <text x="350" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">
     NPV = Σ [CFt / (1 + r)^t] - I₀
   </text>
   
-  <!-- Timeline -->
+
   <line x1="100" y1="180" x2="600" y2="180" stroke="#495057" stroke-width="3"/>
   
-  <!-- Year markers -->
+
   <line x1="100" y1="175" x2="100" y2="185" stroke="#495057" stroke-width="2"/>
   <text x="100" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#495057">År 0</text>
   
@@ -39,7 +39,7 @@
   <line x1="500" y1="175" x2="500" y2="185" stroke="#495057" stroke-width="2"/>
   <text x="500" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#495057">År 4</text>
   
-  <!-- Cash flows -->
+
   <rect x="70" y="220" width="60" height="40" fill="#dc3545" stroke="#c82333" stroke-width="2" rx="3"/>
   <text x="100" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">-500 000</text>
   <text x="100" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">Investering</text>
@@ -60,12 +60,12 @@
   <text x="500" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">120 000</text>
   <text x="500" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">Kontantstrøm</text>
   
-  <!-- Discount rate -->
+
   <text x="350" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
     Diskonteringsrente: 10%
   </text>
   
-  <!-- Calculations -->
+
   <rect x="50" y="310" width="600" height="120" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="5"/>
   <text x="350" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
     NPV Beregning:
@@ -94,7 +94,7 @@
     NPV = 517 399 - 500 000 = 17 399 kr
   </text>
   
-  <!-- Decision rule -->
+
   <rect x="50" y="450" width="600" height="40" fill="#d4edda" stroke="#28a745" stroke-width="2" rx="5"/>
   <text x="350" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#28a745">
     NPV > 0: Investeringen er lønnsom og bør aksepteres

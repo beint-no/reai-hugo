@@ -1,13 +1,13 @@
 <svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Dokumentasjonssystem Oversikt
   </text>
   
-  <!-- Primary Documents -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="150" height="100" fill="#3498db" stroke="#2980b9" stroke-width="2" rx="5"/>
     <text x="75" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -27,7 +27,7 @@
     </text>
   </g>
   
-  <!-- Secondary Documents -->
+
   <g transform="translate(50, 220)">
     <rect x="0" y="0" width="150" height="100" fill="#9b59b6" stroke="#8e44ad" stroke-width="2" rx="5"/>
     <text x="75" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -47,7 +47,7 @@
     </text>
   </g>
   
-  <!-- Registration System -->
+
   <g transform="translate(325, 150)">
     <rect x="0" y="0" width="150" height="100" fill="#e67e22" stroke="#d35400" stroke-width="2" rx="5"/>
     <text x="75" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -67,7 +67,7 @@
     </text>
   </g>
   
-  <!-- Archive System -->
+
   <g transform="translate(600, 80)">
     <rect x="0" y="0" width="150" height="100" fill="#27ae60" stroke="#229954" stroke-width="2" rx="5"/>
     <text x="75" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -87,7 +87,7 @@
     </text>
   </g>
   
-  <!-- Support Documentation -->
+
   <g transform="translate(600, 220)">
     <rect x="0" y="0" width="150" height="100" fill="#e74c3c" stroke="#c0392b" stroke-width="2" rx="5"/>
     <text x="75" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -107,29 +107,29 @@
     </text>
   </g>
   
-  <!-- Arrows -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>
     </marker>
   </defs>
   
-  <!-- Flow arrows -->
+
   <g stroke="#34495e" stroke-width="2" fill="none" marker-end="url(#arrowhead)">
-    <!-- Primary to Registration -->
+
     <path d="M200 130 L325 180"/>
     
-    <!-- Secondary to Registration -->
+
     <path d="M200 270 L325 220"/>
     
-    <!-- Registration to Archive -->
+
     <path d="M475 180 L600 130"/>
     
-    <!-- Registration to Support -->
+
     <path d="M475 220 L600 270"/>
   </g>
   
-  <!-- Process labels -->
+
   <text x="262" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#34495e">
     Registrering
   </text>
@@ -146,7 +146,7 @@
     Kontroll
   </text>
   
-  <!-- Central process circle -->
+
   <circle cx="400" cy="200" r="40" fill="#f39c12" stroke="#e67e22" stroke-width="3"/>
   <text x="400" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     Dokumentasjons-
@@ -155,7 +155,7 @@
     prosess
   </text>
   
-  <!-- Legal requirements box -->
+
   <g transform="translate(250, 380)">
     <rect x="0" y="0" width="300" height="80" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2" rx="5"/>
     <text x="150" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">

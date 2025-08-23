@@ -14,23 +14,23 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="450" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
     Verdivurdering av Anleggsmidler
   </text>
   
-  <!-- Cost Model Section -->
+
   <g transform="translate(50, 80)">
-    <!-- Header -->
+
     <rect x="0" y="0" width="320" height="50" fill="url(#blueGradient)" stroke="#1c7ed6" stroke-width="2" rx="10"/>
     <text x="160" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#fff">
       Kostmodellen
     </text>
     
-    <!-- Formula box -->
+
     <rect x="0" y="60" width="320" height="80" fill="#fff" stroke="#1c7ed6" stroke-width="2" rx="5"/>
     <text x="160" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1c7ed6">
       Bokført verdi =
@@ -45,7 +45,7 @@
       - Akkumulerte nedskrivninger
     </text>
     
-    <!-- Characteristics -->
+
     <rect x="0" y="150" width="320" height="120" fill="#e3f2fd" stroke="#1c7ed6" stroke-width="1" rx="5"/>
     <text x="160" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1565c0">
       Kjennetegn:
@@ -67,15 +67,15 @@
     </text>
   </g>
   
-  <!-- Revaluation Model Section -->
+
   <g transform="translate(430, 80)">
-    <!-- Header -->
+
     <rect x="0" y="0" width="320" height="50" fill="url(#greenGradient)" stroke="#37b24d" stroke-width="2" rx="10"/>
     <text x="160" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#fff">
       Omvurderingsmodellen
     </text>
     
-    <!-- Formula box -->
+
     <rect x="0" y="60" width="320" height="80" fill="#fff" stroke="#37b24d" stroke-width="2" rx="5"/>
     <text x="160" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#37b24d">
       Bokført verdi =
@@ -90,7 +90,7 @@
       - Påfølgende nedskrivninger
     </text>
     
-    <!-- Characteristics -->
+
     <rect x="0" y="150" width="320" height="120" fill="#e8f5e8" stroke="#37b24d" stroke-width="1" rx="5"/>
     <text x="160" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2e7d32">
       Kjennetegn:
@@ -112,13 +112,13 @@
     </text>
   </g>
   
-  <!-- VS indicator -->
+
   <circle cx="400" cy="200" r="30" fill="#fff" stroke="#495057" stroke-width="3"/>
   <text x="400" y="208" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#495057">
     VS
   </text>
   
-  <!-- Decision factors -->
+
   <g transform="translate(150, 320)">
     <rect x="0" y="0" width="500" height="100" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="10"/>
     <text x="250" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#856404">
@@ -141,7 +141,7 @@
     </g>
   </g>
   
-  <!-- Bottom note -->
+
   <text x="400" y="440" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
     Begge modeller er akseptert under IFRS, men må anvendes konsistent for hele klasser av anleggsmidler
   </text>

@@ -17,21 +17,21 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#0066cc">
     Forskuddstrekk Lovgrunnlag
   </text>
   
-  <!-- Main Laws Section -->
+
   <g transform="translate(50, 70)">
     <text x="0" y="20" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#0066cc">
       Hovedlover
     </text>
     
-    <!-- Skatteloven -->
+
     <g transform="translate(0, 40)">
       <rect x="0" y="0" width="300" height="80" fill="url(#lawGradient)" rx="10" filter="url(#shadow)"/>
       <text x="150" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
@@ -45,7 +45,7 @@
       </text>
     </g>
     
-    <!-- Forskuddstrekkloven -->
+
     <g transform="translate(320, 40)">
       <rect x="0" y="0" width="300" height="80" fill="url(#lawGradient)" rx="10" filter="url(#shadow)"/>
       <text x="150" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
@@ -60,13 +60,13 @@
     </g>
   </g>
   
-  <!-- Supporting Laws Section -->
+
   <g transform="translate(50, 200)">
     <text x="0" y="20" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#0066cc">
       Støttelover
     </text>
     
-    <!-- Skatteforvaltningsloven -->
+
     <g transform="translate(0, 40)">
       <rect x="0" y="0" width="300" height="70" fill="url(#lawGradient)" rx="10" filter="url(#shadow)"/>
       <text x="150" y="25" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="white">
@@ -80,7 +80,7 @@
       </text>
     </g>
     
-    <!-- A-ordningen -->
+
     <g transform="translate(320, 40)">
       <rect x="0" y="0" width="300" height="70" fill="url(#adminGradient)" rx="10" filter="url(#shadow)"/>
       <text x="150" y="25" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="white">
@@ -95,7 +95,7 @@
     </g>
   </g>
   
-  <!-- Administration -->
+
   <g transform="translate(50, 320)">
     <text x="0" y="20" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#0066cc">
       Administrasjon
@@ -115,7 +115,7 @@
     </g>
   </g>
   
-  <!-- Key Points -->
+
   <g transform="translate(50, 430)">
     <circle cx="10" cy="10" r="4" fill="#0066cc"/>
     <text x="25" y="15" font-family="Arial, sans-serif" font-size="12" fill="#333">

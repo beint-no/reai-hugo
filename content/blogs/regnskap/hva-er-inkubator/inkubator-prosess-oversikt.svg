@@ -1,13 +1,13 @@
 <svg width="900" height="600" viewBox="0 0 900 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="900" height="600" fill="#f8fafc"/>
   
-  <!-- Title -->
+
   <text x="450" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e293b">
     Inkubatorprosessen fra Idé til Marked
   </text>
   
-  <!-- Phase 1: Application -->
+
   <rect x="50" y="80" width="150" height="200" fill="#fef3c7" stroke="#f59e0b" stroke-width="2" rx="10"/>
   <text x="125" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#d97706">
     Fase 1
@@ -16,13 +16,13 @@
     Søknad &amp; Utvelgelse
   </text>
   
-  <!-- Application icon -->
+
   <rect x="100" y="140" width="50" height="40" fill="#f59e0b" rx="5"/>
   <text x="125" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
     SØKNAD
   </text>
   
-  <!-- Application details -->
+
   <text x="60" y="200" font-family="Arial, sans-serif" font-size="11" fill="#374151">
     • Forretningsidé
   </text>
@@ -39,7 +39,7 @@
     • Skalerbarhet
   </text>
   
-  <!-- Phase 2: Incubation -->
+
   <rect x="250" y="80" width="200" height="200" fill="#dbeafe" stroke="#3b82f6" stroke-width="2" rx="10"/>
   <text x="350" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e40af">
     Fase 2
@@ -48,7 +48,7 @@
     Inkubasjon (6-24 mnd)
   </text>
   
-  <!-- Incubation building -->
+
   <rect x="320" y="140" width="60" height="50" fill="#3b82f6" rx="5"/>
   <text x="350" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="white">
     INKUBATOR
@@ -57,7 +57,7 @@
     HUB
   </text>
   
-  <!-- Incubation services -->
+
   <text x="260" y="210" font-family="Arial, sans-serif" font-size="11" fill="#374151">
     • Arbeidsplasser
   </text>
@@ -74,7 +74,7 @@
     • Forretningsutvikling
   </text>
   
-  <!-- Phase 3: Graduation -->
+
   <rect x="500" y="80" width="150" height="200" fill="#dcfce7" stroke="#16a34a" stroke-width="2" rx="10"/>
   <text x="575" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#15803d">
     Fase 3
@@ -83,13 +83,13 @@
     Graduering
   </text>
   
-  <!-- Graduation icon -->
+
   <rect x="550" y="140" width="50" height="40" fill="#16a34a" rx="5"/>
   <text x="575" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
     GRAD
   </text>
   
-  <!-- Graduation outcomes -->
+
   <text x="510" y="200" font-family="Arial, sans-serif" font-size="11" fill="#374151">
     • Selvstendig drift
   </text>
@@ -106,7 +106,7 @@
     • Fortsatt støtte
   </text>
   
-  <!-- Phase 4: Growth -->
+
   <rect x="700" y="80" width="150" height="200" fill="#fef2f2" stroke="#dc2626" stroke-width="2" rx="10"/>
   <text x="775" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#dc2626">
     Fase 4
@@ -115,13 +115,13 @@
     Vekst &amp; Skalering
   </text>
   
-  <!-- Growth icon -->
+
   <rect x="750" y="140" width="50" height="40" fill="#dc2626" rx="5"/>
   <text x="775" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
     VEKST
   </text>
   
-  <!-- Growth activities -->
+
   <text x="710" y="200" font-family="Arial, sans-serif" font-size="11" fill="#374151">
     • Markedsekspansjon
   </text>
@@ -138,15 +138,15 @@
     • Børsnotering
   </text>
   
-  <!-- Process arrows -->
+
   <path d="M 200 180 L 250 180" stroke="#6b7280" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 450 180 L 500 180" stroke="#6b7280" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 650 180 L 700 180" stroke="#6b7280" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Timeline -->
+
   <line x1="50" y1="350" x2="850" y2="350" stroke="#e5e7eb" stroke-width="2"/>
   
-  <!-- Timeline markers -->
+
   <circle cx="125" cy="350" r="6" fill="#f59e0b"/>
   <text x="125" y="375" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#374151">
     0-3 mnd
@@ -167,13 +167,13 @@
     30+ mnd
   </text>
   
-  <!-- Success metrics -->
+
   <rect x="100" y="420" width="700" height="120" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1" rx="5"/>
   <text x="450" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#374151">
     Suksessmålinger gjennom prosessen
   </text>
   
-  <!-- Metrics by phase -->
+
   <text x="120" y="470" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#d97706">
     Søknad:
   </text>
@@ -223,7 +223,7 @@
     • Verdivurdering
   </text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#6b7280"/>

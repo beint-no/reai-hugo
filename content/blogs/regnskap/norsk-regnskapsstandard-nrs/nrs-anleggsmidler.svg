@@ -10,18 +10,18 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <rect x="0" y="0" width="800" height="50" fill="url(#processGrad)"/>
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
     NRS 2: Anleggsmidler - Livssyklus
   </text>
   
-  <!-- Process flow -->
+
   
-  <!-- Step 1: Anskaffelse -->
+
   <rect x="50" y="80" width="140" height="120" fill="url(#boxGrad)" stroke="#0066cc" stroke-width="2" rx="8"/>
   <text x="120" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#0066cc">
     1. Anskaffelse
@@ -42,7 +42,7 @@
     Balanseføres
   </text>
   
-  <!-- Step 2: Bruk og Avskrivning -->
+
   <rect x="220" y="80" width="140" height="120" fill="url(#boxGrad)" stroke="#0066cc" stroke-width="2" rx="8"/>
   <text x="290" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#0066cc">
     2. Bruk &amp;
@@ -63,7 +63,7 @@
     Kostnadsføres
   </text>
   
-  <!-- Step 3: Nedskrivning -->
+
   <rect x="390" y="80" width="140" height="120" fill="url(#boxGrad)" stroke="#0066cc" stroke-width="2" rx="8"/>
   <text x="460" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#0066cc">
     3. Nedskrivning
@@ -84,7 +84,7 @@
     Kostnadsføres
   </text>
   
-  <!-- Step 4: Avhending -->
+
   <rect x="560" y="80" width="140" height="120" fill="url(#boxGrad)" stroke="#0066cc" stroke-width="2" rx="8"/>
   <text x="630" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#0066cc">
     4. Avhending
@@ -105,18 +105,18 @@
     Resultatføres
   </text>
   
-  <!-- Arrows between steps -->
+
   <polygon points="190,140 210,135 210,145" fill="#0066cc"/>
   <polygon points="360,140 380,135 380,145" fill="#0066cc"/>
   <polygon points="530,140 550,135 550,145" fill="#0066cc"/>
   
-  <!-- Detailed calculation example -->
+
   <rect x="100" y="250" width="600" height="200" fill="white" stroke="#0066cc" stroke-width="2" rx="8"/>
   <text x="400" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#0066cc">
     Praktisk Eksempel: Maskin
   </text>
   
-  <!-- Left column - Initial values -->
+
   <text x="120" y="300" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">
     Anskaffelse (År 1):
   </text>
@@ -136,7 +136,7 @@
     Restverdi: 50 000 kr
   </text>
   
-  <!-- Middle column - Annual depreciation -->
+
   <text x="320" y="300" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">
     Årlig Avskrivning:
   </text>
@@ -157,7 +157,7 @@
     = 300 000 kr
   </text>
   
-  <!-- Right column - Disposal -->
+
   <text x="520" y="300" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">
     Salg (År 6):
   </text>

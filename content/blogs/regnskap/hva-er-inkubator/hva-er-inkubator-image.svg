@@ -1,19 +1,19 @@
 <svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8fafc"/>
   
-  <!-- Title -->
+
   <text x="400" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#1e293b">
     Hva er en Inkubator?
   </text>
   
-  <!-- Incubator building -->
+
   <rect x="300" y="100" width="200" height="150" fill="#3b82f6" stroke="#1e40af" stroke-width="2" rx="10"/>
   <text x="400" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     INKUBATOR
   </text>
   
-  <!-- Windows -->
+
   <rect x="320" y="150" width="30" height="30" fill="#dbeafe" rx="3"/>
   <rect x="350" y="150" width="30" height="30" fill="#dbeafe" rx="3"/>
   <rect x="420" y="150" width="30" height="30" fill="#dbeafe" rx="3"/>
@@ -24,11 +24,11 @@
   <rect x="420" y="190" width="30" height="30" fill="#dbeafe" rx="3"/>
   <rect x="450" y="190" width="30" height="30" fill="#dbeafe" rx="3"/>
   
-  <!-- Door -->
+
   <rect x="385" y="200" width="30" height="50" fill="#1e40af" rx="3"/>
   <circle cx="405" cy="225" r="2" fill="white"/>
   
-  <!-- Startup companies entering -->
+
   <g id="startup1">
     <circle cx="150" cy="300" r="25" fill="#10b981"/>
     <text x="150" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
@@ -49,10 +49,10 @@
     </text>
   </g>
   
-  <!-- Arrow pointing to incubator -->
+
   <path d="M 220 320 L 280 250" stroke="#6b7280" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Successful companies exiting -->
+
   <g id="success1">
     <rect x="580" y="280" width="60" height="40" fill="#f59e0b" rx="5"/>
     <text x="610" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
@@ -79,10 +79,10 @@
     </text>
   </g>
   
-  <!-- Arrow pointing from incubator -->
+
   <path d="M 520 200 L 580 280" stroke="#6b7280" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Support elements inside incubator -->
+
   <text x="400" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#1e293b">
     • Finansiering
   </text>
@@ -96,10 +96,10 @@
     • Arbeidsplasser
   </text>
   
-  <!-- Process timeline -->
+
   <line x1="100" y1="500" x2="700" y2="500" stroke="#e5e7eb" stroke-width="2"/>
   
-  <!-- Timeline markers -->
+
   <circle cx="150" cy="500" r="8" fill="#10b981"/>
   <text x="150" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#374151">
     Søknad
@@ -125,12 +125,12 @@
     Vekst
   </text>
   
-  <!-- Timeline duration -->
+
   <text x="400" y="550" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#374151">
     6-24 måneder inkubasjonsperiode
   </text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#6b7280"/>

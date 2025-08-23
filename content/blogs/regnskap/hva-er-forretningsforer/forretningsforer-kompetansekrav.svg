@@ -10,21 +10,21 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
     Kompetansekrav for Forretningsførere
   </text>
   
-  <!-- Requirement 1: Myndighet -->
+
   <g transform="translate(50, 100)">
     <rect x="0" y="0" width="160" height="120" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="10"/>
-    <!-- Icon: Person -->
+
     <circle cx="80" cy="35" r="15" fill="#1976d2"/>
     <rect x="70" y="50" width="20" height="25" fill="#1976d2"/>
     
@@ -39,10 +39,10 @@
     </text>
   </g>
   
-  <!-- Requirement 2: Vandel -->
+
   <g transform="translate(240, 100)">
     <rect x="0" y="0" width="160" height="120" fill="#f3e5f5" stroke="#7b1fa2" stroke-width="2" rx="10"/>
-    <!-- Icon: Shield -->
+
     <path d="M80 25 L90 30 L90 50 C90 60 80 65 80 65 C80 65 70 60 70 50 L70 30 Z" fill="#7b1fa2"/>
     
     <text x="80" y="85" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#7b1fa2">
@@ -56,10 +56,10 @@
     </text>
   </g>
   
-  <!-- Requirement 3: Bopel -->
+
   <g transform="translate(430, 100)">
     <rect x="0" y="0" width="160" height="120" fill="#fff3e0" stroke="#f57c00" stroke-width="2" rx="10"/>
-    <!-- Icon: House -->
+
     <path d="M65 45 L80 30 L95 45 L95 60 L85 60 L85 50 L75 50 L75 60 L65 60 Z" fill="#f57c00"/>
     
     <text x="80" y="85" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#f57c00">
@@ -73,10 +73,10 @@
     </text>
   </g>
   
-  <!-- Requirement 4: Faglig Kompetanse -->
+
   <g transform="translate(620, 100)">
     <rect x="0" y="0" width="160" height="120" fill="#e8f5e8" stroke="#388e3c" stroke-width="2" rx="10"/>
-    <!-- Icon: Book -->
+
     <rect x="70" y="30" width="20" height="25" fill="#388e3c"/>
     <line x1="72" y1="35" x2="88" y2="35" stroke="white" stroke-width="1"/>
     <line x1="72" y1="40" x2="88" y2="40" stroke="white" stroke-width="1"/>
@@ -93,13 +93,13 @@
     </text>
   </g>
   
-  <!-- Detailed competency areas -->
+
   <g transform="translate(100, 280)">
     <text x="300" y="0" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#212529">
       Detaljerte Kompetanseområder
     </text>
     
-    <!-- Column 1: Regnskap -->
+
     <g transform="translate(0, 30)">
       <rect x="0" y="0" width="180" height="140" fill="#fce4ec" stroke="#c2185b" stroke-width="2" rx="8"/>
       <text x="90" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#c2185b">
@@ -128,7 +128,7 @@
       </text>
     </g>
     
-    <!-- Column 2: Juridisk -->
+
     <g transform="translate(210, 30)">
       <rect x="0" y="0" width="180" height="140" fill="#f1f8e9" stroke="#689f38" stroke-width="2" rx="8"/>
       <text x="90" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#689f38">
@@ -157,7 +157,7 @@
       </text>
     </g>
     
-    <!-- Column 3: Operasjonell -->
+
     <g transform="translate(420, 30)">
       <rect x="0" y="0" width="180" height="140" fill="#e1f5fe" stroke="#0288d1" stroke-width="2" rx="8"/>
       <text x="90" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0288d1">
@@ -187,7 +187,7 @@
     </g>
   </g>
   
-  <!-- Bottom note -->
+
   <text x="400" y="480" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#6c757d" font-style="italic">
     Kompetansekravene varierer avhengig av virksomhetens størrelse og kompleksitet
   </text>

@@ -13,32 +13,32 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <rect x="50" y="30" width="700" height="50" fill="url(#headerGradient)" rx="5"/>
   <text x="400" y="62" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
     Reformdiskusjoner - Fremtid
   </text>
   
-  <!-- Timeline -->
+
   <line x1="100" y1="120" x2="700" y2="120" stroke="#34495e" stroke-width="3"/>
   
-  <!-- Timeline markers -->
+
   <circle cx="200" cy="120" r="8" fill="#e74c3c" filter="url(#shadow)"/>
   <circle cx="350" cy="120" r="8" fill="#f39c12" filter="url(#shadow)"/>
   <circle cx="500" cy="120" r="8" fill="#3498db" filter="url(#shadow)"/>
   <circle cx="650" cy="120" r="8" fill="#2ecc71" filter="url(#shadow)"/>
   
-  <!-- Timeline labels -->
+
   <text x="200" y="110" text-anchor="middle" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold">2025-2026</text>
   <text x="350" y="110" text-anchor="middle" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold">2026-2027</text>
   <text x="500" y="110" text-anchor="middle" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold">2027-2030</text>
   <text x="650" y="110" text-anchor="middle" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold">2030+</text>
   
-  <!-- Reform boxes -->
-  <!-- Box 1: Beløpstak -->
+
+
   <rect x="130" y="150" width="140" height="100" fill="#e74c3c" fill-opacity="0.1" stroke="#e74c3c" stroke-width="2" rx="5" filter="url(#shadow)"/>
   <text x="200" y="170" text-anchor="middle" fill="#c0392b" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Beløpstak</text>
   <text x="200" y="185" text-anchor="middle" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">Øvre grense for</text>
@@ -46,7 +46,7 @@
   <text x="200" y="210" text-anchor="middle" fill="#27ae60" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Høy politisk støtte</text>
   <text x="200" y="225" text-anchor="middle" fill="#f39c12" font-family="Arial, sans-serif" font-size="10">Begrenset påvirkning</text>
   
-  <!-- Box 2: Tidsbegrensning -->
+
   <rect x="280" y="150" width="140" height="100" fill="#f39c12" fill-opacity="0.1" stroke="#f39c12" stroke-width="2" rx="5" filter="url(#shadow)"/>
   <text x="350" y="170" text-anchor="middle" fill="#d68910" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Tidsbegrensning</text>
   <text x="350" y="185" text-anchor="middle" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">Maks. 10 år</text>
@@ -54,7 +54,7 @@
   <text x="350" y="210" text-anchor="middle" fill="#f39c12" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Medium støtte</text>
   <text x="350" y="225" text-anchor="middle" fill="#e74c3c" font-family="Arial, sans-serif" font-size="10">Økte skatteinntekter</text>
   
-  <!-- Box 3: EU-harmonisering -->
+
   <rect x="430" y="150" width="140" height="100" fill="#3498db" fill-opacity="0.1" stroke="#3498db" stroke-width="2" rx="5" filter="url(#shadow)"/>
   <text x="500" y="170" text-anchor="middle" fill="#2980b9" font-family="Arial, sans-serif" font-size="14" font-weight="bold">EU-harmonisering</text>
   <text x="500" y="185" text-anchor="middle" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">DEBRA-initiativer</text>
@@ -62,7 +62,7 @@
   <text x="500" y="210" text-anchor="middle" fill="#e74c3c" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Lav nasjonal støtte</text>
   <text x="500" y="225" text-anchor="middle" fill="#3498db" font-family="Arial, sans-serif" font-size="10">Høy usikkerhet</text>
   
-  <!-- Box 4: ESG-integrering -->
+
   <rect x="580" y="150" width="140" height="100" fill="#2ecc71" fill-opacity="0.1" stroke="#2ecc71" stroke-width="2" rx="5" filter="url(#shadow)"/>
   <text x="650" y="170" text-anchor="middle" fill="#27ae60" font-family="Arial, sans-serif" font-size="14" font-weight="bold">ESG-integrering</text>
   <text x="650" y="185" text-anchor="middle" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">Differensierte</text>
@@ -70,10 +70,10 @@
   <text x="650" y="210" text-anchor="middle" fill="#27ae60" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Fremtidig trend</text>
   <text x="650" y="225" text-anchor="middle" fill="#8e44ad" font-family="Arial, sans-serif" font-size="10">Innovativ tilnærming</text>
   
-  <!-- Stakeholder analysis -->
+
   <text x="50" y="290" fill="#2c3e50" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Interessentanalyse:</text>
   
-  <!-- Stakeholder boxes -->
+
   <rect x="50" y="310" width="170" height="80" fill="#ecf0f1" stroke="#95a5a6" stroke-width="1" rx="5"/>
   <text x="135" y="330" text-anchor="middle" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Investorer</text>
   <text x="135" y="345" text-anchor="middle" fill="#e74c3c" font-family="Arial, sans-serif" font-size="10">Motstand mot</text>
@@ -95,10 +95,10 @@
   <text x="685" y="345" text-anchor="middle" fill="#8e44ad" font-family="Arial, sans-serif" font-size="10">Forenkling</text>
   <text x="685" y="355" text-anchor="middle" fill="#8e44ad" font-family="Arial, sans-serif" font-size="10">Effektivitet</text>
   
-  <!-- Impact assessment -->
+
   <text x="50" y="430" fill="#2c3e50" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Konsekvensanalyse:</text>
   
-  <!-- Impact bars -->
+
   <rect x="50" y="450" width="200" height="25" fill="#e74c3c" fill-opacity="0.2" stroke="#e74c3c" rx="3"/>
   <rect x="50" y="450" width="120" height="25" fill="#e74c3c" rx="3"/>
   <text x="60" y="467" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Skatteinntekter</text>
@@ -114,7 +114,7 @@
   <text x="60" y="537" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Kompleksitet</text>
   <text x="260" y="537" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">Økning 30-40%</text>
   
-  <!-- Technology impact -->
+
   <rect x="450" y="450" width="300" height="95" fill="#95a5a6" fill-opacity="0.1" stroke="#95a5a6" stroke-width="2" rx="5"/>
   <text x="600" y="470" text-anchor="middle" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Teknologiske Drivere</text>
   <text x="470" y="490" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">• AI-drevne beregningssystemer</text>
@@ -122,7 +122,7 @@
   <text x="470" y="520" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">• Automatisk compliance-monitorering</text>
   <text x="470" y="535" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">• Real-time optimalisering</text>
   
-  <!-- Footer -->
+
   <text x="400" y="580" text-anchor="middle" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="10" font-style="italic">
     Fremtidige reformer vil balansere skatteinntekter, investeringsincentiver og administrativ effektivitet
   </text>

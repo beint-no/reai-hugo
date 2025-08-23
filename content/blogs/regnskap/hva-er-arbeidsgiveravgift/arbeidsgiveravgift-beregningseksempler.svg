@@ -18,15 +18,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
     Beregningseksempler for Arbeidsgiveravgift
   </text>
   
-  <!-- Example 1: Standard employee in Oslo -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="220" height="180" fill="white" stroke="#0066cc" stroke-width="3" rx="10"/>
     <rect x="0" y="0" width="220" height="40" fill="url(#example1Gradient)" rx="10"/>
@@ -62,7 +62,7 @@
     </g>
   </g>
   
-  <!-- Example 2: Employee over 67 in Bergen -->
+
   <g transform="translate(290, 80)">
     <rect x="0" y="0" width="220" height="180" fill="white" stroke="#28a745" stroke-width="3" rx="10"/>
     <rect x="0" y="0" width="220" height="40" fill="url(#example2Gradient)" rx="10"/>
@@ -98,7 +98,7 @@
     </g>
   </g>
   
-  <!-- Example 3: Employee 63 years in Trondheim -->
+
   <g transform="translate(530, 80)">
     <rect x="0" y="0" width="220" height="180" fill="white" stroke="#ffc107" stroke-width="3" rx="10"/>
     <rect x="0" y="0" width="220" height="40" fill="url(#example3Gradient)" rx="10"/>
@@ -134,14 +134,14 @@
     </g>
   </g>
   
-  <!-- Comparison table -->
+
   <g transform="translate(50, 290)">
     <rect x="0" y="0" width="700" height="180" fill="white" stroke="#333" stroke-width="2" rx="10"/>
     <text x="350" y="25" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
       Sammenligning av Eksemplene
     </text>
     
-    <!-- Table headers -->
+
     <g transform="translate(20, 45)">
       <rect x="0" y="0" width="660" height="25" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1"/>
       <text x="10" y="17" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
@@ -164,7 +164,7 @@
       </text>
     </g>
     
-    <!-- Row 1 -->
+
     <g transform="translate(20, 70)">
       <rect x="0" y="0" width="660" height="25" fill="white" stroke="#dee2e6" stroke-width="1"/>
       <text x="10" y="17" fill="#333" font-family="Arial, sans-serif" font-size="12">
@@ -187,7 +187,7 @@
       </text>
     </g>
     
-    <!-- Row 2 -->
+
     <g transform="translate(20, 95)">
       <rect x="0" y="0" width="660" height="25" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1"/>
       <text x="10" y="17" fill="#333" font-family="Arial, sans-serif" font-size="12">
@@ -210,7 +210,7 @@
       </text>
     </g>
     
-    <!-- Row 3 -->
+
     <g transform="translate(20, 120)">
       <rect x="0" y="0" width="660" height="25" fill="white" stroke="#dee2e6" stroke-width="1"/>
       <text x="10" y="17" fill="#333" font-family="Arial, sans-serif" font-size="12">
@@ -233,7 +233,7 @@
       </text>
     </g>
     
-    <!-- Note -->
+
     <text x="20" y="160" fill="#666" font-family="Arial, sans-serif" font-size="11">
       Merk: Aldersbaserte fritak gjelder uavhengig av geografisk sone. 62-66 år får fast 4%, 67+ år får helt fritak.
     </text>

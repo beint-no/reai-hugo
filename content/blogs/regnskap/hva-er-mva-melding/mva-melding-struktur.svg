@@ -1,18 +1,18 @@
 <svg width="800" height="700" xmlns="http://www.w3.org/2000/svg">
   <title>Struktur av MVA-melding</title>
   
-  <!-- Background -->
+
   <rect width="800" height="700" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#2c3e50">
     Struktur av MVA-melding
   </text>
   
-  <!-- Main document frame -->
+
   <rect x="100" y="60" width="600" height="600" fill="white" stroke="#2c3e50" stroke-width="3" rx="10"/>
   
-  <!-- Document header -->
+
   <rect x="110" y="70" width="580" height="50" fill="#3498db" rx="5"/>
   <text x="400" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
     MVA-MELDING
@@ -21,7 +21,7 @@
     Periode: Januar 2024 | Org.nr: 123 456 789
   </text>
   
-  <!-- Section A: Outgoing VAT -->
+
   <rect x="120" y="140" width="560" height="120" fill="#e8f5e8" stroke="#27ae60" stroke-width="2" rx="5"/>
   <text x="130" y="160" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#27ae60">
     A. UTGÅENDE MERVERDIAVGIFT (Salg)
@@ -53,7 +53,7 @@
     Sum utgående MVA: 146.000 kr
   </text>
   
-  <!-- Section B: Incoming VAT -->
+
   <rect x="120" y="280" width="560" height="100" fill="#ffeaea" stroke="#e74c3c" stroke-width="2" rx="5"/>
   <text x="130" y="300" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#e74c3c">
     B. INNGÅENDE MERVERDIAVGIFT (Kjøp)
@@ -78,7 +78,7 @@
     Sum inngående MVA: 87.500 kr
   </text>
   
-  <!-- Section C: Special posts -->
+
   <rect x="120" y="400" width="560" height="80" fill="#fff3e0" stroke="#f39c12" stroke-width="2" rx="5"/>
   <text x="130" y="420" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#f39c12">
     C. SPESIELLE POSTER
@@ -98,7 +98,7 @@
     50.000 kr
   </text>
   
-  <!-- Final calculation -->
+
   <rect x="120" y="500" width="560" height="80" fill="#34495e" stroke="#2c3e50" stroke-width="3" rx="5"/>
   <text x="130" y="520" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     D. BEREGNING
@@ -123,7 +123,7 @@
     SKYLDIG MVA: 58.500 kr
   </text>
   
-  <!-- Footer info -->
+
   <rect x="120" y="600" width="560" height="40" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1" rx="5"/>
   <text x="400" y="615" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
     Forfallsdato: 10. februar 2024
@@ -132,7 +132,7 @@
     Betaling via Altinn eller bankoverføring
   </text>
   
-  <!-- Side annotations -->
+
   <circle cx="50" cy="200" r="15" fill="#3498db"/>
   <text x="50" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     1

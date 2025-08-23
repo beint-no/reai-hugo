@@ -1,42 +1,42 @@
 <svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8fafc"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1e293b">
     Terminbasert Finansiell Analyse
   </text>
   
-  <!-- Main Dashboard Container -->
+
   <rect x="50" y="50" width="700" height="520" fill="white" stroke="#e2e8f0" stroke-width="2" rx="10"/>
   
-  <!-- Left Panel: Lønnsomhetsanalyse -->
+
   <rect x="70" y="80" width="320" height="220" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1" rx="5"/>
   <text x="230" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#334155">
     Lønnsomhetsanalyse
   </text>
   
-  <!-- Line Chart for Terminens Driftsresultat -->
+
   <g stroke="#3b82f6" stroke-width="2" fill="none">
     <polyline points="90,130 130,120 170,110 210,125 250,115 290,105 330,100 370,95"/>
   </g>
   
-  <!-- Chart Labels -->
+
   <text x="90" y="150" font-family="Arial, sans-serif" font-size="10" fill="#64748b">Q1</text>
   <text x="130" y="150" font-family="Arial, sans-serif" font-size="10" fill="#64748b">Q2</text>
   <text x="170" y="150" font-family="Arial, sans-serif" font-size="10" fill="#64748b">Q3</text>
   <text x="210" y="150" font-family="Arial, sans-serif" font-size="10" fill="#64748b">Q4</text>
   
-  <!-- Y-axis labels -->
+
   <text x="80" y="105" font-family="Arial, sans-serif" font-size="9" fill="#64748b">25%</text>
   <text x="80" y="120" font-family="Arial, sans-serif" font-size="9" fill="#64748b">20%</text>
   <text x="80" y="135" font-family="Arial, sans-serif" font-size="9" fill="#64748b">15%</text>
   
-  <!-- Legend -->
+
   <circle cx="90" cy="165" r="3" fill="#3b82f6"/>
   <text x="100" y="169" font-family="Arial, sans-serif" font-size="9" fill="#64748b">Driftsresultat %</text>
   
-  <!-- EBITDA Bar Chart -->
+
   <rect x="90" y="180" width="30" height="40" fill="#10b981"/>
   <rect x="130" y="175" width="30" height="45" fill="#10b981"/>
   <rect x="170" y="170" width="30" height="50" fill="#10b981"/>
@@ -49,18 +49,18 @@
   
   <text x="90" y="255" font-family="Arial, sans-serif" font-size="10" fill="#64748b">EBITDA-utvikling</text>
   
-  <!-- Nettomargin trend -->
+
   <text x="280" y="180" font-family="Arial, sans-serif" font-size="10" fill="#64748b">Nettomargin</text>
   <text x="280" y="195" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#059669">+2.3%</text>
   <text x="280" y="210" font-family="Arial, sans-serif" font-size="9" fill="#64748b">vs forrige termin</text>
   
-  <!-- Right Panel: Likviditetsanalyse -->
+
   <rect x="410" y="80" width="320" height="220" fill="#fef3c7" stroke="#fbbf24" stroke-width="1" rx="5"/>
   <text x="570" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#92400e">
     Likviditetsanalyse
   </text>
   
-  <!-- Working Capital Chart -->
+
   <rect x="430" y="120" width="60" height="25" fill="#f59e0b"/>
   <rect x="430" y="150" width="50" height="25" fill="#f59e0b"/>
   <rect x="430" y="180" width="45" height="25" fill="#f59e0b"/>
@@ -73,32 +73,32 @@
   
   <text x="430" y="255" font-family="Arial, sans-serif" font-size="10" fill="#92400e">Arbeidskapital-endringer</text>
   
-  <!-- Cash Conversion Cycle -->
+
   <text x="590" y="140" font-family="Arial, sans-serif" font-size="10" fill="#92400e">Kontantkonvertering</text>
   <text x="590" y="155" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#d97706">42 dager</text>
   <text x="590" y="170" font-family="Arial, sans-serif" font-size="9" fill="#92400e">-8 dager vs Q3</text>
   
-  <!-- Free Cash Flow -->
+
   <text x="590" y="200" font-family="Arial, sans-serif" font-size="10" fill="#92400e">Fri kontantstrøm</text>
   <text x="590" y="215" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#059669">+45M</text>
   <text x="590" y="230" font-family="Arial, sans-serif" font-size="9" fill="#92400e">Investeringskapasitet</text>
   
-  <!-- Bottom Panel: Terminsammenligning -->
+
   <rect x="70" y="320" width="660" height="230" fill="#f0f9ff" stroke="#0284c7" stroke-width="1" rx="5"/>
   <text x="400" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0c4a6e">
     Terminsammenligning og Prediktiv Analyse
   </text>
   
-  <!-- Comparison Table -->
+
   <rect x="90" y="360" width="280" height="160" fill="white" stroke="#e2e8f0" stroke-width="1" rx="3"/>
   
-  <!-- Table Headers -->
+
   <text x="100" y="380" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e293b">Metric</text>
   <text x="180" y="380" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e293b">Q4 2023</text>
   <text x="240" y="380" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e293b">Q4 2024</text>
   <text x="300" y="380" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e293b">Endring</text>
   
-  <!-- Table Data -->
+
   <text x="100" y="400" font-family="Arial, sans-serif" font-size="10" fill="#475569">Omsetning</text>
   <text x="180" y="400" font-family="Arial, sans-serif" font-size="10" fill="#475569">850M</text>
   <text x="240" y="400" font-family="Arial, sans-serif" font-size="10" fill="#475569">975M</text>
@@ -119,14 +119,14 @@
   <text x="240" y="460" font-family="Arial, sans-serif" font-size="10" fill="#475569">70M</text>
   <text x="300" y="460" font-family="Arial, sans-serif" font-size="10" fill="#059669">-25%</text>
   
-  <!-- Predictive Analysis Section -->
+
   <rect x="390" y="360" width="320" height="160" fill="white" stroke="#e2e8f0" stroke-width="1" rx="3"/>
   
   <text x="550" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">
     Prediktiv Terminanalyse
   </text>
   
-  <!-- Leading Indicators -->
+
   <text x="410" y="400" font-family="Arial, sans-serif" font-size="10" fill="#475569">Ordrebok Q1 2025:</text>
   <text x="580" y="400" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#059669">+22%</text>
   
@@ -136,12 +136,12 @@
   <text x="410" y="440" font-family="Arial, sans-serif" font-size="10" fill="#475569">Markedsindikator:</text>
   <text x="580" y="440" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#059669">Positiv</text>
   
-  <!-- Forecast -->
+
   <text x="410" y="470" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#0c4a6e">Q1 2025 Prognose:</text>
   <text x="410" y="490" font-family="Arial, sans-serif" font-size="10" fill="#475569">Omsetning: 1.050M (+8%)</text>
   <text x="410" y="505" font-family="Arial, sans-serif" font-size="10" fill="#475569">EBITDA: 148M (+10%)</text>
   
-  <!-- Key Insights Box -->
+
   <rect x="70" y="560" width="660" height="50" fill="#dcfce7" stroke="#16a34a" stroke-width="1" rx="5"/>
   <text x="80" y="580" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#166534">
     Nøkkelinnsikter:
@@ -150,19 +150,19 @@
     • Sesongeffekt i Q4 gir økt omsetning men redusert margin • Arbeidskapital-optimalisering frigjør 25M
   </text>
   
-  <!-- Icons -->
-  <!-- Trend Up Icon -->
+
+
   <g fill="#059669">
     <path d="M320,200 L335,185 L350,200 L340,200 L340,215 L330,215 L330,200 Z"/>
   </g>
   
-  <!-- Chart Icon -->
+
   <g fill="#0284c7">
     <rect x="650" y="185" width="50" height="30" fill="none" stroke="#0284c7" stroke-width="1"/>
     <polyline points="655,210 665,200 675,205 685,195 695,190" stroke="#0284c7" stroke-width="2" fill="none"/>
   </g>
   
-  <!-- Analysis Framework Arrow -->
+
   <g fill="#64748b">
     <path d="M370,280 L390,280 L385,275 L390,280 L385,285 Z"/>
   </g>

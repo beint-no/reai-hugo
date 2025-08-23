@@ -13,81 +13,81 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f8fafc"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1e293b">
     Regnskapsføring av Direkte Remittering
   </text>
   
-  <!-- Sender Section -->
+
   <rect x="50" y="70" width="320" height="180" rx="10" fill="#fef2f2" stroke="#ef4444" stroke-width="2" filter="url(#shadow)"/>
   <text x="210" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#dc2626">
     AVSENDER (Betaler)
   </text>
   
-  <!-- Sender Entry 1 -->
+
   <rect x="70" y="110" width="280" height="60" rx="5" fill="white" stroke="#e5e7eb" stroke-width="1"/>
   <text x="80" y="130" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">
     Ved sending av betaling:
   </text>
   
-  <!-- Debit side -->
+
   <rect x="80" y="140" width="120" height="20" rx="3" fill="url(#debitGradient)"/>
   <text x="90" y="153" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">DEBET</text>
   <text x="80" y="165" font-family="Arial, sans-serif" font-size="10" fill="#dc2626">Leverandørgjeld/Utgift</text>
   
-  <!-- Credit side -->
+
   <rect x="220" y="140" width="120" height="20" rx="3" fill="url(#creditGradient)"/>
   <text x="230" y="153" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">KREDIT</text>
   <text x="220" y="165" font-family="Arial, sans-serif" font-size="10" fill="#059669">Bank</text>
   
-  <!-- Sender Entry 2 -->
+
   <rect x="70" y="180" width="280" height="60" rx="5" fill="white" stroke="#e5e7eb" stroke-width="1"/>
   <text x="80" y="200" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">
     Ved gebyr:
   </text>
   
-  <!-- Debit side -->
+
   <rect x="80" y="210" width="120" height="20" rx="3" fill="url(#debitGradient)"/>
   <text x="90" y="223" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">DEBET</text>
   <text x="80" y="235" font-family="Arial, sans-serif" font-size="10" fill="#dc2626">Bankgebyrer</text>
   
-  <!-- Credit side -->
+
   <rect x="220" y="210" width="120" height="20" rx="3" fill="url(#creditGradient)"/>
   <text x="230" y="223" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">KREDIT</text>
   <text x="220" y="235" font-family="Arial, sans-serif" font-size="10" fill="#059669">Bank</text>
   
-  <!-- Receiver Section -->
+
   <rect x="430" y="70" width="320" height="180" rx="10" fill="#f0fdf4" stroke="#10b981" stroke-width="2" filter="url(#shadow)"/>
   <text x="590" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#047857">
     MOTTAKER (Mottar betaling)
   </text>
   
-  <!-- Receiver Entry -->
+
   <rect x="450" y="110" width="280" height="60" rx="5" fill="white" stroke="#e5e7eb" stroke-width="1"/>
   <text x="460" y="130" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">
     Ved mottak av betaling:
   </text>
   
-  <!-- Debit side -->
+
   <rect x="460" y="140" width="120" height="20" rx="3" fill="url(#debitGradient)"/>
   <text x="470" y="153" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">DEBET</text>
   <text x="460" y="165" font-family="Arial, sans-serif" font-size="10" fill="#dc2626">Bank</text>
   
-  <!-- Credit side -->
+
   <rect x="600" y="140" width="120" height="20" rx="3" fill="url(#creditGradient)"/>
   <text x="610" y="153" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">KREDIT</text>
   <text x="600" y="165" font-family="Arial, sans-serif" font-size="10" fill="#059669">Kundefordring/Inntekt</text>
   
-  <!-- Example Section -->
+
   <rect x="50" y="270" width="700" height="180" rx="10" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
   <text x="400" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">
     Praktisk Eksempel: Betaling av faktura på 50 000 kr
   </text>
   
-  <!-- Example Sender -->
+
   <rect x="70" y="310" width="300" height="120" rx="8" fill="#fef2f2" stroke="#ef4444" stroke-width="1"/>
   <text x="220" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#dc2626">
     Kjøper (Avsender)
@@ -110,7 +110,7 @@
     Bilag: Bankbekreftelse + faktura
   </text>
   
-  <!-- Example Receiver -->
+
   <rect x="430" y="310" width="300" height="120" rx="8" fill="#f0fdf4" stroke="#10b981" stroke-width="1"/>
   <text x="580" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#047857">
     Selger (Mottaker)
@@ -133,7 +133,7 @@
     Bilag: Kontoutskrift + fakturakopi
   </text>
   
-  <!-- Documentation Requirements -->
+
   <rect x="50" y="460" width="700" height="30" rx="5" fill="#1e293b"/>
   <text x="70" y="480" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     Dokumentasjonskrav: Overføringsoppdrag • Bankbekreftelse • Kontoutskrift • Underliggende bilag (faktura/kontrakt)

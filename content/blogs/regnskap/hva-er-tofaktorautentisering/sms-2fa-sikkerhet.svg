@@ -9,10 +9,10 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="700" height="450" fill="#f5f5f5"/>
   
-  <!-- Header -->
+
   <rect width="700" height="60" fill="url(#smsGrad)"/>
   <text x="350" y="25" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="white">
     SMS-basert 2FA: Fordeler og Risikoer
@@ -21,9 +21,9 @@
     Evaluering av SMS som tofaktorautentisering
   </text>
   
-  <!-- SMS Flow Diagram -->
+
   <g transform="translate(50, 80)">
-    <!-- Step 1: Login -->
+
     <rect x="0" y="0" width="100" height="80" rx="10" fill="white" filter="url(#boxShadow)"/>
     <rect x="0" y="0" width="100" height="25" rx="10" fill="#4caf50"/>
     <rect x="0" y="15" width="100" height="10" fill="#4caf50"/>
@@ -32,10 +32,10 @@
     <text x="50" y="58" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#333">med brukernavn</text>
     <text x="50" y="71" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#333">og passord</text>
     
-    <!-- Arrow -->
+
     <path d="M 110 40 L 140 40" stroke="#2196f3" stroke-width="2" marker-end="url(#arrow)"/>
     
-    <!-- Step 2: SMS Request -->
+
     <rect x="150" y="0" width="100" height="80" rx="10" fill="white" filter="url(#boxShadow)"/>
     <rect x="150" y="0" width="100" height="25" rx="10" fill="#ff9800"/>
     <rect x="150" y="15" width="100" height="10" fill="#ff9800"/>
@@ -44,10 +44,10 @@
     <text x="200" y="58" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#333">SMS-kode til</text>
     <text x="200" y="71" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#333">registrert nummer</text>
     
-    <!-- Arrow -->
+
     <path d="M 260 40 L 290 40" stroke="#2196f3" stroke-width="2" marker-end="url(#arrow)"/>
     
-    <!-- Step 3: SMS Delivery -->
+
     <rect x="300" y="0" width="100" height="80" rx="10" fill="white" filter="url(#boxShadow)"/>
     <rect x="300" y="0" width="100" height="25" rx="10" fill="#2196f3"/>
     <rect x="300" y="15" width="100" height="10" fill="#2196f3"/>
@@ -56,10 +56,10 @@
     <text x="350" y="58" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#333">6-siffer kode</text>
     <text x="350" y="71" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#333">på mobil</text>
     
-    <!-- Arrow -->
+
     <path d="M 410 40 L 440 40" stroke="#2196f3" stroke-width="2" marker-end="url(#arrow)"/>
     
-    <!-- Step 4: Verification -->
+
     <rect x="450" y="0" width="100" height="80" rx="10" fill="white" filter="url(#boxShadow)"/>
     <rect x="450" y="0" width="100" height="25" rx="10" fill="#4caf50"/>
     <rect x="450" y="15" width="100" height="10" fill="#4caf50"/>
@@ -69,7 +69,7 @@
     <text x="500" y="71" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#333">gis</text>
   </g>
   
-  <!-- Advantages Section -->
+
   <g transform="translate(50, 190)">
     <rect width="280" height="170" rx="10" fill="white" filter="url(#boxShadow)"/>
     <rect width="280" height="35" rx="10" fill="#4caf50"/>
@@ -109,7 +109,7 @@
     </g>
   </g>
   
-  <!-- Risks Section -->
+
   <g transform="translate(370, 190)">
     <rect width="280" height="170" rx="10" fill="white" filter="url(#boxShadow)"/>
     <rect width="280" height="35" rx="10" fill="#f44336"/>
@@ -149,14 +149,14 @@
     </g>
   </g>
   
-  <!-- Security Rating -->
+
   <g transform="translate(250, 380)">
     <rect width="200" height="50" rx="10" fill="white" filter="url(#boxShadow)"/>
     <text x="100" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#333">
       Sikkerhetsvurdering: SMS 2FA
     </text>
     
-    <!-- Security bar -->
+
     <rect x="20" y="28" width="160" height="12" rx="6" fill="#e0e0e0"/>
     <rect x="20" y="28" width="96" height="12" rx="6" fill="#ff9800"/>
     <text x="100" y="47" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
@@ -164,7 +164,7 @@
     </text>
   </g>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrow" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#2196f3"/>

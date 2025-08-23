@@ -1,16 +1,16 @@
 <svg width="700" height="500" viewBox="0 0 700 500" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="700" height="500" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="350" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c3e50">
     Automatiserte Avstemmingsverktøy
   </text>
   
-  <!-- Main container -->
+
   <rect x="50" y="60" width="600" height="420" fill="white" stroke="#2c3e50" stroke-width="2" rx="10"/>
   
-  <!-- Rule-based matching -->
+
   <rect x="70" y="80" width="270" height="120" fill="#3498db" opacity="0.1" stroke="#3498db" stroke-width="2" rx="5"/>
   <text x="205" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
     REGELBASERT MATCHING
@@ -31,7 +31,7 @@
     • Kombinerte kriterier
   </text>
   
-  <!-- Fuzzy matching -->
+
   <rect x="360" y="80" width="270" height="120" fill="#e67e22" opacity="0.1" stroke="#e67e22" stroke-width="2" rx="5"/>
   <text x="495" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
     FUZZY MATCHING
@@ -52,7 +52,7 @@
     • Sannsynlighetsbasert matching
   </text>
   
-  <!-- Machine learning -->
+
   <rect x="70" y="220" width="270" height="120" fill="#9b59b6" opacity="0.1" stroke="#9b59b6" stroke-width="2" rx="5"/>
   <text x="205" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
     MASKINLÆRING
@@ -73,7 +73,7 @@
     • Reduserer falske positiver
   </text>
   
-  <!-- Integrated bank feeds -->
+
   <rect x="360" y="220" width="270" height="120" fill="#27ae60" opacity="0.1" stroke="#27ae60" stroke-width="2" rx="5"/>
   <text x="495" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
     INTEGRERTE BANKFEEDER
@@ -94,13 +94,13 @@
     • Økt nøyaktighet
   </text>
   
-  <!-- Benefits section -->
+
   <rect x="70" y="360" width="560" height="100" fill="#34495e" opacity="0.1" stroke="#34495e" stroke-width="2" rx="5"/>
   <text x="350" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
     Fordeler med Automatisering
   </text>
   
-  <!-- Benefit boxes -->
+
   <rect x="90" y="400" width="100" height="50" fill="#27ae60" opacity="0.8" rx="5"/>
   <text x="140" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
     TIDSBESPARELSE
@@ -156,12 +156,12 @@
     volum effektivt
   </text>
   
-  <!-- Process flow arrows -->
+
   <path d="M 205 200 L 205 220" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 495 200 L 495 220" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 350 340 L 350 360" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="arrowhead" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
       <polygon points="0 0, 8 3, 0 6" fill="#2c3e50"/>

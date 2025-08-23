@@ -14,15 +14,15 @@
     </radialGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" font-family="Arial, sans-serif" font-size="26" font-weight="bold" text-anchor="middle" fill="#333">
     Fremtidens Internregnskap
   </text>
   
-  <!-- Central AI Brain -->
+
   <g transform="translate(400, 150)">
     <circle cx="0" cy="0" r="80" fill="url(#aiGradient)" stroke="#d91a72" stroke-width="4"/>
     <text x="0" y="-15" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
@@ -35,7 +35,7 @@
       Intelligent Automatisering
     </text>
     
-    <!-- Neural network connections -->
+
     <g stroke="white" stroke-width="1" fill="white">
       <circle cx="-30" cy="-30" r="3"/>
       <circle cx="30" cy="-30" r="3"/>
@@ -53,9 +53,9 @@
     </g>
   </g>
   
-  <!-- Future Technologies - Top Row -->
+
   <g transform="translate(100, 80)">
-    <!-- Predictive Analytics -->
+
     <rect x="0" y="0" width="140" height="80" fill="#17a2b8" stroke="#138496" stroke-width="2" rx="10"/>
     <text x="70" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
       Prediktiv
@@ -67,7 +67,7 @@
       Fremtidsscenarioer
     </text>
     
-    <!-- Quantum Computing -->
+
     <rect x="560" y="0" width="140" height="80" fill="#fd7e14" stroke="#e8590c" stroke-width="2" rx="10"/>
     <text x="630" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
       Quantum
@@ -80,9 +80,9 @@
     </text>
   </g>
   
-  <!-- Future Technologies - Side Panels -->
+
   <g transform="translate(50, 200)">
-    <!-- Left Side Technologies -->
+
     <rect x="0" y="0" width="120" height="70" fill="#28a745" stroke="#1e7e34" stroke-width="2" rx="8"/>
     <text x="60" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
       Blockchain
@@ -107,7 +107,7 @@
   </g>
   
   <g transform="translate(630, 200)">
-    <!-- Right Side Technologies -->
+
     <rect x="0" y="0" width="120" height="70" fill="#dc3545" stroke="#c82333" stroke-width="2" rx="8"/>
     <text x="60" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
       Natural Language
@@ -131,16 +131,16 @@
     </text>
   </g>
   
-  <!-- Future Capabilities - Bottom Section -->
+
   <g transform="translate(200, 320)">
     <rect x="0" y="0" width="400" height="200" fill="white" stroke="#6f42c1" stroke-width="3" rx="15"/>
     <text x="200" y="30" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="#6f42c1">
       Fremtidens Muligheter
     </text>
     
-    <!-- Capabilities Grid -->
+
     <g transform="translate(20, 50)">
-      <!-- Row 1 -->
+
       <rect x="0" y="0" width="170" height="60" fill="#e3f2fd" stroke="#0066cc" stroke-width="1" rx="8"/>
       <text x="85" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0066cc">
         Automatisk Avviksdeteksjon
@@ -155,7 +155,7 @@
       <text x="200" y="35" font-family="Arial, sans-serif" font-size="10" fill="#333">• Dynamisk justering</text>
       <text x="200" y="50" font-family="Arial, sans-serif" font-size="10" fill="#333">• Maskinlæring fra historikk</text>
       
-      <!-- Row 2 -->
+
       <rect x="0" y="80" width="170" height="60" fill="#d4edda" stroke="#28a745" stroke-width="1" rx="8"/>
       <text x="85" y="100" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#28a745">
         Sanntids Lønnsomhet
@@ -172,23 +172,23 @@
     </g>
   </g>
   
-  <!-- Connection lines from AI center to technologies -->
+
   <g stroke="#6c757d" stroke-width="2" fill="none">
-    <!-- To top technologies -->
+
     <path d="M 350 120 L 170 120" marker-end="url(#arrowhead)"/>
     <path d="M 450 120 L 630 120" marker-end="url(#arrowhead)"/>
     
-    <!-- To side technologies -->
+
     <path d="M 340 180 L 170 235" marker-end="url(#arrowhead)"/>
     <path d="M 340 200 L 170 325" marker-end="url(#arrowhead)"/>
     <path d="M 460 180 L 630 235" marker-end="url(#arrowhead)"/>
     <path d="M 460 200 L 630 325" marker-end="url(#arrowhead)"/>
     
-    <!-- To bottom capabilities -->
+
     <path d="M 400 230 L 400 320" marker-end="url(#arrowhead)"/>
   </g>
   
-  <!-- Timeline indicator -->
+
   <g transform="translate(50, 550)">
     <rect x="0" y="0" width="700" height="40" fill="url(#futureGradient)" stroke="#5a32a3" stroke-width="2" rx="20"/>
     <text x="350" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
@@ -196,7 +196,7 @@
     </text>
   </g>
   
-  <!-- Innovation indicators -->
+
   <g transform="translate(20, 20)">
     <circle cx="0" cy="0" r="8" fill="#28a745"/>
     <text x="15" y="5" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#28a745">
@@ -211,7 +211,7 @@
     </text>
   </g>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#6c757d"/>

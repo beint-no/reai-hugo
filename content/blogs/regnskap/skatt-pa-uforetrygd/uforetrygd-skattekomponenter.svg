@@ -10,21 +10,21 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f8fafc"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
     Skattemessig behandling av uføretrygdkomponenter
   </text>
   
-  <!-- Taxable components section -->
+
   <g transform="translate(50, 80)">
     <text x="0" y="20" fill="#dc2626" font-family="Arial, sans-serif" font-size="20" font-weight="bold">
       Skattepliktige komponenter
     </text>
     
-    <!-- Basic disability benefit -->
+
     <rect x="0" y="40" width="300" height="60" rx="8" fill="url(#taxableGrad)" stroke="#dc2626" stroke-width="2"/>
     <text x="150" y="60" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       Grunnbeløp uføretrygd
@@ -36,7 +36,7 @@
       Trygdeavgift: 5,1%
     </text>
     
-    <!-- Child supplement -->
+
     <rect x="0" y="120" width="300" height="60" rx="8" fill="url(#taxableGrad)" stroke="#dc2626" stroke-width="2"/>
     <text x="150" y="140" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       Barnetillegg
@@ -49,13 +49,13 @@
     </text>
   </g>
   
-  <!-- Tax-exempt components section -->
+
   <g transform="translate(450, 80)">
     <text x="0" y="20" fill="#059669" font-family="Arial, sans-serif" font-size="20" font-weight="bold">
       Skattefrie komponenter
     </text>
     
-    <!-- Compensation supplement -->
+
     <rect x="0" y="40" width="300" height="60" rx="8" fill="url(#exemptGrad)" stroke="#059669" stroke-width="2"/>
     <text x="150" y="60" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       Kompensasjonstillegg
@@ -67,7 +67,7 @@
       Skattefritt
     </text>
     
-    <!-- Care allowance -->
+
     <rect x="0" y="120" width="300" height="60" rx="8" fill="url(#exemptGrad)" stroke="#059669" stroke-width="2"/>
     <text x="150" y="140" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       Hjelpestønad
@@ -80,13 +80,13 @@
     </text>
   </g>
   
-  <!-- Comparison table -->
+
   <g transform="translate(50, 280)">
     <text x="0" y="20" fill="#1f2937" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
       Sammenligning med ordinær lønn
     </text>
     
-    <!-- Table header -->
+
     <rect x="0" y="40" width="700" height="40" fill="#e5e7eb" stroke="#9ca3af" stroke-width="1"/>
     <text x="175" y="65" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Element
@@ -98,7 +98,7 @@
       Ordinær lønn
     </text>
     
-    <!-- Row 1: Tax rate -->
+
     <rect x="0" y="80" width="700" height="30" fill="white" stroke="#d1d5db" stroke-width="1"/>
     <text x="175" y="100" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="13">
       Trygdeavgift
@@ -110,7 +110,7 @@
       8,2% (over 2G)
     </text>
     
-    <!-- Row 2: Employer tax -->
+
     <rect x="0" y="110" width="700" height="30" fill="#f9fafb" stroke="#d1d5db" stroke-width="1"/>
     <text x="175" y="130" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="13">
       Arbeidsgiveravgift
@@ -122,7 +122,7 @@
       14,1%
     </text>
     
-    <!-- Row 3: Holiday pay -->
+
     <rect x="0" y="140" width="700" height="30" fill="white" stroke="#d1d5db" stroke-width="1"/>
     <text x="175" y="160" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="13">
       Feriepenger
@@ -134,7 +134,7 @@
       12%
     </text>
     
-    <!-- Row 4: Pension accrual -->
+
     <rect x="0" y="170" width="700" height="30" fill="#f9fafb" stroke="#d1d5db" stroke-width="1"/>
     <text x="175" y="190" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="13">
       Pensjonsopptjening

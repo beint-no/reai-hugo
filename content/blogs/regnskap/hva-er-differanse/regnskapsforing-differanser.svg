@@ -18,19 +18,19 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
   <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
     Regnskapsføring av Differanser
   </text>
   
-  <!-- Main Content Area -->
+
   <g transform="translate(50, 80)">
     
-    <!-- Budget Variances Section -->
+
     <g transform="translate(0, 0)">
       <rect x="0" y="0" width="220" height="150" rx="10" fill="url(#budgetGradient)" opacity="0.9"/>
       <text x="110" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
@@ -40,7 +40,7 @@
         Ikke direkte regnskapsført
       </text>
       
-      <!-- Content -->
+
       <g transform="translate(15, 60)">
         <text x="0" y="15" font-family="Arial, sans-serif" font-size="12" fill="white">
           • Rapporteres i styringssystem
@@ -57,7 +57,7 @@
       </g>
     </g>
     
-    <!-- Tax Differences Section -->
+
     <g transform="translate(240, 0)">
       <rect x="0" y="0" width="220" height="150" rx="10" fill="url(#taxGradient)" opacity="0.9"/>
       <text x="110" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
@@ -67,7 +67,7 @@
         Regnskapsføres forskjellig
       </text>
       
-      <!-- Content -->
+
       <g transform="translate(15, 60)">
         <text x="0" y="15" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
           Midlertidige:
@@ -88,7 +88,7 @@
       </g>
     </g>
     
-    <!-- Reconciliation Differences Section -->
+
     <g transform="translate(480, 0)">
       <rect x="0" y="0" width="220" height="150" rx="10" fill="url(#reconciliationGradient)" opacity="0.9"/>
       <text x="110" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
@@ -98,7 +98,7 @@
         Korrigerende posteringer
       </text>
       
-      <!-- Content -->
+
       <g transform="translate(15, 60)">
         <text x="0" y="15" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
           Bankgebyr:
@@ -119,14 +119,14 @@
       </g>
     </g>
     
-    <!-- Journal Entry Examples -->
+
     <g transform="translate(0, 180)">
       <rect x="0" y="0" width="700" height="280" rx="10" fill="#6c757d" opacity="0.9"/>
       <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
         Praktiske Regnskapsføringseksempler
       </text>
       
-      <!-- Example 1: Temporary Tax Difference -->
+
       <g transform="translate(30, 50)">
         <rect x="0" y="0" width="300" height="100" rx="5" fill="white" opacity="0.1"/>
         <text x="150" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -146,7 +146,7 @@
         </text>
       </g>
       
-      <!-- Example 2: Bank Reconciliation -->
+
       <g transform="translate(370, 50)">
         <rect x="0" y="0" width="300" height="100" rx="5" fill="white" opacity="0.1"/>
         <text x="150" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -163,7 +163,7 @@
         </text>
       </g>
       
-      <!-- Example 3: Permanent Tax Difference -->
+
       <g transform="translate(30, 170)">
         <rect x="0" y="0" width="300" height="100" rx="5" fill="white" opacity="0.1"/>
         <text x="150" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -183,7 +183,7 @@
         </text>
       </g>
       
-      <!-- Example 4: Supplier Reconciliation -->
+
       <g transform="translate(370, 170)">
         <rect x="0" y="0" width="300" height="100" rx="5" fill="white" opacity="0.1"/>
         <text x="150" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -206,7 +206,7 @@
     
   </g>
   
-  <!-- Key Principles Box -->
+
   <g transform="translate(50, 490)">
     <rect x="0" y="0" width="700" height="80" rx="10" fill="#e9ecef" stroke="#6c757d" stroke-width="2"/>
     <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#495057">

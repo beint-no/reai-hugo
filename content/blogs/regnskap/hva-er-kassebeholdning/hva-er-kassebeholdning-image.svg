@@ -10,15 +10,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="400" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#333">
     Kassebeholdning i Regnskapet
   </text>
   
-  <!-- Cash register/safe icon -->
+
   <rect x="100" y="80" width="120" height="100" rx="10" fill="url(#cashGradient)" stroke="#2E7D32" stroke-width="2"/>
   <rect x="110" y="90" width="100" height="60" rx="5" fill="#fff" opacity="0.3"/>
   <circle cx="190" cy="140" r="8" fill="#FFD700"/>
@@ -26,7 +26,7 @@
     Kontanter
   </text>
   
-  <!-- Bank building icon -->
+
   <rect x="300" y="80" width="120" height="100" rx="5" fill="url(#bankGradient)" stroke="#1565C0" stroke-width="2"/>
   <rect x="320" y="100" width="20" height="60" fill="#fff" opacity="0.8"/>
   <rect x="350" y="100" width="20" height="60" fill="#fff" opacity="0.8"/>
@@ -36,7 +36,7 @@
     Bankinnskudd
   </text>
   
-  <!-- Investment chart icon -->
+
   <rect x="500" y="80" width="120" height="100" rx="5" fill="#FF9800" stroke="#F57C00" stroke-width="2"/>
   <polyline points="520,150 540,130 560,140 580,110 600,120" stroke="#fff" stroke-width="3" fill="none"/>
   <circle cx="520" cy="150" r="3" fill="#fff"/>
@@ -51,13 +51,13 @@
     Investeringer
   </text>
   
-  <!-- Balance sheet representation -->
+
   <rect x="150" y="250" width="500" height="120" rx="10" fill="#fff" stroke="#ddd" stroke-width="2"/>
   <text x="400" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#333">
     Balanse - Omløpsmidler
   </text>
   
-  <!-- Balance items -->
+
   <text x="170" y="300" font-family="Arial, sans-serif" font-size="14" fill="#666">
     Varelager
   </text>
@@ -87,12 +87,12 @@
     1 075 000 NOK
   </text>
   
-  <!-- Arrows connecting icons to balance -->
+
   <path d="M 160 180 Q 160 220 200 240" stroke="#4CAF50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 360 180 Q 360 220 400 240" stroke="#2196F3" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 560 180 Q 560 220 520 240" stroke="#FF9800" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#666"/>

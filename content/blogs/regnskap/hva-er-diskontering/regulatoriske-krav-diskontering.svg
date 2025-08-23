@@ -18,27 +18,27 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
   <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
     Regulatoriske Krav til Diskontering
   </text>
   
-  <!-- IFRS Requirements -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="340" height="200" rx="10" fill="url(#ifrsGradient)" opacity="0.9"/>
     <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
       IFRS Krav
     </text>
     
-    <!-- Icon -->
+
     <circle cx="50" cy="60" r="20" fill="white" opacity="0.3"/>
     <text x="50" y="67" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">🌍</text>
     
-    <!-- IFRS 13 -->
+
     <text x="90" y="50" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
       IFRS 13 - Virkelig verdi målinger
     </text>
@@ -49,7 +49,7 @@
       • Hierarki for verdsettelsesteknikker
     </text>
     
-    <!-- IAS 1 -->
+
     <text x="90" y="100" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
       IAS 1 - Presentasjon
     </text>
@@ -60,7 +60,7 @@
       • Klassifisering av kortsiktige vs. langsiktige
     </text>
     
-    <!-- IFRS 7 -->
+
     <text x="90" y="150" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
       IFRS 7 - Finansielle instrumenter
     </text>
@@ -72,18 +72,18 @@
     </text>
   </g>
   
-  <!-- Norwegian Requirements -->
+
   <g transform="translate(410, 80)">
     <rect x="0" y="0" width="340" height="200" rx="10" fill="url(#norwegianGradient)" opacity="0.9"/>
     <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
       Norske Regnskapsregler
     </text>
     
-    <!-- Icon -->
+
     <circle cx="50" cy="60" r="20" fill="white" opacity="0.3"/>
     <text x="50" y="67" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">🇳🇴</text>
     
-    <!-- Regnskapsloven -->
+
     <text x="90" y="50" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
       Regnskapsloven
     </text>
@@ -94,7 +94,7 @@
       • Krav til forsiktighet og realisme
     </text>
     
-    <!-- God regnskapsskikk -->
+
     <text x="90" y="100" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
       God regnskapsskikk
     </text>
@@ -105,7 +105,7 @@
       • Bransjespesifikke retningslinjer
     </text>
     
-    <!-- Regnskapsstandard -->
+
     <text x="90" y="150" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
       Norsk RegnskapsStiftelse (NRS)
     </text>
@@ -117,59 +117,59 @@
     </text>
   </g>
   
-  <!-- Key Standards Table -->
+
   <g transform="translate(50, 300)">
     <rect x="0" y="0" width="700" height="180" rx="10" fill="#ffffff" stroke="#ddd" stroke-width="2"/>
     <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333">
       Viktige Standarder for Diskontering
     </text>
     
-    <!-- Table Headers -->
+
     <rect x="20" y="40" width="660" height="25" fill="#f5f5f5" stroke="#ddd" stroke-width="1"/>
     <text x="40" y="55" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#333">Standard</text>
     <text x="150" y="55" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#333">Område</text>
     <text x="300" y="55" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#333">Diskonteringskrav</text>
     <text x="500" y="55" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#333">Opplysningskrav</text>
     
-    <!-- IFRS 16 -->
+
     <text x="40" y="80" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#4CAF50">IFRS 16</text>
     <text x="150" y="80" font-family="Arial, sans-serif" font-size="12" fill="#333">Leasingavtaler</text>
     <text x="300" y="80" font-family="Arial, sans-serif" font-size="12" fill="#333">Implisitt rente eller marginell lånerente</text>
     <text x="500" y="80" font-family="Arial, sans-serif" font-size="12" fill="#333">Rente og sensitivitet</text>
     
-    <!-- IAS 19 -->
+
     <text x="40" y="100" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#4CAF50">IAS 19</text>
     <text x="150" y="100" font-family="Arial, sans-serif" font-size="12" fill="#333">Pensjoner</text>
     <text x="300" y="100" font-family="Arial, sans-serif" font-size="12" fill="#333">Høykvalitets selskapsobligasjoner</text>
     <text x="500" y="100" font-family="Arial, sans-serif" font-size="12" fill="#333">Aktuarielle forutsetninger</text>
     
-    <!-- IAS 36 -->
+
     <text x="40" y="120" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#4CAF50">IAS 36</text>
     <text x="150" y="120" font-family="Arial, sans-serif" font-size="12" fill="#333">Verdifall</text>
     <text x="300" y="120" font-family="Arial, sans-serif" font-size="12" fill="#333">WACC eller lignende</text>
     <text x="500" y="120" font-family="Arial, sans-serif" font-size="12" fill="#333">Nøkkelforutsetninger</text>
     
-    <!-- IFRS 9 -->
+
     <text x="40" y="140" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#4CAF50">IFRS 9</text>
     <text x="150" y="140" font-family="Arial, sans-serif" font-size="12" fill="#333">Finansielle instrumenter</text>
     <text x="300" y="140" font-family="Arial, sans-serif" font-size="12" fill="#333">Effektiv rente</text>
     <text x="500" y="140" font-family="Arial, sans-serif" font-size="12" fill="#333">Kredittrisiko og verdsettelse</text>
     
-    <!-- IAS 37 -->
+
     <text x="40" y="160" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#4CAF50">IAS 37</text>
     <text x="150" y="160" font-family="Arial, sans-serif" font-size="12" fill="#333">Avsetninger</text>
     <text x="300" y="160" font-family="Arial, sans-serif" font-size="12" fill="#333">Risikofri rente justert for risiko</text>
     <text x="500" y="160" font-family="Arial, sans-serif" font-size="12" fill="#333">Usikkerhet og timing</text>
   </g>
   
-  <!-- Disclosure Requirements -->
+
   <g transform="translate(50, 500)">
     <rect x="0" y="0" width="700" height="80" rx="10" fill="url(#disclosureGradient)" opacity="0.9"/>
     <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
       Opplysningskrav for Diskontering
     </text>
     
-    <!-- Disclosure 1 -->
+
     <g transform="translate(50, 35)">
       <circle cx="15" cy="15" r="12" fill="white" opacity="0.3"/>
       <text x="15" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">1</text>
@@ -181,7 +181,7 @@
       </text>
     </g>
     
-    <!-- Disclosure 2 -->
+
     <g transform="translate(250, 35)">
       <circle cx="15" cy="15" r="12" fill="white" opacity="0.3"/>
       <text x="15" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">2</text>
@@ -193,7 +193,7 @@
       </text>
     </g>
     
-    <!-- Disclosure 3 -->
+
     <g transform="translate(450, 35)">
       <circle cx="15" cy="15" r="12" fill="white" opacity="0.3"/>
       <text x="15" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">3</text>

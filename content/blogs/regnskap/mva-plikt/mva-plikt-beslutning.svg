@@ -9,66 +9,66 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#212529">Beslutningstre for MVA-plikt</text>
   
-  <!-- Start node -->
+
   <rect x="320" y="60" width="160" height="50" fill="#0066cc" stroke="white" stroke-width="2" rx="25" filter="url(#shadow)"/>
   <text x="400" y="80" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">Har virksomhet</text>
   <text x="400" y="95" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">MVA-plikt?</text>
   
-  <!-- Decision 1: Omsetning -->
+
   <rect x="320" y="150" width="160" height="60" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="10" filter="url(#shadow)"/>
   <text x="400" y="170" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#856404">Årlig omsetning</text>
   <text x="400" y="185" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#856404">over grensen?</text>
   <text x="400" y="200" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#856404">(50k/70k/140k kr)</text>
   
-  <!-- Arrow from start to decision 1 -->
+
   <path d="M 400 110 L 400 150" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Branch: Yes - Automatic obligation -->
+
   <rect x="120" y="260" width="160" height="60" fill="#d4edda" stroke="#28a745" stroke-width="2" rx="10" filter="url(#shadow)"/>
   <text x="200" y="280" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#155724">Automatisk</text>
   <text x="200" y="295" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#155724">MVA-plikt</text>
   <text x="200" y="310" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#155724">Registrering påkrevd</text>
   
-  <!-- Branch: No - Check exemptions -->
+
   <rect x="520" y="260" width="160" height="60" fill="#e2e3e5" stroke="#6c757d" stroke-width="2" rx="10" filter="url(#shadow)"/>
   <text x="600" y="280" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#495057">Fritatt aktivitet?</text>
   <text x="600" y="295" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#495057">Helse, utdanning,</text>
   <text x="600" y="310" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#495057">finans, boligutleie</text>
   
-  <!-- Arrows from decision 1 -->
+
   <path d="M 350 210 L 250 260" stroke="#28a745" stroke-width="2" fill="none" marker-end="url(#arrowGreen)"/>
   <text x="280" y="240" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#28a745">JA</text>
   
   <path d="M 450 210 L 550 260" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowGray)"/>
   <text x="520" y="240" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#6c757d">NEI</text>
   
-  <!-- From exemption check -->
-  <!-- Yes - No obligation -->
+
+
   <rect x="420" y="370" width="160" height="60" fill="#f8d7da" stroke="#dc3545" stroke-width="2" rx="10" filter="url(#shadow)"/>
   <text x="500" y="390" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#721c24">Ingen MVA-plikt</text>
   <text x="500" y="405" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#721c24">Fritatt fra</text>
   <text x="500" y="420" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#721c24">registrering</text>
   
-  <!-- No - Voluntary registration -->
+
   <rect x="620" y="370" width="160" height="60" fill="#d1ecf1" stroke="#17a2b8" stroke-width="2" rx="10" filter="url(#shadow)"/>
   <text x="700" y="390" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0c5460">Frivillig</text>
   <text x="700" y="405" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0c5460">registrering?</text>
   <text x="700" y="420" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#0c5460">Vurder fordeler</text>
   
-  <!-- Arrows from exemption check -->
+
   <path d="M 580 320 L 520 370" stroke="#dc3545" stroke-width="2" fill="none" marker-end="url(#arrowRed)"/>
   <text x="540" y="350" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#dc3545">JA</text>
   
   <path d="M 620 320 L 680 370" stroke="#17a2b8" stroke-width="2" fill="none" marker-end="url(#arrowCyan)"/>
   <text x="660" y="350" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#17a2b8">NEI</text>
   
-  <!-- Final outcomes from voluntary registration -->
+
   <rect x="520" y="480" width="120" height="50" fill="#d4edda" stroke="#28a745" stroke-width="2" rx="10" filter="url(#shadow)"/>
   <text x="580" y="500" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#155724">MVA-registrert</text>
   <text x="580" y="515" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#155724">Frivillig</text>
@@ -77,30 +77,30 @@
   <text x="720" y="500" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#721c24">Ikke registrert</text>
   <text x="720" y="515" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#721c24">Ingen MVA</text>
   
-  <!-- Arrows from voluntary registration -->
+
   <path d="M 680 430 L 600 480" stroke="#28a745" stroke-width="2" fill="none" marker-end="url(#arrowGreen)"/>
   <text x="630" y="460" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#28a745">JA</text>
   
   <path d="M 720 430 L 720 480" stroke="#dc3545" stroke-width="2" fill="none" marker-end="url(#arrowRed)"/>
   <text x="730" y="460" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#dc3545">NEI</text>
   
-  <!-- Final outcome from automatic obligation -->
+
   <rect x="120" y="370" width="160" height="60" fill="#d4edda" stroke="#28a745" stroke-width="2" rx="10" filter="url(#shadow)"/>
   <text x="200" y="390" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#155724">MVA-registrert</text>
   <text x="200" y="405" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#155724">Obligatorisk</text>
   <text x="200" y="420" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#155724">Innen 1 måned</text>
   
-  <!-- Arrow from automatic obligation -->
+
   <path d="M 200 320 L 200 370" stroke="#28a745" stroke-width="2" fill="none" marker-end="url(#arrowGreen)"/>
   
-  <!-- Legend -->
+
   <rect x="20" y="520" width="200" height="70" fill="white" stroke="#dee2e6" stroke-width="1" rx="5"/>
   <text x="30" y="540" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#212529">Omsetningsgrenser:</text>
   <text x="30" y="555" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">• Alminnelig næring: 50 000 kr</text>
   <text x="30" y="570" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">• Primærnæring: 70 000 kr</text>
   <text x="30" y="585" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">• Ideelle org.: 140 000 kr</text>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#6c757d"/>

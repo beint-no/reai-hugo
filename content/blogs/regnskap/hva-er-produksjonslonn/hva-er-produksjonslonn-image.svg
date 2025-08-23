@@ -10,17 +10,17 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="400" fill="#ffffff"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="80" fill="url(#headerGrad)"/>
   <text x="400" y="50" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="28" font-weight="bold">Produksjonslønn</text>
   
-  <!-- Main content area -->
+
   <rect x="50" y="100" width="700" height="280" fill="url(#cardGrad)" stroke="#cbd5e1" stroke-width="2" rx="10"/>
   
-  <!-- Production icon -->
+
   <g transform="translate(80, 130)">
     <rect x="0" y="0" width="80" height="60" fill="#3b82f6" rx="8"/>
     <rect x="10" y="15" width="15" height="30" fill="white"/>
@@ -29,7 +29,7 @@
     <text x="40" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#374151">Produksjon</text>
   </g>
   
-  <!-- Arrow -->
+
   <g transform="translate(200, 150)">
     <line x1="0" y1="20" x2="40" y2="20" stroke="#10b981" stroke-width="4" marker-end="url(#arrowhead)"/>
   </g>
@@ -40,14 +40,14 @@
     </marker>
   </defs>
   
-  <!-- Money icon -->
+
   <g transform="translate(280, 130)">
     <circle cx="40" cy="30" r="30" fill="#10b981"/>
     <text x="40" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="white" font-weight="bold">Kr</text>
     <text x="40" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#374151">Variabel lønn</text>
   </g>
   
-  <!-- Benefits list -->
+
   <g transform="translate(420, 130)">
     <text x="0" y="0" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1f2937">Hovedtyper:</text>
     <text x="0" y="25" font-family="Arial, sans-serif" font-size="14" fill="#374151">• Stykkelønn</text>
@@ -56,7 +56,7 @@
     <text x="0" y="85" font-family="Arial, sans-serif" font-size="14" fill="#374151">• Prestasjonslønn</text>
   </g>
   
-  <!-- Formula box -->
+
   <rect x="500" y="240" width="220" height="40" fill="#fef3c7" stroke="#f59e0b" stroke-width="2" rx="5"/>
   <text x="610" y="262" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#92400e" font-weight="bold">Lønn = Produksjon × Sats</text>
 </svg>

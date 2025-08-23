@@ -14,22 +14,22 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="700" height="500" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="350" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Dokumenttyper som må oppbevares
   </text>
   
-  <!-- Primary documents -->
+
   <g transform="translate(50, 70)">
     <rect x="0" y="0" width="180" height="140" fill="url(#primaryGradient)" stroke="#2980b9" stroke-width="2" rx="10"/>
     <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
       Primære dokumenter
     </text>
     
-    <!-- Document icons and text -->
+
     <g fill="white" font-family="Arial, sans-serif" font-size="11">
       <rect x="10" y="35" width="15" height="12" fill="white" opacity="0.8"/>
       <text x="30" y="45">Fakturaer (inn/ut)</text>
@@ -48,14 +48,14 @@
     </g>
   </g>
   
-  <!-- Accounting books -->
+
   <g transform="translate(260, 70)">
     <rect x="0" y="0" width="180" height="140" fill="url(#booksGradient)" stroke="#c0392b" stroke-width="2" rx="10"/>
     <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
       Regnskapsbøker
     </text>
     
-    <!-- Book icons and text -->
+
     <g fill="white" font-family="Arial, sans-serif" font-size="11">
       <rect x="10" y="35" width="15" height="12" fill="white" opacity="0.8"/>
       <text x="30" y="45">Hovedbok</text>
@@ -74,14 +74,14 @@
     </g>
   </g>
   
-  <!-- Reports -->
+
   <g transform="translate(470, 70)">
     <rect x="0" y="0" width="180" height="140" fill="url(#reportsGradient)" stroke="#229954" stroke-width="2" rx="10"/>
     <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
       Rapporter &amp; Oppgaver
     </text>
     
-    <!-- Report icons and text -->
+
     <g fill="white" font-family="Arial, sans-serif" font-size="11">
       <rect x="10" y="35" width="15" height="12" fill="white" opacity="0.8"/>
       <text x="30" y="45">MVA-meldinger</text>
@@ -100,20 +100,20 @@
     </g>
   </g>
   
-  <!-- Digital vs Physical -->
+
   <g transform="translate(100, 250)">
     <text x="250" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">
       Oppbevaringsform
     </text>
     
-    <!-- Digital storage -->
+
     <g transform="translate(50, 40)">
       <rect x="0" y="0" width="180" height="100" fill="#3498db" stroke="#2980b9" stroke-width="2" rx="8" opacity="0.9"/>
       <text x="90" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
         Digital oppbevaring
       </text>
       
-      <!-- Cloud icon -->
+
       <ellipse cx="45" cy="45" rx="12" ry="8" fill="white" opacity="0.8"/>
       <ellipse cx="55" cy="40" rx="15" ry="10" fill="white" opacity="0.8"/>
       <ellipse cx="65" cy="45" rx="12" ry="8" fill="white" opacity="0.8"/>
@@ -123,14 +123,14 @@
       <text x="90" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">Krav til sikkerhet</text>
     </g>
     
-    <!-- Physical storage -->
+
     <g transform="translate(270, 40)">
       <rect x="0" y="0" width="180" height="100" fill="#95a5a6" stroke="#7f8c8d" stroke-width="2" rx="8" opacity="0.9"/>
       <text x="90" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
         Fysisk oppbevaring
       </text>
       
-      <!-- Filing cabinet icon -->
+
       <rect x="40" y="35" width="30" height="25" fill="white" opacity="0.8" stroke="#7f8c8d" stroke-width="1"/>
       <rect x="42" y="40" width="26" height="3" fill="#7f8c8d"/>
       <rect x="42" y="45" width="26" height="3" fill="#7f8c8d"/>
@@ -142,7 +142,7 @@
     </g>
   </g>
   
-  <!-- Key requirements -->
+
   <g transform="translate(150, 380)">
     <text x="200" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
       Nøkkelkrav for oppbevaring

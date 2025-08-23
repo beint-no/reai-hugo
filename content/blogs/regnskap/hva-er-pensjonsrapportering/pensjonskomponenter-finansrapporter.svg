@@ -18,19 +18,19 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="900" height="700" fill="#F8F9FA"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="900" height="60" fill="url(#headerGrad)"/>
   <text x="450" y="38" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white" text-anchor="middle">PENSJONSKOMPONENTER I FINANSRAPPORTER</text>
   
-  <!-- Balance Sheet Section -->
+
   <g transform="translate(50, 100)">
     <rect x="0" y="0" width="250" height="180" fill="url(#balanceGrad)" stroke="#1976D2" stroke-width="2" rx="8"/>
     <text x="125" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1565C0" text-anchor="middle">BALANSE</text>
     
-    <!-- Assets side -->
+
     <g transform="translate(15, 45)">
       <text x="0" y="0" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1976D2">EIENDELER</text>
       <text x="0" y="18" font-family="Arial, sans-serif" font-size="10" fill="#333">Pensjonsmidler (eget selskap)</text>
@@ -38,7 +38,7 @@
       <text x="0" y="46" font-family="Arial, sans-serif" font-size="10" fill="#333">- Markedsverdi</text>
     </g>
     
-    <!-- Liabilities side -->
+
     <g transform="translate(15, 110)">
       <text x="0" y="0" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1976D2">GJELD</text>
       <text x="0" y="18" font-family="Arial, sans-serif" font-size="10" fill="#333">Netto pensjonsforpliktelse</text>
@@ -47,12 +47,12 @@
     </g>
   </g>
   
-  <!-- Income Statement Section -->
+
   <g transform="translate(325, 100)">
     <rect x="0" y="0" width="250" height="180" fill="url(#resultGrad)" stroke="#F57C00" stroke-width="2" rx="8"/>
     <text x="125" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#F57C00" text-anchor="middle">RESULTATREGNSKAP</text>
     
-    <!-- Operating costs -->
+
     <g transform="translate(15, 45)">
       <text x="0" y="0" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#F57C00">DRIFTSKOSTNADER</text>
       <text x="0" y="18" font-family="Arial, sans-serif" font-size="10" fill="#333">Pensjonskostnader</text>
@@ -60,7 +60,7 @@
       <text x="0" y="46" font-family="Arial, sans-serif" font-size="10" fill="#333">- Premiebaserte ordninger</text>
     </g>
     
-    <!-- Financial items -->
+
     <g transform="translate(15, 110)">
       <text x="0" y="0" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#F57C00">FINANSPOSTER</text>
       <text x="0" y="18" font-family="Arial, sans-serif" font-size="10" fill="#333">Rentekostnad pensjon</text>
@@ -69,12 +69,12 @@
     </g>
   </g>
   
-  <!-- Notes Section -->
+
   <g transform="translate(600, 100)">
     <rect x="0" y="0" width="250" height="180" fill="url(#noteGrad)" stroke="#7B1FA2" stroke-width="2" rx="8"/>
     <text x="125" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#7B1FA2" text-anchor="middle">NOTER</text>
     
-    <!-- Required notes -->
+
     <g transform="translate(15, 45)">
       <text x="0" y="0" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#7B1FA2">OBLIGATORISKE NOTER</text>
       <text x="0" y="18" font-family="Arial, sans-serif" font-size="10" fill="#333">Beskrivelse av ordninger</text>
@@ -85,57 +85,57 @@
     </g>
   </g>
   
-  <!-- Detailed breakdown -->
+
   <g transform="translate(50, 320)">
     <rect x="0" y="0" width="800" height="320" fill="#FFFFFF" stroke="#666" stroke-width="1" rx="8"/>
     <text x="400" y="25" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333" text-anchor="middle">DETALJERT PENSJONSKOSTNAD - YTELSESPENSJON</text>
     
-    <!-- Cost components table -->
+
     <g transform="translate(50, 50)">
-      <!-- Header -->
+
       <rect x="0" y="0" width="700" height="30" fill="#E0E0E0" stroke="#999" stroke-width="1"/>
       <text x="20" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">KOSTNADSELEMENT</text>
       <text x="350" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">BESKRIVELSE</text>
       <text x="600" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">RAPPORTERING</text>
       
-      <!-- Row 1 -->
+
       <rect x="0" y="30" width="700" height="25" fill="#F5F5F5" stroke="#999" stroke-width="1"/>
       <text x="20" y="47" font-family="Arial, sans-serif" font-size="10" fill="#333">Nåverdiøkning</text>
       <text x="350" y="47" font-family="Arial, sans-serif" font-size="10" fill="#333">Økning i pensjonsforpliktelse pga. nærmere pensjon</text>
       <text x="600" y="47" font-family="Arial, sans-serif" font-size="10" fill="#333">Lønnskostnad</text>
       
-      <!-- Row 2 -->
+
       <rect x="0" y="55" width="700" height="25" fill="white" stroke="#999" stroke-width="1"/>
       <text x="20" y="72" font-family="Arial, sans-serif" font-size="10" fill="#333">Rentekostnad</text>
       <text x="350" y="72" font-family="Arial, sans-serif" font-size="10" fill="#333">Rente på pensjonsforpliktelsen</text>
       <text x="600" y="72" font-family="Arial, sans-serif" font-size="10" fill="#333">Finanskostnad</text>
       
-      <!-- Row 3 -->
+
       <rect x="0" y="80" width="700" height="25" fill="#F5F5F5" stroke="#999" stroke-width="1"/>
       <text x="20" y="97" font-family="Arial, sans-serif" font-size="10" fill="#333">Forventet avkastning</text>
       <text x="350" y="97" font-family="Arial, sans-serif" font-size="10" fill="#333">Avkastning på pensjonsmidler</text>
       <text x="600" y="97" font-family="Arial, sans-serif" font-size="10" fill="#333">Finansinntekt</text>
       
-      <!-- Row 4 -->
+
       <rect x="0" y="105" width="700" height="25" fill="white" stroke="#999" stroke-width="1"/>
       <text x="20" y="122" font-family="Arial, sans-serif" font-size="10" fill="#333">Amortisering av gevinst/tap</text>
       <text x="350" y="122" font-family="Arial, sans-serif" font-size="10" fill="#333">Utjevning av aktuarmessige endringer</text>
       <text x="600" y="122" font-family="Arial, sans-serif" font-size="10" fill="#333">Lønnskostnad</text>
       
-      <!-- Row 5 -->
+
       <rect x="0" y="130" width="700" height="25" fill="#F5F5F5" stroke="#999" stroke-width="1"/>
       <text x="20" y="147" font-family="Arial, sans-serif" font-size="10" fill="#333">Administrasjonskostnad</text>
       <text x="350" y="147" font-family="Arial, sans-serif" font-size="10" fill="#333">Kostnader til pensjonsforvaltning</text>
       <text x="600" y="147" font-family="Arial, sans-serif" font-size="10" fill="#333">Lønnskostnad</text>
       
-      <!-- Row 6 -->
+
       <rect x="0" y="155" width="700" height="25" fill="white" stroke="#999" stroke-width="1"/>
       <text x="20" y="172" font-family="Arial, sans-serif" font-size="10" fill="#333">Arbeidsgiveravgift</text>
       <text x="350" y="172" font-family="Arial, sans-serif" font-size="10" fill="#333">Avgift på pensjonskostnader</text>
       <text x="600" y="172" font-family="Arial, sans-serif" font-size="10" fill="#333">Lønnskostnad</text>
     </g>
     
-    <!-- Example calculation -->
+
     <g transform="translate(50, 240)">
       <rect x="0" y="0" width="350" height="60" fill="#E8F5E8" stroke="#4CAF50" stroke-width="1" rx="4"/>
       <text x="175" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2E7D32" text-anchor="middle">EKSEMPEL BEREGNING (NOK 1000)</text>
@@ -143,7 +143,7 @@
       <text x="20" y="52" font-family="Arial, sans-serif" font-size="10" fill="#333">- Forventet avkastning: (900) = Netto kostnad: 2,800</text>
     </g>
     
-    <!-- Important note -->
+
     <g transform="translate(420, 240)">
       <rect x="0" y="0" width="280" height="60" fill="#FFF3E0" stroke="#FF8F00" stroke-width="1" rx="4"/>
       <text x="140" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#E65100" text-anchor="middle">VIKTIG!</text>

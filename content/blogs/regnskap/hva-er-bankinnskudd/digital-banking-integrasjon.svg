@@ -18,16 +18,16 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
   <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
     Digital Banking og Regnskapsintegrasjon
   </text>
   
-  <!-- Banking System -->
+
   <g transform="translate(50, 100)">
     <rect x="0" y="0" width="180" height="120" rx="10" fill="url(#bankGradient)" opacity="0.9"/>
     <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
@@ -47,7 +47,7 @@
     </text>
   </g>
   
-  <!-- API Integration -->
+
   <g transform="translate(310, 100)">
     <rect x="0" y="0" width="180" height="120" rx="10" fill="url(#apiGradient)" opacity="0.9"/>
     <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
@@ -67,7 +67,7 @@
     </text>
   </g>
   
-  <!-- Accounting System -->
+
   <g transform="translate(570, 100)">
     <rect x="0" y="0" width="180" height="120" rx="10" fill="url(#accountingGradient)" opacity="0.9"/>
     <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
@@ -87,11 +87,11 @@
     </text>
   </g>
   
-  <!-- Data Flow Arrows -->
+
   <path d="M 240 160 L 300 160" stroke="#333" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 500 160 L 560 160" stroke="#333" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Data Flow Labels -->
+
   <text x="270" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
     Transaksjonsdata
   </text>
@@ -99,12 +99,12 @@
     Strukturerte data
   </text>
   
-  <!-- Benefits Section -->
+
   <text x="50" y="270" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333">
     Fordeler med Digital Integrasjon:
   </text>
   
-  <!-- Benefit 1: Reduced Manual Work -->
+
   <g transform="translate(50, 290)">
     <rect x="0" y="0" width="160" height="80" rx="10" fill="#E8F5E8" stroke="#4CAF50" stroke-width="2"/>
     <text x="80" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2E7D32">
@@ -117,7 +117,7 @@
     </text>
   </g>
   
-  <!-- Benefit 2: Faster Registration -->
+
   <g transform="translate(230, 290)">
     <rect x="0" y="0" width="160" height="80" rx="10" fill="#E3F2FD" stroke="#2196F3" stroke-width="2"/>
     <text x="80" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1976D2">
@@ -130,7 +130,7 @@
     </text>
   </g>
   
-  <!-- Benefit 3: Better Control -->
+
   <g transform="translate(410, 290)">
     <rect x="0" y="0" width="160" height="80" rx="10" fill="#FFF3E0" stroke="#FF9800" stroke-width="2"/>
     <text x="80" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#F57C00">
@@ -143,7 +143,7 @@
     </text>
   </g>
   
-  <!-- Benefit 4: Automatic Reporting -->
+
   <g transform="translate(590, 290)">
     <rect x="0" y="0" width="160" height="80" rx="10" fill="#F3E5F5" stroke="#9C27B0" stroke-width="2"/>
     <text x="80" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#7B1FA2">
@@ -156,12 +156,12 @@
     </text>
   </g>
   
-  <!-- Challenges Section -->
+
   <text x="50" y="410" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333">
     Utfordringer og Løsninger:
   </text>
   
-  <!-- Challenge 1: System Integration -->
+
   <g transform="translate(50, 430)">
     <rect x="0" y="0" width="340" height="60" rx="10" fill="#FFEBEE" stroke="#F44336" stroke-width="2"/>
     <text x="20" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#D32F2F">
@@ -175,7 +175,7 @@
     </text>
   </g>
   
-  <!-- Challenge 2: Data Security -->
+
   <g transform="translate(410, 430)">
     <rect x="0" y="0" width="340" height="60" rx="10" fill="#FFF3E0" stroke="#FF9800" stroke-width="2"/>
     <text x="20" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#F57C00">
@@ -189,7 +189,7 @@
     </text>
   </g>
   
-  <!-- Challenge 3: Backup Routines -->
+
   <g transform="translate(50, 510)">
     <rect x="0" y="0" width="340" height="60" rx="10" fill="#E8F5E8" stroke="#4CAF50" stroke-width="2"/>
     <text x="20" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2E7D32">
@@ -203,7 +203,7 @@
     </text>
   </g>
   
-  <!-- Challenge 4: Competence Requirements -->
+
   <g transform="translate(410, 510)">
     <rect x="0" y="0" width="340" height="60" rx="10" fill="#F3E5F5" stroke="#9C27B0" stroke-width="2"/>
     <text x="20" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#7B1FA2">
@@ -217,7 +217,7 @@
     </text>
   </g>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" 
      refX="0" refY="3.5" orient="auto">

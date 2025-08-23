@@ -18,22 +18,22 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8fafc"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="70" fill="url(#headerGradient)"/>
   <text x="400" y="40" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
     Moderne Regnskapssystem - Debetflyt
   </text>
   
-  <!-- Input Sources -->
+
   <g transform="translate(50, 90)">
     <text x="0" y="20" fill="#374151" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       Datakilder
     </text>
     
-    <!-- Bank Integration -->
+
     <rect x="0" y="30" width="120" height="60" rx="8" fill="url(#automationGradient)" stroke="#10b981" stroke-width="2"/>
     <text x="60" y="50" text-anchor="middle" fill="#047857" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Banksystemer
@@ -45,7 +45,7 @@
       av transaksjoner
     </text>
     
-    <!-- Invoice Systems -->
+
     <rect x="0" y="100" width="120" height="60" rx="8" fill="url(#automationGradient)" stroke="#10b981" stroke-width="2"/>
     <text x="60" y="120" text-anchor="middle" fill="#047857" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Fakturaer
@@ -57,7 +57,7 @@
       OCR-scanning
     </text>
     
-    <!-- Manual Entry -->
+
     <rect x="0" y="170" width="120" height="60" rx="8" fill="#fef3c7" stroke="#f59e0b" stroke-width="2"/>
     <text x="60" y="190" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Manuell input
@@ -70,22 +70,22 @@
     </text>
   </g>
   
-  <!-- Flow Arrows -->
+
   <g>
-    <!-- From sources to processing -->
+
     <path d="M 180 120 L 220 120" stroke="url(#flowGradient)" stroke-width="3" marker-end="url(#arrowhead)"/>
     <path d="M 180 160 L 220 160" stroke="url(#flowGradient)" stroke-width="3" marker-end="url(#arrowhead)"/>
     <path d="M 180 200 L 220 200" stroke="url(#flowGradient)" stroke-width="3" marker-end="url(#arrowhead)"/>
   </g>
   
-  <!-- Processing Engine -->
+
   <g transform="translate(230, 90)">
     <rect x="0" y="0" width="200" height="150" rx="10" fill="url(#systemGradient)" stroke="#7c3aed" stroke-width="3"/>
     <text x="100" y="25" text-anchor="middle" fill="#5b21b6" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       Regnskapssystem
     </text>
     
-    <!-- AI/Automation Icon -->
+
     <g transform="translate(80, 35)">
       <circle cx="20" cy="20" r="15" fill="#8b5cf6" stroke="#7c3aed" stroke-width="2"/>
       <circle cx="15" cy="15" r="2" fill="white"/>
@@ -96,7 +96,7 @@
       </text>
     </g>
     
-    <!-- Processing Steps -->
+
     <g transform="translate(10, 75)">
       <text x="0" y="0" fill="#5b21b6" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         Automatiserte prosesser:
@@ -116,17 +116,17 @@
     </g>
   </g>
   
-  <!-- Flow to validation -->
+
   <path d="M 440 160 L 480 160" stroke="url(#flowGradient)" stroke-width="3" marker-end="url(#arrowhead)"/>
   
-  <!-- Validation & Control -->
+
   <g transform="translate(490, 90)">
     <rect x="0" y="0" width="150" height="150" rx="10" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
     <text x="75" y="25" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Validering
     </text>
     
-    <!-- Validation Icon -->
+
     <g transform="translate(60, 35)">
       <circle cx="15" cy="15" r="12" fill="#dc2626"/>
       <path d="M 8 15 L 13 20 L 22 10" stroke="white" stroke-width="2" fill="none"/>
@@ -151,17 +151,17 @@
     </g>
   </g>
   
-  <!-- Flow to output -->
+
   <path d="M 650 160 L 690 160" stroke="url(#flowGradient)" stroke-width="3" marker-end="url(#arrowhead)"/>
   
-  <!-- Output & Reporting -->
+
   <g transform="translate(700, 90)">
     <rect x="0" y="0" width="90" height="150" rx="8" fill="#dbeafe" stroke="#3b82f6" stroke-width="2"/>
     <text x="45" y="20" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Rapporter
     </text>
     
-    <!-- Report Icon -->
+
     <g transform="translate(30, 30)">
       <rect x="0" y="0" width="30" height="40" rx="3" fill="#3b82f6"/>
       <rect x="3" y="5" width="24" height="2" fill="white"/>
@@ -189,7 +189,7 @@
     </g>
   </g>
   
-  <!-- Standard Templates Section -->
+
   <g transform="translate(50, 270)">
     <rect x="0" y="0" width="700" height="120" rx="10" fill="#ffffff" stroke="#d1d5db" stroke-width="1"/>
     <text x="350" y="25" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
@@ -197,7 +197,7 @@
     </text>
     
     <g transform="translate(30, 45)">
-      <!-- Template 1 -->
+
       <rect x="0" y="0" width="150" height="60" rx="5" fill="#f0f9ff" stroke="#0ea5e9" stroke-width="1"/>
       <text x="75" y="20" text-anchor="middle" fill="#0c4a6e" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         Lønnsutbetaling
@@ -209,7 +209,7 @@
         Kredit: Bank
       </text>
       
-      <!-- Template 2 -->
+
       <rect x="170" y="0" width="150" height="60" rx="5" fill="#f0fdf4" stroke="#22c55e" stroke-width="1"/>
       <text x="245" y="20" text-anchor="middle" fill="#14532d" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         Varekjøp
@@ -221,7 +221,7 @@
         Kredit: Leverandørgjeld
       </text>
       
-      <!-- Template 3 -->
+
       <rect x="340" y="0" width="150" height="60" rx="5" fill="#fefce8" stroke="#eab308" stroke-width="1"/>
       <text x="415" y="20" text-anchor="middle" fill="#713f12" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         Salg av Tjenester
@@ -233,7 +233,7 @@
         Kredit: Salgsinntekt
       </text>
       
-      <!-- Template 4 -->
+
       <rect x="510" y="0" width="150" height="60" rx="5" fill="#fdf2f8" stroke="#ec4899" stroke-width="1"/>
       <text x="585" y="20" text-anchor="middle" fill="#831843" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         Avskrivninger
@@ -247,7 +247,7 @@
     </g>
   </g>
   
-  <!-- Manual Control Section -->
+
   <g transform="translate(50, 410)">
     <rect x="0" y="0" width="700" height="140" rx="10" fill="#fffbeb" stroke="#f59e0b" stroke-width="1"/>
     <text x="350" y="25" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
@@ -293,7 +293,7 @@
     </g>
   </g>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#1d4ed8"/>

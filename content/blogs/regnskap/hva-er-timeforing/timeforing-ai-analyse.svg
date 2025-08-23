@@ -14,16 +14,16 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8fafc"/>
   
-  <!-- Title -->
+
   <rect x="0" y="0" width="800" height="50" fill="#1f2937"/>
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
     AI og Prediktiv Analyse i Timeføringssystemer
   </text>
   
-  <!-- AI Brain Center -->
+
   <circle cx="400" cy="200" r="80" fill="url(#aiMainGrad)" stroke="#374151" stroke-width="3"/>
   <circle cx="400" cy="200" r="60" fill="rgba(255,255,255,0.1)"/>
   <text x="400" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
@@ -33,7 +33,7 @@
     Engine
   </text>
   
-  <!-- Neural network visualization -->
+
   <circle cx="380" cy="170" r="3" fill="white"/>
   <circle cx="420" cy="170" r="3" fill="white"/>
   <circle cx="360" cy="200" r="3" fill="white"/>
@@ -41,12 +41,12 @@
   <circle cx="380" cy="230" r="3" fill="white"/>
   <circle cx="420" cy="230" r="3" fill="white"/>
   
-  <!-- Connections -->
+
   <line x1="380" y1="170" x2="420" y2="170" stroke="white" stroke-width="1" opacity="0.5"/>
   <line x1="360" y1="200" x2="440" y2="200" stroke="white" stroke-width="1" opacity="0.5"/>
   <line x1="380" y1="230" x2="420" y2="230" stroke="white" stroke-width="1" opacity="0.5"/>
   
-  <!-- Machine Learning Models -->
+
   <rect x="100" y="80" width="160" height="120" rx="10" fill="url(#mlGrad)" stroke="#374151" stroke-width="2"/>
   <text x="180" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     Machine Learning
@@ -64,7 +64,7 @@
   <rect x="120" y="185" width="120" height="18" rx="2" fill="rgba(255,255,255,0.2)"/>
   <text x="130" y="196" font-family="Arial, sans-serif" font-size="10" fill="white">🔍 Anomalideteksjon</text>
   
-  <!-- Natural Language Processing -->
+
   <rect x="540" y="80" width="160" height="120" rx="10" fill="url(#mlGrad)" stroke="#374151" stroke-width="2"/>
   <text x="620" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     Natural Language
@@ -82,7 +82,7 @@
   <rect x="560" y="185" width="120" height="18" rx="2" fill="rgba(255,255,255,0.2)"/>
   <text x="570" y="196" font-family="Arial, sans-serif" font-size="10" fill="white">🏷️ Auto-kategorisering</text>
   
-  <!-- Predictive Analytics -->
+
   <rect x="100" y="320" width="160" height="120" rx="10" fill="url(#predictGrad)" stroke="#374151" stroke-width="2"/>
   <text x="180" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     Prediktiv Analyse
@@ -97,7 +97,7 @@
   <rect x="120" y="405" width="120" height="18" rx="2" fill="rgba(255,255,255,0.2)"/>
   <text x="130" y="416" font-family="Arial, sans-serif" font-size="10" fill="white">🎯 Prosjektferdigstillelse</text>
   
-  <!-- Intelligent Automation -->
+
   <rect x="540" y="320" width="160" height="120" rx="10" fill="url(#predictGrad)" stroke="#374151" stroke-width="2"/>
   <text x="620" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     Intelligent
@@ -115,14 +115,14 @@
   <rect x="560" y="425" width="120" height="18" rx="2" fill="rgba(255,255,255,0.2)"/>
   <text x="570" y="436" font-family="Arial, sans-serif" font-size="10" fill="white">📋 Forslag til forbedring</text>
   
-  <!-- Data Analysis Dashboard -->
+
   <rect x="280" y="320" width="240" height="120" rx="8" fill="white" stroke="#d1d5db" stroke-width="2"/>
   <rect x="280" y="320" width="240" height="30" rx="8" fill="#6366f1"/>
   <text x="400" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     AI-drevet Analysedashboard
   </text>
   
-  <!-- Dashboard metrics -->
+
   <rect x="300" y="360" width="90" height="35" rx="3" fill="#f0fdf4" stroke="#22c55e"/>
   <text x="345" y="375" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#15803d">
     Effektivitet
@@ -144,13 +144,13 @@
     🔮 Neste ukes estimat: 847 timer
   </text>
   
-  <!-- AI Learning Process -->
+
   <rect x="50" y="480" width="700" height="100" rx="8" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="2"/>
   <text x="400" y="505" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#374151">
     AI Læringsprosess og Kontinuerlig Forbedring
   </text>
   
-  <!-- Learning steps -->
+
   <rect x="80" y="520" width="120" height="50" rx="5" fill="white" stroke="#8b5cf6"/>
   <text x="140" y="535" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#7c3aed">
     Datainnsamling
@@ -206,36 +206,36 @@
     Modelloptimalisering
   </text>
   
-  <!-- Connection lines from AI Core -->
+
   <path d="M 320 180 L 260 140" stroke="#8b5cf6" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 480 180 L 540 140" stroke="#8b5cf6" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 320 220 L 260 380" stroke="#8b5cf6" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 480 220 L 540 380" stroke="#8b5cf6" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Data flow from dashboard to AI core -->
+
   <path d="M 400 320 L 400 280" stroke="#6366f1" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Learning process arrows -->
+
   <path d="M 200 545 L 220 545" stroke="#6b7280" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 340 545 L 360 545" stroke="#6b7280" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 480 545 L 500 545" stroke="#6b7280" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 620 545 L 640 545" stroke="#6b7280" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Feedback loop -->
+
   <path d="M 700 520 Q 750 450 750 350 Q 750 250 700 200 Q 650 150 600 120" stroke="#ec4899" stroke-width="2" stroke-dasharray="5,5" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Data sources labels -->
+
   <text x="80" y="70" font-family="Arial, sans-serif" font-size="9" fill="#6b7280">📊 Historiske data</text>
   <text x="200" y="70" font-family="Arial, sans-serif" font-size="9" fill="#6b7280">👥 Brukermønstre</text>
   <text x="560" y="70" font-family="Arial, sans-serif" font-size="9" fill="#6b7280">🔮 Prediksjoner</text>
   <text x="680" y="70" font-family="Arial, sans-serif" font-size="9" fill="#6b7280">⚡ Automatisering</text>
   
-  <!-- Performance indicators -->
+
   <text x="180" y="470" font-family="Arial, sans-serif" font-size="9" fill="#10b981">📈 Kontinuerlig læring</text>
   <text x="400" y="470" font-family="Arial, sans-serif" font-size="9" fill="#3b82f6">🎯 Nøyaktig predikering</text>
   <text x="620" y="470" font-family="Arial, sans-serif" font-size="9" fill="#8b5cf6">🚀 Intelligent automatisering</text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="currentColor"/>

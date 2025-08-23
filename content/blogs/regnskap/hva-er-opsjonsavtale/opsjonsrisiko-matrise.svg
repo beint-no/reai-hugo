@@ -18,19 +18,19 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="20" font-weight="bold">Risikomatrise for Opsjoner</text>
   
-  <!-- Y-axis label -->
+
   <text x="30" y="300" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold" transform="rotate(-90 30 300)">SANNSYNLIGHET</text>
   
-  <!-- X-axis label -->
+
   <text x="400" y="580" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold">KONSEKVENS</text>
   
-  <!-- Grid lines -->
+
   <line x1="100" y1="100" x2="100" y2="500" stroke="#ccc" stroke-width="1"/>
   <line x1="250" y1="100" x2="250" y2="500" stroke="#ccc" stroke-width="1"/>
   <line x1="400" y1="100" x2="400" y2="500" stroke="#ccc" stroke-width="1"/>
@@ -43,7 +43,7 @@
   <line x1="100" y1="400" x2="700" y2="400" stroke="#ccc" stroke-width="1"/>
   <line x1="100" y1="500" x2="700" y2="500" stroke="#ccc" stroke-width="1"/>
   
-  <!-- Axis labels -->
+
   <text x="175" y="520" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="12">Lav</text>
   <text x="325" y="520" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="12">Medium</text>
   <text x="475" y="520" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="12">Høy</text>
@@ -54,9 +54,9 @@
   <text x="85" y="250" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="12">Høy</text>
   <text x="85" y="150" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="12">Svært høy</text>
   
-  <!-- Risk items -->
+
   
-  <!-- Low Risk - Low Impact -->
+
   <rect x="105" y="405" width="140" height="90" fill="url(#lowRisk)" stroke="#28a745" stroke-width="2" rx="5"/>
   <text x="175" y="430" text-anchor="middle" fill="#155724" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Theta-risiko</text>
   <text x="175" y="445" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="10">(Tidsverdifall)</text>
@@ -64,7 +64,7 @@
   <text x="175" y="478" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="9">• Gradvis tap</text>
   <text x="175" y="491" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="9">• Kan sikres</text>
   
-  <!-- Medium Risk - Low Impact -->
+
   <rect x="255" y="405" width="140" height="90" fill="url(#lowRisk)" stroke="#28a745" stroke-width="2" rx="5"/>
   <text x="325" y="430" text-anchor="middle" fill="#155724" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Rho-risiko</text>
   <text x="325" y="445" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="10">(Renterisiko)</text>
@@ -72,7 +72,7 @@
   <text x="325" y="478" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="9">• Kortsiktige opsjoner</text>
   <text x="325" y="491" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="9">• Stabile renter</text>
   
-  <!-- Low Risk - Medium Impact -->
+
   <rect x="105" y="305" width="140" height="90" fill="url(#mediumRisk)" stroke="#ffc107" stroke-width="2" rx="5"/>
   <text x="175" y="330" text-anchor="middle" fill="#856404" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Likviditetsrisiko</text>
   <text x="175" y="345" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="10">(Handelbarhet)</text>
@@ -80,7 +80,7 @@
   <text x="175" y="378" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="9">• Vanskelig exit</text>
   <text x="175" y="391" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="9">• OTC-markeder</text>
   
-  <!-- Medium Risk - Medium Impact -->
+
   <rect x="255" y="305" width="140" height="90" fill="url(#mediumRisk)" stroke="#ffc107" stroke-width="2" rx="5"/>
   <text x="325" y="330" text-anchor="middle" fill="#856404" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Delta-risiko</text>
   <text x="325" y="345" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="10">(Retningsrisiko)</text>
@@ -88,7 +88,7 @@
   <text x="325" y="378" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="9">• Kan sikres</text>
   <text x="325" y="391" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="9">• Dynamisk</text>
   
-  <!-- High Risk - Medium Impact -->
+
   <rect x="405" y="305" width="140" height="90" fill="url(#mediumRisk)" stroke="#ffc107" stroke-width="2" rx="5"/>
   <text x="475" y="330" text-anchor="middle" fill="#856404" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Gamma-risiko</text>
   <text x="475" y="345" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="10">(Konveksitet)</text>
@@ -96,7 +96,7 @@
   <text x="475" y="378" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="9">• Rebalansering</text>
   <text x="475" y="391" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="9">• Kostbart</text>
   
-  <!-- Medium Risk - High Impact -->
+
   <rect x="255" y="205" width="140" height="90" fill="url(#highRisk)" stroke="#dc3545" stroke-width="2" rx="5"/>
   <text x="325" y="230" text-anchor="middle" fill="#721c24" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Kredittrisiko</text>
   <text x="325" y="245" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="10">(Motpartsrisiko)</text>
@@ -104,7 +104,7 @@
   <text x="325" y="278" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="9">• OTC-kontrakter</text>
   <text x="325" y="291" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="9">• Totalt tap</text>
   
-  <!-- High Risk - High Impact -->
+
   <rect x="405" y="205" width="140" height="90" fill="url(#highRisk)" stroke="#dc3545" stroke-width="2" rx="5"/>
   <text x="475" y="230" text-anchor="middle" fill="#721c24" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Vega-risiko</text>
   <text x="475" y="245" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="10">(Volatilitetsrisiko)</text>
@@ -112,7 +112,7 @@
   <text x="475" y="278" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="9">• Uforutsigbar</text>
   <text x="475" y="291" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="9">• Store tap</text>
   
-  <!-- Very High Risk - Very High Impact -->
+
   <rect x="555" y="105" width="140" height="90" fill="url(#highRisk)" stroke="#dc3545" stroke-width="2" rx="5"/>
   <text x="625" y="130" text-anchor="middle" fill="#721c24" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Modellrisiko</text>
   <text x="625" y="145" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="10">(Verdsettelse)</text>
@@ -120,7 +120,7 @@
   <text x="625" y="178" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="9">• Komplekse produkter</text>
   <text x="625" y="191" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="9">• Systematisk feil</text>
   
-  <!-- High Risk - Very High Impact -->
+
   <rect x="405" y="105" width="140" height="90" fill="url(#highRisk)" stroke="#dc3545" stroke-width="2" rx="5"/>
   <text x="475" y="130" text-anchor="middle" fill="#721c24" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Operasjonell</text>
   <text x="475" y="145" text-anchor="middle" fill="#721c24" font-family="Arial, sans-serif" font-size="12" font-weight="bold">risiko</text>
@@ -128,7 +128,7 @@
   <text x="475" y="178" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="9">• Menneskelige feil</text>
   <text x="475" y="191" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="9">• Prosessbrudd</text>
   
-  <!-- Legend -->
+
   <rect x="50" y="540" width="700" height="50" fill="#fff" stroke="#dee2e6" stroke-width="1" rx="5"/>
   <text x="400" y="560" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Risikokategorier</text>
   

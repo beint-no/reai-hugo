@@ -14,24 +14,24 @@
     </linearGradient>
   </defs>
 
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#F8F9FA"/>
 
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#2C3E50">Aksjonærlån til AS</text>
   <text x="400" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#7F8C8D">Aksjonær låner penger til sitt selskap</text>
 
-  <!-- Shareholder (left) -->
+
   <circle cx="160" cy="170" r="50" fill="url(#shareholderGradient)" stroke="#2C3E50" stroke-width="2"/>
   <circle cx="150" cy="155" r="15" fill="#FFF"/>
   <path d="M 120 200 Q 160 185 200 200" stroke="#FFF" stroke-width="4" fill="none"/>
   <text x="160" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2C3E50">Aksjonær</text>
   <text x="160" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2C3E50">Långiver</text>
 
-  <!-- Company building (right) -->
+
   <rect x="520" y="120" width="120" height="100" fill="url(#companyGradient)" stroke="#2C3E50" stroke-width="2" rx="10"/>
 
-  <!-- Company windows -->
+
   <rect x="535" y="135" width="12" height="12" fill="#FFF" rx="2"/>
   <rect x="555" y="135" width="12" height="12" fill="#FFF" rx="2"/>
   <rect x="575" y="135" width="12" height="12" fill="#FFF" rx="2"/>
@@ -41,18 +41,18 @@
   <rect x="575" y="155" width="12" height="12" fill="#FFF" rx="2"/>
   <rect x="595" y="155" width="12" height="12" fill="#FFF" rx="2"/>
 
-  <!-- Company text (positioned below windows to avoid overlap) -->
+
   <text x="580" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFF">Aksjeselskap</text>
   <text x="580" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#FFF">(AS)</text>
 
-  <!-- Company label -->
+
   <text x="580" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2C3E50">Selskap</text>
   <text x="580" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2C3E50">Låntaker</text>
 
-  <!-- Money flow arrow -->
+
   <path d="M 220 170 L 510 170" stroke="#27AE60" stroke-width="4" fill="none" marker-end="url(#arrowhead)"/>
 
-  <!-- Money symbols along arrow -->
+
   <circle cx="290" cy="170" r="15" fill="url(#moneyGradient)"/>
   <text x="290" y="177" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#FFF">kr</text>
 
@@ -62,20 +62,20 @@
   <circle cx="440" cy="170" r="15" fill="url(#moneyGradient)"/>
   <text x="440" y="177" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#FFF">kr</text>
 
-  <!-- Loan label -->
+
   <text x="365" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#27AE60">LÅN</text>
 
-  <!-- Interest return arrow -->
+
   <path d="M 510 200 L 220 200" stroke="#E74C3C" stroke-width="3" fill="none" marker-end="url(#arrowhead2)" stroke-dasharray="5,5"/>
   <text x="365" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#E74C3C">Renter + Avdrag</text>
 
-  <!-- Key benefits box -->
+
   <rect x="50" y="300" width="700" height="150" fill="#ECF0F1" stroke="#BDC3C7" stroke-width="2" rx="10"/>
   <text x="400" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2C3E50">Fordeler med Aksjonærlån til AS</text>
 
-  <!-- Benefits list -->
+
   <g transform="translate(100, 350)">
-    <!-- For shareholder -->
+
     <text x="0" y="0" font-family="Arial, sans-serif" font-size="14" fill="#2C3E50" font-weight="bold">For Aksjonæren:</text>
     <circle cx="10" cy="20" r="3" fill="#3498DB"/>
     <text x="25" y="25" font-family="Arial, sans-serif" font-size="12" fill="#2C3E50">Renteinntekt</text>
@@ -86,7 +86,7 @@
     <circle cx="10" cy="60" r="3" fill="#3498DB"/>
     <text x="25" y="65" font-family="Arial, sans-serif" font-size="12" fill="#2C3E50">Beholder eierandel</text>
 
-    <!-- For company -->
+
     <text x="350" y="0" font-family="Arial, sans-serif" font-size="14" fill="#2C3E50" font-weight="bold">For Selskapet:</text>
     <circle cx="360" cy="20" r="3" fill="#E67E22"/>
     <text x="375" y="25" font-family="Arial, sans-serif" font-size="12" fill="#2C3E50">Rask kapital</text>
@@ -98,7 +98,7 @@
     <text x="375" y="65" font-family="Arial, sans-serif" font-size="12" fill="#2C3E50">Ingen utvanning</text>
   </g>
 
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#27AE60"/>
@@ -108,6 +108,6 @@
     </marker>
   </defs>
 
-  <!-- Bottom warning -->
+
   <text x="400" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#E74C3C" font-weight="bold">⚠️ Krever markedsmessige vilkår og korrekt dokumentasjon</text>
 </svg>

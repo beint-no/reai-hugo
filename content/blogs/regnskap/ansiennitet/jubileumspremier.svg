@@ -10,58 +10,58 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#F5F5F5"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1976D2">
     Jubileumspremier ved Ansiennitet
   </text>
   
-  <!-- Timeline -->
+
   <line x1="80" y1="80" x2="720" y2="80" stroke="#333" stroke-width="2"/>
   
-  <!-- Year markers and awards -->
+
   <g font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
-    <!-- Start -->
+
     <line x1="80" y1="75" x2="80" y2="85" stroke="#333" stroke-width="2"/>
     <text x="80" y="100" fill="#333">0 år</text>
     <text x="80" y="115" fill="#666">Ansettelse</text>
     
-    <!-- 5 years -->
+
     <line x1="180" y1="75" x2="180" y2="85" stroke="#333" stroke-width="2"/>
     <text x="180" y="100" fill="#333">5 år</text>
     <circle cx="180" cy="65" r="6" fill="#4CAF50"/>
     <text x="180" y="50" fill="#4CAF50" font-size="10">Gave</text>
     
-    <!-- 10 years -->
+
     <line x1="280" y1="75" x2="280" y2="85" stroke="#333" stroke-width="2"/>
     <text x="280" y="100" fill="#333">10 år</text>
     <circle cx="280" cy="55" r="12" fill="url(#silverGradient)"/>
     <text x="280" y="45" fill="#333" font-size="10" font-weight="bold">10</text>
     <text x="280" y="35" fill="#666" font-size="10">1 mnd lønn</text>
     
-    <!-- 15 years -->
+
     <line x1="380" y1="75" x2="380" y2="85" stroke="#333" stroke-width="2"/>
     <text x="380" y="100" fill="#333">15 år</text>
     <circle cx="380" cy="65" r="6" fill="#FF9800"/>
     <text x="380" y="50" fill="#FF9800" font-size="10">Gave</text>
     
-    <!-- 20 years -->
+
     <line x1="480" y1="75" x2="480" y2="85" stroke="#333" stroke-width="2"/>
     <text x="480" y="100" fill="#333">20 år</text>
     <circle cx="480" cy="55" r="12" fill="url(#silverGradient)"/>
     <text x="480" y="45" fill="#333" font-size="10" font-weight="bold">20</text>
     <text x="480" y="35" fill="#666" font-size="10">2 mnd lønn</text>
     
-    <!-- 25 years -->
+
     <line x1="580" y1="75" x2="580" y2="85" stroke="#333" stroke-width="2"/>
     <text x="580" y="100" fill="#333">25 år</text>
     <circle cx="580" cy="55" r="15" fill="url(#goldGradient)"/>
     <text x="580" y="45" fill="#333" font-size="10" font-weight="bold">25</text>
     <text x="580" y="30" fill="#666" font-size="10">3 mnd lønn</text>
     
-    <!-- 40 years -->
+
     <line x1="680" y1="75" x2="680" y2="85" stroke="#333" stroke-width="2"/>
     <text x="680" y="100" fill="#333">40 år</text>
     <circle cx="680" cy="55" r="15" fill="url(#goldGradient)"/>
@@ -69,15 +69,15 @@
     <text x="680" y="30" fill="#666" font-size="10">4 mnd lønn</text>
   </g>
   
-  <!-- Legend -->
+
   <rect x="50" y="140" width="700" height="340" fill="#FFFFFF" stroke="#DDD" stroke-width="1" rx="10"/>
   
-  <!-- Legend title -->
+
   <text x="400" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333">
     Typiske Jubileumspremier i Norske Virksomheter
   </text>
   
-  <!-- Table header -->
+
   <rect x="70" y="180" width="660" height="30" fill="#E3F2FD" stroke="#1976D2" stroke-width="1"/>
   <g font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1976D2">
     <text x="100" y="200" text-anchor="middle">Ansiennitet</text>
@@ -87,9 +87,9 @@
     <text x="670" y="200" text-anchor="middle">Regnskapsføring</text>
   </g>
   
-  <!-- Table rows -->
+
   <g font-family="Arial, sans-serif" font-size="12" fill="#333">
-    <!-- Row 1 -->
+
     <rect x="70" y="210" width="660" height="25" fill="#F9F9F9" stroke="#DDD" stroke-width="0.5"/>
     <text x="100" y="225" text-anchor="middle">5 år</text>
     <text x="250" y="225" text-anchor="middle">Gave/diplom</text>
@@ -97,7 +97,7 @@
     <text x="550" y="225" text-anchor="middle">Skattefri</text>
     <text x="670" y="225" text-anchor="middle">Kostnad</text>
     
-    <!-- Row 2 -->
+
     <rect x="70" y="235" width="660" height="25" fill="#FFFFFF" stroke="#DDD" stroke-width="0.5"/>
     <text x="100" y="250" text-anchor="middle">10 år</text>
     <text x="250" y="250" text-anchor="middle">1 månedslønn</text>
@@ -105,7 +105,7 @@
     <text x="550" y="250" text-anchor="middle">Skattepliktig</text>
     <text x="670" y="250" text-anchor="middle">Avsetning</text>
     
-    <!-- Row 3 -->
+
     <rect x="70" y="260" width="660" height="25" fill="#F9F9F9" stroke="#DDD" stroke-width="0.5"/>
     <text x="100" y="275" text-anchor="middle">15 år</text>
     <text x="250" y="275" text-anchor="middle">Gave/bonus</text>
@@ -113,7 +113,7 @@
     <text x="550" y="275" text-anchor="middle">Skattefri</text>
     <text x="670" y="275" text-anchor="middle">Kostnad</text>
     
-    <!-- Row 4 -->
+
     <rect x="70" y="285" width="660" height="25" fill="#FFFFFF" stroke="#DDD" stroke-width="0.5"/>
     <text x="100" y="300" text-anchor="middle">20 år</text>
     <text x="250" y="300" text-anchor="middle">2 månedslønner</text>
@@ -121,7 +121,7 @@
     <text x="550" y="300" text-anchor="middle">Skattepliktig</text>
     <text x="670" y="300" text-anchor="middle">Avsetning</text>
     
-    <!-- Row 5 -->
+
     <rect x="70" y="310" width="660" height="25" fill="#F9F9F9" stroke="#DDD" stroke-width="0.5"/>
     <text x="100" y="325" text-anchor="middle">25 år</text>
     <text x="250" y="325" text-anchor="middle">3 månedslønner</text>
@@ -129,7 +129,7 @@
     <text x="550" y="325" text-anchor="middle">Skattepliktig</text>
     <text x="670" y="325" text-anchor="middle">Avsetning</text>
     
-    <!-- Row 6 -->
+
     <rect x="70" y="335" width="660" height="25" fill="#FFFFFF" stroke="#DDD" stroke-width="0.5"/>
     <text x="100" y="350" text-anchor="middle">30 år</text>
     <text x="250" y="350" text-anchor="middle">3 månedslønner</text>
@@ -137,7 +137,7 @@
     <text x="550" y="350" text-anchor="middle">Skattepliktig</text>
     <text x="670" y="350" text-anchor="middle">Avsetning</text>
     
-    <!-- Row 7 -->
+
     <rect x="70" y="360" width="660" height="25" fill="#F9F9F9" stroke="#DDD" stroke-width="0.5"/>
     <text x="100" y="375" text-anchor="middle">40 år</text>
     <text x="250" y="375" text-anchor="middle">4 månedslønner</text>
@@ -146,7 +146,7 @@
     <text x="670" y="375" text-anchor="middle">Avsetning</text>
   </g>
   
-  <!-- Notes -->
+
   <g font-family="Arial, sans-serif" font-size="10" fill="#666">
     <text x="80" y="405">Noter:</text>
     <text x="80" y="418">• Verdier er eksempler og varierer mellom virksomheter</text>

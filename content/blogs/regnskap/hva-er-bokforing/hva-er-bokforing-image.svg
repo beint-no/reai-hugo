@@ -1,23 +1,23 @@
 <svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="400" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#2c3e50">
     Hva er Bokføring?
   </text>
   
-  <!-- Subtitle -->
+
   <text x="400" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#7f8c8d">
     Systematisk registrering av økonomiske transaksjoner
   </text>
   
-  <!-- Main illustration elements -->
-  <!-- Ledger book -->
+
+
   <rect x="150" y="120" width="120" height="160" fill="#3498db" stroke="#2980b9" stroke-width="2" rx="5"/>
   <rect x="160" y="130" width="100" height="140" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
   
-  <!-- Lines in ledger -->
+
   <line x1="170" y1="150" x2="250" y2="150" stroke="#95a5a6" stroke-width="1"/>
   <line x1="170" y1="170" x2="250" y2="170" stroke="#95a5a6" stroke-width="1"/>
   <line x1="170" y1="190" x2="250" y2="190" stroke="#95a5a6" stroke-width="1"/>
@@ -25,34 +25,34 @@
   <line x1="170" y1="230" x2="250" y2="230" stroke="#95a5a6" stroke-width="1"/>
   <line x1="170" y1="250" x2="250" y2="250" stroke="#95a5a6" stroke-width="1"/>
   
-  <!-- Vertical line for debit/credit -->
+
   <line x1="210" y1="140" x2="210" y2="260" stroke="#95a5a6" stroke-width="2"/>
   
-  <!-- Debit/Credit labels -->
+
   <text x="190" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#2c3e50">DEBET</text>
   <text x="230" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#2c3e50">KREDIT</text>
   
-  <!-- Arrow pointing right -->
+
   <path d="M 290 200 L 330 200 L 320 190 M 330 200 L 320 210" stroke="#e74c3c" stroke-width="3" fill="none"/>
   
-  <!-- Computer/Digital system -->
+
   <rect x="350" y="140" width="140" height="100" fill="#34495e" stroke="#2c3e50" stroke-width="2" rx="5"/>
   <rect x="360" y="150" width="120" height="70" fill="#ecf0f1"/>
   
-  <!-- Screen content -->
+
   <rect x="370" y="160" width="100" height="8" fill="#3498db"/>
   <rect x="370" y="175" width="80" height="6" fill="#95a5a6"/>
   <rect x="370" y="185" width="90" height="6" fill="#95a5a6"/>
   <rect x="370" y="195" width="70" height="6" fill="#95a5a6"/>
   <rect x="370" y="205" width="85" height="6" fill="#95a5a6"/>
   
-  <!-- Keyboard -->
+
   <rect x="360" y="250" width="120" height="20" fill="#7f8c8d" rx="2"/>
   
-  <!-- Arrow pointing right -->
+
   <path d="M 510 190 L 550 190 L 540 180 M 550 190 L 540 200" stroke="#e74c3c" stroke-width="3" fill="none"/>
   
-  <!-- Reports/Output -->
+
   <rect x="570" y="120" width="80" height="100" fill="#ffffff" stroke="#bdc3c7" stroke-width="2"/>
   <rect x="580" y="130" width="60" height="6" fill="#2c3e50"/>
   <rect x="580" y="145" width="50" height="4" fill="#7f8c8d"/>
@@ -62,7 +62,7 @@
   <rect x="580" y="185" width="40" height="4" fill="#7f8c8d"/>
   <rect x="580" y="195" width="50" height="4" fill="#7f8c8d"/>
   
-  <!-- Second report -->
+
   <rect x="580" y="240" width="80" height="100" fill="#ffffff" stroke="#bdc3c7" stroke-width="2"/>
   <rect x="590" y="250" width="60" height="6" fill="#27ae60"/>
   <rect x="590" y="265" width="50" height="4" fill="#7f8c8d"/>
@@ -72,7 +72,7 @@
   <rect x="590" y="305" width="40" height="4" fill="#7f8c8d"/>
   <rect x="590" y="315" width="50" height="4" fill="#7f8c8d"/>
   
-  <!-- Labels -->
+
   <text x="210" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
     Manuell Bokføring
   </text>
@@ -85,7 +85,7 @@
     Rapporter
   </text>
   
-  <!-- Process flow labels -->
+
   <text x="400" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#e74c3c">
     Registrering → Behandling → Rapportering
   </text>

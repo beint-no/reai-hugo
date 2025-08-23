@@ -14,41 +14,41 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8fafc"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="24" font-weight="bold">Anskaffelseskost for Ulike Eiendelstyper</text>
   
-  <!-- Materielle Anleggsmidler -->
+
   <rect x="50" y="70" width="220" height="480" fill="#ffffff" stroke="#3b82f6" stroke-width="3" rx="10"/>
   <rect x="50" y="70" width="220" height="50" fill="url(#materialGradient)" rx="10"/>
   <text x="160" y="100" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Materielle</text>
   <text x="160" y="115" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Anleggsmidler</text>
   
-  <!-- Material assets content -->
+
   <g transform="translate(60, 140)">
-    <!-- Maskiner -->
+
     <rect x="0" y="0" width="200" height="40" fill="#dbeafe" stroke="#3b82f6" stroke-width="1" rx="5"/>
     <text x="10" y="20" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold">🏭 Maskiner og Utstyr</text>
     <text x="10" y="35" fill="#1e40af" font-family="Arial, sans-serif" font-size="11">• Kjøpspris + frakt + installasjon</text>
     
-    <!-- Bygninger -->
+
     <rect x="0" y="50" width="200" height="40" fill="#dbeafe" stroke="#3b82f6" stroke-width="1" rx="5"/>
     <text x="10" y="70" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold">🏢 Bygninger</text>
     <text x="10" y="85" fill="#1e40af" font-family="Arial, sans-serif" font-size="11">• Kjøpspris + dokumentavgift</text>
     
-    <!-- Transportmidler -->
+
     <rect x="0" y="100" width="200" height="40" fill="#dbeafe" stroke="#3b82f6" stroke-width="1" rx="5"/>
     <text x="10" y="120" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold">🚗 Transportmidler</text>
     <text x="10" y="135" fill="#1e40af" font-family="Arial, sans-serif" font-size="11">• Kjøpspris + registrering</text>
     
-    <!-- IT-utstyr -->
+
     <rect x="0" y="150" width="200" height="40" fill="#dbeafe" stroke="#3b82f6" stroke-width="1" rx="5"/>
     <text x="10" y="170" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold">💻 IT-utstyr</text>
     <text x="10" y="185" fill="#1e40af" font-family="Arial, sans-serif" font-size="11">• Kjøpspris + oppsett + testing</text>
     
-    <!-- Eksempel -->
+
     <rect x="0" y="210" width="200" height="80" fill="#f0f9ff" stroke="#0ea5e9" stroke-width="2" rx="5"/>
     <text x="10" y="230" fill="#0c4a6e" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Eksempel: CNC-maskin</text>
     <text x="10" y="245" fill="#0c4a6e" font-family="Arial, sans-serif" font-size="10">Kjøpspris: 750 000 kr</text>
@@ -57,35 +57,35 @@
     <text x="10" y="284" fill="#0c4a6e" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Total: 815 000 kr</text>
   </g>
   
-  <!-- Immaterielle Eiendeler -->
+
   <rect x="290" y="70" width="220" height="480" fill="#ffffff" stroke="#8b5cf6" stroke-width="3" rx="10"/>
   <rect x="290" y="70" width="220" height="50" fill="url(#immaterialGradient)" rx="10"/>
   <text x="400" y="100" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Immaterielle</text>
   <text x="400" y="115" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Eiendeler</text>
   
-  <!-- Immaterial assets content -->
+
   <g transform="translate(300, 140)">
-    <!-- Programvare -->
+
     <rect x="0" y="0" width="200" height="40" fill="#ede9fe" stroke="#8b5cf6" stroke-width="1" rx="5"/>
     <text x="10" y="20" fill="#5b21b6" font-family="Arial, sans-serif" font-size="14" font-weight="bold">💾 Programvare</text>
     <text x="10" y="35" fill="#5b21b6" font-family="Arial, sans-serif" font-size="11">• Lisenskost + implementering</text>
     
-    <!-- Patenter -->
+
     <rect x="0" y="50" width="200" height="40" fill="#ede9fe" stroke="#8b5cf6" stroke-width="1" rx="5"/>
     <text x="10" y="70" fill="#5b21b6" font-family="Arial, sans-serif" font-size="14" font-weight="bold">📋 Patenter</text>
     <text x="10" y="85" fill="#5b21b6" font-family="Arial, sans-serif" font-size="11">• Kjøpspris + juridiske kostnader</text>
     
-    <!-- Varemerker -->
+
     <rect x="0" y="100" width="200" height="40" fill="#ede9fe" stroke="#8b5cf6" stroke-width="1" rx="5"/>
     <text x="10" y="120" fill="#5b21b6" font-family="Arial, sans-serif" font-size="14" font-weight="bold">🏷️ Varemerker</text>
     <text x="10" y="135" fill="#5b21b6" font-family="Arial, sans-serif" font-size="11">• Registreringskost + design</text>
     
-    <!-- Goodwill -->
+
     <rect x="0" y="150" width="200" height="40" fill="#ede9fe" stroke="#8b5cf6" stroke-width="1" rx="5"/>
     <text x="10" y="170" fill="#5b21b6" font-family="Arial, sans-serif" font-size="14" font-weight="bold">⭐ Goodwill</text>
     <text x="10" y="185" fill="#5b21b6" font-family="Arial, sans-serif" font-size="11">• Merverdi ved oppkjøp</text>
     
-    <!-- Eksempel -->
+
     <rect x="0" y="210" width="200" height="80" fill="#faf5ff" stroke="#a855f7" stroke-width="2" rx="5"/>
     <text x="10" y="230" fill="#581c87" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Eksempel: ERP-system</text>
     <text x="10" y="245" fill="#581c87" font-family="Arial, sans-serif" font-size="10">Lisenskost: 800 000 kr</text>
@@ -94,35 +94,35 @@
     <text x="10" y="284" fill="#581c87" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Total: 1 000 000 kr</text>
   </g>
   
-  <!-- Finansielle Eiendeler -->
+
   <rect x="530" y="70" width="220" height="480" fill="#ffffff" stroke="#10b981" stroke-width="3" rx="10"/>
   <rect x="530" y="70" width="220" height="50" fill="url(#financialGradient)" rx="10"/>
   <text x="640" y="100" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Finansielle</text>
   <text x="640" y="115" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Eiendeler</text>
   
-  <!-- Financial assets content -->
+
   <g transform="translate(540, 140)">
-    <!-- Aksjer -->
+
     <rect x="0" y="0" width="200" height="40" fill="#d1fae5" stroke="#10b981" stroke-width="1" rx="5"/>
     <text x="10" y="20" fill="#065f46" font-family="Arial, sans-serif" font-size="14" font-weight="bold">📈 Aksjer</text>
     <text x="10" y="35" fill="#065f46" font-family="Arial, sans-serif" font-size="11">• Kjøpspris + meglerprovision</text>
     
-    <!-- Obligasjoner -->
+
     <rect x="0" y="50" width="200" height="40" fill="#d1fae5" stroke="#10b981" stroke-width="1" rx="5"/>
     <text x="10" y="70" fill="#065f46" font-family="Arial, sans-serif" font-size="14" font-weight="bold">📊 Obligasjoner</text>
     <text x="10" y="85" fill="#065f46" font-family="Arial, sans-serif" font-size="11">• Kjøpspris + transaksjonsgebyr</text>
     
-    <!-- Lån -->
+
     <rect x="0" y="100" width="200" height="40" fill="#d1fae5" stroke="#10b981" stroke-width="1" rx="5"/>
     <text x="10" y="120" fill="#065f46" font-family="Arial, sans-serif" font-size="14" font-weight="bold">💰 Lån til andre</text>
     <text x="10" y="135" fill="#065f46" font-family="Arial, sans-serif" font-size="11">• Utlånt beløp + etableringsgebyr</text>
     
-    <!-- Fond -->
+
     <rect x="0" y="150" width="200" height="40" fill="#d1fae5" stroke="#10b981" stroke-width="1" rx="5"/>
     <text x="10" y="170" fill="#065f46" font-family="Arial, sans-serif" font-size="14" font-weight="bold">🏦 Fond</text>
     <text x="10" y="185" fill="#065f46" font-family="Arial, sans-serif" font-size="11">• Kjøpspris + forvaltningsgebyr</text>
     
-    <!-- Eksempel -->
+
     <rect x="0" y="210" width="200" height="80" fill="#f0fdf4" stroke="#22c55e" stroke-width="2" rx="5"/>
     <text x="10" y="230" fill="#14532d" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Eksempel: Aksjekjøp</text>
     <text x="10" y="245" fill="#14532d" font-family="Arial, sans-serif" font-size="10">Kjøpspris: 500 000 kr</text>
@@ -131,7 +131,7 @@
     <text x="10" y="284" fill="#14532d" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Total: 503 500 kr</text>
   </g>
   
-  <!-- Bottom note -->
+
   <rect x="50" y="570" width="700" height="20" fill="#fef3c7" rx="5"/>
   <text x="400" y="583" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="12" font-style="italic">Anskaffelseskost varierer basert på eiendelstype og anskaffelsesmåte</text>
 </svg>

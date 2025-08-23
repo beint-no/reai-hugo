@@ -24,21 +24,21 @@
     </marker>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#0066cc">
     Regnskapsføring av Forskuddstrekk
   </text>
   
-  <!-- Main Accounts Section -->
+
   <g transform="translate(50, 60)">
     <text x="0" y="20" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#0066cc">
       Hovedkontoer:
     </text>
     
-    <!-- Account 5000 -->
+
     <g transform="translate(0, 40)">
       <rect x="0" y="0" width="160" height="70" fill="url(#accountGradient)" rx="8" filter="url(#shadow)"/>
       <text x="80" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
@@ -52,7 +52,7 @@
       </text>
     </g>
     
-    <!-- Account 2740 -->
+
     <g transform="translate(180, 40)">
       <rect x="0" y="0" width="160" height="70" fill="url(#accountGradient)" rx="8" filter="url(#shadow)"/>
       <text x="80" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
@@ -66,7 +66,7 @@
       </text>
     </g>
     
-    <!-- Account 1900 -->
+
     <g transform="translate(360, 40)">
       <rect x="0" y="0" width="160" height="70" fill="url(#accountGradient)" rx="8" filter="url(#shadow)"/>
       <text x="80" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
@@ -80,7 +80,7 @@
       </text>
     </g>
     
-    <!-- Account 5700 -->
+
     <g transform="translate(540, 40)">
       <rect x="0" y="0" width="160" height="70" fill="url(#accountGradient)" rx="8" filter="url(#shadow)"/>
       <text x="80" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
@@ -95,7 +95,7 @@
     </g>
   </g>
   
-  <!-- Booking Example 1: Salary Payment -->
+
   <g transform="translate(50, 160)">
     <text x="0" y="20" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#0066cc">
       1. Lønnsutbetaling:
@@ -103,12 +103,12 @@
     
     <rect x="0" y="30" width="700" height="100" fill="#fff" stroke="#0066cc" stroke-width="2" rx="8"/>
     
-    <!-- Example calculation -->
+
     <text x="20" y="55" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
       Eksempel: Bruttolønn kr 50.000, Forskuddstrekk 25% = kr 12.500, Nettolønn kr 37.500
     </text>
     
-    <!-- Debit entries -->
+
     <g transform="translate(20, 70)">
       <rect x="0" y="0" width="320" height="50" fill="url(#debitGradient)" rx="5"/>
       <text x="10" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
@@ -122,7 +122,7 @@
       </text>
     </g>
     
-    <!-- Credit entries -->
+
     <g transform="translate(360, 70)">
       <rect x="0" y="0" width="320" height="50" fill="url(#creditGradient)" rx="5"/>
       <text x="10" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
@@ -137,7 +137,7 @@
     </g>
   </g>
   
-  <!-- Booking Example 2: Tax Payment -->
+
   <g transform="translate(50, 290)">
     <text x="0" y="20" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#0066cc">
       2. Innbetaling til Skatteetaten:
@@ -145,12 +145,12 @@
     
     <rect x="0" y="30" width="700" height="80" fill="#fff" stroke="#28a745" stroke-width="2" rx="8"/>
     
-    <!-- Example calculation -->
+
     <text x="20" y="55" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
       Innbetaling av trukket forskuddstrekk til Skatteetaten
     </text>
     
-    <!-- Debit entries -->
+
     <g transform="translate(20, 65)">
       <rect x="0" y="0" width="320" height="35" fill="url(#debitGradient)" rx="5"/>
       <text x="10" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
@@ -161,7 +161,7 @@
       </text>
     </g>
     
-    <!-- Credit entries -->
+
     <g transform="translate(360, 65)">
       <rect x="0" y="0" width="320" height="35" fill="url(#creditGradient)" rx="5"/>
       <text x="10" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
@@ -173,13 +173,13 @@
     </g>
   </g>
   
-  <!-- Process Flow -->
+
   <g transform="translate(50, 400)">
     <text x="0" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#0066cc">
       Prosessflyt:
     </text>
     
-    <!-- Step indicators -->
+
     <circle cx="50" cy="45" r="15" fill="#0066cc"/>
     <text x="50" y="51" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">1</text>
     <text x="50" y="70" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#333">Lønnsutbetaling</text>
@@ -203,7 +203,7 @@
     <text x="350" y="70" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#333">Avstemming</text>
   </g>
   
-  <!-- Important Notes -->
+
   <g transform="translate(400, 400)">
     <text x="0" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0066cc">
       Viktige punkter:

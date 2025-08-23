@@ -28,17 +28,17 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e293b">
     Digital Bokføring - Arbeidsflyt i Dobbel Bokføring
   </text>
   
-  <!-- Input Sources -->
+
   <g transform="translate(50, 80)">
-    <!-- OCR Technology -->
+
     <rect x="0" y="0" width="140" height="80" rx="10" fill="url(#techGradient)" stroke="#7c3aed" stroke-width="2"/>
     <text x="70" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
       OCR-teknologi
@@ -52,11 +52,11 @@
     <text x="70" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
       Intelligent scanning
     </text>
-    <!-- Arrow -->
+
     <line x1="140" y1="40" x2="200" y2="40" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
   </g>
   
-  <!-- Bank Integration -->
+
   <g transform="translate(50, 180)">
     <rect x="0" y="0" width="140" height="80" rx="10" fill="url(#processGradient)" stroke="#059669" stroke-width="2"/>
     <text x="70" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -71,11 +71,11 @@
     <text x="70" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
       Sanntidsdata
     </text>
-    <!-- Arrow -->
+
     <line x1="140" y1="40" x2="200" y2="140" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
   </g>
   
-  <!-- Invoice Handling -->
+
   <g transform="translate(50, 280)">
     <rect x="0" y="0" width="140" height="80" rx="10" fill="#f59e0b" stroke="#d97706" stroke-width="2"/>
     <text x="70" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -90,11 +90,11 @@
     <text x="70" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
       Automatisk kontering
     </text>
-    <!-- Arrow -->
+
     <line x1="140" y1="40" x2="200" y2="240" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
   </g>
   
-  <!-- Central Processing Hub -->
+
   <g transform="translate(220, 180)">
     <rect x="0" y="0" width="160" height="120" rx="15" fill="url(#digitalGradient)" stroke="#1d4ed8" stroke-width="3" filter="url(#glow)"/>
     <text x="80" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
@@ -114,7 +114,7 @@
     </text>
   </g>
   
-  <!-- AI and Machine Learning -->
+
   <g transform="translate(420, 120)">
     <rect x="0" y="0" width="140" height="80" rx="10" fill="#ef4444" stroke="#dc2626" stroke-width="2"/>
     <text x="70" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -129,12 +129,12 @@
     <text x="70" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
       Prediktiv analyse
     </text>
-    <!-- Bidirectional arrow -->
+
     <line x1="0" y1="40" x2="380" y2="200" stroke="#64748b" stroke-width="2" stroke-dasharray="5,5"/>
     <line x1="380" y1="200" x2="0" y2="40" stroke="#64748b" stroke-width="2" stroke-dasharray="5,5" marker-end="url(#arrowhead)"/>
   </g>
   
-  <!-- Automated Reconciliation -->
+
   <g transform="translate(420, 220)">
     <rect x="0" y="0" width="140" height="80" rx="10" fill="#06b6d4" stroke="#0891b2" stroke-width="2"/>
     <text x="70" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -149,11 +149,11 @@
     <text x="70" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
       Kontinuerlig kontroll
     </text>
-    <!-- Arrow from central hub -->
+
     <line x1="380" y1="240" x2="420" y2="260" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
   </g>
   
-  <!-- Real-time Reporting -->
+
   <g transform="translate(420, 320)">
     <rect x="0" y="0" width="140" height="80" rx="10" fill="url(#processGradient)" stroke="#059669" stroke-width="2"/>
     <text x="70" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -168,11 +168,11 @@
     <text x="70" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
       Live dashboards
     </text>
-    <!-- Arrow from central hub -->
+
     <line x1="380" y1="280" x2="420" y2="360" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
   </g>
   
-  <!-- Output Reports -->
+
   <g transform="translate(600, 180)">
     <rect x="0" y="0" width="150" height="120" rx="15" fill="#f1f5f9" stroke="#64748b" stroke-width="2"/>
     <text x="75" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e293b">
@@ -185,18 +185,18 @@
     <text x="20" y="80" font-family="Arial, sans-serif" font-size="11" fill="#64748b">• Resultatregnskap</text>
     <text x="20" y="95" font-family="Arial, sans-serif" font-size="11" fill="#64748b">• Kontantstrøm</text>
     <text x="20" y="110" font-family="Arial, sans-serif" font-size="11" fill="#64748b">• Nøkkeltall</text>
-    <!-- Arrow from real-time reporting -->
+
     <line x1="560" y1="360" x2="600" y2="240" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
   </g>
   
-  <!-- Benefits section -->
+
   <g transform="translate(50, 420)">
     <rect x="0" y="0" width="700" height="120" rx="10" fill="#fef3c7" stroke="#f59e0b" stroke-width="2"/>
     <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#92400e">
       Fordeler med Digital Arbeidsflyt
     </text>
     
-    <!-- Benefit 1 -->
+
     <g transform="translate(30, 40)">
       <circle cx="10" cy="10" r="8" fill="#10b981"/>
       <text x="10" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">1</text>
@@ -204,7 +204,7 @@
       <text x="30" y="25" font-family="Arial, sans-serif" font-size="10" fill="#92400e">80% reduksjon i manuelt arbeid</text>
     </g>
     
-    <!-- Benefit 2 -->
+
     <g transform="translate(200, 40)">
       <circle cx="10" cy="10" r="8" fill="#3b82f6"/>
       <text x="10" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">2</text>
@@ -212,7 +212,7 @@
       <text x="30" y="25" font-family="Arial, sans-serif" font-size="10" fill="#92400e">Eliminerer menneskelige feil</text>
     </g>
     
-    <!-- Benefit 3 -->
+
     <g transform="translate(370, 40)">
       <circle cx="10" cy="10" r="8" fill="#8b5cf6"/>
       <text x="10" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">3</text>
@@ -220,7 +220,7 @@
       <text x="30" y="25" font-family="Arial, sans-serif" font-size="10" fill="#92400e">Øyeblikkelig finansiell oversikt</text>
     </g>
     
-    <!-- Benefit 4 -->
+
     <g transform="translate(540, 40)">
       <circle cx="10" cy="10" r="8" fill="#ef4444"/>
       <text x="10" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">4</text>
@@ -228,7 +228,7 @@
       <text x="30" y="25" font-family="Arial, sans-serif" font-size="10" fill="#92400e">Håndterer vekst automatisk</text>
     </g>
     
-    <!-- Additional benefits -->
+
     <g transform="translate(30, 70)">
       <text x="0" y="0" font-family="Arial, sans-serif" font-size="11" fill="#92400e">• Bedre compliance og kontroll</text>
       <text x="200" y="0" font-family="Arial, sans-serif" font-size="11" fill="#92400e">• Integrerte arbeidsflyter</text>
@@ -236,7 +236,7 @@
     </g>
   </g>
   
-  <!-- Technology indicators -->
+
   <g transform="translate(50, 560)">
     <rect x="0" y="0" width="15" height="15" fill="url(#techGradient)"/>
     <text x="25" y="12" font-family="Arial, sans-serif" font-size="12" fill="#64748b">AI/ML Teknologi</text>

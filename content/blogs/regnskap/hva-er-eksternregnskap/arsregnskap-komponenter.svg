@@ -1,13 +1,13 @@
 <svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Årsregnskapets Komponenter
   </text>
   
-  <!-- Central annual report -->
+
   <circle cx="400" cy="300" r="100" fill="#3498db" stroke="#2980b9" stroke-width="4"/>
   <text x="400" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     ÅRSREGNSKAP
@@ -16,7 +16,7 @@
     Eksternregnskap
   </text>
   
-  <!-- Income Statement -->
+
   <rect x="100" y="100" width="180" height="100" fill="#e74c3c" stroke="#c0392b" stroke-width="2" rx="8"/>
   <text x="190" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     RESULTATREGNSKAP
@@ -34,7 +34,7 @@
     • Årsresultat
   </text>
   
-  <!-- Balance Sheet -->
+
   <rect x="520" y="100" width="180" height="100" fill="#27ae60" stroke="#1e8449" stroke-width="2" rx="8"/>
   <text x="610" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     BALANSE
@@ -52,7 +52,7 @@
     • Finansiell stilling
   </text>
   
-  <!-- Cash Flow Statement -->
+
   <rect x="100" y="450" width="180" height="100" fill="#9b59b6" stroke="#7d3c98" stroke-width="2" rx="8"/>
   <text x="190" y="475" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     KONTANTSTRØM
@@ -70,7 +70,7 @@
     • Kontantbeholdning
   </text>
   
-  <!-- Notes -->
+
   <rect x="520" y="450" width="180" height="100" fill="#f39c12" stroke="#d68910" stroke-width="2" rx="8"/>
   <text x="610" y="475" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     NOTER
@@ -88,13 +88,13 @@
     • Sammenlignbare tall
   </text>
   
-  <!-- Arrows connecting components to center -->
+
   <line x1="280" y1="180" x2="340" y2="240" stroke="#34495e" stroke-width="3" marker-end="url(#arrowhead)"/>
   <line x1="520" y1="180" x2="460" y2="240" stroke="#34495e" stroke-width="3" marker-end="url(#arrowhead)"/>
   <line x1="280" y1="470" x2="340" y2="360" stroke="#34495e" stroke-width="3" marker-end="url(#arrowhead)"/>
   <line x1="520" y1="470" x2="460" y2="360" stroke="#34495e" stroke-width="3" marker-end="url(#arrowhead)"/>
   
-  <!-- Integration arrows between components -->
+
   <path d="M 280 150 Q 400 80 520 150" stroke="#7f8c8d" stroke-width="2" fill="none" stroke-dasharray="5,5"/>
   <text x="400" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">
     Integrerte komponenter
@@ -105,7 +105,7 @@
     Supplerende informasjon
   </text>
   
-  <!-- Key relationships -->
+
   <rect x="320" y="220" width="160" height="40" fill="#ecf0f1" stroke="#95a5a6" stroke-width="1" rx="5"/>
   <text x="400" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#2c3e50">
     Regnskapsligningen:
@@ -114,7 +114,7 @@
     Eiendeler = Gjeld + Egenkapital
   </text>
   
-  <!-- Additional requirements box -->
+
   <rect x="50" y="250" width="200" height="100" fill="#ecf0f1" stroke="#95a5a6" stroke-width="1" rx="5"/>
   <text x="150" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
     Tilleggskrav
@@ -149,7 +149,7 @@
     • Forståelighet
   </text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" 
      refX="9" refY="3.5" orient="auto">

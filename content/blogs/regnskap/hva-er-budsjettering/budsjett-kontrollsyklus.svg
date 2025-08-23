@@ -1,13 +1,13 @@
 <svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#2c3e50">
     Budsjettoppfølging og Kontrollsyklus
   </text>
   
-  <!-- Central circle -->
+
   <circle cx="400" cy="300" r="80" fill="#3498db" stroke="#2980b9" stroke-width="4"/>
   <text x="400" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     BUDSJETT
@@ -19,7 +19,7 @@
     Kontinuerlig syklus
   </text>
   
-  <!-- Step 1: Monthly Reporting -->
+
   <rect x="150" y="80" width="180" height="100" rx="15" fill="#e74c3c" stroke="#c0392b" stroke-width="3"/>
   <text x="240" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     1. MÅNEDLIG
@@ -34,7 +34,7 @@
     • Avviksidentifikasjon
   </text>
   
-  <!-- Step 2: Variance Analysis -->
+
   <rect x="470" y="80" width="180" height="100" rx="15" fill="#f39c12" stroke="#e67e22" stroke-width="3"/>
   <text x="560" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     2. AVVIKS-
@@ -49,7 +49,7 @@
     • Kategorisering av avvik
   </text>
   
-  <!-- Step 3: Corrective Actions -->
+
   <rect x="470" y="420" width="180" height="100" rx="15" fill="#27ae60" stroke="#229954" stroke-width="3"/>
   <text x="560" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     3. KORRIGERENDE
@@ -64,7 +64,7 @@
     • Implementering
   </text>
   
-  <!-- Step 4: Budget Updates -->
+
   <rect x="150" y="420" width="180" height="100" rx="15" fill="#9b59b6" stroke="#8e44ad" stroke-width="3"/>
   <text x="240" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     4. BUDSJETT-
@@ -79,13 +79,13 @@
     • Justerte målsettinger
   </text>
   
-  <!-- Arrows connecting the cycle -->
+
   <path d="M 330 130 Q 380 130 380 220" stroke="#34495e" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 470 130 Q 420 130 420 220" stroke="#34495e" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 470 470 Q 420 470 420 380" stroke="#34495e" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 330 470 Q 380 470 380 380" stroke="#34495e" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Detailed reporting elements -->
+
   <rect x="50" y="200" width="300" height="120" rx="10" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2"/>
   <text x="200" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
     Nøkkelrapporter i Budsjettoppfølging
@@ -105,7 +105,7 @@
     Over-/underforbruk per kostnadskategori
   </text>
   
-  <!-- Variance types -->
+
   <rect x="450" y="200" width="300" height="120" rx="10" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2"/>
   <text x="600" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
     Typer Avvik som Analyseres
@@ -129,7 +129,7 @@
     Effektivitetsavvik • Miksavvik
   </text>
   
-  <!-- Frequency indicators -->
+
   <circle cx="100" cy="130" r="25" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
   <text x="100" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
     MÅNEDLIG
@@ -162,12 +162,12 @@
     Oppdatering
   </text>
   
-  <!-- Bottom note -->
+
   <text x="400" y="570" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
     Kontinuerlig forbedring gjennom systematisk oppfølging og læring
   </text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>

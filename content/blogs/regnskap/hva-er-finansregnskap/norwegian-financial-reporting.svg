@@ -1,13 +1,13 @@
 <svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Norsk Finansregnskaps Økosystem
   </text>
   
-  <!-- Central company -->
+
   <rect x="320" y="250" width="160" height="100" fill="#3498db" stroke="#2980b9" stroke-width="3" rx="10"/>
   <text x="400" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     NORSK BEDRIFT
@@ -19,9 +19,9 @@
     etter NRS/IFRS
   </text>
   
-  <!-- Authorities and Requirements -->
+
   
-  <!-- Skatteetaten -->
+
   <rect x="50" y="80" width="140" height="80" fill="#e74c3c" stroke="#c0392b" stroke-width="2" rx="8"/>
   <text x="120" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     SKATTEETATEN
@@ -36,7 +36,7 @@
     • SAF-T kontroll
   </text>
   
-  <!-- Brønnøysundregistrene -->
+
   <rect x="610" y="80" width="140" height="80" fill="#f39c12" stroke="#e67e22" stroke-width="2" rx="8"/>
   <text x="680" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     BRØNNØYSUND-
@@ -51,7 +51,7 @@
     • Offentliggjøring
   </text>
   
-  <!-- SSB -->
+
   <rect x="50" y="440" width="140" height="80" fill="#9b59b6" stroke="#8e44ad" stroke-width="2" rx="8"/>
   <text x="120" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     STATISTISK
@@ -63,7 +63,7 @@
     • Strukturstatistikk
   </text>
   
-  <!-- Finanstilsynet -->
+
   <rect x="610" y="440" width="140" height="80" fill="#27ae60" stroke="#229954" stroke-width="2" rx="8"/>
   <text x="680" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     FINANSTILSYNET
@@ -75,7 +75,7 @@
     • ARS-autorisasjon
   </text>
   
-  <!-- Standards and Regulations -->
+
   <rect x="300" y="80" width="200" height="60" fill="#34495e" stroke="#2c3e50" stroke-width="2" rx="8"/>
   <text x="400" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     REGELVERK &amp; STANDARDER
@@ -84,7 +84,7 @@
     Bokføringsloven • NRS • IFRS
   </text>
   
-  <!-- Digital Infrastructure -->
+
   <rect x="300" y="440" width="200" height="80" fill="#16a085" stroke="#138d75" stroke-width="2" rx="8"/>
   <text x="400" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     DIGITAL INFRASTRUKTUR
@@ -99,27 +99,27 @@
     • Bankintegrasjon
   </text>
   
-  <!-- Arrows and connections -->
-  <!-- From company to authorities -->
+
+
   <path d="M 320 280 L 190 130" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 480 280 L 610 130" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 320 320 L 190 470" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 480 320 L 610 470" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- From standards to company -->
+
   <path d="M 400 140 L 400 250" stroke="#7f8c8d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- From digital infrastructure to company -->
+
   <path d="M 400 440 L 400 350" stroke="#16a085" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
       <polygon points="0 0, 8 3, 0 6" fill="#2c3e50"/>
     </marker>
   </defs>
   
-  <!-- Flow labels -->
+
   <text x="255" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d" transform="rotate(-35 255 200)">
     Skatterapporter
   </text>
@@ -133,7 +133,7 @@
     Tilsynsrapporter
   </text>
   
-  <!-- Key requirements box -->
+
   <rect x="50" y="200" width="200" height="120" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2" rx="8"/>
   <text x="150" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
     HOVEDKRAV
@@ -154,7 +154,7 @@
     • Elektronisk rapportering
   </text>
   
-  <!-- Timeline box -->
+
   <rect x="550" y="200" width="200" height="120" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2" rx="8"/>
   <text x="650" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
     FRISTER
@@ -175,7 +175,7 @@
     • Revisjonsberetning: 6 mnd
   </text>
   
-  <!-- Bottom note -->
+
   <text x="400" y="570" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
     Integrert økosystem sikrer transparent og effektiv finansiell rapportering
   </text>

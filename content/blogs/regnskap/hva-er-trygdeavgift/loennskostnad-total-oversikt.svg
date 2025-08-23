@@ -1,16 +1,16 @@
 <svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8fafc"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e293b">
     Total Lønnskostnad - Samlet Oversikt
   </text>
   
-  <!-- Main flow diagram -->
+
   <rect x="50" y="80" width="700" height="480" rx="10" fill="#f1f5f9" stroke="#94a3b8" stroke-width="2"/>
   
-  <!-- Gross salary at top -->
+
   <rect x="300" y="110" width="200" height="50" rx="5" fill="#dbeafe" stroke="#3b82f6" stroke-width="2"/>
   <text x="400" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e40af">
     Brutto månedslønn
@@ -19,8 +19,8 @@
     50.000 kr
   </text>
   
-  <!-- Split into employer costs and employee deductions -->
-  <!-- Left side: Employer additional costs -->
+
+
   <rect x="80" y="200" width="280" height="200" rx="8" fill="#fee2e2" stroke="#ef4444"/>
   <text x="220" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#dc2626">
     Tilleggskostnader Arbeidsgiver
@@ -42,7 +42,7 @@
   <text x="120" y="380" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Total kostnad arbeidsgiver:</text>
   <text x="320" y="380" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">58.550 kr</text>
   
-  <!-- Right side: Employee deductions -->
+
   <rect x="440" y="200" width="280" height="200" rx="8" fill="#dcfce7" stroke="#22c55e"/>
   <text x="580" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#166534">
     Trekk fra Ansatt
@@ -64,7 +64,7 @@
   <text x="480" y="380" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Netto til ansatt:</text>
   <text x="680" y="380" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">31.300 kr</text>
   
-  <!-- Summary section -->
+
   <rect x="100" y="440" width="600" height="100" rx="8" fill="#fef3c7" stroke="#f59e0b" stroke-width="2"/>
   <text x="400" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#92400e">
     Sammendrag
@@ -80,14 +80,14 @@
     • Total trygdeavgift til staten: 12.750 kr/måned (153.000 kr/år)
   </text>
   
-  <!-- Arrows -->
+
   <polygon points="390,180 410,180 400,195" fill="#64748b"/>
   <line x1="220" y1="180" x2="220" y2="195" stroke="#64748b" stroke-width="2"/>
   <polygon points="215,195 225,195 220,205" fill="#64748b"/>
   <line x1="580" y1="180" x2="580" y2="195" stroke="#64748b" stroke-width="2"/>
   <polygon points="575,195 585,195 580,205" fill="#64748b"/>
   
-  <!-- Central flow -->
+
   <line x1="400" y1="180" x2="400" y2="435" stroke="#64748b" stroke-width="2" stroke-dasharray="5,5"/>
   <polygon points="395,435 405,435 400,445" fill="#64748b"/>
 </svg>

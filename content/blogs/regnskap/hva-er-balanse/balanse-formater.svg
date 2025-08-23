@@ -11,16 +11,16 @@
     .passiva-header { fill: #fff2e6; stroke: #ff8c00; stroke-width: 1; }
   </style>
   
-  <!-- Title -->
+
   <text x="400" y="30" class="title-text" text-anchor="middle">Balanse Presentasjonsformater</text>
   
-  <!-- Horizontal Format -->
+
   <text x="200" y="70" class="format-title" text-anchor="middle">Horisontal Format</text>
   
-  <!-- Horizontal balance table -->
+
   <rect x="50" y="90" width="300" height="180" class="horizontal-bg"/>
   
-  <!-- Aktiva side -->
+
   <rect x="50" y="90" width="150" height="25" class="aktiva-header"/>
   <text x="125" y="107" class="section-text" text-anchor="middle">AKTIVA</text>
   
@@ -32,7 +32,7 @@
   <text x="60" y="165" class="section-text">Sum Aktiva</text>
   <text x="140" y="165" class="amount-text">3.000.000</text>
   
-  <!-- Passiva side -->
+
   <rect x="200" y="90" width="150" height="25" class="passiva-header"/>
   <text x="275" y="107" class="section-text" text-anchor="middle">PASSIVA</text>
   
@@ -44,16 +44,16 @@
   <text x="210" y="165" class="section-text">Sum Passiva</text>
   <text x="290" y="165" class="amount-text">3.000.000</text>
   
-  <!-- Vertical line separator -->
+
   <line x1="200" y1="90" x2="200" y2="270" stroke="#2d3748" stroke-width="2"/>
   
-  <!-- Vertical Format -->
+
   <text x="600" y="70" class="format-title" text-anchor="middle">Vertikal Format</text>
   
-  <!-- Vertical balance table -->
+
   <rect x="450" y="90" width="300" height="300" class="vertical-bg"/>
   
-  <!-- Aktiva section -->
+
   <rect x="450" y="90" width="300" height="25" class="aktiva-header"/>
   <text x="600" y="107" class="section-text" text-anchor="middle">AKTIVA</text>
   
@@ -81,7 +81,7 @@
   <text x="460" y="295" class="section-text">SUM AKTIVA</text>
   <text x="680" y="295" class="amount-text">3.000.000</text>
   
-  <!-- Passiva section -->
+
   <rect x="450" y="310" width="300" height="25" class="passiva-header"/>
   <text x="600" y="327" class="section-text" text-anchor="middle">PASSIVA</text>
   
@@ -95,13 +95,13 @@
   <text x="460" y="395" class="section-text">SUM PASSIVA</text>
   <text x="680" y="395" class="amount-text">3.000.000</text>
   
-  <!-- Arrows and explanations -->
+
   <text x="200" y="300" class="item-text" text-anchor="middle">Side ved side</text>
   <text x="200" y="315" class="item-text" text-anchor="middle">presentasjon</text>
   
   <text x="600" y="430" class="item-text" text-anchor="middle">Vertikal</text>
   <text x="600" y="445" class="item-text" text-anchor="middle">presentasjon</text>
   
-  <!-- Note -->
+
   <text x="400" y="480" class="item-text" text-anchor="middle">Begge formater viser samme informasjon - valg avhenger av preferanse og plassforhold</text>
 </svg>

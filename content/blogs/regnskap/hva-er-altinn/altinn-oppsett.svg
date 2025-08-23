@@ -1,48 +1,48 @@
 <svg width="700" height="350" xmlns="http://www.w3.org/2000/svg">
   <title>Altinn Oppsettsprosess</title>
   
-  <!-- Background -->
+
   <rect width="700" height="350" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="350" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#2c3e50">Altinn Oppsettsprosess</text>
   
-  <!-- Step 1: Registrering -->
+
   <rect x="50" y="80" width="100" height="80" rx="8" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
   <text x="100" y="105" text-anchor="middle" font-size="12" font-weight="bold" fill="white">1. Registrering</text>
   <text x="100" y="125" text-anchor="middle" font-size="9" fill="white">Opprett bruker</text>
   <text x="100" y="137" text-anchor="middle" font-size="9" fill="white">med gyldig e-ID</text>
   <text x="100" y="149" text-anchor="middle" font-size="9" fill="white">(BankID/Buypass)</text>
   
-  <!-- Step 2: Profilutfylling -->
+
   <rect x="180" y="80" width="100" height="80" rx="8" fill="#3498db" stroke="#2980b9" stroke-width="2"/>
   <text x="230" y="105" text-anchor="middle" font-size="12" font-weight="bold" fill="white">2. Profil-</text>
   <text x="230" y="120" text-anchor="middle" font-size="12" font-weight="bold" fill="white">utfylling</text>
   <text x="230" y="137" text-anchor="middle" font-size="9" fill="white">Kontaktinfo</text>
   <text x="230" y="149" text-anchor="middle" font-size="9" fill="white">og adresser</text>
   
-  <!-- Step 3: Autorisasjoner -->
+
   <rect x="310" y="80" width="100" height="80" rx="8" fill="#27ae60" stroke="#229954" stroke-width="2"/>
   <text x="360" y="105" text-anchor="middle" font-size="12" font-weight="bold" fill="white">3. Autorisasjoner</text>
   <text x="360" y="125" text-anchor="middle" font-size="9" fill="white">Sett opp tilganger</text>
   <text x="360" y="137" text-anchor="middle" font-size="9" fill="white">og fullmakter</text>
   <text x="360" y="149" text-anchor="middle" font-size="9" fill="white">for ansatte</text>
   
-  <!-- Step 4: Tjenesteoppsett -->
+
   <rect x="440" y="80" width="100" height="80" rx="8" fill="#9b59b6" stroke="#8e44ad" stroke-width="2"/>
   <text x="490" y="105" text-anchor="middle" font-size="12" font-weight="bold" fill="white">4. Tjeneste-</text>
   <text x="490" y="120" text-anchor="middle" font-size="12" font-weight="bold" fill="white">oppsett</text>
   <text x="490" y="137" text-anchor="middle" font-size="9" fill="white">Aktiver tjenester</text>
   <text x="490" y="149" text-anchor="middle" font-size="9" fill="white">og varsler</text>
   
-  <!-- Step 5: Testing -->
+
   <rect x="570" y="80" width="100" height="80" rx="8" fill="#f39c12" stroke="#e67e22" stroke-width="2"/>
   <text x="620" y="105" text-anchor="middle" font-size="12" font-weight="bold" fill="white">5. Testing</text>
   <text x="620" y="125" text-anchor="middle" font-size="9" fill="white">Gjennomfør</text>
   <text x="620" y="137" text-anchor="middle" font-size="9" fill="white">testrapportering</text>
   <text x="620" y="149" text-anchor="middle" font-size="9" fill="white">for verifisering</text>
   
-  <!-- Process flow arrows -->
+
   <defs>
     <marker id="arrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>
@@ -54,10 +54,10 @@
   <line x1="410" y1="120" x2="440" y2="120" stroke="#34495e" stroke-width="3" marker-end="url(#arrow)"/>
   <line x1="540" y1="120" x2="570" y2="120" stroke="#34495e" stroke-width="3" marker-end="url(#arrow)"/>
   
-  <!-- Timeline -->
+
   <text x="350" y="200" text-anchor="middle" font-size="14" font-weight="bold" fill="#2c3e50">Estimert tidsbruk: 30-60 minutter</text>
   
-  <!-- Best practices -->
+
   <rect x="100" y="230" width="500" height="80" rx="8" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
   <text x="350" y="250" text-anchor="middle" font-size="12" font-weight="bold" fill="#2c3e50">Best Practices</text>
   <text x="120" y="270" font-size="10" fill="#2c3e50">• Hold kontaktinformasjon oppdatert</text>
@@ -68,6 +68,6 @@
   <text x="400" y="285" font-size="10" fill="#2c3e50">• Ta backup av viktige data</text>
   <text x="400" y="300" font-size="10" fill="#2c3e50">• Opplær alle relevante ansatte</text>
   
-  <!-- Success indicator -->
+
   <text x="350" y="335" text-anchor="middle" font-size="11" font-weight="bold" fill="#27ae60">✓ Klar for effektiv bruk av Altinn!</text>
 </svg>

@@ -22,15 +22,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="700" height="400" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="350" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c3e50">
     GTIN Formater og Anvendelse
   </text>
   
-  <!-- GTIN-8 Section -->
+
   <g transform="translate(50, 60)">
     <rect x="0" y="0" width="280" height="70" fill="url(#gtin8Gradient)" stroke="#c0392b" stroke-width="2" rx="5"/>
     <text x="140" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
@@ -44,7 +44,7 @@
     </text>
   </g>
   
-  <!-- GTIN-12 Section -->
+
   <g transform="translate(370, 60)">
     <rect x="0" y="0" width="280" height="70" fill="url(#gtin12Gradient)" stroke="#e67e22" stroke-width="2" rx="5"/>
     <text x="140" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
@@ -58,7 +58,7 @@
     </text>
   </g>
   
-  <!-- GTIN-13 Section -->
+
   <g transform="translate(50, 150)">
     <rect x="0" y="0" width="280" height="70" fill="url(#gtin13Gradient)" stroke="#229954" stroke-width="2" rx="5"/>
     <text x="140" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
@@ -72,7 +72,7 @@
     </text>
   </g>
   
-  <!-- GTIN-14 Section -->
+
   <g transform="translate(370, 150)">
     <rect x="0" y="0" width="280" height="70" fill="url(#gtin14Gradient)" stroke="#8e44ad" stroke-width="2" rx="5"/>
     <text x="140" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
@@ -86,13 +86,13 @@
     </text>
   </g>
   
-  <!-- Usage Examples Section -->
+
   <g transform="translate(50, 250)">
     <text x="300" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
       Praktiske Anvendelser
     </text>
     
-    <!-- GTIN-8 Usage -->
+
     <g transform="translate(0, 30)">
       <circle cx="10" cy="10" r="8" fill="#e74c3c"/>
       <text x="25" y="15" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
@@ -100,7 +100,7 @@
       </text>
     </g>
     
-    <!-- GTIN-12 Usage -->
+
     <g transform="translate(0, 55)">
       <circle cx="10" cy="10" r="8" fill="#f39c12"/>
       <text x="25" y="15" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
@@ -108,7 +108,7 @@
       </text>
     </g>
     
-    <!-- GTIN-13 Usage -->
+
     <g transform="translate(0, 80)">
       <circle cx="10" cy="10" r="8" fill="#27ae60"/>
       <text x="25" y="15" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
@@ -116,7 +116,7 @@
       </text>
     </g>
     
-    <!-- GTIN-14 Usage -->
+
     <g transform="translate(0, 105)">
       <circle cx="10" cy="10" r="8" fill="#9b59b6"/>
       <text x="25" y="15" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
@@ -125,55 +125,55 @@
     </g>
   </g>
   
-  <!-- Visual Comparison -->
+
   <g transform="translate(400, 280)">
     <text x="100" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
       Størrelsessammenligning
     </text>
     
-    <!-- GTIN-8 bar -->
+
     <rect x="0" y="15" width="60" height="8" fill="#e74c3c" rx="2"/>
     <text x="65" y="22" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">GTIN-8</text>
     
-    <!-- GTIN-12 bar -->
+
     <rect x="0" y="30" width="90" height="8" fill="#f39c12" rx="2"/>
     <text x="95" y="37" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">GTIN-12</text>
     
-    <!-- GTIN-13 bar -->
+
     <rect x="0" y="45" width="100" height="8" fill="#27ae60" rx="2"/>
     <text x="105" y="52" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">GTIN-13</text>
     
-    <!-- GTIN-14 bar -->
+
     <rect x="0" y="60" width="110" height="8" fill="#9b59b6" rx="2"/>
     <text x="115" y="67" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">GTIN-14</text>
   </g>
   
-  <!-- Regional Distribution -->
+
   <g transform="translate(50, 350)">
     <text x="300" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
       Regional Fordeling
     </text>
     
     <g transform="translate(0, 15)">
-      <!-- Europe -->
+
       <rect x="0" y="0" width="120" height="20" fill="#27ae60" opacity="0.7" rx="3"/>
       <text x="60" y="13" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
         Europa: GTIN-13
       </text>
       
-      <!-- North America -->
+
       <rect x="130" y="0" width="120" height="20" fill="#f39c12" opacity="0.7" rx="3"/>
       <text x="190" y="13" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
         N-Amerika: GTIN-12
       </text>
       
-      <!-- Small Products -->
+
       <rect x="260" y="0" width="120" height="20" fill="#e74c3c" opacity="0.7" rx="3"/>
       <text x="320" y="13" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
         Små prod.: GTIN-8
       </text>
       
-      <!-- Logistics -->
+
       <rect x="390" y="0" width="120" height="20" fill="#9b59b6" opacity="0.7" rx="3"/>
       <text x="450" y="13" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
         Logistikk: GTIN-14

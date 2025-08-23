@@ -18,26 +18,26 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
   <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
     Beste Praksis for Differansehåndtering
   </text>
   
-  <!-- Main Content Area -->
+
   <g transform="translate(50, 80)">
     
-    <!-- Organizational Measures Section -->
+
     <g transform="translate(0, 0)">
       <rect x="0" y="0" width="220" height="160" rx="10" fill="url(#organizationalGradient)" opacity="0.9"/>
       <text x="110" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
         Organisatoriske Tiltak
       </text>
       
-      <!-- Organization icon -->
+
       <g transform="translate(85, 35)">
         <circle cx="25" cy="15" r="8" fill="white" opacity="0.8"/>
         <circle cx="10" cy="35" r="6" fill="white" opacity="0.8"/>
@@ -51,7 +51,7 @@
         </text>
       </g>
       
-      <!-- Organizational practices -->
+
       <g transform="translate(15, 85)">
         <circle cx="8" cy="8" r="4" fill="white"/>
         <text x="20" y="12" font-family="Arial, sans-serif" font-size="11" fill="white">
@@ -70,14 +70,14 @@
       </g>
     </g>
     
-    <!-- Technical Measures Section -->
+
     <g transform="translate(240, 0)">
       <rect x="0" y="0" width="220" height="160" rx="10" fill="url(#technicalGradient)" opacity="0.9"/>
       <text x="110" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
         Tekniske Tiltak
       </text>
       
-      <!-- Technical icon -->
+
       <g transform="translate(85, 35)">
         <rect x="10" y="10" width="30" height="20" rx="3" fill="white" opacity="0.8"/>
         <rect x="15" y="15" width="20" height="2" fill="url(#technicalGradient)"/>
@@ -90,7 +90,7 @@
         </text>
       </g>
       
-      <!-- Technical practices -->
+
       <g transform="translate(15, 85)">
         <circle cx="8" cy="8" r="4" fill="white"/>
         <text x="20" y="12" font-family="Arial, sans-serif" font-size="11" fill="white">
@@ -109,14 +109,14 @@
       </g>
     </g>
     
-    <!-- Communication Section -->
+
     <g transform="translate(480, 0)">
       <rect x="0" y="0" width="220" height="160" rx="10" fill="url(#communicationGradient)" opacity="0.9"/>
       <text x="110" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
         Kommunikasjon
       </text>
       
-      <!-- Communication icon -->
+
       <g transform="translate(85, 35)">
         <circle cx="20" cy="20" r="15" fill="white" opacity="0.3"/>
         <circle cx="30" cy="25" r="12" fill="white" opacity="0.5"/>
@@ -127,7 +127,7 @@
         </text>
       </g>
       
-      <!-- Communication practices -->
+
       <g transform="translate(15, 85)">
         <circle cx="8" cy="8" r="4" fill="white"/>
         <text x="20" y="12" font-family="Arial, sans-serif" font-size="11" fill="white">
@@ -146,14 +146,14 @@
       </g>
     </g>
     
-    <!-- Best Practice Framework -->
+
     <g transform="translate(0, 180)">
       <rect x="0" y="0" width="700" height="200" rx="10" fill="#6c757d" opacity="0.9"/>
       <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
         Rammeverk for Beste Praksis
       </text>
       
-      <!-- Plan -->
+
       <g transform="translate(50, 50)">
         <rect x="0" y="0" width="120" height="120" rx="5" fill="white" opacity="0.1"/>
         <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -174,11 +174,11 @@
         </text>
       </g>
       
-      <!-- Arrow 1 -->
+
       <path d="M 180 110 L 205 110" stroke="white" stroke-width="2" fill="none"/>
       <polygon points="200,105 210,110 200,115" fill="white"/>
       
-      <!-- Do -->
+
       <g transform="translate(220, 50)">
         <rect x="0" y="0" width="120" height="120" rx="5" fill="white" opacity="0.1"/>
         <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -199,11 +199,11 @@
         </text>
       </g>
       
-      <!-- Arrow 2 -->
+
       <path d="M 350 110 L 375 110" stroke="white" stroke-width="2" fill="none"/>
       <polygon points="370,105 380,110 370,115" fill="white"/>
       
-      <!-- Check -->
+
       <g transform="translate(390, 50)">
         <rect x="0" y="0" width="120" height="120" rx="5" fill="white" opacity="0.1"/>
         <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -224,11 +224,11 @@
         </text>
       </g>
       
-      <!-- Arrow 3 -->
+
       <path d="M 520 110 L 545 110" stroke="white" stroke-width="2" fill="none"/>
       <polygon points="540,105 550,110 540,115" fill="white"/>
       
-      <!-- Act -->
+
       <g transform="translate(560, 50)">
         <rect x="0" y="0" width="120" height="120" rx="5" fill="white" opacity="0.1"/>
         <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
@@ -249,14 +249,14 @@
         </text>
       </g>
       
-      <!-- Feedback arrow -->
+
       <path d="M 620 180 Q 350 200 80 180" stroke="white" stroke-width="2" fill="none" stroke-dasharray="5,5"/>
       <polygon points="85,175 75,180 85,185" fill="white"/>
     </g>
     
   </g>
   
-  <!-- Success Factors -->
+
   <g transform="translate(50, 400)">
     <rect x="0" y="0" width="700" height="150" rx="10" fill="#e9ecef" stroke="#6c757d" stroke-width="2"/>
     <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#495057">
@@ -264,7 +264,7 @@
     </text>
     
     <g transform="translate(50, 40)">
-      <!-- Leadership -->
+
       <g transform="translate(0, 0)">
         <rect x="0" y="0" width="150" height="80" rx="5" fill="white" stroke="#6c757d"/>
         <text x="75" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
@@ -281,7 +281,7 @@
         </text>
       </g>
       
-      <!-- Culture -->
+
       <g transform="translate(175, 0)">
         <rect x="0" y="0" width="150" height="80" rx="5" fill="white" stroke="#6c757d"/>
         <text x="75" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
@@ -298,7 +298,7 @@
         </text>
       </g>
       
-      <!-- Competence -->
+
       <g transform="translate(350, 0)">
         <rect x="0" y="0" width="150" height="80" rx="5" fill="white" stroke="#6c757d"/>
         <text x="75" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
@@ -315,7 +315,7 @@
         </text>
       </g>
       
-      <!-- Technology -->
+
       <g transform="translate(525, 0)">
         <rect x="0" y="0" width="150" height="80" rx="5" fill="white" stroke="#6c757d"/>
         <text x="75" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">

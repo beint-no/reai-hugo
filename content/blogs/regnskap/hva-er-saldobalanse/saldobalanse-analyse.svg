@@ -6,18 +6,18 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8fafc"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" fill="#1e293b" font-family="Arial, sans-serif" font-size="24" font-weight="bold">Analytisk Bruk av Saldobalanse</text>
   
-  <!-- Central balance icon -->
+
   <circle cx="400" cy="150" r="50" fill="white" stroke="#7c3aed" stroke-width="3"/>
   <text x="400" y="160" text-anchor="middle" fill="#7c3aed" font-family="Arial, sans-serif" font-size="20" font-weight="bold">SALDO</text>
   <text x="400" y="175" text-anchor="middle" fill="#7c3aed" font-family="Arial, sans-serif" font-size="12">BALANSE</text>
   
-  <!-- Financial Analysis -->
+
   <rect x="80" y="230" width="200" height="140" fill="white" stroke="#059669" stroke-width="2" rx="8"/>
   <rect x="80" y="230" width="200" height="30" fill="#059669" rx="8 8 0 0"/>
   <text x="180" y="250" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Finansiell Analyse</text>
@@ -30,7 +30,7 @@
   <text x="90" y="340" fill="#dc2626" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Soliditet:</text>
   <text x="100" y="355" fill="#374151" font-family="Arial, sans-serif" font-size="10">• Egenkapitalandel</text>
   
-  <!-- Operational Analysis -->
+
   <rect x="300" y="230" width="200" height="140" fill="white" stroke="#f59e0b" stroke-width="2" rx="8"/>
   <rect x="300" y="230" width="200" height="30" fill="#f59e0b" rx="8 8 0 0"/>
   <text x="400" y="250" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Operasjonell Analyse</text>
@@ -43,7 +43,7 @@
   <text x="310" y="340" fill="#7c3aed" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Trendanalyse:</text>
   <text x="320" y="355" fill="#374151" font-family="Arial, sans-serif" font-size="10">• Månedlige endringer</text>
   
-  <!-- Strategic Planning -->
+
   <rect x="520" y="230" width="200" height="140" fill="white" stroke="#dc2626" stroke-width="2" rx="8"/>
   <rect x="520" y="230" width="200" height="30" fill="#dc2626" rx="8 8 0 0"/>
   <text x="620" y="250" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Strategisk Planlegging</text>
@@ -56,17 +56,17 @@
   <text x="530" y="340" fill="#6366f1" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Risikostyring:</text>
   <text x="540" y="355" fill="#374151" font-family="Arial, sans-serif" font-size="10">• Konsentrasjonsrisiko</text>
   
-  <!-- Connection lines -->
+
   <path d="M 350 150 Q 300 190 280 230" stroke="#7c3aed" stroke-width="2" fill="none"/>
   <path d="M 400 200 L 400 230" stroke="#7c3aed" stroke-width="2" fill="none"/>
   <path d="M 450 150 Q 500 190 520 230" stroke="#7c3aed" stroke-width="2" fill="none"/>
   
-  <!-- Key ratios table -->
+
   <rect x="100" y="400" width="600" height="160" fill="white" stroke="#cbd5e1" stroke-width="2" rx="8"/>
   <rect x="100" y="400" width="600" height="30" fill="url(#analysisGrad)" rx="8 8 0 0"/>
   <text x="400" y="420" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Viktige Nøkkeltall fra Saldobalanse</text>
   
-  <!-- Table headers -->
+
   <line x1="100" y1="430" x2="700" y2="430" stroke="#e5e7eb" stroke-width="1"/>
   <line x1="250" y1="430" x2="250" y2="560" stroke="#e5e7eb" stroke-width="1"/>
   <line x1="450" y1="430" x2="450" y2="560" stroke="#e5e7eb" stroke-width="1"/>
@@ -75,7 +75,7 @@
   <text x="350" y="450" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Formel</text>
   <text x="575" y="450" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Hva det viser</text>
   
-  <!-- Table rows -->
+
   <line x1="100" y1="465" x2="700" y2="465" stroke="#e5e7eb" stroke-width="1"/>
   <line x1="100" y1="490" x2="700" y2="490" stroke="#e5e7eb" stroke-width="1"/>
   <line x1="100" y1="515" x2="700" y2="515" stroke="#e5e7eb" stroke-width="1"/>
@@ -97,7 +97,7 @@
   <text x="260" y="555" fill="#374151" font-family="Arial, sans-serif" font-size="10">Sum gjeld / Sum aktiva</text>
   <text x="460" y="555" fill="#374151" font-family="Arial, sans-serif" font-size="10">Grad av gjeldsfinansiering</text>
   
-  <!-- Bottom insight -->
+
   <rect x="150" y="580" width="500" height="15" fill="#ecfdf5" stroke="#16a34a" stroke-width="1" rx="3"/>
   <text x="400" y="592" text-anchor="middle" fill="#15803d" font-family="Arial, sans-serif" font-size="11" font-weight="bold">💡 Saldobalansen gir grunnlag for alle finansielle analyser og strategiske beslutninger</text>
 </svg>

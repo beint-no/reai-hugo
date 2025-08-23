@@ -1,13 +1,13 @@
 <svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#2c3e50">
     Prosess for Måling og Oppfølging av Avkastning
   </text>
   
-  <!-- Step 1: Benchmarking -->
+
   <rect x="50" y="80" width="200" height="180" fill="#3498db" opacity="0.1" stroke="#3498db" stroke-width="3" rx="15"/>
   <circle cx="150" cy="120" r="25" fill="#3498db"/>
   <text x="150" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
@@ -34,7 +34,7 @@
     • Relevante sektorindekser
   </text>
   
-  <!-- Step 2: Risk-adjusted returns -->
+
   <rect x="300" y="80" width="200" height="180" fill="#27ae60" opacity="0.1" stroke="#27ae60" stroke-width="3" rx="15"/>
   <circle cx="400" cy="120" r="25" fill="#27ae60"/>
   <text x="400" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
@@ -61,7 +61,7 @@
     • Volatilitet/standardavvik
   </text>
   
-  <!-- Step 3: Regular evaluation -->
+
   <rect x="550" y="80" width="200" height="180" fill="#e74c3c" opacity="0.1" stroke="#e74c3c" stroke-width="3" rx="15"/>
   <circle cx="650" cy="120" r="25" fill="#e74c3c"/>
   <text x="650" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
@@ -88,26 +88,26 @@
     • Ved behov: Justeringer
   </text>
   
-  <!-- Arrows between steps -->
+
   <path d="M 250 170 L 290 170" stroke="#34495e" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 500 170 L 540 170" stroke="#34495e" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>
     </marker>
   </defs>
   
-  <!-- Performance tracking dashboard -->
+
   <rect x="100" y="300" width="600" height="220" fill="white" stroke="#34495e" stroke-width="2" rx="15"/>
   <text x="400" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">
     Avkastnings-Dashboard
   </text>
   
-  <!-- Performance metrics -->
+
   <g transform="translate(130, 350)">
-    <!-- YTD Return -->
+
     <rect x="0" y="0" width="120" height="60" fill="#3498db" opacity="0.8" rx="5"/>
     <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
       YTD Avkastning
@@ -119,7 +119,7 @@
       vs. OSEBX: +8.2%
     </text>
     
-    <!-- 1-Year Return -->
+
     <rect x="140" y="0" width="120" height="60" fill="#27ae60" opacity="0.8" rx="5"/>
     <text x="200" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
       1-År Avkastning
@@ -131,7 +131,7 @@
       Sharpe: 1.2
     </text>
     
-    <!-- 3-Year Return -->
+
     <rect x="280" y="0" width="120" height="60" fill="#f39c12" opacity="0.8" rx="5"/>
     <text x="340" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
       3-År Avkastning
@@ -143,7 +143,7 @@
       (årlig snitt)
     </text>
     
-    <!-- Volatility -->
+
     <rect x="420" y="0" width="120" height="60" fill="#9b59b6" opacity="0.8" rx="5"/>
     <text x="480" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
       Volatilitet
@@ -156,7 +156,7 @@
     </text>
   </g>
   
-  <!-- Action items -->
+
   <g transform="translate(130, 430)">
     <text x="270" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
       Handlingsplan basert på Evaluering
@@ -173,7 +173,7 @@
     </text>
   </g>
   
-  <!-- Bottom note -->
+
   <rect x="50" y="540" width="700" height="40" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1" rx="5"/>
   <text x="400" y="560" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
     Systematisk oppfølging av avkastning er nøkkelen til langsiktig investeringssuksess

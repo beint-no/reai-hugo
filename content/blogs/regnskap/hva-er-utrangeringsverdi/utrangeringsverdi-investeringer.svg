@@ -14,15 +14,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGrad)"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
     Utrangeringsverdi og Investeringsbeslutninger
   </text>
   
-  <!-- Investment Impact -->
+
   <g transform="translate(50, 70)">
     <rect x="0" y="0" width="340" height="200" fill="url(#investGrad)" rx="15"/>
     <text x="170" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
@@ -31,7 +31,7 @@
     
     <rect x="20" y="45" width="300" height="140" fill="white" rx="8"/>
     
-    <!-- Investment icon -->
+
     <polygon points="30,60 50,60 50,100 30,100" fill="#007bff"/>
     <polygon points="32,95 48,95 40,105" fill="#007bff"/>
     <text x="40" y="82" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">$</text>
@@ -60,7 +60,7 @@
     </text>
   </g>
   
-  <!-- NPV Calculation -->
+
   <g transform="translate(410, 70)">
     <rect x="0" y="0" width="340" height="200" fill="url(#npvGrad)" rx="15"/>
     <text x="170" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
@@ -101,14 +101,14 @@
     </text>
   </g>
   
-  <!-- Lease vs Buy Analysis -->
+
   <g transform="translate(50, 300)">
     <rect x="0" y="0" width="700" height="220" fill="white" stroke="#6f42c1" stroke-width="3" rx="15"/>
     <text x="350" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#6f42c1">
       Leasing vs. Kjøp Analyse
     </text>
     
-    <!-- Buy option -->
+
     <g transform="translate(50, 50)">
       <rect x="0" y="0" width="280" height="140" fill="#e7f3ff" stroke="#007bff" rx="10"/>
       <text x="140" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#007bff">
@@ -149,7 +149,7 @@
       </text>
     </g>
     
-    <!-- Lease option -->
+
     <g transform="translate(370, 50)">
       <rect x="0" y="0" width="280" height="140" fill="#f8d7da" stroke="#dc3545" rx="10"/>
       <text x="140" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#dc3545">
@@ -190,13 +190,13 @@
       </text>
     </g>
     
-    <!-- Conclusion -->
+
     <text x="350" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#6f42c1">
       Konklusjon: Høy utrangeringsverdi (120.000 kr) gjør kjøp 125.000 kr billigere enn leasing
     </text>
   </g>
   
-  <!-- Decision factors -->
+
   <g transform="translate(50, 540)">
     <rect x="0" y="0" width="700" height="45" fill="#17a2b8" rx="10"/>
     <text x="350" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">

@@ -32,7 +32,7 @@
     </filter>
   </defs>
   
-  <!-- Background with gradient -->
+
   <defs>
     <radialGradient id="bgGrad" cx="50%" cy="50%" r="70%">
       <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
@@ -41,7 +41,7 @@
   </defs>
   <rect width="850" height="600" fill="url(#bgGrad)"/>
   
-  <!-- Title -->
+
   <text x="425" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#2c3e50">
     Fremtidens Landbruksdataflyt
   </text>
@@ -49,7 +49,7 @@
     Emerging Technologies &amp; Innovation
   </text>
   
-  <!-- Central Future Hub -->
+
   <circle cx="425" cy="200" r="70" fill="url(#futureGrad)" stroke="#8e44ad" stroke-width="4" filter="url(#glow)"/>
   <text x="425" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     FREMTIDENS
@@ -61,7 +61,7 @@
     2030-2040
   </text>
   
-  <!-- AI & Machine Learning -->
+
   <rect x="100" y="80" width="160" height="100" rx="15" fill="url(#aiGrad)" stroke="#2980b9" stroke-width="3" filter="url(#futureShadow)"/>
   <text x="180" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     AI &amp; MASKINLÆRING
@@ -79,7 +79,7 @@
     • Optimalisering
   </text>
   
-  <!-- Blockchain & Trust -->
+
   <rect x="590" y="80" width="160" height="100" rx="15" fill="url(#blockchainGrad)" stroke="#c0392b" stroke-width="3" filter="url(#futureShadow)"/>
   <text x="670" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     BLOCKCHAIN
@@ -97,7 +97,7 @@
     • Transparent handel
   </text>
   
-  <!-- Sustainability & Circular Economy -->
+
   <rect x="100" y="320" width="160" height="100" rx="15" fill="url(#sustainGrad)" stroke="#229954" stroke-width="3" filter="url(#futureShadow)"/>
   <text x="180" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     BÆREKRAFT
@@ -115,7 +115,7 @@
     • Regenerativt landbruk
   </text>
   
-  <!-- Quantum Computing -->
+
   <rect x="590" y="320" width="160" height="100" rx="15" fill="url(#quantumGrad)" stroke="#e67e22" stroke-width="3" filter="url(#futureShadow)"/>
   <text x="670" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     QUANTUM COMPUTING
@@ -133,14 +133,14 @@
     • Genetisk analyse
   </text>
   
-  <!-- Connection lines with animation -->
+
   <defs>
     <marker id="futureArrow" markerWidth="12" markerHeight="8" refX="11" refY="4" orient="auto">
       <polygon points="0 0, 12 4, 0 8" fill="#9b59b6" />
     </marker>
   </defs>
   
-  <!-- Animated connection lines -->
+
   <line x1="260" y1="130" x2="355" y2="170" stroke="#9b59b6" stroke-width="3" marker-end="url(#futureArrow)" opacity="0.7">
     <animate attributeName="stroke-dasharray" values="0,300;150,150;300,0" dur="4s" repeatCount="indefinite"/>
   </line>
@@ -154,46 +154,46 @@
     <animate attributeName="stroke-dasharray" values="0,300;150,150;300,0" dur="4s" begin="3s" repeatCount="indefinite"/>
   </line>
   
-  <!-- Innovation Timeline -->
+
   <rect x="50" y="460" width="750" height="120" rx="10" fill="white" stroke="#bdc3c7" stroke-width="2" filter="url(#futureShadow)"/>
   <text x="425" y="485" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
     INNOVASJONSTIDSLINJE
   </text>
   
-  <!-- Timeline -->
+
   <line x1="100" y1="520" x2="750" y2="520" stroke="#34495e" stroke-width="3"/>
   
-  <!-- Timeline markers -->
+
   <g transform="translate(100, 520)">
-    <!-- 2025 -->
+
     <circle cx="0" cy="0" r="8" fill="#3498db"/>
     <text x="0" y="5" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="white">25</text>
     <text x="0" y="-15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#2c3e50">2025</text>
     <text x="0" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#7f8c8d">5G &amp; IoT</text>
     <text x="0" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#7f8c8d">Edge Computing</text>
     
-    <!-- 2030 -->
+
     <circle cx="162" cy="0" r="8" fill="#27ae60"/>
     <text x="162" y="5" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="white">30</text>
     <text x="162" y="-15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#2c3e50">2030</text>
     <text x="162" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#7f8c8d">AI Autonomi</text>
     <text x="162" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#7f8c8d">Blockchain</text>
     
-    <!-- 2035 -->
+
     <circle cx="325" cy="0" r="8" fill="#f39c12"/>
     <text x="325" y="5" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="white">35</text>
     <text x="325" y="-15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#2c3e50">2035</text>
     <text x="325" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#7f8c8d">Quantum</text>
     <text x="325" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#7f8c8d">Robotikk</text>
     
-    <!-- 2040 -->
+
     <circle cx="487" cy="0" r="8" fill="#e74c3c"/>
     <text x="487" y="5" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="white">40</text>
     <text x="487" y="-15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#2c3e50">2040</text>
     <text x="487" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#7f8c8d">Fullt autonomt</text>
     <text x="487" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#7f8c8d">Sirkulært</text>
     
-    <!-- 2050+ -->
+
     <circle cx="650" cy="0" r="8" fill="#9b59b6"/>
     <text x="650" y="5" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="white">50</text>
     <text x="650" y="-15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#2c3e50">2050+</text>
@@ -201,7 +201,7 @@
     <text x="650" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#7f8c8d">Karbon-negativt</text>
   </g>
   
-  <!-- Key innovations -->
+
   <g transform="translate(320, 250)">
     <ellipse cx="0" cy="0" rx="100" ry="30" fill="rgba(155, 89, 182, 0.1)" stroke="#9b59b6" stroke-width="2" stroke-dasharray="5,5"/>
     <text x="0" y="-8" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#9b59b6">
@@ -212,7 +212,7 @@
     </text>
   </g>
   
-  <!-- Data flow particles -->
+
   <circle cx="200" cy="150" r="3" fill="#3498db">
     <animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/>
     <animateTransform attributeName="transform" type="translate" values="0,0; 50,20; 100,0" dur="3s" repeatCount="indefinite"/>

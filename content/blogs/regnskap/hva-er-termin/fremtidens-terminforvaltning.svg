@@ -1,28 +1,28 @@
 <svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8fafb"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e293b">
     Fremtidens Terminforvaltning
   </text>
   
-  <!-- Cloud Computing (Real-time) -->
+
   <g transform="translate(50, 80)">
-    <!-- Cloud shape -->
+
     <ellipse cx="80" cy="60" rx="50" ry="25" fill="#3b82f6" opacity="0.1"/>
     <ellipse cx="60" cy="70" rx="40" ry="20" fill="#3b82f6" opacity="0.1"/>
     <ellipse cx="100" cy="70" rx="35" ry="18" fill="#3b82f6" opacity="0.1"/>
     <ellipse cx="80" cy="80" rx="60" ry="15" fill="#3b82f6" opacity="0.1"/>
     
-    <!-- Cloud icon -->
+
     <path d="M60 65 Q50 55 60 45 Q70 40 80 45 Q90 40 100 45 Q110 55 100 65 Z" fill="#3b82f6" opacity="0.6"/>
     
     <text x="80" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">
       Real-time Regnskapsføring
     </text>
     
-    <!-- Sub-elements -->
+
     <text x="80" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">
       • Cloud-baserte systemer
     </text>
@@ -34,18 +34,18 @@
     </text>
   </g>
   
-  <!-- AI & Automation -->
+
   <g transform="translate(250, 80)">
-    <!-- AI Brain -->
+
     <circle cx="80" cy="60" r="40" fill="#8b5cf6" opacity="0.1"/>
     <path d="M50 60 Q60 40 80 45 Q100 40 110 60 Q100 80 80 75 Q60 80 50 60" fill="#8b5cf6" opacity="0.6"/>
     
-    <!-- Neural network lines -->
+
     <line x1="65" y1="50" x2="95" y2="50" stroke="#8b5cf6" stroke-width="2"/>
     <line x1="65" y1="60" x2="95" y2="60" stroke="#8b5cf6" stroke-width="2"/>
     <line x1="65" y1="70" x2="95" y2="70" stroke="#8b5cf6" stroke-width="2"/>
     
-    <!-- Nodes -->
+
     <circle cx="65" cy="50" r="3" fill="#8b5cf6"/>
     <circle cx="80" cy="50" r="3" fill="#8b5cf6"/>
     <circle cx="95" cy="50" r="3" fill="#8b5cf6"/>
@@ -70,16 +70,16 @@
     </text>
   </g>
   
-  <!-- ESG & Sustainability -->
+
   <g transform="translate(450, 80)">
-    <!-- Earth/Sustainability icon -->
+
     <circle cx="80" cy="60" r="35" fill="#10b981" opacity="0.1"/>
     <circle cx="80" cy="60" r="30" fill="#10b981" opacity="0.2"/>
     
-    <!-- Continents -->
+
     <path d="M65 50 Q70 45 80 50 Q85 45 90 50 Q95 55 90 65 Q85 70 80 65 Q75 70 70 65 Q65 60 65 50" fill="#10b981" opacity="0.6"/>
     
-    <!-- Leaf -->
+
     <path d="M85 40 Q90 35 95 40 Q90 45 85 40" fill="#10b981"/>
     
     <text x="80" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">
@@ -97,9 +97,9 @@
     </text>
   </g>
   
-  <!-- Blockchain -->
+
   <g transform="translate(650, 80)">
-    <!-- Blockchain blocks -->
+
     <rect x="55" y="45" width="20" height="15" fill="#f59e0b" opacity="0.6" rx="2"/>
     <rect x="75" y="45" width="20" height="15" fill="#f59e0b" opacity="0.6" rx="2"/>
     <rect x="95" y="45" width="20" height="15" fill="#f59e0b" opacity="0.6" rx="2"/>
@@ -108,7 +108,7 @@
     <rect x="75" y="65" width="20" height="15" fill="#f59e0b" opacity="0.6" rx="2"/>
     <rect x="95" y="65" width="20" height="15" fill="#f59e0b" opacity="0.6" rx="2"/>
     
-    <!-- Connecting lines -->
+
     <line x1="75" y1="52" x2="75" y2="52" stroke="#f59e0b" stroke-width="2"/>
     <line x1="95" y1="52" x2="95" y2="52" stroke="#f59e0b" stroke-width="2"/>
     <line x1="65" y1="60" x2="65" y2="65" stroke="#f59e0b" stroke-width="2"/>
@@ -130,7 +130,7 @@
     </text>
   </g>
   
-  <!-- Central Integration Hub -->
+
   <g transform="translate(350, 250)">
     <circle cx="50" cy="50" r="45" fill="#4f46e5" opacity="0.1"/>
     <circle cx="50" cy="50" r="30" fill="#4f46e5" opacity="0.2"/>
@@ -147,7 +147,7 @@
     </text>
   </g>
   
-  <!-- Connecting lines from technologies to central hub -->
+
   <g stroke="#94a3b8" stroke-width="2" opacity="0.6">
     <line x1="200" y1="140" x2="350" y2="280"/>
     <line x1="400" y1="140" x2="380" y2="280"/>
@@ -155,13 +155,13 @@
     <line x1="750" y1="140" x2="450" y2="280"/>
   </g>
   
-  <!-- Benefits Section -->
+
   <g transform="translate(50, 380)">
     <text x="0" y="0" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">
       Implementeringsgevinster:
     </text>
     
-    <!-- Benefits list -->
+
     <g transform="translate(0, 25)">
       <rect x="0" y="0" width="700" height="150" fill="#f1f5f9" rx="8"/>
       
@@ -194,20 +194,20 @@
     </g>
   </g>
   
-  <!-- Data Flow Arrows -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#6b7280"/>
     </marker>
   </defs>
   
-  <!-- Arrows showing data flow -->
+
   <path d="M 130 200 Q 200 220 280 240" stroke="#6b7280" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 330 200 Q 360 220 380 240" stroke="#6b7280" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 530 200 Q 480 220 450 240" stroke="#6b7280" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 730 200 Q 600 220 520 240" stroke="#6b7280" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Timeline at bottom -->
+
   <g transform="translate(50, 560)">
     <line x1="0" y1="0" x2="700" y2="0" stroke="#94a3b8" stroke-width="2"/>
     <text x="0" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">
@@ -220,7 +220,7 @@
       Fremtid
     </text>
     
-    <!-- Timeline markers -->
+
     <circle cx="0" cy="0" r="4" fill="#94a3b8"/>
     <circle cx="350" cy="0" r="4" fill="#4f46e5"/>
     <circle cx="700" cy="0" r="4" fill="#10b981"/>

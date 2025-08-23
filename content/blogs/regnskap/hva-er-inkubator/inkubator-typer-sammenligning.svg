@@ -1,19 +1,19 @@
 <svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8fafc"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e293b">
     Sammenligning av Inkubatortyper
   </text>
   
-  <!-- Public Incubators Section -->
+
   <rect x="50" y="80" width="300" height="450" fill="#dbeafe" stroke="#3b82f6" stroke-width="2" rx="10"/>
   <text x="200" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1e40af">
     Offentlige Inkubatorer
   </text>
   
-  <!-- Public incubator icon -->
+
   <rect x="150" y="130" width="100" height="60" fill="#3b82f6" rx="5"/>
   <text x="200" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     OFFENTLIG
@@ -22,7 +22,7 @@
     INKUBATOR
   </text>
   
-  <!-- Public characteristics -->
+
   <text x="70" y="220" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e40af">
     Karakteristikker:
   </text>
@@ -68,13 +68,13 @@
     • EU-midler
   </text>
   
-  <!-- Private Incubators Section -->
+
   <rect x="450" y="80" width="300" height="450" fill="#fef3c7" stroke="#f59e0b" stroke-width="2" rx="10"/>
   <text x="600" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#d97706">
     Private Inkubatorer
   </text>
   
-  <!-- Private incubator icon -->
+
   <rect x="550" y="130" width="100" height="60" fill="#f59e0b" rx="5"/>
   <text x="600" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     PRIVAT
@@ -83,7 +83,7 @@
     INKUBATOR
   </text>
   
-  <!-- Private characteristics -->
+
   <text x="470" y="220" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#d97706">
     Karakteristikker:
   </text>
@@ -129,17 +129,17 @@
     • Private investorer
   </text>
   
-  <!-- Comparison arrows -->
+
   <path d="M 350 300 L 450 300" stroke="#6b7280" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 450 320 L 350 320" stroke="#6b7280" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- VS label -->
+
   <circle cx="400" cy="310" r="25" fill="#ef4444"/>
   <text x="400" y="318" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     VS
   </text>
   
-  <!-- Key differences table -->
+
   <rect x="100" y="550" width="600" height="40" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1"/>
   <text x="120" y="570" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">
     Hovedforskjeller: Offentlige fokuserer på samfunnsnytte og langsiktig utvikling,
@@ -148,7 +148,7 @@
     mens private søker rask avkastning og kommersiell suksess.
   </text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#6b7280"/>

@@ -1,13 +1,13 @@
 <svg width="1000" height="800" viewBox="0 0 1000 800" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="1000" height="800" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="500" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">Digitale Tilbudssystemer og Integrasjoner</text>
   
-  <!-- System architecture -->
+
   <g>
-    <!-- CRM System -->
+
     <rect x="50" y="80" width="180" height="120" fill="#3498db" stroke="#2980b9" stroke-width="2" rx="10"/>
     <text x="140" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">CRM SYSTEM</text>
     <text x="140" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Customer Relationship</text>
@@ -17,7 +17,7 @@
     <text x="70" y="180" font-family="Arial, sans-serif" font-size="10" fill="white">• Pipeline-håndtering</text>
     <text x="70" y="195" font-family="Arial, sans-serif" font-size="10" fill="white">• Oppfølging</text>
     
-    <!-- CPQ System -->
+
     <rect x="260" y="80" width="180" height="120" fill="#e74c3c" stroke="#c0392b" stroke-width="2" rx="10"/>
     <text x="350" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">CPQ SYSTEM</text>
     <text x="350" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Configure, Price, Quote</text>
@@ -26,7 +26,7 @@
     <text x="280" y="170" font-family="Arial, sans-serif" font-size="10" fill="white">• Automatisk prissetting</text>
     <text x="280" y="185" font-family="Arial, sans-serif" font-size="10" fill="white">• Tilbudsgenerering</text>
     
-    <!-- ERP System -->
+
     <rect x="470" y="80" width="180" height="120" fill="#27ae60" stroke="#229954" stroke-width="2" rx="10"/>
     <text x="560" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">ERP SYSTEM</text>
     <text x="560" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Enterprise Resource</text>
@@ -36,7 +36,7 @@
     <text x="490" y="180" font-family="Arial, sans-serif" font-size="10" fill="white">• Prosjektstyring</text>
     <text x="490" y="195" font-family="Arial, sans-serif" font-size="10" fill="white">• Ressursplanlegging</text>
     
-    <!-- DMS System -->
+
     <rect x="680" y="80" width="180" height="120" fill="#f39c12" stroke="#e67e22" stroke-width="2" rx="10"/>
     <text x="770" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">DMS SYSTEM</text>
     <text x="770" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Document Management</text>
@@ -47,31 +47,31 @@
     <text x="700" y="195" font-family="Arial, sans-serif" font-size="10" fill="white">• Digital signering</text>
   </g>
   
-  <!-- Integration arrows -->
+
   <g>
-    <!-- CRM to CPQ -->
+
     <path d="M 230 140 L 260 140" stroke="#34495e" stroke-width="3" marker-end="url(#arrowhead)"/>
     <text x="245" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Kunddata</text>
     
-    <!-- CPQ to ERP -->
+
     <path d="M 440 140 L 470 140" stroke="#34495e" stroke-width="3" marker-end="url(#arrowhead)"/>
     <text x="455" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Kontrakter</text>
     
-    <!-- ERP to DMS -->
+
     <path d="M 650 140 L 680 140" stroke="#34495e" stroke-width="3" marker-end="url(#arrowhead)"/>
     <text x="665" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Dokumenter</text>
     
-    <!-- Bidirectional arrows -->
+
     <path d="M 260 160 L 230 160" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
     <path d="M 470 160 L 440 160" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
     <path d="M 680 160 L 650 160" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
   </g>
   
-  <!-- Workflow automation -->
+
   <text x="50" y="250" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">Automatiserte Arbeidsflyter</text>
   
   <g>
-    <!-- Workflow steps -->
+
     <rect x="50" y="270" width="150" height="80" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2" rx="5"/>
     <text x="125" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">1. FORESPØRSEL</text>
     <text x="125" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Automatisk registrering</text>
@@ -103,17 +103,17 @@
     <text x="725" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Sporingslink</text>
   </g>
   
-  <!-- System comparison table -->
+
   <text x="50" y="390" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">Systemsammenligning</text>
   
-  <!-- Table header -->
+
   <rect x="50" y="410" width="900" height="30" fill="#34495e"/>
   <text x="70" y="430" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">System</text>
   <text x="200" y="430" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Hovedfunksjon</text>
   <text x="400" y="430" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Integrasjoner</text>
   <text x="650" y="430" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Fordeler</text>
   
-  <!-- Table rows -->
+
   <rect x="50" y="440" width="900" height="30" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
   <text x="70" y="460" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">CRM</text>
   <text x="200" y="460" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">Kundestyring</text>
@@ -138,11 +138,11 @@
   <text x="400" y="550" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">CRM, ERP</text>
   <text x="650" y="550" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">Databaserte beslutninger</text>
   
-  <!-- Benefits of digital systems -->
+
   <text x="50" y="590" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">Fordeler med Digitale Tilbudssystemer</text>
   
   <g>
-    <!-- Efficiency -->
+
     <rect x="50" y="610" width="200" height="100" fill="#d5f4e6" stroke="#27ae60" stroke-width="2" rx="5"/>
     <text x="150" y="635" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">EFFEKTIVITET</text>
     <text x="70" y="655" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• 60% raskere tilbudsprosess</text>
@@ -150,7 +150,7 @@
     <text x="70" y="685" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Standardiserte maler</text>
     <text x="70" y="700" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Automatiserte workflows</text>
     
-    <!-- Accuracy -->
+
     <rect x="270" y="610" width="200" height="100" fill="#fdeaa7" stroke="#fdcb6e" stroke-width="2" rx="5"/>
     <text x="370" y="635" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">NØYAKTIGHET</text>
     <text x="290" y="655" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Konsistente prisberegninger</text>
@@ -158,7 +158,7 @@
     <text x="290" y="685" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Validering av data</text>
     <text x="290" y="700" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Kvaltitetssikring</text>
     
-    <!-- Transparency -->
+
     <rect x="490" y="610" width="200" height="100" fill="#dff9fb" stroke="#00a8ff" stroke-width="2" rx="5"/>
     <text x="590" y="635" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">TRANSPARENS</text>
     <text x="510" y="655" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Fullstendig sporbarhet</text>
@@ -166,7 +166,7 @@
     <text x="510" y="685" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Rollebasert tilgang</text>
     <text x="510" y="700" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Rapportering</text>
     
-    <!-- Scalability -->
+
     <rect x="710" y="610" width="200" height="100" fill="#f8d7da" stroke="#e74c3c" stroke-width="2" rx="5"/>
     <text x="810" y="635" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">SKALERBARHET</text>
     <text x="730" y="655" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Håndterer store volumer</text>
@@ -175,7 +175,7 @@
     <text x="730" y="700" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">• Global tilgjengelighet</text>
   </g>
   
-  <!-- Implementation roadmap -->
+
   <text x="50" y="740" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">Implementeringsveiledning</text>
   
   <g>
@@ -192,7 +192,7 @@
     <text x="415" y="790" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Etabler dokumenthåndtering og digital signering</text>
   </g>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>

@@ -13,23 +13,23 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bg)"/>
   
-  <!-- Title -->
+
   <rect x="50" y="20" width="700" height="50" fill="url(#headerGrad)" rx="8" filter="url(#shadow)"/>
   <text x="400" y="50" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="20" font-weight="bold">
     Internasjonal Yield-Analyse og Valutaeffekter
   </text>
   
-  <!-- World Map Regions -->
+
   <g>
-    <!-- Developed Markets -->
+
     <rect x="50" y="90" width="220" height="140" fill="#10b981" stroke="#047857" stroke-width="2" rx="8" filter="url(#shadow)"/>
     <text x="160" y="115" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">DEVELOPED MARKETS</text>
     <text x="160" y="135" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">USA, Europa, Japan</text>
     
-    <!-- Characteristics -->
+
     <circle cx="70" cy="155" r="3" fill="#bbf7d0"/>
     <text x="80" y="160" fill="white" font-family="Arial, sans-serif" font-size="10">Lavere yields (2-4%)</text>
     
@@ -42,18 +42,18 @@
     <circle cx="70" cy="215" r="3" fill="#bbf7d0"/>
     <text x="80" y="220" fill="white" font-family="Arial, sans-serif" font-size="10">Høy likviditet</text>
     
-    <!-- Yield indicator -->
+
     <rect x="190" y="190" width="60" height="20" fill="#bbf7d0" stroke="#10b981" stroke-width="1" rx="4"/>
     <text x="220" y="205" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="12" font-weight="bold">2-4%</text>
   </g>
   
-  <!-- Emerging Markets -->
+
   <g>
     <rect x="290" y="90" width="220" height="140" fill="#f59e0b" stroke="#d97706" stroke-width="2" rx="8" filter="url(#shadow)"/>
     <text x="400" y="115" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">EMERGING MARKETS</text>
     <text x="400" y="135" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">Kina, India, Brasil</text>
     
-    <!-- Characteristics -->
+
     <circle cx="310" cy="155" r="3" fill="#fde68a"/>
     <text x="320" y="160" fill="white" font-family="Arial, sans-serif" font-size="10">Moderate yields (4-8%)</text>
     
@@ -66,18 +66,18 @@
     <circle cx="310" cy="215" r="3" fill="#fde68a"/>
     <text x="320" y="220" fill="white" font-family="Arial, sans-serif" font-size="10">Voksende likviditet</text>
     
-    <!-- Yield indicator -->
+
     <rect x="430" y="190" width="60" height="20" fill="#fde68a" stroke="#f59e0b" stroke-width="1" rx="4"/>
     <text x="460" y="205" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="12" font-weight="bold">4-8%</text>
   </g>
   
-  <!-- Frontier Markets -->
+
   <g>
     <rect x="530" y="90" width="220" height="140" fill="#dc2626" stroke="#b91c1c" stroke-width="2" rx="8" filter="url(#shadow)"/>
     <text x="640" y="115" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">FRONTIER MARKETS</text>
     <text x="640" y="135" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">Afrika, Øst-Europa</text>
     
-    <!-- Characteristics -->
+
     <circle cx="550" cy="155" r="3" fill="#fca5a5"/>
     <text x="560" y="160" fill="white" font-family="Arial, sans-serif" font-size="10">Høye yields (8-15%)</text>
     
@@ -90,65 +90,65 @@
     <circle cx="550" cy="215" r="3" fill="#fca5a5"/>
     <text x="560" y="220" fill="white" font-family="Arial, sans-serif" font-size="10">Lav likviditet</text>
     
-    <!-- Yield indicator -->
+
     <rect x="670" y="190" width="60" height="20" fill="#fca5a5" stroke="#dc2626" stroke-width="1" rx="4"/>
     <text x="700" y="205" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="12" font-weight="bold">8-15%</text>
   </g>
   
-  <!-- Currency Impact Analysis -->
+
   <g>
     <rect x="50" y="250" width="700" height="100" fill="white" stroke="#d1d5db" stroke-width="2" rx="8" filter="url(#shadow)"/>
     <text x="400" y="275" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Valutaeffekter på Yield</text>
     
-    <!-- Nominal Yield -->
+
     <rect x="80" y="290" width="150" height="40" fill="#3b82f6" stroke="#1e40af" stroke-width="1" rx="4"/>
     <text x="155" y="305" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Nominell Yield</text>
     <text x="155" y="320" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">I lokal valuta</text>
     
-    <!-- Arrow -->
+
     <path d="M 230 310 L 270 310" stroke="#374151" stroke-width="2" marker-end="url(#arrowhead)"/>
     
-    <!-- Currency Adjusted -->
+
     <rect x="290" y="290" width="150" height="40" fill="#f59e0b" stroke="#d97706" stroke-width="1" rx="4"/>
     <text x="365" y="305" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Valutajustert</text>
     <text x="365" y="320" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">Etter kursendringer</text>
     
-    <!-- Arrow -->
+
     <path d="M 440 310 L 480 310" stroke="#374151" stroke-width="2" marker-end="url(#arrowhead)"/>
     
-    <!-- Hedged Yield -->
+
     <rect x="500" y="290" width="150" height="40" fill="#7c3aed" stroke="#6d28d9" stroke-width="1" rx="4"/>
     <text x="575" y="305" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Hedget Yield</text>
     <text x="575" y="320" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">Etter valutasikring</text>
   </g>
   
-  <!-- Cross-Currency Analysis -->
+
   <g>
     <rect x="50" y="370" width="340" height="120" fill="white" stroke="#d1d5db" stroke-width="2" rx="8" filter="url(#shadow)"/>
     <text x="220" y="390" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Cross-Currency Yield Analysis</text>
     
-    <!-- Inflation -->
+
     <rect x="70" y="405" width="120" height="25" fill="#dc2626" stroke="#b91c1c" stroke-width="1" rx="4"/>
     <text x="130" y="422" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Inflasjonsdifferanser</text>
     <text x="70" y="440" fill="#374151" font-family="Arial, sans-serif" font-size="9">Real vs. nominell yield</text>
     
-    <!-- Interest Rate -->
+
     <rect x="210" y="405" width="120" height="25" fill="#f59e0b" stroke="#d97706" stroke-width="1" rx="4"/>
     <text x="270" y="422" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Rentedifferanser</text>
     <text x="210" y="440" fill="#374151" font-family="Arial, sans-serif" font-size="9">Carry trade-muligheter</text>
     
-    <!-- Political Risk -->
+
     <rect x="140" y="455" width="120" height="25" fill="#7c3aed" stroke="#6d28d9" stroke-width="1" rx="4"/>
     <text x="200" y="472" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Politisk Risiko</text>
     <text x="140" y="490" fill="#374151" font-family="Arial, sans-serif" font-size="9">Landspesifikk risikopremie</text>
   </g>
   
-  <!-- Global Yield Hunting -->
+
   <g>
     <rect x="410" y="370" width="340" height="120" fill="white" stroke="#d1d5db" stroke-width="2" rx="8" filter="url(#shadow)"/>
     <text x="580" y="390" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Global Yield Hunting</text>
     
-    <!-- Strategy steps -->
+
     <circle cx="440" cy="415" r="8" fill="#10b981"/>
     <text x="460" y="420" fill="#374151" font-family="Arial, sans-serif" font-size="11">1. Identifiser høyavkastende markeder</text>
     
@@ -162,12 +162,12 @@
     <text x="460" y="480" fill="#374151" font-family="Arial, sans-serif" font-size="11">4. Diversifiser på tvers av regioner</text>
   </g>
   
-  <!-- Yield Comparison Table -->
+
   <g>
     <rect x="50" y="510" width="700" height="70" fill="white" stroke="#d1d5db" stroke-width="2" rx="8" filter="url(#shadow)"/>
     <text x="400" y="530" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Eksempel: 10-års Statsobligasjon Yields (2024)</text>
     
-    <!-- Country yields -->
+
     <rect x="80" y="540" width="80" height="25" fill="#10b981" stroke="#047857" stroke-width="1" rx="4"/>
     <text x="120" y="557" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Norge: 2.8%</text>
     
@@ -187,7 +187,7 @@
     <text x="620" y="557" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Argentina: 60%</text>
   </g>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#374151"/>

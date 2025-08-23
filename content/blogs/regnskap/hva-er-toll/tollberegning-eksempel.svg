@@ -1,70 +1,70 @@
 <svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">Tollberegning - Praktisk Eksempel</text>
   
-  <!-- Main container -->
+
   <rect x="50" y="60" width="700" height="520" fill="white" stroke="#dee2e6" stroke-width="2" rx="10"/>
   
-  <!-- Step 1: Varepris -->
+
   <rect x="80" y="90" width="300" height="60" fill="#28a745" stroke="#1e7e34" stroke-width="2" rx="8"/>
   <text x="230" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Varepris (FOB)</text>
   <text x="230" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">100 000 NOK</text>
   
-  <!-- Step 2: Frakt -->
+
   <rect x="420" y="90" width="140" height="60" fill="#0d6efd" stroke="#0339a8" stroke-width="2" rx="8"/>
   <text x="490" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Frakt</text>
   <text x="490" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">5 000 NOK</text>
   
-  <!-- Step 3: Forsikring -->
+
   <rect x="580" y="90" width="140" height="60" fill="#dc3545" stroke="#b02a37" stroke-width="2" rx="8"/>
   <text x="650" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Forsikring</text>
   <text x="650" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">1 000 NOK</text>
   
-  <!-- Plus signs -->
+
   <text x="390" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#495057">+</text>
   <text x="570" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#495057">+</text>
   
-  <!-- Line -->
+
   <line x1="80" y1="180" x2="720" y2="180" stroke="#6c757d" stroke-width="2"/>
   
-  <!-- CIF Total -->
+
   <rect x="250" y="200" width="300" height="60" fill="#6f42c1" stroke="#59359a" stroke-width="3" rx="8"/>
   <text x="400" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Tollverdi (CIF)</text>
   <text x="400" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">106 000 NOK</text>
   
-  <!-- Toll calculation -->
+
   <rect x="80" y="290" width="200" height="50" fill="#ffc107" stroke="#d39e00" stroke-width="2" rx="8"/>
   <text x="180" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#212529">Tollsats: 5%</text>
   <text x="180" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#212529">på 106 000 NOK</text>
   
-  <!-- Multiplication -->
+
   <text x="300" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#495057">×</text>
   
-  <!-- Toll result -->
+
   <rect x="320" y="290" width="200" height="50" fill="#fd7e14" stroke="#e8590c" stroke-width="2" rx="8"/>
   <text x="420" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Toll</text>
   <text x="420" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">5 300 NOK</text>
   
-  <!-- MVA base calculation -->
+
   <rect x="80" y="370" width="250" height="50" fill="#17a2b8" stroke="#138496" stroke-width="2" rx="8"/>
   <text x="205" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Import-MVA grunnlag:</text>
   <text x="205" y="410" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">106 000 + 5 300 = 111 300 NOK</text>
   
-  <!-- MVA calculation -->
+
   <rect x="350" y="370" width="200" height="50" fill="#20c997" stroke="#14a085" stroke-width="2" rx="8"/>
   <text x="450" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Import-MVA (25%)</text>
   <text x="450" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">27 825 NOK</text>
   
-  <!-- Final total -->
+
   <line x1="80" y1="450" x2="720" y2="450" stroke="#212529" stroke-width="3"/>
   
   <rect x="200" y="470" width="400" height="70" fill="#343a40" stroke="#212529" stroke-width="3" rx="8"/>
   <text x="400" y="495" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">TOTAL IMPORTKOSTNAD</text>
   <text x="400" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#28a745">139 125 NOK</text>
   
-  <!-- Breakdown -->
+
   <g transform="translate(80, 560)">
     <text x="0" y="0" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">Varepris: 100 000 + Frakt: 5 000 + Forsikring: 1 000 + Toll: 5 300 + MVA: 27 825 = 139 125 NOK</text>
   </g>

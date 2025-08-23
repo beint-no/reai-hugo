@@ -10,10 +10,10 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="1000" height="700" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="500" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#333">
     IBAN Kontrollsiffer Beregning
   </text>
@@ -21,7 +21,7 @@
     Modulo 97 Algoritme (ISO/IEC 7064)
   </text>
   
-  <!-- Example IBAN -->
+
   <rect x="50" y="80" width="900" height="60" fill="white" stroke="#6f42c1" stroke-width="3" rx="10"/>
   <text x="500" y="105" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#666">
     Eksempel: Norsk IBAN
@@ -30,15 +30,15 @@
     NO93 8601 1117 947
   </text>
   
-  <!-- Step-by-step calculation -->
+
   <g transform="translate(50, 170)">
     
-    <!-- Step 1: Rearrange -->
+
     <rect x="0" y="0" width="900" height="80" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2" rx="8"/>
     <text x="20" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#6f42c1">Steg 1: Flytt de første 4 tegnene til slutten</text>
     
     <g transform="translate(20, 40)">
-      <!-- Original -->
+
       <text x="0" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">Original:</text>
       <rect x="80" y="5" width="40" height="25" fill="#ff6b6b" stroke="#e55353" stroke-width="1" rx="3"/>
       <text x="100" y="22" font-family="Courier, monospace" font-size="14" font-weight="bold" text-anchor="middle" fill="white">NO</text>
@@ -46,11 +46,11 @@
       <text x="145" y="22" font-family="Courier, monospace" font-size="14" font-weight="bold" text-anchor="middle" fill="white">93</text>
       <text x="175" y="22" font-family="Courier, monospace" font-size="14" fill="#333">8601 1117 947</text>
       
-      <!-- Arrow -->
+
       <polygon points="350,17 370,12 370,22" fill="#666"/>
       <line x1="350" y1="17" x2="370" y2="17" stroke="#666" stroke-width="2"/>
       
-      <!-- Rearranged -->
+
       <text x="380" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">Omorganisert:</text>
       <text x="480" y="22" font-family="Courier, monospace" font-size="14" fill="#333">8601 1117 947</text>
       <rect x="600" y="5" width="40" height="25" fill="#ff6b6b" stroke="#e55353" stroke-width="1" rx="3"/>
@@ -59,25 +59,25 @@
       <text x="665" y="22" font-family="Courier, monospace" font-size="14" font-weight="bold" text-anchor="middle" fill="white">93</text>
     </g>
     
-    <!-- Step 2: Replace letters -->
+
     <rect x="0" y="100" width="900" height="100" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2" rx="8"/>
     <text x="20" y="125" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#6f42c1">Steg 2: Erstatt bokstaver med tall</text>
     
     <g transform="translate(20, 140)">
-      <!-- Letter to number mapping -->
+
       <rect x="0" y="0" width="200" height="50" fill="#e9ecef" stroke="#adb5bd" stroke-width="1" rx="5"/>
       <text x="100" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#333">Bokstav til Tall</text>
       <text x="20" y="35" font-family="Arial, sans-serif" font-size="11" fill="#333">A=10, B=11, C=12, ...</text>
       <text x="20" y="47" font-family="Arial, sans-serif" font-size="11" fill="#333">N=23, O=24, P=25, ...</text>
       
-      <!-- Conversion -->
+
       <text x="220" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">8601 1117 947 NO 93</text>
       
-      <!-- Arrow -->
+
       <polygon points="400,20 420,15 420,25" fill="#666"/>
       <line x1="400" y1="20" x2="420" y2="20" stroke="#666" stroke-width="2"/>
       
-      <!-- Result -->
+
       <text x="440" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">8601 1117 947</text>
       <rect x="580" y="5" width="30" height="25" fill="#ff6b6b" stroke="#e55353" stroke-width="1" rx="3"/>
       <text x="595" y="22" font-family="Courier, monospace" font-size="12" font-weight="bold" text-anchor="middle" fill="white">23</text>
@@ -86,7 +86,7 @@
       <text x="655" y="20" font-family="Courier, monospace" font-size="14" fill="#333">93</text>
     </g>
     
-    <!-- Step 3: Create long number -->
+
     <rect x="0" y="220" width="900" height="80" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2" rx="8"/>
     <text x="20" y="245" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#6f42c1">Steg 3: Lag ett langt tall</text>
     
@@ -95,20 +95,20 @@
       <rect x="80" y="5" width="600" height="25" fill="#e9ecef" stroke="#adb5bd" stroke-width="1" rx="3"/>
       <text x="380" y="22" font-family="Courier, monospace" font-size="14" font-weight="bold" text-anchor="middle" fill="#333">86011117947232493</text>
       
-      <!-- Breakdown -->
+
       <text x="0" y="45" font-family="Arial, sans-serif" font-size="12" fill="#666">8601 1117 947 + 23 + 24 + 93 = 86011117947232493</text>
     </g>
     
-    <!-- Step 4: Modulo calculation -->
+
     <rect x="0" y="320" width="900" height="120" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2" rx="8"/>
     <text x="20" y="345" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#6f42c1">Steg 4: Beregn Modulo 97</text>
     
     <g transform="translate(20, 360)">
-      <!-- Calculation -->
+
       <text x="0" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">Beregning:</text>
       <text x="100" y="20" font-family="Courier, monospace" font-size="14" fill="#333">86011117947232493 ÷ 97 = </text>
       
-      <!-- Division result -->
+
       <rect x="350" y="5" width="200" height="25" fill="#fff3e0" stroke="#ff9800" stroke-width="1" rx="3"/>
       <text x="450" y="22" font-family="Courier, monospace" font-size="14" font-weight="bold" text-anchor="middle" fill="#f57c00">886701010280128</text>
       
@@ -116,11 +116,11 @@
       <rect x="600" y="5" width="40" height="25" fill="#28a745" stroke="#20c997" stroke-width="1" rx="3"/>
       <text x="620" y="22" font-family="Courier, monospace" font-size="14" font-weight="bold" text-anchor="middle" fill="white">1</text>
       
-      <!-- Verification -->
+
       <text x="0" y="50" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">Verifikasjon:</text>
       <text x="100" y="50" font-family="Courier, monospace" font-size="12" fill="#666">886701010280128 × 97 + 1 = 86011117947232493 ✓</text>
       
-      <!-- Result interpretation -->
+
       <text x="0" y="80" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">Resultat:</text>
       <text x="100" y="80" font-family="Arial, sans-serif" font-size="14" fill="#333">Rest = 1, derfor er IBAN</text>
       <rect x="300" y="65" width="80" height="25" fill="#28a745" stroke="#20c997" stroke-width="1" rx="3"/>
@@ -129,26 +129,26 @@
     
   </g>
   
-  <!-- Validation rules -->
+
   <g transform="translate(50, 620)">
     <text x="450" y="0" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#333">
       Valideringsregler
     </text>
     
     <g transform="translate(0, 20)">
-      <!-- Valid case -->
+
       <rect x="0" y="0" width="280" height="60" fill="#d4edda" stroke="#28a745" stroke-width="2" rx="8"/>
       <text x="140" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#155724">✓ GYLDIG IBAN</text>
       <text x="140" y="35" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#155724">Modulo 97 = 1</text>
       <text x="140" y="50" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#155724">Betalingen kan behandles</text>
       
-      <!-- Invalid case -->
+
       <rect x="300" y="0" width="280" height="60" fill="#f8d7da" stroke="#dc3545" stroke-width="2" rx="8"/>
       <text x="440" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#721c24">✗ UGYLDIG IBAN</text>
       <text x="440" y="35" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#721c24">Modulo 97 ≠ 1</text>
       <text x="440" y="50" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#721c24">Betalingen avvises</text>
       
-      <!-- Error prevention -->
+
       <rect x="600" y="0" width="280" height="60" fill="#d1ecf1" stroke="#17a2b8" stroke-width="2" rx="8"/>
       <text x="740" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0c5460">Feilforebygging</text>
       <text x="740" y="35" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#0c5460">99.97% nøyaktighet</text>
@@ -156,17 +156,17 @@
     </g>
   </g>
   
-  <!-- Mathematical note -->
+
   <rect x="50" y="50" width="200" height="25" fill="#6f42c1" rx="5"/>
   <text x="150" y="67" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">ISO/IEC 7064 Standard</text>
   
-  <!-- Calculator icon -->
+
   <g transform="translate(850, 50)">
     <rect x="0" y="0" width="60" height="80" fill="#6f42c1" stroke="#5a2d91" stroke-width="2" rx="8"/>
     <rect x="8" y="8" width="44" height="20" fill="white" rx="2"/>
     <text x="30" y="22" font-family="Courier, monospace" font-size="10" text-anchor="middle" fill="#333">97</text>
     
-    <!-- Buttons -->
+
     <rect x="10" y="35" width="12" height="8" fill="white" rx="1"/>
     <rect x="25" y="35" width="12" height="8" fill="white" rx="1"/>
     <rect x="40" y="35" width="12" height="8" fill="white" rx="1"/>

@@ -10,16 +10,16 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#dashboardBg)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="#343a40"/>
   <text x="400" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
     KPI Dashboard Oversikt
   </text>
   
-  <!-- Revenue Card -->
+
   <rect x="50" y="80" width="180" height="120" fill="url(#cardGradient)" stroke="#28a745" stroke-width="2" rx="8"/>
   <text x="140" y="105" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#28a745">
     OMSETNING
@@ -34,7 +34,7 @@
     ↗ +15.2%
   </text>
   
-  <!-- Profit Margin Card -->
+
   <rect x="260" y="80" width="180" height="120" fill="url(#cardGradient)" stroke="#007bff" stroke-width="2" rx="8"/>
   <text x="350" y="105" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#007bff">
     BRUTTOMARGIN
@@ -49,7 +49,7 @@
     ↗ +2.1%
   </text>
   
-  <!-- Customer Satisfaction Card -->
+
   <rect x="470" y="80" width="180" height="120" fill="url(#cardGradient)" stroke="#ffc107" stroke-width="2" rx="8"/>
   <text x="560" y="105" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#e0a800">
     KUNDETILFREDSHET
@@ -64,7 +64,7 @@
     → 0.0%
   </text>
   
-  <!-- Cash Flow Card -->
+
   <rect x="680" y="80" width="100" height="120" fill="url(#cardGradient)" stroke="#dc3545" stroke-width="2" rx="8"/>
   <text x="730" y="105" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#dc3545">
     KONTANTSTRØM
@@ -79,13 +79,13 @@
     ↓ -12%
   </text>
   
-  <!-- Chart Area -->
+
   <rect x="50" y="230" width="350" height="200" fill="white" stroke="#dee2e6" stroke-width="1" rx="5"/>
   <text x="225" y="250" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#495057">
     Omsetningsutvikling (12 måneder)
   </text>
   
-  <!-- Chart bars -->
+
   <rect x="70" y="350" width="20" height="60" fill="#28a745"/>
   <rect x="100" y="340" width="20" height="70" fill="#28a745"/>
   <rect x="130" y="330" width="20" height="80" fill="#28a745"/>
@@ -98,7 +98,7 @@
   <rect x="340" y="260" width="20" height="150" fill="#28a745"/>
   <rect x="370" y="275" width="20" height="135" fill="#ffc107"/>
   
-  <!-- Chart labels -->
+
   <text x="80" y="425" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6c757d">Jan</text>
   <text x="110" y="425" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6c757d">Feb</text>
   <text x="140" y="425" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6c757d">Mar</text>
@@ -111,13 +111,13 @@
   <text x="350" y="425" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6c757d">Okt</text>
   <text x="380" y="425" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6c757d">Nov</text>
   
-  <!-- KPI List -->
+
   <rect x="430" y="230" width="320" height="200" fill="white" stroke="#dee2e6" stroke-width="1" rx="5"/>
   <text x="590" y="250" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#495057">
     Viktige KPI-er
   </text>
   
-  <!-- KPI Items -->
+
   <circle cx="450" cy="275" r="5" fill="#28a745"/>
   <text x="470" y="280" font-family="Arial, sans-serif" font-size="12" fill="#495057">Egenkapitalrentabilitet: 18.5%</text>
   
@@ -139,7 +139,7 @@
   <circle cx="450" cy="395" r="5" fill="#fd7e14"/>
   <text x="470" y="400" font-family="Arial, sans-serif" font-size="12" fill="#495057">EBITDA-margin: 28.3%</text>
   
-  <!-- Footer -->
+
   <text x="400" y="470" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#6c757d">
     Dashboard gir sanntidsoversikt over bedriftens prestasjon og nøkkeltall
   </text>

@@ -1,17 +1,17 @@
 <svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Utfordringer og Fremtidige Trender
   </text>
   
-  <!-- Current challenges section -->
+
   <g transform="translate(50, 70)">
     <text x="0" y="0" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">Vanlige Utfordringer</text>
     
-    <!-- Time constraints -->
+
     <g transform="translate(0, 30)">
       <rect x="0" y="0" width="220" height="120" fill="#e74c3c" stroke="#c0392b" stroke-width="2" rx="10"/>
       <text x="110" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">TIDSMANGEL</text>
@@ -34,7 +34,7 @@
       </g>
     </g>
     
-    <!-- Complexity -->
+
     <g transform="translate(240, 30)">
       <rect x="0" y="0" width="220" height="120" fill="#f39c12" stroke="#e67e22" stroke-width="2" rx="10"/>
       <text x="110" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">KOMPLEKSITET</text>
@@ -57,7 +57,7 @@
       </g>
     </g>
     
-    <!-- Technology -->
+
     <g transform="translate(480, 30)">
       <rect x="0" y="0" width="220" height="120" fill="#9b59b6" stroke="#8e44ad" stroke-width="2" rx="10"/>
       <text x="110" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">TEKNOLOGI</text>
@@ -81,11 +81,11 @@
     </g>
   </g>
   
-  <!-- Future trends section -->
+
   <g transform="translate(50, 240)">
     <text x="0" y="0" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">Fremtidige Utviklingstrender</text>
     
-    <!-- AI and ML -->
+
     <g transform="translate(0, 30)">
       <rect x="0" y="0" width="320" height="140" fill="#3498db" stroke="#2980b9" stroke-width="2" rx="10"/>
       <text x="160" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">KUNSTIG INTELLIGENS</text>
@@ -112,7 +112,7 @@
       <text x="160" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">Behov for menneskelig vurdering</text>
     </g>
     
-    <!-- Data analytics -->
+
     <g transform="translate(380, 30)">
       <rect x="0" y="0" width="320" height="140" fill="#27ae60" stroke="#229954" stroke-width="2" rx="10"/>
       <text x="160" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">DATAANALYSE</text>
@@ -140,60 +140,60 @@
     </g>
   </g>
   
-  <!-- Technology evolution timeline -->
+
   <g transform="translate(100, 420)">
     <text x="300" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">Teknologisk Utvikling</text>
     
-    <!-- Timeline -->
+
     <g transform="translate(0, 25)">
-      <!-- Past -->
+
       <circle cx="50" cy="15" r="8" fill="#95a5a6" stroke="#7f8c8d" stroke-width="2"/>
       <text x="50" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">2020</text>
       <text x="50" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#34495e">Papir/Excel</text>
       
-      <!-- Arrow 1 -->
+
       <path d="M 65 15 L 135 15" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
       
-      <!-- Present -->
+
       <circle cx="150" cy="15" r="8" fill="#3498db" stroke="#2980b9" stroke-width="2"/>
       <text x="150" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">2024</text>
       <text x="150" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#34495e">Digital/Sky</text>
       
-      <!-- Arrow 2 -->
+
       <path d="M 165 15 L 235 15" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
       
-      <!-- Near future -->
+
       <circle cx="250" cy="15" r="8" fill="#f39c12" stroke="#e67e22" stroke-width="2"/>
       <text x="250" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">2027</text>
       <text x="250" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#34495e">AI/Automatisering</text>
       
-      <!-- Arrow 3 -->
+
       <path d="M 265 15 L 335 15" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
       
-      <!-- Future -->
+
       <circle cx="350" cy="15" r="8" fill="#27ae60" stroke="#229954" stroke-width="2"/>
       <text x="350" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">2030</text>
       <text x="350" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#34495e">Intelligent/Prediktiv</text>
       
-      <!-- Arrow 4 -->
+
       <path d="M 365 15 L 435 15" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
       
-      <!-- Far future -->
+
       <circle cx="450" cy="15" r="8" fill="#9b59b6" stroke="#8e44ad" stroke-width="2"/>
       <text x="450" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">2035</text>
       <text x="450" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#34495e">Autonom/Selvlærende</text>
       
-      <!-- Arrow 5 -->
+
       <path d="M 465 15 L 535 15" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
       
-      <!-- Vision -->
+
       <circle cx="550" cy="15" r="8" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
       <text x="550" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">?</text>
       <text x="550" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#34495e">Ukjent fremtid</text>
     </g>
   </g>
   
-  <!-- Key trends sidebar -->
+
   <g transform="translate(50, 50)">
     <text x="650" y="0" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">Nøkkeltrender:</text>
     <g transform="translate(650, 20)">
@@ -218,7 +218,7 @@
     </g>
   </g>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>

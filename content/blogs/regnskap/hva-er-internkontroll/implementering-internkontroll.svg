@@ -33,15 +33,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)" stroke="#cbd5e1" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#1e293b">
     Implementering av Internkontrollsystem
   </text>
   
-  <!-- Phase 1: Planning -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="220" height="80" fill="url(#phase1Gradient)" stroke="#1d4ed8" stroke-width="2" rx="10" filter="url(#shadow)"/>
     <circle cx="30" cy="25" r="15" fill="white"/>
@@ -56,10 +56,10 @@
     <text x="120" y="70" font-family="Arial, sans-serif" font-size="10" fill="white">• Tidsplan</text>
   </g>
   
-  <!-- Arrow 1 -->
+
   <path d="M270 120 L320 120" stroke="#64748b" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Phase 2: Assessment -->
+
   <g transform="translate(320, 80)">
     <rect x="0" y="0" width="220" height="80" fill="url(#phase2Gradient)" stroke="#059669" stroke-width="2" rx="10" filter="url(#shadow)"/>
     <circle cx="30" cy="25" r="15" fill="white"/>
@@ -74,10 +74,10 @@
     <text x="120" y="70" font-family="Arial, sans-serif" font-size="10" fill="white">• Nåsituasjon</text>
   </g>
   
-  <!-- Arrow 2 -->
+
   <path d="M540 120 L590 120" stroke="#64748b" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Phase 3: Design -->
+
   <g transform="translate(590, 80)">
     <rect x="0" y="0" width="160" height="80" fill="url(#phase3Gradient)" stroke="#d97706" stroke-width="2" rx="10" filter="url(#shadow)"/>
     <circle cx="30" cy="25" r="15" fill="white"/>
@@ -93,10 +93,10 @@
     <text x="20" y="72" font-family="Arial, sans-serif" font-size="9" fill="white">• Prosedyreutvikling</text>
   </g>
   
-  <!-- Arrow down -->
+
   <path d="M670 160 L670 200" stroke="#64748b" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Phase 4: Testing -->
+
   <g transform="translate(590, 200)">
     <rect x="0" y="0" width="160" height="80" fill="url(#phase4Gradient)" stroke="#b91c1c" stroke-width="2" rx="10" filter="url(#shadow)"/>
     <circle cx="30" cy="25" r="15" fill="white"/>
@@ -112,10 +112,10 @@
     <text x="20" y="72" font-family="Arial, sans-serif" font-size="9" fill="white">• Effektivitetstesting</text>
   </g>
   
-  <!-- Arrow left -->
+
   <path d="M590 240 L540 240" stroke="#64748b" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Phase 5: Implementation -->
+
   <g transform="translate(320, 200)">
     <rect x="0" y="0" width="220" height="80" fill="url(#phase5Gradient)" stroke="#6d28d9" stroke-width="2" rx="10" filter="url(#shadow)"/>
     <circle cx="30" cy="25" r="15" fill="white"/>
@@ -130,10 +130,10 @@
     <text x="120" y="70" font-family="Arial, sans-serif" font-size="10" fill="white">• Change management</text>
   </g>
   
-  <!-- Arrow left -->
+
   <path d="M320 240 L270 240" stroke="#64748b" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Phase 6: Monitoring -->
+
   <g transform="translate(50, 200)">
     <rect x="0" y="0" width="220" height="80" fill="url(#phase6Gradient)" stroke="#047857" stroke-width="2" rx="10" filter="url(#shadow)"/>
     <circle cx="30" cy="25" r="15" fill="white"/>
@@ -148,15 +148,15 @@
     <text x="120" y="70" font-family="Arial, sans-serif" font-size="10" fill="white">• Rapportering</text>
   </g>
   
-  <!-- Feedback arrow -->
+
   <path d="M160 200 L160 160" stroke="#64748b" stroke-width="2" stroke-dasharray="5,5" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Success factors section -->
+
   <text x="400" y="340" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="#1e293b">
     Kritiske Suksessfaktorer
   </text>
   
-  <!-- Success factor boxes -->
+
   <g transform="translate(50, 370)">
     <rect x="0" y="0" width="140" height="100" fill="white" stroke="#10b981" stroke-width="2" rx="5" filter="url(#shadow)"/>
     <rect x="0" y="0" width="140" height="25" fill="#10b981" rx="5"/>
@@ -209,7 +209,7 @@
     <text x="10" y="85" font-family="Arial, sans-serif" font-size="9" fill="#1e293b">✓ Rapporteringsverktøy</text>
   </g>
   
-  <!-- Common challenges section -->
+
   <text x="400" y="520" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#dc2626">
     Vanlige Utfordringer
   </text>
@@ -231,14 +231,14 @@
     • Balanse mellom kontroll og effektivitet
   </text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#64748b"/>
     </marker>
   </defs>
   
-  <!-- Bottom note -->
+
   <text x="400" y="590" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#64748b">
     Vellykket implementering krever systematisk tilnærming og kontinuerlig fokus
   </text>

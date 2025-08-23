@@ -18,15 +18,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Strategier for Profittoptimalisering
   </text>
   
-  <!-- Central profit improvement target -->
+
   <circle cx="400" cy="150" r="60" fill="url(#blueGrad)" stroke="#1565C0" stroke-width="3"/>
   <text x="400" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     PROFITT
@@ -38,7 +38,7 @@
     Mål: +30%
   </text>
   
-  <!-- Revenue strategies (Top left) -->
+
   <rect x="50" y="50" width="250" height="150" rx="15" fill="url(#greenGrad)" stroke="#4CAF50" stroke-width="2"/>
   <text x="175" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     INNTEKTSSTRATEGIER
@@ -47,7 +47,7 @@
     Øk verdiskaping
   </text>
   
-  <!-- Revenue tactics -->
+
   <rect x="70" y="110" width="210" height="20" rx="5" fill="#C8E6C9" stroke="#4CAF50" stroke-width="1"/>
   <text x="80" y="122" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#2E7D32">
     Premium Prising
@@ -72,7 +72,7 @@
     +12% volum
   </text>
   
-  <!-- Cost strategies (Top right) -->
+
   <rect x="500" y="50" width="250" height="150" rx="15" fill="url(#orangeGrad)" stroke="#FF9800" stroke-width="2"/>
   <text x="625" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     KOSTNADSSTRATEGIER
@@ -81,7 +81,7 @@
     Øk effektivitet
   </text>
   
-  <!-- Cost reduction tactics -->
+
   <rect x="520" y="110" width="210" height="20" rx="5" fill="#FFE0B2" stroke="#FF9800" stroke-width="1"/>
   <text x="530" y="122" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#E65100">
     Automatisering
@@ -106,7 +106,7 @@
     -15% overhead
   </text>
   
-  <!-- Process optimization (Bottom left) -->
+
   <rect x="50" y="220" width="250" height="150" rx="15" fill="url(#purpleGrad)" stroke="#9C27B0" stroke-width="2"/>
   <text x="175" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     PROSESSOPTIMALISERING
@@ -115,7 +115,7 @@
     Lean &amp; Effektivitet
   </text>
   
-  <!-- Process improvements -->
+
   <rect x="70" y="280" width="210" height="20" rx="5" fill="#E1BEE7" stroke="#9C27B0" stroke-width="1"/>
   <text x="80" y="292" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#7B1FA2">
     Lean Manufacturing
@@ -140,7 +140,7 @@
     -30% rework
   </text>
   
-  <!-- Market strategies (Bottom right) -->
+
   <rect x="500" y="220" width="250" height="150" rx="15" fill="url(#blueGrad)" stroke="#2196F3" stroke-width="2"/>
   <text x="625" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     MARKEDSSTRATEGIER
@@ -149,7 +149,7 @@
     Vekst &amp; Posisjonering
   </text>
   
-  <!-- Market tactics -->
+
   <rect x="520" y="280" width="210" height="20" rx="5" fill="#BBDEFB" stroke="#2196F3" stroke-width="1"/>
   <text x="530" y="292" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#1565C0">
     Nye Markeder
@@ -174,13 +174,13 @@
     +18% retention
   </text>
   
-  <!-- Arrows pointing to center -->
+
   <path d="M320 125 L360 140" stroke="#4CAF50" stroke-width="3" marker-end="url(#greenArrow)"/>
   <path d="M480 125 L440 140" stroke="#FF9800" stroke-width="3" marker-end="url(#orangeArrow)"/>
   <path d="M320 295 L360 160" stroke="#9C27B0" stroke-width="3" marker-end="url(#purpleArrow)"/>
   <path d="M480 295 L440 160" stroke="#2196F3" stroke-width="3" marker-end="url(#blueArrow)"/>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="greenArrow" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto" markerUnits="strokeWidth">
       <path d="M0,0 L0,6 L6,3 z" fill="#4CAF50"/>
@@ -196,16 +196,16 @@
     </marker>
   </defs>
   
-  <!-- Implementation roadmap -->
+
   <rect x="50" y="400" width="700" height="180" rx="15" fill="#f0f8ff" stroke="#4169E1" stroke-width="2"/>
   <text x="400" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#4169E1">
     Implementeringsplan for Profittforbedring
   </text>
   
-  <!-- Timeline -->
+
   <line x1="100" y1="450" x2="700" y2="450" stroke="#4169E1" stroke-width="3"/>
   
-  <!-- Phase 1 -->
+
   <circle cx="150" cy="450" r="8" fill="#4CAF50"/>
   <text x="150" y="435" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#2E7D32">
     Måned 1-3
@@ -224,7 +224,7 @@
     • Leverandør renegotiate
   </text>
   
-  <!-- Phase 2 -->
+
   <circle cx="300" cy="450" r="8" fill="#FF9800"/>
   <text x="300" y="435" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#E65100">
     Måned 4-8
@@ -243,7 +243,7 @@
     • Digitalisering
   </text>
   
-  <!-- Phase 3 -->
+
   <circle cx="450" cy="450" r="8" fill="#9C27B0"/>
   <text x="450" y="435" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#7B1FA2">
     Måned 9-12
@@ -262,7 +262,7 @@
     • Strategiske partnerskap
   </text>
   
-  <!-- Phase 4 -->
+
   <circle cx="600" cy="450" r="8" fill="#2196F3"/>
   <text x="600" y="435" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#1565C0">
     Kontinuerlig
@@ -281,7 +281,7 @@
     • Innovasjon
   </text>
   
-  <!-- Expected results -->
+
   <rect x="100" y="540" width="600" height="30" rx="8" fill="#4CAF50" stroke="#2E7D32" stroke-width="2"/>
   <text x="400" y="555" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     Forventet Resultat: 30% Profittforbedring over 12 måneder

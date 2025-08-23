@@ -14,21 +14,21 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
     Fremtidens Digitale MVA-håndtering
   </text>
   
-  <!-- Current state -->
+
   <rect x="50" y="70" width="300" height="200" fill="white" stroke="#6c757d" stroke-width="2" rx="10"/>
   <text x="200" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#495057">
     I DAG
   </text>
   
-  <!-- Current features -->
+
   <rect x="70" y="110" width="260" height="140" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="5"/>
   <text x="80" y="130" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
     Manuell håndtering:
@@ -55,13 +55,13 @@
     • Begrenset integrasjon mellom systemer
   </text>
   
-  <!-- Future state -->
+
   <rect x="450" y="70" width="300" height="200" fill="url(#futureGradient)" stroke="#17a2b8" stroke-width="2" rx="10"/>
   <text x="600" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     FREMTIDEN
   </text>
   
-  <!-- Future features -->
+
   <rect x="470" y="110" width="260" height="140" fill="white" stroke="#20c997" stroke-width="1" rx="5"/>
   <text x="480" y="130" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
     Automatisert håndtering:
@@ -88,19 +88,19 @@
     • Full integrasjon mellom alle systemer
   </text>
   
-  <!-- Arrow showing progression -->
+
   <path d="M 350 170 L 450 170" stroke="#ffc107" stroke-width="4" marker-end="url(#arrowhead)"/>
   <text x="400" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e65100">
     UTVIKLING
   </text>
   
-  <!-- Technology enablers -->
+
   <rect x="100" y="300" width="600" height="120" fill="url(#techGradient)" stroke="#5a2d91" stroke-width="2" rx="10"/>
   <text x="400" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
     Teknologiske Drivere
   </text>
   
-  <!-- Tech boxes -->
+
   <rect x="120" y="340" width="130" height="60" fill="white" stroke="#6f42c1" stroke-width="1" rx="5"/>
   <text x="185" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
     AI &amp; ML
@@ -145,13 +145,13 @@
     infrastruktur
   </text>
   
-  <!-- Benefits -->
+
   <rect x="100" y="450" width="600" height="120" fill="white" stroke="#28a745" stroke-width="2" rx="10"/>
   <text x="400" y="475" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1e7e34">
     Fordeler for Bedrifter
   </text>
   
-  <!-- Benefit columns -->
+
   <text x="150" y="500" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e7e34">
     Effektivitet:
   </text>
@@ -200,7 +200,7 @@
     • Transparent rapportering
   </text>
   
-  <!-- Arrow marker -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#ffc107"/>

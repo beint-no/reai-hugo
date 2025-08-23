@@ -14,22 +14,22 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
     Regnskapsføring og Utrangeringsverdi
   </text>
   
-  <!-- Results section -->
+
   <g transform="translate(50, 80)">
     <rect x="0" y="0" width="320" height="200" fill="url(#resultGrad)" rx="15"/>
     <text x="160" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
       Resultatregnskap
     </text>
     
-    <!-- Results table -->
+
     <rect x="20" y="50" width="280" height="130" fill="white" rx="8"/>
     
     <text x="30" y="75" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#212529">
@@ -64,14 +64,14 @@
     </text>
   </g>
   
-  <!-- Balance section -->
+
   <g transform="translate(430, 80)">
     <rect x="0" y="0" width="320" height="200" fill="url(#balanceGrad)" rx="15"/>
     <text x="160" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
       Balanse
     </text>
     
-    <!-- Balance table -->
+
     <rect x="20" y="50" width="280" height="130" fill="white" rx="8"/>
     
     <text x="30" y="75" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#212529">
@@ -106,7 +106,7 @@
     </text>
   </g>
   
-  <!-- Booking entry -->
+
   <g transform="translate(50, 320)">
     <rect x="0" y="0" width="700" height="120" fill="white" stroke="#007bff" stroke-width="3" rx="15"/>
     <text x="350" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#007bff">
@@ -144,7 +144,7 @@
     </g>
   </g>
   
-  <!-- Adjustment scenario -->
+
   <g transform="translate(50, 470)">
     <rect x="0" y="0" width="700" height="100" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="10"/>
     <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#856404">

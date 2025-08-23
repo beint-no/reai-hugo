@@ -6,28 +6,28 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="700" height="450" fill="url(#bgGradient)" stroke="#cbd5e1" stroke-width="1" rx="10"/>
   
-  <!-- Title -->
+
   <text x="350" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#d97706">
     KORTSIKTIG GJELD OVERSIKT
   </text>
   
-  <!-- Subtitle -->
+
   <text x="350" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#475569">
     Forpliktelser som forfaller innen 12 måneder
   </text>
   
-  <!-- Main container -->
+
   <rect x="50" y="80" width="600" height="330" fill="#f59e0b" fill-opacity="0.1" stroke="#f59e0b" stroke-width="2" rx="8"/>
   <text x="350" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#d97706">
     KORTSIKTIG GJELD
   </text>
   
-  <!-- Grid layout for different types -->
+
   
-  <!-- Leverandørgjeld -->
+
   <rect x="80" y="120" width="260" height="80" fill="#fbbf24" fill-opacity="0.3" stroke="#f59e0b" stroke-width="2" rx="6"/>
   <text x="210" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#d97706">
     LEVERANDØRGJELD
@@ -36,7 +36,7 @@
   <text x="90" y="180" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Fakturaer mottatt</text>
   <text x="90" y="195" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Vanlig kredittid 30-60 dager</text>
   
-  <!-- Offentlige avgifter -->
+
   <rect x="360" y="120" width="260" height="80" fill="#fbbf24" fill-opacity="0.3" stroke="#f59e0b" stroke-width="2" rx="6"/>
   <text x="490" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#d97706">
     OFFENTLIGE AVGIFTER
@@ -45,7 +45,7 @@
   <text x="370" y="180" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Forskuddstrekk</text>
   <text x="370" y="195" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Arbeidsgiveravgift</text>
   
-  <!-- Påløpte kostnader -->
+
   <rect x="80" y="220" width="260" height="80" fill="#fbbf24" fill-opacity="0.3" stroke="#f59e0b" stroke-width="2" rx="6"/>
   <text x="210" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#d97706">
     PÅLØPTE KOSTNADER
@@ -54,7 +54,7 @@
   <text x="90" y="280" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Påløpte renter</text>
   <text x="90" y="295" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Andre reguleringer</text>
   
-  <!-- Kortsiktig del av langsiktig gjeld -->
+
   <rect x="360" y="220" width="260" height="80" fill="#fbbf24" fill-opacity="0.3" stroke="#f59e0b" stroke-width="2" rx="6"/>
   <text x="490" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#d97706">
     KORTSIKTIG DEL AV
@@ -65,14 +65,14 @@
   <text x="370" y="275" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Avdrag på banklån</text>
   <text x="370" y="290" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Forfall av obligasjoner</text>
   
-  <!-- Annen kortsiktig gjeld -->
+
   <rect x="80" y="320" width="540" height="60" fill="#f97316" fill-opacity="0.3" stroke="#ea580c" stroke-width="2" rx="6"/>
   <text x="350" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#ea580c">
     ANNEN KORTSIKTIG GJELD
   </text>
   <text x="90" y="365" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Forskudd fra kunder • Kredittlinje bank • Kassekreditt • Skyldige utbytter • Andre kortsiktige forpliktelser</text>
   
-  <!-- Timeline indicator -->
+
   <g transform="translate(50, 420)">
     <line x1="0" y1="0" x2="600" y2="0" stroke="#374151" stroke-width="2"/>
     <circle cx="0" cy="0" r="4" fill="#dc2626"/>

@@ -1,19 +1,19 @@
 <svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
     Struktur og Innhold i Aksjonærregisteret
   </text>
   
-  <!-- Main database container -->
+
   <rect x="50" y="60" width="700" height="520" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2" rx="10"/>
   <text x="400" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#34495e">
     Aksjonærregister Database
   </text>
   
-  <!-- Company section -->
+
   <rect x="80" y="110" width="320" height="200" fill="#3498db" stroke="#2980b9" stroke-width="2" rx="5"/>
   <text x="240" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     Selskapsopplysninger
@@ -43,7 +43,7 @@
   <text x="260" y="260" font-family="Arial, sans-serif" font-size="10" fill="white">• Utbytterettigheter</text>
   <text x="260" y="275" font-family="Arial, sans-serif" font-size="10" fill="white">• Tegningsrettigheter</text>
   
-  <!-- Shareholder section -->
+
   <rect x="420" y="110" width="320" height="200" fill="#e74c3c" stroke="#c0392b" stroke-width="2" rx="5"/>
   <text x="580" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     Aksjonæropplysninger
@@ -73,7 +73,7 @@
   <text x="600" y="260" font-family="Arial, sans-serif" font-size="10" fill="white">• Vederlag</text>
   <text x="600" y="275" font-family="Arial, sans-serif" font-size="10" fill="white">• Panterettigheter</text>
   
-  <!-- Access levels section -->
+
   <rect x="80" y="330" width="640" height="120" fill="#f39c12" stroke="#e67e22" stroke-width="2" rx="5"/>
   <text x="400" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     Tilgangsnivåer og Offentlighet
@@ -115,13 +115,13 @@
   <text x="620" y="424" font-family="Arial, sans-serif" font-size="9" fill="#8b4513">• Administrasjon</text>
   <text x="620" y="436" font-family="Arial, sans-serif" font-size="9" fill="#8b4513">• Oppdateringer</text>
   
-  <!-- Data flow section -->
+
   <rect x="80" y="470" width="640" height="90" fill="#9b59b6" stroke="#8e44ad" stroke-width="2" rx="5"/>
   <text x="400" y="495" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
     Dataflyt og Oppdateringer
   </text>
   
-  <!-- Data flow arrows and boxes -->
+
   <rect x="100" y="510" width="120" height="35" fill="#bb8fce" stroke="#9b59b6" stroke-width="1" rx="3"/>
   <text x="160" y="530" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
     Selskap melder inn
@@ -148,7 +148,7 @@
     Publisering
   </text>
   
-  <!-- Arrow marker definitions -->
+
   <defs>
     <marker id="whitearrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="white"/>

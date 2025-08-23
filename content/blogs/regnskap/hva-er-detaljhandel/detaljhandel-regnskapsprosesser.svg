@@ -14,15 +14,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#2c3e50">
     Regnskapsprosesser i Detaljhandel
   </text>
   
-  <!-- Lagerstyring -->
+
   <rect x="50" y="80" width="140" height="100" fill="url(#processGradient)" stroke="#2c3e50" stroke-width="2" rx="10"/>
   <text x="120" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#fff">
     LAGERSTYRING
@@ -40,13 +40,13 @@
     • Svinn/tyveri
   </text>
   
-  <!-- Challenge box for Lagerstyring -->
+
   <rect x="50" y="190" width="140" height="30" fill="url(#challengeGradient)" stroke="#2c3e50" stroke-width="1" rx="5"/>
   <text x="120" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#fff">
     Utfordring: Svinn og ukurans
   </text>
   
-  <!-- Salgsregistrering -->
+
   <rect x="220" y="80" width="140" height="100" fill="url(#processGradient)" stroke="#2c3e50" stroke-width="2" rx="10"/>
   <text x="290" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#fff">
     SALGSREGISTRERING
@@ -64,13 +64,13 @@
     • Kontanthandtering
   </text>
   
-  <!-- Challenge box for Salgsregistrering -->
+
   <rect x="220" y="190" width="140" height="30" fill="url(#challengeGradient)" stroke="#2c3e50" stroke-width="1" rx="5"/>
   <text x="290" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#fff">
     Utfordring: Høyt volum
   </text>
   
-  <!-- Innkjøp -->
+
   <rect x="390" y="80" width="140" height="100" fill="url(#processGradient)" stroke="#2c3e50" stroke-width="2" rx="10"/>
   <text x="460" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#fff">
     INNKJØP
@@ -88,13 +88,13 @@
     • Kvalitetskontroll
   </text>
   
-  <!-- Challenge box for Innkjøp -->
+
   <rect x="390" y="190" width="140" height="30" fill="url(#challengeGradient)" stroke="#2c3e50" stroke-width="1" rx="5"/>
   <text x="460" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#fff">
     Utfordring: Sesongvariasjoner
   </text>
   
-  <!-- Moms -->
+
   <rect x="560" y="80" width="140" height="100" fill="url(#processGradient)" stroke="#2c3e50" stroke-width="2" rx="10"/>
   <text x="630" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#fff">
     MOMS
@@ -112,13 +112,13 @@
     • Oppgjør
   </text>
   
-  <!-- Challenge box for Moms -->
+
   <rect x="560" y="190" width="140" height="30" fill="url(#challengeGradient)" stroke="#2c3e50" stroke-width="1" rx="5"/>
   <text x="630" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#fff">
     Utfordring: Komplekse satser
   </text>
   
-  <!-- Kassasystem (central) -->
+
   <rect x="300" y="280" width="200" height="80" fill="#f39c12" stroke="#e67e22" stroke-width="3" rx="15"/>
   <text x="400" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#fff">
     KASSASYSTEM
@@ -130,16 +130,16 @@
     Automatisering av prosesser
   </text>
   
-  <!-- Arrows from processes to kassasystem -->
+
   <path d="M 120 220 Q 120 250 300 320" stroke="#34495e" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 290 220 Q 290 250 320 320" stroke="#34495e" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 460 220 Q 460 250 480 320" stroke="#34495e" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 630 220 Q 630 250 500 320" stroke="#34495e" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow from kassasystem to regnskap -->
+
   <path d="M 400 360 Q 400 390 400 420" stroke="#27ae60" stroke-width="4" fill="none" marker-end="url(#arrowhead2)"/>
   
-  <!-- Regnskap (bottom) -->
+
   <rect x="300" y="420" width="200" height="60" fill="#27ae60" stroke="#229954" stroke-width="3" rx="15"/>
   <text x="400" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#fff">
     REGNSKAPSSYSTEM
@@ -148,7 +148,7 @@
     Samlet rapportering og analyse
   </text>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>
@@ -158,7 +158,7 @@
     </marker>
   </defs>
   
-  <!-- Side notes -->
+
   <text x="50" y="260" font-family="Arial, sans-serif" font-size="11" fill="#7f8c8d" font-style="italic">
     Alle prosesser må
   </text>

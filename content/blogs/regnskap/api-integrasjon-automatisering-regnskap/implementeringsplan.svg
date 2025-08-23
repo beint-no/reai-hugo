@@ -22,10 +22,10 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#333">
     API-integrasjon Implementeringsplan
   </text>
@@ -33,7 +33,7 @@
     12-ukers milepælsplan for vellykket API-automatisering
   </text>
   
-  <!-- Timeline Header -->
+
   <g transform="translate(50, 90)">
     <rect x="0" y="0" width="700" height="40" rx="5" fill="url(#timelineGradient)" opacity="0.9"/>
     <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
@@ -41,19 +41,19 @@
     </text>
   </g>
   
-  <!-- Week markers -->
+
   <g transform="translate(50, 140)">
-    <!-- Week numbers -->
+
     <text x="60" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#666">Uke 1-2</text>
     <text x="180" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#666">Uke 3-6</text>
     <text x="300" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#666">Uke 7-8</text>
     <text x="420" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#666">Uke 9-10</text>
     <text x="540" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#666">Uke 11-12</text>
     
-    <!-- Timeline line -->
+
     <line x1="60" y1="25" x2="540" y2="25" stroke="#666" stroke-width="3"/>
     
-    <!-- Milestone markers -->
+
     <circle cx="60" cy="25" r="6" fill="url(#phase1Gradient)"/>
     <circle cx="180" cy="25" r="6" fill="url(#phase2Gradient)"/>
     <circle cx="300" cy="25" r="6" fill="url(#phase3Gradient)"/>
@@ -61,7 +61,7 @@
     <circle cx="540" cy="25" r="6" fill="url(#phase1Gradient)"/>
   </g>
   
-  <!-- Phase 1: Systemkartlegging og datamodellering -->
+
   <g transform="translate(50, 180)">
     <rect x="0" y="0" width="120" height="120" rx="10" fill="url(#phase1Gradient)" opacity="0.9"/>
     <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
@@ -77,7 +77,7 @@
     <text x="10" y="105" font-family="Arial, sans-serif" font-size="9" fill="white">• Behovsanalyse</text>
   </g>
   
-  <!-- Phase 2: API-utvikling og testing -->
+
   <g transform="translate(190, 180)">
     <rect x="0" y="0" width="120" height="120" rx="10" fill="url(#phase2Gradient)" opacity="0.9"/>
     <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
@@ -93,7 +93,7 @@
     <text x="10" y="105" font-family="Arial, sans-serif" font-size="9" fill="white">• Sikkerhetstesting</text>
   </g>
   
-  <!-- Phase 3: Pilotimplementering -->
+
   <g transform="translate(330, 180)">
     <rect x="0" y="0" width="120" height="120" rx="10" fill="url(#phase3Gradient)" opacity="0.9"/>
     <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
@@ -109,7 +109,7 @@
     <text x="10" y="105" font-family="Arial, sans-serif" font-size="9" fill="white">• Ytelsesoptimalisering</text>
   </g>
   
-  <!-- Phase 4: Fullskala utrulling -->
+
   <g transform="translate(470, 180)">
     <rect x="0" y="0" width="120" height="120" rx="10" fill="url(#phase2Gradient)" opacity="0.9"/>
     <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
@@ -125,7 +125,7 @@
     <text x="10" y="105" font-family="Arial, sans-serif" font-size="9" fill="white">• Support</text>
   </g>
   
-  <!-- Phase 5: Optimalisering -->
+
   <g transform="translate(610, 180)">
     <rect x="0" y="0" width="120" height="120" rx="10" fill="url(#phase1Gradient)" opacity="0.9"/>
     <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
@@ -141,7 +141,7 @@
     <text x="10" y="105" font-family="Arial, sans-serif" font-size="9" fill="white">• Evaluering</text>
   </g>
   
-  <!-- Risk Management Section -->
+
   <g transform="translate(50, 320)">
     <rect x="0" y="0" width="700" height="140" rx="10" fill="url(#riskGradient)" opacity="0.9"/>
     <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
@@ -149,7 +149,7 @@
     </text>
     
     <g transform="translate(50, 45)">
-      <!-- Backup plans -->
+
       <g transform="translate(0, 0)">
         <text x="0" y="15" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">🔄 Backup-planer:</text>
         <text x="10" y="30" font-family="Arial, sans-serif" font-size="10" fill="white">• Manuelle prosedyrer for kritiske funksjoner</text>
@@ -157,7 +157,7 @@
         <text x="10" y="60" font-family="Arial, sans-serif" font-size="10" fill="white">• Nødkommunikasjonsplaner</text>
       </g>
       
-      <!-- Parallel running -->
+
       <g transform="translate(300, 0)">
         <text x="0" y="15" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">⚖️ Parallellkjøring:</text>
         <text x="10" y="30" font-family="Arial, sans-serif" font-size="10" fill="white">• Gamle og nye systemer kjører samtidig</text>
@@ -165,7 +165,7 @@
         <text x="10" y="60" font-family="Arial, sans-serif" font-size="10" fill="white">• Gradvis overgang til nye prosesser</text>
       </g>
       
-      <!-- Rollback procedures -->
+
       <g transform="translate(150, 75)">
         <text x="0" y="15" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">↩️ Rollback-prosedyrer:</text>
         <text x="10" y="30" font-family="Arial, sans-serif" font-size="10" fill="white">• Rask tilbakeføring ved kritiske feil</text>
@@ -174,7 +174,7 @@
     </g>
   </g>
   
-  <!-- Success Metrics -->
+
   <g transform="translate(100, 480)">
     <rect x="0" y="0" width="600" height="100" rx="10" fill="#E8F5E8" stroke="#4CAF50" stroke-width="2"/>
     <text x="300" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2E7D32">

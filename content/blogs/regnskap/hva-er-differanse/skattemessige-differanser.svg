@@ -14,19 +14,19 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="#f8f9fa"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
   <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
     Skattemessige Differanser
   </text>
   
-  <!-- Main Content Area -->
+
   <g transform="translate(50, 80)">
     
-    <!-- Temporary Differences Section -->
+
     <g transform="translate(0, 0)">
       <rect x="0" y="0" width="320" height="220" rx="10" fill="url(#temporaryGradient)" opacity="0.9"/>
       <text x="160" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
@@ -36,7 +36,7 @@
         Utjevnes over tid - påvirker utsatt skatt
       </text>
       
-      <!-- Examples -->
+
       <g transform="translate(20, 70)">
         <circle cx="10" cy="10" r="5" fill="white"/>
         <text x="25" y="15" font-family="Arial, sans-serif" font-size="14" fill="white">
@@ -63,7 +63,7 @@
         </text>
       </g>
       
-      <!-- Arrow indicating time -->
+
       <path d="M 50 180 Q 160 160 270 180" stroke="white" stroke-width="2" fill="none"/>
       <polygon points="265,175 275,180 265,185" fill="white"/>
       <text x="160" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
@@ -71,7 +71,7 @@
       </text>
     </g>
     
-    <!-- Permanent Differences Section -->
+
     <g transform="translate(380, 0)">
       <rect x="0" y="0" width="320" height="220" rx="10" fill="url(#permanentGradient)" opacity="0.9"/>
       <text x="160" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
@@ -81,7 +81,7 @@
         Utjevnes aldri - påvirker ikke utsatt skatt
       </text>
       
-      <!-- Examples -->
+
       <g transform="translate(20, 70)">
         <circle cx="10" cy="10" r="5" fill="white"/>
         <text x="25" y="15" font-family="Arial, sans-serif" font-size="14" fill="white">
@@ -108,7 +108,7 @@
         </text>
       </g>
       
-      <!-- X indicating no reconciliation -->
+
       <g transform="translate(160, 170)">
         <circle cx="0" cy="0" r="15" fill="white" opacity="0.3"/>
         <path d="M -8 -8 L 8 8 M 8 -8 L -8 8" stroke="white" stroke-width="3"/>
@@ -118,7 +118,7 @@
       </g>
     </g>
     
-    <!-- Impact Section -->
+
     <g transform="translate(0, 250)">
       <rect x="0" y="0" width="700" height="120" rx="10" fill="#6c757d" opacity="0.9"/>
       <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
@@ -150,7 +150,7 @@
     
   </g>
   
-  <!-- Formula Box -->
+
   <g transform="translate(50, 450)">
     <rect x="0" y="0" width="700" height="100" rx="10" fill="#e9ecef" stroke="#6c757d" stroke-width="2"/>
     <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#495057">

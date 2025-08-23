@@ -10,29 +10,29 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="1000" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="500" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#333">
     IBAN Validering og Betalingsprosess
   </text>
   
-  <!-- Process flow -->
+
   <g transform="translate(50, 80)">
     
-    <!-- Step 1: Input -->
+
     <rect x="0" y="0" width="180" height="100" fill="#e3f2fd" stroke="#2196f3" stroke-width="2" rx="10"/>
     <text x="90" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#1976d2">1. IBAN Inndata</text>
     <text x="90" y="45" font-family="Courier, monospace" font-size="12" font-weight="bold" text-anchor="middle" fill="#333">NO93 8601 1117 947</text>
     <text x="90" y="65" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#666">Mottakers IBAN</text>
     <text x="90" y="80" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#666">fra faktura/avtale</text>
     
-    <!-- Arrow 1 -->
+
     <polygon points="190,50 210,45 210,55" fill="#666"/>
     <line x1="190" y1="50" x2="210" y2="50" stroke="#666" stroke-width="2"/>
     
-    <!-- Step 2: Validation -->
+
     <rect x="220" y="0" width="180" height="100" fill="#fff3e0" stroke="#ff9800" stroke-width="2" rx="10"/>
     <text x="310" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#f57c00">2. Validering</text>
     <text x="310" y="40" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#333">✓ Format kontroll</text>
@@ -40,11 +40,11 @@
     <text x="310" y="70" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#333">✓ Modulo 97 test</text>
     <text x="310" y="85" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#333">✓ Landkode kontroll</text>
     
-    <!-- Arrow 2 -->
+
     <polygon points="410,50 430,45 430,55" fill="#666"/>
     <line x1="410" y1="50" x2="430" y2="50" stroke="#666" stroke-width="2"/>
     
-    <!-- Step 3: Bank Identification -->
+
     <rect x="440" y="0" width="180" height="100" fill="#f3e5f5" stroke="#9c27b0" stroke-width="2" rx="10"/>
     <text x="530" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#7b1fa2">3. Bank ID</text>
     <text x="530" y="40" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#333">Landkode: NO</text>
@@ -52,11 +52,11 @@
     <text x="530" y="70" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#333">= DNB Bank</text>
     <text x="530" y="85" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#333">Konto: 1117947</text>
     
-    <!-- Arrow 3 -->
+
     <polygon points="630,50 650,45 650,55" fill="#666"/>
     <line x1="630" y1="50" x2="650" y2="50" stroke="#666" stroke-width="2"/>
     
-    <!-- Step 4: Routing -->
+
     <rect x="660" y="0" width="180" height="100" fill="#e8f5e8" stroke="#4caf50" stroke-width="2" rx="10"/>
     <text x="750" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#388e3c">4. Routing</text>
     <text x="750" y="40" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#333">SWIFT nettverk</text>
@@ -66,89 +66,89 @@
     
   </g>
   
-  <!-- Detailed validation process -->
+
   <g transform="translate(50, 220)">
     <text x="450" y="0" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#333">
       Detaljert Valideringsprosess
     </text>
     
-    <!-- Validation steps -->
+
     <rect x="0" y="20" width="900" height="200" fill="white" stroke="#dee2e6" stroke-width="2" rx="10"/>
     
-    <!-- Step by step validation -->
+
     <g transform="translate(20, 50)">
-      <!-- Original IBAN -->
+
       <text x="0" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">Original IBAN:</text>
       <text x="150" y="20" font-family="Courier, monospace" font-size="14" fill="#0066cc">NO93 8601 1117 947</text>
       
-      <!-- Step 1: Move first 4 characters -->
+
       <text x="0" y="50" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">1. Flytt NO93 til slutten:</text>
       <text x="200" y="50" font-family="Courier, monospace" font-size="14" fill="#ff6b6b">8601 1117 947</text>
       <text x="350" y="50" font-family="Courier, monospace" font-size="14" fill="#4ecdc4">NO93</text>
       
-      <!-- Step 2: Replace letters -->
+
       <text x="0" y="80" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">2. Erstatt bokstaver (N=23, O=24):</text>
       <text x="250" y="80" font-family="Courier, monospace" font-size="14" fill="#45b7d1">8601111794723249</text>
       <text x="420" y="80" font-family="Courier, monospace" font-size="14" fill="#96ceb4">3</text>
       
-      <!-- Step 3: Calculate modulo -->
+
       <text x="0" y="110" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">3. Beregn modulo 97:</text>
       <text x="180" y="110" font-family="Courier, monospace" font-size="14" fill="#333">86011117947232493 mod 97 = </text>
       <text x="450" y="110" font-family="Courier, monospace" font-size="14" font-weight="bold" fill="#28a745">1</text>
       
-      <!-- Step 4: Result -->
+
       <text x="0" y="140" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">4. Resultat:</text>
       <rect x="120" y="125" width="120" height="25" fill="#28a745" rx="5"/>
       <text x="180" y="142" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">GYLDIG IBAN</text>
       <text x="260" y="140" font-family="Arial, sans-serif" font-size="12" fill="#666">(rest = 1)</text>
       
-      <!-- Invalid example -->
+
       <text x="450" y="140" font-family="Arial, sans-serif" font-size="12" fill="#666">Hvis rest ≠ 1:</text>
       <rect x="570" y="125" width="120" height="25" fill="#dc3545" rx="5"/>
       <text x="630" y="142" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">UGYLDIG IBAN</text>
     </g>
   </g>
   
-  <!-- Payment flow after validation -->
+
   <g transform="translate(50, 460)">
     <text x="450" y="0" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#333">
       Betalingsflyt etter Validering
     </text>
     
-    <!-- Flow diagram -->
+
     <g transform="translate(0, 30)">
-      <!-- Sender bank -->
+
       <rect x="0" y="0" width="150" height="60" fill="#e3f2fd" stroke="#2196f3" stroke-width="2" rx="8"/>
       <text x="75" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#1976d2">Avsender Bank</text>
       <text x="75" y="40" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">(Norge)</text>
       <text x="75" y="52" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">Validerer IBAN</text>
       
-      <!-- Arrow -->
+
       <polygon points="160,30 180,25 180,35" fill="#28a745"/>
       <line x1="160" y1="30" x2="180" y2="30" stroke="#28a745" stroke-width="3"/>
       <text x="170" y="20" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#28a745">✓ Gyldig</text>
       
-      <!-- SWIFT network -->
+
       <rect x="190" y="0" width="150" height="60" fill="#fff3e0" stroke="#ff9800" stroke-width="2" rx="8"/>
       <text x="265" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#f57c00">SWIFT Nettverk</text>
       <text x="265" y="40" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">Ruter betaling</text>
       <text x="265" y="52" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">Sikker overføring</text>
       
-      <!-- Arrow -->
+
       <polygon points="350,30 370,25 370,35" fill="#28a745"/>
       <line x1="350" y1="30" x2="370" y2="30" stroke="#28a745" stroke-width="3"/>
       
-      <!-- Receiver bank -->
+
       <rect x="380" y="0" width="150" height="60" fill="#e8f5e8" stroke="#4caf50" stroke-width="2" rx="8"/>
       <text x="455" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#388e3c">Mottaker Bank</text>
       <text x="455" y="40" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">Identifisert av IBAN</text>
       <text x="455" y="52" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">Krediterer konto</text>
       
-      <!-- Arrow -->
+
       <polygon points="540,30 560,25 560,35" fill="#28a745"/>
       <line x1="540" y1="30" x2="560" y2="30" stroke="#28a745" stroke-width="3"/>
       
-      <!-- Confirmation -->
+
       <rect x="570" y="0" width="150" height="60" fill="#f3e5f5" stroke="#9c27b0" stroke-width="2" rx="8"/>
       <text x="645" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#7b1fa2">Bekreftelse</text>
       <text x="645" y="40" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">Tilbake til avsender</text>
@@ -156,7 +156,7 @@
     </g>
   </g>
   
-  <!-- Benefits box -->
+
   <rect x="750" y="460" width="200" height="100" fill="white" stroke="#28a745" stroke-width="2" rx="8"/>
   <text x="850" y="480" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#28a745">Fordeler</text>
   <text x="760" y="500" font-family="Arial, sans-serif" font-size="11" fill="#333">• 99.9% nøyaktighet</text>

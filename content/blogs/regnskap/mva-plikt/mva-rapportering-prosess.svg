@@ -9,13 +9,13 @@
     </filter>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Title -->
+
   <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#212529">MVA-rapportering og Betalingsprosess</text>
   
-  <!-- Step 1: Collect data -->
+
   <rect x="50" y="70" width="140" height="100" fill="#e3f2fd" stroke="#0066cc" stroke-width="2" rx="10" filter="url(#shadow)"/>
   <text x="120" y="95" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0066cc">1. Samle Data</text>
   <text x="120" y="115" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#0066cc">• Utgående MVA</text>
@@ -23,7 +23,7 @@
   <text x="120" y="145" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#0066cc">• Omsetning</text>
   <text x="120" y="160" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#0066cc">• Kjøp</text>
   
-  <!-- Step 2: Calculate -->
+
   <rect x="220" y="70" width="140" height="100" fill="#e8f5e8" stroke="#28a745" stroke-width="2" rx="10" filter="url(#shadow)"/>
   <text x="290" y="95" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#28a745">2. Beregne</text>
   <text x="290" y="115" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#28a745">• Netto MVA</text>
@@ -31,7 +31,7 @@
   <text x="290" y="145" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#28a745">• Valider beløp</text>
   <text x="290" y="160" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#28a745">• Justeringer</text>
   
-  <!-- Step 3: Prepare report -->
+
   <rect x="390" y="70" width="140" height="100" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="10" filter="url(#shadow)"/>
   <text x="460" y="95" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#856404">3. Forberede</text>
   <text x="460" y="115" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#856404">• MVA-oppgave</text>
@@ -39,7 +39,7 @@
   <text x="460" y="145" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#856404">• Dokumentasjon</text>
   <text x="460" y="160" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#856404">• Kvalitetskontroll</text>
   
-  <!-- Step 4: Submit -->
+
   <rect x="560" y="70" width="140" height="100" fill="#f8d7da" stroke="#dc3545" stroke-width="2" rx="10" filter="url(#shadow)"/>
   <text x="630" y="95" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#721c24">4. Levere</text>
   <text x="630" y="115" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#721c24">• Via Altinn</text>
@@ -47,12 +47,12 @@
   <text x="630" y="145" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#721c24">• Bekreftelse</text>
   <text x="630" y="160" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#721c24">• Arkivering</text>
   
-  <!-- Arrows between steps -->
+
   <path d="M 190 120 L 220 120" stroke="#6c757d" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 360 120 L 390 120" stroke="#6c757d" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M 530 120 L 560 120" stroke="#6c757d" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Reporting frequencies -->
+
   <rect x="50" y="200" width="700" height="120" fill="white" stroke="#dee2e6" stroke-width="2" rx="10" filter="url(#shadow)"/>
   <text x="400" y="225" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#212529">Rapporteringsfrekvens</text>
   
@@ -80,7 +80,7 @@
   <text x="665" y="290" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6c757d">Frist: 10. i måneden</text>
   <text x="665" y="305" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#dc3545">Streng kontroll</text>
   
-  <!-- Payment methods -->
+
   <rect x="50" y="340" width="340" height="140" fill="white" stroke="#17a2b8" stroke-width="2" rx="10" filter="url(#shadow)"/>
   <text x="220" y="365" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#17a2b8">Betalingsmetoder</text>
   
@@ -95,7 +95,7 @@
   <circle cx="80" cy="465" r="8" fill="#17a2b8"/>
   <text x="100" y="470" font-family="Arial, sans-serif" font-size="12" fill="#0c5460">Avtalegiro for regelmessige betalinger</text>
   
-  <!-- Consequences -->
+
   <rect x="410" y="340" width="340" height="140" fill="white" stroke="#dc3545" stroke-width="2" rx="10" filter="url(#shadow)"/>
   <text x="580" y="365" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#dc3545">Konsekvenser ved Forsinkelse</text>
   
@@ -110,7 +110,7 @@
   <circle cx="440" cy="465" r="8" fill="#dc3545"/>
   <text x="460" y="470" font-family="Arial, sans-serif" font-size="12" fill="#721c24">Renter på utestående beløp</text>
   
-  <!-- Arrow markers -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#6c757d"/>

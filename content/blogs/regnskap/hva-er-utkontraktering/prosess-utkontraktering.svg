@@ -25,15 +25,15 @@
     </marker>
   </defs>
   
-  <!-- Background -->
+
   <rect width="900" height="600" fill="url(#bgGradient)"/>
   
-  <!-- Title -->
+
   <text x="450" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#212529">
     Prosess for Gjennomføring av Utkontraktering
   </text>
   
-  <!-- Step 1: Behovsanalyse -->
+
   <circle cx="150" cy="150" r="60" fill="url(#step1Gradient)"/>
   <text x="150" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#ffffff">
     1
@@ -59,10 +59,10 @@
     • Beregn potensielle besparelser
   </text>
   
-  <!-- Arrow 1 to 2 -->
+
   <path d="M 250 150 L 350 150" stroke="#6c757d" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 2: Leverandørvalg -->
+
   <circle cx="450" cy="150" r="60" fill="url(#step2Gradient)"/>
   <text x="450" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#ffffff">
     2
@@ -88,10 +88,10 @@
     • Forhandlinger og endelig valg
   </text>
   
-  <!-- Arrow 2 to 3 -->
+
   <path d="M 550 150 L 650 150" stroke="#6c757d" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 3: Kontraktsinngåelse -->
+
   <circle cx="750" cy="150" r="60" fill="url(#step3Gradient)"/>
   <text x="750" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
     3
@@ -117,10 +117,10 @@
     • Ansvar og oppsigelsesbestemmelser
   </text>
   
-  <!-- Arrow 3 to 4 (downward) -->
+
   <path d="M 750 210 L 750 290" stroke="#6c757d" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Step 4: Implementering -->
+
   <circle cx="750" cy="350" r="60" fill="url(#step4Gradient)"/>
   <text x="750" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#ffffff">
     4
@@ -146,10 +146,10 @@
     • Testperiode før full drift
   </text>
   
-  <!-- Ongoing management arrow (left from step 4) -->
+
   <path d="M 650 350 L 550 350" stroke="#6c757d" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   
-  <!-- Ongoing management -->
+
   <rect x="350" y="400" width="200" height="80" fill="#e2e3e5" stroke="#6c757d" stroke-width="2" rx="5"/>
   <text x="450" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#495057">
     LØPENDE STYRING
@@ -164,7 +164,7 @@
     • Kontinuerlig forbedring
   </text>
   
-  <!-- Success factors box -->
+
   <rect x="50" y="400" width="250" height="150" fill="#d1ecf1" stroke="#17a2b8" stroke-width="2" rx="5"/>
   <text x="175" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0c5460">
     SUKSESSFAKTORER

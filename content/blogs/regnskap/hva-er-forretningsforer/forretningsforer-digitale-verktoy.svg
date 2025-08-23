@@ -14,20 +14,20 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+
   <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
   
-  <!-- Header -->
+
   <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
   
-  <!-- Title -->
+
   <text x="400" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
     Digitale Verktøy for Forretningsførere
   </text>
   
-  <!-- Cloud computing center -->
+
   <g transform="translate(350, 280)">
-    <!-- Cloud shape -->
+
     <ellipse cx="50" cy="40" rx="40" ry="25" fill="url(#cloudGradient)"/>
     <ellipse cx="30" cy="35" rx="25" ry="20" fill="url(#cloudGradient)"/>
     <ellipse cx="70" cy="35" rx="25" ry="20" fill="url(#cloudGradient)"/>
@@ -36,10 +36,10 @@
     </text>
   </g>
   
-  <!-- ERP System (Top Left) -->
+
   <g transform="translate(80, 100)">
     <rect x="0" y="0" width="180" height="120" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="10"/>
-    <!-- Database icon -->
+
     <ellipse cx="35" cy="25" rx="15" ry="8" fill="#1976d2"/>
     <rect x="20" y="25" width="30" height="16" fill="#1976d2"/>
     <ellipse cx="35" cy="41" rx="15" ry="8" fill="#1976d2"/>
@@ -64,10 +64,10 @@
     </text>
   </g>
   
-  <!-- E-faktura (Top Right) -->
+
   <g transform="translate(540, 100)">
     <rect x="0" y="0" width="180" height="120" fill="#f3e5f5" stroke="#7b1fa2" stroke-width="2" rx="10"/>
-    <!-- Invoice icon -->
+
     <rect x="20" y="20" width="30" height="35" fill="#7b1fa2" rx="2"/>
     <line x1="25" y1="30" x2="45" y2="30" stroke="white" stroke-width="1"/>
     <line x1="25" y1="35" x2="45" y2="35" stroke="white" stroke-width="1"/>
@@ -94,10 +94,10 @@
     </text>
   </g>
   
-  <!-- Datakasse (Bottom Left) -->
+
   <g transform="translate(80, 420)">
     <rect x="0" y="0" width="180" height="120" fill="#fff3e0" stroke="#f57c00" stroke-width="2" rx="10"/>
-    <!-- Cash register icon -->
+
     <rect x="20" y="20" width="35" height="25" fill="#f57c00" rx="3"/>
     <rect x="22" y="22" width="31" height="15" fill="white"/>
     <circle cx="30" cy="50" r="3" fill="#f57c00"/>
@@ -124,14 +124,14 @@
     </text>
   </g>
   
-  <!-- Skybasert Regnskap (Bottom Right) -->
+
   <g transform="translate(540, 420)">
     <rect x="0" y="0" width="180" height="120" fill="#e8f5e8" stroke="#388e3c" stroke-width="2" rx="10"/>
-    <!-- Cloud with chart icon -->
+
     <ellipse cx="35" cy="30" rx="15" ry="10" fill="#388e3c"/>
     <ellipse cx="25" cy="27" rx="10" ry="8" fill="#388e3c"/>
     <ellipse cx="45" cy="27" rx="10" ry="8" fill="#388e3c"/>
-    <!-- Chart bars inside cloud -->
+
     <rect x="28" y="35" width="2" height="8" fill="white"/>
     <rect x="32" y="32" width="2" height="11" fill="white"/>
     <rect x="36" y="29" width="2" height="14" fill="white"/>
@@ -157,15 +157,15 @@
     </text>
   </g>
   
-  <!-- AI/Automatisering (Left) -->
+
   <g transform="translate(50, 260)">
     <rect x="0" y="0" width="160" height="120" fill="#fce4ec" stroke="#c2185b" stroke-width="2" rx="10"/>
-    <!-- Robot/AI icon -->
+
     <rect x="25" y="20" width="20" height="25" fill="#c2185b" rx="3"/>
     <circle cx="30" cy="30" r="2" fill="white"/>
     <circle cx="40" cy="30" r="2" fill="white"/>
     <rect x="32" y="35" width="6" height="2" fill="white"/>
-    <!-- Antenna -->
+
     <line x1="35" y1="20" x2="35" y2="15" stroke="#c2185b" stroke-width="2"/>
     <circle cx="35" cy="15" r="2" fill="#c2185b"/>
     
@@ -186,10 +186,10 @@
     </text>
   </g>
   
-  <!-- Mobile Apps (Right) -->
+
   <g transform="translate(590, 260)">
     <rect x="0" y="0" width="160" height="120" fill="#f1f8e9" stroke="#689f38" stroke-width="2" rx="10"/>
-    <!-- Mobile phone icon -->
+
     <rect x="25" y="20" width="20" height="30" fill="#689f38" rx="3"/>
     <rect x="27" y="23" width="16" height="20" fill="white"/>
     <circle cx="35" cy="47" r="2" fill="white"/>
@@ -211,23 +211,23 @@
     </text>
   </g>
   
-  <!-- Connecting lines to cloud -->
+
   <g stroke="#6c757d" stroke-width="2" fill="none">
-    <!-- From ERP -->
+
     <line x1="260" y1="160" x2="350" y2="280"/>
-    <!-- From E-faktura -->
+
     <line x1="540" y1="160" x2="450" y2="280"/>
-    <!-- From Datakasse -->
+
     <line x1="260" y1="480" x2="350" y2="360"/>
-    <!-- From Skybasert -->
+
     <line x1="540" y1="480" x2="450" y2="360"/>
-    <!-- From AI -->
+
     <line x1="210" y1="320" x2="350" y2="320"/>
-    <!-- From Mobile -->
+
     <line x1="590" y1="320" x2="450" y2="320"/>
   </g>
   
-  <!-- Benefits section -->
+
   <g transform="translate(250, 570)">
     <text x="150" y="0" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#212529">
       Fordeler med Digitale Verktøy

@@ -1,13 +1,13 @@
 <svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+
   <rect width="800" height="500" fill="#f8f9fa"/>
   
-  <!-- Title -->
+
   <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#2c3e50">
     Aksjonærregisteret
   </text>
   
-  <!-- Central register building -->
+
   <rect x="320" y="80" width="160" height="120" fill="#3498db" stroke="#2980b9" stroke-width="2" rx="5"/>
   <text x="400" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Brønnøysund-
@@ -22,7 +22,7 @@
     Database
   </text>
   
-  <!-- Companies on the left -->
+
   <rect x="50" y="120" width="120" height="80" fill="#e74c3c" stroke="#c0392b" stroke-width="2" rx="5"/>
   <text x="110" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     Aksjeselskap
@@ -34,13 +34,13 @@
     eierskap
   </text>
   
-  <!-- Arrow from companies to register -->
+
   <path d="M 170 160 L 310 140" stroke="#34495e" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <text x="240" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#34495e">
     Meldeplikt
   </text>
   
-  <!-- Public access on the right -->
+
   <rect x="630" y="120" width="120" height="80" fill="#27ae60" stroke="#229954" stroke-width="2" rx="5"/>
   <text x="690" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
     Offentligheten
@@ -52,13 +52,13 @@
     informasjon
   </text>
   
-  <!-- Arrow from register to public -->
+
   <path d="M 490 140 L 620 160" stroke="#34495e" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
   <text x="555" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#34495e">
     Offentlig innsyn
   </text>
   
-  <!-- Information boxes below -->
+
   <rect x="100" y="250" width="200" height="120" fill="#f39c12" stroke="#e67e22" stroke-width="2" rx="5"/>
   <text x="200" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
     Registrerte opplysninger
@@ -79,7 +79,7 @@
   <text x="520" y="340" font-family="Arial, sans-serif" font-size="11" fill="white">• Juridisk sikkerhet</text>
   <text x="520" y="355" font-family="Arial, sans-serif" font-size="11" fill="white">• Kreditorvern</text>
   
-  <!-- Bottom note -->
+
   <text x="400" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">
     Alle norske aksjeselskaper må registrere sine aksjonærer
   </text>
@@ -87,7 +87,7 @@
     Informasjonen er offentlig tilgjengelig online
   </text>
   
-  <!-- Arrow marker definition -->
+
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>
