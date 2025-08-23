@@ -1,6 +1,6 @@
 ﻿---
 title: "Domenenavn i Regnskap – Behandling og Klassifisering"
-meta_title: "Domenenavn i Regnskap “ Behandling og Klassifisering"
+seoTitle: "Domenenavn i Regnskap “ Behandling og Klassifisering"
 meta_description: '**Domenenavn** er registrerte internettadresser som bedrifter bruker som unike identifikatorer på nettet, og representerer en viktig **immateriell eiendel** fo...'
 slug: domenenavn
 type: blog

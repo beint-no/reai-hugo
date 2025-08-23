@@ -1,6 +1,6 @@
 ﻿---
 title: "Alminnelig inntekt"
-meta_title: "Alminnelig inntekt"
+seoTitle: "Alminnelig inntekt"
 meta_description: '**Alminnelig inntekt** er grunnlaget for å beregne skatt (22–¯%) for norske selskaper og [personlig næringsdrivende](/blogs/regnskap/naeringsinntekt Næring...'
 slug: alminnelig-inntekt
 type: blog

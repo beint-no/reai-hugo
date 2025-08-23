@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 7820 - Innkommet på tidligere nedskrevne fordringer"
-meta_title: "7820-innkommet-pa-tidligere-nedskrevne-fordringer"
+seoTitle: "7820-innkommet-pa-tidligere-nedskrevne-fordringer"
 meta_description: '**Konto 7820 - Innkommet på tidligere nedskrevne fordringer** er en konto i Norsk Standard Kontoplan som brukes til å registrere **innbetalinger på tidligere...'
 slug: 7820-innkommet-pa-tidligere-nedskrevne-fordringer
 type: blog

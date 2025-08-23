@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Fradragsføre i Regnskap?"
-meta_title: "Hva er Fradragsføre i Regnskap?"
+seoTitle: "Hva er Fradragsføre i Regnskap?"
 meta_description: '**Å fradragsføre** handler om selve prosessen med å bokføre kostnader som **fradrag** i regnskapet slik at virksomhetens skattepliktige inntekt reduseres pÃ...'
 slug: hva-er-fradragsfoere
 type: blog

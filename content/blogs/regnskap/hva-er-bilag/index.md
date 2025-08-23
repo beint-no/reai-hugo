@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Bilag i Regnskap?"
-meta_title: "Hva er Bilag i Regnskap?"
+seoTitle: "Hva er Bilag i Regnskap?"
 meta_description: '**Bilag** er grunnleggende støttedokumenter som dokumenterer alle forretningshendelser i regnskapet. De fungerer som bevis for at en transaksjon har funnet ste...'
 slug: hva-er-bilag
 type: blog

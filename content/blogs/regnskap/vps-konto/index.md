@@ -1,6 +1,6 @@
 ﻿---
 title: "VPS-konto"
-meta_title: "VPS-konto"
+seoTitle: "VPS-konto"
 meta_description: 'En **VPS-konto** er en sikker digital konto registrert hos **Verdipapirsentralen (VPS)** som brukes til oppbevaring og handel av [**verdipapirer**](/blogs/regns...'
 slug: vps-konto
 type: blog

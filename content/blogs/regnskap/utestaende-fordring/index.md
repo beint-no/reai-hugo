@@ -1,6 +1,6 @@
 ﻿---
 title: "Utestående Fordring"
-meta_title: "Utestående Fordring"
+seoTitle: "Utestående Fordring"
 meta_description: '**Utestående Fordring** er den delen av din **kundefordring** som ennå ikke er betalt innen forfallsdato, og representerer en risiko for likviditet og kreditt...'
 slug: utestaende-fordring
 type: blog

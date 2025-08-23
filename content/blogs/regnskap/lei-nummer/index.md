@@ -1,6 +1,6 @@
 ﻿---
 title: "LEI-nummer"
-meta_title: "LEI-nummer"
+seoTitle: "LEI-nummer"
 meta_description: '**LEI-nummer** (Legal Entity Identifier) er en **global identifikator** som entydig identifiserer juridiske enheter i finansielle transaksjoner. For norske sels...'
 slug: lei-nummer
 type: blog

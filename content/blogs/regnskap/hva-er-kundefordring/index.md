@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er kundefordring?"
-meta_title: "Hva er kundefordring?"
+seoTitle: "Hva er kundefordring?"
 meta_description: '**Kundefordring** er penger som kunder skylder bedriften for varer eller tjenester som er levert, men som ennå ikke er betalt. Dette er en av de viktigste [eie...'
 slug: hva-er-kundefordring
 type: blog

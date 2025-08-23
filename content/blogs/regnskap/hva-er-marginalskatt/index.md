@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Marginalskatt?"
-meta_title: "Hva er Marginalskatt?"
+seoTitle: "Hva er Marginalskatt?"
 meta_description: '**Marginalskatt** er den skattesatsen som gjelder for den siste kronen du tjener i inntekt. Dette er et sentralt begrep innen [regnskap](/blogs/regnskap/hva-er-...'
 slug: hva-er-marginalskatt
 type: blog

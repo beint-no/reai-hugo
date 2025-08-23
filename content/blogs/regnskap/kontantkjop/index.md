@@ -1,6 +1,6 @@
 ﻿---
 title: "Kontantkjøp – Komplett Guide til Regnskapsføring av Kontantkjøp"
-meta_title: "Kontantkjøp “ Komplett Guide til Regnskapsføring av Kontantkjøp"
+seoTitle: "Kontantkjøp “ Komplett Guide til Regnskapsføring av Kontantkjøp"
 meta_description: '**Kontantkjøp** er direkte betaling med **kontanter** for varer eller tjenester som skjer umiddelbart ved transaksjonen. Dette skiller seg fra kredittkjøp, hv...'
 slug: kontantkjop
 type: blog

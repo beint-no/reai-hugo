@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er debitor?"
-meta_title: "Hva er debitor?"
+seoTitle: "Hva er debitor?"
 meta_description: '**Debitor** er et sentralt begrep i [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Dybdeanalyse for Norge") og [bokføring](/blogs/regnskap/hva...'
 slug: hva-er-debitor
 type: blog

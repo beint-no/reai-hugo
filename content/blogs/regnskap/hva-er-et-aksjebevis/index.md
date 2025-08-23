@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er et Aksjebevis? En Komplett Guide"
-meta_title: "Hva er et Aksjebevis? En Komplett Guide"
+seoTitle: "Hva er et Aksjebevis? En Komplett Guide"
 meta_description: 'Et **aksjebevis** er et fundamentalt og juridisk bindende dokument som beviser at en person eller et selskap (en aksjonær) eier en eller flere aksjer i et [aks...'
 slug: hva-er-et-aksjebevis
 type: blog

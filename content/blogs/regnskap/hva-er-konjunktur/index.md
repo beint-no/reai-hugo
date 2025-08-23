@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er konjunktur?"
-meta_title: "Hva er konjunktur?"
+seoTitle: "Hva er konjunktur?"
 meta_description: '**Konjunktur** refererer til de periodiske svingningene i økonomisk aktivitet som karakteriserer en markedsøkonomi. Disse **konjunktursyklusene** påvirker al...'
 slug: hva-er-konjunktur
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Proformafaktura?"
-meta_title: "Hva er Proformafaktura?"
+seoTitle: "Hva er Proformafaktura?"
 meta_description: 'En **proformafaktura** er et foreløpig regnskapsdokument som utstedes før levering av varer eller tjenester, og fungerer som et estimat eller tilbud på fremt...'
 slug: hva-er-proformafaktura
 type: blog

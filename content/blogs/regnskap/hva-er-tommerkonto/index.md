@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Tømmerkonto? En Komplett Guide til Skogbruksregnskap"
-meta_title: "Hva er Tømmerkonto? En Komplett Guide til Skogbruksregnskap"
+seoTitle: "Hva er Tømmerkonto? En Komplett Guide til Skogbruksregnskap"
 meta_description: 'En **tømmerkonto** er en spesialisert regnskapskonto som brukes innen skogbruk for å registrere og administrere inntekter fra salg av tømmer og andre skogpro...'
 slug: hva-er-tommerkonto
 type: blog

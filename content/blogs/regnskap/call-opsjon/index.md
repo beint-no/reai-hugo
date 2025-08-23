@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er en Call-opsjon?"
-meta_title: "Hva er en Call-opsjon?"
+seoTitle: "Hva er en Call-opsjon?"
 meta_description: 'En **call-opsjon** (kjøpsopsjon) er en type opsjonsavtale som gir innehaveren rett, men ikke plikt, til å **kjøpe** den underliggende eiendelen til en forhå...'
 slug: call-opsjon
 type: blog

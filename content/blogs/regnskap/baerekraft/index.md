@@ -1,6 +1,6 @@
 ﻿---
 title: "Bærekraft"
-meta_title: "Bærekraft"
+seoTitle: "Bærekraft"
 meta_description: '**Bærekraft** er et overordnet prinsipp som omfatter økonomisk, miljømessig og sosial ansvarlighet i virksomheters drift og rapportering. I regnskapssammenhe...'
 slug: baerekraft
 type: blog

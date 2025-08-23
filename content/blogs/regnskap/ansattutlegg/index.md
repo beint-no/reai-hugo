@@ -1,6 +1,6 @@
 ﻿---
 title: "Ansattutlegg"
-meta_title: "Ansattutlegg"
+seoTitle: "Ansattutlegg"
 meta_description: '**Ansattutlegg** er [utgifter](/blogs/regnskap/utgift Utgift “ Komplett Guide til Utgifter i Norsk Regnskap) som ansatte legger ut på vegne av virksomheten...'
 slug: ansattutlegg
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Individuell Pensjonssparing (IPS)?"
-meta_title: "Hva er Individuell Pensjonssparing (IPS)?"
+seoTitle: "Hva er Individuell Pensjonssparing (IPS)?"
 meta_description: '![Illustrasjon av Individuell Pensjonssparing](hva-er-individuell-pensjonssparing-image.svg)'
 slug: hva-er-individuell-pensjonssparing
 type: blog

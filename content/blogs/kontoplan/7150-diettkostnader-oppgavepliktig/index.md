@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 7150 - Diettkostnader, oppgavepliktig"
-meta_title: "7150-diettkostnader-oppgavepliktig"
+seoTitle: "7150-diettkostnader-oppgavepliktig"
 meta_description: '**Konto 7150 - Diettkostnader, oppgavepliktig** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **oppgavepliktige diettkostna...'
 slug: 7150-diettkostnader-oppgavepliktig
 type: blog

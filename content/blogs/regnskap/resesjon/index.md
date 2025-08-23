@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Resesjon?"
-meta_title: "Hva er Resesjon?"
+seoTitle: "Hva er Resesjon?"
 meta_description: '**Resesjon** er en periode med vedvarende **fallende økonomisk aktivitet**, vanligvis definert som to påfølgende kvartaler med *negativ BNP-vekst*. Resesjon ...'
 slug: resesjon
 type: blog

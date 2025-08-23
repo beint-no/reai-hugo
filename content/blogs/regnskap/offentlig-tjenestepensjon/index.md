@@ -1,6 +1,6 @@
 ﻿---
 title: "Offentlig tjenestepensjon"
-meta_title: "Offentlig tjenestepensjon"
+seoTitle: "Offentlig tjenestepensjon"
 meta_description: '![Offentlig tjenestepensjon](offentlig-tjenestepensjon-image.svg)'
 slug: offentlig-tjenestepensjon
 type: blog

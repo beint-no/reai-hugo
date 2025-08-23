@@ -1,6 +1,6 @@
 ﻿---
 title: "Tabell 7100"
-meta_title: "Tabell 7100"
+seoTitle: "Tabell 7100"
 meta_description: '**Tabell 7100** er skattetabellen som brukes for **pensjons-** og **trygdeutbetalinger**. Denne tabellen gir arbeidsgivere og utbetalingsansvarlige en enkel ove...'
 slug: tabell-7100
 type: blog

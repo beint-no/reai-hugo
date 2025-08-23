@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Trygdeavgift?"
-meta_title: "Hva er Trygdeavgift?"
+seoTitle: "Hva er Trygdeavgift?"
 meta_description: '**Trygdeavgift** er en fundamental del av det norske skatte- og avgiftssystemet som finansierer folketrygden og andre offentlige velferdsordninger. For bedrifte...'
 slug: hva-er-trygdeavgift
 type: blog

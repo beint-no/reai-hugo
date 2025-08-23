@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er AvtaleGiro?"
-meta_title: "Hva er AvtaleGiro?"
+seoTitle: "Hva er AvtaleGiro?"
 meta_description: '**AvtaleGiro** er Norges mest brukte system for automatisk betaling av regninger. Dette betalingssystemet gjør det mulig for både privatpersoner og bedrifter ...'
 slug: hva-er-avtalegiro
 type: blog

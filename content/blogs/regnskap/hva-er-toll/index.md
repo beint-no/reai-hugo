@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er toll?"
-meta_title: "Hva er toll?"
+seoTitle: "Hva er toll?"
 meta_description: '**Toll** er en avgift som ilegges varer som krysser landegrenser, primært ved import til Norge. Toll er et sentralt element i internasjonal handel og påvirker...'
 slug: hva-er-toll
 type: blog

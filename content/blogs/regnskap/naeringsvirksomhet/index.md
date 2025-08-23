@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er næringsvirksomhet?"
-meta_title: "Hva er næringsvirksomhet?"
+seoTitle: "Hva er næringsvirksomhet?"
 meta_description: '**Næringsvirksomhet** omfatter all økonomisk aktivitet som drives med **hensikt om overskudd** og vurderes som varig [virksomhet](/blogs/regnskap/hva-er-virks...'
 slug: naeringsvirksomhet
 type: blog

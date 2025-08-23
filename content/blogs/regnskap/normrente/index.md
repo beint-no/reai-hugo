@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Normrente?"
-meta_title: "Hva er Normrente?"
+seoTitle: "Hva er Normrente?"
 meta_description: '**Normrente** er den **referanserenten** som fastsettes av Skattedirektoratet for skattemessige og regnskapsmessige formål. Normrenten benyttes blant annet ved...'
 slug: normrente
 type: blog

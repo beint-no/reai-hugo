@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 5300 - Tantieme"
-meta_title: "5300-tantieme"
+seoTitle: "5300-tantieme"
 meta_description: '**Konto 5300 - Tantieme** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **tantieme** eller resultatbasert godtgjørelse til...'
 slug: 5300-tantieme
 type: blog

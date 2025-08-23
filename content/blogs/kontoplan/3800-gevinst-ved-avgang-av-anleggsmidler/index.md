@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 3800 - Gevinst ved avgang av anleggsmidler"
-meta_title: "3800-gevinst-ved-avgang-av-anleggsmidler"
+seoTitle: "3800-gevinst-ved-avgang-av-anleggsmidler"
 meta_description: '**Konto 3800 - Gevinst ved avgang av anleggsmidler** er en konto i Norsk Standard Kontoplan som brukes til å registrere **gevinst ved avgang av anleggsmidler**...'
 slug: 3800-gevinst-ved-avgang-av-anleggsmidler
 type: blog

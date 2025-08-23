@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er imaterielle rettigheter?"
-meta_title: "Hva er imaterielle rettigheter?"
+seoTitle: "Hva er imaterielle rettigheter?"
 meta_description: '**Imaterielle rettigheter** er ikke-fysiske eiendeler som har økonomisk verdi for en virksomhet. Disse eiendelene representerer intellektuell eiendom, juridisk...'
 slug: hva-er-imaterielle-rettigheter
 type: blog

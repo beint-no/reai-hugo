@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er kontingent?"
-meta_title: "Hva er kontingent?"
+seoTitle: "Hva er kontingent?"
 meta_description: '**Kontingent** er en regelmessig avgift eller medlemsavgift som betales til en organisasjon, forening eller institusjon for å opprettholde medlemskap eller til...'
 slug: hva-er-kontingent
 type: blog

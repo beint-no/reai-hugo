@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Pakkeseddel?"
-meta_title: "Hva er Pakkeseddel?"
+seoTitle: "Hva er Pakkeseddel?"
 meta_description: 'En **pakkeseddel** er et leveringsdokument som følger med vareleveranser og inneholder detaljert informasjon om varene som sendes, mottaker, avsender og leveri...'
 slug: hva-er-pakkeseddel
 type: blog

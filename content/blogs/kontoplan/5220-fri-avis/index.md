@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 5220 - Fri avis"
-meta_title: "5220-fri-avis"
+seoTitle: "5220-fri-avis"
 meta_description: '**Konto 5220 - Fri avis** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **verdi av fri avis** som **ansattgode**.'
 slug: 5220-fri-avis
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Crowdlending i Regnskap?"
-meta_title: "Hva er Crowdlending i Regnskap?"
+seoTitle: "Hva er Crowdlending i Regnskap?"
 meta_description: '**Crowdlending** er en form for peer-to-peer (P2P) utlån hvor private personer eller investorer låner penger direkte til bedrifter eller enkeltpersoner gjenno...'
 slug: hva-er-crowdlending
 type: blog

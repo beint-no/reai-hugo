@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Konto 8060 - Valutagevinst (Agio)?"
-meta_title: "8060-valutagevinst-agio"
+seoTitle: "8060-valutagevinst-agio"
 meta_description: '**Konto 8060 - Valutagevinst (Agio)** er en konto i Norsk Standard Kontoplan som brukes for å registrere **gevinst ved valutakursendringer** (ofte kalt *agio*)...'
 slug: 8060-valutagevinst-agio
 type: blog

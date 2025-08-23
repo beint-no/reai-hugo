@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er arbeidskapital?"
-meta_title: "Hva er arbeidskapital?"
+seoTitle: "Hva er arbeidskapital?"
 meta_description: '**Arbeidskapital** er differansen mellom [omløpsmidler](/blogs/regnskap/hva-er-aktiva "Hva er Aktiva? En Komplett Guide til Eiendeler i Regnskap") og kortsikti...'
 slug: hva-er-arbeidskapital
 type: blog

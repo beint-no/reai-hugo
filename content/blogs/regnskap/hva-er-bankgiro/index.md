@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er BankGiro?"
-meta_title: "Hva er BankGiro?"
+seoTitle: "Hva er BankGiro?"
 meta_description: '**BankGiro** er et av Norges mest brukte betalingssystemer for fakturaer og regninger. Dette elektroniske betalingssystemet gjør det enkelt for både privatper...'
 slug: hva-er-bankgiro
 type: blog

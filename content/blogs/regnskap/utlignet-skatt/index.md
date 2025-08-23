@@ -1,6 +1,6 @@
 ﻿---
 title: "Utlignet skatt"
-meta_title: "Utlignet skatt"
+seoTitle: "Utlignet skatt"
 meta_description: '**Utlignet skatt** er den endelige skatteposten som fastsettes av skattemyndighetene i skatteoppgjøret. Den representerer det beløpet virksomheten enten må b...'
 slug: utlignet-skatt
 type: blog

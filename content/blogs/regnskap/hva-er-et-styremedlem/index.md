@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er et styremedlem? En Komplett Guide til Styremedlemmets Rolle og Ansvar"
-meta_title: "Hva er et styremedlem? En Komplett Guide til Styremedlemmets Rolle og Ansvar"
+seoTitle: "Hva er et styremedlem? En Komplett Guide til Styremedlemmets Rolle og Ansvar"
 meta_description: 'En **styremedlem** er et individ valgt eller utpekt til å sitte i selskapets [styre](/blogs/regnskap/hva-er-styre "Hva er styre? Styrets rolle og oppgaver"), m...'
 slug: hva-er-et-styremedlem
 type: blog

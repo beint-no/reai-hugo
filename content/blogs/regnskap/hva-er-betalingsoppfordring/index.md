@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Betalingsoppfordring?"
-meta_title: "Hva er Betalingsoppfordring?"
+seoTitle: "Hva er Betalingsoppfordring?"
 meta_description: '**Betalingsoppfordring** er den formelle prosessen bedrifter bruker for å kreve inn utestående betalinger fra kunder som ikke har betalt sine [fakturaer](/blo...'
 slug: hva-er-betalingsoppfordring
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Termin?"
-meta_title: "Hva er Termin?"
+seoTitle: "Hva er Termin?"
 meta_description: '**Termin** er et fundamentalt konsept i regnskap og økonomi som definerer en avgrenset tidsperiode for regnskapsføring, rapportering og økonomisk oppgjør. I...'
 slug: hva-er-termin
 type: blog

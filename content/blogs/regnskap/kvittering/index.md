@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er kvittering?"
-meta_title: "Hva er kvittering?"
+seoTitle: "Hva er kvittering?"
 meta_description: 'En **kvittering** er et bevis på at en transaksjon eller betaling har funnet sted. Kvitteringer er en sentral del av dokumentasjonsplikten i norsk regnskap og ...'
 slug: kvittering
 type: blog

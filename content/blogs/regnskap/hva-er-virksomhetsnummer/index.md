@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er virksomhetsnummer?"
-meta_title: "Hva er virksomhetsnummer?"
+seoTitle: "Hva er virksomhetsnummer?"
 meta_description: 'Et **virksomhetsnummer** er en unik ni-sifret identifikator som tildeles alle virksomheter og organisasjoner som skal drives aktivt i Norge. Dette nummeret fung...'
 slug: hva-er-virksomhetsnummer
 type: blog

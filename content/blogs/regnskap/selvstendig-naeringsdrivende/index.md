@@ -1,6 +1,6 @@
 ﻿---
 title: "Selvstendig næringsdrivende"
-meta_title: "Selvstendig næringsdrivende"
+seoTitle: "Selvstendig næringsdrivende"
 meta_description: 'For en oversikt over selskapsformer, se [Hva er et Enkeltpersonforetak?](/blogs/regnskap/hva-er-enkeltpersonforetak "Hva er et Enkeltpersonforetak? Komplett Gui...'
 slug: selvstendig-naeringsdrivende
 type: blog

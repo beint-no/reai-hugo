@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er inkasso?"
-meta_title: "Hva er inkasso?"
+seoTitle: "Hva er inkasso?"
 meta_description: '**Inkasso** er prosessen med å kreve inn forfalte [fordringer](/blogs/regnskap/hva-er-kundefordring "Hva er Kundefordring? En Komplett Guide til Kundefordringe...'
 slug: hva-er-inkasso
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Konto 7860 - Tap på kontrakter?"
-meta_title: "7860-tap-pa-kontrakter"
+seoTitle: "7860-tap-pa-kontrakter"
 meta_description: '**Konto 7860 - Tap på kontrakter** er en konto i Norsk Standard Kontoplan som brukes til å registrere **tap på kontrakter** som en **driftskostnad** når kon...'
 slug: 7860-tap-pa-kontrakter
 type: blog

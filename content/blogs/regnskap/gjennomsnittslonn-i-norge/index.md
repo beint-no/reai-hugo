@@ -1,6 +1,6 @@
 ﻿---
 title: "Gjennomsnittslønn i Norge"
-meta_title: "Gjennomsnittslønn i Norge"
+seoTitle: "Gjennomsnittslønn i Norge"
 meta_description: '**Gjennomsnittslønn i Norge** gir innsikt i hvordan lønnsnivået utvikler seg over tid, mellom bransjer og på tvers av regioner. Denne artikkelen hjelper deg...'
 slug: gjennomsnittslonn-i-norge
 type: blog

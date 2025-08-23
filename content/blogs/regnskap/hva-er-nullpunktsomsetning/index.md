@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Nullpunktsomsetning (Break-Even Omsetning)?"
-meta_title: "Hva er Nullpunktsomsetning (Break-Even Omsetning)?"
+seoTitle: "Hva er Nullpunktsomsetning (Break-Even Omsetning)?"
 meta_description: '**Nullpunktsomsetning** er den kritiske [omsetningen](/blogs/regnskap/hva-er-omsetning "Hva er Omsetning? Komplett Guide til Omsetning i Regnskap og Skatt") (sa...'
 slug: hva-er-nullpunktsomsetning
 type: blog

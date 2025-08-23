@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Bilagsregistrere?"
-meta_title: "Hva er Bilagsregistrere?"
+seoTitle: "Hva er Bilagsregistrere?"
 meta_description: '**Bilagsregistrere** er den systematiske prosessen med å **registrere, organisere og arkivere** alle regnskapsbilag i en bedrift. Dette omfatter alt fra [faktu...'
 slug: hva-er-bilagsregistrere
 type: blog

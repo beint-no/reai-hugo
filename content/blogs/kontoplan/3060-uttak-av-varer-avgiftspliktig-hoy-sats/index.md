@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 3060 - Uttak av varer avgiftspliktig høy sats"
-meta_title: "3060-uttak-av-varer-avgiftspliktig-hoy-sats"
+seoTitle: "3060-uttak-av-varer-avgiftspliktig-hoy-sats"
 meta_description: '**Konto 3060 - Uttak av varer avgiftspliktig høy sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **uttak av varer** fra varelageret ...'
 slug: 3060-uttak-av-varer-avgiftspliktig-hoy-sats
 type: blog

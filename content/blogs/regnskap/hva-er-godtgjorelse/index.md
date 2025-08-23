@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er godtgjørelse (regnskap)?"
-meta_title: "Hva er godtgjørelse (regnskap)?"
+seoTitle: "Hva er godtgjørelse (regnskap)?"
 meta_description: '**Godtgjørelse** i regnskapssammenheng refererer til refusjon eller kompensasjon som utbetales til ansatte, partnere eller andre for utgifter de har hatt på v...'
 slug: hva-er-godtgjorelse
 type: blog

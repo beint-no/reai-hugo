@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er minstefradrag?"
-meta_title: "Hva er minstefradrag?"
+seoTitle: "Hva er minstefradrag?"
 meta_description: '**Minstefradrag** er et standardisert [fradrag](/blogs/regnskap/hva-er-fradrag "Hva er Fradrag i Regnskap? Komplett Guide til Skattefradrag og Regnskapsføring"...'
 slug: hva-er-minstefradrag
 type: blog

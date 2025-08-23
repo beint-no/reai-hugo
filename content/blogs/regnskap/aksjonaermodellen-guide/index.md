@@ -1,6 +1,6 @@
 ﻿---
 title: "Aksjonærmodellen - Komplett Guide til Norsk Aksjebeskatning"
-meta_title: "Aksjonærmodellen - Komplett Guide til Norsk Aksjebeskatning"
+seoTitle: "Aksjonærmodellen - Komplett Guide til Norsk Aksjebeskatning"
 meta_description: '**Aksjonærmodellen** er det sentrale skattesystemet for [aksjebeskatning](/blogs/regnskap/hva-er-en-aksje Hva er en aksje? Komplett guide til aksjer i Norge)...'
 slug: aksjonaermodellen-guide
 type: blog

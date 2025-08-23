@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Inngående Balanse i Regnskap?"
-meta_title: "Hva er Inngående Balanse i Regnskap?"
+seoTitle: "Hva er Inngående Balanse i Regnskap?"
 meta_description: '**Inngående balanse** er et fundamentalt begrep i regnskapsføring som refererer til åpningsbalansen ved begynnelsen av en ny regnskapsperiode. Den represente...'
 slug: inngaaende-balanse
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 6210 - Gass"
-meta_title: "6210-gass"
+seoTitle: "6210-gass"
 meta_description: '**Konto 6210 - Gass** er en konto i Norsk Standard Kontoplan som brukes til å registrere **gasskostnader** i virksomhetens drift.'
 slug: 6210-gass
 type: blog

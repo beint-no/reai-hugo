@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Tvangsfullbyrdelse?"
-meta_title: "Hva er Tvangsfullbyrdelse?"
+seoTitle: "Hva er Tvangsfullbyrdelse?"
 meta_description: '**Tvangsfullbyrdelse** er prosessen for å *gjøre rettskraftige krav gjeldende* gjennom offentlige namsmyndigheter, med sikte på å dekke kreditorers krav ved...'
 slug: tvangsfullbyrdelse
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er en kunde?"
-meta_title: "Hva er en kunde?"
+seoTitle: "Hva er en kunde?"
 meta_description: 'En **kunde** er en person eller organisasjon som kjøper varer eller tjenester fra en bedrift. I regnskapssammenheng representerer kunder den viktigste kilden t...'
 slug: hva-er-kunde
 type: blog

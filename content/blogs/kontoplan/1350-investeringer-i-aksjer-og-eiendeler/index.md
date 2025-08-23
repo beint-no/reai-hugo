@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 1350 - Investeringer i aksjer og eiendeler"
-meta_title: "1350-investeringer-i-aksjer-og-eiendeler"
+seoTitle: "1350-investeringer-i-aksjer-og-eiendeler"
 meta_description: '**Konto 1350 - Investeringer i aksjer og eiendeler** er en konto i Norsk Standard Kontoplan som brukes til å registrere **langsiktige investeringer** i aksjer,...'
 slug: 1350-investeringer-i-aksjer-og-eiendeler
 type: blog

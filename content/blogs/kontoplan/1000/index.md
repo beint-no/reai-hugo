@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Konto 1000 - Forskning og utvikling?"
-meta_title: "1000"
+seoTitle: "1000"
 meta_description: '**Konto 1000 - Forskning og utvikling** er en av de viktigste kontiene for virksomheter som investerer i innovasjon og utvikling av nye produkter, tjenester ell...'
 slug: 1000
 type: blog

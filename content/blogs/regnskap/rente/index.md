@@ -1,6 +1,6 @@
 ﻿---
 title: "Rente"
-meta_title: "Rente"
+seoTitle: "Rente"
 meta_description: '**Rente** er kostnaden ved å låne penger eller avkastningen ved sparing, og utgjør et grunnleggende konsept i norsk regnskapsførsel.'
 slug: rente
 type: blog

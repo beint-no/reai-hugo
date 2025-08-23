@@ -1,6 +1,6 @@
 ﻿---
 title: "hva-er-overskudd"
-meta_title: "hva-er-overskudd"
+seoTitle: "hva-er-overskudd"
 meta_description: '**Overskudd** er et sentralt begrep i regnskap og økonomi som beskriver det positive resultatet når [inntekter](/blogs/regnskap/hva-er-inntekter "Hva er Innte...'
 slug: hva-er-overskudd
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Tofaktorautentisering?"
-meta_title: "Hva er Tofaktorautentisering?"
+seoTitle: "Hva er Tofaktorautentisering?"
 meta_description: '**Tofaktorautentisering** (2FA) har blitt en kritisk sikkerhetskomponent for regnskapsførere og økonomipersonell som håndterer sensitive finansielle data. I ...'
 slug: hva-er-tofaktorautentisering
 type: blog

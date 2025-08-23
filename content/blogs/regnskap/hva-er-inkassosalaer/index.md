@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er inkassosalær?"
-meta_title: "Hva er inkassosalær?"
+seoTitle: "Hva er inkassosalær?"
 meta_description: '**Inkassosalær** er den kompensasjonen som inkassoselskaper og advokater mottar for å drive inn forfalte fordringer på vegne av kreditorer. Dette omfatter bÃ...'
 slug: hva-er-inkassosalaer
 type: blog

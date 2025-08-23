@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er reskontro?"
-meta_title: "Hva er reskontro?"
+seoTitle: "Hva er reskontro?"
 meta_description: '**Reskontro** er et regnskapsmessig **underreskontro** til [hovedboken](/blogs/regnskap/hva-er-hovedbok "Hva er Hovedbok i Regnskap? Komplett Guide til Regnskap...'
 slug: hva-er-reskontro
 type: blog

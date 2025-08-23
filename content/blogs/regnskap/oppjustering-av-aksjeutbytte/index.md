@@ -1,6 +1,6 @@
 ﻿---
 title: "Oppjustering av aksjeutbytte"
-meta_title: "Oppjustering av aksjeutbytte"
+seoTitle: "Oppjustering av aksjeutbytte"
 meta_description: '**Oppjustering av aksjeutbytte** er en prosess hvor et aksjeselskap justerer tidligere vedtatt utbytte som følge av revidert resultat, feil eller endret juridi...'
 slug: oppjustering-av-aksjeutbytte
 type: blog

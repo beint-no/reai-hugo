@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Konto 6000 - Avskrivning på bygninger og annen fast eiendom?"
-meta_title: "6000"
+seoTitle: "6000"
 meta_description: '**Konto 6000 - Avskrivning på bygninger og annen fast eiendom** er en konto i norsk kontoplan som benyttes for å fordele **anskaffelseskostnaden** til bygning...'
 slug: 6000
 type: blog

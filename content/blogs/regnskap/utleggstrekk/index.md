@@ -1,6 +1,6 @@
 ﻿---
 title: "Utleggstrekk"
-meta_title: "Utleggstrekk"
+seoTitle: "Utleggstrekk"
 meta_description: '**Utleggstrekk** er en **prosedyre** hvor arbeidsgivere pålegges å trekke deler av ansattes lønn for dekning av gjeld, basert på et varsel fra [Namsmannen](...'
 slug: utleggstrekk
 type: blog

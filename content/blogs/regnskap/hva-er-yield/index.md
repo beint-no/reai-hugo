@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Yield?"
-meta_title: "Hva er Yield?"
+seoTitle: "Hva er Yield?"
 meta_description: '**Yield** er et finansielt nøkkeltall som måler den **årlige avkastningen** på en investering uttrykt som en prosentandel av investeringens markedsverdi. De...'
 slug: hva-er-yield
 type: blog

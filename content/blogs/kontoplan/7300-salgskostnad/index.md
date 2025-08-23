@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 7300 - Salgskostnad"
-meta_title: "7300-salgskostnad"
+seoTitle: "7300-salgskostnad"
 meta_description: '**Konto 7300 - Salgskostnad** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **kostnader direkte knyttet til salgsinntekter**. S...'
 slug: 7300-salgskostnad
 type: blog

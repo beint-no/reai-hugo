@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Lønnskostnad i Regnskap?"
-meta_title: "Hva er Lønnskostnad i Regnskap?"
+seoTitle: "Hva er Lønnskostnad i Regnskap?"
 meta_description: '**Lønnskostnad** er den totale kostnaden en arbeidsgiver har for sine ansatte, og omfatter langt mer enn bare den utbetalte lønnen. Lønnskostnader inkluderer...'
 slug: lonnskostnad
 type: blog

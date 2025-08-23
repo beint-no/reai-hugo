@@ -1,6 +1,6 @@
 ﻿---
 title: "Yrkesskadeforsikring"
-meta_title: "Yrkesskadeforsikring"
+seoTitle: "Yrkesskadeforsikring"
 meta_description: 'Yrkesskadeforsikring er en lovpålagt **forsikring** som arbeidsgiver må tegne for å sikre ansatte ved yrkesskader og yrkessykdommer. Denne artikkelen gir en ...'
 slug: yrkesskadeforsikring
 type: blog

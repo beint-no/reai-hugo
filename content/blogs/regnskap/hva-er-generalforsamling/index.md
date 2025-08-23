@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Generalforsamling? Makt, Roller og Ansvar"
-meta_title: "Hva er Generalforsamling? Makt, Roller og Ansvar"
+seoTitle: "Hva er Generalforsamling? Makt, Roller og Ansvar"
 meta_description: 'En **generalforsamling** er selskapets øverste organ, der alle aksjonærer møtes for å fatte beslutninger i viktige selskapsforhold. Generalforsamlingen spil...'
 slug: hva-er-generalforsamling
 type: blog

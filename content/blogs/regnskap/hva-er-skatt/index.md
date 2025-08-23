@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Skatt?"
-meta_title: "Hva er Skatt?"
+seoTitle: "Hva er Skatt?"
 meta_description: '**Skatt** er en grunnleggende del av alle virksomheters økonomi og regnskap. Det er en obligatorisk avgift som pålegges av staten for å finansiere offentlige...'
 slug: hva-er-skatt
 type: blog

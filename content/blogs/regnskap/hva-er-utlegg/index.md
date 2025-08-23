@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Utlegg? En Komplett Guide til Utleggsregnskapet"
-meta_title: "Hva er Utlegg? En Komplett Guide til Utleggsregnskapet"
+seoTitle: "Hva er Utlegg? En Komplett Guide til Utleggsregnskapet"
 meta_description: '**Utlegg** er penger som ansatte eller andre forbundne parter legger ut på vegne av et selskap eller en organisasjon, som deretter refunderes av arbeidsgiver. ...'
 slug: hva-er-utlegg
 type: blog

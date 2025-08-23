@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Konto 1550 - Kundefordringer på selskap samme konsern?"
-meta_title: "1550-kundefordringer-pa-selskap-samme-konsern"
+seoTitle: "1550-kundefordringer-pa-selskap-samme-konsern"
 meta_description: '**Konto 1550 - Kundefordringer på selskap samme konsern** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kundefordringer** mellom selska...'
 slug: 1550-kundefordringer-pa-selskap-samme-konsern
 type: blog

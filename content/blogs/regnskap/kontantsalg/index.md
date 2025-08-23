@@ -1,6 +1,6 @@
 ﻿---
 title: "Kontantsalg – Komplett Guide til Regnskapsføring av Kontantsalg"
-meta_title: "Kontantsalg “ Komplett Guide til Regnskapsføring av Kontantsalg"
+seoTitle: "Kontantsalg “ Komplett Guide til Regnskapsføring av Kontantsalg"
 meta_description: '**Kontantsalg** er salg av varer eller tjenester hvor **kontanter** mottas umiddelbart ved transaksjonen. Dette skiller seg fra kredittsalg, der kunden betaler ...'
 slug: kontantsalg
 type: blog

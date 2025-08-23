@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er en Tariffavtale?"
-meta_title: "Hva er en Tariffavtale?"
+seoTitle: "Hva er en Tariffavtale?"
 meta_description: 'En **tariffavtale** er en skriftlig **kollektiv avtale** mellom arbeidstakerorganisasjoner og arbeidsgivere som regulerer **lønn**, **arbeidstid**, **goder** o...'
 slug: tariffavtale
 type: blog

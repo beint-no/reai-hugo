@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er kreditor?"
-meta_title: "Hva er kreditor?"
+seoTitle: "Hva er kreditor?"
 meta_description: '**Kreditor** er et sentralt begrep i [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Dybdeanalyse for Norge") og [bokføring](/blogs/regnskap/hv...'
 slug: hva-er-kreditor
 type: blog

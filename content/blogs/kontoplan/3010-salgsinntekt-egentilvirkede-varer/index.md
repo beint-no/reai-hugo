@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 3010 - Salgsinntekt egentilvirkede varer avgiftspl. høy sats"
-meta_title: "3010-salgsinntekt-egentilvirkede-varer"
+seoTitle: "3010-salgsinntekt-egentilvirkede-varer"
 meta_description: '**Konto 3010 - Salgsinntekt egentilvirkede varer avgiftspl. høy sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **salgsinntekter** f...'
 slug: 3010-salgsinntekt-egentilvirkede-varer
 type: blog

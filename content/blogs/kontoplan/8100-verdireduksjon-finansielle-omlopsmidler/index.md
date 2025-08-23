@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 8100 - Verdireduksjon finansielle omløpsmidler"
-meta_title: "8100-verdireduksjon-finansielle-omlopsmidler"
+seoTitle: "8100-verdireduksjon-finansielle-omlopsmidler"
 meta_description: '**Konto 8100 - Verdireduksjon finansielle omløpsmidler** er en konto i Norsk Standard Kontoplan som brukes til å registrere **nedskrivning** eller verdiforrin...'
 slug: 8100-verdireduksjon-finansielle-omlopsmidler
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Timeføring? Komplett Guide til Registrering og Administrasjon av Arbeidstid"
-meta_title: "Hva er Timeføring? Komplett Guide til Registrering og Administrasjon av Arbeidstid"
+seoTitle: "Hva er Timeføring? Komplett Guide til Registrering og Administrasjon av Arbeidstid"
 meta_description: '**Timeføring** er en systematisk prosess for å registrere, spore og administrere arbeidstid som ansatte bruker på ulike oppgaver, prosjekter eller kunder. I ...'
 slug: hva-er-timeforing
 type: blog

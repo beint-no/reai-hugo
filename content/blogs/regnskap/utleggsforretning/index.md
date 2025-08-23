@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Utleggsforretning?"
-meta_title: "Hva er Utleggsforretning?"
+seoTitle: "Hva er Utleggsforretning?"
 meta_description: '**Utleggsforretning** er namsmannens *første skritt* i [tvangsfullbyrdelse](/blogs/regnskap/tvangsfullbyrdelse "Hva er Tvangsfullbyrdelse? Guide til Norsk Gjel...'
 slug: utleggsforretning
 type: blog

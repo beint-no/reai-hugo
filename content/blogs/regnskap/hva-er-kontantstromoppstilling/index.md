@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Kontantstrømoppstilling? En Komplett Guide til Kontantstrømoppstilling i Norge"
-meta_title: "Hva er Kontantstrømoppstilling? En Komplett Guide til Kontantstrømoppstilling i Norge"
+seoTitle: "Hva er Kontantstrømoppstilling? En Komplett Guide til Kontantstrømoppstilling i Norge"
 meta_description: '**Kontantstrømoppstillingen** er en av de tre hovedkomponentene i finansregnskapet og gir et detaljert bilde av hvordan kontanter strømmer inn og ut av en vir...'
 slug: hva-er-kontantstromoppstilling
 type: blog

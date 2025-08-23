@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Likviditetsgrad i Regnskap?"
-meta_title: "Hva er Likviditetsgrad i Regnskap?"
+seoTitle: "Hva er Likviditetsgrad i Regnskap?"
 meta_description: '**Likviditetsgrad** er et sentralt **[finansielt nøkkeltall](/blogs/regnskap/hva-er-nokkeltall "Hva er Nøkkeltall? Komplett Guide til Finansielle Nøkkeltall ...'
 slug: hva-er-likviditetsgrad
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Nåverdi?"
-meta_title: "Hva er Nåverdi?"
+seoTitle: "Hva er Nåverdi?"
 meta_description: '**Nåverdi** (_Present Value_) er dagens verdi av fremtidige kontantstrømmer diskontert med en gitt rente. Dette er et sentralt begrep i regnskap, finans og in...'
 slug: hva-er-naverdi
 type: blog

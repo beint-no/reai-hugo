@@ -1,6 +1,6 @@
 ﻿---
 title: "Skatt på Uføretrygd"
-meta_title: "Skatt på Uføretrygd"
+seoTitle: "Skatt på Uføretrygd"
 meta_description: '**Skatt på uføretrygd** er et komplekst område innen norsk skatterett som påvirker både private uføretrygdmottakere og arbeidsgivere. [Uføretrygd](/blogs...'
 slug: skatt-pa-uforetrygd
 type: blog

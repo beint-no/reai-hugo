@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er internregnskap?"
-meta_title: "Hva er internregnskap?"
+seoTitle: "Hva er internregnskap?"
 meta_description: '**Internregnskap** er finansiell rapportering som er utarbeidet primært for **interne interessenter** som ledelse, avdelingsledere og andre beslutningstagere i...'
 slug: hva-er-internregnskap
 type: blog

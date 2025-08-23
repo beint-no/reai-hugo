@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Fond?"
-meta_title: "Hva er Fond?"
+seoTitle: "Hva er Fond?"
 meta_description: '**Fond** er en øremerket del av egenkapitalen som er bundet til et bestemt formål eller reserve. I norsk regnskap skilles det mellom **bundne fond** og **frie...'
 slug: hva-er-fond
 type: blog

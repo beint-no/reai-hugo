@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Aksjeloven?"
-meta_title: "Hva er Aksjeloven?"
+seoTitle: "Hva er Aksjeloven?"
 meta_description: '**Aksjeloven** er reglene som forteller hvordan du starter og driver selskaper med aksjer i Norge. Loven dekker alt fra hvordan du setter opp et selskap, til hv...'
 slug: hva-er-aksjeloven
 type: blog

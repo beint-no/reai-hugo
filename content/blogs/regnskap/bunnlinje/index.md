@@ -1,6 +1,6 @@
 ﻿---
 title: "Bunnlinje i Norsk Regnskap"
-meta_title: "Bunnlinje i Norsk Regnskap"
+seoTitle: "Bunnlinje i Norsk Regnskap"
 meta_description: '**Bunnlinje**, også kjent som **nettoresultat**, er det endelige resultatet i regnskapet som viser bedriftens lønnsomhet etter at alle kostnader, finansposter...'
 slug: bunnlinje
 type: blog

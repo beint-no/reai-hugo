@@ -1,6 +1,6 @@
 ﻿---
 title: "hva-er-morselskap"
-meta_title: "hva-er-morselskap"
+seoTitle: "hva-er-morselskap"
 meta_description: 'Et **morselskap** er et selskap som har bestemmende innflytelse over ett eller flere andre selskaper ([datterselskaper](/blogs/regnskap/datterselskap "Hva er Da...'
 slug: hva-er-morselskap
 type: blog

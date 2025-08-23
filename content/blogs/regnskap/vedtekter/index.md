@@ -1,6 +1,6 @@
 ﻿---
 title: "Vedtekter: Definisjon, Krav og Betydning i Norsk Regnskap"
-meta_title: "Vedtekter: Definisjon, Krav og Betydning i Norsk Regnskap"
+seoTitle: "Vedtekter: Definisjon, Krav og Betydning i Norsk Regnskap"
 meta_description: '**Vedtekter** er selskapets grunnleggende **styringsdokument** som fastsetter selskapets organisering, formål, kapitalstruktur og beslutningsprosesser. I norsk...'
 slug: vedtekter
 type: blog

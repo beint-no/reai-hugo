@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Bokføringsregler? Komplett Guide til Norske Bokføringsstandarder"
-meta_title: "Hva er Bokføringsregler? Komplett Guide til Norske Bokføringsstandarder"
+seoTitle: "Hva er Bokføringsregler? Komplett Guide til Norske Bokføringsstandarder"
 meta_description: '**Bokføringsregler** utgjør det juridiske og praktiske rammeverket som regulerer hvordan norske virksomheter skal registrere, klassifisere og rapportere sine ...'
 slug: hva-er-bokforingsregler
 type: blog

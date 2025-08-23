@@ -1,6 +1,6 @@
 ﻿---
 title: "Fremførbart underskudd"
-meta_title: "Fremførbart underskudd"
+seoTitle: "Fremførbart underskudd"
 meta_description: '**Fremførbart underskudd** gir mulighet til å utsette skattebetaling ved negativt skattemessig resultat ved å fremføre underskudd til senere år. Dette er e...'
 slug: fremforbart-underskudd
 type: blog

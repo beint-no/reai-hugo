@@ -1,6 +1,6 @@
 ﻿---
 title: "Revisjon"
-meta_title: "Revisjon"
+seoTitle: "Revisjon"
 meta_description: 'Revisjon er en **uavhengig vurdering** av en virksomhets årsregnskap og regnskapssystemer utført av kvalifiserte [revisorer](/blogs/regnskap/revisor "Revisor"...'
 slug: revisjon
 type: blog

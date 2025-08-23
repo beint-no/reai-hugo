@@ -1,6 +1,6 @@
 ﻿---
 title: "Kontantkasse i Regnskap – Guide til Bruk og Håndtering"
-meta_title: "Kontantkasse i Regnskap “ Guide til Bruk og Håndtering"
+seoTitle: "Kontantkasse i Regnskap “ Guide til Bruk og Håndtering"
 meta_description: '**Kontantkasse** er den fysiske boksen eller kassen som bedrifter bruker til oppbevaring og registrering av **kontanter** fra salg og andre innbetalinger. En ko...'
 slug: kontantkasse
 type: blog

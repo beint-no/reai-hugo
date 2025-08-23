@@ -1,6 +1,6 @@
 ﻿---
 title: "Budsjett"
-meta_title: "Budsjett"
+seoTitle: "Budsjett"
 meta_description: '**Budsjett** er en detaljert plan over forventede inntekter og [utgifter](/blogs/regnskap/utgift "Utgift “ Komplett Guide til Utgifter i Norsk Regnskap") for ...'
 slug: budsjett
 type: blog

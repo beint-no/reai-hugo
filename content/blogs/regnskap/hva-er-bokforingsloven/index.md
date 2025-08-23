@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Bokføringsloven? Komplett Guide til Norsk Bokføringslovgivning"
-meta_title: "Hva er Bokføringsloven? Komplett Guide til Norsk Bokføringslovgivning"
+seoTitle: "Hva er Bokføringsloven? Komplett Guide til Norsk Bokføringslovgivning"
 meta_description: '**Bokføringsloven** er det sentrale lovverket som regulerer hvordan norske bedrifter skal føre [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En...'
 slug: hva-er-bokforingsloven
 type: blog

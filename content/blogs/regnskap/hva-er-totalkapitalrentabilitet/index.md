@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Totalkapitalrentabilitet?"
-meta_title: "Hva er Totalkapitalrentabilitet?"
+seoTitle: "Hva er Totalkapitalrentabilitet?"
 meta_description: '**Totalkapitalrentabilitet** (Return on Total Capital) er et **nøkkeltall** som måler hvor effektivt en virksomhet bruker sin totale kapital (**totalkapitalen...'
 slug: hva-er-totalkapitalrentabilitet
 type: blog

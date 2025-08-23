@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Deflasjon?"
-meta_title: "Hva er Deflasjon?"
+seoTitle: "Hva er Deflasjon?"
 meta_description: '**Deflasjon** er den generelle nedgangen i prisnivået på varer og tjenester over tid, som resulterer i økt kjøpekraft for penger. Dette fenomenet er motstyk...'
 slug: hva-er-deflasjon
 type: blog

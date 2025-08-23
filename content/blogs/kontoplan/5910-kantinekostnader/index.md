@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Konto 5910 - Kantinekostnader?"
-meta_title: "5910-kantinekostnader"
+seoTitle: "5910-kantinekostnader"
 meta_description: '**Konto 5910 - Kantinekostnader** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **kantinekostnader** som en **ansattfordel*...'
 slug: 5910-kantinekostnader
 type: blog

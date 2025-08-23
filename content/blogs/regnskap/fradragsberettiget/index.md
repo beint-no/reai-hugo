@@ -1,6 +1,6 @@
 ﻿---
 title: "Fradragsberettiget"
-meta_title: "Fradragsberettiget"
+seoTitle: "Fradragsberettiget"
 meta_description: '**Fradragsberettiget** beskriver når en kostnad eller [utgift](/blogs/regnskap/utgift "Utgift “ Komplett Guide til Utgifter i Norsk Regnskap") kan trekkes fr...'
 slug: fradragsberettiget
 type: blog

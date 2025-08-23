@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er MVA-registeret?"
-meta_title: "Hva er MVA-registeret?"
+seoTitle: "Hva er MVA-registeret?"
 meta_description: '**MVA-registeret** er Skatteetatens offisielle register over alle virksomheter som er registrert for [merverdiavgift](/blogs/regnskap/hva-er-avgiftsplikt-mva "H...'
 slug: hva-er-mva-registeret
 type: blog

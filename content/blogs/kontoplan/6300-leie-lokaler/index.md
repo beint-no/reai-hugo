@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 6300 - Leie lokaler"
-meta_title: "6300-leie-lokaler"
+seoTitle: "6300-leie-lokaler"
 meta_description: '**Konto 6300 - Leie lokaler** er en konto i Norsk Standard Kontoplan som brukes til å registrere **leie av lokaler** i virksomhetens drift.'
 slug: 6300-leie-lokaler
 type: blog

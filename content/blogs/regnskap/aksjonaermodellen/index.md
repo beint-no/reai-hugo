@@ -1,6 +1,6 @@
 ﻿---
 title: "Aksjonærmodellen"
-meta_title: "Aksjonærmodellen"
+seoTitle: "Aksjonærmodellen"
 meta_description: '**Aksjonærmodellen** er den skattemessige modellen som regulerer **beskatning av utbytte og gevinst** for [aksjonærer](/blogs/regnskap/hva-er-en-aksjonaer Hv...'
 slug: aksjonaermodellen
 type: blog

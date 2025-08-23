@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 3100 - Salgsinntekt handelsvarer avgiftsfri"
-meta_title: "3100-salgsinntekt-handelsvarer-avgiftsfri"
+seoTitle: "3100-salgsinntekt-handelsvarer-avgiftsfri"
 meta_description: '**Konto 3100 - Salgsinntekt handelsvarer avgiftsfri** er en konto i Norsk Standard Kontoplan som brukes til å registrere **salgsinntekter** fra **handelsvarer*...'
 slug: 3100-salgsinntekt-handelsvarer-avgiftsfri
 type: blog

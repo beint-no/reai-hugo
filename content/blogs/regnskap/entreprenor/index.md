@@ -1,6 +1,6 @@
 ﻿---
 title: "Entreprenør"
-meta_title: "Entreprenør"
+seoTitle: "Entreprenør"
 meta_description: '**Entreprenør** er en person eller virksomhet som påtar seg ansvaret for å planlegge, utføre og levere bygge- og anleggsarbeider, prosjekter eller tjenester...'
 slug: entreprenor
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er goodwill?"
-meta_title: "Hva er goodwill?"
+seoTitle: "Hva er goodwill?"
 meta_description: '**Goodwill** er en **immateriell [eiendel](/blogs/regnskap/hva-er-eiendel "Hva er Eiendel i Regnskap? Komplett Guide til Eiendom og Verdier")** som oppstår nå...'
 slug: hva-er-goodwill
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er ERP-system?"
-meta_title: "Hva er ERP-system?"
+seoTitle: "Hva er ERP-system?"
 meta_description: 'Et **ERP-system** (Enterprise Resource Planning) er en integrert programvareløsning som samler og koordinerer alle kjerneforretningsprosessene i en organisasjo...'
 slug: hva-er-erp-system
 type: blog

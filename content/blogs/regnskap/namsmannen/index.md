@@ -1,6 +1,6 @@
 ﻿---
 title: "namsmannen"
-meta_title: "namsmannen"
+seoTitle: "namsmannen"
 meta_description: '**Namsmannen**'
 slug: namsmannen
 type: blog

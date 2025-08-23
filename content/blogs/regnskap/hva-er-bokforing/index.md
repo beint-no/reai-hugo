@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Bokføring? En Komplett Guide til Norsk Bokføringspraksis"
-meta_title: "Hva er Bokføring? En Komplett Guide til Norsk Bokføringspraksis"
+seoTitle: "Hva er Bokføring? En Komplett Guide til Norsk Bokføringspraksis"
 meta_description: '**Bokføring** er grunnstenen i enhver virksomhets økonomiske styring og den systematiske registreringen av alle finansielle transaksjoner. Som et lovpålagt k...'
 slug: hva-er-bokforing
 type: blog

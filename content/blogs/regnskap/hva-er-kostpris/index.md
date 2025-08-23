@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er kostpris?"
-meta_title: "Hva er kostpris?"
+seoTitle: "Hva er kostpris?"
 meta_description: '**Kostpris** er den totale kostnaden det koster å produsere, kjøpe inn eller fremstille en vare eller tjeneste. Dette er et grunnleggende regnskapskonsept som...'
 slug: hva-er-kostpris
 type: blog

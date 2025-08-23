@@ -1,6 +1,6 @@
 ﻿---
 title: "Transaksjon"
-meta_title: "Transaksjon"
+seoTitle: "Transaksjon"
 meta_description: 'En **transaksjon** er enhver økonomisk hendelse eller bytte av verdier mellom to parter som påvirker et foretaks **finansielle stilling**. I norsk regnskap da...'
 slug: transaksjon
 type: blog

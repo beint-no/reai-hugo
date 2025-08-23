@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er kontantfaktura?"
-meta_title: "Hva er kontantfaktura?"
+seoTitle: "Hva er kontantfaktura?"
 meta_description: 'En **kontantfaktura** er en spesiell type [faktura](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav") som krever umiddelba...'
 slug: hva-er-kontantfaktura
 type: blog

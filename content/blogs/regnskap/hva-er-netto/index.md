@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Netto i Regnskap?"
-meta_title: "Hva er Netto i Regnskap?"
+seoTitle: "Hva er Netto i Regnskap?"
 meta_description: '**Netto** er et fundamentalt begrep i [regnskapet](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide") som refererer til **beløpet som gjenst...'
 slug: hva-er-netto
 type: blog

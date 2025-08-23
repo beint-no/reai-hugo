@@ -1,6 +1,6 @@
 ﻿---
 title: "Feriepenger i prosent"
-meta_title: "Feriepenger i prosent"
+seoTitle: "Feriepenger i prosent"
 meta_description: '**Feriepenger i prosent** er satsen som benyttes for å beregne **feriepenger** i henhold til **[Ferieloven](/blogs/regnskap/ferieloven "Ferieloven “ Lov om f...'
 slug: feriepenger-i-prosent
 type: blog

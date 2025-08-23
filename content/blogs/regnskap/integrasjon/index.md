@@ -1,6 +1,6 @@
 ﻿---
 title: "Integrasjon"
-meta_title: "Integrasjon"
+seoTitle: "Integrasjon"
 meta_description: '**Integrasjon** er prosessen med å koble sammen ulike systemer, databaser og programvare for å oppnå en **sømløs dataflyt** mellom forretningsapplikasjoner...'
 slug: integrasjon
 type: blog

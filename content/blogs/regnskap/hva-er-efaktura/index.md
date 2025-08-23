@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er eFaktura?"
-meta_title: "Hva er eFaktura?"
+seoTitle: "Hva er eFaktura?"
 meta_description: '**eFaktura** er Norges elektroniske faktureringssystem som revolusjonerer måten bedrifter og privatpersoner håndterer [fakturaer](/blogs/regnskap/hva-er-en-fa...'
 slug: hva-er-efaktura
 type: blog

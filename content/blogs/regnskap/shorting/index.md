@@ -1,6 +1,6 @@
 ﻿---
 title: "Shorting (Short-salg)"
-meta_title: "Shorting (Short-salg)"
+seoTitle: "Shorting (Short-salg)"
 meta_description: 'En **shorting** (også kalt *short-salg*) er en spekulativ strategi der en investor låner og selger **aksjer** fra en meglervirksomhet med forventning om at ak...'
 slug: shorting
 type: blog

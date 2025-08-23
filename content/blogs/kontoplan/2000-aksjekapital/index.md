@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 2000 - Aksjekapital"
-meta_title: "2000-aksjekapital"
+seoTitle: "2000-aksjekapital"
 meta_description: '**Konto 2000 - Aksjekapital** er den første kontoen innen **egenkapital** i Norsk Standard Kontoplan (NSÂ 4102). Denne kontoen brukes for å registrere aksjonÃ...'
 slug: 2000-aksjekapital
 type: blog

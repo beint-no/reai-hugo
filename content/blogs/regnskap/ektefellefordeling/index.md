@@ -1,6 +1,6 @@
 ﻿---
 title: "Ektefellefordeling"
-meta_title: "Ektefellefordeling"
+seoTitle: "Ektefellefordeling"
 meta_description: 'Ektefellefordeling er et sentralt prinsipp i norsk skatterett som gir ektefeller mulighet til å fordele visse **fradrag** og **inntekter** mellom seg for å op...'
 slug: ektefellefordeling
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Vederlag i Regnskap?"
-meta_title: "Hva er Vederlag i Regnskap?"
+seoTitle: "Hva er Vederlag i Regnskap?"
 meta_description: '**Vederlag** i regnskap refererer til den **økonomiske kompensasjonen** som mottas eller ytes som betaling for varer, tjenester eller andre ytelser. Dette er e...'
 slug: hva-er-vederlag
 type: blog

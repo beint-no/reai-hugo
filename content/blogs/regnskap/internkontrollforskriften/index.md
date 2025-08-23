@@ -1,6 +1,6 @@
 ﻿---
 title: "Internkontrollforskriften"
-meta_title: "Internkontrollforskriften"
+seoTitle: "Internkontrollforskriften"
 meta_description: '**Internkontrollforskriften** (FOR-2016-12-06-1721) fastsetter krav til internkontroll i virksomheter som faller inn under arbeidsmiljøloven Â§–¯3-1. Denne fo...'
 slug: internkontrollforskriften
 type: blog

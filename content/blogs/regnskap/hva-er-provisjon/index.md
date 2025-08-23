@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Provisjon?"
-meta_title: "Hva er Provisjon?"
+seoTitle: "Hva er Provisjon?"
 meta_description: '**Provisjon** er en prestasjonsbasert form for [lønn](/blogs/regnskap/hva-er-lonnskostnader "Hva er Lønnskostnader? Komplett Guide til Lønnskostnader i Regns...'
 slug: hva-er-provisjon
 type: blog

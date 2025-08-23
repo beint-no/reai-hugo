@@ -1,6 +1,6 @@
 ﻿---
 title: "Ansvarlig Selskap (ANS) og Delt Ansvar (DA)"
-meta_title: "Ansvarlig Selskap (ANS) og Delt Ansvar (DA)"
+seoTitle: "Ansvarlig Selskap (ANS) og Delt Ansvar (DA)"
 meta_description: 'Et **ansvarlig selskap (ANS)**, også kalt **DA (Delt Ansvar)**, er en [foretaksform](/blogs/regnskap/hva-er-foretak Hva er et Foretak? Komplett Guide til Fore...'
 slug: ansvarlig-selskap-delt-ansvar
 type: blog

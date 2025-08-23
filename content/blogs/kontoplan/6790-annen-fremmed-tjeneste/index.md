@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 6790 - Annen fremmed tjeneste"
-meta_title: "6790-annen-fremmed-tjeneste"
+seoTitle: "6790-annen-fremmed-tjeneste"
 meta_description: '**Konto 6790 - Annen fremmed tjeneste** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kostnader for eksterne tjenester** som ikke dekkes...'
 slug: 6790-annen-fremmed-tjeneste
 type: blog

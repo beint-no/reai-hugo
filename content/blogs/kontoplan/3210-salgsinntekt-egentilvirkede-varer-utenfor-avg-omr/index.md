@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 3210 - Salgsinntekt egentilvirkede varer utenfor avg.omr"
-meta_title: "3210-salgsinntekt-egentilvirkede-varer-utenfor-avg-omr"
+seoTitle: "3210-salgsinntekt-egentilvirkede-varer-utenfor-avg-omr"
 meta_description: '**Konto 3210 - Salgsinntekt egentilvirkede varer utenfor avg.omr** er en konto i Norsk Standard Kontoplan som brukes til å registrere **salgsinntekter** fra **...'
 slug: 3210-salgsinntekt-egentilvirkede-varer-utenfor-avg-omr
 type: blog

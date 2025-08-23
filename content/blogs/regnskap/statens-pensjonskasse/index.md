@@ -1,6 +1,6 @@
 ﻿---
 title: "Statens pensjonskasse"
-meta_title: "Statens pensjonskasse"
+seoTitle: "Statens pensjonskasse"
 meta_description: '![Statens pensjonskasse](statens-pensjonskasse-image.svg)'
 slug: statens-pensjonskasse
 type: blog

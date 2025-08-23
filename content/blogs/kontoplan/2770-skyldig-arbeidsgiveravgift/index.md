@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 2770 - Skyldig arbeidsgiveravgift"
-meta_title: "2770-skyldig-arbeidsgiveravgift"
+seoTitle: "2770-skyldig-arbeidsgiveravgift"
 meta_description: '**Konto 2770 - Skyldig arbeidsgiveravgift** er en konto i Norsk Standard Kontoplan som brukes til å registrere **arbeidsgiveravgift** som påløper på [lønn]...'
 slug: 2770-skyldig-arbeidsgiveravgift
 type: blog

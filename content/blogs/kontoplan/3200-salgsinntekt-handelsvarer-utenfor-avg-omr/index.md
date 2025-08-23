@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 3200 - Salgsinntekt handelsvarer utenfor avg.omr"
-meta_title: "3200-salgsinntekt-handelsvarer-utenfor-avg-omr"
+seoTitle: "3200-salgsinntekt-handelsvarer-utenfor-avg-omr"
 meta_description: '**Konto 3200 - Salgsinntekt handelsvarer utenfor avg.omr** er en konto i Norsk Standard Kontoplan som brukes til å registrere **salgsinntekter** fra **handelsv...'
 slug: 3200-salgsinntekt-handelsvarer-utenfor-avg-omr
 type: blog

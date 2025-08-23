@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Konsernbidrag?"
-meta_title: "Hva er Konsernbidrag?"
+seoTitle: "Hva er Konsernbidrag?"
 meta_description: '**Konsernbidrag** er en skattemessig ordning som gir selskaper i samme konsern mulighet til å overføre underskudd og overskudd mellom seg. Dette er et viktig ...'
 slug: hva-er-konsernbidrag
 type: blog

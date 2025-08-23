@@ -1,6 +1,6 @@
 ﻿---
 title: "Tariff"
-meta_title: "Tariff"
+seoTitle: "Tariff"
 meta_description: '**Tariff** er et begrep som beskriver **kollektive avtaler** om lønns- og arbeidsvilkår for bestemte bransjer eller grupper av ansatte. Slike avtaler forhandl...'
 slug: tariff
 type: blog

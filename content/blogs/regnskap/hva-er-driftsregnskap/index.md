@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er driftsregnskap?"
-meta_title: "Hva er driftsregnskap?"
+seoTitle: "Hva er driftsregnskap?"
 meta_description: '**Driftsregnskap** er den delen av [regnskapet](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? Komplett Guide til Regnskapsføring i Norge") som viser bedrif...'
 slug: hva-er-driftsregnskap
 type: blog

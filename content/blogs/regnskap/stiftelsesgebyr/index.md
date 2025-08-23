@@ -1,6 +1,6 @@
 ﻿---
 title: "Stiftelsesgebyr"
-meta_title: "Stiftelsesgebyr"
+seoTitle: "Stiftelsesgebyr"
 meta_description: '**Stiftelsesgebyr** er gebyret som påløper ved registrering av en ny enhet i [Brønnøysundregistrene](/blogs/regnskap/hva-er-bronnoeysundregistrene "Hva er B...'
 slug: stiftelsesgebyr
 type: blog

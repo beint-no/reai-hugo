@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Skattefunn?"
-meta_title: "Hva er Skattefunn?"
+seoTitle: "Hva er Skattefunn?"
 meta_description: '**Skattefunn** er en statlig ordning som gir **skattefradrag** for kostnader knyttet til forskning og utvikling (FoU) i norske bedrifter. Ordningen administrere...'
 slug: skattefunn
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Medsalgsplikt?"
-meta_title: "Hva er Medsalgsplikt?"
+seoTitle: "Hva er Medsalgsplikt?"
 meta_description: '**Medsalgsplikt** oppstår når en virksomhet selger varer på vegne av en annen part (*kommisjonær*), og må beregne og innrapportere merverdiavgift som om de...'
 slug: medsalgsplikt
 type: blog

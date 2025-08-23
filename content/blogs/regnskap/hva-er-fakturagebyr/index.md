@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er fakturagebyr?"
-meta_title: "Hva er fakturagebyr?"
+seoTitle: "Hva er fakturagebyr?"
 meta_description: 'Et **fakturagebyr** er et tilleggsgebyr som en leverandør kan kreve fra kunden for å dekke administrative kostnader knyttet til fakturering og betalingsbehand...'
 slug: hva-er-fakturagebyr
 type: blog

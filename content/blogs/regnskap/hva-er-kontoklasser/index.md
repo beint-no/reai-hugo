@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er kontoklasser?"
-meta_title: "Hva er kontoklasser?"
+seoTitle: "Hva er kontoklasser?"
 meta_description: '**Kontoklasser** er det systematiske klassifiseringssystemet som danner ryggraden i norsk [bokføring](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? En K...'
 slug: hva-er-kontoklasser
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 6800 - Kontorrekvisita"
-meta_title: "6800-kontorrekvisita"
+seoTitle: "6800-kontorrekvisita"
 meta_description: '**Konto 6800 - Kontorrekvisita** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **kostnader til kontorrekvisita** som penner, pa...'
 slug: 6800-kontorrekvisita
 type: blog

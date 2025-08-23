@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er GTIN/EAN?"
-meta_title: "Hva er GTIN/EAN?"
+seoTitle: "Hva er GTIN/EAN?"
 meta_description: '**GTIN (Global Trade Item Number)** og **EAN (European Article Number)** er globale standarder for produktidentifikasjon som spiller en kritisk rolle i moderne ...'
 slug: hva-er-gtin-ean
 type: blog

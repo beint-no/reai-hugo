@@ -1,6 +1,6 @@
 ﻿---
 title: "Proff.no – Oversikt og Brukerveiledning"
-meta_title: "Proff.no “ Oversikt og Brukerveiledning"
+seoTitle: "Proff.no “ Oversikt og Brukerveiledning"
 meta_description: '![Proff.no “ Oversikt og Brukerveiledning](proff-no-image.svg)'
 slug: proff-no
 type: blog

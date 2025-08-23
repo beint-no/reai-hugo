@@ -1,6 +1,6 @@
 ﻿---
 title: "Organisasjonsform"
-meta_title: "Organisasjonsform"
+seoTitle: "Organisasjonsform"
 meta_description: '**Organisasjonsform** er den juridiske og økonomiske strukturen som definerer hvordan en virksomhet er organisert, eiet og drevet. Valg av organisasjonsform er...'
 slug: organisasjonsform
 type: blog

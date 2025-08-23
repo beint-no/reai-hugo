@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Bokettersyn i Regnskap?"
-meta_title: "Hva er Bokettersyn i Regnskap?"
+seoTitle: "Hva er Bokettersyn i Regnskap?"
 meta_description: '**Bokettersyn** er en kontrollaktivitet utført av **Skatteetaten** og andre offentlige instanser for å verifisere at virksomhetens [bokføringsplikt](/blogs/r...'
 slug: bokettersyn
 type: blog

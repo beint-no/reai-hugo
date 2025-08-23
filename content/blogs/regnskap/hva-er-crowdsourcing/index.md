@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Crowdsourcing i Regnskap?"
-meta_title: "Hva er Crowdsourcing i Regnskap?"
+seoTitle: "Hva er Crowdsourcing i Regnskap?"
 meta_description: '**Crowdsourcing** i regnskapssammenheng refererer til hvordan bedrifter kan bruke **folkefinansiering** og eksterne ressurser for å finansiere prosjekter og op...'
 slug: hva-er-crowdsourcing
 type: blog

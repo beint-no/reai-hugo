@@ -1,6 +1,6 @@
 ﻿---
 title: "Frivillig Innskuddspensjon"
-meta_title: "Frivillig Innskuddspensjon"
+seoTitle: "Frivillig Innskuddspensjon"
 meta_description: '![Illustrasjon av Frivillig Innskuddspensjon](frivillig-innskuddspensjon-image.svg)'
 slug: frivillig-innskuddspensjon
 type: blog

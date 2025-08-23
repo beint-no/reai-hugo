@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Skjermingsfradrag?"
-meta_title: "Hva er Skjermingsfradrag?"
+seoTitle: "Hva er Skjermingsfradrag?"
 meta_description: '**Skjermingsfradrag** er en viktig skattemessig regel som gir aksjonærer fradrag for alternativkostnaden ved å investere egenkapital i et aksjeselskap fremfor...'
 slug: hva-er-skjermingsfradrag
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Trinnskatt"
-meta_title: "Trinnskatt"
+seoTitle: "Trinnskatt"
 meta_description: '![Trinnskatt](trinnskatt-image.svg)'
 slug: trinnskatt
 type: blog

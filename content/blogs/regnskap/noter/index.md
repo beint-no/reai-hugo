@@ -1,6 +1,6 @@
 ﻿---
 title: "Noter"
-meta_title: "Noter"
+seoTitle: "Noter"
 meta_description: '**Noter** er en integrert del av årsregnskapet som gir **detaljerte forklaringer** og tilleggsinformasjon til tallene i balanse, resultatregnskap og kontantstr...'
 slug: noter
 type: blog

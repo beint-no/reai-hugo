@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Avanse?"
-meta_title: "Hva er Avanse?"
+seoTitle: "Hva er Avanse?"
 meta_description: '**Avanse** er en forskuddsbetaling som kunden betaler til leverandøren før varer eller tjenester leveres. Dette er en vanlig forretningspraksis som sikrer kon...'
 slug: hva-er-avanse
 type: blog

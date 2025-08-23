@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 3920 - Utgående gebyrer, avgiftspliktig"
-meta_title: "3920-utgaende-gebyrer-avgiftspliktig"
+seoTitle: "3920-utgaende-gebyrer-avgiftspliktig"
 meta_description: '**Konto 3920 - Utgående gebyrer, avgiftspliktig** er en konto i Norsk Standard Kontoplan som brukes til å registrere **avgiftspliktige gebyrer** (for eksempel...'
 slug: 3920-utgaende-gebyrer-avgiftspliktig
 type: blog

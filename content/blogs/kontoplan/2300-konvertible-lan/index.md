@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 2300 - Konvertible lån"
-meta_title: "2300-konvertible-lan"
+seoTitle: "2300-konvertible-lan"
 meta_description: '**Konto 2300 - Konvertible lån** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **konvertible lån**, dvs. lån som gir långiv...'
 slug: 2300-konvertible-lan
 type: blog

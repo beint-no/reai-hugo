@@ -1,6 +1,6 @@
 ﻿---
 title: "Pendlerfradrag"
-meta_title: "Pendlerfradrag"
+seoTitle: "Pendlerfradrag"
 meta_description: '**Pendlerfradrag** er et **skattefradrag** for ansatte som pendler mellom hjem og arbeidssted og har dokumenterte merutgifter til reise, kost og losji. Dette fr...'
 slug: pendlerfradrag
 type: blog

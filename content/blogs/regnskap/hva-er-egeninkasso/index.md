@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er egeninkasso?"
-meta_title: "Hva er egeninkasso?"
+seoTitle: "Hva er egeninkasso?"
 meta_description: '**Egeninkasso** er når en kreditor selv driver inkassovirksomhet for å kreve inn forfalte fordringer, i stedet for å overlate oppgaven til et profesjonelt in...'
 slug: hva-er-egeninkasso
 type: blog

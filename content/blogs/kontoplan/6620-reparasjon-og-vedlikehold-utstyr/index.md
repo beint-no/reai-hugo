@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 6620 - Reparasjon og vedlikehold utstyr"
-meta_title: "6620-reparasjon-og-vedlikehold-utstyr"
+seoTitle: "6620-reparasjon-og-vedlikehold-utstyr"
 meta_description: '**Konto 6620 - Reparasjon og vedlikehold utstyr** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kostnader til reparasjon og vedlikehold ...'
 slug: 6620-reparasjon-og-vedlikehold-utstyr
 type: blog

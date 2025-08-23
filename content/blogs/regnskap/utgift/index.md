@@ -1,6 +1,6 @@
 ﻿---
 title: "Utgift"
-meta_title: "Utgift"
+seoTitle: "Utgift"
 meta_description: '**Utgift** er en **betaling** eller annen form for forbruk av økonomiske ressurser som medfører en reduksjon i virksomhetens likvide midler eller økning i gj...'
 slug: utgift
 type: blog

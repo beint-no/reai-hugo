@@ -1,6 +1,6 @@
 ﻿---
 title: "Resultatregnskap"
-meta_title: "Resultatregnskap"
+seoTitle: "Resultatregnskap"
 meta_description: '**Resultatregnskap** er en oppstilling av en virksomhets **inntekter**, **kostnader**, **gevinster** og **tap** i en regnskapsperiode, som til slutt viser **[Å...'
 slug: resultatregnskap
 type: blog

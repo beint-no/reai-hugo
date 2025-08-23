@@ -1,6 +1,6 @@
 ﻿---
 title: "Utsatt skattefordel"
-meta_title: "Utsatt skattefordel"
+seoTitle: "Utsatt skattefordel"
 meta_description: '**Utsatt skattefordel** er en regnskapsmessig eiendel som oppstår når midlertidige skattemessige forskjeller vil føre til skattemessige fradrag i fremtiden.'
 slug: utsatt-skattefordel
 type: blog

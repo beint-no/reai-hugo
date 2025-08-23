@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er varige driftsmidler?"
-meta_title: "Hva er varige driftsmidler?"
+seoTitle: "Hva er varige driftsmidler?"
 meta_description: '**Varige driftsmidler** er en type [driftsmidler](/blogs/regnskap/driftsmidler "Driftsmidler “ Komplett guide til betydning, klassifisering og regnskapsbehand...'
 slug: hva-er-varige-driftsmidler
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er fiskerfradrag?"
-meta_title: "Hva er fiskerfradrag?"
+seoTitle: "Hva er fiskerfradrag?"
 meta_description: '**Fiskerfradrag** er et særskilt **skattefradrag** for fiskeri- og havbruksnæringen i Norge. Denne artikkelen gir en detaljert gjennomgang av vilkår, beregni...'
 slug: hva-er-fiskerfradrag
 type: blog

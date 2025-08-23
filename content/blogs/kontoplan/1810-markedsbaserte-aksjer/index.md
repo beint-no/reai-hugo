@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 1810 - Markedsbaserte aksjer"
-meta_title: "1810-markedsbaserte-aksjer"
+seoTitle: "1810-markedsbaserte-aksjer"
 meta_description: '**Konto 1810 - Markedsbaserte aksjer** er en konto i Norsk Standard Kontoplan som brukes for å registrere **markedsbaserte aksjer** som omsettes på regulerte ...'
 slug: 1810-markedsbaserte-aksjer
 type: blog

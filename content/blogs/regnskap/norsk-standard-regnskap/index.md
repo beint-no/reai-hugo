@@ -1,6 +1,6 @@
 ﻿---
 title: "Norsk standard (regnskap)"
-meta_title: "Norsk standard (regnskap)"
+seoTitle: "Norsk standard (regnskap)"
 meta_description: '**Norske regnskapsstandarder** utgjør det juridiske og tekniske rammeverket som regulerer finansiell rapportering i Norge. Dette omfattende systemet sikrer kon...'
 slug: norsk-standard-regnskap
 type: blog

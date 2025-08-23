@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 2980 - Avsetninger og forpliktelser"
-meta_title: "2980-avsetninger-og-forpliktelser"
+seoTitle: "2980-avsetninger-og-forpliktelser"
 meta_description: '**Konto 2980 - Avsetninger og forpliktelser** er en konto i Norsk Standard Kontoplan som brukes til å oppsummere **avsetninger og forpliktelser**, inkludert ul...'
 slug: 2980-avsetninger-og-forpliktelser
 type: blog

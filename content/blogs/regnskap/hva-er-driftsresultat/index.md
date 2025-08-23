@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er driftsresultat?"
-meta_title: "Hva er driftsresultat?"
+seoTitle: "Hva er driftsresultat?"
 meta_description: '**Driftsresultat** er et av de viktigste nøkkeltallene i [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Komplett Guide til Regnskapsføring") ...'
 slug: hva-er-driftsresultat
 type: blog

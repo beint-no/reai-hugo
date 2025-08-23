@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er opplysningsplikt?"
-meta_title: "Hva er opplysningsplikt?"
+seoTitle: "Hva er opplysningsplikt?"
 meta_description: '**Opplysningsplikt** er det lovpålagte ansvaret bedrifter og organisasjoner har for å rapportere økonomisk og administrativ informasjon til offentlige myndig...'
 slug: hva-er-opplysningsplikt
 type: blog

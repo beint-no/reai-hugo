@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er internkontroll?"
-meta_title: "Hva er internkontroll?"
+seoTitle: "Hva er internkontroll?"
 meta_description: '**Internkontroll** er et omfattende system av prosesser, retningslinjer og prosedyrer som er utformet for å sikre at en organisasjon oppnår sine mål innenfor...'
 slug: hva-er-internkontroll
 type: blog

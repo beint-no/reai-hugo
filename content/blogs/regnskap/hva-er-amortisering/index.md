@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er amortisering?"
-meta_title: "Hva er amortisering?"
+seoTitle: "Hva er amortisering?"
 meta_description: '**Amortisering** er en regnskapsmessig metode for å fordele [kostnaden](/blogs/regnskap/hva-er-kostnader "Hva er Kostnader i Regnskap? Komplett Guide til Kostn...'
 slug: hva-er-amortisering
 type: blog

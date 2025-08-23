@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Fagforening? Regnskap for Fagforeninger i Norge"
-meta_title: "Hva er Fagforening? Regnskap for Fagforeninger i Norge"
+seoTitle: "Hva er Fagforening? Regnskap for Fagforeninger i Norge"
 meta_description: 'En **fagforening** er en type [forening](/blogs/regnskap/hva-er-forening "Hva er Forening i Regnskap? Regnskapsføring for Foreninger og Organisasjoner") som or...'
 slug: hva-er-fagforening
 type: blog

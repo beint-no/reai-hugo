@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er fraktbrev?"
-meta_title: "Hva er fraktbrev?"
+seoTitle: "Hva er fraktbrev?"
 meta_description: 'Et **fraktbrev** er et juridisk bindende transportdokument som fungerer som kontrakt mellom avsender og transportør for frakt av varer. Dette dokumentet er sen...'
 slug: hva-er-fraktbrev
 type: blog

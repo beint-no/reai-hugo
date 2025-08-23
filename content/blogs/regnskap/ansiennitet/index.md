@@ -1,6 +1,6 @@
 ﻿---
 title: "Ansiennitet"
-meta_title: "Ansiennitet"
+seoTitle: "Ansiennitet"
 meta_description: '**Ansiennitet** er et grunnleggende konsept i norsk arbeidsrett og regnskapsføring som beskriver hvor lenge en ansatt har vært tilknyttet en virksomhet. Dette...'
 slug: ansiennitet
 type: blog

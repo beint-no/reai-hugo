@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Fastlønn i Regnskap?"
-meta_title: "Hva er Fastlønn i Regnskap?"
+seoTitle: "Hva er Fastlønn i Regnskap?"
 meta_description: '**Fastlønn** er en fast månedlig eller årlig lønn som utbetales til en ansatt uavhengig av antall arbeidstimer, produksjon eller prestasjoner. Dette er den ...'
 slug: hva-er-fastlonn
 type: blog

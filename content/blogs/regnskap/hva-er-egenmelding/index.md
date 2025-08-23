@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Egenmelding?"
-meta_title: "Hva er Egenmelding?"
+seoTitle: "Hva er Egenmelding?"
 meta_description: '**Egenmelding** er et grunnleggende prinsipp i norsk skatte- og regnskapsforvaltning som innebærer at skatteytere og virksomheter selv rapporterer sine økonom...'
 slug: hva-er-egenmelding
 type: blog

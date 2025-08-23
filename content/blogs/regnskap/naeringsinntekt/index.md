@@ -1,6 +1,6 @@
 ﻿---
 title: "Næringsinntekt"
-meta_title: "Næringsinntekt"
+seoTitle: "Næringsinntekt"
 meta_description: '**Næringsinntekt** er resultatet av virksomhetens inntekter minus fradragsberettigede kostnader, med eventuelle skattemessige justeringer. For [selvstendig næ...'
 slug: naeringsinntekt
 type: blog

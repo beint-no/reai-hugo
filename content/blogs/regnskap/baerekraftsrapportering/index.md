@@ -1,6 +1,6 @@
 ﻿---
 title: "Bærekraftsrapportering"
-meta_title: "Bærekraftsrapportering"
+seoTitle: "Bærekraftsrapportering"
 meta_description: 'Bærekraftsrapportering handler om å kommunisere en virksomhets **miljømessige**, **sosiale** og **styringsrelaterte** (ESG) prestasjoner til interessenter, i...'
 slug: baerekraftsrapportering
 type: blog

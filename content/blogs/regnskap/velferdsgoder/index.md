@@ -1,6 +1,6 @@
 ﻿---
 title: "Velferdsgoder"
-meta_title: "Velferdsgoder"
+seoTitle: "Velferdsgoder"
 meta_description: '**Velferdsgoder** er ytelser eller fordeler som arbeidstakere mottar fra arbeidsgiver utover vanlig lønn. Slike godeordninger kan ha **betydelig verdi** for an...'
 slug: velferdsgoder
 type: blog

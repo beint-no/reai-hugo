@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Dekningsbidrag i Regnskap?"
-meta_title: "Hva er Dekningsbidrag i Regnskap?"
+seoTitle: "Hva er Dekningsbidrag i Regnskap?"
 meta_description: '**Dekningsbidrag** er differansen mellom [salgsinntekter](/blogs/regnskap/hva-er-driftsinntekter "Hva er Driftsinntekter? Komplett Guide til Driftsinntekter i R...'
 slug: hva-er-dekningsbidrag
 type: blog

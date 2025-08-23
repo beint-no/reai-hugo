@@ -1,6 +1,6 @@
 ﻿---
 title: "Rammelån"
-meta_title: "Rammelån"
+seoTitle: "Rammelån"
 meta_description: 'Rammelån er en **fleksibel finansieringsløsning** hvor banken etablerer en **rammekreditt** som virksomheten kan disponere innenfor en forhåndsdefinert grens...'
 slug: rammelan
 type: blog

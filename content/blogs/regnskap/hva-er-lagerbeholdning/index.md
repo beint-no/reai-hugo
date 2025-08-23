@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er lagerbeholdning?"
-meta_title: "Hva er lagerbeholdning?"
+seoTitle: "Hva er lagerbeholdning?"
 meta_description: '**Lagerbeholdning** er verdien av alle varer og materialer som en bedrift har på lager til enhver tid, og som er ment for salg eller produksjon. I regnskapet k...'
 slug: hva-er-lagerbeholdning
 type: blog

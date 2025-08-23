@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 2700 - Utgående merverdiavgift"
-meta_title: "2700-utgaende-merverdiavgift"
+seoTitle: "2700-utgaende-merverdiavgift"
 meta_description: '**Konto 2700 - Utgående merverdiavgift** er en konto i **Norsk Standard Kontoplan** som brukes til å registrere **utgående merverdiavgift (MVA)** som en kort...'
 slug: 2700-utgaende-merverdiavgift
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er grunnrenteskatt?"
-meta_title: "Hva er grunnrenteskatt?"
+seoTitle: "Hva er grunnrenteskatt?"
 meta_description: '**Grunnrenteskatt** er en særskatt som pålegges virksomheter som utvinne eller utnytter naturressurser i Norge. Denne skatten er designet for å sikre at samf...'
 slug: hva-er-grunnrenteskatt
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Bankavstemming i Regnskap?"
-meta_title: "Hva er Bankavstemming i Regnskap?"
+seoTitle: "Hva er Bankavstemming i Regnskap?"
 meta_description: '**Bankavstemming** er en av de mest kritiske og grunnleggende prosessene i regnskapsføring. Det innebærer å sammenligne og avstemme selskapets kassabok mot [...'
 slug: hva-er-bankavstemming
 type: blog

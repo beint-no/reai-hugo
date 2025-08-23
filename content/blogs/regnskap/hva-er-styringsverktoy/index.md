@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Styringsverktøy i Regnskap?"
-meta_title: "Hva er Styringsverktøy i Regnskap?"
+seoTitle: "Hva er Styringsverktøy i Regnskap?"
 meta_description: '**Styringsverktøy** er essensielle instrumenter som hjelper ledere og eiere med å planlegge, kontrollere og evaluere virksomhetens økonomiske prestasjoner. I...'
 slug: hva-er-styringsverktoy
 type: blog

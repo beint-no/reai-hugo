@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Skippertak i Regnskap?"
-meta_title: "Hva er Skippertak i Regnskap?"
+seoTitle: "Hva er Skippertak i Regnskap?"
 meta_description: '**Skippertak** er et kjent fenomen i **norsk regnskap** der virksomheter utsetter viktige oppgaver som [årsavslutning](/blogs/regnskap/hva-er-aarsavslutning "H...'
 slug: skippertak
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Folketrygden? Komplett Guide til Norges Nasjonale Trygdesystem"
-meta_title: "Hva er Folketrygden? Komplett Guide til Norges Nasjonale Trygdesystem"
+seoTitle: "Hva er Folketrygden? Komplett Guide til Norges Nasjonale Trygdesystem"
 meta_description: '**Folketrygden** er Norges nasjonale trygdesystem som sikrer økonomisk trygghet for alle som bor eller arbeider i Norge. Dette omfattende systemet er en hjørn...'
 slug: hva-er-folketrygden
 type: blog

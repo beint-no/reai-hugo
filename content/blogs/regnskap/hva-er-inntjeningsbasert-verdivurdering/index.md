@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Inntjeningsbasert Verdivurdering?"
-meta_title: "Hva er Inntjeningsbasert Verdivurdering?"
+seoTitle: "Hva er Inntjeningsbasert Verdivurdering?"
 meta_description: '**Inntjeningsbasert verdivurdering** er prosessen med å fastsette verdien av et selskap eller eiendel basert på dets evne til å generere fremtidig [inntjenin...'
 slug: hva-er-inntjeningsbasert-verdivurdering
 type: blog

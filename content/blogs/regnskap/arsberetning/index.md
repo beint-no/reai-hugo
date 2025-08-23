@@ -1,6 +1,6 @@
 ﻿---
 title: "Årsberetning"
-meta_title: "Årsberetning"
+seoTitle: "Årsberetning"
 meta_description: '![Årsberetning Oversikt](arsberetning-image.svg)'
 slug: arsberetning
 type: blog

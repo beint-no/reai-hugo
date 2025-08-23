@@ -1,6 +1,6 @@
 ﻿---
 title: "Landbrukets Dataflyt"
-meta_title: "Landbrukets Dataflyt"
+seoTitle: "Landbrukets Dataflyt"
 meta_description: '**Landbrukets dataflyt** refererer til den systematiske bevegelsen og behandlingen av informasjon gjennom hele den landbruksbaserte verdikjeden. Dette omfatter ...'
 slug: landbrukets-dataflyt
 type: blog

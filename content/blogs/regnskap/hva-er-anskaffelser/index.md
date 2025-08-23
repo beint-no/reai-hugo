@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er anskaffelser?"
-meta_title: "Hva er anskaffelser?"
+seoTitle: "Hva er anskaffelser?"
 meta_description: '**Anskaffelser** er prosessen med å kjøpe varer, tjenester eller bygge- og anleggsarbeider for å dekke en organisasjons behov. I Norge skilles det mellom **o...'
 slug: hva-er-anskaffelser
 type: blog

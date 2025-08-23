@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Kontantbeholdning?"
-meta_title: "Hva er Kontantbeholdning?"
+seoTitle: "Hva er Kontantbeholdning?"
 meta_description: '**Kontantbeholdning** er den totale mengden kontanter og kontantekvivalenter som et selskap holder tilgjengelig for å møte sine kortsiktige forpliktelser og o...'
 slug: hva-er-kontantbeholdning
 type: blog

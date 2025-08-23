@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Lagerlokasjon?"
-meta_title: "Hva er Lagerlokasjon?"
+seoTitle: "Hva er Lagerlokasjon?"
 meta_description: '**Lagerlokasjon** er den spesifikke plasseringen av varer og produkter i et lager eller varelager. Dette omfatter både den fysiske posisjonen og den digitale r...'
 slug: hva-er-lagerlokasjon
 type: blog

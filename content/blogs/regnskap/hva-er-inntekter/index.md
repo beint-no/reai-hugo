@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er inntekter?"
-meta_title: "Hva er inntekter?"
+seoTitle: "Hva er inntekter?"
 meta_description: '**Inntekter** er alle økonomiske fordeler som tilflyter en virksomhet i løpet av en regnskapsperiode, og som øker [egenkapitalen](/blogs/regnskap/hva-er-egen...'
 slug: hva-er-inntekter
 type: blog

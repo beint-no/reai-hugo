@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Fordring?"
-meta_title: "Hva er Fordring?"
+seoTitle: "Hva er Fordring?"
 meta_description: '**Fordring** er et **økonomisk krav** på betaling, hvor én part (creditor) har levert varer, tjenester eller ytelser, og en annen part (debitor) skylder beta...'
 slug: hva-er-fordring
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Feriepenger i Regnskap?"
-meta_title: "Hva er Feriepenger i Regnskap?"
+seoTitle: "Hva er Feriepenger i Regnskap?"
 meta_description: '**Feriepenger** er lovpålagt kompensasjon til arbeidstakere for tapt arbeidsfortjeneste under ferie, regulert av **[Ferieloven](/blogs/regnskap/ferieloven "Fer...'
 slug: hva-er-feriepenger
 type: blog

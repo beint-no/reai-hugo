@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er en Obligasjon?"
-meta_title: "Hva er en Obligasjon?"
+seoTitle: "Hva er en Obligasjon?"
 meta_description: 'En **obligasjon** er et gjeldsinstrument som representerer et lån mellom en låntaker (utsteder) og en långiver (obligasjonseier). I regnskapssammenheng er ob...'
 slug: hva-er-obligasjon
 type: blog

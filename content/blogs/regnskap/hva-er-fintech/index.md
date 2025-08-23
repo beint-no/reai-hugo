@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Fintech?"
-meta_title: "Hva er Fintech?"
+seoTitle: "Hva er Fintech?"
 meta_description: '**Fintech** (finansteknologi) representerer den revolusjonerende sammensmeltingen av finansielle tjenester og avansert teknologi. Dette dynamiske feltet transfo...'
 slug: hva-er-fintech
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er forskuddsskatt?"
-meta_title: "Hva er forskuddsskatt?"
+seoTitle: "Hva er forskuddsskatt?"
 meta_description: '**Forskuddsskatt** er en forskuddsbetaling av forventet skatt for bedrifter og selvstendige næringsdrivende, basert på anslått alminnelig inntekt. Systemet f...'
 slug: hva-er-forskuddsskatt
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er tollverdi?"
-meta_title: "Hva er tollverdi?"
+seoTitle: "Hva er tollverdi?"
 meta_description: '**Tollverdi** er det grunnbeløpet som [toll](/blogs/regnskap/hva-er-toll "Hva er Toll? Komplett Guide til Tollavgifter og Regnskapsføring") beregnes av når v...'
 slug: hva-er-tollverdi
 type: blog

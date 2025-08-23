@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er primærnæring?"
-meta_title: "Hva er primærnæring?"
+seoTitle: "Hva er primærnæring?"
 meta_description: 'Primærnæring er en samlebetegnelse for virksomheter som utvinner ressurser direkte fra naturen. Dette inkluderer **jordbruk**, **skogbruk** og **fiske**. I no...'
 slug: primarnaring
 type: blog

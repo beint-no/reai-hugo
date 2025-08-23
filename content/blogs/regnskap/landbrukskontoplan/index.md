@@ -1,6 +1,6 @@
 ﻿---
 title: "Landbrukskontoplan - Komplett Guide til Regnskap for Landbruk"
-meta_title: "Landbrukskontoplan - Komplett Guide til Regnskap for Landbruk"
+seoTitle: "Landbrukskontoplan - Komplett Guide til Regnskap for Landbruk"
 meta_description: 'En **landbrukskontoplan** er en spesialisert [kontoplan](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap"...'
 slug: landbrukskontoplan
 type: blog

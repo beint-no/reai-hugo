@@ -1,6 +1,6 @@
 ﻿---
 title: "Ligningspapirer – Hva er, krav og oppbevaring"
-meta_title: "Ligningspapirer “ Hva er, krav og oppbevaring"
+seoTitle: "Ligningspapirer “ Hva er, krav og oppbevaring"
 meta_description: '**Ligningspapirer** er dokumenter som brukes i forbindelse med skattemyndighetenes vurdering av en virksomhets eller en persons skattepliktige inntekt og skatte...'
 slug: ligningspapirer
 type: blog

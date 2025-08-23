@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Saldobalanse i Regnskap?"
-meta_title: "Hva er Saldobalanse i Regnskap?"
+seoTitle: "Hva er Saldobalanse i Regnskap?"
 meta_description: '**Saldobalanse** er et av de mest fundamentale verktøyene i regnskapsføring og representerer en detaljert oversikt over alle kontoer i bedriftens [kontoplan](...'
 slug: hva-er-saldobalanse
 type: blog

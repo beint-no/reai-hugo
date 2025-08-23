@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 2730 - Grunnlag investeringsavgift"
-meta_title: "2730-grunnlag-investeringsavgift"
+seoTitle: "2730-grunnlag-investeringsavgift"
 meta_description: '**Konto 2730 - Grunnlag investeringsavgift** er en konto i **Norsk Standard Kontoplan** som brukes til å registrere **grunnlaget for utgående investeringsavgi...'
 slug: 2730-grunnlag-investeringsavgift
 type: blog

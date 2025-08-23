@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 1920 - Bankinnskudd"
-meta_title: "1920-bankinnskudd"
+seoTitle: "1920-bankinnskudd"
 meta_description: '**Konto 1920 - Bankinnskudd** er en konto i norsk standard kontoplan som brukes til å registrere virksomhetens **bankinnskudd**, det vil si midler plassert på...'
 slug: 1920-bankinnskudd
 type: blog

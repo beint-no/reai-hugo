@@ -1,6 +1,6 @@
 ﻿---
 title: "API Integrasjon og Automatisering av Regnskap"
-meta_title: "API Integrasjon og Automatisering av Regnskap"
+seoTitle: "API Integrasjon og Automatisering av Regnskap"
 meta_description: '**API-integrasjon og automatisering av regnskap** representerer fremtiden for moderne regnskapsføring, hvor teknologi eliminerer manuelle prosesser og skaper s...'
 slug: api-integrasjon-automatisering-regnskap
 type: blog

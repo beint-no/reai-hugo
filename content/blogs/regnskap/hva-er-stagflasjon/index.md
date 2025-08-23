@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Stagflasjon?"
-meta_title: "Hva er Stagflasjon?"
+seoTitle: "Hva er Stagflasjon?"
 meta_description: 'For en helhetlig forståelse av ekstreme økonomiske hendelser, se [Hva er Inflasjon?](/blogs/regnskap/hva-er-inflasjon "Hva er Inflasjon? Komplett Guide til In...'
 slug: hva-er-stagflasjon
 type: blog

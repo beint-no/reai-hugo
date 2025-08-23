@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Nedskrivning i Regnskap?"
-meta_title: "Hva er Nedskrivning i Regnskap?"
+seoTitle: "Hva er Nedskrivning i Regnskap?"
 meta_description: '**Nedskrivning** er en regnskapsmessig reduksjon av en [eiendels](/blogs/regnskap/hva-er-aktiva "Hva er Aktiva? Komplett Guide til Eiendeler i Regnskap") bokfø...'
 slug: hva-er-nedskrivning
 type: blog

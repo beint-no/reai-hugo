@@ -1,6 +1,6 @@
 ﻿---
 title: "Styrehonorar i aksjeselskap"
-meta_title: "Styrehonorar i aksjeselskap"
+seoTitle: "Styrehonorar i aksjeselskap"
 meta_description: '![Styrehonorar](styrehonorar-image.svg)'
 slug: styrehonorar
 type: blog

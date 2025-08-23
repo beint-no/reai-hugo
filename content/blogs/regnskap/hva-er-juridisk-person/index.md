@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er en Juridisk Person?"
-meta_title: "Hva er en Juridisk Person?"
+seoTitle: "Hva er en Juridisk Person?"
 meta_description: 'En **juridisk person** er en grunnleggende juridisk konstruksjon som gir en organisasjon eller enhet rettigheter og plikter som er separate fra de fysiske perso...'
 slug: hva-er-juridisk-person
 type: blog

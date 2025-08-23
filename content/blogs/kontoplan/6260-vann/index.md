@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 6260 - Vann"
-meta_title: "6260-vann"
+seoTitle: "6260-vann"
 meta_description: '**Konto 6260 - Vann** er en konto i Norsk Standard Kontoplan som brukes til å registrere **vannforbruk** og **vannavgifter** i virksomhetens drift.'
 slug: 6260-vann
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er kundereskontro?"
-meta_title: "Hva er kundereskontro?"
+seoTitle: "Hva er kundereskontro?"
 meta_description: '**Kundereskontro** er et detaljert register som viser alle økonomiske transaksjoner mellom bedriften og hver enkelt kunde. Dette er en **underreskontro** til [...'
 slug: hva-er-kundereskontro
 type: blog

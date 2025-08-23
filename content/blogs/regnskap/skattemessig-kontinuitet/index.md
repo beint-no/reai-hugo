@@ -1,6 +1,6 @@
 ﻿---
 title: "Skattemessig kontinuitet"
-meta_title: "Skattemessig kontinuitet"
+seoTitle: "Skattemessig kontinuitet"
 meta_description: '**Skattemessig kontinuitet** beskriver prinsippet om fortsatt skattemessig **inngangsverdi** ved overføring av eiendeler eller virksomhet, slik at skattemessig...'
 slug: skattemessig-kontinuitet
 type: blog

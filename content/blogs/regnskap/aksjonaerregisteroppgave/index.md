@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Aksjonærregisteroppgave?"
-meta_title: "Hva er Aksjonærregisteroppgave?"
+seoTitle: "Hva er Aksjonærregisteroppgave?"
 meta_description: '**Aksjonærregisteroppgave** er en **obligatorisk årlig rapportering** som alle norske [aksjeselskaper](/blogs/regnskap/hva-er-et-aksjeselskap Hva er et Aksje...'
 slug: aksjonaerregisteroppgave
 type: blog

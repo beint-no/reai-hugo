@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 7350 - Representasjon, fradragsberettiget"
-meta_title: "7350-representasjon-fradragsberettiget"
+seoTitle: "7350-representasjon-fradragsberettiget"
 meta_description: '**Konto 7350 - Representasjon, fradragsberettiget** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **fradragsberettigede rep...'
 slug: 7350-representasjon-fradragsberettiget
 type: blog

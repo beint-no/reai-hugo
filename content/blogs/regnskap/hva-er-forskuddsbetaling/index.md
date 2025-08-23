@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er forskuddsbetaling?"
-meta_title: "Hva er forskuddsbetaling?"
+seoTitle: "Hva er forskuddsbetaling?"
 meta_description: '**Forskuddsbetaling** er en betaling som gjøres på forhånd for varer eller tjenester som skal leveres på et senere tidspunkt. Dette er en vanlig praksis i m...'
 slug: hva-er-forskuddsbetaling
 type: blog

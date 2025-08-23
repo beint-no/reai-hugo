@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er anleggsmidler?"
-meta_title: "Hva er anleggsmidler?"
+seoTitle: "Hva er anleggsmidler?"
 meta_description: '**Anleggsmidler** er **faste [eiendeler](/blogs/regnskap/hva-er-eiendel "Hva er Eiendel i Regnskap? Komplett Guide til Eiendom og Verdier")** som en bedrift pla...'
 slug: hva-er-anleggsmidler
 type: blog

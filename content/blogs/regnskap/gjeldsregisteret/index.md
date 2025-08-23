@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Gjeldsregisteret?"
-meta_title: "Hva er Gjeldsregisteret?"
+seoTitle: "Hva er Gjeldsregisteret?"
 meta_description: '**Gjeldsregisteret** er et offentlig register for **usikrede forbrukslån** og annen kreditt som gir långivere og kredittopplysningsbyråer en samlet oversikt ...'
 slug: gjeldsregisteret
 type: blog

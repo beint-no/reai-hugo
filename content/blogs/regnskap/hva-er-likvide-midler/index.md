@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er likvide midler?"
-meta_title: "Hva er likvide midler?"
+seoTitle: "Hva er likvide midler?"
 meta_description: '**Likvide midler** er bedriftens umiddelbart tilgjengelige kontanter og kontantekvivalenter, som kan brukes til å dekke kortsiktige forpliktelser og finansiere...'
 slug: hva-er-likvide-midler
 type: blog

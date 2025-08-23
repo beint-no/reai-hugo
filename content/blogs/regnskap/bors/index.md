@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Børs? En Guide til Norsk Børs og Aksjehandel"
-meta_title: "Hva er Børs? En Guide til Norsk Børs og Aksjehandel"
+seoTitle: "Hva er Børs? En Guide til Norsk Børs og Aksjehandel"
 meta_description: '**Børs** er det organiserte markedet for kjøp og salg av aksjer og andre finansielle instrumenter i Norge. **Børsen** gir en strukturert og gjennomsiktig han...'
 slug: bors
 type: blog

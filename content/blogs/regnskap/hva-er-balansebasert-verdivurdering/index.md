@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Balansebasert Verdivurdering?"
-meta_title: "Hva er Balansebasert Verdivurdering?"
+seoTitle: "Hva er Balansebasert Verdivurdering?"
 meta_description: '**Balansebasert verdivurdering** er prosessen med å fastsette verdien av [eiendeler](/blogs/regnskap/hva-er-aktiva "Hva er Aktiva? Komplett Guide til Eiendeler...'
 slug: hva-er-balansebasert-verdivurdering
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er anskaffelseskost?"
-meta_title: "Hva er anskaffelseskost?"
+seoTitle: "Hva er anskaffelseskost?"
 meta_description: '**Anskaffelseskost** er det totale beløpet en bedrift betaler for å anskaffe og klargjøre en eiendel for bruk. Dette inkluderer ikke bare kjøpsprisen, men o...'
 slug: hva-er-anskaffelseskost
 type: blog

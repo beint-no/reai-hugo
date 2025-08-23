@@ -1,6 +1,6 @@
 ﻿---
 title: "Inngående Faktura"
-meta_title: "Inngående Faktura"
+seoTitle: "Inngående Faktura"
 meta_description: 'En **inngående faktura** er en [faktura](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav") som bedriften mottar fra lever...'
 slug: innganende-faktura
 type: blog

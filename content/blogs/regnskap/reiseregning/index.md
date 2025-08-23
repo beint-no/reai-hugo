@@ -1,6 +1,6 @@
 ﻿---
 title: "Reiseregning"
-meta_title: "Reiseregning"
+seoTitle: "Reiseregning"
 meta_description: 'En **reiseregning** er et dokument som spesifiserer **reiseutlegg** og tilhørende kostnader ved tjenestereiser, og fungerer som grunnlag for korrekt regnskapsf...'
 slug: reiseregning
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Konto 8920 - Avsatt utbytte/renter grunnfondsbevis?"
-meta_title: "8920-avsatt-utbytte-renter-grunnfondsbevis"
+seoTitle: "8920-avsatt-utbytte-renter-grunnfondsbevis"
 meta_description: '**Konto 8920 - Avsatt utbytte/renter grunnfondsbevis** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **avsetning av utbytte og ...'
 slug: 8920-avsatt-utbytte-renter-grunnfondsbevis
 type: blog

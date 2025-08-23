@@ -1,6 +1,6 @@
 ﻿---
 title: "Sluttoppgjør i regnskap"
-meta_title: "Sluttoppgjør i regnskap"
+seoTitle: "Sluttoppgjør i regnskap"
 meta_description: '**Sluttoppgjør i regnskap** er den siste fasen i regnskapsprosessen hvor alle kontoer avstemmes, justeringer gjennomføres og regnskapet endelig godkjennes. Sl...'
 slug: sluttoppgjor
 type: blog

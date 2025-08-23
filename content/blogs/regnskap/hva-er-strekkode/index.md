@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Strekkode i Regnskap?"
-meta_title: "Hva er Strekkode i Regnskap?"
+seoTitle: "Hva er Strekkode i Regnskap?"
 meta_description: '**Strekkode** i regnskapssammenheng er en maskinlesbar kode som består av parallelle linjer eller geometriske mønstre som representerer informasjon digitalt. ...'
 slug: hva-er-strekkode
 type: blog

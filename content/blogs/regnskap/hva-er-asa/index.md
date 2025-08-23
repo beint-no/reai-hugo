@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er ASA? En Guide til Allmennaksjeselskap (ASA)"
-meta_title: "Hva er ASA? En Guide til Allmennaksjeselskap (ASA)"
+seoTitle: "Hva er ASA? En Guide til Allmennaksjeselskap (ASA)"
 meta_description: 'For en oversikt over ulike selskapsformer i Norge, se [Selskapsform](/blogs/regnskap/selskapsform "Selskapsform: Oversikt over selskapsformer i Norge").'
 slug: hva-er-asa
 type: blog

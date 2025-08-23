@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Leverandørgjeld i Regnskap?"
-meta_title: "Hva er Leverandørgjeld i Regnskap?"
+seoTitle: "Hva er Leverandørgjeld i Regnskap?"
 meta_description: '**Leverandørgjeld** er en av de mest sentrale komponentene i [kortsiktig gjeld](/blogs/regnskap/kortsiktig-gjeld "Hva er Kortsiktig Gjeld? Komplett Guide til K...'
 slug: hva-er-leverandorgjeld
 type: blog

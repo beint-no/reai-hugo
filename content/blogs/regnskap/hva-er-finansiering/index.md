@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Finansiering?"
-meta_title: "Hva er Finansiering?"
+seoTitle: "Hva er Finansiering?"
 meta_description: 'Finansiering er den kritiske prosessen med å skaffe kapital for å finansiere en bedrifts drift, investeringer og vekstambisjoner. Det er fundamentet som gjør...'
 slug: hva-er-finansiering
 type: blog

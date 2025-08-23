@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er SFDR (Sustainable Finance Disclosure Regulation)?"
-meta_title: "Hva er SFDR (Sustainable Finance Disclosure Regulation)?"
+seoTitle: "Hva er SFDR (Sustainable Finance Disclosure Regulation)?"
 meta_description: '**SFDR (Sustainable Finance Disclosure Regulation)** er EUs omfattende regelverk for [bærekraftige investeringer](/blogs/regnskap/hva-er-barekraftige-investeri...'
 slug: hva-er-sfdr
 type: blog

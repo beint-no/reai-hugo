@@ -1,6 +1,6 @@
 ﻿---
 title: "Fakturaprogram"
-meta_title: "Fakturaprogram"
+seoTitle: "Fakturaprogram"
 meta_description: '**Fakturaprogram** er spesialisert programvare for å opprette, sende og følge opp fakturaer elektronisk. Moderne fakturaprogram tilbyr **automatisering**, **i...'
 slug: fakturaprogram
 type: blog

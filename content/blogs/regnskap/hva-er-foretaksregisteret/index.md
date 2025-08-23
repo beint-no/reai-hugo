@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Foretaksregisteret?"
-meta_title: "Hva er Foretaksregisteret?"
+seoTitle: "Hva er Foretaksregisteret?"
 meta_description: '**Foretaksregisteret** er et offentlig register som administreres av [Brønnøysundregistrene](/blogs/regnskap/bronnoysundregistrene "Hva er Brønnøysundregist...'
 slug: hva-er-foretaksregisteret
 type: blog

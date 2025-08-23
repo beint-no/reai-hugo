@@ -1,6 +1,6 @@
 ﻿---
 title: "Feriepengegrunnlag - Grunnlag for beregning av feriepenger i Norge"
-meta_title: "Feriepengegrunnlag - Grunnlag for beregning av feriepenger i Norge"
+seoTitle: "Feriepengegrunnlag - Grunnlag for beregning av feriepenger i Norge"
 meta_description: '**Feriepengegrunnlag** er det økonomiske **grunnlaget** for beregning av feriepenger i henhold til **[Ferieloven](/blogs/regnskap/ferieloven "Ferieloven “ Lo...'
 slug: feriepengegrunnlag
 type: blog

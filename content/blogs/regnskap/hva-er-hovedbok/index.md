@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Hovedbok? En Komplett Guide til Hovedboken i Norsk Regnskap"
-meta_title: "Hva er Hovedbok? En Komplett Guide til Hovedboken i Norsk Regnskap"
+seoTitle: "Hva er Hovedbok? En Komplett Guide til Hovedboken i Norsk Regnskap"
 meta_description: '**Hovedboken** er det sentrale registeret i enhver virksomhets regnskapsføring og utgjør ryggraden i det moderne [bokføringssystemet](/blogs/regnskap/hva-er-...'
 slug: hva-er-hovedbok
 type: blog

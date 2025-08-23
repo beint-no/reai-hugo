@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Skattetrekkskonto?"
-meta_title: "Hva er Skattetrekkskonto?"
+seoTitle: "Hva er Skattetrekkskonto?"
 meta_description: '**Skattetrekkskonto** er en spesiell bankkonto som norske arbeidsgivere må opprette for å administrere trekk av forskuddsskatt fra lønn og andre ytelser til ...'
 slug: hva-er-skattetrekkskonto
 type: blog

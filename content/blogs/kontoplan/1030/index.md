@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Konto 1030 - Patenter?"
-meta_title: "1030"
+seoTitle: "1030"
 meta_description: '**Konto 1030 - Patenter** er en sentral konto i norsk kontoplan for virksomheter som eier eller utvikler patentrettigheter. Denne kontoen brukes for å registre...'
 slug: 1030
 type: blog

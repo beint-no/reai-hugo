@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 1640 - Oppgjørskonto merverdiavgift"
-meta_title: "1640-oppgjorskonto-merverdiavgift"
+seoTitle: "1640-oppgjorskonto-merverdiavgift"
 meta_description: '**Konto 1640 - Oppgjørskonto merverdiavgift** er en konto i **Norsk Standard Kontoplan** som brukes til å avstemme og oppgjøre **merverdiavgift (MVA)** mello...'
 slug: 1640-oppgjorskonto-merverdiavgift
 type: blog

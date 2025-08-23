@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 1380 - Fordringer på ansatte"
-meta_title: "1380-fordringer-pa-ansatte"
+seoTitle: "1380-fordringer-pa-ansatte"
 meta_description: '**Konto 1380 - Fordringer på ansatte** er en konto i Norsk Standard Kontoplan som brukes til å registrere **lån**, **[forskudd på lønn](/blogs/kontoplan/29...'
 slug: 1380-fordringer-pa-ansatte
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Bruttolønn?"
-meta_title: "Hva er Bruttolønn?"
+seoTitle: "Hva er Bruttolønn?"
 meta_description: '**Bruttolønn** er den totale lønnen en ansatt tjener før fradrag av skatt, avgifter og andre kostnader. Bruttolønn danner grunnlaget for [A‘meldingen](/bl...'
 slug: hva-er-bruttolonn
 type: blog

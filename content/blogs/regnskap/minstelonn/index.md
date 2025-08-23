@@ -1,6 +1,6 @@
 ﻿---
 title: "Minstelønn i Norge: Komplett Guide til Regnskap og Arbeidsgiverforpliktelser"
-meta_title: "Minstelønn i Norge: Komplett Guide til Regnskap og Arbeidsgiverforpliktelser"
+seoTitle: "Minstelønn i Norge: Komplett Guide til Regnskap og Arbeidsgiverforpliktelser"
 meta_description: '**Minstelønn** er den laveste lønnen en arbeidsgiver lovlig kan betale en ansatt per time, fastsatt av tariffavtaler eller lov. I Norge ivaretas kravet om min...'
 slug: minstelonn
 type: blog

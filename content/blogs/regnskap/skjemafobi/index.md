@@ -1,6 +1,6 @@
 ﻿---
 title: "Skjemafobi – Hvordan overvinne frykt for skjemaer i regnskap"
-meta_title: "Skjemafobi “ Hvordan overvinne frykt for skjemaer i regnskap"
+seoTitle: "Skjemafobi “ Hvordan overvinne frykt for skjemaer i regnskap"
 meta_description: '**Skjemafobi** er en betegnelse på *frykten eller motstanden mot å fylle ut skjemaer*, spesielt i en regnskaps- og administrasjonskontekst. I Norge kan **skje...'
 slug: skjemafobi
 type: blog

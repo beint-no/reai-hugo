@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 2780 - Påløpt arbeidsgiveravgift"
-meta_title: "2780-palopte-arbeidsgiveravgift"
+seoTitle: "2780-palopte-arbeidsgiveravgift"
 meta_description: '**Konto 2780 - Påløpt arbeidsgiveravgift** er en konto i Norsk Standard Kontoplan som brukes til å registrere **påløpt arbeidsgiveravgift** som kortsiktig ...'
 slug: 2780-palopte-arbeidsgiveravgift
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 8120 - Nedskrivning finansielle anleggsmidler"
-meta_title: "8120-nedskrivning-finansielle-anleggsmidler"
+seoTitle: "8120-nedskrivning-finansielle-anleggsmidler"
 meta_description: '**Konto 8120 - Nedskrivning finansielle anleggsmidler** er en konto i Norsk Standard Kontoplan som brukes for å registrere **realiserte tap** og **varige verdi...'
 slug: 8120-nedskrivning-finansielle-anleggsmidler
 type: blog

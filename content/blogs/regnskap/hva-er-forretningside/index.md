@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er forretningsidé?"
-meta_title: "Hva er forretningsidé?"
+seoTitle: "Hva er forretningsidé?"
 meta_description: 'En **forretningsidé** er kjernen i enhver virksomhet. Den beskriver virksomhetens **verdiforslag**, målgruppe og unike posisjon i markedet. En klar forretning...'
 slug: hva-er-forretningside
 type: blog

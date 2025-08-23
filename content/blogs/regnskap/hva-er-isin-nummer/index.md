@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er ISIN-nummer?"
-meta_title: "Hva er ISIN-nummer?"
+seoTitle: "Hva er ISIN-nummer?"
 meta_description: '**ISIN-nummer** (International Securities Identification Number) er en **internasjonal standard** som brukes for **entydig identifikasjon av verdipapirer** på ...'
 slug: hva-er-isin-nummer
 type: blog

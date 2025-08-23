@@ -1,6 +1,6 @@
 ﻿---
 title: "Arbeidskontrakten"
-meta_title: "Arbeidskontrakten"
+seoTitle: "Arbeidskontrakten"
 meta_description: '![Arbeidskontrakten](arbeidskontrakten-image.svg)'
 slug: arbeidskontrakten
 type: blog

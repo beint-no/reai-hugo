@@ -1,6 +1,6 @@
 ﻿---
 title: "Baksmell i Regnskap og Skatt"
-meta_title: "Baksmell i Regnskap og Skatt"
+seoTitle: "Baksmell i Regnskap og Skatt"
 meta_description: '**Baksmell** er en ekstra skattekostnad eller regnskapsjustering som oppstår når **forskuddsbetalinger**, **avsetninger** eller **periodiseringer** ikke dekke...'
 slug: baksmell
 type: blog

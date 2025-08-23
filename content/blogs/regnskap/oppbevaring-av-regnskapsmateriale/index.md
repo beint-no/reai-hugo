@@ -1,6 +1,6 @@
 ﻿---
 title: "Oppbevaring av regnskapsmateriale"
-meta_title: "Oppbevaring av regnskapsmateriale"
+seoTitle: "Oppbevaring av regnskapsmateriale"
 meta_description: '**Oppbevaring av regnskapsmateriale** er en lovpålagt forpliktelse som alle norske virksomheter må følge. Korrekt arkivering og oppbevaring av regnskapsdokum...'
 slug: oppbevaring-av-regnskapsmateriale
 type: blog

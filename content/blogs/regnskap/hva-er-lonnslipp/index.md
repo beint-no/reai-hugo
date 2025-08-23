@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Lønnslipp i Regnskap?"
-meta_title: "Hva er Lønnslipp i Regnskap?"
+seoTitle: "Hva er Lønnslipp i Regnskap?"
 meta_description: '**Lønnslipp** er en detaljert oversikt over lønn og trekk som alle arbeidsgivere i Norge er lovpålagt å gi til sine ansatte. Dette dokumentet, også kalt **...'
 slug: hva-er-lonnslipp
 type: blog

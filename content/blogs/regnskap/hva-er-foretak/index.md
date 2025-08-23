@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er et Foretak?"
-meta_title: "Hva er et Foretak?"
+seoTitle: "Hva er et Foretak?"
 meta_description: 'Et **foretak** er en organisert [virksomhet](/blogs/regnskap/hva-er-virksomhet "Hva er en virksomhet? Definisjon og Regnskapsmessige Forhold") som driver økono...'
 slug: hva-er-foretak
 type: blog

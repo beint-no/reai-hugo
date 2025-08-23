@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 2910 - Gjeld til ansatte og eiere"
-meta_title: "2910-gjeld-til-ansatte-og-eiere"
+seoTitle: "2910-gjeld-til-ansatte-og-eiere"
 meta_description: '**Konto 2910 - Gjeld til ansatte og eiere** er en konto i **Norsk Standard Kontoplan** som brukes til å registrere **gjeld til ansatte** og **gjeld til eiere**...'
 slug: 2910-gjeld-til-ansatte-og-eiere
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Sykepenger?"
-meta_title: "Hva er Sykepenger?"
+seoTitle: "Hva er Sykepenger?"
 meta_description: '**Sykepenger** er en viktig del av det norske trygdesystemet som sikrer lønnsmottakere økonomisk trygghet ved sykdom. For arbeidsgivere innebærer sykepengeor...'
 slug: hva-er-sykepenger
 type: blog

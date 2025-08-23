@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er varelager?"
-meta_title: "Hva er varelager?"
+seoTitle: "Hva er varelager?"
 meta_description: '**Varelager** består av varer som en bedrift holder på lager for videresalg til kunder, og representerer en av de mest kritiske [omløpsmidlene](/blogs/regnsk...'
 slug: hva-er-varelager
 type: blog

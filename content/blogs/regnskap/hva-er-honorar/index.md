@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er honorar (regnskap)?"
-meta_title: "Hva er honorar (regnskap)?"
+seoTitle: "Hva er honorar (regnskap)?"
 meta_description: '**Honorar** i regnskapssammenheng refererer til [vederlag](/blogs/regnskap/hva-er-vederlag "Hva er Vederlag i Regnskap? Komplett Guide til Vederlag og Kompensas...'
 slug: hva-er-honorar
 type: blog

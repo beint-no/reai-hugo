@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er a-melding?"
-meta_title: "Hva er a-melding?"
+seoTitle: "Hva er a-melding?"
 meta_description: 'A-melding, også kjent som **[samordnet registermelding](/blogs/regnskap/samordnet-registermelding "Samordnet registermelding")**, er en månedlig digital rappo...'
 slug: hva-er-a-melding
 type: blog

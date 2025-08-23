@@ -1,6 +1,6 @@
 ﻿---
 title: "Dividende ved konkurs"
-meta_title: "Dividende ved konkurs"
+seoTitle: "Dividende ved konkurs"
 meta_description: 'Dividende ved konkurs handler om fordelingen av tilgjengelige midler i et konkursbo etter at alle krav er oppfylt i henhold til konkursloven.'
 slug: dividende-ved-konkurs
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Avsetning i Regnskap?"
-meta_title: "Hva er Avsetning i Regnskap?"
+seoTitle: "Hva er Avsetning i Regnskap?"
 meta_description: '**Avsetning** er en fundamental del av [regnskapsføring](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide") som sikrer at virksomheten tar h...'
 slug: avsetning
 type: blog

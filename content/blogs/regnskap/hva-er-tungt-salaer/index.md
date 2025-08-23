@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Tungt Salær?"
-meta_title: "Hva er Tungt Salær?"
+seoTitle: "Hva er Tungt Salær?"
 meta_description: '**Tungt salær** er et begrep som beskriver betydelige honorarer eller [vederlag](/blogs/regnskap/hva-er-vederlag "Hva er Vederlag i Regnskap? Komplett Guide ti...'
 slug: hva-er-tungt-salaer
 type: blog

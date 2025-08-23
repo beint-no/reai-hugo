@@ -1,6 +1,6 @@
 ﻿---
 title: "Diett"
-meta_title: "Diett"
+seoTitle: "Diett"
 meta_description: '**Diett** refererer til den **skattefrie godtgjørelsen** for måltider og småforpleining ved tjenestereiser og arbeidsoppdrag. Dette er en viktig del av reise...'
 slug: diett
 type: blog

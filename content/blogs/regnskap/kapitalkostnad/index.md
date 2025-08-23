@@ -1,6 +1,6 @@
 ﻿---
 title: "Kapitalkostnad"
-meta_title: "Kapitalkostnad"
+seoTitle: "Kapitalkostnad"
 meta_description: '**Kapitalkostnad** er den veide gjennomsnittlige kostnaden virksomheten har for kapital, både gjeld og egenkapital. Dette konseptet er sentralt for investering...'
 slug: kapitalkostnad
 type: blog

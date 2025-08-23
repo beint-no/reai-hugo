@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Løsøre?"
-meta_title: "Hva er Løsøre?"
+seoTitle: "Hva er Løsøre?"
 meta_description: '**Løsøre** omfatter alle **bevegelige eiendeler** som ikke regnes som fast eiendom i regnskap og juridisk sammenheng. Løsøre er en viktig underkategori av [...'
 slug: hva-er-losore
 type: blog

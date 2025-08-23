@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Produksjonslønn i Regnskap?"
-meta_title: "Hva er Produksjonslønn i Regnskap?"
+seoTitle: "Hva er Produksjonslønn i Regnskap?"
 meta_description: '**Produksjonslønn** er en lønnsform som kobler ansattes lønn direkte til **produksjonsmengde** eller **produksjonsverdi**. I motsetning til [fastlønn](/blog...'
 slug: hva-er-produksjonslonn
 type: blog

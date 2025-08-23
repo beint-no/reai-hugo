@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Konto 8320 - Utsatt skatt?"
-meta_title: "8320-utsatt-skatt"
+seoTitle: "8320-utsatt-skatt"
 meta_description: '**Konto 8320 - Utsatt skatt** er en konto i Norsk Standard Kontoplan som brukes til å vise **utsatt skatt** som skattekostnad i [resultatregnskapet](/blogs/reg...'
 slug: 8320-utsatt-skatt
 type: blog

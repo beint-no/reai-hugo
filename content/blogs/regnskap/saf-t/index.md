@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er SAF-T?"
-meta_title: "Hva er SAF-T?"
+seoTitle: "Hva er SAF-T?"
 meta_description: 'SAF-T (Standard Audit File for Tax) er en global standard for digital rapportering av regnskapsdata til skattemyndigheter. I Norge er **SAF-T** vedtatt som del ...'
 slug: saf-t
 type: blog

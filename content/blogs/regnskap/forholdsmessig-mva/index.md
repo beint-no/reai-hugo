@@ -1,6 +1,6 @@
 ﻿---
 title: "Forholdsmessig MVA"
-meta_title: "Forholdsmessig MVA"
+seoTitle: "Forholdsmessig MVA"
 meta_description: '**Forholdsmessig MVA** (også kalt *forholdsmessig fradragsrett*) er metoden for å fordele **inngående merverdiavgift** når en virksomhet har både avgiftspl...'
 slug: forholdsmessig-mva
 type: blog

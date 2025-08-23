@@ -1,6 +1,6 @@
 ﻿---
 title: "Betalbar skatt"
-meta_title: "Betalbar skatt"
+seoTitle: "Betalbar skatt"
 meta_description: '**Betalbar skatt** er det beløpet en virksomhet må betale i [firmaskatt](/blogs/regnskap/firmaskatt "Firmaskatt “ Komplett guide til skatteregler for selska...'
 slug: betalbar-skatt
 type: blog

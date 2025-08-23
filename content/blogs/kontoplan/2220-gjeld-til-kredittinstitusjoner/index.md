@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 2220 - Gjeld til kredittinstitusjoner"
-meta_title: "2220-gjeld-til-kredittinstitusjoner"
+seoTitle: "2220-gjeld-til-kredittinstitusjoner"
 meta_description: '**Konto 2220 - Gjeld til kredittinstitusjoner** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **gjeld til kredittinstitusjoner*...'
 slug: 2220-gjeld-til-kredittinstitusjoner
 type: blog

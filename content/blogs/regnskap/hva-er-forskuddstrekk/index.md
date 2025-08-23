@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er forskuddstrekk?"
-meta_title: "Hva er forskuddstrekk?"
+seoTitle: "Hva er forskuddstrekk?"
 meta_description: '**Forskuddstrekk** er et system hvor arbeidsgivere trekker skatt fra ansattes lønn før utbetaling, og sender denne skatten direkte til Skatteetaten på vegne ...'
 slug: hva-er-forskuddstrekk
 type: blog

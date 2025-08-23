@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Bankinnskudd i Regnskap?"
-meta_title: "Hva er Bankinnskudd i Regnskap?"
+seoTitle: "Hva er Bankinnskudd i Regnskap?"
 meta_description: '**Bankinnskudd** er penger som bedrifter og privatpersoner setter inn på [bankkontoer](/blogs/regnskap/hva-er-bankavstemming "Hva er Bankavstemming? Komplett G...'
 slug: hva-er-bankinnskudd
 type: blog

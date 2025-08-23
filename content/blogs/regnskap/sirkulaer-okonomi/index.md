@@ -1,6 +1,6 @@
 ﻿---
 title: "Sirkulær økonomi"
-meta_title: "Sirkulær økonomi"
+seoTitle: "Sirkulær økonomi"
 meta_description: '**Sirkulær økonomi** er en modell for å **optimalisere ressursbruk** og redusere avfall ved å designe produkter og tjenester for gjenbruk, reparasjon og res...'
 slug: sirkulaer-okonomi
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er kvartalsrapport?"
-meta_title: "Hva er kvartalsrapport?"
+seoTitle: "Hva er kvartalsrapport?"
 meta_description: 'En **kvartalsrapport** er en finansiell rapport som selskaper utarbeider og publiserer hver tredje måned for å gi interessenter oppdatert informasjon om selsk...'
 slug: hva-er-kvartalsrapport
 type: blog

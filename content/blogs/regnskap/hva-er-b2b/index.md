@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er B2B? Komplett Guide til Business-to-Business i Norsk Regnskap"
-meta_title: "Hva er B2B? Komplett Guide til Business-to-Business i Norsk Regnskap"
+seoTitle: "Hva er B2B? Komplett Guide til Business-to-Business i Norsk Regnskap"
 meta_description: '**B2B** (Business-to-Business) refererer til handel og kommersielle transaksjoner mellom **bedrifter**, i motsetning til [Business-to-Consumer (B2C)](/blogs/reg...'
 slug: hva-er-b2b
 type: blog

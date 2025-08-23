@@ -1,6 +1,6 @@
 ﻿---
 title: "Starte Enkeltpersonforetak"
-meta_title: "Starte Enkeltpersonforetak"
+seoTitle: "Starte Enkeltpersonforetak"
 meta_description: 'Se vår [Hva er et Enkeltpersonforetak?](/blogs/regnskap/hva-er-enkeltpersonforetak "Hva er et Enkeltpersonforetak? Komplett Guide til Selskapsformen") for en o...'
 slug: starte-enkeltpersonforetak
 type: blog

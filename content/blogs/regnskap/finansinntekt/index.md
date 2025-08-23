@@ -1,6 +1,6 @@
 ﻿---
 title: "Finansinntekt"
-meta_title: "Finansinntekt"
+seoTitle: "Finansinntekt"
 meta_description: '**Finansinntekt** er inntekter som oppstår fra virksomhetens finansielle aktiviteter, som **renter**, **utbytte** og **kapitalgevinster**. Forståelse av finan...'
 slug: finansinntekt
 type: blog

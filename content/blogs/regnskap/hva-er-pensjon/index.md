@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Pensjon?"
-meta_title: "Hva er Pensjon?"
+seoTitle: "Hva er Pensjon?"
 meta_description: '**Pensjon** er et system designet for å sikre økonomisk trygghet i alderdommen. I Norge består pensjonssystemet av flere lag, og for bedrifter representerer ...'
 slug: hva-er-pensjon
 type: blog

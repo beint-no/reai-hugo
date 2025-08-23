@@ -1,6 +1,6 @@
 ﻿---
 title: "God regnskapsskikk"
-meta_title: "God regnskapsskikk"
+seoTitle: "God regnskapsskikk"
 meta_description: '**God regnskapsskikk** er fundamentet for pålitelig finansiell rapportering og en forutsetning for tillit i næringslivet. Det omfatter ikke bare teknisk korre...'
 slug: god-regnskapsskikk
 type: blog

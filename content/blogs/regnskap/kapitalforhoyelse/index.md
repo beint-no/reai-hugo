@@ -1,6 +1,6 @@
 ﻿---
 title: "Kapitalforhøyelse: Metoder og Regnskapsføring"
-meta_title: "Kapitalforhøyelse: Metoder og Regnskapsføring"
+seoTitle: "Kapitalforhøyelse: Metoder og Regnskapsføring"
 meta_description: '**Kapitalforhøyelse** er prosessen hvor et aksjeselskap (AS) øker sin egenkapital ved å hente inn nye midler fra eierne eller andre bidragsytere.'
 slug: kapitalforhoyelse
 type: blog

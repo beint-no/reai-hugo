@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Konto 2460 - Leverandørgjeld til selskap i samme konsern?"
-meta_title: "2460-leverandorgjeld-til-selskap-i-samme-konsern"
+seoTitle: "2460-leverandorgjeld-til-selskap-i-samme-konsern"
 meta_description: '**Konto 2460 - Leverandørgjeld til selskap i samme konsern** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kortsiktig leverandørgjeld*...'
 slug: 2460-leverandorgjeld-til-selskap-i-samme-konsern
 type: blog

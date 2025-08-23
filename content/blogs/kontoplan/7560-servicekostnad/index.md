@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Konto 7560 - Servicekostnad?"
-meta_title: "7560-servicekostnad"
+seoTitle: "7560-servicekostnad"
 meta_description: '**Konto 7560 - Servicekostnad** er en **kostnadskonto** i Norsk Standard Kontoplan som brukes til å registrere kostnader knyttet til **kjøp av tjenester** fra...'
 slug: 7560-servicekostnad
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Nærstående Parter i Regnskap"
-meta_title: "Nærstående Parter i Regnskap"
+seoTitle: "Nærstående Parter i Regnskap"
 meta_description: '**Nærstående parter** i norsk regnskap omfatter personer eller enheter som har et nært økonomisk eller organisatorisk forhold til virksomheten.'
 slug: naerstaende
 type: blog

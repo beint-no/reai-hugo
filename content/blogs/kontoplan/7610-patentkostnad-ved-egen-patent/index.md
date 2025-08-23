@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Konto 7610 - Patentkostnad ved egen patent?"
-meta_title: "7610-patentkostnad-ved-egen-patent"
+seoTitle: "7610-patentkostnad-ved-egen-patent"
 meta_description: '**Konto 7610 - Patentkostnad ved egen patent** er en kostnadskonto i norsk kontoplan for virksomheter som utvikler og registrerer egne patenter. Kontoen brukes ...'
 slug: 7610-patentkostnad-ved-egen-patent
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Rettskildehierarkiet"
-meta_title: "Rettskildehierarkiet"
+seoTitle: "Rettskildehierarkiet"
 meta_description: '**Rettskildehierarkiet** beskriver prioriteringen av ulike **rettskilder** som danner grunnlaget for norsk regnskapsførsel, god regnskapsskikk og skattemessig ...'
 slug: rettskildehierarkiet
 type: blog

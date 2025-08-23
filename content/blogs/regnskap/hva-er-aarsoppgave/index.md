@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Årsoppgave i Regnskap?"
-meta_title: "Hva er Årsoppgave i Regnskap?"
+seoTitle: "Hva er Årsoppgave i Regnskap?"
 meta_description: '**Årsoppgave** er den obligatoriske skatterapporteringen som alle norske virksomheter må levere årlig til Skatteetaten. Denne omfattende rapporten inneholder...'
 slug: hva-er-aarsoppgave
 type: blog

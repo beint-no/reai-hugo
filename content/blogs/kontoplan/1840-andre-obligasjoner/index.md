@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 1840 - Andre obligasjoner"
-meta_title: "1840-andre-obligasjoner"
+seoTitle: "1840-andre-obligasjoner"
 meta_description: '**Konto 1840 - Andre obligasjoner** er en konto i Norsk Standard Kontoplan som brukes til å registrere **andre obligasjoner** som ikke dekkes av markedsbaserte...'
 slug: 1840-andre-obligasjoner
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 1900 - Kontanter"
-meta_title: "1900-kontanter"
+seoTitle: "1900-kontanter"
 meta_description: '**Konto 1900 - Kontanter** er den primære kontoen for å registrere virksomhetens **kontantbeholdning** som omfatter sedler, mynter og andre tilgjengelige kont...'
 slug: 1900-kontanter
 type: blog

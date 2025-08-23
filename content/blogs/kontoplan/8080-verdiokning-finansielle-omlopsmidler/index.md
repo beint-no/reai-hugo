@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Konto 8080 - Verdiøkning finansielle omløpsmidler?"
-meta_title: "8080-verdiokning-finansielle-omlopsmidler"
+seoTitle: "8080-verdiokning-finansielle-omlopsmidler"
 meta_description: '**Konto 8080 - Verdiøkning finansielle omløpsmidler** er en konto i Norsk Standard Kontoplan som brukes for å resultatføre **urealiserte gevinster** på **f...'
 slug: 8080-verdiokning-finansielle-omlopsmidler
 type: blog

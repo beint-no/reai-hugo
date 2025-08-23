@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er imaterielle eiendeler?"
-meta_title: "Hva er imaterielle eiendeler?"
+seoTitle: "Hva er imaterielle eiendeler?"
 meta_description: '**Imaterielle eiendeler** er [eiendeler](/blogs/regnskap/hva-er-eiendel "Hva er Eiendel? Komplett Guide til Eiendom og Verdier") som mangler fysisk form, men so...'
 slug: hva-er-imaterielle-eiendeler
 type: blog

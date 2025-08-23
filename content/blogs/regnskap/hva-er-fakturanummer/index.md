@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Fakturanummer? Komplett Guide til Nummerering og Lovkrav"
-meta_title: "Hva er Fakturanummer? Komplett Guide til Nummerering og Lovkrav"
+seoTitle: "Hva er Fakturanummer? Komplett Guide til Nummerering og Lovkrav"
 meta_description: 'Et **fakturanummer** er en unik identifikator som tildeles hver [faktura](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav"...'
 slug: hva-er-fakturanummer
 type: blog

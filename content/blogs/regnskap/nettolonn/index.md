@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Nettolønn?"
-meta_title: "Hva er Nettolønn?"
+seoTitle: "Hva er Nettolønn?"
 meta_description: '**Nettolønn** er beløpet en ansatt mottar etter at alle lovpålagte fradrag, skatter og avgifter er trukket fra [bruttolønnen](/blogs/regnskap/hva-er-bruttol...'
 slug: nettolonn
 type: blog

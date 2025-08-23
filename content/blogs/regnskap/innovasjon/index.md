@@ -1,6 +1,6 @@
 ﻿---
 title: "Innovasjon"
-meta_title: "Innovasjon"
+seoTitle: "Innovasjon"
 meta_description: '**Innovasjon** er en kritisk driver for langsiktig vekst og konkurranseevne i norske virksomheter. I regnskapssammenheng innebærer innovasjon både behandling ...'
 slug: innovasjon
 type: blog

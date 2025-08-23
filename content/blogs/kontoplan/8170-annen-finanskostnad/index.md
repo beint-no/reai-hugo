@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 8170 - Annen finanskostnad"
-meta_title: "8170-annen-finanskostnad"
+seoTitle: "8170-annen-finanskostnad"
 meta_description: '**Konto 8170 - Annen finanskostnad** brukes for å registrere diverse **finansielle kostnader** som ikke dekkes av andre spesifikke finanskostnadskonti i Norsk ...'
 slug: 8170-annen-finanskostnad
 type: blog

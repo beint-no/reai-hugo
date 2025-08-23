@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er en Regnskapskonto?"
-meta_title: "Hva er en Regnskapskonto?"
+seoTitle: "Hva er en Regnskapskonto?"
 meta_description: 'En **regnskapskonto** er en unik konto i en [kontoplan](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")...'
 slug: hva-er-regnskapskonto
 type: blog

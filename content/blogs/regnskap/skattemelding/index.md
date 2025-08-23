@@ -1,6 +1,6 @@
 ﻿---
 title: "Skattemelding"
-meta_title: "Skattemelding"
+seoTitle: "Skattemelding"
 meta_description: 'En **skattemelding** (tidligere kjent som [selvangivelse](/blogs/regnskap/selvangivelse "Selvangivelse - Guide til Norsk Skattemelding og Skatteoppgjør")) er d...'
 slug: skattemelding
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Konto 2630 - Trygdetrekk?"
-meta_title: "2630-trygdetrekk"
+seoTitle: "2630-trygdetrekk"
 meta_description: '**Konto 2630 - Trygdetrekk** er en **konto** i Norsk Standard Kontoplan som brukes til å registrere **trygdetrekk**, den delen av ansattes [lønn](/blogs/konto...'
 slug: 2630-trygdetrekk
 type: blog

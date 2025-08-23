@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Velferdstiltak?"
-meta_title: "Hva er Velferdstiltak?"
+seoTitle: "Hva er Velferdstiltak?"
 meta_description: '**Velferdstiltak** er ytelser og ordninger som sikrer arbeidstakernes velferd og trygghet gjennom arbeidsforholdet. For arbeidsgivere representerer velferdstilt...'
 slug: hva-er-velferdstiltak
 type: blog

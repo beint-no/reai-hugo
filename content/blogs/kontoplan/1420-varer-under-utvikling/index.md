@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 1420 - Varer under utvikling"
-meta_title: "1420-varer-under-utvikling"
+seoTitle: "1420-varer-under-utvikling"
 meta_description: '**Konto 1420 - Varer under utvikling** er en konto i Norsk Standard Kontoplan som brukes til å registrere **varer under utvikling** som pågår i produksjonspr...'
 slug: 1420-varer-under-utvikling
 type: blog

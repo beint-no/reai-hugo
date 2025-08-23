@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 5280 - Annen fordel i arbeidsforhold"
-meta_title: "5280-annen-fordel-i-arbeidsforhold"
+seoTitle: "5280-annen-fordel-i-arbeidsforhold"
 meta_description: '**Konto 5280 - Annen fordel i arbeidsforhold** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **øvrige fordeler** som **ans...'
 slug: 5280-annen-fordel-i-arbeidsforhold
 type: blog

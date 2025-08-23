@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er varekostnad?"
-meta_title: "Hva er varekostnad?"
+seoTitle: "Hva er varekostnad?"
 meta_description: '**Varekostnad** er den totale kostnaden en bedrift påløper for å anskaffe varer som skal selges videre til kunder. Dette begrepet er fundamentalt i regnskaps...'
 slug: hva-er-varekostnad
 type: blog

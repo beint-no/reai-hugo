@@ -1,6 +1,6 @@
 ﻿---
 title: "Totalkapital"
-meta_title: "Totalkapital"
+seoTitle: "Totalkapital"
 meta_description: '**Totalkapital** er den totale kapitalen som finansierer en virksomhet, definert som summen av [egenkapital](/blogs/regnskap/hva-er-egenkapital "Hva er Egenkapi...'
 slug: totalkapital
 type: blog

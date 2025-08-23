@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Fusjon? En komplett guide til fusjon i norsk regnskap"
-meta_title: "Hva er Fusjon? En komplett guide til fusjon i norsk regnskap"
+seoTitle: "Hva er Fusjon? En komplett guide til fusjon i norsk regnskap"
 meta_description: '**Fusjon** er en selskapsrettslig prosess hvor to eller flere selskaper slås sammen til én juridisk enhet. Fusjon er et sentralt verktøy for reorganisering, ...'
 slug: fusjon
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Forsikringspremie i Regnskap?"
-meta_title: "Hva er Forsikringspremie i Regnskap?"
+seoTitle: "Hva er Forsikringspremie i Regnskap?"
 meta_description: '**Forsikringspremie** er en **forskuddsbetalt kostnad** som gir virksomheten forsikringsdekning over en bestemt periode. Denne artikkelen gir en grundig gjennom...'
 slug: forsikringspremie
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er akkordlønn?"
-meta_title: "Hva er akkordlønn?"
+seoTitle: "Hva er akkordlønn?"
 meta_description: '**Akkordlønn** er en form for **[produksjonslønn](/blogs/regnskap/hva-er-produksjonslonn "Hva er Produksjonslønn? Komplett Guide til Produksjonsbasert Lønn"...'
 slug: hva-er-akkordlonn
 type: blog

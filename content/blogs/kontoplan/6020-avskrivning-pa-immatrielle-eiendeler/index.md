@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 6020 - Avskrivning på immaterielle eiendeler"
-meta_title: "6020-avskrivning-pa-immatrielle-eiendeler"
+seoTitle: "6020-avskrivning-pa-immatrielle-eiendeler"
 meta_description: '**Konto 6020 - Avskrivning på immaterielle eiendeler** er en konto i norsk kontoplan som benyttes for å fordele **anskaffelseskostnaden** til immaterielle eie...'
 slug: 6020-avskrivning-pa-immatrielle-eiendeler
 type: blog

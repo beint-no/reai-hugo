@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er en CSV-fil?"
-meta_title: "Hva er en CSV-fil?"
+seoTitle: "Hva er en CSV-fil?"
 meta_description: 'En **CSV-fil** (Comma-Separated Values) er et enkelt tekstfilformat som brukes til å lagre og utveksle strukturerte data mellom ulike systemer. I regnskapssamm...'
 slug: hva-er-csv-fil
 type: blog

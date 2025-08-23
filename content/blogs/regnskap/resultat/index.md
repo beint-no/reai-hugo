@@ -1,6 +1,6 @@
 ﻿---
 title: "Resultat i Norsk Regnskap"
-meta_title: "Resultat i Norsk Regnskap"
+seoTitle: "Resultat i Norsk Regnskap"
 meta_description: '**Resultat** er det sentrale begrepet i resultatregnskapet som viser om en bedrift har *overskudd* eller *underskudd* i en gitt periode.'
 slug: resultat
 type: blog

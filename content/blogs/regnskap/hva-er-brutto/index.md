@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Brutto i Regnskap?"
-meta_title: "Hva er Brutto i Regnskap?"
+seoTitle: "Hva er Brutto i Regnskap?"
 meta_description: '**Brutto** er et grunnleggende begrep i [regnskapet](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide") som refererer til **totalbeløpet fø...'
 slug: hva-er-brutto
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Konto 1050 - Varemerker?"
-meta_title: "1050"
+seoTitle: "1050"
 meta_description: '**Konto 1050 - Varemerker** er en sentral konto i norsk kontoplan som anvendes for å registrere [immaterielle eiendeler](/blogs/regnskap/hva-er-imaterielle-eie...'
 slug: 1050
 type: blog

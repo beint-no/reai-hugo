@@ -1,6 +1,6 @@
 ﻿---
 title: "Udekket tap"
-meta_title: "Udekket tap"
+seoTitle: "Udekket tap"
 meta_description: '**Udekket tap** er et viktig begrep i [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse? Komplett Guide til Balanseregnskap") som viser akkumulerte tap ...'
 slug: udekket-tap
 type: blog

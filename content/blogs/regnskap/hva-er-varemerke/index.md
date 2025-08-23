@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er varemerke?"
-meta_title: "Hva er varemerke?"
+seoTitle: "Hva er varemerke?"
 meta_description: '**Varemerke** er et juridisk beskyttet kjennetegn som identifiserer varer eller tjenester og gir rettighetshaver enerett til bruk. I norsk regnskap klassifisere...'
 slug: hva-er-varemerke
 type: blog

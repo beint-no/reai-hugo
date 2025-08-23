@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Lett Salær i Regnskap?"
-meta_title: "Hva er Lett Salær i Regnskap?"
+seoTitle: "Hva er Lett Salær i Regnskap?"
 meta_description: '**Lett salær** er en spesiell lønnsordning i Norge som gir **skattemessige fordeler** for både arbeidsgiver og arbeidstaker. Ordningen innebærer at visse ty...'
 slug: hva-er-lett-salaer
 type: blog

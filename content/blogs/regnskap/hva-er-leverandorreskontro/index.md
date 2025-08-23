@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er leverandørreskontro?"
-meta_title: "Hva er leverandørreskontro?"
+seoTitle: "Hva er leverandørreskontro?"
 meta_description: '**Leverandørreskontro** er et detaljert register som viser alle økonomiske transaksjoner mellom bedriften og hver enkelt leverandør. Dette er en **underresko...'
 slug: hva-er-leverandorreskontro
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Skatteetaten"
-meta_title: "Skatteetaten"
+seoTitle: "Skatteetaten"
 meta_description: '## Innledning'
 slug: skatteetaten
 type: blog

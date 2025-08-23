@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er kontonummer?"
-meta_title: "Hva er kontonummer?"
+seoTitle: "Hva er kontonummer?"
 meta_description: 'Et **kontonummer** er en unik numerisk identifikator som banker bruker for å identifisere individuelle bankkontoer. I Norge følger kontonummer en standardiser...'
 slug: hva-er-kontonummer
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Royalty"
-meta_title: "Royalty"
+seoTitle: "Royalty"
 meta_description: 'Royalty er et [vederlag](/blogs/regnskap/hva-er-vederlag "Hva er Vederlag i Regnskap? Komplett Guide til Vederlag og Kompensasjon") som betales for bruk av **im...'
 slug: royalty
 type: blog

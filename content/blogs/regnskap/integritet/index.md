@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Integritet i Regnskap?"
-meta_title: "Hva er Integritet i Regnskap?"
+seoTitle: "Hva er Integritet i Regnskap?"
 meta_description: '**Integritet** i norsk regnskap handler om evnen til å opprettholde **pålitelighet**, **troverdighet** og **etisk seriøsitet** i all finansiell rapportering ...'
 slug: integritet
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 6820 - Trykksaker"
-meta_title: "6820-trykksaker"
+seoTitle: "6820-trykksaker"
 meta_description: '**Konto 6820 - Trykksaker** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **kostnader til trykksaker**, som visittkort, brosjyr...'
 slug: 6820-trykksaker
 type: blog

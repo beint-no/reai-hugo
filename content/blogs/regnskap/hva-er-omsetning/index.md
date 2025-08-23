@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er omsetning?"
-meta_title: "Hva er omsetning?"
+seoTitle: "Hva er omsetning?"
 meta_description: '**Omsetning** er den totale verdien av alle varer og tjenester som et selskap selger i løpet av en bestemt periode, målt til salgspris inkludert merverdiavgif...'
 slug: hva-er-omsetning
 type: blog

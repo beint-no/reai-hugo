@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 1620 - Investeringsavgift"
-meta_title: "1620-investeringsavgift"
+seoTitle: "1620-investeringsavgift"
 meta_description: '**Konto 1620 - Investeringsavgift** er en konto i **Norsk Standard Kontoplan** som brukes til å registrere **investeringsavgift** knyttet til investeringer i a...'
 slug: 1620-investeringsavgift
 type: blog

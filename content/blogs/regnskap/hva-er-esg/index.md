@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er ESG?"
-meta_title: "Hva er ESG?"
+seoTitle: "Hva er ESG?"
 meta_description: '**ESG** (Environmental, Social, Governance) representerer et rammeverk for å evaluere og rapportere om en virksomhets bærekraftsprestasjon og samfunnsansvar. ...'
 slug: hva-er-esg
 type: blog

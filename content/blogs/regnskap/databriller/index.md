@@ -1,6 +1,6 @@
 ﻿---
 title: "Databriller i Regnskap – Visualisering og Analyse av Regnskapsdata"
-meta_title: "Databriller i Regnskap “ Visualisering og Analyse av Regnskapsdata"
+seoTitle: "Databriller i Regnskap “ Visualisering og Analyse av Regnskapsdata"
 meta_description: '**Databriller** er moderne **dashboards** og **datavisualiseringsverktøy** som gir regnskapsførere og ledere sanntidsinnsikt i økonomiske [nøkkeltall](/blog...'
 slug: databriller
 type: blog

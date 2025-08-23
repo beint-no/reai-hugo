@@ -1,6 +1,6 @@
 ﻿---
 title: "Norges Bank"
-meta_title: "Norges Bank"
+seoTitle: "Norges Bank"
 meta_description: '**Norges Bank** er **Norges sentralbank** og ansvarlig for å gjennomføre pengepolitikken, utstede norske kroner, forvalte valutareserver og sikre finansiell s...'
 slug: norges-bank
 type: blog

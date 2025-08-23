@@ -1,6 +1,6 @@
 ﻿---
 title: "Skatt på utbytte"
-meta_title: "Skatt på utbytte"
+seoTitle: "Skatt på utbytte"
 meta_description: '**Skatt på utbytte** omfatter skattereglene for utbytte som utdeles til aksjonærer i Norge for både privatpersoner og selskaper. Denne artikkelen gir en deta...'
 slug: skatt-pa-utbytte
 type: blog

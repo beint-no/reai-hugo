@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er rettsgebyr?"
-meta_title: "Hva er rettsgebyr?"
+seoTitle: "Hva er rettsgebyr?"
 meta_description: '**Rettsgebyr** er gebyrer som kreves av det offentlige, vanligvis domstolene, for å dekke kostnader knyttet til rettslige prosesser og tvangsfullbyrdelse. Dett...'
 slug: rettsgebyr
 type: blog

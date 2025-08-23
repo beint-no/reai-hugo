@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er en Bankgaranti?"
-meta_title: "Hva er en Bankgaranti?"
+seoTitle: "Hva er en Bankgaranti?"
 meta_description: 'En **bankgaranti** er en form for **sikkerhetsstillelse** der en bank forplikter seg skriftlig til å dekke et beløp til en mottaker dersom bankens kunde ikke ...'
 slug: bankgaranti
 type: blog

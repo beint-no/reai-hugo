@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Vedtekter for Aksjeselskap?"
-meta_title: "Hva er Vedtekter for Aksjeselskap?"
+seoTitle: "Hva er Vedtekter for Aksjeselskap?"
 meta_description: '**Vedtekter for aksjeselskap** er obligatoriske juridiske bestemmelser som regulerer hvordan et [aksjeselskap (AS)](/blogs/regnskap/hva-er-et-aksjeselskap "Hva ...'
 slug: hva-er-vedtekter-for-aksjeselskap
 type: blog

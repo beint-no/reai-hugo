@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Skjermingsrente?"
-meta_title: "Hva er Skjermingsrente?"
+seoTitle: "Hva er Skjermingsrente?"
 meta_description: '**Skjermingsrente** er den **risikofrie renten** som brukes til å beregne [skjermingsfradrag](/blogs/regnskap/hva-er-skjermingsfradrag "Hva er Skjermingsfradra...'
 slug: hva-er-skjermingsrente
 type: blog

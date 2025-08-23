@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Betalingstjenestedirektivet (PSD2)?"
-meta_title: "Hva er Betalingstjenestedirektivet (PSD2)?"
+seoTitle: "Hva er Betalingstjenestedirektivet (PSD2)?"
 meta_description: '**Betalingstjenestedirektivet (PSD2)** er EUs omfattende regelverk som regulerer [betalingstjenester](/blogs/regnskap/betalingstjeneste "Hva er betalingstjenest...'
 slug: hva-er-betalingstjenestedirektivet
 type: blog

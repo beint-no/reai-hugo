@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er inntakskost og kostpris?"
-meta_title: "Hva er inntakskost og kostpris?"
+seoTitle: "Hva er inntakskost og kostpris?"
 meta_description: '**Inntakskost** og **kostpris** er fundamentale begreper i regnskapsføring og økonomistyring som beskriver de totale kostnadene knyttet til anskaffelse, produ...'
 slug: hva-er-inntakskost
 type: blog

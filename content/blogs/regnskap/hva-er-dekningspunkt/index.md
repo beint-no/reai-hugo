@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er dekningspunkt?"
-meta_title: "Hva er dekningspunkt?"
+seoTitle: "Hva er dekningspunkt?"
 meta_description: '**Dekningspunkt** (også kalt break-even point) er det punktet hvor en bedrifts totale inntekter er lik totale kostnader, og bedriften verken går med overskudd...'
 slug: hva-er-dekningspunkt
 type: blog

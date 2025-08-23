@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Saldogruppe?"
-meta_title: "Hva er Saldogruppe?"
+seoTitle: "Hva er Saldogruppe?"
 meta_description: '**Saldogruppe** er en kategorisering av eiendeler i norsk regnskap som bestemmer hvilke **skattemessige avskrivningssatser** som gjelder. Ved å samle eiendeler...'
 slug: saldogruppe
 type: blog

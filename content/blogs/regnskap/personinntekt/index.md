@@ -1,6 +1,6 @@
 ﻿---
 title: "Personinntekt"
-meta_title: "Personinntekt"
+seoTitle: "Personinntekt"
 meta_description: '**Personinntekt** er det skattemessige grunnlaget for beregning av personskatt, **trygdeavgift** og **trinnskatt** for både lønnsmottakere og personlig nærin...'
 slug: personinntekt
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Avkastning?"
-meta_title: "Hva er Avkastning?"
+seoTitle: "Hva er Avkastning?"
 meta_description: '**Avkastning** er gevinsten eller tapet du får på en [investering](/blogs/regnskap/hva-er-investere "Hva er å Investere? Komplett Guide til Investeringer i R...'
 slug: hva-er-avkastning
 type: blog

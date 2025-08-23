@@ -1,6 +1,6 @@
 ﻿---
 title: "Ordrebekreftelse"
-meta_title: "Ordrebekreftelse"
+seoTitle: "Ordrebekreftelse"
 meta_description: '**Ordrebekreftelse** er en skriftlig bekreftelse fra selger til kjøper om mottatt bestilling og detaljer om varer eller tjenester som skal leveres. I norsk reg...'
 slug: ordrebekreftelse
 type: blog

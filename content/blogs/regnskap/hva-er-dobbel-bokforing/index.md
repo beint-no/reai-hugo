@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Dobbel Bokføring? Komplett Guide til Dobbelt Bokføringssystem"
-meta_title: "Hva er Dobbel Bokføring? Komplett Guide til Dobbelt Bokføringssystem"
+seoTitle: "Hva er Dobbel Bokføring? Komplett Guide til Dobbelt Bokføringssystem"
 meta_description: '**Dobbel bokføring** er det fundamentale regnskapssystemet som danner grunnlaget for moderne [bokføring](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? ...'
 slug: hva-er-dobbel-bokforing
 type: blog

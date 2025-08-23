@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Konto 1040 - Lisenser?"
-meta_title: "1040"
+seoTitle: "1040"
 meta_description: '**Konto 1040 - Lisenser** er en viktig konto i norsk kontoplan som benyttes for å registrere [immaterielle eiendeler](/blogs/regnskap/hva-er-imaterielle-eiende...'
 slug: 1040
 type: blog

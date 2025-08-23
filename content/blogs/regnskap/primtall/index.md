@@ -1,6 +1,6 @@
 ﻿---
 title: "Primtall"
-meta_title: "Primtall"
+seoTitle: "Primtall"
 meta_description: '**Primtall** er heltall større enn 1 som kun er delelige med 1 og seg selv. Dette abstrakte, men viktige, **matematiske konseptet** har sentrale anvendelser i ...'
 slug: primtall
 type: blog

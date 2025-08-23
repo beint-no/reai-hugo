@@ -1,6 +1,6 @@
 ﻿---
 title: "Bilag i Regnskap – Guide til Dokumentasjon og Behandling"
-meta_title: "Bilag i Regnskap “ Guide til Dokumentasjon og Behandling"
+seoTitle: "Bilag i Regnskap “ Guide til Dokumentasjon og Behandling"
 meta_description: '**Bilag** er grunnlaget for all **regnskapsføring** og dokumenterer hver forretningshendelse med nødvendig informasjon for korrekt [bokføring](/blogs/regnska...'
 slug: bilag
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er budsjettering?"
-meta_title: "Hva er budsjettering?"
+seoTitle: "Hva er budsjettering?"
 meta_description: '**Budsjettering** er en systematisk planleggingsprosess hvor bedrifter estimerer fremtidige inntekter, kostnader og kontantstrømmer for bestemte [terminer](/bl...'
 slug: hva-er-budsjettering
 type: blog

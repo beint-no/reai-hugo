@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Bokføringsplikt i Norge?"
-meta_title: "Hva er Bokføringsplikt i Norge?"
+seoTitle: "Hva er Bokføringsplikt i Norge?"
 meta_description: '**Bokføringsplikt** er den lovpålagte forpliktelsen for virksomheter i Norge til å føre [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komp...'
 slug: hva-er-bokforingsplikt
 type: blog

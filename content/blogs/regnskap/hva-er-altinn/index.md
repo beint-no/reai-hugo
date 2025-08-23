@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Altinn?"
-meta_title: "Hva er Altinn?"
+seoTitle: "Hva er Altinn?"
 meta_description: '**Altinn** er Norges felles internettportal for digital dialog mellom næringslivet, privatpersoner og offentlige etater. Siden oppstarten i 2003 har Altinn rev...'
 slug: hva-er-altinn
 type: blog

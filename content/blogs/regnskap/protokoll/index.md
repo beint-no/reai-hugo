@@ -1,6 +1,6 @@
 ﻿---
 title: "Protokoll"
-meta_title: "Protokoll"
+seoTitle: "Protokoll"
 meta_description: '**Protokoll** er det formelle dokumentet som **dokumenterer** vedtak, diskusjoner og beslutningsprosesser i **generalforsamlinger**, **styremøter** og andre fo...'
 slug: protokoll
 type: blog

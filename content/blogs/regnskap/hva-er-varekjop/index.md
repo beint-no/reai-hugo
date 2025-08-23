@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er varekjøp?"
-meta_title: "Hva er varekjøp?"
+seoTitle: "Hva er varekjøp?"
 meta_description: '**Varekjøp** er anskaffelse av varer som skal selges videre til kunder, og utgjør en av de største kostnadene for handelsvirksomheter. Dette er [varelager](/...'
 slug: hva-er-varekjop
 type: blog

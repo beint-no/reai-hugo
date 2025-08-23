@@ -1,6 +1,6 @@
 ﻿---
 title: "Sosiale kostnader – Definisjon, Eksempler og Regnskapsføring i Norge"
-meta_title: "Sosiale kostnader “ Definisjon, Eksempler og Regnskapsføring i Norge"
+seoTitle: "Sosiale kostnader “ Definisjon, Eksempler og Regnskapsføring i Norge"
 meta_description: '![Illustrasjon som viser sosiale kostnader](sosiale-kostnader-image.svg)'
 slug: sosiale-kostnader
 type: blog

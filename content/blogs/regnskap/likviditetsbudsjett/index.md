@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er likviditetsbudsjett?"
-meta_title: "Hva er likviditetsbudsjett?"
+seoTitle: "Hva er likviditetsbudsjett?"
 meta_description: '**Likviditetsbudsjett** er et spesialisert finansielt planleggingsverktøy som fokuserer på å forutsi og styre bedriftens kontantstrømmer over en bestemt per...'
 slug: likviditetsbudsjett
 type: blog

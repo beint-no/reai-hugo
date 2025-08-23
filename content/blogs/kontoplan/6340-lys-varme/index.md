@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 6340 - Lys, varme"
-meta_title: "6340-lys-varme"
+seoTitle: "6340-lys-varme"
 meta_description: '**Konto 6340 - Lys, varme** er en konto i Norsk Standard Kontoplan som brukes til å registrere **lys- og varmekostnader** i virksomhetens drift.'
 slug: 6340-lys-varme
 type: blog

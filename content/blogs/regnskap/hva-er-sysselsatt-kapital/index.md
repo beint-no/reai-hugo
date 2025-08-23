@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Sysselsatt Kapital?"
-meta_title: "Hva er Sysselsatt Kapital?"
+seoTitle: "Hva er Sysselsatt Kapital?"
 meta_description: '**Sysselsatt kapital** er den totale [kapitalen](/blogs/regnskap/hva-er-kapital "Hva er Kapital? Komplett Guide til Kapitaltyper i Regnskap og Økonomi") som en...'
 slug: hva-er-sysselsatt-kapital
 type: blog

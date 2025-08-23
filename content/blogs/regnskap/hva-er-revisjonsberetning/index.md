@@ -1,6 +1,6 @@
 ﻿---
 title: "Revisjonsberetning"
-meta_title: "Revisjonsberetning"
+seoTitle: "Revisjonsberetning"
 meta_description: '**Revisjonsberetning** er den offisielle rapporten som en revisor utarbeider etter fullført revisjon for å uttrykke sin mening om om årsregnskapet er utarbei...'
 slug: hva-er-revisjonsberetning
 type: blog

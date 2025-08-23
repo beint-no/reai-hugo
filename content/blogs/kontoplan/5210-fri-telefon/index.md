@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 5210 - Fri telefon"
-meta_title: "5210-fri-telefon"
+seoTitle: "5210-fri-telefon"
 meta_description: '**Konto 5210 - Fri telefon** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **verdi av fri telefon** som **ansattgode**.'
 slug: 5210-fri-telefon
 type: blog

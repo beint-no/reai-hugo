@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Selvfinansiering?"
-meta_title: "Hva er Selvfinansiering?"
+seoTitle: "Hva er Selvfinansiering?"
 meta_description: '**Selvfinansiering** er en fundamental strategi for å finansiere bedriftens drift og vekst gjennom egen [kapitaltilførsel](/blogs/regnskap/hva-er-kapital "Hva...'
 slug: hva-er-selvfinansiering
 type: blog

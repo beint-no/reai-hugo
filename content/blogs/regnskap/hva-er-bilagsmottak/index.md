@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Bilagsmottak?"
-meta_title: "Hva er Bilagsmottak?"
+seoTitle: "Hva er Bilagsmottak?"
 meta_description: '**Bilagsmottak** er den systematiske prosessen for mottak, registrering, kontroll og behandling av alle regnskapsdokumenter som kommer inn til en virksomhet. De...'
 slug: hva-er-bilagsmottak
 type: blog

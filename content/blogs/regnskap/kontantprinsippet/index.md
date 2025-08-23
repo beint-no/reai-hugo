@@ -1,6 +1,6 @@
 ﻿---
 title: "Kontantprinsippet"
-meta_title: "Kontantprinsippet"
+seoTitle: "Kontantprinsippet"
 meta_description: '**Kontantprinsippet** er et regnskapsprinsipp hvor inntekter og utgifter bokføres når kontanter faktisk **mottas** eller **betales**, i motsetning til periodi...'
 slug: kontantprinsippet
 type: blog

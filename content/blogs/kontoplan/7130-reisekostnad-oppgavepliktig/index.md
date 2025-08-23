@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Konto 7130 - Reisekostnad, oppgavepliktig?"
-meta_title: "7130-reisekostnad-oppgavepliktig"
+seoTitle: "7130-reisekostnad-oppgavepliktig"
 meta_description: '**Konto 7130 - Reisekostnad, oppgavepliktig** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **oppgavepliktige reisekostnade...'
 slug: 7130-reisekostnad-oppgavepliktig
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er grunnbeløp?"
-meta_title: "Hva er grunnbeløp?"
+seoTitle: "Hva er grunnbeløp?"
 meta_description: '**Grunnbeløpet** (forkortet **G**) er en av de mest fundamentale størrelsene i det norske trygde- og skattesystemet. Det fungerer som en referanseenhet som br...'
 slug: hva-er-grunnbelop
 type: blog

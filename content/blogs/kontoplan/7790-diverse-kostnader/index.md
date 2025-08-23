@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 7790 - Diverse kostnader"
-meta_title: "7790-diverse-kostnader"
+seoTitle: "7790-diverse-kostnader"
 meta_description: '**Konto 7790 - Diverse kostnader** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **diverse kostnader** som ikke naturlig fa...'
 slug: 7790-diverse-kostnader
 type: blog

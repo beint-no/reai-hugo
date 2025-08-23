@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er nominell rente?"
-meta_title: "Hva er nominell rente?"
+seoTitle: "Hva er nominell rente?"
 meta_description: '**Nominell rente** er en spesifikk type [rente](/blogs/regnskap/rente "Rente “ En komplett guide til rente i regnskap") som angir den oppgitte årsrenten uten...'
 slug: hva-er-nominell-rente
 type: blog

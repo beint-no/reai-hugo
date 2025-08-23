@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Konto 2360 - Byggelån?"
-meta_title: "2360-byggelan"
+seoTitle: "2360-byggelan"
 meta_description: '**Konto 2360 - Byggelån** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **lån til byggeprosjekter**, både kortsiktige og lan...'
 slug: 2360-byggelan
 type: blog

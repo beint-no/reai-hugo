@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er A-ordningen?"
-meta_title: "Hva er A-ordningen?"
+seoTitle: "Hva er A-ordningen?"
 meta_description: 'A-ordningen representerer en av de største moderniseringene i norsk offentlig forvaltning. Men hva er det egentlig?'
 slug: hva-er-a-ordningen
 type: blog

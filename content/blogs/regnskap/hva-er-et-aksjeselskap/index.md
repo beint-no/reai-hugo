@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er et Aksjeselskap?"
-meta_title: "Hva er et Aksjeselskap?"
+seoTitle: "Hva er et Aksjeselskap?"
 meta_description: 'For en oversikt over ulike selskapsformer i Norge, se [Selskapsform](/blogs/regnskap/selskapsform "Selskapsform: Oversikt over selskapsformer i Norge").'
 slug: hva-er-et-aksjeselskap
 type: blog

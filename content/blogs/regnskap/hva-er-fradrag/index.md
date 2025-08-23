@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er fradrag i regnskap?"
-meta_title: "Hva er fradrag i regnskap?"
+seoTitle: "Hva er fradrag i regnskap?"
 meta_description: '**Fradrag** i regnskap og skatterett er kostnader eller utgifter som kan trekkes fra inntektene for å redusere det skattepliktige grunnlaget. Dette er et funda...'
 slug: hva-er-fradrag
 type: blog

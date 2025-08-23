@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 3063 - Uttak av varer avgiftspliktig middels sats"
-meta_title: "3063-uttak-av-varer-avgiftspliktig-middels-sats"
+seoTitle: "3063-uttak-av-varer-avgiftspliktig-middels-sats"
 meta_description: '**Konto 3063 - Uttak av varer avgiftspliktig middels sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **uttak av varer** fra varelager...'
 slug: 3063-uttak-av-varer-avgiftspliktig-middels-sats
 type: blog

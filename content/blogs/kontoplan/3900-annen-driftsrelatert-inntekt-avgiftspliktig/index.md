@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 3900 - Annen driftsrelatert inntekt, avgiftspliktig"
-meta_title: "3900-annen-driftsrelatert-inntekt-avgiftspliktig"
+seoTitle: "3900-annen-driftsrelatert-inntekt-avgiftspliktig"
 meta_description: '**Konto 3900 - Annen driftsrelatert inntekt, avgiftspliktig** er en konto i Norsk Standard Kontoplan som brukes til å registrere **andre driftsrelaterte inntek...'
 slug: 3900-annen-driftsrelatert-inntekt-avgiftspliktig
 type: blog

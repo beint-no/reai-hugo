@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er OCR? Optical Character Recognition i Regnskap"
-meta_title: "Hva er OCR? Optical Character Recognition i Regnskap"
+seoTitle: "Hva er OCR? Optical Character Recognition i Regnskap"
 meta_description: '**OCR (Optical Character Recognition)** er en teknologi som konverterer skannet tekst fra dokumenter, PDF-er og bilder til redigerbar data. I moderne [regnskaps...'
 slug: hva-er-ocr
 type: blog

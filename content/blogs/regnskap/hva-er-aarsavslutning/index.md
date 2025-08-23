@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Årsavslutning i Regnskap?"
-meta_title: "Hva er Årsavslutning i Regnskap?"
+seoTitle: "Hva er Årsavslutning i Regnskap?"
 meta_description: '**Årsavslutning** er en kritisk og kompleks prosess som markerer slutten på et regnskapsår og sikrer at virksomhetens finansielle rapporter reflekterer den k...'
 slug: hva-er-aarsavslutning
 type: blog

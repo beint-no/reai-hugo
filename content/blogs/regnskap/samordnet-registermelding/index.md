@@ -1,6 +1,6 @@
 ﻿---
 title: "Samordnet registermelding"
-meta_title: "Samordnet registermelding"
+seoTitle: "Samordnet registermelding"
 meta_description: 'Samordnet registermelding er en **enhetlig digital rapport** som samler alle krav til lønns- og arbeidsforholdrapportering for [arbeidsgivere](/blogs/regnskap/...'
 slug: samordnet-registermelding
 type: blog

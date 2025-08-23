@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er en faktura?"
-meta_title: "Hva er en faktura?"
+seoTitle: "Hva er en faktura?"
 meta_description: 'En faktura er et formelt, juridisk bindende dokument som en selger utsteder til en kjøper for å kreve betaling for varer eller tjenester. Den fungerer som et ...'
 slug: hva-er-en-faktura
 type: blog

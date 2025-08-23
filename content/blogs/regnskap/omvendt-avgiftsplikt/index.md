@@ -1,6 +1,6 @@
 ﻿---
 title: "omvendt-avgiftsplikt"
-meta_title: "omvendt-avgiftsplikt"
+seoTitle: "omvendt-avgiftsplikt"
 meta_description: '**Omvendt avgiftsplikt** er en spesiell ordning innenfor merverdiavgiftssystemet hvor **kjøperen**, ikke selgeren, blir ansvarlig for å beregne og betale MVA ...'
 slug: omvendt-avgiftsplikt
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 3110 - Salgsinntekt egentilvirkede varer avgiftsfri"
-meta_title: "3110-salgsinntekt-egentilvirkede-varer-avgiftsfri"
+seoTitle: "3110-salgsinntekt-egentilvirkede-varer-avgiftsfri"
 meta_description: '**Konto 3110 - Salgsinntekt egentilvirkede varer avgiftsfri** er en konto i Norsk Standard Kontoplan som brukes til å registrere **salgsinntekter** fra **egent...'
 slug: 3110-salgsinntekt-egentilvirkede-varer-avgiftsfri
 type: blog

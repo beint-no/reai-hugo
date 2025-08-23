@@ -1,6 +1,6 @@
 ﻿---
 title: "Ansvarlig Selskap (ANS)"
-meta_title: "Ansvarlig Selskap (ANS)"
+seoTitle: "Ansvarlig Selskap (ANS)"
 meta_description: '![Illustrasjon av Ansvarlig Selskap (ANS)](ansvarlig-selskap-image.svg)'
 slug: ansvarlig-selskap
 type: blog

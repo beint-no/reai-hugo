@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er en kreditnota?"
-meta_title: "Hva er en kreditnota?"
+seoTitle: "Hva er en kreditnota?"
 meta_description: 'En **kreditnota** er et regnskapsdokument som fungerer som en "negativ faktura" - den reduserer eller annullerer helt eller delvis en tidligere utstedt [faktura...'
 slug: hva-er-kreditnota
 type: blog

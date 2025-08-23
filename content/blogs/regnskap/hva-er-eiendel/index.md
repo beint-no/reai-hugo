@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er eiendel?"
-meta_title: "Hva er eiendel?"
+seoTitle: "Hva er eiendel?"
 meta_description: '**Eiendel** er et grunnleggende begrep i [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Dybdeanalyse for Norge") som omfatter alle verdier og r...'
 slug: hva-er-eiendel
 type: blog

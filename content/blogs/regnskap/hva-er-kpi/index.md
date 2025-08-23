@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er KPI?"
-meta_title: "Hva er KPI?"
+seoTitle: "Hva er KPI?"
 meta_description: '**KPI** (Key Performance Indicators) er målbare verdier som viser hvor effektivt en bedrift oppnår sine viktigste forretningsmål. I [regnskap](/blogs/regnska...'
 slug: hva-er-kpi
 type: blog

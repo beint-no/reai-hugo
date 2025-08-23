@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 4000 - Innkjøp av råvarer og halvfabrikata høy sats"
-meta_title: "4000-innkjop-av-raavarer-og-halvfabrikata-hoy-sats"
+seoTitle: "4000-innkjop-av-raavarer-og-halvfabrikata-hoy-sats"
 meta_description: '**Konto 4000 - Innkjøp av råvarer og halvfabrikata høy sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kjøp av råvarer og innk...'
 slug: 4000-innkjop-av-raavarer-og-halvfabrikata-hoy-sats
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er GHG-protokollen?"
-meta_title: "Hva er GHG-protokollen?"
+seoTitle: "Hva er GHG-protokollen?"
 meta_description: '**GHG-protokollen** (Greenhouse Gas Protocol) er den mest anerkjente internasjonale standarden for måling og rapportering av klimagassutslipp fra bedrifter og ...'
 slug: hva-er-ghg-protokollen
 type: blog

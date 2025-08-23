@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Tilbud?"
-meta_title: "Hva er Tilbud?"
+seoTitle: "Hva er Tilbud?"
 meta_description: 'Et **tilbud** er en forretningsproposisjon hvor en leverandør presenterer sine produkter, tjenester, priser og vilkår for en potensiell kunde. I regnskapssamm...'
 slug: hva-er-tilbud
 type: blog

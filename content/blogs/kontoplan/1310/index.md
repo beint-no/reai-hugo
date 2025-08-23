@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Konto 1310 - Investeringer annet foretak i samme konsern?"
-meta_title: "1310"
+seoTitle: "1310"
 meta_description: '**Konto 1310 - Investeringer annet foretak i samme konsern** er en konto i Norsk Standard Kontoplan som brukes til å registrere **langsiktige investeringer** i...'
 slug: 1310
 type: blog

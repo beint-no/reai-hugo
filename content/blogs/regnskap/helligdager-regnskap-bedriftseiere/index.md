@@ -1,6 +1,6 @@
 ﻿---
 title: "Helligdager (regnskap, bedriftseiere)"
-meta_title: "Helligdager (regnskap, bedriftseiere)"
+seoTitle: "Helligdager (regnskap, bedriftseiere)"
 meta_description: '**Helligdager** representerer en kompleks regnskapsmessig utfordring for norske bedriftseiere, hvor juridiske krav, lønnsforpliktelser og regnskapsføring må ...'
 slug: helligdager-regnskap-bedriftseiere
 type: blog

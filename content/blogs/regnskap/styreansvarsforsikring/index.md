@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Styreansvarsforsikring?"
-meta_title: "Hva er Styreansvarsforsikring?"
+seoTitle: "Hva er Styreansvarsforsikring?"
 meta_description: '**Styreansvarsforsikring** er en forsikring som beskytter **styremedlemmer** mot **erstatningskrav** i forbindelse med feil eller forsømmelser i styrearbeidet....'
 slug: styreansvarsforsikring
 type: blog

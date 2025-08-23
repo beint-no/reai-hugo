@@ -1,6 +1,6 @@
 ﻿---
 title: "Toppskatt"
-meta_title: "Toppskatt"
+seoTitle: "Toppskatt"
 meta_description: '**Toppskatt** er en ekstra skattesats som pålegges inntekter over visse terskelnivåer. Dette er en viktig del av det progressive norske skattesystemet, og på...'
 slug: toppskatt
 type: blog

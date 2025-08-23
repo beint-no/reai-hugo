@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Q-ratio (Tobin's Q)?"
-meta_title: "Hva er Q-ratio (Tobin's Q)?"
+seoTitle: "Hva er Q-ratio (Tobin's Q)?"
 meta_description: '**Q-ratio**, også kjent som **Tobins Q**, er et av de mest verdifulle verktøyene innen finansiell analyse og verdivurdering. Dette nøkkeltallet sammenligner...'
 slug: hva-er-q-ratio
 type: blog

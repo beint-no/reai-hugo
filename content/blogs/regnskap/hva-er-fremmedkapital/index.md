@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Fremmedkapital?"
-meta_title: "Hva er Fremmedkapital?"
+seoTitle: "Hva er Fremmedkapital?"
 meta_description: '**Fremmedkapital** er den delen av et selskaps totale [kapital](/blogs/regnskap/hva-er-kapital "Hva er Kapital? Komplett Guide til Kapitaltyper i Regnskap og Ø...'
 slug: hva-er-fremmedkapital
 type: blog

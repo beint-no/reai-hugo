@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Konto 8030 - Renteinntekt på foretak i samme konsern?"
-meta_title: "8030-renteinntekt-pa-foretak-i-samme-konsern"
+seoTitle: "8030-renteinntekt-pa-foretak-i-samme-konsern"
 meta_description: '**Konto 8030 - Renteinntekt på foretak i samme konsern** er en konto i Norsk Standard Kontoplan som brukes til å registrere **renteinntekter** fra foretak i s...'
 slug: 8030-renteinntekt-pa-foretak-i-samme-konsern
 type: blog

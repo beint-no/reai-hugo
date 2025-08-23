@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er EHF?"
-meta_title: "Hva er EHF?"
+seoTitle: "Hva er EHF?"
 meta_description: '**EHF** (Elektronisk Handelsformat) er Norges nasjonale standard for elektronisk utveksling av handelsdokumenter, spesielt [fakturaer](/blogs/regnskap/hva-er-en...'
 slug: hva-er-ehf
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Reelle Rettighetshavere: Ultimate Beneficial Ownership i Norge"
-meta_title: "Reelle Rettighetshavere: Ultimate Beneficial Ownership i Norge"
+seoTitle: "Reelle Rettighetshavere: Ultimate Beneficial Ownership i Norge"
 meta_description: '![Reelle Rettighetshavere](reelle-rettighetshavere-image.svg)'
 slug: reelle-rettighetshavere
 type: blog

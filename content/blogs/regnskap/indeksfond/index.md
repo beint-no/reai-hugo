@@ -1,6 +1,6 @@
 ﻿---
 title: "Indeksfond"
-meta_title: "Indeksfond"
+seoTitle: "Indeksfond"
 meta_description: '![Indeksfond](indeksfond-image.svg)'
 slug: indeksfond
 type: blog

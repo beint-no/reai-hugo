@@ -1,6 +1,6 @@
 ﻿---
 title: "NIBOR"
-meta_title: "NIBOR"
+seoTitle: "NIBOR"
 meta_description: '**NIBOR** (Norwegian Interbank Offered Rate) er den viktigste **referanserenten** i det norske pengemarkedet. Den angir hva banker er villige til å låne ut ti...'
 slug: nibor
 type: blog

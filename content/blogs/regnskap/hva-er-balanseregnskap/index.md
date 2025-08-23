@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Balanseregnskap?"
-meta_title: "Hva er Balanseregnskap?"
+seoTitle: "Hva er Balanseregnskap?"
 meta_description: '**Balanseregnskap** er regnskapsføring og analyse av [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse? Komplett Guide til Balansens Oppbygging") som v...'
 slug: hva-er-balanseregnskap
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 5290 - Motkonto for gruppe 52"
-meta_title: "5290-motkonto-for-gruppe-52"
+seoTitle: "5290-motkonto-for-gruppe-52"
 meta_description: '**Konto 5290 - Motkonto for gruppe 52** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som fungerer som **motkonto** for alle transaksjoner i gruppeÂ 52 ...'
 slug: 5290-motkonto-for-gruppe-52
 type: blog

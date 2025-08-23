@@ -1,6 +1,6 @@
 ﻿---
 title: "Skatt på feriepenger"
-meta_title: "Skatt på feriepenger"
+seoTitle: "Skatt på feriepenger"
 meta_description: '**Skatt på feriepenger** handler om hvordan feriepengeutbetalinger **skattlegges** som **inntekt** i Norge. Å forstå regelverket for skattetrekk, periodiseri...'
 slug: skatt-pa-feriepenger
 type: blog

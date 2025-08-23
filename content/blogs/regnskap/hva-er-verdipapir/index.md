@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er verdipapir?"
-meta_title: "Hva er verdipapir?"
+seoTitle: "Hva er verdipapir?"
 meta_description: 'En **verdipapir** er et omsettelig finansielt instrument som gir innehaveren rettigheter eller krav som kan omsettes på et regulert marked eller utenom børs. ...'
 slug: hva-er-verdipapir
 type: blog

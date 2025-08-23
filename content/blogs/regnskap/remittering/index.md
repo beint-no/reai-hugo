@@ -1,6 +1,6 @@
 ﻿---
 title: "Remittering"
-meta_title: "Remittering"
+seoTitle: "Remittering"
 meta_description: '**Remittering** er en grunnleggende **betalingsmetode** innen regnskap som omfatter både **direkte remittering** og **indirekte remittering**. Remittering besk...'
 slug: remittering
 type: blog

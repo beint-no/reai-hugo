@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er en forretningsfører?"
-meta_title: "Hva er en forretningsfører?"
+seoTitle: "Hva er en forretningsfører?"
 meta_description: 'En **forretningsfører** er en person som har det daglige ansvaret for å drive en virksomhet på vegne av eierne. I norsk rett er forretningsføreren en sentra...'
 slug: hva-er-forretningsforer
 type: blog

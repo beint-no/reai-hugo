@@ -1,6 +1,6 @@
 ﻿---
 title: "Skattesats"
-meta_title: "Skattesats"
+seoTitle: "Skattesats"
 meta_description: '![Skattesats](skattesats-image.svg)'
 slug: skattesats
 type: blog

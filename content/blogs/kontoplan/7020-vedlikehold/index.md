@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 7020 - Vedlikehold"
-meta_title: "7020-vedlikehold"
+seoTitle: "7020-vedlikehold"
 meta_description: '**Konto 7020 - Vedlikehold** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **vedlikeholdskostnader** i virksomhetens drift.'
 slug: 7020-vedlikehold
 type: blog

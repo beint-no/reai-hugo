@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Aksjonærlån til AS?"
-meta_title: "Hva er Aksjonærlån til AS?"
+seoTitle: "Hva er Aksjonærlån til AS?"
 meta_description: 'Et **aksjonærlån til AS** er et lån som en [aksjonær](/blogs/regnskap/hva-er-en-aksjonaer "Hva er en Aksjonær? En Komplett Guide") gir til sitt eget [aksje...'
 slug: hva-er-aksjonaerlan-til-as
 type: blog

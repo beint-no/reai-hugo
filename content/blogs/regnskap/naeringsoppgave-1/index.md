@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Næringsoppgave 1?"
-meta_title: "Hva er Næringsoppgave 1?"
+seoTitle: "Hva er Næringsoppgave 1?"
 meta_description: '**NæringsoppgaveÂ 1** (ofte forkortet **N1**) er den vanligste skattemeldingen for næringsdrivende små virksomheter i Norge. I motsetning til generelle overs...'
 slug: naeringsoppgave-1
 type: blog

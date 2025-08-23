@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er dekningsgrad?"
-meta_title: "Hva er dekningsgrad?"
+seoTitle: "Hva er dekningsgrad?"
 meta_description: '**Dekningsgrad** er et viktig finansielt nøkkeltall som måler en bedrifts evne til å dekke sine forpliktelser og kostnader. Dette begrepet omfatter flere uli...'
 slug: hva-er-dekningsgrad
 type: blog

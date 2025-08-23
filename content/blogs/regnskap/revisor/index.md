@@ -1,6 +1,6 @@
 ﻿---
 title: "Revisor"
-meta_title: "Revisor"
+seoTitle: "Revisor"
 meta_description: 'Revisor er en kvalifisert profesjonell som har ansvaret for å gjennomføre **revisjon** av årsregnskap og sikre at regnskapet er korrekt, pålitelig og i sams...'
 slug: revisor
 type: blog

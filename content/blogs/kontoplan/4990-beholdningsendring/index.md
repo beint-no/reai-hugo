@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 4990 - Beholdningsendring"
-meta_title: "4990-beholdningsendring"
+seoTitle: "4990-beholdningsendring"
 meta_description: '**Konto 4990 - Beholdningsendring** er en konto i Norsk Standard Kontoplan som brukes til å registrere **endringer i varelagerets beholdning** i resultatregnsk...'
 slug: 4990-beholdningsendring
 type: blog

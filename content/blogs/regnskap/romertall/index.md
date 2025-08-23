@@ -1,6 +1,6 @@
 ﻿---
 title: "Romertall i Regnskap: Bruk av Romertall i Tittel, Noter og Nummerering"
-meta_title: "Romertall i Regnskap: Bruk av Romertall i Tittel, Noter og Nummerering"
+seoTitle: "Romertall i Regnskap: Bruk av Romertall i Tittel, Noter og Nummerering"
 meta_description: '**Romertall** er et system for tallrepresentasjon som bruker kombinasjoner av bokstavsymboler fra det latinske alfabetet (I, V, X, L, C, D, M) for å angi numer...'
 slug: romertall
 type: blog

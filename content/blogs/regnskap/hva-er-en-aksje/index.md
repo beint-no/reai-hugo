@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er en Aksje?"
-meta_title: "Hva er en Aksje?"
+seoTitle: "Hva er en Aksje?"
 meta_description: 'En **aksje** er en eierandel i et [aksjeselskap (AS)](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap? Komplett Guide til Selskapsformen"). Når ...'
 slug: hva-er-en-aksje
 type: blog

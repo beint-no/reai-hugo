@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er attestering?"
-meta_title: "Hva er attestering?"
+seoTitle: "Hva er attestering?"
 meta_description: '**Attestering** er en kritisk internkontrollprosess hvor autoriserte personer godkjenner og bekrefter at bilag, fakturaer og andre regnskapsdokumenter er korrek...'
 slug: hva-er-attestering
 type: blog

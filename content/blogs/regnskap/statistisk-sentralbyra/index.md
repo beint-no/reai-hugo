@@ -1,6 +1,6 @@
 ﻿---
 title: "Statistisk sentralbyrå (SSB)"
-meta_title: "Statistisk sentralbyrå (SSB)"
+seoTitle: "Statistisk sentralbyrå (SSB)"
 meta_description: '**Statistisk sentralbyrå (SSB)** er Norges **offisielle leverandør av statistikk** og en sentral aktør i utarbeidelse av data som påvirker økonomisk analys...'
 slug: statistisk-sentralbyra
 type: blog

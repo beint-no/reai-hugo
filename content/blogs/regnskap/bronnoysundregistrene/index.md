@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Brønnøysundregistrene?"
-meta_title: "Hva er Brønnøysundregistrene?"
+seoTitle: "Hva er Brønnøysundregistrene?"
 meta_description: '**Brønnøysundregistrene** er et offentlig forvaltningsorgan under Nærings- og fiskeridepartementet som administrerer flere sentrale norske registre. Dette in...'
 slug: bronnoysundregistrene
 type: blog

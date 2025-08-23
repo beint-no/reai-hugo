@@ -1,6 +1,6 @@
 ﻿---
 title: "Betalingsanmerkning"
-meta_title: "Betalingsanmerkning"
+seoTitle: "Betalingsanmerkning"
 meta_description: '**Betalingsanmerkning** er en offentlig registrering av betalingsmislighold som får alvorlige konsekvenser for en virksomhets eller persons **[kredittverdighet...'
 slug: betalingsanmerkning
 type: blog

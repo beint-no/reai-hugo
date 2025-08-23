@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Avskrivning i Regnskap?"
-meta_title: "Hva er Avskrivning i Regnskap?"
+seoTitle: "Hva er Avskrivning i Regnskap?"
 meta_description: '**Avskrivning** er en regnskapsmessig metode for å fordele [anskaffelseskosten](/blogs/regnskap/hva-er-anskaffelseskost "Hva er Anskaffelseskost? Komplett Guid...'
 slug: hva-er-avskrivning
 type: blog

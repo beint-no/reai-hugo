@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Finanskapital?"
-meta_title: "Hva er Finanskapital?"
+seoTitle: "Hva er Finanskapital?"
 meta_description: '**Finanskapital** er penger og finansielle instrumenter som kan brukes til å finansiere investeringer og drift i en bedrift. I motsetning til realkapital (fysi...'
 slug: hva-er-finanskapital
 type: blog

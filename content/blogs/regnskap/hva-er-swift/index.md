@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er SWIFT?"
-meta_title: "Hva er SWIFT?"
+seoTitle: "Hva er SWIFT?"
 meta_description: '(**SWIFT** (Society for Worldwide Interbank Financial Telecommunication) er et globalt nettverk som muliggjør sikker utveksling av meldinger mellom finansinsti...'
 slug: hva-er-swift
 type: blog

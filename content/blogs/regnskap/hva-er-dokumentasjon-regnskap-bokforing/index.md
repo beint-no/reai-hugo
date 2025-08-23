@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Dokumentasjon i Regnskap og Bokføring? Komplett Guide til Regnskapsdokumentasjon"
-meta_title: "Hva er Dokumentasjon i Regnskap og Bokføring? Komplett Guide til Regnskapsdokumentasjon"
+seoTitle: "Hva er Dokumentasjon i Regnskap og Bokføring? Komplett Guide til Regnskapsdokumentasjon"
 meta_description: '**Dokumentasjon i regnskap og bokføring** er det juridiske og praktiske fundamentet som sikrer sporbarhet, kontroll og etterlevelse av norske regnskapsregler. ...'
 slug: hva-er-dokumentasjon-regnskap-bokforing
 type: blog

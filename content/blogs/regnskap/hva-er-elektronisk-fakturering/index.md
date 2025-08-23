@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Elektronisk Fakturering?"
-meta_title: "Hva er Elektronisk Fakturering?"
+seoTitle: "Hva er Elektronisk Fakturering?"
 meta_description: '**Elektronisk fakturering** er et samlebegrep for alle digitale metoder for å sende, motta og behandle [fakturaer](/blogs/regnskap/hva-er-en-faktura "Hva er en...'
 slug: hva-er-elektronisk-fakturering
 type: blog

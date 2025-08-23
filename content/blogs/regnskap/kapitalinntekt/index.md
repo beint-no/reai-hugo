@@ -1,6 +1,6 @@
 ﻿---
 title: "Kapitalinntekt"
-meta_title: "Kapitalinntekt"
+seoTitle: "Kapitalinntekt"
 meta_description: '**Kapitalinntekt** er inntekter fra investeringer og kapitalplasseringer, som **renter**, **utbytte**, **leieinntekter** og **kapitalgevinster**. Forståelse av...'
 slug: kapitalinntekt
 type: blog

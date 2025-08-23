@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Driftskostnader i Regnskap?"
-meta_title: "Hva er Driftskostnader i Regnskap?"
+seoTitle: "Hva er Driftskostnader i Regnskap?"
 meta_description: '**Driftskostnader** er alle [kostnader](/blogs/regnskap/hva-er-kostnader "Hva er Kostnader i Regnskap? Komplett Guide til Kostnadstyper og Regnskapsføring") so...'
 slug: hva-er-driftskostnader
 type: blog

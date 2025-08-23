@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er diskontering?"
-meta_title: "Hva er diskontering?"
+seoTitle: "Hva er diskontering?"
 meta_description: '**Diskontering** er en fundamental finansiell teknikk som brukes til å beregne nåverdien av fremtidige kontantstrømmer. I regnskaps- og finanssammenheng er d...'
 slug: hva-er-diskontering
 type: blog

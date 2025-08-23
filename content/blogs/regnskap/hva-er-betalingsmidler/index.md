@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Betalingsmidler? Tvungne, Elektroniske og Tradisjonelle Metoder"
-meta_title: "Hva er Betalingsmidler? Tvungne, Elektroniske og Tradisjonelle Metoder"
+seoTitle: "Hva er Betalingsmidler? Tvungne, Elektroniske og Tradisjonelle Metoder"
 meta_description: '**Betalingsmidler** er de ulike metodene og instrumentene som kan brukes for å gjennomføre økonomiske transaksjoner og oppgjør av forpliktelser. I det moder...'
 slug: hva-er-betalingsmidler
 type: blog

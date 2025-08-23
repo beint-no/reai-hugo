@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Fortjeneste?"
-meta_title: "Hva er Fortjeneste?"
+seoTitle: "Hva er Fortjeneste?"
 meta_description: '**Fortjeneste** er et av de mest sentrale begrepene innen [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Komplett Guide til Regnskapsføring") ...'
 slug: hva-er-fortjeneste
 type: blog

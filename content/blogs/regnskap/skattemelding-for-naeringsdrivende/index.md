@@ -1,6 +1,6 @@
 ﻿---
 title: "Skattemelding for næringsdrivende"
-meta_title: "Skattemelding for næringsdrivende"
+seoTitle: "Skattemelding for næringsdrivende"
 meta_description: '*Skattemelding for næringsdrivende* er den delen av din [skattemelding](/blogs/regnskap/skattemelding "Skattemelding - Komplett Guide til Utfylling og Innlever...'
 slug: skattemelding-for-naeringsdrivende
 type: blog

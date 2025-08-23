@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Prognose?"
-meta_title: "Hva er Prognose?"
+seoTitle: "Hva er Prognose?"
 meta_description: 'En **prognose** er en beregnet fremskriving av fremtidige økonomiske forhold basert på historiske data, markedstrender og forventninger. I regnskapssammenheng...'
 slug: hva-er-prognose
 type: blog

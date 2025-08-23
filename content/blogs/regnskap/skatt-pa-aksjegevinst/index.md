@@ -1,6 +1,6 @@
 ﻿---
 title: "Skatt på aksjegevinst"
-meta_title: "Skatt på aksjegevinst"
+seoTitle: "Skatt på aksjegevinst"
 meta_description: '**Skatt på aksjegevinst** omfatter skattereglene for gevinst ved salg av aksjer for både privatpersoner og bedrifter i Norge. Denne artikkelen går i dybden p...'
 slug: skatt-pa-aksjegevinst
 type: blog

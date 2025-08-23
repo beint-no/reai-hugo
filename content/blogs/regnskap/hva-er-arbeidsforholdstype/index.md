@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er arbeidsforholdstype?"
-meta_title: "Hva er arbeidsforholdstype?"
+seoTitle: "Hva er arbeidsforholdstype?"
 meta_description: '**Arbeidsforholdstype** refererer til den juridiske og praktiske rammen som definerer forholdet mellom [arbeidsgiver](/blogs/regnskap/arbeidsgiver "Arbeidsgiver...'
 slug: hva-er-arbeidsforholdstype
 type: blog

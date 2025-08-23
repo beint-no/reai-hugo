@@ -1,6 +1,6 @@
 ﻿---
 title: "Naturalytelser"
-meta_title: "Naturalytelser"
+seoTitle: "Naturalytelser"
 meta_description: 'Naturalytelser er ytelser som arbeidstaker mottar fra arbeidsgiver i form av varer eller tjenester i stedet for kontantlønn. Disse **goder** kan ha betydelig Ã...'
 slug: naturalytelser
 type: blog

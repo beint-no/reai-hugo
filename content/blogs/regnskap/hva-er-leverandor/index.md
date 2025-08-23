@@ -1,6 +1,6 @@
 ﻿---
 title: "hva-er-leverandor"
-meta_title: "hva-er-leverandor"
+seoTitle: "hva-er-leverandor"
 meta_description: 'En **leverandør** er en person eller bedrift som leverer varer eller tjenester til din bedrift mot betaling. I regnskapssammenheng representerer leverandører ...'
 slug: hva-er-leverandor
 type: blog

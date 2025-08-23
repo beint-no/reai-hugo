@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Egenkapital?"
-meta_title: "Hva er Egenkapital?"
+seoTitle: "Hva er Egenkapital?"
 meta_description: '**Egenkapital** er den delen av et selskaps totale [kapital](/blogs/regnskap/hva-er-kapital "Hva er Kapital? Komplett Guide til Kapitaltyper i Regnskap og Økon...'
 slug: hva-er-egenkapital
 type: blog

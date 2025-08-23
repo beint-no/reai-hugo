@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er omløpsmidler?"
-meta_title: "Hva er omløpsmidler?"
+seoTitle: "Hva er omløpsmidler?"
 meta_description: '**Omløpsmidler** er **kortsiktige [eiendeler](/blogs/regnskap/hva-er-eiendel "Hva er Eiendel i Regnskap? Komplett Guide til Eiendom og Verdier")** som en bedri...'
 slug: hva-er-omlopsmiddel
 type: blog

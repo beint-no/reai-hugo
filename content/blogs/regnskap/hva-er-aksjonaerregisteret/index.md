@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Aksjonærregisteret?"
-meta_title: "Hva er Aksjonærregisteret?"
+seoTitle: "Hva er Aksjonærregisteret?"
 meta_description: '**Aksjonærregisteret** er et offentlig register som inneholder informasjon om alle aksjonærer i norske [aksjeselskaper (AS)](/blogs/regnskap/hva-er-et-aksjese...'
 slug: hva-er-aksjonaerregisteret
 type: blog

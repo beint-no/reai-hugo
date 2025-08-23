@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Fakturamal? Komplett Guide til Fakturamaler og Fakturadesign"
-meta_title: "Hva er Fakturamal? Komplett Guide til Fakturamaler og Fakturadesign"
+seoTitle: "Hva er Fakturamal? Komplett Guide til Fakturamaler og Fakturadesign"
 meta_description: 'En **fakturamal** er en forhåndsdefinert struktur eller skabelon som brukes til å lage konsistente og profesjonelle [fakturaer](/blogs/regnskap/hva-er-en-fakt...'
 slug: hva-er-fakturamal
 type: blog

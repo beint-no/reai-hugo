@@ -1,6 +1,6 @@
 ﻿---
 title: "Fakturering"
-meta_title: "Fakturering"
+seoTitle: "Fakturering"
 meta_description: '**Fakturering** er prosessen med å **opprette**, **sende** og **følge opp fakturaer** for varer eller tjenester levert av en bedrift. Fakturering er et sentra...'
 slug: fakturering
 type: blog

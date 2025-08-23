@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er A-konto Betaling? En Enkel Forklaring"
-meta_title: "Hva er A-konto Betaling? En Enkel Forklaring"
+seoTitle: "Hva er A-konto Betaling? En Enkel Forklaring"
 meta_description: 'A-konto, en forkortelse for **Ã  conto**, er et italiensk begrep som betyr "på regning". I praksis er en a-konto betaling en **delinnbetaling** for en vare ell...'
 slug: hva-er-a-konto-betaling
 type: blog

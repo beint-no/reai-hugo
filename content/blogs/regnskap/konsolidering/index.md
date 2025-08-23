@@ -1,6 +1,6 @@
 ﻿---
 title: "Konsolidering"
-meta_title: "Konsolidering"
+seoTitle: "Konsolidering"
 meta_description: '**Konsolidering** er prosessen med å utarbeide ett samlet [konsernregnskap](/blogs/regnskap/hva-er-konsern "Hva er et Konsern? Komplett Guide til Konsernstrukt...'
 slug: konsolidering
 type: blog

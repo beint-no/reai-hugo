@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er et Investeringsselskap?"
-meta_title: "Hva er et Investeringsselskap?"
+seoTitle: "Hva er et Investeringsselskap?"
 meta_description: 'Et **investeringsselskap** er et [finansielt selskap](/blogs/regnskap/hva-er-finansiering "Hva er Finansiering? Komplett Guide til Finansieringsformer") som sam...'
 slug: hva-er-investeringsselskap
 type: blog

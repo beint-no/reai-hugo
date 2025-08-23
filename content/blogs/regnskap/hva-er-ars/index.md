@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er ARS (Autorisert Regnskapsførerselskap)?"
-meta_title: "Hva er ARS (Autorisert Regnskapsførerselskap)?"
+seoTitle: "Hva er ARS (Autorisert Regnskapsførerselskap)?"
 meta_description: 'Et **ARS (Autorisert Regnskapsførerselskap)** er et regnskapsfirma som har fått offisiell autorisasjon fra Finanstilsynet til å utføre regnskapsførertjenes...'
 slug: hva-er-ars
 type: blog

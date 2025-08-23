@@ -1,6 +1,6 @@
 ﻿---
 title: "Regnskapsbyrå - Hva gjør de og hvorfor er det viktig?"
-meta_title: "Regnskapsbyrå - Hva gjør de og hvorfor er det viktig?"
+seoTitle: "Regnskapsbyrå - Hva gjør de og hvorfor er det viktig?"
 meta_description: '**Regnskapsbyrå** er selskaper som tilbyr tjenester innen **bokføring**, **rapportering**, **rådgivning** og **lønnsadministrasjon** til bedrifter og organi...'
 slug: regnskapsbyra
 type: blog

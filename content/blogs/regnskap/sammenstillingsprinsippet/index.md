@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Sammenstillingsprinsippet?"
-meta_title: "Hva er Sammenstillingsprinsippet?"
+seoTitle: "Hva er Sammenstillingsprinsippet?"
 meta_description: '**Sammenstillingsprinsippet** er et grunnleggende regnskapsprinsipp som krever at **kostnader** som er direkte knyttet til **inntektene** de genererer, regnskap...'
 slug: sammenstillingsprinsippet
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Kasseoppgjør?"
-meta_title: "Hva er Kasseoppgjør?"
+seoTitle: "Hva er Kasseoppgjør?"
 meta_description: '**Kasseoppgjør** er den daglige prosessen med å avstemme fysisk kassebeholdning mot registrerte salg og transaksjoner i kassasystemet. Dette er en kritisk kon...'
 slug: hva-er-kasseoppgjor
 type: blog

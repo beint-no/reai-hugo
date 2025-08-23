@@ -1,6 +1,6 @@
 ﻿---
 title: "Arbeidsgiver"
-meta_title: "Arbeidsgiver"
+seoTitle: "Arbeidsgiver"
 meta_description: 'Arbeidsgiver er den juridiske parten i et arbeidsforhold som inngår en avtale om å utføre arbeid mot vederlag. En **arbeidsgiver** har en rekke *juridiske fo...'
 slug: arbeidsgiver
 type: blog

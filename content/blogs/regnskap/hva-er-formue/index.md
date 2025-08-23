@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Formue i Regnskap?"
-meta_title: "Hva er Formue i Regnskap?"
+seoTitle: "Hva er Formue i Regnskap?"
 meta_description: '**Formue** er den totale **nettoformuen** til en person eller bedrift, beregnet som forskjellen mellom totale [eiendeler](/blogs/regnskap/hva-er-eiendel "Hva er...'
 slug: hva-er-formue
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Periodisering i Regnskap?"
-meta_title: "Hva er Periodisering i Regnskap?"
+seoTitle: "Hva er Periodisering i Regnskap?"
 meta_description: '**Periodisering** er et av de mest fundamentale prinsippene i regnskapsføring som sikrer at alle inntekter og utgifter blir regnskapsført i riktig [termin](/b...'
 slug: hva-er-periodisering
 type: blog

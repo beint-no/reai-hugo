@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 8910 - Overføringsfond felleseid kapital samme foretak"
-meta_title: "8910-overforingsfond-felleseid-kapital-samme-foretak"
+seoTitle: "8910-overforingsfond-felleseid-kapital-samme-foretak"
 meta_description: '**Konto 8910 - Overføringsfond felleseid kapital samme foretak** er en konto innen **reserver og overføringer** i Norsk Standard Kontoplan (NSÂ 4102) som bruk...'
 slug: 8910-overforingsfond-felleseid-kapital-samme-foretak
 type: blog

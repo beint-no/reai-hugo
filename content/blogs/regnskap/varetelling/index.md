@@ -1,6 +1,6 @@
 ﻿---
 title: "Varetelling"
-meta_title: "Varetelling"
+seoTitle: "Varetelling"
 meta_description: '**Varetelling** er en systematisk prosess for å kontrollere og verifisere **lagerbeholdningen** i regnskapet. Gjennom regelmessige opptellinger sikrer virksomh...'
 slug: varetelling
 type: blog

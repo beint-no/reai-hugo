@@ -1,6 +1,6 @@
 ﻿---
 title: "Maskimalt Utbytte"
-meta_title: "Maskimalt Utbytte"
+seoTitle: "Maskimalt Utbytte"
 meta_description: '**Maskimalt utbytte** er det høyeste beløpet et [aksjeselskap](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap (AS)? Komplett Guide til Selskap...'
 slug: maskimalt-utbytte
 type: blog

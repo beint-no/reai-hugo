@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Kapitalbehov?"
-meta_title: "Hva er Kapitalbehov?"
+seoTitle: "Hva er Kapitalbehov?"
 meta_description: '**Kapitalbehov** beskriver mengden kapital **en bedrift må skaffe** for å dekke både oppstarts- og driftsrelaterte finansieringsbehov, slik at virksomheten k...'
 slug: kapitalbehov
 type: blog

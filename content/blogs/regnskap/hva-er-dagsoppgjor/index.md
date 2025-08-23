@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Dagsoppgjør i Regnskap?"
-meta_title: "Hva er Dagsoppgjør i Regnskap?"
+seoTitle: "Hva er Dagsoppgjør i Regnskap?"
 meta_description: '**Dagsoppgjør** er en **daglig regnskapsprosess** som sikrer at alle [transaksjoner](/blogs/regnskap/hva-er-banktransaksjoner "Hva er Banktransaksjoner? Guide ...'
 slug: hva-er-dagsoppgjor
 type: blog

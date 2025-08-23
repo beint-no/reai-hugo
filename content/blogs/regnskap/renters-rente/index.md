@@ -1,6 +1,6 @@
 ﻿---
 title: "Renters rente"
-meta_title: "Renters rente"
+seoTitle: "Renters rente"
 meta_description: '**Renters rente** oppstår når påløpt rente legges til hovedstolen slik at fremtidige renter beregnes på det nye beløpet.'
 slug: renters-rente
 type: blog

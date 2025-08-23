@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Bokføringsforskriften?"
-meta_title: "Hva er Bokføringsforskriften?"
+seoTitle: "Hva er Bokføringsforskriften?"
 meta_description: '**Bokføringsforskriften** er det sentrale regelverket som regulerer hvordan norske virksomheter skal føre [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er R...'
 slug: hva-er-bokforingsforskriften
 type: blog

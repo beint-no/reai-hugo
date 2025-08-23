@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er VOEC?"
-meta_title: "Hva er VOEC?"
+seoTitle: "Hva er VOEC?"
 meta_description: '**VOEC** (Value Added Tax on E-Commerce) er en ordning som forenkler innkreving av **merverdiavgift (MVA)** på varer kjøpt fra utlandet av norske privatperson...'
 slug: voec
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er postering?"
-meta_title: "Hva er postering?"
+seoTitle: "Hva er postering?"
 meta_description: '**Postering** er handlingen med å registrere **konterte transaksjoner** i regnskapssystemets [hovedbok](/blogs/regnskap/hva-er-hovedbok "Hva er Hovedbok? En Gu...'
 slug: hva-er-postering
 type: blog

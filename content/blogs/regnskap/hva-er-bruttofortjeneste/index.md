@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Bruttofortjeneste?"
-meta_title: "Hva er Bruttofortjeneste?"
+seoTitle: "Hva er Bruttofortjeneste?"
 meta_description: '**Bruttofortjeneste** er et av de mest fundamentale nøkkeltallene i [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Komplett Guide til Regnskap...'
 slug: hva-er-bruttofortjeneste
 type: blog

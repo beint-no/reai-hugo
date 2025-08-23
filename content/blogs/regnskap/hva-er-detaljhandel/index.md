@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Detaljhandel? Regnskap og Økonomistyring for Butikker"
-meta_title: "Hva er Detaljhandel? Regnskap og Økonomistyring for Butikker"
+seoTitle: "Hva er Detaljhandel? Regnskap og Økonomistyring for Butikker"
 meta_description: '**Detaljhandel** er salg av varer direkte til sluttforbrukere gjennom fysiske butikker eller digitale plattformer. Dette skiller seg fra [engroshandel](/blogs/r...'
 slug: hva-er-detaljhandel
 type: blog

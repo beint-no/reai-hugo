@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Konto 7550 - Garantikostnad?"
-meta_title: "7550-garantikostnad"
+seoTitle: "7550-garantikostnad"
 meta_description: '**Konto 7550 - Garantikostnad** er en **kostnadskonto** i Norsk Standard Kontoplan som brukes til å registrere estimert kostnad knyttet til garantiforpliktelse...'
 slug: 7550-garantikostnad
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Restskatt"
-meta_title: "Restskatt"
+seoTitle: "Restskatt"
 meta_description: '**Restskatt** er den skatten som oppstår når **forskuddsskatt** eller **betalbar skatt** ikke dekker den endelige skatteforpliktelsen ved [skattemeldingen](/b...'
 slug: restskatt
 type: blog

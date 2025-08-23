@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Derivater?"
-meta_title: "Hva er Derivater?"
+seoTitle: "Hva er Derivater?"
 meta_description: '**Derivater** er finansielle kontrakter hvis verdi er avledet fra underliggende eiendeler, indekser eller andre referanseverdier. Derivater brukes til risikosty...'
 slug: derivater
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 5920 - Yrkesskadeforsikring"
-meta_title: "5920-yrkesskadeforsikring"
+seoTitle: "5920-yrkesskadeforsikring"
 meta_description: '**Konto 5920 - Yrkesskadeforsikring** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **yrkesskadeforsikring** som en del av ...'
 slug: 5920-yrkesskadeforsikring
 type: blog

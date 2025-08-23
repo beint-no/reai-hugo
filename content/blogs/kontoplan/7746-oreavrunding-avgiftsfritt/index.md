@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 7746 - Øreavrunding, avgiftsfritt"
-meta_title: "7746-oreavrunding-avgiftsfritt"
+seoTitle: "7746-oreavrunding-avgiftsfritt"
 meta_description: '**Konto 7746 - Øreavrunding, avgiftsfritt** er en konto i **Norsk Standard Kontoplan** som brukes til å bokføre **øreavrunding** ved **avgiftsfrie transaksj...'
 slug: 7746-oreavrunding-avgiftsfritt
 type: blog

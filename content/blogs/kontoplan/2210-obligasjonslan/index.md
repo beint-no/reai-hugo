@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 2210 - Obligasjonslån"
-meta_title: "2210-obligasjonslan"
+seoTitle: "2210-obligasjonslan"
 meta_description: '**Konto 2210 - Obligasjonslån** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **obligasjonslån**, dvs. langsiktige gjeldsinst...'
 slug: 2210-obligasjonslan
 type: blog

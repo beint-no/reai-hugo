@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 6860 - Møte, kurs, oppdatering o.l."
-meta_title: "6860-mote-kurs-oppdatering-o-l"
+seoTitle: "6860-mote-kurs-oppdatering-o-l"
 meta_description: '**Konto 6860 - Møte, kurs, oppdatering o.l.** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **kostnader til møter, kurs, inte...'
 slug: 6860-mote-kurs-oppdatering-o-l
 type: blog

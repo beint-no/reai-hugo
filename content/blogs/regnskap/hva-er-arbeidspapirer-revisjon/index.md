@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Arbeidspapirer i Revisjon?"
-meta_title: "Hva er Arbeidspapirer i Revisjon?"
+seoTitle: "Hva er Arbeidspapirer i Revisjon?"
 meta_description: '**Arbeidspapirer i revisjon** er den systematiske dokumentasjonen som [revisorer](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide") utarbeid...'
 slug: hva-er-arbeidspapirer-revisjon
 type: blog

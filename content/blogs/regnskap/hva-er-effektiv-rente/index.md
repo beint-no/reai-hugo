@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er effektiv rente?"
-meta_title: "Hva er effektiv rente?"
+seoTitle: "Hva er effektiv rente?"
 meta_description: '**Effektiv rente** er en type [rente](/blogs/regnskap/rente "Rente “ En komplett guide til rente i regnskap") som tar hensyn til renter på renter, gebyrer og...'
 slug: hva-er-effektiv-rente
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 3970 - Utgående gebyrer, avgiftsfritt"
-meta_title: "3970-utgaende-gebyrer-avgiftsfritt"
+seoTitle: "3970-utgaende-gebyrer-avgiftsfritt"
 meta_description: '**Konto 3970 - Utgående gebyrer, avgiftsfritt** er en konto i Norsk Standard Kontoplan som brukes til å registrere **avgiftsfrie gebyrer** (for eksempel *serv...'
 slug: 3970-utgaende-gebyrer-avgiftsfritt
 type: blog

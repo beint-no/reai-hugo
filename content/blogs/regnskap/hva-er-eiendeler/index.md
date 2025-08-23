@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er eiendeler?"
-meta_title: "Hva er eiendeler?"
+seoTitle: "Hva er eiendeler?"
 meta_description: '**Eiendeler** (også kalt **aktiva**) er alle ressurser som en virksomhet eier eller kontrollerer og som forventes å gi fremtidige økonomiske fordeler. I nors...'
 slug: hva-er-eiendeler
 type: blog

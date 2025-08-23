@@ -1,6 +1,6 @@
 ﻿---
 title: "MVA-plikt (Momsplikt)"
-meta_title: "MVA-plikt (Momsplikt)"
+seoTitle: "MVA-plikt (Momsplikt)"
 meta_description: '**MVA-plikt**, også kalt **momsplikt**, er den juridiske forpliktelsen som pålegger bedrifter og organisasjoner å registrere seg for, beregne, kreve inn og b...'
 slug: mva-plikt
 type: blog

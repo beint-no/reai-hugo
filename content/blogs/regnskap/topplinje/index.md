@@ -1,6 +1,6 @@
 ﻿---
 title: "Topplinje i Norsk Regnskap"
-meta_title: "Topplinje i Norsk Regnskap"
+seoTitle: "Topplinje i Norsk Regnskap"
 meta_description: '**Topplinje**, også kjent som **driftsinntekter** eller **omsetning**, er den øverste linjen i resultatregnskapet som viser selskapets totale inntekter før k...'
 slug: topplinje
 type: blog

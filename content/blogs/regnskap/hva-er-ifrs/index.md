@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er IFRS?"
-meta_title: "Hva er IFRS?"
+seoTitle: "Hva er IFRS?"
 meta_description: '**IFRS** (International Financial Reporting Standards) er et sett med globale regnskapsstandarder utviklet av International Accounting Standards Board (IASB) fo...'
 slug: hva-er-ifrs
 type: blog

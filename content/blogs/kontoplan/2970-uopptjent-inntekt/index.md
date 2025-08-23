@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 2970 - Uopptjent inntekt"
-meta_title: "2970-uopptjent-inntekt"
+seoTitle: "2970-uopptjent-inntekt"
 meta_description: '**Konto 2970 - Uopptjent inntekt** er en konto i Norsk Standard Kontoplan som brukes til å registrere **uopptjent inntekt**, altså inntekter som er mottatt pÃ...'
 slug: 2970-uopptjent-inntekt
 type: blog

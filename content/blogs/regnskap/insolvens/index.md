@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Insolvens?"
-meta_title: "Hva er Insolvens?"
+seoTitle: "Hva er Insolvens?"
 meta_description: '**Insolvens** oppstår når en virksomhet ikke er i stand til å oppfylle sine forpliktelser ved forfall, noe som kan lede til betalingsproblemer, konkurs eller...'
 slug: insolvens
 type: blog

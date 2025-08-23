@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Personalkostnad?"
-meta_title: "Hva er Personalkostnad?"
+seoTitle: "Hva er Personalkostnad?"
 meta_description: '**Personalkostnad** omfatter alle kostnader en bedrift har knyttet til sine ansatte. Dette inkluderer ikke bare grunnlønn, men også feriepenger, [arbeidsgiver...'
 slug: hva-er-personalkostnad
 type: blog

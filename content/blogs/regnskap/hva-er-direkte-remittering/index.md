@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er direkte remittering?"
-meta_title: "Hva er direkte remittering?"
+seoTitle: "Hva er direkte remittering?"
 meta_description: 'For en oversikt over **remittering** og dens ulike former, se [Remittering](/blogs/regnskap/remittering "Remittering: Konsepter, Typer og Prosess").'
 slug: hva-er-direkte-remittering
 type: blog

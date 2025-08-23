@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Fantegang?"
-meta_title: "Hva er Fantegang?"
+seoTitle: "Hva er Fantegang?"
 meta_description: 'Fantegang er en form for **sikringsrett** der kreditor tar besittelse av debitors eiendeler som sikkerhet for gjeld. Dette gir kreditor en prioritert stilling d...'
 slug: hva-er-fantegang
 type: blog

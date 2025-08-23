@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er en Aksjeeierbok? En Komplett Guide"
-meta_title: "Hva er en Aksjeeierbok? En Komplett Guide"
+seoTitle: "Hva er en Aksjeeierbok? En Komplett Guide"
 meta_description: 'En **aksjeeierbok** er et register som alle norske [aksjeselskaper](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et aksjeselskap?") (AS) er lovpålagt å før...'
 slug: hva-er-en-aksjeeierbok
 type: blog

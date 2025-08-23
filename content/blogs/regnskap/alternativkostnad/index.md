@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Alternativkostnad?"
-meta_title: "Hva er Alternativkostnad?"
+seoTitle: "Hva er Alternativkostnad?"
 meta_description: '**Alternativkostnad** er verdien av beste alternative bruk av begrensede ressurser, og hjelper bedrifter med å forstå hva de gir avkall på når de velger én...'
 slug: alternativkostnad
 type: blog

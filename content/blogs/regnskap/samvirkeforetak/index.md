@@ -1,6 +1,6 @@
 ﻿---
 title: "samvirkeforetak"
-meta_title: "samvirkeforetak"
+seoTitle: "samvirkeforetak"
 meta_description: '![Illustrasjon av Samvirkeforetak](samvirkeforetak-image.svg)'
 slug: samvirkeforetak
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Realisering"
-meta_title: "Realisering"
+seoTitle: "Realisering"
 meta_description: '**Realisering** i regnskap refererer til prosessen med å realisere økonomiske fordeler ved salg eller avhending av eiendeler, investeringer eller andre finans...'
 slug: realisering
 type: blog

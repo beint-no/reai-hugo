@@ -1,6 +1,6 @@
 ﻿---
 title: "Fødselspermisjon: Guide til foreldrepenger og regnskapsføring i Norge"
-meta_title: "Fødselspermisjon: Guide til foreldrepenger og regnskapsføring i Norge"
+seoTitle: "Fødselspermisjon: Guide til foreldrepenger og regnskapsføring i Norge"
 meta_description: '**Fødselspermisjon** er en periode i forbindelse med fødsel eller adopsjon der foreldre har rett til permisjon med **foreldrepenger** fra NAV for å ivareta o...'
 slug: fodselspermisjon
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Fullmakt"
-meta_title: "Fullmakt"
+seoTitle: "Fullmakt"
 meta_description: 'En **fullmakt** er et juridisk dokument som gir en person (*fullmaktsgiver*) rett til å la en annen (*fullmaktshaver*) handle på sine vegne i spesifikke saker...'
 slug: fullmakt
 type: blog

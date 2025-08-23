@@ -1,6 +1,6 @@
 ﻿---
 title: "Organisasjonskultur"
-meta_title: "Organisasjonskultur"
+seoTitle: "Organisasjonskultur"
 meta_description: '**Organisasjonskultur** omfatter de delte **verdiene**, **normene** og **holdningene** som former atferd og beslutninger i en organisasjon. En sterk og positiv ...'
 slug: organisasjonskultur
 type: blog

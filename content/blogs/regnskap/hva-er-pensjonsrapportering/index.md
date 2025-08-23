@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Pensjonsrapportering?"
-meta_title: "Hva er Pensjonsrapportering?"
+seoTitle: "Hva er Pensjonsrapportering?"
 meta_description: '**Pensjonsrapportering** er en kritisk del av norsk regnskapsføring som sikrer korrekt og transparent presentasjon av bedriftens [pensjonsforpliktelser](/blogs...'
 slug: hva-er-pensjonsrapportering
 type: blog

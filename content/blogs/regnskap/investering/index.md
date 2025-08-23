@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Investering?"
-meta_title: "Hva er Investering?"
+seoTitle: "Hva er Investering?"
 meta_description: '**Investering** er handlingen av å allokere kapital med forventning om fremtidig [avkastning](/blogs/regnskap/hva-er-avkastning "Hva er Avkastning? Komplett Gu...'
 slug: investering
 type: blog

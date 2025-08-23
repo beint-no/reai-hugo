@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er aktiva?"
-meta_title: "Hva er aktiva?"
+seoTitle: "Hva er aktiva?"
 meta_description: '**Aktiva**, også kjent som **[eiendeler](/blogs/regnskap/hva-er-eiendeler "Hva er Eiendeler? Komplett Oversikt over Eiendelstyper")**, er alle økonomiske ress...'
 slug: hva-er-aktiva
 type: blog

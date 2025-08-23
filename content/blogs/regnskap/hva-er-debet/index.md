@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er debet?"
-meta_title: "Hva er debet?"
+seoTitle: "Hva er debet?"
 meta_description: '**Debet** er et av de mest fundamentale begrepene i regnskap og [bokføring](/blogs/regnskap/hva-er-bokføring "Hva er Bokføring? En Komplett Guide til Norsk B...'
 slug: hva-er-debet
 type: blog

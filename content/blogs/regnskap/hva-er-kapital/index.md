@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Kapital?"
-meta_title: "Hva er Kapital?"
+seoTitle: "Hva er Kapital?"
 meta_description: '**Kapital** er de finansielle ressursene som er tilgjengelige for en bedrift eller organisasjon til å drive virksomhet, foreta investeringer og skape verdier. ...'
 slug: hva-er-kapital
 type: blog

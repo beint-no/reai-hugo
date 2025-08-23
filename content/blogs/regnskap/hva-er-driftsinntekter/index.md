@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er driftsinntekter?"
-meta_title: "Hva er driftsinntekter?"
+seoTitle: "Hva er driftsinntekter?"
 meta_description: '**Driftsinntekter** er inntekter som oppstår fra et selskaps ordinære forretningsvirksomhet og utgjør grunnlaget for å måle selskapets operative lønnsomhe...'
 slug: hva-er-driftsinntekter
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Ekstraordinært Utbytte"
-meta_title: "Ekstraordinært Utbytte"
+seoTitle: "Ekstraordinært Utbytte"
 meta_description: '**Ekstraordinært utbytte** er utdeling av overskudd fra et aksjeselskap som går utover det **ordinære utbyttet**, og krever særskilt vedtak i generalforsaml...'
 slug: ekstraordinart-utbytte
 type: blog

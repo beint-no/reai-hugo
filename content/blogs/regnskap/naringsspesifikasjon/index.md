@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er næringsspesifikasjon?"
-meta_title: "Hva er næringsspesifikasjon?"
+seoTitle: "Hva er næringsspesifikasjon?"
 meta_description: '**Næringsspesifikasjon** er et fundamentalt konsept i norsk [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Dybdeanalyse for Norge") som omfatt...'
 slug: naringsspesifikasjon
 type: blog

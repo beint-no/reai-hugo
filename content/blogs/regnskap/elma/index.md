@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er ELMA?"
-meta_title: "Hva er ELMA?"
+seoTitle: "Hva er ELMA?"
 meta_description: '**ELMA** (Elektronisk mottaker- og avsenderregister) er Norges sentrale **digital adresse**-register for mottakere og avsendere av elektroniske meldinger, inklu...'
 slug: elma
 type: blog

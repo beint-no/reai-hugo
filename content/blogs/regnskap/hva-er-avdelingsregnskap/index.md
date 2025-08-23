@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Avdelingsregnskap?"
-meta_title: "Hva er Avdelingsregnskap?"
+seoTitle: "Hva er Avdelingsregnskap?"
 meta_description: '**Avdelingsregnskap** er en regnskapsmetode som fordeler kostnader og inntekter på ulike avdelinger eller divisjoner i en bedrift. Dette gir ledelsen mulighet ...'
 slug: hva-er-avdelingsregnskap
 type: blog

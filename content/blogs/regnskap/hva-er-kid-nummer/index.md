@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er KID-nummer?"
-meta_title: "Hva er KID-nummer?"
+seoTitle: "Hva er KID-nummer?"
 meta_description: 'Et **KID-nummer** (Kunde-IDentifikasjon) er et unikt referansenummer som brukes i norsk betalingsformidling for å automatisk identifisere og knytte innbetaling...'
 slug: hva-er-kid-nummer
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Finansregnskap? En Komplett Guide til Ekstern Finansiell Rapportering"
-meta_title: "Hva er Finansregnskap? En Komplett Guide til Ekstern Finansiell Rapportering"
+seoTitle: "Hva er Finansregnskap? En Komplett Guide til Ekstern Finansiell Rapportering"
 meta_description: '**Finansregnskap** er den delen av [regnskapet](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Dybdeanalyse for Norge") som fokuserer på **ekstern rappor...'
 slug: hva-er-finansregnskap
 type: blog

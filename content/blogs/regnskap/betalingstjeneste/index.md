@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er betalingstjeneste?"
-meta_title: "Hva er betalingstjeneste?"
+seoTitle: "Hva er betalingstjeneste?"
 meta_description: 'En **betalingstjeneste** er en finansiell tjeneste som muliggjør igangsetting, behandling eller fullføring av betalingstransaksjoner mellom betaler og betalin...'
 slug: betalingstjeneste
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er inkassoloven?"
-meta_title: "Hva er inkassoloven?"
+seoTitle: "Hva er inkassoloven?"
 meta_description: '**Inkassoloven** er Norges sentrale lovgivning som regulerer inkassovirksomhet og beskytter skyldnere mot urettmessig behandling. Loven, formelt kjent som "Lov ...'
 slug: hva-er-inkassoloven
 type: blog

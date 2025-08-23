@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Frikortgrense i Norge?"
-meta_title: "Hva er Frikortgrense i Norge?"
+seoTitle: "Hva er Frikortgrense i Norge?"
 meta_description: '**Frikortgrense** er det maksimale beløpet du kan tjene skattefritt i Norge før du må betale skatt. **[Frikort](/blogs/regnskap/frikort "Frikort - Skattefri ...'
 slug: hva-er-frikortgrense
 type: blog

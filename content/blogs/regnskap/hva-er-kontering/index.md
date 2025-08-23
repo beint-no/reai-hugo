@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er kontering?"
-meta_title: "Hva er kontering?"
+seoTitle: "Hva er kontering?"
 meta_description: '**Kontering** er prosessen med å tildele riktige kontonummer til [bilag](/blogs/regnskap/hva-er-bilag "Hva er Bilag i Regnskap? En Komplett Guide til Regnskaps...'
 slug: hva-er-kontering
 type: blog

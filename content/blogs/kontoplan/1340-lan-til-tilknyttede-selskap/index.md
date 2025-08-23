@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 1340 - Lån til tilknyttede selskap"
-meta_title: "1340-lan-til-tilknyttede-selskap"
+seoTitle: "1340-lan-til-tilknyttede-selskap"
 meta_description: '**Konto 1340 - Lån til tilknyttede selskap** er en konto i Norsk Standard Kontoplan som brukes til å registrere **konserninterne lån til tilknyttede selskape...'
 slug: 1340-lan-til-tilknyttede-selskap
 type: blog

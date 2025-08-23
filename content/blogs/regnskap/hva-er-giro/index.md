@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Giro?"
-meta_title: "Hva er Giro?"
+seoTitle: "Hva er Giro?"
 meta_description: '**Giro** er et fundamentalt betalingssystem som har revolusjonert måten vi håndterer pengeoverføringer og regningsbetalinger på. Som grunnlaget for moderne ...'
 slug: hva-er-giro
 type: blog

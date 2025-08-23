@@ -1,6 +1,6 @@
 ﻿---
 title: "Kjøregodtgjørelse"
-meta_title: "Kjøregodtgjørelse"
+seoTitle: "Kjøregodtgjørelse"
 meta_description: '**Kjøregodtgjørelse** er en **skattefri godtgjørelse per kilometer** for bruk av privatbil ved tjeneste- og yrkesrelatert kjøring. Riktig dokumentasjon og r...'
 slug: kjoregodtgjorelse
 type: blog

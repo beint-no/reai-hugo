@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Frikort?"
-meta_title: "Hva er Frikort?"
+seoTitle: "Hva er Frikort?"
 meta_description: '**Frikort** er et [skattekort](/blogs/regnskap/skattekort "Hva er Skattekort? En komplett guide til skattekortregler i Norge") som gjør at du ikke betaler skat...'
 slug: frikort
 type: blog

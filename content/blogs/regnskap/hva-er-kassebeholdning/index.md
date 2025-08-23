@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Kassebeholdning?"
-meta_title: "Hva er Kassebeholdning?"
+seoTitle: "Hva er Kassebeholdning?"
 meta_description: '**Kassebeholdning** er selskapets beholdning av kontanter og andre likvide midler som kan brukes umiddelbart til å dekke løpende forpliktelser og operasjonell...'
 slug: hva-er-kassebeholdning
 type: blog

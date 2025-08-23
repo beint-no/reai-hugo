@@ -1,6 +1,6 @@
 ﻿---
 title: "NS 4102"
-meta_title: "NS 4102"
+seoTitle: "NS 4102"
 meta_description: '**NSÂ 4102** er den norske standardkontoplanen utviklet for kommuner og fylkeskommuner. Den gir en felles struktur for regnskapsføring og muliggjør sammenlign...'
 slug: ns-4102
 type: blog

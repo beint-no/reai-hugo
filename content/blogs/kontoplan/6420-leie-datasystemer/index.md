@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 6420 - Leie datasystemer"
-meta_title: "6420-leie-datasystemer"
+seoTitle: "6420-leie-datasystemer"
 meta_description: '**Konto 6420 - Leie datasystemer** er en konto i Norsk Standard Kontoplan som brukes til å registrere **leie av datasystemer** i virksomhetens drift.'
 slug: 6420-leie-datasystemer
 type: blog

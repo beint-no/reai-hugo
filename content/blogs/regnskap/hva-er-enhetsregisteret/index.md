@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Enhetsregisteret?"
-meta_title: "Hva er Enhetsregisteret?"
+seoTitle: "Hva er Enhetsregisteret?"
 meta_description: 'Enhetsregisteret er et offentlig register som administreres av [Brønnøysundregistrene](/blogs/regnskap/bronnoysundregistrene "Brønnøysundregistrene - Oversi...'
 slug: hva-er-enhetsregisteret
 type: blog

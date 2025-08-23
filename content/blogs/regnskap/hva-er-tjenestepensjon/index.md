@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Tjenestepensjon?"
-meta_title: "Hva er Tjenestepensjon?"
+seoTitle: "Hva er Tjenestepensjon?"
 meta_description: '**Tjenestepensjon** er en sentral del av norsk arbeidsliv og bedriftenes personalkostnader. Det er en pensjon som arbeidsgivere tilbyr sine ansatte som en del a...'
 slug: hva-er-tjenestepensjon
 type: blog

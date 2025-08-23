@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Årsregnskap?"
-meta_title: "Hva er Årsregnskap?"
+seoTitle: "Hva er Årsregnskap?"
 meta_description: '**Årsregnskap** er en lovpålagt, årlig rapport som gir en oppsummering av et foretaks finansielle stilling og resultater i løpet av en regnskapsperiode. År...'
 slug: hva-er-aarsregnskap
 type: blog

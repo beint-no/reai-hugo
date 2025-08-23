@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er purring og purregebyr?"
-meta_title: "Hva er purring og purregebyr?"
+seoTitle: "Hva er purring og purregebyr?"
 meta_description: '**Purring og purregebyr** er viktige virkemidler for bedrifter som ønsker å sikre betaling av forfalte [fakturaer](/blogs/regnskap/hva-er-en-faktura "Hva er e...'
 slug: hva-er-purring-og-purregebyr
 type: blog

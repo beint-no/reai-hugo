@@ -1,6 +1,6 @@
 ﻿---
 title: "aarsresultat"
-meta_title: "aarsresultat"
+seoTitle: "aarsresultat"
 meta_description: '**Årsresultat** er et nøkkelbegrep i norsk regnskap som beskriver selskapets *netto fortjeneste* eller *underskudd* etter skatt for et regnskapsår. Årsresul...'
 slug: aarsresultat
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Underenhet"
-meta_title: "Underenhet"
+seoTitle: "Underenhet"
 meta_description: '![Illustrasjon av Underenhet](underenhet-image.svg)'
 slug: underenhet
 type: blog

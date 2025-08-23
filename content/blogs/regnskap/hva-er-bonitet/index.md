@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er bonitet?"
-meta_title: "Hva er bonitet?"
+seoTitle: "Hva er bonitet?"
 meta_description: '**Bonitet**, også kalt **kreditverdighet**, refererer til en virksomhets eller persons evne til å oppfylle finansielle forpliktelser. En god bonitet indikerer...'
 slug: hva-er-bonitet
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Bilagsføring?"
-meta_title: "Hva er Bilagsføring?"
+seoTitle: "Hva er Bilagsføring?"
 meta_description: '**Bilagsføring** er den systematiske prosessen med å registrere, organisere og arkivere alle regnskapsdokumenter som danner grunnlaget for [bokføring](/blogs...'
 slug: hva-er-bilagsforing
 type: blog

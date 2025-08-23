@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 8800 - Årsresultat"
-meta_title: "8800-arsresultat"
+seoTitle: "8800-arsresultat"
 meta_description: '**Konto 8800 - Årsresultat** representerer **årets nettoresultat**, enten **overskudd** eller **underskudd**, før disponering til egenkapitalkontoer.'
 slug: 8800-arsresultat
 type: blog

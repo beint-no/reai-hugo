@@ -1,6 +1,6 @@
 ﻿---
 title: "SWOT-analyse"
-meta_title: "SWOT-analyse"
+seoTitle: "SWOT-analyse"
 meta_description: '**SWOT-analyse** er en strukturert metode for å kartlegge og evaluere både interne og eksterne faktorer som påvirker en virksomhets suksess. Navnet er en for...'
 slug: swot-analyse
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er næringsoppgave?"
-meta_title: "Hva er næringsoppgave?"
+seoTitle: "Hva er næringsoppgave?"
 meta_description: '**Næringsoppgaven** er en sentral del av det norske skattesystemet og representerer den årlige skattemeldingen som alle norske bedrifter må levere til Skatte...'
 slug: hva-er-naeringsoppgave
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Firmaattest"
-meta_title: "Firmaattest"
+seoTitle: "Firmaattest"
 meta_description: 'En **firmaattest** er et offisielt dokument utstedt av [Brønnøysundregistrene](/blogs/regnskap/bronnoysundregistrene "Brønnøysundregistrene - Oversikt over ...'
 slug: firmaattest
 type: blog

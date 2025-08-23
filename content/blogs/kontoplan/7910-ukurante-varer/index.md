@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 7910 - Ukurante varer"
-meta_title: "7910-ukurante-varer"
+seoTitle: "7910-ukurante-varer"
 meta_description: '**Konto 7910 - Ukurante varer** er en konto i Norsk Standard Kontoplan som brukes til å registrere **verdifall på ukurante varer** som en driftskostnad i resu...'
 slug: 7910-ukurante-varer
 type: blog

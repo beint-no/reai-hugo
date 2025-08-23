@@ -1,6 +1,6 @@
 ﻿---
 title: "Trygdeopgjøret"
-meta_title: "Trygdeopgjøret"
+seoTitle: "Trygdeopgjøret"
 meta_description: '**Trygdeopgjøret** er det **årlige oppgjøret** av betalte trygdeavgifter og beregnede ytelser i **[folketrygden](/blogs/regnskap/hva-er-folketrygden "Hva er ...'
 slug: trygdeopgjoret
 type: blog

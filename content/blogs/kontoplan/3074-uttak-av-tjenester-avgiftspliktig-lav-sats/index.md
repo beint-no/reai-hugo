@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 3074 - Uttak av tjenester avgiftspliktig lav sats"
-meta_title: "3074-uttak-av-tjenester-avgiftspliktig-lav-sats"
+seoTitle: "3074-uttak-av-tjenester-avgiftspliktig-lav-sats"
 meta_description: '**Konto 3074 - Uttak av tjenester avgiftspliktig lav sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **uttak av tjenester** til bruk ...'
 slug: 3074-uttak-av-tjenester-avgiftspliktig-lav-sats
 type: blog

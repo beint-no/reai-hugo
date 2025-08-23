@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Konto 1330 - Investeringer i tilknyttede selskap?"
-meta_title: "1330-investeringer-i-tilknyttede-selskap"
+seoTitle: "1330-investeringer-i-tilknyttede-selskap"
 meta_description: '**Konto 1330 - Investeringer i tilknyttede selskap** er en konto i Norsk Standard Kontoplan som brukes til å registrere **langsiktige investeringer** i selskap...'
 slug: 1330-investeringer-i-tilknyttede-selskap
 type: blog

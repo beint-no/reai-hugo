@@ -1,6 +1,6 @@
 ﻿---
 title: "Styreverv: Roller, Ansvar og Fordeler ved Styreverv i Norske Selskaper"
-meta_title: "Styreverv: Roller, Ansvar og Fordeler ved Styreverv i Norske Selskaper"
+seoTitle: "Styreverv: Roller, Ansvar og Fordeler ved Styreverv i Norske Selskaper"
 meta_description: 'En **styreverv** er et verv i selskapets [styre](/blogs/regnskap/hva-er-styre "Hva er Styre? Ansvar, Rolle og Oppgaver i Aksjeselskap") hvor en person påtar se...'
 slug: styreverv
 type: blog

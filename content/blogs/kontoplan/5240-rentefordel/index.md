@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 5240 - Rentefordel"
-meta_title: "5240-rentefordel"
+seoTitle: "5240-rentefordel"
 meta_description: '**Konto 5240 - Rentefordel** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **rentefordel** som **ansattgode**.'
 slug: 5240-rentefordel
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Tabelltrekk?"
-meta_title: "Hva er Tabelltrekk?"
+seoTitle: "Hva er Tabelltrekk?"
 meta_description: '**Tabelltrekk** er et standardisert system for beregning av forskuddstrekk og andre skattemessige trekk basert på forhåndsbestemte tabeller. Dette systemet fo...'
 slug: hva-er-tabelltrekk
 type: blog

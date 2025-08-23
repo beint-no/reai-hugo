@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er eksternregnskap?"
-meta_title: "Hva er eksternregnskap?"
+seoTitle: "Hva er eksternregnskap?"
 meta_description: '**Eksternregnskap** er finansiell rapportering som er utarbeidet primært for **eksterne interessenter** som investorer, kreditorer, myndigheter, kunder og leve...'
 slug: hva-er-eksternregnskap
 type: blog

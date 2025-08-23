@@ -1,6 +1,6 @@
 ﻿---
 title: "Kassekreditt"
-meta_title: "Kassekreditt"
+seoTitle: "Kassekreditt"
 meta_description: 'Kassekreditt er en fleksibel, kortsiktig finansieringsløsning som gir bedrifter tilgang til likvide midler ved å opprette en kredittramme på bedriftskontoen....'
 slug: kassekreditt
 type: blog

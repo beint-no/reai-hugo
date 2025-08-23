@@ -1,6 +1,6 @@
 ﻿---
 title: "Selskapsform"
-meta_title: "Selskapsform"
+seoTitle: "Selskapsform"
 meta_description: '![Oversikt over selskapsformer i Norge](selskapsform-image.svg)'
 slug: selskapsform
 type: blog

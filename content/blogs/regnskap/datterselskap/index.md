@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Datterselskap?"
-meta_title: "Hva er Datterselskap?"
+seoTitle: "Hva er Datterselskap?"
 meta_description: '**Datterselskap** er et selskap som er kontrollert av et [morselskap](/blogs/regnskap/hva-er-morselskap "Hva er et Morselskap? Komplett Guide til Morselskap og ...'
 slug: datterselskap
 type: blog

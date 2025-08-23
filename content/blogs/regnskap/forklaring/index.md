@@ -1,6 +1,6 @@
 ﻿---
 title: "Forklaring i regnskap"
-meta_title: "Forklaring i regnskap"
+seoTitle: "Forklaring i regnskap"
 meta_description: '**Forklaring** i regnskap refererer til tekstlige beskrivelser og kommentarer som gir kontekst og utdyper tallene i regnskapsoppstillinger som balanse, resultat...'
 slug: forklaring
 type: blog

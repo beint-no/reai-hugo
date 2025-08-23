@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Passiva? En Guide til Gjeld og Egenkapital i Regnskap"
-meta_title: "Hva er Passiva? En Guide til Gjeld og Egenkapital i Regnskap"
+seoTitle: "Hva er Passiva? En Guide til Gjeld og Egenkapital i Regnskap"
 meta_description: '**Passiva** er alle forpliktelser og egenkapital som et selskap har på et gitt tidspunkt. I enkel forstand representerer passiva "hvor pengene kommer fra" i en...'
 slug: hva-er-passiva
 type: blog

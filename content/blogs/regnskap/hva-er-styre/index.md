@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Styre?"
-meta_title: "Hva er Styre?"
+seoTitle: "Hva er Styre?"
 meta_description: 'Et **styre** er det sentrale ledelses- og styringsorganet i et [aksjeselskap (AS)](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap? Komplett Guid...'
 slug: hva-er-styre
 type: blog

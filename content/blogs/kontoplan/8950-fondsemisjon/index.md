@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 8950 - Fondsemisjon"
-meta_title: "8950-fondsemisjon"
+seoTitle: "8950-fondsemisjon"
 meta_description: '**Konto 8950 - Fondsemisjon** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **fondsemisjon** ved overføring av fri egenkapital...'
 slug: 8950-fondsemisjon
 type: blog

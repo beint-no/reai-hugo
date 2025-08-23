@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er kreditere?"
-meta_title: "Hva er kreditere?"
+seoTitle: "Hva er kreditere?"
 meta_description: '**Kreditere** er en fundamental handling i [dobbelt bokføring](/blogs/regnskap/hva-er-dobbel-bokforing "Hva er Dobbel Bokføring? Komplett Guide til Dobbelt Bo...'
 slug: hva-er-kreditere
 type: blog

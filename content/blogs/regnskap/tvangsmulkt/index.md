@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Tvangsmulkt?"
-meta_title: "Hva er Tvangsmulkt?"
+seoTitle: "Hva er Tvangsmulkt?"
 meta_description: '**Tvangsmulkt** er en **økonomisk sanksjon** som ilegges som dagbøter ved manglende eller forsinket **lovpålagt rapportering** til offentlige myndigheter som...'
 slug: tvangsmulkt
 type: blog

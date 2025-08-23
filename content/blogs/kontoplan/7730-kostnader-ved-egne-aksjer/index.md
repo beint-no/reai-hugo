@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 7730 - Kostnader ved egne aksjer"
-meta_title: "7730-kostnader-ved-egne-aksjer"
+seoTitle: "7730-kostnader-ved-egne-aksjer"
 meta_description: '**Konto 7730 - Kostnader ved egne aksjer** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **kostnader ved egne aksjer** som ...'
 slug: 7730-kostnader-ved-egne-aksjer
 type: blog

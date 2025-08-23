@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er en Aksjesplitt? En Komplett Guide"
-meta_title: "Hva er en Aksjesplitt? En Komplett Guide"
+seoTitle: "Hva er en Aksjesplitt? En Komplett Guide"
 meta_description: 'En **aksjesplitt** er en handling et selskap foretar for å øke antallet utestående aksjer ved å dele hver eksisterende aksje opp i flere nye aksjer. Selv om...'
 slug: hva-er-aksjesplitt
 type: blog

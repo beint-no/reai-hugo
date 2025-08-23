@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Forening i Regnskap? Regnskapsføring for Foreninger og Organisasjoner"
-meta_title: "Hva er Forening i Regnskap? Regnskapsføring for Foreninger og Organisasjoner"
+seoTitle: "Hva er Forening i Regnskap? Regnskapsføring for Foreninger og Organisasjoner"
 meta_description: 'En **forening** er en sammenslutning av personer som har sluttet seg sammen for å fremme felles interesser eller oppnå et bestemt formål. I regnskapssammenhe...'
 slug: hva-er-forening
 type: blog

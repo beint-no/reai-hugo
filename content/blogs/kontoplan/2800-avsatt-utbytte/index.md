@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 2800 - Avsatt utbytte"
-meta_title: "2800-avsatt-utbytte"
+seoTitle: "2800-avsatt-utbytte"
 meta_description: '**Konto 2800 - Avsatt utbytte** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **avsetning av utbytte** vedtatt av generalforsam...'
 slug: 2800-avsatt-utbytte
 type: blog

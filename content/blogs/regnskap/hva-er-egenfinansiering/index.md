@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Egenfinansiering?"
-meta_title: "Hva er Egenfinansiering?"
+seoTitle: "Hva er Egenfinansiering?"
 meta_description: '**Egenfinansiering** er finansiering av en bedrift gjennom egenkapital fra eierne, i motsetning til fremmedfinansiering gjennom lån og kreditt. Som en viktig m...'
 slug: hva-er-egenfinansiering
 type: blog

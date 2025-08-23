@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er kjørebok?"
-meta_title: "Hva er kjørebok?"
+seoTitle: "Hva er kjørebok?"
 meta_description: 'En **kjørebok** er et systematisk register over kjøretøybruk som dokumenterer alle tjenestereiser og private kjøreturer. Dette er et kritisk verktøy for be...'
 slug: hva-er-kjorebok
 type: blog

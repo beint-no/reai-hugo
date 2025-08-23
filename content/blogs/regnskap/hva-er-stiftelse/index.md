@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Stiftelse?"
-meta_title: "Hva er Stiftelse?"
+seoTitle: "Hva er Stiftelse?"
 meta_description: '**Stiftelse** er en juridisk selvstendig organisasjonsform som etableres for å fremme bestemte formål av allmennyttig, vitenskapelig, kulturell eller veldedig...'
 slug: hva-er-stiftelse
 type: blog

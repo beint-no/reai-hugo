@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 3000 - Salgsinntekt handelsvarer avgiftspl. høy sats"
-meta_title: "3000-salgsinntekt-handelsvarer-avgiftspl-hoy-sats"
+seoTitle: "3000-salgsinntekt-handelsvarer-avgiftspl-hoy-sats"
 meta_description: '**Konto 3000 - Salgsinntekt handelsvarer avgiftspl. høy sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **salgsinntekter** fra **han...'
 slug: 3000-salgsinntekt-handelsvarer-avgiftspl-hoy-sats
 type: blog

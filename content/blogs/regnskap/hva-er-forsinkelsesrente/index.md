@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er forsinkelsesrente?"
-meta_title: "Hva er forsinkelsesrente?"
+seoTitle: "Hva er forsinkelsesrente?"
 meta_description: '**Forsinkelsesrente**, også kjent som **[morarente](/blogs/regnskap/hva-er-morarente "Hva er Morarente? Komplett Guide til Lovpålagt Forsinkelsesrente i Norge...'
 slug: hva-er-forsinkelsesrente
 type: blog

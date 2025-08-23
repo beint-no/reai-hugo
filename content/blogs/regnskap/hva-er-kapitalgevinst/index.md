@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er kapitalgevinst?"
-meta_title: "Hva er kapitalgevinst?"
+seoTitle: "Hva er kapitalgevinst?"
 meta_description: '**Kapitalgevinst** er den positive differansen mellom salgsprisen og [anskaffelseskostnaden](/blogs/regnskap/hva-er-anskaffelseskost "Hva er Anskaffelseskost? B...'
 slug: hva-er-kapitalgevinst
 type: blog

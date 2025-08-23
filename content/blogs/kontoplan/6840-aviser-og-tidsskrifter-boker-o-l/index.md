@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 6840 - Aviser og tidsskrifter, bøker o.l."
-meta_title: "6840-aviser-og-tidsskrifter-boker-o-l"
+seoTitle: "6840-aviser-og-tidsskrifter-boker-o-l"
 meta_description: '**Konto 6840 - Aviser og tidsskrifter, bøker o.l.** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kostnader til publiseringsmateriale**...'
 slug: 6840-aviser-og-tidsskrifter-boker-o-l
 type: blog

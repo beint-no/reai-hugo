@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Profitt i Regnskap?"
-meta_title: "Hva er Profitt i Regnskap?"
+seoTitle: "Hva er Profitt i Regnskap?"
 meta_description: '**Profitt** er kanskje det mest grunnleggende målet for enhver forretningsvirksomhet - det representerer bedriftens evne til å generere overskudd ved å lever...'
 slug: hva-er-profitt
 type: blog

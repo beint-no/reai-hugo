@@ -1,6 +1,6 @@
 ﻿---
 title: "Åpningsbalanse for aksjeselskap"
-meta_title: "Åpningsbalanse for aksjeselskap"
+seoTitle: "Åpningsbalanse for aksjeselskap"
 meta_description: 'En **åpningsbalanse** for et **aksjeselskap (AS)** er den første balansen som viser selskapets finansielle stilling ved oppstart eller ved nytt regnskapsår. ...'
 slug: apningsbalanse-for-aksjeselskap
 type: blog

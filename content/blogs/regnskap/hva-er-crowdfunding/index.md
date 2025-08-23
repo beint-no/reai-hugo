@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Crowdfunding i Regnskap?"
-meta_title: "Hva er Crowdfunding i Regnskap?"
+seoTitle: "Hva er Crowdfunding i Regnskap?"
 meta_description: '**Crowdfunding** er en moderne [finansieringsmetode](/blogs/regnskap/hva-er-finansiering "Hva er Finansiering? Komplett Guide til Bedriftsfinansiering og Finans...'
 slug: hva-er-crowdfunding
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 5230 - Fri losji og bolig"
-meta_title: "5230-fri-losji-og-bolig"
+seoTitle: "5230-fri-losji-og-bolig"
 meta_description: '**Konto 5230 - Fri losji og bolig** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **verdi av fri losji og bolig** som **ans...'
 slug: 5230-fri-losji-og-bolig
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Betalingspåmminelse?"
-meta_title: "Hva er Betalingspåmminelse?"
+seoTitle: "Hva er Betalingspåmminelse?"
 meta_description: 'En **betalingspåmminelse** er en formell oppfordring til betaling av forfalt gjeld som sendes til en debitor som ikke har betalt innen forfallsdato. Dette er e...'
 slug: hva-er-betalingspamminelse
 type: blog

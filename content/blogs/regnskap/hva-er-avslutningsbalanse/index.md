@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Avslutningsbalanse?"
-meta_title: "Hva er Avslutningsbalanse?"
+seoTitle: "Hva er Avslutningsbalanse?"
 meta_description: 'En **avslutningsbalanse** er den endelige [balansen](/blogs/regnskap/hva-er-aktiva "Hva er Aktiva? Komplett Guide til Eiendeler i Balansen") som viser et selska...'
 slug: hva-er-avslutningsbalanse
 type: blog

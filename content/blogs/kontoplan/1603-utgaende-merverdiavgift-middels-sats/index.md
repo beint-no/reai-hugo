@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 1603 - Utgående merverdiavgift middels sats"
-meta_title: "1603-utgaende-merverdiavgift-middels-sats"
+seoTitle: "1603-utgaende-merverdiavgift-middels-sats"
 meta_description: '**Konto 1603 - Utgående merverdiavgift middels sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **utgående merverdiavgift med middel...'
 slug: 1603-utgaende-merverdiavgift-middels-sats
 type: blog

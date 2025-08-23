@@ -1,6 +1,6 @@
 ﻿---
 title: "Ukurans"
-meta_title: "Ukurans"
+seoTitle: "Ukurans"
 meta_description: '**Ukurans** er **nedskrivning** av varelager som ikke lenger kan realiseres til full verdi. Korrekt håndtering av ukurans sikrer at balansen gjenspeiler reell ...'
 slug: ukurans
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Grunnlønn i Regnskap?"
-meta_title: "Hva er Grunnlønn i Regnskap?"
+seoTitle: "Hva er Grunnlønn i Regnskap?"
 meta_description: '**Grunnlønn** er den faste basislønnen som utbetales til en ansatt før tillegg som overtidsbetaling, bonus, provisjon eller andre variable lønnskomponenter....'
 slug: hva-er-grunnlonn
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Speditør"
-meta_title: "Speditør"
+seoTitle: "Speditør"
 meta_description: '**Speditør** (også kalt speditørfirma eller fraktmegler) er en spesialist som planlegger, koordinerer og administrerer transport av varer på vegne av avsend...'
 slug: speditor
 type: blog

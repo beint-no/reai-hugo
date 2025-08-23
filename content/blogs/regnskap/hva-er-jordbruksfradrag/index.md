@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er jordbruksfradrag?"
-meta_title: "Hva er jordbruksfradrag?"
+seoTitle: "Hva er jordbruksfradrag?"
 meta_description: '**Jordbruksfradrag** er spesielle skattefradrag som gis til landbruksvirksomheter i Norge for å kompensere for sektorens særegne utfordringer og bidra til opp...'
 slug: hva-er-jordbruksfradrag
 type: blog

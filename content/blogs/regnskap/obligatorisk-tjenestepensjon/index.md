@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er obligatorisk tjenestepensjon?"
-meta_title: "Hva er obligatorisk tjenestepensjon?"
+seoTitle: "Hva er obligatorisk tjenestepensjon?"
 meta_description: '**Obligatorisk tjenestepensjon** (OTP) er en lovpålagt pensjonsordning som alle norske arbeidsgivere må etablere for sine ansatte. Ordningen ble innført i 20...'
 slug: obligatorisk-tjenestepensjon
 type: blog

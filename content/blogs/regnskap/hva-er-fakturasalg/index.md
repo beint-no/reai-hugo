@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Fakturasalg? Komplett Guide til Kredittgivning og Debitorhåndtering"
-meta_title: "Hva er Fakturasalg? Komplett Guide til Kredittgivning og Debitorhåndtering"
+seoTitle: "Hva er Fakturasalg? Komplett Guide til Kredittgivning og Debitorhåndtering"
 meta_description: '**Fakturasalg** er en regnskapsmetode hvor inntekter registreres på det tidspunktet en [faktura](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide...'
 slug: hva-er-fakturasalg
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Utrangeringsverdi i Regnskap?"
-meta_title: "Hva er Utrangeringsverdi i Regnskap?"
+seoTitle: "Hva er Utrangeringsverdi i Regnskap?"
 meta_description: '**Utrangeringsverdi** er den **estimerte salgsverdien** av et [anleggsmiddel](/blogs/regnskap/hva-er-anleggsmidler "Hva er Anleggsmidler? Materielle, Immateriel...'
 slug: hva-er-utrangeringsverdi
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Avstemming i Regnskap?"
-meta_title: "Hva er Avstemming i Regnskap?"
+seoTitle: "Hva er Avstemming i Regnskap?"
 meta_description: '**Avstemming i regnskap** er en kritisk prosess som sikrer at regnskapsdata er nøyaktige og pålitelige. Dette innebærer å sammenligne og kontrollere regnska...'
 slug: hva-er-avstemming
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Direkte kostnader?"
-meta_title: "Hva er Direkte kostnader?"
+seoTitle: "Hva er Direkte kostnader?"
 meta_description: '**Direkte kostnader** er kostnader som kan spores direkte til et spesifikt produkt, tjeneste eller kostnadssted. Disse kostnadene ville ikke påløpt hvis produ...'
 slug: hva-er-direkte-kostnader
 type: blog

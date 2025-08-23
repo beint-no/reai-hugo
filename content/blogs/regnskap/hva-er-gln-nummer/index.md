@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er GLN-nummer?"
-meta_title: "Hva er GLN-nummer?"
+seoTitle: "Hva er GLN-nummer?"
 meta_description: '**GLN-nummer** (Global Location Number) er en internasjonal GS1-standard som brukes for entydig identifikasjon av fysiske lokasjoner, partnere og adresser i ver...'
 slug: hva-er-gln-nummer
 type: blog

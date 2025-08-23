@@ -1,6 +1,6 @@
 ﻿---
 title: "Virkedager (regnskap)"
-meta_title: "Virkedager (regnskap)"
+seoTitle: "Virkedager (regnskap)"
 meta_description: '**Virkedager** er de dagene i kalenderen hvor det utføres ordinært arbeid og regnskapsoppgaver, og som danner grunnlag for beregning av **frister** og **forfa...'
 slug: virkedager
 type: blog

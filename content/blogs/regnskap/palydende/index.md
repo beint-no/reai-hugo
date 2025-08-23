@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Pålydende?"
-meta_title: "Hva er Pålydende?"
+seoTitle: "Hva er Pålydende?"
 meta_description: '**Pålydende**, også kjent som **nominell verdi**, beskriver den fastsatte verdien av et finansielt instrument ved utstedelse. For aksjer angir pålydende den ...'
 slug: palydende
 type: blog

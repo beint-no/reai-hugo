@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Fjernleverbare Tjenester i Regnskap?"
-meta_title: "Hva er Fjernleverbare Tjenester i Regnskap?"
+seoTitle: "Hva er Fjernleverbare Tjenester i Regnskap?"
 meta_description: '**Fjernleverbare tjenester** er tjenester som kan leveres elektronisk over internett uten at leverandøren og kunden trenger å være fysisk til stede på samme...'
 slug: hva-er-fjernleverbare-tjenester
 type: blog

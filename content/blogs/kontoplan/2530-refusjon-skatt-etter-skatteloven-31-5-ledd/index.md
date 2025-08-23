@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Konto 2530 - Refusjon skatt etter Skatteloven Â§31 5. ledd?"
-meta_title: "2530-refusjon-skatt-etter-skatteloven-31-5-ledd"
+seoTitle: "2530-refusjon-skatt-etter-skatteloven-31-5-ledd"
 meta_description: '**Konto 2530 - Refusjon skatt etter Skatteloven Â§31 5. ledd** er en konto i Norsk Standard Kontoplan som brukes når virksomheten har betalt for mye skatt og h...'
 slug: 2530-refusjon-skatt-etter-skatteloven-31-5-ledd
 type: blog

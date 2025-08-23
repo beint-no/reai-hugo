@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er en Opsjon?"
-meta_title: "Hva er en Opsjon?"
+seoTitle: "Hva er en Opsjon?"
 meta_description: 'En **opsjon** er en kontrakt som gir innehaveren **rett**, men ikke plikt, til å *kjøpe* eller *selge* en underliggende eiendel til en forhåndsbestemt pris i...'
 slug: opsjon
 type: blog

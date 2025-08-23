@@ -1,6 +1,6 @@
 ﻿---
 title: "Næringskode"
-meta_title: "Næringskode"
+seoTitle: "Næringskode"
 meta_description: '**Næringskode** er et firesifret tall som klassifiserer virksomhetens **bransjetilhørighet** i norsk regnskap og offentlig registrering. Koden benyttes av [En...'
 slug: naeringskode
 type: blog

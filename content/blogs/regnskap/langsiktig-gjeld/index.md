@@ -1,6 +1,6 @@
 ﻿---
 title: "langsiktig-gjeld"
-meta_title: "langsiktig-gjeld"
+seoTitle: "langsiktig-gjeld"
 meta_description: '**Langsiktig gjeld** er en fundamental komponent i virksomhetens finansieringsstruktur som representerer forpliktelser med forfallstid på mer enn ett år fra b...'
 slug: langsiktig-gjeld
 type: blog

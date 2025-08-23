@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Lønn i Regnskap?"
-meta_title: "Hva er Lønn i Regnskap?"
+seoTitle: "Hva er Lønn i Regnskap?"
 meta_description: '**Lønn** er kompensasjon som utbetales til ansatte for utført arbeid og representerer en av de største kostnadene for de fleste bedrifter. I regnskapssammenh...'
 slug: hva-er-lonn
 type: blog

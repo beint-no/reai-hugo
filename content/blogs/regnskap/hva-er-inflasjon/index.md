@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Inflasjon?"
-meta_title: "Hva er Inflasjon?"
+seoTitle: "Hva er Inflasjon?"
 meta_description: 'For en helhetlig oversikt over økonomiens store mekanismer, se **[Makroøkonomi](/blogs/regnskap/makrookonomi "Makroøkonomi: Prinsipper og Betydning for Norsk...'
 slug: hva-er-inflasjon
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er CSRD? Corporate Sustainability Reporting Directive"
-meta_title: "Hva er CSRD? Corporate Sustainability Reporting Directive"
+seoTitle: "Hva er CSRD? Corporate Sustainability Reporting Directive"
 meta_description: '**CSRD** (Corporate Sustainability Reporting Directive) er EUs nye direktiv for [**bærekraftsrapportering**](/blogs/regnskap/baerekraftsrapportering "Bærekraf...'
 slug: hva-er-csrd
 type: blog

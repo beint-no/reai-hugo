@@ -1,6 +1,6 @@
 ﻿---
 title: "Skattekort"
-meta_title: "Skattekort"
+seoTitle: "Skattekort"
 meta_description: '**Skattekort** er den digitale **bekreftelsen** fra [Skatteetaten](/blogs/regnskap/hva-er-altinn "Altinn - Digital Kommunikasjon med Offentlige Myndigheter") pÃ...'
 slug: skattekort
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Tap på fordring"
-meta_title: "Tap på fordring"
+seoTitle: "Tap på fordring"
 meta_description: '**Tap på fordring** er en regnskapsmessig og skattemessig realitet som alle bedrifter med kreditsalg må forholde seg til. Når kunder ikke kan eller vil betal...'
 slug: tap-pa-fordring
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Nullpunkt (Break-Even) i Regnskap?"
-meta_title: "Hva er Nullpunkt (Break-Even) i Regnskap?"
+seoTitle: "Hva er Nullpunkt (Break-Even) i Regnskap?"
 meta_description: '**Nullpunkt** (break-even) er det kritiske punktet hvor en bedrifts totale inntekter er lik totale kostnader, og bedriften verken går med overskudd eller under...'
 slug: hva-er-nullpunkt
 type: blog

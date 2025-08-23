@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 2720 - Investeringsavgift"
-meta_title: "2720-investeringsavgift"
+seoTitle: "2720-investeringsavgift"
 meta_description: '**Konto 2720 - Investeringsavgift** er en konto i **Norsk Standard Kontoplan** som brukes til å registrere utgående **investeringsavgift** fra leverandøren v...'
 slug: 2720-investeringsavgift
 type: blog

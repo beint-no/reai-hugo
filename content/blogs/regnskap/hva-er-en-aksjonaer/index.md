@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er en Aksjonær? En Komplett Guide"
-meta_title: "Hva er en Aksjonær? En Komplett Guide"
+seoTitle: "Hva er en Aksjonær? En Komplett Guide"
 meta_description: 'En **aksjonær**, også kjent som en *aksjeeier*, er en person eller en juridisk enhet som eier én eller flere [aksjer](/blogs/regnskap/hva-er-en-aksje "Hva er...'
 slug: hva-er-en-aksjonaer
 type: blog

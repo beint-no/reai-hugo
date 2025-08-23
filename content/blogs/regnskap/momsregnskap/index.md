@@ -1,6 +1,6 @@
 ﻿---
 title: "Momsregnskap - Komplett Guide til MVA-regnskapsføring"
-meta_title: "Momsregnskap - Komplett Guide til MVA-regnskapsføring"
+seoTitle: "Momsregnskap - Komplett Guide til MVA-regnskapsføring"
 meta_description: '**Momsregnskap** er det systematiske arbeidet med å registrere, beregne og rapportere merverdiavgift (MVA) i bedriftens [regnskap](/blogs/regnskap/hva-er-regns...'
 slug: momsregnskap
 type: blog

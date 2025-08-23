@@ -1,6 +1,6 @@
 ﻿---
 title: "Gjenpartsbrev"
-meta_title: "Gjenpartsbrev"
+seoTitle: "Gjenpartsbrev"
 meta_description: '**Gjenpartsbrev** er et attestert eksemplar av et originalbilag som benyttes for å sikre **dokumentasjon** og sporbarhet i regnskapet. Gjennom å utstede et gj...'
 slug: gjenpartsbrev
 type: blog

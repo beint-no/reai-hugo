@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Disagio? Emisjonsrabatt på lån og obligasjoner"
-meta_title: "Hva er Disagio? Emisjonsrabatt på lån og obligasjoner"
+seoTitle: "Hva er Disagio? Emisjonsrabatt på lån og obligasjoner"
 meta_description: '**Disagio**, også kjent som *emisjonsrabatt* eller *utstedelsesrabatt*, er forskjellen mellom den nominelle verdien av et lån eller obligasjon og det faktiske...'
 slug: disagio
 type: blog

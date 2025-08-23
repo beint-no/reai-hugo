@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er FIFO-metoden?"
-meta_title: "Hva er FIFO-metoden?"
+seoTitle: "Hva er FIFO-metoden?"
 meta_description: '**FIFO-metoden (First In, First Out)** er en **lagerverdivurderingsmetode** som antar at de eldste varene i lageret selges først. Metoden er sentral for å sik...'
 slug: fifo-metoden
 type: blog

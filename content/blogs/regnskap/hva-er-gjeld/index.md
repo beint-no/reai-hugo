@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Gjeld i Regnskap?"
-meta_title: "Hva er Gjeld i Regnskap?"
+seoTitle: "Hva er Gjeld i Regnskap?"
 meta_description: '**Gjeld** er en av de mest sentrale komponentene i regnskapsføring og representerer virksomhetens forpliktelser overfor eksterne parter. Som en kritisk del av ...'
 slug: hva-er-gjeld
 type: blog

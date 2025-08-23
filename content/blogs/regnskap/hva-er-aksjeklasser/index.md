@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Aksjeklasser?"
-meta_title: "Hva er Aksjeklasser?"
+seoTitle: "Hva er Aksjeklasser?"
 meta_description: '**Aksjeklasser** er ulike sett av aksjer som gir ulike rettigheter i selskapet. Dette er et viktig konsept for å forstå hvordan eierskap og kontroll kan struk...'
 slug: hva-er-aksjeklasser
 type: blog

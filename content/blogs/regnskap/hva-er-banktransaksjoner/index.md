@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Banktransaksjoner i Regnskap?"
-meta_title: "Hva er Banktransaksjoner i Regnskap?"
+seoTitle: "Hva er Banktransaksjoner i Regnskap?"
 meta_description: '**Banktransaksjoner** er alle finansielle bevegelser som skjer gjennom bedriftens [bankkontoer](/blogs/regnskap/hva-er-kontonummer "Hva er Kontonummer? Komplett...'
 slug: hva-er-banktransaksjoner
 type: blog

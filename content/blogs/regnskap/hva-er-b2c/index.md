@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er B2C? Business-to-Consumer i Regnskap"
-meta_title: "Hva er B2C? Business-to-Consumer i Regnskap"
+seoTitle: "Hva er B2C? Business-to-Consumer i Regnskap"
 meta_description: '**B2C** (Business-to-Consumer) refererer til handel der en **virksomhet** selger varer eller tjenester direkte til **privatpersoner**. I norsk regnskap har B2C-...'
 slug: hva-er-b2c
 type: blog

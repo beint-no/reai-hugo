@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er NUF (Norskregistrert Utenlandsk Foretak)?"
-meta_title: "Hva er NUF (Norskregistrert Utenlandsk Foretak)?"
+seoTitle: "Hva er NUF (Norskregistrert Utenlandsk Foretak)?"
 meta_description: 'For en oversikt over ulike selskapsformer i Norge, se [Selskapsform](/blogs/regnskap/selskapsform "Selskapsform: Oversikt over selskapsformer i Norge").'
 slug: hva-er-nuf-selskapsform
 type: blog

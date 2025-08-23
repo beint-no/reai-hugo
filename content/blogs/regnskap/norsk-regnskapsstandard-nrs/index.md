@@ -1,6 +1,6 @@
 ﻿---
 title: "Norsk regnskapsstandard (NRS)"
-meta_title: "Norsk regnskapsstandard (NRS)"
+seoTitle: "Norsk regnskapsstandard (NRS)"
 meta_description: '**Norsk regnskapsstandard (NRS)** er det nasjonale rammeverket for regnskapsføring i Norge, utviklet spesielt for norske virksomheter som ikke er pålagt å fÃ...'
 slug: norsk-regnskapsstandard-nrs
 type: blog

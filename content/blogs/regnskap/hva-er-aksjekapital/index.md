@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Aksjekapital?"
-meta_title: "Hva er Aksjekapital?"
+seoTitle: "Hva er Aksjekapital?"
 meta_description: '**Aksjekapital** er den samlede verdien av eiernes innskudd i et [aksjeselskap (AS)](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap? Komplett Gu...'
 slug: hva-er-aksjekapital
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Saldoavskrivning i Regnskap?"
-meta_title: "Hva er Saldoavskrivning i Regnskap?"
+seoTitle: "Hva er Saldoavskrivning i Regnskap?"
 meta_description: '**Saldoavskrivning** er en av de mest brukte avskrivningsmetodene i norsk regnskap, hvor [anleggsmidler](/blogs/regnskap/hva-er-anleggsmidler "Hva er Anleggsmid...'
 slug: hva-er-saldoavskrivning
 type: blog

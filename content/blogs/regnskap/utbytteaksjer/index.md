@@ -1,6 +1,6 @@
 ﻿---
 title: "Utbytteaksjer"
-meta_title: "Utbytteaksjer"
+seoTitle: "Utbytteaksjer"
 meta_description: '**Utbytteaksjer** er aksjer i selskaper som deler ut jevnlige kontantutbetalinger til aksjonærene, kalt *utbytte*. Slike aksjer er populære blant investorer s...'
 slug: utbytteaksjer
 type: blog

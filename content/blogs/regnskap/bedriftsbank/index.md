@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Bedriftsbank?"
-meta_title: "Hva er Bedriftsbank?"
+seoTitle: "Hva er Bedriftsbank?"
 meta_description: '**Bedriftsbank** er en helhetlig tjenesteportefølje som hjelper norske bedrifter med å **håndtere likviditet**, **utføre betalinger** og **opprettholde øko...'
 slug: bedriftsbank
 type: blog

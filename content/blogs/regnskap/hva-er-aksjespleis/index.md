@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Aksjespleis? En Detaljert Guide"
-meta_title: "Hva er Aksjespleis? En Detaljert Guide"
+seoTitle: "Hva er Aksjespleis? En Detaljert Guide"
 meta_description: 'En **aksjespleis**, ofte kalt *omvendt aksjesplitt*, er en strategisk manøver et [aksjeselskap](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et aksjeselskap?...'
 slug: hva-er-aksjespleis
 type: blog

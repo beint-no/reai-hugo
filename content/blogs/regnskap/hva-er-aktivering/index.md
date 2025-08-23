@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Aktivering i Regnskap?"
-meta_title: "Hva er Aktivering i Regnskap?"
+seoTitle: "Hva er Aktivering i Regnskap?"
 meta_description: '**Aktivering** er regnskapsprosessen hvor kostnader som oppfyller visse kriterier balanseføres som eiendeler (aktiva) og avskrives over tid. Gjennom **aktiveri...'
 slug: hva-er-aktivering
 type: blog

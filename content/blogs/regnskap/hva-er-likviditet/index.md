@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er likviditet?"
-meta_title: "Hva er likviditet?"
+seoTitle: "Hva er likviditet?"
 meta_description: '**Likviditet** er et av de mest kritiske konseptene innen regnskap og finansstyring. Det refererer til en bedrifts evne til å møte sine kortsiktige finansiell...'
 slug: hva-er-likviditet
 type: blog

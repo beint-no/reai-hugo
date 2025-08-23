@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 8110 - Nedskrivning finansielle omløpsmidler"
-meta_title: "8110-nedskrivning-finansielle-omlopsmidler"
+seoTitle: "8110-nedskrivning-finansielle-omlopsmidler"
 meta_description: '**Konto 8110 - Nedskrivning finansielle omløpsmidler** er en konto i Norsk Standard Kontoplan som brukes for å registrere **realiserte tap** og **varige verdi...'
 slug: 8110-nedskrivning-finansielle-omlopsmidler
 type: blog

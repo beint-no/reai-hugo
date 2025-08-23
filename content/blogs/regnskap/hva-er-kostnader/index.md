@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er kostnader?"
-meta_title: "Hva er kostnader?"
+seoTitle: "Hva er kostnader?"
 meta_description: '**Kostnader** er en av de mest fundamentale begrepene i [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Dybdeanalyse for Norge") og representere...'
 slug: hva-er-kostnader
 type: blog

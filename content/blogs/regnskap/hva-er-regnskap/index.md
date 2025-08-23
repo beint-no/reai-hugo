@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er regnskap?"
-meta_title: "Hva er regnskap?"
+seoTitle: "Hva er regnskap?"
 meta_description: 'Regnskap er den systematiske og omfattende registreringen av finansielle transaksjoner knyttet til en virksomhet. Det er språket som bedrifter bruker for å ko...'
 slug: hva-er-regnskap
 type: blog

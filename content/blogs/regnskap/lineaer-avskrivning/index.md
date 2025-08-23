@@ -1,6 +1,6 @@
 ﻿---
 title: "Lineær Avskrivning i Regnskap"
-meta_title: "Lineær Avskrivning i Regnskap"
+seoTitle: "Lineær Avskrivning i Regnskap"
 meta_description: '**Lineær avskrivning** er den mest brukte metoden for å fordele anskaffelseskostnaden jevnt over en eiendels økonomiske levetid. Denne artikkelen gir en **dy...'
 slug: lineaer-avskrivning
 type: blog

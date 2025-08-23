@@ -1,6 +1,6 @@
 ﻿---
 title: "Egenkapitalmetoden"
-meta_title: "Egenkapitalmetoden"
+seoTitle: "Egenkapitalmetoden"
 meta_description: '**Egenkapitalmetoden** er en regnskapsmetode som benyttes for investeringer i tilknyttede selskaper og felleskontrollert virksomhet (joint ventures). Metoden gi...'
 slug: egenkapitalmetoden
 type: blog

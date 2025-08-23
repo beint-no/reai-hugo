@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er BIC-kode?"
-meta_title: "Hva er BIC-kode?"
+seoTitle: "Hva er BIC-kode?"
 meta_description: '**BIC-kode** (Bank Identifier Code) er en internasjonal standard som brukes for å identifisere banker og finansinstitusjoner ved grenseoverskridende betalinger...'
 slug: hva-er-bic-kode
 type: blog

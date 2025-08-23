@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er en virksomhet?"
-meta_title: "Hva er en virksomhet?"
+seoTitle: "Hva er en virksomhet?"
 meta_description: '**Virksomhet** er den grunnleggende regnskapsenheten som omfatter alle aktiviteter, eiendeler og forpliktelser som tilhører en økonomisk enhet. I norsk regnsk...'
 slug: hva-er-virksomhet
 type: blog

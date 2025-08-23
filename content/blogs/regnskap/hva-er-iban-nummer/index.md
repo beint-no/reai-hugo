@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er IBAN-nummer?"
-meta_title: "Hva er IBAN-nummer?"
+seoTitle: "Hva er IBAN-nummer?"
 meta_description: '**IBAN-nummer** (International Bank Account Number) er en internasjonal standard som brukes for å identifisere bankkonti ved grenseoverskridende betalinger og ...'
 slug: hva-er-iban-nummer
 type: blog

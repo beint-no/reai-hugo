@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er factoring?"
-meta_title: "Hva er factoring?"
+seoTitle: "Hva er factoring?"
 meta_description: '**Factoring** er en spesialisert [finansieringstjeneste](/blogs/regnskap/hva-er-finansiering "Hva er Finansiering? Komplett Guide til Bedriftsfinansiering og Fi...'
 slug: hva-er-factoring
 type: blog

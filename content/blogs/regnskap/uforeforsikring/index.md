@@ -1,6 +1,6 @@
 ﻿---
 title: "Uføreforsikring"
-meta_title: "Uføreforsikring"
+seoTitle: "Uføreforsikring"
 meta_description: 'Uføreforsikring er en privat **inntektssikring** som gir erstatning ved varig nedsatt arbeidsevne. En slik forsikring utfyller offentlige ytelser som [uføretr...'
 slug: uforeforsikring
 type: blog

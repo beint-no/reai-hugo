@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 3300 - Spesiell off. avg. tilv./solgte varer avgiftspl."
-meta_title: "3300-spesiell-off-avg-tilv-solgte-varer-avgiftspl"
+seoTitle: "3300-spesiell-off-avg-tilv-solgte-varer-avgiftspl"
 meta_description: '**Konto 3300 - Spesiell off. avg. tilv./solgte varer avgiftspl.** er en konto i **Norsk Standard Kontoplan** som brukes til å registrere **spesiell offentlig a...'
 slug: 3300-spesiell-off-avg-tilv-solgte-varer-avgiftspl
 type: blog

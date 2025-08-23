@@ -1,6 +1,6 @@
 ﻿---
 title: "Fordelsbeskatning"
-meta_title: "Fordelsbeskatning"
+seoTitle: "Fordelsbeskatning"
 meta_description: '**Fordelsbeskatning** er beskatning av [naturalytelser](/blogs/regnskap/naturalytelser "Naturalytelser i Norsk Regnskap: Guide til Naturlige Ytelser og Beskatni...'
 slug: fordelsbeskatning
 type: blog

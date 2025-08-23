@@ -1,6 +1,6 @@
 ﻿---
 title: "Q1-Q4 Regnskapskvartaler - Komplett Guide til Kvartalsstyring"
-meta_title: "Q1-Q4 Regnskapskvartaler - Komplett Guide til Kvartalsstyring"
+seoTitle: "Q1-Q4 Regnskapskvartaler - Komplett Guide til Kvartalsstyring"
 meta_description: '**Regnskapskvartaler Q1-Q4** er en grunnleggende organisering av regnskapsåret som deler de tolv månedene inn i fire kvartaler. Denne inndelingen er sentral f...'
 slug: regnskapskvartaler-q1-q4
 type: blog

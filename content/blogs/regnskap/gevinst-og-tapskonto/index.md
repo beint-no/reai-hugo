@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Gevinst- og tapskonto i Regnskap?"
-meta_title: "Hva er Gevinst- og tapskonto i Regnskap?"
+seoTitle: "Hva er Gevinst- og tapskonto i Regnskap?"
 meta_description: '**Gevinst- og tapskonto** er en regnskapskonto som brukes for å bokføre **gevinster** og **tap** ved avhending av [anleggsmidler](/blogs/regnskap/hva-er-anleg...'
 slug: gevinst-og-tapskonto
 type: blog

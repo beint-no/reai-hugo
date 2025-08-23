@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Overkurs?"
-meta_title: "Hva er Overkurs?"
+seoTitle: "Hva er Overkurs?"
 meta_description: '**Overkurs** er det beløpet aksjonærer betaler utover aksjens **[pålydende](/blogs/regnskap/palydende "Hva er Pålydende? Guide til pålydende verdi")** ved ...'
 slug: hva-er-overkurs
 type: blog

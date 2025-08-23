@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er X-rapport?"
-meta_title: "Hva er X-rapport?"
+seoTitle: "Hva er X-rapport?"
 meta_description: 'En **X-rapport** er en mellomrapport som genereres fra et [kassasystem (datakasse)](/blogs/regnskap/hva-er-datakasse "Hva er Datakasse? Komplett Guide til Kassa...'
 slug: hva-er-x-rapport
 type: blog

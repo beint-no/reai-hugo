@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Regnskapsregisteret?"
-meta_title: "Hva er Regnskapsregisteret?"
+seoTitle: "Hva er Regnskapsregisteret?"
 meta_description: '**Regnskapsregisteret** er et offentlig register som administreres av [Brønnøysundregistrene](/blogs/regnskap/bronnoysundregistrene "Hva er Brønnøysundregis...'
 slug: hva-er-regnskapsregisteret
 type: blog

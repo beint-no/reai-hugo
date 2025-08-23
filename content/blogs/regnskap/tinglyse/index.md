@@ -1,6 +1,6 @@
 ﻿---
 title: "Tinglyse i Regnskap"
-meta_title: "Tinglyse i Regnskap"
+seoTitle: "Tinglyse i Regnskap"
 meta_description: '**Tinglyse** betyr å registrere rettigheter og heftelser i eiendom i offentlige registre som grunnboken. I regnskapsføringen er tinglysing viktig for å sikre...'
 slug: tinglyse
 type: blog

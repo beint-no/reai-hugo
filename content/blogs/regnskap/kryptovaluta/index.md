@@ -1,6 +1,6 @@
 ﻿---
 title: "kryptovaluta"
-meta_title: "kryptovaluta"
+seoTitle: "kryptovaluta"
 meta_description: '**Kryptovaluta** er digitale verdienheter basert på kryptografi og distribuert på **blokkjeder** (blockchain). Kryptovalutaer muliggjør **desentraliserte** t...'
 slug: kryptovaluta
 type: blog

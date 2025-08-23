@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Formuesverdi?"
-meta_title: "Hva er Formuesverdi?"
+seoTitle: "Hva er Formuesverdi?"
 meta_description: '**Formuesverdi** er den totale verdien av en persons eller bedrifts eiendeler fratrukket gjeld. Det representerer netto formue og er et sentralt begrep innen [r...'
 slug: hva-er-formuesverdi
 type: blog

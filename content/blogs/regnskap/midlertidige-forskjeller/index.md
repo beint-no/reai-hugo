@@ -1,6 +1,6 @@
 ﻿---
 title: "Midlertidige forskjeller i regnskap og skatt"
-meta_title: "Midlertidige forskjeller i regnskap og skatt"
+seoTitle: "Midlertidige forskjeller i regnskap og skatt"
 meta_description: '**Midlertidige forskjeller** oppstår når den regnskapsmessige verdien av en eiendel eller forpliktelse avviker fra dens skattemessige grunnlag. Slike avvik sk...'
 slug: midlertidige-forskjeller
 type: blog

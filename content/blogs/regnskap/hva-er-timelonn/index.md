@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Timelønn? Komplett Guide til Timebasert Lønning og Regnskapsføring"
-meta_title: "Hva er Timelønn? Komplett Guide til Timebasert Lønning og Regnskapsføring"
+seoTitle: "Hva er Timelønn? Komplett Guide til Timebasert Lønning og Regnskapsføring"
 meta_description: '**Timelønn** er en lønnsform hvor ansatte betales basert på antall timer de faktisk arbeider, i motsetning til fast måneds- eller årslønn. I norsk arbeids...'
 slug: hva-er-timelonn
 type: blog

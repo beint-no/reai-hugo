@@ -1,6 +1,6 @@
 ﻿---
 title: "Debitere"
-meta_title: "Debitere"
+seoTitle: "Debitere"
 meta_description: '**Debitere** er handlingen å registrere et beløp på venstre side (debet) av en konto i [dobbelt bokføring](/blogs/regnskap/hva-er-dobbel-bokforing "Hva er D...'
 slug: debitere
 type: blog

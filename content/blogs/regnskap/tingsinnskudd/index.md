@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Tingsinnskudd?"
-meta_title: "Hva er Tingsinnskudd?"
+seoTitle: "Hva er Tingsinnskudd?"
 meta_description: '**Tingsinnskudd** (også kalt **apportinnskudd** eller **naturalinnskudd**) er innskudd av eiendeler som maskiner, utstyr, eiendom eller andre verdier som egenk...'
 slug: tingsinnskudd
 type: blog

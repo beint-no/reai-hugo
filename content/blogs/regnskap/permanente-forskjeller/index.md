@@ -1,6 +1,6 @@
 ﻿---
 title: "Permanente forskjeller i regnskap og skatt"
-meta_title: "Permanente forskjeller i regnskap og skatt"
+seoTitle: "Permanente forskjeller i regnskap og skatt"
 meta_description: '**Permanente forskjeller** er inntekter eller kostnader som påvirker det regnskapsmessige resultatet, men som **skattemessig aldri utlignes** over tid. Slike f...'
 slug: permanente-forskjeller
 type: blog

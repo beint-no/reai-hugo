@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er MVA-melding?"
-meta_title: "Hva er MVA-melding?"
+seoTitle: "Hva er MVA-melding?"
 meta_description: '**MVA-melding** er den obligatoriske rapporten som [MVA-registrerte virksomheter](/blogs/regnskap/hva-er-avgiftsplikt-mva "Hva er Avgiftsplikt (MVA)? Komplett G...'
 slug: hva-er-mva-melding
 type: blog

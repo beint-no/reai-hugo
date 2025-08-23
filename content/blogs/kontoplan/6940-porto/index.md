@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 6940 - Porto"
-meta_title: "6940-porto"
+seoTitle: "6940-porto"
 meta_description: '**Konto 6940 - Porto** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **portokostnader** for virksomhetens post og forsendel...'
 slug: 6940-porto
 type: blog

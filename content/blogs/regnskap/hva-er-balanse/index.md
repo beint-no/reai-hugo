@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Balanse i Regnskap?"
-meta_title: "Hva er Balanse i Regnskap?"
+seoTitle: "Hva er Balanse i Regnskap?"
 meta_description: '**Balansen** er et av de mest fundamentale og viktige finansielle dokumentene i regnskapsføring. Den gir et øyeblikksbilde av en virksomhets økonomiske still...'
 slug: hva-er-balanse
 type: blog

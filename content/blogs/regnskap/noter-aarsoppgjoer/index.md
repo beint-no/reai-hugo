@@ -1,6 +1,6 @@
 ﻿---
 title: "Noter (årsoppgjør)"
-meta_title: "Noter (årsoppgjør)"
+seoTitle: "Noter (årsoppgjør)"
 meta_description: '**Noter** er en integrert del av [årsregnskapet](/blogs/regnskap/hva-er-aarsregnskap "Hva er Årsregnskap? Innhold, oppbygging og lovkrav i Norge") som gir det...'
 slug: noter-aarsoppgjoer
 type: blog

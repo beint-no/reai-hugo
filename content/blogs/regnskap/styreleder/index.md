@@ -1,6 +1,6 @@
 ﻿---
 title: "Styreleder – Styrets Lederrolle i Norske Aksjeselskaper"
-meta_title: "Styreleder “ Styrets Lederrolle i Norske Aksjeselskaper"
+seoTitle: "Styreleder “ Styrets Lederrolle i Norske Aksjeselskaper"
 meta_description: '![Styreleder](styreleder-image.svg)'
 slug: styreleder
 type: blog

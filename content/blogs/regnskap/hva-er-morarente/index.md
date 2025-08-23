@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er morarente?"
-meta_title: "Hva er morarente?"
+seoTitle: "Hva er morarente?"
 meta_description: '**Morarente** er en type [rente](/blogs/regnskap/rente "Rente “ En komplett guide til rente i regnskap") og den juridiske betegnelsen for lovpålagt rente som...'
 slug: hva-er-morarente
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Selvangivelse"
-meta_title: "Selvangivelse"
+seoTitle: "Selvangivelse"
 meta_description: '**Selvangivelse** er den offisielle skattemeldingen som bedrifter og privatpersoner sender til Skatteetaten for å rapportere inntekter, fradrag og beregne skyl...'
 slug: selvangivelse
 type: blog

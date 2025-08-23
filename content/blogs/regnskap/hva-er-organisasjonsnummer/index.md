@@ -1,6 +1,6 @@
 ﻿---
 title: "hva-er-organisasjonsnummer"
-meta_title: "hva-er-organisasjonsnummer"
+seoTitle: "hva-er-organisasjonsnummer"
 meta_description: 'Et **organisasjonsnummer** er en unik ni-sifret identifikator som tildeles alle juridiske enheter i Norge. Dette nummeret er fundamentalt for norsk regnskap og ...'
 slug: hva-er-organisasjonsnummer
 type: blog

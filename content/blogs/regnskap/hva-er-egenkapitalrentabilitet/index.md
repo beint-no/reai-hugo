@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er Egenkapitalrentabilitet?"
-meta_title: "Hva er Egenkapitalrentabilitet?"
+seoTitle: "Hva er Egenkapitalrentabilitet?"
 meta_description: '**Egenkapitalrentabilitet** (ROE - Return on Equity) er et av de viktigste nøkkeltallene for å måle hvor effektivt et selskap bruker eiernes kapital til å g...'
 slug: hva-er-egenkapitalrentabilitet
 type: blog

@@ -1,6 +1,6 @@
 ﻿---
 title: "Inngangsverdi"
-meta_title: "Inngangsverdi"
+seoTitle: "Inngangsverdi"
 meta_description: 'En **inngangsverdi** er den samlede **kostprisen** for en eiendel ved anskaffelsestidspunktet. Denne verdien danner grunnlag for avskrivninger, gevinst- og taps...'
 slug: inngangsverdi
 type: blog

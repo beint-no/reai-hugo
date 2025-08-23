@@ -1,6 +1,6 @@
 ﻿---
 title: "Mva-loven"
-meta_title: "Mva-loven"
+seoTitle: "Mva-loven"
 meta_description: '**Mva-loven** (merverdiavgiftsloven) er det sentrale regelverket som regulerer merverdiavgift i Norge. Loven fastsetter reglene for når bedrifter må registrer...'
 slug: mva-loven
 type: blog

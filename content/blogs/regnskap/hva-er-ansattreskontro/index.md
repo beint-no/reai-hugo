@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er ansattreskontro?"
-meta_title: "Hva er ansattreskontro?"
+seoTitle: "Hva er ansattreskontro?"
 meta_description: '**Ansattreskontro** er et sentralt element i norsk lønnsbuchholderi som fungerer som en individuell konto for hver ansatt i bedriften. Den registrerer alle øk...'
 slug: hva-er-ansattreskontro
 type: blog

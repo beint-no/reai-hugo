@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er arbeidsgiveravgift?"
-meta_title: "Hva er arbeidsgiveravgift?"
+seoTitle: "Hva er arbeidsgiveravgift?"
 meta_description: '**Arbeidsgiveravgift** er en avgift som arbeidsgivere i Norge må betale til staten basert på [**lønn**](/blogs/regnskap/hva-er-lonn "Hva er Lønn i Regnskap?...'
 slug: hva-er-arbeidsgiveravgift
 type: blog

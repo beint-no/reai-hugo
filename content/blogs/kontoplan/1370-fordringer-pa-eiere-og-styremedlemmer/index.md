@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 1370 - Fordringer på eiere og styremedlemmer"
-meta_title: "1370-fordringer-pa-eiere-og-styremedlemmer"
+seoTitle: "1370-fordringer-pa-eiere-og-styremedlemmer"
 meta_description: '**Konto 1370 - Fordringer på eiere og styremedlemmer** er en konto i Norsk Standard Kontoplan som brukes til å registrere **lån og forskudd til eiere og styr...'
 slug: 1370-fordringer-pa-eiere-og-styremedlemmer
 type: blog

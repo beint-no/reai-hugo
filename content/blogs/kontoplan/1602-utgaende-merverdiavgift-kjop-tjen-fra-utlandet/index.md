@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 1602 - Utgående merverdiavgift kjøp tjenester fra utlandet"
-meta_title: "1602-utgaende-merverdiavgift-kjop-tjen-fra-utlandet"
+seoTitle: "1602-utgaende-merverdiavgift-kjop-tjen-fra-utlandet"
 meta_description: '**Konto 1602 - Utgående merverdiavgift kjøp tjenester fra utlandet** er en konto i Norsk Standard Kontoplan som brukes til å registrere **utgående merverdia...'
 slug: 1602-utgaende-merverdiavgift-kjop-tjen-fra-utlandet
 type: blog

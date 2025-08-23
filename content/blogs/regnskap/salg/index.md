@@ -1,6 +1,6 @@
 ﻿---
 title: "Salg – Komplett Guide til Salg i Norsk Regnskap"
-meta_title: "Salg “ Komplett Guide til Salg i Norsk Regnskap"
+seoTitle: "Salg “ Komplett Guide til Salg i Norsk Regnskap"
 meta_description: '**Salg** er en transaksjon hvor varer eller tjenester overføres fra selger til kjøper, ofte mot betaling eller forpliktelse til betaling. I norsk regnskap er ...'
 slug: salg
 type: blog

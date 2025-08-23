@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er en lagerrapport?"
-meta_title: "Hva er en lagerrapport?"
+seoTitle: "Hva er en lagerrapport?"
 meta_description: 'En **lagerrapport** er et systematisk dokument som gir en detaljert oversikt over bedriftens lagerbeholdning på et gitt tidspunkt. Den fungerer som et kritisk ...'
 slug: hva-er-lagerrapport
 type: blog

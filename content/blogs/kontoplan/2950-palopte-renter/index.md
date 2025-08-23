@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 2950 - Påløpte renter"
-meta_title: "2950-palopte-renter"
+seoTitle: "2950-palopte-renter"
 meta_description: '**Konto 2950 - Påløpte renter** er en konto i Norsk Standard Kontoplan som brukes til å registrere **påløpte renteutgifter**.'
 slug: 2950-palopte-renter
 type: blog

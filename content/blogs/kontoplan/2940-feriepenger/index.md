@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 2940 - Feriepenger"
-meta_title: "2940-feriepenger"
+seoTitle: "2940-feriepenger"
 meta_description: '**Konto 2940 - Feriepenger** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **opptjente feriepenger** som en del av **kortsi...'
 slug: 2940-feriepenger
 type: blog

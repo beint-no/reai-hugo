@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 1750 - Påløpte leier"
-meta_title: "1750-palopte-leier"
+seoTitle: "1750-palopte-leier"
 meta_description: '**Konto 1750 - Påløpte leier** er en konto i Norsk Standard Kontoplan som brukes til å registrere **påløpte leiekostnader** for leie av lokaler, utstyr og ...'
 slug: 1750-palopte-leier
 type: blog

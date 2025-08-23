@@ -1,6 +1,6 @@
 ﻿---
 title: "Debetkort"
-meta_title: "Debetkort"
+seoTitle: "Debetkort"
 meta_description: '**Debetkort** er et betalingskort som gir innehaveren mulighet til å trekke midler direkte fra sin bankkonto ved betaling av varer og tjenester. I denne artikk...'
 slug: debetkort
 type: blog

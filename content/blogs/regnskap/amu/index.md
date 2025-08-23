@@ -1,6 +1,6 @@
 ﻿---
 title: "Arbeidsmiljøutvalg (AMU)"
-meta_title: "Arbeidsmiljøutvalg (AMU)"
+seoTitle: "Arbeidsmiljøutvalg (AMU)"
 meta_description: '**AMU** (Arbeidsmiljøutvalg) er et obligatorisk samarbeidsorgan i virksomheter for å sikre et trygt og forsvarlig arbeidsmiljø i henhold til **arbeidsmiljøl...'
 slug: amu
 type: blog

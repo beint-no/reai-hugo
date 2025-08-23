@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er forsinkelsesgebyr?"
-meta_title: "Hva er forsinkelsesgebyr?"
+seoTitle: "Hva er forsinkelsesgebyr?"
 meta_description: '**Forsinkelsesgebyr** er en kompensasjon som en kreditor kan kreve når en debitor ikke betaler sin gjeld innen avtalt forfallsdato. Dette gebyret, også kjent ...'
 slug: hva-er-forsinkelsesgebyr
 type: blog

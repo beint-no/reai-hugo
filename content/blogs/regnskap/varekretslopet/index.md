@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er varekretsløpet?"
-meta_title: "Hva er varekretsløpet?"
+seoTitle: "Hva er varekretsløpet?"
 meta_description: '**Varekretsløpet** beskriver den helhetlige prosessen varer gjennomgår i en virksomhet, fra anskaffelse til salg og tilbakeføring av kapital. Prosessen er se...'
 slug: varekretslopet
 type: blog

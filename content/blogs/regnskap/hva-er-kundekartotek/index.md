@@ -1,6 +1,6 @@
 ﻿---
 title: "Hva er kundekartotek?"
-meta_title: "Hva er kundekartotek?"
+seoTitle: "Hva er kundekartotek?"
 meta_description: 'Et **kundekartotek** er en systematisk samling av informasjon om bedriftens kunder, organisert på en måte som gjør det enkelt å finne, oppdatere og bruke ku...'
 slug: hva-er-kundekartotek
 type: blog
