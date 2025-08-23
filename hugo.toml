@@ -1,8 +1,12 @@
 baseURL = 'https://reai.no/'
 languageCode = 'nb-NO'
 title = 'ReAI'
+disableKinds = ["taxonomy", "term", "RSS"]
+enableRobotsTXT = true
+enableGitInfo = true # Use Git/file times for <lastmod> in pages and sitemap
 
-disableKinds = ["taxonomy", "term"]
+[minify]
+  minifyOutput = true
 
 [markup]
   [markup.goldmark]
