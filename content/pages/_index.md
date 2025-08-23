@@ -1,3 +1,0 @@
----
-title: "Kurs og guider"
----

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="260" viewBox="0 0 800 260" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="800" height="260" fill="#F8FAFC"/>
+  <g font-family="Inter, Arial" font-size="14" fill="#1F2937">
+    <rect x="40" y="40" width="160" height="60" rx="10" fill="#DBEAFE"/>
+    <text x="60" y="75">Forberedelser</text>
+    <rect x="260" y="40" width="160" height="60" rx="10" fill="#D1FAE5"/>
+    <text x="300" y="75">Avstemming</text>
+    <rect x="480" y="40" width="160" height="60" rx="10" fill="#FEF3C7"/>
+    <text x="520" y="75">Avskrivninger</text>
+    <rect x="160" y="150" width="200" height="60" rx="10" fill="#FDE68A"/>
+    <text x="200" y="185">Skatt</text>
+    <rect x="420" y="150" width="220" height="60" rx="10" fill="#E5E7EB"/>
+    <text x="450" y="185">Rapportering &amp; noter</text>
+  </g>
+  <g stroke="#94A3B8" stroke-width="2" fill="none" marker-end="url(#a)">
+    <defs>
+      <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+        <path d="M 0 0 L 10 5 L 0 10 z" fill="#94A3B8"/>
+      </marker>
+    </defs>
+    <path d="M200 70 L260 70"/>
+    <path d="M420 70 L480 70"/>
+    <path d="M340 100 L260 150"/>
+    <path d="M560 100 L530 150"/>
+    <path d="M360 180 L420 180"/>
+  </g>
+</svg>
